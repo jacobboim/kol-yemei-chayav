@@ -40,9 +40,9 @@ export default function DailyReader({ user, onSignIn, onSignUp, onSignOut }) {
   const {
     currentSiman,
     currentSeifPair,
-    completed,
-    isSeifDone,
-    setSeifsDone,
+    doneSiman,
+    isSimanDone,
+    setSimanDone,
     goToSiman,
     totalDone,
   } = useProgress(chelekId, chelek.simanCount, user?.id);
@@ -70,13 +70,7 @@ export default function DailyReader({ user, onSignIn, onSignUp, onSignOut }) {
     currentSeifPair >= currentSimanSeifCount;
   const atLastPairOfSiman =
     currentSimanSeifCount > 0 && currentSeifPair + 2 > currentSimanSeifCount;
-  const allSimanSeifs =
-    currentSimanSeifCount > 0
-      ? Array.from({ length: currentSimanSeifCount }, (_, i) => i + 1)
-      : [];
-  const simanDone =
-    allSimanSeifs.length > 0 &&
-    allSimanSeifs.every((seif) => isSeifDone(currentSiman, seif));
+  const simanDone = isSimanDone(currentSiman);
 
   function getLastPairStart(count) {
     if (!count || count < 1) return 1;
@@ -128,8 +122,7 @@ export default function DailyReader({ user, onSignIn, onSignUp, onSignOut }) {
   }
 
   function toggleSimanDone() {
-    if (!allSimanSeifs.length) return;
-    setSeifsDone(currentSiman, allSimanSeifs, !simanDone);
+    setSimanDone(currentSiman, !simanDone);
   }
 
   const seifAData = data?.[seifA];
@@ -352,7 +345,7 @@ export default function DailyReader({ user, onSignIn, onSignUp, onSignOut }) {
             </div>
             <CalendarView
               simanCount={chelek.simanCount}
-              completed={completed}
+              doneSiman={doneSiman}
               currentSiman={currentSiman}
               chelekLabel={chelek.label}
               onSelectSiman={(s) => {
@@ -409,7 +402,7 @@ export default function DailyReader({ user, onSignIn, onSignUp, onSignOut }) {
             >
               ← Prev 2 se'ifim
             </NavButton>
-            {atLastPairOfSiman && (
+            {(atLastPairOfSiman || simanDone) && (
               <NavButton onClick={toggleSimanDone} active={simanDone}>
                 {simanDone ? "✓ Siman Done" : "Mark Siman Done"}
               </NavButton>
@@ -550,7 +543,7 @@ export default function DailyReader({ user, onSignIn, onSignUp, onSignOut }) {
               borderTop: "0.5px solid var(--border)",
             }}
           >
-            {atLastPairOfSiman && (
+            {(atLastPairOfSiman || simanDone) && (
               <button
                 onClick={toggleSimanDone}
                 style={{

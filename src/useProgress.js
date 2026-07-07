@@ -15,7 +15,21 @@ function saveProgress(data) {
 }
 
 function defaultChelek() {
-  return { currentSiman: 1, currentSeifPair: 1, completed: {}, updatedAt: 0 };
+  return { currentSiman: 1, currentSeifPair: 1, completed: {}, doneSiman: {}, updatedAt: 0 };
+}
+
+// Pack doneSiman into completed._done for Supabase storage (no schema change needed)
+function packForSupabase(chelekProgress) {
+  return {
+    ...chelekProgress.completed,
+    _done: chelekProgress.doneSiman || {},
+  };
+}
+
+// Unpack _done out of the completed JSONB field
+function unpackFromSupabase(rawCompleted) {
+  const { _done, ...seifsDone } = rawCompleted || {};
+  return { completed: seifsDone, doneSiman: _done || {} };
 }
 
 async function loadFromSupabase(userId, chelekId) {
@@ -27,10 +41,12 @@ async function loadFromSupabase(userId, chelekId) {
     .eq('chelek_id', chelekId)
     .single();
   if (error || !data) return null;
+  const { completed, doneSiman } = unpackFromSupabase(data.completed);
   return {
     currentSiman: data.current_siman,
     currentSeifPair: data.current_seif_pair,
-    completed: data.completed,
+    completed,
+    doneSiman,
     updatedAt: data.updated_at ? new Date(data.updated_at).getTime() : 0,
   };
 }
@@ -42,32 +58,27 @@ async function saveToSupabase(userId, chelekId, chelekProgress) {
     chelek_id: chelekId,
     current_siman: chelekProgress.currentSiman,
     current_seif_pair: chelekProgress.currentSeifPair,
-    completed: chelekProgress.completed,
+    completed: packForSupabase(chelekProgress),
   }, { onConflict: 'user_id,chelek_id' });
 }
 
-// progress shape: { [chelekId]: { currentSiman, currentSeifPair, completed: { [siman]: [seif,...] } } }
 export function useProgress(chelekId, simanCount, userId) {
   const [progress, setProgress] = useState(loadProgress);
   const syncTimer = useRef(null);
 
-  // When user logs in, pull from Supabase and use last-write-wins
   useEffect(() => {
     if (!userId || !chelekId) return;
     loadFromSupabase(userId, chelekId).then(remote => {
       setProgress(prev => {
         const local = prev[chelekId] || defaultChelek();
         if (!remote) {
-          // No remote record yet — push local up to Supabase
           saveToSupabase(userId, chelekId, local);
           return prev;
         }
         if ((local.updatedAt || 0) > (remote.updatedAt || 0)) {
-          // Local is newer (e.g. user unchecked before debounce saved) — push it up
           saveToSupabase(userId, chelekId, local);
           return prev;
         }
-        // Remote is newer or same age — use it as source of truth
         const next = { ...prev, [chelekId]: remote };
         saveProgress(next);
         return next;
@@ -92,42 +103,10 @@ export function useProgress(chelekId, simanCount, userId) {
     });
   }
 
-  function markSeifsDone(siman, ...seifs) {
+  function setSimanDone(siman, done) {
     update(cp => {
-      const completed = { ...cp.completed };
-      if (!completed[siman]) completed[siman] = [];
-
-      const validSeifs = seifs.filter(
-        (seif) => Number.isInteger(seif) && seif > 0,
-      );
-      for (const seif of validSeifs) {
-        if (!completed[siman].includes(seif)) completed[siman].push(seif);
-      }
-
-      return { ...cp, completed };
-    });
-  }
-
-  function setSeifsDone(siman, seifs, done) {
-    update(cp => {
-      const completed = { ...cp.completed };
-      if (!completed[siman]) completed[siman] = [];
-
-      const validSeifs = (seifs || []).filter(
-        (seif) => Number.isInteger(seif) && seif > 0,
-      );
-
-      if (done) {
-        for (const seif of validSeifs) {
-          if (!completed[siman].includes(seif)) completed[siman].push(seif);
-        }
-      } else {
-        completed[siman] = completed[siman].filter(
-          (seif) => !validSeifs.includes(seif),
-        );
-      }
-
-      return { ...cp, completed };
+      const doneSiman = { ...cp.doneSiman, [siman]: done };
+      return { ...cp, doneSiman };
     });
   }
 
@@ -135,20 +114,19 @@ export function useProgress(chelekId, simanCount, userId) {
     update(cp => ({ ...cp, currentSiman: siman, currentSeifPair: seifPair || 1 }));
   }
 
-  function isSeifDone(siman, seif) {
-    return !!(chelekProgress.completed[siman]?.includes(seif));
+  function isSimanDone(siman) {
+    return chelekProgress.doneSiman?.[siman] === true;
   }
 
-  const totalDone = Object.values(chelekProgress.completed).reduce((sum, arr) => sum + arr.length, 0);
+  const totalDone = Object.values(chelekProgress.doneSiman || {}).filter(Boolean).length;
 
   return {
     currentSiman: chelekProgress.currentSiman,
     currentSeifPair: chelekProgress.currentSeifPair,
-    completed: chelekProgress.completed,
-    markSeifsDone,
-    setSeifsDone,
+    doneSiman: chelekProgress.doneSiman || {},
+    setSimanDone,
     goToSiman,
-    isSeifDone,
+    isSimanDone,
     totalDone,
   };
 }

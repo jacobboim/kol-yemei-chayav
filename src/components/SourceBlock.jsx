@@ -79,22 +79,27 @@ export default function SourceBlock({ source, layout }) {
 
   return (
     <div>
-      <Section label="Text">
-        <p className="heb-text">{hebrewText}</p>
-      </Section>
       {!isBeerHaGolah && (
         <>
-          <Section label="Translation">
-            <p style={{ fontSize: 14, lineHeight: 1.75, color: "var(--ink-muted)" }}>
-              {translation || "—"}
-            </p>
-          </Section>
           <Section label="Summary">
             <p style={{ fontSize: 13, lineHeight: 1.75, color: "var(--ink-muted)" }}>
               {summary || ""}
             </p>
           </Section>
+          <Section label="Text">
+            <p className="heb-text">{hebrewText}</p>
+          </Section>
+          <Section label="Translation">
+            <p style={{ fontSize: 14, lineHeight: 1.75, color: "var(--ink-muted)" }}>
+              {translation || "—"}
+            </p>
+          </Section>
         </>
+      )}
+      {isBeerHaGolah && (
+        <Section label="Text">
+          <p className="heb-text">{hebrewText}</p>
+        </Section>
       )}
     </div>
   );

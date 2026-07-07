@@ -1,0 +1,90 @@
+{
+  "chelek": "OC",
+  "siman": 5,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-07T15:27:58.837Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "כוונת הברכות. ובו סעיף אחד:יכוין בברכות פירוש המלות כשיזכיר השם יכוין פירוש קריאתו באדנות שהוא אדון הכל ויכוין בכתיבתו ביו\"ד ה\"א שהיה והוה ויהיה ובהזכירו אלהים יכוין שהוא תקיף בעל היכולת ובעל הכחות כולם:",
+      "en": "[Laws Regarding The Proper] Intent [When Reciting] The Blessings.  Containing 1 Se'if:One should have in mind the meaning of the words when reciting blessings.  When articulating the Name (ie. י-ה-ו-ה), one should have in mind the meaning of the Name as it is pronounced - Adon-ai (א-ד-ו-נ-י): that He is Lord over all. And one should have in mind [the meaning of the Name] as it is spelled with a Yud-Hei (ie. י-ה-ו-ה) that He Was (ה-י-ה), Is (ה-ו-ה), and Will Be (י-ה-י-ה).  And when articulating the Name Elo-him (א-ל-ה-י-ם), have in mind that He is Strong, Omnipotent, and Master of all powers.",
+      "ref": "Shulchan Arukh, Orach Chayim 5:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "טור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 5:1"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "ביו״ד עמ״א בתשובת ר״מ מלובלין סי׳ פ״ג לעולם יקרא א׳ בשב״א נע דלית בחולם נון בקמץ וסימנך זה שמי לעולם כנקודת לעולם ובתשובה מהר״ר שבתי סופר מפרעמסלא שחזר מהר״מ ז״ל. והסכים לקרות אלף בחטף פתח ושכן הסכימו בעל ע״מ ושל״ה וברכת הזבח א״ר ב׳ והנה הפרש יש בין חטף פתח שנקודה א׳ שב״א ופתח העיקר השב״א נע ולהרחבת אות גרוניות כתובה הפתח משא״כ פתח חטף העיקר הפתח והשב״א שלא נקרא פתח גמור כ״א לחטוף קצת ואף דבלא״ה ת״ק היא מ״מ חוטפין יותר. והיוד נח נראה הוא וצריך להדגישה והנה שם אלקים אלקיך וכדומה מצינו בתורה נקוד בחטף סגול ולא ראיתיו כעת איך קורין אם בשב״א העיקר או סגול העיקר ואי״ה יבואר מזה: כתב א״ר שם יכוין בשילוב הויה ואדני ביום תחלה הויה דכורא ובלילה תחלה אדני נוקבא:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 5:1"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] יכוין בברכות וכו'. כתב בדרכי משה שצריך ליזהר שלא לדלג שום תיבה כאילו מונה מעות, וכן לא יבליעם אלא צריך להוציא מפיו, עד כאן. וכתב ארחות חיים דלאו דוקא תיבה דהוא הדין אות אחת הן מאותיות הנכתבות הן מאותיות הנמשכות מהתנועות גדולות, עד כאן. כתב בספר צידה לדרך דף י' דאף על פי שאמרו חז\"ל מצוות אין צריכות כוונה היינו במצוות המעשיות כמו סוכה וכיוצא בה אבל תפילה עיקרה בלב, ובעבור שלב האדם הומה אחר ההבל סדרו לנו לאומרו בפה ולשמרה בלב הלא תראו שתיקנו בסוף יהיו לרצון והגיון לבי וכו'. ואם לבו במחשבות והוא כעוף המצפצף הלא יבוש האדם לאמור ליוצרו כך. וזהו אמר אסף נכספה גם כלתה נפשי לחצרות ה', וסמך ליה גם צפור מצאה בית, ואין ענין לשון זה לזה. אלא שמרמז שאם אינו מכוין הוי כצפור המצפצף כתב בספר ווי העמודים תיקנתי תיקון בקהילה קדושה ורנקבורט שימצאו אסופות אסופות שילמדו התפילות מכל השנה ופיוטים וסליחות בפירוש המילות לפחות:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 5:1"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "ביו\"ד ה\"א. אבל כשכתוב באל\"ף דל\"ת אין לכוין אלא שהוא אדון הכל וצריך לקרותו בפת\"ח וקמ\"ץ תחת הנו\"ן וכשנכתב ביו\"ד ה\"א מקצתן קורין בפת\"ח ומקצתן קורין נוטין לציר\"י וכן מנהג האשכנזי' (ב\"ח) ובתשובת ר\"מ מלובלין אי' שגם כשנכתב באל\"ף דל\"ת יקרא בענין שלא תהא הברת הפת\"ח ניכרת ע\"ש בשם ציוני:",
+          "en": "",
+          "ref": "Magen Avraham 5:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ביו\"ד ה\"א.  אבל כשנכתב באלף דל\"ת אין לכוין אלא שהוא אדון הכל וצריך לקרותו בפתח ובקמץ תחת הנו\"ן. וכשנכתב י' ה\"א מקצתן קורין בפתח ומקצתן קורין בצירי וכן מנהג אשכנזים. ב\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 5:1"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) פירוש המלות - כמו שאחז\"ל [ברכות מ\"ז] שלא יזרוק הברכה מפיו אלא יכוין בעת האמירה ויברך בנחת וז\"ל ס\"ח סי' מ\"ו כשהוא נוטל ידיו או שמברך על הפירות או על המצות השגורות בפי כל אדם יכוין לבו לשם בוראו אשר הפליא חסדו עמו ונתן לו הפירות או הלחם להנות מהם וציוהו על המצות ולא יעשה כאדם העושה דבר במנהג ומוציא דברים מפיו בלא הגיון הלב ועל דבר זה חרה אף ה' בעמו ושלח לנו ביד ישעיה ואמר יען כי ניגש העם הזה בפיו ובשפתיו כבדוני ולבו רחק ממני ועי\"ש עוד מה שהאריך בגודל העונש עבור זה:",
+          "en": "The meaning of the words - like the Rabbis say (Berakhot 47) that one should not \"throw\" a blessing from his mouth, rather he should concentrate when saying it and make the blessing calmly. And this is the language used in the Sefer Chasidim siman (chapter) 46: When one washes his hands, or recites a blessing on a fruit or on [any of the] mitzvot which are constantly in the mouth of people (ie. which they are accustomed to say), he should direct his heart towards his Creator, Who does wondrous kindness to him, and gave him the fruit or bread to benefit from, and commanded him to perform the mitzvot. And he should not act like an individual who does things out of habit and lets words leave his mouth without any thought.   Regarding this Hashem becomes angry at his people and he sent to us in the hand of Isaiah and said (Isaiah 29:13) \"Since this people draw near, and with their mouth and with their lips do honour me, but have removed their heart far from me\" And see further there (ie. in Sefer Chasidim) where he speaks at length about the great punishment regarding this.",
+          "ref": "Mishnah Berurah 5:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

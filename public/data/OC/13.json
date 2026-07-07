@@ -1,0 +1,206 @@
+{
+  "chelek": "OC",
+  "siman": 13,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 3,
+  "fetchedAt": "2026-07-07T15:30:16.026Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני ציצית בשבת. ובו ג סעיפים:ארבע ציציות מעכבין זה את זה שכל זמן שאין בה כל הארבע אינה מצוייצת כהלכתה והיוצא בה לרשות הרבים בשבת חייב חטאת:  (עיין לקמן סי' ש\"א סעיף ל\"ח):",
+      "en": "Having valid Tzitzit on all four corners is an essential requirement: one missing invalidates the whole and the entire four-cornered garment is regarded as not having valid Tzitzit at all. So, someone who goes out (wearing such a garment) into a Public Area on Shabbat would be liable to bring a Sin Offering. (See also Chap. 301 para. 38)",
+      "ref": "Shulchan Arukh, Orach Chayim 13:1"
+    },
+    {
+      "seif": 2,
+      "he": "אם היא מצוייצת כהלכתה מותר לצאת בה לרשות הרבים בין טלית קטן בין טלית גדול: אפילו בזמן הזה שאין לנו תכלת רק שלא יהא מונח לו על כתפיו (דברי ר\"ן ור\"י פ' חבית דף ק\"ח ע\"ב) ומוקמינן לטלית אחזקתיה שהוא מצוייץ כהלכתו ואין צריך לבדקו קודם שיצא בו (דברי תשובת הרא\"ש כלל ב' ותשובת הרמב\"ן סימן רט\"ו וכל בו בשם הרמב\"ם פ' י\"ט מהלכות שבת):",
+      "en": "If the garment is properly fitted with valid Tzitzit, then it is permitted to go out into a Public Area wearing either a Tallit Katan (small) or a Tallit Gadol (large), even at this time when we do not have the Techeilet (blue-dyed thread). [This permission does not apply if he has simply put the Tallit onto his shoulders]. [We presume the Tallit to be properly fitted with valid Tzitzit, so it is not necessary to check it before going out(into a Public Area on Shabbat)]",
+      "ref": "Shulchan Arukh, Orach Chayim 13:2"
+    },
+    {
+      "seif": 3,
+      "he": "אם נודע לו בשבת כשהוא בכרמלית שהטלית שעליו פסול לא יסירנו מעליו עד שיגיע לביתו דגדול כבוד הבריות: הגה אפילו טלית קטן שתחת בגדיו א\"צ לפשוט והוא הדין אם נפסק אחד מן הציציות ומתבייש לישב בלא טלית דיוכל ללובשו בלא ברכה מכח כבוד הבריות (ב\"י בשם התשובה) ודוקא בשבת דאסור לעשות ציצית אבל בחול כהאי גוונא אסור (מרדכי פ\"ק דף צ\"א):",
+      "en": "If, while he is in a Carmelit Area on Shabbat, a person discovers that the Tallit he is wearing is invalid, he should not take it off until he has reached his home, because the respect due to other people is greater. Rema: And even a tallit katan worn under one's clothing does not need to be removed and this is the law if one of the tzitzit has become invalid and one is ashamed to sit without a tallit may wear it without a blessing because of the honor of the public.",
+      "ref": "Shulchan Arukh, Orach Chayim 13:3"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מנחות כ\"ח",
+          "en": "1, 1 Mishnah Menahot 28a",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 13:1"
+        },
+        "2": {
+          "he": "שם ל\"ח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 13:2"
+        },
+        "3": {
+          "he": "תשובו' הרא\"ש כלל כ' והמרדכי בפ' כ\"כ דשבת",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 13:3"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "מותר עמ״א והוא מר״מ ז״ל פי״ט שבת ה״ך ועיין מ״מ שם שיש שסובר טעם היתר ציצית בשבת ברה״ר משום דחיית עשה לל״ת אמרו הר״מ שאין עשה שאין בה כרת דוחה שבת ומשמע שאלו היה כרת היה דוחה שבת והא שבת עשה ול״ת שיש כרת אלא רבותא קאמר דאין כרת אפילו ל״ת שיש כרת אפי׳ ל״ת לבד אין דוחה ע׳ מהרש״א ומהרש״ל ביבמות בשיטה עליה ותוס׳ זבחים ל״ג ב׳ ד״ה לענין מלקות ובס׳ ש״ה הארכתי:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 13:1"
+        },
+        "2": {
+          "he": "קטן עמ״א אין בידי כעת תשובת רמ״א וטלית קטן י״ל אשמועינן דל״ת דלאו עיטוף הוא וא״צ ציצית ע׳ סימן א׳ קמ״ל. ודע טליתות שאר מינין להמחבר בסי׳ ט׳ ס״א דרבנן אפ״ה יוצאין כיון דמדרבנן חייבים נוי בגד הם והנך רואה בסימן יו״ד ס״ז בספק תורה דעכ״פ מדרבנן חייבת (אף לר״מ פ״ט מט״מ) גרע טפי ואין יוצאין לרה״ר ומשם משמע כ״ש טלית שאין בו שיעור דאסור דציצית חשיבי ויעשה בבגד אחר ולא בטילי: והוי יודע שאני מסופק אם היוצא בטלית כלאים בשבת די״ל דחייב כרת וסקילה שאין דרך מלבוש דאסור הוא ועיין רש״י שבת קל״ט ב׳ ד״ה חייב דאין מצוייצת כלל לבושיה הוא והוכרח לזה דאל״כ לא תקשה מידי דילמא חייב משום הטלית אלא מדאמר רב הונא בטלית שאין מצוייצת כהלכתה הא שאין מצוייצת כלל פטור וא״ל דילמא רבותא שאין כהלכתה ול״ת לר׳ ישמעאל קיים ג׳ מצות וידחה עשה לל״ת (דו״א) והתם הטעם כר״י שבמרדכי עט״ז ומ״א ח׳ דבשבת הותר מ״ה עכ״פ מה שאין כן בכלאים ועמ״ש בפתיחה והבן:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 13:2"
+        },
+        "3": {
+          "he": "תכלת עמ״א לכאורה קושטא קאמר דאין מעכב וד׳ חוטין צריכין מ״ה אף עתה ואה״נ דאי מעכב בטילים הם לבגד כמ״ש הרא״ש ז״ל בתשובה כלל ב׳ דכה״ג כ״ע מודים דהויין בטילי דל״ש חוטי ציצית חשיבי כה״ג:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 13:3"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "חייב עט״ז הנה האדון ז״ל דבר מלות קצרות וארוכים הם לדעתי העניה: כי הב״י כ״כ בשם התוס׳ ורמב״ם בש״א וכאן לא זכר מזה ותוס׳ הם בשבת קל״ט ב׳ ד״ה ציצית דחשיבי שיעשה רביעית והר״מ ז״ל בפי״ט משבת ה״ך הוסיף דאפילו ג׳ פסולים כל שיש חוטין שראוין להשלים לא בטילי דחוטי ציצית חשיבי הם (ורש״י בשבת שם ד״ה חשיבי ומנחות ל״ז ב׳ ד״ה דרב הונא מבואר שם דאפילו כולהו פסולים אין בטלים י״ל שזה שדקדק שם רש״י ז״ל עשויים בפסול והחוטין כשרים ויעשה בהכשר וגם בשבת דפירוש תכלת דוקא היינו לר״י ד׳ מצות ושאין מצוייצת כהלכתה כולה בפסול היינו דאי גרדם ולא נשאר כ״ע אפ״ה תכלת חשיבי ויתיר ויקשור עט״ז י״ב ג׳ באופן שי״ל דרש״י ותוס׳ לא פליגי והבן ובביאורי לטור הארכתי) ולפ״ז נפסקו כל ד׳ ציצית ולא נשאר כ״ע דבטילים הם אע״פ שאין מנוי הבגד מידי דהוה אחוטין הבולטין מבגד עיין ר״מ ה׳ שבת שם וא״ל דהא מתירין ויקשור דלא חשיבי כולי האי האידנא דלית תכלת וציצית מנויין ועא״ר א׳ ולמ״ש א״ש. ועם זה יתיישב בסי׳ יו״ד ס״ז בפחות חציה אין יוצאין בשבת דחיטים חשיבי הם ובמ״א יבואר עוד בזה ומ״ש המ״א י״ב ז׳ כ״ע מגדיל א״י היינו ביש ג׳ ציצית כשירים מיירי התם דלא בטילי והה״נ אם כולם כ״ע מגדיל יוצא בשבת ממ״נ כדכתיבנא. ועמ״א אות א׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 13:1"
+        },
+        "2": {
+          "he": "על כתפיו עט״ז ועמ״א אות ד׳ וקמ״ל דל״ת טלית של מצוה אפילו אין דרך מלבוש בכך בטלית של מצוה הוי דרך מלבוש ושרי קמ״ל: או יאמר דל״ת דציצית משוי הוא אלא בשבת שרי דעשה דחי לל״ת ע׳ ר״מ פי״ט משנת ה״ך ובמ״מ שם ואישתרי לגמרי אפילו בטלית על כתיפו קמ״ל דאסור חדא דציצית א״א בענין אחר משא״כ הטלית משוי לא אישתרי ועוד דציצית אין דוחין שבת והא דשרי לצאת ברה״ר הוא דהם מנוי הבגד ותכסיסיו כמ״ש הר״מ ז״ל שם דמה״ט מותר אף בלילה ועמ״א אות א׳ בזה ושם יבואר אי״ה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 13:2"
+        },
+        "3": {
+          "he": "וא״צ לבודקו עט״ז ואזיל לשיטתיה בסימן ח׳ ס״ט אות ח׳ שם משום חומר לא תשא ואם יש לו הרבה בגדים א״צ לבדוק מדינא רק אחת ועמ״א שם י״א וכאן ה׳ ומ״ש מי שקורין לתורה כו׳ היינו אפילו לברך עליו רשאי בלא בדיקה דמדינא שרי רק חומר לא תשא וטורח הציבור לא החמירו ומ״ש י״ד רע״ט בט״ז אות ב׳ הביא גמרא דיומא. וא״ח סימן ח׳ אות יו״ד בשם מ״מ ט״ו שראה ממהר״ש שהיה בודק טלית בכל פעם שקורא לס״ת יע״ש ועכשיו אין נזהרין כט״ז:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 13:3"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] חייב חטאת וכו'. דהוי משוי ואין לומר דבטל לגבי בגד דחשיבי הם שדעתו להשלים עליהם בית יוסף, ודקדק הט\"ז דאם נפסקו כל ד' ציצית ולא נשתייר בהם כדי עניבה דודאי יעשה אחרים, בטלים הם לגבי בגד ומותר לצאת בשבת, עד כאן, ולפי מה שכתבתי בשמו בריש סימן י\"ב אם כן אפשר דעדיין צריך להו לקושרן אחר הורדתן מבגד כחוטי ציצית אחרים וצריך עיון, גם מלבוש סימן ש\"מ סעיף ל\"ח שכתב אם אין בהם ציצית כלל מותר משמע דאם יש בהם קצת אף שאין בהן כדי עניבה אסור. ונראה דאפילו לט\"ז היינו משום איסור שבת מותר, אבל מכל מקום משום ביטול מצות ציצית אסור, אם לא בגוונא דמותר משום כבוד הבריות כדלקמן, וכן משמע בלבוש סימן ש\"א שם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 13:1"
+        },
+        "2": {
+          "he": "[ב] על כתיפיו וכו'. דהוי משאוי ועיין בתשובת משאת בנימין סימן מ\"ח שהאריך בזה, ולכן טוב דהיוצא בטלית יכסה עצמו בטלית ראשו וגופו כדרך לבישתו, ובט\"ז סימן ש\"א ס\"ק ט\"ו דברוב גופו סגי כשנושאו תחת גלימא, ועיין לקמן ס\"ק ע\"ה כתבתי דאשה היוצאה בטלית מצוייצת חייב:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 13:2"
+        },
+        "3": {
+          "he": "[ג] ואין צריך וכו'. ומטה משה כתב דף ל\"ד בשם בית יוסף דהמחמיר לבדוק תבוא עליו ברכה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 13:3"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "חייב חטאת.  דהוי משוי וא\"ל דבטיל לגבי בגד דחשיבי הם לגביה שדעתו להשלים עליהם כ\"כ ב\"י בשם התוספות ורמב\"ם: ולפ\"ז  אם נפסקו כל הד' ציצית ולא נשתייר בהם כ\"ע דודאי יעשה אחרים תחתיהם בטלים הם לגבי בגד ומותר לצאת בהם בשבת כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 13:1"
+        },
+        "2": {
+          "he": "על כתיפיו.  דאז לא הוי דרך מלבוש אלא משוי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 13:2"
+        },
+        "3": {
+          "he": "וא\"צ לבודקו.  ולענין ברכה מחמירים טפי לעיל סי' ח' ס\"א ומ\"מ נ\"ל במי שקראוהו לס\"ת ואין עליו טלית עדיין ורוצה ללבוש טלית לילך לקרות שאין לבדוק הטלית בעת ההיא משום טורח צבור כדאשכחן ביומא בכ\"ג שהיה קורא ע\"פ ובעשור לחדש כמ\"ש בי\"ד סי' רע\"ט ק\"ו כאן שיש להעמידו על חזקתו נ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 13:3"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "מותר לצאת. אפי' בלילה דלאו זמן ציצית הוא משום דנוי הן לבגד [ב\"י סי' י\"ח]:",
+          "en": "",
+          "ref": "Magen Avraham 13:1"
+        },
+        "2": {
+          "he": "קטן. בתשו' רמ\"א סי' ק\"י מפלפל אם רשאי לצאת בד' כנפות קטן שאין בו שיעור הכתוב בסי' ט\"ז ע\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 13:2"
+        },
+        "3": {
+          "he": "תכלת. דהא קי\"ל התכלת אינה מעכבת את הלבן:",
+          "en": "",
+          "ref": "Magen Avraham 13:3"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "חייב חטאת.  דהוי משוי וא\"ל דבטיל לגבי בגד דחשיבי הם לגביה שדעתו להשלים עליהם ב\"י בשם התוס'. לפ\"ז אם נפסקו כל הד' ציצית ולא נשתייר בהם כדי עניבה דודאי יעשה אחרים תחתיהם בטלים הם לגבי בגד ומותר לצאת בהם בשבת. ט\"ז ע\"ת:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 13:1"
+        },
+        "2": {
+          "he": "לצאת בה לר\"ה.  אפי' בלילה דלאו זמן ציצית הוא משום דנוי לבגד ב\"י סי' י\"א. ועיין בתשו' מהרי\"ל סי' ק\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 13:2"
+        },
+        "3": {
+          "he": "טלית קטן.  בתשו' רמ\"א סי' ק\"י מפלפל אם רשאי לצאת בד' כנפות קטן שאין בו שיעור הכתוב בסי' ט\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 13:3"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) זה את זה - שכולם הם מצוה אחת ואם נחסר לו אפילו ציצית אחת הוי כלא הטיל בה כלל וביטל לגמרי העשה דציצית:",
+          "en": "One to another - For all of them [together] are one mitzvah, and if even one ציצית is missing (ie. missing completely, or is invalid), it's as if you didn't affix any at all and you nullified completely the positive commandment of ציצית.",
+          "ref": "Mishnah Berurah 13:1"
+        },
+        "2": {
+          "he": "(ב) לר\"ה - ולכרמלית אסור מדרבנן וה\"ה לכל שאר פסולים כגון שהיה הבגד סתום רובו או שהיו הציצית עשויין שלא במקומן למעלה מג' אצבעות או למטה מקשר אגודל וכל כה\"ג או שהיה ארבע כנפות קטן משעור הכתוב בסימן ט\"ז ע\"ש בכל אלו אסור לצאת בהן אפי' לכרמלית מדרבנן ובגד שפתוח חציו בצימצום עיין לעיל בסימן י' במ\"ב ס\"ק כ\"ז:",
+          "en": "To a public domain - And to [wear invalid ציצית on Shabbos in] a karmelit (an area that is not a private domain and not a public domain, but conceptually somewhere in between) is forbidden on a rabbinic level.  And the same applies to all other invalidations.  For example: if the majority of the garment was closed up, or if the ציצית were made/affixed not in the right place - [such as] higher than three finger-widths [from the edge of the garment], or lower than [length of the] thumb from the knuckle to the tip [from the edge of the garment], and all similar cases - or if the four corners (ie. the length and width of the garment itself) was less than the measurement described in siman 16, see there.  In all those [cases], it is forbidden to go out [while wearing] them [on Shabbos], even to a karmelit on a rabbinic level.  And [regarding] a garment which is open exactly halfway (ie. a tallit katan where the sides under the arms were stitched up so that it was exactly half-open and half-closed  (if measured from the top, by the shoulder, to the bottom)), see above in Siman 10 in Mishnah Berurah se'if katan 27.",
+          "ref": "Mishnah Berurah 13:2"
+        },
+        "3": {
+          "he": "(ג) חייב חטאת - דהוי משוי מחמת הציצית הנותרים ואינם בטלים לגבי בגד דחוטי ציצית חשיבי הם ולא בטילי. ואפילו אם אותם הציצית ג\"כ פסולים הם מ\"מ כל שנמצא בהם איזו חוטין כשרים דעתו עליהם וחשיבי ולא בטילי אם לא שנפסקו כל חוטי הארבע ציצית ולא נשאר בהם כדי עניבה דאז בטלים הם להבגד ע\"כ אם נודע לו דבר זה בשבת כשהוא הולך בר\"ה אין צריך לפשוט טליתו:",
+          "en": "Is obligated to bring a sin offering - For it is [considered like] carrying due to the remaining ציצית, and they are not nullified to the garment (ie. they are not considered to be part of the garment itself) because the ציצית strings are significant/valuable and [therefore] are not nullified.  And even if those [remaining] ציצית are also invalid, nevertheless, as long as they have some valid strings on them, his mind is on them (ie. he will want to use them at some point) and they are [therefore] significant and are not nullified, unless all the four [original] strings were severed and they didn't have enough left over to make a loop [around the other strings], for then it is considered as nullified to the garment.  Therefore, if he realizes this (ie. he realizes that all the strings are invalid) on Shabbos as he is walking in the public domain, he is not required to remove the tallit.",
+          "ref": "Mishnah Berurah 13:3"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

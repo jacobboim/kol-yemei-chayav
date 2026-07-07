@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;500;700&family=Inter:wght@400;500&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --cream: #F7F4EE;
+  --cream-dark: #EDE9E0;
+  --ink: #1C1A16;
+  --ink-muted: #5C5849;
+  --ink-faint: #9C9890;
+  --gold: #B8860B;
+  --gold-light: #F5EDD0;
+  --gold-border: #D4B44A;
+  --parchment: #FBF8F2;
+  --white: #FFFFFF;
+  --border: rgba(28,26,22,0.12);
+  --border-strong: rgba(28,26,22,0.22);
+  --radius-sm: 6px;
+  --radius: 10px;
+  --radius-lg: 14px;
+  --shadow-sm: 0 1px 3px rgba(28,26,22,0.08);
+  --shadow: 0 2px 8px rgba(28,26,22,0.10);
+
+  --badge-sa: #1C4A2E; --badge-sa-bg: #E8F5EE;
+  --badge-mb: #0C3A6B; --badge-mb-bg: #E6F0FB;
+  --badge-ma: #5C2A00; --badge-ma-bg: #FFF0E0;
+  --badge-taz: #4A1A50; --badge-taz-bg: #F5E8FA;
+  --badge-shach: #1A3A5C; --badge-shach-bg: #E8F0F8;
+  --badge-bg: #2C3A1A; --badge-bg-bg: #EBF3E0;
+  --badge-pm: #3A2800; --badge-pm-bg: #FDF5E0;
+  --badge-er: #3A1A00; --badge-er-bg: #FFF3E8;
+  --badge-pt: #1A3A3A; --badge-pt-bg: #E8F5F5;
+  --badge-bh: #2A2A3A; --badge-bh-bg: #EEEEF8;
+}
+
+html { font-size: 16px; }
+body {
+  background: var(--cream);
+  color: var(--ink);
+  font-family: 'Inter', system-ui, sans-serif;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+.heb-text {
+  font-family: 'Frank Ruhl Libre', 'Times New Roman', serif;
+  direction: rtl;
+  text-align: right;
+  font-size: 18px;
+  line-height: 2;
+  color: var(--ink);
+}
+
+button { font-family: inherit; cursor: pointer; }
+a { color: inherit; }

@@ -117,5 +117,12 @@ export function useDailyTexts(chelekId, _sefariaTitle, siman, seifA, seifB) {
       }
     : null;
 
-  return { data, loading, error, reload: () => setTick(t => t + 1) };
+  return {
+    data,
+    seifCount: raw?.seifCount || 0,
+    loadedSiman: raw ? siman : null,
+    loading,
+    error,
+    reload: () => setTick(t => t + 1),
+  };
 }

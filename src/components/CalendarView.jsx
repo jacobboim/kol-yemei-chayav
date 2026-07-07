@@ -38,10 +38,10 @@ export default function CalendarView({ simanCount, completed, currentSiman, onSe
             <button key={s} onClick={() => onSelectSiman(s)}
               style={{
                 width: '100%', aspectRatio: '1', borderRadius: 'var(--radius-sm)',
-                border: isCurrent ? '2px solid var(--gold)' : '0.5px solid var(--border)',
-                background: isCurrent ? 'var(--gold-light)' : status === 'partial' ? '#e8f5e8' : 'var(--parchment)',
+                border: isCurrent ? '2px solid #b8860b' : status === 'partial' ? '1px solid #2f7d50' : '0.5px solid var(--border)',
+                background: isCurrent ? '#fff1c7' : status === 'partial' ? '#dff3e6' : 'var(--parchment)',
                 fontSize: 11, fontWeight: isCurrent ? 600 : 400,
-                color: isCurrent ? 'var(--gold)' : status === 'partial' ? '#2a6a2a' : 'var(--ink-muted)',
+                color: isCurrent ? '#8b6914' : status === 'partial' ? '#1f6b43' : 'var(--ink-muted)',
                 cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center',
                 transition: 'all 0.1s',
                 fontFamily: "'Frank Ruhl Libre', serif",
@@ -53,10 +53,10 @@ export default function CalendarView({ simanCount, completed, currentSiman, onSe
       </div>
       <div style={{ display: 'flex', gap: 12, marginTop: 14, fontSize: 11, color: 'var(--ink-faint)' }}>
         <span style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
-          <span style={{ width: 10, height: 10, borderRadius: 2, background: '#e8f5e8', border: '0.5px solid #2a6a2a', display: 'inline-block' }} /> Learned
+          <span style={{ width: 10, height: 10, borderRadius: 2, background: '#dff3e6', border: '1px solid #2f7d50', display: 'inline-block' }} /> Learned
         </span>
         <span style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
-          <span style={{ width: 10, height: 10, borderRadius: 2, background: 'var(--gold-light)', border: '1px solid var(--gold)', display: 'inline-block' }} /> Today
+          <span style={{ width: 10, height: 10, borderRadius: 2, background: '#fff1c7', border: '1px solid #b8860b', display: 'inline-block' }} /> Today
         </span>
         <span style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
           <span style={{ width: 10, height: 10, borderRadius: 2, background: 'var(--parchment)', border: '0.5px solid var(--border)', display: 'inline-block' }} /> Not yet

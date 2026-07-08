@@ -35,11 +35,11 @@ export default function SourceBlock({ source, layout }) {
         <div
           style={{
             display: "grid",
-            gridTemplateColumns: isBeerHaGolah ? "1fr" : "1fr 1fr",
+            gridTemplateColumns: (isBeerHaGolah || (!translation && !summary)) ? "1fr" : "1fr 1fr",
             gap: 12,
           }}
         >
-          {!isBeerHaGolah && (
+          {!isBeerHaGolah && (translation || summary) && (
             <div
               style={{
                 background: "var(--parchment)",
@@ -48,16 +48,20 @@ export default function SourceBlock({ source, layout }) {
                 padding: "1rem",
               }}
             >
-              <Section label="Translation">
-                <p style={{ fontSize: 14, lineHeight: 1.75, color: "var(--ink-muted)" }}>
-                  {translation || "—"}
-                </p>
-              </Section>
-              <Section label="Summary">
-                <p style={{ fontSize: 13, lineHeight: 1.75, color: "var(--ink-muted)" }}>
-                  {summary || ""}
-                </p>
-              </Section>
+              {translation && (
+                <Section label="Translation">
+                  <p style={{ fontSize: 14, lineHeight: 1.75, color: "var(--ink-muted)" }}>
+                    {translation}
+                  </p>
+                </Section>
+              )}
+              {summary && (
+                <Section label="Summary">
+                  <p style={{ fontSize: 13, lineHeight: 1.75, color: "var(--ink-muted)" }}>
+                    {summary}
+                  </p>
+                </Section>
+              )}
             </div>
           )}
           <div
@@ -81,19 +85,23 @@ export default function SourceBlock({ source, layout }) {
     <div>
       {!isBeerHaGolah && (
         <>
-          <Section label="Summary">
-            <p style={{ fontSize: 13, lineHeight: 1.75, color: "var(--ink-muted)" }}>
-              {summary || ""}
-            </p>
-          </Section>
+          {summary && (
+            <Section label="Summary">
+              <p style={{ fontSize: 13, lineHeight: 1.75, color: "var(--ink-muted)" }}>
+                {summary}
+              </p>
+            </Section>
+          )}
           <Section label="Text">
             <p className="heb-text">{hebrewText}</p>
           </Section>
-          <Section label="Translation">
-            <p style={{ fontSize: 14, lineHeight: 1.75, color: "var(--ink-muted)" }}>
-              {translation || "—"}
-            </p>
-          </Section>
+          {translation && (
+            <Section label="Translation">
+              <p style={{ fontSize: 14, lineHeight: 1.75, color: "var(--ink-muted)" }}>
+                {translation}
+              </p>
+            </Section>
+          )}
         </>
       )}
       {isBeerHaGolah && (

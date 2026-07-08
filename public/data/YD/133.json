@@ -1,0 +1,304 @@
+{
+  "chelek": "YD",
+  "siman": 133,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 7,
+  "fetchedAt": "2026-07-08T00:01:18.807Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "שלא להשתכר ביין נסך ולא לעשות ממנו סחורה. ובו ז' סעיפים:כשם שאסור למכור סתם יינם וליהנות בו כך אסור להשתכר בו לפיכך ישראל שנשכר לעובד כוכבים לעשות לו מלאכה אפילו בסתם יינם או שהשכיר לו חמורו או ספינתו להוליכו בו או מרתיפו להניחו בו שכרו אסור בהנאה ואם נטל ממנו מעות בשכרו שוחק וזורה לרוח או מטיל לים נתן לו פירות יוליכם לים המלח או ישרפם ויקבור העפר בבית הקברות אפילו לקח בשכרו קרקע או בהמה שאינם נאסרים בהשתחוה להם ועבדן החמירו בהם לאסרם בהנאה: הגה ועיין לעיל סימן קכ\"ג דבזמן הזה מקילין לענין היתר הנאה מסתם יינם ולכן אין להחמיר באלו הדינים רק ביין נסך גמור:",
+      "en": "De la défense de tirer profit du vin destiné aux idoles et de faire du trafic avec ce vinComme il est défendu de vendre un vin quelconque appartenant à un païen et même d’en tirer profit, il est également défendu d’accepter d’un païen du vin à titre de récompense. C’est pourquoi, si un païen a embauché un Israélite pour faire son vin, ou s’il lui a loué pour transporter ou emmagasiner le produit de sa fabrication son âne, son vaisseau ou sa cave, il est défendu à l’Israélite d’accepter de l’argent pour sa location; s’il en a reçu, il doit le jeter à la mer. Si le païen lui a donné des fruits comme récompense, l’Israélite doit les jeter à la mer ou les brûler et en porter la cendre au cimetière. De même il est défendu à l’Israélite de tirer profit, du terrain ou de l’animal qu’il peut avoir reçu d’un païen, et qui peut être défendu à cause de sa destination aux idoles.GLOSE: Comme on se permet de nos jours de tirer profit d’un vin lorsqu’on n’est pas certain de sa destination aux idoles, il faut se montrer modéré dans l’application de toutes les lois relatives à ce cas, excepté toutefois quand la destination du vin aux idoles est absolument certaine.",
+      "ref": "Shulchan Arukh, Yoreh Deah 133:1"
+    },
+    {
+      "seif": 2,
+      "he": "השכיר לו חמורו לרכוב עליו אע\"פ שהניח לגינו של יין עליו או שהשכיר לו ספינתו להוליך בה סחורתו אף ע\"פ שנותן בה גם מאכליו ומשקיו שכרו מותר כיון שעיקר השכירות לא היה בשביל יין נסך:",
+      "en": "Si un Israélite a loué à un païen son vaisseau ou son âne, soit pour voyager, soit pour transporter sa marchandise, et si celui-ci s'est servi du vaisseau ou de l’animal pour son vin, il est permis à l’Israélite d’accepter du païen une rétribution, car une telle location n’a pas été consentie dans le but spécial de transporter du vin destiné aux idoles.",
+      "ref": "Shulchan Arukh, Yoreh Deah 133:2"
+    },
+    {
+      "seif": 3,
+      "he": "עובד כוכבים ששכר את הפועל ואמר לו העבר לי מאה חביות של שכר במאה פרוטות ונמצאת אחת מהן יין שכרו כולו אסור כיון שיש ביניהם שוה פרוטה משכר היין נסך שאם היה פחות משוה פרוטה מותר בדיעבד ואם אמר לו העבר לי כל חבית בפרוטה ונמצא ביניהם חבית של יין שכר חבית של יין אסור והשאר שכרו מותר ולכתחילה אסור לעשות כן:",
+      "en": "Quand un païen a embauché un Israélite pour lui faire transporter cent tonneaux de bière, moyennant un prix convenu de cent pedoutahs, s’il se trouve parmi les fûts de bière un tonneau de vin, l’Israélite ne doit pas toucher son salaire, car le transport du tonneau de vin destiné aux idoles est compris dans ce salaire. Lorsque le prix de transport d’un tonneau de vin est inférieur à une pedoutah, l’Israélite peut recevoir son salaire en cas de fait accompli. Mais lorsque le païen dit à l’Israélite de lui transporter tous ses tonneaux de bière et convient avec lui de donner une pedoutah pour chaque barrique, si parmi les fûts de bière il se trouve un tonneau de vin, l’Israélite peut malgré cela recevoir le prix de son travail moins la pedoutah due pour le transport du vin. Cependant, il est défendu d'agir ainsi de propos délibéré.",
+      "ref": "Shulchan Arukh, Yoreh Deah 133:3"
+    },
+    {
+      "seif": 4,
+      "he": "היה עושה עמו ביין בחנם ממשכנים מנכסיו כנגד שכרו:",
+      "en": "Lorsqu'un Israélite a fourni gratuitement son travail pour du vin destiné aux idoles, il est passible d'une amende égale au salaire qu’il aurait pu recevoir.",
+      "ref": "Shulchan Arukh, Yoreh Deah 133:4"
+    },
+    {
+      "seif": 5,
+      "he": "לא יהא ישראל משמש ומוזג לעובד כוכבי' ביין נסך וכן אסור להיות תורגמן לעובד כוכבים למכור יין נסך וכן אסור ליתן יין בכלי ביד עובד כוכבים המכריז להטעימו שכיון שנגע בו העובד כוכבים נעשה יין נסך וכשמכריזו ומטעימו (ס\"א ומראהו וכן הוא בב\"י ובכל בו) נהנה הישראל מיין נסך:",
+      "en": "Il est défendu à un Israélite de se rendre utile chez un païen dans la fabrication d’un vin défendu, et de servir d'interprète au cours des débats de la vente d'un vin destiné aux idoles; il est également défendu de verser du vin dans un vase tenu par un païen qui vante la qualité d'un vin, car ce païen, en touchant le liquide, le rend défendu, et l'Israélite ne doit pas profiter d’un vin défendu.",
+      "ref": "Shulchan Arukh, Yoreh Deah 133:5"
+    },
+    {
+      "seif": 6,
+      "he": "אפילו אמר לו העובד כוכבים שמור בחנם חבית זו של יין נסך אע\"פ שפטור אם נשברה או נאבדה מכל מקום מיצר הוא אם תשבר או תאבד מתוך שמירתו ורוצה הוא בקיומו ואסור:",
+      "en": "Il est défendu à un Israélite de garder, même gratuitement, un tonneau de vin destiné aux idoles, bien que si le vin venait à se perdre (sans même que la responsabilité de l'Israélite se trouve engagée) celui-ci déplorerait sa négligence; mais si, par suite de sa surveillance, tout accident est écarté, il éprouve de la satisfaction, sentiment qui est défendu, puisqu'il est produit par un acte qui consiste à garder du vin défendu.",
+      "ref": "Shulchan Arukh, Yoreh Deah 133:6"
+    },
+    {
+      "seif": 7,
+      "he": "ישראל ששכרו עובד כוכבים לשבר לו חבית של יין נסך אע\"פ שרוצה בקיומם שלא ישתברו מאליהם עד שישברם הוא ויטול שכרם שכרו מותר ותבא עליו ברכה מפני שממעט בתיפלה:",
+      "en": "Quand un païen embauche un Israélite pour lui faire briser un tonneau de vin destiné aux idoles, l’Israélite peut accepter un salaire, bien qu’il ait du plaisir à accomplir une tâche qui amoindrit la quantité de vin destiné aux idoles.",
+      "ref": "Shulchan Arukh, Yoreh Deah 133:7"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה עבודת כוכבים דף ס\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 133:1"
+        },
+        "2": {
+          "he": "שם בגמרא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 133:2"
+        },
+        "3": {
+          "he": "שם בעובדא דההוא גברא וכו' וה\"ה לשאר כלים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 133:3"
+        },
+        "4": {
+          "he": "טור וכ\"כ הרשב\"א וכתב לפי שכיון שאסור בהנאה משום לתא דעובד כוכבים נוהג בהן כדרך שנוהג בעובד כוכבים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 133:4"
+        },
+        "5": {
+          "he": "שם וכ\"כ הרשב\"א ושכן מפורש בירושלמי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 133:5"
+        },
+        "6": {
+          "he": "שם במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 133:6"
+        },
+        "7": {
+          "he": "טור וב\"כ הרשב\"א והוא נלמד מדין הסמוך:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 133:7"
+        },
+        "8": {
+          "he": "שם במשנה וכאוקימתא דרבא דף ס\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 133:8"
+        },
+        "9": {
+          "he": "טור בשם הרשב\"א מהא דאמרינן ואם בנה שכרו מותר וכו' מכוש האחרון לית ביה שוה פרוטה וכו' שם דף י\"ט:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 133:9"
+        },
+        "10": {
+          "he": "שם בשם הרשב\"א וכ\"כ בשם הירושלמי וכ\"כ הר\"ן והטעם משום דישראל מצווה לבטל עבודת כוכבים והוא רוצה בקיומה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 133:10"
+        },
+        "11": {
+          "he": "שם ושם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 133:11"
+        },
+        "12": {
+          "he": "הרשב\"א בתשובה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 133:12"
+        },
+        "13": {
+          "he": "א\"ח וכל בו בשם הראב\"ד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 133:13"
+        },
+        "14": {
+          "he": "טור בשם הרשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 133:14"
+        },
+        "15": {
+          "he": "בעיא שם בגמ' דף ס\"ג ונפשטא: (°) פירוש עבירות ערוך:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 133:15"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "כשם כו'. כלומר דל\"ת כדקס\"ד מעיקרא דש\"ס ר\"פ בתרא דעבודת כוכבים דהוי בעי למימר דיי\"נ דמי לשביעית דמכירה אסור ושכרו מותר אלא לא דמי לשביעית אלא משום קנס החמירו ביי\"נ דשכרו ג\"כ אסור כדמסיק ש\"ס התם וזה פשוט ודלא כהב\"ח שנדחק מאד בביאור הש\"ס ומתוך כך פי' דאם נטל שכרו קודם המלאכה שכרו מותר לאחרים ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 133:1"
+        },
+        "2": {
+          "he": "שוחק כו'. ע\"ל סימן קמ\"ו סעיף י\"ד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 133:2"
+        },
+        "3": {
+          "he": "שאינן נאסרין בהשתחוה כו'. כדלקמן סימן קמ\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 133:3"
+        },
+        "4": {
+          "he": "ולכן אין להחמיר כו'. מיהו לכתחלה ודאי אין להשכיר עצמו או ביתו וכליו לסתם יינם וכן כתב ב\"י בשם א\"ח בשם מהר\"מ ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 133:4"
+        },
+        "5": {
+          "he": "כיון שעיקר כו'. אע\"ג דמן הדין יכול להניח עליו לגינו אפ\"ה הואיל שאם לא הניח עליו לגינו אינו יכול לומר לו נכה לי משכר הלגין הרי הוא כאלו לא שכרו לכך. ש\"ס:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 133:5"
+        },
+        "6": {
+          "he": "כולו אסור. ולא מהני הולכת הנאה לים המלח כדלקמן סימן קל\"ד דהכא כיון שקבלנות היא כולי אגרא אחדא וחדא יהיב ליה וגם אפשר שאלו הודיעו מתחלה שאין מעביר לו אותו חבית שמא לא היה שוכרו כלל כן הסכימו רוב הפוסקים וכ\"פ ב\"י והאחרונים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 133:6"
+        },
+        "7": {
+          "he": "שאם היה פחות מש\"פ כו'. זה למד מהרשב\"א מעבודת כוכבים (בש\"ס די\"ט ע\"ב) גבי מכוש אחרון לית ביה ש\"פ ולפי מה שכתבו התוס' שם אין ראייה ואדרבה משמע מדבריהם דאפי' פחות משוה פרוטה אסור בעבודת כוכבים אלא דהתם היינו טעמא דעובד כוכבים אינו מקפיד אמכוש אחרון וע\"ש וע\"ל סי' קמ\"ג ס\"ק ד':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 133:7"
+        },
+        "8": {
+          "he": "ולכתחלה אסור לעשות כן. אפילו אין ביניהם ש\"פ. ב\"י בשם הרשב\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 133:8"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "או מטיל לים. פי' שוחק ומטיל לים וסתם ים משמע כל ים ואין צריכין ים המלח כמו דצריך גבי פירות לפי שהפירות הם בעין ובסתם ים הולכין ספינות ושמא ימצאם אחד ויהנה מהם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 133:1"
+        },
+        "2": {
+          "he": "בבית הקברות. דשם אין עשוי לזרוע כן כתב ב\"י טעם למה הצריכו בית הקברות ותמוה לי למה לא כתב כמו שכתבו התוס' שם דיבור המתחיל ולקברינהו כו' וז\"ל ונראה שצריך לקוברן מעט בעומק פן יבוא לחטט אחריהם ולאחר שנעשה עפרא אין לחוש שמא יקחם לזבל דאין דרך לחטט אחר הקברים משום זבל עד כאן לשונו נ\"ל פירוש דבריהם דמתחלה אמר פן יבא לחטט אחריהם דהאפר עצמו יש בו צורך לכמה דברים וע\"כ חשו שמא יבא ליקח האפר לאיזה דבר ואחר כך הוקשה להם דהא יש לחוש שמא יקח מן העפר אפילו כשהוא בעומק והיינו לאחר שנעשה עפר דאלו כל זמן שהוא אפר אינו מצמיח כמ\"ש בסימן כ\"ח ע\"כ כתבו התוספות דלאחר שנעשה עפר דהיינו כשמונח זמן רב שב הכל לעפר ואז מצמיח ויקחם לזבל לזה תירצו כיון שמונחת בבי קברי אין דרך לחטט בקברים פירוש במקום קברים אחר הזבל משא\"כ אם הי' מונח במקו' אחר שפיר יש לחוש שמא יקח ממנו לזבל כנ\"ל פירוש דבריהם וקשה לי על הב\"י למה לא הלך ג\"כ בדרך זה ולמה לו לחפש טעם מלבו והוצרך לומר אח\"כ דאם נמצא אפר בבור לא יקחוהו דמוכחא מילתא דהוא מאיסור אין שייך בזה דאינשי גנבו וחפרו וכל זה ללא צורך דכבר נתבאר בתוס' שזכרנו הטעם לזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 133:2"
+        },
+        "3": {
+          "he": "ולכן אין להחמיר באלו הדינים כו'. בתשובת מהר\"ם פדווא\"ה סי' ע\"ו מביא הגהות מרדכי שאסור להשכיר מרתף שלו לעובד כוכבים להשים בו יין נסך ואין חילוק בין בזמן הזה לזמן חכמי התלמוד אלא לענין ליקח יין נסך בחובו ולמזוג לעובד כוכבים יין נסך אסור אבל מיין שלנו מותר למזוג להם ודין הראשון מביא ג\"כ ב\"י בשם א\"ח בשם הר\"ם ורבינו ירוחם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 133:3"
+        },
+        "4": {
+          "he": "שהניח לגינו. הטעם דאם לא יניח הלגין שם לא ינכה משכירתו בשביל זה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 133:4"
+        },
+        "5": {
+          "he": "שכרו כולו אסור. בטור כתוב בשם הראב\"ד מיהו יש לו תקנה על ידי שיוליך הנאה לים המלח שכר אותו חבית וכתב בפרישה בשם רש\"ל דהיינו אם כבר קבלם משמע דכל שלא קבל עדיין אין שייך תקנה זו יאסור לקבלם ומו\"ח ז\"ל כתב אף אם לא קבלם עדיין יש תקנה זו דיוליך אותו הנאת חבית לים המלח והשאר מותר לקבל ומביא ראייה ממה שכ' סעיף ד' דממשכנין כנגד שכרו דש\"מ דאף קודם שיעשה לו העובד כוכבים טובת הנאה כנגד קבלת שכרו מהני הא דממשכנין כנגד שכרו ע\"כ ולע\"ד נראה לא כדברי זה ולא כדברי זה דעיקר הטעם הוא כמ\"ש ת\"ה הארוך דקי\"ל כר' אליעזר דאמר פרק כל הצלמים יוליך הנאה לים המלח והיינו אפילו בחבית שנתערבה בין החביות ואם כן כל שכבר נעשה התערובות למה לא יועיל הולכת הנאתו לים המלח דמה בכך שהמעות עדיין ביד העובד כוכבים אלא דקודם הקבלה גם כן אין שייך לומר שיוליך משלו לים המלח דאם יקבל אח\"כ כל השכר יקבלנו באיסור ומה מועיל מה שכבר הוליך משלו אלא יקבלנו כולו מן העובד כוכבים ואח\"כ יוליך אחד מהם לים המלח או האחד שקיבל תחילה מהעובד כוכבים ואף אם לא יוליך אחד מהם ממש אלא ממה שיש לו כבר משלו די בכך כיון שכבר יש בידו אחד של איסור ולא יהנה מאותו סך ששוה האיסור משא\"כ בקודם לו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 133:5"
+        },
+        "6": {
+          "he": "פחות משוה פרוטה מותר בדיעבד. צריך עיון למה לא חשיב התנא במשנה פ' הזהב דחשיב שם חמשה פרוטות הם היה לו לחשוב גם דבר זה דשכר יין נסך אינו אוסר בפחות משוה פרוטה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 133:6"
+        },
+        "7": {
+          "he": "שכר חבית של יין אסור. בזה אין צריכין לים המלח אלא יניחנו אצל העובד כוכבים ויקבל השאר משא\"כ ברישא דכבר נקרא שם איסור על הכל בתערובות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 133:7"
+        },
+        "8": {
+          "he": "ממשכנים. פירוש הב\"ד יקחו ממנו משכון בעבור הנאתו שיחזיק לו העובד כוכבים טובה על זה וכתב רש\"ל קנסא בעלמא הוא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 133:8"
+        },
+        "9": {
+          "he": "מ\"מ מיצר הוא אם תשבר וכו'. והא דלא אמר הטעם שיחזיק לו טובה על זה כמ\"ש סעיף ד' נ\"ל דעובד כוכבים אומר לו בפירוש מתחילה שלא יחזיק לו טובה בשביל זה ומ\"ה כתב הטור בזה ואפילו א\"ל העובד כוכבים שמור לי בחנם כו' דלכאורה הוא לשון מיותר אלא היה לו לכתוב ואפילו בחנם לא ישמור לו אלא להורות על מה שזכרתי שהעובד כוכבים א\"ל בפירוש כן אפ\"ה אסור מטעם רוצה בקיומו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 133:9"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "ומוזג. עבה\"ט של מהרי\"ט ז\"ל ועיין בתשובת הרדב\"ז ח\"א סימן כ\"ב שכתב דראוי להחמיר אף בסתם יינם עיין שם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 133:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "לים.  (פי' שוחק ומטיל לים) וכתב הט\"ז (וסתם ים משמע כל ים) וא\"צ ים המלח כמו דצריך גבי פירות לפי שהפירות הם בעין ובסתם ים הולכין ספינות ושמא ימצאם א' ויהנה מהם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 133:1"
+        },
+        "2": {
+          "he": "הקברות.  דשם אין עשוי לזרוע כ\"כ ב\"י הטעם והב\"ח פסק דאם נטל שכרו קודם המלאכה שכרו מותר לאחרים והשיג עליו הש\"ך ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 133:2"
+        },
+        "3": {
+          "he": "להחמיר.  מיהו לכתחילה ודאי אין להשכיר עצמו או ביתו וכליו לסתם יינם כ\"כ הב\"י (בשם א\"ח):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 133:3"
+        },
+        "4": {
+          "he": "שעיקר.  אע\"ג דמן הדין יכול להניח עליו לגינו אפ\"ה הואיל שאם לא הניח עליו לגינו אינו יכול לומר לו נכה לי משכר הלגין הרי הוא כאילו לא שכרו לכך. ש\"ס:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 133:4"
+        },
+        "5": {
+          "he": "כולו.  כתב הש\"ך ולא מהני הולכת הנאה לים המלח כדלקמן סימן קל\"ד דאפשר שאילו הודיעו מתחילה שאינו רוצה להעביר לו אותו חבית שמא לא היה שוכרו כלל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 133:5"
+        },
+        "6": {
+          "he": "פרוטה.  כתב הט\"ז צ\"ע שלא חשיב התנא במשנה פ' הזהב דחשיב שם ה' פרוטות הם היה לו לחשוב גם דבר זה דיין נסך אינו אוסר בפחות משוה פרוטה (ובנה\"כ תירץ דתנא ושייר ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 133:6"
+        },
+        "7": {
+          "he": "חבית.  כתב הט\"ז בזה א\"צ לים המלח אלא יניחנו אצל העובד כוכבים ויקבל השאר משא\"כ ברישא דכבר נקרא שם איסור הכל בתערובות:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 133:7"
+        },
+        "8": {
+          "he": "ולכתחלה.  אפי' אין ביניהם שוה פרוטה. ב\"י בשם הרשב\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 133:8"
+        },
+        "9": {
+          "he": "ממשכנים.  פי' הב\"ד יקחו ממנו משכון בעבור הנאתו שיחזיק לו העובד כוכבים טובה על זה וכתב רש\"ל קנסא בעלמא הוא עכ\"ל הט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 133:9"
+        },
+        "10": {
+          "he": "מיצר.  ואף אם העובד כוכבים אומר לו בפירוש שלא יחזיק לו בשביל זה טובה כלל אפ\"ה אסור מטעם שרוצה הוא בקיומו עכ\"ל הט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 133:10"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

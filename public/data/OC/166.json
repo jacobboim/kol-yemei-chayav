@@ -1,0 +1,179 @@
+{
+  "chelek": "OC",
+  "siman": 166,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-07T23:42:52.794Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין הפסקה בין בציעה לנטילה. ובו סעיף אחד:יש אומרים שאין צריך ליזהר מלהפסיק בין נטילה להמוציא ויש אומרים שצריך ליזהר וטוב ליזהר.  (ואם שהה כדי הלוך כ\"ב אמה מקרי הפסק): (תוספות פרק אלו נאמרין):",
+      "en": "There are those who say that one need not be careful about pausing between washing and [the Brachah of] Hamotzi, and there are those who say that one needs to be careful [and there are those who say] it is good to be careful.  (The amount of time equivalent to walking  22 cubits is considered a pause) (Tosefos Perek Elu Ne'emarim).",
+      "ref": "Shulchan Arukh, Orach Chayim 166:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "טור בשם הרי\"ף ורמב\"ם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 166:1"
+        },
+        "2": {
+          "he": "טור מהירו' פ\"ו דברכות (ולענ\"ד הוא ג\"כ בבבלי דף כ\"ב ע\"ב):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 166:2"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "י״א עמ״א עט״ז א׳ וקע״ד במ״א אות י״ד מזה ועיין פרישה הקשה מע״פ ק״ו ק״ז נטל ידיו לא יקדש משום הפסק תירץ דשאני דבר שהובה לעשות הפסק ורשות לא הוי הפסק ומש״ה א״ש בסי׳ קס״ה דאשר יצר לאחר ענט״י הוי הפסק דחובה מפסיק טפי ועיין לקמן רע״א סי״ב ובב״י ולמ״ש בט״ז א׳ לק״מ דוקא שתיקה לא הוי הפסק דא״צ תיכף בנט״י משא״כ הפסק דיבור י״ל כ״ע מודים דהוי הפסק יע״ש בזה וא״ש נמי בקס״ה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 166:1"
+        },
+        "2": {
+          "he": "וטוב ליזהר עמ״א ועט״ז אות ב׳ הביא רש״ל בתשובה סי׳ ל״ד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 166:2"
+        },
+        "3": {
+          "he": "כ״ב אמה עמ״א קושיית האדון ז״ל לאו דהיה להר״ב בהג״ה לומר דמרשות לרשות הוי הפסק אף פחות מכ״ב אמה דזה ענין בפ״ע וע׳ סי׳ קע״ח ס״א ורע״ג ס״א אלא קושייתו הוא דמ״מ קשה על הר״ב אי ביאה במקצת לא שמיה ביאה וע״כ ברייתא חוץ מאשם מצורע כרבי יוסי דאמר מרחק צפון מוכח דפחות מכ״א אמה נמי לאו תיכף הוא דמעייל ידיה לעזרה (פתח שער נקנור לא נתקדש) ומסתמא זרועותיו מגיעים יותר מאמה כו׳ ואי ביאה במקצת שמיה ביאה מש״ה לא הוי תיכף כר״י מרחק צפון ומחלל עד מקום השחיטה כ״ב אמה א״כ אין מוכח כלום דכ״ב אמה לא הוי תיכף דטעם מרשות לרשות לא הוי תיכף דהא לקס״ד כרבי ע״כ הכין הוא וזה שהקשה ממ״נ על הר״ב או דמוכח פחות מכ״א אמה הפסק או דאפשר אפילו כ״ב לא הוי הפסק ועיין פרישה בסי׳ ק״ס ז׳ בדפוס ברלין כתב דהתוס׳ נקטו מלתא דפסיקא כ״ב אמה הוי ודאי הפסק ועט״ז אות ב׳ רמז לזה ועא״ר ועסי׳ ח׳ סי״ג בט״ז י״א ובמ״א אות י״ז ומ״ש שם עוד הקשה על הר״ב בי״ד דודאי מרשות לרשות הוי הפסק:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 166:3"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "י״א עט״ז (וכ״כ באר הגולה ב׳ שכ״מ מברכות כ״ב ב׳ כו׳) ותי׳ הט״ז דהא דאמרו ברכות מ״ב א׳ שלש תכיפות תיכף לסמיכה שחיטה תיכף לגאולה תפלה תיכף לנט״י ברכה אמים אחרונים (שכן אמר ולית הלכתא ככל הני שמעתתא יע״ש ברש״י) ואף ביושב כך כל ששהא כ״ב אמה הוי הפסק משא״כ בין נטילה להמוציא דוקא מעשה ועסק (או דיבור אסור וכמ״ש בקס״ה שהרא״ש היה נזהר שלא לדבר גם שלא להפסיק יותר מכ״ב אמה עמ״א ד׳ שם) ועסי׳ קע״ט בט״ז ומ״א א׳ ואפשר כ״ב אמה ודאי אסור בבהמ״ז דלא הוי תיכף יע״ש ובגליון הש״ע נרשם עסי׳ קע״ד ס״ז במ״א שם אות י״ד דס״ל דאסור להפסיק בין נטילה להמוציא וכאן כתב רק טוב (דיותר היה לחוש למ״ד קודם נטילה לא פטור) אלא שאני התם דמפסיק בעסק ודיבור הוי הפסק וכאן בשתיקה מיירי:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 166:1"
+        },
+        "2": {
+          "he": "כ״ב אמה עט״ז תראה במ״ש דשיעור זה הוי ודאי הפסק כיון כוונה גדולה למ״ש הדרישה (דפוס ברלין בסי׳ ק״ס ז׳ שייך לכאן) דהתוס׳ פרק אלו נאמרין בסוטה ל״ט ב׳ הוכיחו דכ״ב אמה הוי ודאי אבל אה״נ די״ל ה״ה פחות מכ״ב אמה הוי הפסק כדמוכח בזבחים ל״ג ואי״ה במ״א ג׳ אבאר. והביא דברי רש״ל בתשובה סי׳ ל״ד ועסי׳ קס״ה דהרא״ש היה נזהר שלא להפסיק ושלא לדבר והיינו בדיבור א׳ הוי הפסק ובשתיקה כ״ב אמה ע״כ אמר תרתי עב״ח כאן ועמ״א אי״ה שם יבואר: ואם שהה יותר מכ״ב אמה מ״מ אין מברך שנית ענ״י ולא נוטל ידיו ובלבוש כתב כ״ב אמה הוי הפסק והיסח הדעת היא ל״ד כל ששמר ידיו לאו היסח הדעת הוי אפי׳ כל היום מתנה שחרית כבסי׳ קס״ד ס״א אלא דלא הוי תיכף:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 166:2"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] כדי הילוך כ\"ב וכו'. פירוש אפילו בלא דיבור ובדיבור הוי הפסקה אפילו מעט אפילו בדברי תורה, וכן משמע במגן אברהם ריש סימן קע\"ט ודלא כמו שכתב הוא גופיה בסוף סימן קס\"ה, וכן הסכמת הב\"ח וט\"ז. וכתב הפרישה שהתוספות לא דייקי אלא שלא תאמר שיעור כ\"ב לא הוי הפסק קא משמע לן דזה על כל פנים הוי הפסק, אבל בציר מהכי גם כן יש לומר דהוי הפסק, גם הוכיח כן באריכות מפרק כל הפסולים דף ל\"ג ורמב\"ם פרק ג' ופרק ה' מהלכות מעשה קרבנות, ובזה מתורץ קושית מגן אברהם עיין שם. מיהו מרש\"ל וסייעתו שהבאתי בסימן שקודם זה מבואר דאפילו כדי הילוך כ\"ב אמות שרי כיון שאינו מדבר ואינו עושה מעשה וכן משמע בט\"ז. ומה שהאריך הט\"ז ואחרונים מש\"ס דפרק אלו דברים עיין שם, לא עיינו בברכת אברהם דף קצ\"ז. מיהו בדיעבד משמע דאין צריך לחזור וליטול אף בהלך כ\"ב אמות כל שלא הסיח דעתו וכן משמע בכנסת הגדולה ועולת תמיד. כתב בהלכות מהר\"ן כמו שצריך לומר בערב שבת עם חשיכה עשרתם ערבתם וכו', כן צריך לומר קודם נטילת ידים אם כל דבר מוכן הראוי לקידוש ולברכת מוציא כדי שלא יצטרך להפסיק, עד כאן. כתב של\"ה דף פ\"ה טוב וישר לומר מזמור לדוד ה' רועי וכו' מיד אחר אכילת ברכת המוציא מפני שמדבר בבטחון השם יתברך על מזונות ושאר דברים כל ימי חייו ולאחר מותו שלא ילך בגיהנום:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 166:1"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "י\"א שא\"צ ליזהר כו'.  הוא דעת רבינו יואל ורי\"ף בטור דס\"ל דהא דאמרי' תיכף לנ\"י ברכה היינו במים אחרונים דוקא וקש' דאמרי' ר\"פ אלו דברים דב\"ה ס\"ל מוזגין לכוס ואח\"כ נוטלין לידים ומפרש שם טעם בברייתא דבר אחר משום דהכי עדיפא דתיכף לנט\"י סעודה והתו' הקשו לשם למה לא חשבינן בהדי ג' תכיפו' ותירצו כיון דהוא במשנה דאלו דברים לא הוצרך לחשבי' א\"כ מ\"מ שייך גם במים ראשונים תיכף לנטילה ברכה דהיינו סעוד' וכ' מו\"ח ז\"ל דרבינו יואל ס\"ל דלא קי\"ל כהך ד\"א מדלא חשבי' בהדי תכיפות ולא ס\"ל כהתוס' ולענ\"ד דלק\"מ דלענין הפסק ולישב בטל אמרי' דיש איסור לעשות כן במים אחרונים דומיא דשאר תכיפות דחשיב שם תיכף לסמיכה שחיטה ותיכף לגאולה תפלה דבאלו יש איסור אפי' בלא עשה שום מעשה אלא יושב בטל משא\"כ בתכיפות דנט\"י לסעודה אין איסור ביושב בטל אלא בעושה מעש' בנתיים ואפי' בעושה מעש' כתבו התוס' בפ' ע\"פ דקידוש שאומר בנתיים לא הוי הפסק דשאני מזיגה שמוזג הכוס בחמין דצריך דקדוק גדול שלא יהיה חסר או יתר. ועוד כתבו בשם ר\"ת דבחול מיירי ב\"ה שאם יטול קודם מזיגה יעסוק בשאר דברים ולא יאכל אבל בשבת אין לחוש שהשלחן ערוך לפניו. ורבינו יואל דמתיר כאן בהפסק בין נטילה להמוציא לא התיר אלא לישב בטל אבל פשיטא דלא התיר לעשות איז' מעשה בנתיים דזה יביא לידי היסח הדעת והיינו ההיא דתכף לנ\"י סעודה שזכרנו זה נ\"ל ברור ופשוט לדעת רבינו יואל ורי\"ף:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 166:1"
+        },
+        "2": {
+          "he": "כ\"ב אמה.  שזה הי' השיעור משער נקנור עד בית המטבחיים ממילא ע\"כ הוה הפסק כ\"כ התוס' פ' א\"נ הביאם ב\"י סי' קכ\"ח דשיעור זה הוא אינה תכיפה והוי ודאי הפסק וכ' רש\"ל בתשובה סי' ל\"ד דהיינו דוקא במים אחרונים בעי' תיכף לנטילה ברכה אבל בראשונים אין שם כ\"א זהירות בעלמא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 166:2"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "י\"א שא\"צ ליזהר. ומ\"מ אסור למזוג הכוס בחמין בנתיים דצריך דקדוק שלא יחסר ושלא יותר והוי היסח הדעת טפי (בתוספ' פסחי' דף ק\"ז ב\"ח) וה\"ה לכל כיוצא בזה ועוד כתבו בשם ר\"ת דבחול אסו' דחיישי' שמא יסיח דעתו וילך לו אבל בשבת דהשלחן ערוך יכול ליטול ידיו ולקדש וה\"ה להבדיל ולאכול עכ\"ל עמ\"ש סי' קע\"ד:",
+          "en": "Either way, one is not allowed to pour hot water into the wine since one is focused on being precise and that would be too much of a loss of focus (tosfot 106b, and Bach). This law applies to anything similar to this.  It is also written there in the name of Rabeinu Tam that it is forbidden to do these on a week day as one my lose focus and leave to do other things, but on the Shabbat when the table is all set, one can wash hands and then make kiddush. The same law applies to making havdala and then eating. See what is written in siman 174",
+          "ref": "Magen Avraham 166:1"
+        },
+        "2": {
+          "he": "וטוב ליזהר. וכ' בשל\"ה שבכל יום קודם נטילה יתפלל על מזונו מאת הש\"י ואם שכח להתפלל עד אחר נטיל' מות' להפסיק בכך ע\"כ והעולם נהגו לו' מזמור ה' רועי וגו' בין נטילה להמוציא ועסי' רל\"ה ס\"ב, וכ' רש\"ל על בעל הסעוד' ליתן לגדול באחרונ' ליטול אך אם הביא לו ליטול בראשונה והוא מונע עצמו עבירה הוא בידו לומר אני לא אפסיק ואחרים יפסיקו אלא יטול עצמו וישב ולא ידבר ואם שאלו לו ד\"ת מותר להפסיק ע\"כ עסי' קס\"ז ס\"ה וב\"ח כ' דאסו' אפי' בד\"ת וגם אפי' הישיבה הוי הפסק כמ\"ש רמ\"א ע\"כ וא\"כ רשאי הגדול למנוע עצמו מליטול בראשונה דעכ\"פ איכא קפידא טפי כשמפסיק הבוצע מהאחרים ועוד דהאחרים אם יראו שימשך הדבר יכולים ליקח פת ולבצוע בלחש לעצמן:",
+          "en": "The Shela writes that each day, before washing for bread, a person should give a prayer for the food he receives from G-d, and if he forgot to say this prayer until after he washed he is allowed to say it before saying the beracha on bread. And the world has a custom to say tehillim 23 between washing and hamotzi (see Siman 235:2 - where the Rema says that one doesn't break within the meal but one does break before hamotzi to say Shema and other prayers that were missed).  The Rashal writes that the host should let the greatest man wash last (to allow him to talk until the end/or to not cause him to pause for too long..), but if he was asked first to wash and he chooses to wait till later, this is a transgressions since he is causing others to have a break, rather he should wash and sit down and not speak, and if they ask him a dvar tora he is permitted to stop. End of words of Rashal. See Sman 167:5 (where the SA lists thing that should be at the table in preparation for the beracha). And the Bach writes that it is forbidden to speak, even with divrei Torah, and even the sitting down is a hefsek as the Rema writes (ie, waiting more than 22 amot). With this in mind, a great man can choose not to wash first since we are more concerned when the person saying the beracha has to wait, as opposed to those that are listening. If the guests see that it is taking too long, they can take a piece of bread and recite the blessings for themselves",
+          "ref": "Magen Avraham 166:2"
+        },
+        "3": {
+          "he": "כ\"ב אמה. התוס' בסוטה הוכיחו כן מדאמרינן גבי מצורע לא היה תכף לסמיכה שחיטה שלא היה רשאי ליכנס לעזרה והיה סומך על הקרבן לפני שער נקנור ואח\"כ היו מוליכין הקרבן למזבח ומן השער עד המזבח היה כ\"ב אמה ש\"מ דזה מקרי הפסק, וקשה לי דבזבחים ד' ל\"ג פריך מהא ברייתא למ\"ד ביאה במקצת לא שמה ביאה לעייל ידיה ולסמוך ולשחטי' שם אצל הפתח דס\"ד דקי\"ל כר' דס\"ל דכל העזרה כשרה לשחיט' ומשני דקי\"ל כר\"י דאסור לשחוט כי אם בצד המזבח, והשתא קשה לפי מאי דס\"ד כר' א\"כ אפי' למ\"ד שמה ביאה לסמוך לפני הפתח ולעייליה ולשחטיה אצל הפתח מבפני' אלא ע\"כ כשהולך ממקום למקום חשיב הפסק אפי' הליכ' מועט' וכ\"מ במשנה ס\"פ ב' דמדות במקום שסומכין שוחטין דתכף לסמיכה שחיט' וצ\"ע ועסי' ח' סי\"ג ועסי' קפ\"א ס\"ו מ\"ש דבכדי אין להפסיק כלל, וצ\"ע בי\"ד סי' י\"ט שפסק שיברך ברחוק ד\"א קודם שיכנס לבית המטבחיים דהא אפי' ברכה אחרונה דרשאי להפסיק בינה לאכילה צריכה דוקא במקומה כמ\"ש סי' קפ\"ד ק\"ו ברכה ראשונה, ועיינתי במקור הדין באגודה בחולין סי' ט' משמע שהכל בבית א' וכ\"כ בשבת סי' ו' וז\"ל הרוצה לשתות בבית המרחץ יברך בבית החיצון ע\"מ לשתות בפנימי דהוי כמו מפינה לפינה ע\"ש אבל התו' כתבו בפסחים ד' ק\"א ע\"א ד\"ה ור' יוחנן וכו' דהוי הפסק משמע אפי' מפינה לפינה וכן עיקר דלא גרע מדבור בעלמא ודברי רמ\"א בי\"ד צ\"ע:",
+          "en": "The tosfot in Sota prove this point from the case of a Metzora. A metzora was not able to do semicha on the sacrifice immediately before the slaughter as they were not allowed to enter the Azara. What they did was do semicha outside the entrance gates (Nikanor gates) and then the kohanim to walk the animal to the Mizbeach for the sacrifice. The distance between the gate and the alter is 22 amot and we see it was not a hefsek (the semicha needs to be just before the sacrifice). But I have a problem. This braita is brought in zevachim 33a to argue prove that a small amount that enters is not considered entering until the entire person enters (otherwise, why doesn't the metzora put his hand inside for smicha and then do shchita right there at the entrance). This question is origonally based on the assumption that we are talking about chachamim that you can shecht anywhere in the Azara, and then concludes that it is according to R Yehuda that only by the mizbeach is fine.  But I have an issue, let us just say...... (not sure), rather we must conclude that if you move from one place to another (ie the 22 amot) it should be a hefsek. Even small amount of walking. That is how the mishne in Middot (end of ch2)  seems to imply that in the place of smicha you need shchita. This needs analysis. (Look at siman 8,13 where the SA says that if you make a blessing in your home on tzitzit and then walk to shul you need another blessing for tallis as the walk is a hefsek. Look also at Siman 181:6 about waiting after mayim achronim). And it requires analysis on what it says in Yora Deah 19 where the psak is (if the slaughter house is messy) to say a bracha outside of the slaughterhouse at a distance of 4 Amon as it needs to be in its place (even bracha achrona 184 needs to be in its place. All the more so the first bracha. I looked at the Aguda in chulin (where it says 4 amot) and the 4 amot seem to be in the same house. This is what is mentioned in Shabbos \"someone who wants to drink in the washhouse, should bless in the outside room since it is like a corner to a corner\". But according to tosfot even corner to corner would be a hefsek and this is the prevailing opinion since it is no less that speaking. Therefore the position of the Rema in Yore Dea needs further analysis.",
+          "ref": "Magen Avraham 166:3"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ליזהר.  כתב בזוהר בשלח שיתפלל קודם נטילה על מזונו ואם שכח להתפלל עד אחר נטילה מותר להפסיק בכך. והעולם נוהגים לומר מזמור ה' רועי בין נטילה להמוציא. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 166:1"
+        },
+        "2": {
+          "he": "כ\"ב אמה.  עיין מ\"א וע\"ל סי' ח'. ודוקא לכתחלה אבל בדיעבד לית לן בה. ע\"ת וכ\"כ מהרש\"ל דדוקא במים אחרונים בעינן תיכף לנטילה ברכה אבל בראשונים אין שם כ\"א זהירות בעלמא. ט\"ז ועיין יד אהרן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 166:2"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) שא\"צ ליזהר וכו' - דמה דאמרינן בש\"ס [ברכות נ\"א] תיכף לנט\"י סעודה ס\"ל דהיינו שלא יתעסק בינתים באיזה עסק או מעשה עד שיסיח דעתו או בשיחה הרבה דמביא לידי היסח הדעת [אפילו אם היה בד\"ת] אבל אם יושב בטל ואינו עושה בינתים שום מעשה אף ששוהה הרבה או אפילו משיח מעט אין לחוש כיון שהשלחן ערוך לפניו ודעתו לאכול מיד לא מסיח דעתו:",
+          "en": "(1) That one does not have to careful - That what is said in Shas, the Gemara, Berachos 51, to juxtapose the netilas yadayim to the meal. (that) One should not occupy oneself between them with business matters or (unrelated) actions that distract his attention.  (He should avoid) a lot of conversation that brings him to the point of distraction (even if they involve words of d’vrei Torah). *** But if sits quietly and does nothing meanwhile between them (the brachas of “al netilas yadayim” and “hamotzi”) even if it is a long time (i.e. enough time to walk about 40 feet), or, even if he talks or whispers a little, since the table is set before him and he intends to eat immediately, it is not considered a loss of train of thought, (i.e. a loss of focus or distraction).",
+          "ref": "Mishnah Berurah 166:1"
+        },
+        "2": {
+          "he": "(ב) וי\"א שצריך ליזהר - אפילו בשהיה לחוד כדלקמיה וכ\"ש שלא לדבר בינתים אפילו שיחה מועטת ואפי' בד\"ת חשיב הפסק לדידהו וצריך ליזהר לבד מהדברים שהם לצורך סעודה דמותר להפסיק לכו\"ע:",
+          "en": "(2) And some say you should be careful - Even when he is alone.  And even more so, he should not talk between washing and hamotzi, even talking a little bit or talking words of d’vrei Torah for one has to be concerned about an interruption/hefsek. And he has to watch himself.  (However) for things that are needed for the meal, it is permitted to interrupt for any reason (e.g., asking to pass the salt so one can dip the bread after hamotzi).",
+          "ref": "Mishnah Berurah 166:2"
+        },
+        "3": {
+          "he": "(ג) וטוב ליזהר - כתבו הספרים בשם הזוה\"ק שמצוה לאדם שיתפלל בכל יום על מזונו קודם האכילה. ואם שכח להתפלל עד אחר שנטל ידיו לאכילה יש מצדדים שיכול לומר תפלה זו אחר הנטילה דלא חשיב הפסק דהוי קצת כצורך סעודה [ויש שנהגו לכתחלה לומר מזמור ה' רועי בין נטילה להמוציא] ויותר נכון שיאמרנו אחר אכילת ברכת המוציא וכ\"כ א\"ר בשם של\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 166:3"
+        },
+        "4": {
+          "he": "(ד) ואם שהה וכו' - היינו משעה שנגב ידיו עד ברכת המוציא:",
+          "en": "",
+          "ref": "Mishnah Berurah 166:4"
+        },
+        "5": {
+          "he": "(ה) כדי הילוך כ\"ב אמה - שבשיעור זה נקרא הפסק אפילו ביושב במקומו [ואם הולך מביתו לבית אחר יש שמחמירין אפילו בהליכה מועטת] ומשמע מאחרונים דבשלא לצורך אין לשהות כלל בינתים אלא יברך המוציא מיד אחר הניגוב:",
+          "en": "",
+          "ref": "Mishnah Berurah 166:5"
+        },
+        "6": {
+          "he": "(ו) מקרי הפסק - ולא מקרי תיכף וא\"כ לפי מה שפסק המחבר דטוב ליזהר לתכוף נטילה לסעודה יש ליזהר גם מלשהות בינתים שיעור כזה. ודע דעיקר דין תכיפה המוזכר בסימן זה הוא רק מצוה לכתחלה אבל בדיעבד אפילו שהה הרבה או הפסיק בינתים אין צריך לחזור וליטול ידיו כל שלא הסיח דעתו בינתים משמירת ידיו:",
+          "en": "(6) Accidental Interruption - and not a casual juxtaposition.  And if so, the author of the Shulchan Aruch says that it is better to be careful to juxtapose washing with the meal. And to be careful not to linger between them like this. And the primary law is that this is the preferential way of performing the mitzvah.  After the fact, even if there was a long gap or an interruption, he does not have to go back and wash as long as he was not distracted (i.e., loss his concentration) and he was careful to guard his hands (from becoming dirty or impure).",
+          "ref": "Mishnah Berurah 166:6"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

@@ -1,0 +1,78 @@
+{
+  "chelek": "YD",
+  "siman": 356,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-08T00:01:38.375Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "גבו לצורך המת והותירו. ובו סעיף אחד:מת שלא היה לו צרכי קבורה וגבו לו והותירו אם כשגבו יחדו לצרכי זה המת ינתנו ליורשיו ואם לאו יעשו מהם צרכי מתים אחרים:",
+      "en": "A dead person who did not have [sufficient funds] for the burial needs and they raised [money] for his sake and there was a surplus; if at the time they collected the [money it was done specifically] for the needs of this particular dead person, [the surplus] should be given to his heirs; but if not [collected specifically for this particular person, the surplus] should be used for the needs of other dead.1Mishna Shek. II, 5. Although we accept the principle that ‘designation is not considered a reality’ (San. 47b; supra § 349, 1), and consequently, the surplus should not be prohibited for general use, neverthelss, since the deceased was put to shame through the public collection of funds for his funeral needs, we say that the dead forgives his humiliation for the sake of his heirs only (ibid. 48a; supra § 253, 6). It follows therefore, that a woman may not collect her marriage settlement (Kethubah), nor a creditor his debt, from this surplus — A.H. The collection refers to money or other articles for the sake of the dead — ShaK. If the collector withholds the surplus in order to erect a monument over the grave of the dead person, and the heir demands the surplus for himself, contending that many other graves are also without monuments, the surplus must be given to the heir, unless it is customary that all the members of the dead person’s family have monuments on their graves, in which case the collector may use the money for the monument — P.Tesh. Cf. Ḥ.M. § 210 end, Gloss: ‘Anything which is transferred to the dead for the sake of his burial needs, becomes the property of the deceased.’",
+      "ref": "Shulchan Arukh, Yoreh Deah 356:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה סוף פרק ב' דשקלים ופי' הרמב\"ן אע\"ג דהזמנה לאו מילתא היא אלא משום דזילותא ה\"ל לגביה ואחולי אחיל זילותיה ליורשים וכן פירש בגמרא דסנהדרין דף מ\"ח ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 356:1"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "יחדו לצרכי זה המת. ל\"ש מעות או שאר דברים ינתנו ליורשיו לא משום דקני ליה זה המת בגביי' בעלמא דהא קי\"ל הזמנה לאו מלתא היא אלא משום דזילותא ה\"ל למת זה בגבייה ואחיל לי' זילותא ליורשיו וע\"ל סי' רנ\"ג ס\"ו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 356:1"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "ינתנו ליורשיו. אע\"פ דהזמנה לאו מילתא היא מ\"מ כיון דהוה ליה זילותא לגביה אחולי אחליה לגבי יורשיו כן איתא פרק נגמר הדין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 356:1"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "ליורשיו. עבה\"ט של הרב מהרי\"ט ז\"ל ועי' ברדב\"ז שם סי' רמ\"ג שכתב עוד דאם הגבאי רוצה לעכב המותר כדי לעשות לו מצבה והיורש אומר פוק חזי כמה קברות איכא בלא מצבות וגם זה כאחת מהם ינתן ליורשיו ולא יבנה בו מצבה אלא דאם מנהג כל בני משפחתו להיות להם מצבה על קברותיהם הדין עם הגבאי ועושה לו מצבה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 356:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "יחדו.  ל\"ש מעות או שאר דברים ינתנו ליורשיו ולא משום דקניה ליה זה המת בגבייה בעלמא אלא משום דזילותא הוא אחיל ליה ליורשיו וע\"ל סימן רנ\"ג ס\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 356:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

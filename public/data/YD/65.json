@@ -1,0 +1,540 @@
+{
+  "chelek": "YD",
+  "siman": 65,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 14,
+  "fetchedAt": "2026-07-08T00:01:14.549Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "חוטין האסורין משום דם ומשום חלב ודיני גיד הנשה. ובו י\"ד סעיפים: יש חוטין שאסורים משום דם שבהם כגון חוטין שביד ושבכתף ושבלחי התחתון שבצד הלשון מכאן ומכאן ובלשון ובצואר וחוטי הלב וחוטי העוקץ וחוטי הדקין שהם בתוך שומן הדקין כמו בית עכביש מסובכין זה בזה: הגה ונוהגין להסיר ג\"כ ג' חוטי אורך אצל החזה מבפנים (א\"ו הארוך) וכן נוטלין חוטין אחורי האזנים (סדר הניקור וארוך ואינו אלא חומרא בעלמא) (ד\"ע): וקרום של המוח שבקדקד וקרום שעל הביצים ומליחה לא מהני בהו אם לא שיחתכם תחלה (וחתוך לתחת) (ר\"ן בשם הראב\"ד ורשב\"א בת\"ה וטור סי' ס\"ו בשם יש גאוגים) ואח\"כ ימלחם והני מילי לבשלם בקדרה אבל לצלי אינם צריכים לא חתיכה ולא מליחה משום דנורא מישאב שאיב ויש מי שאומר דדוקא כשפני החוטין על פני האש אבל אם הם מובלעים בתוך הבשר אין האש שואב אלא אם כן יחתכם (רשב\"א וע\"ל סימן ס\"ז בב\"י): הגה ואם לא נטלן ובשלם בלא חתיכה צריך ששים נגד כל החוטין (רשב\"א) ובצלי סגי בקליפה (הגהות אשיר\"י והגהות ש\"ד בשם מהרא\"י סי' ל\"ג) ועיין לעיל סימן כ\"ב:",
+      "en": "Des veines défendues en raison du sang ou de la graisse et du tendon jumeauIl y a certaines veines qui sont défendues en raison du sang qu’elles renferment; telles sont par exemple les veines des pieds de devant, celles de l'épaule, celles de la mâchoire inférieure, disposées de tous les deux côtés de la langue, celles de la langue et du cou, celles du cœur, celles de la région lombaire, celles des intestins, situées dans l’appendice graisseux de l'épiploon et affectant la forme d'un réseau aux filaments flexueux, la méninge qui enveloppe le cerveau, et la tunique érythroïde des testicules. Le salage n’est d'aucune utilité à ces veines défendues; à moins qu’elles n’eussent été préalablement ouvertes et placées de manière que l’entaille se trouve en dessous et salées ensuite. Il ne s’agit ici que de la cuisson de ces veines; mais si l'on veut les griller, elles n’ont besoin ni d’une ouverture, ni de salage, attendu que le feu en absorbe le sang. Quelqu'un opine que le feu n'absorbe le sang des veines qu'autant que celles-ci touchent directement au feu, mais non pas quand elles sont situées dans l'épaisseur des muscles.GLOSE: Si on n’a pas enlevé ni ouvert ces veines avant la cuisson, il faut que la marmite où elles étaient cuites contienne une quantité d'aliments soixante fois aussi grande que celle des veines. Si elles étaient grillées, il suffit de ratisser la viande à l'endroit où les veines étaient situées. V. plus haut, § 22.",
+      "ref": "Shulchan Arukh, Yoreh Deah 65:1"
+    },
+    {
+      "seif": 2,
+      "he": "הרוצה לצאת ידי חתיכת חוטין אלו לא יסמוך על חתיכת הבשר אלא יחתוך הבשר והעצם לשנים: הגה וחוטי הצואר לא מהני בהו אם חתכם רק שיחתוך המפרקת לשנים (ארוך וא\"ז):",
+      "en": "Celui qui désire se conformer au règlement touchant l'entaille des veines, ne doit pas se contenter d’une entaille pratiquée au muscle, mais il est tenu de couper le muscle et l’os en deux morceaux.GLOSE: Pour les veines du cou, l'entaille ne suffit pas, mais il faut sectionner le cou.",
+      "ref": "Shulchan Arukh, Yoreh Deah 65:2"
+    },
+    {
+      "seif": 3,
+      "he": "גף העוף כיד הבהמה והלכך צריך לחתוך עצם האגפים ולמלחם וכן עצם הלחיים בעוף: הגה ויש אומרים שאין צריכים ליטול בעוף חוטין אלו משום שדקין הם והדם יוצא משם על ידי מליחה (ר\"ן פרק השוחט בשם י\"א) וכן המנהג שאין נוטלין מן העוף שום חוטין רק חוטי הצואר ובאותן יש ליזהר ליטלן משם או יחתכם עם המפרקת לשנים מיהו בדיעבד אם הוסר רק הראש מן העוף סגי (ארוך בשם א\"ז) ונוהגין לחתוך בירכי העופות בפרק הארכובה התחתונה משום שלפעמים נמצאים חוטים אדומים ברגלי העופות ואם לא עשה כן מותר בדיעבד אפילו נתבשלו כך אע\"פ שנמצאו חוטין אדומים (הכל במרדכי פג\"ה) שאינו אלא שומן בעלמא:",
+      "en": "L’aile de la volaille est assimilée au pied de devant des animaux quadrupèdes, et par conséquent on doit en couper l'os avant le salage. Il en est de même de l’os maxillaire de la volaille.GLOSE: D'aucuns opinent que chez la volaille on n’a pas besoin d'enlever les veines mentionnées, vu que, grâce à leur ténuité, le sang s’en écoule à l’aide du salage. Il est, en effet, d’usage de ne pas enlever, chez la volaille, d’autres veines que celles du cou; mais il faut faire attention d'enlever ces dernières, ou de les couper en deux avec le cou. Lorsqu'on se trouve en présence d'un fait accompli, il suffit qu'on ait enlevé la tête de la volaille. Il est d'usage de couper les pattes des volailles à la région de la dernière articulation, parce qu'on y trouve parfois des fibres rouges. Lorsqu'on n'a pas agi ainsi, la viande est permise, si l’on se trouve en présence d’un fait accompli, alors même que les pattes étaient cuites sans avoir été préalablement coupées, et alors même qu'on y trouve ensuite des fibres rouges, attendu que ces fibres ne sont que des filaments graisseux.",
+      "ref": "Shulchan Arukh, Yoreh Deah 65:3"
+    },
+    {
+      "seif": 4,
+      "he": "ביצי זכר כל זמן שלא היה לו שלשים יום מותרים לקדרה בלא קליפה אפילו אם יש בהם כמו חוטין אדומים ואם היה לו שלשים יום אם יש בהם כמו חוטין אדומים אסורין לקדרה בלא קליפה אבל לצלי מותרים: הגה ונהגו לנקר הביצים אף כשהם פחותים משלשים יום וכן להסיר משם גיד הגדול ולחתוך בהם הרבה חתיכות (א\"ו הארוך) ונהגו ליקח מן הכתף הבשר שקורין דרי\"ז (סדר הניקור) ואין בו איסור רק הוא משום מיאוס. עוד נהגו בלונבי\"ל שקורין לידווי\"ץ לצלותו ולא לבשלו ואין בו איסור אם מבשלו ואפילו לכתחלה מותר (ב\"י וארוך) וכן נוהגין להסיר העינוניתא דורדא ולהשליכה ולא לאכלה ואין איסור בדבר (א\"ו הארוך) וכן נהגו לחתוך בין הפרסות של רגלי הבהמה ולהסיר משם בשר לבן ודק משום מיאוס ואם לא עשה כן אין לחוש (ד\"ע):",
+      "en": "Lorsque l'animal saigné n’a pas encore l’âge de trente jours, on peut en cuire les testicules sans les dépouiller de la tunique albuginée qui les enveloppe, alors même qu'on y aperçoit déjà les vaisseaux flexueux, lesquels, vus à travers la couche fibreuse qui les revêt, ressemblent à des filaments rouges. Mais lorsque l'animal est déjà âgé de trente jours, il est défendu d'en cuire les testicules sans les avoir préalablement dépouillés de la tunique albuginée, si l'on y aperçoit déjà les vaisseaux mentionnés. Cependant on peut les griller.GLOSE: Il est d’usage d'enlever les vaisseaux sanguins testiculaires, alors même que l'animal n’est pas âgé de trente jours, ainsi que les parois du canal déférent, et de pratiquer dans les testicules plusieurs entailles. Il est également d'usage d’enlever de l'épaule les glandes qui s’y forment parfois et qu’on appelle « druesen » en allemand; l'élimination de ces morceaux n’a pas lieu par suite d'une défense, mais simplement par répugnance. Il est en outre d'usage de griller l'ombilic, mais de ne point le cuire; pourtant il n'est pas défendu si on l'a cuit, et on peut même le cuire de propos délibéré. Il est aussi d'usage d'enlever le lobule du poumon, de le jeter et de ne point le manger; cependant il n’est pas défendu. Enfin, il est d'usage de pratiquer une entaille à la fourchure des pieds des ruminants, et d'en lever la chair blanchâtre et aplatie qui se forme en cet endroit, parce qu’elle est répugnante; mais il n’y a pas d'inconvénient si on n’a pas agi ainsi.",
+      "ref": "Shulchan Arukh, Yoreh Deah 65:4"
+    },
+    {
+      "seif": 5,
+      "he": "גיד הנשה נוהג בבהמה וחיה אפי' אם אין כף שלהם עגול ונוהג בירך של ימין ובירך של שמאל ואינו נוהג בעוף מפני שאין כף שלו עגול אבל אם נמצא לו כף עגול נוהג בו ואין צריך לבדוק אחריו אם הוא עגול: הגה ואין חילוק בין חיה לבהמה בכל דבר האסור משום גיד או משום דם וכן בעוף אם היה לו כף ולכן כל דבר שמנקרין בבהמה צריך לנקר בחיה ג\"כ (מרדכי פג\"ה) רק מה שאסור משום חלב אין צריך לנקר בחיה:",
+      "en": "La défense du tendon jumeau s'applique aux animaux domestiques et aux animaux sauvages, alors même que la tête du fémur n’est pas arrondie; elle s'applique, en outre, à la cuisse droite aussi bien qu’à la cuisse gauche. Mais elle ne s'applique pas à la volaille, vu que chez la volaille la tête du fémur n’est pas arrondie. Cependant si, par exception, on trouve chez une volaille la tête du fémur arrondie, la défense du tendon s'applique également à elle. On n'est pas tenu toutefois d'examiner si la tête du fémur de chaque volaille qu'on veut manger est arrondie ou non.GLOSE: Dans tout ce qui concerne la défense de certaines parties de l'animal à cause du tendon ou du sang, il n’y a aucune différence entre un animal sauvage, un animal domestique et une volaille dont la tête du fémur est arrondie. Il s'ensuit que tout ce qu’on enlève chez un animal domestique doit être également enlevé chez un animal sauvage, excepté les parties défendues par raison de la graisse, qu’on n’a pas besoin d'enlever chez un animal sauvage.",
+      "ref": "Shulchan Arukh, Yoreh Deah 65:5"
+    },
+    {
+      "seif": 6,
+      "he": "נוהג בכוי:",
+      "en": "La défense du tendon s'applique aussi au mouflon.",
+      "ref": "Shulchan Arukh, Yoreh Deah 65:6"
+    },
+    {
+      "seif": 7,
+      "he": "אינו נוהג בשליל כל שאינו טעון שחיטה וי\"א שנוהג בו אם שלמו לו חדשיו ומצאו חי (ונהגו להחמיר כסברא האחרונה) (קבלת ר\"י בן חביב):",
+      "en": "We are not accustomed to doing this [removing the forbidden fats and sciatic nerve] on a fetus that does not require shechita. There are those who say we should do it if it completed gestation and was found alive. Rema: our custom is to be strict like the second opinion.",
+      "ref": "Shulchan Arukh, Yoreh Deah 65:7"
+    },
+    {
+      "seif": 8,
+      "he": "שני גידים הם בירך אחד פנימי סמוך לעצם והשני חיצון סמוך לבשר ושניהם אסורים וצריך לחטט אחריהם אלא שהפנימי אסור מן התורה והוא הפושט בכל הירך והחיצון אסור מדבריהם וקנוקנות שבשניהם אסורים מדבריהם וצריך לחטט אחריהם ושומנם ישראל קדושים הם ונהגו בו איסור: הגה וראשי הקנוקנות נכנסים בראשי העצמות על כן המנקר צריך לשבור ראשי העצמות כדי להסיר הקנוקנות מעיקרן (ב\"י בשם הגהות אשיר\"י) ואין ללמוד סדר הניקור רק במראית העין מן המומחה הבקי בניקורו (ד\"ע):",
+      "en": "Il y a deux tendons dans la cuisse, dont l’un est situé du côté de l’os, l’autre du côté des muscles. Tous les deux sont défendus, et on doit explorer la cuisse pour les en extraire. Pourtant ce n'est que le tendon intérieur, celui qui longe toute la hauteur de la cuisse, qui est défendu en vertu de la loi biblique; alors que l'extérieur n’est défendu qu'en vertu d’une ordonnance rabbinique. Les veinules distribuées entre les tendons sont également défendues par ordonnance rabbinique. Quant aux appendices graisseux qui entourent ces veinules, les Israélites, en zélés qu'ils sont, les considèrent comme défendus.GLOSE: Les bouts de ces veinules s’insérant aux extrémités des os, celui qui en pratique l’extraction doit couper les extrémités des os, afin de parvenir à extraire les veinules radicalement. Il convient de ne pas apprendre les règlements de l'extraction que par la pratique, et chez un maître éminent et expérimenté dans la pratique de l’extraction.",
+      "ref": "Shulchan Arukh, Yoreh Deah 65:8"
+    },
+    {
+      "seif": 9,
+      "he": "גופו של גיד אינו אלא כעץ שאין בו טעם ואף עפ\"כ אסרתו תורה לפיכך אינו אוסר תערובתו בפליטתו והקנוקנות והשומן יש בהם טעם לפיכך אוסרין תערובתן בפליטתן:",
+      "en": "La substance du tendon jumeau ne ressemble qu’à celle du bois, en ce sens que le tendon n'a aucune saveur. En dépit de cette circonstance, l'Écriture l’a défendu. Il s'ensuit qu’en cas de mélange du tendon avec d’autres aliments, ceux-ci ne sont pas défendus en raison de l’exhalation. Mais les veinules situées entre les tendons ainsi que les appendices graisseux qui les entourent ont bien une saveur, Aussi rendent-ils, en cas de mélange avec d’autres aliments, ces derniers défendus en raison de l'exhalation.",
+      "ref": "Shulchan Arukh, Yoreh Deah 65:9"
+    },
+    {
+      "seif": 10,
+      "he": "גיד הנשה מותר בהנאה:",
+      "en": "La jouissance du tendon jumeau est permise.",
+      "ref": "Shulchan Arukh, Yoreh Deah 65:10"
+    },
+    {
+      "seif": 11,
+      "he": "שולח אדם לעובד כוכבים ירך וגיד הנשה בתוכה בין שלימה בין חתוכה ואם נותנה לו בפני ישראל ואומר לו שהיא כשרה לא יתננה לו כשהיא חתוכה אלא אם כן ניטל גידה:",
+      "en": "On peut offrir à un païen une cuisse d'animal, entière ou découpée, renfermant le tendon jumeau. Mais lorsqu'on l'offre au païen en présence d’un Israélite et qu’on lui dit que cette cuisse est permise d'après le rite juif, il ne faut la remettre découpée qu'après en avoir préalablement extrait le tendon.GLOSE: De crainte que l’Israélite ne l’achète ensuite chez le païen.",
+      "ref": "Shulchan Arukh, Yoreh Deah 65:11"
+    },
+    {
+      "seif": 12,
+      "he": "וכל ירך שיצא מתחת יד ישראל מחותכת כדרך שמחתכין אותה מנקרי בשר היא בחזקת שניטל גידה:",
+      "en": "Toute cuisse d'animal provenant d'une maison juive et découpée de la façon habituelle chez les hommes qui pratiquent l'extraction, est censée dépourvue du tendon jumeau.",
+      "ref": "Shulchan Arukh, Yoreh Deah 65:12"
+    },
+    {
+      "seif": 13,
+      "he": "מי שניקר והלך לו ואין אנו יודעים אם הוא בקי בניקור ואין כאן מי שהוא בקי בניקור להראות לו מותר: הגה ודוקא שיודעים שהשלים ניקורו ואם לאו הכי אסור שמא לא השלים הניקור (ר\"ן בשם ריב\"א) ואם אפשר להראות לבקי אין לסמוך על המנקר (ב\"י ממשמעות הרא\"ש) אם לא ידעינן אותו בקי בניקור ומוחזק בכשרות ואע\"ג דרוב המצוין אצל ניקור מומחים הם מכל מקום טוב להחמיר (ב\"י בשם הרשב\"א) ועיין לעיל סימן א' גבי רוב מצוין אצל שחיטה וכו':",
+      "en": "Lorsque la personne qui a pratiqué l'extraction est partie après l’opération, sans que nous sachions si elle a les aptitudes nécessaires, et qu'il n’y a pas un maître expérimenté que nous puissions consulter à ce sujet, la viande est permise.GLOSE: Mais à condition seulement qu'il soit avéré que la personne qui vient de partir a achevé l'opération; sans quoi la viande est défendue, de crainte que l'opération n'ait été interrompue. Pourtant, lorsqu’on a l’occasion de consulter un maître expérimenté, il ne faut pas se rapporter à l’opération pratiquée par un homme dont nous ignorons les aptitudes et les qualités morales. Bien que la plupart des personnes qui pratiquent l'extraction soient habiles, il convient de se montrer sévère sous ce rapport. V. plus haut, § I, au sujet de la plupart des personnes qui procèdent à l’abatage.",
+      "ref": "Shulchan Arukh, Yoreh Deah 65:13"
+    },
+    {
+      "seif": 14,
+      "he": "הטבחים נאמנים על גיד הנשה ומיהו אין לוקחין בשר מכל טבח ששוחט לעצמו ומוכר לעצמו אלא אם כן היה מוחזק בכשרות:",
+      "en": "On accorde foi au dire des bouchers pour ce qui concerne l'extraction du tendon jumeau. Mais il ne faut pas acheter de la viande chez un boucher qui saigne les animaux et en vend la viande pour son propre compte, à moins qu'il ne soit un homme d’une piété notoire.",
+      "ref": "Shulchan Arukh, Yoreh Deah 65:14"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מימרא דרבי אבא אמר ר' יהודה וכו' חולין דף צ\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:1"
+        },
+        "2": {
+          "he": "רש\"י שם וטור שאר פוסקים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:2"
+        },
+        "3": {
+          "he": "מימרא דרבי אבהו וכו' שם קל\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:3"
+        },
+        "4": {
+          "he": "טור וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:4"
+        },
+        "5": {
+          "he": "שם בשם הרמב\"ם בפ\"ז מהלכות מאכלות אסורות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:5"
+        },
+        "6": {
+          "he": "מימרא דאביי וכו' שם דף צ\"ג שם בגמ':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:6"
+        },
+        "7": {
+          "he": "טור בשם הגאונים ושלזה הסכים הרא\"ש והוא דעת רוב הפוסקים עב\"י.",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:7"
+        },
+        "8": {
+          "he": "בשם רשב\"ץ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:8"
+        },
+        "9": {
+          "he": "הר\"ן בשם הראב\"ד וכן כתב הרשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:9"
+        },
+        "10": {
+          "he": "הרשב\"א והר\"ן בשם הראב\"ד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:10"
+        },
+        "11": {
+          "he": "מימרא דמר בר רב אשי שם צ\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:11"
+        },
+        "12": {
+          "he": "משנה שם דף פ\"ט:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:12"
+        },
+        "13": {
+          "he": "בעיא דרבי ירמיה שם דף צ\"ב ולא נפשטא ולחומרא דאיסור דאוריי' הוא הסכמת הפוסקים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:13"
+        },
+        "14": {
+          "he": "טור וכ\"כ המרדכי דיש לנו לילך אחר הרוב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:14"
+        },
+        "15": {
+          "he": "כריתות דף י\"ט:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:15"
+        },
+        "16": {
+          "he": "עיין במה שציינתי בסימן דלעיל סעיף ב':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:16"
+        },
+        "17": {
+          "he": "מימרא דרב יהודה אמר שמואל שם דף צ\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:17"
+        },
+        "18": {
+          "he": "כפי' רש\"י שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:18"
+        },
+        "19": {
+          "he": "שם דף צ\"ב וכעולא וכדע' הרשב\"א מדפסק אביי כוותי' וש\"פ ופי' קנוקנות הם הגידין הדקים ההולכים באורך הירך מתחת לבשר מגיד החיצון לגיד הפנימי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:19"
+        },
+        "20": {
+          "he": "בריי' שם וכר\"מ וכשמואל הרי\"ף ושאר פוסקים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:20"
+        },
+        "21": {
+          "he": "מסקנת הגמרא שם דף צ\"ט:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:21"
+        },
+        "22": {
+          "he": "שם כפירוש רש\"י וכ\"פ הרי\"ף והרמב\"ם בפרק ט\"ו וכן נראה מדברי הרא\"ש וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:22"
+        },
+        "23": {
+          "he": "טור בשם הרמב\"ם ושלזה הסכים הרא\"ש כרבי יהודה בברייתא פסחים דף כ\"ב ובסתם משנה דלקמן שולח אדם וכו':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:23"
+        },
+        "24": {
+          "he": "משנה שם חולין דף צ\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:24"
+        },
+        "25": {
+          "he": "שם בגמרא וכפי' התוס':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:25"
+        },
+        "26": {
+          "he": "הרא\"ש וש\"פ בשם הראב\"ד מבריי' דשולח אדם ירך לחבירו שלימה וכו' דף צ\"ד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:26"
+        },
+        "27": {
+          "he": "גם זה שם בשמו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:27"
+        },
+        "28": {
+          "he": "משנה שם דף פ\"ט וכחכמים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:28"
+        },
+        "29": {
+          "he": "טור בשם הרמב\"ם מברייתא דאין לוקחין בסוריא וכו' ע\"א דף ל\"ט וכ\"ש חוצה לארץ ואף ארץ ישראל בזמן הזה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 65:29"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "כגון. עש\"ך אף ששחט וזרידין בעוף אפ\"ה צריך לחתוך אלו החוטין וה\"ה בבהמה אף ששחט וזרידין:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 65:1"
+        },
+        "2": {
+          "he": "וקרום. עש\"ך ולקמן מיירי שלא ניקב עצם הגולגלת דהוה כמולח בכשא\"מ וכאן אפילו ניקב העצם צריך הקרום חתיכה ומליחה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 65:2"
+        },
+        "3": {
+          "he": "וקרום. עש\"ך ור\"ל דיש חילוק אם עבר שלשים יום ומ\"ש שם דצריך לקלוף הקרום היינו אם אינו רוצה לחתוך הא חתיכה ומליחה מהני עמ\"ש שם באות ט':",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 65:3"
+        },
+        "4": {
+          "he": "ואם. עש\"ך בדיעבד חוטי הצוואר אין אוסרין דמנתחה אבר אבר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 65:4"
+        },
+        "5": {
+          "he": "ובצלי. עש\"ך דבין במליחה וצליה הקליפה חומרא בעלמא הוא ולא מדינא דכבכ\"פ דלא הוה דם בעין ממש. ועיין סימן ע\"ג אות כ' דשם בכבד לכתחלה צריך קליפה ואם נתבשל סך אפילו קליפה א\"צ וה\"ה כאן ולא ידענא הטעם ואולי דלא ליהוי כתרתי דסתרן דאם אתה מצריך קליפה יבואו לומר דאין בישול אוסר בס' ומש\"ה אף קליפה ל\"צ כיון דחומרא בעלמא הוא וה\"ה כאן:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 65:5"
+        },
+        "6": {
+          "he": "סגי ול\"ד לוורידין דחוטין אלו עבים יותר מוורידין ואין פולטין בבשר ומש\"ה סגי כאן בקליפה ולא בעי נטילה בצלי:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 65:6"
+        },
+        "7": {
+          "he": "וי\"א. עש\"ך דהפרישה מחמיר אמנם המנהג שאין חותכין בעוף כי לא מצינו בו חוטי מליאים דם כמו בבהמה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 65:7"
+        },
+        "8": {
+          "he": "אם כו'. ובסעודות גדולות שעושין שלם עם הראש וודאי דיעבד יש לאסור אם לא הסיר אלו החוטין עסי' כ\"ב:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 65:8"
+        },
+        "9": {
+          "he": "בלא קליפה. וה\"ה חתיכה ומליחה עס\"א ועב\"י וש\"ך. כתב הכה\"ג בהגהות הטור אות י\"א דוקא ביצי גדי וטלה הא ביצי שור אף תוך ל' יום צריך לנקר הקרום שעליהן ולפי המנהג אף גדי וטלה נוהגין כן ומיהו דיעבד אין לאסור:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 65:9"
+        },
+        "10": {
+          "he": "אבל. עש\"ך דכאן הי\"א נמי מודים כיון דהם מופשטין אצל האש נורא מישב שייב משא\"כ גידין המובלעין תוך הבשר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 65:10"
+        },
+        "11": {
+          "he": "ונהגו. עש\"ך משום לא פלוג ודיעבד שרי תוך ל' יום אף באין ס' ואף ביצי שור שרי דיעבד כמ\"ש באות ט': מה שכתב בש\"ע ס\"י ג\"ה מותר בהנאה יש חולקין עיין טור ופר\"ח אות י\"ו ויש\"ש פג\"ה סימן ח\"י פסק כן ומיהו שומן וקנוקנות התיר בהנאה והכה\"ג באות מ' בשם דמש\"א אוסר אף שזמן וקנוקנות בהנאה ואינו כמ\"ש הפר\"ח דמוכח מתוס' דשרי. שהרי כתבו ומה שאנו מוכרין חתיכת ירך שאין מנוקר דהעובד כוכבים אין נותן בשביל זה יותר והא אית ביה שומן ומיהו לקנוקנות אין ראיה: אמר הכותב ראיתי לכתוב בכאן קצת פרטים השייכים לאיסורי הנאה וגם הא ואמרו לא יושיט כו'. דע דלמאן דאוסר ג' בהנאה (הוא ר\"ש) אפשר דלדידיה היה לוקה על הנאה ואף הר\"מ ז\"ל יודה לזה דפסק בפ\"ח וי\"ד ממ\"א דאיסורי הנאה אין לוקין מפרש המ\"מ שם דמפרש הא דפסחים כל איסורי הנאה אין לוקין אלא דרך הנאה היינו אכילה דכל הראוי לאכילה לא הוה הנאתו דרך הנאה אלא אכילה וא\"כ ג\"ה שאין בו טעם אם על אכילה לקי כ\"ש על הנאה. וראיתי למ\"ל בפי\"ד מהל' אבל הכ\"א שנסתפק אי נפסד מאוכל אדם אי אסור בהנאה כיון דהנאה מלא יאכל נפיק לר\"א וכל היכא דבאכילה אין בו איסור ה\"ה הנאה. ולא ידענא מהו דהא ליכא כ\"א חמץ וש\"ה ובפירוש אמרו הפוסקים דאי חמץ מנקברים עפרן אסור ואף אי מנשרפין דוקא אפר הא נפסד אסור בהנאה ועיין ריש פרק כל שעה בהא דרבא חרכו קודם זמנו ומיהו יש לומר דסובר נקברין עפרן אסור מדרבנן ובחדושינו לפסחים ובפרי בא\"ח אבאר בזה: והנה הטור לא הביא דג\"ה אין נוהג בטמאים ובכר\"ו סי' ס\"ב וס\"ד כתב דנ\"מ לענין מומר וכתבנו בסי' ס\"ב וס\"ד דמדרבנן אסור עסי' קנ\"א ס\"ה בהגה\"ה מ\"ש רמ\"א ונהגו להקל ובש\"ך אות ז' דעובד כוכבים אין מוזהר על השיתוף משמע הא בלא\"ה איסורא דרבנן איכא. עיין שו\"ת חו\"י סי' קפ\"ה דאין להניח למשרתת מומרת להחם תנור או להדליק נרות בשבת ותמה שם על מ\"ש הש\"ך בקנ\"א דמומר אין בית דין מצווין להפרישו דמנ\"ל הא ודוקא עובד כוכבים הא מומר מצווין להפרישו. ויש לראות מ\"ש שם דב\"נ לא מוזהר על השיתוף כי לכאורה הא דב\"נ אין מוזהר על שיתוף היינו בשבועה שישתף ש\"ש ונביאים דבישראל אסור הא לעבוד עבודת כוכבים בשיתוף דישראל נהרג עליה ה\"ה ב\"נ כמ\"ש הר\"מ ז\"ל בפ\"ט מהל' מלכים וסנהדרין ס\"ג וצ\"ע כעת. ועיין משפטי שמואל סי' קל\"ד כתב דאסור לומר לצדוקי להדליק בי\"ט ומשמע שם דמומר אף לעבודת כוכבים דינו כישראל וכתב דלומר לו שיעשה עבירה אף שבלא זה יכול לעשותו ודאי אסור יע\"ש *). עי' סי' ס\"ב בכה\"ג הביא כמה פרטים בענין ל\"ע לת\"מ יעוין שם:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 65:11"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "אחורי. עט\"ז דבגמרא לא הוזכר כ\"א חמשה חוטי ומש\"ה חוטין שבחזה ואחורי אזנים אינן אלא חומרא ואם לא נטלן ובשלן א\"צ ששים עיין רמ\"א לקמן:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 65:1"
+        },
+        "2": {
+          "he": "וקרום. עט\"ז הנה הטור כתב קרום המוח שלא חתכו ולא הניח על ביה\"ש הקרום אסור והמוח מותר והקשה הב\"י דבסימן ס\"ח כתב דהמוח אסור ותי' דכאן מיירי שהוציא המוח והקשה דא\"כ איך שייך ואותביה אביה\"ש. ע\"כ העלה דט\"ס הוא וצ\"ל המוח אסור ולמד מכאן הט\"ז דמותר לצלות כבד על הנייר ויש לעיין קצת דלמא הנייר חשיב ככלי שאין מנוקב ול\"ד לקרום דהמוח פולט דרך הקרום ואפ\"ה הקרום אסור דיש בו הרבה דם ואין יוצא או פירש ממקום למקום עוד הביא ה\"ז דברי הטור חמשה חוטי והביא דברי הר\"מ חוטי עוקץ והביא דברי הגאון יש חוטין וצריך לחותכן וחומרא בעלמא הוא היינו מה שהחמיר הגאון ליטול כ\"א חוטין ולא קאי אמ\"ש הר\"מ חוטי עוקץ דאל\"כ היה להטור לומר וחומרא שהחמירו לשון רבים על גאון ור\"מ. ובאמת קשיא כיון דלא הוזכר בגמרא כ\"א חמשה חוטי א\"כ אף מה שהחמיר הר\"מ בעוקץ הוה חומרא בעלמא ותי' דהר\"מ חשיב הני חוטי דאסורי משום דם וצריך מליחה ול\"ת דאין מוחזקין בדם כמו שסיים הר\"מ אבל המעיים איץ מחזיקין בהם דם ואה\"נ דא\"צ חתיכה משא\"כ הגאון הצריך חתיכה ע\"כ אמר הטור דחומרא הוא. והמחבר שכתב כל הני חוטי בעינן חתיכה דפשיטא דכל דבר צריך מליחה אלא חתיכה בעינן ועיין פרישה שכתב ג\"כ דמה שמנה הר\"מ הוא מדינא דנכללין באלו חמשה חוטין וצריך ס' כנגדם וכמשמעות המחבר והר\"ב: ודע דבש\"ע יש קושיא דכאן כתב חוטין שבעוקץ משום דם והוא פי' הר\"מ ולעיל סימן ס\"ד חשיב ליה בהדי חוטי חלב ואיך יועיל חתיכה ומליחה וכבר הוקשה להש\"ג והפרישה וכה\"ג אטור שכתב כן וכה\"ג בסימן ס\"ד אות נ\"ג ופרישה תי' וגם בהגהות הטור אות י\"ו דבסימן ס\"ה תפס לשון הר\"מ ולא נקיט לה אלא משום אינך חוטין והנה ברבינו המחבר לא יתישב זה דכאן תפס בפשיטות דחוטי עוקץ משום דם ומהני חתיכה ומליחה ובסימן ס\"ד סי\"ג קחשיב בחוטי חלב. וראיתי לכה\"ג שם שכתב בשם דמש\"א שבתי' מהר\"ן הלכות ניקור הביאו הפרישה בסימן ס\"ד אות כ\"ב דהנק\"א היינו בחצי חלק אחוריים וחצי פנים אין בו משום חלב כי אם משום דם יתורץ קושית ש\"ג על הטור ולא ידענא איך דאדרבה מהר\"ן השיג על הטור שכתב דחצי חלק של פנים מצוין אותם הפיצולים ומשום חלב וליתא דע\"כ פרש\"י דחוטי עוקץ אסורים משום חלב אלא של אחורים לא צד פנים ויישב דברי רש\"י דפעם כתב משום חלב ופעם משום דם וא\"כ הטור דכתב חלק הפנים הוה משום חלב כ\"ש חלק אחוריים יע\"ש בסימן ס\"ד בדרישה אות כ\"ב א\"כ יקשה מדידיה אדידיה ואולי בסימן ס\"ד לא כתב דאותם הפיצולים הם מצוים בחלק של צד פנים לא משום חלב אלא לסימנא נקטה דמצוין בחלק של צד פנים וא\"כ בסימן ס\"ד חשיב משום חלק אחוריים חלב ובסי' ס\"ה חשיב אותן ראשי הפיצולים שיש בחלק פנים ומשום דם ולהם מהני חתיכה ומליחה לא חלק אחוריים והיה נראה דהמחבר מספקא ליה אי כרש\"י או כהר\"מ ז\"ל הלכך בסימן ס\"ד חשיב בהדי חלב וכאן בהדי דם ומ\"ש דחתיכה מהני לא לכל אלא לאינך [א] ולא לחוטי עוקץ ונ\"מ לענין אינו מינו ועיין בל\"ח פא\"ט יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 65:2"
+        },
+        "3": {
+          "he": "דבצלי. חומרא בעלמא הקלישה ול\"ד לוורדי הצוואר שהם עבים וצריך כ\"נ משא\"כ כאן ומשום הכי אי בישל אחר כך א\"צ ס' נגד הקליפה וכן הסכים הש\"ך באות ה':",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 65:3"
+        },
+        "4": {
+          "he": "אפי'. עט\"ז וכל הני הם בעיא דלא איפשיטא. ועיין כה\"ג בהגהות הטור אות ד' בשם בה\"ג דנוהג בחיה דבכלל בהמה. ובכה\"ג כתב בלא\"ה דבכף תלה רחמנא. ובאמת יש לתמוה אטו בהמה כתיב בתורה ואפילו עוף היה רוצה לאסור אי לאו דאין כף שלו עגול. ומה\"ט ג\"ה נוהג בכוי דבכף תלה רחמנא אף שהוא בריה בפ\"ע. ודע דג\"ה של אדם אסור אף למ\"ד בשרו מותר הרשב\"א בתשובה שס\"ד דאית ליה כף ועוד דמעשה בדידיה הוה הביאו הפר\"ח אות ט\"ו והמ\"ל במ\"א בפ\"ב וח' ממ\"א ונ\"מ לדידן דבשר אדם אסור מ\"ה עיין סימן ע\"ט מ\"מ איו בג\"ה בנ\"ט גם פסול לעדות מ\"ה דלוקה משא\"כ בשר אדם בעשה: והנה הטור לא הביא כאן דאין נוהג בטמאה וגם בטריפה מבטן דאיסור גיד בא לאחר מיכן שבא על הכף עיין ר\"פ ג\"ה ובתוס' שם גם קודם לא נקשר אבריו בגידיו יע\"ש אין איסור חע\"א ונ\"מ דג\"ה הוה בריה עיין סימן ק': נסתפקתי בג\"ה דהוה בריה אם הוא שלם היינו שעל הכף אף שאין בו כזית דמילקא עליה ומה שיש מן הספק הוא אם חצי שיעור אסור מן התורה בג\"ה כשאר איסורין או לאו. גם אי אכלו כזית ג\"ה כא\"פ אי מצטרף או לאו. ומה שהביאני לזה הוא דביומא ע\"ד א' ח\"ש מרבינן מכל וגם טעמא דחזי לאיצטרופי וכתבו כולן דכל דלא חזי לאיצטרופי אין איסור מ\"ה ובסימן ס\"ב כתבנו מזה א\"כ אני מסופק הא דאמרינן חזי לאצטרופי אי הפי' הואיל אי יאכל מעט מעט כזית כא\"פ יבא לידי מלקות וכרת מש\"ה אסרה התורה ח\"ש שלא ישכח ויאכל מעט מעט או הפי' חזי לאיצטרופי הוא דאם נתיר לו ח\"ש יאכל בב\"א עם ח\"ש אחר ויהיה שיעור שלם. והנה בג\"ה קי\"ל עץ הוא והתורה אסרתו ובספג\"ה אמרינן חלקו מבחוץ פטור ופרש\"י חלקו לזית ואכל כא\"פ משום דאין לך בו אלא חידושו ואם באמ\"ה הוה חידוש דאוכל בשר הואיל ומצטרף גיד ועצם כ\"ש ג\"ה דעץ בעלמא לומר בו אין לך אלא חידושו והלכתא דכזית כא\"פ לא נאמרה כאן והר\"מ ז\"ל בפ\"ז ממ\"א פסק דחלקו בחוץ פטור וכפרש\"י עיין לח\"מ שם א\"כ כ\"ש ג\"ה ולפ\"ז יהיה ח\"ש מותר מ\"ה בג\"ה דלא שייך חזי לאצטרופי. ואל תשיבני מאיסורי הנאה דאסור בכ\"ש ולו שלוקין על הנאה לסמ\"ג ושאר פוסקים כמו שהאריך המ\"ל בהל' יסודי התורה מ\"מ איסור איכא בה\"ש והא לא חזי לאצטרופי דהלכתא כא\"פ לא נאמרה על הנאה כ\"א על אכילה מ\"מ אכילה הוא דבעינן כזית וכי רביה קרא להנאה בכ\"ש נמי רביה דנהנה הוא ועפר\"ח א\"ח ה\"פ לענין ח\"ש בב\"י ועשו\"ת ח\"צ בסי' נ\"ז דשיער א' בנזיר חזי לאצטרופי היינו שישיר שתיהן בב\"א והדברים ארוכים ואי\"ה בא\"ח בפרי ה\"פ ובס' שושנת העמקים אבאר זה. ומ\"מ למידן מהני מילי מעלייתא דאם אכל כזית ג\"ה כא\"פ דאין לוקה דאין לך בו אלא חידושו כמו באמ\"ה דחלקו בחוץ פטור ונ\"מ דלא מיפסל לעדות מ\"ה וכחמור ✍ונ\"ע ועמ\"ש בש\"ך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 65:4"
+        },
+        "5": {
+          "he": "ואומר. עט\"ז האריך לפרש דיש חילוק בין בפני ישראל או לא ובמ\"מ אמר לו בפני ישראל שכשירה ודאי יקנה ישראל אחר שסבור שניטל גידה מאחר שכשירה דאסור לגנוב דעת משא\"כ שלא בפני ישראל והט\"ז כתב דאף בלא אמירה אסור בפני ישראל דשמא יודע אותו ישראל שבהמה זו כשירה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 65:5"
+        },
+        "6": {
+          "he": "אם. עט\"ז שהגיה אם בלא וי\"ו:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 65:6"
+        },
+        "7": {
+          "he": "נאמנין. עט\"ז בטור כתב כמו על החלב וכ' הב\"י דתלה זה בזה לומר דעל החלב היו תמיד נאמנין ובג\"ה קודם דאנשים לדר\"מ לא היו נאמנין יע\"ש והט\"ז כתב דה\"ק אף שיש יותר טרחא מחלב אפ\"ה נאמנים וא\"י מ\"מ איך יתישב בחלב:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 65:7"
+        },
+        "8": {
+          "he": "ששוחט לעצמו ומוכר לאחרים. כן הגיה הט\"ז ועמ\"ש בסי\"א בש\"ך אות ב':",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 65:8"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "כגון חוטין כו'. ואף כששחט הורידין שבצואר כמו שנתבאר לעיל סי' כ\"ב אסורים חוטים אלו לפי שאינן נגררין דרך הורידין הרשב\"א והר\"ן וב\"י ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 65:1"
+        },
+        "2": {
+          "he": "וקרום שעל המוח. ע\"ל סי' ס\"ח וסי' ע\"א מזה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 65:2"
+        },
+        "3": {
+          "he": "וקרום שעל הביצים. יתבאר דינו בסעיף ד':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 65:3"
+        },
+        "4": {
+          "he": "ואם לא נטלן כו'. בספרי הוכחתי מדברי רבינו ירוחם נט\"ו אות כ\"ה גבי מחלוקת ר' אפרים והרא\"ש דבגידי צואר א\"צ ס' כיון דמנתח הבהמה אבר אבר אלא דלכתחלה צריך להסירם וביארתי שם דפי' כן דברי הרא\"ש בפ' השוחט ובהכי התיישב דלא סתרי דברי הרא\"ש אהדדי דבפ' השוחט השיג על ר' אפרים וכתב דלא אשכחן חוטי דאסירי משום דמא וצריכי חתיכ' אלא דידא ודלועא ולא דמזרקי שהן גידי הצואר ובפ' ג\"ה כתב דמזרקי שהן גידי הצואר צריכין חתיכה לקדרה אלא דבפרק השוחט כתב דלא אסירי משום דמא ומותרין בבישול בדיעבד אלא משום עצמן צריכים חתיכה לכתחלה וכן נראה מדברי ש\"ד סי' ל\"ד ע\"ש וכ\"כ הטור בסי' כ\"ב בורידין דאם מנתחה אבר אבר מותרת בבישול ולדבר זה העירני אחד מבני חבורה שלי האלוף מהר\"ר מרדכי אשכנז נר\"ו וא\"כ צ\"ל דהרב בהג\"ה לא קאי אחוטי צואר והא דכתב סתם היינו משום דגם בחוטי צואר משכחת לה האי דינא כשלא חתכן אבר אבר ודוק ועי' בדרישה סי' ס\"ז סוף סעיף ז':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 65:4"
+        },
+        "5": {
+          "he": "ובצלי כו'. ומסיק בת\"ח כלל ל\"ד דין ג' דאף במליחה צריך קליפה מיהו משמע התם דבין בצלי בין במליחה הוא חומרא בעלמא ומדינא שרי כדעת רוב הפוסקים משום דכבולעו כך פולטו כדלקמן סי' ע\"ב וכמה דוכתי וכן משמע בת\"ח כלל ט\"ו דין כ\"א ולכך כתב שם בסימני ת\"ח בסתם ואם עבר ולא חתכם במליחה וצלייה שרי עכ\"ל דהיינו מדינא ונ\"מ דאם לא קלפוהו ובשלו כך מותר בדיעבד כדלקמן סימן ע\"ג ס\"ק כ' גבי כבד ע\"ש ועיין בסי' כ\"ב ס\"ק ו':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 65:5"
+        },
+        "6": {
+          "he": "סגי בקליפה. ואע\"ג דלעיל סימן כ\"ב גבי ורידין צריך נטילה בצלי כבר הקשה בד\"מ על מ\"ש הרא\"ש והטור דכתבו כאן דבצלי אפי' קליפה אין צריך ובורידין הצריכו נטילה וחילק דחוטין אלו הם עבים יותר מורידין ואינן פולטין כ\"כ בבשר עכ\"ל ומביאו הפרישה סעיף ג' והפרישה מחלק בענין אחר ע\"ש ועיין מ\"ש בסי' כ\"ב ס\"ק ה':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 65:6"
+        },
+        "7": {
+          "he": "וי\"א שאין צריכין כו'. כתוב בדרישה סעיף ב' יש לתמוה איך פסק להקל על סמך כל דהו נגד ר\"ח והראב\"ד עכ\"ל ואין זה תימה דהרבה פעמים מצינו כן שהמנהג כפוסק אחד אף שרוב הפוסקים חולקים וכל שכן כאן שדברי היש מי שאומר נכונים הם כמ\"ש מהרש\"ל פרק השוחט סימן ה' וז\"ל יפה אמרו וכן המנהג ואמת מנין לנו להוסיף באיסורין כי בעוף לא תמצא חוטין של יד כי האגפים הם הידים ושם לא מצאנו חוטין מלאים דם עכ\"ל וכ\"כ בעט\"ז שהמנהג שאין נוטלין ולא חותכין אגפי העוף וישב המנהג ע\"ש וכן המנהג פשוט גם בזמנינו זה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 65:7"
+        },
+        "8": {
+          "he": "אם הוסר רק הראש וכו'. ע\"ל סי' כ\"ב סוף סעיף א' בהג\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 65:8"
+        },
+        "9": {
+          "he": "בלא קליפה. וה\"ה דחתיכה ומליחה מהני בהו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 65:9"
+        },
+        "10": {
+          "he": "אבל לצלי מותרים. ובבית יוסף והפרישה דהיינו דוקא לסברא הראשונה שבסעיף א' מה שאין כן להיש מי שאומר וליתא דבהדיא כתב הרשב\"א גופיה בת\"ה הארוך דף ס\"ט ע\"א ובמשמרת הבית דהכא שרי אף בלא חתיכה לצלי כיון דמופשטים ועומדים פניהם על פני האש וכן משמע בהרא\"ש פרק גיד הנשה וכן הטור כתב כאן בסתם מותרין לצלי משמע לכ\"ע והיינו מטעמא דלעיל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 65:10"
+        },
+        "11": {
+          "he": "ונהגו לנקר כו'. דלא פלוג כדי שלא יטעו בלאחר ל' מיהו אם נתבשלו עם הקרום והורידין ולא נחתכו מותרין דיעבד אפילו ליכא ששים דאין מוחזקין בדם כל כך כל שלא היה לו ל'. או\"ה כלל כ' דין ה':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 65:11"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אחורי האזנים. לפי שהם מלאים דם אבל בב\"י כתב ששאר חוטין אע\"פ שנראה בהן דם אין צריכין לחתכן דשומנא בעלמא הם כ\"כ הר\"ן משום הכי מסיק רמ\"א דאינו אלא חומרא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 65:1"
+        },
+        "2": {
+          "he": "וקרום שעל המוח. בטור כתוב ואם צלאום ולא חתכום ולא הניחום על בית השחיטה הקרום אסור והמוח מותר ותמה ב\"י שהרי בסימן ס\"ח כתב הטור שאף המוח אסור ותירץ דכאן מיירי שהוציא המוח עם קרומו וצלאוהו אצל האש ומשום הכי לא נאסר המוח ולקמן מיירי שהראש שלם והדם מתקבץ בקדירות המוח ונמצא שהמוח מתבשל בתוכו ואף שדבריו תמוהין מצד לשון הטור שכתב בכאן ולא הניחו על בית השחיטה ש\"מ דמיירי שלא הוציא המוח מ\"מ העתקתי דבריו ללמוד מהם דין אחר דהיינו שמותר לצלות כבד כשהיא מוכרכת בנייר על האש ולא אמרינן דהנייר מפסיק בין הכבד ובין האש והוי כבישול מדשרי כאן בצולה המוח בקרומו על האש. ולענין קושיית הב\"י דברי הטור אהדדי יש תירוצים לקצת מפרשים ואין להם יסוד והעיקר כמו שכתב מה\"ר אברהם מפראג דעיקר הנוסחא כאן המוח אסור והראש מותר: בטור כתוב וחומרא היא שהחמיר כו' משמע דלא קאי על רמב\"ם כמ\"ש ב\"י מדלא אמר שהחמירו לשון רבים וקשה מאי טעמא באמת לא כתב כן על רמב\"ם שהרי גם הוא חשב מה שלא נזכר בגמרא ונראה דהרמב\"ם לא אמר אלא על האסורין משום דם ואפשר דלא קאי על מליחה אלא דבלא מליחה אסור לאפוקי מעיים שכתב אח\"כ אבל בדברי גאון א\"א לומר כן שהרי הצריך לחתוך דוקא משמע דלא סגי במליחה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 65:2"
+        },
+        "3": {
+          "he": "ובצלי סגי בקליפה. לעיל סימן כ\"ב משמע דחומרא בעלמא היא הקליפה ורש\"ל פסק דא\"צ קליפה כלל במליח' או צלייה. ובטור כתוב בשם גאונים שאפי' לכתחלה מותר לצלותו בלא חתיכה. והקשה בד\"מ ממ\"ש בסי' כ\"ב גבי ורידים דאם נצלו בלא חתיכה בעי נטילה סביב הורידין ותירץ דחוטין אלו הם עבים יותר ואין פולטין כלל בבשר עכ\"ל והך סבר' לא מהני בבישול:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 65:3"
+        },
+        "4": {
+          "he": "אפי' אם אין כף שלהם עגול. פרש\"י היינו הנכרך סביבות עצם הקוליא בעגול אבל בעוף אינו כן שהבשר שעל הקוליא ברוחב הוא וכל דבר עגול' וגבוה נקרא כף:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 65:4"
+        },
+        "5": {
+          "he": "ואומר לו שהיא כשרה. כל סעיף זה הוא דברי הרמב\"ם מלבד הך ואומר לו שהיא כשירה הוא לשון המ\"מ כמ\"ש וז\"ל נראה לי דרבינו הרמב\"ם סבר דהכא במפרש שהירך מבשר כשירה ובכהאי גוונא יש לחוש שמא ישראל הרואה הוא שנתנה לו בחזקת כשירה והיא חתוכה וסבור דודאי כשירה היא דאי לא לא הוה ישראל גניב דעתיה דאסור הוא וסבור גם כן שגידה ניטל מפני שהיא חתוכה ואתי למזבין מיניה ואוכלה עם גידה וכבר כתב רבינו למעלה דבשר הנמצא ביד עובד כוכבים אסור בכל מקום הלכך ליכא למיחש אלא בכהאי גווני ובכ\"מ מותר למכור להם נבילות וטרפות עכ\"ל. הנה הוצרך לזה מכח שקשה לו הא לא יקנה שום ישראל מן העובד כוכבי' ולמה לא יתננה לו בפני ישראל וצריך לומר דלא ס\"ל דניקור הגיד הוה סימן דאל\"כ הא ודאי יקנה ממנו מכח הסי' דכשיש סימן מודה רמב\"ם שקונין בשר מן העובד כוכבים כמ\"ש סי' ס\"ג אבל לדעת הטור דהוה סי' צריך טעם לחלק בין בפני ישראל לשלא בפניו והטעם מבואר בתוס' פרק ג\"ה דבמקום שאין קונין בשר מן העובדי כוכבים מחמת טריפות לא מהני לזה סימן דחתיכות הניקור לקנות ממנו דאימור אחר שניקרה נודע לישראל שהיתה טריפה וע\"כ נתנה לעובד כוכבים והקשו על זה למה לא נאסר בשולח ירך לחבירו על ידי עובד כוכבים שמא נזדמנה לעובד כוכבים ירך מחמת שלא נודע לישראל שהיתה טריפה עד אחר שניטל גידה והחליפה בזאת ותירצו דכולי האי לא חיישינן דלא שכיח שיזדמן כך ליד עובד כוכבים אבל היכא דישראל שולח לעובד כוכבים לא מהני אפי' ניטל גידה דאמרי' דלכך שולחה לעובד כוכבים לפי שנודע לו אחר הניקור דטרפה היא עכ\"ל ובזה מבוא' החילוק דלעיל דכל שניתן שלא בפני ישראל לא יקנה ישראל ממנו שמתיירא שנודע הטריפו' אחר הניקור ולהכי נתנה לעובד כוכבים אבל בפניו איכא למיחש שהישראל הרואה יהיה יודע שבהמה זאת כשיר' באמת ורואה החיתוך של ניקור ויטעה לומר שניטל הגיד על כן צריך ליטול הגיד קודם הנתינה לעובד כוכבים ובפרישה האריך לפרש ההיתר שלא בפני ישראל דלא יקחו מן העובד כוכבי' שיסברו שהעובד כוכבים עשה חיתוך זה ועוד חשש שמא טריפ' היתה כו' ודבריו תמוהי' דהא אמרי' בגמרא חתוכא דעובד כוכבי' מידע ידעי שאינה כשל ישראל המנקר וא\"א לטעות בזאת וכמ\"ש מבואר בסוגיא להדיא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 65:5"
+        },
+        "6": {
+          "he": "אם לא ידעי' כו'. כן צריך להיו' אם בלא וא\"ו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 65:6"
+        },
+        "7": {
+          "he": "נאמני' על גיד הנשה. בטור כתוב כמו על החלב פי' אע\"פ שיש יותר טירחא בגיד הנשה. וכ' רש\"ל וז\"ל ואני הגבר שמעתי וראיתי שרוב המנקרי' שלנו אע\"פ שמחמירין לחתוך אף ההיתר מ\"מ כמה פעמים מקילין בחלב ובקנוקנות של גיד מחמת מהירות על כן נהגתי בעצמי שלא לאכול בשר המנוקר עד שיראה למנקר אחר ויבדוק אם הוא מנוקר כראוי עכ\"ל.",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 65:7"
+        },
+        "8": {
+          "he": "ששוחט לעצמו. ומוכר לאחרים. כן צריך להיות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 65:8"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "חוטין אדומים. עי' בתשו' הרדב\"ז החדשות סימן ש\"ג שהוא ז\"ל היה מחמיר על עצמו ולא היה אוכל אותם החוטין שנמצאים בעוף מלאים דם אחר הבישול אלא משליך אותם ואוכל השאר אבל לא היה אוסר על אחרים ע\"ש.",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 65:1"
+        },
+        "2": {
+          "he": "גיד הנשה. [עיין בתשו' ח\"ס סימן ס\"ט בענין מ\"ש הכו\"פ שמנקר אחד הרעיש העולם שג\"ה הוא גיד אחד שאינו נמצא אלא בבהמות זכרים ולא בנקבות ולא מצאו חכמי פראג מענה עד שהוא ז\"ל הראה לו בסמ\"ג שכתב מצות ג\"ה נוהג בזכרים ובנקבות א\"כ ע\"כ אינו אותו הגיד. ורבים תמהו דזה הוא שגגה דסמ\"ג מיירי שנוהג בזכרים ישראלים ונקבות אבל מהגיד לא מיירי אם הוא הנמצא בזכרים ובנקבות. גם בספר תולדות אדם ח\"ב חשב זה בין השגיאות ולהורות כי השגיאה מצודה פרוסה על כל החיים (כקטן כגדול) וכיון שטעות הוא ודחה לזה בקנה נמצא דברי המנקר קיימים ואין לאכול אחוריים אלא אם כן ניקרו מהם שני הגידים. והוא ז\"ל כתב לפרש דברי הכו\"פ הנ\"ל בטוב טעם וחלילה לא טעה כלל בזה ודברי חכמים קיימים ע\"ש]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 65:2"
+        },
+        "3": {
+          "he": "משום חלב. עי' בשו\"ת הרדב\"ז ח\"ב סימן תר\"ע שכתב דחלב שעל גיד הנשה אסור ג\"כ בחיה דמה שנהגו איסור בשומנו של גיד הוא משום חומרת הגיד ולא משום חלב ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 65:3"
+        },
+        "4": {
+          "he": "לשבור ראשי העצמות. עי' בזה בתשובת שבו\"י ח\"א סימן נ\"ז:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 65:4"
+        },
+        "5": {
+          "he": "ומוחזק בכשרות. [עיין באר היטב של מהרי\"ט ז\"ל בשם בה\"י ועיין בתשובת ח\"ס סוף סימן קט\"ו שכ' דבמס' ביצה י\"ד ע\"ב איתא רב פפי איקלע לבי מר שמואל כו' ומזה הוכיחו הראשונים הובא בש\"מ שם דעד אחד הנאמן באיסורים א\"צ לחקור איך נעשה בהיתר דמסתמא בהיתרא עביד דהרי פריך אר\"פ דילמא במכתשת קטנה ודלמא מאתמול כו' ותו מוכח מהתם דבפריצי דעבדא אע\"ג דלשמואל מהימני ואכיל למאן דלא מהימני אינו יכול לסמוך על שמואל אע\"ג דידע שמואל דבביתו לא עבדי פריצותא מאימתו מ\"מ לרב פפי לא הוי מהימני והוא דבר חידוש עכ\"ל]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 65:5"
+        },
+        "6": {
+          "he": "ומיהו אין לוקחין בשר. עי' בתשו' שבו\"י ח\"ב סי' נ\"ח שנשאל על מה שהנהיגו איזה רבנים בקהילתם להכריז שכל בשר ההובא ממדינה כאילו אוכל בשר טיריפה ולאסור אף הכלים שנתבשל בהם הבשר אי שפיר עבדי והאריך בראיות מש\"ס ופוסקים כי לא נכון לעשות כן משום דיש לחוש לאיבה ותו דהוי כגזירה שאין רוב הציבור יכולים לעמוד בה כי מה יעשו עוברי דרכים אבל מ\"מ מוטל על כל רב ומורה למנות אנשים כשרים יראים על השחיטה גם ראוי לחקור אחר השוחט טרם יאכל ומה יש לעשות אם יעבור השוחט במרד ומעל הקולר תלוי בצואר השוחט ההוא וכל ישראל נקיים ולא יאונה לצדיק כל און אבל לאסור דרך כלל הבשר של בני המדינה והכפרים לא נכון ע\"ש. [עיין בתשו' ח\"ס סי' ה' ואודות ממוני וטוובי עיר אחת שמאז הטילו מס על כל ליטרא בשר והחכירו ההכנסה ההיא לחוכרים ידועים והיות כי פרצו העם ליקח בשר מהכפרים בסתר ולא שלמו ההתחייבות ע\"כ התיעצו הקהל לאסור בפומבי בבהכ\"נ כי שחוטי חוץ לעירם אע\"פ שנשחט ע\"י שוחט דמתא בהכשר מ\"מ הסכימו לאסור אך הרב אב\"ד דעיר הנ\"ל לא נתרצה בהסכמה זו וגם קצת יחידים ערערו בדבר ומ\"מ אינהו דידהו עבדי והכריזו איסור הנ\"ל ונשאל אם יש ממש בהכרזה זו. והאריך בזה ומסיק אף דמבואר בח\"מ סימן רל\"ח סכ\"ח היכא דאיכא חכם חשוב ממונה על הציבור אין התנאי שלהם מועיל בלא דעת החכם. כ\"ז בתקנה דליכא אלא תקנת הצבור ולא מיגדר מלתא דאיסורא אבל היכא דתקנתא הוא למיגדר מילתא דאיסורא ודאי דיכולים ומחוייבים ממוני הקהל לעמוד לפני פריצים ולא בעינן חבר עיר ואף אם יחידים מוחים להדיא חל התקנה עליהם בע\"כ דגם ר\"ת שבמרדכי ב\"ב סימן ת\"ת לא חלוק בזה על הראבי\"ה שם. והיות כן בנ\"ד שהחוכרים חכרו מהקהל מס הבשר והם כמוכס ישראל הנוטל בדין והגונב מהם גזלן גמור וא\"כ מחוייבים הקהל לגדור בפני התריצים ויאושר כחם בתקנתם ולא צריכי חבר עיר ואין להשגיח על יחידים שמיחו בתקנה ואפילו על הרוב לא ישגיחו כי פשיטא שהגזלנים ימחו בהם ע\"כ. לכאורה איסור שאסרו הקהל איסור גמור הוא ואסור לפרוץ גדרן. אמנם נ\"ל דהיינו אי לא נטלו עצה מגדול העיר ות\"ח אך באשר התיעצו עמו והיה התקנה שלא לרצונו א\"כ מסתמא ידע והבין שאין נכון לתקן התקנה ההיא אולי חשש שירבו המכשולים ויאכלו בשר תמותות נבלות ומה\"ט נענש יהושע בחרמו של עכן [או מטעם דשבו\"י הנ\"ל] יהיה איך שיהיה כיון שלא נתרצה הרב אב\"ד ויש כח ביד חכמים לעקור דבר מן התורה בשב וא\"ת א\"כ מחזי כאפקרותא במה שהכריזו איסור בבהכ\"נ. ואפילו להראבי\"ה דס\"ל שבתחלה נתמנו הממונים על כל מה שיעשו כל השנה אם הרוב שותקים מ\"מ ת\"ח הממונה פרנס נתמנה מכל הציבור קודם להם ושוב נתמנו הם ע\"מ לשמוע בקולו וכל מה שעשו נגד רצונו אין בו ממש ויאכלו ענוים וישבעו ע\"ש]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 65:6"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "החוטין.  כ' הש\"ך דזה לא קאי אחוטי צואר דבהם אין צריך ס' כיון דמנתח הבהמה אבר אבר והא דכתב רמ\"א סתם משום דגם בחוטי צואר משכחת לה האי דינא כשלא חתכן אבר אבר ועי' בדרישה סי' ס\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 65:1"
+        },
+        "2": {
+          "he": "בקליפה.  ואע\"ג דגבי וורידין צריך נטילה בצלי כבר חילק הד\"מ דחוטין אלו הם עבים יותר מורידין ואינן פולטין כ\"כ בבשר. (כ' רש\"ל דא\"צ קליפה כלל לא במליחה ולא בצלי) ובט\"ז כ' דקליפה זו אינה אלא חומרא בעלמא ונ\"מ אם בשלו כך בלא קליפה י\"ל דשרי:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 65:2"
+        },
+        "3": {
+          "he": "קליפה.  כ' הש\"ך ה\"ה דחתיכה ומליחה מהני בהו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 65:3"
+        },
+        "4": {
+          "he": "מותרים.  (אף בלא חתיכה) כ' הש\"ך דזהו אליבא דכ\"ע ודלא כפרישה שכ' דזה דוקא לדעה ראשונה שבסעיף א':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 65:4"
+        },
+        "5": {
+          "he": "פחותים.  כתב הש\"ך מיהו בדיעבד מותר אפי' ליכא ס' דאין מוחזקים בדם כ\"כ כל שלא היה לו למ\"ד יום (או\"ה):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 65:5"
+        },
+        "6": {
+          "he": "נאמנים.  כ' רש\"ל וז\"ל ואני הגבר שמעתי וראיתי שרוב המנקרים שלנו אף על פי שמחמירין לחתוך אף ההיתר מכל מקום כמה פעמים מקילין בחלב ובקנוקנות של גיד מחמת מהירות ע\"כ נהגתי בעצמי שלא לאכול בשר המנוקר עד שיראה למנקר אחר ויבדוק אם הוא מנוקר כראוי עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 65:6"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

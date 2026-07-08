@@ -1,0 +1,200 @@
+{
+  "chelek": "OC",
+  "siman": 593,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-07T23:49:33.899Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "אם הברכו' ותקיעו' מעכבו' זו את זו. ובו ב סעיפים:ברכות של ראש השנה ויום הכיפורים מעכבות זו את זו שאם אינו יודע כולם לא יאמר מה שיודע מהם אלא לא יאמר כלום:",
+      "en": "1. If the blessings and shofar blasts are a requirement for each other. And in it is 2 paragraphs. The blessings (in the Shemoneh Esrei) of Rosh HaShana and Yom Kippur are required for each other. So that if one does not know all, he should not say what he knows; rather, he should not say anything",
+      "ref": "Shulchan Arukh, Orach Chayim 593:1"
+    },
+    {
+      "seif": 2,
+      "he": "וכן תקיעו' מעכבו' זו את זו והני מילי שאינו יודע אלא מקצת הסימן שלא יעשה אותו מקצת שיודע אבל תשר\"ת תש\"ת תר\"ת אין מעכבין זה את זה ואם ידע לעשו' אחד מהם או שנים עושה: הגה אבל הברכות אין מעכבין התקיעות וכן התקיעות אינן מעכבין הברכות ואיזה מהם שיודע יעשה (טור) וכן סדרן אינו מעכב (ר\"ן סוף ר\"ה) ואם התפלל קודם שתקע יצא:",
+      "en": "2. Similarly, the shofar blasts (tekiyos) are required for each other. When are these words (true), when he does not know part of the mnemonic sign (i.e. the whole TSR\"T), he should not  do the part he knows. But the TSR\"T, TS\"T, and TR\"T are not prerequisites for each other, if one knows one or two of them, he should do. Note (Rema): But the Blessings are not prerequisites for the Tekiyos, nor the Tekiyos prerequisites of the Blessings. Whichever he knows, he should do [Tur], so to the order is not a requirement [Ran end of tractate Rosh HaShana]; therefore, if one prays before that he blows, he has fulfilled (his obligation).",
+      "ref": "Shulchan Arukh, Orach Chayim 593:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא ר\"ה ל\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 593:1"
+        },
+        "2": {
+          "he": "שם בברייתא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 593:2"
+        },
+        "3": {
+          "he": "הר\"ן וכן משמע מדברי הרא\"ש ז\"ל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 593:3"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "ויה״כ עמ״א ומשמע שאם א״י כולם לא יאמר אף מלכיות וצ״ע אמאי לא יאמר ג׳ ראשונות ואחרונות וקדושת היום באמצע דהא הטור בשם הרי״ץ גיאות בתקכ״א שהציבור מתפללין רק שבע ואף דלא קיי״ל כן מ״מ כשא״י כו׳ ואפשר אה״נ רק לא יאמר עשרה פסוקים וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 593:1"
+        },
+        "2": {
+          "he": "מעכבות עמ״א ועא״ר אות ב׳ והביא דברי רש״י והר״ן דתעניות כו׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 593:2"
+        },
+        "3": {
+          "he": "עושה עמ״א ועט״ז אות {א} וצ״ע אם יברך או לאו עסי׳ ס״ז ולרב האי מ״ה יוצא ומיהו בסי׳ תק״צ בס״ב משמע דספק גמור הוא כהר״י ז״ל גם אם תקע ב׳ סדרים בלא ברכה צ״ע אם יברך על השלישי וע׳ הל׳ חנוכה בנר חנוכה וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 593:3"
+        },
+        "4": {
+          "he": "ואם ע׳ מ״א עשה כלומר ואם במקום שאם מקשה דילמא סדרן אין מעכב הקדים תש״ת לתשר״ת וכדומה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 593:4"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "א׳ מהם או שנים עט״ז עמ״א אות ג׳. ולבוש שינה מלשון ש״ע ועא״ר. סדרן אין מעכב הן שהתפלל קודם שתקע הן הקדים תר״ת לתשר״ת נמי יצא ועמ״א ד׳ ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 593:1"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] ויום כיפור וכו'. פירוש יום כיפור של יובל שאומרים בו גם כן מלכיות זכרונות ושופרות. הקדים זכרונות למלכיות לא יצא (ר\"ן):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 593:1"
+        },
+        "2": {
+          "he": "[ב] מעכבות וכו'. משמע דבשאר ימות השנה אם יודע ברכה אחת יאמרו ואין מעכבות זה את זה (מגן אברהם). וצריך עיון דבסימן ק\"י דתיקנו הביננו ותפילה קצרה ולא אישתמיט שום פוסק להזכיר זה, וברש\"י ור\"ן סוף ראש השנה דברכות דתעניות אין מעכבות:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 593:2"
+        },
+        "3": {
+          "he": "[ג] [לבוש] לתקוע תש\"ת וכו'. פירוש שאם יודע תשר\"ת יודע לעשות כולם, ולכך שינה משולחן ערוך, ועיין בט\"ז ומגן אברהם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 593:3"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "א' מהם או שנים כו'.  ק\"ל היאך תמצא שיודע שנים ולא שלישי דאם ידע תשר\"ת ידע כולהו ואם יודע תש\"ת ותר\"ת יודע ג\"כ כולהו ולמאן דס\"ל בסי' תק\"ץ דיש לעשות ש\"ת של תשר\"ת בנשימה א' י\"ל דלא ידע כ\"א תש\"ת ותר\"ת ותשר\"ת לא ידע לעשות ש\"ת בנשימה א':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 593:1"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "ויה\"כ. פי' יה\"כ של יובל שאומרים בו ג\"כ מלכיות זכרונות ושופרות:",
+          "en": "",
+          "ref": "Magen Avraham 593:1"
+        },
+        "2": {
+          "he": "מעכבות זא\"ז. משמע דבשאר ימות השנה אם יודע ברכה א' יאמרה ואין מעכבות זא\"ז וכ\"מ בגמרא:",
+          "en": "",
+          "ref": "Magen Avraham 593:2"
+        },
+        "3": {
+          "he": "עושה. דהא מדאורייתא בחדא סגי אלא דלא ידעי' איזהו לכן יעש' הא' שיודע שמא יכוין האמת ומ\"מ הלשון אינו מדוקדק שאם יודע תשר\"ת יודע לעשות כלם ואפשר שהוא חלש ואין יכול לעשות יותר ולוקחים השופר ממנו א\"נ שיודע שצריך לתקוע בבא שלישית ואינו יודע היאך תוקעים:",
+          "en": "",
+          "ref": "Magen Avraham 593:3"
+        },
+        "4": {
+          "he": "ואם התפלל. כלומר שאם התפלל כו' אבל אם הקדים תרועה לתקיע' או זכרונות למלכיות לא יצא [ר\"ן]:",
+          "en": "",
+          "ref": "Magen Avraham 593:4"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ויום הכפורים.  פי' י\"כ של יובל שאומרים בו ג\"כ מלכיות זכרונות ושופרות:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 593:1"
+        },
+        "2": {
+          "he": "לא.  ובשאר ימות השנה אם יודע ברכה א' יאמר' ואין מעכבות זה את זה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 593:2"
+        },
+        "3": {
+          "he": "קודם.  אבל אם הקדים תרועה לתקיעה או זכרונות למלכיות לא יצא ר\"ן. ויש לכסות השופר בשעת ברכה. ב\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 593:3"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) ברכות של ראש השנה וכו' - היינו של מוסף שיש בו מלכיות זכרונות ושופרות וכן של יוה\"כ של יובל שאומרים בו ג\"כ מלכיות זכרונות ושופרות:",
+          "en": "",
+          "ref": "Mishnah Berurah 593:1"
+        },
+        "2": {
+          "he": "(ב) מעכבות זו את זו - משמע דבשאר ימות השנה אם יודע ברכה אחת יאמרה ואין מעכבות זו את זו [מ\"א] ועיין בבה\"ל שכתבנו דגם להמ\"א הוא רק רחמי בעלמא אבל אינו יוצא כלל בזה דאפילו רק ברכה אחת מן הי\"ח אם דילג קי\"ל לעיל בסימן קי\"ט ס\"ג דצריך לחזור ולומר כולן כסדר שניתקנו וא\"ל אינו יוצא בזה ידי תפלה וכ\"ש בזה. וגם יראה להסמיכה לאיזה ברכה כגון לאשר יצר וכדומה כדי שתהא סמוכה לחברתה:",
+          "en": "",
+          "ref": "Mishnah Berurah 593:2"
+        },
+        "3": {
+          "he": "(ג) עושה - דהא מדאורייתא בחדא סגי אלא דלא ידעינן איזהו לכן יעשה האחד שיודע שמא יכוין האמת:",
+          "en": "",
+          "ref": "Mishnah Berurah 593:3"
+        },
+        "4": {
+          "he": "(ד) הברכות אין מעכבין התקיעות - שאם אינן יודעין לברך הברכות האלו אעפ\"כ יתקעו השלשה סדרים. וכן התקיעות וכו' שאם אין יכול לתקוע אעפ\"כ יברך הברכות:",
+          "en": "",
+          "ref": "Mishnah Berurah 593:4"
+        },
+        "5": {
+          "he": "(ה) וכן סדרן אינו מעכב - אין ר\"ל בסדר התפלה שהקדים זכרונות למלכיות או שופרות לזכרונות דבזה לא יצא וצריך לחזור ולהתפלל וכן בסדר התקיעות אם הקדים תרועה לתקיעה ראשונה לא יצא אלא ר\"ל דסדר הוא להתפלל מוסף ולתקוע בתוך התפלה ואם שינה הסדר דהיינו שהתפלל קודם שתקע יצא בשניהם וזהו שסיים רמ\"א ואם התפלל וכו' והוי\"ו יתר הוא:",
+          "en": "",
+          "ref": "Mishnah Berurah 593:5"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

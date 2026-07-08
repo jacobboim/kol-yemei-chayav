@@ -1,0 +1,64 @@
+{
+  "chelek": "YD",
+  "siman": 350,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-08T00:01:37.705Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דברים העשויים למת ואין בו משום דרכי האמורי. ובו סעיף אחד:אם רצו מתירין שערות לכלות ומגלים פני חתנים ונותנין דיו וקולמוס בצדו ותולין מפתחו של מת ופנקסו בארונו משום עגמת נפש ועושים חופות לחתנים וכלות ותולין בהם דברים שלא הביאו אוכל נפש אבל דברים שהביאו אוכל נפש אסור מפני שהם נאסרים בהנאה:",
+      "en": "If one desires one may untie the hair of [dead] brides2In order to deepen the poignancy of grief among the mourners. and uncover the faces of [dead] grooms,2In order to deepen the poignancy of grief among the mourners. and one may place ink and a pen at his [the dead person] side,3To show that had they been privileged to live, a marriage contract would have been written for them — B.Hillel. Or it may refer to other dead who were scribes — N.Ya‘akob to Sem. So also is to be explained the reference to one’s key and writing-tablet. Sem. adds, ‘and there is no supertitious practice in this.’ and one may hang the dead person's key and writing-tablet on his coffin because of grief of the soul,2In order to deepen the poignancy of grief among the mourners. and one may set up canopies for [dead] brides and grooms,4To indicate that had they been alive a marriage would have taken place. and one may hang upon them only that which is inedible,5Lit. ‘things which have not ripened as food for a person.’ but anything that is edible is prohibited [to be hung thereon] since they become forbidden for use.6Sem(H). VIII, 1-7 in accord with the general opinion of the Sages contra R. Meir (ibid.), since causing edibles to become forbidden involves a transgression of ‘Do not destroy.’ Cf. supra § 348, n.   also Asheri to M.K. 27b. BaḤ writes that nowadays this practice is prohibited. Sem. ibid. states that it was also customary in ancient times for one to go out to the burial grounds and call upon the dead until three days after being placed in the sepulchral chamber, for it once happened, that one visited an entombed person and the latter was found alive and continued to live an additional twenty years. Yabeẓ (comments on Sem.) explains similarly other incidents recorded in the Talmud.  Pes. 50a, B.B. 10b. A similar incident happened to MaHaRIL (v. Yabeẓ ibid.).",
+      "ref": "Shulchan Arukh, Yoreh Deah 350:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא באבל רבתי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 350:1"
+        },
+        "2": {
+          "he": "כחכמים שם שאין אוסרין אוכלים ואין מפסידין אותן אלא לצורך:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 350:2"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "ותולין כו'. כתב הב\"ח ומיהו עכשיו לא נהגו לעשות כן ומעכבין על מי שבא לשנות המנהג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 350:1"
+        },
+        "2": {
+          "he": "מפני שהם נאסרים בהנאה. והוה בהו משום בל תשחית לאסור אוכל נפש שלא לצורך:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 350:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ותולין.  וכתב הב\"ח ועכשיו לא נהגו כן ומעכבין על מי שבא לשנות המנהג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 350:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

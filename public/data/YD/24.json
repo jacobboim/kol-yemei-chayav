@@ -1,0 +1,996 @@
+{
+  "chelek": "YD",
+  "siman": 24,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 20,
+  "fetchedAt": "2026-07-08T00:01:13.700Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני דרסה וחלדה הגרמה ועיקור. ובו כ' סעיפים:דרסה כיצד כגון שהניח הסכין על הצואר ודחק וחתך למטה כחותך צנון או קישות הרי זו פסולה ואין צריך לומר אם הכה בסכין על הצואר כדרך שמכין בסייף וחתך הסימנים בבת אחת:",
+      "en": "Seif 1 What do we mean by “striking”? If when one rests the knife on the neck and presses, cutting downward in the same way as one cuts a radish or a squash. This is not permitted. It goes without saying that if one struck with a knife on the neck in the manner that one strikes a sword and cuts the signs at one time the animal is not permitted.",
+      "ref": "Shulchan Arukh, Yoreh Deah 24:1"
+    },
+    {
+      "seif": 2,
+      "he": "שחט בהולכה או בהבאה לבד אם יש בסכין כמלא צואר וחוץ לצואר כמלא צואר (עם העור והמפרקת) (מהרי\"ו) כשרה ואם לאו פסולה שכל שאין בו כשיעור הזה אי אפשר לשחוט בלא דרסה על ידי הולכה או הבאה לבד ואם הוליך והביא אפילו שחט באיזמל כל שהוא כשרה: הגה ויש מחמירין בבהמה (מרדכי ור\"ן בשם ר\"ת ואיכא מ\"ד ברי\"ף ונזכר באגודה וכל בו והג\"א מא\"ז) והמנהג בגלילות אלו לפסול בבהמה אפילו הוליך והביא אם אין בסכין כמלא צואר וחוץ לצואר משהו (זהו דעת מהרי\"ו):",
+      "en": "Seif 2 When one slaughters by only bringing the knife forward and backwards (on the neck)  if it is with a knife that is the fullness of the neck and extends off the neck, the fullness of the neck, it is acceptable  if not it is not acceptable.Any [knife] that is not this measurement; it is impossible to slaughter without “dirasah” by going in a forward and backward motion alone. But if he goes forward and backward with a very sharp knife it is kosher. There are those that are stringent with cattle. The custom being that these circular motions are not acceptable in cattle even if forward and backward if it is not with a knife that extends the fullness of the neck and outside the neck.",
+      "ref": "Shulchan Arukh, Yoreh Deah 24:2"
+    },
+    {
+      "seif": 3,
+      "he": "שחט ב' ראשים כא' בהולכה או בהבאה בלבד אם יש בסכין כדי שלש צוארין כשרה ואם לאו יש לחוש ולאסור שתיהן (רמב\"ן ורשב\"א ור\"ן ור' ירוחם):",
+      "en": "Seif 3 If one slaughters two heads [of cattle] with one forward and backward motion, if it with a knife [the width of] three necks it is kosher. If not, there is a concern and both of them [the slaughtered animals] are not acceptable.",
+      "ref": "Shulchan Arukh, Yoreh Deah 24:3"
+    },
+    {
+      "seif": 4,
+      "he": "שנים אוחזין בסכין ושוחטין אפילו זה למעלה לצד הראש וזה למטה לצד החזה שאוחזין אותו באלכסון כשרה ולא חיישינן שמא ידרסו זה על זה:",
+      "en": "Seif 4 Two [people] are holding the knife and slaughter, one from above, the side of the head, and one from below, the side of the chest, holding it [the knife] diagonally, it is kosher and there is no concern of “dirasah”. (one struck the neck with a knife as one strikes with a sword)",
+      "ref": "Shulchan Arukh, Yoreh Deah 24:4"
+    },
+    {
+      "seif": 5,
+      "he": "היה שוחט וחתך כל המפרקת כשרה (מרדכי בשם מהר\"מ ועיין ס\"ק ה'): הגה והמנהג להטריף אפילו לא חתך רק רוב המפרקת (מהרי\"ו ואגור ות\"ה) ואין לשנות כי יש מרבוותא סוברין כן (דקדק ראבי\"ה מפי' רש\"י):",
+      "en": "Seif 5 If one slaughters and cuts the entire neck, it is acceptable.",
+      "ref": "Shulchan Arukh, Yoreh Deah 24:5"
+    },
+    {
+      "seif": 6,
+      "he": "כשאדם שוחט עוף ואוחז בסימנים בשתי אצבעותיו צריך שיאחוז אותם יפה שאם אינו אוחז אותן בטוב פעמים שיהיו נשמטין לכאן ולכאן ולא יכול לשחטן ע\"י הולכה ויבא לידי דרסה: הגה וכן לא יניח האצבע על הסכין אלא יחזיק אותו בקתא כדי שלא יבא לידי דרסה (דעת עצמו מקבלת השוחטים ומהרש\"ל פ' השוחט סימן י\"ב): ואפילו לא עשה דרסה אלא במשהו מן הוושט פסולה: הגה והמנהג להטריף כל דרסה בין במיעוט קמא בין במיעוט בתרא בין בקנה בין בוושט (שחיטות מהרי\"ו):",
+      "en": "Seif 6 When a person slaughters a fowl and holds the signs between two fingers, he needs to hold them well and if he does not hold them well sometimes they will loosen here and there and he won’t be able to cut it in a slicing fashion, rather he will do “dirasah”. And thus one should not rest ones fingers on the knife but rather grip it by the handle so that he won’t cause “dirasah”. Even if one does not do “dirasah” with anything other than the gullet, it [the slaughter] in not acceptable. The custom is that all “dirasah” is unfit whether it be a little in the beginning [of cutting] or at the end [of cutting], whether with the windpipe or gullet.",
+      "ref": "Shulchan Arukh, Yoreh Deah 24:6"
+    },
+    {
+      "seif": 7,
+      "he": "חלדה כיצד כגון שהכניס הסכין בין סימן לסימן בין ששחט התחתון כהלכתו מלמעלה למטה וחזר והוציאו ושחט העליון בין ששחט העליון ממטה למעלה שלא כהלכתו פסולה:",
+      "en": "Seif 7 What is meant by “hiding”? When one inserts the knife between the signs [that is between the gullet and the windpipe], slaughtering the lower sign in a manner from above to below and returns to remove it [his knife] and slaughters the one [sign] above in a manner from below to above, it is not acceptable.",
+      "ref": "Shulchan Arukh, Yoreh Deah 24:7"
+    },
+    {
+      "seif": 8,
+      "he": "החליד את הסכין תחת העור או תחת צמר מסובך בצואר הבהמה או תחת מטלית הקשור בצוארה או שהמטלית מדובק בו בשעוה ושחט שחיטתו פסולה אבל אם המטלית פרוש על צוארה ושחט שחיטתו כשרה ויש מי שפוסל גם בזה ולכתחלה יש לחוש לדבריו: הגה וכן יש ליזהר בכבשים שיש להם צמר מסובך בצואריהם לתלוש הצמר המסובך שלא יבא לידי חלדה (מרדכי פרק השוחט ורוקח):",
+      "en": "Seif 8 If one hides the knife under the hide or under tangled wool in the neck of cattle or under knotted cloth on the neck or cloth that is stuck with wax and slaughters, his slaughter in not acceptable. If however, the cloth is spread on the neck and he slaughters, his slaughter is kosher. There are those [that say] this is also not permitted. Ab initio, there is a concern in the matter. Accordingly one should take heed with sheep as they have tangled wool on their neck. One should tear or pluck the clinging wool so as not to do “chaladah”. (as if one inserted the knife between one sign and another.)",
+      "ref": "Shulchan Arukh, Yoreh Deah 24:8"
+    },
+    {
+      "seif": 9,
+      "he": "צריך ליזהר כשאדם שוחט וחס על העור שלא יעשה בו קרע גדול ושוחט בראש הסכין ומתכסה מהעור אמנם אם שוחט באמצע הסכין אין לחוש אם ראשו מתכסה בעור כיון שהסכין במקום ששוחט בו כנגד הסימנים אינו מכוסה ויש מי שמחמיר גם בזה ויש לחוש לדבריו לכתחלה:",
+      "en": "Seif 9 One who slaughters should take heed and have consideration for the hide so that he does not tear it significantly and slaughtering with the head of the knife so that it is covered by the hide. If one slaughters with the middle of the knife there is no concern about the head of the knife being covered by hide since the knife is in the place of proper slaughter [that is] opposing the signs and not covered. There are those that are strict with this and there is a concern in the matter ab initio.",
+      "ref": "Shulchan Arukh, Yoreh Deah 24:9"
+    },
+    {
+      "seif": 10,
+      "he": "אם לאחר ששחט רוב הסימנים החליד הסכין תחת מיעוט הנשאר משניהם או מאחד מהם ופסקו מותר ויש מי שאוסר גם בזה וראוי לחוש לדבריו לכתחלה: הגה והמנהג להטריף כל חלדה בין במיעוט קמא בין במיעוט בתרא בין בקנה בין בוושט (שחיטת מהרי\"ו):",
+      "en": "Seif 10 If after one slaughtered most of the signs and the knife becomes hidden under the remaining minority [of the signs], or from one of them [the signs] and divided [cut] it, it [the slaughter] is permitted. There are those [that say] that this is also forbidden and it is clear that there is concern in the matter ab initio (before the fact).",
+      "ref": "Shulchan Arukh, Yoreh Deah 24:10"
+    },
+    {
+      "seif": 11,
+      "he": "אם החליד הסכין תחת מיעוט הראשון ושחטו ממטה למעלה ואח\"כ גמר השחיטה כדרכה וכן אם שחט רוב סימן אחד בבהמה והחליד הסכין תחת מיעוט הנשאר ושחט סימן השני וכן אם שחט מיעוט הראשון בחלדה וגמר השחיטה שלא בחלדה הרי זו פסולה:",
+      "en": "Seif 11 If the knife is hidden under a little bit of the first [sign] and he cuts from below to above and afterwards finishes the slaughter in proper manner; or similarly if he slaughters most of one sign in cattle and the knife is hidden under the remaining remnant and he then slaughters the second sign; or similarly if he slaughters a little of the first [sign] by “chaladah” and finishes the slaughter not by “chaladah” all of these [means of slaughter] are not acceptable.",
+      "ref": "Shulchan Arukh, Yoreh Deah 24:11"
+    },
+    {
+      "seif": 12,
+      "he": "הגרמה כיצד זה השוחט בקנה למעלה במקום שאינו ראוי לשחיטה או שהתחיל לשחוט במקום שחיטה ושחט מעט והטה הסכין חוץ למקום שחיטה למעלה וגמרה שם אבל שחט רוב חלל הקנה במקום שחיטה והטה הסכין חוץ למקום שחיטה למעלה וגמר שם חתיכת כל הקנה כשרה וה\"ה אם שחט רוב שנים בבהמה במקום שחיטה והשלים השחיטה בהגרמה או בדרסה כשרה ויש מי שפוסל בדרסה ויש לחוש לדבריו לכתחלה: הגה והמנהג להטריף בין בדרסה בין בהגרמה בין במיעוט קמא בין במיעוט בתרא בין בקנה בין בוושט (ג\"כ במהרי\"ו):",
+      "en": "Seif 12 What is meant by “lifting up/tipping”? One slaughters the windpipe above the place that is not permitted for proper slaughter. Or if one begins to slaughter in a place permitted for proper slaughter and slaughters a little and inclines the knife outside of the place fit for slaughter from above and finishes there. However, if he slaughters most of the windpipe in a place fit for slaughter and inclines the knife outside a place fit for slaughter from above and finishes their, cutting the entire windpipe it is kosher. This is the law if he slaughters most of the two [signs] in cattle in a place fit for slaughter and completes the slaughter by doing “hagramah” or “dirasah” it is kosher. There are those [that say] this is not acceptable if it is by “dirasah” and there is concern in these matters ab initio.",
+      "ref": "Shulchan Arukh, Yoreh Deah 24:12"
+    },
+    {
+      "seif": 13,
+      "he": "הגרים בקנה בתחלת שליש ושחט ב' שלישים כשרה. שחט שליש והגרים שליש וחזר ושחט שליש האחרון כשרה. הגרים שליש ושחט שליש וחזר והגרים שליש האחרון הרי זו פסולה ואם דרס או החליד בין בשליש ראשון בין בשליש אמצעי הרי זו פסולה:",
+      "en": "Seif 13 If one inclines the knife in the in first third and slaughters the next two thirds properly, it is kosher. If one slaughters the first third properly, inclines [while cutting] the second third and then returns and cuts the final third properly, it is kosher. If one inclines on the first third, slaughter the second third properly and then returns to incline on the final third, it is not acceptable. If he presses or hides in the first third or the middle third, it is not acceptable.",
+      "ref": "Shulchan Arukh, Yoreh Deah 24:13"
+    },
+    {
+      "seif": 14,
+      "he": "כל אלו החלוקים כשהוא ודאי שלא נגע בוושט אלא בקנה לצד מעלה אבל בוושט אפי' שחט בו כל שהוא חוץ למקום שחיטה בין לצד מעלה בין לצד מטה וכן בקנה לצד מטה קודם גמר הכשר שחיטה אעפ\"י שגמר כל השאר במקום שחיטה הרי זו פסולה מפני שנקיבת מקומות הללו במשהו (ד\"ע ור' ירוחם) והמנהג להטריף מכל מקום ואין לשנות (מהרי\"ו):",
+      "en": "Seif 14 All of these sections [that which has just been discussed], when he is certain that he did not strike the gullet but rather only the windpipe [moving] upward. But even if you slaughter the gullet with the slightest cut outside the place permitted for slaughter, be it from the upper side or the lower side; or similarly with the windpipe from the side below before he finishes it in a kosher slaughter even if he finish [cutting] all of the remainder in a place permitted for kosher slaughter, it is not acceptable since even the smallest of these perforations count.",
+      "ref": "Shulchan Arukh, Yoreh Deah 24:14"
+    },
+    {
+      "seif": 15,
+      "he": "עיקור כיצד כגון שנעקר הקנה או הוושט מהלחי ומהבשר ונשמט אחד מהם או שניהם קודם גמר שחיטה אבל אם שחט אחד בעוף או רובו ואח\"כ נשמט השני שחיטתו כשרה נשמט אחד מהם ואחר כך שחט את השני שחיטתו פסולה: הגה ואנו נוהגין להטריף כל עיקור בין במיעוט קמא בין במיעוט בתרא בין בקנה בין בוושט (ע\"פ מהרי\"ו) ודוקא לאחר שנשחט אבל בחייו כשר אלא שאין שחיטה מועלת בו ונ\"מ לענין חלבו או ביצים שלו שהם כשרות (בית יוסף מתשובת רשב\"א):",
+      "en": "Seif 15 What is meant by “uprooting”? When the windpipe or the gullet is ripped from the jaw and from the flesh and one or both of them slips before slaughter has been completed. If one [sign] in a fowl is slaughtered or most and afterward the second slipped, his slaughter is kosher. If one [sign] slips and afterward he slaughters the second his slaughter is not acceptable.",
+      "ref": "Shulchan Arukh, Yoreh Deah 24:15"
+    },
+    {
+      "seif": 16,
+      "he": "הא דפסול בעיקור היינו כשנעקר כולו אבל אם נשתייר בו אפילו משהו כשר והוא שאותו שנשאר הוא במקום אחד אבל אם מיעוט הנשאר הוא מדולדל שהוא מעט כאן ומעט כאן פסול שניכר הדבר שנעקר בכח ומה שנשאר מחובר חיבור מדולדל הוא והוה ליה נעקר כולו ופסול. והני מילי כשנעקר רובו. אבל אם לא נעקר אלא מיעוט ורובו קיים אף על פי שרוב זה הנשאר הוא מדולדל מעט כאן ומעט כאן כשר:",
+      "en": "Seif 16 As to the issue of “Ikur” being unacceptable, [this is the case when] we have a complete uprooting, but if there is a remnant, even a little bit, it is kosher provided that the remnant is in its place, but if a little bit of the remnant is loose - a little here and a little there - it is not acceptable. The matter is clear that it was uprooted with force and what remains is just loosely attached. These rules apply when most is removed but if only a little is uprooted here and most is enacted, if most remains loosely - a little here and a little there - it is kosher.",
+      "ref": "Shulchan Arukh, Yoreh Deah 24:16"
+    },
+    {
+      "seif": 17,
+      "he": "שחט אחד מהסימנים ונמצא השני שמוט ואין ידוע אם קודם שחיטה נשמט או אחר שחיטה הרי זו פסולה: הגה ואפילו זרק העוף מידו ולא אמרינן דמחמת זריקה או פרכוס נשמט (מהרי\"ק שורש ל\"ה) מיהו השוחט נאמן לומר שלא היה שמוט בשעת שחיטה (פסקי מהרא\"י סי' ר\"ה):",
+      "en": "Seif 17 If one slaughters one of the signs and the second was found to be displaced but it is not known [if it was displaced] before the slaughter or after the slaughter. This [slaughter] in not acceptable.",
+      "ref": "Shulchan Arukh, Yoreh Deah 24:17"
+    },
+    {
+      "seif": 18,
+      "he": "נמצא הסימן השחוט שמוט אם כששחט תפס הסימנים בידו או עור בית השחיטה מאחריו ונדחק הסימן תחת העור הרי זו פסולה ואם לאו מותר ע\"י בדיקה שיביא בהמה וישחוט הסימן ואחר כך יעקרנו אם דומות שתי השחיטות זו לזו כשרה ואם השניה מאדמת יותר פסולה הראשונה ועכשיו אין אנו בקיאין בבדיקה זו הלכך בכל גוונא אסור:",
+      "en": "Seif 18 If a sign [either the windpipe or gullet] of the slaughter was found dislodged: if when he slaughtered he took hold of the signs in his hand or the skin from behind the place of slaughter and the signs were squeezed under the skin, this is not acceptable. If not, it is permitted after examination. If he brings cattle and he slaughters the sign and afterward it was dislodged, if it is the same in two of the slaughters,  comparing one to the other it is kosher. If the second is bloodier, the first one is not acceptable. We no longer have experts to check this and the custom in all of these cases is to rule them as not acceptable.",
+      "ref": "Shulchan Arukh, Yoreh Deah 24:18"
+    },
+    {
+      "seif": 19,
+      "he": "שחט העוף כדרכו בהכשר ואחר גמר שחיטה מצא טבעת מהגרגרת שלם על הסכין כשר: הגה ויש מטריפין בזה וכן עיקר (שחיטות ישנים בשם מהרא\"ק גם ע\"פ גיסו מהרר\"י כ\"ץ שאמר כך הנהיג מהר\"ר משה יפה) ואין לשנות:",
+      "en": "Seif 19 If one slaughters a fowl in the proper way that is acceptable and he finishes the slaughter, a ring is found from the throat on the knife it is acceptable.",
+      "ref": "Shulchan Arukh, Yoreh Deah 24:19"
+    },
+    {
+      "seif": 20,
+      "he": "השוחט תרנגול צריך ליזהר שידחוק רגלו בקרקע או יגביהנו שלא ינעוץ רגלו בקרקע כדי שלא יעקור הסימנים:",
+      "en": "Seif 20 When one slaughters a rooster one needs to take heed and squeeze his feet on the on the ground or lift him up so that his feet do not wedge in the ground in order that he does not dislodge the signs.",
+      "ref": "Shulchan Arukh, Yoreh Deah 24:20"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה חולין דף ל' כפירוש רש\"י שם וכפי' הרמב\"ם בפ\"ג מה\"ש דין י\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:1"
+        },
+        "2": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:2"
+        },
+        "3": {
+          "he": "מסקנת הגמרא שם דף ל\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:3"
+        },
+        "4": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:4"
+        },
+        "5": {
+          "he": "שם במשנה ושם בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:5"
+        },
+        "6": {
+          "he": "ברייתא שם ד' ל'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:6"
+        },
+        "7": {
+          "he": "כל בו בשם הרי\"ף וכ\"כ הגהות מיימו' פ\"ג מה\"ש בשם סמ\"ק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:7"
+        },
+        "8": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:8"
+        },
+        "9": {
+          "he": "במשנה שם ד' ל\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:9"
+        },
+        "10": {
+          "he": "שם בגמרא דף ל\"ד ממימרא דרב יהודה אמר רב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:10"
+        },
+        "11": {
+          "he": "בעיות דלא נפשטו שם ולחומרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:11"
+        },
+        "12": {
+          "he": "כפי' הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:12"
+        },
+        "13": {
+          "he": "כפי' בה\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:13"
+        },
+        "14": {
+          "he": "טור והר\"ן שם בשם רבוותא וכ\"כ סמ\"ג [בה\"ג] והרא\"ש והרשב\"א וכ\"נ מדברי רש\"י וסמ\"ג ורבינו ירוחם ובה\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:14"
+        },
+        "15": {
+          "he": "הרמב\"ם בפרק ג' מה\"ש ד\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:15"
+        },
+        "16": {
+          "he": "ב\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:16"
+        },
+        "17": {
+          "he": "טור בשם סמ\"ג והגהות מיימוני",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:17"
+        },
+        "18": {
+          "he": "שם בשם הר\"א ממיץ (בספר יראים קל\"ו)",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:18"
+        },
+        "19": {
+          "he": "הגהות מיימוני בפ\"ג מה\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:19"
+        },
+        "20": {
+          "he": "כ\"נ מדברי הרמב\"ם בפ\"ג וכ\"כ הרא\"ש בפרק השוחט בשמו ושסמך על התוספתא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:20"
+        },
+        "21": {
+          "he": "טור בשם פי' רש\"י אהא דבעי רב פפא ולא נפשטא ולחומרא שם דף ל' ושלזה הסכים הרא\"ש ומרדכי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:21"
+        },
+        "22": {
+          "he": "בעיא דרב פפא כפי' התוספות שם (וטור לדעת הרמב\"ם)",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:22"
+        },
+        "23": {
+          "he": "שם כפי' ה\"ר אושעיא ולחומרא כיון דלא נפשטא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:23"
+        },
+        "24": {
+          "he": "לשון הרמב\"ם שם ממשנה וגמרא דף י\"ח וי\"ט וכתב הכ\"מ שם דנקט בקנה למעלה לפי שעתיד לחלק בין הגרים שליש לשחט וכו' למעוטי בושט דבין למעלה ובין למטה הוי נקיבתו במשהו וכן למטה בין כנפי הריאה נידון כריאה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:24"
+        },
+        "25": {
+          "he": "שם מדין השהייה מהתוספתא שציינתי לעיל סעיף ה'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:25"
+        },
+        "26": {
+          "he": "ריב\"ם ורא\"ש ועיין סמן כ\"ג ס\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:26"
+        },
+        "27": {
+          "he": "לשון הרמב\"ם פ\"ג מה\"ש דין י\"ג וכר' יוסי ברבי יהודה וכלישנא בתרא וכרב ושמואל דפסקו כוותיה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:27"
+        },
+        "28": {
+          "he": "כרב יהודה וכו' דף י\"ט דמשמע שם דרב הונא מודה לו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:28"
+        },
+        "29": {
+          "he": "כרב יהודה וכו' מהטעם הנ\"ל (°) דלא הכשירו בשחט ב' שלישים אלא בהגרמ' שאינו במקום שחיטה ולא בדרסה וחלדה שהם במקום שחיטה כ\"כ הכ\"מ שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:29"
+        },
+        "30": {
+          "he": "הרא\"ש והרשב\"א בת\"ה ושאר פוסקים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:30"
+        },
+        "31": {
+          "he": "מימרא דרב יהודה וכו' ד' ט' וכפי' התוספות בשם בה\"ג ואין השמוטה טריפה הלכך חלבה בחיי' מותר אלא שכך הלכה למשה מסיני דאין שחיטה מועלת כשנשמט סימן אחד ממקום חיבורו אפילו בעוף וכ\"כ הרא\"ש והרשב\"א בת\"ה והרמב\"ם בפ\"ג מה\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:31"
+        },
+        "32": {
+          "he": "הרמב\"ם שם והתוספות בשם ריב\"ם דף ל' והרא\"ש בפ\"ק דחולין",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:32"
+        },
+        "33": {
+          "he": "מימרא דרב נחמן וכו' ומסוגיא דגמרא שם דף מ\"ד וכפי' רש\"י וכן פסק הרא\"ש והרשב\"א והר\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:33"
+        },
+        "34": {
+          "he": "ברייתא שם דף כח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:34"
+        },
+        "35": {
+          "he": "טור בשם אביו הרא\"ש מהא דריש לקיש ורבי יוחנן ורב נחמן שם דף ל\"ד וכ\"פ הרי\"ף וש\"פ והגהות מיימוני פ\"ג בשם סמ\"ק וכל בו ואגודה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:35"
+        },
+        "36": {
+          "he": "אגור בשם מהר\"י מולין",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:36"
+        },
+        "37": {
+          "he": "מימרא דאביי שבת דף קכ\"ח (°) פי' אם שוחט ע\"ג קרקע או סמוך לו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 24:37"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "אם. הש\"ך הראה מקום לסי' ח' ושם נאמר דלכתחלה יקח בין בבהמה ועוף סכין כמלא ב' צווארים של אותו הנשחט יע\"ש ובבהמה לדידן יהיה י\"ד אצבעות ולא בעוף דמכביד על העוף וסימנים רכים ויבא לידי דרסה אחרונים. ודע דאם אין בסכין אלא מלא צוואר א' והשוחט אמר ברי לי שלא דרסתי והסכין חד וחריף דעת הפר\"ח באות ב' שאין אסור אלא מדרבנן וחדוש הוא בעיני והתב\"ש בסי' ח' אות ז' כתב דפסולה דאורייתא הוה יע\"ש ומ\"מ יראה לי דמידי ספיקא לא נפקא ולא הוה ודאי ויש לעיין אם לא בצירוף החזקה: הפרי תואר חקר בהא דזרק סכין לנועצה המבואר סי' ג' דפריך הגמרא והא בעינן מוליך ומביא ומשני שהלכה ובאה והא לא שייך כאן דרסה דהא לא הניח ידו על הסכין כלל והעולה מדבריו ור\"ל דשם אפילו לכתחלה מיירי ומש\"ה בעי לאוקמיה בהולכה והובאה יע\"ש והנה בברייתא לשון דיעבד קאמר ואף שיפה חקר מ\"מ לענין דינא אף בזרק צריך כמלא ב' צווארים או הולכה והובאה ואף דליכא למיחש לדרסה שהרי הב\"ח ז\"ל בסי' ג' אומר כן דהא דלא כתבו הפוסקים שהלכה ובאה משום דא\"ל בסכין גדול. והכה\"ג בהגהות הטור אות א' שם כתב כן ויראה דכה\"ג ודאי מדרבנן פסולה משום לא פלוג לא מ\"ה דומיא דמ\"ש הפר\"ח ואף דשם חולק התב\"ש אבל כאן אפשר יודה וצ\"ע ✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:1"
+        },
+        "2": {
+          "he": "שחט. עש\"ך ולא הבינותי דמה ראיה מחולין כ\"ט דאיירי בסכין ארוך הרבה מש\"ה אמר ברישא השוחט ב' דאשים ע\"כ בקדשים משא\"כ סיפא דמתני' מיירי בחולין ומשום דלכתחלה בעינן מוליך ומביא אף בסכין ארוך כמו ששנינו בתוספתא מצות שחיטה מוליך ומביא והפר\"ח הביאה באות ג' ודחק דל\"ק מההיא דבדק גירא דא\"א בע\"א יע\"ש ואי לית ליה להש\"ך הך תוספתא אמאי לא קשיא ליה להש\"ך אמ\"ש המחבר בס\"א שחט בהולכה לבד כשר דיעבד ולא נקיט לכתחלה. ומ\"ש הש\"ך שכן צריך לומר בר\"מ התם ודאי הדין עמו דלא נקיט התם בהולכה לחוד ואפ\"ה נקיט לשון דיעבד ובהל' פה\"מ פ\"א מבואר דבחולין שרי לכתחלה אלא שזה לא יעלה ארוכה להמחבר דהר\"מ סמך על פה\"מ משא\"כ להמחבר אלא כמ\"ש הת\"ח מתוספתא דווקא דיעבד ולכתחלה בעינן הולכה והבאה. וראיתי להתב\"ש בסי' ח' אות ה' כתב דאההיא דבדק גירא אין ראיה דליכא למגזר משום דרסה דבגירא לא שייך דרסה משא\"כ כשהסכין בידו כו' וכ\"ש נמי כשר. הנה מה יעשה בהא דזרק סכין דבעינן שיעור או הולכה והבאה כמ\"ש לעיל ומיהו כבר כתבנו דמדרבנן פסולה וה\"ה גירא משום לא פלוג ואם לא א\"י מה חילוק יש בין גירא לזרק ונם שם הסכין מסולק מיד האדם ואין מי שידרוס וכבר נתבאר באות הקדום:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:2"
+        },
+        "3": {
+          "he": "אם. עש\"ך דנקיט ב' הקצוות דהיינו שהניח מלא ב' ראשין על ב' צווארי הנשחטים ובצד פנימי דפנימית נשאר יוצא עד הקתא מלא צוואר הסכין והוליך עד שבא מהסכין מלא צוואר חוץ לצוואר חיצונה שתיהן כשירות והוא כפי הבחינה שלישית שזכרנו לעיל בט\"ז אות א' והוא קולא גדולה ובין התחיל בקצה הסכין בצד פנימי דפנימית והעביר כל הג' צווארים עליה דהיינו שתים עברו וצוואר א' נשאר בתוכה ועל חיצונה צוואר א' עבר והב' נשאר בתוכה דה\"א דזה גרע מחלוקה ראשונה ששם נשחטו שניהם בשוה החיצונה והפנימית כל א' בב' צווארין משא\"כ כאן דהפנימית בג' והחיצונה בב' ולמה די לה בחלק מועט מן הפנימית וה\"א דחיצונה נדרסה כקושית הט\"ז אות א' קמ\"ל הש\"ך דאין לחוש דאפשר הפנימית עורה וסימנים שלה קשים מחיצונה ומש\"ה שתיהן כשירות וכן בהבאה אם הניח מלא צואר חוץ לחיצונה והביא שתיהן כשירות. אמנם מ\"ש בחלוקה השלישית ואם הניח מלא ב' צווארים על ב' צווארי הנשחטים ומלא צוואר מראש הסכין יצא בצד חיצוני דחיצונית והוליך החיצונה כשירה והפנימית פסולה ובהבאה החיצונה פסולה כו' לא ידענא מה בא ללמדנו דבשביל שיצא מלא צואר א' לצד החיצונה יהא ה\"א דכשירה בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:3"
+        },
+        "4": {
+          "he": "ואם לאו. עש\"ך ורצונו לומר דבחה\"ר כתב דאם אין בסכין כ\"א ב' צוארים הראשונה פסולה ושניה כשירה ע\"כ בהניח מלא ב' צווארים על ב' צווארי הנשחטים והוליך הסכין לאותו צד שיצא ראש הסכין דהשתא הראשונה שאצל השוחט פסולה שלא היה לה כ\"א מלא צוואר א' והשניה דהיינו החיצונה כשירה שהרי עבר עליה מלא ב' צווארים. ואם הניח מלא צוואר הב' בתוך החיצונה לשיטתיה באות ג' כדכתיבנא וכציור רנ\"ש במ\"ש שהביאו הפרישה וקורא ראשונה אותה שאצל השוחט ושניה מה שחוצה להשוחט והבאה איפכא השניה אסורה והראשונה שאצל השוחט כשירה והא דקרי ליה ב\"א היינו דהתחלה וגמר הוה ב\"א כפי שיטתיה לעיל באות ג' והבן. אמנם לא ידענא אמאי לא בהניח מקצת ובהבאה והפסיק באמצע. ואפשר דניחא ליה לאוקמיה בהולכה וע\"כ שהניח ב' צווארים על הנשחטים והוליך לאותו צד שיצא ראש הסכין דאי רק ראש א' הראשונה כשירה ושניה פסולה וכבר כתבנו בט\"ז באורך בזה. עוד כתב הש\"ך דלפי טעם הב\"י וד\"מ דאם א' נדרסה ע\"כ גם השניה א\"כ אף דהתם מיירי שהניח ב' מלא צווארים על הנשחטים מדכתב הרשב\"א י\"א דהראשונה פסולה והרמב\"ן אומר דשתיהן פסולות וכמ\"ש לעיל ה\"ה אם התחיל בקצה הסכין בצד הפנימית והוליך וכשבא מלא צוואר לתוך השניה הפסיק דשתיהן פסולות כיון שהשניה נדרסה ה\"ה הראשונה. ויראה לי דהכי קאמר לא מיבעיא אם הניח מלא צואר על הראשונה ומשך והוליך עד שבא מלא צואר לתוך השניה דע\"כ נדרסה גם הראשונה דהא בשעה שהעביר מלא צואר על השניה העביר גם מלא צוואר ב' על הראשונה א\"כ בחתך א' נדרסו שניהם אלא אפילו התחיל בקצה נימא דלפעמים הסכין חד וחריף וחותך במלא צוואר א' רוב הסימנים כמ\"ש הרא\"ש וכיון שהוא מתכוין להעביר גם מלא צואר הב' על הראשונה א\"כ לא הוה כתופס הסכין במזיד ונימא שמא במלא צוואר א' שהעביר נשחטה הראשונה והוא לא ראה ולא ידע ונכשיר מספק קמ\"ל דלפי הטעם שכתבו דע\"כ נדרסה גם השניה אם כן ליכא ספק כי אם ודאי וליכא לאכשורי שמא במלא צוואר א' נשחטה הא' קודם שהגיע אל השניה. ומיהו יש לעיין אי הסכין חד וחריף וראה כשהעביר מלא צוואר לתוך הראשונה נשחטו רובן ואח\"כ בהעביר מלא צוואר לשניה ודעתו היה להפסיק שם דהוה כתופס הסכין בידו דלא מהני חריפות הסכין כמ\"ש התב\"ש בסימן זה ובסי' ח' דכל שתפס הסכין אפילו ברי לי לא מהני א\"כ נימא דגם הראשונה פסולה מדרבנן מטעם דרסה במיעוט בתרא או נאמר דלאו ודאי הוה כ\"א ספק כמ\"ש בש\"ע יש לחוש ולאסור שתיהן וכיון דלאו ודאי אלא ספיקא א\"כ במיעוט בתרא דלא הוה אלא מנהגא אין לאסור מספיקא כמו בספק שהה במיעוט בתרא כמ\"ש לעיל וכמ\"ש הכה\"ג בהגהות הטור בסי' א' דידע דלא גמיר אין צריך לעמוד עליו מתחלתו ועד סופו רק עד רובו וכבר התבאר זה לעיל ולקמן יבואר עוד: והנה נאמר דדין זה במחלוקת שנוי' התב\"ש והפר\"ח. להפר\"ח אם שחט במלא צוואר א' והסכין חד וחריף ואמר ברי לי אפ\"ה פסולה מדרבנן משום לא פלוג א\"כ הראשונה כשירה אף מדרבנן כיון דהשניה נמי נשחטה כהוגן בסכין חד וחריף כמו הראשונה במלא צוואר א' אלא דהשניה לא היה לה כ\"א מלא צוואר אחד כיון דהפסיק בחצי הסכין ולא היה דעתו להעביר הסכין יותר א\"כ הראשונה כשירה דמה אמרת דע\"כ נדרסה דגם השניה נדרסה דז\"א דגם השניה לא נדרסה אלא דאסורה מדרבנן משום לא פלוג דגזרינן אטו באין הסכין חריף וישחוט במלא צוואר אחד בהולכה לחוד או בהבאה לחוד א\"כ מה\"ת ליפסול הראשונה משא\"כ להתב\"ש בסי' ח' דכל שאין בסכין כ\"א מלא צוואר א' לא מהני ברי לי ואף מה\"ת אסור דאינו סומך על חריפותו של סכין ודורס אם כן ה\"ה הראשונה כיון דבפעם אחד העביר על שניהם יחד והשניה נדרסה ה\"ה הראשונה במיעוט בתרא והוה פסולה או ד\"ת או מדרבנן עכ\"פ כדבעינן למימר לקמן בעזה\"י. ומ\"ש הש\"ך דלא כב\"ח שחילק בין התחיל בקצה הסכין דאחת כשירה ובין הניח מלא ב' צווארים וה\"ה אם הניח מלא צוואר א' וכבר כתבנו מה שיש לעיין בהאי דינא. עוד כתב דאם התחיל בקצה והעביר מלא צוואר לצד חיצוני דחיצונית דעל הראשונה עבר הסכין מכל וכל ועל השנייה עבר מלא צוואר א' ומלא צוואר הב' נשאר בתוך השנייה שתיהן כשירות לכ\"ע זה ג\"כ לפי הבחינה הב' שכתבנו בט\"ז אות א' כשר והתב\"ש כתב שאין דעת הב\"י כן אלא שהעביר הסכין גם מעל השניה מכל וכל זה כפי הבחינה א' שכתבנו בט\"ז. וחולק על הב\"ח שאוסר כה\"ג יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:4"
+        },
+        "5": {
+          "he": "והמנהג. הש\"ך הביא הרבה פוסקים להתיר. והנה מ\"ש משנה י\"ט הוא דשוחט מעודף בדלא אהדר פסול ומאי איריא מעורף אפילו מצואר כה\"ג פסול ומ\"ש מהר\"מ פ\"ב מה\"ש ה\"ט הוא מ\"ש שם דהא דבעינן הוליך והביא או כמלא ב' צווארים בהתיז המפרקת ג\"כ הא בסימנים א\"צ כ\"א כ\"ש אלמא דלא מיפסל בחתיכת המפרקת וכן מוכח מרמב\"ן שקאי בשיטה זו דלא בעינן מוליך ומביא כ\"א בחתך המפרקת ומ\"ש שכן מוכח מטור והמחבר ס\"ס כ\"א אולי ט\"ס הוא וצ\"ל ס\"ס כ' השוחט מעודף פסול בדלא אהדר ש\"מ מצוואר כשירה כה\"ג. והנה ממשנה אין ראיה די\"ל הטעם משום דם ומש\"ה אמר מעורף פסולה והוה נבילה אמנם מר\"מ ז\"ל יש ראיה דכתב הוליך והביא והתיז הראש כשר. וכ\"ז יש לומר דמיירי בלא מתכוין הא במתכוין פסול. ומה שלא הגיה רמ\"א בס\"ס כ' דסמך על כאן. ולענין דינא העלה הש\"ך להקל בה\"מ וכן הוא דעת הפר\"ח: כתב הכה\"ג בהגהות ב\"י אות כ' שמחה בשוחט שהיה שוחט בישיבה יע\"ש. ועיין תב\"ש בה\"מ התיר בהניח אצבעו על הסכין. ונ\"ל ה\"ה בישיבה אין להחמיר דיעבד בה\"מ ואף בלא ה\"מ יש לצדד אם יודע שלא דרס:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:5"
+        },
+        "6": {
+          "he": "בין. וכתב הש\"ך וכ\"ש הכניס תחת ב' הסימנים או חתך התחתון ממטה למעלה והעליון כהלכתו. מ\"ש דכ\"ש דהא שחט שניהן בחלדה וכן דין השני הוה כ\"ש דהיה הסכין מכוסה בב' הסימנים וא\"י מה מלמדנו דפשיטא דהכין הוא. ודע דלשון הטור והמחבר הוה זו ואצ\"ל זו דאם כששחט התחתון מלמעלה למטה הוה חלדה כ\"ש כששחט העליון ממטה למעלה אלא דבין בין אין קפידא עיין פרישה. ועי' כה\"ג בהגהות הטור אות ט\"ו לפי מ\"ש התוס' חולין למ\"ד ב' ד\"ה החליד דמתני' רבותא אשמעינן אף דסימן א' נשחט בהכשר אפ\"ה כל שהחליד הוה חלדה או אורחא דמלתא נקיט מתורצים דברי הטור. ולא הבינותי דהטור אומר או שהחליד ממטה למעלה והרי העליון עדיין לא נשחט כלום ואדרבה הטור לא ס\"ל תי' א' של תוס' דאל\"כ אמאי השמיט הך רבותא דאפילו נשחט א' בהכשר אלא אורחא דמלתא נקט ואולי זה כוונת הש\"ך במ\"ש וכ\"ש אם תחת שניהם וחתכן ממטה למעלה או תחתון מלמטה למעלה והעליון כהלכתו ר\"ל דין המשנה שמקודם חתך עליון כהלכתו ואח\"כ השני ממטה למעלה אף שכבר נשחט הא' בהכשר וכ\"ש קאי אתחלת דין דהיינו שחתך שניהם ממטה למעלה ומזה נמשך לדין שני דה\"ה עליון מקודם כהלכתו והב' ממטה למעלה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:6"
+        },
+        "7": {
+          "he": "שחיטתו פסולה. מספק ולא ודאי דבעיות ולא איפשטא נינהו ש\"ך. וכבר כתבנו דבשביל החזקה לא ישתנה הדין ולא אוקמינן אחזקה אלא בספק המקרה ולא בספיקא דדינא ובעיא דלא איפשיטא ובדין מטלית הכרוך על צווארה דהיינו שמסובב הרבה פעמים פסול כן העלו האחרונים ודיוקא דסיפא דוקא פרוס הא כל מה שמסובב וא\"א ליטול בפ\"א הוה חלדה מספק ואסור:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:7"
+        },
+        "8": {
+          "he": "וכן. עש\"ך וז\"ל המרדכי הביאו הב\"י (וד\"מ) תחת צמר מסובך מהו וצריך ליזהר בצמר דכבשים ולכך נהגו העם למלוג הצואר בעופות שלא יחלידו תחת הנוצות אף שיש צער ב\"ח וכתב הל\"ח דה\"ט אף דצער ב\"ח דאורייתא מ\"מ לצורך אכילה התירה התורה וכתב הכה\"ג בהגהות הב\"י אות כ\"ה דהמרדכי התחיל בצמר וסיים בנוצה ותי' דה\"פ בצמר יש ליזהר שא\"א למרוט שלא ינקבו הסימנים ובנוצה יש תקנה למרוט ורמ\"א כתב דברים מהופכים דכאן כתב לתלוש הצמר ובסימן כ\"ג כתב שלא יתלוש הנוצה ואם סובר דלהמרדכי בצמר נמי יתלוש מ\"מ למה כתב שם דלא יתלוש הנוצה והש\"ך נזהר מזה וכתב דמיניה משמע שאם א\"א לשחוט בלא זה ימרוט וצ\"ע עכ\"ל ולא הבינותי דאדרבה תלישת צמר קל הוא דעור הבהמה קשה ובנוצה יש לחוש דעור העוף רך הוא. והש\"ך נתכוין למה שאכתוב דרמ\"א כתב שיש ליזהר בצמר המסובך משמע דמשום איבעיא צמר מסובך מהו והמרדכי החמיר אף בנוצה דאין מסובך אפ\"ה אסור ול\"ד למטלית פרוס דהוא לפי שעה משא\"כ נוצה קבועין בגוף הוה חלדה אם הסכין מכוסה תחת הנוצה וז\"ש המרדכי דאף בעופות נהגו למלוג וז\"ש הש\"ך דהר\"ב סמך אמ\"ש שם דלא ימרוט אם אפשר לשחוט כך. ממילא משמע שאם א\"א לשחוט כך אסור אף בנוצה. ולענין דינא אם החליד תחת הנוצ' אם יש לפסול דיעבד או דווקא לכתחלה ודוקא צמר מסובך פסול דיעבד הנה התב\"ש אות י\"נ סובר דאף נוצה אסור דיעבד וצמר מסובך לאו דווקא ולשון רמ\"א שכתב צמר מסובך ובמרדכי לא נזכר מסובך. וכפי הנראה דאסור דיעבד מדמתיר למרוט הנוצה בא\"א לשחוט בלא זה ואי נוצה לא הוה אלא כמטלית ולחוש לכתחלה לחומרת הר\"מ ז\"ל והא צער ב\"ח דאורייתא ואיך התירו לעבור אדאורייתא משום חומרא בעלמא אלא ש\"מ דיעבד אסור ויש לומר כיון שא\"א מתכווין לכך שרי וצ\"ע:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:8"
+        },
+        "9": {
+          "he": "ויש לחוש. עש\"ך דלכתחלה יש ליזהר הא כנגד מקום השחיטה אף דיעבד פסולה אף ששאר הסכין מגולה והראה מקום ליש\"ש פ\"ק סימן מ\"ב ושם נאמר דאם השוחט מכוין לכך דהיינו לעשות נקב קטן בעור אף דיעבד יש לפסול יע\"ש והיינו מטעם קנסא כיון שהזיד במתכוין:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:9"
+        },
+        "10": {
+          "he": "אם החליד כל הני הוה ספק נבילה דהוה בעיא דלא איפשטא ש\"ך. והמחבר לא דקדק בדוכתי טובא וכתב פסולה אף דלא הוה רק ספק ועיין תב\"ש אות י\"א כתב דבבא הג' קמ\"ל דלא הוה אלא ספק וכבר תמהתי בט\"ז אות ו' דבש\"ע אין זכר כלום אי הוה ודאי או ספק כמבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:10"
+        },
+        "11": {
+          "he": "ושחטו. עש\"ך שהשיג על הב\"ח במה שרצה לומר דמיירי בחתך העור דזה צ\"ל לפי' הא' של ר\"ת ולא לפי' הב'. ואמת שגם לפי' הא' של ר\"ת כתבו התוס' והרא\"ש דמיבעיא אפילו לרב יהודה דמכשיר תחת העור דלמא האי חשיב טפי חללה א\"כ אף לפי' הא' א\"צ לומר דחתך העור ומיהו בש\"ע לא הביא כלל פי' א' דר\"ת ולקמן יבואר זה על נכון בעז\"ה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:11"
+        },
+        "12": {
+          "he": "וכן דוקא בהמה ולא עוף ש\"ך. והיינו להמחבר אבל לדידן ודאי אף בעוף פסול שהייה דרסה חלדה במיעוט בתרא ואף להמחבר אין לעשות כן לכתחלה דבעינן שישחוט ב' הסימנים ומה שהראה מקום לסי' כ\"ג אות ט' לא מצאתיו שם ואולי באות י' שם פי' בעיא דהר\"ר אושעיא:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:12"
+        },
+        "13": {
+          "he": "וכן הש\"ך האריך. ומסיק כמו שהייה אין פוסל במיעוט קמא דקנה ה\"ה דרסה חלדה אין פוסל ודוקא הגרמה דלא הוה מקום שחיטה הא אלו אין פוסל והביא כמה ראיות. ומ\"ש שכן משמע מתוס' ד\"ה החליד לא מצאתיו ואולי מדפי' ר\"ת במיעוט סימנים לפי' ב' כו' ולא פי' בקנה מיבעיא ליה כפשוטו ומיהו י\"ל במיעוט סימנים משמע ליה דבין קנה וושט מיבעיא ליה. וראוי שתדע דנהי דלדידיה אין חלדה פוסל במיעוט קמא דקנה אם תפס הקנה לבדו זה אף לדידן כשר ומ\"מ דוקא בתחלת השחיטה הא שחט הוושט בבהמה ואח\"כ החליד במיעוט קמא דקנה דעת הריב\"ש סי' קפ\"ז דהוה ודאי נבילה ואנו כתבנו דעכ\"פ מידי ספיקא לא נפקא ולקמן יבואר: וראיתי להתב\"ש אות י\"ב ובסי' כ\"ג אות ט' האריך בזה וכתב דב\"י גופא הביא בשם שחיטות אשכנזיות אפילו מאן דמכשר שהייה במיעוט קמא דקנה אפ\"ה פוסל דרסה וה\"ה חלדה. ושהייה במיעוט קמא דקנה בה\"ג אוסר ושהייה במיעוט בתרא דעתו דיש בו חשש איסור תורה והנה אם היינו אומרים דבמיעוט בתרא הוה דרבנן כמ\"ש הרשב\"א בתה\"א ולזה הסכימו רוב המפרשים ובמיעוט קמא דקנה נמי מדרבנן יש לתרץ הא דתוספתא שחט חצי גרגרת דמ\"ה מיירי כמו שתירץ יש\"ש תוספתא דמכשיר שהייה במיעוט בתרא דמ\"ה קאמר. ולענין דינא יש לצדד בה\"מ אם תפס הקנה לבדו והחליד ודרס במיעוט קמא להכשיר ועיין כה\"ג בהגהות הטור אות ל\"א הביא בשם מהר\"ר יהושע דלא גמיר א\"צ לעמוד עליו מתחלתו ועד סופו כ\"א עד רוב שנים דהוה ס\"ס עכ\"ל ור\"ל דשמא יפה שחט ושמא במיעוט בתרא אין פוסל דהוה בעיא דלא איפשטא ויש להתיישב בזה דהוה ס\"ס במקום חזקה ומיהו י\"ל דסובר בדעת הרשב\"א דבעיא הוה רק מדרבנן לא מ\"ה ולכך נהי דפסקינן לחומרא דלא אמרי' ספק דרבנן להקל היכא דאיכא הזקה מ\"מ בס\"ס ודאי בדרבנן מקילין אף דאיכא חזקה כמו שיתבאר בקונטריס הספיקות וכ\"ש בעיא דלא איפשטא דלא שייך לומר אוקמיה אחזקה ✍ומיהו למ\"ש הט\"ז סי' ט\"ז אות י\"ג דגדול דלא גמיר רוב מעשיו מקולקלים ול\"ד לסי' א' בנטל קבלה ושכח דלאו רוב מעשיו מקולקלים א\"כ ליכא ס\"ס דודאי קלקל במיעוט אחרון כשאין גדול עע\"ג ולכך לענין דינא צ\"ע בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:13"
+        },
+        "14": {
+          "he": "רוב ורוב טבעת לא סגי אם לא בטבעת הגדולה ש\"ך. והראה מקום לר\"ס ל\"ד ושם מבואר דופן הקנה עב במקום אחד וכתבנו לעיל סי' כ\"ג בשם תב\"ש דבעינן רוב עובי ורוב חללה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:14"
+        },
+        "15": {
+          "he": "ויש. עש\"ך והוא דעת הריב\"ש ורא\"ש דאף בגרמה אין סוברים כרש\"י ומ\"מ שהייה דרסה חלדה פוסלים במיעוט בתרא. ומ\"מ קשה למה כתב המחבר זה כאן לעיל בדיני דרסה חלדה היה לו לכתוב כן והטור שכתב כאן ה\"ק אף מי שפוסל שם מודה כאן דכשר גם מה דמשמע מדברי המחבר דכאן אף לכתחלה אין לחוש לדבריו וזה תירוץ לקושיא א' מ\"מ א\"י אמאי לא יזהר לכתחלה בהגרמה במיעוט בתרא לחוש לרש\"י ומיהו לדידן אף דיעבד פסול הגרים במיעוט בתרא:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:15"
+        },
+        "16": {
+          "he": "ושחט. עש\"ך והכלל בזה להמחבר דבעינן רובא בשחיטה וה\"ה הגרים שליש ושחט שליש ופסק מלשחוט פסול והא דנקיט וחזר והגרים לרבות' אף דפסק כל הקנה מ\"מ בעינן שיהא נפסק במקום שחיטת הרוב ובזה חמיר הגרמ' דאלו דרס והחליד בשליש א' דקנה והוסיף רוב בהכשר כשירה מידי דהוה חצי פגום ואלו בהגרים כיון דאין הרוב פסוק במקום שחיטה לאו כלום הוא. ומיהו הגרים שליש ושחט שליש ושהה והשלים השחיטה יראה דהוה נבילה דאורייתא כיון שרוב הקנה נפסק אף שלא במקום השחיטה הוה טריפה על כל פנים ואם כן תו הוה ליה נבילה שוב ראיתי שטריפה הוה כה\"ג ולא נבילה ולקמן אבאר עוד בעזה\"י:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:16"
+        },
+        "17": {
+          "he": "הרי זו פסולה דהא יש רוב בהגרמה ש\"ך. ולאו דווקא אלא הטעם דליכא רוב חתוך במקום שחיטה כמו שכתוב באות הקודם והוא הדין לא הגרים שליש האחרון אלא הפסיק:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:17"
+        },
+        "18": {
+          "he": "ואם דרס. הש\"ך האריך בכאן ואבאר. הנה הכ\"מ והר\"ר יהודה בן שושאן הקשו ב' קושיות על הר\"מ ז\"ל בפ\"ג מה\"ש הי\"ג הא' איך כתב החליד או דרס בשליש א' הר\"ז פסולה ומשמע וודאי נבילה והא בחלדה וודאי ליתא דהא כתב שם בהלכה יו\"ד דהחליד במיעוט סימנים הוה ספק. וכפי הנראה דה\"ה דרסה דמ\"ש. וקושיא ב' מה ענין דרסה וחלדה לכותבו אצל דיני דהגרמה. אמנם הריב\"ש הקשה קושיא שלישית וזה דאפילו אם נאמר דמה שכתב הר\"מ הר\"ז פסולה היינו ספק מ\"מ איך כתב בשליש א' הוה ספק והא ע\"כ בקנה מיידי מדמפליג בין הגרים לדרס והחליד דבוושט כ\"ש מוושט הוה וודאי כמ\"ש המחבר סי\"ד ובקנה כשירה נמי הוה אם דרס והחליד שליש א'. והנה הר\"י בן שושאן והב\"מ נתכוונו לדבר אחד (זה לפי הבנת הש\"ך) ותרצו ב' קושיות שלהם דה\"ק בהגרמה יש חילוק בין הגרים ושחט והגרים דפסולה ובין שחט והגרים ושחט ובדרסה וחלדה אינו כן בין בשליש א' ר\"ל שדרס והחליד בשליש א' וסמך על מ\"ש בהגרמה דהיינו דרס ושחט ודרס ובין בשליש האמצעי ולא מבעיא בשליש א' דזהו בהגרמה נמי פסולה אלא אפילו באמצעי דזהו בהגרמה כשירה דהוה שלא במקום שחיטה משא\"כ כשדרס במקום שחיטה הוה וודאי ולא ספק ולכן העתיק המחבר כאן בשליש א' ואמצעי בלא ה\"א ובר\"מ כתוב בה\"א בין בשליש הא' ובין בשליש האמצעי. ומ\"ש הש\"ך דכל דבריהם דחוקים ביאר בנו של הש\"ך בנה\"ך דלפי דבריהם מיירי בוושט ולא בקנה והר\"מ סתמא אמר ואם דרס כו' דאי בקנה אמאי בהחליד ושחט והחליד פסולה מידי דהוה אחצי פגום והוסיף כ\"ש דכשירה ובמיעוט בתרא אין פוסל להר\"מ דלא כרש\"י יע\"ש בנה\"ך. ולפי דבריו לא תרצו הכ\"מ והרי\"ן שושאן כ\"א לב' קושיות שלהם ולא לקושיא השלישית של הריב\"ש ואמת שהם לא הקשו ב\"א ב' קושיות. אלא שאני תמה אם מ\"ש אם דרס או החליד בוושט קאי למה להו כל הטורח הזה לומר דיש חילוק בין החליד ודרס להגרמה והא בוושט כל שהגרים כ\"ש הוה ודאי נבילה ואיך אמר הכ\"מ דיש לחלק בהגרים ובין החליד לוושט ואחרי העיון אין שום חילוק בין החליד להגרים בוושט ואם נאמר דמה שכתב הר\"מ ז\"ל בין בשליש הא' קאי לוושט ובשליש אמצעי קאי בין לקנה ולוושט זהו קשה יותר מן הראשונות. ועוד דמ\"מ איך כתב בין בשליש הא' דמה\"ת להכשיר בוושט. ואם נאמר כיון שדרס ושחט ודרס כיון דרוב בדרסה הוה מיפסל אף בקנה הוה א\"ש אלא דא\"י אמאי דהא טעמא קאמר דלא יהא אלא חצי קנה פגום והוסיף כ\"ש דכשר וה\"נ כן הוא אמנם כן מ\"ש הש\"ך שהכ\"מ והרי\"ן שושאן לד\"א נתכוונו אף שלכאורה יראה כן אמנם המעיין שם בפ\"ג מה\"ש לאחר שהעתיק דברי הרי\"ן שושאן כתב הכ\"מ ואחר כל הדברים האלה אומר אני מה שפרשתי תחלה הוא הנכון ואם שניהם לד\"א כיוונו למה כתב כן אמנם המעיין יראה שיש שינוי בין הכ\"מ ובין הרי\"ן שושאן כמו שאומר דהנה הכ\"מ כתב בביאור דאין חילוק בין דרסה לחלדה ושניהם בין דרס והחליד שליש ושחט שליש ודרס והחליד שליש פסול ובין שחט ודרס והחליד בשליש האמצעי דבהגרמה כה\"ג כשר כיון דלא במקום שחיטה הוא ובהחליד ודרס פסולה דהוה דרך שחיטה ובמקום שחיטה. אמנם הרי\"ן שושאן לא כתב כי אם אחלדה דהחליד שליש ראשון ושחט והחליד פסולה ואלו בדרס אף שלא דרס כ\"א שליש א' בוושט ושחט ב' שלישים בהכשר הוה ודאי נבילה וטעמא דחלדה הוה שחיטה מעליא אלא דהלמ\"מ דבעינן שלא בחלדה א\"כ מבעיא שפיר אי גמירי דווקא ברוב הסימן פוסל א\"ד אף במיעוט פוסל משא\"כ דרסה מקרא מפורש הוא ושחט ומשך כמ\"ש הרשב\"א בתה\"א דרסה מפורש בקרא אף דכתיב בקדשים ילפינן נמי חולין דגילוי מילתא הוא א\"כ כל שדרס לאו שחיטה הוה אלא חולק וניקב משהו מוושט במקום שחיטה הוה ודאי נבילה ואל תתמה ע\"ז שהרי בשהייה כתב הר\"מ שם דשהה במיעוט מוושט הוה וודאי נבילה א\"כ צריך לחלק בין שהייה לחלדה ה\"ה דרסה וזה דמבעיא ליה החליד במיעוט סימנים הא דרסה לא מבעיא ליה וכאמור וזה שכתב הרי\"ן שושאן מפני שלא נשווה חילוקי חלדה עם חילוקי הגרמה אמר כן כי בהגרמה שחט והגרים ושחט כשירה ואלו בהחליד ודרס ושחט והחליד או דרס ושחט פסולה והנה בהחליד נקט שליש אמצעי והדר נקיט דרס ושחט דהיינו שליש הא' ושחט ב' שלישים יפה פסולה. ואף שיש לפרש דבמה דסיים פתח מ\"מ הנכון כמ\"ש דא\"כ הו\"ל להקדים שליש ראשון לשליש אמצעי. ומש\"ה כתב הכ\"מ מ\"ש הוא הנכון דאילו לר\"י בן שושאן צריך לחלק שמ\"ש בדרס הוא בשליש אחד בוושט לבד. ובהחליד היינו החליד ושחט והחליד ולהכ\"מ דרסה וחלדה שווין המה וגם דרסה הוה ספק לא וודאי כמו שנתבאר: עוד אני חוזר אל מ\"ש בנו של הש\"ך דלהכ\"מ ור\"י בן שושאן הר\"מ ז\"ל איירי בוושט אכתי מה הועיל כיון דתחליד במיעוט סימנים לא הוה כ\"א ספק דשמא לא גמירי חלדה כ\"א ברוב א\"כ מה איכפת לן אם החליד עוד במיעוט בתרא אם תאמר דמיעוט קמא לא הוה ודאי נבילה א\"כ כששחט הרוב נטהרה מידי נבילה ואיך יזיק לה שליש אחרון בשלמא בהגרמה הטעם דבמקום שחיטה לא הוה רובא בשחיטה משא\"כ בהחליד ודרס כיון דבמיעוט קמא לא הוה נבילה מה יזיק אם ידרוס או יחליד אח\"כ וע\"כ צריך לומר דיש חילוק כיון דרובא בחלדה הוה א\"כ ה\"ה בקנה ע\"כ לא מכשיר אלא בחצי פגום אבל רובא בחלדה ודרסה אין חילוק בין קנה לוושט ואף בקנה דרס ושחט ודרס פסולה ויש ליישב וצ\"ע בזה: אמנם הש\"ך פי' דברי הר\"מ ז\"ל בין בוושט בין בקנה ומש\"ה כתב הר\"מ ואם דרס או החליד בין בשליש הא' בה\"א הידיעה שמוזכר מקודם ור\"ל שמה שאמרנו שאם שחט והגרים ושחט כשירה ואם דרס בשליש הא' והגרים ושחט או בשליש האמצעי דהיינו הגרים ודרס ושחט פסולה וודאי ל\"ת בקנה כשר דהגרים כמאן דליתא דמי ואם כן הוה הב' שלישים במקום שחיטה ושליש א' בדרסה ובקנה כשר שליש א' בדרסה במיעוט קמא דקנה וכן בוושט ה\"א דהוה כמיעוט קמא דוושט דלא הוה כ\"א ספק קמ\"ל דהוה ודאי פסולה זהו תוכן דבריו. ואמנם ראוי שתדע שכל זה הוא שהגרים והלך באלכסון למקום שחיטה הא הגרים מתחלה והניח זה המקום ואח\"כ התחיל מחדש במקום שחיטה והחליד שליש א' ושחט שליש ב' בקנה והניח כשר דמידי דהוה אחצי פגום דמה שחותך למעלה בהגרמה אין עניינו לכאן כלל. ואף לדידן יש נפקותא בכל אלה: סוף דבר הכל נשמע בקנה בעוף דדי בסימן א' שהייה במיעוט קמא וה\"ה נמי בכל ה' חלקי הלכות שחיטה אין פוסל דיעבד בקנה מידי דהוה אחצי פגום וממ\"נ פחות מרוב אין פוסל ובמשהו טפי הוה רוב ומיהו מרוב ואילך פוסל מספק בעיא דלא איפשטא וכפי הנראה דלית ביה דררא דאורייתא וכמ\"ש הרשב\"א בתה\"א והיש\"ש דמבעיא רק בדרבנן. ובוושט בעוף כל ה' ה\"ש פוסלין בו בתחלתו במיעוט קמא רק מספק ולא ודאי דלר\"ת שהה במיעוט סימנים היינו מיעוט קמא דוושט ויש בו דררא דאורייתא. אמנם יש חילוק ביניהם דשהה כפי הנראה משמעות כולם הוה ודאי ולא ספק זולת ר\"ת פי' דהוה ספק ולכך לענין או\"ב אסור לשחוט אחריו ולענין כיסוי מכסה בלא ברכה אמנם אם נתערב אח\"כ לעשות ס\"ס מהא וודאי לא דכ\"ע סוברים דהוה ודאי וכן פסק הר\"מ ז\"ל בפ\"ג מה\"ש ה\"ו דרסה וחלדה נכנסין בגדר הספק. הגרמה במיעוט קמא דוושט לא הוה כ\"א טריפה ולא נבילה עיין סיל\"ג דתורבץ הוושט לא הוי כ\"א טריפה ולא נבילה. ובבהמה הדין כך הוא שחט הוושט ואח\"כ שהה במיעוט קמא דקנה הוה וודאי נבילה דרס והחליד במיעוט קמא דקנה הוה עכ\"פ ספק ולריב\"ש בסי' קפ\"ז הוה ודאי כיון דפסק באמצע שחיטה אין לו לדרוס וכבר התבאר זה בט\"ז באורך ע\"ש. וה\"ה הגרים. ומיהו בקנה בעוף דרס ושחט ודרס מדרבנן אסור לדידן מטעם דרסה במיעוט בתרא ואם יש בה דררא דאורייתא זה ספק הוה וכבר התבאר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:18"
+        },
+        "19": {
+          "he": "וכן בקנה. לצד מטה דנקיבתו במשהו. ש\"ך. והיינו טריפה הוה ולא נבילה זה הכלל כל שלא במקום שחיטה הוה טריפה ולא נבילה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:19"
+        },
+        "20": {
+          "he": "הר\"ז כו'. עיין ש\"ך ולא מלשון פסולה שכתב המחבר דייק ליה דהא המחבר אינו מקפיד לומר על ספק וודאי פסולה כמו בכל הני בעיות דלעיל אלא מדכתב מפני שנקיבת מקומות האלו במשהו יראה דהוה ודאי ולאו נבילה דלשון פסולה לא משמע נבילה אלא טריפה הוה ואף להמחבר שכתב בסי' ל\"ג תורבץ הוה נבילה מ\"מ הא כייל נמי קנה למטה מכנפי ריאה ושם לא הוה כ\"א טריפה אלא לאו דוקא נקיט פסולה: ודע דהמחבר דכתב דכל אלו החלוקים בקנה ולא בוושט לכאורה קאי אסי\"ג אב' חלוקים שבקנה כשר בוושט טריפה אמנם המעיין ברא\"ש פא\"ט אהא דהי ניהו תורבץ וביש\"ש פא\"ט סי' וי\"ו והכנה\"ג בהגהות הטור אות ל\"ג הביאו דבבהמה אם שחט הוושט תחילה והגרים בשליש האחרון ממנו פסולה וכן הביאו הב\"ח והנה הטעם הוא אף דכבר נשחט רוב הוושט וכבישרא בדיקולא דמיא ואם ניקב כנגד מה ששחט כבר כשירה לאחר הרוב כמבואר בסי' כ\"ו מ\"מ זה דוקא במקום שחיטה הא בתורבץ שאין מקום שחיטה עדיין יש בו חיות וה\"ה אם שחט הקנה תחלה ולאחר הרוב הגרים למטה מכנפי ריאה דיש טריפה לחצי חיות ומש\"ה הוה טריפה ומיהו לאו וודאי הוה כמו שיתבאר בסי' כ\"ו דטריפה לחצי חיות לאו וודאי אלא ספק ולפ\"ז קאי אסי\"ב נמי ששם כתב דאם הגרים בקנה לאחר ששחט הרוב דאין פוסל בו כתב דבוושט אינו כן. ואין לומר דהרא\"ש פוסל מטעם מיעוט בתרא דהא מכשיר בהגרמה במיעוט בתרא. ואין לומר דסובר כריב\"ש סי' קפ\"ז דבתוך השחיטה אם שחט רוב סימן א' בבהמה ואח\"כ דרס והחליד מיעוט בתרא דקמא הוה ספק דבעוד שהוא זקוק לשחיטה אין לעשות שחיטה פסולה כמ\"ש לעיל בט\"ז אות ו' באורך וא\"כ ה\"ה הגרמה אפשר דשם שחיטה פסולה עליה וכן מוכח קצת מהמחבר סי\"ב דכתב בקנה לאחר הרוב וה\"ה בבהמה לאחר רוב ב' ואמאי לא השמיעני רבותא טפי דבבהמה לאחר שחיטת רוב הקנה אין פוסל בו במיעוט בתרא הגרמה אלא וודאי דוקא בעוף מיירי מקודם ואח\"כ אמר בבהמה לא משכחת ליה אלא אחר רוב ב'. אלא דמלשון הרא\"ש וודאי לא משמע כן שהרי כתב דמש\"ה אמר הי ניהו תורבץ הוושט דאם הגרים לאחר ששחט רוב הוושט בבהמה משמע דווקא וושט דניקב התורבץ במשהו הוא. וא\"כ שמעינן מכאן דאם תורבץ או קנה בכנפי ריאה לאחר רוב א' ניקב הוה טריפה ואני רואה מכאן ראיה מוכרחת למ\"ש התב\"ש בסי' כ\"ו אות ג' ובשמ\"ח ס\"ב דאם שחט רוב מוושט ואח\"כ ניקב שלא במקום שחיטה מתורבץ דטריפה והביא כמה ראיות ע\"ז ולמה לא הביא מדברי הרא\"ש פא\"ט ויש\"ש שם סי' ו' דמבואר כן שכתבו דאם שחט הוושט תחלה ואח\"כ לאחר ששחט רובו הגרים בתורבץ כו' משמע דווקא וושט והטעם דנקיבתו במשהו ולא בקנה כה\"ג דלא שייך ביה הגרמה ואפשר אף הריב\"ש מודה כה\"ג דאם שחט הקנה תחלה ולאחר רוב הגרים למעלה דלאו שחיטה פסולה כלל אלא הוה כחותך בידה וברגלה ול\"ד לדרס והחליד במיעוט בתרא דקמא וכעת לא מצאתי גילוי לדין זה וצ\"ע ✍ועי' בדרישה שמכשיר דינים דריב\"ש ואנן קיי\"ל לאיסור והנ\"מ בכל אלה הוא אי הוה וודאי דאורייתא או דרבנן וכפי הנראה לדידן דמחמירין בהגרים במיעוט בתרא הוא מחמת מנהג בעלמא לא מטעם דפסקינן כרש\"י כרבנן טרופאי ונ\"מ לענין תערובת וס\"ס וכבר התבאר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:20"
+        },
+        "21": {
+          "he": "מהלחי ומהבשר. הא נשמטו מהעצם לחוד סבירא ליה דלא הוה עיקור וכשירה. ש\"ך ועיין מ\"ש בט\"ז מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:21"
+        },
+        "22": {
+          "he": "ונשמט, עש\"ך ור\"ל דלבה\"ג עיקור אין טריפה ועוף הכשירו בסימן א' אפ\"ה הלמ\"מ דבעינן שיהיו ב' הסימנים קיימין בשעת שחיטה. ודע דודאי טריפה הוה אף בעוף דכן מוכח מברייתא שחט הוושט ונמצא הגרגרת שמוטה זה היה מעשה ואמרו כל ספק בשחיטה פסולה וזה בעוף וכ\"ת בבהמה וכדעת רש\"י דעיקור לאו נבילה אלא טריפה ואין טריפה לחצי חיות ומש\"ה נשחט הוושט ואח\"כ נשחט הגרגרת אין טריפה לחצי חיות אם כן עכ\"פ מוכח דעיקור טריפה הוה ואי כבה\"ג ע\"כ מוכח דבעוף מיירי ומוכח דינו של הרשב\"א:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:22"
+        },
+        "23": {
+          "he": "ואנו. עש\"ך ויראה לפרש כוונתו דתרתי קשיא ליה חדא עיקור במיעוט קמא היכי משכחת ליה דאם נעקרו במיעוט קמא הרי שוחט כל השחיטה בסימנים עקורים ובשלמא מיעוט בתרא משכחת שפיר וכ\"ת דהר\"ב אעיקור דסכין פגומה קאי הא לא הזכיר המחבר זה כאן כ\"א בסימן ח\"י שהגי' הר\"ב עליו זה. ועוד מהו הלשון כ\"ל עיקור לכן פי' דה\"ק דוודאי מדינא אף בשעת שחיטה בעינן שנשמט רובו מלחי וכדמוכח מדברי הר\"ן הביאו הט\"ז ג\"כ ואין חולק עליו בזה אלא מצד המנהג אנו מטריפין אם אירע בשעת שחיטה דלא כט\"ז שהתיר אפילו בשעת שחיטה אם נעקר כ\"ש. ומיהו קודם שחיטה מוקמינן אדיניה להמחבר כל שנשמט עם הבשר אפילו כולו שרי ולטור בעינן שיהא המיעוט קיים וז\"ש רמ\"א ואנו נוהגין להטריף כל עיקר ר\"ל כל שהיה בשעת שחיטה ואפילו במיעוט קמא דקנה שנשמט כ\"ש דעדיין לא התחילה השחיטה כלל מידי דהוה אחצי קנה פגום אפ\"ה משום חשש שמא נגע בוושט והוה בשעת שחיטה תו מחמירין מצד המנהג ויש לפרש עוד דאף אם תפס הקנה לבדו אפ\"ה כיון שאירע בשעת שחיטה מטריפין מצד המנהג ומ\"ש הש\"ך שמא ניקב הוושט יורה כמ\"ש מעיקרא והט\"ז יפרש שמ\"ש הר\"ב כל עיקור במיעוט קמא קאי אסכין פגומה: ודע דהטור הביא עיקור סימנין מהלחי ועיקור דסכין פגומה. והנה מהלחי הוא הלמ\"מ וסכין פגומה כתב הדרישה בשם הגהות מהר\"י וויי\"ל דנפיק מקרא ושחט ולא ועקר שהפגם קורע הביאו הכה\"ג ג\"כ בהגהות הטור אות ל\"ה. והנה פגם בחוד הסכין הוה נבילה ובצדדין אף דמקרא לא מוכח דשוחט בחוד שפיר מ\"מ ניקב הסימנים קודם הרוב הוה נמי נבילה כיון דבמקום שחיטה הוה וכאמור. ובעוף אם תפס הקנה לבדו לדעת הש\"ך בסי' ק\"א ודוכתי טובא דמשמע מדבריו דלא חיישינן לנקיבת הוושט והסכים עמו הפר\"ח זולת התב\"ש שהחמיר יע\"ש א\"כ בשחט בסכין פגום בצדדין בעוף ותפס הקנה לבדו אם נאמר דרוב יותר כחוט השערה די בשחיטה וכמשמעות המחבר ושאר פוסקים לעיל א\"כ כשר ממ\"נ קודם הרוב הוה חצי קנה פגום ובמשהו יותר תו אין חשש. והתב\"ש בסי' ח' השיג על פר\"ח בסכין מלובנת ואוסר בתפס הקנה לבדו בעוף דצדדין שורפין גם למטה וזה לא שייך כאן בסכין פגומה מצדדין ועיין בסי' כ\"ו בש\"ך אות א' שכתב ניקב הוושט לאחר ששחט הרוב כשר ואף דאנו אוסרים כל ה' ה\"ש אף במיעוט בתרא היינו במיעוט השלם לא במה שכבר שחט יע\"ש ויש נ\"מ בין התירוצים לתירוץ זה ה\"ה בסכין פגום מצדדין בתפס הקנה כשירה ולתי' ב' שכתב שם כיון דלא נעשה דרך שחיטה א\"כ כה\"ג אסור ויש לצדד בה\"מ כיון דעיקור במיעוט בתרא רוב מכשירין ומצד המנהג אוסרין א\"כ כל שעוקר בסכין מה ששחט כבר יש לסמוך אתי' א' שם בש\"ך בה\"מ. ויש עוד נ\"מ בין התירוצים שכתב שם הש\"ך אם דרס והחליד באותו הרוב ששחט כבר לתי' א' כשר דדוקא במיעוט הנשאר דגזרינן אטו קודם רוב אבל במה ששחט כבר ליכא למגזר ולתי' הב' כל שעושה דרך שחיטה פסול אף במה ששחט כבר. וכל זה במקום שחיטה אבל ניקב שלא במקום שחיטה יבואר על נכון בסי' כ\"ו בעזה\"י: ולעני החלב והביצים דעת הר\"ב להכשיר והאחרונים אוסרים וכבר כתבנו מזה דעיקור הוה טריפה כשנעקר בכח כאן מעט כו': עוד נראה לי דאם נשמט ממקום חיבורו בלהי כאן מעט כו' הוה מדולדל ועיקור ה\"ה באמצע הקנה שלא במקום שחיטה כה\"ג לא הוה נבילה מ\"מ אם מדולדל הוא המיעוט אפשר דלא גרע ממקום חיבורו בלחי ולא מהני שחיטה והוה נבילה ולא טריפה ✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:23"
+        },
+        "24": {
+          "he": "אלא שאין השחיטה מועלת בו שמחמת עיקור מתנדנדין הסימנים וא\"א שתשחט בהכשר ר\"ן בשם הרמב\"ן ש\"ך ולא ידענא למה העתיקן דהא הר\"ן כתב כן בשם הרמב\"ן דסובר עיקור הוה טריפה והלמ\"מ שאם אירע כן בשעת שחיטת נבילה וקודם שחיטה הוה טריפה אף ששחט אח\"כ וחולק אבה\"ג בתרתי דלבה\"ג קודם שחיטה לא הוה טריפה ואין השחיטה מועלת בסימנים עקורים אף שנעקרו קודם שחיטה ומ\"ש הב\"י וא\"ב כו' ה\"מ למימר דא\"ב נמי הא וכמ\"ש הכה\"ג בהגהת הב\"י אות מ\"ה וא\"כ לאיזה צורך העתיק דברי הר\"ן בשם הרמב\"ן דהם סותרים למ\"ש המחבר וצ\"ע:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:24"
+        },
+        "25": {
+          "he": "אבל. עש\"ך גם זה יורה קצת למאן דמטריף עיקור דלבה\"ג לא שייך הדר ברי' כיון דלאו טריפה הוא אלא כיון דנדלדל א\"א להשחט בהכשר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:25"
+        },
+        "26": {
+          "he": "שחט א'. בעוף מיירי וק\"ל עכ\"ל ש\"ך וא\"י מה מלמדנו פשיטא דהכין הוא. והנה להר\"ן בשם הרמב\"ן דקודם שחיטה טריפה הוה ולא נבילה ובשעת שחיטה הוה נבילה הא דאמרינן וא\"י אם קודם שחיטה או לאחר שחיטה זה היה מעשה ואמרו כל ספק בשחיטה פסולה לאו דוקא קודם אלא קודם גמר הרוב דאל\"כ לא שייך פסולה אם לא שיפרש כרש\"י דפסולה לאו דוקא ולא ספק בשחיטה לחוד דה\"ה כל ספק השקול וכדעת רבינו יונה ז\"ל ועיין בכור שור חולין יו\"ד יע\"ש. ועיין כה\"ג בהגהות הב\"י אות מ\"ה שהביא בשם דמש\"א דהמעיין בחידושי הרמב\"ן יראה דאינה טריפה וא\"כ הנ\"מ שכתב הב\"י אינו. אלא הנ\"מ הוא להר\"ן א\"צ לבדוק קודם שחיטה אם הסימנים עקורים דאין דרך להשמט אלא בשעת שחיטה מפני יראת השחיטה ולבה\"ג צריך לבדוק קודם השחיטה אם אין הסימנים עקורים. ולא הבינותי דאמאי לא שייך הנ\"מ דלבה\"ג אף קודם שחיטה הוה נבילה ולהר\"ן קודם שחיטה כשרים נמי הוה ולזה יש לומר שכיון למ\"ש ספק קודם שחיטה זה היה מעשה כו' וע\"כ בעוף מיירי וא\"כ לבה\"ג א\"ש דהלמ\"מ שיהיו שניהן שלימין משא\"כ להר\"ן בשעת שחיטה מה איכפת לן כיון שהשחוט לא נעקר מישתמיט שפיר איהו ובשלמא אי טריפה הוה שפיר מה שאין כן אי אמרינן כשירה ולז\"א דהר\"ן לאו דוקא וקודם שחיטה נמי נבילה אלא אורחא דמלתא נקיט מפני יראת השחיטה עוקרת הסימנים וכל זה צ\"ע גם מ\"ש להר\"ן צריך לבדוק אחר השחיטה ולבה\"ג קודם גם זה אינו להר\"ן א\"צ לבדוק כלל ולבה\"ג אחר השחיטה ולא קודם ולא חיישינן לברכה לבטלה ולב\"ת ולקמן ב\"ה יבואר זה. ומ\"מ לדינא אין חילוק ואף קודם שחיטה דוה נבילה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:26"
+        },
+        "27": {
+          "he": "הר\"ז פסולה. פירוש ספק נבילה ש\"ך. הנה דבריו לקוחים מהר\"מ ז\"ל פי\"י מה\"ש הט\"ו ט\"ז יע\"ש וכבר דברנו מזה במקומות רבים גם כאן אדבר כמעט רגע. ידוע הוא דאזלינן בתר חזקה בין בספק המקרה בידי אדם או בידי שמים כמו נגע דאוקי אחזקה דעתה נחסר וזו בידי שמים ובידי אדם כמו נפלו לסטים ונפל הבית עליו כו' וכדומה הרי בין בידי אדם וב\"ש אוקי אחזקה זולת ספיקא דדינא ובעיא דלא איפשטא דבשביל החזקה לא ישתנה הדין כמו שביארנו בזה במקומות רבים והנה בשמוט י\"ל דאיכא רובא אלא דסמוך מיעוטא לחזקה וה\"ל פלגא וכפי הנראה לא הוה ספק מ\"ה כ\"א דרבנן ומה\"ט כתב דמ\"א דהשוחט נאמן דלא הוה שמוט דמסייע ליה רובא וכדכתיבנא: והנה בספק שהה ודרס נמי הוה ספק וכפי הנראה נמי מדרבנן דרוב אין שוהין ודורסין ומה\"ט נותנין למומר לשחוט וכמ\"ש הרשב\"א ובשחיטת רוב סימנים כתב דבודק הוא קודם שיעור שהייה. אמנם בהא דלא בדק הסימנים קודם שיצא מידו אם שחוטים רוב דפלוגתא ה\"א טריפה וה\"א נבילה כתב הרשב\"א בחדושיו דרוב שוחטין רוב אלא כיון דהוה רובא דתלי במעשה מש\"ה הוה טריפה וי\"א דהוה נבילה ויש לספק בדבריו אי מ\"ה לא הוה רוב כיון דתלי במעשה ומ\"ד טריפה דבחייה לא היתה מטמאה ומ\"ד נבילה כיון דממילא היה מתה או ר\"ל דמדרבנן לא הוה רוב ומ\"ה הוי רוב ודי לנו שנא' דטריפה לא דמטמאה וזה יורה כמ\"ש התוס' חולין ט' א' ד\"ה אסורה דמה\"ת מותר ולכך די דאסורה באכילה ומ\"ד דמטמאה דלא ליהוי מילי דרבנן כחוכא דממילא מתה היא וע\"כ מטמאין לה. ויש לראות כיון דטעמא דרובא דתליא במעשה א\"כ בשהה ודרס בספיקן אמאי מחמירין וכ\"ת סמוך מיעוטא לחזקה א\"כ ה\"ה בלא בדק והנראה דסובר בספק שהה הוה מדרבנן ובלא בדק הוה ד\"ת דאי מדרבנן לא היו מחמירין לומר מטמאה ומש\"ה הוצרך לומר דהוה רובא דתליא במעשה וכפי זה הצד יש להוכיח דרובא דתליא במעשה מ\"ה לא הוה רוב וכבר דברנו מזה בספר גינת וורדים: וראיתי להמי\"ט בדף קל\"ח אהא דהביאו הרי\"ף והרא\"ש פלוגתא דאי מטמאה אף דאין נ\"מ מלתא אגב אורחא קמ\"ל ולדידי יש לומר דנ\"מ דמחולקין למ\"ד טרפה הוה מדרבנן ודי שנחמיר באכילה ומ\"ד נבלה הוה ד\"ת או דרוב אין שוחטין רוב או דרובא דתליא במעשה לא הוה רוב מ\"ה ונ\"מ לכמה דברים בזה: ולענין דינא בספק שהה ודרס י\"ל דהוה ספיקא דאורייתא והטעם אף דרוב אין שוהין ודורסין מ\"מ כיון דנולד לו ספק א\"כ איתרע רובא ובשלמא מומר אמרינן מסתמא לא אירע לו. ובלא בדק בסימנים אי רובן שחוטים הוה וודאי כמו שיתבאר סי' כ\"ה בספק נשמט קודם שחיטה הוה ספיקא דאורייתא חדא דיותר שכיח לשמוט מחיים והא דאמרינן כל ספק בשחיטה הוא אף דיש לתלות אחר כך כמו בזרק מידו וכדומה ועוד די\"ל דאיכא חזקה דבהמה בחייה וחזקה דהשתא וכה\"ג אפשר דאין רובא עדיף נגד ב' חזקות וכבר צידדנו בזה בס' גינת וורדים וכאן אין להאריך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:27"
+        },
+        "28": {
+          "he": "ולא אמרינן מחמת זריקה נשמט. הש\"ך הראה מקום לסימן כ\"ה אות ד' ועיינתי שם ולא מצאתי כלום דהתם כתב דאם זרק הקנה מידו יש לחוש דע\"י זריקה נתרחב ולא וושט ואם נאמר דגם כאן נמי דווקא נשמט וושט הא קנה תולין דרך זריקה נשמט ונאמר אף לנשמט מלחי הוא כן וכבר היה לי ויכוח עם חכם אחד שאמר כן ואני אמרתי שזה א\"א דכל ספק בשחיטה אף שיש לתלות לא תלינן וכהראיה שהביא מהרי\"ק בשורש ל\"ה ועתה ראיתי בגוף התשובה כתב שחט הוושט וזרק העוף מידו ונשמט הקנה יע\"ש הרי אף בקנה לא תלינן. ואולי איפכא קאמר הש\"ך דקשיא ליה למה להר\"ב להגיה כאן ואפילו זרק ולא אמרינן דע\"י זריקה נשמט הא כתב בסי' כ\"ה דאפילו להקל לא אמרינן דע\"י זריקה נתרחב החתך כ\"ש כאן להחמיר ולזה כתב ששם בקנה חיישינן וכאן אפילו בקנה לא מהני והטעם כל ספק בשחיטה אפילו יש לתלות לא תלינן וכאמור ואף שיש לחלק בין באמצע ובין נשמט:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:28"
+        },
+        "29": {
+          "he": "הר\"ז. כיון דתפס בסימנים אפשר לשמוטה שתעשה שחוטה והוה ספק נבלה ש\"ך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:29"
+        },
+        "30": {
+          "he": "שיביא כו'. המהבר כתב דישחוט שניה (ויקרע) [ויעקר] רבותא הוא וכ\"ש אם לא (קרע) [עקר] והש\"ך כתב דיעשה בהיפך. ומ\"ש כיון דשמוטה לאו טריפה הוה הוא לשון הרא\"ש בפרק השוחט אחא דנמצא הסימן שמוט כתב דלמ\"ד שמוטה לאו טריפה לא מהני הקפה באותו סימן עצמו ולמ\"ד שמוטה טרפה הוה א\"כ וודאי חתך של שחיטה שוה לחתוך שני ומהני הקפה באותו סימן עצמו ויש לראות אף למ\"ד טרפה מ\"מ עדיין חיות בו קודם שחיטה דהא כתב התב\"ש סי' כ\"ו דאין לרמות שלא במקום שחיטה למקום שחיטה והר\"מ ז\"ל נמי כתב גרגרת שנפסק במקום הראוי לשחיטה הוה נבלה הא שלא במקום שחיטה מהני לטהר מידי נבלה השחיטה א\"כ וודאי לא ישוו החתיכות להדדי והנה נאמר שדבר זה מחלוקת בין הרא\"ש והר\"ן דלהרא\"ש אין בו חיות כלל ושוב לא מהני שהיטה ולהר\"ן דפוסק שלא בשעת שחיטה טרפה ומהני שחיטה אח\"כ לטהר מידי נבלה וצ\"ע. ומ\"ש עוד הש\"ך וכן משמע מתוספות פא\"מ נ\"א לא ידענא מה ראיה מהתם ומרא\"ש פרק השוחט היה לו להביא ראיה יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:30"
+        },
+        "31": {
+          "he": "וכן עיקר. שאפילו נמצא טבעת על הארץ אסור ש\"ך יע\"ש ועיין בט\"ז מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 24:31"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "מפני שראיתי פירושים רבים ויש בהם קושי ההבנה מוכרח אני להאריך בכאן: תנן חולין למ\"ד ב' היה שוחט והתיז הראש בב\"א אם יש בסכין מלא צוואר כשירה היה שוחט והתיז ב' ראשין אם יש מלא צוואר א' כשירה ומסיק בגמרא מלא צוואר חוץ לצוואר ובעינן שיהא בסכין מלא ב' צווארין וכשמתכוין השוחט לשחוט בהבאה א' או בהולכה א' כשירה אף דנשחט בחצי סכין כיון שיש לו ריוח. הנה יש בזה שלשה ציורים.✍הציור הא' הוא דבעינן שיתחיל מן ראש סכין ממש מצד הפנימי של צוואר הנשחט ויעביר כל הב' צווארים של סכין עד חוץ לצוואר לגמרי ולא ישאר בתוך הצוואר כלום הסכין וזה חומרא גדולה הציור הב' שיתחיל מן ראש הסכין בצד הפנימי של צוואר ויוציא מלא צוואר מהסכין לצד חיצוני דצוואר ומלא צוואר הב' של סכין ישאר בתוך הצוואר וזה קיל מציור א'. הציור השלישי הוא שיניח מלא צוואר דסכין על רוחב מלא צוואר הנשחט ויוציא אותו מלא צוואר דסכין לחוץ לצוואר ומלא צוואר הב' של סכין יהיה נשאר תוך צוואר הנשמט וזה קולא גדולה. הצורה השלישית היא שיטת הש\"ך באות ג' כמ\"ש שם בעזה\"י. והט\"ז כפי הנראה בחר לו ציור השני כמו שאבאר והתב\"ש בחר לו לדינא ציור א'. ולשון המשנה אם יש בסכין מלא צוואר כשירה יורה כבחינה הב' או ג' דלצורה ראשונה היה לומר אם יש בסכין מלא ב' צווארים אבל באומרו מלא צוואר יורה דדי כשעבר חוץ לצוואר הנשחט מלא צוואר מהסכין או שהתחיל בקצה או שהניח מלא צוואר של סכין על הצוואר הנשחט והוציא מלא צוואר דסכין לחוץ כאמור: וזה לשון הרא\"ש על היה שוחט ב' ראשין אם יש כמלא צוואר א' פירוש כמלא צוואר חוץ לשני צווארין אבל אם אין בסכין אלא מלא ב' צווארים אם ברי לו שהוליך ולא הביא הפנימית כשירה דבהולכת שחיטה היו מלא ב' צווארים ואם לבדה היתה כשירה לא נפסלה בשחיטת אותה ואת חברתה ואם בהבאה שחט החיצונה כשירה ועיין שם בל\"ח קמ\"ז כתב דגבי פרה אדומה ילפינן הכא בגמרא ר\"ל רבינו הרא\"ש שגירת לישנא דפרה דאמרינן ושחט אותה ולא אותה וחברתה נקיט נמי הכי. ור\"ל דלא תימא כיון דא' נדרסה גם השניה פסולה וכדעת הר\"ן לז\"א דלא נפסלה בכך. ויש בדברי הרא\"ש ז\"ל ששה פרושים כמו שאבאר: הפירוש הא' הוא פי' הב\"י וכפי מה שהבין הט\"ז בדבריו דמתחיל לשחוט בראש הסכין ממש בצד פנימי דפנימית והוליך עד שבא מלא צוואר דסכין דהיינו מראש סכין עד אמצע סכין ברוחב צוואר דחיצונה ומלא צוואר שאצל הקתא של סכין נשאר תוך רוחב הצוואר הפנימית דהחיצונה פסולה שאין לה אלא מלא צוואר א' והפנימית כשירה שהרי יש לה מלא ב' צווארים כפי הצורה השניה לעיל ואה\"נ שאם הוציא מלא צוואר של סכין לצד חיצוני דחיצונית ומלא סכין של קתא נשאר בתוך צוואר דחיצונה שתיהן כשירות אלא אורחא דמלתא דמסתמא נשאר מלא צוואר של סכין לצד הקתא בתוך הצוואר פנימית ובהגהות פרישה אות ב' הקשה אמאי הא בידו להוליך כל הסכין וכשירה ואין זה קושיא דאה\"נ אלא כיון שהוא מתכוין במזיד שלא יעבור על החיצונה כ\"א חצי סכין דפסולה כיון ששחט בהולכה לבד ובהובאה לבד הוה איפכא ואני אבאר לך מה שאנו אומרים פנימי דפנימית או חיצונה דפנימית או פנימי דחיצונה או חיצוני דחיצונה הוא על דרך זה דפנימית קאי על בהמה שהיא קרובה לשוחט וחיצונה קאי על בהמה שהיא מרוחקת לצד חוץ וחיצוני ופנימי קאי על צד הצוואר של בהמה כמו צד ימין וצד שמאל בנשחט: הפירוש הב' הוא רנ\"ש במ\"ש (הוא ר' נתן שפירא בעל מבוא שערים פירוש על שערי דורא) הביאו הפרישה אות ב' דחיצונה קורא מה שקרובה לשוחט ופנימית מה שקרובה לכותל או לאשפה דמסתמא אצל כותל או אשפה הוא שוחט. ומניח הסכין על רוחב הצוואר אם הוליך והניח מלא ב' צווארין של סכין על ב' צווארי הנשחטים הוליך ולא הביא שעבר כל הסכין עד שסוף הסכין שאצל הקתא היא בצד פנימי דפנימית ר\"ל אצל הבהמה שקרובה לכותל כו' וכפי הציור הב' לעיל אז הפנימית כשירה והחיצונה שקרובה לשוחט פסולה שלא העביר עליה כ\"א מלא צוואר א' דסכין ואין בידו להעביר יותר והוא מתכוין לשחוט בהולכה לבד. ושני פירושים האלו דחה הט\"ז. פי' הב\"י דמה פסקה דאם הוליך כל הסכין היה גם החיצונה כשירה ופי' הדרישה דפנימית משמע ליה ההיא דקרובה לשוחט לא ההיא דקרובה לכותל: הפירוש הג' הוא פי' הב\"ח וכפי מה שהבין הט\"ז בדבריו וכפי מה שהבנתי אני בדבריהם וכמו שאבאר. דוודאי התנא שאמר השוחט שני ראשין כאחת היינו בשעה וברגע א' נגמר שחיטת רוב שניהם בשוה ולפיכך אם אין אלא מלא ב' צווארים בסכין והוליך והתחיל לשחוט בראש הסכין ממש בצד פנימי דפנימי א\"כ כשהוליך מלא צוואר א' של סכין על פנימית הרי נשחטה במקצת והחיצונה לא נשחטה עדיין כלום ואח\"כ כשהעביר מלא צוואר של סכין על חיצונה הרי נשחטה הפנימית בהכשר כפי הצורה השניה לעיל וגם החיצונה נשחטה הרוב בשוה עם הפנימית הרי נדרסה החיצונה דאין לה אלא מלא צוואר א' של סכין ואי דהעביר הסכין אח\"כ על החיצונה תו לא נשחטו שניהם בשוה. וכ\"ת דנשחטו בשוה דהיינו לאחר שעברו כל הב' צווארים של סכין מהפנימית מצד לצד דהיינו שהוליך מראש הסכין ממש בפנימי דפנימית עד שהגיע סוף הסכין ממש אצל הקתא לצד חיצונו דפנימית אכתי נדרסה החיצונה דהא חזינן דהפנימית לא היה די לה בסכין זה כ\"א שהעביר עליה ב' צווארי הסכין לגמרי והחיצונה נשחטה בהעביר מעליה מלא צוואר א' דסכין ומלא צוואר ב' נשאר בתוך צוואר הנשחט אף דבעלמא די בכך כפי הצורה השניה מ\"מ הא חזינן דלפנימית לא היה די בכך וכאמור. וזה דווקא אם התחיל מראש הסכין ממש. הא אם הניח מלא צוואר של סכין על רוחב צוואר הפנימית היו שתיהן כשירות. דהא כל אחת מהנשחטים העביר עליה מלא צוואר א' מהסכין מראש לסוף ומלא צוואר הב' של סכין נשאר בתוך השניה ומשכחת שפיר שניהם נשחטו בשוה ברגע א' כפי הציור הב' לעיל. והקשה הט\"ז א\"כ בשלש צווארים נמי אמאי שניהן כשירים בהתחיל מקצה הסכין ממש אצל פנימי דפנימית א\"כ נגמר שחיטתו בשוה הרי החיצונה נשחטה במלא צוואר א' שהעביר מעליה והב' נשאר בתוכה והפנימית לא נשחטה אלא בג' צווארים ב' העביר מעליה והשלישי נשאר בתוכה א\"כ חזינן דחיצונה נדרסה. והנה מ\"ש הב\"ח בהכרח להביא עוד בחיצונה הוא לכאורה מיותר ונראה ליישב עם קושית הט\"ז עליו דוודאי בשלש משכחת בהוליך שהתחיל בראש הסכין ממש והעביר על הפנימית מלא צוואר א' ואז לא שחט כלל הפנימית רק העביר אותו מלא צוואר מראש הסכין עד מחצה על החיצונה נמצא נשחטו שניהן בשוה הפנימית והחיצונה ואז העביר אותן ב' צווארים של סכין הנשארים על שתיהן יחד משא\"כ באין לסכין אלא מלא ב' צווארים לא משכחת לזה דא\"כ איך הוכשר הפנימית. ואי תימא הא הוה שהייה י\"ל מדינא דגמרא וודאי לא הוה שהייה אלא כשיעור הגבהה והרבצה ורוב שנים. ועיין מ\"ש התב\"ש אות ג' ויבואר בסמוך: הפירוש הרביעי הוא פי' תב\"ש בדברי הב\"ח למה שפי' דברי הרא\"ש ז\"ל דמניח ב' ראשין על קרקע שוה וכשאין בסכין אלא מלא ב' צווארים נמצא כשהעביר על הפנימית מלא צוואר נשחטה מקצת והחיצונה לא נשחטה עדיין כלום ואח\"כ כשמעביר מלא צוואר על החיצונה ע\"כ מעביר מלא צוואר השני גם על הפנימית דהא עדיין לא היה לה כ\"א מלא צוואר אחד ואם כן כשחותך בשוה החיצונה והפנימית על כרחך נדרסה החיצונה דמקום הסכין בפנימית נמוך הוא דחתיכה במקצת והחיצונה גבוה עדיין מקומה וודאי דורס הוא אף שהעביר כל הסכין אח\"כ על החיצונה כבר נדרסה היא בפעם ראשון משא\"כ כשיש בסכין מלא שלש צווארים אז כשהעביר מלא צוואר אחד בפנימית הוציא הסכין ושחט החיצונה מלא צוואר אחד ואח\"כ בב' צווארים הנשארים חותך שניהם בשוה דשהייה אין כאן דלא הוה שיעור מדינא דגמרא יע\"ש והנה אם נאמר שהט\"ז הבין כן בדברי הב\"ח אלא שהוקשה לו בשלשה נמי ע\"כ חותך בפנימית דאל\"כ הוה שהייה א\"כ מאי האי דכתב הט\"ז למה היה די לה בחלק מועט מן החיצונה גם יתר דברי הט\"ז יראה לפרש כפי מ\"ש בפירוש הג' כן הביא הט\"ז בב\"ח: הפירוש החמישי בדברי הרא\"ש ז\"ל הוא פירוש התב\"ש וז\"ל דבעינן שיעביר כל הב' צווארים של סכין מצד זה לצד זה. והיינו כפי הבחינה הא' שכתבנו לעיל וא\"כ בג' צווארין שפיר שהתחיל בראש הסכין ממש בפנימית דפנימית והעביר הסכין עד שיצא ב' צווארים לצד חיצוני דחיצונית ומלא צוואר ג' נשאר בתוך החיצונה דהשתא פנימית נשחטה הרוב במלא ג' והחיצונית במלא ב' כפי הצורה ראשונה שזכרנו לעיל אין בכך כלום די\"ל עור והסימנים דפנימית קשים מחיצונה משא\"כ כשאין אלא מלא ב' צווארים ממ\"נ אם כשהעביר כל הסכין מהפנימית נשחטה הרוב והחיצונה ג\"כ הרי נפסלה החיצונה כפי הציור הא' דבעינן שיוליך כל הב' צווארים מצד זה לצד זה ואם עשה כן הרי לא נגמרה שחיטתן כאחת והתנא אמר השוחט ב' ראשין כאחת משום הכי החיצונה פסולה יע\"ש זהו הנראה לי לפרש דבריהם ועתה אבוא לפרש דברי הט\"ז: הפירוש הששי הוא פירוש הט\"ז ויש בו דברים צריכין ביאור הנה הניח הנחה דמ\"ש התנא השוחט ב' ראשין כאחת משמע בפעם אחת נגמר שחיטת הרוב של שניהם וזה אמת ויציב. אמנם במ\"ש ועוקר כוונת התנא לאשמועינן דאין מה שבתוך הצואר בחשבון עד שיעברו ממנו לכאורה יאמר דה\"ק דקשיא מה אשמועינן התנא דאם יש ג' צווארים דכשר פשיטא דהא יש לכ\"א ב' צוארים אלא דה\"ק התנא השוחט ב' ראשים כשירה אף דהניח מלא צוואר א' על הפנימית והוליך על שתיהן ונשחטו יחד בשוה כשרים שתיהן ולא אמרינן כבחינה השלישית דאם הניח מלא צוואר א' על הנשחט והוציא אותו מלא צוואר לחוץ ומלא צוואר ב' נשאר תוך הצוואר כשירה דאז הוה חיצונה פסולה דמיד שהעביר מלא צוואר אחד מהפנימית להחיצונה נשאר תוך הפנימית מלא צוואר ג' ונשחטה כהוגן וע\"כ החיצונה נדרסה שהרי נשחטה בשוה ולא היה לה כ\"א מלא צוואר א' ואי דהוליך אחר כך גם על החיצונה זה לא הוה בשוה לכן אמר התנא דכשירה כה\"ג כיון דבעינן גם בפנימית שיעביר כל אורך הצוואר השני כיון דהניח מלא צוואר אחד על הפנימית וכיון שכן בשעה שעוברים מפנימית ב' צווארים נשחטה החיצונה כהוגן בשוה ממש עם הפנימית דגם לחיצונה יש ב' צווארים א' עבר מעליה והב' נשאר בתוך צוואר חיצונה וכשירה בין בהניח ב' צווארי הסכין על ב' צווארי הנשחט ובין בהניח מלא צוואר א' על הפנימית וכאמור. אבל בהתחיל בקצה הסכין בצד פנימי דפנימית זה לא יצויר שתהיו שניהם בשוה וכשרים שניהן כי מיד שעבר מלא צוואר אחד מפנימית ובא לתוך חיצונה ומלא צוואר ב' בתוך פנימית א\"כ מיד נשחטה הפנימית כפי הבחינה הב' והחיצונה עדיין לא. אבל קשה דבמלא ב' צווארים נמי משכחת שניהם כשרים כה\"ג שהניח מלא צוואר א' על הפנימית א\"כ לא מיתכשרא הפנימית עד שיוציא כל אורך הסכין לצד חיצוני דפנימית כפי הצורך הב' א\"כ גם חיצונה כשירה דנשחטה בשוה ברגע א' עם הפנימית דבשעה שעבר כל הסכין מהפנימית עבר אחיצונה מלא צוואר א' והב' נשאר בתוך הצוואר. ואין לומר דט\"ז סובר כפי הציור השלישי לעיל דאם הניח מלא צוואר על הנשחט והוציא אותו מלא צוואר לחוץ והשני נשאר תוך הצוואר די וכמ\"ש אות ג'. וא\"כ א\"ש מ\"ש הט\"ז דבג' צווארים לא משכחת אלא שהניח ב' מלא צווארים על ב' צווארי הנשחטים דאי בהניח מלא צוואר על הפנימית א\"כ מיד שעבר מלא צוואר אחד מעל הפנימית ובא לתוך צוואר חיצונה כבר נשחטה הפנימית ואם החיצונה נשחטה עמה בשוה הרי נדרסה ובמלא ב' צווארים כה\"ג הפנימית כשירה כפי הבחינה השלישית. אם כן קשה מה דכתב הט\"ז במלא ב' צווארים אם הניח הסכין על ב' צווארי הנשחטים שתיהן פסולות ואי דהביא ולא הוליך כל אורך הסכין ליכא למימר הפנימית כשירה והחיצונה פסולה דהא לא היה שחיטתן בשוה ולא שייך לומר השוחט ב' ראשין כאחד וקשה והא משכחת שפיר בשוה ופנימית כשירה והחיצונה פסולה כי מיד שעבר מלא אורך הצוואר לצד פנימי דפנימית הפנימית נשחטה כהוגן והחיצונה נדרסה דלא היה לה כי אם מלא צוואר אחד שהיה בה מתחלה והעביר ולמה לא משכחת שנגמר שחיטת שניהן בשוה וכאמור כאן: אמנם כן צריך לומר דסובר כי מדרך הוא שמניח ב' מלא צווארים על ב' צווארי הנשחט או שמתחיל בקצה הסכין ממש והשתא ה\"ק דבג' צווארין משכחת בהניח מלא ב' צווארים על צווארי הנשחטים וכשרים שתיהן ולא במתחיל בקצה דא\"כ בהולכה החיצונה פסולה ובהובאה הפנימית פסולה אלא במניח ב' צווארים על ב' צווארי הנשחט. משא\"כ במלא ב' צווארים א\"א לאשכוחי שתיהן כשירות דאי בהניח ב' מלא צווארים על ב' צווארי הנשחטים ולא הוציא כלל לצד חוץ שניהם פסולות ואי התחיל בקצה א\"כ הוליך ולא הביא הפנימית כשירה ובהבאה החיצונה כשירה וקמ\"ל התנא דה\"א דכה\"ג כשרים שתיהן כקושית הפרישה הא הסכין ארוך מלא ב' צווארים וליהוי כשר בשחט מלא צוואר א' קמ\"ל דאין מלא הצוואר מה שבתוך החיצונה נחשב לכלום ובעינן שיעביר ממנה כל אורך הצוואר כפי הבחינה הב' ואז לא הוה ב\"א כ\"א זא\"ז דכבר נשחטה הראשונה קודם השניה וכאמור משום דכיון דבדעתו היה בשעה שיוגמר שחיטת הפנימית יהא נגמר חיצונה בשוה וברגע א' א\"כ הוה כתפס הסכין במזיד בידו ולא לגמור החיצונה כ\"א במלא צוואר א' ומש\"ה החיצונה פסולה וכן להיפך בהבאה כו' החיצונה כשירה והפנימית פסולה. וז\"ש הט\"ז מתחלה ועיקר כוונת התנא לאשמעינן דאין מה שבתוך הצוואר בחשבון עד שיעבירנו ממנה היינו שיתכוין השוחט שיעביר כל אורך צוואר ב' דסכין עד שיבוא אורך צוואר ב' לתוך צוואר חיצונה ואז כשירה אף אם לא נשחטה אלא במלא צוואר א' כי לפעמים הסכין חד וחריף כמ\"ש הרא\"ש ז\"ל ומ\"ש הט\"ז ביש מלא ג' צווארים כשהביא מלא צוואר א' אז נשחטו שניהם היינו לאחר שהעביר על זו עוד מלא צואר א' ועל זו מלא א' כפי הבחינה הב' לעיל ושניהם נשחטים בשוה. ומיהו וודאי דאשכוחי משכחת שיהיו שניהם נשחטים בשוה ושניהם כשרים בין בסכין מלא ג' צווארים ובין בסכין מלא ב' צווארים אלא דהתנא מיירי בהניח מלא ב' צווארים על ב' צווארי הנשחט או שהתחיל לשחוט בקצה הסכין כי כן הוא מדרך וסדר האדם ומ\"ש הרא\"ש דהוליך ולא הביא הפנימית פסולה ובהביא החיצונה פסולה היינו שמתחיל בקצה ולזה קשיא ליה לט\"ז דהא הוה ליה לומר דומיא דג' שהניח ב' מלא צווארים על ב' צווארי הנשחטים וכשהולך כל הסכין הפנימית פסולה והחיצונה כשירה וכשהביא החיצונה פסולה והפנימית כשירה וכציור רנ\"ש במ\"ש. והא לא ניחא ליה לט\"ז לפרש כרנ\"ש במ\"ש ממש דחיצונה קורא אצל השוחט ופנימית אצל הכותל לז\"א דא\"כ לא היו שניהם נשחטות בשוה וב' דומיא דג' דהיינו בשוה ואי כציור רנ\"ש במ\"ש לא היה נשחטה הפנימית בשוה עם החיצונה וכשהוליך דהרי מיד שהעביר הסכין מעל הפנימית נשחטה לגמרי שהרי הוליך רק פעם אחת והחיצונה לא נגמרה עד שהעביר מעליה כל אורך הסכין מצד לצד זהו הנלע\"ד: ולענין דינא פסק בש\"ע דשניהן פסולות מאחר דא' נדרסה ע\"כ גם השניה נדרסה וכרשב\"א ור\"ן עיין פר\"ח ותב\"ש ובש\"ך אבאר עוד בזה בעזה\"י:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 24:1"
+        },
+        "2": {
+          "he": "רוב. עט\"ז שהקשה מפירש\"י בשוחט מעורף שפירש\"י גופא דפסולה שחותך מפרקת קודם משמע הא אח\"כ כשירה ויש להקשות ממתני' גופא איך יפרש לדעת ראב\"י דמאי איריא מעורף דהא בדלא אהדר מוקי לה התם. והפרישה ודרישה באות א' הוקשה לו באמת ממשנה שלימה ואי די\"ל בלא מתכוין לכך א\"כ גם רש\"י מיירי כן כמ\"ש בסי' א' אות ח'. ויש ליישב משום דבמשנה י\"ל הפסול הוה מטעם שהייה דודאי איירי בדאהדר סימנים לצדדים בשוה עם העורף ויכול לחתוך שניהם בשוה הסימנים והעורף גם יכול לחתוך הסימנים קודם רוב מפרקת אלא דמ\"מ הסימנים רכים הם ונדחים ויש לחוש שחתך פ\"א הבשר ועצם ולא הסימנים כלל ומתני' בעוף מיירי דשיעור מיעוט הוא לרב דאמר עוף לעוף בלי הגבהה ומשהו הוה בחצי קנה פגום עיין לעיל סי' כ\"ג ועי' בסי' כ' בט\"ז אות ז' במה שמחולק עם הב\"ח ולכאורה יראה דאם חתך הבשר שבמפרקת עם הסימנים בשוה גם הב\"ח יודה דכשר דהא בגמי דאוסר תה\"ד היינו דוושט מתוח והגמי אין מחובר שוהה יותר בחתיכת הגמי משא\"כ בבשר המפרקת אלא דפליגי באי חתך בבשר לחוד לאחר חתיכת קצת וושט דלהב\"ח אסור ולהט\"ז שרי מהראיה שהביא משוחט בב' וג' מקומות כיון דעוסק בשחיטה הוא. ולהב\"ח אסור. אלא דיש להביא ראיה מהא דכתב הש\"ך בסי' כ\"ג אות י\"ז בשם הרוקח אם שחט בוושט ושביק ושחט לקנה ואחר כך גמר הוושט כשר משמע משום דעוסק בשחיטת הסימנים תמיד הא בשר שבמפרקת אין מענין השחיטה כלל ואין כאן מקומו להאריך ומ\"מ ממתני' לא הוה קשיא כ\"כ וכדאמרן דהוה מפרשינן מטעם שהייה מש\"ה הקשה מפירש\"י דמוכח בהדיא דווקא חתך המפרקת קודם טריפה הא חתך אח\"כ כשירה. ומיהו האחרונים ז\"ל כתבו דמצי לומר דמשנה איירי בלא כוון לכך הא מתכוין לחתוך המפרקת ואומר שע\"י כן הוא מתירה אסור ואני מתוספתא הביאה הדרישה בסי' א' אות א' היה שוחט והתיז הראש בב\"א אם נתכוין לכך פסולה. ואני אין יודע רמז מתוספתא זו דאיירי בדרסה ומה דתנן אם מתכוין לכך הוא כפירוש הרא\"ש ז\"ל דבהוליך לחוד איירי ולא היה בסכין מלא ב' צווארים דהשתא אם נתכוין לשחוט בהולכה לחוד טריפה הא לא נתכוין לכך אף שאירע שהתיז בהולכה לחוד כשירה דפעמים חריף כמ\"ש מהרי\"ן חביב הביאו הב\"י דאפילו באיזמל כ\"ש כשר וכמו שאבאר בש\"ך אי\"ה ומ\"ש הפרישה בסי' א' אות א' דלשון מתכוין לכך אינו מיושב א\"י למה לא כדכתיבנא. ולענין הלכה העלה הט\"ז דאין להחמיר מספיקא אפילו איתא לפנינו א\"צ לבדוק ואי שחט רוב המפרקת היינו רוב החוט בה\"מ יש להקל עי' מ\"ש בש\"ך מזה ומ\"ש על הרשב\"א דהטעם משום דם כתב עליו הט\"ז דהוה כלא נשחט דבריו מגומגמים קצת וכוונתו דמנא ליה להתיר ע\"י חתיכה ומליחה כיון דהתורה אמרה דמבליע דם אימא דלא מהני כלל מליחה אף ע\"י חתיכה והוה כדם האיברים שפירש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 24:2"
+        },
+        "3": {
+          "he": "חלדה. הוא לשון הטמנה ע\"כ נקראת חולדה בלשון זה המטמנת עצמה בארץ כן הוא בגמרא פ\"ק דחולין דף כ' עכ\"ל הט\"ז מדבריו יראה דחלדה מלשון כיסוי והטמנה וע\"ש כך נקרא חולדה כן לפי שהיא מטמנת עצמה בארץ אמנם בדף כ' ב' שם ד\"ה חלדה כחולדה הדרה בעיקרי בתים יש לומר דחלדה נגזר משם חולדה ואין הכרע וז\"ש הט\"ז הוא מ\"ש רנ\"ש הביאו הפרישה אות א' יע\"ש. ויש שם ט\"ס וכצ\"ל ויש לזה סמך מחץ מה חץ בגלוי: התב\"ש אות ט\"ו חקר מה הוא החלדה שאסרה תורה אם שיהא השחיטה מגולה בשעת שחיטה או שיהא הסכין מגולה ונ\"מ אי כיסה מטלית על צד העב ומקום השחיטה נראית מצדדי הסכין וכתב דהא דכורך מטלית על הפגימה ורא\"ם אוסר אף בנכסה ראש הסכין התם לכתחלה וכריכת מטלית לא הותר אלא דיעבד ועוד דכאן ליכא למיגזר דיבוא לשחוט במקום המטלית דאין ראוי לשחיטה וגם אינו נחשב מהסכין לצורך שחיטה עכ\"ל הנה הב\"ח פוסל אף דיעבד אם ראש הסכין מכוסה בעור הביאו הש\"ך אות ט' א\"כ איך יתרץ הא דכריכת מטלית אלא שאני רואה דאדרבה מהב\"ח ראיה דעיקר החלדה שהסכין מכוסה דהא במקום השחיטה מגולה וע\"כ לא פליגי שאר אחרונים עלה דב\"ח אלא כיון דבמקום שחיטה מגולה הסכין הא אם במקום שחיטה הסכין מכוסה אף שביה\"ש נראה מגולה מצדדי הסכין אפ\"ה הוה חלדה ובע\"כ כריכת מטלית כיון שהסכין קשור שם מב' צדדין הוה כקתא שלו. ומיהו מהא דלא יניח השוחט אצבע על הסכין אין ראיה כלל להא ועי' תוס' חולין כ\"ב ד\"ה מפני כתבו דלא איירי בסכין רחבה משמע דעיקר חלדה היא מה שנכסה הסכין לא מה שאין מקום השחיטה נגלה וע\"ש רש\"י ד\"ה הא מיגליא באופן שאין הכרע. ועי' בכר\"ו באות ג' השיג על הט\"ז דהתוס' בד\"ה מפני שהוא מחליד כתבו דחלדה הוי מלמטה למעלה אף שנגלה ואנן קיי\"ל הכי עכ\"ל כוונתו קשה להולמו ואולי יאמר דאם אחז בסימנים והוציאן חוץ למפרקת וחתך מלמטה למעלה הוה חלדה כמ\"ש התוס' אף שמגולה השחיטה והסכין דהכי אגמרי' רחמנא דוקא מלמעלה למטה שחיט ואף בצדדין ולא ממטה למעלה ולענין דינא שניהם בספק הך דינא ודינא דתב\"ש צ\"ע✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 24:3"
+        },
+        "4": {
+          "he": "ויש מי כו'. עט\"ז דהקשה מבעיית רב אושעיא הושיט ידו למעי בהמה וע\"כ בלא הוציא ראשו איירי דאל\"כ מהני שחיטה דהוה כילוד וא\"כ הוה חלדה ובנה\"ך תי' בעיית רב אושעיא באת\"ל דתחת מטלית כשר וכן פירשו שאר אחרונים עוד כתב בנה\"ך דלא הוה חלדה דהוה אמו כבית שלו ועוד כיון דלא יצא לאויר העולם לא פסל ביה חלדה. יראה לפרש שנתכווין למ\"ש הכה\"ג כאן בהגהות ב\"י אות כ\"ה דביצא לאויר העולם כיון שאפשר לשחוט בלי כיסוי אסרה תורה משא\"כ במעי אמו א\"א בענין אחר יעו\"ש. ודע דלעיל ס\"ס י\"ד כתב הג\"ה דהושיט ידו ושחט במעי אמו פסולה יראה דהוה וודאי דס\"ס לאיסורא שמא תחת מטלית פסול ושמא לא מהני שחיטה אלא בדיצא לאויר העולם ואם ס\"ס להקל משוה כוודאי היתר כ\"ש להחמיר וב' בעייות הוה ס\"ס כמו שיתבאר לקמן ובקונטריס הספיקות ואף לדידן במטלית פרוס כשר מ\"מ מדנתן הלבוש בסי' י\"ד טעם דהוה חלדה ע\"כ סובר דהוה כמטלית הקשור ע\"ג צווארם וא\"כ הוה ס\"ס לאיסורא והא דהשמיט הר\"מ ז\"ל הך בעיא דהושיט ידו למעי בהמה ולכתוב עליה דהוה וודאי י\"ל דאיהו לשיטתיה דסובר ס\"ס דשרינן בעלמא הטעם דבכל ספיקא מ\"ה שריא ומדרבנן אסור הלכך כי איכא עוד ספק הוה ספק דרבנן להקל וזה להיתרא הא לאיסורא לא שייך זה ולא סובר דס\"ס מטעם רובא וכבר התבאר זה בס' גינת וורדים ע\"ש. אלא דלענין כיסוי הדם ואו\"ב וודאי אין להקל דלא הוה רק ספק ומ\"מ לענין אם נתערב בשאר אין להתיר אף בה\"מ כה\"ג עיין בסי' ק\"י בש\"ך ושם אבאר בענינים אלו:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 24:4"
+        },
+        "5": {
+          "he": "ויש לחוש כו'. עט\"ז דהעלה להלכה כש\"ע דלא כב\"ח שאוסר דיעבד אם ראש הסכין מכוסה אמנם אם במקום ששוחט מכוסה וודאי אף דיעבד אסור וכמ\"ש הש\"ך אות ט' ומש\"ה צריך ליזהר לכתחלה שלא יתכסה במקום שחיטה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 24:5"
+        },
+        "6": {
+          "he": "מיעוט הא'. עט\"ז והנה ראוי לבאר כאן קצת באורך. דע שעל בעיא דהחליד במיעוט סימנים יש בו פירושים רבים ואבארם. הפי' הא' הוא פירש\"י לאחר ששחט הרוב א' בעוף ורוב ב' בבהמה החליד מיעוט הנשאר כמו בשהייה לעיל. הפי' הב' הוא פיר\"ת הביאו תוס' חולין ל\"ב ד\"ה החליד דמיבעיא ליה אם תחב הסכין תחת מיעוט קמא דקנה ושחט הרוב מלמעלה למטה בחלדה מיבעיא ליה אפילו לאמרי בי רב תחת עור א\"י הכא איפשר דכמאן דפסק דמי ולא פוסל א\"ד פסולה וע\"כ דהעור היה חתוך. הפי' השלישי הוא ג\"כ של ר\"ת שתחב תחת מיעוט קמא ושחט המיעוט מלמטה למעלה בחלדה מי גמירי שהייה דווקא ברוב הסימן ולא במיעוטו ומשכחת ליה בקנה כמ\"ש בפי' א' א\"נ בוושט שחתך מצד זה ברוחב הסימן וכן בהיקף מצד הב' ואח\"כ תחב הסכין ושחט השליש בחלדה. ולפ\"ז אמאי לא פירשו כפשוטו ששחט מיעוט סימנים בחלדה כגון בין סימן לסימן או תחת העור ושחט מיעוט בחלדה מהו ויראה לפרש דה\"ק דאף בכה\"ג הוה בכלל ספק דל\"ת דשמא המיעוט כמאן דחתוך דמי ושמא כי גמירי חלדה במידי דמנבלה ביה כמו לענין שהייה אפ\"ה בכלל הספק ולפ\"ז ה\"ה וכ\"ש אם שחט בין סימן לסימן שתחב הסכין ושחט מיעוט בחלדה הוה ספק. הפי' הד' הוא פי' הב\"י בר\"מ ז\"ל פ\"ג מה\"ש ה\"י שחט מיעוט סימנים בחלדה וגמרו שלא בחלדה הר\"ז ספק נבילה ופי' הב\"י וכ\"מ כפשוטו בין סימן לסימן מי גמירי שהייה וחלדה דווקא במידי דמנבלה ביה כו' והנה הטור פי' בר\"מ ז\"ל כפי' הב' של ר\"ת ולכאורה אין נפקא מינה לדינא אלא שהטור מצייר כך והב\"י כפשוטו. אמנם כן ראיתי שיש הבדל גדול כפי מה שלמדתי מתוך דברי הפר\"ח אות כ\"ה דר\"ת בפי' הב' ה\"ק דוודאי אי החליד בין סימן לסימן אפשר דהוה חלדה ול\"ד לבעיא דשהייה דכי גמירי במידי דמנבלא משא\"כ חלדה אלא דמיבעיא החליד תחת מיעוט קמא ושחט ממטה למעלה מי אמרינן כיון דאין מיעוט זה מעכב דאי שחט שאר הרוב בהכשר ושבק להמיעוט א\"כ לא הוה ג\"כ חלדה משא\"כ אי הכניסו הסכין בין סימן לסימן ושחט מיעוט בחלדה כיון דהסכין מכוסה בסימן שלם או ברוב וודאי הוה מה ששחט בחלדה חלדה גמורה. הפירוש החמישי הוא פי' הר\"ר אושעיא שהחליד תחת מיעוט בתרא דקמא ושחט סימן הב' מי אמרינן דהמיעוט כמאן דליתא דמי או הוה חלדה. הפירוש הששי הוא פי' הריב\"ז סי' קפ\"ז הביאו הכ\"מ בפ\"ג מה\"ש וכמו שהבנתי אני בדבריו דאם שחט רוב של סימן ראשון והחליד המיעוט בתרא של סימן ראשון מהו אף דמיעוט בתרא של שני סימנים אין פוסל דרסה חלדה כיון שאין זקוק תו לשחוט עוד משא\"כ כאן זקוק עוד לשחוט סימן ב' הכי אגמרי' רחמנא באם זקוק לשחוט שלא יהיה פסול באמצע שחיטה אף במיעוט בתרא דקמא והמעיין בריב\"ש יראה לדייק בהדיא דא\"א לפרש כדבריו כ\"א כמ\"ש ושוב ראיתי להב\"ח בכאן שהבין כן דברי הריב\"ש כדכתיבנא יע\"ש. וראיתי להכנה\"ג בהגהות ב\"י אות ל\"א כתב דריב\"ש מפרש פי' ב' בר\"מ כפירוש ר' אושעי' ואני תמה איך העביר עיניו ח\"ו ממאי שכתב הריב\"ש בהדיא כדברי וממ\"ש הריב\"ש דומיא דפי' המפרשים בשהי' במיעוט סימנים ואי כפירוש הר\"ר אושעי' אמאי לא אמר כפי' הר\"ר אושעי' אלא החליד באותו מיעוט גופא ועוד דאי שחט סימן הב' תחת מיעוט בתרא דקמא מהו זה שכתב הר\"מ ז\"ל ג\"כ שחט מיעוט סימנים בחלדה והא שחט רוב סי' ב' בחלדה. והכנה\"ג גופא דחה דא\"א לפרש כפי' א' של ר\"ת דהא מיעוט סימנים קאמר וא\"כ מה\"ט א\"א לפרש כפי' הר\"ר אושעיא ג\"כ ומ\"ש הר\"מ ז\"ל סימנים לשון רבים דקאי או אקנה או אוושט עיין בריב\"ש שמפני זה עשה כלומר ע\"ש ואולי כוונתו כפירוש הר\"ר אושעיא בשהיה דהיינו בסכין רעה ששהה במיעוט בתרא דקמא הכי מפרש הר\"מ בהחליד ובאותו מיעוט וז\"ש הריב\"ש דומיא דפי' המפרשים בשהייה במיעוט סימנים. סוף דבר הכל נשמע דבר\"מ ז\"ל א\"א לפרש פי' א' של ר\"ת דשחט מיעוט בחלדה קאמר ולר\"ת שחט הרוב בחלדה ומה\"ט נדחה גם פי' הר\"ר אושעיא להעמיס בדברי הר\"מ ז\"ל כמ\"ש גם פירש\"י א\"א שהרי גילה דעתו בפירוש דדרסה אין פוסל במיעוט בתרא כמ\"ש שם הי\"ג וכמ\"ש הכ\"מ דלמד מדין שהייה מתוספתא ה\"ה חלדה אין פוסל דוודאי דרסה וחלדה שוין המה ואין לחלק כלל. ונמצא לא נשאר לפרש כ\"א שלש פירושים פי' ב' של ר\"ת כפי מה שהבין הטור או כפי' הב\"י והכ\"מ או כפי' הב' של הריב\"ש סימן קפ\"ז כאמור. והנה היה נראה לפרש האיבעיא בשחט מיעוט קמא או חצי וושט והחליד מיעוט קמא דקנה מי אמרינן מידי דהוה אחצי קנה פגום א\"ד בתחילת שחיטה כשירה משא\"כ באמצע שחיטה ועיין בריב\"ש כתב שזה וודאי נבילה משום דמפרש איבעיא בע\"א אלא שאני רואה דא\"א לפרש כן בר\"מ ז\"ל דא\"כ מאי מיעוט סימנים לשון רבים ובש\"ך אות ח\"י אבאר באורך: ועתה אשוב לבאר דברי הט\"ז. הנה המחבר כתב תלתא בבי. בבא א' פי' הטור בר\"מ והוא פי' ר\"ת בפי' הב'. בבא תנינא פי' הר\"ר אושעיא. בבא שלישית הוא כפי' הב\"י בר\"מ דמיבעיא ליה מיעוט בחלדה מהו והא הוה דומיא דראשונה דאם תחת מיעוט קמא וחתך מלמטה למעלה הוה חלדה כ\"ש כאן ותי' דכאן תחת העור וה\"א דווקא לעיל דחתך מלמטה למעלה גרע טפי משא\"כ כאן ולא הבינותי אמאי לא בהחליד בין סימן לסימן ושחט מיעוט קמא בחלדה מלמעלה למטה וזהו שמוסיף וי\"ל דאה\"נ אלא דרבותא קאמר דאפילו תחת העור דהוא גופא ספק אפ\"ה אם גם מיעוט החליד תחת העור הוה בכלל ספק. וראיתי להדרישה אות ז' דבבא ג' הוא כפי מה שהבין הב\"י בר\"מ שהחליד בין סימן לסימן ואחריו החזיק התב\"ש אות י\"א יע\"ש וכתב דקמ\"ל דלא הוה אלא ספק נבילה ועל פי' הט\"ז כתב דחלוקה זו לא נזכר בשום מקום הנה מ\"ש דחלוקה זו לא נזכר בשום מקום האמת אתו ובגמרא ודאי א\"א לפרש בעיא דהחליד מיעוט סימנים תחת העור א\"כ היה צ\"ל באת\"ל תחת העור כו' אמנם במ\"ש דקמ\"ל דאף זו הוה ספק ור\"ל דל\"ת דווקא תחת מיעוט קמא דאיפשר דאין המיעוט מעכב כ\"כ משא\"כ תחת סימן שלם ושחט מיעוט בחלדה הוה ודאי. אמנם תמהני וכי המחבר דייק בלישניה בין ספק לוודאי והלא מסתם סתום והא לא הזכיר כלל אי ספק הוויין כל אלו ואמאי לא פי' דאשמועינן אף ששחט ממעלה למטה ובבא א' השמיענו דל\"ת דהמיעוט כמאן דחתך דמי ומ\"מ לדינא הכל בכלל ספק נבילה דלא גרע מתחת העור כמ\"ש הב\"י. ויש לראות דודאי גריעי מתחת העור כמו שצידד ר\"ת גם לפי' הר\"ר אושעיא תחת העור הוה חלדה דא\"א בע\"א אם לא בחלדה משא\"כ תחת מיעוט בתרא דקמא דהא אי בעי הוה חתך לב' בלא חלדה וי\"ל ממ\"נ אי האיבעיא לכ\"א מהפירושים א\"כ עלתה בתיקו ואי איבעיא כפי' הא' א\"כ לאינך צדדים נשאר הסברא החיצונה דלא גריעי מתחת העור ובשלמא אי הגמ' מצדד בזה דאיפשר דגריעי א\"כ אפ\"ה הרי עלתה בתיקו משא\"כ הסברא החיצונה ודאי נותן דכל אלו לא גריעי מתחת העור והוה כולהו ספק: הלח\"מ בפ\"ג מה\"ש הניח בצ\"ע אמאי תחת מטלית הוה ספיקא הא הוה ס\"ס שמא עור כשירה ואת\"ל פסולה אפ\"ה שמא מטלית כשירה. הנה תפס במושלם דשני בעיות הוה ס\"ס עיין ב\"י סי' נ\"ט בגלודה ואיפשר דהתם לשיטת הר\"מ כתבו דסובר ס\"ס משם א' הוה ס\"ס כמבואר מדבריו בהל' א\"ב מהא דפתוי קטנה רצון הוא מחמת קושיות התוס' בסוגיא דפ\"פ יע\"ש א\"כ ה\"ה ב' בעיות ובקונטריס הספיקות יבואר. ומיהו אי ס\"ס במקום חזקה לא מהני וכ\"ש להר\"מ דטעם ס\"ס דהוה ספק דרבנן וזה לא שייך במקום חזקה אלא דכבר כתבנו דספיקא דדינא ובעיא דלא איפשטא מהני במקום חזקה דבשביל זה לא ישתנה הדין ובסימן כ\"ט ולמ\"ד וק\"י אבאר (ומיהו להר\"מ פ\"ט מט\"מ י\"ל ס\"ס בעיא דלא איפשטא הוה מ\"ה והוכיח לפי' דמש\"א הוה ס\"ס דאל\"כ אמאי הניח הגמ' בתיקו דהא מותר הוא וז\"א) ואין להאריך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 24:6"
+        },
+        "7": {
+          "he": "וגמר. הט\"ז הביא לשון הטור דאף למאן דפוסל שהי' וחלדה במיעוט בתרא בהגרמה מודה. ומאן דפוסל הוא הריב\"ש ורא\"ש מכשירין בהגרמה דלאו מקום שחיטה הוא דלא כרש\"י שפוסל אף הגרמה במיעוט בתרא כרבנן טרופאי ומיהו אנו נוהגין כדעת הגה\"ה דפוסלין אף הגרמה במיעוט בתרא ואף בה\"מ אנו מחמירין דקבילו עלייהו במדינות אלו כמ\"ש התב\"ש אות ח\"י. ומ\"מ יש הבדל דאלו שהי' דרסה חלדה יש חשש דררא דאורייתא מבעיא דלא איפשטא לפירוש התב\"ש ולפי' הרשב\"א עכ\"פ מדרבנן ובהרגמה רק מצד המנהג לחוד. ואם שחט רוב סימן א' בבהמה והגרים אותו המיעוט ושאר דיני דרסה וחלדה אבאר על נכון בש\"ך אי\"ה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 24:7"
+        },
+        "8": {
+          "he": "מהלחי. עט\"ז דהמחבר משמע דווקא שניטל התורבץ או הקנה מבשר שבלחי הוא דפוסל כשאין המיעוט במקום א' שלם הא ניטל הסימנים עם הבשר מהלחי אף ניטל כולו כשירה וזהו הדין בסימן ל\"ג ניטל הלחי התחתון כשר ולא חילק בין אם המיעוט מחובר וכן כתב הש\"ך כאן אות כ\"א אמנם בטור משמע דאם ניטל הלחי כולו טריפה. והתב\"ש העלה להלכה להחמיר ככל הפירושים דאם ניטל הסימן מבשר טריפה אף שהמיעוט שלם במקום א' ואם ניטל מהלחי או אם נדלדל שאין המיעוט שלם במקום א' טריפה וסימנים שנפרקו זה מזה באורכן ברובן או שהסימן נפרד ממקום חיבורו בצוואר ברוב אורך בכל אלו נותנין חומרי נבילות וחומרי טריפות עכ\"ל חומרי טריפות לענין או\"ב וה\"ה כיסוי הוה ספק טריפה ומכסה בלא ברכה וחומרי נבילות לענין איסורין מבטלין ושאר ענינים:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 24:8"
+        },
+        "9": {
+          "he": "ונשמט. במחבר לא נזכר או נשמט ובטור כתב או נשמט וכתב הפרישה בשעת שחיטה ע\"י שחיטתו ונשמט מעצמו וקרוב לזה פי' הט\"ז ואין חילוק בין שעת שחיטה לקודם לכן כמ\"ש בש\"ך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 24:9"
+        },
+        "10": {
+          "he": "אבל בחייו כו'. עט\"ז והתב\"ש אות כ\"ו והכר\"ו אות י\"א הבינו בדבריו דה\"ק דאיסור יוצא דאסור מבשר בשדה חמור הוא דלא מצינו ליה כלל תקנה מה שא\"כ אמ\"ה דמצינו ליה לפעמים תקנה בשאר בהמות והקשו עליו דאשתמיט ליה דברי הרשב\"א בחידושיו ובתה\"א דאיסור יוצא לאו טריפה דאל\"כ מה מיבעיא ליה דחלב טריפה אסור והכר\"ו תי' דאם אין עיקור טריפה א\"כ יכול להיות דהדר ברי' יע\"ש. ולא הבינותי. מ\"מ כ\"כ דלא הדרא ברי' לאו בידו לשחוט הוא ואין היתר לאיסורו ומי נימא דיתרפא ועיין מ\"ש בסימן י\"ד והתב\"ש כתב דהמחבר השמיט דחלב מותר דלא פסיקא ליה דאיפשר עיקור טריפה כרש\"י דעיקור המצוי בה\"ש היינו סכין פגום ולא הבינותי דהא הש\"ע קחשיב בסימן כ\"ג כל טבח שא\"י ה\"ש כו' ועלה קאי עיקור כיצד דמשמע דמפרש עיקור דרב יהודה וע\"כ אין טריפה דאל\"כ נהי דהלכתא דהוה נבילה כמ\"ש הר\"ן בשם הרמב\"ן מ\"מ א\"א לפרש כן דאיך אמר כל טבח שא\"י ה\"ש דא\"נ לאו נבילה אי א\"י דעיקור טריפה אסור לאכול משחיטתו ולמה חשיב לעיקור בהדי אינך: הן אמת שלכאורה דברי הר\"ב כאן קשין עם מ\"ש בסימן כ\"ה והוא כמו שאגיד דאם עיקור המנוי בה\"ש שנעקרו מהלחי כבה\"ג למה חשש רב לכך דכל טבח שא\"י ה\"ש ולמה לא מוקמינן ארובא ונהי דאין עיקור טריפה מ\"מ רוב ב\"ח אין סימנים שלהם עקורים בשלמא לבה\"ג דאיהו לשיטתיה דסובר דצריך לבדוק אחר שמוטה כמ\"ש הש\"ך סימן כ\"ה אות ב' דהוה מיעוט המצוי ודמי לריאה דאוסר בה\"ג אם נאבדה משא\"כ הר\"ב דכתב לקמן שא\"צ לבדוק אחר שמוטה א\"כ למה הצריך רב לומר דבעינן שידע דעיקור פוסל ולמה אסור לאכול משחיטתו ולא סמכינן ארובא דרוב אין עקורים. ועוד היה איפשר לומר דאף אם נאבדה הריאה שרי מ\"מ אסור לאכול משחיטתו דסמוך מיעוטא לחזקה והו\"ל פלגא מדרבנן וכ\"ת אמאי לא בדקינן אחר טריפות ניקב הוושט ופסוקת הגרגרת במקום שחיטה דהוה חזקה בהמה בחייה ולא מהני שחיטה ביה י\"ל דהוה מיעוטא דמיעוטא טריפות כמ\"ש אדונינו מהרש\"א ז\"ל בחולין י\"א א' אתיא מפרה יע\"ש משא\"כ שמוטה הוה מיעוט המצוי ולו יהא דלא הוה מיעוטא דמיעוטא מש\"ה אסור לאכול משחיטתו. וא\"כ הר\"ב לכאורה מזכה שטרא לבי תרי דכאן כתב דחלב שרי וע\"כ משום דעיקור המצוי בה\"ש הוא שמוטה ואמאי יהא אסור לאכול משחיטתו והא סמכינן ארובא ואף אי איתא לפנינו א\"צ לבודקו (כמ\"ש סי' כ\"ה). והנה על המחבר לק\"מ דכאן כתב עיקור כיצד משמע שזהו המנוי בה\"ש ולקמן סימן כ\"ה לא כתב דצריך לבדוק אחר שמוטה י\"ל דמ\"מ סובר דצריך לבדוק אחר שמוטה ומ\"מ סובר ג\"כ דהחלב אסור דהוה טריפה כדעת רש\"י והא דהזכיר שם עיקור מה\"ש דאי לאו מה\"ש היה מותר לאכול משחיטתו דסמכינן ארובא ככל טריפות משא\"כ כשהוא מה\"ש תו הוה ליה חזקה בהמה בחייה והוה פלגא מדרבנן. האמנם כבר כתבנו בס' גינת וורדים דמיעוט טריפות לא הוה מיעוטא דמיעוטא ולדברי הר\"ב יש ליישב בדוחק דמסתמא לא חיישינן שמא שחט בסימנים עקורים דא\"א לשמוטה שתעשה שחוטה והוה לא שכיח משא\"כ טבח שא\"י ה\"ש חיישינן שמא תפס בסימנים אלא דא\"כ הוה להר\"ב לומר דאם תפס בסימנים צריך בדיקה אחר שמוטה וצ\"ע וכעת לא מצאתי ישוב לזה ועיין מ\"ש בסימן כ\"ה בעזה\"י:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 24:10"
+        },
+        "11": {
+          "he": "הא. הט\"ז האריך וכוונתו דלא כב\"ח דאוסר עיקור כ\"ש היינו שרוב הסימן מחובר בלחי ומיעוט נעקר וחילק בין שעת שחיטה אוסר בכל שהוא ולפי דבריו א\"ש מ\"ש רמ\"א ואנו נוהגין להטריף כל עיקור בין במיעוט קמא הנה לשון כל עיקור ובין במיעוט קמא יורה כב\"ח דכל עיקור היינו אפילו משהו שנעקר בשעת שחיטה ומיעוט קמא דאי נעקר רוב והמיעוט אין במקום א' איך יצויר שהמיעוט קמא דקנה נשחט בעיקור והשאר שלא בעיקור וכבר עמד בזה התב\"ש אות כ\"ז ותי' דרמ\"א קאי אעיקור דסכין פגומה יע\"ש וזה דוחק דלא מוזכר כאן כלל כ\"א בסימן ח\"י. ואם היינו אומרים דהט\"ז השיג אהב\"ח דמדינא אין להחמיר בנעקר המיעוט בשעת שחיטה והראיה מתוס' חולין ט' שהוכיחו דעיקור לא הוה טריפה דאל\"כ איך חשבם בה\"ש ומה קושיא והא בשעת שחיטה בכ\"ש הוה נבילה. ומ\"מ לדידן כתב רמ\"א שפיר דמחמת מנהגא אנו מטריפין עיקור כ\"ש בשעת שחיטה כמ\"ש הש\"ך אות כ\"ג וכמו שאבאר שם דא\"כ איך השיג הט\"ז על הגהות שחיטות דלמא ממנהגא אוסר אלא ש\"מ דסובר דאף מנהגא ליכא ובש\"ך אות כ\"ג אבאר ומ\"ש דפסוקת הגרגרת ברובא ר\"ל כמו פסוקת הגרגרת ברובא טריפה אף שלא בשעת שחיטה ה\"ה אם נעקרו ממקום חיבורן בלחי בדבר שעושה טריפה שאין המיעוט שלם לא מהני ביה שחיטה אם אירע כן בשעת שחיטה. ויש לפרש ג\"כ כפשוטו שסובר הט\"ז כהר\"ן בשם הרמב\"ן דאם נפסק הגרגרת ברובא בשעת שחיטה דהוה נבילה וקודם שחיטה הוה טריפה ובש\"ך אבאר וכאן אין להאריך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 24:11"
+        },
+        "12": {
+          "he": "ומיד. עט\"ז הביא דברי הרשב\"א ואף לבה\"ג דאין עיקור טריפה אלא שאין שחיטה מועלת בסימנים עקורים יש לחלק כן כשהמיעוט שלם במקום א' חיבור יפה כשירה משא\"כ כשהוא מדולדל הוה כאלו כולו נפסק ואין שחיטה מועלת בסימנים עקורים מכל דהמיעוט כמאן דליתא דמי:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 24:12"
+        },
+        "13": {
+          "he": "הר\"ז פסולה. עט\"ז בשם מהרי\"ק שורש ל\"ה דאפי' אמר השוחט שלא הרגיש א\"א נידע כיון דמכוסה בעור מלמעלה במקום חיבורו בלחי. וכל שלא בדק ותוקף אגודל א\"א לידע ומש\"ה הוה ספק נבילה: דע דהלבוש סי\"ז כתב דמש\"ה אסור דאין כח בפירכוס להשמיט הסימן וכתב ומיהו השוחט נאמן שלא היה שמוטה דע\"א נאמן באיסורין כ\"ש כאן דרוב מסייע ליה עכ\"ל. הנה תלה הדבר דאין כח בפרכוס כו' ואמת מהרי\"ק שורש ל\"ה כתב דאין כח בפירכוס אמנם כתב וז\"ל דהא טבל ועלה דודאי הסברא לתלות שאחר מיכן היה אפ\"ה כל להוציא מחזקה לא מהני כ\"א ברי לי כ\"ש כאן דכמה מפרכסים שאין סימניהם נשמטין הרי דמחמת כ\"ש קאתי עליה וה\"ה אם היה כח היה אסור דומיא דטבל ועלה וכן הוא בהדיא להמעיין היטב בדבריו וכן העלה השמ\"ח סכ\"ב ותב\"ש אות ל\"א אפי' משמשו ודחקו שיש לתלות אין תולין וכבר הארכנו בענין כיוצא בזה בס' ג\"ו בשו\"ת א' יע\"ש. וכתבנו שם דמ\"מ נראה מן התורה אית למימר רובא וחזקה רובא עדיף ומדרבנן הוא דאסור ולקמן סימן כ\"ה אבאר עוד בזה. אלא שיש לראות מהראיה מייתי מהרי\"ק מטבל ועלה דהתם ליכא רוב נגד החזקה משא\"כ כאן דלא הוה כ\"א איסור דרבנן לכאורה וכבר העיר בזה חכם א' בזמנינו וכתב לי כן דל\"ד לטבל ועלה וכבר כתבתי כן בשו\"ת א' בס' ג\"ו דההיא דכל ספק בשחיטה כפי הנראה לכאורה לא הוה אלא מדרבנן ומ\"מ הנך רואה שהדין אמת שהרי מהרי\"ק אומר בפירוש כן שכל ספק בשחיטה אפי' איכא למיתלי אין תולין. ומיהו הא יש לעיין דהיכא דהדבר שקול או אפילו יש קצת לתלות מ\"מ הוה תרי חזקות חזקה דהשתא וחזקה דבהמה בחייה דאיפשר דעדיף מרובא (עיין תוס' חולין י\"א דנפיק מפרה והתם חד חזקה)✍ומ\"ש הלבוש וכ\"ש דהרוב מסייע משמע דבלא\"ה היה מהימן הלשון דחוק דע\"א אין נאמן נגד חזקה היכא דאין בידו א\"ל דרוב מסייע ועיין מ\"ש בסמוך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 24:13"
+        },
+        "14": {
+          "he": "מיהו. עט\"ז והתב\"ש אות ל\"ב כתב שאין להתיר דמה ראיה שמעקירה בא לכאן דלמא ע\"י פרכוס בא לכאן אלא דמהרא\"י איירי שבדק השוחט ותקף אגודל ואח\"כ נמצא שמוט נאמן השוחט ול\"ת היכא דאיתחזק ואין בידו אין נאמן. וכ\"ה במהרא\"י בפסקיו סימן ר\"ה וז\"ל ואין לומר דלא הוה בידו י\"ל דהרוב מסייע ליה והביא עוד שם טבל ועלה באומר ברי לי אף דהיה חזקת איסור וצ\"ל לדבריו דזה מיקרי בידו לבדוק מקודם ולעיין יפה ומסתמא עיין והסיר מכל חציצה והביא ראי' אף דאיכא ריעותא עכשיו וחזקת איסור כל שבידו נאמן הוא וחידוש דין הוא זה דאפילו בתרי חזקות כמו חזקת דהשתא והעמיד טמא אפ\"ה כל שבידו נאמן הוא דאל\"כ אמאי מהימן וכ\"ת לעצמו אדם נאמן כשיודע הבירור עי' תוס' כתובות כ\"ב ופני יהושע שם מ\"מ אף אי כן אנו היאך נותנין לו טהרות כו' ועיין בלחם חמודות דף קמ\"ח אות ל\"ג הביא דברי מהרי\"ק שורש ל\"ה וכתב הטעם דאין כח בפרכוס להשמיט הסימן וראיה מטבל ואיך הביא ראיה מטבל והתם אפי' יש לתלות אין תולין וה\"ה כאן אפילו היה סברא גדולה אין מוציאין מחזקה אלא בראיה ברורה ועי' עוד שם ולקמן סימן כ\"ה ול\"ד אבאר באורך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 24:14"
+        },
+        "15": {
+          "he": "הר\"ז. עט\"ז הביא בשם מהרש\"ל דהאידנא אפי' בלא תפס אסור ולא ידענא למה הביא דברי מהרש\"ל והא המחבר אומר בפי' כן דבדיקה מהני בלא תפס והאדינא אפילו לא תפס לא מהני בדיקה דא\"א בקיאין בהקפה להקל ועיין יש\"ש בפרק השוחט סימן ט\"ז ופא\"ט סימן כ\"ח מ\"ש בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 24:15"
+        },
+        "16": {
+          "he": "שיביא. עט\"ז ור\"ל דלקמן מהני הקפה באותה בהמה עצמה היינו באותו סימן גופא אם נמצא נפסק הגרגרת וא\"י אם קודם שחיטה חותך עוד במקום אחר שאם קרע הא' מאדים יותר הרי דודאי נקרע קודם שחיטה ומש\"ה מאדים יותר ואם שווין כשירה דקרע הא' לאחר שחיטה כמו הב' משא\"כ הכא דהגרגרת נמצא שמוט וא\"י א\"כ מה מהני אם יחתוך הגרגרת עוד וחתך הב' יהי' מאדים יותר הא משום שעדיין לא נשחט ומש\"ה היה בו עדיין חיות משא\"כ עכשיו ומש\"ה צריך בהמה אחרת ובש\"ך אות ל\"א יבואר על נכון. והא לא קשיא אמאי לא מקיף להמקום השמוט י\"ל דשמוט אם יהיה דומה אין ראיה להכשיר בשלמא נקרע יש להקיף ולא למקום השמוט ועוד דאין מדמין מן שלא במקום שחיטה למקום שחיטה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 24:16"
+        },
+        "17": {
+          "he": "מהגרגרת. הט\"ז האריך והכשיר אם הוא ספק אם הוא רוב הטבעת או לאו מחמת ס\"ס שמא לא הוה רוב ופסוקת הגרגרת ברובא ושמא אח\"כ נעשה והש\"י ח\"א שאלה מ\"ו והתב\"ש הקשו עליו דהא כתב בסימן ק\"י דס\"ס במקום חזקה לא מהני והא הוה ספק בשחיטה יע\"ש. והנה הט\"ז לטעמיה במ\"ש דשמא לא הוה רוב דסובר דאף בשעת שחיטה אין פוסל משהו דלא כב\"ח ואף א\"ת שיודה דממנהגא אסור בשעת שחיטה במשהו מ\"מ כיון דמ\"ה הוה ס\"ס תו בדרבנן ספיקו להקל וכ\"ש זה דלא הוה אף דרבנן אלא חומרא בעלמא אין להחמיר כלל וגם הש\"ך וכ\"ע מודים לזה דאם נמצא על הארץ פחות מרוב או על הסכין דכשרה דהוה ספק שמא לאחר שחיטה נעשה ובזה ודאי שרי. ומה שהקשו עליו דס\"ס במקום חזקה לא מהני היינו אף דרוב בהמות אין קנה שלהם נפסקים מ\"מ יש לחוש מחמת דחיקת הסכין מצוי הוא שיפסוק וא\"כ ליכא כאן רובא ונשאר חזקה דבהמה וחזקה דהשתא ואי משום הא אין כ\"כ קושיא עליו דסובר דודאי חזינן רוב שחיטות דאין נפסק הקנה מחמת דחיפת הסכין וגם רוב בהמות אין קנה שלהם פסוקה וא\"כ רובא וחזקה רובא עדיף אלא מדרבנן סמוך מיעוטא לחזקה וה\"ל פלגא ופלגא וא\"כ כשיש עוד ספק אין להחמיר ולענין דינא הנה בס\"ס כזה החמיר התב\"ש ושאר אחרונים אמנם אם בודאי רק מיעוט הוא יש להכשיר ואף להש\"ך אות כ\"ג כיון דמנהג' לאסור עיקור משהו בשעת שחיטה א\"כ בספק א' ודאי יש להתיר. ומעתה תראה שמ\"ש בבל\"י אות י\"ב דהנה\"ך לא חזר מספרו וא\"כ מ\"ה לא השיג על הט\"ז. וז\"א דכיון דמנהגא הוא בספיקו אין להחמיר כלל שמא אחר שחיטה נעקר וכדכתיבנא:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 24:17"
+        },
+        "18": {
+          "he": "צריך ליזהר שידחוק רגלו בארץ או בכותל או יגביה שלא ינעוץ ויבוא לידי עיקור. ועט\"ז ואם לא נזהר ומצא אח\"כ הסי' עקור מ\"מ לא הוה אלא ספק:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 24:18"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "אם יש בסכין כו'. ע\"ל סי' ח' מ\"ש בזה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:1"
+        },
+        "2": {
+          "he": "שחט ב' ראשים כו'. משמע לכאורה דוקא דיעבד ובטור איתא שוחט אדם שני ראשים כאחד כו' והכי איתא בש\"ס פרק השוחט (חולין דף כ\"ט ע\"א) בהדיא וכ\"כ הר\"ן דמותר אפילו לכתחלה וצ\"ל דלאו דוקא שחט דה\"ה אפילו לכתחלה וכן מוכרח לומר בהרמב\"ם פ\"ב מה\"ש דין ט' ובכל בו ע\"ש ודו\"ק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:2"
+        },
+        "3": {
+          "he": "אם יש בסכין כדי ג' צוארין כשרה. פי' בין שהניח הסכין בתחלת השחיטה על רוחב ב' הראשים ויצא אורך הסכין כמלא צואר חוץ להב' ראשים והוליך הסכין לצד האחר עד שלא נשאר כלום יוצא באותו צד שיצא כבר ובין שהתחיל לשחוט בקצה הסכין והוליך הסכין בשחיטתו עד שיצא כמלא הצואר חוץ לראש השני דאז ודאי כיון שעל ב' הראשים עבר כמלא ב' צוארים כשר אבל פשוט אם הניח הסכין בתחלת השחיטה על רוחב ב' הראשים והוליך הסכין לאותו צד שיצא חוץ להב' ראשים כמלא צואר דזהו חשיב כאלו אין בסכין אלא כמלא ב' צוארים וק\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:3"
+        },
+        "4": {
+          "he": "ואם לאו יש לחוש. זהו דעת הרמב\"ן והרשב\"א והר\"ן (ועי' בחדושי הרשב\"א דף ל\"ב ע\"ג ובתה\"א דף כ\"ז ע\"ב) ונלפע\"ד דאינהו מיירי כשהניח הסכין בתחלת השחיטה על רוחב הב' ראשים ומיירי ששחט לאותו צד שיצא ודעת הב\"י וד\"מ דלפי טעם שכתבו דכיון שאנו רואין שבאחד מהן דרס ע\"כ אף בשניה דרס שהרי בבת אחת ובענין א' העביר הסכין על שתיהן ה\"ה כשהתחיל לשחוט בקצה הסכין וכיון שעבר חצי הסכין על השניה פוסק דשתיהן אסורות מה\"ט דהא עכ\"פ עינינו רואות שאח' מהן נדרסה וא\"כ בבת א' העביר הסכין על שתיהן וא\"כ גם השניה נדרסה וכן משמע דעת מהרש\"ל פ' השוחט סימן י\"א דלא כהב\"ח שחילק בין התחיל לשחוט בקצה הסכין ובין הניח הסכין בתחלת השחיטה על רוחב הראשים בדברים שאינם מתקבלים על הלב וגם נלפע\"ד דאם התחיל לשחוט בקצה הסכין ועבר הסכין לצד האחר עד שיצא כמלא צואר לצד האחר בענין שעל שתיהן עבר כל הסכין שתיהן כשרות לכ\"ע וכן כתבו ב\"י וד\"מ ומהרש\"ל והוא פשוט דלא כהב\"ח שחלק ע\"ז ואין נראין דבריו לא בגוף הענין ולא בדברי הרא\"ש ודוק היטב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:4"
+        },
+        "5": {
+          "he": "והמנהג להטריף כו'. וצריך עיון בזה שהרבה גדולי הפוסקים מתירין הלא המה המרדכי והאגודה ר\"פ השוחט בשם מהר\"מ והרמב\"ן והר\"ן פרק השוחט במתני' דהיה שוחט והתיז הראש כו' וכן כתב הרשב\"א בשם גדולי המפרשים וכ\"כ הרא\"ה בספר בדק הבית (דף כ\"ג) וכן משמע דעת הרמב\"ם פ\"ב מה\"ש דין ט' וכמבואר בכ\"מ לשם וכ\"כ בעל העיטור וכ\"כ הרשב\"א בחדושיו ובת\"ה ובמ\"ה ריש סימן ב' וכן משמע בתוספות ר\"פ השוחט ד\"ה ותו וכן משמע בתשובת בנימן זאב סי' שכ\"ז וכ\"נ מוכח מן המשנה וש\"ס פ\"ק דחולין (דף י\"ט ע\"ב) והתוספתא שהביא המרדכי ר\"פ השוחט ע\"ש ודוק והכי מוכח מדברי כל הפוסקים והט\"ו בס\"ס כ\"א גם בתרומת הדשן סי' קפ\"ז כתב דמן הדין שרי אלא שנהגו להחמיר וכן משמע באגור שסיים אבל רוב הפוסקים מתירים ע\"כ ואולי דעת הר\"ב דוקא להחמיר במקום שאין הפסד מרובה וכה\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:5"
+        },
+        "6": {
+          "he": "בין ששחט כו'. וכ\"ש אם הכניס הסכין תחת שני הסימנים ושוחטן ממטה למעלה או שחט התחתון ממטה למעלה והעליון כהלכתו דהוי חלדה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:6"
+        },
+        "7": {
+          "he": "שחיטתו פסולה. כל זה ספק פסולה דבעיות ולא איפשטא נינהו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:7"
+        },
+        "8": {
+          "he": "וכן יש ליזהר כו'. ובמרדכי סיים שגם בעופות יש למרוט הנוצות מהן וכ\"כ בעט\"ז והר\"ב סמך אמ\"ש בס\"ס כ\"ג לכתחלה אין למרוט אם יוכל לשחוט בלא זה וממילא נשמע כל שאינו יוכל לשחוט בלא זה ימרוט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:8"
+        },
+        "9": {
+          "he": "ויש לחוש לדבריו לכתחלה. כלומר בזה שבמקום ששוחט הוא מגולה אבל בדין הראשון כששוחט בראש הסכין והסכין במקום ששוחט מתכסה מהעור משמע דעת המחבר דאפילו בדיעבד פסול וכן משמע בב\"י והעט\"ז כתב צריך ליזהר שלא יכניס הסכין בשעת שחיטה תחת העור בשום מקום בין כנגד הסימנים בין כנגד הסכין שלא כנגד הסימנים עכ\"ל ולא ביאר יפה דברישא בדיעבד פסול והב\"ח השיג על המחבר מהתוס' והגהת אשי\"רי שאסרו אף דיעבד ולא אבין השגתו די\"ל דהתוס' מיירי שהסכין במקום ששוחט בו הוא מכוסה ובהג\"א מיירי להדיא בהכי ע\"ש ועיין במהרש\"ל פ\"ק דחולין סי' מ\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:9"
+        },
+        "10": {
+          "he": "אם החליד הסכין כו'. כל הדינים שבסעיף זה הם פירושים דהאבעיא החליד במעוט סימנים מהו ולא איפשטא וקי\"ל לחומרא והוי ספק נבילה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:10"
+        },
+        "11": {
+          "he": "ושחטו ממטה למעלה כו'. כתב הב\"ח צריך לפרש לפ\"ז שקודם שהחליד חתך העור והחליד אח\"כ תחת מיעוט הראשון של הסי' דאל\"כ ה\"ל תחת העור ובלא\"ה פסולה וכ\"כ התוס' והרא\"ש לדעת ר\"ת שגם הוא פי' החליד תחת מיעוט קמא עכ\"ל ולא ירדתי לסוף דעתו דודאי לר\"ת שפי' החליד תחת מיעוט קמא ושוחט שוב כל הסימנים בהחלדה צ\"ל כן אבל בדין זה דאינו שוחט רק המיעוט בחלדה וגמר השחיטה שלא בחלדה אה\"נ דלהוי תחת העור ומבעיא אי הוי חלדה אף במעוט סימנים או נימא כיון שגמר השחיטה שלא בחלדה כשר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:11"
+        },
+        "12": {
+          "he": "וכן אם שחט רוב סימן א' בבהמה כו'. אבל בעוף כיון שנשחט סימן אחד הוכשר ותו לא פסיל ביה חלדה כ\"כ הפוסקים וע\"ל סי' כ\"ג ס\"ק ט':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:12"
+        },
+        "13": {
+          "he": "וכן אם שחט מיעוט הראשון בחלדה כו'. אושט קאי דאילו אקנה לא נאסר משום חלדה במעוט קמא מידי דהוה אחצי קנה פגום וכדאיתא בש\"ס ופוסקים וט\"ו ס\"ס כ\"א וסי' כ\"ג ס\"ה וכ\"כ בדרישה. והב\"ח כתב בסעיף ח' וז\"ל ומצאתי למהרש\"ל שכתב וז\"ל ולפי מ\"ש הטור דיש אוסרים הגרים שליש ושחט ב' שלישים מכ\"ש שיש לאסור שהה או החליד במעוט קמא אפילו בקנה ולא אמרי' דמ\"ש מחצי קנה פגום דא\"כ הגרים שליש ושחט ב' שלישים כ\"ש דנימא הכי אדרבה אמינא אפילו מאן דפליג אהגרים שליש ושחט ב' שלישים וסבר דכשר משום שאינו מקום שחיטה אבל בשהה או החליד מודה גם מסתבר לומר הכי דמ\"ש מעוט בתרא שכבר הכל שחט כראוי ואפ\"ה אסרינן מאחר דנעשה כעין פסול בענין שחיטה כ\"ש במעוט קמא עכ\"ל ודברים ברורים הם ודלא כמ\"ש מהרו\"ך דבמעוט קמא של קנה לא נאסר משום חלדה ושרי ליה מארי' עכ\"ל הב\"ח ובאמת מצאתי כן בתוך הגהות מהרש\"ל לטור אבל תמה אני אם כתבו דמי איכא למ\"ד שהייה במעוט קמא דקנה פסול הא ש\"ס ערוכה פ' השוחט (חולין דף כ\"ח ע\"א) נשחט חצי גרגרת ושהה כדי שחיטה וגמר שחיטתו כשרה וכן כתב הרמב\"ם פ\"ג מה\"ש דין ו' שחט בקנה לבדו חציו או מעוטו ושהה זמן מרובה ה\"ז חוזר וגומר השחיטה ואין בכך כלום עכ\"ל והוא פשוט ומוסכם מכל הפוסקים כמו שנתבאר לעיל סי' כ\"ג ואפילו היש אוסרים בהגרים שליש ושחט ב' שלישים והוא הרשב\"א מתיר להדיא בשהה במעוט קמא דקנה וטעמא דדוקא בהגרמה פסול כיון דבעידנא דנפקא חיותא (ר\"ל בשעה ששוחט שליש האמצעי נשחט הרוב) ליכא רובא במקום שחיטה משא\"כ בשהה והחליד דכשר לכ\"ע והכי משמע בתוספות דף ל' ע\"ב ד\"ה החליד ובהרא\"ש שם ושאר פוסקים וכן פי' הריב\"ש סי' קפ\"ז בהדיא לדברי הרמב\"ם אלו שהעתיק המחבר דמיירי בוושט דבקנה כשרה החלדה במעוט קמא ע\"ש ובפ' השוחט (חולין דף ל\"ב ע\"ב) מוכח נמי להדיא דחלדה לא גרע מפסוקת הגרגרת ופסוקת הגרגרת קי\"ל לקמן סי' ל\"ד דלא מיטרפא אלא ברובא וע\"כ צ\"ל דמה שנמצא ע\"ש מהרש\"ל היינו לדידן דמחמרי' בהגרמה במיעוט קמא וה\"ה בכל הלכות שחיטה והיינו מטעמא דאין אנו בקיאין בבדיקת הוושט וחיישינן שמא נגע בוושט וכדלעיל סי' כ\"ג אבל ודאי מדינא ולדעת הפוסקים והרמב\"ם מכללם כשר בין שהייה בין חלדה במיעוט קמא דקנה וכמ\"ש הדרישה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:13"
+        },
+        "14": {
+          "he": "רוב חלל הקנה. אבל ברוב הטבעות לא סגי לפי שאינן מקיפות את כל הקנה ואע\"פ ששחט רובה עדיין לא שחט רוב הקנה חוץ מטבעת העליונה שהיא מקפת את כל הקנה. טור וע\"ל ר\"ס ל\"ד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:14"
+        },
+        "15": {
+          "he": "ויש מי שפוסל בדרסה. אבל בהגרמה מכשיר דכיון דהגרמה לאו מקום שחיטה הוא הוי כאלו הוליך בידה או ברגלה לאחר שחיטה. תוס' והרא\"ש ושאר פוסקים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:15"
+        },
+        "16": {
+          "he": "ושחט ב' שלישים כשרה. הטעם דהא יש כאן רוב בשחיטה וכן בשחט שליש והגרים שליש ושחט שליש כשר מה\"ט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:16"
+        },
+        "17": {
+          "he": "ה\"ז פסולה. דהא יש כאן רוב בהגרמה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:17"
+        },
+        "18": {
+          "he": "ואם דרס או החליד כו'. דע שכל הסעיף הוא לשון הרמב\"ם פ\"ג מה\"ש ונתחבטו בפירושו הריב\"ש בתשו' סי' קפ\"ז והר\"י ן' שושאן והכסף משנה לפי שהוקשה להם מ\"ש דהחליד בשליש הראשון היא פסולה ודאי ולפני זה כתב דשחט מיעוט סימנים בחלדה וגמר שלא בחלדה ה\"ז ספק נבלה (וכמ\"ש בס\"ק י\"א) ועוד מה ענין אם דרס או החליד בשליש ראשון או אמצעי לכתבו כאן אצל דיני הגרמה ועוד הקשה הריב\"ש דע\"כ בקנה מיירי מדמפליג בין דרס או החליד להגרים וא\"כ מ\"ש מחצי קנה פגום והאריך בישובו והעלה בסוף דבריו שדברי הרמב\"ם אינם נכונים וקשה להולמם. ובכ\"מ הביא תשו' הר\"י ן' שושאן שהאריך עליו במליצותיו ודחה לכל דברי הריב\"ש ונתכוין לדבר אחד עם מ\"ש הכ\"מ וז\"ל וי\"ל שמ\"ש הרמב\"ם שאם דרס או החליד בשליש ראשון פסולה כך פי' אם דרס או החליד שליש ראשון ושחט יפה שליש שני ודרס או החליד שליש שלישי וכן אם שחט שליש ראשון ודרס או החליד שליש אמצעי ושחט יפה שליש האחרון ה\"ז פסולה נבלה ודאית שלא יעלה על דעתנו לומר כשם שבהגרמה שחט שליש והגרים שליש ושחט שליש כשרה כך הדין בדרסה וחלדה לזה אמר דל\"ש החליד שליש ושחט שליש והחליד שליש דבכה\"ג אפילו בהגרמה פסולה ל\"ש שחט שליש והחליד שליש ושחט שליש הכל פסול בדרסה וחלדה וכן הדין נותן מפני שהגרמה אינו במקום שחיטה ולכן כששחט שליש ראשון ואחרון במקום שחיטה הרי שחט ב' שלישים במקום שחיטה ומה לנו באמצעי שהגרים כיון ששחט ב' שלישים במקומה אבל חלדה ודרסה שהם במקום שחיטה באמצע ג\"כ פוסלת אבל בשחט מיעוט סימנים בחלדה וגמר בכשרות מספקא לן ולכן פסק ה\"ז ספק נבלה עכ\"ל ולכך העתיק כאן המחבר לשון הרמב\"ם בין בשליש \"ראשון בין בשליש \"אמצעי בלא ה' וכל דבריהם דחוקים מאד ואינם נראין כלל כידוע למבין ומה אעשה שלפע\"ד דברי הרמב\"ם פשוטים דלכך דקדק בצחות לשונו ואם דרס או החליד בין בשליש \"הראשון בין בשליש \"האמצעי בה' וקאי אמ\"ש הגרים שליש ושחט ב' שלישים או שחט שליש והגרים שליש ושחט שליש דכשרה עלה קאי ואמר דלא תימא כיון דבהגרים שליש א' כשר א\"כ ה\"ה כשדרס או החליד שליש הראשון או האמצעי יהא כשר דכיון שהגרמה לאו במקום שחיטה היא לא נחשוב אותה כלל וא\"כ יחשב כאלו דרס או החליד במיעוט קמא קמ\"ל דליתא ולז\"א ואם דרס או החליד בין בשליש הראשון כלומר שלא שחט שליש והגרים שליש ושחט שליש אלא דרס או החליד שליש והגרים שליש ושחט שליש או בשליש האמצעי כלומר שלא הגרים שליש ושחט שני שלישים אלא הגרים שליש ודרס או החליד שליש ושחט שליש שחיטתו פסולה והיינו כדקאמר בש\"ס דבעינן רובא בשחיטה דוקא והשתא מיירי הרמב\"ם שפיר בקנה ולכך הוי ודאי פסולה וזה ברור בעיני:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:18"
+        },
+        "19": {
+          "he": "וכן בקנה לצד מטה. דנקיבתו במשהו כדלקמן ס\"ס ל\"ד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:19"
+        },
+        "20": {
+          "he": "ה\"ז פסולה. משמע ודאי פסולה ואע\"ג דהחליד במיעוט קמא דושט הוי ספק נבלה כדלעיל ס\"ק י\"א התם ה\"ט כמ\"ש הריב\"ש שם דכיון דבדרך שחיטה הוא י\"ל דלאו נקב הוא דהכי אגמריה רחמנא למשה לא תשחוט רובא בהחלדה אבל מיעוטא שרי אבל הגרמה כיון שאינו במקום שחיטה הוי נקב. ויתר דיני הגרמה נתבארו בסי' כ' ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:20"
+        },
+        "21": {
+          "he": "מהלחי ומהבשר כו'. אבל אם נתלש הבשר עם הסימנים אפילו נעקרו כולן ס\"ל דכשרה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:21"
+        },
+        "22": {
+          "he": "נשמט א' מהן וכו'. דאע\"ג דעוף הכשרו בסי' אחד מ\"מ בעינן שיהא שניהם ראויים לשחיטה. הרשב\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:22"
+        },
+        "23": {
+          "he": "ואנו נוהגין להטריף כל עיקור כו'. פי' במה שמשמע דס\"ל להמחבר דאפילו עיקור בשעת שחיטה אינו פסול אלא בנעקר קודם גמר שחיטת רובו בזה אנו נוהגין להטריף כל עיקור אפילו כל שהוא (ר\"ל מכח המנהג אבל מדינא כשר וכדכתב הר\"ן והפוסקים וכן משמע בטור דלא כהב\"ח שכתב דהטור מיירי שנשמט קודם שחיטה ע\"ש ודו\"ק) בין ששחט מיעוט קמא ונעקר אפילו כל שהוא בשעת השחיטה בין במיעוט בתרא בין בקנה בין בוושט דכיון דאירע פסול בשחיטה נהגינן להטריף הכל משום חששא דשמא ניקב הוושט כדלעיל ס\"ס כ\"ג וסי' ל\"ד גבי פסוקת הגרגרת וכמה דוכתי אבל אם נשמט קודם שחיטה מוקמינן ליה אדינא (כן הוא בשחיטות הר\"ץ ושאר שחיטות אחרונים וכ\"כ הב\"ח) דלהמחבר דוקא כשנעקרו כולן מן הבשר שבלחי או רובן ומעוטן נשאר מדולדל אז דוקא הוי עיקור ומ\"ש הר\"ב ודוקא כו' קאי אהיכא דאפילו מדינא הבהמה אסורה אפ\"ה חלבה כשר ומשמע מדברי הר\"ב דאפילו בנדלדלו רובן בחייו כשר לענין חלבו או ביצים שלו וכ\"פ הרשב\"א בת\"ה ומביאו ב\"י מיהו אע\"ג שכן משמע גם כן מדברי הטור ומדברי הרמב\"ן שהביא הר\"ן פ\"ק דחולין אכן התוס' פ' א\"ט דף מ\"ד ד\"ה והא איכא עיקור כו' ס\"ל דנדלדלו ברובן הוי טרפה ממש אפילו בחייה וכן מוכח דעת הרי\"ף והרמב\"ם וכן משמע דעת רש\"י דף מ\"ג ע\"א וכמ\"ש בסי' כ\"ט ס\"ק ט' וכ\"כ הרא\"ה בס' בדק הבית דף כ\"ג וכן מוכח בש\"ס דף מ\"ב ע\"ב גבי מאי דפריך התם וליחשוב נמי סימנים שנדלדלו ברובן טרפה ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:23"
+        },
+        "24": {
+          "he": "אלא שאין שחיטה מועלת בו. שמחמת העיקור מתנדנדין הסימנים וא\"א שתשחט בהכשר ר\"ן בשם רמב\"ן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:24"
+        },
+        "25": {
+          "he": "אבל אם מיעוט הנשאר כו'. הטעם כתב הרשב\"א דכשהוא מתפרק במקומות רבים הדבר ניכר שנתפרק בכח ומה שנשאר מחובר חבור מדולדל הוא אבל כשנתפרק במקום א' אותו המיעוט נשאר בחבורו בחוזק כשהיה הלכך הוי חבור והדרא בריא עכ\"ל ומביאו ב\"י וד\"מ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:25"
+        },
+        "26": {
+          "he": "שחט א' מהסימנים כו'. בעוף מיירי וק\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:26"
+        },
+        "27": {
+          "he": "ה\"ז פסולה. פי' ספק נבלה ופשוט הוא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:27"
+        },
+        "28": {
+          "he": "ולא אמרינן דמחמת זריקה כו'. עיין לקמן סי' כ\"ה ס\"ק ד':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:28"
+        },
+        "29": {
+          "he": "ה\"ז פסולה. דכיון דתפס בסימנים אפשר לשמוטה שתשחט ואפשר שנשמט קודם שחיטה והוי ספק נבלה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:29"
+        },
+        "30": {
+          "he": "שיביא בהמה אחרת וישחוט כו'. וה\"ה דמהני שיביא בהמה אחרת ויעקרנה וישחוט אם הראשונה מאדים יותר כשר ואם לאו פסול והא דלא מהני הקפה באותו סימן עצמו כדלקמן סי' ל\"ד גבי פסוקת הגרגרת דהכא כיון דשמוטה לאו טרפה היא א\"כ חשוב הסימן כחי ואפילו נשמט קודם שחיטה יאדים חתך של קודם שחיטה מחתך של אחר שחיטה תוספות פרק א\"ט דף נ\"ד ע\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:30"
+        },
+        "31": {
+          "he": "וכן עיקר. ובתשו' שארית יוסף סי' מ\"ז נסתפק בנמצא על הארץ וכ\"כ הב\"ח דאפילו בנמצא הטבעת על הארץ ואפילו נחתך הטבעת מצד א' הוי ספק בשחיטה ופסול דלא כנמצא בסוף תשובת משאת בנימין שהתיר בנמצא על הארץ ועי' בסי' ל\"ד ס\"ק ט\"ז:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 24:31"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "ולאסור שתיהן. הטור בשם הרא\"ש כתב בזה הביא ולא הוליך החיצונה כשירה והפנימית פסולה הוליך ולא הביא הפנימית כשירה והחיצונה פסולה הב\"י פירש בהביא ולא הוליך משו\"ה הפנימית פסולה לפי שלא עבר עליה רק חצי הסכין ופוסק כשמגיע ראש הסכין לחיצונה וה\"ה אם לא פסק והביא גם על הפנימית כל אורך הסכין שהיא כשרה אלא אורחא דמילתא נקט וכן איפכא בהוליך ולא הביא וכתב בפרישה ע\"ז שהוא דחוק דמאן יימר דזהו אורחא דמילתא ומביא פי' אחר בשם רנ\"ש דפירש פנימית היינו החיצונה מן הכותל כו' והוא דחוק טפי לפרש כן ומו\"ח ז\"ל פי' וז\"ל דוקא בהתחיל לשחוט בקצה הסכין שאצל הקתא דאז כששחט בחיצונה כמלא צוואר והתחיל להביא הסכין על הפנימית בהכרח שיביא הסכין גם בחיצונה לשוחטה עוד שהרי בעוד שלא עבר הסכין על הפנימית לא שחט בחיצונה רק כמלא צואר ולא נשאר חוץ לצואר החיצונה רק כמלא צואר אח' ואם כן ודאי יש לחוש לדרסה דפנימית מאחר שצואר החיצונה נשחט במקצת והפנימית לא נשחט עדיין כל עיקר והוא מעביר הסכין על שתיהן יחד ומתכוין לשחוט שניהם בשוה כו' עכ\"ל וקשה מה איכפת לן באורך הסכין ב' צוארים הא גם בשלשה יש חשש זה דאם אנו רואין שבאותה שעה שנחתך צואר החיצונה נחתך גם פנימי' בשוה והוא התחיל בחיצונה ע\"כ שהפנימי נדרסה דהא אין לה שיעור כמו לחיצונה ואי לאו שנדרסה למה היה לה די בחלק מועט מן החיצונה והנלע\"ד שודאי הסברא שהניח מו\"ח ז\"ל אמת בזה כשנשחטו בשוה אלא שאנו צריכים לפרש הפשט בדרך אחר דמלשון התנא שאמר שחט ב' ראשים כאחד משמע שגמר שחיטה הוי ממש בשוה ואין שום קדימה לאחד יותר מלחבירו בגמר דאם היתה קצת קדימה היה נקרא בזה אחר זה אלא כדפרישית ועיקר כוונת התנא להשמיענו דאין מה שבתוך הצואר בחשבון עד שיעבירנו ממנו והנה אם הסכין ארוך כשלשה צוארים מצינו דבר זה שפיר דהיינו שמניח אורך שיעור שני צוארים על שני הצוארים וכשהביא ממילא הוה ההתחלה והסיום בשוה לשניהם דהא על כל צואר יש חלק כנגדו וכשהביא אורך צואר אחד נשאר בתוך הצואר של כל אחת אורך צוואר ובאותו פעם נשחטו שניהם ממילא הוה בשוה ממש וכשרים שניהם אבל אם הסכין כשני צוארים א\"א לך לומר בשום פנים ששחיטתן יהיה נגמר בשוה וכשרים שניהם כי אם תניח הסכין ארכו על שני הצוארים ובכל אחד ישחט במה שעליו פסולים שניהם כי כל אחד נשחט רק כשיעור אורך צואר אחד וג\"כ א\"ל שהפנימית כשירה כיון שמעביר כל הסכין עליה דא\"כ לא הוה גמר שחיטת שניהם בשוה דהא החיצונה נשחט קודם לה אלא ע\"כ צריך אתה למצוא שהוא מניח צד שאצל הקתא על שפת החיצונה ממילא יש לחיצונה כמלא שני צוארים וכשהוא חותך שיעור ב' צוארים מגיע על הפנימית שיעור צואר אחד שהרי שחיטתה נגמרת בשוה בשעה אחת ממש עם החיצונה וע\"כ אין הכשר אלא לחיצונה והפנימית נדרסה כי לא היה לה רק שיעור צואר אחד וכן להיפך אם הוליך ולא הביא וע\"כ צריך להניח ראש הסכין אצל שפת הפנימי' ממילא הפנימית כשרה ולא החיצונה כיון שהיא נשחטת בפעם אחת עם הפנימית כנ\"ל לפרש בס\"ד הפשט בטוב טעם אלא שלענין הלכה פסק הש\"ע כדעת הרשב\"א דכיון שראינו שהאחת נדרסה אמרינן שגם השניה נדרסה אע\"פ שהיה לה כשיעור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 24:1"
+        },
+        "2": {
+          "he": "רוב המפרקת. במרדכי כתב שראבי\"ה דקדק מפרש\"י שפירש ריש פרק השוחט אהא דאמרינן דלא לשוויה גסטרא חטיהו והוציא את דמו ותו לא ומ\"ה אסר כשחתך כל המפרקת ול\"נ למהר\"ם דהאי ותו לא דפרש\"י פירושו שא\"צ לשחוט יותר ע\"כ וגם לענ\"ד תמוה דעת ראבי\"ה דהא פירש במתני' דהשוחט מן העורף דאם חתך המפרקת קודם שחיטת הסימנים נטרף משמע דאחר הסימנים אין חשש כלל וכ\"כ בדרישה ר\"ס א' והאריך בראיות עוד משאר פוסקים ובת\"ה סי' קפ\"ז כתב דאין איסור זה אלא חומרא בעלמא ומצאתי למהר\"ר ליב מפראג שכתב שהתיר הלכה למעשה בחתך כל המפרקת אחר הסימנים וכן נראה עיקר אלא שכיון שרמ\"א כתב שאין לשנות מן המנהג שנהגו להטריף אפילו ברוב המפרקת אין בידינו להקל דלא יהא אלא דברים המותרים ואחרים נהגו בו איסור אלא דמ\"מ יש להקל בזה בכל הספיקות דאפילו רואה חתך במפרקת א\"צ לבדוק אחריו אם הוא רוב או לא וק\"ו כשאין המפרקת לפנינו בכולם יש לסמוך להקל ואין להחמיר רק אם כבר ראו שנשחט רוב המפרקת רוב גמור ולא בענין אחר והאי רוב המפרקת נ\"ל דהעיקר תלוי בחוט דהא אפילו לדעת ראבי\"ה שפי' דברי רש\"י ותו לא דאסור לחתוך אח\"כ ע\"כ לא קפיד אלא אחוט שהחיות תלוי בו וע\"ז אמרה תורה דלא ימית הבהמה אלא ע\"י הסימנים ולא בד\"א דאל\"כ נימא שלא יחתוך כלל שום דבר אחר הסימנים אלא ודאי כדפרישית וראוי לסמוך להקל בזה כיון שטרפות זו אינה אלא חומרא. אחר כתבי זאת ראיתי בתה\"ה דף כ\"ג וז\"ל וקרא אתי דלא לשוויה גיסטרא כלומר במקום שזב בלבד דהיינו הסימנים אבל לא ישבור המפרקת שאילו שבר המפרקת קודם שתצא נפשה מבליע דם באיברים ואסור כדאמרי' פרק כל הבשר השובר מפרקתה של בהמה קודם שתצא נפשה מבליע דם באיברים עכ\"ל ובדק הבית חולק עליו וכתב שאין חשש זה אלא דוקא ע\"י שבירה ולא בחיתוך בשעת שחיטה ובמשמרת הבית חיזק דבריו הרשב\"א ודחה דברי ב\"ה יעויין שם ולא אכניס עצמי להכריע בזה ביניהם אבל מאד תמהתי אם יצאו דברים אלו מפי מאור עינים הרשב\"א שהרי הוא עצמו גורס בפרק כ\"ה ומבליע דם באיברים ואסור לאכול חי אבל ע\"י מליחה מותר וכמ\"ש הט\"ו סי' ס\"ז וכתב ב\"י שכ\"כ גם הרשב\"א וכך הם דבריו בתה\"ה דף ס\"ז ואי ס\"ד דקרא אתי לזה ה\"ל כלא נשחט ויש איסור אפילו ע\"י מליחה על כן נראה שאין פירוש זה עיקר ודברי ב\"ה אמת הם עכ\"פ כפי מה דקי\"ל להלכה כנלע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 24:2"
+        },
+        "3": {
+          "he": "חלדה. הוא לשון הטמנה ע\"כ נקראת חולדה בלשון זה לפי שמטמנת עצמה בארץ כן הוא בגמ' פ\"ק דחולין (דף כ):",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 24:3"
+        },
+        "4": {
+          "he": "ויש מי שפוסל גם בזה. הוא דעת הרמב\"ם בטור וק\"ל מתלמוד ערוך שאינו כן דהא בפרק בהמה המקשה (חולין דף עד) בעי רב הושיט ידו למעי בהמה ושחט בה בן ט' חי מהו כו' ואמאי לא אסרינן לה מטעם חלדה דהא אין הסכין מגולה אלא ע\"כ דאין חלדה אלא במה שהוא קשור בצוארה ובעל הלבוש שגג בזה בסימן י\"ד כמ\"ש שם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 24:4"
+        },
+        "5": {
+          "he": "ויש לחוש לדבריו לכתחלה. מו\"ח ז\"ל חולק על פסק זה מטעם דהתוס' כתבו פ\"ק דחולין (דף כ) בשם רש\"י בפ' חטאת העוף שכנשמתכסה ראשו של סכין הוה חלדה ע\"כ יש לאסור אפילו דיעבד ע\"כ ואין מזה תפיסה כלל דהתם קאי שהוא שוחט גם הסימנים בראש הסכין והתם קאי במולק בסכין וצריך שיהיה נזהר שלא יחתוך המפרקת עם רוב בשר שעליה וכמו שהעתקתי סי' כ' ס\"ג ע\"כ צריך לנעוץ ראש הסכין תחת הבשר שעל המפרקת בענין שיהיה קיים ולמטה ממנו חותך בראש הסכין המפרקת עם הסימנים נמצא שבמקום השחיטה הסכין מכוסה וכן מבואר בהדיא בהגהת אשיר\"י ספ\"ק דחולין ממש כמ\"ש וכן ברוקח הלכות שחיטה אבל מדין זה לא מיירי שם כלל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 24:5"
+        },
+        "6": {
+          "he": "וכן אם שחט מיעוט הראשון בחלדה. פי' תחת העור ושחט מיעוט קמא מלמעלה למטה ואחר כך שחט השאר שלא בחלדה וזהו שמוסיף על חלוקה ראשונה ששם גרע טפי ששחט מיעוט קמא מלמטה למעלה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 24:6"
+        },
+        "7": {
+          "he": "וגמר שם חתיכת כל הקנה כשירה. בטור כתוב אפילו למאן דפוסל שהייה וחלדה במיעוט בתרא והטעם דכאן אין עושה פסול במקום שחיטה דמה שחותך אחר כך במיעוט הקנה הוה כאלו חותך ברגל אחר שחיטת רוב הסימן בעוף או אחר רוב שנים בבהמה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 24:7"
+        },
+        "8": {
+          "he": "מהלחי ומהבשר. משמע דאם הבשר על הסימנים עדיין כשר וכ\"כ ב\"י בשם רשב\"א בהדיא אבל בטור משמע דטריפה כל שנשמט מהלחי וכן משמע באשיר\"י שלא הביא התירוץ דאגם אגומי בגמרא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 24:8"
+        },
+        "9": {
+          "he": "ונשמט אחד מהם. בטור כתוב שנעקר הסי' או נשמט כו' וצ\"ל פירושו דנעקר היינו בכח אדם ונשמט היינו מעצמה של בהמה ע\"י נדנודה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 24:9"
+        },
+        "10": {
+          "he": "אבל בחייו כשר כו'. הוכיחו זה בתוס' פ\"ק (דף ט') מכח קושיא שהקשו פשיטא שלא מהני ביה שחיטה כיון שכבר נטרף אלא ודאי דלא נעשית טריפה בשביל עיקור זה אלא שהלכה למשה מסיני שלא תועיל בו שחיטה עד כאן וא\"ל א\"כ שלא נטרפה למה יהיה אסור בעוף כשנשמט אחד ואח\"כ שחט השני דהא שחיטה יפה היא תירץ הרשב\"א דאף על גב דהכשרו של עוף בסימן אחד מ\"מ בעינן שיהיו שניהם ראויים לשחיטה וא\"ל ממ\"ש בגמרא פרק בהמה המקשה (חולין דף ס\"ט) בבעיא דחלב בן פקועה או דילמא התם אית ליה תקנתא בשחיטה כו' כמו שהבאתי בסי' י\"ד סעיף ח' הא כאן בעיקור לית ליה תקנתא על ידי שחיטה ואפ\"ה החלב מותר דלא קאמר התם אלא שהאיסור של אבר מן החי הוא קל מאיסור יוצא כיון ששייך תקנה בשום פעם לאותו איסור משא\"כ באיסור יוצא שאין לו תקנה כלל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 24:10"
+        },
+        "11": {
+          "he": "הא דפסול כו'. משמע בהדיא שאפילו בשעת שחיטה לא אסרינן בעיקור של שמוטת הסי' אלא בנעקר כולו דהא בסעיף שקודם זה כתב שנעשה קודם גמר שחיטה ממילא נעשה העיקור בשעת התחלת השחיטה וע\"ז קאמר בסעיף זה דכשר אם נשאר כל שהוא ואין שום חילוק בין תוך השחיטה או קודם השחיטה ואין נמצא בשום פוסק שיחלק בזה ואין בו שום סברא לחלק דכיון שכל שלא נעקר הרוב אין כאן טריפות ולמה נאסור מכח שאירע כן בשעת שחיטה וכן מוכח להדיא מדברי התוס' שזכרתי קודם לזה שהקשו פשיטא דלא מהניא ביה שחיטה וכן הקשו עוד שם ותימא דמה ענין זה העיקור להלכות שחיטה כו' והוצרכו ליישב דאיירי כשנשמט הסימן ואח\"כ שחטו עכ\"ל ואי תימא דבשעת שחיטה חמיר טפי דפוסל שם עיקור אפילו בלא נעקר רק מקצת ולא בעינן כולו רק אם נעשה קודם השחיטה לא היו התוס' מקשים כלום דהא יש חילוק גדול בין שעת השחיטה לקודם השחיטה אלא ע\"כ ברור דאף בעיקור שבשעת שחיטה אין פוסל אא\"כ בכולו וכמו שמוזכר בסעיף זה וכן מבואר בדברי הר\"ן בשם הרמב\"ן שמביא ב\"י דעיקור היינו סימנים שנעקרו כולם או רובם בדבר שעושה אותה טריפה והוה ליה למימר שאם אירע לו כן בשעת שחיטה משהתחיל בסימנים שתהא נבילה לפי שכיון שנשמטה באותה שעה א\"א שתשחט בהכשר שמחמת העיקור מתנדנדים הסימנים עכ\"ל ודבר פשוט שגם כשנעשה עיקור זה קודם השחיטה היא טריפה דמתניתין היא פסוקת הגרגרת אלא דמ\"מ לא הוה נבילה עד שיהיה כן בשעת שחיטה וכ\"פ ב\"י הרי דעכ\"פ אין חומרא אפילו בשעת שחיטה רק בנעקרו כולן או רובן וכתבתי זאת לפי שמו\"ח ז\"ל כתב שנ\"ל אם נעשה העיקור בשעת שחיטה אוסר אפילו בכל שהוא שנעקר ולא בעינן כולו או רובו אלא בנעשה קודם שחיטה וכתב כן מצאתי וכן משמעות סמ\"ק ומהרי\"ו שלא הזכירו שיעור בעיקור זה ולא ידענא שום מקום לחומרא זאת כי כל הראשונים והאחרונים שלא כתבו שיעור כתבו בלשון זה שנעקרו הסימנים ומשמעות זה כל הסימנים רק שבהג\"ה שחיטות של מהרי\"ו כתב שם כן דבשעת שחיטה אוסר אפילו במיעוט ואולי ע\"ז רמז מו\"ח ז\"ל במ\"ש כן מצאתי אבל עיקרא דמילתא היא שאפילו בשעת השחיטה אין עיקור אוסר אלא בכולו ובעל הג\"ה דשחיטות לא כתב יפה בזה וכ\"כ בס' זבחי ריב:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 24:11"
+        },
+        "12": {
+          "he": "ומעט כאן פסול. א\"ל הא כתב ברישא בנשתייר משהו כשר דכאן שנתפרק בהרבה מקומות ניכר שנתפרק בכח ומה שנשאר הוא חיבור מדולדל אבל ברישא שנתפרק במקום א' אותו מיעוט הנשאר נשאר בחבורו בחוזק כ\"כ רשב\"א:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 24:12"
+        },
+        "13": {
+          "he": "ה\"ז פסולה. וסיים מהרי\"ק שם וא\"ל אם איתא דהוה שמוטה מקמי הכי הוי חזי ליה או מרגיש בו כי מי יוכל להבחין בזה הלא הוא כעצמים בבטן המלאה עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 24:13"
+        },
+        "14": {
+          "he": "מיהו השוחט נאמן כו'. לכאורה זה סותר מ\"ש בסמוך בשם מהרי\"ק שא\"א בזה לידע בשעת שחיטה דכאן מיירי שבמקום השחיטה נראה אח\"כ שינוי ממה שהיה בשעת שחיטה דהיינו שבמקום השחיטה נראה העקירה כי המקום הנעקר נתהפך ובא לשם ובזה נאמן לומר שלא היה בשעת השחיטה כן ואנו מוכרחים לומר שנעשה אח\"כ כן ע\"י פרכוס משא\"כ לעיל שלא נראה כלום מן העקירה במקום השחיטה אלא למעלה במקום חבורן בלחי והוא מכוסה עדיין בעור ודאי לא יכול להבחין בזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 24:14"
+        },
+        "15": {
+          "he": "ה\"ז פסולה. לפי שאז אפשר שהיה כבר שמוט ושחטו אח\"כ כיון שתפס הסימנים וכתב רש\"ל האידנא אפילו בלא תפס אסור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 24:15"
+        },
+        "16": {
+          "he": "שיביא בהמה כו'. אבל לא באותה בהמה כי שמא האודם הוא מחמת שהיה בה עדיין חיות ול\"ד למ\"ש לקמן סימן ל\"ד סעיף ט' שמדמין באותה בהמה לפי ששם האודם הראשון טריפה ע\"כ אין מכשול לפנינו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 24:16"
+        },
+        "17": {
+          "he": "מהגרגרת שלם כשר. זה דעת האגור הטעם שע\"י גלגול הגרגרת נעשה כן ורש\"ל כתב ע\"ז להטריף כמ\"ש רמ\"א כאן וז\"ל רש\"ל הלא כל ספק בשחיטה פסולה ומי יעיד שע\"י גלגול הגרגרת של אחר שחיטת רוב הסימנין הוא בא שמא הוה בתחלת השחיטה או באמצע השחיטה וכן מסתבר לומר שבדחיקת הסכין על הגרגרת בא שקפץ חוליא אחת ממקומה עכ\"ל וכן מסיק מו\"ח ז\"ל ואפילו באין הטבעת שלם ואין חילוק בין נמצא על הסכין בין נמצא על הארץ דבכל ענין הוא ספק בשחיטה דשמא בא לידי עיקור כל שהוא עכ\"ל ולטעמיה אזיל דס\"ל דעיקור שבשעת שחיטה אוסר אפילו בכל שהוא אבל כבר נתברר דאין חילוק בזה אלא בכ\"מ בעינן כולו כמ\"ש בסעיף ט\"ז ולפ\"ז אם נמצא מן הטבעת פחות מרובו על הסכין או על הארץ פשיטא דכשר שהרי אין כאן טריפות לגמרי אף אם נעשה ע\"י דחיקת הסכין ונראה אפילו אם ספק לנו אם הוא הרוב או לא ניזול לקולא מטעם ספק ספיקא ספק שמא לא היה הרוב את\"ל שהוא הרוב שמא נעשה ע\"י גלגול הגרגרת. ופעם אחת בא לידי באחד ששחט אווז ומצא אחר השחיטה על חוד הסכין טבעת אחת דהיינו שהיתה חתוכה ושני צדדי החיתוך על שני צדדי הסכין והכשרתי דבזה נראה ברור שלא ע\"י דחיקת הסכין על הגרגרת נקפצה חוליא אחת ממקומה שהרי נחתכה הטבעת ואין לחוש שמא תחלה נדחפה ממקומה ואח\"כ חתך בזה דאין לחוש לדחיפה כלל אפי' לדעת המחמירים אלא כשרואין שלא נחתך הטבעת ויש להם קצת סברא שכח הסכין דחפו ולא היה בו כח לחתכו אבל כאן שאנו רואין שנחתך למה לנו להחזיק איסורא שהיה תחלה דחוף תדע לך דא\"כ כשנמצא בשחיטה שתי חתיכות בקנה וטבעת אחת ביניהם ואף שלא נתלשה משם מ\"מ נימא שאותה הטבעת נדחפה ולא היו שם שתי חתיכות סמוכות וכ\"ת הא נמי טריפה הא פשיטא דליתא דהא כתב בסי' כ\"א שחט בב' וג' מקומות כשירה דפשוט משמע אפילו אם הם סמוכים וטבעת אחת ביניהם אלא ודאי דאין סברא להחזיק ריעותא אלא כשרואין שלא נחתך הטבעת אלא בא כולו שלם ע\"ז אנו אומרים שמא נדחף בלא חתיכה. ובספר משאת בנימין ראיתי בסופו בחידושי דינים שלו וז\"ל פעם אחת שחט השוחט אווזא וכשבא לכסות את הדם מצא טבעת שלם על האפר והכשרתי ואע\"ג דבספר שארית יוסף בסי' מ\"ז השיב לי על דברי ובסוף דבריו נשאר בספק ולא הכריע מ\"מ כמה גדולים ושוחטים הסכימו עמי להכשיר וכן נראה עיקר שהרי האגור וב\"י התירו בנמצא על הסכין אלא שהרב רמ\"א החמיר וחידוש הוא והבו דלא לוסיף עלה ואין לאסור רק בנמצא על הסכין עכ\"ל וכדאי הם הב\"י והאגור שמכשירים בכל גווני שנסמוך עליהם בהנהו מילי שזכרנו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 24:17"
+        },
+        "18": {
+          "he": "רגלו בקרקע. וה\"ה בכותל ובקצת ספרים כתוב שלא ידחוק והוא ט\"ס וצ\"ל שידחוק:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 24:18"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "רוב המפרקת. עבה\"ט סק\"ג ועיין בתשובת בית יעקב סוף סי' קס\"ב העלה ג\"כ שלא כדעת רמ\"א ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 24:1"
+        },
+        "2": {
+          "he": "לתלוש הצמר. עבה\"ט סק\"ח ומ\"ש דאסור למרוט נוצה כו' משום צעב\"ח אישתמיטתיה דברי הרמ\"א באה\"ע סוף סי' ה' בשם מהרא\"י שכתב כל דבר הצריך לרפואה או לשאר דברים לית ביה משום צעב\"ח ומ\"מ העולם נמנעים דהוי אכזריות ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 24:2"
+        },
+        "3": {
+          "he": "הצמר המסובך. עיין בש\"ס בכורות דף כ\"ד ע\"ב בתוס' שם בד\"ה השוחט ולקמן סימן ש\"ח סעיף ג' ודו\"ק:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 24:3"
+        },
+        "4": {
+          "he": "ואנו נוהגין להטריף. עש\"ך ס\"ק כ\"ג מ\"ש נוהגין להטריף כל עיקור אפילו כל שהוא כו' דכיון דאירע פסול בשחיטה נהגינן להטריף הכל משום חששא דשמא ניקב הושט עכ\"ל ועיין בתשובת גבעת שאול סימן כ\"ח שכתב דלפ\"ז היכא דתפס הקנה בידו ויודע בודאי שלא נגע בושט שחיטתו כשירה אך דברי הש\"ך תמוהים כו' ע\"ש שהעלה דאפי' תפס הקנה בידו נמי פסולה עיין פמ\"ג:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 24:4"
+        },
+        "5": {
+          "he": "ונ\"מ לענין חלבו. עט\"ז ס\"ק י' ועיין בתשובת ח\"ס ח\"ב סימן כ\"ט מה שכתב בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 24:5"
+        },
+        "6": {
+          "he": "ואין לשנות. עבה\"ט ועיין בתשובת שבו\"י ח\"ב סי' נ\"ה שהוא היה נוהג בנמצא על הארץ להכשיר בהפ\"מ וכה\"ג ואם נחתך הטבעת באמצע והיא תלויה בקנה או אפילו מונח או תלוי באמצע על הסכין או על הארץ אין להחמיר וכתב עוד שקבל משוחט מומחה שאם תרצה ליזהר שלא יבא לידך ספק כזו בטבעת מגרגרת שהוא מצוי באווזים ישחט שחיטה כקולמוס בשיפוע דאז בדוק ומנוסה שלא ימצא שום טבעת בשחיטתם ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 24:6"
+        },
+        "7": {
+          "he": "או יגביהנו. עיין בתשובת שבו\"י ח\"ב סי' נ\"ו שנשאל בשוחט ששחט ודחק באצבעו על הקנה שנתמעך ושמע חוזק שבירת הקנים שבגרגרת אם יש חשש איסור וכתב דודאי לא יפה עושין השוחטין שדוחקין כן על הסימנים באצבעותיהם ויש לחוש שמא יקפוץ אחד מן הקנים וע\"י עוקץ הקנים ינקוב הושט ויש למחות בידם מ\"מ בדיעבד לא מחזקינן איסורא דפסיקת הקנה ברוחב ברובא. ובאורך אפילו לא נשתייר רק משהו למעלה כו' וכ\"ש כשהעור שלם דאין לחוש כשאין ריעותא אחרת לפנינו ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 24:7"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "כשרה.  וכתב בש\"ך דאפילו לכתחלה מותר ורש\"ל וב\"ח האריכו ומסקי בין בבהמה בין בעוף אין לשחוט אלא בסכין שהוא כשיעור ב' צווארין של אותו דבר הנשחט:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:1"
+        },
+        "2": {
+          "he": "שתיהן.  וכתב בש\"ך דמה שכתב המחבר אם יש בסכין כדי ג' צוארים כשרה פירושו בין שהניח הסכין בתחלת השחיטה על רוחב ב' הראשים ויצא אורך הסכין כמלא צואר חוץ להב' ראשים והוליך הסכין לצד האחר עד שלא נשאר כלום יוצא באותו צד שיצא כבר ובין שהתחיל לשחוט בקצה הסכין והוליך הסכין בשחיטתו עד שיצא כמלא צואר חוץ להראש השני דאז ודאי כיון שעל ב' הראשים עבר כמלא ב' צוארים כשר אבל פשוט אם הניח הסכין בתחלת השחיטה על רוחב ב' הראשים והוליך הסכין לאותו צד שיצא חוץ להב' ראשים כמלא צואר דזה חשיב כאלו אין בסכין אלא כמלא ב' צוארים ומה שכתב המחבר דאם לאו יש לחוש לאסור שתיהם הטעם הוא משום דכיון דאנו רואים שא' מהם דרס אמרי' שגם השני דרס שהרי בבת אחת העביר על שניהם ואין חילוק אפי' אם התחיל לשחוט בקצה הסכין ועבר חצי הסכין על השנייה שתיהם אסורות ודלא כהב\"ח שחילק בין התחיל לשחוט בקצה הסכין ובין הניח הסכין בתחלת השחיטה על ב' הראשים בדברים שאינם מתקבלים על הלב גם נראה לענ\"ד דאם התחיל לשחוט בקצה הסכין ועבר הסכין בצד האחר בענין שעל שתיהם עבר כל הסכין שניהם כשרות לכ\"ע והוא פשוט דלא כהב\"ח שחלק ע\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:2"
+        },
+        "3": {
+          "he": "כן.  וכ' בש\"ך דנראה לו דעת הרב דוקא במקום שאין הפסד מרובה יש להחמיר אבל בהפסד מרובה יש להקל (ופר\"ח כתב דאף בהפסד מועט המקיל לא הפסיד אבל בה\"י כתב דהשוחטים מטריפין עכשיו אף בה\"מ וכ\"כ ע\"י. עוד כ' דאין לשחוט עוף אפילו עוף גדול בסכין ששוחט בו בהמות כי בקל יבוא לידי דרסה. וכ' כנה\"ג להזהיר לשוחטים שלא ישחטו מיושב שהישיבה מביאה לידי דרסה. ופר\"ח כתב דבדיעבד כל שידוע לו שלא דרס מותר וכ\"כ בה\"י. פעם א' שחט א' כמה עופות לנישואין בהנחת אצבע והתירו חכמי ווילנא בדיעבד מחמת ה\"מ ולצורך מצוה. מי שאין יודע ה\"ש שצריך לעמוד עליו מתחלה ועד סוף בעי לעמוד אצלו אפילו במיעוט בתרא שלא ידרוס כנה\"ג). וגם הט\"ז כתב יש להקל בזה בכל הספיקות אפילו רואה חיתוך במפרקת א\"צ לבדוק אם הוא רוב או לא וכל שכן אם אין המפרקת לפנינו בכולן יש לסמוך להקל ואין להחמיר רק דוקא אם כבר ראה שנשחט רוב המפרקת רוב גמור ולא בענין אחר והאי רוב המפרקת נראה שעיקר תלוי בחוט שהחיות תלוי בו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:3"
+        },
+        "4": {
+          "he": "לסימן.  ונקראת חלדה פי' לשון הטמנה כי ע\"כ נקראת חולדה בלשון זה לפי שמטמנת עצמה בארץ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:4"
+        },
+        "5": {
+          "he": "פסולה.  וכתב בש\"ך וכל שכן אם הכניס הסכין תחת שני סימנים ושחטן מלמטה למעלה או שחט התחתון ממטה למעלה והעליון כהלכתה דהוי חלדה ובכולן הוי ספק נבילה דאיבעיא ולא איפשטא:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:5"
+        },
+        "6": {
+          "he": "פסולה.  פירוש מספק:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:6"
+        },
+        "7": {
+          "he": "בזה.  והקשה בט״ז על דעה זו מתלמוד ערוך שאינו כן. דהא בפ' בהמה המקשה (חולין ד' ע״ד) בעי רב אושעי' הושיט ידו למעי בהמה ושחט בה בן ט' חי מהו ואמאי לא אסרינן ליה משום חלדה דהא אין הסכין מגולה. אלא ע״כ דאין חלדה אלא תחת המטלית שהוא קשור בצוארה. עיין בתשובת שבות יעקב שאלה מ״ה תירוץ על קושיא זו. ובספר נקודות הכסף:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:7"
+        },
+        "8": {
+          "he": "חלדה.  וכתב בש\"ך אבל בעופות אם יכול לשחוט בלא מריטת הנוצות עדיף טפי ואם אי אפשר יכול למרוט הנוצות שלא יבא לידי חלדה אבל למרוט נוצות מחיים מכנפיה לצורך כתיבה אסור משום צער ב\"ח. מהרי\"ט בשם בה\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:8"
+        },
+        "9": {
+          "he": "לכתחלה.  והב\"ח אוסר אף בדיעבד והט\"ז חולק עליו. כ' הש\"ך דוקא כה\"ג דבמקום ששוחט הוא מגולה אבל בדין הראשון כשהסכין מתכסה מהעור במקום ששוחט אפילו בדיעבד פסול:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:9"
+        },
+        "10": {
+          "he": "פסולה.  וכתב הש\"ך דאושט קאי דאילו אקנה לא נאסר משום חלדה במיעוט קמא מידי דהוי אחצי קנה פגום לעיל סוף סימן כ\"א. וכן ברישא שפוסל ג\"כ אם שחט רוב סימן א' והחליד הסכין תחת הנשאר דוקא נקט בהמה אבל עוף כיון שנשחט סי' א' הוכשר ותו לא פסיל ביה חלדה. כ' מהרימ\"ט דהך סיפא ע\"כ איירי שהחליד הסכין תחת העור ושחט מיעוט קמא מלמעלה למטה ואח\"כ שחט הנשאר שלא בחלדה וזהו שמוסיף על חלוקה ראשונה דשם איירי ששחט מיעוט קמא מלמטה למעלה וגרע טפי:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:10"
+        },
+        "11": {
+          "he": "שחיטה.  וכתב הש\"ך דוקא רוב חלל הקנה. אבל רוב הטבעת לא סגי. לפי שאינו מקיף כל הקנה חוץ מטבעת העליונה שמקפת כל הקנה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:11"
+        },
+        "12": {
+          "he": "לכתחלה.  וכ' בש\"ך אבל בהגרמה מכשיר. כיון דהגרמה לאו מקום שחיטה הוא הוי כאילו מוליך בידו או ברגלו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:12"
+        },
+        "13": {
+          "he": "פסולה.  וכתב הש\"ך דמה שכתב כאן אם דרס או החליד בין בשליש הראשון וכו' זה קאי אמה שכתב לפני זה הגרים שליש ושחט ב' שלישים או שחט שליש והגרים שליש ושחט שליש דכשרה. עלה קאי ואמר דלא תימא כיון דבהגרים שליש אחד כשר א\"כ ה\"ה כשדרס או החליד שליש הראשון או האמצעי יהא כשר דכיון שהגרמה לאו מקום שחיטה הוא לא נחשיב אותו כלל וא\"כ יחשב כאילו דרס או החליד במיעוט קמא קמ\"ל דליתא ולזה אמר אם דרס או החליד בין בשליש הראשון כלומר שלא שחט שליש והגרים שליש ושחט שליש אלא דרס או החליד שליש והגרים שליש ושחט שליש או בשליש אמצעי כלומר שלא הגרים שליש ושחט שני שלישים אלא הגרים שליש ודרס או החליד שליש ושחט שליש שחיטתו פסולה. והיינו משום דבעינן רובא בשחיטה דוקא והשתא מיירי המחבר שפיר בקנה לכך הוי ודאי פסולה. וזה ברור בעיני עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:13"
+        },
+        "14": {
+          "he": "ומהבשר.  וכתב בש\"ך אבל אם נעקר הבשר עם הסימנים אפי' אם נעקר כולה סבירא ליה דכשרה. כתב מהרמ\"ט לדעת המחבר אף לסברת היש מי שפוסל שהזכיר לעיל בסעיף י' וי\"ב לא דמי עיקור לדרסה וחלדה וכל הנשחט כראוי ונגמר הכשר שחיטה דהיינו הרוב אם עוקר המיעוט הנשאר אחר שחיטה כשרה משום דהוי שלא כדרך השחיטה ולדעת הג\"ה שהחמיר לעיל בהגרמה אע\"פ שאינו דרך שחיטה החמיר נמי כאן לענין עיקור. מיהו בנשמט קודם שחיטה מוקמי' ליה אדינא וזהו שכ' רמ\"א אבל בחייו כו' ומדברי רמ\"א משמע דאפילו בנדלדלו רובן בחייו כשר לענין חלבו וביצים שלו אבל רוב פוסקים ס\"ל בנדלדלו ברובן הוי טריפה ממש אפי' בחייה ש\"ך. גם מ\"ש רמ\"א דנ\"מ לענין חלב כו' הפר\"ח סי' י\"ד ס\"ק י\"א וכאן חולק ואוסר החלב והביצים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:14"
+        },
+        "15": {
+          "he": "מהם.  וכ' בש\"ך ואף גבי עוף דהכשרו בסימן אחד מ\"מ בעינן שיהיו שניהם ראויים לשחיטה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:15"
+        },
+        "16": {
+          "he": "כולו.  וכתב בט\"ז שאפילו בשעת שחיטה אין עיקור אוסר אא\"כ בכולו ולא בכל שהוא. ודוקא שנתפרק במקום אחד דאותו מיעוט הנשאר נשאר בחוזק משא\"כ כשנתפרק בהרבה מקומות מהרמ\"ט בשם הרשב\"א ז\"ל ובעל הג\"ה דשחיטה לא כ' יפה. ובש\"ך בספר נ\"ה חולק על הט\"ז וכן כ' הפר\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:16"
+        },
+        "17": {
+          "he": "פסולה.  פירוש מספק ולא אמרינן אם איתא דהוי שמוטה מקמי הכי הוי חזי ליה או מרגיש בו כי מי יוכל להבחין בזה ולכך פסול מספק ואיירי בעוף:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:17"
+        },
+        "18": {
+          "he": "שחיטה.  וכתב בט\"ז ואע\"ג דכתבתי לעיל שאי אפשר להבחין בשעת שחיטה. צ\"ל דכאן מיירי שבמקום שחיטה נראה אח\"כ שנוי ממה שהיה בשעת שחיטה דהיינו שבמקום השחיטה נראה העקירה כי המקום הנעקר נתהפך ובא לשם ובזה נאמן לומר שלא היה בשעת השחיטה כן מה שא\"כ לעיל שלא נראה כלום מן העקירה במקום שחיטה אלא למעלה במקום חבורן בלחי והוא מכוסה עדיין בעור ודאי לא יכול להבחין בזה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:18"
+        },
+        "19": {
+          "he": "פסולה.  והטעם לפי שאז אפשר שהיה כבר שמוט ושחטו אח\"כ כיון שתפס הסימנים. וכתב מהרש\"ל דהאידנא אפי' בלא תפס אסור ואם נמצאו שניהם שחוטים ואחד מהם שמוט ותפס הסימנין בידו מקילינן בעוף. משום ס\"ס ספק אם נשחט השמוט קודם שנשמט. ואת\"ל נשחט קודם ספק אם נשמט קודם הסימן השני. עיין ערך לחם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:19"
+        },
+        "20": {
+          "he": "הראשונה.  וכתב הב\"ח אבל לא באותה בהמה כי שמא האודם היא מחמת שהיה בה עדיין חיות ולא דמי למאי שכתוב לקמן סי' ל\"ד סעיף ט' שמדמין באותה בהמה לפי ששם האדום הראשון טריפה. ע\"כ אין מכשול לפנינו עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:20"
+        },
+        "21": {
+          "he": "לשנות.  וכ\"פ רש\"ל ובתשובת נ\"ש סימן ס\"ט ועיין תשובת חב\"י שאלה כ\"ה כ\"ו כ\"ז כ\"ח. מיהו בנמצא על הארץ נסתפק בת' ש\"י סי' ס\"ז ובמ\"ב סימן ק' הכשיר בנמצא על הארץ. וב\"ח החמיר אף בנחתך הטבעת מצד א' וע\"ש בט\"ז שהאריך בזה ופר\"ח הביא הפוסקים הנ\"ל ומסיק ואנו מכשירים בכל גוונא כדעת המחבר. והע\"י הביא ג\"כ האחרונים הנ\"ל ומסיק כשהוא מחותך מצד א' וצד השני מהטבעת מונחת על חוד הסכין וב' עוקצין מהטבעת על שני צדי הסכין שהוא כשר דרואין בחוש שלא נעקרו קודם שחיטה דהיאך נשחט הטבעת מצד א' אלא וודאי שהסכין עקר צד השני מחמת שלא היה הסכין חד כ\"כ שיוכל לשחוט הצד השני ע\"כ נעקר הטבעת לאחר רוב שחיטת הקנה. ואף כשנופלת החצי טבעת על הארץ או כשהיתה מונחת על הסכין שאין כאן בית מיחוש כלל וכשר אבל נמצא שלם בין על הסכין בין על הארץ הכל אוסרין גם כשהחתיכה מהטבעת תלויה בגרגרת ג\"כ כשר וע\"ש בש\"י סימן מ\"ו. וכתב בש\"ך ואף אם נמצא על הארץ ג\"כ טריפה ודלא כשו\"ת משאת בנימין וכתב בט\"ז פעם אחת בא לידי בא' ששחט אווז ומצא אחר השחיטה על חוד הסכין טבעת אחת דהיינו שהיתה חתוכה ושני צדדי החיתוך על שני צדדי הסכין והכשרתיו דאין סברא להחזיק ריעותא אלא כשרואין דלא נחתך הטבעת אלא בא כולו שלם על זה אנו אומרים שמא נדחף בלא שחיטה עיין בשו\"ת שבות יעקב שאלה מ\"ו דהסכים לפסק הט\"ז ודלא כש\"ך ועיין תשובת מהר\"ם לובלין סימן כ\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 24:21"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

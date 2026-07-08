@@ -1,0 +1,117 @@
+{
+  "chelek": "YD",
+  "siman": 144,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-08T00:01:20.093Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דמי עבודת כוכבים מה דינם. ובו ב' סעיפים:דמי האליל ביד ישראל שמכרה אסורים אבל אם מכרה עובד כוכבים אפילו מכרה כדי לעבדה הדמים מותרים ודווקא שהדבר ידוע שמכרה לעשות צרכיו בדמיה אבל אם אינו ידוע יש לחוש שמא מכרה לקנות בדמיה אלילים אחרים והרי המעות מוקצין לאלילים ואסורים (וע\"ל סוף סימן קל\"ב):",
+      "en": "De l'argent provenant de la vente des idolesQuand un Israélite a vendu une idole, il lui est défendu de profiter du prix de vente. Mais quand cette vente a été faite par un païen, il est permis à un Israélite d'accepter cet argent, mais seulement dans le cas où il est sûr que le païen a vendu l’idole dans le but d'acheter ce dont il a besoin; mais si l’Israélite ne connaît pas d’une manière certaine la destination de l’argent, il lui est défendu de l’accepter; il peut, en effet, présumer que la vente a été faite dans le but de racheter d’autres fétiches, et, l'argent étant dans ce cas destiné aux idoles, il lui est défendu d’en profiter.",
+      "ref": "Shulchan Arukh, Yoreh Deah 144:1"
+    },
+    {
+      "seif": 2,
+      "he": "יש אומרי' שאם ביד ישראל יין נסך ואלילי' ומכרם לעובד כוכבים בהקפה (פירוש בהמתנה) ומכרם העובד כוכבים לאחר קודם שיפרע לזה הישראל הדמים מותרים בדיעבד:",
+      "en": "D'après certains auteurs, un Israélite qui, possédant des idoles et un vin qui leur est destiné, vend ces objets à crédit à un païen qui les revend lui-même à un autre païen avant de payer le premier vendeur, peut alors accepter le paiement de ce qui lui est dû, mais en cas de fait accompli.",
+      "ref": "Shulchan Arukh, Yoreh Deah 144:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא עבודת כוכבים דף ל\"ג דכתיב והיית חרם כמוהו כל מה שאתה מהייה ממנו הרי הוא כמוהו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 144:1"
+        },
+        "2": {
+          "he": "תוס' שם וכ\"כ הרא\"ש:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 144:2"
+        },
+        "3": {
+          "he": "תוס' דף ס\"ב בשם הר\"ר אלחנן מהא דבא עליה ואח\"כ נתן אתננה וציינתיו לעיל ריש סימן קל\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 144:3"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "אסורים. דילפינן מוהיית חרם כמוהו כל מה שאתה מהייה ממנו הרי הוא כמוהו ומשמע דאליל של ישראל אפילו מכרה עובד כוכבים הדמים אסורים דהא דמי אליל של ישראל הן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 144:1"
+        },
+        "2": {
+          "he": "מכרה עובד כוכבים. אליל שלו ואפילו מכרה שיעבדוה הקונים דלא בטלה הדמים מותרין:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 144:2"
+        },
+        "3": {
+          "he": "ומכרם העובד כוכבים כו'. משמע הא כל שלא מכרם אסורים ומשמע אפילו לאחרים והיינו כדעת הר\"ר אלחנן דלא כר\"י ובר\"ס קל\"ב הביא דעת ר\"י בשם יש מי שאומר דלאחרים מותרים וק\"ק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 144:3"
+        },
+        "4": {
+          "he": "מותרים בדיעבד. ברבינו ירוחם משמע להדיא דוקא לאחרים אבל לאותו ישראל לעולם אסורים משום קנס וכן משמע באשר\"י ר\"פ בתרא דעבודת כוכבי' ואפשר גם דעת המחבר כן אלא שק\"ק הא דכתב סתם הדמים מותרים וגם בב\"י לא הביא דברי הרא\"ש ורבינו ירוחם רק לעיל ר\"ס קל\"ב הביא דברי רבינו ירוחם בקצרה וע\"ל ס\"ס קמ\"ט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 144:4"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "ביד ישראל שמכרה. דכתיב והיית חרם כמוהו כל מה שאתה מהייה ממנו יהיה כמוהו וזה לא שייך בעבודת כוכבים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 144:1"
+        },
+        "2": {
+          "he": "יש לחוש שמא מכרה. ס\"ס קל\"ב משמע דדוקא בידוע ודאי שמכרה לקנות צרכי עבודת כוכבים אסור ואפשר שסמך על מ\"ש כאן אמנם במרדכי פרק א\"מ כתב מותר לקבל הדמים אם לא אמר המתן עד שאמכור אליל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 144:2"
+        },
+        "3": {
+          "he": "ומכרם העובד כוכבים לאחר כו'. כך כתבו התוספות בשם הר\"ר אלחנן הביאם ב\"י וסיימו התוספות ועוד אומר ר\"י שאפילו לא מכרן העובד כוכבים אלא כיון שמשכן העובד כוכבים אצלו קודם שיתן הדמים דקיימא לן משיכת העובד כוכבים קונה כו' וכ\"כ הטור והש\"ע דין זה ריש סימן קל\"ב כאשר הבאתי שם המראה מקום מזה וא\"כ תימה על הש\"ע שלא פסק כאן להיתר רק במכרן לאחר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 144:3"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ישראל.  ומשמע דאליל של ישראל אפ' מכרה העובד כוכבים הדמים אסורים דהא דמי עבודת כוכבים של ישראל הן. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 144:1"
+        },
+        "2": {
+          "he": "וע\"ל.  שם משמע דדוקא בידוע ודאי שמכרה לקנות צרכי עבודת כוכבים אסור ואפשר שסמך על מ\"ש כאן מיהו במרדכי פ' א\"מ כתב מותר לקבל הדמים אם לא אמר המתן עד שאמכור אליל עכ\"ל הט\"ז (ובנה\"כ כתב שיש לחלק בין יי\"נ לעבודת כוכבים וכ\"כ שם בסי' קל\"ב ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 144:2"
+        },
+        "3": {
+          "he": "מותרים.  כתב ר' ירוחם משמע להדיא דוקא לאחרים אבל לאותו ישראל לעולם אסורים משוס קנס עכ\"ל ויש לתמוה על המחבר דכתב סתם הדמים מותרים ש\"ך וכתב הט\"ז ובסי' קל\"ב כ' המחבר שאפילו לא מכרן העובד כוכבים אלא כיון שמשכן העובד כוכבים אצלו קודם שיתן הדמים מותר דקי\"ל משיכת עובד כוכבים קונה וכו' ואם כן תימה על הש\"ע שלא פסק כאן להיתר רק במכרן לאחר עד כאן לשונו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 144:3"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

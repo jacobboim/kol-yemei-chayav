@@ -1,0 +1,1581 @@
+{
+  "chelek": "OC",
+  "siman": 586,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 23,
+  "fetchedAt": "2026-07-07T23:49:33.869Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני שופר של ראש השנה. ובו כג סעיפים:שופר של ראש השנה מצותו בשל איל וכפוף ובדיעבד כל השופרו' כשרים בין פשוטים בין כפופים ומצוה בכפופים יותר מבפשוטים ושל פרה פסול בכל גוונא וכן קרני רוב החיו' שהם עצם אחד ואין להם מבפנים זכרות פסולים (וכן שופר מבהמה טמאה פסול) (ר\"ן פ\"ד דר\"ה):",
+      "en": "The Shofar of Rosh Hashana should be from a ram, bent; under extreme circumstances, all shofars are kosher, whether straight or bent, however the mitzva is better fulfilled with a bent one rather than a straight one; the shofar of a cow may not be used; similarly the horns of most wild animals, as they are a bone and have no hollow inside, may not be used. (Similarly, the shofar of a non-kosher animal may not be used (Ra\"n Chapter 3 Rosh Hashana).",
+      "ref": "Shulchan Arukh, Orach Chayim 586:1"
+    },
+    {
+      "seif": 2,
+      "he": "הגוזל שופר ותקע בו יצא אפילו לא נתיאשו הבעלים ממנו:",
+      "en": "2. If one steals a shofar and sounds it, they fulfill their obligation, even if the owners have not given up hope of finding it.",
+      "ref": "Shulchan Arukh, Orach Chayim 586:2"
+    },
+    {
+      "seif": 3,
+      "he": "תקע בשופר של ע\"א של ישראל לא יצא שאינה בטלה עולמי' וכתותי מיכתת שיעוריה אבל בשל ע\"א של עכו\"ם וכן במשמשי ע\"א של עכו\"ם לא יתקע ואם תקע בו יצא והוא שלא נתכוין לזכות בו אבל אם נתכוון לזכות בו לא יצא דהוי ליה ע\"א של ישראל (ויש מחמירין דאפילו בשל עכו\"ם אינו יוצא אלא בנתבטל בעי\"ט (מרדכי) וע\"ל סי' תרמ\"ט סעיף ג'):",
+      "en": "3. If one blows a shofar that is owned by a Jew and is an object of idol worship, they do not fulfill the mitzvah, as such use for idol worship is never nullified and it is as if the shofar has been crushed to a size too small to use. One should not blow a shofar owned by an idol worshipper that was an object of idol worship or was used in the worship of idols, but if one did blow such a shofar, they have fulfilled their obligation, as long as they did not intend to claim ownership of the shofar [by sounding it]. If one intended to claim ownership of the shofar, they have not fulfilled their obligation, as it is now an object of idol worship owned by a Jew. (There are those who are stringent and who regard even blowing a shofar [that is an object of idol worship] owned by an idol worshipper as fulfilling their obligation unless the shofar's status as an object of idol worship was nullified before the holiday (Mordechai). See 649:3)",
+      "ref": "Shulchan Arukh, Orach Chayim 586:3"
+    },
+    {
+      "seif": 4,
+      "he": "שופר של תקרובת ע\"א אפי' היה של עכו\"ם שתקע בו לא יצא משום דאינה בטלה עולמי':",
+      "en": "4. Blowing the shofar made from an animal that was sacrificed for idol worship, even one owned by an idol worshipper, does not fulfill the obligation as [the idolatrous status of such a shofar] can never be nullified.",
+      "ref": "Shulchan Arukh, Orach Chayim 586:4"
+    },
+    {
+      "seif": 5,
+      "he": "המודר הנאה משופר אדם אחר תוקע בו וזה יוצא י\"ח אבל אם אמר קונם לתקיעתו עלי אסור לתקוע בו אפי' תקיעה של מצוה:",
+      "en": "5. If someone takes a vow to not receive benefit from a [certain] shofar, if another person blows it, they fulfill their obligation. However, if he says its sounding is konam to me, he is forbidden to sound it, even to fulfill the obligation.",
+      "ref": "Shulchan Arukh, Orach Chayim 586:5"
+    },
+    {
+      "seif": 6,
+      "he": "היה קולו עב מאוד או דק מאוד כשר שכל הקולות כשרים בשופר:",
+      "en": "6. If its voice is very high or deep, it is still kosher, as all sounds are kosher with respect to shofars.",
+      "ref": "Shulchan Arukh, Orach Chayim 586:6"
+    },
+    {
+      "seif": 7,
+      "he": "אם ניקב אם לא סתמו אע\"פ שנשתנה קולו כשר (מיהו אם יש שופר אחר אין לתקוע בזה כי י\"א שאין לתקוע בשופר נקוב) (כל בו ותשובת הרא\"ש) ואם סתמו שלא במינו אע\"פ שאינו מעכב את התקיעה לאחר סתימה שחזר קולו לכמות שהיה בתחילה פסול אפי' נשתייר בו רובו ואם סתמו במינו אם נשתייר רובו שלם ולא עכבו הנקבים שנסתמו את התקיעה אלא חזר קולו לכמות שהיה קודם שניקב כשר ואם חסר אחת משלש אלה פסול ואם הוא שעת הדחק שאין שופר אחר מצוי יש להכשיר בסתמו במינו אם נשתייר רובו אפילו לא חזר קולו לכמות שהיה וכן יש להכשיר בסתמו שלא במינו אם נשתייר רובו וחזר קולו לכמות שהיה בתחילה קודם שניקב:",
+      "en": "7. If it is punctured and not repaired, it is kosher even if its voice is altered. (That said, if there is another shofar, they should not use this one because there are those who object to sounding a punctured shofar) (Kol Bo and the responsa of the Ro\"sh). If it is patched with a material that is not the same as the shofar's material, even if it does not alter the voice after patching, as it returns to its original sound and even if the majority of the original material is present, it is not kosher. If it is patched with native material, the majority of it is intact, and the patched holes do not alter the sound voice, which returns to its original sound, it is kosher. If one of these three conditions is not met, it is not kosher. If it is an emergency situation where there is no other shofar available, it is kosher when patched with native material and the majority is intact, even if the voice does not return to its original sound. Similarly, it is kosher if it is patched with non-native material if the majority is intact and the voice returns to its original sound.",
+      "ref": "Shulchan Arukh, Orach Chayim 586:7"
+    },
+    {
+      "seif": 8,
+      "he": "נסדק לאורכו פסול י\"א אפי' בכל שהוא פסול אלא אם כן הדקו הרבה בחוט או במשיחה ונשתייר שיעור התקיעה ממקום הקשירה ולמעלה לצד הפה (כל בו) וי\"א דוקא ברובו ואם דבקו כשר אפילו אם דבקו בדבק ויש מי שאומר שאינו כשר אלא כשדבקו בעצמו שחיממו באור עד שנפשר וחבר קצותו זה עם זה ואם נסדק כולו אפי' מצד אחד פסול אפילו חממו באור וחבר סדקיו זה עם זה:",
+      "en": "8. If there is a lengthwise crack, there is an opinion that if the crack is any length, it is not kosher, unless it is fastened with a string or thread and from the place of the fastening upward, in the direction of the mouth [of the shofar], there remains the minimum measurement for a shofar (Kol Bo). There is also the opinion that [it is only not kosher] if a majority is cracked, though in this case, if they glue it together, it is kosher, even using [non-native] glue. There is an opinion that it is not kosher unless they attach it using native material, by heating it in the fire until it softens and the two sides attach. If the crack traverses the whole shofar, even on one side, it is not kosher, even if they heat it in the fire and attach the sides of the crack.",
+      "ref": "Shulchan Arukh, Orach Chayim 586:8"
+    },
+    {
+      "seif": 9,
+      "he": "נסדק לרחבו במיעוטו כשר ברובו פסול אלא אם כן נשאר מהסדק לצד פיו שיעור תקיעה דהיינו ארבעה גודלים וכשנשתייר בו כך כשר אפילו אם מעכב את התקיעה ויש מכשירים בנשתייר אפי' שלא לצד פיו:",
+      "en": "9. If it cracks widthwise, if the crack traverses the minority of the shofar, it is kosher. If it traverses the majority of the shofar, it is not kosher, unless there exists from the crack to the mouth the minimum length for a shofar, which is four digits. When this much remains, it is kosher, even if [the crack] interferes with the sounding. There are those who are permissive when there remains this measurement even not in the direction of the mouth.",
+      "ref": "Shulchan Arukh, Orach Chayim 586:9"
+    },
+    {
+      "seif": 10,
+      "he": "דבק שברי שופרו' זה עם זה ועשה מהם שופר פסול ואפי' אם יש בשבר שכנגד פיו שיעור שופר:",
+      "en": "10. If one attached broken shofars to each other to make a shofar, it is not kosher, even if the fragment closest to the mouth is big enough to be a shofar.",
+      "ref": "Shulchan Arukh, Orach Chayim 586:10"
+    },
+    {
+      "seif": 11,
+      "he": "הוסיף עליו כל שהוא בין במינו בין שלא במינו פסול אפילו היה בו מתחלה שיעור שופר:",
+      "en": "11. If one added to a shofar at all, whether with native or non-native material, it is not kosher, even if it initially had the minimal size of a shofar.",
+      "ref": "Shulchan Arukh, Orach Chayim 586:11"
+    },
+    {
+      "seif": 12,
+      "he": "הפכו ותקע בו לא יצא בין הפכו כדרך שהופכין החלוק שהחזיר פנימי לחיצון בין שהניחו כמו שהיה אלא שהרחיב את הקצר וקיצר את הרחב וה\"ה אם תקע במקום הרחב פסול (ר\"ן פ\"ב דר\"ה):",
+      "en": "12. If one inverted it, he has not fulfilled his obligation, whether he inverts it like one inverts a shirt, flipping the inside and the outside, or whether one leaves it as it was but widens the narrow side and narrows the wide side. Similarly, if one blows through the wide side, it is not kosher (Ra\"n chapter 2 of Rosh Hashanah).",
+      "ref": "Shulchan Arukh, Orach Chayim 586:12"
+    },
+    {
+      "seif": 13,
+      "he": "היה ארוך וקצרו אם נשאר בו שיעור תקיעה כשר:",
+      "en": "13. If it was long and one shortened it but the minimal length for blowing remains, it is kosher.",
+      "ref": "Shulchan Arukh, Orach Chayim 586:13"
+    },
+    {
+      "seif": 14,
+      "he": "גרדו מבפנים או מבחוץ עד שעשאו דק מאוד כמו גלד כשר:",
+      "en": "14. If it was scraped on the inside or the outside until it was as thin as its outer layer, it is kosher.",
+      "ref": "Shulchan Arukh, Orach Chayim 586:14"
+    },
+    {
+      "seif": 15,
+      "he": "לא הוציא זכרותו אלא נקב בו כשר אבל אם הוציא הזכרו' ועשה ממנו שופר כגון שנקב בו פסול:",
+      "en": "15. If instead of removing the bone [that fills the horn], one drilled it, it is kosher. However, if they removed the bone and made a shofar out of it by drilling into it, it is not kosher.",
+      "ref": "Shulchan Arukh, Orach Chayim 586:15"
+    },
+    {
+      "seif": 16,
+      "he": "צפהו זהב במקום הנחת פה פסול שלא במקום הנחת פה כשר צפהו זהב מבפנים פסול מבחוץ אם נשתנה קולו מכמות שהיה פסול ואם לאו כשר יש מפרשים מקום הנחת פה היינו עובי השופר לצד פנימי שמניח שם פיו והצד החיצון מן העובי עצמו קרוי שלא במקום הנחת פה ויש מפרשים דעביו במקום הקצר הוא מקום הנחת פה ושלא במקום הנחת פה היינו כל אורך השופר מצד הקצר עד צד הרחב:",
+      "en": "16. If one coated it with gold at the place where the mouth is placed, it is not kosher, but in a place that is not where the mouth is placed, it is kosher. If one coated the inside of it with gold, it is kosher. As to the outside, if its voice has been altered from its original sound, it is not kosher. Otherwise, it is kosher. Some interpret \"where the mouth is placed\" as referring to the inner side of the shofar, where the mouth is placed, with the outside being called \"not where the mouth is placed,\" while some call the narrow side \"where the mouth is placed,\" with \"not where the mouth is placed\" referring to the whole length of the shofar, from the narrow side to the wide side.",
+      "ref": "Shulchan Arukh, Orach Chayim 586:16"
+    },
+    {
+      "seif": 17,
+      "he": "המציירים בשופר צורו' במיני צבעונים כדי לנאותו לא יפה הם עושים (אבל מותר לחקוק בשופר עצמו צורות כדי לנאותו) (ב\"י):",
+      "en": "17. Those who draw colorful shapes on the shofar to make it pretty are not doing a good thing (though it is permitted to inscribe pretty drawings on the shofar itself) (Beit Yosef).",
+      "ref": "Shulchan Arukh, Orach Chayim 586:17"
+    },
+    {
+      "seif": 18,
+      "he": "אם נתן זהב על עובי השופר בצד הרחב היינו הוסיף עליו כל שהוא ופסול:",
+      "en": "18. If one added gold to the width of the shofar on the wide side, adding [to its total length] at all, it is not kosher.",
+      "ref": "Shulchan Arukh, Orach Chayim 586:18"
+    },
+    {
+      "seif": 19,
+      "he": "הרחיק את השופר ונפח בו ותקע בו פסול:",
+      "en": "19. If one blew the shofar with space between his mouth and the shofar, it is not kosher.",
+      "ref": "Shulchan Arukh, Orach Chayim 586:19"
+    },
+    {
+      "seif": 20,
+      "he": "נתן שופר לתוך שופר אם הפנימי' עודף על החיצון משני צדדין ונתן הפנימי בפיו ותקע בו כשר: הגה ולי נראה דאפי' אינו בולט בצד הרחב רק שוה לחיצון הואיל ובולט לצד הפה ותוקע בפנימי יצא כן נראה לי וכ\"מ מלשון הרא\"ש והוא שלא ישנה קולו במה שהוא נתון בתוך החיצון ואם לאו פסול:",
+      "en": "20. If one placed one shofar inside another shofar, if the inner one protrudes from the outer one on both sides and he sounded the inner one, it is kosher. Rema: It seems to me that even if on the wide side it doesn't protrude and is merely even, because it protrudes at the side of the mouth and he blows on the inner one, he has fulfilled his obligation. This is how it seems to me and what the Ros\"h appears to think. This assumes that placing it in the outer one does not alter its voice. Otherwise, it is not kosher.",
+      "ref": "Shulchan Arukh, Orach Chayim 586:20"
+    },
+    {
+      "seif": 21,
+      "he": "שופר של ראש השנה אין מחללין עליו יו\"ט אפילו בדבר שיש בו משום שבות כיצד הי' השופר בראש האילן או מעבר הנהר ואין לו שופר אלא הוא אינו עול' באילן ואינו שט על פני המים כדי להביאו ועל ידי עכו\"ם מותר דהוי שבות דשבו' (פירוש איסור אמירה לעכו\"ם באיסור דאורייתא הוא משום שבות שאחז\"ל לשבות מזה אמירה לעכו\"ם ובאיסור דרבנן הוא שבות דשבות) ובמקום מצוה לא גזרו רבנן (וע\"ל סי' ש\"ז):",
+      "en": "21. We do not break the laws of Holidays for the Rosh Hashanah shofar, even something that is only rabbinically prohibited. How so? If there was a shofar at the top of a tree or across a river and there is no other shofar, one does not climb the tree or sail on the water. Having a non-Jew do these things is permissible, because that is a rabbinic prohibition on top of a rabbinic prohibition.(Meaning, the prohibition of telling a non-Jew to do an action [on a holiday] that is prohibited by the Torah is a rabbinically enacted prohibition to ensure resting [shevut] from telling non-Jews to do things, and when the action in question is itself a rabbinic prohibition, this is a rabbinic prohibition on top of a rabbinic prohibition [shevut d'shevut]) and when there is a commandment to do, the rabbis made no such decree (see 307).",
+      "ref": "Shulchan Arukh, Orach Chayim 586:21"
+    },
+    {
+      "seif": 22,
+      "he": "אם עכו\"ם הביא שופר מחוץ לתחום תוקעין בו והוא הדין אם עשה עכו\"ם שופר ביו\"ט מותר לתקוע בו:",
+      "en": "22. If a non-Jew brought a shofar from outside of the techum, we sound it. It is also the case that if a non-Jew made a shofar on the holiday, it is permitted to sound it.",
+      "ref": "Shulchan Arukh, Orach Chayim 586:22"
+    },
+    {
+      "seif": 23,
+      "he": "יכול ליתן בתוכו מים או יין לצחצחו אבל מי רגלים אף בחול אסור מפני הכבוד:",
+      "en": "23. It is permitted to put water or wine in it to clean it, though not urine, even on weekdays, for reasons of respect.",
+      "ref": "Shulchan Arukh, Orach Chayim 586:23"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מימרא דרבי אבהו ר\"ה ט\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:1"
+        },
+        "2": {
+          "he": "מימרא דרבי לוי שם דף כ\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:2"
+        },
+        "3": {
+          "he": "משנה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:3"
+        },
+        "4": {
+          "he": "טור בשם הרמב\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:4"
+        },
+        "5": {
+          "he": "הקשה שארי הרב ר' מרדכי קראשניק פקק\"ק ז\"ל מהא דתנן בנדה פ\"ו כל שיש לו קרנים יש לו טלפים ומשמע שם דכ\"ע הוא וכמ\"ש התו' בשם ר\"ת בחולין דף נ\"ט ואם כן אינה בהמה טמאה ונלע\"ד דמיירי שילדתו בהמה טמאה והיוצא מן הטמאה טמא כדתנן בפ\"ק דבכורות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:5"
+        },
+        "6": {
+          "he": "הרא\"ש מהירושלמי.",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:6"
+        },
+        "7": {
+          "he": "ברייתא חולין פ\"ט וכמו שפירשו התו' והרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:7"
+        },
+        "8": {
+          "he": "מימרא דרב יהודה ר\"ה כ\"ח שפירשו התוספות והרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:8"
+        },
+        "9": {
+          "he": "דמצות לאו ליהנות ניתנו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:9"
+        },
+        "10": {
+          "he": "שם בתוספו' והרא\"ש וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:10"
+        },
+        "11": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:11"
+        },
+        "12": {
+          "he": "מימרא דרבא שם בר\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:12"
+        },
+        "13": {
+          "he": "הר\"ן וש\"פ ועיין ביו\"ד סימן רט\"ו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:13"
+        },
+        "14": {
+          "he": "ברייתא שם כ\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:14"
+        },
+        "15": {
+          "he": "ירושלמי כתבוהו התוס' והרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:15"
+        },
+        "16": {
+          "he": "משנה שם וכר' נתן בברייתא שם וכלישנא קמא דר' יוחנן טור בשם הגאונים ורמב\"ם בפרק א'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:16"
+        },
+        "17": {
+          "he": "כדעת ר\"י ורא\"ש שהביא הטור וכמ\"ש הרא\"ש טעמו שם בפסקיו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:17"
+        },
+        "18": {
+          "he": "משנה וברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:18"
+        },
+        "19": {
+          "he": "הרא\"ש שם בשם י\"מ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:19"
+        },
+        "20": {
+          "he": "ה\"ה בפ\"א בשם הרבה המפרשים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:20"
+        },
+        "21": {
+          "he": "טור בשם הרמב\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:21"
+        },
+        "22": {
+          "he": "משנה שם וכפי' המפרשים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:22"
+        },
+        "23": {
+          "he": "טור והרוקח בשם אביו הריב\"ק:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:23"
+        },
+        "24": {
+          "he": "ברייתא שם וכפי' הרא\"ש דבמעוטי הוי כנקב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:24"
+        },
+        "25": {
+          "he": "רא\"ש והר\"ן כסמ\"ק וסמ\"ג והגה\"מ וכ\"נ מדברי רמב\"ם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:25"
+        },
+        "26": {
+          "he": "בעל העיטור ורי\"ץ גיאות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:26"
+        },
+        "27": {
+          "he": "משנה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:27"
+        },
+        "28": {
+          "he": "טור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:28"
+        },
+        "29": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:29"
+        },
+        "30": {
+          "he": "הרא\"ש שם משום דשופר א' אמר רחמנא ולא ב'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:30"
+        },
+        "31": {
+          "he": "ברייתא שם וכרב פפא ורב מתנא שם וכפי' א' שברא\"ש וכהירו' לקמן בס\"ס תק\"צ כתבו ב\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:31"
+        },
+        "32": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:32"
+        },
+        "33": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:33"
+        },
+        "34": {
+          "he": "שם בגמרא ובירושלמי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:34"
+        },
+        "35": {
+          "he": "טור והר\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:35"
+        },
+        "36": {
+          "he": "שם בברייתא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:36"
+        },
+        "37": {
+          "he": "הר\"ן שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:37"
+        },
+        "38": {
+          "he": "הרא\"ש שם וכ\"כ הטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:38"
+        },
+        "39": {
+          "he": "טור בשם הרמב\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:39"
+        },
+        "40": {
+          "he": "רא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:40"
+        },
+        "41": {
+          "he": "טור בשם הרמב\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:41"
+        },
+        "42": {
+          "he": "ברייתא שם וכפי' הרא\"ש והר\"ן. שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:42"
+        },
+        "43": {
+          "he": "הרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:43"
+        },
+        "44": {
+          "he": "משנה שם ל\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:44"
+        },
+        "45": {
+          "he": "טור בשם ר' יונה וציינתיו לעיל בסי' ש\"ז סעיף ה' וע\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:45"
+        },
+        "46": {
+          "he": "הגהות אשרי בפ\"ב דר\"ה וטור בסי' תרנ\"ה בשם רשב\"א וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:46"
+        },
+        "47": {
+          "he": "משנה שם דף ל\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:47"
+        },
+        "48": {
+          "he": "ברייתא שם דף ל\"ג.",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 586:48"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "איל עמ״א גמרא כמו שציין באר הגולה. ואם יש לו של איל ועשאו פשוט ושאר מינים והם כפופים הי מינייהו עדיף ומרא״ש בר״ה הובא בט״ז א׳ משמע דכפוף יותר מצוה לכתחלה בעינן כפוף ודיעבד פשוט יוצא ושל איל רק מצוה ממובחר ועט״ז ואי״ה שם יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:1"
+        },
+        "2": {
+          "he": "פרה עמ״א שור קרנו חלול שיש לו זכרות ונקבות ושופר לשון שפופרת ואפ״ה שור ומינו פסול דבקרא נקרא רק קרן לא שופר ואנן שופר בעינן ואותן שאין להם זכרות בפנים כקרן הצבי ודומה אף לא נקראו בקרא קרן פסולים דלאו שופר הם מלשון שפופרת והם אין חלולים כלל ועיין טור ולבוש ועט״ז א׳ ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:2"
+        },
+        "3": {
+          "he": "מבהמה טמאה עמ״א בחולין נ״ט ותוס׳ שם ד״ה אלו הן לפי׳ ריב״ם רבנן ור׳ דוסא פליגי לעגין סימן טהרה ע״כ לר״ד רק חיה כל שיש קרן יש לו לחיה טלפים סימן טהרה הא בהמה אף לר״ד יש קרן בלא טלפים מפרסת פרסה וטמאה וכמ״ש התוס׳ שם ר״ד כל שיש קרני חיה א״צ לחזור על טלפים דאל״כ אמאי ל״פ בהמה טהורה לרבנן קרן אין סי׳ טהרה ולר״ד סי׳ טהרה ואיך שייך פלוגתייהו בחיה לענין חלבה שיהא מותר ש״מ רק בקרן חיה חרוקת בדוכתא כו׳ אז סבר ר״ד דבידוע שגם טלפים יש לה דחיה טמאה אין לה טלפים ומינה הא בהמה יש קרן בלא טלפים ומשנה בנדה דף נ״א ב׳ כר״ד וכללא רק לדיה ומינה ה״ה לר״ת שם דפירש דמשנה דנדה ככ״ע אתיא אף לרבנן דכ״ע קרן סימן טהרה ופליגי להכיר אי חיה וחלבה מותר לרבנן צריך ג״כ טלפים חיה ולר״ד כל שיש קרן חיה בודאי חיה היא ולא בהמה טהורה משנה דנדה נמי ככ״ע ובחיה איירי הא בהמה יש קרן בלא טלפים וטמא וצ״ע איך כללא כייל בסתמא ולא פירש אחיה ובהמה טמאה יש קרן בלא טלפים ובמ״ש הר״ב ז״ל בהג״ה שופר מבהמה טמאה פסול וברש״י נדה מבואר שאין קרן לבהמה וחיה טהורה. ואמנם הר״מ ז״ל בפי׳ המשגה בנדה משמע להבדיל בין חיה טהורה לבהמה טהורה ממש לידיעת הבהמה מן החיה והיינו כר״ת וכר״ד ולכאורה ג׳ פירושים ועתי״ט נדה שם משמע כן והבן זה ועא״ר ד׳ וה׳. ובי״ד ע״ט בודק בפרסות והוא שיכיר חזיר ואם קרן א״צ להכיר חזיר הא טלפים בעינן וי״ל כרבנן דר״ד. ועולת שבת הקשה דלא קיי״ל דמלאכת שמים בעינן ממותר בפיך דאל״כ ל״ל קרא בתפילין תורת ה׳ בפיך תי׳ המ״א דמתפילין יליף כ״ה כולה בהיקשא דבעינן ממותר בפיך (ה״ה נבילות וטריפות רק טהור) ועא״ר. ולדינא אם אין שופר רק קרן ממין טמא בר״ן הניח בצ״ע ובר״מ וטוב להחמיר וכאן כתב פסול י״ל מחמת ספק הלכך באין אחר תוקע בלא ברכה בי״ט א׳ ובי״ט שני י״ל ספק דרבנן לקולא וצ״ע אי״ה בתקפ״ט יבואר עוד. ועפר״ח כאן והביא תוס׳ זבחים קי״ג ע״ב ד״ה אורזילא ראם חיה טהורה מתרגמינן אקו ודישן יעלא ורימא וא״כ מ״ש התוס׳ בר״ה דראם שופרו פסול דקרן מיקרי קרני ראם קרניו כו׳ דראם טהור הוא ולזה נתכוין המ״א הא טמא פסול בלא״ה מותר בפיך ועיין עולת שבת ומ״ש המ״א ותאו ורימא צ״ל ודישן ורימא עיין פ׳ ראה. ולחד פירושא קרן סימן טהרה הוא פי׳ הריב״ם בתוס׳ חולין שם. ועיין במ״נ אקו שם עוף אולי ט״ס הוא והוא מין חיה טהורה ובכלל בהמה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:3"
+        },
+        "4": {
+          "he": "ותקע עמ״א ואפי׳ קנה ביאוש ושינוי רשות י״ל דלא יברך עסי׳ תרמ״ט במ״א אות ב׳ ועסי׳ תרצ״א סעיף י״א דמגילה גזולה יי״ח דאין גזל בקול וי״ל מ״ש הר״מ ז״ל הך טעמא פ״א משופר ולא יום תרועה יהיה לכם מ״מ דנ״מ במגילה ג״כ ואע״ג דסובר מה״ב בדרבנן יי״ח כבסי׳ תרמ״ט להר״מ ז״ל בי״ט שני יי״ח בגזול מ״מ י״ל מגילה ד״ק כד״ת דמי ומש״ה אמר הטעם דאין גזל בקול:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:4"
+        },
+        "5": {
+          "he": "נתכוין עמ״א דעתו י״ל כל שנתכוין לגוזלה נמי הוי כע״ז של ישראל כיון דחייב באחריות ודוקא שלא גזלה אלא העכו״ם נתן אותו לו לתקוע ועט״ז אות ג׳ ומ״ש שם יע״ש ואי״ה באות ו׳ יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:5"
+        },
+        "6": {
+          "he": "בנתבטל עמ״א הנה מחלוקת זה בתוס׳ סוכה ל״ב א׳ ד״ה באשירה דמשה יע״ש תירוץ ראשון בע״ז של עכו״ם אף לא נתבטל יוצא דיעבד דלאו כתותי דאי מבטל לה כו׳ לכתחלה לא דמאיס דשל עכו״ם הוא הא בטלו י״ל אף לכתחלה יי״ח ור״ת סי׳ דכ״ז שלא נתבטל דיעבד נמי לא יי״ח (כתותי או מאים כו׳) והא דיעבד יצא שכבר נתבטל ואפ״ה לכתחלה לא דמאיס וחיה שם עכו״ם עלה ובתרתי פליגי. גם ליש מחמירין בעינן נתבטל מעי״ט דאל״ה דהוי מעיקרו בעיא דלא איפשטא בע״ז מ״ז ב׳ ולחומרא והיינו באין בידו כההוא דעכו״ם דישראל אין מבטל ע״ז של עכו״ם דילמא מגבה וזכה בה (עיין אות ה׳ ובט״ז דף מ״ב) וכמ״ש התוס׳ בע״ז מ״ו א׳ ד״ה אשירה וסוכה ל״ג א׳ ד״ה נקטם דכסוי הדם אע״פ שבידו לגלות מ״מ כיון שפטור וחשיב אין בידו יע״ש. והקשה המ״א בי״ד סי׳ כ״ח וסי״ד כסהו הרוח וחזר ונתגלה חייב לכסות אע״ג דהיה דחוי וגרע מדהוי מעיקרו דהא הוי נראה ונדחה כו׳ ואין בידו (ול״ד לתרמ״ו ס״ב ענביו מרובים דמיעטן אפי׳ בי״ט דכשר דמיקרי בידו יע״ש) והא בע״ז מ״ו מסיק אפי׳ דחוי מעיקרו בתיקו באין בידו כ״ש נראה ונדחה דספק הוי באין בידו והיה לומר יכסה מספק בלא ברכה ואיך כתב סתם בי״ד מכסה משמע בברכה והא ספק הוי ועפר״ח שם כתב אה״נ מכסה בלא ברכה יע״ש. (ויש ט״ס בדפוס וצ״ל כסהו הרוח ונתגלה חייב לכסות היל״ל מספק לא ודאי). ומפרש המ״א ז״ל דאם סברי בי״ד כמ״ש התוס׳ בע״ז מ״ז א׳ ד״ה מי מאיס דמבעיא לכתחלה ולפ״ז ה״ה מה דמסיק באשירה שבטלה נמי י״ל בהך שיטה דודאי דיעבד פשוט ליה באין דיחוי אצל מצות אפי׳ נראה ונדחה ואין בידו ולכתחלה בעי לה אי יש דיחוי אי לאו והיינו לשיטת הטור דרבא בר״ה כ״ח שופר עכו״ם תקע יצא אף קודם ביטול ובע״ז בעי אשירה שבטלה דלאו מאיס הוא עתה מ״מ הואיל ועי״ט נדחה לכתחלה הוי מאיס אי בטלה אח״כ אי נראה אף לכתחלה דר״פ מספקא ליה היינו ודאי האמת אין דיחוי במצות דיעבד וממילא מברך בכסוי הדם כשחזר ונתגלה ומבעיא ליה אי פשוט ליה אף לקולא כלומר אף לכתחלה לא מחמירין כלל בדחוי אי לכתחלה עכ״פ מחמירין. ולפ״ז לדעת המחבר בכאן משמע ע״ז של עכו״ם בלא בטלה דיעבד יצא ולכתחלה אפי׳ בטלה לא י״ל היינו בדחוי מעיקרו בעי׳ דלא איפשטא ולחומרא (אע״ג כל בדרבנן תיקו לקולא משום חומרא דע״ז או תירוץ אחר) והיינו דסימן קנ״ד סי״א נרות עכו״ם כיבן שמשן ונתבטלו מ״מ דהוי מעיקרו הוי לנר תפלה בבה״כ דומיא דנתבטל בי״ט אבל בלא דחוי מעיקרו י״ל עדיין דשרי לדיעה קמייתא. ובסימן י״א המשתחוה לבהמה צמרה פסול לכתחלה ומיירי ישראל השתחוה לבהמה אלא שאין בעלי חיים נאסרים להדיוט ומבעיא לה אי מאיס לציצית לכתחלה ודיעבד שתלאן בבגדו י״ל יצא וא״צ להסירם וכ״ש כשיושב בחול בצבור כה״ג עסי׳ י״ג יע״ש ועדיין צ״ע בכוונת דבריו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:6"
+        },
+        "7": {
+          "he": "המודר עמ״א ועש״ך שם בי״ד אות כ״ט וט״ז מ״ג והנה באין דחק או למ״ד דלא יתקע כלל אם מודר משופר הנאה ותקע להוציא אחרים י״ח צ״ע אם נאמר כיון דהוא עשה עבירה הוי מה״ב אף הם לא יצאו ועיין ר״ה כ״ח שופר של שלמים או עכו״ם תקע יצא לרבא מצות לאו ליהנות נתנו אע״ג דנהנה התוקע וי״ל ועיין בספר כפות תמרים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:7"
+        },
+        "8": {
+          "he": "משופר עמ״א סעיף ט׳ שיעור תקיעה ד׳ גודלין יע״ש ועיין לבוש משום הקריבהו לפחתך ואפשר היא היא קולו פגום נמי מה״ט:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:8"
+        },
+        "9": {
+          "he": "שעת הדחק עמ״א דהוי סותר כלי ומדרבנן מ״מ אסור דאל״כ יטלו משם וכשר ועט״ז אף לא נשתייר שיעור תקיעה שלם בלי נקב כשר. ובלבוש יע״ש ובט״ז כתבנו מזה דבש״ע דוקא כשאין שופר אחר הא יש שופר אחר אף שכבר תקע בזה יתקע באחר בלא ברכה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:9"
+        },
+        "10": {
+          "he": "בכל שהוא עמ״א עט״ז הפרש בין נקב עגול ויש חסרון יע״ש וע׳ א״ר וא״ז בשם מי״ט אותן שופרות סדוקין למעלה במקום הנחת פה קצת פסול והוא ז״ל כתב דחסרון קיל טפי מנקב שאין חסרון עט״ז:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:10"
+        },
+        "11": {
+          "he": "ונשתייר עמ״א עט״ז אות ז׳ ואות י״ב. ומה שהקשה דא״כ איך יצויר ברחבו כשר במיעוטו עט״ז ושוב ראיתי בב״ח י״ל כמ״ש בט״ז יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:11"
+        },
+        "12": {
+          "he": "דוקא ברובו עמ״א דל״ת דיעה א׳ סוברת במשהו אפי׳ נשתייר שיעור תקיעה עד שהדקו בחוט ולי״א אפילו לא הדקו ועכ״פ שיעור תקיעה בעינן קמ״ל דלי״א מיעוטו אין פוסל סדק אף דלא נשתייר שיעור תקיעה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:12"
+        },
+        "13": {
+          "he": "דבקו עמ״א הא נסדק באורך כולו ודבקו פסול דהוי כדיבק שברים ואין שם שופר היה עליו. ומשמע לכאורה ברובו חוט או משיחה לא מהני רק דבק דוקא דכאילו כולו סדוק. אבל דבק מהני כ״ז שנשאר המיעוט שלם עיין לבוש וא״ז וא״ר וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:13"
+        },
+        "14": {
+          "he": "בדבק עמ״א בטור ואין הדבק ניכר בין הסדקים ולכאורה החילוק בין נקב שיש חסרון בחתיכה אחרת ובין סדק שאין חסרון ובדבק אבל נראה דאף בנקב שיש חסרון אם הוא קטן ויוכלו ליתן שם דבק הוי כמינו וצ״ע. ועיין לבוש משמע כל שחיבר בדבק אפי׳ לא נשאר שיעור תקיעה כשר יע״ש ועב״י:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:14"
+        },
+        "15": {
+          "he": "ויש כו׳ עמ״א ולפ״ז לכאורה יש להכשיר אם נשתייר רובו ולא נשתנה קולו דהוי ס״ס אף לכתחלה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:15"
+        },
+        "16": {
+          "he": "פסול עמ״א צ״ע בב״י וכ״כ הלבוש דאין שם שופר עליו כיון דנסדק כולו מצ״א אין זה שפופרת חלול וכקרן שניקב בידי אדם דמי לא מטעם ב׳ שופרות:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:16"
+        },
+        "17": {
+          "he": "ברובו עמ״א ועט״ז אות י״ד דאם נשתייר שיעור תקיעה כשר יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:17"
+        },
+        "18": {
+          "he": "ד׳ גודלים עמ״א הד׳ גודלים מודדים במקום הרחב של אגודל. עמ״ש בט״ז אות י״ט יש פסולי שופר מ״ה ויש רק מדרבנן שיעור שופר ד׳ גודלים היינו מדרבנן מ״ה אין לו שיעור עיין בפוסקים וא״כ כשאין שופר כ״א מה שפסול מדרבנן י״ל לא העמידו דבריהם עסי׳ תרכ״ט במ״א אות כ״ב. וע׳ לבוש מדרבנן שלא יאמרו לתוך ידו הוא תוקע דומה ממש להתם מטעם גזירה הא כל שפסלו חכמים דנראה כאילו אינו שופר וכדומה בהא י״ל אף שאין שופר אחר נמי אין תוקע בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:18"
+        },
+        "19": {
+          "he": "שיעור עמ״א דשופר אחד אמר רחמנא:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:19"
+        },
+        "20": {
+          "he": "נקב עמ״א ועיין לבוש עדיף ממינו ועיין א״ר וא״ז יע״ש ודוקא שלא הוציא הזכרות הא הוציא והחזירו לתוכו פסול עמ״ש בט״ז:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:20"
+        },
+        "21": {
+          "he": "כל עמ״א עט״ז אות ח״י מ״ש שם ועיין באר הגולה אות נ׳ וס׳ ובט״ז הקשיתי שם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:21"
+        },
+        "22": {
+          "he": "ואם עמ״א אפילו בשעת הדחק פסול כאן כל שנשתנה קולו דב׳ שופרות הוא כיון דהקול נשתנה אף שבולט משא״כ ניקב וסתמו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:22"
+        },
+        "23": {
+          "he": "שבות עמ״א ר״ה ל״ב ב׳ ועסי׳ תמ״ו במ״א אות ב׳ ועתוס׳ עירובין ק׳ א׳ עשה דפשיעה יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:23"
+        },
+        "24": {
+          "he": "תוקעין עמ״א עיין בספר כפות תמרים מסופק בי״ט אי חוץ לי״ב מיל הוי בי״ט ד״ת ועתוס׳ פסחים ה׳ ב׳ לחד דיעה כל שבשבת לאו בי״ט אין איסור מ״ה א״כ יב״מ בי״ט מ״ה שרי ויש חולקין ועפר״ח ה׳ י״ט בזה ואי״ה שם יבואר. ועסי׳ ת״ד כליו אם יש איסור תורה חוץ לתחום ועא״ר. עמ״ש אי״ה באות שאח״ז:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:24"
+        },
+        "25": {
+          "he": "עשה עמ״א אי מותר שבות דשבות בי״ט שני של ר״ה עסי׳ תרנ״ה ועא״ר אות צ״ט צידד אף בי״ב מיל יע״ש. ועפר״ח למ״ש המחבר ס״ה אם הובא בשבילו אסור לתקוע בו הוא בעצמו דנהנה ועמ״א וט״ז שם בשעת הדחק אף הוא מותר. מ״ש מפני הכבוד אף התוקע רוצה למחול אסור מפני כבוד שמים עפר״ח:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 586:25"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "בשל איל עט״ז עמ״א א׳ דכפוף לכתחלה בעינן דוקא כפוף הא של איל רק מצוה ממובחר וא״כ שאר מינין כפוף ואיל פשוט אם אירע כן או כפוף שעשאה פשוט יותר מצוה וצריך שאר מינין ומ״ש בפירוש הר״מ ז״ל עב״י בשם א״ח עז ותיש ויעלים בכלל כבש הם ומ״מ יש מינים אחרים קרניהם חלולים מיעוט קרני החיות וכדומה ופסול להר״מ ז״ל שאין מין כבש כלל ולהרא״ש וטור כשר וקשה איך כתב דהר״מ כרא״ש וטור גם לכאורה איל בקמ״ץ היו״ד מין חיה איילנה איל תערוג על אפיקי מים איל זכר כבש היו״ד בחירק וצ״ע טובא. ופ׳ ראה ואקו מתורגמינן ויעלא כפירש״י ז״ל אשטנבו״ק וט״ס יחמור ועתוס׳ ר״ה כ״ז ב׳ ד״ה של יעל פירש״י ז״ל יעל חיה שטיין בו״ק וברש״י לא מצאתי חיה ועיין חולין עיזי דבאל״א יע״ש. ומ״ש כבש לכאורה די״ל דכבש כולל רחל ועז וא״י דצאן כולל רחל ועז וכן שה כולל שתיהן אבל כבש משמע רק מיוחד למין רחלים וצ״ע. ועכ״מ פ״א ה״א משופר בשם הכל בו יע״ש: נמצא יש מדות בשופר של איל הוא מצוה מובחרת מאוד כפוף וזכר איל של יצחק ויש לו קרן כשבה לפעמים יש לה ופשוט עתוס׳ ר״ה כ״ז ב׳ ויום תרועה שם. ושאר מינים כפופים עדיף מכשבה פשוט אבל שאר מינין פשוטים י״ל כשבה עדיף יש קצת זכר. ג׳ עזים ויעלים עיזי דבאל״א. ד׳ שאר מעין. ה׳ שופר מטמא באין אחר י״ל תוקע בלא ברכה עמ״א ג׳ ועולת שבת ו׳ פרה ושור דיעבד פסול לגמרי וה״ה אותן שאין חלולים דלאו שופר הוא. ועשו״ת ח״צ ז״ל סי׳ ל״ד התפלא על הט״ז ז״ל במ״ש איל אחר שה כשבים שזה חיה יו״ד בקמ״ץ אילי בחירק כבש יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 586:1"
+        },
+        "2": {
+          "he": "הגוזל שופר עט״ז בירושלמי ר״פ לולב הגזול לכאורה מפרש דאין בקול דין גזל ותרועה איך שיהיה הוא לכם משא״כ לולב ומצה בעינן לכם הלקיחה וסובר בירושלמי לא פליגי אהדדי ועיין בר״מ ז״ל פ״א משופר והשגת הר״א ז״ל וצ״ע ובב״ח דיהיה משמע ריבויא ובלבוש לכם איום קאי. ובשופר לא הוי מה״ב דאין בקול גזל ועמ״א ד׳ ואי״ה שם יבואר לענין ברכה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 586:2"
+        },
+        "3": {
+          "he": "והוא עט״ז בב״ח הקשה על הב״י דאם יש לשופר בעלים ל״ש דזכה ישראל בו אפילו כיון לזכות בו לאו כלום הוא אלא מיירי משל הפקר וגזול ל״ד אבל הט״ז מפרש כפשוטו שלא נתכוין לזכות בי הישראל רק לגזול הא אם עכו״ם נותן לו במתנה השופר תו הוי של ישראל וכתותי שיעוריה ועמ״א ה׳ מפרש בע״א ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 586:3"
+        },
+        "4": {
+          "he": "אדם עיין ט״ז ועיין בטור וב״י ועפר״ח כאן ומ״א אות ז׳ ובי״ד רכ״ח סי״ג ובש״ך אות נ״ט ועמ״א כאן אות ז׳ ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 586:4"
+        },
+        "5": {
+          "he": "קונם עט״ז דאם אומר על אדם אחד הן קונס או שבועה בודאי חל דלא נשבע לבטל מצוה דהא אפשר לשמוע מאדם אחר ואם אוסר בכולל ג״כ י״ל דחל בשיא״ת ועא״ר אות ט׳ ותקכ״ט ס״ז יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 586:5"
+        },
+        "6": {
+          "he": "אם ניקב עט״ז ר״ה דף כ״ז ע״ב ועב״י באורך ושעת הדחק שאין שופר אחר תרתי למעליותא נמי כשר מינו ורובו קיים אע״פ שמעכב התקיעה או רובו ואין מעכב ובאינו מינו יש לסמוך על הרא״ש דמכשיר ויראה היינו בברכה. ובלבוש דיעבד שתקע יי״ח ובא״ר וא״ז אות ז׳ דאם יש שופר אחר חוזר ותוקע בו ויראה בלא ברכה. עוד שם דאם לא נשתייר רובו אע״פ שיש ב׳ למעליותא פסול אפילו דיעבד יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 586:6"
+        },
+        "7": {
+          "he": "אע״פ עט״ז וצ״ע דמשמע דעכ״פ בעינן ממקום הנחת פה עד הנקב יהא שלם רוב אורך השופר יהיה ארוך או קצר ואז אף שאין שיעור תקיעה ד׳ גודלין שלם כבסעיף ט׳ כשר הא כשרוב שופר האורך נקוב הוי כאלו דיבק שברי שופרות ועב״ח ז״ל וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 586:7"
+        },
+        "8": {
+          "he": "שאין עט״ז הפרש בין נקב שיש חסרון ועגול לבין נסדק ואין בו חסרון רק סדק באורך לא עגול כי נקב שיש חסרון או אפשר באין חסרון רק שהנקב נראה י״א שאין לתקוע בו משום הקריבהו נא לפחתך עיין לבוש ודיעבד כשר ולא אמרינן דיהא נסדק עיין אות י״א ושם יבואר אי״ה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 586:8"
+        },
+        "9": {
+          "he": "אם עט״ז דל״ד לנסדק בס״ט דכאן הסתימה אף שהוא במינו הוי קצת קול אחר מעורב בו ולכך אם אין רובו שלם ממקום הנחת פה לא מהני ד׳ גודלים וה״ה בשופר נקוב ולא סתמו שאין לתקוע לכתחלה נמי לא מהני ד׳ גודלים הא רובו שלם י״ל תוקעין לכתחלה בשופר נקוב עמ״א א׳ ואי״ה שם יבואר בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 586:9"
+        },
+        "10": {
+          "he": "יש להכשיר עט״ז זה דעת הרא״ש דר״ן קאי המעכב התקיעה כמ״ש באות ו׳. והנה דיעה א׳ חזר קולו כמו שהיה קודם הנקב וה״ה אם לא נשתנה הקול מחמת נקב וסתמו במינו כשר אם הקול כמו שהיה ולהרא״ש אף דלא חזר קולו לכמות שהיה קודם שניקב וכ״ש אם חזר לכמות שהיה קודם שניקב ואפשר אם ניקב ולא נשתנה קולו וכשסתמו במינו נשתנה קולו יודה הרא״ש דפסול כה״ג. וסברת הט״ז ז״ל כל במינו לא הוי שופר ודבר אחר מלשון הרא״ש ז״ל אבל מינו אפי׳ נשתנה קולו אין ד״א גורס כו׳ משמע לכאורה אע״ג דלאחר הסתימה נשתנה וקודם הסתימה לא נשתנה כשר במינו. עוד הקשה הרא״ש לדיעה א׳ למה כשלא חזר קולו שהיה קודם שניקב רק קולו כמו שהיה לאחר שניקב למה פסול לדיעה א׳ וע״ז תי׳ הב״י והט״ז לשיטתיה אבל להרא״ש ז״ל במינו כשר בכל ענין וכאמור כנ״ל לכאורה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 586:10"
+        },
+        "11": {
+          "he": "אפי׳ בכל שהוא עט״ז החילוק בין ניקב הוא שיש חסרון ולכך י״א שאין לתקוע בו דהקריבהו נא לפחתך אז קולו פגום עמ״א אות ח׳ ואי״ה שם יבואר ואם סתמו במינו כשר ובלבד שלא יהא סדק כל שהוא בו ובלא סתמו נמי כשר דהרוח יש לו מקום לצאת אין מסדיק כולו לומר כל העומד לסדוק כסדוק דמי משא״כ בסדק ועיין לבוש כתב נקב עגול משמע לכאורה אע״ג שאין בו חסרון ע״י מסמר וכיוצא כל שהנקב עגול אין כח בתקיעה לסדוק משא״כ כשהוא באורך ממש ולהט״ז אין חילוק רק כשיש מקום להרוח לצאת אין מסדיק ואפשר אף באין חסרון כל שיש חלל בנקב אין מסדיק:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 586:11"
+        },
+        "12": {
+          "he": "ונשתייר עט״ז במעכב התקיעה י״ל ע״י משיחה הוא כמ״ש המ״א אות י״א וגרע מניקב ולא סתמו דאע״פ שמעכב התקיעה דכשר מש״ה בעי כאן שיעור ד׳ גודלין אבל אם לא מעכב אצ״ש כלל אבל דעת הפר״ח דאם לא נשתנה קולו אצ״ש תקיעה ואם נשתנה קולו לא מה״ש תקיעה ועמ״א י״א ואי״ה שם יבואר ועיין לבוש משמע הטעם דע״י משיחה לא נסדק מש״ה בעינן שיעור ד׳ גודלין אע״ג דלא נשתנה קולו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 586:12"
+        },
+        "13": {
+          "he": "לרחבו עט״ז כל שיש בהקיפו אין הסדק הולך ומרחיב יותר ולכאורה לדיעה א׳ בס״ח דנסדק לאורכו במיעוטו פסול איך יצויר רוחב הקיפו בלא משהו באורך ומאן מפיס דלא יסדוק באורך ולומר דבאורך דרך לסדוק מעצמו בתולדה עפ״י מקרה והסדק הולך ומאריך על ידי תקיעה משא״כ ברוחב אין דרך כ״א ע״י הכאת אדם ואז לא חיישינן כו׳ זה דוחק וי״ל:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 586:13"
+        },
+        "14": {
+          "he": "ברובו עט״ז ועא״ר אות י״ט דאם דבקו בדבק כשר יע״ש ועמ״א אות י״ג די״א כן דאפילו ברובו וא״כ כ״ש הוא לרחבו דמהני דבק ברובו ואף שלא נשתייר שיעור תקיעה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 586:14"
+        },
+        "15": {
+          "he": "פסול עט״ז משא״כ נסדק ברחבו ברובו אם נשאר שיעור שופר כשר דלא נפרד מעולם ולא הוי ב׳ שופרות כמ״ש באות י״ד יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 586:15"
+        },
+        "16": {
+          "he": "אלא עט״ז עיין בס׳ יום תרועה אפילו הרחיב הקצר לבד או קיצר הרחב לבר ושינה פסול יע״ש. ומ״ש הר״ב אם תקע במקום הרחב פסול מה״ט הוא דבעינן דרך העברתו בראשו של איל וסי׳ לדבר מן המצר קראתי כו׳ עיין לבוש כאן וס״ס תק״ץ ובעט״ז כאן:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 586:16"
+        },
+        "17": {
+          "he": "זכרותו עט״ז ואע״ג דהפנימי אין ראוי לשופר לשון שפופר׳ (עס״א קרני רוב החיות) מ״מ מין במינו אינו חוצץ או אפשר עדיף נמי ועמ״א אות כ׳ ואי״ה שם יבואר ול״ד לסעיף ך׳ דשופר א׳ אמר רחמנא ולא ב׳ שופרות והוסיף עליו כ״ש אפילו במינו פסול זה היה דבוק מתחלה ממש ואה״נ אם הוציא הזכרות וניקב והחזירו לתוכו דפסול ועא״ר אות כ״ד ואות כ״ז ועיין אות י״ט ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 586:17"
+        },
+        "18": {
+          "he": "עובי השופר עט״ז הנה כפי הנראה להמעיין בב״י וב״ח ופרישה יראה שלשה פירושים בברייתא ר״ה כ״ז ב׳ הנחת פה ושלא במקום הנחת פה הפי׳ הא׳ חלל הנקב במקום הקצר ששם מניח פה (חלל נקרא פה ושפתיו מניח מבחוץ על השופר) נקרא מקום הנחת פה ועובי השופר ממש הוא כפשוטו במקום הקצר עובי דופן השופר וכשהוא אומר בעוביו עם בי״ת י״ל דהיינו נתן טבעת זהב בפנים לתוך חלל במקום הקצר נמצא הוסיף בעוביו ופסול הוא מטעם דהקול מיד כשנכנס הוא לתוך הזהב לא לתוך השופר וצפהו זהב מבפנים כולו וכאן קמ״ל במקום הנחת פה נמי פוסל ושלא במקום הנחת פה כשר י״ל אף נתן זהב על עובי השופר ממש נמי כשר ולא מיקרי הוסיף עליו כל שהוא אלא בצד הרחב לא בקצר וחציצה נמי אין פוסלת וא״כ הרחיק השופר מפיו י״ל כשר וכפי הנראה הוא פירוש הר״ן ז״ל. הפי׳ השני הוא פי׳ הב״י בטור ורא״ש הנחת פה על עובי דופן השופר פסול מטעם דהוי כמוסיף עליו כל שהוא הן בצד הרחב או בצד הקצר פסול ומ״ש הטור בעוביו כאלו כתב על עוביו ועב״י עשה כלומר. וא״כ לפי׳ זה י״ל הן צפה טבעת סביב החלל בפנים נמי פסול אלא אף צפה על עובי דופן נמי פסול ושלא במקום הנחת פה היינו בחוץ סמוך ממש מה שמכניס לתוך פיו והוסיף בעוביו מבחוץ כשר אם לא נשתנה קולו ממיעוט זהב. הא נשתנה ממיעוט זהב פסול בכל מקום. ולב׳ פירושים אלו י״ל הרחיק השופר מפיו כשר דחציצה ג״כ אין פוסלת. הפירוש השלישי הוא י״מ בטור במקום הנחת פה אף מבחוץ פסול שהפה שמניח שפתיו בחוץ מפסיק הזהב בין שפתיו ובין השופר ולמדו מכאן דהרחיק השופר מפיו פסול אכל לב׳ פירושים ראשונים אין ללמוד זה. והמחבר העתיק הברייתא ופי׳ בה ב׳ פי׳ א׳ יראה הוא דעת הטור והרא״ש לא פי׳ הר״ן ומ״ש לצד הפנימי היינו עובי השופר ממש עובי דופן השופר הקצר שמניח בפיו מהתחלת חוץ לצד פנימי עד החלל ופסול דהוסיף עליו כל שהוא כמו בצד הרחב ולהט״ז הטעם דתחלה הקול בזהב על שפת עובי דופן השופר ואח״כ לשופר והיא היא קצר (וז״ש זה קצת דלא כב״י היינו מ״ש הב״י פסולה מטעם הוספה והט״ז סובר מטעם דהקול הולך תחלה אל הזהב כו׳) ופי׳ השני הוא פי׳ י״א בטור וכתבם המחבר ללמוד דינו בס״ט הרחיק השופר ותקע בו פסול והיינו מספק ותוקע אח״כ בלא ברכה ועפר״ח והשמיט פי׳ הר״ן ז״ל דמודה המחבר דזה פסול בפשיטות כל שנתן זהב תוך החלל במקום הקצר דהוי חצוצרות ולא שופר. ועיין בבאר הגולה אות נ׳ וסמ״ך משמע דמפרש י״מ א׳ הר״ן והב׳ הטור לא הבינותי ועיין בלבוש יראה שמפרש כמ״ש כאן. ועיין בספר כפות תמרים ועיין פרישה ופר״ח ולי העני כפי כוחי פירשתי:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 586:18"
+        },
+        "19": {
+          "he": "ול״נ דאפילו כו׳ עט״ז דהמחבר ג״כ מודה דבצד הרחב הנקרא קצה העליון שהוא הרחב מפיו למעלה עסי׳ תקפ״ה אין שם מעלה אם הפנימי בולט או שוה לחיצון רק שלא יהא החיצון בולט יותר אבל לצד הקצר במקום פה אז צריך הפנימי בולט קצת על החיצון דאל״כ מכניס שניהם בתוך הפה והקול יוצא משניהם ושופר א׳ אמר רחמנא ועיין לבוש. ואף בולט הפנימי בצד הקצר לא יניח בתוך פיו כ״א הבליטה לחוד וכאמור: והוי יודע שיש פסולי שופר מ״ה ויש מדרבנן כמו לא נשתייר ד׳ גודלים בס״ט כי מ״ה אין שיעור לשופר הלכך אם אין שופר אחר רק פסול מדרבנן יתקע בו עמ״א ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 586:19"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] של איל וכו'. והוא הדין כל מיני כבש הם זכר לעקידת יצחק כמו שכתב סימן תקפ\"ג לאכול ראש כבש, ומכל מקום המהדרין תוקעין בשל איל וכן משמע בט\"ז:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:1"
+        },
+        "2": {
+          "he": "[ב] [לבוש] עקידת יצחק וכו'. כתב מטה משה עקידה זו מראה לנו עקידת יצר הרע ויכוין עצמו כאילו עקוד ידיו ורגליו ונתבטל כל הרגשותיו ויתחרט במעשה ידיו ושליחות יד וברגל אשר הלך בעצת רשעים ועיניו ולבו לשמים וישוב בתשובה כל מה שבלבו על אוהביו ואויביו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:2"
+        },
+        "3": {
+          "he": "[ג] [לבוש] שנכפוף וכו'. ושיירי כנסת הגדולה כתב עוד טעם בשם תלמיד הרשב\"א כדי שיזכור שצריך עיניו למטה בשעת תפילתו כמו ששופר כפוף למטה, עד כאן. ועיין סימן תקפ\"ה סעיף א' שיהפוך פי השופר למעלה, דעת שיירי כנסת הגדולה בפשיטות דראם בהמה טמאה הוא וכן נראה לי מר\"ן ריש פרק ראוהו בית דין שכתב אותן שאינן חלולין כגון ראם וצבי וכו', אבל מגן אברהם כתב דהוא טהור דמתרגמינן ותאו ורימא:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:3"
+        },
+        "4": {
+          "he": "[ד] מבהמה וכו'. כן כתב הר\"ן והקשה ר\"מ רבקש דהא בהמה טמאה לית ליה קרנים כדאיתא במשנה פרק בא סימן, ותירץ מגן אברהם דהתם קאי אחיה, עד כאן. ולפי זה תיקשי על הלבוש שכתב נמי הדין כן בחיה. ואני הארכתי בספרי ליו\"ד סימן פ' דטעו בתרתי, חדא דר\"ן בחולין פירש דרבנן פליגי על מתניתין וכן פסקו הרשב\"א ובית יוסף, ועוד הוכחתי שם דהרמב\"ם והרא\"ש פירשו המתניתין בסימן בין חיה לבהמה אבל טמאה יש לו קרניים, גם תוספות יום טוב בנדה לא דק בזה. גם מה שהניח בצריך עיון על רש\"י שלא פירשו שם על קרניים כמו בחולין לא דק, דסבירא ליה כמו שכתבו תוס' לר\"ת בחולין דף נ\"ט דגם בבהמה טמאה אין קרניים כלל וכמו שכתב מהרש\"א שם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:4"
+        },
+        "5": {
+          "he": "[ה] פסול וכו'. צריך עיון דזה לשון דרכי משה, הר\"ן הניח הדבר בצריך עיון וטוב להחמיר עד כאן לשונו. ואם כן משמע שיש להקל כשאין לו שופר אחר, ולמה חזר רמ\"א וכתב סתם פסול. ונראה לי דעיקר ספק של הר\"ן הוא דלא למדינן שופר מלא הכשירו למלאכת שמים וכו' מדקאמר בשבת דף כ\"ח מאי הוי עלה דתחש שהיה בימי משה. ולעניות דעתי לתרץ דיש לומר דלא גמרינן שעה מדורות דהיינו תפילין, אבל שופר למדינן מיניה דנמי לדורות הוא. והנה בעולת שבת תמה על הוראה זו מדאיצטריך קרא בתפילין למען תהיה תורת ה' בפיך, אלמא דלא קיימא לן כהך מימרא דלא הוכשר וכו', עד כאן. ותימא לתמיהתו דאם כן תיקשי למה פריך בשבת שם למאי דמסיק דלא הוכשר קאי לתפילין תפילין בהדיא כתיב, הוה ליה למיפרך לעיל דסלקא דעתיה דקאי אשאר דברים דאי אפשר לומר כן מדאיצטריך בתפילין אלא פשוט דמימרא זו נלמד מהך קרא דתפילין וכדמשמע בלבוש:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:5"
+        },
+        "6": {
+          "he": "[ו] [לבוש] לא יתקע וכו'. משמע אף בנתייאשו וכן פסק הב\"ח, ונראה דוקא בגזל שופר אבל גזל קרן ועשה שופר מותר כמו שכתב סימן תרמ\"ט וצריך עיון דאפשר דמקודם נמי נקרא שופר, ודין ברכה עיין סימן תרמ\"ט:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:6"
+        },
+        "7": {
+          "he": "[ז] יצא וכו'. ומכל מקום אין מברכין עליו. ונראה לי דמותר ליטול שופר חבירו בלא דעתו ולברך עליו כמו שכתב סימן י\"ד (מגן אברהם), ועיין סוף סימן תנ\"ד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:7"
+        },
+        "8": {
+          "he": "[ח] [לבוש] לא יתקע וכו'. ובשעת הדחק מותר לתקוע בעצמו, כמו שכתב ביו\"ד סימן רכ\"א סעיף י\"ג ב\"ח, וזה לשון רבינו ירוחם אמר קונם שופר זה עלי תוקע בו ובזה מתורץ קושיית הר\"ן למה אמר רבא [ראש השנה] בדף כ\"ח נמי דין דמודר משופר כיון שכבר אמר דמודר הנאה מחבירו מותר, ולפי מה שכתבתי מתורץ דקא משמע לן דהוא בעצמו מותר ובאמת לגירסא דאוסר יש לומר דקא משמע לן דאוסר, ועוד דר\"ן בנדרים דף ט\"ז כתב דאם אמר קונם סוכה עלי כיון שלא הזכיר ישיבת סוכה הנאה קאמר ומותר, עד כאן, והוא הדין בשופר וצריך עיון ודו\"ק, ועיין בספר בית הילל ליו\"ד בסימן רכ\"א שלא עיין בב\"ח כאן הוא ובנו בהג\"ה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:8"
+        },
+        "9": {
+          "he": "[ט] [לבוש] קודם שופר וכו'. כן כתב בית יוסף מר\"ן וכלבו, וכתב עלה וזה לשונו ותוס' ומרדכי והגהות אשירי כתבו שם בפרק ב' דנדרים מסיק רבא דאם אמר ישיבת סוכה עלי קונם או אפילו אמר קונם שלא אשב בסוכה אסור, ונראה דהוא הדין גבי שופר דאם אמר תקיעת שופר עלי קונם אסור לתקוע אם לא נחלק דגבי סוכה בלא מצוה יש הנאה בישיבה אבל שופר אי לאו מצוה אין הנאה בתקיעה עד כאן לשונו. ופשוט דמאי שכתב בית יוסף כתבו שם רצה לומר בפרק ראוהו בית דין דהזכיר למעלה ומה שכתב בפרק ב' דנדרים הוא לשון תוס' ומרדכי ולאפוקי מט\"ז ועולת שבת שהבינו שתוס' ומרדכי כתבו כן בפרק ב' דנדרים ושגגה בידם. עוד הבינו דתוס' וסייעתו מודים לר\"ן וכלבו דקונם שופר לתקיעתו עלי אסור, והר\"ן מודה לתוס' באומר תקיעה שופר עלי קונם. ולעניות דעתי ברור למעיין בדבריהם דלר\"ן וכלבו הכל אסור ולתוס' וסייעתו מסתפקין בכולם, ועוד דטעם דאי לאו מצוה אין הנאה הוא נמי באומר קונם שופר לתקיעתו, (וכן משמע באגודה), אלא דבית יוסף פסק כר\"ן וכלבו בכולם לאסור דלא שבקינן מאי דפשיטא להו משום ספיקא דתוס' וסייעתו וכן עיקר שכן ראיתי שפסק רבינו ירוחם דף מ\"ח וכן כתב כנסת הגדולה מהג\"ה וכן מוכח בדרכי משה שהביא דברי ר\"ן וכלבו וכתב עליהם זה לשונו, אבל תוס' ומרדכי והגהות אשירי מסתפקים בדבר עד כאן לשונו. הרי להדיא דמסופקים בדין דר\"ן וכן נראה לי בכולם לאסור. כתב ט\"ז אם אומר על אדם אחד שלא אשמע קול שופר ממנו או תקיעתו עלי נראה דחל אליבא דכולי עלמא דהא אפשר לשמוע מאחר, עד כאן. וצריך עיון הא באמר תקיעתו עלי כבר כתב רמ\"א בסימן תקפ\"ט סעיף י' ואף שאין אחר נראה דאסור דנדר חל על דבר מצוה ורישא שלא אשמע קול שופר נמי אסור בכל ענין כמו שמבאר הלבוש שמבטל בכלל:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:9"
+        },
+        "10": {
+          "he": "[י] ונשתנה קולו וכו'. פירוש אפילו לא נשתייר בו שיעור תקיעה ט\"ז בשם בית יוסף, ומיהו לכתחילה וכו' אפילו נשתייר בו שיעור תקיעה (כלבו מגן אברהם):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:10"
+        },
+        "11": {
+          "he": "[יא] [לבוש] אבל בדיעבד וכו'. בשולחן ערוך לא כתב כן אלא זה לשונו, ואם הוא שעת הדחק שאין שופר אחר וכו', ונראה דאם יש שופר אחר אף שכבר תקע בדיעבד לא יצא, ויש לתקוע אחר כך בשופר כשר, גם נראה דאם לא נשתייר רובא אף שנסתם במינו וחזר קולו לכמות שהיה קודם שניקב פסול אף בשעת הדחק וצריך עיון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:11"
+        },
+        "12": {
+          "he": "[יב] [לבוש] אבל אם נסדק וכו'. כתב מלבושי יום טוב ונראה לי דכל שכן אם נפגם כדשנינו בפרק אלו מומין דנפגם הוא שיש בו חסרון ונסדק הוא שאין בו חסרון ולכך לא הוצרך לשנות הכא בשופר לכן צריך לדקדק שהרבה שופרות נמצא בהן במקום הנחת הפה פגימת כל דהו מפני הרוק והוא פסול, עד כאן. ולעניות דעתי אפשר דהכא גרע נסדק שאין בו חסרון מנקב שיש בו חסרון דביש בו חסרון לא חיישינן שיוסיף והולך אף שהוא באורך וכן מוכח בט\"ז, ואף שכתב הלבוש היינו נקב עגול וכו' ואפשר דכוונתו באין בו חסרון גם בשולחן ערוך ליתא לשון זה וראיית מלבושי יום טוב ממומין ודאי ליתא דשם אסור בכל הנקבים:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:12"
+        },
+        "13": {
+          "he": "[יג] [לבוש] ויש מתירין וכו'. צריך עיון דמשמע בשולחן ערוך דכולי עלמא מודים לזה ואפשר משום דראה הלבוש שהרא\"ש והטור לא הזכירו סבירא ליה דאסרו, ולעניות דעתי קל וחומר להיתר דמה הר\"ן דסבירא ליה דאפילו דבקו אסור בכל שהוא ואפילו הכי מכשיר בחוט כל שכן הרא\"ש והטור דמכשירין בדבוק כל שהוא:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:13"
+        },
+        "14": {
+          "he": "[יד] [לבוש] והוא שנשתייר וכו'. דוקא שמעכב התקיעה אבל אם אין הקול משתנה עבור זה לא בעי שיעור (ט\"ז):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:14"
+        },
+        "15": {
+          "he": "[טו] [לבוש] ויש אומרים שאינו פסול וכו'. וכן נראה לי להקל בשעת הדחק כי משמע לי בתוס' דף כ\"ז ומרדכי ואגודה וסמ\"ק ורוקח סימן ש\"ג דכשר אפילו יותר מרוב עד כולו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:15"
+        },
+        "16": {
+          "he": "[טז] [לבוש] עד שנסדק רובו וכו'. הא לאו הכי אפילו לא נשתייר שיעור תקיעה כשר (בית יוסף מגן אברהם):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:16"
+        },
+        "17": {
+          "he": "[יז] [לבוש] אפילו הוא סדוק רובו וכו'. בנחלת צבי השיג על הלבוש דליש אומרים עד שנסדוק רובו שהוא המגיד פרק א' אסור אף בדבקו. ולעניות דעתי אינו מוכרח למעיין גם נראה לי דלבוש פסק בזה כתוס' והרא\"ש ורבינו ירוחם ודו\"ק וכן פסק מגן אברהם, אך קשה לי שלא הביא השולחן ערוך מה שכתב בבית יוסף דמשמע בר\"ן דאף בדבקו פסול בכל שהוא ואפשר משום דאינו אלא משמעות, אך צריך עיון הא מפורש בהר\"ן בשם רבינו יהונתן, לכן נראה לי דאם אפשר למצוא שופר אחר בריוח אין להקל בזה כלל:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:17"
+        },
+        "18": {
+          "he": "[יח] ויש אומרים שאינו וכו'. וסברא ראשונה נראה עיקר בפוסקים, אך לכתחילה יש להחמיר ואפילו להפוסקים דמכשירין עד רובו או כולו יש להחמיר לכתחילה דבדבקו שלא במינו נראה דגרע, ונראה דגם המחמיר לא יחמיר אלא כשנשתנה קולו אבל לא נשתנה קולו לא גרע מסתמו שלא במינו דכשר להרבה פוסקים:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:18"
+        },
+        "19": {
+          "he": "[יט] ברובה פסול וכו'. פירוש רוב הקיפה, דהוי כאילו נחתך שם. ונראה לי דהמתירין לעיל בנסדק רובו וארכו ודבקו, הוא הדין בנסדק לרחבו וכן משמע להדיא בספר אדם וחוה דף מ\"ח:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:19"
+        },
+        "20": {
+          "he": "[כ] בארבע גודלים וכו'. מאדם בינוני ובמקום הרחב עיין סימן י\"א סעיף ד':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:20"
+        },
+        "21": {
+          "he": "[כא] ויש מכשירין וכו'. וסברא ראשונה נראה לי עיקר שהרי כתב בית יוסף שרמב\"ם ורא\"ש ור\"ן וסמ\"ג והגהות אשירי פסקו הכי וכן בדרכי משה משמע דדיעה זו בטלה נגד הפוסקים הנזכרים לעיל, ועוד שכן ראיתי במרדכי ואגודה ורבינו ירוחם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:21"
+        },
+        "22": {
+          "he": "[כב] והוסיף עליו כל שהוא וכו'. והא דכשר בנסדק לרחבו סעיף ט' כשנשאר שיעור שופר התם לא מיקרי הוספה כיון דבתחילה היה חתיכה אחת:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:22"
+        },
+        "23": {
+          "he": "[כג] [לבוש] אלא שתקע בצד הרחב וכו'. כן כתב בסוף סימן תק\"צ, וגם על רמ\"א צריך עיון מאי חידש הכא:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:23"
+        },
+        "24": {
+          "he": "[כד] [לבוש] הניחו בתוכו וכו'. ונקבו מתחילה ועד סוף (ר\"ן), ואפילו לכתחילה מותר בית יוסף, ומצאתי בספר אמרכל אם הוציאו והחזירו פסול, ועיין ס\"ק כ\"ז:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:24"
+        },
+        "25": {
+          "he": "[כה] [לבוש] שהוא עדיף ממינו וכו'. וצריך עיון אם כן מנא ליה לש\"ס [ראש השנה] דף כ\"ז דסבירא ליה לאבוה דשמואל מין במינו אין חוצץ דילמא לעולם חוצץ אלא דזה עדיף, ועיין בהרא\"ש ובאמת בכל הפוסקים לא כתבו שהוא עדיף:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:25"
+        },
+        "26": {
+          "he": "[כו] ציפהו זהב וכו'. דאין קטיגור של זהב שעשו ממנו העגל נעשה סניגור, והשופר נכנס לפני ולפנים כדרך כהן גדול ביום כיפור מהרי\"ל, וצריך עיון ליישב כל חילוקי דינים לפי זה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:26"
+        },
+        "27": {
+          "he": "[כז] [לבוש] ששופר אחד וכו'. והא דנקב בזכרותו סעיף ט\"ו דכשר התם הזכרות מדובק בו היטב ורוח לא יבוא ביניהם, אבל שופר בתוך שופר אי אפשר לעשות כך (כלבו):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:27"
+        },
+        "28": {
+          "he": "[כח] [לבוש] ויש מכשירין וכו'. וכן הסכימו אחרונים, ומכל מקום לא יבלוט החיצון בצד הרחב דאז לעולם פסול. כתב דרכי משה כל הפסולים ביום ראשון פסולים בשני:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:28"
+        },
+        "29": {
+          "he": "[כט] [לבוש] אבל מותר וכו'. מדברי מהרש\"ל בתשובת סימן ח' נראה דאפילו ביום טוב שני של ראש השנה מותר (כנסת הגדולה). וצריך עיון דהא אוסר שם ביום טוב שני באתרוג דמצותו אינו אלא דרבנן דמאי חזית דדחי הך שבות דאמירה לכותים משום שבות דאתרוג, ואם כן הוא הדין ביום טוב שני של ראש השנה שאינו דאורייתא אלא מתקנת חכמים. ובאמת תמיהני נמי על הרש\"ל דודאי שבות דאמירה לכותים הוא שבות דשבות יהא נדחה משבות דאתרוג, וצריך לומר דסבירא ליה כיון דביום ראשון שהוא עשה דאורייתא עקרוה חכמים שלא לעבור שבות, הוא הדין ביום שני שהוא עשה דשבות עקרוה בשב ואל תעשה, שלא לעבור על שבות דשבות, ועיין סוף סימן תמ\"ו ועיין סימן תקצ\"ה. ויותר נראה דכיון דמעשה שם היה לשלוח על ארבע פרסאות הוי שבות דאורייתא דחוץ לשתים עשרה מילין הוא. עוד יש לומר דעיקר דינא היה שם לשלוח בשבת אחר אתרוג ובשבת איכא איסור דאורייתא משום הוצאה והעברה. אך קשה אם כן לרש\"ל לטעם דאתרוג דרבנן, הא אף אם יהא דאורייתא אינו דוחה שבות דאיסור דאורייתא, ואין לומר דסבירא ליה כפוסקים שהביא רמ\"א ולבוש סימן רע\"ו דכיון שהוא לצורך מצוה מותר באמירה אף באיסור דאורייתא, דהא כתב רש\"ל כן אליבא דרבינו יונה שהביא הטור, ורבינו יונה לא מתיר אלא בשבות דשבות, גם לא קיימא לן כאותן פוסקים כמו שכתבתי שם. ונראה לי דסבירא ליה כיון דיש אומרים בסימן שמ\"ו דאין רשות הרבים לדידן אם כן לא מחייב משום הוצאה סמכינן עלייהו באמירה דהוי שבות דשבות, וראיה לזה נראה לי מתשובת משאת בנימין סימן צ\"ב ודו\"ק. ועוד נראה לי אפילו חוץ לשתים עשרה מילין נמי מותר בזה, דסמכינן בזה אפוסקים בסימן שצ\"ו דכל תחומין דרבנן גם יש לצרף לזה דעת הפוסקים להתיר לדבר מצוה אף בדאורייתא, ועיין סימן שכ\"ה סעיף י' וסימן של\"ד סעיף י\"ח וסימן תרנ\"ה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:29"
+        },
+        "30": {
+          "he": "[ל] מותר לתקוע וכו'. אפילו מי שהובא בשבילו ואפילו יש לו שופר אחר שאינו של איל, וזה שהובא הוא של איל כתב בדרכי משה דמותר ועיין סימן תרנ\"ה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:30"
+        },
+        "31": {
+          "he": "[לא] [לבוש] מותר לטלטלו וכו'. ועל כל פנים אסור לטלטלו חוץ לארבע אמות (מגן אברהם). והיינו כשאין עיר מוקף חומה כמו שכתב בסימן תקט\"ו סעיף ה' ועיין שם בסוף הסימן אם ישראל אחר שלח:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:31"
+        },
+        "32": {
+          "he": "[לב] מי רגלים וכו'. כמשמעו או מעיין יש ששמו רגלים, כמו שכתב בסימן קל\"ג. מפני הכבוד יש אומרים מפני כבודו של תוקע (שיירי כנסת הגדולה):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 586:32"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "בשל איל וכפוף כו'.  אע\"ג דנקט הש\"ע הני תרתי בחדא מחת' מ\"מ אינם שוים דכפוף הוא עיקר המצוה לכתחלה ולא יצאו י\"ח לכתחלה בפשוט אבל בשל איל אינו מקרי לכתחלה אלא מצוה מן המובחר כ\"מ בטור דכתב נמצא שיש בו ג' חילוקים דהיינו של פרה פסול לגמרי אפי' דיעבד זה חלק א' ושאר מינים כגון עיזים ויעלים פשוטים כשרים בדיעבד זה חלק ב' וכפופים כשרים לכתחלה זה חלק ג' ואח\"כ כתב ומ\"מ מצוה מן המובחר לחזור אחר של איל לזכור עקידת יצחק והיינו חוץ ממנין השלשה דנקט תחלה כי הג' הם מצד הדין אבל של איל אינו נכנס כלל בגדר הדין אלא בצד מצוה מן המובחר וזהירות יתירה וכ\"כ ב\"י והא דכתב הטור תחלה שופר הראוי לתקוע בו כיצד שיהא של איל וכפוף כו' בזה הכניס גם מצוה מן המובחר בכלל ומ\"ש אח\"כ או שאין לו איל וכפוף אמר כן דרך לא זו אף זו ל\"מ אין לו של איל פשיטא דמותר דיעבד אלא אפי' אין לו כפוף וע\"כ סיים בסוף ולכתחלה בעינן שיהא כפוף ואפי' בשל עזים ומ\"מ מצוה מן המובחר לחזור אחר של איל הרי דאינם שוים ואין לטעות ולומר דהך ומ\"מ מצוה מן המובחר הוא החלק השלישי כמ\"ש קצת דזה אינו דא\"כ לא הל\"ל ומ\"מ מצוה כו' אלא ומצוה מן המובחר כו' כיון שזה א' מהחלקים אלא ודאי שהורה לנו אע\"פ שאין זה מצד הדין מ\"מ הוא מצד הבחירה היפה למאן דאפשר וכ\"מ בהדיא באשר\"י שכתב ולכתחלה מצוה בכפופים ובכל הכפופים תוקעים כו' והא דא\"ר אבהו למה תוקעין בשופר של איל ל\"ד נקט איל דשאר כפופים נמי שרי לכתחלה אלא טעמא דמנהגא קאמר  וה\"ק למה תוקעין בשופר ומחזירין עליו לעשו' מצוה מן המובחר כדי שיזכור עקידת יצחק עכ\"ל ונ\"ל דל\"ד של איל אלא ה\"ה כל מיני כבש הם נכללים בכלל זה להזכיר עקידת יצחק שהרי בסימן תקפ\"ג כתב ואוכלין ראש כבש והיינו לזכר עקידת יצחק ובזה ניחא לי דברי הרמב\"ם שכ' וז\"ל שופר שתוקעין בו בין בר\"ה בין ביובל הוא קרן הכבשים כפוף וכל השופרות פסולים חוץ מקרן הכבש עכ\"ל וקשה למה הוצרך להזכיר חוץ מקרן הכבש כיון שזכרו תחלה אלא הל\"ל וכל שאר השופרות פסולים ותו למה לא זכר גם בסיפא הכבש הכפוף אלא נ\"ל דתרתי קאמר תחלה אמר לכתחלה יהיה כבש כפוף ואח\"כ אמר בדיעבד פסולים השאר חוץ מקרן הכבש והיינו אפי' פשוט דכשר בדיעבד ובהך כבש כלל כל מינים כגון עיזים ויעלים  (ויש ראיה לזה מהפסוק שור שה כשבים ושה עיזים איל וצבי ויחמור ויחמור היינו יעלים וכי היכי  דחשיב איל אחר שזכר שה כבשים זכר נמי יחמור שהוא בכלל עזים ושמו מוכיח עליו שקורין אותו אשטנב\"ק כדפרש\"י והיינו כמו עזים שזכרים שלהם נקראים בא\"ק ה\"נ נקראים אלו שטנב\"ק כי גידולו בסלע שהוא אבן) כ\"כ ב\"י וכ\"מ בשם הכל בו וא\"ת שהכל נכלל בכלל כבש כרמב\"ם ואע\"ג שכתב הכ\"מ שאין זה במשמעות דברי הרמב\"ם ופירש בדרך אחר הנלע\"ד כתבתי והו' מוכח דאל\"כ למה לא זכר מדין איל כלום שזה זכר לעקיד' יצחק אלא ודאי שכל אלו נכללי' בכלל איל שהוא כבש ולא בא להוציא אלא פרה ושאר בהמות ואם כן הוה שיטת הרמב\"ם כשיטת הרא\"ש והטור אלא שהמהדרין מן המהדרין נוהגי' לחזור אחר של איל דוקא דהוא זכר טפי לאילו של יצחק כנלע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 586:1"
+        },
+        "2": {
+          "he": "הגוזל שופר כו'.  בירושלמי מה בין זה ללולב בלולב כתיב ולקחתם לכם משלכם ברם הכא כתיב יום תרועה יהיה לכם מ\"מ נראה פירושו דגבי לולב כתיב אצל לקיחה משמע שהלקיח' תהיה משלכם וכן בציצית כתיב ועשו להם דרשינן העשיה משלהם ולא גזול משא\"כ כאן כתיב יום תרועה יהיה לכם סמוך לכם לתרועה ולא נזכר עשית השופר כלל שפי' שתרועה תהיה מ\"מ לכם יהיה מאיזה צד שיהיה בלא עשייה כלל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 586:2"
+        },
+        "3": {
+          "he": "והוא שלא נתכוין לזכות בו.  פירוש שלוקח אותו מן העכו\"ם דרך גזילה ואין כונתו לזכות בו שיהא שלו אלא כדי שיתקע בו עכשיו וע\"ז כתב הטור ואע\"פ שהוא גזול הא אמרי' דיוצא בגזול וכ\"כ ברמזים בהדיא ומו\"ח ז\"ל רוצה לפ' זה אשופר של הפקר ועיקם הדבר מפשוטו וכ' על הב\"י ושארי ליה מארי' והוא שלא כמשפט כי הוא גברא דמרי' סייעי':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 586:3"
+        },
+        "4": {
+          "he": "אדם אחר תוקע.  דמצות לאו ליהנות ניתנו אבל הוא עצמו אסור לתקוע בו אפילו של מצוה שיש הרבה בני אדם נהנים כשהן עצמן תוקעי':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 586:4"
+        },
+        "5": {
+          "he": "קונם לתקיעתו עלי.  זהו ל' נדר דאסר החפץ עליו והנדרים חלים ע\"ד מצוה כדבר הרשות כמ\"ש בי\"ד סי' רט\"ו  ממילא אם אמר שלא אשמע קול שופר הוא ל' שבועה שאוסר נפשו על החפץ ואין שבועה חלה ע\"ד מצוה  וב\"י הביא בשם התו' שכתבו בפ\"ב דנדרים גבי סוכה  שאם או'  ישיבת סוכה עלי קונם אפילו אם אומר שלא אשב בסוכה אסור לישב בסוכה של מצוה ה\"נ בשופר דאם אמר תקיעות שופר עלי קונם אסור לתקוע אם לא לחלק דגבי סוכה בלא מצוה  יש הנאה בישיבה אבל שופר אי לאו מצוה אין הנאה בתקיע' דאינו מתכוין לשיר עכ\"ל ואם אומ' על אדם אחר שלא אשמע קול שופר ממנו או תקיעתו עלי (קונם) נראה פשוט דחל אליבא דכ\"ע דהא אפשר לשמוע מאחר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 586:5"
+        },
+        "6": {
+          "he": "אם ניקב כו'.  יש בזה חילוק דיעות בין הרמב\"ם להרא\"ש דאי' בגמ' ת\"ר ניקב וסתמו בין במינו בין שלא במינו פסול ר\"נ או' במינו כשר שלא במינו פסול וקי\"ל כר\"נ ואמרי' אליביה דהא דמכשר במינו היינו דוקא שנשתייר רובו ורמב\"ם מפ' דר\"נ קאי אאם אין מעכב התקיעה דהיינו אחר סתימה חזר קולו לכמות שהיה תחלה ואפ\"ה אין כשר אלא במינו נמצא בעי' ג' למעליותא אינו מעכב התקיעה ובמינו ונשתייר רובו אבל אם חסר א' מאלו אסור זו היא הדיע' הראשונ' שמביא כאן והרא\"ש ס\"ל דר\"נ קאי אמעכב התקיעה ואפ\"ה כשר במינו ממילא הוה לקולא דלא בעינן אלא תרתי דהיינו מינו ורובו ואפי' מעכב או רובו ואינו מעכב ואפי' אינו מינו וזהו שסיים כאן ואם הוא שעת הדחק כו' שיש לסמוך על הרא\"ש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 586:6"
+        },
+        "7": {
+          "he": "אע\"פ שנשנתנ' כו'. פי' אפי' לא נשתייר בו שיעור תקיעה כ\"כ הרא\"ם הביאו ב\"י בדין נסדק לארכו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 586:7"
+        },
+        "8": {
+          "he": "שאין לתקוע בשופר נקוב.  אבל נסדק אין בכלל זה ודינו מבואר אח\"כ:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 586:8"
+        },
+        "9": {
+          "he": "אם נשתייר רובו שלם.  וכ' הטור דאם לא נשתייר רוב השופר אע\"ג דנשתייר שיעו' שופר ממקו' הנקב עד הנחת פיו אסור אע\"ג דגבי נסדק לרחבו מהני והטעם דמ\"מ יש כאן קול שופר עם ד\"א דהיינו הסתימה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 586:9"
+        },
+        "10": {
+          "he": "יש להכשיר אם נסתם במינו.   ז\"ד הרא\"ש כמ\"ש וכ' ב\"י בשם המזרחי ולפ\"ז אם היה מעכב הנקב את התקיעה קודם סתימה וכשסתמו חזר הקול לכמו שהיה תחלה פשיטא דכשר   ותימא מ\"ש מצפהו זהב מבחוץ דפסול משום דהוי קול שופר וד\"א ואלו הכא דמכשיר אעפ\"י שאותו הקול שלאחר סתימה הוא שופר וד\"א ושמא י\"ל מאחר שע\"י הסתימה חזר למה שהיה כשהיה שלם אע\"פ שהיה מעכב קודם הסתימה ועכשיו אינו מעכב לא מקרי קול הסתימה עכ\"ל  ולענ\"דנ כיון שהוא מינו אין נקרא כלל ד\"א ול\"ד לציפהו זהב  וכ\"כ הרא\"ש בהדיא וז\"ל אבל מינו אפילו נשתנה קולו אין ד\"א גורם שיצא קול וכל הקולות כשרים עכ\"ל עוד כתב הר\"מ לא שמעתי טעם נכון היכא שהיה מעכב תחלה וסתמו ומעכב ולמה יהיה פסול והלא אין קול הסתימ' כלל כיון דחזר למה שהיה קודם הסתימה והיה כשר ותי' ב\"י דאע\"פ שנסתם אע\"ג דעדיין מעכב התקיעה א\"א שיהיה מעכב כ\"כ כמו שהיה מעכב קודם הסתימה ונמצא דהוי שופר וד\"א שהרי אין קול זה כמו כשהיה שלם ולא כשעה שהיה נקוב וק\"ל דא\"כ דא\"א להיות כבתחל' הא גם אם הוא עכשיו כשעה הראשונה נימא דא\"א להיות ממש כבתחלה  כיון שיש עכ\"פ סתימה אלא ודאי דאפשר לצמצם וקושיות הרא\"ם נ\"ל דחיישינן שהסתימה גורמת שהקול של השופר שהיה קודם הסתימה נתקלקל מחמת הסתימה ונולד קול חדש מחמ' הסתימ' בשלמא אם עכשיו חזר לקול הראשון ממש אמרי' שע\"י הסתימ' שהי' במינו נעשה בריה הראשונ' ממש כיון שחזר הקול ממש כן משא\"כ אם לא נולד קול אלא כמו שהיה קודם הסתימה ע\"כ לא נעשה כברי' ראשונה ממילא הוה הקול שנולד עכשיו דבר אחר וע\"כ פסול כנלע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 586:10"
+        },
+        "11": {
+          "he": "אפי' בכל שהוא.  לפי שמחמת רוח וחוזק התקיעה הסדק מוסיף והולך עד שיסדק כו' ונ\"ל הטעם דסדק גרע מניקב ויש שם חסרון דבניקב יש מקום להרוח שמחמת התקיעה להכנס שם דרך החסרון ויצא החוצה ואינו מתחזק להסדיק השופר משא\"כ בסדק שאין מקום להרוח לצאת משום הריוח וע\"כ מתחזק ומסדיק הסדק יותר וגם בסדק אינו מסדיק יותר אא\"כ נסדק באורכו אבל נסדק לרחבו אינו מתחזק ומסדיק יותר לרחבו כי אינו כך בטבעו והסדק שישנו עכשיו ברחבו מחמת שהיה שם איזה קלקול בעור ע\"כ ברחבו אינו פוסל אא\"כ נסדק כבר ברוב הקיפו כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 586:11"
+        },
+        "12": {
+          "he": "ונשתייר שיעור כו'.  זה מיירי שמעכב התקיע'   ודומה לציפה זהב סעיף ט\"ז משום הכי בעינן שיעור אבל אם אין הקול משתנה עבור זה לא ידעתי טעם או ריח דבעינן שיעור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 586:12"
+        },
+        "13": {
+          "he": "לרחבו במיעוטו.  פי' סביב היקפו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 586:13"
+        },
+        "14": {
+          "he": "ברובו פסול.  דה\"ל כאלו ניטל משופר זה ע\"כ אם נשתייר שיעור תקיעה כשר וק\"ל דכיון דחשבינן זה שלמעלה מהסדק כאלו נחתך לגמרי מאי אהני שיש בו שיעור דמ\"מ ה\"ל זה שלמעל' מהסדק הוספה ואמרי' בסעיף י\"א דהוסיף עליו פסול אפי' במינו וא\"ל דהכא שאני דכיון שיש סדק בהקיפו לא מקרי מה שלמעלה ממנו הוספה כיון דחשבינן ליה כאלו אינו דבוק משא\"כ בהוסיף עליו דשם אין סדק כלל דמ\"מ הקול יוצא דרך אותו החלק שלמעלה ושופר אחד אמר רחמנא ולא ב' שופרות ובב\"י הביא בשם הכל בו דגם בהוסיף עליו אם נשתייר בו כשיעור מותר לפ\"ז ניחא אבל להש\"ע שלא פסק כן ק' וי\"ל דלא מקרי הוספה אלא כשהיה תחלה חתיכה אחרת משא\"כ כאן דלא נפרד מעולם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 586:14"
+        },
+        "15": {
+          "he": "פסול אפי' אם יש כו'.  דשופר א' ולא ב' וכן בהוסיף עליו בסעי' שאח\"ז:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 586:15"
+        },
+        "16": {
+          "he": "אלא שהרחיב את הקצר.  דכתיב והעברת דרך העברה בעינן פי' כדרך שהאיל מעבירו בראשו בבהמה מחיים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 586:16"
+        },
+        "17": {
+          "he": "זכרותו.  פי' כשהוא מחובר בבהמה עצם בולט מהראש ונכנס לתוכו ומוציאין אותו מתוכו וזה לא הוציאו אלא נקב את הזכרות אבל אם הוציאו כו' פסול דכל  שאינו חלול לא מקרי שופר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 586:17"
+        },
+        "18": {
+          "he": "עובי השופר לצד הפנימי.  פי' שמניח הזהב על העובי של שופר מה שמניח קציהו לפיו אע\"ג דאין הקול משתנה מחמת הזהב מ\"מ פסול כיון  שהקול יוצא תחלה מן אותו היקף הזהב ואח\"כ מהשופר עצמו וזה אין בכלל הוסיף עליו כל שהוא דשם הולך הקול מן השופר תחלה ואח\"כ  מן התוספת זהב וקמ\"ל דאפ\"ה פסול ולפ\"ז אין ללמוד מכאן אם הרחיק השופר ונפח בו ותקע דשם אין הקול יוצא מתחלה לשום דבר אלא לפירוש השני שפוסל (משום) חציצה פסול נמי בהרחיק ומ\"ה כתב הטור ולמדו מכאן שאם הרחיק כו' אחר שכתב פי' השני וזה קצת דלא כפי' ב\"י:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 586:18"
+        },
+        "19": {
+          "he": "ול\"נ דאפי' כו'.  ול\"נ דגם הש\"ע ס\"ל כן דודאי אין שום תועלת לבליטת הצד העליון אלא דאי הווין שוים למעלה א\"א לצמצם ושמא שופר החיצון בולט כל שהוא טפי מהפנימי וה\"ל מוסיף עליו כל שהוא דפסול אפילו במינו ע\"כ הוצרכו שיהיה הפנימי בולט גם למעלה ואז אין חשש כלל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 586:19"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "איל. לזכר עקידת יצחק וכפוף שיכפפו לבם למקום:",
+          "en": "",
+          "ref": "Magen Avraham 586:1"
+        },
+        "2": {
+          "he": "פרה. ה\"ה שור מפני שנקראו קרן ולא שופר:",
+          "en": "",
+          "ref": "Magen Avraham 586:2"
+        },
+        "3": {
+          "he": "מבהמה טמאה. הקשה ר\"מ רבקש דהא בהמה טמאה ל\"ל קרנים כדאי' בנדה פ' בא סי' ולא עיין בחולין דף נ\"ט דקאי אחיה ע\"ש וע\"ש בתו' ד\"ה אלו הן וכו' וכן הוא ברא\"ש ובטי\"ד סי' ע\"ט דקרנים אין מוציאין רק מספק חזיר ומ\"ש הע\"ש דלא קי\"ל כההיא דלא הוכשרו וכו' לא עיין בשבת דף כ\"ח ע\"ש והטעם דאיתקש כל התורה לתפילין כדאיתא בקדושין דף ל\"ה וגם נראה לי דראם טהור הוא דמתרגמינן תאו ורימא ועוד דהא יש לו קרנים ולחד פי' הוא סימן טהרה:",
+          "en": "",
+          "ref": "Magen Avraham 586:3"
+        },
+        "4": {
+          "he": "ותקע בו יצא. דאין גזל בקול ועססי' תנ\"ד ומ\"מ אין מברכין עליו ועססי' תרצ\"א ונ\"ל דמותר ליטול שופר חבירו בלא דעתו ולברך עליו כמ\"ש סי' תרמ\"ט ס\"ה ואף על גב דשופר מתקלקל קצת בתקיעתו הלא טלית מתקלקל ג\"כ קצת ואפ\"ה שרי כמ\"ש סי' י\"ד וליכא למיחש שיתקע בו הרבה כמו בספרי' דלמה יתקע יותר מכדי חיובו כנ\"ל:",
+          "en": "",
+          "ref": "Magen Avraham 586:4"
+        },
+        "5": {
+          "he": "נתכוין לזכות. משמע בטור וב\"י ורא\"ש דאפי' הוא של עכו\"ם אם נתכוין הישראל לזכו' בו לא יצא דה\"ל ע\"א של ישראל והב\"ח כ' דמיירי בע\"א של הפקר אבל אם יש לה בעלים אף על פי שנתכוין לזכות בה לא קנאה וה\"ל ע\"א של עכו\"ם עכ\"ל ול\"נ דהא קי\"ל דישראל אינו מבטל ע\"א של עכו\"ם משום גזירה דלמא מגבה לה והדר מבטיל לה וה\"ל ע\"א של ישראל כדאי' בע\"א ד' מ\"ב א\"כ מוכח בהדיא דאע\"פ שיש לה בעלים מקרי ע\"א של ישראל וכ\"מ בתו' סוכה דף ל\"א דא\"כ לא מקש' כלום דהל\"ל דמיירי בע\"א שיש לה בעלי' וכ\"מ ביבמות דף ק\"ד והטעם כיון דהישראל חייב באחריותו מקרי שלו וכן מצינו גבי חמץ וגדול' מזו כ' הב\"י בי\"ד רסי' קמ\"ו די\"א דאפי' לא זכה בה כל שנקרא שמו עליו אין לה ביטול ואף דלא קי\"ל הכי והראי' שמביא מנשתתפו ליתא כדאי' בקדושין די\"ז דמוכח שם דכשנשתתפו זכה בה עד שלא באה לידו ע\"ש מ\"מ כשזכה בה לכ\"ע אסור אפי' בתורת גזילה:",
+          "en": "",
+          "ref": "Magen Avraham 586:5"
+        },
+        "6": {
+          "he": "בנתבטל מערב י\"ט. אבל כשנתבטל בי\"ט א\"כ נדחה כשנכנס י\"ט ושוב אינו נראה כיון שאין בידו לתקן דהא אין ישראל יכול לבטלו אבל בדבר שיש בידו לתקן אפי' נראה ונדחה לא הוה דחוי כמ\"ש סי' תרמ\"ו ס\"ב (ועבב\"י) דאע\"ג דאסור למעטן בי\"ט מ\"מ הוי בידו למעט וצ\"ע בי\"ד סי' כ\"ח סי\"א דפסק כסהו הרוח פטור מלכסות אפי' (הכי) חזר ונתגלה (חייב) דאין דחוי אצל מצוה והל\"ל דיכסנו (רק) מספק כמ\"ש כאן דהא בגמ' בע\"א דף מ\"ו מדמי להו להדדי וכ\"כ התו' בסוכה דף ל\"ג ע\"ש דזה מקרי אין בידו ע\"ש בדף ל\"ב ונ\"ל דדעת הטור והרב\"י והפוסקים כמ\"ש התו' בע\"א דבעי' דר\"ל אינו אלא לכתחל' ובזה מתורצי' כל הקושיו' שהקשו התו' בסוכ' ע\"ש וא\"כ הוי דינא הכי בדיעבד יצא אפי' בלא ביטול ולכתחלה לא יטול אפי' אחר שנתבטל דמאיס כלפי גבוה וכ\"כ סי' קנ\"ד סי\"א ולפ\"ז צ\"ל דהא דכתב בסי' י\"א ס\"ח צמרה פסול היינו לכתחלה דבדיעבד יצא וה\"ה דקרנה פסול לכתחל' לשופר והתם מיירי בע\"א של ישראל אלא שב\"ח אין נאסרי' ואפ\"ה מאיס לגבוה:",
+          "en": "",
+          "ref": "Magen Avraham 586:6"
+        },
+        "7": {
+          "he": "המודד. ובשעת הדחק מותר לתקוע בו בעצמו כמ\"ש בי\"ד סי' רכ\"א סי\"ג (ב\"ח):",
+          "en": "",
+          "ref": "Magen Avraham 586:7"
+        },
+        "8": {
+          "he": "בשופר נקוב. אפי' נשתייר בו שיעור תקיעה משום שקולו פגום כ\"מ בכל בו:",
+          "en": "",
+          "ref": "Magen Avraham 586:8"
+        },
+        "9": {
+          "he": "שעת הדחק. נ\"ל דהדק הסתימה אסור ליטלה בי\"ט דאל\"כ יטלנה משם:",
+          "en": "",
+          "ref": "Magen Avraham 586:9"
+        },
+        "10": {
+          "he": "בכל שהוא. דכל זמן שתוקע הסדק מוסיף והולך וגרע מנקב (ב\"ח רא\"ם):",
+          "en": "",
+          "ref": "Magen Avraham 586:10"
+        },
+        "11": {
+          "he": "ונשתייר שיעור כו'. צ\"ע דלמה יגרע בזה מנקב אפי' לא נשתייר שיעור תקיע' כשר כמ\"ש הב\"ח בהדיא ואפשר כיון דקשרו ה\"ל כאלו סתמו קצת וצ\"ע בכל בו:",
+          "en": "",
+          "ref": "Magen Avraham 586:11"
+        },
+        "12": {
+          "he": "דוקא ברובו. הא לא\"ה אפי' לא נשתייר שיעור תקיעה כשר (ב\"י תוס'):",
+          "en": "",
+          "ref": "Magen Avraham 586:12"
+        },
+        "13": {
+          "he": "דבקו כשר. משמע מלשונו אפי' נסדק רובו וכ\"ה ברא\"ש ותוס' ורי\"ו דכל זמן שנשתייר כל שהוא כשר אם דבקו וכ\"כ הב\"ח ולבוש דלא כמ\"מ:",
+          "en": "",
+          "ref": "Magen Avraham 586:13"
+        },
+        "14": {
+          "he": "בדבק. ואין זה נקרא שלא במינו דאין הדבק ניכר בין הדבקים טור:",
+          "en": "",
+          "ref": "Magen Avraham 586:14"
+        },
+        "15": {
+          "he": "ויש וכו'. אבל בדבק ה\"ל שלא במינו ודינו כמ\"ש ס\"ז:",
+          "en": "",
+          "ref": "Magen Avraham 586:15"
+        },
+        "16": {
+          "he": "פסול. דה\"ל ב' שופרות:",
+          "en": "",
+          "ref": "Magen Avraham 586:16"
+        },
+        "17": {
+          "he": "ברובו פסול. דה\"ל כאלו נחתך שם:",
+          "en": "",
+          "ref": "Magen Avraham 586:17"
+        },
+        "18": {
+          "he": "ד' גודלים. באדם בינוני (טור) ובעינן במקום הרחב עסי' י\"א ס\"ד:",
+          "en": "",
+          "ref": "Magen Avraham 586:18"
+        },
+        "19": {
+          "he": "שיעור שופר. אפילו הוא שלם בכל היקפו דהוי דומיא דהוסיף עליו כ\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 586:19"
+        },
+        "20": {
+          "he": "נקב בו כשר. ואפי' לכתחלה מותר לעשות כן דמין במינו אינו חוצץ וכ\"מ בסוכה דף ל\"ו ולקמן סי' תרנ\"א:",
+          "en": "",
+          "ref": "Magen Avraham 586:20"
+        },
+        "21": {
+          "he": "כל אורך השופר. ואם עשה זהב כל שהוא סמך להנחת פיו מסתמא אין קולו משתנה בשביל כך [הרא\"ש]:",
+          "en": "",
+          "ref": "Magen Avraham 586:21"
+        },
+        "22": {
+          "he": "ואם לאו פסול. ואפי' להמכשירים בסתמו במינו כמ\"ש ס\"ז הא פסול דהוי ב' שופרות:",
+          "en": "",
+          "ref": "Magen Avraham 586:22"
+        },
+        "23": {
+          "he": "שבות. משום די\"ט עשה ול\"ת הוא ואין עשה דשופר דחי ל\"ת ועשה וחכמים השוו דבריהם לשל תורה והעמידו דבריהם במקום עשה: ואם נפל עליו גל של אבנים אסור לטלטל האבנים כדי ליטלו [טור גמ']:",
+          "en": "",
+          "ref": "Magen Avraham 586:23"
+        },
+        "24": {
+          "he": "תוקעין בו. דהא שרי לטלטלו וא\"כ שרי לצאת בו דלא אסרו חכמים למי שהובא בשבילו אלא באכילה ובהנאה ומצות לאו ליהנות ניתנו טור סי' תרנ\"ה והג\"א ומרדכי פ\"ו דעירובין ועכ\"פ אסור לטלטלו חוץ לד\"א וכמ\"ש סי' תקט\"ו ס\"ה ולפמ\"ש שם סוף הסי' אם ישראל אחר שלחו ונתעכב והביאו בי\"ט אסור לטלטלו עמ\"ש שם, והקשה הלבוש דהא אפי' לכתחלה שרי לומר לעכו\"ם להביאו מחוץ לתחום דה\"ל שבות דשבות וא\"כ מאי איצטריך למימר דתוקעים בו ותי' דמיירי בחוץ לי\"ב מיל דהוי דאורייתא עכ\"ל ועסי' ת\"ד:",
+          "en": "",
+          "ref": "Magen Avraham 586:24"
+        },
+        "25": {
+          "he": "עשה עכו\"ם שופר. צ\"ע דהא נולד גמור הוא כמ\"ש סי' תק\"א והוא גמ' בשבת דכ\"ט וא\"כ אסור לטלטלו לצאת בו דלא עדיף מאלו מונחים עליו אבנים ועמ\"ש סי' תרנ\"ה וכ\"מ בטור שם דאי אסור לטלטלו אסור אפי' לצאת בו והר\"א שבמרדכי אפשר דס\"ל כהמתירין נולד בי\"ט וצ\"ל דהכא מיירי כשעשה עכו\"ם שופר מקרן שלו דלא הוי נולד כיון שגמרו בידי אדם וכמ\"ש סי' רצ\"ב ובגמ' מיירי שחקקה בבקעת ישראל ועסי' שכ\"ה ס\"ד, וכל הפסולי' בראשון פסולים גם ביום שני (ד\"מ רשב\"א) ול\"ד למ\"ש סי' תרמ\"ט ס\"ה דפסולי ראשון ניטלים בשני דהת' אותן הפסולים עכ\"פ כשרים הם לשאר ימות החג משא\"כ כאן דפסולים לגמרי:",
+          "en": "",
+          "ref": "Magen Avraham 586:25"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "מצותו.  ויש לו דין הידור מצוה עד שליש כמו גבי לולב סימן תרנ\"ו ע\"ש. ועיין ט\"ז ס\"ק א' ובתשו' חכם צבי סימן ל\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 586:1"
+        },
+        "2": {
+          "he": "פרה.  וה\"ה שור מפני שנקראו קרן ולא שופר:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 586:2"
+        },
+        "3": {
+          "he": "טמאה.  מה שהקשה ר\"מ רבק\"ש דבהמה טמאה אין לה קרנים ע' אחרונים ובש\"ת חות יאיר סי' כ' ובי\"ד סימן ע\"ה ובפר\"ח שם סימן פ' ס\"ק ד' ועיין ביד אהרן באורך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 586:3"
+        },
+        "4": {
+          "he": "הגוזל.  ומ\"מ לא יברך עליו. ומותר ליקח שופר חבירו בלא דעתו ולברך עליו. מ\"א ע\"ש. ואם נסדק בתקיעה פטור. הלק\"ט חלק א' סימן ע\"ט:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 586:4"
+        },
+        "5": {
+          "he": "לזכות.  דהיינו לקחו מן העכו\"ם דרך גזילה ולא לזכות בו אלא כדי שיתקע בו עכשיו. ט\"ז ועיין מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 586:5"
+        },
+        "6": {
+          "he": "אחר.  ובשעת הדחק מותר לתקוע לעצמו. ב\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 586:6"
+        },
+        "7": {
+          "he": "קונם.  זהו לשון נדר דאוסר החפץ עליו והנדרים חלים על דבר מצוה כדבר הרשות כמ\"ש ביו\"ד סי' רט\"ו ממילא אם אמר שלא אשמע קול שופר הוי לשון שבועה שאוסר נפשו על החפץ ואין שבועה חלה ע\"ד מצוה עיין ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 586:7"
+        },
+        "8": {
+          "he": "נקוב.  אפילו נשתייר בו שיעור תקיעה משום שקולו פגום כל בו מ\"א. ועיין ט\"ז ופשוט דנסדק אינו בכלל זה ודינו מבואר אח\"כ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 586:8"
+        },
+        "9": {
+          "he": "הדחק.  צ\"ל דהדק הסתימה דאסור ליטלה בי\"ט דאל\"כ יטלנה משם. שופר שגלדו דק ועשו לו חשוקים של ברזל כשר לתקוע בו. הלק\"ט חלק א' סימן ע\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 586:9"
+        },
+        "10": {
+          "he": "ממקום.  ומיירי שמעכב התקיעה דאל\"כ לא בעי שיעור ע' ט\"ז מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 586:10"
+        },
+        "11": {
+          "he": "חממו.  ואם נשתייר בו כ\"ש אם דבקו. ב\"ח מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 586:11"
+        },
+        "12": {
+          "he": "ארבעה.  באדם בינוני ובעי' במקום הרחב עיין סימן י\"א ס\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 586:12"
+        },
+        "13": {
+          "he": "במקום.  ואם עשה זהב כל שהוא סמוך להנחת פיו מסתמא אין קולו משתנה בשביל כך הרא\"ש. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 586:13"
+        },
+        "14": {
+          "he": "לתוך.  ואם נתן שני שופרות בפיו ותקע וכוון לצאת בשניהם לא יצא הלק\"ט סימן רע\"ה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 586:14"
+        },
+        "15": {
+          "he": "שבות.  ואם נפל עליו גל של אבנים אסור לטלטל האבנים כדי ליטלו. טור גמרא:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 586:15"
+        },
+        "16": {
+          "he": "תוקעין.  אפי' מי שהובא בשבילו ואפי' יש לו שופר אחר שאינו של איל וזה שהובא של איל כתב הד\"מ דמותר ע\"ש. ועיין מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 586:16"
+        },
+        "17": {
+          "he": "עכו ם.  ומיירי שעשה מקרן שלו דלא הוי נולד מ\"א ע\"ש. וכל הפסולים בראשון פסולים גם ביום שני. ד\"מ רשב\"א מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 586:17"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) של ראש השנה - לאפוקי בתענית שתוקעין ג\"כ בשופר לא בעינן של איל וכפוף:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:1"
+        },
+        "2": {
+          "he": "(ב) בשל איל - לזכר עקידת יצחק. ובכלל זה גם כבשה נקבה אלא דהמהדרין ביותר נוהגין לחזור אחר של איל דוקא דהוא זכר טפי לאיל של יצחק:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:2"
+        },
+        "3": {
+          "he": "(ג) וכפוף - לסימן שיכפפו לבם למקום:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:3"
+        },
+        "4": {
+          "he": "(ד) ובדיעבד כל השופרות וכו' - ר\"ל אפילו של שאר בהמות או חיות ומ\"מ ביש לו שופר של תיש ועז יקדימנו לשופר של יעלים (הוא מין חיה) ושאר חיות דהוא קרוב למין שה יותר כדכתיב שה כשבים ושה עזים ואיכא זכר קצת לעקידת יצחק:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:4"
+        },
+        "5": {
+          "he": "(ה) ומצוה בכפופים וכו' - ר\"ל דלאו דוקא באיל אלא אפילו בשאר בהמות וחיות ג\"כ כפוף עדיף מפשוט. והנה המחבר סתם ולא ביאר איל פשוט וכפוף משאר מינים איזה מהן עדיף אכן מסקנת רוב הפוסקים דמעלת כפוף עדיף לפיכך אם נזדמן לו של יעל כפוף ושל כבש פשוט יתקע בשל יעלים וכפוף דתקון רבנן לתקוע בכפוף לסימן שיכפפו לבם למקום בתפלה משא\"כ שופר של איל אינו תיקון רבנן לתקוע דוקא בשל איל אלא מנהג שנהגו כל ישראל מעולם לזכר עקידה ואיכא בזה מצוה מן המובחר. ומ\"מ כתבו המפרשים דגם בזה יש עכ\"פ דינה דהידור מצוה וע\"כ אם מבקשים ממנו להוסיף על שופר של איל יוסיף עד שליש וכעין המבואר לקמן בסימן תרנ\"ו:",
+          "en": "The Mitzvah is with bent ones... - This means even if it is not from a ram, but from other animals, nevertheless a bent one is better than a straight one...",
+          "ref": "Mishnah Berurah 586:5"
+        },
+        "6": {
+          "he": "(ו) של פרה - וה\"ה שור והטעם מפני שנקראו קרן ולא שופר:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:6"
+        },
+        "7": {
+          "he": "(ז) וכן קרני רוב החיות - כמו הראמים והצביים וכדומה ופסול שלהם הוא משום דשופר צריך להיות חלול דשופר הוא מלשון שפופרת. ופסולים אלו דפרה ודעצם אחד הוא מן התורה ואפילו אין לו שופר אחר אין לתקוע בהם:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:7"
+        },
+        "8": {
+          "he": "(ח) וכן שופר מבהמה טמאה - וכמו דלא הוכשרו תפילין ליעשות מעור בהמה טמאה וכתבו האחרונים שאין דין זה ברור ולהכי אם אין לו שופר אחר יתקע בו אכן לא יברך עליו דשמא הוא פסול מדינא וכשיזדמן לו אח\"כ שופר כשר צריך לתקוע עוד הפעם וג\"כ בלא ברכה דשמא כבר יצא בשופר בשופר הראשון ולכו\"ע שופר של נבילה וטריפה כשר לתקוע בו:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:8"
+        },
+        "9": {
+          "he": "(ט) הגוזל שופר וכו' - ואינו דומה ללולב ומצה וציצית הגזולים לפי שמצות השופר אינו אלא השמיעה לבד ואין בשמיעת קול דיני גזל שהרי בשמיעתו אינו נוגע בשופר כלל ולפיכך אע\"פ שתקע בו באיסור גזל כיון שבעיקר המצוה דהיינו השמיעה אין בה איסור גזל יצא י\"ח וכ\"ז בשתקע אבל לכתחלה אסור לתקוע בו בע\"כ של בעל השופר ואפילו נתייאשו הבעלים ממנו ומכש\"כ דאין לברך עליו משום בוצע ברך וגו'. ועיין לעיל סימן י\"א ס\"ו בבה\"ל דאפילו היה יאוש ושינו רשות או שינוי מעשה ג\"כ אין כדאי לברך. וכתבו האחרונים דמותר ליטול שופר של חבירו בלא ידיעתו ולתקוע בו דניחא ליה לאינש למיעבד מצוה בממונו ובודאי היה מתרצה ורשאי לתקוע בו כל המאה קולות אע\"פ שאינו מדינא כיון שנהגו כן בודאי לא ימחה בזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:9"
+        },
+        "10": {
+          "he": "(י) של עכו\"ם של ישראל - כגון שעבד לשופר. וה\"ה כששימש בו לפני הע\"ז שלו שתקע לפניה:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:10"
+        },
+        "11": {
+          "he": "(יא) שאינה בטלה - ר\"ל דכיון דא\"א בשום פעם שתהא ניתרת וע\"כ לאיבוד קאי לשרפה או להוליכה לים המלח הרי הוא כמי שאינו ולא עדיף משופר כשר ורק שאין בו שיעור גדלו שהוא פסול וכ\"ש הכא:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:11"
+        },
+        "12": {
+          "he": "(יב) אבל וכו' של עכו\"ם - כגון שמצא שופר ע\"ז של נכרי או ששאל אותה ממנו:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:12"
+        },
+        "13": {
+          "he": "(יג) לא יתקע - משום דמאיס. ואפילו בנתבטל ג\"כ אסור לכתחלה לכמה פוסקים:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:13"
+        },
+        "14": {
+          "he": "(יד) יצא - אפילו קודם שנתבטל והטעם דכיון שאפשר לבטלו כדין ע\"ז של נכרי שנכרי מצי מבטל לי' לא שייך ביה לומר הרי היא כמי שאינה דאפשר לא תבא כלל לידי שריפה ואי משום שנהנה מאיסורי הנאה ג\"כ לא אסור דקיום מצוה לא מיקרי הנאת הגוף אלא הוא גזירת מלך. ופשוט דאם אין לו שופר אחר תוקע בו לכתחלה כדי שלא לבטל המ\"ע:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:14"
+        },
+        "15": {
+          "he": "(טו) והוא שלא נתכוין לזכות בו - בשעה שמצאו והגביהו מן הקרקע אלא הגביהו רק כדי לתקוע בו ועיין בה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:15"
+        },
+        "16": {
+          "he": "(טז) דהו\"ל עכו\"ם של ישראל - ואע\"ג דישראל לא עבדה מ\"מ אין לה בטול כיון דעכשיו היא של ישראל ויש שכתבו דלא קאי רק אעבודה זרה של עכו\"ם אבל לא אמשמשי ע\"ז דבמשמשי ע\"ז של עכו\"ם אפילו באו ליד ישראל לא מחמרינן בהו כולי האי ויש להם ביטול וכמו דפסק המחבר ביו\"ד סימן קמ\"ו ס\"ב ויש שמחמירין גם בזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:16"
+        },
+        "17": {
+          "he": "(יז) אלא בנתבטל - הטעם כנ\"ל דכיון שהוא אסור בהנאה הרי הוא כחסר מן שיעורו שהוא פסול ואע\"ג שאפשר לבטלה מ\"מ עדיין לא נתבטל ובאיסורו קאי:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:17"
+        },
+        "18": {
+          "he": "(יח) בעיו\"ט - דאם לא נתבטל בשעה שקידש היום א\"כ לא היה ראוי אז לתקוע בו (לפי שיטה זו שפסול לתקוע בו קודם ביטול) ונדחה אז וא\"כ אפילו ביטלו העכו\"ם אח\"כ ביו\"ט והותר מ\"מ שמא יש דיחוי אצל מצות וכבר נפסל. ולענין דינא קי\"ל כסברא הראשונה שהוא סברת רוב הפוסקים ואפילו בלא נתבטלה כלל יכול לתקוע בו אם אין לו אחר רק אם ימצא אח\"כ שופר כשר צריך לתקוע בו מחדש לצאת ידי סברא זו ובלי ברכה:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:18"
+        },
+        "19": {
+          "he": "(יט) של תקרובת עכו\"ם - פי' בהמה שהקריבוה לקרבן לפני ע\"ז ועשאו מקרניה שופר:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:19"
+        },
+        "20": {
+          "he": "(כ) משום דאינה בטילה וכו' - וכתותי מיכתת שיעוריה וכנ\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:20"
+        },
+        "21": {
+          "he": "(כא) המודר הנאה משופר - כגון שאמר קונם הנאת שופר עלי:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:21"
+        },
+        "22": {
+          "he": "(כב) אדם אחר וכו' - ר\"ל אע\"ג דאין יכול להפקיע עצמו ממצות שופר בשביל נדר זה דמצוה לא מיקרי הנאה וכנ\"ל מ\"מ ישמע תקיעת שופר מאחר ולא יתקע בעצמו והטעם כתבו הפוסקים משום דיש הרבה ב\"א שיש להם הנאה כשהם תוקעין והנאת הגוף ליכא לשרויי בשביל טעמא דמצות לאו ליהנות נתנו ומ\"מ כתבו האחרונים דבשעת הדחק שאין לו אחר מותר לו בעצמו לתקוע רק שאין לו לתקוע כ\"א עשרה קולות דהיינו תשר\"ת תש\"ת תר\"ת שהם מעיקר הדין:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:22"
+        },
+        "23": {
+          "he": "(כג) קונם לתקיעתו עלי - שלא הזכיר הנאה ור\"ל שאמר קונם השופר לתקיעתו עלי וע\"כ חייל כיון שפירש לאסור על עצמו השופר לתקוע בו כמו שאוסר ע\"ע הצרור לזרוק בו אף שאין לו הנאה אבל אם אמר סתם קונם שופר עלי מותר לתקוע בו תקיעה של מצוה:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:23"
+        },
+        "24": {
+          "he": "(כד) אסור לתקוע וכו' - ואפילו פירש בנדרו תקיעה של מצוה והטעם דנדרים איסור חפצא הוא וחל אפילו על דבר מצוה ואפילו לשמוע תקיעת שופר מאחר ג\"כ בכלל איסור זה. ודע דיש פוסקים שר\"ל שאין חל הנדר אא\"כ אסר השופר עליו כגון שאמר שופר עלי בקונם לתקוע בו אבל באסר עליו התקיעה כגון שאמר תקיעת שופר עלי בקונם אינו חל דהתקיעה אין בו ממש ונדרים אין חלין אדבר שאין בו ממש. אמנם כמה פוסקים סוברין שחל אף בזה כיון שעכ\"פ הזכיר בנדרו חפצא סתמא דמילתא כונתו לאסור החפץ עליו. וכ\"ז לענין איסור תורה אבל מדרבנן איכא איסורא בכל גווני אפילו בנדר שאין בו ממש כמבואר ביו\"ד סימן רי\"ג וע\"כ אסור לתקוע בו קודם שיתיר הנדר. ומפורש בפוסקים דכ\"ז בנדר אבל בשבועה אינו יכול להפקיע א\"ע ממצות תקיעת שופר דמושבע ועומד מהר סיני לקיים מצות התורה אם לא שכלל בשבועתו לאסור עצמו בשמיעת כל תקיעה דמשמע אפילו בתקיעה של רשות ובזה חל שבועתו בכולל לאסור גם בשל מצוה וישתדל להתיר שבועתו. ואפילו גבי נדרים אם אסר עצמו לשמוע שופר מפלוני אינו נפקע בזה ממצות תקיעת שופר וצריך לבקש איש אחר לשמוע ממנו שופר ואם לא ימצא אחר אסור לשמוע מאיש זה אפילו אסר עצמו בשבועה שאינו כנשבע לבטל את המצוה שבשעה שיצא שבועה מפיו לא היתה לבטל שהרי אינו מצווה לשמוע מאיש זה דוקא:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:24"
+        },
+        "25": {
+          "he": "(כה) דק מאד - וה\"ה אם היה צרוד ויבש:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:25"
+        },
+        "26": {
+          "he": "(כו) אם ניקב וכו' - אקדים לזה הסעיף הקדמה קצרה והוא. איתא בגמרא ת\"ר ניקב וסתמו בין במינו ובין שלא במינו פסול ר' נתן אומר במינו כשר שלא במינו פסול. וכתבו הפוסקים דקי\"ל כר\"נ ואמרינן שם דהא דמכשר ר\"נ במינו היינו דוקא כשנשתייר רובו שלא ניקב והנה בביאור הסוגיא יש דיעות בין הראשונים הרמב\"ם וסייעתו מפרשים דר\"נ קאי אאין מעכב התקיעה דהיינו אחר סתימה חזר קולו לכמות שהיה תחלה קודם שניקב ואפ\"ה אין כשר אלא במינו נמצא בעינן תלתא למעליותא אינו מעכב התקיעה ובמינו ונשתייר רובו אבל אם חסר אחד מאלו פסול זו היא הדעה ראשונה שהובא כאן והרא\"ש וסייעתו ס\"ל דר\"נ קאי רק אמעכב התקיעה ואפ\"ה כשר במינו ובשאינו מעכב אפילו שלא במינו כשר אם נשתייר רובו וממילא לפי ביאור זה הוי לקולא דלא בעינן אלא תרתי דהיינו מינו ורובו ואפילו מעכב או רובו ואינו מעכב ואפילו אינו מינו וזהו שסיים המחבר לקמיה ואם הוא שעת הדחק וכו' היינו שאז יש לסמוך על הרא\"ש וסייעתו:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:26"
+        },
+        "27": {
+          "he": "(כז) אע\"פ שנשתנה קולו כשר - שכל הקולות כשרים בשופר וכנ\"ל והיינו אפילו לכתחלה לדעת המחבר וכתבו הפוסקים דאפילו לא נשתייר בו שיעור תקיעה דהיינו טפח שלם בלי נקבים נמי כשר ומ\"מ כתבו האחרונים דאם היה רובו של שופר נקוב אפילו נשתייר בו שיעור תקיעה שלם ג\"כ פסול דרובו ככולו ועיין בבה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:27"
+        },
+        "28": {
+          "he": "(כח) מיהו וכו' כי י\"א וכו' - ס\"ל דשופר נקוב פסול כמו שופר שנסדק ויש לנו לחוש לדעה זו לכתחלה ואפילו נשתייר בו שיעור תקיעה למעלה לצד הפה שאין בו נקב כלל ומ\"מ משמע דגם לסברא זו היינו דוקא היכי שהנקב מורגש בתקיעה שהקול נפגם על ידו ונשתנה קולו אבל היכי שקולו צלול אין נקב כזה חשוב ותוקעין בו לכו\"ע:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:28"
+        },
+        "29": {
+          "he": "(כט) ואם סתמו וכו' - ר\"ל דאע\"ג דכשלא סתמו כשר לדעת המחבר כשסתמו גרע טפי דכשסתם בשאינו מינו א\"כ אינו שומע קול שופר בלחוד רק קול שופר וקול דבר אחר שמעורב בו וכן כשסתמו במינו ולא חזר קולו לכמות שהיה בתחלה הרי אנו שומעין שקול השופר הזה אינו קולו של השופר הראשון אלא מן הסתימה והסתימה אינה בטלה והוי נמי כמו קול שופר וד\"א מעורב בו:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:29"
+        },
+        "30": {
+          "he": "(ל) לכמות שהיה בתחלה - קודם שניקב וכ\"ש אם קולו דומה רק לקול של קודם הסתימה:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:30"
+        },
+        "31": {
+          "he": "(לא) אם נשתייר וכו' - דאם לא נשתייר רובו שלם פסול לכו\"ע אפילו סתם במינו וקולו כמות שהיה תחלה דתו בטיל ממנה שם שופר ולא נעשה שופר אלא ע\"י סתימה זו ונמצא דהוי שופר ודבר אחר:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:31"
+        },
+        "32": {
+          "he": "(לב) רובו שלם - ר\"ל באורך השופר לצד פיו:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:32"
+        },
+        "33": {
+          "he": "(לג) שעת הדחק וכו' - ודוקא שלא נזכר עד יו\"ט דאז אסור ליטול הסתימה דהוי כתיקון כלי כיון שעי\"ז מכשיר השופר אבל אם נזכר קודם יו\"ט יטול הסתימה ודינו כאלו לא סתמו דכשר [אחרונים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:33"
+        },
+        "34": {
+          "he": "(לד) שאין שופר אחר מצוי - אבל אם יכול להשיג שופר אחר אף אם כבר תקע בשופר שיש בו תרתי למעליותא יחזור ויתקע ולא יברך [פמ\"ג]:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:34"
+        },
+        "35": {
+          "he": "(לה) יש להכשיר וכו' - דסמכינן על הפוסקים דסברי דהיכי דאיכא תרתי לטיבותא סגי ועיין בפמ\"ג שכתב דנראה שיוכל לברך ובפרט לפי מה שכתב הפר\"ח והגר\"א דהעיקר כדעה זו:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:35"
+        },
+        "36": {
+          "he": "(לו) וכן יש להכשיר וכו' אם נשתייר רובו - אבל בלא נשתייר רובו שלם אפילו איכא תרתי לטיבותא שסתמו במינו וחזר קולו להיות צלול כבתחלה קודם שניקב לא מהני אף לדעה זו ומטעם שכתבנו למעלה. והיכא דאיכא רובא לחוד או דאיכא סתמו במינו לחוד ויש לו ספק על הסתימה אם חזר קולו לכמות שהיה או לא יש להחמיר מדינא דהוא ספיקא דאורייתא:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:36"
+        },
+        "37": {
+          "he": "(לז) נסדק וכו' - ודוקא נסדק דהולך ומוסיף וכדלקמיה אבל בנפגם כשר בכל שהוא. ומ\"מ אם ראהו קודם ר\"ה טוב יותר לתקנו שלא יהיה נראה פגום:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:37"
+        },
+        "38": {
+          "he": "(לח) פסול - ודוקא בנסדק מעבר לעבר ואע\"פ שאין בו חסרון וגם לא נשתנה קולו:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:38"
+        },
+        "39": {
+          "he": "(לט) בכל שהוא - לפי שמחמת הרוח וחוזק התקיעה הסדק הולך ומוסיף עד שיסדק כולו וכל העומד ליסדק כסדוק דמי:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:39"
+        },
+        "40": {
+          "he": "(מ) אא\"כ הדקו וכו' - שהחוט מעמידו שלא יתבקע יותר:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:40"
+        },
+        "41": {
+          "he": "(מא) ונשתייר וכו' - והרבה אחרונים מקילין אפילו לא נשתייר כל זמן שלא נשתנה קולו ע\"י ההידוק:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:41"
+        },
+        "42": {
+          "he": "(מב) לצד הפה - וכדעה הראשונה לקמן בס\"ט:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:42"
+        },
+        "43": {
+          "he": "(מג) ברובו - ומשום דרובו ככולו ואפילו אם נסדק רק מצד אחד אבל אם לא נסדק רובו אפילו לא נשתייר שיעור תקיעה כשר. ובשעת הדחק יש לסמוך אדעה זו שהיא העיקר. ואם תקע בשופר שנסדק במיעוטו ואח\"כ מצא שופר כשר יחזור לתקוע בו ולא יברך:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:43"
+        },
+        "44": {
+          "he": "(מד) ואם דבקו וכו' - ודוקא בדבק מכשרינן דהוי כאלו הוא שלם אבל אם מהדקו בחוט או משיחה לא מהני כיון שנסדק רובו:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:44"
+        },
+        "45": {
+          "he": "(מה) כשר - היינו אפילו אם לא נשתייר רק כל שהוא שלא נסדק כשר כשדבקו [מ\"א וש\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:45"
+        },
+        "46": {
+          "he": "(מו) דבקו בדבק - ואין זה נקרא שלא במינו דשאני נסדק מניקב דאין הדבק ניכר בין הדבקים. ואם הסדק רחב וניכר הדבק בודאי יש להחמיר בזה דהוי כסתמו בשאינו מינו. ומ\"מ אפשר דאם לא נשתנה קולו ע\"י הדבק ממה שהיה בתחלה אין להחמיר כשנשתייר בו רובו דגם בניקב וסתמו באופן זה כשר להרבה פוסקים וכנ\"ל בס\"ז וצ\"ע:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:46"
+        },
+        "47": {
+          "he": "(מז) בעצמו - אבל בדבק הוי כמו סתמו שלא במינו ודינו כמ\"ש בסעיף ז'. וסברא ראשונה עיקר. ומ\"מ אם נשתנה קולו יש להחמיר שלא בשעת הדחק לחזור ולתקוע ובלי ברכה:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:47"
+        },
+        "48": {
+          "he": "(מח) פסול - דתו אין שם שופר עליו כיון שנסדק כולו:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:48"
+        },
+        "49": {
+          "he": "(מט) נסדק לרחבו - היינו סביב הקיפו ובא ע\"י נפילה או הכאה בחוזק:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:49"
+        },
+        "50": {
+          "he": "(נ) במיעוטו כשר - ולא דמי לנסדק לארכו דפסל בס\"ח לדעה ראשונה משום דשם ע\"י חוזק התקיעה יכול ליפקע יותר באורך אבל לא ברוחב:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:50"
+        },
+        "51": {
+          "he": "(נא) ברובו פסול אא\"כ וכו' - דבזה אפילו חשבינן למיעוטא כמי שאינו וכמו דנכרת כולו הלא עכ\"פ נשאר שיעור תקיעה. ואותו העודף אין לחשבו כמו הוספה לפסול עי\"ז כל השופר וכדלקמיה בסי\"א דלא מיקרי הוספה אלא כשהיה תחלה חתיכה אחרת משא\"כ כאן דלא נפרד מעולם:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:51"
+        },
+        "52": {
+          "he": "(נב) נשאר מהסדק וכו' - ואם דבקו בדבק אפילו לא נשאר שיעור תקיעה נמי כשר וכמו דמקילינן בס\"ח בנסדק בארכו כשדבקו בדבק [א\"ר ופמ\"ג] ומ\"מ כשיש שופר אחר טוב יותר לתקוע בו (אחד מפני דעת הסוברים לעיל בס\"ח דדבק לא מהני דנחשב כאינו מינו וגם לדעת ר' יהונתן דדבק לא מהני במקום סדק):",
+          "en": "",
+          "ref": "Mishnah Berurah 586:52"
+        },
+        "53": {
+          "he": "(נג) לצד פיו - דוקא שהרי רואין הנסדק כמאן דנכרת ואם לא ישאר כשיעור לצד פיו א\"כ תוקע הוא בשופר שאין בו שיעור תקיעה:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:53"
+        },
+        "54": {
+          "he": "(נד) דהיינו ד' גודלים - של אדם בינוני ומודדים באמצע האגודל ולא בראש אגודל ששם מתקצר והוא שיעור טפח:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:54"
+        },
+        "55": {
+          "he": "(נה) אפילו אם מעכב את התקיעה - דלא גרע מניקב ולא נסתם דמכשרינן לעיל אפילו בנשתנה קולו:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:55"
+        },
+        "56": {
+          "he": "(נו) אפילו שלא לצד פיו - ואע\"פ שזה המיעוט שבפיו חוצץ וא\"כ יש הפסק בין פיו לשופר לא חיישינן לזה דמין במינו אינו חוצץ ואין אנו רואין אותו כמו ניטל ובשעת הדחק אפשר דיש לסמוך אסברא זו:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:56"
+        },
+        "57": {
+          "he": "(נז) דיבק שברי שופרות - היינו אפילו לקח שברי שופרות שלמות בעיגולן ודבקן ואפילו דבקן ע\"י עצמן וכדלעיל ס\"ח ואפילו אינו מעכב התקיעה:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:57"
+        },
+        "58": {
+          "he": "(נח) אפילו אם יש וכו' - והוסיף עליו לנאותו שיהיה ארוך או כדי שיתן קולו גדול מכמות שהיה ואעפ\"כ פסול והטעם דשופר אחד אמר רחמנא ולא ב' שופרות:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:58"
+        },
+        "59": {
+          "he": "(נט) כל שהוא - היינו שהאריכו בין מצד הקצר ובין מצד הרחב פסול משום דשופר אחד אמר רחמנא וכו' וכמו בסעיף יו\"ד:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:59"
+        },
+        "60": {
+          "he": "(ס) בין הפכו כדרך וכו' - והטעם דכתיב והעברת שופר תרועה דרך העברה בעינן דהיינו כדרך שהאיל מעבירו בראשו מחיים:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:60"
+        },
+        "61": {
+          "he": "(סא) אלא שהרחיב וכו' - היינו ע\"י רותחין וג\"כ הטעם דבעינן שיהא כדרך גדילתו שהצד הקצר מול פה האדם:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:61"
+        },
+        "62": {
+          "he": "(סב) במקום הרחב - פי' אפילו בשופר שעשוי כהוגן והכל מטעם הנ\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:62"
+        },
+        "63": {
+          "he": "(סג) היה ארוך וקצרו וכו' - אין נ\"מ באיזה צד ואפילו נשתנה קולו עי\"ז ואשמועינן דלא תימא דבעינן כל הקרן כמו שהיה דרך גדילתו בראש האיל:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:63"
+        },
+        "64": {
+          "he": "(סד) כשר - ואפילו היה בו פסול מתחלה וקצרו כדי להחזירו להכשרו נמי מותר וכדלעיל בס\"ט:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:64"
+        },
+        "65": {
+          "he": "(סה) כמו גלד כשר - ואפילו נשתנה קולו מכמות שהיה כיון שאין השינוי בא מחמת ד\"א אלא מצד עצמו של שופר כל הקולות כשרין:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:65"
+        },
+        "66": {
+          "he": "(סו) לא הוציא זכרותו וכו' - דכשהוא מחובר בבהמה עצם בולט מן הראש ונכנס לתוכו וכשעושין שופר מוציאין אותו מתוכו וזה לא הוציאו אלא נקב אותו מתחלתו ועד סופו:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:66"
+        },
+        "67": {
+          "he": "(סז) כשר - ואפילו לכתחלה מותר לעשות כן דמין במינו אינו חוצץ ואין זה בכלל שתי שופרות כיון דהוא דבוק מתחלתו ואה\"נ אם הוציאו ונקב בו והחזירו דהוא פסול:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:67"
+        },
+        "68": {
+          "he": "(סח) כגון שנקב בו פסול - דשופר הוא מלשון שפופרת שהיא חלולה וכל שאינו חלול בטבעו לא מקרי שופר:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:68"
+        },
+        "69": {
+          "he": "(סט) צפהו זהב וכו' - הוא לשון הברייתא עד תיבת יש מפרשים:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:69"
+        },
+        "70": {
+          "he": "(ע) היינו עובי השופר וכו' - ר\"ל דבעובי השופר למעלה יש שני חודין אחד שנוטה לצד חלל השופר ואחד שנוטה לצד חוץ לפירוש הראשון מיקרי מקום הנחת הפה היינו שציפהו לצד פנים ופסולו משום שהבל הקול נכנס לזהב ושלא במקום הנחת הפה היינו החוד הנוטה לצד חוץ סביב ומחמת אותו המעט אין הקול משתנה וכשר אבל כל אורך השופר מצד חוץ הוא בכלל ציפהו זהב מבחוץ המוזכר בברייתא. ולפירוש השני כל אותו הקצה שלמעלה מה שמכניס לתוך פיו הכל נקרא מקום הנחת הפה ושלא במקום הנחת הפה היינו משהו סמוך לאותו מקום מבחוץ וס\"ל דמחמת אותו משהו ג\"כ אין דרך הקול להשתנות אף שהוא על הדופן מבחוץ ולכך סתמה הברייתא דכשר. ומן אותו מקום ולמטה עד סוף מקרי ציפהו זהב מבחוץ ותלוי באם נשתנה הקול. ואם צפהו זהב בפנים בכל גווני פסול משום שהוא תוקע בזהב:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:70"
+        },
+        "71": {
+          "he": "(עא) היינו כל אורך השופר וכו' - המחבר קיצר בזה דמלשונו משמע דכל האורך חדא דינא אית ליה וכשר אם ציפהו זהב ובאמת זה אינו דרק משהו הראשון הסמוך להעובי שמכניס לתוך פיו כשר דמסתמא אין דרך להשתנות הקול בשביל אותו משהו אבל משם ולמטה עד סוף השופר אם ציפהו תלוי באם נשתנה הקול מחמת זה:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:71"
+        },
+        "72": {
+          "he": "(עב) לא יפה הם עושים - דלפעמים משתנה הקול מעט בשביל זה:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:72"
+        },
+        "73": {
+          "he": "(עג) אבל מותר וכו' - דאף אם ישתנה קולו מחמת זה לית לן בה כיון שהוא מחמת עצמו וכההיא דסי\"ד גרדו מבפנים או מבחוץ וכו':",
+          "en": "",
+          "ref": "Mishnah Berurah 586:73"
+        },
+        "74": {
+          "he": "(עד) היינו הוסיף וכו' - ר\"ל ופסול בכל גווני אף אם לא נשתנה הקול:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:74"
+        },
+        "75": {
+          "he": "(עה) ונפח בו וכו' - דבעינן שיהא פיו מדובק לשופר וסימנו אל חכך שופר:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:75"
+        },
+        "76": {
+          "he": "(עו) ותקע בו פסול - ויחזור ויתקע ויתקע שנית כדין ובלי ברכה:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:76"
+        },
+        "77": {
+          "he": "(עז) עודף על החיצון משני צדדיו ונתן הפנימי וכו' - דאז אמרינן שנשמע קול פנימי לבד:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:77"
+        },
+        "78": {
+          "he": "(עח) רק שוה לחיצון וכו' - דאם הוא מעט קצר מן החיצון לא יצא לכו\"ע דסוף סוף יוצא הקול מן שני שופרות:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:78"
+        },
+        "79": {
+          "he": "(עט) ותוקע בפנימי יצא - וכתב הט\"ז דגם המחבר מודה בזה דמעיקר הדין אם שניהם שוים דאז אפשר שישמעו קול הפנימי דכשר אלא משום דקשה לצמצם בשוים דאפשר החיצון בולט מעט וע\"כ הצריך שיהיה ניכר הבליטה של הפנימי:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:79"
+        },
+        "80": {
+          "he": "(פ) והוא שלא ישנה קולו - ר\"ל אפילו לא ישמע רק קול הפנימי מ\"מ אפשר דהקול נשתנה ע\"י שהחיצון ציפהו נמצא הקול בא מכח שני שופרות ופסול:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:80"
+        },
+        "81": {
+          "he": "(פא) ואם לאו פסול - קאי אראש הסעיף ור\"ל אם אין הפנימי עודף פסול משום דרוח פיו דוחק בשניהם והוי קול של שני שופרות ושופר אחד אמר רחמנא. ומכל זה אנו למדין דאם תקע בשני שופרות ממש דבודאי לא יצא:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:81"
+        },
+        "82": {
+          "he": "(פב) אין מחללין וכו' - משום דחילול יו\"ט בעשה ול\"ת ושופר הוא רק עשה ואינו דוחה:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:82"
+        },
+        "83": {
+          "he": "(פג) משום שבות - דחכמים השוו דבריהם לשל תורה והעמידו דבריהם בשב ואל תעשה במקום עשה:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:83"
+        },
+        "84": {
+          "he": "(פד) כיצד וכו' - וה\"ה שאין מביאין אותו מחוץ לתחום ואין לילך חוץ לתחום כדי לשמוע קול שופר וה\"ה כל איסור דרבנן כגון נפל עליו גל אבנים שאסור לטלטל האבנים כדי ליטלו וכן אם צריך לתקן השופר בחתיכה וכדומה דאסור ע\"י עצמו אפילו בכלי שאין דרך האומנים לתקן בו דלא הוי בזה רק משום שבות ג\"כ אסור:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:84"
+        },
+        "85": {
+          "he": "(פה) ואינו שט על פני המים וכו' - ומטעם זה ה\"ה דאסור לעבור במברא שקורין פרא\"ם או בספינה קטנה כדי להביא השופר או לתקוע שם אכן אם א\"א בענין אחר דעת הח\"א שמותר אם הגוי יעבירנה ואין הישראל מסייע כלל ועיין בריש סימן תרל\"ט מה שנכתוב בזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:85"
+        },
+        "86": {
+          "he": "(פו) ועל ידי נכרי מותר דהוי וכו' - ולפ\"ז אפשר אפילו במקום שיש לו שופר רק שאינו של איל דמותר להביא ע\"י נכרי שופר של איל דמצוה באיל:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:86"
+        },
+        "87": {
+          "he": "(פז) מחוץ לתחום - היינו אפילו חוץ לי\"ב מיל דהוי דאורייתא לכמה פוסקים וא\"כ לדידהו אסור לומר לעכו\"ם להביאו דלא התירו בסעיף הקודם רק דבר שהוא מדרבנן אפ\"ה אם הביאו אפילו בשביל ישראל מותר לתקוע בו והטעם שהרי דבר הבא מחוץ לתחום מותר בטלטול ואינו אסור אלא באכילה או בהנאה דהיינו להשתמש בו כמ\"ש בסימן תקט\"ו וזה שתוקע בו תקיעה של מצוה אינה חשובה הנאה כמו שכתבנו בס\"ה ומ\"מ אסור לטלטלו ברחוב העיר שאינם מתוקנות המבואות שלה בצורת הפתח חוץ לד\"א כמבואר בסימן תקט\"ו [דאי מתוקנות בעירובין כדין נחשבת כבית ומותר לטלטל בכולה]. ישראל ששלח שופר לעיר אחרת ע\"י נכרי קודם ר\"ה ונתעכב הנכרי והביא בר\"ה מחוץ לתחום ובני העיר לא ידעו שישלחו להם שופר אין לטלטלו ואף לתקוע בו אם אפשר באחר ובשעת הדחק יש להתיר ומקור דין זה נתבאר בסוף סימן תקט\"ו בהג\"ה ע\"ש במ\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:87"
+        },
+        "88": {
+          "he": "(פח) אם עשה נכרי וכו' - אפילו בשביל ישראל ומיירי שעשה הנכרי מקרן שלו דלא הוי מוקצה דלא אסח דעתיה מניה אבל מקרן של ישראל אסור לטלטלו ואף לתקוע בו דהא הוי מוקצה דנולד ואפילו עשאו ביום א' דר\"ה אסור גם ביום שני כדין ביצה שנולדה בראשון דאסורה גם ביום שני ומ\"מ אם אין להם שופר אחר כלל יש לסמוך על דעת הפוסקים דמתירין נולד ביו\"ט ולתקוע בו כדי שלא לבטל המ\"ע ומותר לתקוע בו אף ביום שני וכ\"ז שאוחזו בידו מותר לתקוע בו כל התקיעות כפי המנהג אבל אם תקע התקיעות המחוייבין והניח השופר מידו שוב אין לו לטלטל אותו כדי לתקוע בו תקיעות של מנהג [מטה אפרים]. כתבו האחרונים דכל אותן השופרות שאמרנו שהם פסולים לתקוע בהם הן פסולין בין ביום א' בין ביום שני:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:88"
+        },
+        "89": {
+          "he": "(פט) יכול ליתן וכו' - אע\"ג דמתקנו בכך כיון דלא מינכרא מילתא דהוי עובדא דחול שהרי מדיחין כלים ביו\"ט שרי:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:89"
+        },
+        "90": {
+          "he": "(צ) מפני הכבוד - פי' מפני כבודו של מקום שלא יהיו מצות בזויות עליו ולכן אפילו אם התוקע מוחל ע\"ז ג\"כ אסור [אחרונים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 586:90"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

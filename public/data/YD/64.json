@@ -1,0 +1,807 @@
+{
+  "chelek": "YD",
+  "siman": 64,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 21,
+  "fetchedAt": "2026-07-08T00:01:14.524Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "איזו חלבים הם המותרין והאסורין לאכילה. ובו כ\"א סעיפים: חלב שור וכבש ועז אסור ושל שאר מינים מותר כוי חלבו אסור:",
+      "en": "Des graisses permises et défenduesLa graisse du bœuf, de la brebis et de la chèvre est défendue; celle des autres espèces d'animaux est permise; celle du mouflon est défendue.",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:1"
+    },
+    {
+      "seif": 2,
+      "he": "השוחט את הבהמה ומצא בה עובר בן שמונה או בן תשעה בין חי בין מת חלבו וגידו מותר והא דבבן תשעה מותר דוקא כשלא הפריס על גבי קרקע אבל אם הפריס על גבי קרקע אסור ויש אומרים שאם שלמו לו חדשיו ומצאו חי אע\"פ שלא הפריס על גבי קרקע חלבו אסור וחייבין עליו כרת ומוציאין ממנו כל החוטים והקרומים האסורים בשאר הבהמות. (וחלב נפל אסור אם הפילה הבהמה):",
+      "en": "One who slaughters an animal and finds an eight or nine month fetus whether it is alive or dead, its helev and sciatic nerve are permitted. A nine month [fetus] is specifically only permitted if it hasn't walked on the ground. However, if it walked on the ground, it is forbidden. There are those who say that if it completed its gestational period and was found alive, even though it did not walk on the ground, its helev and sciatic nerve are forbidden and [consumption] is punished by karet and we remove [from the animal] all the sinews and membranes that are forbidden in all animals. Rema: A prohibition descends on the helev if the animal is aborted.",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:2"
+    },
+    {
+      "seif": 3,
+      "he": "הושיט ידו למעי בהמה ותלש חלב מבן תשעה חי שבתוכה והוציאו חייבין עליו משום חלב כעל חלב בהמה גמורה:",
+      "en": "Si quelqu'un plonge la main dans l'utérus d’un animal et en extrait un morceau de graisse qu'il y a détaché d’un fœtus âgé de neuf mois et vivant, il encourt, en mangeant ce morceau, la même peine que la loi décrète contre ceux qui mangent la graisse d’un animal entièrement développé.",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:3"
+    },
+    {
+      "seif": 4,
+      "he": "איזהו חלב כל שהוא תותב קרום ונקלף ושלא יהא בשר חופה אותו:",
+      "en": "Quelles sont les parties de graisse défendues? Celles disposées en forme de tunique, se pelant facilement et non couvertes par des couches charnues du tissu musculaire.",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:4"
+    },
+    {
+      "seif": 5,
+      "he": "האליה מותרת ובלבד שינקר ממנה מה שלצד פנים: הגה גם צריך להסיר חוטי האליה כי יונקים מחלב הכליות. (המרדכי ורוקח):",
+      "en": "La queue est permise, pourvu qu’on en extraie la graisse située à sa face interne.GLOSE: Il faut également en extraire les fibres adipeuses qui naissent de la base des reins.",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:5"
+    },
+    {
+      "seif": 6,
+      "he": "חלב הכסלים וקרום שעליהם אסור:",
+      "en": "Le tissu adipeux de la région lombaire, ainsi que la tunique qui le recouvre, sont défendus.",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:6"
+    },
+    {
+      "seif": 7,
+      "he": "חלב שתחת המתנים אסור: הגה וסדר ניקור אלו החלבים צריך ראיה מן הבקי בניקור ואי אפשר לבאר היטב בספר וכל אלו החלבים אין לחוש להם אלא באחוריים של בהמה אבל בחצי הבהמה של פנים אין בהם מחלבים אלו רק קצת מן הקרום שעל חלב הכסלים הנשאר בראש הדפנות על הכסלים הנשאר שם בראשה וצריך להסיר אותו הקרום משם (ד\"ע) ויש נוהגין להפריד ג\"כ הבשר הנדבק שם זה על גב זה ולגרור החלב שביניהם ויש מתירין משום דמחשב חיפוי בשר וכן המנהג באשכנז (הכל בטור):",
+      "en": "Le tissu adipeux qui remplit l’excavation pelvienne est défendu.GLOSE: Pour procéder à l'extraction de toutes ces parties de graisse, il faut être muni de l'agrégation d’un spécialiste. Il est impossible d’en donner, dans un livre, une explication bien détaillée. On n’a pas besoin de se préoccuper de toutes ces parties de graisse défendues qu’à la moitié postérieure de l’animal, alors que la moitié antérieure en est complètement dépourvue, excepté la tunique qui recouvre le tissu adipeux de la région lombaire, dont le bord adhère aux dernières côtes de la paroi thoracique et qu'il faut enlever. D'aucuns ont coutume de séparer également en cet endroit les couches des muscles superposées et d'extraire la graisse du milieu. D’autres, au contraire, déclarent cette graisse permise, attendu qu'elle est recouverte d'une couche charnue du tissu musculaire. Tel est, en effet, l'usage en Allemagne.",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:7"
+    },
+    {
+      "seif": 8,
+      "he": "חלב שעל המסס ובית הכוסות אסור וענוש (עליו) כרת וזהו חלב שעל הקרב:",
+      "en": "L'appendice graisseux du feuillet et du réseau est défendu, et on encourt la peine d'une mort prématurée en violant cette défense; car cet appendice fait partie de la graisse que l’Écriture désigne par les termes de « graisse qui couvre les entrailles ».",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:8"
+    },
+    {
+      "seif": 9,
+      "he": "חלב הדבוק לכרס שתחת הפריסה אסו': הגה וכן המנהג בכל מקום מלבד בני ריינוס שנוהגין במקצתו היתר ואין מוחין בידן שכבר הורה להם זקן (הגהות אשיר\"י ומרדכי ורוב הפוסקים) ובכל מקום שנוהגין בו איסור דינו כשאר חלב לבטלו בששים (א\"ו הארוך) אבל אין אוסרין כלים של בני ריינוס הואיל ונוהגין בו היתר (חידושי אגודה):",
+      "en": "L’appendice graisseux du rumen situé au-dessous du gras-double est défendu.GLOSE: Tel est, en effet, l'usage dans tous les pays, excepté à Reims où l’on a coutume d’en déclarer une partie permise, et on ne s’oppose pas à cette coutume, attendu qu'elle y était établie par un vénérable vieillard. Partout où il est d'usage de déclarer cet appendice graisseux défendu, on le traite comme un autre morceau de graisse défendu, en ce sens qu'on ne le considère comme dissous s’il vient à se mêler avec un aliment permis, qu'autant que la quantité de ce dernier est soixante fois plus grande. Il ne faut pas cependant regarder la vaisselle des Rémois comme défendue par suite de leur coutume de déclarer cette partie de graisse permise.",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:9"
+    },
+    {
+      "seif": 10,
+      "he": "קרום שעל דד הטחול והוא הצד הגס חייבין עליו ושעל שאר הטחול והחוטין שבתוכו אסורין ואין חייבים עליהם:",
+      "en": "On encourt une peine, en mangeant la membrane péritonéale du bord postérieur de la rate, c’est-à-dire, de l'extrémité épaisse; tandis que la membrane du reste de la rate, de même que les veines spléniques, sont simplement défendues, mais on n’encourt aucune peine en les mangeant.",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:10"
+    },
+    {
+      "seif": 11,
+      "he": "נוטל ראש הגיד שבתוך הטחול ומושך אותו ונמשכים עמו ג' חוטין שבתוכו וצריך ליזהר שלא יפסוק שום חוט מהם ואם נפסק צריך לשרש אחריו:",
+      "en": "On saisit le bout de la veine splénique, située dans l'épaisseur du viscère, et on l'extrait de manière qu’il entraîne avec lui les trois branches. Il faut faire attention de ne point déchirer aucune des veines spléniques; si cela arrive, il faut explorer les fragments des veines restés dans l'épaisseur de l'organe et les en extraire.",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:11"
+    },
+    {
+      "seif": 12,
+      "he": "הכוליא יש עליה שני קרומים העליון חייבים עליו התחתון והחוטים שבה אסורין ואין חייבים עליהם ולובן שבכוליא חלב שעל הכליות נאסר ולא שבתוך הכליות ואף על פי כן נוטל אדם לובן שבתוך הכוליא ואינו צריך לחטט אחריו ויש מחמירין לחטט אחריו: הגה ואם לא חטטו אחריו והניחו קצתו תוך הכוליא לכולי עלמא מותר אם נתבשל כך (ב\"י בשם הגהות אשיר\"י שכ\"כ בשם א\"ז) ודוקא מה שבתוך הכוליא אבל מה שעל הכוליא לכולי עלמא אסור (ד\"מ בשם רא\"ש פרק ג\"ה ושכן הוא בש\"ס) יותרת הכבד יש מצריכין לנקר הקרום העליון שלצד הכבד משום חלב הקרב שמונח עליו ויש מחמירין עוד לנקר השומן שתחת הקרום ההוא (רא\"מ ור\"ת) אבל צד פנים של צד הריאה אין צריך ניקור כלל (ת\"ה וא\"ז) . אבל המנהג לנקר ולהסיר שני קרומים דלמא אתי למטעי (ס\"ה וא\"ז):",
+      "en": "Le rein est pourvu de deux tuniques. On encourt une peine si l’on mange la tunique supérieure; tandis que la tunique inférieure, ainsi que les lamelles fibreuses qui y adhèrent, sont simplement défendues, mais on n’encourt aucune peine en les mangeant. Quant au tissu adipeux de la scissure rénale, la partie qui dépasse les bords de la scissure est défendue, mais non pas celle située dans la scissure même. Pourtant il convient d'enlever même la partie du tissu adipeux dont la cavité est remplie, mais on n'a pas besoin de l’extraire jusqu’à la racine. D’aucuns sont plus sévères et en exigent l'extraction jusqu’à la racine.GLOSE: Mais si on n'a pas extrait la graisse jusqu’à la racine, le rein est permis d’après l'avis de tout le monde lorsqu'on l’a cuit ensemble avec une partie de graisse restée dans son épaisseur. Cependant, il n’en est ainsi que de la graisse située dans la cavité de la scissure: mais tout le monde est d’accord que le rein est défendu, si on l'a cuit ensemble avec la graisse qui dépasse les bords de la scissure rénale. D'aucuns exigent qu'on enlève cette partie du péritoine qui forme la tunique péritonéale du foie, à cause de l’appendice graisseux du feuillet qui repose sur cette tunique. D’autres exigent même qu'on enlève la graisse située au-dessous de cette tunique. Mais on n’a nullement besoin d'enlever la partie de la tunique de la face intérieure tournée vers le poumon. L'usage est cependant d'enlever toutes les deux parties de la tunique, de crainte qu'on ne se trompe.",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:12"
+    },
+    {
+      "seif": 13,
+      "he": "חוטין שבעוקץ (פי' הוא הנקרא בלשון המקרא עצה והוא קצה השדרה ערוך ורש\"י פירש שקורין הנקא) אסורים והם חמשה ג' מימין וב' משמאל הג' שמימין כל אחד מתפצל לשנים שנים והשנים שבשמאל כל א' מהם מתפצל לשלשה שלשה וראשו האחד מחובר לשדרה. וראשי הפיצולין נדבקים תחת החזה בראשי הצלעות ואותם ראשי הפיצולין מצויין בחצי הבהמה של פנים ואי שלפי להו חמימי משתלפי ואי לא בעי לחטוטי בתרייהו: הגה ואם הם שרויין במים הוי להו כחמימי ומשתלפי (ב\"י בשם סמ\"ק וכלבו וא\"ו הארוך) ויש מקילין באלו החוטין במקום שהם בלועים בבשר (ב\"י בשם הר\"ן וטוב להחמיר):",
+      "en": "Les aponévroses de la région dorsale sont défendues. Ces lames fibreuses sont au nombre de cinq, dont trois du côté droit et deux du côté gauche. Chacune des trois aponévroses intercostales du côté droit se bifurque en deux lames et chacune de celles du côté gauche se bifurque en trois lames. La lame s’insère par son bord interne au sommet des apophyses épineuses dorsales, et par le bord externe des lamelles bifurquées aux cartilages costaux près du sternum, de manière que l'extrémité des lamelles bifurquées se trouve à la face antérieure de la cage thoracique. Si l'on tire au bout de ces lames fibreuses jusqu’à ce qu’elles s’échauffent, on parvient à les extraire jusqu'à leur racine; sinon, on est obligé de les explorer pour les extraire entièrement.GLOSE: Lorsque ces lames sont trempées dans l’eau, on parvient à les extraire aussi facilement comme si elles avaient été échauffées. D'aucuns inclinent à la modération pour les parties des lames qui sont situées dans l'épaisseur des muscles intercostaux.",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:13"
+    },
+    {
+      "seif": 14,
+      "he": "חלב הקיבה שעל הקשת אסור מן הדין מן התורה ושעל היתר אסור ממנהג שנהגו בו איסור (ויש אומרים שמדינא אסור ולכן אין להקל בו) (רש\"י ורא\"ש וסמ\"ג וסמ\"ק ורבינו ירוחם):",
+      "en": "L’appendice graisseux situé à la face postérieure de la caillette est défendu en vertu d’une loi, et même d’une loi biblique; alors que celui situé à la face antérieure n’est défendu que par suite d’un usage établi.GLOSE: D'aucuns opinent que ce dernier est également défendu en vertu d’une loi. Aussi convient-il de ne pas incliner à la modération au sujet de cette dernière partie de l’appendice graisseux.",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:14"
+    },
+    {
+      "seif": 15,
+      "he": "חלב שעל הדקין אסור באורך אמה משמתחילין לצאת מן הקיבה ומשם ואילך שומן הוא ומותר ויש אומרים שראש המעי שצריך לגרור חלב שעליו הוא המעי שיוצא בו הרעי שהוא סוף המעיים וירא שמים יצא ידי שניהם לגרור אורך אמה מכאן ואורך אמה מכאן: הגה ויש אומרים שאינו צריך אורך אמה ממש ולכן נהגו להקל למדוד בזרוע ואין מצריכין אורך אמה בצמצום (מהרי\"ל) ואין צריך להסיר רק הקרום עם הדבוק בו שעל אורך אמות אלו אבל לא השומן הדבוק בטבחיא שתחתיו (כל בו) וכן נוהגין רק שמסירין מן הטבחיא גם כן חוט ארוך שמונח עליו עם השומן שאצלו ואם הטבח משך הדקין מן הבהמה בעודן חמין נשאר החלב שעל ראש הדקין עם הדרא דכנתא ולכן הבא לאכול מן הדרא דכנתא יגרוד אמה מן החלב לצד הקיבה ואם לא נודע מקומו צריך לגרוד ולגלח סביב עביו כדינר זהב במקום שנסתפק בו (מרדכי ריש ג\"ה) ונהגו במדינות אלו להסיר הקרום שעל כל הדקין בהדרא דכנתא דעגל משום שנשארים הדקין עם הדרא דכנתא ואוכלין הכל ביחד על כן מסירין כל הקרום שלא יניחו גם כן שעל ראש הדקין ונהגו ליקח הקרום משני צדדיו מה שאין כן בכבש שאין דרכן להניחן ביחד וניכר ראש הדקין כן נראה טעם המנהג אבל יש להחמיר וליקח הקרום משני צדדיו גם בכבש (הכל ד\"ע):",
+      "en": "Est également défendu l’appendice graisseux de l'intestin sur une longueur d'une aune à partir du point où l'intestin émerge de la caillette. Celui qui adhère à l'intestin à partir de cette aune est permis. D’aucuns opinent qu'on entend par le bout de l'intestin dont il faut enlever l’appendice graisseux sur une longueur d'une aune, celui du côté du rectum, c'est-à-dire, l’extrémité de l'intestin. Un homme zélé se conforme à toutes les deux opinions en enlevant l’appendice graisseux sur une longueur d’une aune à tous les deux bouts de l'intestin.GLOSE: D’aucuns opinent qu’on n’a pas besoin d'enlever l’appendice graisseux sur une longueur exacte d'une aune. Aussi l'usage est-il de procéder avec modération et de se contenter de la longueur d’une coudée au lieu d’une aune précise. On n’est pas tenu d'enlever sur la longueur précitée que l’appendice qui adhère au mésentère, mais non pas celui qui adhère aux replis du péritoine du côté du rectum. Tel est, en effet, l'usage. Mais on enlève également l'appendice vermiculaire avec le tissu adipeux y adhérent du rectum. Lorsque le boucher tire les intestins, pendant qu’ils sont encore chauds, hors de la cavité abdominale, les appendices restent adhérents à l'intestin grêle. Aussi celui qui veut en manger doit-il enlever la graisse sur la longueur d'une aune du côté du pylore. Si on n’en connaît point l'endroit, on doit enlever, avec l'appendice, une partie de l'intestin même de la valeur de l'épaisseur d’un denier d’or. Dans nos pays, il est d'usage d'enlever, chez les veaux, tout le mésentère, car on laisse généralement l'intestin grêle avec le reste des intestins, et on les mange ensemble; c'est par cette raison qu'on enlève également le mésentère du côté du reste des intestins, sans quoi on finirait par ne point enlever non plus celui du côté de l'intestin grêle. Chez la brebis, au contraire, on n'a pas besoin de cela, vu qu'on ne mêle pas les intestins de la brebis ensemble et que, par conséquent, on reconnaît facilement l'endroit du pylore. Tel est, ce me semble, le motif de l'usage. Il convient pourtant d'enlever, même chez la brebis, le mésentère de tous les deux côtés des intestins.",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:15"
+    },
+    {
+      "seif": 16,
+      "he": "אין מולחין חלבים עם הבשר ולא מדיחין אותם עמו וכלי שמדיחין בו חלבים אין מדיחין בו בשר וסכין שחותכין בו חלבים אין חותכין בו בשר:",
+      "en": "Il ne faut pas saler les graisses défendues ensemble avec de la viande, ni les tremper ensemble dans l’eau. On ne doit pas non plus tremper de la viande dans une écuelle dont on se sert d'habitude pour y tremper les graisses défendues; enfin, on ne doit pas couper la viande avec un couteau dont on se sert pour couper les graisses défendues.",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:16"
+    },
+    {
+      "seif": 17,
+      "he": "נהגו מנקרי הבשר לנקר בסכין אחד מפני שנותנין בגד על יריכים וכל שעה שנוגע הסכין בחלב מקנחו בו ונכון ללמד אדם לבני ביתו שישפשפו הבשר יפה במים:",
+      "en": "Les spécialistes préposés à l’extraction des graisses défendues ont coutume de ne se servir, à leur opération, que d’un seul couteau. Cet usage n'offre aucun inconvénient, attendu que ces spécialistes ont des tabliers qui leur servent à essuyer le couteau chaque fois que celui-ci touche la graisse défendue. Il convient d'exhorter la ménagère de bien dégorger la viande dans l'eau.",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:17"
+    },
+    {
+      "seif": 18,
+      "he": "אין פורשין הכסלים על גבי הבשר בעוד שלא נצטנן חלב שעליהם מפני שהוא נמוח ונבלע בבשר: הגה וכן יש לנקר הבשר תוך ג' ימים מן החלב שלא יתקשה החלב שבו ומכל מקום אם לא נקרו תוך שלשה ימים אין לאסור בדיעבד אלא מנקרו אח\"כ ושרי (תשובת הרא\"ש ומהרא\"י בפסקיו סימן מ\"ז):",
+      "en": "On ne doit pas étendre le tissu adipeux de la région lombaire sur de la viande avant que la graisse ne soit refroidie, sans quoi la graisse défendue se fond et pénètre dans la viande.GLOSE: De même, il faut extraire la graisse défendue dans les trois jours qui suivent l'opération de la saignée, afin que la graisse ne se durcisse. Pourtant, lorsque la graisse n'a point été extraite dans ce délai, il ne faut pas, si l'on se trouve en présence d’un fait accompli, déclarer la viande défendue; mais on extrait la graisse après ce délai, et la viande est permise.",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:18"
+    },
+    {
+      "seif": 19,
+      "he": "כל אלה הדברים אם נעשו לא נאסר הבשר ואין מכין העושה אלא מלמדין אותו שלא יעשה: (ואם עשה מותר רק שישפשף הבשר היטב) (ר\"ן פ\"ק דחולין):",
+      "en": "La violation de toutes ces prescriptions n’est pas de nature à rendre la viande défendue, et on n'inflige pas non plus à celui qui les viole la peine de la flagellation, mais on l’exhorte de ne plus agir ainsi.GLOSE: Donc, en cas de violation de ces prescriptions, la viande est permise, seulement il faut la bien dégorger.",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:19"
+    },
+    {
+      "seif": 20,
+      "he": "אין מולחין הבשר קודם שיסירו החוטין והקרומים האסורים וגיד הנשה ואם מלחם מסירם אחר כך ומבשל הבשר ויש מי שאוסר עד שיסיר ממנו כדי קליפה: הגה וי\"א דבעינן ששים כמו בשאר חלב הנמלח עם בשר דקי\"ל בששים כמו שיתבאר סי' ק\"ה ויש להקל ולהתירו ע\"י קליפה (המגיד בשם המפרשים) אם יש בו הפסד קצת מאחר דיש מתירין אפילו בלא קליפה וגם אין שייך לגזור משום חלב שמן דמפעפע דכל הקרומים אינם רק חלב כחוש (מרדכי וס\"ה) יראה דיש לסמוך אמאן דמתיר בקליפה ועיין לקמן סי' ק\"ה:",
+      "en": "On ne doit pas saler la viande avant d'en avoir extrait les veines et les lames défendues ainsi que le tendon du jumeau interne. Mais si on ne les a pas enlevés avant le salage, on les enlève ensuite, et on peut cuire la viande. Quelqu'un défend dans ce cas de cuire la viande sans l'avoir ratissée à l’endroit où étaient situés les veines défendues et le tendon du jumeau interne.GLOSE: D'aucuns exigent en pareil cas qu'il y ait soixante fois autant de viande que les veines ou le tendon qui ont été salés ensemble avec elle, de même que la loi le veut lorsqu'on à salé la graisse défendue avec de la viande, ainsi que cela est énoncé au paragraphe 105. Il convient, lorsqu'il s’agit d’une petite perte, d'incliner à la modération et de déclarer la viande permise après un simple ratissage, attendu que selon certains auteurs elle est permise même sans ratissage; il ne faut pas non plus aggraver le cas parce qu'il s'agit de graisse qui pénètre plus profondément, attendu que la graisse du tissu des veines et du tendon jumeau interne n’est pas onctueuse. Donc, il me semble qu’on peut se baser sur l’auteur qui déclare la viande permise après un simple ratissage.",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:20"
+    },
+    {
+      "seif": 21,
+      "he": "טבח שדרכו לנקר בשר ונמצא אחריו חוט או קרום מלמדין אותו ומזהירין אותו שלא יזלזל באיסורין אבל אם נמצא אחריו חלב אם הוא כשעורה מעבירין אותו ואם נמצא אחריו כזית ואפי' בהרבה מקומות היו מכין אותו מכת מרדות ומעבירין אותו: הגה וחזרתו לכשרותו ותשובתו הכל לפי ראות עיני הדיין אם עבר בשוגג או במזיד (הגהות אשיר\"י פרק ג\"ה) ומנהג כשר הוא שהטבח המוכר בשר ינקרנו קודם שימכרנו פן יכשלו בו הקונים (מהרי\"ק שורש מ'):",
+      "en": "Lorsqu’on constate que le boucher habitué à opérer l’extraction des éléments défendus de la viande a négligé d’extraire une veine ou une lamelle défendue, on l’instruit et on l'exhorte de ne plus agir à la légère quand il est question des choses défendues. Mais lorsqu'on constate qu'il a négligé d'extraire de la graisse défendue, on le destitue si la quantité de graisse qu'il a négligée représente la valeur d’un grain d'orge; mais si elle représente la valeur d’une olive, alors même qu'elle est disséminée çà et là, on lui inflige la peine de la flagellation et on le destitue ensuite.GLOSE: Quant à sa réhabilitation et à sa contrition, tout dépend de l'avis du rabbin qui doit s’enquérir si le coupable a agi par mégarde, ou à bon escient. C’est un usage louable que celui qui établit que le boucher épure la viande avant de la vendre, afin de préserver les acheteurs de toute infraction.",
+      "ref": "Shulchan Arukh, Yoreh Deah 64:21"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה חולין דף קי\"ז:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:1"
+        },
+        "2": {
+          "he": "יומא דף ע\"ד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:2"
+        },
+        "3": {
+          "he": "טור מדברי הרי\"ף והרא\"ש שפסקו בשחיטת חולין כחכמים במשנה דף ע\"ד היכא דלא הפריס ע\"ג קרקע וכרבי יהודה בברייתא שם דף צ\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:3"
+        },
+        "4": {
+          "he": "טור בשם הרמב\"ם בפ\"א מהלכות מאכלות אסורות וכר\"מ בברייתא שם ובעל העיטור ורבינו אפרים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:4"
+        },
+        "5": {
+          "he": "שם בגמרא דף ע\"ה וכרבי יוחנן דסבר חדשים גרמי לאסור החלב רמב\"ם בפ\"ו מהלכות מאכלו' אסורות וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:5"
+        },
+        "6": {
+          "he": "ברייתא שם מ\"ט וכר\"ע (°) הוא תרגום של שמלה הוא פרוש על הקרב כשמלה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:6"
+        },
+        "7": {
+          "he": "מימרא דרב יהודה וכו' דף נ\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:7"
+        },
+        "8": {
+          "he": "שם בגמרא דף קי\"ז:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:8"
+        },
+        "9": {
+          "he": "ב\"י בשם הר\"י בן חביב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:9"
+        },
+        "10": {
+          "he": "מימרא דרב יהודה וכו' שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:10"
+        },
+        "11": {
+          "he": "מימרא דרבי אבא א\"ר יהודה וכו' שם וכתב הטור שהרמב\"ם נתן סי' לדבר כל חלב שתחת הבשר שהבשר מקיפו מכל סביביו ולא יראה עד שיקרע הבשר הרי זה מותר:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:11"
+        },
+        "12": {
+          "he": "מימרא דרב יהודה אמר שמואל שם צ\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:12"
+        },
+        "13": {
+          "he": "הגהות מיימוני פ\"ז מהלכות מאכלות אסורות בשם רבינו אפרים וכ' המרדכי שמדברי הרמב\"ם והעתיקו המחבר לעיל בסי' מ\"ח סעיף ב' נראה שהוא סובר כרבינו אפרים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:13"
+        },
+        "14": {
+          "he": "ברייתות שם וכדמפרש להו שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:14"
+        },
+        "15": {
+          "he": "מפני שהוא מחובר לכרס ולחלב והשאר אסור מפני הרחקה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:15"
+        },
+        "16": {
+          "he": "טור בסי' ס\"ה בשם בעל העיטור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:16"
+        },
+        "17": {
+          "he": "ב\"י בשם אביו ובשם הרשב\"א בת\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:17"
+        },
+        "18": {
+          "he": "ברייתות שם וכדמפרש להו שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:18"
+        },
+        "19": {
+          "he": "לשון הרמב\"ם בפ\"ז מהלכות מאכלות אסורות כרב אסי וכאביי שם וכדעת הרי\"ף רבו וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:19"
+        },
+        "20": {
+          "he": "טור בשם רש\"י והר\"ן לדעת הרז\"ה ובה\"ת דגורסים רבא ממרטט ליה וכן כתב רבינו ירוחם בשם רבינו יונה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:20"
+        },
+        "21": {
+          "he": "מימרא דרב יהודה שם דף צ\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:21"
+        },
+        "22": {
+          "he": "ברייתא שם דף מ\"ט וכלישנא קמא רש\"י והרי\"ף וכ\"פ כל הפוסקים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:22"
+        },
+        "23": {
+          "he": "שם דף נ' למנהג בני בבל ואנו בתר בני בבל גרירן:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:23"
+        },
+        "24": {
+          "he": "שם בברייתא וכרבי עקיבא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:24"
+        },
+        "25": {
+          "he": "מימרא דרב יהודה וכו' וכפירוש רש\"י והרמב\"ם שם וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:25"
+        },
+        "26": {
+          "he": "שם בשם הגאונים וכ\"כ הראב\"ד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:26"
+        },
+        "27": {
+          "he": "ה\"ה שם וכל בו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:27"
+        },
+        "28": {
+          "he": "מימרא דרב יהודה אמר רב שם דף ח'.",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:28"
+        },
+        "29": {
+          "he": "גם זו שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:29"
+        },
+        "30": {
+          "he": "טור בשם הרשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:30"
+        },
+        "31": {
+          "he": "מימרא דאמימר וכו' שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:31"
+        },
+        "32": {
+          "he": "תוס' והרא\"ש שם וש\"פ והביאו ראיה מהא דכתיב וישימו החלבים על החזות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:32"
+        },
+        "33": {
+          "he": "טור בשם הרמב\"ם שם בפ\"ז מהלכות מאכלות אסורות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:33"
+        },
+        "34": {
+          "he": "שם ושם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:34"
+        },
+        "35": {
+          "he": "ה\"ה שם ובשם הרשב\"א וקאי נמי אהא דאין פורשין וכו' בסעיף י\"ח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:35"
+        },
+        "36": {
+          "he": "רמב\"ם שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:36"
+        },
+        "37": {
+          "he": "מימרא דרב יהודה ורבי יוחנן שם דף צ\"ג וכדמוקי להו רב פפא ומר זוטרא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 64:37"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "חלב כו' ושל שאר בהמות טהורות אסור ש\"ך הנה הכה\"ג בהגהות הטור תמה עליו בשתים דליכא יותר מג' מינין ואי משכחת להו לא מיתסר דאין קרבין ע\"ג המזבח והתורה אלו ג' פרטה עכ\"ל והנה יותר יש שור הבר מין בהמה הוא עיין סי' פ' ס\"ג ובהל' כלאים אלא דנכלל בשם שור האמור בקרא ועיזי דבאלא עיין חולין פ' א' ובר\"מ הל' מ\"א פ\"א ה\"ח ובמ\"מ כתב דלהר\"מ עיזי דבאלא כשירות למזבח וחלבן אסור שלא כדעת הרשב\"א דפסק כאמימר אלא כר\"ה יע\"ש וא\"כ שפיר כתב הש\"ך ושאר בהמות ולא כתב ושאר מינין דהנהו בכלל שור ועז הן ושלא תטעה דווקא שור ועז סתם לכן כ\"כ: ודע שמ\"ש המחבר כוי חלבו אסור הוא ביומא ע\"ד אמנם ראוי לבאר קצת. דע כי שלשה מיני כוי המה ודיניו ד' כמו שאבאר. כוי הבא מבהמה וחיה. וכוי הבא מעז וכבש. וכוי שהוא בריה בפ\"ע. הנה כוי הבא מבהמה וחיה אם אמו בהמה הוה וודאי מקצת שה וודאי וחלבו יש בו כרת כמבואר ואם אמו חיה חלבו אסור ואין לוקין דלמא אין חוששין לזרע אב. וכוי מכבש ועז אין בו ספק ויש בו כרת. וכוי שהוא בריה בפ\"ע חלבו אסור בוודאי מקרא דכל חלב לרבות כוי וה\"ש והר\"מ ז\"ל שכתב במ\"א פ\"א הי\"ג כוי הבא מבהמה וחיה הוא הנקרא כוי וחלבו אסור כבר כתב הב\"י סי' ס\"א דגירסא משובשת היא ובהי\"ב צ\"ל וכל שיסתפק לך אם בהמה או חיה הוא נקרא כוי וחלבו אסור. עיין יומא ע\"ד וכריתות כ\"א א' ובתוס' שם ד\"ה כוי דהוי כוי בריה בפ\"ע ולא מבהמה וחיה דלא צריך קרא לרבויי ספיקא. ועיין נזיר פ\"ה מ\"ז ומשמע דמן התורה הוא כל חלב לא אסמכתא כמ\"ש התוס' איצטריך קרא לרבויי ספיקא. ויש לראות איך לא הזכיר הב\"י סברת המ\"מ בהל' מ\"א הי\"ג שכתב דגם כוי הבא מבהמה וחיה הוא הנקרא כוי כן משמע שם. ולפ\"ז חלב כוי שהוא בריה לאיסורא רביה ולא למלקות כמו ה\"ש וכוי מצבי ותיישה כרת ומתייש וצבי ספיקא הוה ואי ספק נפל לקדירה אי הוה ס\"ס עמ\"ש בסימן ק\"י. ומ\"מ קשיא קצת אמאי מרבינן מכל כוי שהוא בריה בפ\"ע ולא שאר חיות טהורות כיון דאלו הג' לאו דווקא עכ\"פ לאיסורא. אמנם דע אף שכתבו התוס' בכריתות דכוי איירי בבריה לא אי בהמה או היה וכנראה ממרוצת לשון הר\"ן ז\"ל הביאו הב\"י סימן ס\"א מ\"מ הר\"מ ז\"ל סובר דכוי שהוא בריה בפ\"ע היינו או חיה או בהמה ורחמנא רביה לאיסורא ולא לכרת ומלקות ואיסור וודאי הוה. דאל\"כ איך כתב בפ\"א מהשא\"ה ה\"ה כוי חלבו טמא מספק והוא משנה פ\"ב דבכורים ואמאו מטמא מספק הא ודאי הוה כיון דאין בו לאו וכרת כ\"א איסור כמו ח\"ש א\"כ בלאו דאכל לא תאכלוהו לא מרבינן חלב כוי כמו דלא מרבינן היה וח\"ש כיון דלאו לית ביה אלא ע\"כ ספק משום דשמא בהמה הוא. וכן הוא לדעתו שהרי בפ\"א ממ\"א הי\"ב כתב כוי שהוא ספק אם חיה או בהמה וכגי' הכ\"מ שם הרי כמ\"ש וכן בפ\"ט מהל' בכורים כתב הכוי אע\"פ שהוא ספק משמע ספק חיה או בהמה ולדידיה תקשי קושית התוס' בכריתות צריך קרא לרבויי ספיקא וכ\"ת דהר\"מ לשיטתיה דסובר כל ספיקא מן התורה שריא ושפיר צריך קרא לרבויי ספיקא דא\"כ קשיא בכ\"מ דאמרינן צריך קרא לרבויי ספיקא. ועפר\"ח סי' ק\"י ובתוך דבריו כתב דלר\"י דהלכתא כוותיה כוי בריה ולא ספק והוא כתוס' דכריתות וכתב מ\"ד ספיקא הוה בורכא וא\"י מה בורכא הא מדברי הב\"י בסי' ס\"א מוכח דכוי בריה בפ\"ע ספק חיה או בהמה וכדמוכח ממשנה דפ\"כ דבכורים דטומאתו בספק וכדמוכח מתני' פ\"ה דנזיר והדברים ארוכים אין כאן מקומם עפר\"ח סי' ס\"א אות כ\"ח:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 64:1"
+        },
+        "2": {
+          "he": "ושל. עש\"ך עשה כלומר דשאר מיני בהמה או כוי שהוא בריה בפ\"ע עכ\"פ איסורא איכא כמ\"ש באות הקדום. והקשה על הב\"ח דא\"נ היה נוהג בטמאה אסור לסחור ביה דקרא דחלב נבילה וטריפה לא איירי כ\"א בטהורה שיש במינה טריפה או מי שחלבה אסור ובשרה מותר כדאיתא בזבחים ע\"א לענין טומאה ה\"ה לענין היתר סחורה. ע\"כ תי' דנ\"מ לחשוד על חלב טמא אין חשוד על חלב טהור דחמיר שהוא בכרת. והכה\"ג בהגהות ב\"י אות ה' הקשה לאיזה צורך כתב דנוהג בנבילה וטריפה ולא ידענא דה\"א דאין נוהג אלא בחלב הראוי ע\"ג המזבח קמ\"ל דמין טהורה בעינן ותדע דלאשמעינן דנוהג בנבילה פשיטא אטו משום דנתנבלה פקע איסור חלב ועיין בר\"מ המ\"א פ\"ז הא\"ב כתב דנוהג בנבילה וטריפה ואח\"כ כתב האוכל מנבילה וטריפה חייב ב'. תחלה אמר דל\"ת דאין ראוי למזבח לא מיחייב קמ\"ל ואח\"כ אמר דחייב ב' דהוה כולל ומ\"מ קשיא ל\"ל בבא א' וי\"ל דה\"ק נוהג בנבילה וטריפה מבטן ומשכחת טריפה ביותרת ונבילה ב' וושטין או ניקב הוושט לדעתו ז\"ל דפסק בה\"ש דהוה נבילה מחיים עכ\"פ ללקות משום אוכל נבילה עסי' ל\"ג א\"כ קמ\"ל דחל חלב על נבילה וטריפה מטעם דכתבנו לעיל בט\"ז אות א' דטריפה מיותר לומר דחל חלב עליה וכ\"ש נבילה מחיים דבזבחים עביד צריכותא נבילה דלא הוה מחיים משא\"כ נבילה מחיים והבן. ובכר\"ו אות א' כתב דנ\"מ למימר דאם יש לו מותר ליתן לו עוד דלא הוה כתרי עברי דנהרא א\"כ יש לו חלב טמא אין רשאי ליתן לו מטהורה. ויש לעיין דלמא לא שרי באפשר לו ליקח משוק אלא ברוצה חתיכה א' משא\"כ כאן דמה בכך שיש לו הא רוצה עוד. ועוד דמ\"מ איסור דרבנן איכא דמסייע ידי עוברי עבירה עי' כה\"ג בס\"ב בהגהות הטור אות הוז\"ח ובשו\"ת מהר\"ר בצלאל סי' ג' ולקמן סי' קנ\"א ובש\"ך אות ו\"ז: ודע דמה שיש להסתפק הוא בחלב נבילה שלחיה או חלב כוי אם מותר להסתחר ביה כיון דקרא דהיתר סחורה לא מיירי בחיה כמו דלא מיירי לענין טומאה כמבואר בזבחים ע' והר\"מ פסק כן בשא\"ה פ\"א דחלב חיה וכוי מטמא א\"כ ה\"ה להיתר סחורה. ומיהו בטריפה מבטן אף אם נאמר דאין חלב חל עליה דלא הוה כולל ואנן חמור על קל לית לן מ\"מ לא מסתבר לאסור סחורה בחלב שלהן דמין טהורה היא כי מיבעיא לי בחלב חיה נבילה או כוי וכדאמרן וכעת לא מצאתי גילוי לדין זה והדבר צריך אצלי תלמוד ✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 64:2"
+        },
+        "3": {
+          "he": "מותר. עש\"ך ומרבינן אף חלב ונ\"ה לדעה זו ועמ\"ש בסי' ס\"ה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 64:3"
+        },
+        "4": {
+          "he": "וי\"א. עש\"ך דעתו להחמיר אף בחלב שליל והשיג על הב\"ח לר' מאיר חלב שליל אין בו כרת דהא לא ניתר בשחיטת האם ובוודאי יש לתמוה מאין הרגלים לומר לר\"מ בבן ט' שנשחטה אמו שאין בחלבו כרת ועיינתי בב\"ח כתב דכן דעת המחבר שכתב דעת האוסרין באחרונה וא\"י דדעה א' בסתם עיקר עמ\"ש בכללי הפוסקים:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 64:4"
+        },
+        "5": {
+          "he": "וחלב. עש\"ך דמשמע ממ\"ש דאיסורא משום חלב איכא דהא איכא תרי לישנא בגמרא ולל\"ק הפילה נפל מחייב כרת אלא שאין לענוש כרת כ\"א בראיה וכ\"כ הפר\"ח אות ו' ואף שכתב על הש\"ך דנ\"מ טובא יע\"ש דמ\"מ הוה להשמיענו הר\"ב כל הדינין המוזכר בטור טמאה כו' ובכה\"ג בהגהות ב\"י אות ב' הקשה על הש\"ך דמהמ\"מ משמע דכרת ליכא אלא איסורא משום נבילה לא משום חלב ולא הבינותי דהא הביא ל\"ק וחייב כרת לר\"י ומ\"ש המ\"מ לכ\"ע אין בו כרת יש לעיין ביה ומ\"מ פשוט כוונת הש\"ך כמ\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 64:5"
+        },
+        "6": {
+          "he": "והוציאו. עש\"ך ולשיטתיה אזיל באות ד' דהלכה כי\"א אלו ע\"כ אמר דאף לי\"א דווקא הוציאו קודם שחיטה הא הניח בתוכו ושחט האם אף להר\"מ מותר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 64:6"
+        },
+        "7": {
+          "he": "תותב. היא מלה ארמית הוא שמלתו מתרגמינן הוא תותביה. ש\"ך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 64:7"
+        },
+        "8": {
+          "he": "קרום. עש\"ך ועיין גמרא חולין בהמקשה פלוגתא דר\"י ור\"ע להביא חלב שעל הדקין:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 64:8"
+        },
+        "9": {
+          "he": "חלב הכסלים. עש\"ך וסדר הניקור עיין לבוש וא\"א להעלות הכל על הכתב לכן לא אאריך בו:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 64:9"
+        },
+        "10": {
+          "he": "דק. עש\"ך ועיין מ\"ב ס\"ו דמנהג להניח צלע א' לאחוריים ואם נמצא צלע יתירה אין להחמיר להניח ב' מכל צד. ומ\"ש שם להניח י\"ב צלעות היינו עם ב' צלעות קטנות המונחים ע\"ג חזה ועש\"ך סימן נ\"ד:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 64:10"
+        },
+        "11": {
+          "he": "מלבד. עש\"ך. עוד אבאר קצת בדיני חלב איזו דאורייתא כו' דע כוי הבא מכבש ועז יראה דיש בו כרת וראיתי להכה\"ג בהגהות ב\"י אות ו' האריך ולא זכיתי להבין דבריו דהב\"ח ברור מללו במ\"ש דרבינו כתב כוי אסור ואין חייבין עליו הא הבא מבהמה ובהמה חייבין עליו דסובר ברייתא דיומא דמרבי כוי היינו תיש וצביה וספק אי חוששין לזרע אב ש\"מ מבהמה ובהמה א\"צ רבויא כלל וכרת נמי איכא ומיהו לתוס' ר\"פ דם שחיטה משמע דכוי היינו בריה בפ\"ע דלא צריך קרא לרבויי ספיקא א\"כ אכתי היה לרבינו להזכיר דמבהמה ובהמה כרת נמי איכא והוא פשוט. גם מ\"ש דכוי שהוא בריה בפ\"ע אין בו איסור כלל זה דלא כסברת התוס' ר\"פ דם שחיטה וכמ\"ש הב\"י בסי' ס\"ח דהגי' בר\"מ פ\"א ממ\"א כוי שהוא בריה בפ\"ע חלבו אסור ועמ\"ש בש\"ך אות ב': אמנם ראיתי במשנה למלך הל' שגגות פי\"ג ה\"ה שהמגיה האריך שם בריש מעיא אי יש בו כרת ומסוגיא דהוריות ג' א' מבואר דיש בו כרת והוא ז\"ל נדחק בזה הרבה גם הב\"י ס\"ס ס\"ה כתב חלב הקיבה והדקין אף שיש ספק יש בו חומר כרת הרי בהדיא דיש בו כרת אמנם מה שהאריך לומר דכל חלב מריש מעיא מן הקיבה אסור מן התורה לא כמ\"ש רמ\"א סט\"ו דנהגו להסיר רק הקרום מריש אורך אמות אלו משמע אף מריש מעיא מן הקיבה א\"צ לגרור כל השומן דק החלב וקרום וכבד ראיתי שערוריה בזה שהגיהו דברי הכל בו עיין כר\"ו הביא דבריהם ומ\"מ להלכה אין לנו אלא דברי רמ\"א ואף מי שרוצה להחמיר ולאסור כל השומן מריש מעיא מן הקיבה מ\"מ אם ניקבו הדקין שם ושומן סותם כשר ומ\"ש השער אפרים בתשובה סימן ס\"ב דמשום דיש ספק אינהו מיכל אכלי הביאו הפר\"ח בקו\"א סי' מ\"ח מיירי שניקב גם השומן שתחת הקרום רק החלב והקרום שעליו שלימין הוצרך לטעם אינהו מיכל אכלי ובהא לא קי\"ל כוותיה כמ\"ש התב\"ש שם משא\"כ אם השומן שלם כ\"ע מודים לרמ\"א ומ\"ש רמ\"א שומן טבחיא לאו דווקא שהרי כתב שעל אורך אמות אלו ואף מי שרוצה לנהוג איסור עכ\"פ סותם הוא הנקב וכדאמרן. עוד כתב המגיה שם על מ\"ש הפר\"ח בקו\"א דה\"ה בטבחייא שייך אינהו מיכל אכלי ותמהו עליו דהא חטי דכרכשא אין סותם והאריך ע\"ש ואין צורך להאריכות דודאי הא דריש מעיא באמתא אם אורך אמה ממש בעינן א\"כ וודאי חלב כרכשא שהוא המעי הישר לפעמים אין בו רק חצי אמה וא\"כ אורך אמה דבעי גרירא יש בו חלק מדקין לא מכרכשא לחוד ושם סותם שפיר ונ\"מ טובא. ודע דאורך אמה יש לעיין ביה אי בשור הגדול לפי גדלו וקטן לפי קטנו ✍: בשו\"ת ב\"ח סי' קנ\"ב ובכה\"ג בהגהות ב\"י אות פ\"ט וצ\"ב ושו\"ת רשד\"ם סי' נ\"ב במ\"ש נפל חלחולת לשונרא יש לעיין ביה דנראה דלאו מכל צד בעי ניקור עיין פוסקים. ומ\"מ הב\"ח האריך שם דלישנא בעי גרירה משמע גרירה בעלמא אף שהגיה הב\"ח בקו\"א מ\"מ יש לומר דא\"צ רק גרירה בריש מעיא מקיבה כמו למטה בכרכשא וכמ\"ש בתשובה קנ\"ב:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 64:11"
+        },
+        "12": {
+          "he": "אבל. עש\"ך ויראה לפרש דה\"ק דיש חלב בכרס ואינו בטל בששים והיינו הכרס דלא אמרינן חנ\"נ כה\"ג וכמ\"ש הט\"ז אבל החלב צריך ס':",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 64:12"
+        },
+        "13": {
+          "he": "שעל. הש\"ך הביא ב' פירושים ועמ\"ש בסימן מ\"ח והב\"י הביא כאן דברי רש\"י והר\"מ ומשמע דמחולקין הם:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 64:13"
+        },
+        "14": {
+          "he": "מפני. עש\"ך וחלב גמור אסור לחתוך בסכין שחותכין בו בשר ויש להזהיר למנקרי בשר בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 64:14"
+        },
+        "15": {
+          "he": "אבל. עש\"ך ושם נאמר דיש לחלק בין אם מנקר לאחרים כו'. ודע דכזית שאמרו הוא חצי ביצה עיין כה\"ג בהגהות הטור אות כ\"ט הביא ד\"ה דספג\"ה ודפ' חלון ושאר מקומות והר\"מ סובר בהל' עירובין שליש ביצה והמחבר בא\"ח סי' תפ\"ו סתם כתוס' ועמ\"ש בסי' מ\"א בכזית במקום מרה עיין שם: עיין פר\"ח כאן אות כ\"ו השיג על מ\"ש הריב\"ש סי' שמ\"ט מה שמשימין חלב בנסרים לא הוה מבטל איסור דא\"כ היאך צוותה התורה להגעיל למ\"ד אין מבטלין איסור ד\"ת ואף שיש במים ס' נ\"ג וחוזרין ונבלעין אלא כל שאין כוונתינו לבטל לא הוה מבטל איסור והקשה הפר\"ח דלא שייך כאן לא תאכל כל תועבה ולא כל מלתא דאמר רחמנא לא תעביד אי עביד לא מהני דכל שמעצמו שרי לאו מתועב הוא אף על ידי מעשה במזיד ומאחרי רבים נפיק ביטול איסורין ואף הגעלה גופא צוותה התורה עכ\"ל והנה י\"ל דהריב\"ש מקשה לר\"א דדריש בספרי לא תאכל כל תועבה לצורם אוזן הבכור ואפ\"ה כל ממילא שרי כמ\"ש התוספות חולין קט\"ו א' דרחמנא שריא להוממו אלמא דיש לחלק בין ממילא או לאו אם כן לר\"א תקשה איך צוותה התורה להגעיל כ\"מ לשיטת הראב\"ד דאין מבטלין ד\"ת אם כן המים אסורים מלתכ\"ת וחוזרים ונבלעים בכלי או דסובר הריב\"ש שיש חילוק בין ממילא לע\"י מעשה. ועיין בר\"מ הל' בכורות פ\"ב ה\"ז ופ\"ד ה\"א במ\"ל שהקשה ממ\"ש הר\"מ ז\"ל בהל' פה\"מ פח\"י ה\"ה המטיל מום בקדשים ואכלו לוקה מלתכ\"ת אלמא אף דממילא שרי אפ\"ה ע\"י מעשה אסור ועמ\"ש בסימן צ\"ח בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 64:15"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "ושל. עט\"ז מפני שיש קושי ההבנה בדבריו גם צריך להגיה קצת לכן אבאר. הנה הטור כתב דטמאה ונפל חלבם כבשרם ונבילה וטריפה חייב כרת על חלבם והקשה הב\"י לאיזה צורך הביא הטור חלב נבילה וטריפה ונפל וטמאה והט\"ז לא הביא כ\"א טמאה ונפל ונמשך אחר הב\"ח והב\"ח אפשר רמז במלת כו' יע\"ש. ומ\"ש דנ\"מ למלקות היינו אי חייב ב' או א'. והב\"ח תי' דנ\"מ לאיסור סחורה דדבר האסור באכילה מ\"ה אסור לעשות בו סחורה חוץ מחלב ע\"ז אמר דטמאה ונפל חלבם כבשרם ואסור לעשות סחורה. והט\"ז הקשה דבטמאה א\"נ דחלבו חייב כרת מ\"מ לא הותר מקרא דיעשה למלאכה דמיירי בטהורה כמבואר בזבחים ע' א' שיש במינה טריפה כמ\"ש הש\"ך בקי\"ז אות ד' וכאן אות ב' דלא כאורחת חיים יע\"ש א\"כ לאיזה צורך הזכיר דאין נוהג בטמאה ומיהו הא דהזכיר הטור דנוהג בנבילה וטריפה לומר אף דאיסור נבילה רביע עליה ונבילה אסור להסתחר מ\"מ בחלב נבילה וטריפה גלי קרא להדיא דמותר להסתחר ביה. אמנם במ\"ש דהוה מוסיף לא ידענא פירושו דמה ענין חלב טמאה לחלב נבילה דהתם נבילה על חלב הוה כולל והר\"מ ז\"ל בפ\"ז ממ\"א ה\"א קראו מוסיף ע\"ש במ\"מ ולח\"מ וכדבעינן למימר קמן הא חלב על טמאה אין בו כולל וכ\"ת דטמאה על חלב קאמר הא ליתא דמשנוצרה חל טמאה וחלב לאחר שכלו חדשיו דכ\"ע מודים דכל דלית ליה אוירא ולא חדשים דלית ביה איסור חלב וכאמור. ומ\"ש דהוה מין בא\"מ ממרוצת דבריו דהסכים למ\"ש רמ\"א בסי' צ\"ח דכתב דבתר שמא אזלינן לא בתר טעמא ומש\"ה א\"ש דאי חלב טמא הוה חלב מיקרי א\"מ וספיקא ד\"ת וע\"ז הקשה דלו אין חייב משום חלב מ\"מ כיון דבתר שמא אזלינן א\"מ הוה ויש לפרש דבריו כמ\"ש הש\"ך בצ\"ח אות ו' אלא דמיירי בבשר שמן ומ\"מ החמיר אם אין שוה בשמא ושם יבואר בעז\"ה והעלה דנ\"מ לנודר הנאה ר\"ל שאמר בפי' שמודר הנאה מדבר האסור משום חלב דאי אמר סתם אפשר כל דמיקרי חלב אף טמאה ונפל נמי נדר אלא שאמר בפי' שנודר מדבר דרביע עליה איסור חלב ומ\"ש דמש\"ה לא כתב הטור בסימן ס\"ה בג\"ה דאין נ\"מ דהר\"מ כתב דאסור בהנאה כבר תמה עליו הכה\"ג בהגהות הב\"י אות ה' דהר\"מ כתב בהיפך בפ\"ח ממ\"א דג\"ה שרי בהנאה ואם נגיה להחולקים על הר\"מ מ\"מ לדידן שרי בהנאה יע\"ש ויותר יש לתמוה דלמאן דאסר ג\"ה בהנאה פשיטא שצריך להשמיענו דאין נוהג בטמאה ולהתיר בהנאה וכ\"ת דהטור סובר דג\"ה נוהג בטמאה דטעמא דחכמים במשנה דאין נוהג דאין איסור חע\"א וסוברים יש בג\"ה בנ\"ט משא\"כ לדידן זה שבוש הוא חדא דמשמע דכר\"ש קי\"ל מי שגידו אסור ובשרו מותר ובאמ\"ה נמי דרשינן הכי ואף שיש לחלק בין דרשא דהתם מ\"מ הר\"מ ז\"ל בפ\"ח ממ\"א כ\"כ ועוד דאין לשון הט\"ז משמע כך כלל יע\"ש ומ\"מ י\"ל דבריו כי סובר שהטור לא ברירא ליה לפסוק הלכתא דג\"ה מותר בהנאה כמ\"ש הרא\"ש שראה באשכנז שנזהרין להשליכו לחתול ומש\"ה מידי ספיקא לא נפקא וע\"כ לא הכריע לכתוב דאין נוהג בטמאים ממ\"נ אי למודר הנאה בלאו הכי מספק אסור ואי דאין נוהג בטמאה להתיר ג\"ה של טמאה בהנאה נמי לא רצה לכותבו כיון דלהרא\"ש בלאו הכי שרי בהנאה ומכל מקום צ\"ע: ודע דנ\"מ בחלב דחייב כרת כמ\"ש הש\"ך אות ב' לחשוד וכמ\"ש הדרישה אות א' דתשובה חמורה. ועוד יש נ\"מ בג\"ה דהוה ברי' ולא בטיל וקשיא להב\"ח אמאי לא הזכיר הטור דאין נוהג בטמאה ובטל בין הגידים. אמנם מה שיש לנו מהספק הוא בטריפה מבטן כמו יותרת דטריפה קרום וחלב לאחר שכלו חדשיו אי חייב משום חלב או לאו דלדידן אין איסור חע\"א אלא בא' מג' דרכים כולל ומוסיף וב\"א עיין בר\"מ ה' א\"ב וכאן ליכא זה וחמור על קל לא חייל והנה הר\"מ ז\"ל בפ\"ז ממ\"א ה\"ב כתב נבילה על חלב הוה מוסיף ויש בו ב' קושיות. א' מה שהקשה הלח\"מ דכולל הוא. הב' עמד בו המ\"מ דבלא\"ה קרא מפורש הוא חלב נבילה יעשה למלאכה ואכל לא תאכלוהו התורה אמרה יחול איסור חלב כו' עיין זבחים ע' א' ולקושיא א' י\"ל לכאורה מוסיף למזבח ומיהו בעלי מומים מא\"ל עיין תוס' חולין ק\"א א' ד\"ה מאן. והנה לדידן דאית לן כולל למה לי קרא דיבוא איסור נבילה וחל על חלב וכ\"ת מכאן אנו למידין בעלמא הא לא סבירא ליה להר\"מ כן עיין תוס' זבחים ע' א' ד\"ה יבוא שהניחו בתימא. ויש לנו לומר דהתורה אמרה יבוא איסור חלב ויחול על טריפה שנולדה וכאמור ואמרה תורה דחייב נמי משום חלב דכן משמעות הקרא חלב נבילה כו' ואכול לא תאכלוהו ואזהרה דחלב חל על נבילה. ונבילה דכתיב קאי על רישיה דיעשה לכל מלאכה שאין מטמא וכ\"ת מלת \"לכל למה אתא י\"ל זה לר\"ע משא\"כ לר\"י הגלילי דלכל אהיתר הנאה מנלן תרתי וכבר ראיתי מי שנתקשה בזה דהר\"מ ז\"ל בפ\"ח ממ\"א הט\"ו מפיק \"לכל היתר הנאה ובה' שא\"ה פ\"א ה\"ה מפיק לטומאה ולדידי א\"ש דמש\"ה כתבה התורה נבילה לומר דטהור ומלת \"לכל מיותר להיתר הנאה אף להדיוט ותרתי מוכח מהאי קרא ע' פסחים כ\"ג ואף דבזבחים שם אמרינן טריפה להוציא בהמה טמאה זה לה\"א אבל לפי האמת דממעטינן חיה מאכול לא תאכלוהו ה\"ה דממעט טמאה ות\"כ ה\"ק דטריפה למעט טמאה ועדיין חיה לא ידעינן וממעטינן מאכל לא תאכלוהו ואייתר טריפה לכדאמרן דטמאה נמי ממועט מלא תאכלוהו. ותדע דשם ע' א' מסיק למעט טמאה לא צריך ערש\"י ד\"ה מי ומסיק ליחול כו' ולדידן ל\"צ אלא כדכתיבנא: עוד אבאר לך דלכאורה יש לומר נ\"מ אי חייב כרת על חלב או לאו לענין ס\"ס דבחיוב כרת לא מהני ס\"ס כנראה לכאורה במ\"ל בהל' בכורים פי\"ב הי\"ט דז\"א וכבר עמדנו בזה בפתיחה להל' טריפות ולקמן בקונטרס הספיקות אבאר עוד וכאן אבוא בקצרה. הנה התוס' ב\"ק י\"א א' הוקשה להם אמאי לא מטהרת מראשון מס\"ס והוה ספק כרס וכ\"מ בגמרא שם ובתה\"ד סימן ק\"ל בפסקיו בב' עזים ילדו ג' שעירות שרצה להתיר מס\"ס אף שיש כרת עיין ט\"ז סימן שי\"ו אות ה' וראיה לזה מב\"ק שזכרנו דאי יש מקצת שליא בלא וולד שרי מס\"ס בכרת באופן שדברי המ\"ל שם צ\"ע והדברים ארוכים אין עת האסף פה✍: שאלה חלב מבהמה טהורה שנמצא בחביות שכר וכדומה ואין ס' ויש ספק א' אי נשרה מעל\"ע וספק כבוש מבואר סימן ק\"ה דאסור והט\"ז הניח בצ\"ע ומעשים בכל יום דאוסרין ספק כבוש האם יש לצדד להתיר גם אם יש לחלק איזה חילוק: תשובה הנה הריב\"ש סימן שמ\"ט הביא הב\"י כאן והר\"ב בהג\"ה סימן קכ\"א ס\"א והפר\"ח כאן אות כ\"ו דמה שמשימין חלב בין נסרים שרי מטעם דטבע היין לברוח מחלב (לאו דוקא יין ה\"ה שאר משקים) ועוד דבטל בס' עכ\"ל והב\"י לא הביא אלא טעם א' וכ\"כ הר\"ב בהג\"ה בקכ\"א גם כן אמנם הפ\"ת שם אות ב' תמה ע\"ז דודאי אם שוהה היין מעל\"ע בולע ועינינו רואות שיש במשקה שמנונית ע\"כ העלה דאין היתר כ\"א מטעם ב' יע\"ש ואפשר גם הריב\"ש לא קאמר אלא בין הנסרים אבל לא מונח בתוכו ולפ\"ז א\"כ אין להתיר בכאן ומיהו ביין כה\"ג י\"ל דנט\"ל ולא בשאר משקים עסי' ק\"ג ס\"ד בהג\"ה. אמנם יש לדון דחלב חי כתב המרדכי פכ\"ש דאוכל חלב חי פטור ומותר לגמרי דלאו מפטורי דשבח הוא שיהא אסור אמנם הר\"מ ז\"ל משמע דפטור ואסור עיין כה\"ג כאן בהגהות הטור אות ב'. וראיתי להמ\"ל פ\"ה מהל' יסודי התורה ה\"ח ד\"ה ושם וד\"ה וראיתי לתוס' בקדושין שצידד אי שלכ\"א הוה איסור תורה או איסור דרבנן והביא ד\"ה דשבועות כ\"ב ד\"ה אהיתרא וכ\"ג ד\"ה דמוקי דשלכ\"א ליכא איסור תורה כ\"א איסור דרבנן יע\"ש (תוס' ד\"ה אהיתרא יש לפרש כיון דודאי שלכ\"א מישתבע אם כן לישנא דאכילה לאו דוקא ה\"ה דמשתבע נמי אכ\"ש כיון דאין כוונתו לשון אכילה ממש אלא שלכ\"א ה\"ה כ\"ש נ\"ל) וא\"כ לפ\"ז חלב חי שנפל למשקה לא הוה איסור תורה כ\"א דרבנן עיין תוס' פסחים כ\"ד ב' ד\"ה פרט דהמחה בחמה הו' שלכ\"א ה\"ה ע\"י כבישה והוה דומיא דספק כבוש בב\"ח דלקול' ה\"ה כאן דלא חמיר טעם יותר מעיקר ומ\"מ צ\"ע דאיפשר על ידי תערובת במשקה כדרך אכילה הוא בשאר משקין חוץ מיין: עוד יש לחקור חתיכת חיה ספק חלב או שומן דאין להתיר מחמת ספק דרבנן לקולא כיון דאחר כך יבשל ויעשה שומן יהיה ספק תורה וכ\"ת כיון דאישתרי אישתרי זה שבוש דודאי אסור הוא מיבעיא לי אי שרי לרבות עד ס' ולא הוה מבטל איסור כיון דעכשיו היתר הוא דומה לחמץ קודם פסח ולמ\"ש לקמן סימן צ\"ט ס\"ו א\"ד כיון דעכשיו אין ראוי חיה אסור הוא וצ\"ע✍ועיין מ\"ש הש\"ך בק\"י ספק חלב: בהא דספק כבוש בב\"ח לקולא נמי לאכול החלב חי אבל לא יבשל דתו הוה ספק תורה ועמ\"ש בק\"ה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 64:1"
+        },
+        "2": {
+          "he": "אבל. עט\"ז ומיהו הי\"א הן הר\"מ ז\"ל ולאו ממש דברי ר' מאיר דהא אנן פסקינן דניתר בשחיטת אמו ואפ\"ה חלבו אסור ובס' ראש יוסף הארכנו בזה. ומיהו להלכה משמע כדעה א' בסתם והר\"ב לא הגיה ולקמן סימן ס\"ה ס\"ז הגיה דנהגו להחמיר ה\"ט דחלב שור וכשב ועז כי יולד כתיב וקודם לידה ניתר בשחיטת אמו וג\"ה לא כתיב שור כו' כ\"כ המשמרת הבית דף נ\"ז א' הביאו גם כן הפר\"ח והסכים כן להלכה ולפ\"ז הפריס ע\"ג קרקע אסור מדרבנן משום מ\"ע. ובהוציא ידו החלב אסור לא החלב דאין לו שייכות עם כל האיברים. כתב הכר\"ו אות ב' דאף להר\"מ דאוסר חלב רק מה שנולד עמו לא אח\"כ אין נראה יע\"ש✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 64:2"
+        },
+        "3": {
+          "he": "וחלב. עט\"ז דאין בו איסור חלב כ\"א משום נבילה והש\"ך אות ד' בשם המ\"מ דאיסורא איכא וכ\"כ הפר\"ח אות ו' דבהמקשה איכא ב' לישני ולל\"ק לר\"י אוירא גרמי. ומ\"מ מ\"ש הפר\"ח דנ\"מ למ\"ש באות ב' יש לעיין דלחשוד הוה ספיקא ואולי דה\"ק דאי חשוד על חלב נפל חשוד על ספק כרת ומיהו לענין מודר הנאה שכתב הט\"ז לא ידענא אי מחית איניש לספיקא. ועיין כה\"ג בהגהות ב\"י אות ה' דחלב אם הוא אסור אז נודר אסור משא\"כ ג\"ה דבריה אף שאין נוהג בטמאים אסור בהנאה. לא ידענא דודאי חלב דעלמא נמי מיקרי חלב אלא לנודר מדבר האסור משום חלב א\"כ ה\"ה ג\"ה אי נדר מדבר האסור משום ג\"ה אין ג\"ה של טמאה בכלל✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 64:3"
+        },
+        "4": {
+          "he": "והוציאו. עט\"ז ור\"ל לא הוציאו אלא לאחר שחיטה ואף הר\"מ שהוא הי\"א יודה בזה שהרי הרב אומר כן הוא רבינו משה ז\"ל בהל' מ\"א פ\"ז ה\"ד דתלש חלב והוציאו קודם שחיטה וכמ\"ש הכ\"מ ובב\"י ומה שתמה הפר\"ח אות ה' והכה\"ג בהגהות ב\"י אות י\"ו יש ליישב. ומ\"ש בשם דמש\"א דהוציאו נקוט משום דא\"א לאכול בע\"א כוונת הב\"י הוציאו קודם שחיטה הא לאחר שחיטה ניתר מכל בבהמה ותדע דהא בוולד שלם אמרינן דלא הותר אלא מה שהיה מתיר בשחיטת עצמו לא חלב ואם נחתך אבר מעובר ניתר בשחיטת אמו אף דלא היה ניתר בשחיטת עצמו מריבויא כו' א\"כ חתך חלב והניחו בתוכה דניתר בשחיטת אמו ולדידן אין נ\"מ דבלאו הכי הלכה כדעה א':",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 64:4"
+        },
+        "5": {
+          "he": "תותב. עט\"ז וקרא בענינא דקדשים כתיב וכללא כל שקרב ע\"ג המזבח מיחייב כרת עליה ועמ\"ש בהא דריש מעיא:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 64:5"
+        },
+        "6": {
+          "he": "האליה. עט\"ז ולא הבינותי דזה תי' רב אשי חולין קי\"ו א' חלב האליה מיקרי חלב סתמא לא מיקרי ודחה ומתרצינן כרב זביד כל חלב שור וכשב ועז דבר השוה בשלשתן לאפוקי אליה דאין קריבה בכולן יע\"ש ועיין בר\"מ פ\"ז ממ\"א ה\"ה ובמ\"מ שם ועיין תה\"א ע\"ט א' דלמעט חיה וטמאה ממעטינן מחלב דכתיב בקרבנות דלא מיירי אלא בראוי להקרבה וע\"כ שור וכשב ועז אייתר למעט אליה וצ\"ע ועמ\"ש בש\"ך אות א':",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 64:6"
+        },
+        "7": {
+          "he": "שתחת. עט\"ז דאנן קי\"ל כר\"א וכרת נמי איכא לדידן בחלב זה ואין סותם כמו שכתב הר\"מ ז\"ל כרס שניקב אין לך דבר שיסתום אותו שחלב שעליו טמא הוא ולא שייך אינהו מיכל אכלי כיון דלדידן חלב גמור הוא:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 64:7"
+        },
+        "8": {
+          "he": "כשאר. עט\"ז הנה תראה שהט\"ז ורש\"ל מחולקין המה דט\"ז טעמא קאמר כיון שחלב זה רבינו אפרים הוא האוסר ואיהו ס\"ל דלא אמרינן חנ\"נ בשאר איסורין ומש\"ה א\"ל חנ\"נ וכסוגיא זו רבה בפוסקים והיש\"ש כתב ט\"א כיון שיש שאוכלין אותו לא החמירו לומר חנ\"נ דמדרבנן הוא בשאר איסורין ויש לראות א\"כ כל היכא דאיכא פלוגתא אף דהלכה כמאן דאוסר אפ\"ה לא נימא ביה חנ\"נ ועסי' ק\"ג וקכ\"ב בענין נט\"ל בלינת לילה וכדומה ולט\"ז א\"ש דוקא בהא דר\"א הוא האוסר והוא המתיר בשאר איסורין✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 64:8"
+        },
+        "9": {
+          "he": "אבל. עט\"ז הטעם דמבשוליהון יש ס' ועש\"ך אות י\"ב מ\"ש שם ומ\"מ א\"י כיון דצריך ס' דאנו מחזיקין לחלב גמור א\"כ למה אין אוסרין כלים של בני ריינוס. ומיהו הא ודאי לדידן דאם נאסר קדירה מחלב זה ואח\"כ נתבשל בב\"י אסור התבשיל אם אין בו ס' וכלים של בני ריינו\"ס הואיל והם נוהגים היתר אין לאסור וגם זה לא ידענא מה יושיענו כיון דלדידן חלב גמור. ודוחק לומר דסתם כלי ישראל ב\"י (עקכ\"ב) וכאן דאיכא ספיקא אמרינן בצירוף דאב\"י וצ\"ע:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 64:9"
+        },
+        "10": {
+          "he": "והוא. עט\"ז ור\"ל דחלק העב מטחול דבוק לכרס ושם אין כולו דבוק אלא קצת רוחב שם דבוק וקצת שם גופא אין דבוק ומעשה דפראג לא היה באותו חלק רוחב שאין דבוק אלא באורך הטחול שאין דבוק ועיין סימן מ\"ח. ומ\"ש דאם נצלה בטל חלב בס' הנה בסימן ע\"ד אות א' כתב דמיירי ששיערוהו שיש ס' הא מסתמא לא אמרינן דיש ס' ולענין הלכתא יתבאר שם:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 64:10"
+        },
+        "11": {
+          "he": "לנקר. עט\"ז בשם יש\"ש ועיין מ\"ש באות א' לענין חנ\"נ ועמ\"ש בש\"ך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 64:11"
+        },
+        "12": {
+          "he": "דלמא. עט\"ז ור\"ל כיון דגזירה הוא דיעבד אין איסור:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 64:12"
+        },
+        "13": {
+          "he": "וי\"א. עט\"ז דהאי הג\"ה מקומה בסי\"ד דאייתרא דמדינא אסור ואין רוצה לומר מדין תורה אלא שהמחבר כתב דמנהגא בעלמא הוא ורמ\"א כתב מדינא מדרבנן:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 64:13"
+        },
+        "14": {
+          "he": "אם. עט\"ז ואף דכל בשר צריך הדחה קודם שמא יצלנו חי אי נמי דהדחה לא מועיל לחלב שצריך שפשוף גדול כמ\"ש הר\"ן ריש חולין טבח צריך ג' סכינין:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 64:14"
+        },
+        "15": {
+          "he": "מאחר. עט\"ז דהיינו במליחה ולא בבישול ועסי' ק\"ה מ\"ש שם:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 64:15"
+        },
+        "16": {
+          "he": "מעבירין אותו. עט\"ז ועמ\"ש בסי' קי\"ט לענין טבח ועפר\"ח ופר\"ת שם:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 64:16"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "חלב שור וכבש כו'. ושל שאר בהמות טהורות אסור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 64:1"
+        },
+        "2": {
+          "he": "ושל שאר מינים. כלו' של חיות או של בהמות טמאות אין בהם איסור חלב אלא איסור של בהמה טמאה. וכתב הב\"ח דנ\"מ שאלו היה בכלל חלב היה מותר לעשות בו סחורה מדכתיב יעשה לכל מלאכה אבל כיון שחלבם כבשרם דאסור משום בהמה טמאה אסור לעשות בהם סחורה עכ\"ל ולפי מ\"ש בסימן קי\"ז ס\"ק ד' דבחלב בהמה טמאה אסור לעשות סחורה משום דטמא הוא לא נ\"מ מידי ודוק ונ\"ל דנ\"מ במי שהוא חשוד לדבר אחד שאינו חשוד לדברים אחרים כדלקמן סימן קי\"ט ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 64:2"
+        },
+        "3": {
+          "he": "מותר. דנפקא לן מכל בבהמה תאכלו וע\"ל סימן י\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 64:3"
+        },
+        "4": {
+          "he": "וי\"א כו'. ובספרי הבאתי ראיות לי\"א אלו ע\"ש כ\"ש גידו דאסור (וע\"ל סימן ס\"ה ס\"ז) וכ\"פ הב\"ח ודלא כעט\"ז שלא הביא אלא הסברא הראשונה מיהו מה שהביא הב\"ח ראיה מרא\"מ בספר יראים סימן קמ\"ז וכתב דס\"ל לרא\"מ דלרבי מאיר דאמר חלבו דשליל אסור אינו אלא חומרא דרבנן דלא כדעת הרמב\"ם (והמחבר) דמחייבי כרת עכ\"ל ולא ירדתי לסוף דעתו דא\"כ יהיה הרא\"מ נגד הש\"ס פג\"ה ד' צ\"ב ע\"ב דמוכח התם בהדיא דחלבו דשליל אסור מדאורייתא לרבי מאיר והכי איתא בכמה דוכתי בש\"ס אלא אגב חורפיה לא עיין דהרא\"מ קאי התם להדיא אחלבו דגיד דבהא אמרי' התם בש\"ס דהוי מדרבנן לרבי מאיר ופסקו הרמב\"ם פ\"ח מהמ\"א והט\"ו לקמן סי' ס\"ח וכלהפוסקי' וזה ברור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 64:4"
+        },
+        "5": {
+          "he": "וחלב נפל כו'. כך משמע מדברי הרב המגיד דאע\"ג דאין חייב כרת על חלבו איסורא מיהא איכא משום חלב ומ\"מ לא היה צריך הר\"ב לכתוב זה כיון דמ\"מ אסור משו' נבלה ואפי' מלקות נמי איכא משום נבלה כדכתבו הרמב\"ם והטור והוא פשוט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 64:5"
+        },
+        "6": {
+          "he": "והוציאו. קודם השחיט' אבל הניחו בתוכו ניתר בשחיטת הבהמה ואפי' לסברא אחרונה שבסעיף ב' דשאני התם שהשליל חשוב אבר בפני עצמו לענין זה אבל חלב שנחתך ממנו ונשאר במעי הבהמה הרי הוא בכלל כל בבהמה תאכלו. ב\"י:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 64:6"
+        },
+        "7": {
+          "he": "תותב. היא שמלתו מתרגמינן היא תותבי' כשמלה הוא פרוש על הקרב. רש\"י:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 64:7"
+        },
+        "8": {
+          "he": "קרום ונקלף. קרום דק יש עליו ונקלף הקרו' מעל החלב שאינו אדוק בו כ\"כ רש\"י:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 64:8"
+        },
+        "9": {
+          "he": "חלב הכסלים כו'. עי' בטור וב\"י איזהו חלב הכסלים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 64:9"
+        },
+        "10": {
+          "he": "רק קצת מן הקרום כו' בראש הדפנות כו'. ואם נמצא בבהמה צלעות יתרות כגון י\"ג או י\"ד בכל צד וכולן דומות זו לזו נמצא כתוב בשם מה\"ר שכנא שכולן מותרים רק אותן הסמוך לאחוריים ומביאו הב\"ח בס\"ס נ\"ד (וע\"ל סי' נ\"ד ס\"ק ט') וכ\"כ בתשובת מ\"ב סי' ס\"ז וכ' שם דנוהגים בכל בהמה להניח צלע א' מכאן ומכאן לחלק האחוריים ולא מצאתי בכל החבורים כן ואיני יודע למה נהגו כן כו' ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 64:10"
+        },
+        "11": {
+          "he": "מלבד בני ריינוס כו'. וכתב ב\"י בשם המרדכי שלדברי הכל צריך להסיר הקרים שתחת המכסה ולא נחלקו אלא בחלב שתחת אותו הקרום עכ\"ל וכ\"כ בד\"מ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 64:11"
+        },
+        "12": {
+          "he": "אבל אין אוסרים כלים כו'. ז\"ל הב\"י מ\"כ בשם ספר אגודה בערפורט נוהגים לאסור ובשאר קהלות נוהגים להתיר אמנם אלו אין נמנעין מכלי' של אלו ומבישוליהן אך הכרס אין אוכלים בבואם לקהילותם עכ\"ל וכן הוא בחדושי אגודה הנדפסים בסוף תשובת מהרי\"ו ובאגודה פרק ג\"ה סי' פ\"ט ומשמע דאפילו יש תערובות מחלב הדבוק לכרס בתבשיל ואינו בטל בתבשיל אין נמנעין מלאכול ועי' בסי' קט\"ו ס\"ק ט\"ז י\"ז ובסי' קי\"ט ס\"ק כ' כתבתי כמה חילוקי דינים בזה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 64:12"
+        },
+        "13": {
+          "he": "שעל הקשת כו'. פירש רש\"י הקיבה עשויה כקשת מבחוץ היינו שעל הקשת ומבפנים לעיגול היינו שעל היתר והרמב\"ם פירוש שעל היתר היינו חוט משוך כמו יתר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 64:13"
+        },
+        "14": {
+          "he": "מפני שנותנים בגד כו'. וגם אין מחתכין בו חלב שאסור מן התורה אלא גורדים אותו בסכין ואין בו דוחקא דסכינא בבשר ואף על פי שבשמנונית הגיד א\"א שאינו חותך ומנקר ישראל קדושים הן והחמירו בו ולא החמירו בסכין ואפילו משתכח דאית בה דוחקא דסכינא בדיעבד מותר בהדחה שהרי כל ישראל נהגו להדיח הבשר כ\"כ הטור בשם בעל העיטור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 64:14"
+        },
+        "15": {
+          "he": "אבל אם נמצא אחריו חלב כו'. עיין בב\"י וד\"מ מ\"ש בשם הר\"ן והגהת אשר\"י ועיין לעיל סי' קי\"ט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 64:15"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "ושל שאר מינים כו'. בטור כתוב דין בהמה טמאה ונפל דבשרם אסור ואין בהם איסור חלב ונ\"מ לענין מלקות ולא היה לטור לכותבם כמ\"ש ב\"י ומו\"ח ז\"ל תירץ דנ\"מ לענין שאסור לעשות סחורה בחלב בהמה טמאה ונפל שאלו היה בכלל חלב היה מותר לעשות בו סחורה דכתיב יעשה לכל מלאכה כו'. וקשה מזה לענין בהמה טמאה דאפילו יש בהם משום איסור חלב לא מועיל להקל אלא להחמיר דהוה איסור מוסיף כמו בחלב בהמה טהורה נבלה דהוה איסור מוסיף כמ\"ש ב\"י אלא שגזרת הכתוב הוא דמותר במלאכה דכתיב וחלב נבלה וגו' אבל בבהמה טמאה ודאי אין ללמוד מנבלה דנבלה היא מעין טהורה משא\"כ בבהמה טמאה אבל נלע\"ד נ\"מ לענין מין במינו דקי\"ל מין באינו מינו חמיר ממין במינו בסימן צ\"ו ובב\"י מביא שם בשם מ\"כ דחלב ובשר הוי ב' מינים וא\"כ אם נתערב חלב טמאה עם בשר כשר ה\"א דהוא מין באינו מינו ע\"כ קמ\"ל דאין כאן שם חלב והוה מין במינו וגם ע\"ז התירוץ יש להקשות דמ\"מ יש עליו שם חלב אלא דאינו אוסר וא\"כ ה\"ל מין באינו מינו עם בשר ע\"כ נראה דנ\"מ לנודר הנאה מכל דבר שאסור משום חלב שנדע במה הוא אסור ודרך זה כלל לתרץ בדברי הטור בכמה מקומות כגון ר\"ס ס\"ו לענין דם בהמה טמאה ואבר מן החי ודרך זה איתא בתוס' פ' הספינה (בבא בתרא דף פ\"ד) במה שאמרה האי שמשא היא אדומה נ\"מ לנודר מן האדום ומ\"ה ניחא דלא כתב הטור גבי גיד דאינו נוהג בטמאה כמ\"ש במתני' דלדידן אין נ\"מ מזה דבזה לא שייך נודר הנאה מגיד דלרמב\"ם בלא נדר נמי אסור בהנאה גיד הנשה זה נ\"ל נכון מאד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 64:1"
+        },
+        "2": {
+          "he": "אבל אם הפריס כו'. דאז אסור משום מראית עין כמו לענין שחיטה דלעיל וזהו דברי ר' יהודה בגמרא והי\"א הוא דברי ר\"מ:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 64:2"
+        },
+        "3": {
+          "he": "וחלב נפל אסור כו'. לא ידעתי פירושו דאם נתכוין לאיסור חלב אדרבה באמת אין בו משום חלב כמ\"ש הטור בשם רמב\"ם. ואי נתכוין לאיסור מצד שהוא נפל זהו פשיטא דלמה יהיה מותר יותר משאר בשר הנפל. ובד\"מ לא הוזכר מזה ונראה שהג\"ה זו לאו מדברי הרב היא אלא איזה תלמיד טועה כתבה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 64:3"
+        },
+        "4": {
+          "he": "והוציאו כו'. אבל אם לא הוציאו מותר דכתיב כל בבהמה תאכלו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 64:4"
+        },
+        "5": {
+          "he": "תותב קרוס. בגמרא איתא תניא את כל החלב המכסה את הקרב מה חלב המכסה את הקרב קרום ונקלף אף כל קרום ונקלף פרש\"י קרום דק יש עליו ונקלף הקרום מעל גבי החלב שאינו אדוק כ\"כ ומרבה חלב שעל גבי הקיבה וכ\"ש שעל הדקין ר\"ע אומר מה חלב המכסה הקרב תותב קרום ונקלף אף כל כו' פירש\"י תותב הוא שמלה דכשמלה הוא פרוש על הקרב וכן על הדקין בראשן אבל חלב הקיבה אינו תותב אלא חתיכות חתיכות והוא אדוק ושעל הדקין מראשו והלאה היינו מן הכנתא כשמפרישין אותו נשאר מן החלב אצלם ולאו תותב הוא אלא אדוק בהם. ובטור כתוב תותב קרום ונקלף פירוש שהוא פרוש על הקרום בענין שכשנקלף הקרום נקלף עמו ונתן עוד סימן שלא יהא בשר חופה אותו והוא מבואר גם כן בגמרא. ויש מקשים על הטור למה פירש מה שאמרו קרום ונקלף על הקרום שתחת החלב הא פירש\"י על הקרום שעל החלב ונראה דלא קשה מידי דרש\"י פירש כן בדברי רבי ישמעאל אבל בדברי רבי עקיבא ע\"כ אינו כן דאי תימא דקרום ונקלף של רבי עקיבא הוה גם כן כר\"י אלא שמוסיף תותב היה לו לר' עקיבא לומר תותב וקרום כו' אלא ע\"כ דחדא היא דהתותב הוא שיושב כולו על הקרום שתחתיו וזה כוונת רש\"י שכתב פרוש על הקרב דהיינו שהקרום עם החלב שעליו פרוס על הקרב וגם מו\"ח ז\"ל כתב דברי הטור עד\"ז דר\"ע דלא כר\"י מטעם אחר ובפרישה האריך בזה בחנם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 64:5"
+        },
+        "6": {
+          "he": "האליה. דלא אסרה תורה אלא חלב סתם וזה מקרי חלב האליה אבל מה שדבוק על צד פנים של האליה הוא חלב גמור ואינו בכלל חלב האליה דלשון חלב האליה היינו האליה עצמה וחלב זה לשון מיטב הוא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 64:6"
+        },
+        "7": {
+          "he": "שתחת הפריסה. פי' קרום פרוס על הכרס וקורין אותו טרפה ליל\"ך בל\"א או נע\"ץ ותחת אותו הקרום יש חלב דבוק בכרס עצמה ואסרו רבינו אפרים ורבינו יואל התירו והאריך במרדכי בראיותיהם וקי\"ל כרבי' אפרים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 64:7"
+        },
+        "8": {
+          "he": "כשאר חלב לבטלו בס'. מ\"מ נ\"ל שאין אומרים בו חתיכה עצמה נעשית נבלה להצריך ששים נגד כל החתיכה שזה החלב דבוק בו אם אין בו עצמו ששים מאחר שרוב הפוסקים ס\"ל דלא אמרינן חתיכה עצמה נעשה נבלה אלא בבשר בחלב כרבינו אפרים לקמן סי' צ\"ב. וכן מצאתי לרש\"ל פרק א\"ט סי' נ\"ד מטעם דכל שאין נותן טעם אין איסו' מן התורה אלא מדרבנן גזרו בזה דחתיכה עצמה נעשית נבלה ומאחר שאחרים אוכלים זה החלב כרבינו יואל על כיוצא בזה לא גזרו ע\"כ. ומ\"מ כתב שם שלענין מה שאנו קי\"ל חלב טהור סותם הנקב כדאיתא ר\"ס מ\"ו אף חלב זה אינו טהור לענין שיוכל לסתום נקב כיון דלרבינו אפרים חלב מה\"ת הוא וענוש כרת:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 64:8"
+        },
+        "9": {
+          "he": "אבל אין אוסרין כלים כו'. באגודה כתוב אמנם אלו אין נמנעין מכלים של אלו ומבישוליהן אך הכרס אין אוכלין וכתב רש\"ל על זה דמאחר שכתב שאין נזהרין אלא מהכרס עצמו הא התבשיל שנתבשל עמו אוכלין אותו וזהו מ\"ש שאין נזהרין מבישוליהן ואפילו להאוסרין ומחזיקין אותו בחלב גמו' מ\"מ מסתמ' המעט חלב שעל הכרס הוא בטל בששים נגד הכרס והמרק והלפתן שעמו ע\"כ:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 64:9"
+        },
+        "10": {
+          "he": "והוא הצד הגס. פירוש בכל מקום הן צד הנגלה הן צד הנסתר דהיינו במקום שדבוק לכרס וכ\"כ רש\"ל וז\"ל שעל הדד הוא מחובר שם לכרס ולחלב גמור ע\"כ וכיון שכל הקרום של הטחול יש בו עכ\"פ איסור חלב ע\"כ אם ניקב הכרס אין מועיל סתימת הטחול דלא כיש מי שהתיר בזה ועמ\"ש סי' מ\"ח ס\"ב וכתב רש\"ל מעשה בטחול שנצלה בלא ניקור והתירה מוהר\"ר משולם וחבריו משום דבטל חלב הטחול בטחול עצמו ובחלב הטהור שבו עכ\"ל ועמ\"ש על זה בסימן ע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 64:10"
+        },
+        "11": {
+          "he": "לנקר הקרום העליון. רש\"ל פ' ג\"ה סי\"ד הביא דעת רבינו ברוך דאם אין בחתיכה עצמה דהיינו כל מה שהדבוק להקרום ס' נגד הקרום צריך ס' נגד כל החתיכה דחתיכה עצמה נעשית נבלה וכ\"כ בשם כתבי מהרא\"י דלא מהני מה שהוא חלב כחוש דלא קי\"ל כאותו תירוץ בגמרא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 64:11"
+        },
+        "12": {
+          "he": "דלמא אתי למיטעי. פשוט הוא דבדיעבד אין צריכין ששים רק נגד צד הכבד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 64:12"
+        },
+        "13": {
+          "he": "ויש אומרים שמדינא אסור כו'. בקצת ספרים הוא נדפס שלא במקומו ומקומו בסעיף י\"ד לענין חלב שעל היתר שם צריך להיות האי וי\"א:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 64:13"
+        },
+        "14": {
+          "he": "אם נעשו לא נאסר. משום דלא אסרינן ליה אלא משום שמא ישכח מלשפשף היטב:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 64:14"
+        },
+        "15": {
+          "he": "מאחר דיש מתירין על ידי קליפה. פירוש במליחה אבל בבישול ודאי צריך ס' ואמרינן בו חתיכה עצמה נעשית נבילה כמ\"ש בסעיף י\"ב בשם רש\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 64:15"
+        },
+        "16": {
+          "he": "מעבירין אותו. בח\"מ סימן ל\"ד מבואר חילוק בין שוחט או מנקר לעצמו או לאחרים וכן הוא כאן בבית יוסף:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 64:16"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "שאר מינים. עיין באר היטב מ\"ש ונ\"מ כו' ועיין בנ\"צ דנ\"מ עוד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 64:1"
+        },
+        "2": {
+          "he": "אסור. משום מ\"ע כמו גבי שחיטה לעיל סי' י\"ג וע' בתשובת רדב\"ז החדשות סי' ע\"א שכתב דלדעה זו מסתברא דאין צריך לחטט אחריו דחטיטה לאו דאוריי' וכיון דעיקר איסורו הוא מפני מראית עין לא מחמרינן כולי האי ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 64:2"
+        },
+        "3": {
+          "he": "אלא באחוריים. עש\"ך (ובבה\"ט סק\"ז) ועי' בנו\"ב תניינא חלק יו\"ד סימן ל\"א שכתב על דבר הבשר שבין צלע י\"א לי\"ב בודאי יש שם חלב ופה המנקרים בשר אחוריים הם מנקרים זה ולא הקצב וידוע שיש שם חלב הן לצד הגב והן לצד מטה לצד הבטן ואם אין בעיר שם מנקרים היודעים לנקר אחוריים יעשו הצלע רק אחד עשר צלעות עכ\"ל ועיין בשו\"ת בנו שיבת ציון סימן כ\"ז שנשאל על מה שאין נוהגין כן וכתב להשואל אברר למעלתו כוונת אמ\"ו ז\"ל ובאמת ראוי לפרסם ע\"ד המכשלה שראיתי בקהלות קטנות שעושים הצלע של צד פנים י\"ב צלעות היינו י\"א צלעות גדולות שיש בהם מוח ועוד צלע א' קטנה שאין בו מוח והטבחים מנקרים רק מעט מהקרום אשר לצד הכסלים כפי המבואר ברמ\"א כאן ויצא להם טעות זה ממה שראו בתשובת מ\"ב שכתב המנהג לעשות הצד של פנים י\"ב צלעות ומה שנוהגים להניח צלע א' לצד אחוריים הוא חומרא בלי טעם ע\"כ וסבר שהוא מונה י\"א צלעות גדולות וא' מצלעות קטנות אבל הוא טעות כי המ\"ב התחיל למנות מן תחלת צד הצואר והכניס במנינו גם ב' צלעות קטנות הנחתכים עם החזה כו' א\"כ לפי לשון המורגל אצלנו כשכלו כל י\"א צלעות גדולות שיש בהם מוח אז הבשר שאחריה שבינה לבין הצלע י\"ב הקטנה יש שם חלב הן לצד הגב והן לצד מטה וזהו כוונת אמ\"ו ז\"ל ואם עושים הצד פנים גדולה יותר מי\"א צל\"ג אז צריך אומן ובקי לנקר החלב וקרומים האלה ואין לסמוך על הקצב כמ\"ש אמ\"ו ז\"ל שם ובמקום שאין בקי צריך להשגיח שלא יעשה יותר מי\"א צל\"ג וכל ג' צל\"ק שאין בהם מוח יניח לצד אחוריים עכ\"ל ע\"ש: [ועי' בתשובת ח\"ס סימן ס\"ח שכ' בזה דודאי הבשר הזה צריך קצת ניקור ומפשיטים השלי\"ם העור דק מעליו שהוא קרוב לחלב הכסלים ומכ\"ש בשר שסמוך לבטן שקרוב מאוד לחלב הפריסה וצריך השגחה להפשיט משם השלי\"ם ההוא והקצבים הישראלים בקיאים ואומנים בזה וכן מנקרים איזה גידי דם בין צלע לצלע היורדים מחזה וגם בזה בקיאים אך במקומות שאוכלים חלק האחוריים וממונים מנקרים בקיאים ע\"ז אז מניחים אפי' הצלע הי\"ב לאחוריים ומוסרים אותו להמנקרים ואין להקצבים אלא י\"ח צלעות בחלק הפנים ואין עליהם לנקר שום ניקור אבל במקומנו שאין אוכלים אחוריים מפני טורח הניקור א\"כ הבשר הנ\"ל שניקורו קל ואין בו טורח וגם אינו חמור כ\"כ והקצבים מנקרים אותו ונאמנים עליו יאכלו ענוים וישבעו ותימה על הרב נו\"ב דמייתי ראיה מק\"ק פראג ששם מנקרים אחוריים. לק\"ק פאקש ולא דמי להדדי עכ\"ד ע\"ש]. ועי' בתשובת שתי הלחם סימן ל\"ט:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 64:3"
+        },
+        "4": {
+          "he": "הצד הגס. עבה\"ט ומ\"ש לענין טחול שנצלה בלא ניקור עיין לעיל סי' מ\"ג סק\"ד מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 64:4"
+        },
+        "5": {
+          "he": "רק הקרום. עיין במשנה למלך פרק י\"ג משגגות הלכה ה' ובתשובת שב יעקב חי\"ד סימן כ\"ו ובתשו' כנסת יחזקאל סימן כ\"ה ובתשו' ברית אברהם חלק יו\"ד סימן כ\"ח שהאריכו מאד בענין זה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 64:5"
+        },
+        "6": {
+          "he": "גם בכבש. עי' בתשו' עבודת הגרשוני סימן ס\"ו שנשאל בהדרא דכנתא של כבש שנמלח בלי ניקור כלל באופן שאנו מצריכים לשער בששים אם צריך ששים נגד כל הקרום שעל הדקים והכנתא אי סגי אם יש ששים נגד החלב שעל ריש מעיא באמתא והשיב דזה פשוט דאין צריך לשער נגד הקרום שעל כל הדקים דהרי אין בו איסור כלל וכי בשביל שאנו נוהגים להסירו כי היכא דלא ליתו להניח גם כן על ראש הדקים נאסר בדיעבד. רק צריך לשער נגד החלב והקרום של ריש מעיא באמתא ואף שכ' הב\"י דירא שמים יגרוד אורך אמה מכאן כו' זה ודאי דמכח ספק אם ריש מעים פירושו היכא שיוצא מהקיבה או סמוך לבית הרעי כתב כן ואם כן פשיטא שא\"צ ס' אלא נגד אמה א' אמנם אם החלב הרבה באמה א' ובאמה א' מעט מצריכין ששים נגד האמה שהחלב בו מרובה ואמנם דוקא אם יש ס' בדקין עצמם נגד הקרום והחלב הנ\"ל אבל אם אין שם ששים רק על ידי צירוף בשר אחר הנמלח עמו אמרינן חנ\"נ וצריך ס' נגד כל הדקים שהחלב דבוק בהם והדקים עצמם אסורים גם צריך ליטול הוורידין מן שומן הכנתא המסובכים כעכביש ע\"ש עיין בתשובת ברית אברהם סוף סימן כ\"ח מ\"ש בזה. ועיין בספר חמודי דניאל הלכות מליחה סימן ו' שכתב דהדרא דכנתא שמלחו אותו ושכחו מעט חלב נראה שמצטרפים גם הפרש לבטל בששים כמו דמצטרפין עצמות בסימן צ\"ט סעיף א' וקליפות ביצים בסימן פ\"ו סעיף ה' וכ\"ש פרש דיש בו לחלוחית ונבלע בו הטעם אפילו על ידי מליחה דהא אפילו בכלי יכול מליחה להבליע מיהו לפעמים נמצא שאין הפרש מלא וצריך למעך חללו עכ\"ד עיין שם ולפי מ\"ש לקמן סימן צ\"ט סק\"א בשם תשובת מהר\"י הלוי דדוקא בבישול הוא דמצטרפין עצמות אבל במליחה באיסור שמן אין העצמות מצטרפים ע\"ש אם כן לאו ראיה היא אלא דאפשר לחלק בין עצמות לפרש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 64:6"
+        },
+        "7": {
+          "he": "לנקר הבשר תוך ג\"י. עיין בנחלת צבי לענין אם מהני לזה אם שרי אותו קצת כמו דמהני לקמן סימן ס\"ט סעיף י\"ג עיין שם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 64:7"
+        },
+        "8": {
+          "he": "מלמדים. ומה\"ט פסק בתשו' עבודת הגרשוני סימן ט\"ו בטבח שמכר בשר שלא הודח ולא נמלח יותר מג' ימים אחר השחיטה שאין צריך להעבירו רק מלמדין אותו כו' אם לא משום גדר ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 64:8"
+        },
+        "9": {
+          "he": "אחריו חלב. עי' בתשו' גבעת שאול סימן י\"ב שנשאל עבור מנקר שנטל קבלה על סדר הניקור ומצאו אחריו חלב וקצת מן בשר הנ\"ל שניקר נאכל והבשר שהיה בעין אף שהיה מלוח היו חתיכות שלמות ויש בכל חתיכה ס' נגד החלב שבו אך הבשר שכבר נתבשל נחתך לחתיכות קטנות ואפשר שלא היה ס' בכל חתיכה מה דינן של הכלים שנתבשלו בהם והשיב דהכלים שנתבשלו בהם בשר שניקר קודם אותה חתיכה שנמצא בה חלב בודאי מותרים דאמרינן השתא הוא דאיתרע כמ\"ש הש\"ך סימן א' סק\"ח ובסימן קי\"ט סק\"ל אך הכלים שנתבשלו בהם חתיכות שניקר אותם אחר שניקר החתיכה שנמצא בה חלב אסורים אם יש לספק שאין בכל הקדירה אף עם המרק ושאר דברים ששים נגד החלב אבל אם זה ברור דבכל הקדירה יש ס' אלא שיש ספק שמא אין בחתיכה עצמה ס' יש להתיר משום דהוי ספק דרבנן ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 64:9"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "מינים.  בטור כת' כגון חיות ובהמות טמאות. וכ' הט\"ז דנ\"מ לדידן אם אסור משום טמא או משום חלב לנודר הנאה מכל דבר שאסור משום חלב שנדע במה הוא אסור. והש\"ך כתב דנ\"מ במי שהוא חשוד לדבר א' שאינו חשוד לדברים אחרים כדלקמן סי' קי\"ט ואם מותר לעשות סחורה מחלב בהמה טמאה ע\"ל סי' קי\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 64:1"
+        },
+        "2": {
+          "he": "אסור.  כתב הש\"ך דנ\"ל עיקר להלכה כדעה זו וכ\"ש דגידו אסור וע\"ל סי' ס\"ה ס\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 64:2"
+        },
+        "3": {
+          "he": "נפל.  הג\"ה זו אין לה שחר כלל דבאמת הוא אסור מצד נפל ואיסור חלב אין בו וכתב הט\"ז שאיזה תלמיד טועה כתבה ואינה מדברי הרב רמ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 64:3"
+        },
+        "4": {
+          "he": "והוציאו.  כ' הש\"ך אבל אם הניחו בתוכו ניתר בשחיטת אמו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 64:4"
+        },
+        "5": {
+          "he": "תותב.  פי' שהוא פרוש כשמלה על הקרב קרום ונקלף פי' קרום דק יש עליו ונקלף הקרום מעל החלב שאינו אדוק בו כ\"כ אבל מה שעל הדקין מראשו והלאה לאו תותב הוא אלא אדוק בהם וחלב הקיבה אינו תותב אלא חתיכות חתיכות והוא אדוק:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 64:5"
+        },
+        "6": {
+          "he": "הכסלים.  עיין בטור איזה הוא חלב הכסלים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 64:6"
+        },
+        "7": {
+          "he": "באחוריים.  כבר נתבאר בסי' נ\"ד שנוהגים להניח בכל בהמה צלע א' מכל צד בחלק האחוריים ואף אם נמצאו צלעות יתרות אפ\"ה אין מניחין יותר מאחת הסמוכה לאחוריים. (כי יש שיטות להחמיר שלא לאכול בשר אחוריים כי אף למדן גדול אין יכול לבאר זה היטב מתוך ספר. כת' בה\"י דנוהגין ליקח מן הכתף הגיד עם שמנו שיש סביב הגיד ובדיעבד אם לא ניטל השומן מותר):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 64:7"
+        },
+        "8": {
+          "he": "במקצתו.  אבל לכולי עלמא צריך להסיר הקרום שתחת המכסה ולא נחלקו אלא בחלב שתחת אותו הקרום ב\"י בשם המרדכי:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 64:8"
+        },
+        "9": {
+          "he": "בששים.  כתב הט\"ז מיהו לא אמרינן בו חתיכה עצמה נעשה נבלה להצריך ס' נגד כל החתיכה שזה החלב דבוק בו (מאחר שרבינו אפרים פסק דא\"א חתיכה נ\"נ אלא בב\"ח) אבל לענין סתימת הנקב לא מיקרי חלב טהור ואינו סותם (מאחר דלר\"א חלב גמור הוא ע\"ל סימן מ\"ח):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 64:9"
+        },
+        "10": {
+          "he": "כלים.  דמסתמא המעט חלב שעל הכרס בטל בס' נגד כרס והמרק והלפתן שעמו (וכתב האגודה אין אלו נמנעין מכלים של אלו ומבישוליהן אך הכרס אין אוכלין וכ' רש\"ל עליו מאחר שכ' שאין נזהרין אלא מכרס עצמו הא התבשיל שנתבשל עמו אוכלין וזהו מ\"ש שאין נזהרין אלו מבשוליהן. ואפי' להאוסרין ומחזיקין אותן לחלב גמור מ\"מ מסתמא החלב שעל הכרס הוא בטל בס' נגד הכרס והמרק והלפתן שעמו. וש\"ך כ' אפילו יש תערובת מחלב הדבוק לכרס בתבשיל ואינו בטל בתבשיל אין נמנעים מלאכלו ע\"ש. ופר\"ח כתב לדידן דקי\"ל טעם כעיקר דאורייתא אין להקל בכך. ובת' מהרלב\"ח דף קמ\"ה כ' וז\"ל אבל אם יש מנהג יעשה כמנהגם כגון במדינת ריינו\"ס יש קצת מקומות שנוהגין איסור בחלב שעל הקיבה וכשבאין למקומות שנוהגין היתר אוכלין מבישוליהן מהמרק או מהבשר שנתבשל עם האיסור וכ\"ש שמשתמשין בכליהם שהם ב\"י ודוקא שיהיה מנהג באוכל כגון שאותן המקומות שנוהגין איסור דרים באותה מדינה שקצת מהם נוהגין היתר וקצת מהם נוהגין איסור דיש לומר שהמקומו' שנוהגין איסור לא קיבלו עליהם האיסור מכל וכל לאסור פליטתו והמרק והנתבשל עמו. אבל אם המנהג במאכיל לבד ר\"ל דהמאכיל הוא מהמדינה שקצת נוהגין בהם איסור והקצת נוהגין היתר והמאכיל נוהג היתר והאוכל הוא ממדינה שכולן נוהגין איסור כגון ממדינת פולין כשבא למקומות שנוהגין היתר אע\"ג שנהגו להאכיל למקומות הסמוכים להם הנוהגין איסור. אסור לו לאכול מבישוליהן. לפ\"ז לא יפה הן עושין אנשי פולין שבאין למדינת אשכנז ואוכלין מבישוליהן. מיהו הא דאסור לאכול דבר איסור מחמת מנהג אבותיו ובני מדינתו דוקא כשאין נראה לו היתר בדבר. אבל כשנראה לו היתר בדבר ובא ממקום שנהגו איסור למקום שנהגו היתר יוכל לאכול ש\"ך סי' קי\"ט ס\"ק כ' ע\"ש).",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 64:10"
+        },
+        "11": {
+          "he": "הגס.  כ' הט\"ז פי' בכל מקום הן צד הנגלה הן צד הנסתר דהיינו במקום שדבוק לכרס ואם ניקב הכרס אין מועיל סתימת הטחול וכתב רש\"ל מעשה שנצלה הטחול בלי ניקור והתיר מה\"ר משולם משום דבטל חלב הטחול בטחול עצמה ובחלב הטהור שבו וע\"ל סי' ע\"ד (וע\"ל סי' מ\"ג ס\"ק ד'):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 64:11"
+        },
+        "12": {
+          "he": "הקרום.  כתב הט\"ז ואם אין בחתיכה עצמה דהיינו כל מה שדבוק לקרום ששים נגד הקרום צריך ס' נגד כל החתיכה דחתיכה עצמה נעשה נבלה ולא מהני מה שהוא חלב כחוש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 64:12"
+        },
+        "13": {
+          "he": "שני.  כ' הט\"ז ובדיעבד אין צריך ס' רק נגד צד הכבד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 64:13"
+        },
+        "14": {
+          "he": "הקשת.  פירש\"י הקיבה עשויה כקשת ומבחוץ היינו שעל הקשת ומבפנים לעיגול היינו שעל היתר היינו חוט משוך כמו יתר:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 64:14"
+        },
+        "15": {
+          "he": "בקליפה.  כ' הט\"ז היינו במליחה אבל בבישול צריך ס' ואמרינן בו חתיכה עצמה נעשה נבלה (חוץ מגידי צוואר שיתבאר לקמן סי' ס\"ה. רש\"ל וקליפה זו בין במליחה ובין בצלי אינו אלא חומרא בעלמא. ונ\"מ דאם לא קלפוהו ובשלו כך מותר בדיעבד):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 64:15"
+        },
+        "16": {
+          "he": "מעבירין.  עי' בח\"מ סי' ל\"ד דמחלק גבי טבח אם שוחט לעצמו או לאחרים וגם כאן דינא הכי:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 64:16"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

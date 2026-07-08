@@ -1,0 +1,129 @@
+{
+  "chelek": "OC",
+  "siman": 22,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-07T23:36:29.830Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "ובו סעיף אחד:קנה טלית ועשה בו ציצית מברך שהחיינו דלא גרע מכלים חדשים: הגה ואם לא בירך בשעת עשייה מברך בשעת עטוף ראשון [מיימוני ונימוקי יוסף]:",
+      "en": "Containing 1 Se'if:One who buys a טלית and makes ציצית strings for it should say the blessing of Shehechiyanu, because it is not any less [important] than new vessels.  Rem\"a: If one did not say the blessing at the time of making it (ie. completing the טלית by affixing the ציצית to it), he should say the blessing the first time he wears it. (Maimoni and Nimukei Yosef)",
+      "ref": "Shulchan Arukh, Orach Chayim 22:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מהרי\"א לפירוש הטור וכ\"כ העיטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 22:1"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "מכלים חדשים עמ״א ולא הבינותי בי״ד מתחנך בפ״א וכמ״ש הט״ז כאן ומילה ופדיון הבן משום דלא תדירי הויין כמזמן לזמן רק ציצית כתב הר״מ ז״ל פי״א מה׳ ברכות ה״ט בציצית ותפילין שקנין לו מברך שהחיינו זה אנן לא פסקינן כן ואין מברך שהחיינו אע״פ שקנין לו וכן מעקה בח״מ תכ״ז אין מברכינן שהחיינו על עשייה מעקה: ומ״ש המ״א דמברך על שעת עשייה ציצת לפי שבקנין עדיין לא נגמר דצריך לעשות ציצית ובת״ר ס״ב מברך בשעת לבישה דבעינן שעה מיוחדת או קנין או לבישה לא בשעה שנגמר ומביאו החייט כ״א בלבישה משא״כ ציצית להוציא י״ח הר״מ ז״ל ומהיותר טוב מברך בשעת עשיית ציצית: כתב ע״ת יברך שהחיינו ואח״כ להתעטף וא״ר אות א׳ דמברך תחלה להתעטף כמו פדיון הבן בי״ד ש״ה ס״י יע״ש והניח בצ״ע וי״ל הכא ברכת שהחיינו קדמה כבר משעה שהטיל ציצית נגמר הבגד וקנה כלים חדשים כו׳ וראוי לברך תחלה שהחיינו בשעת לבישה ויש לראות דא״כ באכילה נמי יברך שהחיינו ואח״כ פה״ע וכדומה דבראייה ראוי לברך עיין סימן רכ״ה ועיין סי׳ ר״ו שלא הוי הפסק דצורך אכילה הוא ואי״ה יבואר לקמן שם בזה ומה שהחליט המ״א כאן ות״ר דנתן לחייט אין מברך עד שילבשנו הט״ז בסי׳ רכ״ג אות ג׳ חולק ופוסק דמברך מיד יע״ש ומ״ש בשעת עיטוף א׳ יראה דל״ד ע׳ רכ״ה בלבוש יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 22:1"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "ועשה עט״ז והכלל בזה שהחיינו אין מברך אלא או שיש לו שמחה אף ע״פ שאין מזמן לזמן מברך על שמחת הלב שהחיה ה׳ אותו וקנה כו׳ ומש״ה כלים חדשים מברך כמ״ש ברכ״ג ומצות אע״פ שהן גזירת מלך ואין לו שמחה כ״כ כל שהוא מזמן לזמן מברך שהחיינו שהחיה ה׳ אותו לזמן הזה ופדיון הבן כתב הב״ח דבעי שיהא הולד ל״א יום ומיהו בלא״ה כל שיש לו שמחה מברך כמו כלים חדשים ששמחה לו והכי אסברה לן הלבוש כאן ובמילה י״ד רס״ה ס״ו אין מברך שהחיינו סבור הייתי לומר דצערא דינוקא אבל ראיתי להלבוש שם דא״כ במת אביו למה מברך שהחיינו (עא״ח סי׳ רכ״ג ס״ב ביש לו ירושה) והעלה דמילה שכיחא ופדיון הבן ל״ש רק בכור יע״ש. ודברי הב״ח ג״כ לא יועיל במילה שצריך להמתין ח׳ ימים ומה לי ל״א יום או ח׳ ימים ועיין הגמי״י פ״ג דמילה אות ד׳ כתב זה שכתב הלבוש ע״ש: ומ״ש הט״ז במצוה שמתחנך בו פעם ראשון מברך שהחיינו כמו מי שנעשה בר מצוה וקטן שהגיע לחינוך בציצית ועי״ד כ״ח בש״ך אוח ה׳ הניח זה בצ״ע. והנה אם קנה בגד מעורות שועלים ופיי״א וכיוצא מברך שהחיינו ול״ד לי״ד כ״ח ס״ב על השחיטה לא יברך שהחיינו דמזיק לבריה בידים משא״כ כאן ול״ד לרכ״ג ס״ו בהג״ה דאין לומר תבלה ותחדש שיצטרכו להרוג עוד יע״ש במ״א משא״כ כאן נ״ל:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 22:1"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] מברך בשעת עיטוף וכו'. פירש עולת תמיד שיברך שהחיינו ואחר כך להתעטף, ועיין בספרי ליורה דעה סימן כ\"ח שכתבתי שיברך שהחיינו אחר כיסוי הדם וכן הדין בפדיון הבן בסימן ש\"ה, ועוד דהא בתוספתא מדמה לה לסוכה ולולב דמברכין שהחיינו בשעת שיוצא בה, ושם קיימא לן דמברך תחילה על סוכה ולולב ואחר כך שהחיינו וצריך עיון. כתב הלבוש אבל עושה ציצית בטלית ישן אף שלא היה בו ציצית מעולם אין צריך שהחיינו דלא קביע זמן לעשיית ציצית וליכא שמחה בציצית בלא טלית חדש. והב\"ח כתב דדעת הרמב\"ם וטור דאף בטלית ישן כיון דעשיית ציצית מחדש בה מברך, וכן בתפילין מברך. והש\"ך ליורה דעה סימן כ\"ח כתב טעמא דרמב\"ם מפני שהן קנין לו, עיין שם, ודעת ט\"ז ועולת תמיד לפסוק כרמב\"ם לברך אף בתפילין, וסיים הט\"ז וזה לשונו ומכל מקום דבין בציצית ובין בתפילין יש לברך שהחיינו בפעם ראשונה כמו בכיסוי הדם, ומינה לכל מצוה שאדם עושה בפעם ראשון מברך שהחיינו, עד כאן לשונו. משמע דכולי עלמא מודים בזה שמברך בפעם ראשון שמחנך בה, דלא כש\"ך ליורה דעה שם ותשובת חות יאיר סימן רל\"ז שכתבו בפשיטות דאין מברכין. ועוד דנראה לי להוכיח מב\"ח סימן כ\"ט דלא אמרינן ספק ברכות להקל בברכת שהחיינו. גם נראה לי ראיה לזה מש\"ס ברכות דף ס' גבי קנה כלים חדשים דפריך וליפלגו בקנה וחזר וקנה להודיעך כחו דר' יהודה דצריך לברך, ומשני כחו דהתירא עדיף ליה. ולכאורה תימא הא פירוש רש\"י ריש ביצה דטעמא דכחא דהתירא עדיף משום דכח האוסרין אינה ראיה שהכל יכולין להחמיר ואפילו בדבר המותר, עיין שם, ואם כן הא בברכות אדרבה כח דאיסורא שצריך לברך ראוי להיות עדיפא, כיון דקיימא לן ספק ברכות להקל שלא לעבור על לאו דלא תשא. אלא נראה לעניות דעתי משום דשאני ברכות דשהחיינו דאינו עובר על לא תשא, ודו\"ק. וניחא נמי מה שתמה שיירי כנסת הגדולה לקמן סימן רי\"ט בשם מהר\"ש אלגזי על מה שכתב הטור דעבדינן לחומרא שלא לברך ברכת הגומל אלא בתריסר, ותמה על הטור מש\"ס הנזכר לעיל דקרי כחא דהתירא אם אינו מברך, אלמא דאם אינו מברך קרי קולא, עיין שם. ולפי מה שכתבתי לא קשה מידי דשאני ברכות שהחיינו, ולקמן כתבתי עוד מזה בס\"ד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 22:1"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "ועשה בו ציצית.  זה תוספתא שהבי' ב\"י והקשה הב\"י למה לא כ' כן גבי תפילין והרמב\"ם כ' באמת כן גם גבי תפילין ותי' בשם מהרי\"א דס\"ל לטור שאין מברכין שהחיינו אלא על מצוה דמזמן לזמן כדמשמע בה' פסח סי' תל\"ב ומ\"ש בציצית כאן דהיינו מטעם שקנה טלית כדין שקנם כלים חדשים וכ\"כ בשם ב\"ה ע\"כ כ' כאן קנה טלית עשה בו כו' אבל אין הלשון של טור מורה ע\"ז שלא הזכיר רק ציצי' ולא טלית ונראה כוונת הטור דממילא נדע גם בתפילין כן דמ\"ש והלא בתוספתא ג\"כ לא הזכיר רק ציצית לכוונ' זו והיא קודמת למצות תפילין. ומו\"ח ז\"ל הביא בשם רש\"ל כ' על דברי הטור שאין נוהגין כן ונראה דזהו משום דס\"ל דהתו' בפ' לולב וערבה תופסים בפשיטות שלא לברך לא על ציצית ולא על תפילין וספק ברכו' להקל אלא דנרא' דגם בכלים חדשים לא יברך כדכתב התו' לשם ע\"ש רב שרירא גאון דלא סמכי' על ההיא דהרואה דמברך על כלים חדשים מדמסקינן בפ' בכל מערבין דבעי' מידי דאתי מזמן לזמן אלא דקשה מפדיון הבן עכ\"ל. וכבר נפסק הלכה פסוקה לקמן דמברכין על כלים חדשים מטעם שכתב ב\"י בשם ת\"ה דהוי כמו מזמן לזמן ומ\"מ בין בציצית בין בתפילין יש לברך בפעם ראשונה שמברך עליהם שהחיינו כמ\"ש רמ\"א בי\"ד סי' כ\"ח לענין כיסוי הדם ומינ' לכל מצות שאדם עושה בפעם ראשון מברך שהחיינו כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 22:1"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "מכלים חדשים. אבל אין מברך שהחיינו על המצוה כיון דאינו בא מזמן לזמן ומ\"מ צ\"ע דבי\"ד סי' כ\"ח כתוב בהג\"ה דמברך שהחיינו על הכיסוי ובסימן רס\"ה ס\"ז כתב דמברך שהחיינו במילה ובפדיון הבן וצ\"ל דהנהו לא שכיחי כ\"כ וע' בח\"ש שכתב קצת מזה אך ק' דעל כלים חדשים צריך לברך בשעת הקנין כמ\"ש סי' רכ\"ג ס\"ד ולמה כ' ועשה בו ציצית וצ\"ל דמיירי שלא בירך בשעת הקנין א\"נ דוקא כשקונה בגד כמות שהוא ראוי ללבוש אז מברך שהחיינו אבל אם קנה בגד ועשה ממנו מלבושים אז מברך בשעת לביש' וכמ\"ש סי' ת\"ר ס\"ב והכא כיון שעושה בו ציצית מברך אגב בשעת עשיית המצוה:",
+          "en": "On new vessels. However, one does not recite the Shehecheyanu blessing on the mitzvah, since it does not occur from time to time. Nevertheless, this requires further examination, as in Yoreh De'ah section 28, it is written in the gloss that one recites Shehecheyanu on covering [blood], and in section 265, paragraph 7, it states that one recites Shehecheyanu for circumcision and the redemption of the firstborn. It must be said that those cases are not as common. See Siftei Kohen (Shakh), who wrote something similar to this. However, there is a difficulty, for on new vessels one must recite the blessing at the time of acquisition, as stated in Orach Chaim section 223, paragraph 4. So why does it say [that one recites the blessing] when one makes tzitzit on it? It must be that the case discussed is one where the blessing was not recited at the time of acquisition. Alternatively, the distinction is that one only recites Shehecheyanu when purchasing a garment that is immediately ready to wear. But if one buys fabric and makes it into clothing, then the blessing is recited at the time of wearing, as stated in Orach Chaim section 600, paragraph 2. Here, since one is making tzitzit on it, the blessing is recited incidentally at the time of performing the mitzvah.",
+          "ref": "Magen Avraham 22:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "חדשים.  אבל אין מברך שהחיינו על המצוה כיון דאינו בא מזמן לזמן לפ\"ז אם עשה ציצית בבגד ישן שכבר קנה ובירך עליו שהחיינו אינו מברך. וה\"ה בתפילין נמי אינו מברך שהחיינו מש\"ה כתב קנה טלית ועשה בו ציצית כו'. וא\"ל דהא על כלים חדשים צריך לברך בשעת קנין ולמה כתב ועשה בו ציצית. י\"ל דוקא כשקונה בגד כמות שהוא ראוי ללבוש אז מברך שהחיינו אבל אם קנה בגד שיעשה ממנו מלבושים אז יברך בשעת לבישה והכא כיון שעושה בו ציצית מברך אגב בשעת עשיית המצוה. זהו דעת הב\"י וב\"ח ורש\"ל ושכנה\"ג ומ\"א. אבל הרמב\"ם ס\"ל דמשום המצוה שמחדש בה מברך שהחיינו מש\"ה כתב ציצית ותפילין ע\"ש. וכ' ע\"ת דיש לנהוג כהרמב\"ם וכ\"כ ט\"ז דבין בציצית בין בתפילין יש לברך בפעם ראשונה שמברך עליהם שהחיינו כמ\"ש רמ\"א בי\"ד סי' כ\"ח לענין כיסוי דם ומילה לכל מצוה שאדם עושה בפעם ראשון מברך שהחיינו ע\"ש. ועיין בי\"ד שם ס\"ק ב' מש\"ש. ועיין בספר בני חייא ובתשו' חות יאיר סי' רל\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 22:1"
+        },
+        "2": {
+          "he": "עיטוף ראשון.  פי' שהחיינו תחלה ואח\"כ לההעטף ב\"ח ע\"ת:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 22:2"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) קנה טלית וכו' - אין להקשות דהא על כלים חדשים צריך לברך בשעת קנין ולמה כתב ועשה בו ציצית די\"ל דוקא כשקונה בגד שהוא ראוי ללבוש כמות שהוא אז מברך מיד אבל אם קנה בגד לעשות ממנו מלבושים אז לא יברך אפילו לאחר שנגמר רק בשעת לבישה דוקא דבעינן שעה מיוחדת או קנין או לבישה והכא הלא אינו ראוי ללבשו תיכף דהלא צריך להטיל בו ציצית ע\"כ אינו יכול לברך עליו בשעת קנין וכדי לצאת ג\"כ דעת הסוברים דצריך לברך שהחיינו על עשיית המצוה בפעם ראשונה ע\"כ יברך בשעת עשיית הציצית ולא ימתין עד הלבישה:",
+          "en": "Buys a Tallit etc. - Don't ask [the following question]: Regarding other new vessels/garments, one needs to make the blessing [of שהחיינו] at the time of buying  it, so why [here] did he write \"and makes Tzitzit strings for it\"? (ie. he says to say the שהחיינו only after affixing the strings).  For one can say/answer that that is specifically when one buys a garment that is ready to be worn \"as is\" [in which case] one would make the blessing immediately.  But if one buys a garment/cloth to make from it clothing, then one does not make the blessing even after he finished making it [but instead makes it] at the time that he wears it (for the first time).  For [the blessing of שהחיינו] needs a designated time... either when you buy it or when you wear it.  And here, it's not fitting to be worn right away for one needs to place the Tzitzit on it.  Therefore, he is not able to bless on it at the time of acquiring it.  And in order to also to fulfill the opinion of those who hold that one needs to make the שהחיינו blessing on the \"doing\" of the mitzvah for the first time, one should make the blessing at the time of attaching the Tzitzit and not wait until they wear it.",
+          "ref": "Mishnah Berurah 22:1"
+        },
+        "2": {
+          "he": "(ב) דלא גרע וכו' - אבל אין מברך שהחיינו על המצוה כיון דאינו בא מזמן לזמן לפ\"ז אם עשה ציצית בבגד שהיה לו מכבר אף שלא היה בו ציצית מעולם אין צריך לברך שהחיינו וה\"ה אם עשה תפילין לעצמו אינו מברך שהחיינו ועיין בבה\"ל:",
+          "en": "Because it is not any less [important] etc. - But one does not make the שהחיינו  on the [actual] mitzvah [itself] since it's something that does not come from time to time (ie. periodically... like shofar or lulav etc.).  According to this, if one made Tzitzit on a garment that he already had, even if [that garment] never had Tzitzit on it, he does not need to bless שהחיינו.  And the same law applies if one made תפילין for himself, he does not bless שהחיינו.  And see [further] in the Be'er Halacha.",
+          "ref": "Mishnah Berurah 22:2"
+        },
+        "3": {
+          "he": "(ג) בשעת עיטוף - בתחלה ברכת להתעטף ואח\"כ שהחיינו [פמ\"ג ודה\"ח]:",
+          "en": "At the time he wears - First [he makes] the bracha of להתעטף and afterwards שהחיינו [Pri Megadim and Derech Hachaim]",
+          "ref": "Mishnah Berurah 22:3"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

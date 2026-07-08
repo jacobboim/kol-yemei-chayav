@@ -1,0 +1,973 @@
+{
+  "chelek": "OC",
+  "siman": 548,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 20,
+  "fetchedAt": "2026-07-07T23:49:32.617Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין אבילו' בחול המועד. ובו כ סעיפים:הקובר את מתו בתוך הרגל לא חל עליו אבילו' ברגל אלא לאחר הרגל מתחיל למנות ז' ונוהג בהם אבילות ומונה שלשים מיום הקבורה ונוהג בשאר השלשים ככל גזירות שלשים:",
+      "en": "1. The Laws of Mourning on Chol Hamoed, 20 Seifim: One who buries a dead [relative] on a holiday does not have the obligations of mourning during the holiday. After the holiday, he observes shiva and mourns accordingly. He counts thirty days from the burial and observes the mourning practices for the remainder of the thirty days [that are after the holiday].",
+      "ref": "Shulchan Arukh, Orach Chayim 548:1"
+    },
+    {
+      "seif": 2,
+      "he": "במקומות שעושין שני ימים טובים מונה השבעה מיום טוב שני האחרון אף ע\"פ שאינו נוהג בו אבילות הואיל ומדבריהם הוא עולה לו מן המנין ומונה מאחריו ו' ימים בלבד: הגה אם יום שני של ראש השנה עולה למנין ז' עיין בי\"ד סי' שצ\"ט סי\"ג בהגהות:",
+      "en": "2. In places where they observe two days of Yom Tov, the shiva begins on the second day of the end of the festival, even if no mourning is observed then; because this day is only rabbinic, it counts towards the shiva, and one only counts six days following it. Rem\"a: Regarding whether the second day of Rosh Hashanah counts towards the shiva, see glosses on Yoreh Deah 399:13.",
+      "ref": "Shulchan Arukh, Orach Chayim 548:2"
+    },
+    {
+      "seif": 3,
+      "he": "הקובר את מתו ביו\"ט שני של גליות שהוא יו\"ט האחרון או ביו\"ט שני של עצרת נוהג בו אבילות אם היה אותו היום יום מיתה וקבורה הואיל ויום טוב שני מדבריהם ואבילו' יום ראשון של תורה ידחה עשה של דבריהם מפני עשה של תורה אבל אם קברו אותו ביו\"ט שני של ראש השנה אינו נוהג בו אבילו' ששניהם כיום ארוך: הגה ויש חולקים וס\"ל דאין נוהג אבילות בשום י\"ט שני וכן מנהג פשוט ואין לשנות (ר\"ת והרא\"ש):",
+      "en": "3. One who buries his dead [relative] on the second day of yontif in the Diaspora that is the last day of the festival or the second day of Shavuot should observe mourning practices if that day is both the day of death and the day of burial. Because the second day of yontif is a rabbinic obligation and the first day of mourning is a Torah obligation, a rabbinic commandment can be superseded by a Torah commanded. However, if he was buried on the second day of Rosh Hashanah, we do not observe mourning practices because the two days are considered one long day. Rem\"a: There are those who disagree and hold that one should not observe any mourning practices on the second day of yontif, and this is the widespread practice that should not be changed (Rabbeinu Hananel and the Rosh).",
+      "ref": "Shulchan Arukh, Orach Chayim 548:3"
+    },
+    {
+      "seif": 4,
+      "he": "זה שאמרנו שהקובר מתו ברגל לא חלה עליו אבילו' הני מילי דברים של פרהסיא אבל דברים שבצנעה נוהג (מיהו מותר לישן עם אשתו בחדר וא\"צ שמירה):",
+      "en": "4. Regarding that which said that one who buries a dead [relative] on the holiday does not observe mourning practices, this is only referring to public practices. One does observe private practices. (However, it is permitted for the mourner to sleep in the same room as his wife, and no guard is needed [to ensure they do not have sex].)",
+      "ref": "Shulchan Arukh, Orach Chayim 548:4"
+    },
+    {
+      "seif": 5,
+      "he": "אע\"פ שאין אבילו' נוהג במועד אנינו' נוהג בו שאם מת לו מת בחול המועד אסור בדברים שאונן אסור בהם ואם מת ביום טוב ואינו רוצה לקברו בו ביום אין עליו דין אנינו' אלא אם כן צריך להחשיך על התחום להכין לו צרכי קבורה אז חל עליו דין אנינות משעה שמחשיך אבל אם מת בי\"ט שני והוא רוצה לקברו בו ביום או ביום טוב ראשון ורוצה לקברו ע\"י עכו\"ם חל עליו אנינו':",
+      "en": "5. Even though there is no mourning on a holiday, there is aninut [the first stage of mourning, prior to burial]. If somebody experiences a death on Chol Hamoed, the prohibitions applicable to aninut apply. If the person dies on Yom Tov and he does not wish to bury him that day, aninut is not applicable unless he goes to the edge of the techum to attend to the needs of burial immediately after the holiday, in which case aninut is applicable when it gets dark. However, if the death happens on the second day of Yom Tov and he wishes to bury him that day, or if it happens on the first day of Yom Tov and he wishes to bury him using non-Jewish labor, aninut applies.",
+      "ref": "Shulchan Arukh, Orach Chayim 548:5"
+    },
+    {
+      "seif": 6,
+      "he": "אף ע\"פ שאין אבילו' ברגל אם מת לו מת ברגל מתעסקים בו ברגל לנחמו ולאחר הרגל כשיכלו שבעה למיתת המת אע\"פ שעדיין לא כלה האבילו' מלאכתו נעשית ע\"י אחרים בבתיהם ועבדיו עושים לו בצנעא בתוך ביתו ואין צריכים לנחמו אחר הרגל מנין הימים שנחמוהו ברגל:",
+      "en": "6. Even though there is no mourning during the holiday, if somebody experiences a death on the holiday, we occupy ourselves with comforting him on the holiday. After the holiday, once seven days have passed since the dead, even though the mourning period has not finished, his work can be performed by others in their house and his servants can work in the privacy of his home. It is not necessary to comfort him the number of days that he was comforted on the holiday.",
+      "ref": "Shulchan Arukh, Orach Chayim 548:6"
+    },
+    {
+      "seif": 7,
+      "he": "מת לו מת קודם הרגל ונהג אבילו' אפי' שעה א' לפני הרגל בטלה ממנו גזירת שבעה וימי הרגל עולים למנין שלשים הרי ז' לפני הרגל והרגל ומשלים עליהם עד שלשים ודוקא שנהג אבילו' באותו שעה אבל אם שגג או הזיד ולא נהג אבילו' או שהיה סמוך לחשכה ולא היה יכול לנהוג אין הרגל מבטל האבילו' ודינו כדין קובר מתו ברגל:",
+      "en": "7. If the death occurred before the holiday and he observed mourning for even one hour before the holiday, shiva is no longer applicable and the days of the holiday count towards the thirty day [mourning period]. Thus, we consider there to be seven days before the holiday, we add the days of the holiday, and we add days after the holiday to complete the thirty day period. This is only applicable when one observed mourning in that hour. However, if one unintentionally or intentionally did not observe mourning practices, or it was close to nightfall and he was unable to observe, the holiday does not atrapalliate the need for mourning and the laws are the same as if the burial happened on the holiday.",
+      "ref": "Shulchan Arukh, Orach Chayim 548:7"
+    },
+    {
+      "seif": 8,
+      "he": "אם נהג שבעה ופגע בו הרגל מבטל ממנו גזיר' שלשים אפי' חל יום שבעה בערב הרגל מותר לספר ולכבס בערב הרגל: הגה וה\"ה הרחיצה לדידן דנוהגין איסור רחיצה כל שלשים ומותר לרחוץ סמוך לערב ואין צריך להמתין עד הלילה (הגהות מיימוני ומרדכי והגהות אשירי) ואין צריך לו' אם חל יום ח' להיו' בשבת ערב הרגל שמותר לספר בערב שבת ואם לא גילח בערב הרגל מותר לגלח אחר הרגל שהרי כבר נתבטל ממנו גזיר' שלשים אבל בתוך הרגל לא יגלח כיון שהיה אפשר לו לגלח קודם הרגל ואם חל יום שבעה שלו בשבת ערב הרגל מותר לגלח בחול המועד כיון שלא היה אפשר לו לגלח קודם:",
+      "en": "8. If he observed seven days of shiva and then the holiday commenced, the thirty-day mourning period (shloshim) is nullified. Even if the seventh day of mourning is on the day before the holiday, he is permitted to get haircuts and do laundry on the day before the holiday. Rem\"a: This is also the case for bathing for us who forbid bathing during shloshim; it is permitted to bathe close to the onset of the holiday and it is unnecessary to wait until night (Hagahot Maimoni, Mordechi, and Hagahot Ashiri). It is unnecessary to say that if the eighth day of mourning falls on Shabbat that is the day before the holiday, that is permitted to get haircuts on Friday. If he did not shave before the holiday, he is permitted to shave after the holiday, because shloshim has been nullified. However, he may not shave during the holiday, because it was possible for him to have shaved before the holiday. If the seventh day of mourning falls on Shabbat that is the day before the holiday, it is permissible for him to shave on hol hamoed because it was not possible for him to shave prior [to the holiday].",
+      "ref": "Shulchan Arukh, Orach Chayim 548:8"
+    },
+    {
+      "seif": 9,
+      "he": "הא דרגל מבטל גזיר' שלשים בשאר מתים אבל באביו ואמו שאסור לספר עד שיגערו בו חבריו אפילו פגע בו הרגל לאחר שלשים יום אינו מבטל:",
+      "en": "9. Regarding the holiday nullifying the shloshim period, this is only applicable to dead people that are not parents, for which it is forbidden to get a haircut until his friends scorn him. Even if the holiday occurs after the shloshim period, this practice is not nullified.",
+      "ref": "Shulchan Arukh, Orach Chayim 548:9"
+    },
+    {
+      "seif": 10,
+      "he": "ואם חל א' מימי האבילו' חוץ מהשביעי בערב הרגל מותר לכבס ולא ילבשנו עד הלילה וטוב ליזהר מלכבס עד אחר חצות כדי שיהא ניכר שמפני הרגל הוא מכבס אבל לרחוץ אסור עד הלילה ויש מתירין לרחוץ אחר תפלת המנחה סמוך לחשיכה: הגה ולדידן דנוהגים איסור רחיצה כל ל' אסור לרחוץ דהא הרגל לא בטל ממנו רק גזירת שבעה וה\"ה לענין כבוס במקום דנוהגין איסור כבוס כל שלשים:",
+      "en": "10. If a day of mourning that is not the seventh falls on the day before a holiday, it is permitted to do laundry, but he should not wear the clean clothes until night. It is good to be careful to do laundry after noon so that it is clear that he is doing laundry for the holiday. Bathing is forbidden until night. There those who permit bathing after the afternoon prayers, close to nightfall. Rem\"a: For us, who forbid bathing the whole thirty-day period, it is forbidden to bathe [before the holiday], because the holiday nullified only the shiva [and not the shloshim]. The same is true for laundry in a place where the custom is to forbid laundry during shloshim.",
+      "ref": "Shulchan Arukh, Orach Chayim 548:10"
+    },
+    {
+      "seif": 11,
+      "he": "ראש השנה ויום הכפורים חשיבי כרגלים לבטל האבילות:",
+      "en": "11. Rosh Hashana and Yom Kipur are treated like festivals with respect to nullifying mourning.",
+      "ref": "Shulchan Arukh, Orach Chayim 548:11"
+    },
+    {
+      "seif": 12,
+      "he": "נהג שעה אחת לפני הפסח אותה שעה חשובה כשבעה ושמונה ימי הפסח הרי חמשה עשר ומשלים עליהם (עוד) ט\"ו:",
+      "en": "12. If one practiced mourning for one hour before Passover, that hour counts as seven days. Together with the eight days of Passover, this is considered fifteen days. He adds another fifteen days [after Passover to complete the shloshim].",
+      "ref": "Shulchan Arukh, Orach Chayim 548:12"
+    },
+    {
+      "seif": 13,
+      "he": "שעה אחת לפני עצרת חשובה כשבעה ועצרת כיון שאם לא הקריב קרבנות עצרת בעצרת יש לו תשלומין כל ז' חשיב כז' הרי י\"ד ומשלים עליהם (עוד) י\"ו ויום שני של עצרת עולה למנין הי\"ו:",
+      "en": "13. If one practiced mourning for one hour before Shavuot, that hour counts as seven days. Because if one did not sacrifice the Shavuot offerings on Shavuot, he can make it up for seven days, Shavuot counts as seven. Together, this is fourteen days. He adds another sixteen days [after Shavuot to complete the shloshim]. The second day of Shavuot counts towards the sixteen.",
+      "ref": "Shulchan Arukh, Orach Chayim 548:13"
+    },
+    {
+      "seif": 14,
+      "he": "שעה אחת לפני ראש השנה בטלה ממנו גזירת שבעה מפני ראש השנה וגזרת שלשים מבטל ממנו יום הכפורים ומגלח בערב יום הכפורים והוא הדין לקובר מתו בשלשה בתשרי שמגלח בערב יום הכפורים:",
+      "en": "14. If one practiced mourning for one hour before Rosh Hashanah, the requirement for shiva is nullified because of Rosh Hashanah. Shloshim will be nullified by the onset of Yom Kippur. And he can shave on the eve of Yom Kippur. Similarly, if the burial was on the 3rd of Tishrei (so the 9th is the end of the Shiva), he can shave on the eve of Yom Kippur (which will nullify the Shloshim).",
+      "ref": "Shulchan Arukh, Orach Chayim 548:14"
+    },
+    {
+      "seif": 15,
+      "he": "שעה אחת לפני יום הכפורים בטלה ממנו גזירת שבעה מפני יום הכפורים וגזיר' שלשים מבטל ממנו החג ומגלח בערב החג:",
+      "en": "15. If one practiced mourning for one hour before Yom Kippur, the requirement for shiva is nullified because of Yom Kippur. Shloshim will be nullified by the onset of Sukkot. He can shave the day before sukkot.",
+      "ref": "Shulchan Arukh, Orach Chayim 548:15"
+    },
+    {
+      "seif": 16,
+      "he": "שעה אחת לפני החג והחג הרי י\"ד ושמיני עצרת שבעה הרי כ\"א יום ויום שני של שמיני עצרת הרי כ\"ב ומשלים עליהם ח':",
+      "en": "16. If one practiced mourning for one hour before Sukkot, [the requirement for shiva is nullified because of Sukkot]. Together with the seven days of Sukkot, this is considered fourteen days. Shmini Atzeret is counted as seven days, which brings the total to twenty one days. Adding the second day of Shimi Atzeret brings the total to twenty two days. He adds eight more days [after the holiday to bring the total to thirty].",
+      "ref": "Shulchan Arukh, Orach Chayim 548:16"
+    },
+    {
+      "seif": 17,
+      "he": "שמע שמועה קרובה בשבת או ברגל ולמוצאי שבת ורגל נעשית רחוקה דינו כדין שמע שמועה רחוקה אחר השבת והרגל אלא שבשבת וברגל נוהג דברים שבצנעה:",
+      "en": "17. If one heard news of a relative's recent death on Shabbat or holiday, and by the end of the Shabbat or holiday it became distant news, the laws are the same as if one heard news of a non-recent death after the Shabbat or holiday. However, on Shabbat and yontif he should practice mourning practices privately.",
+      "ref": "Shulchan Arukh, Orach Chayim 548:17"
+    },
+    {
+      "seif": 18,
+      "he": "שמע שמועה רחוקה בשבת או ברגל אינו נוהג בהם אפי' דברים שבצנעה אלא למוצאי שבת או הרגל נוהג שעה אחת ודיו:",
+      "en": "18. If one heard distant news of a death on Shabbat or yontif, he doesn't even observe private mourning practices. After Shabbat or yontif, he practices one hour of mourning, and this is sufficient.",
+      "ref": "Shulchan Arukh, Orach Chayim 548:18"
+    },
+    {
+      "seif": 19,
+      "he": "שמע שמועה קרובה בשבת שבת עולה ליום אחד ולמחר קורע והוי ליה יום ששי שביעי לאבילות:",
+      "en": "19. If one hears recent news of a relative's death on Shabbat, Shabbat counts as the first day. The following day he tears, and Friday will be the seventh day of mourning.",
+      "ref": "Shulchan Arukh, Orach Chayim 548:19"
+    },
+    {
+      "seif": 20,
+      "he": "אם עשרה ימים אחר החג שמע שמת לו מת בערב החג אע\"פ שאם נמנה שעה אחת לפני החג שבעה ושבעת ימי החג ויום שמיני עצרת כ\"א ועשרה ימים אחרים הרי ל\"א אין לזה דין שמועה רחוקה אלא דין שמועה קרובה שאין הרגל עולה למי שלא נהג אבילות קודם לו כלל וכל שכן למי שלא היה יודע שמת לו מת:",
+      "en": "20. If ten days after Sukkot, he finds out that somebody died the day before Sukkot, even though if we were to count the hour before the holiday as seven, the seven days of Sukkot and Shimi Atzeret, together twenty one days, and the ten days afterwards, we would have thirty days, this is treated not as distant news but as recent news. The holiday does not count for one who did not practice any mourning prior to it; how much more so somebody who didn't even know about the death.",
+      "ref": "Shulchan Arukh, Orach Chayim 548:20"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "טור בשם בה\"ג והר\"ף והרא\"ש בפ\"ג דמ\"ק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:1"
+        },
+        "2": {
+          "he": "לשון רמב\"ם בפ\"י מהלכות אבילות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:2"
+        },
+        "3": {
+          "he": "שם כדעת בה\"ג בהרי\"ף",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:3"
+        },
+        "4": {
+          "he": "הרשב\"א בתשו' לדעת הגאונים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:4"
+        },
+        "5": {
+          "he": "רמב\"ם שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:5"
+        },
+        "6": {
+          "he": "והתוס' והרא\"ש בריש כתובות והרמב\"ן בספר תורת האדם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:6"
+        },
+        "7": {
+          "he": "הרא\"ש אברייתא דמי שמתו מוטל לפניו וכו' מ\"ק כ\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:7"
+        },
+        "8": {
+          "he": "ברייתא שם י\"ט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:8"
+        },
+        "9": {
+          "he": "ר\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:9"
+        },
+        "10": {
+          "he": "כפרש\"י שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:10"
+        },
+        "11": {
+          "he": "משנה שם י\"ט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:11"
+        },
+        "12": {
+          "he": "כחכמים בברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:12"
+        },
+        "13": {
+          "he": "הרא\"ש שם בשם הראב\"ד מדקתני קיים כפיית המטה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:13"
+        },
+        "14": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:14"
+        },
+        "15": {
+          "he": "שם בגמ' וכאבא שאול",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:15"
+        },
+        "16": {
+          "he": "כאשר הגהתי כן שם ומ\"ש וא\"צ להמתין וכו' פי' וירחוץ בצונן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:16"
+        },
+        "17": {
+          "he": "שם בברייתא וכאבא שאול",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:17"
+        },
+        "18": {
+          "he": "שם ברייתא בגמ' כאבא שאול",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:18"
+        },
+        "19": {
+          "he": "הרא\"ש שם מברייתא דעל כל המתים כו' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:19"
+        },
+        "20": {
+          "he": "הרא\"ש שם בשם הראב\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:20"
+        },
+        "21": {
+          "he": "מימרא דרב הונא שם י\"ט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:21"
+        },
+        "22": {
+          "he": "הגהת מיימון בשם ראבי\"ה ור\"י הלוי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:22"
+        },
+        "23": {
+          "he": "משנה שם וכרשב\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:23"
+        },
+        "24": {
+          "he": "מימרא דר' גבי רב ששון שם כ\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:24"
+        },
+        "25": {
+          "he": "שם וכדאמר ר' אלעזר א\"ר אושעיא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:25"
+        },
+        "26": {
+          "he": "שם מימרא דר' פפא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:26"
+        },
+        "27": {
+          "he": "רמב\"ן וכן כ' הטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:27"
+        },
+        "28": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:28"
+        },
+        "29": {
+          "he": "מימרא דרבינא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:29"
+        },
+        "30": {
+          "he": "מימרא דר' יוסי בר אבין שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:30"
+        },
+        "31": {
+          "he": "הרא\"ש שם בשם רמב\"ן דכיון דאכתי שמועה קרובה היא הוי כקובר את מתו ברגל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:31"
+        },
+        "32": {
+          "he": "גם זה מדברי הרא\"ש בשם רמב\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:32"
+        },
+        "33": {
+          "he": "טור בשם סמ\"ק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:33"
+        },
+        "34": {
+          "he": "ר' ירוחם בנתי' פ\"א בשם בעל המאור וכ\"כ הרמב\"ן בספר תורת האדם,",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 548:34"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "ומונה עמ״א ועט״ז מ״ש בזה עסי״ו צ״ל ועס״כ ובי״ד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 548:1"
+        },
+        "2": {
+          "he": "מי״ט ב׳ עמ״א היקל אף בנקבר בי״ט א׳ ר״ה אפ״ה י״ט ב׳ ד״ה עולה למנין ז׳ ועט״ז כאן ובט״ז שצ״ט בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 548:2"
+        },
+        "3": {
+          "he": "מתו בי״ט עמ״א בי״ד שנ״ז סי״ג ושע״ד ס״ד אף למ״ד אבילות יום א׳ ד״ת הא אחיו ואחותו מאמו ואחותו בעולה לכ״ע דרבנן ומיהו לפי המנהג אף בז׳ מתים אין אבילות בי״ט דסוברים אין אבילות ד״ת ועמ״ש אי״ה באות ד׳",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 548:3"
+        },
+        "4": {
+          "he": "ויש חולקין עמ״א בענין עשה דרבים עסי׳ תמ״ו בחמץ במ״א מזה יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 548:4"
+        },
+        "5": {
+          "he": "לא עמ״א דאין משנה בגדי י״ט כלל גם אין משנה מקומו הואיל ולא שינה קודם י״ט. וצ״ע בגד חדש כה״ג כל שעדיין חדש עי״ד שפ״ט ולקמן תקנ״א ס״ג. ולחזור הפרשה עסי׳ רפ״ה אות י״ב ועסי׳ תקנ״ד אות ז׳ ותפילין עסי׳ ע״א ול״ח בא״ר ג׳ וט״ז שם דאבל יום ראשון היינו יום קבורה אע״ג שאין יום מיתה וה״ה שמועה קרובה אין מניח ועי״ד שפ״ח ושצ״ח ויום ראשון אחר החג מניח תפילין לדידן יום א׳ הוא שני די״ט אחרון עולה לא׳ אף לבני א״י ל״ש כן ועא״ר ל״ח ובפריי מ״ש שם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 548:5"
+        },
+        "6": {
+          "he": "אנינות עמ״א אף אותן שהם מד״ס אחיו ואחותו מאמו כי אנינות לית ר״ת בבשר ויין כ״א בקדשים ומעשר עי״ד שצ״ח בט״ז:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 548:6"
+        },
+        "7": {
+          "he": "ואינו עמ״א דאם העיכוב שהוא אינו רוצה לקוברו י״ל דחייב באנינות כמ״ש באות ח׳ יע״ש ומ״ש המחבר והוא רוצה כלומר שיכולת לקוברו בו ביום:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 548:7"
+        },
+        "8": {
+          "he": "משעה עמ״א מ״ש המחבר והוא רוצה היינו אע״פ שאין רוצה רק שיכול לקבור בו ביום ועא״ר אות ז׳ ומי שמת ברגל או לא נהג שעה קודם הרגל אסור בתורה גם לעלות לתורה אין קורין אותו כמו בשבת ועי״ד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 548:8"
+        },
+        "9": {
+          "he": "שעה אחת עמ״א עמ״ב ע״ד ומשמע דשעה א׳ ל״ד חליצת המנעל ה״ה נהג כפיית המטה או א׳ מדברים השייכים לז׳ בטלה ממנו ז׳ אף שלא חלץ מנעליו ואפשר אף הזיד כל שגלי דעתיה בא׳ מהדברים ונהג שעה גזירת שבעה וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 548:9"
+        },
+        "10": {
+          "he": "ואין עמ״א היינו בצונן כמ״ש באות י״ג ולכאורה קשה עמ״ש הש״ך בי״ד שפ״א א׳ דבצונן אף לדידן מותר אחר שבעה א״כ עד הלילה דבצונן נמי מותר ביום כ״ט רק היתרא בחמין וזה א״א בלילה כמ״ש בתקי״א וע׳ א״ר ט׳ עמד בזה ואי״ה באות י״ג יבואר עוד בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 548:10"
+        },
+        "11": {
+          "he": "ואצ״ל עמ״א תיקן בזה ואצ״ל דלכאורה אם חל שמיני בשבת וז׳ ע״ש אפשר דאין מקצת היום עולה לז׳ והשאר מבטל גזירת שלשים כיון דעדיין אין י״ט אפ״ה הוי זו ואצ״ל דאם חל ח׳ בחול פשיטא לכ״ע רגל מבטל מש״ה הוי לענין זה זו ואצ״ל:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 548:11"
+        },
+        "12": {
+          "he": "א׳ מימי עמ״א היינו לבד הז׳ אז אסור בתספורת כל שלשים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 548:12"
+        },
+        "13": {
+          "he": "עד הלילה עמ״א דכיבוס א״א בלילה התירו קודם הלילה משא״כ רחיצה אפשר בצונן בלילה ול״ת כיבוס מותר קודם הלילה נתיר נמי בחמין קודם הלילה להמחבר דרחיצה בחמין שלשים ומיהו להמחבר בתקי״א חמין שהוחמו מעי״ט מותר לרחוץ חוץ למרחץ כל גופו יע״ש וא״ש מ״ש באות י׳ אף להר״ב שם דנוהגין לאסור בחמין י״ל קצת וצ״ע. הציון ראוי להיות אסור לרחוץ עד הלילה לא ללבוש כו׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 548:13"
+        },
+        "14": {
+          "he": "אחר תפלת המנחה עמ״א ולדידן מנהגא ע׳ אות ט״ו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 548:14"
+        },
+        "15": {
+          "he": "ולדידן עמ״א הקשה דאמאי לא הביא הר״ב שם בי״ד שצ״ט ס״ה דין דתה״ד וי״ל דלדידן דנוהגין איסור רחיצה כל שלשים רק מנהגא לכבוד הרגל מקילין א״כ י״ל דל״ד לאות י״א שחל שמיני שבת דבע״ש מותר כו׳ ואהא קשיא ליה דלקמן בתר״ו לא התיר אלא יה״כ טבילת מצוה הא לא״ה אסור וק״ק דילמא לקמן נמי מדינא אמר. ומסיק המ״א דכן נוהגין בי״ד היינו למ״ד דאחר ז׳ שרי רחיצה וכן נוהגין אחר תפלת המנחה אבל לדידן אסור לרחוץ אף בלילה בחמין עכ״פ ע׳ אות י״ג ומ״מ כתב די״ל להקל. ומ״מ דין דתה״ד צ״ע קצת לדידן די״ל דוקא בלילה בי״ט או עי״ט אחר המנחה לכבוד י״ט מקילין לא בע״ש כה״ג כיון דלדידן נוהגין רחיצה כל שלשים ואפשר אף בחמין י״ל בצונן י״ל דשרי והבן:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 548:15"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "הסי׳ הזה כו׳ מונה עט״ז בי״ד שצ״ט ז׳ הטעם די״ט ב׳ דרבנן עולה אע״פ שאין מתאבל בו לדידן כלל וכן לדיעה א׳ שם במת ונקבר ביום א׳ אפ״ה י״ט ב׳ עולה ה״ה לדידן עולה ועש״ך שם אות ח׳ ומ״ש הר״ב כאן ר״ה י״ט ב׳ עי״ד לא ידענא שם אין רמז מזה רק מת ונקבר בי״ט ב׳ אין נוהג בו אבילות וי״ל בדוחק ועמ״א כאן ב׳ מיקל בר״ה ג״כ אף נקבר ביום א׳ די״ט ב׳ ר״ה עולה למנין ז׳ ואי״ה שם יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 548:1"
+        },
+        "2": {
+          "he": "וימי עט״ז עי״ד שצ״ט אות ב׳ האריך. וללבוש כתונת מכובס במים לבד ברגל בנהג שעה א׳ לפני הרגל מדין שלשים י״ל הואיל ומנהגא לאסור כל שלשים כיבוס י״ל דהעוסק בזה דהוי פרהסיא ושרי ללבוש מכובס במים לבד גם מכובס בנתר צ״ע ע׳ סי׳ שפ״ט י״א שאין לנו גיהוץ ועסי׳ תקנ״א ס״ג ומיהו במים לבד אף שאין אחר ללובשו י״ל דשרי כה״ג שוב ראיתי שזה טעות שהרי מבואר בסעיף י׳ דכה״ג מותר לכבס ולובש בלילה ועש״ך י״ד שפ״ט אות ב׳ וג׳ ומיהו זה יש לספק גניהוץ שלנו כמ״ש בסמוך. ובמ״א י״ב אי״ה יבואר עוד דמ״מ מ״ש הר״ב ובי״ד שפ״ט במקום דנוהגין כיבוס כל שלשים י״ל ה״ה נתר ובורית כו׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 548:2"
+        },
+        "3": {
+          "he": "וה״ה עט״ז בי״ד שצ״ט אות ה׳ וש״ך שם אות י״ו יע״ש ועמ״א אות ט״ו ובא״ר אות י״ב הגיה בע״א והחמיר לדידן יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 548:3"
+        },
+        "4": {
+          "he": "והחג עט״ז ועמ״א א׳ והש״ך בי״ד שצ״ט ז׳ משמע נוטה קצת דש״ע עולה לז׳ לענין שיהא נמנה בכלל ל׳ יע״ש וצ״ע לדינא לענין ל׳ בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 548:4"
+        },
+        "5": {
+          "he": "וה״ל עט״ז ועי׳ כאן סי״ח עי״ד סי׳ ת״ב ס״י וש״ך אות ח׳ שמועה קרובה בשבת ערב הרגל שבת עולה ליום א׳ וי״ט מבטל גזירת שבעה ועא״ר כאן שמועה קרובה ורחוקה מיום מיתה מנינן לא מקבורה עש״ך שם אות ה׳ ובנה״כ שם הניח בצ״ע ובט״ז שם ו׳ פסק דקרובה ורחוקה מיום המיתה. וע׳ אות ט׳ שם לענין יאר צייט ומיהו למיהוי ס״ס אף כה״ג כ״ע מודים דש״ע כל שלא ידע כלל ברגל דאין עולה לז׳ ואף המ״ב בשם מהרש״ל יודו כה״ג ודוקא כשמת ברגל וידע סוברים דעכ״פ עולה לשלשים עמ״א א׳. עא״ר קל״ג אות י׳ מדליקין נר כל שבעה בחדר שאין אוכלים שם דלא לצער והרגל אין מבטל זה קדיש י״ל אין הרגל מבטל ויש לו דין שבעה ושלשים אפילו נהג שעה לפני הרגל יע״ש וצ״ע קצת ובפריי שם כתבנו: כתב הא״ר אות ז׳ אם עברו ז׳ למיתת המת אין לנחם עוד האבל אח״כ וכן כשחל ע״ש בי״ט אחרון אף שלא שלמו ז׳ למיתת המת אין לקרות צאו נגד האבל דהוי פרהסיא עט״ז קכ״ז בריש הסימן. וצ״ע בשמע שמועה קרובה אם קורין צאו נגד האבל דכבר יש ז׳ למיתת המת א״ד כל שלא ידע ליכא ניחום ודוקא כשידע כבר ניחם עצמו שעברו ז׳ ימים משא״כ כה״ג. לענין סחורה כל ששלמו ז׳ למיתת המת מותר בצינעא ע״י עבדיו או ע״י אחרים בבתיהם וכמ״ש ר״ו ושותף בחנות י״ל פרהסיא אסור ועא״ר אות ו׳ לא הבינותי שמועה קרובה אע״פ ששלמו ז׳ למיתת המת אסור בסחורה כשאר אבילות דוקא ברגל שבטל ממלאכה כל ז׳ וכדאמרן. ויתר הדברים יבואר אי״ה במ״א:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 548:5"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] לא חל וכו' ולא תשנה כסותו וכו'. אף דשאר אבל משנה ברגל מכל מקום זה שלא התחיל עדיין אבילות אין לנהוג כן ברגל (ר\"מ מלובלין ק\"ז), ועיין סימן קל\"ג ס\"ק י' מדין מדלקת נר בחדר שמת המת ברגל ומדיני קידוש:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 548:1"
+        },
+        "2": {
+          "he": "[ב] מיום טוב שני וכו'. אפילו מיום טוב שני של ראש השנה (אחרונים):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 548:2"
+        },
+        "3": {
+          "he": "[ג] שבצינעה והם תשמיש המטה ורחיצה ותלמוד תורה כמו שכתב ביו\"ד סימן ת', אך צריך עיון כיון דלקצת פוסקים בטור שם הוי ללמוד בפרהסיא ואף דלא קיימא לן הכי מכל מקום ברגל אפשר לסמוך על הפוסקים דאין נוהג אפילו דבר שבצינעה ברגל, ומגן אברהם כתב דאסור לחזור הפרשה דאין חיוב לחזור פרשת המועדים כמו שמבואר סוף סימן רפ\"ה, עד כאן, משמע דסבירא ליה בפשיטות דאסור בתלמוד תורה וצריך עיון ועיין ס\"ק שאחר זה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 548:3"
+        },
+        "4": {
+          "he": "[ד] אנינות נוהג וכו'. ובלילה חייב לקדש ולברך המוציא וברכת המזון אך סדר הגדה בליל פסח יאמר אחר לפניו והוא ישב וישמע מפיו (מהר\"מ מלובלין [סימן ק\"ז]), עיין (ס\"א סק\"ד) [יו\"ד סימן שמ\"א סעיף ה'] אונן ברגל אסור בתלמוד תורה וכל שכן שאסור לעלות לתורה (מגן אברהם):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 548:4"
+        },
+        "5": {
+          "he": "[ה] והוא רוצה וכו'. ומגן אברהם כתב דאף שאין רוצה לקוברו חל עליו אם לא שאי אפשר לקוברו מחמת יום אידם או אונס אחר לא חל עליו דין אנינות דדמי למי שהוא בתפיסה ביו\"ד סימן שמ\"א:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 548:5"
+        },
+        "6": {
+          "he": "[ו] מלאכתו נעשית וכו'. יראה לי דשותף של אבל שמת לו מת בחול המועד ראשון מותר לעסוק בחנות מיד כמו בשאר אבילות:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 548:6"
+        },
+        "7": {
+          "he": "[ז] ואין צריך לנחמו וכו'. וכן אין לנחם האבל בערב שבת שאחר הרגל דקודם ברכו בכהאי גוונא אם כבר עברו שבעה ימים למיתת המת (מצאתי בשם תוספות יום טוב), וכן אם יהיה יום טוב אחרון בערב שבת אף שאין שבעה למיתת המת (ט\"ז ריש סימן תקכ\"ו), אך מה שכתב שם דשלא כדין הורו לומדי קהילה קדישא פרנקפורט שהצריכו לאבלים עטיפת ראש ושינוי מקום, ולעניות דעתי ליישב דמיירי בעטיפת שעושין כל שלושים כמו שכתב הש\"ך בסימן ת' וכן בשינוי מקום אף שבא אחר ברכו כיון שנוהגין בו כל שלושים לא הוי דבר בפרהסיא ואף שלא התחיל בחול לשנות שכתבתי בריש סימן זה שאין לשנות ברגל מכל מקום בשבת סבירא ליה שיש לשנות:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 548:7"
+        },
+        "8": {
+          "he": "[ח] שעה אחת וכו'. פירוש שעה מועטת (מצאתי כתוב):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 548:8"
+        },
+        "9": {
+          "he": "[ט] לרחוץ ולספר וכו'. כן הוא בכל ספרי שולחן ערוך, ומה שכתב ואין צריך להמתין עד הלילה צריך לומר דקאי ארחיצה דמותר בלילה, וכהאי גוונא פירש בית יוסף דברי הטור ריש דף שע\"ו כנזכר לעיל ודלא כר\"מ רבק\"ש דמוחק תיבת ולספר, ומה שכתב דליתא במרדכי והגהות אשירי לא קשה מידי דרמ\"א לטעמיה ביו\"ד סימן שנ\"ט סעיף ג' דאין לספור סמוך לערב ועוד דסבירא ליה דהם למדו רחיצה מתספורת כמו שכתב בדרכי משה. עוד כתב הר\"מ דמה שכתב ואין צריך להמתין וכו' פירוש וירחץ בצונן, עד כאן, ואם כוונתו שרמ\"א לא מתיר בערב יום טוב אלא בצונן אשתמיט ליה דברי דרכי משה ביו\"ד שכתב שם בשם תרומת הדשן סימן רפ\"ז דמתיר אף בחמין אנן נוהגין ואם כוונתו על יום טוב עצמו דכתב רמ\"א בסימן תקי\"א דנוהגין לאסור רחיצת חמין וקשיא ליה מאי דקאמר ואין צריך להמתין הא איסור הוא לכך פירש דירחוץ בלילה בצונן וכן משמע במגן אברהם והוא תמוה הא גם אפילו באין ערב יום טוב שרי בצונן בשביעי לאבילות אפילו ביום כמו שכתב הש\"ך סימן שפ\"א, ובאמת לא קשה מידי מסימן תקי\"א דבכהאי גוונא שם מותר אף בחמין, גם יש לומר דרמ\"א אשמעינן כיון דאין איסור רחיצת חמין ביום טוב רק משום חומרא וגזירה הוה אמינא דטוב יותר להתיר ביום טוב מלהתיר לרחוץ בערב יום טוב באבילות קא משמע לן דלא. וראיתי בשיירי כנסת הגדולה שתמה על רמ\"א ביו\"ד שהוציא דין זה דאסור לספר עד סמוך לחשיכה מהר\"י מינץ סימן ד' ובמהר\"י מינץ מבואר דמותר לגלח כל היום לכך האריך דנדחק להוציא דברי רמ\"א ממשמעותן דמה שכתב ביו\"ד סמוך לחשיכה קאי על רחיצה וכיבוס אבל גילוח מותר, עד כאן, ואינו נכון למעיין בלשון רמ\"א שם גם אם כן יציבא בארעא וכו' דגילוח ודאי חמיר מכיבוס וכן בב\"ח וכל אחרונים מבואר שדעת רמ\"א דאסור בגילוח וכמבואר ברמ\"א ולבוש כאן גם לא דק דרמ\"א לא הוציא ממהר\"י מינץ אלא דבערב פסח עדיף לגלח קודם חצות וסמך עליו בזה אבל בשאר ערב יום טוב פסק בהדיא כמהרי\"ו סימן י' דאסור בגילוח עד ערב וכן מבואר בדרכי משה ליו\"ד, ובספרי ליו\"ד העליתי נמי שדברי רמ\"א נכונים הם כמו שכתבתי דמותר לרחוץ בערב פסח תיכף עד אחר חצות, והש\"ך שהשיג עליו לא דק בזה כי הוא הבין שרמ\"א הוציא זה ממהר\"י מינץ ולכך תמה עליו עיין שם וליתא דרמ\"א פסק בזה כתשב\"ץ שהביא בית יוסף ואור זרוע וכמו שכתב בדרכי משה להדיא, ומה שכתב הש\"ך דהב\"ח השמיט מדברי רמ\"א דערב פסח מותר בכל לא דק דסמך על מה שכתב אחר כך בשם תשב\"ץ דמותר וכל זה ברור למעיין ודו\"ק כי דרכי לקצר בספר הזה, העולה מזה דאם חל שביעי בערב הרגל אסור בכל עד סמוך לחשיכה וסמוך לחשיכה מותר לגלח ולרחוץ בחמין אבל בערב פסח מותר לגלח קודם חצות ולרחוץ ולכבס תיכף אחר חצות:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 548:9"
+        },
+        "10": {
+          "he": "[י] אפילו פגע וכו'. ואם גערו בו אף ביום שלושים מותר ועיין סימן תקל\"א. כתב שיירי כנסת הגדולה על מה שכתב הטור ומיהו כתב הסמ\"ק וכו' זה לשונו, וכן כתב ביו\"ד סימן ש\"ץ משמע דהכי סבירא ליה, ותימא איך סתם שלא כדעת הרא\"ש דאוסר וכן פסק בשולחן ערוך, ויותר תימא על בית יוסף שלא ערער בזה כלום עד כאן לשונו, ותימא לתמיהותו דביו\"ד סימן ש\"ץ סתם הטור כהרא\"ש גם אשתמיטתיה דברי ב\"ח סימן שצ\"ט דכתב דטור פוסק כהרא\"ש ולא כתב מיהו כתב הסמ\"ק וכו' אלא דנהג כמותו להקל שלא ישנו ממנהגם, ובזה ניחא לי קושיית בדק הבית לבית יוסף על הטור ודו\"ק כי קיצרתי כיון דלדינא נוהגין כשולחן ערוך:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 548:10"
+        },
+        "11": {
+          "he": "[יא] אחר תפילות וכו'. משמע דצריך להתפלל מנחה תחילה דאז חל עליו קדושת הרגל ודוקא בהיפך שרי שבאין לכבוד הרגל אבל שאר דיני אבילות כגון ישיבת קרקע וחליצת מנעלים נוהגין עד שתחשך (מגן אברהם), ועיין בראב\"ן דף פ\"ד דמשמע דלאחר תפילת מנחה הכל שרי:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 548:11"
+        },
+        "12": {
+          "he": "[יב] אבל לדידן וכו'. תימא ביו\"ד סימן שצ\"ט סעיף ה' כתב רמ\"א על ויש מתירין סמוך לחשיכה וכן נוהגין, ותירצו הלבוש וב\"ח וט\"ז וש\"ך ומגן אברהם דהכא לדינא ושם למנהגא דמשום כבוד יום טוב נוהגין להקל ובעיני תמוה לפרש דוחק זה ויותר תימא שראיתי בדרכי משה לשם וזה לשונו, כתב ר' איסרלאן הואיל ואנו נוהגין דאם הרגל מפסיק שבעה מותר לרחוץ בחמין אם כן אם מת בערב שבת ואותו שבת הוא ערב הרגל מותר לרחוץ בערב שבת עד כאן לשונו, ולדידן דנוהגין איסור רחיצה כל שלושים דינו כדין תספורת וכן נוהגין עד כאן לשון דרכי משה, הרי להדיא שכתב רמ\"א דהמנהג להחמיר, וכן מבואר מדלא כתב בהגהות שולחן ערוך דין דתשמיש המטה דמותר אף במת בערב שבת אלא על כרחך סבירא ליה דהמנהג להחמיר לעולם, ועוד תימא דלקמן סימן תר\"ו כתב רמ\"א דמשום טבילות מצוה מותר בערב יום כיפור אלמא דבכל שאר ערב יום טוב אסור, לכן נראה לי פשוט וברור דחסר מדברי רמ\"א ביו\"ד הך מילי ולדידן דנוהגין וכו' אסור ועל זה כתב וכן נוהגין והיינו ממש כמו שכתב בדרכי משה הנזכר לעיל אלא דבעיני המון יהא זה לחידוש להגיה כל כך. אומר אני לרווחא דמילתא דיש לומר עוד דמה שכתב רמ\"א וכן נוהגין היינו בקובר מתו שבעה ימים קודם הרגל דמותר סמוך לחשיכה דלדעה הראשונה אסור עד הלילה כמו שכתב הבית יוסף שם וכן מצאתי בפרישה שם, עוד יש לומר דמיירי אפילו תוך שבעה וקאי על רחיצת צונן דמותר אחר שבעה עיין מה שכתב הש\"ך סימן שפ\"א וכן יש לומר בכובס במים לבד דמותר נמי אחר שבעה כמו שכתב הש\"ך סימן שפ\"ט ס\"ק ב', ולא קאמר אלא דנוהגין להתיר סמוך לחשיכה, אבל במים חמין וכיבוס בנתר ובורית אסור. כללא דמילתא דיש לנהוג לאיסור להלכה למעשה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 548:12"
+        },
+        "13": {
+          "he": "[יג] ושמיני עצרת חשיב כשבעה וכו'. דוקא במת קודם הרגל חשבינן שמיני עצרת לשבעה אבל מת ברגל או בחול המועד לא חשבינן שמיני עצרת רק ליום אחד (ט\"ז ומגן אברהם):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 548:13"
+        },
+        "14": {
+          "he": "[יד] דינו כדין וכו'. נראה דאף שחל יום שלושים ביום טוב שני אחרון דעולה למנין שבעה לעיל סעיף ב' מכל מקום לא עדיף משבת דנמי עולה למנין שבעה ואפילו הכי נעשית רחוקה כיון שאינו נוהג אלא דברים שבצינעה אין גוררת אבילות:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 548:14"
+        },
+        "15": {
+          "he": "[טו] שבת עולה וכו'. ואם הוא ערב הרגל הרגל מבטל ממנו גזירת שבעה ושלושים (יו\"ד סימן ת\"ב):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 548:15"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "הסי'  זה מפורש בדברינו בי\"ד סימן שצ\"ט רק נעתיק כאן קצת דינים מחודשים שם נכתבים באורך וכאן בקיצור:   (א)  מונה הז' מי\"ט כו'.  משמע אפי' נקבר ביום א' ע\"י עכו\"ם ולא כמ\"ש רש\"ל לחלק דדוקא אם נקבר ביום ב' מונה מיום ב' אבל בר\"ה אמרי' דוקא בנקבר ביום ב' מונה ז' מיום ב' אבל נקבר ביום א' אינו מונה אפי' מיום ב' ע\"ש בי\"ד מ\"ש מזה בסי\"ג:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 548:1"
+        },
+        "2": {
+          "he": "וימי הרגל עולים לו למנין ל'.  בי\"ד סי' שצ\"ט כ' הש\"ע שהרי דין ל' דהיינו גיהוץ ותספורת נוהג ברגל ולא מתורת רגל בלבד אסור אלא אף מתורת אבל שהרי מתורת רגל מותר ללבוש כלים מגוהצים חדשים ולבנים כו'  ומדין אבילות אסור בכולם וזהו דעת הרמב\"ן אבל הטור כ' שם בשם הרא\"ש שאף בדין אבילות מותר ברגל איסור מה שהותר ברגל וכתבתי בי\"ד שם שיש לפסוק כרמב\"ן ולא כס' מ\"ב שפיסק כהרא\"ש עוד כתבתי שם בדין חתן שנשא אשה בערב הרגל ובתוך הרגל מת לו מת דפסק בספר הנ\"ל דאע\"ג דחתן דעלמא שאירע לו אבילות תוך ז' ימי משתה אין מונה ל' אלא אחר ימי המשתה כו' מ\"מ זה החתן עולין לו ימי המשתה למנין ל' וכתבתי שם שאין הורא' זו נכונה אלא גם כאן אין עולין לו ע\"ש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 548:2"
+        },
+        "3": {
+          "he": "לרחוץ כו'.   בי\"ד סי' שצ\"ט ס\"ה בש\"ע ורמ\"א דנוהגין היתר לרחוץ אחר תפלת המנחה סמוך לחשכה וזה [סותר] מ\"ש כאן. והעיק' כמ\"ש בי\"ד ושם כתבתי לתרץ דבריו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 548:3"
+        },
+        "4": {
+          "he": "והחג הרי י\"ד וש\"ע ז' כו'.  דוקא במת קודם הרגל חשבי' ש\"ע לז' אבל מת ברגל או בח\"ה לא חשבי' ש\"ע רק ליום א' ולא כרש\"ל ומ\"ב שנמשך אחריו כן הוכחתי בי\"ד סי' שצ\"ט:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 548:4"
+        },
+        "5": {
+          "he": "וה\"ל יום ו' ז' לאבילות.  בי\"ד סי' ת\"ב ס\"ו כתבתי דבמת בא' בשבת והוה יום ז' שלו בשבת דאין לנהוג איסור בדברי' שבצינעה רק בשחרית  בהנץ החמה וע\"כ שרי במנח' לקרותו לס\"ת דלא כמו\"ח ז\"ל בזה עוד כתבתי שם באם יום הז' בשבת נוהגים קצת בעלי בתים לישב על הארץ  בלילה שעה אחת והוא טעות גמור אלא א\"כ שמע שמועה רחוקה בשבת שאז נוהג אבילות שעה אחת בלילה ולא כמו\"ח ז\"ל בזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 548:5"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "ומונה שלשים. וש\"ע עולה במקום ז' ומשלים ל' כמ\"ש סי\"ו (מ\"ב סי' ע\"א ורש\"ל ודרישה וכ\"נ דעת הש\"כ בי\"ד) והג\"מ כתבו דאינו עולה רק ליום אחד וכ\"פ הב\"ח בשם התוס' והמרדכי וכ\"פ הט\"ז וכן נ\"ל דדמי לשגג ולא נהג אבילות קודם הרגל שאין ש\"ע נחשב לז' וגם הט\"ז דחה ראיות של רש\"ל ע\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 548:1"
+        },
+        "2": {
+          "he": "מי\"ט שני האחרון. אפי' של ר\"ה (טור סי' שצ\"ט מ\"ב ב\"ח וש\"ך) וט\"ז כ' דוקא כשנקבר ביום שני דר\"ה עולה לו אבל נקבר ביום ראשון אין עולה לו יום ב' ונ\"ל להקל וע' במבי\"ט ח\"ג סי' פ\"ט:",
+          "en": "",
+          "ref": "Magen Avraham 548:2"
+        },
+        "3": {
+          "he": "מתו בי\"ט. דוקא ז' מתי מצוה עבי\"ד סי' שצ\"ט:",
+          "en": "",
+          "ref": "Magen Avraham 548:3"
+        },
+        "4": {
+          "he": "ויש חולקין. דס\"ל שאין שום אבילות דאוריית':",
+          "en": "",
+          "ref": "Magen Avraham 548:4"
+        },
+        "5": {
+          "he": "לא חלה אבילות. ולא ישנה כסותו, אף על גב דשאר אבל משנה ברגל מ\"מ זה שלא התחיל עדיין אבילות אין לנהוג כן  ברגל (ר\"מ לובלין סי' ק\"ז) ונ\"ל דאסור לחזור הפ' דאין חייב לחזור פ' המועדים כמ\"ש ססי' רפ\"ה עבי\"ד סי' ת' ובט\"ז שם ועמ\"ש סי' תקנ\"ד ס\"ד ונ\"ל דמניח תפילין ביום ראשון דהרא\"ש כ' בפ' א\"מ הטעם דאבל אסור בתפילין משום שהוא לו יום מר ואבל מעולל בעפר קרנו וזה לא שייך בח\"ה דאין נוהג בו אבילות:",
+          "en": "",
+          "ref": "Magen Avraham 548:5"
+        },
+        "6": {
+          "he": "אנינות נוהג בו. שאסור בבשר ויין עבי\"ד סי' שמ\"א:",
+          "en": "",
+          "ref": "Magen Avraham 548:6"
+        },
+        "7": {
+          "he": "ואינו רוצה לקוברו. שהעכו\"ם אין רוצים לקוברו:",
+          "en": "",
+          "ref": "Magen Avraham 548:7"
+        },
+        "8": {
+          "he": "משעה שמחשיך. אבל בשעה שאינו מתעסק בצרכי קבורה אין דין אנינות נוהג בו (הרא\"ש) אבל בליל י\"ט שני חייב בכל המצות דדוקא ביום שני כתב הרא\"ש דכחול שוי' רבנן אבל בלילה שלפניו לא וכ\"ש לדידן שנוהגין לעשות צרכי קבורה ע\"י עכו\"ם דחייב בליל' וכ\"כ מהרי\"ל היכא דמת לו מת בש\"ע מותר לקדש בליל ש\"ת אבל ביום כולי עלמא מודים שפטור אך לא יאמר ההגדה בפסח כיון דאית בה מדרש פסוקים (מור\"ם לובלין שם) וכ\"כ בדרישה בי\"ד סימן שמ\"א וכ\"פ ט\"ז דלא כש\"כ שם שחולק בטלה דעתו נגד דעתם וכ\"פ לקמן ססי' תרצ\"ו גבי פורים וכ\"ש ביום טוב ומשמע דביום אפי' אינו רוצה לקברו עתה חל עליו דין אנינות דכחול שווייה רבנן וכ\"מ סימן ע\"א וכ\"ה בטי\"ד ובב\"י שם סימן שצ\"ג וכ\"מ ברא\"ש ומיהו נ\"ל דאם א\"א לקוברו מחמת איד העכו\"ם או מחמת אונס אחר לא חל עליו דין אנינות דדמי למי שהוא בתפיסה כמ\"ש בי\"ד סימן שמ\"ח ועמ\"ש ססי' תקכ\"ו ומשמע מתשובת מור\"ם דלעיל שאונן ברגל אסור בד\"ת וכ\"מ בי\"ד שמ\"א ס\"ה בהגה שכתב דאסור בשמח' ופקודי ה' ישרים משמחי לב וכ\"ש שאסור לעלות לתורה:",
+          "en": "",
+          "ref": "Magen Avraham 548:8"
+        },
+        "9": {
+          "he": "שעה א'. כלומר שעה מועטת [מ\"ב]:",
+          "en": "",
+          "ref": "Magen Avraham 548:9"
+        },
+        "10": {
+          "he": "וא\"צ להמתין. קאי ארחיצה דתספורת א\"א בלילה:",
+          "en": "",
+          "ref": "Magen Avraham 548:10"
+        },
+        "11": {
+          "he": "ואצ\"ל אם חל כו'. וכששלמו לו ח' קודם הרגל פשיטא שהרגל מבטל ל' עיין בגמ':",
+          "en": "",
+          "ref": "Magen Avraham 548:11"
+        },
+        "12": {
+          "he": "א' מימי האבילות. כגון יום ה' ו' דאז הרגל מבטל גזירת ז' ואינו מבטל גזירת ל':",
+          "en": "",
+          "ref": "Magen Avraham 548:12"
+        },
+        "13": {
+          "he": "עד הלילה. כיון שיוכל לרחוץ בלילה בצונן עסי' תקי\"א ס\"ב:",
+          "en": "",
+          "ref": "Magen Avraham 548:13"
+        },
+        "14": {
+          "he": "אחר תפילת המנחה. משמע דצריך שיתפלל מנחה תחלה דאז חל עליו קדושת הרגל וכ\"מ בב\"ח סי' תר\"ו ועמ\"ש סי' רצ\"ב ודוקא בהנך שרי שבאים לכבוד הרגל דכשרוחץ עכשיו נהנ' ממנו ברגל אבל שאר דיני אבלות כגון ישיבת קרקע וחליצת מנעל נוהגין עד שתחשך כמ\"ש בטי\"ד סי' ת' וכ\"כ הנ\"י בהדיא גבי כפית המטה ועמ\"ש סי' תרצ\"ו:",
+          "en": "",
+          "ref": "Magen Avraham 548:14"
+        },
+        "15": {
+          "he": "ולדידן וכו'. היינו מדינא אבל המנהג להקל כמ\"ש רמ\"א בי\"ד סי' שצ\"ט ס\"ה [ש\"כ וט\"ז וב\"ח] ובת\"ה סי' רפ\"ז כ' דמי שמת לו מת בע\"ש ואותו שבת הוא ערב הרגל מותר לו לרחוץ בחמין בע\"ש ע\"ש וצ\"ע דבססי' תר\"ו משמע דלא התיר אלא משום טביל' מצוה משמע דבשאר רגל אסור לכן נ\"ל דמ\"ש רמ\"א בי\"ד וכן נוהגין קאי לאותן שאין נוהגין איסור רחיצה כל ל' אבל לדידן ס\"ל רמ\"א דיש לנהוג איסור בשאר רגל רק ביה\"כ שרי מ\"מ נ\"ל להקל מאחר שכל האחרונים מקילין:",
+          "en": "",
+          "ref": "Magen Avraham 548:15"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "לא.  ומ\"מ הנר שרגילים להדליק כל שבעה ידליק תיכף ואין זה תלוי במה שהרגל מבטל האבילות או שאינו חל עד אחר הרגל רק שידליק במקום שאין אוכלים שם משום צער עשו\"ת נ\"ש סי' ע\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 548:1"
+        },
+        "2": {
+          "he": "ומונה.  וש\"ע אינו נחשב רק ליום אחד אחרונים וע' בסעיף י\"ו מש\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 548:2"
+        },
+        "3": {
+          "he": "שני.  משמע אפי' נקבר ביום ראשון ע\"י עכו\"ם ולא כרש\"ל אבל בראש השנה דוקא בנקבר ביום שני מונה שבעה מיום שני אבל אם נקבר ביום ראשון אינו מונה אפי' מיום שני ט\"ז וכ\"כ המבי\"ט ופר\"ח מ\"א אבל רוב פוסקים פסקו דאפי' בראש השנה אם נקבר ביום ראשון מונה שבעה מיום שני וע' בי\"ד סי' שצ\"ט סעיף קטן י\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 548:3"
+        },
+        "4": {
+          "he": "פרהסיא.  ולא ישנה כסותו. אע\"ג דשאר אבל משנה ברגל מ\"מ זה שלא התחיל עדיין אבילות אין לנהוג כן ברגל ר\"מ לובלין סימן ק\"ז. וכתב המ\"א ונ\"ל דמניח תפילין ביום ראשון ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 548:4"
+        },
+        "5": {
+          "he": "שבצנעה.  והם תשמיש ורחיצה ות\"ת עי\"ד. ואסור לחזור הפרשה במועד דאין חיוב לחזור פרשת המועדים. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 548:5"
+        },
+        "6": {
+          "he": "אנינות.  שאסור בבשר ויין ע' י\"ד סימן שמ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 548:6"
+        },
+        "7": {
+          "he": "שמחשיך.  וכתב המ\"א אבל בליל י\"ט שני חייב בכל המצות דדוקא ביום שני כתב הרא\"ש דכחול שויא רבנן אבל בלילה שלפניו לא וכ\"ש לדידן שנוהגין לעשות צרכי קבורה ע\"י עכו\"ם דחייב בלילה וכ\"כ מהרי\"ל היכא דמת לו מת בש\"ע מותר לקדש בליל ש\"ת אבל ביום כ\"ע מודים שפטור אך לא יאמר ההגדה בפסח כיון דאית בה מדרש פסוקים מור\"ם מלובלין וכ\"כ בדרישה בי\"ד סימן שמ\"א וכ\"פ ט\"ז דלא כש\"ך שם ע\"ש ומשמע דביום אפי' אינו רוצה לקברו עתה חל עליו דין אנינות דכחול שויא רבנן ומיהו נראה לי דאם אי אפשר לקברו מחמת איד העכו\"ם או מחמת אונס אחר לא חל עליו דין אנינות. ומשמע מתשובה מור\"ם דאסור לעלות לתורה עד כאן לשונו עיין שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 548:7"
+        },
+        "8": {
+          "he": "ביתו.  ושותף של אבל שמת לו מת ביום טוב פסק הגאון מהר\"ש מפראג לאסור כמו בשאר אבילות. א\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 548:8"
+        },
+        "9": {
+          "he": "שעה א'.  כלומר שעה מועטת. מ\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 548:9"
+        },
+        "10": {
+          "he": "שלשים.  וכן חתן שנשא ערב הרגל ובתוך הרגל מת לו מת אע\"ג דחתן דעלמא שאירע לו אבילות תוך שבעת ימי המשתה אין מונין למ\"ד אלא אחר ימי המשתה מ\"מ חתן זה עולין לו שבעת ימי המשתה למנין למ\"ד מ\"ב. אבל הט\"ז פסק דגם כאן אין ל' מן המנין וע' בי\"ד סימן שצ\"ט:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 548:10"
+        },
+        "11": {
+          "he": "קודם.  מי שמת לו אביו או אמו ושלמו למ\"ד יום ביום א' של חג וגערו בו בתוך הרגל מותר לגלח בחה\"מ כיון שלא היה יכול לגלח בערב י\"ט הלק\"ט ח\"א סימן רפ\"ה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 548:11"
+        },
+        "12": {
+          "he": "מימי.  כגון יום ה' או ו' דאז הרגל מבטל גזירות שבעה ואינו מבטל גזירות למ\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 548:12"
+        },
+        "13": {
+          "he": "איסור וכו'.  היינו מדינא אבל המנהג להקל כמ\"ש רמ\"א בי\"ד סימן שצ\"ט ס\"ה. ש\"ך ט\"ז וב\"ח והאחרונים ועמ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 548:13"
+        },
+        "14": {
+          "he": "שבעה.  דוקא במת קודם הרגל חשבינן ש\"ע לשבעה אבל מת ברגל או בחול המועד לא חשבינן ש\"ע רק ליום אחד אחרונים ודלא כרש\"ל ומ\"ב. ועיין סעיף קטן ב' ועיין מהרי\"ט צהלון סימן ע\"ח ובספר בני חייא חי\"ד סימן שצ\"ט ובתשובת נ\"ש סימן י\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 548:14"
+        },
+        "15": {
+          "he": "בשבת.  כתב הט\"ז [ביו\"ד סי' ת\"ב ס\"ו כתבתי] דבמת באחד בשבת והוי יום שביעי שלו בשבת דאין לנהוג איסור בדברים שבצינעה רק בשחרית בהנץ החמה וע\"כ שרי במנחה לקרותו לספר תורה עוד כתבתי שם באם יום השביעי בשבת נוהגים קצת בעלי בתים לישב על הארץ בלילה שעה אחת והוא טעות גמור אלא א\"כ שמע שמועה רחוקה בשבת שאז נוהג אבילות שעה אחת בלילה ולא כב\"ח ע' י\"ד סימן ת\"ב ס\"ק ד' מש\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 548:15"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) בתוך הרגל - בין ביו\"ט בין בחוה\"מ:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:1"
+        },
+        "2": {
+          "he": "(ב) לא חל וכו' - דאתי מ\"ע דשמחת הרגל שהוא עשה דרבים ודחי אבילות דהוא רק מצוה דיחיד:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:2"
+        },
+        "3": {
+          "he": "(ג) ברגל - ומ\"מ הנר שרגילים להדליק כל שבעה ידליק תיכף ואין זה תלוי במה שהרגל מבטל האבילות או שאינו חל עד אחר הרגל רק שלא ידליק במקום שאוכלים שם וכ\"ש בהחדר שמת שם שמא מתוך כך יבוא להספידו אלא ידליק במקום שאין אוכלין שם. אכן כיון שאין נהנה לאור זה כלל לא ידליק בעצמו ביו\"ט אלא ע\"י עכו\"מ [פמ\"ג בסימן קל\"ב והגרע\"א בסימן תקי\"ד]:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:3"
+        },
+        "4": {
+          "he": "(ד) ומונה שלשים מיום הקבורה - ושמיני עצרת אינו נחשב בזה רק יום אחד:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:4"
+        },
+        "5": {
+          "he": "(ה) ככל גזירת שלשים - דהיינו בגילוח ותספורת ורחיצה בחמין ועוד דברים המבוארים ביו\"ד בהלכות אבילות:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:5"
+        },
+        "6": {
+          "he": "(ו) מיום טוב שני האחרון - לאפוקי יו\"ט שני הראשון לא גרע מחוה\"מ דאינו עולה מן המנין:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:6"
+        },
+        "7": {
+          "he": "(ז) אע\"פ שאינו נוהג וכו' - ומיירי זה הסעיף שמת בתוך הרגל דאלו אם מת ביום אחרון מבואר דעת המחבר לקמיה דנוהג בו אבילות:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:7"
+        },
+        "8": {
+          "he": "(ח) עולה לו מן המנין - וה\"ה בשני ימים טובים של ר\"ה בין שנקבר ביום א' ע\"י עכו\"מ ובין שנקבר ביום שני שאינו נוהג בהן אבילות לכו\"ע מ\"מ יום שני עולה לו מן המנין:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:8"
+        },
+        "9": {
+          "he": "(ט) עיין ביו\"ד וכו' - ט\"ס הוא כי לא נזכר שם מדין זה:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:9"
+        },
+        "10": {
+          "he": "(י) מתו - דוקא ז' מתי מצוה שהם מפורשים בתורה אבל אותם שהוסיפו עליהם (כמה דאיתא ביו\"ד סוף סי' שע\"ד) אין אבילותם אלא מדרבנן:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:10"
+        },
+        "11": {
+          "he": "(יא) האחרון - משא\"כ יו\"ט שני של גליות בתחלת פסח או החג לא גרע מחוה\"מ:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:11"
+        },
+        "12": {
+          "he": "(יב) יום מיתה וקבורה - אבל אם מת מאתמול ונקבר ביום אחרון יום קבורה מד\"ס ואינה דוחה יו\"ט אע\"פ שהוא רק מדברי סופרים:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:12"
+        },
+        "13": {
+          "he": "(יג) של תורה - דמדהזהירה התורה לטמא לקרובים אפילו לכהנים וכ\"ש דישראלים חייבים לטמא לקרוביהם והכל הוא כדי שלא ימנעו מלהתאבל עליהם ש\"מ דביום מיתה חייב להתאבל עליהם:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:13"
+        },
+        "14": {
+          "he": "(יד) דאין נוהג וכו' - טעמם דס\"ל דאפילו אבילות יום ראשון הוא רק מדרבנן ולכך שמחת הרגל עדיפא דהוא מצוה של רבים:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:14"
+        },
+        "15": {
+          "he": "(טו) לא חלה עליו אבילות - ולא ישנה כסותו אע\"ג דשאר אבל משנה ברגל מ\"מ זה שלא התחיל עדיין באבילות אין לנהוג כן ברגל גם אין משנה מקומו הואיל ולא שינה קודם יו\"ט. ולענין תפילין בחוה\"מ ביום ראשון שמת לו מת עיין לעיל בסימן ל\"ח במ\"ב ס\"ק ט\"ז ועיין בשע\"ת בסימן זה:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:15"
+        },
+        "16": {
+          "he": "(טז) שבצנעה - היינו רחיצה בחמין ותשמיש ות\"ת נוהג בכל זה אבילות ואסור ויש מתירין בת\"ת ומ\"מ לענין לעלות לתורה ברגל לצרפו למנין הקרואים נראה דלכתחלה אינו כדאי:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:16"
+        },
+        "17": {
+          "he": "(יז) אנינות נוהג בו - שאסור בבשר ויין וכל הדינים השייכים לאנינות עיין ביו\"ד סי' שמ\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:17"
+        },
+        "18": {
+          "he": "(יח) ואינו רוצה לקוברו - שהנכרים אינם רוצים לקוברו:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:18"
+        },
+        "19": {
+          "he": "(יט) משעה שמחשיך - אבל לא מקודם וגם דוקא אם הוא מחשיך אבל אם אינו מחשיך אע\"פ שהוא סמוך לערב חייב בכל המצות כתב המ\"א דוקא בשעה שהוא מחשיך אבל בליל יו\"ט שני חייב בכל המצות דדוקא ביום של יו\"ט שני אמרינן דכחול שויוהו רבנן אבל לא בלילה שלפניו כיון שאין דרך לקבור בלילה ולפ\"ז היכא דמת לו מת בשמיני עצרת מותר לקדש בליל שמחת תורה ולברך המוציא ובהמ\"ז:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:19"
+        },
+        "20": {
+          "he": "(כ) והוא רוצה לקברו בו ביום - לאו דוקא אלא ר\"ל כל שהיכולת בידו לקברו ולאפוקי אם א\"א לקברו מחמת חג העכו\"מ או אונס אחר לא חל עליו דין אנינות ועיין לעיל בסימן ע\"א במ\"ב סקי\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:20"
+        },
+        "21": {
+          "he": "(כא) חל עליו אנינות - ואונן ברגל אסור בד\"ת דהוא אסור בשמחה ופקודי ד' ישרים משמחי לב וכ\"ש שאסור לעלות בתורה [מ\"א ע\"ש] והנה מדבריו משמע דאף בשעה שאינו רוצה לקברו וביו\"ט ראשון או כגון בלילה שאין דרך לקברו אפ\"ה אסור בד\"ת ועיין בדגול מרבבה שמשיג ע\"ז דכיון שאז אין דין אנינות עליו למה יהא אסור בד\"ת וכן מפקפק ע\"ז בספר בגדי ישע ע\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:21"
+        },
+        "22": {
+          "he": "(כב) מלאכתו נעשית ע\"י אחרים וכו' - אפילו בדבר שאינו אבד דבדבר האבד מותר ע\"י אחרים אפילו בביתו ואפילו בימים הראשונים שאחר הרגל וכדאיתא ביו\"ד סימן ש\"פ ס\"ה ועיין בלבוש שכתב דאם הוא דבר האבד מותר לעשות בעצמו ובמאמר מרדכי מפקפק עליו ע\"ש הטעם אכן אם לא יוכל לעשות ע\"י אחרים והוא דבר האבד אפשר דבענינינו יש לסמוך על הי\"א המובא שם בהג\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:22"
+        },
+        "23": {
+          "he": "(כג) בבתיהם - אף דגם בכל אבל ג\"כ מלאכתו נעשית ע\"י אחרים בבתיהם כדאיתא ביו\"ד שם סי\"ח אכן התם דוקא בקבלנות ובאופן שקבלו המלאכה קודם שנעשה אבל והכא מותר אפילו בימי אבילות [כ\"מ מהגר\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:23"
+        },
+        "24": {
+          "he": "(כד) ביתו - ושותף של אבל שמת לו מת ביו\"ט פסק הגאון מהר\"ש מפראג לאסור [לפתוח חנותו] כמו בשאר אבילות [ור\"ל דצריך להמתין ג' ימים אחר יו\"ט כמו דנוהגין בשאר אבילות לענין שותף כדאיתא שם ביו\"ד סכ\"א באחרונים ע\"ש] כ\"כ הבה\"ט בשם אליהו זוטא אכן בחכמת אדם הלכות אבילות כלל קס\"ט דין ב' הביא בשם א\"ר להקל דהיינו אם מת ביום א' דחוה\"מ מותר להשותף לפתוח חנותו תיכף אחר יו\"ט וע\"ש בחכמ\"א שדעתו דאפילו מת בערב יו\"ט אחרון ג\"כ מותר להשותף לפתוח חנותו תיכף אחר יו\"ט ועיין בבה\"ל שביררנו דהפריז על המדה ודיינו אם נקיל כא\"ר:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:24"
+        },
+        "25": {
+          "he": "(כה) ואין צריכין וכו' - וכן אין לנחם אבל בע\"ש שאחר הרגל קודם ברכו בביהכ\"נ כנהוג אם כבר עברו שבעה ימים למיתת המת [אחרונים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:25"
+        },
+        "26": {
+          "he": "(כו) ונהג אבילות אפילו שעה אחת - לאו דוקא שעה אלא ר\"ל זמן מועט מאד [אחרונים] ועיין פמ\"ג דלאו דוקא אם נהג בחליצת מנעל ה\"ה אם נהג בכפיית המטה או אחד משאר דברים השייכים לשבעה בטלה ממנו עי\"ז גזירת שבעה:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:26"
+        },
+        "27": {
+          "he": "(כז) וימי הרגל עולים וכו' - ומטעם שלשים אסור ללבוש בתוך הרגל כלים מגוהצים חדשים ולבנים וכן מה שהתירו לפעמים לספר ולכבס בתוך הרגל כגון הבא ממדינת הים וכל השנויים לעיל בסימן תקל\"א ס\"ב וסימן תקל\"ד מחמת איסור שלשים אסור בכולם. וחתן שנשא אשה ערב הרגל ובתוך הרגל מת לו מת אין הרגל עולה לו למנין שלשים שהרי בתוך שבעת ימי המשתה היה מותר בגיהוץ ותספורת ואינו חושש לאבילות כלל וכדאיתא ביו\"ד סימן שמ\"ב ומה שהיה זהיר ברגל שלא לגהץ ולספר הוא מחמת הרגל לחוד נמצא שלא נהג אבילות ברגל כלל וע\"כ צריך לנהוג לאחר שהשלים ימי משתה שלו שבעת ימי אבלות ואח\"כ שלשים:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:27"
+        },
+        "28": {
+          "he": "(כח) ודינו כדין קובר וכו' - שנוהג בו דברים שבצנעא ומתחיל למנות שבעה אחר הרגל וימי הרגל עולין לו למנין שלשים וכנ\"ל בס\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:28"
+        },
+        "29": {
+          "he": "(כט) אפילו חל יום שבעה בערב הרגל וכו' - דקיי\"ל מקצת היום ככולו לענין אבילות לפיכך יום שביעי עולה לו לכאן ולכאן תחלת יום השביעי הוא תשלום השבעה ואח\"כ מתחיל יום שמיני דהוא נחשב מהתחלת שלשים וכיון דהתחיל יום אחד מן השלשים א\"צ לשמור תו כלום לאחר הרגל מן השלשים דבא הרגל ומפסיקו ויותר מזה דאפילו בזה היום גופא מותר לגלח ולכבס אפילו בגיהוץ משום כבוד הרגל:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:29"
+        },
+        "30": {
+          "he": "(ל) וה\"ה הרחיצה לדידן דנוהגין וכו' - ר\"ל אף לדידן דבעלמא נוהגין איסור רחיצה כל ל' מ\"מ בענינינו אינו חמור מתספורת ומותר אפילו רחיצה בחמין:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:30"
+        },
+        "31": {
+          "he": "(לא) סמוך לערב - כדי שיהיה ניכר שהוא משום כבוד הרגל וזה הדין הוא אפילו אם חל יום ח' או ט' בערב הרגל. ודוקא בכל עיו\"ט אבל בע\"פ מותר בכל אחר חצות דהיינו מזמן שחיטת הפסח ואילך דאז הוא יו\"ט דאסור במלאכה ולכן מותר ברחיצה אחר חצות תיכף וכן בכיבוס אבל לגלח מותר אפילו קודם חצות כיון דאחר אסור לו לגלח אחר חצות כדאיתא בהלכות פסח:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:31"
+        },
+        "32": {
+          "he": "(לב) וא\"צ להמתין עד הלילה - קאי ארחיצה דאלו תספורת וכביסה בלילה אסור ובודאי צריך לעשות סמוך לערב דהיינו אחר תפלת המנחה וכדלקמיה:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:32"
+        },
+        "33": {
+          "he": "(לג) לא יגלח וכו' - פשוט דה\"ה לענין כיבוס:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:33"
+        },
+        "34": {
+          "he": "(לד) עד שיגערו וכו' - ואם גערו בו אף ביום ל' מותר [א\"ר]:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:34"
+        },
+        "35": {
+          "he": "(לה) אחד מימי האבלות - אפילו יום ראשון:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:35"
+        },
+        "36": {
+          "he": "(לו) מותר לכבס - דכיון דבלילה א\"א לו לכבס מפני יו\"ט התירו לו ביום מפני הרגל אבל תספורת אסור עד שלשים:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:36"
+        },
+        "37": {
+          "he": "(לז) עד אחר חצות - לדעת רמ\"א לעיל בס\"ח לא יכבס עד סמוך לערב:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:37"
+        },
+        "38": {
+          "he": "(לח) לרחוץ אסור עד הלילה - ר\"ל אפילו בצונן דהא אפשר לרחוץ בלילה בצונן ובחוה\"מ מותר אף בחמין דהא בטל ממנו גזירת שבעה:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:38"
+        },
+        "39": {
+          "he": "(לט) ויש מתירין לרחוץ וכו' - דוקא לרחוץ אבל שארי דיני אבילות כגון ישיבת קרקע וחליצת מנעל נוהג עד שתחשך [מ\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:39"
+        },
+        "40": {
+          "he": "(מ) המנחה - משמע דצריך שיתפלל מנחה תחלה דאז חל עליו קדושת הרגל [מ\"א] ועיין בישועות יעקב שכתב דמ\"מ בעוד היום גדול נוהג דיני אבילות אבל סמוך לחשיכה שהוא ביה\"ש ואפשר דאף בזמן תוספות יו\"ט אינו נוהג ועיין בב\"ח סימן רס\"א כתב דזמן קבלת שבת חל שתי שעות סמוך לערב:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:40"
+        },
+        "41": {
+          "he": "(מא) אסור לרחוץ וכו' - ר\"ל סמוך לחשיכה וכן בחוה\"מ אסור לרחוץ עד תשלום שלשים דדינו כמו תספורת:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:41"
+        },
+        "42": {
+          "he": "(מב) דהא הרגל לא בטל וכו' - ומ\"מ המנהג להקל בזה כמש\"כ הרמ\"א ביו\"ד סימן שצ\"ט ס\"ה ויש מאחרונים שסוברין דאין להקל לרחוץ בחמין רק בצונן [ומ\"מ בחוה\"מ בודאי יש לסמוך להקל] ואפילו לדעת המקילין בחמין הוא דוקא בעיו\"ט וכן בחוה\"מ משום כבוד הרגל אבל אחר הרגל אסור ברחיצה וכיבוס עד שלשים שהרי הרגל לא ביטל ממנו גזירת שלשים ועיין בהגהות אמרי ברוך ביו\"ד סימן שצ\"ט:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:42"
+        },
+        "43": {
+          "he": "(מג) עולה למנין הט\"ז - אחרי דאנו בקיאין בקביעא דירחא ועיקר יו\"ט אינו אלא יום א':",
+          "en": "",
+          "ref": "Mishnah Berurah 548:43"
+        },
+        "44": {
+          "he": "(מד) שמגלח בעיוה\"כ - דהוא יום שביעי ועולה לכאן ולכאן וכנ\"ל בס\"ח וכ\"ש דמותר רחיצה וכיבוס ועיין לקמן בסימן תר\"ו במ\"א סוף הסימן דמצדד שם לענין רחיצה שעה או שתים קודם חשיכה ולא קודם ובענינינו שנשלם שבעה אפשר להקל אפילו קודם:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:44"
+        },
+        "45": {
+          "he": "(מה) ומגלח בערב החג - וכ\"ש שמותר רחיצה וכיבוס דאיסורן עד שלשים אינו אלא מנהגא וזמן הגילוח והשאר הוא כמבואר בס\"ח בהג\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:45"
+        },
+        "46": {
+          "he": "(מו) ושמיני עצרת שבעה - דהוא חשוב רגל בפ\"ע ונוטל עליו שבעה ימים ואף דשמ\"ע גופא אין לו תשלומין לקרבנותיו כמו עצרת בסי\"ג מ\"מ כיון דהוקשו כל המועדים כולהו להדדי מדכתיב אחר כל המועדים אלה מועדי ד' ע\"כ דין אחד להם:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:46"
+        },
+        "47": {
+          "he": "(מז) ויום שני של שמ\"ע וכו' - ר\"ל אף בחו\"ל שעושין שני ימים נחשב יום שני לענין שלשים כשאר ימות החול שלא יהיה צריך אח\"כ להוסיף עוד רק ח' ימים:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:47"
+        },
+        "48": {
+          "he": "(מח) שמע שמועה קרובה - היינו שהוא תוך ל' שמת קרובו:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:48"
+        },
+        "49": {
+          "he": "(מט) דינו כדין וכו' - כיון שלא היה יכול לנהוג אבילות בשעה ששמע לא חל עליו אבילות כלל:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:49"
+        },
+        "50": {
+          "he": "(נ) אחר השבת והרגל - ואינו נוהג אלא שעה אחת במוצאי שבת ורגל:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:50"
+        },
+        "51": {
+          "he": "(נא) שמועה רחוקה - דהיינו אחר שלשים יום כדאיתא ביו\"ד סימן ת\"ב ס\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:51"
+        },
+        "52": {
+          "he": "(נב) ולמחר קורע - לאו דוקא ור\"ל במוצאי שבת. ואם שמע שמועה קרובה בשבת ערב הרגל שבת עולה לו ליום אחד ויו\"ט מבטל גזירת שבעה [אחרונים] כתב הפמ\"ג קדיש י\"ל דאין הרגל מבטל ויש לו דין שבעה ושלשים אפילו נהג שעה אחת לפני הרגל ע\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:52"
+        },
+        "53": {
+          "he": "(נג) שאין הרגל עולה וכו' - ומ\"מ יולדת שמת לה מת שחייבת להתאבל עליו וה\"ה שאר חולה וא\"א להן להתאבל מחמת חלישותן כיון שהם ידעו מזה אך מחמת אונס א\"א להן לנהוג אבילות והרגל פגע בתוך ז' בטל מהן גזירת שבעה וה\"ה לענין שלשים. ויתר דיני הפרטים השייכים לענין זה מבואר הכל ביו\"ד סימן שצ\"ט ע\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 548:53"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

@@ -1,0 +1,1639 @@
+{
+  "chelek": "OC",
+  "siman": 53,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 26,
+  "fetchedAt": "2026-07-07T23:37:51.114Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין מי הראוי לירד לפני התיבה. ובו כו סעיפים:אומר שליח צבור ישתבח מעומד:",
+      "en": "The laws regarding who is appropriate to go down before the ark (ie. to lead the prayer services). And there are 26 sections: The leader should say Yishtabach while standing.",
+      "ref": "Shulchan Arukh, Orach Chayim 53:1"
+    },
+    {
+      "seif": 2,
+      "he": "אין לומר ישתבח אא\"כ אמר ברוך שאמר וקצת פסוקי דזמרה:",
+      "en": "One should not say Yishtabach unless he has also said Barukh She'Amar and some of P'sukei D'Zimra",
+      "ref": "Shulchan Arukh, Orach Chayim 53:2"
+    },
+    {
+      "seif": 3,
+      "he": "אין לברך על עטיפת ציצית בין פסוקי דזמרה לישתבח אלא בין ישתבח ליוצר [וע\"ל סי' נ\"ד סעיף ג']: הגה הש\"ץ אם לא היה לו טלית תחלה יתעטף בציצית קודם שיתחיל ישתבח כדי שיאמר הקדיש מיד אחר ישתבח ולא יפסיק [כל בו סי' ה'] וכן אם אין מנין בב\"ה ימתין הש\"ץ עם ישתבח וישתוק עד שיבא מנין ויאמר ישתבח וקדיש: [מהרי\"ל]:",
+      "en": "One should not say the bracha on the wrapping of the tzitzit [i.e. putting on a tallit] between P'sukei D'Zimra and Yishtabach [i.e. the closing blessing], rather, he should say it between Yishtabach and Yotzer [Ohr] [and see below 54:3]. Rem\"a: If the leader did not have a tallit at the beginning, he should wrap in tzitzit before he begins Yishtabach so that he will say the Kaddish immediately after Yishtabach and not interrupt [Kol Bo 5], and similarly if there is no minyan in the synagogue, the leader should wait at Yishtabach and be silent until the minyan comes and then say Yishtabach and Kaddish [Maharil].",
+      "ref": "Shulchan Arukh, Orach Chayim 53:3"
+    },
+    {
+      "seif": 4,
+      "he": "ש\"צ צריך שיהיה הגון ואיזהו הגון שיהא ריקן מעבירות ושלא יצא עליו שם רע אפי' בילדותו ושיהיה עניו ומרוצה לעם ויש לו נעימה וקולו ערב ורגיל לקרות תורה נביאים וכתובים:",
+      "en": "The leader must be one who is fit. Who is \"fit\"? One who is free of sin; who has never had a poor reputation, even in his youth; who is humble; who is acceptable to the nation; who is skilled at [liturgical] chanting; whose voice is pleasant; who is accustomed to reading Torah, Prophets, and Writings (i.e. biblical text).",
+      "ref": "Shulchan Arukh, Orach Chayim 53:4"
+    },
+    {
+      "seif": 5,
+      "he": "אם אין מוצאין מי שיהיה בו כל המדות האלו יבחרו הטוב שבצבור בחכמה ובמעשים טובים: הגה ואם היה כאן עם הארץ זקן וקולו נעים והעם חפצים בו ובן י\"ג שנה המבין מה שאומ' ואין קולו נעים הקטן הוא קודם [מרדכי ספ\"ק דחולין] מי שעבר עבירה בשוגג כגון שהרג הנפש בשגגה וחזר בתשובה מותר להיות ש\"ץ אבל אם עשה במזיד לא דמ\"מ יצא עליו שם רע קוד' התשוב' [תשובת א\"ז במס' ברכו']:",
+      "en": "If there is no person that fits these qualifications, we should pick the one that has the most knowledge and good deeds in the community. Gloss: And if there was here an ignoramus who is an elder and his voice is pleasant and the people want him and [also] a 13 year old who knows what he is saying and his voice is not pleasant, the younger one takes precedent (Mordekhai, Chapter 1 of Chullin). One who has committed a sin unintentionally, for example, who killed a person accidentally and returned in repentance is permitted to be leader, but if he did it intentionally [he may] not, in that in any case a bad name has gone out regarding him prior to the repentance.",
+      "ref": "Shulchan Arukh, Orach Chayim 53:5"
+    },
+    {
+      "seif": 6,
+      "he": "אין ממנין אלא מי שנתמלא זקנו מפני כבוד הצבור אבל באקראי משהביא שתי שערות יכול לירד לפני התיבה ובלבד שלא יתמנה מפי הצבור או מפי ש\"צ הממנה אותו להקל מעליו להתפלל בעדו לעתים ידועים:",
+      "en": "We do not appoint anyone who does not have a full beard because of the honor of the congregation, but if by happenstance [something comes up], someone which has brought [i.e. grown] two hairs can go down before the Ark as long as he has not been appointed by the congregation or by the [regular] leader appointing him to relieve him to pray for him for defined occasions.",
+      "ref": "Shulchan Arukh, Orach Chayim 53:6"
+    },
+    {
+      "seif": 7,
+      "he": "אם אין שם מי שיודע להיות ש\"ץ כי אם בן י\"ג ויום א' מוטב שיהא הוא ש\"ץ משיבטלו מלשמוע קדוש' וקדיש:",
+      "en": "If there is no one there who knows how to be  the leader except a boy of 13 years and one day, it is better that he will be the leader than to neglect to hear the K'dushah and Kaddish.",
+      "ref": "Shulchan Arukh, Orach Chayim 53:7"
+    },
+    {
+      "seif": 8,
+      "he": "מי שאינו בעל זקן כל שניכר בו שהגיע לכלל שנים שראוי להתמלאות זקנו נתמלא זקנו קרינן ביה הילכך בן כ' שנה אע\"פ שאין לו זקן ממנין אותו: הגה וכן אם היה לו זקן אפי' מעט קרינן ביה נתמלא זקנו אם הוא מבן י\"ח ולמעלה: [ב\"י בשם מ\"ס פי\"ד ונ\"י פ' הקורא עומד]:",
+      "en": "Someone who is not bearded: anyone for whom it is recognized that he has arrived at the general age where it is proper to have filled in his  beard, we call him one who has filled his beard. If he is 20 years old, even though he doesn't have a beard we appoint him. Gloss: And even if he had a beard even a small one, we call him one who has filled his beard if he is 18 years old older. [Beit Yosef in the name of Tractate Soferim chapter 14 and Nimukei Yosef on \"HaKorei Omeid\"]",
+      "ref": "Shulchan Arukh, Orach Chayim 53:8"
+    },
+    {
+      "seif": 9,
+      "he": "סריס י\"א שמותר למנותו אם הוא בן כ':",
+      "en": "A eunuch, there are those who say that it is permitted to appoint him if he is twenty years of age.",
+      "ref": "Shulchan Arukh, Orach Chayim 53:9"
+    },
+    {
+      "seif": 10,
+      "he": "יש ללמוד זכות על מקומות שנוהגים שהקטנים יורדין לפני התיבה להתפלל תפלת ערבית במוצאי שבתות: הגה ובמקומות שלא נהגו כן אין לקטן לעבור לפני התיבה אפי' בתפלת ערבית אפי' הגיע לכלל י\"ג שנים ביום השבת אין להתפלל ערבית של שבת דהרי עדיין אין לו י\"ג שנה [מהרי\"ל]:",
+      "en": "We should give the benefit of the doubt to places that practice such that minors go down before the Ark to pray the evening service on Saturday evening. Rem\"a: And in places that do not have this custom, a minor should  not pass before the Ark even for the evening service and even if he arrived at 13 years on Shabbat day, he may not pray the [Friday] evening service of Shabbat for behold he is still not 13 years old. [Mahari\"l]",
+      "ref": "Shulchan Arukh, Orach Chayim 53:10"
+    },
+    {
+      "seif": 11,
+      "he": "ש\"ץ שמאריך בתפלה כדי שישמעו קולו ערב אם הוא מחמת ששמח בלבו על שנותן הודאה להש\"י בנעימה תבא עליו ברכה והוא שיתפלל בכובד ראש ועומד באימה ויראה אבל אם מכוין להשמיע קולו ושמח בקולו ה\"ז מגונה ומ\"מ כל שמאריך בתפלתו לא טוב עושה מפני טורח הצבור:",
+      "en": "A prayer leader who lengthens the prayer so that people will hear his pleasant voice: if it was because of the joy in his heart that he gives thanks to God, may He be praised, in pleasantness, a blessing shall come upon him. And this as long as he prays with weighty intention and stands in dread and fear, but if he intends to make his voice heard and rejoice in his voice, behold this is detestable. And in any case, anyone who lengthens his prayer [when serving as the leader] is not acting properly  because of burdening the congregation.",
+      "ref": "Shulchan Arukh, Orach Chayim 53:11"
+    },
+    {
+      "seif": 12,
+      "he": "אין ממנין מי שקור' לאלפי\"ן עייני\"ן ולעייני\"ן אלפי\"ן:",
+      "en": "We do not appoint a person [to be leader] who reads \"aleph\"s like \"ayin\"s and \"ayin\"s like \"aleph\"s.",
+      "ref": "Shulchan Arukh, Orach Chayim 53:12"
+    },
+    {
+      "seif": 13,
+      "he": "פוחח [עבדי ישעיה ערום תרגם עבדי ישעיה פחח] והוא מי שבגדו קרוע וזרועותיו מגולים לא ירד לפני התיבה:",
+      "en": "A \"pocheiach\" [[as in the verse] \"...my servant Isaiah has gone naked\" which is translated [by Targum Yonatan] as \"my servant Isaiah 'p'chayach'\"] - and it is someone who whose clothing is torn and his arms are exposed - may not go down before the ark.",
+      "ref": "Shulchan Arukh, Orach Chayim 53:13"
+    },
+    {
+      "seif": 14,
+      "he": "סומא יורד לפני התיבה ובלבד שלא יקרא בתורה משום דברים שבכתב אי אתה רשאי לאומרם על פה:",
+      "en": "One who is blind may go down before the ark, as long as he does not read from the Torah, because things that are written, you do not have permission to say them by heart.",
+      "ref": "Shulchan Arukh, Orach Chayim 53:14"
+    },
+    {
+      "seif": 15,
+      "he": "ש\"צ קבוע יורד לפני התיבה מעצמו ולא ימתין שיאמרו לו:",
+      "en": "An established prayer leader goes before the ark himself and doesn't wait until someone asks him to.",
+      "ref": "Shulchan Arukh, Orach Chayim 53:15"
+    },
+    {
+      "seif": 16,
+      "he": "מי שאינו ש\"צ קבוע צריך לסרב מעט קודם שירד לפני התיבה ולא יותר מדאי אלא פעם ראשונ' מסרב וכשיאמרו לו פעם שנייה מכין עצמו כמי שרוצה לעמוד ובפעם שלישית יעמוד ואם האומר לו שירד הוא אדם גדול אינו מסרב לו כלל:",
+      "en": "One who is not an established prayer leader must decline a bit before he goes before the ark, but not too much; rather, the first time he should decline, and when they ask him again he should ready himself as if he wants to go to [lead], and on the third time he should stand [and go before the ark]. If the one who told him to go before the ark is an important person, he should not decline at all.",
+      "ref": "Shulchan Arukh, Orach Chayim 53:16"
+    },
+    {
+      "seif": 17,
+      "he": "אם טעה ש\"ץ וצריכין להעמיד אחר תחתיו אותו שמעמידין תחתיו לא יסרב:",
+      "en": "If the leader should err and they need to replace him, the one whom they ask to replace him should not decline at all.",
+      "ref": "Shulchan Arukh, Orach Chayim 53:17"
+    },
+    {
+      "seif": 18,
+      "he": "האומר איני יורד לפני התיבה מפני שבגדי צבועין או מפני שברגלי סנדל לא ירד באותה תפלה כלל מפני שדרך האפיקורסין להקפיד בכך וחיישינן שמא אפיקורסות נזרקה בו: הגה [ואפי' אם נותן אמתלא לדבריו לא מהני] [ב\"י בשם ר' יהונתן]:",
+      "en": "If a person says \"I will not lead because my clothing is colorful or because sandals are on my feet,\" he cannot lead at all for that prayer because that he is the way of the heretics to be particular about this, and we are afraid that heresy has fallen upon him. Rem\"a: [And even if he gives a valid excuse for his words, it is not effective] [Beit Yosef in the name of Rabbi Y'honatan].",
+      "ref": "Shulchan Arukh, Orach Chayim 53:18"
+    },
+    {
+      "seif": 19,
+      "he": "יש מונעים גר מלהיו' ש\"צ ונדחו דבריה' אפי' יחיד יכול לעכב ולומר איני רוצ' שפלוני יהיה חזן אם לא שכבר הסכים עליו מתחיל': הגה ודוקא שיהי' לאותו יחיד טעם הגון ע\"פ טובי העיר אבל בלאו הכי אין היחיד יכול למחות בש\"ץ [מהרי\"ו סי' ס'] ואם הוא שונאו יכול למחות בו קודם שהסכים עליו [מהר\"ם פדואה סי' ק\"ד ומהרי\"ק שורש מ\"ד] ומי שהוא שונא לש\"ץ לא יעלה לספר תור' כשקורא התוכחה: [אור זרוע]:",
+      "en": "There are those who prevent a convert from being a prayer leader, and we disregard their words. Even a single individual can prevent [a prayer leader] and say 'I don't want so-and-so to be chazzan' if it was not already agreed upon him from the beginning. Rem\"a: And [this is] specifically when that individual has a fair reason in accordance with the \"tuvei ha'ir\" (a type of community leadership position), but when not so, an individual cannot prevent a prayer leader [Mahariv Siman 60]. And if he hates him, he can prevent him before they agree upon a prayer leader [Maharam P'duah - Siman 104 and Maharik - Shoresh 44]. And someone who hates the prayer leader, he may not be called up to the Torah when reading the Rebuke [Ohr Zarua].",
+      "ref": "Shulchan Arukh, Orach Chayim 53:19"
+    },
+    {
+      "seif": 20,
+      "he": "אם אחד רוצה לומר תפלה בשביל אביו ואחד רוצה לומר בשביל אחר מי שירצה הקהל שיאמר התפלה הוא יאמר:",
+      "en": "If one wants to say the Prayer (ie. lead the prayer services as a merit) for his father [who passed away] and one who wants to say for another person, whoever the congregation wants to say/lead the Prayers, he should say/lead.",
+      "ref": "Shulchan Arukh, Orach Chayim 53:20"
+    },
+    {
+      "seif": 21,
+      "he": "אין למנות ש\"צ ע\"פ השר אע\"פ שרוב הצבור חפצים בו:",
+      "en": "We don't appoint a prayer leader based on the request of a [non-Jewish] ruler/government official, even if most of the congregation wants him.",
+      "ref": "Shulchan Arukh, Orach Chayim 53:21"
+    },
+    {
+      "seif": 22,
+      "he": "שליח צבור בשכר עדיף טפי מבנדבה: הגה ואין לאדם להתפלל בלא רצון הקהל וכל מי שמתפלל בחזקה ודרך אלמות אין עונין אמן אחר ברכותיו [בנימין זאב סי' קס\"ג ואגוד' פ' כיצד מברכין]:",
+      "en": "A paid prayer-leader is better than a voluntary one. Rem\"a: And a person may not pray without the will of the congregation, and anyone who prays [for the congregation]  through force and violence, we don't say \"amen\" to his blessings (Binyamin Z'eiv - Siman 163 and Agudah - Chapter \"Keitzad Mevarchin\").",
+      "ref": "Shulchan Arukh, Orach Chayim 53:22"
+    },
+    {
+      "seif": 23,
+      "he": "שכר ש\"ץ פורעים מקופת הקהל אע\"פ שהש\"ץ מוציא הדל כעשיר מ\"מ אין יד העני משגת כעשיר: הגה ויש אומרים שגובין חצי לפי ממון וחצי לפי הנפשות וכן הוא מנהג הקהלות [מהר\"ם פאדווה סי' מ\"ד]:",
+      "en": "The wages of the prayer-leader should be taken from the public funds of the congregation.   Even though the prayer-leader is fulfilling [the prayer obligations] of the poor like the rich, nevertheless, the hand of poor doesn't pay as [much as] the rich. Rem\"a: And there are those who say that we collect [from the members] half [of the total funds] according to [each person's] wealth and half according to the [number of] people (ie. a set amount that each person gives), and so is the custom of the congregations (Maharam Padua Siman 44).",
+      "ref": "Shulchan Arukh, Orach Chayim 53:23"
+    },
+    {
+      "seif": 24,
+      "he": "צבור שצריכין לשכור רב וש\"ץ ואין בידם כדי שכר שניהם אם הוא רב מובהק וגדול בתורה ובקי בהורא' הוא קודם ואם לאו ש\"ץ קודם:",
+      "en": "A congregation that needs to hire a Rabbi and prayer-leader but doesn't have money for both...  If he is a brilliant rabbi, great in Torah, and an expert in halachic ruling, he is given precedence, and if not, the prayer-leader is given precedence.",
+      "ref": "Shulchan Arukh, Orach Chayim 53:24"
+    },
+    {
+      "seif": 25,
+      "he": "אין מסלקין חזן מאומנתו אא\"כ נמצא בו פסול: הגה ואין מסלקין אותו משום רנון בעלמא כגון שיצא עליו שם שנתפס עם הנכרית או שמסר אדם אבל אם באו עליו עדים בזה וכיוצא בזה מעבירין אותו ושליח צבור שהוא שוחט ובודק לא יתפלל בבגדים הצואין ומסריחין ואם אינו רוצה להחליף בגדיו בשעת התפלה ולהתפלל מעבירין אותו. וש\"צ המנבל פיו או שמרנן בשירי הנכרים מוחין בידו שלא לעשות כן ואם אינו שומע מעבירין אותו [כל בו דף קכ\"ה ע\"ד] וש\"צ שהזקין ורוצה למנות בנו לסייעו לפרקים אע\"פ שאין קול בנו ערב כקולו אם ממלא מקומו בשאר דברים בנו קודם לכל אדם ואין הצבור יכולין למחות בידו: [תשובת רשב\"א סי' ט']:",
+      "en": "We do not remove a chazzan from his job, unless we find in him some disqualification. Rem\"a: And we do not remove him just because of slander - for example, that word went out about him that he was caught with a non-Jewish woman or that he informed [to the authorities] against a person. But if witnesses came against him regarding these or something similar, we remove him. And a prayer-leader who is [also] a ritual-slaughterer or an animal examiner should not pray in his filthy and smelly clothes, and if he does not want to change his clothes at the time of prayer in order to pray, we remove him. And a prayer-leader who fouls his mouth (ie. uses foul language) or sings non-Jewish songs, we warn him not to do this, and if he does not listen, we remove him [Kol Bo page 125, amud 4]. And a prayer leader that who has aged and wants to appoint his son to assist him sometimes, even though his son's voice isn't pleasant like his voice - if he \"fills his shoes\" regarding other things, then his son take precedence over anyone else and the congregation cannot prohibit him. (Responsum of Rashba Siman 9)",
+      "ref": "Shulchan Arukh, Orach Chayim 53:25"
+    },
+    {
+      "seif": 26,
+      "he": "קהל שנהגו למנות אנשים על צרכי הצבור לזמן ובהגיע הזמן יצאו אלו ויכנסו אחרים תחתיהם בין לחזן בין לקופה של צדקה בין לשאר מנויים הצריכין לצבור בין שנוטלין עליהם שכר בין שאינם נוטלים אפי' לא קבעו להם זמן סתמן כפירושן מאחר שנהגו כך: הגה יש מי שכתב דשליח צבור יתפלל מתוך ספר המיוחד לצבור דודאי נכתב לשמו [מהרי\"ל בשם רוקח]:",
+      "en": "A community that is accustomed to appoint people for the needs of the community for a [limited] time, and when the time comes those leave and others replace them, whether regarding the chazan, or the charitable trust, or the other positions required by the community; Whether it is [positions] which are paid a salary or those which are unpaid; even if the time/term [of service] is not fixed, implicitly or explicitly alike — [this is acceptable] because they are accustomed to do so. Rem\"a: There is one who wrote that the prayer-leader should pray from the [prayer] book that was designated for the congregation because it was certainly written for the sake of Heaven [Maharil in the name of the Rokeiach].",
+      "ref": "Shulchan Arukh, Orach Chayim 53:26"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "טור והגהת מיימוני פ\"ז מה\"ת וכל בו סי' כ\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:1"
+        },
+        "2": {
+          "he": "מהרי\"ן חביב ומהרי\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:2"
+        },
+        "3": {
+          "he": "ב\"י:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:3"
+        },
+        "4": {
+          "he": "תענית ט\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:4"
+        },
+        "5": {
+          "he": "טור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:5"
+        },
+        "6": {
+          "he": "חולין כ\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:6"
+        },
+        "7": {
+          "he": "תשובת רא\"ש כלל ד'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:7"
+        },
+        "8": {
+          "he": "רשב\"א והר\"ן ותשובת רא\"ש כלל ד'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:8"
+        },
+        "9": {
+          "he": "ב\"י מדברי הרמב\"ם פט\"ו מה' תפלה וע' מס' סופרי' פי\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:9"
+        },
+        "10": {
+          "he": "שם במס' סופרים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:10"
+        },
+        "11": {
+          "he": "ב\"י ע\"פ תשו' הרשב\"א בשם הראב\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:11"
+        },
+        "12": {
+          "he": "תשוב' הרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:12"
+        },
+        "13": {
+          "he": "מגילה כ\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:13"
+        },
+        "14": {
+          "he": "שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:14"
+        },
+        "15": {
+          "he": "שם לענין פריסת שמע ורמב\"ם בפ\"ח מה\"ת ותשוב' הרא\"ש כלל ד' דה\"ה לירד לפני התיבה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:15"
+        },
+        "16": {
+          "he": "ועיין במ\"ש בסימן קל\"ט סעיף ג'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:16"
+        },
+        "17": {
+          "he": "טור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:17"
+        },
+        "18": {
+          "he": "ברכות ל\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:18"
+        },
+        "19": {
+          "he": "הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:19"
+        },
+        "20": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:20"
+        },
+        "21": {
+          "he": "מגילה כד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:21"
+        },
+        "22": {
+          "he": "ר\"י ור\"ן ורמב\"ן הרשב\"א ורבי יואל התירו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:22"
+        },
+        "23": {
+          "he": "אגור ומהרי\"ק בשורש מ\"ד ובשם ר' שמחה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:23"
+        },
+        "24": {
+          "he": "ב\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:24"
+        },
+        "25": {
+          "he": "מרדכי פרק החובל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:25"
+        },
+        "26": {
+          "he": "תשוב' הרשב\"א ס' ת\"צ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:26"
+        },
+        "27": {
+          "he": "הרשב\"א בתשו' אחרת",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:27"
+        },
+        "28": {
+          "he": "תשו' הרא\"ש כלל ו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:28"
+        },
+        "29": {
+          "he": "תשו' הרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:29"
+        },
+        "30": {
+          "he": "סוף ספר הכל בו בשם תשו' רשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 53:30"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "מעומד עמ״א בשם ב״ח דישתבח מצד עצמו א״צ עמידה רק הקדיש שיסמוך לו בעמידה דומיא דמלאכים כי הוא דבר שבקדושה ומש״ה בחול אף הקהל עומדים בישתבח שישמעו מיד הקדיש ויענו כו׳ אבל בשבת החזן מאריך והקהל יושבים בישתבח אבל בס״ס נ״א סעיף ו׳ בהג״ה נהגו לעמוד בב״ש ויברך דוד וישתבח משמע דומיא דב״ש מצד עצמו ועמ״ש אי״ה בט״ז אות א׳ מזה יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:1"
+        },
+        "2": {
+          "he": "אין לומר עמ״א. הנה אם לא אמר כלל פסוקי דזמרה הוי ישתבח ברכה לבטלה משא״כ אם אמר עד״מ תחלה וכדומה בלא ב״ש ואמר ישתבח לא הוי ברכה לבטלה כי מי שאכל ולא בירך ברכה א׳ מש״ה לא יברך ברכה אחרונה אלא לכתחלה אין לעשות כן דישתבח אין מתחיל בברוך דסמוכה היא לב״ש כ״ש בנ״א א״כ אין לומר בלא ב״ש וכ״ה בב״י ומהרי״א ול״ד לאהבה רבה דשם אין סדר מעכב ויש לראות האומרים תהלים ומתרמי תהלה בו ויצאו י״ח באמירת תהלה איך יאמרו אח״כ בברכה ועב״ח ולבוש דהברכה ב״ש וישתבח שמחויב לומר תהלה בכל יום (מ״ש הב״ח להסדיר הא סדור ודוחק לומר שיסדר מיד גם סידר שלש ברכות ראשונות) ובדרבנן א״צ כוונה עמ״א סי׳ ס׳ אות ג׳ ור״ט בזה וי״ל כשמתכוין שלא לצאת ש״ד ואומר דרך תחנונים. שוב ראיתי בסימן נ״ד בב״י בשם הכל בו להסדיר שבח של מקום ולא להפסיק ויתפלל וזה כב״ח יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:2"
+        },
+        "3": {
+          "he": "אין עמ״א. דבין ישתבח ליוצר קיל מבין ב״ש לישתבח ששם רשאי לדבר מצוה ועמ״ש בסי׳ נ״ד אי״ה. והנה הג״ה זו ובסי׳ נ״ד ס״ג ובס״ו ס״ב צריכין ביאור ולדעתי ההדיוטית הכין הוא אם הביאו להם בפסוקי דזמרה יש חילוק הש״ץ יתעטף ויברך שם משיפסיק בין ישתבח שאמר בקול רם ובין קדיש דגנאי לציבור (עיין לבוש) אבל יחיד טוב להמתין בין ישתבח לקדיש משיפסיק קודם ישתבח אבל אם לא הביאו להם רק לאחר ישתבח אף הש״ץ יתעטף ויברך בין ישתבח לקדיש. במ״א נ״ד אות ד׳ ואם הביאו בין קדיש לברכו הויי כבין הפרקים ובין ברכו ליוצר הוי כאמצע הפרק דהא ברכו קאי איוצר אור (אף שאומרים ברוך ה׳ כו׳ ולפי זה בטלית לא יפסיק בין קר״ש לברכו וכ״ש משם ואילך רק יתעטף בלא ברכה וצ״ע אם ימשמש אחר כך ויברך שוב ראיתי בלבוש שם דימשמש ויברך אחר התפלה) ותפילין להמ״א בס״ו אות ד׳ יברך עליהם ובין ברכו ליוצר ימתין עד אהבה רבה ויברך. ולבוש שם פוסק דאף תפילין אין להפסיק ואי״ה שם יבואר עוד בזה ואין להאריך:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:3"
+        },
+        "4": {
+          "he": "ימתין עמ״א הש״ץ ימתין דיסמוך הקדיש מיד ולא היחיד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:4"
+        },
+        "5": {
+          "he": "וישתוק עמ״א דאם שהה כדי לגמור כולה באונס בפסוקי דזמרה דרבנן אין חוזר לראש ול״ד לק״ש ד״ת עיין קפ״ג אות י״א ותכ״ב אות ט׳ ובתפלה אי״ה יבואר בקי״ד בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:5"
+        },
+        "6": {
+          "he": "ש״ץ עמ״א ועיין תקפ״א פ״א בר״ה ויה״כ שיהא נשוי ובן שלשים יע״ש דומיא דכ״ג שיש לו אשה ומשמע בכל השנה אפי/ בשאר ימות השנה אפי׳ אין נשוי מ״מ נשוי קודם לבחור אפי׳ נתמלא זקנו ואפי׳ בשאר ימות השנה נ״ל:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:6"
+        },
+        "7": {
+          "he": "שלא עמ״א וכל שהעבירוהו הוי כלכתחלה יע״ש יש בהג״ה ס״ה הקטן קודם אפי׳ ש״ן קבוע כמ״ש המחבר סעיף ז׳ יע״ש ובן יג״ש וב״ש חכם הוא קודם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:7"
+        },
+        "8": {
+          "he": "מותר עמ״א ובי״ד ב׳ סעיף י׳ וש״ך י״א באם פ״א טריפה אין דיינין ליה כשוגג יע״ש. ועא״ר אות ט׳ בעבר עבירה ושב בתענית אין למנותו אבל כל ימות השנה י״ל דמיקרי פרקו נאה יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:8"
+        },
+        "9": {
+          "he": "מפני עמ״א פירשתיו בט״ז אות ב׳ יע״ש ילקוט כ״ה לומר כל היכא דכ״ה לא מהני מחילה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:9"
+        },
+        "10": {
+          "he": "משהביא עמ״א. וע׳ נ״ה אות ז׳ דתפלה דרבנן הוא ובק״ו אות ב׳ מבואר להמחבר תפלה דאורייתא כסברת הר״מ ז״ל ומוכרח הוא שם וכדבעינן למימר שם אי״ה והר״ב מדשתיק שם אודי ליה. ומההיא דנ״ה אין קושיא ולהתפלל בעשרה ולומר קדושה הוי דרבנן אבל כאן קשה דהוי ספק תורה ונהי מק״ש אין קושיא די״ל דק״ש אין א׳ מוציא חבירו דודברת בם בעינן וכמ״ש בה׳ ק״ש אי״ה מ״מ מתפלה קשה ועמ״ש אי״ה באות ט״ז וי״ט ובסי׳ קכ״ח כמ״א אות מ״ח לענין נשיאת כפים שם י״ל דהוי ברכה לבטלה הוי ד״ת עיין רט״ו ומש״ה צריך לדקדק שם יותר ואי״ה שם יבואר יותר ובחידושינו במס׳ מגילה כתבנו בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:10"
+        },
+        "11": {
+          "he": "סריס עמ״א עב״י הביא מ״ס פי״ד (הי״ז) והנה בן עשרים ובעל זקן וי״ו הפירוד ומ״ש אין לו זקן אע״פ שנראה כסריס הא סריס לא וי״א אף סריס כשר. ומיהו לת״ק באין נראו סימני סריס (דכשר היינו ביש לו ב״ש דאל״ה בתר רוב אזלינן ועדיין קטן הוא כדלקמן נ״ה ס״ה אע״ג דתפלה דרבנן רוב הוא ול״ד לאות י׳) אלא ה״פ אע״פ שאין לו זקן ונראה בעיני העולם כסריס הא סריס גנאי וי״א אף סריס ונראו נו סימני סריס והוא בן עשרים פסק המחבר כי״א ורש״ל ולבוש ושכנ״ג פסקו דאסור וכת״ק שם. ומיהו מהמחבר כאן י״ל דבעינן בן ך׳ דאל״כ לא נתמלא זקנו אבל לפי האמת בן ך׳ דקודם אפי׳ נראו סימנים לאו כלום ועדיין קטן הוא:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:11"
+        },
+        "12": {
+          "he": "ערבית עמ״א כ״ה בב״י דערבית לדידן קבעוה חובה רק שאין מוציא כלום ומיהו מחילת הציבור לא מהני כמ״ש סעיף ו׳. ולפ״ז קטן בערבית אין מוציא בברכת ק״ש ומיהו י״ל דקי״ל בקפ״ו דמוציא ימ״מ ליכא כבוד צבור כה״ג דרובן בקיאין משא״כ כשיש חזרת התפלה גנאי לציבור ה״ג:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:12"
+        },
+        "13": {
+          "he": "אין לו עמ״א ועמ״ש בט״ז ועיין לבוש מ״ש שאין מוציא אחרים אנן קי״ל דמוציא אלא אין כבוד הציבור שקטן יוציא הציבור ואולי אזיל לשיטתיה בקפ״ו משמע דוקא כשקטן אכל כ״ש ואי״ה שם יבואר וכאן אין להאריך:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:13"
+        },
+        "14": {
+          "he": "ש״ץ עמ״א ועא״ר ט״ו וט״ז בשם פ״ח רשב״ג ור״י כ״ג אמר שמא דרשת ברבים ונהנית מד״ת יצאת ליהרג. מזמורים שמזמרים בעכו״ם אם אין מיוחדים להם אין איסור. חסיד קודם לצדיק. כהן קודם ללוי ולוי לישראל ות״ח קודם לכ״ג עם הארץ:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:14"
+        },
+        "15": {
+          "he": "לאלפין עמ״א ובט״ז קכ״ח אות למ״ד ופר״ח כאן מ״ש ממגילה כ״ד ובבא מציעא בהפועלים תירצו התוס׳ הא דהתפלל רבי חייא בתענית שלא היה אחר כראוי כמו ר״ח עיין ר״מ פ״ח מתפלה הי״ב העלו אין ממנין כו׳ הרב ממנה אחד מתלמידיו עכ״מ ולא הראה מקום והפר״ח הראה לתפלת השחר ירד שמואל הקטן אע״פ שהיה אחדים ורבי הוריד לר״ח יע״ש היינו דר״ח קרא לאלפין עיינין הרב יש לו רשות והבן וזה יהיה כוונת הר״מ בסדורו ומיהו עתה הרשות נתונה לזט״ה. גם בעו״ה פסקו הישיבות השם יחזירנו במהרה בימינו אמן:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:15"
+        },
+        "16": {
+          "he": "סומא עמ״א ובע״ץ ך׳ כתב סומא מדרבנן והיינו תפלה גם כן דרבנן בק״ו פירש שלא הז״ג הלואי כו׳ וכט״ז שם ותוס׳ טעם ר״י עא״ר בק״ו ועפר״ח פסק ג״כ דסומא חייב מ״ה וראיה מערבי פסחים סומא חייב לומר הגדה יע״ש ואי״ה בהלכות פסח יבואר ובסי׳ ס״ט אבאר עוד אי חייב בלאוין:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:16"
+        },
+        "17": {
+          "he": "אינו עמ״א ובק״ע אות י׳ לבע״ה עשה אבל א״צ מיד ולגדול אין מסרבין ויעשה מיד יע״ש. (ועסי׳ תר״ץ בחזן לענין המגילה ובמ״א שם ואי״ה יבואר בהלכות ס״ת ומגילה):",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:17"
+        },
+        "18": {
+          "he": "אמתלא עמ״א ועמ״ש בט״ז אות ח׳ מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:18"
+        },
+        "19": {
+          "he": "ונדחו דבריהם עמ״א. מריש ה״א הא דקי״ל כל המצות כולם אם יצא מוציא חוץ מגר ואשה כפי הנראה מרא״ש פ״ק דקידושין גבי מ״ע שהז״ג וברכות כ׳ ב׳ דהם אינם בכלל הערבות ויצא מוציא מטעם ערבות הוא (ע׳ מ״ש בפתיחה כוללת ור״ה כ״ט) כיון דשמענא להא דהמחבר כאן מוכח להיפוך דאל״כ איך גר יהיה ש״ץ ומוציא בחזרת התפלה אחרים הא כבר יצא ונאמר דנאמר דחז״ל תקנו שחוב על ש״ץ שיחזיר התפלח אפי׳ באין שם אינו בקי מ״מ איך מוציא דרבנן ד״ת לדעת המחבר בק״ו ובמ״א שם דסובר תפלה ד״ת ש״מ דגר נמי בכלל הערבות הוא ואע״פ שיצא מוציא ואי״ה יבואר עוד ועבדים יראה דאין בכלל ערבות ובפרשת נצבים לא נזכר עברים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:19"
+        },
+        "20": {
+          "he": "אפי׳ עמ״א ובב״י וכ״ה בלבוש שתמידין אין קריבין שלא מדעתם א״כ ברב וכדומה למה יחיד יכול למחות ואין התשובה בידי מ״מ עכשיו המנהג שהולכין אחר זט״ה או הנבררים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:20"
+        },
+        "21": {
+          "he": "שכבר עמ״א. ועכשיו הרשות ביד זט״ה או הנבררים וכ״מ לפי התקנה ומ״ש מרביץ תורה שיושב בישיבה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:21"
+        },
+        "22": {
+          "he": "קודם עמ״א ובתקפ״א מבואר בס״א דאם מכוין שלא להוציא השונא גם אוהבים לא יצאו ע״כ צריכין החזנים ליזהר בזה ומי שקוראים לתורה ואין עולה אין בכלל עונש ועוזבי ה׳ כי הוא בין גברא לגברא רק מקצר ימיו וגם מזה יזהר האדם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:22"
+        },
+        "23": {
+          "he": "בשביל אביו עמ״א ועי״ד מזה כי תפלה יותר מצוה מקדיש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:23"
+        },
+        "24": {
+          "he": "מי שירצה הקהל עמ״א קדיש אין רשות ביד הקהל לדחותו אם הוא תושב אבל תפלה אין מתפלל בלא רשותם ויראה ודאי דעכשיו ג״כ כמו בש״ץ שאין יחיד מוחה כמ״ש באות כ׳ בשם הלבוש ה״ה כאן שלא ירבה המחלוקת אלא הולכין אחר רוב או נבררים לזה. ועיין קל״ו ורפ״ב במ״א אות ח״י מדין החיובים לקריאת ס״ת ובלבוש ואיזו קודם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:24"
+        },
+        "25": {
+          "he": "בשכר עמ״א ואפשר דהיינו כששניהם שוין אבל אם א׳ מעולה אע״פ שהוא בחנם הוא עדיף וכעת לא מצאתיו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:25"
+        },
+        "26": {
+          "he": "בלא עמ״א. ואם החזיק במצוה יבואר אי״ה בהל׳ ס״ת יעויין שם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:26"
+        },
+        "27": {
+          "he": "שכר ש״ץ עמ״א. מנהג שכתוב בד״מ הוא שחציו לפי נפשות ומכל נשואין מגיע לו כפי הנדן הוא חציו לפי ממון:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:27"
+        },
+        "28": {
+          "he": "נמצא עמ״א תשובה מהני שלא לסלקו אף עבר במזיד אבל למנותו מבואר בס״ה בהג״ה דבמזיד לא מהני תשובה דאין פרקי נאה ואם עשה בילדותו עבירה במזיד ועדיין לא שב אף מינוהו מעבירין אותו דפסול בעבירה לעדות:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:28"
+        },
+        "29": {
+          "he": "שנתפס עמ״א. אבל למנותו אין ממנין כבס״ד ומ״א שם אות ז׳ קלא דלא פסיק מעבירין וצריך לחלק בין קול בעלמא לקלא דלא פסיק עיין אה״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:29"
+        },
+        "30": {
+          "he": "להחליף עמ״א. כשם שת״ח אסור לצאת בשוק בבגדים מלוכלכים כך ש״ץ אע״פ שאין ת״ח הדין כך:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:30"
+        },
+        "31": {
+          "he": "בשירי עכו״ם עמ״א ודוקא שירים המיוחדין לעכו״ם עפר״ח סכ״ג דש״ץ שעבר עבירות חמורות ושב בתשובה ירד לפני התיבה דלא בעינן פרקו נאה אלא בתענית וכ״מ בר״מ ספ״ח מתפלה ולא כדמשמע מטור והמחבר עכ״ל והיינו בר״מ ספ״ח לא זכר פרקו נאה רק בפ״ד מתענית ה״ד הזכירו שע״ז נאמר בגמ׳ תענית ט״ז פרקו נאה ולפ״ז אם ממנין ש״ץ על כל השנה ור״ה ויה״כ יש בעלי תפלות אין איסור ומ״מ אין לנו אלא דברי המחבר והר״ב בסד״ה ומ״מ מ״ש הפר״ח שם אני העני לא הבינותי ועיינתי שם בכל בו (ד״ה לרב יצחק בר׳ יעקב אלפסי) לרב האי כו׳ ושם מיירי בש״ץ שמינוהו כבר ולסלקו אז מהני תשובה ודאי ובתענית אף מינוהו כבר אין מורידין אותו כ״מ שם. ולפ״ז הדין מתחלק לשלשה דינים א׳ למנותו לכתחלה אף בשאר ימות השנה כל שאין פרקו נאה אין ממנין ובאקראי כל שעשה תשובה יורד ובתענית אקראי כקבע דאין יורד ולהעבירו בשאר ימות השנה אין מעבירין אבל בתענית אין יורד אף שהיה ש״ץ כבר. ולפ״ז האידנא שש״ץ צריך עיקר לימים נוראים אפשר דמעבירין כה״ג וי״ל בין תענית א״י ובכל בו משמע בסתם תענית. שוב ראיתי בד״מ אות י׳ הביא תשובת רב האי אין ממנין בתענית ואנן ס״ל דבשאר ימות השנה נמ׳ פרקו נאה הוא נוסחא אחריתי וצריך עיון ואין להאריך:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:31"
+        },
+        "32": {
+          "he": "שאין עמ״א וא״ר ט״ז יע״ש בזקן מאוד ונשמע קולו מרתת ושכור פסול להיות ש״ץ ע׳ חולין פ״ק בלויים פסולים בקול יעויין שם בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:32"
+        },
+        "33": {
+          "he": "ואין הציבור עמ״א. ובסתם אפשר בכלל כל ימי חייו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 53:33"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "אומר עט״ז. ודאי הגמ״י נמי מטעם סמיכות הקדיש הוא (דיוצר אור א״צ עמידה וקדושה שביוצר בישיבה עמ״א נ״ט ב׳) אלא דמשמע נהג״ו הקהל שהם ג״כ צריכים לעמוד בקדיש.ע״ז הביא דברי מהרי״ל שא״צ לעמוד היחיד כקדיש ועיין מ״א וא״ר כתב דבנ״א ס״ו נהנו ממנהנא ומדינא רק הש״ץ יע״ש בלבוש כתב כלשון הטור ויתחיל הש״ץ והמחבר שינה בכיון דצריך להתחיל מב״ש וא״י למה עשה כן הלבוש. גם מ״ש הלבוש כ״ל פסוקי דזמרה השיג בנ״ץ דמקצת סגי והא״ר כתב דבציבור צריך שיאמר כל פסוקי דזמרה. ודאי אם יש למצוא כאחד שאמר מב״ש וכל פסוקי דזמרה עדיף טפי ומסתברא נמי דלא יאמר היחיד ישתבח אם לא אמר קצת פסוקים היינו בשם אבל נוסח ישתבח כך יכול לאומרה עמ״ש בסימן נ״ב ועמ״א:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 53:1"
+        },
+        "2": {
+          "he": "מפני עט״ז. המחבר בכאן חזר מזה שהרי הביא דברי הר״מ כבוד הציבור וסיים בלשון הרא״ש שיתמנה כו׳ משמע אפילו מוחלין אסור וכמ״ש הב״ח והמ״א אות ט׳ ומ״ש מקמ״ג עפר״ח שהב״י שם כתב למרדכי ורבינו ירוחם מהני מחילת הציבור אלא מירושלמי משמע טעם אחר יע״ש ומיהו למ״ש הר״ב בהג״ה שם בקמ״ג בשעת הדחק כו׳ ומ״א ט׳ כבוד הציבור וכאן כו׳ משמע כבוד הציבור מהני מחילה י״ל כבוד הציבור כבוד שמים הוי ולא מהני מחילה וכשס״ח שלם רק שיש טעות וחומש א׳ שלם ליכא כלל כבוד הציבור והוא פשוט: ואגב גררא מ״ש הפר״ח דהר״מ סובר באקראי נמי אין מתפלל קודם שנתמלא זקנו הוא ממ״ש ספ״ג דתפלה הי״א אבל פורס על שמע יג״ש משמע יורד לפני התיבה לא אפילו באקראי ועכ״מ שם כתב ל״ד והלח״מ תי׳ בע״א והנה דלא הקשה ממגילה כ״ד א׳ מאי איריא קטן כו׳ ודיוקא דמתני׳ קטן אין עובר הא יג״ש עובר י״ל דקטן אין עובר ולא מהני מחילת הציבור הא יג״ש מהני מחילת הציבור ונאמר כבוד הצבור באקראי הא קבוע אף הר״מ יודה דלא מהני מחילה ומ״מ המחבר אין סובר כן עמ״ש באות ו׳ מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 53:2"
+        },
+        "3": {
+          "he": "אבל עט״ז התוס׳ בסוכה מ״ב א׳ ד״ה היודע ומגילה כ״ד א׳ ד״ה ואינו כ״כ דתענית הוי אקראי כמו קבע ואין יורד אא״כ נתמלא זקנו (ומ״ש כ״כ הרא״ש ורשב״א לא מצאתיו כעת רק בכל השנה ובקבע אסור אבל לא בתענית באקראי) ועמ״א ט׳ בתענית בעינן זקן ממש כו׳ הנה בתקפ״א בר״ה ויוה״כ מבואר לכל היותר שלשים סגי ושאני תעניות א״י על הגשמים מחמירין טפי ועוד דשם גופא רק משובח יותר זקן (סתם זקן ששים) אבל נתמלא נמי סגי וכ״ה בר״מ פ״ד דתענית יע״ש. ומ״ש טוב יותר לקרב כו׳ עמ״א אות ח׳. ובר״ה ויוה״כ באין נתמלא זקנו אי מהני מחילת הציבור עיין א״ר אות י׳ והוי כעין ס״ס שמא תענית לא הוי קבוע כדמשמע מתוס׳ חולין (להבנת ב״י) ושמא מחילה מהני ומ״מ אין להקל עיין תקפ״א. ובר״ה ויה״כ טוב ליקח ש״ץ צדיק בן צדיק ואין ראיה מבזויי משפחה דמ״מ צדיקים הם. מי שהוא פסול מחמת עבירה אפילו באקראי אסור א״ר בשם משפט צדק והיינו בשלא עשה תשובה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 53:3"
+        },
+        "4": {
+          "he": "לעתים עט״ז ועב״ח חולק בזה אפילו כה״ג נמי מיקרי חזן קבוע וכל שלא נתמלא זקנו אסור הביאו הא״ר ג״כ אות מ״א יע״ש. הא דכתבו אם מחילת הציבור מהני לאו שיתפלל בחזקה אלא בסתמא או שיחיד מוחה רובם מסכימים כה״ג ועיין תקפ״א ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 53:4"
+        },
+        "5": {
+          "he": "יש עט״ז ועמ״א אות י״ב ועב״י בזה. ובחדושינו למסכת מגילה כ״ד הקשינו דקיי״ל לקמן קפ״ו במ״א אות ג׳ דאפילו תרי דרבנן מוציא חד דרבנן אפ״ה אין יורד לפני התיבה פחות מיג״ש אפילו נאמר ק״ש אין אחד מוציא חבירו רק מברכות ותפלה דרבנן אפ״ה בעינן תפלת איש שנאמר מדוע באתי ואין איש או שאין כבוד הציבור שקטן יוציאם משא״כ ערבית ליכא שם חיובא ואין מוציאם ועב״י בשם הכל בו בשם הרב רבי נתן ובהגהות הלבוש ולענין פריסת שמע האידנא דאין אומר רק קדיש וברכו יש להסתפק אם אבל קטן יכול לעשות זה ואי״ה בסימן ס״ט יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 53:5"
+        },
+        "6": {
+          "he": "דהרי עט״ז וכ״כ המ״א אות י״ג דיג״ש שלימות סגי וא״צ יום א׳ ועא״ר באות י״ב בשם תשובת הב״ח קמ״ה דיג״ש שלימות א״צ מעל״ע שלימות כל שיש צ״ה שפיר דמי אבל ביה״ש לא דשלימות בעינן עד צ״ה. אמר הכותב אגב גררא ראיתי לכתוב דרך פלפול קצת ושייך לאות ב׳ יע״ש: הנה הר״מ ז״ל פ״ח מה״ת הי״א כתב באין נתמלא זקנו מפני כבוד הציבור ושם משמע דאפילו באקראי לא מדכתב פורס כו׳ וכמ״ש הפר״ח והנה יש לו הכרע תפלה ד״ת (עסי׳ ק״ו) דאל״כ למה קטן אין יורד כו׳ כדקי״ל בקפ״ו דקטן מוציא דרבנן ובהכרח משום כבוד הציבור וכמ״ש הב״י בשם תשובת הרשב״א בשם הראב״ד ועיין לבוש וא״כ מהני מחילת הציבור (עב״י במעריב מזה) וקשה מאי איריא קטן כל שאין נתמלא זקנו נמי מחילה מהני בקטן נמי ש״מ תפלה ד״ת ודרבנן אין מפיק ד״ת (ולא ס״ל טעם הכל בו בשם הרב רבי נתן דתפלת איש בעינן עב״י ולבוש) ונאמר פורס עם ק״ש ונאמר דמוציא אף בק״ש משא״כ המחבר בס״ו חולק על הר״מ א״כ י״ל תפלה דרבנן וצדק הט״ז בק״ו אות ב׳ ומ״ע שלא הז״ג היינו זמנה כל היום ולילה לדידן דערבית קבעוה חוב עמ״א כ״ח אות ז׳ ואף ע״ג דנשים אין מתפללין ערבית (עמ״א) מ״מ לאנשים שלא הז״ג ויבואר אי״ה בק״ו. מה שיש לעיין בסי״ג פוחח יבואר אי״ה באות ח׳ מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 53:6"
+        },
+        "7": {
+          "he": "שלא עט״ז בקמ״א אות ג׳ סומא עולה לתורה ומברך וש״ץ קורא בתורה אבל סומא אין אומר בע״פ דברים שבכתב אי אתה רשאי בע״פ. ולשון המחבר כאן קשה עלי דמשמע אם מגרס גריסין שרי עיין סימן מ״ט והא קי״ל דאות אחת שלא מן הכתב אסור עיין סי׳ קל״ט דקריאת התורה בציבור דוקא מס״ת כשירה ואפי׳ חומשין לא כ״ש לקרות בע״פ. הן אמת שהכ״מ פי״ב מתפלה ה״ח כתב אסור לקרות אות אחת גיטין דברים שבכתב כו׳ וצ״ע כעת עיין מ״ש במ״ע מתענית יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 53:7"
+        },
+        "8": {
+          "he": "שבגדי עט״ז. המחבר שינה מלשון המשנה והטור (והלבוש העתיק כטור) אף בלבנים כו׳ לומר דלא ירד כלל הן בצבועים ולבנים והא דאף יחף כו׳ בס״ג פוחח זרועותיו מגולים ועיין ר״ן במגילה כ״ד י״מ יח״ף ובחדושינו הארכנו שם ואי״ה בהלכות תפלה יבואר. כתב הפר״ח דאם מיד כשאמר שאין עובר בצבועים אומר הטעם שאין דרך כבוד לה׳ כ״א בלבנים יורד יע״ש. ודוקא שאח״כ אמר אמתלא. בא״ר אות י״ח בשם מהר״מ מינץ פ״א בגדי הש״ץ יהיו נקיים בלא רבב ולכלוך (שוחט יחליף בגדיו) הארוכים ואם קצרים ילבש בתי שוקים עד ברכים (משמע דרשאי להתפלל יחף ומיהו במקום שאין עומדים לפני גדולים כן אסור) ויעמוד באימה ולא ימשמש בנרות להטיבם ועיין במנהגים יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 53:8"
+        },
+        "9": {
+          "he": "יש עט״ז. וממזר אי יכול להיות ש״ץ ע׳ מ״ש בסימן ל״ט במ״א אות ט׳ ושוב ראיתי בא״ר כאן אות כ״ב נתעורר בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 53:9"
+        },
+        "10": {
+          "he": "שכבר עט״ז ועיין לכוש עכשיו אין יחיד יכול למחות ומקבלין ש״ץ ע״י פורעי המס. ונבחרים (או על פי ז׳ טובי העיר) וע׳ תקפ״א. עיין א״ר אות כ״ג הש״ץ במקום כהן מקריב תמידין ונקרא קרוב ור״א היה נקרא קרוב והפיוטים נקראו קרובות (בתי״ו) (שהם מקריבים ישראל לאביהם שבשמים) וגם הם בקרב ובאמצע תפלה. והב״י כתב בסי׳ ס״ח קרוב״ץ קול רנה וישועה באהלי צדיקים וי״ל דנשתבש הלשון מקרובת לקרובץ וכ״ה באבודרה״ם דף כ״א יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 53:10"
+        },
+        "11": {
+          "he": "קודם עט״ז וכ״כ הלבוש הביאותי באות י׳ יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 53:11"
+        },
+        "12": {
+          "he": "מי שירצו עט״ז ויש לראות בתפלת מעריב שהיא כנגד איברים ופדרים ואפשר א״צ דעת בעלים אם יכולין לעכב הואיל ומצוה שיתפלל מי שמת לו אביו ואמו כמבואר בי״ד ומ״מ ודאי אין להתקוטט בשום מצוה עם הציבור שהרי הצנועים מושכים ידיהם עד״מ וא״ר כ״ה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 53:12"
+        },
+        "13": {
+          "he": "ש״ץ בשכר עט״ז. יש עוד טעם שלא כל אחד רוצה להתפלל עמ״א אות כ״ה משמע נמי אף שיש בחנם צריכין העניים ליתן שכירות החזן שש״ץ בשכר עדיף כדאמרינן וע״ל בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 53:13"
+        },
+        "14": {
+          "he": "חצי עט״ז. ולפ״ז הולכין אחר רוב דיעות ומ״מ כבר נתבאר עונשיו הולכין אחר רוב זט״ה או נבחרים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 53:14"
+        },
+        "15": {
+          "he": "דודאי עט״ז. יש קהלות כותבין על קלף סידור מיוחד לש״ץ להתפלל מתוכו ונכון הוא וראוי אף ליחיד להתפלל מתוך הסידור כ״ש ש״ץ שאימת ציבור עליו שיתפלל בפנים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 53:15"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] שליח ציבור וכו'. כן לשון הטור ומשמע דהשליח ציבור יעמוד ולא היחידים, וכתב הב\"ח וכן כתב הדרישה זה לשונו מה שאנו משנין בשבת לומר הקהל בקול רם ישתבח ומיושב ונראה לי משום שתיקנו לומר אחר שהשליח ציבור אומר בפי ישרים תתהלל וכו' שהקהל יאמרו במקהילות, ושייך לומר לקהל ובמקהילות אינו מפרש מהו השבח אלא שמחויבים לשבח, ולכך תיקנו שיאמרו הקהל בקול רם ישתבח והקהל אין טעם לומר מעומד, אבל החזן יאמר בעמידה שיאמר עליו קדיש, עד כאן. והא דכתבו רמ\"א ולבוש סוף סימן נ\"א דנוהגין לעמוד צריך לומר דהתם ממנהגא והכא מדינא קאמר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:1"
+        },
+        "2": {
+          "he": "[ב] וקצת פסוקי וכו'. בלבוש כתב וכל פסוקי דזמרה ונראה לי פירושו דדוקא להתפלל עם הציבור התירו בסימן נ\"ב אפילו בתהילה לדוד לחוד, אבל לכתחילה צריך לומר קודם ישתבח כל פסוקי דזמרה כנזכר לעיל, ועטרת צבי השיג על הלבוש שלא כדין עיין שם. כתב נחלת צבי רבים טועים כשהן בדרך ואין עת להאריך שמתחילין מישתבח ומי שעושה כן מברך תחילה ברכה לבטלה, עד כאן. כתב הלבוש מה שאומר החזן ישתבח לפני התיבה ואין אומר אותה [זה] שאומר הזמירות היינו כדי שיסמוך מיד אחריה קדיש, ועכשיו נתפשט המנהג שאם השליח ציבור קבוע בבית הכנסת בשעת הברכות דשחרית אינו אומר שום יחיד בקול רם ברכת השחר ופסוקי דזמרה רק השליח ציבור אומר הכל ובימי הסליחות אומר הכל המתפלל סליחות, מיהו נוהגין בימות החול דעלמא כשיש אבל או יאר צייט או מהול שיכולין להתפלל בציבור אומר השליח ציבור קבוע ברכות דשחרית, והאבל או יאר צייט או מוהל מתחיל מישתבח וכן כתב פסקי תוס' ועיין לקמן סימן קל\"ג נתבאר דיני תפילת אבל וקדישים. והטעם שנוהגין לומר ברוך שאמר על הבימה שקורין בספר תורה נראה לי משום שהוא כנגד עשרת הדברות שהם עשרה ברוך כדלעיל:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:2"
+        },
+        "3": {
+          "he": "[ג] טלית וכו'. פשוט דהוא הדין תפילין ויותר דינים יתבארו סימן נ\"ד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:3"
+        },
+        "4": {
+          "he": "[ד] ימתין וכו'. לשון מהרי\"ל ימתין חצי שעה ויותר, עד כאן. ועיין בתשובת מהר\"ם מינץ סימן ח' ומשמע שם דאם אמרו ישתבח מיד ואחר כך בא לצירוף מנין אפילו הכי אומרים קדיש אם לא הפסיק אף דבשעת ישתבח לא הוי מנין, וכן בתשובת שער אפרים סימן י\"ז ועיין לקמן סימן נ\"ה סק\"ג. וכתב מגן אברהם אבל היחיד יאמר ישתבח מיד, וכן בשבת אם גמר פסוקי דזמרה קודם השליח ציבור יאמר ישתבח מיד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:4"
+        },
+        "5": {
+          "he": "[ה] ריקם מעבירות וכו'. כתב כנסת הגדולה בשם מהרי\"ט העובר על השבועה אין ביתו ריקם אף על פי שעדיין לא העידו עליו, מכל מקום יש לחוש לקול להושיב בית דין על ככה, ואף על פי שלא עבר אלא על שבועת ביטוי דלהבא דלדעת רש\"י ז\"ל לא מפסיל אין ראוי למנותו שליח ציבור. כתב בהש\"ס בחולין סימן ס\"ט לא יהיה טפש וסכל אלא שיהא רגיל לדבר בעסקי הקהל כפי שצריך. כתב אבודרהם הא דנהגו לקרות לשליח ציבור חזן מטעם דתרגום וירא וחזא שצריך לראות האיך יקרא, עד כאן, ועיין לקמן סימן קמ\"ב עוד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:5"
+        },
+        "6": {
+          "he": "[ו] ושלא יצא וכו'. דוקא למנותו לכתחילה, אבל להעבירו ולסלקו אחר שהוחזק לשליח ציבור אין לנו, מיהו כשיצא עליו שם רע עתה והוא קלא דלא פסיק אפילו יחיד מוחה להעבירו כן כתב כנסת הגדולה בשם תשובת ראב\"ח (מים עמוקים) סימן מ\"א, עוד הביא פוסקים אחרונים דלא בעינן כל המדות אלו אלא בתעניות אבל בשאר ימים אפילו בקבע כל שאינו רשע והוא מרוצה לעם וקולו ערב ורגיל לקרות ממנין לשליח ציבור אף שיצא עליו קול בילדותו, עד כאן. ונראה בימים נוראים על כל פנים יש להחמיר ולדון בדין תעניות גם בשאר ימות השנה טוב להחמיר כפסק שולחן ערוך ולבוש. כתב בספר תורת אמת ההולך בערכאות של כותים אין ראוי להיות שליח ציבור בראש השנה וביום כיפור אלא אם כן עשה תשובה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:6"
+        },
+        "7": {
+          "he": "[ז] מרוצה לעם וכו'. פירוש עניו ונוח לבריות וכו' דכל ש[רוח] הבריות נוחה הימנו רוח המקום נוחה הימנו. כתב תשובת מהר\"ם מינץ [סימן פא] יזהר החזן אם יש ריב וקטט בין שני בעלי בתים שיהא בשב ואל תעשה הן בדיבור הן במעשה הן בגלוי הן בסתר, וכל שכן אם יש עסק ריב לנכרי עם בעל בית שיהא בשב ואל תעשה ואפילו אותו נכרי מחותנו או קרוב שלו. ואם יש לו שום קטטה או איבה עם אנשים או אחת מהקהל אז צריך להעמיד אותו דבר על הרב או על הקהל לפשר ולעשות ככל אשר נראה להם נכון, ואם יהיה חסרון ומניעה מצד שכנגדו אז הוא נקי ומה יש לו לעשות ועיין עוד שם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:7"
+        },
+        "8": {
+          "he": "[ח] וקולו ערב וכו'. ועליו נאמר כבד את ה' מהונך ונבות שהיה קולו ערב נענש בזה. ורגיל וכו' כדי שיהיו הפסוקי תפילה סדורים בפיו. גם נראה לי דאם אינו רגיל לקרות הוא בכלל מסיר אזנו משמוע תורה גם תפילתו תועבה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:8"
+        },
+        "9": {
+          "he": "[ט] במזיד וכו'. נראה דלאו דוקא הרג דהוא הדין שאר עבירות כדלעיל סעיף ד', ודוחק לומר דלעיל מיירי שיצא עליו ולא שעשה תשובה. וכן בכלבו דף קנ\"ו מבואר דאף שעשה תשובה בשאר עבירות מיקרי יצא עליו שם רע. עוד משמע בכלבו שם דהא דפסול במזיד אף ששב בתשובה היינו בתענית אבל בשאר ימות השנה מותר אפילו למנותו לכתחילה, וכהאי גוונא כתב מה\"ר אליהו מזרחי בתשובות סימן (פ\"ו) פ\"ח. כתב כנסת הגדולה בשם נימוקי רמ\"ה הכה את אשתו בעץ המתבקעת והיא מעוברת ולא החשיך עד שמתה וניכר שמאותה מכה מתה אין ראוי להיות שליח ציבור עד כאן לשונו, וצריך עיון לי במקורו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:9"
+        },
+        "10": {
+          "he": "[י] באקראי. הב\"ח ונחלת צבי מסקי דבתעניות וימים נוראים אפילו באקראי אסור. כתב עולת תמיד מיהו אם הצבור רוצים למחול על כבודם צריך עיון למעשה אם הרשות בידן, עד כאן. ותמיהני דהא הב\"ח מסיק בראיות ברורות דאין הצבור יכול למחות אפילו לרשב\"א, ושכן דעת השולחן ערוך וכן כתבו עטרת צבי ושיירי כנסת הגדולה וכן מוכח לי מחדושי רשב\"א סוף פרק קמא דחולין עיין שם כי קיצרתי. ואולי דוקא באקראי בראש השנה ויום כיפור מסתפק, אבל משמע דאקראי דראש השנה ויום כיפור דמי לקבע דשאר ימות השנה דלא מהני מחילה, וכן מבואר בב\"ח ושיירי כנסת הגדולה שם. כתב מגן אברהם דמשמע בסימן תקע\"ט דבעינן זקן ממש בתעניות ולא סגי בנתמלא זקנו. כתב בתשובת משפט צדק מי שהוא פסול מחמת עבירה אפילו באקראי אסור. כתב מהר\"ם שאלת על אדם שנפלו זרועותיו אם ראוי להיות שליח ציבור פשיטא דראוי וראוי הוא דאין מומין פוסלין אלא בכהנים (עיין לקמן סימן קכ\"ח דפסולין מפני שמסתכלין בו והוא מש\"ס) ולא בשליח ציבור ואדרבה מצוה מן המובחר דמלך מלכי המלכים חפץ להשתמש בכלים שבורים כדכתיב לב נשבר ונדכה וגו' עד כאן, הביאו רש\"ל וב\"ח והפרישה סיים וכן נראה לי וראיה מסומא שיורד לפני התיבה, עד כאן. ומכל זה משמע דאפילו לשליח ציבור קבוע ראוי הוא, וכן מבואר בסימנים ים של שלמה פרק קמא דחולין סימן מ\"ח ומראיה שמביא שם מלוים דכשרים לעבודת השיר, ודלא כתשובת מהר\"י ברונא שהביא ס\"ג דדוקא באקראי שרי ועיין בזוהר אמור עמוד קע\"ג דמשמע דאסור השליח ציבור כמו במנהגים, ויש לחלק ועיין חות יאיר סימן קע\"ו דאשתמיטתיה כל הנזכר לעיל:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:10"
+        },
+        "11": {
+          "he": "[יא] לעתים ידועים וכו'. משמע דאין איסור אלא כשממנין זה תחתיו לעתים ידועים כגון שיתפלל במקומו שלא ביומא דכניסה וכיוצא, אבל כשממנין אותו בסתם שיתפלל במקומו כשלא יהיה השליח ציבור פנוי לבוא לבית הכנסת או כשיהיה נחלש קצת מותר למנותו שזה הוי באקראי וכן כתב הט\"ז, וצריך עיון שלא הזכיר הב\"ח שאוסר גם בזה כיון שנתמנה לזה מיקרי קבוע דלא מיקרי באקראי אלא כשאין ממונה כל עיקר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:11"
+        },
+        "12": {
+          "he": "[יב] ויום אחד וכו'. שהביא שתי שערות כדי לכוין ראשן לעיקרן, בית יוסף. ועיין סימן נ\"ה סעיף ה' ודע דלא נאמר ויום אחד להורות דבעינן י\"ג שלימות, אבל מיד אחר י\"ג הוי בר מצוה ולא בעי יום אחד שלם, וכן כתב הסמ\"ע בסימן ל\"ה, ועיין בלחם חמודות פרק יוצא דופן. ובתשובת ב\"ח סימן קמ\"ה מבואר יותר דמיד שהחשיך נעשה גדול אף שאין שלוש עשרה שנה מעת לעת משעה שנולד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:12"
+        },
+        "13": {
+          "he": "[יג] שמותר וכו'. ובלבוש מביא דאין ממנין וכו' הסכים רש\"ל פרק קמא דחולין סימן מ\"ח, וכן פסק שיירי כנסת הגדולה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:13"
+        },
+        "14": {
+          "he": "[יד] של שבת. דוקא כשמתפללין ביום אבל כשמתפללים אחר צאת כוכבים כגון בשעה שעושין חופין, כתב הב\"ח דמותר ושכן משמע במהרי\"ל, וטעמא דלא בעינן אלא שלוש עשרה שנים שלימות כמו שכתבתי לעיל וכן כתבו ט\"ז ומגן אברהם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:14"
+        },
+        "15": {
+          "he": "[טו] הרי זה מגונה וכו'. יותר מזה מצאתי בספר חסידים בשעה שר' שמעון בן גמליאל יצא לדין ליהרג אמר לר' ישמעאל כהן גדול אחי מפני מה אני יוצא ליהרג אמר ליה שמא היית דורש ברבים ושמח לבך ונהנית מדברי תורה אמר ליה אחי נחמתני:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:15"
+        },
+        "16": {
+          "he": "[טז] מפני טורח ציבור וכו'. כתב ים של שלמה סימן נ' אסור לו להאריך שלא ברצון הקהל אפילו בשבתות וימים טובים ואף ברצון הקהל יותר מדאי מגונה כי אין זה לא מחציו לה' ולא מחציו לכם, עד כאן. ועיין בתשובת אמונת שמואל סימן ט\"ז בזקן שקולו נמוך וחלש ומאריך בתפילה שיש לדחותו. כתב בתשובת ב\"ח מה שמזמרים בבית הכנסת ניגונים שמזמרים בבית כותים אין איסור אלא באותו ניגונים שמיוחדים להם אבל אם אין מיוחדים אין איסור. כתב הטור החזן אין תלוי ביחוס וכו', ומכל מקום אם שניהם שוין ודאי מיוחס קודם לשאינו מיוחס וראוי לדקדק על זה כי אינו דומה תפילת בן צדיק וכו' כן כתב הב\"ח בשם רש\"ל, הביאו ט\"ז ומגן אברהם וכן ראיתי בים של שלמה פרק קמא דחולין סימן מ\"ח, אבל בתשובת רש\"ל סימן כ' כתב דדוקא בתפילת עצמו יש חילוק שזכות אבותיו מסייעתו, אבל המתפלל בעבור הציבור אדרבה חשובה היה לפני המקום שמניח מעשה אבותיו והלך בדרכי השם יתברך, עד כאן, וכן כתב מגן אברהם וכן בים של שלמה גופיה פרק גיד הנשה סימן י\"ז וכן כתב הט\"ז מסברא דנפשיה, והוא תמוה דאישתמיטתיה לגדולים הנזכרים לעיל דברי רש\"ל הנזכר לעיל, וכן הוכחתי באליהו זוטא מהא דפירש בעשרה מאמרות על הא דר' אליעזר אמר כ\"ד רננות ולא נענה ירד ר' עקיבא ונענה, ולא שזה גדול מזה אלא שזה מעביר על מדותיו. ופירש בעשרה מאמרות שמעביר על מעשה אבותיו כי ר\"א היה מיוחס ור' עקיבא לא היה מיוחס, ואם כן תיקשי מהא דאינו דומה תפילת צדיק בן צדיק, אלא צריך לומר שאני תפילת ר\"א ור' עקיבא שהיו מתפללין על הציבור, אם כן אם הוא גם כן צדיק כיון שאינו מיוחס עדיף טפי, אבל יצחק היה מתפלל על עצמו שיזכה לבנים ולא על הציבור עדיף צדיק מיוחס שזכות אבותיו מסייעתו. וטעמא נראה לי כמו שמצאתי בתשובת רמב\"ן על הא דכולי עלמא בשביל חנינא בני וחנינא בני די לו בקב חרובין מערב שבת לערב שבת, ופירש הרמב\"ן משום דצריך זכותו ואינו מועיל לעצמו בעולם הזה אבל לבני דורו מהני זכותו, לכך כל העולם ניזון בשביל חנינא וכו'. והוא הדין בזה כשמתפלל על עצמו עדיף צדיק מיוחס שזכות אבותיו מסייעתו כי זכות עצמו אינו מועיל לו, אבל כשמתפלל על הציבור שזכותו מועיל עדיף צדיק שאינו מיוחס שזכותו גדול יותר שמניח מעשה אבותיו כן נראה לי. אך קצת קשה ממה שכתב הטור לקמן סימן תקע\"ט בשליח ציבור דתעניות שלא יהא בבניו ובני ביתו וקרוביו ובכל הנלוים אליו בעל עבירה, עד כאן, ויש לומר דכיון שהם בחיים גרע כדאיתא בשבועות דף ל\"ט אין לך משפחה שיש בה מוכס שאין כולה מוכסין וכו' מפני שמחפין עליו ועוד יש ליישב. כתב רש\"ל בחולין שם חסיד קודם לצדיק רק שיהא לו קול נעים, וכן כתב הזוהר פרשת ויחי על פסוק צהלי קולך בת גלים. כתב כנסת הגדולה בשם תשובת ר\"י ברונא שליח ציבור שנפסל קולו אם נשמע כאילו הוא מרתת ושבור פסול. עוד כתב אם שני חזנים שוים, כהן קודם ללוי, לוי קודם לישראל, ותלמיד חכם קודם לעם הארץ אפילו הוא כהן וכל שכן ללוי:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:16"
+        },
+        "17": {
+          "he": "[יז] לאלפי\"ן וכו'. ומכל מקום במקומות שכולן אינם יודעין ממנין אותן, והוא הדין לקצת מקומות שקורין לחית\"ן היה\"ן אינן ממנין אותן אלא במקומן. ועיין (בס\"ח סימן י\"א) [בספר חסידים סימן י\"ח], ועיין לקמן סימן קכ\"ח סעיף ל\"ג:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:17"
+        },
+        "18": {
+          "he": "[יח] קרוע וכו'. מפני כבוד הצבור כתב בתשובת מהר\"מ מינץ סימן פ\"א בגדי שליח ציבור צריכין שיהא נקיים בלי ליכלוך ורבב ובפרט הסרבל והמטרון ובגדיו יהיו ארוכים שלא יראו רגליו, ואם אינו ארוכים כל כך ילבש בתי שוקים עד ברכים, וטוב שיהא לו מכנסים מיוחד נקי לתפילה. עוד כתב נכון הוא שיכנס החזן לבית הכנסת ראשון ויצא אחרון. עוד שם כשעומד להתפלל יפנה לבו מכל הרהור וטירוד וישים עיניו למטה שלא יסתכל בשום אדם, ויניח ידיו על לבו תחת הסרבל כפיפת יד ימנית על שמאלית ולא יסיר ידיו זה מזה כי אם לצורך להפוך הדפין, ולסדר טליתו וכהאי גוונא, ולא יעסוק בשום דבר אחר כאשר יש מקצת חזנים שיש להם ידים עסקניות בדברי הבל ויטיבו הנרות בשעת תפילתם או יעיינו במנהגם או בשאר דברים וכן לא יעשה עד כאן דבריו בקצרה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:18"
+        },
+        "19": {
+          "he": "[יט] סומא וכו'. דחייב בכל המצוות ואפילו ברכת יוצר אור דנהנה מה שאחרים רואין ויוליכוהו כמו שנתבאר סוף סימן ס\"ט:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:19"
+        },
+        "20": {
+          "he": "[כ] שלא יקרא וכו'. לקמן סימן קל\"ט יתבאר דנהגו עכשיו לקרות סומא לספר תורה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:20"
+        },
+        "21": {
+          "he": "[כא] ולא ימתין וכו'. והא דכתיב לקמן סימן תר\"צ דלא יקרא המגילה עד שיאמר לו קרא מפני כבוד צבור, יתבאר שם בס\"ד. כתבו תוס' סוף פרק ז' דפסחים [דף פ\"ו ע\"ב ד\"ה אין מסרבין] דבר גסות ושררה אפילו האומר אדם גדול יסרב:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:21"
+        },
+        "22": {
+          "he": "[כב] מפני שבגדים צבועים וכו'. כתב עולת תמיד מדהשמיט השולחן ערוך לעיל סימן ל\"ט דין ממזר אלמא דכשר לכתוב תפילין והוא הדין דכשר להיות שליח ציבור. ונראה דהיינו בדליכא אחר או שאביו עשה תשובה נכונה, אבל בלאו הכי הא אמרו חז\"ל אינו דומה לתפילת צדיק בן צדיק וכו' עד כאן. וצריך עיון ביו\"ד סימן רפ\"א דפסק השולחן ערוך דספר תורה שכתב ממזר פסול, והטעם כתב הש\"ך בשם המרדכי דממזר אינו מוציא רבים ידי חובתן וכל שאינו מוציא פסול לכתוב. ובאמת לשאר טעמים שכתב הש\"ך שם אפשר לחלק בין ספר תורה לתפילין אבל טעם זה נראה עיקר עיין שם. שוב מצאתי במגן אברהם סימן ל\"ט שכתב בשם דרכי משה דממזר כשר לכתוב תפילין וצריך עיון, ומה שכתב עולת תמיד לדחותו משום אינו דומה לתפילת צדיק וכו' כבר כתבתי דנהפך הוא לענין השליח ציבור:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:22"
+        },
+        "23": {
+          "he": "[כג] אפילו יחיד וכו'. דמי יכול להקריב קרבנו שלא מדעתו (בית יוסף), זה מסכים למה שכתב ר' דוד אבודרהם דף מ\"ז דע כי שליח ציבור הוא במקום כהן המקריב ולכן נקרא גם שליח ציבור קרוב, כדאיתא במדרש שיר השירים כד דמך ר' אלעזר ב\"ר שמעון היה דורו קורא עליו מקוטרות מור ולבונה מכל אבקת רוכל דהוי ר' אלעזר קרוי ותנוי וקרב ופיטין. ומזה הטעם נקראו הפיוטים שאומר השליח ציבור באמצע התפילות קרובות ואפשר שנקראו כן מפני שאומרים אותן בקרב התפילות ובאמצעתם, עד כאן, ומזה נכון שנשתבש הלשון שקורין לפעמים קרוב\"ץ, ופירש הבית יוסף בסימן ס\"ח שהוא ראשי תיבות קול רינה וישועה באהלי צדיקים, והוא טעות אלא צריך להיות קרובות בתי\"ו וכן קרי להו באבודרהם דף כ\"א, ועיין במעדני מלך דף מ\"ב דאשתמיט ליה דברי ר' דוד אבודרהם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:23"
+        },
+        "24": {
+          "he": "[כד] יכול למחות וכו'. כתב רש\"ל סימן נ\"א אם ידוע שכבר שונאים זה את זה יכול למחות בו אף אם אינו חשוב אלא שהוא אמיד והוא מבעלי הנושאין עולים ומיסים. ודוקא שיש שליח ציבור אחר שיוכלו הקהל להשכיר בדמיו של זה, אבל אם אינו בנמצא לאו כל כמיניה לעכב על הקהל עבור שנאתו ואף אם הוא יברר בטענתו שזה השני מעולה מן הראשון כנגד הוספת דמים, אפילו הכי יכולים לומר אין יכולת בידינו להוסיף כל כך בדמים עד כאן דבריו בקצרה. וכתב שיירי כנסת הגדולה היינו כשאינו רוצה מפני שנאתו אבל כשנותן אמתלא שאינו ראוי להיות שליח ציבור. אפילו מי שאינו נושא בעול יכול למחות, ועיין לעיל סימן תקפ\"א. כתב הלבוש דבזמן הזה אין יחיד יכול למחות עיין שם. כתבו שיירי כנסת הגדולה ועולת תמיד בשם רש\"ל אם הוציא השליח ציבור שם רע על המוחה הזה אף שקיבלו ופייסו יכול למחות, עד כאן. ולפי זה אף בשכבר נתקבל לשליח ציבור והסכים עליו יכול למחות. ואני עיינתי בים של שלמה גופיה פרק קמא דחולין סימן נ\"א וכתב זה לשונו אף שקיבל דינו ופייסו וכו' ואם כן אם כבר הסכים עליו יכול למחות:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:24"
+        },
+        "25": {
+          "he": "[כה] בשביל אביו וכו'. פירוש שמת אביו דדוקא קדיש יכול לומר. כתב דרכי משה אין להתקוטט בעבור שום מצוה שהרי הצנועים מושכים ידיהם מלחם הפנים על כן כל המתפלל בחזקה ואלמות אין מתקבלת ואין עונין אמן אחר ברכותיו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:25"
+        },
+        "26": {
+          "he": "[כו] אין למנות שליח ציבור וכו'. ובלבוש כתב אף נתמנה מציבור לא ישתדל להחזיק, עיין שם. ויראה לי דעכשיו אין ליחיד למחות אם נתמנה השליח ציבור על פי תקנה אף שיחידים מעכבים רשאי להחזיק על פי כותים, כיון שנתמנה על פי הדין. ואף שבבית יוסף מביא מעשה כשכבר נתמנה, היינו כשלא היה מעכב כלל אלא נתכוין לחלוקת כבוד עיין שם, או כשמעכבין על פי הדין לפי הקדמונים וצריך עיון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:26"
+        },
+        "27": {
+          "he": "[כז] עדיף וכו'. ואין אחר שאינו הגון רשאי להתפלל גם השליח ציבור נזהר ללמוד יותר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:27"
+        },
+        "28": {
+          "he": "[כח] והחצי לפי הנפשות וכו'. לפי זה הולכין גם כן אחר רוב דעות וכן כתב עולת תמיד ולבוש סעיף כ' כתב אחר רוב פורעי מיסים. יש לפרש נמי הכי דבין נותן רב או מעט דעתן שוה כיון שנותן מס ועיין בחושן משפט סימן קס\"ג סעיף ג' ובסמ\"ע ובתשובת נחלת צבי סימן א\"ב, ולשון הט\"ז רוב פורעי מס או קריאי עדה. כתב הלבוש במקום שאין מנהג יגבו לפי ממון וכן פסק מהרי\"ל בתשובות סימן ס\"ו, וכתב כנסת הגדולה שכן מנהגם, ורשד\"ם פסק דהולכין אחר רוב ממון משמע נמי הכי:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:28"
+        },
+        "29": {
+          "he": "[כט] ואין מסלקין וכו'. משמע דוקא לסלקו, אבל למנותו לכתחילה לא כמו שנתבאר בסעיף ד' וכתב בתשובת ראב\"ח סימן נ\"ז כל שהוציא וסלקו הרי עכשיו כתחילת הקבלה. כתב הכלבו דף קנ\"ה המאיים על חבירו למסרו בעלילת שקר ולא מסר אף על פי שמכוער הדבר אפילו לשאר אדם שאינו שליח ציבור אינו נפסול כל כך להעבירו, אלא שגוערין בו ומתרין בו שאם יוסיף לומר כדברים הללו שיעבירוהו ממעלתו ואם הוסיף במרדו ראוי להעבירו, עד כאן. כתב כנסת הגדולה שליח ציבור שבתו זנתה תחת בעלה אם אפשר באחר מסלקין אותו, עד כאן, ועיין לקמן סימן קכ\"ח סעיף מ\"א מה שכתבתי שם. עוד כתב כנסת הגדולה בשם רש\"ל בתשובות סימן כ' נמצא בחזן פסול שאין תלוי בחזנות אפילו מכר טריפות בחזקות כשירים אם בא ואמר בשבועה לא חטאתי, ואם בעיניכם חטאתי הריני מוכן לקבל תשובה אין מסלקין אותו, עד כאן. ועיינתי בתשובה גופיה וראיתי שסיים זה לשונו דנראה בעיני אפילו מאכיל טריפות במזיד בחזקת כשרים ובא והודה על עוונותיו ורוצה לקבל תשובה שאין יכולין להורידו תוך זמנו, עד כאן. וצריך לומר דסבירא ליה דלמעשה לא רצה רש\"ל לסמוך על זה ולא כתב אלא דנראה בעיניו, וכן משמע בסימני רש\"ל פרק גיד הנשה סימן י\"ז מיהו כשכבר עשה תשובה ודאי אין מורידין אותו כמו שיתבאר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:29"
+        },
+        "30": {
+          "he": "[ל] מעבירין אותו וכו'. כתב עולת תמיד שמעתי מפי הרב מהור\"ר דוד ממגנצ\"א, דהא דמעבירין אותו היינו בדלא עשה תשובה, אבל אם עשה תשובה אין מעבירין אותו, ומביא ראיה מדברי רמ\"א בסימן קכ\"ח סעיף ל\"ה ול\"ז לענין כהן ודבריו נכונים, עד כאן. ואני אומר דמבואר כן להדיא במקור הדין בכלבו בסוף הסימן זה לשונו אם נתברר בשני עדים כשרים ולא עשה תשובה מעבירין אותו, עד כאן, הרי דאם עשה תשובה אין מעבירין. ועוד דראיה שמביא מסימן קכ\"ח לאו ראיה הוא לכאורה דהא הוא גופיה כתב שם דיש חילוק בין נשיאת כפים לשליח ציבור, דלנשיאת כפים אינו מזיק השם רע. כתב תשובת רשד\"ם סימן ל\"ב שאין מחזירין אותו בקבלת דברי חבירות ואפילו נשבע עד שישוב בתשובה שלימה בלי ערמה ומרמה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:30"
+        },
+        "31": {
+          "he": "[לא] [לבוש] החליף וכו'. וטוב שיחליף בגדיו כל היום כשהולך בין הבריות שלא יהא בכלל המשניאים:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:31"
+        },
+        "32": {
+          "he": "[לב] [לבוש] שאין קול הבן ערב וכו'. ובלבד שלא יהא קולו משונה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:32"
+        },
+        "33": {
+          "he": "[לג] הזמן וכו'. כתב בים של שלמה פרק קמא דחולין סימן ב' אם כבר נתקבל לזמן ואין יכולין לברר עליו שעשה שלא כהוגן, אף חצי הקהל אין יכולין להעבירו תוך זמנו אפילו רוצין לשלם לו כל שכרו אבל כל הקהל יכולין להעבירו אם ירצו ליתן לו שכרו משלם, עד כאן, וכן כתב בתשובות סימן כ'. כתב רמ\"א יש שכתבו דשליח ציבור יתפלל מתוך הסידור המיוחד לציבור והטעם כתב הט\"ז דודאי נכתב לשם שמים, ולא לשם התפארות, ואם כן בסידורים הנדפסים אין חילוק:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 53:33"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אומר ש\"ץ.  משמע דוקא הש\"ץ יאמר אותו מעומד אבל לא יחיד ונתן מו\"ח ז\"ל טעם לדבר שאין צריך לעמידה מצד אמיר' ישתבח עצמו אלא לפי שצ\"ל אחריו קדיש מעומד וכשיאמר הש\"ץ ישתבח מיושב יצטרך להפסיק בעמידה בין ישתבח לקדיש שאחריו אבל לא משמע כן בהג\"מ שמבי' ב\"י וז\"ל המספר בין ישתבח ליוצר אור עבירה הוא בידו ולכך נהגו לומר ישתבח מעומד כמו יוצר שהרי אסור להפסיק בנתיים עכ\"ל. משמע דאכל אדם קאי וכבר כ' רמ\"א בסי' נ\"א שנהגו לעמוד כשאומרים ישתבח ובמהרי\"ל כתוב שמהר\"י סג\"ל לא היה עומד לא לקדיש ולא לברכו אך כל קדיש שתפסו מעומד נשאר עומד עד שסיים אמן יהא כו' וכן ראיתי בס' כוונות מהאר\"י ז\"ל  ונ\"ל שגם הטור והש\"ע לא נתכוונו שצריך לעמוד באמיר' ישתבח אלא נתכוונו שהש\"ץ שצריך לעמוד לפני התיבה בהתחלתו לומר ברכו יקדים עצמו באמירת ישתבח שיאמר ג\"ז בעמידה כדי שיהיה זה מצורף אל מה שאומר אחריו בלי הפסק:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 53:1"
+        },
+        "2": {
+          "he": "מפני כבוד הצבור.  כ\"כ הרמב\"ם וכב\"י דלפ\"ז אם הצבור רוצים למחול על כבודם שפיר דמי לקבלו אלא דהרא\"ש לא ס\"ל הכי ודבריו תמוהים דודאי אף להרמב\"ם לא מהני מחילה דודאי כבוד הצבור בזה הוא כבוד שמים שמתכוני' לכבד הש\"י בש\"ץ שהוא ראוי להיות מליץ בעד הקהל נגדו ית' וזהו מוכח ממ\"ש בפרק הניזקין שאין קורין בחומשין בצבור מפני כבוד הצבור. ובסי' קמ\"ג כתבו הפוסקי' סתם אין קורין בחומשים בצבור ולא זכרו טעם דכבוד צבור ואם איתא דמהני מחיל' היה להם להזכיר הטעם כדי שנלמוד מזה דמהני מחילה אלא ודאי שלא מהני מחילה בדברים אלו שנוגעים בכבוד שמים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 53:2"
+        },
+        "3": {
+          "he": "אבל באקראי כו'.  בב\"י מביא דעת התוס' פ' לולב הגזול דלירד בתעניות ומעמדות הוי כמו ש\"ץ קבוע וצריך שיתמל' זקנו דוקא וכ\"כ הרשב\"א והרא\"ש: בטור  כתוב בשם הרא\"ש שאין מעלות הש\"ץ תלוי ביחוס משפחה דאם הוא מן משפחה בזויה וצדיק טוב לקרב מזרע רחוקים שנאמר שלום שלום לרחוק ולקרוב וכ' רש\"ל מ\"מ אם שניהם שוים בודאי מיוחס קודם לשאינו מיוחס כי אינו דומה תפלת צדיק בן צדיק כו' עכ\"ל. ולעד\"נ מדכתב הרא\"ש טוב לקרב מזרע רחוקים ש\"מ שיש כאן עוד אחר מזרע שאינם רחוקים דלשון טוב לקרב משמע שיש ברירה ואפ\"ה טוב לקרב זה שהוא אינו מיוחס כדי לקרבו לאותו זרע לשכינה  דרחמנא לבא בעי ותהיה תפלתו נשמעת יותר מצדיק בן צדיק וזה נלמד מפסוק לרחוק ולקרוב כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 53:3"
+        },
+        "4": {
+          "he": "לעתים ידועים.  דזה הוה קביעות לאותם העתים ופשוט שאין בכלל זה אם מינוהו הקהל שיהי' הוא מוכן להתפלל באם לפעמים לא יהיה החזן בב\"ה שיעמוד זה להתפלל אין בזה איסור כלל דאין זה מקרי קבוע כלל כיון שאפשר שלא יבא לידי כך ולא אסרו בקבוע אלא לעתים ידועים שלאותו עת הוא קבוע בודאי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 53:4"
+        },
+        "5": {
+          "he": "יש ללמוד זכות כו'.  לפי שבתפלה ההיא א\"א קדושה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 53:5"
+        },
+        "6": {
+          "he": "דהרי עדיין וכו'.  מבואר שם הטעם שהרי אנו מתפללין ערבית בע\"ש מבע\"י משמע דאם מתפללין ערבית אחר יציאת כוכבים ש\"ד וכ\"כ מו\"ח ז\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 53:6"
+        },
+        "7": {
+          "he": "שלא יקרא בתורה.  עסי' קמ\"א מדין סומא לקריאת התורה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 53:7"
+        },
+        "8": {
+          "he": "שבגדי צבועים.  ל' המשנה אף בלבנים לא יעבור. לכאורה מפרש הלשון דאף הוא לפי כוונתו אע\"פ שהוא מרוצה בלבנים מ\"מ אנן לא שבקי' ליה ולפ\"ז אם הוא מתחרט ואומר הריני עובר בצבועים שבקי' ליה אלא שמדברי הש\"ע משמע דלא שבקי' ליה כלל באותה תפלה ע\"כ צ\"ל דה\"ק ל\"מ כי הדר ואמר הריני מתפלל בצבועים פשיטא דלא ירד דאנו רואים שתחלה הקפיד על מינות שלו אלא שאח\"כ חוזר בו מיראת אנשים דאם לא כן אין דרך בני אדם לחזור מדיבורו כ\"כ אבל בלבנים אין אנו רואים בבירור שום הוכחה למינות ע\"כ אפשר לומר דמשום טעם אחר קאמר כמו לצניעות או כיוצא בזה ע\"כ אמר אף בלבנים לא יעבור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 53:8"
+        },
+        "9": {
+          "he": "יש מונעים גר כו'.  לפי שלא יוכל לומר אלהי אבותינו ונדחו דבריהם דכתיב כי אב המון גוים נתתיך דהיינו מכאן ואילך תהיה אב המון לכל גוים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 53:9"
+        },
+        "10": {
+          "he": "שכבר הסכים עליו.  נראה דאם קבלוהו לזמן ונשלם הזמן לא מקרי הסכים עליו תחלה דעכשיו הוי קבלה חדשה וכאלו לא היה שם עדיין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 53:10"
+        },
+        "11": {
+          "he": "קודם שהסכים.  כ' שם מהר\"מ פדואה שכשהוא מרוצה עם הקהל וגם הוא הסכים עליו תחלה אז מקבלין אותו הש\"ץ והש\"ץ צ\"ל בפירוש שיהא יוציא גם את פלוני שונאו בתפלה ושכן נהגו קדמונים וכבר יש מנהג ברוב הקהלו' בענין קבלת הש\"ץ שהוא ע\"פ רוב פורעי המס או קריאי עדה ואין השאר יכולים למחות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 53:11"
+        },
+        "12": {
+          "he": "מי שירצ' הקהל כו'  שהתפלות במקום תמידין תקנו ואין ראוי שיהיה שלוחם בלא דעתם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 53:12"
+        },
+        "13": {
+          "he": "ש\"ץ בשכר וכו'.  כי אז נזהר יותר בתפלתו בשביל שכירתו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 53:13"
+        },
+        "14": {
+          "he": "חצי לפי ממון.  כי יש סברא לומר שהעני צריך חזן כמו העשיר ויש לפעמים שהעשירים נותנים יותר ממון להחזן שקולו ערב יותר על כן עשו פשרה זאת:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 53:14"
+        },
+        "15": {
+          "he": "דודאי נכתב לשמו.  פי' נכתב לש\"ש ולא לשם התפארות כ\"ה להדיא במהרי\"ל ה' ר\"ה וא\"כ בסידורים הנדפסים אין חילוק בזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 53:15"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "כל הט\"ו שבחים שבישתבח מן שיר ושבחה וכו' עד מעתה יאמר בנשימ' אחת (של\"ה): מעומד. כדי שיסמוך לו הקדיש מיד משמע דכשמתפלל ביחיד א\"צ לעמוד וה\"ה בשבת שהחזן מנגן בא\"י א\"צ היחיד לעמוד כשאומר ישתבח (ב\"ח) אבל בס\"ס נ\"א משמע דצריך לעמוד:",
+          "en": "",
+          "ref": "Magen Avraham 53:1"
+        },
+        "2": {
+          "he": "אין לומר. דהיא ברכה אחרונה על פסוקי דזמרה כמ\"ש ר\"ס נ\"א:",
+          "en": "",
+          "ref": "Magen Avraham 53:2"
+        },
+        "3": {
+          "he": "אין לברך. דהרי אפילו לצורך מצוה אסור להפסיק כמ\"ש סי' נ\"א ס\"ד:",
+          "en": "",
+          "ref": "Magen Avraham 53:3"
+        },
+        "4": {
+          "he": "ימתין הש\"ץ. אבל היחיד יאמר ישתבח מיד וכן בשבת אם גמר פסוקי דזמרה קודם הש\"ץ יאמר ישתבח מיד:",
+          "en": "",
+          "ref": "Magen Avraham 53:4"
+        },
+        "5": {
+          "he": "וישתוק. פי' שלא יפסיק בדבור וכתב ר\"מ מינץ סי' ח' בשם מהרי\"ל דיכול להמתין חצי שעה עם ישתבח דזהו שיעור כדי לגמור כולה דא\"צ לחזור לראש לכ\"ע וער\"ס ס\"ה, ומ\"מ נ\"ל דאפילו שהה מחמת אונס כדי לגמור כולה א\"צ לחזור לראש עמ\"ש סי' קפ\"ג:",
+          "en": "",
+          "ref": "Magen Avraham 53:5"
+        },
+        "6": {
+          "he": "ש\"צ צריך כו'. עסי' תקע\"ט גבי תענית בעינן עוד דברים כהנה והכל לפי הענין:",
+          "en": "",
+          "ref": "Magen Avraham 53:6"
+        },
+        "7": {
+          "he": "אפי' בילדותו. היינו שלא למנותו לכתחלה אבל אין מעבירין אותו מפני זה וכשיוצא עליו ש\"ר עתה והוא קלא דלא פסק אפי' יחיד יכול למחות להעבירו (ראב\"ח ח\"ב סי' מ\"א) ע\"ל סכ\"ה כל שכבר העבירוהו ועמד כך ימים ושנים בהסכמת הקהל ורוצים למנותו הוי עכשיו כתחלת קבלה ואפי' מיעוט יכולין למחות (ראב\"ח ח\"ב סי' כ\"ז ורשד\"מ ומ\"צ ח\"י סי' ע\"ז) אם המוחים הם המנהיגים הוי כאלו מוחים כל הקהל אם לא במקום שיש בוררים ויש חרם שלא לשנות גזירתם אז אין מועיל מחאת הפרנסי' [מ\"צ שם] ראוי שש\"ץ יהי לו בגדים ארוכים שלא יראה רגליו ויכנס לב\"ה ראשון ויצא אחרון (רמ\"מ סי' ח'):",
+          "en": "",
+          "ref": "Magen Avraham 53:7"
+        },
+        "8": {
+          "he": "מותר להיות ש\"ץ. דלא מקרי אין פרקו נאה אלא דוקא שהיה מועד לעשות דברים שאינם מהוגנים אבל מי שבאה לידו שגגת מעשה ומתחרט הרי זה צדיק גמור לכל (ד\"מ א\"ז) ומזה הלשון משמע דאפי' עבר פעם א' במזיד ושב שרי עד שיהא מועד לכך ועבי\"ד סי' ב' וצ\"ע למה כ' רמ\"א דבמזיד לא ור\"א ששון סי' קנ\"ז כ' בשם רא\"ם סי' פ\"ז דאפי' המיר ושב יכול להיות ש\"צ קבוע וכ\"כ בכ\"ה בשם מהר\"א בתשו' ב\"י סי' ג ועיין ראב\"ח ח\"ב סי' מ\"ב והרי\"ט ובמ\"צ ח\"א סי\"ח כ' דמי שנעשה תוגר וחזר יכול להיות ש\"ץ לכ\"ע ורש\"ל בתשו' סי' כ' כתב דלא בעינן כל המדות אלא בת\"צ ע\"ש ועיין בתשו' ר\"ש הלוי חי\"ד סי' נ\"ה ורש\"ך ח\"ב סי' ק\"ז ש\"ץ שיצא פעמים רבות טריפה מתחת ידו מסלקין אותו מש\"ץ (מ\"ץ ח\"ב סי' ע\"ה) ועיין ברש\"ל סי' כ' ונ\"ל דאם עבר עבירה באונס לכ\"ע מותר וכמ\"ש סי' קכ\"ח, טוב לחזור אחר ש\"ץ בן צדיק כי אינו דומה תפלת צדיק בן צדיק כו' (ב\"ח רש\"ל) מי שנפלו זרועותיו מותר להיות ש\"ץ שדרך הקדוש ברוך הוא להשתמש בכלים שבורים כדאמר  במדרש ויראו שלא יהיה ש\"ץ טיפש (רש\"ל פ\"ק דחולין) אבל בזוהר אמור ע' קע\"ג אי' דהא דקב\"ה משתמש בכלים שבורים היינו דכא ושפל רוח אבל מי שיש בו מום הוא פגום ע\"ש שהאריך בזה ולכן כהן בעל מום פסול לעבודה וא\"כ גם בש\"ץ יש ליזהר, ועוד הקריבהו נא לפחתך וגו':",
+          "en": "",
+          "ref": "Magen Avraham 53:8"
+        },
+        "9": {
+          "he": "מפני כבוד הצבור. ואם רצו הצבור למחול על כבודם רשאים (ש\"ג וכ\"כ הר\"י לדעת הרמב\"ם) אבל ממ\"ש בסמוך שלא יתמנה מפי הצבור משמע אפי' הצבור מוחלין אסור וכ\"כ הב\"ח עב\"י ומ\"מ לכתחלה אין לעשות כן ולענין תענית משמע בסימן תקע\"ט דבעי' זקן ממש דלא כדמשמע בתו' דמגילה דבנתמלא זקנו סגי:",
+          "en": "",
+          "ref": "Magen Avraham 53:9"
+        },
+        "10": {
+          "he": "משהביא ב' שערות. וכל שבא לכלל י\"ג אין מדקדקין בשערות כמ\"ש סי' נ\"ה ס\"ה:",
+          "en": "",
+          "ref": "Magen Avraham 53:10"
+        },
+        "11": {
+          "he": "סריס. נ\"ל דוקא שנראו בו סימני סריס כמ\"ש סי' נ\"ה ס\"ה ורש\"ל כ' בחולין סי' מ\"ה שאין זה כבוד צבור למנות סריס:",
+          "en": "",
+          "ref": "Magen Avraham 53:11"
+        },
+        "12": {
+          "he": "ערבית במ\"ש. דהא אינו מוציא הרבים ידי חובתן דהא אין מחזירין התפלה רק שאומר קדיש וברכו:",
+          "en": "",
+          "ref": "Magen Avraham 53:12"
+        },
+        "13": {
+          "he": "אין לו י\"ג. פי' דבמדינתנו מתפללין ערבית מבע\"י והוא לא נכנס בשנת י\"ד עד תחילת ליל שבת שהוא יום שנולד בו, אבל אם מתפללים ערבית בלילה מותר לעבור לפני התיבה, והא דאמרי' בכ\"מ י\"ג שנה ויום אחד פי' דבעי' י\"ג שנה שלמים וכיון שמתחיל היום שנולד בו יום א' קרינן ביה (ב\"ח) ונ\"ל שגם דעת רמ\"א כך היא עמ\"ש סי' נ\"ה ס\"ט וכ\"כ הש\"ך בח\"מ סי' ל\"ה באורך ובסמ\"ע:",
+          "en": "",
+          "ref": "Magen Avraham 53:13"
+        },
+        "14": {
+          "he": "ש\"ץ שמאריך כו'. מי שיש לו קול נעים ירנן להקב\"ה ולא שאר רננות ואם רק יקנח ואח\"כ יתפלל (ס\"ח סי' רנ\"א):",
+          "en": "",
+          "ref": "Magen Avraham 53:14"
+        },
+        "15": {
+          "he": "לאלפי\"ן עייני\"ן. פי' הברת העיי\"ן בחוזק ועמוקה יותר מהברת האל\"ף וה\"ה למי שקורא חית\"ן ההי\"ן, ואם כולם מדברים כך מותר להיות ש\"ץ (רדב\"ז ח\"ב סימן מ\"ה ורי\"ט ח\"א סי\"ו וע' בס\"ח סימן י\"ח) (כ\"ה):",
+          "en": "",
+          "ref": "Magen Avraham 53:15"
+        },
+        "16": {
+          "he": "סומא חייב בכל המצות. דאין הלכה כר\"י פ' החובל וכ\"פ הב\"ח דלא כנ\"ץ:",
+          "en": "",
+          "ref": "Magen Avraham 53:16"
+        },
+        "17": {
+          "he": "אינו מסרב לו כלל. דאין מסרבין לגדול וכתבו התו' ספ\"ז דפסחים דבדבר גסות ושררה אפילו האומר לו הוא אדם גדול יסרב ועמ\"ש סי' ק\"ע ס\"ה:",
+          "en": "",
+          "ref": "Magen Avraham 53:17"
+        },
+        "18": {
+          "he": "אמתלא לדבריו. כגון שאומר שעושה כן לכבוד המקום דרך ענוה וללבוש לבנים מ\"מ כיון שהצבור מבקשים ממנו להתפלל להם כך אין ראוי להיות סרבן (שם):",
+          "en": "",
+          "ref": "Magen Avraham 53:18"
+        },
+        "19": {
+          "he": "ונדחו דבריהם. דגר יכול לומר אלהי אבותינו דאברהם נקרא אב המון גוים:",
+          "en": "",
+          "ref": "Magen Avraham 53:19"
+        },
+        "20": {
+          "he": "אפילו יחיד. וגם בכל המינוים יכול למחות ואפילו במרביץ תורה (רשב\"ם סי' מ' ור\"ב סימן כ\"ה ומ\"צ סי' ע\"ה ע\"ו) מיהו דוקא כשרוצה לקבל אחר ע\"ש (כ\"ה) וביש\"ש פ\"ק דחולין סי' נ\"א כתב דוקא שיש אחר לשכור בדמיו של זה אז יחיד יכול למחות, ובלבוש כתב ועכשיו הולכין אחר רוב פורעי המס אפי' פסולי קורבה ביניהם ויש מקומות שממנין י\"א או י\"ג אנשים על זה והכל שלא ירבו המחלוקת ואין משגיחין על יחיד וכ\"כ בכ\"ה בשם רשד\"מ ומהר\"א די ביטין סי' ב', ונ\"ל דדוקא בזמניהם שהיה הש\"ץ מוציא הרבים י\"ח בתפלתו אז היה יחיד יכול לעכב דאין נעשה שלוחו בע\"כ משא\"כ עתה שכלם בקיאין רק הש\"ץ הוא לפיוטים אף על פי שאומר קדיש וברכו אין כ\"כ קפידא, וכ' ראב\"ח ח\"ב סי' מ\"א אפי' למ\"ד יחיד יכול למחות אם בא בטענת פסול אין יכול למחות דיש לחוש לפגמו:",
+          "en": "",
+          "ref": "Magen Avraham 53:20"
+        },
+        "21": {
+          "he": "שכבר הסכים עליו. ורבים יכולים למחות אפי' אחר שהסכימו (כ\"ה) אפי' מיעוט כופין את הרוב לקבל מרביץ תורה (ר\"ש הלוי כ\"ה):",
+          "en": "",
+          "ref": "Magen Avraham 53:21"
+        },
+        "22": {
+          "he": "קודם שהסכים עליו. אבל אם נעשה שונאו לאחר שהסכים עליו אין יכול למחות אלא הש\"ץ מחוייב לו' בפירוש שיסיר הקנאה מלבו ויוציאנו בתפלתו [מהרמ\"פ שם] ועסי' תקפ\"א: בד\"מ בשם א\"ז אין ש\"ץ צריך להחניף לצבור במילי דשמי' וצריך להוכיחן ובשם ר\"י חסיד כ' ש\"ץ צ\"ל אהוב לקהל שאל\"כ כשקורא התוכחה סכנה היא למי שאינו אוהבו ואמר שאם הוא שונאו לא יעלה וכו' ועיין במהרי\"ל סי' ק\"ב שכתב אף כשקורין אותו לא יעל' ע\"ש ול\"נ שיותר טוב לעלות משיכנס לעונש ועוזבי ה' יכלו [כ\"ה] ול\"נ דדוק' היוצ' מביה\"כ בשעת קריאת התורה עליו נאמר זה אבל בין גברא לגברא מותר לצאת אלא כשקוראים אותו ואינו עולה מקצר ימיו כדאית' פ\"ט דברכות:",
+          "en": "",
+          "ref": "Magen Avraham 53:22"
+        },
+        "23": {
+          "he": "בשביל אביו. פי' שמת אביו ורוצה להתפלל כדרך האבילים:",
+          "en": "",
+          "ref": "Magen Avraham 53:23"
+        },
+        "24": {
+          "he": "מי שירצה הקהל. הטעם דדוק' קדיש יכול לומר בשביל אביו אבל לא יכול להיות שליח הקהל להתפלל על כרחם (שם) ומה\"ט נ\"ל מ\"ש בהג\"מ בהלכו' עשרה בטבת שהמוהל דוחה האבל מלהתפלל דלא כרמ\"מ מ\"מ אם הקהל רוצים שיתפלל האבל זכה האבל ונ\"ל דיאר צייט קודם להמוהל אם אין הקהל מקפידין בכך דהא לדברי רמ\"מ אף אבל קודם:",
+          "en": "",
+          "ref": "Magen Avraham 53:24"
+        },
+        "25": {
+          "he": "בשכר עדיף. שאז אין אחר שאינו הגון רשאי להתפלל וגם הש\"ץ נזהר בתפלתו ובתיקונו הואיל ושכיר הוא:",
+          "en": "",
+          "ref": "Magen Avraham 53:25"
+        },
+        "26": {
+          "he": "בלא רצון. ואין להתקוטט בעבור שום מצוה שהרי שנינו הצנועים מושכים את ידיהם מלחם הפנים [ד\"מ ב\"ז מט\"מ]:",
+          "en": "",
+          "ref": "Magen Avraham 53:26"
+        },
+        "27": {
+          "he": "שכר ש\"ץ. וכל מה שהוא תקנת הצבור ונעשית ע\"י ממון נותנים לפי ממון, בד\"מ מנהג מדינתינו דל ועשיר נותנין בשוה אך יש לו קצבה מכל נשואין וזה לפי ממון, ולבוש כתב דבמקום שאין מנהג יגבו לפי ממון עבח\"מ סי' קס\"ג סס\"ג בהג\"ה:",
+          "en": "",
+          "ref": "Magen Avraham 53:27"
+        },
+        "28": {
+          "he": "נמצ' בו פסול. ואז אין מקבלין אותו בדברי חבירות ואפילו נשבע שלא ילך בדרכים אלו עד שישוב בתשובה שלימה [רשד\"מ סי' ל\"ב ובי\"ד סי' קי\"ג וע' מ\"צ ח\"ב סי' ע\"ה]:",
+          "en": "",
+          "ref": "Magen Avraham 53:28"
+        },
+        "29": {
+          "he": "שנתפס עם הכותית. ומ\"מ יש להושיב ב\"ד על ככה [כ\"ה בשם רי\"ט]:",
+          "en": "",
+          "ref": "Magen Avraham 53:29"
+        },
+        "30": {
+          "he": "להחליף. וטוב שיחלוף בגדיו כל היום בין הבריות שלא יהא בכלל המשניאים [ד\"מ כל בו]:",
+          "en": "",
+          "ref": "Magen Avraham 53:30"
+        },
+        "31": {
+          "he": "בשירי הנכרים. כלומר בניגון שמנגנין בו לע\"א ס\"ח סי' רל\"ח:",
+          "en": "",
+          "ref": "Magen Avraham 53:31"
+        },
+        "32": {
+          "he": "שאין קול בנו ערב. ובלבד שלא יהא קולו משונ' (שם): אין נכון להעביר ש\"ץ בשביל אחר שקולו ערב, ואם הרוב חפצים באחר ישמשו שניהם כאחד [רלב\"ח סי' ע\"ה מהר\"א דבוטין בתשו' ב\"י סימן ב' כ\"ה]:",
+          "en": "",
+          "ref": "Magen Avraham 53:32"
+        },
+        "33": {
+          "he": "ואין הציבור יכולין למחות. ומיירי שקבלוהו לש\"ץ כל ימי חייו וא\"כ בודאי ע\"ד כן התנה שאם לפעמים לא יוכל להתפלל שימנה אחר לסייעו וא\"כ בנו קודם ועוד שאפי' לא הי' האב ראוי לכך שורת הדין שבנו קודם שמנהג המקום הי' שם שהבנים מתמנים תחת האבות וכלל גדול אמרו בכל המינויים שהבן קוד' ואפי' בכ\"ג ואפי' יש אחרי' גדולים ממנו עכ\"ל הרשב\"א סי' ש' וכ\"ה בספרי שכל המנויין בניהן קודמין וכ\"כ בכה\"ג ורשד\"ם בי\"ד סי' פ\"א כ' דבחכם הממונה להרביץ תורה או לדין לא אמרי' כך עכ\"ל, ובס' י\"מ מח\"ד ח\"ב פי\"ט דכל המינויין שהם כתר תורה אין בניהם קודמין רק מהלל הנשיא ואילך נהגו שבניהם קודמין ע' פ' י\"ג דכתובו':",
+          "en": "",
+          "ref": "Magen Avraham 53:33"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "מעומד.  משמע דיחיד א\"צ לעמוד. וה\"ה בשבת שהחזן מנגן בא\"י א\"צ היחיד לעמוד כשאומר ישתבח ב\"ח. אבל בס\"ס נ\"א משמע דצריך לעמוד. עט\"ז: כל הט\"ו שבחים שבישתבח מן שיר ושבחה וכו' עד מעתה יאמר בנשימה אחת של\"ה מ\"א. ואינם אלא י\"ג שבחים יד אהרן ועיין בספר משנת חסידים דף ס\"ה ע\"א וכן הוא בכוונות:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:1"
+        },
+        "2": {
+          "he": "דזמרה.  דהוא ברכה אחרונה על פסוקי דזמרה ולא כטועין שמתחילין מישתבח שמברכין ברכה לבטלה. מי שבא לבה\"כ בשעה שהש\"ץ מתחיל ישתבח ואם יאמר ברוך שאמר ותהלה לדוד לא יוכל להתפלל עם הציבור וישתבח לבדו גם כן אין לאומרה. טוב הוא שישתוק וישמע ישתבח מהש\"ץ ויענה אמן ויתפלל אז עם הציבור. מט\"מ ע\"ת מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:2"
+        },
+        "3": {
+          "he": "לישתבח.  עיין בתשובת גינת ורדים חלק א\"ח כלל א' סי' נ\"א ובשיורי כה\"ג ובתשובת מטה יוסף ח\"ב סי' י\"א מי שהוצרך לנקביו בתוך פסוקי דזמרה והלך ועשה צרכיו וחזר יטול ידיו ויברך ומניח ציצית ותפילין ויברך עליהם גינת ורדים חלק א\"ח כלל א' סי' נ\"א ע\"ב ע\"ש ולפי מ\"ש לעיל בסי' כ\"ה ס\"ק ט\"ז בשם המ\"א משמע דא\"צ לברך וע\"ל סי' ח' סעיף י\"ד. חבורה שאומרים תהלים בבה\"כ ואירע שלא היה מנין קודם ברוך שאמר אסור לומר קדיש בתוך פסוקי דזמרה תשובת פני יהושע חלק א\"ח סי' ה' וע\"ל סי' נ\"א ס\"ק ג' מש\"ש בשם מקור ברוך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:3"
+        },
+        "4": {
+          "he": "הש\"ץ.  אבל היחיד יאמר ישתבח מיד וכן בשבת אם גמר פסוקי דזמרה קודם הש\"ץ יאמר ישתבח מיד. מגן אברהם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:4"
+        },
+        "5": {
+          "he": "וישתוק.  פי' שלא יפסיק בדיבור ויוכל להמתין חצי שעה עם ישתבח מהר\"מ מינץ וכ' מ\"א נ\"ל דאפילו שהה מחמת אונס כדי לגמור כולה א\"צ לחזור לראש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:5"
+        },
+        "6": {
+          "he": "הגון.  כתב מהר\"ם מינץ בגדי ש\"צ צריכים שיהיו נקיים בלי לכלוך ורבב ובגדיו יהיו ארוכים שלא יראו רגליו ויכנס לב\"ה ראשון ויצא אחרון ע\"ש סימן פ\"א ולא יהא טפש וסכל אלא שיהא שיוכל לדבר בעסקי הקהל כפי שצריך רש\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:6"
+        },
+        "7": {
+          "he": "בילדותו.  בתשובת הרא\"ם סי' פ\"ו דבש\"ץ דעלמא שאינו ש\"ץ בתענית א\"צ שיהא פרקו נאה אלא כל שעכשיו יש לו מעשים טובים אע\"פ שבילדותו יצא עליו שם רע ואפי' עבד ע\"ז כיון ששב בתשובה ראוי להיות ש\"ץ קבוע וכ\"כ הרש\"ך ח\"ב סי' ק\"ז והר\"א ששון סי' קנ\"ז. ומהרש\"ל בתשוב' סימן נ' הסכים ג\"כ דוקא בתענית ובמעמדות אבל בשאר ימים אפי' בקבע כל שאינו רשע ושהוא מרוצה לעם וקולו ערב ורגיל לקרות ממנין לש\"ץ וכן העלה להלכה המחבר יד אהרן דלש\"ץ דעלמא לא בעינן פרקו נאה וכל שראינו ששב בתשובה ראוי קרינן ביה וכ\"פ רוב האחרונים ועיין הר\"ש הלוי חלק י\"ד סימן כ\"ח וכך העלה הע\"ת ומסיים ונ\"ל דאם גוזרין הציבור תענית אע\"פ שאין עכשיו תענית צבור מ\"מ לא יתפלל ש\"ץ כזה וק\"ו בראש השנה ובי\"ה ע\"ש עוד העלה הע\"ת דגם המחבר לא החמיר במה שפסק שלא יצא עליו שם רע בילדותו היינו שלא למנותו לכתחלה אבל להעבירו ולסלקו אחר שהוחזק ש\"ץ אין לנו להחמיר וכ\"כ המ\"א. ובתשובת הראנ\"ח ח\"ב סי' מ\"א ועיין סעיף כ\"ה: וכתב עוד שם דאם יצא עליו שם רע עתה והוא קלא דלא פסק אפילו יחיד יוכל למחות להעבירו וכל שכבר העבירוהו ועמד כך ימים ושנים בהסכמת הקהל ורוצים למנותו הוי עכשיו כתחלת קבלה ואפילו מיעוט יכולין לעכב ואם המוחים הם המנהיגים הוי כאלו מוחים כל הקהל אם לא במקום שיש בוררים ויש חרם שלא לשנות גזירתם אז אינו מועיל הפרנסים מ\"א בשם מ\"צ ע\"ש ובכה\"ג. ובתשובת חוט השני סי' ע\"ה כתב כיון דעברו עליו מים הזדונים יש להעבירו אבל בהזמנה שהזמין להמיר ולא המיר מרצונו וחזר בתשובה מעליא וכבר קבלוהו עליהם לש\"ץ אין להורידו ע\"ש ועיין בחות יאיר סי' קע\"ו ובשער אפרים סי' ל\"א ובעדות ביהוסף סי' פ\"ז. ולכ\"ע אם עבר באונס ושב בתשובה מותר אפי' לכתחלה. וכ\"כ המ\"א. ש\"ץ שיצא פעמים רבות טריפה מתחת ידו מסלקין אותו מש\"ץ מ\"ץ ח\"ב סי' ע\"ה. טוב לחזור אחר ש\"ץ בן צדיק כי אינו דומה תפלת צדיק בן צדיק וכו' ב\"ח רש\"ל. וט\"ז ס\"ק ג' חולק וכתב דיש לקרב לאותו שאינו מיוחס לקרב את הרחוקים לשכינה דרחמנא לבא בעי ותהיה תפלתו נשמעת יותר מצדיק בן צדיק. מי שנפלו זרועותיו מותר להיות ש\"ץ שדרך הקב\"ה להשתמש בכלים שבורים דכתיב לב נשבר וגו' רש\"ל פ\"ק דחולין והמ\"א ס\"ק ח' חולק עליו וכתב דיש ליזהר בש\"ץ שלא להיות בעל מום ועוד הקריבהו נא לפחתך (ובס' אליהו רבה הביא כמה ראיות דמותר להיות ש\"ץ בעל מום ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:7"
+        },
+        "8": {
+          "he": "התשובה.  עמ\"ש בס\"ק שלפני זה. אחד שהכה אשתו בעץ והיתה מעוברת ולא המשיך עד שמתה וניכר שמאותה הכאה מתה אין ראוי להיות ש\"ץ. כנה\"ג וע\"ת:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:8"
+        },
+        "9": {
+          "he": "הציבור.  ואין הציבור יכולים למחול על כבודם. ט\"ז שכנה\"ג ועמ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:9"
+        },
+        "10": {
+          "he": "ב' שערות.  וכל שבא לכלל י\"ג אין מדקדקין בשערות כמ\"ש סי' נ\"ה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:10"
+        },
+        "11": {
+          "he": "ידועים.  דזה הוי קביעות לאותם העתים ופשוט שאין בכלל זה אם מינוהו הקהל שיהיה הוא מוכן להתפלל באם לפעמים לא יהיה החזן בבה\"כ שיעמוד זה להתפלל אין בזה איסור כלל דאין זה מקרי קבוע כלל כיון שאפשר שלא יבא לידי כך ולא אסרו בקבוע אלא לעתים ידועים שבאותו עת הוא קבוע בודאי ט\"ז. וכתב ע\"ת והיינו דוקא מי שלא נתמלא זקנו אבל מי שהוא פסול לש\"ץ מחמת עבירה אפי' באקראי אינו יכול להיות ש\"ץ וכ\"כ בתשובת מ\"צ ח\"ב סי' ע\"ה וה\"ה בתענית ובר\"ה נמי אין מורידין למי שלא נתמלא זקנו אפילו באקראי. שכנה\"ג וע\"ת:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:11"
+        },
+        "12": {
+          "he": "סריס.  דהיינו שנראו בו סימני סריס כמ\"ש סי' נ\"ה ס\"ה. ומהרש\"ל בחולין סי' מ\"ה כתב שאין למנות סריס:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:12"
+        },
+        "13": {
+          "he": "שנה.  פי' דבמדינתינו מתפללין ערבית מבעוד יום והוא לא נכנס בשנת י\"ד עד תחלת ליל שבת שהוא יום שנולד בו. אבל אם מתפללים ערבית בלילה מותר לעבור לפני התיבה והא דאמרינן בכל מקום י\"ג שנה ויום א' פי' דבעינן י\"ג שנה שלימים וכיון שמתחיל היום שנולד בו יום א' קרינן ביה ב\"ח מ\"א ט\"ז שכנה\"ג וכ\"כ הש\"ך בח\"מ סי' ל\"ה וסמ\"ע שם. ועיין בשיורי כנה\"ג סימן נ\"ה בהגהת הטור סעיף ו' שמביא בשם תשובת כ\"י מהר\"י ברונא שכתב דאפי' בן י\"ג שנה ויום אחד אינו נקרא גדול עד שיעבור אותו היום והביא ראיות ע\"ז ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:13"
+        },
+        "14": {
+          "he": "בנעימה.  דאיתא בפסיקתא כבד ה' מהונך קרי בי' מגרונך ומי שיש לו קול נעים ירנן להקב\"ה ולא שאר רננות ס\"ח סי' רע\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:14"
+        },
+        "15": {
+          "he": "מגונה.  דאיתא בס\"ח בשעה שרשב\"ג יצא ליהרג א\"ל ר\"י אחי מפני מה אתה יוצא ליהרג שמא היית דורש ברבים ושמח לבך ונהנית מד\"ת א\"ל אחי נחמתני ע\"כ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:15"
+        },
+        "16": {
+          "he": "עושה.  אם לא ברצון הקהל אפילו שבת וי\"ט ואף ברצון הקהל להאריך יותר מדאי הרי זה מגונה רש\"ל פ\"ק דחולין:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:16"
+        },
+        "17": {
+          "he": "עייני\"ן.  וה\"ה למי שקורא חית\"ן ההי\"ן ואם כולן מדברים כך מותר להיות ש\"ץ. הרדב\"ז וכנה\"ג מ\"א ע\"ת ע\"ש. והקשו התוס' סוף פרק הקורא את המגילה עומד איך הוריד רבי לר' חייא לפני התיבה כשגזר תענית בהפועלים ותירצו שם דכשהיה מתכוין לקרות החי\"ת קורא אותה שפיר על ידי טורח ע\"ש אבל בהפועלים תירצו דה\"מ היכא דאפשר באחר אבל היכא דלא אפשר באחר לא ע\"ש וכנ\"ל עיקר דאם איתא שהיה יכול לקרות החי\"ת ע\"י דוחק איך קאמר ליה כשאתה מגיע אצל וחכיתי לה' לא נמצאת מחרף ומגדף דדילמא כשהיה מגיע לזה הפסוק וכיוצא בו היה מטריח את עצמו לקרות כהוגן ולא היה מחרף ומגדף אלא העיקר כמו שתירצו בהפועלים. פר\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:17"
+        },
+        "18": {
+          "he": "התיבה.  וחייב בכל המצות ב\"ח מ\"א דלא כנ\"ץ. בתשובת חות יאיר סי' קע\"ו העלה שיש להעביר חזן סומא אפי' באחד מעיניו שלא יתפלל בימים נוראים היכא דאיכא אחר ראוי והגון כיוצא בזה ע\"ש ועיין בתשובת אמונת שמואל סי' ט\"ז ובלחם רב סי' ב' ובדבר שמואל סי' י\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:18"
+        },
+        "19": {
+          "he": "לסרב.  ש\"ץ שלא רצה להיות עוד ש\"ץ וקבלו אחר במקומו א\"צ רשות כיון דבידו עוד להיות ש\"ץ. ודוקא מהקהל א\"צ ליטול רשות אבל מש\"ץ השני צריך ליטול רשות יד אליהו סי' ל' ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:19"
+        },
+        "20": {
+          "he": "כלל.  דאין מסרבין לגדול. וכתבו התוס' ספ\"ז דפסחים דבדבר גסות ושררה אפילו האומר לו הוא אדם גדול יסרב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:20"
+        },
+        "21": {
+          "he": "גר.  לפי שלא יוכל לומר אלהי אבותינו ונדחו דבריהם. דכתיב כי אב המון גוים נתתיך. ש\"ץ ממזר תלוי במחלוקת אם ממזר כשר לכתוב תפילין. שכנה\"ג הגהת ב\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:21"
+        },
+        "22": {
+          "he": "מתחלה.  ואם קבלוהו לזמן ונשלש הזמן לא מיקרי השכים עליו תחלה דעכשיו הוי קבלה חדשה וכאלו לא היה שם עדיין ט\"ז. וכתב המגן אברהם נ\"ל דוקא בזמניהם שהיה הש\"ץ מוציא הרבים י\"ח בתפלתו אז היה יחיד יכול לעכב דאין נעשה שלוחו בע\"כ משא\"כ עתה שכולם בקיאים רק הש\"ץ הוא לפיוטים אף על פי שאומר קדיש וברכו אין כ\"כ קפידא. ראובן שהיה ש\"ץ שכיר שנה והשלים שנתו והתחיל להתפלל עוד ימים מספר מהשנה חדשה ומקצת אנשים מיחו בו באמרם שכבר נשלם השנה שהשכירוהו ושאינם רוצים אותו עוד והש\"ץ טען שמאחר שכבר התחיל להתפלל בהימים נוראים שהם מהשנה חדשה ולא מיאנו בו שלהיותו שכיר שנה מקצתו ככולה ושיפרעו לו משלם פסק בתשובת מ\"צ דהדין עם הש\"ץ עיין לקט הקמח דף י\"ד ע\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:22"
+        },
+        "23": {
+          "he": "עליו.  אבל אם נעשה שונאו לאחר שהסכים עליו אין יכול למחות אלא הש\"ץ מחויב לומר בפירוש שיסיר הקנאה מלבו ויוציאנו בתפלתו מהר\"ם פאדוואה שם. וכתב מהרש\"ל פ\"ק דחולין סי' (נ\"ד) [נ\"א] הא דיחיד יכול למחות דוקא אם הוא מהנושאים עולים ומסים ואע\"פ שאינו חשוב כ\"כ ודוקא שיש ש\"ץ אחר שיוכלו הקהל להשכירו בדמיו אבל אם אינו בנמצא או שיש בנמצא אלא שבא להוסיף בדמים יכולין הקהל לומר לו אין בידינו להוסיף בעבור שנאתו אלא הוא יוסיף משלו ואף אם יברר טענתו שזה הש\"ץ מעולה מן הראשון כנגד התוספת הדמים אפ\"ה יכולין הקהל לומר אין יכולת בידינו להוסיף כ\"כ בדמים עכ\"ל. וכ\"כ השכנה\"ג וע\"ת ע\"ש. וט\"ז כתב וכבר יש מנהג ברוב הקהלות בענין קבלת הש\"ץ שהוא ע\"פ רוב פורעי המס או קרואי עדה ואין השאר יכולין למחות ע\"ש. ועיין בתשובת כנסת יחזקאל סי' י'. כתב בד\"מ בשם א\"ז דאין ש\"ץ צריך להחניף לציבור ובמילי דשמיא צריך להוכיחן ובשם ר\"י חסיד כתב דש\"ץ צריך להיות אהוב להקהל שאל\"כ כשקורא התוכחה סכנה היא למי שאינו אוהבו ואמר שאם הוא שונאו לא יעלה אף כשקורין אותו ע\"ש. וכנה\"ג כתב שיותר טוב לעלות משיכנס לעונש ועוזבי ה' יכלו וכתב המ\"א דבין גברא לגברא מותר לצאת דדוקא כשקוראין אותו ואינו עולה מקצר ימיו ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:23"
+        },
+        "24": {
+          "he": "אביו.  ר\"ל שמת אביו ורוצה להתפלל כדרך האבלים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:24"
+        },
+        "25": {
+          "he": "הקהל.  דדוקא קדיש יוכל לומר בשביל אביו אבל לא יוכל להיות שליח הקהל להתפלל על כרחם. ומצוה להניח לאבל להתפלל שהוא נחת רוח למת ומצילו מדינו של גיהנם ויאר צייט קודם להמוהל אם אין הקהל מקפידין. עמ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:25"
+        },
+        "26": {
+          "he": "עדיף.  כי אז נזהר יותר בתפלתו בשביל שכירתו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:26"
+        },
+        "27": {
+          "he": "הקהל.  ואין להתקוטט בעבור שום מצוה שהרי שנינו הצנועים מושכים ידיהם מלחם הפנים. ד\"מ מט\"מ מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:27"
+        },
+        "28": {
+          "he": "הקהלות.  ובמקום שאין מנהג יגבו לפי ממון. עמ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:28"
+        },
+        "29": {
+          "he": "קודם.  כתב כנה\"ג בשם תשוב' א' דלמינוי חכם מרביץ תורה אפילו המיעוט יכול לכוף לרוב. ובמי שאינו ראוי להיות חכם אפילו יחיד יכול למחות וכ\"פ הרשד\"ם חלק א\"ח סי' ל\"ו ועיין ע\"ת:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:29"
+        },
+        "30": {
+          "he": "פסול.  ואז אין מקבלין אותו ואפי' אם נשבע שלא ילך בדרכים אלו עד שישוב בתשובה שלימה. הרשד\"ם חא\"ח סי' ל\"ב מ\"א וע\"ת:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:30"
+        },
+        "31": {
+          "he": "רינון.  אבל למנותו לכתחלה אפי' ברינון בעלמא אין למנותו לכתחלה וזהו שכתב המחבר לעיל סעיף ד' ושלא יצא עליו שם רע ע\"ת וע\"ל ס\"ק ז' מש\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:31"
+        },
+        "32": {
+          "he": "הנכרית.  ומ\"מ יש להושיב ב\"ד על ככה מהרי\"ט כנה\"ג. ש\"ץ שבתו זנתה תחת בעלה אם אי אפשר באחר חשוב כדיעבד וכשר. מהר\"י מברונא שכנה\"ג וכתב ע\"ת משמע דאפילו אם כבר נתקבל לש\"ץ קבוע מסלקין אותו אי איכא אחר וכ\"ש שאין למנותו לכתחלה ע\"ש וע\"ל סי' (קכ\"ט) [קכ\"ח] ס\"ק ע\"א מ\"ש בשם שכנה\"ג ובשם שבות יעקב לענין כהן. ש\"ץ שנפסל קולו שנשמע כאלו הוא מירתת ושכור פסול לש\"ץ. מהר\"י מברונא שכנה\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:32"
+        },
+        "33": {
+          "he": "מעבירין אותו.  ואם עשה תשובה אין מעבירין אותו. ע\"ת ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:33"
+        },
+        "34": {
+          "he": "הצואין.  ש\"ץ שמתוך חוליו לאנסו א\"א לנקות מהיותו טהור מקר' לילה ואין מטהר עצמו כלל והוא ש\"ץ אפשר בימים נוראים יש לגעור בו שיטבול ועכ\"פ שיוציא הבגדים הצואים מעליו ואם לא ישמע לדברי חכמים לרחוץ יפה יפה ולהסיר הבגדים הצואים מעליו ראוי להעבירו מהרי\"א יצחקי ז\"ל בתשובתו זרע אברהם חלק א\"ח ס\"ס ו' ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:34"
+        },
+        "35": {
+          "he": "בשירי העכו\"ם.  ר\"ל בניגון שמנגן בו לע\"א מ\"א בשם ת\"ה. וב\"ח בתשובה ס\"ס קכ\"ז כ' דוקא ניגון שמיוחד בבית ע\"ז. כ' רש\"ל בתשובה סי' כ' ש\"ץ שהיה שוחט ונמצא שמכר טרפה בחזקת כשרה בשוגג או שהיה מנקר ונמצא אחריו חלב אע\"פ שמעבירין אותו מאומנתו אין מסלקין אותו מש\"ץ וע\"ל ס\"ק ז' מה שכתבתי בשם משפטי צדק ח\"ב סי' ע\"ה וכתב כנה\"ג דמהרש\"ל מודה דאין למנותו לכתחלה. מי שהלך בערכאות של גוים אין ראוי להיות ש\"ץ בראש השנה ויום כיפור אא\"כ עשה תשובה תורת אמת סי' קנ\"ז. קהל שחלקו תפלת ר\"ה ויה\"כ כנהוג. אם חלה אחד מהם ולא יוכל להתפלל אינו רשאי להעמיד איש אחר במקומו וביד הקהל דוקא להעמידו תשובת שער אפרים סי' ל\"א ועיין בתשובת כנסת יחזקאל סי' י\"ג. ראובן שהיה מוחזק להתפלל תדיר בימים נוראים ואח\"כ נתאלמן וקמו עליו קצת מערערים לומר שלא יכול להתפלל מפני שאין לו אשה בתשובת פני משה סי' נ\"ד מצדד פנים לכאן ולכאן ולבסוף העלה דאין להעבירו מפני דבר זה שאין בו חטא משפטי הדברים המעכבים ועוד צירף שם לסניף דהאיש ההוא כבר אירס ע\"ש ועי' בלקט הקמח דף י\"א ע\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:35"
+        },
+        "36": {
+          "he": "ערב.  ובלבד שלא יהא קולו משונה וכלל גדול בכל המינויים הבן קודם והמינויים שהם כתר תורה אין בניהם קודמים רק מהלל הנשיא ואילך נהגו שבניהם קודמים. אין להעביר ש\"ץ בשביל אחר שקולו ערב ואם הרוב חפצים באחר ישמשו שניהם כאחד. עיין כנה\"ג ובמ\"א ובע\"ת:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:36"
+        },
+        "37": {
+          "he": "לשמו.  בסידורים הנדפסים אין חילוק ט\"ז וקורין ש\"ץ חזן שצריך לראות האיך יקרא ותרגום וירא וחזי. רד\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 53:37"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) שליח ציבור וכו' - כדי שיסמוך לו הקדיש מיד ולא יצטרך להפסיק ביניהן בהעמידה לפני התיבה אבל בסימן נ\"א ס\"ו בהג\"ה משמע דאפילו מי שמתפלל ביחידי צריך ג\"כ לעמוד באמירת ישתבח ועיין באליהו רבא שתירץ דהתם ממנהגא והכא מדינא וכן כתב הגר\"א וכן כתב בעט\"ז דנוהגים אנשי מעשה לעמוד כשאומרים ישתבח בין בשבת בין בחול ואפילו ביחידי. כל הט\"ו שבחים שבישתבח מן שיר ושבחה עד מעתה יזהר מאד שלא להפסיק ביניהן והמפסיק עונשו גדול אבל א\"צ שיהיה בנשימה אחת [ח\"א בשם הגר\"א וכן כתב הגרי\"ע וכן משמע בזוהר תרומה דלא כשל\"ה]:",
+          "en": "The chazzan...: in order that he should be able to say Kaddish immediately and so as not to interrupt between by rising up to stand in front of the ark. But in section 51:6 in the gloss of the Rama, it's evident that even someone who prays alone also needs to stand while saying Yishtabach and look in Eliyahu Raba who answers that an individual stands for Yishtabach by virtue of custom, whereas the chazzan stands for Yistabach for virtue of law and similar the Gra and the Taz write that people of stature should stand while saying Yishtabach both on Shabbat and weekdays and even while praying alone. During the recital of all 15 praises in Yishtabach from \"song and praise\" until \"from now\" one should be very careful not to interrupt, and one he does pause will receive great punishment, but one isn't required to say them in one breath. [Chaye Adam in the name of the Gra and similar wrote the Griya and the same is implied from the Zohar in Parshat Terumah and not like the Shlah]",
+          "ref": "Mishnah Berurah 53:1"
+        },
+        "2": {
+          "he": "(ב) אין לומר - בין ש\"ץ ובין אדם אחר:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:2"
+        },
+        "3": {
+          "he": "(ג) אא\"כ - דישתבח היא הברכה אחרונה שניתקנה לומר לאחר פסד\"ז ומתחלת בלא ברוך כי היא סמוכה לברכת ב\"ש ע\"כ אין לומר אותה בלא ב\"ש ולא כטועין שכשהם בדרך או שאר שעת הדחק מתחילין מישתבח שמברכין עי\"ז ברכה לבטלה:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:3"
+        },
+        "4": {
+          "he": "(ד) אמר ב\"ש - ע\"כ אבל או יארצייט שהתאחרו לבוא לבהכ\"נ עד קרוב לברכו ומוכרחים לעמוד עכ\"פ לומר ישתבח לפני התיבה כי אסור להפסיק בין ישתבח לקדיש יראו עכ\"פ לומר מתחלה לעצמם ב\"ש ואשרי וכן החזן בשבת שהתאחר לבוא עד קרוב לברכו יראה עכ\"פ לומר מתחלה לעצמו ב\"ש ואשרי ונשמת וכנ\"ל בסימן נ\"ב במ\"ב סק\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:4"
+        },
+        "5": {
+          "he": "(ה) אין לברך - אפילו אם לא היה לו טלית עד עתה ואף שהוא בין הפרקים מ\"מ כיון שהברכה קאי על פסוקי דזמרה אין ראוי שיהא הפסק בינם לבין ברכה אחרונה דידהו דהברכה ראויה להיות סמוך להמצוה אבל מקודם לזה בפסוקי דזמרה עכ\"פ בין הפרקים יניח הטלית ויברך ומכ\"ש לענין תפילין דמותר לברך עליהן בין הפרקים ובפרט אם הוא ברבים ומתבייש לישב בלי טלית ותפילין:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:5"
+        },
+        "6": {
+          "he": "(ו) ציצית - וה\"ה לענין תפילין. א\"ר:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:6"
+        },
+        "7": {
+          "he": "(ז) בין ישתבח ליוצר - כ\"ז הוא דוקא אם לא היה לו מקודם דאל\"ה גם זה אסור וזהו שציין רמ\"א ועיין לקמן וכו':",
+          "en": "",
+          "ref": "Mishnah Berurah 53:7"
+        },
+        "8": {
+          "he": "(ח) מיהו הש\"ץ וכו' - דגנאי הוא לציבור להמתין עליו בין ישתבח לקדיש וגם הקדיש קאי על ישתבח ע\"כ יתעטף תיכף בטלית וה\"ה בתפילין ויברך אך אם לא הביאו לו הטלית עד לאחר שגמר ישתבח קודם שאמר הקדיש יכול להניח שם ולברך והקהל ימתינו הואיל וא\"א בלא\"ה וכמו שיתבאר לקמן בסוף סימן נ\"ד בהג\"ה עי\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:8"
+        },
+        "9": {
+          "he": "(ט) ימתין הש\"ץ - כדי שיהיה יוכל להסמיך לו אח\"כ הקדיש מיד אבל היחיד יאמר ישתבח מיד וכן בשבת אם גמר פסוקי דזמרה קודם הש\"ץ יאמר ישתבח מיד:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:9"
+        },
+        "10": {
+          "he": "(י) וישתוק - פי' שלא יפסיק בדיבור ויוכל להמתין חצי שעה עם ישתבח ואפילו שהא מחמת אונס כדי לגמור כולה א\"צ לחזור לראש:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:10"
+        },
+        "11": {
+          "he": "(יא) ישתבח וקדיש - ובדיעבד אם גמר ג\"כ ברכת ישתבח ואח\"כ באו מנין יאמרו עכ\"פ שלשה פסוקים מפסוקי דזמרה ויוכל הש\"ץ לומר קדיש כי בלא\"ה אין לומר קדיש כיון שלא היו בעת אמירת קצת פסוקי דזמרה או ישתבח עכ\"פ:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:11"
+        },
+        "12": {
+          "he": "(יב) צריך - דכתיב נתנה עלי בקולה ע\"כ שנאתיה ואחז\"ל זה ש\"ץ שאינו הגון. והספרים האריכו מאד בגודל גנות הממנים ש\"ץ שאינו הגון כי מונעים עי\"ז טוב מישראל:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:12"
+        },
+        "13": {
+          "he": "(יג) הגון - וראוי שיהיו בגדי ש\"ץ ארוכים שלא יראו רגליו ויכנס לבהכ\"נ ראשון ויצא אחרון. ולא יהיה טפש וסכל אלא שיהיה יוכל לדבר בעיסקי הקהל כפי מה שצריך. טוב להדר אחר ש\"ץ צדיק בן צדיק כי אינו דומה תפלת צדיק בן צדיק לתפלת צדיק בן רשע ומה שכתב הרא\"ש שאין מעלת הש\"ץ תלוי ביחוס משפחה דאפילו אם הוא ממשפחה בזויה וצדיק טוב לקרב מזרע רחוקים ר\"ל ג\"כ רק שאינו מיוחס אבל מ\"מ אין אביו רשע [אחרונים] אין מומין פוסלין אלא בכהנים ולא בש\"ץ ואדרבה לב נשבר ונדכה אלקים לא תבזה ויש מחמירין בזה לכתחלה היכא דאיכא ראוי והגון כיוצא בו ועיין לקמן בס\"ק מ\"א לענין סומא מה שכתבנו שם:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:13"
+        },
+        "14": {
+          "he": "(יד) מעבירות - העובר על השבועה אין ביתו ריקם ואע\"פ שעדיין לא העידו עליו מ\"מ יש לחוש לקול להושיב ב\"ד על ככה ואפילו אם לא עבר רק על שבועת ביטוי דלהבא מ\"מ אין ראוי למנותו לש\"ץ עי\"ש [א\"ר] וכתב שם עוד בשם משפט צדק דמי שהוא פסול מחמת עבירה פסול להיות ש\"ץ אפילו באקראי וכתב הפמ\"ג דהיינו דוקא בשלא עשה תשובה:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:14"
+        },
+        "15": {
+          "he": "(טו) ושלא יצא וכו' - דוקא למנותו לכתחלה אבל להעבירו ולסלקו אחר שהוחזק ש\"ץ אין לנו כיון שלא נשמע עליו עתה מאומה מיהו כשיצא עליו עתה ש\"ר והוא קלא דלא פסק אפילו יחיד מוחה עליו להעבירו [כה\"ג בשם ראב\"ח] ועיין לקמן בסעיף כ\"ה בבה\"ל מה שכתבנו בזה ואפילו אם נתברר בעדים שחטא אם עשה תשובה אין מעבירין אותו לכו\"ע:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:15"
+        },
+        "16": {
+          "he": "(טז) בילדותו - אפילו נתברר לנו שעשה אז תשובה ע\"ז הענין אפ\"ה אין למנותו לכתחלה לש\"ץ. ש\"ץ שכבר העבירוהו ועמד כך ימים ושנים בהסכמת הקהל ורוצים עכשיו למנותו הוי כתחלת קבלה ואפילו מיעוט יכולים למחות. אם המוחים הם המנהיגים הוי כאלו מוחים כל הקהל אם לא במקום שיש בוררים ויש תקנה שלא לשנות גזרתם אז אין מועיל מחאת הפרנסים:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:16"
+        },
+        "17": {
+          "he": "(יז) לעם - כתב בתשובת מהר\"מ מינ\"ץ יזהר החזן אם יש ריב וקטטה בין שני בע\"ב שיהא בשב ואל תעשה הן בדיבור הן במעשה הן בגלוי הן בסתר וכ\"ש אם יש עסק ריב עם אדם אחר שאינו מהעיר עם בע\"ב שיהא בשב ואל תעשה ואפילו אם אותו האדם הוא מחותנו או קרוב שלו. ואם יש לו שום קטט ואיבה עם אחד מהקהל אז צריך להעמיד את הדבר לפני הרב או הקהל לפשר ולעשות ככל אשר נראה להם נכון ואם יש חסרון ומניעה מצד שכנגדו אז הוא נקי ומה יש לו לעשות:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:17"
+        },
+        "18": {
+          "he": "(יח) ורגיל לקרות - כדי שיהיו הפסוקים המעורבים בתוך התפלה סדורים בפיו גם אם אינו רגיל לקרות הוא בכלל מסיר אזנו משמוע תורה גם תפלתו תועבה [א\"ר]. כתב בפמ\"ג בסימן תקפ\"א ס\"א איתא דבר\"ה ויוה\"כ בעינן שיהא נשוי ובן שלשים ומשמע בשאר ימות השנה אפילו אינו נשוי מ\"מ נ\"ל דנשוי קודם לבחור ואפילו אם נתמלא זקנו:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:18"
+        },
+        "19": {
+          "he": "(יט) הוא קודם - אפילו להיות ש\"ץ קבוע כל שהוא י\"ג שנה והביא שתי שערות:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:19"
+        },
+        "20": {
+          "he": "(כ) מותר להיות - דלא מיקרי אין פרקו נאה אלא דוקא שהיה מועד לעשות דברים שאינן מהוגנים אבל מי שבא לידו שגגת מעשה ומתחרט ה\"ז צדיק גמור לכל דבריו ומותר למנותו לכתחלה לש\"ץ:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:20"
+        },
+        "21": {
+          "he": "(כא) עשה במזיד - לאו דוקא הרג דה\"ה שאר עבירות וכדלעיל בסעיף ד' דבעינן שלא יצא עליו שם רע אפילו מילדותו וכ\"כ בכל בו בפירוש [א\"ר]:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:21"
+        },
+        "22": {
+          "he": "(כב) דמ\"מ יצא וכו' - עיין במ\"א שהביא בשם הרבה פוסקים דאפילו במזיד כל ששב שרי להיות ש\"ץ קבוע דדוקא לענין ת\"צ מחמרינן שלא יצא עליו ש\"ר אפילו מילדותו אבל להיות ש\"ץ קבעו לשאר ימות השנה מותר למנותו אפילו לכתחלה כל ששב בתשובה וכזה הביא הפמ\"ג בשם א\"ר להלכה וכתב בא\"ר דבימים נוראים עכ\"פ יש להחמיר לדון בדין תעניות דבאמת אפילו בשאר ימות השנה יש בזה הרבה דיעות בין הפוסקים עיין בכה\"ג ובביאור הגר\"א וכ\"ז היינו שלא למנותו לכתחלה אבל אין מסלקין אותו לכו\"ע אם שב בתשובה. ש\"ץ שהוציא פעמים רבות טריפות מת\"י מסלקין אותו מש\"ץ דשוב דיינינן ליה כמזיד ועיין בפמ\"ג דמסתפק דאפילו בפ\"א ידינוהו כמזיד. ומ\"מ אם שב בתשובה אין מסלקין אותו מש\"ץ אפילו אם הוציא פעמים רבות:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:22"
+        },
+        "23": {
+          "he": "(כג) כבוד הצבור - ואין הצבור יכולים למחול על כבודם בזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:23"
+        },
+        "24": {
+          "he": "(כד) באקראי - כ\"ז בשאר ימות השנה אבל בתעניות ובר\"ה ויוה\"כ אפילו באקראי אין מורידין למי שלא נתמלא זקנו וגם בזה אין להקל אפילו ע\"י מחילת הצבור:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:24"
+        },
+        "25": {
+          "he": "(כה) משהביא שתי שערות - ר\"ל אחר שהגיע לי\"ג שנה דקודם לא מהני השערות ועיין במ\"א שכתב דמסתמא אין צריך לבדוק אחר השערות בזה דבדבר דרבנן אזלינן בתר רובא שמביאין ב' שערות באותו הזמן ועיין בפמ\"ג שכתב דלהרמב\"ם דסובר תפלה דאורייתא יהיה אסור להש\"ץ הזה להוציא ידי אחרים בתפלה עד שנדע בודאי שהביא ב\"ש ע\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:25"
+        },
+        "26": {
+          "he": "(כו) ידועים - דזה הוי קביעות לאותם העתים ואין בכלל זה אם מינוהו הקהל שיהיה הוא מוכן להתפלל אם לפעמים לא יהיה החזן בבהכ\"נ שיעמוד זה להתפלל אין בזה איסור כלל דאין זה מיקרי קבוע כיון שאפשר שלא יבוא לידי כך ולא אסרו בקבוע אלא לעתים ידועים שבאותו העת הוא קבוע בודאי [ט\"ז] וב\"ח וא\"ר חולקין דג\"ז מיקרי קבוע ולא מקרי אקראי אלא כשלא נתמנה כל עיקר:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:26"
+        },
+        "27": {
+          "he": "(כז) שאין לו זקן - ולפי גירסת הגר\"א במסכת סופרים פי\"ד עי\"ש יהיה תלוי דין זה בדין מינוי הסריס המבואר בס\"ט:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:27"
+        },
+        "28": {
+          "he": "(כח) סריס - דהיינו שנראו בו סימני סריס דאל\"ה כיון שלא הביא שתי שערות אמרינן עדיין הוא קטן כמו שכתב סימן נ\"ה ס\"ה עי\"ש במ\"ב. ומהרש\"ל בחולין סימן מ\"ה כתב שאין למנות סריס דגנאי הוא לצבור:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:28"
+        },
+        "29": {
+          "he": "(כט) בן עשרים - דקודם אפילו נראו בו סימני סריס בלא\"ה לא יוכל להיות ש\"ץ אפילו באקראי דעדיין הוא קטן:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:29"
+        },
+        "30": {
+          "he": "(ל) תפלת ערבית - לפי שאין מוציאין את הרבים ידי חובתן שהרי אינן מחזירין את התפלה רק שאומרים ברכו וקדיש. ועוד טעמים אחרים עיין בב\"י וכ\"ז נדחק רק לקיים המנהג אבל הוא בעצמו סובר דאין נכון לכתחלה לעשות כן:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:30"
+        },
+        "31": {
+          "he": "(לא) במוצאי שבתות - ה\"ה ערבית דחול אלא שהמנהג שנהגו באותן המקומות היה במוצאי שבתות:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:31"
+        },
+        "32": {
+          "he": "(לב) בתפילת ערבית - משום ברכו שבה וה\"ה שלא יפרוס על שמע למי שלא שמע ברכו בשחרית דבאמת ברכו נמי מצוה על כל הצבור לשמען שחרית וערבית וקטן שאין חייב אינו מוציאם בזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:32"
+        },
+        "33": {
+          "he": "(לג) דהרי עדיין - ר\"ל במקומות שנוהגין להתפלל של שבת בע\"ש מבעוד יום משום תוספת שבת מ\"מ הרי עדיין לא נשלמו לו י\"ג שנה עד ליל שבת שתוספת שבת אינו מועיל לענין שנות ימי הנער אבל אם מתפלל בלילה ערבית אחר צאת הכוכבים מותר לירד לפני התיבה ומה שאמר בכל מקום י\"ג שנה ויום אחד לא שצריך יום אחד יותר אלא ר\"ל שצריך י\"ג שנים שלימות מיום אל יום לאפוקי חסרון מקצת שעות הלכך מיד בתחלת לילה נתמלאו שנותיו והוי גדול. ואפילו נולד ביום ר\"ה קודם בין השמשות נעשה ב\"מ בתחלת ליל ר\"ה של שנת י\"ד:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:33"
+        },
+        "34": {
+          "he": "(לד) ש\"ץ - מי שיש לו קול נעים ירנן להקב\"ה ולא שאר רננות ואם רקק יקנח פיו ואח\"כ יתפלל [ס\"ח סי' רנ\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:34"
+        },
+        "35": {
+          "he": "(לה) מגונה - איתא בס\"ח בשעה שרשב\"ג יצא לדין ליהרג אמר לר' ישמעאל כה\"ג אחי מפני מה אני יוצא ליהרג א\"ל שמא היית דורש ברבים ושמח לבך ונהנית מד\"ת א\"ל אחי נחמתני:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:35"
+        },
+        "36": {
+          "he": "(לו) הצבור - כתב בים של שלמה סי' נ' אסור לו להאריך שלא ברצון הקהל אפילו בשבת ויו\"ט ואף ברצון הקהל יותר מדאי מגונה כי אין זה לא מחציו לד' ולא מחציו לכם. כתב שכנה\"ג בשם תשובת ר\"י ברונא ש\"ץ שנפסל קולו אם נשמע כאלו הוא מרתת ושבור פסול. עוד כתב אם שני חזנים שוים כהן קודם ללוי לוי לישראל ות\"ח קודם לע\"ה אפילו הוא כהן וכ\"ש לוי:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:36"
+        },
+        "37": {
+          "he": "(לז) לאלפי\"ן עייני\"ן - פי' הברת העין הוא בחוזק ועמוקה יותר מהברת האלף וה\"ה למי שקורא חתי\"ן ההי\"ן או שקורא לשיבולת סיבולת. ואם כולם מדברים כך מותר להיות ש\"ץ [מ\"א בשם הרדב\"ז] ודע עוד דה\"ה לכל מי שאינו יכול להוציא האותיות כתיקונן כגון שהוא כבד פה וכבד לשון ג\"כ אין מורידין אותו לפני התיבה [כן מוכח מהרמב\"ם פט\"ו מהלכות נשיאת כפים ה\"א ופ\"ח מה' תפלה הלכה י\"ב עי\"ש בכ\"מ וצ\"ע מירושלמי פ' היה קורא הלכה ד' דאיתא שם היה לשונו ערוך ע\"ש בפני משה דמתיר בענין זה מפני שמ\"מ אינו משנה האותיות מהוייתן עי\"ש אכן לפי מה שפירש שם הבעל ספר חרדים את דברי הירושלמי ניחא]:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:37"
+        },
+        "38": {
+          "he": "(לח) ולעייני\"ן אלפי\"ן - עיין בפר\"ח שהעלה דבזמן דליכא אחר ראוי כמותו מותר להורידו לתיבה אפילו בחתי\"ן ההי\"ן אבל בעל פני משה הנ\"ל חולק עליו וסובר דאפילו בדליכא אחר לא שרי כ\"א היכא דכשהוא מכוין לקרות אותו לחי\"ת על ידי טורח יכול לקרות אותו שפיר ונראה עוד דאפי' לפר\"ח אין מותר למנותו לש\"ץ בקבע פן יזדמן מחר אחר טוב ממנו רק לפעם זה מותר להורידו בדליכא ראוי כמותו כההיא מעשה דר\"ח שם בגמרא:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:38"
+        },
+        "39": {
+          "he": "(לט) וזרועותיו - וגם כתפיו:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:39"
+        },
+        "40": {
+          "he": "(מ) לפני התיבה - להעשות ש\"ץ להתפלל אבל פורס הוא על שמע לבד וגם אינו קורא בתורה שגנאי הוא:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:40"
+        },
+        "41": {
+          "he": "(מא) סומא - אפילו בשתי עיניו וחייב בכל המצות מן התורה דקי\"ל כרבנן דר' יהודא. ובתשובת חות יאיר סי' קע\"ו העלה שאעפ\"כ לא יתפלל סומא בימים נוראים אפי' באחד מעיניו היכא דאיכא אחר ראוי והגון כיוצא בו ע\"ש טעמו ובספר אליהו רבא באות י' חולק עליו ונ\"ל דאף לדברי החו\"י היינו רק שלא למנותו לכתחלה אבל לא לסלקו מש\"ץ אם נעשה סומא. ש\"ץ שיש לו כבידות אזנים שאינו שומע כלל מסיק בחידושי רע\"א דלא יהיה ש\"ץ דאף דאם לא השמיע לאזנו יצא מ\"מ כיון דלכתחלה צריך להשמיע לאזנו אינו מוציא אחרים לכתחלה:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:41"
+        },
+        "42": {
+          "he": "(מב) שלא יקרא - עיין לקמן סימן קל\"ט ס\"ד בהג\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:42"
+        },
+        "43": {
+          "he": "(מג) ולא ימתין - שהרי כבר מינוהו לזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:43"
+        },
+        "44": {
+          "he": "(מד) לסרב - שליח ציבור שלא רצה להיות עוד ש\"ץ וקבלו אחר במקומו א\"צ רשות כיון שבידו עוד להיות ש\"ץ ודוקא מהקהל א\"צ רשות אבל מהש\"ץ השני צריך ליטול רשות כן כתב בתשובת יד אליהו ולפי מה שביארנו בבה\"ל גם ש\"ץ כזה צריך ליטול רשות מתחלה:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:44"
+        },
+        "45": {
+          "he": "(מה) כלל - דאין מסרבין לגדול. וכתבו התוספות סוף פרק ז' דפסחים דבדבר גסות ושררה אפילו האומר לו הוא אדם גדול יסרב:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:45"
+        },
+        "46": {
+          "he": "(מו) לא ירד - ואפילו אם הוא מתחרט אח\"כ ואומר הריני עובר בצבועים לא שבקינן ליה:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:46"
+        },
+        "47": {
+          "he": "(מז) באותה תפלה - דכיון שלא שמענו ממנו בהדיא דברי אפיקורסות די לחוש עי\"ז לאותה תפלה לבד:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:47"
+        },
+        "48": {
+          "he": "(מח) אמתלא - כגון שאמר שדיבורו היה לכבוד המקום וללבוש לבנים מ\"מ כיון שהצבור בקשו ממנו להתפלל להם כך לא היה לו להיות סרבן כיון דמדינא מותר. כתב הפר\"ח דוקא אם אח\"כ אמר האמתלא אבל אם מיד כשאמר שאיני עובר בצבועים אמר תיכף הטעם שאין דרך כבוד לד' כ\"א בלבנים ירד עי\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:48"
+        },
+        "49": {
+          "he": "(מט) מלהיות ש\"ץ - לפי שלא יוכל לאמר אלהי אבותינו אבל כשהוא מתפלל בינו לבין עצמו יאמר אלהי אבות ישראל:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:49"
+        },
+        "50": {
+          "he": "(נ) ונדחו דבריהם - דהוא יכול לומר ג\"כ אלהי אבותינו דאברהם נקרא אב המון גוים כדכתיב כי אב המון וגו' מפני שלמד לכל העולם אמונת ד'. ש\"ץ ממזר תלוי במחלוקת אם ממזר כשר לכתוב תפילין [כן כתוב בשיורי כנה\"ג] ולפי זה להמ\"א בסי' ל\"ט שכתב בשם הד\"מ דמותר לכתוב תפילין מותר להיות ש\"ץ אמנם בספר ברכי יוסף ביו\"ד רפ\"א מסיק דש\"ץ לא יהיה ותפילין שכתב כשרים:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:50"
+        },
+        "51": {
+          "he": "(נא) יכול לעכב - בעת ההתמנות והטעם שהרי התפלות במקום התמידים תקנום וכל ישראל יש להם חלק בתמידים ומי יוכל להקריב קרבנו שלא מדעתו אם לא שכבר הסכים עליו ואז אין יחיד וגם חצי הקהל יכולין להעבירו אפי' רוצים ליתן לו שכרו משלם כיון שלא עשה שלא כהוגן אבל רוב הקהל יכולין להעבירו אם נותנין לו שכרו משלם [א\"ז] ועכשיו הרשות להעבירו רק ביד ז' טובי העיר או הנבררים כל מקום ומקום לפי התקנה [פמ\"ג]:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:51"
+        },
+        "52": {
+          "he": "(נב) איני רוצה - ודוקא שיש ש\"ץ אחר שיוכלו הקהל להשכירו בדמיו אבל אם אינו בנמצא או שהוא בנמצא אלא שבא להוסיף בדמים יכולין הקהל לומר לו אין בידינו להוסיף אלא הוא יוסיף משלו ואף אם יברר טענתו שזה השני הוא מעולה מן הראשון כנגד תוספות הדמים אפ\"ה יכולין הקהל לומר אין יכולת כ\"כ בידינו להוסיף בדמים:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:52"
+        },
+        "53": {
+          "he": "(נג) שפלוני יהיה חזן - ה\"ה בכל המינוים יכול למחות אפילו בחכם מרביץ תורה [תופס ישיבה] ודוקא כשרוצה לקבל אחר אבל אם מוחה שאינו רוצה שיהיה מרביץ תורה בקהל פשיטא שאין במחאתו כלום ואפילו המיעוט יכולין לכוף לרוב ואפילו ברוצה למנות אחר אם אותו שרוב הקהל מסכימים עליו הוא עדיף מזה ג\"כ אינו יכול למחות ואפשר דאפילו מיעוט יכולין לכוף לרוב לשכור מעולה [כנה\"ג] כתבו האחרונים שזה הדין דשו\"ע הוא דוקא בימיהם אבל היום שידוע שבעו\"ה הרבה מחזיקין במחלוקת בלי טעם וריח וכונתם שלא לש\"ש אם היו צריכין לשאול לכל יחיד ויחיד בענין המינויים בין לענין מינוי הש\"ץ או מרביץ תורה ואב\"ד בעיר וכל כה\"ג לא היו מסכימים לעולם ע\"כ הולכין אחר רוב פורעי המס ואפילו פסולי קורבי ביניהם [מ\"א] ועכשיו המנהג שהולכין אחר ז' טובי העיר או אחר הנבררים מן הקהל ע\"ז כל מקום ומקום לפי מנהגו [פמ\"ג] והכל שלא ירבו המחלוקת ואין משגיחין על יחיד והמ\"א כתב עוד טעם דלא שייך היום דין דעיכוב יחיד לענין ש\"ץ דדוקא בזמניהם שהיה הש\"ץ מוציא רבים י\"ח בתפילתו אז היה יחיד יכול לעכב דאין נעשה שלוחו בע\"כ משא\"כ עתה שכולם בקיאים רק הש\"ץ הוא לפיוטים אע\"פ שאומר קדיש וברכו אין כל כך קפידא:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:53"
+        },
+        "54": {
+          "he": "(נד) מתחלה - ואם קבלוהו לזמן ונשלם הזמן לא מקרי הסכים עליו מתחלה דעכשיו הוי קבלה חדשה וכאלו לא היה שם עדיין [ט\"ז] ועיין מה שכתבנו בסוף ס\"ק הקודם. ראובן שהיה ש\"ץ שכיר שנה והשלים שנתו והתחיל להתפלל ימים מספר מהשנה החדשה ומקצת אנשים מיחו בו באמרם שכבר נשלם השנה שהשכירוהו ושאינם רוצים אותו עוד והש\"ץ טען שמאחר שכבר התחיל להתפלל בהימים נוראים שהם מהשנה החדשה ולא מיאנו בו שלהיותו שכיר שנה מקצתה ככולה ושיפרעו לו משלם פסק בתשובת מ\"ץ דהדין עם הש\"ץ. עיין לקט הקמח י\"ד ע\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:54"
+        },
+        "55": {
+          "he": "(נה) טובי העיר - ר\"ל שהציע לפניהם איזה ענין שבשביל זה אינו מתרצה בו כגון שמידותיו אינם ישרים בעיניו וכה\"ג ולא טענת פסול דבזה לכו\"ע אין יחיד יכול למחות כל זמן שלא בירר כי יש לחוש לפגמו:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:55"
+        },
+        "56": {
+          "he": "(נו) שונאו - ר\"ל שידוע באמת מכבר שהם שונאים זה לזה לכך יכול למחות בו דאינו נעשה שלוחו לתפלה בע\"כ אבל אם אומר שהוא שונאו לאו כל כמיניה:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:56"
+        },
+        "57": {
+          "he": "(נז) קודם וכו' - אבל אם נעשה שונא לש\"ץ לאחר שהסכים עליו תו אין היחיד יכול למחות אלא הש\"ץ מחוייב לומר בפירוש שיסיר הקנאה מלבו ויוציאנו בתפלתו. גם אם מכוין שלא להוציא השונא גם אוהבים לא יצאו ע\"כ צריכין החזנים ליזהר בזה [פמ\"ג] כתב בד\"מ בשם א\"ז אין ש\"ץ צריך להחניף לצבור במילי דשמיא וצריך להוכיחן. אך בעניני עצמו יראה להעביר על מדותיו ויהיה אהוב להקהל וכדלקמיה:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:57"
+        },
+        "58": {
+          "he": "(נח) שונא לש\"ץ - ר\"ל כיון שהוא שונא לש\"ץ מסתמא הש\"ץ ג\"כ אינו אוהבו כי כמים הפנים לפנים וגו' ואולי יכוין ש\"ץ הקורא בהתוכחה נגד פניו וחשש סכנה היא לו ע\"כ פסק דמפני זה אפילו קראהו לא יעלה וכנה\"ג כתב דיותר טוב שיעלה משיכנס לעונש בשביל שהוא מבזה כבוד התורה וכן הסכים הגר\"א וכן כתב בספר שערי אפרים וז\"ל צריך שיהיה אהוב להצבור והוא אוהבם ואם אירע שהקורא יש לו שנאה על אחד מהצבור מוטל על הסגן שלא יצוה לקרות לזה לפרשת התוכחה מפני שסכנה היא ואם יודע שהקורא שונאו ומתיירא שמא יקראוהו יצא בין גברא לגברא מבהכ\"נ עד שיקראו אחר ויכנס אח\"כ ואם לא יצא וקראוהו יעלה כיון שהוא מתכוין משום כבוד התורה שומר מצוה לא ידע דבר רע. ואסור להקורא לחשוב בשעת קריאתו ענין קללה לנוכח שום אדם עי\"ש וכתב בפתחי שערים דאף להמג\"א יעלה בדיעבד אם קראהו:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:58"
+        },
+        "59": {
+          "he": "(נט) בשביל אביו - פי' שמת אביו ורוצה להתפלל כדרך האבלים כי תפלה היא יותר מצוה מאמירת הקדיש:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:59"
+        },
+        "60": {
+          "he": "(ס) שירצה הקהל - הטעם דדוקא קדיש יכול לומר בשביל אביו ואין רשות ביד הקהל לדחותו אבל לא יכול להיות שליח הקהל להתפלל על כרחם ולענין זה הוא ג\"כ כמו בש\"ץ שאין יחיד מוחה כדי שלא ירבה המחלוקת אלא הולכין אחר רוב או הנבררים לזה וכמו שכתבנו לעיל בשם האחרונים. יש מקומות שיש להם תקנה בבהכ\"נ שאין מניחין לאבל להתפלל כל השבוע לפני התיבה כ\"א להש\"ץ הקבוע שלהם אין לדחות התקנה [ונעשית מפני ע\"ה שאינם יודעים ומבינים הברכות והתפילות ואומרים טעות ואיכא זילותא לכך תקנו אפילו על היודעים שלא יתפללו משום דלא ליתי לאנצויי] אכן במקום דליכא תקנה ומנהג קבוע מצוה לקהל להניח לאבל להתפלל שהוא נחת רוח למת ומצילו מדינו של גהינם ומיהו ודאי כשאין יכול לחתוך האותיות וכדומה אין לו להתפלל לפני העמוד. כתב המ\"א אם יש אבל ומוהל נדחה האבל מן התפלה מחמת המוהל ויום שמת בו אביו ואמו שקורין יארצייט דוחה למוהל ולאבל וכל זה שאין הקהל מקפידין ע\"ז אבל יש רשות ביד הקהל לבחור עליהם מי שירצו:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:60"
+        },
+        "61": {
+          "he": "(סא) הוא יאמר - ובתפלת מעריב שהיא אינו כנגד תמידים רק כנגד איברים ופדרים אפשר דא\"צ דעת בעלים ואין הקהל יכולין לעכב לאבל להתפלל מעריב דמצוה שיתפלל מי שמת לו אביו ואמו ומ\"מ ודאי אין להתקוטט בשביל שום מצוה עם הצבור וכדלקמיה בסעיף קטן ס\"ה [פמ\"ג]:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:61"
+        },
+        "62": {
+          "he": "(סב) אף שרוב הצבור חפצים בו - והשר ביקש מהמיעוט הממאנים שיסכימו עליו כי חלילה לקבל עבודת בוראנו ע\"י העכומ\"ז:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:62"
+        },
+        "63": {
+          "he": "(סג) בשכר עדיף - שבזה אין אחר שאינו הגון רשאי לפשוט רגלו להתפלל ואם היה בנדבה הרשות נתונה לכל וכפרוץ הדבר יעלה מי שאינו הגון ועוד הש\"ץ יהי' בעצמו יותר נזהר בתפלתו ובתיקונו הואיל ושכיר הוא. ואף שיש בחנם צריכין העניים ג\"כ ליתן שכירות הש\"ץ שש\"ץ בשכר עדיף [פמ\"ג]:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:63"
+        },
+        "64": {
+          "he": "(סד) להתפלל - או לתקוע [ב\"י]:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:64"
+        },
+        "65": {
+          "he": "(סה) בלא רצון - ואין לאדם להתקוטט בעבור שום מצוה כגון גלילות ס\"ת וכיוצא בו שהרי שנינו הצנועים מושכים את ידיהם מלחם הפנים והגרגרנים חוטפים ואכילת לחם הפנים הוא מצוה ופשוט דדוקא אם המצוה תתקיים ע\"י אחר אבל אם המצוה תתבטל לגמרי כגון הכנסת אורחים או החזקת ת\"ת ויש בידו למחות בודאי מחוייב למחות כדי להחזיק המצוה שהרי מדינא כופין על ענינים כאלו כמבואר בח\"מ בסימן קס\"ג ס\"א בהג\"ה וסוף סעיף ג':",
+          "en": "",
+          "ref": "Mishnah Berurah 53:65"
+        },
+        "66": {
+          "he": "(סו) אין עונין - שאין זה מברך אלא מנאץ שנאמר בוצע ברך ניאץ ד':",
+          "en": "",
+          "ref": "Mishnah Berurah 53:66"
+        },
+        "67": {
+          "he": "(סז) שכר ש\"ץ - ובסימן נ\"ה סכ\"א שפוסק דחציו לפי ממון וחציו לפי נפש עיין בספר אליהו רבא שמחלק דבחזן שאני עי\"ש ובביאור הגר\"א משמע שהמחבר חזר בו ופסק שם כהג\"ה שבכאן:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:67"
+        },
+        "68": {
+          "he": "(סח) מקופת הקהל - שניגבית לפי הממון:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:68"
+        },
+        "69": {
+          "he": "(סט) חצי וכו' - כי יש סברא לומר שהעני צריך להחזן כמו העשיר ויש לפעמים שהעשירים נותנים יותר ממון להחזן שקולו ערב יותר גם שהעני יכול לילך למקום אחר ע\"כ עשו פשרה זאת:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:69"
+        },
+        "70": {
+          "he": "(ע) הקהילות - בדרכי משה כתב דמנהג מדינותינו דל ועשיר נותנין בשוה וזהו החציו שלפי נפשות וגם מכל נשואין מגיע לו כפי נדן והוא החציו שלפי ממון ולבוש כתב דבמקום שאין מנהג יגבו לפי ממון עיין בח\"מ סימן קס\"ג ס\"א בהג\"ה [מ\"א] ועיין בדרכי משה דמשמע מיניה דאפילו דעת הפוסקים דפוסקים לפי ממון איננו רק בשכירות הש\"ץ ששוכרין אותו לימים נוראים דבזה ס\"ל לפי ממון כי העשירים מחמת עשרם לא יוכלו לצאת מבתיהם ולהניחם ריקם והעניים יכולים לילך על עתים הללו לעיר אחרת משא\"כ בש\"ץ ששוכרין על כל השנה אין מחשבין לפי ממון לבד:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:70"
+        },
+        "71": {
+          "he": "(עא) הוא קודם - אע\"ג דיחסר להם עי\"ז מצות תפלה שלא יהיה להם מי שיוציאם ידי חובתם זה שיהיה רב ומ\"ץ שיודיעם תורת ד' ומשפטיה עדיף מן התפלה ועיין בבה\"ל שכתבנו גודל החיוב בכל עיר לזה וכתב בתשו' ח\"ס חא\"ח סי' ר\"ו דכל אנשי העיר מחוייבים ליתן לזה ואין א' יכול לאמר אין אני צריך לרב ומ\"ץ דמ\"מ צריך לישא בעול עם הצבור דומיא דכל אנשי העיר מחוייבין ליתן על המקוה עי\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:71"
+        },
+        "72": {
+          "he": "(עב) ואם לאו - ר\"ל כיון דבלא\"ה לא יוכל להורות לעם האיך שיתנהגו ע\"פ התורה ש\"ץ קודם שיוציאם עכ\"פ ידי חובתם בתפלה:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:72"
+        },
+        "73": {
+          "he": "(עג) חזן מאומנתו - וה\"ה לכל התמנות במקום שלא נהגו למנות לזמן ידוע והטעם שלא יחשדום שנמצא בהם פסול:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:73"
+        },
+        "74": {
+          "he": "(עד) בו פסול - בעדים. ואז אין מקבלין אותו עד שישוב בתשובה שלמה בלי ערמה ומרמה אבל בשבועה בעלמא שלא ילך בדרכים אלו לא מהני דבלא\"ה מושבע ועומד מהר סיני הוא:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:74"
+        },
+        "75": {
+          "he": "(עה) ואין מסלקין - אבל למנותו לכתחלה אפילו בשביל רינון בעלמא יש למנוע ואפילו אם הרינון היה עליו רק בילדותו וכדלעיל בסעיף ד':",
+          "en": "",
+          "ref": "Mishnah Berurah 53:75"
+        },
+        "76": {
+          "he": "(עו) שנתפס וכו' - ומ\"מ יש לחוש לקול להושיב ב\"ד על ככה. ש\"ץ שבתו זינתה תחת בעלה אין למנותו לכתחלה אך אם נעשה זה אחר שכבר נתמנה נראה דאין להורידו בשביל זה:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:76"
+        },
+        "77": {
+          "he": "(עז) או שמסר אדם - ש\"ץ המאיים ע\"ח למוסרו לעכו\"ם ולא מסר אע\"פ שמכוער הדבר אפי' לאדם שאינו ש\"ץ אינו נפסל על כך אלא גוערין בו ומתרין בו שאם יוסיף לומר כדברים הללו שיעבירוהו ממעלתו ואם הוסיף במרדו ראוי להעבירו:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:77"
+        },
+        "78": {
+          "he": "(עח) עליו עדים - ומדברי המ\"א לעיל בסק\"ז משמע דאפילו בקלא דלא פסיק יחיד מוחה עליו להעבירו וכן משמע ביש\"ש חולין סוף סימן נ\"ב ועיין בבה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:78"
+        },
+        "79": {
+          "he": "(עט) מעבירין אותו - ואם עשה תשובה מהני שלא לסלקו אף אם עבר במזיד אבל למנותו מבואר בס\"ה בהג\"ה דבמזיד לא מהני תשובה דאין פרקו נאה ועי\"ש במ\"ב סקכ\"ב. ואם עשה בילדותו עבירה ועדיין לא שב אף אם מינוהו מעבירין אותו דפסול בעבירה לעדות [פמ\"ג]:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:79"
+        },
+        "80": {
+          "he": "(פ) הצואין - ש\"ץ שמתוך חליו לאנסו א\"א לנקות להיותו טהור מקרה לילה ואין מטהר עצמו כלל והוא ש\"ץ אפשר בימים נוראים יש לגעור בו שיטבול ועכ\"פ שיוציא הבגדים הצואים מעליו ואם לא ישמע לדברי חכמים לרחוץ יפה ולהסיר הבגדים הצואים מעליו ראוי להעבירו:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:80"
+        },
+        "81": {
+          "he": "(פא) להחליף - וטוב שיחליף בגדיו המלוכלכים כל היום כשהולך בין הבריות שלא יהא בכלל המשניאים דכשם שת\"ח אסור לצאת בשוק בבגדיו המלוכלכים כך ש\"ץ אע\"פ שאינו ת\"ח:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:81"
+        },
+        "82": {
+          "he": "(פב) בשירי הנכרים - ר\"ל בניגון שהנכרים מנגנים בו לעבודת גילולים שלהם וב\"ח בתשובה סי' קכ\"ז כתב דוקא בניגון שמיוחד לזה. ההולך בערכאות של עו\"ג פסול להיות ש\"ץ בר\"ה ויוה\"כ אלא א\"כ עשה תשובה [א\"ר בשם תורת אמת] ונ\"ל דמיירי שלא נשאר עי\"ז ממון חבירו בידו כגון שהיה בזה דיניהם כדיננו אפ\"ה פסול עכ\"פ בר\"ה ויוה\"כ דהוא עון גדול מצד עצמו כדאיתא בח\"מ סימן כ\"ו דאל\"ה הלא הפסול מחמת עבירה אפילו בשאר ימות השנה אין לו להיות ש\"ץ כדלעיל בס\"ק י\"ד ואולי בזמנינו בעו\"ה דנשתכח האיסור מכמה אנשים ואפשר דהוא שוגג בדבר אין לפוסלו וכדאיתא כעין זה בח\"מ סימן ל\"ד סעיף ד' ע\"ש ועכ\"פ לענין ש\"ץ בר\"ה ויוה\"כ בודאי יש להחמיר. ש\"ץ שהיה שוחט ונמצא שמכר טרפה בחזקת כשרה בשוגג או שהיה מנקר ונמצא אחריו חלב אע\"פ שאין מסלקין אותו מש\"ץ מ\"מ אין למנותו לכתחלה [כנה\"ג] ואם עשה תשובה מותר אפילו למנותו כדלעיל בס\"ה בהג\"ה. קהל שחלקו תפלת ר\"ה ויוהכ\"פ כנהוג אם חלה אחד מהם ולא יכול להתפלל אינו רשאי להעמיד איש אחר במקומו וביד הקהל דוקא להעמידו [שערי אפרים סימן ל\"א ועיין בתשובת כנסת יחזקאל סי' י\"ג]:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:82"
+        },
+        "83": {
+          "he": "(פג) שליח ציבור שהזקין - וה\"ה בכל המינויים ג\"כ בנו קודם ואפילו יש אחרים גדולים ממנו כיון שהוא ממלא מקום אבותיו. י\"א דבחכם הממונה להרביץ תורה או לדון לא אמרינן שבניהן קודמין ויש חולקין עיין במ\"א ובכנה\"ג ובע\"ת ובתשו' ח\"ס חא\"ח סי י\"ג:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:83"
+        },
+        "84": {
+          "he": "(פד) ורוצה וכו' - כתב הרשב\"א שם ה\"ה דבכל עניני המינויים אם רוצה המנוי שאחד יסייענו באותו מינוי לפרקים הרשות בידו וכתב הכנה\"ג דוקא אם הוא ראוי לכך הן בענין המלאכה הן ביראת שמים:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:84"
+        },
+        "85": {
+          "he": "(פה) ערב - ובלבד שלא יהא קולו משונה. אין להעביר ש\"ץ בשביל אחר שקולו ערב. ואם הרוב חפצים באחר ישמשו שניהם כאחד:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:85"
+        },
+        "86": {
+          "he": "(פו) הצבור לזמן - עיין בתשובת חמדת שלמה סי' ז' בשכרו חזן לזמן ג' שנים דמסיק אהך דינא דהכא דהוא דוקא במקום שהמנהג שלאחר הזמן יצאו אלו אבל בזמננו דאין דרך לסלק בלא חשדא ודאי אין לסלקו בחנם משום שלא לעשות עליו חשדא עי\"ש. ועיין בתשובת ח\"ס סי' ר\"ו ג\"כ כעין זה אם לא כשהתנו בפירוש שלאחר הזמן שגבלו יהיה כלה זמנו ושני הצדדים יהיו יכולין לחזור וצריך קבלה ומנין חדש עי\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:86"
+        },
+        "87": {
+          "he": "(פז) נכתב לשמו - פי' נכתב לש\"ש ולא לשם התפארות ואפילו אם הסידור של היחיד הוא בכתב נאה יותר מהצבור. ובספרים הנדפסים אין חילוק בין של צבור ליחיד. כ' הפמ\"ג נכון אף ליחיד להתפלל מתוך הסידור כ\"ש ש\"ץ שאימת צבור עליו שיתפלל בפנים. וקורין ש\"ץ חזן שצריך לראות האיך יקרא ותרגום וירא וחזי [רד\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 53:87"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

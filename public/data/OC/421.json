@@ -1,0 +1,95 @@
+{
+  "chelek": "OC",
+  "siman": 421,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-07T23:49:27.507Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "קריאת ובראשי חדשיכם בפסוקי דזמרה. ובו סעיף אחד:נוהגין באשכנז שאומרים פרשת ובראשי חדשיכם שחרית אחר פרשת התמיד ובספרד אין נוהגין לאומרה לפי שעתידין לקרות אותה בספר תורה:",
+      "en": "The recitation of \"And on your new moons\" in Pesukei Dezimra. Contains one sectionThe custom in Ashkenaz is to recite the passage of \"And on your new moons\" in the morning service after the passage of the daily offering. In Sepharad the custom is not to recite it, since it will be read later from the Torah scroll.",
+      "ref": "Shulchan Arukh, Orach Chayim 421:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "טור ציינתיו לעיל סי' מ\"ח.",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 421:1"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "ובראשי חדשיכם עמ״א ועסי׳ מ״ה ובתקפ״ד סעיף א׳ בלבוש ותקפ״א ס״א ותקפ״ב שאין מזכירין ובראשי חדשיכם בברכות יע״ש ומה שכתב במוסף מלבד עולת החדש י״ל עולה שאני לא חטאת ועוד שאין מזכיר בפירוש ראש חדש בכסה כו׳ ואי״ה יבואר בה׳ ר״ח וכל המשנה ובפרט לומר בקול רם ובר״ח בר״ה לא יפה עושה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 421:1"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "מ״ש המחבר נוהגין שאומרים פ׳ ובראשי חדשיכם בראש השנה אם אומרים ובר״ח עסי׳ תקפ״ב ותקפ״ד בלבוש ובסימן מ״ח כתבתי שא״א פ׳ ובראשי חדשיכם יע״ש ואי״ה בה׳ ר״ה יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 421:1"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] [לבוש] משום זכר וכו'. נהגו לעמוד בשעת אמירת ראש חודש ביום פלוני דוגמת קידוש החודש שהיה מעומד (מגן אברהם סימן תי\"ז):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 421:1"
+        },
+        "2": {
+          "he": "[ב] נוהגין וכו'. עיין סימן מ\"ח:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 421:2"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "ובראשי חדשיכם. לפרסם שהוא ר\"ח עסי' מ\"ח ויש סמך לזה ממתני' דסוף שקלים:",
+          "en": "",
+          "ref": "Magen Avraham 421:1"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) שאומרים פרשת ובראשי חדשיכם - כדי לפרסם שהוא ר\"ח [מ\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 421:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

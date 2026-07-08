@@ -1,0 +1,526 @@
+{
+  "chelek": "OC",
+  "siman": 224,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 13,
+  "fetchedAt": "2026-07-07T23:49:21.226Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני ברכות פרטיות. ובו יג סעיפים:הרואה מרקוליס או שאר עכו\"ם אומר ברוך אתה ה' אלהינו מלך העולם שנתן ארך אפים לעוברי רצונו ואם רואה אותו בתוך ל' יום אינו חוזר ומברך: הגה והאידנא אין מברכים זאת הברכה שהרי אנו מגודלים ביניהם ורואים אותו תמיד:",
+      "en": "Celui qui voit une idole de Mercure (Merkoulis) ou d'autres formes d'idolâtrie dit : Baroukh ata Adonaï Eloheïnou melekh ha'olam ché-natan érekh appaïm la'ovré rétsono. (Béni sois-Tu, Éternel notre Dieu, Roi du monde, qui accorde patience à ceux qui transgressent Sa volonté.) Et s'il l’a déjà vue dans les 30 derniers jours, il ne récite pas de nouveau la bénédiction. Note du Réma : De nos jours, on ne récite pas cette bénédiction, car nous sommes élevés parmi eux et les voyons constamment.",
+      "ref": "Shulchan Arukh, Orach Chayim 224:1"
+    },
+    {
+      "seif": 2,
+      "he": "הרואה מקום שנעקרה ממנה עכו\"ם אם הוא בארץ ישראל אומר ברוך אתה ה' אלהינו מלך העולם שעקר ע\"א מארצנו ואם הוא בחוצה לארץ אומר שעקר ע\"א מהמקום הזה ואומר בשתיהן כשם שעקרת אותה מהמקום הזה כן תעקור אותה מכל המקומות והשב לב עובדיהם לעבדך: הגה ואם נעקרה עכו\"ם ממקום א' ונתנוה במקום אחר מברך על מקום שנעקרה שעקר עכו\"ם ועל מקום שנתנוה לשם שנתן ארך אפים (ב\"י בשם תוס' ירוש'):",
+      "en": "Celui qui voit un lieu d'où l'idolâtrie a été éradiquée : s'il est en terre d'Israël, il dit : Baroukh ata Adonaï Eloheïnou melekh ha'olam ché‘akar avoda zara méartsénou. (…qui a déraciné l'idolâtrie de notre terre.) S’il est en dehors d’Israël, il dit : ché‘akar avoda zara mimakom hazé (…qui a déraciné l’idolâtrie de ce lieu). Dans les deux cas, on ajoute : Kéchem ché‘akarta ota mimakom hazé, kakh ta‘akor ota mikol hamekomot, véhachév lev ‘ovdéhem la‘avdécha. (De même que Tu l’as déracinée de ce lieu, déracine-la de tous les lieux et ramène le cœur de ses adorateurs à Te servir.) Note du Réma : Si l’idolâtrie a été retirée d’un lieu et placée ailleurs, on récite sur le lieu d'où elle a été ôtée : ché‘akar avoda zara (…qui a déraciné l’idolâtrie), et sur le lieu où elle a été placée : ché’natan érekh appaïm (…qui accorde patience) (selon le Beit Yossef au nom des Tosafot de Jérusalem).",
+      "ref": "Shulchan Arukh, Orach Chayim 224:2"
+    },
+    {
+      "seif": 3,
+      "he": "הרואה בבל הרשעה אומר ברוך אתה ה' אלהינו מלך העולם שהחריב בבל הרשעה. ראה ביתו של נבוכדנצר אומר ברוך שהחריב ביתו של נבוכדנצר הרשע. ראה גוב אריות או כבשן האש אומר ברוך שעשה נס לצדיקים במקום הזה: (וע\"ל סי' רי\"ח סעיף ז):",
+      "en": "Celui qui voit Babylone la perverse dit : Baroukh ata Adonaï Eloheïnou melekh ha'olam ché’heriv Bavel harésha‘a. (…qui a détruit Babylone la perverse.) Celui qui voit la maison de Nabuchodonosor dit : Baroukh ché’heriv beto shel Nevoukhanetsar harasha‘. (…qui a détruit la maison de Nabuchodonosor le méchant.) Celui qui voit la fosse aux lions ou la fournaise ardente dit : Baroukh ché‘assa nés latsadikim bamakom hazé. (…qui a fait un miracle aux justes en ce lieu.) (Voir aussi au chapitre 218 §7.)",
+      "ref": "Shulchan Arukh, Orach Chayim 224:3"
+    },
+    {
+      "seif": 4,
+      "he": "ראה מקום שיש בבבל שכל בהמה שתעבור עליו אינה יכולה לזוז משם אם לא יתנו עליה מעפר המקום ההוא והיא סימן קללה לה דכתיב וטאטאתיה במטאטי (פירוש מכבדות הבית שקובל\"י בלע\"ז) השמד אומר ברוך אומר ועושה ברוך גוזר ומקיים:",
+      "en": "Celui qui voit un lieu en Babylonie où tout animal qui y passe ne peut s’en extraire, sauf si on met sur lui de la poussière de ce lieu – c’est un signe de malédiction, comme il est dit : « Je la balayerai avec le balai de destruction » – dit : Baroukh omer vé’ossé, baroukh gozer oumekayem. (Béni soit Celui qui dit et fait, béni soit Celui qui décrète et réalise.)",
+      "ref": "Shulchan Arukh, Orach Chayim 224:4"
+    },
+    {
+      "seif": 5,
+      "he": "הרואה ששים רבוא מישראל ביחד אומר ברוך אתה ה' אמ\"ה חכם הרזים ואם הם עכו\"ם אומר (ירמיה נ' יב) בושה אמכם חפרה יולדתכם הנה אחרית גוים מדבר ציה וערבה:",
+      "en": "Celui qui voit six cent mille Juifs rassemblés dit : Baroukh ata Adonaï Eloheïnou melekh ha'olam ‘hakhame hara’zim. (…qui est le Sage des secrets.) Et s’il s’agit de non-Juifs, il dit : « Honte à ta mère, confusion à celle qui t’a enfanté ; voilà la fin des nations, un désert, une steppe et une lande » (Jérémie 50,12).",
+      "ref": "Shulchan Arukh, Orach Chayim 224:5"
+    },
+    {
+      "seif": 6,
+      "he": "הרואה חכמי ישראל אומר ברוך אתה ה' אלהינו מ\"ה שחלק מחכמתו ליריאיו:",
+      "en": "One who says a Jewish scholar recites Blessed are You…who apportioned of His wisdom to those who fear Him",
+      "ref": "Shulchan Arukh, Orach Chayim 224:6"
+    },
+    {
+      "seif": 7,
+      "he": "הרואה חכמי אומות העולם מעכו\"ם שחכמים בחכמות העולם אומר ברוך אתה ה' אלהינו מ\"ה שנתן מחכמתו לב\"ו:",
+      "en": "One who sees scholars from the nations of the world who are knowledgeable in the wisdom of the world one recites Blessed are You… who gave His wisdom to flesh and blood",
+      "ref": "Shulchan Arukh, Orach Chayim 224:7"
+    },
+    {
+      "seif": 8,
+      "he": "על מלכי ישראל אומר ברוך אתה ה' אלהינו מלך העולם שחלק מכבודו ליראיו ועל מלכי אומות העולם עכו\"ם אומר ברוך שנתן מכבודו לבשר ודם:",
+      "en": "On Jewish kings on says Baruch Atah ... Shechalak Mikvodo Liyireav and on gentile kings one recites Blessed are You ... who gave from His honor to flesh and blood",
+      "ref": "Shulchan Arukh, Orach Chayim 224:8"
+    },
+    {
+      "seif": 9,
+      "he": "מצוה להשתדל לראות מלכים אפילו מלכי אומות העולם:",
+      "en": "It is a mitzvah to make an effort to see a king, even a gentile king",
+      "ref": "Shulchan Arukh, Orach Chayim 224:9"
+    },
+    {
+      "seif": 10,
+      "he": "הרואה בתי ישראל ביישובן כגון בישוב בית שני אומר בא\"י אמ\"ה מציב גבול אלמנה. הרואה בחורבנן אומר ברוך דיין האמת:",
+      "en": "Celui qui voit des maisons d’Israël habitées (comme à l’époque du Second Temple) dit : Baroukh ata Adonaï Eloheïnou melekh ha'olam matsil gevoul almana. (…qui protège les limites de la veuve.) Celui qui les voit en ruine dit : Baroukh dayan haémèt. (Béni soit le Juge de vérité.)",
+      "ref": "Shulchan Arukh, Orach Chayim 224:10"
+    },
+    {
+      "seif": 11,
+      "he": "הרואה בתי עכו\"ם בישובן אומר בית גאים יסח ה' בחרבנן אומר אל נקמות ה':",
+      "en": "Celui qui voit les maisons des non-Juifs habitées dit : Bet geïm yissakh Hachem. (La maison des orgueilleux, Hachem la déracinera.) Et quand elles sont en ruine, il dit : El nekamot Hachem. (Dieu des vengeances est Hachem.)",
+      "ref": "Shulchan Arukh, Orach Chayim 224:11"
+    },
+    {
+      "seif": 12,
+      "he": "הרואה קברי ישראל אומר בא\"י אמ\"ה אשר יצר אתכם בדין וכו' ועל קברי עכו\"ם אומר בושה אמכם וגו':",
+      "en": "Celui qui voit les tombes d’Israël dit : Baroukh ata Adonaï Eloheïnou melekh ha'olam asher yatsar etkhem badin… (…qui vous a formés avec justice, etc.). Et sur les tombes des non-Juifs il dit : « Honte à ta mère… » (cf. Jérémie).",
+      "ref": "Shulchan Arukh, Orach Chayim 224:12"
+    },
+    {
+      "seif": 13,
+      "he": "כל ברכות הראיה אם חזר וראה אותו דבר בתוך שלשים יום אינו חוזר ומברך:",
+      "en": "Regarding all the berachos recited upon seeing something if one saw that thing again within thirty days one does not repeat the beracha.",
+      "ref": "Shulchan Arukh, Orach Chayim 224:13"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברכות נ\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 224:1"
+        },
+        "2": {
+          "he": "ר' יונה שם בשם י\"מ וטו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 224:2"
+        },
+        "3": {
+          "he": "מהא דריש פ' הרואה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 224:3"
+        },
+        "4": {
+          "he": "שם נ\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 224:4"
+        },
+        "5": {
+          "he": "ירושלמי שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 224:5"
+        },
+        "6": {
+          "he": "שם וכרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 224:6"
+        },
+        "7": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 224:7"
+        },
+        "8": {
+          "he": "שם וכפי' רש\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 224:8"
+        },
+        "9": {
+          "he": "שם נ\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 224:9"
+        },
+        "10": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 224:10"
+        },
+        "11": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 224:11"
+        },
+        "12": {
+          "he": "סמ\"ק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 224:12"
+        },
+        "13": {
+          "he": "שם נ\"ח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 224:13"
+        },
+        "14": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 224:14"
+        },
+        "15": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 224:15"
+        },
+        "16": {
+          "he": "רש\"י שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 224:16"
+        },
+        "17": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 224:17"
+        },
+        "18": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 224:18"
+        },
+        "19": {
+          "he": "ממשנה דריש פ' הרואה ובגמ' נ\"ט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 224:19"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "מר קוליס עמ״א ויהיה ב׳ תיבות מר מחסידי עין (עמ״נ בשרש מיר לשון תמורה וחילוף וקלס לו שני פנים מקבילים (עמ״נ בשרש קלס) שבח ובזיון יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 224:1"
+        },
+        "2": {
+          "he": "שאר עמ״א בסי״א אות ט׳ הב״י מפרש בתי עכו״ם עשירים דבת״י אלילי עכו״ם מברך כו׳ והב״ח כתב בגלוי מברך כו׳ ובתיהם בית גאים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 224:2"
+        },
+        "3": {
+          "he": "והאידנא עמ״א ברי״ח אות ה׳ ועא״ר אות א׳ דאף מי שלא ראה תוך ל׳ אינו מברך יע״ש. ומ״ש הר״ב ואם נעקרה ונתנה במ״א י״ל בע״א שלא ראה אותו מימיו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 224:3"
+        },
+        "4": {
+          "he": "שחלק עמ״א אפשר רמז למ״ש הט״ז אות א׳ יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 224:4"
+        },
+        "5": {
+          "he": "בחכמת העולם עמ״א דאם חכמים רק כדת עכו״ם שלהם אין מברך כלל ודוקא חכמים בז׳ חכמות ועב״י:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 224:5"
+        },
+        "6": {
+          "he": "מלכי עמ״א ובא״ר ו׳ דבש״ס (נ״ח א׳) פתח ר״ש ובריך לי״ה משמע שאילת שלום לא הברכה דהרואה קאמר וכן כל ברכות הראייה סומא אין מברך ובסי׳ נ״ט (ביוצר אור) שנהנה ובמהרש״א בר״מ כתב שמברך עכ״ל הנה ברכת הראייה אין סומא מברך משא״כ על המלך דניכר כבודו אף לסומא כי אימתו מוטלת על הבריות ושותקין הכל כמבואר שם מברך וההוא צדוקי דא״ל למאן דלא חזית מברכת על שאלת שלום לא היה אומר לו כן. ובמהרש״א בח״א כתב ואפי׳ לר׳ יהודה דאמר סומא אין מברך יוצר המאורות כתבו התוס׳ פ׳ החובל דמדרבנן חייב עכ״ל ולכאורה יש לתמוה דהתוס׳ מגילה כ״ד א׳ ד״ה מי והחובל פ״ז א׳ ד״ה וכן בסומא אף מדרבנן פטור ובשאר מצות חייב לר״י (עמ״א ג״ן אות ט״ז) אם לא שנדחוק דכוונתו דר״ש ראה ונסתמא אח״כ וכה״ג מודה ר״י דפורס ע״ש מדרבנן חייב וא״כ י״ל בסומא שלא ראה מימיו אף המ״א מודה דאין מברך דלא ידע כלל הנאת העוה״ז בראייה שהרי ר״י מחלק כו׳ וצ״ע. וראוי שסומא יברך בלא שם ומלכות כאמור:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 224:6"
+        },
+        "7": {
+          "he": "להשתדל עמ״א ברכות י״ט ב׳ יע״ש כבוד הבריות דוחה ל״ת דרבנן:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 224:7"
+        },
+        "8": {
+          "he": "בתי עמ״א פירש הב״י דוקא בזמן שבה״מ קיים וכ״כ מהרש״א ז״ל בח״א שעתה בגלות ל״ש זה אבל בית גאים כו׳ יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 224:8"
+        },
+        "9": {
+          "he": "בתי עמ״א זה לפי׳ הב״י באות ח׳ ולב״ח כו׳ עי׳ אות ב׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 224:9"
+        },
+        "10": {
+          "he": "חזר עמ״א ועיין אות ז׳ ואפשר תוך ל׳ אף כשבא בכבוד יותר אין מברך ושם לאחר ל׳ להתבטל מלימודו או לתוך ל׳ עסי׳ רי״ח במ״א אות ד׳ אימתי מברך:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 224:10"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "שחלק בב״י ב׳ טעמים א׳ נפשות ישראל כחלק מה׳ משא״כ עכו״ם וה״ר דוד אבודרהם כ׳ חלק כצינור מהנהר שאפשר להרחיבו ולקצרו כן ישראל ולפי זכותם מתרבה ומתמעט משא״כ עכו״ם פסוקה ותלושה והב״ח כתב ע״ש מדרש רבה כי ה׳ יתן חכמה מפיו דעת ותבונה לאו״ה נתן חכמה אנושית (בשבע חכמות) ולא תורה וסודותיה ולישראל חלק מהכל מהתורה והסודות ולבוש פי׳ חלק כי לו חיו יחיו כמה א״א לבוא לתכלית התורה רק חלק משא״כ שבע חכמות מתנה כולה בידם שיוכלו לבוא לתכליתה. והט״ז ז״ל פי׳ כי מתנה סתמא לית בה אחריות כמבואר בח״מ דבמכר אחריות ט״ס כו׳ וא״כ כמו מתנה משקיבל המקבל אין שייכות והתערבות המקבל עם הנותן כי אע״פ שיקחו ממנו המתנה אין אחריותו על הנותן כן עכו״ם משא״כ ישראל כשחוטאים ע״ד צור ילדך תשי ודבוקים בו יתברך ע״ד השוכן אתם בתוך טומאתם וז״ש באברהם (בראשית כ״ה ו׳) ולבני הפילגשים נתן מתנות שם טומאה כלומר הזוהמא נפרד ממנו ונשאר בהם ואין להם שייכות כלל עם אברהם משא״כ ביצחק יקרא לך זרע חלק ממנו ועי׳ רא״ם שם ואין להאריך:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 224:1"
+        },
+        "2": {
+          "he": "הרואה עט״ז ועב״י דמ״ש רש״י בית שני דוקא בא״י ובה״מ קיים אז מברכין על בתי עשירים יע״ש א״כ אין לברך ברכה זו אלא בלא שם ומלכות וכן בתי כנסיות ביופיין ברוך מציב גבול אלמנה בלא שם ומלכות: הר״מ ז״ל פ״י מה״ב הי״ב כתב חכמי ישראל שנתן מחכמתו ליריאיו מלכי ישראל שנתן מכבודו וגבורתו ליריאיו ובפרישה תמה שבגמרא אמר שחלק יע״ש גם מ״ש מגבורתו ליתא בגמ׳ ובמהרש״א ח״א ליריאיו דכל שיראת חטאו קודמת חכמתו מתקיימת ובמלכים כבוד התורה יע״ש ועיין לבוש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 224:2"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] והאידנא וכו'. כן כתבו תוס' ריש פרק הרואה, ופירש הלבוש דקא משמע לן אף קטן שהגדיל אינו מברך. ולעניות דעתי קא משמע לן דאף מי שלא ראה בתוך שלושים אינו מברך כיון שיש רוב העולם שרואין, וכן משמע בפסקי תוס' ודלא כעולת תמיד. חילוק דינים אלו עיין בב\"ח ואחרונים וכתבו שאסור לראות מחולות של רשות וקנגיאות:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 224:1"
+        },
+        "2": {
+          "he": "[ב] [לבוש] לאבותינו וכו'. כתב מלבושי יום טוב שכן גירסת הש\"ס, אבל הרי\"ף והרא\"ש והשולחן ערוך גורסים לצדיקים במקום לאבותינו והוא יותר נכונה, עד כאן, וכן הוא בבעל הלכות גדולות ובכל הפוסקים וכן בלבוש גופיה לעיל סימן רי\"ח סעיף ז' וצריך עיון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 224:2"
+        },
+        "3": {
+          "he": "[ג] מעפר המקום וכו'. פירוש שני שכתב רש\"י שנוטלין ממנו עפר לטיט, כתבו גם כן תוספות רבינו יונה, וכתב קרא דוטאטתיה רצה לומר אעשה ממנו טיט:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 224:3"
+        },
+        "4": {
+          "he": "[ד] [לבוש] אי נמי או קאמר וכו'. וכן פסקו מעדני מלך ושיירי כנסת הגדולה ועולת תמיד. אבל הנחלת צבי הסכים לפירוש ראשון וכן עיקר, כי כן הוא בנוסח ש\"ס דילן ברוך אומר ועושה גוזר ומקיים, וכן מצאתי בבעל הלכות גדולות ובאגודה וקיצור פסקי הרא\"ש וספר זכרון להגאון מהר\"י הכהן ואבודרהם. מצאתי בשדה יהושע שצריך לומר נמי קרא וטאטתיה במטאטא השמד אבל לא משמע הכי בכל הפוסקים אך בכנסת הגדולה מצאתי סיוע לדבריו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 224:4"
+        },
+        "5": {
+          "he": "[ה] ששים ריבוא וכו'. משמע דסבירא ליה כרמב\"ם דאין מברך חכם הרזים על חכם גדול, ובטעם הדבר טרח הבית יוסף וב\"ח ולחם חמודות דחה אותם. ותימא שאני מצאתיו להדיא במלחמות השם לרמב\"ן דין זה ושני הטעמים, ולפי זה נראה נמי דוקא בארץ ישראל מברך אששים רבוא, ודו\"ק כי קיצרתי:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 224:5"
+        },
+        "6": {
+          "he": "[ו] מלכי ישראל וכו'. משמע בש\"ס אפילו סומא שיודע שהמלך עובר מברך, מגן אברהם. וצריך עיון בלשון הש\"ס פתח רב ששת וקא מברך ליה משמע שהיה מברך למלך כעין שאילת שלום ולא בירך הברכה להקב\"ה, וכן מסתבר דהש\"ס הרואה מלכי ישראל קאמר, וכן כל ברכות ראיות אין הסומא מברך, ולעיל ריש סימן נ\"ט שאני שנהנה עיין שם, מיהו מהרש\"א בחידושי אגדות הבין בפשיטות דמברך. וכתב בתשובת רדב\"ז השלטונים שבעריהם ואין עול מלך עליהם לשנות את דבריהם מהן ללאו ומלאו להן והורג במשפט מברך עליהם. עוד שם אם רואה כמה מלכים או חכמים ביום אחד מברך על כל אחד בפני עצמו, אבל לאותו מלך או חכם אינו מברך אלא משלושים לשלושים. עוד קיימא לן דמצוה להשתדל לראות מלכים, אפילו תוך ד' אמות לקבר מותר לכהן לילך לראותו דמותר לעבור אדרבנן לראות מלכים. וכתב בספר חסידים סימן תתקנ\"ה אם המלך ברוב חיל ותפארת והנה הצדיק שהלך לקראת המלך פעם אחת לא יבטל פעם אחרת אם לא ששמע שהמלך בא בחיל ובכבוד גדול יותר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 224:6"
+        },
+        "7": {
+          "he": "[ז] בתי ישראל וכו'. נראה לי עיקר כרי\"ף דוקא בבתי כנסיות וכן בבתי כותים מיירי בהכי, וכן כתב רש\"ל וכן משמע בכלבו סימן פ\"ז ובספר זכרון, וכן משמע בירושלמי. והא דלעיל דמברכין על כותים צריך לומר דמיירי בעבודה זרה עצמה כשעומדת בגלוי כמו שכתב הבית יוסף, ומכלבו נראה כאילו יש פלוגתא, ומאן דאמר הא לא אמר הא, וצריך עיון הא מתניתין היא מקום שנעקרה וכו'. ונראה לי מסתימות הפוסקים דאין חילוק בין ארץ ישראל לחוץ לארץ, ובין זמן הבית ובין שלא בזמן הבית, וכן משמע באבודרהם ודלא כבית יוסף וחידושי אגדות, ובבתי כותים לכולי עלמא אין חילוק. כתב מלבושי יום טוב גם בטור השמיט ויודע מספר כולכם בדין, אבל הרי\"ף והרא\"ש ורמזים כתבוהו, עד כאן, וכן משמע בבעל הלכות גדולות ורוקח ואבודרהם וספר זכרון ורבינו ירוחם וכלבו. כתב דרשות מהר\"ש כשהיה מהלך על קבר היה אומר יהי רצון שתהא מנוחתו של פלוני הקבור שם בכבוד וזכותו יעמוד לי. עוד כתב מה שתולשין עשב מקבר או נוטלין צרור ומשימין על המצבה אינו אלא משום כבוד המת להראותו שהיה על קברו. אין לילך על קבר אחד שני פעמים ביום אחד, כתבי הר\"י. כתב בליקוטים סוף מענה לשון הקורא כתב שעל גבי המצבה קשה לשיכחה, ויש לומר אהבה רבה עד באהבה ומסוגל מאוד לשיכחה. המנהג שאין עומדין מצבה עד אחר שתים עשרה חודש משום דהמצבה נראה לחשיבותא ובשתים עשרה חודש יש לו צער, אי נמי דהטעם דהמצבה שלא ישכחו אותו מלב, והמת אינו נשכח עד לאחר שתים עשרה חודש. נוהגין שלא ליקח דבר קטן וגדול מבית אבל כל משך שבעה ימי אבילות משום שרוח הטומאה שורה שבעה ימים שם. עוד קצת נוהגין שלא ימדוד בית החיים תוך שבעה ימים למת שנקבר. הקדמונים החרימו שלא ליטול מן הנהר אחר הלוויית המת, כי פעם אחת ביקשו הכותים עלילה והרגו כמה יהודים. מקפידים שלא ליקח המרא או חצינא מיד חבירו כשקוברין, אלא זורקין לארץ, ואחר כך לוקחים. בשעת רחיצת ידים מקפידים שלא ליקח הכלי מיד הרוחץ. עוד כתב ומרחיקין לפחות ארבע אמות לומר צידוק הדין וקדיש, ועיין ביו\"ד סימן שע\"ז וצריך עיון ועיין סוף סימן תקפ\"א:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 224:7"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "שחלק מחכמתו.  הא דקתני בישראל שחלק ובאומות שנתן ראיתי תי' רבים ונ\"ל עיקר דבישראל יש טעם לפי שהם דבקים בו ית' וכל שאתה אומר חלק צריך אתה לדעת ממי נחלק נמצא שיש יחוס לחלק אחר מי שנתחלק ממנו משא\"כ באומות שאין להם יחוס אחרי הנותן כמו כל מתנ' דלית בה אחריו' על הנותן אלא מה שזכה זכה ותו לא וע\"כ אמר הכתוב ולבני הפלגשים נתן אברהם מתנות פירש\"י שם טומאה מסר להם הוא ג\"כ על הכוונה שזכרתי שאחר שנתן להם מתנה זו שוב אין דביקות בנותן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 224:1"
+        },
+        "2": {
+          "he": "הרואה בתי ישראל.  כ' רש\"ל וז\"ל הרי\"ף פי' בתי כנסיו' ולפ\"ז צ\"ל מ\"ש אח\"כ הרואה בתי עע\"א היינו נמי בתי תיפלות שלהן. וא\"כ קשה הלא יש ברכה מיוחד להם כמ\"ש הרואה מרקוליס או שאר ע\"א או' ברוך שנתן ארך אפים וי\"ל התם כשרואה גוף העכו\"ם אבל הכא רואה הבית תורפה מיוחדת להם שמעמידין עכו\"ם בתוכ' ואינו רואה עכו\"ם עצמה. וי\"מ שקאי על כל בתי ישראל של מנהיגים ועשירים וביישובן דקאמר היינו כשיושבין בתוקפן ובכחן ולזה נתכוין רש\"י שפי' מציב גבול אלמנה כגון ישוב בית שני ולאו דוקא בנין ב\"ה קאמר דא\"כ הל\"ל הרואה ב\"ה אלא אכל בתי ישראל קאמר כשהן בישוביהן אחר ימי אלמנותן וזהו בבית שני וכ\"מ בגמ' דאכל בתים קאמר וכ\"מ בסוגיא דמייתי עלה עובדא דעולא ור\"ח כי מטא אפתחא דרב חנא כו' מיום שחרב ב\"ה נגזרה גזירה על בתי הצדיקים וכו' משמע דבתי בני ישראל בחורבנן דקאמ' היינו בתי עשירים של ישראל ובעלי צדקה וממילא נמי כה\"ג הא דבתי ישראל בישובן ולא נהגו כן אלא דוקא בבתי כנסיות ואיפכא בבית תרפות שלהם עכ\"ל. וב\"י כ' שאין מברכין על בתי ישראל אא\"כ היו בארץ ישראל ובזמן הבית וזה ג\"כ כוונת רש\"י כו':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 224:2"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "מרקוליס. פי' חילוף קילוס דאסור להזכיר ע\"א בשמה (ע\"א רפ\"ד):",
+          "en": "",
+          "ref": "Magen Avraham 224:1"
+        },
+        "2": {
+          "he": "שאר ע\"א. אפי' בית ע\"א (ב\"י) וב\"ח פי' דוקא כשרואה אותם בגלוי ועסי\"א מ\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 224:2"
+        },
+        "3": {
+          "he": "והאידנא. נ\"ל דבא לאשמועינן אפי' הולך לעיר אחרת וראה א\"א מ\"מ כיון דראה כיוצא בזה בעירו תוך ל' אינו מברך כנ\"ל עמ\"ש סי' רי\"ח סי\"ג ואפשר דבא להשמיענו דאפי' קטן שהגדיל אינו צריך לברך כיון שראה אותה בקטנותו כתב ב\"ח בשם ספר האשכול השמר לך לראות קניגנאות של עכו\"ם וה\"ה מחולת' או שום דבר שמחת' ואם תשמע קול עכו\"ם מחנגין ושמחים האנח ותצער על חורבן ירושלים ותתפלל להקב\"ה עלי' עכ\"ל ובפרק קמא דע\"א איתא דאפילו ההולך לקניגאות של ישראל ה\"ז בכלל מושב לצים:",
+          "en": "",
+          "ref": "Magen Avraham 224:3"
+        },
+        "4": {
+          "he": "שחלק. שישראל הם חלק אלוה ודבקים בו לכן אומר שחלק:",
+          "en": "",
+          "ref": "Magen Avraham 224:4"
+        },
+        "5": {
+          "he": "בחכמו' העולם. ואם אינן חכמים אלא בדתם אינו מברך עליהם השלטונים שאין עול מלך עליהם לשנות דבריה' ודן והורג במשפט מברך עליהם, ועל השרים שממנה המלך בכל עיר טוב וישר לברך בלא שם ומלכות, על השופט הגדול שהוא הקאד\"י אין מברכין כלל (רדב\"ז ח\"ב ג'):",
+          "en": "",
+          "ref": "Magen Avraham 224:5"
+        },
+        "6": {
+          "he": "מלכי ישראל. משמע בגמרא אפי' סומא שיודע שהמלך עובר מברך:",
+          "en": "",
+          "ref": "Magen Avraham 224:6"
+        },
+        "7": {
+          "he": "להשתדל. משמע בגמרא דמותר לעבור על מצות דרבנן לראות מלכים אפילו מלכי א\"ה ומ\"מ מדסיים משום כבוד מלכות לא גזרו רבנן משמע דוקא במלכי ישראל אמרו ומשום כבודן וכ\"מ מדלא כ' בי\"ד סי' שע\"ב דין זה משמע דוקא במלכי ישראל שרי וזה אין לנו עכשיו בעו\"ה, ומ\"ש בגמרא ולא לקראת כו' היינו שמצוה לרוץ לקראת מלכי א\"ה שאם יזכה לראות מלך המשיח שיבא במהרה יבחין מה בין גדולתם לגדולתו וידע שכר עושי מצות ומ\"מ אסור לעבור אפי' מצוה דרבנן בשביל זה, ובס\"ח סי' תתק\"נ כ' שאם רואה פעם אחת המלך אל יבטל יותר מלימודו לראותו אם לא שבא בחיל יותר ובכבוד גדול יותר וברמב\"ם ספ\"ג דאבל כ' בהדיא שמותר לטמא בטומא' של דבריה' מפני כבוד מלכי' אפי' למלכי א\"ה או מפני כבוד הבריו' כגון לנחם אבל וכ\"כ התו' בבכורות דף כ\"ט וכ\"ה בירושלמי דברכות וכתבו התו' דדוק' להני מצות אבל בשאר מצות בעי ניפוח וכ\"כ בפסחים ספ\"ח וכ\"כ הרמב\"ן בהשגות:",
+          "en": "",
+          "ref": "Magen Avraham 224:7"
+        },
+        "8": {
+          "he": "בתי ישראל. פי' בתי עשירי ישראל שמיושבים בתוקף ובגבורה כגון בישוב בית שני (רש\"י) ואפשר דוקא בא\"י קאמר ולא בח\"ל, וב\"ח כ' בשם רש\"ל שהן מיושבי עתה כגון בבית שני:",
+          "en": "",
+          "ref": "Magen Avraham 224:8"
+        },
+        "9": {
+          "he": "בתי ע\"א. פי' בתי א\"ה שיושבים בשלוה והשקט ועושר וב\"ח כ' בשם רש\"ל דנהגו העולם לומר דוקא על בתי כנסיות שמתפללין בתוכ' וכן להיפך בבית עכו\"ם:",
+          "en": "",
+          "ref": "Magen Avraham 224:9"
+        },
+        "10": {
+          "he": "חזר וראה. ודוקא כשראה אותו מלך אבל אם ראה מלך אחר צריך לברך (רדב\"ז בשם הראב\"ד ז\"ל):",
+          "en": "",
+          "ref": "Magen Avraham 224:10"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "מרקוליס.  פי' חילוף קילוס דאסור להזכיר ע\"א בשמה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 224:1"
+        },
+        "2": {
+          "he": "תמיד.  אפי' הולך לעיר אחרת כיון שראה כיוצא בזה בעירו וה\"ה קטן שהגדיל ל\"צ לברך כיון שראה בקטנותו מ\"א וכתב הב\"ח בשם ספר האשכול השמר לך לראות קניגנאות של עכו\"ם וה\"ה מחולתם או שום דבר שמחתם ואם תשמע קול עכו\"ם שמחים האנח ותצער על חרבן ירושלים ותתפלל להקדוש ב\"ה עליה ובפ\"ק דע\"ז דף י\"ח דאפי' ההולך לקניגאות של ישראל הרי זה מושב לצים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 224:2"
+        },
+        "3": {
+          "he": "ליראיו.  לפי שישראל דבקים בו יש יחוס לחלק אחר מי שנחלק ממנו משא\"כ בא\"ה אומר שנתן שאין דביקות בנותן מתנה למקבל. ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 224:3"
+        },
+        "4": {
+          "he": "העולם.  ואם אינם חכמים אלא בדתם אין מברך עליהם. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 224:4"
+        },
+        "5": {
+          "he": "מלכי ישראל.  אפי' סומא אומר. ברכות דף (נ\"א) [נ\"ח]:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 224:5"
+        },
+        "6": {
+          "he": "מלכים.  אם אינם הולכים שם עם הע\"ז עי' ס\"ח. השלטונין שאין עליהם עול מלך לשנות דבריהם ודן והורג במשפט מברך עליהם. ועל השרים שממנה המלך בכל עיר ועיר טוב לברך בלא שם ומלכות כנה\"ג בשם הרדב\"ז ומ\"א. אם רואה פעם אחת המלך אל יבטל יותר מלימודו לראותו אם לא שבא בחיל יותר ובכבוד גדול יותר ס\"ח מ\"א. ברמב\"ם ספ\"ג דאבל כתב שמותר לטמא בטומאה של דבריהם מפני כבוד מלכים או מפני כבוד הבריות כגון לנחם אבל עיין מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 224:6"
+        },
+        "7": {
+          "he": "בישובן.  דוקא בא\"י ולא בח\"ל. (ובס' אליהו רבה פסק דוקא בבתי כנסיות וכן בבית כותים מיירי בהכי כדעת הרי\"ף. וכ\"כ רש\"ל ובכל בו ובס' זכרון):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 224:7"
+        },
+        "8": {
+          "he": "קברי ישראל.  אפי' על קבר אחד יברך הרדב\"ז. אבל בהלק\"ט ח\"א סי' רי\"ב חולק וכ' דעל קבר אחד אינו מברך ע\"ש. כ' בדרשות מהר\"ש כשהיה הולך על הקבר היה אומר יהי רצון שתהא מנוחתו של פלוני פה בכבוד וזכותו יעמוד לי. עוד כתב מה שתולשין עשב או צרור ומשימין על מצבה אינו אלא משום כבוד המת להראות שהוא היה על קברו וכ' בר\"מ שיניח ידו על הקבר ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 224:8"
+        },
+        "9": {
+          "he": "אותו דבר.  ודוקא כשראה אותו מלך אבל אם ראה מלך אחר צריך לברך רדב\"ז. וה\"ה אם ראה קברות אחר וכן כל כיוצא בזה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 224:9"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) מרקוליס - היא ע\"ג שעובדין אותה עי\"ז שזורקין לה אבנים. ושמה העצמה קילוס ומפני שאסור להזכיר ע\"ג בשמה לכך כינו אותה בשם קוליס ומר הוא חילוף בלשון ארמי ופירושו הוא חילוף קילוס:",
+          "en": "(א) « Merkoulis » – Il s’agit d’une forme d’idolâtrie qu’on vénère en lui lançant des pierres. Son nom véritable est « Kilous », mais comme il est interdit de mentionner une idole par son vrai nom, on l’a désignée par un surnom : « Koliss », et le mot « Mar » est une substitution en araméen. Cela signifie donc une permutation du mot « Kilous ».",
+          "ref": "Mishnah Berurah 224:1"
+        },
+        "2": {
+          "he": "(ב) או שאר ע\"ג - אפילו בית ע\"ג [ב\"י] וב\"ח פי' דוקא כשרואה אותה בגלוי:",
+          "en": "(ב) « Ou toute autre forme d’idolâtrie » – Même un temple d’idolâtrie [selon le Beit Yossef]. Le Ba”h (Bayit Hadash) explique que cela ne s’applique que si on la voit de manière claire et ouverte.",
+          "ref": "Mishnah Berurah 224:2"
+        },
+        "3": {
+          "he": "(ג) והאידנא וכו' - שהרי אנו רואין אותה תמיד וכתבו האחרונים דאפילו הולך לעיר אחרת וראה שם ע\"ג אינו מברך כיון דראה את מין זה תוך למ\"ד בעירו ואפשר עוד דאפילו קטן שהגדיל א\"צ לברך כיון שראה אותה בקטנותו ובא\"ר כתב עוד מילתא חדתי דאפילו הוא לא ראה אותה תוך למ\"ד כיון שיש רוב העולם שהוא שוכן ביניהם שרואין אותה. כתב הב\"ח בשם ספר האשכול השמר לך לראות קנגיאות של כותים וה\"ה מחולתם או שום דבר שמחתם ואם תשמע קול כותים שמחים האנח ותצער על חורבן ירושלים ותתפלל להקב\"ה עליה. ואיתא בגמרא דאפילו ההולך לקניגיאות ולטיטראות של ישראל ה\"ז מושב לצים:",
+          "en": "(ג) « Et de nos jours, etc. » – Car nous les voyons constamment. Les A’haronim (décisionnaires postérieurs) écrivent que même si l’on se rend dans une autre ville et que l’on y voit une idole, on ne dit pas la bénédiction si on a vu le même type d’idole dans sa propre ville au cours des 30 jours. Il est même possible que, pour un enfant qui devient adulte, il ne soit pas tenu de réciter la bénédiction s’il l’a déjà vue durant son enfance. Le Elya Rabba rapporte encore une idée nouvelle : même si la personne elle-même ne l’a pas vue dans les 30 derniers jours, du moment que la majorité des gens de l’endroit où elle réside la voient régulièrement, elle ne récitera pas la bénédiction.",
+          "ref": "Mishnah Berurah 224:3"
+        },
+        "4": {
+          "he": "(ד) אם הוא בא\"י וכו' - אפילו רק ממקום אחד:",
+          "en": "Le Ba”h, au nom du Sefer HaEshkol, écrit : « Prends garde de regarder les kengeiot (processions ou statues) des idolâtres, et il en va de même pour leurs danses ou tout autre objet de leur réjouissance. Et si tu entends des idolâtres en fête, soupire et afflige-toi pour la destruction de Jérusalem, et prie Dieu à ce sujet. »",
+          "ref": "Mishnah Berurah 224:4"
+        },
+        "5": {
+          "he": "(ה) ועל מקום שנתנוה - היינו אם יש שלשים יום שלא ראה אותה וכנ\"ל:",
+          "en": "Et il est enseigné dans la Guemara : même celui qui se rend à des kengeiot (spectacles) et à des théâtres, même juifs, cela est considéré comme fréquentant une assemblée de moqueurs....",
+          "ref": "Mishnah Berurah 224:5"
+        },
+        "6": {
+          "he": "(ו) או כבשן האש - היינו החפירה שהוסק בה אז האש לחנניה מישאל ועזריה:",
+          "en": "(ו) « Ou la fournaise ardente » – Il s’agit de la fosse dans laquelle un feu avait été allumé à l’époque pour Hanania, Mishaël et Azaria.",
+          "ref": "Mishnah Berurah 224:6"
+        },
+        "7": {
+          "he": "(ז) ברוך אומר ועושה וכו' - היינו בשם ומלכות. בגמרא הגירסא ברוך אומר ועושה גוזר ומקיים:",
+          "en": "(ז) « Béni soit Celui qui dit et accomplit, etc. » – On récite cette bénédiction avec le Nom divin et la royauté (« Béni sois-Tu, Éternel notre Dieu, Roi du monde... »). Dans la Guemara, la version du texte est : « Béni soit Celui qui dit et accomplit, qui décrète et maintient. »",
+          "ref": "Mishnah Berurah 224:7"
+        },
+        "8": {
+          "he": "(ח) חכם הרזים - שאין דעתן דומין זה לזה ואין פרצופיהן דומין זה לזה והוא יודע מה בלב כל אלו האוכלוסין:",
+          "en": "(ח) « Sage des secrets » – Car les esprits des hommes ne se ressemblent pas, pas plus que leurs visages, et pourtant Dieu connaît ce qui est dans le cœur de chacun de ces innombrables individus.",
+          "ref": "Mishnah Berurah 224:8"
+        },
+        "9": {
+          "he": "(ט) שחלק - שעם ד' הם חלק אלוה ודבקים בו לכן אמר שחלק משא\"כ לקמיה בס\"ז:",
+          "en": "(ט) « Qui a partagé » – Car le peuple d’Israël fait partie de Dieu, ils Lui sont attachés. C’est pourquoi il est dit qu’Il a partagé Sa sagesse avec ceux qui Le craignent, ce qui ne s’applique pas au paragraphe suivant (sur les sages des nations).",
+          "ref": "Mishnah Berurah 224:9"
+        },
+        "10": {
+          "he": "(י) בחכמות העולם - היינו בהשבע חכמות לאפוקי אם הם חכמים בדתם ע\"ז אינו מברך כלל:",
+          "en": "(י) « En sagesse du monde » – Cela se réfère aux sept sciences (les « sept sagesses »). En revanche, s’ils sont sages uniquement dans leur religion idolâtre, on ne récite pas de bénédiction.",
+          "ref": "Mishnah Berurah 224:10"
+        },
+        "11": {
+          "he": "(יא) ועל מלכי וכו' - ומשמע בגמרא אפילו סומא כשיודע שהמלך עובר מברך ועיין בפמ\"ג שמצדד דאם הוא סומא שלא ראה מאורות מימיו יברך בלא שם ומלכות:",
+          "en": "(יא) « Sur les rois... » – La Guemara donne à comprendre que même un aveugle, s’il sait que c’est le roi qui passe, peut dire la bénédiction. Le Peri Megadim penche pour dire que si c’est un aveugle de naissance qui n’a jamais vu la lumière, il dira la bénédiction sans le Nom divin ni la royauté.",
+          "ref": "Mishnah Berurah 224:11"
+        },
+        "12": {
+          "he": "(יב) ברוך שנתן מכבודו וכו' - השלטונים שאין עול מלך עליהם לשנות דבריהם ודן והורג במשפט מברך עליהם. ועל השרים שממנה המלך בכל עיר ועיר טוב וישר לברך בלא שם ומלכות:",
+          "en": "(יב) « Béni soit Celui qui a donné de Sa gloire... » – Sur les gouverneurs qui ne sont pas soumis à une autorité supérieure, qui peuvent modifier les lois ou juger et condamner à mort, on récite cette bénédiction (avec le Nom). Mais sur les ministres nommés par le roi dans chaque ville, il est bon et juste de réciter la bénédiction sans le Nom divin ni la royauté.",
+          "ref": "Mishnah Berurah 224:12"
+        },
+        "13": {
+          "he": "(יג) לראות מלכים אפי' וכו' - ומותר לטמא בטומאה של דבריהן מפני כבודן בין למלכי ישראל ובין למלכי או\"ה וכן מפני כבוד הבריות כגון לילך לנחם אבלים. אם רואה פ\"א המלך לא יבטל יותר מלימודו לראותו אם לא שבא בחיל יותר ובכבוד גדול יותר:",
+          "en": "(יג) « S’efforcer de voir les rois, même ceux des nations » – Il est même permis de se rendre impur (en cas d’impureté rabbinique) en leur honneur, que ce soit pour les rois d’Israël ou ceux des nations. De même, pour l’honneur dû aux créatures, par exemple pour aller consoler des endeuillés. Si on a déjà vu le roi une fois, on ne doit pas interrompre son étude pour le voir à nouveau, sauf s’il vient avec encore plus de troupes ou avec davantage de gloire.",
+          "ref": "Mishnah Berurah 224:13"
+        },
+        "14": {
+          "he": "(יד) בתי ישראל - פי' בתי עשירי ישראל שמיושבים בתוקף ובגבורה כגון בישוב בית שני [רש\"י] ואפשר דוקא בא\"י ובזמן בית שני קאמר אבל בזה\"ז אפילו בא\"י לא [ב\"י] ויש שמפרשים כונת רש\"י דאפילו אם הם מיושבים עתה כמו בבית שני ג\"כ מברכין והרי\"ף פי' בתי ישראל בישובן היינו בתי כנסיות שמתפללין בתוכן וכן נהגו העולם שאין מברכין על שארי בתים כ\"א על בהכ\"נ כשרואה אותה ביפיה ובתיקונה וכתב בא\"ר דאין חילוק בין א\"י לחו\"ל ואפילו בזה\"ז ובפמ\"ג מצדד דבזה\"ז טוב לברך ברוך מציב גבול אלמנה בלא שם ומלכות:",
+          "en": "(יד) « Maisons d’Israël » – Cela fait référence aux demeures des riches d’Israël, bien établies, puissantes, comme à l’époque du Second Temple [d’après Rachi]. Il est possible que cela ne s’applique que pour la Terre d’Israël et à l’époque du Second Temple [d’après le Beit Yossef]. Mais certains expliquent que selon Rachi, même aujourd’hui, si elles sont établies comme à l’époque du Second Temple, on dit aussi la bénédiction. Le Rif explique que « maisons d’Israël » désigne les synagogues où l’on prie, et ainsi est la coutume : on ne bénit que pour les synagogues, quand on les voit dans leur beauté et leur bon état. Le Elya Rabba écrit qu’il n’y a pas de différence entre Eretz Israël et l’étranger, même de nos jours. Le Peri Megadim estime qu’il est bon de réciter « Béni soit Celui qui établit la frontière de la veuve » sans le Nom divin ni la royauté.",
+          "ref": "Mishnah Berurah 224:14"
+        },
+        "15": {
+          "he": "(טו) הרואה בתי וכו' - לפירש\"י הנ\"ל היינו בתי כותים שיושבים בשלוה והשקט ועושר ולהרי\"ף היינו בתי תפלה שלהם:",
+          "en": "(טו) « Qui voit les maisons... » – Selon Rachi (voir plus haut), il s’agit des maisons des non-Juifs qui sont en paix, dans le calme et la richesse. Selon le Rif, il s’agit de leurs lieux de culte.",
+          "ref": "Mishnah Berurah 224:15"
+        },
+        "16": {
+          "he": "(טז) קברי ישראל - ואם היה שם רק קבר אחד י\"א שאין לומר ברכה זו כי נתקנה בלשון רבים:",
+          "en": "(טז) « Tombes d’Israël » – Et si l’on voit seulement une seule tombe, certains disent qu’on ne récite pas cette bénédiction, car elle a été instituée au pluriel.",
+          "ref": "Mishnah Berurah 224:16"
+        },
+        "17": {
+          "he": "(יז) אותו דבר - ודוקא כשראה אותו מלך אבל אם ראה מלך אחר צריך לברך [מ\"א בשם רדב\"ז] וה\"ה לענין ההיא דסי\"ב ברואה קבר אחר וכל כיו\"ב אמנם בא\"ר סוף סימן רכ\"ה כתב דהמ\"א בעצמו בסקי\"ט שם משמע דלא ס\"ל הכי ועיין בפתחי תשובה מה שכתב בשם ספר עמודי אור בזה:",
+          "en": "(יז) « La même chose » – Cela ne s’applique que si c’est le même roi qu’on revoit. Mais si c’est un autre roi, on doit réciter la bénédiction [Maguen Avraham au nom du Radbaz]. Il en va de même pour les tombes mentionnées plus haut : si l’on voit une tombe différente, on bénit de nouveau. Cependant, le Elya Rabba à la fin du Siman 225 note que d’après le Maguen Avraham lui-même (§19), il ressort qu’il ne pense pas ainsi. Voir aussi le Pithei Teshouva qui cite le Sefer Amoudei Or à ce sujet.",
+          "ref": "Mishnah Berurah 224:17"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

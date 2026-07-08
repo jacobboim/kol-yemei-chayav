@@ -1,0 +1,59 @@
+{
+  "chelek": "YD",
+  "siman": 346,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-08T00:01:42.965Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "מי שקרובו צלוב בעיר לא ידור בה. ובו סעיף אחד:מי שהיה בעלה עמה צלוב בעיר או שאשתו עמו צלובה בעיר או אביו ואמו ועדיין לא כלה הבשר כולו לא ישהה בתוכה אא\"כ היתה גדולה כאנטוכיא שאין אלו מכירין את אלו ולא ישהה בצד זה אלא בצד זה:",
+      "en": "One whose husband [who was] with her, was impaled in the [same] city [wherein she dwells], or his wife [who was] with him, was impaled in the [same] city [wherein he dwells], or [if such is the case with] one's father or mother, and the flesh [of the corpse] had not yet entirely wasted away, — [the law is that the near-of-kin] should not dwell therein,1For people will refer to the impaled person as the near-of-kin of so-and-so, and thus cause degradation to the dead — RaN. But if the flesh became entirely decomposed, or if the corpse was interred, this ruling does not apply — Perisha. The law stated here applies only if the impaled person is within city limits — BaḤ. unless it2The city. was as large as Antioch,3The capital of Syria founded by Seleucus Nicator, situated on the Orontes (v. Jastrow). where some4Lit. ‘these.’ In a large city this does not apply since the near-of-kin is not well known. [people] do not know others;4Lit. ‘these.’ In a large city this does not apply since the near-of-kin is not well known. and one should not dwell on this side,5In proximity of the impaled person. but [rather] on the other side.6Sem(H). II, 1 Cf. Yad, Ebel VI, 11; Asheri and RaN to M.K. 27b.",
+      "ref": "Shulchan Arukh, Yoreh Deah 346:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא באבל רבתי פ\"ב ופי' הר\"ן בסוף מ\"ק לפי שהוא גורם לבזות את המת שאומרי' אותו האיש הצלוב הוא אחיו של פלוני וכשכלה הבשר ואין הצורה קיימת לא יזכרוהו לרעה עוד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 346:1"
+        },
+        "2": {
+          "he": "הר\"ן:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 346:2"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "לא ישהה בתוכה. שהוא גורם לבזות המת שאומרים אותו פלוני הצלוב הוא אחיו של פלוני זה וכתב הפרישה דאם נקבר מותר וכתב הב\"ח דדוקא צלוב בעיר אבל במלכותינו שצולבין חוץ לעיר על פני השדה מותר לשהות בכל העיירות וע\"כ אין דין זה נוהג כלל עכשיו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 346:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "בעיר.  כ' הב\"ח דוקא צלוב בעיר אבל במלכותינו שצולבין חוץ לעיר על פני השדה מותר להשהות בכל העיירות וע\"כ אין דין זה נוהג עכשיו כלל. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 346:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

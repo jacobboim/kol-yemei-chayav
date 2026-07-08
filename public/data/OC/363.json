@@ -1,0 +1,2494 @@
+{
+  "chelek": "OC",
+  "siman": 363,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 36,
+  "fetchedAt": "2026-07-07T23:49:25.381Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני מבוי ולחי. ובו לו סעיפים:מקום שיש לו ג' מחיצות אסרו חכמים לטלטל בו עד שיעשה שום תיקון ברביעית:",
+      "en": "**Laws of an Alleyway (*Mavoi*) and a Side-Post (*Lechi*) — 36 SectionsA place that has three walls — the Sages forbade carrying within it until some corrective arrangement is made on the fourth side.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:1"
+    },
+    {
+      "seif": 2,
+      "he": "חצר שנפרץ במילואו עד עשר אמות ניתר בפס רחב ד' טפחים שיעמידנו מצד א' במקום הפרוץ ואם ירצה לתקנו בשני צידי הפרצה די בשני פסין של שני משהויין והוא הדין לנשתייר מהם כותל רביעי בנוי בשיעור ארבעה טפחים במקום א' או אם נשתייר מהשני צדדים טפח מכאן וטפח מכאן וכל זה בגובה עשרה טפחים ואפילו אם אין בפרצה ד' טפחים כיון שהוא במילואו צריך תיקון עד שיהא בה פחות מג' ואם יש בפרצה יותר מעשר אמות אפילו אינה במילואו צריך לתקנה בצורת פתח:",
+      "en": "A courtyard that was breached across its full width up to ten cubits may be rectified with a post four handbreadths wide placed on one side at the breach. If one wishes to rectify it with posts on both sides of the breach, two posts of any minimal width suffice. The same applies if a fourth wall remains standing, measuring four handbreadths in one place, or if one handbreadth remains on each side. All of this must be at a height of ten handbreadths. Even if the breach is less than four handbreadths wide, since it spans the full width it still requires rectification until it is less than three handbreadths. If the breach exceeds ten cubits, even if it does not span the full width, it must be rectified with a doorframe shape (*tzurat hapetach*).",
+      "ref": "Shulchan Arukh, Orach Chayim 363:2"
+    },
+    {
+      "seif": 3,
+      "he": "מבוי שיש לו ג' מחיצות ופרוץ בצד רביעי התירו בלחי (פי' תרגום הקרש האחד לוחא חדא) שעביו ורחבו כל שהוא שיעמידנו בפתח המבוי ויהיה גבהו י\"ט ומכל דבר שיעשנה כשר אפילו מבעלי חיים ובלבד שיקשרנו שם בחבלים לכותלי המבוי ביתדות שיוצאים מן הכתלים בענין שאינו יכול לרבוץ כדי שלא יתמעט גבהו מי' טפחים: ואפילו קשר שם אדם נמי הוי לחי (א\"ז):",
+      "en": "An alleyway that has three walls and is open on the fourth side may be permitted by a side-post (*lechi*) — meaning, as Targum translates, \"one board\" (*lucha chada*) — of any thickness and width, placed at the entrance of the alleyway, at least ten handbreadths high. It may be made of any material, even a living creature, provided it is tied there with ropes to the walls of the alleyway by pegs projecting from the walls, in such a way that it cannot lie down and thereby be reduced below ten handbreadths.Even if a person is tied there, it also constitutes a lechi.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:3"
+    },
+    {
+      "seif": 4,
+      "he": "אם יש קצת כותל ברוח רביעית עולה משום לחי ובלבד שיהא בו רוחב טפח:",
+      "en": "**4.** If there is some wall on the fourth side, it counts as a lechi, provided it is at least one handbreadth wide.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:4"
+    },
+    {
+      "seif": 5,
+      "he": "לחי דאי נשיב ביה זיקא לא מצי קאי לא חשיב לחי:",
+      "en": "**5.** A lechi that would be blown over by the wind does not count as a lechi.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:5"
+    },
+    {
+      "seif": 6,
+      "he": "צריך שלא יהא הלחי רחוק מן הכותל ג' טפחים:",
+      "en": "**6.** The lechi must not be more than three handbreadths away from the wall.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:6"
+    },
+    {
+      "seif": 7,
+      "he": "לחי אפילו שברים ושברי שברים כשרים בו: הגה ולכן עושין לחי מסיד טחוי בכותל ובלבד שיזהר שלא יתמחה יותר משלש לארץ: (תה\"ד סי' ט\"ו):",
+      "en": "**7.** Even broken pieces, and pieces of broken pieces, are valid for a lechi. Therefore, one may make a lechi from plaster spread on a wall, provided one takes care that it not be smeared away to less than three handbreadths from the ground.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:7"
+    },
+    {
+      "seif": 8,
+      "he": "לחי שעשאו מעצי אשירה כשר:",
+      "en": "**8.** A lechi made from the wood of an *asherah* (idolatrous tree) is valid.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:8"
+    },
+    {
+      "seif": 9,
+      "he": "בין שנראית בליטת הלחי לעומדים בתוך המבוי ואינה נראית לעומדים בחוץ בין שנראית לעומדים בחוץ נגד חלל המבוי (תוס' והרא\"ש פ\"ק דעירובין) ואינה נראית לעומדים בפנים כשר:",
+      "en": "**9.** Whether the projection of the lechi is visible to those standing inside the alleyway but not to those standing outside, or visible to those outside facing the alleyway opening but not to those inside — it is valid.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:9"
+    },
+    {
+      "seif": 10,
+      "he": "הרחיקו מהכותל שלש או שהגביהו מהארץ שלש פסול ואם הגביהו פחות משלש אע\"פ שאין בו אלא שבע ומשהו כשר:",
+      "en": "**10.** If it was placed three handbreadths from the wall, or raised three handbreadths from the ground, it is invalid. But if it was raised less than three handbreadths from the ground, even if it is only seven handbreadths and a hairsbreadth high, it is valid.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:10"
+    },
+    {
+      "seif": 11,
+      "he": "אפילו לא עשאו לשם לחי אלא שנזדמן לו שם מאליו כשר ובלבד שיסמכו עליו מערב שבת אבל לא סמכו עליו מערב שבת כגון שהיה שם לחי אחר ונפל בשבת ובאים עכשיו לסמוך על זה לא: (אבל לא היה שם לחי אחר מערב שבת כאלו סמכו עליו דמי) (ב\"י בשם רש\"י והגהות אשירי והמגיד פי\"ו):",
+      "en": "**11.** Even if it was not placed there as a lechi but happened to be there on its own, it is valid — provided one relied on it before Shabbat. But if one did not rely on it before Shabbat — for instance, there was another lechi and it fell on Shabbat and now one wishes to rely on this one — no. (But if there was no other lechi there before Shabbat, it is as if one had relied on it.)",
+      "ref": "Shulchan Arukh, Orach Chayim 363:11"
+    },
+    {
+      "seif": 12,
+      "he": "לחי העומד מאליו אפי' סמכו עליו מערב שבת אם המבוי רחב יותר משמונה אמות אם הלחי בולט לתוכו ד' אמות אינו נדון משום לחי וצריך לחי אחר להתירו ויעמידנו ברוח שכנגדו ואם ירצה להעמידו אצלו יעשנו מעט עב או דק יותר מהבליטה כדי שיהא ניכר שהוא לשם לחי: הגה ואם העמידו לשם לחי דאית ליה קלא שתקנו לחי למבוי זה אפי' רחב ארבע אמות הוי לחי:",
+      "en": "**12.** A lechi that stands on its own — even if one relied on it before Shabbat — if the alleyway is wider than eight cubits and the lechi protrudes four cubits into it, it is not treated as a lechi and another lechi is needed; it should be placed on the opposite side. If one wishes to place it alongside the first, one should make it slightly thicker or thinner than the protrusion, so that it is recognizable as a lechi. But if it was explicitly placed as a lechi — which is publicly known that a lechi was made for this alleyway — even if it protrudes four cubits it is valid as a lechi.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:12"
+    },
+    {
+      "seif": 13,
+      "he": "לחי המושך עם דפנו של מבוי שהעמיד חודו כנגד עובי הכותל דשוה מבפנים ונראה מבחוץ שאין חודו של לחי מכס' כל עובי הדופן פחות מד' אמות נידון משום לחי ומשתמש עם חודו הפנימי ד' אמות נידון משום מבוי ואסור להשתמש בכל המבוי שהרי אין כאן לחי:",
+      "en": "**13.** A lechi drawn along the wall of the alleyway with its edge placed against the wall's thickness — flush on the inside but visible from the outside, such that the lechi's edge does not cover the full thickness of the wall — if the alleyway is less than four cubits wide it is treated as a lechi, and one may use the wall with its inner edge. If four cubits or more, it is treated as part of the alleyway and it is forbidden to use the entire alleyway since there is effectively no lechi.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:13"
+    },
+    {
+      "seif": 14,
+      "he": "עוד יש הכשר אחר למבוי הפרוץ ברוח רביעית בקורה שיניחנה על ראש המבוי וצריך שיניחנה על כותל המבוי אבל אם נעץ שתי יתדות אצל המבוי בחוץ אפילו בסמוך לו והניח' עליהם פסול:",
+      "en": "**14.** There is another valid arrangement for an alleyway open on the fourth side: a beam (*korah*) placed on top of the alleyway. It must rest on the alleyway wall. But if two pegs were driven outside the alleyway — even right next to it — and the beam was placed on them, it is invalid.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:14"
+    },
+    {
+      "seif": 15,
+      "he": "וצריך שיניחנה כדי להתיר המבוי אבל אם לא נעשית לשם כך אפילו סמכה עליה מערב שבת פסולה:",
+      "en": "**15.** The beam must be placed with the intent to permit the alleyway. But if it was not made for that purpose, even if one relied on it before Shabbat, it is invalid.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:15"
+    },
+    {
+      "seif": 16,
+      "he": "קורה זה שאמרנו צריכה שיעור ולפיכך אם עשאה מעצי אשרה פסולה דכיון דלשריפה קיימא כתותי מכתת שיעורה:",
+      "en": "**16.** The beam we mentioned must have a minimum size. Therefore, if it was made from the wood of an *asherah* it is invalid, since it is destined for burning its measurement is considered nullified (*ketutei mechtat shiureih*).",
+      "ref": "Shulchan Arukh, Orach Chayim 363:16"
+    },
+    {
+      "seif": 17,
+      "he": "שיעור הקורה רחבה טפח ועביה כל שהוא רק שתהא חזקה כדי לקבל אריח שהוא חצי לבנה של ג\"ט ואם היא רחבה ד\"ט א\"צ להיות חזקה לקבל אריח:",
+      "en": "**17.** The required width of the beam is one handbreadth, and its thickness may be any amount, provided it is strong enough to hold a half-brick (*arich*), which is three handbreadths. If it is four handbreadths wide, it need not be strong enough to hold a half-brick.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:17"
+    },
+    {
+      "seif": 18,
+      "he": "מעמידים דהיינו אם היא נסמכת על יתדות היוצאות מן הכותל שאין ברחבן טפח ולא בארכן שלש יש אומרים שצריך שיהיו חזקים לקבלם ולקבל חצי לבנה וי\"א שאין צריך שיהיו חזקים אלא כדי לקבלה בלבד:",
+      "en": "**18.** Regarding supports — if the beam rests on pegs projecting from the wall that are not a handbreadth wide nor three handbreadths long: some say the pegs must be strong enough to hold both the beam and a half-brick; others say they need only be strong enough to hold the beam alone.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:18"
+    },
+    {
+      "seif": 19,
+      "he": "אם היתה הקורה עגולה צריך שיהיה בהקיפה ג' טפחים שאז יש ברחבה טפח:",
+      "en": "**19.** If the beam is round, its circumference must be at least three handbreadths, which gives it a width of one handbreadth.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:19"
+    },
+    {
+      "seif": 20,
+      "he": "היתה עקומה ועקמימותה נוטה חוץ למבוי או למעלה מעשרים או למטה מעשרה רואים כל שאלו ינטל העקמימות ואין בין זה לזה שלשה כשרה ואם לאו פסולה:",
+      "en": "**20.** If the beam is curved and the curve bends outside the alleyway, or above twenty handbreadths, or below ten handbreadths: we consider whether, if the curvature were removed, the gap between the two ends would be less than three handbreadths — if so, it is valid; if not, invalid.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:20"
+    },
+    {
+      "seif": 21,
+      "he": "היתה יוצאה מכותל זה ואינה נוגעת בכותל זה כגון שסמכה על עמודים וכן שתי קורות א' יוצא מכותל זה וא' יוצא מכותל זה ופגעו זו בזו באמצע המבוי אם אין ביניהם שלשה כשרה יש ביניהם שלשה פסולה:",
+      "en": "**21.** If the beam extends from one wall but does not reach the other — for instance, it rests on poles — or if there are two beams, one extending from one wall and one from the other, meeting in the middle: if the gap between them is less than three handbreadths, valid; if three handbreadths or more, invalid.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:21"
+    },
+    {
+      "seif": 22,
+      "he": "הניח שתי קורות זו בצד זו לא בזו לקבל אריח ולא בזו לקבל אריח אם יש בשתיהן כדי לקבל אריח לרחבו דהיינו טפח ואין בין זו לזו שלשה טפחים אינו צריך להביא קורה אחרת ואם לאו צריך להביא קורה אחרת ויש אומרים שצריך שיהו קרובות זו לזו בתוך טפח:",
+      "en": "**22.** If two beams are placed side by side, neither wide enough alone to hold a half-brick, but together wide enough — i.e., totaling one handbreadth — and with less than three handbreadths between them, no additional beam is needed. If not, another beam must be brought. Some say they must be within one handbreadth of each other.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:22"
+    },
+    {
+      "seif": 23,
+      "he": "היתה אחת למעלה ואחת למטה רואים את העליונה כאלו היא למט' ואת התחתונ' כאלו היא למעל' ובלבד שלא תהא העליונה למעלה מעשרים ולא תחתונה למטה מעשרה ולא יהי' ביניהם ג' טפחים לא בגובה ולא במשך כשרואין אותם שירדה זו ועלתה זו בכוונ' עד שיעשו זו בצד זו ויש פוסלים:",
+      "en": "**23.** If one beam is higher and one is lower, we consider the upper one as if it were lower and the lower one as if it were higher — provided the upper one is not above twenty handbreadths, the lower not below ten, and there are not three handbreadths between them either vertically or horizontally when we consider them as having shifted to be side by side. Some rule this invalid.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:23"
+    },
+    {
+      "seif": 24,
+      "he": "פירס על הקורה מחצלת ואינה נוגעת עד הקרקע אם גבוה מהארץ ג\"ט פסול' שהרי כיסה הקורה ואינה נראית ובטלה מהיות קורה ומחיצה גם כן אינה כיון שגבוה מהארץ שלשה אבל אם הניח קורה רחבה ונמשכת קצת למטה מי' כשרה:",
+      "en": "**24.** If a mat was spread over the beam but does not reach the ground: if it is three handbreadths above the ground it is invalid, since the beam is covered and no longer visible as a beam, and it is not a partition either since it is three handbreadths off the ground. But if a wide beam was placed and extends a little below ten handbreadths, it is valid.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:24"
+    },
+    {
+      "seif": 25,
+      "he": "נעץ שתי יתדות עקומות על שני כתלי המבוי ועקמימותיה נוטה לתוך המבוי ונתן הקורה עליהם ואין ביתידות טפח שהוא שיעור קורה להיות נחשבים כקורה אם אינם גבוהים מכתלי המבוי שלש' ואין בנטייתם שלשה כשרה שאנו רואים כאלו הם על כתלי המבוי ואם יש בגבהן או בנטייתן שלשה פסולה:",
+      "en": "**25.** If two bent pegs were driven into the two walls of the alleyway, curving inward, and the beam was placed on them — and the pegs are not a handbreadth wide (which would make them count as a beam): if they are not three handbreadths higher than the walls and their bend does not extend three handbreadths, it is valid, since we consider them as if they were flush with the wall tops. If they are three handbreadths higher or their bend is three handbreadths, it is invalid.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:25"
+    },
+    {
+      "seif": 26,
+      "he": "הא דמבוי ניתר בלחי או קורה דוקא בשאינו נמוך פחות מי\"ט מרווחים ולא יהא רחבו יותר מעשר אמות מצומצמות ושיהא ארכו ד' אמות מרווחות או יותר אבל אם חסר א' מכל אלו אין לו תקנה אלא בצורת פתח ואם היה בגובה חללו יותר מעשרים אמה מצומצמות אינו ניתר בקורה אבל ניתר הוא בלחי ואם רוצה להכשירו בקורה צריך שיעשה בה ציור וכיור (פי' ציור אחד בכותל מן הסיד או על שמי קורה) שעל ידי כך הכל מסתכלים בה ואם היה גבוה יותר מעשרים ובנה בנין תחת הקורה למעטו מעשרים די בבנין רחב טפח ברוחב הקורה אבל אם אינו גבוה י' וחוקק בו להשלימו לי' צריך לחוק ד' אמות לתוך המבוי על פני כל רחבו. אין מבוי ניתר בלחי או קורה עד שיהיו פתוחים לתוכו שני חצרות ולכל חצר שני בתים (ואפי' כל החצרות פתוחות זו לזו) (רא\"ש ומרדכי והטור) ויש חולקים בזה (ב\"י בשם הרי\"ף והרמב\"ם) ושלא יהא בכל פתח מאלו פחות מד\"ט ושיהיו דיורים אוכלים בכל בית שמקום הפת גורם ואפי' היה הבית הא' לאב והב' לבן אע\"פ שהבן מקבל פרס משלחן אביו ואוכל בביתו הרי הם נידונים כשנים ואפילו צדו א' עכו\"ם וא' ישראל מהני עוד צריך שיהא ארכו יותר על רחבו ואם חסר א' מאלו אינו ניתר אלא בפס ארבע או שני פסין שני משהויין או צורת פתח: הגה וי\"א דנוהגין האידנא לתקן כל המבואות בצורות הפתח דכל המבואות שלנו יש להם דין חצרות (ת\"ה סי' ע\"ד) והמנהג הפשוט במדינות אלו לתקנן על ידי חבל הקשור לרחבו של מבוי ודין חבל זה אינו קורה שהרי אין רחבו טפח ולא מהני אלא מטעם צורת הפתח דמהני למעלה אפי' בגמי כדלעיל סוף סי' שס\"ב ועל כן יש ליזהר להעמיד תחת החבל שני קנים גבוהים י' מכוונים תחת החבל ואז מהני אפי' במבוי מפולש בתורת צורת פתח או אפי' בחצר ובכל מקום שצורת הפתח מהני וכמו שנתבאר לעיל ס\"ס שס\"ב: (ד\"ע)",
+      "en": "**26.** The ruling that an alleyway is permitted by a lechi or beam applies only when its height is not less than ten full handbreadths, its width is no more than ten precise cubits, and its length is at least four full cubits. If any of these conditions is lacking, it can only be rectified with a doorframe shape. If the inner height exceeds twenty precise cubits, it cannot be rectified by a beam, but can be rectified by a lechi. If one wishes to rectify it with a beam, a decorative marking or design must be made on it — one marking on the wall in plaster or on the face of the beam — so that everyone looks at it. If the height exceeds twenty cubits and a structure is built beneath the beam to reduce it below twenty, a structure one handbreadth wide along the width of the beam suffices. But if the height is less than ten handbreadths and one carves into the ground to complete ten, one must carve four cubits into the alleyway across its full width. An alleyway is not permitted by a lechi or beam unless two courtyards open into it and each courtyard has two houses.(Even if all the courtyards open into each other.) Some disagree with this. Each entrance must be at least four handbreadths wide. There must be residents eating in each house, since the location of the bread determines the eruv. Even if one house belongs to a father and one to a son, and the son receives his meals from his father's table yet eats in his own house, they are considered as two. Even if one side has a non-Jew and one a Jew, this is sufficient. Furthermore, the length of the alleyway must exceed its width. If any of these conditions is lacking, it can only be rectified with a four-handbreadth post, two minimal posts on either side, or a doorframe shape.Some say the custom today is to rectify all alleyways with a doorframe shape, since all our alleyways have the status of courtyards. The widespread custom in these lands is to rectify them with a rope tied across the width of the alleyway. This rope does not have the status of a beam since it is not a handbreadth wide, but it works as a doorframe shape, which is valid even with reed at the top, as explained above at the end of Siman 362. Therefore one should be careful to place two poles ten handbreadths high directly beneath the rope, which then works even for a passage open on both ends (*mavoi mefulash*) as a doorframe shape, or even in a courtyard or wherever a doorframe shape works, as explained at the end of Siman 362.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:26"
+    },
+    {
+      "seif": 27,
+      "he": "חצר שארכו יותר על רחבו דינו כמבוי וניתר בלחי או קורה: הגה אע\"פ שאין חצירות ובתים פתוחין לתוכו הואיל ואינו קרוב לר\"ה אלא פתוח למבוי והמבוי פתוח לר\"ה: (ב\"י בשם תשובת מהרי\"א בשם סמ\"ק):",
+      "en": "**27.** A courtyard whose length exceeds its width has the status of an alleyway and may be permitted with a lechi or beam.Even if no courtyards and houses open into it, since it is not adjacent to a public domain but opens to an alleyway which opens to the public domain.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:27"
+    },
+    {
+      "seif": 28,
+      "he": "מבוי שאין ברחבו ג\"ט אינו צריך שום תיקון שהוא כסתום וי\"א דכל שאין בו ד\"ט אין צריך שום תיקון:",
+      "en": "**28.** An alleyway less than three handbreadths wide requires no corrective arrangement at all, as it is considered sealed. Some say that any alleyway less than four handbreadths wide requires no arrangement.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:28"
+    },
+    {
+      "seif": 29,
+      "he": "מבוי שצדו אחד כלה לים וצדו אח' כלה לאשפה של רבים אין צריך כלום שאשפה של רבים אינה עשויה להתפנות ואין חוששין שמא יעלה הים שירטון (פי' יובש כעין אי שנדחו המים ממנו שנעשה ראוי לזריעה): הגה ויש חולקים וסוברים דחיישינן שמא יעלה שירטון ואין כאן מחיצה (הרא\"ש ורש\"י וטור והמגיד):",
+      "en": "**29.** An alleyway whose one side ends at the sea and whose other side ends at a public refuse heap requires nothing, since a public refuse heap is not expected to be cleared away, and we do not worry that the sea will deposit silt (*shirton* — a dry patch like an island from which the water receded and which becomes fit for planting). Some disagree and hold that we do worry that silt may rise and there would be no partition.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:29"
+    },
+    {
+      "seif": 30,
+      "he": "מבוי שצדו א' ארוך וא' קצר אפי' אין צד הארוך עודף על הקצר ד' אמות אינו מניח הקורה אלא כנגד הקצר אבל אם ירצה יעשה שם צורת פתח באלכסון ותוך המבוי יכול להניח הקורה באלכסון ומשתמש בקצר כנגד הקצר ובארוך כנגד הארוך:",
+      "en": "**30.** An alleyway with one long side and one short side — even if the long side does not exceed the short by four cubits — the beam is placed only opposite the short side. But if one wishes, a doorframe shape may be made diagonally, and the beam inside the alleyway may also be placed diagonally, so that one uses the short side opposite the short and the long side opposite the long.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:30"
+    },
+    {
+      "seif": 31,
+      "he": "העמיד לחי באמצע המבוי אם יש חצר מתחלתו ולחוץ ועשו גם החיצונים לחי לראש המבוי אוסרים אלו על אלו עד שיערבו יחד ואם אין שם חצר או שיש חצר ולא עשו החיצונים לחי לראש המבוי שמן הלחי ולפנים מותרים ממנו ולחוץ אסורים אבל אם עשו באמצע שני פסים או פס ארבעה אם אינו רחב יותר מעשרה או שעשו צורת פתח אם הוא רחב יותר מי' אפי' אם יש חצר מהתיקון ולחוץ ועשו גם החיצונים תיקון לראש המבוי כל אחד יכול לערב ויהיה מותר בחלקו:",
+      "en": "**31.** If a lechi was placed in the middle of an alleyway, and there is a courtyard from the lechi outward, and those on the outside also placed a lechi at the head of the alleyway, they restrict one another and must make a joint eruv. If there is no courtyard, or there is a courtyard but the outsiders did not place a lechi at the alleyway head, those from the lechi inward are permitted and those outward are forbidden. But if two posts or a four-handbreadth post was placed in the middle — if the alleyway is no wider than ten cubits — or a doorframe shape was made — if wider than ten cubits — then even if there is a courtyard from the arrangement outward and the outsiders also made an arrangement at the alleyway head, each may make their own eruv and be permitted in their section.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:31"
+    },
+    {
+      "seif": 32,
+      "he": "זה שהכשרנו להעמיד לחי באמצע המבוי הוא הדין להעמיד קורה באמצע המבוי וכל זה ביש באותו חצר מבוי המוכשר תורת מבוי שלא יהא ארכו פחות מד' אמות ושיהא ארכו יתר על רחבו ושיהיו בתים וחצרות פתוחים לתוכו הא לאו הכי צריך פס משהו מכאן ופס משהו מכאן או פס ארבעה בצד אחד:",
+      "en": "**32.** Just as we ruled that a lechi may be placed in the middle of an alleyway, the same applies to placing a beam in the middle. All of this applies where the inner section has the proper status of an alleyway — its length not less than four cubits, its length exceeding its width, and houses and courtyards opening into it. If not, two minimal posts on either side, or one four-handbreadth post on one side, is required.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:32"
+    },
+    {
+      "seif": 33,
+      "he": "מבוי שהוא רחב כ' אמות עושה פס רחב ד' אמות ומעמידו באמצע וחשוב כל צד מצדי הפס כמבוי בפני עצמו כיון שאורך הפס ד' אמות ויתן קורה בראשו וצריך ליזהר שתהא הקורה מונחת על הפס או תוך ג\"ט וצריך שיהא בכל מבוי משני אלו שהפס מפסיק ביניהם בתים וחצרות פתוחים לתוכו וכל תנאי (מבוי) ומה שמן הפס עד כותל האמצעי של מבוי יש לו דין מבוי עקום שהרי אלו שני המבואות מתעקמים ובאמצע פתוחים בשני ראשיהן לרשות הרבים: הגה ויש אומרים דאין לו דין מבוי עקום אא\"כ יש מן הפס עד כותל האמצעי יותר מעשר אמות (הרא\"ש ור' ירוחם וטור):",
+      "en": "**33.** An alleyway twenty cubits wide may be rectified by placing a four-cubit-wide post in the middle, making each side of the post a separate alleyway — since the post's length is four cubits — and a beam is placed at the head of each. Care must be taken that the beam rests on the post or within three handbreadths of it. Each of the two alleyways created by the post must have houses and courtyards opening into it and satisfy all alleyway conditions. The area between the post and the middle wall of the alleyway has the status of a bent alleyway (*mavoi akum*), since these two alleyways curve and are open at both ends to a public domain. Some say it has the status of a bent alleyway only if the distance from the post to the middle wall exceeds ten cubits.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:33"
+    },
+    {
+      "seif": 34,
+      "he": "עוד אפשר לעשות תיקון אחר למבוי שהוא רחב כ' אמות שירחיק ב' אמות מהכותל ויעשה פס רחב שלש אמות ויעשה כן גם בצד השני וישאר פתח רחב עשר אמות או ירחיק אמה ויעשה פס אמה ומחצה וירחיק אמה ויעשה פס אמה ומחצה וכן יעשה בצד השני או ירחיק שתי אמות ושני טפחים ויעשה פס שתי אמות וד' טפחים וכן יעשה בצד השני וכן כל כיוצא בזה ובלבד שהפס יהא יתר על האויר שבינו לכותל דאם לא כן אתי אוירא דהאי גיסא ודהאי גיסא ומבטל ליה וצריך ליזהר דלא לשביק פתחא רבא ועייל בזוטא שאם עשה כן בטל תיקון המבוי אלא אם עשה צורת פתח לזוטא:",
+      "en": "**34.** There is another way to rectify an alleyway twenty cubits wide: set back two cubits from the wall and place a three-cubit post, and do the same on the other side, leaving an opening of ten cubits. Alternatively, set back one cubit and place a post of one and a half cubits, then set back another cubit and place another post of one and a half cubits, doing the same on the other side. Or set back two cubits and two handbreadths and place a post of two cubits and four handbreadths, likewise on the other side. Similar arrangements work — provided the post is wider than the gap between it and the wall, for otherwise the air space on both sides would nullify it. Care must be taken not to leave a large opening while entering through a small one, for if this is done the alleyway's correction is nullified — unless a doorframe shape is made for the smaller opening.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:34"
+    },
+    {
+      "seif": 35,
+      "he": "פס זה שאמרנו שעושה כן למעט רוחב המבוי א\"צ שיהא פס א' שלם אלא בקנה קנה פחות מג' סגי דפחות מג' כשלם דמי:",
+      "en": "**35.** The post used to reduce the alleyway's width need not be one solid post; reed by reed with gaps of less than three handbreadths suffices, since less than three handbreadths is treated as solid.",
+      "ref": "Shulchan Arukh, Orach Chayim 363:35"
+    },
+    {
+      "seif": 36,
+      "he": "מבוי ששוה מתוכו ומדרון (פי' מקום משופע) לרה\"ר או ששוה לרה\"ר ומדרון לתוכו אם הולך ומתלקט מעט מעט עד שמגביה י' מתוך ד' אמות הרי הוא כאלו זקוף כולו וא\"צ שום תיקון  (ובזה התל הוי כמחיצה) (ב\"י) :",
+      "en": "**36.** An alleyway that is level inside but slopes (*midrón*) down to the public domain, or is level with the public domain and slopes down inside — if the slope rises ten handbreadths within four cubits, it is treated as if it were entirely vertical and requires no corrective arrangement. (In this case, the mound counts as a partition.)",
+      "ref": "Shulchan Arukh, Orach Chayim 363:36"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "עירובין ה'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:1"
+        },
+        "2": {
+          "he": "שם י\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:2"
+        },
+        "3": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:3"
+        },
+        "4": {
+          "he": "שם בפירוש ה\"ר יהונתן וכן משמע מדברי רש\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:4"
+        },
+        "5": {
+          "he": "בב\"י כת' לאו דווקא טפח דבמשהו מכאן ומשהו מכאן סגי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:5"
+        },
+        "6": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:6"
+        },
+        "7": {
+          "he": "משנה שם ט\"ו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:7"
+        },
+        "8": {
+          "he": "משנה שם י\"א וכדמפ' לה שם בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:8"
+        },
+        "9": {
+          "he": "משנה שם י\"ד וכתנא קמא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:9"
+        },
+        "10": {
+          "he": "שם וכתנא קמא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:10"
+        },
+        "11": {
+          "he": "טור וכ\"כ הרב המגיד בפרק י\"ז מדין המחיצה בסימן שס\"ב סעיף ה' ושם ציינתיו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:11"
+        },
+        "12": {
+          "he": "(תוספ' בפ\"ק דעירובין והגהות מיימוני פרק י\"ז)",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:12"
+        },
+        "13": {
+          "he": "הגהות אשר\"י בפרק קמא ה\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:13"
+        },
+        "14": {
+          "he": "יהונתן בפרק קמא דעירוכין",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:14"
+        },
+        "15": {
+          "he": "הגהות פרק י\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:15"
+        },
+        "16": {
+          "he": "מוסכם מהאמוראים בעירובין דף פ' ולא אמרינן דכתית מיכתת שיעוריה אף על פי שצריך שיהיה בגבהו י\"ט כבר יישב זה שם ה\"ה בפרק י\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:16"
+        },
+        "17": {
+          "he": "מסקנת הגמרא בדף ט'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:17"
+        },
+        "18": {
+          "he": "כזה  לפירוש רש\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:18"
+        },
+        "19": {
+          "he": "כזה  לפרש\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:19"
+        },
+        "20": {
+          "he": "כזה  לפי' התוספות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:20"
+        },
+        "21": {
+          "he": "שם י\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:21"
+        },
+        "22": {
+          "he": "ה\"ה בפ' י\"ז בשם רשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:22"
+        },
+        "23": {
+          "he": "שם בגמרא ט\"ו וכאביי וזו אחד מן הלכות יע\"ל קג\"ם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:23"
+        },
+        "24": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:24"
+        },
+        "25": {
+          "he": "שם ב' וכדב הונא בריה דרבי יהושע",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:25"
+        },
+        "26": {
+          "he": "כזה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:26"
+        },
+        "27": {
+          "he": "שם כרב פפא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:27"
+        },
+        "28": {
+          "he": "כזה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:28"
+        },
+        "29": {
+          "he": "שם כרב הונא ברי' דר' יהושע",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:29"
+        },
+        "30": {
+          "he": "כזה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:30"
+        },
+        "31": {
+          "he": "משנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:31"
+        },
+        "32": {
+          "he": "שם י\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:32"
+        },
+        "33": {
+          "he": "שם ח' בגמרא וכרבא הרי\"ף והרא\"ש ורמב\"ם בפ' י\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:33"
+        },
+        "34": {
+          "he": "הרא\"ש שם גבי לחי העומד מאליו והרב המגיד בפי\"ז בשם הרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:34"
+        },
+        "35": {
+          "he": "משנה שם נ\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:35"
+        },
+        "36": {
+          "he": "שם בגמ' פ' וכר' חייא בר אשי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:36"
+        },
+        "37": {
+          "he": "משנה שם י\"ג וכתנא קמא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:37"
+        },
+        "38": {
+          "he": "שם בגמרא י\"ד וכר' אלעאי אמר רב רא\"ש והמרד' בשם ר\"ח שם וה\"ה בפרק י\"ז בשם הרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:38"
+        },
+        "39": {
+          "he": "שם בגמרא וכפירוש רש\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:39"
+        },
+        "40": {
+          "he": "כרב חסדא שם רמב\"ם בפי\"ז וסמ\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:40"
+        },
+        "41": {
+          "he": "כרבה בר רב הונא הרא\"ש בשם הר\"מ והסכים עמו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:41"
+        },
+        "42": {
+          "he": "משנה י\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:42"
+        },
+        "43": {
+          "he": "שם בגמרא בפי' המשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:43"
+        },
+        "44": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:44"
+        },
+        "45": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:45"
+        },
+        "46": {
+          "he": "רמב\"ם בפי\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:46"
+        },
+        "47": {
+          "he": "טור וכ\"כ הגהות מיימוני החדשות בשם מהר\"ם וכן פי' ר' יהונתן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:47"
+        },
+        "48": {
+          "he": "בברייתא רבי יוסי בר יהודה שם טור בשם רמב\"ם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:48"
+        },
+        "49": {
+          "he": "רמב\"ם שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:49"
+        },
+        "50": {
+          "he": "טור בשם ר' מאיר מרוטנבורג ואביו רא\"ש וכן הוא בנוסח' הרי\"ף דאין הלכה כר\"י בר יהודה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:50"
+        },
+        "51": {
+          "he": "שם בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:51"
+        },
+        "52": {
+          "he": "רא\"ש שם ודלא כהרשב\"א וכ\"פ הטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:52"
+        },
+        "53": {
+          "he": "שם ח' כאוקימתא דרב אשי וכפירוש רש\"",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:53"
+        },
+        "54": {
+          "he": "שם בגמ' ה'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:54"
+        },
+        "55": {
+          "he": "משנה ריש עירובין",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:55"
+        },
+        "56": {
+          "he": "שם בגמ' כ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:56"
+        },
+        "57": {
+          "he": "משנה ריש עירובין וכרב שם בגמרא ג'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:57"
+        },
+        "58": {
+          "he": "ב\"י וכן כ' ה\"ה בפרק י\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:58"
+        },
+        "59": {
+          "he": "שם בגמ' ג' וכרב דימי וכפי' ר' יהונתן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:59"
+        },
+        "60": {
+          "he": "שם בגמ' וכרב יוסף הרי\"ף ורא\"ש ורמב\"ם בפרק י\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:60"
+        },
+        "61": {
+          "he": "שם ה' וכאביי דכל פחות מי' לא מקרי דופן וצריך תיקון בשיעור משך המבוי לאביי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:61"
+        },
+        "62": {
+          "he": "שם י\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:62"
+        },
+        "63": {
+          "he": "תוספות ורא\"ש וכפירוש רש\"י ע\"ד וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:63"
+        },
+        "64": {
+          "he": "כצ\"ל שהם פסקו שאין הלכה כרב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:64"
+        },
+        "65": {
+          "he": "הרב המגיד בפרק י\"ז מה\"ט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:65"
+        },
+        "66": {
+          "he": "שם ובגמרא ע\"ג בעיא ונפשטא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:66"
+        },
+        "67": {
+          "he": "רא\"ש והגהות מיימוני בפרק ב' מה\"ט ממסקנת הגמרא שם ע\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:67"
+        },
+        "68": {
+          "he": "שם י\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:68"
+        },
+        "69": {
+          "he": "שם בפי' רש\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:69"
+        },
+        "70": {
+          "he": "רמב\"ם בפרק י\"ז מה\"ע מתוך הגמ' דלעיל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:70"
+        },
+        "71": {
+          "he": "רמב\"ם בפ' י\"ז מהלכות ערובין ודלא כר' אחלאי י\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:71"
+        },
+        "72": {
+          "he": "הראב\"ד והרא\"ש והמרדכי בשם ר\"מ וה\"ה בשם הרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:72"
+        },
+        "73": {
+          "he": "שם מ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:73"
+        },
+        "74": {
+          "he": "הרי\"ף ורמב\"ם בפ' ז' לפי גרסתם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:74"
+        },
+        "75": {
+          "he": "שם בגמ' וכרבא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:75"
+        },
+        "76": {
+          "he": "רא\"ש בשם הראב\"ד וה\"ה בפי\"ז בשם הרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:76"
+        },
+        "77": {
+          "he": "הרא\"ש שם בשם ר\"מ והמרדכי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:77"
+        },
+        "78": {
+          "he": "התוס' שם נ\"ט והרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:78"
+        },
+        "79": {
+          "he": "רא\"ש בשם ר\"מ שם והמרדכי והגהות מיימוני בפ' ה' מה\"ע",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:79"
+        },
+        "80": {
+          "he": "הרא\"ש שם מהירוש' וה\"ה בשם הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:80"
+        },
+        "81": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:81"
+        },
+        "82": {
+          "he": "שם בגמ' י'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:82"
+        },
+        "83": {
+          "he": "טור בשם הרא\"ש והרב המגיד בפ' י\"ו בשם הרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:83"
+        },
+        "84": {
+          "he": "ואפילו בפחות מי' אמות לדידן דקיימא לן כרב דאמר תורתו כמפולש ב\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:84"
+        },
+        "85": {
+          "he": "מפורש שם בגמ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:85"
+        },
+        "86": {
+          "he": "ה\"ה בשם הרשב\"א בפט\"ו מה' עירובין",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:86"
+        },
+        "87": {
+          "he": "הגהות אשורי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:87"
+        },
+        "88": {
+          "he": "הג\"מיי פרק י\"ז בשם הר\"מ והמרדכי בריש עירובין וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:88"
+        },
+        "89": {
+          "he": "שבת ק'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:89"
+        },
+        "90": {
+          "he": "וכל אמות דעירובין באמה ששה אלא לפעמים שוחקות ולפעמים עצבות באופן שיהיה לחומרא):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 363:90"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "אין עמ״א בא״ר הקשה עליו באות ג׳ דבסכ״ח במבוי א״צ תיקון לי״א משא״כ חצר אף לי״א בעי תיקון כל שרחב ג״ט ועתו״ש אות ה׳ ובעירובין י״ב א׳ יע״ש וי״ל דהמ״א כתב מסברא דנפשיה כן וכ״כ בתו״ש דכי אמרינן בחצר בעי תיקון בפחות מד״ט כשרחב בפנים יותר אבל אם אין בכל החצר רוחב ד״ט כ״ע מודים דאין צריך תיקון בחצר וכ״ש מבוי דקיל יותר כשכל המבוי אין רחב ד״ט וגם דיעה א׳ מודה דא״צ תיקון. ויהיה הפירוש מ״ש המ״א כמ״ש בשכ״ח היינו מה שכתב המ״א שם אות כ״ט ועשה כלומר מבוי שאין רחבו ג״ט כלומר פתחו דאלו כל המבוי אין רוחב בפחות מד״ט מודה דיעה א׳ דאין צריך תיקון. וי״ל מ״ש המחבר אפי׳ אין ד׳ בפרצה כיון שהוא במילואו משמע הא נשאר בכותל משהו מצ״א די וכשיש יותר מד״ט צריך שני פסין כ״א טפח וצ״ע גם בזה. גם מ״ש ואפי׳ אין בפרצה ד״ט מה רבותה דבמבוי נמי פסק בסכ״ח כן והטור דנקיט כן סובר בסכ״ח דמבוי בפחות מד״ט אין צריך תיקון. ואפשר למידק מיניה הא אין ברחבו ד׳ אין צריך תיקון ועדיין צ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:1"
+        },
+        "2": {
+          "he": "כל שהוא עמ״א ולא בעי כחוט הסרבל וע׳ ט״ז אות ה׳ בשם מהר״מ יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:2"
+        },
+        "3": {
+          "he": "קשר עמ״א ועתו״ש ז׳ די״ל כאן אפילו הודיעו שמא ישכח וילך ושמא לפי שעה כו׳ וכאן בקשר־ו מע״ש מיירי ומש״ה שרי. ואם עשה לחי בשבת עסי׳ שס״ב ס״ג ואי״ה לקמן יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:3"
+        },
+        "4": {
+          "he": "לא עמ״א ובשס״ב היינו דאי נשיב זיקא מבטל המחיצה הא לא״ה י״ל דכשר כמו ר״ה בחבל ועמ״א שס״ב אות ח׳ ועתו״ש כאן אות ט׳ ובט״ז ד׳ דסיד מחוי וטחו בכותל מצי קאי דסמוך לכותל ועמ״ש בט״ז מזה. מ״ש המ״א נפסק העירוב כו׳ עסי׳ שס״ה ס״ו ושע״ד סעיף ב׳ לענין שבת הואיל והותרה הותרה ומי״ט לשבת לא אמרינן הואיל והותרה הותרה דשמא ב׳ קדושות הן ועסי׳ תקי״ח במ״א אות ג׳ יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:4"
+        },
+        "5": {
+          "he": "רחוק עמ״א גמרא עירובין י״ד ב׳ אמר רבא הרחיק או הגביה הלחי מכותל ומארץ ג״ט פסול ואם הלחי רחב מג״ט שרי דכל שאויר בינו לבין הכותל פחות מעומד שרי כבסעיף ל״ד בפס ועט״ז כ״ז כל שהאויר בינו לכותל פחות מעומד לא אתי אוירא דהאי גיסא והאי גיסא דלבטל ליה וע׳ עירובין י׳ ב׳ בתוס׳ ד״ה ועושה ובמ״א אות ל״ז משמע דסוברים אף שאויר פחות בינו לבין הכותל מהעמוד אפ״ה לא הוי נידון משום לחי דצריך להעמיד ולחי פחות מג״ט לכותל (עמ״ש בט״ז א׳ בעצי אשירה כה״ג עמ״ש אי״ה באות ז׳) ובסי׳ שס״ב ס״ט עומד מרובה או פרוץ מרובה י״ל פרוץ מרובה בכל ההיקף וכאן רק ברוח רביעית כל שהאויר בינו לכותל פחות מהעמוד לא אתי אוירא דהאי גיסא והאי גיסא ומבטל ליה כמבואר בגמרא שם י׳ ב׳ ולקמן סל״ד (ועסי׳ י״ו בציצית כה״ג והבן) ובאות ל״ז הביא המ״א כן בשם הרר״י גופא כתוס׳ וצ״ע. שוב ראיתי להתו״ש אות ט׳ שהביא בשם רבינו הגדול תב״ש לתרץ זה דהרר״י לר״י קאמר כן יע״ש. וכתב בע״ש דצה״פ שהרחיק ג״ט הקנים מכותל לא מהני יע״ש וא״כ יש ליזהר בזה בצה״פ שעושין לפרצה יותר מעשר שיהא הקנה סמוך לכותל הבית ג״ט. דבלא״ה מזדקר הגדי שם ובטל מתורת קנה לצה״פ וע״ש כנ״ל:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:5"
+        },
+        "6": {
+          "he": "אפילו עמ״א אבנים כו׳ דאמרינן לבוד אף בב׳ רוחות ואף להכותל וכה״ג:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:6"
+        },
+        "7": {
+          "he": "מפני עמ״א תוס׳ ד״ה אבל ועט״ז ה׳ ובמ״מ פי״ז מה״ש הי״ב וכללא הוא כל שיש בה שיעור לרחקו (ברחבו) כתותי וכל שא״צ שיעור כ״א בגובה קו אין לו שיעור ולא כתותי ולפ״ז צ״ה קנה שלמעלה מעצי אשירה שרי ולתי׳ ב׳ שמדביק האפר בכותל י״ל בצה״פ לא מהני. ובעי לקבל דלת קש י״ל הוי כסולם בין ב׳ חצירות עסי׳, שע״ב סט״ו בסולם. ופס ד״ט או טפח הכל פסול מעצי אשירה ועסי׳ תקפ״ו שיעור שופר בארכו וקצת צ״ע במ״מ וי״ל. ומה שקשה עכו״ם אינו בשריפה כ״א בקבורה עי״ד קמ״ו ותמורה ל״ד וע״ז מ״ג רק אשירה דמשה הטעינו הכתוב שריפה ע׳ סוכה ל״א ב׳ משמע אף נקברים כתותי ובט״ז קמ״ב א׳ וצ״ע שם ובאה״ע קכ״ד לא משמע כן ועפר״ח אה״ע ואין בידי כעת ואי״ה יבואר עוד. ואם הרחיק הלחי מכותל ג״ט וביניהם עצי אשירה י״ל דמ״מ לא מזדקר הגדי בבת ראש ודמי לסולם בשע״ג סט״ו ועט״ז א׳ ואות ה׳ ואם עכו״ם שיש ביטול אף קורה י״ל דשרי עסי׳ תקפ״ו וער״מ פי״ז מה״ש הלכה י״ב. ואי״ה בסעיף י״ו במ״א ט״ו בקורה אבאר עוד מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:7"
+        },
+        "8": {
+          "he": "אפילו עמ״א עירובין ט״ו א׳ כאביי והעומד מאליו היינו שלא הזמינו לכך אע״פ שעשה בידים ע׳ ב״י ופירש״י שם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:8"
+        },
+        "9": {
+          "he": "כאלו עמ״א דכל שנראה מכוונתם שלא לסמוך עליו לא הוי לחי ובצ״ה כה״ג שלא סמכו עליו שלא טלטלו בו בשכת א׳ צ״ע אי הוי צה״פ להתיר בשבת הבאה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:9"
+        },
+        "10": {
+          "he": "ד׳ אמות עמ״א עסכ״ו אורך המבוי להתיר בלחי צריך ד׳ אמות והלחי בולט ד׳ אמות ברוחב המבוי ונשאר פרוץ מרובה בהך מחיצה משא״כ ח׳ אמות מצומצמות ניתר בלא לחי בעומד כפרוץ דשרי עסי׳ שס״ב ועב״י:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:10"
+        },
+        "11": {
+          "he": "העמידו עמ״א דוקא העמידו בידים הא עומד מאיליו בלא כוונה ואח״כ סמכו עליו בפירוש מע״ש כל שרחב ד״א ברוחב המבוי לית ליה קלא ופסול ברוחב יותר מח׳ אמות ועב״י ועט״ז אות ז׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:11"
+        },
+        "12": {
+          "he": "לחי עמ״א היינו לחי ד׳ אמות משוך באורך המבוי שזה גרע מלחי המושך ד״א ברוחב המבוי עט״ז א׳ ומ״א י״ד וכל שרצפו בלחיים בקנים פחות מג״ט בין זה לזה הוי כלבוד ד״א ומשמע דאמרינן לבוד להחמיר עט״ז א׳ ותק״ב במ״א ט׳ ומ״ש אם נראים חוץ כו׳ היינו שקנה אחד מהם בולט חוץ או פנים והשאר אין כן נידון אותו קנה משום לחי ואין לו שייכות עם השאר למהוי ד״א כיון דניכר הוא יותר מהשאר עא״ר אות י״ז ותו״ש אות כ״ט ועב״י בזה וגמרא ט׳ ב׳ בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:12"
+        },
+        "13": {
+          "he": "עם עמ״א קושיית הע״ש דלמ״ד בין לחיים שרי להשתמש מותר להשתמש בחודו החיצון ולקמן בשס״ה מתיר בין הלחיים וע׳ גמרא ט׳ א׳ ותי׳ דכאן מיידי בצד השני של מבוי שוה לכותל הא׳ של לחי וא״כ מש״ה רק עם חודו הפנימי. וע״ס ל׳ אות ל״ב:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:13"
+        },
+        "14": {
+          "he": "ואסור עמ״א וכ״כ הט״ז אות ח׳ דבאורך המבוי גרע טפי מרוחב המבוי ומ״ש הט״ז בזה אי״ה יבואר שם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:14"
+        },
+        "15": {
+          "he": "מע״ש עמ״א אפילו עשאה בידים כל שלא הונח להתיר ואח״כ סמכו עליה אסור דקורה משום היכרא כו׳ וקורה רחבה ד״ט משמע נמי הטעם שא״צ בריאה משום דיש בו היכרא עי׳ לבוש ותו״ש ומשמע אף ברחבה ד״מ בעינן הושמה להתיר הא מאליה לא ועסי׳ שס״א ס״ב פי תקרה בד׳ טפחים יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:15"
+        },
+        "16": {
+          "he": "כדי עמ״א עב״י ותו״ש כי אורך המבוי רחב י׳ אמות די קורה ט׳ אמות וב׳ משהוין אמרינן לבוד כבסכ״א וכ״ה ובריאה לקבל ח״י אריחין כי אריח אורך ג״ט ורחב טפח וחצי יע״ש והע״ש כתב דמסתימת המחבר משמע שא״צ כ״כ אריחין וכ״נ מהמ״מ שם בר״מ ז״ל וצ״ע ועב״י:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:16"
+        },
+        "17": {
+          "he": "ואינה עמ״א דאמרינן לבוד אף בשני מקומות ואף באורך ורוחב עסי׳ תר״ל ותרל״ג וע׳ באות הקדום. וב׳ קורות כל שסמוכין בתוך ג״ט ברוחב טפח סגי:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:17"
+        },
+        "18": {
+          "he": "בתוך עמ״א ט״ס וראוי להניח יותר מטפח ביניהם אריח טפח ומחצה א״א להשען עליהם משא״כ בסי״ז דיוכל להשען עליהם א״צ בריאה בד״ט משא״כ כאן דא״א להשען כלל עליהם ועא״ר כ״ג כ״ד ותו״ש מ״ד. ושם כתב בדין לבוד אי יש קורה פסול בין ב׳ הכשירות והראה לתרכ״ו במ״א אות ו׳ ועסי׳ תרל״ג במ״א ח׳ וט״ז י״א וברש״י סוכה ד׳ ב׳ חוקקין סניף מאריכין משמע בממשיי נמי אמרינן לבוד וגם בסמוך לדופן שרי לישן ולאכול ועשו״ת ח״צ ז״ל סי׳ נ״ט ובט״ז א׳ ביארתיו והנה אם נאמר להחמיר לא אמרינן לבוד משמע אף כה״ג לא אמרינן להחמיר בממשיי לבוד א״כ בקורה כה״ג י״ל דאף דיעה שניה מודה בפחות מג״ט שרי דאריח יכול להשען על הקורה ואמנם י״ל תרתי לא אמרינן לבוד כאילו אין הממש כאן כל פחות מג״ט והב׳ דברים סמוכים ודבוקים הא ל״א מש״ה בסכך כשר פחות מג״ט בין שני סככים פסולים כ״א פחות מד״ט כשר משא״כ בחקק אמרינן חד לבוד והאריכו כאלו נחקק עד הכותל שפיר דמי אף בממשיי ובקורה כה״ג כל שיש קורה פסול תרי לבוד כה״ג לא אמרינן והבן:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:18"
+        },
+        "19": {
+          "he": "ויש עמ״א דכה״ג א״א להאריח להשען ולכאורה הא טפח שרי דיוכל להשען עליהם בשיפוע קצת והיינו לפי החשבון אלכסון טפח או אפשר טפח ממש ועב״ח ואי״ה בט״ז י״ב יבואר. ופחות מג״ט אע״ג דיוכל להניח אריח לארכו ג״ט י״ל לרחבו בעינן וצ״ע דכאן אמאי לא לארכו וי״ל:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:19"
+        },
+        "20": {
+          "he": "ונמשכת עמ״א ועט״ז י״ג והנה קורה כשכולה למטה מי״ט פסולה וכל ששפתה עליונה למעלה מי״ט אע״פ שנמשכת הרחב שלה למטה מי״ט כשירה וקמ״ל דקורה רחבה י״ט ונמשכת קצת מהי״ט למטה מי״ט גובה של המבוי דה״א מחיצה הוי ופסולה דיש חלל ג׳ טפחים קמ״ל דקורה הוי ול״ד למחצלת דאין נראה הקורה ולכאורה משמע ממ״א דפירש למט״ה מעשרה מ׳ מעשרה מ׳ היתרון וה״פ שכולה מונחת למעלה וי״ט שיש י״ט בין שפת תחתונה לארץ והקורה רחבה יותר מי״ט וה״א מחיצה הוי ופסולה קמ״ל וא״כ מ״ש מחיצה תלויה דגבוה י׳ טפחים מהקרקע אמת הוא וקושטא קאמר וא״כ ג״ט לאו מחיצה ואמנם י״ל כמ״ש בט״ז כל שמתחלת למעלה מי״ט אף נמשכת לתוך י״ט לארץ שרי ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:20"
+        },
+        "21": {
+          "he": "כשירה עמ״א הציור בגמרא עירובין ט׳ א׳ כרב אשי נעץ יתידות בשיפוע נוטות לתוך חלל המבוי ועליהם קורה קצרה אם אין בגובהן של יתידות מראש החומה ג״ט וגם בנטייתן ראש היתד שהקורה נסמך עליו אין מרוחק ג״ט מכותל אמרינן חבוט ולבוד דהיינו השפל כאלו הקורה מונח בשוה בראשי הכתלים ולבוד להאריך הקורה כאלו מונחת על הכתלים עפירש״י שם ויכול להיות גבוה מכותל יותר מג׳ טפחים ומ״מ אין רחוק הקורה מראשיה כותל ג״ט וכן אפי׳ ביתדות כמין דלי״ת וכדומה ודע דמודדין ביושר ג׳ מפחים כי אלכסון יש יותר ועתוס׳ ד״ה שאין. ועסח״י מעמידים ובט״ז י׳ ושם לא הזכיר רק באורכן שלשה ולא בנטייתן יע״ש ומ״מ קשה א״נ יש ברחבן טפח אפילו הכי יש לומר דא״צ לקבל אריח כ״א לקבל הקורה וצ״ע. וממ״ש המחבר שאין רחבן טפח משמע כדיעה א׳ בסח״י דצריך לקבל הקורה ואריח וא״כ הם נחשבים מהקורה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:21"
+        },
+        "22": {
+          "he": "מרוויחים עמ״א הב״י הביאו יע״ש ובסיפא מצומצמות לחומרא עט״ז י״ד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:22"
+        },
+        "23": {
+          "he": "אלא עמ״א בפחות מד׳ אורך דינה כחצר המבואר בסעיף ב׳ בפסין. אבל בנמוך הכתלים פחות מי״ט אף בחצר לא מהני תיקון בזה. ואי״ה בט״ז אות י״ט יבואר מזה. ועא״ר אות כ״ח דסמך המחבר אמ״ש בסוף הסעיף הזה בפס ד׳ גם בסעיף ל״ב מבואר כן. וי״ל בסל״ב קאי רק אאין אורך יותר מרוחב או בתים וחצירות:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:23"
+        },
+        "24": {
+          "he": "בבנין עמ״א עירובין ה׳ א׳ ול״ג שמא ימעט וצריך ליזהר שלא יתמעט מכשיעור גובה כמה דצריך ושיעור רחב טפח וע״כ טוב בנין יותר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:24"
+        },
+        "25": {
+          "he": "שני עמ״א כל שתשמישו מרובה צריך יותר היכר מחיצה ומבוי שיש בו חצר א׳ ובו הרבה דיורין אפ״ה לא פליג וצריך דוקא ב׳ חצירות:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:25"
+        },
+        "26": {
+          "he": "ויש עמ״א עב״ח בזה ונקטינן לקולא יע״ש ועסי׳ שס״ו וש״ע יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:26"
+        },
+        "27": {
+          "he": "דין חצירות עמ״א תה״ד סי׳ ע״ד דכל שהעיר מוקף חומה מסתמא הוקף לאחר ישיבה ואפי׳ יותר מב״ס הוי רה״י גמור אף מדרבנן ומבואות שבתוכן בפרוץ במילואו מרוח ד׳ אין איסור פתוח לכרמלית רק איסור שיש עכו״ם דרין בתוך העיר ויש להם דריסת הרגל ולסלק הדיורין ועסי׳ שס״ד בט״ז ב׳ מזה ועסי׳ שפ״ב ואי״ה שם יבואר בזה. ובסי׳ ע״ג כתב בתה״ד מענין עיר המוקף חומה יע״ש ועסי׳ שס״ה סעיף ז׳ מזה ואי״ה יבואר שם באיזו ענין אמרינן שבת הואיל והותרה הותרה כשהמחיצות קיימות וספק שרי וביה״ש משמע לכאורה דאסור אם נסתר ביה״ש דל״ש חזקת כשרות ושם יבואר אי״ה בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:27"
+        },
+        "28": {
+          "he": "ב׳ קנים עמ״א כ״כ בד״מ דצ״ה בעי ב׳ קנים דוקא ובסוכה תר״ל ס״ג דמניח הקנה למעלה על הפס ועל דופן דהתם חומרא בעלמא לעשות צ״ה שהרי י״א שא״צ כו׳ ובס״ב נותן הקנה על טפח ועל קנה שני יע״ש ועט״ז אות י״ט:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:28"
+        },
+        "29": {
+          "he": "שאין עמ״א עשה כלומר כו׳ דא״כ המבוי רחב הרבה כל שברוח ד׳ מתקצרין הכתלים בשיפוע ואין חלל שם ג״ט כסתום ולבוד והמחבר בא לומר הא ד׳ אע״פ שכל המבוי אין רחב ד׳ בעי תיקון לאפוקי מי״א ועמ״ש אות א׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:29"
+        },
+        "30": {
+          "he": "מבוי עמ״א ובאות מ׳ יע״ש. ולפ״ז כשיש מדרון יש להתיר אף בעת הקרישה שרבים בקעי בעגלות ורגלים דרך הנהר לעיר והאידנא אין מ״ר בוקעים ועט״ז אות ך׳. ועשו״ת כנסת יחזקאל סי׳ ב׳ והתו״ש הביאו: ודע למ״ש המ״א באות ל״ט תל מעצמו והעיר יותר מב״ס כו׳ א״כ כשיקיף נהר קודם בנין הבתים אסור ואם צד א׳ או רחב יותר מעשר הוקף לדירה שפיר דמי עט״ז ך׳. ומשמע דבנו בתים ואח״כ הקיף נהר מעצמו העיר או גדל שן סלע גבוה י״ט וכדומה אע״פ שמאיליה הוקפה לדירה חשיב כ״מ לכאורה ממ״ש המ״א באות ל״ט וצ״ע. וה״ה קרישת המים ואח״כ נפשרו היה תועלת לפי זה והבן ואם בנו עיר על שן סלע גבוה ואח״כ בנו מחיצה י״ט באורך עשר אמות י״ל דלא מהני עסי׳ שנ״ח ס״ח דוקא בנו רוב עומד כה״ג ואי״ה באות ל״ט יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:30"
+        },
+        "31": {
+          "he": "יעלה עמ״א הנה סובר ז״ל דרש״י והמ״מ מחולקין והרכיב ב׳ דבורי רש״י עירובין ח׳ א׳ ד״ה ויעלה הים כרוחב פרסה וד״ה אמר כו׳ מרימר היה חושש שמא יטלטלו במבוי כו׳ ועמ״ש בט״ז מזה והמ״מ פי״ז ה״ה פירש דבריו דודאי יש ע״פ הרוב תל מתלקט אלא חששא שמא יטלטלו ממבוי לים לשרטון כרמלית כו׳ וצריך מחיצה גמורה לא צ״ה ברוחב יותר מעשר דהא כבר יש מחיצה תל מתלקט ואפ״ה חשש שמא יטלטלו וישכחו ממבוי לשרטון ואין מועיל כ״א מחיצה גמורה והיינו אם נאמר בפירוש המ״מ וגי׳ רש״י חיישינן שיעלה שרטון ופסק באוזלי לצד הים יע״ש והטור כרש״י דכתב תתבטל המחיצה הא׳ בלחי או צ״ה עכ״פ סגי. וא״כ בש״ע נרשם ג״כ מ״מ ולדידיה לא מהני רק מחיצה ממש ומ״מ אע״ג דקיי״ל להחמיר כדיעה ב׳ עב״ח ובא״ר מ״מ סגי עכ״פ בלחי במילואו בי׳ וצ״ה ביותר מעשר. ומ״ש בשאר נהרות לא חיישינן לשרטון רק בים שמעלה רפש וטיט. מ״ש בתוס׳ כ״ד עשו״ת כנסת יחזקאל בזה. מ״ש המ״א דמרימר פסק באוזלא ברשתות ולא בצ״ה משמע כהמ״מ ל״ג רש״י צ״ע קצת די״ל מבוי הפתוח לכרמלית דבעי לחי או צ״ה היינו מטעם דיבואו להשתמש ממבוי לכרמלית דלא ליהוי גזירה לגזירה. ואם נקרשים המים כו׳ משמע בחורף הא בקיץ כה״ג שרי ועט״ז. ובשו״ת כנסת יחזקאל סי׳ ב׳, ועא״ר ל״ו דהלמ״מ נמי מהני צ״ה דיש היכרא כו׳ יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:31"
+        },
+        "32": {
+          "he": "שצדו עמ״א ב׳ לחיים א׳ נגד הארוך וא׳ נגד הקצר לא מהני להשתמש נגד הארוך אף ברוחב ביניהם פחות מי״ט והב״ח מתיר ג׳ לחיים כשאין באלכסון בין א׳ לחבירו יותר מי״ט ועט״ז אות כ״א ואי״ה יבואר שם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:32"
+        },
+        "33": {
+          "he": "ולא עמ״א עט״ז ועב״י ואף שיש לחיצונים דריסת הרגל על הפנימית:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:33"
+        },
+        "34": {
+          "he": "ב׳ פסין עמ״א עב״י וט״ז ושם ד׳ טפחים עב״י ועתו״ש אות ע״ד פס רחב ד״א ראוי להוית הציון בסעיף ל״ג במבוי רחב ך׳ אמות ועמ״ש אי״ה באות ל׳ה מזה ועיר המוקפת חומה וננעל הפתחים בלילה ופתח א׳ אין ננעל בלילה ומ״מ הוי כלחי בפתח ההוא אין מערבין אותה לחצאין אבל נפרץ פירצה בטל הכשירה של עיר ויכולין לערב לחצאין ואי״ה בשס״ד ושס״ה אבאר קצת תיקון עיירות לענין שבת וכאן אין להאריך:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:34"
+        },
+        "35": {
+          "he": "פס עמ״א ד״א חשוב כמבוי בפ״ע שאורך המבוי ד״א כבסכ״ו מש״ה לא אתי אוירא כו׳ וע׳ עירובין י׳ ב׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:35"
+        },
+        "36": {
+          "he": "וי״א עמ״א ועתוס׳ עירובין י׳ ד״ה עושה בשם הריצב״א ומ״מ א״י לחלק שפיר בין יותר מעשר לעשר. וצ״ע היכי עביד לה אם לומר בפתח המבוי א״כ למה לן פס וקורה כלל לדידן בסכ״ו ואם צ״ה בעקמימות א״י היכן עושה אם לא מן הפס עד כותל אמצעי ועתו״ש ומ״ש המחבר מבוי עקום ע׳ פירושו בלבוש והציור שם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:36"
+        },
+        "37": {
+          "he": "פס עמ״א וע׳ אות ה׳ וא״כ לכאורה דברי הרר״י מדידיה אדידיה וע׳ תב״ש להרבינו הגדול ז״ל בחידושינו לעירובין הובא בתו״ש אות י׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:37"
+        },
+        "38": {
+          "he": "דלא עמ״א עירובין י״ב וברש״י ותוס׳ ד״ה ויעשה שצריך לחי ומש״ה פריך כו׳ ומעמיד הלחי סמוך לכותל ג״ט וא״נ מניח קורה בטל תיקון כמבוי כ״מ לכאורה ודאי לשס״ה כו׳ ומשמע אף באין רוחב יותר מך׳ כל שמעמיד פס באמצע אי שבקי פתחא רבה יש הך חששא ושמא כה״ג שרי משא״כ כשרחב יותר מך׳ ואע״ג שיש עמוד ברוח ד׳ מ״מ כבר היה פרוץ במילואו. ובסל״ג אם מעמיד ב׳ לחיים נמי י״ל דשפיר דמי:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:38"
+        },
+        "39": {
+          "he": "ובזה עמ״א דהוקף שלא לדירה יותר מב״ס ואם בנו מחיצה ע״ג התל הוקף מיקרי וי״ט לחוד י״ל דלא מהני ואם תל גבוה ה׳ ומחיצה ה׳ הוי הוקף לדירה דכל פחות מי״ט לאו מחיצה כלל:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:39"
+        },
+        "40": {
+          "he": "הוי עמ״א באות ל׳ יע״ש עמ״ש שם ובתו״ש כאן יע״ש ובשו״ת כנסת יחזקאל סי׳ ב׳ יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 363:40"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "שיש עט״ז המ״מ פי״ז מה׳ שבת הלכה ט׳ יע״ש ועסי׳ שמ״ה במ״א א׳ מחלוקת הר״מ ז״ל ושאר פוסקים ואמנם לחי משום מחיצה ד״ת וקורה משום היכרא ועירובין י״ב מבוי הכשירו בלחי הזורק לתוכו חייב בקורה פטור להר״מ ז״ל יתפרש בג׳ מחיצות ולבאר פוסקים בב׳ מחיצות וער״מ ז״ל פי״ז ה״א ומ״מ שם דלחי ד״ת הוא ואקורה קאי ועיין לבוש כאן ונ״מ לפסול עדות או מומר לחלל שבת ד״ת הוי מומר לכ״ה ומיהו י״א שאין לנו רה״ר עסי׳ שמ״ה בט״ז ו׳: אמר ההדיוט הכותב בדין לבוד וצורת הפתח יש לי הרהורי דברים והנני פורטם בכאן בעזה״י דע דלבוד הלמ״מ הוא ואפילו תרי לבוד למעלה ולמטה ואפילו באורך אמרינן לבוד ובפי׳ הלבוד לא זו שאומרים כסתום דמי עד״מ לחי רחוק מכותל פחות מג״ט עמ״א ה׳ אלא אפי׳ אמרינן דכ״מ אויר כסתום דמי כמו פס ד׳ בסעיף ל״ה וג׳ חבלים כו׳ עסי׳ שס״ב הרי יש גובה עשרה ערש״י סוכה ד׳ ב׳ ד״ה פחות כו׳ שמאריכין כו׳ והנה בלבוד מ״ה מחיצה גמורה הוא לכל דבריה ומתנאי הלבוד בי״ד שע״א כתב הר״ב בהג״ה דא״א לבוד להחמיר יע״ש במ״א סי׳ תק״ב אות ט׳ האריך בזה והביא ד״ה עירובין י׳ יע״ש ובסי׳ תרל״ב או ה׳ פי׳ ממ״ש הטור דלא אמרינן לבוד להחמיר דהוי כסמוכים אל תטעה לפרש דבריו דלבוד כסמוכים דהא קיי״ל לבוד כמאריך וכסתום עב״י כאן אלא לומר לבוד כולי האי להחמיר כסתום ובסכך פסול לא אמרינן אלא כסתום מאריך ולא בסכך פסול אבל ביש ב״ט פסול ועוד ב״ט פסול וביניהם אויר פחות מג״ט יש לי להסתפק דלבוד אי כסמוכין נמי אמרינן ופסול או רק כמאריך וסתום ואמרינן כסתום בכשר יע״ש וע׳ לבוש והנה אי אמרינן לבוד כדבר ממשיי לומר כאלו אינו המעיין בסוכה ד׳ ב׳ ולקמן בה׳ סוכה תרל״ג סעיף י׳ חקק עד עשרה פחות מג״ט לכותל אמרינן לבוד ופריש״י ז״ל החקק כאלו מגיע לכותל הרי דלבוד כממשיי וי״ל זה מחלוקת בטור שם עמ״א שם ח׳ אי כשר מחקק ולכותל די״ל דלבוד כאלו המחיצה סותם האויר ע״ג החקק לא לביד דהקרקע שביניהן כנטול והבן. ועשו״ת ח״צ ז״ל סי׳ נ״ט בערוגות קטנות כתב לבוד כממשיי לא אמרינן וראיה סכך פסול שיש ביניהם כשר פחות מג״ט דלא אמרינן לבוד כאלו ניטל הכשר בממשיי יע״ש והיינו בתרל״ב סעיף ד׳ דוקא אויר ביניהם וי״ל דכל שיש כשר ביניהם כולי האי לא אמרינן לבוד להחמיר ע׳ לבוש שם. ומ״ש שם ראיה מעירובין כ״ה א׳ סמך מחיצה למחיצה פחות מג״ט כלבוד אלמא לבוד להחמיר י״ל דלאו מתורת לבוד אלא בטל הוא ולא חשיב ערש״י שם עשה כלומר ויש פוסקין כרב שימי בר אשי אע״ג דלא קיי״ל כן. ובשמ״ה פחות מג״ט לבוד משמע אף בממשיי עב״י שם בהיזמי והיגי וצואה ובהא דשבת ז׳ וזרק ולא נח על כל שהוא פחות מג״ט כו׳ ולפ״ז לחי רחוק פחות מג״ט מכותל וביניהם קרש מעצי אשירה י״א דפסול דממשיי הוא ואע״ג כשרוף דמי לענין שיעור מ״מ ממשיי הוי דלא אמרינן לבוד ועמ״א כאן ה׳ ותר״ל בט״ז ב׳ וא״כ אם עומד שם עצי אשירה גרע טפי ועתו״ש כאן אות ח׳ ועמ״א תרכ״ו אות ו׳. והנה לבוד הוי מחיצה גמורה מ״ה להתחייב הזורק שם ולקולא ג״כ ומדרבנן גרועי מיקרי כבסי׳ ש״ס עמ״א א״ב וי״ל הגריעותא שתי בלא ערב או להיפוך הא כל שיש שתי וערב י״ל אפילו נעץ קנים פחות מג״ט וקנה א׳ בראשם לבד ערב הוי מחיצה מעליא ואף יותר מב״ס מהני ובהוקף וכן בערב לחוד כאותן לטי״ש המחוברים ביתידות בד׳ קונדסים וצ״ע. עסי׳ שנ״ח ס״ו בלבוש לבוד למעט האויר יותר מג״ט לא אמרינן ועא״ר שם: צורת הפתח מבואר דינו בשס״ב סעיף י׳ וכאן סכ״ו ומשמע אפי׳ עשה מעצי אשירה כשר דא״צ שיעור כלחי ומה שצריך לקבל דל״ת קש ואפר אין ראוי לכך מ״מ שרי עתו״ש אות ט׳ הביא ד״ה בסולם של אשירה ואי״ה יבואר לקמן. ועתו״ש בסי׳ שס״ב אות כ״ה אי צריך ד״ט בצה״פ ויבואר אי״ה בט״ז אות י״ט. ודע שאני מסופק בצ״ה אי הוי מחיצה ד״ת ולחייב הזורק בתוכו בנעץ ד׳ קונדיסים ועליהם צ״ה אז צ״ה מהני להתיר כרמלית ופרצה יותר מעשר דמ״ה הוי מחיצה מש״ה מהני צ״ה ועסי׳ תר״ל ס״ב וס״ג משמע צ״ה לחוד לא מהני לסוכה ובס״ו נעץ ד׳ קונדיסים משמע אף דהניח למעלה קנה עליהם דלא מהני ועמ״א אות ט׳ כל מ״ה הוי מחיצה בסוכה מהני כו׳ ש״מ לכאורה צ״ה לא מהני רק בכרמלית וכדומה הא למיהוי רה״י גמור ע״י צה״פ לא וצ״ע טובא. עסי׳ שנ״ו במים לא עבדי פתחא י״ל צ״ה לא מהני שם כל שרחב יותר מג״ט ועסי׳ שס״א במ״א ד׳ ועתו״ש כאן בצ״ה אי בעינן רחב ד״ט או אף פחות ואי״ה באות י״ט בט״ז יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:1"
+        },
+        "2": {
+          "he": "חצר עט״ז ההפרש במבוי ובין חצר עסכ״ו ומבוי דניתר בלחי או קורה הרבה תנאים צריך אלא בחצר כל שארכו יתר על רחבו בתנאי זה לבד די בלחי או קורה עסכ״ז ולכן נקט הפרש מרובע בחצר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:2"
+        },
+        "3": {
+          "he": "טפח עט״ז פי׳ דברי המחבר דחזר בכאן ממ״ש בב״י וסובר דבנשאר בכותל בעינן טפח מכאן ומכאן כבסעיף ד׳ בלחי בכותל ד׳ בעי טפח ובלבוש כתב כאן ב׳ משהויין וכ״כ באר הגולה ה׳ משמע לכאורה דעתו כן ובאמת צ״ע כי הב״י בספרו הארוך הביא תוס׳ י׳ א׳ ד״ה ושני והביאו בסעיף ד׳ בלחי ומשם למדה והתוס׳ בחצר כתבו דבריהם א״כ ה״ה חצר צריך ב״ט ועא״ר ב׳ ושוב ראיתי בתו״ש אות ד׳ עמד בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:3"
+        },
+        "4": {
+          "he": "ולכן עט״ז דעתו בצ״ה מהני סיד מחוי וטחוי בכותל ושיהא עב קצת בולט ועליהם קנה למעלה הא לחי לחוד בלא צ״ה לא מהני סיד מחוי ובולט דבעי שיעור כלשהוא. ובא״ר ט׳ כתב להב״י בלחי נמי בכל שהוא עב״י כחוט הסרבל יע״ש עמ״א ב׳ ובשו״ת תה״ד סי׳ ע״ד מבואר כן דלחי למ״ד כאצבע לא מהני סיד מחוי הא להמחבר בס״ג מהני ובשכ״ו צ״ע ואי״ה יבואר שם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:4"
+        },
+        "5": {
+          "he": "מעצי עט״ז דכל העומד לפזור כפזור דמי אלא תי׳ א׳ עיקר דלהמחבר בס״ב בלא״ה כ״ש וא״צ אצבע א״ש בפשיטות וגובה יו״ד טפחים אין קושיא עיין באר הגולה אות ע׳ ועיין תוס׳ שבת אות י״ג הביא תוס׳ עירובין פ׳ ב׳ ד״ה אבל יע״ש. והנה משמע כל דבר שמ״ה בעי שיעורא כשופר ולולב בארכו אע״פ שברוחב אין שיעור פסול כתותי כו׳ וכ״ד דמדרבנן בעי שיעורא באורך לחוד כמו גבוה י״ט לא החמירו וקורה מדרבנן בעי רוחב טפח אף בדרבנן פוסל ולולב בי״ט שני במצוה החמירו יע״ש בתוס׳. ומיהו יש להסתפק בדבר דמ״ה בעי שיעור בגובה אם מ״ה פסול בכתותי או רק מדרבנן ונ״מ ב׳ מחיצות ולחי אשירה כה״ג עמ״א א׳ וב״ש ב׳ די״ל שמ״ה (א׳) ותו״ש כאן אות י״ג ועי׳ אה״ע קכ״ד בח״מ א׳ וב״ש ב׳ די״ל דקושיית הח״מ איך כתב הגט בט״ל משמע לגמרי הא י״ל כל העומד לשרוף כשרוף דמי רק לחומרא ולא לקולא יע״ש. ועסי׳ תקפ״ו ס״ג ותרמ״ט ס״ג ומצות לאו ליהנות נתנו אף במצוה דרבנן וכה״ג מצוה חשיב אע״ג דמטלטל מידי דרשות משא״כ בשע״ב סט״ו סולם אשירה אסור לעלות בו יע״ש ועמ״א אות ז׳ ואי״ה יבואר שם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:5"
+        },
+        "6": {
+          "he": "בין עט״ז בעירובין ע׳ ב׳ ונראה פנים ושוה חוץ כ״ע מודי׳ דהוי לחי ונראה חוץ ושוה פנים יש מחלוקת והלכה דהוין לחי ובין בין דנקיט המחבר כי עפ״י הרוב בין בין הוי זו ואצ״ל זו כמ״ש הסמ״ע ז״ל בח״מ ע״ב אות ח׳ וא״כ היל״ל כאן תחלה בין נראה חוץ ובין נראה פנים נידון משום לחי אלא הואיל ובגמ׳ נקיט האי מילתא תחלה נראה פנים כו׳ ואפשר להעמיס זה בט״ז ז״ל ומ״מ קשה היל״ל ל״ש נראה כלשון הטור יע״ש. (מ״ש הסמ״ע שם דפשט המחבר דהוי ש״ש לא למעט דלא הוי כשואל ועש״ך שם אות ט׳ ובכללים בפתיחת הספר כתבנו מזה) ומ״ש הט״ז בציורים ע׳ גמ׳ ובמהרש״ל ופרישה האריך כאן ולא היה הזמן גרמא לעיין ביה כראוי:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:6"
+        },
+        "7": {
+          "he": "אם עט״ז וכ״כ המ״א אות י״א כל שהלחי אורך ד״א שהוא הכשר מבוי כבסעיף כ״ו ועומד ברוחב המבוי לא מהני סמכו יע״ש ואף העמיד לחי שלא לשם להתיר מבוי וסמכו אח״כ אין כלום רק בעשייה מתחלה צריך כוונה להתיר והג״ה אבל סמכו ראוי להיות בסי״א כאן לא מהני סמכו כאמור. עיין אות י״ג:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:7"
+        },
+        "8": {
+          "he": "לחי עט״ז וכ״כ המ״א אות י״ד דכאן אפילו הוקבע לשם לחי אסור דלרוחב משום דסתמו יותר לא גרעו ומיהו שם בעינן הוקבע עכ״פ. ומ״ש דכאן משמע דלא קיימ״ל כתוס׳ עתו״ש אות כ״ז הביא דברי הרא״ש יע״ש שהניח בצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:8"
+        },
+        "9": {
+          "he": "וצריך עט״ז בדפוס ציינו בס״ד וראוי להיות בסט״ו דלחי העומד מאליו הוי לחי משום מחיצה וקורה מאליו לא הוי קורה דלהיכרא בעינן שהוקבעה לשם כך ובסי״ד הטעם דבעינן קורה ע״ג מבוי וליכא כרבא עירובין ח׳ ב׳ ועב״י הלכתא כרבא וא״י הא קיי״ל מותר להשתמש תחת הקורה א״כ לדברי המתיר אסור ואפשר פתוח לכרמלית ועסי׳ שס״ד סעיף ד׳ ומשמע הניח ב׳ יתידות בפנים למבוי וקורה עליהם שרי אף לרבא וכן בסעיף כ״א מונחת על העמודים והיינו באופן שאין עמודים נידון משום לחי וכן מ״ש המחבר אצ״ל המבוי וע׳ עולת שבת בזה. ועסי״ח:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:9"
+        },
+        "10": {
+          "he": "שאין עט״ז הנה מעמידי קורה בעירובין י״ז א׳ פלוגתא שם ויכול להתפרש בפשיטות נעץ ב׳ יתידות ישרות על גבי הכותל בראשה והניח הקורה עליהם והציור שכתב המחבר הוא מ״ש בגמ׳ ט׳ א׳ רב אשי אמר ב׳ יתידות עקומות והוא לקמן בסעיף כ״ה והציור בגמרא שם יע״ש כפירש״י דקמ״ל חבוט ולבוד עמ״א אות כ״א ואי״ה שם יבואר ואהא כתב המחבר כאן רבותא אע״פ דעיקר סמיכת הקורה על היתידות לצד המבוי אפ״ה י״א דא״צ במעמידי הקורה כ״א לקבל הקורה לחוד ועב״י:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:10"
+        },
+        "11": {
+          "he": "שצריך עט״ז הב״י הקשה פשיטא דקש פסול דא״י לקבל אריח יע״ש והט״ז תי׳ דקש אין נפסק באריג אם הונח אריח עליה אלא שנתעקם ונכפף ובא למטה מי׳ ממש מש״ה פסול מ״ש המחבר בסעיף כ׳ עקומה ע׳ עירובין י״ד א׳. יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:11"
+        },
+        "12": {
+          "he": "בתוך עט״ז עמ״א י״ח ועב״י וב״ח משמע לכאורה לטעם דזיל הכא ליכא שיעורא צריך ב׳ קורות נוגעים זה בזה ממש הא נפרדים אף פחות מטפח אסור דזיל הכא ליכא שיעורא אבל הט״ז מפרש דליכא שיעורא היינו דא״א לחצי אריח להשען עליהם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:12"
+        },
+        "13": {
+          "he": "קצת עט״ז ועמ״א ך׳ וכללא הוא קורה כל שהניחה למטה מי״ט או למעלה מך׳ אמה פסולה ומיהו קורה עבה ורחבה ביותר והניחה וראשה העליון למעלה מי״ט אעפ״י שרחבה ומגיע לארץ למטה מי״ט כשירה כיון שראש העליון למעלה מי״ט דכאן עדיף מסעיף ך׳ דרואין מה שתוך י״ט כאלו אינן דקמ״ל המחבר ל״מ אם רחבה הרבה ויש בה לערך י״ט ומונחת כולה למעלה מי״ט דלא יצאה מתורת קורה אע״פ שיש בה רוחב י״ט כמחיצה דלמעלה מי״ט ל״ש מחיצה אפי׳ מגיע רחבה למטה מי״ט ויותר מג״ט לארץ דה״א יצאה מתורת קורה ופסילה ומחיצה לא הוי דיותר מג״ט לארץ ואהא חולק הרשב״א ז״ל קמ״ל המחבר דכשירה ומ״ש מ״ש מסי״ב באות ז׳ אי עבדי לשם לחי אפי׳ בולט ד״א כשר בלחי ומ״ש קורה עא״ר אות כ״ז דבלחי א״צ כ״כ היכרא כקורה יע״ש. ודע דבסי״ב בלחי המושך לרוחב המבוי ל״ק מסעיף ד׳ מי גרע בכותל ברוח רביעית י״ל כיון שהיה המבוי תחלה פרוץ במילואו ועשה תיקון בלחי אורך ד״א ושלא בכיון תו לא ניתר בכך עד שיעמוד בכוונה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:13"
+        },
+        "14": {
+          "he": "מרווחים עט״ז בכל הדינים אף בשל סופרים כאן אזלינן לחומרא היכא דבעי י״ט בעינן מרווחות והיכא דפוסל ביותר מעשר אמות וכדומה מצומצמות נמי פסלי וע׳ עולת שבת וי״ל ביש עוד ספק א׳ מצטרפין לס״ס וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:14"
+        },
+        "15": {
+          "he": "אינו עט״ז ועא״ר כ״ט קורה רחבה ד׳ פ״ת יורד וסותם באין רחב יותר מעשר וגם עין שלטא ביה יע״ש ולכאורה ט״ס במ״ש שבעה רק ד׳ יע״ש ומ״מ בשס״א במ״א ה׳ דפ״ת אף ביותר מעשר מהני וצ״ע. ולחי מהני בגבוה יותר מך׳ דהוי מחיצה ועב״ח סי״ד לחי שוה בפנים וחוץ אין נידון משום לחי אא״כ יוצא למעלה קצת גבוה יותר מכותלי המבוי וכה״ג כל שאותו גבוה למעלה מה׳ אמות לית היכרא אע״ג דלחי מחיצה מ״מ היכרא נמי בעינן יע״ש והתו״ש אות נ״ג הביאו ואי״ה באות י״ט יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:15"
+        },
+        "16": {
+          "he": "צריך עט״ז רש״י עירובין ה׳ א׳ ד״ה רב יוסף וע׳ לבוש והנה משמע בנין רוחב טפח כרוחב הקורה וע״פ כל רוחב המבוי אותו בנין ובחקק ע״פ רוחב כל המבוי באורך ד״א ועסי׳ תרל״ג במ״א ח׳ פחות מג״ט לדופן כשירה וא״כ כאן י״ל כל שפחות מג״ט ברוחב המבוי לב׳ כתלים ופחות מג״ט באורך ד״א לכותל יהא כשר ואם נאמר חקק כאלו האויר סתום מדופן א״ש כאן ותליא בפלוגתא אי חקק כממשיי כו׳ עמ״ש בט״ז א׳ ובפלוגתא דטור בתרל״ג יע״ש והבן:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:16"
+        },
+        "17": {
+          "he": "ויש עט״ז בדפוס הוגה המ״מ כהוגן ועמ״א אות כ״ז בזה ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:17"
+        },
+        "18": {
+          "he": "ויש עט״ז כדלעיל בסעיף ב׳ פס ד׳ או שני פסין משהוין בכל צד אחד מהן. והנה עיירות שלנו שאין מוקפין חומה שיש פרצות בין בית לבית הם אינם במילואם ע״פ הרוב רק פרצה יותר מעשר א״כ א״א בפס ד׳ רק בצ״ה כבסעי׳ ב׳ יע״ש ופרצה שהיא כעשר אמות א״צ תיקון כלל הואיל ואין פרוצה במלואו כבסעיף ב׳ יע״ש ואי״ה באות י״ט יבואר קצת תיקון עיירות שלנו ודין צ״ה ודין לחי ופס ד׳ וכאן אין להאריך:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:18"
+        },
+        "19": {
+          "he": "ועל כן עט״ז עסי׳ שס״ב בט״ז ד׳ ומ״א י״ט משמע דיש להזהר כה״ג מפני הרואה ומ״ש מדמסקינן בגמרא עירובין י״א ב׳ גבי כיפה ומ״ש שצריך שלא יהא הגג מפסיק עתו״ש אות ס״ד הקשה עליו מעירובין י״א ב׳ כיפה מוכח דאין מפסיד המפסיק ובי״ד רפ״ז ג׳ הקשה עליו יע״ש הנה בי״ד שם באות ב׳ להר״מ ז״ל שיטה אחרת בעיריבין ויומא י״א ב׳ ע׳ באר הגולה שם ומ״מ פט״ז מה״ש ה״ך דלהר״מ ז״ל כל שאין במזוזה פשוטה י״ט גובה א״כ העיגול איזה תעשה מהם מזוזה ואיזה העיגיל או כולו מזוזה אין משקוף או כולה משקוף אין גובה י״ט ולא ס״ל חוקקין משא״כ כשיש בפשוטה ז״ט אז כל העוגל נחשב למשקוף ומ״ש בגמרא עירובין ויומא י״א ב׳ באין רחבה ד׳ ויש לחוק ד״ט רבותא אמר אף באין רוחב ד״ט בעיגול כל שיש לחוק ד״ט סובר ר״מ חוקקין הא אין לחוק ד״ט גם ר״ט מודה דאין חוקקין להשלים גובה עשרה ולרבנן בכ״ע כל שיש גובה מזוזה ביושר י״ט חייבת אע״פ שאין רוחב ד״ט כלל וכשאין גבוה י״ט ביושר אע״פ שיש רוחב ד״ט בעוגל גופא מ״מ איזה תעשה מזוזה ואיזה משקוף וי״ל איך אמר סייעתא שא״צ ליגע צ״ה בקנים להר״מ ז״ל ולפירש״י שפיר מגבוה י״ט כו׳ מה שא״כ להר״מ ז״ל גבוה י״ט העיגול מיד הוי משקוף ויש לדחות ולומר מר״מ מייתי ראיה דלומר חוקקין וכאלו נוגע ממש לא הוי אמרינן ולפ״ז י״ל רבנן לא ס״ל כן ובאמת הרי״ף ז״ל וברא״ש הלכה כר״נ דתניא כוותיה משמיעין דלא כפי׳ הר״מ ז״ל ובמ״מ פט״ז מה״ש הי״ט הלכה כר״נ לא סיים דתניא כוותיה ובזה י״ל דברי הט״ז מה שצריך נקב בגג והבן ואין להאריך: אמר ההדיוט הכותב בדין צוה״פ יש לחקור. א׳ קנה העליון אם היא למעלה מך׳ אמה ואויר ך׳ בין הקנים לבינו שקשור בגג גבוה הרבה מהו. ב׳ צוה״פ שהרחיק מהצד ג״ט מהו וג׳ מחיצות שאין גבוה י״ט אי מהני צוה״פ. ד׳ צ״ה שעשה מהצד בשס״ב אי דווקא מהצד הא תחוב בין קנה לקנה ונחקק קצת בקנים כעין שעושין האומנים אע״פ שהקנים יוצאים למעלה ג״כ אפשר דשרי הנה בב״ח משמע דשרי בצ״ה אף שהקנה העליון למעלה מכ׳ בינו לקנים שתחתיו ועתו״ש בזה וצוה״פ שהרחיק ג״ט מכותל הקנים עמ״א ה׳ לתוס׳ משמע דאסור וגם בלח״ה י״ל דאסור ועתו״ש בשם תב״ש מזה ומחיצות שאין גבוהות י״ט בש״ע כאן בסכ״ו מבואר דצה״פ מהני למחיצות נמוכים פחות מי״ט כל שצ״ה גבוה י״ט וצ״ע בשמ״ה דכל שנמוכים פחות מי״ט כרמלית הוי ועת״ש אות נ״א ובר״מ ז״ל פי״ז מה״ש הי״ד שנחלקו עליו וסוברים כל שהמחיצות פחות מי״ט אין מהני צה״פ ועב״י מ״ש ושכן כתב הרשב״א ז״ל צ״ל ואין כן דעת הרשב״א ז״ל וצ״ע די״ל מ״ש בש״ע נמוך מי״ט היינו במקום הפתח הא כל המנוי יש ג׳ מחיצות גבוהות י״ט דאל״כ הוי כרמלית כבית שאין תוכו י״ט בסי׳ שמ״ה וצ״ע ועסי׳ שס״ב בט״ז אות ד׳ מ״ש מן הצד וע׳ הג״א עירובין י״א ולא שיהא תחוב בין שניהם באמצעיתו משמע דצריך דוקא מונח על ראש הקנים ומיהו תחב מסמר בראשי הקנים וכרך החבל עליהם מהני כנ״ל ומ״ש הט״ז חיפופים יוצאים עד י״ט סמוך לקרקע לכאורה ראוי להגיה ג״ט סמוך לארץ עי׳ סעיף י׳ בלחי ועתו״ש אות י״א ואות ס״ד דחיפופים לא לצ״ה דהוי פתחי שמאי עירובין י״א א׳ פתחי שמאי ובי״ד רפ״ז יע״ש בט״ז וצ״ע ולפ״ז חיפופין בכותל עץ שקורין ווענגלו״ש וכדומה צ״ע בזה וצוה״פ שאין בין קנה לקנה ד״ט עתו״ש שס״ב אות כ״ה להר״מ ז״ל צ״ה בפחות רוחב ד״ט מהני ולהטור בעינן ד״ט כמזוזה ועמ״מ פי״ז ה״כ ועי׳ סעיף כ״ח ממ״נ כל שאין הפתח המבוי רחב ד״ס ולהר״מ מהני צה״פ ולרא״ש א״צ תיקון אלא כי רחב הרבה ועשה כמה צוה״פ שאין רחבים ד״ט או מפולש כה״ג ויש לע׳ אי מפולש ואין הפתח רחב ד״ט אי תורתו כמפולש: ודע דכיפה נזכר בשס״ב סי״ב ולהר״מ ולרש״י כמחלוקת במזוזה ה״ה כאן וי״ל לרבנן בכיפה כל שפחות מג״ט דהמזוזה שבעה אמאי לא אמרינן חוקקים כבסי׳ תרל״ג ועמ״א ח׳ שם אי החקק עד הכותל או דאמרינן כמאן דמליא דמי עד המקק הוי א״ש: אם נתקלקל צוה״פ בשבת אי י״ל הואיל והותרה הותרה עמ״א אות ד׳ ומ״ש אני שם ובסי׳ שע״ד משמע דוקא מחצר לחצר הא לרשות אחרת לא אמרינן הואיל והותרה הותרה ועמ״א אות כ״ז ואי״ה בשע״ד יבואר מזה ואם ביה״ש נתקלקל אי אמרינן הואיל והותרה במקום דשייך לומר הואיל והותרה יבואר ג״כ שם וכאן אין להאריך:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:19"
+        },
+        "20": {
+          "he": "שמא עט״ז בעיר מוקפת נהר גבוה שפתיו י״ט דהוי מחיצה וקנו מהשר כבסי׳ שפ״ב דלא לאסור עכו״ם העלה דאסור והביא גמרא עירובין ח׳ א׳ איסור לא אמר דקיימא מחיצות והעלה דאף בשאר ימות השנה בקיץ אסור לטלטל בעיר ע״ש הנהר אטו בחורף שהמים נקרשים ואפשר שכיח טפי מיעלה הים שרטון דל״ג לדיעה א׳ משא״כ כאן ומיהו אם יש מקום מדרון שרי כו׳ ובמ״א ל״א בשם המ״מ משמע אף שיש מקום מדרון אסור יע״ש והט״ז סובר אף להמ״מ כל שיש מקום מדרון תל המתלקט י״ט מתוך ד״א שרי והמ״א בימי החורף אוסר ובימי הקיץ אפשר דמתיר ואי״ה שם יבואר ומיהו בשאר נהרות לשרטון לא חיישינן ומש״ה התיר ביש תל כו׳ עמ״א. והנה בחששא שרטון י״ל דרבנן ל״ג כ״כ משא״כ נקרשים ורבים עוברים שם הוי רה״ר ממש יש למיגזר טפי וע׳ בשמ״ה בט״ז ו׳ ומ״א ז׳ דמקילין לומר דהאידנא כרמלית ומ״מ בצירוף דעת הר״ב כאן י״ל. והנה י״ל מ״ש רש״י ז״ל שרטון כרוחב פרסה כפי׳ המ״מ ויטלטלו ושם בים והוי מוקף שלא לדירה כמ״ש המ״א אות ל״א ומרימר דפסק לסורא באוזלי י״ל דסובר שפיר לא חיישי׳ לשרטון שמא יטלטלו ממבוי לשרטון כי לא הורגלו בכך ולא יבוא לכך משא״כ בתוך העיר יטלטלו כדמעיקרא שהורגלו חיישינן שפיר כו׳ וסורא לא היה מדרון י״ט במשך ד״א וחשש שפיר שמא יטלטלו בעיר כדמעיקרא ופסק באיזלי ולפ״ז איך שיהיה עכ״פ כשיש מדרון שרי וזה שהביא הט״ז ז״ל פי׳ המ״מ ורש״י כרוחב פרס״ה לכוונה מיוחדת הביא כן וכאמור ואי״ה במ״א יבואר עוד. וע׳ שו״ת כנסת יחזקאל סי׳ ב ושאר סימנים האריך בכאן יע״ש. ועמ״א שס״ה אות ט׳ וא״ר כאן אות ל״ה ולענין עיר שסביבה חריץ עמוק י״ט ורוחב ד״ט הוי מחיצה גמורה להעיר עשו״ת ח״צ ז״ל סי׳ ה׳ ו׳. וע׳ סי׳ שע״ב במ״א כ״ט כל שרוחב החריץ פחות מד״ט נוח לפוסעו ולא הוי מחיצה לעיר. ואם יש גשרים רחבים יותר מי״ט צריך צה״פ דוקא ואי״ה בשס״ה יבואר במ״א וכאן אין להאריך ודע דנהר המקיף או תל סביב לעיר הוי קרפף יותר מב״ש עמ״א אות ל״ח כ׳ אלא די״ל שיש גשרים רחבים יותר מי׳ אמות בטל המחיצה סביב העיר ואח״כ שעשה צוה״פ במקום הגשר כבסי׳ שנ״ח ס״ב הוי מוקף לולי מטעם דתקרה ולפ״ז במקום שאין הגשר רוחב י׳ אמות בלא״ה אסור לטלטל בעיר ואי״ה במ״א יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:20"
+        },
+        "21": {
+          "he": "אלא עט״ז עירובין ח׳ ב׳ משמע דאף אי רוצה להשתמש רק נגד הקצר אפ״ה אין מניחין הקורה באלכסון דיטעו ומשמשו בארוך נגד הארוך וגם אין היכרא כל כך כשהוא מונח באלכסון ועוד דקורה על גב כותלי המבוי בעינן ובאורך לאו על גב כותלי המבוי הוה דאסור להשתמש שם וז״ש רבא אין מניח אלא נגד הקצר ולא אמר אין משתמש רק נגד הקצר וא״ש לתי׳ הא׳ בתוס׳ ד״ה מניח לרבא למה לי הטעמא דלא הוי היכרא תיפוק דלית מחיצות ועת״ח הביאו התו״ש. ומ״ש הט״ו דלכאורה תוך המבוי אפי׳ באלכסון שרי היינו כשאין באלכסון יותר מעשר וראית דיותר מעשר אף לרב כהנא אסור ה״ה לרבא תוך המבוי כה״ג (ומלת אלא באלכסון א״צ להגיה וה״פ אלא צריך עשר מצומצמות ולא יותר) ובזה יתיישב מ״ש הרי״ף ז״ל יותר מעשר כ״ע מודים דנ״מ תוך המבוי כאמור ועב״י וכתב הט״ז דמלשון המחבר והטור משמע תוך המבוי אף שיש יותר מעשר באלכסון שרי להניח הקורה באלכסון דאל״כ היה לומר תחלה תוך המבוי מותר באלכסון ואח״כ לכתוב צ״ה מותר נגד הארוך והקצר ומ״מ אין שוים דקורה תוך המבוי כשרוחב פתח המבוי יותר מעשר אמות ודאי לא מהני אף כשכותלי המבוי שוים וצ״ה מהני רק כשיותר מעשר באלכסון הוא דשרי תוך המבוי בקורה ועתו״ש. וב׳ לחיין כתב דאין כאן ספק כלל ודאי אין מתיר רק נגד הקצר בהעמידן בסוף המבוי דלא כב״ח ועמ״א אות ל״ב ומ״ש דכנגדו רה״ר י״ל לחי מחיצה והוי שלש מחיצות מצד הארוך והפרצה ברוח רביעית לא הוי במילואו וכ״ש לכרמלית כה״ג ומ״מ י״ל אף בפתוח לכרמלית לא מהני ב׳ לחיים באלכסון דלחי הקצר כאלו מחיצה שם נכחו ביושר ותו לית כלל נגד הלחי הארוך שם היתר ועיין אות כ״ג:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:21"
+        },
+        "22": {
+          "he": "אם עט״ז הנה העמיד לחי באמצע מבוי היינו באמצע כותל וסמוך לכותל פחות מג״ט כמבואר וכל שעשו החיצונים ג״כ לחי למבוי הנשאר ויכולים לערב יחד אז אוסרים זע״ז אף שאין לחיצונים דריסת הרגל על הפנימים דהוי כעיר של יחיד ונעשית של רבים כיון שהורגלו לערב יחד עב״י בשם הרא״ש ז״ל ויראה לי אף שעשו כן בתחלה העמידו כ״א לחי לעצמה ולא הורגלו מעולם לערב יחד מ״מ הואיל ורוב המבואות רגילין כן לערב יחד כל המבוי ה״ה הם וכ״מ קצת בלבוש ואם אין לחיצונים לחי אין אוסרים על הפנימים כיון שחיצונים אין ראוים לערב ויראה אף שיש לחיצונים דריסת הרגל על הפנימים כה״ג שלא עשו לחי אין אוסרים על הפנימים משא״כ כשחלקו הדיורין בפסין או בצ״ה ולא ערבו החיצונים אם יש לחיצונים דריסת הרגל אוסרים על הפנימים ואם אין להם דריסת הרגל אין אוסרים עב״י ותו״ש ומ״ש המחבר בסל״ב וכל זה ביש הכשר מבוי היינו העמיד לחי בחצי מבוי ולא בחוץ ועמ״מ פי״ז ה״כ דעלה קאי הא עשו גם חיצונים וערבו מצטרף המבוי יחד כל שיש בין הכל ב׳ חצירות שרי אבל בצ״ה ב׳ פסין אני מסופק אם אין בחיצונה ב׳ חצירות אם מותרים וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:22"
+        },
+        "23": {
+          "he": "אבל עט״ז דחצר א׳ גופא יכולין לחלוק בצ״ה או ב׳ פסין עב״י ומ״א. וע׳ עירובין י״ד ב׳ חצי מבוי יש לו חצי מבוי פשיטא וי״ל דילמא אתא לאשמעינן שאין החיצונים אוסרים עליו כשלא עשו הם לחי אע״ג שיש להם דריסת הרגל וי״ל עדיפא משני וי״ל לימא אין לו אלא חצי כדמעיקרא דבעי ב׳ חצירות כו׳ וי״ל:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:23"
+        },
+        "24": {
+          "he": "ומעמידו עט״ז ואע״ג דהוי פרוץ מרובה על העומד ברוח ד׳ וגם אוירא דהאי גיסא והאי גיסא מרובה כיון דיש אורך ד״א בפס הוי כמבוי שזהו שיעור אורך המבוי ומש״ה הוי כב׳ מבואות משא״כ בסל״ד אין הפס רחב ד״א כ״א מטעם דממעט לפתח המבוי מעשרים אמה ובמ״א אי״ה אבאר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:24"
+        },
+        "25": {
+          "he": "כל עט״ז וע׳ סעיף כ״ו דיני תנאי מבוי:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:25"
+        },
+        "26": {
+          "he": "ומה עט״ז בשס״ד מבוי עקום כמין דלית או כמין ח׳ הוי כמפולש אע״ג שאין רוחב עשר אמות בין לרה״ר ולכרמלית או בעקמימותו וכאן כתב הרא״ש דוקא כשיש יותר מעשר אמות מן הפס עד כותל האמצעי (עד״מ ג׳ מחיצות ורוח ד׳ במזרח פרוץ מעמיד במזרח פס ד׳ א׳ ואם יש מפס עד כותל מערבי יותר מעשר אמות כו׳ צריך צ״ה כבשס״ד) וכתב הט״ז דכאן לא הוי ממש כמבוי עקום וי״ל שרואין כאלו המקום מהפס הולך ביושר עד כותל מערב וב׳ מבואות הם בצד פס זה ובצד הב׳ הולכים ג״כ בשוה ויושר ולית בכ״א מפולש משא״כ כשיש יותר מעשר אמות מפס עד כותל מערב א״כ לא הוי פתח בין מבוי האמצעית לבין מבואות שבצדדים לכך אז הוי כמבוי עקום ולפ״ז מ״ש הר״ב וי״א דוקא כשיש עשר אמות הוא ל״ד אלא יותר מעשר אמות:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:26"
+        },
+        "27": {
+          "he": "ויעשה עט״ז עירובין י׳ ב׳ וע׳ סי׳ שס״ב פרוץ מרובה בכל ההיקף לא הוי מחיצה משא״כ ברוח א׳ אי אוירא דהאי גיסא והאי גיסא רבה מבטל ליה כל שפחות מד״א הא לא״ה לא מבטל ליה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:27"
+        },
+        "28": {
+          "he": "מתוך עט״ז כל שיש גבוה י״ט ומתלקט מתוך ד״א הוי מחיצה וא״ל כמאן דליתא דמי וכן לענין היקף העיר כן הוא ואי״ה בשס״ה במ״א ט׳ ובשאר דוכתי יבואר עוד: אמר העני ארשום בכאן מלות והשמות המוזכרים בסי׳ זה בקצת ביאור. פסין לחיים צורת הפתח קורה: ה׳ פסין הם א׳ פס החצר בסעיף ב׳ ד״ט או ב׳ פסין משהו מכאן ומכאן ובנשתייר בכותל ד׳ בעינן טפח מכאן ומכאן. ב׳ פס רוחב ד׳ אמות במבוי שרחב יותר מך׳ המבואר כאן בעינן ד״א דוקא להיות חשוב מבוי בפ״ע ואז לא אתי אוירא דהאי גיסאולא מבטל ליה ואף פרוץ מרובה על העומד ברוח ד׳ לא מבטל ליה. ג׳ פס ד׳ אמות העומד ברוחב המבוי אין לו דין לחי במאליו הא במתכוין הוי לחי הא עומד באורך הכותל מבוי אע״ג הועמד לשם לחי בטל הוא מתורת לחי אע״ג דניכר כבסעיף י״ב וי״ג יע״ש ד׳ פסי ביראות אע״ג דפרוץ מרובה על העומד אפ״ה הואיל בכל צד אמה מכאן ומכאן שפיר הוי מחיצה מ״ה ע׳ תוס׳ ריש עושין פסין י״ז ב׳ ומ״ה אגמריה רחמנא כך וער״מ ז״ל פי״ז הכ״ז ויש פס ה׳ בשס״ה דדי בפס ד״ט כה״ג יע״ש במ״א א׳ יע״ש. ג׳ לחיים הן. א׳ לחי המתיר מבוי פרוץ במילואו בי׳ אמה עוביו אין לו שיעור וגובה י״ט וכשר מעצי אשירה ושלא ירחיק מכותל המבוי ג״ט כמבואר בסעיף גו״ח. אמרתי לרשום פה מ״ש בצידה לדרך פ׳ וישלח ע״ש ויטמון אותם תחת האלה בשכם ובשם רבינו בחיי שעכו״ם אין דינה בקבורה אלא צריך פיזור דוקא ובר״מ ז״ל פ״ח מעכו״ם כיצד ביעור עכו״ם מפרר או שורף ומטיל לים וע׳ בי״ד סי׳ קמ״ו סי״ד ובסוף תמורה דלא חשיב עכו״ם דאינה מנשרפין ונקברים דבעי פירור דוקא ולא קבורה ושם אמר עצי אשירה לעולם אסור קשה הא בלא״ה אינה מנשרפין וי״ל אפר נקברים אפשר מדרבנן דמ״ה שלכ״ה הוי עמ״ל פ״ה מיסודי התורה ופני יהושע פסחים משא״כ עצי אשירה מ״ה מלא ידבק בידך ולוקה בנהנה וע׳ אה״ע לקדושי אשה. ועט״ז אות ה׳ ובתוס׳ עירובין פ׳ ב׳ ד״ה אבל ונ״מ בין התירוצים קנה שע״ג ב׳ קנים בצורת הפתח לתי׳ א׳ שרי ולב׳ אסור וקורה דאמר שם ~מתכת~{מכתת} שיעורא קשה קצת לתי׳ הב׳ ולמ״ש הר״ן ז״ל בשם בעל המאור ר״ה כ״ט דמצות דרבנן אמרינן מצות ליהנות נתנו קשה לחי מעצי אשירה איך שרי מ״ה א״נ ד׳ מחיצות בעינן מ״מ כרמלית הוי ואנן קיי״ל דאף דרבנן לאו ליהנות נתנו כמו שכתבתי במקום אחר ב׳ לחי בסעיף ד׳ ברוחב ד׳ בכותל בעינן טפח דבכותל עצמו אין היכר במשהו. ג׳ לחי העומד מאליו בסעיף י״א כשר אף אילן נטוע אף פחות מטפח ועסי״ב וי״ג. צורת הפתח קנה שע״ג מעצי אשירה ביארתיו לעיל בפסול קורה מבואר דינו. ולחי מחיצה והזורק למבוי חייב וקורה היכרא והזורק למבוי פטור ולא היה פנאי כעת לעיין כראוי אולי אזכה בסימנים הבאים לבאר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 363:28"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] [לבוש] אינה רשות הרבים וכו'. ולענין כשזרק מרשות היחיד לרשות הרבים מחלק הט\"ז בין פתוח לרשות הרבים שרבים דוחקין בתוכו שאינו חייב עיין שם, ומב\"ח ומגן אברהם משמע דבכל ענין חייב ועיין ריש סימן שמ\"ה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:1"
+        },
+        "2": {
+          "he": "[ב] [לבוש] משהו מכאן וכו'. בשולחן ערוך כתב טפח מכאן דשיור דכותל גרע מפס במשהו והוא כתירוץ שני דתוס' עירובין דף י' ודעת הלבוש נראה כתירוץ ראשון שם דאף בכותל סגי במשהו וכן משמע בעבודת הקודש דף ו' וכדאי הרשב\"א לסמוך על הכרעתו, ודלא כב\"ח דהחמיר אפילו בפסין בטפח וסמך על רבי יהונתן וליתא דאף רבי יהונתן לא קאמר אלא בכותל וגם בכותל יש לומר דלאו דוקא נקט כמו שכתב בית יוסף דסגי במשהו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:2"
+        },
+        "3": {
+          "he": "[ג] אין בפירצה ארבעה טפחים וכו'. ואפשר דמיירי שחצר רחב באמצע ובקצהו הוא קצר שאין במלואו רחב ארבעה טפחים אבל אם כל החצר פחות מארבעה טפחים אין צריך תיקון כמו שכתוב סעיף כ\"א (מגן אברהם), ולא נהירא דהתם מיירי במבוי אבל בחצר צריך תיקון כמבואר בעירובין דף י\"ב וכן משמע במרדכי ואגודה והגהות אלפסי שם. בצורת הפתח עיין סימן שס\"ב סעיף י':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:3"
+        },
+        "4": {
+          "he": "[ד] [לבוש] כל שהוא. אפילו פחות מאצבע (בית יוסף):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:4"
+        },
+        "5": {
+          "he": "[ה] אם קשר אדם וכו'. מיירי שלא הודיעו אם כן ילך משם לכך בעיא קשור (מגן אברהם), ועיין סימן שס\"ב ס\"ק י\"א:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:5"
+        },
+        "6": {
+          "he": "[ו] [לבוש] ודוקא בתיקון וכו'. ומלבושי יום טוב תירץ דשאני משתי רוחות ועיין ס\"ק ב':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:6"
+        },
+        "7": {
+          "he": "[ז] לא מצי קאי וכו'. ואפילו אין הרוח מפילו אלא מנדו כמו שנתבאר ריש סימן שס\"ב (מגן אברהם):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:7"
+        },
+        "8": {
+          "he": "[ח] רחוק וכו'. דאתי אוירא וכו' לכן אם הלחי רחב משלושה שרי הואיל והעומד מרובה על הפרוץ (ריא\"ז), אבל דעת התוס' דאפילו הכי אסור (מגן אברהם) וצריך עיון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:8"
+        },
+        "9": {
+          "he": "[ט] [לבוש] לפיכך וכו'. והט\"ז חולק על רמ\"א דבתרומת הדשן משמע דוקא בצורת הפתח דאין צריך רק קנה אחת מזה וקנה אחת סגי בכל שהוא ולא בלחי, ולא קשה מידי דלהבית יוסף גם בלחי סגי בכל שהוא כדלעיל, ומלבושי יום טוב כתב דהבית יוסף סבירא ליה דבכל לחי סגי בכל שהוא מכל מקום במחוי סיד מסתפק, ונראה לי דלרמ\"א פשיטא ליה מהך דשברי שברים, עד כאן, בשיירי כנסת הגדולה מבואר דנוהגין אף בלחי דיותר יש להקל בסיד מחוי בלחי מצורת הפתח ושנוהגין בשניהם להקל, ופשוט שיהא הסיד עב קצת כחוט הסרבל. אבנים היוצאים מן הגדר לזו למעלה מזו פחות משלושה הוי לחי והוא שיהא בגבוה בין כולן עשרה טפחים (עבודת הקודש):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:9"
+        },
+        "10": {
+          "he": "[י] [לבוש] אם גבלו וכו'. כן כתוב בבית יוסף ותמיהני שנעלם ממנו משנה סוף תמורה ויו\"ד סימן קמ\"ד דאפר עצי אשרה אסור בהנאה אם כן צריך לפזרו לרוח כמו העצים עצמן (ט\"ז), ועיין סימן תקפ\"ו סעיף ג' וצריך עיון, גם נראה לי דמצוות לאו ליהנות ניתנו ועצי אשירה גופיה דאסור דעומד לשריפה ועפר עומד לפזר לרוח מכל מקום:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:10"
+        },
+        "11": {
+          "he": "[יא] [לבוש] צורה ראשונה צורה שניה צורה שלישית צורה רביעית. ולחכמת שלמה צורה שלישית ליתא שכתב בפנים לכולי עלמא ליתא (מלבושי יום טוב), ועיין ט\"ז ונחלת צבי:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:11"
+        },
+        "12": {
+          "he": "[יב] [לבוש] אילן שנטעו וכו'. והוא הדין גדל מעצמו (עבודת הקודש):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:12"
+        },
+        "13": {
+          "he": "[יג] כאילו סמכו וכו'. משמע דאם בפירוש לא סמכו עליו כגון שלא טלטלו בשבת שעברו על ידי לחי זו לא הוי לחי (מגן אברהם), ונראה לי דוקא שלא טלטלו בשבת העבר כלל שלא היה שם לחי אחר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:13"
+        },
+        "14": {
+          "he": "[יד] [לבוש] דהוי הפרוץ מרובה וכו'. אם הדופן יותר מארבע ומסופקין אם עומד במחיצה על מחצה או מרובה על הפרוץ אם אינו כפרוץ מותר דספק דבריהם להקל ועוד שיש שני צדדין להקל שמא עומד מרובה ואם תאמר אינו מרובה יש לומר שמא כמוהו עבודת הקודש דף ה':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:14"
+        },
+        "15": {
+          "he": "[טו] ושוה מבפנים וכו'. אבל בתוס' דף ט' והרא\"ש הכריחו דבכהאי גוונא לא הוי לחי דלא נקרא נראה מבחוץ אלא לעומדים לאחורי המבוי אבל באמת שהבית יוסף אינו מפרש כן לתוס' והרא\"ש ומכל מקום החכמת שלמה פירש כן וכן נראה (מלבושי יום טוב):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:15"
+        },
+        "16": {
+          "he": "[טז] [לבוש] שכן הוא הדין בכל לחי וכו'. קשה מסימן שס\"ה סעיף ד', וצריך לומר דמיירי הכא בפתוח לכרמלית וצריך עיון, ובשולחן ערוך כתב מגן אברהם דהא הצד השני קצר מזה ובגמרא מיירי שצד השני גם כן ארוך, עד כאן, ולכאורה בכל לחי צדו השני קצר ואפילו הכי מותר וצריך עיון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:16"
+        },
+        "17": {
+          "he": "[יז] [לבוש] ואם רחב ארבע אמות וכו'. והוא הדין רצפו בלחיים פחות פחות משלושה משך ארבע אמות, ודוקא בשאין הלחי החיצון בולט כלום אבל כשבולט משהו חוץ למבוי מותר. היו רחוקים זה מזה שלושה טפחים משתמש עד חודו החיצון של לחי החיצון ואם עומד כל לחי וכו' (עבודת הקודש דף ו'):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:17"
+        },
+        "18": {
+          "he": "[יח] אם נעץ וכו'. דוקא כשנעץ תוך עובי הכותל ובולטים לחוץ אבל אצל הכותל מותר מטעם לחי (עולת שבת):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:18"
+        },
+        "19": {
+          "he": "[יט] כדי לקבל וכו'. כלומר אם המבוי רחבה עשר אמות צריך לקבל שמונה עשרה אריחין דהוא תשע אמות כמו שכתב סעיף כ\"ה (עבודת הקודש). כתב בית יוסף וב\"ח אם עשה מקש וקנים אף שבריאה כדי לקבל אריח אסור כיון דרוב מקש וקנים אינן בריאות מבוי מפולש משני צדדין שנתקן בצד אחד בצורת הפתח ומצד אחד לא היה שני צדי מבוי שוין אלא אחד קצר ושני ארוך בלחי סגי (רלב\"ח ס\"ו):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:19"
+        },
+        "20": {
+          "he": "[כ] טפח ולא בארכן שלושה טפחים וכו'. דאז הוי הקורה כלבוד כמו שכתב סעיף כ\"ה וכן אם יש טפח הוי כקורה עיין שם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:20"
+        },
+        "21": {
+          "he": "[כא] יש אומרים שצריך וכו'. כן פסקו הרמב\"ם וסמ\"ג וכן פסק בעבודת הקודש ובשלטי גיבורים משמע שכן דעת הרי\"ף:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:21"
+        },
+        "22": {
+          "he": "[כב] ואינה נוגעת וכו'. אפילו מרוחק משני כתלים כגון שנעץ קנה כל שהוא באמצע המבוי להניח קורה עליה דאמרינן לבוד משני רוחות (פרק קמא דעירובין):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:22"
+        },
+        "23": {
+          "he": "[כג] ויש אומרים שצריך וכו'. כן כתוב בשולחן ערוך ובית יוסף, ולעניות דעתי לא פליג הנך יש אומרים אסברא ראשונה דאם יש בשניהם רוחב טפח מותר כל שיש ביניהם פחות משלושה אבל כשאין בשניהם אלא רוחב חצי טפח אז לא יהא ביניהם רק טפח כדי שיוכל להניח עליהם אריח שהוא טפח ומחצה דאז מונח אצבע אחת על כל קורה, ואף דאין צריך בקורה רק טפח מכל מקום הכא דבשני הקורות עצמן אין טפח וטפח ביניהם צריך שני קורות וכן נראה לי פירוש הטור ור' יהונתן וכן מוכח בעבודת הקודש דף ה' והוא ברור, גם הב\"ח ואחרונים לא ירדו לזה, ומה שהחמיר הב\"ח דבעינן דוקא שיהא בשניהם רוחב טפח ונוגעין זה בזה ממש לא משמע הכי בפוסקים וכן הנחלת צבי חולק עליו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:23"
+        },
+        "24": {
+          "he": "[כד] בתוך טפח. ואפילו אם הם יחד ארבעה אם האויר שביניהם ארבעה טפחים לא מהני דעל כל פנים אין ראוי להניח אריח עליהן מה שאין כן בסעיף י\"ד דראוי רק שאינו חזקים (מגן אברהם), ונראה לי שיש טעות סופר בדבריו וצריך לומר אם האויר שביניהם יותר מטפח לא מהני ודו\"ק, מיהו כבר כתבתי להקל כל שיש בשניהם רוחב טפח אם אין ביניהם שלושה טפחים:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:24"
+        },
+        "25": {
+          "he": "[כה] ויש פוסלין וכו'. ונקטינן לחומרא (ב\"ח):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:25"
+        },
+        "26": {
+          "he": "[כו] קורה רחבה וכו'. פירוש רחבה עשרה טפחים כיון דמשולשלת עשרה טפחים יוצאה מתורת קורה כמו במחצלת והוי מחיצה שתחתיו גדיים בוקעים בה ואסור כמו שכתב הרשב\"א, קא משמע לן דמותר כיון שהקורה נראית ואין מכוסה במחצלת שם קורה עליה. ומה שכתב אפילו נמשכת עד למטה מעשרה וכו' היינו דהוה אמינא כיון שמשולשל למטה מעשרה מארץ אין תורת קורה עליה כדמסיק. ומה שתמה הט\"ז על הרשב\"א מסעיף י\"ב נראה לי דלא קשה מידי דבמחיצה צריך יותר היכר מלחי:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:26"
+        },
+        "27": {
+          "he": "[כז] מרווחות וכו'. ובסיפא מצומצמת דאזלינן לחומרא:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:27"
+        },
+        "28": {
+          "he": "[כח] אלא בצורת הפתח וכו'. והרמב\"ם דבפחות מארבע אמות דינן כחצר ואפשר דלאו דוקא נקט צורת הפתח (מגן אברהם), ונראה לי דגם ברחבה מעשר אמות ואילך דינו כחצר וסמך השולחן ערוך ולבוש אמה שכתב בסוף סעיף או בפס וכו' או בצורת הפתח וכן משמע בעבודת הקודש דף ד', גם אשתמיט למגן אברהם מה שכתוב בשולחן ערוך סעיף ל\"ב:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:28"
+        },
+        "29": {
+          "he": "[כט] [לבוש] דלא שלטא וכו'. ואם הקורה רחבה ארבעה ובריאה לקבל מעזיבה מותרת ולא משום היכר אלא שפי התקרה יורד וסותם כל שאין פתח המבוי יותר מעשר, וכן נראה לי שאילו היתה רחבה שבעה אף שאינה בריאה כשרה שכל שרחבה ארבעה העין שולטת בו עבודת הקודש ד':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:29"
+        },
+        "30": {
+          "he": "[ל] בנין וכו'. והוא הדין עפר וצריך ליזהר כשנדרס ברגלים שלא ימעט מכשיעור:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:30"
+        },
+        "31": {
+          "he": "[לא] עד שיהיה פתוחים וכו'. השמיט הגהת רמ\"א ואפילו כל חצירות פתוחות זו לזו ויש חולקין, עד כאן, ואולי טעמא משום דבית יוסף פסק כיש חולקין וסתמא כפירושו דאין פתוחות זו לזו (מלבושי יום טוב), ותימא על גדול שכמותו שלא ראה בסוף סעיף זה שכתב לבוש דברי רמ\"א כהווייתן גם לדינא עיקר כסברא ראשונה כמו שכתב הב\"ח וכן בבתים פתוחות זו לו, ובעבודת הקודש דף ד' אפילו עירב כל בית ובית צריך שיהא בו ארבע אמות על ארבע אמות או יותר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:31"
+        },
+        "32": {
+          "he": "[לב] שיהא ארכו יתר וכו'. ואפילו כל שהוא (עבודת הקודש). איזה ארכו של מבוי דרך כניסתו ומה שאינו דרך כניסתו קאי רחבו ואף על פי שרחבו יותר מארכו (שם). הג\"ה שכתב רמ\"א כאן כתב הלבוש בסוף סימן זה ומלבושי יום טוב שגג בזה וסבור שהשמיטו להאריך והוא לחינם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:32"
+        },
+        "33": {
+          "he": "[לג] שאין בו ארבעה וכו'. פירוש בפתחו אף שבתוכו רחב ארבעה (בית יוסף), וכן משמע מר\"י דף צ\"ב כתב ר\"י דף פ\"ח ודוקא במבוי אבל בחצר לעולם צריך תיקון ועיין ס\"ק ג':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:33"
+        },
+        "34": {
+          "he": "[לד] [לבוש] שאחד מצדדיו וכו'. פירוש ששפתו גבוה עשרה ודוקא שיהא סמוך ממש לראש המבוי אבל אם הנהר רחוק מבתים עשר אמות צריך תיקון דאותו מקום הוי פרוץ, וכן באשפה מיירי שגבוה עשרה ומשמע בבית יוסף דאף שצד אחד ים וצד אחד אשפה וצד אחד סתים וצד אחד פתוח ברשות הרבים בלחי או קורה נמי מותר לסברא זו ולבוש דנקט שאחד מצדדיו נראה משום דלרבותא דיש אומרים דאפילו הכי צריכה תיקון. כתב אמונת שמואל סימן מ' עיר שחריץ עמוק עשר ורחב ארבע מקיפה הוי כמחיצה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:34"
+        },
+        "35": {
+          "he": "[לה] ויש אומרים וכו'. וכן עיקר וכן פסק הב\"ח וכתב מגן אברהם דוקא בים אבל בשאר נהרות לא חיישינן שיעלה שרטון אם לא שדרכו להתייבש בקיץ הרבה, ואם נקרשין בימות הגשמים בטלה המחיצה ואסור לטלטל והט\"ז האריך דכיון שדרכן לקרוש אסורין לעולם ובש\"ס מיירי בים שאין דרכן לקרוש, ועיין מגן אברהם סימן שס\"ה ס\"ק ט':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:35"
+        },
+        "36": {
+          "he": "[לו] [לבוש] ויטלטלו מן המבוי וכו'. זה לשון מלבושי יום טוב כן כתב בבית יוסף בשם המגיד אבל רש\"י פירש יטלטלו במבוי עצמה והבית יוסף ולבוש אישתמיטתיה לפירוש רש\"י, ולי נראה דהמגיד אינו מפרש שכל הצד הוא ים וגם לא ברוחב יותר מעשר ולכך לא חש לטלטל דבמבוי עצמה, עד כאן. ולי נראה דעת המגיד דאף שנשאר ביבשה מדרון בעומקי דהוי מחיצה כמו שכתב סוף סימן זה מכל מקום אסור שמא יטלטל ממבוי וכרמלית וכן משמע במגן אברהם, אלא דלמה שכתב דלמגיד לא מהני צורת הפתח או לחי או קורה רק מחיצה גמורה ולעניות דעתי מהני כיון שיש היכר לא אתא לטלטל:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:36"
+        },
+        "37": {
+          "he": "[לז] [לבוש] יותר מארבע אמות וכו'. ואפילו יש ברוחב אלכסון יותר מעשר מהני צורת הפתח אבל כשיעשה לחי בכל צד לא מהני אלא בפחות מעשר, כן משמע בב\"ח, אבל הט\"ז חולק דאפילו בפחות מעשר לא מהני לחיים כיון שאין עומדין בשוה וכן פסק הרלב\"ח:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:37"
+        },
+        "38": {
+          "he": "[לח] שני פסין וכו'. דאפילו חצר אחד יכולין לחלק בכהאי גוונא (הרא\"ש), כל העיר במבוי אחד שיש לחי בראשו שאין מערבין אותו לחצאין ואם יש פירצה בטל הכשירה אם רבים בוקעים בהם ואז יכול להכשיר חציה במחיצות ולערב אותה (בית יוסף שס\"ד):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:38"
+        },
+        "39": {
+          "he": "[לט] פס ארוך ארבע אמות וכו'. דאין משך מבוי פחות מארבע אמות ומעתה אין אויר שמכאן ומכאן מבטלין שאין אויר מבטל כותלי המבוי (עבודת הקודש):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:39"
+        },
+        "40": {
+          "he": "[מ] ויש אומרים שאין וכו'. ומלבושי יום טוב וב\"ח ומגן אברהם הסכימו לסברא ראשונה דאף בפחות מעשר יש לו דין עקום כמו שכתב בסימן שס\"ד סעיף ג' וכמו שתמה בית יוסף, ומה שהאריך הט\"ז לחלק אינו מוכרח, ומה שכתב עולת שבת דהטור מיירי היכי דלא בקעי רבים ליתא דאפילו במבוי עקומה משמע בש\"ס דף ו' דבקעי רבים, ועוד הא כתבו מלבושי יום טוב וב\"ח שמצאו גירסא בטור ונראה לי אפילו בפחות מעשר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:40"
+        },
+        "41": {
+          "he": "[מא] עשר אמות וכו'. כן כתב רמ\"א, ונראה לי דצריך לומר יותר מעשר וכן כתב ט\"ז וכן כתבו הרא\"ש וטור, ובזה ניחא מה שתמה מלבושי יום טוב על הלבוש דמה ענין שיעור עשר אמות לשיעור מבוי, ולעניות דעתי קאי אשיעור פירצת מבוי שהוא יותר מעשר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:41"
+        },
+        "42": {
+          "he": "[מב] פתח רחב עשר וכו'. ולחי או קורה מתירין אותה ואויר שמן הפסין ולכותלין אין צריך כלום שהרי ניכר בעומד מרובה על הפרוץ (עבודת הקודש), ומשמע דהא דפס לא נחשב ללחי משום שהוא חוץ לעשר, אבל מגן אברהם כתב בשם תוס' טעם כיון שמופלג שלוש מן הכותל ועיין סעיף ו':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:42"
+        },
+        "43": {
+          "he": "[מג] דלא לישבוק וכו'. אבל מסתמא לא חיישינן שילכו בפתח קטן דלא ממעטא בהילוכו על ידי כך מה שאין כן בריש סימן דהוי מן הצד ומקצרן דרכן (ש\"ס :",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:43"
+        },
+        "44": {
+          "he": "[מד] [לבוש] שהיא רחב עשר וכו'. לא בשיעור זה נתלה אלא שניטל הלחי או קורה שלשם על ידי דעייל ונפיק בפתח זוטא:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:44"
+        },
+        "45": {
+          "he": "[מה] כאילו זקוף וכו'. ואם כל העיר מוקפת תל ואחר כך בנו בה בתים עיין סימן שנ\"ח סעיף ב':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:45"
+        },
+        "46": {
+          "he": "[מו] [לבוש] מפני שאין בהם וכו'. ובתרומת הדשן סימן ע\"ו כתב טעם כיון דרוב עיירות מוקפת חומה בישב ולבסוף הוקף וכו'. כתב מגן אברהם ס\"ק כ\"ז כיון דיש להם דין חצר לכן אין לנו חילוק בין מבוי עקום לשוה אפילו אין מוקף חומה דבחצר אין חילוק, עד כאן, ובסימן שס\"ה ס\"ק ד' כתב עיר המוקפת חומה ונפרץ בה פירצה בארבעה טפחים ובקעי בה רבים יש להחמיר דאין לו דין חצר וצריך תיקון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:46"
+        },
+        "47": {
+          "he": "[מז] [לבוש] שני קנים וכו'. עמוד בכותל להמלט נידון משום קנה (מגן אברהם), אפילו בסיד מחוי סגי (תרומת הדשן), ועיין סעיף ז' הקנים יהיה מכוונים תחת החבל עיין סוף סימן שס\"ב והחבל יכול לקשור למעלה בגג ואם יש גג מפסיק בין חבל לקנים צריך שיפתח נקב גדול בגג למעלה מהקנים בענין שיהיו מכוונים תחת החבל בלי הפסק (ט\"ז ס\"ק י\"ח):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 363:47"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "שיש לו ג' מחיצות.  בטור כתוב כאן שהוא רה\"י גמור מן התורה והקשה ב\"י דהא בסי' שמ\"ה כ' הטור דמבואות שיש לשם ג' מחיצות ואין לחי וקורה ברוח רביעי' דהוה כרמלית ותי' דהא דאמר כאן רה\"י גמור לאו לחייב הזורק לתוכו מרה\"ר אלא להתיר הטלטול בתוכה וכו' שכך דין כרמלית מן התורה כו' והוא דחוק דהא רה\"י גמור אמר כאן ולעד\"נ לתרץ דבסי' שמ\"ה מיירי שהרוח הרביעית הוא לרה\"ר שכ\"כ שם וקרן זויות הסמוכות לרה\"ר כגון מבואות שיש להם ג' מחיצות כו' וזה המבוי זמנין דחקי בו רבים להיכנס שם כשיש ברה\"ר הרבה בני אדם כדאיתא בגמרא פ\"ק דשבת דף י' הלכך אע\"פ שהוא מצד עצמו הוה רה\"י גמור מ\"מ הרה\"ר מפסידו מלהיות רה\"י אלא בטל אצל רה\"ר ונקרא צידי רה\"ר והוה כרמלית משא\"כ כאן דלא מיירי בענין זה שדוחקין שם רבים לפעמים ממילא נשאר עליו שם רה\"י גמור מן התורה אע\"ג דאמ' כאן כ\"מ שיש ג' מחיצות כו' והיינו באין שם ביטול מצד כניס' הרבים מדוחק חילוק זה מצאתי במ\"מ פי\"ז וז\"ל ויש מחלקים בין פתוח לרה\"ר ובין פתוח לכרמלית עכ\"ל ולשון כ\"מ שזכר הטור משמע אפי' פתוח לרה\"ר והיינו במקום שאין רבי' נדחקים שם ועי\"ל דכל מקום דנקט הטור קאי אחצר ומבוי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:1"
+        },
+        "2": {
+          "he": "חצר שנפרץ כו'.  פי' מרובעת אבל מבוי הוא ארכו יותר על רחבו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:2"
+        },
+        "3": {
+          "he": "טפח מכאן.  משמע דיש חילוק בין עושה פס דאז סגי בב' משהויין כמו דזכר ברישא אבל בנשתייר צריך טפח ולא הוזכר בב\"י מזה ואדרבה כתב בהיפך ע\"ש מ\"ש על דברי ר\"י אלא שבתו' פ\"ק דף י' כתבו לחלק כן וז\"ל א\"כ בפס גמור סגי בב' משהויין אבל כותל עצמו לא חשיב פס אם לא ברוחב טפח דאין היכר כ\"כ בכותל כמו בפס גמור עכ\"ל והב\"י עצמו הביא זה אח\"כ:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:3"
+        },
+        "4": {
+          "he": "ולכן עושין לחי מסיד טחוי כו'.  ואע\"ג דבס\"ה כ' דלחי דאי נשיב ביה זיקא לא קאי פסול וכאן ודאי הסיד לא מצי קאי התם מיירי בלחי שהוא הכשר מצד עצמו למבוי בלא צ\"ה דבעי שעורא קצת אבל הכא מה שעושין מסיד מחוי היינו בצ\"ה דא\"צ רק קנה א' מזה וקנה א' מזה סגי בכל שהוא וכ\"מ החילוק בת\"ה סי' ע\"ד ולפ\"ז אינו מיושב ל' רמ\"א שכ' ולכן עושין לחי כו' דמשמע דמיירי מדין לחי בלא צ\"ה וזה אינו ולקמן סי' זה סכ\"ו מבואר בהדיא דזה קאי על צ\"ה שאנו עושין. וכ' בתשו' ההיא אמנם  תמיה קא חזי' דמיחוי הסיד הטחוי בכותל דזימני' דאתי לידי תקל' כי הכלבים רגילים להתחכך בכותלים ומוחקים מיחוי הסיד מן הכותלים למטה יותר מג\"ט מהקרק' ותו לא חזי  ללחי ולא למחיצ' דהו' מחיצה שהגדיים בוקעים בו עכ\"ל משמע דעכ\"פ בעי דליהוי בהאי מיחוי קצת דבר ממש ועב קצת ולא סגי במראה הסיד שניכר על הכותל לחוד וכ\"כ בההיא תשו' תחלה דעכ\"פ בעי' שיה' עב כחוט הסרבל וכ\"כ ב\"י בשם תשו' הרא\"ש שיהיה מקצתו בולט כתבתי זה לפי שראיתי מורה א' שצוה לרשום בכותל במקום לחי במין עפר לבן שקורין קריי\"ד ודימה אותו להך מיחוי סיד וטעה מאוד בזה בפרט בענין זה של מיחוי הסיד שאינו עולה שפיר להל' כמ\"ש ת\"ה עצמו שם שנדחק כדי ליישב המנהג בזה והבו דלא לוסיף עלה ואין בזה רק חוכא ואטלולא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:4"
+        },
+        "5": {
+          "he": "מעצי אשיר' כשר.  כ' ב\"י ולדברי מהר\"מ דס\"ל דחוט הסרבל דוקא לא תקשה מדמכשרינן עצי אשירה דכתותי מכתת שיעורי' דא\"ל הא דבעי' כחוט הסרבל לאו משום דבעי שיעורא אלא משום דבעי' שיהא ראוי להעמיד בה שום דבר ואשיר' נמי ראוי להעמיד בה כו' א\"נ דטעמא דמכתת שיעורא לפי שעומד לשריפה וכיון שאפשר שישרף ויעשה אפר אם גבלו ועשה ממנו עמוד מהני משום לחי עכ\"ל  ותמהני שנעלם ממנו משנה שלימה דסוף תמורה כל הנשרפים אפרן מותר חוץ מעצי אשירה וכמ\"ש בי\"ד סי' קמ\"ב דאפר אשירה אסור בהנאה וא\"כ צריך לפזרו לרוח והוה האפר כמו העצים עצמן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:5"
+        },
+        "6": {
+          "he": "בין שנראת בליטת כו'.  בגמרא איתא תחלה האי מילתא נראה בפני' ושוה בחוץ וכן להיפוך דנידון משום לחי ופירש\"י נראה בפנים שהעמיד הלחי רחבו לצד ארכו של מבוי ולא משך קצת רחבו קימע' כלפי חוץ אלא השוה חודו החיצון לעובי כותלי המבוי ודומה כמי שמוסיף על רוחב הכותלים ואינה נראה מבחוץ כלחי אבל חודו הפנימי נראה מבפנים שעביו בולט לתוך רוחב המבוי ונראה מבחוץ ושוה מבפנים היינו שמשך כל לחי לחוץ וחוד הפנימי נכנס בכותלי המבוי ואינו נראה מבפנים אלא דומה כמוסיף על אורך הכותל אבל מבחוץ ניכר שאינו מכותל המבוי שהרי נמשך להלאה מרוחב הכותל כו' ואח\"כ איתא בגמ' ברייתא דרבי חייא כותל שצדו א' כנוס מחבירו בין שנראה מבחוץ ושוה בפנים בין להיפוך נדון משום לחי ופירש\"י בענין אחר וז\"ל כנוס שנכנס הבנין ומיעטו מעביו דהשתא בולט ויוצא ממנה כמין עמוד שקורין פליי\"ר בין שכניסתו נראית בפנים כו' ששוקע הכותל מאחריו ונראית הפנימית בפנים בין שנראה בחוץ ושוה בפנים כגון ששוקע הכותל מלפניו שאין הכניסה נראית לעומדים מאחרי' אלא לגבי רה\"ר עכ\"ל וכ' ב\"י לפ' הפי' השני של רש\"י וז\"ל וצ\"ל דצד הכותל שהי' לתוך המבוי קרוי אחורי הכותל וצד הכותל שהוא חוץ למבוי קרוי פני הכותל עכ\"ל ופי' תמוה מאוד דאמאי יקרא לצד חלל המבוי אחורי כותל שנית דהא תו' מקשי' על פי' הראשון של רש\"י דאי חשיב נראה מבחוץ כשהלחי לצד הפנימי היכי משני לקמן נכנסין כותלי קטנה כו' ולפי' ב\"י בפי' השני יקשה גם על פי' השני כן דהא כשנשאר צד הכותל שלתוך המבוי יהיה ממש כנכנסו כותלי קטנה בגדולה כקושית התוספות על פי' הראשון וע\"כ נראה דהחילוק הוא בין הפירושים בזה דלפי' הא' הוה נראה בפנים כזה ט  ונראה בחוץ כזה ם  נמצא שבשניהם אין הלחי בקצה הכותל של צד המבוי דזה לא מהני כקושית התוספות אלא מסכימים לפי' השני והוא בדרך זה דפני הכותל קרוי אותו הצד שכנגד רה\"ר דהיינו ראש הכותל ממש ואחורי הכותל נקראו הצדדים שבכותל וע\"כ הוה שפיר דנראה בפנים הוא כשיש פגם באחורי הכותל דהיינו הצד שלתוך המבוי כזה ט  והוא ממש כמו בפירוש הראשון ונרא' בחוץ הוה כשיש פגם בפני הכותל שהוא ראש העליון כזה ח  זהו מהני דוקא כיון שהלחי אינו לצד חלל המבוי דאז אין היכר כ\"כ אלא נראה ככותל ארוך וזהו מבואר במרדכי שכתב שיש ב' פירושים ברש\"י על נראה מבחוץ ולפי' ב\"י יהיה גם בנראה בפנים ב' פירושים של פרש\"י אלא ודאי כדפרישית כן נכון פרש\"י ותו ראיתי עוד דרכים אחרים והנלע\"ד כתבתי ועמ\"ש סי\"ג:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:6"
+        },
+        "7": {
+          "he": "אם הלחי בולט לתוכו ד\"א.  פירש\"י כיון דאורך הכשר מבוי ניתר בכך בעלמא ומקרי מבוי ה\"נ נפיק מתורת לחי דלא סמכי' עליה אע\"ג דאי עבדי' לשם לחי הוה כשר דמשום דרביי' בסתימתו לא גרע מלחי משהו הכא כיון דלאו ללחי הוקבע אנן במחשבה לא מצינן לאפוקי מתורת כותל ולשויי' לחי דכיון דנפיק לי' מתורת לחי נמצא שאין תיקון למבוי זה וצריך לחי אחר להתיר המבוי עכ\"ל. וכיון דנקט רש\"י דבמחשבה לא מפקינן ליה מתורת מבוי ממילא משמע דצריך למעשה דוקא היינו עשייתו מעיקר' לשם לחי ולא מהני בלחי העומד מאליו וסמך עליו מע\"ש למנין זה אע\"ג דבלחי קטן כשר וכ\"מ דברי התו' שמביא ב\"י שכת' דכשהעמידו לשם לחי יש לו קול ויש היכר' ומ\"ה כתבו הטור וש\"ע דין זה אפי' בסמכו עליו ובב\"י כ' שמרש\"י ותו' משמע דבסמכו הוה כמו העמידו בפירוש והשאיר דברי הטור בצ\"ע והוא שלא בדקדוק: בקצת  ש\"ע נכתב כאן הג\"ה אבל לא היה שם לחי והוא טעות המדפיס דמקומו קודם סעיף זה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:7"
+        },
+        "8": {
+          "he": "לחי המושך כו'.  פי' לאורך המבוי ובזה הוה הדין אפי' הוקבע לשם לחי דאע\"ג דקודם לזה מותר היינו דבולט לרוחב המבוי וסתמ' דעדיף מלחי משהו משא\"כ כאן דאינו סותם וכל שהוא ד\"א אין בו תורת לחי אפי' הוקבע לשם לחי אבל פחות מד\"א כשר דה\"ל נראה בחוץ ושוה בפנים ודין זה אינו בטור רק בגמ' ע\"פ פי' התו' וכאן משמע דלא קי\"ל כדברי התו' שזכרנו בס\"ט דלא אמרינן בכזה נראה מבחוץ ושוה מבפנים דהוה לחי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:8"
+        },
+        "9": {
+          "he": "וצריך שיניחנה.  דקורה משום היכר ואין כאן היכר אבל לחי הוא משום מחיצה מש\"ה מהני לעיל בעומד מאליו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:9"
+        },
+        "10": {
+          "he": "שאין ברחבן טפח.  דאל\"כ היו המעמידים עצמם תורת קורה עליהם ולא בארכן ג' כדי שתהיה הקורה לבוד להכותל וזה מבואר בסעיף כ\"ה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:10"
+        },
+        "11": {
+          "he": "שצריך שיהיו חזקים.  בטור כתוב עוד בבא א' היתה של קש של קנים פסולה נ\"ל דהוצרך לכתוב זה דשל קש וקנים אינם נפסקים בשביל כובד חצי לבינה אלא שמתוך שהוא רך ודק נתמעך ונתעקם ואפשר שהעיקום יגיע למקום פסול ואפי' אם לא תנתק לגמרי אפ\"ה פסול:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:11"
+        },
+        "12": {
+          "he": "בתוך טפח.   ואע\"ג דדין לבוד הוא עד ג' הכא שאני דזיל הכא ליכא שיעורא וזיל הכא ליכא שיעור':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:12"
+        },
+        "13": {
+          "he": "קצת למט' מי'.  בטור כ\"כ רק שתיבת קצת לא כתוב שם ופי' ב\"י וז\"ל ונרא' דכשהקור' מונחת למעל' מי' איירי דאי במונחת למטה מי' אפי' אינה רחב' יותר מהראוי פסול' כמ\"ש בשם הרר\"י כו' ואין לדבריו הבנ' דפשיטא דקור' שהיא למטה מי' דפסול' וכשהיא למעל' מי' ורוחב שלה הולך עד למטה מי' פשיטא דכשר' דכאן  א\"צ ליטול שום דבר כמו בעקמומית אלא רואין מה שיש תחתי' כאלו אינו וכ\"ז אינו ענין לכאן שעוש' קורה רחבה מלמעל' למטה לענין הכשר דבר זה שאינו עוסק בו ומ\"מ פשוט שאין דעת הב\"י לתלות ההית' של דבר זה במה שתלוי  למט' מי' דוקא דודאי אי הוה למעל' מי' עדיף טפי אלא דהוא אמר שצריך שיהי' ראש הקורה למעלה מי' ומו\"ח ז\"ל חולק על הב\"י וכ' שהוא הבין דהקפידא היא במה שמקצת' הוא למט' מי' ולא למעל' מי' ואינו כן אלא צריך למחוק המ\"ם של מעשרה וצ\"ל עשרה ור\"ל שהמחיצה היא עשר' וברמזים כתב ג\"כ כמו כאן גם שם ט\"ס אלא צ\"ל עשר' דהוא שיעור מחיצ' ע\"כ דבריו ובאמת לא נתכוין ב\"י לזה וחליל' לומר שיהי' נדון משום קורה טפי במגיע למטה מי' ממה שמגיע למעל' מי' אלא דלענין איסור אמר ב\"י כן שלא יהיה הראש של הקורה למטה מי' והוא דבר שלא ניתן להיכתב כאן והעיקר שאין כאן ט\"ס לא בטור ולא ברמזים אלא דלרבות' אמרו כן דכשהקורה היא למעל' מי' פשיטא שהיא כשיר' משום קורה דהא לא נתבטל שם קורה משום מחיצה דהא אין מחיצה למעל' מי' כלל וזה אפילו לרשב\"א כשר דהא אמר קורה שהיא משוכ' למטה מי\"ט פסולה ש\"מ דלמעלה מי\"ט כשר' ע\"כ אמר הרא\"ש והטור דאינו כן אלא אפילו אם היא מגיע עד למטה מי' וה\"א דיש בה משום מחיצה ובטל שם קורה קמ\"ל דלא בטיל שם קורה מפני גדלות' כיון שהקורה ניראית כ\"ז פשוט ואין להגיה כאן כלל ותמו' לי דעת הרשב\"א החולק ע\"ז וס\"ל דבטל שם הקור' מפני גדולת' מ\"ש מסי\"ב שזכרתי בשם רש\"י לענין לחי הבולט לתוך המבוי דלא נתבטל שם לחי בשביל שהוא גדול יותר אי עבדי לשם לחי מעיקרא ומ\"ש כאן לענין קורה דלא נימא הכי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:13"
+        },
+        "14": {
+          "he": "מרווחים.  ובסיפא מצומצמות ובתרוייהו אזלינן לחומרא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:14"
+        },
+        "15": {
+          "he": "אינו ניתר בקור'.  דקורה משום היכר ולמעל' מכ' אין היכר דלא שלטא ביה עינא אבל לחי מהני דקי\"ל לחי משום מחיצה ואע\"ג שהמבוי גבוה מאוד ל\"ל בה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:15"
+        },
+        "16": {
+          "he": "צריך לחוק כו'.  הא דלא סגי בטפח כמו בפסול למעלה מכ' תי' רש\"י דהתם איתא לדופן שכבר נקרא דופן אלא שצריך למעט קצת בהיכר מועט סגי אבל הכא דהשתא הוא דמשוי ליה לדופן דפחות מי' לא מקרי דופן בעי' דליתחזי האי דופן לשיעור הכשר אורך מבוי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:16"
+        },
+        "17": {
+          "he": "ויש חולקים בזה.  והם הרי\"ף ורמב\"ם דס\"ל דכיון שהם פתוחות זו לזו ה\"ל כאלו כולם חצר א' ומבוי צריך שיהיו פתוחים לו ב' חצירות ודיעה ראשונה היא הרא\"ש וטור מרדכי והמרשי' מראה מקום טעה כאן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:17"
+        },
+        "18": {
+          "he": "יש להם דין חצירות.  לפ\"ז היה לנו לתקן פס ד' מצד א' או ב' משהויין א' לכל צד כדלעיל בחצר אלא דנר' דלא נהיגי לעשות כן משום מבוי מפולש שצריך דוקא צ\"ה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:18"
+        },
+        "19": {
+          "he": "וע\"כ יש ליזהר כו'.  ונרא' כיון דצריך להעמיד קנים למטה בגבוה עשרה אין צריך לקשור החבל למעל' בקנים אלא יכול לקשור החבל אפי' בגג מזה ומזה כיון דעיקר צ\"ה מכח הקנים שלמטה וכ\"מ בגמרא מדמסקינן דאין הקנה שלמעלה צריך ליגע בקנים א\"כ ע\"כ הוא נקש' במקום אחר וכן א\"צ עכשיו להזה' שלא  לקשור החבל מצד הצד של הקנים דאמרי' לעיל סי' שס\"ב סי\"א דלא מהני היינו דשם אותן הקני' הן עצמן הקנים שעושין מהם צ\"ה או שיש למעלה ג\"כ קנים דהיינו למעל' מן הגג ולמטה קנים אחרים בזה יש ליזהר שהן במקום מזוזות ואין דרך הפתח אלא המשקוף על המזוזות משא\"כ אם למעל' אין קנים רק עושים צ\"ה ע\"י קנים שמשימין למטה בגובה י' לשם צ\"ה ולמעל' קשורי' בגג כי לא יוכל להעמיד שם קנים ארוכים מן החבל עד הארץ אז א\"צ ליזהר היאך הוא נקשר למעל' בגגים אלא שצריך שיעמדו מכוונים תחת החבל שהרי אין כאן מזוזות אלא מה שהוא למטה בגובה י' ונחשב כאלו החבל מונח עליהם ממש כנ\"ל להכריע בהאי מלתא דרבנן: ונ\"ל עוד דאם למעלה מן הקני' שמעמידין למטה יש גג שמפסיק בין גובה החבל להקנים יש איסור בזה דלא הוה צ\"ה בזה כיון שהגג מפסיק בין החבל להקנים ואין עושין צ\"ה בענין זה אלא צריך שיפתח נקב גדול בגג למעלה מהקנים בענין שיהיו מכוונים תחת החבל בלי הפסק ולעיל כתבנו בס\"ז מענין לחי מסיד מחוי:  ונ\"ל  באם יש תחת החבל בכותל יוצאים חיפופים עד י\"ט סמוך לקרקע שפיר יש לסמוך עליהם מע\"ש  במקום קנים של לחי וג\"כ צריך שיהיו החפופים מגולה למעלה תחת החבל כנ\"ל בענין זה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:19"
+        },
+        "20": {
+          "he": "שמא יעלה הים שרטון.  יתבאר בתשובת שאלה שהשבתי לק\"ק שטייניץ וזה נוסחה שאלה  בק\"ק שטייניץ במדינות מעהרין נהגו לטלטל בשבת בני עירוב על סמך שהעיר מוקפת נהר סביב לה וקנה הרשות מהשר אי שפיר למיעבד כן או לא. תשובה נראה דלא נכון לעשות כן מתרי טעמי.  האחד מפורש בגמ' ובפוסקים והשני אף שאינו מפורש מ\"מ מוכח הוא שפיר בגמ' ובפוסקים. טעם המפורש הוא דאי' בעירובין דף ח' אמר ר\"י מעשה במבוי אחד שצידו א' עולה לים וצידו א' כלה לאשפ' ובא מעשה לפני רבי ולא אמר בה לא איסור ולא היתר איסור לא אמר בה דהא קיימי מחיצות היתר לא אמר בה שמא תינטל האשפה ויעלה הים שרטון פירש רש\"י שרטון של חול ואבנים אצל שפתו כי כן דרכו ומתקצר רוחב הים ונעשה קרקע ברוחב פרסה או יותר וכתב ב\"י בא\"ח סי' שס\"ג בשם המ\"מ דחיישינן שמא יבא לטלטל מן המבוי לשרטון ונמצא מטלטלים מרה\"י לכרמלית והנה בזה יש מחלוקת בין הפוסקים אי קי\"ל כהך חששא דיעל' הים שרטון כמבואר בסימן שס\"ג ופסק ב\"י להקל ורמ\"א הביא דעת המחמירים וא\"כ ודאי ראוי לכם להחמיר בחששא זו דשמא יתכסה חלק מהמים בשפתו בחול ואבנים ויטלטלו שם. שני' נרא' דכאן כ\"ע ס\"ל לאיסו' ואע\"ג דאמרי' בסוף הזורק במס' שבת דף ק' בור ברה\"ר עמוק י' ורחב ד' מלא מים וזרק לתוכו חייב מלא פירות וזרק לתוכו פטור מ\"ט מים לא מבטלי מחיצתא פירות מבטלי מחיצתא כו' ש\"מ דמכח המים לא נתבטל המחיצה מ\"מ כיון שדרך המים כאן להתקרש ולהגליד בעת הקרירות הקש' הרי באות' פעמים אין כאן מחיצו' לגמרי ופשיט' דמבטל מחיצה טפי מפירות שזכרנו וחשש זה לא שייך בים שאינו נקרש ע\"כ לא חשו בו לזה חכמים וזה פשוט וכן בההיא דעושין פסין ד' כ\"ב במ\"ש מקיף לה פרת מהאי גיסא: ואין  ללמוד היתר ממתני' דפ' חלון (עירובין דף ע\"ח) דתנן חריץ שבין ב' חצירות עמוק י' ורחב ד' מערבין ב' ואין מערבין אחד אפי' מלא קש או תבן מלא עפר או צרורות מערבין א' ואין מערבין שנים כו' ש\"מ שע\"י מילוי תבן לא נתבטלו המחיצו' כיון שעתיד ליטול התבן משם לבהמתו ה\"נ נימא כיון שהמים הקרושים סופן להתפשר ויהיו מים הנגרים כבראשונה לא מבטלי המחיצה של הבור העמוקה תחתיהם וא\"ל ע\"ז דשמא שאני הכא שהקרישה נעשית מאלי' לא ע\"י אדם כההיא דמילוי תבן וא\"כ אפשר דלא מהני בזה מה שעתיד לינטל משם הא ל\"ק דהרי מצינו בפ' לא יחפור (בבא בתרא דף כ') לענין מיעוט החלון דמייתי התם תלש עשבים והניחם בחלון או עשבים שעלו מאליהן בחלון דלא הוי מיעוט הרי לפניך דעלו מאליהן אין לו מעלה להיות מבטל טפי מבאו שם ע\"י אדם וה\"נ נימא דנחשב הקרישה של המים כאלו מלאה הגומא בתבן דלא נתבטלה הגומא כל זה אינו דהא פי' בתוס' שם בפ' חלון דההוא דמילוי תבן דלא מבטלי המחיצה הוא מטעם דאותו תבן ניטל בשבת ואינו מוקצה ומביאין ראיה ממאי דאמרינן שם אחר כך דאפילו ארנקי מבטל אינש והא דפירות מבטלי מחיצתא אע\"ג דניטלים בשבת היינו מדאורייתא וודאי מבטל אבל לעירוב דרבנן יש לחלק בין ניטל בשבת לאינו ניטל ע\"כ ש\"מ מזה דכל שהוא ודאי שיהיה שם בשבת דאסור ליטול משם כגון בתבן שהזמינו ללבנים לא למאכל בהמה מקרי ודאי ביטול מחיצה ואע\"ג דודאי אחר כך יטלנו מ\"מ כל שבת זה מקרי ביטול מחיצה ה\"נ כאן וכ\"ש הוא דודאי תעמוד הקריש' כל השבת דעדיף טפי לבטל המחיצה מתבן המוקצה. ועוד ראיה מפ' חלון (עירובין דף ע\"ז א)' רב יחיאל כפה ספל פי' סמוך לכותל ומיעט גבהו של כותל פחות מי' מן הספל לראש הכותל ממעטו ופרכינן שם ואמאי דבר הניטל בשבת הוא ודבר הניטל בשבת אינו ממעט ומשני ל\"צ דחבריה בארעא לההיא ספל ולא יזיזו בשבת ופרכינן מ\"ש מפגה שהטמינה בתבן המוקצה דאסיר ליטלה בשבת אם אין מקצתה מגולה. ומשני לא צריכא דבעינן מרא וחצינא הרי לפנינו דדוקא מאי דחזי ליטול באותו שבת לא חשיב לבטל המחיצה אבל לא מה שאסור ליטול בשבת אע\"ג דודאי יטלנו אחר השבת על ידי מרא וחצינא מכל מקום חשיב השתא מיהא ביטול המחיצה א\"כ כ\"ש כאן דדרך הקרישה להיות עומדת כמה וכמה שבועות על המים ועוד ראיה לאיסור מעיקר התקנה שתקנו רבנן לעשות היכרא בלחי וקורה למבוי הסתום מג' צדדים דפירש\"י בתחלת עירובין במשנה הראשונה דרבנן גזרי במבוי משום דלא ליתי לאחלופי בר\"ה גמורה וכן בכרמלית דגזרי בהו רבנן משום רה\"י כדאיתא פ\"ק דשבת דף ו' וכל רשויות שלנו הם כרמלי' כמ\"ש כל הפוסקים א\"כ כאן שהמים נקרשים ובני אדם הולכים שם כמו בשאר העיר ולפעמים מכסה השלג עד שאין ניכר כלל שיש שם מים תחתיו פשוט הוא דבזה גזרו רבנן טפי משום איחלופי ברה\"ר דאין כאן היכר לגמרי. וא\"ל דדוקא באותן שבתות שהמים נקרשים יהיה אסור לטלטל בכל העיר אבל בשאר שבתות לא זה אינו דהא אמרינן בההיא דחיישינן שמא יעלה הים שרטון שהבאתי לעיל דר' לא רצה לומר היתר אע\"ג דיש מחיצות מטעם דשמא לפעמים לא יהיה שם מחיצה כ\"ש בזה שהוא ודאי ברוב השנים ודאי יש לגזור אף בכל השנה משום שבתות אלו ועוד ראיה ממתני' דפ' חלון (עירובין ד' ע\"ח) דלעיל בחריץ אם נתן עליו נסר שרחב ד\"ט דאם רצו מערבין א' מטעם דכיון דאפשר לילך על הנסר כעין גשר הוי כפתח ה\"נ בזה כיון שאפשר לילך על כל המים לא אכפת לן בגומא שתחתיו והוי פירצה גמורה ע\"כ אהובי אחיי יושבי ק\"ק הנ\"ל חדלו לכם מהיום והלאה מהאיסור הזה ותעשו לכם עירוב כנהוג בכל הקהלו' שאינם מוקפים חומה ונסלח לכם על השגגה שהיתה לכם בזה כ\"ד אוהביכם דוד הקטן הלוי: אכן  אם יש על הנהר ביבשה מקים מדרון נחשב אותו מדרון במקום מחיצה והיינו אם יש במקום ההוא גובה י' במשך ד\"א כעין ההיא שנזכר בסימן שס\"ג סל\"ז לענין מבוי ששוה מתוכו כו':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:20"
+        },
+        "21": {
+          "he": "אלא כנגד הקצר.  פי' אסור להניחו באלכסון ולהשתמש בצד הארוך עד הקורה דרבא ס\"ל קורה באלכסון לא הוה הכירא פירש\"י שהרואה בני מבוי נמשכין ומשתמשין בר\"ה חוץ מכנגד כותל הקצר או' מותר להשתמש בר\"ה לפי שאין אותו העודף דומה שיהא מן המבוי עכ\"ל. ומ\"ה נראה הטעם דמותר באלכסון בתוך המבוי כיון ששם אין לטעות בהיתר בר\"ה וזהו דוקא באין יותר מי' באלכסון דהא אי' בגמרא דביותר מי' כ\"ע ס\"ל  דאינו מניח כנגד הקצר אלא באלכסון אלא דבעשר קי\"ל כרבא דאמר כנגד הקצר וא\"כ בההיא דתוך המבוי דמודה רבא דמותר באלכסון היינו ג\"כ תוך י' כן היה נראה לכאורה אלא מדכתב הטור וש\"ע אבל אם ירצה יעשה שם צ\"ה באלכסון לתוך המבוי יכול כו' משמע דתוך המבוי שוה לצ\"ה וצ\"ה הוא אפילו ברוחב מעשר וכתב ב\"י על חוץ למבוי דמהני צ\"ה ונראה לכאורה דה\"ה ללחיים דהא קי\"ל לחי משום מחיצה ונהי דבחד לחי לא שרי נכחו וביושר אבל ב' לחיים מונחים זה כנגד זה באלכסון מותר להשתמש עד כנגד הלחיים באלכסון והוא שלא יהיה בין הלחיים יותר מי' כו' ואפשר דאע\"ג דלחיים משום מחיצה הם לא מהני כמו צ\"ה כו' עכ\"ל ומו\"ח ז\"ל כתב בפשיטות דבאין יותר מי' מהני בלחיים כמפורש בסמוך אחר זה אבל אם עשו באמצע ב' פסים כו' ש\"מ דדומה לצ\"ה ומ\"ש הראב\"ד כאן דצ\"ה מהני היינו לומר אפי' ברוחב מי' מהני משא\"כ ב' לחיים ולא כמסקנת ב\"י דלחיים לא מהני ושגגה היא גביה דודאי מהני אפי' באלכסון עכ\"ל ול\"נ דאפי' ספיקא אין כאן כמו שעלה על דעת ב\"י אלא פשוט דלא מהני כלל דכל שאין הלחיים עומדים בשוה אינם ענין זה לזה דאותו שעומד אצל הקצר הוא עצמו מתיר טלטול במבוי עד כנגדו ביושר ותו לא לצד החוץ ואותו לחי שעומד אצל הארוך לא מעלה ולא מוריד דהוא אינו מתיר כנגדו דהא אין כנגדו רק ר\"ה ואם כן אינו אלא כעץ דעלמא ומה יועיל לו הלחי שכנגד הקצר ואין לו שותפות עמו והוא לא צריך לו משא\"כ בקורה שהיא מונחת באלכסון מזה לזה השיתוף נראה לעינים שהולך מזה אל זה משא\"כ בב' לחיים דכאן דהא' א\"צ לחבירו שבחוץ ומתיר כנגדו שפיר לבדו והוא לבדו משום מחיצה ורואין כאלו מחיצה פרוסה בשוה כנגדו ואין שייכות מחיצה עם השני בזה ול\"ד למ\"ש בסמוך דשני לחיים מתירים באמצע המבוי דשם עומדים ביושר וכ\"א צריך לחבירו כדי לחלק הרשויות ושם צריך שנים דוקא כמ\"ש בסמוך משא\"כ כאן באלכסון ואפילו בתוך המבוי דמותר כאן בקורה אלכסון מכל מקום אם עשה שני פסין באלכסון אין שייך שם שותפות אלא אותו הקרוב יותר לחוץ הוא לבדו מתיר על כנגדו והשני הוא ללא צורך כל זה נראה ברור ואין כאן אפילו ספק להיתר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:21"
+        },
+        "22": {
+          "he": "אם יש חצר כו'.  שאז בני אותו חצר אוסרים לתוך המבוי על אותם שרוצים לערב לעצמן ואם לא עשו החיצונים לחי או קורה לצד ר\"ה לא היו ראוים לערב כלל עם הפנימי כיון שלא הוכשר המבוי מצדה אינה יכולים לאסור על האחרים דאין אוסרים זע\"ז אא\"כ כולם רשות אחד ויכולים לערב ביחד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:22"
+        },
+        "23": {
+          "he": "אבל אם עשו באמצע כו'.  זה אינו לענין היתר טלטול לפנים דא\"כ בלחי א' סגי כמו בראש המבוי אלא דבאו כאן לחלוק הרשויות שיסתלקו החיצונים מהפנימים ולא יאסרו עליהם בזה צריך צ\"ה או ב' פסים פי' משהו מכאן ומשהו מכאן ויהיה כאלו מחיצה ממש ביניהם דדוקא לענין היתר טלטול סגי בא' לא בחילוק רשויות כ\"ה סברת הרא\"ש בזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:23"
+        },
+        "24": {
+          "he": "ומעמידו באמצע.  פי' באמצע הפתח:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:24"
+        },
+        "25": {
+          "he": "וכל תנאי מבוי כו'.  כצ\"ל ולא כמ\"ש בקצת ספרים תנאי חצר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:25"
+        },
+        "26": {
+          "he": "ומה שיש מן הפס עד כותל כו'.  באשר\"י וטור כתוב אם יש מן הפס לכותל האמצעי של המבוי יותר מי' אמות כו' וכ' ב\"י לא ידעתי למה כ\"כ דהא אפי' אין ביניהם יותר מי' דינו כמבוי עקו' שדינו כמפולש לרב דמבוי עקו' כו' ותמיהני על הרא\"ש איך סתם דבריו ועל רבינו ועל הר\"ר ירוחם שלא הרגישו בזה עכ\"ל ומ\"ה לא כתב כאן בש\"ע יותר מי' כלשון הטור אלא שרמ\"א כתבו בלשון י\"א. ומו\"ח ז\"ל יישב דברי הטור בדוחק גדול ואני תמהתי על תמיה' ב\"י בזה דודאי במבוי עקום ממש כי ההיא דסימן שס\"ד שצורתו כן בזה אמרי' דאפילו אין בעקמימותו יותר מי' תורתו כמפולש לרב והכי קי\"ל כן משא\"כ כאן דאנו עושין המבוי א' שהולך בשוה ב' מבואות דהיינו ע\"י פס ד' במשך ד\"א ויש לנו לו' שאלו ב' מבואות הולך בשוה עד הכותל האמצעי ואין כאן מבוי עקום כלל כי מקו' הפתוח למט' מהפס  הוא פתח ממבוי א' לחבירו וא\"כ הוה דינו כב' מבואו' זא\"ז ויש פתח מא' לחבירו ע\"כ כתבו דאם יש יותר מי' בין הפס לכותל אמצעי דאז אין תור' פתח עליו אלא המבוי עצמו הולך בעקמומיתו לחבירו ועי\"ז נעש' מבוי עקום וזה מדוקדק בל' התו' בד\"י שהביא ב\"י שכתבו אי איכא מראש הפס של צד פנים עד כותל האמצעי יותר מי' צריך למבוי זה צ\"ה דהוי כמבוי עקום כו' הרי מבואר דעי\"ז שאין עליו תורת פתח נעשה מבוי עקום משא\"כ במבוי עקום דבסי' שס\"ד צורתו ובניינו הוה ממש בעיקום ול\"צ לעשותו עקום ותמהתי על שלא הרגיש ב\"י בזה שהוא דבר פשוט לפע\"ד וא\"כ גם כאן ראוי להגיה כן שיש יותר מי' מן הפס לכותל כמו בטור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:26"
+        },
+        "27": {
+          "he": "ויעשה פס רחב ג\"א כו'.  הכלל בזה דבעי שהפס יהא יתר על האויר שבינו לכותל דאל\"כ אתי אוירא דהאי גיסא ודהאי גיסא ומבטל ליה לפס:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:27"
+        },
+        "28": {
+          "he": "מתוך ד\"א.  פירוש בתוך ד\"א יש גבוה י' דהוה כמו רה\"י אבל אם מתוך ה' הרי הוא כשאר ר\"ה דניחא תשמישתיה להילוך:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 363:28"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "אין בפרצה ד\"ט. אפשר דמיירי שהחצר רחב באמצעי ובקצה הוא קצר שאין במילואו רוחב ד\"ט אבל אם כל החצר פחות מד\"ט אין צריך תיקון כמ\"ש סכ\"ח:",
+          "en": "",
+          "ref": "Magen Avraham 363:1"
+        },
+        "2": {
+          "he": "כל שהוא. אפי' פחות מאצבע (ב\"י ב\"ח):",
+          "en": "",
+          "ref": "Magen Avraham 363:2"
+        },
+        "3": {
+          "he": "קשר שם אדם. וצ\"ע דבסי' שס\"ב ס\"ה אי' דבאדם א\"צ שיהיה קשור וצ\"ל דמיירי שלא הודיעו שהעמידו לשם לחי א\"כ בודאי ילך לו שלא יעמוד שם כל היום לכן בעי' קשור:",
+          "en": "",
+          "ref": "Magen Avraham 363:3"
+        },
+        "4": {
+          "he": "לא מצי קאי. ואפי' אין הרוח מפילו אלא מנידו כמ\"ש רסי' שס\"ב: מ\"כ מעשה שחל י\"ט ביום ה\"ו ונפסד העירוב יום ה' והתיר מהרי\"ק משום דגם בי\"ט צריך לערב לדברים שאין בהם צורך כלל לי\"ט דאמרי' מתוך שהותרה לי\"ט כו' עכ\"ל ול\"נ דאין לסמוך ע\"ז ל\"מ אם חלו ב' י\"ט יום ה' יום ו' א\"כ יום א' חול ולא שייך לומר הואיל והותר' הותר' אלא אפי' י\"ט הראשון ביום ו' אפ\"ה אסו' דשמא י\"ט ושבת ב' קדושות הן כמ\"ש סי' תי\"ו ס\"ב עמ\"ש סי' שס\"ה ס\"ז:",
+          "en": "",
+          "ref": "Magen Avraham 363:4"
+        },
+        "5": {
+          "he": "רחוק מן הכותל. דאתי אויר' דהאי גיסא ומבטל לי' (הרר\"י) לכן אם הלחי רחב מג' שרי הואיל והעומד מרובה על הפרוץ (ש\"ג ריא\"ז) עסי' שס\"ב ס\"ט אבל דעת התו' דאפ\"ה אסור עסי' ל\"ד:",
+          "en": "",
+          "ref": "Magen Avraham 363:5"
+        },
+        "6": {
+          "he": "אפי' שברי'. אבנים היוצאים מן הגדר זו למעלה מזו פחות מג' הוי לחי (גמ' ד' ט\"ו):",
+          "en": "",
+          "ref": "Magen Avraham 363:6"
+        },
+        "7": {
+          "he": "מעצי אשירה. ולא אמרי' כתותי מכת' שיעוריה כמ\"ש סט\"ז דהא לחי נמי בעי שיעור גובה ורחב משהו דכיון דלא בעי אלא שיעו' זוטא לא החמירו חכמים (תו' ד' פ') וע\"ש עוד תי' ועיין במ\"מ וסימן שע\"ב סט\"ו:",
+          "en": "",
+          "ref": "Magen Avraham 363:7"
+        },
+        "8": {
+          "he": "אפי' לא עשאו. דלחי משום מחיצה ומחיצה העומדת מאלי' כשר':",
+          "en": "",
+          "ref": "Magen Avraham 363:8"
+        },
+        "9": {
+          "he": "כאלו סמכו עליו. אף על פי שלא סמכו עליו בפי' (הג\"א) משמע דאם בפי' לא סמכו עליו  כגון שלא טלטלו בשבת שעבר' ע\"י לחי זו לא הוי לחי וכ\"מ ברשב\"א שהביא הרב\"י:",
+          "en": "",
+          "ref": "Magen Avraham 363:9"
+        },
+        "10": {
+          "he": "ד\"א. דד\"א הוי שיעור מבוי וליכא הכיר' אף על גב דלחי משום מחיצ' מ\"מ הכירא קצת בעי' אבל אם המבוי רחב ח'  אמות ניתר בעומד כפרוץ:",
+          "en": "",
+          "ref": "Magen Avraham 363:10"
+        },
+        "11": {
+          "he": "העמידו. אבל סמכו עליו לא מהני דלא כהרב\"י וכ\"כ בט\"א בשם גדול א':",
+          "en": "",
+          "ref": "Magen Avraham 363:11"
+        },
+        "12": {
+          "he": "לחי המושך. כתו' בהג\"ה מבוי שרצפו בלחיי' פחות פחות מג' והוי משך רצפו ד\"א באורך המבוי צריך לחי אחר להתי' המבוי כולו עכ\"ל ומ\"מ אם נרא' מבחוץ ושוה מבפנים או איפכא נידון משום לחי ע' בגמ' וברש\"י:",
+          "en": "",
+          "ref": "Magen Avraham 363:12"
+        },
+        "13": {
+          "he": "עם חודו. דהא הצד השני קצר מזה ועמ\"ש ס\"ל וסי' שס\"ה ס\"ד ובגמרא מיירי שצדו השני ג\"כ ארוך כנל\"ל קושי' הע\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 363:13"
+        },
+        "14": {
+          "he": "ואסור להשתמש. אפי' הועמד לשם לחי (תו'):",
+          "en": "",
+          "ref": "Magen Avraham 363:14"
+        },
+        "15": {
+          "he": "מע\"ש פסולה. דקורה משום היכר וכשלא עשא' לשם כך לא הוי היכר:",
+          "en": "",
+          "ref": "Magen Avraham 363:15"
+        },
+        "16": {
+          "he": "כדי לקבל אריח. ואם המבוי רחבה י' אמות צריך לקבל י\"ח אריחים דהוא ט' אמות דבט' אמות וב' משהויין סגי אורך הקור' ומב' קצותיו אמרי' לבוד כמ\"ש סכ\"א וכ\"ה:",
+          "en": "",
+          "ref": "Magen Avraham 363:16"
+        },
+        "17": {
+          "he": "ואינה נוגעת. ואפי' מרוחק' משני הכותלי' אמרי' לבוד:",
+          "en": "",
+          "ref": "Magen Avraham 363:17"
+        },
+        "18": {
+          "he": "בתוך טפח. ואפי' הם יחד ד\"ט אם האויר שביניהם יותר מטפח לא מהני דעכ\"פ אין ראוי להניח אריח עליהם משא\"כ בסי\"ז דראוי' רק שאינם חזקים כנ\"ל דלא כע\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 363:18"
+        },
+        "19": {
+          "he": "ויש פוסלין. דס\"ל כהי\"א בסכ\"ב:",
+          "en": "",
+          "ref": "Magen Avraham 363:19"
+        },
+        "20": {
+          "he": "ונמשכ' קצת וכו'. כלומר שהיא נמשכת למט' קצת יותר מי' ממקום שמתחלת וא\"כ ה\"א דהיא מחיצה ופסול' משום קורה ומשום מחיצה נמי לא דהא מחיצ' תלוי' היא דהא הוא גבוה י\"ט מהקרקע קמ\"ל דכשיר' עב\"י ב\"ח:",
+          "en": "",
+          "ref": "Magen Avraham 363:20"
+        },
+        "21": {
+          "he": "כשר' שאנו כו'. דאמרינן חבוט ולבוד אף על גב דבקור' טפח אפי' גבוה יותר מג' אמרי'  חבוט שאני הכא דבעי' קורה ע\"ג מבוי (תו'):",
+          "en": "",
+          "ref": "Magen Avraham 363:21"
+        },
+        "22": {
+          "he": "מרווחי'. שיעור המרווח יותר על מצומצמות הוא חצי אצבע לאמה (מ\"מ ספי\"ו):",
+          "en": "",
+          "ref": "Magen Avraham 363:22"
+        },
+        "23": {
+          "he": "אלא בצ\"ה. והרמב\"ם כ' דפחות מד\"א דינה כחצר ואפשר דל\"ד נקט צ\"ה:",
+          "en": "",
+          "ref": "Magen Avraham 363:23"
+        },
+        "24": {
+          "he": "בבנין רחב. וה\"ה עפר וצריך ליזהר כשנדרס ברגלים שלא יתמעט מכשיעור:",
+          "en": "",
+          "ref": "Magen Avraham 363:24"
+        },
+        "25": {
+          "he": "שני חצירות כו'. דכל שאין רבו דיורין בו משתמשין בו בהצנע וצריך מחיצ' יותר (ב\"י רשב\"א) וא\"כ הוה אפשר להקל במבואו' שלנו כיון דיש בהן ריבוי דיורין ואפשר דלא פלוג במבוי:",
+          "en": "",
+          "ref": "Magen Avraham 363:25"
+        },
+        "26": {
+          "he": "ויש חולקין. דכיון דיכולין לערב יחד דרך הפתחים נחשבו כחצר א' וה\"ה בבתי' הפתוחות זו לזו:",
+          "en": "",
+          "ref": "Magen Avraham 363:26"
+        },
+        "27": {
+          "he": "דין חצירות. כיון דרוב עיירות מוקפות חומה בישב ולבסוף הוקף יש להעיר דין חצר וצריך לתקן המבואו' (שבין יהודי' לעכו\"ם) כדין הבא לחלוק חצר א' לג' וד' רשויות אם היו בחצר שבילים קטנים בין בית לבית שצריך לתקן צ\"ה או ב' פסין ב' משהוי' כדאיתא בהג\"מ בשם מהר\"מ עכ\"ל ת\"ה וא\"כ אם אין המבוי רחב י' אמו' די בב' פסין משהוי' וכ\"כ מהרי\"ו בדיני' סי' י\"ח וז\"ל בהג\"מ פי' מהר\"מ דמבואות שלנו א\"צ אלא ב' לחיים דלא הוו אלא סילוק דיורין וא\"צ צ\"ה מ\"מ נרא' דמבואו' שלנו לא הוי תורתם כמפולש להצריכ' צ\"ה בעקמומית' כדין מבוי עקום דהתם איירי במפולש לר\"ה עכ\"ל ופשוט דאיירי במוקף החומה שהרי כ' שאינו אלא סילוק דיורין אבל בערי הפרזי צריך צ\"ה כמ\"ש רסי' שס\"ד בפתוחי' לכרמלי' ע\"ש ס\"ג דאף בעקמומיתו צריך תיקון דאין חילוק בין ר\"ה לכרמלית וכ\"ה בב\"י שם בשם תשו' הר\"ן וכ\"פ המ\"ב סי' צ\"ב אלא שנט' דברי מהרי\"ו לדעת אחר' ע\"ש וצ\"ע שלא ראיתי נוהגין כן ולכן נ\"ל דכיון דסתם רמ\"א וכ' כל מבואות שלנו יש להם דין חצירות משמע ואפי' אין מוקף חומה כיון שאין בתים וחצירות פתוחות לתוכו יש בהם דין חצר ובחצר אין חילוק בין עקום לשוה אין צריך אלא תיקון א' בראשו ומ\"מ לענין זה שם מבוי עליהם דאם אין לו חומה בעי' צ\"ה כיון דקרובים לר\"ה כמ\"ש הסמ\"ק אבל דאין עקמומיתו קרוב לר\"ה אין צריך תיקון עסכ\"ז בהג\"ה ועסי' שס\"ד דמצד השני סגי בלחי ועסל\"א: ומהרי\"ל בתשוב' סי' קס\"ו כ' דהעיירות שלנו שהעכו\"ם דרין בתוכו יש להם דין כרמלית ואפי' כלים ששבתו בתוכו אסור לטלטלם חוץ לד\"א וכו' ולכן צריך ב' פסין או צ\"ה וכו' ע\"ש וכ\"כ בדרשותיו אבל אנו אין לנו אלא דברי הש\"ע שכ' ססי' שנ\"ז וססי' שס\"ה דיש להם דין חצירות ואם נפרצו פרצות בחומ' עסי' שס\"ה ס\"ג ועסי' שע\"ב:",
+          "en": "",
+          "ref": "Magen Avraham 363:27"
+        },
+        "28": {
+          "he": "ב' קנים. על הארץ אבל כותלי המבוי אין נחשבין במקום הקנים דאלת\"ה למה הצריכו קורה רחבה טפח הלא בכל שהוא איכא צ\"ה אלא ע\"כ צריך להעמיד קנים וי\"ל מ\"ש דבסוכ' דיו שיתן קנה על הכותלים וא\"צ קנה מכאן כמ\"ש סי' תר\"ל ס\"ג ואפשר דש\"ה דחומרא בעלמא היא לעשו' צ\"ה ונ\"ל דאי איכא עמוד בכותל בולט נידון משום קנה דלא גרע מלחי בסי\"א:",
+          "en": "",
+          "ref": "Magen Avraham 363:28"
+        },
+        "29": {
+          "he": "שאין ברחבו כו'. כלומ' שאין פתחו רחב ג' אף על פי שתוכו רחב הרבה:",
+          "en": "",
+          "ref": "Magen Avraham 363:29"
+        },
+        "30": {
+          "he": "מבוי שצידו כו'. משמע כאן דים נחשב למחיצ' וצ\"ע דכת' התו' ד' כ\"ב ע\"ב ותימא דא\"י תעשה רה\"י שהרי' וגבעות מקיפין אות' ובבל תעש' רה\"י דמקיף לה נהר דיגלת וי\"א דמחיצ' שאינה עשוי' בידי אדם לא חשיב מחצי' ואתי רבים ומבטלי מחיצתן עכ\"ל עמ\"ש ססי' זה וצ\"ל דהכא מיירי במקום שאין הספינו' עובר' שם לנמל דשם הוי הים מחיצ' וה\"ה שאר מימו' שאין הספינות עוברות שם הם עצמן מחיצה כמ\"ש סי' שנ\"ו וכ\"ה בגמ' ד' כ\"ד ע\"ב ובתו' אין עושין כו' דהנהר בעצמו הוי מחיצה וכ\"כ בערוך ערך אוזל ולפי מ\"ש ססי' שמ\"ה דוקא כששפת הנהר עמוק י' וכ\"כ רש\"י והריב\"ש כאן אבל אם שפת הנהר משופע והולך אם כשהולך השפוע ד\"א עדיין אינו גובה י' אינו מחיצה וכמ\"ש ססי' זה:",
+          "en": "",
+          "ref": "Magen Avraham 363:30"
+        },
+        "31": {
+          "he": "יעלה הים שרטון. שכן דרך הים שמתקצר ונעשה קרקע ברוחב פרס' ובטלי המחיצות ומטלטלי נמי במבואות כדמעיקרא (רש\"י) ובמ\"מ משמע דאע\"פ שיתקצר הים מ\"מ נשאר מדרון בעומק י' והוי מחיצה אלא שהחששא היא שמא יטלטלו מן המבוי למקום שנתייבש הים שהוא כרמלית אפי' מוקף במחיצת הים לפי שלא הוקף לדירה כמ\"ש סי' שס\"ה ס\"ג אבל כשהים קיים ליכא חששא שאין הים בת טלטול עם המבוי עכ\"ל וא\"כ לדידי' בעי' מחיצות גמורות בצד הים ולא מהני צ\"ה או לחי או קורה כמו שעשה אמימ' שפסק לסורא ברשתו' והטור ס\"ל כדע' רש\"י וא\"כ סגי בתיקון שאר מבוי ומשמע מל' רש\"י והרא\"ש והטור דבשאר נהרות לא חיישי' שמא יעלה שרטון וכ\"מ בתו' ד' כ\"ד ע\"ש, ודע דעכ\"פ בעי' שיהא הנהר סמוך ממש לראש המבוי אבל אם הוא רחוק מהבתים י' אמות צריך תיקון דאותו מקום הוי פרוץ וכ\"ה בתו' ד' כ\"ד בד\"ה ליעבד צ\"ה כו' ובד\"ה ליעבד לחי כו' ע\"ש: וקושטינטינא אף ע\"פ שפרוצ' לים בכמה מקומות יותר מי' כסתום דמי (רי\"ט ח\"א צ\"ד וכ\"ה שצ\"ב) עמ\"ש סי' ת\"ה ס\"ו ובריב\"ש סי' ת\"ה כתב מבוי המפולש לכרמלית צריך צ\"ה וההיא דצדו א' ים לא היה מפולש בב' ראשיו כי היה לו ג' מחיצו' אלא שבשני צדדין היה פרוץ קצת בצד א' לים ובצד א' לאשפה ושפת הים עמוק' י' וכו' עכ\"ל אבל משמעות הפוסקים משמע דאפי' מפולש לגמרי לים שרי וע\"ל רסי' שס\"ד וא\"כ בנהרו' שלנו שדרכן להתייבש בקיץ הרב' יש לאסו' עמ\"ש סי' שס\"ה סס\"ג וז\"ל הירו' די\"ח ע\"ד מבואו' המפולשין לים כמפולשין לבקע' והדין שקק' דר\"ח לא צריך צ\"ה שהוא כמתלקט י' מתוך ג': דע דאם נקרשין בימות הגשמי' בטל' המחיצה ואסור לטלטל:",
+          "en": "",
+          "ref": "Magen Avraham 363:31"
+        },
+        "32": {
+          "he": "שצדו א' ארוך. ואפי' לחיי' לא מהני נגד הארוך כ\"מ בב\"י וכ\"כ ר\"ל חביב סי' ס\"ו וב\"ח כ' דמהני לחיים:",
+          "en": "",
+          "ref": "Magen Avraham 363:32"
+        },
+        "33": {
+          "he": "ולא עשו. דכיון שלא עשו ואין יכול לטלטל במבוי לא אסרי על הפנימית:",
+          "en": "",
+          "ref": "Magen Avraham 363:33"
+        },
+        "34": {
+          "he": "ב' פסין. דאפי' חצר א' יכולין לחלק בכה\"ג (הרא\"ש) ועמ\"ש סכ\"ו ועיר המוקפ' חומה בדלתות ראויו' לנעול זולת בפתח א' שאין דלתות שפתח ההוא לא גרע מלחי או קורה וכל העיר כמבוי אחד שיש לחי בראשו שאין מערבין אותם לחצאין ואם יש פרצה בטל הכשירה (ועסי' שס\"ה ס\"ב) ויוכל להכשיר חציה במחיצה ולהניח חציה (ב\"י סי' שס\"ד בשם ריב\"ש):",
+          "en": "",
+          "ref": "Magen Avraham 363:34"
+        },
+        "35": {
+          "he": "פס רחב ד'. אבל פחות מכן לא מהני אף על פי שכל צד הוא פחות מי' דאתי אוירא דהאי גיסא ודהאי גיסא ומבטל לי' כמ\"ש ס\"ד:",
+          "en": "",
+          "ref": "Magen Avraham 363:35"
+        },
+        "36": {
+          "he": "וי\"א דאין וכו'. הב\"י הקשה ע\"ז דהא קי\"ל בסי' שס\"ד ס\"ג דאע\"פ שאין בעקמומיתו י' הוי כמפולש וצ\"ל דס\"ל להטו' דשאני הכא כיון ששני הפתחים הם בצד א' לא יסבב לבא סביב הפס וכמ\"ש הריצב\"א בתו' ע\"ש אבל לענין יותר מי' לא ס\"ל כריצב\"א ומ\"מ העיקר כסבר' הראשונ' וכ\"מ בב\"ח:",
+          "en": "",
+          "ref": "Magen Avraham 363:36"
+        },
+        "37": {
+          "he": "פס רחב וכו'. וצריך ג\"כ לחי למבוי דפס לא מהני כיון שמופלג ג' מן הכותל (תו' וכ\"כ הרר\"י) ועמ\"ש ס\"ו:",
+          "en": "",
+          "ref": "Magen Avraham 363:37"
+        },
+        "38": {
+          "he": "דלא לשבוק. אבל מסתמא לא חיישינן שילכו בפתח קטן דלא ממעטא בהליכה ע\"י כך משא\"כ ברסי' שס\"ה דהוי מן הצד ומקצרים דרכן חיישי' לזה (גמ'):",
+          "en": "",
+          "ref": "Magen Avraham 363:38"
+        },
+        "39": {
+          "he": "ובזה החל וכו'. ואם כל העיר מוקפת תל ואח\"כ בנו בה בתים אסור כמ\"ש סי' שנ\"ח ס\"ב וע\"ש ס\"ח:",
+          "en": "",
+          "ref": "Magen Avraham 363:39"
+        },
+        "40": {
+          "he": "הוי כמחיצה. ולפי מ\"ש סכ\"ט בשם התו' צ\"ל דלא בקעי בו רבים שאל\"כ אתי רבים ומבטלי מחיצתא כיון שאינה עשוי' בידי אדם ואפשר דלא מקרי רבים פחותים מס' רבוא וכמ\"ש סי' שמ\"ה ס\"ו וכ\"מ דעת הפוסקים שסתמו בזה:",
+          "en": "",
+          "ref": "Magen Avraham 363:40"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "כל שהוא.  אפי' פחות מאצבע. ב\"ח מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 363:1"
+        },
+        "2": {
+          "he": "קאי.  ואפילו אין הרוח מפילו אלא מנידו כמ\"ש ריש סי' שס\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 363:2"
+        },
+        "3": {
+          "he": "מסיד.  וכתב הט\"ז ועכ\"פ בעי דלהוי בהאי מיחוי קצת דבר ממש ועב קצת ולא סגי במראה הסיד שניכר על הכותל לחוד דעכ\"פ בעי שיהיה עב כחוט הסרבל וראיתי מורה א' שצוה לרשום בכותל במקום לחי במין עפר לבן שקורין קריי\"ד וטעה מאוד בזה עכ\"ל ע\"ש ועיין בשכנה\"ג שהעלה דלחי מסיד מחוי מהני אפי' לצורת פתח דבעי קנה מכאן וקנה מכאן וקנה על גביהן אם עשה לחי מכאן ולחי מכאן מסיד מחוי וקנה על גביהן מכוון לצורת פתח ע\"ש וכ\"כ הט\"ז ע\"ש ועיין בתשוב' שבות יעקב ח\"ב סי' ח':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 363:3"
+        },
+        "4": {
+          "he": "מעצי.  דכיון דלא בעי אלא שיעור זוטא לא החמירו חכמים תוס'. ועיין ט\"ז וביד אהרן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 363:4"
+        },
+        "5": {
+          "he": "בין.  עיין ט\"ז בזה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 363:5"
+        },
+        "6": {
+          "he": "ואינה.  ואפי' מרוחקת משני הכתלים אמרינן לבוד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 363:6"
+        },
+        "7": {
+          "he": "תחת.  כתב הט\"ז נ\"ל כיון דצריך להעמיד קנים למטה בגובה י' א\"צ לקשור החבל למעלה בקנים אלא יכול לקשור החבל אפי' בגג מזה ומזה כיון דעיקר צורת הפתח מכח הקנים שלמטה גם א\"צ ליזהר היאך הוא נקשר למעלה בגגים אלא שצריך שיעמדו הקנים מכוונים תחת החבל ונ\"ל עוד דאם למעלה מן הקנים שמעמידים למטה יש גג שמפסיק בין גובה החבל להקנים יש איסור בזה דלא הוה צ\"ה כיון שהגג מפסיק בין החבל להקנים ואין עושין צ\"ה בענין זה אלא צריך שיפתח נקב גדול בגג למעלה מהקנים בענין שיהיו מכוונים תחת החבל בלי הפסק ועוד נראה לי באם יש תחת החבל בכותל יוצאים חפופים עד י' טפחים סמוך לקרקע שפיר יש לסמוך עליהם מע\"ש במקום קנים של לחי וגם כן צריך שיהיו החפופים מגולים למעלה תחת החבל עכ\"ל מ\"ש. ועיין מ\"א ועיין מ\"ש בס\"ק ג':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 363:7"
+        },
+        "8": {
+          "he": "שאין.  כלומר שאין פתחו רחב ג' אע\"פ שתוכו רחב הרבה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 363:8"
+        },
+        "9": {
+          "he": "הים.  ובנהרות שלנו שדרכן להתייבש בקיץ הרבה פשיטא דאסור מ\"א ע\"ש. ובט\"ז שאלה בק\"ק שטייני\"ץ במדינות מעהרין נהגו לטלטל בשבת בלא עירוב על סמך שהעיר מוקף נהר סביב וקנו הרשות מהשר והאריך בפלפולו ופסק לאיסור שיעשו להם עירוב כנהוג בכל הקהלות שאינם מוקפות חומה אכן אם יש על שפת הנהר ביבשה מקום מדרון גבוה עשרה במשך ד' אמות כמ\"ש סל\"ו נחשוב אותו מדרון במקום מחיצה עכ\"ל וכתב המ\"א ודע דעכ\"פ בעינן שיהיה הים סמוך ממש לראש המבוי אבל אם הוא רחוק מהבתים יו\"ד אמות צריך תיקון דאותו מקום הוי פרוץ. ובקושטנטינא אע\"פ שפרוצ' לים בכמה מקומות יותר מיו\"ד כסתום דמי כנה\"ג בשם רי\"ט ועיין מ\"א. ודע דאם נקרשין בימות הגשמים בטלה המחיצה ואסור לטלטל ועיין בתשובת חכם צבי סימן ל\"ז. (ועיין בס' אבן העוזר שהאריך להוכיח שאין מים הנקרשים מבטלין המחיצות ע\"ש בספר מגיני ארץ דפוס פרופס):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 363:9"
+        },
+        "10": {
+          "he": "באמצע.  דאפי' חצר א' יכולין לחלוק בכה\"ג הרא\"ש. ועיר המוקפת חומה בדלתות ראויות לנעול זולתו בפתח אחד הפתח ההוא לא גרע מלחי או קורה וכל העיר כמבוי אחד שיש לו לחי בראשו ושאין מערבין אותו לחצאין ואם יש פרצה בטל הכשירה ועסי' שס\"ה ס\"ב ויכול להכשיר חציה ולהניח חציה. ב\"י סימן שס\"ד מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 363:10"
+        },
+        "11": {
+          "he": "שמן.  בט\"ז מגיה שצ\"ל שיש יותר מיו\"ד מן הפס לכותל כמ\"ש בטור ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 363:11"
+        },
+        "12": {
+          "he": "ובזה.  ואם כל העיר מוקפת תל ואח\"כ בנה בה בתים אסור כמ\"ש סימן שנ\"ח ס\"ב מ\"א ועשו\"ת אמונת שמואל סי' מ' אם חריץ סביב לעיר רחב ד' ועמוק יו\"ד מותר לטלטל על ידו עיין שם וכן כתב חכם צבי סי' ד':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 363:12"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) מקום שיש לו ג' מחיצות - היינו כגון מבוי שפתוח לרוח רביעית או חצר שנפרץ אחד מכתליו ובין שפתוח לכרמלית או לר\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:1"
+        },
+        "2": {
+          "he": "(ב) אסרו חכמים לטלטל בו - שיעור ד' אמות וטעם שאסרוהו דכיון שרוח רביעית פתוח לגמרי דומה קצת לר\"ה ואי נתיר בזה יבואו לטלטל גם בר\"ה ועיין בבה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:2"
+        },
+        "3": {
+          "he": "(ג) שום תיקון ברביעית - היינו כמבואר לקמן בסעיף ב' וג' לכל אחד כדינו:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:3"
+        },
+        "4": {
+          "he": "(ד) שנפרץ - ר\"ל למקום האסור לה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:4"
+        },
+        "5": {
+          "he": "(ה) במילואו - כלומר כל הכותל:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:5"
+        },
+        "6": {
+          "he": "(ו) עד עשר אמות - ועד בכלל דאף דבעלמא קי\"ל דאם נפרץ הכותל עשר אמות נחשב הפרצה כפתח הכא שכל הכותל נחסר לא נוכל לחשוב זה המקום לפתח:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:6"
+        },
+        "7": {
+          "he": "(ז) במקום אחד - היינו בראש הכותל:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:7"
+        },
+        "8": {
+          "he": "(ח) טפח מכאן וכו' - לאו דוקא טפח אלא די בשני משהויין וכנ\"ל במעמיד פסין לכתחלה וכמו שכתב בב\"י ועיין בבה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:8"
+        },
+        "9": {
+          "he": "(ט) בגובה עשרה טפחים - וא\"צ שיהיה שוה בגובה לשאר הכתלים מיהו בפחות מזה אין עליו שם מחיצה כלל:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:9"
+        },
+        "10": {
+          "he": "(י) כיון שהוא במילואו - האי במילואו לאו דוקא דאפילו אם נשתייר מהכותל ב' או ג' טפחים כל שהוא מיעוט לגבי הפרוץ צריך תיקון אלא אתי לאפוקי היכי דהעומד מרובה דבזה קי\"ל דרובו ככולו והוי כסתום ואע\"פ שאינו מחזיק ד' טפחים כל שהוא משהו יותר מהפרוץ סגי:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:10"
+        },
+        "11": {
+          "he": "(יא) עד שיהא בה פחות מג' - פי' שיתקן הפרצה במקצת ולא ישתייר אלא פחות מג' דאז הוי כלבוד וכ\"ש אם הפרצה לא היה אלא פחות מג' דאין צריך שום תקון מטעם זה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:11"
+        },
+        "12": {
+          "he": "(יב) אפילו אינה במילואה - האי לישנא לאו דוקא דאפילו העומד מרובה על הפרוץ ג\"כ אסור דכאלו נפרץ כל הכותל דמי. וצוה\"פ מהני אפילו כשהיא במילואה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:12"
+        },
+        "13": {
+          "he": "(יג) התירו בלחי - ואף דבחצר בעינן דוקא פס רחב ד' טפחים הכא הקילו חכמים והטעם שכל שהוא עשוי יותר לדירה ולתשמישי הצנע צריך מחיצות יותר גמורות ולפיכך החצרות שדרכן של בעלי בתים להשתמש בהן יותר בתשמישי הצנע ולאכול צריכות מחיצותיהן להיות יותר גמורות שיהיה שם רה\"י עליהן מהמבואות שאין משתמשין בהן בתשמישי הצנע ולפיכך די במבוי בלחי ועיין לקמן סכ\"ו שזהו דוקא כשאין רחב פתחו יותר מעשר אמות ועוד פרטים עי\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:13"
+        },
+        "14": {
+          "he": "(יד) כל שהוא - אפילו פחות מאצבע (אחרונים):",
+          "en": "",
+          "ref": "Mishnah Berurah 363:14"
+        },
+        "15": {
+          "he": "(טו) בפתח המבוי - עיין לקמן סל\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:15"
+        },
+        "16": {
+          "he": "(טז) י' טפחים - מרווחים ולא מצומצמים [חידושי רע\"א] ועשרה טפחים מהני אפילו למבוי שגבוה עשרים אמה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:16"
+        },
+        "17": {
+          "he": "(יז) ואפילו קשר וכו' - ומיירי שלא הודיעו שהעמידו לשם לחי א\"כ בודאי ילך לו שלא יעמוד שם כל היום לכן בעינן דוקא קשר ויש מחמירין אפילו בהודיעו שמא ישכח וילך משם:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:17"
+        },
+        "18": {
+          "he": "(יח) אם יש קצת כותל וכו' - אף דלא נעשה לשם לחי קי\"ל דלחי העומד מאליו ג\"כ כשר וכדלקמן בסי\"א ע\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:18"
+        },
+        "19": {
+          "he": "(יט) רוחב טפח - עיין בבה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:19"
+        },
+        "20": {
+          "he": "(כ) לחי דאי נשיב וכו' - וה\"ה כשעושין צוה\"פ דלא עדיף ממחיצה שאינה יכולה לעמוד ברוח מצויה שאינה מחיצה [תו\"ש וש\"א] ואפילו אין הרוח מפילו לארץ אלא מנידו כמ\"ש בסי' שס\"ב ס\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:20"
+        },
+        "21": {
+          "he": "(כא) לא חשיב לחי - נ\"ל דאם הלחי למטה אינו מתנענע כגון שקבוע במסמר או שקשור היטב להכותל ומחמת זה אינו מתנענע עד משך גבוה עשרה טפחים ורק למעלה הוא מתנענע ע\"י הרוח מפני רוב גובהו כשר דדל מה שלמעלה נשאר ג\"כ שיעור לחי:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:21"
+        },
+        "22": {
+          "he": "(כב) צריך שלא יהא - י\"א שהטעם משום דאתי אוירא דהאי גיסא ודהאי גיסא ומבטלין ליה ולפ\"ז אם הלחי היה רחב יותר מג\"ט כשר אף שהלחי היה רחוק ג\"ט מן הכותל דהא הוי עומד מרובה על הפרוץ שבצדו ובכגון זה לא אמרינן אתי אוירא ומבטל ליה ויש אומרים דבכל גווני צריך להיות הלחי בתוך ג\"ט לכותל ויש להחמיר:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:22"
+        },
+        "23": {
+          "he": "(כג) הלחי - והיכי שקובע צורת הפתח למבוי דעת הרבה מהפוסקים שא\"צ לדקדק שיהא בתוך ג\"ט לכותל דצוה\"פ מחיצה גמורה היא ויש פוסקים דס\"ל דאין חילוק בין צוה\"פ ללחי לענין זה ובשעת הדחק יש לסמוך להקל. ואם יש ארבעה טפחים בין צוה\"פ להכותל דעת הח\"א דצריך להעמיד לחי אצל הכותל ולדידי צ\"ע גם בזה כמו שביררתי בבה\"ל ולכתחלה בודאי נכון לחוש להחמיר אפילו ברחוק ג' טפחים מן הכותל:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:23"
+        },
+        "24": {
+          "he": "(כד) לחי אפילו שברים וכו' - ר\"ל מדובקים ובלבד שיוכל לעמוד ברוח מצויה [לבוש]. ולאפוקי קורה דבעינן דוקא שתהיה חזקה כדי לקבל אריח וכדלקמן בסי\"ז:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:24"
+        },
+        "25": {
+          "he": "(כה) כשרים בו - וה\"ה אבנים היוצאים מן הכותל ומובדלים זו מזו פחות מג\"ט הוי לחי ממש והא שיהא בין כולן גבוה עשרה טפחים:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:25"
+        },
+        "26": {
+          "he": "(כו) ולכן עושין לחי וכו' - דלא גרע משברי שברים דמותר בלחי וה\"ה לענין צוה\"פ דבעינן שיעשה לחיים מכאן ומכאן אם ירא שיפילם הרוח מותר לעשותן ע\"י סיד מחוי בכותל מכאן ומכאן והקנה שלמעלה יהיה מכוון על גביהן. ומ\"מ בעינן שיהי בו ממשות קצת עכ\"פ כחוט אבל מראה סיד לבד או רושם בנתר שקורין קריי\"ד או שאר צבע לא מהני [ט\"ז וש\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:26"
+        },
+        "27": {
+          "he": "(כז) שלא יתמחה יותר וכו' - היינו ע\"י כלבים וחזירים שרגילים להתחכך בכתלים ומוחקין מן הכתלים את מיחוי הסיד הסמוך לארץ ואז לא מהני שוב לא ללחי ולא לצוה\"פ:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:27"
+        },
+        "28": {
+          "he": "(כח) יותר משלש לארץ - האי לישנא לאו דוקא דאפילו נמחה רק שלש בצמצום ג\"כ בטל ממנו שם לחי וכדלקמיה בסעיף יו\"ד:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:28"
+        },
+        "29": {
+          "he": "(כט) לחי שעשאו וכו' - בגמרא איתא דעושין לחי אשרה ומשמע אפילו לכתחלה. ואין להקשות נהי דבלחי כיון דאין צריך שיעור לא שייך בזה כתותי מיכתת שיעוריה וכדלקמיה מ\"מ הא אסור בהנאה י\"ל כיון דהלחי אינו אלא לצורך מחיצה ובה גופא לא משתמש במידי לא חשיב הנאה מה שנהנה על ידה היתר טלטול [בית מאיר ע\"ש]:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:29"
+        },
+        "30": {
+          "he": "(ל) כשר - הטעם משום דכיון דלחי א\"צ שיעור דבכל שהוא סגי וכדלעיל בס\"ג אפי' מעצי אשרה מהני אע\"ג דעצי אשרה עומד לשריפה וכמאן דשרוף דמי ומכתת כתות שיעוריה מ\"מ הא לא בעי שיעור ואע\"ג דהא מ\"מ בעי עכ\"פ שיעור בגובהו י' טפחים כיון דיכול לעשותו קו דק מאוד של כל שהוא לא החמירו חכמים בשיעור זוטא כי האי ועוד תירצו בזה דבלחי אפילו היה נשרף העץ לאפר והיה מגבל לאפר ומדבק לכותל ג\"כ חשיב לחי ובלבד שלא יהא ניטל ברוח ולכן אין נפסל מחמת שעומד לשריפה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:30"
+        },
+        "31": {
+          "he": "(לא) ואינה נראית לעומדים בחוץ - כגון שהעמיד הלחי רחבו לצד ארכו של מבוי ולא משך קצה רחבו קימעא כלפי חוץ אלא השוה חודו החיצון לעובי כותל המבוי ודומה כמי שמוסיף על עובי הכותל ואינו נראה מבחוץ כלחי אבל חודו הפנימי נראה לעומדים שם בפנים כזה /במקור מופיע ציור/:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:31"
+        },
+        "32": {
+          "he": "(לב) נגד חלל המבוי - כגון שנתן כל הלחי לחוץ המבוי וחודו הפנימי עומד אצל עובי הכותל אבל לא העמידו בשוה לשפת עובי הכותל של צד תוך המבוי דא\"כ לא היה נראה כלחי אלא כמוסיף על הכותל אף להעומדים בר\"ה אלא הרחיקו מזוית עובי הכותל של צד פנים והעמידו לשפת עובי של צד אחורי המבוי דעי\"ז ניכר להעומדים בחוץ בר\"ה נגד חלל המבוי שהוא לחי כזה /במקור מופיע ציור/:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:32"
+        },
+        "33": {
+          "he": "(לג) לעומדים בפנים - ר\"ל לאותן העומדים תוך המבוי אין הלחי נראית שאין עשויה בפנים:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:33"
+        },
+        "34": {
+          "he": "(לד) הרחיק מהכותל שלש - אע\"ג דכבר שנאו בס\"ו חזר ושנאו לאשמועינן שהוא לעיכובא:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:34"
+        },
+        "35": {
+          "he": "(לה) או שהגביהו מהארץ שלש - היינו אף דאית בלחי עשרה טפחים והטעם דלא עדיפא ממחיצה שנטולה שלשה טפחים מן הארץ דפסולה משום דהוי מחיצה שהגדיים בוקעין תחתיה דלא שמה מחיצה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:35"
+        },
+        "36": {
+          "he": "(לו) כשר - מטעם לבוד והוי כמלא זה המקום הפנוי:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:36"
+        },
+        "37": {
+          "he": "(לז) שנזדמן לו שם מאליו - כגון שיצא בליטה מכותל המבוי בראשו בשיעור משך גבוה עשרה טפחים או שהועמד שם לאיזה ענין ואפילו לא קבעו הוא בעצמו אלא מעולם הוא שם ג\"כ כשר דלחי משום מחיצה ומחיצה העומדת מאליה כשרה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:37"
+        },
+        "38": {
+          "he": "(לח) כגון שהיה שם לחי אחר וכו' - דהו\"ל כאלו אמר ע\"ז אני סומך ולא ע\"ז והו\"ל האי כאלו אדחי מתורת לחי [א\"ז]:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:38"
+        },
+        "39": {
+          "he": "(לט) כאלו סמכו עליו - ר\"ל אע\"פ שלא סמכו עליו בפירוש אכן אם בפירוש לא סמכו עליו כגון שלא טלטלו בשבת שעברה ע\"י לחי זו ולא היה שם לחי אחר אינו מועיל לשבת הבאה עד שיסמכו עליו מע\"ש בפירוש:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:39"
+        },
+        "40": {
+          "he": "(מ) לחי העומד וכו' - שיעור דבריו כך הוא דהא דכתב בסי\"א דלחי העומד מאליו וסמכו עליו מהני דוקא אם הלחי אינו בולט לרחבו של מבוי ד\"א אבל אם הוא בולט ויוצא מכותל הבית לרחבו של מבוי ד\"א אז נפק ליה מתורת לחי [משום שיש בו שיעור הכשר של אורך מבוי שהוא בד\"א וכדלקמיה בסכ\"ו] ושם כותל מבוי עליה וצריך לחי אחר לפתח המבוי להתירו אם לא שהמבוי אינו מחזיק רחבו רק ח' אמות דאז מותר בלא לחי אחר דהוי עומד כפרוץ וחשיב המבוי כסתום מכל הצדדין וכנ\"ל בסימן שס\"ב ס\"ט:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:40"
+        },
+        "41": {
+          "he": "(מא) מאיליו - דאם העמידו לשם לחי אפילו רחב ד' אמות הוי לחי כמו שכתב בהג\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:41"
+        },
+        "42": {
+          "he": "(מב) ד' אמות - דד\"א הוי שיעור כותל מבוי וליכא הכירא כלל דהוא לחי אבל עד ד' אמות נוכל לחשבו ללחי והוא דסמכו עליו מע\"ש וכנ\"ל בסי\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:42"
+        },
+        "43": {
+          "he": "(מג) אפילו רחב ד\"א - וה\"ה יותר מזה והטעם דמשום דריבה בפתח המבוי בסתימתו לא גרע מלחי דעלמא [רש\"י]:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:43"
+        },
+        "44": {
+          "he": "(מד) המושך עם דפנו וכו' - לאורך המבוי:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:44"
+        },
+        "45": {
+          "he": "(מה) שאין חודו של לחי מכסה וכו' - אלא קצר ממנו ונמשך להלאה לצד אחורי המבוי וכמו שציירנו לעיל בס\"ט במ\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:45"
+        },
+        "46": {
+          "he": "(מו) עם חודו הפנימי - ר\"ל שמותר ע\"י הלחי להשתמש בכל המבוי עד חודו הפנימי של הלחי ולא יותר דאף דקי\"ל בסימן שס\"ה ס\"ד דבין הלחיים מותר להשתמש הכא שאני דהא הצד השני קצר מזה שאין דופן כנגד הלחי:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:46"
+        },
+        "47": {
+          "he": "(מז) ד\"א נידון משום מבוי - דכיון דהוא ד\"א שהוא בעלמא שיעור אורך מבוי יוצא מתורת לחי ונחשב לכותל מבוי וכן מבוי שעשה לאורך המבוי לפנים לחיים קטנים הרבה רצופים בפחות מג\"ט זה אצל זה במשך ארבע אמות אינו ניתר המבוי בזה דכיון שהם בפחות מג\"ט זה מזה חשובים כולם כלחי אחד שמחזיק ד' אמות ברחבו ויוצא מתורת לחי ונחשב ככותל ואין לחי למבוי זה. ומ\"מ אם הלחי הראשון שעומד בקצה המבוי אינו עומד בשוה עם קצה המבוי אלא נמשך קצת מן המבוי ולפנים נידון משום לחי כיון שנראה מבחוץ:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:47"
+        },
+        "48": {
+          "he": "(מח) ואסור להשתמש - דזה אסור אפילו הועמד לשם לחי ואינו דומה להנ\"ל בסי\"ב דמתירין שם כשהעמידו לשם לחי דהתם הלא העמיד הבליטה לרוחב המבוי ונסתם עי\"ז פתיחתה וע\"כ לא גרע מלחי משהו משא\"כ הכא דהעמידו לארכו ומחזי כמוסיף עוד על הכותל:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:48"
+        },
+        "49": {
+          "he": "(מט) בקורה - שעי\"ז יהיה היכר שלא יבואו להחליף ולטלטל בר\"ה גמורה וגם שלא יבואו לטלטל ממנו ולחוץ:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:49"
+        },
+        "50": {
+          "he": "(נ) על ראש המבוי - ר\"ל בקצה המבוי ואם העמידו באמצע המבוי עיין לקמן בסל\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:50"
+        },
+        "51": {
+          "he": "(נא) אבל אם נעץ וכו' - היינו שתחב שני יתדות בשני הכתלים מזה ומזה לצד ר\"ה ומש\"כ אפילו בסמוך לו היינו שהיתדות היו קצרות מאוד וממילא כשהניח הקורה עליהם היה סמוך להכתלים בלא שום הפסק בינתים אפ\"ה פסול והטעם דקורה ע\"ג כתלים בעינן שאין נראית שבא להכשיר המבוי אלא כשהוא תוך חללו של מבוי שאין דרך שום תקרה ושום קורה לתתה אלא ע\"ג הכתלים ולא מבחוץ ודוקא קורה אבל לחי לא בעינן תוך חללו של מבוי אלא אפילו חוץ לחלל המבוי וכעין ההיא דסי\"ג הנ\"ל וטעמא דמלתא דלחי אפילו עומד בחוץ ניכר שבא להכשיר המבוי משא\"כ בקורה וכנ\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:51"
+        },
+        "52": {
+          "he": "(נב) פסול - ואם נעץ שתי יתדות בקרקע סמוך לכותלי המבוי מזה ומזה מבחוץ והניח הקורה עליהן כשר מטעם לחי [עו\"ש וא\"ר וש\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:52"
+        },
+        "53": {
+          "he": "(נג) אבל אם לא וכו' - כאותו שנותנין קורה מכותל לכותל לחזק הכתלים וכל כה\"ג:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:53"
+        },
+        "54": {
+          "he": "(נד) אפילו סמכו עליה וכו' - ואף דבלחי קי\"ל בסי\"ב דאם סמכו עליו מע\"ש מהני אפילו בעומד מאליו שאני התם דלחי משום מחיצה ומחיצה העומדת מאליה ג\"כ הוי מחיצה אבל קורה משום היכר וכשלא הונחה לשם כך לא הוי היכר ועיין בפמ\"ג שמצדד דאפילו היה הקורה רחבה ד' טפחים ג\"כ לא מהני ועיין בה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:54"
+        },
+        "55": {
+          "he": "(נה) צריכה שיעור - וכדלקמיה בסי\"ז:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:55"
+        },
+        "56": {
+          "he": "(נו) ולפיכך וכו' - וה\"ה לכל דבר שצריך שיעור כגון מה שנזכר לעיל בס\"ב פס של ד' טפחים בצד א' או טפח מכאן וטפח מכאן:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:56"
+        },
+        "57": {
+          "he": "(נז) מעצי אשרה - שעבדה ישראל שאין לה ביטול או אפילו של עכו\"ם וקצצה ישראל [דאי קצצה עכו\"ם הלא נתבטלה ממילא וכדאיתא ביו\"ד סימן קמ\"ו ס\"ו] ונטלה לזכות בה דעי\"ז נעשה עכו\"ם של ישראל דאין לה ביטול ולפיכך אמרינן דכתותיה מכתת אבל אם לא נטל הישראל לזכות בה הו\"ל עכו\"ם של נכרי דיש לה ביטול וכיון דיש לה ביטול לא אמרינן ביה כתותי מכתת אפילו קודם שנתבטל:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:57"
+        },
+        "58": {
+          "he": "(נח) רחבה טפח - ואף שצריכה שיעור לקבל עליה אריח שהוא רחב טפח ומחצה יוכל לחבר כרביע טפח ממנו בטיט בכאן ורביע טפח ממנו בכאן [גמרא]:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:58"
+        },
+        "59": {
+          "he": "(נט) לקבל אריח וכו' - ר\"ל אריחים שכל אחד מהם מחזקת בארכו ג' טפחים וברחבו טפח ומחצה שוכבים עליה בכל ארכה כשיעור רוחב פתח אותו המבוי [ומ\"מ אם היה רוחב פתח המבוי עשר אמות א\"צ שתהא ראויה לקבל אריחים לכל ארכה ממש אלא דיה אם תקבל אריחים באורך ט' אמות ושני משהויין שהן י\"ח אריחים לאורכן לפי שקורת ט' אמות ושתי משהויין מתרת במבוי של רוחב עשר אמות מדין לבוד דהיינו שלא תגיע פחות מג' טפחים לכותל זה ופחות מג\"ט לכותל זה כדלקמיה בסכ\"א] והטעם שצריכה לקבלת אריחים שאל\"כ לא יהיה בה היכר כ\"כ שסבורים בני ר\"ה שלפי שעה הניחו שם אבל כשהיא בריאה וחזקה לקבל בנין כזה ניכר לכל שלקביעות בנין הונחה לשם:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:59"
+        },
+        "60": {
+          "he": "(ס) שאין ברחבן טפח וכו' - דאל\"ה היו המעמידין בעצמן תורת קורה עליהם וגם לא היה בארכן שלש כדי שתהיה הקורה לבוד להכותל וכמבואר הכל בסכ\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:60"
+        },
+        "61": {
+          "he": "(סא) ולקבל חצי לבנה - וכפי המבואר בסעיף י\"ז:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:61"
+        },
+        "62": {
+          "he": "(סב) אלא כדי לקבלה - דהא אין נותנין אריח עליה ובקורה הוא דבעינן קביעות כי היכי דתהוי הכירא מעליא אבל מעמידיה לא תלי הכירא בדידהו [רש\"י] ולכתחלה נכון להחמיר כדעה הראשונה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:62"
+        },
+        "63": {
+          "he": "(סג) הקורה עגולה וכו' - ואף דהשתא כשהיא עגולה אינה יכולה לקבל עליה אריח אפ\"ה כשרה דחשבינן אותה כאלו היתה מתחלקת לשנים [רש\"י]:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:63"
+        },
+        "64": {
+          "he": "(סד) נוטה חוץ למבוי וכו' - דכל אלו דברים שפוסלים בקורה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:64"
+        },
+        "65": {
+          "he": "(סה) רואים כל שאלו ינטל וכו' - והטעם דאמרינן לבוד:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:65"
+        },
+        "66": {
+          "he": "(סו) ואם לאו פסולה - היינו דוקא באופן זה שקצת קורה העקומה הוא חוץ לשיעור הכשר מבוי אבל אם היא כולה בתוך המבוי כדין אפילו אם העיקום הוא הרבה יותר מג' טפחים כשרה דאמרינן רואין כאלו היתה פשוטה [כן מוכח מסתימת לשון הרמב\"ם בפי\"ז הלכה כ\"ו ע\"ש וכן משארי הראשונים אמנם בספר גאון יעקב וכן בחידושי אה\"ע מפקפקין בזה עי\"ש]:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:66"
+        },
+        "67": {
+          "he": "(סז) ואינה נוגעת וכו' - ואפילו מרוחקת משני הכתלים כה\"ג כגון שנעץ עץ באמצע המבוי והניח קורה עליה אמרינן לבוד משני רוחות:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:67"
+        },
+        "68": {
+          "he": "(סח) פסולה - אלא יביא קורה אחרת או יראה למלא הריוח ההוא בחתיכת קורה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:68"
+        },
+        "69": {
+          "he": "(סט) דהיינו טפח - ר\"ל שיהיו שניהן רחבין ביחד טפח:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:69"
+        },
+        "70": {
+          "he": "(ע) ואין בין זל\"ז ג\"ט - חשבינן להו כאלו סמוכות זו לזו מטעם לבוד:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:70"
+        },
+        "71": {
+          "he": "(עא) וי\"א וכו' - ס\"ל דלא שייך כאן להתיר משום לבוד דהא בעינן שיהיה הקורה ראויה לקבל אריח לרחבה וכשהן פרודות הרבה אין יכולת לקבל אריח עליהן:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:71"
+        },
+        "72": {
+          "he": "(עב) בתוך טפח - דהא האריח לרחבו היא מחזקת טפח ומחצה וצריך שיהיה עכ\"פ נסמך ממנו כרבע טפח על קורה זו וכרבע על השניה וא\"כ לא ישאר פירוד ביניהן אלא כשיעור טפח ולא יותר:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:72"
+        },
+        "73": {
+          "he": "(עג) היתה וכו' - כאן בא להוסיף רבותא על סעיף הקודם דאפילו אם לא היו שתי הקורות שאין בכל אחת לקבל אריח עומדות בשוה אלא אחת גבוהה מחברתה עד ג' טפחים ג\"כ כשירה דאמרינן רואין וכו':",
+          "en": "",
+          "ref": "Mishnah Berurah 363:73"
+        },
+        "74": {
+          "he": "(עד) ואת התחתונה וכו' - ר\"ל או את התחתונה [רש\"י]:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:74"
+        },
+        "75": {
+          "he": "(עה) ובלבד וכו' מעשרים - דאם היא למעלה מעשרים אז אפילו התחתונה סמוכה לה בתוך ג' טפחים לא אמרינן כאלו היא למטה מעשרים כיון דעתה עומדת במקום פסול וכן אם התחתונה למטה מיו\"ד והעליונה סמוכה לה בתוך ג' טפחים לא אמרינן רואין את התחתונה כאלו היתה עומדת בשוה עם העליונה כיון דעכשיו אין בה הכשר קורה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:75"
+        },
+        "76": {
+          "he": "(עו) בכוונה - ר\"ל מכוונת והיינו דאפילו אם נחשוב שכבר עלתה זו למטה קצת והתחתונה עלתה למעלה קצת עד שנעשו זו כנגד זו בשוה לא יהיו אז מרוחקין רק פחות מג' טפחים דאז שייך לומר לבוד וכנ\"ל בסעיף הקודם בדעה ראשונה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:76"
+        },
+        "77": {
+          "he": "(עז) ויש פוסלין - משום דס\"ל דלא אמרינן רואין את העליונה וכו' ואע\"ג דלקמן בהל' סוכה בסימן תרל\"א פסק המחבר בפשיטות בס\"ה דאם הסיכוך הוא מבולבל ואחד למעלה ואחד למטה דאם אין ביניהם ג\"ט דאמרינן לבוד שאני הכא דבעינן שיהו ראויין לקבל אריח ובאחד למעלה ואחד למטה אין ראויין לקבל אריח [עו\"ש] והיינו דאפילו אם גבוהות טפח אחד מחבירו ג\"כ לא מהני ואפילו אם עומדות בשוה ממש ס\"ל להדעה זו כדעה שניה הנ\"ל דבעינן דוקא שיהא סמוכות אחד לחבירו לא יותר מטפח וכתב בא\"ר דיש להחמיר כדעה זו:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:77"
+        },
+        "78": {
+          "he": "(עח) מחצלת - שרצה ליפות כח ההיתר ופירס עליה מחצלת וגם קשרה לכותל שלא תנידה הרוח כדי שיהיה עליה שם מחיצה ג\"כ:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:78"
+        },
+        "79": {
+          "he": "(עט) פסולה - אפילו אם המחצלת בעצמה גבוהה עשרה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:79"
+        },
+        "80": {
+          "he": "(פ) ואינה נראית - א\"כ לית כאן היכר:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:80"
+        },
+        "81": {
+          "he": "(פא) קורה רחבה - ר\"ל שהיא רחבה עשרה טפחים והו\"א כיון שהיא רחבה כ\"כ שם מחיצה עליה ולא שם קורה ומחיצה כשרה אינה דהא גבוה מן הארץ הרבה וכמו במחצלת קמ\"ל דכשרה דמפני גדלותה לא נתבטל מינה שם קורה ומחצלת שאני דכיסה את הקורה ואינה ניכרת:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:81"
+        },
+        "82": {
+          "he": "(פב) ונמשכת קצת למטה מעשרה - כמה אחרונים נתקשו בדבריו דמשמע מלשונו דבא לאשמעינן דאפילו קצת מהקורה הרחבה נכנס בתוך עשרה טפחים התחתונים של המבוי ג\"כ כשר דאמרינן רואין את המקצת הזה כאלו אינו והקורה עומדת רק למעלה מעשרה כדין הכשר קורה המבואר בסכ\"ו אבל באמה זה אינו דאם היה נכנס קצת מרוחב הקורה בתוך האויר של יו\"ד התחתונים פסולה דבעינן שיהא החלל של המבוי עד הקורה עשרה טפחים דוקא:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:82"
+        },
+        "83": {
+          "he": "(פג) עקומות על שני וכו' - ר\"ל דהיו עומדות היתדות על שני הצדדים בשיפוע וראשיהם בולטות למעלה מגובה הכתלים:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:83"
+        },
+        "84": {
+          "he": "(פד) ונתן הקורה עליהם - ר\"ל ויש כאן שני ריעותות אחת דאינה מונחת הקורה על הכותל ממש ורק באויר מלמעלה על היתדות שנית דהקורה קצרה מאורך השטח שבין שני הכתלים:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:84"
+        },
+        "85": {
+          "he": "(פה) ואין ביתידות טפח - דאי הוי היתדות רחב טפח לא איכפת לן במה שהקורה עצמה קצרה דהלא היתדות עצמן נחשבין כקורה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:85"
+        },
+        "86": {
+          "he": "(פו) כשרה וכו' - דבמה שאין גבוהים היתדות מכותלי המבוי ג' טפחים אמרינן חבוט רמי והיינו כאלו הקורה נחבט ונשפל אצל הכתלים ואף שעדיין קצר היא כיון שאין בנטייתן של היתדות שלשה וא\"כ הקורה אינה רחוקה ג' טפחים מהכתלים אמרינן לבוד:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:86"
+        },
+        "87": {
+          "he": "(פז) פסולה - דבשיעור שלשה לא אמרינן חבוט בקורה ולא לבוד:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:87"
+        },
+        "88": {
+          "he": "(פח) כשאינו נמוך - ר\"ל שאם הקרקע שבמבוי אינו נמוך מבפנים נגד הכתלים שיעור עשרה טפחים נחשב כאלו אין למבוי מחיצות דאין מחיצה פחותה מעשרה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:88"
+        },
+        "89": {
+          "he": "(פט) מרווחים - ובסיפא מצומצמות דאזלינן לחומרא בכל מקום לענין זה. ושיעור מרווחים יותר על מצומצמות הוא חצי אצבע לאמה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:89"
+        },
+        "90": {
+          "he": "(צ) יותר מעשר - דאם הוא יותר מעשר אין עליו שם פתח ולא מהני לזה לחי וקורה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:90"
+        },
+        "91": {
+          "he": "(צא) מצומצמות - ר\"ל שמודדין לכל אמה את הששה טפחים מצומצמות וכן בסיפא לענין אורך המבוי דבעינן ד\"א מרווחות נמי הכי הוא דמודדין טפחיו מרווחים וא\"כ יתוסף על ד\"א שני אצבעות וכנ\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:91"
+        },
+        "92": {
+          "he": "(צב) ארכו ד' אמות וכו' - דבפחות משיעור זה לא חשובה כמבוי אלא כחצר:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:92"
+        },
+        "93": {
+          "he": "(צג) אלא בצורת הפתח - היינו דאפילו היה נמוך פחות מעשרה טפחים ג\"כ מהני צוה\"פ וכן ברחב מעשר אמות או שלא היה ארכו ד\"א אבל הרבה אחרונים הסכימו לדינא דאם היה חלל המבוי נמוך פחות מעשרה טפחים לא מהני צורת הפתח דאפילו מחיצה לא מהני כל שאינו גבוה יו\"ד וכ\"ש צוה\"פ בעלמא. אכן אם חלל המבוי היה גבוה עשרה טפחים ורק במקום פתח המבוי היה נמוך מעשרה בזה מהני צוה\"פ והוא שהיה עשוי כדין דהיינו שהיו הקנים גבוהין יו\"ד טפחים [הגר\"א]. ודע עוד דאם לא היה ארכו ד\"א דעת כמה פוסקים דדינו כחצר וע\"כ ניתר ג\"כ בפס ארבעה מצד אחד או שני פסין של משהויין משני הצדדין וכן סתם המחבר בעצמו לקמן בסל\"ב והמחבר שכתב אלא בצוה\"פ לאו דוקא נקט:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:93"
+        },
+        "94": {
+          "he": "(צד) בגובה חללו וכו' - אבל אם גובה חללה של המבוי עד הקורה אינו אלא עשרים מצומצמות אע\"פ שהקורה היא למעלה מעשרים כשרה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:94"
+        },
+        "95": {
+          "he": "(צה) אינו ניתר בקורה - דקורה משום היכר ולמעלה מעשרים אין היכר דלא שלטא ביה עינא אבל לחי שהוא סמוך לקרקע וסגי בגובה י\"ט א\"כ מה מזיק מה שהוא גבוה הרבה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:95"
+        },
+        "96": {
+          "he": "(צו) למעטו מכ' - וה\"ה דיכול להשפיל את הקורה גופא ולהניחה בתוך חלל המבוי על יתדות היוצאים מן הכתלים למטה מכ':",
+          "en": "",
+          "ref": "Mishnah Berurah 363:96"
+        },
+        "97": {
+          "he": "(צז) בבנין רחב טפח - וה\"ה עפר כשיעור זה וצריך ליזהר כשנדרס ברגלים שלא יתמעט מכשיעור ברחבו וה\"ה לענין גובהו שלא יתמעט ויהיה יותר מעשרים:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:97"
+        },
+        "98": {
+          "he": "(צח) ברוחב הקורה - דשיעורו טפח וכנ\"ל בסי\"ז. והטעם דמהני רוחב טפח דהא קיי\"ל מותר להשתמש תחת הקורה והעומד על אותו מקום יוכל לראות את הקורה דהא על אותו המקום אינו גבוה יותר מעשרים ואית ביה משום הכירא:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:98"
+        },
+        "99": {
+          "he": "(צט) צריך לחוק ד\"א - והא דלעיל סגי בטפח שאני הכא דבפחות מעשרה טפחים לא מקרי דופן כלל וצריך לשויה דופן ולכך צריך דוקא כשיעור משך המבוי דהוא ד\"א וכנ\"ל בריש הסעיף אבל התם מקרי דופן אלא שהוא גבוה יותר מעשרים אמות ולהכי סגי בטפח כשיעור רוחב הקירה (רש\"י):",
+          "en": "",
+          "ref": "Mishnah Berurah 363:99"
+        },
+        "100": {
+          "he": "(ק) לתוך המבוי - ואם חקק בפחות מזה צריך דוקא פס ד' או שני פסין שני משהויין כדין חצר וכנ\"ל סוף ד\"ה אלא:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:100"
+        },
+        "101": {
+          "he": "(קא) על פני כל רחבו - דאם ישאר הפסק בין החקיקה ובין הכתלים לא יוכלו הכתלים להצטרף להן וכאין כתלים להמבוי דמי. אכן אם ההפסק בין החקיקה ובין הכתלים הוא רק פחות מג' טפחים י\"ל דמהני [פמ\"ג]:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:101"
+        },
+        "102": {
+          "he": "(קב) שני חצרות - הטעם בזה משום דהא דהתירו במבוי בלחי וקורה מחמת דיש בו ריבוי דיורין ואין משתמשין בו בהצנע כ\"כ לפיכך סגי בתיקון כזה משא\"כ בחצר שאין מצוי בו דיורין כ\"כ משתמשין בו בהצנע טפי לכך צריך הכשר טפי שני פסין או פס ד\"ט ולכך ה\"נ במבוי שאין בו שני חצרות פתוחין דיוריהן מועטין ועושין בו תשמישי הצנע ולכן לא סגי בלחי וקורה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:102"
+        },
+        "103": {
+          "he": "(קג) ויש חולקין - דכיון דיכולין לערב יחד דרך הפתחים נחשבו כחצר אחת וה\"ה בבתים הפתוחים זה לזה וכתבו האחרונים דכיון שהוא מלתא דרבנן נקטינן לקולא:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:103"
+        },
+        "104": {
+          "he": "(קד) ואוכל בביתו - לאפוקי אם דרך אכילתו בבית האב:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:104"
+        },
+        "105": {
+          "he": "(קה) שיהא ארכו וכו' - שכן דרך המבוי להיות:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:105"
+        },
+        "106": {
+          "he": "(קו) יותר על רחבו - אפילו משהו [וארכו מקרי דרך כניסתו למבוי ומה שאינו דרך כניסתו מקרי רוחב] דאם ארכו כרחבו הו\"ל כחצר וכדלקמיה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:106"
+        },
+        "107": {
+          "he": "(קז) אחד מאלו - קאי על כל מה שמבואר כאן מן אין מבוי ניתר וכו' וכן הדין לענין כשלא היה אורך המבוי ד\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:107"
+        },
+        "108": {
+          "he": "(קח) אינו ניתר וכו' - דדינו כחצר וע\"כ צריך לזה פס ד' טפחים וכו' וכדלעיל בס\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:108"
+        },
+        "109": {
+          "he": "(קט) או צורת פתח - וזה מהני אפילו ברחב מעשר וכדלעיל בס\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:109"
+        },
+        "110": {
+          "he": "(קי) כל המבואות וכו' - בין סתום מצד אחד בין מפולש משני הצדדין בין רחב עד עשר אמות בין יותר מעשר אמות:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:110"
+        },
+        "111": {
+          "he": "(קיא) דכל המבואות שלנו וכו' - היינו משום דבמבואותינו אין בתים וחצרות פתוחות לתוכו ולכן אין ניתר בלחי וקורה כדין היתר מבוי ואף דבחצר סגי בשני לחיים משני הצדדים בלא צוה\"פ מ\"מ משום דלפעמים המבוי מפולש משני צדדין ואז בודאי צריך להחמיר בו שיצטריך צוה\"פ אף באין בתים וחצרות פתוחות לתוכו מחמת שבראשה פתוח לר\"ה או לכרמלית או שלפעמים רחב יותר מעשר דבזה אפילו בחצר צריך מדינא צוה\"פ וכנ\"ל בס\"ב לכן הנהיגו תמיד לעשות צוה\"פ. והנה לצד השני של מבוי אם אין רחב יותר מעשר אמות יש דעות בין האחרונים דדעת הרבה מהם דשם סגי עכ\"פ בשני לחיים משני הצדדים ולא בעי צוה\"פ וטעמם דממ\"נ אם דינו כמבוי מפולש הלא גם בו קי\"ל לקמן בסימן שס\"ד דא\"צ צוה\"פ רק מצד אחד ובצד השני סגי בלחי אחד או קורה ואם דינו כחצר וכנ\"ל הלא עכ\"פ די בשני לחיים ויש מאחרונים שמצדדין דמצד המנהג יש לעשות בכל צד צוה\"פ. ובודאי צריך לכתחלה ליזהר בזה אך במקום הדחק שנפסק החבל שע\"ג הלחיים בשבת או כל כה\"ג נראה דיש לסמוך עליהם להקל היכא שאין רחב יותר מעשר אמות אף דהוא פרוץ במילואו. והנה במבואות שלנו הנ\"ל שאין בתים וחצרות פתוחות לתוכו אם הוא מבוי עקום יש דעות בין האחרונים אם צריך לעשות תיקון בעקמימותו כדין המבואר לקמן בסימן שס\"ד ס\"ג דיש לומר כיון דמעיקר הדין יש לו דין חצר אין צריך שום תיקון שם ודי במה שעושה התיקון בשני ראשיו ויש מחמירין בזה והמנהג להקל ודע עוד דהא דמבואר דבעיירות שלנו צריך צוה\"פ היינו בעיירות שאינן מוקפות חומה או שמוקפין חומה והחומה נפרצה לר\"ה או לכרמלית ביותר מעשר אמות אבל כשמוקף חומה והחומה לא נפרצה רק שצריך לתקן ולחלק בין מקום שהיהודים דרים שם ובין מקום שהעו\"ג דרים שם כדי שלא יאסרו על היהודים לטלטל אין צריך לעשות שם צוה\"פ רק די בפס רחב ד' טפחים או שני פסין של שני משהויין כשנפרץ שם במלואו ואינו רחב שם יותר מעשר אמות במקום שרוצה לעשות התיקון (אף שהמבוי באמצע רחב יותר מעשר אמות) כי העיר הזו יש לה דין חצר לגמרי. וכשלא עשה שום תיקון בין יהודי לעו\"ג ג\"כ הדין כאן כמו בחצר דמותר לטלטל בכלים ששבתו בתוכו אבל לא לבית ולא מבית לחצר:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:111"
+        },
+        "112": {
+          "he": "(קיב) תחת החבל וכו' - וכיון שהקנים שלמטה גבוהין עשרה טפחים א\"צ עוד קנים למעלה לקשור החבל בהן אלא יכול לקשור החבל נגדן אפילו בגג למעלה מזה ומזה וכדקי\"ל לעיל בסוף סימן שס\"ב דהקנה של מעלה א\"צ ליגע בקנים שלמטה. גם הא דמבואר לעיל בסוף סימן שס\"ב דאין לקשור הקנה של מעלה או החבל מן הצד של הקנים רק למעלה על גביהן הכא כשקושר החבל למעלה על הגג באיזה קנה לא שייך לדקדק באופן הקשירה אם ע\"ג או מצדו כל שהקנים שלמטה מכוונים תחת החבל כשר. אם יש גג שמפסיק בין גובה החבל להקנים שלמטה לא הוי צוה\"פ בזה כיון שהגג מפסיק בין החבל להקנים ואין עושין צוה\"פ בענין זה אלא צריך שיפתח נקב גדול בגג למעלה נגד הקנים בענין שיהיו הקנים מכוונים תחת החבל בלי הפסק:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:112"
+        },
+        "113": {
+          "he": "(קיג) שני קנים - על הארץ אבל כותלי המבוי אין נחשבין במקום הקנים. ואם איכא עמוד בכותל בולט נידון משום קנה אם סמך עליו מע\"ש דלא גרע מלחי בסי\"א. וה\"ה כשיוצאים מהכותל חיפופים פחות פחות מג\"ט עד פחות מג\"ט סמוך לארץ יש לסמוך עליהם מע\"ש לשם קנים של צוה\"פ ובלבד שיהיו מגולים למעלה תחת החבל ויש מחמירין בחיפופים כאלה שאינם עשויים דרך מזוזת הפתח ולא חשיב פתח. אם מעמיד הקנים בתוך הבית או בתוך גדר המוקף מד' רוחותיו לאו כלום הוא ואפילו אם קנה אחד העמיד שם ג\"כ לא מהני:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:113"
+        },
+        "114": {
+          "he": "(קיד) מכוונים תחת החבל - ואם משהו יוצא מן הצד פסול:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:114"
+        },
+        "115": {
+          "he": "(קטו) בתורת צורת פתח - ר\"ל ומהני אפילו ביותר מעשר אמות:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:115"
+        },
+        "116": {
+          "he": "(קטז) שארכו יותר על רחבו - אפילו משהו [גמרא] וארכו מקרי דרך כניסתו. ואינו נידון משום חצר אלא אם ארכו ורחבו שוה או שרחבה יתר על ארכה [המ\"מ]:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:116"
+        },
+        "117": {
+          "he": "(קיז) שאין ברחבו ג' טפחים - וכתבו המפרשים דאם אין בפתחו רוחב ג' א\"צ תיקון אע\"פ שבתוכו רחב הרבה, וכן להי\"א דס\"ל דבעינן דוקא רוחב ד' ג\"כ מיירי שהיה רוחב ד' בכל הכתלים אבל היכי שמתקצר סמוך לפתחו א\"צ תיקון אפילו תוכו רחב הרבה. והנה מהמחבר משמע דס\"ל לעיקר כדעה ראשונה דהיכי שרחב ג' צריך תיקון ועיין בד\"מ שחולק ודעתו דנוכל להקל בזה כדעה אחרונה עי\"ש ולענ\"ד נראה דאף אם נחמיר כדעה ראשונה דהיכא שרחב ג' צריך תיקון היינו דוקא היכא שמבפנים היה עכ\"פ רחב ד' אלא שמתקצר בפתחו כנ\"ל אבל היכי שבכולו אינו רחב ד' בודאי יש להקל:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:117"
+        },
+        "118": {
+          "he": "(קיח) כלה לים - ר\"ל שהיה להמבוי שני צדדים מבתים וחצרות ושני ראשיה שממזרח וממערב אחד היה כלה לים ואחד היה כלה לאשפה שגבוה יו\"ד טפחים מן הקרקע ועל כן אינו צריך כלום שגם הים נחשב למחיצה שעמוק יו\"ד טפחים בשפתו והמים אינם מבטלין המחיצה כמש\"כ סימן שנ\"ו וכתב המ\"א דהכא מיירי במקום שאין הספינות עוברות שם לנמל דאל\"ה אתו רבים ומבטלי מחיצתא אבל כמה אחרונים פליגי ע\"ז וס\"ל דאפילו כשהספינות עוברות שם לא נתבטל עי\"ז שם מחיצה משפת הים. [אכן כשראש אחד מן המבוי כלה לנהר ויש גשר עליו שמהלכין בו רבים לעבר השני משמע מכמה אחרונים דע\"י הגשר מתבטל המחיצה וצריך לעשות צורת הפתח במקום הגשר]. וכל זה דוקא כששפת הים או הנהר היה עמוק עשרה טפחים אבל אם שפת הים והנהר משופע והולך אם כשהולך השיפוע ד' אמות עדיין אינו גבוה יו\"ד טפחים אינה מחיצה דכקרקע שוה דמי:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:118"
+        },
+        "119": {
+          "he": "(קיט) אינה עשויה להתפנות - שהרי כל היום משליכין שופכיהן וזבליהן שם ולא תחסר גובהה אבל אשפה דיחיד אע\"ג דהשתא גבוה יו\"ד טפחים למחר ינקנה ויחסר גבהותה ואם נתיר עתה לטלטל יטלטל גם אח\"כ כשיחסר גבהותה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:119"
+        },
+        "120": {
+          "he": "(קכ) ואין חוששין וכו' - ר\"ל שגם אין חוששין שמא יתקלקל המחיצה שלצד הים ונמצא שאין למבוי מחיצה רביעית:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:120"
+        },
+        "121": {
+          "he": "(קכא) יעלה הים שרטון - שכן דרך הים שמעלה חול ואבנים אצל שפתו ומתקצר ונעשה קרקע ברוחב פרסה ובטלי המחיצות ומטלטלי נמי במבואות כדמעיקרא [וכ\"ז כשאין מדרון אלא במקום המים בלבד אבל אם יש על שפתו מדרון המתלקט עשרה טפחים מתוך ד' אמות ה\"ז נחשב למחיצה בכל ענין] והסכימו האחרונים להחמיר כדעה זו ודוקא בימים אבל בנהרות לא חיישינן שיעלה שירטון ונחשב שפת הנהר למחיצה כשיש בגובהו יו\"ד טפחים [אכן הנהרות שדרכן להתייבש בקיץ וכשמתיבשין אין במדרון שלהם גבוה יו\"ד טפחים מתוך ד\"א יש לאסור בלא תיקון אפילו כשלא נתייבש דחיישינן שיתייבש ולאו אדעתיה] ועכ\"פ בעינן שיהא הנהר סמוך ממש לראש המבוי אבל אם הוא רחוק מהבתים יותר מעשר אמות צריך תיקון דאותו מקום הוי פרוץ ואם נקרשין בימות הגשמים בטלה אז המחיצה ואסור לטלטל ויש מאחרונים שסוברין דלא נתבטל המחיצה ע\"י הקרישה. ואם שפת הנהר גבוה ומתלקט עשרה טפחים מתוך ארבע אמות עד מקום הקרישה בודאי יש להקל:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:121"
+        },
+        "122": {
+          "he": "(קכב) ואין כאן מחיצה - וע\"כ צריך תיקון כשאר מבוי הפרוץ ברוח רביעית בצורת הפתח או בלחי או בקורה. עיר שמוקף סביבה חריץ שעמוק עשרה טפחים ורחבה ארבעה טפחים הוי כמוקף חומה סביבה וא\"צ שום תיקון ואם יש גשר ע\"ג החריץ שהולכין דרך שם למבואות העיר נתבאר למעלה שצריך לעשות שם תיקון:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:122"
+        },
+        "123": {
+          "he": "(קכג) שצדו אחד ארוך - ונמשך כותלו לר\"ה יותר מכותל השני:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:123"
+        },
+        "124": {
+          "he": "(קכד) אפילו אין צד וכו' ארבע אמות - וה\"ה אפילו פחות מזה ג\"כ אין מניח אלא כנגד הקצר דוקא ולא באלכסון והטעם דקורה משום היכר עשויה כדי דלא ליתי למיחלף בר\"ה ובאלכסון לא הוי היכר והיינו דאם יניחו באלכסון וישתמש בצד הארוך נגד הארוך שאין דופן כנגדו הרואה זה יאמר שמותר להשתמש בר\"ה לפי שאין אותו עודף דומה שיהא מן המבוי וזהו הטעם דהתיר אח\"כ בשו\"ע להניח הקורה בתוך המבוי באלכסון ששם לא יבואו עי\"ז לטעות להתיר להשתמש בר\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:124"
+        },
+        "125": {
+          "he": "(קכה) יעשה שם צו\"פ באלכסון - וישתמש בקצר כנגד קצר ובארוך כנגד הארוך והטעם דצו\"פ הוי כמו מחיצה גמורה ומחיצה גמורה בודאי מהני אפילו באלכסון ואפילו היה רחב פתח המבוי יותר מעשר אמות ג\"כ מותר ע\"י צוה\"פ כדלעיל בריש סכ\"ו אבל אם יעמיד לחי אחד אצל הארוך ולחי אחד אצל הקצר אינן מועילים להשתמש באלכסון ואפילו לא היה האלכסון יותר מעשר אמות שאף שהלחי אינו משום היכר בלבד אלא משום מחיצה מ\"מ לחי שבצד הארוך אינו מועיל להתיר להשתמש אצלו הואיל ואין שם מחיצה כנגדו ואינו מותר להשתמש אלא נגד הלחי שעומד בצד הקצר שהוא מתיר רק נכחו ביושר. אמנם זהו דוקא במבוי שמותר בלחי אחד אבל בחצר שצריך שני פסין או במבואות שלנו שיש להן דין חצרות אפילו עד מקום הקצר ג\"כ אינו מותר להשתמש אחרי שלא נוכל לצרף אליו הלחי האחר שאינו עומד נגדו וע\"כ צריך ליזהר במקום שמעמיד שני לחיים שיעמידם בשוה זה נגד זה ולא באלכסון [ח\"א] ובצורת הפתח מהני אפילו באלכסון וכנ\"ל. כתב בחידושי הרשב\"א דצוה\"פ מהני אפילו היה צד אחד עודף על חבירו ד' אמות ויותר דהוא כמו מחיצה גמורה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:125"
+        },
+        "126": {
+          "he": "(קכו) יכול להניח וכו' - עיין בט\"ז שמצדד דדוקא אם באלכסון אינו יותר מעשר אמות דאל\"ה אסור ועיין בבה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:126"
+        },
+        "127": {
+          "he": "(קכז) עד שיערבו יחד - ר\"ל שישתתפו יחד. וטעם הדבר דהנה דרך המבואות לאחר שתקנום בלחי או קורה להשתתף כל הדרים במבוי יחד [דכשלא ישתתפו יהיו אסורים להוציא מהחצרות למבוי] וכיון שההרגל כן הוא שוב אסורים בני מבוי ליחלק לחצאין ולעשות כל אחד שיתוף בפ\"ע דאסרי הני אהני משום דהוי כמבוי ששכח אחד מן החצרות ולא נשתתפה בו דאסרה אכולה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:127"
+        },
+        "128": {
+          "he": "(קכח) ולא עשו וכו' - דכיון שלא עשו לחי ואין יכולין לטלטל במבוי א\"כ אינם ראוים להשתתף יחד לכן אין בכחן לאסור על הפנימית ואפילו יש להם דריסת הרגל עליהם [פמ\"ג]:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:128"
+        },
+        "129": {
+          "he": "(קכט) ממנו ולחוץ אסורים - דחשבינן כאלו המבוי הותחל מן הלחי ולפנים:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:129"
+        },
+        "130": {
+          "he": "(קל) אבל אם עשו באמצע וכו' - בזה מתחלקים הרשויות מהדדי והוי כאלו מחיצה ביניהם ואין יכולין לאסור אלו על אלו ודוקא כשאין להם דריסת הרגל זה על זה כגון שיש להם פתח אחר אבל בלא\"ה אפילו דלת לא מהני:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:130"
+        },
+        "131": {
+          "he": "(קלא) שני פסים - של משהויין משהו מכאן ומשהו מכאן. ואפילו חצר יכולין לחלק בכה\"ג עיר המוקפת חומה וננעלו הפתחים בלילה ופתח אחד אין ננעל ומ\"מ הוי כלחי ע\"י פתח ההוא אין מערבין אותה לחצאין אבל אם נפרץ פרצה בטל הכשרה [ועיין סי' שס\"ה ס\"ב ע\"י איזה פרצה בטל ההכשר] של העיר ויכולין לערב חציה ולהניח חציה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:131"
+        },
+        "132": {
+          "he": "(קלב) וכל זה ביש וכו' - האי וכל זה קאי אמה שהכשרנו בהעמיד לחי באמצע המבוי כשלא עשו לחי בראש המבוי וקאמר דהוא דוקא שבחצי המבוי זה לבד ג\"כ יש עליו שם מבוי דיש לו כל התנאים הצריך לזה [וכדמסיים השו\"ע וכמ\"ש לעיל בסכ\"ו] הא לא\"ה יש לו דין חצר וצריך פס משהו וכו' וכדלעיל בס\"ב ולא קאי השו\"ע באם עשו גם לחי בחוץ וערבו יחד דע\"ז לא צריך שבאותו חצי המבוי יהיו לו כל הפרטים דמצטרף כל המבוי ביחד לזה [פמ\"ג] וע\"ש מה שכתב עוד בזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:132"
+        },
+        "133": {
+          "he": "(קלג) שהוא רחב כ' אמות - ומיירי שאינו רוצה לעשות צוה\"פ בפתח המבוי דזה מהני אפילו רוחב המבוי כמה כדלעיל בסוף סכ\"ו:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:133"
+        },
+        "134": {
+          "he": "(קלד) רחב ד\"א - ובפחות מכאן לא מהני אע\"פ שכל צד הוא פחות מיו\"ד דאתי אוירא דהאי גיסא ודהאי גיסא ומבטל ליה משא\"כ כשעושהו רחב ד\"א כשיעור משך כותל מבוי וכנ\"ל בסכ\"ו אין אויר שמכאן ומכאן יכול לבטלו שאין אויר יכול לבטל כותל מבוי. ומש\"כ ומעמידו באמצע היינו לארכו של מבוי:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:134"
+        },
+        "135": {
+          "he": "(קלה) כיון שאורך וכו' - וצריך ג\"כ שלא יהיה הפס נמוך מעשרה טפחים וכדין כותל של מבוי וכנ\"ל בסכ\"ו:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:135"
+        },
+        "136": {
+          "he": "(קלו) בראשו - היינו שיגיע מכותל אחד של מבוי עד הכותל שכנגדו כדי להתיר שני הצדדים וה\"ה שיכול לתקנן ע\"י לחיים לחי מכאן ולחי מכאן או לחי באחד וקורה באחד [היינו שראש אחד על כותל המבוי וראשו השני על הפס] כשאר מבואות:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:136"
+        },
+        "137": {
+          "he": "(קלז) מונחת על הפס וכו' - לאפוקי אם הפס נמוך אף שהקורה מגעת מכותל זה עד הכותל שכנגדו לא מהני דהרי ע\"י הפס נחשב כשני מבואות דהוא חשוב ככותל וא\"כ כל מבוי אין הקורה שלו מונח רק על כותל אחד:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:137"
+        },
+        "138": {
+          "he": "(קלח) או תוך וכו' - דהוי כלבוד:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:138"
+        },
+        "139": {
+          "he": "(קלט) וכל תנאי מבוי - המבואר לעיל בסכ\"ו דלא\"ה דינו כחצר ואין קורה מועיל בו אלא שני לחיים של משהו בשני צדיו כמבואר לעיל בס\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:139"
+        },
+        "140": {
+          "he": "(קמ) ומה שמן הפס וכו' - ר\"ל חוץ תיקון הקורה שעושה בפתח המבוי צריך לעשות עוד תקון בסוף אורך הפס כדין מבוי עקום המבואר בסימן שס\"ד סוף ס\"ג ואפי' אין שם עשר אמות מן סוף אורך הפס עד כותל האמצעי:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:140"
+        },
+        "141": {
+          "he": "(קמא) מתעקמים ובאמצע פתוחים - צ\"ל מתעקמים באמצע ופתוחים:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:141"
+        },
+        "142": {
+          "he": "(קמב) בשני ראשיהן לר\"ה - וע\"כ צריך לעשות צוה\"פ בסוף אורך הפס עד כותל האמצעי כנגדו ודמי כמו שהיה עושה פס לאורך כל המבוי:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:142"
+        },
+        "143": {
+          "he": "(קמג) דאין לו דין מבוי עקום וכו' - דאע\"ג דמבואר לקמן בסימן שס\"ד במבוי עקום שעשוי כמין חי\"ת אפילו אין מפתיחת עקמימותו עד כותל האמצעי עשר אמות נמי צריך שם תיקון שאני התם דהוא עקום ממש אבל הכא יש לומר שע\"י הפס נעשים כשני מבואות שמחולקים לגמרי עד סופם ואף דאין הפס מגיע עד כותל האמצעי מ\"מ כיון דאין מן סוף הפס עד כותל שכנגדו יותר מיו\"ד אמות נחשב כפתח ודמי כשני מבואות שמחולקים לגמרי אלא שיש פתח מאחד לחבירו משא\"כ ביותר מעשר אמות א\"א לומר דהוי כפתח וע\"כ דינו כמבוי עקום ולדינא הסכימו האחרונים דהעיקר כסברא הראשונה ועיין בבה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:143"
+        },
+        "144": {
+          "he": "(קמד) יותר מעשר אמות - כצ\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:144"
+        },
+        "145": {
+          "he": "(קמה) ויעשה פס רחב ג\"א - דנעשה עי\"ז עומד מרובה על הפרוץ שבצדו ונחשב כסתום ואע\"ג דבעלמא קי\"ל דפרוץ כעומד נמי שרי כמבואר בשס\"ב ס\"ט שאני הכא דהוא פרוץ גם מצד השני ובכגון זה דשוין אמרינן אתי אוירא דהאי גיסא ודהאי גיסא ומבטל ליה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:145"
+        },
+        "146": {
+          "he": "(קמו) וישאר פתח רחב עשר אמות - ומ\"מ צריך לחי או קורה להתיר המבוי דלא עדיף משאר מבואות דעלמא. ונותן הקורה רק על שטח העשר אמות [וכן כשעושה הלחי יעמידו בראש העשר אמות] דמן הפסין ולהלן עד הכתלים ניתרין בלא\"ה משום עומד מרובה על הפרוץ:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:146"
+        },
+        "147": {
+          "he": "(קמז) וכן כל כיו\"ב - דהיינו שירחיק ארבע אמות מהכותל ויעשה פס של שש אמות [רש\"י]:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:147"
+        },
+        "148": {
+          "he": "(קמח) וצריך ליזהר וכו' - אבל מן הסתם אין חוששין שמא ילכו בקטן ויניחו הגדול שחזקה אין אדם מניח פתח גדול ונכנס בקטן:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:148"
+        },
+        "149": {
+          "he": "(קמט) שאם עשה כן וכו' - ר\"ל שעי\"ז יתבטל תורת פתח מן הגדול ובטל הלחי או הקורה המתוקן בו ונמצא מבוי זה בלא תיקון:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:149"
+        },
+        "150": {
+          "he": "(קנ) לזוטא - עיין בחידושי רע\"א שמתמה מאי מהני במה דעושה צוה\"פ לזוטא אחרי שנתבטל תורת פתח מן הגדול והנכון כמו שכתב בספר תפארת שמואל שט\"ס הוא וצ\"ל לרבא והשתא אתי שפיר דאחרי שנעשה צוה\"פ לא נתבטל שם פתח ממנו אף אם לא ילכו בו:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:150"
+        },
+        "151": {
+          "he": "(קנא) כשלם דמי - ר\"ל וע\"כ אין שייך לומר בזה אתי אוירא דהאי גיסא ודהאי גיסא ומבטל ליה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:151"
+        },
+        "152": {
+          "he": "(קנב) ומדרון לר\"ה - שהיה קרקע המבוי גבוה מקרקע ר\"ה והוצרך לשפע אצל פתחו לצד ר\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:152"
+        },
+        "153": {
+          "he": "(קנג) או ששוה לר\"ה וכו' - שהיה ר\"ה גבוה מקרקע המבוי וכניסת המבוי נמי מן הפתח ולפנים גבוה כקרקע ר\"ה ברוחב אמה או חצי אמה ואח\"כ הוא נעשה מדרון לצד דופן האמצעי:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:153"
+        },
+        "154": {
+          "he": "(קנד) שמגביה עשרה וכו' - ר\"ל שאם השיפוע ארכה ד' אמות אז כבר הוגבה הקרקע למעלה עשרה טפחים הוי כמחיצה אבל אם מתלקט יו\"ד מתוך ה' אמות כמאן דליתא דמיא וכשאר קרקע דמיא דניחא תשמישתיה להילוך:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:154"
+        },
+        "155": {
+          "he": "(קנה) ואינו צריך שום תיקון - דאותו גובה שבצד הפתח הו\"ל מחיצה אע\"פ שהוא משפע והולך וזהו שמסיים רמ\"א ובזה התל וכו':",
+          "en": "",
+          "ref": "Mishnah Berurah 363:155"
+        },
+        "156": {
+          "he": "(קנו) ובזה התל וכו' - ואם כל העיר מוקפת תל ואח\"כ בנו בה בתים אסור דלא הוי מוקף לדירה וכמש\"כ סימן שנ\"ח ס\"ב וע\"ש ס\"ח דאפילו בנה מחיצות גבוה יו\"ד על התל לא מהני ואם התל היה פחות מיו\"ד טפחים והשלים עד יו\"ד טפחים מהני דזה ההיקף הוי מוקף לדירה דנעשה אחר שנבנה העיר. וע\"כ יכול לתקן אפילו אם היה התל סביב העיר כולו דהיינו שיפחות מהתל בשטח יותר מעשר אמות ברוחב עד שלא יהיה בגובה עשרה טפחים דבזה חשוב כפרצה ואח\"כ ישלים זה השיעור ובזה מהני וכדלעיל בסימן שנ\"ח ס\"ב ע\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:156"
+        },
+        "157": {
+          "he": "(קנז) כמחיצה - ואם יש סביב העיר חריץ עמוק יו\"ד טפחים ורוחב ד' טפחים דהוי כמחיצה ונסתם החריץ ע\"י עפר וצרורות אם אין הסתימה עולה ביותר מעשר אמות הרי הוא כפתח ואינו אוסר אבל אם הוא יותר מעשר אמות הרי הוא כפרצה:",
+          "en": "",
+          "ref": "Mishnah Berurah 363:157"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

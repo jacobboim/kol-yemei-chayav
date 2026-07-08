@@ -1,0 +1,135 @@
+{
+  "chelek": "YD",
+  "siman": 396,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 3,
+  "fetchedAt": "2026-07-08T00:01:46.961Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין אבל שלא נהג אבלותו כל שבעה. ובו ג' סעיפים:אבל שלא נהג אבלותו תוך שבעה בין בשוגג בין במזיד משלים אותו כל שלשים חוץ מהקריעה שאם לא קרע בשעת חימום אינו קורע אלא תוך שבעה חוץ מאביו ואמו שקורע אפילו לאחר שבעה:",
+      "en": "A mourner who did not observe his mourning rites during the seven [days of mourning], whether inadvertently or wilfully,1Or in the case of an unavoidable interference through no fault of his own — A.H. may make up for it2Lit. ‘complete.’ e., the mourning rites. during the entire thirty [days of mourning] save for the rending of garments3 supra § 340, 18. [concerning which the law is] that if he did not rend garments at the moment of excitement,4Immediately after death. he may rend only during the seven days [of mourning] save [in the case of] his father or mother [the law is] that he may rend even after the seven days [of mourning].5Tur on the authority of RaBaD, derived from M.K. 20a where it is stated that if one observed the rite of overturning the couch three days prior to a Festival, he is not required to overturn it any more after the Festival. Since it states (M.K. ibid.) ‘if one observed’ and it does not say, ‘one who buried his dead three days prior to the Festival,’ RaBaD infers that only if the mourner observed mourning rites before the Festival is the mourning period interrupted by the intervening Festival, but not otherwise. Consequently, the mourning rites must be observed after the Festival. However, this excludes rending of garments which must be done immediately after death from the moment of excitement’ (שעת חימום), and the entire seven days are considered a ‘moment of excitement.’ Hence, the ruling here. Thus also Asheri and N in T.H. One who was ill or was not in a normal state of mind at the time his near-of-kin died and consequently, did not rend garments, should rend his garments when he becomes well again, even during the entire thirty days, for when he ultimately becomes aware of his loss, it is considered for him a moment of excitement — ShaK, BaḤ and A.H.  Ba’er Heteb and Naḥ. Ẓebi.",
+      "ref": "Shulchan Arukh, Yoreh Deah 396:1"
+    },
+    {
+      "seif": 2,
+      "he": "במה דברים אמורים בשלא נהג אבלות כלל כל שבעה אבל אם זלזל במקצת הימים ולא נהג בהם אבלות כגון מי שאמרו לו שמת לו מת ביום הא' והיה בעיר אחרת ולא נהג אבלות וביום השני בא לעירו ונהג אבלות אין צריך להשלים ומונה שבעה מיום הראשון:",
+      "en": "This6The ruling in par. 1 supra. applies only if he did not observe mourning rites at all for the entire seven [days of mourning], but if he was neglectful in [the observance of] some days during which he did not observe mourning rites, e.g., one who was informed on the first day that he suffered a bereavement, and [at the time this was reported to him] he was in another town and did not observe mourning rites,7The same applies even if he were in the same town — A.H. and on the second day he arrived in his own town and observed mourning rites, — [the law is that] he is not required to complete [the days of mourning that he missed], but counts the seven days from the first day.8Tur citing Asheri Resp. If one was informed that he suffered a bereavement and then commenced mourning rites, after which this report was denied, and consequently, he discontinued the observance of mourning rites, but then he was again informed that the original death report was correct, the law is that although on account of the denial he neglected the observance of mourning during some of the seven days, nevertheless, the days missed are counted in the seven days of mourning. Likewise, if one received a report that his father died and a relative of his informed him that the death report was incorrect and after two days elapsed the relative informed him that the original report was correct, the law is that the mourner counts from the time he received the first death report — P.Tesh.",
+      "ref": "Shulchan Arukh, Yoreh Deah 396:2"
+    },
+    {
+      "seif": 3,
+      "he": "קטן שמת אביו ואמו ואפילו הגדיל תוך שבעה בטל ממנו כל דין אבלות ואינו חייב בו :",
+      "en": "A minor9Mourning does not obtain in the case of a minor.  M.K. 14b and cf. Pes. 93a s.v. וכן קטן; San. 47b. s.v. הלכך הואיל. whose father or/and mother died, even if he became of age within the seven [days of mourning], — the entire law of mourning lapses from him10On this question there is a difference of opinion between R. Meir of Rothenberg and his disciple Asheri. According to the former mourning does not obtain in the case of a minor, but he must count the seven and thirty days of mourning and thus observe mourning rites from the moment he becomes of age. The latter, however, exempts him even when he becomes of age (thus ruling of Caro here), since mourning did not apply to him at the time of burial. This is not to be compared to a Festival, in which case mourning is postponed until after the Festival (v. infra § 399), for in the latter case the individual proper was obligated to observe mourning rites, only that the Festival interrupts this. Moreover, on a Festival private mourning is still observed. Nor is this case be compared to the law of Habdalah with respect to a mourner (v. supra § 341, 23 and notes), for the Habdalah prayer may be recited during the first three days of the week (v. ibid.), whereas mourning rites take effect from the moment the tomb is closed by the Golel, and since at that moment the minor was exempt, mourning no longer takes effect.  TaZ for lengthy discussion on this ruling who finally agrees with Caro. and he is not obligated therein.11The twelve month period, however, should be observed by the minor who became of age after burial, since this is done out of deference to one’s parents and is considered an independent mourning rite not connected with the seven and thirty days of mourning. Consequently, it does not depend upon the closing of the tomb by the Golel — A.H. As to rending of garments in the case of a minor, v. supra § 340, 27.",
+      "ref": "Shulchan Arukh, Yoreh Deah 396:3"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "טור בשם הראב\"ד וכן כתב הרמב\"ן בסת\"ה והרא\"ש בפ\"ג דמ\"ק בשמו ולמד כן מדקתני בברייתא במ\"ק דף כ' ע\"א קיים כפיית המטה וכו' ולא קתני הקובר מתו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 396:1"
+        },
+        "2": {
+          "he": "שם בשם אביו הרא\"ש בתשובות כלל כ\"ז:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 396:2"
+        },
+        "3": {
+          "he": "ג\"ז שם בשם אביו הרא\"ש בפסקיו בסוף מ\"ק ומטעם שכתב שם שיש לחלק בין היכא דגברא בר חיובא הוא ויומא לא גרים לקטן שבעת שהיה לו להתאבל נפטר מחמת קטנות פקע מיניה חיוב אבילות לעולם וכו' ועוד כתב לחלק בין היכא דיש בידו לבטל הדיחוי שלו מה שאין כן קטן דאין בידו לבטל הדיחוי שלו וכו' ע\"כ ומטעמים אלו לענ\"ד אין סתירה למה שפסק ב\"י לעיל סי' שמ\"א דמבדיל אחר שיקבר המת וק\"ל: (°) ודין הקריעה לקטן עיין בסימן ש\"מ סעיף כ\"ז:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 396:3"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "אינו קורע כו'. כתב הב\"ח דהיכא שהיה אנוס כגון שהיה חולה ומסוכן שאי אפשר לקרוע או כגון שאין דעתו צלולה ומיושבת עליו וחזר לבוריו ולדעתו אחר שבעה שחשוב עכשיו כשעת חימום דל\"ד לשוגג או מזיד דעבר שעת חימום כיון שהיה בריא בשעה ששמע שמת לו מת וחייב באותה שעה אבל זה לא נתחמם אלא בשעה שחזר לבוריו ודעתו צלולה ומיושבת ובאות' שעה חל עליו חובת קריעה ע\"כ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 396:1"
+        },
+        "2": {
+          "he": "אפילו לאחר שבעה. כדלעיל סי' ש\"מ ס\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 396:2"
+        },
+        "3": {
+          "he": "ואפילו הגדיל. והב\"ח פסק כדעת מהר\"ם דבהגדיל תוך ל' מונה ז' ול' משעה שהגדיל אבל אם הגדיל אחר ל' בטל ממנו גזירת ז' ול' ע\"ש מיהו מה שהקשה מלעיל סי' שמ\"א ס\"ב דמבדיל אחר שיקבר המת בקל יש לחלק ביניהם עיין שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 396:3"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "חוץ מהקריעה כו'. לע\"ד נראה אם היה חולה ודעתו אינה מיושבת מחמת חולי לא אזלינן בזה בתר שעת חימום דהא אין יודע להתחמם אלא כשתבוא לו דעה צלולה כשאר כל אדם אז הוה חימום שלו אבל לא אכפת לן במה שהוא אינו יכול לקרוע מחמת שהוא מסוכן בחליו דסוף סוף ידע בחימום בעת ההיא ועל כן פטור אח\"כ מלקרוע כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 396:1"
+        },
+        "2": {
+          "he": "קטן שמת כו' ואפי' הגדיל כו'. דין זה הוא במחלוקת בין מהר\"ם להרא\"ש תלמידו בסוף מועד קטן דמהר\"ם סבירא ליה חייב להתאבל אחר שיגדיל שבעה ושלשים מיום שנעשה גדול והוה כשמע שמועה קרובה ברגל שמתאבל אחר הרגל ז' ול' ואע\"ג דהתם ימי הרגל עולין למנין שלשים היינו לפי שנהג בהם איסור גיהוץ ותספורת אבל כאן בקטנותו לא נהג כלום ואע\"פ שיש לחלק קצת בין שמע ברגל לנדון זה דהתם גברא בר חיובא הוא אלא דיומא הוא דקגרים אבל הכא גברא לאו בר חיובא הוא כלל וא\"כ נימא כיון דבשעת מיתה לא היה ראוי להתאבל יפטור עולמית הא ליתא דאין דיחוי אצל מצות כדאיתא פרק כיסוי הדם כו' והרא\"ש חולק ואומר תופס אני אותה סברא שיש לחלק בין היכא דגברא בר חיובא הוא ויומא גרים לקטן דבשעה שהיה לו להתאבל פטור מחמת קטנות פקע מיניה חיוב אבילות לעולם ודמי להא דאמר בפרק מי שהיה טמא קטן שהגדיל בין ב' פסחים דסבר רבי נתן שני תשלומין לראשון וכל שאינו זקוק לראשון אינו זקוק לשני וכן נמי הא דיושבים על שמועה קרובה ז' ול' אינה מצוה בפני עצמה אלא תשלום לאבלות שהיה לו לעשות מיד אחר הקבורה כשידע וכשלא ידע תקנו שיש לו תשלומין כל שלשים יום והיכא דידע ולא נתחייב לא שייך ביה תשלומין מידי דהוה אחיגר ביום ראשון ונתפשט ביום שני של חג דלא שייך ביה תשלומין כו' ע\"כ. וכ' רבינו ירוחם שיש לפסוק כמהר\"ם שהוא רבו של הרא\"ש והב\"י הכריע כהרא\"ש דהלכה כדברי המיקל באבל וכן פסק כאן בשו\"ע דפטור ובימי חרפי בא מעשה זה לידי בקטן שהגדיל תוך ז' ועיינתי בו והוקשה לי בדברי הרא\"ש שכתב דאבלות הוה בו משום תשלומין דבזה אין שייך תשלומין אלא כל יום מן הז' הוא מצוה בפ\"ע דהא פסקינן כאן סעיף ב' אם זלזל במקצת ז' הימים דא\"צ להשלים ולמה כתבו הטור והשו\"ע אפי' הגדיל בתוך שבעה. והרציתי הדברים הללו לפני מו\"ח ז\"ל והשיב לי שבלא\"ה סותרים דברי השלחן ערוך זה את זה דבפרק מי שמתו יש ג\"כ פלוגתא בין הרא\"ש ורבינו יהודה ובין מהר\"ם לענין הבדלה דרבינו יהודה היה אונן במ\"ש ולא הבדיל ולמחר ביום א' אחר הקבורה לא רצה ג\"כ להבדיל מאחר שהיה פטור בשעת חיוב הבדלה ודומה לחיגר שנתפשט ביום שני שזכרתי לעיל והואיל ונדחה ידחה ומהר\"ם חולק שם וס\"ל ביום המחרת חייב להבדיל דהא קי\"ל מי שלא הבדיל במ\"ש מבדיל והולך כל השבת כולה והרא\"ש כ' שם שהוא הסכים לרבינו יהודה דהא דאמרינן מי שלא הבדיל במ\"ש כו' היינו כשלא היה לו יין במ\"ש או אונס אחר שלא היה יכול להבדיל אבל אונן דבשעה שחל עליו חיוב הבדלה היה פטור לגמרי תו לא מתחייב ודמיא לחיגר דלעיל ע\"כ והנה לעיל סי' שמ\"א פסק השו\"ע שחייב להבדיל והיינו כמהר\"ם וכאן פסק דפטור כשהגדיל והיינו כהרא\"ש דטעם אחד לשתי הפלוגתות ואין ישוב לזה וע\"כ פסק הוא בכל מקום כמהר\"ם שהוא רבו של הרא\"ש וגם כאן חייב בז' ושלשים דלא כפסק הש\"ע וכן קבע הוא בחיבורו על היורה דעה כאן ואני בעניי תמהתי ונפלאתי על פסק זה שנחלקו בו אבות העולם מהר\"ם והרא\"ש ומתירא אני להכניס ראשי החלש בין הרים גדולים מאורי ישראל ומ\"מ עצור במלין לא אוכל כי תלמוד ערוך הוא פסק זה לפע\"ד שלא כדברי מהר\"ם ולא כדברי הרא\"ש במחילה מכבודם וע\"פ זה יתבאר שפסקי הש\"ע הם דברי אלהים חיים: אמרינן בפרק נגמר הדין (סנהדרין דף מ\"ז) בהא דאמרינן לא היו קוברין אותן הרוגי בית דין בקברות אבותם ואי ס\"ד כיון דאיקטל הוי ליה כפרה ליקברו ומשני מיתה וקבורה בעינן מתיב רב אדא לא היו מתאבלין על הרוגי ב\"ד אלא אוננין ואי ס\"ד כיון דאיקבר הוה ליה כפרה ליתאבלו ומשני בעינן נמי עיכול בשר. רב אשי אמר לעולם לא בעינן עיכול בשר אלא צערא דחיבוט הקבר פורתא וטעמא דלא היו מתאבלין משום דאבילות מסתימת הגולל חיילא כפרה מאימת הויא מכי חזי צערא דקברא פורתא הלכך הואיל ואידחו ידחו פירש\"י הואיל ונדחו שלא נראו להתאבל בשעת התחלת האבלות ידחו אף לאחר מכאן ואע\"ג דגבי קובר את מתו ברגל תנן מונה ז' ימים אחר הרגל ולא אמרינן הואיל ונדחו ידחו התם לא אידחו לגמרי שהרי אמרי' כל שהוא משום עיסקי רבים אין הרגל מפסיקן ורבים באים לנחמו עכ\"ל: והנה אתה רואה ק\"ו כאן דמה כאן בפרק נגמר הדין דאחר סתימת הגולל לא היה שום אבילות בעולם כיון דהמת לא חזי לכך דלא הוי ליה כפרה עדיין והיה מן הראוי לומר דאחר שיהיה קצת בקבר ויכופר אז יתחיל אבילות שלו כדרך שמתחיל בשאר מתים אחר סתימת הגולל אפ\"ה לא אמרינן כן אלא אמרינן הואיל ואידחי בשעה שמתחיל לשאר העולם לא יתאבלו עליו כלל אח\"כ ק\"ו כאן שהיה אבילות בעולם והמתאבל לא חל עליו החיוב פשיטא הואיל ואידחי בשעת החיוב ידחה לעולם ופשוט דהלכה כרב אשי דבתרא הוא ותו אני אומר דגם תירוץ הראשון בגמ' אינו חולק על האי סברא דאידחי אידחי דאל\"כ לדידיה נמי קשה יתאבלו על הרוגי ב\"ד דלאחר העיכול דאז יש להם בודאי כפרה אלא פשיטא דבזה אמרינן אידחי אידחי אלא דפליגי על רב אשי במה שאמר שיש להם כפרה בזמן קצר מכי חזו פורתא צערא דקברא בזה פליגי וס\"ל דאין הכפרה ממהרת כ\"כ אבל אי היתה ממהרת ודאי גם הם סבירא להו אידחי אידחי וכן מבואר שם בסוגיא לעיל מיניה דכ\"ע אית להו כיון שאידחו אידחו לפי המסקנא גם הב\"י בסי' שמ\"ה כ' ואסיקנא לענין הרוגי ב\"ד בפרק נגמר הדין דהוי ליה כפרה בקטלא וקבורה אלא היינו טעמא דאין מתאבלין עליהם דאבילות מתחיל מסתימת הגולל כו' והיינו כתירוץ רב אשי אלא דבנוסח דברי בית יוסף יש ט\"ס שכתב הרוגי מלכות וצ\"ל הרוגי ב\"ד א\"כ מבואר דלא כמהר\"ם שחייב לקטן והגדיל וגם דלא כהרא\"ש דאילו להרא\"ש הפטור משום דהוה תשלומין וכל שפטור בשעת החיוב אין עליו תשלומין משמע דאילו במקום שאין תשלומין הוה חיוב ומודה למהר\"ם והרי כאן בפרק נגמר הדין שאין שם תשלומין דהא לא היה ראוי לאבילות מתחלה ואפ\"ה אמרינן דפטור אח\"כ אלא דבר ברור הוא דהפטור לאו משום דלא שייך ביה תשלומין נגעו בו אלא משום שחכמים הטילו עליו אבילות מן שעה ראשונה שהמרירות עליו ביותר דהיינו משיסתום הגולל ומן אותה שעה הוא מתאבל והולך כפי דינו אבל כל שנפטר בשעת עיקר המרירות דהיינו אחר סתימת הגולל אין עליו שום חיוב אחר כך ומשום הכי הרוגי ב\"ד וכן קטן והגדיל פטורים לגמרי כיון שהיו פטורים בשעת עיקר המרירות ויפה מכוון לזה פי' רש\"י שהעתקתי שלא דמי לקובר מת ברגל שחייב בז' ול' אחר הרגל ששם בשעת עיקר המרירות לא נפטר שהרי יש עליו קצת אבילות גם ברגל ואין כאן דמיון להבדלה שחייב לעשות ביום המחרת אע\"פ שבליל מ\"ש היה פטור כמ\"ש השלחן ערוך בסי' שמ\"א דשם הוא עיקר זמן ההבדלה מתחלה כך שימשוך זמנה כל השבת או עד ליל ד' ולא אמרינן דאם לא הבדיל במ\"ש הוה ההבדלה שאח\"כ תשלומין על מ\"ש אלא עדיין זמנה ממש וזה דומה לתפלת ערבית וק\"ש שאחז\"ל במסכת ברכות שזמנה קודם אכילה וכל העובר חייב מיתה ואעפ\"כ זמנה כל הלילה כמ\"ש בפי' שזמנה כל הלילה והכי נמי ממש כן הוא בהבדלה וזהו נכלל במה שאמרו מי שלא הבדיל במ\"ש מבדיל והולך כל השבת כולה. וכן לא קשה ממה שמצינו בסוכה פרק הישן (סוכה דף כ\"ז) בקטן שנתגדל בימי הסוכות דחייב לעשות סוכה התם נמי זמנה כן הוא כל ז' הימים ואין בזה משום תשלומין על מה שלא ישב בסוכה בשעת קטנותו כדאמרינן במתני' שם שאין תשלומין למי שלא אכל בסוכה משא\"כ באבילות שהעיקר תלוי בהתחלת האבילות בשעת עיקר המרירות וכל שלא התחיל לא יגמור ע\"כ נראה להלכה ולמעשה כפסק הרא\"ש לענין אבילות דפטור כאן ולא מטעמיה אלא מטעם שאמרנו. ולענין הבדלה כדעת מהר\"ם וכפסק הש\"ע בב' המקומות והם צודקים וברורים ומקום הניחו לנו רבותינו אבות העולם לזכות בו בסייעתא דשמיא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 396:2"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "אבל אם זילזל. עי' בתשו' רדב\"ז החדשות סי' תקכ\"א במי שבא לו שמועה שמת אביו ואחד מקרוביו אמר לו שאין השמועה אמת ואחר שעברו שני ימים א\"ל אמת היתה וכתב דקרובו זה לא טוב עשה והיה סיבה שלא קיים אבילות מן התורה שהוא יום הקבורה דיום שמועה קרובה כיום קבורה הוא אבל לענין הדין אינו מונה אלא מיום השמועה הראשונה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 396:1"
+        },
+        "2": {
+          "he": "ואפילו הגדיל. עי' בט\"ז שהאריך להביא ראיה לפסק הש\"ע ועי' בשו\"ת שיבת ציון סי' ס\"א שכתב ע\"ז לכאורה קשה דהא הט\"ז לעיל סי' ש\"מ ס\"ק ט\"ו פסק שקטן שהגיע לחינוך צריך לנהוג כל דיני אבילות ונראה דעכ\"פ יש נפקותא דמטעם חינוך ליכא אלא כשיש להקטן אב שחייב לחנכו במצות אבל היכא דליכא אב ליתא לחינוך כלל כמ\"ש המג\"א בסי' שמ\"ג סק\"א ובסי' תרי\"ו סק\"ב. עוד יש נפקותא אם הקטן הולך לבית הספר ללמוד תורה והגדיל תוך שבעה דג\"כ לא שייך חינוך דמתוך זה אתה מבטלו מת\"ת בזה שייך פסק זה דבטל ממנו כל דין אבילות אבל קטן שהוא עוסק באומנות ואינו עוסק בתורה ויש לו אב נוהג אבילות משום חינוך. והנה כל זה בקטן בן זכר אבל בקטנה כתב המג\"א בסי' שמ\"ג דאין האב מחויב לחנך בתו ואני ראיתי בתוס' ישנים במסכת יומא דף פ\"ב דהאב חייב לחנך בתו עכ\"ד ע\"ש. ועי' בתשובת יד אליהו סי' צ\"ג:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 396:2"
+        },
+        "3": {
+          "he": "בטל ממנו. [עי' בתשו' חתם סופר סי' שמ\"ב שכ' ע\"ד חותן דאיתרע בהו מילתא בשעת הדבר ר\"ל ולא התאבלו אז מחמת ביעתותא. (כדלעיל ס\"ס שע\"ד) ודאי דאם עבר זעם בתוך שלשים צריך להתאבל כמ\"ש בתשו' נ\"ש בשם גאון מהר\"ם שפירא דחולה אבל אם נתרפא צריך להתאבל בתוך למ\"ד דאפילו הרא\"ש דפליג אמהר\"ם מרוטנבורג בקטן שהגדיל מודה הכא ע\"ש אלא שנ\"ל פשוט אם אירע רגל בינתיים שהרגל מפסיקו ואע\"פ שלא נהג אבילות כלל עש\"ב].",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 396:3"
+        },
+        "4": {
+          "he": "כל דין אבילות. [כתב בספר חכ\"א כלל קס\"ח דין ו' משמע דגם אבילות של יב\"ח פטור ואפשר שיש לחלק דבשלמא ז' ול' שהם מצות שקבעו חז\"ל באבל וכיון דהיה פטור בשעת חובתו אין לו תשלומין משא\"כ אבילות יב\"ח שאינו אלא משום כבוד או\"א י\"ל דעכ\"פ בזה חייב עכ\"ל]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 396:4"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "קורע.  כ' הב\"ח דהיכא שהיה אנוס שהיה חולה ומסוכן שא\"א לקרוע או שאין דעתו צלולה ומיושבת עליו וחזר לבוריו ולדעתו אחר ז' שחשוב עכשיו כשעת חימום דל\"ד לשוגג או מזיד דעבר שעת חימום כיון שהיה בריא בשעה ששמע שמת לו מת וחייב באותה שעה אבל זה לא נתחמם אלא בשעה שחזר לבוריו ודעתו צלולה ומיושבת ובאותה שעה חל עליו חובת קריעה עכ\"ל (וט\"ז פסק דפטור מלקרוע אח\"כ ע\"ש ודבריו נראין תמוהין חדא שאין מזכיר דברי חמיו כדרכו ועוד תחלת דבריו משכימים עם הב\"ח ואח\"כ מסיים וע\"כ פטור אח\"כ מלקרוע. ע\"כ נ\"ל שטעות נפל בדבריו או איזה חסרון יש כאן וע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 396:1"
+        },
+        "2": {
+          "he": "הגדיל.  והב\"ח פסק כדעת מהר\"ם דבהגדיל תוך שבעה מונה ז' ול' משעה שהגדיל אבל אם הגדיל אחר ל' בטל ממנו גזרת ז' ול' ע\"ש והט\"ז מאריך בדין זה וסוף דבריו סיים לענין הלכה למעשה נראה כפסק הש\"ע דקטן פטור מהאבלות כי דבריו הם צודקים וברורים. ומקום הניחו לנו רבותינו אבות העולם לזכות בו בס\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 396:2"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

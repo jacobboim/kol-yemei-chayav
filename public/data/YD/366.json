@@ -1,0 +1,107 @@
+{
+  "chelek": "YD",
+  "siman": 366,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 4,
+  "fetchedAt": "2026-07-08T00:01:39.838Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין המוכר קבר ואשה שירשה קבר ממשפחתה. ובו ד' סעיפים:המוכר קברו ודרך קברו מקום מעמדו ומקום הספדו באים בני המשפחה וקוברין אותו בעל כרחו של לוקח ומחזירין את דמיו:",
+      "en": "One who sells his [family] grave, the path to his grave, the place of his [funeral] halt1Seven halts were made by the funeral escort upon returning from a burial for the purpose of lamentation or consolation. This corresponded to the seven times that the word ‘vanity’ is mentioned in Eccl. I, 2, three times in the singular and twice in the plural (B.B. 100b).  RaShBaM ibid. s.v. משבעה. and the place of his lamentation, the members of the family may come and bury him against the will of the buyer,2They may force the buyer to cancel the transaction and take back the purchase price. and they return his money.3B.B. 100b; Ket. 84a; Bek. 52b.  also Ḥ.M. § 217, 7 where the same ruling is found. The reason given in the Gemara ibid. is that it brings discredit to the family (פגם משפחה) if strangers will be interred in their family plot, whilst the members of their own family will have to be buried in another graveyard. And as to the ruling (supra § 344, 10) that if one left instructions not to make a lamentation for him after death, he is obeyed, it is different in the present case, because a) his financial position compelled him to act thus; whereas in the former ruling (supra) the instructions were given at death; or b) here by selling the place for lamentation, it is derogatory to all the members of the family; whereas there he only denied himself a lament; or c) the very fact that here strangers will come and make their lamentation casts a slur upon the whole family — N, B.Yos. and ShaK. This ruling applies also to one who sells his family pew in the Synagogue (Ḥ.M. § 175, 53 G.).",
+      "ref": "Shulchan Arukh, Yoreh Deah 366:1"
+    },
+    {
+      "seif": 2,
+      "he": "אשה שירשה קבר ממשפחתה נקברת בתוכו היא אבל לא יוצאי ירכה אלא אם כן ראתה אותם בחייה:",
+      "en": "A woman who inherited a grave from her family maybe buried in it herself, but not her descendants,4Because they trace their descent on the paternal side, and it is a discredit to the members of her family to have members of another family buried beside them — ShaK.  A.H. unless she saw them during her lifetime.5Sem(H). XIV, 5 according to the version of Tur. Those whom she saw during lifetime were closer to her.",
+      "ref": "Shulchan Arukh, Yoreh Deah 366:2"
+    },
+    {
+      "seif": 3,
+      "he": "אביה אומר תקבר אצלי ובעלה אומר תקבר אצלי תקבר אצל בעלה ויש גורסין תקבר אצל אביה ואם יש לה בנים ואומרת אצל בני קוברין אותה אצל בניה:",
+      "en": "[If] her father says, 'Let her be buried beside me,' and her husband says, 'Let her be buried beside me,' — she is buried beside her husband.6Sem. XIV according to version of Tur. And some [versions] read,7Sem(H). XIV, 6 and cur. edd. — she is buried beside her father. If she has children, and says, '[Bury me] beside my children,' — they bury her beside her children.",
+      "ref": "Shulchan Arukh, Yoreh Deah 366:3"
+    },
+    {
+      "seif": 4,
+      "he": "אביה אומר לא תקבר אצלי ובעלה אומר לא תקבר אצלי קוברים אותה אצל בעלה :",
+      "en": "[If] her father says, 'Let her not be buried beside me,' and her husband [also] says, 'Let her not be buried beside me,' — they bury her beside her husband.8Sem. ibid. For the husband is dutibound to attend to her burial needs.  Y.Ket. IV, 6(28d); ibid. XIII, 2(35d).",
+      "ref": "Shulchan Arukh, Yoreh Deah 366:4"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא ב\"ב דף ק' ע\"ב ומפרש התם משום פגם משפחה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 366:1"
+        },
+        "2": {
+          "he": "ברייתא באבל רבתי וכנוסחת הטור וכ\"כ הרמב\"ן בסת\"ה וכפי פירושו שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 366:2"
+        },
+        "3": {
+          "he": "באבל רבתי פרק י\"ד וכגירסת הטור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 366:3"
+        },
+        "4": {
+          "he": "כגירסת ספרים שלנו והרמב\"ן בסת\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 366:4"
+        },
+        "5": {
+          "he": "שם משום דבעלה חייב בקבורתה: (°) (דין חפירת כוכין בח\"ה וחינוכן עיין בא\"ח בסימן תקפ\"ז):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 366:5"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "המוכר קברו כו'. עי' בח\"מ ס\"ס רי\"ז:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 366:1"
+        },
+        "2": {
+          "he": "באים בני המשפחה כו'. שגנאי להם שבני המשפחה לא יהיו קבורים במקום אחד כמנהגם ואע\"ג דמי שצוה שאל יספידוהו שומעין לו כדלעיל סי' שד\"מ סעיף י' שאני התם דאמר כן בשעת מיתה אבל הכא זוזי אנסוהו א\"נ התם לדידיה לחוד אבל הכא מקום הספדו יורשיו ובני משפחתו נספדים שם ואיכא פגם שלהן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 366:2"
+        },
+        "3": {
+          "he": "אבל לא יוצאי ירכה. מפני שבניה מתייחסים על שם משפחות אביהם וגנאי לבני משפחתם ליקבר אצלם. טור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 366:3"
+        },
+        "4": {
+          "he": "קוברים אותה אצל בעלה. מפני שחייב בקבורתה כמו שנתבאר בא\"ע סימן פ\"ט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 366:4"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "המשפחה.  שגנאי הוא להם שבני המשפחה לא יהיו קבורים במקום אחד כמנהגם. ש״ך (ואע״ג דמי שצוה שלא יספידוהו שומעין לו שאני התם דאמר כן בשעת מיתה אבל הכא זוזי אנסוהו. א״נ התם לדידיה לחוד אבל הכא מקום הספדו יורשיו ובני ביתו נספדים שם ואיכא פגם שלהן ועי' בתוס' פרק יש בכור (בכורות דף נ״ב) ד״ה באין בני משפחה):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 366:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

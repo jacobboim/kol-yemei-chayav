@@ -1,0 +1,589 @@
+{
+  "chelek": "OC",
+  "siman": 123,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 6,
+  "fetchedAt": "2026-07-07T23:40:56.570Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני הכריעות בסיום י\"ח ברכות. ובו ו סעיפים:כורע ופוסע ג' פסיעות לאחריו בכריעה אחת ואחר שפסע ג' פסיעות בעודו כורע קודם שיזקוף כשיאמר עושה שלום במרומיו הופך פניו לצד שמאלו וכשיאמר הוא יעשה שלום עלינו הופך פניו לצד ימינו ואח\"כ ישתחוה לפניו כעבד הנפטר מרבו: הגה ונהגו לומר אח\"כ י\"ר שיבנה בית המקדש כו' כי התפלה במקום העבודה ולכן מבקשים על המקדש שנוכל לעשות עבודה ממש (ד\"ע):",
+      "en": "The Laws of Bowing at the End of Sh'moneh Esrei. Containing 6 S'ifim:One bows and steps three steps backwards, in a single bow. After one has stepped three steps, while still bowing, and before straightening up: when saying \"oseh shalom bimromav\", one turn one's head to one's left side; when saying \"Hu ya-aseh shalom aleinu\" - turn one's head to one's right side; and afterwards one bows deeply forward like a servant taking leave of his master.  Gloss: And we practice: to say after this \"Let it be [Your] will that the Temple be rebuilt, etc.\". Because prayer is in place of the [Temple] service, and we therefore request regarding [the rebuilding] the Temple, where we would be able to perform the actual service (His own opinion).",
+      "ref": "Shulchan Arukh, Orach Chayim 123:1"
+    },
+    {
+      "seif": 2,
+      "he": "במקום שכלו הג' פסיעות יעמוד ולא יחזור למקומו עד שיגיע ש\"ץ לקדושה ולפחות עד שיתחיל הש\"ץ להתפלל בקול רם: הגה והש\"ץ יעמוד כדי הלוך ד' אמות קודם שיחזור למקומו להתפלל בקול רם [תשובת הרשב\"א סי' תל\"ו] וכן יחיד המתפלל יעמוד במקום שכלו פסיעותיו כשיעור זה קודם שיחזור למקומו [ב\"י בשם רבי' ירוחם וירושלמי] יחיד שמתפלל בצבור וסיים תפלתו קודם לש\"ץ אסור להחזיר פניו לצבור עד שיסיים שליח צבור תפלתו [ב\"י בשם שבולי הלקט]:",
+      "en": "In the place that the three steps [backwards] are concluded, one should stand and not return to one's place until the prayer leader reaches the Kedusha, or at least until the prayer leader begins to pray aloud.  Gloss: The prayer leader [after finishing the individual Amidah and taking 3 steps back,] stands [in place] the amount of time it takes to walk four cubits before returning to [the prayer leader's] place to pray aloud. (Responsum of the Rashba - siman 436). And similarly, one praying alone should stand in the place where one's [three] steps were concluded, this amount of time, before returning to one's place. (Beit Yosef in the name of Rabbeinu  Yerucham and the Yerushalmi). An individual who is praying with the congregation and finishes one's prayer before the prayer leader is forbidden to turn to face the congregation until the prayer leader finishes [the prayer leader's individual] prayer. (Beit Yosef in the name of Shibolei Haleket)",
+      "ref": "Shulchan Arukh, Orach Chayim 123:2"
+    },
+    {
+      "seif": 3,
+      "he": "כשפוסע עוקר רגל שמאל תחלה ושיעור פסיעות אלו לכל הפחות הוא כדי שיתן גודל בצד עקב ולכתחלה לא יפסיע פסיעות גסות יותר מזה: [ב\"י בשם א\"ח וד\"ע לפי הטעם שכתב ב\"י לג' פסיעות בשם רב האי]:",
+      "en": "When one steps [backwards], one lifts [one's] left foot first. And the distance of these steps is minimally that one places the big toe [of one foot] next to the heel [of the other foot].  And ideally, one should not take larger steps than this. (Beit Yosef in the name of Orchot Chaim, and his own opinion, based on the reason that the Beit Yosef wrote for the 3 steps in the name of Rav Hai)",
+      "ref": "Shulchan Arukh, Orach Chayim 123:3"
+    },
+    {
+      "seif": 4,
+      "he": "מי שמוסיף על ג' פסיעות הוי יוהרא:",
+      "en": "A person who adds to the three steps is considered haughty.",
+      "ref": "Shulchan Arukh, Orach Chayim 123:4"
+    },
+    {
+      "seif": 5,
+      "he": "גם ש\"צ צריך לפסוע ג' פסיעות כשמתפלל בלחש וכשיחזור התפלה בקול רם אינו צריך לחזור לפסוע ג' פסיעות: [ואם לא התפלל בלחש רק בקול רם פוסע ג' פסיעות אחר תפלתו שבקול רם] [אבודרהם]:",
+      "en": "The prayer leader must also step 3 steps [back] when praying quietly. And when [the prayer leader] repeats the prayer aloud, there is no need to repeat stepping 3 steps back. (And if [the prayer leader] does not pray quietly, but only aloud, [the prayer leader] steps three steps [back] after [the prayer leader's] prayer aloud) (Abudarham)",
+      "ref": "Shulchan Arukh, Orach Chayim 123:5"
+    },
+    {
+      "seif": 6,
+      "he": "כשיחזור ש\"צ התפל' יאמר ג\"כ ה' שפתי תפתח [אבל אינו אומר בסוף התפל' יהיו לרצון] [ד\"ע וב\"י בשם אוהל מועד]:",
+      "en": "When the prayer leader repeats the [Amidah] prayer, [the leader] should also say \"Hashem, s'fatai tiftach\" [the verse the precedes the Amidah].  (But does not say \"Y'hiyu l'ratzon\" at the end of the prayer.) (His own opinion as well as the Beit Yosef in the name of Ohel Moed)",
+      "ref": "Shulchan Arukh, Orach Chayim 123:6"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "יומא נ\"ג ומביאו הרי\"ף והרא\"ש בסוף פרק ה' דברכות מרדכי שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 123:1"
+        },
+        "2": {
+          "he": "הרי\"ף שם והרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 123:2"
+        },
+        "3": {
+          "he": "הגה\"מ פ\"ה מה\"ת אהל מועד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 123:3"
+        },
+        "4": {
+          "he": "שבלי הלקט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 123:4"
+        },
+        "5": {
+          "he": "רמב\"ם פ\"ט מה\"ת ותרומת הדשן סימן י\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 123:5"
+        },
+        "6": {
+          "he": "כתבי מהר\"ר ישראל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 123:6"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "ג׳ פסיעות עמ״א והג׳ פסיעות אם הם ברגל א׳ פסיעה או בב׳ הרגלים עב״י ולבוש וא״ר אות ח׳ דהמנהג בב׳ רגלים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 123:1"
+        },
+        "2": {
+          "he": "ואחר עמ״א בט״ז אות ח״ט. ע׳ א״ר אות ט׳ בשם ל״ח שיש חוזרין ג׳ פסיעות ומקפידין שלא ילך א׳ ויפסיק ומפני כן חוזרים מיד למקומם ועוברים על שיעור המפורש דימתין עד שיתחיל הש״ץ יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 123:2"
+        },
+        "3": {
+          "he": "לצד עמ״א ולפ״ז מוכרח הוא ג״כ בעקירת רגל מה״ט באות י׳ דכאן ודאי ל״ש כ״א זה הפעם וי״ל בפסיעה ל״ש חולק לימין אדרבה מרחיק הוא משכינה ומהראוי שיפסיע בימין תחלה ע״כ נתן שם ט״א:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 123:3"
+        },
+        "4": {
+          "he": "שלום עמ״א ועל כ״י יאמר בשהופך למזרח ועיין לבוש וא״ר אות ג׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 123:4"
+        },
+        "5": {
+          "he": "יעמוד עמ״א ועא״ר ד׳ משמע דפוסע בב׳ רגליו יע״ש ואין מוכרח דאפשר אח״כ מכוין רגליו על עמדו עד שיתחיל ש״ץ:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 123:5"
+        },
+        "6": {
+          "he": "ולא עמ״א הכ״מ פ״ט מה״ת ה״ד שאין חייב לחזור למקומו ואם רצה עומד במקומו אבל למ״ש הב״י ו׳ פסיעות חוזר למקומו ומ״מ בשביל הקפידא לא יחזור מיד לעבור השיעור המפורש כמ״ש אות ב׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 123:6"
+        },
+        "7": {
+          "he": "והש״ץ עמ״א הועתק מב״ח ככלב שב כו׳ ממש שנראה שעשה אותה עבירה פ״ש וחוזר ומתודה עליהם ובאמת בתר״ז פסק כראב״י וליכא ככלב והב״ח כתב דאין להתוודות אם לא שינה וצ״ע דפסקינן שם דמשובח. ומ״ש מדינא שרי ברשב״א אין הכרע וי״ל דממתינים ד״א מדינא יע״ש והנה להב״ח הא דסי׳ ק״ה ד״א די מאחר שצורך להתפלל שנית משא״כ לט״ז אות ג׳ משמע שם יותר נראה כמבזה תפלתו ראשונה וי״ל דשם אין חוזר על מקומו הראשון רק עומד במקום שפסע ומתפלל שנית לכן הראיה רק מה שמצינו שם ד״ת הוי הפסק ה״ה כאן כמ״ש הט״ז אות ג׳ ואות ד׳. ועמ״ש באות שאח״ז:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 123:7"
+        },
+        "8": {
+          "he": "כשיעור עמ״א הביא דברי הב״ח דיחיד אין די בד״א ועמ״ש באות הקודם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 123:8"
+        },
+        "9": {
+          "he": "אסור עמ״א ועט״ז אות ה׳ הנה הלבוש ס״ז ב׳ טעמים ובחר בטעם א׳ דלב׳ כל שרוב הציבור מתפללים למזרח אסור להחזיר פניו למערב וכדומה ואמנם מ״ש כשמתחיל הש״ץ ח״י כשסיים הש״ץ די שהרי הר״ב אומר כן ואיסורא עד קדושה נמי אינו כן רק מצוה ממובחר כשהתפלל כבר יעמוד ג״כ פניו למזרח לב׳ הטעמים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 123:9"
+        },
+        "10": {
+          "he": "רגל עמ״ש באות ג׳ די״ל פסיעה אין כבוד ולתי׳ הב׳ שפוסק כעבד מרבו ג״כ שייך כבוד לימין דשכינה ואפי׳ איטר פוסע בשמאל דעלמא:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 123:10"
+        },
+        "11": {
+          "he": "בקול עמ״א וכ״ה בלבוש ס״ג ומקורו בתה״ד י״ג יע״ש ועט״ז אות ט׳ והש״ץ בב׳ וה׳ אסור להסיח קודם קדיש תתקבל כמ״ש בט״ז אות ט׳ ומיהו ביום שיש מוסף נגמר התפלה בשחרית רשאי להפסיק אח״כ ופשוט הוא:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 123:11"
+        },
+        "12": {
+          "he": "אין צריך עמ״א דאם רצה רשאי ואע״פ שאין אומרים תחנונים דג׳ פסיעות לא תליא בתחנונים ולא ביהיו לרצון עמ״ש בט״ז מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 123:12"
+        },
+        "13": {
+          "he": "פוסע עמ״א בשם לבוש וכללא הוא דהא בהא תליא כשמתפלל בלחש א״א אלקי נצור בחזרה דבשביל הציבור אומר תתקבל כו׳ א״כ למה יפסע עתה שנראה שנשלם ועדיין לא נשלמה עד הקדיש תתקבל משא״כ כשלא התפלל בלחש אומר אלקי נצור אח״כ בלחש בשביל עצמו ותפלת ח״י שהתפלל עולה בעדו ובעד הציבור פוסע תחלה ונפטר כעבד מרבו בשביל עצמו וגם על התחנונים ובקדיש פוסע בשביל הציבור:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 123:13"
+        },
+        "14": {
+          "he": "יהיו לרצון עמ״א וגם אלקי נצור א״א כי תתקבל קאי על זה משא״כ כשלא התפלל בלחש כמ״ש באות הקדום:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 123:14"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "כורע עט״ז כעת לא ידענא מהו הג׳ רובדים ובין כבש למזבח אויר קטן עיין ר״מ פ״ב מהלכות בית הבחירה הי״ג יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 123:1"
+        },
+        "2": {
+          "he": "לצד עט״ז ועיין לבוש ימין דהקב״ה עדיפא שנאמר מימינו אש דת למו לכך נותן שלום לימין הקב״ה ברישא:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 123:2"
+        },
+        "3": {
+          "he": "ולא עט״ז עיין ב״י וב״ח פירש דהוי ככלב שב על קיאו ממש שמשליך הקיא וחוזר ואוכלו כן זה מרחיק מרבו ומקבל שלא לעשות עוד רק שישוב בתשובה כו׳ וע״ש ודברי הט״ז לא הבינותי דאכתי אין דומה לשב על קיאו א״כ די בפירוש הב׳ ומ״ש ד״א הנה בק״ה המתפלל ב׳ תפלות שוהה ד״א כדי שתתחונן הא לא״ה אין נראה ככלב שב דהא צריך להתפלל שנית (עב״ח) וש״צ שחוזר מיד בתר הילוך ד״א כי צריך להוציא רבים י״ח אין נראה כשב כו׳ אבל יחיד בביתו למה מהני ד״א ועב״ח וא״ר בזה. מדברי הט״ז נראה כל ששהה ד״א אין בזוי כו׳ ואפ״ה צריך להמתין על ש״ץ כשיש ש״ץ וצ״ע. ולט״ז בק״ה ע״כ יחיד די בזה והבן:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 123:3"
+        },
+        "4": {
+          "he": "וכן עט״ז לענין ב׳ תפלות בסי׳ ק״ה דהוי שהייה ד״א שתתחונן דעתו עליו ה״ה לענין שלא יהא כשב על קיאו די בזה ועמ״ש באות הקדום. ועמ״א אות ז׳ מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 123:4"
+        },
+        "5": {
+          "he": "אסור עט״ז הב״ח כתב שזה סותר למ״ש המחבר עד שיתחיל ש״ץ (והיה לומר וי״א) הוא ז״ל תירץ דעומד במקום שפסע רק שאסור להחזיר פניו לציבור שלא יבלבל אותם ועיין לבוש סעיף ו׳ הביאו המ״א אות ט׳ פירש בענין אחר שיחשדוהו שדילג או הופך פניו ממקום השכינה שהציבור עומדין לפניו ומשמע שאין תלוי בסיום הש״ץ לבד. וע׳ סימן ק״ג במ״א ב׳ ועיין נ״ץ פירש דאם סיים קודם הש״ץ הרי שהה הרבה וליכא איסורא בהמתין שיסיים ש״ץ די וכי בעינן שיתחיל בסיים עם הש״ץ וממתין ד״א אז נראה כשב על קיאו יע״ש ומשמעות המחבר משמע אף בשהה הרבה איו לחזור עד שיתחיל ש״ץ וכ״כ א״ר י״ג:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 123:5"
+        },
+        "6": {
+          "he": "שמאל עט״ז ואפילו איטר רגל פוסע בשמאל דעלמא ועמ״א אות יו״ד בזה. והרב היה לומר וי״א כי חולק הוא:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 123:6"
+        },
+        "7": {
+          "he": "הוי עט״ז ועב״י בג׳ פסיעות יש דיעות יש שעושין רק ג׳ פסיעות לבד בכל רגל פסיעה א׳ בשמאל פסיעה א׳ ובימין פסיעה א׳ ואח״כ בשמאל פסיעה א׳ ויש פוסעין ו׳ פסיעות שלש לכל רגל יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 123:7"
+        },
+        "8": {
+          "he": "אין צריך עט״ז דעתו ז״ל כשאמר בלחש תחנונים שוב א״א בחזרה וא״כ לא יפסע בחזרה מאחר שא״א עושה שלום אבל כשלא התפלל בלחש אומר התחנונים אחר ח״י בקול רם לכן יפסע ולא הבינותי דעושה שלום אחר הפסיעות אומר ובלבוש הטעם כשהתפלל בלחש שוב א״א תחנונים בחול אין פוסע כ״א אחר הקדיש תתקבל דשייך לחזרה משא״כ כשלא התפלל בלחש אומר אחר התפלה (בלחש אלקי נצור כו׳) פוסע על תחנונים שלו והקדיש בשביל שהוציא הציבור. וכשתתפלל בלחש א״א בקול אח״כ אלקי נצור דכבר אמרה בלחש ובשביל הציבור יאמר הקדיש תתקבל משא״כ יחיד המתפלל וא״ש עמ״ש באות שאח״ז אי״ה מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 123:8"
+        },
+        "9": {
+          "he": "אבל עט״ז אע״ג דכה״ג משנין כבסימן קי״ו רפאנו כו׳ מ״מ כאן לא תקנו כן ועל מה שהקשה על הלבוש דיחיד נמי צ״ע דהלבוש דבריו ברור מללו דכשחוזר התפלה א״א תחנונים דהקדיש עם תתקבל קאי ע״ז משא״כ כשלא התפלל בלחש כמ״ש באות הקדום וא״כ אין קושיא מיחיד כלל. עא״ר אות יו״ד בשם הפרישה דמכאן מוכח דאסור לש״ץ לדבר ביני וביני (בשיחה שאין מענין תפלה) כי הקדיש חוזר על התפלה ולא כמו שראיתי שהש״ץ בב׳ וה׳ מפסיק אפילו בשיחה בטילה ודאי איסור גמור הוא:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 123:9"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] בכריעה אחת וכו'. פירש ר' ישעיה זכרונו לברכה, בכריעה היה פסיעה אחד לאחור כלומר כשיעור פסיעת כרעים כן כתב שבלי הלקט שם וצריך עיון, ובספר צידה לדרך דף מ\"ד משמע דכריעה זו צריך שיהיה עד שיתפקקו כמו כריעות דאבות ומודים שנתבאר בסימן קי\"ג:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 123:1"
+        },
+        "2": {
+          "he": "[ב] ואחר שפסע וכו'. היינו לאפוקי מהנוהגין שאומרים עושה שלום בשעת הפסיעות אלא יאמרנה אחר הפסיעות, וכן הדין בעושה שלום דקדיש ושליח ציבור, וכן כתב בתרומת הדשן סימן י\"ג:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 123:2"
+        },
+        "3": {
+          "he": "[ג] ישתחוה לפניו וכו'. ויאמר על כל ישראל והא דאפילו יחיד אומר ואמרו אמן, כתב מטה משה ששמע בשם רבי יהודה חסיד דהוי כמו שאומרים ליחיד ברוך יושבין שהוא כנגד המלאכים המלוים את האדם בכל יום:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 123:3"
+        },
+        "4": {
+          "he": "[ד] יעמוד וכו'. וחייב לכוין רגליו כמו בתפילה כנסת הגדולה בשם רד\"ך, ומשמע קצת מזה דיש לעשות כל פסיעה בשני רגלים כמו שכתב בשם לחם חמודות, וסיים בכנסת הגדולה זה לשונו ועיין עוד שם ובתשובת בנימין זאב סימן קס\"ז, עד כאן. ורצה לומר משאר דינים בענין זה אבל דין זה דחייב לכוין רגליו ליתא מידי בתשובת בנימין זאב עיין שם, ועולת תמיד עינו הטעתו וחשב דעל דין זה קאמר ולא דק:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 123:4"
+        },
+        "5": {
+          "he": "[ה] ולפחות וכו'. רצה לומר לכתחילה הלכה עד קדושה אלא כשיש המקום צר ואתו לנצויי ודחוק יש להקל ולחזור כשיתחיל השליח ציבור, וכן פסק הב\"ח, ולחם חמודות מחלק דכשאומרים פיוטים יחזור כשיתחיל השליח ציבור, ואם חוזר מיד למקומו קאמר בש\"ס דומה לכלב ששב על קיאו ועיין בית יוסף לבוש פירושו, אבל בתשובת רשב\"א סימן תל\"ו ותרע\"ה ותשובת בנימין זאב סימן קס\"ז פירשו דכיון שחוזר מיד למקומו נראה כאילו רוצה להתוודות שנית כדאיתא לקמן בהלכות יום כיפור שהתודה ביום כיפור זה וכו' דומה לכלב וכו' ועיין בליקוטי מהרי\"ל:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 123:5"
+        },
+        "6": {
+          "he": "[ו] כדי וכו'. צריך עיון רב שכן כתב בית יוסף, הרשב\"א ז\"ל שאלת שליח ציבור אם יוכל לחזור למקומו מיד כשרוצה לחזור ולהתפלל בקול רם תשובה לא ראיתי לאחד מן הגדולים שמיחה בדבר זה, אף על פי שכל שליח ציבור עושה כן אדרבה נראה שצריך לעשות, ושמעתי מפי גדולים אשכנזים ששליח ציבור שלהן עושין כן אלא שממתינים שם מעט כדי הילוך ארבע פסיעות עד כאן לשונו. ועל פי זה כתבו רמ\"א ולבוש דימתין השליח ציבור, אבל עיינתי בתשובת הרשב\"א גופיה סימן תל\"ו שאין לשון הרשב\"א כך אלא זה לשונו אדרבה נראה שמחויבים לעשות כן שהרי כשהתפלל לעצמו צריך לעשות שלוש פסיעות ואם לא עשה כן הרי אמרו שהוא כמו שלא התפלל, ושמעתי מאחד מגדולים אשכנזים ששליח ציבור שלהם עושים כן שממתין במקומן כדי שיהלוך ארבע פסיעות, והפרש שבין יחיד לשליח ציבור דבשליח ציבור ידוע שחוזר להוציא את אחרים ידי חובתו לא מיחזי ככלב וכו', עד כאן. והנה מההפרש שכתב משמע דדעתו שיכול לחזור מיד ואין צריך להמתין ארבע פסיעות, ומה שכתב שמעתי ששליח ציבור שלהם עושה כן לכאורה קאי למעלה שהיו עושין כן שחוזרין מיד ומתוך זה הוסיף הבית יוסף בלשונו תיבת אלא ותיבת מעט, והנך רואה דליתא שם כן, גם קשיא דלמאי יהא זה מעט ולמאי צריך כלל כיון דלא הוי ככלב שב וכו', אלא נראה דמה שכתב ששליח ציבור שלהם עושין כן קאי למטה על שממתינין, רצה לומר מה הם עושין כן שממתינין כדי הילוך וכו' והיינו דסבירא להו דשליח ציבור נמי צריך להמתין כמו יחיד כמו שכתב בית יוסף בשם הרמב\"ם, וכן מלבושי יום טוב כתב בשם דרשת מהר\"ש שיעמוד כשיעור שיגיע לאתה קדוש. מיהו נראה דסבירא ליה לאחד מגדולי אשכנז להקל משום טורח ציבור דסגי כדי הילוך ארבע פסיעות, אבל לדעת הרשב\"א דיש הפרש דלא שייך בשליח ציבור כלב השב אם כן מיד ממש יכול לחזור. ועוד דבר מן הדין דברי רשב\"א הנזכרים לעיל אינן מובנין כמו שכתב במרדכי ואדרבה נראה שמחויבין וכו' כשהתפלל וכו' מאי הוכחה הוא זה שמחויב לחזור מיד וצריך עיון, ועל כרחך יש חסרון וטעות בתשובה זו, ועוד מצאתי בתשובת הרשב\"א סימן תרע\"ה כתבוה תשובה זו אות באות ולא כתב שם כלל מן ואדרבה וכו' עד והפרש יש, ומבואר בתשובה דיכול לחזור תיכף וכן כתב בית יוסף בשם אוהל מועד, וכמדומה שאיזה הוספה הוא בתשובה ראשונה ואינה מדברי רשב\"א, וכן מצאתי בתשובת בנימין זאב סימן קס\"ד, ותמיהני על כך גדולי האחרונים שלא הזכירו מזה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 123:6"
+        },
+        "7": {
+          "he": "[ז] הילוך ד' אמות וכו'. זה לשון לחם חמודות, ומה שכתב הרשב\"א ארבע פסיעות העתיק רמ\"א ארבע אמות, נראה שמדמה לשיעור שהייה שבין תפילה לתפילה, לעיל סימן ק\"ה, ואי משום הא אין לנו לפרש דברי הרשב\"א שלא כתב כן שהרי ודאי הפרש יש בין שני תפילות חלוקות לשני תפילות של השליח ציבור שאינן חלוקות, אלא האחת חוזרת לאחרת, מיהו רבינו ירוחם כתב המתפלל יחידי ממתין ארבע אמות כמו בתפילה לתפילה, עד כאן, אבל אין ראיה להשליח ציבור שיש לו למהר לתפילתו עד כאן לשונו. ולא ירדתי לסוף דעתו דברור כוונת רמ\"א דמסתמא פסיעה בינונית קאמר והוא שיעור אמה כדלקמן סימן שצ\"ז בתחומין. שוב ראיתי בתשובת רשב\"א סימן שפ\"א דכתב דג' פסיעות שפוסע לאחוריו אינן שיעור אמה ואין להם שיעור, ואפשר שזה ראה לחם חמודות וסובר דהוא הדין הנך ארבע פסיעות. אבל יש לחלק דהתם כמו שכתב שם הרשב\"א הטעם שאינן אלא נטילת רשות כנפרד מלפני המלך, אבל בזה דכתב ימתין עד כדי הילוך וכו', משמע שיעור פסיעה גמורה קאמר כן נראה לי. וראיה לזה מדכתב מטה משה בשם רבינו ירוחם דהמתפלל ביחיד ימתין ד' פסיעות הא בית יוסף ולחם חמודות וב\"ח כתבו בשמו ד' אמות אלא דהכל אחד הוא. גם תימא גדולה על לחם חמודות שכתב דר\"י למד ד' אמות משהייה שבין תפילה לתפילה, והיינו משום שראה בבית יוסף שכתב זה לשונו ור\"י כתב ישהא מעט, וכן נראה משהייה שבין תפילה לתפילה בעינן ד' אמות, עד כאן. והבין דכולה מלשון רבינו ירוחם הוא, וליתא כי עיינתי בספר אדם וחוה דף כ\"ה שלא כתב אלא ישהא מעט, אלא ודאי מה שכתב בית יוסף וכן נראה וכו' הוא דברי עצמו. ובאמת קשיא על בית יוסף מנא ליה דר\"י ד' אמות קאמר דילמא אף פחות מד' אמות קאמר, ונראה שלמד מתשובת הרשב\"א הנזכר לעיל שכתב ממתינין מעט כדי שיהלך ד' פסיעות, הרי דקרי ד' אמות המתנה מעט, אם כן ישהה מעט שכתב רבינו ירוחם נמי ארבע אמות קאמר, וזה ראיה גמורה למאי דפירשתי על שהעתיק רמ\"א דברי רשב\"א ארבע אמות. והנה למאי שכתב רש\"ל על שאין לשון הרשב\"א ממתינין מעט וכו' אם כן עדיין נראה לי דרבינו ירוחם אף פחות מד' אמות קאמר, אבל אין לפרש דברי רבינו ירוחם דצריך להמתין כמו במתפלל עם הציבור, דאם כן לא הוה ליה לכתוב אלא דיחיד ישהה כמו כן כמו שכתב אבודרהם הביאו בית יוסף, דהא סליק מיניה מדין מתפלל עם הציבור, אלא דכתב בבא בפני עצמו, בדין יחיד כתב ישהה מעט אלמא דלא צריך להמתין כשיעור שהיה מתפלל עם הציבור, אך דהקשה דילמא אף פחות מד' אמות קאמר. ובזה ניחא קושיות מלבושי יום טוב למה השמיט הלבוש מה שכתב רמ\"א דהמתפלל ביחיד ימתין ארבע אמות, דנראה לי דסבירא ליה דאין כוונת רבינו ירוחם על ארבע אמות, ואף שבית יוסף מביא ראיה משם, יש לחלק דבין תפילה לתפילה בעינן שהייה יותר כדי שיתחולל דעתו. אך לפי זה קשה דאם כן הוה ליה לכתוב הלבוש דמתפלל ביחיד ישהה מעט. לכן נראה דסבירא ליה כאבודרהם דימתין כשיעור שהייה מתפלל עם הציבור, ולכן לא הזכירו דסמך על המבין דמה שכתב דאידי ואידי אין בו משום כלב השב וכו', וכן פסק הב\"ח ומהאי טעמא, מיהו במטה משה כתב דנוהגין כר\"י להמתין כדי הילוך ארבע פסיעות, ונראה דטעמא דבשהייה מעט לא הוי ככלב השב וכו' ודאי קצת מהא דהקילו במתפלל עם הציבור משיתחיל השליח ציבור, והא דהחמירו נמי עד קדושה, נראה דהיינו טעמא כיון דהשכינה עדיין עומד כנגדו שיאמר קדושה הקפידו נמי שלא יחזיר ריקם, וכיון ששוהה בלאו הכי, מה שאין כן כשמתפלל ביחידי. ומכל מקום אם יש לו פנאי בריוח יחמיר להמתין כשיעור שהיה מתפלל עם הציבור ואם סיים שמונה עשרה תיכף שיושב השליח ציבור לתחינה או פתח ויהי נועם במוצאי שבת, עיין לקמן סימן קל\"א:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 123:7"
+        },
+        "8": {
+          "he": "[ח] שמאל תחילה וכו'. כדי שיהא שמאל אחורי ימין בשלישית כשעומד לבוש, סובר דפסיעה דרגל אחת הוי פסיעה ולא ראיתי נוהגין כן, אלא כמו שכתב הרבינו מנוח בבית יוסף דפסיעה הוא בהנעת שני רגלים דהיינו שפוסע גם כן הימיני אל השמאלי וחוזר ומתחיל בשמאלו וכו', לכן נראה לי דטעמא מפני חשיבות הימין שעוקר תחילה השמאלי, ומניח עדיין הימין במקום שכינה, כן כתבו מלבושי יום טוב ולחם חמודות דף מ\"ג. עוד טעם בט\"ז ומגן אברהם דצריך לפסוע לימין השכינה תחילה שהוא לשמאלו, ולפי זה נראה דאפילו איטר רגל עוקר שמאלו תחילה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 123:8"
+        },
+        "9": {
+          "he": "[ט] לכל הפחות וכו'. דמשמע דאי בעי פוסע יותר, והקשה על מה שכתב רמ\"א ולכתחילה לא יפסע וכו' יותר מזה כו', ומי שאמר זה לא אמר זה כדמשמע בבית יוסף והוה ליה לרמ\"א לכתוב במחלוקת, ועל לבוש קשה יותר עיין שם. מיהו לדינא לכתחילה לא יפסע יותר כמו שכתב רמ\"א, וטעמא כתב הב\"ח כדי לאפוקי נפשיה מפלוגתא, ורצה לומר דלכולי עלמא יוצא על כל פנים בגודל בצד עקב, אבל למאן דאמר דטעם הוא כפסיעות כהנים אסור להוסיף. אבל לעניות דעתי עדיין לא אפיק נפשיה מפלוגתא דהא כתב שבלי הלקט סימן ח' טעם דשלוש פסיעות מפני כשאדם עומד בתפילה עומד במקום קדושה דשכינה למעלה מראשו ותוך ארבע אמות למקום עמידתו מקום קדושה הוא, לכן צריך לפסוע לאחוריו שלוש פסיעות כמו שיצא ממקום קדושה ויעמוד במקום חול עד כאן לשונו, וכן כתב בספר תניא וכן משמע באבודרהם, משמע דשלוש פסיעות כשיעור ד' אמות של מקום קדושה הוא, וצריך עיון דזה הוי הרחקה יתירה ודוחק לפרשו בענין אחר. עוד כתב הב\"ח דבבית הכנסת שרבים נכנסים צר להן המקום שאי אפשר לפסוע גם כן עקב בצד גודל כדאיתא ברשב\"א בתשובת סימן שפ\"א שכתב דאין שיעור לג' פסיעות לסמוך עליו בשעת הדחק, עד כאן. והיינו דסבירא ליה לרשב\"א טעם דשלוש פסיעות שאינן אלא משום נטילת רשות כנפטר מלפני המלך כמבואר שם, ולא מטעם ככהנים, ומגן אברהם חולק דבפחות מעקב בצד גודל לא מיקרי פסיעה כלל, עד כאן, ואינו מוכרח. עוד טעם כתב הבית יוסף וכף רגליהם רגל ישרה, רגליהן תרי, רגל חד, הרי ג', ויש אומרים ששה דכתיב בתריה וכף רגליהם ככף רגל עגל, ואף שלא מצינו אלא שלוש בשובו אל מקומו הוי עוד תלת שיש לו לחזור למקומו בשלוש פסיעות, ומה שעולם מקפידין שלא ילך אדם לפניהם עד שישובו למקומם, הוא מטעם זה שלא נגמרו עדיין הפסיעות. כתב לחם חמודות דעל ידי קפידתם טועין שכשרואין למי שרוצה ללכת לפניהם ימהרו לשוב למקומם בטרם שממתינים שיעור המפורש בסעיף ב', וזה אינו נכון אלא מוחים שלא ילך ואם ילך הוא עשה שלא כהוגן ולא העומד ולא הוי הפסק לגביה דאפילו מחיצה של ברזל אינה מפסקת:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 123:9"
+        },
+        "10": {
+          "he": "[י] אין צריך לחזור וכו'. שהרי עדיין אינו נפטר עד קדיש שלם אף שמפסיקין בתחינות וקריאת התורה והלל וקדושה כולה לסדר תפילה הן באין כן כתב בית יוסף, וכתב הפרישה מכאן משמע דאסור לשליח ציבור לדבר ביני וביני כיון דהכל מעין תפילה אחת הוא וקדיש שחוזר לכולן:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 123:10"
+        },
+        "11": {
+          "he": "[יא] בקול רם פוסע וכו'. אף על גב שעדיין קדיש שלם יפטור ממנו יתברך על תחינות של עצמו, כגון אלהי נצור שיאמר בלחש ואחר הקדיש יפטור על שהתפלל בעד הציבור, לבוש והוא דחוק, ועיין אליהו זוטא:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 123:11"
+        },
+        "12": {
+          "he": "[יב] יהיו לרצון וכו'. מפני שעדיין לא גמר תפילת רבים, עד הקדיש שלם וכו' ומכיון שלא אומרה במקומו שוב לא יאמרו (מלבושי יום טוב). והט\"ז הקשה על הלבוש דאם כן יחיד נמי, ולי נראה דהכי פירושו עוד כיון שמתפלל עוד עד הקדיש אם כן נכלל יהיו לרצון כתתקבל צלותהון וקל להבין, ועיין באליהו זוטא המסקנא לומר יהיו לרצון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 123:12"
+        },
+        "13": {
+          "he": "[יג] [לבוש] עד שיסיים השליח ציבור וכו'. והא דקיימא לן בסעיף ב' דלא יחזור למקומו לפחות עד שיתחיל השליח ציבור, תירץ כנסת הגדולה דאחר שיסיים השליח ציבור מותר לחזור פניו, רק למקומו אינו רשאי לחזור עד שיתחיל השליח ציבור תפילה קול רם, וכן משמע מהטעמים שכתב הלבוש. ונחלת צבי תירץ דלעיל סיים התפילה בהדי שליח ציבור, וכאן סיים קודם השליח ציבור, ואין נראה מפוסקים אלא דלעולם צריך להמתין לפחות עד שיתחיל השליח ציבור, ודומיא דעד שיגיע השליח ציבור לקדושה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 123:13"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "כורע ופוסע ג' פסיעות.  הטעם בב\"י בשם רבינו האי דתפלות נגד תמידין וכשהכהן היה עולה למזבח עם איברי התמיד היה עולה דרך ימין ומקיף ויורד דרך שמאל ובין כבש למזבח היו ג' רובדים של אבן ויורד בהם ג' פסיעות על עקב ואנו עושין כמו שהם היו עושין עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 123:1"
+        },
+        "2": {
+          "he": "לצד שמאלו.  שהמתפלל רואה עצמו כאלו שכינה מול פניו שנאמר שויתי ה' לנגדי תמיד ושמאל האדם הוא צד ימינו של הקב\"ה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 123:2"
+        },
+        "3": {
+          "he": "ולא יחזור למקומו  בגמ' אמרינן ע\"ז דאם לא עשה כן דומה ככלב ששב אל קיאו נרא' פי' כיון שחוזר תכף משמע שמה שהתפלל אינו נוח לו ורוצה להתפלל שנית מה שהתפלל כבר וא\"כ מבזה הוא תפלתו ונתנו שיעור ההמתנה עד תפלת הש\"ץ דנר' לכל שחוזר בשביל לכוין למה שיאמר הש\"ץ והש\"ץ עצמו שיעורו כדי הילוך ד\"א וכן היחיד המתפלל כמ\"ש רמ\"א אח\"כ ובזה מראה לכל שאינו חוזר ואין ביזוי לתפלה שהתפלל ונ\"ל דאפילו אם אין חוזר תכף למקומו לא יאמר תחנון תכף אחר שעקר רגליו אלא ימתין כדי הילוך ד\"א:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 123:3"
+        },
+        "4": {
+          "he": "וכן יחיד המתפלל.  ב\"י בשם רי\"ו כתב ע\"ז וכן נר' מדאמרי' בס\"פ ת\"ה שישהה בין תפלה לתפלה כדי שתתחולל דעתו עליו ומפרש בירוש' דהיינו כדי הילוך ד\"א עכ\"ל פי' כשם שהתם מצינו דהוה זה שיעור שהייה לענין בין תפלה לתפל' ה\"נ מקרי זה שיעור שהיה אם יחזור למקומו שהתפלל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 123:4"
+        },
+        "5": {
+          "he": "אסור להחזיר פניו כו'.  פי' אע\"פ שעדיין עומד במקום שכלו פסיעותיו לא יחזור פניו לראות העומדים אחריו כי יגרום ביטול כוונה לאותם המתפללי' עדיין שיסתכל בהם ובחנם כתב מו\"ח ז\"ל שפסק זה סותר מה שפסק כבר שימתין עד שיאמר הש\"ץ  קדושה דהיינו בחזרתו למקומו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 123:5"
+        },
+        "6": {
+          "he": "שמאל תחלה.  נר' הטעם דבעקירה זו חולק כבוד לשכינה והיינו לימין השכינה שהיא שמאל האדם כדלעיל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 123:6"
+        },
+        "7": {
+          "he": "הוה יוהרא.  שנר' שחולק כבוד לשכינ' יותר משאר בני אדם ע\"צ החיוב:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 123:7"
+        },
+        "8": {
+          "he": "א\"צ לחזור לפסוע.  דהא לא יאמר עושה שלום עד אחר גמר הקדיש ואז יעקור ויפסע:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 123:8"
+        },
+        "9": {
+          "he": "אבל אינו אומר בסוף.  נר' טעם לזה דבשלמא ה' שפתי תפתח צריך שיאמר כדי שיעזור לו הש\"י ליתן לו כוונת הלב להתפלל אבל אחר התפלה שהוא מתפלל בשביל אחרים לא שייך לומר והגיון לבי כי לא התפלל על עצמו אלא היה צ\"ל והגיון לב השומעים התפלה ואין זה בנוסח הפסוק ובלבוש נתן טעם לפי שיתפלל עוד אחר זה וקשה דא\"כ יחיד נמי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 123:9"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "ג' פסיעות. עבב\"י שכתב הרבה טעמים ועוד שמעתי טעם דבזכות ג' פסיעות זכה נ\"נ להחריב ב\"ה ולכן אנו פוסעים ג' פסיעות ומתפללין שיבנה ב\"ה, ובאמ' בגמרא אית' ד' פסיעו' וברב' ש\"ה דף ד' איתא ג' פסיעות וכ\"ה בזוהר מקץ ע' תמ\"ז ופשוטו של דבר פוסע לאחריו כעבד הנפט' מרבו:",
+          "en": "See the Beis Yosef who writes many reasons (for the significance of three steps). I heard a reason is because it is symbolic of the fact that in the merit of three steps Nevucadnetzar was able to destroy the beis hamikdash (Gemara in Sanhedrin 96a relates a story that he took four steps in an attempt to stop a letter which was disrespectful towards Hashem from being delivered). Therefore we take three steps and daven for it to be rebuilt (the Magen Avraham also just explained why we daven for the beis hamikdash after the steps, the Rama gives a different explanation on sief 1). In reality the Gemara does say Nevuchadnezzar took 4 steps (so not a great proof). In the Midrash Rabbah Shir Hashirim daf 4 and in the Zohar parashas miketz page 447 it's brought 3 steps (so according to some versions of this story his explanation makes sense). The simple explanation of backing up (3 steps) is to be like a servant who (respectfully) departs from his master.",
+          "ref": "Magen Avraham 123:1"
+        },
+        "2": {
+          "he": "ואחר שפסע. לא כאותן שאומרים עושה שלום בעוד שפוסעין דאין נכון לעשות כן:",
+          "en": "(the Shulchan Aruch says \"after you take the steps back say oseh shalom\") Not like those who say \"oseh shalom...\" AS there backing up. That is an improper thing to do",
+          "ref": "Magen Avraham 123:2"
+        },
+        "3": {
+          "he": "לצד שמאלו. שהוא ימין השכינה:",
+          "en": "Your left is the Divine presence right (since Hashem is \"facing you\")",
+          "ref": "Magen Avraham 123:3"
+        },
+        "4": {
+          "he": "שלום עלינו. דלא כהאומרים עלינו ועל כל ישראל:",
+          "en": "(the Shulchan Aruch only mentioned saying oseh shalom when bowing left and \"hu birachamav yaaseh shalom aleinu\" when bowing right) This is against those who say \"alienu vial col amo yisroel (when bowing forward).\"",
+          "ref": "Magen Avraham 123:4"
+        },
+        "5": {
+          "he": "יעמוד. חייב לכוין רגליו כמו בתפל' [רד\"ך בית כ\"ז וע\"ש ובס' ב\"ז סי' קפ\"ז]:",
+          "en": "5. One is obligated to keep his feet together like he does during shemona esrie [Radach bayis 27 see there and in the sefer Binyomin Zev siman 187].",
+          "ref": "Magen Avraham 123:5"
+        },
+        "6": {
+          "he": "ולא יחזור. וכשאומרי' פיוטים חוזר כשש\"ץ מתחיל י\"ח (ל\"ח): כתב הכ\"מ דאם רוצה עומד שם ואינו חוזר למקומו אבל לפי סברת י\"א הטעם דבעינן ו' פסיעות עב\"י ולכן צריך ג\"כ לפסוע ג\"פ לפניו ומה\"ט מקפידין שלא יעבור אדם לפניהם בעוד שעומדין שם שלא להפסיק בין הו' פסיעות (ל\"ח) עסי' צ\"ה ס\"א ומ\"ש סי' קכ\"ד וסימן קל\"א ס\"ב:",
+          "en": "6. On days that they say piyutim (before the chazans repetition) on should take (3 steps) forward when the chazan begins his repetition (Lechem Chamudos). The Kesef Mishna writes (9:4) if one wants he can just continue standing where he ended up (after taking the steps back) and not take steps forward. However according to the one explanation of the three steps brought in the Beis Yosef you really need 6 steps (and we include the steps you take forward). Therefore according to this opinion one must take three steps forwards. For this reason were careful not to have people pass infront of others when there standing in there place (after taking three steps back) to not interrupt between the six steps (Lechem Chamudos). See siman 95 sif 1 (where the Rama brings an opinion that need to take three steps forward before Shemoneh eshrei aswell. If so you already have 6 steps, 3 before shemona esrie and 3 after). And also see siman 124 (sif 1 brings from the kesavim to take 3 steps forward at kedusha and wait there until tachanun) and siman 131 sif 2 (where he says if one doesn't have a seat where he took 3 steps to then should take the steps back to get to his seat to sit).",
+          "ref": "Magen Avraham 123:6"
+        },
+        "7": {
+          "he": "והש\"ץ יעמוד. אבל מדינא יכול לחזור מיד דביחיד נראה כאלו רוצה לחזור ולהתוודות והוא ככלב וכו' ועסי' תר\"ז ס\"ד אבל בש\"ץ הדבר ידוע שעושה כן להוציא רבים י\"ח (שם ברשב\"א):",
+          "en": "7. But according to the letter of the law the chazan can immediately take the steps forward because only by an individual returning immediately does it look like (when he returns) that he wants to return and repent and he's like a dog etc. (like a dog spitting up and then eating it). See siman 607 sief 4 but by the chazan it's known that he's doing this (going back immediately) to say the repetition shemonah esrie (Rashba).",
+          "ref": "Magen Avraham 123:7"
+        },
+        "8": {
+          "he": "כשיעור זה. וב\"ח פסק כמ\"ש הרד\"א בשם הראב\"ד דצריך לשהות כשיעור שיגיע ש\"ץ לקדושה ומ\"ש בסי' ק\"ה (כ\"ה) ד\"א היינו משום דצריך לחזור ולהתפלל אבל בלא\"ה הוי ככלב ע\"כ, וכ\"מ בתשובת הרשב\"א וגם מ\"ש הרי\"ו הרי\"ו ישהא מעט י\"ל דר\"ל כשיעור הזה וכ\"מ למעיין שם ומ\"ש בב\"י וכן נראה וכו' הוא מדברי הב\"י:",
+          "en": "8. The Bach follows what Rav Dovid Avudraham says in the name of the Ra'avad that \"one needs to wait the amount of time it takes for the chazan to reach kedusha (before taking his steps forward even though davening alone) and in siman  105 when it says \"have to wait the amount of time it takes to walk four amos\" this is only sufficient because he is repeating shemona esrie (it's dealing in that siman with someone who had to daven twice in a row) but if not repeating then it looks like a dog (to take the steps back even if waited four amos).\"  This ruling is also implied from the Rashbas responsa and if one looks carefully at the Rabbeinu Yiruchams he also seems to mean this (more than four amos) when he writes \"wait a bit.\" That which the Beis Yosef writes \"and this also appears to be etc.\" is the Beis Yosef talking (not the Rabbienu Yirucham).",
+          "ref": "Magen Avraham 123:8"
+        },
+        "9": {
+          "he": "אסור להחזיר. שלא יחשדוהו שדילג (לבוש) וכשמתחיל הש\"ץ רשאי להחזיר פניו אבל לחזור למקומו אסור עד שמגיע לקדושה כמש\"ל דלא כהב\"ח ע\"ש:",
+          "en": "9. (not turning ones face is based on) So they don't suspect him to having have skipped (therefore finishing earlier) (Levush). However once the repitition of shemona esrie begins one is permitted to turn his face but may not return his place until kedusha like I said before. This explanation is not like the Bach, see there (he holds turning ones face and taking three steps forward should both be at the same time so the rulings seem to contradict each other).",
+          "ref": "Magen Avraham 123:9"
+        },
+        "10": {
+          "he": "רגל שמאל. נ\"ל הטעם משום דמסתמא עוקר אינש כרעי' דימינא ברישא לכן בשמאל דמראה כאלו כבד עליו ליפטר מלפני המקום ועמ\"ש סימן (צ\"ז) ומה\"ט אטר רגל עוקר שמאלו שהוא ימין דעלמא תחל' ואפשר עוד לומר הטעם דצריך לפסוע לימין השכינה תחילה ואם כן צריך לפסוע בשמאל תחלה וקצת נוהגין לפסוע רגל הימיני אל השמאלי ואח\"כ פוסעין בשמאל (ל\"ח): כתב ב\"ח ואם יש דוחק בב\"ה רשאי לפחות משיעור גודל בצד עקב ולסמוך על הרשב\"א שכתב בתשובה סי' שפ\"א שאין שיעור לפסיעות אלו עכ\"ל ול\"נ דהרשב\"א לא כתב אלא שאין צריך לפסוע פסיעה בינונית שהוא אמה ע\"ש אבל פחות מעקב בצד גודל לא מיקרי פסיעה כלל ובד\"מ כתב הטעם דתפלות נגד תמידין תקנום ובעי' דומיא דכהנים בעבודתן ולכן לא יפסיע פסיעות גסות יותר ועוד דמחזי כרץ מלפני המלך ע\"כ וכ\"מ בטור רסי' צ\"ה ע\"ש בשם הירושלמי:",
+          "en": "10. I think the reason for this is because a person usually moves his right foot first and therefore by moving his left foot first he's showing it's hard for him to leave from before Hashem. And see what I say in siman 97 (in regards to which side to spit to if forced during shemona esrie). Based on this being the reason, someone who's a lefty (and therefore is accustomed to moving his left foot first) should move his right foot back first. Its possible to give another explanation that the reason is because one should move the foot on the Shechinas right side first (since Hashem is \"facing\" you, your left is His right), so that would be your left foot. There are a few who have the custom (after putting there left foot back) to put there right foot beside there left foot and then move there left foot back again (Lechem Chamudos). The Bach writes that \"if the shul is squished one is permitted to lessen from putting his foot all the way to ankle beside toes and to rely on the Rashba who writes in his responsa in siman 381 that there is no amount one has to move his feet back in each step (so even a drop).\" I (disagree and) think that the Rashba just meant your steps don't need to be a full amah but less than putting your ankle beside your toes isn't called a step (and he wouldn't permit that). The Darchie Moshe writes that the reason (for the steps) is that tefillah was enacted to correspond to the sacrifices  and therefore we need to resemble the priests (who took steps). Therefore ones steps shouldn't be bigger than normal (and should be like the priests who had there ankle beside there toes). And further more it looks like one is running from before the king (if there so big).\" The Tur also implies this in the beginning of siman 95 see there where he quotes the Yirushalmi (that we should resemble the priests during shemona esrie with how our feet are positioned, ankle beside toes. so even though during shemona esrie we position like angels when taking the steps back we should position like priests).",
+          "ref": "Magen Avraham 123:10"
+        },
+        "11": {
+          "he": "בקול רם א\"צ. דסומך על הקדיש שאחר ובא לציון אף על פי שמפסיקין בקריאת התורה והלל וא\"מ כולהו לסדר התפלה באים (ת\"ה סי' י\"ג):",
+          "en": "11. The chazan is relying on the kadish which he says after uva litziyon. Even though there are many interruptions (before that kadish such as) reading the Torah (when applicable like Mondays, Thursdays and Shabbot) and hallel (when applicable like on rosh chodesh) and avinu malkeinu (when applicable like during the  10 days of repentance between rosh hashana and Yom Hakippur) nevertheless all these things are being said because of tefillah (there organized around it and therefore not an interruption) (Terumas Hadeshen siman 13).",
+          "ref": "Magen Avraham 123:11"
+        },
+        "12": {
+          "he": "אין צריך לחזור. ואם הוא רגיל לפסוע אין למחות בידו (רדב\"ז סי' קנ\"ג וע' בהגה' פ\"ק דברכות):",
+          "en": "12. If the chazans accustomed to take steps back you don't have to stop him (Radvaz siman 153 and see the hagoas on the first perek of berachot).",
+          "ref": "Magen Avraham 123:12"
+        },
+        "13": {
+          "he": "פוסע ג' פסיעות. דמתחלה צריך לפסוע ולהפטר על התחנונים של עצמו כגון אלהי נצור ואח\"כ צריך אחר הקדיש על התפלה שהתפלל בעד הצבור (לבוש):",
+          "en": "13. (the reason when he didn't daven before the repetition that the chazan does take steps back is) Because the chazan has to take the steps back and leave (i.e. finish) from Hashem on his supplications for example elokay nitzur and afterwards he says kadish on the tefillah he said for the congregation (Levush)",
+          "ref": "Magen Avraham 123:13"
+        },
+        "14": {
+          "he": "יהיו לרצון. דסומך על תתקבל צלותהון ובשל\"ה כתוב לומר יהיו לרצון:",
+          "en": "14. The chazan is relying on saying (in kadish)\"our tefillah should be accepted.\" The Shelah writes the chazan should say yihiyu liratzon.",
+          "ref": "Magen Avraham 123:14"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ג' פסיעות.  עיין בתשובת חוט השני סימן נ\"ד דבזכות ג' פסיעות זכה נבוכדנצר להחריב ב\"ה ולכן אנו פוסעים ג' פסיעות ומתפללין שיבנה בית המקדש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 123:1"
+        },
+        "2": {
+          "he": "ואחר שפסע.  ולא כאותן שאומרים עושה שלום בעוד שפוסעין דאין נכון לעשות כן. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 123:2"
+        },
+        "3": {
+          "he": "עלינו.  דלא כהאומרים עלינו ועל כל ישראל. מגן אברהם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 123:3"
+        },
+        "4": {
+          "he": "למקומו.  וחייב לכוין רגליו כמו בתפלה. רד\"ך מגן אברהם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 123:4"
+        },
+        "5": {
+          "he": "לקדושה.  וכשאומרים פיוטים חוזר כשש\"ץ מתחיל י\"ח. ל\"ח מ\"א שכנה\"ג ומהרי\"ל ז\"ל אם היה מסיים י\"ח תכף שיושב ש\"ץ לתחנון וכן במ\"ש אם פתח ש\"ץ ויהי נועם ותכף לו סיים פסיעותיו דאחר י\"ח אז היה נשאר במקומו שפסע שם וכיסה פניו ואמר תחנה או במ\"ש ויהי נועם טרם חזר למקומו ע\"ש. ומדברי ט\"ז ס\"ק ג' לא משמע כן דכתב וכן היחיד המתפלל אפי' אין חוזר תכף למקומו לא יאמר תחנון תכף אחר שעקר רגליו אלא ימתין כדי הילוך ד\"א ע\"ש ואפשר דיש חילוק בין המתפלל ביחיד או עם הצבור ומדברי מהרי\"ל נראה דאין להקפיד בנפילת אפים שיהיה מיושב וכן כתב הריב\"ש ועיין סי' קל\"א סעיף ב' מש\"ש. כתב הכ\"מ דאם רוצה עומד שם ואינו חוזר למקומו. ומ\"א כתב לפי סברת י\"א הטעם דבעינן ו' פסיעות דכתיב ורגליהם רגל ישרה. וכתיב וכף רגליהם ככף רגל הרי ששה. ולכך צריך ג\"כ לפסוע ג' פסיעות לפניו דהיינו עוד ג' עי' ב\"י. ומה\"ט מקפידין שלא יעבור אדם לפניהם בעוד שעומדים שם שלא להפסיק בין הששה פסיעות. אבל מה שנוהגים שכשרואים למי שרוצה ללכת לפניהם למהר לשוב למקומם בטרם שממתינים השיעור המפורש טעות הוא. ל\"ח ושכנה\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 123:5"
+        },
+        "6": {
+          "he": "ד\"א.  ומדינא יכול לחזור מיד הש\"ץ. רשב\"א מ\"א (עיין בספר אליהו רבה באריכות מזה מתשובת הרשב\"א):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 123:6"
+        },
+        "7": {
+          "he": "כשיעור זה.  ולא יאמרו תחנון תיכף אלא ימתין כדי הילוך ד\"א ט\"ז ועיין ס\"ק ה' מש\"ש בשם מהרי\"ל. וב\"ח פסק דאין חילוק למתפלל עם הציבור וצריך לשהות כשיעור שיגיע הש\"ץ לקדושה וכ\"פ המגן אברהם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 123:7"
+        },
+        "8": {
+          "he": "פניו.  שלא יחשדוהו שדילג וכשמתחיל הש\"ץ רשאי להחזיר פניו אבל אסור לחזור למקומו עד שמגיע לקדושה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 123:8"
+        },
+        "9": {
+          "he": "תחלה.  ואפי' איטר רגל צריך לפסוע בשמאל דעלמא תחלה עמ\"א וט\"ז וקצת נוהגין לפסוע רגל הימיני אל השמאלי ואח\"כ פוסעין בשמאל. ל\"ח. כ' ב\"ח דאם יש דוחק בבה\"כ רשאי לפחות משיעור גודל בצד עקב ולסמוך על הרשב\"א סי' שפ\"א שאין שיעור לפסיעות אלו וכן נהגו הכל לפסוע בלי שיעור והוא מטעם הדוחק אבל היכא דליכא דוחק צריך לדקדק לפסוע אגודל בצד עקב עכ\"ל. ומ\"א כתב ול\"נ דהרשב\"א לא כתב אלא שא\"צ לפסוע פסיעה בינונית שהיא אמה ע\"ש אבל פחות מעקב בצד גודל לא מיקרי פסיעה כלל ע\"ש והמנהג עכשיו שאם מסיים התפלה ואחריו אדם אחר שהוא מתפלל שאינו יכול לפסוע ג' פסיעות ממתין עד שיכלה האחר תפלתו ואח\"כ פוסע הג' פסיעות. שכנה\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 123:9"
+        },
+        "10": {
+          "he": "פסיעות.  דסומך על הקדיש שאחר ובא לציון אע\"פ שמפסיקין בקריאת התורה והלל כולהו לסדר תפלה הם באים. ת\"ה מ\"א. ואם רגיל לפסוע אין למחות בידו. הרדב\"ז. ועיין הלק\"ט ח\"ב סי' ס\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 123:10"
+        },
+        "11": {
+          "he": "לרצון.  כי לא התפלל על עצמו ובשל\"ה כתב לומר יהיו לרצון:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 123:11"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) כורע ופוסע וכו' - כעבד הנפטר מרבו ושיעור הכריעה כבר כתבתי לעיל בסימן קי\"ג בבה\"ל שהוא כדי שיתפקקו כל חוליותיו שבשדרה אח\"כ מצאתי בסימן זה שכ\"כ א\"ר בשם צידה לדרך:",
+          "en": "",
+          "ref": "Mishnah Berurah 123:1"
+        },
+        "2": {
+          "he": "(ב) ג' פסיעות - עיין בבית יוסף כמה טעמים ועוד כתבו טעם משום דאחז\"ל דבזכות ג' פסיעות שרץ נבוכדנצר לכבוד הש\"י זכה להחריב ב\"ה ולכן אנו פוסעים ג' פסיעות ומתפללין שיבנה ב\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 123:2"
+        },
+        "3": {
+          "he": "(ג) ואחר שפסע - ולא כאותן שאומרין עושה שלום בעוד שפוסעין דאין נכון לעשות כן וכן הדין בעושה שלום דקדיש (א\"ר):",
+          "en": "",
+          "ref": "Mishnah Berurah 123:3"
+        },
+        "4": {
+          "he": "(ד) לצד שמאלו - שהמתפלל רואה עצמו כאלו שכינה מול פניו ושמאל האדם הוא צד ימינו של הקב\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 123:4"
+        },
+        "5": {
+          "he": "(ה) שלום עלינו - דלא כהאומרים עלינו ועל כל ישראל אלא ועל כ\"י יאמר כשמשתחוה לפניו:",
+          "en": "",
+          "ref": "Mishnah Berurah 123:5"
+        },
+        "6": {
+          "he": "(ו) יעמוד - ויכוין רגליו כמו בתפלה כשאומר עושה שלום מפני שמטה עצמו לצד שכינה:",
+          "en": "",
+          "ref": "Mishnah Berurah 123:6"
+        },
+        "7": {
+          "he": "(ז) ולא יחזור - שאם חוזר מיד דומה לתלמיד שנפטר מרבו ופסע לאחוריו וחוזר מיד שסופו מוכיח על תחלתו שלא פסע לאחוריו כדי להפטר ממנו והוא מגונה אבל כשממתין על קדושה או עכ\"פ להתחלת תפילת הש\"ץ נראה לכל שחוזר בשביל הקדושה ולכוין למה שיאמר הש\"ץ:",
+          "en": "",
+          "ref": "Mishnah Berurah 123:7"
+        },
+        "8": {
+          "he": "(ח) למקומו - פי' אם רוצה לחזור למקומו אינו רשאי עד וכו' אבל אם רוצה עומד שם ואינו חוזר למקומו כלל [כ\"מ] וכתב המ\"א דלפי מה שהביא בב\"י די\"א דבעינן ששה פסיעות דהיינו ג' לאחוריו וג' בשובו למקומו א\"כ ע\"כ צריך לחזור למקומו בג' פסיעות לפניו ומטעם זה קצת מקפידין שלא יעבור אדם לפניהם בעוד שעומדין במקום שפסע שלא יפסיק זה בין ששה פסיעותיהם אבל מ\"מ ע\"י קפידתם טועים כשרואים מי שרוצה לעבור לפניהם הם ממהרים לחזור למקומם קודם שיתחיל הש\"ץ התפילה דהוא מעיקר הדין:",
+          "en": "",
+          "ref": "Mishnah Berurah 123:8"
+        },
+        "9": {
+          "he": "(ט) לקדושה - ואם האריך בתפילתו ובעת שפסע הגיע הש\"ץ לקדושה יכול לחזור תיכף למקומו לומר קדושה ואף דמהרי\"ל היה נוהג דכשהיה מסיים י\"ח והש\"ץ נפל על אפיו אז היה נשאר במקומו שפסע שם ונפל ג\"כ על אפיו עם הצבור בשוה ולא היה חוזר תיכף למקומו קדושה שאני שטוב יותר לאומרה במקומו כמו שאר הקהל. ועיין לקמן סימן קל\"א ס\"ב לענין נפילת אפים מה שכתוב שם במ\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 123:9"
+        },
+        "10": {
+          "he": "(י) ולפחות וכו' - עיין בב\"ח שהסכים דלכתחלה נכון להחמיר עד קדושה אם לא שהמקום צר ודחוק וכדי דלא ליתי לאנצויי וכן כתב בדרך החיים אך בזמן כשאומרים פיוטים בודאי יש להקל ולחזור תיכף כשמתחיל הש\"ץ י\"ח:",
+          "en": "",
+          "ref": "Mishnah Berurah 123:10"
+        },
+        "11": {
+          "he": "(יא) וכן יחיד - וב\"ח חולק ופוסק דאין חילוק במתפלל ביחידי בביתו למתפלל עם הצבור אלא בכל גווני צריך לשהות כפי השיעור שיגיע ש\"ץ לקדושה או עכ\"פ עד שיתחיל ש\"ץ בקול רם וכ\"פ המג\"א אם לא שצריך לחזור ולהתפלל שנית לתשלומין דאז לכו\"ע די כדי הילוך ד\"א דהכל יודעין שחזרתו הוא להתפלל שנית ומ\"מ במקום הדחק יש להקל דאף בזה די בד\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 123:11"
+        },
+        "12": {
+          "he": "(יב) אסור להחזיר - היינו אע\"פ שעדיין עומד במקום שכלו פסיעותיו לא יחזיר פניו לצבור דהיינו לצד מערב כל זמן שלא סיים הש\"ץ כי יגרום בזה ביטול כונה להמתפללים וגם שיחשדוהו שדילג ולענין אם רוצה לחזור למקומו כבר מבואר דצריך לכתחילה להמתין עד שיגיע ש\"ץ לקדושה או עכ\"פ עד שיתחיל הש\"ץ:",
+          "en": "",
+          "ref": "Mishnah Berurah 123:12"
+        },
+        "13": {
+          "he": "(יג) תחלה - דמסתמא עוקר אינש כרעא דימינא ברישא לכן עוקר כאן בשמאל דמראה בעצמו כאלו כבד עליו ליפטר מן המקום ועיין בבה\"ל. והנה סדר הג' פסיעות אלו הוא תחלה יפסיע ברגל שמאל פסיעה קטנה ואח\"כ יפסיע בשל ימין פסיעה גדולה ואח\"כ יפסיע בשמאל באופן שיהיו רגליו שוים:",
+          "en": "",
+          "ref": "Mishnah Berurah 123:13"
+        },
+        "14": {
+          "he": "(יד) כדי שיתן וכו' - וכמו פסיעות הכהנים בשעת עבודה שהיו מהלכין עקב בצד גודל. וכתב המ\"א דבפחות משיעור זה אין עליה שם פסיעה כלל ואין להקל אפילו המקום צר ודחוק ויש מקילין במקום הדחק. ודוקא אם האדם העומד אחריו אינו מתפלל אבל כשהוא מתפלל בכל גווני אין לו לפסוע בתוך ד' אמותיו וכנ\"ל בסימן ק\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 123:14"
+        },
+        "15": {
+          "he": "(טו) ולכתחילה - לישנא דהרמ\"א אינו מדוקדק דהו\"ל לכתוב בלשון וי\"א דהא חולק על המחבר דס\"ל לכל הפחות ומשמע דפסיעות גסות יותר עדיף:",
+          "en": "",
+          "ref": "Mishnah Berurah 123:15"
+        },
+        "16": {
+          "he": "(טז) לא יפסיע וכו' - דתפילות כנגד תמידים תקנום ובעינן דומיא דכהנים בעבודתן ולכן לא יפסע פסיעות גסות יותר ועוד דמיחזי כרץ מלפני המלך. וכן פסקו הב\"ח ודה\"ח:",
+          "en": "",
+          "ref": "Mishnah Berurah 123:16"
+        },
+        "17": {
+          "he": "(יז) הוי יוהרא - שנראה שהוא חולק כבוד לשכינה יותר משאר בני אדם:",
+          "en": "",
+          "ref": "Mishnah Berurah 123:17"
+        },
+        "18": {
+          "he": "(יח) בקול רם א\"צ - דסומך על הפסיעות של הקדיש שאחר ובא לציון אע\"פ שמפסיקין בקריאת התורה והלל ואבינו מלכנו כולהו לסדר התפלה באים וקדיש של אחריהם חוזר עיקר על תפלת י\"ח [תרומת הדשן] ומכאן דקדקו האחרונים דאין לש\"ץ לדבר ביני וביני בשיחה [שלא מעניני תפלה] כי הקדיש חוזר על התפלה:",
+          "en": "",
+          "ref": "Mishnah Berurah 123:18"
+        },
+        "19": {
+          "he": "(יט) לחזור - ואם בא לפסוע גם אחר תפלת י\"ח אין למחות בידו:",
+          "en": "",
+          "ref": "Mishnah Berurah 123:19"
+        },
+        "20": {
+          "he": "(כ) פוסע ג' פסיעות - דמתחלה צריך לפסוע ולהפטר על התחנונים של עצמו כגון אלקי נצור ואח\"כ צריך אחר הקדיש על התפלה שהתפלל בעד הצבור:",
+          "en": "",
+          "ref": "Mishnah Berurah 123:20"
+        },
+        "21": {
+          "he": "(כא) אינו אומר וכו' - דסומך על תתקבל צלותהון שאומר לבסוף ובשל\"ה כתב לומר יהיו לרצון וכתב הגר\"א ודברי השל\"ה עיקר:",
+          "en": "",
+          "ref": "Mishnah Berurah 123:21"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

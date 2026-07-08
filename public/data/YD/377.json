@@ -1,0 +1,81 @@
+{
+  "chelek": "YD",
+  "siman": 377,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 3,
+  "fetchedAt": "2026-07-08T00:01:41.334Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין עבדים ושפחות ומנודה שיש להם אבילות. ובו ג' סעיפים:העבדים והשפחות אין עומדים עליהם בשורה ואין אומרים עליהם תנחומי אבלים אלא אומרים לו המקום ימלא חסרונך כשם שאומרים לאדם על שורו וחמורו:",
+      "en": "For male and female slaves no line [of comforters] is made, nor is consolation offered [to their master], but they say to him, 'May the Lord replace your loss,' even as they say to a man regarding his ox and his ass, ['May the Lord replace your loss'].1Ber. 16b. Nowadays this law does not apply since we do not own slaves.",
+      "ref": "Shulchan Arukh, Yoreh Deah 377:1"
+    },
+    {
+      "seif": 2,
+      "he": "אבל מנודה אין מברין אותו ואין אומרים לו תנחומי אבלים:",
+      "en": "A mourner who is an excommunicant must not be provided with the mourner's meal,2 infra § 378. nor is consolation offered to him.3Tur on the authority of T.H. because it is forbidden for one to be in his four cubits. Anything that brings honour to the living is not done for an excommunicant — ShaK. Cf. supra § 345, 4.",
+      "ref": "Shulchan Arukh, Yoreh Deah 377:2"
+    },
+    {
+      "seif": 3,
+      "he": "מנודה שמת מנחמים אבליו:",
+      "en": "[If] an excommunicant died, his mourners may be offered consolation.4T.H. Cf. supra § 345, 1.",
+      "ref": "Shulchan Arukh, Yoreh Deah 377:3"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא ברכות דף ט\"ז ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 377:1"
+        },
+        "2": {
+          "he": "טור בשם הרמב\"ן בסת\"ה מטעם דאסור לישב בד' אמותיו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 377:2"
+        },
+        "3": {
+          "he": "שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 377:3"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "ואין אומרים כו'. דכל דבר שהוא משום כבוד לחיים אין עושין לאבל שהוא מנודה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 377:1"
+        },
+        "2": {
+          "he": "מנודה כו'. עיין לעיל סימן שמ\"ה ס\"ד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 377:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "מברין.  דכל דבר שהוא משום כבוד לחיים אין עושין לאבל שהוא מנודה. וע\"ל סי' שמ\"ה ס\"ד. עכ\"ל הש\"ך (ועיין בבה\"י):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 377:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

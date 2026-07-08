@@ -1,0 +1,594 @@
+{
+  "chelek": "YD",
+  "siman": 195,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 17,
+  "fetchedAt": "2026-07-08T00:01:23.646Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דברים האסורין בזמן נדותה. ובו י\"ז סעיפים:חייב אדם לפרוש מאשתו בימי טומאתה עד שתספור ותטבול (ואפילו שהתה זמן ארוך ולא טבלה) תמיד היא בנדתה עד שתטבול (ב\"י בשם פוסקים) ולא ישחוק ולא יקל ראש עמה (אפילו בדברים) (טור וב\"י בשם רשב\"א מאבות דרבי נתן) שמא ירגיל לעבירה אבל מותר להתייחד עמה דכיון שבא עליה פעם א' תו לא תקיף יצריה (ל' עצמו):",
+      "en": "Matters that are prohibited during her time of menstruation, including 17 paragraphs: A person is obligated to separate from his wife during the days of her impurity until she counts and immerses (even if she waits a long time to immerse).  She is always in her Niddah status until she immerses (Beis Yosef in the name of halakhic authorities). He should not joke or engage in levity with her (even with words) (Tur and Beis Yosef in the name of the Rashba from Avot d'Rabbi Nasan) lest he become accustomed to sin.  However, he is permitted to be alone with her since once he has had intercourse with her one time, his urger will no longer overcome him (his own language).",
+      "ref": "Shulchan Arukh, Yoreh Deah 195:1"
+    },
+    {
+      "seif": 2,
+      "he": "לא יגע בה אפילו באצבע קטנה ולא יושיט מידו לידה שום דבר ולא יקבלנו מידה שמא יגע בבשרה (וכן על ידי זריקה מידו לידה או להיפך אסור) (ב\"ז ס\"ס קנ\"ד והגהות ש\"ד בשם מהר\"ם):",
+      "en": "He may not touch her, even with his little finger, nor may he pass anything from his hand to her hand, nor may he accept from her hand, lest he touch her flesh (similarly, by throwing from his hand to hers or vice versa, is also prohibited).",
+      "ref": "Shulchan Arukh, Yoreh Deah 195:2"
+    },
+    {
+      "seif": 3,
+      "he": "לא יאכל עמה על השלחן אא\"כ יש שום שינוי שיהיה שום דבר מפסיק בין קערה שלו לקערה שלה לחם או קנקן או שיאכל כל אחד במפה שלו: הגה וי\"א הא דצריכין הפסק בין קערה שלו לקערה שלה היינו דוקא כשאינן אוכלין בקערה אחת כשהיא טהורה אבל אם אוכלין בקערה אחת כשהיא טהורה סגי אם אוכלת בקערה בפני עצמה וא\"צ היכר אחר (הגהות אשירי בשם ר\"י והגהות אלפסי) וכן נוהגין י\"א שאסור לו לאכול משיורי מאכל שלה (מצא בקונטרס דהלכות נדה) כמו שאסור לשתות משיורי כוס שלה וכמו שיתבאר:",
+      "en": "He may not eat with her at the table unless there is some difference, that there is something separating between his plate and her plate, bread or a pitcher, or that each one eats on their own tablecloth. Rama: There are those who say that the requirement of separation between his plate and her plate is specifically when they don't eat from the same plate when she is pure. However if they normally eat from a single plate when she is pure,  it suffices if she eats from her own plate, and they don't need another reminder (Hagahot Ashiri in the name of R\"i and Hagahot Alfasi) and this is the practice.  There are those who say that it is prohibited for him to eat what remains on her plate (found in a commentary on the laws of Niddah) just as it is prohibited for him to drink what remains in her cup, as will be be explained.",
+      "ref": "Shulchan Arukh, Yoreh Deah 195:3"
+    },
+    {
+      "seif": 4,
+      "he": "לא ישתה משיורי כוס ששתתה היא: הגה אם לא שמפסיק אדם אחר ביניהם (טור בשם סמ\"ג) או שהורק מכוס זה אל כוס אחר אפילו הוחזר לכוס ראשון (הגהמי\"י בשם רא\"ם ורוקח סימן שי\"ח ומרדכי ואגודה פ\"ק דשבת) ואם שתתה והוא אינו יודע ורוצה לשתות מכוס שלה אינה צריכה להגיד לו שלא ישתה (שם) והיא מותרת לשתות מכוס ששתה הוא (ג\"ז שם) ואם שתתה מכוס והלכה לה י\"א שמותר לו לשתות המותר דמאחר שכבר הלכה אין כאן חבה (בקונטרס הנ\"ל):",
+      "en": "He may not drink from what remains in a cup from which she drank.  Rama: Unless someone else drank in between them (Tur in the name of the Smag) or it was poured from this cup into another cup, even if it was returned to the first cup (Hagahot Maimoniot in the name of the R'em and the Rokeach 318 and Mordechai and Aguda on the first chapter of Shabbos). If she drank and he didn't know, and he wanted to drink from her cup, she doesn't need to tell him not to drink (ibid), and she is allowed to drink from a cup from which he drank (ibid). If she drank from a cup and left, there are those who say he is permitted to drink from what remains since after she has already gone, there is no obligation (in the commentary mentioned above).",
+      "ref": "Shulchan Arukh, Yoreh Deah 195:4"
+    },
+    {
+      "seif": 5,
+      "he": "לא ישב במטה המיוחדת לה אפילו שלא בפניה: הגה ואסור לישב על ספסל ארוך שמתנדדת ואינה מחוברת לכותל כשאשתו נדה יושבת עליו (מרדכי פ\"ק דשבת בשם צפנת פענח בשם רש\"י) ויש מתירים כשאדם אחר מפסיק ויושב ביניהם (אגודה פ' התינוקת ות\"ה סימן רנ\"א) וכן לא ילך עם אשתו בעגלה אחת או בספינה אחת אם הולך רק דרך טיול כגון לגנות ופרדסים וכיוצא בזה אבל אם הולך מעיר לעיר לצרכיו מותר אף על פי שהוא ואשתו הם לבדן ובלבד שישבו בדרך שלא יגעו זה בזה (כל זה בת\"ה סימן רנ\"א):",
+      "en": "He should not sit in a bed that is specifically meant for her even in her absence. Rama: It is prohibited to sit on a long bench that wobbles and is not attached to the wall when his wife in Niddah is sitting on it (Mordechai first chapter of Shabbos, Tzaphenas Paneach in the name of Rashi) but there are those who permit when a another person sits in between them (Agudah on Chapter Hatinoket and Torat Habayit 251). Similarly, he should not go with his wife in a single cart or on a single boat if they are going just for a pleasure trip, for instance to go to gardens and orchards or the like. However, if he is going from one city to another out of necessity, it is permitted, even if he and his wife are alone, as long as they sit in such a way that they do not touch each other (all this is in Torat Habayit 251).",
+      "ref": "Shulchan Arukh, Yoreh Deah 195:5"
+    },
+    {
+      "seif": 6,
+      "he": "לא יישן עמה במטה אפילו כל אחד בבגדו ואין נוגעין זה בזה: הגה ואפילו יש לכל אחד מצע בפני עצמו (ב\"י דלא כר' ירוחם) ואפילו אם שוכבים בב' מטות והמטות נוגעות זו בזו אסור (מרדכי פ\"ק דשבת בשם הר\"מ):",
+      "en": "He may not sleep in bed with her, even if each one is in their own garment, and they do not touch each other.  Rama: Even if each one has their own sheet (Beis Yosef contrary to Rabbeinu Yorucham), and even if they sleep in two beds but the beds touch each other it is prohibited (Mordechai on Chapter 1 of Shabbos in the name of the Ram).",
+      "ref": "Shulchan Arukh, Yoreh Deah 195:6"
+    },
+    {
+      "seif": 7,
+      "he": "לא יסתכל אפילו בעקבה ולא במקומות המכוסים שבה: (אבל מותר להסתכל בה במקומות הגלוים אע\"פ שנהנה בראייתה) (ב\"י בשם הרמב\"ם):",
+      "en": "He may not gaze even at her ankle, nor at any of her covered places. (However, he is permitted to gaze at her revealed places, even though he takes pleasure in the sight) (Beis Yosef in the name of the Rambam).",
+      "ref": "Shulchan Arukh, Yoreh Deah 195:7"
+    },
+    {
+      "seif": 8,
+      "he": "ראוי לה שתייחד לה בגדים לימי נדותה כדי שיהיו שניהם זוכרים תמיד שהיא נדה:",
+      "en": "It is fitting that she should have special garments for her days of Niddah so that they both remember constantly that she is in Niddah.",
+      "ref": "Shulchan Arukh, Yoreh Deah 195:8"
+    },
+    {
+      "seif": 9,
+      "he": "בקושי התירו לה להתקשט בימי נדתה אלא כדי שלא תתגנה על בעלה:",
+      "en": "With difficutly, they permitted her to adorn herself during her days of Niddah, only so that she should not be repulsive to her husband.",
+      "ref": "Shulchan Arukh, Yoreh Deah 195:9"
+    },
+    {
+      "seif": 10,
+      "he": "כל מלאכות שהאשה עושה לבעלה נדה עושה לו חוץ ממזיגת הכוס שאסורה למזוג הכוס (בפניו) (ב\"י וכן משמע ממרדכי פ\"ק דשבועו' וכ\"מ מדברי הפוסקים) ולהניחו לפניו על השלחן אא\"כ תעשה שום היכר כגון שתניחנו על השלחן ביד שמאל או תניחנו על הכר או על הכסת אפילו ביד ימינה:",
+      "en": "All labors that a woman does for her husband, a Niddah may do for him, except mixing his cup, for it is prohibited to mix the cup (in front of him) (Beis Yosef and similarly is implied in the Mordechai on the first chapter of Shevuos and several places in the words of the halakhic authorities), or setting on the table before him unless she makes a reminder, for instance that she sets it on the table on the left side or that she sets in on a cushion or pillow, even on his right hand side.",
+      "ref": "Shulchan Arukh, Yoreh Deah 195:10"
+    },
+    {
+      "seif": 11,
+      "he": "אסורה להציע מטתו בפניו ודוקא פריסת סדינים והמכסה שהוא דרך חבה אבל הצעת הכרים והכסתות שהוא טורח ואינו דרך חבה שרי ושלא בפניו הכל מותר אפילו הוא יודע שהיא מצעת אותם:",
+      "en": "She is prohibited to make his bed in front of him, specifically spreading sheets and blankets, which is in the way of affection, but setting out the pillows, which is labor and is not the way of affection, is permitted. In his absence it is all permitted, even if he knows that she is making the bed.",
+      "ref": "Shulchan Arukh, Yoreh Deah 195:11"
+    },
+    {
+      "seif": 12,
+      "he": "אסורה ליצוק לו מים לרחוץ פניו ידיו ורגליו אפילו אינה נוגעת בו ואפילו הם מים צוננים:",
+      "en": "She is prohibited to pour water for him to wash his face, hands and feet, even if she does not touch him, and even if the water is cold.",
+      "ref": "Shulchan Arukh, Yoreh Deah 195:12"
+    },
+    {
+      "seif": 13,
+      "he": "כשם שאסורה למזוג לו כך הוא אסור למזוג לה ולא עוד אלא אפילו לשלוח לה כוס של יין אסור לא שנא כוס של ברכה לא שנא כוס אחר אם הוא מיוחד לה אבל אם שותים הם מאותו הכוס ושתית איהי אבתרייהו לית לן בה:",
+      "en": "Just as she is prohibited to mix for him, so, too, he is prohibited from mixing for her.  Not only that, but even to send her a cup of wine.  It doesn't matter whether it is the cup of blessing or another cup, if it is designated for her. However, if they are drinking out of that cup, and she drinks after him, we need not be concerned.",
+      "ref": "Shulchan Arukh, Yoreh Deah 195:13"
+    },
+    {
+      "seif": 14,
+      "he": "כל אלו ההרחקות צריך להרחיק בין בימי נדותה בין בימי ליבונה שהם כל ימי ספירתה ואין חלוק בכל אלו בין רואה ממש למוצאת כתם: הגה וי\"א דאין להחמיר בימי ליבונה בענין איסור אכילה עמה בקערה (הגה במרדכי בשם ראבי\"ה) וכן נוהגין להקל בזה ויש להחמיר:",
+      "en": "All these distancing measures must be practiced both during her days of menstruation and during her \"whitening\" days, which are all the days of her counting, nor is there a distinction in any of these, between one who experienced a flow and one who found a stain. Rama: There are those who say that we need not be stringent during her whitening days in the matter of the prohibition on eating with her from a plate (note in the Mordechai in the name of the Raavya), and thus the practice is to be lenient in this, but one should be stringent.",
+      "ref": "Shulchan Arukh, Yoreh Deah 195:14"
+    },
+    {
+      "seif": 15,
+      "he": "אם הוא חולה ואין לו מי שישמשנו זולתה מותרת לשמשו רק שתזהר ביותר שתוכל להזהר מהרחצת פניו ידיו ורגליו והצעת המטה בפניו:",
+      "en": "If he is sick and has no one to attend him besides her, she is allowed to attend him, but she should be as diligent as she can be to avoid washing his face, hands or feet, or making the bed in front of him.",
+      "ref": "Shulchan Arukh, Yoreh Deah 195:15"
+    },
+    {
+      "seif": 16,
+      "he": "אשה חולה והיא נדה אסור לבעלה ליגע בה כדי לשמשה כגון להקימה ולהשכיבה ולסמכה (וי\"א דאם אין לה מי שישמשנה מותר בכל (הגהות ש\"ד והגהות מרדכי פ\"ק דשבת בשם הר\"מ) וכן נוהגין אם צריכה הרבה לכך):",
+      "en": "A woman who is sick and menstruating, it is prohibited for her husband to touch her in order to attend to her, for instance to help her stand up, or lie down, or to support her (there are those who say that if she has no one else to attend her, he is permitted to do everything and this is the practice if she really needs it).",
+      "ref": "Shulchan Arukh, Yoreh Deah 195:16"
+    },
+    {
+      "seif": 17,
+      "he": "אם בעלה רופא אסור למשש לה הדפק: הגה ולפי מה שכתבתי דנוהגין היתר אם צריכה אליו דמשמש לה כ\"ש דמותר למשש לה הדפק אם אין רופא אחר וצריכה אליו ויש סכנה בחליה (כך דקדק הב\"י מלשון הרמב\"ן סי' קכ\"ז) ועיין בא\"ח סימן פ\"ח אם מותר לנדה ליכנס לבית הכנסת ולהתפלל:",
+      "en": "If her husband is a doctor, he is prohibited to touch her in order to take her pulse.  Rama: According to what I have written, that our custom is to permit him to attend her if she needs him, all the more so, it is permitted for him to take her pulse if there is not another doctor, and she need him, and there is danger in her illness (thus specified the Beis Yosef from the language of the Ramban 127), and see in Orach Chayim Ch. 88 if a menstruant is permitted to enter a synagogue to pray.",
+      "ref": "Shulchan Arukh, Yoreh Deah 195:17"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "תוספות שבת דף י\"ג והרא\"ש בפסקיו בפרק ה' דכתובות וכ\"כ הרשב\"א ושכן הוא דעת הר\"א ודעת כל הגאונים וכן כתב הרמב\"ם בפי\"א מהא\"ב וסמ\"ג וסה\"ת מהא דשבת דף ס\"ד ע\"ב בנדתה תהא עד שתבא במים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:1"
+        },
+        "2": {
+          "he": "רמב\"ם שם בפרק כ\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:2"
+        },
+        "3": {
+          "he": "מסקנת הגמ' בכתובות דף ד' ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:3"
+        },
+        "4": {
+          "he": "תוס' שם בשבת די\"ג מסדר אליהו וכ\"כ הרמב\"ם שם פי\"א והרשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:4"
+        },
+        "5": {
+          "he": "שם בתוספות ובכתובות דף ס\"א ע\"א שרש\"י היה נזהר בזה מסדר אליהו וכן כתב הרא\"ש שם וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:5"
+        },
+        "6": {
+          "he": "ממשנה שבת דף י\"א ע\"א לא יאכל הזב עם הזבה וכו' הראב\"ד שם בפי\"א בהשגתו ושכ\"כ רב אחא וכ\"כ ה\"ה בשם הרמב\"ן והרשב\"א וכ\"כ הר\"ן שכן משמע בבריית' בגמ' וכ\"כ הטור וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:6"
+        },
+        "7": {
+          "he": "שם ושם בשם הרמב\"ן והרשב\"א וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:7"
+        },
+        "8": {
+          "he": "טור בשם סמ\"ג והגמי\"י בפרק י\"א בשם רא\"ם ממשמעות עובדא דתנא דבי אליהו פ\"ק דשבת וציינתיו לעיל וכן כתב המרדכי שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:8"
+        },
+        "9": {
+          "he": "טור וכ\"כ הרשב\"א בשם הרא\"ש בשם רב האי גאון וש\"פ מהא דאסורה להציע מטתו וכו' כמו שיתבאר לקמן סעיף י\"א מכ\"ש לישן או לישב על מטתה שיש הרגל עבירה יותר:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:9"
+        },
+        "10": {
+          "he": "אבעיא שם בפ\"ק דשבת ונפשטא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:10"
+        },
+        "11": {
+          "he": "ברייתא נדרים דף כ' ע\"א וכדמפרש רב יוסף שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:11"
+        },
+        "12": {
+          "he": "טור וכ\"כ הרשב\"א בת\"ה דמן העקב נלמוד לכל מקום המכוסה בה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:12"
+        },
+        "13": {
+          "he": "שם וכ\"נ מפירוש רש\"י בכתובות דף ע\"ב ע\"א וקדושין דף פ' ע\"א מהא דהוחזקה נדה בשכנותיה וכו':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:13"
+        },
+        "14": {
+          "he": "ברייתא משמיה דר\"ע שבת דף ס\"ד ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:14"
+        },
+        "15": {
+          "he": "מימרא דרב הונא כתובות דף ס\"א ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:15"
+        },
+        "16": {
+          "he": "כאיתתא דשמואל שם: (°) כאיתת' דאביי שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:16"
+        },
+        "17": {
+          "he": "שם במימרא דרב הונא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:17"
+        },
+        "18": {
+          "he": "שם בתוספות וכ\"כ הרא\"ש והמרדכי וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:18"
+        },
+        "19": {
+          "he": "שם והרשב\"א בת\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:19"
+        },
+        "20": {
+          "he": "כן פי' הטור והרשב\"א בת\"ה מימרא דרב הונא דלעיל דבהוא רוחץ והיא מוצקת איירי דאילו ליגע היא בידו אפילו בלא רחיצה אסור ליגע בה אפילו באצבע קטנה וכ\"כ ש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:20"
+        },
+        "21": {
+          "he": "הרשב\"א שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:21"
+        },
+        "22": {
+          "he": "שם ושם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:22"
+        },
+        "23": {
+          "he": "שם ושם מברייתא דמסכת כלה פ\"א המשגר כוס של ברכה לאשה וכו' ונדה להא מלתא דמיא ול\"ש כוס של ברכה ול\"ש כוס אחר:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:23"
+        },
+        "24": {
+          "he": "שם ברשב\"ם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:24"
+        },
+        "25": {
+          "he": "ציינתיו לעיל בריש הסימן:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:25"
+        },
+        "26": {
+          "he": "טור וכ\"כ הרשב\"א בת\"ה הקצר: (°) וכ' מהרש\"ל שאיסור גמור עושין ושנתקבצו כל הקהלות ונתנו חרם על זה וכן המנתחים בשר לחתיכות קטנות ואוכלים בקערה אחת הוא נוטל חתיכה אחת וכן היא נוטלת חתיכה אחת אסור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:26"
+        },
+        "27": {
+          "he": "שם בשם אביו הרא\"ש בתשובה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:27"
+        },
+        "28": {
+          "he": "תה\"ד סימן רנ\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:28"
+        },
+        "29": {
+          "he": "שם בת\"ה בשם גדול אחד וגם בתשו' להרמב\"ן סימן קכ\"ז וכתב הרב ב\"י שנראה מדברי תה\"ד שאפילו כשאין רופא זולתו אסור וכן להרמב\"ם דנגיעת ערוה אסור' מן התורה אע\"ג שיש בו פקוח נפש אפשר דאסור משום דהוא אביזרא דג\"ע וצ\"ע וכבר פסק רמ\"א להיתר:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 195:29"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "תמיד היא בנדתה כו'. כלומר אף בימי לבונה כל דין נדה יש לה כדאיתא בפוסקי' ומביאם ב\"י:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 195:1"
+        },
+        "2": {
+          "he": "אפי' בדברים. אם מרגילין לערוה לא ידבר בהן עמה עכ\"ל טור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 195:2"
+        },
+        "3": {
+          "he": "ולא יושיט מידו כו'. אפילו בדבר שהוא ארוך:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 195:3"
+        },
+        "4": {
+          "he": "אא\"כ כו'. ואצ\"ל שאסור לאכול עמה בקערה א' בזה אחר זה אע\"פ שאין נוגעים ביחד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 195:4"
+        },
+        "5": {
+          "he": "שום שינוי. דומיא דלעיל סי' פ\"ח ס\"ב גבי בשר בחלב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 195:5"
+        },
+        "6": {
+          "he": "או שיאכל כל א' כו'. או שתגלה מעט מן השלחן ותתן קערה שלה עליו כ\"כ הר\"ר יונה בספר דרשות הנשים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 195:6"
+        },
+        "7": {
+          "he": "וי\"א כו'. כתב הב\"ח דאף לסברא זו אינה אלא כשגם בני הבית אוכלי' עמהם על שלחן א' ביחד התם הוא דשרי כשהיא אוכלת מהקערה שלה אע\"פ שאוכלים על מפה אחד בלא שום היכר אבל כשבני הבית אוכלין על שלחן אחר והאיש והאשה אוכלין לבדן על שלחן אחד כ\"א מקערה שלו אסור אפילו היה רגיל לאכול עמה בקערה א' ומשמע בדבריו דה\"ק כשאין שם בני בית כלל אסור ואין דבריו מוכרחי':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 195:7"
+        },
+        "8": {
+          "he": "י\"א שאסור כו'. לפי שהרב בד\"מ כתב דין זה בשם הקונטרס שמצא ע\"כ כ' דין זה בשם י\"א אבל לפעד\"נ דהגמי\"י בשם רא\"ם ומרדכי (ואגודה ורוקח סימן שי\"ח) פ\"ק דשבת בשם הר\"ש שמהם מקור האי דינא דלקמן סעיף ד' דלא ישתה משיורי כוס ששתתה שם מוכח להדיא דכ\"ש דלא יאכל משיורי מאכל שלה ואדרבה שתיה נלמד מאכילה ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 195:8"
+        },
+        "9": {
+          "he": "לא ישתה כו'. משמע אע\"פ שחזרו ומלאוהו כגון ששתתה היא חצי ואח\"כ מלאוהו אסור דמ\"מ הוא שותה משיורה אבל אם שתתה היא כל הכוס ומלאוהו נראה דמותר וכ\"מ בב\"ח ואע\"ג שכ' ב\"י ואנו נוהגין מיד להדיח הכוס בין שתי' דידי' לשתיה דידה ומנהג כשר הוא עכ\"ל אנן לא נהגינן הכי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 195:9"
+        },
+        "10": {
+          "he": "לא ישב כו'. והב\"ח חולק דדוקא לשכב שם ולישן כשפושט בגדיו הוא דאסור אבל ישיבה בעלמא כשהוא לבוש בגדיו אין בו איסור אפי' בפניה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 195:10"
+        },
+        "11": {
+          "he": "במטה כו'. מיהו במטה של עץ או של בנין מותר שם עם אשתו הוא במטתו ואשתו במטתה וכ\"כ הר\"מ אלשקר בתשו' סי' צ\"א והוא מפרק הדר (עירובין דף ס\"ג ע\"ב) הישן בקילעה שאיש ואשתו שם וכו':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 195:11"
+        },
+        "12": {
+          "he": "אע\"פ כו'. הואיל והיא מותרת לו לאחר זמן אינו בא לידי מכשול:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 195:12"
+        },
+        "13": {
+          "he": "ממזיגת הכוס כו'. כתב הב\"ח מ\"כ בדרשות מהר\"ש מאוסטרייך דשלא כדין עושין הבעלי בתים שמניחין נשותיהם לישא הקערות וכיוצא בהן על השלחן מידי דהוה אמזיגת הכוס עכ\"ל מיהו למ\"ש הגמי\"י בשם רא\"מ דמזיגה בלא הושטה או הושטה בלא מזיגה מותר אפי' בלא שינוי ה\"ה בקערה דליכא אלא הושטה דשרי וכן למ\"ש הרשב\"א (והב\"י לדעת ה\"ה) דמזיגת יין במים דוקא אסור אבל שאר משקים אי נמי מזיגה מן הכלי כמו שאנו עושים שרי ה\"ה בקערה אין קפידא ועוד נראה דאפי' את\"ל דנתינת הקערה על השלחן ה\"ל כמזיגת הכוס מ\"מ אף במזיגת הכוס אין איסור אלא בכוס המיוחד לבעלה בלבד דאיכא חיבה אבל להביא הקער' על השלחן שכל בני בית אוכלים ממנה אין קפידא אע\"ג שגם בעלה אוכל עם בני ביתה מאותה קערה דליכא הכא חיבה והכי נקטינן אבל להביא קערה המיוחדת לבעלה אסורה וכדמוכח מתנא דבי אליהו וממ\"ש סה\"ת דאף בהושטה בלבד כשאין בו שינוי אסור במאכל ובמשתה ע\"כ ולפי זה משמע דמחמיר ג\"כ בשאר משקים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 195:13"
+        },
+        "14": {
+          "he": "בפניו. והב\"ח כתב דאע\"פ שהמזיגה שלא בפניו אם מניחה על השלחן בפניו אסור ואף הגמי\"י דדוקא בדאיכא תרוייהו מזיגה והושטה הוא דאוסר מודה בזה ואצ\"ל כשהוא יודע שהיא מוזגת את הכוס דכיון שהניחה על השלחן בפניו חשיב כמזיגה בפניו ג\"כ ואסור עכ\"ד ואין דבריו מוכרחים גם מדברי הרא\"ש פ\"ק דכתובות מוכח דשלא בפניו ליכא איסורא כלל ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 195:14"
+        },
+        "15": {
+          "he": "ודווקא פריסת סדינים כו'. עיין בא\"ע סי' פ' ס\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 195:15"
+        },
+        "16": {
+          "he": "ורגליו כו'. וכ' הר\"ר יונה בספר דרשות הנשים דאסור לתת לפני בעלה קיתון של מים וכלים שירחץ בהם רגליו מפני שהוא דרך חיבה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 195:16"
+        },
+        "17": {
+          "he": "וי\"א כו'. ז\"ל ד\"מ בין בימי נדותה בין בימי לבונה וכבר נתבאר ר\"ס זה אמנם מצאתי הג\"ה במרדכי בשם ראבי\"ה וז\"ל אחר ימי ליבון ליכא הרגל עבירה וטוב לאכול עמה כדי שתרצה לטבול אם יכולה לטבול ע\"כ וע\"ז ראיתי מקילים בימי לבונה ואין נ\"ל לסמוך ע\"ז וראבי\"ה הוא יחיד בזה עכ\"ל. והב\"ח כ' דאף לפי זה טועים המקילים שהרי לא התיר אלא ביום הז' שאחר ימי ליבון כדי שתתרצה לטבול וגם ליכא הרגל עבירה דאין לחוש שמא יבא עליה ביום הז' כיון שהיא טובלת לערב וגם זו סברא קלושה היא ואין שומעין ליחיד להתי' איסור המפורסם בכל החיבורים ולכן יש לדרוש ברבים דאיסורא קא עבדי הני דאוכלים יחד מקערה א' בימי לבונה ומצאתי בהג\"ה ואנשים האוכלים עם נשותיהם בימי ליבונה שלא ירגישו בני הבית שבוש הוא ועוברים על דברי חכמים ונתקבלו כל הקהלות ועשו חרם ע\"ז דהר\"ח ע\"כ והג\"ה זו היא בהגהת מהרש\"ל ומביאו הדרישה וראב\"ן כ' בס\"ס של\"ה ויש נוהגין שלא לאכול עד כלות שבעה נקיים והוא כשר ונאה דשוב ליכא הרגל עבירה אלא הרגל מצוה דכיון דמצי למטבל לא שביק היתרא ואכיל איסורא ועי\"ש שהאריך:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 195:17"
+        },
+        "18": {
+          "he": "מהרחצת פניו כו'. אבל מזיגת הכוס אשכחן היתרי טובי כדלעיל ס\"ק י\"ג. ב\"ח. ונראה דאפי' למ\"ש שם דנכון להחמיר הכא בחולה שרי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 195:18"
+        },
+        "19": {
+          "he": "אסור לבעלה כו'. דדוקא כשהוא חולה והיא בריאה שרי דכיון דחולה הוא ליכא למיחש להרגל עבירה דאין יצרו מתגבר עליו מפני שתשש כחו אבל כשהיא חולה והוא בריא איכא למיחש להרגל עבירה שמא יתגבר יצרו עליו ויפייסנה. ת\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 195:19"
+        },
+        "20": {
+          "he": "אסור למשש כו'. ומיהו אם החולה מסוכן ואין שם רופאים משמע קצת מדברי תשובת הרמב\"ן סימן קכ\"ז דשרי מפני פיקוח נפש אלא די\"ל דלטעמיה אזיל דסבירא ליה דנגיעת נדה אינו אלא מדרבנן אבל להרמב\"ם דנגיעת ערוה אסורה מן התורה הכא אע\"פ שיש פיקוח נפש אפשר דאסור משום אביזרא דג\"ע וצ\"ע עכ\"ל ב\"י. וכ\"כ העט\"ז ואין נראה דודאי אף להרמב\"ם ליכא איסור דאורייתא אלא כשעושה כן דרך תאוה וחיבת ביאה כמש\"ל סי' קנ\"ז ס\"ק י' מה שאין כן הכא וכן המנהג פשוט שרופאים ישראלים ממששים הדפק של אשה אפילו אשת איש או עובדת כוכבים אע\"פ שיש רופאים אחרים עובדי כוכבים וכן עושים שאר מיני משמושים ע\"פ דרכי הרפואה אלא הדבר פשוט כמ\"ש וזה נראה דעת הרב דלעיל בסי' קנ\"ז משמע מדבריו כהרמב\"ם וכמו שכתבתי שם בס\"ק י' וכאן התיר מישוש הדפק מ\"מ באין סכנה אסור לבעלה למשש הדפק כשהיא נדה וכדאיתא בתשובת הרמב\"ן ובדברי הרב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 195:20"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "לחם או קנקן. נראה דוקא כשאין אוכלין מאותו לחם ואין שותין מאותו קנקן דומיא דסי' פ\"ח וכ\"כ בפרישה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 195:1"
+        },
+        "2": {
+          "he": "בקערה אחת. העתיקו בפרישה ומו\"ח ז\"ל לשון זה עוד ראיתי שטות גדול שמנתחין חתיכות קטנות בקערה אחת הוא נוטל אחת והיא נוטלת אחת עד גמר אכילה ושבוש גדול הוא דפשיטא דחשיב אכילה עכ\"ל והוגה מספר רש\"ל אבל מ\"מ משמע דכשמשימין קערה עם החתיכו' גדולות כדרך שמשימין בקדרה וכל א' נוטל מן הקערה ומשים לפניו על כלי מיוחד ואוכל משם אין בזה איסור כיון דאין האכילה מיד בלקיחתו מקערה שלוקחה גם היא אלא משתמש בכלי אחר בינתיים כן נראה לע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 195:2"
+        },
+        "3": {
+          "he": "משיורי מאכל וכו'. כיון דמדמה מאכל לשתיה משמע לכאורה שאף מאכל לא תביא לו וכ\"כ מו\"ח ז\"ל בשם הר\"ש מאוסטרייך וק\"ל דאמאי אמרו כל מלאכות עושה לו חוץ ממזיגת הכוס ולא חשיב תיקון מאכל לפניו ע\"כ נראה דחכמים שיערו שאין קירוב בזה רק מעשה עבדות שיש בו טורח משא\"כ במזיגת הכוס וכמו שמחלק בסעיף י\"א לענין הצעת המטה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 195:3"
+        },
+        "4": {
+          "he": "מאכל שלה. ואם הפסיק אחר ביניהם מותר כמו בשיורי כוס בסמוך וכן בכל הקולות שישנן שם יש בזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 195:4"
+        },
+        "5": {
+          "he": "והיא מותרת לשתות כו'. דהיא לא מרגלא ליה לעבירה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 195:5"
+        },
+        "6": {
+          "he": "לא ישב במטה כו'. משמע אפילו ישיבה בעלמא בלא שכיבה דבישיבה נמי איכא הרהור ומצד ההרהור יבוא לידי הרגל עבירה כ\"כ ב\"י וביש ספרים איתא בטור כאן לא ישכב ומו\"ח ז\"ל כתב דטעות סופר בגירסא של לא ישב כיון שלעיל סוף סי' קצ\"ג כ' בטור וש\"ע לא יישן ולא נראה דהתם קמ\"ל דבכלה אפי' שינה שם מותר אבל זה ודאי דגם ישיבה שייך בה הרהור דהא כ' המרדכי ורמ\"א מביאו בסמוך דאסור לישב על ספסל ארוך כו' וכ\"ש ישיבה במטה שלה דאיכא הרהור טפי ונראה דכ\"ש הוא שהיא לא תישן במטה שלו דיש טפי הרהור בשכבה ובקומה אבל ישיבה בעלמא מותר לה על מטה שלו דהיא לא מרגלא ליה כן נ\"ל ונגיעה שנוגע בסדין שהוא מלוכלך בדם אין איסור אע\"פ שקצת נזהרין מזה ושבוש הוא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 195:6"
+        },
+        "7": {
+          "he": "לא יסתכל כו'. והעונש על זה בגמ' דהויין ליה בנים שאינם מהוגני': מצאתי בהג\"ה סמ\"ק ישן בשם מהר\"ר פרץ אשה נדה יכולה לשכוב אסדיני בעלה ונזהרות מסדינים ששכב עליהם איש אחר פן תתעבר משכבת זרע של אחר ואמאי אינה חוששת פן תתעבר בנדותה משכבת זרע של בעלה ויהא הולד בן הנדה והשיב כיון דאין כאן ביאת איסור הולד כשר לגמרי אפילו תתעבר משכבת זרע של אחר כי הלא בן סירא כשר היה אלא דמשכבת זרע של אחר קפדינן אהבחנה וגזירה שמא ישא אחותו מאביו כדאיתא ביבמות עכ\"ל הועתק מספר מו\"ח ז\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 195:7"
+        },
+        "8": {
+          "he": "אסורה ליצוק לו מים. לכאורה משמע מלשון זה שאסורה ליתן מים בכלי והוא ירחץ אח\"כ אבל באמת אינו כן דזה לשון רשב\"א אפי' הוא רוחץ והיא מוצקת שאילו לרחוץ בידיה אפי' בלא רחיצה אסור דהא איכא קירוב בשר ואסור ליגע אפי' באצבע קטנה עכ\"ל משמע דמותרת להכין לו מים בכלי והוא ירחץ משם דמדכתב הוא רוחץ והיא מוצקת משמע דבשעת רחיצה שלו היא יוצקת ולא שהיא מכינה לו תחילה קודם רחיצתו ותו דאם תפרש דגם זה אסור קשה מנ\"ל לאסור זה דהא כתב אח\"כ הוכחה שאין לפרש הרחיצה בידה מכח קירוב בשר ש\"מ דמיירי כאן במידי דלאו קירוב בשר דהיינו שיוצקת בשעת רחיצה וא\"ל דהא גם דבר זה שיוצקת בשעה שהוא רוחץ ג\"כ אסור בלאו חיבה דרחיצה אלא מטעם דנוגעת בו על ידי המים הנוזלין מידה לידו י\"ל דזהו מגע על ידי דבר אחר שהיא נוגעת בכלי והכלי במים והמים בידו סלקא דעתך דשרי קמ\"ל דאסור משום רחיצה שמביאה לידי חיבה וכן נ\"ל מלשון התלמוד שאמר בדין זה דהרחצת פניו ידיו ורגליו אסור ודבר זה שנותנת מים לכלי תחלה בלי יציקה עליו לא מקרי רחיצה כלל והיה לו לומר דנתינת מים להרחצה אסור כמ\"ש שם מזיגת הכוס הכי נמי היה לו לומר ונתינת מים מה שאין כן אם יוצקת על ידיו מקרי שפיר רחיצה אלא ודאי כדפיר' דאין איסור בנתינת מים לחוד וכ\"כ בדרישה ומ\"מ פשוט לי דגם זה בכלל האיסור שאם הוא רוחץ מכלי שיש בו נקב למטה ובשעת רחיצתו היא יוצקת מים להכלי דגם זה מקרי הרחצה כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 195:8"
+        },
+        "9": {
+          "he": "וכן נוהגין להקל. כ' מו\"ח ז\"ל אין להם על מי שיסמוכו וראוי לדרוש ברבים שאסור וכן כתב בדרישה בשם רש\"ל ונ\"ל עוד דאפי' יש להחמיר יותר בימי ליבון דאם נתיר לו באיזה קולא יותר יש חשש שיבוא לידי הרגל דבר מאחר שרוא' שהיא אינה טמאה כ\"כ וכן מצאתי שכתב תה\"ה בשם הראב\"ד סברא זו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 195:9"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "ולא ישחוק. עי' בא\"ח בש\"ת סי' רי\"ז סק\"ה שכתב בשם ברכי יוסף דאסור להריח מבשמים שלה אף שהתורה העידה סוגה בשושנים מ\"מ יש להתרחק וסימן לדבר סוגה בשושנים דצריך סייג גם בשושנים ועי' בט\"ז שם ס\"ק ג' שכתב דאפילו אם הסירה כו' וה\"ה בבשמים של אשתו נדה אם הסירה מעליה ומונחים על השולחן אפ\"ה אסור להריח בהם. וכתב בספר חמודי דניאל כ\"י נראה אפילו לדידן שמקילין בת\"ה ביוצא לדרך סמוך לוסתה כדלעיל סי' קפ\"ד מ\"מ בדברי הרגל באשתו נדה אסור:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 195:1"
+        },
+        "2": {
+          "he": "לא יגע בה. בתשו' נו\"ב תניינא חי\"ד סי' קכ\"ב נשאל באיש ואשה הדרים בכפר ואין שם יהודי או יהודית זולת הזוג לבדם אם מותר לבעלה לעמוד עליה כשהיא טובלת לראות שתהא כולה תחת המים ואם יכול לתמכה בידיו לדחפה תחת המים וכתב שמצד הסברא נראה כיון דאיסור נגיעה (כדעת הש\"ך סק\"כ) וכן איסור הסתכלות במקומות המכוסים הוא שמא יבא לידי הרגל דבר ברגע זה לא חיישינן דלא שביק היתרא שתיכף ברגע זה מותרת בעליותה מן המים ולכן אם אי אפשר בענין אחר יש להתיר ע\"ש. ועי' בתשובת שמש צדקה חי\"ד סי' ס\"ז שכתב מי שמתה אשתו ר\"ל והיא נדה רשאי ליגע בה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 195:2"
+        },
+        "3": {
+          "he": "ולא יקבלנו מידה. עי' בתשובת יד אליהו סוף סי' ס\"ה שכתב דאין אשה נדה רשאה להחזיק נר בידה כדי שישתה בעלה טאב\"ק או לחמם עצמו בנר ההוא או להדליק ממנו נר אחר וראיה ממשנה י\"א פ\"ה דמכשירין אשה שהיו ידיה כו' ופי' הרע\"ב לפי שההבל מחבר כו' ע\"ש ועי' בתשב\"ץ ח\"ג סי' נ\"ח ובסי' ר\"ל שכתב דמותר ליטול מידה התינוק משום דחי נושא את עצמו והיא אינה עושה כלום אלא התינוק עצמו הוא יוצא מחיק אמו ובא אל אביו ע\"ש. ונראה דאם התינוק קטן או חולה או כפות אסור דאז לא שייך לומר חי נושא את עצמו כמ\"ש המג\"א בסי' ש\"ח ס\"ק ע' וע\"א ע\"ש. וכתב עוד שם בסי' נ\"ח דליגע בבגדיה בעודה לבושה יש להתרחק אבל כשאינן עליה מותר שלא נאסר משכב ומושב שלה אלא לטהרות ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 195:3"
+        },
+        "4": {
+          "he": "זריקה. עי' בשו\"ת שבסוף ס' מנחת יעקב שכתב דאסור לאשה נדה להסיר מבעלה נוצה דרך נפיחה ומביא ראיה מאמימר דשקיל גברא גדפא מיניה א\"ל פסילנא לך לדינא ע\"ש ועי' בתשו' הר הכרמל חי\"ד סי' י\"ח שדחה זה והעלה להתיר ע\"ש גם הכו\"פ כתב דאין להחמיר בזה עוד כתב שם שראה נוהגין שזורקין דבר כלפי מעלה ולא לנוכח אשתו כמתכוין לזרוק לידה והיא פושטת ידה ומקבלתו ויש להקל בזה ע\"ש [אכן בס\"ט כתב דאע\"פ שיש להקל מעיקר הדין מ\"מ אין להתיר וכל המחמיר בענינים כאלה תע\"ב ע\"ש]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 195:4"
+        },
+        "5": {
+          "he": "בקערה בפ\"ע. עבה\"ט ועי' בתשובת משאת בנימין סי' קי\"ב באמצע התשובה שכתב דאפילו מקערה אחת שרי לאכול אם גם בני הבית אוכלים עמהם מקערה זו דאין לך הפסק גדול מזה ומ\"מ רבים הם המחמירים שלא לאכול מקערה א' אפילו עם בני הבית ומדינא אין לאסור ולא נמצא איסור זה ברור בשום דוכתא אך המחמירים יפה עושים באיסור חמור כו' ע\"ש. ולענ\"ד דדוקא על שולחן אחד יש מקום להתיר בזה אף אם גם כשהיא טהורה הם אוכלים בקערה בפ\"ע מ\"מ כשגם בני הבית אוכלים עמהם עדיף מהיכר אבל מקערה אחת מדינא יש לאסור לפמ\"ש הרמ\"א שאסור לו לאכול משיורי מאכל שלה א\"כ כשאוכלים בקערה אחת בודאי אוכל משיורי מאכל שלה ואי אפשר ליזהר ולדקדק בזה שיפסוק אדם אחר בינתיים ועמ\"ש לעיל סי' פ\"ח ס\"ק ד':",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 195:5"
+        },
+        "6": {
+          "he": "מאכל שלה. עי' בתשובת יד אליהו סי' ס\"ה שכתב באשה נדה שהריחה טאב\"ק כמו חצי כלי מותר לבעלה להריח המותר דזה לא דמי לאכילה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 195:6"
+        },
+        "7": {
+          "he": "והלכה לה. עי' בתשו' יד אליהו סי' ס\"ד שכתב דאם באתה באמצע מותר לגמור וכן בפירסה נדה באמצע אכילה מותר לגמור ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 195:7"
+        },
+        "8": {
+          "he": "במטה. עי' בספר חכמת אדם כלל ק\"ב שכתב דה\"ה על כרים המיוחדים לה אסור ע\"ש. וא\"כ צ\"ל דכ\"ש על המיוחדים לו אסורה היא [לישכב עליהן] כמ\"ש הט\"ז סק\"ו ולפ\"ז הא דכתב הט\"ז ס\"ק ז' דאשה נדה יכולה לישכב אסדיני בעלה מיירי באינם מיוחדים לו אי נמי מיירי שלא בפניו דאף דהוא על מטתה אסור ג\"כ שלא בפניה מ\"מ היא על מטתו נ\"ל דמותרת שלא בפניו וכן נראה מדברי הט\"ז סק\"ו:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 195:8"
+        },
+        "9": {
+          "he": "שלא בפניה. ונראה פשוט דאם אינה בעיר כלל מותר:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 195:9"
+        },
+        "10": {
+          "he": "אפילו כל אחד בבגדו. צ\"ע אי מותר לשמוע קול זמר שלה מאחר דבגמרא דשבת דף י\"ג אמר מקיש אשה נדה לאשת רעהו רק דיחוד שרי משום דהתורה העידה סוגה בשושנים כדאיתא בסנהדרין דף ל\"ז ועי' בתוספות שם ד\"ה התורה העידה א\"כ נראה דאסור דהא באשת רעהו אסור כמ\"ש בברכות דף כ\"ד קול באשה ערוה וכתב הרא\"ש שם פירוש לשמוע וכ\"כ כל הפוסקים וצ\"ע:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 195:10"
+        },
+        "11": {
+          "he": "נוגעות זו בזו. עיין בספר מקור חיים ס\"ק ל\"ג שכתב דמלשון המרדכי (שממנו הוציא הרב דבר זה) משמע דדוקא אם רגלי המטות נוגעים זו בזו אסור דאז שוכב האיש והאשה פנים נגד פנים ויכולים להסתכל זה בזו ויכול לבוא לידי הרגל דבר משא\"כ אם ראש המטה נוגעת ברגלי חברתה וכ\"ש ראש המטה בראש חברתה שאין יכולין לראות זה פנים של זו מותר אלא דמ\"מ העולם נוהגים כסתימת לשון רמ\"א דבכ\"ע שנוגעים זה בזה אסור אבל בהפרש כל שהוא בין מטה למטה מותר עכ\"ד ועיין בחכמת אדם כלל קט\"ז דין ה' שכתב דאפשר דאם המטות מחוברין בכותל דמותר ע\"ש. ולי נראה דהרמ\"א לא אמר דבר זה אלא דוקא במטות שלהם שלא היה מוקף נסרים למעלה כמו שמשמע לעיל סי' ק\"צ ס\"ק כ\"ה ולקמן סי' ש\"א סק\"ב ואז כשהיו המטות נוגעות זו בזו היה נראה כמטה אחת ארוכה אבל במטות שלנו העשויים כתיבה מוקף בנסרים למעלה מותר. [ועיין בספר עקרי דינים סי' כ\"א אות מ\"ו הביא בשם ספר שער המים סי' א' שכתב הגם דמהר\"ם אלשקר בסו' י' כ\"א התיר לישן תחת הכילה עם אשתו נדה כשלכל אחד יש כסת בפ\"ע מ\"מ הנכון להחמיר אם לא במחיצת סדין תלויה בין המטות שאינה רואה אותה עוד. וראיה לאיסור בלא זה עי' בתשב\"ץ ח\"ג סי' מ\"ב]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 195:11"
+        },
+        "12": {
+          "he": "כל מלאכות. בשל\"ה דף ק' כתב דזה מצד הדין לפי שראו את העם שלא יסבלו יותר מחמת חסרון שפחות אבל מ\"מ המחמיר שומר מצרות נפשו וע\"ש עוד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 195:12"
+        },
+        "13": {
+          "he": "בפניו. עש\"ך שכתב דלהביא קערה המיוחדת לבעלה אסורה אבל להביא קערה על השולחן שכל בני בית אוכלים ממנה אין קפידא אע\"ג שגם בעלה אוכל מאותה קערה ע\"ש וכן כתב בתשו' באר שבע סי' ע\"א:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 195:13"
+        },
+        "14": {
+          "he": "לית לן בה. עי' בשאילת יעב\"ץ ח\"א סי' קכ\"ו שכתב דראוי להחמיר כדעת השאילתות ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 195:14"
+        },
+        "15": {
+          "he": "דאם אין לה. וכן פסק בתשו' רדב\"ז ח\"א סי' ב' וכתב אע\"ג דבכל אביזרא דג\"ע אמרינן ימות ואל יעבור מההיא עובדא דהעלה לבו טינא לא דמי דהתם בא החולי מחמת העבירה אבל הכא לא בא החולי מחמת העבירה להכי שרי ואפילו אם היא חולה שאב\"ס נמי שרי רק לא ירחץ פנים ידיה ורגליה ואם היא מסוכנת אצל הרחיצה אפשר לו להשליך מים עליה ואם א\"א אלא ברחיצה ממש מותר ע\"ש ועי' בתשו' בשמים ראש סי' קי\"ח ובתשו' חינוך בית יהודה סי' ס\"ו:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 195:15"
+        },
+        "16": {
+          "he": "אם בעלה רופא. עש\"ך סק\"כ ועי' בית שמואל באה\"ע סי' ך' סק\"א שהשיג עליו ועיין בספר עצי ארזים שם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 195:16"
+        },
+        "17": {
+          "he": "למשש לה הדפק. עי' בספר מקור חיים ס\"ק ס\"א שכתב שראה מורים שהורו בנדון כזה להניח בגד על הדפק ואז מותר לבעלה הרופא למשש הדפק על אותו בגד המפסיק ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 195:17"
+        },
+        "18": {
+          "he": "אין רופא אחר. עי' בצ\"צ מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 195:18"
+        },
+        "19": {
+          "he": "לבהכ\"נ להתפלל. כתב בספר חמו\"ד כ\"י נהגו הנשים שלא לילך לבית החיים להתפלל בימי נדתה ונכון הוא ע\"כ:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 195:19"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "שתטבול.  ואף בימי לבונה כל דין נדה יש לה כדאיתא בפוסקים. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 195:1"
+        },
+        "2": {
+          "he": "יושיט.  אפילו דבר שהוא ארוך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 195:2"
+        },
+        "3": {
+          "he": "במפה.  או שתגלה מעט מן השלחן ותתן קערה שלה עליו וכ' הט\"ז נראה דלחם וקנקן דוקא כשאין אוכלין מאותו לחם ואין שותין מאותו קנקן הוא דהוי שינוי דומיא דסימן פ\"ח גבי בשר וחלב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 195:3"
+        },
+        "4": {
+          "he": "עצמה.  כ' הב\"ח דאף לסברא זו אינו אלא כשגם בני הבית אוכלים עמהם על שולחן אחד ביחד התם הוא דשרי כשהיא אוכלת מקערה שלה אע\"פ שאוכלים על מפה אחד בלא שום היכר אבל כשבני הבית אוכלים על שולחן אחר והאיש והאשה אוכלין לבדן על שולחן אחד כל אחד מקערה שלו אסור אפילו היה רגיל לאכול עמה בקערה אחת ע\"כ וכתב הש\"ך דמדבריו משמע כשאין שם בני בית כלל אסור ואין דבריו מוכרחים והט\"ז כתב בשם הב\"ח וז\"ל ראיתי שטות גדול שמנתחין חתיכות קטנות בקערה אחת הוא נוטל אחת והיא נוטלת אחת עד גמר אכילה ושבוש גדול הוא דפשיטא דחשיב אכילה אחת אבל מ\"מ משמע דכשמשימין קערה עם החתיכות גדולות כדרך שמשימין בקדרה וכל א' נוטל מן הקערה ומשים לפניו על כלי מיוחד ואוכל משם אין בזה איסור כיון דאין האכילה מיד בלקיחתו מקערה שלוקחה גם היא אלא משתמש בכלי אחר בינתיים כנ\"ל עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 195:4"
+        },
+        "5": {
+          "he": "י\"א.  כתב הש\"ך לפי שהרב כתב זה בשם הקונטרס שמצא לכך כתב דין זה בשם י\"א אבל נ\"ל דאדרבה כ\"ש הוא מלקמן ס\"ד דלא ישתה משיורי כוס דשתיה נלמד מאכילה וכתב הט\"ז שהב\"ח פסק שאף מאכל לא תביא לו מאחר דמדמה מאכל לשתיה אבל לא נהירא דהא אמרו כל מלאכות עושה לו משמע כל שיש בו צד עבדות שיש בו טורח שרי ומזיגת הכוס שאני שהוא דבר של חיבה לכך אסרוהו אבל כל הקולות שישנן שם [בס\"ד בשתיה] יש בזה [באכילה] ג\"כ ואם הפסיק א' ביניהם מותר עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 195:5"
+        },
+        "6": {
+          "he": "משיורי.  משמע אע\"פ שחזרו ומלאוהו כגון ששתתה היא החצי ומלאוהו אסור דמ\"מ הוא שותה משיורה אבל אם שתתה היא כל הכוס ומלאוהו נראה דמותר ואע\"ג שכ' ב\"י שידיחו הכוס בין שתיה דידיה לשתיה דידה אנן לא נהגינן כן עכ\"ל הש\"ך (והמחמיר להדיח תע\"ב):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 195:6"
+        },
+        "7": {
+          "he": "ישב.  כתב הט\"ז משמע אפילו ישיבה בעלמא בלא שכיבה נמי אסור ודלא כהב\"ח ונראה דכ\"ש הוא שהיא לא תישן במטה שלו דיש טפי הרהור בשכבה ובקומה אבל ישיבה בעלמא מותר לה על מטה שלו דהיא לא מרגלא ליה ונגיעה שנוגע בסדין שהוא מלוכלך בדם אין איסור אע\"פ שקצת נזהרין בזה שבוש הוא וכתב הב\"ח בשם סמ\"ק ישן דאשה נדה יכולה לשכב אסדיני בעלה ונזהרת מסדינים ששכב עליהם איש אחר פן תתעבר משכבת זרע של אחר ואמאי אינה חוששת פן תתעבר בימי נדותה מש\"ז של בעלה ויהא הולד בן הנדה והשיב כיון דאין כאן ביאת איסור הולד כשר לגמרי ואפילו אם תתעבר מש\"ז של אחר כי הלא בן סירא כשר היה אלא דמשל אחר קפדינן אהבחנה וגזרה שמא ישא אחותו מאביו כדאיתא ביבמות עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 195:7"
+        },
+        "8": {
+          "he": "שנהנה.  הואיל והיא מותרת לו לאחר זמן אינו בא לידי מכשול. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 195:8"
+        },
+        "9": {
+          "he": "בפניו.  והב\"ח כתב דאע\"פ שהמזיגה שלא בפניו אם מניחה על השלחן בפניו אסור ואצ\"ל כשהוא יודע שהיא מוזגת את הכוס דכיון שהניחה על השלחן בפניו חשיב כמזיגה בפניו ג\"כ ואסור עכ\"ד וכתב הש\"ך שאין דבריו מוכרחים גם מדברי הרא\"ש פ\"ק דכתובות משמע דשלא בפניו ליכא איסורא כלל גם מה שאוסר לה להביא הקערה עם המאכל על השלחן אינו נראה דהא אף במזיגת הכוס אין איסור אלא בכוס המיוחד לבעלה בלבד דאיכא חיבה אבל להניח הקערה על השלחן שכל בני בית אוכלים ממנה אין קפידא אף ע\"ג שגם בעלה אוכל עם בני הבית מאותה קערה דליכא הכא חיבה והכי נקטינן אבל להביא קערה המיוחדת לבעלה אסור דאף בהושטה בלבד אוסר סה\"ת כשאין בו שינוי ולפ\"ז משמע דמחמיר ג\"כ בשאר משקים עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 195:9"
+        },
+        "10": {
+          "he": "ליצוק.  כ' הט\"ז מלשון זה משמע לכאורה שאסורה ליתן מים בכלי והוא ירחץ אח\"כ אבל באמת אינו כן דאינו אסור אלא כשהיא מוצקת בשעה שהוא רוחץ ומ\"מ פשוט לי דגם זה בכלל האיסור שאם הוא רוחץ מכלי שיש בו נקב למטה ובשעת רחיצתו היא מוצקת מים להכלי דגם זה מקרי הרחצה אבל הש\"ך כתב בשם הר\"ר יונה דאסורה לתת לפני בעלה קיתון של מים וכלים שירחץ בהם רגליו מפני שהוא דרך חיבה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 195:10"
+        },
+        "11": {
+          "he": "להקל.  והב\"ח כתב שאין להם על מי שיסמוכו להקל וראוי לדרוש שרבים שהוא אסור וכתב הט\"ז ונ\"ל עוד דיש להחמיר יותר בימי ליבון דאם נתיר לו באיזה קולא יותר יש חששא שיבא לידי הרגל דבר מאחר שרואה שהיא אינה טמאה כ\"כ וכן מצאתי שכתב תה\"ה בשם הראב\"ד סברא זו עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 195:11"
+        },
+        "12": {
+          "he": "שתזהר.  אבל מזיגת הכוס לחולה לכ\"ע שרי. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 195:12"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

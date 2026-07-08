@@ -1,0 +1,135 @@
+{
+  "chelek": "YD",
+  "siman": 382,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 5,
+  "fetchedAt": "2026-07-08T00:01:41.975Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "איסור נעילת הסנדל לאבל. ובו ה' סעיפים:(אבל) אסור בנעילת הסנדל דוקא של עור אבל באנפליא של בגד או של גמי או של שער או של עץ מותר שאין מנעל אלא של עור ואם הוא של עץ ומחופה עור אסור:",
+      "en": "A mourner is forbidden to put on sandals [or shoes]1M.K. 15b, derived from God’s command to Ezekiel, ‘And put thy shoes upon thy feet’ (Ez. XXIV, 17), whence we infer that for everyone else this is forbidden. only if [they are made] of leather, but a pair of shoes made of cloth,2Or felt. reeds, hair or wood, is permissible,3Rubber is also permissible — A.H. for an [ordinary] shoe is [usually made] of leather.4Derived from Yom Kippur where the same prohibition applies.  Yoma 78b; O.Ḥ. § 614. Thus T.H. Although the mourner is forbidden to wear shoes, nevertheless, he may recite the morning benediction, ‘Blessed art Thou … who hast provided for all my needs’ (v. Siddur Morning Benedictions) — R.E.Z. Margolis (Laws of Mourning). However, if it [was made] of wood and covered over by leather, it is forbidden.",
+      "ref": "Shulchan Arukh, Yoreh Deah 382:1"
+    },
+    {
+      "seif": 2,
+      "he": "חיה מותרת לנעול כל ל' יום מפני שהצנה קשה לה:",
+      "en": "A woman after confinement5Likewise, one who is sick (although not dangerously ill — A.H.), or one who has a wound on his foot (O.Ḥ. § 614, 3) — ShaK. So too, a pregnant woman, if she fears the cold — A.H. is permitted to wear [leather-] shoes throughout the thirty days [of mourning] because the cold is harmful to her.6T.H., derived from Yom Kippur where the same ruling applies.  Mishna, Yoma VIII, I and Gemara ibid. 78b.",
+      "ref": "Shulchan Arukh, Yoreh Deah 382:2"
+    },
+    {
+      "seif": 3,
+      "he": "כל אדם מותר לנעול במקום שיש סכנת עקרב:",
+      "en": "Every person [in mourning] is permitted to put on shoes where there is danger of [being attacked by] a scorpion.7T.H., derived from Yoma 78b. According to Mord. M.K. III end, where one must appear before a ruler during mourning and must wear shoes, the custom is to put some earth into the shoes. Hence, it follows that the same procedure should be adopted in the present ruling regarding danger, or in all cases where the mourner is obliged to wear shoes — TaZ.",
+      "ref": "Shulchan Arukh, Yoreh Deah 382:3"
+    },
+    {
+      "seif": 4,
+      "he": "אבל ומנודה שהיו מהלכים בדרך מותרים בנעילת הסנדל וכשיגיעו לעיר חולצין ויש מי שאומר שאם היא עיר שרובה עובדי כוכבים אין חולצין עד שיכנסו לרחוב היהודים:",
+      "en": "A mourner or an excommunicant who were walking on the road, are permitted to put on shoes, and when they reach the city they remove [them].8Sem(H). V, 12; Tosef. Ta‘an. I, 6; Ta‘an. 13a; Y.Ber. II, 7(5b) ; Y.Yoma VIII, 1(44d); Y.Ta‘an. I, 6(64c); Y.M.K. III, 5(82d) ; RIDBaZ to Yad, Ebel V, 6. There is, however, an authority who states that [in] a city, the majority of which, are Gentiles, one does not remove [his shoes] until he enters the Jewish quarters,9Lit. ‘the open place of the Jews.’  O.Ḥ. § 554, 17 Gloss and references. [or a Jewish house].10Thus Tur in O.Ḥ. ibid. Nowadays that we live amongst the Gentiles with no separate quarters of our own, one should not remove his shoes until he enters his courtyard — A.H.",
+      "ref": "Shulchan Arukh, Yoreh Deah 382:4"
+    },
+    {
+      "seif": 5,
+      "he": "אם צריך לחלוץ מנעל בבית הקברות אחר שנקבר המת נתבאר בסימן שע\"ה: הגה י\"א שצריך לילך יחף מבית הקברות לביתו אם מת אביו או אמו (כל בו בשם ר\"י) ולא ראיתי נוהגין כן:",
+      "en": "Whether one is required to remove [his] shoes on the cemetery after the corpse is interred, has been explained in § 3711 supra § 375, 1, n.  Gloss: Some say that one is required to go barefooted from the cemetery to his home, if his father or mother died,12Kol Bo on the authority of RI — G. but I have not seen this custom adopted.13Cf. supra par. 4 and v. ShaK.",
+      "ref": "Shulchan Arukh, Yoreh Deah 382:5"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא מ\"ק דף ט\"ו ע\"ב ויליף מדקאמר ליה רחמנא ליחזקאל ונעליך תשים ברגליך מכלל דלכ\"ע אסור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 382:1"
+        },
+        "2": {
+          "he": "רמב\"ן בסת\"ה ויליף לה מדין איסור נעילת הסנדל ביוה\"כ וציינתיו בא\"ח בסי' תרי\"ד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 382:2"
+        },
+        "3": {
+          "he": "ג\"ז הרמב\"ן שם וגמר לה מיוה\"כ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 382:3"
+        },
+        "4": {
+          "he": "ג\"ז שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 382:4"
+        },
+        "5": {
+          "he": "ברייתא באבל רבתי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 382:5"
+        },
+        "6": {
+          "he": "הרמב\"ן בסת\"ה וכ\"כ המרדכי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 382:6"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "חיה כו'. וה\"ה חולה ומי שיש לו מכה ברגלו כדאיתא בא\"ח סימן תרי\"ד ס\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 382:1"
+        },
+        "2": {
+          "he": "ויש מי שאומר כו'. וכתב הרב בא\"ח סימן תקנ\"ד סעיף י\"ז שכן נהגו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 382:2"
+        },
+        "3": {
+          "he": "ולא ראיתי נוהגים כן. היינו משום רשעת העובדי כוכבים כדאיתא בכל בו בעל דין זה ובזה נסתלקה תמיהת הב\"ח על הרב ע\"ש מיהו היכא דליכא חשש דרשעת העובדי כוכבים יש לחלוץ מיד בבית הקברות כדלעיל ר\"ס שע\"ה וסימן שע\"ו ס\"ד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 382:3"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "כל אדם מותר לנעול במקום שיש סכנת עקרב. לפי מה שכתב המרדכי סוף מועד קטן דאם הולך לפני השר ויש הקפדה עליו אם ילך בלא מנעלים יתן עפר במנעליו וילך עכ\"ל. הוא הדין במקום סכנה ובכל מקום שצריך לילך במנעלים יעשה כן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 382:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "חיה.  וה\"ה חולה ומי שיש לו מכה ברגלו כמ\"ש בא\"ח סימן תרי\"ד ס\"ג. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 382:1"
+        },
+        "2": {
+          "he": "היהודים.  וכתב הרב בא\"ח סי' תקנ\"ד סי\"ז שכן נהגו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 382:2"
+        },
+        "3": {
+          "he": "ראיתי.  היינו משום רשעת העובדי כוכבים מיהו היכא דליכא חשש דרשעת העובדי כוכבים יש לחלוץ מיד בבה\"ק כדלעיל ר\"ס שע\"ה וסי' שע\"ו עכ\"ל הש\"ך. וכתב הט\"ז דלפי מ\"ש המרדכי דאם הולך לפני השר ויש הקפדה עליו אם ילך בלא מנעלים יתן עפר במנעליו וילך ע\"כ ה\"ה במקום סכנה ובכ\"מ שצריך לילך במנעלים יעשה כן. וכתב עוד בסי' שפ\"א בשם אחיו הגאון מוהר\"י דיש להתיר לאשה רחיצת הליבון אפי' תוך ז' ומ\"ש רמ\"א דתוך ז' אסור לרחוץ ללבישת ליבון הוא תימה דהא לאו רחיצה של תענוג היא והא דאסור רחיצה של טבילה מפני שהיא ללא צורך כיון שאסורה בתשמיש המטה אבל רחיצה של ליבון אמאי תיאסר ועכ\"פ נראה דגם רמ\"א לא נתכוין אלא שלא תרחוץ שהרי אפשר לה ללבוש לבנים בלא רחיצה לגמרי רק שהחלוק יהיה נקי כמ\"ש בסי' קצ\"ו ס\"ג בהג\"ה דבשעת הדחק סגי בהכי ובתשובת מ\"ב מתיר אפי' לרחוץ בתוך ז' ללבוש לבנים וחולק על הרמ\"א אלא דמ\"מ למעשה נ\"ל דלא תרחוץ אלא פנים של מטה ותלבוש חלוק נקי לא לבן ממש והמחמיר בזה לדחות לבישת הליבון לגמרי הוא מן המתמיהים עכ\"ל. וכתב מהרש\"ל מהר\"ם היה בעל ברית תוך שלשים יום של אביו ורחץ בלילה שלפני המילה ונתן טעם דהוה כרגל לגביה דידיה וחומרא בעלמא נהגו אבותינו ברחיצה ע\"כ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 382:3"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

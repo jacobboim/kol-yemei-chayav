@@ -3,7 +3,7 @@
   "siman": 4,
   "chelekTitle": "Orach Chayim",
   "seifCount": 23,
-  "fetchedAt": "2026-07-07T15:27:56.324Z",
+  "fetchedAt": "2026-07-07T23:48:56.373Z",
   "sa": [
     {
       "seif": 1,
@@ -264,6 +264,61 @@
           "he": "שם בסוף ספרי הכלבו סי' נ\"ג",
           "en": "",
           "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 4:23"
+        },
+        "24": {
+          "he": "מרדכי פ\"ח דברכות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 4:24"
+        },
+        "25": {
+          "he": "מהרי\"א בסי' ו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 4:25"
+        },
+        "26": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 4:26"
+        },
+        "27": {
+          "he": "פסחי' קי\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 4:27"
+        },
+        "28": {
+          "he": "שבת קל\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 4:28"
+        },
+        "29": {
+          "he": "תשו' הרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 4:29"
+        },
+        "30": {
+          "he": "ברכות ט\"ו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 4:30"
+        },
+        "31": {
+          "he": "רא\"ש בסוף ברכות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 4:31"
+        },
+        "32": {
+          "he": "שבת קט ושם בזוהר פרשת וישב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 4:32"
+        },
+        "33": {
+          "he": "הרא\"ש שם והרשב\"א בתשובה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 4:33"
+        },
+        "34": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 4:34"
         }
       }
     },
@@ -386,6 +441,31 @@
           "he": "אין עמ״א ומיהו ברגלו אפילו הולך כך אסור כבסי״ח:",
           "en": "",
           "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 4:23"
+        },
+        "24": {
+          "he": "או עמ״א וסי׳ צ״ב אות ג׳ יע״ש. א״ר ט״ו בעפר די בפ״א יע״ש דצידד לר״ר ג״פ עפר היכא דאין לו מים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 4:24"
+        },
+        "25": {
+          "he": "על המ״א כוונתו או דלעולם מברך כאן נ״י או דכאן לא יברך כלל נקיות דהתם נט״י בכלל מאתים שנצטוינו נטילה יש טבילה ולא יאמר טבילה דלא ציונו על טבילה רק עיקר נטילה וכ״ש כאן דבמנחה אין מברך דעל נקיות אין מברכין רק היכא שצריך כלי כמו סעודה וא״כ היאך למד המחבר מרא״ש סוף ברכות דמברך נקיות (באר הגולה ט׳) דסובר במנחה נמי (אין) מברך משא״כ אנן כרשב״א (לשיטתיה באות א׳) א״כ י״ל דבעפר אין מברך כלל כמו מנחה ומיהו י״ל דהמחבר בס״ז כתב טוב להקפיד אלמא סובר טעם הרשב״א לחצאין רק בריה חדשה מש״ה בשחרית מברכין ולא במנחה וכיון שכן אין בכלל מאתים דלא נצטוו דווקא על הכלי וטוב יותר נקיות ידים ועיין ט״ז א׳ ומ״א אות ב׳ ועיין א״ר כאן אות ב׳ ותבין ובחידושינו קצרתי ועכ״מ מהל׳ ק״ש פ״ג ה״א ויבואר אי״ה באות כ״ח מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 4:25"
+        },
+        "26": {
+          "he": "קודם עמ״א ועיין צ״ב מזה דהזכרת השם שוה לד״ת ידים מטונפות אסור וסתם ידים כשירים לשתיהן ועמ״ש בט״ז ט״ו באורך מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 4:26"
+        },
+        "27": {
+          "he": "ערום עמ״א ומלבושים שלנו שבית הצוואר פתוח ישן במלבושים שינת קבע מסתמא ידיו מטונף כי דרכו לחכוך בגופו במקום זיעה ואסור ללמוד או להזכיר השם עד שינקה אבל שינת עראי אין חזקתו שנגע כ״א סתם הויין וכשרים לת״ת ולברכה רק לתפלה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 4:27"
+        },
+        "28": {
+          "he": "שינקה עמ״א כ״ז ברשב״א יראה דקאי אאות כו״ז ואין רשב״א כעת ת״י: ומ״ש מודה אני יאמר אף דתורה אסור כמבואר בצ״ב תפלה בלא שם שריא אף במטונפות ועיין א״ר כאן ט״ז ומה שיש להאריך בדיני נטילה ושאר ספיקות וחקירות בט״ז ט״ו אי״ה יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 4:28"
         }
       }
     },
@@ -759,6 +839,31 @@
           "he": "אין להקפיד. מותר ליגע בידו עד הפרק הנקרא קובד\"ו ובצוארו עד החזה (ב\"י סי' צ\"ב בשם כל בו וס' היראים):",
           "en": "",
           "ref": "Magen Avraham 4:23"
+        },
+        "24": {
+          "he": "או בעפר. או בקורה (ס\"ח) בין שהם מלוכלים בין שהם בהיסח הדעת (טור סי' צ\"ב):",
+          "en": "",
+          "ref": "Magen Avraham 4:24"
+        },
+        "25": {
+          "he": "על נקיות ידים. צ\"ע דבס\"ס קנ\"ט פסק דלעולם מברך על נט\"י וכ\"מ בתשוב' רשב\"א סי' קצ\"א ובסי' תשנ\"ד ע\"ש דעיקר הציווי ליטול מן הכלי ולכן אין אנו מברכין ענ\"י לתפלת מנח' משום דדי בנקיון עפר וא\"כ למה פסק כאן על נקיות ידים עמ\"ש ס\"א ועסי' קכ\"ח ס\"ו:",
+          "en": "",
+          "ref": "Magen Avraham 4:25"
+        },
+        "26": {
+          "he": "קודם נטילה. דסתם ידים אינן פסולות לברכה דהרי מברכין על הפירות וא\"צ נ\"י:",
+          "en": "",
+          "ref": "Magen Avraham 4:26"
+        },
+        "27": {
+          "he": "ערום. שמסתמא ידיו מטונפות בנגיעו' בית הסתרים כמ\"ש סעיף כ\"א:",
+          "en": "",
+          "ref": "Magen Avraham 4:27"
+        },
+        "28": {
+          "he": "שינקה אותם. בצרורות ובכל מידי דמנקי (כ\"ז ברשב\"י סי' קנ\"ג) ומ\"מ בקומו יאמר מודה אני לפניך מלך חי וקים שהחזרת בי נשמתי בחמל' רבה אמונתך שאין בזה לא שם ולא כינוי (סדה\"י):",
+          "en": "",
+          "ref": "Magen Avraham 4:28"
         }
       }
     },
@@ -881,6 +986,41 @@
           "he": "במת.  וה\"ה המלוין אותו מגן אברהם. ונהגו להקפיד אם יכנס אדם לבית אחר קודם שירחץ ומנהג אבותינו תורה היא רמ\"א בי\"ד סי' שע\"ו:",
           "en": "",
           "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 4:23"
+        },
+        "24": {
+          "he": "שמפליא כליו.  אפילו לא מצא כנה. מגן אברהם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 4:24"
+        },
+        "25": {
+          "he": "סי' קס\"ד.  דשם נתבאר אם עבר ונגע צריך ליטול שנית ולחזור ולברך על נט\"י לאכילה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 4:25"
+        },
+        "26": {
+          "he": "מלמולי זיעה.  ובזיעה יש סכנה דכל זיעה סם המות חוץ מזיעת הפנים וסי' לדבר בזעת אפך תאכל לחם י\"ד סי' קי\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 4:26"
+        },
+        "27": {
+          "he": "שבזרועותיו.  הנקרא עלי\"ן בוגי\"ן ובצוארו עד החזה ב\"י סי' צ\"ב. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 4:27"
+        },
+        "28": {
+          "he": "בצרור.  או בקורה בין שהם מלוכלכים בין שהם בהיסח הדעת טור סי' צ\"ב מ\"א. וצריך לקנח ג\"פ דומיא דמים ברכת אברהם סי' פ'. וע\"ת חולק עליו כיון דלא מהני לרוח רעה ל\"ל ג\"פ בנקיון בעלמא סגיא ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 4:28"
+        },
+        "29": {
+          "he": "נקיות ידים.  הקשה המ\"א צ\"ע דבס\"ס קנ\"ט פסק דלעולם מברך על נט\"י ע\"ש. והיד אהרן מיישבו ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 4:29"
+        },
+        "30": {
+          "he": "ערום.  שמסתמא ידיו מטונפות בנגיעת בית הסתרים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 4:30"
         }
       }
     },
@@ -1003,6 +1143,196 @@
           "he": "(כג) לא יטול - ר\"ל לשפוך לו על ידיו אבל להביא לו מים מותר:",
           "en": "One should not have his hands washed - Meaning, to have the water poured on his hands, but to bring him the water is permitted.",
           "ref": "Mishnah Berurah 4:23"
+        },
+        "24": {
+          "he": "(כד) ממי שלא וכו' - ובנטילה לאכילה רשאי ליטול ממי שלא נטל ידיו:",
+          "en": "By someone who has not etc. - [But regarding] washing for a meal, it is permitted to have one's hands washed by someone who did not wash their hands.",
+          "ref": "Mishnah Berurah 4:24"
+        },
+        "25": {
+          "he": "(כה) לק\"ש ולתפלה - ויוכל לברך על נטילת ידים דאמרינן בכיור ורחצו ממנו ולא בתוכו הא בעלמא אפילו בתוכו אבל להעביר הרוח רעה בעי עירוי ג\"פ דוקא ושכשוך בכלי אפילו ק' פעמים לא חשיב אלא אחד שמיד נטמאו המים והויין כמו שופכין ומשום הכי נסתפק אח\"כ במימות מחולפים דאפשר דלאו דוקא עירוי בעינן להעביר רוח רעה ואפילו רחיצה סגי או דבעינן דוקא עירוי מכלי על ידיו. וכתב הפמ\"ג דלפ\"ז אם תחב ידו בנהר ג\"פ או בשלג המונח על הארץ בשלשה מקומות מחולפים אפ\"ה לא מהני רק לתפלה ויוכל לברך ענט\"י אבל ספק אם מהני להעביר רוח רעה דאולי בעינן לזה עירוי מכלי והארה\"ח ולבושי שרד פסקו דבנהר וכן בשלג ובמי מקוה מהני אף להעביר רוח רעה ואפילו אין בהם ארבעים סאה ועי\"ש עוד בארה\"ח:",
+          "en": "For K'riat Shema and prayers - And one may recite the blessing \"Al Netilat Yadayim\" - for we learn [in the Talmud], regarding the wash basin [in the Temple], [the verse states] \"And they shall wash from it\" (Exodus 40:31), but not from within it (ie. dipping hands into it); but in general (ie. not regarding the Kohanim in the Temple), even [dipping] within it [is permitted].  But to remove the evil spirit, it requires specifically pouring 3 times, and dipping [one's hands] into a vessel, even 100 times, is only considered [like they were dipped] once, for immediately [after the first time] the water became impure and is considered to be like [water that was already] poured.  For this reason, [the Shulchan Aruch] was in doubt afterwards regarding [dipping into] 3 separate waters, because it's possible that you don't specifically need pouring 3 times in order to remove the evil spirit, maybe just washing them is enough; or perhaps you need to specifically pour water from a utensil onto your hands.  The Pri Megadim wrote that based on this, if one dipped their hands in the river 3 times, or in snow that's on the ground in 3 separate places, even then it would only work for prayers, and one could recite the blessing \"Al Netilat Yadayim\".  But there's a doubt whether it would suffice to remove the evil spirit, because maybe it requires pouring [water] from a utensil.  Artzot Hachaim and Levushei S'rad ruled that [dipping hands in] a river, or in snow, or in mikveh (ritual bath) water is sufficient to remove the evil spirit, even  if they do not have 40 sa'ah.  See further in Artzot Hachaim.",
+          "ref": "Mishnah Berurah 4:25"
+        },
+        "26": {
+          "he": "(כו) אבל לא וכו' - ע\"כ יראה ליטול פעם שנית מן כלי אפילו אחר התפלה:",
+          "en": "But not etc. - Therefore, one [who washed by dipping their hands in water] should see to it to wash a second time from a utensil, even after praying.",
+          "ref": "Mishnah Berurah 4:26"
+        },
+        "27": {
+          "he": "(כז) כל הלילה - ואם ישן במקצתה לכו\"ע צריך ליטול ידיו בבוקר כדין והוא שישן שינת קבע על מיטתו ומשום דסתם ידים עסקניות הן ובודאי נגע במקום מטונף אבל אם ישן שינת ארעי להרא\"ש דינו בזה כאלו לא ישן כלל:",
+          "en": "All night - If one slept through part of the night, everyone agrees that he must wash his hands in the morning the proper way.  This is referring to when he slept a deep sleep in his bed, and [he must wash his hands] because, generally speaking, hands are busy and it's certain that he touched an unclean part of his body [in his sleep].  But if he just took a nap, according to the Ro\"sh, his status is like one who did not sleep at all.",
+          "ref": "Mishnah Berurah 4:27"
+        },
+        "28": {
+          "he": "(כח) להתפלל ולהעביר - דהיינו לתפלה יש ספק אם הטעם של נט\"י שחרית כהרשב\"א לעיל במ\"ב סק\"א וא\"כ אע\"ג דהשתא לא נעשה בריה חדשה לא פלוג רבנן וצריך נטילה או שמא עיקר הטעם כהרא\"ש שם ובניעור ולא נגע במקום מטונף א\"צ נטילה. ולהעביר הרוח רעה יש ג\"כ ספק אם בעלמא השינה גורם הרוח רעה וא\"כ אפילו ישן ביום שורה ר\"ר וצריך ליטול ידיו וניעור בלילה א\"צ ליטול ידיו או הלילה גורם הרוח רעה וא\"כ יהיה הדין בהיפוך:",
+          "en": "To pray and remove - Meaning, regarding [washing for] praying there is an uncertainty if the reason for washing hands in the morning is like the Rashb\"a [mentioned] above in Mishnah Berurah se'if katan 1, therefore, even though he is not considered a new creation right now [since he was up all night], [nevertheless] the sages did not make a distinction (ie. they established that one must wash in the morning, regardless of whether they slept or not) and he would need to wash.  Or maybe the main reason is like the Ro\"sh [mentioned] there, and since he was up all night and he didn't touch any unclean parts [of his body], there is no need to wash.  And [regarding] removing the evil spirit, there is also an uncertainty if, in general, sleep causes the evil spirit [to come onto one's hands], and therefore, even if one slept during the day, the evil spirit rests there and one must wash their hands, and [accordingly], one who stayed up all night does not need to wash their hands.  Or [maybe] it's the nighttime which causes the evil spirit [to come], and therefore the law would be the opposite [of what was mentioned here].",
+          "ref": "Mishnah Berurah 4:28"
+        },
+        "29": {
+          "he": "(כט) ויטלם - ר\"ל ג\"פ מחמת ספק וכן בשני הסעיפים שאחר זה:",
+          "en": "And he should wash them - Meaning, 3 times because of the uncertainty [that exists].  And the same [applies] to the 2 se'ifim that follow this one.",
+          "ref": "Mishnah Berurah 4:29"
+        },
+        "30": {
+          "he": "(ל) בלא ברכה - יש מהאחרונים שחולקין על הכרעת הרמ\"א בזה וסוברים דצריך לברך ויש שמסכימים עמו וכ\"ז בלא עשה צרכיו אבל אם עשה צרכיו קודם התפלה הסכמת אחרונים דבזה צריך ליטול ידיו ולברך. וכן נכון לעשות לכתחילה במי שניעור כל הלילה כגון בליל שבועות יעשה צרכיו או יטיל מים וישפשף שאז לכו\"ע יתחייב לברך ויברך ענט\"י ואשר יצר:",
+          "en": "Without reciting the blessing - There are some from the later rabbinic authorities who argue on the Rem\"a's decision here, and they hold that one does need to recite the blessing; and there are those who agree with him.  All of this is [regarding a situation] when one did not relieve himself, but if one did relieve himself before praying, the later rabbinic authorities are in agreement that one must wash his hands and recite the blessing.  It is proper as well for one who was up all night, for example on Shavuot night, that he should relieve himself or urinate and wipe the drops [with his hands], for then he would be obligated to recite the blessing according to all opinions.  And he should recite \"Al Netilat Yadayim\" and [then] \"Asher Yatzar\".",
+          "ref": "Mishnah Berurah 4:30"
+        },
+        "31": {
+          "he": "(לא) כשיאור היום - כי י\"א דבעמוד השחר חוזר הר\"ר לשרות פעם שנית:",
+          "en": "After daylight comes - Because there are some opinions [who hold] that at dawn, the evil spirit returns to rest [on one's hands] a second time.",
+          "ref": "Mishnah Berurah 4:31"
+        },
+        "32": {
+          "he": "(לב) להעביר וכו' - הכא לא נקט להתפלל כמש\"כ סעיף י\"ג דודאי משום תפלה אין צריך בזה עוד הפעם ליטול ידים ואפילו אם חזר וישן פעם שנית קודם עמוד השחר דבזה בודאי צריך משום רוח רעה עוד הפעם ליטול ידים מ\"מ אין יכול לברך ענט\"י ואפילו אם השינה היתה שינת קבע דאנו חוששין לשיטת הרשב\"א דס\"ל דטעם הנטילה משום דבבוקר נעשה בריה חדשה ופ\"א נעשה האדם בריה חדשה ולא שתי פעמים ומשום רוח רעה בלבד לא תקנו ברכה:",
+          "en": "To remove etc. - Here he (ie. the Shulchan Aruch) did not mention \"in order to pray\" like he did in se'if 13, because certainly for prayers, in a situation like this, one would not need to wash another time.  And even if one went back to sleep a second time before dawn, in which case they would certainly need to wash again due to the evil spirit, nevertheless, he may not recite the blessing \"Al Netilat Yadayim\", even if it was a deep sleep - for we are concerned for the opinion of the Rashb\"a who holds that the reason for this washing is because in the morning a person is a new creation, and it's only once [a day] that a person becomes a new creation, not two times; and so [in this scenario], in order to just remove the evil spirit, the sages did not enact [having to recite] a  blessing [a second time].",
+          "ref": "Mishnah Berurah 4:32"
+        },
+        "33": {
+          "he": "(לג) בלא ברכה - הנה נראה דאפילו אם בפעם הראשון כשנטל ידיו לא בירך ענט\"י מ\"מ לא יברך עתה דאיך יאמר וציונו ענט\"י הלא כבר יצא ידי חובת הנטילה לתפלה לדעת הרא\"ש כמבואר בב\"י וכה\"ג כתב לעיל בשערי תשובה סק\"ד ומ\"מ הנכון שיביא עצמו לידי חיוב ברכה דהיינו שיעשה צרכיו קודם התפלה ויתחייב לברך ענט\"י וכנ\"ל בסק\"ד בשם הח\"א:",
+          "en": "Without reciting the blessing - Here is seems  that even if the first time he washed (ie. before dawn) he did not recite the blessing \"Al Netilat Yadayim\", nevertheless, he should not recite it now (ie. after daylight comes in), for how can he say \"and commanded us on the washing of the hands\"?  Behold, he already fulfilled his obligation to wash for prayers according to the Ro\"sh, as is explained in Beit Yosef, and Shaarei Teshuva wrote similarly above in se'if katan 4.  Nevertheless, the proper thing to do is to bring oneself to [a situation that will] obligate himself in the blessing - which is that he should relieve himself before praying and [therefore] obligate himself to recite the blessing \"Al Netilat Yadayim\"; as was seen above in se'if katan 4 in the name of the Chayei Adam.",
+          "ref": "Mishnah Berurah 4:33"
+        },
+        "34": {
+          "he": "(לד) יש להסתפק - אי לילה גורם לרוח הטומאה או שינה גורם ודוקא הישן שיתין נשמי אבל פחות מזה אין רו\"ר שורה ואפי' בלילה:",
+          "en": "There is an uncertainty - whether the nighttime causes the impure spirit or if the sleep causes it.  And this is specifically if one slept \"60 breaths\" [or more], but less than that, the evil spirit does not rest on one's hands, even at night.",
+          "ref": "Mishnah Berurah 4:34"
+        },
+        "35": {
+          "he": "(לה) שיתין נשמי - ר\"ל רצופין אלא היה מתנמנם כמה פעמים פחות משיתין נשמי עד חצות לילה ומחצות ואילך היה מתגבר כארי:",
+          "en": "60 breaths - Meaning, [60] continuous [breaths].  Instead, he would nap several times, [each one] less than \"60 breaths\", until mid-night, and from mid-night and on he would \"strengthen himself like a lion\"....",
+          "ref": "Mishnah Berurah 4:35"
+        },
+        "36": {
+          "he": "(לו) דדוקא ביום - השיגו עליו האחרונים דלא נמצא שם כן בגמרא רק על האמוראים אבל דוד בעצמו גם בלילה היה נזהר ונ\"מ כ\"ז לדידן שבעל נפש יחמיר עכ\"פ ביום. ואין שבת בכלל זה. ועיין לקמן בסימן רל\"א ס\"א דאם א\"א לו ללמוד בלא שינת הצהרים מותר לישן מעט אבל לא יאריך בה עיי\"ש ועיי\"ש עוד שגם זה לא תהיה כונתו להנאת עצמו רק לעבודתו יתברך. ועיין במחצית השקל שכתב דענין השינה ביום תלוי לפי מה שהוא אדם וכפי הצורך לעבודתו ית':",
+          "en": "Only during the day - The later rabbinic authorities argue on this, for you only find that in the Gemara regarding the Amoraim, but King David himself was careful even at night.  And the practical difference of all this for us is that a pious individual should be stringent at least during the day.  And Shabbos is not included in this.  See below in siman 231, se'if 1, that if it's impossible for one to learn without an afternoon nap, he is permitted to sleep a little, but he should not overextend it - see there further.  See there as well, that his intention should not be for his personal benefit, but rather to serve Him, Blessed Be He.  See also in Machatzit Hashekel who wrote that sleeping during the day is dependent on the person and what is necessary for his service of Hashem....",
+          "ref": "Mishnah Berurah 4:36"
+        },
+        "37": {
+          "he": "(לז) מפני הרירים - כי צריך להזכיר את השם הגדול בקדושה ובטהרה [ב\"י] ואם הוא איסטניס ואינו רוצה להכניס המים לפיו מפני שאינם זכים וצחים אין מעכב מלברך [לבוש]:",
+          "en": "Due to the saliva/mucus - Because one must mention the Great Name [of Hashem] with sanctity and purity [Beit Yosef].  And if he is of a sensitive nature and does not want to put water in his mouth because the water is not pure and clear, it does not prevent him from reciting the blessing [Levush].",
+          "ref": "Mishnah Berurah 4:37"
+        },
+        "38": {
+          "he": "(לח) צריכים נטילה - להסיר רוח רעה השורה עי\"ז ע\"כ ימהר ליטול תיכף. והנטילה תהיה עד הפרק ועכ\"פ עד סוף קשרי אצבעותיו אבל אם ליכלך ידו בטיט וברפש דאין בו משום רוח רעה א\"צ רק לקנח מקום המלוכלך בלבד ודי. ולענין תפלה יבואר לקמן בסימן צ\"ב עי\"ש בבה\"ל:",
+          "en": "Require one to wash their hands - To remove the \"evil spirit\" that rests [on the hands] through doing them (ie. the various activities that the Shulchan Aruch enumerates); therefore, one should rush to wash immediately.  The washing should be up to the wrist, or at least up until the knuckles [that are closest to the wrist].  But if one's hands were dirty from mud or plaster/dirt, which do not cause the \"evil spirit\", one need only clean the dirty area alone and that is sufficient.  Regarding [washing for] praying, it will be explained below in siman 92 - see further in the Biur Halacha that's there.",
+          "ref": "Mishnah Berurah 4:38"
+        },
+        "39": {
+          "he": "(לט) במים - אף דלתפלה וכ\"ש לתורה די אחר כל אלו בנקיון בעלמא וכדלקמן בסעיף כ\"ב דמיירי בקם מן המטה וכ\"ש באינך מ\"מ להסתלק רוח רעה צריך דוקא מים ועיין לקמן בס\"ק מ\"א. וא\"צ ג' פעמים כ\"א בקם מן המטה ויש מחמירין בהולך בין המתים ומשמש מיטתו דבעינן ג\"כ ג\"פ. ובספר היכל הקודש מחמיר ביוצא מבהכ\"ס ג\"פ ובמ\"א סימן ז' סתר דבריו:",
+          "en": "With water - Even though for praying and certainly for [learning] Torah, it is enough to just clean one's hands after any of those activities, as is seen below in se'if 22, which is referring to when one gets out of bed, and certainly when [doing any of] the other [activities] - nevertheless, in order to remove the \"evil spirit\", it requires water specifically.  See below in se'if katan 41.  But [washing] 3 times is only needed when getting out of bed.  There are some who are stringent regarding walking among corpses and having marital relations, that [washing] 3 times is also required.  Sefer Heichal Hakodesh is stringent regarding exiting the bathroom, [that it requires washing] 3 times.  Magen Avraham in siman 7 argued on his words.",
+          "ref": "Mishnah Berurah 4:39"
+        },
+        "40": {
+          "he": "(מ) והיוצא מבהכ\"ס - אפילו לא עשה צרכיו וכן מבית המרחץ אפילו לא רחץ שם ומשום רו\"ר ששורה באלו המקומות:",
+          "en": "One who exits a bathroom - Even if he did not relieve himself.  Similarly, [one who exits] a bathhouse, even if he did not wash there.  [The reason one still needs to wash when exiting those places is] because of the \"evil spirit\" which \"dwells\" in those places.",
+          "ref": "Mishnah Berurah 4:40"
+        },
+        "41": {
+          "he": "(מא) מנעליו - משום שנוגע בידיו בעת החליצה אבל בלא נגע בהם א\"צ נטילה והחולץ מנעליו ונוגע ברגליו וחופף ראשו אינו משום רוח רעה רק משום נקיות ע\"כ א\"צ למהר ליטול ידיו תיכף משא\"כ באינך דמשום רו\"ר וכנ\"ל בס\"ק ל\"ח:",
+          "en": "Their shoes - Since one touches their shoes when they remove them.  But if one did not touch them, there is no need to wash.  One who removes their shoes, or touches their feet, or washes/scratches their head [must wash their hands] not because of the \"evil spirit\", rather only because of cleanliness.  Therefore, one does not need to rush to wash their hands immediately.  As opposed to the other things [listed which are] because of the \"evil spirit\", as was seen above in se'if katan 38.",
+          "ref": "Mishnah Berurah 4:41"
+        },
+        "42": {
+          "he": "(מב) בין המתים - בבית הקברות וכתב מהרי\"ל סי' כ\"ג שיש ליטול קודם שיתפלל על הקברות ורוחצין שנית בשובו לחצר בה\"ק שרוחות רעות מלוין החוזרין. ויש נוהגין אז לרחוץ גם הפנים:",
+          "en": "Among corpses - In the cemetery.  The Mahari\"l wrote in siman 23 that one should wash before [entering a cemetery] to pray by the graves, and wash a second time upon returning to the courtyard of the cemetery, because evil spirits accompany those who leave.  There are those who also wash their face at that time.",
+          "ref": "Mishnah Berurah 4:42"
+        },
+        "43": {
+          "he": "(מג) במת - ואפילו מי שנכנס אצל מת אחד או שהלך ללותו נוהגין בנטילה. ונהגו להקפיד אם יכנס אדם לבית אחר קודם שירחץ ומנהג אבותינו תורה היא [רמ\"א יו\"ד שע\"ו]:",
+          "en": "A corpse - Even someone who entered a room that contained one corpse, or went to accompany [the body to the burial site], the custom is to wash.  The custom is to be particular to wash one's hands before entering another house/building [after leaving a funeral] - and the customs of our forefathers is like the Torah itself [Rem\"a - Yoreh Deah 376].",
+          "ref": "Mishnah Berurah 4:43"
+        },
+        "44": {
+          "he": "(מד) כליו - אפילו לא נגע בכנה שלא מצא:",
+          "en": "His clothing - Even if one did not touch any lice, since he did not find any.",
+          "ref": "Mishnah Berurah 4:44"
+        },
+        "45": {
+          "he": "(מה) בכנה - ובפרעוש אפשר דדי בנקיון בעלמא:",
+          "en": "A louse - And regarding [if one touched] a flea, it's possible that it's enough to simply clean [one's hands, even without water].",
+          "ref": "Mishnah Berurah 4:45"
+        },
+        "46": {
+          "he": "(מו) בידו - במקומות המטונפות שיש בהם מלמולי זיעה:",
+          "en": "With his hand - On the unclean places [of the body] which have beads of sweat.",
+          "ref": "Mishnah Berurah 4:46"
+        },
+        "47": {
+          "he": "(מז) יוצא מדעתו - עיין בא\"ר דר\"ל דנתלבש בו רוח שטות ועי\"ז יוכל לבוא אח\"כ לעבירה וכמאמרם דאין אדם עובר עבירה אא\"כ נכנס בו רוח שטות:",
+          "en": "Go out of his mind - See in Eliyah Rabah [who explains] that the intention here is that the person will be \"enclothed\" with a \"spirit of foolishness\", and because of that he can come, afterwards, to sin.  Similar to the sages statement that \"A person does not come to sin unless a spirit of foolishness enters him\".",
+          "ref": "Mishnah Berurah 4:47"
+        },
+        "48": {
+          "he": "(מח) דם מהכתפים - ואפשר עלוקה [שקורין פייווקע\"ס] או ביינקע\"ס ג\"כ צריך ליטול וטוב להחמיר:",
+          "en": "Blood from his shoulders - It's possible that [if one used] a leech [known as a \"feivkis\"] [to blood-let] or a bleeding cup, that one must also wash their hands [after], and it's good to be stringent.",
+          "ref": "Mishnah Berurah 4:48"
+        },
+        "49": {
+          "he": "(מט) בתפילה - וה\"ה בשעה שהוא עוסק בתורה [בסימן צ\"ב ס\"ז בהג\"ה]:",
+          "en": "During prayers - The same applies when one is involved in learning Torah [see the Rem\"a's gloss in siman 92, se'if 7].",
+          "ref": "Mishnah Berurah 4:49"
+        },
+        "50": {
+          "he": "(נ) סימן צ\"ב סעיף ו' - דנתבאר שם שאם עומד בתפלה ונזכר שנגע במקום מטונף די בנקיון עפר או שמחכך ידיו בכותל דמה יעשה באמצע תפלה. ומיהו אם עומד עדיין בק\"ש או בפסוקי דזמרה צריך לילך וליטול ידיו:",
+          "en": "Siman 92, se'if 6 - It's explained there that if one was in the middle of praying and remembered that he had touched a dirty place, it's enough to clean [his hands] with earth/dirt or to rub his hands on a wall, for what [else] can he do in the middle of praying?  However, if he is in the middle of reciting the Shema or Pesukei D'zimra, he must go and wash his hands [properly].",
+          "ref": "Mishnah Berurah 4:50"
+        },
+        "51": {
+          "he": "(נא) וסי' קס\"ד - דשם נתבאר שאם עבר ונגע בתוך הסעודה צריך ליטול ידיו שנית כדין אך לענין ברכת ענט\"י הסכמת רוב האחרונים שלא לחזור ולברך ע\"ש במ\"ב:",
+          "en": "As well as siman 164 - There it's explained that if one touched [the calf, thigh, or part of the body that's normally covered] within his meal, he must wash his hands again properly.  But in regards to reciting the blessing \"Al Netilat Yadayim\", the conclusion of the majority of the rabbinic authorities is that one should not repeat the blessing.  See further in the Mishna Berurah over there.",
+          "ref": "Mishnah Berurah 4:51"
+        },
+        "52": {
+          "he": "(נב) מלמולי זיעה - עיין ביו\"ד סי' קי\"ו דצריך ליזהר מזיעה דכל זיעה סם המות חוץ מזיעת הפנים וסימן לדבר בזיעת אפיך תאכל לחם:",
+          "en": "\"Crumb-like\" particles of sweat - See further in Yoreh Deah siman 116, that one must be cautious regarding sweat, for all sweat is like poison, except for facial sweat.  A mnemonic for this is \"By the sweat of your face you will eat bread\" (Genesis 3:19).",
+          "ref": "Mishnah Berurah 4:52"
+        },
+        "53": {
+          "he": "(נג) ובפניו - וכן בצוארו עד החזה [ב\"י] וכתב במחצית השקל דזה תלוי לפי מנהג המקומות אם הדרך להיות מגולה שם:",
+          "en": "And face - Similarly, one's neck up to his chest [Beit Yosef].  Machatzit Hashekel wrote that it depends on the custom of the place, if it's the way of people there to have those parts exposed.",
+          "ref": "Mishnah Berurah 4:53"
+        },
+        "54": {
+          "he": "(נד) שבזרועותיו - עד הפרק הנקרא (איילי\"ן בויגי\"ן). וכן אם הולך יחף ברגליו אפשר דהוי בכלל המקומות המגולין [פמ\"ג בסי' צ\"ב]:",
+          "en": "Of the arms - Up until the joint called (\"eilen boigen - elbow).  And if one [normally] goes barefoot, it's possible that that falls under the category of parts [of the body] that are [normally] exposed [Pri Megadim siman 92].",
+          "ref": "Mishnah Berurah 4:54"
+        },
+        "55": {
+          "he": "(נה) אם אין וכו' - ואם יש לו מים צריך ליטול אפילו לתפלת מנחה וערבית אפילו אם אינו יודע להן שום לכלוך. והנטילה יהיה בלא ברכה כי לא תקנו ברכה כ\"א בשחרית וכדאיתא בסימן ז' ס\"א. ואם אין לו מים י\"א דדינו כהכא דינקה בכל מידי דמנקי פן מודבק בהם איזה דבר מאוס או זוהמא ועיין לקמן בסי' צ\"ב וברל\"ג במשנה ברורה:",
+          "en": "If one does not have etc. - But if he has water, he must wash even for the afternoon and evening prayers, even if he is certain that they are not dirty at all.  The washing should be without a blessing, because they (ie. the sages) only enacted reciting the blessing [after washing] in the morning, as is seen in siman 7 se'if 1.  If one has no water, there are opinions that the law is the same as here, that he should clean his hands with any material that cleans, lest any dirt or filth cling to his hands.  See below in siman 92 and 233 in Mishna Berurah.",
+          "ref": "Mishnah Berurah 4:55"
+        },
+        "56": {
+          "he": "(נו) יקנח ידיו - ואפילו היו מלוכלכים בודאי כגון שעשה צרכיו וקינח ג\"כ מהני ועיין לקמן בסי' צ\"ב כמה צריך לחזור אחר מים:",
+          "en": "Clean his hands - Even if they were certainly dirty, like after relieving himself, and he cleaned them [without water], that is also sufficient.  See further, below in siman 92, regarding how far one must go to find water.",
+          "ref": "Mishnah Berurah 4:56"
+        },
+        "57": {
+          "he": "(נז) בעפר - או שישפשף בטלית יבש. ודע דנקיון כיון שהוא עומד במקום מים צריך לנקות כל היד בין גבו ובין תוכו עד הפרק ובדיעבד די עד סוף קשרי אצבעותיו אבל לא כמו שנוהגין איזה אנשים שמנקין רק ראשי אצבעותיהן:",
+          "en": "With earth/dust - Or one may rub [his hands] on a dry cloth.  And you should know, that this cleaning, since it's instead of water, one must clean the entire hand, both the outside (ie. top of the hand) and the inside (ie. the palm) up until the wrist.  And after the fact, it's enough if one cleaned up until the top knuckles (ie. those closest to the palm), but not like what some people do, that they only clean the ends of the fingers.",
+          "ref": "Mishnah Berurah 4:57"
+        },
+        "58": {
+          "he": "(נח) נקיות ידים - י\"א דגם בזה מברכין ענט\"י ומ\"מ כל האחרונים לא זזו מפסק השו\"ע:",
+          "en": "Cleansing of the hands - There are some opinions that even regarding this (ie. cleaning one's hands without water) one should recite \"Al Netilat Yadayim\".  Nevertheless, all the later rabbinic authorities did not budge from the ruling of the Shulchan Aruch.",
+          "ref": "Mishnah Berurah 4:58"
+        },
+        "59": {
+          "he": "(נט) קודם נטילה - דסתם ידים דהיינו שאינו יודע אם הם מלוכלכים אינן פסולות לברכה וכ\"ש לד\"ת דהרי מברכין על הפירות וא\"צ נט\"י:",
+          "en": "Before washing - For in general, hands, where one does not know if they are dirty [or not], are not invalid [in regards] to reciting a blessing, and certainly for learning Torah, for we make  blessings on fruits and are not required to wash [beforehand].",
+          "ref": "Mishnah Berurah 4:59"
+        },
+        "60": {
+          "he": "(ס) ערום - שאז מסתמא ידיו מטונפות בנגיעת בית הסתרים. ומלבושים שלנו שבית הצואר פתוח אפילו אם ישן במלבושים מסתמא ידיו מטונפות כי דרכו לחכך בגופו במקום זיעה. ודוקא אם ישן שינת קבע אבל בשינת עראי אין חזקתו שנגע ודינן כסתם ידים דכשרים לת\"ת ולברכה רק לתפלה:",
+          "en": "Naked - For then it is assumed that his hands are dirty because he [most likely] touched one of the orifices [of the body in his sleep].  And [regarding] our [night] clothing (ie. pajamas), where the neck hole is very open, even if one slept with that kind of clothing, it's assumed that his hands became dirty because it's common for [people] to scratch their body in a place where sweat occurs.  This is specifically if one slept a full sleep, but [regarding] a nap, it's not assumed that he touched [his body], and [therefore] his [hands] status is like [like that of] normal hands which are [considered] valid for learning Torah and reciting blessings, with the exception of praying [Shemona Esrei].",
+          "ref": "Mishnah Berurah 4:60"
+        },
+        "61": {
+          "he": "(סא) שינקה אותם - בצרורות ובכל מידי דמנקי. וה\"ה לתורה אסור בלא נקיון. ועיין בפמ\"ג שכתב דאפילו אם יש לו מים מ\"מ די לברכות ולתורה בניקיון בעלמא וכן משמע בביאורי הגר\"א ורק משום כדי להעביר רוח רעה בעינן מים ובשע\"ת בשם הזוהר כתב דלא יברך בלי נט\"י וראוי להחמיר ביש לו מים. ועיין לקמן בסימן ס\"ב סק\"ח במשנה ברורה:",
+          "en": "Cleans them - With stones/pebbles or anything that can be used to clean.  The same applies to [learning] Torah - it is forbidden [to learn] without cleaning them [first].  See in Pri Megadim who wrote that even if one has water, for [reciting] blessings and [learning] Torah, it is enough to simply clean [one's hands], and this is implied in Biurei Ha'Gra.  Water is only required in order to remove \"the evil spirit\" from one's hands.  And Shaarei Teshuva, in the name of the Zohar, wrote that one should not recite a blessing without [first] washing their hands, and it is proper to be stringent when one has water [available].  See below in siman 62, se'if katan 8 in the Mishnah Berurah.",
+          "ref": "Mishnah Berurah 4:61"
         }
       }
     }

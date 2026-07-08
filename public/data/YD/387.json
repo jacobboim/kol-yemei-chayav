@@ -1,0 +1,99 @@
+{
+  "chelek": "YD",
+  "siman": 387,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-08T00:01:43.067Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין כפיית המטה. ובו ב' סעיפים:אבל חייב בכפיית המטה ובשעת שינה ואכילה יושב על מטה כפויה אבל כל היום אינו יושב אפילו על מטה כפויה אלא על גבי קרקע וכן המנחמים אינן רשאים לישב אלא ע\"ג קרקע:",
+      "en": "A mourner is required to overturn the couch.1M.K. 15a-b, 27a: ‘A mourner is required to overturn his couch (bed), for Bar Kappara taught. “I (the Lord) had placed my image among you, and for your sins I upset it; upset now your beds”’ (cf. Ez. XXIV, 23). In Y.Ber. III, 1(6a); Y.M.K. III, 5(83a) this is derived from Job. II, 13, ‘So they sat down with him upon the ground seven days.’ It was customary in those days for people to sit on couches or beds throughout the year. Hence, the mourner is required to overturn his couch and sit on the ground. Cf. however, M.K. 27a where it is stated that in a case of mourning, on the eve of the Sabbath, from the time of the Minḥa (afternoon) service and onwards, the couches were placed in erect position, but the mourner did not sit down on them until it was dark. This shows that the overturning of the couches or beds was on account of the prohibition against sitting on them (v. ibid., Tosaf. s.v. מן המנחה ולמעלה). According to the opinion of Bar Kappara, even if the mourner sat or slept on the ground, he had to overturn all the beds or couches in his home save a couch used specifically for vestments (ibid. 27a). When the time for sleeping or eating [arrives], he may sit [or sleep] on an overturned couch, but during the entire day he may not sit even on an overturned couch save on the ground. So too, the comforters are not permitted to sit save on the ground.2On overturning the couch, consult the following sources: Sem(H). XI, 10-19; Tosef. M.K. II, 9; Y.Ber. III, 1(5b-6a); Y.M.K. III, 5(82c-83a) ; Y.San. II, 1(20a); M.K. 27a; San. 20a-b; M.K. 20a, 21a; Asheri to M.K. III; RIBaSh, Resp. s. 69; Toldoth Adam we-Ḥawah II, 266a; Tur a.l.; T.H.; Shaare Simḥah p. 46; B.B. 144a, Tosaf. s.v. אודייני; Yalkut Shimoni II Sam. s. 149; Sem(H). VI, 2; W.G. a.l. for variant readings not found in cur. edd. of Talmud.",
+      "ref": "Shulchan Arukh, Yoreh Deah 387:1"
+    },
+    {
+      "seif": 2,
+      "he": "עכשיו לא נהגו בכפיית המטה מפני שיאמרו העובדי כוכבים שהוא מכשפות ועוד שאין המטות שלנו עשויות כמטות שלהן כדי שיהא ניכר בהם כפיה:",
+      "en": "Now it is not the common practice to overturn the couch because the Gentiles will say that it is [a kind] of sorcery. Moreover, our couches are not made like their couches in order that overturning should be discernible [as it was in former days].3Tur on the authority of Asheri.  M.K. 21a, Tosaf. s.v. אלו The mourners may sit on low stools (contra TaZ and ShaK). Support for this may be found in Y.Ber. III, 1(6a); Y.M.K. III, 5(83a), where the reason for overturning the couches is derived from Job. II, 13, ‘So they sat down with him upon the ground seven days’ (v. supra par. 1, n. 1). The text for the words ‘upon the ground’ reads לארץ (lit. ‘(close) to the ground’) whence it is inferred that a mourner may sit on a low stool. One who is feeble in health or a pregnant woman may sit on ordinary stools or chairs. On the eve of the Sabbath, a few hours before nightfall, the mourner may rise from the low stools and close to the time of kindling the Sabbath lights, he may put his shoes on — A.H.",
+      "ref": "Shulchan Arukh, Yoreh Deah 387:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מ\"ק דף ט\"ו ע\"א מדקתני בר קפרא וכו':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 387:1"
+        },
+        "2": {
+          "he": "הרמב\"ן בסת\"ה ממימרא דרב יהודה אמר רב וכו' שם דף כ\"ח ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 387:2"
+        },
+        "3": {
+          "he": "טור בשם אביו הרא\"ש:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 387:3"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "עכשיו לא נהגו כו'. מ\"מ אסור לו לישב על גבי ספסל או כרים וכסתות כי אם על גבי קרקע אם לא חולה וזקן שיש להם צער בישיבה על גבי קרקע מותרים להשים כר קטן מתחתיו. מיהו יכול לילך ולעמוד וא\"צ לישב כלל רק כשהמנחמים אצלו צריך לישב ע\"ג קרקע וה\"ה דכשרוצה לישן דצריך לישן על גבי קרקע מיהו המנחמים יושבים ע\"ג ספסל דמסתמא מחיל להו. כל זה מבואר בדרישה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 387:1"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "ובשעת שינה כו'. כתב רש\"ל אבל אין לו לישן כל ז' אלא ע\"ג הקרקע כ\"כ הר\"מ והאבל א\"צ לישב ע\"ג קרקע אלא כשהמנחמים אצלו ואז גם המנחמים צריכין לישב ע\"ג קרקע אא\"כ אמר להו האבל שבו ע\"ג ספסלים דמצי מחיל ליקריה (ואפשר משום הכי אין המנחמי' יושבין בזמן הזה ע\"ג קרקע דמחיל האבל מסתמא) ולישב האבל ע\"ג כרים וכסתות בעוד שהמנחמים אצלו לא יתכן אמנם חולה וזקן שיש להם צער בישיבת קרקע מותר להשים כר קטן תחתיו עכ\"ל. מה שכ' שאין צריך האבל לישב ע\"ג קרקע אלא כשהמנחמים אצלו פירוש אבל בלאו הכי יכול לעמוד או לילך בחדרו אבל על כל פנים אסור לישב ע\"ג ספסל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 387:1"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "קרקע. וכתב בתשובת דברי יוסף סי' ס\"א באבל תוך שבעה בעיוה\"כ לאכול סעודה המפסקת בישיבה על כסא או ספסל המיקל בזה לא הפסיד ודלא כמג\"א דמשמע מדבריו בסי' תר\"ו שמחמיר בזה אפילו בשעת אכילת סעודה המפסקת דהא עד שתחשך קאמר ע\"ש וכ\"כ בתשובת שמש צדקה חלק א\"ח סי' יו\"ד ועי\"ש בסימן י\"ב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 387:1"
+        },
+        "2": {
+          "he": "עכשיו לא נהגו. עבה\"ט בשם ש\"ך דאבל אסור לישן ע\"ג מטה ועי' בתשובת אא\"ז פנים מאירות ח\"ב סי' קי\"ט שחולק על זה. ועי' בשאילת יעב\"ץ ח\"א סי' ק\"א:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 387:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "עכשיו.  כ' הש\"ך ומ\"מ אסור לו לישב ע\"ג ספסל או על כרים וכסתות כי אם ע\"ג קרקע אם לא חולה וזקן שיש להם צער בישיבה על גב קרקע מותרים להשים כר קטן מתחתיו. מיהו יכול לילך ולעמוד וא\"צ לישב כלל רק כשהמנחמים אצלו צריך לישב ע\"ג קרקע וה\"ה דכשרוצה לישן צריך לישן ע\"ג קרקע (ועכשיו רבים נהגו שלא לישן כל ז' ע\"ג קרקע אפשר מפני שטבעם חלוש והוי כחולים לענין זה) מיהו המנחמים יושבים ע\"ג ספסל דמסתמא מחיל להו. עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 387:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

@@ -1,0 +1,295 @@
+{
+  "chelek": "OC",
+  "siman": 583,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-07T23:49:33.739Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דברים שנוהגים לאכול בליל ר\"ה. ובו ב סעיפים:יהא אדם רגיל לאכול בראש השנה רוביא דהיינו תלתן כרתי סילקא תמרי קרא וכשיאכל רוביא יאמר יהי רצון שירבו זכיותינו כרתי יכרתו שונאינו סלקא יסתלקו אויבינו תמרי יתמו שונאינו קרא יקרע גזר דיננו ויקראו לפניך זכיותינו: הגה ויש נוהגין לאכול תפוח מתוק בדבש (טור) ואומרים תתחדש עלינו שנה מתוקה (אבודרהם) וכן נוהגין ויש אוכלים רימונים ואומרים נרבה זכיות כרמון ונוהגין לאכול בשר שמן וכל מיני מתיקה: (מרדכי דיומא):",
+      "en": "Customary foods for the eve of Rosh Hashanah. Containing two sections:One should eat beans, leeks, beets, dates, and pumpkin. And as one eats the beans (rubiya), they say: God, may our merits increase (yirbu)! Eating leeks (karti), they say: God, may our enemies be wiped out (yekartu)! Eating dates (tamari), say: God, may our enemies disappear (yetamu)! Eating pumpkin (kra), say: God, may our judgement be ripped up (yikra') and may our merits be called out (yikaru) before You! Rema: Some have a custom of eating a sweet apple in honey (Tur), and saying: May a sweet year be renewed on us! (Abudarham) This is what we do. Some eat pomegranates, and say: may our merits be as many as pomegranate seeds! And we are accustomed to eat fatty meat and all sorts of sweets (Mordechai on Yoma).",
+      "ref": "Shulchan Arukh, Orach Chayim 583:1"
+    },
+    {
+      "seif": 2,
+      "he": "אוכלים ראש כבש לומר נהיה לראש ולא לזנב וזכר לאילו של יצחק: הגה יש מדקדקים שלא לאכול אגוזים שאגוז בגימטריא חט ועוד שהן מרבים כיחה וניעה ומבטלים התפלה (מהרי\"ל) והולכין אל הנהר לומר פסוק ותשליך במצולות ים כל חטאתינו וגומר (מנהגים) וגם נוהגים שלא לישן ביום ראש השנה (ירושלמי) ומנהג נכון הוא:",
+      "en": "Eat a head of a lamb saying: Let us be as a head and not a tail. It is also a remembrance of the ram of Isaac. Rema: There are those who are careful not to eat nuts, as the word \"egoz\" in gematriah [is equal to the value of] chet (sin). They also cause a lot of excess saliva and phloem and cause abrogation of prayers. They also go to a river and say the verse: And Thou wilt cast all their sins into the depths of the sea (Micah 7:19). There are also those who do not sleep during Rosh Hashana during the day, and this is the correct thing to do.",
+      "ref": "Shulchan Arukh, Orach Chayim 583:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מימרא דאביי בכריתות ו' ע\"א והוריות י\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 583:1"
+        },
+        "2": {
+          "he": "מרדכי ריש ר\"ה שם מנהג רב האי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 583:2"
+        },
+        "3": {
+          "he": "טור והמרדכי דמסכת יומא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 583:3"
+        },
+        "4": {
+          "he": "שם בשם מהר\"ם מרוטנבורג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 583:4"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "נ״ל עמ״א ובתקצ״ז (ט״ס תקצ״ב) רש״ל לא אכל דגים דחביב עליו ביותר רצה למעט בדבר מסוים משא״כ למי שאין חביב כ״כ יאכל שנפרה ונרבה כדגים ואין עין הרע שולטת בהם ואין מבשלים בחומץ יש נמנעים לבשל מיני חומץ בארש״ט וכדומה מה״ט שתחדש שנה מתוקה: תפוח עמ״א אין מברך על הדבש שהכל כי העיקר פוטר הטפילה. ועסי׳ שכ״א במ״א אות ט״ז דמשמע דבש בחלות תלוש בעי ריסוק יע״ש וא״כ כשחל ר״ה בשבת צריך לרסק מבע״י החלות שמביאין מכוורת ובי״ט נמי צ״ע בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 583:1"
+        },
+        "2": {
+          "he": "ואומרים עמ״א שיש לאכול תחלה התפוח בדבש ואח״כ לומר יה״ר כו׳ דלכתחלה אין להפסיק עסי׳ קס־\\ז:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 583:2"
+        },
+        "3": {
+          "he": "כבש עמ״א כבש של איל וא״ל יקח ראש של בהמה ועוף לומר נהיה לראש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 583:3"
+        },
+        "4": {
+          "he": "אגוזים עמ״א כל שמרבה כיחו וניעו אין לו לאכול בר״ה שמבטלין התפלה ובר״ה צריכין ביותר לכוין למה שאומר ש״ץ ועיין ב״ח. עיין אגרת השלישית:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 583:4"
+        },
+        "5": {
+          "he": "הנהר עמ״א לעורר עינא פקיחא ועוד טעמים ועי׳ בשל״ה ועסי׳ תצ״ז ס״ב (ט״ס תצ״ב) במ״א אות ב׳ אסור ליתן לדגים מזונות ועיין א״ז תקצ״ז בשם מהרי״ל שלא יתן פת לדגים יע״ש. ובקצת מקומות ראיתי כשחל יום ראשון בשבת הולכין בשני לנהר אפשר מטעם הוצאה שנושאין עמהם ועסי׳ תקי״ח הוצאה שלא לצורך כלל בי״ט ג״כ אסור:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 583:5"
+        },
+        "6": {
+          "he": "שלא עמ״א והיושב בטל כישן דמי אם לא הכרחי אכילה ושתיה מה שצריך ומ״מ לא יתעדן ביותר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 583:6"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "כרתי עט״ז עב״ח. ועיין פרישה סימנא מילתא לא ניחוש מש״ה שרי נמי זה. ויאמר יכרתו שונאינו י״ל עונות נבראים מקטריגים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 583:1"
+        },
+        "2": {
+          "he": "לאכול תפוח עט״ז הביאו ג״כ בד״מ ועמ״א אות א׳ וב׳ ומ״ש בהגה נרבה זכיות כרמון עפר״ח בכל השנה כן כפלח הרמון רקתך וי״ל כל ימי חייו ואנו מתפללים שיהא בכל שנה יע״ש וי״ל דאף פושעי ישראל מלאים מצות כרמון עיין עירובין י״ט א׳ ואנו מבקשים נרבה שיהא רוב מצות עכ״פ:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 583:2"
+        },
+        "3": {
+          "he": "שלא לישן עט״ז ומ״א ו׳ עא״ר בשם מהרי״ל אכל ערד עפפי״ל שמקררין ובירך שהחיינו ולא פה״א דהוי דברים הבאים מחמת הסעודה. בד״מ בשם מהרי״ל לילך בר״ה אל הנהר ואומרים תשוב תרחמנו ותכבוש עונותינו זכר לעקידה של יצחק יע״ש. וראיתי בקצת מקומות כשחל יום ראשון בשבת הולכין ביום ב׳ ואפשר שהנהר חוץ לעיר ומשום הוצאה שנושאין ספרים וכדומה הולכין ביום ב׳ ועסי׳ תקצ״ו ובלבוש ואי״ה שם יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 583:3"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] יהי רצון וכו'. פירוש שיאמר יהי רצון מלפניך ה' אלהינו ואלהי אבותינו שירבו זכויותינו וכן בכולן וכן הוא בכלבו, וכתב בשל\"ה שהוא סימן שיזכור האדם ויתעורר בתשובה ויתפלל על הדבר הזה, עד כאן, ומשמע דגם בליל שני יעשה כן:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 583:1"
+        },
+        "2": {
+          "he": "[ב] שירבו וכו'. והוא הדין מה שנקרא כל מדינה ומדינה בלשונה לשון רבים, מגן אברהם. כתב הב\"ח סימן תקצ\"ד דרש\"ל קיבל מזקינו שלא אכל דגים בראש השנה כדי למעט תאות אנושי במקצת דבר מסוים, עד כאן. ותמיהני הא באבודרהם כתב דיש לאכול דגים בראש השנה לפרות ולרבות כדגים ואין מבשלין בחומץ:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 583:2"
+        },
+        "3": {
+          "he": "[ג] תפוח וכו'. ומברך בורא פרי העץ אף שאוכלין אחר המוציא מהרי\"ל ודרכי משה, וטעם דתפוחים רומז לשדה תפוחים הידוע למקובלים ראה ריח בני כריח השדה ועיין מגן אברהם. לכתחילה יאכל ואחר כך יאמר תתחדש וכו' ובדיעבד אם אמרו קודם האכילה אין הפסק דצורך ברכה הוא. מהרי\"ל היה נוהג לאכול ערד עפפיל כי הוא מקרר ומונע מהרגל דבר והיה מברך עליו שהחיינו ולא בורא פרי האדמה דדבר הבא בתוך הסעודה הוא:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 583:3"
+        },
+        "4": {
+          "he": "[ד] כבש וכו'. ואם אין ראש כבש יש לאכול ראש אחר משום טעם ראשון וכן משמע במטה משה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 583:4"
+        },
+        "5": {
+          "he": "[ה] אגוזים וכו'. כן כתב מהרי\"ל אבל בכלבו דמהר\"מ לא היה נזהר לאכול שומין ואגוזים וכל דבר שמרבים זרע והיה נהוג לאכול ריאה בדבש שמאירה את העינים. כתב רמ\"א נוהגין שלא לישן ביום ראש השנה ומנהג נכון הוא, והלבוש שהשמיטו נראה לי דסבירא ליה דשרי כמו שכתב הב\"ח סימן תקפ\"ז בשם מהרש\"ל היה רגיל לישן כמו בשאר יום טוב, וכן מגן אברהם בשם האר\"י דמותר לישן אחר חצות שכבר נתעורר המלאך על ידי התפילות ותקיעות, ולפי זה גם היושב ובטל כישן דמי, ועיין סימן תקצ\"ז מדין לילך לנהר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 583:5"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "כרתי יכרתו שונאינו.  כתוב באגוד' וקשה א\"כ יאכל כל דבר אם טוב הוא יהיה כנגד ישראל ואם רע הוא כנגד עכו\"ם אלא י\"ל רוביא וכרתי שניהם גדילים מהר וסי' טוב הן עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 583:1"
+        },
+        "2": {
+          "he": "לאכול תפוח.  כתב מהרי\"ל וצריך לברך תחלה בפה\"ע דהוי כדברים הבאים בתוך הסעודה שלא מחמת הסעודה ותפוח הוא רמז על שדה תפוחין הידוע על פי הקבלה עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 583:2"
+        },
+        "3": {
+          "he": "שלא לישן.  דאיתא בירושלמי מאן דדמיך בריש שתא דמיך מזלי':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 583:3"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "נ\"ל דה\"ה מה שנקרא בלשונות אחרים לשון רבים יאכל כל מדינה ומדינה כלשונה ועיין בברכות פ\"ט גבי שונרא: יאכל דגים לפרות ולרבות כדגים ואין מבשלין בחומץ (הרד\"א) עמ\"ש רסי' תקצ\"ז: תפוח. ויברך על התפוח שהתפוח עיקר שכ' בכ\"מ נוטלין התפוח וטובלין בדבש ולא כתב אוכלים דבש עם התפוח משמע שהתפוח עיקר דוגמא דטיבול מרור (מהרי\"ל ד\"מ) ורי\"ו פשטידא ויש נוהגין לטבל פרוס' המוציא בדבש:",
+          "en": "",
+          "ref": "Magen Avraham 583:1"
+        },
+        "2": {
+          "he": "ואומרים. משמע שאוכל תחלה ואח\"כ אומר שלא להפסיק וכמ\"ש סי' קס\"ז ס\"ז ובמ\"צ כתב שאו' תחלה ואח\"כ אוכל וצ\"ל דס\"ל דלא חשיב הפסק וכיוצא בזה כתב הב\"ח בסי' תר\"ה בשם התשב\"ץ לו' זה חליפתי כו' בין ברכה לשחיטה דזה מקרי צורך שחיטה וכן בסוכה מברכין בין ברכה להמוציא ומ\"מ נ\"ל דלכתחלה יש לאכול קודם האמירה דאין זה צורך כ\"כ ועוד דגם לצורך אין להפסיק לכתחלה כמ\"ש בהג\"ה:",
+          "en": "",
+          "ref": "Magen Avraham 583:2"
+        },
+        "3": {
+          "he": "כבש. ואם אין ראש כבש יש לאכול ראש אחר משום טעם הראשון:",
+          "en": "",
+          "ref": "Magen Avraham 583:3"
+        },
+        "4": {
+          "he": "אגוזים. שמעתי שהגדולי' קרוים אגוזים והקטנים קרוים לוזים וכ\"מ ברבה שיר השירים אבל לפי הטעם השני שניהם אסורים:",
+          "en": "",
+          "ref": "Magen Avraham 583:4"
+        },
+        "5": {
+          "he": "הנהר. שיש בו דגים חיים (מנהגים ומט\"מ) עסי' תצ\"ז ס\"ב אבל בכתבים כתוב נהר או באר וטוב אם הם מחוץ לעיר ויש לילך ביום ראשון אחר מנחה קודם שקיע' החמה ולו' פסוק מי אל כמוך וגו' עכ\"ל:",
+          "en": "",
+          "ref": "Magen Avraham 583:5"
+        },
+        "6": {
+          "he": "ושלא לישן. האר\"י אמר שאחר חצות מותר לישן שכבר נתעורר המלאך ע\"י התפלות והתקיעות ובב\"ח כת' שהר\"ם ישן בר\"ה והיושב בטל כישן דמי:",
+          "en": "",
+          "ref": "Magen Avraham 583:6"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "תפוח.  ומברך בפה\"ע אף שאוכלין אחר המוציא. ויש נוהגין לטבל המוציא בדבש ועיין מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 583:1"
+        },
+        "2": {
+          "he": "תתחדש.  דהיינו שאוכל תחלה ואח\"כ אומר שלא להפסיק עיין מ\"א בשכנה\"ג מפלפל אם יברך על התפוח או על הדבש ג\"כ ע\"ש. ובתשובת שבות יעקב חלק ב' סימן כ\"ז כתב דבשביל ספק זה נהגו לאכול המוציא עם הדבש והתפוח יחד ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 583:2"
+        },
+        "3": {
+          "he": "שמן.  רש\"ל קבל מזקנו שלא אכל דגים בר\"ה כדי למעט תאותו במקצת דבר ורד\"א כתב דיש לאכול דגים כדי לפרות ולרבות כדגים ואין לבשלם בחומץ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 583:3"
+        },
+        "4": {
+          "he": "כבש.  ואם אין ראש כבש יש לאכול ראש אחר מטעם הראשון:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 583:4"
+        },
+        "5": {
+          "he": "כיחה.  לפי טעם זה הגדולים וקטנים שקורין לוזים אסורים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 583:5"
+        },
+        "6": {
+          "he": "הנהר.  שיש בו דגים ובכתבים כתב נהר או באר וטוב אם הם מחוץ לעיר. ויש לילך ביום ראשון אחר מנחה קודם שקיעת החמה ולומר פסוק מי אל כמוך וגו':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 583:6"
+        },
+        "7": {
+          "he": "לישן.  האר\"י ז\"ל אמר שאחר חצות מותר לישן שכבר נתעורר המלאך על ידי התפלות והתקיעות וב\"ח כתב שהר\"מ ישן בר\"ה. והיושב בטל כישן דמי עיין תוס' עכו\"ם דף ה' עמוד ב' טעם שתקנו להרבות בסעודה בר\"ה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 583:7"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) וכשיאכל רוביא וכו' - וה\"ה מה שנקרא בלשונות אחרים לשון רביה יאכל כל מדינה ומדינה כלשונה:",
+          "en": "",
+          "ref": "Mishnah Berurah 583:1"
+        },
+        "2": {
+          "he": "(ב) יהי רצון - מלפניך ד' או\"א שירבו זכיותינו וכתב א\"ר בשם של\"ה יתעורר אדם בתשובה כשיאמר י\"ר ויתפלל ע\"ז בלב שלם:",
+          "en": "",
+          "ref": "Mishnah Berurah 583:2"
+        },
+        "3": {
+          "he": "(ג) תפוח מתוק בדבש - והתפוח עיקר ומברך עליו ופוטר הדבש. ואף שאוכל התפוח אחר ברכת המוציא מ\"מ צריך לברך עליו. ויש נוהגין לטבל המוציא בדבש:",
+          "en": "(3) A sweet apple with honey - and the apple is the main thing, and one blesses on it and exempts the honey. And even if one eats the apple after the blessing of hamotzi, one still needs to bless on it. And there are those who have the custom to dip the hamotzi in honey.",
+          "ref": "Mishnah Berurah 583:3"
+        },
+        "4": {
+          "he": "(ד) שתחדש וכו' - ויאמר הבקשה אחר התחלת האכילה מפני שאסור להפסיק בין ברכה לאכילה:",
+          "en": "",
+          "ref": "Mishnah Berurah 583:4"
+        },
+        "5": {
+          "he": "(ה) שנה מתוקה - וע\"כ יש נמנעים לבשל בר\"ה מיני חומץ בארש\"ט וכדומה וע\"כ האוכלים דגים לסימנא שיפרו וירבו כדגים אין מבשלין אותן בחומץ. והנה כל אלו הענינים עושין הכל לסימן טוב ולכן פשיטא שיזהר מאד שלא יכעוס בימים האלו מלבד גודל האיסור כדי שיהיה לסימן טוב רק יהיה שמח לבו ובטוח בד' עם התשובה ומעש\"ט:",
+          "en": "\"A sweet year\" - because of this, there are those who refrain on Rosh Hashanah from cooking sour foods, such as Borscht. Therefore, those who eat fish as a sign of fertility should not cook them in vinegar. All these symbols are done as a sign of the good which is to come, so obviously one should be very careful not to be angry on this day (apart from it never being permitted!) so that the day is full of goodness. Just fill the heart with happiness, and trusting God, and repentance, and good deeds.",
+          "ref": "Mishnah Berurah 583:5"
+        },
+        "6": {
+          "he": "(ו) ראש כבש - וטוב יותר של איל:",
+          "en": "",
+          "ref": "Mishnah Berurah 583:6"
+        },
+        "7": {
+          "he": "(ז) לומר נהיה לראש - וע\"כ אם אין לו ראש כבש יאכל ראש אחר של בהמה או של עוף:",
+          "en": "",
+          "ref": "Mishnah Berurah 583:7"
+        },
+        "8": {
+          "he": "(ח) הנהר וכו' - ולומר תשוב תרחמנו וגו'. משום דאיתא במדרש שעבר אברהם אבינו עד צוארו במים כשהלך להקריבו ע\"ג המזבח ואמר הושיעה כי באו מים עד נפש ואנו עושין זה זכר לעקידה. וטוב [לילך] למקום שיש בו דגים חיים לסימן שלא תשלוט בנו עין הרע ונפרה ונרבה כדגים. ובכתבים כתב נהר או באר וטוב שיהיה מחוץ לעיר. ויש לילך ביום א' אחר מנחה קודם שקיעת החמה ולומר פסוק מי אל כמוך וגו' עכ\"ל. ובקצת מקומות ראיתי כשחל יום א' בשבת הולכין בשני לנהר. ואפשר מפני שהנהר חוץ לעיר ומשום הוצאה שנושאין ספרים וכדומה לכך הולכין ביום ב' [פמ\"ג]:",
+          "en": "",
+          "ref": "Mishnah Berurah 583:8"
+        },
+        "9": {
+          "he": "(ט) שלא לישן וכו' - משום דאיתא בירושלמי מאן דדמיך בריש שתא דמיך מזלי'. והאר\"י ז\"ל אמר שאחר חצות מותר לישן שכבר נתעורר המלאך ע\"י תפלות ותקיעות וב\"ח כתב שהר\"מ היה ישן בר\"ה. ויושב בטל כישן דמי ועיין בח\"א שכתב דאחר האכילה יקבע עצמו ללימוד ואם ראשו כבד עליו יישן מעט אם א\"א לו בלא זה ויש נוהגים לגמור כל התהילים:",
+          "en": "(8) The river, etc. — and to say, \"You will take us back in mercy, etc.\" Because it is found in the Midrash that our father Abraham crossed [a river] until the water reached his neck when he went to sacrifice [Isaac] over the altar. Then he said, \"Save [Us],\" since the water threatened his life. And we do this to commemorate the binding [of Isaac]. It is good to go to a place where there are living fish as a sign that the evil eye will not overpower us, and that we should be fruitful and multiply like fish. And it is written in some writings: It should be a river or a spring, and it is better if it is outside of the city. One should go on the first day [of Rosh Hashanah] after the afternoon prayers before the sunset, and say: Who is a God like You, etc. (Micah 7:18-20). To here are its [words]. And I have seen in a few places, that when the first day falls out on Shabbat, they go to the river on the second day. And it is possible that it is because of [the prohibition of] transporting out, since we carry books and the like. Hence we go on the second day (Pri Megadim).",
+          "ref": "Mishnah Berurah 583:9"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

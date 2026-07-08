@@ -1,0 +1,218 @@
+{
+  "chelek": "YD",
+  "siman": 381,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 6,
+  "fetchedAt": "2026-07-08T00:01:41.942Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "איסור רחיצה וסיכה לאבל. ובו ו' סעיפים:רחיצה כיצד אסור לרחוץ כל גופו אפילו בצונן אבל פניו ידיו ורגליו בחמין אסור בצונן מותר ואם היה מלוכלך בטיט וצואה רוחץ כדרכו ואינו חושש: הגה וכל זה מדינא אינו אסור רק שבעה אבל אח\"כ מותר ברחיצה אלא שנהגו האידנא לאסור כל רחיצה כל ל' יום (מהר\"ם הלכות שמחות ובהגמי\"י פ\"ז מהל' י\"ט ופ\"י דהל' אבל) ואפי' לחוף הראש אסור (לקמן סימן ש\"צ ובא\"ז) ואין לשנות המנהג כי מנהג קדום הוא ונתייסד על פי ותיקין (א\"ז בשם רשב\"א):",
+      "en": "In what manner is bathing [forbidden]?1M.K. 15b, derived from, ‘And Joab sent to Tekoa and fetched thence a wise woman and said unto her, I pray thee, feign thyself to be a mourner etc… and annoint not thyself with oil’ (II Sam. XIV, 2). Bathing is implied in the prohibition of annointing.  Ruth III, 3; Ps. CIX, 18; Yad, Ebel V, 3 and cf. Yoma 76b. — He is forbidden to bathe his whole body even in cold water, but his face, hands and feet he is forbidden [to wash] in warm water,2This includes even lukewarm water — P.Tesh. [but] in cold water he is permitted.3Ta‘an 13b. However, if he was soiled with mud or excrement, he may bathe in his usual way without any apprehension.4Yoma 77b. Cf. Ber. 16b, Tosaf. s.v. אסטניס. Gloss: And all this is forbidden legally only for seven [days], but subsequently he is permitted to bathe,5M.K. 19b in accord with the dictum of R. Amram citing Rab. only that nowadays it is the adopted practice to prohibit bathing throughout the thirty days,6R. Meir of Rothenberg, Laws of Sem. (s. 105) ; Hag. Maim. Yom Tob VII; ibid. Ebel X — G. The translation here ‘bathing throughout the thirty days,’ follows ShaK’s reading. Hence, it follows that in cold water it would be permissible during the thirty days. The undefined term רחיצה (bathing) refers to warm water (v. Y.M.K. III, 5(82d) ; cf. infra § 399 and O.H. § 549). Moreover, bathing in cold water is not considered pleasure (תענוג) — ShaK. D.Merb. and R. A. Eger maintain contra ShaK that even in cold water it is permissible to bathe only one’s face, hands and feet, but the entire body should not be bathed in cold water for thirty days. A.H. agrees with ShaK. Or Zaru‘a explains that this prohibition regarding bathing within the thirty days is on account of combing the hair, which is forbidden within the thirty days. But since we permit combing of the hair today (v. infra § 390), it would be permissible to bathe after seven days. RaShaL’s reason for the prohibition of bathing is on account of hair-cutting. Hence, bathing should be forbidden just as hair-cutting is. On Ḥol ha-Moed, however, we find that hair-cutting is forbidden and bathing is permitted. This difficulty may be removed on the grounds that on Ḥol ha-Moed the prohibition of hair-cutting applies to everyone as a result of which people will remember and be careful. Consequently, bathing is permitted. But in the case of mourning, it applies only to the individual mourner. Hence, there is fear lest he forget (cf. Mishna Shab. 147a, Rashi s.v. אבל) — TaZ. and even to cleanse the head is forbidden.7Infra § 390 and Or Zaru‘a — G. This refers to warm water only. And this custom should not be altered, for it is an ancient custom and was established by pious men.8Or Zaru‘a on the authority of RaShBA — G. One, however, who is not in good health, although he is not considered a sick person, and requires a bath, is permitted to bathe within the thirty days, since the entire prohibition is only a custom and not a binding law (v. supra n. 5). During the seven days of mourning he is forbidden to bathe unless a physician instructs him otherwise, although he is not considered a dangerously ill person — A.H. Bathing in public, however, is forbidden throughout the thirty days.  Kol Bo(G) I, p. 356.",
+      "ref": "Shulchan Arukh, Yoreh Deah 381:1"
+    },
+    {
+      "seif": 2,
+      "he": "סיכה כיצד אסור לסוך אפי' כל שהוא אם מכוין לתענוג אבל אם הוא להעביר הזוהמא מותר וא\"צ לומר משום רפואה כגון שיש לו חטטין בראשו:",
+      "en": "In what manner is annointing [forbidden]? — Any annointing9With oil or washing with soap or the application of perfumes or the like — A.H. The prohibition extends both to the body and the hair, whether in the case of a man or a woman — A.H. whatsoever is forbidden, if his intention is merely for the sake of pleasure;10Ta‘an. 13b. but if it is to remove dirt, it is permissible, and needless to say [that it is permitted if used] as a medicine, e.g., if he had scabs on his head.11Or a skin disease or the like. Y.Ber. II, 7(5b); Y.M.K. III, 5(82d); T.H. For even on Yom Kippur when annointing which is not for the sake of mere pleasure is also prohibited (Y.Yoma VIII, 1(44d), yet, in the case where one was sick or had scabs on his head, he may annoint himself in his usual way without any apprehension (Yoma 77b).",
+      "ref": "Shulchan Arukh, Yoreh Deah 381:2"
+    },
+    {
+      "seif": 3,
+      "he": "יולדת אבלה שצריכה לרחוץ מותר וכן מאן דאית ליה ערבוביא ברישיה מותר לחוף ראשו בחמין דלא גרע מאסטניס (פי' קר הגוף ומצונן) שמותר לרחוץ כל גופו ולא כל מי שאומר אסטניס אני מתירין לו אלא דוקא שהוא ידוע שהוא אסטניס ומתנהג בנקיות ואם לא ירחץ יצטער הרבה ויבא לידי מיחוש:",
+      "en": "A woman in mourning after childbirth who requires to bathe,12In warm water — A.H. Even on the first day. However, if the need is not so great, we should be stringent on the first day of mourning (Later Authorities) — ShaK. is permitted [to do so].13Asheri to Ber. II and M.K. III, derived from Mishna Ber. 16b (cf. also Tosaf. ibid. s.v. אסטניס) in the case of R. Gamaliel. Likewise, one who has scabs on his head,14Much more so in the case of scabs arising from wearing unclean garments which cause madness (Ned. 81a) is washing of raiment permissible for this is more serious. is permitted to cleanse his head in warm water, for [this case] is not less important than [the case of] a delicate person, i.e., one who is frigid in body and is overcome by cold,15 Y.Ber. II, 7(5b) ; Y.M.K. III, 5(82d), where it is stated that even if it is not a serious case, bathing is permitted, contra R. Hananel who explains that a delicate person (אסטניס) refers to a case where the individual may become dangerously ill should he not bathe himself. One who has a skin disease on any other part of his body is likewise permitted to bathe in warm water — A.H. who is permitted to bathe his whole body. However, we do not permit anyone who says, 'I am a delicate person' [to bathe], unless it is known that he is a delicate person and comports himself in cleanliness16Tur citing R. Hai Gaon. Thus also Asheri citing R. Ḥananel. and should he not bathe he would suffer much and take ill.17Lit. ‘will come to an indisposition.’ Thus N in T.H., who explains the statement of R. Ḥananel that ‘a case which may lead to a person becoming dangerously ill’ (סכנה) refers to one who is very uncomfortable if he does not bathe in warm water.  supra n. 15.",
+      "ref": "Shulchan Arukh, Yoreh Deah 381:3"
+    },
+    {
+      "seif": 4,
+      "he": "מי שתכפוהו אביליו שאירעו שני אבילות זה אחר זה מותר לרחוץ כל גופו בצונן:",
+      "en": "One who suffered a bereavement followed close on another [bereavement], [i.e.,] two mournings befell him, one immediately after the other, is permitted to bathe his whole body in cold water.18Ta‘an. 13a-b ; M.K. 17b. e., after the seven days of the first bereavement expired. Likewise, after the termination of the thirty days from the first bereavement, he may bathe his entire body in warm water — A.H.",
+      "ref": "Shulchan Arukh, Yoreh Deah 381:4"
+    },
+    {
+      "seif": 5,
+      "he": "נדה שנזדמנה זמן טבילתה בימי אבלה אינה טובלת (טור בשם ר\"ת וע\"פ ומהרי\"ק שורש ל\"ה) : הגה וכל שכן שאינה רוחצת ללבוש לבנים אבל מיד אחר ז' אע\"פ שנהגו איסור ברחיצה כל ל' מ\"מ היא מותרת רק שתשנה הרחיצה קצת (א\"ז בסוף הלכות אבל) וחלוק לבן תלבוש וסדין לבן תציע שלא תבא לידי ספק (תשובת מהרי\"ל סימן ט\"ו):",
+      "en": "A menstruous woman whose time for immersion became due during her [seven days of] mourning, does not immerse.19Tur on the authority of R. Tam (Tosaf. Yoma 8a, s.v. דכולי) and other Codifiers; also MaHaRIK Rt. 35 — G. This ruling follows the opinion of R. Jose, son of R. Judah in Nid. 30a, whose view is that it is not a religious duty to perform immersion at the due time.  also Yoma 88a; Beẓ. 18b, Tosaf. s.v. כל and cf. Ta‘an. 13a. Furthermore, marital intercourse is not permitted in any case. Gloss: So much the more that she does not bathe in order to put on [her] white garments20The days after menstruation are called ימי ליבונים i.e., the days during which white garments are worn, while marital contact is still prohibited. [worn during the counting of the seven days of cleanliness]. However, immediately after the seven days [of mourning], — although it is the common practice to adopt a prohibition against bathing for the entire thirty days, — yet, she is permitted [to bathe then], — only that she should alter the [mode of] bathing a little,21Or Zaru’a, Laws of Mourning end — G. Some, however, rule that she may bathe during her seven days of mourning and put on white garments then, only that she should change the mode of bathing, viz., to bathe even with warm water only the pudenda and between her thighs — TaZ, ShaK. and she may put on a plain white frock22A clean one, not completely white, if possible. and spread out a [clean] white sheet [on her couch] so that she does not come to any doubt.23MaHaRIL, Resp. 15 — G. This will avoid entertaining any doubts with respect to blood stains that she may notice henceforth. A menstruant woman whose time for immersion falls on the night following the Sabbath, and on Friday she was still within her seven days of mourning which end on the Sabbath, is permitted to comb and cleanse her hair on Friday (v. B.K. 82b) — B.L.Y. A Sandek who is within the thirty days of mourning for his father, may bathe on the night preceding the circumcision, since the prohibition against bathing for thirty days is not a binding law (v. supra par. 1) — TaZ.",
+      "ref": "Shulchan Arukh, Yoreh Deah 381:5"
+    },
+    {
+      "seif": 6,
+      "he": "אשה לא תכחול ולא תפרקס בימי אבלה שכל אלו אסורים כרחיצה ואשת איש אינה אסורה אלא תוך שבעה אבל אחר ז' מותרת בכל כדי שלא תתגנה על בעלה כלה שאירעה אבל תוך שלשים יום לחופתה מותרת להתקשט אפי' תוך ז' בוגרת שאירעה אבל כיון שעומדת לינשא מותרת בכיחול ופירקוס אבל אסורה ברחיצת חמין כל גופה נערה אבלה אסורה אפילו בכיחול ופירקוס:",
+      "en": "A woman should not paint [her eyelids]24 Rashi, Ket. 17a for other meanings of these terms. Cf. Jastrow. nor rouge [her face]24 Rashi, Ket. 17a for other meanings of these terms. Cf. Jastrow. during the days of her mourning, for all these [things] are forbidden as bathing.25Ket. 4b; M.K. 20b. In a certain respect this is even more stringent than bathing, for it is forbidden after seven days, unless it is a case of a married woman (v. anon); whereas bathing is legally permitted after seven days (v. supra par. 1) — ShaK. A married woman is forbidden [to do this] only during the seven [days], but after the seven [days] she is permitted everything, so that she does not become repulsive to her husband.26Tur derived from Asheri, implied in Sem. (not found in cur. edd.).  however, Sem(H). VII, 11 and list of Baraitoth (p. 230 ibid.) not found in cur. edd., but cited by earlier authorities, and Int. II, 6; V, 2. Cf. Asheri to M.K. III, ibid. Ket. I; Yad, Ebel VI, 3 and Kes. Mish., RIDBaZ a.l.; T.H.; M.K. 27b Tosaf. s.v. לגיהוץ; infra § 390, 5. A bride whom mourning befell within the thirty days [subsequent] to her marriage, is permitted to adorn herself,27Ket. 4a in accord with Asheri’s interpretation. even within the seven [days of mourning]. A girl who has reached adolescence,28Heb. בוגרת i.e., a girl from twelve and a half years and onwards. whom mourning befell, — [the law is that] since she is ready for marriage, she is permitted painting [of the eyelids] and rouging [of the face],29Within the seven days. but is forbidden to bathe the entire body in warm water.30Ta‘an. 13b. Cf. Tosaf. ibid. s.v. אין. The text here is faulty, and should read, ‘but is forbidden to bathe in warm water, and her entire body in cold water’ — P.Tesh. A girl who has not reached adolenscence,31Heb. נערה i.e., a girl between twelve years and a day and twelve years and a half plus one day. who is a mourner, is forbidden even painting [of the eyelids] and rouging [of the face].32Ta‘an. ibid. But a minor boy (קטן) or girl (קטנה) to whom mourning rites do not apply, are permitted the above-mentioned things, for with respect to mourning they do not fall within the category of חנוך i.e., the gradual introduction of children into religious practices (v. Yad Abraham and Beth Hillel).",
+      "ref": "Shulchan Arukh, Yoreh Deah 381:6"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא מ\"ק דף ט\"ו ע\"ב ויליף לה שנאמר התאבלי נא ולבשי בגדי אבל ואל תסוכי שמן ורחיצה בכלל סיכה ופירש רש\"י שנאמר ותבא כמים בקרבו וכשמן בעצמותיו והרמב\"ם שם בפ\"ה שהרחיצה קודמת לסיכה שנאמר ורחצת וסכת:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 381:1"
+        },
+        "2": {
+          "he": "מסקנת הגמ' תענית דף י\"ג ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 381:2"
+        },
+        "3": {
+          "he": "ג\"ז מסקנת הגמרא שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 381:3"
+        },
+        "4": {
+          "he": "הרמב\"ן בסת\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 381:4"
+        },
+        "5": {
+          "he": "הרא\"ש שם במ\"ק בשם ר\"י ממשנה מעשה דר\"ג שרחץ וכו' ברכות דף ט\"ו ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 381:5"
+        },
+        "6": {
+          "he": "שם בתוס':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 381:6"
+        },
+        "7": {
+          "he": "רמב\"ן בסת\"ה וטור בשם רב האי גאון:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 381:7"
+        },
+        "8": {
+          "he": "כן פי' הרמב\"ן שם דבריו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 381:8"
+        },
+        "9": {
+          "he": "אוקימתא דגמרא תענית דף י\"ג ע\"א וע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 381:9"
+        },
+        "10": {
+          "he": "סתמא בברייתא שם דטובלין ופלוגתא דתנאי בברייתא בסוף יומא וכתבו התוס' בביצה דף י\"ח ע\"ב דהאידנא כל טבילות שנשותינו טובלות הם שלא בזמנם שהן סופרות שבעה נקיים מספק אם כן דוקא בימיהם שהיו עוסקים בטהרות היו צריכים לטבול מיד כדי שלא יטמאו את הטהרות אבל הטבילה דהשתא דאינה באה אלא לטהרה לבעלה וכו' דהא אפילו תטבול ביה\"כ ובט\"ב אסורה לבעלה אין טובלין לא ביה\"כ ולא בתשעה באב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 381:10"
+        },
+        "11": {
+          "he": "ברייתא כתובות דף ד' ע\"ב ומ\"ק דף כ' ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 381:11"
+        },
+        "12": {
+          "he": "טור מדברי הרא\"ש בריש כתובות דמשמע באבל רבתי דכל דין ל' היינו גיהוץ ותספורת אינו נוהג בא\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 381:12"
+        },
+        "13": {
+          "he": "ברייתא אין מונעין מן הכלה וכו' כתובות דף ד' ע\"א וכפי' הרא\"ש:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 381:13"
+        },
+        "14": {
+          "he": "שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 381:14"
+        },
+        "15": {
+          "he": "תענית דף י\"ג ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 381:15"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "אלא שנהגו האידנא לאסור רחיצה כל ל' כו'. כצ\"ל וכן הוא בעט\"ז ולא כמו שנדפס בספרים כל רחיצה כל ל') דודאי רחיצה בצונן ליכא איסורא כלל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 381:1"
+        },
+        "2": {
+          "he": "שצריכה לרחוץ מותר. אפילו ביום ראשון מיהו אם אין לה צורך כל כך יש להחמיר ביום ראשון כן כתבו האחרונים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 381:2"
+        },
+        "3": {
+          "he": "וכ\"ש שאינה רוחצת כו'. כלומר כיון דטבילה דאיכא למ\"ד טבילה בזמנה מצוה אסורה כ\"ש רחיצה ללבוש לבנים ובתשו' משאת בנימין סימן ה' חלק על הרב דדוקא טבילה קי\"ל דאסור כיון שאינו לצורך אבל רחיצה ללבון איכא צורך מצוה הלכך בין בתשע' באב בין בז' ימי אבלה תלביש ותציע כדרכה כשאר ימות השנים והרחיצה צריכה לשנות קצת וכמ\"ש הא\"ז והיינו שלא תרחוץ רק באותו מקום ובין ירכותיה בין בחמין בין בצונן ע\"כ דבריו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 381:3"
+        },
+        "4": {
+          "he": "שכל אלו אסורים כרחיצה. בכ\"ף כצ\"ל מיהו לענין זה חמור מרחיצה שאסור אחר ז' אם לא באשת איש ורחיצה שרי מדינא לאחר ז' כדלעיל סעיף א':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 381:4"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אלא שנהגו האידנא לאסור רחיצה כל שלשים יום. באור זרוע נתן טעם למנהג דחיישינן דילמא אתא למסרק רישיה דאסור כל שלשים וא\"כ לדידן דשרי לסרוק ראשו כדאיתא סימן ש\"ץ היה מותר לרחוץ ורש\"ל נתן טעם דאסרו משום תספורת כי כן דרך הנכנס במרחץ לגלח שערות ראשו ע\"כ ואין להקשות א\"כ בחול המועד דאסור תספורת ליהוי נמי רחיצה אסורה מטעם זה נראה ליישב דבח\"ה יש איסור על כל העולם ורבים לא יהיו נכשלים אבל באבילות דאיסור על היחיד הוא יש לחוש שמא ישכח באבילות ויגלח שערו כשאר בני אדם וסברא זו מצינו בפרק חבית (שבת דף קמ\"ו) במשנה אבל עשרה בני אדם ופירש\"י הואיל ומרובים הם מדכרי אהדדי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 381:1"
+        },
+        "2": {
+          "he": "וכ\"ש שאינה רוחצת ללבוש לבנים כו'. בתשובת מהרי\"ל סימן ט\"ז כתב וז\"ל ואסור בתשמיש המטה ואסור לטבול טבילת מצוה ביוה\"כ ותשעה באב דכדאי הוא בית אלהינו כו' וכן בז' ימי אבילות אבל תוך ל' שרי לטבול ולשמש ואפי' לרחוץ כדי ללבן כ' באור זרוע דשרי רק שתשנה הרחיצה קצת אבל חלוק לבן ודאי תלביש וסדין לבן ודאי תציע שלא תבוא לידי ספק עכ\"ל. כ' אחי הגאון מוהר\"ר יצחק הלוי ז\"ל דהאי אבל חלוק לבן כו' קאי נמי אתוך ז' וכן מבואר בבית יוסף שכתב שתוך ז' שרי לרחוץ רק שתשנה הרחיצ' קצת כו' ורמ\"א כאן הבין שמהרי\"ל כ' אבל חלוק לבן כו' קאי אתוך ל' דוקא משמע דתוך ז' אסור לרחוץ ללבישת ליבון והוא תימה דהא לאו רחיצה של תענוג היא ואמאי אסורה והא דאסו' רחיצה של טבילה היינו שהיא ללא צורך כיון שאסורה בתשמיש אבל רחיצה של ליבון אמאי אסורה ועל כל פנים נ\"ל דגם רמ\"א לא נתכוין כאן לדחות לבישת הליבון לגמרי עד אחר ז' דזה פשיטא שאינו שהרי אפשר לה ללבוש ליבון בלא רחיצה לגמרי כמ\"ש ביורה דעה סי' קצ\"ו סעיף ג' בהג\"ה דאפילו לא רחצה רק פניה של מטה סגי ובשעת הדחק סגי אפילו בלא רחיצה כלל רק שהחלוק נקי כו' ולמה נדחה כאן בחנם לבישת הליבון אלא ודאי שלא נתכוין רמ\"א לדחות לבישת הליבון כלל אלא הרחיצה לחוד הוא דאסור: ושוב ראיתי בתשו' משאת בנימין סימן ה' דמתיר אפי' לרחוץ בתוך שבעה ללבוש לבנים וחולק על רמ\"א בכאן ודבריו נכונים אלא דמ\"מ למעשה נראה לי דאין לה לרחוץ ללבישת ליבון אלא שתרחץ פניה של מטה ותלבוש חלוק נקי לא לבן ממש ותספור שבעה נקיים כנ\"ל ברור ונכון והמחמיר בזה לדחות לבישת הליבון לגמרי הוא מן המתמיהים: כתב רש\"ל מהר\"ם היה בעל ברית תוך ל' יום של אביו ורחץ בלילה שלפני המילה ונתן טעם לדבריו דהוה כרגל לגביה דידיה וחומרא בעלמא נהגו אבותינו ברחיצה עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 381:2"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "בחמין אסור. [עי' בס' תפארת למשה שכתב דגם בפושרין אסור כל שנתחמם אצל האור משום לא פלוג וגם אין דרך לרחוץ בחמין יותר מדאי וכשאסרו רחיצת חמין פושרין אסרו עכ\"ד]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 381:1"
+        },
+        "2": {
+          "he": "לאסור כל רחיצה. עבה\"ט בשם ש\"ך ועי' בדגמ\"ר שכתב דדוקא פניו ידיו ורגליו אבל כל גופו גם בצונן אסור לדידן כל שלשים ע\"ש ועי' בתשו' תשואת חן סי' ל\"א שהאריך בזה והעלה דירא שמים יחוש לאסור לעצמו אף בצונן רחיצה כל גופו אבל לאחרים יש להורות להקל ודוקא בע\"ש דאיכא צורך מצוה קצת אבל רחיצה של תענוג בנהרות יש לאסור ע\"ש. ומ\"ש הבה\"ט עוד בשם רש\"ל דאסרו משום תספורת כו' עי' בט\"ז שכתב ע\"ז ואין להקשות א\"כ בחול המועד דאסור תספורת ליהוי נמי רחיצה אסורה מטעם זה יש ליישב דבחוה\"מ יש איסור על כל העולם כו' ע\"ש לפ\"ז אפשר דאם פגע הרגל של פסח או סוכות בתוך שבעה שאז לא בטל ממנו גזירת שלשים כדלקמן סי' שצ\"ט מותר לרחוץ בחוה\"מ דלא שייך גזירה דתספורת דהא אסור בלא\"ה משום חוה\"מ ובזה לא יהיו נכשלים כיון שיש איסור על כל העולם. איברא דקשה לי על טעם זה של רש\"ל דא\"כ אמאי לא אסרו רחיצה על אביו ואמו אף לאחר שלשים כל זמן שאסור לגלח דהיינו עד שיגערו בו חביריו כדלקמן סי' ש\"צ ס\"ד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 381:2"
+        },
+        "3": {
+          "he": "ערבוביא ברישיה. כתב בספר חמודי דניאל כ\"י נראה דכ\"ש מי שיש לו ערבוביא במנא שרי בכיבוס דהא איתא בנדרים דף פ\"א דערבוביתא דמנא גרע מרישיה ע\"כ:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 381:3"
+        },
+        "4": {
+          "he": "ברחיצת חמין כל גופה. [עי' בתשו' ח\"ס סי' שמ\"ו שכתב דט\"ס יש כאן וצ\"ל אסורה ברחיצת חמין וכל גופה בצונן ע\"ש]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 381:4"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "לאסור רחיצה כל ל' וכו'.  כצ\"ל וכן הוא בלבוש. ולא כמו שנדפס בספרים כל רחיצה כל ל' דודאי רחיצה בצונן ליכא איסורא כלל עכ\"ל הש\"ך (בא\"ז נתן טעם למנהג דחיישינן דילמא אתי למסרק רישיה דאסור כל ל' וא\"כ לדידן דשרי למסרק רישיה כדאיתא סי' ש\"צ ע\"ש היה מותר לרחוץ. ורש\"ל נתן טעם דאסרו משום תספורת כי כן דרך הנכנס למרחץ לגלח שערות ראשו. ט\"ז. וע\"ש עוד):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 381:1"
+        },
+        "2": {
+          "he": "מותר.  אפילו ביום ראשון מיהו אם אין לה צורך כ\"כ יש להחמיר ביום ראשון. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 381:2"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

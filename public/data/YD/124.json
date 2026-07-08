@@ -1,0 +1,1299 @@
+{
+  "chelek": "YD",
+  "siman": 124,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 27,
+  "fetchedAt": "2026-07-08T00:01:18.211Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "מי הוא העושה יין נסך ודיני נגיעת העובד כוכבים בחבית. ובו כ\"ו סעיפים:תינוק עובד כוכבים שאינו מזכיר עבודת כוכבים ומשמשיה אינו אוסר יין במגעו אלא בשתייה:",
+      "en": "Des défenses relatives au vin destiné aux idoles et des lois à observer lorsqu'un paiïen a touché un tonneau de vin. Il est défendu de boire le vin touché seulement par un jeune enfant païen, quand bien même celui-ci ne connaîtrait pas encore le polythéisme; mais il est permis de tirer profit de ce vin.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:1"
+    },
+    {
+      "seif": 2,
+      "he": "גר תושב דהיינו שקבל עליו שבע מצו' וכן גר שמל ולא טבל מגען אוסר בשתייה: הגה וכל זמן שלא טבל כראוי מיקרי לא טבל (ר\"ן פ' השוכר והגהות מרדכי דיבמות פרק החולץ) ויש מקילין אפילו במגע גר תושב (טור בשם הרא\"ש ותוס' ומרדכי) אבל יין שלו ודאי אסור (ב\"י):",
+      "en": "Il est défendu de boire le vin qui a été touché par un étranger nouvellement établi dans le pays et qui s’est engagé à observer les sept commandements; il en est de même quand il s’agit d’un étranger qui a été circoncis, mais qui n’a pas encore fait ses ablutions.GLOSE: L’étranger, qui n’a pas fait ses ablutions selon les prescriptions du rite juif, est considéré comme n’en ayant point fait. Certains auteurs se montrent plus indulgents à l’égard de l'étranger nouvellement arrivé dans le pays et qui a touché un vin quelconque; cependant, quand le vin lui appartient, il est défendu de le boire.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:2"
+    },
+    {
+      "seif": 3,
+      "he": "הלוקח עבדים מהעובד כוכבים ומלו וטבלו מיד אין מנסכין ויין שנגעו בו מותר בשתייה ואף על פי שעדיין לא נהגו בדתי ישראל ולא פסקו שמות העבודות כוכבים מפיהם:",
+      "en": "Lorsqu'on a acheté des esclaves à des païens, qu’on les a fait circoncire, que ces esclaves ont fait leurs ablutions et qu’ils n’offrent plus de vin aux idoles, il est permis alors de boire le vin qu'ils ont touché, lors même qu’ils n'auraient pas encore l'habitude et l'usage du culte israélite et qu'ils n'auraient pas oublié entièrement les noms de leurs idoles.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:3"
+    },
+    {
+      "seif": 4,
+      "he": "בני השפחות העובדות כוכבים שנולדו ברשות ישראל ומלו ועדיין לא טבלו הגדולי' אוסרי' היין בשתיי' במגען אבל מגע הקטני' מותר אפי' בשתיי' כיון שמלו אע\"פ שעדיין לא טבלו:",
+      "en": "Les enfants de domestiques païens, nés dans la maison d’un maître israélite, qui les a fait circoncire, mais qui ne leur a pas encore fait faire leurs ablutions, rendent interdit, s’ils sont grands, le vin qu’ils ont touché; s’ils sont jeunes, il est permis de boire le vin touché par eux, car dans ce cas la circoncision suffit.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:4"
+    },
+    {
+      "seif": 5,
+      "he": "אם השפחה טבלה לשם עבדות יש מי שאומר שאין בנה עושה יין נסך אפילו עבר רבו ולא מל אותו בין גדול בין קטן:",
+      "en": "Un auteur dit qu'il est permis de boire le vin touché par le fils, soit grand, soit petit, d’une païenne au service d’un Israélite, si cette loi, quand bien même l'Israélite aurait négligé de faire circoncire l'enfant de sa domestique.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:5"
+    },
+    {
+      "seif": 6,
+      "he": "כל עובד כוכבים שאינו עובד אלילים יינו אסור בשתייה ומותר בהנאה ומגען ביין שלנו שוה ליינם שאסור בשתייה:",
+      "en": "Il est défendu de boire le vin d’un païen qui ne pratique pas sa religion, mais il est permis de faire du commerce avec ce vin; il est également défendu de boire le vin qu’il a touché, comme si ce vin lui appartenait.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:6"
+    },
+    {
+      "seif": 7,
+      "he": "יש מי שאומר שכל מקום שאמרו ביין שלנו שהוא מותר בהנאה ואסור בשתייה מפני צד נגיעה שנגע בו העובד כוכבים כשהיה העובד כוכבים עובד אלילים אבל אם היה איסורו בגלל עובד כוכבים שאינו עובד אלילים שנגע ביין שלנו שלא בכוונה או שטפח על פי החבית הרי זה מותר בשתייה וכן כל כיוצא בזה:",
+      "en": "D’après un auteur, chaque fois qu'un païen pratiquant le polythéisme a touché un vin quelconque, il est défendu de boire, mais il est permis d'en tirer profit. D’un autre côté, il est permis de boire le vin touché involontairement par un païen, si le païen ne pratique pas le polythéisme.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:7"
+    },
+    {
+      "seif": 8,
+      "he": "משוך בערלתו אינו עושה יין נסך ומומר אע\"פ שהוא מהול עושה יי\"נ במגעו ונאמן לומר ששב בתשובה:",
+      "en": "Un vin est permis quand il a été touché par un Israélite non circoncis, mais il est défendu quand il a été touché par un Israélite circoncis mais converti; toutefois, lorsque ce dernier se repent de sa faute, on peut croire à són re-pentir, et alors le vin qu’il a touché est permis",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:8"
+    },
+    {
+      "seif": 9,
+      "he": "האנוסים אפילו הטובים שבהם אינם יכולים ליזהר ממגע עובד כוכבים וכיון שהם חשודים עליו אינן נאמנים על שלהם אפילו בשבועה אבל נאמנים על של אחרים: הגה ואין אוסרין יין במגען ודוקא אותם שדרים עדיין בין העובדי כוכבים ועושין עבירות בפרהסיא מפני אונס רק בצנעה נזהרים ואפשר להם לברוח על נפשם רק שממתינים משום ממון או כיוצא בו אבל אם עוברין גם בצנעה על עבירות אע\"פ שעשו מתחלה באונס הרי הם כעובדי כוכבים (ריב\"ש סי' ד'):",
+      "en": "Si des Israélites, après avoir été convertis au paganisme, affirment qu’ils n’ont point offert aux idoles le vin qui ne leur appartient pas, il est permis d'accepter leur affirmation.GLOSE: Ceux qui pratiquent de force l’idolâtrie ne rendent pas interdit le vin qu’ils ont touché. On ne veut désigner ici que les personnes qui, demeurant au milieu des païens, pratiquent par crainte leur religion, mais ne l’observent pas dès qu'ils sont hors de la vue de ces païens. Mais si ces personnes ont l'habitude de se livrer aux pratiques du paganisme, même en l’absence de leurs persécuteurs, elles sont alors considérées comme de véritables païens, quand bien même elles n'auraient commencé que par contrainte à rendre un culte aux idoles.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:9"
+    },
+    {
+      "seif": 10,
+      "he": "מגע עובד כוכבים לאסור בהנאה צריך שלשה תנאים אחד שיתכוין ליגע לאפוקי תינוק שנגע דלאו בר כוונה הוא וכן לאפוקי נפל לבור ועלה מת שני שידע שהוא יין ושלישי שלא יהא עוסק בדבר אחר:",
+      "en": "Trois conditions sont nécessaires pour qu’il soit défendu de tirer profit d’un vin touché par un païen: 1° Le païen doit avoir touché le vin intentionnellement; toutefois cette règle ne s'applique pas quand l’acte n’a été commis que par un petit idolâtre; 2° Le païen doit savoir qu’il touchait ce vin; 3° Il ne doit pas s’être intéressé à autre chose qu’à son acte.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:10"
+    },
+    {
+      "seif": 11,
+      "he": "כיצד היא הנגיעה שאוסר בה העובד כוכבים היין בהנאה שיגע בידו או ברגלו (וי\"א דאם נגע ברגלו אינו אוסר בהנאה דאין דרך נסוך בכך) (בב\"י) או בדבר אחר (שבידו) וישכשך אפילו בפיו כגון ששתה ממנו או שמצץ במינקת בחבית והעלהו לפיו כל היין אסור בהנאה מכל מקום כלי שיש לו חוטמין כמו שיש לכלי שנוטלים ממנו לידים ויש בו יין יכול ישראל למצוץ מחוטם זה ועובד כוכבים מחוטם זה כאחד ובלבד שיפסוק הישראל קודם שיפסוק העובד כוכבים. אם נגע ברתיחה שעל היין הוי כנוגע ביין עצמו (מרדכי פרק בתרא דעבודת כוכבים וב\"י לדעת רי\"ף ורמב\"ם):",
+      "en": "Il est défendu de tirer profit du vin qu’un païen a touché, soit avec la main, soit avec le pied, ou encore avec un objet qu’il avait dans sa main; il en est de même quand un païen a soufflé dans du vin à l’aide d’un tuyau ou lorsqu'il a bu au tonneau même. Toutefois, il est permis de boire du vin contenu dans un vase muni de deux ouvertures au moyen desquelles un Israélite et un païen ont pu boire ensemble, à condition que l’Israélite se soit arrêté avant le païen.GLOSE I: Certains auteurs prétendent qu’il est permis de profiter du vin qu’un païen a touché avec son pied, car le païen n’offre pas un vin aux idoles de telle manière.GLOSE II: Si un païen a touché la mousse du vin, ce dernier est défendu.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:11"
+    },
+    {
+      "seif": 12,
+      "he": "עובד כוכבים שנכנס לבית או לחנות ישראל לבקש יין ופשט ידו כשהוא מחפש ונגע ביין ושכשכו נאסר בהנאה ואם נתערב באחר דמי היין המשוכשך אסור בהנאה והשאר מותר בהנאה אבל אם הושיט ידו לחבית כסבור שהוא של שמן ונמצאת של יין מותר בהנאה:",
+      "en": "Quand un païen est entré dans une maison ou dans un magasin israélite pour chercher du vin, il est défendu de profiter du vin qu'il a touché et agité. Si ce vin a été mêlé avec un autre, il est permis de tirer profit de ce mélange, à l'exception de la valeur du vin qui a été touché par le païen. Mais il est permis de faire du commerce avec le vin d’un tonneau touché par un païen, qui l'a pris pour un tonneau d’huile.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:12"
+    },
+    {
+      "seif": 13,
+      "he": "הרי שפשט ידו לחבית של יין (ליטול משם דבר שנפל שם) (תוספות ורא\"ש ור\"ן וטור) ותפסו ידו קודם שיוציאנה ולא ינידה ופתחו החבית מלמטה עד שיצא היין וירד למטה מידו מותר בהנאה:",
+      "en": "Il est permis de tirer profit d’un vin contenu dans un tonneau dans lequel un païen a plongé sa main pour en retirer un objet qui y était tombé, à la condition que le païen n’agite pas sa main avant qu’on ait pu ouvrir le tonneau, de manière à faire sortir le liquide qui la baigne.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:13"
+    },
+    {
+      "seif": 14,
+      "he": "חבית שנטלה ממנו הברזא והכניס בה עובד כוכבים אצבעו עד שנגע ביין כולו אסור וכן אם הוציא הברזא התחובה בנקב והיתה נוגעת עד היין שא\"א שלא שכשך: הגה ודוקא כשידע שהברזא עוברת כל השולים אבל אם לא ידע הוה ליה מגע עובד כוכבים שלא בכוונה על ידי דבר אחר דמותר אפילו בשתייה (מרדכי פ' רבי ישמעאל והגה\"מ פי\"ב ופשוט הוא כדלקמן סעיף כ\"ד כמו שיתבאר לקמן) . אבל אם אינה עוברת כל עובי השולים בענין שאי אפשר לו לשכשך כשמוציא הוי כמו כחו ומה שנשאר בחבית מותר אפילו בשתיה ומה שיצא אסור בשתיה: הגה ואם הוציא שלא בכוונה אף מה שיצא לחוץ שרי דכח עובד כוכבים שלא בכוונה שרי ועיין לקמן סי' קכ\"ה אם היתה ברזא ארוכה תוך החבית ובתוך אותה ברזא נקב ונותנים בו ברזא קטנה לסתום נקבו אם לא הוציא רק הברזא הקטנה כאינה עוברת עובי השוליים דיינינן לה (ב\"י בשם מרדכי וכל בו):",
+      "en": "Tout le vin contenu dans un tonneau est défendu quand on a enlevé la cannelle et qu’un païen a mis le doigt dans le trou. Le vin d’un tonneau est également défendu, quand un païen a retiré la cannelle, si celle-ci touchait le vin, car il est impossible de pouvoir la retirer du ton-neau sans en agiter le contenu.GLOSE I: Cette défense n’est applicable qu’autant que le païen savait que la cannelle entrait profondément dans le liquide; mais, si le païen ignorait ce fait, il est permis de boire ce vin, car ce cas est assimilé à celui du vin touché involontairement par un païen et qui a été précédemment expliqué. Si la cannelle n’entrait pas profondément dans le liquide et si elle a pu, par suite, être enlevée par le païen sans agiter le vin, on peut boire la partie qui reste dans le tonneau, mais on ne doit pas boire la partie qui a été soutirée.GLOSE II: On peut même boire cette partie, si le païen a agi sans intention. (V. § 125) Quand un païen a retiré une petite cannelle adaptée à un long tube placé dans un tonneau de vin et servant à fermer l’ouverture de ce tube, on assimile ce cas à celui de la cannelle non profondément plongée dans le vin.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:14"
+    },
+    {
+      "seif": 15,
+      "he": "עובד כוכבים שוטה שנכנס לבית שיש בו חבית של יין ונכנס ישראל אחריו ומצא היין יוצא דרך הנקב שהברזא תחובה בו מותר אפילו בשתיה:",
+      "en": "Si un païen atteint d’aliénation mentale est entré dans une maison où se trouvent des tonneaux de vin, et si, après lui, est survenu un Israélite qui s’est aperçu que le vin s’échappait par la cannelle dont une des extrémités plonge dans un de ces tonneaux, il est permis de boire ce vin.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:15"
+    },
+    {
+      "seif": 16,
+      "he": "אם נדנד עובד כוכבים הברזא ולא יצא מן היין לחוץ והברזא ארוכה ועברה הדופן ונכנסה בתוך היין אם הברזא אינה מהודקת בחזקה נאסר היין בנדנוד זה אבל אם היתה מהודקת בחזקה מותר:",
+      "en": "Si un païen touche, mais sans l'ouvrir, à la cannelle d’un tonneau enfoncée de manière à plonger dans le liquide, le vin est défendu si la cannelle n’est pas solidement assujettie au tonneau; dans le cas contraire, le vin est permis.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:16"
+    },
+    {
+      "seif": 17,
+      "he": "יש מי שאומר שאם אחז עובד כוכבים בכלי פתוח של יין ושכשכו אע\"פ שלא הגביה ולא נגע ביין נאסר: הגה ורבים חולקים לומר דאם שכשך בגופו של הכלי בלא הגבהה לא מקרי שכשוך (רשב\"א וראב\"ד והרא\"ש ור' ירוחם בשם רוב הפוסקים) ולכן אין להחמיר במקום פסידא:",
+      "en": "Un auteur prétend que le vin contenu dans un vase est défendu lorsqu'un païen a placé ses mains sur le vase ouvert et en a agité le contenu, même sans avoir touché le liquide et sans avoir soulevé le vase.GLOSE: Un grand nombre d'auteurs n’admettent pas cette opinion et prétendent que, si un païen a saisi un vase contenant du vin sans le soulever, on doit agir comme s’il n’avait pas touché le vin. Il faut d'ailleurs savoir se montrer indulgent en cas de perte.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:17"
+    },
+    {
+      "seif": 18,
+      "he": "נטל עובד כוכבים כלי של יין והגביהו ויצק היין אע\"פ שלא שכשך נאסר שהרי בא היין מכחו הגביה ולא שכשך ולא נגע מותר: הגה וכ\"ש שאינו אוסר בנגיעת הכלי לחוד (הפוסקים הנ\"ל וריב\"ש סי' ש\"י):",
+      "en": "Si un païen a pris dans ses mains un vase contenant du vin, l’a soulevé et a versé le vin dans un autre récipient, même sans l’agiter, ce vin est défendu parce que cet acte a été accompli grâce à sa force. Mais s’il s’est contenté de soulever le vase sans agiter ni toucher le contenu, le vin est permis.GLOSE: À plus forte raison, il est permis de boire le vin contenu dans un vase lorsqu'un païen a touché seulement les parois du vase sans agiter le contenu.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:18"
+    },
+    {
+      "seif": 19,
+      "he": "מדד עובד כוכבים הבור שיש בו יין בקנה או שהיה מטפח על פי החביות הרותח' כדי שתנוח הרתיחה או שנטל חבית וזרקה בחמתו לבור מותר בהנאה ואסור בשתיה: הגה שבכל אלו יש הוכחה שלא כוון לנסך רק למלאכתו והוי מגע עובד כוכבים שלא בכוונה ואינו אוסר רק בשתייה וי\"א דאפילו מדדו בידו אינו אוסר בהנאה (הרא\"ש והר\"ן והרשב\"א וטור וראב\"ד ור' ירוחם) הואיל ובמלאכתו הוא עוסק ויש להקל במקום הפסד עובד כוכבים שדרך יין אם שמרוהו וראו שלא נגע בידו אין היין נאסר בהנאה רק בשתייה דהא ג\"כ במלאכתו הוא עוסק (טור) ועיין לעיל סי' קכ\"ג וכן אם הכניס ידו לתוך חבית ואינו יודע שיש שם יין אינו אוסר בהנאה (שם) ואפילו נודע לו שהוא יין אם הוציא מיד שנודע לו מותר בהנאה הואיל וכשהכניסה לא ידע שהוא יין (טור בשם ראב\"ד ורא\"ש ור' ירוחם) ואין לדמות מילתא למילתא בדברים אלו ואין לך בו אלא מה שאמרו חכמים (טור ורא\"ש וראב\"ד ורשב\"א):",
+      "en": "Si un païen a mesuré avec une canne la profondeur d’une citerne de vin, ou s’il a fermé la bonde d’un tonneau de vin mousseux pour l'empêcher de déborder, ou encore s’il a plongé dans une citerne un tonneau, il est permis de tirer profit de ce vin, mais il est défendu de le boire.GLOSE: Les actes par lesquels un païen prouve qu'il a agi sans intention d'offrir le vin aux idoles, mais dans le seul but de travailler, rentrent dans le cas du vin touché sans intention par un païen; c’est pourquoi il est défendu de boire ce vin, mais il est permis d’en tirer profit. Certains auteurs prétendent qu'il est permis de vendre un vin qu’un païen a mesuré avec sa main, parce que celui-ci, absorbé par son travail, n’a pu concevoir d’autre pensée. On peut d’ailleurs se montrer indulgent, quand la perte doit être importante. Il est permis de tirer profit d’un vin pressuré par un paien, quand ce dernier a été gardé à vue et qu’on est sûr qu’il ne l’a pas touché avec sa main. Il en est de même lorsqu'un païen a plongé sa main dans un tonneau de vin, dont il ignorait la nature du contenu. Il ne faut pas, toutefois, comparer les divers cas relatifs à ce sujet les uns avec les autres; mais il faut observer simplement la parole des sages.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:19"
+    },
+    {
+      "seif": 20,
+      "he": "עובד כוכבים שנפל לבור של יין והעלוהו משם מת מותר בהנאה. ואסור בשתיה אבל עלה חי אסור בהנאה: הגה וה\"ה אם נתקל ונתגלגל בתוך היין ונתגלגל גם לחוץ שהיה באנסו גם לבסוף (ב\"י בשם הרשב\"א):",
+      "en": "Il est permis de vendre le vin d’une citerne dans laquelle est tombé un païen qui en a été retiré mort; mais il est défendu de tirer profit de ce vin, lorsque le païen a été retiré vivant de la citerne.GLOSE: Si, par suite d’un faux pas, un païen est tombé dans une citerne contenant du vin et en est aussitôt sorti, il est permis de profiter de ce vin.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:20"
+    },
+    {
+      "seif": 21,
+      "he": "ישראל שנפל לבור של יין ושלח עובד כוכבים ידו ואחז בו והוציאו וישראל אחר היה שם ששמר שלא נגע ביין מותר אפילו בשתייה: הגה ולא מקרי נגיעה מה שנוגע ע\"י אדם (ריב\"ש סימן ש\"י):",
+      "en": "Il est permis même de boire le vin provenant d’une citerne dans laquelle est tombé un Israélite, lorsque celui-ci en a été retiré avec l’aide d’un païen qui lui a tendu la main, si un autre Israélite présent à cette scène atteste que le païen n’a pas touché le vin.GLOSE: On ne traite pas cet acte comme si le païen avait touché le vin avec un objet tenu dans sa main.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:21"
+    },
+    {
+      "seif": 22,
+      "he": "חבית שנסדקה לארכה וקדם עובד כוכבים וחבקה כדי שלא יתפרדו החרסים הרי זה מותר בהנאה אבל אם נסדקה לרחבה ונתן ידו עליה והכביד עליה עד שהדקה ומנע יציאת היין מותר בשתייה משום דלא הוי נוגע ודוחק יין החבית אלא מעשה לבינה בעלמא קא עביד שהרי היא כלבינה הנתונה על פי החבית ומכבידתה ובחבית של עץ שיש להם חשוקים צירקא\"ליש בלע\"ז גם כשנסדקה לארכה וחבקה עובד כוכבים מותרת בשתייה (ר\"ן בשם תוספות והוא בתו' שלנו ובהגהת מיי' בשם רשב\"ם ומרדכי בשם רש\"י):",
+      "en": "Si un païen a serré fortement, à l’aide d’un lien quelconque, un récipient en terre dans le but de fermer une fente qui s’est produite dans le sens de la longueur, il est permis de tirer profit de ce vin, mais il est défendu de le boire. Si le récipient s’est fendu dans le sens de la largeur et si le païen a rapproché les bords de la fente pour empêcher l’écoulement du vin, il est permis de boire ce vin; on présume en effet que le païen n’a pas touché le vin, mais qu’il a simplement consolidé le récipient. Si celui-ci était en bois, il est permis même de boire le vin qu’il contient lorsque la fente s’est produite dans le sens de la longueur.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:22"
+    },
+    {
+      "seif": 23,
+      "he": "חבית שהיה נקב בצדה ונשמט הפקק מהנקב והניח העובד כוכבים ידו במקום הנקב כדי שלא יצא היין כל היין שמראש החבית  עד הנקב אסור בהנאה ושמן נקב ולמטה מותר בהנאה ואסור בשתייה: הגה וימכור הכל חוץ מדמי היין האסור בהנאה (ב\"י בשם הר\"ן וע\"פ) ודוקא שהיה שם ישראל להציל היין ובא עובד כוכבים והצילו אבל אם לא היה כאן ישראל להציל ובא עובד כוכבים להצילו לא גרע ממדדו בידו מאחר דבמלאכתו הוא עוסק והכל מותר בהנאה (בית יוסף בשם רשב\"א וראב\"ד) וכל זה לא מיירי אלא שהניח ידו על הנקב או שתחב ברזא שם ואינה עוברת השוליים אבל אם הכניס אצבעו לפנים או ברזא ארוכה כבר נתבאר דכולו אסור בהנאה (גם זה שם וטור לעיל גם דין ניטל הברזא ותוספו' ורא\"ש וס' התרומה וסמ\"ג ורשב\"א ועוד פוסקים) . ואם הוא בענין שאילו לא הניח העובד כוכבים ידו על הנקב היה יוצא כל היין כגון שעושין מינקת כפופה שמניח ראשה לתוך היין שבחבית והראש האחר חוץ לחבית ומוצץ היין ועל ידי כן יוצא כל היין שבחבית אם הניח העובד כוכבים אצבעו על פי המינקת ומנע היין מלירד נאסר כל היין שבחבית בהנאה שהכל היה יוצא ונגרר לולי ידו ונמצא הכל כבא מכחו ואם לא נגע עובד כוכבים אלא בקילוח היין שעומד במרזב אסור משום נצוק וכל היין האחר שבתוך הקנקן הוי נצוק בר ניצוק ומותר אף בשתייה:",
+      "en": "Lorsqu'un tonneau de vin porte sur le côté une ouverture fermée à l’aide d’un bouchon qui n’a pas été suffisamment enfoncé, et qu'un païen a mis la main sur l’ouverture pour empêcher l'écoulement du vin, toute la partie du vin située au-dessus du niveau du trou est interdite; il est également défendu de boire la partie qui se trouve au-dessous de ce niveau, mais il est permis d’en tirer profit.GLOSE: On peut vendre tout le vin contenu dans le tonneau, mais on ne peut accepter le prix de la partie défendue. Il ne s’agit ici que du cas où un Israélite est accouru pour empêcher la perte du vin pendant que le païen avait sa main sur le trou, en présence de l'Israélite; mais si celui-ci n'était pas survenu et si le païen seul avait cherché à empêcher la perte du vin, il serait alors permis de tirer profit de tout le contenu du tonneau; on suppose que le païen, tout entier à son occupation, n’a pu penser aux idoles. La règle précédente est également applicable quand un païen a mis la main sur le trou du tonneau ou quand il a enfoncé peu profondément la cannelle; mais si le païen, en introduisant son doigt dans l'ouverture, a touché le vin, ou s'il a enfoncé profondément la cannelle, il est défendu de tirer profit de tout le contenu du tonneau.Si le païen, sans placer sa main sur le trou du tonneau, l’a mise sur l’ouverture du tuyau recourbé qui sert à tirer le vin, pour arrêter l’écoulement, il est défendu de tirer profit du contenu entier du tonneau, parce que le vin n’a pu sortir que grâce à l’obstacle apporté par le païen; mais si le païen a seulement soulevé un peu le tuyau pour empêcher le vin de sortir avec autant de force, la partie qui est sortie du tonneau est défendue; quant à celle qui reste, il est permis même de la boire, car la force du païen n’a été que cause indirecte.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:23"
+    },
+    {
+      "seif": 24,
+      "he": "מגע עובד כוכבים ביין ע\"י דבר אחר שלא בכוונה כגון שהיה יורד מהדקל ובידו לולב ונגע בראש הלולב ביין שלא בכוונה או שהיה מהלך ונגע בכנף בגדו שלא בכוונה וכן אם נתכוין ליגע בו ע\"י דבר אחר אלא שאינו יודע שהוא יין מותר אפילו בשתייה: הגה וה\"ה אם הכניס ברזא לחבית או הוציאו שלא בכוונה וכמו שנתבאר ובזמן הזה דהאומות לאו עובדי עבודת כוכבים הם כל מגען מיקרי שלא בכוונה (מרדכי פר\"י והגהות אשיר\"י ומהרי\"ו בהל' סי' ט\"ו) ולכן אם נגע ביין על ידי דבר אחר אף על פי שיודע שהוא יין וכוון ליגע בו מותר אפילו בשתייה דמיקרי מגע על ידי דבר אחר שלא בכוונה והוא הדין אם נגע אפילו בידו בלא כוונת מגע או שלא ידע שהוא יין שרי ואין לפרסם הדבר בפני עם הארץ (ד\"ע וכן מצא בתשובת ר\"ל ן' חביב מ\"א) . יין שהיה מונח ברשות הרבים ובאו עובדי כוכבים ודקרו שם סכין להוציא יין מה שיצא לחוץ אסור ומה שבפנים שרי דכיון דלא כיוון העובד כוכבים רק לנקוב החבית ולא כיוון ליגע ביין אפילו נגע ביין הוה ליה מגע עובד כוכבים על ידי דבר אחר שלא בכוונה ושרי (תשובת ר' שמואל במרדכי פרק ר' ישמעאל):",
+      "en": "Il est permis de boire le vin qu'un païen a touché sans intention, par exemple avec la pointe d’une branche de palmier au moment où il descend de cet arbre, ou avec le pan de son vêtement.GLOSE: Il en est de même quand un païen a ôté ou remis sans intention une cannelle à un tonneau de vin. La religion païenne n’existant plus de nos jours, le vin touché par une personne appartenant à un autre culte est permis, car on considère que celle-ci ne pense plus aux idoles, et on admet que ce vin a été touché sans intention de rendre un culte aux idoles. Il ne faut pas, toutefois, émettre cette opinion devant un homme ignorant. Lorsqu'un païen a percé dans la rue un tonneau de vin, le liquide qui s’en est échappé est défendu, mais celui qui est resté dans le tonneau est permis, car le païen n’a pu penser à autre chose qu'au travail qu'il exécutait; quand bien même il aurait touché le vin, celui-ci serait permis, car il aurait commis l'acte sans intention.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:24"
+    },
+    {
+      "seif": 25,
+      "he": "נוד שיש בו יין ונגע עובד כוכבי' בנוד מבחוץ אפילו הוא חסר והגיעו דפנות זו עם זו מותר אפילו בשתייה שאין דרך ניסוך בכך:",
+      "en": "Si un païen a touché une outre qui n’est même pas entièrement pleine de vin et dont les côtés peuvent se replier l'un sur l'autre, le vin est permis, car il n’est pas d’usage d’offrir dans une outre du vin aux idoles.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:25"
+    },
+    {
+      "seif": 26,
+      "he": "ברזא שהיתה רפויה בחבית ובא עובד כוכבים והדקה מותר אפי' בשתייה:",
+      "en": "Il est permis de boire le vin provenant d’un tonneau dans lequel un païen aurait fortement enfoncé une cannelle, qui n’y était auparavant que faiblement assujettie.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:26"
+    },
+    {
+      "seif": 27,
+      "he": "חבית של עץ שהוא מטפטף או שותת יקח ישראל הנעורת בידו ויניחנה כנגד הנקב שימנע היין קצת מלצאת ויבא עובד כוכבים אומן ויהדקנה בסכין בנקב עד שיסתום היטב ואם היין שותת הרבה צריך ליזהר ביותר שלא יגע העובד כוכבים ביין (בידו אבל בסכין בדיעבד שרי) (טור והפוסקים) והרוצה לעשות מן המובחר יהדק החבית בחבל ויפסוק שתיתת היין ואחר כך יתקננו: הגה עובד כוכבים שנגע ביינו של ישראל להכעיס כדי לאסרו עליו (תוספות פר\"י דנ\"ח ע\"ב ומרדכי ואגודה שם) אפילו אינם יודעים כן אלא באומדנות המוכיחות (ת\"ה סימן כ\"ו ובנימין זאב סי' שמ\"ח עיין שם שהאריך) מותר אפילו בשתייה ויש לשתותו בפני העובד כוכבים כדי שלא ירגילו עצמם בכך (תוספות ומרדכי פר\"י בשם א\"ז):",
+      "en": "Si le contenu d’un tonneau de vin s'échappe par une fente, un Israélite doit la boucher avec un peu d’étoupe, puis il peut laisser réparer l’avarie par un ouvrier païen; mais lorsque le vin sort avec trop d’abondance, il faut prendre garde que le païen ne le touche pas avec sa main.GLOSE: Il est défendu au païen de toucher le vin avec sa main, mais s’il l’a touché avec son couteau, le vin est permis, car on se trouve en présence d’un fait accompli. Si l’on veut encore mieux faire, on rapproche les deux bords de la fente en serrant fortement le tonneau avec une corde et on laisse ensuite travailler le païen.GLOSE: Un Israélite peut boire le vin qu'un païen a touché dans le but de l'irriter, lors même que ce dernier n’aurait pas clairement manifesté son intention et qu'il n’existerait que des suppositions à ce sujet; mais l’Israélite doit boire le vin en présence du païen, afin de lui montrer que son acte n’a produit aucun effet.",
+      "ref": "Shulchan Arukh, Yoreh Deah 124:27"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא עבודת כוכבים דף נ\"ז:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:1"
+        },
+        "2": {
+          "he": "טור וכן פסק הרשב\"א ושכן איתא בתוספתא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:2"
+        },
+        "3": {
+          "he": "כרב שם כדעת ר\"ת שם בתוס' וכ\"נ מדברי הרא\"ש וכ\"כ הר\"ן בשם הרמב\"ן והרשב\"א והרמב\"ם בפי\"א מהמ\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:3"
+        },
+        "4": {
+          "he": "טור בשם הרשב\"א ומפרש הטעם משום דגזירה ראשונה שאסרו סתם יינם בשתייה הוה משום איסור חתנות והרי הוא בכלל איסור חתנות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:4"
+        },
+        "5": {
+          "he": "שם בגמרא וכרב טור בשם ר\"ת ואביו הרא\"ש והרמב\"ם בפי\"א מהמ\"א דין ה':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:5"
+        },
+        "6": {
+          "he": "טור בשם הרמ\"ה וכ\"כ הרמב\"ם בפרק הנזכר כפי פירושם שם בגמרא אהא דאותביה רב שימי לרב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:6"
+        },
+        "7": {
+          "he": "רשב\"ץ מפני שהוא עבד כנעני כאמו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:7"
+        },
+        "8": {
+          "he": "לשון הרמב\"ם שם (טור בשם רשב\"א וגאוני') ולמדה מדין גר תושב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:8"
+        },
+        "9": {
+          "he": "ל' הרמב\"ם בפי\"ג די\"א גם כן מדין גר תושב וכתוב שם כגון ישמעאלים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:9"
+        },
+        "10": {
+          "he": "(°) ב\"י בשם רבינו ירוחם בשם ר' מאיר וכ\"כ בא\"ח וכל בו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:10"
+        },
+        "11": {
+          "he": "רבינו ירוחם בשם ר\"מ עיין בסימן קי\"ט מדין מומר:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:11"
+        },
+        "12": {
+          "he": "סא\"ח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:12"
+        },
+        "13": {
+          "he": "הריב\"ש בתשובה סי' ד':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:13"
+        },
+        "14": {
+          "he": "מימרא דרב שם דף נ\"ז:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:14"
+        },
+        "15": {
+          "he": "משנה שם דף ס' וכדמפרש רב פפא שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:15"
+        },
+        "16": {
+          "he": "מעובדא דההוא עובד כוכבים שם דף נ\"ח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:16"
+        },
+        "17": {
+          "he": "משנה שם דף ס' מדדו וכו':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:17"
+        },
+        "18": {
+          "he": "מהך משנה דמדדו וכו' (°) הרי\"ף והרא\"ש שם ואגודה אמנם הרשב\"א והר\"ן ור' ירוחם ומרדכי העלו דניסוך דרגל לא שמיה ניסוך לאסור בהנאה וכן נראה מדברי הרמב\"ן והרמב\"ם בפי\"א מהמ\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:18"
+        },
+        "19": {
+          "he": "מעובדא דההוא אתרוג' שם דף נ\"ט:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:19"
+        },
+        "20": {
+          "he": "מעובד' דאגרדומים עובד כוכבים וכו' שם דף נ\"ח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:20"
+        },
+        "21": {
+          "he": "מימרא דמר זוטרא וכו' קני שקיז שרי שם דף ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:21"
+        },
+        "22": {
+          "he": "מעובדא דהוה במחוזא וכו' וכמאן דאסרי שם דף נ\"ז:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:22"
+        },
+        "23": {
+          "he": "ציינתיו לעיל סעיף י':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:23"
+        },
+        "24": {
+          "he": "מעובדא דההוא אתרוגא שם דף נ\"ט:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:24"
+        },
+        "25": {
+          "he": "מעובדא דההוא חביתא וכו' שם כפי' התוספות שם. (°) פירוש שהוא יוצא מכחו וכיון דאינו נסך גמור דלא שכשך ביה לא נאסר מה שבפנים על ידי חיבור ניצוק כדלקמן:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:25"
+        },
+        "26": {
+          "he": "הר\"ן בתשובת שאלה (סי' ע\"ד הביאו ב\"י ס\"ס זה) וסיים שם דתלינן שזרק כלים בשטותו בקנה ומתוך כך נתנדנד ויצא היין:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:26"
+        },
+        "27": {
+          "he": "מרדכי בפ\"ד דעבודת כוכבים מעשה לפני ר\"ת:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:27"
+        },
+        "28": {
+          "he": "משום דהוי כנוגע לחבית בדפנותיה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:28"
+        },
+        "29": {
+          "he": "טור בשם הרמב\"ם בפי\"ב מהמ\"א מהא דרב אשי וכו' אין דרך ניסוך בכך שם דף ס' ומפרש הרמב\"ם לפי שהנאד סתום (°) ג\"ז צ\"ע בספרו ד\"מ כי לא ראיתי להם סברא זו דהגבהה אלא דוקא התזה ונגיעה. לא ידעתי מה צ\"ע שייך בזה שהרי הב\"י הביא דברי הרשב\"א בת\"ה ומ\"ש בשם הראב\"ד א\"א שדחה ראייתם מהברייתא ואף שכתב שלא מצא כן בדברי הרא\"ש אולי הטור שמע כן מאביו פה אל פה. והד\"מ שכעת נמצא בידינו חלק עליו בטוב טעם והביא עוד ראיה מדברי הריב\"ש בסימן ש\"י דדברי הרשב\"א עיקר ועיין בב\"ח ובט\"ז דאף הם ס\"ל הכי אלא שכתבו דבשתיה מיהא אסור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:29"
+        },
+        "30": {
+          "he": "שם מהא דעבודת כוכבים אדנא וכו' שם דף ס':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:30"
+        },
+        "31": {
+          "he": "משנה שם דף ס':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:31"
+        },
+        "32": {
+          "he": "כפי' הרמב\"ם בפרק י\"ב מהמ\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:32"
+        },
+        "33": {
+          "he": "פירוש שדחאו עד שנפל ליין וכדלקמן סי' קכ\"ה סעיף י' ועי' במה שציינתי שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:33"
+        },
+        "34": {
+          "he": "שם במשנה כדמפרש רב פפא שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:34"
+        },
+        "35": {
+          "he": "ריב\"ש בתשובה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:35"
+        },
+        "36": {
+          "he": "מעובד' דההוא חביתא וכו' שם דף נ\"ז וכדעת הרא\"ש הביאו הטור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:36"
+        },
+        "37": {
+          "he": "פי' שהרי לא שכשך וה\"ל מגעו ע\"י דבר אחר שלא בכוונת ניסוך שהרי להציל בא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:37"
+        },
+        "38": {
+          "he": "מעובדא דההוא חביתא וכו' שם נ\"ט וכרב פפא וכלישנא בתרא הרי\"ף ורמב\"ם וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:38"
+        },
+        "39": {
+          "he": "טור בשם הרי\"ף והראב\"ד בהשגתו בפי\"ב מהמ\"א והרא\"ש והרשב\"א והר\"ן:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:39"
+        },
+        "40": {
+          "he": "מעובדא דההוא גברא דאסיק חמרא בגישתא וכו' שם דף ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:40"
+        },
+        "41": {
+          "he": "טור בשם אביו הרא\"ש בתשובה (°) כל בו בשם הראב\"ד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:41"
+        },
+        "42": {
+          "he": "טור בשם ר\"ח ובה\"ג והרי\"ף והרא\"ש בעובדא דהוה בבירם וכו' שם דף נ\"ז וכתבו התוס' שם כן בשם ר\"ת וכפי גירסתו שם בגמרא וכגירסת ר\"ח ובה\"ג ולא גרס שם דף נ\"ח והא קא נגע ביה בנטלא אלא והא קא נגע ביה נ\"ל דצ\"ל דלא גרסי שם נגע ברישא דלוליבא אלא נגע בחמרא ודו\"ק:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:42"
+        },
+        "43": {
+          "he": "מרדכי שם בשם ר\"ת:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:43"
+        },
+        "44": {
+          "he": "טור שם בשמם והרשב\"א וכדעת ר\"ח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:44"
+        },
+        "45": {
+          "he": "כ\"כ התוס' והרא\"ש אהא דרב אשי דבין מליאה בין חסירה שרי וכו' דף ס':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:45"
+        },
+        "46": {
+          "he": "טור בשם ר\"ת וכ\"כ התוס' והרא\"ש שם אהא דרב אשי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:46"
+        },
+        "47": {
+          "he": "שם וכ\"כ התוס' שם בשם ר\"ת:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:47"
+        },
+        "48": {
+          "he": "הגהת אשר\"י:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 124:48"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "אלא כשתייה. ואיתא בש\"ס (עבודת כוכבים דף נ\"ז) אפילו תינוק בן יומו עושה יי\"נ בשתייה וכן הוא בפוסקים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:1"
+        },
+        "2": {
+          "he": "שבע מצות בני נח. וכתב הב\"ח נראה דאפילו בקבל עליו בלבד שלא לעבוד עבודת כוכבים מגעו שרי בהנאה ולא נקט ז' מצות אלא לאורויי דאפ\"ה אוסר מגעו בשתייה עכ\"ל וכ\"כ הפרישה סי\"א וכן נראה ממ\"ש הט\"ו כל עובד כוכבים שאינו עובד עבודת כוכבי' יינו אסור בשתייה ומותר בהנאה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:2"
+        },
+        "3": {
+          "he": "וכל זמן שלא טבל כראוי. על הדרך שנתבאר לקמן סי' רס\"ח מיקרי לא טבל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:3"
+        },
+        "4": {
+          "he": "ויש מקילין אפילו במגע גר תושב. לכאורה משמע דוקא מגע גר תושב אבל לא מגע גר שמל ולא טבל וקשה דהא ליכא מ\"ד הכי דהא התוס' והרא\"ש כתבו דבין מגע גר תושב ובין מגע גר שמל ולא טבל מותר אף בשתייה ואפשר ס\"ל להרב מסברתו שאין לסמוך על המקילין בשום ענין רק במגע גר תושב אבל לא במגע גר שמל ולא טבל וכדכתב הר\"ן דגר שמל ולא טבל גרע מגר תושב דגר תושב מקבל מהשתא וגר שמל ולא טבל אינו מקבל אלא לאחר טבילה ויותר נראה דה\"ק הרב ויש מקילין אפילו במגע גר תושב כ\"ש בגר שמל וקבל עליו כל המצות וכ\"כ התוספות והרא\"ש גר תושב אינו אוסר יין במגעו כ\"ש גר שמל וקבל עליו כל המצות כו' היינו דכתב הרב אפילו דאל\"כ לא הל\"ל אלא ויש מתירין במגע גר תושב כו' וכ\"כ העט\"ז ויש מקילין במגען אבל יין שלהם ודאי אסור עכ\"ל אלמא דקאי אתרוייהו וכדפי' וכ\"כ בספר אפי רברבי דף ע\"ח ע\"א ויש מקילין במגען ובזמן הזה נראה להקל ע\"כ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:4"
+        },
+        "5": {
+          "he": "ודאי אסור. בשתיה ב\"י וכן מוכח בש\"ס וכתב הב\"ח מיהו הא דיינו של גר תושב שרי בהנאה וכן יינו של עובד כוכבים שאינו עובד עבודת כוכבים בששים היינו דוקא בידוע שלא נגע בו העובד כוכבים וע\"ל סי' קכ\"ח ס\"ק ג' מיהו לדידן בזמן הזה בכל ענין שרי בהנאה במקום הפסד כדלעיל ר\"ס קכ\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:5"
+        },
+        "6": {
+          "he": "ומלו וטבלו. וכתב הר\"ן דשמואל דאוסר בש\"ס בעבדים שמלו וטבלו עד יב\"ח שתשקע שם עבודת כוכבים מפיהם היינו דוקא בשמלו וטבלו בע\"כ שאפשר למולן ולהטבילן לשם עבדות בע\"כ כדאיתא בפרק החולץ אבל לדעתם ורצונם מותר מיד לכ\"ע עכ\"ל ומביאו ב\"י וכ\"כ הרא\"ה בספר ב\"ה דף קכ\"ט ע\"ב וכ\"כ הראב\"ן סימן ש\"ו בשם תשו' גאון ולפ\"ז לדידן דקי\"ל כרב דפליג אשמואל אפילו טבל בע\"כ מותר מיד אבל נראה דהר\"ן וסיעתו ס\"ל כרש\"י פרק החולץ (יבמות דף מ\"ח) דיכול לטבול עבדו בע\"כ אבל למאי דקי\"ל לקמן סימן רס\"ז ס\"ה דאם מל וטבל עבדו בע\"כ לשם עבדות הוי כאלו לא מל ולא טבל א\"כ ודאי דמיירי הכא דמל וטבל מרצונו דאל\"כ מגען אוסר כשאר עובדי כוכבים דהרי הוא כאלו לא מל ולא טבל וכן משמע מדברי התוספות פ' ר\"י (עבודה זרה דף נ\"ז ע\"ב) שכתבו וז\"ל אור\"י דדוקא בעבדים אמר שמואל דבעי שיקוע דאף ע\"ג שצריך להטבילם ולמולם מרצונם כדאיתא בהחולץ מ\"מ אימת רבו עליו ואינו מתגייר בלב שלם אבל עובדי כוכבים שמלין וטובלין מרצונם ולדעתן מותר מגען מיד עכ\"ל ואע\"ג דבפסקי תוס' שם אינו כן ט\"ס הוא ע\"ש וכן משמע במרדכי שם מיהו גם הנ\"י פ' החולץ והסמ\"ק סימן קנ\"ט סוברים כרש\"י וסייעתו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:6"
+        },
+        "7": {
+          "he": "וטבלו. אבל לא טבלו אע\"פ שמלו מגען אוסר בהנאה דגרעי מבני השפחות דלק' ס\"ד כדמוכח בש\"ס (עבודת כוכבים דף נ\"ז) ובבני השפחות יתבאר ס\"ק ח' דאוסרים בהנאה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:7"
+        },
+        "8": {
+          "he": "אוסרין היין בשתיה. לא ידעתי מנ\"ל הא דהא כיון דלא טבלו עדיין עובדי כוכבים הן ומגען אוסר אפילו בהנאה דקי\"ל אינו גר עד שימול ויטבול ול\"ד לגר שמל ולא טבל כדכתבו התוס' והרא\"ש דשאני עבדים שאין לבן לשמים אלא מאימת רבן מתיהדים וכ\"כ הר\"ן להדיא דמגען אוסר בהנאה וכן משמע להדיא מדברי הרשב\"א בתה\"א והקצר ע\"ש וכן הוא בתוס' פ' ר\"י (עבודה זרה דף נ\"ז ע\"א) ד\"ה גדולים אין כו' והכי מוכח נמי בתוס' שם ריש ע\"ב ע\"ש והכי משמע פשטא לישנא דברייתא עושים י\"נ דהיינו אפילו בהנאה וכן משמע בתוספתא שהביא הרשב\"א דקתני הרי אלו עובדי כוכבים יינם בגדולים אסור וגם הרמב\"ם ושאר כל הפוסקים כתבו בסתמא אוסרים היין משמע אפי' בהנאה וכן נ\"ל להוכיח מן הש\"ס (פר\"י שם) דקמוקים ברייתא דקתני הלוקח עבדים מן העובדי כוכבים שמלו ולא טבלו וכן בני השפחות שמלו ולא טבלו גדולים עושים יי\"נ קטנים אין עושים יי\"נ כרב (דקיי\"ל כוותיה) דאמר עובד כוכבים קטן אינו עושה יי\"נ אלא בשתיה וקטנים דאינם עושים אפילו בשתיה קאי אבני השפחות אבל עבדים קטנים עושים יי\"נ בשתייה א\"כ ע\"כ האי גדולים עושים יי\"נ בהנאה הוא דהא קאי נמי אעבדים ועבדים ע\"כ בהנאה הוא דאל\"כ מאי איריא גדולים אפי' קטנים נמי. ומיהו לדידן דעובדי כוכבים בזמן הזה לאו עובדי עבודת כוכבים הן כל מגע עובדי כוכבים שרי בהנאה במקום הפסד כדלעיל ר\"ס קכ\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:8"
+        },
+        "9": {
+          "he": "כיון שמלו כו'. המחבר לטעמיה אזיל שכתב ב\"י דדעת הרמב\"ם כדעת הרא\"ה והטור ולענין הלכה כיון שהרמב\"ם והרמ\"ה מסכימים לדעת אחד הכי נקטינן עכ\"ל אבל בספרי כתבתי דמדברי הרמב\"ם לא מכרעת מידי והבאתי שם דברי הכ\"מ שדחה דברי הרשב\"א והוכחתי שכל דבריו אינם מכוונים שכדברי הרשב\"א עיקר דאפי' לא מלו מגען מותר אף בשתייה ועוד דהא ר\"ח ובה\"ג ור\"י וסה\"ת ושאר פוסקים פסקו לגמרי כשמואל דעובד כוכבים קטן מגעו מותר אפי' בשתיה א\"כ ברייתא דקתני מלו ולא טבלו לאו משום קטנים נקט לה וא\"כ נהי דבעובד כוכבים קטן פליג עליה רב וקי\"ל כותיה מ\"מ בבני השפחות לא חזינן דפליג עליה ואדרבה אמרי' בש\"ס דמודה בבני השפחות דעדיפי מעובד כוכבים קטן וזה ברור מיהו תינוק עובד כוכבים דלאו בן שפחה הוא אפי' מל עושה יי\"נ בשתיה כל זמן שלא טבל כדכתב הרשב\"א בת\"ה דקי\"ל דאינו גר עד שימול ויטבול וגם המחבר מודה בהא כדמוכח מדבריו בכ\"מ שם וכן הוא בתוס' פר\"י דף נ\"ז ע\"א סוף ד\"ה גדולים אין כו':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:9"
+        },
+        "10": {
+          "he": "יש מי שאומר כו'. לפי שלא הביא בב\"י אלא הרשב\"ץ שכ\"כ לכן כ' דין זה בשם יש מי שאומר אבל לפעד\"נ דין זה ברור שהרי אמאי דאיתא בש\"ס בני השפחות שמלו ולא טבלו גדולים עושים יין נסך כתב רש\"י בשלא טבלה אמו מתחלה קמיירי דאי טבלה אמו אינהו ל\"ל טבילה עכ\"ל וכ\"כ הר\"ן וכ\"כ נ\"י ני\"ז ח\"א ודוקא שלא טבלה אמן שאם טבלה אמן יועיל להן טבילת אמן וזה פשוט עכ\"ל וא\"כ כיון דלא בעי טבילה הוה ליה כישראל משוך בערלתו דלקמן ס\"ק י\"ג דאינו עושה יין נסך נ\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:10"
+        },
+        "11": {
+          "he": "אבל אם היה איסורו כו'. כלומר בכ\"מ דאמרי' אסור בשתייה ומותר בהנאה מפני צד נגיעה כמו שיתבאר כגון נגע שלא בכוונה וטפח ע\"פ החבית דלקמן סי\"ט וכ\"ש כחו וכל כה\"ג דאסור בשתיה משום צד נגיעה אם היה העובד כוכבים אינו עובד עבודת כוכבים מותר אף בשתיה וע\"ל ס\"ק מ\"ט וס\"ק ע\"א וסי' קכ\"ה ס\"ק ב':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:11"
+        },
+        "12": {
+          "he": "עובד כוכבים שאינו עובד עבודת כובבים כגון ישמעאלים שנגע כו'. רמב\"ם שם והמחבר השמיטו נראה דס\"ל דלאו דוקא וכמ\"ש בב\"י במסקנא דכל עובד כוכבים שאנו מוחזקים בו שאינו עובד עבודת כוכבים דינו כאומה דלא פלחי ע\"א ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:12"
+        },
+        "13": {
+          "he": "משוך בערלתו. וכב\"י בשם א\"ח דאפילו הוא מומר לערלות מותר כדאיתא בפרק הערל עכ\"ל ומביאו בד\"מ וכ\"כ הכלבו בשם מהר\"מ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:13"
+        },
+        "14": {
+          "he": "אינו עושה יין נסך כו'. דניסוך אינו תלוי במילה רק בעובד עבודת כוכבים וזה שנמשכה ערלתו לבו לשמים שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:14"
+        },
+        "15": {
+          "he": "ונאמן לומר כו'. וז\"ל הב\"י כתוב בשבולי הלקט מומר שנגע ביין ואמר אחר כך שנתגייר בינו לבין עצמו והתיר ר\"י היין מפני שהפקיד כיסו בשבת ורשב\"א אסרו משום דאיכא למימר איערומי קמערים ע\"כ ובא\"ח כתב ישראל מומר לעבודת כוכבים יינו יין נסך עד שישוב בתשובה ונאמן לומר נתגיירתי עכ\"ל וקשה לכאורה אמאי פסק המחבר כהא\"ח דהא ר\"י ורשב\"א פליגי עליה ואפשר משמע ליה דהם לא מיירי אלא היכא דנגע ביין ואחר כך אמר שנתגייר אבל אם קודם לכן אמר שנתגייר אינו עושה יין נסך ודוחק ויותר נראה לחלק דהיכא דידוע שהיה מומר דבכה\"ג מיירי הרשב\"א אינו נאמן לומר שנתגייר אבל היכא דאינו ידוע שהיה מומר אע\"ג דאינו ידוע ג\"כ שהיה ישראל נאמן לומר תשובה עשיתי במגו דאי בעי אמר מעולם לא המיר וישראל הוא ובכה\"ג מיירי הא\"ח והמחבר וכ\"כ הפוסקים והט\"ו לקמן סי' רס\"ח ס\"י לענין גר שאמר נתגיירתי אינו נאמן אלא דוקא כשלא ידענו שהיה עובד כוכבים דאז נאמן במגו דאי בעי אמר ישראל אני:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:15"
+        },
+        "16": {
+          "he": "האנוסים כו'. ע\"ל סי' קי\"ט ס\"ט וי\"א וי\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:16"
+        },
+        "17": {
+          "he": "אבל נאמנים כו'. ע\"ל סי' קי\"ט ס\"ק י\"ח ולקמן סי' קכ\"ז סעיף קטן י\"ט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:17"
+        },
+        "18": {
+          "he": "ברגלו. ע\"ל סי' קכ\"ג ס\"ק מ\"ב ולקמן ס\"ק נ\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:18"
+        },
+        "19": {
+          "he": "בדבר אחר שבידו. ודווקא בכוונה אבל שלא בכוונה יש חילוק בין נגע בידו לנגע בדבר אחר דבידו אוסר בשתיה ובד\"א מותר אף בשתיה כדלקמן סעיף י\"ד וכ\"ד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:19"
+        },
+        "20": {
+          "he": "וישכשך. אבל נגיעה לחוד בלא שכשוך אינו אוסר בהנאה וכדעת הטור ורש\"י והרמב\"ם וכן בסי\"ג העתיק דברי הרמב\"ם שלמד בב\"י מדבריו דנגיעה בלא שכשוך אינו אוסר בהנאה וכב\"י דבהכנסת ידו לא מקרי שכשוך דלא הוי אלא נענוע כל דהו וכן משמע מדאמרינן (פר\"י דף נ\"ט ע\"ב) גבי אתרוג דנפל לחביתא דחמרא אידרי עובד כוכבים ושקליה אמר רב אשי נקטוה לידיה כי היכי דלא לישכשך משמע דאהכנסה לא קפדינן עכ\"ל ועפ\"ז כתב דהתוספות והרא\"ש סבירא להו דנגיעה בלא שכשוך אוסר בהנאה (ואחריו נמשכו מהרש\"ל והפרישה) ור\"ל מדהוצרכו לפ' דהך עובדא דאתרוגא דלא נאסר בהנאה בהכנסת ידו הוא מפני שלא כוון ליגע אלא ליטול את שלו וקשה דמה לי הוצאה ומ\"ל הכנסה ועוד דהא הטור גופיה כ' לקמן שלא נאסר בהכנסת ידו אפילו ידע שהוא יין כיון שאינו מתכוון אלא ליטול את שלו אלא ודאי כך לי שכשוך דהכנסה כשכשוך דהוצאה וע\"כ הוצרכו התוספות והרא\"ש והטור לפרש דהך עובדא דאתרוג דלא נאסר בהכנסת ידו משום שלא כוון ליגע אלא ליטול את שלו אבל אה\"נ דסבירא להו דנגיעה לחוד אינו אוסר בהנאה (ס\"א בחביתא) אלא דוקא בשכשוך והיינו דמסיימי התוספות אבל אחר שנטל האתרוג היה לחוש שמא יתן דעתו וישכשך עכ\"ל וכן דעת הראב\"ד בהשגות ריש פרק י\"ב מהמ\"א דאינו אוסר בהנאה אלא אם כן ישכשך:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:20"
+        },
+        "21": {
+          "he": "כגון ששתה ממנו. בין ששתה מן החבית עצמו בין ששתה מהכוס והחזיר ישראל המותר לחבית אסור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:21"
+        },
+        "22": {
+          "he": "שמצץ במינקת בחבית והעלהו כו'. כתבו התוספות דף נ\"ח סוף מסכת עבודת כוכבים דמיירי כגון שלא נגע ביין במינקת כגון שנתנו בתחלה המינקת ביין וראשו חוץ לחבית וסותמים פי החבית ופי המינקת וכשרוצה לפתוח קודחים במינקת כו' אי נמי כשקדח לא נגע הקנה ביין אלא כשרוצה להעלות היין מצדד בחבית עד שיגיע היין במינקת דאל\"כ אפי' לא העלה אסור בהנאה משום נוגע ביין על ידי המינקת דל\"ד למדדו בקנה (דלקמן סעיף י\"ט) דהתם לא נתכוין לשכשוך כלל) אבל הכא נתכוין לשכשך ואסור בהנאה עכ\"ד מיהו לדידן שרי מגע עובדי כוכבים ע\"י ד\"א בשתיה במקום הפסד כדלקמן סעיף כ\"ד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:22"
+        },
+        "23": {
+          "he": "אסור בהנאה. היינו מדינא אבל לדידן שרי בהנאה במקום הפסד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:23"
+        },
+        "24": {
+          "he": "יכול כו'. כב\"י בשם התוס' דממדת חסידות יש ליזהר דלמא קדם פסיק עובד כוכבים ברישא ומביאו ד\"מ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:24"
+        },
+        "25": {
+          "he": "אם נגע ברתיחה כו'. ז\"ל הב\"ח סוף סעיף י\"ד כתוב בהג\"א מא\"ז חבית שהיתה מחמצת ומעלה רתיחה הוי חיבור ליין ואם נגע עובד כוכבים ברתיחה של יין חמרא אסור והא דנקט מטפח ולא נקט נגע בנחת להודיע שאין דרך ניסוך בכך ושרי בהנאה וה\"ה דבנגיעה נמי אסור בשתיה ע\"כ ומביאו הרב בהגהת ש\"ע סי\"א עכ\"ל נראה שהבין דדעת הרב דלא מיתסר אלא בשתיה ותימה דמשמע דעת הרב דאסור בהנאה כנגע ביין עצמו ובאמת לא ידע מהיכן הוציא הרב דבריו שהרב לא הביא כלל בד\"מ דברי הג\"א הנ\"ל אלא ז\"ל בד\"מ סי\"ג עוד כב\"י דהא דהיה מטפח על החבית רותחת כדי שתנוח הרתיחה מותר בהנאה היינו דוקא בטופח כיון שאינו נוגע אלא דרך טפוח אע\"פ שהוא בידו מותר בהנאה דאין דרך ניסוך בכך ונראה עוד דלא אמרו אלא במטפח על הרתיחה אבל אם היה מטפח על היין ממש אסור בהנאה עכ\"ל וכן הוא במרדכי פ' השוכר ובסמ\"ג דאם נגע ברתיחה כאלו נגע ביין עצמו עכ\"ל ד\"מ הרי להדיא דבהנאה נמי אסור מיהו לדידן אפילו נגע ביין עצמו מותר בהנאה במקום הפסד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:25"
+        },
+        "26": {
+          "he": "נאסר בהנאה. ולדידן מותר בהנאה במקום הפסד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:26"
+        },
+        "27": {
+          "he": "והשאר מותר כו'. וימכור לעובד כוכבים חוץ מדמי יי\"נ שבו כדלקמן ס\"ק ס\"ב ואם יש שם ס' מותר אפילו בשתייה כדלקמן סימן קל\"ד ס\"ק כ\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:27"
+        },
+        "28": {
+          "he": "ונמצאת כו'. ע\"ל סעיף י\"ט בהג\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:28"
+        },
+        "29": {
+          "he": "ליטול משם. ע\"ל ס\"ק כ':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:29"
+        },
+        "30": {
+          "he": "מותר בהנאה. דכיון דבשעת הכנסת ידו לא היתה כוונתו רק ליטול הדבר שנפל לשם א\"כ לא כוון לנסך ואח\"כ כשנוגע בו כיון שאינו מניד היין הרי אינו משכשך ולכך מותר בהנאה ולדידן דקי\"ל לקמן ס\"ק ע\"א דכ\"מ שמן הדין מותר בהנאה לדידן שרי אף בשתייה במקום הפסד ה\"ה הכא ואין לפרסם הדבר כדלקמן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:30"
+        },
+        "31": {
+          "he": "עד שנגע ביין כולו אסור. בהנאה טור ולדידן שרי בהנאה במקום הפסד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:31"
+        },
+        "32": {
+          "he": "אבל אם לא ידע. שהברזא עובר כל השולים או שלא ידע שהוא יין מותר אפילו בשתייה כדלקמן סכ\"ד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:32"
+        },
+        "33": {
+          "he": "אם לא ידע כו'. ומדברי הגהמ\"י פי\"ב בשם סמ\"ק שכתבו אע\"פ שנגע אותו עץ ביין כיון דאיכא למיתלי שהעובד כוכבים לאו אדעתיה מותר עכ\"ל ומביאו ב\"י וד\"מ סכ\"ב לקמן גבי מגע עובד כוכבים שלא בכוונה ע\"י ד\"א משמע להדיא דכל היכא דלא ידעינן אי ידע או לא תלינן להקל בענין יין נסך וכ\"כ ר\"א מזרחי בתשובה סימן נ\"ו דהיכא דאיכא לספוקי אי נגע בכוונה או לא תלינן להקל בענין יין נסך משום דהוי גזרה דרבנן ובשל סופרים תולין להקל וכן משמע מדברי הרא\"ש גבי חבית דאשתקל ברזא שכתב על דברי הראב\"ד וכיון דאיכא למיתלי להיתר אמאי אסרינן ליה מספק ע\"ש וכה\"ג תלינן לקולא לקמן סימן קכ\"ה ס\"ו ובהכי ניחא הא דכתב הרב לקמן סעיף כ\"ד בדקרו הסכין דאמרינן דלא כיוון רק לנקוב החבית ולא ליגע דאפשר שינקוב ולא יגע ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:33"
+        },
+        "34": {
+          "he": "ומה שנשאר בחבית מותר אפילו בשתייה. כ\"כ הטור וצ\"ע דהטור לטעמיה אזיל דס\"ל לקמן ר\"ס קכ\"ה דאם שפך מכלי יין מה שנשאר בפנים מותר דלא החמירו בכח העובד כוכבים לאסור המחובר לו על ידי ניצוק וכן כתב המרדכי בשם ראבי\"ה ומביאו ב\"י דטעמא דהכא בהוצאת הברזא הוא משום דאע\"ג דמה שיצא לחוץ אסור מ\"מ כיון שאין נסך גמור דלא שכשך לא אחמור בניצוק עד כאן לשונו אבל למאי דפסק המחבר בר\"ס קכ\"ה דנאסר בניצוק בכח העובד כוכבים א\"כ ה\"ה הכא ונראה דהיינו דכתב הרשב\"א בשם הרמב\"ן בברזא דכל היין אסור משום דס\"ל כדלקמן סימן קכ\"ה דלא כבית יוסף שכתב שלא אסר אלא היין שעד הנקב משום כחו ומ\"מ לדידן הכל אפי' מה שיצא לחוץ מותר בשתייה במקום הפסד כדלקמן סכ\"ד ולענין אם ניטל הברזא וסתם העובד כוכבים יתבאר לקמן סעיף כ\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:34"
+        },
+        "35": {
+          "he": "אסור בשתייה. כב\"י מדברי הרמב\"ן שהביא הרשב\"א משמע דאפילו סתם אח\"כ הנקב אסור היין שבחבית עד הנקב כיון שמכח העובד כוכבים נעקר לשפוך אבל הר\"ן כתב בפרק ר\"י דברי הרמב\"ן ומתוך לשונו משמע דבסתם הנקב שרי ע\"כ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:35"
+        },
+        "36": {
+          "he": "מותר. דתלינן שזרק כלים בשטותו בקנה ומתוך כך נתנדנד ויצא היין דכל שאינו יודע בטיב ניסוך תלינן בכל מה דאפשר ר\"ן שם ולפעד\"נ דאפילו ראינו שהוציא הברזא כל שלא נגע בידו ביין עצמו שרי דכיון שאינו יודע בטיב ניסוך ה\"ל למגע עובד כוכבים שלא בכוונה ע\"י ד\"א דשרי בשתייה כדלקמן סכ\"ד ומכ\"ש למאי דקי\"ל בסכ\"ד דאפילו עובד כוכבים שהוציא הברזא מותר בשתייה במקום הפסד דהכא לגמרי שרי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:36"
+        },
+        "37": {
+          "he": "נאסר. ע\"ל סעיף כ\"ג וכ\"ו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:37"
+        },
+        "38": {
+          "he": "אבל אם היתה מהודקת בחזקה מותר. ובהג\"א כתב בשם רשב\"א דאפי' היין יוצא ומטפטף שרי כיון שהיתה הברזא תחובה כ\"כ בחבית שלא היתה קופצת מן החבית עכ\"ל ב\"י ומביאו ד\"מ וע\"ל סכ\"ו וכ\"ז:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:38"
+        },
+        "39": {
+          "he": "נאסר. בהנאה מן הדין:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:39"
+        },
+        "40": {
+          "he": "בלא הגבהה. ע\"ל סי' קכ\"ה ס\"י בהג\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:40"
+        },
+        "41": {
+          "he": "לא מיקרי שכשוך. ומותר אפילו בשתייה כן משמע מדברי הפוסקים המקילים (וכ\"פ הב\"ח סוף סעיף י\"ב) וע\"ל סעיף כ\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:41"
+        },
+        "42": {
+          "he": "נאסר. ע\"ל ר\"ס קכ\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:42"
+        },
+        "43": {
+          "he": "וכ\"ש שאינו כו'. ולכן אני תמה על קצת המחמירין ומפסידין ממונם של ישראל לאסור יין ע\"י שנגע העובד כוכבים בכלי בלא שום שכשוך ולכן נראה דאין לחוש כלל עכ\"ל ד\"מ וכ\"ש לדידן דשרי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:43"
+        },
+        "44": {
+          "he": "שהיה מטפח כו'. ע\"ל ס\"ק כ\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:44"
+        },
+        "45": {
+          "he": "בהמתו. ע\"ל סי' קכ\"ה ס\"ק ח':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:45"
+        },
+        "46": {
+          "he": "ואסור בשתייה. ולדידן מותר בשתייה במקום הפסד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:46"
+        },
+        "47": {
+          "he": "והוי מגע עובד כוכבים שלא בכונה כו'. כלומר שלא בכונה לנסך אבל אם לא כיוון ליגע שרי בקנה אפילו בשתייה דה\"ל מגע עובד כוכבים ע\"ד ד\"א דשרי בשתייה כדלעיל סעיף י\"ד ולקמן סכ\"ד וכ\"כ הר\"ן ומביאו בית יוסף סוף דף קס\"ג בסוף ד\"ה מגע עובד כוכבים שלא בכוונה ע\"י ד\"א כו' ובבית יוסף ובפרישה ס\"ס זה מחלקינן בע\"א וז\"ל דמדדו בקנה מתכוין להכניס הקנה ביין אבל הכא אינו מתכוין להכניס הסכין ביין אדרבה מתכוין לסתום בפני היין שלא יצא הילכך דמי למגע עובד כוכבים ע\"י ד\"א שלא בכוונת מגע כלל דשרי בשתייה עכ\"ל. ולעיל סי\"ד ולקמן סכ\"ד נמי אינו מתכוין ליגע ביין:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:47"
+        },
+        "48": {
+          "he": "וי\"א כו'. וכב\"י דה\"ה להתזת צירעה דשוה למדדו וכ\"כ הרשב\"א היו זבובים או יתושים ע\"פ החבית והתיזן בין בקנה בין בידו מותר בהנאה ואסור בשתייה אבל האוסרים במדדו ביד בהנאה ה\"ה להתזת צירעה ביד דאסור בהנאה ולא אמרו במשנה ימכר אלא בהתיז קנה דוקא עכ\"ל. ולפי זה למאי דקי\"ל דבמדדו ביד שרי אף בשתייה במקום הפסד וכמו שיתבאר בס\"ק נ' ה\"ה זבובים ויתושים ביד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:48"
+        },
+        "49": {
+          "he": "אינו אוסר בהנאה. ולדידן שרי אף בשתיה במקום הפסד וכ\"פ הב\"ח סס\"ך וכן משמע בהדיא בתשובת רבי אליה מזרחי סי' נ\"ו סוף דף פ\"ה וכן בכל הסעיף כשכתב הרב מותר בהנאה לדידן שרי אף בשתייה כדלקמן ס\"ק ע\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:49"
+        },
+        "50": {
+          "he": "במקום הפסד. כ' העט\"ז הפסד מרובה ול\"נ דה\"ה הפסד מועט וכן משמע מדבריו בד\"מ וז\"ל ול\"נ דהואיל והוא איסור דרבנן הלכה כדברי המקילין ותו דבתראי נינהו וידעי טפי דברי הראשונים ופסקו להתיר ואף רבינו הטור לא זכר כלל דברי הראשונים מכלל דפשיטא ליה דהלכה להקל עכ\"ל וכן משמע מדברי הב\"ח סס\"ך דאפילו בהפסד מועט קי\"ל הכי ועוד שהרי המחמירים הם הרי\"ף לדעת הר\"ן והרמב\"ם לדעת הבית יוסף דכתבו דמדהשמיטו הך ברייתא דמדדו בין ביד בין ברגל ימכר מכלל דס\"ל דביד אסור בהנאה ולפעד\"נ דאדרבה איפכא מסתברא דמדמי ליה לעובדא דשמן (לעיל סעיף י\"ב) ושאר עובדא דכותיה דמגע שלא בכוונה מותר בהנאה וסבירא ליה דרבי נתן דאוסר היינו משום דסבירא ליה מגע שלא בכוונה אוסר בהנאה ולא קי\"ל כותיה וכיון שכתבו בשמן ובמגע עובד כוכבים שלא בכוונה דמותר בהנאה לא הוצרכו לכתוב מדדו ביד מותר בהנאה ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:50"
+        },
+        "51": {
+          "he": "שלא נגע בידו. אבל נגע בידו אסור בהנאה אע\"פ שעסוק במלאכתו ול\"ד למדדו ביד וכן דעת הטור וכן פי' בפרישה סכ\"ז ע\"ש וכן פירש הב\"ח סט\"ו דעת הרא\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:51"
+        },
+        "52": {
+          "he": "רק בשתייה. היינו דווקא כשנמשך אבל לא נמשך שרי אפי' בשתייה כדלעיל סי' קכ\"ג ס\"ק מ\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:52"
+        },
+        "53": {
+          "he": "דהא גם כן במלאכתו כו'. לא הוצרך לטעם זה אלא להאוסרים ניסוך ברגל בהנאה לעיל סי\"א אבל להמתירין בלא\"ה מותר בהנאה וק\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:53"
+        },
+        "54": {
+          "he": "ואין לדמות כו'. ודוקא מה שמפורש בש\"ס ופוסקים שנקרא טירדא אבל אין לנו להתיר דברים אחרים מאומד הדעת לומר זה אין מתכוין לניסוך כ\"כ הפוסקים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:54"
+        },
+        "55": {
+          "he": "מותר בהנאה. ולדידן שרי אף בשתיה במקום הפסד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:55"
+        },
+        "56": {
+          "he": "וה\"ה כו'. וכן אם לאחר שעבר האונס נמצא עדיין נוגע בו אסור בהנאה אפילו הוא אונס דעלמא דלאו קרוב למיתה רשב\"א שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:56"
+        },
+        "57": {
+          "he": "ולא מיקרי נגיעה מה שנוגע על ידי אדם. ואפי' יתכוין העובד כוכבים לנסך בדרך זה ואומר בפירוש שהוא מנסכו ע\"י כך אין בדבריו כלום וה\"נ אמרינן שנוגע בכלי שהיין בתוכו שאין זה נקרא מגע עובד כוכבים ביין ע\"י ד\"א אלא הוא נוגע בכלי והכלי נוגע ביין וגם בקנה אפשר לומר כן שכל שקדמה נגיעת הקנה ביין לנגיעת אדם בקנה אין זה מגע עבוד כוכבים על ידי ד\"א דמשמע שהוא מגיע ד\"א ליין אבל זה אינו נוגע אלא בקנה הנוגע ביין אבל צריך להתיישב בדבר זה עכ\"ל הריב\"ש שם ומביאו ד\"מ ונראה דלדידן דקי\"ל לקמן סכ\"ד דמגע עבודת כוכבים ע\"י ד\"א שרי אף בשתיה במקום הפסד אם כן הכא בשקדמה נגיעת הקנה ביין שרי בשתיה אף שלא במקום הפסד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:57"
+        },
+        "58": {
+          "he": "הרי זה מותר בהנאה. כתב העט\"ז בסעיף כ\"ג דהכא אפילו יש שם ישראל שרי בהנאה ול\"ד לדלקמן סעיף כ\"ג כו' ולא נהירא כדמוכח בדברי הראב\"ד והרשב\"א והרא\"ש דאין לחלק וע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:58"
+        },
+        "59": {
+          "he": "וחבקה עובד כוכבים. ל' הר\"ן שרי להדק על ידי עובד כוכבים ומביאו ב\"י וד\"מ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:59"
+        },
+        "60": {
+          "he": "והניח העובד כוכבים ידו כו'. כב\"י וה\"ה לסותם הנקב בברזא קצרה שאינה עוברת כל עובי השולים וכ\"כ הרב בסמוך:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:60"
+        },
+        "61": {
+          "he": "עד הנקב אסור כו'. דכיון שסופו לצאת והעובד כוכבים סותמו ומונע לצאת ה\"ל כנוגע בכולו כ\"כ הפוסקים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:61"
+        },
+        "62": {
+          "he": "וימכור כו'. אבל בהנאה בפני עצמו א\"א כיון דכמעורב חשבינן ליה. ר\"ן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:62"
+        },
+        "63": {
+          "he": "ודוקא כו'. והרא\"ש והטור ס\"ל דאין חילוק דאפילו אין שם ישראל לא מקרי טרוד במלאכתו ול\"ד לטירדא דמדידה דאין לנו לדמות הטירדות זו לזו כדלעיל ס\"ס י\"ט מיהו בתשובת ר\"א מזרחי סי' נ\"ו פסק בסתם כהראב\"ד ולא הביא דעת הרא\"ש כלל וכ\"פ הב\"ח סס\"ך ובאמת לא ידעתי למה דהא קי\"ל הלכה כבתראי ובפרט שהרא\"ש מביא דברי הראב\"ד ומשיג עליהם ובפרט שהוא מחמיר וכן רבינו ירוחם מביא סברא זו באחרונה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:63"
+        },
+        "64": {
+          "he": "אבל אם לא היה כאן כו'. וכתוב בתשובת ר\"א מזרחי שם וה\"ה אם יש ישראל שם ובשעה שנשמט הברזא היה העובד כוכבים יותר קרוב מהישראל ולא רצה העובד כוכבים להמתין על ישראל לסתום הנקב כדי שלא יהא היין נשפך ביני וביני או שהיה הישראל עוסק בענין אחר דינו כאין שם ישראל להציל ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:64"
+        },
+        "65": {
+          "he": "לא גרע ממדדו כו'. כב\"י ואפשר דאפי' להאוסרים מדדו בידו בהנאה מודי הכא כיון דלא נגע ביין עצמו עכ\"ל ומביאו ד\"מ ואפשר גם דעתו בהג\"ה כן ומפני כך כתב סתם והכל מותר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:65"
+        },
+        "66": {
+          "he": "מותר בשתייה. כן הוא ברוב הספרים והדבר פשוט דט\"ס הוא וצ\"ל בהנאה אבל בשתיה אסור כמו מדדו ביד וכן הוא בעט\"ז ובקצת ספרים וכן כתוב בתשובת ר' אליה מקנדי\"א הנדפסה בתוך תשובות ר\"א מזרחי בס\"ס נ\"ד: וכתוב בתשובת ר\"א מזרחי סימן נ\"ו דלדידן דקי\"ל דעובדי כוכבים בזמן הזה לאו עובדי עבודת כוכבים הן ומגען שלא בכונה מותר בשתיה ה\"נ מותר בשתיה ומשמע מדבריו שם להדיא דה\"ה ביש שם ישראל נחתינן חד דרגא ולדידן כולו שרי מיהו היינו דוקא במקום הפסד וכמ\"ש לקמן ס\"ק ע\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:66"
+        },
+        "67": {
+          "he": "אבל אם הכניס כו'. ק\"ק דה\"ל לחלק הכא ג\"כ בין יש ישראל להציל או לא וא\"ל דשאני הכא כיון דנוגע ביין עצמו דהא במדדו בידו נמי נוגע ביין בעצמו ונראה דהכא אפילו אין ישראל להציל לא מוכחא מלתא דכוון להציל דהא היה יכול להציל כשיניח ידו על הנקב מבלי שיכניס ידו לפנים ולפ\"ז היכא דא\"א להציל אם לא שיתחוב אצבעו לפנים ואין שם ישראל להציל שרי בהנאה וכ\"כ הב\"ח סס\"ך דאפילו בתחב אצבעו או ברזא ארוכה היכא דלא היה שם ישראל דהכל מותר בהנאה דבעבידתיה טרוד עכ\"ל ומיירי בגוונא דפרישית:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:67"
+        },
+        "68": {
+          "he": "דכולו אסור בהנאה. ולדידן בהכניס אצבעו שרי בהנאה במקום הפסד ובהכניס ברזא ארוכה שרי אף בשתיה במקום הפסד כדלקמן סעיף כ\"ד אבל אם הוא בענין שאין יכול להציל אם לא ע\"י שיכניס אצבעו ואין שם ישראל שיכול להציל שרי אף בשתיה במקום הפסד לדידן וכ\"כ הב\"ח סס\"ך הלכה למעשה להקל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:68"
+        },
+        "69": {
+          "he": "וע\"י כן יוצא כל היין שבחבית. אבל אם המינקת אינו מגיע בשולי החבית בענין שלא היה יוצא כל היין שבחבית רק עד מקום שמגיע המינקת אז אינו אסור בהנאה רק עד מקום שמגיע המינקת ומשם ואילך מותר בהנאה כמו בברזא דלעיל בסמוך כן משמע בפוסקים ולדידן כולו שרי בהנאה במקום הפסד אפילו מגיע לשולי החבית:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:69"
+        },
+        "70": {
+          "he": "הוי ניצוק בר ניצוק. כב\"י דמיירי ביש קנה בנקב החבית דאז שייך לפלוגי בין קלוח שעומד במרזב לשאר היין הא אם אין קנה בנקב כולו אסור משום ניצוק עכ\"ל ומביאו ד\"מ וע\"ל סימן קכ\"ו סעיף ב':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:70"
+        },
+        "71": {
+          "he": "וה\"ה אם נגע כו' או שלא ידע וכו'. דהואיל ואפילו כיוון ליגע אינו אוסר רק בשתייה הואיל ואינו עובד עבודת כוכבים א\"כ שלא בכוונה אפילו בשתייה שרי מידי דהוי אישמעאל שנגע שלא בכוונה כדלעיל (ס\"ק י\"ב) עכ\"ל ד\"מ ומשמע דה\"ה בכל מקום שאינו אסור מדין הש\"ס אלא בשתייה לדידן שרי אף בשתייה וכ\"כ הב\"ח סס\"כ וכ\"כ בתשובת ר\"א מזרחי סימן נ\"ו וכן משמע בתשובת ן' חביב סימן מ\"א דתלא טעמא דנחתינן דרגא ע\"ש מיהו כבר נתבאר לעיל ר\"ס קכ\"ג דשלא במקום הפסד קי\"ל דאף בזמן הזה עובדי עבודת כוכבים הן וגם בתשובת מהרי\"ל סימן ל\"ח מצאתי דכתב דמגע עובד כוכבים בכוונה ע\"י ד\"א בזמן הזה אין להתיר אלא במקום הפסד מרובה ונהי דהרב והנמשכים לדעתו לא ס\"ל הכי אולי לא ראו דברי מהרי\"ל שהרי לא הביאו דבריו ואפשר אי הוי שמיע להו לא הוו מקילין כ\"כ ועוד שקולא זו לא הזכירוה הפוסקים הקדמונים או האחרונים המפורסמים וגם בספר אפי רברבי דף ע\"ט ע\"ב הביא דברי הרב וכתב עלה ואין להקל בזה רק בהפסד מרובה גם הרב והב\"ח מודו לזה שהרי משמע להדיא מדבריהם בר\"ס קכ\"ג דשלא במקום הפסד קי\"ל דאף בזמן הזה עובדי עבודת כוכבים הן וכן קבלתי מהגאון אמ\"ו ז\"ל שאין להקל מטעם עובדי כוכבים בזמן הזה לאו עובדי עבודת כוכבים הן אלא במקום הפסד ואמר שכך ראה ג\"כ מכמה גדולי הוראה מיהו היכא דמותר מן הדין בהנאה משום שאינו עובד עבודת כוכבים כגון קטן וגר תושב וכה\"ג דלעיל ריש הסימן אף לדידן אסור בשתייה אף במקום הפסד דמה בכך דעובדי כוכבים בזמן הזה לאו עובדי עבודת כוכבים הן הא בלא\"ה אפילו אינו עובד עבודת כוכבים אסור בשתייה והיינו דכתבו הרמב\"ם והמחבר לעיל ס\"ז כ\"מ שאמרו כו' מפני צד נגיעה כו' דמשמע דאתו למעוטי שאר דברים דלא שרו בהנאה מפני צד נגיעה והיינו הנך דפרישית וע\"ל סימן קל\"א ס\"ק ט\"ו ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:71"
+        },
+        "72": {
+          "he": "מה שיצא לחוץ. שבא מכחו אסור עכ\"ל עט\"ז ולא דק דהא השתא קיימינן דיין שאסור מן הדין בשתייה לדידן שרי וכח אינו אוסר אלא בשתייה כדלעיל סעיף י\"ד ולקמן ר\"ס קכ\"ה אלא הטעם איתא במרדכי דמה שיצא לחוץ מסתמא נגע בו ומביאו ב\"י וד\"מ לקמן סי' קכ\"ט וע\"ש סעיף י\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:72"
+        },
+        "73": {
+          "he": "דכיון דלא כיוון כו'. אה\"נ אפי' הוי כיוון שרי לדידן אלא קושטא דמלתא נקט כדאיתא במרדכי ונ\"מ דשרי אף שלא במקום הפסד והא דלא חיישינן שמא נגע בידו ביין בשעה שיצא לחוץ דאז נאסר גם מה שבפנים ע\"י ניצוק דלמה לו לעשות כן וכמו שכתבתי סוף סימן קכ\"ט ובסימן ק\"ל סעיף קטן ג':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:73"
+        },
+        "74": {
+          "he": "נוד כו'. פי' הבית יוסף דהיינו בנוד סתום דאילו בפתוח ס\"ל להרמב\"ם והמחבר לעיל סי\"ז דיש בו משום ניסוך וכן העט\"ז כתב נוד סתום ולפי מה שכתב הרב שם דבמקום הפסד אפי' פתוח מותר ה\"ה הכא ועיין לקמן סימן קכ\"ה סעיף ח' ט' י':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:74"
+        },
+        "75": {
+          "he": "מותר. דאין דרך ניסוך בכך ועוד דמעשה לבינה בעלמא קעביד כדלעיל סעיף כ\"ב כן כתבו הפוסקים ועיין לעיל סעיף ט\"ז סעיף קטן ל\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:75"
+        },
+        "76": {
+          "he": "יקח ישראל הנעורת. כב\"י דמדברי התוספות והג\"א משמע דלשופרא דמילתא הוא ולא לעיכובא ויש לתמוה למה דהא אם יתן העובד כוכבים הנעורת הוי כמנח ידיה (דלעיל סעיף כ\"ג) כיון דמונע היין מלצאת ושמא י\"ל כיון שאין זה נקב גמור אלא סדק לא מחמרינן ביה כולי האי עכ\"ל ועיין עוד בטור מ\"ש ויש מחלקים כו' ובב\"י וב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:76"
+        },
+        "77": {
+          "he": "אבל בסכין כו' שרי. שאינו מכוין רק לסתום הכלי ולא ליגני ביין והוי כמו על ידי ד\"א שלא בכוונה טור והפוסקים ולדידן אף ביד שרי במקום הפסד כיון דהוי מגע שלא בכוונה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 124:77"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "שאינו מזכיר עבודת כוכבים כו'. בטור כתב דמיקרי גדול שיודע בטיב עבודת כוכבים ומשמשיה דהיינו כל שזוכר ומזכיר בפיו עבודת כוכבים ומשמשיה והוא ע\"פ התוספתא הביאה תה\"ה רק ששם לא הוזכר תיבת בפיו ופי' בפרישה דזוכר קאי על המחשבה ול\"נ דבפיו קאי אתרוייהו והוא ע\"פ שמצינו לשון כזה בפ\"ק דכתובות כל המנבל את פיו ומוציא דבר נבלה מפיו אפי' אם נגזר עליו כו' נראה פירושו דבא למעט שלפעמים מדבר ניבול פה בלא כיוון להרע ע\"כ הזכיר בכפל לשון שמוציא דבר נבלה מפיו בכוונה וברצון וה\"נ הוי כיון שאפשר שזוכר כן שם עבודת כוכבים בלי כוונה לרעה ע\"כ אמר שמזכיר להורות שבכוונה ורצון מזכיר זה ולשון מזכיר פירושו שנותן לב להזכיר וע\"כ לא נקט בש\"ע אלא ומזכיר לחוד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:1"
+        },
+        "2": {
+          "he": "ויש מקילין אפילו במגע גר תושב. הוא הרא\"ש דכ' דאע\"פ דבעבד הלקוח מעובד כוכבים שמל ולא טבל עושה יי\"נ כדמוכח בסעיף ג' שאני התם דאין לבו לשמים אלא מתייהד מפני אימת רבו ובטור מבואר חילוק זה לדעת ר\"ת שפוסק בעבד שמל וטבל דבעינן עוד י\"ב חודש כתב ע\"ז ודוקא שאינו מתגייר מדעתו אבל נתגייר מדעתו מיד לאחר שנמול ויטבול כו' ואינו רוצה לחלק בעבד עצמו אם מתגייר מדעתו או בע\"כ דכל מדעתו הוי נמי בע\"כ דאין לבו שלם בדבר וכ\"כ בהדיא בתוספות פ' ר\"י (עבודה זרה ד' נ\"ז) דאי אתה מל עבד בע\"כ אלא דמ\"מ אימת רבו עליו ונראה דחסר תיבה א' בטור וצ\"ל דדוקא עבד שאינו מתגייר כו' וכ\"ה הגי' במרדכי דעיקר החילוק בין עבד לגר אחר אבל בעבד עצמו אין חילוק כלל כאן ואם מתגייר בפי' בע\"כ אין מועיל לגמרי וכדקי\"ל סי' רס\"ז וכ' רש\"ל דהקראים דינם כגר תושב ומותר לשתות עמו ישראל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:2"
+        },
+        "3": {
+          "he": "כיון שמלו כו'. אזיל לטעמי' \". \"ו שכתב בב\"י שגם הרמב\"ם ס\"ל כהרא\"ה דבעינן דוקא מלו ולא כהרשב\"א דסבירא ליה אפילו לא מלו ותמהני מאד מהיכן משמע ליה לב\"י מדברי הרמב\"ם כן שהרי בגמרא נקט ג\"כ מלו ופי' הרשב\"א דמלו דנקט הוא לרבותא דגדולים אפילו מלו אוסרים ואמאי לא נימא גם ברמב\"ם כן ותו ק\"ל למה לא פסק כרשב\"א כיון דבהדיא אמרינן כן בתוספתא כמו שמביא בתה\"ה ועל הטור לק\"מ שלא ראה ספר תה\"ה ולא ידע מתוספתא זאת דודאי אין כח לחלוק על תוספתא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:3"
+        },
+        "4": {
+          "he": "שאינו עובד אלילים כו'. כגון הישמעאלים ויליף לה מגר תושב למה שפסק בסעיף ב' דאינו אוסר רק בשתייה ואע\"ג דשם כתב קיבל עליו ז' מצות שם קמ\"ל רבותא דאפי' הכי אסור בשתייה אבל לענין איסור הנאה לא איכפת לן רק בעובדי כוכבים דכבר נתבאר דאיסור שתייה הוא משום בנותיהן ואיסור הנאה הוא משום עבודת כוכבים מ\"ה כל שאינו עובד עבודת כוכבים אין כאן איסור הנאה ולדעת יש מקילין שהביא שם רמ\"א מ\"מ כאן נחית דרגא ולכל הפחות מותר בהנאה ובטור כ' בשם רשב\"א דיש להקל בישמעאלים כיון דלא פלחו לעבודת כוכבים והקשה בדרישה ממ\"ש ב\"י לעיל בסי' זה בשם הרשב\"א בלשון זה אלמא כל שקיבל עליו שלא לעבוד עבודת כוכבים וז' מצות בני נח יינם לאו יין נסך לאסור בהנאה וכאן מיירי מחמת שלא יעבוד עבודת כוכבים לחוד והאריך לתרץ ואין כאן קושיא כלל דה\"ק לעיל בין לר\"מ אם קיבל עליו שלא לעבוד עבודת כוכבי' בין לחכמים בקיבל עליו לז' מצות ואנן קי\"ל כחכמים דצריך בקיבל עליו שלא לעבוד עבודת כוכבים גם ז' מצות וממילא בזה מותר עכ\"פ אלא שיש קצת גאונים אומרים שיש להקל אפילו בשלא לעבוד עבודת כוכבים לחוד אפילו לחכמים מהא דרב יהודא ששלח לאבודרני ביום אידם כמ\"ש ב\"י ויש כאן תימה בדברי הב\"י שכתב לתרץ דברי הרמב\"ם אהדדי דר\"י מיירי במקום שכל האומה אינה עובדת עבודת כוכבים וברייתא מיירי שאומתו עובדת עבודת כוכבים וקשה מאי פריך בגמרא והא תניא איזה גר תושב כו' דהיינו דברי ר\"מ דצריך קבלה בפני ג' ומשני דהיינו לענין להחיותו ומאי קושיא כלל דהא רב יהודא מיירי בכל האומה אינה עובדת עבודת כוכבים וא\"כ הברייתא נמי ס\"ל דבמקבל שלא לעבוד עבודת כוכבים וכל האומה כן אזי מודה ר\"מ דדי בכך אבל באם האומה עובדת עבודת כוכבים פליגי בה ר\"מ ורבנן וצ\"ע ליישבו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:4"
+        },
+        "5": {
+          "he": "לאפוקי נפל לבור. עיין מה שכתבתי בסעיף כ' מה ששייך לפי' דברי הטור במה שנתקשה לב\"י:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:5"
+        },
+        "6": {
+          "he": "וישכשך כו'. הב\"י נסתפק אי בעינן שכשוך גדול או אפילו כל דהו ובתה\"ה כתב בהפר משמרת הבית דף קל\"ג בפשיטות דלא מצינו הפרש בין שכשוך רב לשכשוך מועט אלא הכל אסור עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:6"
+        },
+        "7": {
+          "he": "כל היין אסור. ואין כאן היתר למכור חוץ מדמי יין נסך שבזה כל התחתון הוה בסיס לעליון וה\"ל כנוגע בכולו כ\"כ ב\"י בשם הר\"ן ועיין מ\"ש בסי' קכ\"ד ס\"ק ל\"ב על זה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:7"
+        },
+        "8": {
+          "he": "כלי שיש לו חוטמין כו'. הב\"י כתב בשם תשובת רשב\"א שמלאכת כלי זה נקרא בגמרא קני שקיז ולא ידעתי מה הוא דמ\"מ מה שבפיו אסור וכל היין נגרר אחריו ולמה יגרע מנצוק חבור כו' ע\"כ ובמשמרת הבית בדף קל\"ד כתב הרשב\"א ג\"כ בזה שלא נתבררה לנו צורת הקני שקיז ולא יוכל להתיר עליה בניצוק ועכ\"פ אינו כפרש\"י ולבסוף כתב דהקני שקיז היה בענין שלא היה בו ניצוק חבור והר\"ן כתב בשם הראב\"ד ליישב דלא אמרינן נצוק חבור אלא באם יצא הכל דרך אותו פתח מה שאין כן כאן דיוצא דרך הנקב האחר ששותה העובד כוכבים ולעד\"נ ליישב דכל כמה דלא משכשך אין אוסר וכל זמן שהוא שותה אין משכשך אלא מושך אליו אלא כשפוסק ונשמט היין מפיו הוא משכשך למטה ע\"כ אין איסור כל שלא פסק העובד כוכבים ובהך כלי בא היין מעצמו אל תוך הקנים לא ע\"י מציצה דאלו ע\"י מציצה היינו דין מינקת שזכרתי בסי' קכ\"ד סעיף כ\"ד בשם מהרי\"ל ולענין הלכה נראה כיון שלא נתברר דבר זה לרשב\"א וכתב שגם הראב\"ד נתקשה בזה ע\"כ אין לנו ללמוד שום קולא מכלי זה ולא ישתה עם העובד כוכבים בשום כלי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:8"
+        },
+        "9": {
+          "he": "עובד כוכבים שנכנס כו'. זהו לשון הרמב\"ם רק שהמחבר הוסיף תיבת ושכשכו והולך ע\"פ השיטה שכ' בכ\"מ על מה שהשיג הראב\"ד וז\"ל א\"א זה המעשה של עובד כוכבים שנכנס לחנות ואמר איכא חמרא לזבוני וכו' ושדא ידא לכובא ושכשך ביה ואמר האי לאו חמרא הוא ואסרוהו בהנאה מפני השכשוך עכ\"ל ופי' בכ\"מ שעיקר ההשגה היא על שלא כתב הרמב\"ם ושכשך אלא סתם ונגע ובגמרא איתא ושכשך ותירץ ד\"מ ע\"ז דהרמב\"ם לא הוצרך לכתוב ושכשך שכבר כתב באותו פרק שאין נגיעה אוסרת אלא שכשוך עכ\"ל ותמוה הוא דא\"כ לא היה לו להביא רק בלשון זה המעשה הוא של עובד כוכבים ששכשך ותו דכבר כתב הראב\"ד לעיל באותו פרק דבעינן שכשוך ונ\"ל שבא הראב\"ד בזה על ב' דברים הא' להשיג במ\"ש הרמב\"ם ופשט ידו כשהוא מחפש ונגע ביין אוסרו שהרי ליין נתכוין וקשה ע\"ז במה ידענו שבשעת אותה נגיעה נתכוין לנגיעה שמא הנגיעה בעצמה היתה שלא בכוונה כדרך אדם בחפושו ואת\"ל נתכוין לנגיעה שמא היה סבור שזה מים ע\"כ מביא הגמרא שאמר האי לאו חמרא ובזה נודע שכוון לנגיעת היין. עוד בא הראב\"ד בזה לראיה למה שהשיג בתחלת הפרק במ\"ש רמב\"ם כיצד היא הנגיעה שנגע ביין עצמו ומשכשך אבל אם פשט ידו לחבית ותפסו ידו קודם שיוציאנה ולא ינידה כו' לא נאסר היין דמשמע לא נאסר כלל ממילא כל שלא שכשך אלא נגיעה בעלמא מותר אפי' בשתיה אבל אם שכשך אסור בהנאה ע\"ז חולק הראב\"ד לעיל ואמר כשתפסו ידו מי לא נגע ביין אלא כך אמרו תפסו ידו שלא שכשך שאין אוסר בהנאה אא\"כ ישכשך עכ\"ל ממילא יש להראב\"ד איסור בשתיה אפי' במגע בעלמא בלא שכשוך וכן מפרש כ\"מ לתרץ גם דברי רמב\"ם גם רש\"י פי' כן בפרק ר\"י (עבודה זרה דף נ\"ט) וע\"כ בא הראב\"ד כאן להביא ראייה לזה דיש איסור שתייה אפילו הוא בלא שכשוך שהרי במעשה הזה שהיה משכשך אמרו בו דאסור בהנאה בשביל השכשוך משמע דבלא השכשוך יש עכ\"פ איסור שתייה והוא מוכח שם באותו פלפול שאמרו שכשוך עושה יין נסך דמשמע שהשכשוך גורם ליין נסך שהוא איסור הנאה הא בלא שכשוך יש איסור שתייה: וכתב הטור בדין זה ואם נתערב באחר דמי המשוכשך אסור בהנאה והשאר מותר בהנאה וקשה פשיטא מי גרע מכל סתם יינם שנתערב כדלקמן סי' קל\"ד בשלמא בגמרא לק\"מ דמעשה היה כך אבל על הטור קשה ל\"ל זה וי\"ל דל\"ת כיון דשכשך ה\"ל כיי\"נ ודאי ואין לו תקנה קמ\"ל דלא הוה אלא סתם יינם. עוד יש יתור לשון שכתב ושכשך בו בידו האי בידו ל\"ל וי\"ל דקמ\"ל בזה שמרמז בידו כלומר האי לאו חמרא בתמיה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:9"
+        },
+        "10": {
+          "he": "כסבור שהוא של שמן כו'. ממילא לדידן מותר אפי' בשתייה כמבואר לקמן סעיף כ\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:10"
+        },
+        "11": {
+          "he": "ולא ינידה. פי' דאלו היה משכשך היה אסור אחר שנטל מה שנפל שם ורוצה להוציאו אבל בלא שכשוך אינו נאסר בהנאה מכח מגע לחוד והא דלא אסר היין בהכנסת ידו פי' התוס' והרא\"ש דאז היה טרוד בהצלת מה שנפל לו והוי כמדדו דסעיף י\"ט אבל בהוצאה לא טרוד עוד ול\"ד למדדו שזכרנו ששם טרוד אף בהוצאה שצריך להוציא באופן שיכוין המדידה משא\"כ כאן שבשעת הוצאה זו הוה בלא טירדא כלל עכ\"ל ע\"כ צריך אז שמירה שלא ישכשך וכתב בד\"ה ומ\"ש בשכשוך כו' דמדברי התוס' והרא\"ש משמע שאם היה מכוין ליגע ביין היה נאסר אע\"ג דלא שכשך ולע\"ד לא נראה כן דפשיטא דגם הם סבירא להו דבלא שכשוך אין איסור הנאה אלא דהוצרכו כאן להתיר בהנחה מחמת שהיה טרוד דכאן שרוצה ליטול משם מה שנפל א\"א בלא שכשוך שהרי בשעת הכנסתו ליין מחפש בו אנה ואנה נפל ע\"כ היה אסור אי לאו טעמא דטירדא וכן מוכח גם מתה\"ה דף קל\"ד שנתן ג\"כ טעמא דטירדא ומיהו ס\"ל שם דכל מגע א\"א לו בלא שכשוך אא\"כ נקטו לידיה וכן מוכח גם מדברי הטור שפסק דבעינן שכשוך ולא הביא דעת אביו לחלוק ע\"ז אלא כדפרי' ומ\"מ לענין הלכה יש לנו לחוש לדברי רשב\"א ולאסור במגע לחוד דא\"א בלא שכשוך וכ\"ש למ\"ש הב\"י בשם הר\"ן דמגע לחוד ג\"כ אוסר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:11"
+        },
+        "12": {
+          "he": "כולו אסור. מו\"ח ז\"ל כתב דאע\"פ דהכנסת אצבעו היה לצורך הצלת יין אפ\"ה חיישינן שמא לאחר הכנסת אצבעו וניצול היין ישכשך שוב לנסך לעבודת כוכבי' עכ\"ל ולא דק בזה דודאי לא חיישינן להא לגמרי לדעת הרשב\"א שמביא רמ\"א בסעיף כ\"ג דא\"כ גם שם נימא דמתחלה בשעה שהניח ידו על הנקב היתה כוונתו להציל היין ואח\"כ נתכוון לנסך כמו שאר עובדי כוכבים שאוסר במניעת יין לצאת אלא ודאי דכל זמן שיש על ידו הצלת יין אין חשש ניסוך בו וה\"ה תוחב אצבעו לנקב החבית להציל היין אלא מוקי לההוא עובדא דבגמ' דאנח עובד כוכבים ידו עילויה ואסרו דהיה שם ישראל להצילו וקדם עובד כוכבים והצילו דאז לא מיקרי טרוד וסעיף זה הוא דברי ספר התרומה נמשך מההוא עובדא דגמ' שנזכר בסעיף כ\"ג שהיה ישראל שם אבל אם לא היה ישראל שם ודאי מיקרי טרוד כל זמן שאצבעו תחוב לשם והש\"ע לא זכר כאן כלום מזה אם היה ישראל שם כי אזיל לטעמיה דס\"ל כהרא\"ש דהצלת יין לא מיקרי טירדא ורמ\"א לא כתב כאן כלום שסמך על מה שיכתוב בסעיף כ\"ג לחלק בזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:12"
+        },
+        "13": {
+          "he": "ומה שנשאר בחבית מותר. פי' שנסתם הנקב ואם לא נסתם היה הולך עוד מן החבית לחוץ אפ\"ה שרי דאין כאן אלא איסור כחו שמכחו יצא לחוץ ואינו אוסר רק בשתייה ומטעם זה נמי לא אמרינן שמה שבפנים יהיה אסור מכח ניצוק כיון דכאן האיסור גופיה אינו איסור גמור אבל אם תחב העובדי כוכבים הברזא לשם אע\"פ שאינה עוברת כל השוליים מ\"מ אסור גם מה שבפנים מה שיהיה נגרר אחר אותו נקב דכאן יש איסור מחמת שמונע יציאת היין וזה איסור גמור אפי' בשתייה ודין זה מוזכר בסעיף כ\"ג:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:13"
+        },
+        "14": {
+          "he": "עובד כוכבים שוטה כו'. הטעם כיון דלאו בר ניסוך הוא תלינן לקולא ואמרו כן שבשטותו זרק איזה דבר על הברזא ויצאה והוא לא נגע:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:14"
+        },
+        "15": {
+          "he": "ורבים חולקים לומר כו'. משמע מדבריו שאין להקל אלא בלא הגבהה אבל במגביה מיקרי שכשוך אע\"פ שאינו נוגע רק בכלי והיינו ע\"פ מ\"ש בד\"מ שרוצה ליישב דהריב\"ם שמביא הטור סי' קכ\"ה לא ס\"ל כרמב\"ם כאן ולא כמ\"ש ב\"י כאן דס\"ל כרמב\"ם אלא ריב\"ם מיירי בהגבהה דוקא אבל לפי הנראה לע\"ד יש להקל אפילו במגביה שהרי הרשב\"א כתב בתה\"ה דף קל\"ז דלא מיחוורי דברי הרמב\"ם אלא לא מצינו שכשוך אוסר אלא בנוגע ביין עצמו בין בגופו בין ע\"י ד\"א אבל במגביהו או מוליכו ומשכשכו לא שאין דרך המנסכין כן כלל וכ\"כ הראב\"ד ועיקר עכ\"ל ומביא שם ראייה ברורה על זה מברייתא וכך הם דברי הטור ס\"ס קכ\"ה עובד כוכבים נושא יינו של ישראל אפילו חסר ומשכשך דרך הילוכו מותר אפי' הוא פתוח עכ\"ל וכ\"פ מו\"ח ז\"ל כרשב\"א וכן עיקר נ\"ל וכ\"ז לענין הנאה אבל בשתייה אסור במגע לחוד כמו שזכרתי בסי' קכ\"ג סעיף ו' בשם הראב\"ד ועיין מה שכתבתי בסי' קכ\"ה סעיף ח' דיש שלש מחלוקות בדבר והלשון שכתב רמ\"א כאן ורבים חולקים הם הראב\"ד והרשב\"א:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:15"
+        },
+        "16": {
+          "he": "או שנטל חבית וזרקה בחמתו. כ\"כ רמב\"ם זה תמוה מאד דבמשנה איתא בהדיא בלשון זה זה היה מעשה והכשירוהו משמע לגמרי וכ\"פ רש\"י וכל הפוסקים בהדיא דמותר אפי' בשתייה כמ\"ש הטור והש\"ע סימן קכ\"ה והנה בהגהת מיימוני כ' מכח זה דט\"ס יש ברמב\"ם וצ\"ל שזרקה שלא בחמתו ודעת הש\"ע שהעתיק דברי רמב\"ם כמות שהם לא ידעתי ליישבן גם הראב\"ד כ' על דברי הרמב\"ם האלו שהם שיבוש שאם בחמתו מותר אפי' בשתייה ויפה עשה בלבוש שלא העתיק דין זה דזרק בחמתו כאן ועמ\"ש בסי' קכ\"ה סעיף ה':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:16"
+        },
+        "17": {
+          "he": "עובד כוכבים שדרך יין אם שמרוהו כו'. בטור כתוב בלשון זה וכן אם דרך היין ברגליו מותר בהנאה כיון שהוא טרוד בדריכה בד\"א ששמר ישראל שלא נגע ביין אבל אם לא שמר ישראל אסור בהנאה שודאי נגע שחיבת ניסוך עליו והרשב\"א כתב שאפי' אם נגע ברגליו ביין בכונת מגע מותר בהנאה שאין דרך ניסוך בכך וא\"א הרא\"ש אסרו בהנאה ע\"כ לשונו ובאשיר\"י לא כתב הך בד\"א כו' וע\"כ דעת ב\"י שאפילו אם עסק ביד בענבים בשעת דריכה להפוך בענבים ולעצרם מותר בהנאה כיון דטרד בעבידתיה ושלא כדעת הטור דאוסר בזה ביד ולעד\"נ דגם הטור ס\"ל כך דכיון דחשוב דריכה טירדא מאי שנא רגל מאי שנא יד כל שהוא דרך דריכה וצרכיה דהיינו לאסוף הענבים ולא בא הטור להצריך שמירה אלא שלא יגע שלא מחמת עסק שלו דאפשר שהוא דרך ניסוך דברגל אף שיש בו ג\"כ ניסוך לפי דעת הרא\"ש מכל מקום כיון שהרגל טרוד תמיד בדריכתו אין חשש בו אבל ביד אין בו צורך לדריכה אלא לפי שעה לאסוף את הענבים ע\"כ יש חשש שלא יגע ביד בשעה שאין בו טירדא והוא עדיין בדריכתו וכ\"ש אי ציירה לידיה דעובד כוכבים דסגי דהרא\"ש סבירא ליה לא גזרינן ציירה אטו לא ציירה כמ\"ש הרא\"ש בתחלת פרק ר\"י והא דלא כתב הרא\"ש שצריך שמירה משום יד דאין צורך לכתבו דכיון דקמ\"ל דאפי' ברגל יש איסור אם הוא עושה אותו בכונה כל שכן ביד במקום שאין בו צורך דריכה ובודאי צריך שמירה ע\"ז כדין כל מקום שיש איסור והא שהקשו לתינוק והא קא מנסך ביד והוצרך לומר דציירנה לק\"מ דהתם באה תינוק ללמד דאף למשנה אחרונה יש היתר לדרוך עם העובד כוכבים וע\"ז הקשו הא למשנה אחרונה היה נסך משהתחיל למשוך והוצרך לתרץ דציירנה לידיה והיינו שמירה שזכרנו ומ\"מ קשה לי למה כ' הטור בסימן קכ\"ג ואפילו לא נגע בו אלא דרכו יש לאסור מה שנמשך מכחו לבור והא הוי כחו שלא בכוונה כיון שטרוד הוא בדריכה ובס\"ס קכ\"ה מפורש שכחו של עובד כוכבים שלא בכונה מותר אפי' בשתיה והיינו שאינו יודע שיין יוצא מן הנוד וה\"נ דכותיה כיון שהוא טרוד כמו במגע שאין חילוק בין טרוד לאינו יודע שהוא יין ונ\"ל לתרץ דדוקא באיסור שתלוי במגע דהיינו שאוסר אפילו בהנאה משום חבת נסוך יש היתר אם הוא טרוד באיזה טירדה כגון בדריכה או מדד היין אפי' ביד לדעת הרא\"ש דאז אינו מנסך משא\"כ לענין כחו שאין דרך ניסוך בכך אלא שמ\"מ אסרו חכמים כל מה שיוצא מכחו א\"כ אף אם הוא טרוד בעבידתיה מ\"מ עיקר עבידתיה להוציא היין וזהו גופיה שאסרו חכמים בעובד כוכבים שעושה מעשה להוציא היין מכחו ולא התירו בס\"ס קכ\"ה כחו שלא בכונה אלא שאינו יודע שיוציא היין כלל וכן אם אינו יודע שהוא היין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:17"
+        },
+        "18": {
+          "he": "ואין לדמות מילתא כו'. קשה לי דזהו מדברי הרא\"ש שהקשה על מעשה דרב פפא שניטלה הברזא ואנח עובד כוכבים ידו על הנקב אמאי אסור בהנאה והוא טרוד בהצלת יין והוי כמו מדדו ביד ותירץ בשם הראב\"ד דמיירי שהיו כאן יהודים וקדם העובד כוכבים והניח ידו שם דיש מצילין זולתו וע\"כ לא מקרי טרוד ובשביל ניסוך עשה כן וע\"ז חולק הרא\"ש דאימור למצוא חן עשה כן וקושיא מעיקרא ליתא דאין לנו לדמות הטירדות להדדי אלא מה שמצינו בתלמוד שנקרא טירדא כי אגרדמים הטועם יין היה ראוי לקרות טירדא כמו מדדו ביד ואפ\"ה לא מיקרי טרוד ואסור בהנאה וכן הצלת יין לא מיקרי טירדא עכ\"ל. וא\"ל הא מצינו הך טירדא דהצלת יין בגמרא במה דשרינן בהנאה בחבית שנסדקה לארכה י\"ל דהרא\"ש ס\"ל הטעם שם משום דלא היה משכשך כדפרש\"י הביאו ב\"י בסמוך ואע\"ג שסיים ב\"י על דברי רש\"י כלומר וה\"ל מגע ע\"י ד\"א שהרי להציל יין נתכוין עכ\"ל באמת דברי הב\"י בזה אינם בדקדוק שכיון שפירש\"י דלא היה משכשך מותר בהנאה אפי' במגע בכונה בידו וא\"ל על רש\"י עצמו למה לו לפרש הטעם משום שכשוך אמאי לא פי' דהוה טירדא ומגע ע\"י ד\"א י\"ל דסבירא ליה כהרא\"ש דהצלת יין לא מיקרי טירדא והנה רמ\"א שפסק בסעיף כ\"ג כדעת הראב\"ד דהצלת יין לא מקרי טירדא והיאך כתב כאן שאין לך אלא מה שאמרו חכמים והלא אנו מוסיפין עליהם ומ\"ש הוספה זו מהוספה אחרת. שוב ראיתי בריב\"ש סי' ש\"י בשם רשב\"א ג\"כ כדברים אלו שאין להוסיף על דברי חכמים והוא עצמו ס\"ל דהצלת יין הוי טירדא וי\"ל להרשב\"א וראב\"ד דס\"ל דבאמת יש הך טירדא דהצלת יין בגמ' דמ\"ה התירו בחבית שנסדק באורך ולא כפרש\"י דהתיר משום שלא שכשך אלא ס\"ל דאפשר דהוה שם שכשוך וכ\"כ בתה\"א שהיה שם שכשוך הניכר על ידי החצאים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:18"
+        },
+        "19": {
+          "he": "והעלוהו משם מת. הלשון משמע שמת קודם העלאה אבל חי בשעת העלאה ואחר כך מת תכף חיישינן שמא אותה שעה נתן שבח ליראה שלו כדאיתא בגמרא דדמי עליה כיום אידם פירש\"י ואזיל ומודה על שניצל ומסתמא נסכיה בעלייתו עכ\"ל ונראה דהוצרכו בגמ' לסברא זו ולא אמרו מסתמא נסכיה כשאר עובדי כוכבים כיון שאז אינו אנוס אלא דמיירי אף שהוא באותה שעה גוסס ומסוכן מ\"מ מודה ומשבח שהוא ניצול ממיתה לגמרי וע\"פ זה ניחא לי מ\"ש הטור לפיכך קטן שאינו יודע בטיב עבודת כוכבים ומשמשיה או גדול שנפל לבור ועלה מת מותר בהנאה ופי' ב\"י שכפל הדברים כי מתחלה אמר דרך כלל ואח\"כ נתן פרט בכל אחד דהיינו בקטן נתן פרט שהוא אינו יודע בטיב עבודת כוכבי' ובנפל לבור לא ידע מאי פרט יש בו ואמר שזכרו אגב אחרים ולפי מ\"ש ניחא דקמ\"ל דוקא עלה מת דהיינו בשעת עלייתו היה מת ולא אא\"כ דאלו מת אח\"כ היה לו לומר עלה ומת דוגמא לדבר יש חילוק גירסות בפ' א\"ט לענין תולעים פירשה מתה או פירשה ומתה כמו שמביא ב\"י לעיל סימן פ\"ד וזהו דקמ\"ל הטור דדוקא היה מת בשעת העלאה מותר בהנאה כן נראה לי נכון וכן נראה מדברי ת\"ה הארוך הביא בית יוסף שכתב דהוא הדין בשאר אונס שאינו קרוב למיתה מיקרי אונס ובגמרא קמשמע לן שלא תימא כיון שנפל לבור וקרוב למיתה הוא בהול ואפילו הוא עלה חי לא רמא אנפשיה לנסך קמשמע לן כיון דניצול יהיב דעתיה ומודה כו':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:19"
+        },
+        "20": {
+          "he": "ונתגלגל גם לחוץ שהיה באנסו גם לבסוף. דמותר בהנאה כצ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:20"
+        },
+        "21": {
+          "he": "ששמר שלא נגע כו'. כ' רבינו בשם ריב\"ש סי' ש\"י דלא מיקרי זה העובד כוכבים טרוד במה שמעלה הישראל כמו שמצינו בגמרא ההוא אתרוגא שנפל כדלעיל סעיף י\"ג דשמא יותר בהול עובד כוכבים להעלות האתרוג שלו מלהעלות לישראל כו' וא\"כ היה ראוי לאסור שה\"ל מגע ע\"י ד\"א דהיינו שנוגע ביין ע\"י הישראל אלא שנתן טעם (דאיך) [דאין] שייך בזה נוגע עובד כוכבי' ביין דישראל הוא הנוגע ולא העובד כוכבים וה\"נ אמרינן בנוגע בכלי שהיין נתון בו שאין נקרא מגע עובד כוכבים אלא הוא נוגע בכלי והכלי נוגע ביין כיון שהכלי כבר נגע ביין כו' ע\"כ והא כענין שכתבתי בסעיף כ\"ב שהנוגע ע\"י ד\"א צריך שיביא הנוגע את הד\"א ולא שיהיה כבר שם וזהו שכתב רמ\"א ולא מיקרי נגיעה במה שנוגע ע\"י אדם לאו דוקא אדם אלא כלומר כיון שהיה האדם כבר שם לא מיקרי נגיעה וק\"ל למה לא התיר ריב\"ש מטעם דהאידנא מגע עובד כוכבים על ידי ד\"א מותר בשתייה כמ\"ש רמ\"א סימן זה סעיף כ\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:21"
+        },
+        "22": {
+          "he": "הרי זה מותר בהנאה. אבל בשתיה אסור דה\"ל מגע עובד כוכבים ע\"י ד\"א דהיינו שאוחז היין ע\"י ב' חצאי החבית שהיו מתפרקים לולא העובד כוכבים וא\"ל א\"כ נימא בנוגע בכלי מבחוץ יאסר דה\"ל נוגע ביין ע\"י דופני הכלי לק\"מ דכשהכלי שלם לא שייך נוגע דכל נוגע ע\"י ד\"א היינו שהנוגע מביא ד\"א בשעת הנגיעה ליין משא\"כ בכלי שלם הכלי הוא כבר יין בתוכו ואין לזה שום נגיעה ביין אבל הכא שהחבית נסדק והוה כאלו נתרחק מן היין ונתערה ממנו שהרי היה מתפרק לולא אחיזתו ע\"כ שפיר הוא מביא הד\"א וא\"ל ממה דפריך בגמרא דף נ\"ח והא נגע בנטלא ש\"מ דזה קרוי נגיעה ע\"י ד\"א לק\"מ דמ\"ה פירש רש\"י שם דהיה ס\"ד ששואב בכלי ששמו נטלא מן החבית כו' נמצא גם בזה הוה הנוגע מביא את הד\"א ליין אבל בהנאה מותר דלהצלת יין מכוין ומיירי כאן באין שם ישראל להציל כמו שיתבאר בסמוך וכ\"ה בב\"י בשם הרשב\"א:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:22"
+        },
+        "23": {
+          "he": "שיש להם חשוקים. בלשון אשכנז רייפי\"ן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:23"
+        },
+        "24": {
+          "he": "כל היין שמראש ההבית. כי כל הנעצר שם מחמת העובד כוכבים שהיה יוצא לולא אחיזתו ה\"ל כאלו נגע באותו חלק כולו כיון שהוא מונעו מלצאת ומה שלמטה מן הנקב אסור בשתייה והוא מחמת חבורו אל העליון האסור וזה גרע טפי מניצוק חבור כי איך יתכן שהעליון אסור ומה ששוכב תחתיו יהיה מותר כן כתב מרדכי ושאר פוסקים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:24"
+        },
+        "25": {
+          "he": "הוא עוסק והכל מותר. בשתייה הוא ט\"ס וצ\"ל בהנאה דהא לא עדיף ממדדו בסעיף י\"ט וסברא דהצלת היין מיקרי טירדא היא דעת הראב\"ד שזכרתי בסעיף י\"ט והרשב\"א הסכים אליה וראיתי בלבוש שכתב ודוקא בכה\"ג גבי נקב שאין אומנות להניח יד על הנקב והישראל יכול לעשות גם כן אבל לעיל גבי חבית שנסדקה שיש בו אומנות אפילו יש ישראל וקדם העובד כוכבים לא אסרו כו' ולא דק כלל ונמשך לו הטעות מחמת שראה שסידר רמ\"א חילוק זה כאן ולא בסעיף כ\"ב אבל באמת קאי על הכל כמו שכתב ב\"י בשם הרשב\"א לחלק וכן גם גבי חבית ולא עיין אפילו בב\"י וכתב עוד שהעובד כוכבים עשה כן למצוא חן כו' גם בזה לא דק דסברא זו לא ס\"ל לא להראב\"ד ולא להרא\"ש כמבואר ברא\"ש שאזכיר בסמוך בתשובה. נשאלתי בעובד כוכבים שתיקן חבית של יין לחזקו ומתוך הכאתו בחבית נפתח סדק אחד והיה יין מקלח דרך שם וסתם אותו בידו ואשה הישראלית היתה עומדת שם ונר בידה להאיר לו לתקן ובתוך כך בא בעלה ומיחה בו וסתם הוא הסדק מה דין יין הזה. תשובה אע\"ג דלכאורה י\"ל דאסור כיון שהיתה כאן ישראלית וקדם הוא וסתם אבל אחר העיון נראה דשרי דהא כ\"פ ר\"י בעובדא דניטל הברזא מהחבית וקפץ עובד כוכבים ואנח ידיה עלויה דאסרינן התם בהנאה וכתב הרא\"ש אמאי אסרינן בהנאה והלא היה טרוד בהצלת היין ותירץ הראב\"ד שהיו שם יהודים עומדים ואי לאו דכיון לנסך אמאי קדם איהו ולא נהירא לי דאימור למצוא חן עשה כו' אלא נראה דהאי לאו טירדא היא כו' עכ\"ל משמע שכל שיש סברא להקל ולומר דלא נתכוין לנסך אנו מקילין ומשום הכי הקשה הרא\"ש דלפי סברתו דחשיב הצלת יין לטירדא היה לו להקל אפי' ביש מצילין דשמא עשה כן למצוא חן והראב\"ד לא סבר הך סברא דלמצוא חן מכל מקום לא פליג בזה אהרא\"ש דיש לתלות לקולא היכא שיש לתלות ולא אסר הראב\"ד ביש מצילין אלא מטעם דהעובד כוכבים לא היה לו שום שייכות בחבית יין ואז יש הוכחה שכיון לנסך דמי שם אותו לאיש גומל חסד להציל יין ישראל במקום שיוכל להנצל זולתו ולזה הכוונה עצמה אמרו שם בתלמוד בעובדא דרב פפא דאסר היין דאדרי העובד כוכבים פירוש שקפץ וסתם דקשה למה הוצרך להזכיר זה ואף שמעשה היה כך מ\"מ היה לומר בא עובד כוכבים וסתמה. ותו דאמר כפל ל' אתא עובד כוכבים אדרי דכיון דאמר אתא למה ליה אדרי והוכחה גדולה ממה שמצינו בעובדא דחבית שנסדק דמותר אמר בגמרא אידרי ולא אמר אתא עובד כוכבים אידרא כמו שאמר אצל מעשה דרב פפא שהוא לאיסור אלא ברור הוא שזה עיקר ההוכחה שכוון העובד כוכבים לנסך ולא משום הצלה דהא היה שלא במקום החבית ונעקר ממקומו לסתום הנקב מה שהוא נגד הסברא וכן מוכח לשון הטור בזה שכתב וקדם העובד כוכבים והציל ודאי כוון לנסך עכ\"ל משמע שהקדימה גורמת אבל בעובדא דחבית שנסדק דמותר לא מיירי כך אלא שהעובד כוכבים היה קרוב ליין בשעת הקפיצה וכ\"ש לקצת ספרים שלא הוזכר כלל אידרי בהך חבית שנסדק כו' והיה ראוי ללמוד מזה דאם העובד כוכבים עומד אצל החבית והישראל רחוק קצת ממנו דמיקרי העובד כוכבים טרוד אבל אין נראה להקל כ\"כ אא\"כ רחוק כשיעור שיש הפסד קודם שיבוא הישראל ושוב ראיתי כן בת\"ה הארוך דף קל\"ה וז\"ל והכא בא\"א להציל מהרה ע\"י ישראל כו' עכ\"ל אבל מ\"מ נ\"ל ברור אם היה לעובד כוכבים יין כשר שעשאו ישראל וניקב החבית וסתם העובד כוכבים בידו הנקב אף שיש ישראל שם דהוא בהול על ממונו ועל כן נזדרז הוא ביותר להציל יינו וכיון שאין כאן הוכחה תלינן להקל ע\"כ גם בנדון דידן שהעובד כוכבים שעסק בתיקון החבית ומכח מעשיו נתקלקל ונעשה נקב ובדיניהם חייב לשלם וגם בדינינו הוא כן כדאיתא פרק הבית והעלייה הבנאי שסתר כותל ועשה היזק באבנים מחמת הכאתו דחייב לשלם ע\"כ אין לנו הוכחה דכוון לנסך אלא היה בהול שלא יצטרך לשלם ההיזק על כן קדם והציל ושפיר קרינן ביה טירדא ומותר לדידן דקי\"ל בזמן הזה מגע עובדי כוכבים שלא בכוונה מותר כמ\"ש רמ\"א בסעיף כ\"ד כן נלע\"ד איברא דהאי מילתא חדתא היא ולא הוזכרה בפירוש בפוסקים אבל ברורה היא ולית בה ספיקא בס\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:25"
+        },
+        "26": {
+          "he": "אם הניח העובד כוכבים אצבעו כו'. נראה דוקא שמניח ידו על פי המינקת שעל היין ממש הוה כנוגע בכל היין שבחבית כיון שהכל נגרר אחר זה לולי אחיזתו אבל אם לא נגע שם אלא הגביה קצת המינקת ותפס בה מבחוץ ומחמת זה מנע היין לצאת עוד כדרך שעושים אם רוצים להפסיק הקילוח אז אין איסור אלא מחמת שהריק מן המינקת לחבית כדין עובד כוכבים המערה מכלי אל כלי דיש איסור במה שיוצא לחוץ וזהו בטל בחבית לדידן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:26"
+        },
+        "27": {
+          "he": "שהכל היה יוצא ונגרר. היינו אם המינקת מגיע עד שולי החבית כן פרש\"י להדיא ולא כר\"ת כן הסכימו התוספות שם ובגמרא היה בעי רב פפא לאסור הכל מכח ניצוק חיבור בלא הך סברא ורצה לפשוט מזה דניצוק חיבור וא\"ל רבא דלא תפשוט אלא הטעם שהכל נגרר אחריו והוי כנוגע בכולו ולפי זה למאי דקי\"ל בסימן קכ\"ו דניצוק חיבור אסור בלאו האי טעמא ונפקא מיניה מזה אם המינקת אינה מגעת רק עד חצי חבית אין איסור בתחתון רק מכח ניצוק חיבור וממילא אם הוא הפסד מרובה מותר התחתון כמ\"ש סי' קכ\"ו דבהפסד מרובה לא אמרינן ניצוק חיבור משא\"כ אם מגיע עד השולים אסור אפילו בהפסד מרובה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:27"
+        },
+        "28": {
+          "he": "בקילוח היין שעומד במרזב. פי' שקנה חלול תחב בנקב החבית והקילוח יורד מתוך הקנה על היין שבחבית הוי ניצוק בר ניצוק אבל אם הקילוח יורד מהחבית עצמה הוי מה שבחבית ניצוק ולא בר ניצוק ואסור כמ\"ש ב\"י ס\"ס קכ\"ו בשם רבינו ירוחם והיינו אם אין הפסד מרובה כמ\"ש סי' קכ\"ו וכן פירש ב\"י דברים אלו שהביא בשם כל בו אלא דקשה לי לפי זה על מה שכתב ב\"י על מה שכתב הטור אבל אם לא נגע אלא בקילוח היוצא היין מותר כתב ב\"י בחד תירוץ דהוי ליה ניצוק בר ניצוק דהיינו מה שלמטה מן הנקב וא\"כ אמאי היתה כל היין שבפנים דהיינו אפילו העליון אסור ע\"כ האמת ודאי כמו שכתב ב\"י בתירוץ הראשון דאזיל הקילוח לאיבוד משום הכי אין כאן ניצוק לגמרי ובהא ניחא מה שכתב הטור והראב\"ד אוסר כי הוא ס\"ל דאע\"ג דאזיל לאיבוד יש בו דין ניצוק למה שלמעלה ממנו כמ\"ש הטור בשמו סי' קכ\"ו באם ישראל המערה לאשפה כו' ולא כב\"י דפירש מה שכתב הטור בשם הראב\"ד הוא ממ\"ש לאסור מה שלמטה מן הנקב דהוא מידי אחרינא אלא כדפרישית דבזה הדין עצמו כ\"כ:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:28"
+        },
+        "29": {
+          "he": "ומותר אפי' בשתייה.) זהו לדעת ר\"ת בטור שחולק על רש\"י דלרש\"י אין חילוק בין מגע גופו למגע ע\"י ד\"א דבשניה' אסור בהנאה בכוונה ושלא בכוונה בשתיה אבל ר\"א אומר דמגע ע\"י ד\"א שלא בכוונה אין לו שם מגע כלל אלא שם כח וע\"כ מותר לגמרי שלא בכוונה כמו בכח שמותר בכל גווני אם הוא שלא בכוונה הן אם אינו יודע שהוא יין הן אם אינו יודע מן הנגיעה אלא שהר\"ן כ' דעה ג' של שיטת הגאונים דסברי כר\"ת במגע עובד כוכבים ע\"י ד\"א שלא בכוונה מותר אפי' בשתיה אלא דלא נתנו לו שם כח אלא חמיר מיניה לענין אם מתכוין למגע אע\"פ שהוא סובר שהוא שכר דבזה אסור אפילו על ידי דבר אחר ולדידהו שפיר מקשה בפ' ר\"י והא קא נגע בנטלא כיון דעכ\"פ יש איסור במגע זה אע\"פ שלא ידע שהוא יין אבל לר\"ת דנותן לו שם כח צריך לדחוק ולומר דהכי פריך והא נגע ביין על ידי הנטלא דהיינו כיון שהוא מלא נוגע בבשרו ביין והב\"י הקשה מנליה לר\"ן לומר שהגאונים חולקים על ר\"ת בזה ולא קשה מידי דכיון שאין הגאונים נתנו לו שם כח עובד כוכבים א\"צ לדחוק כפירוש ר\"ת במה שמקשה והא נגע בנטלא אלא ר\"ת צריך על כרחך לומר כן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:29"
+        },
+        "30": {
+          "he": "וכן אם נתכוין ליגע כו'. נקט דוקא הנך תרי גווני אבל אם היה כוונת מגע אלא שהיה טירדא באחת מן הטרדות הנזכרות בסימן זה אין לו היתר בשתיה וראיה ממה שאמרו במשנה מדדו בקנה ומכר וכמ\"ש הרא\"ש פ' ר\"י וז\"ל ולפי האמת קי\"ל דחמיר כוונת מגע בלא כוונה מהיכא דליכא כוונה כלל דנגע בלולב שלא בכוונה מותר בשתיה ואלו מדדו בקנה אסור בשתיה עד כאן לשונו וכן משמע ברמב\"ם פי\"ג מהמ\"א דלמגע ביד גרע טירדא מאין כוונת מגע שהרי באותו פרק כתב עובד כוכבים שנגע ביין ולא נתכוין לו הרי היין מותר בהנאה בלבד כיצד כגון שנפל על נוד של יין או שהושיט ידו לחבית ע\"מ שהוא של שמן ונמצא יין עכ\"ל ואח\"כ כתב שם מדד היין בקנה כו' מותר בהנאה בלבד עכ\"ל משמע אבל ביד אסור בהנאה וכ\"כ הב\"י לדעתו בסי' זה דביד לא מהני טירדא להתיר בהנאה הרי דטירדא גרע מאין כוונת מגע. ונראה עוד דלהרמב\"ם מגע ע\"י ד\"א שלא בכוונת מגע מותר אפילו בשתייה כר\"ת והרי\"ף דאי כרש\"י דאסור בשתייה למה כ' שהושיט ידו לחבית וקסבר שהיה שמן אינו מותר אלא בהנא' לכתוב רבותא אפי' נוגע ע\"י ד\"א אלא ודאי דע\"י ד\"א מותר באמת אפי' בשתייה כיון שהוא שלא בכוונת מגע או אינו יודע שהוא יין אלא דבטירדא ס\"ל שע\"י ידו אסור אפי' בהנאה ובד\"א מותר בהנאה וזה ברור ותמהני שהב\"י לא הרגיש בזה להביא דעת הרמב\"ם בזה דס\"ל ג\"כ מותר בשתייה ויש לי מקום תימה בכאן דכיון דטעם ר\"ת במגע ע\"י ד\"א דמותר בשתייה הוא מחמת דמגע ע\"י ד\"א אינו מיקרי מגע רק שם כח יש לו כמ\"ש הר\"ן הביאו ב\"י דבזה יש חילוק בין הגאונים לר\"ת דלהגאונים לא נתנו לו שם כח וע\"כ אסור בכוונת מגע אע\"פ שלא היה יודע שהוא יין ואין היתר אלא בלא כוונת מגע כלל אבל לר\"ת דנותן לו שם כח מותר אפילו בכוונת מגע אלא שאינו יודע שהוא יין וכ\"כ הטור להתיר גם בזה ממילא ס\"ל להטור דיש כאן שם כח במגע ע\"י ד\"א ותימה לפי זה במגע ע\"י ד\"א בכוונה אין איסור אלא בשתייה כמו בכח בכוונה וכ\"כ הר\"ן בהדיא הביאו ב\"י וז\"ל וכבר כתבתי שר\"ת סובר דמגע ע\"י ד\"א אינו אלא כחו ולדברי מי שאומר דכחו אפי' בכוונה אינו אוסר אלא בשתייה כך הדין במגעו על ידי ד\"א עכ\"ל וא\"כ למה כתב הטור בסימן קכ\"ה במסקנא שאין איסור בכחו בכוונה אלא בשתייה ובסימן קכ\"ד כתב דמגע על ידי דבר אחר בכוונה אוסר אפי' בהנאה והלא אלו שניהם כח אחד להם וצ\"ע רב ליישב זה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:30"
+        },
+        "31": {
+          "he": "כל מגען מיקרי שלא בכוונה. פירוש שאין להם כוונה לנסך והוי כתינוק דר\"ס זה שאינו אוסר אלא בשתייה וכל היכא דאיכא חדא לטיבותא שריא פי' בשתייה לדידן אלא דרמ\"א לא זכר רק תרי מילי אם נגע בידו דהיינו בלא כוונת מגע או שלא ידע שהוא יין משמע הא נתכוין למגע וידע שהוא יין אלא שיש לו טירדא לא שרי דהא כבר הבאתי ראייה בסמוך מדברי הרא\"ש שטירדא אינה מתרת כמו הנך תרתי וכן מבואר בתשובת הר\"ל חביב סימן מ\"א שמשם מקור דין זה של רמ\"א וז\"ל בסימן מ\"א על מעשה שעשו יין מצמוקים ומילאו החבית מים ובשבת היה תוסס הרבה ונשפך ע\"י הרתיחה וקראו לעובד כוכבים שינענע החבית במקל אחד שלא תשפך והשיב על זה שזה יין גמור כיון שהיה לו ג' ימים ובזה אין שייך להצריך המשכה כו' אלא דיש להתיר מטעם שכ' רשב\"ם בשם רש\"י דהגוים בזמן הזה לאו עובדי עבודת כוכבים הם ונחבר לזה מה שכ' הרמב\"ם כ\"מ שאמרנו בענין זה ביין שלנו שהוא אסור בשתייה ומותר בהנאה מפני צד נגיעה שנגע בו עובד כוכבים עובד עבודת כוכבים אבל אם היה איסורו בגלל עובד כוכבים שאינו עובד עבודת כוכבי' כגון ישמעאל שנגע ביין שלנו שלא בכוונה או שטפח ע\"פ החבית הרי זה מותר בשתייה וכן כל כיוצא בזה עכ\"ל הרי אם ניקח אלו השני סברות אפשר בנדון שלפנינו להתיר היין בשתייה אם נגיעת העובדי כוכבי' לא היתה כי אם ע\"י ד\"א דאז אפילו יודעת בטיב עבודת כוכבים כיון שמגעה היא שלא בכוונת ניסוך אינה אוסרת כי אם בשתייה וכיון דאנו מחזיקין אותה באינה יודעת נחתינן דרגא ונתיר אף בשתייה אבל אם נגעה בידה אין להתיר בשום פנים בשתייה דאם היינו מחזיקים אותה ביודעת בטיב עבודת כוכבים היינו אוסרין אף בהנאה והשתא נחתי' דרגא ונתיר אותו בהנאה אבל לא בשתייה עכ\"ל. מ\"ש הרב דאם היינו מחזיקים אותה ביודע' בטיב עבודת כוכבים היה אסור אף בהנאה היינו לדעת הרמב\"ם דס\"ל במגע בידו אע\"פ שיש לו טירדא אסור בהנאה כמ\"ש הש\"ע סעיף י\"ט וע\"כ כתב מו\"ח ז\"ל דלדידן דקי\"ל כהרא\"ש שמביא שם בסעיף י\"ט דאינו אסור בהנאה בטירדא אפילו במגע יד ממילא כי נחתינן דרגא יהיה בעובדי כוכבים בזמן הזה מותר אפילו בשתייה אם יש לו טירדא כגון להצלת יין אפי' בנוגע בידו ביין להצילו ואם כן נתפוס לדידן קולא של הרמב\"ם לענין שנאמר נחתינן חד דרגא מעובדי עבודת כוכבים לעובד כוכבים בזמן הזה וקולא של הרא\"ש לדין התלמוד דמגע ביד ויש לו טירדא מותר בהנאה ממילא לדידן מותר בשתייה אבל להרמב\"ם ודאי אסור לדידן בשתייה בנוגע ביד ויש טירדא וע\"כ כתב הרמב\"ם ההיתר בישמעאל אם נגע שלא בכוונה דהיינו שלא בכוונת מגע כלל דבזה לדין התלמוד מותר בהנאה לחוד בנוגע בידו כמ\"ש הרמב\"ם בהדיא בפרק י\"ב דמאכלות אסורות ע\"כ בזה דוקא מותר בישמעאל וה\"ה עובד כוכבים לדידן בשתייה וכן במטפח ע\"פ החבית בזה גם כן לדין התלמוד מותר בהנאה כיון שאין דרך ניסוך בכך אע\"פ שנוגע ביד ע\"כ צריכים אנו לצרף לזה דעת הרא\"ש שזכרנו וק\"ל דהא הקולא שזכרנו בשם הרמב\"ם דנחתינן חד דרגא בעובד כוכבים בזמן הזה לא מהני אלא אמגע שלא בכוונה או שאינו יודע שהוא יין לענין להתיר בשתייה אבל טירדא לא מהני בזה אפילו לדעת הרא\"ש דהא כתב הרא\"ש בתחילת פרק ר\"י וז\"ל ואפשר דאותם שנהגו היתר הנאה במגע עובד כוכבים סמכו ע\"ז דקי\"ל כרבנן דר' נתן דמדדו ביד ימכר דעובדי כוכבים בזמן הזה כל נגיעתן היא כנגיעת מדידה ועוד דכל נגיעתן לא יוכל לבוא לידי ניסוך עכ\"ל הרי דלא מהני סברא זו להיתר הנאה וא\"ל דיש כאן תרתי לטיבותא חד מצד העובד כוכבים עצמו דהוה כמדידה ועוד שהוא באמת טרוד במדידה וכיוצא בה בהצלת יין זה אינו כיון דעיקר הקולא בטירדת מדידה או שאר כיוצא בההיא משום דאין כאן כוונת ניסוך מה לי שיש זו המעלה פעם אחת דהיינו שהוא מצד עצמו לאו בר ניסוך ומה לי שיש עוד פעם אחר מצד שהוא טרוד במדידה ואינו מתכוין לניסוך ותו דא\"כ בתינוק עובד כוכבים נימא לדין התלמוד בזה שיהיה מגעו מותר אפי' בשתייה כיון דיש לו תרתי לטיבותא חדא מצד עצמו שאינו בקי בטיב עבודת כוכבים ושנית מצד שאינו מתכוין למגע כמ\"ש הרא\"ש שם דזה טעמא דרב בהא דתינוק אין עושה יין נסך לאסור בהנאה משום דאינו מתכוין למגע ולא מטעם שאינו יודע בטיב עבודת כוכבים משום דא\"כ היה ראוי להתיר אף בשתייה כמו בבני שפחות וא\"כ קשה מאי טעמא באמת לא מהני כמו שתאמר בעובד כוכבים בזמן הזה בתרתי לטיבותא דמהני הצירוף להתיר שתייה וכ\"ש התינוק בזמן התלמוד דמהני אלא ודאי לא מהני הצירוף וא\"ל הא מצינו דמהני בתרתי לטיבותא דהיינו במגע ע\"י ד\"א שלא בכוונת מגע דמותר אפי' בשתייה אפי' בדין התלמוד זה אינו דהתם דמהני אינו מטעם צירוף אלא מטעם דמגע עובד כוכבים ע\"י ד\"א מיקרי כחו לחוד לר\"ת דקי\"ל כוותיה ובכחו מותר שלא בכוונ' משום הכי גם במגע ע\"י ד\"א מותר שלא בכוונה. תו קשה לי על היתר שתייה לדידן במגע עובדי כוכבים בידו ויש לו טירדא מחמת דברי הרמב\"ם שזכרנו דנחתינן חד דרגא דא\"כ קשה לאותן פוסקים דס\"ל מגע ע\"י ד\"א בכוונה אינו אוסר רק בשתייה כמ\"ש הב\"י בסי' זה בשם הר\"ן שר\"ת ס\"ל כן ואמאי אמרינן במשנה מדדו עובדי כוכבים בקנה ימכר אמאי לא נימא נחתינן חד דרגא ועל ידי טירדת המדידה להוי מותר לשתייה כיון דאפי' בכוונה אין איסור הנאה דמאי שנא עובדי כוכבים בזמן הזה למגע עובדי כוכבים ע\"י ד\"א של זמן התלמוד דהא בתרווייהו אין כאן רק איסור שתייה ולמה יועיל צירוף הטירדא בזה יותר מזה אלא ע\"כ לומר דאין צירוף הטירדא מועיל להתיר שתייה כלל אלא דווקא שלא בכוונת מגע וכמו שכתב רמ\"א בזה וזה לא נכנס לאותה מעלה שזכר הרמב\"ם דיש לישמעאל על שאר עובדי כוכבים דדוקא במה שזכר הוא דהיינו שלא בכוונת מגע כו' יש לו מעלה. גם מן הטור יש ראייה לאיסור שהרי כ' מגע עובד כוכבים שלא בכוונה ע\"י ד\"א כגון שיש לו קנה בידו ונגע בו ביין שלא בכוונה או בכוונת מגע אלא שאינו יודע שהוא יין כו' דמותר בשתייה לענין הלכה הרי שלא זכר אלא אלו תרי אבל לא התיר מחמת טירדא אלא דלא מהני כלל צירוף טירדא לענין היתר שתייה והכי נמי בעובד כוכבים לדידן דלא מהני ומכל מקום כיון שכבר הורה זקן מו\"ח ז\"ל להקל בשתייה בהצלת יין ע\"י שהניח ידו על הנקב יש לתת טעם כיון דאין כאן מגע בכל היין אלא שמונעו מלצאת אין כאן אלא איסור כחו של העובדי כוכבים כמ\"ש הר\"ן בפרק ר\"י בשם רמב\"ן בעובדא דרב פפא דאשתקיל ברזא דכולי חמרא שהיה ראוי לצאת כחו מיקרי ואסור בשתייה וכחו שלא בכוונה לא גזרו ביה רבנן וכ\"כ הרמב\"ם פרק י\"ב דמאכלות אסורות בזה הלשון ונמצא הכל בבא מכחו י\"ל שגם בכי הא מילתא דיש לו טירדא בהצלת יין מיקרי לענין זה שלא בכוונה ושרי בשתייה אבל אם הניח אצבע בנקב ועובר על השוליים אע\"פ שעושה כדי להציל כיון שיש מגע ממש בפנים כמו שכתבו כל הפוסקים והתוס' בשם סה\"ת בזה אסור אפילו לדידן בשתייה כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:31"
+        },
+        "32": {
+          "he": "וה\"ה אם נגע אפילו בידו כו'. בתשובת מהרי\"ל סימן ל\"ח כתב שחבית יין היה ביד עובד כוכבים חתום בסתימת המגופה היטב רק שבמגופה היה חשש שמא שתה ממנו ע\"י קנה חלול פסק דמותר אפילו אם היה שותה דרך אותה קנה דהוה מגע עובד כוכבים ע\"י ד\"א ואי משום טפת יין החוזרת בטל בס' וכתב שאין כאן חשש אלא שמא הוציא ע\"י מינקת כפופה שזכר הש\"ע בסעיף כ\"ג הא לא שכיח כלל ואין כל אדם יודע אותה חכמה עכ\"ל ולפ\"ז בגליל ששכיח מינקת כפופה ודאי יש לאסור ומ\"מ למדנו כאן שאין איסור אם שותה דרך קנה חלול ובאמת דבר זה שנוי במחלוקת כי איתא בגמרא פרק ר\"י (עבודה זרה דף נ\"ח) עובד כוכבים אגרדימום פי' ממונה מן המלך על המדות שקדח במינקת פרש\"י קנה חלול והעלה היין לפיו ואמרינן שם דאסור בהנאה כל שיודע שהוא יין וכתב הרא\"ש שם דמשמע מתוס' שטפת היין שהיתה בפיו אוסרת הכל בכל שהוא כו' משמע שאינו אסור רק מכח תערובות ממילא לדידן דקי\"ל בסי' קל\"ד דסתם יינם בטל בס' מותר בנדון דלעיל וכן משמע מדברי רמב\"ם פי\"ב דהל' מ\"א דהאיסור הוא מחמת תערובות ממה שהיו בפיו ונפל שם אבל הר\"ן כתב שם דהיין אסור כולו מצד שהתחתון נעשה בסיס להעליון והוי כנוגע בכל היין שבחבית ומדברי הטור שחשב הך דינא דמינקת בדין איסור נגיעת העובד כוכבים משמע שסובר ג\"כ כר\"ן דהא מדמה זה לשותה מן החבית והרשב\"א בתה\"ה דף קל\"ג כתב כהרא\"ש וכ\"כ התוס' בפ' ג\"ה (דף צ\"ז בסוף ע\"א) דהא דאמרינן בקנישקיז אם קדם העובד כוכבים ופסק דאסור דהיינו לכתחלה אבל דיעבד מותר דאין האיסור אלא מחמת שנפל מפיו והוא בטל בס' וכיון דהר\"ן והטור הוו יחידים לגבייהו קי\"ל להתיר וכמ\"ש מהרי\"ל לעיל. ובדרישה סי' ק\"ל כתב וז\"ל צריך ליתן טעם למה אין מתירין בדיעבד בזמן הזה אם שתה עובד כוכבים בשפופרת בנקב קטן בחבית כו' והביא דברי הר\"ן וכבר נתבאר דאין לפסוק בזה כהר\"ן אך הלשון שכתב למה אין מתירין כו' דמשמע שהוא מנהג פשוט לאיסור ולא שמענו מנהג זה לאיסור אדרבה זכורני בילדותי שנעשה מעשה כזה בפוזנ\"א והסכימו שם כל החכמים להתיר וכן עיקר ואין להחמיר בזה במקום הפסד מרובה כנלע\"ד. וכן אם הוציא העובד כוכבי' יין ביד מן החבית דרך מינקת קטן שרגילין בו מוכרין יין והוציא קצת כשיעור שמחזיק אותה מינקת והוא נוגע ביד ביין שהוא בפי המינקת ג\"כ יש להתיר בדיעבד בהפסד מרובה אם הוחזר להחבית דחד דינא הוא: ומ\"ש בהגהה שרי ואין לפרסם כו' נ\"ל דאע\"פ שכ' רמ\"א להקל במגע עובד כוכבים בזמן הזה) מ\"מ כח העובד כוכבי' אוסר אף בזמן הזה דהא הרמב\"ם כתב בדין זה סתם לאיסור בפי\"ב דהל' מ\"א ובריש פי\"א כתב כלל בכ\"מ שכתוב סתם איסור היינו בעובד עבודת כוכבים לאיסור הנאה ובאינו עובד עבודת כוכבים כגון ישמעאל הוא לאיסור שתייה ממילא גם בעובד כוכבים בזמן הזה הוא כן אלא דמ\"מ נ\"ל להקל בזה בכל גווני דאין איסור אלא בתחתון ולא בעליון דבנצוק כזה פשיטא דלא אמרי' חיבור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:32"
+        },
+        "33": {
+          "he": "ודקרו שם סכין כו'. במרדכי שם כתוב שמא לא נגע ביין אלא מיד כשעבר הסכין את עובי השוליים יצא היין ולא נגע בו ביין כו' ועוד אפי' אם נגע הסכין שרי כיון שלא נתכוין הגנב אלא כדי שיצא היין (ודוקא) ע\"י דקירה בסכין שאפשר שלא יגע ביין התיר אבל אם היתה ברזא תחובה ועוברת כל השוליים והוציא עובד כוכבים הברזא אסור אפילו לדידן דהוי כנוגע במתכוין ביין ע\"י הברזא וקשה הלא כבר כתב המרדכי ופסקו רמ\"א בסמוך דלדידן מגע עובד כוכבים ע\"י דבר אחר מותר אפילי בשתייה וכן קשה על מה שכתב רמ\"א בסוף סימן קכ\"ט בשפחה שאינה נאמנת לומר מן החבית לקחה היין משמע שאם בבירור לקחה אסור אפילו היין שבחבית וכן משמע סי' קכ\"ט סעיף א' ונראה דטעם האיסור אפי' לדידן בהוציא עובד כוכבים ע\"י ברזא דקרוב הדבר שנגע ביד בקילוח היוצא וכבר כתב ב\"י סוף סימן קכ\"ו בשם רבינו ירוחם שאם נגע בקילוח הכל אסור בהנאה כאילו נגע בכל היין והיינו מטעם ניצוק חיבור (ואף שאנן) מתירין ניצוק בריש סימן קכ\"ו מ\"מ יש לחוש שמא נגע היין במקום שיוצא ממש דכן הוא רגילות במתעסק להוציא יין מהחבית דרך ברזא והוי ליה מגע ממש ואם הברזא תחובה בקנה חלול שאין שייך לומר כן יש להתיר היין שבחבית בהפסד מרובה כמ\"ש ריש סי' קכ\"ו בדין ניצוק חיבור וכן ראיתי במרדכי פרק ר' ישמעאל בדין המתחיל אשר שאלת על העובדת כוכבים שנכנסה למרתף כו' דהא כשהוציאה הברזא והחזירה א\"א שלא נגעה בידה בקילוח היוצא כו' עכ\"ל ובפרק השוכר מחלק עוד בין נקב צר לרחב דבקל נוגע ברחב עכ\"ל משום הכי נמי לא התיר כאן רמ\"א אלא בדקר בסכין שהוא נקב קטן ואין קרוב ליגע בהוצאת הסכין בקילוח הדק היוצא כן נראה לי ועי' מה שכתבתי בסי' ק\"ל סעיף א' דהכא מיירי שעדיין הסכין שם אבל אם כבר סתמו העובד כוכבים אסור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:33"
+        },
+        "34": {
+          "he": "ונגע עובד כוכבים בנוד בחוץ כו'. אפי' נדנדו הרבה שרי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:34"
+        },
+        "35": {
+          "he": "צריך ליזהר כו'. בטור סיים בזה ואם אינו נוגע ביד אלא בסכין מותר שאין מכוין אלא לסתום הכלי ולא ליגע ביין והוה כמו מגע ע\"י ד\"א שלא בכוונה והקשה ב\"י דהא בכאן הוה עכ\"פ כוונת מגע ולק\"מ דלר\"ת דהטור ס\"ל כוותיה דמגע ע\"י ד\"א שלא בכוונה מותר אפילו בשתייה היינו אפילו אם נתכוין למגע אלא שאינו יודע שהוא יין מותר ה\"נ בזה שהוא מתכוין לסתום הכלי הוי כאינו יודע שיש שם יין דאין לו עסק עם היין ולא תקשה ממתניתין שאמרה מדדו בקנה ימכר דהתם עכ\"פ עיקר עסק שלו עם היין. ונראה לפרש דברי הטור במ\"ש תחלה שיקח ישראל הנעורת כו' והקשה ב\"י א\"כ היינו סיפא דשותת יין הרבה ועוד למה לא יתן העובד כוכבים הנעורת ונ\"ל אע\"פ שמצינו מגע ע\"י ד\"א שלא בכוונה מותר בשתייה היינו בדיעבד אבל לכתחלה אין ראוי לעשו' דרך זה ע\"כ בא הטור להשמיענו רבותא ברישא ובסיפא דברישא שאין שם יין הרבה קמ\"ל דאפ\"ה יתן לכתחלה הישראל הנעורת אלא דאם יש הרבה יין יש חומרא דצריך ליזהר בשמירה יתירה שלא יגע ביין משא\"כ ברישא דא\"צ אזהרה יתירה על זה אבל מ\"מ גם בסיפא אם יש לו שמירה יתירה שאינו נוגע ביין מותר אפי' לכתחלה באם אין הוא נותן הנעורת אלא הישראל כמו ברישא אבל בדיעבד שרי אפי' בסיפא אם העובד כוכבים נותן הנעורת דהוה מגע ע\"י ד\"א שלא בכוונה אלא דעדיין קשה לי מ\"ש דמה שכתב במשנה המתיז את הצירעה בקנה דאסור בשתייה ולא מקרי מגעו ע\"י ד\"א והא שם אין לו צורך כלל ליין אלא להתיז הצירעה ואפ\"ה כיון שא\"א כי אם שיגע ביין אסור ה\"נ בזה שסתם הנקב בנעורת של פשתן כיון שא\"א כי אם שיגע ביין בסכין דהא הפשתן הוא שרוי ביין כי הוא סותם הקילוח וא\"ל דהפשתן לא מקרי יין במה שנבלע בתוכו דא\"כ למה ליה סכין תיפוק ליה דהוה ד\"א מחמת הפשתן אלא ודאי הפשתן הוא כמו היין כיון שהוא בלוע ומלוכלך ביין וב\"י תירץ על קושית מ\"ש כאן ממדדו בקנה ימכר ב' תירוצים והיינו בתירוץ הראשון דהכא יש להקל כיון שאינו נוגע אלא במה שמטפטף וקשה מה לי יין מרובה מה לי יין מועט וכמ\"ש הוא עצמו בסימן קכ\"ו ד\"ה י\"א דנצוק כו' מה לי עירה לתוך יין מרובה כו' והתירוץ השני פשיטא דלא מהני לקושיא זאת מצרעה דהא גם בצרעה מתכוין להבריח היין מן הצרעה ודומה ממש לסותם הנקב להבריח קילוח המים משם וצריך לחלק דשאני צרעה דמ\"מ נוגע ביין צלול במקום ששייך שם דרך ניסוך משא\"כ כאן שנוגע בסכין לנעורת אע\"פ שהוא בלוע מיין מ\"מ אין דרך ניסוך שייך בה כלל. ועוד י\"ל דכיון דמה שיוצא לחוץ הולך לאיבוד אין חשש במה שיוצא כמ\"ש המרדכי פרק ר\"י ממילא גם מה שבלוע בפשתן הוי כמו קילוח היוצא לאיבוד אלא דמ\"מ לכתחלה יש איסור להניח לעובד כוכבים בקילוח ע\"כ צריך שיהדק בסכין דוקא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:35"
+        },
+        "36": {
+          "he": "אלא באומדנות המוכיחות. דהיינו כעין מעשה דת\"ה שהלכו עובדי כוכבים לפני הגיגית עם תירוש ולחשו זה עם זה ואח\"כ טבל א' אצבעו בתירוש ומץ ממנו בפיו והלכו להם ופיהם מלא שחוק ורצו יהודים אחריהם ואמרו למה קלקלתם יין שלנו השיבו לא ידענו שיהא אסור בשביל זה והרגישו יהודים מתוך הלחש שכוונתם היה לנסך לקלקל והתיר שם דהוי כמו להכעיס דהכא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 124:36"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "[משוך וכו' ומומר. עיין בתשובת חתם סופר סי' ק\"כ שכ' אודות ישראל שדרך יין והעידו עליו שני עדים שדרך בליל שבת אחר צה\"כ וב' מעידים שלא יצאו עדיין הכוכבים הנה מדברי כולם נלמד שעכ\"פ דרך בגת סמוך לשבת מאד והוא רשע וראוי לגעור בו ושלא להאמינו על איסורים אבל לומר שיהיה אותו היין יי\"נ על שחילל שבת לא ידענא כו' ומכ\"ש אם לא נודע שנגע בהיין רק מה שדרך והוציא ע\"י כחו וא\"כ היין שיצא קודם שנעשה מומר היה מותר ומה שיצא אחר כך נתערב זה בזה וקמא קמא בעל ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 124:1"
+        },
+        "2": {
+          "he": "[ כגון ששתה. עבה\"ט מ\"ש אבל נגיעה לחוד כו' ועיין בתשובת ח\"ס סי' קי\"ח שכ' דנגיעת עובד כוכבים ע\"י בית יד אינו אוסר ואין זה ענין להא דקי\"ל לקיחה ע\"י ד\"א שמה לקיחה דמ\"מ לאו שמה נגיעה דלקיחה תליא בכחו כו' ומינה דהדורך בהפסק סודר סביב המקל אוסר ע\"י כחו ע\"ש]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 124:2"
+        },
+        "3": {
+          "he": "במקום פסידא. עיין בדגול מרבבה שכתב דהרמ\"א בכאן מיירי במקום שידוע שהם עובדי כוכבים אבל אל\"כ מותר לדידן במקום פסידא אפילו הגביהו ושכשך דודאי לא גרע זה ממגע עובד כוכבי' ע\"י דבר אחר לקמן סעיף כ\"ד בהג\"ה ע\"ש וכ\"כ בספרו תשובת נו\"ב תניינא חי\"ד סי' ס\"ט וע\"ש בסי' ע' שכתב דכל זה אם הכלי היה חסר אבל אם היה מלא יש לחוש לדברי רש\"י דבמלא חיישינן שמא נגע כל שאין הישראל מתכוין להשגיח ולשמור אותו שלא יגע. ומבואר שם דאם היה חומץ יין אף שאנו מחמירים בחומץ כ\"ז שאינו מבעבע כדאיתא בסי' קכ\"ג ס\"ו עכ\"פ מידי ספק חומץ לא נפיק ויש להקל אפילו אם היה מלא ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 124:3"
+        },
+        "4": {
+          "he": "שלא בכוונה. עבה\"ט ועיין בתפל\"מ שחילק ע\"ז דדוקא כח עובד כוכבים או נגיעה בלא שכשוך שלא בכוונה מותר בשתיה משא\"כ נגיעה בשכשוך דאי הוי בכוונה אסור אף בהנאה ובלא כוונה נחתינן חד דרגא ומותר בהנאה אבל בשתיה אסור ע\"ש עוד ולע\"ד צ\"ע:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 124:4"
+        },
+        "5": {
+          "he": "ה\"ז. מותר בהנאה. עש\"ך מה שחלק על הלבוש וכן הט\"ז ריש ס\"ק כ\"ה השיג עליו. ואא\"ז בתשובת פנים מאירות ח\"ג סעיף ט\"ו הצדיק דברי הלבוש ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 124:5"
+        },
+        "6": {
+          "he": "כל מגען מקרי שלא בכוונה. עט\"ז ס\"ק כ\"ה וס\"ק ל\"ה ועיין בתשובת אא\"ז פנים מאירות ח\"ג סי' ט\"ו שהורה באחד ששכר עובד כוכבים למשוך חביות יין מן המרתף ולהושיבם על העגלה והם אומנים בזה ובקיאים במלאכתם להושיב כל חבית על תקונו ואירע שנתהפך המגופה למניה והתחיל היין לקלח מהחבית והניח העובד כוכבים את ידו לסתום פי החבית והגביה החבית עד שבא פי החבית למעלה אף שישראל עמד שם מותר היין בשתיה ואף שלא במקום הפ\"מ ע\"ש טעמו:[",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 124:6"
+        },
+        "7": {
+          "he": "להכעיס. ע' בתשובת ח\"ס סי' קכ\"ז אודות ראובן שעשה יין כשר אצל עובד כוכבים וחתם היין כד\"ת אך להביא לביתו לא היה יכול עד שיטול השררה המעשר וכשבא השר לקבל המעשר נתן עיניו ביין ישראל ופתח החתימות מן היין ונתן אצבעו ביין ואמר בזה\"ל עכשיו ישתה מן היין היהודי כבר נגעתי בו אך מיד אחר הליכת השר מן המרתף סגר העובד כוכבים המרתף והלך והודיע לראובן שיינו פתוח והלך ראובן עם העובד כוכבים וחתם היין מחדש ויש בזה הפסד גדול והנה בזה היין איכא ב' חששות א' מצד נגיעת השר כפי דברי העובד כוכבים בעל המרתף והב' מצד שנתייחד היין אצל בעל המרתף בלא חותם בשעה שהיה השר במרתף וגם אח\"כ. כי מאן לימא לן שמיד בא להיהודי אולי שהה זמן מה ועוד מאן לימא שהאמת אתו שמא זמן רב קודם ביאת השר פתחו בעל המרתף לזייף וליהנות בחליפין ותולה עתה בהשר ואמר שעשה כן להכעיס. והאריך מאד בזה והעלה הלכה למעשה להתיר היין מכמה טעמים עיין שם]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 124:7"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "בשתיה.  ואיתא בש\"ס דאפילו תינוק בן יומו עושה יי\"נ בשתיה וכן הוא בפוסקים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:1"
+        },
+        "2": {
+          "he": "מצות.  כתב הב\"ח נראה דאפילו בקיבל עליו בלבד שלא לעבוד עבודת כוכבים מגעו שרי בהנאה ולא נקט ז' מצות אלא לאורויי דאפ\"ה אוסר מגעו בשתיה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:2"
+        },
+        "3": {
+          "he": "כראוי.  כתב הש\"ך דהיינו על הדרך שיתבאר לקמן רס\"י רס\"ח ומ\"ש הרב ויש מקילין אפילו במגע וכו' נראה דה\"ק וכ\"ש בגר שמל וקיבל עליו כל המצות:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:3"
+        },
+        "4": {
+          "he": "אסור.  בשתיה וכתב הב\"ח מיהו הא דיין של גר תושב שרי בהנאה וכן יין של עובד כוכבים שאינו עובד עבודת כוכבים בס' היינו דוקא בידוע שלא נגע בו העובד כוכבים מיהו לדידן בזה\"ז בכל ענין שרי בהנאה במקום הפסד כדלעיל ר\"ס קכ\"ג וכ' מהרש\"ל דהקראים דינם כגר תושב ומותר לשתות עם ישראל (ובנה\"כ כתב דאוסרים במגען ואפילו אם נשבעו שלא נגעו אינם נאמנים מיהו אינם אוסרים רק בשתיה ולא בהנאה כגר תושב ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:4"
+        },
+        "5": {
+          "he": "וטבלו.  אבל לא טבלו אע\"פ שמלו מגען אוסר בהנאה דגרעי מבני השפחות דלק' ס\"ד והא דאם מלו וטבלו מיד אין מנסכין היינו אם מלו וטבלו מרצונם אבל אם מלו וטבלו בע\"כ לא מהני עד יב\"ח שתשקע שם עבודת כוכבים מפיהם. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:5"
+        },
+        "6": {
+          "he": "בשתיה.  והש\"ך חולק וס\"ל דאוסרים אפי' בהנאה ומביא כמה הוכחות וראיות ע\"ז מש\"ס ופוסקים וסיים ומיהו לדידן דהאומות בזה\"ז לאו עובדי עבודת כוכבים הן כל מגע עובד כוכבים שרי בהנאה במקום הפסד כבסי' קכ\"ג עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:6"
+        },
+        "7": {
+          "he": "שמלו.  הט\"ז והש\"ך חולקים על המחבר בדין זה ופסקו בקטנים של בני השפחות אע\"פ שלא מלו מגען מותר אפילו בשתיה מיהו תינוק עובד כוכבים דלאו בן שפחה הוא אפילו מל עושה יי\"נ בשתיה כל זמן שלא טבל דקי\"ל דאינו גר עד שימול ויטבול:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:7"
+        },
+        "8": {
+          "he": "שאומר.  כתב הש\"ך לפי שלא הביאו בב\"י אלא הרשב\"ץ שכתב כן לכן כתב דין זה בשם יש מי שאומר אבל דין זה ברור ומוכח בש\"ס דלא בעי טבילה וה\"ל כמו ישראל משוך בערלתו דאינו עושה יי\"נ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:8"
+        },
+        "9": {
+          "he": "נגיעה.  וכ\"ש כחו וכה\"ג בעובד כוכבים שאינו עובד עבודת כוכבים דמותר אף בשתיה. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:9"
+        },
+        "10": {
+          "he": "בערלתו.  ואפילו הוא מומר לערלות דניסוך אינו תלוי במילה רק בעובד עבודת כוכבים וזה לבו לשמים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:10"
+        },
+        "11": {
+          "he": "ונאמן.  והיינו דוקא שאינו ידוע שהיה מומר רק על פיו דאז נאמן במיגו דאי בעי אמר ישראל אני כך מחלק בש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:11"
+        },
+        "12": {
+          "he": "שלהם.  ע\"ל סי' קי\"ט ס\"ז ט' י\"א י\"ב וסימן קכ\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:12"
+        },
+        "13": {
+          "he": "ששתה.  בין ששתה מהחבית עצמה בין ששתה מהכוס והחזיר ישראל המותר לחבית אבל נגיעה לחוד בלא שכשוך אינו אוסר בהנאה [ואין חילוק בין שכשוך רב לשכשוך מועט אלא הכל אסור] וע\"ל סי' קכ\"ג סכ\"א וכ\"ב ולקמן סי\"ד וכ\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:13"
+        },
+        "14": {
+          "he": "בהנאה.  כתב הש\"ך היינו מדינא אבל לדידן שרי בהנאה במקום הפסד ומיירי כגון שלא נגע ביין במינקת אלא כשרוצה להעלות היין מצדד החבית עד שיגיע היין במינקת דאל\"כ אפילו לא העלה אסור בהנאה משום נוגע ביין ע\"י המינקת דל\"ד למודדו בקנה דלקמן סי\"ט דהתם לא נתכוין לשכשוך כלל אבל הכא נתכוין לשכשוך ואסור בהנאה כ\"כ התוספות מיהו לדידן שרי מגע עובדי כוכבים ע\"י ד\"א בשתיה במקום הפסד כדלקמן סכ\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:14"
+        },
+        "15": {
+          "he": "שיפסוק.  וכתב בב\"י בשם התוספות דממדת חסידות יש ליזהר דילמא קדם ופסיק העובד כוכבים ברישא:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:15"
+        },
+        "16": {
+          "he": "עצמו.  כתב הש\"ך משמע דאפילו בהנאה אסור מיהו לדידן אפילו נגע ביין עצמו מותר בהנאה במקום הפסד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:16"
+        },
+        "17": {
+          "he": "בהנאה.  ולדידן מותר בהנאה במקום הפסד. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:17"
+        },
+        "18": {
+          "he": "והשאר.  וימכור לעובד כוכבים חוץ מדמי יי\"נ שבו כדלקמן סעיף כ\"ג בהג\"ה ואם יש ס' מותר אפילו בשתיה עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:18"
+        },
+        "19": {
+          "he": "מותר.  כתב הש\"ך ולדידן שרי אף בשתיה במקום הפסד ואין לפרסם הדבר וכן הוא בדינא דלקמן גבי פשט ידו ליטול דבר מהחביות [וכלל זה נקוט בידך בכל הלכות יי\"נ דבכ\"מ שמן הדין מותר בהנאה שרי לדידן אף בשתיה במקום הפסד. ומה שאסור בהנאה מן הדין לדידן שרי בהנאה במקום הפסד גם אם נתערב יי\"נ שלנו משערין בס' ומותר אף בשתיה וה\"ה היכא דאיכא לספוקי אם נגע עובד כוכבים בכוונה או לא תלינן להקל משום דהוי גזירה דרבנן. כתב בה\"י הפ\"מ היינו לפי ממון ערך זהב וחצי אף שיוכל למכור לעובד כוכבים מקרי הפ\"מ וע\"ל סי' ל\"ה מ\"ש שם בשם נ\"ש]:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:19"
+        },
+        "20": {
+          "he": "אסור בהנאה.  ולדידן שרי בהנאה במקום הפסד ש\"ך. וכתב הב\"ח דאע\"פ דהכנסת אצבעו היה לצורך הצלת יין אפ\"ה חיישינן שמא לאחר הכנסת אצבעו וניצל היין ישכשך שוב לנסך לעבודת כוכבים והט\"ז השיג עליו דלא חיישינן להא לגמרי וכמ\"ש רמ\"א בסכ\"ג אלא דכאן מיירי שהיה ישראל שם ויכול להצילו וקדם עובד כוכבים והצילו דאז לא מקרי טרוד וחיישינן שפיר ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:20"
+        },
+        "21": {
+          "he": "ידע.  או שלא ידע שהוא יין מותר אפילו בשתיה וכל היכא דלא ידעינן אי ידע או לא תלינן לקולא ביי\"נ וה\"ה אם איכא לספוקי אי נגע בכוונה או לא תלינן להקל משום דהוי גזרה דרבנן ובשל סופרים תולין להקל וע\"ל סכ\"ד ובסימן קכ\"ה ס\"ו עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:21"
+        },
+        "22": {
+          "he": "בשתיה.  כתב הש\"ך דצ\"ע דהא קי\"ל בר\"ס קכ\"ה דנאסר בניצוק בכח עובד כוכבים ואם כן ה\"ה הכא יש לאסור (וע\"ש מ\"ש קצת יישוב ע\"ז):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:22"
+        },
+        "23": {
+          "he": "שיצא.  כ' בית יוסף מדברי הרמב\"ן משמע דאפילו סתם אחר כך הנקב אסור היין שבחביות עד הנקב כיון שמכח העובד כוכבים נעקר לשפוך אבל מתוך לשון הר\"ן משמע דבסתם הנקב שרי וה\"ה לדידן הכל אפילו מה שיצא לחוץ מותר בשתיה במקום הפסד כדלקמן סכ\"ד ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:23"
+        },
+        "24": {
+          "he": "שהברזא.  כתב הש\"ך נ\"ל דאפילו ראינו שהוציא הברזא כל שלא נגע בידו ביין עצמו שרי דכיון שאינו יודע בטיב ניסוך ה\"ל מגע עובד כוכבים שלא בכוונה ע\"י ד\"א דשרי בשתיה והכא לגמרי שרי אפילו שלא במקום הפסד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:24"
+        },
+        "25": {
+          "he": "נאסר.  כתב הש\"ך אבל לדידן מותר כנ\"ל ואם היה מהודק בחזקה כתב הרשב\"א דאפילו היין יוצא ומטפטף שרי כיון שהיתה הברזא תחובה כ\"כ בחבית שלא היתה קופצת מן החבית עכ\"ל ב\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:25"
+        },
+        "26": {
+          "he": "נאסר.  בהנאה מן הדין. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:26"
+        },
+        "27": {
+          "he": "שכשוך.  ובט\"ז כתב דנראה לי שיש להקל אפילו במגביה לענין הנאה אבל בשתיה אסור במגע לחוד כמ\"ש בסימן קכ\"ג ס\"ו וע\"ל סימן קכ\"ה ס\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:27"
+        },
+        "28": {
+          "he": "לחוד.  וכתב ד\"מ לכן אני תמה על קצת המחמירים בנגיעה לחוד בלא שום שכשוך ונראה דאין לחוש כלל עכ\"ל וכ\"ש לדידן דשרי. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:28"
+        },
+        "29": {
+          "he": "בשתיה.  ולדידן מותר בשתיה במקום הפסד ש\"ך והעט\"ז מביא ראיה מן הש\"ס דאפילו מן הדין מותר בשתיה אם זרק בחמתו ועי' לקמן בסימן קכ\"ה ס\"ה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:29"
+        },
+        "30": {
+          "he": "בכונה.  כתב הש\"ך כלומר שלא בכונה לנסך אבל אם לא כוון ליגע שרי בקנה אפילו בשתיה דה\"ל מגע עובד כוכבים ע\"י ד\"א דשרי בשתיה כדלעיל סימן י\"ד ולקמן סימן כ\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:30"
+        },
+        "31": {
+          "he": "הפסד.  כתב הש\"ך היינו אפילו הפסד מועט ולדידן שרי אף בשתיה במקום הפסד וכן בכל הסעיף כשכתב הרב מותר בהנאה לדידן שרי אף בשתיה וכן אם היו זבובים על פי החבית והתיז בין בקנה בין בידו מותר בהנאה ואסור בשתיה ולדידן שרי אף בשתיה במקום הפסד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:31"
+        },
+        "32": {
+          "he": "בשתיה.  היינו דוקא כשנמשך אבל לא נמשך שרי אפילו בשתיה. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:32"
+        },
+        "33": {
+          "he": "חכמים.  ודוקא מה שמפורש בש\"ס ופוסקים שנקרא טירדא אבל אין לנו להתיר דברים אחרים באומד הדעת לומר זה אין מתכוין לניסוך כ\"כ הפוסקים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:33"
+        },
+        "34": {
+          "he": "בשתיה.  ולדידן מותר אף בשתיה במקום הפסד. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:34"
+        },
+        "35": {
+          "he": "חי.  וכתב הט\"ז אפילו אם היה מסוכן וגוסס באותה שעה ומת אחר כך אפ\"ה אסור דבעלייתו נותן שבח לעבודת כוכבים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:35"
+        },
+        "36": {
+          "he": "לבסוף.  מותר בהנאה כן הגיה בט\"ז ואם לאחר שעבר האונס נמצא עדיין נוגע בו אסור בהנאה ואפי' הוא אונס דעלמא דלאו קרוב למיתה כ\"כ הרשב\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:36"
+        },
+        "37": {
+          "he": "אדם.  ואפילו יתכוין העובד כוכבים לנסך בדרך זה ואומר בפירוש שמנסכו ע\"י כך אין בדבריו כלום וה\"נ אמרינן אם נוגע בכלי שהיין בתוכו שאין זה נקרא מגע עובד כוכבים ביין ע\"י ד\"א אלא הוא נוגע בכלי והכלי נוגע ביין וגם בקנה אפשר לומר כן שכל שקדמה נגיעת הקנה ביין לנגיעת אדם בקנה אין זה מגע עובד כוכבים ע\"י ד\"א דמשמע שהוא מגיע ד\"א ליין אבל זה אינו נוגע אלא בקנה הנוגע ביין אבל צריך להתיישב בדבר זה עכ\"ל הריב\"ש וכתב הש\"ך ונראה דלדידן דקי\"ל סכ\"ד דמגע עובד כוכבים ע\"י ד\"א שרי אף בשתיה במקום הפסד א\"כ הכא שקדמה נגיעת הקנה ביין שרי בשתיה אף שלא במקום הפסד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:37"
+        },
+        "38": {
+          "he": "בהנאה.  כתב הט\"ז אבל בשתיה אסור דה\"ל מגע עובד כוכבים ע\"י ד\"א וא\"ל א\"כ נימא בנוגע בכלי מבחוץ יאסור מטעם זה לק\"מ דכשהכלי שלם לא שייך נוגע דכל נוגע ע\"י ד\"א היינו שהנוגע מביא ד\"א בשעת הנגיעה ליין משא\"כ בכלי שלם הכלי היה כבר יין בתוכו ואין לזה שום נגיעה ביין אבל הכא שהחבית נסדק והוה כאלו נתרחק מן היין לכן אסור בשתיה רק בהנאה מותר דלהצלת יין מכוין ומיירי כאן באין שם ישראל להציל ודלא כלבוש דכ' דכאן אפילו יש שם ישראל שרי בהנאה ולא דק כלל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:38"
+        },
+        "39": {
+          "he": "וחבקה.  לשון הר\"ן שרי להדק ע\"י עובד כוכבים ומביאו ב\"י וד\"מ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:39"
+        },
+        "40": {
+          "he": "חוץ.  אבל בהנאה בפ\"ע א\"א כיון דכמעורב חשבינן ליה הר\"ן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:40"
+        },
+        "41": {
+          "he": "ישראל.  כ' בתשובת ר\"א מזרחי וה\"ה אם יש ישראל שם ובשעה שנשמט הברזא היה עובד כוכבים יותר קרוב מהישראל ולא רצה העובד כוכבים להמתין על ישראל לסתום הנקב כדי שלא יהא היין נשפך ביני וביני או שהיה הישראל עוסק בענין אחר דינו כאין שם ישראל להציל וכתב עוד דלדידן דקי\"ל דהאומות בזה\"ז לאו עובדי עבודת כוכבים הן ומגען שלא בכוונה מותר בשתיה ה\"נ מותר בשתיה עכ\"ל ומשמע מדבריו שם להדיא דה\"ה ביש שם ישראל נחתינן חד דרגא ולדידן כולו שרי מיהו היינו דוקא במקום הפסד ש\"ך וכתב הט\"ז שנשאל בעובד כוכבים שתיקן חבית של יין לחזקו ומתוך הכאתו בחבית נפתח סדק א' והיה יין מקלח דרך שם וסתם אותו בידו ואשה היתה עומדת שם ונר בידה להאיר לו ולתקן ובתוך כך בא בעלה ומיחה בו וסתם הוא הסדק מה דין יין הזה והשיב באריכות ומסקנת דבריו להקל דכיון דהיה העובד כוכבי' בהול שלא יצטרך לשלם ההיזק קרינן ביה טרדא ומותר לדידן דקי\"ל בזה\"ז מגע עובד כוכבים שלא בכונה מותר כמ\"ש רמ\"א בסי' כ\"ד כנלע\"ד איברא דהאי מלתא חדתא היא ולא הוזכרה בפירוש בפוסקים אבל ברורה היא ולית בה ספיקא בס\"ד עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:41"
+        },
+        "42": {
+          "he": "בהנאה.  כתב הש\"ך ולדידן בהכניס אצבעו שרי בהנאה במקום הפסד ובהכניס ברזא ארוכה שרי אף בשתיה במקום הפסד כדלקמן סימן כ\"ד אבל אם הוא בענין שאין יכול להציל אם לא ע\"י שיכניס אצבעו ואין שם ישראל שיכול להציל שרי אף בשתיה במקום הפסד וכ\"כ הב\"ח הלכה למעשה להקל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:42"
+        },
+        "43": {
+          "he": "יוצא.  כתב הש\"ך אבל אם המינקת אינו מגיע עד שולי החבית אז אינו אסור בהנאה רק עד מקום שמגיע המינקת ומשם ואילך מותר בהנאה כמו בברזא דלעיל בסמוך ולדידן כולו שרי בהנאה במקום הפסד אפילו מגיע לשולי החביות וכתב הט\"ז נראה דוקא שמניח ידו ע\"פ המינקת שעל היין ממש הוה כנוגע בכל היין שבחביות אבל אם לא נגע שם אלא הגביה קצת המינקת ותפס בה מבחוץ ומתמת זה מנע היין לצאת עוד כדרך שעושים אם רוצים להפסיק הקלוח אז אין איסור אלא כדין עובד כוכבים המערה מכלי אל כלי דיש איסור במה שיוצא לחוץ וזהו בטל בחבית לדידן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:43"
+        },
+        "44": {
+          "he": "האחר.  כתב ב\"י דמיירי ביש קנה בנקב החבית דאז שייך לפלוגי בין קלוח שעומד במרזב לשאר היין הא אם אין קנה בנקב כולו אסור משום נצוק עכ\"ל (ועי' לקמן סי' קכ\"ו ס\"ב):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:44"
+        },
+        "45": {
+          "he": "שרי.  כתב הש\"ך וז\"ל ומשמע דה\"ה בכ\"מ שאינו אסור מדין הש\"ס אלא בשתיה לדידן שרי אף בשתיה מיהו כבר נתבאר לעיל ר\"ס קכ\"ג דשלא במקום הפסד קי\"ל דאף בזה\"ז עובדי עבודת כוכבים הן וכ\"ק מהגאון אמ\"ו ז\"ל שאין להקל מטעם עובדי כוכבים בזה\"ז לאו עובדי עבודת כוכבים הן אלא במקום הפסד ואמר שכך ראה ג\"כ מכמה גדולי הוראה מיהו היכא דמותר מן הדין בהנאה משום שאינו עובד עבודת כוכבים כגון קטן וגר תושב וכה\"ג דלעיל ריש הסימן אף לדידן אסור בשתיה אפילו במקום הפסד דמה בכך דהעובדי כוכבים בזמן הזה לא עובדי עבודת כוכבים הן הא בלא\"ה אפי' אינו עובד עבודת כוכבי' אסור בשתיה עכ\"ל והט\"ז כ' דאם ידע העובד כוכבים שהוא יין וכוון למגען אלא שהיה טרוד אסור בשתיה ומ\"מ כיון שכבר הורה זקן הב\"ח להקל בשתיה בהצלת יין ע\"י שמניח ידו על הנקב יש לתת טעם כיון דאין כאן מגע בכל היין אלא שמונעו מלצאת אין כאן אלא איסור כחו של העובד כוכבים י\"ל בכי הא מילתא דיש לו טרדא בהצלת היין מקרי לענין זה שלא בכונה ושרי בשתיה אבל אם הניח אצבע בנקב ועובר על השולים אע\"פ שעושה כדי להציל כיון שיש מגע ממש בפנים אסור אפילו לדידן בשתיה כנ\"ל עכ\"ל (ועי' בס\"ק מ\"ב מ\"ש בשם הש\"ך דאם הוא בענין שא\"י להציל אם לא שיכניס אצבעו ואין שם ישראל דשרי במקום הפסד אף בשתיה וק\"ל) ובתשובת מהרי\"ל כתב שחבית יין היה ביד עובד כוכבים חתום בסתימת המגופה היטב רק שבמגופה היה חשש שמא שתה ממנו ע\"י קנה חלול ופסק דמותר אפילו אם היה שותה דרך אותו קנה דהוי מגע עובד כוכבים ע\"י ד\"א ואי משום טפת יין החוזרת בטל בס' וכתב שאין כאן חשש אלא שמא הוציא ע\"י מינקת כפופה שזכר המחבר בסכ\"ג זה לא שכיח כלל דאין כל אדם יודע אותה חכמה עכ\"ל וכתב הט\"ז ע\"ז ולפ\"ז בגליל ששכיח מינקת כפופה ודאי יש לאסור ומ\"מ למדנו כאן שאין איסור אם שותה דרך קנה חלול וכן זכורני בילדותי שנעשה מעשה כזה בפוזנא והסכימו שם כל החכמים להתיר וכן עיקר ואין להחמיר בזה במקום הפסד מרובה וכן אם הוציא העובד כוכבים יין ביד מן החבית דרך מינקת קטן שרגילין בו מוכרי יין והוציא קצת כשיעור שמחזיק אותה מינקת והוא נוגע ביד ביין שהוא בפי המינקת גם כן יש להתיר בדיעבד בהפסד מרובה אם הוחזר להחבית דחד דינא הוא עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:45"
+        },
+        "46": {
+          "he": "כיוון.  אה\"נ אפילו הוי מכוין דשרי לדידן אלא קושטא דמילתא נקט ונ\"מ דשרי אף שלא במקום הפסד והא דאסור מה שיצא לחוץ משום דמסתמא נגע בו והא דלא חיישינן שמא נגע בידו ביין בשעה שיצא לחוץ דאז נאסר גם מה שבפנים ע\"י ניצוק דלמה לו לעשות כן וכמ\"ש ס\"ס קכ\"ט ובסי' ק\"ל ס\"א עכ\"ל הש\"ך וכתב הט\"ז דיש להקשות על רמ\"א ממ\"ש בס\"ס קכ\"ט בשפחה שאינה נאמנת לומר מן החבית לקחה היין משמע שאם בבירור לקחה אסור אפילו היין שבחבית וכן משמע בסי' קכ\"ט ס\"א נראה דטעם האיסור אפילו לדידן בהוציא עובד כוכבים ע\"י ברזא דקרוב הדבר שנגע בקילוח היוצא דכן הוא רגילות במתעסק להוציא יין מהחבית דרך ברזא וה\"ל מגע ממש ואם הברזא תחובה בקנה חלול שאין שייך לומר כן יש להתיר היין שבחבית בהפסד מרובה כמ\"ש ר\"ס קכ\"ו ובמרדכי פרק השוכר מחלק עוד בין נקב צר לרחב דבקל נוגע ברחב מ\"ה נמי לא התיר רמ\"א כאן אלא בדקר בסכין שהוא נקב קטן ואין קרוב ליגע בהוצאת הסכין בקלוח הדק היוצא ועמ\"ש בסי' ק\"ל ס\"א דהכא מיירי שעדיין הסכין שם אבל אם כבר סתמו העובד כוכבים אסור עכ\"ל (ובנה\"כ חולק על כל זה וס\"ל דלדידן מותר ע\"י ברזא ואפילו נגע בקלוח דה\"ל מגע עובד כוכבים שלא בכוונה ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:46"
+        },
+        "47": {
+          "he": "בנוד.  אפילו נדנדו הרבה שרי ט\"ז ופי' הב\"י דהיינו בנוד סתום דאילו בפתוח אין להתיר אלא במקום הפסד וע\"ל בסי' קכ\"ה בס\"ח ט' י':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:47"
+        },
+        "48": {
+          "he": "מותר.  דאין דרך ניסוך בכך ועוד דמעשה לבינה בעלמא קעביד כדלעיל סכ\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:48"
+        },
+        "49": {
+          "he": "בסכין.  שאינו מכוין רק לסתום הכלי ולא ליגע ביין והוי כמו ע\"י ד\"א שלא בכוונה ולדידן אף ביד שרי במקום הפסד כיון דהוי מגע שלא בכוונה ש\"ך וכתב הט\"ז אף דיש יין בלוע בהנעורת מ\"מ מה שיוציא לחוץ הולך לאיבוד עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:49"
+        },
+        "50": {
+          "he": "ירגילו.  (וכ' בנה\"כ שאירע לו מעשה כזה שהעובד כוכבים נגע ביין וא\"ל אל תירא שאל אביך ויגדך שהוא מותר מאחר שעשיתי להכעיס ואסרו לו אביו הגאון ז\"ל ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 124:50"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

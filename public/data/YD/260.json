@@ -1,0 +1,54 @@
+{
+  "chelek": "YD",
+  "siman": 260,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-08T00:01:28.550Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "ובו סעיף אחד:מצות עשה לאב למול את בנו וגדולה מצוה זו משאר מצות עשה:",
+      "en": "It is a positive commandment for the father to circumcise is son. And this commandment is greater than all the other positive commandments.",
+      "ref": "Shulchan Arukh, Yoreh Deah 260:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה וברייתא קידושין דף כ\"ט ע\"א ומייתי לה בגמ' שם מדכתיב וימל אברהם וגו' כאשר צוה אותו ולא אותה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 260:1"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "משאר מצות עשה. לפי שיש בה צד כרת כשיגדיל ולא ימול כדבסימן שאחר זה:",
+          "en": "\"Parmi les autres mitsvot positives\" – Parce qu’il risque d'etre karet si, en grandissant, il ne se circoncit pas, comme cela est mentionné dans le chapitre suivant.",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 260:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "וגדולה.  לפי שיש בה צד כרת כשיגדיל ולא ימול כמו שכתוב בסימן שאחר זה. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 260:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

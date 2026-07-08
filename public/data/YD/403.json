@@ -1,0 +1,240 @@
+{
+  "chelek": "YD",
+  "siman": 403,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 10,
+  "fetchedAt": "2026-07-08T00:01:45.833Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני המלקט עצמות. ובו י' סעיפים:המלקט עצמות אביו או של שאר קרובי' שמתאבלים עליהם מתאבל עליהם כל היום כולו בכל הדברים הנוהגים באבל בכפיית המטה ועטיפת הראש ונעילת הסנדל ותשמיש המטה ורחיצה וסיכה ולערב אין מתאבל עליהם אפילו צרורים לו בסדינו היה עומד ומלקט וחשכה לו מותר ביום שלאחריו לפיכך אין מלקטין אותם סמוך לחשכה כדי שלא יהיה נמצא שלא התאבל על ליקוט עצמות אביו. (ואין אנינות בליקוט עצמות רק חל עליו אבלות מיד) (טור בשם הרא\"ש):",
+      "en": "One who collects his father's [or his mother's] bones2M.K. 8a. or [the bones] of other near-of-kin for whom one observes mourning rites,3N in T.H. Thus also Asheri M.K. I, derived from Sem(H). XII, 7 in accord with R. Akiba. mourns for them all day4M.K. ibid. in [that he observes] all matters which apply to a mourner, [viz.,] by over-turning the couch, muffling the head, [by debarring himself from] wearing shoes, [from] using the conjugal couch, [from] bathing and annointing himself.5N in T.H.; Asheri and R. Yeruḥam. However, in the evening one does not observe mouring rites for them, even if he had them by him tied up in a sheet.6M.K. ibid., Tosaf. s.v. ולערב. Rashi (ibid.) explains that this means even if he himself did not collect the bones and did not see them, mourning still obtains for one day. [If] he was standing and collecting [the bones] and night fell, he is permitted [the aforementioned matters which are forbidden to a mourner], on the following day. Therefore, one should not collect them close to nightfall so that it should not turn out that he observed no mourning rites for the collection of his father's [or mother's] bones.7Sem(H). XII, 4. Since only the parents are mentioned, it follows that in the case of other near-of-kin, one may collect bones close to nightfall — A.H. Aninuth8 Glos. and supra § 34 does not [take effect] in [the case of] a collection of bones [for final burial];9He is therefore, permitted to eat meat and drink wine which is forbidden to an Onen (v. supra § 341), but mourning becomes effective forthwith, even prior to the final burial of the collected bones.  supra § 375, 7. A Kohen is forbidden to collect the bones of his father lest the corpse is defective, in which case he is for-bidden to defile himself for him (v. supra § 373, 9) — ShaK, Derisha. only mourning rites become effective forthwith.10Tur on the authority of Asheri — G.",
+      "ref": "Shulchan Arukh, Yoreh Deah 403:1"
+    },
+    {
+      "seif": 2,
+      "he": "כל שקורע עליו בשעת מיתתו קורע עליו בשעת ליקוט עצמות וכל שאינו מתאחה בשעת מיתתו אינו מתאחה בשעת ליקוט עצמות:",
+      "en": "Whosoever rends [garments] for him at the time of his death, rends [garments] for him at the time of [his] bone-collection; and every [rent] which is not resewn at the time of his death, is not resewn at the time of [his] bone-collection.11Sem(H). XII, 3 cited by N and Asheri.",
+      "ref": "Shulchan Arukh, Yoreh Deah 403:2"
+    },
+    {
+      "seif": 3,
+      "he": "עצמות אין עומדין עליהם בשורה אבל אומרים תנחומין לעצמם ואין מברין עליהם בחבר עיר אבל מברין עליהם בביתו ואין אומרים עליהם קינה ונהי אבל אומרים עליהם קילוסין: (דהיינו שבחו של מת ומשבחין להקב\"ה שממית ומחיה) (בטור תמצא מבואר):",
+      "en": "[With respect to] bones [which are collected for final burial], one does not stand for them in the line [of comforters], but one says words of comfort on their own account.12e., one tells the praise of the departed in accordance with their deeds. One does not provide the mourner's meal for them13e., on account of the collected bones. in the town-group,14e., publicly. For the meaning of חבר עיר v. supra § 355 and notes. Sem. has, ‘One does not go up for them etc.’ but one provides the mourner's meal for them in his15Sem(H). has, ‘in the mourner’s house.’ house.16Sem(H). XII, 4; N in T.H.; Asheri. Cf. also Sem(H). XI, 2; ibid. Int. II, 11, pp. 46-47. One does not recite for them lamentations and elegies, but one says for them [words of] praise,17Y.M.K. I, 5(80d) ; Y.Pes. VIII, 7(36b). Thus also Yad, Ebel XII, 6-8; Alfasi; N in T.H.; Asheri. [i.e.,] the praise of the departed [whose bones were collected] and one praises the Lord who puts to death and makes alive.18You will find this explained in the Tur — G.",
+      "ref": "Shulchan Arukh, Yoreh Deah 403:3"
+    },
+    {
+      "seif": 4,
+      "he": "אין מלקטין עצמות אביו במועד ואין צריך לומר עצמות שאר קרובים:",
+      "en": "One may not collect his father's [or mother's] bones on [Hol-] ha-Moed, and needless to say, the bones of other near-of-kin.19Yad, Ebel XI, 3 derived from Mishna M.K. 8a in accord with R. Jose, for the principle is that wherever there is a difference of opinion between R. Meir (who permits this, ibid.) and R. Jose, we rule in accord with R. Jose. The Mishna ibid. adds, ‘for it is an occasion of mourning for him.’",
+      "ref": "Shulchan Arukh, Yoreh Deah 403:4"
+    },
+    {
+      "seif": 5,
+      "he": "שמע שהיום לקטו עצמות אחד מקרוביו שהוא מתאבל עליהם אף על פי שלא היה שם מתאבל עליהם. (אבל שמע שנלקטו אתמול אין מתאבל עליהם) (טור בשם הירושלמי):",
+      "en": "One who heard that today they collected the bones of his near-of-kin for whom he observes mourning rites, — although he was not [present] there, — observes mourning rites for them.20Y. ibid. in accord with R. Ḥaggai. A woman whose husband died and she remarried and subsequently the bones of her first husband were collected for final burial, is not required to observe mourning rites for him on the day that his bones are collected, for her second marriage releases her from her previous relationship — P.Tesh. Cf. supra § 362, n. 16. But if he heard that [the bones] were collected yesterday, he does not observe mourning rites for them.21Tur on the authority of Y. — G.",
+      "ref": "Shulchan Arukh, Yoreh Deah 403:5"
+    },
+    {
+      "seif": 6,
+      "he": "אין מפרקין את העצמות ולא מפסיקין את הגידים:",
+      "en": "One must not take apart the [collected] bones nor sever the sinews.22Sem(H). XII,",
+      "ref": "Shulchan Arukh, Yoreh Deah 403:6"
+    },
+    {
+      "seif": 7,
+      "he": "ליקוט עצמות אינו אלא משיכלה הבשר כלה הבשר אין הצורה ניכרת בעצמות לפיכך יכול ללקט בידו עצמות אביו ואמו ואעפ\"כ נכון הדבר שלא ילקטם הוא עצמו מההיא דרבי אליעזר בר צדוק דבסמוך:",
+      "en": "A collection of bones [for final burial] is made only after the flesh has become decomposed;23Sem(H). XII,  [for] once the flesh is decomposed, the shape of the corpse is no longer discernible through the bones.24This refers to a case where he himself collects the bones. However, if the collection is made before decomposition, he has to observe mourning for the entire day.  supra § 375,  Therefore, one may collect by himself25Lit. ‘with his hand.’ his father's and mother's bones. Yet, it is [more] proper that one should not collect them by himself. [This is derived] from that [which is related] about R. Eliezer b. Ẓadok [as stated] anon.",
+      "ref": "Shulchan Arukh, Yoreh Deah 403:7"
+    },
+    {
+      "seif": 8,
+      "he": "מלקט אדם עצמות שני מתים כאחד בראש אפרסקל מכאן ובראש אפרסקל מכאן דברי רבי יוחנן בן נורי ר\"א אומר סוף אפרסקל להתעכל וסוף עצמות להתעכל ונמצאו עצמות שני מתים מתערבים אלא מלקטין ונותנין כל אחד לעצמו בארון של ארזים א\"ר אליעזר בר צדוק כך אמר לי אבא בשעת מיתתו מתחלה קברוני בבקעה ולבסוף לקוט עצמותי ותנם בארזים ואל תלקטם אתה בידך שלא יהיו בזויות עליך:",
+      "en": "A person may collect the bones of two corpses at one time, [viz., he places the bones of one corpse] at the end of [his] epikarsion26The text has אפרסקל a corruption of אפיקרסין a sheet or anything similar to that.  supra § 340, n. 59. on one side, and [the bones of another corpse] at the [other] end of the [same] epikarsion26The text has אפרסקל a corruption of אפיקרסין a sheet or anything similar to that.  supra § 340, n. 59. on the other side. These are the words of R. Joḥanan b. Nuri. R. Akiba27Thus in Sem. says, eventually the epikarsion will rot and it will turn out that the bones of two corpses will be mixed up [which is forbidden]; [therefore], one should rather collect and place [the bones of] each one separately in a coffin of cedar wood. Said R. Eliezer b. Ẓadok, — thus said my father to me at the time of his death, — 'At first bury me in a depression28Lit. ‘a valley.’  supra par. 1, n. 1; § 363, 4; § 362, n. 3. and later [after the flesh is decomposed] collect my bones and place them in [a coffin] of cedar wood and do not collect them yourself,29Lit. ‘with your hand.’  A.H. who asks why R. Eliezer b. Zadok stated on the authority of his father not to collect the bones himself. In any case this was impossible since he was a Kohen? (v. supra par. 1, n. 9).  however, Ya’abeẓ, Toledoth Yisrael VI, pp. 281-282. so that they do not become reprehensible to you'.30Sem(H). XII, 8-9.",
+      "ref": "Shulchan Arukh, Yoreh Deah 403:8"
+    },
+    {
+      "seif": 9,
+      "he": "המלקט עצמות והמשמר את המת והמוליך אותם ממקום למקום פטור מק\"ש ומתפלה ומהתפילין ומכל מצות האמורות בתורה בין בחול בין בשבת לא שנא עצמות קרובים לא שנא עצמות רחוקים בין אם הוא בספינה או בדרך ואפילו אם הם מלקטים רבים ואם רצה להחמיר על עצמו לא יחמיר מפני כבוד עצמות:",
+      "en": "One who collects bones [for final burial] and one who guards the corpse and the one who carries them from place to place is exempt from the reading of the Shema,8 Glos. and supra § 341. from Tefillah,8 Glos. and supra § 341. from Tefillin8 Glos. and supra § 341. and from all religious duties enjoined in the Torah, both during a weekday as well as during the Sabbath,31This applies on the Sabbath only to guarding the corpse or the bones, for no collection of bones is made on the Sabbath. and there is no difference whether [these are] the bones of near-of-kin or of strangers, both if he is in a boat or on the road, even if the collectors [of the bones] are many.32This refers to those who collect the bones, but if there are many who guard the corpse or the bones, one guards and the other reads the Shema (v. O.Ḥ. § 71, 4) — ShaK. Cf. also supra § 341, 6, n. 51. If one desires to place himself under greater stringencies [than the law requires] he should not do so out of deference [to the collected] bones.32This refers to those who collect the bones, but if there are many who guard the corpse or the bones, one guards and the other reads the Shema (v. O.Ḥ. § 71, 4) — ShaK. Cf. also supra § 341, 6, n. 51.",
+      "ref": "Shulchan Arukh, Yoreh Deah 403:9"
+    },
+    {
+      "seif": 10,
+      "he": "המוליך עצמות ממקום למקום ה\"ז לא יתנם בשק או בדסקיא ויניחם על החמור וירכב עליהם מפני שנוהג בהם מנהג בזיון אבל אם מפשילו לאחוריו על החמור שפיר דמי ואם היה מתיירא מפני הגנבים והלסטים מותר: הגה והחי יתן אל לבו דברים של מיתה דיספד יספדוניה דיקבר יקברוניה דיטעון יטענוניה דידל ידלוניה וגדול השלום שניתן לצדיקים שבשעה שהצדיק נפטר ג' כתות של מלאכים נותנים לו שלום (הכל בטור והרא\"ש וכל בו) ואומרים יבא שלום (כל הכתוב לחיים קדוש יאמר לו) : בלע המות לנצח ומחה ה' אלהים דמעה מעל כל פנים: תם ונשלם שבח לאל בורא עולם",
+      "en": "One who carries bones from place to place should not put them in a sack or saddle-bag and place them across [the back of] an ass and sit on them, because it is a disrespectful way of treating them;33Ber. 18a. Cf. supra § 282, 3. The same would apply to one who transports the bones by any other means of conveyance — A.H. but if he throws it34The sack containing the bones. over his shoulder on the ass,35While he sits on the ass. it is all right.36Asheri. However, if he was afraid of robbers and rovers, it is permitted [to sit on them].37Ber. ibid. Gloss: [R. Meir used to say, it is written, 'It is better to go to the house of mourning than to go to the house of feasting; for that is the end of all men] and the living will lay it to heart',38Eccl. VII, 2. [viz.,] matters pertaining to death; if one makes a lamentation, others will make a lamentation for him; if one helps at burial, others will bury him; if one carries [the bier], others will carry him; if one raises [his voice in funereal lamentations], others will raise [their voice] for him.39M.K. 28b a.e. Great is the peace that was given to the righteous, for when a righteous man departs [this world] three companies of ministering Angels extend to him a greeting of peace,40Tur, Asheri and Kol Bo — G. and exclaim, 'He shall enter into peace'.41Is. LVII, 2.  entire passage in Ket. 104a. (And everyone that is written unto life shall be called holy).42 Is. IV, 3.'HE WILL SWALLOW UP DEATH FOR EVER; AND THE LORD GOD, WILL WIPE AWAY TEARS FROM OFF ALL FACES'.43Is. XXV, 8, cited in last Mishna of M.K. (28b) as a comforting conclusion.",
+      "ref": "Shulchan Arukh, Yoreh Deah 403:10"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא מ\"ק דף ח' ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 403:1"
+        },
+        "2": {
+          "he": "הרמב\"ן בסת\"ה וכ\"כ הרא\"ש בפ\"ק דמ\"ק מברייתא דאבל רבתי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 403:2"
+        },
+        "3": {
+          "he": "שם וכ\"כ ר' ירוחם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 403:3"
+        },
+        "4": {
+          "he": "כפי' התוס' שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 403:4"
+        },
+        "5": {
+          "he": "ברייתא באבל רבתי פי\"ב וכתבוהו הרמב\"ן שם והרא\"ש שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 403:5"
+        },
+        "6": {
+          "he": "ברייתא באבל רבתי וכתבוהו הרמב\"ן שם והרא\"ש שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 403:6"
+        },
+        "7": {
+          "he": "ברייתא שם וכתבוהו שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 403:7"
+        },
+        "8": {
+          "he": "ברייתא ירושלמי וכתבוהו הרי\"ף בסוף פ\"ק והרמב\"ן בסת\"ה והרא\"ש בפרק דמ\"ק והרמב\"ם פי\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 403:8"
+        },
+        "9": {
+          "he": "לשון הרמב\"ם בפי\"א ממשנה מ\"ק דף ח' ע\"א וכרבי יוסי כפי הכלל שבידינו ר\"מ ורבי יוסי הלכה כרבי יוסי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 403:9"
+        },
+        "10": {
+          "he": "ירושלמי וכרבי חגי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 403:10"
+        },
+        "11": {
+          "he": "ברייתא באבל רבתי וכתבוהו הרמב\"ן בסת\"ה והרא\"ש בפ\"ק דמ\"ק:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 403:11"
+        },
+        "12": {
+          "he": "שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 403:12"
+        },
+        "13": {
+          "he": "שם בברייתא וכרבי יוחנן בן נורי דמסתבר טעמיה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 403:13"
+        },
+        "14": {
+          "he": "ברייתא שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 403:14"
+        },
+        "15": {
+          "he": "ברייתא ברכות דף י\"ח ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 403:15"
+        },
+        "16": {
+          "he": "הרא\"ש שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 403:16"
+        },
+        "17": {
+          "he": "ברייתא משמיה דרבי מאיר מ\"ק דף כ\"ח ע\"ב ובכמה דוכתי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 403:17"
+        },
+        "18": {
+          "he": "כתובות דף ק\"ד ע\"א ונלע\"ד דהטעם בג' כתות מלאכים אלו משום דהתורה ומעשה הצדיקים בג' דברים במחשבתם הטובה ודיבור ומעשה וכמ\"ש הרמב\"ן בפירוש החומש בפרשת וירא ופרי מעשיהם כגמול ידיהם ישלם להם. יהי רצון שנזכה ג\"כ שזה יהיה חלקנו וכבוד ה' יאספנו ברוך ה' לעולם אמן ואמן:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 403:18"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "ואין אנינות כו'. כלומר שיאסר קודם שיקברו העצמות באכילת בשר ושתיית יין כדין אונן לעיל סימן שמ\"א אלא מיד חל עליו האבלות אף קודם שקברם וע\"ל סימן שע\"ה ס\"ז. כהן אינו רשאי ללקוט עצמות אביו דשמא נחסר אביו סא\"ז מ\"ו פירוש אם נחסר כל שהוא מאביו אסור ליטמא לו כדלעיל סוף סי' שע\"ג עכ\"ל דרישה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 403:1"
+        },
+        "2": {
+          "he": "אינו אלא משיכלה הבשר. כלומר לענין זה שילקטם הוא בעצמו וכדמפרש ואזיל אבל אה\"נ דאף כשלא כלה הבשר חייב להתאבל כל היום כדלעיל סימן שע\"ה סעיף ז' ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 403:2"
+        },
+        "3": {
+          "he": "ואפי' הם מלקטים רבים. דוקא מלקטים רבים אבל משמרים רבים זה משמר וזה קורא וכמ\"ש בא\"ח סימן ע\"א ס\"ד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 403:3"
+        },
+        "4": {
+          "he": "מפני שנוהג בהם כו'. עיין לעיל סימן רפ\"ב סעיף ג':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 403:4"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "המלקט עצמות. [עי' בתשובת חתם סופר סי' שנ\"ג שכתב ע\"ד קברות ישנות שאינם משומרות כי שולטין במתיהם וגם שטף מים רבים אליו יגיעו ורוצים לפנותו אל בית הקברות חדשה פשוט דמצוה לפנותו כמ\"ש הרב ר\"ס שס\"ג וגם זה פשוט שצריכים הקרובים לקרוע ולהתאבל ביומו וכל היודע כי יפנו היום עצמות קרוביו פטור מכל המצות עד שהביאם למנוחתם בקבר ואחר הקבורה מתאבל עד הערב וחייב לקרוע בשעת פינוי או בשעת שמועה אבל טוב לעשות תקנה ואיסור שלא להודיע לשום אדם שהגיע היום פינוי עצמות קרוביו רק בעלי ח\"ק ג\"כ יבררו כל יום ביומו אנשים שלא יגיע לקרובי עצמם ביום ההוא והוא מג\"ח דהתורה חסה על ישראל וביטול זמניהם ושוב אחר שנעשה תקנה זו בפומבי ע\"י הרב ובד\"צ שוב אם יארע שאמר לו עד א' כן א\"צ להאמינו כיון שהוא עבריין ועובר על תקנת הקהל. ומ\"ש מהר\"ם פישלש בתשובת נו\"ב קמא סי' פ\"ט (הובא קצת לעיל ר\"ס שס\"ג) א' מהטעמים שלא יפנו העצמות מפני ביטול מצות באותו היום ולא כתב אותה תקנה הנ\"ל היינו לפי שהיה עיר קטנה וביום א' החל וכלה כל העצמות הקבורים א\"כ באותו היום ידעו כל בני העיר כו'. ובענין קבורת העצמות שאם יקברו כל מת בפ\"ע ימלאו קברות החדשה בעצמות ולא ישאר מקום שם קבר הנה לשון הטור (והש\"ע לקמן ס\"ח) ונותן כ\"א לעצמו בארון של ארזים. הפרישה הוכיח דליכא קפידא בקבורתם בגומא א' דדוקא בעירוב עצמות קפיד רבי עקיבא אבל אם לא יתערבו ויהיו מונחים עצמות מב' מתים בגומא אחת ליכא קפידא ומה שאמר ר\"ע להניחם בארון ארזים היינו להניח בארון א' עצמות כמה מתים כל גל בפ\"ע כו' ואף אם לא יהיה כן כוונת הטור לדינא נ\"ל כי דברי הפרישה נכונים. ומהיות טוב יעשו ארון ארוך ובין כל עצמות מת א' יעשו בתוכו מחיצה של עפר דק וטוב יותר של חרס או רעפים שאינו ממהר להתעכל שאף אם יתעכלו נסרי הארון ויפלו העצמות לחוץ יהיו מובדלים במחיצה הנ\"ל. ואם רוצים יכולים להעמיק הגומא אך באופן שלא יגיעו שם מים ויכולים לעשות כמה ארונות זע\"ז בהפסק עפר בתנאי שתהיה המחיצה המפסקת בין עליונה ותחתונה מעובה קצת יותר באופן שלא יכבד משא העצמות העליונה על התחתונים דא\"כ הוי גנאי יותר מדאי ובארוך עצמו יכולים לעשות הפסקות מחיצות של חרסים כנ\"ל אבל בגובה בין ארון לארון צריך דוקא הפסק עפר שראוי שיתעכל כל העליון אבל להפסיק במחיצה של חרס בגובה אינו נכון דאינו ממהר להיות עפר ומצוה שיעשה עפר כמ\"ש הטור וב\"י סי' שס\"ג ע\"ש באריכות]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 403:1"
+        },
+        "2": {
+          "he": "עצמות א' מקרוביו. [עי' בתשובת חתם סופר סי' שנ\"ה דאשה שמת במלה ונשאת לאחר ואח\"כ ליקטו עצמות בעלה הראשון אינה מחויבת להתאבל ביום ליקוט עצמות. ואפילו גוף האבילות כגון שמת ונתייאשו לקברו אחר שכבר נשאת לאחר עי' סי' שע\"ה ס\"ו אפשר שאינה מתאבלת ומכ\"ש יום ליקוט עצמות דנשואין שניים מפקיעים קורבת הראשון לגמרי כו' וממילא שאינה ראויה להראות אבילות על בעל הראשון בפני בעלה השני ודרכיה דרכי נועם וכל נתיבותיה שלום ע\"ש]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 403:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "אנינות.  כלומר שיאסר קודם שיקברו העצמות באכילת בשר ושתיית יין כדין אונן לעיל סי' שמ\"א אלא מיד חל עליו האבלות אף קודם שיקברם ע\"ל סי' שע\"ה ס\"ז. כהן אינו רשאי ללקט עצמות אביו דשמא נחסר אביו סא\"ז פי' אם נחסר כל שהוא מאביו אסור ליטמא לו כדלעיל ס\"ס שע\"ג דרישה עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 403:1"
+        },
+        "2": {
+          "he": "משיכלה.  כלומר לענין זה שילקטם הוא בעצמו כדמפרש ואזיל אבל אה\"נ דאף כשלא כלה הבשר חייב להתאבל כל היום כדלעיל סי' שע\"ה ס\"ז. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 403:2"
+        },
+        "3": {
+          "he": "רבים.  כתב הש\"ך ודוקא מלקטים רבים אבל משמרים רבים זה משמר וזה קורא וכמ\"ש בא\"ח סי' ע\"א ס\"ד (ודין מקום הקבר שנלקטו ממנו העצמות אם מותר לקבור בו מתים אחרים ע\"ל סי' שס\"ג ושס\"ד. וע' בתשו' ש\"י שאלה פ\"ז):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 403:3"
+        },
+        "4": {
+          "he": "שנוהג.  ע\"ל סי' רפ\"ב ס\"ג. והרחמן יגדור פרצת עמו ישראל וינחם אותם בבנין ירושלים במהרה בימינו אמן כן יהי רצון:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 403:4"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

@@ -1,0 +1,397 @@
+{
+  "chelek": "OC",
+  "siman": 119,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 4,
+  "fetchedAt": "2026-07-07T23:40:46.272Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין הרוצה להוסיף בברכות. ובו ד סעיפים:אם רצה להוסיף בכל ברכ' מהאמצעיות מעין הברכה מוסיף כיצד היה לו חולה מבקש עליו רחמים בברכת רפאינו היה צריך פרנסה מבקש עלי' בברכת השנים ובשומע תפל' יכול לשאול כל צרכיו שהיא כוללת כל הבקשו': הגה וכשהוא מוסיף יתחיל בברכה ואח\"כ מוסיף אבל לא יוסיף ואח\"כ יתחיל הברכה (טור סימן תקס\"ז) ולהר\"ר יונה כשמוסיף בברכה מעין אותה ברכה אם מוסיף אותה בשביל כל ישראל אומר אותה בלשון רבים ולא בלשון יחיד ולא יוסיף אלא בסוף הברכ' ולא באמצע ואם שואל צרכיו ממש כגון שיש לו חולה בתוך ביתו או שהוא צריך לפרנסה יכול לשאול אפילו באמצע הברכה והוא שישאל בלשון יחיד ולא בלשון רבים ובברכת שומע תפלה וכן בסוף התפלה בין קודם יהיו לרצון בין אחריו יכול לשאול בין בלשון יחיד בין בלשון רבים בין צרכיו ממש בין צרכי רבים:",
+      "en": "The Laws of the One Who Wants To Add [Personal Prayers] In The Blessings.  Containing 4 S'ifim:If one wanted to add in any of the middle blessings, something similar the blessing, one may add. How so? If one had a sick person, one asks for mercy for [that person] in the blessing of \"Refa'einu\" [\"Heal us\"]. If one needs a livelihood, one may ask for it in the \"Blessing of the Years\". And in [the blessing] of \"Shomeya Tefilla\" [\"Who hears prayers\"], one may ask for any of one's needs, for it includes all the requests. Gloss: And when one adds, one should begin the blessing and, after that, add, but one should not add and then begin the blessing (Tur 567). And according to Rabbeinu Yona, when one adds to the blessing something similar to that blessing, if one is adding it on behalf of all of Israel, one says it in plural language and not singular language, and one should only add at the end of the blessing and not the middle. And if one is asking specifically for one's own needs, for example: there is a sick person in one's home or one needs a livelihood, one can ask even in the middle of the blessing, as long as one does so in singular language and not plural language. And in the blessing of  \"Shomeya Tefilla\" and similarly at the end of prayer, either right before \"Yihyu l'ratzon\" [\"May it be acceptable before You\"] or after it, one may ask in either singular language or plural language, whether it is specifically for one own needs or for of the public.",
+      "ref": "Shulchan Arukh, Orach Chayim 119:1"
+    },
+    {
+      "seif": 2,
+      "he": "יש מי שאומר שכשמוסיף בברכה לצורך יחיד לא יאריך:",
+      "en": "There is one [authority] who says that when one adds to a blessing for one's individual needs, one should not make it lengthy.",
+      "ref": "Shulchan Arukh, Orach Chayim 119:2"
+    },
+    {
+      "seif": 3,
+      "he": "אם דילג או טעה בברכה אחת מהאמצעיות אינו צריך לחזור אלא לראש הברכה שטעה או שדילג ומשם ואילך יחזור על הסדר:",
+      "en": "If one skipped [something] or erred in one of the middle blessings, one only needs to go back to the beginning of the blessing in which one made the mistake in or skipped [something];  and from that point onwards, one goes back in the order [of the rest of the Amidah].",
+      "ref": "Shulchan Arukh, Orach Chayim 119:3"
+    },
+    {
+      "seif": 4,
+      "he": "שליח צבור שגמר גואל ישראל ושכח ולא אמר עננו לא יחזיר אפי' אם עדיין לא גמר רק רפאינו ואם חזר ברכה לבטל' היא  (אלא יאמר עננו בשומע תפלה כיחיד):",
+      "en": "A prayer leader who finished [the blessing of] \"Go'el Yisrael\" [\"Redeemer of Israel\"] and did not say \"Aneinu\" [\"Answer us\"] [on a fast day] does not go back, even if one had still not finished [the immediate next blessing of] \"Refa'einu\" [\"Heal us\"]. And if one did go back, it is an empty blessing (Rather, one should say \"Aneinu\" in [the blessing of] \"Shomeya Tefilla\" as an individual does)",
+      "ref": "Shulchan Arukh, Orach Chayim 119:4"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ע\"א ח' והרי\"ף בפ\"ה דברכות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 119:1"
+        },
+        "2": {
+          "he": "שם ממשמעות הגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 119:2"
+        },
+        "3": {
+          "he": "מרדכי שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 119:3"
+        },
+        "4": {
+          "he": "ברכו' ל\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 119:4"
+        },
+        "5": {
+          "he": "תוס' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 119:5"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "ובש״ת עמ״א מלשון המחבר בשאר ברכות דוקא אם צריך ובש״ת אפי׳ על העתיד רשאי לבקש שלא יחסר לחמו עא״ר ב׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 119:1"
+        },
+        "2": {
+          "he": "ובברכת עמ״א בשם ב״ח דש״ת דומה לשאר ברכות לענין זה דבאמצע אסור לשאול בלשון רבים ומיהו ציבור בעצמם אומרים באמצע כמו סליחות:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 119:2"
+        },
+        "3": {
+          "he": "בין עמ״א בקכ״ב (ט״ס רק קנ״ב) ס״ב ועב״י שם בשם הרר״י שי״ל יהיו לרצון מיד אחר י״ח וכן ציין באר הגולה שם אות ג׳ וזה דלא כמ״ש הרר״י כאן ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 119:3"
+        },
+        "4": {
+          "he": "בברכה עמ״א וזה הדין הד׳ של רבינו יונה החילוק בין תחנונים של אחר התפל׳ אפי׳ לצורך יחיד רשאי להאריך כיוה״כ ועיין נ״ץ ושאר פוסקים ומ״ש מהרי״ל רבים צריכים כאות ב׳ דציבור שרי:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 119:4"
+        },
+        "5": {
+          "he": "אם עמ״א בק״ד במ״א אות ו׳ וקי״ד אות ט׳ ושם כתבנו החילוק בטעה באמצע ולא סיים הברכה חוזר למקום שטעה לבד יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 119:5"
+        },
+        "6": {
+          "he": "רק עמ״א אבל כ״ז שלא סיים ברכת רפאנו אומר ענינו וכ״כ הט״ז אות ד׳ ודברי הלבוש כתבתי בט״ז מזה ועמ״ש באות ז׳ בהא דצריך לומר על הסדר אי הפירוש משום ענינו או על הסדר של ח״י ברכות:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 119:6"
+        },
+        "7": {
+          "he": "ענינו עמ״א מה שכתב בעבודה א״י ואנן קיי״ל בדברים שאין מחזירים אם סיים ש״ת תו אין אומרה וכמ״ש הט״ז אות ד׳. ומ״ש בענינו בין סלח לראה נא הנה בט״ז כתבנו קצת מזה והנה הצידוד הוא בב׳ פנים או דענינו צ״ל ג״כ על הסדר או ענינו לא איכפת לן כ״כ דהא אם לא אמר כלל אין מחזירין ואיך יעכב סדרו (וכתבנו בט״ז עוד טעם כי ח״י על הסדר עולם נתקנו משא״כ ענינו רק סמך בעלמא ולא נהוג תמיד רק בתענית) והשתא מיבעיא ליה אם צ״ל ענינו אחר ראה נא כי סדרו מעכב או סדרו אין מעכב דאין מחזירין ג״כ. אלא דעדיין יש לצדד נהי סדרו אין מעכב מ״מ סדר ח״י מעכב וכמ״ש באות ו׳ דאם סיים רפאנו יצטרך לומר פעם שנית רפאנו והיינו שלא יהא הפסק בין רפאנו לגואל כ״ש כאן שיש הפסק בין סלח לרפאנו. וקשיא מה יועיל שיאמר שנית ענינו ואם לומר שיחזור ויאמר סלח ג״כ זה לא ניתן להאמר ועוד מה כל שכן. ואם נאמר דאסידרא דח״י ברכות ועם ענינו קפדינן הוי א״ש וכ״ש הוא ששם אמר רפאנו אחר סלח כו׳ אלא די״ל אסידרא דח״י קפדינן לא ענינו וכמ״ש דאין מחזירין כ״ש דלא קפדינן אסידרא וכעת לא הבינותי דברי האדון ז״ל בזה. עמ״ש בט״ז ד׳ מדברי הפר״ח בזה יע״ש מ״ש לעיין ביה בדבריו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 119:7"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "יתחיל עט״ז עב״י ובלבוש כתב עוד טעם דהוי הפסקה יע״ש ועיין פרישה הקשה פשיטא שלא יתחיל מקודם שהתחיל הברכה ופירש הוא ז״ל דה״פ בטור בתקס״ו בסלח לנו מרבים סליחות אעפ״י שאומרים שאר דברים שאין מענין סליחה הואיל והתחיל מעין הברכה יע״ש ולי ההדיוט אפשר לומר שיתחיל בברכה שיהא מאמר שלם כמו אתה חונן לאדם דעת ויבקש שיתן לו ה׳ דיעה כו׳ אבל להתחיל רק מלת אתה לבד וכדומה להתפלל מיד זה לא יתכן:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 119:1"
+        },
+        "2": {
+          "he": "ולהרר״י עט״ז וכ״כ הלבוש בפירוש רק שלשה דינים ועיין נ״ץ. ועט״ז קכ״ב אות ב׳ בזה ועמ״ש כאן אות א׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 119:2"
+        },
+        "3": {
+          "he": "יחזור עט״ז ברכות ל״ד א׳ פירש״י ותוספות ופסקו בתוס׳ ושאר פוסקים דא״צ לאתה חונן אבל על סדר הברכות צ״ל. ואם במזיד בקי״ד ס״ז חוזר לראש התפלה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 119:3"
+        },
+        "4": {
+          "he": "ולא עט״ז החילוק בין משיב הרוח ובין ענינו דש״ץ ובין ענינו דיחיד הוא כך דמשיב הרוח עיקרו בתוך הברכה ולכך כשנזכר בין ברכה לברכה או דכבתוך הברכה דמי כמו שכתב הלבוש עסי׳ קי״ד ובמ״א ח׳) או דהקילו בזה אבל התחיל אתה לבד תו הפסיק וצריך לחזור משא״כ בענינו דש״ץ שעיקרה בין ברכה לברכה כ״ז שלא אמר בא״י רופא כו׳ לית ברכה לבטלה ואומר ענינו בין ברכה לברכה ומשא״כ ענינו דש״ת ביחיד מדברים שאין מחזירין אם סיים ש״ת א״א ועיין פרישה: כתב א״ר אות ו׳ ש״ץ שאמר קודם ראה ענינו חוזר ואומר אח״כ יע״ש ולי צ״ע דנהי דח״י על הסדר נתקנו כפי׳ רשב״ם ועל סדר עולם ואין להפסיק ביניהם אבל כאן ענינו על הסדר כבסי׳ תקס״ו אפשר דיעבד אין מעכב כ״כ והיה נראה לומר שיחזור לומר סלח וראה על הסדר גם זה אינו וצ״ע. כתב כ״ג ש״צ שעמד בתפלה ולא היה עשרה בביה״כ שהתענו ואמר רפאנו באו דינו כשכח יע״ש בא״ר והיינו שיאמר בש״ת אח״כ. דברי הלבוש כאן ס״ד ובתקס״ז סעיף א׳ צ״ע וכבר העירו בזה וא״ר כאן. ועמ״א אות ז׳ ואי״ה שם יבואר: כתב הפר״ח בסעיף ג׳ דאפי׳ בדילג ברכה שלימה יש לו לכללה בש״ת וראיה מתוס׳ ברכות כ״ט א׳ ד״ה מפני כו׳ ואני העני אין רואה משם ראיה דודאי טל ומטר וכדומה שאין בכל זמן ולא מנוסח הברכה רק שאלה אי שכח אומרה בש״ת והיא כוללת ולכך נתקנה משא״כ ברכה שלימה ואפילו טעה קצת בברכה ודילג איזה תיבות ואמר אח״כ ברכה שלאחריה אין לו תקנה בש״ת כי חיסר מנין הברכות הקבועות ומ״ש התוס׳ הבדלה לאו ברכה שלימה היה ומה דפריך שם ולכללים בש״ח אע״ג דהביננו כל מלה הוי במקום ברכה מ״מ טל ומטר אין מהקביעות ועסי׳ ק״י בדין הביננו ואם דיעבד התפלל הביננו בביתו אם יצא. ומ״ש הפר״ח סעיף ז׳ ברכת רפאנו יש שם חיסור מלת ל״א יע״ש ופסק בט״ז ומ״א כ״ז שלא סיים בא״י רופא חוזר ואומר ענינו וכן הלכה יע״ש. עמ״ש בקכ״ג אות ב׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 119:4"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] ובשומע תפילה וכו' כי אתה שומע תפילה כל פה. פ\"ה בגימטריא מילה (ר' דוד אבודרהם). כתב בסדר היום צריך שיתוודה בשומע תפילה ויאמר אנא ה' חטאתי עויתי פשעתי מחול חטאתי וסלח עוונותי וכפר פשעי מכל אשר חטאתי ועויתי ופשעתי לפניך מיום היותי על האדמה עד היום הזה ואם יש לו איזה עוון מחודש באותו יום מזכיר אותו בתפילה הקודמת אצלו שחרית או מנחה או ערבית, ונראה לי שאם מתודה בסלח לנו לא יתודה כי אם בלשון רבים ובברכת שומע תפילה יאמר אפילו בלשון יחיד, עד כאן. טוב לשאול שם על מזונותיו אפילו הוא עשיר (כתבים). כתב באבודרהם המון עם קורין שומע תפילתינו ותחנונינו ואין להחזיק כל כך כצדיקים, אלא נכון לומר שומע תפילות ותחנונים אתה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 119:1"
+        },
+        "2": {
+          "he": "[ב] [לבוש] והוא שיאמר אותו בלשון יחיד וכו'. פירוש כשאומר באמצע הברכה, אבל בסוף הברכה אומר בלשון רבים. ומשמע בפירוש דדוקא כשיש לו חולה או צריך פרנסה, אבל להתפלל על העתיד אין להוסיף בברכות אלא אומרה בשומע תפילה, ועיין סימן תקנ\"ז בדין נחם בסעיף ב' ובבית יוסף. וזה לשון לחם חמודות דף מ\"ב צריך שיהא לו כן ולא שיוסיף בעלמא מבלי שיצטרך הוא לכך או אחר שמתפלל בעדו, עד כאן. המתפלל על חבירו שלא בפניו צריך להזכיר שמו, כן כתב מהרי\"ל. עוד שגזרו ציבור תענית ואמרו סליחות בשביל שחלה מהרי\"ל:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 119:2"
+        },
+        "3": {
+          "he": "[ג] לא יאריך וכו'. בסוף התפילה אחר יהיו לרצון רשאי, נחלת צבי. ואפילו כשאינו מאריך ואמרו בשומע תפילה, כתב הב\"ח דלא יוסיף באמצע הברכה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 119:3"
+        },
+        "4": {
+          "he": "[ד] טעה או דילג וכו'. פירוש טעה ששינה בה ולא אמרה כתיקון חכמים, ודילג משמעו שדילג הברכה לגמרי, וכל זה בשוגג אבל במזיד עיין לעיל סימן קי\"ד, כן כתב הב\"ח:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 119:4"
+        },
+        "5": {
+          "he": "[ה] שליח ציבור שגמר וכו'. כתב בית יוסף זה לשונו, ומה שכתב הטור שאם שכח שליח ציבור ענינו יאמר במקום שנזכר, ויותר נראה לומר אותו בשומע תפילה, וכן כתב המנהיג עד כאן לשונו. וכתב מעדני מלך דף מ\"ב תמיהני על בית יוסף שלא הזכיר שגם תוס' ורא\"ש כתבו דיאמרו במקום שנזכר, אבל נראה דאישתמיטתיה עד כאן לשונו, וכתבתי באליהו זוטא אי אפשר לומר דאישתמיטתיה זה לבית יוסף דהא מיד קודם זה הביא דברי תוס' והרא\"ש בענין זה. אלא נראה לי בהקדים קושיא גדולה שקשה לי על בית יוסף דלמאי כתב זה, הא הטור כתב דאומרה במקום שנזכר, וכן כתב לפירוש רש\"י דסבירא ליה אמצעיות אין להם סדר, אבל להרשב\"ם דקיימא לן כוותיה כמו שכתב בית יוסף דצריך לאומרן כסדר לא כתבו הטור כלל לאומרה במקום שנזכר, וטעמא משום דהיה צריך לומר לחזור ולהתחיל מרפאינו ולאומרם כסדר וזה אי אפשר משום ברכה לבטלה וכן משמע בתוס' [ברכות] דף ל\"ד והרא\"ש. עוד ראיתי בכנסת הגדולה שתמה על בית יוסף דלרש\"י אין עדיפות בשומע תפילה יותר מבשאר ברכות, וכן תמה הב\"ח ופריך עוד הוסיפו לתמוה דאפשר דהמנהיג דפוסק לאומרה בשומע תפילה היינו לפירוש רשב\"ם, ואני אוסיף שבא לידי ספר המנהיג וראיתי שכתב בהדיא אליבא דרשב\"ם. לכן נראה לי לישב כל התמיהות בחדא מחתא, הבית יוסף דקדק מדשינה הטור מלשון הרא\"ש, דהרא\"ש כתב תחילה פירוש רשב\"ם, וכתב דלדבריו אם שכחה במקומו ולא אמרה אינו אומרה כי היה צריך לומר אחר כך כל סדר הברכות והוי ברכה לבטלה, ואחר כך כתב אבל לפירוש רש\"י אומרה במקום שנזכר ואין כאן ברכה לבטלה, עד כאן, משמע דלרשב\"ם אינה אומרה אפילו במקום שנזכר כפשטות לשונו שכתב אינו אומרה ורצה לומר דאין אומרה כלל, אבל הטור שינה וכתב תחילה פירוש רש\"י שאומרה במקום שנזכר פירוש שמתחיל מן רפאינו, ואחר כך כתב פירוש רשב\"ם שאם שכח ענינו לא יחזור וכו' משמע דלא יחזיר להתחיל מרפאינו, אבל מכל מקום ענינו אומר במקום שנזכר, וכן כתב בתשובת מנחם עזריה סימן קי\"ב הבין כן דברי רשב\"ם וכן סלקא דעתא דתשובת רש\"ל סימן ס\"ג. ואם כן יפה כתב הבית יוסף עלה דיותר טוב לאומרה בשומע תפילה ושכן כתב המנהיג, כי קאי הנזכר לעיל אליבא דרמב\"ם והכל ניחא בסעייתא דשמיא. גם תמיהת מעדני מלך מתורץ בדהכי דתוס' והרא\"ש לא כתבו דאומרה במקום שנזכר אלא אליבא דרש\"י דלא קיימא לן כוותיה ולא לפירוש רשב\"ם ודו\"ק, והגדולים הנזכרים לעיל הניחו לי מקום, בביאורי לטור הארכתי יותר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 119:5"
+        },
+        "6": {
+          "he": "[ו] גואל ישראל וכו'. בלבוש סיים כל שכן שאמר יותר אין צריך להחזיר ולברך ראה נא בעניינו, ותימא הא לעולם מסיימין גואל ישראל ומתחילין בענינו, גם מה שכתב דאין צריך לחזור ולברך ראה נא בענינו תמוה הא אף שצריך לחזור אינו חוזר אלא לענינו וכמו שכתב הטור וכן הדין בכל הברכות אמצעיות שחוזר לברכה שטעה בה. שוב מצאתי בדרישה שכתב זה לשונו אני אומר שיש טעות סופר בלבוש וצריך לומר וחותם רופא חולי עמו ישראל אין צריך לחזור לברכת ענינו שאם חוזר היה צריך לחזור ולברך ברכת רופא חולי וכו' כן צריך לומר עד כאן לשונו. מבואר מזה דאף שפתח רפאינו ה' חוזר ואומר ענינו וכו' רפאינו כו' כל זמן שלא חתם הברכה, ומה שכתב השולחן ערוך גמר רפאינו היינו ברכת רפאינו, ועולת תמיד הבין דתיבת רפאינו קאמר וליתא, וכן כתב הב\"ח להדיא ולחם חמודות ופסקי תוס' ותשובת מנחם עזריה סימן קי\"א, וכן משמע בבית יוסף בשם המרדכי וכן כתבו הט\"ז ומגן אברהם, ולכן תמיהני על עולת תמיד שכתב דאחר שאמר רפאינו ה' אינו חוזר כדי שלא יוציא שם שמים לבטלה ולא הזכיר מכל הפוסקים הנזכרים לעיל מידי. ונראה דאשתמיטתיה ובאמת בתשובת רש\"ל סימן ס\"ג משמע לי כעולת תמיד, ומכל מקום דעת רש\"ל בטלה נגד כל הגדולים הנזכרים לעיל. אך קשה לי משאלה סימן קי\"ד דאם שכח והתחיל ברכה שאחריה אינה אומרה שם, וכן הדין ביעלה ויבוא. ונראה לי לחלק דהנך נתקנו לומר באמצע הברכה ואם כן כיון שהתחיל הברכה שלאחריו נסתלקו הברכה קודמת, אבל ברכת ענינו שנתקנו בין ברכת גואל לרופא דהיינו אחר גואל וקודם רופא כל זמן שלא סיים ברכת רפאינו חוזר ואומרה. ועוד יש לומר כיון שענינו ברכה בפני עצמו שאני, וכן עיקר לדינא ואין לשנות:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 119:6"
+        },
+        "7": {
+          "he": "[ז] יאמר ענינו בשומע תפילה וכו'. בכלבו פירש תימא דלקמן סימן תקס\"ז הניח הלבוש בצריך עיון, ולדינא עיקר דבריו דהכא דאומרה בשומע תפילה וכן פסק רמ\"א וכל אחרונים ומדכתב כיחיד משמע שאינו חותם גם בעונה בעת צרה, אלא בשומע תפילה לחוד כיחיד, וכן כתב עולת תמיד וכן משמע בתשובת רש\"ל שם, וכן פסק שיירי כנסת הגדולה, דלא כב\"ח ומגן אברהם. כתב בתשובת רש\"ל שם דאם מסיים גם שומע תפילה ושכח לומר ענינו אומר אחר שים שלום בברכה קודם אלהי נצור כיון שסיים כל הברכות דאפילו ביחיד יש פוסקים הכי, ואף דלא קיימא לן כוותייהו מכל מקום בשליח ציבור קיימא לן הכי, עד כאן. אבל עולת תמיד דחלק עליו דאומרה ביחיד בלא חתימת ברכה, וכן משמע בב\"ח בסוף סימן זה. כתב כנסת הגדולה בשם שלטי גיבורים דאומרה בעבודה אם נזכר, עד כאן, ומתשובת רש\"ל שהבאתי מבואר דאם סיים שומע תפילה שוב אינה אומרה עד אחר סיום שמונה עשרה, גם מכל שאר פוסקים לא נראה כן, ואולי יש טעות סופר בשלטי גיבורים או בכנסת הגדולה וכן משמע למעיין עיין שם. עוד כתב כנסת הגדולה אם לא היו עשרה שהתענו בבית הכנסת כששליח ציבור עומד בין גאולה לרופא, ואחר כך בא לבית הכנסת דינו כשכח. ואם טעה החזן ואמר קודם ראה נא בענינו נראה דחוזר ואומרה קודם רפאינו. ולענין יחיד ששכח ענינו בשומע תפילה והזכיר קודם שהתחיל רצה כתבתי בסימן קי\"ד סעיף ט' דלא יאמרנו שם, אלא כוללה באלהי נצור כדלקמן סימן תקס\"ה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 119:7"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "יתחיל בברכה כו'.  דצריך לעשות עיקר ממטבע שטבעו חכמים ובקשה שלו תהיה טפלה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 119:1"
+        },
+        "2": {
+          "he": "ולהרר\"י כו'.  בגמ' אית' פ\"ק דע\"א תני' רא\"א לעולם ישאל אדם צרכיו  ואח\"כ יתפלל שנ' תפלה לעני כי יעטוף ולפני ה' ישפוך שיחו ואין שיחה אלא תפלה כו' רי\"א לעולם יתפלל אדם ואח\"כ ישאל צרכיו שנ' אשפוך לפניו שיחי צרתי לפניו אגיד וחכ\"א לא כדברי זה ולא כדברי זה אלא שואל אדם צרכיו בש\"ת אר\"י ברי' דרב שמואל בר שילת משמיה דרב אע\"פ שאמרו שואל אדם צרכיו בש\"ת אם יש לו חולה בתוך ביתו אומר בברכת חולים ואם צריך לפרנסה אומר בברכת השנים אמר ריב\"ל אע\"פ שאמרו שואל אדם צרכיו בש\"ת אם בא לומר בסוף כל ברכה וברכה מעין כל ברכה אומר א\"ר חייא בר אשי אמר רב אע\"פ שאמרו שואל אדם צרכיו בש\"ת אם בא לו' אחר תפלתו אפי' כסדר יה\"כ אומר וכתב הרר\"י דין זה מתחלק לד' חלקים. א' שבברכת ש\"ת יכול לשאול צרכיו בכל ענין שירצה שברכת ש\"ת כוללת כל הצרכים ולכך ניתקנ'. והדין הב' שאם בא לומר בסוף כל ברכה מעין כל ברכה אומר ואפי' שלא לצרכו ממש מותר כיון שאומר אותו בל' רבים ומיהו בל' יחיד אסור לאומרה כיון שאינו אומר אותו אלא בשביל כל ישראל והוה הפסק' ודוקא שיכול לאומרה בל' רבים בסוף כל ברכה שכיון שהשלים כבר מה שתקנו חכמים לחיוב גמור אין לחוש במה שמוסיף אח\"כ אבל באמצע הברכה לא דכיון ששואל צורכי רבים באמצע הברכה נראה כמוסיף על המטבע שתקנו חכמים והדין הג' ששואל צרכיו ממש כגון על חולה שיש בביתו שיתרפא יכול לאומרה בל' יחיד ואפי' באמצע הברכה והיינו דאמרינן אם יש לו חולה בתוך ביתו כו'. ולא הזכיר כאן בסוף הברכה אלא ברכת החולה סתם קאמר דמשמע אפי' באמצע הברכה יכול לשאול כל צרכיו כיון שצריך לו לפי שעה והוא שיאמר אותו בל' יחיד שלא ידמה כמוסיף על המטבע. והדין הד' שבסוף התפלה בין קודם יהיו לרצון בין אחר יהיו לרצון יכול להאריך כרצונו בין בל' יחיד בין בל' רבים בין צרכיו ממש בין צרכי צבור עכ\"ל. ולפי הנראה החילוק שבין הדין הא' שהוא ש\"ת ובין הדין הד' שהוא אחר תפלת י\"ח הוא בזה שבש\"ת היחיד מתפלל כל צרכיו ובזה אין חילוק בין באמצע ובין בסוף משא\"כ בשאר הברכות כמ\"ש הרר\"י דלעיל אבל בצרכי רבים ולו א\"צ כלל אין לו ליחיד להזכיר כלל ונראה שלמד זה מל' שאמר שואל אדם צרכיו בש\"ת משמע צרכיו דוקא ומ\"ש בכל ענין שירצה היינו בכ\"מ שהוא רוצה הן באמצע הן בסוף אבל אחר התפלה יכול להתפלל אף צורכי צבור אפי' שאין לו צורך בהם. א\"נ החילוק הוא דבש\"ת יכול לומר כל מה שחפץ רק שלא יאריך אבל אחר י\"ח יכול להאריך וכ\"כ ב\"י בשם המרדכי חילוק זה בין אחר התפלה לשאר ברכות וזה עיקר וא\"כ קשה על מ\"ש הרב כאן בש\"ע שברכת ש\"ת ואחר י\"ח שווים הם לכל דבר א\"כ אין כאן אלא ג' דינים והרר\"י כתב שיש ד' דינים ולפי' בתרא ניחא  דבש\"ע לא זכר כלל מענין להאריך ע\"כ השוה אותם והוא הנכון ומה שאנו אומרים סליחות בברכת סלח לנו בל' רבים באמצע הברכה וזהו היפך ממ\"ש הר\"י בדין שני י\"ל דצבור שאני כו' כ\"כ ב\"י:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 119:2"
+        },
+        "3": {
+          "he": "יחזור על הסדר.  והא דאמרי' אמצעיות אין  להם סדר היינו שא\"צ לחזור לאתה חונן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 119:3"
+        },
+        "4": {
+          "he": "ולא אמר ענינו כו'.  פי' כיון דכבר קי\"ל בשביל ענינו אין מחזירים אותו וכל זמן שנזכר ויכול לחזור ולאומרו ולא יהיה ברכה לבטלה יחזור מ\"ה אם כבר גמר רפאינו ונזכר אי היה חוזר לומר ענינו יצטרך אח\"כ לומר שנית רפאינו עם הברכה שלה ויהיה ברכה לבטלה אבל אם לא אמר עדיין גמר ברכת רפאינו רק נזכר קודם אמירת בא\"י רופא כו' יכול לחזור ולומר ענינו ואח\"כ יאמר רפאינו דאין כאן ברכה לבטלה. והא דנקט כאן ש\"ץ משום דיחיד אומר אותו בש\"ת ואם שכח עד אחר שגמר ש\"ת אע\"ג דלא התחיל רצה א\"ל ענינו שם כיון שאין מחזירין בשביל ענינו כמ\"ש בשם ב\"י בסי' קי\"ד ס\"ו. ואע\"ג דש\"ץ אמרו אפי' אם התחיל רפאנו כ\"ז שלא גמרו היינו משום שהש\"ץ אמרה בברכה בפ\"ע משא\"כ ביחיד שכולל' בש\"ת אין לה שייכות אחר גמר ש\"ת ול\"ד למשיב הרוח בסימן קי\"ד דמחזירין בשבילו וכ\"פ בסי' רצ\"ד. ומו\"ח ז\"ל כתב כאן דיוכל לומר יחיד ענינו בין ש\"ת לרצה ולא דק דהוא ז\"ל עצמו כתב בסי' קי\"ד כב\"י דיש חילוק בזה בין בדבר שמחזירין או לא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 119:4"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "ובש\"ת יכול כו'. וטוב לומר חטאתי עויתי פשעתי ולשאול מזונותיו (הכוונות) אפי' הוא עשיר (כתבים) וכ\"ה בזוהר שמות ע' ק\"ט ק\"י המבקש רחמים על חבירו א\"צ להזכיר שמו (ברכות דף ל\"ד) וה\"מ בפניו אבל כשמתפלל שלא בפניו צריך להזכיר שמו (מהרי\"ל):",
+          "en": "\"It is good to say (in shomea tefillah) I have sinned, transgressed and rebelled. And also to ask for sustenance (From Cavanos). This is true (that one should ask for sustenance) even if one is wealthy (Kesavim). This is also brought in the Zohar see 109 and 110. If one is seeking mercy on someone he does not need to mention his name (Mesechta Berachot). However this is only if the person (your praying for) is before you. If he isn't before you, you do need to mention his name (Mahril).",
+          "ref": "Magen Avraham 119:1"
+        },
+        "2": {
+          "he": "ובברכת ש\"ת. וב\"ח כתב דלהרר\"י אפילו בש\"ת אסור לומר בל' רבים עכ\"ל ומ\"מ צבור שרי אפילו באמצע הברכה [ב\"י]:",
+          "en": "The Bach writes \"according to the Rabbeinu Yonah even in Shomea tefillah one is prohibited from using plural words (in his added tefillah).\" Nevertheless a congregation (like adding piyutim) is allowed (to use plural tefillahs) even in the middle of a bracha [Beis Yosef].",
+          "ref": "Magen Avraham 119:2"
+        },
+        "3": {
+          "he": "בין קודם יהיו. היינו להרר\"י אבל דעת הרב\"י אינו כן כמ\"ש סי' קכ\"ב ס\"ב:",
+          "en": "This is the opinion of the Rabbeinu Yonah but the Beis Yosef disagrees as he says later in siman 122 seif 2 (only ask after saying yihiyu...)",
+          "ref": "Magen Avraham 119:3"
+        },
+        "4": {
+          "he": "בברכה לצורך. אבל אחר תפלתו רשאי להאריך ובליקוטי מהרי\"ל איתא כשחלה מהרי\"ל גזרו הצבור תענית ואמרו סליחות משמע דצבור לצורך יחיד שרי מ\"כ וי\"ל דשאני מהרי\"ל כיון דרבים צריכים לתורתו כרבים דמי וכה\"ג איתא בתשובת הרשב\"א סי' קמ\"ח:",
+          "en": "But after shemonah esrie its permitted to have a lengthy tefillah (even for an individual). In the collections of the Mahril its brought that \"when the Mahril got sick the congregation decreed a fast and said selichot (asking forgiveness).\" This implies a congregation can ask for an individuals needs even in shemonah esrie. One can answer that since a lot of people needed the Mahrils Torah, he was considered a need of many (Shulchan Aruch only prohibited an individuals need). A similar concept is brought in the Rashbas responsa siman 148.",
+          "ref": "Magen Avraham 119:4"
+        },
+        "5": {
+          "he": "אם דילג. פי' שדילג הברכ' לגמרי וטעה פי' שלא אמרה כתיקון חכמים ותרוויהו בשוגג אבל במזיד צריך לחזור לתחלת י\"ח כמ\"ש סי' ק\"ד וסי' קי\"ד ס\"ז ועמ\"ש שם ס\"ו:",
+          "en": "The explanation of the phrase \"skipped\" is that one skipped a beracha in its entirety. The explanation of the term \"mistake\" is that one didn't say the beracha in the manner the Rabbis arranged. Both of these mistakes (skipping and mistake) must have been done accidently because if he intentionally made these mistakes he'd have to go back to the beginning of shemona esrie this distinction (I made) in siman 104 (sief 6) and (the Shulchan Aruch made) in siman 114 sief 7. And see what I say there 114:6 (mistakes in the middle of the beracha you don't go back for, has to be a mistake in end of beracha or forgot hamelech when applicable).",
+          "ref": "Magen Avraham 119:5"
+        },
+        "6": {
+          "he": "רק רפאנו. פי' שחתם ברכת רפאינו ואם יחזור ויאמר ענינו יצטרך לומר רפאינו פעם אחרת דצ\"ל על הסדר ויהיה ברכה לבטלה דאין מחזירין בשביל ענינו אבל אם לא חתם רפאינו יאמר ענינו ואח\"כ רפאנו (מ\"ע סי' קי\"ב ול\"ח וב\"ח) ובלבוש יש כאן ט\"ס:",
+          "en": "(The Shulchan Aruch is) referring to when one finished the entire beracha (he said \"baruch atah Hashem rofie choley amo yisroel\"). In this situation if he'd go back and say aneinu, he'd be forced to say (the beracha of) refaeinu again because (the berachos of shemona esrie) must be said in order (anienu before refaeinu). Since you would have to repeat refaeinu if you went back for anienu, it would turn out that you made a beracha in vain because you don't repeat shemona esrie for aneinu (so just like if you finished shemona esrie and forgot anienu so you repeated it, it would be a blessing in vain. So to if you repeated refaeinu because you went back for anienu, it would be a blessing in vain). However if the chazan did not finish the Beracha of refainu (and he remembers he didn't say aneinu yet) he should go back and say anienu and continue (as normal) with refaeinu (Migdal Oz siman 112, Lechem Chamudos and the Bach). There is a mistake in the text of the Levush here.",
+          "ref": "Magen Avraham 119:6"
+        },
+        "7": {
+          "he": "ענינו בש\"ת. ויחתום בא\"י העונה בעת צרה וש\"ת (הג\"מ פי\"א וב\"ח) ולא הוי חתימה בשתים דפירש\"י בתענית דף י\"ג דברכת ש\"ת בחתימה קאי אתענית ואכל מילי ולכן נ\"ל דאם חתם בש\"ת לבד יצא ע\"ש ברש\"י וכ\"מ בתשובת רש\"ל סי' ס\"ד וה\"ה אם לא היו י' המתענים בבה\"כ ובאו אחר רפאנו אומרה בש\"ת (ש\"ג) ואם שכח גם בש\"ת אומר' ברכה בפ\"ע אחר בשלום [רש\"ל בתשו'] ועיין בטור סי' תקס\"ה די\"א דאפי' ביחיד הדין כן וכ\"ה בהג\"ה וניהו דלא קי\"ל הכי ביחיד מ\"מ בש\"ץ יש לפסוק כדבריהם דלא הוי שלא כסדר דכבר נסתיימו סדר הברכות ובכ\"ה כתב בשם ש\"ג דאומר' בעבודה אם נזכר ואם טעה ואמר ענינו קודם ראה נא צ\"ע אם יחזור ויאמר ענינו אחר ראה נא מידי דהוי אשאר ברכות או דלמא כיון דאפי' לא אמרה כלל אין מחזירין אותו ה\"ה אם לא אמרה במקומה או דלמא צ\"ל כסדר כמ\"ש דאם יאמר ענינו צ\"ל אח\"כ רפאינו פעם ב' ק\"ו כאן שאמר ראה נא שלא במקומה וכנ\"ל עיקר:",
+          "en": "7.And he should end off (the beracha) with \"Baruch atah Hashem the one who answers at times of distress and hears our prayers (Hagoas Maimonedes perek 11 and the Bach). This is not an issue of \"finishing with two\" (the Gemara says \"a berachas ending must be one matter\" and here one appears to be saying two things Hashem answers in distress AND hears our prayers) because Rashi in Mesechtas Ta'anit daf 13 says \"the Beracha of shomea tefilla (which means \"Hashem hears prayer\") is going on the fast (an individual says anneinu in shomea tefilla so shomea tefilla is saying Hashem hears his prayer of anneinu) and on everything else (so not an issue of finishing with two matter because shomea tefilla is a broader term which includes the ending of \"who answers in times of distress\"). Therefore (since shomea tefilla includes that term) I think if (a chazan) just says shomea tefilla he fulfills his obligation. See Rashi there. This ruling is also implied in Rav Shlomo Lurias responsa siman 64. This Halacha (of chazan saying anienu in shomea tefilla) also applies if only had 10 people in shul fasting after the chazan finished refaeinu (shiltai Geborim). If (the chazan) forgot (anienu) in shomea tefilla he should say it as a separate beracha after he say (the last beracha of shemonah esrie \"hamivorech et amo yisroel) bashalom.\" [Rav Shlomo Luria in his responsa]. See the Tur siman 565 who says \"some say this is true even for an individual (if forgot to say anienu in shomea tefilla says after shemona esrie as a separate beracha) and this (opinion) is brought in the Rama. So even though by an individual this is not the halacha, by a chazan this should be the halacha because (if he says it after shemona esrie) he's not saying the berachot out of order since he already finished shemona esrie (and a chazan different than an individual because he is supposed to say anienu in his tefillah as it's own beracha so now just saying it later). The Kenneset Hagedolah writes in the name of the Shiltai Geborim that \"if he (the chazan) remembers that he forgot aneinu he should say it in avodah (after ritzai and before baruch atah Hashem hatov shimcha ulicha naeh lihodos).\" If he (the chazan) made a mistake and said anienu before he said (the beracha of) \"re'ey na vionyeinu\" it needs to be well thought over if he should say anienu after he says \"re'ey na\" like other berachot (which should be said in there proper place and anienu's place is after re'ey na) or since if he wouldn't say anienu at all he wouldn't repeat shemona esrie for it. The same thing should be true if he said it in the wrong spot (should not say anienu). Or maybe based on what I previously ruled, that if one says anienu after refaeinu they must repeat refainu because the berachot of shemonah esrie must be said in order, than even more so that ruling should apply here (he should repeat aneinu) because re'ey na vionyeinu is being said out of order (this beracha is not ever said after anienu. So if one repeats refaeinu when says anienu after it because it's considered saying the berachot in the improper order, despite the fact that on non fast days refaeinu is said immediately after re'ey na (as he's doing now), for sure if one says anienu before re'ey na he should have to repeat because re'ey na is never said after anienu). This appears to me to be the proper ruling (chazan should repeat anienu).",
+          "ref": "Magen Avraham 119:7"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ברכה.  המחבר ע\"ת לא עיין בהג\"ה סעיף זה ע\"ש ועיין שכנה\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 119:1"
+        },
+        "2": {
+          "he": "רחמים.  המבקש רחמים על חבירו א\"צ להזכיר שמו ברכות דף ל\"ד. וה\"מ בפניו אבל כשמתפלל שלא בפניו צריך להזכיר שמו. מהרי\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 119:2"
+        },
+        "3": {
+          "he": "צרכיו.  טוב להתוודות בש\"ת ויאמר חטאתי עויתי פשעתי. ולשאול מזונותיו אפילו הוא עשיר. ואם יש לו עון מחודש מזכיר בתפלה הקודמת אצלו. ספר הכוונות:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 119:3"
+        },
+        "4": {
+          "he": "ש\"ת.  וב\"ח כתב דלהרר\"י אפי' בש\"ת אסור לומר צרכיו בלשון רבים באמצע ע\"ש. ומ\"מ ציבור שרי אפילו באמצע הברכה. ב\"י מ\"א. ובבאר היטב אשר לפני בס\"ק ג' לא דק ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 119:4"
+        },
+        "5": {
+          "he": "לא יאריך.  אא\"כ רבים צריכים לתורתו. עיין מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 119:5"
+        },
+        "6": {
+          "he": "הסדר.  והיינו בשוגג אבל במזיד צריך לחזור לתחלת י\"ח כמ\"ש בסי' קי\"ד ס\"ז. ודברי רש\"י בברכות ל\"ד ע\"א ד\"ה מתחלת הברכה שטעה בה וכו' תמוהים המה ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 119:6"
+        },
+        "7": {
+          "he": "רפאינו.  פי' שחתם ברכת רפאנו ואם יחזור ויאמר עננו יצטרך לומר רפאנו פעם אחרת דצ\"ל על הסדר ויהיה ברכה לבטלה דאין מחזירין בשביל עננו אבל אם לא חתם רפאינו יאמר עננו ואח\"כ רפאינו. והא דנקט כאן ש\"צ משום דיחיד אומר אותו בש\"ת ואם שכח עד אחר שגמר ש\"ת אף ע\"ג דלא התחיל רצה א\"ל עננו שם כיון שאין מחזירין בשביל עננו משא\"כ בש\"צ אומרה בברכה בפ\"ע. ט\"ז ומגן אברהם ואחרונים דלא כר\"ת:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 119:7"
+        },
+        "8": {
+          "he": "כיחיד.  ויחתום בא\"י העונה בעת צרה וש\"ת. הג\"מ וב\"ח מ\"א דלא כע\"ת. ועיין בשכה\"ג (ובספר אליהו רבה פסק כע\"ת דיסיים רק בש\"ת לחוד כיחיד וכ\"מ בתשו' רש\"ל) ואם חתם בש\"ת לבד יצא. מ\"א. וה\"ה אם לא היו י' המתענים בבה\"כ ובאו אחר ברכת רפאינו אומרה בש\"ת. ש\"ג. ואם שכח גם בש\"ת אומרה ברכה בפ\"ע אחר בשלום. רש\"ל מ\"א: ועיין בטור סי' תקס\"ה די\"א דאפי' יחיד הדין כן ונהי דלא קי\"ל הכי ביחיד מ\"מ בש\"צ יש לפסוק כן. מ\"א. וכנה\"ג כתב בשם ש\"ג דאומרה בעבודה אם נזכר והרמ\"ע פסק דדינו כיחיד וכן כ' ע\"ת. ואם אמר ענינו קודם ראה נא צ\"ל עננו פעם אחרת אחר ראה נא. מ\"א ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 119:8"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) היה לו חולה - עי' בפמ\"ג שכ' דדוקא אם הי' לו וכן בפרנסה דוקא אם צריך לפרנסה אבל אינו רשאי לבקש רחמים בברכה מאמצעיות על העתיד שלא יחלה ושלא יחסר לחמו וכה\"ג משא\"כ בש\"ת אפי' על העתיד רשאי לבקש:",
+          "en": "",
+          "ref": "Mishnah Berurah 119:1"
+        },
+        "2": {
+          "he": "(ב) רחמים - ע' פר\"ח דמייתי מזוהר פרשת וישלח הצילני נא וכו' דבתפלה בעי לפרושי מילי כדקא יאות עי\"ש. המבקש רחמים ע\"ח א\"צ להזכיר שמו שנאמר אל נא רפא נא לה ולא הזכיר שם מרים וה\"מ בפניו אבל שלא בפניו צריך להזכיר שמו:",
+          "en": "",
+          "ref": "Mishnah Berurah 119:2"
+        },
+        "3": {
+          "he": "(ג) יתחיל בברכה - דצריך לעשות עיקר ממטבע שטבעו חכמים ובקשה שלו תהיה טפילה ולא להיפך. וכתב הפמ\"ג דצריך להקדים ולומר מאמר שלם מענין הברכה כגון אם רוצה לבקש שיתן לו ד' דעה יקדים ויאמר אתה חונן לאדם דעת אבל לא תיבת אתה לבד וכה\"ג בכל הברכות:",
+          "en": "",
+          "ref": "Mishnah Berurah 119:3"
+        },
+        "4": {
+          "he": "(ד) צרכיו - טוב להתודות בש\"ת ויאמר חטאתי עויתי פשעתי. ולשאול על מזונותיו אפילו אם הוא עשיר. ואם יש לו עון מחודש מזכירו בפירוש בתפלה הקודמת אצלו ויאמר התפילה בהכנעה ועכ\"פ בקול בוכים ויקבל עליו שלא לעשות עוד כזה מדעתו ואם לאו אז מקטרגים עליו ח\"ו מלמעלה ועיין במש\"כ בסימן קכ\"ב סק\"ח בשם הח\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 119:4"
+        },
+        "5": {
+          "he": "(ה) בשביל כל ישראל - וה\"ה בשביל רבים:",
+          "en": "",
+          "ref": "Mishnah Berurah 119:5"
+        },
+        "6": {
+          "he": "(ו) ולא בלשון יחיד - כיון שהוא אומרה בשביל רבים:",
+          "en": "",
+          "ref": "Mishnah Berurah 119:6"
+        },
+        "7": {
+          "he": "(ז) בסוף הברכה - עיין בפמ\"ג סימן קכ\"ב במ\"ז שמצדד לומר דדוקא קודם שאמר בא\"י אבל לאח\"כ נראה דאסור (ועי\"ש דאינו ברור לו דבר זה):",
+          "en": "",
+          "ref": "Mishnah Berurah 119:7"
+        },
+        "8": {
+          "he": "(ח) ולא באמצע - שכששואל צרכי רבים באמצע הברכה נראה כמוסיף על המטבע שתקנו חכמים. בד\"א ביחיד אבל בצבור מותרים ולכן אומרים סליחות באמצע ברכת סלח לנו וכן באמצע ברכה אמצעית של יוה\"כ:",
+          "en": "",
+          "ref": "Mishnah Berurah 119:8"
+        },
+        "9": {
+          "he": "(ט) ולא בלשון רבים - דאף שהתירוהו לשאול אפילו באמצע הברכה כיון שצריך לו לפי שעה אם יאמרנה ג\"כ בלשון רבים יהיה נראה כמוסיף על המטבע שטבעו חכמים ועיין בסימן תקס\"ו ס\"ד דטוב ליזהר לכתחילה בכ\"ז כדברי הר\"ר יונה:",
+          "en": "",
+          "ref": "Mishnah Berurah 119:9"
+        },
+        "10": {
+          "he": "(י) שומע תפלה - וב\"ח כתב דלהרר\"י ש\"ת דומה לשאר ברכות לענין זה דבאמצע אסור לשאול בלשון רבים:",
+          "en": "",
+          "ref": "Mishnah Berurah 119:10"
+        },
+        "11": {
+          "he": "(יא) קודם יהיו וכו' - עיין לקמן בסימן קכ\"ב במ\"ב ס\"ק ז' מה שנכתוב שם:",
+          "en": "",
+          "ref": "Mishnah Berurah 119:11"
+        },
+        "12": {
+          "he": "(יב) בברכה - אפילו בברכת ש\"ת וכ\"ש בשאר ברכות. אבל לאחר תפלה אפילו קודם יהיו לרצון מותר להאריך בכל גווני. ובליקוטי מהרי\"ל איתא כשחלה מהרי\"ל גזרו הצבור תענית ואמרו סליחות ומנהגם היה אז לומר סליחות באמצע ברכת סלח לנו משמע דצבור לצורך יחיד שרי אפילו באמצע ברכה י\"ל שאני מהרי\"ל דרבים צריכים לתורתו וכרבים דמי:",
+          "en": "",
+          "ref": "Mishnah Berurah 119:12"
+        },
+        "13": {
+          "he": "(יג) אם דילג - פי' שדילג הברכה לגמרי וטעה פי' ששינה בה בענין שצריך לחזור מחמת זה ועיין מה שכתבנו לעיל בסימן ס\"ח במ\"ב סק\"א ותרווייהו איירי בשוגג דבמזיד צריך לחזור לתחלת י\"ח כמש\"כ סימן קי\"ד ס\"ז:",
+          "en": "",
+          "ref": "Mishnah Berurah 119:13"
+        },
+        "14": {
+          "he": "(יד) לראש הברכה - ואם נזכר בטעותו בעוד שהוא עומד עדיין בהברכה יחזור למקום שטעה לבד:",
+          "en": "",
+          "ref": "Mishnah Berurah 119:14"
+        },
+        "15": {
+          "he": "(טו) על הסדר - ואפילו אם לא נזכר עד אחר כמה ברכות צריך לחזור ולומר כולן אחריה שאם יאמר אותה ברכה לבדה במקום שנזכר נמצא ששינה סדרן של ברכות ולא יצא י\"ח שסדר ברכות הוא מאנשי כנה\"ג וסמכו סדרן על המקראות:",
+          "en": "",
+          "ref": "Mishnah Berurah 119:15"
+        },
+        "16": {
+          "he": "(טז) רק רפאנו - ר\"ל שסיים ברכת רפאנו ואמר ברוך אתה ד' אבל אם נזכר קודם שחתם אפילו אם אמר ברוך אתה הואיל ולא אמר עדיין השם חוזר ואומר עננו עם חתימה ואח\"ז חוזר ואומר ברכת רפאנו. וכל זה בש\"ץ שמקום קביעתו לומר עננו הוא בין גואל לרופא אבל ביחיד שכולל עננו בברכת ש\"ת אם שכח לאמר עננו כל שסיים שומע תפלה אף שלא פתח ברצה אין צריך לחזור כדין כל דבר שאין מחזירין אותו וטעם החילוק הוא דשם שאני שהוא כלול תוך הברכה וכל שסיים הברכה איכא בחזרתו ברכה לבטלה משא\"כ כאן דקבעוהו ברכה בפ\"ע אין לבטלה אם לא שיצטרך לברך ברכת רפאנו עוד הפעם בשביל זה וכל זמן שלא אמר השם של ברוך אתה לית ברכה לבטלה:",
+          "en": "",
+          "ref": "Mishnah Berurah 119:16"
+        },
+        "17": {
+          "he": "(יז) היא - היינו דע\"י שיחזור לומר עננו יצטרך בהכרח לומר אח\"כ ברכת רפאנו עוד הפעם כדי שיהיה על הסדר ברכת השנים אחר רפאנו והיא ברכה לבטלה שאין מחזירין בשביל עננו כמ\"ש בסימן תקס\"ה. ואם שכח ואמר עננו קודם ראה נא דעת המ\"א דצ\"ל עננו פעם אחר אחר ראה נא וכן כתב בדה\"ח ובפמ\"ג נשאר בדין זה בצ\"ע ובספר מגן גבורים האריך בזה ומסיק לדינא ג\"כ דאין לחזור ולומר עננו פעם אחרת ואם ירצה יאמרנה בש\"ת כיחיד:",
+          "en": "",
+          "ref": "Mishnah Berurah 119:17"
+        },
+        "18": {
+          "he": "(יח) עננו בש\"ת - ה\"ה אם לא היו יו\"ד המתענים בבהכ\"נ ובאו אחר ברכת רפאנו יאמר בש\"ת כיחיד ואם התחיל הש\"ץ להתפלל בקול רם והיו אז בבה\"כ יו\"ד שמתענים ואח\"כ הלכו מקצתן קודם שהתחיל הש\"ץ עננו לא יאמר עננו וטוב שיאמר אז בש\"ת ואם כבר התחיל עננו ויצאו גומר:",
+          "en": "",
+          "ref": "Mishnah Berurah 119:18"
+        },
+        "19": {
+          "he": "(יט) כיחיד - עיין בדה\"ח שפוסק דלא יחתמנה בברכה רק בשומע תפלה כשאר יחיד בעלמא וכן נכון דבזה יצא לכו\"ע עיין במ\"א. ואם שכח גם בש\"ת אפילו נזכר קודם שהתחיל רצה שוב לא יאמר אלא יאמרנה אחר שיסיים בשלום קודם אלהי נצור ובלא חתימה [דה\"ח ושע\"ת עי\"ש]:",
+          "en": "",
+          "ref": "Mishnah Berurah 119:19"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

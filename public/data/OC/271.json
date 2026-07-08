@@ -1,0 +1,1555 @@
+{
+  "chelek": "OC",
+  "siman": 271,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 17,
+  "fetchedAt": "2026-07-07T23:49:22.477Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני קידוש על היין. ובו יז סעיפים:כשיבא לביתו ימהר לאכול מיד:",
+      "en": "1. When he arrives at his home, he should hurry to eat the meal immediately.",
+      "ref": "Shulchan Arukh, Orach Chayim 271:1"
+    },
+    {
+      "seif": 2,
+      "he": "נשים חייבות בקידוש אע\"פ שהוא מצות עשה שהזמן גרמא (פי' מצות עשה התלויה בזמן) משום דאתקש זכור לשמור והני נשי הואיל ואיתנהו בשמירה איתנהו בזכירה ומוציאות את האנשים הואיל וחייבות מן התורה כמותם:",
+      "en": "2. Women are obligated in Kiddush, even though it is a positive commandment that time causes (meaning, a positive commandment dependent on time), because Remember is compared to Guard. And these women, since they are included in watching, they are include in remembering. And they can discharge men (from their obligation) since they are obligated biblically, like them.",
+      "ref": "Shulchan Arukh, Orach Chayim 271:2"
+    },
+    {
+      "seif": 3,
+      "he": "אם אין ידו משגת לקנות יין לקידוש ולהכין צרכי סעודה לכבוד הלילה ולכבוד היום ולקידוש היום מוטב שיקנה יין לקידוש הלילה ממה שיכין צרכי הסעודה או ממה שיקנה יין לקידוש היום והא דתניא כבוד יום קודם לכבוד לילה היינו דוקא בשאר צרכי סעודה אבל אם אין לו אלא כוס אחד לקידוש כבוד לילה קודם לכבוד יום:",
+      "en": "3. If he has not the means (finances) at hand to purchase wine for Kiddush and to prepare the needs of the meal for both the meal at night, the meal on Shabbat day and Kiddush for Shabbat day, it is better to purchase wine for the night Kiddush rather than to purchase needs for meals or wine for Kiddush on Shabbat day. For as it is taught: \"The honor of the day precedes the honor of the night, this is only with regards to other needs of the meal. However if he does not have more than one cup for Kiddush, then the honor of the night is prioritized over the honor of the day.",
+      "ref": "Shulchan Arukh, Orach Chayim 271:3"
+    },
+    {
+      "seif": 4,
+      "he": "אסור לטעום כלום קודם שיקדש ואפילו מים ואפילו אם התחיל מבעוד יום צריך להפסיק שפורס מפה ומקדש ואם היו שותים יין תחלה אינו אומר אלא קידוש בלבד בלא ברכת היין ואח\"כ מברך ברכת המוציא ואם אין לו יין ומקדש על הפת אינו מברך המוציא וי\"א שאף כשמקדש על היין אינו מברך המוציא:",
+      "en": "4. It is forbidden to taste anything before one makes Kiddush [at night], even water. And even if one began eating while it was still day, he needs to stop eating, spread out a tablecloth [to set up the meal] and make Kiddush. And if they were drinking wine first, they only need to say the Bracha of Kiddush and not a Bracha on the wine. Afterward they will make a Bracha on the bread. And if he does not have wine, he can make Kiddush on bread, he need not make a Bracha on bread [because he has already been part of a meal where bread was eaten]. There are those who say that even if he makes a Bracha on wine, he also need not make a Bracha on the bread.",
+      "ref": "Shulchan Arukh, Orach Chayim 271:4"
+    },
+    {
+      "seif": 5,
+      "he": "שנים שהיו שותים ואמרו בואו ונקדש קידוש היום נאסר עליהם לשתות עד שיקדשו ואם רצו לחזור ולשתות קודם שיקדשו אע\"פ שאינם רשאים צריכים לחזור ולברך תחלה בפה\"ג ואח\"כ ישתו: הגה אדם ששכח לקדש עד לאחר שבירך ברכת המוציא ונזכר קודם שאכל יקדש על הפת ואח\"כ יאכל אבל בהבדלה יאכל תחלה דהרי אין מבדילין על הפת (הגהות אלפסי מרדכי פ' ב\"מ):",
+      "en": "5. Two people who were drinking and then said \"Come, let us make Kiddush\", they are forbidden from drinking more until they make Kiddush. If they want to return and drink before they make Kiddush, even if they are required, need to again make the Bracha on the wine and then they can drink. RAMA: A person who forgot to make Kiddush and realized only after he make the Bracha on the bread, and yet remembered before he ate; should make Kiddush on the bread and then eat it. But, if it was Havdalah, he should first eat the bread - for we do not make Havdalah on bread. (Hagahos Alfasi; Mordechai).",
+      "ref": "Shulchan Arukh, Orach Chayim 271:5"
+    },
+    {
+      "seif": 6,
+      "he": "אם גמר סעודתו וקדש היום קודם שבירך ברכת המזון מברך ברכת המזון על כוס ראשון ואחר כך אומר קידוש היום על כוס שני וצריך להזכיר של שבת בברכת המזון אע\"פ שמברך קודם קידוש: הגה וי\"א דאינו מזכיר של שבת דאזלינן בתר תחלת הסעודה וכן עיקר כמו שנתבאר לעיל סוף סי' קפ\"ח ויש מחלוקת אם יטעום מכוס של ברכת המזון קודם שיקדש גם אם צריך לאכול מעט אחר הקידוש כדי שיהא הקידוש במקום סעודה: ויש אומרים דאף בגמר סעודתו אינו מברך ברכת המזון תחלה אלא פורס מפה ומקדש ומברך המוציא ואוכל מעט ואח\"כ מברך בהמ\"ז: הגה והכי נהוג להוציא את נפשיה מפלוגתת סברא ראשונה:",
+      "en": "6. If one is finished his meal and Shabbat begins before he says Birkat Hamazon, he should say Birkat Hamazon on a first cup and afterwards say the Shabbat Kiddush on a second cup. One must mention Shabbat during Birkat Hamazon even though he says it prior to Kiddush. RAMA: There are those who say that we do not mention Shabbat because we go after the beginning of the meal, and this is the primary opinion as is brought at the end of Siman 188. And there is a disagreement if we taste from the cup of Birkat Hamazon before we say Kiddush and if we need to eat a little bit after the Kiddush so that the Kiddush will be at the place of the meal. There are those who say that even after one finishes the meal, he does not initially say Birkat Hamazon.  Rather, he spreads out a tablecloth, makes Kiddush, says Hamotzi and eats a little, and then afterwards he says Birkat Hamazon. RAMA: And such is our custom, in order to remove ourselves from the disagreements arising from the first opinion.",
+      "ref": "Shulchan Arukh, Orach Chayim 271:6"
+    },
+    {
+      "seif": 7,
+      "he": "אף על פי שאסור לו לטעום קודם קידוש אם טעם מקדש:",
+      "en": "7. Even though it is forbidden to taste before kiddush, if he does taste he still makes kiddush.",
+      "ref": "Shulchan Arukh, Orach Chayim 271:7"
+    },
+    {
+      "seif": 8,
+      "he": "אם לא קידש בלילה בין בשוגג בין במזיד יש לו תשלומין למחר כל היום: הגה ואומר כל הקידוש של לילה (ב\"י) מלבד ויכלו (אורח חיים בשם תוס'):",
+      "en": "8. If one did not make Kiddush at night - whether it was unintentional or intentional, he must make up for it the next day. RAMA: And he should say all of the text of Kiddush of the night (Beis Yosef) except for \"Vayechulu\" (Orach Chayim in the name of Tosefos)",
+      "ref": "Shulchan Arukh, Orach Chayim 271:8"
+    },
+    {
+      "seif": 9,
+      "he": "צריך שתהיה מפה על השלחן תחת הפת ומפה אחרת פרוסה על גביו:",
+      "en": "9. There needs to be a tablecloth on the table underneath the bread and another cloth spread out on top of the bread.",
+      "ref": "Shulchan Arukh, Orach Chayim 271:9"
+    },
+    {
+      "seif": 10,
+      "he": "מקדש על כוס מלא יין שלא יהיה פגום וטעון כל מה שטעון כוס של בהמ\"ז ואומר ויכלו מעומד ואח\"כ אומר בפה\"ג ואח\"כ קידוש: הגה ויוכל לעמוד בשעת הקידוש ויותר טוב לישב (כל בו) ונוהגים לישב אף בשעה שאומר ויכלו רק כשמתחילין עומדין קצת לכבוד השם כי מתחילין יום הששי ויכלו השמים ונרמז השם בר\"ת וכשמתחילין יתן עיניו בנרות (מהרי\"ל ושכל טוב) בשעת קידוש בכוס של ברכה וכן נראה לי עיין לעיל סי' קפ\"ג סעיף ד':",
+      "en": "10. One should make Kiddush on a full cup of wine that is not blemished, and to require all that us required for a cup for Birkat Hamazon, and to say 'Vayechulu' while standing and afterwards one says 'boreh pri hagafen' and afterwards one says kiddush. RAMA: One may stand during the time of Kiddush but it is better to sit (Kol Bo). Our custom is to sit even while saying 'Vayechulu', except when we begin we stand a bit to honor Hashem, because we begin 'Yom Hashishi, Vayechulu Hashamayim' and it hints to Hashem in the first letters of this phrase. When one begins he should look at the candles (Mahar\"il; Sechel Tov) during kiddush with the cup of blessing. And so it seems to me, see above Siman 183 Seif 4.",
+      "ref": "Shulchan Arukh, Orach Chayim 271:10"
+    },
+    {
+      "seif": 11,
+      "he": "אם אין לו אלא כוס א' מקדש בו בלילה ואינו טועם ממנו שלא יפגימנו אלא שופך ממנו לכוס אחר וטועם יין של קידוש מהכוס השני ולמחר מקדש במה שנשאר בכוס ראשון ואם לא היה בו אלא רביעית בצמצום ונחסר ממנו בלילה מוזגו למחר להשלימו לרביעית והיינו דוקא כשיש לו כוס אחר להבדלה שאם לא כן מוטב שיניחנה להבדלה שא\"א בפת משיקדש עליו ולא יהא לו יין להבדלה ואם יש לו שני כוסות מצומצמים אחר מזיגה יקדש בלילה באחד ויבדיל על השני ולא יקדש ביום דקידוש דלילה עדיף:",
+      "en": "11. If he only has one cup, he uses it at night for kiddush and does not taste from it so he will not blemish it. Rather he pours it into another cup and tastes the kiddush wine from the second cup. The next day, he blesses over what remains in the first cup. If one has but an exact reviis of undiluted wine and he decreased from it at night, he blends it with water to make the reviis. This is specifically if he has another cup for Havdalah. For if he has this, it is best that he uses it for Havdalah, for he cannot say it over the bread that he said kiddush over, and he does not have wine for Havdalah. If he has two cups after diluting with water he makes kiddush with one at night and makes havdalah over the second and he does not make kiddush during the day, because the kiddush at night is preferable.",
+      "ref": "Shulchan Arukh, Orach Chayim 271:11"
+    },
+    {
+      "seif": 12,
+      "he": "אחר שקידש על הכוס נוטל ידיו ומברך על נטילת ידים ואם נטל ידיו קודם קידוש גלי דעתיה דריפתא חביבא ליה ולא יקדש על היין אלא על הפת: הגה וי\"א דלכתחל' יש ליטול ידיו קודם הקידוש ולקדש על היין (הרא\"ש והמרדכי פ' ע\"פ ורשב\"א והגהות מיי' פכ\"ט וטור) וכן המנהג פשוט במדינות אלו ואין לשנות רק בליל פסח כמו שיתבאר סי' תע\"ג:",
+      "en": "12. After he blesses over the cup, one washes his hands and says 'Al Netilat Yadayim'. If he washed his hands prior to Kiddush, he has revealed that bread is beloved to him, and he does not make kiddush over the wine, rather over the bread. RAMA: There are those who say that initially, one should wash his hands before kiddush and then make kiddush over wine (the Rosh; Mordechai; Rashba; Hagahos Maimoni; Tur) and such is the simple custom in our lands and it is not to be changed except on Pesach night, as explained in Siman 473",
+      "ref": "Shulchan Arukh, Orach Chayim 271:12"
+    },
+    {
+      "seif": 13,
+      "he": "צריך לשתות מכוס של קידוש כמלא לוגמיו דהיינו כל שיסלקנו לצד אחד בפיו ויראה מלא לוגמיו והוא רובו של רביעית:",
+      "en": "13. One must drink a cheekful from the Kiddush cup, i.e. if one moves all the wine to one side of their mouth and their cheek appears full, and this is the majority of a Revi'it.",
+      "ref": "Shulchan Arukh, Orach Chayim 271:13"
+    },
+    {
+      "seif": 14,
+      "he": "אם לא טעם המקדש וטעם אחד מהמסובין כמלא לוגמיו (פי' מלא פיו) יצא ואין שתיית שנים מצטרפת למלא לוגמיו ומ\"מ מצוה מן המובחר שיטעמו כולם יש אומרים דכיון שבין כולם טעמו כמלא לוגמיו יצאו דשתיית כולם מצטרפות לכשיעור והגאונים סוברים שאם לא טעם המקדש לא יצא וראוי לחוש לדבריהם ודוקא בקידוש אבל בשאר דברים הטעונים כוס מודים הגאונים דסגי בטעימת אחר.",
+      "en": "14. If the one who makes kiddush does not taste the wine, and another person who is dining there tastes the wine with a mouthful, he has fulfilled his obligation. Two people cannot combine to equal a mouthful. In all cases it is preferable for the mitzvah if everyone tastes the wine. There are those who say that if everyone tastes a mouthful they have fulfilled their obligation, because everyone's drinking combines to equal the measurement. The Gaonim hold that if the person making kiddush does not taste the wine he has not fulfilled his obligation and it is appropriate to concern ourselves over their words. Specifically regarding kiddush; but regarding other things that require a cup the Gaonim acknowledge that it is sufficient for another to taste it.",
+      "ref": "Shulchan Arukh, Orach Chayim 271:14"
+    },
+    {
+      "seif": 15,
+      "he": "קידש וקודם שיטעום הפסיק בדיבור חוזר ומברך בורא פרי הגפן ואינו צריך לחזור ולקדש וה\"ה אם נשפך הכוס קודם שיטעום ממנו יביא כוס אחר ומברך עליו בפה\"ג ואינו צריך לחזור ולקדש:",
+      "en": "15. If one makes kiddush and before he tastes it he pauses to talk, he must go back and say 'boreh pri hagafen' but is not required to go back and say kiddush. This is the law if the cup spills prior to tasting from it. One brings another cup and says 'boreh pri hagafen' over it and he does not have to go back and say kiddush.",
+      "ref": "Shulchan Arukh, Orach Chayim 271:15"
+    },
+    {
+      "seif": 16,
+      "he": "לא יטעמו המסובין קודם שיטעום המקדש אם הם זקוקים לכוסו שופך ממנו לכוסות שבידם ריקנים או פגומים אבל אם היו להם כוסות יין שאינם פגומים רשאים לשתות קודם שישתה המקדש:",
+      "en": "16. The others dining should not taste [their wine] before the one who recites Kiddush tastes [his wine] if they need [the wine] in his cup to be poured into their empty or blemished cups. If, however, they have unblemished cups of wine, they may partake of the wine before the one who recited Kiddush drinks.",
+      "ref": "Shulchan Arukh, Orach Chayim 271:16"
+    },
+    {
+      "seif": 17,
+      "he": "אין צריך לשפוך מכוס המקדש לכוסות יין שלפני המסובין אא\"כ היו פגומים שאז צריך לשפוך לכל כוס וכוס כדי שישתו כולם מכוס שאינו פגום:",
+      "en": "17. One does not need to pour from the cup of the one who makes kiddush into the cups in front of the other diners unless they are blemished. For then one must pour into each and every cup so everyone can drink from a cup that is unblemished.",
+      "ref": "Shulchan Arukh, Orach Chayim 271:17"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "טור מהא דזכרהו על היין כו' בפסחים ק\"ו והרמב\"ם בפ' כ\"ט והרא\"ש מהא דברכות כ\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:1"
+        },
+        "2": {
+          "he": "ברכות נ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:2"
+        },
+        "3": {
+          "he": "פסחים ק\"ט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:3"
+        },
+        "4": {
+          "he": "שם ק\"ו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:4"
+        },
+        "5": {
+          "he": "טור רשב\"א והגהות בשם ר\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:5"
+        },
+        "6": {
+          "he": "שם ק\"ו כרב יהודה א' שמואל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:6"
+        },
+        "7": {
+          "he": "טור בשם הירושלמי וכ\"פ הרי\"ץ גאות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:7"
+        },
+        "8": {
+          "he": "הרי\"ף והרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:8"
+        },
+        "9": {
+          "he": "טור לדברי הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:9"
+        },
+        "10": {
+          "he": "שם בשם הרי\"ץ גאות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:10"
+        },
+        "11": {
+          "he": "רמב\"ם פ' ד' מה\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:11"
+        },
+        "12": {
+          "he": "טור בשם הרי\"ף מהא דפסחים ק\"ב וכן כתב הרמב\"ם בפרק כ\"ט מה\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:12"
+        },
+        "13": {
+          "he": "הרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:13"
+        },
+        "14": {
+          "he": "טור בשם י\"א ורא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:14"
+        },
+        "15": {
+          "he": "פסחים ק\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:15"
+        },
+        "16": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:16"
+        },
+        "17": {
+          "he": "שם בתוספות וכ\"כ ספר התרומה והטו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:17"
+        },
+        "18": {
+          "he": "הרי\"ף מהא דפסחים ק\"ו וכ\"כ רמב\"ם בפכ\"ט ותוספות בברכות נ\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:18"
+        },
+        "19": {
+          "he": "רמב\"ם שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:19"
+        },
+        "20": {
+          "he": "ב\"י לדעת רמב\"ם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:20"
+        },
+        "21": {
+          "he": "ר\"י בחלק א'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:21"
+        },
+        "22": {
+          "he": "שם ורא\"ש בפ\"ח דברכות בשם הירושל'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:22"
+        },
+        "23": {
+          "he": "ב\"י לדעת הטור בסי' רצ\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:23"
+        },
+        "24": {
+          "he": "טור בשם רב עמרם והר\"ן בפירוש דברי הרי\"ף מהא דפסחים ק\"ו והרמב\"ם בפרק כ\"ט (כצ\"ל) דהטור אינו מסכים בזה לדעת אביו)",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:24"
+        },
+        "25": {
+          "he": "פסחים ק\"ו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:25"
+        },
+        "26": {
+          "he": "תוספות והרא\"ש מהא דיומא פ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:26"
+        },
+        "27": {
+          "he": "הרא\"ש שם בפסחים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:27"
+        },
+        "28": {
+          "he": "ריטב\"א בפ' ז' דעירובין בשם התוספות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:28"
+        },
+        "29": {
+          "he": "טור בשמם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:29"
+        },
+        "30": {
+          "he": "שם בשם הגאונים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:30"
+        },
+        "31": {
+          "he": "דברי עצמו לפי טעמו בבית יוסף:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:31"
+        },
+        "32": {
+          "he": "תוספות וההרא\"ש שם בפסחים ובפרק ז' דברכות ובשם הירושלמי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:32"
+        },
+        "33": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:33"
+        },
+        "34": {
+          "he": "קודם שישתה המברך ואז לא ישתה קודם שישתה המברך ב\"י בשם הרא\"ש ותוספות פרק ו' דברכות):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 271:34"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "לאכול עמ״א עיקר המהירות משום הקידוש שיזכרהו מיד בכניסתו ואחר שיקדש צריך שיהא דעתו לאכול מיד כבסימן רע״ג ס״ג ואי״ה שם יבואר. ורש״י ברכות דף ג׳ א׳ ד״ה קשיא. ומ״ש דמ״ה בקידוש שאומר בתפלה סגי ע׳ בסי׳ רס״ט בט״ז ומ״א וברא״ש ע״פ קי״א משמע דאי לא מקדש על היין או פת לא יצא כלל ידי קידוש אף מ״ה ועיין לבוש כאן וא״כ אם ספק לו אם קידש על הכוס צריך לחזור ולקדש וי״ל דמ״מ הכי אתני שלא להחמיר בספיקן. והא דכתב המחבר בס״ב מוציאות אנשים היינו אף דלא התפללו עדיין אם שמעו מנשים יצאו אבל אחר שהתפללו אף קטן יכול להוציא אותו כבסי׳ קפ״ו ס״ב אלא שי״ל דאם יש לו יין ואין מקדש עליו לא יצא ידי קידוש אף מ״ה וכמ״ש ברס״ט בשם הרא״ש וא״כ קטן אין מוציא ומ״מ נ״מ באם ספק לו לא החמירו בספיקן. ואי״ה בט״ז יבואר עוד בזה וכאן אין להאריך. ומ״ש אם אין לו אלא כוס א׳ על שבת של שבת קודם איכא לעיוניה ביה דאם י״ט במ״ש פשיטא דלא ימתין ומצוה הבא לידו ראשונה עושה אותה ואם לומר די״ט ערב שבת אפ״ה ממתין על של שבת דהוי ד״ת על היין אם יש לו כמו שכתב הרא״ש וכמ״ש ברס״ט מזה מ״מ אימא דמצוה דרבנן דהאידנא עדיף והא דאין שום מצוה ד״ת נדחית מפני דרבנן היינו בהגיע זמן שניהם עסי׳ תרפ״ז וט״ז ומ״א ג״ה. ואי״ה בסי״א במ״א אות ה״א וברע״ב ס״ט יבואר אי״ה מזה וכאן אין להאריך. ע׳ מ״מ פכ״ט מה״ש הי״ח. ובתוס׳ פסחים דף ק״ו ב׳ ד״ה מקדש אריפתא יע״ש בשם ר״ת ובט״ז אי״ה יבואר עוד. עט״ז י״ט עסי׳ רע״ג:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:1"
+        },
+        "2": {
+          "he": "ומוציאות עמ״א בקצ״ג אות ב׳ אם אין מבינות טוב שיאמרו מלה במלה עם המקדש. ואם אשה כבר קידשה אם יכולה להוציא אנשים תליא בפלוגתא אם הם בכלל ערבות עלינו ובפתיחה כוללת אי״ה יבואר זה עסי׳ ס״ב מ״א א׳ קידוש כו׳ בכל לשון אף אינו מבינו ועיין בשכנה״ג בהגהות הטור אות א׳. אי הרהור בקידוש מהני י״ל כאן זכר בלב עיין מגילה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:2"
+        },
+        "3": {
+          "he": "צרכי סעודה עמ״א בקפ״ח אות ט׳ ורס״ג אות ד׳ ועסי״ב דמצי לקדש אפת ועסי״א יבואר אי״ה קידוש והבדלה יע״ש. ומ״ש אין קידוש אלא במקום סעודה אע״ג דברע״ג ס״ה כתב דיוצא ביין יע״ש. מ״מ לכתחלה טוב פת עסי׳ קפ״ח ט׳ ושם בשם הר״ן ובשם תר״י ושם י״ל דאין חיוב מד״ת בפת אבל בתשובת הרשב״א תרי״ד דהר״מ אפשר סובר דפת מ״ה בשבת כמו בפסח וסוכות יע״ש וכזית סגי והמותר יקנה יין. ומ״ש כבוד יום עדיף מקידוש דידיה עיין ר״ן ע״פ ק״ו ב׳ קידוש היום שיהא ניכר כיבוד היום א״כ כבוד היום עדיף יע״ש בזה. ולחם משנה אין חובה כ״כ עתו״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:3"
+        },
+        "4": {
+          "he": "וה״א עמ״א משמע בזוהר דכבוד לילה עדיף ומיהו בתר גמרא דידן אזלינן היכא שמחולק עם הזוהר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:4"
+        },
+        "5": {
+          "he": "אסור עמ״א משמע טועם ופולט אסור דמתהני ודמי לת״צ להר״ב בהג״ה בתקס״ז ולרחוץ פיו במשקין ביתר מרביעית עמ״א שם זיי״ן ובכוס א׳ יחדש ויברך בהמ״ז בלא כוס וברנ״ו ס״ג במזונו יע״ש בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:5"
+        },
+        "6": {
+          "he": "צורך עיין מ״א אף בדברי תורת וכ״ש אם התפלל מעריב דהוי דרבנן כבאות א׳ דאפילו באיסור אין פוסק יע״ש שאני הכא כו׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:6"
+        },
+        "7": {
+          "he": "שפורס מפה עמ״א שלא יראה הפת בושתו וכי היכי דתיתי הסעודה ביקרא דשבתא. ואינו כן אלא חדא הוא שמכסה הפת ויהיה מכוסה עד סוף קידוש וגם אם מקדש על הפת הכין הוא כ״י היכי דתיתי הסעודה ביקרא דשבתא עיין אות ך׳ במ״א ובט״ז י״ז וכתוס׳ פסחים ק׳ ב׳ ד״ה שאין דתיתי סעודה ביקרא דשבתא ונמצא ג׳ טעמים בפריסת המפה כדבעינן למימר לקמן אי״ה בס״ט ומ״מ לא הבינותי דלמה כתב המחבר שפורס מפה דגם בבא לקדש תחלה צריך מפה והול״ל די בפריסת מפה יפה וא״צ עקירת השולחן כמ״ש בטור ובלבוש כיצד עושה פורס מפה על כל מה שעל השולחן ומקדש יאמר שאין די בפריסת מפה על הפת לחוד והטעם דמפה כעקירת השולחן הוא ע׳ פסחים ק׳ א׳ ברשב״ם ד״ה ולא כר״י פורס כדין שבתות השנה א״כ מסילוק פתורא יע״ש ויהיה פריסת המפה על כל השולחן כאלו סילק השולחן ואי״ה לקמן בס״ט יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:7"
+        },
+        "8": {
+          "he": "בלא עמ״א דאף יין ששותה אח״כ בסעודה אין מברך:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:8"
+        },
+        "9": {
+          "he": "מברך עמ״א הע״ש הקשה דברי המחבר אהדדי בקע״ז ס״ו בתפלה אין הפסק דלא גמר מלאכול וכאן דיעה א׳ דמברך המוציא והוה להקשות על הרא״ש ג״כ אלא דשאני הכי דאפי׳ טעימה אסור משא״כ התם טעימה מותר כמ״ש באות יו״ד ועא״ר אות ח׳: בבאר הגולה יו״ד רי״ץ גיאות א״י ולכאורה הרמב״ם והרז״ה צ״ל עיין טור וב״י:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:9"
+        },
+        "10": {
+          "he": "ואמרו עמ״א בה׳ ברכות פ״ד הלכה ח׳ ובכ״מ שם דבספק חשיכה מותר לשתות קודם קידוש ובאמרו אסורים כן משמע שם אבל בסי׳ רצ״ט ס״א וי״א דה״מ בספק חשיכה כו׳ א״כ ספק חשיכה בהבדלה אסור ה״ה בקידוש כה״ג אסור ומיירי כאן מבע״י ואמרו בואו ונקדש אסור לשתות וכוס קידוש מותר בלא ברכת פה״ג דהיו שותים תחלה כמו בס״ד בקידוש היום דחדא היא וכ״מ בר״מ שם מדלא אמר בקידוש שצריך לברך פה״ג (בלא דא״י) וגם תכ״מ כו׳ עיין פסחים ק״ה א׳ אמר לא צריכיתו וברש״י ורשב״ם משמע כהר״א ז״ל דקידוש יומא אסור למטעם וממילא חשובה שבת וא״צ עקירת השולחן והבדלה אין קובעת הא אמר בואו ונבדיל אסור כו׳ אבל הר״מ ז״ל מפרש דאמרי זיל חזי אי קדיש יומא נפסיק א״ל לא צריכית״ו תו לעיין אי קדיש יומא דא״נ עדיין יום הואיל ואמרתם בואו ונקדש כו׳ צריכין למפסק מבע״י (צ״ל דאמרו כן מקודם באו ונקדש דאל״כ אין זה קבלה) והקשה הכ״מ דבלאו אמירה אסור ומאי קושיא דילמא לענין פה״ג של קידוש אמר להו כן ש״מ כו׳. ומיהו בר״מ ז״ל ודאי אשאר כוס קאמר יע״ש. ומיהו למ״ד מיא מותר קודם קידוש י״ל במיא אבל המחבר בס״ד אוסר מים ובב״י משמע שי״ל בר״מ כן מש״ה מוקי קודם חשיכה: והוי יודע שמ״ש המחבר היו שותי״ם ל״ד ה״ה אכלו סעודה ואמר בואו ונקדש יומא אסור למשתי מבע״י שהרי בפסחים ק״ה א׳ הוה יתבי בסעודת״א. וכן אם התפלל ערבית בע״ש מבע״י מפלג המנחה כבסי׳ רט״ז ס״ב נמי אסור לאכול ולטעום קודם שיקדש דכבר קיבל שבת בתפלה ועסי׳ רצ״ט במ״א אות א״ב. ואי״ה בט״ז אות ה׳ יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:10"
+        },
+        "11": {
+          "he": "קודם שאכל עמ״א יקדש על הפת אעפ״י שיש לו יין דפה״ג יהיה הפסק בין המוציא לאכילה ואם אכל יקדש אח״כ על היין והראה לס״ד אות ט׳ משמע למ״ד יברך המוציא ה״ה כאן אם אכל כבר מקדש על היין ומברך שנית המוציא ועט״ז כאן אות זיין ולהלכה יבואר אי״ה דאף בס״ד אין מברך המוציא וכ״ש כאן עמ״ש אי״ה באות שאח״ז.",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:11"
+        },
+        "12": {
+          "he": "יאכל עמ״א דגביל לתורי ד״ת אף שאין מענין צרכי הסעודה משא״כ הבדלה דרבנן אסור לאכול קודם לא הוי צרכי סעודה אבל הביאו לפתן וכיוצא לא הוי הפסק וה״ה לחם משנה צרכי המוציא הוי ובשתיקה רשאי לכתחילה להפסיק עסי׳ קס״ו ס״ו בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:12"
+        },
+        "13": {
+          "he": "גמר עמ״א עט״ז אות ט׳ במ״ש נט״י או אמר הב ונבריך עמ״ש שם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:13"
+        },
+        "14": {
+          "he": "וצריך עמ״א ובט״ז ק״ח י״ב הקשה בזה יע״ש ואם אירע שגמר סעודה והתחיל לברך בהמ״ז ושכח של שבת לא יאמר ברכה בפ״ע לכ״ע דספק להקל עסי׳ קפ״ח ס״ו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:14"
+        },
+        "15": {
+          "he": "וי״א עמ״א כי מ״ש הר״ב להוציא נפשיה מפלוגתא י״ל אתרתי אבל באמת דאף בזה תיקן דאם אכל כזית משחשיכה מזכיר שבת ועסי׳ קפ״ח בט״ז זיי״ן ומ״א י״ז יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:15"
+        },
+        "16": {
+          "he": "אם עמ״א למ״ד טועם מכוס בהמ״ז מברך פה״ג עליו ולא על כוס קידוש ולמ״ד אין טועם אין מברך פה״ג עליו כ״א אכוס קידוש פה״ג ובעי כוס אחר ואי״ה באות י״ח יבואר לענין אין עושין מצות חבילות יע״ש. ועב״י בשם א״ח:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:16"
+        },
+        "17": {
+          "he": "לאכול עמ״א עב״י והיינו כזית:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:17"
+        },
+        "18": {
+          "he": "ומברך עמ״א הזכיר נט״י ולא הב ונבריך עיין אות י״ג ועט״ז אות ט׳ ומ״ש שם בזה. ולמ״ש הר״ב דיש לנהוג כן לפרוס מפה ולקדש על היין כסדר פה״ג וקידוש וצריך לברך המוציא ויאכל כזית שיהא מזכיר של שבת כהמ״ז ונוטל כוס שני על בהמ״ז וכו׳. גם שיהא קידוש במקום סעודה צריך שיאכל כזית עב״י בשם הרא״ש. שוב ראיתי בשכנה״ג בהגהות הטור אות ד׳ דהיה נוהג שמברך קידוש על כוס א׳ ואח״כ מברך בהמ״ז עליו דאיתעביד מצוה חדא לעביד מצוה אחריתא והא דאין עושין מצות חבילות בזימנא חדא הא בזמנים מתחלפין לית לן בה שהסעודה מפסקת. ואם נאמר דעל כוס א׳ אין אומר ב׳ מצות משמע שם אף כשמוריק מכלי לכלי הואיל ויין אחד הוא ע״ש בשם הרב מוהר״ר איצטרוך ן׳ שאננ״י ז״ל היה נוהג לקדש על אשישה גדולה (כוס ארוך גדול) כשיעור ג׳ כוסות ומקדש בלילה ולמחר והבדלה. וא״י הא טעמו פגמו ואי דמתקנו ואי אח״כ טוב יותר לחלק לג׳ כוסות גם כוס צריך שיהא מלא ואי״ה באות כ״ד יבואר עוד בזה יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:18"
+        },
+        "19": {
+          "he": "אם עמ״א וכ״כ הט״ז אות יו״ד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:19"
+        },
+        "20": {
+          "he": "פרוסה עמ״א ועסי׳ רי״א סעיף וי״ו מזה וע׳ כאן אות זיי״ן וט״ז אות י״ב בזה ולטעם יקרא דשבתא אף כשמקדש על הפת יגלהו בהמוציא ויניח בידו ואח״כ יכסנו עד גמר הקידוש ומניח ידיו על הפת ועל המפה ועסי׳ תפ״ג וע׳ א״ר אות י״ז בשם הפרישה שיוציא הפת מתחת המפה כמו שהוציאו המן מתחת הטל היינו בפעם שני ידעו שהמן שם ובפ״א כתיב ותעל שכבת הטל יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:20"
+        },
+        "21": {
+          "he": "ואומר ויכלו עמ״א ועא״ר אות י״ט:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:21"
+        },
+        "22": {
+          "he": "כי עמ״א הא דא״א בשבת ורוממנו מכל לשון די״ט היה ע״י נסים שעשה לנו במצרים ושאר נסים נצטוינו לי״ט משא״כ שבת נצטוינו ששבת ממלאכתו א״ר כ״ב בשם רד״א:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:22"
+        },
+        "23": {
+          "he": "יתן עמ״א בד״מ דבשעת התחלה בנרות ובקידוש בכוס ובשכ״ח סכ״א לענין רפואה בשבת:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:23"
+        },
+        "24": {
+          "he": "שופך עמ״א ע׳ שכנ״ג בהגהות ב״י אות זיין ד״ה אך ובא״ר אות כ״ג דהא דבעי לשתות רוב רביעית כבסעיף י״ג ביש לו אבל באין לו עדיף שיקדש על היין ויטעום מעט ממה שיקדש על הפת יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:24"
+        },
+        "25": {
+          "he": "שיניחנה עמ״א ועא״ר כ״ג וכ״ד ובתו״ש אות כ״ט. ובהכ״נ אין לנו אורחים ודאי הבדלה עדיף דמוציא שאינו בקי מקידוש דאין מוציא כלום דבעי במקום סעודה. ומ״ש בשם שכנ״ג (הוא מהדורא בתרא) כתבתי כן כמ״ז והנך רואה שהשמיט ברכת המזון משמע דסובר דהוה חבילות אף בזמנים נפרדים משא״כ קדושה ואבדלתא חדא הוא כמו יקנה״ז:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:25"
+        },
+        "26": {
+          "he": "אחר עמ״א. וע׳ עט״ז וב״ח דשמיעה לא הוי הפסק:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:26"
+        },
+        "27": {
+          "he": "וי״א עמ״א בקס״ו א׳ מזיגת הכוס צריך דקדוק גדול ולי״א דאסור להפסיק בין נטילה למוציא צריך ליתן לכוס קודם נטילה וקידוש צורך סעודה לא הוי הפסק דאסור לאכול קודם קידוש ואין קידוש אלא במקום סעודה משא״כ ליתן לכוס מהקנקן צריך ליתן קודם נטילה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:27"
+        },
+        "28": {
+          "he": "בליל פסח עמ״א ועמ״ש בט״ז אות י״ד וט״ו בזה יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:28"
+        },
+        "29": {
+          "he": "שיטעמו כולם עמ״א הא עדיף דטעים המקדש מלא לוגמיו ממה שיטעמו כולם ויצטרפו שתיות כולם כמלא לוגמיו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:29"
+        },
+        "30": {
+          "he": "רובו עמ״א ועסי׳ תע״ב ס״ט במ״א יו״ד וי״א ואפשר שאני ד׳ כוסות הא קידוש אף בכוס גדול א״צ רוב הכוס ודי במלא לוגמיו. אם אין לו אלא כוס פגום יקדש עליו ממה שיבטל יין קידוש אף שיש לו פת ומכ״ש בשחרית והבדלה ועסי׳ קפ״ב בט״ז זיי״ן ומ״א י״ב וצ״ע בלילה די״ל יקדש על הפת:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:30"
+        },
+        "31": {
+          "he": "הפסיק עמ״א תוס׳ ברכות מ״ם א׳ ד״ה הביאו לכאורה אסעודה קאי ולא אקידוש ומ״מ י״ל דגם בהמוציא אם סח מצרכי סעודה אף דלא צורכי המוציא אין חוזר ומברך פה״ג דקידוש נמי מצורכי סעודה והמוציא הוי:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:31"
+        },
+        "32": {
+          "he": "יביא עמ״א ועט״ז אות י״ט. ומ״ש בשחרית על שכר כו׳ דוקא שכר בשחרית הא יין בשחרית ויש לו עוד יביא כוס אחר יין ובלילה אין מקדשין על שכר כבסי׳ ער״ב ואף דמקדשין על פת מ״מ כשיש לו יין צריך להביא כוס אחר בלילה דיין חשוב הוא ואסמכוהו אקרא זכרהו על היין ועא״ר ל״ד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 271:32"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "לאכול עט״ז בחה״ר ברכות כ״ז ב׳ שמואל כו׳ ולא מיבעיא בזמן תוספת שבת ד״ת אפי׳ מפלג המנחה וי״ל דתוס׳ שבת זה לא הוי מ״ה כבסימן רס״א אפ״ה יצא ידי קידוש שמ״ע לקדש בכניסה או סמוך לו והרי ברס״ז ס״א מבואר כן והר״מ ז״ל אע״פ שסובר תו״ש אינו מ״ה עכ״פ אפ״ה כ׳ בפכ״ט מה״ש הי״א שיצא ידי קידוש מבע״י ולשון כמע״ט קשה קצת אבל ודאי קודם פלג המנחה לא יצא ידי קידוש על הכוס ואע״פ שהתפלל ערבית בלילה חוזר ומקדש על הכוס. ולענין אי קידוש על היין ד״ת או לאו עמ״א ח׳ ובתוס׳ פסחים ק״ו א׳ ד״ה זכרהו סיימו די״ל על היין ד״ת ולמטעם הוי דרבנן ועיין ר״ן שם ובהשגות הר״א פכ״ט משבת הלכה עשירי אף לכאורה משמע אף שמזכיר בתפלה מ״מ הקידוש הוי ד״ת יש לדחות ולומר קידוש דלילה עיקרו מ״ה כו׳ ומיהו כשהתפלל תפלת חול והזכיר שבת בלא ברכה דיצא ידי תפלה כבסי׳ רס״ח ס״ד אפשר ידי קידוש לא יצא דבעינן ברכה לקידוש היום שיאמר בא״י מקדש השבת ומה שהזכיר ותתן לנו יום השבת אפשר ידי קידוש לא יצא אף מ״ה. ונ״מ אי קטן מוציא כה״ג לגדול. ובלבוש משמע שזה הקידוש על היין מ״ה וזה י״ל דעת ר״ת בתוס׳ שם ק״ו ב׳ ד״ה מקדש דאין יין אין מקדש כלל דסובר קידוש על היין ד״ת הוא ומיהו למ״ש שם אליביה דבשכר חמר מדינה צ״ע ש״מ דלאו ד״ת על היין וע״כ יוצא בתפלה כמ״ש המ״א. ובנזיר ד״ת משמע יין דרבנן: ויש לראות דנשים אין מתפללים ערבית דלא קיבלו עלייהו כבסי׳ ק״ו א״כ איך אנשים מוציאות אותם דרבנן לד״ת וזה טעות דא״נ יצא לגמרי מוציא מטעם ערבות ואף נשים כמבואר ויצוייר קטן מוציא גדול כשהתפלל ערבית ולא את האשה ולמ״ד קידוש על היין ד״ת אין מוציא וכן י״ל אסמכתא חשוב״ה כי הא הוי כד״ת ואי״ה בפתיחה כוללת יבואר עוד עיין אות י״ט אי״ה יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 271:1"
+        },
+        "2": {
+          "he": "ומוציאות עט״ז ועמ״א ב׳ וא״ר ג׳ לבני ביתה מוציאה יע״ש. ובאות ב׳ תרי בע״ה לא יקדשו כא׳ דתרי קלי לא משתמעי ופירוש ואין השומעים יוצאין ידי חובתן יע״ש בשם דרשות מהר״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 271:2"
+        },
+        "3": {
+          "he": "קודם עט״ז כי קידוש הלילה למ״ד על היין ד״ת ודאי עדיף דקידוש היום דרבנן ולא מזכיר רק פה״ג אפי׳ למ״ד על היין דרבנן וכבר יצא בתפלה כמ״ש המ״א א׳ אפ״ה עיקר קידוש דלילה הוי ד״ת ואסמכתא חשובה אם זכירה זו בפה דוקא מגילה יכול בלב כו׳ עמ״ש אות ב׳ ואי״ה יבואר בפתיחה כוללת:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 271:3"
+        },
+        "4": {
+          "he": "בלא עט״ז מ״ש בסמוך יתבאר שהוא דעת הראב״ד באות ה׳ ואי״ה שם יבואר. ומ״ש לחלק בין תפלה בסימן קע״ח ס״ו דהתם טעימה עכ״פ מותר רק אכילה אסור משא״כ קידוש אף טעימה אסור וכמ״ש המ״א אות ט׳ ויו״ד ועל היין א״צ לברך דאין זה מעשה חדש דיין קודם לקידוש וכן בפת כשאין לו יין לא הוי הקידוש הפסק ומעשה חדש ולהלכה העלה כי״א דאין לברך המוציא דספק ברכות לקולא והראה לרצ״ט עיין שם אות א׳ ואות ד׳ ובמ״א שם אות וי״ו דכאן אפילו עסוקין רק בשתייה לא בסעודה אפ״ה א״צ לברך על קידוש פה״ג ואי״ה באות ה׳ יבואר מזה: והוי יודע דאע״ג דקיי״ל בכ״מ דהלכה כדיעה א׳ בסתם כמבואר בש״ך י״ד רמ״ב י״ל דהוה דיעה א׳ כרבים וכת״ק נגד יחיד משא״כ בספק ברכות י״ל דלקולא אף ברבים נגד מועטים כי י״ל בס״ס נמי לא מהני בספק ברכות וס״ס כרובא ה״ה דיעה א׳ בסתם וא״ש נמי מ״ש הב״ח בסימן זה ס״ג וברס״ח ס״ג דשני דיעות ספק ברכה לקולא כאמור דשאני ספק ברכה משאר דינים אם לא ביחיד ממש נגד רבים אפשר דמברך ואי״ה בכללי או״ה יבואר זה וכאן אין להאריך ומ״ש מדין תפלת ערבית כבסי׳ רל״ה ס״ב יע״ש ועסי׳ תרנ״ב בט״ז אות ד׳ יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 271:4"
+        },
+        "5": {
+          "he": "שנים עט״ז תוכן כוונתו ז״ל לומר דכאן נאמרו באו ונקדש אף כוס קידוש צריך פה״ג וזה כדעת ע״ש המוזכר במ״א יו״ד ואה״נ דהמ״ל דמברך פה״ג אקידוש גופא ולעיל ס״ד בלא אמרו בואו ונקדש מודה הר״מ ז״ל דאין מברך אכוס קידוש וה״ה דאין מברך אם שותה באין רשאי דאיסורא לחוד לא הוי הפסק משא״כ כאן אמירה גיע טפי ואעפ״י שבב״י כתב די״א בטור דעל יין קידוש מברך הוא הר״מ ז״ל והיינו בואו ונקדש חזר כאן וסובר דל״ד אמירה מבע״י או ביה״ש בלא אמירה בקידוש היום דעל היין א״צ פה״ג ואפשר אף ביין אם רוצה לשתות בקידוש היום בלא אמירה אע״פ שאין רשאי א״צ פה״ג דדוקא בהמוציא דיעה א׳ דמברך הואיל ואיסורא וגם אומר קידוש כמ״ש באות ד׳ משא״כ ברוצה לשתות בלא קידוש. ועם זה יתיישב מ״ש המחבר כאן אעפ״י שאין רשאי מברך פה״ג ל״ל דא״י הול״ל אם מקדש מברך פה״ג לדעתו ז״ל בשלמא על הר״מ פ״ד מה״ב ה״ח י״ל אגב הב ונברך כלל תרווייהו עמ״א י״ד משא״כ המחבר דמיירי בקידוש לחוד הול״ל יותר רבותא אלא לדיוקא לומר כאן באמירה מברך פה״ג הא בס״ד בקידוש היום בלא אמירה אף שותה בלא קידוש אין מברך פה״ג. אמנם דעת הר״א ז״ל בהשגות א״א לומר בקידוש היום בלא אמירה אסור לשתות אבל ברוצה אע״פ שאין רשאי א״צ לברך פה״ג א״כ לא היה לו להשיג כ״א לומר דגמ׳ פסחים ק״ה א׳ מיירי בקידוש היום בלא אמירה קובעת קידוש ולא הבדלה הא באמירה הבדלה נמי אסור למשתי בלא ברכה ולמה ליה לומר דקידוש קובעת בלא אמירה דהר״מ נמי סובר כן בפכ״ט משבת וכאן מבע״י מיירי כמ״ש הכ״מ אלא דהר״מ ז״ל ר״ל דשבת בקידוש קובעת משחשיכה בלא אמירה ומברך פה״ג כמו הבדלה באמירה והשיג על הר״מ ז״ל אגופא דדינא דכתב דוקא בואו ונקדש הוא דמברך פה״ג הא בלא אמירה משחשיכה לא ואמר דאינו כן כו׳ ועיין פכ״ד מה״ש הי״ב ומ״מ שם דעת הר״מ דאין מברך פה״ג ולא המוציא ומ״ש שם וגדול״ה מזו יע״ש בס״ד מבואר דהמוציא יותר יש סברא יע״ש וי״ל. וא״כ מ״ש הב״י די״א בטור מאן נינהו י״ל הראב״ד עיין אות ד׳ אבל למ״ש המ״א אות יו״ד י״ל דהראב״ד אפה״ג של שתייה חולק הא פה״ג דקידוש מודה דאין מברך בס״ד זהו הנראה לי בכוונתו כאן ועמ״ש במ״א אות יו״ד מזה ועיין ח״מ. ואי״ה ברצ״ט יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 271:5"
+        },
+        "6": {
+          "he": "אעפ״י עט״ז דהמחבר כאן פסק כר״מ דאין רשאי דאמר בואו ונקדש אף ביה״ש או מבע״י אסור למשתי אף בברכה שחל עליו הקידוש מיד ואסור לטעום קודם קידוש משא״כ בקע״ט ס״ח פסק דרשאי אם רוצה לברך פה״ג יע״ש ועמ״א שם אות ב׳ וכאן בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 271:6"
+        },
+        "7": {
+          "he": "ונזכר עט״ז כאן אף לדיעה א׳ שם כו׳ וי״ל מש״ה נקיט קודם שאכל דאחר שאכל יקדש על היין אם יש לו משא״כ קודם שאכל צריך לקדש על הפת אעפ״י שיש לו יין דאל״כ יהיה פה״ג הפסק בין ברכת המוציא ובין אכילה ועתו״ש וצ״ע ועמ״א אות י״א וא״ר י״ג:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 271:7"
+        },
+        "8": {
+          "he": "וצריך עט״ז עב״י ועמ״א י״ד דל״ק מקפ״ח סעיף י׳ ובט״ז אות זיי״ן יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 271:8"
+        },
+        "9": {
+          "he": "וי״א עט״ז וכ״כ המ״א אות י״ח דוקא כאן בגמר סעודה ונטל ידיו ולא הזכיר מהב ונבריך ובאות י״ג יע״ש ובסי׳ קע״ט ס״א לה״ר יונה והר״ן אכילה מותר בלא המוציא כ״ז שלא נט״י יע״ש ולפ״ז י״ל מש״ה נקיט המוציא ולא פה״ג משמע אף הב ונבריך כו׳. ועסי׳ קע״ט מ״ש שם.והיינו לרבותא אף המוציא מברך בהב ונבריך אף להר״ן וה״ר יונה שם דהכא איסורא ומעשה דהב ונבריך מודים באפשר ה״ר יונה והר״ן ועיין אות ד׳. ומ״ש הר״ב להוציא נפשיה מפלוגתא סברא ראשונה כלומר לסברא א׳ א״י אם להזכיר שבת ואם יטעום מכוס ב״ה וגם אם יאכל מעט אח״כ דליהוי קידוש במקום סעודה (כמ״ש הר״ב בהג״ה וא״ל יאכל מעט אח״כ ומה בכך י׳ל כי צריך כזית ויברך בהמ״ז ב״פ וברכה שאינה צריכה אסור) ומש״ה טוב פורס מפה קודם ומקדש פה״ג ואף מברך המוציא ועיין לבוש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 271:9"
+        },
+        "10": {
+          "he": "טעם מקדש עט״ז וכ״כ המ״א אות י״ט וכ״כ הנ״ץ והלבוש ופסחים ק״ז א׳ יע״ש ואי״ה במ״א יבואר בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 271:10"
+        },
+        "11": {
+          "he": "מלבד עט״ז ובלילה אף בסופה אומר ויכלו והוי יודע אם לא קידש כל היום ונזכר ביה״ש למ״ש המ״א אות א׳ דכשקידש בתפלה הוי תו דרבנן על היין י״ל ביה״ש א״צ תו דספק דרבנן לקולא כבסי׳ תרנ״ב במ״א א׳ ואפשר יאמר בלי פתיחה וחתימה אם יאמר ברוך אתה השם יבואר אי״ה בפתיחה לה״ב ובפסחים ק״ז א׳ אמימר פתח בהאי לישנא מי דלא קידש בע״ש מקדש כל היום כולו ולא סיים עד מוצאי שבת לומר ביה״ש לא וכאמור. ואם לא התפלל כל השבת ודאי אף ביה״ש מקדש דספק תורה הוא וכדכתיבנא:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 271:11"
+        },
+        "12": {
+          "he": "פרוסה עט״ז ג׳ טעמים יש א׳ כי היכי דתיתי הסעודה ביקרא דשבתא ב׳ זכר למן ג׳ שלא יראה בושתו עמ״א ך׳ ואות זיי״ן ולכאורה משמע דכאן פורס מפה רק ע״ג הפת לבד ובסעיף ד׳ פורס מפה על כל השולחן אבל מלת על גבי״ו משמע השולחן (פת משמע נקיבה משלי י״ז א׳ כ״ג ח׳) עמ״ש ברנ״ד ס״ה מזה וכ״מ בטור דפורס מפה כאלו אינו כאן וקאי אמ״ש בגמרא פסחים ק׳ ב׳ אין מביאין השולחן כו׳ ואם הביאו פורס מפה כו׳ ומפה תחת הפת שיהא שולחנו ערוך עיין לבוש ולטעם זכר למן א״ש בלא״ה והיינו בשבת וי״ט לא היה המן יורד עסי׳ רמ״ב ובא״ר אות י״ז כתב כשמקדש על הפת צריך להניח ידיו עליו כמו בכוס שנוטל בידו כבסי׳ תע״ג יע״ש אלא יכסה מקודם קידוש וכשמתחיל לקדש יגלה ויניח ידיו עליו יע״ש. והנה ברע״ד ס״א אוחז בידו כבסי׳ ר״ו ס״ד אוחזו בימינו כו׳ וא״כ ודאי יגלהו בהמוציא ואוחזו וטעם זכר למן ודאי די בשעה מועטת מכוסה ואח״כ מגלהו ומש״ה לא כתב הט״ז ונ״מ לטעם א׳ לאחר פה״ג רשאי לגלותו וכמ״ש המ״א ך׳ דגם לטעם זכר למן רשאי לגלותו מיד אחר פה״ג אבל המ״א כתב יקרא דשבתא ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 271:12"
+        },
+        "13": {
+          "he": "ואומר עט״ז הא דא״א זמן דפחות משלשים יום א״א זמן כנה״ג בהגהות הטור בשם הרד״א אבל ב׳ מינים אומרים כמו סוכה וש״ע. ומין א׳ שאין תלוי בימים כמו ב׳ בנים מב׳ נשים וכלים חדשים אומרים אף בתוך ל׳ יום יע״ש. ועסי׳ רס״ח בט״ז ה׳ כתבנו כשיש עשרה אומרים ויכלו מעומד הא לא״ה לא:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 271:13"
+        },
+        "14": {
+          "he": "אחר עט״ז פסחים ק״ו ב׳ וע״ש ובטור וב״י וב״ח ובא״ר אות כ״ז משום לא פלוג דמקדש על הפת לכ״ע צריך ליטול קודם ה״ה על היין ועוד האידנא עפ״י הרוב אין ידיו נקיות יע״ש והיינו סתם ידים כשירות לברכה והאידנא עפ״י הרוב קרוב לודאי שנגע במקום המטונף צריך ליטול ידיו ומיהו משום הא יטול ולא יברך ענט״י וי״ל דליהוי קצת כגסי הרוח. ועיין עט״ז אות ג׳ בשם הב״ח וכ״כ המ״א אות כ״ו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 271:14"
+        },
+        "15": {
+          "he": "רק עט״ז ובתע״ג בט״ז אות א׳ ובמ״א אות ג׳ יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 271:15"
+        },
+        "16": {
+          "he": "מלא לוגמיו עט״ז ובק״צ אות ג׳ יע״ש ושם נאמר דכוס ברכה צריך רביעית משום ספק ברכה אחרונה משא״כ כוס קידוש בהמ״ז פוטרתה כבסי׳ ער״ב סעיף יו״ד וקע״ד ס״ז יע״ש א״כ די ברוב רביעית ומשמע אפי׳ מקדש קודם נטילה א״צ ברכה אחרונה על כוס קידוש דאין קידוש אלא במקום סעודה והוי צורכי סעודה ואי״ה ברע״ב ס״י ורצ״ט ס״ח יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 271:16"
+        },
+        "17": {
+          "he": "שטעמו עט״ז עב״י בשם המ״מ ובלבוש כתב שיטעמו כולם מלא לוגמיו ועא״ר אות כ״ט ועיין לבוש מ״ש דאם לא טעם מלא לוגמיו הוי ברכה לבטלה קשה דודאי אסור ליהנות מעוה״ז בלא ברכה אפי׳ כ״ש אלא דחז״ל תקנו שיהא כוס ברכה הנאה מרובה כמלא לוגמיו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 271:17"
+        },
+        "18": {
+          "he": "ודוקא עט״ז משמע אף קידוש של יום בשחרית דאסמכוה אקרא בפ׳ ע״פ ק״ו אי נמי הכין הוא להגאונים ובלבוש כתב דקידוש ד״ת הוא ואסמכוה אקרא להיות יין א״כ קידוש של יום ודאי דרבנן י״ל דמודים הגאונים עסי׳ רפ״ט במ״א א׳ ובי״ט ג״כ הקידוש דרבנן עמ״א א׳ א״כ להלבוש מודים הגאונים ולהט״ז י״ל די״ט נמי אסמכוה אקרא שיהיה קידוש י״ט איין כמ״ש א״ר אות ג׳ בשם בה״ג פסח למען תזכור שבועות וסוכות וזכר״ת יע״ש והיינו ביין כתיב זכרו כיין לבנון ועמ״א א׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 271:18"
+        },
+        "19": {
+          "he": "אם עט״ז מ״ש התוס׳ פסחים ק״ו א׳ ד״ה זכרהו ובריש נזיר ג׳ יע״ש ועמ״ש להסמיך לקידוש ד״ת אתה רואה לכאורה שחולק על המ״א א׳ וסובר בתפלה אין יוצא ידי קידוש ד״ת יע״ש. ולדינא פסק כמהרא״ש דאף דרבנן כל שלא עשה כתיקון חז״ל לא יצא וצריך לחזור ולקדש כל שהקידוש היה שלא כדין כמו כוס יין וכמו קידוש שלא במקום סעודה בסי׳ רע״ג סעיף ב״ג אבל כשהקידוש כדין ואח״כ אירע קלקול יתקן אשר עיוות ומש״ה נשפך צריך להביא כוס אחר ויברך פה״ג ויטעום ועמ״א אות ל״ב ואי״ה שם יבואר ועא״ר אות ל״ג. ומ״ש שאם יש לפניו יין א״צ פה״ג כבסי׳ ר״ט סעיף ב׳ ובט״ז אות ב׳ ומ״א ח׳ ואף אין אחרים עמו כל שהיה דעתו לשתות עוד יין שלפניו אין מברך פה״ג וטועם כך אבל בלא היה דעתו לשתות כ״א כוס קידוש פשיטא דחוזר ומברך וטועם יין אחר וכן נשפך זה הכוס אם היה דעתו שישתה עוד מה שעל השולחן או על הספסל א״צ לברך פה״ג שנית: ולענין אי קידוש על היין ד״ת או דרבנן מבואר במ״א א׳ וט״ז א״ב יע״ש וכאן אין להאריך: עיין שיטה מקובצת ביצה ד׳ ע״ב רב אסי מבדיל ומברך הבדלת י״ט ד״ת דלא כמ״מ פכ״ט והוא פלא בעיני ואי״ה ברצ״ד יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 271:19"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] ימהר וכו'. ודעת מגן אברהם שיכול להמתין בקידוש שכבר זכר אותו בכניסתו בבית הכנסת, ומגן אברהם כתב דתפילה רק מדרבנן היא על היין ומקום סעודה ועיין בסמ\"ג עשין כ\"ט ובספר החינוך פרשת יתרו, ובב\"ח סימן ע\"ר משמע שנהגו שלא לקדש בבית עד חשיכה ובשלטי גיבורים פרק ערבי פסחים כתב דלא שפיר עבדי מקדש מבעוד יום דאין כניסתו אלא צאת הכוכבים ועיין סוף סימן רצ\"ג בטור ובית יוסף ועיין סימן רס\"ז סק\"ב:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:1"
+        },
+        "2": {
+          "he": "[ב] [לבוש] ויקדש וכו'. כתב בדרשות מהר\"ש שאין שני בעלי בתים יקדשו כאחד דתרי קלי לא משתמעי עד כאן לשונו, כלומר שבני הבית לא יצאו ידי חובתם (מלבושי יום טוב), ולא דמי למגילה סימן תר\"ץ סעיף ב' והלל בסימן תפ\"ח דשם יהבי דעתייהו משום זכרון הנס וצריך עיון. ולפי זה גם קצת מהמסובים לא יאמרו בקול רם עם בעל הבית:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:2"
+        },
+        "3": {
+          "he": "[ג] [לבוש] מוציאות וכו'. הקשה הב\"ח מאי שנא במגילה סימן תרפ\"ט דאין מוציאות, ואשתמיטתיה תוס' סוכה דף ל\"ח שכתבו כיון דרבים הם זילו בהו מילתא שתוציאם אשה, ועיין באגודה פרק ג' דסוכה שכתב בשם ר\"י דאין מוציאות והוא פסק שמוציאות ובשבועות סימן ט' כתב שאין מורין כן (מגן אברהם). ולעניות דעתי כוונת הב\"ח שלא להוציא אנשים שאינם בני בית הזה דהא כתבו תוס' שם הכי גבי ברכת המזון דאין מוציאה רבים ידי חובתם, ורבים לאו דוקא קאמר דלא שכיחן בברכת המזון אלא אנשים אחרים דזילהו בהו מילתא, וראיה לזה ממה שכתב אגודה בשבועות שם זה לשונו ולפי דעתי אפילו אנשים בני ביתה מוציאה ואין מורין כן, מבואר דכשאינן בני ביתה מודה, גם תמוה מה שכתב מגן אברהם דאגודה בסוכה פסק דמוציאה הא כתב שם זה לשונו, ונראה לי דנשים מוציאות נשים, עד כאן, מבואר דוקא נשים מוציאה ולא אנשים. גם על עולת תמיד יש תימא במה שכתב בשם הב\"ח שהמנהג שאין מוציאה ונמשכתי אחריו באליהו זוטא, וליתא דזה לשון הב\"ח וכן ראיתי שכתב מהרש\"ל, עד כאן, רצה לומר שכתב שאין מוציאה אבל ממנהג לא הזכיר כלל. ולדינא נראה לי באין בני ביתה אין מוציאה אבל לבני ביתה מוציאה כשאין בעל הבית אלא שאין מורין כן, מיהו כשאין בני ביתה אנשים רק קטנים ונשים ודאי מורין להוציאן. ופשוט דקטן אין מוציא האשה ואפילו בן י\"ג שנים דבמילי דאורייתא לא סמכינן על החזקה שהביא שתי שערות עד שנתמלא זקנו (מגן אברהם), ועיין לעיל סימן רכ\"ה סק\"ד, מיהו אשה שהתפללה מעריב מוציא דכבר אזלא חיובא דאורייתא כדלעיל. ודע דקידוש דיום טוב אינו אלא מדרבנן כמו שכתב המגיד משנה פרק כ\"ט מכל מקום יש לו כל דין קידוש של שבת ואם אין לו אלא כוס אחד שבת קודם (מגן אברהם). וצריך עיון דבעל הלכות גדולות דף י\"ב כתב אין לי אלא שבת חג המצות מנין תלמוד לומר למען תזכור את יום צאתך, חג השבועות מנין תלמוד לומר וזכרת כי עבד היית בארץ מצרים ושמרת ועשית, חג הסוכות מנין תלמוד לומר וזכרת כי עבד היית במצרים ויפדך ה' אלקיך, ואולי כוונתם על ראש השנה או דסבירא ליה הנך קראי אסמכתא וצריך עיון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:3"
+        },
+        "4": {
+          "he": "[ד] צרכי סעודה וכו'. דוקא כשיש לו פת (עולת תמיד ומגן אברהם). וצריך עיון בסוף סימן קס\"ז דאין יכול להוציא במוציא ובקידוש מוציא כדפירשתי שם. כתב מגן אברהם אם יש לו ללילה ואין לו לקידוש היום ולכבוד יום אפשר דכבוד יום עדיף ומכל מקום אפשר דדי בפת והמותר יקנה בו יין, עד כאן, וכן משמע בתוס' ערבי פסחים דף קי\"ג:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:4"
+        },
+        "5": {
+          "he": "[ה] [לבוש] בכניסתו וכו'. משחשיכה אפילו לא קיבל שבת ואם קיבל שבת אפילו מבעוד יום אסור לטעום (ב\"ח). ולעולם שרי לרחוץ פיו כיון דאינו מכוין להנאת טעימה ועיין סימן תקס\"ז. ואם רוצה לקבל שבת מבעוד יום ולקדש ולאכול ולהתפלל ערבית בלילה רשאי (מגן אברהם). וצריך לומר דמיירי חצי שעה קודם לזמן מעריב כדלעיל סימן רל\"ה סעיף ב', וכן משמע מט\"ז שכתב דהפורס מפה ומקדש אין צריך להתפלל ערבית כיון דהתחיל לאכול בהיתר, עד כאן. ועיין מה שכתבתי סימן רל\"ה סק\"ז מזה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:5"
+        },
+        "6": {
+          "he": "[ו] [לבוש] פורס מפה וכו'. כי היכא דתיתא סעודה ביקרא דשבתא:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:6"
+        },
+        "7": {
+          "he": "[ז] [לבוש] ברכת המזון האחרון וכו'. ומזכיר בו של שבת כמו בסוף סעיף ז' וכן משמע בפוסקים:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:7"
+        },
+        "8": {
+          "he": "[ח] ויש אומרים וכו'. תימא בסוף סימן קע\"ח פסק דתפילה אינו הפסק והכא בקידוש כתב שני דעות (עולת תמיד), ולא דק דהא הרא\"ש וטור פסקו הכא דהוי הפסק ולעיל לא הפסק אלא אשתמיטתיה הרא\"ש פרק ערבי פסחים דמחלק להדיא דלא דמי לתפילה דכיון שקידש היום נאסרה עליו באכילה אם כן כשאוכל אחר קידש הוי התחלת אכילה אחרת וכן כתב מהר\"י קולון שצ\"ו וכן כתבו ט\"ז ומגן אברהם, ופירושו נראה דתפילה כיון שלא נאסר עליו אכילה הוי כשאוכל אחר כך תשלום סעודה ראשונה, אבל בקידוש כיון שקידש היום אסור לאכול בתורת סעודה ראשונה והוי כאילו בירך ברכת המזון ואוכל אחר כך סעודה אחרת לכבוד שבת, גם לב\"ח סוף סימן רצ\"ט אשתמיט דברי הרא\"ש הנזכר לעיל, גם מה שהקשה שם על מהרי\"ק לא קשה מידי למה שפירשתי עיין שם ודו\"ק. ולענין הלכה הסכימו האחרונים כיש אומרים דספק ברכות להקל:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:8"
+        },
+        "9": {
+          "he": "[ט] גמר וכו'. פירוש שנטל מים אחרונים או אמר הב לן ונברך עיין סימן קע\"ט אבל קודם לכן אף שגמר כולי עלמא מודים דפורס מפה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:9"
+        },
+        "10": {
+          "he": "[י] ומברך המוציא וכו'. אף יש אומרים בסעיף ד' מודים לזה כיון שכבר נטל הוי הפסק וכתב הב\"ח ואחרונים דמברך בורא פרי הגפן בקידוש אף ששתה יין קודם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:10"
+        },
+        "11": {
+          "he": "[יא] [לבוש] ואמרו וכו'. והא דאמרינן בסעיף ד' דאפילו בלא אמירה אסור לטעום כבר כתבתי שם דמיירי משחשיכה והכא יש לומר דמיירי מבעוד יום:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:11"
+        },
+        "12": {
+          "he": "[יב] [לבוש] לחזור ולברך וכו'. והא דקיימא לן בסעיף ה' דהמקדש בלא ברכת פרי הגפן, נראה לי דשאני קודם קידוש שהרי הסיח דעתו מלשתות קודם קידוש וכן משמע במגן אברהם וכן מצאתי בלחם משנה פרק ד' מהלכות ברכות, ועולת תמיד חילק דבאמירה גרע דאפילו בקידוש צריך לברך בורא פרי הגפן וכן נוטין דברי הט\"ז ולא נהירא:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:12"
+        },
+        "13": {
+          "he": "[יג] [לבוש] קודם שאכל וכו'. פירוש פרוסת המוציא ואם נזכר אחר שאכל מוציא נראה דיקדש ולא יצטרך לברך שנית המוציא ולא זכר קודם שאכל אלא משום סיפא בהבדלה (ט\"ז). ולי נראה דלכך אמר קודם שאכל דאז יקדש על הפת כדי שלא יאכל קודם שיקדש מה שאין כן לאחר שאכל אז יש לו לקדש על היין, אלא בשלטי גיבורים שם שכתב טעמא דכיון דנטל ידיו הוקבע קידוש על הפת ולא על היין אם כן כל שכן בזה שכבר אכל פת ואפשר דכבר אכל גרע, ועוד דהא קיימא לן סעיף י\"ב דלכתחילה יש ליטול ידיו וכו' טעמא דאין קידוש אלא במקום סעודה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:13"
+        },
+        "14": {
+          "he": "[יד] [לבוש] פרוסת המוציא וכו'. שלא יבטל ברכת נטילת ידים וברכת המוציא שלא יבוא תקנה להפסדתם (שלטי גיבורים), ובזה נדחה מה שכתב מגן אברהם בשם תשובת הר\"מ דיבדיל ואחר כך יברך שנית המוציא ויאכל דהא אסור לאכול קודם שיבדיל, עד כאן, דודאי היזק ברכה לבטלה עדיף מאיסור אכילה זה שהוא חששא דרבנן:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:14"
+        },
+        "15": {
+          "he": "[טו] [לבוש] אפילו אם וכו'. מבואר דאם הזכיר בלילה אחר טעימה דמקדש בלילה דלא כבית יוסף וכן הדין בליל יום טוב כשלא קידש שמקדש ביום (מגן אברהם סימן רצ\"א):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:15"
+        },
+        "16": {
+          "he": "[טז] [לבוש] ועוד שאם וכו'. הא דלא כתבו נמי טעם דתיתי סעודה ביקרא דשבתא משום דלא שייך בסעודת שחרית כמו שכתב מרדכי פרק ערבי פסחים. ויכסה במפה לבנה (ספר צדה לדרך):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:16"
+        },
+        "17": {
+          "he": "[יז] [לבוש] זכר למן וכו'. שלא היה יורד בשבתות וימים טובים (תוס' פסחים ק'). ונפקא מינה יש דלטעם ראשון מיד כשבירך בורא פרי הגפן רשאי לגלותו, ולטעם שני עד אחר קידוש, נראה לי. בפרישה מצאתי זה לשונו אין להסיר המפה עד אחר שישתה כל המסובים ורוצה לברך על הפת דאז מוציא הפת מתחת המפה ואחר כך יסירנה דהוי דומה לטל שהיה על המן שהוציאו אותו מתחת הטל, עד כאן. וצריך עיון הא בפסוק בפרשת בשלח כתיב ותעל שכבת הטל וגו' פירש רש\"י כשחמה זורחת עולה הטל שעל המן וראו וכו', הרי שנסתלק הטל תחילה, וכן באמת לא ראיתי להקפיד בהך שמוציאים הלחם קודם שמסירין המפה, ואפשר דסבירא ליה דדוקא ביום ראשון קודם שידעו שהוא המן נשאר שם שעולה הטל אבל אחר כך משידעו היו מוציאין קודם זריחת השמש שעדיין היה הטל עליו והיינו דכתיב וילקטו אותו בבוקר בבוקר שני פעמים רצה לומר בהשכמה. והנה נפקא מינה שכתב הלבוש דלטעם שני אפילו מקדש בפת צריך לכסות וכתבו הט\"ז ועולת תמיד שכן נוהגין, צריך עיון לי דבספר צידה לדרך כתב דאין צריך לפרוס מפה אף שכתב גם הטעם השני, ועוד הא צריך להניח ידיו על הפת בשעת קידוש כמו שנטל בידו הכוס כדלקמן סימן תפ\"ג, ונראה דקודם קידוש יכסה וכשמתחיל לקדש יגלה ויניח ידיו עליו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:17"
+        },
+        "18": {
+          "he": "[יח] פגום וכו'. ובדיעבד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:18"
+        },
+        "19": {
+          "he": "[יט] ואומר ויכלו וכו'. ואם שכח לאומרו אומרו תוך הסעודה (מגן אברהם בשם מטה משה). וצריך עיון דעיינתי במטה משה בסימן תכ\"ט שכתב בשם רוקח שאם שכח בבית הכנסת יאמר ויכלו בקידוש בעמידה, וכן כתב מגן אברהם בשם מטה משה סימן רס\"ח סק\"י, אבל באם שכח בקידוש לא כתב מטה משה כלום שיאמרנו בתוך הסעודה, ובעולת תמיד סימן רס\"ח כתב בשם מטה משה ורוקח דיאמר בתוך הסעודה על הכוס ותמוה יותר ומכל מקום לדינא כיון שהוציא בני ביתו יש לאומרו בתוך הסעודה, אך הרוקח סימן נ\"ב כתב טעם שמא שכחו בתפילתו לכך אמרו בקידוש, אם כן משמע דאם שכחו בקידוש אין צריך לאומרו כיון שידוע שאמרו בתפילה, אבל צריך עיון דבסימן מ\"ט כתב מסיק רבא במדרש ויכלו גם חייב לומר אחד בתפילה ואחד לאחר התפילה ואחד על הכוס, ועיין לעיל סימן רס\"ח ס\"ק י\"ב:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:19"
+        },
+        "20": {
+          "he": "[כ] [לבוש] ברוך אתה ה' אלהינו מלך העולם וכו'. עיין בתיקוני שבת נוסחאות בקידוש וקיצרתי כיון שכתב מגן אברהם שאין לשנות שום מנהג כי לכל מנהג יש לה טעם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:20"
+        },
+        "21": {
+          "he": "[כא] יתן עיניו בנרות וכו'. עד שיגמור ויכלו כדי לרפאות עינים שכהו מפסיעת גסה משום שראיתי בדרשות מהר\"ש שנהג לראות בנרות בשעת קידוש מהאי טעמא (מלבושי יום טוב). וכתב במהרי\"ל הלכות שבת משום דפסיעה גסה נוטל אחד מחמש מאות ממאור עיניו של אדם, ושתי פעמים נר עולה חמש מאות והמסתכל בשתי נרות של שבת יהיה לו רפואה, עד כאן, ומשמע שם דאף בשעת קידוש אחר גמר ויכלו יסתכל בנרות, ומגן אברהם כתב דיש ליתן עיניו בכוס ובנר כמו שנתבאר ריש סימן רצ\"ו מיהו אין לדקדק בזה כל כך, ומשמע שפירושו כן הגמרא דברכות דף מ\"ג מאי תקנתיה להדריה בקידושא דבי שימשי, ורוצה לומר בשעת קידוש יתן עיניו בנר, אבל רש\"י פירש דשתיית כוס של קידוש בליל שבת היא רפואה, וכן כתבו רש\"י ור\"ן פרק ט\"ו דשבת. וזה לשון אגודה פרק במה מדליקין בטעימות הקידוש ויש אומרים שנותן יין בעיניו וזה צריך להיות לאחר השבת דאילו בשבת אסור, ובתוס' דף ק' דפסחים כתב בשם רב נטרנואי גאון דמקדשין בבית הכנסת ונותן לתוך עיניו לרפואה ומיהו באבי עזרי כתב דהא רפואה מצי למיעבד בקידוש בביתו, עד כאן. ובטור סימן רס\"ט וספר המנהיג כתבו שהיו נותנין על עיניהם, ואולי משום דסבירא להו דהא נותנים בשבת ואם כן אסור ליתן יין בתוך עין אבל על עין מותר כדלקמן סימן שכ\"ח ועיין בית יוסף סוף סימן רס\"ט, מיהו בע\"מ דף נ\"ד ע\"ב כתב דאף על העין אסור כיון שידוע שעושה משום רפואה. ונראה לי דרב נטרונאי שכתבו תוס' סבירא ליה כיון דבשעת קידוש בבית הכנסת מסתמא עדיין יום הוא לא גזרו משום דשבות דרפואה שבות הוא משום שחיקת סממנין אבל בבית מסתמא לילה הוא כמו שנתבאר ריש סימן זה, ואף דבסוף סימן רס\"א משמע דאם קיבל שבת אסור בשבות אף מבעוד יום אפשר דלא סבירא ליה לרב נטרונאי הכי, ועיין מגן אברהם שם ס\"ק י\"א, ואבי העזרי סבירא ליה דאף שבת מותר דלא גזרו על מה שהוא משום מצוה ואינו רפואה בטבעו כן נראה לי ובזה מיושב תמיהת ב\"ח סימן רס\"ט על תוס' שם ודו\"ק:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:21"
+        },
+        "22": {
+          "he": "[כב] [לבוש] אשר בחר בנו וכו'. גם ורוממנו מכל לשון אין אומרים דדוקא ימים טובים נצטווה על ידי ניסים ונפלאות שעשה הקב\"ה אמרינן ורוממנו אבל בשבת לא נצטוו אלא ששבת ממלאכה (ר' דוד אבודרהם):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:22"
+        },
+        "23": {
+          "he": "[כג] שופך וכו'. אבל תוס' בפסחים דף ק\"ה ואגודה כתבו דכוס של חובה צריך ליטעום מכוס שיש בה רביעית ואם כן הכא טועם מכוס ראשון ואחר כך מוסיף עליו מכוס השני כמו שכתב סימן קפ\"ב סעיף ו' ובודאי אילו היה רואה הרב בית יוסף דברי התוס' היה פוסק כוותייהו (מגן אברהם). ותימא גדולה אם כן היכי הוכיח הש\"ס שם טעמו פגמו מדהוצרך להניח להבדלה למי שאין לו אלא כוס אחד במוצאי שבת עד אחר המזון ולא התירו לטעום העודף מרביעית הא אכתי קשה אמאי אינו נותן מעט בידו או בכלי אחר וטועם מכלי ראשון ואחר כך מוסיף מכוס שני וכמו שהוכיח תוס' שם דין דכוס של חובה וכו'. לכן נראה לי דאין היתר בזה דהוה ביזוי מצוה אם ישפוך לכלי אחר ויניחו קודם שישתה, או אפשר דחשבינן גם מיעוט זה לפגום דנמשך אחר הרוב שנפגם כיון שהיה בשעת ברכה עמו וצריך עיון, ועוד דהוה ליה למימר לשפוך מעט קודם שיבדיל וישתה ויתקן אחר כך במעט זה. גם צריך עיון להרא\"ש ורבינו ירוחם שפסקו דין דשופך וכו' היאך מתרץ קושית תוס' שם, לכן צריך לומר דסבירא להו דדוקא התם דאפשר להניח הבדלה עד אחר ברכת המזון דאיסור אכילה קודם הבדלה הוא קל ודוחין אותו כדי שישתה מכוס שיש בו רביעית אבל הכא דהיה נדחה קידוש היום עדיף לשתות מכוס שאין בה רביעית, ולפי זה צריך לומר שכבר מזוג כראוי עד שאי אפשר ליתן לתוכו עוד מים דאם לא כן לתקנו במעט מים, אלא דסיפא ואם לא היה בו אלא רביעית מצומצם וכו' לא אתי שפיר לפי זה, מיהו יש לומר דתיקון במים גרע יותר משתית כוס חובה שיש רביעית וראיה מדכתב הרא\"ש פרק אלו דברים על מה שדייק מירושלמי שהיה מתקנו במים זה לשונו, יש לדחות שהיה טועם קידוש בכלי אחר ומוזגו למחר להשלימו כשיעור, עד כאן, פירוש לא משום פגום שפך לתוכו מים שהיה טועם מכלי אחר אלא משום שבטעמו פחות משיעור רביעית והוצרך לשפוך לתוכו מים להשלימו לשיעור רביעית, אבל היה פגום לא מהני תיקון מים וזה ברור ולאפוקי מעדני מלך שם שלא ירד לעומק דברי הרא\"ש בזה עיין שם, הרי דיש סברא שתיקון מים גרע ואף דלדינא משמע דפסק הרא\"ש דתיקון מים מהני וכדמשמע פרק ערבי פסחים מכל מקום נשמע סברא שזכרתי. אך קשה מאי תמה הרא\"ש שם ובפרק ערבי פסחים על ירושלמי למה לא יבדיל על הכוס ויתננו במים ויכשירנו בברכת המזון, ונדחק דאם כן לא הוה ראוי לשתיה, דילמא דוקא הכי דיבטל קידוש הוא דמתיר הירושלמי בהכי. ובזה מיושב נמי תמיהתי דלעיל דכשם דתיקון מים לא מהני אלא בביטול קידוש כן תיקון יין לא מהני, אבל לפירוש הרא\"ש נשאר בתימא. וכן נראה לדינא דלא מהני תיקון מעט מים או יין אלא באין לו כוס שאינו פגום דאז מותר לקדשו ולברך אף על (שאינו) פגום, אמרינן דעדיף יותר לתקן במעט מים או יין, אבל באפשר אין להתיר וכן משמע בספר תניא סימן י\"ד ומרדכי ואגודה פרק ערבי פסחים, אבל מבית יוסף ושולחן ערוך סימן קפ\"ב לא משמע הכי ועיין סימן רצ\"ס ס\"ק י':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:23"
+        },
+        "24": {
+          "he": "[כד] רביעית בצמצום וכו'. קשה דאפילו טפי מרביעית נמי הא צריך שישתה מלא לוגמיו כמו שכתב בסעיף י\"ג, ואפשר דהכא כדי שלא יבטל קידוש דלמחר סגי בטועם מעט, אך בתוס' פסחים שם משמע דגם הכא מלא לוגמיו בעינן וצריך עיון וכן במרדכי שם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:24"
+        },
+        "25": {
+          "he": "[כה] מוזגו וכו'. ובלבד שיהא ראוי לשתיה אחר מזיגה (רבינו ירוחם) ונראה דבזה אין צריך לשפוך לכוס אחר אלא נשאר כולו בכוס ראשון ושותה ממנו, ואפשר דכל מה שאפשר לתקן מתקנינן עיין ס\"ק כ\"ג:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:25"
+        },
+        "26": {
+          "he": "[כו] שיניחנו להבדלה וכו'. עיין סימן רצ\"ו ואם יש שכר להבדלה מוטב לקדש על היין אפילו בקידוש דשחרית דהבדלה אפשר בשכר, מיהו בבית הכנסת עדיף טפי להניחו להבדלה (מגן אברהם). טוב לקדש על כוס יין גדול שישייר מאותו הכוס לקידוש היום ולהבדלה ואם יש בו גם לשתות ישתה ממנו (שיירי כנסת הגדולה ומגן אברהם), ואני אומר דעדיף לברך בכל פעם על יין המובא מחנות כדלעיל סימן קפ\"ג סעיף ב' בברכת המזון, ועוד דבקושי יש לתקן פגום עיין ס\"ק כ\"ג, ומה לנו להכנס בתחילה לזה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:26"
+        },
+        "27": {
+          "he": "[כז] ואין לשנות וכו'. בט\"ז הקשה אמאי אין לשנות הא לכולי עלמא מותר ליטול אחר כך. ולי נראה טעמא דרמ\"א חדא דלא פלוג רבנן כמו שכתב בספר המנהיג דבמקדש אפת לכולי עלמא צריך ליטול קודם, וכיון דהמנהג כן גם במקדש ביין ויראה שאחד משנה ליטול ואחר כך יטעו לעשות כן גם במקדש בפת, ועוד דחיישינן בזמן הזה שלא יהיו נקיים דאז לכולי עלמא יטול קודם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:27"
+        },
+        "28": {
+          "he": "[כח] רובו וכו'. ומצוה מן המובחר לשתות כל רביעית (ספר המנהיג) ובגדול מדינא בעינן רביעית דדוקא באדם בינוני סגי ברוב (ר\"ן):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:28"
+        },
+        "29": {
+          "he": "[כח*] ויש אומרים דאם וכו'. בשולחן ערוך וטור כתב בשם גאונים וסיים בשולחן ערוך וראוי לחוש וכו' והב\"ח פסק כן מדינא, ואני תמה שראיתי דהרא\"ש ואגודה פרק ערבי פסחים ורבינו ירוחם וספר צידה לדרך ורוקח סימן נ\"ב וריא\"ז בשלטי גיבורים פרק ערבי פסחים פסקו אף שלא טעם הוא אם טעם אחד מהמסובין מלא לוגמיו יצא וכן כתבו תוס' בפסחים דף ק' ד\"ה ידי וכו' ורשב\"ם שם וכן פירש הרשב\"ם שם בדף ק\"ה ע\"ב וכן פירש רש\"י ור\"ן סוף פרק ב' דראש השנה ולא הזכירו דעת גאונים כלל, גם בשאר פוסקים לא ראיתי להזכיר דברי גאונים חוץ מטור לבד ויותר תימא דבשבלי הלקט ותניא כתבו הא דטעם אחר יוצא בשם הגאונים ותיקשה דברי גאונים אהדדי. ומה שכתב הטור דבעל הלכות גדולות סבירא ליה דאין יוצא לעניות דעתי ליתא דמיירי כששתה אחד שלא כיוון עליו בברכה ואותו האחר בירך מחדש לכך אינו יוצא הוא, אבל אם שתה אחד מהשומעין אפשר דמודה בעל הלכות גדולות וכן נראה מספר זכרון להגאון ר\"י הכהן פרק ערבי פסחים:[אות כט] [לבוש] כל אחד מלא לוגמיו וכו'. בבית יוסף משמע דלהם אין צריך מלא לוגמיו כיון שטועם הוא מלא לוגמיו וכן כתב הט\"ז:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:29"
+        },
+        "30": {
+          "he": "[ל] ויש אומרים וכו' מצטרפות וכו'. כן כתב הרא\"ש מסברא דנפשיה, ולעניות דעתי יותר יש לסמוך על ריטב\"א בשם תוס' שהביא בית יוסף שהם יש אומרים אלו, ועוד שמצאתי בשבלי הלקט ותניא פסקו הכי בשם גאונים ומשמע דאפילו לכתחילה מותר ודלא כמגן אברהם. אך צריך עיון בפסחים דף ק\"ח השקה מהן לבניו ולבני ביתו יצא והוא דאשתי רובא דכסא ופירשו תוס' שם כמלא לוגמיו משמע שאין מצטרפין, מיהו יש לומר דשאני בארבע כוסות וכן משמע בר\"ן שם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:30"
+        },
+        "31": {
+          "he": "[לא] [לבוש] שותה כל אחד מכוסו וכו'. כן תירצו תוס' ערבי פסחים דף ק\"ו על ההוא סבא דגחין ושתי עיין שם, אבל בעל הלכות גדולות דף י\"ב זה לשונו אמר ההוא סבא כמה מאריך ההוא מרבנן גחין ושתי וכו', משמע כיון שהאריך מותר לו לשתות ואם כן מתורץ קושית תוס' וכהאי גוונא אמרינן בסימן קכ\"ד סעיף ט' כשמאריכין באמן עיין שם ועיין בסימן ק\"צ:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:31"
+        },
+        "32": {
+          "he": "[לב] [לבוש] הפסיק בדיבור וכו'. מיהו דיבור דשייכא לסעודה לא הוי הפסק דקידוש נמי צורך סעודה הוא ועיין סימן קס\"ז סעיף ז' (מגן אברהם):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:32"
+        },
+        "33": {
+          "he": "[לג] [לבוש] דשתיה לא מעכבא וכו'. שגג כמו שכתב בית יוסף סוף סימן זה בשם תוס' דכוונת תוס' דשתית המסובין לא מעכבא דדי אם טעם אחד מהם (מגן אברהם) וכן כתב אגודה פרק ערבי פסחים בהדיא בשם תוס', והוא פשוט בכל הפוסקים דאם לא טעם אחד מהם מעכב. והנחלת צבי כתב דלבוש כיוון לדיעה ראשונה שכתב בסעיף ד' והוא דעת הרא\"ש עיין שם, ולא דק דמשמע שם דמקדש איין וטועם, אלא נראה לי שאין צריך לברך בורא פרי הגפן כיון שכבר שתה ואפילו נימא דמיירי שם במקדש בלא יין מכל מקום אם מקדש ביין ודאי צריך לטעום ואפילו נאמר דמקדש ביין ואינו טועם היינו משום דכבר שתה אבל בשמקדש ולא שתה ודאי צריך לטעום והוא ברור ופשוט. גם על ט\"ז תמיה לי במה שהביא ראיה שאין צריך לקדש בנשפך מטור סימן רס\"ט שכתב דיוצא בלא טעימה עיין שם באריכות, והוא תמוה דהטור קאמר שאם אחד טועם יוצאין כולם עיין שם אבל כשנשפך דלא טעם אחד מהן שאני. ומה שתמה מגן אברהם על מה שכתב בית יוסף מאי דאמרינן לא יצא היינו ידי מצות כתיקונה נראה לי ליישב דכוונת בית יוסף על מה דמשמע שצריך לטעום מאותו כוס, אמרינן אף דשתה מכוס אחר לא יצא ידי מצוה כתיקונה, אבל כשאינו טועם כלל מודה דלא יצא כלל. כללא דמילתא דגם בנשפך צריך להביא כוס אחר ולברך עליו ולטעום ממנו כי אינו יוצא בלא טעימה וכיון שכוס נשפך טועם מאחר וכן מצאתי בכלבו דף ל\"ה והלבוש והאחרונים לא ראו דבריו, ובכלבו שם סיים אי קם מדוכתיה צריך לקדש, עד כאן, ורצה לומר שהלך לבית אחר שהרי פסק שם דמפינה לפינה אין צריך לקדש, כתבתי זה לאפוקי משיירי כנסת הגדולה סוף סימן רע\"ג שהאריך לדחוק בדבר זה או דהכא דנשפך הוי היסח הדעת כשהולך מדוכתיה קודם שטועם מאחר ועוד הא דמפינה לפינה יש לומר דמיירי כשטועם שם קודם דקם מדוכתיה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:33"
+        },
+        "34": {
+          "he": "[לד] [לבוש] ואין צריך לחזור וכו'. אם קידש על מים וסבר שהוא יין יחזור ויקדש (פסקי מהרא\"י קט\"ו). ונראה לי דשאני נשפך דאמירת קידוש היה כדין רק שחסר טעימה אבל על המים הוי כאילו לא קידש כלל, ואם טעה וקידש על שכר נראה דאין צריך לחזור ולקדש כיון דמקדשין עליו כשאין יין מצוי כמו שכתב סוף סימן רע\"ב וצריך עיון. ועיין לקמן סוף סימן זה כתב מגן אברהם אם היה דעתו לשתות יין יותר אין צריך לברך שנית בורא פרי הגפן כמו שכתב סוף סימן ר\"ט והוא הדין בנשפך הכוס כמו שכתב סוף סימן ר\"ו, עד כאן, משמע דמכל מקום בקידש על מים אף שדעתו לשתות יותר יין שאינו מברך בורא פרי הגפן יחזור ויקדש, אבל הט\"ז כתב אם היה בשעת הקידוש יין על השולחן או על הספסל אצלו מוכן אין צריך לבורא פרי הגפן ולא לקידוש שנית אלא ישתה המוכן לפניו, עד כאן, ואפשר דבורא פרי הגפן דמוכן לפניו מודה מגן אברהם ולא מיירי אלא בדעתו לשתות ואין מוכן לפניו. כתב מגן אברהם אם קידש בשחרית על השכר ונשפך הכוס אין צריך להביא אחרת דהא יש אומרים דדי בפת כמו שכתב סימן רע\"ב סעיף ט', עד כאן. וצריך עיון מאי שנא שכר דנקט אפילו על היין נמי, וצריך לומר דאם מברך איין מסתמא יש לו יין יותר ואז אין די בפת דדוקא נגד שכר די בפת, ומה שכתב בשחרית היינו משום דבלילה אין מקדשין על שכר כדלקמן אלא או ביין או בפת:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 271:34"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "לאכול מיד.  ואפי' קודם שתחשך. ומותר לאכול בשבת על ידי קידוש זה (ב\"י בשם רשב\"א):",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 271:1"
+        },
+        "2": {
+          "he": "ומוציאות את האנשים כו'.  אף על גב דבסי' תרפ\"ט פסק בש\"ע כבה\"ג דאין נשים מוציאות אנשים במקרא מגילה אף ע\"ג שהם חייבות במקרא מגילה לא דמי לכאן דבמגילה יש דיעות דאין לנשים לברך על מקרא מגילה אלא  על משמע מגילה כמ\"ש שם ב\"י ע\"כ בודאי לא נכון שלכתחלה יוציאו האנשים משא\"כ כאן הכל מודים שאין חילוק כלל בין אנשים לנשים ע\"כ שפיר מוציאות אותם ורש\"ל ומו\"ח ז\"ל פסקו גם כאן דאין מוציאות כמו במגילה ואין זה מוכרח כלל:",
+          "en": "Even though the Shulchan Arukh ruled in siman 689 in accordance with the opinion of Bahag that woman do not enable men to fulfill their obligation of reading Megila. Despite the fact that women are obligated in the mitzva of Megila, that case is different than our own. Regarding the reading of Megila, there are opinions that women do not make a blessing over the \"reading\" of Megila; rather, their blessing is over \"hearing\" Megila, as the Beit Yosef says there. Therefore, it would certainly be incorrect, ab initio, for them to discharge a man's obligation. That is not the case here, however, as all admit there is no distinction whatsoever between men and women...",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 271:2"
+        },
+        "3": {
+          "he": "קודם לכבוד יום.  פי' אפי' לצורכי סעודה ליום וכ\"ש  לקידוש שעושי' ביום:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 271:3"
+        },
+        "4": {
+          "he": "בלא ברכת יין.  דכיון דבירך כבר עליו אין הקידוש מפסיק לומ' שיברך שנית (ובטור הביא חד דיעה דצריך לברך על היין ותמה ב\"י שזה לא נמצא כלל  ובסמוך יתבאר בדברינו שהוא דעת הראב\"ד) אלא דבברכת המוציא מביא כאן הפלוגתא שמביא הטור וטעם הדיעה הא' שצריך לברך המוציא ועל היין ל\"צ כ' הרא\"ש וז\"ל דודאי איסור  האכילה גורם לקידוש דהוי הפסק להצריך המוציא אבל בורא פרי הגפן שהוא קודם הקידוש בשביל איסור שתיה לא הוי הפסק עכ\"ל נראה פי' דבריו דאע\"ג דשתיה אסורה כמו אכילה מ\"מ תרתי בעי' דהיינו שיש איסור לאכול וגם עביד מעשה הפסק דעשה קידוש משא\"כ ביין דאין בו אלא איסור לחוד ולא שום מעשה שהרי בשעה שיש לו לברך בפה\"ג מחמת הקידוש עדיין לא אמר הקידוש ע\"כ אותו הכוס שמקדש עליו א\"צ לברכת היין מה שא\"כ בברכת הלחם שזמנו אחר קידוש וס\"ל להרא\"ש דכאן נחשב הקידוש גמר וסילוק על האכילה שאכל כבר כיון שרובץ עליו האיסור לאכול עד שיעשה קידוש ול\"ד למ\"ש הרא\"ש סי' קע\"ח דתפילה לא הוי הפסק באכיל' כיון דלא הוה גמר וסילוק כמו ב\"ה דהכא ודאי יש איסור כשהגיע העת של הקידוש והוא מוכרח לעשות מעשה חדש לומר הקידוש מה שא\"כ בתפלה אף שעושה מעשה חדש מ\"מ אין איסור אכילה בעת ההיא באותה שעה ממש שמתפלל כי ודאי לא מיירי שממתין עד סמוך לכלות היום שלא יהיה לו אפשרות לאכול מעט ע\"כ לא הוה גמר וסילוק. והי\"א ס\"ל דגם הקידוש לא הוי הפסק לחזור ולברך המוציא דכאן לא נאסר עליו האכילה אלא מצד שיש עליו מונע מצד אחר דרמיא עליה לעשות קידוש וכל שהלך המונע חוזר לענינו הראשון וזה דומה למי שנשתתק בשעת אכילה ח\"ו ונתרפא תכף ודאי א\"צ לחזור ולעשות המוציא וע\"כ לא הוה גמר וסילוק על אכילה ראשונה כנ\"ל טעם נכון לאלו הדיעות וכיון דספק ברכות להקל ודאי לא יברך גם המוציא ועמ\"ש בסי' רצ\"ט בס\"ד ופשוט דאין צריך להתפלל ערבית אם הוא פורס מפה ומקדש כיון דהתחיל לאכול בהיתר ממש כדין כל תפלת ערבית:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 271:4"
+        },
+        "5": {
+          "he": "שנים שהיו שותים כו'  ז\"ל הרמב\"ם פ\"ד דברכות וסיים ע\"ז אבל אם אמרו בואו ונבדיל א\"צ לחזור ולברך וכתב הראב\"ד ע\"ז ערבובי דברים יש כאן שהפסקת הקידוש אע\"ג דלא אמרו בואו ונקדש כיון שקידש היום חייב להפסיק  משא\"כ בהבדלה שאע\"פ שחשיכה אינו מפסיק מ\"מ אם אמר בואו ונבדיל הא סליק נפשיה משתיה ואסור למשתי בלא ברכה עכ\"ל. וכתב בכ\"מ פי' פלוגתייהו דבגמרא אמרי' שבת לקידוש קובע ולא להבדל' ופי' הראב\"ד היינו בלא אמירת בואו ונקדש וממילא דכי אמרי' הבדלה אינה קובעת היינו בלא אמירתם בואו ונבדיל אבל באמירתם ה\"ל היסח הדעת כמו הב לן ונברך והרמב\"ם ס\"ל דכי אמרינן שבת קובעת לקידוש היינו כשאמרו בואו וכו' וא\"כ כי אמרי' להבדל' אינה קובעת אפי' באמירת בואו ונבדיל עכ\"ל הנה אנו רואים בפי' לדעת הראב\"ד דבקידוש אפי' בלא אמירת' מפסיק ומברך בפה\"ג כמ\"ש בהבדלה כשאומרים בואו כו' דבזה שוין הסוא\"כ בחנ' תמה ב\"י על רבינו הטור למה כ' י\"א שמקדש ומברך על היין שזה לא נמצא והא לך  הראב\"ד שכ\"כ בפי' וקשה דהא כבר פסק הרמב' ספכ\"ט  דמשקידש היו' אסור לשתו' ולא זכר כלום מאמיר' זו תי' בכ\"מ דהתם משחשיכ' ודאי וכאן בספק חשיכה וק\"ל דא\"כ חשיכ' ודאי בלא אמירה יהיה לו דין א' עם ספק חשיכה עם אמירה וא\"כ היה לו לרמב\"ם לכתוב בפכ\"ט משבת שצריך לברך בפה\"ג קודם הקידוש כמ\"ש כאן בספק חשיכה עם אמירה ותו דא\"כ פסקי הש\"ע סותרים זה את זה דבסמוך הביא דיעות לענין המוציא משמע דלענין בפה\"ג ד\"ה שא\"צ וכאן כ' הרמב\"ם שצריך ונ\"ל דודאי לענין איסור שתיה שוה חשיכה ודאי בלא אמירה כמו ספק חשיכה עם אמירה אלא לענין בפה\"ג אינם שוים דבחשיכה בלא אמירה אין האיסור שהוא מצד עצמו עושה היסח הדעת שיצטרך לברך שנית בפה\"ג אבל כשיש אמירה אפי' בספק חשיכה וכ\"ש בודאי חשיכה האמירה היא עושה היסח הדעת לברך שנית וכמ\"ש בדעת י\"א בסעיף שלפני זה שהוא הרא\"ש לענין חילוק שבין בפה\"ג ולברכת המוציא דלא סגי לעשות היסח הדעת מחמת האיסור לחוד כנלע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 271:5"
+        },
+        "6": {
+          "he": "אע\"פ שאינם רשאים.  משמע שאע\"פ שמברכים שנית עבדי איסורא במה ששותים אחר שחל עליהם קידוש היום ולעיל סי' קע\"ט פסק בש\"ע דאם אמר הב לן ונבריך אסור לשתות עד שיברך כו' משמע שאחר הברכה אין איסור וס\"ל דיש חילוק בין אמירה זו לזו דברמב\"ם כאן נקט שניהם ועל שניהם סיים אע\"פ שאינם רשאים ונ\"ל דמ\"מ לענין הלכה אנו מחלקים דלענין הב לן ונבריך אין איסור אחר הברכה שנית ולענין שבת דקובעת עצמה לקידוש יש איסור אפילו בברכה שנית עד שיקדש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 271:6"
+        },
+        "7": {
+          "he": "ונזכר קודם שאכל.  נראה פשוט דגם לאחר שאכל קצת הוה כן שיקדש ולא יצטרך לברך שנית המוציא ואפי' לאותה דיעה דסעיף ד' דצריך להמוציא היינו כיון שאכל כבר מבע\"י אבל כאן שבירך המוציא אחר שנכנס שבת ודאי לא צריך שנית להמוציא ולא זכר כאן קודם שאכל אלא משום סיפא דבהבדלה לא יבדיל קודם האכילה כיון דאין מבדילין על הפת ה\"ל הבדלה הפסק בין המוציא לאכילה אלא יאכל קצת תחלה ויבדיל ויסיים אכילתו משא\"כ בקידוש דלא הוי הפסק אע\"ג שתחלה בירך המוציא שלא ע\"ד קידוש אלא אאכילה בעלמא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 271:7"
+        },
+        "8": {
+          "he": "וצריך להזכיר של שבת.  מידי דהוי אמי שלא התפלל מנחה בע\"ש מתפלל שתים של שבת ועמ\"ש בסי' קפ\"ח מענין זה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 271:8"
+        },
+        "9": {
+          "he": "וי\"א דאף בגמר סעודתו כו'.  משמע כ\"ש תוך סעודתו דדינא הכי וקשה דלמה כתב כאן ומברך המוציא דהא בס\"ד הביא דיעות דא\"צ ומשמע ספק ברכות להקל וכאן כתב שיברך ובאמת דברים של י\"א אלו דאף בגמר כו' הם דברי הרא\"ש כמ\"ש הטור וכמו שהעתיק ב\"י שהסכים עם מהר\"ר ישעיה מטראנ\"י לדידיה באמת גם בס\"ד צריך לברך המוציא שהיא הדיעה הראשונה שם אלא דעל בעל הש\"ע קשה ונ\"ל דל' דאף בגמר לא קאי על כל מה שיזכר ע\"ז אח\"כ אלא אהאי מילתא לחוד דפורס מפה ומקדש אבל מה שסיים אח\"כ ומברך המוציא זה קאי דוקא אגמר סעודתו ונוטל ידיו או אמר הב לן ונבריך דאז חייב לברך שנית המוציא אפי' בחול וא\"ל א\"כ גם בפה\"ג צריך לכ\"ע דאה\"נ דהך ומקדש שכתב כאן פי' בסתם קידוש כל השנה דאומר בפה\"ג תחלה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 271:9"
+        },
+        "10": {
+          "he": "טעם מקדש.  פי' כל אימת שנזכר אפי' בלילה דבזה פליגי בגמ' מ\"ד טעם אינו מקדש פי' רשב\"ם בלילה אינו מקדש אלא ביום קודם אכילה ממילא למ\"ד טעם מקדש דהלכה כוותיה היינו אפילו בלילה ומו\"ח ז\"ל נזדקר טעות לפניו אגב ריהטי שכתב שמשמע מדברי רשב\"ם דלא יקדש בלילה אלא למחר קודם אכילה שהיה סבור שרשב\"ם פי' זה אליבא דמ\"ד טעם מקדש וזה אינו דלא כתב רשב\"ם כן אלא דרך פי' למ\"ד לא יקדש אבל לפי ההלכה ודאי יקדש אף בלילה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 271:10"
+        },
+        "11": {
+          "he": "מלבד ויכולו.  לפי שבלילה היתה גמר מלאכת הש\"י:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 271:11"
+        },
+        "12": {
+          "he": "פרוסה.  בטור בשם ירושלמי שלא יראה הפת בשתו שאין מקדשין עליו אלא על היין ולפ\"ז אם מקדש על הפת א\"צ לכסות עליו מפה אבל לטעם אחר שכ' הטור וז\"ל ואני שמעתי טעם לעשות זכר למן שהי' מונח בקופסא טל למעלה וטל למטה עכ\"ל ממילא גם במקדש על הפת צריך לכסות במפה וכן אנו נוהגין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 271:12"
+        },
+        "13": {
+          "he": "ואו' ויכלו.  הא דא\"א אשר בחר בנו בשבת לפי ששבת נתנה במרה ועדיין לא בחר לנו לגמרי עד אחר נתינ' התורה (ב\"י בשם א\"ח):",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 271:13"
+        },
+        "14": {
+          "he": "אחר שקידש כו'.  בטור הבי' תחלה דברי רע\"מ דהוא ס\"ל כמ\"ש כאן ואח\"כ הביא דברי רשב\"ם  ור\"ת ור\"י ואחר כל זה כתב שהוא תמה על מנהג הרא\"ש שצריך לדחוק ולהוציא מימרא דרב ברונא מפשטיה וכ' ב\"י לפ' מה הוא שהוציא מפשטים ונ\"ל בדרך זה דבגמר' אמרינן א\"ר ברונא  נטל ידיו לא יקדש ואר\"י ע\"ז דרב זמנין דחביבא ליה ריפת' כו'  משמע דקי\"ל כר' יצחק ואם כן קשה למה הבי' רע\"מ דברי רב ברונא אלא פשוט דס\"ל דלא אדחו דברי ר\"ב לגמרי אלא במקצת דהיינו דס\"ל נטל ידיו לא יקד' משמע שום קידוש דכ\"ה פשטן של דבריו ולדברי ר\"י לא נתבטל הקידוש לגמרי ממנו אלא דיקדש על הפת כיון דרב זימנין דמקדש ליה אריפת' ולפ\"ז שפיר קי\"ל כרב לענין דלא יקדש על היין עכ\"פ נמצא דעכ\"פ לא נתבטלו דברי ר\"ב אבל לפירושים אחרים שסוברים  דלכתחל' יטול ידיו קודם וצריך שידחקו לומר דר\"ב אזיל לטעם דיש קידוש שלא במקום סעוד' ולפי פשוטן של דברים  משמע סתמ' בכל גווני ולמה נעשה לכתחל' כדיעה זאת ולא נעשה כפי' רע\"מ ורמב\"ם שבזה דברי ר\"ב מיירי מכל גווני ע\"כ תמה הטור על מנהג הרא\"ש שנהג כן כיון שיש פי' אחר מרווח מזה ודי היה לנו לסמוך בדיעבד על הפי' הזה וה\"ק הטור ואני תמה על מנהגו כך לכתחל' שהרי צריכים אנו לדחוק אפי' אם נעש' כן בדיעבד ולהוצי' עכ\"פ מפשוטן ואנן נעשה לכתחל' להוצי' דברי ר\"ב לגמרי ולא היה לו תימה על עיקר הפי' אלא על המנהג לעשות כן לכתחל' ונר' להכניס עוד בכלל תימהון הזה דאין מן הראוי לקבוע מנהג ולעקור דברי ר\"ב שאיהו ס\"ל אפי' בדיעבד נמי לא ואיך נקבע כן לעשות לכתחלה תמיד הפך מדבריו וזהו כפוגם בכבודו ח\"ו ע\"כ נ\"ל דאע\"פ שכתב ואין לשנות מ\"מ מי שחרד לדבר ורוצה לעשות כדיעה ראשונ' וליטול ידיו אחר הקידוש אין לומר עליו כל המשנ' ידו על התחתונה ח\"ו אלא הוא יכול לומר אעשה כדברי הכל ומי ימחה בידו ושפיר עבד כנלע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 271:14"
+        },
+        "15": {
+          "he": "רק בליל פסח.  שאז יהיה הפסק גדול באגדה עבסי' תע\"ג:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 271:15"
+        },
+        "16": {
+          "he": "מלא לוגמיו.  עמ\"ש בסימן ק\"צ ס\"ג:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 271:16"
+        },
+        "17": {
+          "he": "שיטעמו כלם.  אבל א\"צ להם מלא לוגמיו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 271:17"
+        },
+        "18": {
+          "he": "ודוק' בקידוש.  נראה הטעם דבקידוש אסמכוה אדאורייתא לקדש על היין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 271:18"
+        },
+        "19": {
+          "he": "אם נשפך הכוס כו'.  מעשה  בא לידי במדינות מעהרין שעשיתי קידוש על כוס שהייתי סבור שהוא יין והיה מים ובכלי שני שהי' עוד לפני היה בו יין וכבר אמרתי הקידוש כלו והעליתי בדעתי לכאורה לשתות היין האחר שבכלי השני מטעם דקידוש על היין הא מדרבנן שדרשו באסמכת' זכרהו על היין אבל מדאורייתא סגי באמיר' לחוד כמ\"ש התוס' בר\"פ ע\"פ בשם ר\"ת ותקנתם לא היתה אלא להסמיך היין לקידוש דאוריית' שבזה יקיים המצוה אבל אם כבר יצא ] ידי המצוה מן התור' לא הצריכו בשביל היין לעשות קידוש מחדש ועוד ראיה ברורה ממ\"ש בסט\"ו שאם נשפך הכוס קודם שיטעימנו יביא כוס אחר ויברך בפה\"ג וא\"צ לחזור ולקדש אלא יצא בקידוש הראשון אע\"ג שנשפך הכוס ולא יצא דהא אפי' שתה בפחות משיעור לא יצא וא\"כ נימא שאח\"כ יצטרך לקידוש שנית ואפ\"ה לא מצריכי לזה כי עכ\"פ ידי קידוש יצא ה\"ה נמי בכאן דמה לי שנשפך ולא שתה כלל או שהוא מים סוף סוף לא יצא ידי קידוש על יין וכן אי' בטור סימן רס\"ט בשם ר\"נ גאון שכתב שחובה לשמוע קידוש בלבד ויוצא אף בלא טעימה ואף שהטור תמה עליו שם היינו מטעם שאין שם מקום סעודה כו' אבל לא מטעם שאין יוצאין בשמיעה לחוד. שוב  ראיתי דין זה בפסקי מהרא\"י סימן קט\"ו וז\"ל ואמרתי בפשיטות דיחזור ויקדש שנית על היין דמה בכך אם קידוש על היין הוא דרבנן הלא כמה מצות דרבנן ומברכין עליהם ואטו אם תקע בטעות בר\"ה בתקיעות מעומד שא\"צ לחזור הואיל וכבר יצא י\"ח מן התור' בתקיעות שמיושב והני אינן אלא מדרבנן הא ודאי ליכא למ\"ד הכי עכ\"ל ואני תמה מאד על הרב הגדול הנ\"ל שהוציא מפיו דברים כאלה דמה ראיה הביא מתקיע' שופר ששם א\"צ ברכה נוספת ומה איכפת לן במה שיחזור ויתקע דזה ודאי אם תקע בטעות וגמר כל התפל' שא\"צ לחזור ולהתפלל שנית דהא קי\"ל הברכות והתקיעות אין מעכבין זא\"ז והיא תלמוד ערוך משא\"כ כאן שיצטרך לברך שנית ברכ' הקידוש ויש חשש ברכה לבטלה: אמנם  אחר העיון שעיינתי נראה דצריך לחלק בדבר כמו שאבאר בס\"ד דיש לדמות בדין זה למ\"ש סימן רע\"ב בדין קידוש במקום סעודה דקי\"ל שם דאם קידש ע\"ד לאכול כאן ובא לו איזה סיבה שצריך לעקור ממקום זה צריך לחזור ולקדש ואע\"ג דהך דקידוש במקום סעודה אינו אלא דרבנן דאף לפי' רשב\"ם דילף לה מוקראת לשבת עונג אינו אלא אסמכת' בעלמ' ואפ\"ה צריך לקדש שנית ה\"ה נמי כאן דצריך לקדש שנית על יין וא\"ל דשאני התם בדין מקום הסעודה די\"ל דהקידוש היה כהוגן ויצא בו אלא שאסור לו לאכול שלא במקום הקידוש זה אינו דאדרבה פסק ב\"י שם דאפי' אינו רוצה לאכול כלל אח\"כ לא יצא ידי קידוש ויליף לה מדאי' בגמר' ר\"ה איעקר ליה שרגא ואזיל לגבי רבה בריה וקידש שנית וטעם מידי אלא ע\"כ דכיון דלא יצא ידי קידוש דרבנן צריך לחזור ולקדש ה\"נ כן. אלא קשה טובא לפ\"ז מ\"ש בנשפך הכוס למה לא יצטרך לחזור ולקדש על כוס אחר כיון שלא יצא מדרבנן דהיינו לקדש על הכוס וכן קשה מ\"ש מקידש ודיבר קודם שיטעום צריך לברך שנית בפה\"ג ולא הקידוש כמ\"ש בסעיף זה והוא מדברי בה\"ג שהבי' הטור בססי' זה וכן קשה מההיא דכתב הטור בשם בה\"ג בסימן זה דס\"ל שהמקדש עצמו צריך שיטעום דוקא ואי שתה את הכוס מייתי להמקדש כסא אחרינא ומברך בפה\"ג ולא קידש שנית למה לא נימא כיון דעכ\"פ לא יצא למה לא יקדש שנית. ונ\"ל דהעיקר תלוי בקידוש שצריך לטעום יין בשעת הקידוש וע\"ז אמרו זכרהו על היין שצריך שיהא שם טעימת יין ויאמר הקידוש עליו וזה שאירע לו קלקול בטעימת היין קידש עליו כדין אלא שא\"א לו לטעום יוכל לתקן העוות שיטעום יין אחר משא\"כ בדין מקום סעודה באם אירע שלא יוכל לאכול שם אין תקנה לעוות זה ע\"כ צריך לקדש שנית במקום שיאכל וא\"כ בנידון דידן שלא קידש כראוי והוי כאלו לא קידש כלל ע\"כ צריך לקדש שנית על יין אלא דיש חילוק בדבר באם היה בשעת הקידוש יין על השלחן או על הספסל אצלו מוכן לשתות אז ודאי א\"צ לא לבפה\"ג ולא לקידוש שנית אלא ישתה המוכן לפניו וכמ\"ש רמ\"א סי' ר\"ט והוא מתשו' מהרי\"ל דהוי כאלו קידש על היין ההוא ובזה אמרי' כולהו נבגי דברכתא נינהו כנלע\"ד נכון בזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 271:19"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "לאכול מיד. היינו לקדש כדי שיזכור שבת בכניסתו ועסי' רע\"ג ס\"ג, וכתוב בתקוני שבת שיקדש קודם לילה כי בתחלת ליל שבת הוא מזל מאדים ובסוף יום ו' הוא מזל צדק לכן יקדש בצדק וכ\"כ בתשובות מהרי\"ל סי' קס\"ג ומ\"ע בתשוב' כתב שאם אינו תאב לאכול יכול להמתין שכבר זכר אותו בכניסתו בבה\"כ ע\"ש, ובירושלמי ריש ברכות אי' שדרך לאכול שעה או ב' בלילה וכ\"מ ברש\"י ריש דף ג', כ' הרמב\"ם פכ\"ט קידוש היום דאורייתא בלא יין ורבנן תקנו על היין וכ\"כ התוס' בסוכה פ\"ג דף ל\"ח ונ\"ל דמדאוריי' בקידוש שאמר בתפל' סגי דקרא כתיב זכור את יום השבת והרי זכר אותו וקידוש במקום סעוד' רבנן תקנוהו כמ\"ש סי' רס\"ט וכ\"מ בתוס' שכתבו דלר\"ת מי שאין לו יין לא יקדש כלל וק' וכי יעקור מ\"ע דאורייתא אלא ע\"כ דדי בתפלה ועוד דאמרי' בקדושה אף על גב דמקדש בצלותא  וכו' ע' בברכות פ\"ה וגם הבדלה י\"א דאורייתא היא וכמ\"ש המ\"מ פכ\"ט ואפ\"ה אמרי' בגמ' דבתחלה קבעוהו בתפלה כו' ע\"ש וכ\"מ ל' הרמב\"ם וכ\"מ בתוס' פ' ע\"פ בשם הירוש' ע\"ש: ודע דהקידוש בי\"ט הוא דרבנן כמ\"ש המ\"מ פכ\"ט מ\"מ יש לו כל דין קידוש של שבת ואם אין לו אלא כוס א' של שבת קודם:",
+          "en": "",
+          "ref": "Magen Avraham 271:1"
+        },
+        "2": {
+          "he": "ומוציאות את האנשים. הקשה הב\"ח מ\"ש ממגילה דאין מוציאות וכמ\"ש סימן תרפ\"ט ואשתמיטתיה דברי התוס' בסוכה דף ל\"ח שכתבו כיון דרבים הם זילא בהו מילתא שתוציאם אשה ע\"ש ועסי' קפ\"ו וע' באגודה פ\"ג דסוכה שכתב בשם ר\"י דאין מוציאות והוא פוסק שמוציאות ובשבועות סימן ט' כתב שאין מורין כן עכ\"ל ופשוט דקטן אינו מוציא האשה ועוד נ\"ל דאפילו בן י\"ג שנה חיישינן שמא לא הביא ב' שערות דבמילי דאורייתא לא סמכינן אחזקה שהביא ב' שערות עד שיתמלא זקנו, כמ\"ש בח\"מ סי' ל\"ה לכן תקדש האשה לעצמה ועמ\"ש רסי' קצ\"ג:",
+          "en": "",
+          "ref": "Magen Avraham 271:2"
+        },
+        "3": {
+          "he": "צרכי סעודה. ודוקא כשיש לו פת אבל אם אין לו פת מוטב שיקנה פת ויקדש עליו דהא אין קידוש אלא במקום סעודה ועוד דחיוב לאכול פת כמ\"ש בסי' קפ\"ח ועסי\"ב ועמ\"ש רסי' רס\"ג, ואם יש לו קידוש ללילה ואין לו לקידוש היום ולכבוד היום אפשר דכבוד היום עדיף דהא כתב הר\"ן דרבנן תיקנו קידוש היום משום דכבוד היום עדיף מכבוד לילה ומ\"מ אפשר דדי בפת והמותר יקנה בו יין:",
+          "en": "",
+          "ref": "Magen Avraham 271:3"
+        },
+        "4": {
+          "he": "והא דתניא. ע' זוהר יתרו ע' קנ\"ז וז\"ל בעי' לסדר פתורי' בליליא דשבתא בנהמא ובמזוני רי\"א אפילו ביומא דשבתא נמי עכ\"ל:",
+          "en": "",
+          "ref": "Magen Avraham 271:4"
+        },
+        "5": {
+          "he": "אסור לטעום. נ\"ל דשרי לרחוץ פיו כיון דאינו מכוין להנאת טעימה וכ\"מ בת\"ה סי' קנ\"ח ועסי' תקס\"ז ותרי\"ב ומשחשיכה אפי' לא קבל שבת ואם קיבל שבת אפילו מבע\"י אסור לטעום (ב\"ח) ונ\"ל דאם רוצה לקבל שבת מבע\"י ולקדש ולאכול ולהתפלל ערבית בלילה רשאי וכמ\"ש סי' רס\"ז ועמ\"ש רסי' ער\"ב וכתוב בש\"ל דאפילו אין לו אלא כוס אחד יקדש עליו ויברך בלא כוס ולא יאכל קודם משא\"כ בהבדלה כמ\"ש רסי' רצ\"ו ס\"ג ועס\"ו וערסי' קפ\"ג:",
+          "en": "",
+          "ref": "Magen Avraham 271:5"
+        },
+        "6": {
+          "he": "צריך להפסיק. ואף ע\"ג דבסימן תרנ\"ב גבי לולב אינו פוסק כשהתחיל בהיתר שאני הכא דקידוש מקמי סעודה אתקין ובמקום סעודה (ר\"ן פ\"ק דשבת תוס'):",
+          "en": "",
+          "ref": "Magen Avraham 271:6"
+        },
+        "7": {
+          "he": "שפורס מפה. לכסות הפת ואחר כך מגלין אותה כי היכי דתיתי סעודה ביקרא דשבת':",
+          "en": "",
+          "ref": "Magen Avraham 271:7"
+        },
+        "8": {
+          "he": "בלא ברכת היין. וה\"ה דאין צריך לברך על היין שבתוך המזון דהא אחר שתית כוס של קידוש לא הוי היסח הדעת לבין שתי' שאחריו:",
+          "en": "",
+          "ref": "Magen Avraham 271:8"
+        },
+        "9": {
+          "he": "מברך ברכת המוציא. לפי שהקידוש היה הפסק לפיכך צריך לברך שנית והע\"ש הקשה מ\"ש מתפלה ססי' קע\"ח ולא ראה דברי הרא\"ש פ' ע\"פ שכתב דלא דמי לתפלה דהכא כיון שקידש היום נאסר עליו אכילה (פי' טעימה וכו' עמ\"ש ס\"ה) ולדעתו ה\"ל להקשות על הרא\"ש והטור עב\"י סי' רצ\"ט בשם מהרי\"ק וי\"א ס\"ל דקידוש לא הוי הפסק ואם מקדש על הפת היה ראוי לו' ברכת המוציא לפני קידוש ואותו פעם עדיין לא הפסיק ופטור לכ\"ע:",
+          "en": "",
+          "ref": "Magen Avraham 271:9"
+        },
+        "10": {
+          "he": "ואמרו בואו ונקדש. הקשה הראב\"ד הא אפי' בלא אמירה אסור להם לשתות כמ\"ש ס\"ד ותי' הכ\"מ דהתם כשהחשיך כבר והכא אכתי לא החשיך וכיון שאמרו הב ונקדש אסורים לשתות כשם שקובעת למעשר מספק חשיכה עכ\"ל, וצ\"ע דברסי' רצ\"ט משמע דפסק דאפי' בספק חשיכה צריך להפסיק ע\"ש וצ\"ל דהכא מיירי מבע\"י וצריכים לחזור ולברך משום דהוי כאלו אמר הב לן ונברך אבל כשאמרו נתפלל אפילו הוא סמוך לחשיכה וצריכין להפסיק א\"צ לברך שנית וכ\"מ בב\"ח ועססי' קע\"ט וסימן רצ\"ט וטעמא דהא מותר לטעום קודם תפלה אפילו ליכא שהות ואין איסור באכילה אלא משום גזירה שמא ימשוך ויעבור זמנה משא\"כ בקידוש דאפי' טעימה אסור ומ\"מ נ\"ל דעל כוס של קידוש א\"צ לברך דהא לא אסחו דעתייהו מיניה אפילו אמרו הב ונקדש וכמ\"ש ס\"ד אעפ\"י שבב\"י משמע קצת דצריך לברך ע\"ש נ\"ל מ\"ש ומ\"מ בעל נפש יזהר שלא יבא לידי כן כי יש דיעו' שונות הרבה בדינים אלו, ובע\"ש כ' דבאמירה צריך לברך על כוס של קידוש וקשה דא\"כ למה כתב הרמב\"ם דצריכים לברך בשתיה הל\"ל דבקידוש נמי צריכין לברך וגם הכ\"מ לא הוי צריך לאוקמי בספק חשיכה:",
+          "en": "",
+          "ref": "Magen Avraham 271:10"
+        },
+        "11": {
+          "he": "קודם שאכל. פי' שלא אכל עדיין פרוסת המוציא ועס\"ד ומ\"מ צריך להביא לפניו לחם משנה ולא הוי הפסק כמ\"ש סימן קס\"ז ס\"ו ועס\"א בהג\"ה שם:",
+          "en": "",
+          "ref": "Magen Avraham 271:11"
+        },
+        "12": {
+          "he": "יאכל תחלה. פי' פרוסת המוציא ואח\"כ צריך להפסיק ולהבדיל שם ועמ\"ש רסי' רצ\"ט ובתשובת מהר\"מ סי' ש\"ב כתב ריצב\"א דיבדיל ואח\"כ יברך שנית המוציא ויאכל דהא אסור לאכול קודם שיבדיל, ול\"ד לגביל לתורי דא\"צ לברך דהתם אסור מדאוריי' עכ\"ל:",
+          "en": "",
+          "ref": "Magen Avraham 271:12"
+        },
+        "13": {
+          "he": "גמר סעודתו. משמע ברי\"ף ורא\"ש ורי\"ו דדוקא כשהתחיל ליטול מים אחרונים ס\"ל להרי\"ף דצריך לברך תיכף עמ\"ש סי' קע\"ט אבל אם לא נטל עדיין כ\"ע מודו דפורס מפה ומקדש ואפשר דאפי' אמרו הב לן ונבריך מקדשין ומברכין בפה\"ג על הכוס:",
+          "en": "",
+          "ref": "Magen Avraham 271:13"
+        },
+        "14": {
+          "he": "וצריך להזכיר של שבת. אף על גב דבססי' קפ\"ח פסק דאזלינן בתר התחלת הסעודה י\"ל דספוקי מספק' ליה ומספיק' בכל ענין צריך להזכיר דאין קפידא אם מזכיר שלא לצורך כמ\"ש ססי' ק\"ח:",
+          "en": "",
+          "ref": "Magen Avraham 271:14"
+        },
+        "15": {
+          "he": "וי\"א דאינו מזכיר. אף על גב דבתוספתא בברכות קתני בהדיא דמזכיר ש\"ה שאכל ג\"כ משחשיכה  אבל הכא שגמר סעודתו מבע\"י לא (הרא\"ש ורי\"ו) וא\"כ אם אכל משחשיכה לכ\"ע צריך להזכיר וכ\"מ בתשובת מהרי\"ל סי' צ\"ו /נ\"ו/:",
+          "en": "",
+          "ref": "Magen Avraham 271:15"
+        },
+        "16": {
+          "he": "אם יטעום. ונ\"ל דמי שיטעום מברך בפה\"ג עליו ואינו מברך בפה\"ג על כוס קידוש ולמ\"ד שלא יטעום אינו מברך בפה\"ג על כוס ב\"ה ואינו שותה ממנו עד לאחר קידוש:",
+          "en": "",
+          "ref": "Magen Avraham 271:16"
+        },
+        "17": {
+          "he": "לאכול מעט. די\"א כיון שאכל בתחלה הוי קידוש במקום סעודה:",
+          "en": "",
+          "ref": "Magen Avraham 271:17"
+        },
+        "18": {
+          "he": "ומברך המוציא. היינו כשנטל ידיו ואז אפי' בפה\"ג צריך לברך ואם לא נטל עס\"ד:",
+          "en": "",
+          "ref": "Magen Avraham 271:18"
+        },
+        "19": {
+          "he": "אם טעם מקדש. מיד בלילה והב\"ח שגג בזה ע' בגמרא:",
+          "en": "",
+          "ref": "Magen Avraham 271:19"
+        },
+        "20": {
+          "he": "פרוסה. שאם היה מגולה צריך להקדימו כמ\"ש סי' רצ\"ט ס\"ט דקודם ליין ולכן מכסהו ולפ\"ז מיד כשבירך בפה\"ג רשאי לגלותו אבל לפי הטעם דתיתי הסעודה ביקרא דשבת' לא יגלהו עד אחר הקידוש וכמ\"ש ס\"ד:",
+          "en": "",
+          "ref": "Magen Avraham 271:20"
+        },
+        "21": {
+          "he": "ואומר ויכולו. ואם שכח לאומרו אומרו תוך הסעוד' על הכוס (מט\"מ):",
+          "en": "",
+          "ref": "Magen Avraham 271:21"
+        },
+        "22": {
+          "he": "כי מתחילין יום הששי. ועוד להשלים ע\"ב תיבות שבקידוש ולפ\"ז א\"ל כי בנו בחרת ואותנו קדשת מכל העמים ויש שמתחילין ויכולו השמים וחושבין זכור ושמור בשנים ע\"ש בס\"ה ובתיקוני שבת כתב שהוא ע' תיבות ולכן כ' שלא לומר ג\"כ כי הוא יום ול\"נ שאין לשנות שום מנהג כי לכל מנהג יש טעם ויסוד דוק ותשכח וגם י\"ל שהזוהר קאמר דדי על קידוש של תפלה שהיא אלהינו ואלהי וכו' שהוא ג\"כ ל\"ה תיבות עמ\"ש ס\"ס זה:",
+          "en": "",
+          "ref": "Magen Avraham 271:22"
+        },
+        "23": {
+          "he": "יתן עיניו בנרות. כי ב\"פ נר עולה ת\"ק והיא רפואה לפסיעה גסה (כ\"כ במהרי\"ל וש\"פ) והקשה בד\"מ דהא צריך ליתן עיניו בכוס ותי' כמ\"ש פה בש\"ע ומיהו אין זו קושי' דאפשר ליתן עיניו בכוס ובנר וכמ\"ש סי' רצ\"ו ובטור סי' רס\"ט משמע שנותנין על העינים מהכוס והוי רפוא' ע\"ש ועסי' שכ\"ח וברש\"י ובר\"ן פט\"ו דשבת כתבו ששתי' הכוס הוי רפואה:",
+          "en": "",
+          "ref": "Magen Avraham 271:23"
+        },
+        "24": {
+          "he": "שופך ממנו לכוס אחר. אבל התוספת בפסחים סוף דף ק\"ה כתבו דכוס של חובה צריך לטעום מכוס שיש בו רביעית וכ\"כ האגודה וא\"כ הכא טועם מהכוס הראשון ואחר כך מוסיף עליו מהכוס הב' וכמ\"ש סימן קפ\"ב ס\"ו וכ\"מ ברא\"ש פ' ח' דברכות ע\"ש ובודאי אלו ראה הרב\"י דברי התוספות באותו פעם היה פוסק כותייהו:",
+          "en": "",
+          "ref": "Magen Avraham 271:24"
+        },
+        "25": {
+          "he": "שיניחנה להבדלה. התוספו' פ' ע\"פ והאגודה חולקין ע\"ז וסוברים דקידוש עדיף וכ\"כ הנ\"ץ בשם רש\"א ונ\"ל דאפי' לדעת הרב\"י אם יש לו שכר להבדלה מוטב לקדש על היין דהא לכ\"ע מבדילין אשיכר' ולר\"ת אין מקדשין על הפת וכ\"ש על השכר דחולקים הרבה פוסקים ולכן אפי' בקידוש דשחרית קוד' להבדלה דהבדלה אפשר בשכר לכולי עלמא במקום דהוי חמר מדינא ועוד דנפשו של אדם קצה בשחרית בשכר, ורוב העולם אין שותין רביעית לכן היכא דאי' ליה יין עדיף טפי מהבדלה עסי\"ג מיהו בבה\"כ עדיף טפי להניחו להבדלה עסי' רס\"ט: וטוב לקדש על כוס גדול שישייר מאותו הכוס לקידוש היום ולהבדלה (ע\"ש כ\"ג מה\"ב):",
+          "en": "",
+          "ref": "Magen Avraham 271:25"
+        },
+        "26": {
+          "he": "אחר שקידש. כדי שלא יפסיק בין נט\"י להמוציא ובני ביתו נוטלין קודם הקידוש (הגמ\"ר):",
+          "en": "",
+          "ref": "Magen Avraham 271:26"
+        },
+        "27": {
+          "he": "וי\"א דלכתחל' וכו'. דס\"ל דאין הקידוש מקרי הפסק כיון דצורך סעודה היא ולכ\"ע אסור למזוג הכוס בחמין כמ\"ש סי' קס\"ו ולמ\"ד שם דאסור להפסי' אפי' לשפוך מהקנקן לכוס אסור אחר נטילה:",
+          "en": "",
+          "ref": "Magen Avraham 271:27"
+        },
+        "28": {
+          "he": "בליל פסח. משום שמפסיקין הרבה באגדה:",
+          "en": "",
+          "ref": "Magen Avraham 271:28"
+        },
+        "29": {
+          "he": "רובו של רביעית. היינו באדם בינוני ובגדול לפי גדלו [תוס' יומא דף פ' ועסי' תרי\"ב ס\"ט] וכתב הר\"ן דמ\"מ לא בעי טפי מרביעית [ב\"ח ואגודה פ' ע\"פ]:",
+          "en": "",
+          "ref": "Magen Avraham 271:29"
+        },
+        "30": {
+          "he": "שיטעמו כלם. ומיהו מי שיש לו יין מעט מוטב שיטעום א' כשיעור ויניח השאר למחר לקידוש או להבדלה ואף על גב  די\"א דשתיית ב' מצטרפין היינו בדיעבד אבל לכתחל' צריך שיטעום המקדש כשיעור:",
+          "en": "",
+          "ref": "Magen Avraham 271:30"
+        },
+        "31": {
+          "he": "הפסיק בדיבור. כתבו התוס' בברכות דף מ' אם שח בין קדושה לשתיה צריך לחזור ולברך אי לאו מילתא דשייכ' לסעוד' וכו' עכ\"ל משמע אף על גב דאינו שייך לקידוש כיון דשייך לסעודה לא הוי הפסק כמ\"ש סימן קס\"ז ס\"ו לענין המוציא ה\"ה לענין קידוש דקידוש נמי צורך סעודה הוא:",
+          "en": "",
+          "ref": "Magen Avraham 271:31"
+        },
+        "32": {
+          "he": "יביא כוס אחר. כתב הלבוש ק' ל\"ל כוס אחר הא קי\"ל דשתיה לא מעכבא כדאי' בפ' בכל מערבין עכ\"ל ושגג בזה שראה זה הל' בב\"י ססי' זה בשם התוס' ובאמת כוונת התוס' דשתיית המסובים לא מעכבא דדי אם טעם אחד מהם כדאמרי' פ' בכל מערבין ליתביה לינוקא ואדרב' שם מוכח דמעכבא דאלת\"ה לימא זמן על הכוס ולא לישתי כיון דא\"א בע\"א וגם על הרב\"י יש לתמוה שכתב ואם נשפך הכוס א\"צ לחזור ולקדש דמאי דאמרי' אם לא טעם לא יצא היינו לומר דלא יצא ידי מצוה כתקנה וכ\"כ בא\"ח בהדי' עכ\"ל ואח\"כ כ' בשם א\"ח אי לא טעמי ליה אחריני צריך למיהדר וקדושי עכ\"ל וכ\"כ בש\"ג בהדי' שאם לא טעם אחד מהם לא יצא וכ\"כ ברמזים וכ\"כ התוס' בפסחי' דף ק\"א בד\"ה ידי קידוש יצאו לכן נ\"ל דחזר פה בש\"ע וכתב שיביאו כוס אחר ויטעום ממנו דכיון שקידש על היין וטעם אף על פי שלא טעם מאותו הכוס יצא דהא כשיש כוסות אחרים לפני המסובין א\"צ לשתות מכוס המקדש א\"כ הוא בעצמו נמי יצא בכוס אחר וכיוצא בזה כתב בהג\"מ פ\"ד ודוק' כשלא הסיח דעתו בנתיים אבל אי קם מההיא דוכת' קודם שטעם צריך לחזור ולקדש [ב\"י בשם א\"ח] כתוב בפסקי מהרא\"י אם קידש על מים וסבר שהוא יין יחזור ויקדש אף על גב דקידוש על היין דרבנן  גם במילי דרבנן צריך לחזור עכ\"ל ואם היה דעתו לשתות יין יותר א\"צ לברך שנית בפה\"ג כמ\"ש ססי' ר\"ט וה\"ה בנשפך הכוס כמ\"ש ססי' ר\"ו, ונ\"ל דאם קידש בשחרית על השכר ונשפך הכוס א\"צ להבי' אחר דהא י\"א דדי בפת כמ\"ש סימן ער\"ב ס\"ט:",
+          "en": "",
+          "ref": "Magen Avraham 271:32"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "לאכול מיד.  היינו לקדש כדי שיזכור שבת בכניסתו. כתב בתיקוני שבת שיקדש קודם לילה כי בתחלת ליל שבת הוא מזל מאדים וסמא\"ל מושל עליו ובסוף יום ו' מזל צדק ומלאכו צדקיא\"ל והם שני מלאכים אחד רע ואחד טוב לכן יקדש בצדק או ימתין עד שיעבור ממשלת מאדים ויקדש. ואם אינו תאב לאכול יכול להמתין שכבר זכר אותו בכניסתו בבה\"כ מ\"ע מ\"א. (ובס' החינוך פ' יתרו משמע שנהגו שלא לקדש בבית עד חשיכה). כתב הרמב\"ם פכ\"ט קידוש היום דאורייתא בלא יין ורבנן תקנו על היין וכ\"כ התוס' בסוכה דף ל\"ח ול\"נ דמדאורייתא בקידוש שאומר בתפלה סגי וקידוש במקום סעודה רבנן תקנוהו. ודע דהקידוש בי\"ט הוא דרבנן מ\"מ יש לו כל דין קידוש של שבת. ואם אין לו אלא כוס אחד של שבת קודם. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:1"
+        },
+        "2": {
+          "he": "האנשים.  רש\"ל וב\"ח פסקו דאין מוציאות את האנשים ואין דעת הט\"ז כך. ופשוט דקטן אינו מוציא האשה ואפי' בן י\"ג שנה שמא לא הביא ב' שערות לכן תקדש האשה לעצמה. או תאמר מלה במלה עמו ע\"ל סי' קצ\"ג ס\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:2"
+        },
+        "3": {
+          "he": "סעודה.  דוקא כשיש לו פת דאם אין לו פת מוטב שיקנה פת ויקדש עליו דהא אין קידוש אלא במקום סעודה מ\"א. ועיין ט\"ז סי' תרע\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:3"
+        },
+        "4": {
+          "he": "לטעום.  נ\"ל דשרי לרחוץ פיו כיון דאינו מכוון להנאת טעימה. ואם רוצה לקבל שבת מבע\"י ולקדש ולאכול ולהתפלל ערבית בלילה רשאי מ\"א ע\"ש ועי' סי' רס\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:4"
+        },
+        "5": {
+          "he": "מפה.  ופשוט דא\"צ להתפלל ערבית אם הוא פורס מפה ומקדש כיון שהתחיל בהיתר כדין כל תפלת ערבית. ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:5"
+        },
+        "6": {
+          "he": "תחלה.  ר\"ל שהיו שותין ג\"כ יין תחלה עם פת:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:6"
+        },
+        "7": {
+          "he": "היין.  לפי שברכת היין הוא קודם קידוש ולא הוי קידוש הפסק. משא\"כ בברכת המוציא הוי הקידוש הפסק לפיכך צריך לברך שנית. וה\"ה דא\"צ לברך על יין שבתוך המזון דהא אחר שתיית הכוס של קידוש לא הוי היסח הדעת לבין שתיה שאחריו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:7"
+        },
+        "8": {
+          "he": "המוציא.  דאז מברך המוציא קודם קידוש ולא הוי קידוש הפסק:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:8"
+        },
+        "9": {
+          "he": "המוציא.  דס\"ל דקידוש לא הוי הפסק כיון דספק ברכות להקל ודאי לא יברך גם המוציא. ט\"ז וכ\"ד אחרונים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:9"
+        },
+        "10": {
+          "he": "שאכל.  פי' שלא אכל עדיין פרוסת המוציא. ומ\"מ צריך להביא לפניו לחם משנה ולא הוי הפסק מ\"א. וכתב ט\"ז נראה פשוט דגם לאחר שאכל קצת הוי כן שיקדש ולא יצטרך לברך שנית המוציא ואפי' לאותה דיעה דסעיף ד' דצריך לברך המוציא היינו כיון שאכל כבר מבע\"י אבל כאן שבירך המוציא אחר שנכנס שבת ולא זכר כאן קודם שאכל אלא משום סיפא דבהבדלה לא יבדיל קודם האכילה כיון דאין מבדילין על הפת ה\"ל הבדלה הפסק בין המוציא לאכילה אלא יאכל פרוסת המוציא תחלה ואח\"כ צריך להפסיק ולהבדיל ע\"ש ועיין מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:10"
+        },
+        "11": {
+          "he": "המוציא.  קשה הא בס\"ד הביא דיעה דא\"צ לברך המוציא וצ\"ל דהכא איירי שנטל ידיו ואז אפי' בפה\"ג נמי צריך לברך ואם לא נטל הדין כמ\"ש בס\"ק ט':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:11"
+        },
+        "12": {
+          "he": "מקדש.  פי' כל אימת שנזכר אפי' בלילה. ט\"ז מ\"א דלא כב\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:12"
+        },
+        "13": {
+          "he": "ויכלו.  לפי שבלילה היתה גמר מלאכת הש\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:13"
+        },
+        "14": {
+          "he": "על גביו.  בטור בשם הירושלמי שלא יראה הפת בשתו שאין מקדשין עליו אלא על היין ולפ\"ז אם מקדש על הפת א\"צ לכסות עליו מפה. אבל לטעם אחר שכתב הטור שמעתי זכר למן שהיה מונח בקופסא טל למעלה וטל למטה ממילא גם במקדש על הפת צריך לכסות במפה וכן נוהגים ט\"ז. ועי' סי' רס\"ב ס\"ק ג' מש\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:14"
+        },
+        "15": {
+          "he": "ויכולו.  ואם שכח לאומרו אומרו תוך הסעודה על הכוס מט\"מ וע\"ל סימן רס\"ח סקי\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:15"
+        },
+        "16": {
+          "he": "מהכוס הב'.  ומ\"מ כתב דטועם מכוס הראשון ואח\"כ מוסיף עליו מהכוס השני עי' שם. (ובספר אליהו רבה דחה דברי מ\"א בשתי ידים על מה שהקשה על ב\"י מתוס' פסחים ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:16"
+        },
+        "17": {
+          "he": "להבדלה.  התוס' והאגודה חולקין ע\"ז וסוברים דקידוש עדיף ואפי' בקידוש דשחרית קודם להבדלה דהבדלה אפשר בשכר לכ\"ע במקום דהוי חמר מדינא ונפשו של אדם קצה בשחרית בשכר לכן היכא דאית ליה יין עדיף טפי מהבדלה מיהו בבה\"כ עדיף טפי להניחו להבדלה וטוב לקדש על כוס גדול שישאיר מאותו הכוס לקידוש היום ולהבדלה. שכנה\"ג ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:17"
+        },
+        "18": {
+          "he": "לשנות.  כתב הט\"ז נ\"ל אע\"פ שכתב רמ\"א ואין לשנות מ\"מ מי שחרד לדבר ורוצה לעשות כדיעה ראשונה וליטול ידיו אחר הקידוש אין לומר עליו כל המשנה ידו על התחתונה ח\"ו אלא הוא יוכל לומר אעשה כדברי הכל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:18"
+        },
+        "19": {
+          "he": "בליל פסח.  משום שמפסיקין הרבה בהגדה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:19"
+        },
+        "20": {
+          "he": "רביעית.  היינו באדם בינוני ובגדול לפי גדלו. ומ\"מ לא בעי טפי מרביעית ב\"ח מ\"א וע\"ל סי' ק\"ץ ס\"ג מ\"ש בשם הט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:20"
+        },
+        "21": {
+          "he": "כולם.  אבל א\"צ להם מלא לוגמיו ט\"ז. ומיהו מי שיש לו יין מעט מוטב שיטעום א' כשיעור ויניח השאר למחר לקידוש או להבדלה. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:21"
+        },
+        "22": {
+          "he": "בדיבור.  כתבו תוס' בברכות דף מ' אם שח בין קידוש לשתיה צריך לחזור ולברך אי לאו מלתא דשייכא לסעודה עכ\"ל. משמע אע\"ג דאינו שייך לקידוש כיון דשייך לסעודה לא הוי הפסק. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:22"
+        },
+        "23": {
+          "he": "נשפך.  אבל אם לקח בידו כוס של מים בחושבו שהוא יין ובירך עליו בפה\"ג וקידש צריך לחזור ולברך בפה\"ג ולקדש שנית על כוס של יין פסקי מהרא\"י סי' קט\"ו. וכן הסכים הט\"ז וחילק דאם היה יין בשעת הקידוש על הספסל או על השלחן מוכן לשתות אז ודאי א\"צ לא בפה\"ג ולא קידוש אלא ישתה המוכן לפניו ע\"ש והמ\"א כתב דאם דעתו לשתות יין יותר א\"צ לברך שנית בפה\"ג וה\"ה בנשפך כו' עי' סי' ר\"ט ס\"ב בהג\"ה וס\"ס ר\"ו. ואם קידש בשחרית על השכר ונשפך הכוס א\"צ להביא אחר דהא י\"א דדי בפת כמו שכתב סימן ער\"ב. עיין מ\"א וט\"ז באורך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:23"
+        },
+        "24": {
+          "he": "פגומין.  ע\"ל סימן קפ\"ב ס\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 271:24"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) ימהר לאכול וכו' - היינו לקדש כדי שיזכור שבת בעת תחלת כניסתו דכל כמה דמקדמינן ליה טפי עדיף ומכיון שקידש צריך לאכול מיד כמבואר בסימן רע\"ג ס\"ג בהג\"ה ואם אינו תאב לאכול יכול להמתין מלקדש עד שירעב שכבר זכר את השבת בתפלתו בבהכ\"נ ויוצא בזה המ\"ע דאורייתא להרמב\"ם וכדלקמן [ממ\"א בשם הרמ\"ע] ומ\"מ נראה דהיכא דיש בזה משום שלום בית או שיש לו בביתו משרתים או שאר אורחים ובפרט אורח עני לא יאחר בכל גווני דכיון דהם מוטלים עליו לא יוכל לעכבם בשביל שהוא רוצה לקיים מצוה מן המובחר:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:1"
+        },
+        "2": {
+          "he": "(ב) מיד - ומ\"מ מהנכון לקרות ק\"ש מקודם אם מסתפק שבבהכ\"נ לא קראה בזמנה ועיין לעיל בסימן רס\"ז במ\"ב סק\"ו. כתב הרמב\"ם פכ\"ט מהלכות שבת מ\"ע מן התורה לקדש את יום השבת בדברים שנאמר זכור את יום השבת לקדשו כלומר זכרהו זכירת שבת וקידוש וכו' ומדברי סופרים שתהא זכירה זו על כוס של יין וכ\"כ התוספות [בסוכה דף ל\"ח ובנזיר דף ד'] דעל היין הוא רק מדרבנן וכתב המ\"א דלפ\"ז מדאורייתא בקידוש שאומר בתפלה סגי דקרא כתיב זכור את יום השבת והרי זכר אותו וקידוש במקום סעודה מדרבנן כמש\"כ הב\"י בסימן רס\"ט והביא המ\"א ראיה לזה מן הגמרא דיוצא מה\"ת בתפלה ע\"כ אם ספק לו אם קידש או לא א\"צ לחזור ולקדש דספיקא דרבנן לקולא [פמ\"ג] גם דקטן שהגיע לחינוך יכול להוציא לפ\"ז אפילו לגדול בקידוש אם הגדול התפלל כבר ואולם יש לפקפק בזה הרבה דהא קי\"ל לעיל בסימן ס' ס\"ד דמצות צריכות כונה לצאת בעשיית המצוה ומסתמא אין מדרך העולם לכוין לצאת את המ\"ע דזכור בתפלה כיון שיש לו יין או פת ויכול לקדש עליהן אח\"כ בברכה כדין וטוב יותר שיצא אז המ\"ע דאורייתא משיצא עתה ויהיה בלא כוס ושלא במקום סעודה ועוד כמה טעמים אחרים שיש לפקפק בזה וכמו שבארתי בבה\"ל ע\"כ יש למנוע מלצאת ידי קידוש ע\"י קטן ואפילו אם יזהר השומע לומר עמו מלה במלה ג\"כ נכון למנוע מזה אם לא שמונח לפניו ג\"כ פת או יין בעת הקידוש וכדלקמיה בסוף סק\"ג. ודע דקידוש של יו\"ט הוא מדרבנן ומ\"מ יש לו כל דין קידוש של שבת ואם יו\"ט חל בע\"ש ואין לו אלא כוס אחד מניחו לשבת שהוא מן התורה וביו\"ט יקדש על הפת:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:2"
+        },
+        "3": {
+          "he": "(ג) דאיתקש זכור לשמור - דזכור את יום השבת לקדשו האמור בדברות הראשונות ושמור את יום השבת לקדשו האמור בדברות אחרונות שניהם בדבור אחד נאמרו וזכור קאי על מ\"ע דקידוש וכנ\"ל ושמור קאי על שמירה ממלאכה וכשם שבאיסור מלאכה בודאי גם נשים מוזהרות דבמצות ל\"ת אין חלוק בין זמן גרמא בין שאין הזמן גרמא כן בעשה דזכור גם נשים מצוות ופשוט דקטן אינו מוציא את האשה דלא אתי דרבנן ומפיק דאורייתא ואפילו אם הוא בן י\"ג שנה חיישינן שמא לא הביא שתי שערות דבמילי דאורייתא לא סמכינן אחזקה דמכיון שהגיע לכלל שנים הגיע לכלל סימני שערות עד שיתמלא זקנו כמ\"ש בח\"מ סימן ל\"ה ולכן תקדש האשה לעצמה ואם אינה יודעת לקדש בעצמה תאמר עמו מלה במלה מראשו ועד סופו ולא תכוין לצאת בקידושו ובאופן זה כיון שהיא אומרת הקידוש בעצמה נכון שיהא פת או יין מונח גם לפניה בעת הקידוש ולא תסמוך על מה שהנער אוחז הכוס או הפת בידו כיון שאינה יוצאת בקידוש שלו ועצה זו מועילה אפילו אם הוא קטן ביותר. וכ\"ז בשלא התפללה האשה תפלת ערבית אבל אם התפללה דלדעת המ\"א הנ\"ל כבר יצאה ידי קידוש דאורייתא בזה יש לסמוך על נער בן י\"ג שנים שיוציאה אח\"כ בקידוש דהיינו שיכוין להוציאה. כתב בספר א\"ר שני אנשים אם רוצים להוציא בני ביתם לא יקדשו כאחת דתרי קלי לא משתמעי:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:3"
+        },
+        "4": {
+          "he": "(ד) ומוציאות את האנשים - וכן הסכימו הט\"ז ומ\"א והגר\"א וש\"א ומ\"מ יש להחמיר לכתחלה שלא תוציא אשה אנשים שאינם מבני ביתה דזילא מילתא [א\"ר ודה\"ח]:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:4"
+        },
+        "5": {
+          "he": "(ה) הואיל וחייבות וכו' - ולכן יכולה להוציא אפילו היא כבר יצאת ידי קידוש וכמו באיש לקמן בסימן רע\"ג ס\"ד דלענין קידוש אנשים ונשים שוין. ודע דכשאחד מוציא לחבירו ידי קידוש צריך לכוין להוציאו והשומע צריך לכוין לצאת לכן מהנכון שיזכיר בעה\"ב לבני ביתו שיכוונו לצאת ועיין לקמן בסימן רע\"ג במ\"ב סק\"ל מה שנכתוב שם:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:5"
+        },
+        "6": {
+          "he": "(ו) כמותם - אך לענין זמן יש חילוק דבאיש זמן חיובו מן התורה כשהוא בן י\"ג ובאשה כשנעשית בת י\"ב דאז היא מתחייבת בכל המצוות:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:6"
+        },
+        "7": {
+          "he": "(ז) מוטב שיקנה וכו' - דקידוש הוא מ\"ע דאורייתא ולהכין צרכי סעודה הוא מצות עונג מדברי קבלה וכדכתיב וקראת לשבת ענג ואע\"ג דהמ\"ע של זכור נוכל לקיים בזכירת דברים של קדושת שבת בלבד ועל היין אינו אלא מד\"ס וכנ\"ל במ\"ב סק\"ב אפ\"ה כיון דעיקר קידוש הוא מן התורה גם יין שלו קודם לכל והסכימו האחרונים דכ\"ז דוקא כשיש לו פת לצורך הלילה ולצורך היום אבל כשאין לו פת מוטב שיקנה לו פת ויקדש עליו דהא חייב לאכול פת בלילה וכן למחר ביום השבת. ואם יש לו לקידוש לילה ואין לו לקידוש היום ולכבוד היום אף דמסתבר דכבוד היום עדיף מקידוש היום מ\"מ אפשר דדי לו בפת והמותר יקנה לו יין לקידוש היום [מ\"א] ועיין בבה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:7"
+        },
+        "8": {
+          "he": "(ח) יין לצורך היום - היינו לצורך קידוש היום והטעם דקידוש הלילה עיקרו הוא מדאורייתא וקידוש היום הוא רק מדרבנן ואע\"ג דבלילה יוכל לומר ברכת קידוש אריפתא וביום כשלא יהיה לו על מה לקדש ישאר בלי קידוש מ\"מ כיון דבמקום שיש יין אין מקדשין אריפתא דלילה עדיפא:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:8"
+        },
+        "9": {
+          "he": "(ט) בשאר צרכי סעודה - כגון שיש לו מעט מיני מגדים טוב יותר שיניחם לצורך סעודת היום ובספר ים של שלמה קורא תגר על שאין נזהרים בזה ואדרבה מוסיפין בליל שבת:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:9"
+        },
+        "10": {
+          "he": "(י) קודם לכבוד יום - היינו בין לצרכי סעודה דיום ובין לקידוש שעושין ביום וכמ\"ש בריש הסעיף:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:10"
+        },
+        "11": {
+          "he": "(יא) אסור לטעום - וזהו רק איסור דרבנן והטעם כיון דחיוב של הקידוש חל עליו מיד בכניסת שבת ואפילו לא קבל עליו שבת בהדיא דכיון שנעשה ספק חשיכה ממילא חל עליו שבת ואם קבל עליו שבת אפילו עדיין יום גדול דינא הכי ואם רוצה לקבל שבת מבע\"י ולקדש ולאכול ולהתפלל ערבית אח\"כ בלילה רשאי ובתנאי שיהיה חצי שעה קודם זמן מעריב כדלעיל בסימן רל\"ה ס\"ב [א\"ר]:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:11"
+        },
+        "12": {
+          "he": "(יב) קודם שיקדש - ואפילו אין לו אלא כוס אחד יקדש עליו ויברך בהמ\"ז בלא כוס [היינו אפילו למאן דס\"ל בהמ\"ז טעונה כוס לעיל בסימן קפ\"ב ס\"ב] ולא יאכל קודם שיקדש:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:12"
+        },
+        "13": {
+          "he": "(יג) אפילו מים - ושרי לרחוץ פיו במים כיון דאינו מכוין להנאת טעימה:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:13"
+        },
+        "14": {
+          "he": "(יד) צריך להפסיק - ואע\"ג דהתחיל בהיתר שאני הכא דהקידוש שייך לסעודה ולכתחלה איתקון שיקדש קודם סעודה ובמקום סעודה:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:14"
+        },
+        "15": {
+          "he": "(טו) שפורס מפה - לכסות הפת עד אחר הקידוש ואח\"כ יסירנה כי היכי דתתראה דאתא הסעודה השתא ליקרא דשבתא ואף אם לא ישב עדיין לאכול ג\"כ דינא הכי דצריך פריסת מפה בעת הקידוש וכדלקמן בס\"ט אלא דקמ\"ל בזה דאף שהוא באמצע אכילתו די בפריסת מפה:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:15"
+        },
+        "16": {
+          "he": "(טז) בלא ברכת היין - דכיון דבירך כבר בתוך הסעודה בתחלת שתיתו שוב א\"צ לברך עתה בורא פה\"ג קודם הקידוש וה\"ה שאין צריך לברך על היין שבתוך הסעודה דהא אין שום היסח הדעת בין שתיית הכוס של קידוש לשתיית היין שבתוך הסעודה:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:16"
+        },
+        "17": {
+          "he": "(יז) ואח\"כ מברך ברכת המוציא - היינו כשבא לגמור אח\"כ סעודתו מברך ברכת המוציא מחדש דאינו יוצא בהמוציא שבירך בתחלת הסעודה לפי שהקידוש שבינתים שהיה צריך לאמרו מפני שנאסר באכילה עד שיקדש זה הוי הפסק לפיכך צריך לברך שנית ברכת המוציא [ובהמ\"ז רק פ\"א בסוף הסעודה] משא\"כ כשאין לו יין ומקדש על הפת שזמן ברכת המוציא שלו הוא קודם קידוש ולא היה עדיין הפסק שיהיה צריך מחמת זה לברך שנית לכן א\"צ לברך המוציא לכו\"ע:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:17"
+        },
+        "18": {
+          "he": "(יח) אינו מברך המוציא - דס\"ל דקידוש לא הוי הפסק. וכיון דספק ברכות להקל יש לתפוס כהי\"א [אחרונים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:18"
+        },
+        "19": {
+          "he": "(יט) ואמרו בואו ונקדש - ומיירי הכא מבעוד יום דאלו בספק חשיכה וכ\"ש בודאי חשיכה אפילו לא אמרו בואו ונקדש ממילא חל חובת קידוש ואסור לאכול ולשתות וכמש\"כ בס\"ד:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:19"
+        },
+        "20": {
+          "he": "(כ) עד שיקדשו - דע\"י אמירת בואו ונקדש חלה עליהם חובת קידוש היום ונאסר עליהם לשתות:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:20"
+        },
+        "21": {
+          "he": "(כא) ואם רצו וכו' - הטעם דאסחו דעתייהו מלשתות עוד קודם קידוש ולכן דומה זה לאומר קודם בהמ\"ז הב לן ונברך דצריך השותה אח\"כ לחזור ולברך ומ\"מ על כוס של קידוש דעת המ\"א שא\"צ לברך בורא פה\"ג ויוצא בהברכה שבירך בתחלת השתיה דהא לא אסחו דעתייהו מכוס של קידוש במה שאמרו בואו ונקדש וכן נראה דא\"צ לברך ג\"כ על היין שישתה אחר כוס של קידוש דהא לא אסח דעתיה רק מהשתיה שקודם קידוש ולפי שיש דעות הרבה בדינים אלו ראוי לכל בעל נפש ליזהר שלא יבוא לידי כך:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:21"
+        },
+        "22": {
+          "he": "(כב) אע\"פ שאינם רשאים - היינו מטעם דחלה עליהם קדושת היום. כתב הט\"ז דכשלא אמרו בואו ונקדש אלא שהחשיך אם רצו לחזור ולשתות אין צריכין לחזור ולברך אף דאסור מחמת שהוא קודם קידוש האיסור לבד אין עושה היסח הדעת:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:22"
+        },
+        "23": {
+          "he": "(כג) קודם שאכל - היינו קודם שטעם פרוסת המוציא דלאחר שטעם יקדש על היין אם יש לו משא\"כ קודם זה צריך לקדש על הפת אע\"פ שיש לו יין דאל\"כ יהיה בורא פה\"ג הפסק בין ברכת המוציא לאכילה מיהו צריך להביא לפניו עוד לחם משנה וזה לא מקרי הפסק דהוי מצורך סעודה וכדלעיל בסי' קס\"ז ס\"ו:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:23"
+        },
+        "24": {
+          "he": "(כד) יקדש על הפת - ר\"ל שיאמר ברכת אשר קדשנו ולא יאמר עתה ויכלו רק בתוך הסעודה:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:24"
+        },
+        "25": {
+          "he": "(כה) ואח\"כ יאכל - ואם נזכר לאחר שאכל קצת בין כשאין לו יין ואומר ברכת אשר קדשנו על הפת ובין כשיש לו יין ומקדש על היין כשחוזר לאכול את הפת א\"צ לברך שנית המוציא:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:25"
+        },
+        "26": {
+          "he": "(כו) יאכל תחלה - פי' פרוסת המוציא כדי שלא תהיה הברכה לבטלה ואח\"כ צריך להפסיק ולהבדיל ועמ\"ש המ\"א בריש סימן רצ\"ט דלהפוסקים הבדלה דרבנן א\"צ להפסיק אלא גומר סעודתו ואח\"כ מבדיל:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:26"
+        },
+        "27": {
+          "he": "(כז) אם גמר סעודתו - ומיירי ג\"כ שנטל ידיו למים אחרונים וקודם שהתחיל בבהמ\"ז ראה שקידש עליו היום דבזה ס\"ל דתחלה מברך בהמ\"ז על כוס ראשון דמכיון שנטל ידיו צריך לברך תיכף [ועמ\"ש סימן קע\"ט] אבל אם לא נטל ידיו גם הדעה ראשונה ס\"ל דפורס מפה ומקדש מקודם ולא יברך בורא פה\"ג בעת הקידוש אם שתה יין מקודם באמצע הסעודה וכנ\"ל בס\"ד ואפילו אמר הב לן ונברך ג\"כ מקדש מתחלה כיון שלא נטל ידיו עדיין אך בזה צריך לברך בפה\"ג בעת הקידוש כיון שאמר הב לן ונברך וכנ\"ל בסימן קע\"ט ס\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:27"
+        },
+        "28": {
+          "he": "(כח) על כוס שני - אבל אין אומר שניהם על כוס אחד דאין עושין מצות חבילות חבילות [גמרא]:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:28"
+        },
+        "29": {
+          "he": "(כט) של שבת - דאזלינן בתר השתא כיון דבשעה שהוא מברך כבר נתקדש היום ומ\"מ פשוט דלכו\"ע אם לא הזכיר של שבת אינו חוזר:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:29"
+        },
+        "30": {
+          "he": "(ל) בתר תחלת הסעודה - שהיה בזמן חול וכ\"ז דוקא כשלא אכל משחשכה מאומה אבל אם אכל מעט גם משחשכה לכו\"ע צריך להזכיר של שבת [מ\"א וש\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:30"
+        },
+        "31": {
+          "he": "(לא) אם יטעום - דאית דס\"ל דמברך בפה\"ג וטועם תיכף כמו בכל כוס של בהמ\"ז ולא חשיב טועם קודם קידוש משום דהכוס שייך לסעודה שהיה קודם חובת קידוש וממילא שוב א\"צ לברך לדידהו בפה\"ג על כוס שני של קידוש רק ברכת אשר קדשנו בלבד ואית דס\"ל שאינו טועם ממנו משום דאסור לטעום קודם קידוש וממילא אינו יכול לברך עליו בפה\"ג אלא מברך תחלה בפה\"ג על כוס של קידוש ומקדש ושותהו ואח\"כ שותה כוס זה של בהמ\"ז בלא ברכה:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:31"
+        },
+        "32": {
+          "he": "(לב) לאכול מעט - די\"א כיון שאכל בתחלה הוי קידוש במקום סעודה ושוב א\"צ לאכול וי\"א דאינו נחשב למקום סעודה כיון שהיתה של חול וצריך עתה בשבת לאכול עכ\"פ מעט:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:32"
+        },
+        "33": {
+          "he": "(לג) וי\"א דאף וכו' - ס\"ל דע\"כ צריך לאכול מיד אחר הקידוש כדי שיהא נחשב למקום סעודה דסעודה שאכל מתחלה אינה מועלת לזה וכנ\"ל וכיון דע\"כ צריך לאכול בהמ\"ז שבינתים למה לי ודינו כמו המקדש באמצע סעודתו הנ\"ל בס\"ד שפורס מפה ומקדש:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:33"
+        },
+        "34": {
+          "he": "(לד) ומקדש ומברך המוציא - ולא דמי לדלעיל בס\"ד די\"א דא\"צ לברך המוציא דהכא שאני דהא מיירי שנטל ידיו למים אחרונים וכנ\"ל וכבר נסתלק לגמרי בזה לכו\"ע מאכילה ראשונה וכדלעיל בסימן קע\"ט ס\"א ומטעם זה גם בפה\"ג צריך לברך על הכוס של קידוש ואינו יוצא בברכת בורא פה\"ג שבירך על היין ששתה מתחלה בתוך הסעודה ואם לא נטל ידיו דינו כמו לעיל בס\"ד [אחרונים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:34"
+        },
+        "35": {
+          "he": "(לה) ואוכל מעט - היינו כזית עכ\"פ כדי שיהא נחשב למקום סעודה [פמ\"ג]:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:35"
+        },
+        "36": {
+          "he": "(לו) להוציא את נפשו וכו' - היינו דאם יעשה כדעה ראשונה יפול בספיקות אם להזכיר של שבת ואם יטעום מכוס בהמ\"ז ואם צריך לאכול אחר הקידוש ואף דעתה אינו יוצא ידי דעה ראשונה דס\"ל דצריך לברך בהמ\"ז מיד הא עדיפא דאם יעשה כדעה ראשונה יש חשש ברכה שא\"צ לדעה שניה שיצטרך לברך בהמ\"ז ב\"פ [פמ\"ג]:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:36"
+        },
+        "37": {
+          "he": "(לז) אם טעם מקדש - פי' כל אימת שנזכר אפילו בלילה ולא נימא שימתין עד למחר בבוקר קודם האכילה כדי שיהיה הקידוש קודם הטעימה [אחרונים] ומשמע בפוסקים דלאו דוקא טעימה בעלמא אפילו אם עבר ואכל ושתה ג\"כ צריך לקדש אח\"כ:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:37"
+        },
+        "38": {
+          "he": "(לח) יש לו תשלומין וכו' - ופשוט דבעינן שיהיה ג\"כ מקום סעודה כמו בלילה:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:38"
+        },
+        "39": {
+          "he": "(לט) כל היום - עד ביה\"ש ובביה\"ש מצדד הפמ\"ג דיאמר הנוסח של קידוש בלי הזכרת שם ומלכות בפתיחה וחתימה ע\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:39"
+        },
+        "40": {
+          "he": "(מ) מלבד ויכלו - לפי שבלילה היתה גמר מלאכת הש\"י:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:40"
+        },
+        "41": {
+          "he": "(מא) על גביו - בטור בשם הירושלמי שלא יראה הפת בשתו שאין מקדשין עליו אלא על היין והוא יש לו דין קדימה בשארי מקומות ולפ\"ז אם מקדש על הפת א\"צ לכסות עליו מפה אבל לטעם אחר שכתב הטור שהוא זכר למן שהיה מונח בקופסא טל למעלה וטל למטה ממילא גם במקדש על הפת צריך לכסות במפה וכן נוהגים ומשמע בפמ\"ג שלכל הטעמים די במקדש על היין שיהיה מכוסה עד אחר שגמר הקידוש וכן בשחרית צריך ג\"כ להיותה פת מכוסה עד אחר הקידוש מטעמים אלו ובח\"א משמע דלטעם זכר למן טוב שיהיה מכוסה עד אחר ברכת המוציא. כתב בא\"ר ודה\"ח כשמקדש על הפת יניח ידיו על המפה ועל הלחם משנה בשעת הקידוש וכשיגיע להמוציא יגלה הלחם משנה ויניח ידו עליהם ויברך המוציא וכשיגיע להשם יגביה שניהם למעלה עד שיגמור השם ואח\"כ יניחם ואחר גמר המוציא יחזור ויכסה במפה ויניח ידו עליהם עד שיגמור הקידוש:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:41"
+        },
+        "42": {
+          "he": "(מב) על כוס מלא - דכוס של קידוש והבדלה הוא בכלל שאר כוס של ברכה דצריך שיהיה מלא וכנ\"ל בסימן קפ\"ג ס\"ב בהג\"ה ואם איננו מלא ואין לו כוס אחר לערות בתוכו מותר לקדש עליו כיון שיש שיעור רביעית בהיין שבתוכו וכדמוכח לקמיה בסעיף י\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:42"
+        },
+        "43": {
+          "he": "(מג) שלא יהיה פגום - היינו שאם שתה אחד ממנו פגמו ואין לקדש עליו ועיין לעיל בסימן קפ\"ב ששם מבואר פרטי דיני כוס פגום וע\"ש בסעיף זיי\"ן דבשעת הדחק שאין לו כוס אחר ואין לו עצה לתקן הכוס מברכין על כוס פגום ועיין בא\"א סק\"ל דבקידוש של לילה אפשר שטוב יותר שיקדש על הפת:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:43"
+        },
+        "44": {
+          "he": "(מד) כל מה שטעון וכו' - היינו שיהיה הכוס שלם ויהיה מודח היטב מבפנים ומבחוץ וכל שאר דברים הנזכר לעיל בסימן קפ\"ג לענין כוס בהמ\"ז:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:44"
+        },
+        "45": {
+          "he": "(מה) ואומר ויכלו מעומד - שהוא עדות על בריאת שמים וארץ ועדות בעינן מעומד ואע\"פ שאומרו בתפלה חוזר ואומרו כדי להוציא בניו ובני ביתו [טור] וברוקח הביא בשם מדרש דצריך לומר ויכלו ג' פעמים אחד בתפלה ואחד לאחר התפלה ואחד על הכוס וכתבו האחרונים דאם שכח לומר ויכלו בשעת קידוש אומרו באמצע סעודה על הכוס:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:45"
+        },
+        "46": {
+          "he": "(מו) ויותר טוב לישב - דבכי האי גוונא מקרי טפי קידוש במקום סעודה כיון שיושב במקום סעודתו בעת הקידוש וכן הסכים בבאור הגר\"א ומטעם אחר דכיון שאחד פוטר חברו בעינן קביעות שיקבעו יחד ובישיבה מקרי קביעות וכנ\"ל בסימן קס\"ז ולפי דבריו גם השומעים צריכין לישב וטוב ליזהר בזה לכתחלה ויש לומר דגם דעתו הוא רק לכתחלה ועכ\"פ צריך ליזהר שיקבעו השומעים עצמן יחד בעת הקידוש כדי לצאת ולא שיהיו מפוזרים ומפורדים והולכים אחד הנה ואחד הנה דזה לא מקרי קביעות כלל:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:46"
+        },
+        "47": {
+          "he": "(מז) אף בשעה וכו' - דכיון שאמרוה כבר בבהכ\"נ מעומד אין מקפידין שוב ע\"ז ואומרים אותו מיושב כמו שאר הקידוש:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:47"
+        },
+        "48": {
+          "he": "(מח) יתן עיניו בנר - והוא סגולת רפואה לעינים שכהו על ידי פסיעה גסה מיהו אין מדקדקין בזה כ\"כ [א\"ר]:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:48"
+        },
+        "49": {
+          "he": "(מט) וע\"ל סימן קפ\"ג - היינו דשם מבואר זה שיתן עיניו בכוס של ברכה שלא יסיח דעתו:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:49"
+        },
+        "50": {
+          "he": "(נ) שופך ממנו וכו' - כשיעור מלא לוגמיו:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:50"
+        },
+        "51": {
+          "he": "(נא) מהכוס השני - ובמ\"א הסכים לדעת התוספות דכוס של חובה צריך להיות הטעימה דוקא מכוס שיש בו רביעית יין וע\"כ הנכון שיעשה כך ישפוך מתחלה מהכוס הראשון לתוך כוס אחר ויזהר שישאר בו רביעית יין ויטעם מהכוס הראשון כשיעור מלא לוגמיו ואח\"כ ישפוך היין שבכוס אחר לתוך כוס זה דבזה נתקן פגימתו וכדלעיל בסימן קפ\"ב סעיף וי\"ו ויוכל לקדש עליו אם יש בו עתה רביעית יין [ואף דבא\"ר דחה דבריו וסובר דכעצת השו\"ע עדיפא טפי עיין בתו\"ש שיישבו]:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:51"
+        },
+        "52": {
+          "he": "(נב) מקדש במה שנשאר - מלשון זה משמע דמקדש בזה הכוס גופא ואף דלעיל בס\"י כתב דצריך להיות הכוס מלא זהו רק למצוה ואין מעכב אם אין לו ופשוט דאם יש לו כוס אחר קטן מזה צריך לשפוך היין לתוכו כדי שיהיה מלא:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:52"
+        },
+        "53": {
+          "he": "(נג) רביעית בצמצום - לאו דוקא אלא ה\"ה אם אפילו יש לו יותר מזה אלא דאחר טעימת מלא לוגמיו לא ישאר לו כשיעור רביעית אלא דנקט הכי לרבותא דאפילו בזה יש לו תקנה ע\"י מזיגת מים ומיירי כשהיה היין חזק שאחר המזיגה יוכל לקדש עליו ועיין לקמן בסימן רע\"ב ס\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:53"
+        },
+        "54": {
+          "he": "(נד) והיינו דוקא וכו' - קאי אדלעיל שכתב דכשיש לו כוס אחד מקדש בו בלילה ואשמעינן דהיינו דוקא וכו':",
+          "en": "",
+          "ref": "Mishnah Berurah 271:54"
+        },
+        "55": {
+          "he": "(נה) מוטב וכו' - בזה איירי השו\"ע שהכוס הוא שיעור מצומצם וממוזג כבר דאל\"ה הלא יכול לקדש בלילה ולמוזגו להשלימו גם להבדלה וכנ\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:55"
+        },
+        "56": {
+          "he": "(נו) שיניחנה להבדלה - וי\"א דקידוש הלילה עדיף מהבדלה ואפילו לדעת השו\"ע אם יש לו שכר להבדלה מוטב לקדש על היין דהא לכו\"ע מבדילין אשיכרא כמ\"ש בסימן רצ\"ו ס\"ב וקידוש אשכרא הרבה פוסקים אוסרים וגם על הפת מחמיר ר\"ת ולכן אפילו בשחרית טוב יותר שיקדש על היין אם יש לו שכר להבדלה מיהו מה שנהגו לקדש בבהכ\"נ וגם להבדיל בזה בודאי ההבדלה שהוא להוציא רבים ידי חובתן עדיף מקידוש שאינו אלא מנהג כמ\"ש סימן רס\"ט [מ\"א וש\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:56"
+        },
+        "57": {
+          "he": "(נז) דקידוש הלילה עדיף - וכדלעיל בסימן זה ס\"ג ועי\"ש במ\"ב סק\"ח. המ\"א הביא בשם שכנה\"ג דטוב לקדש על כוס גדול שישייר מאותו הכוס לקידוש היום ולהבדלה והיינו שיתקננו בכל פעם שלא יהיה פגום ויקח בשחרית ובהבדלה כוס קטן מהקודם כדי שיהיה מלא אבל הא\"ר פקפק בזה המנהג וכן במאמר מרדכי ממאן בזה וכתב דטוב יותר לעשות כמנהגנו:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:57"
+        },
+        "58": {
+          "he": "(נח) אחר שקידש וכו' - ולא קודם כדי שלא יפסיק בהקידוש בין נט\"י להמוציא אבל בני ביתו שאינם מקדשין בעצמן אלא יוצאין בשמיעתן מבעה\"ב יוכלו ליטול ידיהם קודם:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:58"
+        },
+        "59": {
+          "he": "(נט) דריפתא וכו' - ודוקא הכא דאיכא ג\"כ חשש הפסק שמקדש על היין אחר נטילה וכמו שכתבנו בס\"ק נ\"ח אבל בעלמא היכא דלא נטל ידיו מותר לקדש על היין אף דריפתא חביבא ליה יותר מיין ועיין לקמן בסימן רע\"ב ס\"ט בהג\"ה במה שכתבנו שם:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:59"
+        },
+        "60": {
+          "he": "(ס) חביבא ליה - היינו דלכך נוטל ידיו שהוא רעב וממהר לאכול פת:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:60"
+        },
+        "61": {
+          "he": "(סא) וי\"א דלכתחלה וכו' - דס\"ל דאין הקידוש מקרי הפסק כיון שהוא צורך סעודה ולכך יקדש על היין וישתה הכוס ואח\"כ יברך המוציא ויבצע הפת וכיון דאינו הפסק ס\"ל לרמ\"א דטוב לנהוג כן לכתחלה משום דכשאין לו יין ומקדש על הפת בע\"כ צריך ליטול ידיו קודם הקידוש וע\"כ טוב לנהוג כן תמיד באופן אחד. ולמזוג את הכוס בחמין אחר הנטילה קודם המוציא ודאי אין לעשות כן לכו\"ע כיון דצריך לדקדק יפה שימזוג כדרכו שלא יחסר ושלא יותיר הוי היסח הדעת:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:61"
+        },
+        "62": {
+          "he": "(סב) ואין לשנות - וכמה אחרונים כתבו דטפי עדיף לכתחלה לקדש על היין קודם נט\"י וכדעת המחבר דבזה יוצא מדינא לכל הדעות ובכמה מקומות נהגו כדבריהם מיהו אם כבר נטל ידיו קודם קידוש בזה יש לעשות כהרמ\"א דאעפ\"כ יקדש על יין:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:62"
+        },
+        "63": {
+          "he": "(סג) בליל פסח - משום שאז מפסיקין הרבה באמירת הגדה עד הסעודה. כתב בדה\"ח אם מקדש על הפת להוציא גם השומעים צריכין השומעים שיכוונו לצאת גם בברכת המוציא דאם לא יכוונו לברכת המוציא רק יכוונו לצאת בקידוש היום וברכת המוציא רוצין אח\"כ לברך בעצמן בשעת אכילה עושין איסור דמהפכין סדר הקידוש ע\"ש ולפ\"ז צריכין ג\"כ ליזהר ליטול ידיהם בשוה עם הבעה\"ב כשמקדש על הפת דאל\"ה איך יכוונו לצאת בברכת המוציא שלו:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:63"
+        },
+        "64": {
+          "he": "(סד) צריך לשתות וכו' - ואם לאו לא יצא:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:64"
+        },
+        "65": {
+          "he": "(סה) כמלא לוגמיו - דבעינן שיעור חשוב שתתישב דעתו עי\"ז:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:65"
+        },
+        "66": {
+          "he": "(סו) דהיינו וכו' - ר\"ל ולא בעינן שיהא מלא פיו ממש משני הצדדים:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:66"
+        },
+        "67": {
+          "he": "(סז) והוא וכו' - ושיעור זה די אפילו אם היה הכוס גדול שמחזיק כמה רביעיות:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:67"
+        },
+        "68": {
+          "he": "(סח) רובו של רביעית - היינו באדם בינוני מחזיק שיעורו כך אבל באדם גדול ביותר משערינן כמלא לוגמיו דידיה לפי גדלו ומ\"מ לא בעי לשתות טפי מרביעית. ודע דשיעור רביעית הוא כמעט מלא שתי קליפות מביצה בינונית של תרנגולת והוא שיעור ביצה ומחצה עם הקליפה דלוג הוא ששה ביצים כדאיתא בגמרא וממילא רביעית הלוג הוא ביצה וחצי [מ\"א ופמ\"ג בסי' ר\"י ובח\"י הלכות פסח וש\"א] ויש מחמירין מאד בענין השיעורין והוכיחו דהביצים נתקטנו בזמנינו למחצית ממה שהיה בימי הגמרא וע\"כ שיעור רביעית הוא בכפלים וכן נ\"מ מזה לענין כזית מצה דהוא כחצי ביצה כמבואר בסי' תפ\"ו ועיין בבה\"ל מה שכתבנו בענין זה דנכון לחוש לדבריהם לענין קידוש של לילה ועכ\"פ יראה לכתחלה שיחזיק הכוס כשני ביצים והשתיה אף שהכוס גדול די שישתה כמלא לוגמיו דידיה. ודע עוד דהשיעור של מלא לוגמיו צריך לשתות בלי הפסק הרבה בינתים דהיינו שלא ישהה מתחלת שתיה ראשונה עד סוף שתיה אחרונה יותר מכדי שתיית רביעית ועכ\"פ לא יפסיק זמן רב כדי אכילת פרס ואם הפסיק בכדי אכילת פרס אף בדיעבד לא יצא וצריך ליזהר בזה כשמקדש בשחרית על יי\"ש שאז מצוי להכשל בזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:68"
+        },
+        "69": {
+          "he": "(סט) אחד מהמסובין - דכיון שהמסובין שמעו מתחלה את הברכה והוא כוון עליהם להוציאן מהני טעימתן לכולם אבל אם שתה אחר שלא כוון עליו בברכה ואותו האחר בירך מחדש משמע שאין יוצאין בטעימתו ודינו כאלו נשפך הכוס לקמן:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:69"
+        },
+        "70": {
+          "he": "(ע) ואין שתיית וכו' - דבעינן שיטעום בעצמו או אחד מהמסובין שיעור הנאה שתתיישב דעתו עליו וכדלעיל בס\"ק ס\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:70"
+        },
+        "71": {
+          "he": "(עא) שיטעמו כולם - היינו טעימה בעלמא וא\"צ מלא לוגמיו רק לאחד וכתב המג\"א דמי שיש לו יין מעט מוטב שיטעום אחד כשיעור והמסובין לא יטעמו כלל כדי שישאר הנותר למחר לקידוש או להבדלה:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:71"
+        },
+        "72": {
+          "he": "(עב) דכיון שבין כולם וכו' - היינו בדיעבד אבל לכתחלה לכו\"ע צריך שיטעום המקדש כשיעור [מ\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:72"
+        },
+        "73": {
+          "he": "(עג) לחוש לדבריהם - היינו ליזהר לכתחלה ובדיעבד הסכימו הרבה אחרונים דאפילו שתיית כל המסובין מצטרפין למלא לוגמיו אך שלא ישהה ע\"י שתיית כולם יותר מכדי אכילת פרס:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:73"
+        },
+        "74": {
+          "he": "(עד) ודוקא בקידוש - שהוא ד\"ת ואסמכו אקרא לקדש על היין:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:74"
+        },
+        "75": {
+          "he": "(עה) הפסיק בדיבור - ואם הפסיק בדברים השייכים להסעודה וכש\"כ בדברים השייכים לקידוש לא הוי הפסק בדיעבד וא\"צ לחזור ולברך:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:75"
+        },
+        "76": {
+          "he": "(עו) וא\"צ לחזור ולקדש - דההפסק אינו מגרע אלא ברכת בפה\"ג מפני ששח בין ברכה לטעימה אבל הקידוש כבר יצא שהיה על הכוס כדין וישתנה עתה אחר הברכה:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:76"
+        },
+        "77": {
+          "he": "(עז) ומברך עליו - דעל אותו הכוס לא היה דעתו מתחלה ואם היה דעתו בתחלה בשעת ברכה לשתות יין יותר א\"צ לברך בפה\"ג אלא ישתה תיכף כוס אחר בלא ברכה ובלבד שלא יפסיק בדיבור שלא מענין הקידוש:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:77"
+        },
+        "78": {
+          "he": "(עח) ואין צריך לחזור - דכיון שקידש מתחלה על היין כדין וגם טעם כשיעור אע\"פ שלא טעם מאותו הכוס שקידש יצא ודוקא שלא הסיח דעתו בינתים אבל אם כבר יצא ממקומו בינתים קודם שטעם מכוס אחר צריך לחזור ולקדש. כתבו הפוסקים אם קידש על הכוס וסבר שהוא יין ונמצא שהוא חומץ או מים יקח כוס אחר של יין ויברך בפה\"ג ויקדש שנית דכיון שלא היה יין נמצא שלא קידש על הכוס כלל ומ\"מ אם היה דעתו מתחלה משעת ברכה לשתות יין יותר א\"צ לברך שנית בפה\"ג וכדלעיל רק לקדש [וכ\"ז שנמצא הכוס מים וכה\"ג דבר שאינו משקה כלל אבל כשנמצא שכר או שאר משקה שהיה חמר מדינה באותו מקום א\"צ ליקח כוס אחר לקידוש אלא יברך עליו שהכל וישתה] והא דצריך לקדש שנית דוקא שלא היה יין מוכן לפניו אבל אם היה יין מוכן לפניו בכלי על השלחן או על הספסל בעת הקידוש ודעתו היה לשתות ממנו אח\"כ א\"צ גם לקדש שנית דהוי כאלו קידש על כל היין שמוכן לפניו וישתה מהן תיכף מלא לוגמיו וי\"א עוד דה\"ה אם אין יין לפניו והיה הפת מונח לפניו על השלחן א\"צ לקדש מחדש אלא יבצע תיכף אחר הקידוש על הפת ודי בברכת המוציא לבד ונראה דאם קידש קודם נט\"י כמנהגנו היום אין שייך לומר דחל הקידוש על הפת:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:78"
+        },
+        "79": {
+          "he": "(עט) ולקדש - כתב המ\"א אם קידש שחרית על שכר ונשפך הכוס א\"צ להביא אחר כי י\"א שדי במה שמברך המוציא על הפת והגרע\"א בחידושיו חולק ע\"ז:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:79"
+        },
+        "80": {
+          "he": "(פ) לא יטעמו המסובין - היינו אף שהיו להם כוסות בפני עצמן לשתיה:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:80"
+        },
+        "81": {
+          "he": "(פא) או פגומים - פגום נקרא כשטעם מי מהמשקין מתחלה ומבואר בסעיף שאחר זה דכשהכוסות של המסובין פגומין מצוה שישפוך המקדש מעט מכוסו לתוך כוסן שבזה יתקן כוסן שלא יהיה פגום והואיל שהם זקוקין לכוסו צריכין להמתין עליו שיטעום מתחלה:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:81"
+        },
+        "82": {
+          "he": "(פב) שאז צריך לשפוך - היינו קודם שישתה המברך:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:82"
+        },
+        "83": {
+          "he": "(פג) כדי שישתו כולם וכו' - אע\"ג דשתיית כל המסובין לא מעכבא כדלעיל בסי\"ד מ\"מ מצוה לכתחלה שישתו מכוס שאינו פגום:",
+          "en": "",
+          "ref": "Mishnah Berurah 271:83"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

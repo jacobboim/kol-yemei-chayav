@@ -1,0 +1,98 @@
+{
+  "chelek": "YD",
+  "siman": 150,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 3,
+  "fetchedAt": "2026-07-08T00:01:20.242Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "להתרחק מדרך אלילים ושלא לשחות בפניה. ובו ג' סעיפים:מצוה להתרחק מדרך אלילים ד' אמות:",
+      "en": "De la distance qu'on doit garder en passant devant une idole et de la défense de se prosterner devant les faux dieuxC’est une bonne œuvre de se tenir à une distance de quatre coudées du lieu où se trouvent des idoles.",
+      "ref": "Shulchan Arukh, Yoreh Deah 150:1"
+    },
+    {
+      "seif": 2,
+      "he": "ישב לו קוץ ברגלו בפני אלילים או נתפזרו לו מעות לפניה לא ישוח להסיר הקוץ וליטול המעות מפני שנראה כמשתחוה לה אלא ישב או יפנה אחוריו או צדו לצד אלילים ואחר כך יטול:",
+      "en": "Quand, sur une place occupée par des idoles, un Israélite s'enfonce une épine dans le pied, ou quand il laisse tomber une pièce d’argent, il lui est défendu de s’incliner pour enlever l’une ou ramasser l’autre; car on pourrait croire qu’il se prosterne devant les faux dieux; il peut, en tournant le dos à ceux-ci, s'asseoir par terre et faire ce qui ne lui était pas permis en restant debout.",
+      "ref": "Shulchan Arukh, Yoreh Deah 150:2"
+    },
+    {
+      "seif": 3,
+      "he": "פרצופות המקלחות מים בפני אלילים לא יניח פיו על פיהם וישתה מפני שנראה כמנשק לאלילים: הגה י\"א דכל שאינו אסור אלא מפני מראית העין כגון בדין זה אם יש סכנה בדבר כגון אם ימות אם לא ישתה מותר לשתות ואין בזה משום יהרג ואל יעבור (ר\"ן פ\"ק דעבודת כוכבים). שרים או כהנים שיש להם צורת עבודת כוכבים בבגדיהם או שנושאים צורת חמה לפניהם כדרך הגמונים אסור להשתחות להם או להסיר הכובע לפניהם רק בדרך שאינו נראה כמו שנתפזרו מעותיו או שיקום לפניהם קודם בואם וכן יסיר הכובע וישתחוה קודם בואם (ת\"ה סימן קצ\"ו) ויש מקילין בדבר הואיל וידוע שגם העובדי כוכבים אינם מסירים הכובע או משתחוים לצורת החמה רק להשר (שם בשם ר\"י מאפנו\"ם ומהרי\"ו) וטוב להחמיר כסברא הראשונה:",
+      "en": "Il est défendu de boire dans un bassin dont l’eau réfléchit l’image d’une idole, car on pourrait croire qu'on embrasse cette image.GLOSE: Certains auteurs déclarent qu’il n'y a pas lieu d’observer les défenses prescrites pour éviter les soupçons, quand il existe un danger sérieux; par exemple, un homme en danger de mourir de soif a le droit de se désaltérer dans un bassin reflétant l’image d’une idole. Quand des prêtres ou des notables portent sur eux des amulettes représentant des soleils ou des figures d’idoles, il est défendu de s’incliner devant eux et même de les saluer. Certains auteurs plus modérés autorisent ces actes de politesse, parce que les païens eux-mêmes ne s’inclinent pas en saluant devant les fétiches, mais devant le personnage. Cependant, il ne faut pas se montrer trop indulgent et il est préférable d'admettre la première opinion.",
+      "ref": "Shulchan Arukh, Yoreh Deah 150:3"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא עבודת כוכבים דף י\"ב ודף י\"ז וכדמפ' רב חסדא שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 150:1"
+        },
+        "2": {
+          "he": "שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 150:2"
+        },
+        "3": {
+          "he": "שם: (°) בגמ' לא גרסי' לפני עבודת כוכבים אלא בכרכי' סתם אבל המחבר נקט ל' הרמב\"ם פ\"ג דעבודת כוכבים וסמ\"ג לאוין י\"ט וכן הוא בה\"ג סוף הלכות עבודת כוכבי' וטעמא דנעשה הפרצוף לנוי עבודת כוכבים והמנשק לפרצוף כאלו נושק לעבודת כוכבים עצמה. ב\"ח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 150:3"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "מפני שנרא' כמשתחוה כו'. כתוב בהגהת פרישה ולפי מאי דקיימא לן דכל דבר שאסור משום מראית עין אפילו בחדרי חדרים אסור ה\"ה כאן אפילו אין שום אדם רואהו אסור וכן מבואר בסמ\"ג סימן י\"ט עד כאן לשונו וכן הוא בתוספות (פרק קמא דעבודת כוכבים דף י\"ב סוף ע\"א) ובהג\"א שם מחמיר רבי יודא בשם ר\"י וכן משמע בטור להדיא וכך הם דברי המחבר ועמ\"ש בא\"ח סימן ש\"א סעיף מ\"ה וסימן ש\"ה סעיף י\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 150:1"
+        },
+        "2": {
+          "he": "בפני אלילים. אבל שלא בפני אלילים שרי והמחמיר אפילו שלא בפני אלילים תע\"ב. ב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 150:2"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "פרצופות המקלחות מים בפני אלילים. בטור לא כתוב האי בפני אלילים אלא כתוב שם בכרכין וכ\"ה בגמ' שלנו ומשמע דאפי' אינו עבודת כוכבים אלא לנוי בעלמא כדאיתא ריש סימן קמ\"א דבכרכים דרך לעשות לנוי ואפ\"ה אסור וכאן שהוא לשון רמב\"ם פרק ג' משמע שאין איסור אלא בעומד לפני עבודת כוכבי' וכבר הביא מו\"ח ז\"ל שיש בזה חילוק בין הראשונים ויש להחמיר אפי' הפרצוף אינו עומד בפני אלילים כגירסת הטור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 150:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "שנראה.  כתב הגהת פרישה ולפי מאי דקי\"ל דכל דבר שאסור משום מראית עין אפי' בחדרי חדרים אסור ה\"ה כאן אפי' אין שום אדם רואהו אסור ועיין מה שכתב באו\"ח סי' ש\"א סמ\"ה וסי' ש\"ה סי\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 150:1"
+        },
+        "2": {
+          "he": "פרצופות.  כ' הט\"ז דיש להחמיר אפילו אם הפרצוף אינו עומד בפני עבודת כוכבים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 150:2"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

@@ -1,0 +1,1680 @@
+{
+  "chelek": "OC",
+  "siman": 307,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 22,
+  "fetchedAt": "2026-07-07T23:49:24.104Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני שבת התלויים בדיבור. ובו כב סעיפים:ודבר דבר שלא יהא דבורך של שבת כדבורך של חול הילכך אסור לומר דבר פלוני אעשה למחר או סחורה פלונית אקנה למחר ואפי' בשיחת דברים בטלים אסור להרבות: הגה וב\"א שסיפור שמועות ודברי חדושים הוא עונג להם מותר לספרם בשבת כמו בחול אבל מי שאינו מתענג אסור לאומרם כדי שיתענג בהם חבירו: (ת\"ה סי' ס\"א):",
+      "en": "The Laws of Shabbat as it relates to Speech, 22 Seifim: “Ve’daber davar” (teaches us) that one’s manner of speech on Shabbos must not be the same as one’s manner of speech on a weekday. Therefore, it is prohibited to say 'I will do such and such tomorrow' or 'I will purchase this and this merchandise tomorrow'. Even idle talk should be curbed. Rema: People who enjoy hearing stories or the latest news may speak these things on Shabbos but one who does not enjoy them may not speak them for the sake of giving pleasure to someone else.",
+      "ref": "Shulchan Arukh, Orach Chayim 307:1"
+    },
+    {
+      "seif": 2,
+      "he": "אסור לשכור פועלים ולא לומר לעכו\"ם לשכור לו פועלים בשבת אע\"פ שאין הישראל צריך לאותה מלאכה אלא לאחר השבת שכל מה שהוא אסור לעשותו בשבת אסור לומר לעכו\"ם לעשותו אפי' לומר לו קודם השבת לעשותו בשב' אסור אבל מותר לומר לו אחר השבת למה לא עשית דבר פלוני בשבת שעבר אף על פי שמבין מתוך דבריו שרצונו שיעשנו בשבת הבאה:",
+      "en": "It is prohibited to hire workers or to ask a Gentile to hire workers on Shabbos, even if the Jew only requires the work to be done after Shabbos. This is because everything that one is forbidden to do it is forbidden to tell a Gentile to do. It is also prohibited to ask a Gentile before Shabbos to do something on Shabbos. Nevertheless one is permitted to say to him after Shabbos “why did you not do so and so last Shabbos”, even though he will understand that one wishes he should do that particular Melacha next Shabbos.",
+      "ref": "Shulchan Arukh, Orach Chayim 307:2"
+    },
+    {
+      "seif": 3,
+      "he": "אסור לתת לעכו\"ם מעות מע\"ש לקנות לו בשבת אבל יכול לומר לו קנה לעצמך ואם אצטרך אקנה ממך לאחר השבת:",
+      "en": "It is prohibited to give money to a Gentile before Shabbos for him to make a purchase on Shabbos but one may say to him “purchase it for yourself and if necessary I will buy it from you after Shabbos.”",
+      "ref": "Shulchan Arukh, Orach Chayim 307:3"
+    },
+    {
+      "seif": 4,
+      "he": "מותר לתת לעכו\"ם מעות מע\"ש לקנות לו ובלבד שלא יאמר לו קנה בשבת: הגה וכן מותר ליתן לו בגדים למכור ובלבד שלא יאמר לו למכרן בשבת (ב\"י בשם סמ\"ג) מי ששכר עכו\"ם להוליך סחורתו ובא העכו\"ם ולקחה מבית ישראל בשבת אסור וראוי לענוש העושה (ר' ירוחם חי\"ב ב\"י סי' ש\"ו):",
+      "en": "It is permitted to give money to a Gentile before Shabbos for him to make a purchase provided that one does not say to him “purchase it on Shabbos”. Rema: Likewise it is permitted to give him clothes to sell provided that one does not tell him to sell them on Shabbos. (Beis Yosef in the name of the Sma\"g). One who hired a Gentile to transport merchandise and the Gentile arrived on Shabbos in order to take it from the Jew’s house, it is forbidden to allow him to take it and it is proper to punish the perpetrator. (Rabbeinu Yerucham).",
+      "ref": "Shulchan Arukh, Orach Chayim 307:4"
+    },
+    {
+      "seif": 5,
+      "he": "דבר שאינו מלאכה ואינו אסור לעשותו בשבת אלא משום שבות מותר לישראל לומר לעכו\"ם לעשותו בשבת והוא שיהיה שם מקצת חולי או יהיה צריך לדבר צורך הרבה או מפני מצוה כיצד אומר ישראל לעכו\"ם בשבת לעלות באילן להביא שופר לתקוע תקיעת מצוה או להביא מים דרך חצר שלא עירבו לרחוץ בו המצטער ויש אוסרין: הגה ולקמן סי' תקפ\"ו פסק להתיר וע' לעיל סי' רע\"ו ס\"ב דיש מקילין אפי' במלאכה דאורייתא וע\"ש ס\"ג:",
+      "en": "One may instruct a Gentile to do an action that is not a Melacha but which is prohibited on account of a rabbinical prohibition, provided that it is needed in a case of minor illness, or it is greatly needed, or for the sake of a Mitzvah. For example, a Jew may instruct a Gentile to climb a tree to bring down a Shofar needed to blow for the sake of a Mitzvah, or to bring water through a yard that was not included in an Eiruv in order to wash someone suffering. There are those who prohibit it. Rema: Further in Siman 686 the Mechaber ruled that it is permitted, and see above in Siman 276 that there are those who permit it even for a Melacha de’Oraissa (work forbidden Biblically).",
+      "ref": "Shulchan Arukh, Orach Chayim 307:5"
+    },
+    {
+      "seif": 6,
+      "he": "אסור לחשוב חשבונות אפי' אם עברו כגון כך וכך הוצאתי על דבר פלוני ודוקא שעדיין שכר הפועלים אצלו אבל אם פורעם כבר מותר:",
+      "en": "One may not calculate one’s expenses, even ones from the past. For example, to say I spent such and such an amount on something. However this is only when one must still pay the workers, but if one has already paid them it is permitted.",
+      "ref": "Shulchan Arukh, Orach Chayim 307:6"
+    },
+    {
+      "seif": 7,
+      "he": "מותר לומר לחבירו הנראה בעיניך שתוכל לעמוד עמי לערב אף ע\"פ שמתוך כך מבין שצריך לו לערב לשוכרו אבל לא יאמר לו היה נכון עמי לערב:",
+      "en": "",
+      "ref": "Shulchan Arukh, Orach Chayim 307:7"
+    },
+    {
+      "seif": 8,
+      "he": "יכול לומר לחבירו לכרך פלוני אני הולך למחר וכן מותר לומר לו לך עמי לכרך פלוני למחר כיון שהיום יוכל לילך ע\"י בורגנין וכן כל כיוצא בזה שיש בו צד היתר לעשותו היום יוכל לומר לחבירו שיעשנו למחר ובלבד שלא יזכיר לו שכירות אבל בדבר שאין בו צד היתר לעשותו היום אפי' אם אין בו אלא איסור דרבנן כגון שיש לו חוץ לתחום פירות מוקצים כיון שאי אפשר לו להביאם היום אסור לומר לחבירו שיביאם לו למחר וכן אסור לו להחשיך בסוף התחום כדי שימהר בלילה לילך שם להביאם: הגה וכן לא יאמר אעשה דבר פלוני למחר [הרא\"ש פ' השואל וע\"ל ריש הסי'] אבל יכול להחשיך בסוף התחום כדי למהר לילך שם לשמרם שאפי' היום היה יכול לשמרן אם הם היו בתוך התחום ואם לא כיון להחשיך אלא לשמרם יכול אף להביאם:",
+      "en": "One may say to a friend that I am going to a certain town tomorrow, and one may also say come with me to a certain town tomorrow. It is permitted because it is possible to get there today by way of huts. The same applies to similar cases where there is a permissible manner to accomplish it today, one may instruct someone else to do it tomorrow provided that one does not mention his terms for hire. However, something that cannot be done today, even when it is only prohibited rabbincally, for example one has fruit that are muktze outside of the Techum, since it is not possible to bring them into the Techum it is prohibited to give instructions to bring them tomorrow. Likewise one may not position oneself at the end of the Techum in order to hurry and bring them after Shabbos. Rema: Likewise one may not say that one will do such and such tomorrow [Rosh, Perek HaShoel and see above at the beginning of the siman]. However, one may position himself at the end of the Techum in order to hurry and guard them because that could be done on Shabbos were they within the Techum. If one’s intention was only to guard them, then one may [position oneself at the end of the Techum] even [to] bring them.",
+      "ref": "Shulchan Arukh, Orach Chayim 307:8"
+    },
+    {
+      "seif": 9,
+      "he": "מותר להחשיך לתלוש פירות ועשבים מגנתו וחורבתו שבתוך התחום ולא אסרו להחשיך אלא בסוף התחום משום דמנכרא מילתא:",
+      "en": "9.",
+      "ref": "Shulchan Arukh, Orach Chayim 307:9"
+    },
+    {
+      "seif": 10,
+      "he": "מותר לומר לחבירו שמור לי פירות שבתחומך ואני אשמור פירותיך שבתחומי:",
+      "en": "One may say to a friend, look after my fruit that are within your Techum and I will look after your fruit that are within my Techum.",
+      "ref": "Shulchan Arukh, Orach Chayim 307:10"
+    },
+    {
+      "seif": 11,
+      "he": "השואל דבר מחבירו לא יאמר לו הלוני דמשמע לזמן מרובה ואיכא למיחש שמא יכתוב אלא יאמר לו השאילני ובלשון לעז שאין חילוק בין הלויני להשאילני צריך שיאמר תן לי: הגה וכשלוה בשבת ואינו רוצה להאמינו יניח משכון אצלו אבל לא יאמר לו הילך משכון דהוי כעובדא דחול [ב\"י בשם אורחות חיים] כשם שאין לוין בשבת כך אין פורעין בשבת [אשירי סימן קט\"ו]:",
+      "en": "11.",
+      "ref": "Shulchan Arukh, Orach Chayim 307:11"
+    },
+    {
+      "seif": 12,
+      "he": "זימן אורחים והכין להם מיני מגדים וכתב בכתב כמה זימן וכמה מגדים הכין להם אסור לקרותו בשבת אפי' אם הוא כתוב ע\"ג כותל גבוה הרבה משום גזירה שמא יקרא בשטרי הדיוטות דהיינו שטרי חובות וחשבונות (דאפי' לעיין בהם בלא קריאה אסור) (הרא\"ש ור\"ן פ' השואל וטור) אבל אם חקק בכותל חקיקה שוקעת מותר אבל בטבלא ופנקס אפי' אם הוא חקוק אסור לקרותו:",
+      "en": "One who invited guests and prepared various dishes for them and one had written down the amount of guests and the amount of food he had prepared, it is prohibited to read the list on Shabbos, even if they are written high up on a wall, lest one reads documents i.e. bills and expenses. Rema: It is likewise prohibited to read them with one’s mind. (Rosh; R\"an, Perek HaShoel; Tur) If however it is carved into the wall it is permitted, but reading from a tablet is prohibited even when carved into the tablet.",
+      "ref": "Shulchan Arukh, Orach Chayim 307:12"
+    },
+    {
+      "seif": 13,
+      "he": "שטרי הדיוטות דהיינו שטרי חובות וחשבונות ואגרות של שאלות שלום אסור לקרותם ואפי' לעיין בהם בלא קריאה אסור:",
+      "en": "Regular documents such as bills and expenses and letters of greetings may not be read, and even to read them without expressing the words is prohibited.",
+      "ref": "Shulchan Arukh, Orach Chayim 307:13"
+    },
+    {
+      "seif": 14,
+      "he": "לקרות באיגרת השלוח לו אם אינו יודע מה כתיב בה מותר ולא יקרא בפיו אלא יעיין בה ואם הובאה בשבילו מחוץ לתחום טוב ליזהר שלא יגע בה:",
+      "en": "One may read a letter that was sent to him if one does not know what it contains, one must not read the words aloud. If brought from outside the Techum it is correct not to handle it.",
+      "ref": "Shulchan Arukh, Orach Chayim 307:14"
+    },
+    {
+      "seif": 15,
+      "he": "כותל או וילון שיש בו צורות חיות משונות או דיוקנאות של בני אדם של מעשים כגון מלחמות דוד וגלית וכותבים זו צורת פלוני וזה דיוקן פלוני אסור לקרות בשבת:",
+      "en": "A wall or curtain with drawings of unusual animals or portrayals of people exhibiting a certain event, such as David and Goliath, and beneath it is a legend depicting it’s character, it is prohibited to read on Shabbos.",
+      "ref": "Shulchan Arukh, Orach Chayim 307:15"
+    },
+    {
+      "seif": 16,
+      "he": "מליצות ומשלים של שיחת חולין ודברי חשק כגון ספר עמנואל וכן ספרי מלחמות אסור לקרות בהם בשבת ואף בחול אסור משום מושב לצים ועובר משום אל תפנו אל האלילים לא תפנו אל מדעתכם ובדברי חשק איכא תו משום מגרה יצר הרע ומי שחיברן ומי שהעתיקן ואין צריך לומר המדפיסן מחטיאים את הרבים: הגה ונראה לדקדק הא דאסור לקרות בשיחות חולין וספורי מלחמות היינו דוקא אם כתובים בלשון לע\"ז אבל בלשון הקודש שרי וכן נ\"ל מלשון שכתבו התוס' פרק כל כתבי וכן נהגו להקל בזה:",
+      "en": "One may not read on Shabbos secular books of phrases and parables, books of passion such as Emanuel and war books. One may not read them during the week as well because it is a “sitting of scoffers” and because one is  “removing Hashem from one’s mind”. Books of passion have an extra prohibition of arousing one’s evil inclination, and therefore the authors, the duplicators and of course the publishers cause the masses to sin. Rema: It is noteworthy that it is only prohibited to read secular writings and war books when they are written in foreign languages, but when written in Lashon Hakodesh it is permitted. That is what I see from Tosefos in Perek Kol Kisvei (Shabbos 116b), and people are accustomed to being lenient with this.",
+      "ref": "Shulchan Arukh, Orach Chayim 307:16"
+    },
+    {
+      "seif": 17,
+      "he": "אסור ללמוד בשבת ויום טוב זולת בדברי תורה ואפי' בספרי חכמות אסור ויש מי שמתיר ועל פי סברתו מותר להביט באסטרול\"ב בשבת [ולהפכה ולטלטלה כדלקמן סי' ש\"ח]:",
+      "en": "Anything other than Torah may not be learned on Shabbos and Yom Tov, and even books on humanities are prohibited; yet there are those that permit it. According to their opinion one may study the astrolabe on Shabbos (and also handle it, as written in Siman 308:50).",
+      "ref": "Shulchan Arukh, Orach Chayim 307:17"
+    },
+    {
+      "seif": 18,
+      "he": "לשאול מן השד מה שמותר בחול מותר בשבת:",
+      "en": "18.",
+      "ref": "Shulchan Arukh, Orach Chayim 307:18"
+    },
+    {
+      "seif": 19,
+      "he": "סחורה הנפסדת בשבת ע\"י גשמים או דבר אחר או אי אתי בידקא (פי' נחל או אגם מים) דמיא ומפסיד ממונו או שנתרועעה חבית של יין והולך לאיבוד מותר לקרות עכו\"ם אע\"פ שודאי יודע שהעכו\"ם יציל הממון [ולכסות סחורה או פירות או דבר אחר מפני הגשמים ע\"ל סי' של\"ח סעיף ז'] וכן מותר לומר לעכו\"ם כל המציל אינו מפסיד כמו בדליקה שהתירו לומר כל המכבה אינו מפסיד ויש מי שאומר שלא התירו אלא בדליקה דוקא [וע\"ל סימן של\"ד וש\"ה ושל\"ו ס\"ט]:",
+      "en": "19.",
+      "ref": "Shulchan Arukh, Orach Chayim 307:19"
+    },
+    {
+      "seif": 20,
+      "he": "ישראל שאמר לעכו\"ם לעשות לו מלאכה בשבת מותר לו ליהנות בה לערב בכדי שיעשו:",
+      "en": "20.",
+      "ref": "Shulchan Arukh, Orach Chayim 307:20"
+    },
+    {
+      "seif": 21,
+      "he": "אסור לומר לעכו\"ם בשבת הילך בשר זה ובשל אותו לצרכך אפי' אין מזונותיו עליו: הגה אבל מותר לומר לו לעשות מלאכה לעצמו [הגהות מרדכי פ\"ה ורמב\"ן פרשת בא אל פרעה]:",
+      "en": "21.",
+      "ref": "Shulchan Arukh, Orach Chayim 307:21"
+    },
+    {
+      "seif": 22,
+      "he": "כל שבות דרבנן מותר בין השמשות לצורך מצוה כגון לומר לעכו\"ם להדליק לו נר בין השמשות או אם היה טרוד והוצרך לעשר בין השמשות: הגה כל דבר שאסור לומר לעכו\"ם לעשותו בשבת אסור לרמוז לו לעשותו אבל מותר לרמוז לו מלאכה לעשות אחר שבת (א\"ז): עכו\"ם המביאים תבואה בשבת לישראל שחייבים להם והישראל נותן לו מפתחו לאוצרו והעכו\"ם נותנו לשם ומודדים ומונים יש מי שמתיר משום דעכו\"ם במלאכת עצמו עוסק ואינו של ישראל עד אחר המדידה ויחשוב עמו אח\"כ וכן עכו\"ם העושים גבינות בשבת והישראל רואה יקנה אותם ממנו דמ\"מ העכו\"ם אדעתיה דנפשיה קעביד ואע\"פ שהישראל עומד בעדר חדש או חדשים ואדעתא למכרם לישראל קא עביד שרי (בית יוסף בשם אגודה):",
+      "en": "22.",
+      "ref": "Shulchan Arukh, Orach Chayim 307:22"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "שבת ק\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:1"
+        },
+        "2": {
+          "he": "טור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:2"
+        },
+        "3": {
+          "he": "טור בשם הירושלמי ותוספות שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:3"
+        },
+        "4": {
+          "he": "שם במשנה ק\"נ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:4"
+        },
+        "5": {
+          "he": "מהא דעכו\"ם שבא לכבות וכו' קכ\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:5"
+        },
+        "6": {
+          "he": "רמב\"ם בפרק ז'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:6"
+        },
+        "7": {
+          "he": "הרא\"ש בפרק ז' דב\"מ והר\"ן בשם רבי סעדיה ורמב\"ם פרק י' וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:7"
+        },
+        "8": {
+          "he": "סמ\"ג וסמ\"ק והגהות בפרק ו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:8"
+        },
+        "9": {
+          "he": "רא\"ש שם ור\"י בפרק י\"ב וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:9"
+        },
+        "10": {
+          "he": "הגהות מרדכי פרק קמא דשבת והג\"מ פרק ו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:10"
+        },
+        "11": {
+          "he": "מרדכי פרק קמא דשבת בשם סמ\"ג יסמ\"ק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:11"
+        },
+        "12": {
+          "he": "טור בשם רמב\"ם בפרק ד' מה\"ש והרב המגיד שזה מוסכם מהגאונים והגהת מרדכי בשם ראבי\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:12"
+        },
+        "13": {
+          "he": "שם בשם התוס' בגיטין ח' ובב\"ק פ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:13"
+        },
+        "14": {
+          "he": "שבת ק\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:14"
+        },
+        "15": {
+          "he": "שם רב אשי בפירוש המשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:15"
+        },
+        "16": {
+          "he": "רמב\"ם בפכ\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:16"
+        },
+        "17": {
+          "he": "שבת שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:17"
+        },
+        "18": {
+          "he": "שם בתוספות וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:18"
+        },
+        "19": {
+          "he": "טור ורש\"י שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:19"
+        },
+        "20": {
+          "he": "שם והרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:20"
+        },
+        "21": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:21"
+        },
+        "22": {
+          "he": "תה\"ה בפ\"ד בשם התוספות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:22"
+        },
+        "23": {
+          "he": "גמרא שם קנ\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:23"
+        },
+        "24": {
+          "he": "שם במשנה קמא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:24"
+        },
+        "25": {
+          "he": "הר\"ן בשם התוספות וסמ\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:25"
+        },
+        "26": {
+          "he": ") דין הלואה יום טוב ושבת אם ניתנה ליתבע בסימן תקכ\"ה)",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:26"
+        },
+        "27": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:27"
+        },
+        "28": {
+          "he": "שם בגמרא קמ\"ו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:28"
+        },
+        "29": {
+          "he": "רבי ירוחם בס\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:29"
+        },
+        "30": {
+          "he": "הרי\"ף והרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:30"
+        },
+        "31": {
+          "he": "בפי' רש\"י שם וקי\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:31"
+        },
+        "32": {
+          "he": "תוס' שם ושכן משמע מהירושלמי והמרדכי בפ\"ק דשבת וסמ\"ג וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:32"
+        },
+        "33": {
+          "he": "שבת קמ\"ט וכפי' רש\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:33"
+        },
+        "34": {
+          "he": "רא\"ש שם בשם ר' יונה ותו' בשם רבי יהודה קי\"ו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:34"
+        },
+        "35": {
+          "he": "רמב\"ם בפירוש המשנה בפרק שואל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:35"
+        },
+        "36": {
+          "he": "הרמב\"ן והרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:36"
+        },
+        "37": {
+          "he": "רשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:37"
+        },
+        "38": {
+          "he": "ר\"י בת\"ה בה\"א דהגהת ק\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:38"
+        },
+        "39": {
+          "he": "בעל ה\"ג וכן היא הסכמת הרא\"ש פרק כ\"ב וכן הסכים הבית יוסף כיון דאיסור דרבנן הוא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:39"
+        },
+        "40": {
+          "he": "הרשב\"א בתשובה סח\"ג והתרומה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:40"
+        },
+        "41": {
+          "he": "הרמב\"ם בפרק ו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:41"
+        },
+        "42": {
+          "he": "הרא\"ש בפרק י' דבבא מציעא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:42"
+        },
+        "43": {
+          "he": "טור בסי' ל\"ב מהא דעירובין ס\"ב ורמב\"ם בפ\"ו מהלכות עירובין",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:43"
+        },
+        "44": {
+          "he": "שם בשם ר\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:44"
+        },
+        "45": {
+          "he": "שם ברמב\"ם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:45"
+        },
+        "46": {
+          "he": "דין חליבת הבהמה על ידי עכו\"ם בסימן ש\"ה) דין אמיר' לעכו\"ם בשביל מת בסי' ש\"ז ועוד לקמן בסי' שי\"א ודין היתר נדרים והיתר חכמי הקהל בסי' שמ\"א ודיני פייס גדול' וקטנה בסי' שכ\"ב ודין אמר מלא לי כלי זה סי' שכ\"ג):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 307:46"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "אסור כ״כ הט״ז אות י״ד יע״ש: אעשה עמ״א עסי׳ ר״צ ובא״ר כאן אות א׳ בש״ו חשבונות מצוה שרי וע׳ כתובות ה׳ א׳ ומשמע אע״פ שא״צ היום לאו חפציך מיקרי ועתו״ש ולמ״ש קשה ולישן כדי לכתוב ס״ת בחול השינה לאו צורך שבת אסור הא לומר כך אכתוב ס״ת בחול משמע דשרי וצ״ע בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:1"
+        },
+        "2": {
+          "he": "לשכור עמ״א י״א מהו החומרא בעלמא שכתב ועא״ר אות ה׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:2"
+        },
+        "3": {
+          "he": "אסור עמ״א ועט״ז ג׳ והנה לומר בע״ש שיעשה מלאכה ד״ת בשבת יש ראיה לאסור מדין האגרת דוקא קצץ עמ״א פ״ו ה״א וב״י בשם הרא״ש מנותן כיסו לעכו״ם ושם י״ל מחשיכה עסי׳ רס״ו ומיהו לשכור פועלים וכדומה שבות דשבות מע״ש אין מבואר בגמרא דאסור רק הגמ״י פ״ו והגמ״ר ולכאורה אם אין נותן מעות שרי וז״א דוקא אומר קנה לעצמך הא לקנות לצורך ישראל אסור אף בלא נתינת מעות ואע״ג בהגמי״י שם משמע שנותן לו מעות ואומר קנה לעצמך מ״מ משמע דקנה לי אסור אף כשאין נותן לו מעות וצ״ע. ובא״ר הקשה למה בד׳ וה׳ מותר יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:3"
+        },
+        "4": {
+          "he": "וכן עמ״א דוקא בקצץ לו שכר יע״ש ברמ״ה ס״ה שכ״כ המחבר ולמה כתבן כאן הר״ב ובא״ר יו״ד פי׳ דכאן בגדים שאין ניכרין של מי הם כאגרת הניכר בעינן קצץ וכאן בלא ניכרין יע״ש וצ״ע: בשכ״ג בהגהות הטור אות ב׳ בשם מורו הרב (מהרי״ט ז״ל) כשהיה רוצה ללמוד היה אומר זה הנר אין מאיר יפה והשפחה מבינה והסירה הפחם עמ״א ל״א וט״ז אות ב׳. וכתב ע״ש בשם ראנ״ח שהיה רוצה ספר עומד בחדר שאין בו נר היה אומר לשפחה שתביא לו חפץ פלוני והשפחה מדלקת נר להביא החפץ והולך שם ונוטל ג״כ הספר יע״ש ועסי׳ רס״ו במ״א י״א והיינו כל שהעכו״ם עושה לדעת עצמו אעפ״י שלצורך ישראל הוא מ״מ אין אומר לו להדליק נר והוא מחויב לשמשו להביא חפץ פלוני ע״ד עצמו מדליק ושרי ישראל להשתמש לאורו ועט״ז שם אות ה׳ ומ״ש בפריי שם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:4"
+        },
+        "5": {
+          "he": "מבית עמ״א דאפילו קצץ לא שרי אלא מבע״י לא בשבת ועיין אות ו׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:5"
+        },
+        "6": {
+          "he": "לענוש עמ״א ובמפליג בשבת שרי כל שקצץ הא בלא קציצה אף זה אסור ועסי׳ רנ״ב מדינים אלו בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:6"
+        },
+        "7": {
+          "he": "מקצת עמ״א ועא״ר אות י׳ ובסי״ט רמז מותר ודוקא הפסד הבא פתאום ע׳ לבוש ועב״י שכ״כ בשם הרא״ש דהוי בהול על ממונו אבל לא בהפסד שאין בה פתאום ומכ״ש אם היה יודע לפני שבת. הא דשבות בדרבנן במקום מצוה התירו י״ל ע״י עכו״ם אבל ישראל שבות דשבות היכא דגזרו י״ל דאסור אפילו במקום מצוה. אורחים הוי מצוה והיינו הכניסם משדה לביתו. אבל הזמין אורחים מעירו י״ל לאו מצוה הוי ע׳ תה״ד סי׳ ע״ב וי״ד דמקילין לכבוד אורחים עמ״ש בפריי שם. סעודת שבת הוי מצוה וכן לשמוח חתן וכלה. וא״כ לומר לעכו״ם למחוט הנר לסעודת שבת ביד ולא בכלי הוי שבות דשבות ובכלי י״ל הוי ד״ת עסי׳ ער״ה בט״ז אות ב׳ ובמ״א כאן ל״א. ועיין אות ח׳ ע״י ישראל:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:7"
+        },
+        "8": {
+          "he": "ויש אוסרין עמ״א ועא״ר אות ט״ו ומשמע אף ע״י ישראל יש להתיר שבות דשבות במקום מצוה. ומיהו המחבר בתקפ״ו סכ״א פסק דשרי שבות דשבות במקום מצוה משמע אף בשביל יחיד ול״ת דוקא מצוה דרבים ומיהו שבות במלאכה ד״ת ברע״ו ס״ב דאסור יש לעיין לצורך מצוה דרבים י״ל עשה דרבים דחי בעשה ול״ת דל״ש מה אולמיה עמ״א צדי״ק אות ל׳ ועסי׳ תמ״ו מ״א ב׳ דשבת עשה ול״ת ולא דחי לה עשה דרבים וא״ל למה כיון דעשה זו עדיפא מ״מ מדחי עשה חמורה לקלה לא לעשה ול״ת ומיהו עשה דרבים דעדיף טובא דלא בעינן בעידנא י״ל עדיפא ודחי לעשה ול״ת וע׳ תוס׳ יבמות ו׳ דאפילו כיבוד א״ו לא דחי לכרת. ונשים אי נאמר דלית בהו עשה דשבת כ״א ל״ת (וק״ה איתקוש כל שישנו הא עשה דשבת גופא י״ל דאין מוזהרות א״כ י״ל דאמירה לעכו״ם להדליק נר בעזרת נשים אפשר שרי דמצוה דרבים הוא ומיהו מצוה דרבים דוקא זיכוי רבים כמו קדיש וברכו וקדושה או קריאת ס״ת ואנשים א״א כאמור גם מסתברא דנשים הוזהרו ג״כ אעשה דשבת כמו נשים בגילוי דהיקשא ועסי׳ רצ״א במ״א י״א וע׳ תוס׳ קידושין ל״ג וכי תוכל אשה לשרוף נותר יע״ש. וא״כ אין היתר ברור למה נוהגין להדליק נר ע״י עכו״ם בשבת להתפלל בעשרה ואף לקריאת ס״ת כאמור וצ״ע בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:8"
+        },
+        "9": {
+          "he": "מותר לומר עמ״א אפשר הוסיף מלת לומר להמחבר אין איסור כ״א באומר לחבירו לא בינו לבין עצמו עמ״ש באות י״א ומ״ש דא״צ מותר ער״מ פכ״ג הי״ח שמא יכתוב לפיכך שא״צ מותר אבל רש״י כתובות ה׳ ודבר דבר ובלבוש ממצוא חפצך אסיפא סמיך עט״ז ה׳ אפ״ה שא״ל לאו חפציך ודיבוריך הוא:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:9"
+        },
+        "10": {
+          "he": "לחבירו עמ״א שבת ק״ן ד״ה אומר ע״ש וכ״מ קצת רב אשי אמר אפילו תימא חבר ישראל משמע אף חבר עכו״ם א״ש הנראה שתעמוד כו׳. (ואגב שם אמירה לעכו״ם שבות ופירש״י כבר סתמה רבי כו׳) וי״ל התם ד״ת למ״ד משאצ״ל חייב עד״מ פ״א ה״ז משא״כ כאן אשמעינן שבות דשבות אסור באין מצוה ודילמא ה״פ אמירה שבות ול״ג שבות דשבות ולמה אסור ומהא דכבה וא״ת שבת קכ״א א׳ לר״מ ז״ל משאצ״ל ד״ת וע׳ ר״ן סוף פרק ר״א דמילה ומנא הא מילתא דאמור רבנן אף שבות דשבות אסור ע״י עכו״ם באין מצוה שוב ראיתי הדבר מפורש בתוס׳ קכ״א א׳ ד״ה אין דהוכיחו אף באיסורי דרבנן אסור אמירה מק״ן א׳ דמוקי בחבר עכו״ם וכ״מ בעירובין ס״ז ב׳ עכ״ל היינו מדאמר רב אשי אפילו תימא חבר ישראל משמע כ״ש עכו״ם אלמא דשבות בדרבנן אסור לעכו״ם אלא דקשה דמ״מ אסור ממצוא חפצך ומעירובין ס״ז ב׳ מוכח דאותיב ליה ושני ליה אלמא לאו במקום מצוה אף שבות דשבות אסור ואין להאריך:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:10"
+        },
+        "11": {
+          "he": "לכרך עמ״א י״ל בחה״ר ק״ן ב׳ ה״פ דאף באומר לחבירו לך עמי שרי דאל״כ מאי קאמר פשיטא פי׳ היל״ל מותר לומר לכרך כו׳ ולמה לי לחבירו דאי מותר בינו לבין עצמו מטעם בורגנין ה״ה לומר לחבירו ש״מ דבא עמי קמ״ל וע׳ תוס׳ שם ד״ה לכרך כו׳ וע׳ תוס׳ ע״א ד״ה מה כתבו בפי׳ אף בינו לבין עצמו אסור לומר אעשה למחר מה שאסור היום וכ״ש חשבונות דאית טעמא דיכתוב:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:11"
+        },
+        "12": {
+          "he": "חוץ עמ״א וכ״כ הט״ז אות ח׳ ומ״ש על הב״ח ע׳ ט״ז אות ד׳ אבל כשיש בידו לעשותה היום בהיתר שיש ב״א והיה יכול לעשות מחיצה שרי לומר לעכו״ם ויודה המ״א בזה להט״ז כבסי׳ רע״ז אות י״א דאי בעי ישראל לטלטל בהיתר אי עשה עכו״ם באיסור לית לן בה ואף שי״ל בין שבות דשבות למלאכה ד״ת מ״מ מסתברא דאין לחלק. ומ״ש הב״ח בשם התוס׳ לחבירו ל״ד באמת צ״ע דשם ברף ק״ן א׳ ד״ה אומר ובס״ז כאן ובאות י׳ ואה״נ דגם לכרך פלוני מותר לומר לעכו״ם מה״ט דאין לחלק בין עכו״ם לישראל אבל לעשות בשבת העכו״ם בזמן שאין ההיתר עכשיו לומר אלו היה אסור לומר לעכו״ם עסי׳ רס״ג ט״ז ג׳ וחה״ר קנ״א א׳ שייך לכאן:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:12"
+        },
+        "13": {
+          "he": "משום עמ״א עתו״ש וח״מ מה שפירשו בדבריו ויש ט״ס מ״ש בתוך התחום וצ״ל אפילו סוף התחום עירובין ל״ח ב׳ ול״ט א׳ וכוונתו כל דמנכרא מילתא דאין דרך לצאת לשדהו בשבת אף תוך התחום קרוב לעיר ולית טורח הילוך כי דרך ב״א לילך לטייל כ״כ אפ״ה אסור ובאין מינכרא מילתא כל שאין דרכו בכך לילך דרך רחוק כזה כ״א לשכור פועלים וכדומה אסור משבת רגליך ממצוא חפצך וא״כ סוף התחום נמי לא מינכרא אלא כו׳ ובח״מ כתב דלהחשיך ולשהות שם עד הלילה מינכרא שפיר סוף התחום משא״כ שם בעירובין דהולך לעיר מיד יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:13"
+        },
+        "14": {
+          "he": "לזמן עמ״א אני אומר באולי אפשר האדון ז״ל כיון בכאן כוונה מיוחדת כמו שאגיד כי רש״י ותוס׳ ר״פ שואל (קמ״ח א׳) מחולקין לרש״י קולא בהלואה אי אמר ליום אחד שרי ושאלה אי אמר לזמן מרובה אסור ולתוס׳ שש ד״ה שואל משמע דאין חילוק בין זמן מרובה או מועט כ״א הלואה לא הדר בעיניה אתי למיכתב ושאלה הדר בעיניה לא אתי למיכתב אף כדי יין ושמן דלא הדר בעיניה מ״מ הואיל ולא התירו כ״א לשון שאלה זכור הוא ולא אתי למיכתב (וק״ק דהמקשה היל״ל ממשנה כדי יין למאי דס״ד ולא ידע זכור הוא) נמצא לכ״א קולא וחומרא והטור תפס ל׳ רש״י לזמן מרובה וכ״ה ברא״ש והוא מהרי״ף ז״ל וער״ן שם שבן עיקר כרש״י ועמ״מ פ׳ כ״ג מה״ש הי״ב הביא דברי הלכות שיש נ״מ כאמור ומש״ה כתב המחבר כן וממילא שאלה לזמן מרובה אסור אף לצורך מצוה סידור וספרים כי אין מתירין שבות במצוה עסי׳ ש״ו במ״א אות י״ב ולפ״ז כדי יין דנקיט במשנה משום סיפא משכון שרי הא שאין צורך שבת עכ״פ להניח משכון אסור ולתוס׳ נקיט כדי יין לרבותא אף דלא הדרא בעיניה זכור הוא ועח״מ ע״ג ושמ״א כ״כ דהלואה סתמא ל׳ יום ושאלה לאלתר ואמנם בחה״ר ר״פ שואל מבואר דבהלואה אף אמר שיחזיר לאלתר אסור דל״פ רבנן דרך המלוה שאין דוחק וממתין ל׳ יום יע״ש ואמנם בשאלה לזמן ארוך אפשר דאסור הוא ואין נזכר שם ההיפוך בזה וצ״ע על מ״ש ההיתר ולא האיסור ועתו״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:14"
+        },
+        "15": {
+          "he": "אין עמ״א הלואה בלא משכון שרי באפשר אף לצורך חול כל שאומר בלשון שאלה או תן לי ומשכון אסור עסי׳ ש״ו אות י״ד ופרעון אסור לגמרי אף בלשון חזרה כל שא״צ שבת ע״ש אות י״ו ומש״ה אין פודין בשבת וי״ל אין לווין ופורעין שמא ימחוק ע׳ לבוש וכל שאומר בלשון אחר אין חשש ולומר ממצוא חפצך חפצי שמים פדיון שרי ואפשר לצורך חול גזרו שמא ימחוק אף בלשון חזרה ודוחק ובתה״ד רס״מ כתב הטעם דאין פודין כמקח וממכר הביאו הש״ך בי״ד ש״ח י״ב ושמא ימחוק פרעון ל״ש בכה״ג דלא כתב הלואה אצלו שימחוק ע׳ לבוש מקת וממכר למ״ד יכתוב שפיר ולמ״ד ממצוא חפצך שרי לפדות ומ״מ המחבר סתם בש״ח דאין פודין ויש שם כמה טעמים עסי׳ ש״ו במ״א י״ד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:15"
+        },
+        "16": {
+          "he": "זימן עמ״א היינו סעודת מצוה השמש קורא מכתב דשמא ימחוק ל״ש בשמש רק בע״ה ומש״ה בע״ה אסור זימן אורחי״ם דהוי סעודת מצוה (בבאו מן השדה) דלא התירו שבות במצוה כ״א שבות דשבות משא״כ בשמש שמא יקרא בשטרי הדיוטות אדרבה. סומכין רש״י הטעם ממצוא חפצך וסעודות מצוה הוי חפצי שמים עט״ז י״א ועסי׳ ש״ו אות י״ד ומ״ש שם ועא״ר אות ל׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:16"
+        },
+        "17": {
+          "he": "חקוקה עמ״א בלבוש כתב דגבוה אסור שמא יקרא כו׳ ובער״ה מבואר דל״פ וע׳ שבת קמ״ט ובט״ז י״א וא״ר אות כ״ט. גם כתב תחלה ב׳ טעמים שמא ימחוק קרא כו׳ לבסוף סיים בולט בכותל אסור שמא ימחוק ולא שמא יקרא ובמ״א ק׳ ג״כ הא המחבר נקיט שמא יקרא בבולט ולמה ליה לאהדורי אשמא ימחוק והמחבר דנקיט שטרי הדיוטות דהיינו חובות וחשבונות ובסי״ג אג״ש נמי בכלל שטרי הדיוטות לכאורה אנ״ש ממצוא חפצך כמ״ש הט״ז י״א (אע״ג דאין אסור כ״א מה שאסור בשבת מ״מ עובדין דחול הוי) וזימן אורחים הוי מצוה עמ״א י״ו מש״ה כתב דהיינו חובות וחשבונות דאיכא למיחש שמא ימחוק ולא התירו שבות במצוה כמ״ש בש״ו אות י״ב ובלבוש כתב דהיינו כו׳ ממצוא חפצך וא״כ אג״ש נמי ולמה פרט אלו ע״ש ולקרות שני ב״א שמא ימחוק ליכא ושטרי הדיוטות איכא ועחה״ר האריך וצ׳ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:17"
+        },
+        "18": {
+          "he": "בטבלא עמ״א חייק וכותל תרתי לא מחלף בשטר הא חייק טבלא ובולט בכותל אף מדלי הרבה מחלף בשטר ע׳ חה״ר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:18"
+        },
+        "19": {
+          "he": "מותר עמ״א ל״ד פיקוח נפש אלא צריך לו הוי שטרי הדיוטות ע׳ ב״י ולבוש אבל אג״ש משא ומתן ודאי אסור ואף הרהור אסור בהם דא״א שלא ישא ויתן בהם והוי ממצוא חפצך וע׳ לבוש ועב״י:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:19"
+        },
+        "20": {
+          "he": "שלא עמ\\־א מ״ש בענין החותם דאסור לומר בפי׳ כ״א רמיזה כזו א״י לקרות שרי הא רמיזה שיקח חותמו אסור ע׳ אות ל״א אף דהוי שבות דשבות שבירת החותם נמי מדרבנן עא״ר אות ל״ב והראה לש״ד וש״מ סי״ד ופר״ח י״ד ק״ח משמע דיש איסור תורה בשבירת החותם ועשו״ת ח״צ סי׳ ל״ט יע״ש ועסי׳ שי״ד סעיף י׳ וש״מ סי״ד במ״א אות ח״י ואי״ה יבואר. ועסי׳ תצ״ח במ״א אות ד׳ עח״מ כאן ואם מקפיד עליו שלא לצור עפ״י צלוחיתו הוי מוקצה מחמת חסרון כיס עסי׳ ש״ח ס״א:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:20"
+        },
+        "21": {
+          "he": "אסור עמ״א שבת קמ״ט ומיעוט לא אתו לאימשוכי כבס״ו. ודע דרש״י פי׳ שמא יקרא בשטרי הדיוטות העתיקו המ״מ פכ״ג הי״ט דלטעמיה דשמא ימחוק ל״ש בזה רק שמא כו׳ ולפ״ז בחייק בכותל או כתב משיט״ה וכדומה י״ל הוי גזירה לגזירה עסי׳ ש״מ משא״כ לרש״י הטעם ממצוא חפצך ואג״ש אסור ה״ה זה ומ״ש רש״י שמא ל״ד אלא דהוי שטרי הדיוטות ועובדין דחול עט״ז י״א ובלבוש העתיק דהוי כמו שטרי הדיוטות ובב״י דהוי שטרי הדיוטות תיקן לרש״י ז״ל ועא״ר אות ל״ז ומש״ה הוסיף המחבר כותל או וילו״ן להשהותם בחייק בכותל אסור כמו וילון דהויין שטרי הדיוטות ממש משא״כ בסי״ב דרק גזירה שמא ואפילו כ׳ שתחת עקדת יצחק אסור לקרותו בשבת עא״ר בשם ע״ש אות ל״ו יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:21"
+        },
+        "22": {
+          "he": "משום עמ״א ופורים רק שחוק שעושין לאחשורוש שרי הא לילך אסור אף בפורים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:22"
+        },
+        "23": {
+          "he": "ועובר עמ״א וברכ״ט הרואה בקשת אסור ומברך בראיה בעלמא שרי יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:23"
+        },
+        "24": {
+          "he": "בלה״ק שרי עמ״א הנה שטרי הדיוטות חובות וחשבונות אף בלה״ק אסור שמא ימחוק ואג״ש וכדומה דאסור ממצוא חפצך בלה״ק יש לצדד להתיר ועט״ז אות י״ג. וגט (וגם ט״ס) אם אין מקפיד לצור פי צלוחיתו שרי לטלטל אף למ״ד גט יש בו משום קדושה י״א דמותר לכסות צלוחית בספר דמה לי שמונח כאן או כאן. ועסי׳ מ״ב מ״א ו׳ וקנ״ד י״ד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:24"
+        },
+        "25": {
+          "he": "באצטרובל כלי חוזי כוכבים מ״א ועב״י:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:25"
+        },
+        "26": {
+          "he": "לשאול עמ״א ובלבוש העתיק משום רפואה דוקא יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:26"
+        },
+        "27": {
+          "he": "ויש עמ״א בשם לבוש דהמיקל כסברא ראשונה לא הפסיד וכ״מ דעת המחבר סברא א׳ בסתם ולומר לעכו״ם שיבוא בלי דיבור רק שיבין מעצמו דוקא בהפסד הבא פתאום דומיא דדליקה הא בלא הפסד אסור לרמוז כלל עמ״א ל״א ואי״ה שם יבואר עוד בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:27"
+        },
+        "28": {
+          "he": "בכדי שיעשו עמ״א הר״מ ז״ל פרק ו׳ ה״ב אפי׳ עשה העכו״ם מעצמו בשביל ישראל כל שיש פרסום שנעשה בשביל ישראל שידעו בו רבים אסור לעולם ועמ״מ שם מדין קבר בשכ״ה סי״ד ועמ״א שם ל״א וט״ז אות י״ג בשם הר״ן דבקבר גנאי משמע בשאר דברים אין לאסור לעולם ועסי׳ רמ״ד ס״ג ומהו רבים לכאורה ג׳ הוי רבים ובשכ״ה שהכל יודעים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:28"
+        },
+        "29": {
+          "he": "אסור עמ״א ר״מ ז״ל פ״י דין כ״א (ט״ס דף כ״א) ואף שבות דשבות בטילטול אסור ובסי׳ רע״ו במ״א אות י״א התם שאני ואסור ליתן בשר וחלב לעכו״ם בחול ולומר בשל לך וכן בקדירה חולבת ב״י דלדידיה אסור ובשבת לומר בשל בשר שלך א״י למה לא אסור משום ודבר דבר וי״ל: כלי שמלאכתו לאיסור לטלטל ע״י עכו״ם מחמה לצל ושלא יגנוב י״ל דשרי דאי בעי ישראל מטלטל בהיתר לצורך גופו עסי׳ ש״ח וכה״ג גם המ״א מודה דשרי עט״ז ג׳ ומ״א י״ב:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:29"
+        },
+        "30": {
+          "he": "לעשר עמ״א ועסי׳ רס״א יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:30"
+        },
+        "31": {
+          "he": "אסור עמ״א ועט״ז ג׳ ופחם בלא כלי איסור דרבנן ואין נהנה כ״כ דבלא״ה ראוי ליהנות לאורו ומ״ש דשם א״י לקרותו באות כ׳ אבל לרמוז לו בדיבור הוי כאמירה ומ״מ קשה דעכו״ם שעשה מלאכה בשביל ישראל מעצמו ג״כ אסור אפי׳ בדרבנן למי שעשה בשבילו עסי׳ שכ״ה במ״א כ״ג יע״ש וברע״ו א׳ ודוחק לומר דאחר קוראו ואפשר יש בו קצת פיקוח נפש שא״י מה כתוב בו. ומיהו לומר א״י לקרות לאור הנר שיש בו פחם ושפחה מבינה דשרי לאו הנאה כ״כ דמ״מ יוכל קצת לקרות ואין אומר דבר עמש״ל יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:31"
+        },
+        "32": {
+          "he": "במלאכה עמ״א וע׳ אות כ״ט ועסי׳ רע״ו במ״א אות י׳א ועט״ז ש״ח אות ז׳ כ׳ טילטול מוקצה ע״י עכו״ם שרי כבסי׳ רע״ו ס״ג והא״ר כאן אות מ״ט כתב דלא רק בזה ולענ״ד דבריו כנים דלומר לעכו״ם ליטול מוקצה לצורך גופו להניח דף עליו וכיוצא אי בעי ישראל היה מטלטל מן הצד כבסי׳ שי\\א ס״א וס״ה שרי לעכו״ם כך כמ״ש המ״א ברע״ט אות ט׳ ואי״ה בש״ח יבואר עוד. עמ״א שכ״ח אות ח׳ ועא״ר כאן אות נו״ן:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:32"
+        },
+        "33": {
+          "he": "עומד עמ״א ועמ״ש בסי׳ רמ״ד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 307:33"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "אבל עט״ז נראה שנוסחא ברמ״א היה אבל מי שאינו מתענג מותר לאומרה שיתענג חבירו וא״כ היל״ל אפילו מי כו׳ ובלבוש העתיק אסור לספרם כמו שהגי׳ לפנינו (בד״א ציינו אסור ואינו כי לפניו ז״ל היה הגי׳ מותר לאומרם) ועש״ר ב׳ כ״כ שנוסחא מוטעת היא. אבל הט״ז חילק אם מספר רק למלאות רצון חבירו אסור אבל אם מכוין שיהיה להם עונג שרי וכנראה שהסכים ללבוש דוקא אם אין לו נחת גם לא להתענג חביריו רק למלאות רצונם שיתענגו הם ודאי יש להמספר צער אסור אבל אם אין לו נחת רק עושה שיתענג חבירו אין להמספר צער ושרי ועא״ר. ולי העני יש בכאן הרהורי דברים והנני פורטם בעזה״י: דע דאיסור אמירה בשבת יש בו ג׳ חלקים. א׳ דיבור שאין בו לתא דמלאכה כ״א שלא יהא דיבורך שבת כחול כמו אעשה דבר פלוני למחר כו׳ כמ״ש הר״מ ז״ל פכ״ד ה״א שאין דומין למלאכה ואין מביאין למלאכה והם לעסוק בחפציו אם לדבר בהם והם המבוארים בש״ו וסי׳ זה ואסמכוה אקרא דישעיה כ״ח ממצוא חפציך ודבר דבר ואמנם בתו״ש ק״ן א׳ ד״ה ודיבור מי אסור פירוש מדאורייתא יע״ש כוונתם דודאי דיבור אסור כמה בריתות ומשניות שם לא ישכור פועלים ופירש״י ממצוא חפציך כו׳ והיל״ל ורמינהי ע״כ פירש מ״ה מקרא וסובר דהוי ד״ת כמ״ש הצ״צ בסי׳ כ״ה דעונג שבת מ״ה (עסי׳ רמ״ב) דכתיב כי פי ה׳ דבר כמו הלבשת ערומים ופריך א״כ מצוה למה שרי ומשני בפי׳ התורה חפציך אסורים ושמים מותרין בין בעסק ובין בדיבור וא״ת אמירה לעכו״ם לעשות לו מלאכה שבות דרבנן הא מ״ה אסור מקרא ודבר דבר י״ל אפילו אומר לו להדליק נר ללמד אצלו דהוי חפצי שמים כבס״ה ורע״ו ס״ג דבמלאכה ד״ת אסור לומר לעכו״ם אף למצוה. והיינו מה שאסור לו לעשות היום אסור לומר אעשה למחר הא כל שיש צד היתר ע״י בורגנין וכדומה שרי דיבור והתעסקות כבס״ח כאן וש״ו ס״א ואף באיסור תורה יכול לומר אלך חוץ לשלש פרסאות מחר ול״ת דוקא חוץ לתחום דרבנן דוקא מהני בורגנין דליתא עב״י ועסי׳ רס״ג שי״ז ומוכרח בגמרא ק״ו להביא פירות הא בורגנין כו׳ הא הוי ד״ת מעביר כו׳ ועסק ודיבור שוין ש׳מ\\ דאף בד״ת כל שיש היתר שרי. ואם דוקא הדיבור לחבירו א״ד אף בעצמו אסור עמ״א אות י״א דאסור אף בעצמו בינו לבינו אסור רק הרהור מותר וכ״כ התוס׳ ק״ן א׳ ד״ה מה דאל״כ לא פריך יע״ש ואי״ה יבואר שם וכלפי שאמרו רבותינו ז״ל דאסור להרבות בשיחה בטילה בשבת וכ״כ הר״מ ז״ל פכ״ד ה״ד מירושלמי והביאו התוס׳ קי״ג ב׳ (בב״ח הטור מיישב פירש״י מ״מ לדבר לבד) יקשה שיחה בטילה שא״צ כלל בחול נמי כל השח עובר בעשה ומאי איריא להרבות כו׳ וכ״ת ודברת בם ולא בדברים בטילים ונשי דליתנהו בלימוד תורה שרי לדבר דברים בטילים ואמירה דרשב״י אומר אמי שבת היום כו׳ דמסתימת הפוסקים משמע אזהרה זו אף לגברי ולמ״ש הר״ב ניחא דשיחה בטילה לספר שמועות דמתענג חבירו בחול שרי ובשבת כיון שאין לו עונג אסור ועיין ירושלמי ובמפרש שם ושם אמרו שבת ל״ה שבות כ״ה ממאמר. הדיבור השני אמירה לעכו״ם פירשתיו דנ״מ אף למצוה אסור וכל מה שמותר לומר לחבירו מותר לעכו״ם עמ״א אות י׳. ואם אומר לו שיעשה בשבת יש בו שבות מדרבנן אטו יעשה מעצמו ונראה כשלוחו ולוקה מ״מ כמ״ש הר״מ ז״ל בפי׳ בפ״ו הא״ח יע״ש אבל אם אמר לו לעשות מלאכה אחר השבת לית ביה שבות כ״א ממצוא חפציך ודבר דבר ואפשר שאין לוקה מ״מ על זה ובש״ו דברנו מזה. ואף דבר שאפשר צד היתר ע״י בורגנין וע״י עירוב מרשות לרשות ואפ״ה אסור לומר שיעשה בשבת דמ״מ יש לגזור וכמ״ש המ״א אות י״ב. ושבות דשבות במקום מצוה שרי כבס״ה. וכ״פ בתקפ״ו סכ״א וי״ל אם חוץ לתחום מותר לומר לעכו״ם הואיל ואסמכוה אקרא חמיר משאר שבותין והרווחנו בזה בש״ו ס״ט אסור לעכו״ם שילך חוץ לתחום והתם דבר מצוה הוא ועמ״א שם י״ז אלא מסתימת הפוסקים לא משמע כן. והחלק השלישי איסור אמירה לישראל מומר לעכו״ם לא זו שיש לפני עור ואפי׳ היכא שהוא פונדק שמבשל לכל עובר ושב משלו ואירע שנתארח אורח אצלו בשבת עולה שאין סכנה דיש לומר אמירה שבות מותר בחולה שאין סכנה ולפני עור מאחר דבלא״ה מבשל משלו כמה קדירות פן יזדמן אורחים וגם מסייע ידי עוברי עבירה ל״ש בזה ול״ד לתרי עברי דנהרא וחד עבר כו׳ כאמור מ״מ כתבנו בסימן ד״ש במ״א א׳ שדבר זה במחלוקת שנויה להר״ב בח״מ שפ״ח הט״ו אם אמר למי שמועד למסור המשלח חייב דאין שייך דברי מי שומעין כ״ש כאן ובשליחותו עביד חייב המשלחו סקילה באפשר ולמ״ש הלבוש שם דהוי גרמי מש״ה חייב שם דברי היזקא כאן לא הוה חייב המשלחו ובש״ך שם גם כן הקשה על הר״ב ובפתיחה כוללת כתבנו מזה ואי״ה יבואר לקמן עוד מדין אמירה לעכו״ם וכאן אין להאריך עסי׳ רע״ו סעיף א׳. ואי״ה באות ד׳ אבאר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 307:1"
+        },
+        "2": {
+          "he": "אע״פ שמבין עט״ז הנה מדליקה י״ל דהפסד התירו הא לא״ה אסור ומר״ז לעשות למחר כי אע״פ שדיבור אסור מד״ק או ד״ת ודבר דבר כמ״ש באות א׳ וכו׳ התורה התירה הרהור מותר ע׳ שבת ק״ג א׳ (וי״ל ודבר דבר מיותר עכה׳ג\\ ש״ו) משא״כ אמירה לעכו״ם שבות מדרבנן חמיר בזה דאף הרהור אסור שיבין שיעשה בשבת וכמ״ש הר״ב בסוף הסימן סכ״ב ועמ״א ל״א ואי״ה שם יבואר והר״ב דשתיק כאן אפשר דסמיך אמ״ש בסוף הסי׳ והוא דעת הטור ואפשר דאודויי אודי ליה כאן בסמ״ג לומר בחול רמז שיעשנו בשבת הבאה קיל מרמז בשבת גופא. ואף שא״י לחלק ביניהם לכאורה. והיינו דוקא חוץ לבית ישראל ולא יהנה הישראל ממלאכה בשבת כ״א בחול וכ״ש כבסי׳ רמ״ו יע״ש ולבוש בס״ב פסק דשרי ובסכ״ב פסק לדהר״ב והוסיף לעשותו בשב״ת כדכתיבנא ושם נתן טעם בשבת נראה כשלוחו אע״פ שאין שליחות לעכו״ם ואיסור אמירה לעכו״ם אטו יעשנו עצמו כמ״ש הר״מ ז״ל פרק ששי הלכה א׳ יע״ש ועא״ר ח׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 307:2"
+        },
+        "3": {
+          "he": "שלא עט״ז חילק בין מצוי בכל יומא אין איסור כ״א שיאמר קנה בשבת או ראה שאני הולך לדרך במ״ש וכשאין מצוי כ״א ביום השוק אף בסתמא אסור כאומר בפירוש שיקנה בשבת ואסור ליהנות באותו שבת כבסימן רע״ו במ״א א׳ דאפילו באיסור דרבנן צריך שימתין לערב כ״ש ועסי׳ שכ״ח סעיף ו׳ ז׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 307:3"
+        },
+        "4": {
+          "he": "דיש עט״ז עמ״א אות י״ב באורך מסכים כעין זה אלא בט״ז מחלק בין דבר שאפשר לעשות עתה כמו מחיצה בב״א מותר אמירה לעכו״ם לעשות כך יע״ש משא״כ אלו היה בורגנין אין מעלה רק שלא יהא דיבור של חול ולצורך מחר התירו כמו בס״ז. ובשכ״ח ס״י י״ל באין לו מחיצה בב״א ולכך אסור ואי״ה במ״א אות י״ב יבואר בזה. ומ״ש יש מקילין אמירה לעכו״ם בד״ת במצוה אין להקשות א״כ דאמירה לעכו״ם אין איסור כ״א ברשות תיפוק ליה ממצוא חפצך ודבר דבר כמ״ש באות א׳ י״ל דכ״מ לרמוז ג״כ אסור כמ״ש הר״ב בסעיף כ״ב ועט״ז אות ב׳ ומ״א אות ל״א דהוי כשלוחו ע״י רמיזה ג״כ משא״כ ודבר דבר הרהור ורמיזה מותר כבס״ז וסכ״ב יע״ש ועמ״ש באות א׳ יע״ש באורך: אמר ההדיוט הכותב יש לי בכאן שאלה אחת קטנה ואציגנה פה ואגבה יבואר קצת שאר פרטיים וזו תוארה. פשיטא לי אמירה לעכו״ם שבות בשבת אף בדבר שאין בו כ״א לאו גרידא הדמיון יש לו משא על חמורו של עכו״ם אסור לומר לעכו״ם להנהיגה ול״ת שבות דשבות חמיר טפי וכולה חדא גזירה ויש בו כרת וסקילה ומהא אמינא לה י״׳ד רצ״ז ס״ד ואה״ע ה׳ סי״ד בבא מציעא ס׳ א׳ ואיפשטא בעיין דבכל איסורין שיש לאו אסור אמירה בהם לעכו״ם דקיי״ל ב״נ אין מוזהר על סירוס והלין תורין כו׳ ע״כ מטעם אמירה לעכו״ם וכ״ש שבות דשבת בלאו. ופשיטא לי דבשאר איסורין שבות דשבות יש להתיר דע״כ לא מיבעיא ליה ואיפשטא אלא בלאו ולא בשבות דשבות ואין ללמוד משבת דחמור נסתפקתי בשאר איסורין באיסור עשה אי אסור אמירה לעכו״ם ולשון הר״ב ז״ל בי״ד באיסור לאו משמע איסור עשה דקיל מלאו וכמאמרם ז״ל ריש יבמות לאו ל״ת חמור מיניה אין לנו לאסור ויצא לנו הדין לפ״ז בע״פ אחר שש מותר לומר לעכו״ם שיקנה לו במעות ישראל יי״ש וכדומה ולהעמיד החמץ ברשות עכו״ם עד אחר הפסח דאין שליחות לעכו״ם ולאו דיליה הוא ואמירה לעכו״ם בע״פ אחר שש תליא בפלוגתא אי עובר ב״י לאחר שש או רק עשה דתשביתו ורובם הסכימו שאף דעת הר״מ ז״ל רק עשה האם נימא דבאיסור עשה לא גזרו אמירה לעכו״ם ושאני י״ט וחה״מ דשבת אקרי כמ״ש התוס׳ ב״מ שם: ובדברי קדשו של הב״ש ז״ל אה״ע ה׳ אות י״ט כתב לאמר דאין הלכה כמ״ב צ״ו דפסק דיש שליחות עכו״ם לעכו״ם דגם אתם כו׳ מהא דמותר למכור לעכו״ם אף שיתן לשלוחו לסרס כו׳ המעיין בתה״ד סימן רצ״ט [ובאה״ע ט״ס נרשם המ״מ] משמע הטעם דאין שלד״ע באפשר אף לעכו״ם ועוד דנוכל לומר דכ״ש הוא דקיי״ל בעלמא אין שליחות לעכו״ם משמע דלא ברירא ליה רק בצירוף הטעמים אמנם הר״ב ז״ל בח״מ שפ״ח סט״ו תפס טעם התשב״ץ במוחזק שהוא אסור יש שלד״ע דלא שייך דברי מי שומעין והוטב בעיניו טעם זה לבד (עש״ך ס״ח) ואם כן בהכרח דכאן באה״ע דפסק אפילו לשלוחו ועכו״ם האידנא ודאי אין מקיימין כלל ז׳ מצות ב״נ וחשוד ג״כ ודאי יש שלד״ע לדידה ע״כ מטעם אין שליחות עכו״ם לעכו״ם דלא כמ״ב ועמ״ש בפתיחה כוללת בחלק הד׳ ובסימן ד״ש במ״א ח׳ ואי״ה בסי׳ תמ״ח בט״ז ומ״א יבואר עוד וכאן אין להאריך: עיין סי׳ רע״ו במ״א אות י״א ורע״ט אות ט׳ דבר שאפשר בהיתר טלטול מן הצד שרי לומר לעכו״ם ול״ד לבורגנין וכדומה דהא יש לישראל היתר גמור לעשות ועמ״א כאן י״ב. ופ״ר ע״י עכו״ם ל״ג עסי׳ רנ״ג במ״א מ״א:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 307:4"
+        },
+        "5": {
+          "he": "ודוקא עט״ז ברש״י צ״ל שבת ק״ן א׳ ד״ה של מלך שא״צ למלך ולאחר משמע כל שצריך לאחר אסור עא״ר אות ח״י צידד להתיר ומ״מ משיחה בטילה אסיר עיין ס״א והוי יודע דאיסור חשבונות בר״מ ז״ל פכ״ג הי״ח שמא יכתוב ועא״ר י״ז ובלבוש ממצוא חפצך וכ״כ רש״י כתובות ה׳ א׳ ד״ה משום ודבר דבר וממ״א ש״ו אות י״ב בשם המ״מ דלא התירו שום שבות למצוה כ״א ודבר דבר מותר (דהתורה התירה זה חפצי שמים) וא״כ להר״מ ז״ל משום שבות איך התירו חשבונות מצוה ואמירה לעכו״ם לא הותר כ״א שבות דשבות במצוה והא דמפנין בשל״ג ס״א י״ל הטעם משום טירחא יתירא התירו במצוה הא שבות אחר י״ל דאין מתירין כלל במצוה ועיין תה״ד סימן ע״ב משמע מפנין שבות הוא ואי״ה בשל״ג שם יבואר אי״ה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 307:5"
+        },
+        "6": {
+          "he": "אני עט״ז ואף לומר לרכו״ב אסור עמ״א י״א דאף דרבנן אסור כל מה שא״י לעשות עסי׳ ש״ה סי״ח וכמ״ש כאן אפילו איסור דרבנן אסור:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 307:6"
+        },
+        "7": {
+          "he": "בורגנין עט״ז הראה לאות ד׳ דבור כל שהיה באפשר לצייר היתר שרי אף כשאין היתר והיינו הדיבור לבד והליכה לאחר שבת אבל לומר לעכו״ם יעשה בשבת אם יש היתר לישראל לעשות היום ויש בידו שרי כמו טלטול הנר ברע״ו ורע״ט י״א ט׳ ומחיצה ב״א והמ״א יודה לזה משא״כ באין אפשר אלא אלו היה שם זה אסור בשבת לעשות ע״י עכו״ם ואף דיעבד אסור כמ״ש המ״א אות י״ב יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 307:7"
+        },
+        "8": {
+          "he": "פירות עט״ז וכ״כ המ״א אות י״ב דאפילו תוך התחום אסור לומר שיביא הוא למחר כל שהם מוקצה וכמ״ש הר״ב בהג״ה דל״ד חבירו ועמ״א אות י״א ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 307:8"
+        },
+        "9": {
+          "he": "תן לי עט״ז ועמ״א אות ט״ו כל שאין מזכיר לשון הלואה ופרעון רק תן ואחזיר שרי:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 307:9"
+        },
+        "10": {
+          "he": "חקק עט״ז היינו בדאיכא תרתי לטיבותא חקק וכותל לא מחלף בשטרי הדיוטות הא כתוב בכותל גבוה הרבה מחלף בשטרי הדיוטות ופנקס חקוק נמי מחלף בשטרי הדיוטות ואף למה דכתב בער״ה דגבוה הרבה אסור שמא ימחוק י״ל דנ״מ דלשמש נמי אסור לקרות אע״ג דל״ש שמא ימחוק דאין בידו כמ״ש הב״ח ז״ל משו״ה נקיט שמא יקרא בשטרי הדיוטות יע״ש ועיין הסוגיא בשבת קמ״ט א׳ ובתוס׳ ד״ה לעולם והלבוש שכתב בגבוה הרבה אין לחוש למחיקה קשה מסי׳ ער״ה גם שנים קורין באפשר דחד מזכיר לחבריה ושטרי הדיוטות אסור אף לעשרה מטעם ממצוא חפצך כמ״ש הלבוש וכמ״ש הב״ח בשם רש״י פרק משילין אבל הר״מ ז״ל פרק כ״ג מה״ש הטעם שמא ימחוק. וסבור הייתי לומר כתב משיט״א וכדומה שרק מדרבנן הכתיבה והמחיקה מדרבנן כבסימן ש״ו סי״א בהג״ה בכתב שלהם כמ״ש שם עמ״א ש״מ אות י׳ אפשר דל״ג בגבוה הרבה כמו בער״ה דיש איסור תורה אלא דמוחק נמי אין חייב כ״א ע״מ לכתוב ב׳ אותיות ער״מ פי״א ה״ט הא שלא ע״מ לכתוב ליכא כ״א איסור דרבנן ובשבת קמ״ט א׳ אמר דלמ״ד גבוה ב׳ קומות ה״ה כאן ואי״ה במ״א אות י״ז יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 307:10"
+        },
+        "11": {
+          "he": "ואגרת עט״ז הנה דבריו בנוים עפ״י מ״ש הב״ח ז״ל דשמא ימחוק ל״ש בשמש שאין בידו למחוק רק בעה״ב וז״ש מונה אדם אורחי״ו ולא מכתב אבל החשש שטרי הדיוטות יש בשמש לרש״י דטעם ממצוא חפצך כו׳ ולהרמב״ם ורמב״ן מותר באג״ש ה״ה משמש בנעטי״ל אין לגעור בו כמ״ש הב״י בשם הרשב״א הסומך על הרמב״ן אין לגעור בו ומ״מ קשה אג״ש מה שייך ממצוא חפצך דכל דבר שאין בו איסור לעשות ע״י ציור מותר לומר בשבת לכרך פלוני כו׳ כ״ש לקרות אג״ש ועא״ר ל״א ובח״מ דלרמב״ם י״ל דאסור לג״ש רק לרמב״ן מותר אג״ש יע״ש ובמ״א אי״ה יבואר עוד. דהעיון ג״כ אסרו דא״א שלא יאמר בפה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 307:11"
+        },
+        "12": {
+          "he": "שלא עט״ז דלדידן דלית רה״ר כ״א כרמלית י״ל דל״ג עקירה או הנחה לחוד דהוי גזירה לגזירה ועסי׳ שכ״ה בט״ז א׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 307:12"
+        },
+        "13": {
+          "he": "אבל עט״ז החמיר בלה״ק ג״כ אסור עב״ח ומיהו בחול כשכתובים בלה״ק דעת הב״ח דלא הוי מושב לצים וספר יוסיפון אף בלשון לעז שרי בשבת דיש ללמוד מהם כמה דברי מוסר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 307:13"
+        },
+        "14": {
+          "he": "בכדי עט״ז ועיין ב״מ צדיק א׳ הלין תירין דגנבין ארמאי והנה שבת לאחר שבת היה באפשר לעשות בהיתר לא קנסו משא״כ סירוס לעולם א״א ע״י ישראל בהיתר קנסו אלא המרכיב כלאים ע״י עכו״ם אפ״ה אין קונסין עט״ז י״ד רצ״ז אות ב׳ דמצוי הוא סירוס קנסו לא בכלאי בהמה וב״ש אה״ע סי׳ ה׳ אות י״ז בשם דרישה סירוס ניכר האיסור קנסו משא״כ כלאי בהמה אין ניכר לא קנסו ולומר סירוס קנסו הא כלאים דרבנן טמא עם טמא וטהור עם טהור (כי לא מתעבר בטמא וטהור ולאסור הבהמה במה שלא נהנה כ״כ י״ל דלא קנסו) ז״א דע״כ קאמר הר״מ ז״ל בהנהגה דטמא עם טמא דרבנן הא ברביעה מד״ת ועש״ך י״ד רצ״ז א׳ וכבר עמדנו על זה בג״ו באורך יע״ש וכאן אין להאריך. וע׳ ר״מ ז״ל פרק ששי מהלכות שבת הלכה ח׳ כתב בפירוש אע״פ שאמר ישראל לעכו״ם לעשות ולוקה מכל מקום מותר לערב בכדי שיעשו ועמ״א שם שלא מצינו איסור זה בגמרא יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 307:14"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] אעשה למחר וכו'. אפילו לדבר מצוה (ספר חסידים רס\"ו מגן אברהם), נמשך אחר כנסת הגדולה ועולת תמיד וכן אני נמשכתי בספר אליהו זוטא שלי, אבל עיינתי בספר חסידים דמיירי כשאומר נישן כדי לכתוב ספר תורה למחר הבאתיו סימן ר\"ץ ס\"ק ב' דאז אין התענוג שינה בשביל כבוד שבת אבל אומר שיעשה מצוה למחר מנלן ואדרבה משמע בסימן ש\"ו סעיף ו' דמותר וכן משמע ממה שכתב בשם הכלבו. עוד כתב ספר חסידים סימן רס\"ב אל ידור אדם במקום ששוק של כותים בשבת, עד כאן, וצריך לומר דוקא כשהשוק בשכונת היהודים דאז אי אפשר שלא יחטא בדבריו, ועוד כתב לספר בשבת מאוהביו שמתו או שהן בצער אסור:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:1"
+        },
+        "2": {
+          "he": "[ב] או סחורה וכו'. לשון רמב\"ם פרק כ\"ד וסמ\"ג לא ידבר לשותפו מה ימכור למחר או מה יקנה או היאך יבנה בית זה ובאיזה סחורה ילך למקום פלוני וכל כיוצא בזה אסור, עד כאן, ונראה לי דאורחא דמילתא נקט שותפו והוא הדין לאחר כמו שכתב רמ\"א סעיף ח' וכן בכלבו השמיט שותפו ונראה נמי אפילו לא אמר לאחר כלל אלא בפני עצמו כדמשמע מסתימת השולחן ערוך ולבוש הכא ומהר\"ש וכלבו אלא דמתסמא אומר לאחר דמה ליה לדבר בפני עצמו ובמגן אברהם ס\"ק י\"א מביא פוסקים דמותר אפילו לומר לחבירו אני אעשה וקשה דאם כן תיקשה קושיות תוס' ד\"ה מה וכו' [שבת] דף ק\"נ ע\"א עיין שם ודו\"ק. לעכב נכסי ראובן ביד שמעון אסור (כנסת הגדולה ורשד\"ם):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:2"
+        },
+        "3": {
+          "he": "[ג] מותר לספרם וכו'. לאו משנת חסידים היא והנשמר מלדבר דברי חול קדוש יאמר לו ואנשי מעשה נזהרים בזה שלא לדבר אפילו הכרחיים כי אם בלשון הקודש וקיבלתי אדם המבקר לחבירו בשבת בשחרית לא יאמר לו כדרך שאמר בחול צפרא טבא רק יאמר לו שבת טבא לקיים זכור את יום השבת (של\"ה ול\"ה) ובעיקר דין דסיפור שמועות נראה לי מב\"ח שהבאתי סימן ש\"א ס\"ק ה' דלכתחילה אין להרגיל בהן שהרי בתרומת הדשן סימן ש\"א למד זה מדין דבחורים המתענגים בקפיצתם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:3"
+        },
+        "4": {
+          "he": "[ד] [לבוש] לצער וכו'. ולי נראה דאף שאין לו צער בזה אפילו הכי כיון שאין תענוג אסור לעבור על ודבר דבר וכן משמע בתרומת הדשן ורמ\"א ואפשר דסבירא ליה כשאין מצער הוא בכלל חטא כדי שיזכה חבירך עיין סימן ש\"ו ס\"ק ל\"ג גבי יבלת ולא נהירא ועיין בט\"ז דנוסחא מוטעת נזדמנה לו ברמ\"א:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:4"
+        },
+        "5": {
+          "he": "[ה] אסור לשכור וכו'. אבל בדבר שאינו אלא חומרא בעלמא שרי לומר לכותים (כנסת הגדולה), וצריך עיון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:5"
+        },
+        "6": {
+          "he": "[ו] ואפילו לומר וכו'. תמיהני על קיצור של\"ה הנדפס בשנת תנ\"ג שכתב זה לשונו, לענין הטבת נרות או למלאות שמן בשבת צריך לאומרו לכותים קודם שבת עד כאן לשונו, וצריך לומר דכתב כן על הנוהגין להקל בסעודת שבת עיין סימן רע\"ו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:6"
+        },
+        "7": {
+          "he": "[ז] [לבוש] לעשות דבר זה וכו'. כלומר אפילו מלאכה שאין צריך לו אלא לאחר שבת (מלבושי יום טוב), וכן כתב הרמב\"ם ריש פרק ו':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:7"
+        },
+        "8": {
+          "he": "[ח] אבל מותר וכו'. והטור כתב ומסתבר קצת לאיסור והוא תמוה מאי שנא מאמירת כל המכבה אינו מפסיד דשרינן בסימן של\"ד (ט\"ז), ולא קשה מידי דהתם משום פסידא שאני ועיין סימן נ\"ו, ועוד יש לומר דהתם אינו אומר לנוכח אבל הכא הוי כמו ציווי לכותי זה, ומכל מקום לדינא לא שבקינן מסתבר דטור לפני ספר התרומות וסמ\"ג וסמ\"ק והגהות מיימוני המתירין ועוד דבתשובת מהר\"מ מרוטנבורג סימן תקנ\"ט דיש מתירין לומר אפילו קודם שבת לעשות כך בשבת ואף דבסימן ר\"ב דחוהו לגמרי מכל מקום בזה כדאי לסמוך עליו וגדולה מזו התיר בתשובת ר' יום טוב צהלון סימן רמ\"ד אפילו שיודיענו קודם שאמירה לכותי מותר ומתוך כך הבין מדעתו וגם מותר לומר לו לא היית מפסיד שהייתי אני נותן לך שכרך:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:8"
+        },
+        "9": {
+          "he": "[ט] ובלבד שלא וכו'. ודעת הט\"ז ועולת תמיד ומגן אברהם דאם אי אפשר לקנות כי אם ביום השבת כגון בכפרים שאין שכיח כלל כי אם ביומא דשוקא והשוק בשבת אפילו נותן סתם אסור ודלא כמשמע בבית יוסף, ובספר מנחת כהן פסק כבית יוסף אם לא שאומר לקנות ביום השוק דהוי כאומר לקנות בשבת ואינו עיקר אלא אפילו בסתם אסור. כתב מגן אברהם והוא הדין שאסור ליתן לו דבר למכור וכן כתב בספר משאת בנימין וכתב דברביעי וחמישי מותר כמו שכתב בסימן רנ\"ג, עד כאן, וצריך עיון הא ודאי אסור אפילו מיום ראשון לומר לעובד כוכבים שיעשה בשבת וכדמשמע מלבוש ומשאת בנימין גופיה שם וכן מבואר ברמב\"ם וטור שכתבו סתם דאסור לומר קודם שבת וכן משמע מדין דאמירת אחר שבת הנזכר לעיל וכן משמע בתשובת מהר\"מ שם, וזה שאי אפשר למכור ולקנות אם לא בשבת הוי כאומר בפירוש לדידהו ולא דמי לסימן רנ\"ב סעיף ב' דשם אינו מוכרח לעשות בשבת וכן באיגרת ריש סימן רמ\"ז ואפילו הכי החמיר רמ\"א שם. כתב הט\"ז אפילו בכלים לכובס דמתירין ליתן לעובד כוכבים יש איסור אם נותן הכלים סמוך לשבת ואמר לו ראה שאני צריך להם במוצאי שבת דהוה ליה כאומר בפירוש שיכבסם בשבת וכן אם נותן לו מעות בערב שבת ליקנות ואמר לו שילך לדרכו במוצאי שבת, עד כאן, והוא פשוט ועיין סימן רנ\"ב ס\"ב. עוד כתב נראה לי דמה שהתירו אם לא זכר לו שיקנו בשבת מכל מקום לא יהנה ישראל באותו שבת אפילו בקצץ כמו בנר שהדליק בשביל ישראל, עד כאן, וצריך עיון מסימן רנ\"ב סעיף ד' דמותר ללבוש ועיין ס\"ק ט' שם ועוד דהתם מלאכה דאורייתא אבל הכא מקח וממכר דרבנן היא:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:9"
+        },
+        "10": {
+          "he": "[י] וכן מותר וכו'. כתב עולת תמיד תימא דבסימן רמ\"ז באיגרת פסק דוקא בקוצץ לו שכר וכאן הקיל, עד כאן, ואשתמיטתיה בסוף סימן רמ\"ה ובשולחן ערוך סעיף ה' שם דגם בזה דוקא בקציצה מותר גם לט\"ז דדייק הכא כן מסמ\"ק אשתמיט שולחן ערוך שם וכן כתב מגן אברהם, אך צריך עיון על רמ\"א ולבוש שחזרו וכתבו הכא וראיתי במלבושי יום טוב שכתב דאישתמיט להו דברי שולחן ערוך שם, עד כאן, ובעיני תמוה לחשוד לרמ\"א בהכי ועוד למה התיר כאן בסתם לכן נראה לי דסבירא ליה לרמ\"א מדהתירו הסמ\"ג ומרדכי בסתם אלמא דאפילו לא קצץ מותר ולא דמי לאיגרת דכתב ניכר ביד ישראל וכדפירשתי בריש סימן שם (ובס\"ק ג'), והסמ\"ג אפשר דמיירי נמי כשבגדיו ניכרין ובהכא מיירי רמ\"א בסימן רמ\"א וצריך עיון, ובנותן לו מעות בערב שבת פשיטא דמותר אף בלא קצץ:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:10"
+        },
+        "11": {
+          "he": "[יא] וראוי להעניש וכו'. כתב בעולת תמיד סימן ש\"ו דוקא במזיד אבל בשוגג אין להענישם בממון ויש אומרים דוקא בשכיר יום אבל בקציצות דמים מותר, עד כאן, ולא ידעתי מנא ליה דמשמע דמיירי בקציצה ואסור משום דנוטל מביתו של ישראל וכהאי גוונא איתא ריש סימן רמ\"ד, שוב ראיתי בכנסת הגדולה שהביא כן בשם תשובות ר\"א ששון סימן קנ\"ו אבל סיים שלבו נוקפו בדבר גם מגן אברהם כתב דבסימן רנ\"ב משמע דאפילו קצץ אסור, גם מה שכתב עולת תמיד אין להענישם בממון בתשובת ר\"א ששון מבואר דאין להענישו כלל ושנאמן אם אין עדים ואמתלאות בדבר ועיין בחושן משפט סימן ל' סעיף כ\"ד. כתב מגן אברהם נראה לי אפילו יחד לו מקום אסור כיון שהסחורה של ישראל מיהו אם הכותים לקחה מבית ישראל קודם שבת אף על פי שמפליג בשבת שרי:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:11"
+        },
+        "12": {
+          "he": "[יב] מותר וכו'. כסברא זו פסק רמ\"א וכן פסק לבוש סימן תקפ\"ו סעיף כ\"א בסתם וכן פסק הב\"ח דנוהגין להקל וכן פסק ספר משאת בנימין ואפילו במקום פסידא התיר מטעם זה, ונראה דנעלם ממנו תשובת ריב\"ש סימן שפ\"ז שכתב דאף המתיר (למצא) [בדבר מצוה] אוסר במקום פסידא ועיין ס\"ק י\"ד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:12"
+        },
+        "13": {
+          "he": "[יג] קצת חולה וכו'. דאילו בחולה ממש עיין סימן שכ\"ח סעיף ט' דאפילו ישראל עושה לחד מאן דאמר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:13"
+        },
+        "14": {
+          "he": "[יד] [לבוש] או המצטער וכו'. משמע צער גוף אבל לא במקום פסידא ומגן אברהם מקיל בהפסד גדול שבות דשבות ואין דבריו מוכרחים כי סמיך על חד שינוי דר\"ן פרק חביות נגד גדולים הרבה שהזכיר האוסרים ועוד הא בר\"ן גופיה סוף פרק ר' אליעזר דמילה משמע שלא סבירא ליה כהך שינוי וכן משמע בסעיף י\"ט וכן משמע בפסקי רקנט\"י סימן צ\"ח:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:14"
+        },
+        "15": {
+          "he": "[טו] ויש אוסרים. דסבירא ליה דוקא במילה שרי שבות דשבות דהיא עצמה דוחה שבת וצריך עיון דבעירובין דף צ\"א אמרינן דבשעת הסכנה היה מעלין ספר תורה מגג לחצר לקרות בו וצריך לומר דאין מדמין שבותין (מגן אברהם), ותמיהני הא יש אוסרין הם תוס' גיטין דף ח' ובבבא קמא דף פ' זה לשונו, אומר ר\"י שאין להתיר משום מצוה אחרת כגון להביא ספר דרך כרמלית דדוקא מילה וכו', הרי דאסרו גם בספר, ואפשר לחלק בין ללמוד בו ובין לקרות בו, מיהו בהגהות מיימוני פרק ו' העתיק דברי תוס' להביא ספר תורה וספר תורה מסתמא לקרות בו הוא וכן כתב להדיא בחידושי רשב\"א בגיטין שם להביא ספר תורה לקרות בו וצריך עיון, ועוד קשה הא אף סברא ראשונה מודה דעל ידי ישראל אסור והתם הישראל היו מעלין הספר תורה, והנה בתוס' הנ\"ל שהם דעת יש אוסרין קשה לי אם איתא דיש חילוק בין מילה לשאר מצוות מאי פריך בעירובין דף ס\"ח משבות דהזאה דפסח דאין דוחה על אמירה דמילה דדוחה גם יש לדקדק מאי האריכו תוס' לדקדק מש\"ס שם דלא שרי אמירה לעובד כוכבים במלאכה דאורייתא הא בהדיא קאמר הש\"ס שם דהא מר לא אמר לעובד כוכבים זיל אחים, מיהו בזה יש לומר כמו שכתב הר\"ן סוף פרק ר' אליעזר דמילה ודו\"ק עיין שם כי קיצרתי אבל קושיא ראשונה צריך עיון, עוד קשיא לי בתוס' גיטין שם במה שכתב מיהו בהלכות גדולות משמע דאפילו איסור דאורייתא שרי על ידי נכרי לצורך מילה דפירש דליתו מתוך ביתו דרך רשות הרבים לפי זה הא דקאמר נחים ליה אגב אימיה נוקמא תוך ז', עד כאן, וקשה דילמא דוקא דרך רשות הרבים הוא דשרי כהאי גוונא משום דיכול להביא על ידי מחיצות בני אדם כמו שכתב בית יוסף בשם הגהות מרדכי אבל להחם חמין יש לומר דמודה דאסור ויש ליישב זה ובחדושים יתבאר בארוכה אי\"ה. כתב בית יוסף אפשר דלא התיר הגהות מיימוני אלא בדבר מצוה דוקא, עד כאן, ולעניות דעתי מוכח כן ממשנה מפורשת בשבת דף קכ\"ב מילא מים בשביל ישראל אסור הא אפשר על ידי מחיצות בני אדם אלא דכיון שאינו דבר מצוה אסור, ומכל מקום קשיא כיון דבר מצוה אפילו אמירה לכתחילה שרי ראוי דמותר באין מצוה דבר בעשה הכותי בפני עצמו בלא אמירה בפרט לתוס' דשם דמתיר לישראל עצמו לשתות כיון שהיה יכול לירד לנהר לשתות שם, ועוד קשה אמאי לא עשה הש\"ס צריכותא בזה ודו\"ק, ולפירוש התוס' שאזכיר בסמוך יש ליישב. כתב בהגהות מרדכי שם היכא דאיכא למימר דילמא אתא לאחלופי ברשות הרבים אסור אמירה לכותים אפילו באיסור דרבנן אפילו לדבר מצוה כדאמרינן גבי ינוקא דאישתפיך חמימא עד כאן לשונו, והקשה בית יוסף הא מתיר ברישא אפילו ברשות הרבים משום דאפשר להביא על ידי מחיצות בני אדם, ותירץ בדרכי משה דהכא קאמר במקום דאיכא למיחש שיתירו שאר אמירות חוששין אפילו באיסור דרבנן ומצוה, והקשה בנחלת צבי אמאי התירו בעירובין להביא חמין מחצר לחצר שלא עירבו וכך הקשה ט\"ז, ולעניות דעתי לא קשה מידי דפירשו בתוס' שם דדוקא במילה התירו ולא בשאר מצוות מדסלקא דעתך דמקשן לאסור אפילו במילה עיין שם ודו\"ק, גם מה שדקדק הט\"ז מחיצות בני אדם מועיל גם להוציא מרשות היחיד לרשות הרבים ותמה מזה על הב\"ח הנזכר לעיל מצאתי כן בבית יוסף סימן שס\"ב בשם ספר התרומות, ומגן אברהם מבית לבית שלא עירוב מבואר שם דלא מהני ובזה יש לכוין היטב דברי הב\"ח ודו\"ק, גם מגן אברהם ס\"ק י\"ב תמה על הב\"ח בזה לחינם, ודעת הט\"ז דהגהות מרדכי מיירי בכרמלית וכשאין שם בני אדם לעשות מחיצות ובעירובין דמתירין היינו דרך חצירות, עד כאן, ודעת הגהות מרדכי בזה הוא נגד כל הפוסקים הכא ובסימן של\"א סעיף י' דמשמע דאף בכרמלית מותר לש\"ס וכן מבואר בתוס' גיטין הנזכר לעיל במה שהתיר להביא ספר דרך כרמלית דדוקא במילה וכו', אלמא דסבירא ליה בש\"ס מתיר נמי מכרמלית וכן מבואר מדקאמר הש\"ס שבות שאין בו מעשה הוה ליה איסור דאורייתא וכן משמע בשלטי גיבורים דף קנ\"ד ודברי עולת שבת סותרים למה שכתב בסימן שכ\"ה ס\"ק ל\"ב ואין להאריך:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:15"
+        },
+        "16": {
+          "he": "[טז] שעדיין וכו'. ואפילו מסופק אם יש עדיין אצלו (ט\"ז):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:16"
+        },
+        "17": {
+          "he": "[יז] [לבוש] והוה ליה ממצוא וכו'. וכמדומה שלא ראה ברמב\"ם פרק כ\"ג וסמ\"ג דטעם גזירה שמא יכתוב:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:17"
+        },
+        "18": {
+          "he": "[יח] אם כבר וכו'. ומבואר ברש\"י שאם יש צורך בחשבון לאחר גם כן אסור (ט\"ז), וצריך עיון שראיתי דר\"ן מתיר להדיא כגון שאומר הרוצה לבנות בנין זה כך וכך יש לי להוציא וכן פירוש ראשון דרש\"י וכן כתב רבינו ירוחם נתיב י\"ב חלק ז' כך וכך צריך לפלוני בבנין זה או מהלך לכך וכך וכיון שהם גדולים אחרונים ולא הזכירו דברי רש\"י להם שומעין, גם נראה לי להגיה ברש\"י דף ק\"נ שכתב לא לך ולא לאחר דצריך לומר אלא לאחר וקצת משמע הכי ממש דסיים כגון ההיא דפרישית ודו\"ק עיין שם, והשתא ניחא דגם רש\"י סבירא ליה כר\"ן ורבינו ירוחם. כתב הרמב\"ם שם חשבונות שאין בהן צורך מותר לחשבן כיצד כמה סאין תבואה היה לנו בשנה פלונית כמה דינרין הוציא בחתנות בנו כך וכך חיילותיו של מלך (רוקח קל\"ג) וכיוצא באלו שהן בכלל שיחה בטילה שאין בהן צורך כלל, עד כאן, פירש המגיד כלומר שאין שיחה בטילה ראויה לירא חטא ולקמן יתבאר שאסור לכל אדם להרבות שיחה בטלה בשבת על כרחך פירוש ליראי חטא לא ידברו אפילו בחול אפילו מעט מזה אבל להרבות מזה אסור לכל אדם בשבת, וזה לשון ביאורי רש\"ל אפילו בחול אינו כל כך יפה לתלמיד חכם דהוי כמושב ליצים ומבטל בהן לימודו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:18"
+        },
+        "19": {
+          "he": "[יט] לחבירו וכו'. והוא הדין לעובד כוכבים (מלבושי יום טוב) וכן פסקו ב\"ח ונחלת צבי ומגן אברהם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:19"
+        },
+        "20": {
+          "he": "[כ] שמתוך כך מבין וכו'. הב\"ח הקשה מזה על דין רמיזה בסוף סימן זה ולכן מתיר לומר לעובד כוכבים שיקנח חוטמו שיבין שיסיר הפחם מנר עיין שם, ואשתמיטתיה פסקי רקנט\"י סימן צ\"ט דמחלק דהכא הוא רמיזה לצורך מוצאי שבת אבל לעשות מלאכה בשבת אסור רמיזה וכן כתב בשלטי גיבורים פרק השואל:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:20"
+        },
+        "21": {
+          "he": "[כא] אבל לא יאמר וכו'. אם לא לדבר מצוה כגון לבית הכנסת או לבית המדרש (כלבו דף ל\"ד) ועיין ס\"ק א':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:21"
+        },
+        "22": {
+          "he": "[כב] לחבירו וכו'. זה לשון מגן אברהם מה שכתב הב\"ח בשם תוס' דלחבירו לאו דוקא ליתא דכתבו כן אדין דסעיף ז', עד כאן, ולעניות דעתי היא היא דהא טעמא דתוס' התם כיון דהירהור שרי לא שנא כותי לא שנא ישראל אם כן והוא הדין בזה דאין בו משום דבר חול ועוד דבשני הדינים נקט לשון חבירו ואם איתא דהכא לעבודת כוכבים דאסור ליתני הכא הישראל וכן משמע בדין דמחשיכין לצרכי כלה בסימן ש\"ו סעיף ז' דהוא הדין לעובד כוכבים עיין שם בר\"ן, גם נראה לי ראיה מתוס' דף ק\"נ לכרך וכו' תימא מאי איריא הוא אפילו לחבירו נמי יכול לאומרו לך לכרך פלוני וכו', עד כאן, הואיל לשון דרבותא נקט לדיוקא דאפילו לומר שילך הוא דוקא לחבירו מותר ולא לעובד כוכבים ואם נאמר דבזה באמת מותר לעובד כוכבים אפילו כיוון שאין אומר לעובד כוכבים בפירוש שילך מכל שכן נשמע דחבירו דנקט לאו דוקא ולקמן בסימן שכ\"ה סעיף ז' אסור לעובד כוכבים היינו לעשות בשבת עצמו אבל לאחר שבת ודאי מותר הגהות מרדכי שהבאתי לעיל נמי סייעתא לזה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:22"
+        },
+        "23": {
+          "he": "[כג] אני הולך וכו'. אבל לרכוב או לילך בעגלה אסור לומר דאין בורגינין מועיל זה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:23"
+        },
+        "24": {
+          "he": "[כד] מוקצין חוץ לתחום וכו'. הוא הדין תוך התחום אלא משום סיפא דלהחשיך נקט הכי וכמו שיתבאר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:24"
+        },
+        "25": {
+          "he": "[כה] בסוף התחום וכו'. דאילו בתוך התחום מותר ואפילו להחשיך לתלוש שבתוך התחום שרי כמו שכתב בשולחן ערוך משום דלא מינכרא מילתא ולא ידעתי למה השמיט מלבושי יום טוב ונראה דסבירא ליה כמו שכתב מגן אברהם דכיון שאסור לתלוש אסור לאזמוני לכך, מיהו בריש סימן ש\"ו החזקתי דין זה, ומכל מקום לומר לחבירו או לעובד כוכבים אסור לומר לו שיתלוש למחר ואפילו להביא פירות מוקצין שבתוך התחום הסכימו ט\"ז ומגן אברהם דאסור לומר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:25"
+        },
+        "26": {
+          "he": "[כו] לזמן מרובה וכו'. דסתם הלואה שלושים יום אם כן במקום שנוהגין שסתם הלואה רשאי לתבעו לאלתר רשאי לומר הלויני:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:26"
+        },
+        "27": {
+          "he": "[כז] [לבוש] תן לי וכו'. ומותר גם כן לסיים ואחזיר ואתן לך (ט\"ז):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:27"
+        },
+        "28": {
+          "he": "[כח] אין פורעין וכו'. בתוס' פרק חמישי דבבא מציעא ואגודה דאסור לומר לשון הלואה ופריעה אלא לשון שאלה וחזרה, עד כאן, ונראה לי דאף שכבר נכתב כיון שמזכיר לשון חזרה אדכר ולא אתא למחוק וכהאי גוונא כתבו תוס' ריש פרק שואל וכל זה בדבר שהוא מאכל לצורך שבת אבל בלאו הכי אסור בכל לשון עיין סימן ש\"ו ס\"ק י\"ט:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:28"
+        },
+        "29": {
+          "he": "[כט] [לבוש] אף על פי שאין לאסור וכו'. תימא עליו הא קיימא לן ריש סימן רע\"ה דאפילו הנר גבוה שני קומות אסור ובש\"ס [שבת] דף קמ\"ט מבואר דמאן דסבירא ליה הא סבירא ליה נמי הא, ועוד הא וכן מבואר בש\"ס שם והרי\"ף והרא\"ש דקיימא לן דאפילו בכותל גבוה אסור משום שמא ימחוק וכן כתב סמ\"ג רבינו ירוחם חלק ז' להדיא וכן כתב הר\"ן גבי כתב תחת הצורה, ונראה דלשון השולחן ערוך אטעיה דכתב הטעם משום שמא יקרא וכו' ובאמת אפשר דסבירא ליה נמי טעם שמא ימחוק ולא כתב טעם שמא יקרא אלא משום יש בלא חקיקה דאין בו איסור שמא ימחוק:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:29"
+        },
+        "30": {
+          "he": "[ל] [לבוש] דשמא יקרא וכו'. כן כתבו טור ושולחן ערוך ועולת שבת השיג דמסקינן בש\"ס דכותל בשטר לא מחליף גם הקשה לדעתם למה מותר בסיפא חקוק בכותל, עד כאן, ולא קשה מידי דדוקא חקוק בכותל לא מחליף בשטר אבל כתב בכותל מתליע וכן משמע בתוס' שם ורי\"ף והרא\"ש וכן משמע בסעיף ט\"ו. על מה שנוהגין ששמש קורא לסעודה מתוך הכתב איסור גמור הוא (ב\"ח), ומגן אברהם כתב דמנהג של ישראל תורה היא כיון שהוא מצוה ובסימן ש\"ו סעיף י\"ב דצרכי רבים שרי, עד כאן, וצריך עיון דאם כן תיקשי עיקר דזימון אורחיה וכו' אמאי אסור הא מצוה הוא אך פרק השואל כתב דשטרי הדיוטות ליכא בעסקי רבים מיהו מתיר שם גם באיגרת שלום אבל למאן דאוסר באיגרת נראה דאוסר גם בצרכי רבים וכן משמע בשלטי גיבורים בשם אור זרוע דף קס\"ו שאוסר אפילו כתב באיגרת ללמוד תינוק ספר ואומנות ותינוקות לארוס וכן כתב דף קמ\"ג ומהר\"ם מינץ וכן בשיירי כנסת הגדולה פסק כב\"ח וסיים וכן אין לקרות השליח ציבור מה שמתנדבין מתוך הכתב וכן מה שנוהגין לכתוב מתים שמתו באותו שנה והשליח ציבור עושה השכבות וכו' אבל לקרות השכבות ושמש מכריזין וביריד פולין ששמש קורא מתוך הכתב את מי שהוא מחרים מותר כיון שהוא פסידא וצרכי רבים על כן גם בדין אחרון צריך עיון להתיר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:30"
+        },
+        "31": {
+          "he": "[לא] [לבוש] וכל איגרת וכו'. זה דעת רש\"י אבל הרמב\"ם סבירא ליה דאין בכלל שטר הדיוטות אלא מקח וממכר כמבואר בבית יוסף ונראה דפלוגתייהו דרש\"י סבירא ליה משום ממצוא וכו' אבל הרמב\"ם פרק כ\"ג כתב הטעם שמא ימחוק ובאיגרת לא שייך שמא ימחוק עד כאן דברי ט\"ז, ותימא הא הרמב\"ם בפירוש המשנה אוסר באיגרת וכן פירש המגיד משנה דברי הרמב\"ם והביאו בית יוסף ואין ספק דאטעיה מה שכתב בית יוסף דהר\"ן כתב דרמב\"ם מתיר באיגרת ולא דק דברור דטעות סופר הוא וצריך לומר רמב\"ן דאם לא כן תיקשי דברי בית יוסף לרמב\"ם אהדדי וכן ראיתי בר\"ן גופיה פרק השואל שכתב כן בשם רמב\"ן ולא רמב\"ם ועוד תימא דהר\"ן פרק כל כתבי כתב על איסור איגרת טעם שמא ימחוק, לכן נראה דשייך גם באיגרת שמא ימחוק, גם יש לומר דלא פליג רבנן דמחליף בשטר מקח וממכר גם דלא כב\"ח ובספר שלטי גיבורים שם נראה דאיגרת שכתב בהן פסקים ודיני ופירושי התורה מותר לקרות לכולי עלמא אם הובאו מערב שבת ע\"כ כתב עולת שבת בסימן שכ\"ג דיש לאסור הציינין שעושין מכתב מה שחייב ליתן לו מן המשקה וכן הציינין שעושין מאבר ולמד כן ממה שכתב בתשובת הרא\"ש כלל כ\"ב מה שנוהגין שכותבין פלוני הניח כך וכך מעות ופלוני כך וכך ולמחר בשבת כשנותנין היין לוקח מחט ועושה נקבים כמנין היין שלוקח אסור דאסור להסתכל באותו כתב שכתבו בו סכום המעות, עד כאן, וכתב מגן אברהם משמע דאם כתב שם האיש לבדו מותר דלא איקרי שטר הדיוטות אלא שטר שכתב בו איזה ענין, עד כאן ולא נהירא דמה דנקט הרא\"ש סכום המעות היינו דהמעשה כך שרואה בו מפני הסכום מעות לידע כמה יתן לו ועוד דלא עדיף מכתב זה צורה פלוני בסעיף ט\"ו כתב מגן אברהם שם גבאי צדקה אפשר דמותרין בפתקאות וטוב להחמיר היכא דאפשר בגרעין וכן נהגו קדמונים, עד כאן, ולמאי דפרישית אף בגרעין אסור דהא צריך להסתכל אחר שם האיש היאך יניח ואפשר דסמכו בזה על דבר מצוה. הקשה מגן אברהם על הרא\"ש הנזכר לעיל הא משמע פרק הבונה דאפילו רשימה בעלמא אסור לעשות לסימן וכן כתב רמב\"ם סוף פרק י\"א הרושם רשומים בכותל חייב ואם כן כל שכן לעשות נקב דאסור, עד כאן, ונראה לי דרמב\"ם מיירי בהדיא כדרך שהציירים רושמים גם רשימה לסימן דוקא רשימה אבל לא נקב מעט, גם יש לומר שעושה נקב בדבר שאין מתקיים ועיין סימן ש\"מ סעיף ה' ובפרישה שם מצאתי זה לשונו, צריך עיון למה מתיר עשיית נקבים ואפשר דבנקב כי האי שאין בו ממש ויש בו משום עונג שבת והפסד ממון לא הקפידו לאסור וגדולה מזו התירו לשבור דלתות ליקח אוכל:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:31"
+        },
+        "32": {
+          "he": "[לב] מותר וכו'. ואם מחותם או קשור יאמר לכותי אינני יכול לקרות זה כיון שאינו פתוח (אגודה), אבל אסור לומר או לרמוז לכותי שיפתח (כנסת הגדולה), ובספר צידה לדרך משמע דמותר קצת לומר לו שיפתח כיון שאינו יודע מה כתבו בו ושמא יש הצלת נפשות ובמהרי\"ל פרק י\"ט מתיר לישראל עצמו וכל זה דלא כפרי חדש סימן קי\"ח שכתב שהוא איסור דאורייתא ועיין סיימן שי\"ד סעיף י' וסימן ש\"מ סעיף י\"ד, גם מה שתמה פרי חדש שם על הנוהגין להתיר לפתוח חותם התנור על ידי כותי ולקמן דהוא אינו לקיום ודו\"ק:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:32"
+        },
+        "33": {
+          "he": "[לג] [לבוש] לא ראיתי וכו'. המנהג שכותי מביא כתב מניחה על הארץ או על השולחן כדי שיעשה כותי הנחה וכן כששלח כותי להביא שכר חוץ לתחום ולעירוב לא יתננו בידו ולא יקחנה מידו מהר\"ם מינץ ועיין סימן שכ\"ה ס\"ק ב':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:33"
+        },
+        "34": {
+          "he": "[לד] [לבוש] דהא ראוי וכו'. ואם מקפיד על איגרת מלצור על פי צלוחית אסור לטלטלו (אשרי ריש פרק שמיני דגיטין):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:34"
+        },
+        "35": {
+          "he": "[לה] [לבוש] וכן מטעם זה וכו' תוך התחום וכו'. ובמרדכי סוף פרק קמא דביצה דאפילו הובאה בשבילו חוץ לתחום מותר משום דלא שייך שמא ירבה בזה או שמא ילך בעצמו, מיהו באגודה כתב עלה ואני נהגתי לומר לאחר לקבלו ולקרותו לו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:35"
+        },
+        "36": {
+          "he": "[לו] או וילון וכו'. ברש\"י ור\"ן לא נזכר אלא כותל ובתניא כתיבה שעל גבי צורות או בכלי כסף וזהב, עד כאן, ואיכא בינייהו דכותל כשחוקקה שוקעת מותר דלא מחליף כותל בשטרא כדלעיל אבל בווילון או בכלי כסף אסור כמו טבלא ופנקס כתב עולת שבת דאפילו יצחק ועקידתו אסור:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:36"
+        },
+        "37": {
+          "he": "[לז] [לבוש] דהוי כמו שטרא וכו'. זה לשון בית יוסף ונראה דטעמא משום דהוי שטרות הדיוטות, עד כאן, ותימא הא פירש רש\"י להדיא דף קמ\"ט גזירה שמא יקרא בשטרי הדיוטות וכן כתב הרא\"ש ושבלי הלקט סימן ל\"ג, גם ראיתי בסמ\"ק ור\"ן שכתבו טעם שמא ימחוק ולפי זה בחקיקה שוקעת אף בווילון מותר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:37"
+        },
+        "38": {
+          "he": "[לח] ואף בחול וכו'. אבל בכתב שתחת הצורה דלעיל מותר בחול כיון דמועט הוא לא אתא לאמשוכי (מהרש\"א פרק כ\"ב), והולך למיני שחוק ותחבולות הרי זה מושב ליצים (עבודה זרה דף י\"ח) ובפורים עושין זכר לאחשורוש (מגן אברהם):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:38"
+        },
+        "39": {
+          "he": "[לט] ועובר וכו'. צריך עיון דבשבת דף קמ\"ט קאמר זה על דיוקנאות אבל במליצות אילו משמע דאין בהם מושב ליצים וכן מבואר בתוס' דף קי\"ו דמייתא ברייתא זה וכתבו טעם דמושב ליצים, ואפשר דסבירא ליה כיון דיש בו מושב ליצים עובר משום בל תיפנו מדעתיכם ועיין פירוש ר\"י שם וצריך עיון, גם הא כתבו תוס' דף קמ\"ט בדיוקנא העשיות לשם עבודת כוכבים אבל לנוי מותר וכן כתב הרא\"ש וכן כתב אגודה פרק כל הצלמים ורבינו ירוחם נתיב י\"ז חלק ה' וש\"ך יו\"ד סוף סימן קמ\"ב, ואף שתוס' עבודה זרה דף נ' לא כתבו כן יחידאה הוא נגד פוסקים שהבאתי, ואפשר דספרי חשק גרע מדיוקנאות וצריך עיון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:39"
+        },
+        "40": {
+          "he": "[מ] בלשון הקודש וכו'. דהלשון בעצמו יש בו קדושה ולומד ממנו דברי תורה ולפי זה אף באיגרת הכתב בלשון הקודש שרי לקרות דיש ללמוד מתוכו הלשון וגם כתובים בו כמה פסוקים של תורה (מגן אברהם), ובזה מתורצים כל קושיות ט\"ז בזה ודו\"ק, מיהו גם הב\"ח ושל\"ה ומלבושי יום טוב ובאר שבע אוסרים אף בלשון הקודש אבל בחול מותרים וספר יוסיפון ודברי של ר\"י הכהן וכיוצא בהן דיש ללמוד מספריהם כמה דברי מוסר ויראת שמים אפילו העתיקן בלשון לע\"ז מותרים אף בשבת:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:40"
+        },
+        "41": {
+          "he": "[מא] וכן נוהגין. וירא שמים יחמיר כי הרמב\"ן ור\"ן אוסרים וכן משמע בספר צידה לדרך ואולי הרמב\"ם שהתיר לטעמיה אזול דמתיר נמי באיגרת כדלעיל ודו\"ק, ודין איצטרולוב עיין סימן ש\"ח סעיף ו':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:41"
+        },
+        "42": {
+          "he": "[מב] [לבוש] רפואה וכו'. ועיין ביו\"ד סימן קע\"ט סעיף ד' מה דמותר אפילו שלא לרפואה מכל מקום בשבת אסור משום ממצוא חפציך:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:42"
+        },
+        "43": {
+          "he": "[מג] [לבוש] והמקיל וכו'. לקרות לכותי והוא יציל מעצמו לכולי עלמא מותר (עולת שבת), ולומר ליחיד אם תציל לא יפסיד לכולי עלמא אסור אבל בדליקה מותר (שלטי גיבורים דף קמ\"ה):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:43"
+        },
+        "44": {
+          "he": "[מד] [לבוש] לא קנסינן וכו'. כן כתב בשולחן ערוך והוא דעת רמב\"ם בבית יוסף ומה תימא על כנסת הגדולה שכתב דהשולחן ערוך לא הזכיר סברת הרמב\"ם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:44"
+        },
+        "45": {
+          "he": "[מה] [לבוש] תינוק קטן וכו'. כפול בסימן שכ\"ח סעיף י\"ז ורמ\"א כתבו שם ולא הכא, כתב איסור והיתר הארוך כלל נ\"ד אם אין שם תינוק רוצה לאכול כי אם על ידי אמו מותר להאכילו חלב שחלבו כותי אף דאסור משום מוקצה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:45"
+        },
+        "46": {
+          "he": "[מו] [לבוש] שכיון וכו' נראה כשלוחו. כתב מלבושי יום טוב שלמד כן ממה שכתב הגמרא פרק חמישי דשבת ועוד תנן אין טוענין וכו' עד כדי שיצא מפתח ביתו לאו משום אמירה אך מאחר שמידו יצא נראה הדבר מבואר, עד כאן, ופירש דנראה כשלוחו, עד כאן, ובזה מיושב מה שהקשה הגמרא משולח אדם ירך עם גיד הנשה לכותים והיינו דהתם נמי מבואר הדבר ולפי זה קאי קושיא על מה דסמיך ליה, אבל במגן אברהם הבין דקאי למעלה ועל כן השמיט בהעתקתו הרבה ומקשה ומתרץ בדחוקים עיין שם, ונראה דפירש נראה הדבר מבואר היינו דהוא בעושה עקירה ועיין סימן שכ\"ה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:46"
+        },
+        "47": {
+          "he": "[מז] אבל מותר וכו'. במלבושי יום טוב האריך לאסור גם בזה שכן משמע מתוס' פרק הפועלים דף צ\"ו והרא\"ש שם עד כאן, אבל ראיתי בספר משאת בנימין שפירש שגם תוס' והרא\"ש מודים כל שאינו של ישראל וכן משמע בש\"ך ליו\"ד סוף סימן רצ\"ו, ומכל מקום ליתן לכותי נבילה לבשל ולאכול שרי כיון שמותר לעצמו ליתן לפיו של כותי מה שאין כן בישול ומלאכה בשבת שאסור לו לעשות אף לכותי ומשמע מיניה פרק הפועלים והרא\"ש דאף בערב שבת אסור ליתן ולומר לו שיבשל בשבת לעצמו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:47"
+        },
+        "48": {
+          "he": "[מח] לעשר בין השמשות וכו'. יעשר בעצמו ועיין ביו\"ד סימן של\"א סעיף ל':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:48"
+        },
+        "49": {
+          "he": "[מט] במלאכת עצמו וכו'. אבל אם התבואה של ישראל אסור לומר לכותי לפנותו וכן בכל דבר מוקצה דסבירא ליה שבות דשבות (מגיד ומגן אברהם), ואין להקשות מסימן רע\"ו סעיף ב' דמותר לומר לכותי ליטול נר דלוק וכו', דשם יש צורך שבת וצורך הגוף עיין ס\"ק ט' שם והט\"ז סימן ש\"ח סק\"ו לא דק בזה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:49"
+        },
+        "50": {
+          "he": "[נ] קעביד ושרי. ובאגודה פרק השואל מסיק דמבואר הדבר עובד כוכבים שהיה תפוס אצל שופט ליהודי שהיה חייב לו יכול לומר לשופט שיקבל ערבות מעובד כוכבים ויניח התפוס לצאת אבל לא יאמרנו שיכתבו בערבות (דרשות מהר\"ש ומלבושי יום טוב). כתב הסמ\"ע בחושן משפט סימן קל\"א ס\"ק י' דאם בא עובד כוכבים ליטול משכנו מישראל מותר לישראל להיות ערוב ובפרט בין השמשות, עד כאן, אבל מגן אברהם סימן שכ\"ה אוסר משום ממצוא חפציך. כתב בתשובת ב\"ח סימן קמ\"ו ראובן שיש לו חוב אצל עובד כוכבים ובשבת נודע שילך מן העיר ואפשר שלא ישוב עוד מותר לילך בשבת לקבול עליו לפני השר שיפרענו דבמקום פסידא לא גזרו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 307:50"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אבל מי שאינו מתענג אסור לאומרה כו'.   ל' אבל אינו מתוקן  והיה לו לכתוב אפי' מי שאינו כו' ובלבוש העתיק אבל מי שאינו כו' אסור לספרם כו' ובאמת איתא כן בת\"ה סי' ס\"א וז\"ל אמנם ראיתי הרבה פעמים שמקצת בני אדם המתאספים לספר שמועו' הללו אינם מתענגי' בריבוי שמועות הללו אלא שעושין כן לרצון חביריהם הנאספים עמהם יש חשש איסור לאותם שאין מתענגים עכ\"ל ונר' כוונתו דאותן המספרים אין להם חשק כלל לספר רק שמתכונים למלאות רצון חביריהם בזה יש חשש איסור אבל אם מתכונים שיהיה להם עונג מזה אין חשש דבזה יש גם לו עונג במה שמתענג חבירו מותר כנ\"ל חילוק נכון:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 307:1"
+        },
+        "2": {
+          "he": "אע\"פ שמבין כו'.  והטור כ' ע\"ז ומסתבר קצת לאיסור והוא תמוה מאד מ\"ש מאמיר' כל המכבה אינו מפסיד דשרי בסימן של\"ד וזהו אפי' בשבת גופיה וכ\"כ מו\"ח ז\"ל דאפי' בשבת גופיה מותר לדבר בל' רמז שיבין לעשות איזה דבר וראי' מהא דמותר לו' לישראל הנראה בעיניך שתעמוד עמי לערב ולקמן סי' זה בסופו כתב רמ\"א דאסור לרמוז לעכו\"ם כל מה שאסור לומ' לו  וכן עיקר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 307:2"
+        },
+        "3": {
+          "he": "שלא יאמר לו קנה בשבת.  ב\"י הביא דברי הג\"מ פ\"ו וז\"ל ול\"ד לכל הני דשרי ב\"ה עם השמש דכולהו אי בעי עביד מחר אי בעי ימתין ונמצא העכו\"ם קעביד אדעתא דנפשיה אבל הכא א\"א כי אם למחר ביום השוק עכ\"ל. כ' ב\"י ע\"ז יום השוק לאו דוקא אלא אורחא דמלת' נקט דאפי' אינו יום השוק כיון שהוא או' לקנות לו בשבת אסור וזהו עיקר החילוק דבהנך אינו אומ' לו שיעשה בשבת עכ\"ל ונ\"ל דנקט יומא דשוק' דבזה אפי' אם אינו מזכיר בפי' שיקנה בשבת אלא נותן לו מעות שיקנה לו סתם ובאותו מקום אינו מצוי לקנות כ\"א בשבת שהוא יומא דשוקא כמו שרגיל בעיירות קטנות ה\"ל כמזכיר יום השבת בפי' ובמקום שמצוי קצת גם בשאר ימים אין איסור אלא א\"כ מזכיר בפי' יום השבת ונ\"ל עוד דאפי' בהנהו דמתירין ב\"ה עם השמש כגון נותנין כלי לכובס עכו\"ם יש איסור אם נותן לו הכלים סמוך לשבת וא\"ל ראה שאני צריך להם במ\"ש דה\"ל כאומר בפי' שיכבסם בשבת וכן לענין אם נותן לו מעות בע\"ש לקנות וא\"ל  שילך לדרכו במ\"ש כנלע\"ד. ונ\"ל עוד במה שהתירו אם לא זכר לו שיקנה בשבת מ\"מ לא יהנה ישראל ממנו באותו שבת דעכ\"פ עשה בשביל ישראל וזה דומה לעכו\"ם שהדליק נר בשביל ישראל  ואפי' אם קוצץ לו שכר ע\"ז לא מהני דמ\"מ עושה המלאכה בשביל ישראל וכתב בסמ\"ק כי היכי דאין משלחין אגרת ביד עכו\"ם אם יודע שנושאו בשבת אלא א\"כ קוצץ לו דמים כן הוא בנותן לו מלבושים למכור משמע דבלא קצץ יש איסור בכל גוני כמו באגרת:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 307:3"
+        },
+        "4": {
+          "he": "דיש מקילין וכו'.  והיינו בעל העיטור וכבר כ' רמ\"א לעיל דיש להחמיר וכן עיקר כי הוא יחיד נגד רבים וכן מסיק מו\"ח ז\"ל. כתב ב\"י בשם הגמ\"ר וז\"ל כתב עוד שם בשם ראבי\"ה דאמירה לעכו\"ם בדאורייתא נמי לא אסירה אלא בדבר שא\"א למצוא תקנה ע\"י ישראל לעשותו כגון להחם חמין אבל אם אפשר לעשותו כגון בר\"ה דיכול להביא ע\"י מחיצות בני אדם שריא אמירה לעכו\"ם והיכ' דאיכא למימר דלמא אתי לאחלופי בר\"ה אסור אמירה לעכו\"ם אפי' באיסור דרבנן אפי' לדבר מצו' כדאמרי' גבי ינוקא דאשתפך חמימיה עכ\"ל והקש' ב\"י ע\"ז שזה סותר מ\"ש קודם לכן בסמוך שאם אפשר לעשותו כגון בר\"ה דיכול להביא ע\"י מחיצת ב\"א שרי וצ\"ע עכ\"ל ומו\"ח ז\"ל תי' דזה מיירי מחצר לחצר שלא עירבו ואתו לאחלופי להוציא מרה\"י לר\"ה ושם ליכא תקנתא דמחיצה של ב\"א דאסור אמירה לעכו\"ם כדמוכח מההוא ינוקא כו' עכ\"ל ולעד\"נ דמחיצ' ב\"א מועלת גם בר\"ה לענין הוצאה מרה\"י דכל שעומדי' ב\"א מן הפתח היוצא לר\"ה ולהלן ה\"ל כל אותו צד שבין האנשים כרה\"י וא\"כ מותר להוציא לשם מרה\"י כדין מרה\"י לרה\"י ותו קשה דהא בעובדא דינוקא פ' הדר (עירובין דף ס\"ח) מבואר דדרך חצירות שלא עירבו היה המעשה והורה רבה  להביאו ע\"י עכו\"ם ונלע\"ד לישב הדברים דמ\"ש בעל הגמ\"ר היתר בר\"ה ע\"י מחיצה של ב\"א אין זה דומה למ\"ש בסי' זה לקמן דמותר לומר לחבירו לך עמי לכרך פלוני למחר שהיום יכול לילך ע\"י בורגנין והיינו אפי' אין שם בורגנין אלא כיון שיש צד היתר אם היו שם בורגנין כמ\"ש ב\"י לקמן אבל כאן שיש היתר לו' לעכו\"ם כיון שיש היתר ע\"י מחיצה היינו ביש שם ב\"א שאפשר לעשות מהם מחיצה דאז אין איסור טלטול רובץ עליו כלל שאפשר לעשו' בהיתר ע\"כ מותר על ידי אמירה לעכו\"ם אבל אם אין שם אפשרות לעשות מחיצה מב\"א אסור אמירה לעכו\"ם דהא עכ\"פ עכשיו איסור גמור היום בלא אמירה לעכו\"ם וכל שאסור לישראל אסור באמירה לעכו\"ם לעשות היום משא\"כ בההיא דלקמן שלא יעשה שום דבר היום על אמירה שיעשה למחר בזה מהני כל שאפשר בהיתר אע\"פ שבאמת אינו וע\"כ מתורץ שפיר בהגמ\"ר דכל שאפשר לו להתחלף בר\"ה דהיינו בכרמלית שיש לו דמיון לר\"ה ואין לו בני אדם לעשות מהן מחיצה אז אסור אפי' באמירה דרבנן וע\"ז כ' כדאמרי' גבי ינוקא דאשתפיך חמימיה דכתב שם קודם לזה בהגהות פ\"י וז\"ל ואפי' לו' לעכו\"ם להביא דרך כרמלית אסור וראיה מפרק הדר בינוקא דאשתפיך חמימיה דאמר התם ולימא לעכו\"ם וניתי מגו ביתיה פי' דרך גגות חצירות וקרפיפות כו' עכ\"ל הרי מבואר דסבירא ליה דדוקא דרך גגות חצירות וקרפיפו' מותר ולא דרך כרמלית והטעם דכרמלית יש לו דמיון לרה\"ר ומבואר שם דבגמר' איירי דרך גגות וחצירות וקרפיפות דהם קילי מכרמלית דהלכה כר\"ש דאמר רשות א' הן כנ\"ל בזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 307:4"
+        },
+        "5": {
+          "he": "ודוקא שעדיין שכר כו'.  נראה פשוט דלא בעינן ודאי אצלו אלא גם אם הוא מסופק אם יש עדיין אצלו ע\"כ בא לחשבון ואע\"ג שלפי החשבון אין להם כלום אצלו אסור כיון דהחשבון היה לצורך אצלו משא\"כ אם קודם החשבון ברור לו שאין להם אצלו נמצא שהחשבון ללא תועלת ובזה דוקא שרי דנקרא חשבון של מה בכך מ\"מ יש למנוע מזה מצד שיחה בטילה בשבת  ומבואר בר\"י שאם יש צורך בחשבון לאחר גם כן אסור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 307:5"
+        },
+        "6": {
+          "he": "אני הולך למחר.  נראה דוקא בל' זה מותר אבל אסור לומר שילך בקרון שקורין בל\"א פארי\"ן דהא היום אין הועיל בורגנין לזה והעולם אינם מרגישים בחילוק זה והוא פשוט:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 307:6"
+        },
+        "7": {
+          "he": "בורגנין.  פי' סכות שומרים שכל א' מובלעת בתוך ע' אמה וד' טפחים של חבירתה שעי\"ז יכול לילך כמה פרסאות כמ\"ש בעזה\"י וכבר זכרתי בסמוך שכאן מיירי אפילו אין שם באמת בורגנין אלא כיון שנוכל למצוא היתר וזהו על הליכה למחר כמ\"ש בסמוך פי' הגמ\"ר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 307:7"
+        },
+        "8": {
+          "he": "פירות מוקצים כו'.  קשה אפי' בתוך התחום נמי אסור לו' לו הביאם לי למחר כיון שא\"א להביאם היום ובגמ' ליתא זה  אלא לענין מחשיך על התחום דאסור בשביל תיבנא סריא דהיינו מוקצה או פירו' מחוברים וכ' ה\"ה בשם התו' דבתוך התחום מותר להחשיך כדי לתלוש פירו' דלא מנכרא מלתא והא דתנן לא יהלך אדם בסוף שדהו כו' וכן לא יהלך לטייל על פתח המדינה כדי שתחשך וילך למרחץ מיד י\"ל דהתם שהשדה צריכה לניר וכן ביש שם מרחץ מנכרא מלתא ואתי לידי חשדא עכ\"ל ונזכר כאן בס\"ט אבל כאן לענין אמיר' לחבירו דלא משום חשד' אסור אלא משום שיש איסור משום דבור של חול אפי' תוך התחום נמי אסור כל שאין לו היתר היום ע\"כ נראה ברור דגם תוך התחום אסור באמירה זו אלא שהטור וש\"ע נקטו אח\"ז וכן אסור לו להחשיך בסוף התחום כו' דשם דוקא חוץ לתחום אסור כמ\"ש ה\"ה נקט נמי כאן תוך התחום ולאו דוקא הוא כאן ואף ע\"ג דבגמרא אמרינן דאמירה ומחשיכין שווין הם היינו במידי דתלוי באיסור תחום אבל כמו איסור מוקצ' ודאי אסור באמירה טפי מחשיכה מטעם שאמרנו ומו\"ח ז\"ל כתב להשוו' זה להחשיך תוך התחום דמותר ול\"נ כן וכ\"מ גם כן מדברי הרא\"ש שהביא רמ\"א בסמוך וכן לא יאמר אעשה כו' פי' מה שאין בו צד היתר היום כ\"כ הרא\"ש  וזהו אפי' תוך התחום:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 307:8"
+        },
+        "9": {
+          "he": "תן לי.  נראה דמותר ג\"כ לסיים ואחזיר ואתן לך דעיקר הטעם שמא יכתוב ולא חשו בזה אלא בל' הלויני שהוא לזמן מרובה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 307:9"
+        },
+        "10": {
+          "he": "חקק בכותל.  דכותל בשטר לא מחלף אבל טבלא ופנקס שהם מטלטלים מחלף בשטרי הדיוטות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 307:10"
+        },
+        "11": {
+          "he": "ואגרות של שאלת שלום.  זהו דעת רש\"י אבל הרמב\"ם ס\"ל דאין בכלל שטרי הדיוטות אלא מקח וממכר כמבואר בב\"י ונראה דפלוגתייהו תלוי בזה דהרמב\"ם כת' טעם איסור זה משום שמא ימחוק כמבואר בפי' בפכ\"ג ולכאורה י\"ל ממ\"ש בגמ' טעם מתני' דלא ימנה אדם מתוך הכתב רב ביבי אמר שמא ימחוק אביי אמר שמא יקרא בשטרי הדיוטות ולהרמב\"ם קשה הא כ\"ע ס\"ל שמא ימחוק בשטרי הדיוטות וא\"כ במה הם חלוקים רב ביבי ואביי וצ\"ל דר\"ב אמר כאן במשנה הוי הטעם שמא ימחוק ודרך לכתוב בכותל את אורחיו וע\"כ אין איסור אלא אם יכתוב בכדי שיכול למחוק אבל לא למעלה במקום שאינו יכול למחוק ואביי ס\"ל אפי' למעלה אסור משום שאר שטרי הדיוטות שהגזרה בהם משום שמא ימחוק ומש\"ה מותר באגרת שלום שאין שייך בו שמא ימחוק ורש\"י ושאר מפרשים שמביא ב\"י דאוסרים באגרת שלומים והוא בכלל שטרי הדיוטות ס\"ל הטעם משום ממצוא חפציך ודבר דבר שלא יעשה כמעשה חול וא\"כ אין לאסור האידנא לשמש שקורא בכתב הצעטיל המזומנים לסעודה כי יש לנו לסמוך על הרמב\"ם ורמב\"ן שכתב הרשב\"א במי שקורא באגרת שלום בשבת שאין לגעור בו כיון שסומך על הרמב\"ן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 307:11"
+        },
+        "12": {
+          "he": "שלא יגע בה.  המנהג שהעכו\"ם המביא הכתב מניחה על הקרקע תחלה ומהר\"מ מינץ בתשובה סימן קי\"ז נתן טעם דלא יעשה ישראל המקבל הכתב גמר הוצאה מרשות לרשות דהיינו העכו\"ם עושה עקירה וישראל הנחה. ואין זה נ\"ל דבר\"ה דאורייתא אמרינן ריש שבת דאסור מדרבנן אע\"פ שאין עושה אלא עקירה לחוד או הנחה לחוד אבל בכרמלית אין איסור בזה ויתבאר עוד סי' שכ\"ה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 307:12"
+        },
+        "13": {
+          "he": "אבל בל' הקודש שרי כנ\"ל מדברי התוס' כו'.  היינו ממ\"ש וז\"ל ומיהו אותן מלחמות הכתובים בלע\"ז נר' לר\"י דאסור לעיין בהם דלא גרע מכתב שתחת הצורה וכו' עכ\"ל ונר' דצ\"ל דלא עדיף ומזה יליף רמ\"א להתיר ל' הקודש ואינה הוכחה דתוס' נקטי כן למראה מקום על אותן מלחמות ונתנו בהם סימן שכתובים בלשון לע\"ז אבל הל' בעצמו אין בו קדושה שהרי מצינו בפ\"ק דשבת דבמרחץ אפי' דברים של חול יכול לספר בלה\"ק ותו דאכתי לא יצאנו מן מושב לצים אע\"פ שכתובים בלה\"ק שזכרו התוס' במלחמות דבליצנות אין חילוק בל' וכבר חלק מו\"ח ז\"ל ע\"ז וכן עיקר ונראה פשוט שכל שאסור לקרות בו אסור לטלטלו בשבת כמ\"ש ב\"י ססי' ש\"ח בשם רשב\"א בתשובה גבי אצטרול\"ב:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 307:13"
+        },
+        "14": {
+          "he": "בכדי שיעשו.  זה דעת רמב\"ם וב\"י הביא בשם רי\"ו דאסור לו לעולם משום קנס כך דקדקו הפוסקים בפ' השוכר את הפועלי' עכ\"ל ופסק כרמב\"ם ולעד\"נ לפרש מאמר אחד בפרק שואל כשיטת רי\"ו דאמרינן ת\"ר מעשה בחסיד א' שנפרצה לו פרצה בתוך שדהו ונמלך עליה לגודרה ונזכר ששבת היתה ונמנע אותו חסיד ולא גדרה ונעש' לו נס ועלת' לו צלף וממנו הית' פרנסתו וכו' ק' למה קראוהו חסיד במה שלא גדר בשבת ותו מאי נמלך דאמר מה ספק היה ליעץ ע\"ז ונ\"ל דתחלה ידע ג\"כ דשבת היתה רק שנמלך לגדור ע\"י עכו\"ם כדאיתא בסמוך לענין להציל מההפסד וע\"ז נזכר ואמר דזה אסור דשבת היא כלומר משום שבות דשבת ונמנע גם בחול מלגודר' כרי\"ו דכאן ואע\"ג דלא עביד מעשה ע\"י אלא דמחשבה היתה זה היה החסידות שלו שפסק אנפשיה דמחשבה כמעשה. ועוד נראה לי לומר דבשבת היה מתיעץ האיך יגדור בחול והיה סבור שאין זה חטא ואח\"כ נתחרט כיון שבשבת חישב על זה ובשביל זה לא גדר אפי' בחול כדי שלא יהנה ממחשבה זו וזה עיקר כי כן הוא בירושלמי בהדיא: כתוב בס\"ח שאסור להזכיר בשבת מאוהב שלו שמת:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 307:14"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "אסור לספר בשבת איזו דבר שמצער בו (ס\"ח ק\"י): אעשה למחר. ואפי' דבר מצוה (ס\"ח רס\"ו) כתב האגודה אסור לעכב העכו\"ם בשבת בשביל החוב אבל יכול לומר בחול לשופט מדוע לא עכבת העכו\"ם בשבת, אסור לעכב נכסי ראובן ביד שמעון (רשד\"מ ח\"מ ק\"ה):",
+          "en": "",
+          "ref": "Magen Avraham 307:1"
+        },
+        "2": {
+          "he": "לשכור לו פועלים. אבל בדבר שאינו אלא חומרא בעלמא שרי לו' לעכו\"ם (רד\"ך ח\"ב וע' בר\"ש יונה נ\"א):",
+          "en": "",
+          "ref": "Magen Avraham 307:2"
+        },
+        "3": {
+          "he": "אסור ליתן. וז\"ל הג\"א /הגמ\"י/ אסו' ליתן לעכו\"ם מעות בע\"ש שיקנה לו למחר ביום השוק ול\"ד למ\"ש בסי' רנ\"ב דשרי ובסימן רמ\"ז דהתם אם ירצה העכו\"ם לא יעשה עד למחר ביום החול אבל הכא א\"א לו כי אם למחר ביום השוק עכ\"ל משמע בהדיא דאפי' אינו או' לו לקנות בשבת אסור כיון דא\"א לקנות כ\"א בשבת דאי אומר לו לקנות בשבת אפי' בכל השבוע אסור כמ\"ש בהג\"מ דדמי לפוסק לשבות ע\"ש שכ' שאין היתר אלא לומ' קנה לעצמך וכו' וזה ברור דלא כב\"י וה\"ה כשיום השוק בשבת אסור ליתן לו דבר למכור וכ\"כ בס' מ\"כ וכת' דבד' וה' מותר כמ\"ש סי' רמ\"ז ורנ\"ב וכ' בס\"ח אל ידור אדם בעיר שיום השוק בשבת כי א\"א שלא יחטא ואם השוק אינו בשכונת היהודים שרי (כ\"ה):",
+          "en": "",
+          "ref": "Magen Avraham 307:3"
+        },
+        "4": {
+          "he": "וכן מותר ליתן. עסי' רמ\"ה ס\"ה והע\"ש לא ע\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 307:4"
+        },
+        "5": {
+          "he": "מבית ישראל. בשבת אסור דע\"כ לא שרי אלא מבע\"י קצת אבל בשבת אסור וכמ\"ש סימן רנ\"ב ועמ\"ש סימן ש\"ה סכ\"א וסי' רמ\"ז:",
+          "en": "",
+          "ref": "Magen Avraham 307:5"
+        },
+        "6": {
+          "he": "לענוש העושה. לפי עשרו בממון או במלקות אם אין לו ממון [שם] וכתב ר\"א ששון סימן קנ\"ו דאם טעה שסבר שמותר אין עונשין אותו ונאמן לומר שעשה בשוגג וי\"א דהכא מיירי בשכיר יום אבל בקציצת דמים מותר והביא ראיות לדבר ועל כל זה לבי נוקפי עכ\"ל וע' בסימן רנ\"ב משמע דאפי' קצץ אסור כיון שעשה בשבת עמ\"ש שם ס\"ב בשם הגמ\"ר ונ\"ל דאפילו יחד לו מקום אסור כיון שהסחורה של ישראל ומיהו אם העכו\"ם לקחה מבית הישראל קודם השבת אף על פי שמפליג בשבת שרי:",
+          "en": "",
+          "ref": "Magen Avraham 307:6"
+        },
+        "7": {
+          "he": "מקצת חולי. דאלו בחולה ממש הכולל כל הגוף או שיש בו סכנת אבר אפי' ישראל עושה שבות לחד מ\"ד כמ\"ש סי' שכ\"ח סי\"ז ושבות שלא כדרכה אפי' במצטער שרי כמ\"ש שם סל\"ג: ודע שאין מדמין דבר לדבר בעניני השבותים ואין לך בם להתיר אלא מה שאמרו חכמים דלגבי מילה לא התירו שבות כמ\"ש סי' של\"א ס\"ו וגבי לוקח בית בא\"י מותר כמ\"ש סי' ש\"ו סי\"א עכ\"ד המ\"מ פ\"ו ומשמע מדבריו שהיה גורס בהרמב\"ם מקצת חולי או מצטער (פי' קצת צער) [מ\"מ] וכ\"כ הטור בשמו ול\"ג או יהיה צורך הרבה אבל מדברי הראב\"ד משמע דגרס ליה שכתב וז\"ל א\"א אם היה מקצת חולה הוא בעצמו עושה וכו' וכן אמרו במקום הפסד כגון צנור כמ\"ש סי' של\"ו ס\"ט עכ\"ל ובהגמ\"ר פ' ב\"ט כתב דגבי צנור שרי משום שלא יבא לתקן בידים אבל שאר שבותים אסור כמ\"ש סי' של\"ד סכ\"ו ובריב\"ש סימן שפ\"ז כתב דאפי' לומר לעכו\"ם לעשות שבות אסור אפי' במקום פסיד' דהא כיבוי נמי הוא מלאכ' שא\"צ לגופה וגם עכו\"ם שהביא דורון אסור אף על פי שלא עשה אלא איסור דרבנן וכו' ע\"ש כמ\"ש סי' שכ\"ה והר\"ן פ' חבית כתב ג\"כ לחד שינויא דשבות כדרכו אסור אפי' ע\"י עכו\"ם במקום פסידא ולחד תירוצא כתב דשאני כיבוי כיון דאם צריך לגופו היה חייב מה\"ת ואין הכל בקיאים בזה לפיכך אסור אפי' ע\"י עכו\"ם ובסי' של\"ד ס\"ב כתב די\"א דאפי' שבות דשבות אסור כמ\"ש הרשב\"א בתשו' סי' תשפ\"ד וסי' תשכ\"ב לכן נ\"ל דבמקום הפסד גדול יש להתיר שבות ע\"י עכו\"ם אפי' כדרכו ושבות ע\"י ישראל שלא כדרכו אבל בלא\"ה אין להקל כלל עסי\"ט:",
+          "en": "",
+          "ref": "Magen Avraham 307:7"
+        },
+        "8": {
+          "he": "ויש אוסרין. דס\"ל במילה שרי שבות דשבות דהיא עצמה דחי' שבת וצ\"ע דבעירובין דצ\"א אמרי' דבשעת הסכנה היו מעלין ס\"ת מגג לחצר לקרות בו משמע דשרי לטלטל חוץ לעירוב מפני קריאת התורה וצ\"ל דאין מדמין בשבותין וכמש\"ל:",
+          "en": "",
+          "ref": "Magen Avraham 307:8"
+        },
+        "9": {
+          "he": "מותר. דחשבונות שא\"צ מותר לחשבן בשבת:",
+          "en": "",
+          "ref": "Magen Avraham 307:9"
+        },
+        "10": {
+          "he": "לחבירו. אבל לעכו\"ם אסור לפי שהוא [רוצ'] לדעת אותה מלאכה (הג\"א פ\"ק דע\"א ד\"מ) אבל בתו' בשבת דף ק\"ן דוחין זה דטעמא דשרי משום דהרהור מותר ל\"ש עכו\"ם ל\"ש ישראל:",
+          "en": "",
+          "ref": "Magen Avraham 307:10"
+        },
+        "11": {
+          "he": "לכרך פלוני אני וכו'. ופי' הרמב\"ן והרשב\"א ז\"ל שא\"ל לשם אני הולך למחר בא עמי דאי לא מאי קאמר פשיטא עכ\"ל המ\"מ פכ\"ד משמע דאם אמר דבר זה אעשה למחר אפי' בדבר שאין היתר לעשותו היום שרי וכ\"מ מל' הרמב\"ם שכ' אסור לדבר עם שותפו מה ימכור או יקנה למחר או היאך יבנה וכו' משמע דוקא כשמתיעץ ומתחשב מה יעשו אבל לדבר דבר זה אעשה שרי וכ\"מ בב\"י שכת' וז\"ל כתב רוקח אינו יכול לומר אני חפץ לרכוב למחר כי אינו יכול להשכיר בשבת ע\"כ ונ\"ל בא\"ל כן כדי שיזמין לו סוס לרכוב עליו מיירי עכ\"ל ב\"י משמע דבלא זה שרי אבל דעת הרא\"ש לאסור כמ\"ש רמ\"א בהג\"ה ואפשר דגם המ\"מ ס\"ל כן ע' בתוספות וא\"כ אסור לומר אני ארכוב למחר רק יאמר אני הולך וכן כששואל אותו ישאל אותו אם ילך למחר:",
+          "en": "",
+          "ref": "Magen Avraham 307:11"
+        },
+        "12": {
+          "he": "חוץ לתחום פירות. אבל בתוך התחום כיון דשרי להחשיך כמ\"ש ס\"ט שרי לומר לחבירו (ב\"ח) ול\"נ דא\"כ יהא מותר לו' לחבירו שיתלוש פירות תוך התחום וזה פשיט' דאסור כמ\"ש ס\"ז דאפי' לומר לו היה נכון עמי לערב אסור דכללא כייל דכל שאני זכאי באמירתו רשאי להחשיך וכו' דמשמע שהם שוים קאי אסוף התחום ומשום איסור תחום שוים וכ\"מ ברא\"ש וברמזים וברי\"ו ולכן נ\"ל דנקט חוץ לתחום וכו' משום דקבעי למתני' וכן אסור להחשיך וכו' ופשוט דאפי' דבר שיש בו היתר בשבת אסור לומר לעכו\"ם לעשותו בשבת ועסי' שכ\"ה ס\"ח וס\"י דאפי' בדיעבד אסור ודברי הב\"ח כאן צע\"ג ע\"ש גם מ\"ש דע\"י מחיצה של בני אדם אסור להוציא מרה\"י לרה\"ר זה אינו כדאיתא סי' שס\"ב ס\"ה ובגמ' דמחיצה מעלייתא היא ופשוט בגמ' דמותר לו' הבא לי דבר זה למחר שאם היה מחיצות היה מביא היום גם מ\"ש בשם התו' דלחבירו ל\"ד ליתא דכתבו כן אאידך דינא כמ\"ש ס\"ז:",
+          "en": "",
+          "ref": "Magen Avraham 307:12"
+        },
+        "13": {
+          "he": "משום דמנכרא מלתא. ול\"ד למ\"ש סי' ש\"ו ס\"א דהתם הוא תוך שדה שהיה צריכה לחרוש ולעבוד מינכרא מילתא וכן מטייל לפתח המדינ' שהמרחץ שם מנכר' מילת' ואתי לידי חשד (מ\"מ פכ\"ד בשם התו' והרמב\"ן ורשב\"א ורמב\"ם) וצ\"ע דבפ\"ג דעירובין אמרי' בהדי' דאפי' בסוף התחום לא מנכר' מלתא דאי צורבא מרבנן הוא אמרי' שמעת' משכתיה ואי ע\"ה הוא אמרינן חמרא אירכס ליה וטעמ' דאסור פירש\"י דכל מידי דאסו' ליה למיעבד בשבת אסר ליה לאזמוני נפשיה להאי מידי עכ\"ל וה\"נ כיון שאסור לתלוש פירות ליתסר לאזמוני נפשיה לכך וע\"ז תי' התו' כיון דלא מנכרא מלתא כ\"כ שרי אבל להחשיך בסוף התחום אפי' לא מינכרא מילתא אסרו חכמי' משום ממצוא חפציך כמו שאסרו הדיבור בדבר שאין בו צד היתר ודברי המ\"מ צ\"ע:",
+          "en": "",
+          "ref": "Magen Avraham 307:13"
+        },
+        "14": {
+          "he": "לזמן מרובה. דסתם הלואה ל' יום אבל שאלה זמנו לאלתר וא\"כ במקום שנוהגין שסתם הלואה רשאי לתבעו לאלתר כמו שנוהגין במדינתינו רשאי לומר הלויני ומשמע בגמרא דוקא יין ושמן ודבר שהוא צורך שבת אבל דבר שאינו צורך שבת אסור להניח משכון ועמ\"ש סי' ש\"ו ס\"ו דקא' וכן ע\"פ שחל וכו' מניח טליתו משמע דבשאר דברים אסור רק לצורך קרבן או אכיל' ושתיה וכ\"מ בר\"ן פ\"ק דשבת שהקשה היאך מותר להתפיס מטלטלין לכתובתה הא הוי קונה קנין בשבת וכו':",
+          "en": "",
+          "ref": "Magen Avraham 307:14"
+        },
+        "15": {
+          "he": "אין פורעין. ז\"ל הריב\"ש אסור לפדות הבן דלא יהא אלא פורע חובו שאסור כדאמרינן משום לוים ופורעין בי\"ט עכ\"ל, והתו' פרק ה' דב\"מ כתבו דאסור לומר ל' הלואה ופריעה אלא ל' שאלה וחזרה עכ\"ל ודוקא בדבר שהוא מאכל וצורך שבת אבל בלא\"ה אסור בכל ל' עמ\"ש סימן ש\"ו ס\"ז:",
+          "en": "",
+          "ref": "Magen Avraham 307:15"
+        },
+        "16": {
+          "he": "זימן אורחים. כתב ב\"ח מה שנוהגין שהשמש קורא לסעודה מתוך הכתב אסור נהי דלשמא ימחוק ליכא למיחש אלא כשבעל הסעודה בעצמו קורא מ\"מ איכא למיגזר משום שמא יקרא כו' עכ\"ל ואני אומר מנהג ישראל תורה הוא דהא חשבונות של מצוה שרי כמ\"ש סימן ש\"ו ס\"ו ולא גזרינן אטו חשבונות שאינן של מצוה כ\"ש הכא דהוא גופה גזירה אטו שטרי חשבונות דשרי בשל מצוה וע\"ש סי\"ב דצרכי רבים שרי:",
+          "en": "",
+          "ref": "Magen Avraham 307:16"
+        },
+        "17": {
+          "he": "חקיקה שוקעת. אבל בולטת אסור דגזרינן שמא ימחוק ואפי' גבוה הרבה דלא פלוג כמ\"ש סי' ער\"ה:",
+          "en": "",
+          "ref": "Magen Avraham 307:17"
+        },
+        "18": {
+          "he": "בטבל' ופנקס וכו'. דמחלף בשטרא אבל כותל בשטר לא מיחלף שכיון שהוא חקוק כ\"כ הב\"ח דלא כע\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 307:18"
+        },
+        "19": {
+          "he": "מותר. דשמא כתב בו דבר שצריך לו ולא מקרי שטרי הדיוטות (ב\"י רי\"ו):",
+          "en": "",
+          "ref": "Magen Avraham 307:19"
+        },
+        "20": {
+          "he": "שלא יגע. וכתב הלבוש ולא ראיתי נוהגין כן וכ\"כ הרב\"י שמנהג פשוט ליגע בו וז\"ל רמ\"מ סי' קי\"ו עכו\"ם המביא כתב חוץ לעירוב יש דיעות חלוקות א\"ז אוסר ומהר\"מ וראבי\"ה מתירין ובאגודה כתב אני נהגתי לומר לאחר לקבלו ולקרותו אולי יש בו צורך נפש ואם הוא חתום או קשור אני אומר לעכו\"ם איני יכול לקרותו כל זמן שאינו פתוח ע\"כ (משמע דאסור לומר לפתחה) וכ\"כ בזכרונות (ועמ\"ש ססי' תקי\"ט) וכן נהגו עלמא כמהר\"מ וראבי\"ה דהם בתראי ועתה באתי לפרש טעם האוסרין דחיישינן שמא טרם שעומד השליח לפוש יקח היהודי הכתב מידו לכן צריך להניחו על הארץ או על השלחן כדי שיעשה העכו\"ם הנחה וכן כששולח עכו\"ם להביא שכר חוץ לעירוב לא יתננה בידו ולא יקחנה מידו (ועמ\"ש רסי' שכ\"ה) עכ\"ל רמ\"מ וגם הג\"מ פ\"ב די\"ט כתבו שהורה מהר\"מ להתיר דאין כאן גזירה שמא ירבה בשבילו ומשום לך והבא נמי ליכא ומשום מוקצה נמי ליכא עכ\"ל ואפשר דהאוסרין ס\"ל דהוי מוקצה משום שלא היה דעתו עליו כמ\"ש ססי' תקט\"ו ובמוקצה דחוץ לתחום אפילו ר\"ש מודה כמ\"ש סי' תצ\"ח ס\"ג ועיין מ\"ש ססי' תקט\"ו ובגיטין רפ\"ח כתב הרא\"ש דאם מקפיד על איגרת לצור ע\"פ צלוחיתו אסור לטלטלו עמ\"ש סי' ש\"ח:",
+          "en": "",
+          "ref": "Magen Avraham 307:20"
+        },
+        "21": {
+          "he": "אסור לקרות בו בשבת. אבל בחול מותר דכיון דדבר מועט הוא ליכא למיחש לאמשוכי (מהרש\"א):",
+          "en": "",
+          "ref": "Magen Avraham 307:21"
+        },
+        "22": {
+          "he": "משום מושב לצים. וה\"ה ההולך לטרטיאות וקרקסיאות והם מיני שחוק כדאיתא בע\"א דף י\"ח ומיני תחבולה ולא ידענא מי התיר להם בפורים ואפשר שנמשך להם משחוק שעושים זכר לאחשורוש ועבב\"י בח\"מ סימן קס\"ג ס\"ט:",
+          "en": "",
+          "ref": "Magen Avraham 307:22"
+        },
+        "23": {
+          "he": "ועובר משום. התוס' והרא\"ש כתב דדוקא בדיוקנא העשויה לשם ע\"א עובר ע\"ש אבל בע\"א דף נ' כתבו התוס' דאפי' בכל דיוקנא אסור אלא בצורתא דזוזא שרי שרגיל לראות בה תדיר ולא שייך הפנאה והעולם נוהגין כסברא ראשונה ונ\"ל דראיה בעלמא שרי לכ\"ע ערסי' רכ\"ט:",
+          "en": "",
+          "ref": "Magen Avraham 307:23"
+        },
+        "24": {
+          "he": "בלה\"ק שרי. דהל' בעצמו יש בו קדושה ולומד ממנו ד\"ת וגט מותר לטלטלו אף על פי שכתב  בלע\"ז דיכול ללמוד ממנו דיני גט (ד\"מ וכ\"כ המט\"מ) אבל של\"ה אוסר וכ\"מ באגודה וב\"ח כתב דבחול מותר ובשבת אסור אף בלה\"ק ולדעת רמ\"א אף אגרת שלום הכתובה בלה\"ק שרי לקרות דיש ללמוד מתוכו הל' וגם כתובים בו כמה פסוקים של תורה:",
+          "en": "",
+          "ref": "Magen Avraham 307:24"
+        },
+        "25": {
+          "he": "באצטרול\"ב. היינו כלי של החוזים בכוכבים:",
+          "en": "",
+          "ref": "Magen Avraham 307:25"
+        },
+        "26": {
+          "he": "לשאול. ז\"ל רי\"ו ח\"ט לשאול מן השד משום רפואה כל דבר שמותר בחול מותר בשבת כך פשוט בפרק חלק עכ\"ל נ\"ל דדקדק משום רפואה משום דגרסינן בחלק אין שואלים מן השד בשבת (פרש\"י כשאובדין שום דבר שואלין במעשי שדים והם מגידים להם אסור בשבת משום ממצוא חפציך) רי\"א אף בחול אסור מפני הסכנה והלכה כר\"י משמע דאפי' דבר שמותר בחול כמ\"ש בי\"ד סי' קע\"ט סי\"ו אסור בשבת משום ממצוא חפציך אא\"כ משום רפואה כמ\"ש סי' ש\"ו ס\"ז ע\"ש והרב\"י דילג משום רפואה ונתן מכשול למעיינים:",
+          "en": "",
+          "ref": "Magen Avraham 307:26"
+        },
+        "27": {
+          "he": "ויש מי שאומר. והמקיל לא הפסיד (לבוש):",
+          "en": "",
+          "ref": "Magen Avraham 307:27"
+        },
+        "28": {
+          "he": "בכדי שיעשו. ובלבד שלא יהא דבר של פרהסיא כמ\"ש סימן שכ\"ה סי\"ד וססי' תרס\"ד (הרמב\"ם):",
+          "en": "",
+          "ref": "Magen Avraham 307:28"
+        },
+        "29": {
+          "he": "אסור לו'. ז\"ל הרמב\"ם פ\"ו דין כ\"א עכו\"ם שהביא חפציו בשבת והכניסן לבית ישראל אפי' א\"ל הניחן בזוית זו מותר עכ\"ל וכתב המ\"מ דע שאמירה לעכו\"ם לעשו' מלאכת העכו\"ם עצמו שרי וחפצי העכו\"ם אלו מפקידן אצל ישראל ואפי' יביאם לישראל ויהיו דברים שאסורין בטלטול כיון שהם ביד עכו\"ם רשאי לומר לו לפנותן לאיזו מקום שירצה ואין כאן שבות דשבות כיון שהם ביד עכו\"ם עכ\"ל ועססי' זה וסי' ש\"ח ס\"ד, וכ\"כ הרקנ\"ט בפסקיו סי' ק\"ב והגמ\"ר פ\"ה דבדבר שאין הישראל נהנה ממנו מותר לעכו\"ם לומ' לעשו' והא דאסור לומ' לו חסום פרתי ודוש בה אפי' הדישה של עכו\"ם דהתם נהנה בו שמרבה לו שכר במה שחוסמו אבל חסום פרתך ודוש בה שרי (וע' בח\"מ סי' של\"ח) ויש לשאול דתנן שולח אדם ירך לעכו\"ם אף על פי שגיד הנשה בתוכה אלמא מותר לומר לעכו\"ם לאכול ג\"ה ומעשים בכל יום שאנו מאכילין עבדינו טריפות וי\"ל באכילת העכו\"ם שהדבר מוכיח ונרא' שהעכו\"ם להנאת עצמו קמכוין חשבינן כאומר לעכו\"ם עשה מלאכתך עכ\"ל, והנה לכאורה קשה מאי קא מקשה מדתנן שולח ג\"ה לעכו\"ם הא כבר כתב דבדבר שאין הישראל נהנה ממנו שרי וצ\"ל דס\"ל דכיון שהישראל נותן לו לאכול חשיב הנאה דהא כיון שנתן לו ע\"כ ניחא ליה שיאכל וא\"כ אסור ליתן לו בשר שיבשל לעצמו אבל מותר לומר לו בשל בשר שלך וכ\"מ בא\"ע ססי' ה' ובי\"ד סי' רצ\"ז וכ\"כ בת\"ח בשם רא\"ם ומותר לומר לעכו\"ם כבה דליקתך:",
+          "en": "",
+          "ref": "Magen Avraham 307:29"
+        },
+        "30": {
+          "he": "לעשר ב\"ה. הקשה הרב\"י בסי' שמ\"ב הא אין מעשרין כמ\"ש סי' רס\"א ואי מיירי בדמאי אפילו בלא טרד' שרי וע\"ש שכתב שאפי' ודאי שרי לעשר אפי' שלא לצורך השבת אם הוא טרוד ונחפז לדידן דקי\"ל לא גזרו על שבות ב\"ה בשעת הדחק ול\"נ דל\"ש טרדא בזה דיכול לעשרן בא' בשבת ולכן נ\"ל שכונת הטור כדאיתא במשנה פ\"ז דדמאי דאם שכח לעשר עד ב\"ה יכול לקרות שם וכ\"כ התוס' בסוכה דף כ\"ג ע\"ש ונ\"ל דדוקא במעשר פירות דהוי דרבנן או בח\"ל אבל בדגן ויין ושמן דהוי דאורייתא קי\"ל דאין ברירה ולא מהני קריאת שם ועיין ברמב\"ם פ\"א מתרומות דין כ\"א ובכ\"מ וביש\"ש בב\"ק פ\"ה בדיני ברירה סי' י\"ג ועבי\"ד סי' של\"א ססי\"א:",
+          "en": "",
+          "ref": "Magen Avraham 307:30"
+        },
+        "31": {
+          "he": "אסור לרמוז. וה\"ה שאסור לומר לו דבר שיבין מתוך כך שיעשה מלאכה (פסקי רקנ\"ט סי' צ\"ט) וא\"כ אסור לו' לעכו\"ם שיקנח חוטמו כדי שיבין שיסיר הפחם שבראש הנר דדוקא לו' לו דבר שמבין שיעשה אחר השבת מותר כמ\"ש ס\"ז אבל כשעושה בשבת אסור דהא אפי' העכו\"ם עשה מלאכה מעצמו לצורך ישראל אסור ליהנות ממנו כמ\"ש סי' שכ\"ה כ\"ש לרמוז לו דלא כהב\"ח ע\"ש ועמ\"ש סי\"ד בשם רמ\"מ דהתם אין או' משום ציווי לעכו\"ם רק שא\"ל שאינו יכול לקרותו:",
+          "en": "31. \"It is forbidden to hint.\" And so similarly it is prohibited to say something such that he [the idolater non-Jew] will thereby understand that he should perform a prohibited act. (Rakna\"t Section 99) And thus it is prohibited to tell the idolater non-Jew \"wipe your nose\" such that he thereby understand that he should remove the soot from the head of the lamp, for specifically to say to him something by which he will understand that he should perform the act after Shabbat is permitted as written in subsection 7. But if the non-Jew does it on Shabbat, it is prohibited -- for even if the non-Jew performs labor on his own for the sake of  a Jew, it is prohibited to benefit from it (the labor), as is written in Section 325; all the more so to hint to him, as against the Bach (look there), and look at what is written in subsection 14 in the name of Rm\"m, for there we don't prohibit it because it was asked of an idolater non-Jew but rather that he told him that he can't read it.",
+          "ref": "Magen Avraham 307:31"
+        },
+        "32": {
+          "he": "במלאכת עצמו כו'. אבל אם התבוא' של ישראל אסור לו' לעכו\"ם לפנותו וה\"ה בכל דבר המוקצ' דה\"ל שבות דשבות ועמ\"ש סכ\"א:",
+          "en": "",
+          "ref": "Magen Avraham 307:32"
+        },
+        "33": {
+          "he": "עומד בעדר. דל\"ד למ\"ש ססי' רמ\"ד דהתם כבר נקרא ע\"ש הישראל והוי כמהלך לתוך שדיהו לראות מה צריכ' אבל הכא עדיין הגבינות אינן של ישראל ואפי' אם העכו\"ם אינו עושה הגבינות כ\"א בשבת אם הישראל מקבלם בחובו ואם לא יקבלם יפסיד חובו שרי כמ\"ש סי' רמ\"ד ס\"ו וכ\"ש כאן (ש\"ג בע\"א דף שנ\"ה):",
+          "en": "",
+          "ref": "Magen Avraham 307:33"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "אעשה.  אפילו דבר מצוה ס\"ח סי' רס\"ו. אסור לעכב העכו\"ם בשבת בשביל החוב אבל יוכל לומר בחול לשופט מדוע לא עכבת העכו\"ם בשבת. אגודה. ובתשובת הב\"ח סי' קמ\"ו מתיר מי שיש לו חוב אצל האנס ובשבת נודע לו שהאנס ילך מן העיר ואפשר שלא ישוב עוד מותר לילך בשבת לקבול עליו אצל השר שיפרענו עיין שם. אסור לעכב נכסי ראובן ביד שמעון רשד\"ם חו\"מ סי' ק\"ה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:1"
+        },
+        "2": {
+          "he": "לספרם.  ואסור לספר איזה דבר שמצער בו ס\"ח סי' ק\"י. והנשמר מלדבר כ\"א בלשון הקודש בשבת תע\"ב כי מחלליה נאמר על מי שמדבר ג\"כ דברים בטלים בשבת עיין זוהר ובספר הכוונות. וקבלתי אדם המבקר לחבירו בשבת לא יאמר לו כדרך שאומר בחול כגון צפרא טבא אלא יאמר שבת שלום או שבת טוב לקיים זכור את יום השבת. של\"ה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:2"
+        },
+        "3": {
+          "he": "לעכו\"ם.  ואסור לומר לעכו\"ם שיאמר לעכו\"ם אחר לעשות לו מלאכה הגאון מוהר\"ר גרשון ז\"ל בשו\"ת חות יאיר סי' מ\"ט ובסי' נ\"ג דעת חות יאיר להקל וכ\"ש בשבות ע\"ש. בדבר שאינו אלא חומרא בעלמא שרי לומר לעכו\"ם. הרד\"ך מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:3"
+        },
+        "4": {
+          "he": "מע\"ש.  ואם יום השוק בשבת ואינו בנמצא לקנות אלא בו אסור. וה\"ה כשיום השוק בשבת אסור ליתן לו דבר למכור. וכתב הט\"ז ונ\"ל דבכל הני דמתירין (ב\"ה עם השמש) כגון נותנים כלים לכובס וכו' יש איסור אם נותן לו הכלי סמוך לשבת ואמר ליה ראה שאני צריך להם במ\"ש דה\"ל כאומר בפירוש שיכבסם בשבת וכן לענין אם נתן לו מעות בע\"ש לקנות ואמר ליה שילך לדרכו במו\"ש וע\"ל סי' שנ\"ב ס\"ב. ובס\"ח כתב דאל ידור אדם בעיר שיום השוק בשבת כי א\"א שלא יחטא. ואם השוק אינו בשכונות היהודים שרי כנה\"ג. וכתב עוד הט\"ז נ\"ל מה שהתירו אם לא זכר לו שיקנה בשבת מ\"מ לא יהנה ישראל ממנו באותו שבת דעכ\"פ עשה בשביל ישראל ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:4"
+        },
+        "5": {
+          "he": "סחורתו.  אפי' יחד לו מקום וקצץ ע\"ל סי' רנ\"ב ס\"א מיהו אם העכו\"ם לקחה מבית ישראל קודם השבת אע\"פ שמפליג בשבת שרי. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:5"
+        },
+        "6": {
+          "he": "לענוש.  בממון ואם אין לו במלקות ואם טעה שסבר שמותר אין עונשין אותו ונאמן לומר שעשה בשוגג ר\"א ששון סי' קנ\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:6"
+        },
+        "7": {
+          "he": "סי' רע\"ו.  שם ס\"ב פסק רמ\"א דיש להחמיר ע\"ש. ודע שאין מדמין דבר לדבר בעניני השבותים ואין לך בם להתיר אלא מה שאמרו חכמים ועיין מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:7"
+        },
+        "8": {
+          "he": "אצלו.  פי' אפי' אם מסופק אם יש עדיין אצלו. ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:8"
+        },
+        "9": {
+          "he": "לחבירו.  ה\"ה לעכו\"ם עיין מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:9"
+        },
+        "10": {
+          "he": "אני הולך.  ודוקא בלשון זה מותר אבל אסור לומר שילך בקרון שקורין בל\"א פאהרי\"ן או רייטי\"ן דהא אינו מועיל בורגנין לזה והעולם אינם מרגישים בזה החילוק והוא פשוט. ט\"ז מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:10"
+        },
+        "11": {
+          "he": "בורגנין.  אפי' אין שם בורגנין אלא כיון שנוכל למצוא היתר:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:11"
+        },
+        "12": {
+          "he": "חוץ לתחום.  ה\"ה בתוך התחום במוקצה ונקט חוץ לתחום משום דקבעי למתני וכן אסור להחשיך וכו' דשם דוקא חוץ לתחום אסור כמ\"ש ס\"ט מ\"א וט\"ז. ופשיטא דאפי' דבר שיש בו היתר בשבת אסור לומר לעכו\"ם לעשותו בשבת עי' סי' שכ\"ה ס\"ח וס\"י דאפי' בדיעבד אסור עיין מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:12"
+        },
+        "13": {
+          "he": "דמינכרא.  נ\"ל פשוט דמותר להחשיך כדי לילך בלילה ודו\"ק:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:13"
+        },
+        "14": {
+          "he": "שמא יכתוב.  ובמקום שנהגו שסתם הלואה אינה למ\"ד יום רק רשאי לתבוע לאלתר כמו במדינתנו רשאי לומר הלויני ומשמע בגמ' דוקא יין ושמן ודבש שהוא צורך שבת אבל דבר שאינו צורך שבת אסור להניח משכון מ\"א ע\"ש וע\"ל סי' ש\"ו ס\"ק ו':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:14"
+        },
+        "15": {
+          "he": "תן לי.  ומותר ג\"כ לסיים ואתן לך. ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:15"
+        },
+        "16": {
+          "he": "לקרותו.  מה שנוהגין שהשמש קורא לסעודה מתוך הכתב אסור ב\"ח ושכנה\"ג. וט\"ז ומ\"א מתירין. והצייכי\"ן שמשלחין אחר השכר והיין בין שעושין מן הכתב ובין של אבר אסור. כנה\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:16"
+        },
+        "17": {
+          "he": "שלא יגע בה.  ומנהג פשוט ליגע בו דראוי לכרוך ע\"פ צלוחיתו. ז\"ל רמ\"מ אם הוא חתום או קשור אומר לעכו\"ם איני יכול לקרותו כ\"ז שאינו פתוח ולא יאמר לפתחו. והמנהג כשהעכו\"ם מביא הכתב מניחה על הקרקע או השלחן תחלה שלא יעשה ישראל המקבל גמר ההוצאה דהיינו העכו\"ם העקירה וישראל הנחה עכ\"ל. וכתב הט\"ז ואין זה נ\"ל דברה\"ר דאורייתא אמרינן דאסור מדרבנן. אבל כרמלית אין איסור בזה ע\"ש וע\"ל סי' רס\"ו ס\"ז מש\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:17"
+        },
+        "18": {
+          "he": "חולין.  ואין בכלל זה יוסיפון וספר יוחסין ודברי הימים של ר\"י כהן שמהם ילמדו דברי מוסר ויראה וכן שבט יהודה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:18"
+        },
+        "19": {
+          "he": "הקודש.  ודברי חשק ועמנואל אפי' בלה\"ק אסור וכל שאסור לקרות אסור לטלטל ובעו\"ה אפי' היראים קוראים הקירנ\"ט בשבת ואין איש שם על לב. וגט מותר לטלטלו וכן אגרת שלומים בלשון הקודש שרי לקרות. מ\"א וט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:19"
+        },
+        "20": {
+          "he": "באצטרול\"ב.  הוא כלי של חוזי כוכבים. וכן לעיין בספרי הרפואות עי' עטרת זקנים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:20"
+        },
+        "21": {
+          "he": "לשאול.  ז\"ל רי\"ו לשאול מן השד משום רפואה וכו' והרב\"י דילג משום רפואה ונתן מכשול. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:21"
+        },
+        "22": {
+          "he": "ויש מי שאומר וכו'.  והמיקל לא הפסיד. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:22"
+        },
+        "23": {
+          "he": "שיעשה.  ובלבד שלא יהא דבר של פרהסיא כמ\"ש סי' שכ\"ה סי\"ד וס\"ס תרס\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:23"
+        },
+        "24": {
+          "he": "לרמוז.  וה\"ה שאסור לומר לו דבר שיבין מתוך כך שיעשה מלאכה פסקי רקנ\"ט סי' צ\"ט. וא\"כ אסור לומר לעכו\"ם שיקנח חוטמו כדי שיבין שיסיר הפחם שבראש הנר דדוקא לומר לו דבר שמבין שיעשה אחר השבת מותר כמ\"ש ס\"ו אבל כשעושה בשבת אסור דהא אפי' העכו\"ם עשה מלאכה בעצמו לצורך ישראל אסור ליהנות ממנו כמ\"ש סימן שכ\"ה כ\"ש לרמוז לו דלא כהב\"ח. ועי' מ\"ש סי\"ד בשם רמ\"מ דהתם אין אומר שום ציווי לעכו\"ם רק שא\"ל שאינו יכול לקרות עכ\"ל מ\"א והיד אהרן פסק כהב\"ח וכתב דהא הסרת הפחם אינו אלא איסורא דרבנן לישראל עצמו א\"כ מותר לרמוז לגוי שיסיר הפחם כגון שיאמר לו שיקנח חוטמו ובזה יבין ויסיר הפחם וכ\"כ הכנה\"ג שרבו מהריא\"ט לפעמים היה צריך לראות איזה דבר בספר והנר לא היה מאיר יפה היה אומר הנר אינו מאיר והיתה השפחה מבינה וחותכת ראש הפתילה ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:24"
+        },
+        "25": {
+          "he": "עצמו.  עכו\"ם שהביא חפציו בשבת לבית ישראל אפי' אסורים בטלטול שרי לומר לו לפנותן לאיזה מקום שירצה ואין כאן שבות דשבות כיון שהם ביד העכו\"ם. ואם התבואה של ישראל אסור לומר לעכו\"ם לפנות וה\"ה בכל דבר המוקצה דה\"ל שבות דשבות עיין מ\"א. עכו\"ם תפוס אצל השופט שהיה חייב ליהודי יוכל לומר להשופט שיקבל ערבות מהעכו\"ם ויניח התפוס. אבל לא יאמר לו שיכתוב בערכאות. דרשות מהר\"ם עיין סי' שכ\"ה ס\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:25"
+        },
+        "26": {
+          "he": "בעדר.  ואפי' אם העכו\"ם אינו עושה הגבינות כ\"א בשבת אם הישראל מקבלם בחובו ואם לא יקבלם יפסיד חובו שרי כמ\"ש רמ\"א ס\"ו כ\"ש כאן. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 307:26"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) אעשה למחר - ודוקא אם הוא דבר שאסור לעשותו בשבת ואפילו אם הוא רק איסור דרבנן. יש שכתבו דאפילו דבר מצוה כגון כתיבת ס\"ת וכה\"ג אסור לומר אעשה למחר אבל בא\"ר וכן במאמר מרדכי וברכי יוסף חולקים עליהם וסוברים דכל לדבר מצוה שרי ומ\"מ נכון לכתחלה להחמיר כשאין צורך לזה בדבורו היום [עיין בתו\"ש] ואם מתיירא שיתרשל בדבר אז לכו\"ע שרי לזרוזי נפשיה דאמירה לגבוה הוי כנדר [שם בתו\"ש]. אסור לעכב האינו יהודי בשבת בשביל החוב דזהו הכל בכלל ממצוא חפצך אבל יכול לומר אח\"כ בחול לשופט מדוע לא עכבת הא\"י בשבת כדי שיבין ויעכבנו לשבת הבאה כשיזדמן לו ובתשובת הב\"ח סימן קמ\"ו מתיר מי שיש לו חוב אצל האנס ובשבת נודע לו שהוא ילך מן העיר ואפשר שלא ישוב עוד מותר לילך בשבת לקבול עליו אצל השר שיפרענו דבמקום פסידא לא גזרו. אינו יהודי שהיה תפוס אצל השופט בשביל יהודי שהיה חייב לו יוכל לומר להשופט שיקבל ערבות מאינו יהודי ויניח התפוס אבל לא יאמר לו שיכתוב בערכאות [אחרונים]. כתב בא\"ר סימן רמ\"ד אם אינו יהודי חייב לו וירא שמא יסע בשבת יכול להתראות אליו כדי שיתן בשבילו לחבירו הא\"י. ואסור לעכב נכסי ראובן ביד שמעון בשבת [אחרונים]:",
+          "en": "...As for the issue of reading newspapers...may authorities forbid it, since they contain information about mundane business matters.",
+          "ref": "Mishnah Berurah 307:1"
+        },
+        "2": {
+          "he": "(ב) דברים בטלים - היינו שאין בהם זכר לעשיית מלאכה ולעסקים כלל וגם אין בהם דברי גנאי וקלות ראש דאל\"ה אפילו מעט אסור:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:2"
+        },
+        "3": {
+          "he": "(ג) עונג להם - ואסור לספר בשבת איזה דבר שמצטער בו:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:3"
+        },
+        "4": {
+          "he": "(ד) מותר וכו' - ומ\"מ יזהר מלהמשיך הרבה בזה דאף בדבר שהוא עונג גמור כמו אכילה ושתיה ושינה מבואר בסימן ר\"צ ובב\"י בסימן רפ\"ח דאין להמשיך הרבה דלאלו שאינם עוסקים בתורה בימות החול ניתן שבת עיקרו לד\"ת ואפילו לת\"ח היגעים בתורה כל ימות השבוע ג\"כ איתא באחרונים שלא ירבו בו יותר מדאי משום בטול תורה:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:4"
+        },
+        "5": {
+          "he": "(ה) לספרם וכו' - לאו משנת חסידים היא והנשמר מלדבר דברי חול קדוש יאמר לו. ואנשי מעשה נזהרים ביותר מזה שלא לדבר בשבת אפילו דברים הכרחיים כ\"א בלשון הקודש [ונראה שטעמם הוא למגדר מלתא כדי שלא יבואו לשיחה בטלה] כ\"כ בא\"ר. איתא בשל\"ה קבלתי אדם המבקר לחבירו בשבת בשחרית לא יאמר לו כדרך שאומר בחול צפרא טבא רק יאמר לו שבת טבא [בלשון קודש או בלשון חול כמנהגנו היום] כדי לקיים זכור את יום השבת:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:5"
+        },
+        "6": {
+          "he": "(ו) כדי שיתענג וכו' - דאין לו לעבור על ודבר דבר בשביל חבירו ואם הוא מתענג במה שהם מתענגים אפשר דיש להקל:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:6"
+        },
+        "7": {
+          "he": "(ז) אסור וכו' - סעיף זה וכן הסעיפים דלקמן מה שאסור הוא משום ממצוא חפצך דהכל בכלל עשיית חפציו:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:7"
+        },
+        "8": {
+          "he": "(ח) לשכור לו פועלים - וה\"ה כל דבר שאסור לישראל לעשות מצד הדין אסור לומר לא\"י לעשותו אבל בדבר שאינו אלא מנהג וחומרא בעלמא שרי לומר לא\"י לעשותו:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:8"
+        },
+        "9": {
+          "he": "(ט) בשבת - ואפילו אם יאמר לא\"י שישכור לו פועלים אחר השבת ג\"כ אסור [ח\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:9"
+        },
+        "10": {
+          "he": "(י) אע\"פ שמבין וכו' - ר\"ל אפ\"ה מותר כיון שאינו אומר לו בפירוש רק דרך רמז ולא דמי למה שכתב הרמ\"א בהג\"ה בסכ\"ב דאפילו דרך רמז לעשות בשבת אסור התם כשמרמז לו בשבת גופא ע\"ז חמיר טפי:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:10"
+        },
+        "11": {
+          "he": "(יא) שרצונו שיעשנה וכו' - ומ\"מ לא יהנה הישראל מאותה מלאכה עד אחר השבת כדין א\"י שעשה מלאכה לצורך ישראל א\"נ מיירי בדבר שאין גוף הישראל נהנה ממנו כגון שכבר יש נר ואש והא\"י מוסיף דאל\"כ הא אפילו אם הא\"י הדליקה מעצמו אסור לישראל ליהנות ממנו [אחרונים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:11"
+        },
+        "12": {
+          "he": "(יב) מע\"ש וכו' - וה\"ה דאפילו מתחלת השבוע אסור כיון שייחד לו על שבת וכנ\"ל בס\"ב ואפילו קצץ לא מהני בזה אלא נקט מע\"ש משום סיפא דאם אומר לו קנה לעצמך אפילו מע\"ש מותר:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:12"
+        },
+        "13": {
+          "he": "(יג) אבל יכול וכו' - מקור דין זה נלמד מהא דלקמן סימן תמ\"ח ס\"ד לגבי חמץ ועיין בב\"ח ובא\"ר שמצדדים שם דאפילו אם מבטיחו שיקנה ממנו אח\"כ ג\"כ מותר כיון דעכשיו קונה לעצמו:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:13"
+        },
+        "14": {
+          "he": "(יד) מע\"ש לקנות לו - ודוקא בשקצץ לו שכר עבור זה דאז עושה אדעתיה דנפשיה דבלא\"ה אסור וכמבואר סימן רמ\"ה ס\"ה ועיין בבה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:14"
+        },
+        "15": {
+          "he": "(טו) ובלבד שלא יאמר וכו' - ואם יום השוק שם בשבת ובאותו מקום אינו מצוי לקנות כ\"א ביומא דשוקא כמו שרגיל בעיירות קטנות הו\"ל כמזכיר לו יום השבת בפירוש בין שמבקשו לקנות עבורו או שנותן לו למכור ואפילו בתחלת השבוע אסור ובמקום שמצוי קצת גם בשאר ימים אין איסור אלא אם כן מזכיר בפירוש יום השבת וכן אם אמר לו הישראל ראה שאני צריך לילך לדרכי במו\"ש הוי ג\"כ כמזכיר יום השבת בפירוש. כתב הט\"ז דמה שהתירו אם לא זכר לו שיקנה בשבת מ\"מ לא יהנה הישראל ממנו באותה שבת דעכ\"פ עשה בשביל ישראל דאף שמיירי בזה שקיצץ לו שכר כדלעיל בסקי\"ד לא מהני אבל הא\"ר והתו\"ש חולקין עליו. כתב בס\"ח אל ידור אדם בעיר שיום השוק הוא בשבת כי א\"א שלא יחטא ואם השוק אינו בשכונתו שרי:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:15"
+        },
+        "16": {
+          "he": "(טז) מי ששכר וכו' - דאף שקצץ לו שכר עבור זה ולא יחד לו שיוליכנו בשבת וא\"י אדעתא דנפשיה לוקח בשבת אפ\"ה אסור כיון שלוקח מבית ישראל בשבת וכדלעיל בסימן רנ\"ב ס\"א. ובעניננו שהסחורה היא של ישראל אפילו יחד לו מקום והניח שם הסחורה לא מהני:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:16"
+        },
+        "17": {
+          "he": "(יז) מבית ישראל בשבת - אבל אם לקחה קודם שבת אע\"פ שמפליג בשבת מחוץ לתחום שרי כיון שקצץ לו שכר ואדעתא דנפשיה קעביד כמו שנתבאר בסימן רנ\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:17"
+        },
+        "18": {
+          "he": "(יח) העושה - לפי עשרו בממון או במלקות אם אין לו ממון ואם טעה וסבר שמותר אין עונשין אותו ונאמן לומר שוגג הייתי [אחרונים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:18"
+        },
+        "19": {
+          "he": "(יט) אלא משום שבות - אבל דבר שאיסורו מה\"ת אסור ע\"י א\"י אפילו לדבר מצוה כדלקמן בסימן של\"א ס\"ו וע\"כ אסור לומר לא\"י להדליק נר כדי ללמוד ולהתפלל:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:19"
+        },
+        "20": {
+          "he": "(כ) והוא שיהיה שם וכו' - דכיון שהאיסור אינו אלא מדרבנן ואיסור אמירה לא\"י הוא ג\"כ רק מדרבנן והוי שבות דשבות לא גזרו באופנים אלו:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:20"
+        },
+        "21": {
+          "he": "(כא) מקצת חולי - דאלו בחולי ממש הכולל כל הגוף או שיש בו סכנת אבר אפילו ישראל עושה שבות לחד דעה כמ\"ש סימן שכ\"ח סי\"ז ודע שאין מדמין דבר לדבר בענין השבותין ואין לך בם להתיר אלא מה שאמרו חכמים דלגבי מילה לא התירו שבות דאמירה לא\"י במקום מלאכה דאורייתא כמ\"ש סימן של\"א ס\"ו וגבי לוקח בית בא\"י מותר כמ\"ש סימן ש\"ו סי\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:21"
+        },
+        "22": {
+          "he": "(כב) צורך הרבה - עיין במ\"א שמסיק דדוקא במקום הפסד גדול אבל בלא\"ה אין להקל כלל ובא\"ר מפקפק אפילו באופן זה ועיין בסי\"ט לענין סחורה הנפסדת ע\"י גשמים:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:22"
+        },
+        "23": {
+          "he": "(כג) ויש אוסרין - דס\"ל דוקא במילה שרי הגמרא שבות דשבות [כגון להביא דרך חצר שאינה מעורבת האיזמל ע\"י א\"י למול בו] משום דהיא עצמה דחיא שבת אבל לא לצורך מצוה אחרת ועיין בלבוש ובא\"ר דהלכה כדעה א':",
+          "en": "",
+          "ref": "Mishnah Berurah 307:23"
+        },
+        "24": {
+          "he": "(כד) אפילו במלאכה דאורייתא - ע\"י א\"י במקום מצוה מיהו כבר כתב רמ\"א לעיל דיש להחמיר בזה וכן עיקר כי דעה זו היא רק דעת יחידאה והרי\"ף והרא\"ש והרמב\"ם ועוד כמה גדולי ראשונים חולקין עליה ואך לענין מילה מצדד המ\"א לקמן בסימן של\"א לסמוך על דעה זו ועיין בא\"ר שם. ודע דמה דקי\"ל אמירה לא\"י שבות הוא אפילו אם אומר לא\"י שיאמר לא\"י אחר לעשות לו מלאכה בשבת [הגאון מו\"ה גרשון בעל עבודת הגרשוני] והחות יאיר בסימן נ\"ג מצדד להקל בזה וכ\"ש בדבר שאינו אלא משום שבות ועיין בספר החיים שכתב דבמקום הפסד גדול יש לסמוך על המקילין ועיין לעיל במה שכתבתי ס\"ק י\"א דשייך גם כן הכא:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:24"
+        },
+        "25": {
+          "he": "(כה) ודוקא שעדיין וכו' - דהא בעי למידע כמה צריך ליתן להם והו\"ל חשבונות שצריכין ואסור מטעם ודבר דבר וכנ\"ל בריש הסימן:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:25"
+        },
+        "26": {
+          "he": "(כו) אצלו - ואפילו אם אח\"כ נתברר לו ע\"פ חשבונו שאין מגיע להם ממנו כלום מ\"מ כיון דמתחלה לא נודע לו דבר זה והיה נצרך לחשבון לכך יש בו איסורא אבל אם גם מתחלה היה יודע שאין מגיע להם ממנו כלום הוי חשבונות של מה בכך ושרי ואם החשבונות האלו יש בהן צורך לחבירו וחושב החשבונות האלו לצרכו אסור:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:26"
+        },
+        "27": {
+          "he": "(כז) מותר - כתב הרמב\"ם חשבונות שאין בהם צורך מותר לחשבן כיצד כמה סאין תבואה היה לנו בשנה פלונית כמה דינרין הוצאנו בחתונת בננו כך וכך חיילותיו של מלך וכיוצא באלו שהן שיחה בטלה שאין בהן צורך כלל עכ\"ד ופי' המגיד משנה דרמז לנו שיש למנוע מזה מצד שיחה בטלה שאין שיחה בטלה ראוי ליראי חטא וגם בביאורי רש\"ל כתב שאפילו בחול אינו יפה כ\"כ לת\"ח דהוי כמושב לצים ומבטל בהן לימודו [א\"ר]:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:27"
+        },
+        "28": {
+          "he": "(כח) לחבירו - וה\"ה לא\"י:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:28"
+        },
+        "29": {
+          "he": "(כט) אע\"פ שמתוך כך וכו' - כיון שאינו מפרש בהדיא רק בדרך רמז לצורך מו\"ש הו\"ל רק בכלל הרהור דמבואר לעיל בסימן ש\"ו ס\"ח דשרי ולא יאמר לו היה נכון עמי דזהו דבור ממש:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:29"
+        },
+        "30": {
+          "he": "(ל) יכול לומר וכו' - דהנה מבואר בריש הסימן דדבר שאסור לעשות בשבת אסור לומר שיעשה זאת למחר וקאמר הכא דאף דבשבת אסור לילך מחוץ לתחום מ\"מ מותר לומר לכרך פלוני אני הולך למחר כיון דעל עצם הליכה אין איסור אלא שמחוסר בורגנין מיהו אסור לומר אני רוכב למחר או שילך בקרון שקורין בל\"א פאהרי\"ן כיון דדבורו הוא דבר האסור בעצם ואין מועיל עצה לזה רק יאמר אני הולך למחר:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:30"
+        },
+        "31": {
+          "he": "(לא) בורגנין - פי' סוכות של שומרים שעי\"ז יוכל לילך בשבת אף כמה מילין אם הם מובלעים זה לזה בתוך שבעים אמה וד' טפחים כמבואר בסימן שצ\"ח:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:31"
+        },
+        "32": {
+          "he": "(לב) וכן כל כיו\"ב וכו' - כגון שיאמר לחבירו שיביא לו למחר מחוץ לתחום פירות שנתלשו מכבר שאין עליהם איסור מוקצה אף דא\"א להביאם היום מטעם איסור תחומין ומשום איסור רשויות אפ\"ה מותר לומר כיון שיש בו צד היתר דאלו היה מחיצות היה יכול להביאם:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:32"
+        },
+        "33": {
+          "he": "(לג) שיעשנו למחר - ולעשותו היום אסור אפילו לא\"י לומר ואפילו בדיעבד אם הביא מחוץ לתחום אסור להשתמש מהם וכדלקמן בסימן שכ\"ה ס\"ח:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:33"
+        },
+        "34": {
+          "he": "(לד) חוץ לתחום פירות מוקצים - כתבו האחרונים דלאו דוקא בסוף התחום אלא ה\"ה בתוך התחום כיון דא\"א להביאם משום איסור מוקצה אלא דמשום סיפא נקט הכי דלהחשיך אינו אסור אלא בסוף התחום וכדלקמן בס\"ט:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:34"
+        },
+        "35": {
+          "he": "(לה) לילך שם להביאם - היינו אלו הפירות שהם מוקצים אבל פירות שאינם מוקצים כיון שמותר לומר לחבירו שיביאם לו לאחר השבת מותר נמי להחשיך בשבילם [גמרא]:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:35"
+        },
+        "36": {
+          "he": "(לו) וכן לא יאמר וכו' - קאי על מה שכתב בתחלה דאסור לומר לחבירו שיביאם לו למחר וקמ\"ל דלא נימא דדוקא כשמדבר עם חבירו ומתיעץ עמו הוא דאסור כיון שיש לו צורך בדבורו אבל לדבר בינו לבין עצמו שאין לו צורך בכך שרי קמ\"ל כיון דהוא דבר האסור לעשות בשבת אף כשמדבר בינו לבין עצמו מקרי דבור חול ואסור וכנ\"ל בריש הסימן:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:36"
+        },
+        "37": {
+          "he": "(לז) שאפילו היום וכו' - ר\"ל נמצא שעצם השמירה הוי מלאכה המותרת בשבת ומחשיך בשביל דבר המותר ומה שהוא חוץ לתחום הלא היה יכול לילך ע\"י בורגנין אם היה לו וכנ\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:37"
+        },
+        "38": {
+          "he": "(לח) אף להביאם - היינו אפילו אם הם מחוברים וצריך לתלשם מבערב כיון שעיקר כונתו בהחשכה היה בתחלה רק בשביל השמירה:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:38"
+        },
+        "39": {
+          "he": "(לט) לתלוש פירות וכו' - ומיירי שאינו עומד אצל הגינה דאל\"ה הרי מנכר מילתא ע\"י עמידתו שרוצה לעשות בה איזה דבר במו\"ש וכדלעיל בסימן ש\"ו ס\"א עי\"ש במ\"ב סק\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:39"
+        },
+        "40": {
+          "he": "(מ) משום דמינכרא מילתא - אבל בתוך התחום לא מינכרא מילתא על מה הוא מחשיך ולא דמי למש\"כ סימן ש\"ו ס\"א דאסור לעיין בנכסיו כגון לילך בתוך שדהו וכדומה לזה לראות מה צריך לעשות למחר ואפילו אם היא בתוך התחום אסור שם דהתם מינכרא מילתא בכל גוונא שהוא מחשב לעשות בה איזה פעולה כגון שהוא סמוך לזמן חרישה או לזמן קצירה או לזמן ניכוש השדה וכדומה וזה אסור משום ממצוא חפצך ולכן אסרו ג\"כ בגמרא לטייל על פתח המדינה כדי לצאת משחשכה למרחץ הסמוך לה [שהיה מנהגם להעמיד המרחץ אצל שער העיר בסופה] הכל מטעם זה משא\"כ בעניננו לא מינכרא מילתא אלא כשמחשיך בסוף התחום שאז נראה שמחשיך כדי לעשות אח\"כ במו\"ש דבר שהיה אסור לעשותו בשבת ומ\"מ אינו אסור אלא כשכונתו באמת לזה אבל אם כונתו להחשיך כדי לילך אח\"כ בלילה מותר דעצם ההליכה אינו דבר איסור כדלעיל בס\"ח:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:40"
+        },
+        "41": {
+          "he": "(מא) שמור לי - היינו אפילו היום וקמ\"ל דלא נימא דהוי כמו ששוכרו:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:41"
+        },
+        "42": {
+          "he": "(מב) לזמן מרובה - דסתם הלואה ל' יום ויש לחוש שמא יכתוב המלוה הלואתו לזכרון אבל שאלה דזמנה לאלתר אין חשש שמא יכתוב. ובמקום שנוהגין שסתם הלואה רשאי לתבוע לאלתר כמו שנוהגין במדינתנו רשאי לומר הלויני [מ\"א] ועיין בבה\"ל שאין זה ברור:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:42"
+        },
+        "43": {
+          "he": "(מג) ואיכא למיחש וכו' - כתב הפמ\"ג בשם הרשב\"א דבלשון הלואה לא מהני אפילו אם מתנה עמו שמלוהו רק לזמן מועט דלא פלוג רבנן עוד כתב הפמ\"ג דאפילו אם לוה ספרים שהוא דבר מצוה ג\"כ לא יאמר לשון הלואה:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:43"
+        },
+        "44": {
+          "he": "(מד) תן לי - ומותר ג\"כ לסיים ואחזור ואתן לך:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:44"
+        },
+        "45": {
+          "he": "(מה) יניח משכון אצלו - ודוקא יין ושמן ודבר שהוא צורך שבת אבל דבר שאינו צורך שבת אסור להניח עליו משכון:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:45"
+        },
+        "46": {
+          "he": "(מו) כך אין פורעין - היינו אפילו אם לוה ממנו כדי יין ושמן לזמן מרובה אסור לפורעם בשבת דכשם שבהלואה גזרינן שמא יכתוב כך בפרעון גזרינן שמא ימחוק החוב מן הפנקס והתוספות כתבו דאם אומר בלשון חזרה ולא בלשון פריעה מותר דאית ליה הכירא ולא אתיא דבר זה לידי מחיקה. וכ\"ז דוקא בדבר שהוא מאכל וצורך שבת אבל בלא\"ה אסור בכל לשון [אחרונים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:46"
+        },
+        "47": {
+          "he": "(מז) אסור לקרותו - בגמרא איתא שני טעמים אחד שמא ימחוק מן האורחין ומן המגדים דהיינו שלפעמים רואה שלא הכין להם כל צרכם ומתחרט שזימן אורחים יותר מן הראוי ומוחק מן הכתב כדי שלא יקראם השמש וכן במיני מגדים ג\"כ מתנחם לפעמים למעטם ועוד טעם שמא יבוא לקרות גם בשטרי הדיוטות וזה אסור כדלקמיה בסי\"ג. ומה שנוהגין שהשמש קורא מתוך הכתב לסעודה יש מחמירים דנהי דלשמא ימחוק ליכא למיחש אלא כשבעל הסעודה בעצמו קורא ומטעם שכתבנו מ\"מ הלא איכא למיגזר משום שמא יקרא בשטרי הדיוטות אך כשהסעודה היא של מצוה יש להקל הקריאה להשמש דהוי בכלל חפצי שמים דשרי כמ\"ש סימן ש\"ו ס\"ו וכ\"ש דמותר לשמש להכריז כרוז בבהמ\"ד מתוך הכתב אמנם בשערי תשובה הביא ליישב המנהג להקל להשמש לקרוא מתוך הכתב אפילו לסעודת הרשות דעל השמש מעיקרא לא גזרו כדי שלא יטעה ויביא לידי חורבן ותקלה כעובדא דקמצא ובר קמצא:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:47"
+        },
+        "48": {
+          "he": "(מח) גבוה הרבה - שאינו מגיע לשם למחוק:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:48"
+        },
+        "49": {
+          "he": "(מט) חקק בכותל - דמשום שמא ימחוק ליכא דחקיקה כיון שהיא שוקעת קשה להמחק ומשום שמא יקרא בשטרי הדיוטות נמי לא גזרינן דלא מיחלף בשטר [דאף דאם כתב בכותל גבוה אסור משום שמא יקרא התם מכתיבה לכתיבה מיחלף אבל הכא מחקיקת הכותל לא אתי לאחלופי בכתיבת השטר] אבל טבלא ופנקס שהם מטלטלים מיחלף בשטרי הדיוטות:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:49"
+        },
+        "50": {
+          "he": "(נ) חקיקה שוקעת - אבל בולטת אסור דגזרינן שמא ימחוק ואפילו גבוה הרבה שאינו מגיע לשם למחוק משום לא פלוג וכמ\"ש סימן ער\"ה. והפתקאות ששולחין הקונים שכתוב בהן מע\"ש סכום היין והשכר שלוקחין שלא כדין הוא דאסור לקרות בהן בשבת כ\"כ בא\"ר ונראה דאם כתב בהן רק סימנא בעלמא שרי:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:50"
+        },
+        "51": {
+          "he": "(נא) שטרי חובות וחשבונות - י\"א משום ממצוא חפצך וי\"א משום שמא ימחוק:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:51"
+        },
+        "52": {
+          "he": "(נב) שאלת שלום - משום דמיחלף בשטרי הדיוטות:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:52"
+        },
+        "53": {
+          "he": "(נג) ואפילו לעיין בהם - דא\"א כשמעיין שלא ישא ויתן בעניני השטרות [לבוש] ומיירי כשיודע מכבר מה כתיב בה וכדמוכח לקמיה:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:53"
+        },
+        "54": {
+          "he": "(נד) מותר - דשמא יש בה דבר שהוא צורך הגוף ואינו דומה לשטרי הדיוטות שהם רק צורך ממונו והנה אף דיש שאוסרים גם באופן זה כמבואר בב\"י סמך בזה להקל באופן שלא יקרא רק יעיין בלבד דבעיון בלבד ג\"כ יש מתירים בשטרי הדיוטות:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:54"
+        },
+        "55": {
+          "he": "(נה) טוב ליזהר וכו' - משום מוקצה שהובא מחוץ לתחום [דמלבד זה אין שם מוקצה עליהן אף דאינו כלי דהלא ראוי לצור ע\"פ צלוחיתו] אלא יפתחנו הא\"י והוא יעיין בה ואף דדבר שהובא מחוץ לתחום קי\"ל דאסור ליהנות ממנה מי שהובא בשבילו ואף הכא הלא הקריאה והעיון הנאה היא לו התם טעמו משום גזירה שמא יאמר לא\"י שיביא לו מחוץ לתחום אבל הכא באגרת לא שייך לומר כן שאינו יודע מי ישלח לו וגם י\"ל דלא חשיב הנאה כיון שאינו נהנה מגופה של מלאכה:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:55"
+        },
+        "56": {
+          "he": "(נו) שלא יגע בה - והאחרונים הסכימו דאין בזה משום מוקצה כלל כדקיי\"ל בסימן תקט\"ו דדבר הבא מחוץ לתחום אין בה איסור מוקצה אפילו למי שהובא בשבילו דאסור ליהנות ממנו הואיל וראוי לישראל אחר ליהנות ממנה ואם מקפיד על אגרת להשתמש בו כדרך הסוחרים המניחים אגרת המסחר במקום המוצנע שלא יאבדו הם מוקצים ואסור לטלטלם. כתבו האחרונים נהגו שלא לקבל האגרת מיד הא\"י המביא בשבת אלא אומרים לו שיניח ע\"ג קרקע או ע\"ג שלחן כי חוששין שמא טרם שיעמוד לפוש יטול הישראל האגרת מידו ונמצא שהישראל יעשה גמר ההוצאה מרשות לרשות שהא\"י עשה עקירה וישראל הנחה. ואם האגרת היא חתומה אומר לא\"י איני יכול לקרותו כ\"ז שאינו פתוח וממילא יבין הא\"י ויפתחהו ולא יאמר לא\"י בהדיא לפתחו אם לא לצורך גדול ועיין לקמן בסוף סימן ש\"מ בבה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:56"
+        },
+        "57": {
+          "he": "(נז) בשבת - גזירה שמא יקרא בשטרי הדיוטות:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:57"
+        },
+        "58": {
+          "he": "(נח) חולין - ואין בכלל זה יוסיפון וספר יוחסין ודברי הימים של ר\"י כהן ושבט יהודה שמהם ילמדו דברי מוסר ויראה וע\"כ אפילו כתובים בלעז שרי:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:58"
+        },
+        "59": {
+          "he": "(נט) משום מושב לצים - וכ\"ש ההולך לטרטיאות וקרקסיאות [והם מיני שחוק כדאיתא בעבודת כוכבים דף י\"ח] ושאר מיני תחבולות וגם בפורים אין מותר רק השחוק שעושים זכר לאחשורוש [מ\"א] ובעו\"ה כיום נעשה דבר זה כהפקר אצל איזה אנשים לילך לבית טרטיאות והכתוב צוח ואומר אל תשמח ישראל אל גיל וכו' וגם איכא בזה משום מגרי יצה\"ר בנפשם ואחז\"ל כל המתלוצץ נופל בגיהנם שנאמר וגו' ויסורין באין עליו שנאמר ועתה אל תתלוצצו פן יחזקו מוסריכם [ע\"ש בגמרא עוד]:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:59"
+        },
+        "60": {
+          "he": "(ס) אל מדעתכם - אל אשר אתם עושים מדעת לבבכם [רש\"י ע\"ש]:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:60"
+        },
+        "61": {
+          "he": "(סא) ואין צריך לומר המדפיסן - וכן מוכרי ספרים הסוחרים בענינים כאלו וממציאין אותם לקונים לקרות בהם הם בכלל זה ועיין בספר מחנה חיים בתשובה א' שהאריך בענין זה מאד ואחז\"ל גדול המחטיא לאדם יותר מן ההורגו שההורגו הוא רק בעוה\"ז והמחטיאו הוא גם בעוה\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:61"
+        },
+        "62": {
+          "he": "(סב) לקרות בשיחת חולין וכו' - ובדברי חשק שהוא מגרה יצה\"ר לכו\"ע אסור אפילו בלה\"ק וכל שאסור לקרותו אסור אפילו לטלטלו [ט\"ז]:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:62"
+        },
+        "63": {
+          "he": "(סג) אבל בלשון הקודש וכו' - דהלשון בעצמו יש בו קדושה ולומד ממנו ד\"ת ולפ\"ז גם אגרת שלום הכתובה בלה\"ק שרי לקרות דיש ללמוד מתוכו הלשון וגם כתוב בו כמה פסוקים של תורה אך שטרי חובות וחשבונות גם להרמ\"א אסור אפילו בלה\"ק [פמ\"ג]. וגט מותר לטלטלו אע\"פ שכתוב בלשון לעז דיכול ללמוד ממנו דיני גט. ולענין קריאת צייטונגי\"ן בשבת אף שבתשובת שבות יעקב מקיל בזה הרבה אחרונים אוסרין מפני שיש בהם ידיעה מעניני משא ומתן:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:63"
+        },
+        "64": {
+          "he": "(סד) שרי - אבל האגודה והט\"ז והב\"ח ועוד הרבה אחרונים חולקין ע\"ז ואוסרין וכן הוא ג\"כ דעת הגר\"א ולפ\"ז גם באגרת שלום אין נ\"מ בין לשון לעז ובין לשה\"ק:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:64"
+        },
+        "65": {
+          "he": "(סה) ויש מי שמתיר - וכן נוהגין להקל וכתב בא\"ר דירא שמים ראוי להחמיר בזה כי הרמב\"ם והר\"ן אוסרים:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:65"
+        },
+        "66": {
+          "he": "(סו) מותר להביט באצטרלו\"ב - הוא כלי של החוזים בכוכבים דמה לי להבין החכמה מן הספר או מן הכלי:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:66"
+        },
+        "67": {
+          "he": "(סז) מה שמותר וכו' - ר\"ל דיש דברים שאסורים אף בחול מפני שהם בכלל כשוף ויש דברים שאסורים מפני הסכנה לדעת ר' יוסי כדאיתא בגמרא וע\"כ אמר דדברים המותרים בחול מותר אף בשבת ועיין במ\"א ושארי אחרונים שהסכימו דדוקא משום רפואה שרי אבל בלא\"ה אסור משום ממצוא חפצך:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:67"
+        },
+        "68": {
+          "he": "(סח) סחורה הנפסדת וכו' - ומסיים ע\"ז דיכול לקרות לא\"י והיינו אפילו אם יצטרך לזה לעשות מלאכה דאורייתא כגון להוציא מרה\"י לר\"ה וכה\"ג דאלו טלטול מוקצה בעלמא או מרה\"י לכרמלית אפילו לצוות לא\"י בהדיא שיעשה זה ג\"כ מותר לפי המבואר לעיל בס\"ה אם יש בזה הפסד גדול:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:68"
+        },
+        "69": {
+          "he": "(סט) מותר לקרות וכו' - וכן מותר דמתוך שאדם בהול על ממונו אי לא שרית ליה אפילו באופנים אלו אתי להציל בעצמו ולעשות מלאכה דאורייתא:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:69"
+        },
+        "70": {
+          "he": "(ע) כל המציל וכו' - ולומר לו בלשון נוכח אם תציל לא תפסיד אסור [א\"ר שהביא זה מש\"ג וכן משמע ביו\"ד רכ\"א ס\"ח]:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:70"
+        },
+        "71": {
+          "he": "(עא) ויש מי שאומר וכו' - והמיקל לא הפסיד וכן סתם המחבר לקמן בסי' של\"ד סכ\"ו ולקרות לא\"י להראות לו ולא לומר לו לכו\"ע שרי:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:71"
+        },
+        "72": {
+          "he": "(עב) בכדי שיעשו - ולא קודם כדי שלא יבוא לומר לא\"י לעשות מלאכה בשבת ואם היה בפרהסיא שידעו בו רבים שנעשה בשביל ישראל אסור לעולם אפילו עשה הא\"י מעצמו בשבילו [מ\"א בשם הרמב\"ם] וכדלקמן בסימן שכ\"ה סי\"ד וע\"ש מה שכתבנו דעת הט\"ז בשם הר\"ן בענין זה:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:72"
+        },
+        "73": {
+          "he": "(עג) אסור לומר לא\"י וכו' - דכיון שאותו דבר שאומר לא\"י לעשות בשביל עצמו הוא אינו יכול בעצמו לעשות הוא בכלל אמירה לא\"י שבות ואסור אף על פי שאינו מתהנה הישראל כלל במלאכה זו ואעפ\"כ מותר לומר לו לעשות מלאכה לעצמו כגון שיאמר לו קח בשר שלך ובשל אותו לצרכך וכה\"ג דכיון שלא היה הדבר מעולם של ישראל כלל והא\"י עושה אותה ג\"כ רק בשביל עצמו לא גזרו עליו איסור דאמירה לא\"י:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:73"
+        },
+        "74": {
+          "he": "(עד) בשבת - עיין בא\"ר שהוכיח מתוספות והרא\"ש דאף בע\"ש אסור ליתן לא\"י ולומר לו שיבשל בשבת לעצמו:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:74"
+        },
+        "75": {
+          "he": "(עה) אם היה טרוד - עיין לקמן בסימן שמ\"ב במ\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:75"
+        },
+        "76": {
+          "he": "(עו) אסור לרמוז וכו' - דגם זה הוא בכלל אמירה לא\"י כיון שע\"י רמיזתו עושה בשבת וה\"ה שאסור לומר לו בשבת איזה דבר שיבין מתוך כך שיעשה מלאכה וע\"כ אסור לומר לא\"י שיקנח חוטמו כדי שיבין שיסיר הפחם שבראש הנר אך כשאומר הרמיזה לא\"י שלא בלשון צווי כגון שאומר הנר אינו מאיר יפה או איני יכול לקרות לאור הנר הזה שיש בו פחם ושומע הא\"י ומתקנו שרי דאין זה בכלל אמירה ואין לאסור מטעם שנהנה ממלאכה שעשה הא\"י בשבילו דאין זה הנאה כ\"כ דגם מקודם היה יכול ע\"פ הדחק לקרות לאורו [פמ\"ג]:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:76"
+        },
+        "77": {
+          "he": "(עז) במלאכת עצמו וכו' - אבל אם התבואה של ישראל אסור לומר לא\"י לפנותו וה\"ה בכל דבר המוקצה דהו\"ל שבות דשבות ואין מותר כ\"א לצורך מצוה או קצת חולי וכנ\"ל בס\"ה [מ\"א והט\"ז לקמן בסימן ש\"ח סק\"ז חולק ע\"ז ודעת הא\"ר כהמ\"א ועיין בפמ\"ג מה שכתב אודות זה ובמה שכתבנו בסימן רע\"ט ס\"ד בהג\"ה במ\"ב]:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:77"
+        },
+        "78": {
+          "he": "(עח) עד אחר המדידה ושיחשוב וכו' - ר\"ל קודם המדידה והחשבון אינם שלו. א\"י שהביא חפציו בשבת לבית ישראל אפילו הם אסורים בטלטול והביאם בשביל ישראל כיון שהם ביד א\"י רשאי לומר לו לפנותן לאיזה מקום שירצה [מ\"א בשם המ\"מ]:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:78"
+        },
+        "79": {
+          "he": "(עט) רואה ויקנה וכו' - ר\"ל דאע\"פ שהישראל עומד בעת עשיית גבינות ובעת חליבת החלב כדי שיוכל אח\"כ לקנותם ממנו אפ\"ה שרי דבעת העשייה הא\"י אדעתיה דנפשיה קעביד:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:79"
+        },
+        "80": {
+          "he": "(פ) ואדעתא למכרם וכו' - ואפילו אם הא\"י אינו עושה הגבינות כ\"א בשבת אם הישראל מקבלם בחובו ושאם לא יקבלם יפסיד חובו שרי דבעת העשייה עדיין הם שלו:",
+          "en": "",
+          "ref": "Mishnah Berurah 307:80"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

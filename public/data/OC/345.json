@@ -1,0 +1,1282 @@
+{
+  "chelek": "OC",
+  "siman": 345,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 19,
+  "fetchedAt": "2026-07-07T23:49:24.652Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין ארבע רשויות בשבת. ובו יט סעיפים:ארבע רשויות לשבת רשות היחיד ורשות הרבים וכרמלית (פי' רך מל לא לח ולא יבש אלא בינוני הכא נמי לא רשות היחיד שאין לו מחיצות ולא רשות הרבים שאינו דומה לדגלי מדבר דלאו להליכה דרבים עבידא. רש\"י) ומקום פטור:",
+      "en": "There are four domains on Shabbat: the private domain, the public domain, the karmelit (meaning soft brittle: not wet or dry but in between Similarly this is not the private domain because it has no walls, but it is not the public domain as it is not similar to the flags of the wilderness because it's not a place where many people walk. Rash\"i.) and a place of exemption.",
+      "ref": "Shulchan Arukh, Orach Chayim 345:1"
+    },
+    {
+      "seif": 2,
+      "he": "איזה רה\"י מקום המוקף מחיצות גבוהים עשרה טפחים ויש בו ד' טפחים על ד' טפחים או יותר וכן חריץ עמוק עשרה ורחב ארבעה על ארבעה וכן תל גבוה עשרה ורחב ארבעה על ארבעה: הגה י\"א דבעינן באלו ארבעה על ארבעה הן ואלכסונן וכמו שיתבאר לקמן סי' שמ\"ט (הגהות אשירי פ\"ק דשבת ותוס' עירובין דף נ\"א):",
+      "en": "What is the private domain? A place surrounded by walls that are ten tefachim that is four by four, or a pit that is ten tefachim deep and four by four, or a hill that is ten tall and four by four. Rem\"a: Some say that the diagonal also must be four tefachim, like we will explain below in chapter 349. (Hagahos Ashiri; Tosefos)",
+      "ref": "Shulchan Arukh, Orach Chayim 345:2"
+    },
+    {
+      "seif": 3,
+      "he": "כתלים המקיפים רשות היחיד על גביהם רשות היחיד אפילו אינם רחבים ד':",
+      "en": "The tops of walls enclosing a private domain are considered private domain even if they are not four tefachim wide.",
+      "ref": "Shulchan Arukh, Orach Chayim 345:3"
+    },
+    {
+      "seif": 4,
+      "he": "חורים שבכתלי רשות היחיד שכלפי רשות היחיד הם רשות היחיד: הגה ואם הם כלפי חוץ ואינם עוברים כלפי פנים נדונין לפי גבהן ורחבן כמו שיתבאר סי' זה סעיף י\"ג (ב\"י בשם הרשב\"א והמגיד):",
+      "en": "Holes in a wall of a private domain that face the private domain are considered the private domain. Rem\"a: If they face outwards and do not go through to the inside, their status is determined by their width and height, as will be explained later in this chapter paragraph 13 (Beit Yosef in the name of the Rashb\"a and the Magid).",
+      "ref": "Shulchan Arukh, Orach Chayim 345:4"
+    },
+    {
+      "seif": 5,
+      "he": "אויר רשות היחיד הוא רשות היחיד עד לרקיע:",
+      "en": "The space above a private domain upwards until the firmament is considered the private domain.",
+      "ref": "Shulchan Arukh, Orach Chayim 345:5"
+    },
+    {
+      "seif": 6,
+      "he": "אפי' כלי כגון תיבה או מגדל או כוורת אם יש בו לרבע ארבעה על ארבעה והוא גבוה עשרה הוי רשות היחיד:",
+      "en": "An object, like a chest, turret, or receptacle, can be considered a private domain if it is four tefachim by four tefachim and is ten tefachim tall.",
+      "ref": "Shulchan Arukh, Orach Chayim 345:6"
+    },
+    {
+      "seif": 7,
+      "he": "איזה רה\"ר רחובות ושווקים הרחבים י\"ו אמה ואינם מקורים ואין להם חומה ואפי' יש להם חומה אם הם מפולשים משער לשער  (ואין דלתותיו נעולות בלילה) (טור) הוי רשות הרבים ויש אומרים שכל שאין ששים רבוא עוברים בו בכל יום אינו רשות הרבים:",
+      "en": "What is the public domain? Roads or markets that are sixteen amot wide and have no ceiling and no wall. Even if they have a wall, they can still be public domain if they are open at both sides (and the doors are not closed at night )(Tur). And some say that if 600,000 people do not pass through it daily, it is not a public domain.",
+      "ref": "Shulchan Arukh, Orach Chayim 345:7"
+    },
+    {
+      "seif": 8,
+      "he": "מבואות הרחבים י\"ו אמה ומתקצרין בקצתן ואין בהם י\"ו אמה י\"א שאם ארכן לאורך ר\"ה הרי הן רשות הרבים:",
+      "en": "Regarding alleyways that are mostly 16 amot wide but are less than 16 amot wide at parts, some say that if their longest part faces the public domain, they are considered the public domain.",
+      "ref": "Shulchan Arukh, Orach Chayim 345:8"
+    },
+    {
+      "seif": 9,
+      "he": "מבואות הרחבים י\"ג אמות ושליש ושני ראשיהם מפולשים לרשות הרבים שהוא רחב י\"ו יש אומרים שהוא רשות הרבים:",
+      "en": "Regarding alleys that are thirteen and one-third amot wide with both openings facing the public domain, which is itself sixteen amot wide, some say that they are considered the public domain.",
+      "ref": "Shulchan Arukh, Orach Chayim 345:9"
+    },
+    {
+      "seif": 10,
+      "he": "כל דבר שהוא ברשות הרבים אם אינו גבוה (שלשה) טפחים אפי' הם קוצים או צואה שאין רבים דורסין עליהם חשובים כקרקע והוי רה\"ר ואם הוא גבוה שלש ומשלש עד תשעה ולא תשעה בכלל אם הוא רחב ארבע על ארבע הוי כרמלית ואם אינו רחב ארבע על ארבע הוי מקום פטור ואם הוא גבוה ט' טפחים מצומצמים ורבים מכתפים עליו הוי רה\"ר אפילו אינו רחב ארבעה ויש מי שאומר דהוא הדין לגבוה מתשעה ועד עשרה ורבים מכתפים עליו הוי רשות הרבים אפי' אינו רחב ארבע' ומעשרה ולמעלה אם הוא רחב ארבעה הוי רה\"י ואם לאו הוי מקום פטור אפי' אם יש בו מקום כדי לחוק להשלימו לארבעה:",
+      "en": "If an object that is in the public domain is not (three) tefachim tall, even if it is thorns or dung such that people will not step on them, it is likened to the ground and considered the public domain. If it is three tefachim tall or from three to nine, not includng nine, if it is four by four it is considered karmelit. If it is not four by four, it is a place of exemption. If it is exactly nine tefachim tall and many people rearrange their loads on it, it is considered the public domain even if it is not four wide. There is one who says that this is also the case for an object that is 9-10 tefachim tall that is used by people for rearranging their loads even if it is not four wide. From ten up, if it is four tefachim wide, it is the private domain, and otherwise, it is a place of exemption, even if it is possible to [imaginarily] hollow it out to make it four tefachim wide.",
+      "ref": "Shulchan Arukh, Orach Chayim 345:10"
+    },
+    {
+      "seif": 11,
+      "he": "גומא ברה\"ר אם אינה עמוקה שלש הויא רה\"ר משלש עד עשרה אם רחבה ארבעה הוי כרמלית ואם לאו הוי מקום פטור ואם היא עמוקה עשרה הוי רה\"י והוא שתהא רחבה ארבעה:",
+      "en": "If a pit in the public domain is not three [tefachim] deep, it is considered public domain. From three to ten, if it is four tefachim wide it is karmelit, and otherwise it is a place of exemption. If it is ten deep, it is private domain, assuming it is four wide.",
+      "ref": "Shulchan Arukh, Orach Chayim 345:11"
+    },
+    {
+      "seif": 12,
+      "he": "רשות הרבים אינה תופסת אלא עד עשרה אבל למעלה מעשרה הוי מקום פטור:",
+      "en": "The public domain only extends ten [tefachim] up. Higher than ten is a place of exemption.",
+      "ref": "Shulchan Arukh, Orach Chayim 345:12"
+    },
+    {
+      "seif": 13,
+      "he": "חורים שבכתלים כלפי רשות הרבים אם הם גבוהים למעלה משלשה אינם כרשות הרבים אלא נידונים לפי מדותיהם:",
+      "en": "Holes in a wall that faces the public domain that are higher than three [tefachim above the ground] are not considered the public domain. Rather, they are assessed according to their dimensions.",
+      "ref": "Shulchan Arukh, Orach Chayim 345:13"
+    },
+    {
+      "seif": 14,
+      "he": "איזו היא כרמלית מקום שאין הילוך לרבים כגון ים ובקעה ואצטוונית ואיצטבא (פירוש אצטוונית מקום שלפני החנויות שיושבים שם הסוחרים ואצטבא הוא מקום שמניחים עליו פרקמטיא) שלפני העמודים בר\"ה והיא רחבה ארבעה וגבוה משלשה ועד עשרה וקרן זוית הסמוכה לרשות הרבים (כגון מבואות שיש להן שלשה מחיצות) (ואין להם לחי או קורה ברביעית) (טור) ורשות הרבים שהיא מקורה ותל שיש בו ארבע על ארבע ואינו גבוה עשרה וכן חריץ שהיא ארבעה על ארבעה ואינו עמוק עשרה:",
+      "en": "What is the karmelit? A place that is not used by the masses, like the sea or a valley; an itztevanit; or an itztiba (an itztevanit is the place in front of the stores where the merchants sit and an itztiba is the place where they place the goods) that is in front of the public domain pillars and is four wide and from three to ten tall; an area with a corner that is adjacent to the public domain (like an area surrounded three walls without a partition or a ceiling on the fourth side) (Tur); a public domain with a ceiling; a hill that is four by four but is not ten tall; and a pit that is four by four but is not ten deep.",
+      "ref": "Shulchan Arukh, Orach Chayim 345:14"
+    },
+    {
+      "seif": 15,
+      "he": "בית שאין תוכו עשרה וקרויו משלימו לעשרה יש בו ארבע על ארבע תוכו כרמלית ועל גבו רשות היחיד ואם חוקק בו ארבע על ארבע אפי' באמצע רחוק מן הכתלים נעשה כולו רשות היחיד:",
+      "en": "If a house that is not ten tefachim tall but whose roof completes the ten and which is four by four, its inside is karmelit and on top of it is private domain. But if one lowers a four-by-four area by digging, even if this area is in the middle of the house and far from the walls, the whole house becomes the private domain.",
+      "ref": "Shulchan Arukh, Orach Chayim 345:15"
+    },
+    {
+      "seif": 16,
+      "he": "גג הבולט על מחיצות הבית בענין שאין מחיצות הבית ניכרות לעומד על הגג הוי כרמלית ואפי' הוא גבוה ורחב הרבה ואם חלון פתוח לו מן הבית הוי ברה\"י וכן זיזין הבולטים מן הכותל ויש בהם ד' על ד' הוי כרמלית אלא אם כן חלון הבית פתוח להם:",
+      "en": "If the roof goes beyond the walls of the house such that one standing on the roof cannot see the walls, it is considered karmelit even if it is very high and wide. If a window is open to the roof from the house, it is considered the private domain. Similarly, brackets that extend from the wall that are four by four are karmelit unless a window is open to them from the house.",
+      "ref": "Shulchan Arukh, Orach Chayim 345:16"
+    },
+    {
+      "seif": 17,
+      "he": "חורי כרמלית אינם ככרמלית אלא הם נידונים לפי גבהם ורחבם:",
+      "en": "Holes in the [walls of the] karmlelit are not considered karmelit but are assessed according to their height and width.",
+      "ref": "Shulchan Arukh, Orach Chayim 345:17"
+    },
+    {
+      "seif": 18,
+      "he": "גדר כרמלית שלא יהא פחות מארבעה על ארבעה ואינה תופסת אלא עד עשרה ולמעלה מעשרה הוי מקום פטור וימים ונחלים ממיא משחינן הילכך הנוטל מהם מעל פני המים עד עשרה באויר הוי כרמלית למעלה מעשרה באויר הוי מקום פטור: הגה בור העומד בכרמלית אפי' עמוק מאה אמה הוי כרמלית אלא אם כן הוא רחב ארבעה על ארבעה דאין מקום פטור בכרמלית כמו שיתבאר בסמוך:",
+      "en": "The rules of a karmelit include that it must not be less than four by four and that it only includes ten tefachim above it. Above that is considered a place of exemption. Seas and rivers are measured from the surface of the water. Therefore, regarding someone who takes something from above the water, until ten upwards is karmelit and above that is a place of exemption. Rem\"a: Even if a pit in the karmelit is 100 amot deep, it is considered karmelit, unless it is four by four, because there is no place of exemption in the karmelit, as will be explained next.",
+      "ref": "Shulchan Arukh, Orach Chayim 345:18"
+    },
+    {
+      "seif": 19,
+      "he": "מקום פטור הוא מקום שאין בו ד' על ד' וגבוה משלשה ולמעלה עד לרקיע או חריץ שאין בו ד' על ד' ועמוק יותר משלשה וכן המחיצות הגבוהות משלשה ולמעלה ואין ביניהם ארבעה על ארבעה: הגה וכל זה דוקא בעומד ברשות הרבים אבל בכרמלית אמרינן מצא מין את מינו וניער ודינו ככרמלית (ר\"ן פרק כיצד משתתפין והגהות מרדכי פרק ט\"ו דשבת וטור וב\"י בשם רמב\"ם) ויש חולקים ואומרים דאין חילוק בין רשות הרבים לכרמלית (רש\"י ומ\"מ פי\"ד בשם רשב\"א) אבל אם עומד ברשות היחיד לכולי עלמא דינו כרשות היחיד (ב\"י):",
+      "en": "A place of exemption is a place that is smaller than four by four and between three tefachim above the ground until the firmament, or a pit that is smaller than four by four and is at least three tefachim deep, or walls that are three tefachim or taller and do not enclose a four-by-four area. Rem\"a: All of this refers to something that is in the middle of the public domain, but with regards to the karmelit, we say that the kind [place of exemption] has found its kin [karmelit, which is similar] and is aroused and treated like karmelit (Ra\"n in Perek Keitzad Mishtatfin and Hagahot Mordechai in chapter 16 of Shabbat) (Tur and Beit Yosef in the name of the Ramba\"m). There are those who dispute this and say that there is no difference in this matter between the public domain and the karmelit (Rash\"i and the Magid in the name of the Rashb\"a), but if it is in the private domain, all agree that is just considered the private domain (Beit Yosef).",
+      "ref": "Shulchan Arukh, Orach Chayim 345:19"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא שבת ו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:1"
+        },
+        "2": {
+          "he": "שם בברייתא ובכמה דוכתי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:2"
+        },
+        "3": {
+          "he": "שם צ\"ט בעי' ונפשטא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:3"
+        },
+        "4": {
+          "he": "שם ו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:4"
+        },
+        "5": {
+          "he": "שם ז'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:5"
+        },
+        "6": {
+          "he": "שם ח' בשמעתא דכוורת",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:6"
+        },
+        "7": {
+          "he": "שם צ\"ט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:7"
+        },
+        "8": {
+          "he": "בריש עירובין רש\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:8"
+        },
+        "9": {
+          "he": "רש\"י שם וכן נראה דעת הרא\"ש בפ\"ק דעירובין ובפ\"ג דביצה וסמ\"ג וסמ\"ק בסה\"ת והרוקח בסי' קע\"ה והתוספות בפ\"א דשבת דמשמע קצת כו' וכ\"כ בפ\"י דשבת אבל רמב\"ם לא הזכיר תנאי זה בפי\"ד וכן כתב הרב המגיד בשם רמב\"ן ורשב\"א והסכים עמהם וכ\"כ בהגהות מרדכי ממסכת שבת שבסוף עירובין וכן כתב הר\"ן בריש פרק במה אשה והריב\"ש בתשובה שאף שאין ס' רבוי עוברים בו הוי רה\"ר:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:9"
+        },
+        "10": {
+          "he": "הרב המגיד בפי\"ד בשם הרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:10"
+        },
+        "11": {
+          "he": "הרא\"ש בפ\"ק דעירובין בשם ר\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:11"
+        },
+        "12": {
+          "he": "שבת ו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:12"
+        },
+        "13": {
+          "he": "שם ח'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:13"
+        },
+        "14": {
+          "he": "רמב\"ם בפרק י\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:14"
+        },
+        "15": {
+          "he": "הרא\"ש שם וכן כתב הטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:15"
+        },
+        "16": {
+          "he": "שם בגמ' ז'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:16"
+        },
+        "17": {
+          "he": "שם וכרב' וכן כתב הרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:17"
+        },
+        "18": {
+          "he": "משנה שם ובגמרא ז' כפירש\"י שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:18"
+        },
+        "19": {
+          "he": "שם ז' וכרבא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:19"
+        },
+        "20": {
+          "he": "הר\"ן שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:20"
+        },
+        "21": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:21"
+        },
+        "22": {
+          "he": "שם בפירש\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:22"
+        },
+        "23": {
+          "he": "שם בגמרא ופירש\"י קרן זויות שנכנס בו בית לתוכו והניח מקרקע לר\"ה והפי' שכתב הטור והביאו הרב רמ\"א הוא דעת רמב\"ם פרק י\"ד וכבר כ' ה\"ה שיש חולקין עליו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:23"
+        },
+        "24": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:24"
+        },
+        "25": {
+          "he": "רמב\"ם בפרק י\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:25"
+        },
+        "26": {
+          "he": "שם בגמרא ז'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:26"
+        },
+        "27": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:27"
+        },
+        "28": {
+          "he": "עירובין צ\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:28"
+        },
+        "29": {
+          "he": "הרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:29"
+        },
+        "30": {
+          "he": "טור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:30"
+        },
+        "31": {
+          "he": "עירובין פז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:31"
+        },
+        "32": {
+          "he": "טור וה\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:32"
+        },
+        "33": {
+          "he": "שבת ז'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:33"
+        },
+        "34": {
+          "he": "שם ק' וכרב חסדא ורבה הרי\"ף ורא\"ש ורמב\"ם בפי\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:34"
+        },
+        "35": {
+          "he": "שם ז'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:35"
+        },
+        "36": {
+          "he": "רמב\"ם רפי\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:36"
+        },
+        "37": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 345:37"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "מחיצות עמ״א הקשה על ע״ש אות ה׳ דמסופק בהמחבר והא מבואר בסי״ט אות י״ו ואין ביניהם ד״ט הוי מקום פטור ואין עובי המחיצות מצטרפין וכ״ת במ״ש הט״ז א׳ א״כ מהרמב״ם ג״כ אין ראיה וי״ל ע״ג קרקע קאמר יע״ש. ולחי משום מחיצה וקורה משום היכרא ופי תקרה ברחב ד״ט יורד וסותם והוי מחיצה עסי׳ שמ״ו ס״ג בהג״ה ושס״ג בס״א ח׳ וט״ו. וג׳ מחיצות מחלוקת י״א דהוי מ״ה רה״י גמור ומדרבנן כרמלית וי״א מ״ה כרמלית היינו מקום פטור. ולכאורה קשה ממ״ש התוס׳ עירובין ס״ז ב׳ ד״ה ומאי מדלא תנן ה׳ רשויות כבסי׳ שמ״ו ס״ג קרפף מותר להוציא לכרמלית אחר והסכים הר״ב כן א״כ מבוי שיש לו ג׳ מחיצות דאסור ממנו לכרמלית הוי ה׳ רשויות וע׳ כאן שי״ד בהג״ה קרן זוית כו׳ ובט״ז לקמן סי׳ שס״ג א׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 345:1"
+        },
+        "2": {
+          "he": "חורים עמ״א תוס׳ שבת ז׳ ב׳ ד״ה והלכה יע״ש ולכאורה התוס׳ כתבו זה לאביי ולא לרבא ובחידושי הארכתי ועא״ר ח׳ ושל״ג ד׳ וא״ר ה׳ דמשם מוכח דחורי רה״ר המפולשים לרה״י למטה מיו״ד כחורי רה״ר דמי בסעיף י״ג ובסי״ו זיז הבולט נמי מיירי למעלה מעשרה הא למטה כחורי רה״ר דמי ואי״ה יבואר ע׳ אות שאח״ז:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 345:2"
+        },
+        "3": {
+          "he": "עד לרקיע עמ״א היינו דלא הוי מקום פטור ואסור הא לחייב הזורק מרה״ר ונח עליה צ״ע. וע׳ בר״מ ז״ל פי״ד הי״ז על מ״ש המ״מ שלא ביאר רבינו פי״ג ה״א מזה וצ״ע דפי״ג הלכה י״ו זרק מרה״ר לרה״ר ונח ברה״י פחות מג״ט משהו הוי הנחה הא למעלה מג״ט אף בהנחה בעינן ברה״י דע״ד וגי׳ בגיטין ע״ט אמר ר״ח זרק ע״ג טרסקל בראש הקנה וע׳ חה״ר שם משמע דהנחה נמי בעינן ברה״י ע״ג מקום ד׳ לחייב וע׳ שבת צ״ט ב׳ כותלי רה״י שאין דע״ד (כבס״ג) וזרק ונח ע״ג לאחרים עושים תיפוק בלא ק״ו כמו קנה ברה״י עכ״פ בהנחה. וטעפא דקנה לכאורה כמאן דמליא דמי ואמנם חורי רה״י מא״ל דל״ש כמאן דמליא באורך ורוחב ומשמע חורי רה״י בין פחות מג״ט ובין ט׳ או למעלה מעשרה ואין דע״ד כרה״י שהרי {הר״ב} אומר כן בס״ד דאם אין עוברים לרה״י נידונים לפי גובהן ורוחבן הא עוברים מעל״ע אין להם מדת גובהן ואורכן ורחבן כלל ובא לומר דמ״ש המחבר כלפי רה״י הוא ל״ד אלא עוברים מע״ל ועמ״א ב׳ למטה מט׳ ל״מ כאמור ול״ד פחות מט׳ ה״ה פחות מג״ט וכדכתיבנא וע׳ לבוש: והוי יודע ד׳ כרמלית יש א׳ כרמלית הוא מקום פטור מ״ה כל הקולות ומדרבנן כל החומרות ב׳ כרמלית קרפף יותר מב״ס שלא הוקף לדירה כבסי׳ שמ״ו מ״ה רה״י גמור ומדרבנן כרמלית והקילו לטלטל לכרמלית אחרת דאי לא הא לא קיימא הא עט״ז ג׳. ג׳ מחיצות בלא לחי לשאר פוסקים כרמלית כקרפף עמ״א א׳ ואסור ממנוי בלא לחי לכרמלית דנראה יותר כרה״ר מקרפף. {ד׳} ואמנם רה״ר מקורה ע״ג ב׳ מחיצות אני מסופק הא דחכמים בעירובין צ״ה א׳ אוסרים דל״א פי תקרה יורד וסותם היינו מדרבנן הא מ״ה י״ל פי תקרה יורד וסותם והוי רה״י מ״ה. והנה גדר כרמלית אין למעלה מעשרה היינו נעץ קנה כו׳ מקום פטור היינו בכרמלית שהוא מקום פטור מ״ה הא כרמלית שמ״ה רה״ר ודאי נעץ קנה עד מאה אמה רה״י הוי ופשוט הוא. ע׳ אות ט׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 345:3"
+        },
+        "4": {
+          "he": "ואפי׳ עמ״א וכוורת עגול ששה כדי לרבע דע״ד ואם עובי הדפנות מצטרפין עט״ז א׳ וע׳ פ״י למ״ד הם ואלכסונן כו׳ (כבס״ב בהג״ה) אפשר דאה״נ עם הפיאות קאמר ובחידושי הארכנו. ומשמע אומר רה״י עד לרקיע ונעץ קנה נוהג גם בכלי וה״ה הניח על עובי המחיצות כבס״ג נוהג בכלים. וע׳ סי׳ ר״מ במ״א י״ט וצ״ע. וברש״י שבת ח׳ א׳ לא משמע דהוי רה״ר וי״ל מקום פטור וע׳ עירובין ל״ד ובאות ח׳ וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 345:4"
+        },
+        "5": {
+          "he": "רחובות עמ״א דהוי כשכיחי רבים ועב״י",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 345:5"
+        },
+        "6": {
+          "he": "מפולשים עמ״א דוקא מכוונים השערים זה נגד זה הא אין מכוונים לא הוי רה״ר ועט״ז אות ה׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 345:6"
+        },
+        "7": {
+          "he": "וי״א עמ״א ואע״ג דסתם כאן כדיעה א׳ אין זה סתם דלא בעינן ס׳ רבוא עמ״ש בט״ז אות ו׳ ובי״ד בהנהגות או״ה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 345:7"
+        },
+        "8": {
+          "he": "ורבים עמ״א אע״ג בב״י מסיים בשם המ״מ וראוי לחוש לדברי רבינו הרמב״ם ז״ל בש״ע סתם דוקא כשרבים מכתפים הא בלא״ה לא הוי רה״ר. ועא״ר אות י״ו ומשמע ה״ה רחב דע״ד בעינן נמי דוקא רבים מכתפים ערש״י בשבת ז׳. ומ״ש המחבר וי״א מט׳ ועד י׳ אפילו רחב ארבעה ברוב דפוסים אפילו אינו רחב ד׳ וי״ל:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 345:8"
+        },
+        "9": {
+          "he": "לחוק עמ״א משמע דברה״י אף הנחה בחור בעינן דע״ד ושאני קנה ברה״י דכמאן דמליא דמיא והיינו לחיוב חטאת הא איסורא איכא בלא״ה מרה״ר לרה״י לחוד כ״ש. ובס״ד כתב הר״ב דחורי רה״ר נידונים כו׳ הא חורי רה״ר אין נידונים לפי ארכן ורחבן והיינו לאיסורא ועתו״ש וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 345:9"
+        },
+        "10": {
+          "he": "הוי רה״י עמ״א שבת ק״א. ופירות אינו ברה״י ורה״ר ג״כ לא הוי ופטור אבל אסור ע׳ תוס׳ שבת שם ד״ה פירות הא בטלו לעולם הוי רה״ר וצ״ע אם אין יכול להלך שם הוי כרמלית וי״ל דהוי מקום פטור. וים אע״ג דיש לו מחיצות הוי כרמלית כמ״ש באות י״ד יע״ש ואי״ה שם יבואר ומחיצה אע״פ שאין נעשה ב״א הוי מחיצה כתל גבוה עשרה ורחב דע״ד אלא אי רבים מבטלי מחיצה כזו באין מפולש עסי׳ שס״ג במ״א אות ל׳ יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 345:10"
+        },
+        "11": {
+          "he": "כגון עמ״א רמב״ם פי״ד הכ״ד וכתב שם אע״פ שרוב העם מדלגין עליה הוי רה״ר והיינו הואיל ומיעוטא הולכין בתוכה הילוך ע״י הדחק לרבים הוי הילוך וברש״י ק״ב ד״ה חייב אע״ג דאיכא דפסעי איכא טוב״א דעברי עליה משמע רוב העם עוברים ומיעוטא פסעי הא מיעוט עוברים ורובא פסעי לא הוי רה״ר עא״ר כ׳ ומ״ש ה״ה דף המונח עליו לכאורה מפרש כן מ״ש שם אגודא דגמלא ורש״י פירש לרוחב הגשר יע״ש ומ״מ אמת הוא דף שאין ברחבו דע״ד ומונח על רקק וחריץ לעבור שם הוי רה״ר כמו עמוד גבוה ט׳ ואין רחבו דע״ד דרבים מכתפים א״צ דע״ד ה״ה זה. ועתי״ט פי״א דשבת מ״ד ד״ה וכמה וד״ה רק״ק לא הבינותי דמיא לא מבטלי מחיצה ואין חילוק בין חריץ שיש בו מים או לאו רק ברבים מהלכין שם או לאו וכמ״ש ד״ה רק״ק והא דתנן רק״ק לומר הן בימות החמה או בימות הגשמים לאביי וה״ה לאינך א״ש יע״ש ומשמע דאע״פ שאין הרוב עוברים הוי רה״ר ואמרו רק״ק רפש וטיט ה״ה אמת המים צלולים ומיהו בעמוק י״ט ורוחב דע״ד אפשר לחלק בין רק״ק דאין המחיצות נראות הוי מדרבנן כרמלית ובין מים צלולים ע׳ אות י׳ ובר״מ ז״ל פי׳ המשניות כתב רק״ק אמת המים משמע צלולים עמוק י׳ חולקת רשות לעצמה משמע רה״י ובחבורו כתב עמוק י׳ הרי כרמלית בשאר הימים לכאורה דרפש וטיט אין נכרים המחיצות וכבאות י׳ ובים קשה דלא הוי כרמלית כ״א לחומרא מדרבנן כקרפף ב״ס שלא הוקף לדירה והזורק מרה״ר לתוכה חייב ובים פטור ובאות י״ד דים אין מתלקט י׳ מתוך ד״א א״כ ברק״ק אם מתלקט הוי רה״י וצ״ע ועתי״ט בפ״ו דפרה מ״ה וכעת צ״ע וי״ל דמחיצה שאין ב״א מיא מבטל מחיצה א׳ ובור בידי אדם הוא וי״ל דברי התי״ט ועסי׳ שס״ג אות ל׳ וצ״ע ואי״ה באות י׳ ולקמן יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 345:11"
+        },
+        "12": {
+          "he": "שלפני עמ״א בין העמודים טפלים לרה״ר אפי׳ הם לרוחב רה״ר משא״כ מבוי שלימה אין בטילה לרוחב רה״ר ובעינן יג״א ושליש הא לאורך רה״ר עמש״ל בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 345:12"
+        },
+        "13": {
+          "he": "רחוק עמ״א עב״י בשם הרא״ש הביאו הלבוש ומפרש המ״א דה״פ דקירוי ומשלים לעשרה אלא שאין ראוי לשימוש בתוך החלל שאין גבוה י״ט והלכך כי חקק דע״ד וראוי אז הקירוי משלים ועא״ר כ״ב די״ל בע״א:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 345:13"
+        },
+        "14": {
+          "he": "ממיא עמ״א הנה בגומא בים עמוקה יו״ד ודע״ד הוי רה״י אע״ג דמיא שם ומחיצה ממילא אפ״ה אין מבטל מים המחיצה בבור בסי׳ א׳ אות י׳ ואע״ג דר״ש אמר הכי מפרש לת״ק דהא מסייע לאביי ע׳ חה״ר שבת ק׳ א׳ וים דהוי כרמלית בהכרח שאין המחיצה מתלקט עשרה מתוך ד״א אבל הא דממיא משחינן אין ענין לזה וא״י למה ציין כאן וע׳ אות י׳ וי״א ומ״ש עמוקה י׳ הוי כרמלית דרבנן לחומרא אם יותר מב״ס בקרפף ותל יותר מב״ס ומ״ה הוי רה״י גמורה כבסי׳ שמ״ו אות א׳ ועתו״ש הראה לעירובין פ׳ א׳ ד״ה אוגני ים וי״ל דהמ״א לדוגמא נקיט דיש כרמלית דרבנן ומיהו בור עמוק עשרה מלא מים הוי רה״י גמור ובים הואיל והמים מכסים ושוה י״ל דהוי כרמלית דרבנן אף פחות מב״ס דאל״כ מה בא ללמדינו. ומה שיש לע׳ במ״ש המחבר גדר כרמלית כו׳ יבואר אי״ה בט״ז סוף הסי׳ וכאן אין להאריך:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 345:14"
+        },
+        "15": {
+          "he": "שאין עמ״א דבעינן ריבוע דע״ד או עיגול ו׳ על ו׳ או ה׳ וג׳ חומשין שיש לרבע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 345:15"
+        },
+        "16": {
+          "he": "ואין עמ״א ע׳ ט״ז ב׳ ומ״א אות א׳ אי בעינן בחללו דע״ד או לאו ושם פירשתיו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 345:16"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "מקום עט״ז שס״ג ס״א בט״ז א׳ ועמ״א כאן אות א׳ ולחי עסי׳ שס״ג ס״ח מאשירה נמי שרי וא״ל הא אסור בהנאה וי״ל דל״ד מצות לאו ליהנות נתנו ה״ה כדומה לזה דכל שאין הנאה גשמיות לחסות מזרם ומטר לאו הנאה אלא גזירה הכתוב דבעינן רה״י גמור עושין באיסורי הנאה וער״ן פ״ג דר״ה להרז״ה בדרבנן מצות ליהנות נתנו י״ל דסובר לחי מחיצה ומ״ה צריך לחי ולענין י״ט אי שייך דין כרמלית י״ל לרש״י ביצה י״ב א׳ אבנים מדרבנן אסור הוצאה י״ל ל״ג גזירה לגזירה כרמלית בי״ט ולתוס׳ שם דלוקה מ״ה יש דין כרמלית בי״ט עמ״א תקי״ח אות ג׳ אסור פי׳ דלוקה כתוס׳ ואי״ה שם יבואר ועמ״א כאן ז׳ לדידן לית רה״ר א״כ מוכח דבי״ט דאסור דלוקה או דאפ״ה גזרו ועמ״א שם אות ב׳: רשויות וקרפף שלא הוקף לדירה יותר מב״ס בשמ״ו ס״ג ונכלל כו׳ עתוס׳ שבת וי״ו א׳ ד״ה ארבע ובתו״ש כאן והנה לטלטל מקרפף לרה״י ממש י״ל שרי וי״ל אסור מה״ט גופא להוציאו מרה״י דלא לטלטל ביה בד״א ועתוס׳ עירובין ס״ז ב׳ ד״ה ומאי הוכיחו דל״ד מקרפף לים ה״ה מקרפף לכרמלית אחר דאל״כ יש ה׳ רשויות אע״ג דהונח להם בשבת וי״ו קושיית הרשב״א דנכלל כו׳ משא״כ כה״ג הרי חלוק קרפף מכרמלית ומוכח נמי דמקרפף לרה״י אסור דאל״כ עדיין יש ה׳ דחלוק מכרמלית ואי״ה בשמ״ו ס״ג יבואר עוד בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 345:1"
+        },
+        "2": {
+          "he": "ויש ב״ו עט״ז הנה לשון המחבר הוא לשון הטור ושינה מלשון הר״מ ז״ל פי״ד ה״ב מקום מוקף מחיצות וביניה״ן דע״ד משמע דסובר דעם המחיצות דע״ד סגי ועב״ח שהטור כתב בעצמו כרמלית שאין ביניהן רוחב דע״ד ולמ״ש הט״ז שהר״מ ז״ל דכתב ביניהן בין הכל משמע א״ש דעת הטור וכמ״ש המחבר בסי״ט ועמ״א אות וי״ו ולדידי נראה דגם דעת הט״ז ז״ל דבתוכו ממש כיון דאין רחב ד׳ ע״ד לא חזי לתשמיש אין תורת רה״י עליו רק מקום פטור אלא למעלה הוי רה״י בנופה יו״ד דחזי למינח דף ולשמש שם ודעת ר״ח בתוספות שבת בסוגיא דכוור׳ ח׳ א׳ דוקא עמוד גבוה יו״ד ורחב דע״ד רה״י דחזי לתשמיש לא ביש חלל ביניהם או דשאני כוורת מחיצות חלושות ערוגים מקנים (בימי חז״ל) אין ראוי למינח ולשמש שם ועיין חה״ר בשבע שיטות ח׳ יע״ש ובתוס׳ סוכה ד׳ ב׳ ד״ה פחות דהיכא דרחב המקום ביותר לא שייך מינח דף ומינח עליה מידי ובהא דשבת צ״ט ב׳ והקיפו לכרמלית לאחרים כו׳ הא כל שאין עושה לאחרים היינו החלל דע״ד דלמטה אף הט״ז מודה דלאו רה״י אף בראשו עם הכתלים לא הוי רה״י. וי״ל מש״ה נקיט והקיפו לכרמלית פירש״י ז״ל בקע פחות מב״ס ומ״מ רחב הוא יותר מעשר ועשרים אמה ל״ש למינח מידי בזה הטעם לאחרים עושה לעצמו לכ״ש הא בציר דחזי למינח דף ולמינח מידי בלא ה״ט נמי ומש״ה באין רוחב החלל דע״ד רק עם המחיצות הוי בראשו רה״י ע״ג מחיצות כשהן בריאים ועתוס׳ שם הוקשה להם למה נקיט כרמלית. והמחבר כאן ס״ג הביא הדין דצ״ט והשמיט הטעם לאחרים עושין לעצמן לכ״ש ובר״מ ז״ל פי״ד הלכה ג׳ הביא הא דלאחרים עושים להורות דוקא כשיש חלל דע״ד ביניהן הא לא״ה עובי המחיצות אין מצטרפין אף בראשם והמחבר השמיט זה דלשיטתיה בס״ב כ״ז דע״ד דמצטרפין וז״ש וזה אין מבואר כאן ועתו״ש האריך בכאן ויפה כתב ומ״מ דברי הט״ז י״ל כמ״ש ועיין אות ג׳ ואי״ה שם יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 345:2"
+        },
+        "3": {
+          "he": "ע״ג רה״י עט״ז עיין אות ב׳ בגמרא צ״ט מק״ו וכ״ה בר״מ ז״ל והמחבר השמיט זה דאף אין ביניהן דע״ד אפ״ה הוי עובי הכתלים רה״י וקשה דבגמרא משמע דוקא כשיש ביניהן דע״ד והר״מ ז״ל והט״ו השמיט מוקף לכרמלית והתוס׳ שם כתבו דרבותא היא ועיין תו״ש וי״ל דסוברים כמ״ש לעיל ~לשרמלית~{לכרמלית} להורות דרחב הרבה ואם כן סתמו דבין רחב הרבה ובין מעט עובי מצטרפין. והוי יודע דאם היה כאן שלש מחיצות דהוי כרמלית להר״מ ז״ל מ״ה מקום פטור ולאינך פוסקים מ״ה רה״י גמור ומדרבנן אסור לטלטל בד״א בכרמלית והקיף לה מחיצה ד׳ שאין עוביה ד׳ י״ל דלית ק״ו דלאחרים לא הועילה מ״ה כלום לאינך פוסקים א״כ אין עוביה רה״י לחייב הזורק עליה משא״כ להר״מ ז״ל הועילה המחיצה לשויי׳ לחלל רה״י מ״ה כמ״ש פי״ז שם במ״מ ק״ו לעצמו. ואי״ה במ״א ג׳ יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 345:3"
+        },
+        "4": {
+          "he": "אפי׳ עט״ז. ועיין גמרא ח׳ א׳ כוורת ששה י״ל ששה ואלכסונן קאמר כמו ד״א באלכסונן ועיין הג״ה שם ופני יהושע בזה ומ״ש הר״ב בהג״ה ס״ב הן ואלכסונן ובלבוש השמיט לעיל הג״ה זו עא״ר ד׳ הראה לרש״י עירובין כ״א א׳ יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 345:4"
+        },
+        "5": {
+          "he": "ואין עט״ז ועסי׳ שס״ד במ״א ב׳ ותו״ש כאן ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 345:5"
+        },
+        "6": {
+          "he": "וי״א עט״ז סובר ז״ל מ״ש הב״י וקושיא זו הקשה המ״מ בפרק ששי הכ״ב קאי אקושיא שנייה דסמיך לה ועיין חה״ר בשבת ריש מי שהחשיך דסתימת דבריו משמע קצת כן לדידן דלית רה״ר ובא״ר י״א ובס׳ נהר שלום פי׳ דקאי אקושיא ראשונה דמתיירא יע״ש בשל״ד ועמ״א ז׳ פסק ג״כ לקולא ואע״ג דהלכה כדעה א׳ בסתם היינו במפורש משא״כ כאן שאין מפורש להיפוך ונ״מ להקל בגזירה לגזירה בכמה דוכתי כבסימן ש״ג סי״ח ויש חומרא ג״כ כדלקמן סי״ט בהג״ה מקום פטור ברשות הרבים או כרמלית כו׳ ויש לומר דלא הוי תרי קולי דסתרי דהוי ס״ס שמא הלכה כי״א ושמא יש רשות הרבים אע״ג דעת הר״ב כדיעה א׳ בסי״ט (שגם בהר״ב נוהג הדין כן) וכבסי׳ שמ״ו בס״ג בהג״ה מ״מ מידי ספיקא אפשר לא נפיק וצ״ע בזה. ועסי׳ של״ד במ״א ג׳ בכיסו בזה״ז יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 345:6"
+        },
+        "7": {
+          "he": "י״ג אמות עט״ז צ״ל וכל בקר אמה וב׳ שלישי אמה ח׳ בקר י״ג אמה ושליש עושין פסין י״ט א׳ ולכאורה לאורך רה״ר אף שמתקצר באמצע ולית יג״א ושליש הוי רה״ר וכשהוא לרוחב בעינן כל הרחב יג״א ושליש ואמנם משמע אף לרוחב כל שיש הרוב יג״א ושליש אף שמתקצר בנתיים אלא אם כל הרוחב לית יג״א ושליש ולרוחב רה״ר אז אין רה״ר ועב״י וא״ר וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 345:7"
+        },
+        "8": {
+          "he": "הוא עט״ז ולמעלה משלש עד עשרה טפחים ואין רבים מכתפים הוי כרמלית ועמ״א אות ח׳ יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 345:8"
+        },
+        "9": {
+          "he": "ואין עט״ז מבוי שלש מחיצות ואין להם לחי וקורה להר״מ הוי כרמלית מ״ה ולי״א רה״י מ״ה ומדרבנן כרמלית וביש לחי רה״י לכ״ע וקורה היכרא ולהר״מ ז״ל דשלש כרמלית מ״ה בלא קורה הוי מקום פטור ושרי לטלטל בכולו מ״ה וה״ה לרה״ר ולרה״י ומדרבנן אסור לטלטל בכולו כשאין קורה ועמ״א א׳ מזה עסי׳ שס״ג בט״ז א׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 345:9"
+        },
+        "10": {
+          "he": "גג עט״ז צ״ל שאין מחיצות הבית ניכרות וכ״ה בדפוס ש״ע שאין כו׳ ועיין עירובין דף צ״ב ופ״ט א׳ ועסי׳ שע״ד מ״א ה׳ בתוספות משמע ד״ט כולי ומסתימת הפוסקים משמע דכל שבולט משהו ואין ניכר כו׳ הא אין בולט כלל ע״ז כתב המ״א שם דלא גרע מעמוד גבוה עשרה דגוד אסיק מחיצה ומ״ש רש״י וכל גגיהן חלקין היו ולא משופין לדידן אף משופעין הוי כרמלית ורש״י נקיט אורחא דמלתא וה״ה אין בולט והבתים מחוברים נמי אין מחיצות ניכרות ערש״י עירובין פ״ט ולבוש בזה ואי״ה בשע״ד יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 345:10"
+        },
+        "11": {
+          "he": "וכל זה עט״ז והלכה כדיעה א׳ ועסי׳ שמ״ו ומיהו אם עמוד שאין בו דע״ד וגבוה יותר מעשרה הוי מקום פטור דכרמלית אין תוספת יותר מעשרה ובמ״א אי״ה יבואר עוד: והנה מה שכתב המחבר בסי״ח גדר כרמלית עד עשרה הא למעלה מעשרה לא ערש״י שבת דף ז׳ מוד״ה דעד יו״ד פני לבינה וסובר באין מסויים לא בעינן דע״ד או קולט ולהר״מ למטה מצא מין את מינו ועא״ר כאן בזה יע״ש ודע דכרמלית דרבנן כקרפף ותל (כבסימן שמ״ו במ״א א׳) רה״י הוא מ״ה ועולה עד לרקיע ולענין מצא מין את מינו וניער יש לספק קצת בכרמלית דרבנן ועסי׳ שמ״ו: גם הא דבור עמוק עשרה ורוחב דע״ד הוי רה״י יש לעיין אי אויר רה״י בזה עולה עד לרקיע די״ל דהתם מחיצות גוד אסיק משא״כ בקרקע עולם א״ד חוד הפנימי גוד אסיק ובים כה״ג בור עמוק עשרה ורוחב דע״ד עמ״א י״ד ונקרש ע״פ הים כולו אי אמרינן גוד אסיק כה״ג וצ״ע בכל זה. ומה שכתב רש״י שבת ז׳ קרפף לרה״ר כו׳ היינו כמ״ד דקרפף לאו רה״י מ״ה עירובין ס״ו מתיב כו׳ ומשום דאמר אילימא דאי מחיצה עשרה פירש כן ועתוס׳ שם ובתו״ש בסימן שמ״ו הביא מה שכתב רש״י בשבת פרק שני רשויות יע״ש: שמעתי מהרב מויטקאב מק״ק בראד נכד רבינו הגאון הב״ש בשם הרב הגאון מוהר״י אב״ד דק״ק דיקלא מ״ש בגמרא ל״ק בזמן שישראל שרוין במדבר להיפוך כמ״ש התוס׳ בחולין כיסוי הדם בזמן שהיו במדבר היו מצמחת. דאין רשות להלך ברה״י בזה״ז רה״ר וכמ״ש הרמב״ם ז״ל כ״מ שיש רשות להלך וא״צ ס׳ רבוא ודפח״ח וש״י:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 345:11"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] כרמלית וכו'. פירש רך ומל לא לח ולא יבש אלא בינוני הכא נמי כרמלית אינה לא רשות היחיד ולא כרשות הרבים (תוס' שבת דף ו'), ומגיד כתב כרמלית לא בתולה ולא אשת איש:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:1"
+        },
+        "2": {
+          "he": "[ב] המוקף מחיצות וכו'. ואפילו אין ברביעית לחי או קורה מיהו מדאורייתא אף בשני מחיצות ולחי הוי רשות היחיד ועיין סימן שי\"ג סעיף י\"א, ואם עושה ארבע דיומדין בארבע זויות המחיצה כמו פסי ביראות הוי רשות היחיד דאורייתא:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:2"
+        },
+        "3": {
+          "he": "[ג] ויש בו וכו'. עיין סעיף י\"ט דכתב שצריך שיהא בין המחיצות ארבע דלא כעולת שבת (מגן אברהם), מיהו למה שפירש הט\"ז דברי רמב\"ם דמה שכתב ביניהם רוצה לומר בין הכל אם כן יש לומר גם דעת השולחן ערוך דהמחיצות מצטרפין לארבע וכן פסק הרשב\"א בספר עבודת הקודש דף ט' אלא שמחלק דוקא בכותלין בריאין שאם רצה לכסותו מלהשתמש עליו מכסה ומשתמש אבל חלושין מלקבל כיסוי הראוי להשתמש עליו אין מצטרפין, ולפי זה נראה לי דמה שכתבו הרמב\"ם והשולחן ערוך סעיף י\"ט מיירי בתלושין ותדע שהרי הרשב\"א בדף י' כתב נמי אם אין חללו רחב ארבע הרי זה מקום פטור אלא על כרחך מיירי בתלושין, ועל פי זה יש לתרץ קושיות הט\"ז מפרק הזורק דף צ\"ט, גם דברי רש\"י מתורצים בזה ודו\"ק:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:3"
+        },
+        "4": {
+          "he": "[ד] רוחב ארבע וכו'. לא ידעתי למה השמיט הלבוש מה שכתב רמ\"א דיש אומרים דבעינן ארבע על ארבע והן ואלכסון כמו שכתב סימן שמ\"ט (מלבושי יום טוב). ולעניות דעתי יפה עשה הלבוש שהשמיט כי מבואר מפירוש רש\"י בעירובין דף נ\"א דדוקא בסימן שמ\"ט במעביר ברשות הרבים דליכא למיתב פיאות הוא דבעיא הן ואלכסונן אבל הכא בארבע ד' על ד' סגיא וכן משמע בספר עבודת הקודש דף י\"ד ע\"ב ורבינו ירוחם דף ע\"א ובמגיד פרק י\"ד הלכה ו' וכן משמע ברמב\"ם פרק י\"ב וטור וסתימת הפוסקים:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:4"
+        },
+        "5": {
+          "he": "[ה] [לבוש] אם מוקף לדירה וכו'. פירוש לענין טילטול אבל רשות הרבים דאורייתא הוא אפילו אינו מוקף לדירה עיין סימן שמ\"ו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:5"
+        },
+        "6": {
+          "he": "[ו] [לבוש] נעולים וכו'. לשון כשיש בו כדרך שבעיר כל דיני רשות הרבים סעיף ז' וגם דוקא ששתי דלתות מכוונים זה כנגד זה דאם לא כן אפילו פתוחות בלילה כתב בית יוסף דהוי רשות היחיד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:6"
+        },
+        "7": {
+          "he": "[ז] וכן תל וכו'. תל שהוא משופע והוא מתלקט גובה עשרה מתוך הילוך ארבע אמות הוי רשות היחיד ואם מתלקט גובה עשרה מתוך הילוך חמישה אמות הוי רשות הרבים. נעץ קנה גובה עשרה ברשות הרבים ובראשו טרסקל רחב ארבע לא אמרינן גוד אחית מחיצתא דהוה ליה מחיצה שהגדיים בוקעים בה אבל אם הטרסקל עצמה גבוה עשרה ורחב ארבע גם מה שתחתיו הוי רשות היחיד. עמוד גבוה עשרה ורחב ארבע ואין בעיקרו ארבע אפילו ליכא בקיעת גדיים לא הוי תחתון רשות היחיד אלא על גביו (מגן אברהם), וזה לשון עבודת הקודש דף ט' אם יש בקצר שלו רחב ג' הרי זה נדון לרשות היחיד דכל שהקצר שלו עבה בזה אומרים גוד אחית המחיצות, עד כאן, וכן כתב המגיד פרק י\"ד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:7"
+        },
+        "8": {
+          "he": "[ח] חורים וכו'. ואפילו הם למטה מעשרה ומה שכתבו התוס' דלמטה מעשרה שייך לרשות הרבים היינו לפי הסלקא דעתה כנזכר לעיל דלא כעולת שבת (מגן אברהם), וכן מצאתי בספר עבודת הקודש לרשב\"א זה לשונו אף שהן למטה מעשרה ואין רחבו ארבע על ארבע עד כאן לשונו. שוב מצאתי ברבינו ירוחם דף ע\"א שכתב בשם תוס' דאם החורים מעבר לעבר שבכותל דהיינו נגד רשות היחיד ונגד רשות הרבים אם הוא למטה מעשרה דינם כחורים שברשות הרבים למעלה מעשרה הם כרשות היחיד, עד כאן, ולמגן אברהם ועולת שבת אשתמיט כל זה ועיין סימן שנ\"ג ס\"ק ה':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:8"
+        },
+        "9": {
+          "he": "[ט] [לבוש] ואינם כלפי פנים וכו'. משמע דאם הם גם כלפי פנים הם כרשות היחיד אף שהם גם כלפי חוץ ועיין מה שכתבתי בס\"ק הקודם וצריך עיון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:9"
+        },
+        "10": {
+          "he": "[י] עד לרקיע וכו'. ואם נעץ קנה ואפילו מאה אמה הוי על גביו רשות היחיד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:10"
+        },
+        "11": {
+          "he": "[יא] ואפילו כלי וכו'. פירוש אפילו עמוד ברשות הרבים וכן עמוד ברשות הרבים גבוה עשרה ורחב ארבע דהוי כרשות היחיד ועולה עד לרקיע אף שאין לו מחיצות ניכרת למעלה (עבודת הקודש), ואפילו נעץ בראשו יתד או יתדות בין גבוהין ג' בין אין גבוהין ג' לעולם הוי רשות היחיד, וכן פסק הב\"ח וכן הסכימו הפוסקים במגיד שם ודלא כעולת שבת סוף סימן זה, וכלי שאין גבוה עשרה הוי כמו רשות הרבים דאין כרמלית בכלים אם לא שמחובר לקרקע (תוס' דף י\"א):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:11"
+        },
+        "12": {
+          "he": "[יב] אם יש לרבע בו וכו'. ולהצטרף הדפנות עיין ס\"ק ג':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:12"
+        },
+        "13": {
+          "he": "[יג] משער לשער וכו'. פירוש מכוונים זה כנגד זה. כתב הט\"ז אם דלת אחד נעול בלילה מבטל גם כן רשות הרבים כיון דלא הוי מפולש:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:13"
+        },
+        "14": {
+          "he": "[יד] ויש אומרים וכו'. שיירי כנסת הגדולה וים של שלמה ומשאת בנימין סימן צ\"ב הסכימו לסברא ראשונה דאף שאין ששים רבוא עוברין הוי רשות הרבים ודעת מגן אברהם וט\"ז להקל וכן פסק בתשובת ר' יום טוב צהלון סימן רנ\"א, מיהו במקום שיש עוד צד להקל משמע דלכל הפוסקים הנזכרים לעיל יש לסמוך על סברא אחרונה, ומה שהניח הט\"ז בתימא מסימן של\"ד בבית יוסף עיין שם, ולא קשה מידי דמטעם ראשון שמתיירא להוציא כתב בית יוסף כן וקיצרתי מדברות ויערות מחלק הב\"ח אם דרכים מפולשים להם הוי רשות הרבים ואם לאו הוי כרמלית:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:14"
+        },
+        "15": {
+          "he": "[טו] שאם ארכן וכו'. זה לשון בית יוסף ממגיד ומתקצרין וכו' הוי רשות הרבים לפיכך מבואות המפולשים לרשות הרבים וארכן לאורך רשות הרבים אף שאין ברחבן ט\"ז הוי רשות הרבים הא אם ארכן מפולש לרחב לרשות הרבים אין זה רשות הרבים, עד כאן, ומשמע לי דהכי קאמר דאם רחבה ט\"ז רק שמתקצרין הוי רשות הרבים אף שאין ארכן לאורך רשות הרבים, אך במבואות המפולשין שאין בכל רחבן ט\"ז יש חילוק וצריך עיון גם על השולחן ערוך:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:15"
+        },
+        "16": {
+          "he": "[טז] ורבים מכתפין וכו'. אבל כשאין מכתפין עליו אף על גב דראוי לכתף עליו לא הוי רשות הרבים (בית יוסף ראב\"ד ומגן אברהם), וליתא דהא סיים בית יוסף בשם המגיד דרשב\"א כתב דראוי לחוש לרמב\"ם וכן ראיתי בספר עבודת הקודש דף ט' ומסיים לפיכך אסור לטלטל ממנו לרשות הרבים ואפילו לכרמלית ומהם עליו, עד כאן, וכן דעת שלטי גיבורים דף צ\"ט:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:16"
+        },
+        "17": {
+          "he": "[יז] ויש מי שאומר וכו'. ונראה לי עיקר כרמב\"ם בעל סברא ראשונה שכן ראיתי בעבודת הקודש שם ור\"ן וכלבו ודלא כב\"ח סוף סימן שנ\"ב:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:17"
+        },
+        "18": {
+          "he": "[יח] היא רשות היחיד וכו'. אפילו מלאה מים או שאר דברים מסתכל בתוכו ונראין המחיצות אבל מלאה פירות אפילו דעתו לפנותן אינו רשות היחיד דאין המחיצות ניכרות:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:18"
+        },
+        "19": {
+          "he": "[יט] שתהא רחבה ארבע וכו'. ואם לאו הוא מקום פטור ואפילו עמוקה עשרים אמה (עבודת הקודש דף ט'):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:19"
+        },
+        "20": {
+          "he": "[כ] כגון ים וכו'. רקק מים ברשות הרבים ורשות הרבים מהלכת בו אם אינה עמוקה עשרה בין שהיא רחב אפילו ז' אמות בין שלא היה רחב ד' טפחים ורוב העם מדלגין עליו ואין מהלכין בתוכו הוי רשות הרבים והוא הדין דף המונח עליו ואם עמוקה עשרה ורחבה ארבע הוי כרמלית כמו ים (רמב\"ם סוף פרק י\"ד), וכן משמע בשבת דף ק' דקאמר דלא הוי ד' מיפסעי פסעי ליה ומה שפירש רש\"י איכא טובא וכו' מכל מקום לא הוי רובא כן נראה לי ברור, ומגן אברהם משוה מחלוקת בין רש\"י לרמב\"ם לחינם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:20"
+        },
+        "21": {
+          "he": "[כא] שלפני עמודים וכו'. אבל בין העמודים ברשות הרבים אפילו אין רחבו י\"ג אמה ושליש כיון שרבים בוקעים בו מה שאין כן במבוי שכתב סעיף ט' כן כתב מגן אברהם ודלא כעולת שבת ונראה דדמי לסעיף ח':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:21"
+        },
+        "22": {
+          "he": "[כב] [לבוש] דגבוהות עשרה וכו'. משמע דאם אין גבוהין עשרה עם הקירוי בעינן שיהא החקוק סמוך לכותל פחות משלושה טפחים (מגן אברהם), וצריך עיון בר\"ן פרק קמא דשבת לכאורה דמצטרפין עיין שם, ודוחק גדול לפרש דמה שכתב וקיימא לן הכי וכו' חזר וקאי למעלה אסוכה עיין שם ודו\"ק, ובתוס' דף ז' לא כתב כן, גם צריך עיון לחשוב הקירוי למחיצה לטלטל בתוכו ויותר היה נראה לי לפרש דברי הרא\"ש דאף שאין מצטרפין שפת החקק, מכל מקום חשבינן המחיצה בחוץ מלמטה נגד תוך החקק וצריך עיון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:22"
+        },
+        "23": {
+          "he": "[כג] [לבוש] והא דאמרינן וכו'. כן כתב בית יוסף בשם הרא\"ש וצריך עיון דבעבודת הקודש דף ט\"ו ע\"ב כתב דף שלפני החלון היוצא לרשות הרבים ורחב ארבע ולמעלה מעשרה אפילו רחוק מן החלון שלושה טפחים משתמש עליו שאין רשות הרבים וכרמלית תופסין למעלה מעשרה, עד כאן, ועיין סימן שנ\"ג ס\"ק ה':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:23"
+        },
+        "24": {
+          "he": "[כד] [לבוש] כפי מידותיהן וכו'. ואם אין גבוהין שלושה מארץ הוא ככרמלית (עבודת הקודש):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:24"
+        },
+        "25": {
+          "he": "[כה] גדר וכו'. פירוש דין כרמלית, ומה שכתב ואין תופסת וכו' מיירי באין רחב ארבע דמכל מקום פחות מעשרה הוי כרמלית דמצא מין את מינו כמו בור עמוק דאילו רחב ארבע למעלה מעשרה הוי רשות היחיד, וליש חולקים בסוף סימן זה צריך לומר דמיירי הכא ברחב ארבע ולמעלה מעשרה דלא הוי רשות היחיד היינו בדבר שאינו מכוין כגון פני כותל או קולט מן האויר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:25"
+        },
+        "26": {
+          "he": "[כו] משלושה ולמעלה וכו'. משמע אף שגבוה תשעה, וצריך לומר דמיירי באין ראוין לכתף עליו עיין סעיף י':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:26"
+        },
+        "27": {
+          "he": "[כז] ויש חולקין וכו'. וסברא ראשונה עיקר וכן משמע בבית יוסף ומשולחן ערוך וכן משמע סוף סימן שמ\"ו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 345:27"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "מקום המוקף מחיצות.  בסי' שס\"ג יתבאר כמה מחיצות צריך שיהו שם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 345:1"
+        },
+        "2": {
+          "he": "ויש בו ד' טפחים כו'.  משמע דעובי המחיצות הם נמדדים עם החלל לד\"ט וכ\"כ הרא\"ש להדיא פרק קמא דשבת גבי כוורת שהדפנות מצטרפות עם החלל הכוורת לרוחב ד' כו' וכ\"כ התו' בפ\"ק דף ח' דלא כפי' ר\"מ שפי' שיהו ד' בתוך הכוורת אלא גם העובי מצטרף כמו בחולית הבור דמצטרף לחלל הבור כיון דחזי למינח עליה מידי כו' וסיימי כדפרש\"י ומ\"ש רש\"י הביאו ב\"י וז\"ל וכן גדר דאמרי' מד' צדדין גוד אסיק פני המחיצה על ראשו ונמצא ראשו מוקף מד' צדדין וחללו ד' עכ\"ל אין לטעות בזה דדוקא בחלל צריך שיהיה ד\"ט בלא המחיצות דלהכי כתב רש\"י פני המחיצות להורות שחודו החיצון עולה ואסיק מחיצות נמצא שעובי המחיצות הם בכלל החלל בין חודו של זה החיצון לחוד שכנגדו וזה מוכח דאם תרצה לפרש דברי רש\"י על חלל ממש יהיה פירושו מוסכם עם ר\"ח והתו' סיימו שפירש\"י מסכי' לפי' שלהם והרמב\"ם כ' בפי\"ד מוקף ד' מחיצות גבוהי' וביניהם ד\"ט כוונתו ג\"כ עם עובי הכתלים ומ\"ש ביניהם פירושו בין הכל כנ\"ל אלא דק\"ל ממ\"ש בפ' הזורק (שבת דף צ\"ט) בעי ר\"י כותל בר\"ה גבוה י' ואינו רחב ד' ומוקף לכרמלית ועשאו רה\"י וזרק ונח ע\"ג מהו מי אמרינן כיון דאינו רחב ד' מקום פטו' הוא א\"ד כיון שעשאו רה\"י כמאן דמלי' דמי פירש\"י והוה אצלו ראשו כארעא סמיכתא כל החלל אמר עולא ק\"ו לאחרים עושה מחיצה לעצמו לא כ\"ש פירש\"י ראש הכותל הרי לפנינו דכיון שעשאו רה\"י אז אמרינן דהו' כמאן דמלא דרה\"י עול' עד לרקיע משא\"כ כאן דבלא העובי לא הוי רשות היחיד א\"כ אינו עולה עד לרקיע ולא הוי כארעא סמיכתא וכן במה דסיי' לאחרי' עוש' רה\"י כו' וזה אינו מבורר כאן וצ\"ע:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 345:2"
+        },
+        "3": {
+          "he": "ע\"ג רה\"י.  פי' ואע\"ג דאין רחבין ד' הוויין רה\"י דכיון שהם עושין היקף שלהם את הקרקע המוקפת רה\"י שהיה כרמלית קוד' לזה ק\"ו שהן עצמן יהיו רה\"י ועמ\"ש לפני זה מה שקשה מזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 345:3"
+        },
+        "4": {
+          "he": "אפי' כלי.  עמ\"ש סי' שנ\"ו לענין רקק מים בר\"ה או ברה\"י:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 345:4"
+        },
+        "5": {
+          "he": "ואין דלתותיו נעולות.  נראה דאם דלת א' נעול מבטל ג\"כ ר\"ה כיון דלא הוה מפולש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 345:5"
+        },
+        "6": {
+          "he": "וי\"א שכל שאין ס' רבוא כו'.  כתב ב\"י הדיעה האחרונה היא דעת רש\"י והתו' והרא\"ש והטור וסמ\"ג וסמ\"ק וסה\"ת (והמרדכי פ' כל כתבי) והרוקח והאחרון מהרי\"ו בתשו' ודיעה ראשונה הוא דעת הרמב\"ם ורמב\"ן ורשב\"ם והמ\"מ והר\"ן והריב\"ש ותמהתי דכאן כתב ב\"י בשם המ\"מ ורמב\"ם ורשב\"א דא\"צ ס' רבוא בוקעים ולעיל סי' של\"ד כתב הטור להקשות על סה\"ת מהך סברא דאין כאן איסור דאוריי' לדידן שאין לנו ר\"ה כו' וכתב ב\"י שזו הקושי' הקשה המ\"מ בשם הרשב\"א א\"כ משמע דס\"ל שלא הוה ר\"ה עד שיש ס' רבוא ג\"כ דאל\"כ גם לדידן יש ר\"ה וכתב רש\"ל בפ' א\"צ סי\"ח וכ\"כ מהר\"ר בנימן בתשו' סי' צ\"ב דיש להחמיר כדיעה ראשונה ורמ\"א כ' בסי' שמ\"ו שכל רשויות שלנו כרמלית הם משמע כדיעה אחרונה ובפי העולם מורגל עכשיו שאין לנו ר\"ה הוא כדעת הי\"א והם רבים ובפרט שבדעת המ\"מ ורשב\"א מצינו ג\"כ להיפך כמ\"ש וע\"כ המחמיר יחמיר לעצמו ואין בידו למחות למה שנוהגין עכשיו כאותן הרבים שמקילין כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 345:6"
+        },
+        "7": {
+          "he": "י\"ג אמות ושליש.  אף ע\"ג דרוחב ר\"ה הוא י\"ו אמות כמו שהי' בין העגלות במדבר מ\"מ כאן ששני ראשיה הם לר\"ה הוה זה ג\"כ ר\"ה וטעם לשיעור זה הוא כמו שמצינו בפסי ביראות שהי' בין כל פס לפס שיעור זה דהיינו כשיעור שיוכלו לעבו' שם שני רבקות של ארבע' בקר כשפוגעות זו בזו א' נכנסת וא' יוצאת דאז ניחא תשמישתיה שם כמו בר\"ה וכל בקר הוא אמה וב' שלישי' כדאי' פ' עושין פסין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 345:7"
+        },
+        "8": {
+          "he": "הוה כרמלית.   דל\"ד לגבוה י' דכאן הוה תשמיש ע\"י הדחק ולאו שמיה תשמיש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 345:8"
+        },
+        "9": {
+          "he": "ואין להם לחי כו'.  דאלו הי' שם לחי הוי רה\"י גמור דלחי משום מחיצה ואלו הי' שם קורה דלא הוה מחיצה להרמב\"ם אלא משום היכרא מ\"מ הוה רה\"י לטלטל בתוכו ועכשיו שאין שם לא זה ולא זה שוי' ככרמלית:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 345:9"
+        },
+        "10": {
+          "he": "גג הבולט כו'.  טעם לפי שנעש' הגג רה\"י מחמ' גוד אסיק לא אמרי' כן (אלא) היכא שהמחיצות ניכרות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 345:10"
+        },
+        "11": {
+          "he": "וכל זה דוקא כו'.  פי' בר\"ה אמרינן באין בו ד' דלא הוי כרמלית אלא מקום פטור אבל בעומד בכרמלית אע\"ג דלא הוה ד' הוה ככרמלית דמצא מין כו' ויש חולקים ס\"ל דאף בכרמלית הוה זה מקום פטור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 345:11"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "מחיצות. עסי\"ט דכתב שצריך שיהיה בין המחיצות ד' דלא כע\"ש: משמע בדברי הפוסקים דכשיש שני מחיצות ולחי הוי רה\"י דאורייתא כדאיתא בעירובין דף י\"ב דלחי משום מחיצה וכ\"כ הרא\"ש פ\"ק דסוכה ועסי' שס\"ג סי\"א ודעת הרמב\"ם דג' מחיצות הוי כרמלית ע\"ש ועסי\"ד בהג\"ה וססי' שמ\"ו ואם עושה ד' דיומדין בד' זויות כמו פסי ביראות הוי רה\"י דאורייתא כדאיתא בעירובין דף כ' עסי' תר\"ל ס\"ז וערסי' שס\"ג, תל שהוא משופע והוא מתלקט גבוה י' מתוך הילוך ד\"א הוי רה\"י ואם מתלקט גבוה י' מתוך הילוך ה' אמות ניחא תשמישתי' והוי רה\"ר אם עומד שם עסי' שצ\"ט ס\"ד מ\"ש, נעץ קנה גבוה י' בר\"ה ובראשו טרסקל רחב ד' לא אמרי' גוד אחית מחיצתא דה\"ל מחיצה שהגדיים בוקעים בה אבל הטרסקל עצמו גבוה י' ורחב ד' גם מה שתחתיו הוי רה\"י (תוס'), עמוד גבוה י' ורחב ד' ואין בעיקרו ד' אפי' ליכא בקיעת גדיים לא הוי תחתיו רה\"י אלא על גביו (תו' שבת דף צ\"ט) עמ\"ש סי' רס\"ו:",
+          "en": "",
+          "ref": "Magen Avraham 345:1"
+        },
+        "2": {
+          "he": "חורים. ואפי' הם למטה מי' ומ\"ש התוס' דלמטה מי' שייך לר\"ה היינו לפי הס\"ד כנ\"ל דלא כע\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 345:2"
+        },
+        "3": {
+          "he": "עד לרקיע. ואם נעץ קנה ברה\"י ע\"ג הוי רה\"י:",
+          "en": "",
+          "ref": "Magen Avraham 345:3"
+        },
+        "4": {
+          "he": "אפי' כלי. וכלי שאין גבוה י' עומד בר\"ה אין לו דין כרמלית אלא הוי כמו ר\"ה דאין כרמלית בכלים (רש\"י בשבת ד' ח' עסי' שנ\"ה ס\"א מ\"ש) אבל בכלי המחובר לקרקע הוי כרמלית (תו' דף יא):",
+          "en": "",
+          "ref": "Magen Avraham 345:4"
+        },
+        "5": {
+          "he": "רחובות. דרכים שעוברי' מעיר לעיר הוי ר\"ה:",
+          "en": "",
+          "ref": "Magen Avraham 345:5"
+        },
+        "6": {
+          "he": "מפולשים משער. פי' שהשערים מכוונים זה כנגד זה ויש לאותו דרך המכווין משער לשער כל דין ר\"ה ויש לעיין אם יש חילוק בזה בין עיר של יחיד לשל רבים (ריב\"ל ח\"ג סי' ע\"ד) ועסי' שס\"ב:",
+          "en": "",
+          "ref": "Magen Avraham 345:6"
+        },
+        "7": {
+          "he": "ויש אומרים כו'. ומ\"ב סי' צ\"ב ורש\"ל בביצה סימן פ' פסקו לחומרא אך דעת רוב הפוסקים להקל וכ\"פ בש\"ע סי' ש\"ג סי\"ח ובכמה דוכתי וכ\"כ מהרא\"י בפסקים סי' נ\"ה:",
+          "en": "",
+          "ref": "Magen Avraham 345:7"
+        },
+        "8": {
+          "he": "ורבים מכתפים. אבל כשאין מכתפים עליו אף על פי דראוי לכתף עליו לא הוי רשות הרבים (ב\"י ראב\"ד):",
+          "en": "",
+          "ref": "Magen Avraham 345:8"
+        },
+        "9": {
+          "he": "לחוק להשלימו. כגון חור שבכותל כלפי ר\"ה אינו רחב ד' וכלפי רה\"י הוא רחב ד' והוי כרה\"י מכל מקום הזורק לתוכו פטור דלא הוי שיעור מקום (תוס' שבת דף ז'):",
+          "en": "",
+          "ref": "Magen Avraham 345:9"
+        },
+        "10": {
+          "he": "הוי רה\"י. ואפי' היא מלאה מים וה\"ה דברים שאדם מסתכל ורואה בתוכו ונראין המחיצו' אבל מליאה פירות אינן רה\"י דאין המחיצו' ניכרות אפי' דעתו לפנותן ורשב\"א כתב דוקא במלאות טבל שאין יכול לטלטלן (מ\"מ) עסי' שע\"ב סי\"ו וע' ססי' שנ\"ו דדוקא בור הוי רה\"י אבל ים הוי כרמלית כמ\"ש סי\"ד ועססי' שס\"ג סכ\"ט:",
+          "en": "",
+          "ref": "Magen Avraham 345:10"
+        },
+        "11": {
+          "he": "כגון ים. רקק מים בר\"ה ורבים מהלכים בו אם אינה עמוקה י' אף על פי שאינה רחבה ד' טפחים שרוב מדלגין עלי' הוי ר\"ה וה\"ה דף המונח עליו ואם עמוק' י' ורחב' ד' הוי כרמלית כמו ים (פי\"ד) וברש\"י ד' ק' משמע דלא הוי ר\"ה אא\"כ עוברים בתוכה ועססי' שנ\"ה:",
+          "en": "",
+          "ref": "Magen Avraham 345:11"
+        },
+        "12": {
+          "he": "שלפני העמודי'. אבל בין העמודי' נדון כר\"ה אפי' אין רחבים י\"ג ושליש כיון שרבים בוקעי' בהן הם טפלי' לר\"ה משא\"כ במבוי שכתב ס\"ט כנ\"ל דלא כע\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 345:12"
+        },
+        "13": {
+          "he": "רחוק מן הכתלים. ול\"ד לסוכה דבעי' שיהא סמוך (פחות מג') טפחים כמ\"ש סי' תרל\"ג דגבי סוכה בעינן מחיצות סמוכות לסכך אבל גבי שבת לא בעי' רק שהרשות משתמר ע\"י המחיצות אפי' רחוקים ממנו הרבה קרוי רשות היחיד הלכך ע\"י מחיצות החיצונות שגבוהות י' נקרא רשות היחיד אבל לא ע\"י הפנימיות שאין שפת החקק מצטרף עמהם כיון שרחוקים ממנו ג\"ט עכ\"ל הרא\"ש משמע דאם אין גבוהים י' עם הקירוי בעינן שיהי' החקק סמוך לכותל פחות מג\"ט:",
+          "en": "",
+          "ref": "Magen Avraham 345:13"
+        },
+        "14": {
+          "he": "ממיא משחינן. וא\"ת הא מיא לא מבטלי מחיצתא כמ\"ש סי\"א וא\"ל מפני שהספינו' שטות ע\"פ המים מבטלי מחיצתא דא\"כ ליהוי ר\"ה וי\"ל דכל חריץ שאינו משופע כדי שיתלקט גבוה י' מתוך ד\"א לא הוי רה\"י כמ\"ש סי\"א ור\"ה נמי לא הוי שאינו נוח תשמיש הליכתו מפני המים ואם יש גומא בים עמוקה י' ורחבה ד' הזורק לתוכו חייב כדאי' בגמ' דף ק' (ע\"א בשם רא\"ם) ונ\"ל דאפילו שעמוקה י' הוי כרמלית דרבנן כמו קרקע ותל בסי' שע\"ב ועסי' שע\"ג ס\"ג:",
+          "en": "",
+          "ref": "Magen Avraham 345:14"
+        },
+        "15": {
+          "he": "שאין בו ד\"ט. רוחב אפי' הוא אורך אלף אמה (מ\"מ נ\"י):",
+          "en": "",
+          "ref": "Magen Avraham 345:15"
+        },
+        "16": {
+          "he": "ואין ביניהם. משמע דאין עובי המחיצות מצטרף לד' (ב\"ח):",
+          "en": "",
+          "ref": "Magen Avraham 345:16"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ארבעה.  צ\"ע אי עובי המחיצות נמדדים עם החלל לד\"ט ט\"ז ע\"ש. ועיין סי\"ט מש\"ש בשם הב\"ח והיד אהרן כתב בפשיטות דעובי המחיצות מצטרפות לשיעור ד' על ד' ע\"ש (ובספר אבן העוזר העלה דחלל שבין שני המחיצות צריך להיות ד' טפחים והשיג על הב\"ח וט\"ז ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 345:1"
+        },
+        "2": {
+          "he": "חורים.  אפי' הם למטה מיו\"ד. מ\"א ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 345:2"
+        },
+        "3": {
+          "he": "לרקיע.  ואם נעץ קנה ברה\"י ע\"ג הוי רה\"י. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 345:3"
+        },
+        "4": {
+          "he": "אפילו כלי.  וכלי שאין גבוה י' העומד בר\"ה אין לו דין כרמלית אלא הוי כמו ר\"ה דאין כרמלית בכלים רש\"י בשבת דף ח' ועי' סי' שנ\"ה ס\"ב. אבל בכלי המחובר לקרקע הוי כרמלית. תוספות דף י\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 345:4"
+        },
+        "5": {
+          "he": "רחובות.  דרכים שעוברים מעיר לעיר הוי ר\"ה. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 345:5"
+        },
+        "6": {
+          "he": "מפולשים.  פירוש שהשערים מכוונים זה כנגד זה ויש לאותו דרך המכוין משער לשער כל דין ר\"ה ויש לעיין אם יש חילוק בזה בין עיר של יחיד לשל רבים. מהריב\"ל מ\"א עיין סימן שצ\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 345:6"
+        },
+        "7": {
+          "he": "נעולות.  נראה דאם דלת אחד נעול מבטל גם כן ר\"ה כיון דלא הוה מפולש ט\"ז. כתב בתשובת חכם צבי סי' ל\"ז וז\"ל מצאתי להרשב\"א בספר עבודת הקודש חידוש גדול דפלטיא אפי' דלתות המדינה ננעלת בלילה תורת ר\"ה עליה נראה דעתו דדוקא במבואות המפולשין שהם מיוחדות לאנשי המבוי ההוא ואין יד כל אדם שוה בו הוא דמהני ננעלת בלילה ולא בפלטיא שיד כל אדם שוה בו דאפי' נעילת דלת לא מהני ותמה אני שלא ראיתי לאחד מן הפוסקים שהביא דבר זה עכ\"ל ע\"ש ועיין יד אהרן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 345:7"
+        },
+        "8": {
+          "he": "ששים.  מ\"ב סימן צ\"ב ורש\"ל בביצה סי' ח' פסקו לחומרא אך דעת רוב פוסקים להקל וכ\"פ בש\"ע סימן ש\"ג סי\"ח וכ\"כ רמ\"א בסי' שמ\"ו ס\"ג שכל רשויות שלנו כרמלית הם משמע כדיעה אחרונה ובפי העולם מורגל עכשיו שאין לנו ר\"ה והוא כדעת הי\"א והם רבים וע\"כ המחמיר יחמיר לעצמו ואין בידו למחות למה שנוהגין עכשיו כאותן הרבים שמקילין. ט\"ז מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 345:8"
+        },
+        "9": {
+          "he": "י\"ג.  כמו שמצינו בפסי ביראות עיין ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 345:9"
+        },
+        "10": {
+          "he": "ורבים.  אבל כשאין מכתפים עליו אע\"ג דראוי לכתף עליו לא הוי ר\"ה. ב\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 345:10"
+        },
+        "11": {
+          "he": "רה\"י.  ואפי' היא מליאה מים וה\"ה דברים שאדם מסתכל ורואה בתוכו ונראין המחיצות אבל מליאה פירות אינן רה\"י דאין המחיצות ניכרות ואפי' דעתו לפנותן ורשב\"א כתב דוקא במליאות טבל שאין יכול לטלטלן מ\"מ ועי' סי' שע\"ב סי\"ו ועי' ססי' שנ\"ו דדוקא בור הוי רה\"י אבל ים הוי כרמלית כמ\"ש סי\"ד.",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 345:11"
+        },
+        "12": {
+          "he": "שלפני.  אבל בין העמודים אפי' אין רחבים י\"ג ושליש כיון שרבים בוקעים בהן הם טפלים לר\"ה משא\"כ במבוי שכתב בס\"ט. מ\"א ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 345:12"
+        },
+        "13": {
+          "he": "רחוק.  עיין מ\"א שהעלה דאם אין גבוה יו\"ד עם הקירוי בעינן שיהא החקק סמוך לכותל פחות מג' טפחים ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 345:13"
+        },
+        "14": {
+          "he": "ארבע רוחב.  אפי' הוא ארוך אלף אמה. ב\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 345:14"
+        },
+        "15": {
+          "he": "ואין ביניהם.  משמע דאין עובי המחיצות מצטרף לד' ב\"ח. ועיין ס\"ק א' מש\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 345:15"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) ארבע רשויות וכו' - אקדים לזה הקדמה קצרה. והוא הנה הוצאה מרשות לרשות הוי מכלל שאר מלאכות שאסרה התורה לעשות ביום השבת והוא ככל גופי תורה שנמסרו למשה מסיני והביאו חכמינו ע\"ז ראיה ג\"כ מקרא דכתיב ויצו משה ויעבירו קול במחנה איש ואשה אל יעשו עוד מלאכה לתרומת הקודש ויכלא העם מהביא אלמא דהבאה לכל אחד מרשותו שהוא רה\"י לרשותו של משה שהיה ר\"ה מפני שהיו רבים מצויין שם הוא בכלל מלאכה [רמב\"ם ריש פי\"ב] וה\"ה דאסור להכניס מר\"ה לרה\"י ויש עוד רשות שלישי ששמו כרמלית שהוא אינו בכלל ר\"ה וגם איננו רה\"י שאין לו מחיצות כדין רשות היחיד וכמבואר בסי\"ד ומן התורה מותר להכניס ולהוציא ממנו לרה\"י ולר\"ה אבל חכמים אסרוהו כדי שלא יבוא להתיר עי\"ז מרה\"י לר\"ה שאין הכל בקיאים בדיני מחיצות ויש עוד רשות רביעי שנקרא מקום פטור וכדלקמן בסוף הסימן ומותר להכניס ולהוציא ממנו לכתחלה לרה\"י ולר\"ה וכמבואר הכל בסימן שמ\"ו. רך מל - פי' כרמל הכתוב בתורה היינו שנמלל ביד ואינו לח ולא יבש לגמרי אלא כשמוללין אותו ביד הוא מתרכך לגמרי [ק\"ע בשם הערוך בביאור הירושלמי]:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:1"
+        },
+        "2": {
+          "he": "(ב) המוקף מחיצות - בסימן שס\"ג יתבאר כמה מחיצות צריך שיהא שם ועוד כמה פרטים בענין זה:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:2"
+        },
+        "3": {
+          "he": "(ג) ויש בו ד\"ט וכו' - הנה מסי\"ט מוכח דבעינן שיהא בין המחיצות חלל ד' על ד' כי עובי המחיצות אין מצטרפות לזה וזהו דעת רוב הפוסקים. ויש מן הראשונים שכתבו דגם עובי המחיצות מצטרף לשיעור הזה ובא\"ר הביא בשם הרשב\"א [וכה\"ג איתא ג\"כ במלחמות] לחלק בענין זה דמחיצות עבות שראוי להניח מלמעלה דף על גביהם ולהשתמש שם מצטרף העובי עם החלל לשיעור זה כיון שראוי להשתמש שם ואם לאו אין מצטרף ועיין באחרונים שהסכימו דכ\"ז לענין שיהא נקרא שם רה\"י על עובי המחיצה מלמעלה אבל לענין חלל שבתוך המחיצות לכו\"ע לא נקרא רה\"י כ\"ז שאין בחללו ד' על ד':",
+          "en": "",
+          "ref": "Mishnah Berurah 345:3"
+        },
+        "4": {
+          "he": "(ד) וכן חריץ וכו' וכן תל וכו' - וה\"ה עמוד גבוה עשרה טפחים ורחב ד' על ד' וכל זה אפילו הם עומדים בר\"ה וכדלקמיה בסעיף י':",
+          "en": "",
+          "ref": "Mishnah Berurah 345:4"
+        },
+        "5": {
+          "he": "(ה) גבוה עשרה וכו' - אבל אם התל או המחיצות הם פחותים מעשרה טפחים אף שהם רחבים הרבה לאו רה\"י הוא וא\"צ שיהיה התל זקוף בגובה אלא אפילו הוא משופע אם מתלקט עשרה טפחים בגובה מתוך שיפוע ד' אמות הוי כאלו זקוף כולו והרי הוא רה\"י במקום גבהו [גמרא דף ק']:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:5"
+        },
+        "6": {
+          "he": "(ו) הן ואלכסונן וכמו שיתבאר וכו' - ר\"ל כמו שם לענין מעביר ד' אמות בר\"ה אין חייב לכו\"ע עד שיעביר שיעור ד' אמות עם אלכסון שעולה ביחד ה' אמות וג' חומשי אמה כן בעניננו לענין רה\"י אין נקרא רה\"י עד שיהיה שיעור רוחב ד' טפחים עם אלכסונן ועולה יחד ה' טפחים וג' חומשי טפח. והנה הלבוש השמיט היש אומרים זה מחיבורו ועיין בא\"ר שכתב שיפה עשה שהשמיטו כי היא רק דעת יחידאה וכל הראשונים חולקים ע\"ז וס\"ל דאם הוא רק ד' על ד' מרובע חשוב רה\"י ולא דמי לדלקמן סימן שמ\"ט לענין העברת ד' אמות בר\"ה ע\"ש וכן הגר\"א דחה הי\"א הזה מהלכה וכתב ג\"כ דלא דמי לדלקמן סימן שמ\"ט ע\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:6"
+        },
+        "7": {
+          "he": "(ז) כתלים המקיפים רה\"י - ר\"ל שע\"י הכתלים נעשה החלל שבפנים רה\"י:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:7"
+        },
+        "8": {
+          "he": "(ח) אפי' אינם רחבים ד' - ר\"ל שעובי הכתלים אין רוחב עובין ד' טפחים כשיעור רה\"י אפ\"ה יש שם רה\"י גם על עובין מלמעלה והטעם דכיון שהם עושין על ידי היקף שלהם את החלל שבתוכן רה\"י ק\"ו שהם עצמן יהיו רה\"י:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:8"
+        },
+        "9": {
+          "he": "(ט) שכלפי רה\"י - ר\"ל אפילו אם פונים גם לר\"ה כיון שהחור הוא מעבר לעבר ונכנס גם כלפי רה\"י דינם כרה\"י וע\"כ אסור להוציא איזה דבר שמונח על החור לר\"ה או לכרמלית הסמוך לו ואם מכניס מר\"ה לתוכו חייב. והנה דעת התוספות דלית חיובא אא\"כ היה החור ד' על ד' טפחים אבל דעת הרשב\"א והמאירי דבחורי רה\"י א\"צ שיהי' רחב ד' דיש להם דין רה\"י עצמה בכל גוונא:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:9"
+        },
+        "10": {
+          "he": "(י) הם רה\"י - מסתימת המחבר משמע דאפילו אם החורים הם למטה מעשרה טפחים כיון שמפולשים כלפי פנים דינם כרה\"י וכן משמע מלשון רמ\"א שכ' דאם אינם עוברים כלפי פנים נידונין לפי גבהן ורחבן משמע דאם החורין עוברין כלפי פנים אין אנו מסתכלין על גבהן ורחבן ולעולם כרה\"י חשיבי וכ\"כ המ\"א ותו\"ש ובא\"ר כתב דדבר זה פלוגתא היא בין הראשונים דיש מן הראשונים דס\"ל דכיון שהוא למטה מעשרה אין בני רה\"י משתמשין בם מפני שכיון שהוא נמוך בני ר\"ה משתמשין שם וע\"כ דינם כחורי ר\"ה המבואר לקמן בסי\"ב וכן הוא ג\"כ דעת הגר\"א בביאורו בסימן זה ובסימן שנ\"ג ע\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:10"
+        },
+        "11": {
+          "he": "(יא) לפי גבהן ורחבן - היינו אם הם גבוהים יו\"ד טפחים ורחב ד' הוי רה\"י ואם אינם גבוהים י\"ט אז אם הם רחב ד' הוי כרמלית וא\"ל הוי מקום פטור [ואף דמבואר דינא דרמ\"א בהדיא בסי\"ג נקטיה הכא כדי לבאר דאפילו חורי ר\"ה כשמפולשין לרה\"י דינם כחורי רה\"י]:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:11"
+        },
+        "12": {
+          "he": "(יב) עד לרקיע - ואפילו נעץ קנה ברה\"י שגבוה ק' אמות אף שאין בו רחב ד' אם זרק מר\"ה ונח על גביו חייב:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:12"
+        },
+        "13": {
+          "he": "(יג) אפילו כלי וכו' - היינו אפילו היא עומדת בר\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:13"
+        },
+        "14": {
+          "he": "(יד) תיבה וכו' או כוורת - נקט שני מיני כלים מרובעים או עגולים:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:14"
+        },
+        "15": {
+          "he": "(טו) אם יש בו לרבע - וע\"כ בכוורת שהיא עגולה לא הוי רה\"י עד שתהיה חללה מחזקת ה' טפחים וג' חומשי טפח דאז יש בחללה לרבע ד' על ד':",
+          "en": "",
+          "ref": "Mishnah Berurah 345:15"
+        },
+        "16": {
+          "he": "(טז) הוי רה\"י - בין תוך חללה ובין גב הכלי מלמעלה וכנ\"ל בס\"ג וכלי שאין גבוה עשרה העומד בר\"ה אין לו דין כרמלית דאין כרמלית בכלים אלא הוי כמו ר\"ה דבטל לגבי רשות שהוא עומד בו [מ\"א] ולפ\"ז אם עומד הכלי בכרמלית דין כרמלית עליו מצד רשות שהוא עומד בו וכן מוכח לקמן בסימן שנ\"ה (תו\"ש וכ\"כ בבית מאיר לדעת המ\"א) וכלי המחובר לקרקע מקרי כרמלית אפיל ו הוא בר\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:16"
+        },
+        "17": {
+          "he": "(יז) רחובות - ודרכים שעוברין מעיר לעיר הוי ג\"כ ר\"ה משום דשכיחי בם רבים:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:17"
+        },
+        "18": {
+          "he": "(יח) הרחבים ט\"ז אמה - דילפינן מדגלי מדבר שמקום הילוך העגלות היה מחזיק ט\"ז אמה וע\"כ אם היה פחות מזה השיעור אינו ר\"ה מן התורה אלא כרמלית:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:18"
+        },
+        "19": {
+          "he": "(יט) ואינם מקורים - דדגלי מדבר לא היו מקורים:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:19"
+        },
+        "20": {
+          "he": "(כ) מפולשים משער לשער - פי' שהשערים מכוונים זה כנגד זה ויש לאותו דרך המכוון משער לשער כל דין ר\"ה (מ\"א) ועיין בבה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:20"
+        },
+        "21": {
+          "he": "(כא) ואין דלתותיו וכו' - ואם דלת אחת ננעלת בלילה עיין לקמן בסימן שס\"ד במ\"ב סק\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:21"
+        },
+        "22": {
+          "he": "(כב) נעולות - מלשון זה משמע דאם לא היו נעולות ממש אע\"פ שראויות לנעול לא נתבטל עי\"ז שם ר\"ה והוא כדעה ראשונה המובא לקמן בסי' שס\"ד ס\"ב ע\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:22"
+        },
+        "23": {
+          "he": "(כג) וי\"א שכל שאין ששים רבוא וכו' - סבירא להו דגם לזה בעינן דומיא דדגלי מדבר שהיו ששים רבוא ואף שהיה שם עוד ערב רב ונשים וטף לא חשבינן אלא מה שנמצא בכתוב בפירוש. ולענין הלכה מדעת המחבר דכתב דעה זו רק בשם י\"א משמע דלהלכה לא ס\"ל כן ומ\"מ אין בנו כח למחות ביד הסומכין על דעה זו דדעה זו ג\"כ לא דעת יחידאה היא כמו שכתבתי בביאור הלכה וכן צדדו כמה אחרונים וכל בעל נפש יחמיר לעצמו ועיין בסימן שס\"ד במשנה ברורה סק\"ז ובביאור הלכה כאן ושם:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:23"
+        },
+        "24": {
+          "he": "(כד) בכל יום - חפשתי בכל הראשונים העומדים בשיטה זו ולא נזכר בדבריהם תנאי זה רק שיהיו מצויין שם ששים רבוא. ועיין מה שכתבנו בבה\"ל בשם הרמב\"ן והריטב\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:24"
+        },
+        "25": {
+          "he": "(כה) בקצתן וכו' - ט\"ס וצ\"ל בקצתן או שאין בהן ט\"ז אמה וארכן לאורך ר\"ה י\"א שהם ר\"ה וביאור הדברים הוא דמתחלה כתב לענין מבוי שמתקצר במקצתו ואח\"כ הוסיף עוד דאפילו אם אין בכל משך המבוי ט\"ז אמה מ\"מ כיון שאורכו לאורך ר\"ה ומפולש לו ורבים בוקעים בו הרי הוא כחלק ממנו ועיין בבה\"ל ומדלא פירש המחבר שיעורא משמע דאפילו אם המבוי קצר הרבה ואין מחזיק אפילו י\"ג אמה ג\"כ הוי ר\"ה לדעה זו:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:25"
+        },
+        "26": {
+          "he": "(כו) י\"ג אמות ושליש - ס\"ל דבשיעור זה ג\"כ ניחא תשמישתא לרבים קצת ומהני כששני ראשיה מפולשין לר\"ה שיתחשב גם מקום זה לר\"ה ועיין בה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:26"
+        },
+        "27": {
+          "he": "(כז) י\"א שהוא ר\"ה - דכיון דר\"ה גמורה יש בשני ראשיה ובוקעין בה רבים ומהלכין מר\"ה לר\"ה דרך המבוי נמצא דהוי תשמיש דרבים גם בזו המבוי וחשוב כר\"ה עצמה והא דמבואר לקמן בסימן שס\"ד דמבוי המפולש בשני ראשיה לר\"ה אין דינו כר\"ה מיירי כשאין רחב י\"ג אמה או דמיירי כשהמבוי מפולש משני צדדין לרוחב ר\"ה דאין רבים בוקעין בו דמי שרוצה לכנוס מר\"ה למבוי הוא צריך לעקם דרכו וכאן מיירי כשהמבוי הולך לאורך ר\"ה והולכין דרך מבוי זו להדיא לר\"ה האחר שכנגדו ולכן יש שם ר\"ה גם על המבוי:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:27"
+        },
+        "28": {
+          "he": "(כח) אפילו הם קוצים וכו' - דכל פחות משלשה קי\"ל דאינה חולקת רשות לעצמה ובטל לגבי ר\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:28"
+        },
+        "29": {
+          "he": "(כט) ואם הוא גבוה שלשה וכו' - דאז אין רבים יכולין לדרוס עליו מצד גובהו נפקא מכלל ר\"ה ולכלל רה\"י לא בא עד גובה עשרה טפחים ונתנו עליה חכמים שם כרמלית שהוא רשות לעצמו ואסור להוציא ממנו לרה\"י ולר\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:29"
+        },
+        "30": {
+          "he": "(ל) ואם אינו רחב ארבע על ארבע - ואפילו אם ארכה יותר מד' טפחים לא מצרפינן זה לרחבה דלא נחשבת רשות לעצמו אא\"כ יש בו ד' טפחים באורך וד' ברוחב:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:30"
+        },
+        "31": {
+          "he": "(לא) ט' טפחים - דבשיעור זה דרך בני אדם בר\"ה לכתף עלי' דאינו לא גבוה ולא נמוך אבל בפחות מט' שאינו ראוי לכתף עליו לא מהני לשוייה ר\"ה אפילו אם רבים מכתפין עליו [רשב\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:31"
+        },
+        "32": {
+          "he": "(לב) מצומצמים - אבל יותר מט' לא הוי ר\"ה אפילו רחב ד' על ד':",
+          "en": "",
+          "ref": "Mishnah Berurah 345:32"
+        },
+        "33": {
+          "he": "(לג) ורבים מכתפים עליו - אבל כשאין מכתפין עליו אע\"ג דראוי לכתף עליו לא הוי ר\"ה ואפילו רחב ארבעה:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:33"
+        },
+        "34": {
+          "he": "(לד) אפילו אינו רחב ארבעה - דאע\"ג דבעלמא לא הוי מקום חשוב בפחות מארבעה כאן דדרך רבים לכתף עליו אף בפחות מד' משוי ליה ר\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:34"
+        },
+        "35": {
+          "he": "(לה) דה\"ה לגבוה מט' וכו' - הוא דעת הטור דס\"ל דהא דאמרינן בגמרא עמוד ט' הוא בא רק לאפוקי פחות מט' לא הוי ר\"ה אבל יותר מט' אין ה\"נ דהויא ר\"ה כשרבים מכתפין עליו:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:35"
+        },
+        "36": {
+          "he": "(לו) הוי ר\"ה - ולדינא נקטינן כסברא ראשונה דהרבה פוסקים חולקין ע\"ז:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:36"
+        },
+        "37": {
+          "he": "(לז) אם הוא רחב ארבעה - היינו ארבעה על ארבעה:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:37"
+        },
+        "38": {
+          "he": "(לח) כדי לחוק - היינו כגון שהיה העמוד סמוך לכותל ממש אפ\"ה לא אמרינן חוקקין להשלים וממילא הוי מקום פטור ומותר להוציא ממנו לרה\"י ולר\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:38"
+        },
+        "39": {
+          "he": "(לט) אינה עמוקה שלש - אע\"ג דרחבה כמה טפחים:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:39"
+        },
+        "40": {
+          "he": "(מ) עד עשרה - ואפילו היו רבים משתמשין בו בגומא ההיא תשמיש ע\"י הדחק הוא ולא שמיה תשמיש [גמרא]:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:40"
+        },
+        "41": {
+          "he": "(מא) עמוקה עשרה - ואפילו מלאה מים או שאר דברים שאדם מסתכל בהם ורואה מה שבתוך המחיצות אבל אם מלאה פירות לא הוי רה\"י כיון דאין המחיצות נכרות ואפילו דעתו לפנותן ופטור הזורק לתוכו מר\"ה [ומ\"מ איסורא יש בזה כיון דהפירות הוא דבר שיכול ליטלו משם בשבת לא נתבטל לגמרי הבור משמו] ולרשב\"א דוקא פירות טבלים או שאר דבר שאסור לטלטל מבטל המחיצות:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:41"
+        },
+        "42": {
+          "he": "(מב) שתהא רחבה ד' - ואם לאו הוי מקום פטור ואפילו עמוקה כ' אמה [א\"ר]:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:42"
+        },
+        "43": {
+          "he": "(מג) אלא עד עשרה - וע\"כ הזורק בר\"ה דבילה שמינה ונדבק בכותל למטה מעשרה חייב למעלה מעשרה פטור:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:43"
+        },
+        "44": {
+          "he": "(מד) הוי מקום פטור - ר\"ל דאפילו שם כרמלית אין חל על האויר שלמעלה מעשרה אמנם אם נעץ קנה בר\"ה ובראשו כלי שגבוה יו\"ד טפחים ורחב ד' אע\"ג שתחתיה ר\"ה מ\"מ הכלי הוא רה\"י:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:44"
+        },
+        "45": {
+          "he": "(מה) כלפי ר\"ה - ר\"ל דאינם עוברים כלפי פנים דאם עוברים כלפי פנים דינם כחורי רה\"י וכמ\"ש בס\"ד:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:45"
+        },
+        "46": {
+          "he": "(מו) למעלה משלשה - דלמטה משלשה אפילו הם רחבים ד' על ד' נחשבים כקרקע ר\"ה וכנ\"ל בריש ס\"י:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:46"
+        },
+        "47": {
+          "he": "(מז) לפי מדותיהם - ביארתי לעיל בסקי\"א ע\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:47"
+        },
+        "48": {
+          "he": "(מח) כגון ים - וה\"ה נהר ואע\"ג דמיא לא מבטלי מחיצתא כמו שכתבנו בסי\"א י\"ל דכל חריץ שאינו משופע כדי שיתלקט גבוה י\"ט מתוך ד\"א לא הוי רה\"י ומצוי הוא שאצל שפתו אינו עמוק כ\"כ תיכף [כ\"כ המ\"א] ובמאירי נזכר הטעם משום דהמחיצות רחוקות זו מזו מאוד אינן מצטרפות לעשות מה שביניהן רה\"י ולפ\"ז אפילו אם אצל שפתו הוא עמוק ג\"כ אינו רה\"י מן התורה מטעם זה [ונהר אע\"ג דשתי מחיצות אינם רחוקות זו מזו כיון דאידך השנים הם רחוקות זו מזו כמה פרסאות אינם מצטרפות לאלו השנים] ואפילו לפי דברי המ\"א מדרבנן כרמלית הוי בכל ענין כמו שמוכח ממנו בסוף דבריו ואם היה רקק מים בר\"ה ור\"ה מהלכת בו אם אינה עמוקה עשרה טפחים אע\"פ שאינה רחבה ד' טפחים ועי\"ז רוב מדלגין עליה ואין מהלכין בתוכה אעפ\"כ הוי ר\"ה [וה\"ה אם היה דף מונח על הרקק ובני אדם עוברים עליה הוי ר\"ה] וברש\"י דף ק' משמע קצת דלא הוי ר\"ה אלא א\"כ הרבה בני אדם עוברים בתוכה. ואם הרקק עמוקה י' ורחבה ד\"ט הוי כרמלית כמו ים [רמב\"ם פרק י\"ד] ועיין בפמ\"ג דמסתפק לומר דרק לחומרא הוי ככרמלית שלא להוציא מתוכה לרה\"י אבל מן התורה רה\"י הוא:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:48"
+        },
+        "49": {
+          "he": "(מט) ובקעה - מקום שדות שאין מוקף מחיצות:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:49"
+        },
+        "50": {
+          "he": "(נ) שלפני העמודים - עמודים הם העומדים בר\"ה ותולין בהם התגרים פרקמטיא ואצלם היו האצטבאות. והנה מדברי המחבר שלא זכר דין דבין העמודים משמע דס\"ל דבין העמודים עצמן נידון כרשות הרבים כדעת הרמב\"ם אבל רוב הפוסקים פסקו דגם בין העמודים אע\"ג דזימנין דדרסי רבים כיון שאין ההילוך נוח כ\"כ שהיו העמודים הרבה בארך ורוחב זה שלא כנגד זה ככרמלית דמיא:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:50"
+        },
+        "51": {
+          "he": "(נא) והיא רחבה וכו' - וה\"ה לענין אצטוונית:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:51"
+        },
+        "52": {
+          "he": "(נב) ארבעה וגבוה וכו' - דבאינה רחבה ארבעה היא מקום פטור ואם אינה גבוה שלשה היא ר\"ה ואם גבוה עשרה היא רה\"י וכנ\"ל בס\"י:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:52"
+        },
+        "53": {
+          "he": "(נג) ועד עשרה - ומיירי בשאין רבים מכתפין עליה דאל\"ה בתשעה וכן מתשעה עד עשרה לדעת הי\"א הנ\"ל בס\"י הוי ר\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:53"
+        },
+        "54": {
+          "he": "(נד) כגון וכו' - ויש עוד פירוש ברש\"י כגון שהכניס הבית לתוכו והניח מקרקעו לר\"ה א\"נ בית שפניו עומד באלכסון שזוית אחד סמוכה לר\"ה והשנית משוכה מר\"ה לפנים וזוית הבולטת מעכבת את הרבים מלכנס להדיא בתוך כניסה של זוית אחרת:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:54"
+        },
+        "55": {
+          "he": "(נה) ואין להם לחי וכו' - דאי היה לחי היה רה\"י גמור מן התורה לענין זריקה שהזורק מר\"ה לתוכה חייב וגם שהיה מותר לטלטל בתוכה ככל רה\"י דקי\"ל לחי משום מחיצה ואפילו אי הוי שם רק קורה דהוי רק משום הכירא עכ\"פ לכו\"ע רה\"י הוא לענין טלטול לטלטל בתוכה כמו בשאר רה\"י וכ\"ז הוא רק לדעת הרמב\"ם אבל לשארי פוסקים ע\"י ג' מחיצות נעשה רה\"י גמור מן התורה והזורק מר\"ה לתוכה חייב אלא לענין טלטול אסור מדרבנן ככרמלית:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:55"
+        },
+        "56": {
+          "he": "(נו) שהיא מקורה - דאינו דומה לדגלי מדבר שלא היה מקורה מלמעלה:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:56"
+        },
+        "57": {
+          "he": "(נז) שיש בו ארבע על ארבע - דאל\"ה הוי מקום פטור כדלקמיה בסי\"ט:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:57"
+        },
+        "58": {
+          "he": "(נח) ואינו גבוה עשרה - ואם היה בצמצום ט' עיין לעיל בס\"י:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:58"
+        },
+        "59": {
+          "he": "(נט) יש בו ארבע על ארבע - היינו בחללו דאי אין בחללו ד' על ד' תו אין על תוכו שם כרמלית:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:59"
+        },
+        "60": {
+          "he": "(ס) תוכו כרמלית - כיון דמבפנים אין המחיצות גבוהות יו\"ד:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:60"
+        },
+        "61": {
+          "he": "(סא) וע\"ג רה\"י - כיון דגבוה שם עשרה:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:61"
+        },
+        "62": {
+          "he": "(סב) ואם חוקק בו - בקרקע הבית בעומק להשלים שיהא גובה עשרה:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:62"
+        },
+        "63": {
+          "he": "(סג) אפילו באמצע רחוק וכו' - ר\"ל אפילו רחוק יותר משלשה טפחים דליכא למימר דהוא כלבוד אפ\"ה סגי והטעם דגבי שבת עיקר הקפידא שיהא הרשות שבתוכה משתמרת ע\"י המחיצות המקיפים אותה וכיון שהכתלים מבחוץ גבוהים עשרה טפחים ובתוך הגומא נמי יש גובה יו\"ד טפחים עד הקורה מקרי הגומא רה\"י גמורה ושאר צדדי החקק שסביב הגומא מקרי חורי רה\"י דכרה\"י דמו כדלעיל בס\"ד [רא\"ש] ומדבריו משמע דאם לא היו הכתלים גבוהים יו\"ד טפחים מבחוץ אז לא הוי רה\"י אא\"כ הגומא סמוכה תוך ג' טפחים לכותל דאמרינן לבוד והרי היא כגובה יו\"ד טפחים [מ\"א] ובא\"ר מסתפק בזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:63"
+        },
+        "64": {
+          "he": "(סד) גג וכו' - כעין גג שלנו:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:64"
+        },
+        "65": {
+          "he": "(סה) הבולט וכו' - הטעם דמה שנעשה הגג רה\"י היינו משום דאמרינן גוד אסיק מחיצות התחתונות למעלה ונמצא הבית מוקף למעלה מארבעה צדדין וזה לא שייך אלא היכא שהמחיצות נכרות לעומד על הגג משא\"כ כשהגג מכסה על המחיצות לא שייך גוד אסיק וממילא כיון דאין לו מחיצות אינו רה\"י ואסור לטלטל עליו כ\"א בתוך ד\"א כשאר כרמלית:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:65"
+        },
+        "66": {
+          "he": "(סו) ואפילו הוא גבוה וכו' - והא דאיתא לקמן בסי\"ח דאין כרמלית תופס רק עד עשרה ולמעלה מזה הוי מקום פטור היינו דוקא היכא שהכרמלית מתחלת ממקום הנמוך מן הקרקע אז אמרינן שאינו תופס אוירה רק עד עשרה טפחים אבל כאן דשם כרמלית עלה מחמת שאין לה מחיצות כשאר רה\"י חל עלה שם כרמלית אף שגבוה יותר מיו\"ד מן הארץ [מיהו זה פשיטא דעל הגג גופא אינו תופס שם כרמלית על אוירו רק עד עשרה טפחים כדין בקעה] ועיין בא\"ר שמפקפק על פסק השו\"ע וכן הגר\"א בביאורו הביא מכמה ראשונים דפליגי על דין זה וסברי דבכל גווני אין שייך שם כרמלית למעלה מעשרה וכן לענין זיזין המבואר לקמיה ג\"כ דעתם דבכל גווני אין עליהם שם כרמלית כיון שהוא למעלה מיו\"ד והסכים לדינא עמהם:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:66"
+        },
+        "67": {
+          "he": "(סז) חלון פתוח לו - לגג דאפשר להשתמש על הגג דרך שם לכן נחשב כל הגג כחורי רה\"י:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:67"
+        },
+        "68": {
+          "he": "(סח) וכן זיזין וכו' - ר\"ל אף שהם גבוהים למעלה מיו\"ד כיון שאין עליהם מחיצות סביבם דין כרמלית עליהם ואסור להניח מר\"ה וכן מרה\"י עליהם:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:68"
+        },
+        "69": {
+          "he": "(סט) פתוח להם - דאז נחשבים הזיזים כחורי רשות היחיד:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:69"
+        },
+        "70": {
+          "he": "(ע) חורי כרמלית - היינו חורים שכלפי כרמלית כגון בית הסמוך לבקעה ויש בכותלה חורין הפתוחים לבקעה ומיירי שאינם עוברים מעבר לעבר דאל\"ה הוי חורי רה\"י וכדלעיל בסק\"ט ע\"ש במ\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:70"
+        },
+        "71": {
+          "he": "(עא) לפי גבהם ורחבם - היינו דאם רחבים ד' על ד' וגבהן משלשה טפחים ועד עשרה הוי כרמלית ואם לא הוי מקום פטור ואפילו הן גבוהין מן הארץ למעלה מעשרה וכ\"ז כשגבהן שלשה אבל בפחות משלשה אף שאין בו ד' על ד' יש להם דין כרמלית דחשובין כקרקע הסמוך להן וכדלעיל בסי\"ג לגבי חורי ר\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:71"
+        },
+        "72": {
+          "he": "(עב) גדר כרמלית וכו' - ר\"ל כלל דין כרמלית:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:72"
+        },
+        "73": {
+          "he": "(עג) שלא יהא וכו' ואינה תופסת וכו' - דאקילו בה מקולי ר\"ה ומקולי רה\"י מקולי ר\"ה דאינה תופסת אלא עד עשרה טפחים וכדלעיל בסי\"ב [ולא הוי כרה\"י דעולם עד לרקיע כדלעיל בס\"ה] ומקולי רה\"י דלא יהא פחות מד' טפחים על ד' טפחים וכדלעיל בס\"ב דאם העמוד מחזיק פחות מזה הוי מקום פטור וכדלקמיה בסי\"ט:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:73"
+        },
+        "74": {
+          "he": "(עד) ולמעלה מעשרה וכו' - ר\"ל שאם העמוד היה רחב ד' על ד' ופחות מעשרה בגובה שיש עליו דין כרמלית וקלט מן האויר שעליו למעלה מעשרה מותר להוציא לר\"ה או לרה\"י דהרי קלט ממקום פטור וכן אם נעץ קנה בראש העמוד ועי\"ז נעשה גבוה למעלה מעשרה הוי נמי מקום פטור ומותר ליקח מר\"ה ומרה\"י ולהניח עליו:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:74"
+        },
+        "75": {
+          "he": "(עה) ממיא משחינן - ר\"ל שאין מודדין העשרה טפחים מקרקעית הים אלא משפת המים ולמעלה:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:75"
+        },
+        "76": {
+          "he": "(עו) הוי כרמלית - ואסור לטלטלן שם ד' אמות וכן להוציאן משם לרה\"י ולר\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:76"
+        },
+        "77": {
+          "he": "(עז) למעלה מיו\"ד וכו' - ר\"ל שאם רוצה לטלטל המים שנטל מעל פני המים ולהוליכו ד\"א באויר למעלה מיו\"ד מותר דהרי הוא מוליך במקום פטור:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:77"
+        },
+        "78": {
+          "he": "(עח) העומד בכרמלית - דאלו היה עומד בר\"ה היה נחשב מקום פטור כשאין בו ד' על ד' וכלקמיה בסי\"ט:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:78"
+        },
+        "79": {
+          "he": "(עט) אפילו עמוק מאה אמה - ר\"ל וגם רחב פחות מד' על ד' והטעם משום דהוא בטל לגבי הכרמלית שהוא עומד בו וכדלקמיה בהג\"ה בדעה הראשונה והא דקי\"ל דגדר כרמלית שלא יהא פחות מד' על ד' ע\"כ איירי לדעת הג\"ה זו היכא דהעמוד עומד בר\"ה דאלו היה עומד בכרמלית אפילו הוא פחות מד' על ד' ג\"כ שם כרמלית עליה דמצא מין את מינו ובטל לגביה:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:79"
+        },
+        "80": {
+          "he": "(פ) אלא א\"כ הוא רחב ד' על ד' - דאז הוי רה\"י:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:80"
+        },
+        "81": {
+          "he": "(פא) שאין בו ארבעה - טפחים רוחב אפילו הוא ארוך אלף אמה דמרובע ד' טפחים על ד' טפחים בעינן:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:81"
+        },
+        "82": {
+          "he": "(פב) וגבוה משלשה ומעלה - דפחות משלשה בטל לגבי קרקע וכדלעיל בס\"י:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:82"
+        },
+        "83": {
+          "he": "(פג) ועמוק יותר משלשה - ט\"ס צ\"ל ועמוק שלשה ויותר:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:83"
+        },
+        "84": {
+          "he": "(פד) ואין ביניהם ארבעה וכו' - מלשון זה משמע דאין עובי המחיצות מצטרף לד' וע\"ל בסק\"ג מה שכתבנו שם:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:84"
+        },
+        "85": {
+          "he": "(פה) וכל זה וכו' - פי' כל הציורים המבוארים בסעיף זה דבאין בו ד' על ד' הוי מקום פטור דוקא בעומד בר\"ה אבל בעומד בכרמלית אע\"ג דלא הוי ד' הוי ככרמלית דמצא מין את מינו היינו המקום פטור מצא את הכרמלית שהיא מינו שהוא ג\"כ מקום פטור מן התורה וניער ונתחזק ע\"י מינו להצטרף עמו ולהיות כמוהו:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:85"
+        },
+        "86": {
+          "he": "(פו) ודינו ככרמלית - ובעמוד או במחיצות הנ\"ל לא הוי ככרמלית אלא עד יו\"ד טפחים אבל בחריץ אפילו עמוק ק' אמה וכנ\"ל בהג\"ה בסי\"ח:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:86"
+        },
+        "87": {
+          "he": "(פז) לכולי עלמא דינו כרשות היחיד - שכל דבר שהוא בתוך רה\"י הוא רה\"י בין גבוה בין נמוך בין רחב בין קצר [ב\"י] ועיין באחרונים שמצדדין להורות כדעה הראשונה ועיין בבה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 345:87"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

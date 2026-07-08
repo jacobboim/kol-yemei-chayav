@@ -1,0 +1,80 @@
+{
+  "chelek": "YD",
+  "siman": 359,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-08T00:01:38.690Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "מקום יציאת המת והאבלים. ובו ב' סעיפים:מקום שנהגו לצאת נשים לפני המטה יוצאות מקום שנהגו לצאת לאחר המטה יוצאות ועכשיו נהגו שאין יוצאות אלא לאחר המטה ואין לשנות:",
+      "en": "Wherever it is the accepted custom for women to precede the bier, they may do so; wherever it is the accepted practice to follow the bier, they may do so.2San. 20a; Y. ibid. II, 4(20b). In Y. the following reasons are advanced for these customs: a) The custom of women preceding the bier is due to the fact that they were the first to cause death in the world (cf. Gen. III); b) The custom of women following the bier is on account of propriety, so that the men should not have to gaze at the women. The latter custom was adopted, for it avoids the possibility of commiting a sin. Cf. San. ibid., Tosaf. s.v. נשים; Gen. R. § 17, 8 and comment, of MaHaRIF and RaDaL a.l. Now it is customary for them only to follow the bier, and [this custom] should not be changed.",
+      "ref": "Shulchan Arukh, Yoreh Deah 359:1"
+    },
+    {
+      "seif": 2,
+      "he": "יש למנוע מלצאת נשים לבית הקברות אחר המטה:",
+      "en": "Women should be withheld from following the bier to the cemetery.3e., they may follow the bier in the funeral procession (as supra par. 1), but they are not permitted to enter the cemetery grounds when the corpse is interred. This is derived from Zohar, Ex. Way-yakhel 196a-b. Cf. Ber. 51a. B.L.Y. rejects this ruling.",
+      "ref": "Shulchan Arukh, Yoreh Deah 359:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא סנהדרין דף כ' ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 359:1"
+        },
+        "2": {
+          "he": "בירושלמי מפרש שהן גרמו מיתה לעולם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 359:2"
+        },
+        "3": {
+          "he": "שם מפני כבודן של בנות ישראל שלא יהיו מביטין בנשים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 359:3"
+        },
+        "4": {
+          "he": "בית יוסף בשם ספר הזוהר פרשת ויקהל שאם יוצאות גורמות רעה לעולם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 359:4"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "מקום שנהגו כו'. כתב הרמב\"ן והטור מתוספתא מקומות שנהגו להיות אבלים הולכים לפני המטה הולכים וכתב הב\"ח האידנא ליכא מנהג בהליכת אבלים אלא הולכים בין שאר העם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 359:1"
+        },
+        "2": {
+          "he": "יש למנוע כו'. כלומר שיצאו אחר המטה וכדלעיל סעיף א' אבל יש למנוע שלא יצאו לבית הקברות אחר המטה שאם עושים כן גורמים רעה לעולם ח\"ו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 359:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "למנוע.  כלומר אף על פי שכ' בס\"א שנהגו לצאת אחר המטה ואין לשנות מ\"מ לא ילכו לבית הקברות אחר המטה שאם עושים כן גורמים רעות לעולם ח\"ו עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 359:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

@@ -1,0 +1,76 @@
+{
+  "chelek": "YD",
+  "siman": 386,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-08T00:01:42.396Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "עטיפת הראש באבל. ובו סעיף אחד:אבל חייב בעטיפת הראש דהיינו שיכסה ראשו בטלית או בסודר ויחזיר קצתו על פיו ועל ראש החוטם והני מילי שצריך עטיפה בכל היום אבל כשבאין מנחמים אצלו מגלה ראשו לכבודם: הגה וי\"א שאין נוהגין במדינות אלו בעטיפה (הגהות מיי' פ\"ה) וכן המנהג פשוט ואין להחמיר לשנות במה שלא נהגו אבותינו:",
+      "en": "A mourner is required to muffle the head,1M.K. 15a, derived from, ‘And cover not thine upper lip’ (Ez. XXIV, 17) whence we infer that everyone else is required to do this. i.e., to cover his head with a mantle or a piece of cloth [so that] part of it enfolds his mouth and the tip of the nose.2Tur on the authority of R. Hai Gaon, derived from the dictum of Samuel, ‘a covering that is not like the covering of the Ishmaelites (up to the lips) is not a mourner’s covering’ (M.K. 24a), and also from R. Naḥman who demonstrated this by covering himself up in his mantle up to the sides of the beard (ibid.). Only the nose and eyes remained exposed. Cf. also Y.M.K. III, 5(82d) top, ‘From this we learn that the mourner should cover his mouth. But let him cover his mouth from beneath? — So that they should not say, he has an ailing on his mouth (and therefore ties it up).’ On muffling the head with a mantle or a piece of cloth, cf. T.H. on the authority of R. Mattathias Gaon, derived from M.K. (ibid.) in the case of Abaye and R. Joseph. And this [matter, viz.,] that a mourner is required to muffle [his head] all day, applies [only when he is alone], but when comforters come to him, he uncovers his head out of respect to them.3On the authority of T.H., derived from Sem(H). X, 9. Cf. references in Sem. ibid. Gloss: Some say that in these countries we do not adopt the practice of muffling the head.4Hag. Maim. Yad, Ebel V, 19 — G. Cf. also M.K. 21a, Tosaf. s.v. אלו. For this leads to mockery among the Gentiles. Thus is the common practice, and one should not adopt the stringent view to make changes regarding a matter which our fathers did not practice.",
+      "ref": "Shulchan Arukh, Yoreh Deah 386:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מ\"ק דף ט\"ו ע\"א מדקאמר ליה רחמנא ליחזקאל ולא תעט' על שפם מכלל דלכ\"ע אסירי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 386:1"
+        },
+        "2": {
+          "he": "טור בשם פירוש רב האי אמימרא דשמואל כל עטיפה וכו' ואמימרא דרב נחמן ע\"ג דיקנא שם דף כ\"ד ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 386:2"
+        },
+        "3": {
+          "he": "שם בשם הרמב\"ן בסת\"ה: (°) ומפרש שם משום שחוק העובדי כוכבים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 386:3"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "וי\"א שאין נוהגין כו'. מפני שמביא לידי שחוק גדול מן העובדי כוכבים ועבדים ושפחות שבינינו מיהו יש לנהוג בעטיפה קצת דהיינו למשוך הכובע למטה לפני העינים וכן משמע בבית חדש ועיין לקמן סימן ת':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 386:1"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "וי\"א שאין נוהגין במדינות אלו כו'. כתב הרוקח אבל חייב בעטיפה כמו עתה שמושכין הכובע לפני העינים כל ז' ימים ובשבת בצינעא ולא בפרהסיא עכ\"ל. וכתב מו\"ח ז\"ל לפי זה מיד כשמתחיל השליח צבור ברכו אז יגביה האבל את הכובע דלא להוי מילתא דבפרהסיא עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 386:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "המנהג.  מפני שמביא לידי שחוק גדול מן העובדי כוכבים ועבדים ושפחות שבינינו. מיהו יש לנהוג העטיפה קצת כמו עתה שמושכין הכובע לפני העינים כל ז' ימים ובשבת בצינעא ולא בפרהסיא. וכתב הב\"ח לפ\"ז מיד כשמתחיל החזן ברכו אז יגביה האבל את הכובע דלא להוי מלתא דפרהסיא. עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 386:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

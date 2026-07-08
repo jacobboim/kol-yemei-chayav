@@ -1,0 +1,158 @@
+{
+  "chelek": "OC",
+  "siman": 390,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-07T23:49:26.297Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "מבוי שצדו אחד עכו\"ם וצדו אחד ישראל. ובו ב סעיפים:מבוי שצדו א' עכו\"ם וצדו א' ישראל ובית של ישראל אחר אצלו פתוח לר\"ה ולא למבוי וחלון בינו לבין ישראל הדר במבוי אינו יכול לערב דרך החלון שביניהם להוציא כליו למבוי דרך בית ישראל שכנו הפתוח למבוי אבל אם פתח ביניהם מותר ויש מי שאוסר אף בפתח פתוח ביניהם:",
+      "en": "An alleyway where one side is a non-Jews and one side is a Jews. Containing 2 paragraphs. An alleyway where one side is owned by a non-Jew and one side by a Jew, and another Jewish house adjacent opens to the public domain but not to the alleyway, and there is a window between him and the Jew living in the alleyway—[the one whose house opens to the public domain] cannot make an eruv through the window between them to carry his utensils into the alleyway via his Jewish neighbor's house which opens to the alleyway. But if there is a doorway between them, it is permitted. And there is one who prohibits even when there is a doorway open between them.",
+      "ref": "Shulchan Arukh, Orach Chayim 390:1"
+    },
+    {
+      "seif": 2,
+      "he": "מבוי שצדו א' עכו\"ם וצדו א' ישראלי' והיו חלונות פתוחות מחצרו לחצר של ישראל ועירבו כולם דרך חלונות אע\"פ שנעשו כאנשי בית א' ומותרי' להוצי' ולהכניס דרך חלונו' הרי אלו אסורי' להשתמש במבוי דרך פתחי' עד שישכרו מן העכו\"ם:",
+      "en": "An alleyway where one side is owned by a non-Jew and one side by Jews, and there were windows open from his courtyard to the Jewish courtyard, and they all made an eruv through the windows—even though they became like members of one household and are permitted to carry in and out through the windows, they are prohibited from using the alleyway through their doorways until they rent [the domain] from the non-Jew.",
+      "ref": "Shulchan Arukh, Orach Chayim 390:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "עירובין ע\"ד וציינתיו לעיל בסי' שפ\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 390:1"
+        },
+        "2": {
+          "he": "רמב\"ם בפרק ה' מהלכות עירובין וע' במה שציינתיו לעיל:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 390:2"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "מבוי עמ״א עסי׳ שפ״ב בב״י וב״ח ובש״ע שם ס״ג וסי״ט וס״ך ומבוי צדו א׳ פירוש קצה האחד ובקצה הב׳ כו׳ וכנגדו י״ל דלא דר שם שום אדם ואי דר כנגדו בחצירות ובתים ישראלים י״ל דל״ש הטעם דליהוי יחיד אצל עכו״ם כיון דכנגדו דרים שם ישראלים. וכללא חצר במבוי כבית בחצר למיהוי כיחיד כו׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 390:1"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "ויש עט״ז ראוי להיות שפ״ב אות י״ט וע׳ פרישה וא״ר כאן ודירת עכו״ם לקולא חשיב דירה להיות המבוי ניתר בלחי וקורה כשב׳ חצירות א׳ ישראל וא׳ עכו״ם עסי׳ שס״ג עב״י כאן ובלבוש. והטעם כמו בחצר בשפ״ב שם אות י״ט:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 390:1"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] [לבוש] כדלגבי חצר וכו'. עיין סימן שפ\"ב סעיף י\"ט עיין שם עוד סעיף כ' שנתבאר שם כל סימן זה ובטור נתחלף רש\"י בר\"י כדאיתא בהרא\"ש ברמזים:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 390:1"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "ויש מי שאוסר.  היינו רש\"י גם כאן יש ט\"ס בטור ברוב ספרים בין רש\"י לר\"י כמו בסי' שס\"ג:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 390:1"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "מבוי שצדו א' כו'. ואם יש חצר עכו\"ם בין חצר הישראלים אם חצר העכו\"ם אין פתוח למבוי זה וגם אין לו פתח או חלון אלא למעלה מי' מותר לטלטל מחצר העכו\"ם לחצר הישראל כיון דאין משתמש להדיא לא בעי שכירות אבל אם חצר העכו\"ם פתוח למבוי או לחצר הישראל למטה מי' אסור להשתמש עמו כלל (ב\"ח מרדכי) אבל דעת הרב\"י בסי' שפ\"ב דדוקא דרך המבוי אוסר אבל מחצר לחצר כיון שאין לו דריסת רגל אינו אוסר וע\"ש ס\"ג ואפי' שנים חצירות של ישראל וחצר עכו\"ם ביניהם יכולין לערב יחד דרך פתחים לטלטל דרך חצר העכו\"ם דלא חשיב הפסק כיון שאין אוסר ומ\"מ זה אינו מוכרח כל כך, רש\"ל:",
+          "en": "",
+          "ref": "Magen Avraham 390:1"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) וצדו אחד ישראל - ומיירי שאין כאן אלא חצר אחד של ישראל הפתוח למבוי:",
+          "en": "",
+          "ref": "Mishnah Berurah 390:1"
+        },
+        "2": {
+          "he": "(ב) ובית של ישראל אחר - ר\"ל חצר:",
+          "en": "",
+          "ref": "Mishnah Berurah 390:2"
+        },
+        "3": {
+          "he": "(ג) ולא למבוי - דאלו היה גם חצר השני פתוח למבוי א\"כ הרי יש כאן שתי חצרות של ישראלים וצריכים לשכור המבוי מן העכו\"ם ולשתף בינם:",
+          "en": "",
+          "ref": "Mishnah Berurah 390:3"
+        },
+        "4": {
+          "he": "(ד) דרך החלון - ר\"ל שיערבו על סמך שיש חלון פתוח ביניהם:",
+          "en": "",
+          "ref": "Mishnah Berurah 390:4"
+        },
+        "5": {
+          "he": "(ה) להוציא כליו למבוי - ואע\"ג דאין כאן אלא חד ישראל שחצירו פתוח למבוי מ\"מ אסרו חכמים לזה לטלטל דרך חצירו של חבירו אפילו ע\"י עירוב כדי שלא יסמוך האי ישראל עליו שיוצא ונכנס תדיר ע\"י עירובו וישאר לדור כאן יחידי במקום עכו\"ם וילמוד ממעשיו:",
+          "en": "",
+          "ref": "Mishnah Berurah 390:5"
+        },
+        "6": {
+          "he": "(ו) מותר - דבלאו הערוב ג\"כ לא מסתפי האי ישראל לדור כאן דכיון שיש פתח גמור מצוי בכל עת ובכל שעה שיכנס האי ישראל חבירו ולהכי לא גזרו. וכ\"ז כשהמבוי מתוקן כדין בלחי וקורה או בצוה\"פ ועיין לעיל בסימן שפ\"ב סי\"ט במ\"ב מש\"כ שם ושייך ג\"כ לכאן וכן מה שכתבנו שם בבה\"ל כי הוא ענין אחד רק דשם כתב המחבר דין זה לענין חצר וכאן כתבו לענין מבוי:",
+          "en": "",
+          "ref": "Mishnah Berurah 390:6"
+        },
+        "7": {
+          "he": "(ז) וצדו אחד ישראלים - וחצריהם פתוחין למבוי:",
+          "en": "",
+          "ref": "Mishnah Berurah 390:7"
+        },
+        "8": {
+          "he": "(ח) דרך חלונות - וכ\"ש אם היו פתחים ביניהם דמהני העירוב:",
+          "en": "",
+          "ref": "Mishnah Berurah 390:8"
+        },
+        "9": {
+          "he": "(ט) דרך פתחים - הפתוחים למבוי:",
+          "en": "",
+          "ref": "Mishnah Berurah 390:9"
+        },
+        "10": {
+          "he": "(י) עד שישכרו וכו' - דאין עירוב מועיל לעשותם כיחיד במקום עכו\"ם כדאיתא לעיל סי' שפ\"ב ס\"ז:",
+          "en": "",
+          "ref": "Mishnah Berurah 390:10"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

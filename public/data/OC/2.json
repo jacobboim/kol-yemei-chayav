@@ -3,7 +3,7 @@
   "siman": 2,
   "chelekTitle": "Orach Chayim",
   "seifCount": 6,
-  "fetchedAt": "2026-07-07T15:26:35.818Z",
+  "fetchedAt": "2026-07-07T23:48:56.410Z",
   "sa": [
     {
       "seif": 1,
@@ -77,6 +77,16 @@
           "he": "קידושין לא",
           "en": "",
           "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 2:6"
+        },
+        "7": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 2:7"
+        },
+        "8": {
+          "he": "ברכות טו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 2:8"
         }
       }
     },
@@ -114,6 +124,16 @@
           "he": "ד״א עמ״א בנדרים ל׳ ע״ב (ט״ס ל״ו) הנודר משחורי הראש דקטנים לילך בגילוי הראש ובי״ד רי״ז סל״ז ובאר הגולה ע״ב והראה לרפ״ב במ״א אות ח׳ בראש מגולה אקטן ושם צידד דגדול לישב ולעמוד שרי כ״א הילוך אסור וכ״ה ביומא כ״ה ותוס׳ ד״ה הא בעינן כוונתו דלמא נטל מצנפת של א׳ ועדיין לבוש כובע קטנה כמו שאנו (הולכין) ומתוס׳ ג״כ אין ראיה דגנאי ושם יבואר אי״ה ומשמע דלהלך אפילו בבית שיש תקרה אסור דוקא עומד או יושב שרי ועסי׳ צ״א סג״ד להוציא אזכרה אסור בגילוי הראש הא בלא״ה רק מדת חסידות עמ״א שם (טעות סופר כאן ג״א וצ״ל צ״א) והנה הד״מ בסימן ח׳ וכאן הבין מב״י דאיסור יש לילך בגילוי הראש ואיך יתרץ ההיא דצ״א וי״ל פחות מד״א ביתו סמוץ לב״ה או יסיר כובע בביה״כ גם י״ל מניח ידו על ראשו מותר ולב״הה אסור עט״ז ח׳ אות ג׳ ומ״מ י״ל הב״י נמי סובר רק מדת חסידות אלא הוקשה לו דטלית של מצוה נמי רק מדות חסידות וזה טעות דאימא יכסה ראשו בכובע. וי״ל עוד מניח ידו א״ו מסיר ואי״ה בסימן ח׳ יבואר עוד. ועטרת זקנים כתב בשם רש״ל בבית הלוך אחר האפשר:",
           "en": "",
           "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 2:6"
+        },
+        "7": {
+          "he": "יחף עמ״א הביאו הד״מ וכ״נ שחסר באן מלת ד״מ עמ״ש אות ח׳ שבת קכ״ט א׳ פסחים קי״ב א׳ רש״י שם ת״ח דוקא וצ״ע (ט״ס קצ״ב):",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 2:7"
+        },
+        "8": {
+          "he": "ונקיות עמ״א מלת שם קאי אד״מ כי באות ז׳ ג״כ בשם ד״מ ועיין הגמי״י פ״ה מדיעות ה״ו אות ד׳ ובכ״מ הר״מ מפרש בוקר וערב בימיהם שהיו צריכין להתרחק ביום מאוד. משא״כ בבוקר וערב אין מצויין ב״א וא״צ להתרחק משא״כ בתי כסאות שלנו י״ל א״צ להרגיל עצמו בוקר וערב מ״מ זהירות מביאה לידי טהרה ונקיות וכ״ש קודם התפלה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 2:8"
         }
       }
     },
@@ -247,6 +267,16 @@
           "he": "ד' אמות. ומדת חסידות אפי' פחות מד\"א וע' תשובת רש\"ל סי' ע\"ב (ב\"ח) וע' בפסקי מהרא\"י סי' כ\"ג ובנדרים דף ל\"ו משמע דקטנים דרכן לילך בגלוי הראש ועבי\"ד סימן רי\"ז סל\"ז ומ\"מ נכון לכסות ראשם דתהוי עליהם אימתא דשמיא כדאיתא בסוף שבת עסי' רפ\"ב ס\"ג והע\"ש לא עיין סי' צ\"א סק\"ו:",
           "en": "",
           "ref": "Magen Avraham 2:6"
+        },
+        "7": {
+          "he": "יחף. אי' בשבת דף קכ\"ט ובפסחים דקי\"ב וברבה פ' מצורע שימכור כל מה שיש לו ויקח מנעלים לרגליו:",
+          "en": "",
+          "ref": "Magen Avraham 2:7"
+        },
+        "8": {
+          "he": "ונקיות. אפי' במקום שא\"צ להתרחק (שם):",
+          "en": "",
+          "ref": "Magen Avraham 2:8"
         }
       }
     },
@@ -284,6 +314,11 @@
           "he": "בגילוי הראש.  ט\"ז סי' זה ס\"ק ה' כתב דה\"ה אם רוכב על גבי בהמה או יושב בעגלה הוי כמהלך ובסי' ח' ס\"ק ג' כתב אפילו יושב אסור משום בחוקותיהם לא תלכו ע\"ש ומהרש\"ל כתב הא דאסור לילך בקומה זקופה ובגילוי הראש היינו דוקא תחת אויר הרקיע אבל לא בבית כי אינו נראה כ\"כ שאינו משגיח במורא של הקב\"ה כ\"א תחת אויר הרקיע ע\"ש וכ' ע\"ת ויש לסמוך על זה בעת הצורך וכובע של קש ושל גמי חשוב כיסוי כמבואר לקמן סי' צ\"א ס\"ד. וכתב ע\"ת דה\"ה שערות שקורין פרו\"ק חשובים כיסוי אך מפני מראית עין יש ליזהר אם אפשר. ולענין ליכנס לבה\"כ בגלוי הראש מבואר לקמן סי' צ\"א ס\"ג דאסור. ואסור להזכיר השם בגילוי הראש ולא מהני אי משים הידים על הראש שם סי' צ\"א ס\"ג. אבל מהרש\"ל כתב אם רוחץ באמבטי ורוצה לשתות או בלילה שאין לו כובע בראשו דיו במה שמכסה ראשו בידו וט\"ז סי' ח' וסי' ע\"ד פסק דכיסוי היד על הראש מהני לענין שלא ישב או ילך בגילוי הראש אבל לענין שיברך או יוציא מפיו דבר קדושה לא מהני כיסוי יד ע\"ש וכ\"פ המ\"א בסימן צ\"א ס\"ק ד'. ואם אחר מניח ידו על ראשו חשוב כיסוי אפילו לענין ברכה שם סי' צ\"א:",
           "en": "",
           "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 2:6"
+        },
+        "7": {
+          "he": "יחף.  איתא בשבת דף קכ\"ב ובפסחים דף קי\"ב שימכור כל מה שיש לו ויקח מנעלים לרגליו (ובספר אליהו רבא מביא בשם של\"ה דאם עושה משום תשובה על עונותיו מותר וכן עשה דוד המלך ע\"ה הלך יחף):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 2:7"
         }
       }
     },
@@ -321,6 +356,46 @@
           "he": "(ו) ויקשרנו - דלענין קשירה מצינו שהתורה נתנה חשיבות אל השמאל שקושר עליה תפילה של יד. ובאנפלאות של לבד א\"צ להקדים שמאל לקשירה ואיטר יד שמניח תפילין בימין של כל אדם יקדים ימין גם להקשירה:",
           "en": "And fasten it - For regarding fastening we find that the Torah gives significance to the left, for [that's the side that] we fasten the hand tefillin to.  [Regarding] felt slippers, one does not need to precede with the left side when fastening.  A left handed person who dons his tefillin on his right arm, he should precede with the right [side] also when fastening [his shoes].",
           "ref": "Mishnah Berurah 2:6"
+        },
+        "7": {
+          "he": "(ז) ימין תחלה - וגם אם נזדמן לו של שמאל ימתין עד שיביאו לו של ימין. כשהוא רוחץ וסך ימין תחלה ואם סך כל גופו ראש תחלה מפני שהוא מלך על כל האיברים ועיין בד\"מ:",
+          "en": "The right first - And even if one [currently] only has the left [shoe], he should wait until they bring him the right [one].  When one washes or annoints, the right takes precedence; and if he is annointing his whole body, the head takes precedence since it's [considered] the king over all the limbs [of the body].  See further in Darchei Moshe.",
+          "ref": "Mishnah Berurah 2:7"
+        },
+        "8": {
+          "he": "(ח) חולץ של וכו' - שזהו כבודה של ימין:",
+          "en": "One takes off etc. - For this is the honor of the right.",
+          "ref": "Mishnah Berurah 2:8"
+        },
+        "9": {
+          "he": "(ט) בקומה זקופה - שדוחק רגלי השכינה כביכול ע\"כ כתבו האחרונים דאסור אפילו פחות מד\"א ופשוט דאפילו עומד במקומו ואינו הולך כלל:",
+          "en": "In an upright posture - For it's as if he is pushing away the feet of the Shechina.  Therefore, the later rabbinic authorities wrote that it is forbidden [to walk upright] even less than 4 cubits.  And it's obvious that [this applies] even when one is standing in place and not walking anywhere.",
+          "ref": "Mishnah Berurah 2:9"
+        },
+        "10": {
+          "he": "(י) ולא ילך - אפילו בבית שיש בו תקרה וכ\"ש תחת אויר השמים דיש ליזהר לכו\"ע:",
+          "en": "One should not walk - Even in a house that has a ceiling, and certainly under the open sky, for all opinions agree that one needs to be careful.",
+          "ref": "Mishnah Berurah 2:10"
+        },
+        "11": {
+          "he": "(יא) ד\"א - ומידת חסידות אפילו פחות מד\"א ואפילו בעת השינה בלילה ויש שמצדדין לומר דאפילו ד\"א אינו אסור מדינא רק להצנועין במעשיהן אבל כבר כתב הט\"ז לקמן בסימן ח' דבזמנינו איסור גמור מדינא להיות בגילוי הראש ואפילו יושב בביתו עי\"ש הטעם וכן כתב בתשובת מהר\"י ברונא וכתב המ\"א דאפילו קטנים נכון להרגילם בכיסוי הראש כי היכי דליהוי להו אימתא דשמיא כדאיתא (בשבת קנ\"ו) כסי ראשך כי היכי דליהוי עלך אימתא דשמיא ודע עוד דלענין גילוי הראש די בכיסוי היד על הראש וה\"ה אם מפלה ראשו שרי בגילוי הראש. ועיין בפמ\"ג שכתב דלילך ד\"א תחת אויר השמים לא מהני בזה כיסוי הראש ביד:",
+          "en": "4 cubits - The pious trait is to [not move without a yarmulke] even less than 4 cubits, and [to do so] even when sleeping at night. There are those who lean towards saying that [moving] even 4 cubits [without a yarmulke] isn't prohibited according to [Jewish] law except for [those who are] modest in their ways. However, the Ta\"z has already written below in siman 8 that in our time it is entirely prohibited according to [Jewish] law to have one's head uncovered, even when sitting in his house - see there for the reason. And so too writes Mahar\"i  Bruna. And Magen Avraham writes that even for minors it is correct to habituate them in covering their heads, in order to instill an awe of heaven, as it was brought, (Shabbat 156)  \"Cover your head so that an awe of heaven will be upon you.\" And know also that regarding uncovered heads, it is enough to cover one's head with a hand, and similarly, if one is checking their head for lice, it is permitted to not cover one's head. And see further in Pri Megadim who wrote that for moving 4 cubits in the open air, covering one's head with a hand is not sufficient.",
+          "ref": "Mishnah Berurah 2:11"
+        },
+        "12": {
+          "he": "(יב) בגילוי הראש - וכ\"ש שאסור לברך וה\"ה ללמוד בגילוי הראש ולא מהני בזה כיסוי היד דיד וראש חד גופא אינון ואין הגוף יכול לכסות את עצמו ויש מקילין בזה בשעת הדחק כגון בלילה שרוצה לשתות ואין לו כובע בראשו דדי במה שמכסה ראשו בידו אבל יותר טוב לנהוג כמו שהעולם נוהגין שממשיך הבית יד של הבגד על היד ומכסה בו ראשו דאז הוי שפיר כיסוי לכו\"ע וכתב הפמ\"ג דיש ליזהר בשעת הנחת תפילין של ראש שלא יברך הברכה בראש מגולה ופרו\"ק משערות אף אותן שתפורין בבגד מתחתיו יש לאסור מפני מראית העין שיאמרו ששערות הן ויש מקילין:",
+          "en": "With one's head uncovered - And certainly it's forbidden make a blessing.  And the same applies to learning Torah with an uncovered head.  And for this (ie. making a blessing or learning Torah), it doesn't help to cover [the  head] with one's hand, because the hand and head are part of the same body and the body can't cover itself.  And there are those who rule leniently regarding this in an extenuating circumstance, for example at night when one wants to drink and he does't have a hat/covering on his head, it's enough for him to cover his head with his hand; but it's better to do like most people do - that they pull the sleeve of their shirt over their hand and then use that to cover their head, for that is certainly considered a head covering according to all opinions.  The Pri Megadim wrote that one should be careful when putting on his head tefillin, to not recite the blessing with an uncovered head.  A toupee made of hair, even those which have a cloth sewed underneath [the hairs], there are those who forbid it in order to  avoid the appearance of transgression, for people will say that that is his [actual] hair; and there are those who are lenient.",
+          "ref": "Mishnah Berurah 2:12"
+        },
+        "13": {
+          "he": "(יג) ויבדוק נקביו - כדי שיהיה אח\"כ גופו נקי בשעת קבלת מלכות שמים בק\"ש ותפלה ואין צריך רק בדיקה לבד ואם בדק את עצמו ואינו רוצה עתה לנקביו זה נקרא מן הדין גוף נקי וחלילה לאחר שוב עבור זה זמן ק\"ש או אפילו רק תפלה בצבור:",
+          "en": "One should check if he needs to relieve himself - So that afterwards his body will be clean at the time that he is accepting the yoke of Heaven during k'riyat shema and prayers.  And one only needs to check [if he needs to relieve himself]; and if he checked himself and he doesn't need to relieve himself right now, that's called having a clean body according to halacha.  And far be it for one to delay because of this (ie. delaying because one feels he is not 100% sure if he needs to relieve himself) the time for k'riyat shema or even praying with the congregation.",
+          "ref": "Mishnah Berurah 2:13"
+        },
+        "14": {
+          "he": "(יד) יחף - אחז\"ל שימכור אדם כל מה שיש לו ויקח מנעלים לרגליו. ובמקומות הערב שדרכן לילך יחף שרי. [א\"ר] עוד כתב בשם של\"ה דאם עושה משום תשובה על עונותיו מותר וכן עשה דהמע\"ה הולך יחף:",
+          "en": "Barefoot - Our sages have taught that a person should sell everything he owns in order to buy shoes for his feet.  In in the Arab countries where they normally walk barefoot, it is permitted.  [Eliah Rabba] It is written further in the name of the Sh'la, that if one is doing so (ie. is walking barefoot) because he is repenting for his sins, it is permitted; and that is what King David did, he walked barefoot.",
+          "ref": "Mishnah Berurah 2:14"
         }
       }
     }

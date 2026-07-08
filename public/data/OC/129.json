@@ -1,0 +1,171 @@
+{
+  "chelek": "OC",
+  "siman": 129,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-07T23:41:12.799Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "באיזה תפלות נושאים כפים. ובו ב סעיפים:אין נשיאת כפים אלא בשחרי' ומוסף ובנעילה ביום שיש בו נעילה כמו ביום הכפורים אבל לא במנח' משום דשכיחא שכרות באותה שעה שמא יהא הכהן שכור וגזרו במנחה של תענית אטו מנחת שאר ימים אבל בתענית שאין בו נעילה הואיל ותפלת המנחה סמוך לשקיעת החמה היא דומה לתפלת נעילה ואינה מתחלפת במנח' של שאר ימים הילכך יש בה נשיא' כפים והמנהג שלנו כבר נתבאר לעיל בסי' קכ\"ח:",
+      "en": "During Which Services We Lift the Hands [Perform the Priestly Blessing],  Containing 2 S'ifim:We only lift the hands [perform the Priestly Blessing] during Shacharit and Mussaf, as well as during N'ilah on a day that has N'ilah, such as Yom Kippur; but not during Mincha, since it is drinking [alcohol] is likely [by] that time, and perhaps the Kohen would be drunk. They decreed [similarly regarding] during Mincha on a fast day because of Mincha on other days (i.e., lest people come to think that Birkat Kohanim during a regular Mincha is permitted).  But on a fast day that does not have N'ilah, since the Mincha prayers are said close to [the time of] the setting of the sun, it's similar to the N'ilah prayers and will not be confused with  Mincha on other days, therefore they do perform Birkat Kohanim.  And our custom has already been explained above in Siman 128.",
+      "ref": "Shulchan Arukh, Orach Chayim 129:1"
+    },
+    {
+      "seif": 2,
+      "he": "כהן שעבר ועלה לדוכן ביום הכפורים במנחה כיון שהדבר ידוע שאין שם שכרות הרי זה נושא את כפיו ואין מורידין אותו מפני החשד שלא יאמרו פסול הוא ולכך הורידוהו: הגה ולכן אומרים במנחה ביום כפורים אלהינו ואלהי אבותינו אע\"ג דאין ראוי לנשיאת כפים מכל מקום הואיל ואם עלה לא ירד מקרי קצת ראוי [הגהות מיימוני] וכן נוהגין במדינות אלו אע\"פ שיש חולקים:",
+      "en": "A Kohen who transgressed and went up to the platform [to perform Birkat Kohanim] on Yom Kippur during Mincha - since it's known that no one is drunk then, he may lift his hands [to perform Birkat Kohanim], and they [the congregation] may not bring him down because of any suspicion - in that people shouldn't say that he was unfit [to perform Birkat Kohanim] and that's why they brought him done. Gloss: Therefore, during Mincha on Yom Kippur, they say \"Our G-d, and the G-d of our Forefathers...\", even though it's not a time that's fitting to perform the lifting of the hands;  nevertheless, since if [a Kohen] did go up, he does not come down, it's considered to be somewhat of a fitting time (Hagahot Maimoni).  And such is what we practice in these lands, even though there are some who disagree.",
+      "ref": "Shulchan Arukh, Orach Chayim 129:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "תענית כ\"ו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 129:1"
+        },
+        "2": {
+          "he": "רמב\"ם פי\"ד מה\"ת",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 129:2"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "ותפלת מנחה עמ״א במנחה של תענית ד׳ צומות ואפי׳ בה״ב וכדומה אומרים אלהינו במנחה הואיל וראוי. לנ״כ מדינא אלא שא״א נ״כ דלאו ימי שמחה ושאני מוסף יוה״כ דיום מחילת העון הוא הוי שמחה עיין קכ״ח סמ״ד (ובלבוש נתב דלא פלוג א״י למה הוצרך לכך הא מבואר לעיל שאין ימי שמחה ואף להלבוש אם עלה במנחה דתענית אם עלה לא ירד וכ״ש לדידן בשחרית בחול אפשר אם עלה לא ירד ובמנחה בחול ירד וכ״כ הפר״ח כמבואר בס״ב ביוה״כ לא ירד) ואם מתענין עד חצות כתב המ״א למ״ש רמ״א ס״ב במנחה יוה״כ אומרים או״א כיון שהדבר ידוע ה״ה כאן והא דבעשי״ת א״א או״א שכ״א אוכל מתי שירצה אבל במקום שקבעו תענית ציבור עד חצות ומתפללין מנחה מיד בשש ומחצה הדבר ידוע והא״ר חולק שאין זה ידוע כ״כ יע״ש :",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 129:1"
+        },
+        "2": {
+          "he": "סמוך עמ״א מנחה של חול בעוד יום גדול ולכך לא מחלפא כו׳ מכאן לכאורה משמע דשתוי מ״ה אסור דאל״כ הוי גזירה לגזירה ואפי׳ נאמר כולהו חדא גזירה מ״מ מ״ש מנחה כל ימות השנה ירד ומנחה דיוה״כ לא ירד אידי ואידי דרבנן הוי אלא נאמר בצירוף הטעם דהדבר ידוע משמע הא שאר איסור דרבנן אם עלה ירד ועמ״ש בקכ״ח מזה באורך בסוף הסי׳ בט״ז. וע׳ מ״א תרכ״ג אות ג׳ בנעילה אפי׳ שוהה עד הלילה אומרים או״א (כיון די״א דעולים לדוכן) יע״ש :",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 129:2"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] והמנהג שלנו וכו'. פירוש שנתבאר לעיל שלא לישא אלא ביום טוב, אבל לבוש כתב דאין נוהגין משום דלא פלוג, תימא מנא ליה זה גם לא עיין בכלבו הנזכר לעיל, ועוד כן מצאתי להדיא בכלבו סימן קכ\"ח כל הראשונים כתבו דיש לישא כפיו במנחה דשאר תעניות ולא אישתמיט חדא מינייהו לחוש ללא פלוג, אלא ודאי לא שייך בזה לא פלוג דאין מתחלפות כיון שמתפללין סמוך לשקיעת החמה, ועוד דדין שיכור גופיה אינה אלא דרבנן. לכך אני אומר דבכל מקום שנשיאת כפים בכל יום שיש להם לישא בלי פקפוק גם במנחה דתשעה באב ושבעה עשר בתמוז וצום גדליה ועשרה בטבת וצום אסתר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 129:1"
+        },
+        "2": {
+          "he": "[ב] ולכן וכו'. ביום כיפור והוא הדין בכל התעניות לבוש, ונראה דאזיל לטעמיה דבכל התעניות אין נשיאת כפים במנחה משום ולא פלוג וכבר כתבתי דליתא ואם כן לא צריכין לטעם הואיל ואם עלה וכו' דראוין הן לנשיאת כפים, וכן בשולחן ערוך ורמ\"א לא הזכיר שאר תעניות כלל, גם לדידיה יש לחלק בין יום כיפור ותענית ציבור גמור שידוע לכל שאר תעניות שאין הדבר ידוע כל כך שמתענין הכל. וזה נראה לי טעמא דר' יעקב ווייל שכתב בלקוטים סימן מ\"א, שהמתענין בראש חודש ניסן עד חצות ומתפללין בציבור שלא לומר אלהינו וכו' שאין ראוי לנשיאת כפים דאתו למיטעי אטו מנחה דשאר יומי, עד כאן. והיינו משום דבזה אפילו עלה ירד דאין ידוע כל כך כדפירשתי, אפילו נאמר דבכל תעניות ידוע הוא מכל מקום בזה שאין מתענין כל היום אין ידוע כל כך כן נראה לי. ולאפוקי ממגן אברהם שכתב דמהר\"ר יעקב ווייל חולק וסבירא ליה דגם ביום כיפור אין אומרים אלהינו, ולדידן דקיימא לן כרמ\"א אומרים גם בדין דמהר\"ר יעקב ווייל. ולעניות דעתי דלא פליגי וכדאמרן, ועוד דגם ביום כיפור במנחה כתב הב\"ח דאינו נראה מנהג נכון שאומרים אלהינו עיין שם, והבו דלא להוסיף עליהו, ועיין לעיל סוף סימן קכ\"ז. כתב בספר צידה לדרך כל כהן המברך מתברך ומקללין לא יראו אור שנאמר ומקלליך אאור, עד כאן. ונראה דדייק דהוה ליה למימר ומקלליך אקלל כדכתיב ומברכיך ברוך אלא פירש אאור שאחסר האור מהם. כתב שיירי כנסת הגדולה מנהגי לכוין להתחיל תפילת נעילה בכדי שיהא שהות לברך ברכת כהנים קודם צאת הכוכבים, עד כאן. ועיין לקמן סימן תרכ\"ג דמשמע דאף שאירע שיש שהות ביום לישא בנעילה אין נשיאת כפים, דלא ליתי לאחלופי בשאר שנים דלעולם מסיימין בלילה ושירות דומיא דעבודה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 129:2"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "ותפלת מנחה. אבל אם מתענין עד חצות ומתפללין מנחה לא יאמרו אלקינו [ליקוטי מהרי\"ו סי' מ\"א] אבל לפי מ\"ש רמ\"א בהג\"ה י\"ל אלקינו:",
+          "en": "However if they are only fasting until halachik midday, when they daven Mincha they do not say \"elokeinu\" [collections of the Mahri Vayil siman 41.] However according to what the Rama says (sief 2) one should say elokienu (he states that we say elokeinu in situations where if a cohen would go up to say birchat cohanim we wouldn't make him go down. So on this half fast we wouldn't make the cohen go down and therefore should say elokienu.)",
+          "ref": "Magen Avraham 129:1"
+        },
+        "2": {
+          "he": "סמוך לשקיעת. משא\"כ בשאר ימות השנה שהיו רוצים לאכול אחר מנחה מתפללין אותה מבע\"י (ר\"ן) ובודאי שהיו מתפללין בעוד היום גדול שאסור להתחיל לאכול חצי שעה קודם צ\"ה כמ\"ש סי' רל\"ה ובתענית היו מתפללין סמוך לשקיעה:",
+          "en": "2. (Magen Avraham comes to explain why we would daven at a different time on a fast day.) Throughout the year people want to eat after they daven mincha so they daven while it's still day (Ran.) And they for sure daven while the days still great (Suns shining strong) because it's prohibited from eating a half an hour before tzies (when three specific stars come out) like it says in siman 235. However, on a fast day (where there not eating during the day) they'd daven close to sunset.",
+          "ref": "Magen Avraham 129:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ביוה\"כ.  ואם נמשכת הנעילה עד צאת הכוכבים אינם יכולים לישא את כפיהם דאין נשיאת כפים בלילה ואפי' אם עלה ירד. באר שבע פר\"ח ושכנה\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 129:1"
+        },
+        "2": {
+          "he": "במנחה.  אפי' אם עלה ירד כדמוכח בסעיף ב'. פרי חדש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 129:2"
+        },
+        "3": {
+          "he": "החמה.  המ\"א כתב דאפילו אם מתענין עד חצות ומתפללין מנחה יאמרו אלקינו לפי מנהג שלנו ע\"ש ועי' סי' קכ\"א ס\"ק ג'. כתב המ\"א בשם הד\"מ דהש\"ץ אינו או' או\"א אפי' בער\"ה דלא מקרי ת\"צ וצ\"ע. ובתענית אסתר אומר הש\"ץ או\"א הר\"ש הלוי סי' י\"א בשבעה באדר שמתענין ומתקבצין יחד ומרבים בסליחות ובתחנונים אין אומר הש\"ץ או\"א דלא הוי ת\"צ. גינת ורדים כלל א' סי' ל\"ג והיד אהרן. ויחיד כשהוא בתענית יחיד אין למחות כשאומר אותו ע\"ל סי' קכ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 129:3"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) אלא בשחרית ומוסף ובנעילה - היינו דבחול בכל יום בשחרית ובשבת ויו\"ט גם במוסף וביוה\"כ גם בתפלת נעילה והוא כשהוא עדיין יום:",
+          "en": "",
+          "ref": "Mishnah Berurah 129:1"
+        },
+        "2": {
+          "he": "(ב) ביום שיש בו נעילה - היינו בתעניתים המבוארים לקמן סימן תקע\"ט שתקנו רבנן בהן תפלת נעילה כמו ביוהכ\"פ:",
+          "en": "",
+          "ref": "Mishnah Berurah 129:2"
+        },
+        "3": {
+          "he": "(ג) שמא יהא הכהן שיכור - שנשתכר בסעודתו ושיכור אסור בנ\"כ וכנ\"ל בסימן קכ\"ח סל\"ח משא\"כ במוסף לא גזרו דכיון שאסור לסעוד סעודת קבע קודם מוסף כ\"א טעימה בעלמא כמבואר בסימן רפ\"ו ס\"ג ליכא למיחש לשכרות:",
+          "en": "",
+          "ref": "Mishnah Berurah 129:3"
+        },
+        "4": {
+          "he": "(ד) של תענית - היינו של ת\"צ שיש בהם נעילה הנ\"ל או של יוה\"כ:",
+          "en": "",
+          "ref": "Mishnah Berurah 129:4"
+        },
+        "5": {
+          "he": "(ה) אטו מנחת וכו' - לפי שביום שיש בו נעילה מתפללים מנחה בעוד היום גדול כדי להתחיל נעילה קודם שקיעת החמה לכן מתחלפת היא במנחה של שאר הימים שהיו נוהגים ג\"כ להתפלל בעוד היום גדול מפני שהיו רוצים לאכול אח\"כ [שאסור לאכול קודם תפלת המנחה כמ\"ש בסימן רל\"ב] ובנעילה לא גזרו אטו שאר ימים לפי דליכא תפלת נעילה כ\"א בתענית [גמרא]:",
+          "en": "",
+          "ref": "Mishnah Berurah 129:5"
+        },
+        "6": {
+          "he": "(ו) שאין בו נעילה - היינו כל הארבעה תעניות וצום אסתר:",
+          "en": "",
+          "ref": "Mishnah Berurah 129:6"
+        },
+        "7": {
+          "he": "(ז) סמוך לשקיעת החמה - שהיה מנהגם לאחרה סמוך לשקיעה:",
+          "en": "",
+          "ref": "Mishnah Berurah 129:7"
+        },
+        "8": {
+          "he": "(ח) והמנהג שלנו וכו' - ר\"ל שאין נושאין כפים כלל במדינותינו בכל ימות השנה רק בימים טובים וגם זה רק בתפלת מוסף ומ\"מ כל הדינים הנזכרים בסעיף זה נ\"מ גם לדידן לענין אמירת או\"א ברכנו וכו' ולפי המבואר לעיל בסי' קכ\"ז דבזמן שראוי מדינא לישא כפים אומרים או\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 129:8"
+        },
+        "9": {
+          "he": "(ט) שהדבר ידוע וכו' - ר\"ל ולא אסרו בזה כי אם משום דמיחלף בשאר יומי וכנ\"ל בסעיף א' לכן אין מורידין אותו אם כבר עלה אבל במנחה של שאר יומי אף אם עלה ירד (אחרונים):",
+          "en": "",
+          "ref": "Mishnah Berurah 129:9"
+        },
+        "10": {
+          "he": "(י) מקרי קצת ראוי - ומ\"מ המתענים עד חצות ומתפללין מנחה כגון בער\"ה וכדומה לא יאמר הש\"ץ אלהינו וא\"א אפילו לשיטה זו:",
+          "en": "",
+          "ref": "Mishnah Berurah 129:10"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

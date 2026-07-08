@@ -1,0 +1,124 @@
+{
+  "chelek": "OC",
+  "siman": 594,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-07T23:49:34.076Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "יחיד שלא התפלל אין חבירו מוציאו. ובו סעיף אחד:יחיד שלא תקע חבירו יכול לתקוע לו להוציאו ידי חובתו אבל יחיד שלא התפלל ט' ברכו' אין חבירו יכול להוציאו: הגה ויש חולקין ואומרים דאם לא יכול להתפלל חבירו יכול להוציאו בתפלתו (ר\"ן סר\"ה ומרדכי והגהות אשירי ספ\"ק דר\"ה):",
+      "en": "An individual that did not pray, his friend cannot fulfill (for him). And in it is one paragraph. An individual that does not blow shofar, his friend is able to to blow for him to fulfill his obligation. But an individual that did not pray the 9 blessings (of the Rosh HaShana Musaf Prayer), his friend is unable to fulfill (for him). Rema: There are those that argue, and say that if one is not able to pray, then his friend is able to fulfill for him with his (the friend's) prayer (Ran end of tractate Rosh HaShana, Mordechai, and Haagos Ashiri end of the first chapter of Rosh HaShana).",
+      "ref": "Shulchan Arukh, Orach Chayim 594:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא ר\"ה ל\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 594:1"
+        },
+        "2": {
+          "he": "אפילו הוא בור אין הסופר מוציאו בתחלה טור בשם הרי\"ץ גאות ורב שרירא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 594:2"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "אין עיין מ״א ועיין ט״ז אם אמר אחריו מלה במלה שפיר דמי:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 594:1"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "אין עט״ז עמ״א א׳ ואי״ה שם יבואר וע׳ טור וב״י והגה אם אחד אומר מתוך הסידור וחבירו שאין יכול לומר עמו מלה במלה שפיר דמי ואי משום משמיע קול בתפלתו בר״ה ויוה״כ נהגו בכך ובגמרא עד דילפין מיניה בני ביתו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 594:1"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] [לבוש] ויש אומרים וכו'. עיין סימן נ\"ט סעיף ד':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 594:1"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אין חבירו יכול להוציאו.  והא דאמרי' סופר מברך ובור יוצא דוקא בב\"ה ומצות שנהגו להשמיען אפי' ליחיד משא\"כ בתפלה שלא ניתקנה אלא  בלחש ויש חולקים ס\"ל דאין חילוק בזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 594:1"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "אין חבירו וכו'. אא\"כ בעשרה [טור] וכ\"כ הרמב\"ם בה' תפלה דין ד' שאין ש\"ץ מוציא בפחו' מי' ובדין ט' כ' דאין מוציא אלא שאינו בקי וכ\"כ רי\"ו נ\"ג ח\"ז ע\"ש ועמ\"ש סי' נ\"ט ס\"ד:",
+          "en": "",
+          "ref": "Magen Avraham 594:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "אין.  אא\"כ בעשרה טור והרמב\"ם. והבקי אפי' בדיעבד אינו יוצא בתפלת הש\"ץ כיון שמפסיקין עכשיו בפיוטים. מ\"א סי' (תקנ\"א) [תקצ\"א] ע\"ש ועיין יד אהרן שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 594:1"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) יכול לתקוע לו - אפילו הוא יכול לתקוע בעצמו:",
+          "en": "",
+          "ref": "Mishnah Berurah 594:1"
+        },
+        "2": {
+          "he": "(ב) אין חבירו יכול להוציאו - אפילו אם הוא צריך להתפלל אז גם לצורך עצמו בלחש אלא שהוא מתפלל בקול כדי להשמיע גם לחבירו ולהוציאו ואפילו אם לא יכול להתפלל בעצמו דתפלה צריך כ\"א לבקש רחמים על עצמו ולא ע\"י שליח אא\"כ יש עשרה ואז הוא ש\"ץ:",
+          "en": "",
+          "ref": "Mishnah Berurah 594:2"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

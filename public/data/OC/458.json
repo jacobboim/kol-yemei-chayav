@@ -1,0 +1,149 @@
+{
+  "chelek": "OC",
+  "siman": 458,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-07T23:49:28.640Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "מצוה ללוש המצה בערב פסח. ובו סעיף אחד:נוהגים שלא ללוש מצת מצוה בערב פסח עד אחר שש שעות שהוא זמן הקרבת קרבן פסח ובי\"ד שחל להיות בשבת לשין בערב שבת אחר שש שעות:",
+      "en": "THE COMMANDMENT TO KNEAD THE MATZAH OF THE EVE OF PESACH: ONE SECTION                                                          It is customary to not knead Matzot Mitzvah on the eve of Pesach until after the sixth hour, as this was the time when the Pesach offering was offered. When the 14th [of Nissan] falls out on Shabbos, one should knead on the eve of Shabbos after the sixth hour.",
+      "ref": "Shulchan Arukh, Orach Chayim 458:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "טור בשם אבי העזרי על פירוש הירושלמי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 458:1"
+        },
+        "2": {
+          "he": "שם בשם אביו הרא\"ש ובשם המדקדקים שאופין הכל קודם מועד שאם יש משהו חמץ יתבטל קודם זמן איסור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 458:2"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "אחר עמ״א ועח״י דמצוה אחר שש ומחצת כמ״ש הט״ז והב״ח ומ״ש הח״י דבין הערבים לא מיקרי עד שש ומחצה קשה דמשמע בין הערבים מיקרי אחר שש אלא דלא בקיאין כו׳ ועמ״א ברל״ג אות ב׳ עיקר שחיטה מדאורייתא משש ומחצה קשה ועיין מנחת כהן במביא השמש מאמר א׳ פרק י״ג בשם רש״י בא בין ערביים מתחלת שביעית יע״ש (מה שיש לומר מ״ש הראב״ע ז״ל שכתב רוב פסחים נשחטים בין שקיעה לצ״ה אפשר דם נפסל מסוף שקיעה והפסחים היו נשחטים מתחילת שקיעה עד סוף שקיעה גם מ״ש בפרשת יתרו שקיעת לילה היינו סוף שקיעה) ועפר״ח ראיה מחלת תודה שבע״פ אין מביאין קשה דאופין בתנור חול למכור בשוק ויכול להיות בע״פ ולא אפו כלל חמץ רק למכור מצות בשוק למי שצריך לו אחר פסח: מה שהקשה על עולת שבת תנ״ג כיון דנתבטל קודם פסח אין חוזר וניעור ומותר לבשל בפסח פירשתיו שם בט״ז אות ב׳ יע״ש דמ״מ טעם חדש טעם בפסח ע״י בישול וחוזר וניעור ושאני לח בלח ממש כשכר ביין: אם אפו מצות ל׳ יום קודש פסח אם אין לו אחרות יוצא בה עב״ח ועסי׳ תרל״ו ואי״ה שם יבואר. עסי׳ תל״ד בהג״ה ס״א והיינו מצות מצוה לא הוי לחם עוני ומ״מ שאר מצות ג״כ דא״א ליקח בטוב וליתן לתנור ונתכפל. עח״י סי׳ אות ט׳ ובא״ר ב׳ ובשם מהרי״ל מעשה שנחרכה חלה בתנור בליל י״ט והתיר מהרי״ל לצרפה ולקרוא שם חלה יע״ש ובא״ר שלא היה ראוי לאכילה יע״ש וצ״ע אם אין ראוי כלל לאכילת אדם י״ל דכתיב מלחם הארץ דבעינן שתהא עליה שם לחם ואע״פ ששורפין וחלה טמאה ג״כ בלא״ה לשריפה עומד מ״מ בשעת הפרשה אפשר לחם בעינן וצ״ע ואין בידי כעת מהרי״ל לעיין בו. ואם לומר שראוי לאכילה על ידי הדחק עסי׳ תנ״ד ס״ב עיסת הרועים וצריך עיון:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 458:1"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "לשון עט״ז. מ״ש המחבר נוהגין משמע לא מדינא ועיין עולת שבת והיקש כתב הלבוש צלי אש ומצות יאכלוהו רק לאכילה לא לכל מילי ועב׳י ופר״ח ובדרישה היקש וזבחת פסח לא תאכל עליו חמץ שבעת ימים תאכל מצות ופסחים כ״ח ב׳ לר״י דהלכתא כוותיה לא תאכל עליו בזמן שחיטת הפסח קאמר ה״ה עליו מצות היינו מצה האפויה בזמן שחיטת הפסח יוצא בה ואע״ג דכתיב שבעת ימים משום לילה ראשונה י״ל כתיב הכי וא״ש מה שהקשה ר״ש שם ולפ״ז לר״ש דרשא גמורה באפשר. ומ״ש הט״ז אחר שש ומחצה כ״כ הב״ח ועמ״א א׳ ועמ״ש המחבר מצת המצוה הא שאר מצות אופין קודם והקשה הב״י א״כ מ״ש הטור בשעת הדחק יאפה ג׳ מצות במ״ש משמע שלא בשעת הדחק יאפה שאר מצות ג״כ אחר חצות ותי׳ הט״ז דה״פ דראוי לאפות עם מצת מצוה הרבה שאר מצות כדאיתא בה׳ י״ט ממלאה פת תנור שהפת נאפה יפה ובשעת הדחק יאפה עכ״פ ג׳ מצות אבל רשאי לאפות שאר מצות קודם י״ד הרבה כל ששמר מחמץ ועב״ח ושאר פוסקים מי שיש יכולת כידו מצוה לאפות כל המצות אחר חצות (ולמ״ש בשם הדרישה יש סמך מהיקשא) עד״מ ב׳ בשם א״ז טוב לשמור המצות חמין דחמין מבטלין הארס של מרור יע״ש. (ופירש מראית העין יסברו שיאכלו בע״פ מצה ואסור לאכול מצה בע״פ) והא דלא צריך ביעור מבית דלא בדיל י״ל בדרבנן א״צ ונוקשה ל״פ ועסי׳ תע״א ס״ב בהג״ה מותר לפרר מצות בע״פ ואי״ה שם יבואר ועב״ח מ״ש נראה כמכין משבת לי״ט דממנחה ולמעלה אין עושין מלאכה ולשיטתיה דשש ומחצה קאמר ועסי׳ רנ״א במ״א ד׳. ומ״ש הט״ז בלא לאפות בי״ט מכמה טעמים ולענין משהו חמץ קודם פסח בטל ואין חוזר וניעור עסי׳ ת״ל. ואם אופין בי״ט מפריש חלה בי״ט ואם לש בי״ט ונמשך עד הלילה עמ״א תק״ו: ועיין מ״א תק״ו ח׳ בחלת ח״ל דרבנן בשכח ע״פ להפריש דאין תקנה בחמץ ועט״ז שכ״ג ה׳ צידד בדרבנן י״ל לא הוי מתקן ועיין ביצה ט׳ ובא״ח תק״ו אף חלת ח״ל אם גלגל מעי״ט אין מפרישין בי״ט וי״ל דא״צ דאוכל והולך ואח״כ מפריש משא״כ בא״א לו בע״א ועשו״ת פנים מאירות ח״א סימן למ״ד דף ל״ז ד׳ הקשה דמאי אין מעשרין בשבת ושבת קכ״ח א׳ טבל דרבנן מוקצה הוא וי״ל טבל כל דאין רוצה עתה לתקן לא חזי ומוקצה הוא ודמאי כתב הר״מ ז״ל פכ״ג ה״ש הי״ד אין מעשרין דהוי דומה למקח וממכר ועוד מתקן וא״כ בדרבנן י״ל דומה למקח וממכר ובשבת קמ״ב א׳ מתקן משמע אף בדרבנן מתקן ר״ל לר״י מין במינו מ״ה לא בטל נאמר אף ביבש ותרומה דעולה בא׳ ומאה מדרשא דוהרמותם ממנ״ו ועתוס׳ מנחות כ״ב ב׳ פריך הוי מתקן ודוחק. וי״ל מתקן ל״ד אלא הוי כמו״מ וכן חלת ח״ל מקדיש דומה למו״מ משא״כ בחלת ח״ל הנשרפת ל״ש זה. ומיהו ביה״ש שרי וה״ה טבילת כלים. מ״ש הר״מ פכ״ג מה״ש הט״ו ופנים מאירות שם עמ״א של״ט דאיסור דרבנן נחית חד דרגא יע״ש. ועמ״ש כאן במ״א אי״ה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 458:1"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] [לבוש] אחר חצות וכו'. היינו אחר שש ומחצה דומיא דפסח (ב\"ח), וברוקח ובמהרי\"ל אחר שבע ומחצה ונראה לי טעמייהו דתנן תמיד נשחט בשבע ומחצה ואחר כך קרבן פסח, ושאר פוסקים סבירא ליה כיון דבדיעבד כשר כששחט הפסח קודם תמיד וזה דמצות אינו אלא אסמכתא הקילו בה לכתחילה ונראה שזה טעמא דמגן אברהם שחולק הב\"ח ומתיר אחר שש מיד כיון דעיקר זמנו אחר שש, וחק יעקב הקשה ממה שכתב מגן אברהם ריש סימן רל\"ג דכיון דלא קים לן בשיעור שעות החמירו עד שש ומחצה עיין שם, ולעניות דעתי הכא שאני שאינו אלא סמך לא החמירו אלא מה שאין כן בתפילת מנחה. כתב הטור המדקדקים נוהגין ליאפות הכל קודם פסח שאם יתערב עמו משהו חמץ יתבטל, עד כאן, ומותר אחר כך לבשל המצות בפסח דנתערב בלישה דאם לא כן אף לאכלן בעין אסור (מגן אברהם), ובמטה משה כתב על הטור בשם הר\"ש חומרא יתירה הוא וכן נוהגין גם ליאפות בחול המועד משום כבוד יום טוב שיהא מצות חדשות כמו שכתב מהרי\"ל אבל בליל יום טוב עצמו דעת כל אחרונים שלא לנהוג ליאפות מכמה חששות. כתב מטה משה אם נאבד אחד מהמצות יאפה אחרת ביום טוב אף על פי שיש לו אחרת שמא נעשו על ידי קטנים ונהי דלענין אפיקומן דסמכינן עלייהו כמו שכתב סימן תע\"ז לענין מצה דאורייתא לא סמכינן, עד כאן, מיהו אם יש עוד מספיקות אין חשש. כתב מטה משה האופה בליל יום טוב אין לעשות ספיקות ומכל שכן שאין ליאפות מראשון לשני:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 458:1"
+        },
+        "2": {
+          "he": "[ב] [לבוש] דוקא במצות וכו'. וטוב לאפות כל המצות אחר חצות אם אין בני ביתו רבים כל כך (מהרי\"ו קצ\"ג), מדרבנן אין יוצאין במצה שנאפית קודם שלושים אפילו עשוי לשם פסח (ב\"ח), וחק יעקב מיקל בשעת הדחק, ולעניות דעתי גם הב\"ח מודה לזה כיון דאורייתא לכולי עלמא יוצאין וכן משמע בסוף סימן תרל\"ו בסוכה ושם יתבאר בארוכה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 458:2"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "לשין בע\"ש אחר שש.  פירוש אחר שש ומחצה דכן זמן שחיטת פסח ולא כמ\"ש קצת גאונים שהביא בטור שאין לאפות אלא בליל מ\"ש וז\"ל הלכך אל תאפו מצה אלא במ\"ש מפני מראית עין שאם אתם אופים מע\"ש אחרים מזלזלים ומקילים בה ואע\"פ שמותר לאפות' מע\"ש חזקו והדרו המצוה ואפו בזמנה עכ\"ל וכ\"ז במצה דמצוה והקשה ב\"י ממ\"ש מ\"מ יעשה ג' מצות כו' נראה דה\"ק שבשעת הדחק דהיינו שיש מורא לאפו' מצות כראוי דהיינו הרב' ביחד דבזה יש שבח למצ' של מצו' כדאיתא בה' י\"ט וזה א\"א מחמת עכו\"ם שירגישו באם יש היסק גדול מ\"מ יעשו היסק קטן בליל י\"ט רק לג' מצות של פסח ובזה מתורץ קושיית ב\"י: והך  מראית עין פי' שאחרים יסברו שאוכלין בשבת ג\"כ מצות ואח\"כ כתבו ואע\"פ שמותר לאפותה נראה פי' ג' מצות דליל פסח לחוד דבזה אין מקום לטעות מ\"מ משום מצוה בזמנה יאפו במ\"ש וב\"י הביא בשם מרדכי בהך מראית עין היינו שיהיה נראה כמכין משבת לי\"ט נראה פירוש' שבשבת אסור להכין ולסדר המצות על השולחן לצורך הלילה כדרך שעושין בחול אלא ימתין עד הלילה ואם יאפה המצות בע\"ש יסברו שהקדים עצמו כדי שיוכל להכין למחר בשבת לצורך י\"ט לסדר השלחן דאל\"כ למה לא המתין גם באפיי' מצות וב\"י פירש בדרך אחר והוא דחוק וסיים הטור בשם ר\"י הכהן ואנו אין לנו אלא מנהג אבותינו לאפות מע\"ש ולא לטרוח בי\"ט ולאחר אכילת מצה אלא זריזים  מקדימין למצות ע\"כ וכפסק הש\"ע ולעד\"נ עוד טעם שלא לאפות בליל י\"ט דיש הרבה דינים באפיית חלה כדלעיל ס ' תנ\"ז ולאו כ\"ע דינא גמירי ויבואו לאפות ג\"כ בי\"ט ולא ידעו דין החלה ויבואו לידי איסור שריפת קדשים בי\"ט ואני ראיתי מכשול זה בעיני ועוד טעם אחר שממהרין באכילה שלא ישנו התינוקות כמ\"ש סי' תמ\"ג ואם יאחר בלישה ואפייה ודאי ישנו התינוקות. וברוקח כתוב לאפות בליל ב' של פסח משום חבוב מצוה דהוי מעלייתא בזה ולא נכון לנהוג כן לע\"ד מטעם שזכרתי ועמ\"ש בסימן תנ\"ה בפי' של דברי הרא\"מ שס\"ל ג\"כ שאין להתעכב מלאכול תיכף בלילה: כתב  הטור ואני ראיתי בברצלונה מהמדקדקים שהיו אופין כל מה שצריכים למועד קודם המועד שאם יתערב עמו משהו מחמץ שיתבטל קודם זמן איסורו עכ\"ל פירוש קודם איסורו במשהו דהיינו מתחילת ליל פסח וכן נהג מהרש\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 458:1"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "אחר ו' שעות. אף על גב שזמן הקרבת הפסח הוא אחר ו' שעות ומחצה מ\"מ עיקר זמנו הוא מחצות כמ\"ש התוס' בפסחים דף ה' וביומא דף כ\"ח ובנדה ס\"ג ע\"ב: כתב הטור המדקדקים נוהגים לאפות הכל קוד' פסח שאם יתערב עמו משהו חמץ יתבטל ע\"כ ופשוט דכשנאפ' קוד' פסח נתערב בליש' ומותר אח\"כ לבשל המצו' בפסח דאל\"כ אף לאוכל' בעין אסורי' ודברי הע\"ש בסי' תנ\"ג בזה תמוהים ומהרי\"ל כתב שיש אופין בתוך המועד כדי לאכול מצות חדשות בכל יום וכתב המ\"מ והאופה בליל י\"ט אסור לאפות מצות ספיקות ה\"ה דאסור לאפות בליל ראשון על ליל שני מיהו אם אפה מבע\"י בליל ראשון יכול לומר אוכל היום פת חמה ויכול לאפות אחרים בליל ראשון ואותה שאפה מבע\"י יצניעם לליל שני עמ\"ש סי' תק\"ז ס\"ו ואם נאבד א' מהמצות יאפה אחרות בי\"ט משום אסמכתא דנהגו לעשות ג' מעשרון א' אף על פי שיש לו אחרות שמא נעשו ע\"י קטנים ונהי דלענין אפיקומן סמכינן עלייהו  (כמ\"ש סי' תע\"ז) לענין מצה דאוריית' לא סמכינן עלייהו (מט\"מ מהרי\"ל) ועסי' תפ\"ב: ואם נילושה עיסה סמוך לחשיכה ולא הספיק לאפותה עד שחשיכה צ\"ע אם מותר לאפותה בי\"ט כדי שלא תחמיץ דהא חלה אסור לאפותה כדי שלא תחמיץ וי\"ל דשרי להערים ולומר אני אוכל פת חמה כמש\"ל אף על פי שלא יקח אותה עיסה למצות כיון דלא לש אותה לשם מצוה מ\"מ יוכל לאכלה תוך סעודתו או למחר ביום ראשון ועסי' תק\"ו ס\"ג ומ\"ש שם:",
+          "en": "",
+          "ref": "Magen Avraham 458:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "שש שעות.  ומחצה. כ\"ד הב\"ח וט\"ז וח\"י דלא כמ\"א. כתב הב\"ח דאין יוצאין במצה שנאפה קודם שלשים יום אפילו עשויה לשם פסח ורוב הפוסקים חולקים עליו ע' ח\"י. והמדקדקים נהגו לאפות הכל ק\"פ שאם יתערב עמו משהו חמץ יתבטל וכן נהג מהרש\"ל. וכתב המ\"א ופשוט דכשנאפה ק\"פ ונתערב בלישה מותר אח\"כ לבשל המצות בפסח דאל\"כ אף לאוכלו בעין אסורים דלא כע\"ש בסימן תנ\"ג. ומהרי\"ל כתב שיש אופין בתוך המועד כדי לאכול מצות חדשים בכל יום וט\"ז כתב דלא נכון לעשות כן ע\"ש טעמו וכ\"כ האחרונים וכתב המטה משה והאופה בליל יום טוב אסור לאפות מצות ספיקות וה\"ה דאסור לאפות בליל ראשון על ליל שני מיהו אם אפה מבעוד יום בליל ראשון יכול לומר אוכל היום פת חמה ויכול לאפות אחרים בליל ראשון ואותו שאפה מבעוד יום יצניעם לליל שני עמ\"ש סי' תקל\"ז ס\"ז ואם נילושה עיסה סמוך לחשיכה ולא הספיק לאפותה עד שחשיכה מותר לאפותה ביום טוב כדי שלא תחמיץ. עמ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 458:1"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) נוהגים וכו' - משמע דאינו אלא מנהג והמנהג נסמך משום דאיתקש אכילת מצה לקרבן פסח דכתיב וזבחת פסח לה' אלהיך וגו' שבעת ימים תאכל עליו מצות וגו' ואמרינן כמו ששחיטת הפסח היה אחר שש כן עשיית מצות של מצוה אחר שש שעות אבל מעצם הדין הוכיחו הפוסקים דאין לחוש לזה דעיקר היקש נאמר לענין אכילת מצה בלילה הראשונה שיהא זהיר לאכול קודם חצות כמו הפסח שהוא נאכל עד חצות וכמבואר לקמן בסימן תע\"ז אבל לא לענין עשיית המצה וע\"כ בדיעבד אם אפה המצה קודם שש ואפילו חודש או שני חדשים קודם פסח ועשאן לשם מצה כשר:",
+          "en": "(1)- We are accustomed- the implication is that it is only a custom. And the custom relies that since there is a scriptural proximity of eating Matza to the Korban Pesach. As it says \"And he shall sacrifice the Pesach to Hashem, your G-d\" (Deuteronomy 16:2) etc. and (immediately after it says) \"Seven Days you shall eat on it Matzos\" (Deuteronomy 16:3) etc. Thus we say like with the slaughter of the Pesach it should be after the 6th hour (on the eve of Pesach), so the making of Matzos of the mitzvah should be after the 6th hour. But in a strictly legal sense the Poskim establish that there is not to worry about this because the main scripitural proximity (i.e. a hekeish where closely placed laws in the Torah are derived to have similar related rules) is said regarding eating Matzvah, on the 1st night that one should be careful to eat before Chatzos (halachic midnight) like with the Korban Pesach like is elucidated later in Siman 477, but not regarding the making of Matzvah. Therefore, after the fact if one bakes matzvah before the 6th hour even a month or two before Pesach, and does it for the sake of the Mitzvah of Matza, it is fitting (to fulfill the mitzvah on the 1st nights by the Seder).",
+          "ref": "Mishnah Berurah 458:1"
+        },
+        "2": {
+          "he": "(ב) מצת מצוה - היינו הצריך לו לצאת ידי חובתו בשני לילות הראשונים אבל שאר המצות אין נוהגין ליזהר בזה:",
+          "en": "(2) Mitzvah Matzah - that it is necessary to him to fulfill his obligation on the two first nights but other matzos we are not accustomed to be careful in this (stringency of preparing on the Eve of Pesach).",
+          "ref": "Mishnah Berurah 458:2"
+        },
+        "3": {
+          "he": "(ג) עד אחר וכו' - ועיין לקמן בסימן ת\"ס ס\"ג מה שצריך ליזהר הלש בזמן איסור חמץ. והנה רוב ישראל אין נוהגין ליזהר אפילו במצת מצוה ללוש בע\"פ כ\"א איזה מהם וחפשתי באחרונים ומצאתי בבגדי ישע טעם להליץ בעד המנהג מפני שיש כמה דעות שאפילו בע\"פ במשהו כאשר מבואר לעיל בסי' תנ\"ב וזה קשה ליזהר שלא ימצאו אף משהו חמץ בהחטים שלא יהיו מצומחים וע\"כ אופין מקודם כדי שיתבטל החמץ. ובמאמר מרדכי מצאתי שכתב וז\"ל האידנא מקילין הרבה בדבר מפני הדוחק זולת קצת שנזהרין בזה ללוש ולאפות אחר שש המצות שיוצאין בהם בשני הלילות וכן ראוי לעשות:",
+          "en": "(3) Until after etc. - Look later in Siman 460 Paragraph 3 that it is necessary to be careful when kneading during the time of the prohibition of Chametz. Behold most Jews are not accustomed to be careful even in Mitzvah Matza to knead on the eve of Pesach except for a few of them. I searched in the Later Authorities and found in the Bigdei Yishah (commentary on Shulchan Aruch) a reason to protest the custom because there are many opinions that even on the eve of Pesach a little bit (i.e. the prohibition of Chametz which begins on the eve is regarding even a very minimal amount of Chametz causes a large amount to become Chametz) like was eludicdated earlier in Siman 452. And this is hard to be careful that he does not find even a little Chametz in the wheat that they start not to sprout. Therefore we bake before in order to nullify (the potential) Chametz. And in the Maamar Mordechai I found that he writes, and this his language, \"Nowadays many are lenient in this matter because it is tough besides for a few that are careful in this to knead and bake after the 6th hour the Matzos that one fulfills in them on the two nights. And so is fitting to do.\"",
+          "ref": "Mishnah Berurah 458:3"
+        },
+        "4": {
+          "he": "(ד) שש שעות - הנה הח\"י מצדד כהב\"ח דאחר שש ומחצה דוקא אמנם במ\"א ובא\"ר מצדד כהשו\"ע דאחר שש וכן פסק בבית מאיר וכ\"מ בביאור הגר\"א. ודע דמצד הדין מותר לאפות מצה בפסח אך המדקדקים נוהגים לאפות הכל קודם פסח שאם יתערב משהו חמץ בתוכם יתבטל משא\"כ בפסח איסורו במשהו. ופשוט דכשנאפה קודם פסח אפילו היה בו משהו חמץ בהקמח כבר נתערב ונתבטל ומותר אח\"כ לבשל המצות בפסח דאין חימוץ אחר אפיה ויש אנשי מעשה שמחמירין על עצמן ואין שורין ואין מבשלין מצות בפסח מחשש שמא נשאר מעט קמח בתוך המצות מבפנים שלא נילוש יפה וע\"י השריה יתחמץ. ועיין בשע\"ת סימן ת\"ס דמצד הדין אין לחוש לזה דאחזוקי איסורא לא מחזקינן ובפרט בימינו שנוהגין לעשות רקיקין דקים. ומ\"מ מי שנוהג בחומרא זו אין מזניחין אותו וע\"ש שהאריך בזה. כתבו הפוסקים האופה בליל יו\"ט מצת מצוה לא יאפה אלא מה שצריך לאותו לילה ולא על ליל שני מיהו אם אפה מבע\"י בליל א' יכול לומר אוכל היום פת חמה ויכול לאפות אחרים בליל ראשון ואותה שאפה מבע\"י יצניעם לליל שני וכתבו האחרונים דלכתחלה אין כדאי לאפות ביו\"ט שלא יבוא לידי קלקול בהפרשת חלה ביו\"ט וכן במדידת קמח וברחיצת כלים ושלא יישנו התינוקות ושלא יבוא עי\"ז לאכול אפיקומן אחר חצות:",
+          "en": "(4) 6th hour - behold the Chok Yaakov sides with the Bach that after six and half hours specifically; however, in the Magen Avrohom and in the Elya Rabbah, they side like the Shulchan Aruch that after six hours. So is the p'sak in the Bais Meir, and similarly is implied in the Biur HaGra. And one should know that from a legal perspective (i.e. as opposed to stringency considerations) it is permitted to bake Matza on Pesach; rather, those particular (in mitzva observance) are accustomed to bake everything prior to Pesach, that if a small bit of Chametz gets mixed, it can be nullified as opposed to on Pesach that the prohibition includes a small bit. And obviously when baking before Pesach even if there was in it a small bit of Chametz in the flour, it was already mixed and nullified, and permitted afterwards to bake the Matzos on Pesach; since, there is not becoming Chametz after baking. And there are those men of action that are strict on themselves, and they do not soak nor cook Matzos on Pesach from a concern that  perhaps a little flour remains in the Matzos within that did not knead well, and by soaking it will become Chometz. See the Sharei Teshuva Siman 460 that from a legal perspective, there is not to worry for this; since, an establishment of a prohibition we do not establish (i.e. we do not assume a prohibition without cause) and especially nowadays that the custom is to make them very thin (i.e. the Matzos). Nonetheless, one who is accustomed to this stringency, do not abandon it, see there that he details in the matter. Write the Poskim one who bakes on the night of Yom Tov Mitvah Matzos should not bake except for what is necessary that night, not for the 2nd night. However, if he baked (some matzos) while still day, on the 1st night, he can say I'll eat today (i.e. the 1st night) hot bread (i.e. freshly baked Matzos). Then he will be able to bake other Matzos on the 1st night (to eat on the 1st night itself), and those that he baked while still day he will store away for the 2nd night. Write the Later Authorities that initially it is not worthwhile to bake on Yom Tov in order not to come to complications in separating Challah on Yom Tov. Similarly (there are issues) in pounding the flour, washing the utensils, that the children shouldn't fall asleep, and that one not come to eat the Afikomen after Chatzos.",
+          "ref": "Mishnah Berurah 458:4"
+        },
+        "5": {
+          "he": "(ה) לשין בע\"ש - ר\"ל דלא כהמחמירין לאפות בליל יו\"ט וכנ\"ל בסוף סק\"ד:",
+          "en": "(5) Knead Erev Shabbos - that is to say that not like the Stict to bake on the Night of Yom Tov as was explained at the end of Subparagraph 4.",
+          "ref": "Mishnah Berurah 458:5"
+        },
+        "6": {
+          "he": "(ו) אחר שש שעות - זכר לשאר שנים:",
+          "en": "(6) After the 6th hour - as a remembrance to other years.",
+          "ref": "Mishnah Berurah 458:6"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

@@ -1,0 +1,64 @@
+{
+  "chelek": "YD",
+  "siman": 337,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-08T00:01:36.804Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "חולה שמת לו מת. ובו סעיף אחד:חולה שמת לו מת אין מודיעין אותו שמא תטרף דעתו עליו ואין קורעין חלוקו ואין בוכין ואין מספידין בפניו שלא ישבר לבו ומשתיקין את המנחמין מפניו:",
+      "en": "One who is sick and suffered a bereavement, must not be informed thereof lest his mind become unclear; nor is his garment rent; nor is it permitted to cry or make lamentation [for the dead]1Whether for his dead or another’s dead. in his presence, so that his heart be not broken; and they silence the comforters in his presence.2M.K. 26b; Alfasi; Yad, Ebel VIII, 4 and Kes. Mish. a.l.; Tur; T.H., derived from Sem. de R. Ḥiyya(H) I, 3. Not found in cur. edd. of Sem.  W.G. a.l. Not only must he not be informed, but even if it became known to him, he is not instructed to rend garments, so as not to aggravate his condition — ShaK. This applies even to a case where one lost a parent and would have to recite Kaddish — Beth Hillel.",
+      "ref": "Shulchan Arukh, Yoreh Deah 337:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "במסכת שמחות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 337:1"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "ואין קורעין כו'. פי' ל\"מ שאין מודיעין אותו שמא תטרף דעתו אלא אפי' נודע לו איך מצוים לו לקרוע שמא תגדל דאגתו וכ\"כ הב\"ח בשם הר\"ן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 337:1"
+        },
+        "2": {
+          "he": "ואין בוכין כו'. כתב הב\"ח נראה דה\"פ ולא עוד אלא שאין בוכין ואין מספידין בפניו אף על מת שאינו קרובו של חולה שלא ישבר את לבו פי' דכיון שרואה החולה הזה שזה הפלוני מת ובוכין ומספידין עליו בפניו נשבר לבו מפחדו שמא ימות גם הוא ומטעם זה משתיקין המנחמים בפניו שע\"י המנחמים נזכר למיתת אותו פלוני ומתפחד שמא ימות גם הוא גם קרוב לפרש שאין בוכין ומספידין נמי מיירי שמת לו מת ונודע לו שמת קאמר וכן משתיקין המנחמים על מת שלו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 337:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "מודיעין.  ואפי' נודע לו אין מצווים לו לקרוע שמא תגדל דאגתו כ\"כ הב\"ח בשם הר\"ן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 337:1"
+        },
+        "2": {
+          "he": "מספידין.  אפי' על מת שאינו קרובו של חולה דכיון שרואה החולה שזה הפלוני מת ובוכין ומספידין עליו בפניו נשבר לבו מפחדו שמא ימות גם הוא עכ\"ל הש\"ך בשם הב\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 337:2"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

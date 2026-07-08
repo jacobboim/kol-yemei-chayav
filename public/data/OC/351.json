@@ -1,0 +1,244 @@
+{
+  "chelek": "OC",
+  "siman": 351,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-07T23:49:24.986Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין המושיט ידו לצנור ברשות הרבים לשתות. ובו סעיף אחד:לא יעמוד אדם ברשות הרבי' ויחבר ידו למזחילה שהוא צנור ארוך מונח לאורך הגג בתוך ג' טפחים סמוך לגג ולקבל המים ממנה שכיון שהוא בתוך ג' סמוך לגג חשוב כגג ואסור בין אם הוא למעלה מעשרה או למטה מעשרה אבל מותר לקלוט מן האויר אפי' אם ידו תוך ג' למזחילה היתה מזחילה בולטת ג' מן הגג וכן סתם צנור שבולט ג' יכול לחבר ידו אליהם ולקבל המים וכגון שאין בהם ד' על ד' והן למטה מעשרה אבל אם יש בהן ד' על ד' או אפי' אין בהן ד' על ד' והן למעל' מעשרה אסור:",
+      "en": "The Law of One Who Reaches Into a Pipe in the Public Domain to Drink: A person should not stand in the public domain and put his hands up to the gutter, which is a long pipe that is attached parallel to the roof and is three tefachim from the roof, to take water from it. Because it is three tefachim from the roof, it is considered like the roof and this is forbidden whether it is above ten tefachim from the ground or below. However, one is permitted to collect water from the air, even if his hand is within three tefachim of the gutter. If the gutter is three away from the roof, and same is true for a generic pipe that is three away, one may put his hands on them to collect water. This is if they are not four by four tefachim and they are below ten tefachim from the ground, but if they are four by four, or even if they are not four by four but are above ten, this is forbidden.",
+      "ref": "Shulchan Arukh, Orach Chayim 351:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה בעירובין צ\"ט ובגמרא שם וכשיטת רש\"י טור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 351:1"
+        },
+        "2": {
+          "he": "שם פשוט בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 351:2"
+        },
+        "3": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 351:3"
+        },
+        "4": {
+          "he": "שם בפרש\"י כפי שיטתו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 351:4"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "חשוב עמ״א בשע״ד ה׳ דאם אין בולט ד״ט הוי רה״י אע״ג שאין מחיצות ניכרות הא בולט ד׳ ואין מחיצות ניכרות הוי הגג כרמלית וכבסי׳ שמ״ה סי״ו ומכרמלית לרה״ר נמי אסור ואי״ה באות ה׳ יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 351:1"
+        },
+        "2": {
+          "he": "מן עמ״א עב״י ורש״י עירובין צ״ט ב׳ דלמעלה קולט ממקום פטור דאין אויר רה״ר למעלה מעשרה ולמטה קולט מאויר רה״ר וידו ג״כ ברה״ר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 351:2"
+        },
+        "3": {
+          "he": "שבולט עמ״א בלבוש ורש״י עירובין שם משמע כל שבולט שלשה לא הוי לבוד הא פחות מג׳ בולט אמרינן ג״כ לבוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 351:3"
+        },
+        "4": {
+          "he": "יש עט״א אבל למשה ואין דע״ר הוי גזירה לגזירה ערש״י שש וב״י:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 351:4"
+        },
+        "5": {
+          "he": "למעלה עמ״א עתו״ש חורי רה״י אף באין דע״ד הוא כרה״י יע״ש ואפשר באין דע״ד מדרבנן אסור בעקירה מרה״י וכה״ג ל״ג ועסי׳ שנ״ג מ״א אות ד׳. ואם המזחילה למעלה מעשרה ומופלגת ג׳ ט׳ לגג לא הוי כחורי רה״י (ושאני בולט ג״ט ואין מופלגת) ואם הגג בולט ד״ט ממחיצות הוי הגג כרמלית כבסי׳ שע״ד ה׳ ואי״ה שם יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 351:5"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "בתוך עט״ז כפי דעתו שלל בזה פירוש הלבוש דמשמע דמפרש תוך שלש היינו פיו של מזחילה אין בולט לרה״ר יותר משלש אלא כפי׳ הפרישה מונח למטה מגג סמוך לגג באורך הגג בתוך שלש טפחים הוי לבוד והוי כרה״י כמו הגג וכשמצרף ידו ומחבר תחת המזחילה בדיבוק ממש הוי כמוציא מרה״י לרה״ר ומשמע דחיוב יש מ״ה כה״ג דאלת״ה הוי תו גזירה לגזירה למעלה מיוד ואין רחב ד׳ ויוצא שלש לרה״ר עמ״א ה׳ וכשידיו או פיו או כלי סמוך לשלש למזחילה שרי דהיינו קולט כל שאין מצרף ידו ממש בדיבוק בלבוש דאין בידו לבוד אבל הט״ז ז״ל פירש דא״נ שייך לבוד כה״ג מ״מ לית כאן עקירה מע״ג מקום ד׳ ע״ד שהוא באויר אבל הר״ר יהונתן ז״ל כתב דבידו כה״ג נמי שייך לבוד ואסור עב״ח הביאו ובאמת צ״ע במצרף ידו למה הוי חיוב תורה דאין עוקר המים רק זוחל לידו ובב״י בשם הר״מ ז״ל דלא נחו לית חיוב תורה ואף בנחו קשה כאמור ועיין ברש״י צ״ט ב׳ נראה כמ״ש הלבוש וברא״ש שם תניא אידך ואין להאריך ועמ״ש אי״ה באות ב׳ מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 351:1"
+        },
+        "2": {
+          "he": "שאין עט״ז דביש במזחילה ד׳ ע״ד ממ״נ אסור במצרף למעלה מיו״ד מרה״י לרה״ד ולמטה הוי כרמלית עמ״א אות ד׳ ולמעלה מיו״ד ואין ד׳ ע״ד גזור אטו ד׳ ע״ד מ״א ה׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 351:2"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] [לבוש] כאילו שואב וכו'. ולרמב\"ם שיטה אחרת בסימן זה והסכים עמו בספר תורת חיים דף נ\"ט ונחלת צבי סותר דבריו והסכים לשיטת שולחן ערוך ולבוש עיין שם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 351:1"
+        },
+        "2": {
+          "he": "[ב] [לבוש] אפילו לצרף וכו'. אבל הרר\"י אוסר בזה (ט\"ז) וצריך עיון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 351:2"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "בתוך ג' טפחים.  פירוש המזחילה מונחת סמוך לגג תוך ג' טפחים אמרינן לבוד ושם גג על זה והוי כמוציא מגג לרשות הרבים אבל מותר לקלוט מן האויר אפילו ידו תוך שלש למזחילה ולא שייך בזה לבוד דהא על כל פנים אינו מוציא מרה\"י ממש ואין בחיוב הוצאה אלא מוציא ממש מרה\"י אבל הרר\"י כתב דגם בזה אסור בסמוך לשלשה למזחילה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 351:1"
+        },
+        "2": {
+          "he": "שאין בהם ארבע על ארבע.  דאל\"כ אסור דהוי כמוציא מרשות לרשות ואפילו למטה מעשרה הוי על כל פנים כרמלית:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 351:2"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "חשוב כגג. דהוי רה\"י עססי' שע\"ד:",
+          "en": "",
+          "ref": "Magen Avraham 351:1"
+        },
+        "2": {
+          "he": "מן האויר. דמקום פטור הוא ואם הוא למט' מי' הוי ר\"ה:",
+          "en": "",
+          "ref": "Magen Avraham 351:2"
+        },
+        "3": {
+          "he": "שבולט ג'. לא חשיב כגג:",
+          "en": "",
+          "ref": "Magen Avraham 351:3"
+        },
+        "4": {
+          "he": "יש בהן ד'. הוי כרמלית:",
+          "en": "",
+          "ref": "Magen Avraham 351:4"
+        },
+        "5": {
+          "he": "למעלה מי'. גזרי' שמא יהא רחב ד' והוי רה\"י ואסור עמ\"ש סי' שמ\"ה ס\"א דאם גדיים בוקעים תחתיו לא הוי רה\"י הכא שאני דכיון שהגג רה\"י הוי הצנור (חור רה\"י) דומיא דזיז ע\"ש סי\"ו:",
+          "en": "",
+          "ref": "Magen Avraham 351:5"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ג\"ט.  פי' המזחילה מונחת סמוך לגג ג' טפחים ואמרינן לבוד ושם גג על זה והוי כמוציא מגג לר\"ה אבל מותר לקלוט מן האויר אפילו ידו תוך ג' למזחילה ולא שייך בזה לבוד דהא עכ\"פ אינו מוציא מרה\"י ממש ואין בחיוב הוצאה אלא במוציא ממש מרה\"י ועיין ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 351:1"
+        },
+        "2": {
+          "he": "מן הגג.  לא חשיב כגג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 351:2"
+        },
+        "3": {
+          "he": "ד' על ד'.  דהוי כרמלית:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 351:3"
+        },
+        "4": {
+          "he": "מעשרה.  דגזרינן שמא יהא רחב ד' והוי רה\"י ואסור ועיין מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 351:4"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) ויחבר ידו - וה\"ה פיו או כלי:",
+          "en": "",
+          "ref": "Mishnah Berurah 351:1"
+        },
+        "2": {
+          "he": "(ב) למזחילה - וכ\"ש לקלוט מים מע\"ג הכותל דאסור:",
+          "en": "",
+          "ref": "Mishnah Berurah 351:2"
+        },
+        "3": {
+          "he": "(ג) בתוך ג' טפחים - פי' המזחילה מונחת סמוך לגג תוך ג' טפחים ואמרינן לבוד ושם גג ע\"ז והוי כמוציא מן הגג לר\"ה ואפילו אין המזחילה רחבה ד' טפחים:",
+          "en": "",
+          "ref": "Mishnah Berurah 351:3"
+        },
+        "4": {
+          "he": "(ד) מן האויר - את המים היורדין מן המזחילה או מן הגג דאויר שלמעלה מיו\"ד מקום פטור הוא ואם הוא למטה מעשרה הוי ר\"ה וידו הלא ג\"כ בר\"ה היא:",
+          "en": "",
+          "ref": "Mishnah Berurah 351:4"
+        },
+        "5": {
+          "he": "(ה) תוך ג' למזחילה - דלא אמרינן בזה לבוד וגם דלא הוי עקירה ממקום ד' על ד':",
+          "en": "",
+          "ref": "Mishnah Berurah 351:5"
+        },
+        "6": {
+          "he": "(ו) היתה מזחילה וכו' - מזחילה נקרא הצינור המונח לאורך הגג וצינור נקרא כשהוא עומד בצד אחד מן הגג וסתמו בולט להלן הרבה כדי שלא יפלו המים על הכותל:",
+          "en": "",
+          "ref": "Mishnah Berurah 351:6"
+        },
+        "7": {
+          "he": "(ז) יכול לחבר ידו - דכיון שבולט ג' תו לא חשיב כגג:",
+          "en": "",
+          "ref": "Mishnah Berurah 351:7"
+        },
+        "8": {
+          "he": "(ח) שאין בהם וכו' - דחשיב מקום פטור:",
+          "en": "",
+          "ref": "Mishnah Berurah 351:8"
+        },
+        "9": {
+          "he": "(ט) יש בהן וכו' - דהוי ככרמלית:",
+          "en": "",
+          "ref": "Mishnah Berurah 351:9"
+        },
+        "10": {
+          "he": "(י) אפילו אין בהם וכו' והן למעלה וכו' - דגזרינן שמא יהיה בהן רחב ד' על ד' והוי רה\"י ואסור:",
+          "en": "",
+          "ref": "Mishnah Berurah 351:10"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

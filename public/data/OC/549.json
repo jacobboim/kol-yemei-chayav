@@ -1,0 +1,190 @@
+{
+  "chelek": "OC",
+  "siman": 549,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-07T23:49:32.711Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "להתענות ד' תעניתים. ובו ב סעיפים:חייבים להתענו' בתשעה באב ובשבעה עשר בתמוז ובג' בתשרי ובעשרה בטבת מפני דברים הרעים שאירעו בהם:",
+      "en": "We are required to fast on the 9th of Av, [and] on the 17th of Tammuz, and on the 3rd of Tishrei, and on the 10th of Teves because of the bad occurrences that occurred on those [days].",
+      "ref": "Shulchan Arukh, Orach Chayim 549:1"
+    },
+    {
+      "seif": 2,
+      "he": "אף על גב דכתיב בקרא בחדש הרביעי בתשעה לחודש הובקעה העיר אין מתענין בט' בו אלא בי\"ז בו מפני שאף על פי שבראשונה הובקעה בט' בו כיון שבשניה הובקעה בי\"ז בו תקנו להתענות בי\"ז בו משום דחורבן בית שני חמיר לן:",
+      "en": "Even though it is written in the verse (Jeremiah 39:2) \"[During the eleventh year [of the reign] of Tzidkiyahu] in the fourth month [i.e., Tammuz], on the ninth day of the month, the city was crossed\", we do not fast on the 9th day of that [month], rather on the 17th of that [month] -- since, despite the fact that originally (i.e.; the First Temple) [the city of Jerusalem] was breached on the 9th of that [month] -- since the second time (i.e.; the Second Temple) [the city] was breached on the 17th of that [month], [the sages] decreed a fast on the 17th of that [month] because the destruction of the Second Temple was stronger than it (i.e; the destruction of the First Temple).",
+      "ref": "Shulchan Arukh, Orach Chayim 549:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "בברייתא ראש השנה י\"ח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 549:1"
+        },
+        "2": {
+          "he": "תוס' שם והרמב\"ן בספר תורת האדם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 549:2"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "מפני עמ״א הרמב״ם ז״ל פרק חמישי מהל׳ תענית הלכה א׳ וע׳ לחם כשנה שש קצת קושיות וישובים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 549:1"
+        },
+        "2": {
+          "he": "אין עמ״א ועב״י ובתוס׳ ר״ה ח״י ב׳ ד״ה זה תשעה בתמוז:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 549:2"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "5": {
+          "he": "בטור עט״ז עב״ח בזה גמרא ר״ה ח״י ב׳ ובגמרא ליה למ״ה נכתבה כאן רק הטור מפרש כך ומאי קושיא הא לר״ע כסדר החדשים כתוב אע״פ שעשירי היה קודם לכל הצרות וה״ה שביעי כסדר החדשים והי׳ כו׳ זכריה ח׳ יע״ש. וברית מילה כו׳ ועא״ר בשם שו״ת ראש יוסף דבצ״ג בעל ברית א״צ עד הלילה יע״ש ועסי׳ תקנ״ט ס״ט ומ״א י״א ואי״ה שם יבואר עוד ועסי׳ תקס״ח. ובא״ר שם. מי״ז בתמוז עד ט״ב יתאבל אמר חצי היום כחצי שעה וכן נהגו בקהלות קדושות בכ״מ ויראה אחר מצי היום נטיית השמש לא זמניות עסי׳ א׳. ובר״ח אב אין לומר קינות וחצות ומ״מ י״ל קצת לזכרון כימים שא״א תחנון עסי׳ תקס״ח במ״א ד׳ מי ששכח ואכל בד׳ צומות יע״ש עסי׳ תק״ן מדינים אלו ותקנ״ט בט״ז חופה ביום ה׳ ט״ב לענין אכילת בשר בלילה יע״ש ואי״ה שם יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 549:5"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] [לבוש] ויש אומרים אור וכו'. וכן נוהגין בפראג:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 549:1"
+        },
+        "2": {
+          "he": "[ב] [לבוש] דברי ירמיה וכו'. ומסיים נאם ה' והוא הפטרת שמות כמנהג ספרדים ואם לא הפטיר דברי ירמיה נתבאר בסימן תק\"ח סעיף ח', והא דלא תיקנו הפטרה לשבת שחל בי\"ז בתמוז יש לומר דעדיין לא התחיל אבילות דבין המצרים שהרי נדחה, ועוד שלוש הפטרות נגד שלוש שבועות:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 549:2"
+        },
+        "3": {
+          "he": "[ג] [לבוש] להפטיר שמעו וכו'. וכן נוהגין פה פראג:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 549:3"
+        },
+        "4": {
+          "he": "[ד] [לבוש] ורצו להתענות ארבע צומות וכו'. פירוש בזמן שבית המקדש קיים עבוד ששון ובזמן שאין בית המקדש רצו מתענין וכו' כל שאין שעת צרה וגזירה, וכיון שרצו חיובא הוא כמו שכתב בריש סימן שאחרי זה. כתב אבודרהם ואין מתריעין בהן שכבר עברו ואין צועקים לשעבר אלא שמזכירין המאורע מפני עגמת נפש, עד כאן, וברמב\"ם פרק ח' כדי לעורר הלבבות לפתוח תשובה שבזכרון דברים אלו נשוב להיטב שנאמר והתודו את עונם ואת עוון אבותם וגו'. כתב בכוונת האר\"י מי\"ז בתמוז עד תשעה באב יתאבל אחר חצי היום כמו חצי שעה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 549:4"
+        },
+        "5": {
+          "he": "[ה] [לבוש] שלא להקריב וכו'. בבית ראשון (ר' דוד אבודרהם). מי ששכח ואכל בתעניתים הללו אין צריך להתענות יום אחר אם לא שכוונתו להתענות לכפרה על עוונות (תרומת הדשן), והוא הדין בתענית ציבור (מגן אברהם ריש סימן תקס\"ח), ודרכי משה כתב פעם אחת שכח אחד ואכל בעשרה בטבת וצוה מהרי\"ל שיתענה בה\"ב, עד כאן, ופשוט דעשרה בטבת עצמו צריך להשלים אחר שהזכיר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 549:5"
+        },
+        "6": {
+          "he": "[ו] [לבוש] שבו נהרג גדליה וכו'. בראש השנה נהרג אלא שנדחה לחול (בית יוסף), ומכל מקום אין לבעל הברית לאכול כיון שפעם אחת דחהו ולא דמי לסימן תקנ\"ט בתשעה באב שנדחה (ט\"ז), אבל בתשובת ראש יוסף מסיק להתיר כיון שאינו ביום שאירע בו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 549:6"
+        },
+        "7": {
+          "he": "[ז] [לבוש] נוהגין להתענות וכו'. התינוקות יאכלו לחם ומים אפילו קטני קטנים להתאבל גם הם עם הציבור (תשובת מנחם עזריה סימן קי\"א), ועין סימן תקע\"ו ס\"ק ז', אין להם להתענות אלא לתינוקות בת שתים עשרה שנה ויום אחד ותינוק בן שלוש עשרה שנה ויום אחד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 549:7"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "בטור מביא ל' הגמ' צום השביעי זה ג' בתשרי שבו נהרג גדליה ולמה נכתב כאן ללמדך ששקולה מיתת הצדיקים כשריפת בית אלהינו זה צריך ביאור דמה קשה לו  על מ\"ש כאן דהא סיים בכאן שחשיב כסדר החדשים אע\"פ שלענין הזמן הזה צום העשירי קודם למה דחשיב הפורעניות תחלה א\"כ בצום השביעי נמי נימ' הכי ונראה דצום העשירי הוא עכ\"ם זכר לחורבן הבית שבאותו יום התחיל כת האויב ע\"כ חשיב כל מה דמרמז לחורבן ע\"פ סדר חדשים משא\"כ בצ\"ג שהוא ענין מיתת צדיקים ואין בו רמז חורבן ק'  למה חשבו בין המרמזי' על החורבן ותי' ללמדך כו' הב\"י הביא דברי רי\"ו וז\"ל ג' בתשרי שבו נהרג גדליה אמרו  בר\"ה נהרג ונדחה תעניתו ליום חול עכ\"ל ולפ\"ז היה נראה דאם יש מילה בצ\"ג דאין בעל הברית מתענ' עד הליל' כמ\"ש בסי' תקנ\"ט בעל ברית אינו משלים בט\"ב שחל בשבת ונדחה ליום א' לפי שי\"ט שלו הוא ה\"נ נימ' כן בצ\"ג וי\"ל דשאני התם דנרא' לכל הדחיי' בזמנינו דאנו רואים שעיקר התענית של ט\"ב חל בשבת אלא שנדח' ע\"כ נשתנ' דינו משא\"כ בצ\"ג דפעם הראשון דחוהו וגזרו להתענות ביום ג' לעולם חל הגזירה לעולם בשוה ואין נראה לנו הדחייה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 549:1"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "מפני דברים הרעים. כדי לעורר הלבבות לתשובה [רמב\"ם]:",
+          "en": "",
+          "ref": "Magen Avraham 549:1"
+        },
+        "2": {
+          "he": "אין מתענין בט'. ולא רצו לגזור תענית גם בט' בו דאין מטריחין על הצבור יותר מדאי [רמב\"ן] וא\"כ בעל נפש יתענה גם בט' מיהו בירוש' איתא שבראשונה היה ג\"כ בי\"ז אלא שמפני הצרות טעו בחשבון:",
+          "en": "",
+          "ref": "Magen Avraham 549:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ובג'.  ואיתא בב\"י בשם רי\"ו דבראש השנה נהרג גדליה ונדחה תעניתו על יום חול ולפ\"ז היה נראה דאם יש מילה בצום גדליה דאין בעל ברית מתענה עד הלילה כמו בט\"ב שחל בשבת ונדחה ליום א' אבל יש לחלק דהתם נראה לכל הדחייה בזמנינו דאנו רואים שעיקר התענית של ט\"ב שחל בשבת אלא שנדחה ע\"כ נשתנה דינו מה שאין כן בצום גדליה דפעם הראשון דחוהו וגזרו להתענות ביום ג' לעולם חל הגזירה לעולם בשוה ואין נראה לנו הדחייה ט\"ז. וכ\"מ ממאי דאמרינן בפ\"ק דמגילה רבי נטע וכו' וביקש לעקור ט\"ב וכו' הואיל ואידחי אידחי וכו' ואם איתא דצום גדליה חשיב נדחה אם כן רבי מעיקרא איך לא עקר צ\"ג אע\"כ לומר דהתם מעיקרא כך קבלו עלייהו לעשותו לעולם כיום שנהרג בו ממש ולא חשיב נדחה עיין יד אהרן. מי שטעה ואכל בהם יתענה בה\"ב. מהרי\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 549:1"
+        },
+        "2": {
+          "he": "מפני.  כדי לעורר הלבבות לתשובה. רמב\"ם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 549:2"
+        },
+        "3": {
+          "he": "בט'.  ולא רצו לגזור גם בט' בו דאין מטריחין על הציבור יותר מדאי רמב\"ן. וכתב המ\"א וא\"כ בעל נפש יתענה גם בט'. מיהו בירושלמי איתא שבראשונה היה גם כן בי\"ז אלא מפני הצרות טעו בחשבון:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 549:3"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) חייבים להתענות וכו' - והוא מדברי הנביאים כדכתיב בקרא (זכריה ח) צום הרביעי וצום החמישי וצום השביעי וצום העשירי וגו' ואחז\"ל צום הרביעי זה י\"ז בתמוז שהוא בחדש רביעי למנין החדשים וצום החמישי זה ט' באב שהוא בחודש החמישי וצום השביעי זה צום גדלי' שהוא בחודש השביעי וצום העשירי זה עשרה בטבת שהוא בחודש העשירי. וכל אלו הימים כל ישראל מתענים בהם מפני הצרות שאירעו בהם כדי לעורר הלבבות לפקח על דרכי התשובה ויהיה זה זכרון למעשינו הרעים ומעשה אבותינו שהיה כמעשינו עתה עד שגרם להם ולנו אותן הצרות שבזכרון הדברים אלו נשוב להטיב כמו שנאמר והתודו את עונם ואת עון אבותם וגו' ולכן חייב כל איש לשום אל לבו באותן הימים ולפשפש במעשיו ולשוב בהן כי אין העיקר התענית כמש\"כ באנשי נינוה וירא ד' את מעשיהם ואמרו חז\"ל את שקם ואת תעניתם לא נאמר אלא את מעשיהם ואין התענית אלא הכנה לתשובה לכן אותם האנשים שכשהם מתענים הולכים בטיול ובדברים בטלים תפשו הטפל והניחו העיקר ומ\"מ אין לפטור את עצמו בתשובה בלבד כי ימים אלו הם מ\"ע מדברי הנביאים להתענות בהם וכמו שכתבנו למעלה:",
+          "en": "We are obliged to fast, etc.  This obligation derives from the words of the prophets, as it is written in Scripture (Zech. 8:19), \"The fast of the fourth, the fast of the fifth, the fast of the seventh, and the fast of the tenth...\" Our Sages, may their memories be for a blessing, explained that \"the fast of the fourth\" is the 17th of Tammuz, since it is in the fourth month according to the way we count the months; that \"the fast of the fifth\" is the Tish'ah B'Av [the 9th of Av], since it is in the fifth month; that \"the fast of the seventh\" is the Fast of Gedalia, since it is in the seventh month [Tishrei]; and that \"the fast of the tenth\" is the 10th of Tevet, since it is in the tenth month.  On all of these days, all Israel fasts because of the misfortunes that befell them on these days, in order to arouse their hearts to open up to the paths of repentance [teshuvah].  This [fasting] will be a recollection of our evil deeds and the deeds of our ancestors which were like our deeds now, such that they caused them--and us--these misfortunes, and in the recollection of these things we will return [nashuv] to become better [people], as it is written (Lev. 26:40), \"And they will confess their iniquity and the iniquity of their ancestors...\"  Therefore, each person is obliged to take to heart on these days to examine their deeds and to repent [lashuv] of them, because the fast [itself] is not the essential [thing], as it is written [in Jonah 3:10] about the people of Nineveh: \"And the Eternal saw their deeds, that they repented [turned back] from their evil path...\" The Sages, may their memories be a blessing, said that their sackcloth and their fasting were not mentioned--just their deeds.  Fasting is nothing but a preparation for repentance.  Therefore, those people who, as they are fasting, go on walks or [pursue] trivial matters grasp the issue of secondary importance, but loses track of the essence.  But in any case, one may not exempt oneself by means of repentance alone, because to fast on these days is a positive commandment from the prophets, as we wrote above.",
+          "ref": "Mishnah Berurah 549:1"
+        },
+        "2": {
+          "he": "(ב) מפני דברים הרעים וכו' - כי בי\"ז בתמוז ארעו בו ה' צרות בו נשתברו הלוחות כשירד משה מן ההר כמפורש בתורה ובוטל התמיד עוד מלהקריב בבית הראשון והובקעה העיר בחורבן בית שני ושרף אפוסטמוס הרשע את התורה והועמד צלם בהיכל. ובט\"ב היה בו חורבן הגדול שנחרב בו הבית הראשון וגם השני ובזה היום נגזר על אבותינו שבמדבר שלא יכנסו לארץ ובזה היום נלכדה עיר גדולה וביתר שמה והיו בה אלפים ורבבות מישראל ונפלו כולם ביד העכו\"מ ונהרגו כולם והיתה צרה גדולה כמו חורבן ביהמ\"ק ובו ביום המוכן לפורענות חרש טורנוסרופוס הרשע את ההיכל ואת סביביו לקיים מה שנאמר ציון שדה תחרש. ויום ג' בתשרי בו נהרג גדליה בן אחיקם שמינוהו לראש לאחר החורבן על הפליטה הנשארה ונכבה גחלת ישראל הנשארה כי ע\"י שנהרג גלו כולם ונהרגו מהם לאלפים. ועשרה בטבת שבו סמך מלך בבל נבוכדנצר הרשע על ירושלים והביאה במצור ובמצוק ומזה נמשך החורבן:",
+          "en": "On account of the terrible things, etc. Because on 17 Tammuz five misfortunes occurred.  On it, the tablets were broken as Moses descended from the mountain, as is explained in the Torah [Ex. 32:19]; the daily offering was cancelled and was no longer sacrificed in the First Temple; [the walls of] the city [of Jerusalem] were breached [in advance] of the destruction of the Second Temple; the evil Apostomos burnt the Torah; and an idol was placed in the Holy Temple.  On on 9 Av, the great destruction occurred. The First Temple was destroyed on [that day], as was the Second; and on that very day it was decreed that our ancestors that were in the desert would not enter the land; and on that very day, [Romans] conquered a great town, called Beytar [during the Bar Kokhba revolt], which was home to thousands of Jews, all of whom fell into the hands of the idolaters and all of whom perished, which was a calamity as great as the destruction of the Temple; and on this very day, destined for calamity, the evil Turnusrufus plowed the Temple and its environs, thus fulfilling what was said: \"Zion will be plowed as a field\" (Jer. 26:18). And on the day of 3 Tishrei, Gedalia son of Ahikam was murdered.  He had been appointed to lead the remaining survivors after the [first] destruction [and his death led to] the extinguishing of the remaining embers of Israel, because [in the wake of it] all were exiled and thousands were killed. And on 10 Tevet, the evil king of Babylon, Nebuchadnezzar assaulted Jerusalem and laid it under the siege and distress that led to the destruction.",
+          "ref": "Mishnah Berurah 549:2"
+        },
+        "3": {
+          "he": "(ג) בהם - מי שטעה ואכל בהם מ\"מ צריך להשלים התענית אחר שאכל דמי שאכל שום יחזור ויאכל שום ואם צריך להתענות יום אחר עיין לקמן סימן תקס\"ח ס\"א ובמ\"ב שם:",
+          "en": "",
+          "ref": "Mishnah Berurah 549:3"
+        },
+        "4": {
+          "he": "(ד) בתשעה - ולא רצו לגזור גם בט' דאין מטריחין על הצבור יותר מדאי:",
+          "en": "",
+          "ref": "Mishnah Berurah 549:4"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

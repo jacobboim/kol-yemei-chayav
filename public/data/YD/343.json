@@ -1,0 +1,95 @@
+{
+  "chelek": "YD",
+  "siman": 343,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-08T00:01:37.221Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "מצות הלויית המת. ובו ב' סעיפים:מת בעיר כל בני העיר אסורין במלאכה שכל הרואה מת ואינו מלווהו עד שיהא לו כל צרכו בר נידוי הוא ואם יש חבורות בעיר שכל אחת מתעסקת במתים ביומה מותר ביום שאינה יומה בד\"א שלא בשעת הוצאתו אבל בשעת הוצאתו הכל בטלים כדלקמן:",
+      "en": "[As long as there is] a dead person in town [awaiting burial] all the townspeople are forbidden [to engage] in work.1M.K. 27b. And whosoever2Thus ShaK. Cur. edd. have שכל ‘for whosever.’  Tur. sees a corpse and does not attend to all its [burial] needs, is subject to be placed under a ban.3N quoted by Tur, derived from the following case recorded in M.K. ibid. : ‘R. Hamnuna once came to Daru-Matha; he heard the trumpet announcing a death in town, and when he saw that some people carried on their work, he said, Let the people be placed under the ban! Is there not a death in town? They then told him that there was an Association in the town. If so, said he to them, it is permissible for you to work.’ The law as set down here by Caro refers to any corpse.  however, Yad, Ebel XIV, 10; BeHaG and Alfasi according to whom this is applicable only to a corpse where there is no one to look after its burial needs, the burial of which is a religious duty מת מצוה. However, if there are associations in town, each one of which attends to [the burial needs of] the dead on its [particular] day, it is permissible [for the others who are not required to attend to the burial needs, to engage in work] on the day which is not [appointed] for it [the association].3N quoted by Tur, derived from the following case recorded in M.K. ibid. : ‘R. Hamnuna once came to Daru-Matha; he heard the trumpet announcing a death in town, and when he saw that some people carried on their work, he said, Let the people be placed under the ban! Is there not a death in town? They then told him that there was an Association in the town. If so, said he to them, it is permissible for you to work.’ The law as set down here by Caro refers to any corpse.  however, Yad, Ebel XIV, 10; BeHaG and Alfasi according to whom this is applicable only to a corpse where there is no one to look after its burial needs, the burial of which is a religious duty מת מצוה. This applies only to the time when the [funeral] escort was not yet held, but during the [funeral] escort all must abstain from [work]4Thus N quoted by Tur.  Asheri M.K. III end and Ket. 17a, Tosaf. s.v. להוצאת המת. as will be explained infra.5 infra § 361, 2.",
+      "ref": "Shulchan Arukh, Yoreh Deah 343:1"
+    },
+    {
+      "seif": 2,
+      "he": "בכפר קטן אין שואלין שלום זה לזה כשהמת בעיר: הגה וכל שכן שאין שואלים בשלום כשיש מת על בית הקברות (כתבי מהר\"ר אסרלין סימן כ\"ה בשם ספר חסידים) אבל כשאין מת שם שואלין ברחוק ארבע אמות מן הקבר (בתוס' דאלפס פרק ג' דמ\"ק והכל בו בשם הר\"מ):",
+      "en": "In a country town one must not extend a greeting of 'peace' to others whilst the corpse is in town.6Sem(H). I, 7, ‘One must not extend a greeting of peace to others whilst the corpse is in town. This applies to a country town, but in a large town one is permitted to greet.’ The reason for this is that in a country town it becomes known to everyone when there is a corpse in town; not so in a large town. Hence, in the latter case it is permissible. Gloss: So much the more that one must not extend a greeting of 'peace' to others when there is a corpse [awaiting burial] on the cemetery,7Thus in the writings of Isserlein c. 25 on the authority of Sefer Ḥasidim — G. Cf. B.Yos. a.l. This ruling is applicable even in a large city — ShaK. but when there is no corpse there, one may extend a greeting of 'peace' to others at a distance of four cubits from the grave.8Addenda to Alfasi; Kol Bo on the authority of R. Meir of Rothenberg — G.",
+      "ref": "Shulchan Arukh, Yoreh Deah 343:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מעובדא דרב המנונא וכו' מ\"ק דף כ\"ז ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 343:1"
+        },
+        "2": {
+          "he": "לשון הרמב\"ן והביאו הטור מעובדא דלעיל:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 343:2"
+        },
+        "3": {
+          "he": "שם מעובדא דרב המנונא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 343:3"
+        },
+        "4": {
+          "he": "כדעת הרמב\"ן שהביא הטור וכתב הב\"י דמסתבר טעמיה וגדול שבאחרונים הוא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 343:4"
+        },
+        "5": {
+          "he": "פ\"ק דאבל רבתי וכתבוהו הרמב\"ן בסת\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 343:5"
+        },
+        "6": {
+          "he": "כאשר הגהתי כן הוא בב\"י:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 343:6"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "שכל הרואה המת כו'. נ\"ל טעות וצ\"ל וכל הרואה כו' ועיין בטור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 343:1"
+        },
+        "2": {
+          "he": "כדלקמן. סי' שס\"ה ס\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 343:2"
+        },
+        "3": {
+          "he": "וכ\"ש שאין שואלין בשלום בבית הקברות כשיש מת שם. אפי' בעיר גדולה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 343:3"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "הקברות.  אפילו בעיר גדולה. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 343:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

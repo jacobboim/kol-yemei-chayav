@@ -1,0 +1,86 @@
+{
+  "chelek": "YD",
+  "siman": 261,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-08T00:01:28.012Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "ובו סעיף אחד:אם לא מל האב את בנו חייבים ב\"ד למולו ואם לא מלוהו ב\"ד חייב הוא כשיגדיל למול את עצמו ואם לא מל חייב כרת: הגה ובכל יום עוברים בעונשים אלו (טור ובכל בו) ואין מלין בנו של אדם שלא מדעתו אלא אם כן עבר האב ולא מלו בית דין מלין אותו בעל כרחו (טור בשם הרמב\"ם) ואין האשה חייבת למול את בנה (טור) . האב שאינו יודע למול ויש כאן מוהל שאינו רוצה למול בחנם רק בשכר יש לב\"ד לגעור במוהל זה כי אין זה דרכן של זרע אברהם ואדרבה המוהלים מהדרין שיתנו להם למול ואם עומד במרדו ואין יד האיש משגת לתת לו שכרו הוי כמי שאין לו אב שב\"ד חייבים למולו ולכן ב\"ד כופין אותו מאחר שאין אחר שימול (רשב\"א סי' תע\"ב):",
+      "en": "If the father did not circumsise his son, Bet Din (the court) is obligated to circumcise him. And if the bet din did not circumcise him, he is obligated (when he shall grow up) to circumcise himself. If he did not cicumsise himself then he is suffers karet (spiritual excision). And every day he transgresses and is punished. We don't circumcise the son of a man without his knowledge, unless the father refuses to circumcise his son and the bet din did not circumcise him, we circumcize him despite his will. (Tur in the name of the Rambam) And the wife is not obligated to circumcise her son (Tur) e If the father does not know how to cirumcise, and there is a Mohel who does not want to circumcise the child unless he is paid, the bet din ajures the mohel that this is not the path of the descendants of Avraham. On the contrary, the Mohel's are zealous to let them circumcise. And if he stands defiantly and the man (father) does not have money to give the mohel, it is as if the child does not have a father and the bet din is obligated to circumcise him. And therfore bet din forces him since there is nobody else available to circumcise.",
+      "ref": "Shulchan Arukh, Yoreh Deah 261:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "שם ומייתי לה מהמול כל זכר:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 261:1"
+        },
+        "2": {
+          "he": "שם ויליף לה מדכתיב וערל זכר אשר לא ימול ונכרת: (°) פי' עובר באיסור כרת וכדעת הראב\"ד שמיום שגדל ולא מל הוא חייב למות בקיצור שנים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 261:2"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "ואין מלין כו'. ואם עבר ומלו שלא מדעתו היכא שהאב הוי מוהל חייב ליתן לו י' זהובים כמו שנתבאר בח\"מ סוף סי' שפ\"ב:",
+          "en": "\"Et on ne circoncit pas, etc.\" – Et si on a transgressé et que l’on a circoncis sans son consentement, dans un cas où le père est lui-même mohel, il est tenu de lui donner dix pièces d'or, comme cela a été expliqué dans le Ḥoshen Mishpat, à la fin du chapitre 382.",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 261:1"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "כשיגדיל. עיין מ\"ש לקמן סי' ס\"ה ס\"ק כ\"ד בשם תשובת זכרון יוסף סימן כ\"ו:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 261:1"
+        },
+        "2": {
+          "he": "מדעתו. עבה\"ט בשם ש\"ך ובס' לבושי שרד כתב בשם מהר\"י עמדין דהיינו כשהאב עצמו רצה למול אבל אם נתן האב המצוה לאחר וקדם אחר ועשאה לא מפקינן מיניה. ואין צורך בזה להביא בשם מהרי\"ט דכ\"כ הרמ\"א בח\"מ סוס\"י שפ\"ב ע\"ש בסמ\"ע ובש\"ך. ועיין בתשובת זכרון יצחק סימן כ\"ח שכתב דמי שהיה רוצה למול את בנו בשבת ובא אחר ומלו פטור מליתן יו\"ד זהובים דהא דעת הרא\"ה הביאו הטור לקמן סי' רס\"ז דאין לו לאב למול את בנו בשבת אם יש אחר דמילה הוא פסיק רישא לגבי דידיה דהוא מכוין לתקן את בנו אבל לגבי אחר לא מקרי תיקון ושרי ונהי דאנן לא קי\"ל הכי כמ\"ש בש\"ע שם סעיף ז' מ\"מ בודאי דיכול לומר קים לי כדעת הרא\"ה ע\"ש. ונראה לי דלדידן אין נפקותא בזה דהא מבואר בח\"מ סוס\"י שפ\"ב דבזה\"ז אין מגבין אותן דבמידי דלית ביה חסרון כיס לא עבדינן שליחותייהו אלא דאם תפס לא מפקינן מיניה ע\"ש א\"כ לכתחלה בלא\"ה אין מגבין אפי' אם היה בחול ובאם תפס פשיטא דאפילו היה בשבת לא מפקינן מיניה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 261:2"
+        },
+        "3": {
+          "he": "ואין האשה חייבת. עיין בשער המלך פ\"א מהלכות מילה לענין עבד אי מחייב למול את בנו ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 261:3"
+        },
+        "4": {
+          "he": "כופין אותו. עיין בספר לבושי שרד שכתב בשם מהר\"י עמדין דרשאים להטעותו להבטיח לו שכר ולא ליתן לו ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 261:4"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "מדעתו.  כתב הש\"ך ואם עבר ומלו שלא מדעתו היכא שהאב הוא מוהל חייב ליתן לו י' זהובים כמ\"ש בח\"מ ס\"ס שפ\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 261:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

@@ -1,0 +1,700 @@
+{
+  "chelek": "YD",
+  "siman": 118,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 13,
+  "fetchedAt": "2026-07-08T00:01:17.638Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין חתיכת בשר או דבר מאכל הנשלח על ידי עובד כוכבים. ובו י\"ג סעיפים:יין ובשר וחתיכת דג שאין בו סימן שהפקיד או שלח ביד עובד כוכבים צריך שני חותמות אבל יין מבושל ושכר או יין שעירבו בו דברים אחרים כגון דבש וכן החומץ וחלב ומורייס ופת וגבינה וכל שאיסורו מדברי סופרים שהפקידו ביד עובד כוכבים מותר בחותם אחד וי\"א שאף בדברים שצריכים שני חותמות לא אמרו אלא בשולח ע\"י עובד כוכבים שאינו עתיד לראות החותם אבל מפקיד שעתיד לראות חותמו די בחותם אחד כי הוא ירא ואף השולח אם הודיע לחבירו צורת החותם וגם אמר לעובד כוכבים שהודיעו לחבירו די בחותם אחד: הגה וי\"א דלא בעינן ב' חותמות רק בישראל חשוד אבל בעובד כוכבים הכל שרי ע\"י חותם אחד (טור והפוסקים בשם ר\"ת) . ובדיעבד יש לסמוך על זה (ארוך כלל כ\"ג והגהות מיימוני ותוספות):",
+      "en": "Wine or meat or a piece of fish that does not have on it a sign, which one deposits or sends with a non-Jew, it needs two seals. But cooked wine and beer or wine that has other things mixed in it such as honey, and so too vinegar, milk, brine, bread, and cheese and anything that is prohibited by the words of the scribes [i.e. rabbinically] that one deposits in the hand of a non-Jew, is permitted by a single seal. And there are those that say that even things which require two seals only require them when they are sent along with a non-Jew that is not able to see the second seal, but it is enough that he can see one, and he will be afraid to do anything to the product. And even the one who sends the package, if he informs his friend of the form of the seal, and also tells the non-Jew that he has informed his friend, then one seal is enough. Rema: There are those who say that we require two stamps only for a Jew who is suspected of wrongdoing, but for a non-Jew, everything is permitted, even by one seal, and after the fact one may rely upon this.",
+      "ref": "Shulchan Arukh, Yoreh Deah 118:1"
+    },
+    {
+      "seif": 2,
+      "he": "כיון שהחתימו כראוי שני חותמות בדברים שצריך שנים ואחד בדברים שדי באחד אין צריך לחזור אחריו לראותו אבל אם חזר על חותמו ולא הכירו אסור אפילו עשה שתי חותמות (סעיף זה כפול בסימן ק\"ל ס\"ח): הגה ומיהו דוקא אם הוא דבר שיש לחוש שהחליפו ונהנה בחליפין (טור וב\"י בשם תוס' ושאר פוסקים) או הוא יין ויש לחוש שאסרו בנגיעה אבל אם רואה הדבר ששלח או הפקיד והוא טוב כמו ששלח ולא נהנה העובד כוכבים אם החליפו לא חיישינן אף שהחותם מקולקל ועיין לקמן סוף סימן ק\"ל מדינים אלו:",
+      "en": "When the seals are appropriate, two seals on a thing that requires two, and one seal on that which requires one, you do not have to double check them. But if one double checks the seal and does not recognize it, it is forbidden even if two seals were made. Rema: And in any case, this is specifically if it is a thing which there is a concern that the product was switched, and it would benefit the courier to have switched it, or it is wine and there is a concerned that it has been touched. But if he saw the item that was sent, or he deposited it, and it is as good as when it was sent, and it would not have benefited the courier to have switched, we are not concerned, even if the seal was damaged. And see the end of chapter 134 regarding our countries....",
+      "ref": "Shulchan Arukh, Yoreh Deah 118:2"
+    },
+    {
+      "seif": 3,
+      "he": "אות אחת חשוב כחותם א' שתים הוי כשתי חותמות ודפוסים אע\"פ שיש בהם כמה אותיות לא חשיבי אלא כחותם אחד כיון שקובעין אותם בבת אחת ויש אומרים שבמקום שמצויים מומרים וכותים שיודעים לכתוב אין כתב סימן אלא למי שמכיר הכתב (סעיף זה כפול בסי' ק\"ל סעיף ו'):",
+      "en": "One letter is considered to be one seal, two letters would be like two seals. And if they are printed, even though there are many letters, they are only considered to be a single seal, since that they are set with a single action. And there are those that say that in a place where many apostates are found or non-Jews who know how to write, then one should not write a sign except to someone who recognizes his handwriting.",
+      "ref": "Shulchan Arukh, Yoreh Deah 118:3"
+    },
+    {
+      "seif": 4,
+      "he": "מפתח וחותם הוי ב' חותמו' אבל בדברים שדי בחותם אחד אם לא היה בו אלא מפתח לא חשיב חותם (ג\"ז כפול שם ס\"ו): הגה אם שולח איזה דבר בשק וחתם השק אינו אפילו כחותם א' (כל בו בשם הרי\"ף ואו\"ה וט\"ו ר\"ס ק\"ל) אא\"כ הפך התפירות לפנים (ארוך) ואם חתם הדבר ששלח וגם השק הוי כב' חותמות (כל בו שם):",
+      "en": "A cap and a seal constitute two seals. But on things where one seal is sufficient, if you only have a cap, this is not considered a seal. Rema: If something is sent within a sack, and the sack is sealed, this is only considered a single seal, unless the package is sown closed inside. And if you sealed the item, and also sealed the sack, this is considered two seals.",
+      "ref": "Shulchan Arukh, Yoreh Deah 118:4"
+    },
+    {
+      "seif": 5,
+      "he": "אם שלח על ידי עובד כוכבים ירך בלא חותם אם היא חתוכה כדרך שישראל חותכה אחר חטיטת הגיד כשרה וכן כל חתיכה שניכר בה ניקור הישראל כגון בנטילת חוט דידא וחוט שאצל החזה וכיוצא בו: הגה ושאר החתיכות שעמהן אם יש לחוש להם שהוחלפו אסורות (כך דקדק התה\"ד סי' ר' מאשיר\"י פג\"ה) ודוקא בבשר או שאר איסור דאורייתא אבל אם שלח איסור דרבנן כגון גבינות שיש לחוש שמא החליפם העובד כוכבים אם מכיר קצתם שלא הוחלפו כולם מותרות אם אותן שלא הוחלפו הם היותר טובים ששלח דודאי אם החליף היה לוקח הטובים שבהם (שם):",
+      "en": "If you send a thigh by a non-Jew without a seal, if it was sealed in a way that made it clear that a Jew has removed the sciatic nerve, this is kosher. And so all seals that are recognizable that a Jew has removed forbidden nerves, or anything like it. Rema: And so to with other pieces of meat that are with them, if there is a concern that perhaps they could be switched, they are forbidden. And this is specifically with regards to meat or other things which the Torah forbids, but if something that is only rabbinically forbidden was sent, like cheese which we suspect might be switched by the non-Jew, if it is recognizable in some small way that it was not switched, everything is permitted, if the package contains something better than that which was sent, then of course if it was switched he would have had to have bought the better product.",
+      "ref": "Shulchan Arukh, Yoreh Deah 118:5"
+    },
+    {
+      "seif": 6,
+      "he": "שלח על ידי עובד כוכבים בהמה או עוף שחוטים בלא חותם אסורים שאין סימן שחיטה סימן לסמוך עליו:",
+      "en": "If you send a slaughtered animal or bird with a non-Jew, but they lack a seal, they are forbidden, because indications of ritual slaughter is not considered a sufficient mark that we can rely on.",
+      "ref": "Shulchan Arukh, Yoreh Deah 118:6"
+    },
+    {
+      "seif": 7,
+      "he": "אם שלח על ידי עובד כוכבים בלא חותם אם אותו מקום מעבר לרבים מותר שהוא ירא שמא יראנו אחד מהעוברים ויתפס עליו כגנב ומיהו לכתחילה לא ישלח על ידי עובד כוכבים בלא חותם:",
+      "en": "If a package was sent with a non-Jew, and it was sent through a public place, this is permitted, because he will be concerned that perhaps someone will see him in public and report him for being a thief. And in any case, initially you should not send anything by a non-Jew without a seal.",
+      "ref": "Shulchan Arukh, Yoreh Deah 118:7"
+    },
+    {
+      "seif": 8,
+      "he": "הלוקח בשר ושלחו ביד אחד מעמי הארצות נאמן עליו אף על פי שאינו מוחזק בכשרות ואין חוששין שמא יחליף ואפי' עבדי ישראל ואמהותיהם נאמנים בדבר זה. ויש מי שאומר שאם הוא חשוד לאכול דברים שאין דרך הרבים להקל בהם אף הוא חשוד להחליף:",
+      "en": "One who buys meat and sends it by someone who does not know the laws, he is to be trusted regarding it, even though that he is not careful about kosher, and we do not suspect him of switching anything. And even by a Jew's manservant or a maidservant, they are believed in this matter. And there are those that say that if it is a Jew who is suspected of wrongdoing for eating things that people are not lenient regarding, even he is suspected of switching.",
+      "ref": "Shulchan Arukh, Yoreh Deah 118:8"
+    },
+    {
+      "seif": 9,
+      "he": "בשר הנמצא ביד עובד כוכבים וכתוב עליו חותם או כשר אע\"פ שאינו יודע מי כתבו כשר דמידע ידיע שהוא של ישראל והוא שלא יהיו מצוים שם עובדי כוכבים היודעים לכתוב: הגה  וכן מותר לקנות גבינות החתומים כדרך שישראל חותמים (מרדכי פא\"מ) ודוקא מקום שאין לחוש שמא נשארו הדפוסים ביד עובדי כוכבים וקבעו אותן בגבינותיהן (א\"ו הארוך) ויש אוסרים בכל זה מאחר שלא ידענו מי כתבו או חתמו (מהרי\"ק סוף שורש ל\"ג) ובדיעבד אין להחמיר:",
+      "en": "Meat that is found in the hands of the non-Jew, and it has a seal or has \"kosher\" written on it, even though that the non-Jew doesn't understand what is written there, it is kosher, because it makes it known that a Jew originally made this. And this is where non-Jews do not know how to write. Rema: And so it is permitted to buy cheese sealed as the Jews seal them. And specifically in a place where there is no concern that perhaps some sort of stamp is in the hands of the non-Jew that he could have stamped his own cheese. And there are those that forbid all of this, since that it is not known who wrote the letter or made the stamp, and after the fact we are not stringent about this.",
+      "ref": "Shulchan Arukh, Yoreh Deah 118:9"
+    },
+    {
+      "seif": 10,
+      "he": "המניח עובד כוכבים בביתו ובו דברים שאם הוחלפו יש בהם אפילו איסור תורה אם הוא יוצא ונכנס או אפילו שהה זמן רב ולא הודיעו שדעתו לשהות מותר ולא חיישינן שמא החליף אפילו אם הוא נהנה בחליפין והוא שלא סגר הבית עליו (טור והמחבר ר\"ס קכ\"ט) לפי שהוא מתיירא בכל שעה לאמר עתה יבוא ויראני אבל אם הודיעו שדעתו לשהות אסור ואם אינו נהנה בחליפין מותר בכל ענין דלא חיישינן שמא החליף להכשילו כיון שאין לו הנאה בדבר:",
+      "en": "One who leaves a non-Jew alone in his house, and inside there are things that could be switched, and they would be then forbidden by the Torah, if he goes out and [re-]enters or even if he waited a long time and did not inform him that he intends to wait, it is permitted, and we do not worry that perhaps he switched it, even if he will benefit from switching the product, and this is provided that he does not lock his house up. Because he is afraid the entire time, saying, “Now he will return and he will see me.” But if he informed that he intended to wait, it is forbidden. But if he will not benefit from the switch, it is permitted in any case, for we are not concerned that perhapse he will switch them and cause the owner to stumble, since he gains no benefit from this matter.",
+      "ref": "Shulchan Arukh, Yoreh Deah 118:10"
+    },
+    {
+      "seif": 11,
+      "he": "ישראל ועובד כוכבים ששפתו ב' קדירות זו אצל זו זה בשר שחוטה וזה בשר נבילה מותר ואין לחוש שמא כשהחזיר הישראל פניו החליף העובד כוכבים שחוטה בנבילה אפילו אם של ישראל משובח ואפי' פיהן מגולה מותר ואין לחוש שמא יתזו ניצוצות מזו לזו (וה\"ה בב' דברים צלוים זה אצל זה (מרדכי פא\"מ) אבל לכתחלה יש ליזהר אפילו בב' קדרות) (טור):",
+      "en": "A Jew and a non-Jew that share together two pots, one by the other, this one for kosher meat, this one for non-kosher meat, this is permitted, and we are not concerned that perhaps when the Jew returns, the non-Jew will have switched kosher and non-kosher , even if the Jew's meat is better, and even if he vocalizes that it is better, it is permitted, and we are not concerned that perhaps they will splash and spill into one another. And this same rule is true for two things that are roasted next to each other. But initially, we should be careful even with two pots.",
+      "ref": "Shulchan Arukh, Yoreh Deah 118:11"
+    },
+    {
+      "seif": 12,
+      "he": "יש להחמיר שלא להניח הקדרות אצל השפחות כשאין ישראל בבית: הגה ואינו יוצא ונכנס (תשובת הרא\"ש כלל י\"ט) ואם אירע קלקול שנתנה דבר איסור בקדירה אין להאכילה אותה מאכל שלא ירגילה בכך (בית יוסף בשם שבולי לקט):",
+      "en": "One should be stringent not to leave a pot with a maidservant when no Jew is in the house. Rema: And you should not even leave and reenter. And if damage occurred that something forbidden was placed in the pot, you should not eat from the pot, so this should not become a regular occurrence.",
+      "ref": "Shulchan Arukh, Yoreh Deah 118:12"
+    },
+    {
+      "seif": 13,
+      "he": "ישראל שעשה גבינות בבית עובד כוכבים וחתמם בחותם דפוס של עץ ושכח הדפוס בבית העובד כוכבים אין חוששין שמא זייף העובד כוכבים וחתם אחרים באותו דפוס וכן אין לחוש שמא החליק העובד כוכבים פני הגבינו' בשומן חזיר: הגה וי\"א דאין להתיר אם שכח הדפוס בבית עובד כוכבים אלא אם כן הניחו מונח על הגבינות שעשה הישראל אבל אם (לא) הניחו כך ויש לחוש שמא עשה גבינות קטנים והחליפם בגדולים או היותר טובים אסור (ארוך כלל מ\"ז דין ב') ובמקום הפסד יש להתיר בכל ענין:",
+      "en": "A Jew that made cheeses in a non-Jew's house, and sealed it with a seal that is made by a wooden stamp, and he forgets the stamp in the house of the non-Jew, there is no concern that perhaps the seal was counterfeited by the non-Jew, and he stamped other things with the stamp. And so there is no concern that perhaps the non-Jew smeared the cheeses with lard. Rema: And there are those that say that we should not permit it if he forgot the stamp in the house of the non-Jew, unless he left it on the cheese that he himself made, but if he left it like so, and there is a concern that perhaps the non-Jew cut the cheese smaller, and then switched it with another large piece of cheese or something better, it is forbidden. And in a situation of loss, we should be lenient in any case.",
+      "ref": "Shulchan Arukh, Yoreh Deah 118:13"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מימרא דרב עבודת כוכבים דף ל\"ט וכטעם שכתב הטור בשם הרשב\"א מפני שהוא איסור תורה וכ\"נ מדברי הרמב\"ם בפרק י\"ג מהמ\"א דין י':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:1"
+        },
+        "2": {
+          "he": "לשון הרמב\"ם שם (ור' ירוחם):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:2"
+        },
+        "3": {
+          "he": "שם ואע\"ג דסתם יינם אינו אלא מדרבנן החמירו בו כשל תורה משום דחיבת ניסוך עליהם וטרחי ומזייפי ב\"י בשם הרשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:3"
+        },
+        "4": {
+          "he": "טור בי\"מ והוא מדברי התוספות עבודת כוכבי' דף ל\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:4"
+        },
+        "5": {
+          "he": "הרא\"ש שם מדברי התוס' וכן הסכים הרא\"ש והר\"ן ועיין עוד מדין שליחות יין לקמן בסי' ק\"ל:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:5"
+        },
+        "6": {
+          "he": "טור וכ\"כ הרשב\"א בת\"ה מברייתא דהשולח חבית יין וכו' שם דף ל\"א וכפי' התוס' שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:6"
+        },
+        "7": {
+          "he": "טור וכ\"כ הרשב\"א בת\"ה והר\"ן בפ\"ב דעבודת כוכבים בשם ר\"י:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:7"
+        },
+        "8": {
+          "he": "הרשב\"א בתשובה עב\"י סימן ק\"ל:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:8"
+        },
+        "9": {
+          "he": "בסא\"ח בשם הרא\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:9"
+        },
+        "10": {
+          "he": "מברייתא אחד הלוקח ואחד השוכר וכו' וכר\"א וכגירסת הרשב\"א דמקיל ועביד מפתח וחותם כשני חותמות שם דף ל\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:10"
+        },
+        "11": {
+          "he": "טור בשם רש\"י:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:11"
+        },
+        "12": {
+          "he": "טור בשם הרשב\"א בת\"ה והמרדכי בס\"ק דחולין בשם רש\"י:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:12"
+        },
+        "13": {
+          "he": "ג\"ז שם בשמו משינויא דרב ירמיה בין הגתות שנו עבודת כוכבים דף ל\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:13"
+        },
+        "14": {
+          "he": "ב\"י בשם תשובת הרשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:14"
+        },
+        "15": {
+          "he": "רמב\"ם פ\"ח מהמ\"א דין י' מהא דלחלופי לא חיישינן חולין דף ו' (°) פי' עבדים כנענים שמלו וטבלו לשם עבדות המ\"מ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:15"
+        },
+        "16": {
+          "he": "הרשב\"א בת\"ה הארוך מדין החשוד שם בגמרא דעבודת כוכבים דף ל\"ט דלא אמרו אין חשודים להחליף אלא בחשוד בדבר שרבים רגילים בהם כדמאי וכו' (וה\"ה שם וב\"י ס\"ס קי\"ט וכפול שם):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:16"
+        },
+        "17": {
+          "he": "הרשב\"א בתשובה סי' ק\"ט:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:17"
+        },
+        "18": {
+          "he": "א\"ח בשם הרא\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:18"
+        },
+        "19": {
+          "he": "טור וכ\"כ הרשב\"א ממשנה המניח עובד כוכבים בחנות עבודת כוכבים דף ס\"ט:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:19"
+        },
+        "20": {
+          "he": "משנה שם דף ס\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:20"
+        },
+        "21": {
+          "he": "שם במשנה דף ס\"ט:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:21"
+        },
+        "22": {
+          "he": "שם בגמ' דף מ':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:22"
+        },
+        "23": {
+          "he": "שם במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:23"
+        },
+        "24": {
+          "he": "מדברי התוס' אהא דלא הלכת לצור וכו' שם דף י\"א וכ\"ב ש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:24"
+        },
+        "25": {
+          "he": "שם בגמ':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:25"
+        },
+        "26": {
+          "he": "טור בשם אביו הרא\"ש ובתשובה כלל י\"ט סימן י\"ח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:26"
+        },
+        "27": {
+          "he": "מרדכי בפ\"ג דעבודת כוכבי':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:27"
+        },
+        "28": {
+          "he": "הרשב\"א בתשובה סי' ס\"ז דאין חוששין להם שיאבד את שלו להטיח פני הגבינה להעביר את הישראל:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 118:28"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "ובשר כו'. משמע דהא דצריך בבשר חותם בתוך חותם היינו אפילו במקום שהטבחים ישראל ול\"ד למ\"ש הט\"ו בסי' א' ס\"ד דהמוצא בהמותיו ותרנגוליו שחוטין כראוי בשוק דשרי ברוב טבחי ישראל משום דהתם לא ידעינן מי שחטן הלכך אזלינן בתר רובא אבל הכא שהבשר ביד עובד כוכבים אית לן למימר שהחליפו בנבלה שהיה לו וכ\"כ המחבר בסי' ס\"ג ס\"א וכבר אסרו חכמים כל הבשר הנמצא ביד עובד כוכבים אע\"פ שכל המוכרים והשוחטים ישראל עכ\"ל. מיהו צ\"ע שהרב כתב שם בסוף הסי' שאם היה ביד עובד כוכבים בשר במקום שרוב המוכרים הם ישראלים כשר ואולי מיירי הכא כשאין רוב המוכרים ישראלים ונראה לחלק דהתם לא מיירי אלא בנמצא בשר ביד עובד כוכבים שלקחו מהמקולין הלכך במקום שהמוכרים הם ישראלים שרינן ליה דליכא למיחש שמא נבלה לקח וגם ליכא למיחש לאחלופי בנבלה שהיה לו בביתו דלאיזה צורך יחליפו הרי הכל שלו אבל הכא דמיירי בשולח או מפקיד ביד עובד כוכבים דאיכא למיחש באחלופי בנבלה שיש לו עוד יש לחלק בין שולח או מפקיד ששוהה הבשר זמן רב בידו ויש לו שהות שיזדמן לו בשר נבלה ושיחלוף ובין לוקח מהמקולין וכמ\"ש הט\"ו בר\"ס קכ\"ח דבגר תושב אסור לייחד אצלו יין לזמן מרובה ולזמן מועט מותר והיינו נמי משום דלאחלופי בזמן מוטט ליכא למיחש ע\"ש ועיין בסעיף ו' ובמ\"ש שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:1"
+        },
+        "2": {
+          "he": "וחתיכת דג כו'. דוקא חתיכת דג דאילו דג שלם או חצי היה ניכר בסנפיר וקשקשת שלו כדלעיל סימן פ\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:2"
+        },
+        "3": {
+          "he": "שהפקיד או שלח כו'. ל\"ד אלא ה\"ה לכתחלה מותר לשלוח או להפקיד דברים האסורים מן התורה בחב\"ח ודברים האסורים מדרבנן בחותם א' וכ\"כ המחבר להדיא לקמן ר\"ס ק\"ל ופשוט הוא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:3"
+        },
+        "4": {
+          "he": "ביד עובד כוכבים. לאו דוקא דה\"ה ביד ישראל החשוד לאכול דברים שאין הרבים רגילין להקל בהם וכמ\"ש המחבר בסי' זה ס\"ח ובס\"ס קי\"ט (ועיין בהרב המגיד פ\"ח מהמ\"א דין י' ודוק) אלא להכי נקט הכא עובד כוכבים דיין לא שייך אלא בעובד כוכבים דהא טעמא דיין הוי משום חיבות ניסוך טרח ומזייף וכמ\"ש בס\"ק ה' וזה לא שייך בישראל חשוד אם לא שהוא חשוד לנסך יין לעבודת כוכבים דאז פשיטא דהרי הוא כעובד כוכבים גמור וכמ\"ש בסימן קי\"ט ס\"ק ט\"ו א\"נ להכי לא נקט ישראל חשוד משום גבינה ודכותיה דדבר שהרבים מקילין בו הוא וכמו שיתבאר בס\"ק ט\"ו והא דלא נקט חשוד להחליף משום דזה פשיטא ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:4"
+        },
+        "5": {
+          "he": "אבל יין מבושל כו' וכל שאיסורו מדברי סופרים כו'. דעת המחבר דהכל תלוי במה שהוא אסור מן התורה או מדרבנן דבשר דאיכא למיחש שיחליפו בבשר נבלה וכן דג שיחליפו בדג טמא האסורים מן התורה וכן יין אע\"פ דסתם יינם אינו אלא מדרבנן וכדלקמן ר\"ס קכ\"ג מ\"מ כתב הרשב\"א דמשום חיבת ניסוך עליה טרחי ומזייפי אף בחותם א' לכך החמירו בו כשל תורה אבל יין מבושל ושכר כו' דכל הנך שאפילו הוחלפו אין בהן אלא איסור מדבריהם וכמו שיתבאר כיון דאיכא חותם א' לא חיישינן לזיופי והוא דעת הרמב\"ם והרשב\"א (ור' ירוחם סוף נט\"ו) אבל הר\"ן כתב בשם הירושלמי דטעמא דביין ובשר וחתיכת דג צריך חותם בתוך חותם משום שאיסורו מגופו אבל חמפ\"ג שאין בהם איסור אלא משום תערובות וכמו שנתבאר בסי' קי\"ד וקט\"ו ופת אע\"פ שהפת עצמו אסור אפ\"ה משום דאיסורו מדבריהם סגי ליה בחותם אחד עכ\"ד וכ\"כ הרא\"ה בס' בדק הבית דף קי\"ח וז\"ל ושטת הירושלמי כל שאסור מגופו וליהוי נמי איסור דאורייתא בעי ב' חותמות וכל שאיסורו מחמת תערובות א\"נ איסור דרבנן סגי בחותם א' לבד מיין שהחמירו בו עכ\"ל וס\"ל ג\"כ דחומץ כיון שאינו ראוי לנסך לא חיישינן דטרח ומחליף כיון דסתם יינם מדרבנן ויין שאני דמשום חיבת ניסוך טרח ומזייף וכמו שאכתוב בס\"ק ו' לדעת המחבר וסייעתו וכן מבואר מדברי הר\"ן להדיא ע\"ש וצ\"ל דס\"ל להר\"ן וסייעתו דחלב וגבינה לא מיקרי לענין זה איסור מדבריהם כיון דאיכא למיחש בהו לתערובות איסור דאורייתא ודוק ורש\"י פירש הטעם דביבח\"ד דמיו יקרים טרח ומזייף בחותם א' משא\"כ שאר דברים והארכתי בזה מפני שהרב בת\"ח כלל ל\"ב ד\"י כתב שטוב להחמיר כדברי כל הפירושים גם בסימני ת\"ח כתב וז\"ל והרבה טעמים בחב\"י אמאי צריך חותם בתוך חותם וכן כל הדומה לזה שהוא ג\"כ איסור דאורייתא או שהוא מדרבנן ואיסורו מגופו כמו חב\"י או שהוא מדרבנן ואין איסורו מגופו אבל הוא חשוב כמו חב\"י בכל ענין צריך חותם בתוך חותם עכ\"ל וכ\"פ בספר אפי רברבי וצ\"ע למה סתם כאן כדברי המחבר וגם יש לתמוה הרבה על מ\"ש בסימני ת\"ח ובספר אפי רברבי או שהוא מדרבנן ואסורו מגופו כו' דהא אפילו להר\"ן בכה\"ג סגי בחותם אחד כמו פת וכמבואר בדבריו ובדברי הרא\"ה להדיא ואולי י\"ל בזה דס\"ל דדוקא בפת שאיסורו מדבריהם ואין לו עיקר מדאורייתא וכמ\"ש ר\"ס קי\"ב אמרינן הכי אבל לא בכל שאר איסורי דבריהם וכן כשהעתיק בת\"ח דברי הר\"ן העתיק ופת אף על גב דאיסורו מגופו אפ\"ה הואיל ועיקר איסורו מדבריהם סגי ליה בחותם אחד עכ\"ל אלא שבר\"ן אינו כלשון הזה וגם משמע בר\"ן דאפי' איסור של דבריהם שיש לו עיקר בדאוריית' ואיסורו מגופו סגי בחותם א' שדימה חומץ לפת ע\"ש ועבס\"ק ז' ודוק ועוד דא\"כ לא הוצרך לומר טעם דיין דמשום חיבת ניסוך טרח ומזייף דכיון דיש לו עיקר בדאורייתא שפיר בעי חותם בתוך חותם וצ\"ע:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:5"
+        },
+        "6": {
+          "he": "ומ\"ש המחבר כגון דבש העתיק ל' הרמב\"ם ומ\"מ בדברי המחבר צ\"ל דמיירי שעירב בו כ\"כ דבש עד שנשתנה טעם היין מחמתו דבכה\"ג אין בו משום יין נסך וכדלקמן בסימן קכ\"ג אבל בנתערב בו מעט דבש ס\"ל להמחבר דיש בו משום יין נסך דלא כהרמב\"ם וכמו שיתבאר שם וא\"כ בכה\"ג צריך נמי הכא חותם בתוך חותם וע\"ל בסימן ק\"ל ס\"ג (ועיין בתשובת מבי\"ט ח\"ב סימן ר\"ח):",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:6"
+        },
+        "7": {
+          "he": "ומ\"ש וכן החומץ ר\"ל חומץ של יין וכן משמע בסימן ק\"ל ס\"ג להדיא ופשוט הוא והיינו שמבעבע כמשליכין אותו על הארץ שאז הוי חומץ גמור ואין ראוי לנסך כדלקמן סי' קכ\"ג ס\"ו ע\"ש וטעמא דלמאי ניחוש לה אי משום חיבת נסוך טרח ומזייף הלא אין ראוי לנסך ואי משום שמא יחליף בחומץ של יין נסך כיון דסתם יינם אינו אלא מדרבנן לא חיישינן להכי וה\"ט דמורייס ויין מבושל ויין שעירבו בו דברים אחרים דלא חיישינן שמא יחליף העובד כוכבים המורייס ויין המבושל ויין המעורב בו דברים אחרים שלו משום דכל הנך לא אסירי אלא משום סתם יינם שהוא מדרבנן ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:7"
+        },
+        "8": {
+          "he": "ומ\"ש וחלב כו'. אע\"ג דחלב טעמו שמא יחליף בחלב טמא שהוא אסור מדאורייתא וכמו שנתבאר בר\"ס פ\"א י\"ל שחלב טמא ניכר שהוא עכור כדאמרינן בעבודת כוכבים (דף ל\"ה ע\"ב) טהור חיור טמא ירוק וא\"כ אין לחוש שיחליף כל החלב או רובו אלא יש לחוש שמא החליף מעט דאינו אסור אלא מדרבנן דמדאורייתא מין במינו בטל) וכמו שנתבאר בסימן צ\"ח וכן תירץ בפרישה ס\"ד וכי האי גוונא כתב האו\"ה כלל מ\"ח סוף דין ה' אי נמי כמ\"ש האו\"ה כלל מ\"ה דין ז' דמאחר דרוב חלב המצוי בינינו הוי חלב טהור א\"כ סתם חלב הוא מדרבנן והב\"ח בקונטרס אחרון כתב על הפרישה ושארי ליה מאריה שכתב נגד הש\"ס וכנגד הת\"ה הארוך מה שלא עלה על לב ודעתו לומר דחלב יש בו איסור דאורייתא אלא דלהכי סגי ביה בחותם אחד משום דלית ליה רווחא וכן דעת הטור ג\"כ עכ\"ד בקוצר ע\"ש ונהפוך הוא שהוא כתב נגד הש\"ס וכנגד ת\"ה הארוך ואדרבה בטור איתא להדיא לפי הגירסא בספרים הישנים שהיא הגירסא הנכונה וכמו שהסכים הוא ג\"כ עליה דבחלב להכי סגי חותם אחד כיון דאיסורו מדבריהם וכמ\"ש הרמב\"ם והמחבר וכ\"כ רבינו ירוחם סוף נט\"ו וכן הוא באו\"ה בכמה דוכתי אלא ודאי כי היכי דבדג ושאר דברים אית ליה רווחא במה שמחליף הטהור בטמא ה\"נ בחלב דאי משום לית ליה רווחא אתינן עלה הא כתבו הט\"ו בסימן זה ס\"ז (והוא מן הש\"ס ומוסכם מכל הפוסקים) דלא חיישינן שמא החליף אא\"כ נהנה בחליפין הא כל שאינו נהנה מותר אפילו בלא חותם כלל אלא העיקר כמו שכתבתי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:8"
+        },
+        "9": {
+          "he": "ומורייס. נמי איכא למיחש שמא יחליף במורייס שלהן שהוא אסור במקום שדרכן ליתן לתוכו יין וכמ\"ש הט\"ו בסימן קי\"ד סי\"א אבל במקום שאין דרכן ליתן לתוכו יין או שהיין ביוקר יותר מן המורייס פשיטא דא\"צ חותם כלל דאפילו יחליף ליכא איסור וכ\"כ המחבר שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:9"
+        },
+        "10": {
+          "he": "ופת. אין בו אלא שמא יחליף בפת שלהם שהוא איסור מדרבנן וכמו שנתבאר בסי' קי\"ב והלכך במקו' שנוהגין היתר בפת של עובדי כוכבים פשיטא דאין צריך חותם כלל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:10"
+        },
+        "11": {
+          "he": "וגבינה. אע\"פ שגבינה אסורה משום שיש לחוש שהחליף בגבינה שלהם שאסורה מפני שמעמידין אותה בעור קיבת נבילה וכמ\"ש הט\"ו בסימן קט\"ו ס\"ב מ\"מ מדאורייתא נמי בטיל העור קיבת נבילה במיעוטו ומה שהוא לא בטיל לעולם הוא מדרבנן כיון שהוא דבר המעמיד כדלעיל ס\"ס פ\"ז א\"נ אפילו אם ידוע שהעמידוה בעשבים או שאר דברים אסורה כמ\"ש המחבר בסימן קט\"ו שם והיינו גזרה דרבנן א\"נ והוא העיקר כיון דאיכא למימר שמא לא העמידה בקיבת נבלה ואפילו הכי אסורה דאמרינן שמא העמיד הוי שפיר מדרבנן ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:11"
+        },
+        "12": {
+          "he": "שהפקידו ביד עובד כוכבים. וה\"ה שלחו וק\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:12"
+        },
+        "13": {
+          "he": "וי\"א שאף כו'. ולקמן ר\"ס ק\"ל סתם המחבר כסברא הראשונה וצ\"ע:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:13"
+        },
+        "14": {
+          "he": "ואף השולח אם הודיע כו'. זה נמשך לסברא האחרונה משא\"כ לסברא הראשונה וק\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:14"
+        },
+        "15": {
+          "he": "אם הודיע לחבירו צורת החותם וגם אמר לעובדי כוכבים כו'. נראה דמ\"ש הט\"ו אם הודיע לחבירו כו' הוא לאו דוקא דה\"ה אם אינו מודיע לחבירו אלא שאומר לעובד כוכבים שמודיע נמי מירתת דסבור הוא שהאמת כן דהא כתבו הט\"ו בסעיף ב' כיון שהחתימו כראוי כו' במקום שדי בא' אין צריך לחזור עליו ולראותו ומשמע דאף לפי דעת הי\"א דבמפקיד אין צריך אלא חותם אחד כתבו כן וכ\"כ הרב בהג\"ה לקמן סי' ק\"ל ס\"ב וה\"ה בשולח ואמר לעובדי כוכבים שהודיע לחבירו צורת החותם דאין צריך לחזור עליו ולראותו ועוד דאי בשולח בחותם אחד צריך המקבל לחזור עליו ולראותו א\"כ לאיזה צורך צריך להודיע לעובד כוכבים שמודיע לחבירו הא כיון שחבירו מכיר צורת החותם וצריך לחזור עליו ולראותו יראה לעינים אם זייפו אם לאו ולמה יגרע ממפקיד אלא הט\"ו אשמועינן דכשהודיע לחבירו צורת החותם לא סגי עד שיאמר גם לעובד כוכבים שמודיעו ואורחא דמלתא כשאומר לעובד כוכבים כן מסתמא מודיע וזה שכתבו וגם אמר לעובד כוכבים כו' באחרונה ולא כתבו להפך אם הודיע לעובד כוכבים שמודיע לחבירו כו' וגם הודיע לחבירו כו' ומיהו אף בשולח בב' חותמות נכון הדבר להודיע לחבירו צורת החותם כדי שיחזור אחריו וכמ\"ש הט\"ו בסי' ק\"ל סוף סעיף ח' ע\"ש ואפשר דמש\"ה נקטו נמי הכי אם הודיעו צורת החותם לומר דבכה\"ג יש לעשות לכתחלה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:15"
+        },
+        "16": {
+          "he": "רק בישראל חשוד. דגרע לענין זה מעובד כוכבים לפי שהוא בטוח שיאמינוהו ולא מירתת כ\"כ ומשמע דבבשר ויין וחתיכת דג צריך בישראל חשוד ב' חותמות ובחמפ\"ג צריך בישראל חשוד חותם אחד ומשמע דלפי י\"א אלו אין חילוק בין מפקיד לשולח ופי' ישראל חשוד הוא שחשוד להחליף דאין לפרשו שחשוד לאכול אותו דבר שמשלח על ידו דהא כתבו הט\"ו בסימן קי\"ט ס\"ג דמי שהוא חשוד לאכול דברים אסורים אינו חשוד להחליפם ואולי חשיבי הנך דברים שאין הרבים מקילים בהן שאף הוא חשוד להחליפם אם חשוד לאכלם וכמ\"ש המחבר בסעיף ח' ובסי' קי\"ט אבל הרשב\"א כתב בתשובה סימן ק\"ט שאכילת גבינה של עובד כוכבים קילא בעיני רבים וכ\"כ בתה\"א ומביאו ב\"י ס\"ס קי\"ט וכ\"כ הטור בס\"ס קי\"ט דהחשוד על הגבינה אינו חשוד להחליף והכי משמע מדברי הפוסקים ועיין במ\"ש בסימן קי\"ט ס\"ק נ\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:16"
+        },
+        "17": {
+          "he": "אין צריך לחזור אחריו ולראותו. הטעם דחותמות לא הוי אלא משום דמסתמא לא טרח ומזייף ועיין בס\"ק ט\"ו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:17"
+        },
+        "18": {
+          "he": "אפילו עשה ב' חותמות. וה\"ה יותר ולקמן סימן ק\"ל ס\"ח התנה הרב תנאים בזה ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:18"
+        },
+        "19": {
+          "he": "ויש לחוש שאסרו בנגיעה. כלומר אפילו לא נהנה יש לחוש דמשום חיבת נסוך נגע בו וע\"ל סימן קכ\"ח ס\"ק ד':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:19"
+        },
+        "20": {
+          "he": "אף שהחותם מקולקל. שנראה שנעשה בכוונה על ידי אדם דאם לא כן בכל ענין שרי כדלקמן סימן ק\"ל ס\"ק ו' וס\"ח בהג\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:20"
+        },
+        "21": {
+          "he": "אות אחת חשוב כחותם אחד. משמע דאפי' בדברים שדי בחותם אחד חשוב אות אחת כסימן ועדיף ממפתח שכתב המחבר בסעיף שאח\"ז:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:21"
+        },
+        "22": {
+          "he": "אבל בדבדים שדי בחותם אחד כו'. משמע דהיינו בחמפ\"ג וכיוצא בו ונראה לפי זה ה\"ה דלדעת הי\"א במפקיד אין צריך אפי' בחב\"י אלא חותם אחד וכן דעת הי\"א דבעובד כוכבים הכל שרי בחותם וכדלעיל סעיף א' לא חשיב מפתח חותם אחד וז\"ש הרב סימן ק\"ל ס\"ב וסי' קל\"א ס\"א דיין נסך ביד עובד כוכבים בדיעבד סגי בחותם אחד ולא כתב רבותא יותר דסגי בדיעבד אפילו במפתח אחת מפני שסתם כאן כדברי המחבר והיינו כדפי' ואע\"ג דלר\"ת ודאי סגי אף במפתח אחת מ\"מ אנן לא סמכינן עליו אלא בחותם אחת ובב\"ח כתב כאן ובסימן ק\"ל שבדיעבד סגי אפילו במפתח אחת ושכן דעת הרב ע\"ש ולא נהירא גם מה שהביא ראייה מתשובת רשב\"א שבמרדכי פרק ר' ישמעאל ומתשובת הרשב\"א () כלל י\"ט סי' ג' לדין זה דחיתי הכל בספרי באמת הבנין ע\"ש וגם מה שכתב לחלק על המחבר בחמפ\"ג ודעתו דמותר אפילו לכתחלה במפתח אחד איני רואה בדבריו שיהא כדי לחלוק כיון שהרשב\"א והט\"ו הסכימו דדוקא בעינן חותם אחד אפילו בדיעבד ובפרט שאמרו להחמיר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:22"
+        },
+        "23": {
+          "he": "אם שלח על ידי עובד כוכבים כו' כשרה. מלשון זה משמע קצת דדוקא דיעבד הוי ניקור וכיוצא בו סי' אבל לא לכתחלה אכן הטור כתב ג\"כ כלשון הזה ואפילו הכי כתב להדיא בסימן ס\"ה דמותר לשלוח אפילו לכתחלה ע\"י עובד כוכבים ע\"י סימן ניקור אבל המחבר לא כתב שם מזה כלום ומ\"מ כתב באו\"ה דלכתחלה אין לסמוך עליו וכ\"כ הרב בסימני ת\"ח שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:23"
+        },
+        "24": {
+          "he": "אבל אם שלח איסור דרבנן כו'. ומבואר בת\"ה שם דבאיסור דרבנן אפילו ראה היהודי שהיה החותם נשבר ומקולקל לגמרי והיה ניכר בודאי שנפתח החותם מותר בענין זה וכן הוא בת\"ח שם דין י\"ד ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:24"
+        },
+        "25": {
+          "he": "אסורים. הטעם שמא החליף העובד כוכבים טוב ברע ושחט בעצמו כמו כן לזה שהחליף ואין שחיטה סימן לסמוך עליו וכתב בפרישה סי\"א וז\"ל ודוקא במקום שאין רוב ישראל או רוב טבחי ישראל מש\"ה חיישינן שמא החליף בבשר נבלה ואין לסמוך על סימן שחיטה משא\"כ לעיל בסי' א' דשם מיירי במקום שרוב ישראל ורוב טבחים ישראל אמרינן דסמכינן ארוב מצויים אצל שחיטה מומחים הם עכ\"ל וקשה דמשמע דהט\"ו מיירי הכא אפילו במקום שרוב טבחים ישראל ורוב ישראל וכן משמע להדיא ברוקח ס\"ס ת\"ו ובב\"ח בקונטרס אחרון כתב וז\"ל דוקא הכא חיישינן שהחליף כדי להרויח ושחט בעצמו זה שהחליף אבל בנאבדו לו גדייו ותרנגוליו ומצאן שחוטין דכשרים ולא חיישינן דעובד כוכבים שחטן התם ודאי כיון דמכירן שהן שלו ולא נחלפו אין לחוש דעובד כוכבים שחטן בכדי כיון דלית ליה רווחא ומסתמא ודאי ישראל שחטן ורוב המצויים אצל שחיטה מומחין הן עכ\"ל ולא ירדתי לסוף דעתו דהא משמע להדיא באלו מציאות (דף כ\"ד ע\"ב) דאף המוצא בהמה שחוטה דעלמא שאינה שלו מותרת ברוב ישראל וכן משמע מדברי הטור סי\"א המוצא בהמה כו' וכן נתבאר בסי' ס\"ג והרי אינו מכירה שלא נחלפה והמחבר שכתב בסימן א' ס\"ד אם אבדו גדייו ותרנגוליו כו' אורחא דמילתא נקט אי נמי המחבר אזיל לטעמיה דאסר בשר שנתעלם מן העין בסימן ס\"ג והלכך בעינן דוקא גדייו שמכירן שהן שלו משא\"כ לדידן דקי\"ל בשר שנתעלם מן העין שרי אבל נ\"ל ברור דל\"ד כלל לסי' א' דהתם לא הוי ביד עובד כוכבים מעולם אלא דלא ידעינן מי שחטן והלכך אזלינן בתר רובא ואמרינן רוב המצויים אצל שחיטה מומחין הן אבל הכא ששולח ביד עובד כוכבים ויש לחוש שהחליף הטוב ברע והלכך אפילו במקום שרוב ישראל מצויים יש לחוש ששחט בעצמו לזה שהחליף כדי להרויח וגם לא דמי הכא לבשר הנמצא ביד עובד כוכבים דשרי ברוב ישראל כמ\"ש לעיל ס\"ק א' ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:25"
+        },
+        "26": {
+          "he": "שאין סימן שחיטה סימן לסמוך עליו. וכ' המרדכי פג\"ה ומביאו ב\"י ס\"ס ס\"ג מעשה בא לידי בתרנגולת שחוטה ששלחוה ביד עובד כוכבים בלי שומר ונסתפקו בדבר לומר שמא אחרת היתה ונתחלפה והלכו לשוחט ושאלו לו אם שחט זאת התרנגולת והשיב אין לי בה טביעת עין אמנם עתה שחטתי תרנגולת א' אבל בעל התרנגולת היה מכירה ואמר שזאת היא והתרתי אותה כיון שבעל התרנגולת היה מכירה עכ\"ל וכ\"פ מהרש\"ל פ\"ק דחולין סי' כ\"ג ופג\"ה סימן כ\"ה והוסיף אבל אם לא שאלו השוחט לא הוי סימן עכ\"ל ופשוט הוא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:26"
+        },
+        "27": {
+          "he": "אם שלח ע\"י עובד כוכבים בלא חותם כו'. משמע דאף בשאר עובד כוכבים שאינו עבדו ושפחתו מותר בדיעבד אם אותו מקום מעבר לרבים וכ\"כ בת\"ח שם דין ט\"ו דלא כאו\"ה שלא התיר אלא דוקא בשפחתו ועבדו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:27"
+        },
+        "28": {
+          "he": "ואפילו עבדי ישראל כו'. פי' הרב המגיד שהוא בעבדים כנעניסם שמלו וטבלו לשם עבדות והרי הן כנשים עכ\"ל וע\"ל סימן קכ\"ד ס\"ג וסימן רס\"ז:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:28"
+        },
+        "29": {
+          "he": "אף הוא חשוד להחליף. בס\"ס קי\"ט יתבאר דהיינו דוקא לאותו דבר שהוא חשוד לאכול עליו חשוד ג\"כ להחליף ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:29"
+        },
+        "30": {
+          "he": "וכן מותר לקנות גבינה כו'. זהו כ\"ש מבשר שכתב המחבר שהוא מדאורייתא ולא כתבו הרב אלא משום סיפא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:30"
+        },
+        "31": {
+          "he": "ובדיעבד כו'. כלומר אם כבר קנה מן העובד כוכבים ומשמע דקאי אבמקום שאין לחוש שמא נשארו הדפוסים ביד עובד כוכבים וקבעו אותם כו' אלא שלא ידענו מי כתבו או חתמו אבל במקום שיש לחוש שמא נשארו הדפוסים ביד עובדי כוכבים וקבעו אותם בגבינותיהם אסור אפילו בדיעבד ועיין בתשובת ן' לב ח\"ג סי' א' מיהו כתב העט\"ז בסוף הסי' דבמקום הפסד יש להתיר אפי' בכה\"ג בדיעבד ועיין בסוף הסי' ובמ\"ש שם. וכתב בת\"ח כלל פ\"א דין ד' ומנהג ליקח יינות שמביאים העובדי כוכבי' מארץ ישמעאל שקורין משקטע\"ל על ידי חותמיהן שמביאי' כתבים מישראל עכ\"ל וכ\"כ בסימני ת\"ח שם דביין נוהגין להקל וע\"ל סי' ק\"ל סעיף ו':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:31"
+        },
+        "32": {
+          "he": "המניח כו'. בחולין (דף ג' ע\"א) דייק מההיא לישנא דהמניח היינו דיעבד מיהו מסיק התם דאפילו לכתחלה מותר ביוצא ונכנס וא\"כ צ\"ל דמ\"ש הט\"ו האי לישנא משום סיפא נקטוהו דשהה זמן רב ולא הודיעו שדעתו לשהות דאינו מותר אלא בדיעבד וכ\"כ הרב לקמן סי' קכ\"ט סעיף א' דבכה\"ג אסור לכתחלה ע\"ש והוא מהמרדכי פרק רבי ישמעאל בשם ראב\"ן אי נמי כמ\"ש התוס' בחולין שם דהמניח לכתחלה נמי משמע:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:32"
+        },
+        "33": {
+          "he": "אם הוא יוצא ונכנס כו'. נראה דאפי' קטן יוצא ונכנס מהני כדלעיל סי' קט\"ו ס\"א בהג\"ה ואפילו באיסור דאורייתא (ועיין בתשו' הרשב\"א שהביא הב\"י בסי' ק\"ל בד\"ה כתב שאלת אם סומכין בשמירת הפעוטות כו') וכמ\"ש המחבר בסימן ס\"ט ס\"י לענין הדחה ע\"ש ואע\"ג דאיכא למימר דהתם שאני משום דדם שבישלו אינו עובר עליו ואין כאן אלא איסור דרבנן כדשרי' מה\"ט בעובד כוכבי' מסל\"ת שהדיחו וכדמבואר בב\"י שם ובת\"ח סוף כלל מ\"א נראה דדוקא לענין נאמנות איכא לפלוגי דבאיסור דאורייתא אינו נאמן במסל\"ת חוץ מבעדות אשה אבל לענין מירתת ליכא לפלוגי בהכי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:33"
+        },
+        "34": {
+          "he": "והוא שלא סגר הבית עליו. אין רוצה לומר דצריך לידע שלא סגר הבית עליו אבל מן הסתם אסור דהא בעבודת כוכבים (דף ס\"ט ע\"ב) משמע להדיא דמן הסתם לא חיישינן שסגר הדלת אלא רצה לומר שלא נודע שסגר הדלת וכ\"כ בפירוש בסי' קכ\"ט ס\"א ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:34"
+        },
+        "35": {
+          "he": "ואין לחוש שמא כשהחזיר כו'. דמרתת שמא יחזור הישראל פניו מיד ויראהו ובתשובת הרא\"ש כלל י\"ט סימן י\"ח מוכח דאפילו בעובד כוכבים וישראל אכסנאים אין לחוש דהא דשרינן ביוצא ונכנס היינו אפילו באכסנאים שאינם מכירים זה את זה דאינהו נמי מירתתי אהדדי ע\"ש וכן הוא בפסקי תוס' פרק קמא דעבודת כוכבים סי' י\"ב והוא מן התוס' שם ריש דף י\"ב וע\"ל סימן פ\"ח ס\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:35"
+        },
+        "36": {
+          "he": "יש ליזהר אפילו בשתי קדרות. פירוש משום ניצוצות וזה שכתב אפילו ולפי זה כשאין פיהן מגולה אין צריך ליזהר בשתי קדרות ועיין בס\"ק שאח\"ז בסופו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:36"
+        },
+        "37": {
+          "he": "ואינו יוצא ונכנס. משמע דעת הרב דביוצא ונכנס אין צריך להחמיר ולכאורה בהרא\"ש וטור לא משמע כן שאחר שכתבו דין דשתי קדרות שכתב המחבר בסעיף י\"א כתבו ועל זה סומכין להניח הקדרות אצל השפחות כשהולכין לב\"ה דהוי כיוצא ונכנס ונכון לירא שמים להחמיר כי כמה פעמים אירע קלקול בדבר ועוד כדי להשביח חלקה נותנת חלב בקדרה עכ\"ל (ועיין בהרא\"ש עצמו) משמע דאף ביוצא ונכנס יש להחמיר ומה שלמד הרב מתשובת הרא\"ש שכתב ואם ישראל יוצא ונכנס שרי דעתו בתשובה דלענין דינא שרי והיינו שכתב שם וכדאמרינן בפ\"ק דעבודת כוכבי' לא הלכת לצור מימיך וראית עובד כוכבים וישראל ששפתו שתי קדרות כו' ובפסקיו פ\"ק דעבודת כוכבים כ' אהך דהלכת לצור דהיינו מדינא אבל נכון להחמיר ע\"ש אבל המחבר שכתב יש להחמיר כו' וכמו שכ' הרא\"ש בפסקיו ונכון לירא שמים להחמיר כו' אפילו ביוצא ונכנס קאמר ויש לומר דמשמע ליה להרב מדלא השיב הרא\"ש להשואל שם דיש להחמיר לכתחלה אפילו ביוצא ונכנס ש\"מ דביוצא ונכנס אפילו חומרא אין כאן ומה שכתב ונכון לירא שמים כו' אכשהולכין לב\"ה קאי משום דל\"ד ליוצא ונכנס כיון ששוהין בב\"ה זמן מה והשפחות יודעות שדרכן לשהות אבל ביוצא ונכנס ממש א\"צ להחמיר (וע' בסימן קי\"ג ס\"ד) ואין להקשות ממה שכתב הרב בסעיף הקודם דלכתחלה יש ליזהר אף בשתי קדרות ופשיטא דבישראל ועובד כוכבים ששפתו לא גרע מיוצא ונכנס דהתם הטעם משום ניצוצות שיתזו מזו לזו וכמו שכ' בס\"ק שלפני זה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:37"
+        },
+        "38": {
+          "he": "ואם אירע קלקול כו' איסור בקדרה כו'. בשבולי לקט כתוב שנתנה איסור בקדרה להכעיס כו' וכן העתיק הרב בתורת חטאת כלל ל\"ב דין ט' וכאן נשמט תיבת להכעיס משום דלאו דוקא הוא חדא הטעם שכתב שלא ילמדו לעשות כן שייך נמי באם כוונת' להנאתם אלא נקט להכעים לאפוקי אם לא ידעה שאותו דבר שהכניסה בקדרה אסור לישראל וה\"ק שנתנה איסור בקדרה להכעיס דהיינו שידעה שאותו דבר אסור לישראל ואפ\"ה נתנה. וכ' עוד הב\"י בשם שבולי הלקט עובד כוכבים שאמר אל תאכל מקדרה זו שאני השלכתי בו חלב אין מקבלין ממנו אלא מותרת היא עכ\"ל וכ\"פ הרב בת\"ח כלל ל\"ב דין ט' וכתב שהוא פשוט מהביא עובד כוכבים פירות לשוק שאין העובד כוכבים נאמן לא לאיסור ולא להיתר וע\"ל סי' קכ\"ב ס\"ג וע\"ל סי' קכ\"ז:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:38"
+        },
+        "39": {
+          "he": "אין להאכילה אותו מאכל כו'. בשבולי הלקט כתב לא לאותו עובד כוכבים ולא לעובדי כוכבים אחרים וכ\"כ בת\"ח ובסימני ת\"ח שם וכאן שכתב הרב אין להאכילה סתם כו' צ\"ל דל\"ד קאמר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:39"
+        },
+        "40": {
+          "he": "אין חוששין כו'. שירא העובד כוכבים שיחוש שהיהודי רגיל לעשות חותמו במקום מיוחד ועוד שמא ירגיש הישראל בדבר מחמת שהאחרונות שנעשו אחר כך הם לחות יותר ועוד דאיכא ספיקי טובא כי שמא לא בא החותם הנאבד מעולם ליד עובד כוכבים ואת\"ל בא לידו שמא לא זייף ואת\"ל זייף שמא לא העמיד אלא בדבר המותר עכ\"ל מרדכי והנה הב' טעמים הראשונים אינן מספיקין אלא לאותן הגבינות שהניח הישראל בבית העובד כוכבים והטעם האחרון מספיק גם לקנות ממנו גבינות אחרות ועיין בסעיף ט' בהג\"ה ובמ\"ש שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:40"
+        },
+        "41": {
+          "he": "וכן אין לחוש שמא החליק כו'. דלא חיישינן שמא כוון להכשילו כל זמן שאין לעובד כוכבים הנאה בדבר וכדלעיל סעיף י' ועיין בסעיף ב' בהג\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:41"
+        },
+        "42": {
+          "he": "אבל אם לא הניחו כך. פי' אע\"פ שהניחו במקום אחר במקום מיוחד בכוונה מ\"מ כיון דלא הניחו מונח על הגבינות סבור העובד כוכבים שאין הישראל יודע היכן הניחו ואסור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 118:42"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "צריך שני חותמות. בטור כתב הטעם בשם רש\"י דחבי\"ת צריך שני חותמות וחמפ\"ג חותם אחד דחבי\"ת דמיו יקרים וביין משום חיבת נסך ולפי זה הנך דוקא אבל הרשב\"א תולה הטעם דחבי\"ת איכא בו חשש איסור דאוריי' וחמפ\"ג דרבנן וחשיב בהו חלב. והקשה בדרישה דהא חלב הוא גם כן איסור דאורייתא בחילוף חלב טמא ותירץ דהתערובות הוא מדרבנן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 118:1"
+        },
+        "2": {
+          "he": "רק בישראל חשוד. שהוא גרע מעובד כוכבים שבטוח שיאמינוהו ולא מירתת כל כך ואע\"ג דבסימן פ\"ו כתב הטור בשם הרמב\"ם דעובד כוכבים גרע מישראל שאינו מוחזק בכשרות התם על כל פנים אינו חשוד בבירור והך חשוד פירושו במידי דרבים נזהרים בו כמ\"ש בסעיף ח':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 118:2"
+        },
+        "3": {
+          "he": "אבל בעובד כוכבים הכל שרי כו'. דהתוספות מקשים דהכא אמרינן ביין שהוא בכלל חבי\"ת שצריך שני חותמות ולעיל בההיא פירקא אמרינן הלכה כר\"א דאמר מפתח וחותם ויש גורסים מפתח או חותם די בכך ע\"כ תירץ ר\"ת דההיא דחבי\"ת מיירי בישראל חשוד ולעיל מיירי בעובד כוכבים והקשו התוס' עליו ופירשו דיש חילוק בין שליח למפקיד וכמ\"ש הש\"ע בסמוך ובגירס' דר' אליעזר שזכרתי יש חילוק דר\"ת גורס או חותם והרשב\"א גורס וחותם ולדידיה לא הוי מפתח חותם כלל במקום שצריך רק חותם אחד אלא במקום שצריך שני חותמות אז מהני מפתח בצירוף כמ\"ש הש\"ע סעיף ד' והנה לפי מ\"ש רמ\"א כאן והוא ע\"פ או\"ה דבדיעבד יש לסמוך על ר\"ת ולהתיר בשולח ע\"י עובד כוכבים בחותם אחד ממילא שרי במפתח לחוד גם כן לפי גירסא שלו דגריס מפתח או חותם וא\"כ כשכתב הש\"ע בסעיף ד' דבדברים שדי בחותם אחד לא מהני מפתח היה לו לרמ\"א לכתוב עליו דבדיעבד מהני מפתח דחד טעמא הוא דכיון דנסמוך אדברי ר\"ת נסמוך עליו גם בזה דהא בהא תליא ולכן תימא על האו\"ה שבכלל כ\"ב פסק להתיר בדיעבד כר\"ת כפסק רמ\"א כאן ואח\"כ כתב בשם י\"ד דמפתח לא הוי כחותם אחד ואפשר דזה כתב דרך לכתחלה אבל דיעבד ודאי סגי במפתח וכן פירש מו\"ח ז\"ל אך שהביא ראייה מדברי המרדכי ז\"ל פרק רבי ישמעאל וז\"ל בתפיסת צרפת התיר רבי חיים כהן שהיו השומרים בבתי היהודים והמפתחות בידם ומחפשים ויהודי אין בבית ימים רבים והתיר אף בלא פתח פתוח לרשות הרבים ועל זה נפלאתי ושמא מטעם זה התיר דהואיל והיה נתפס על היין כגנב אע\"ג דננעל הפונדק הואיל ואם בא היהודי היה מרתת כגנב כו' עכ\"ל וסבר מו\"ח ז\"ל דהך והמפתחות בידם פירושו ביד היהודים ומזה הביא ראייה דמהני מפתח ביד ישראל ולא דק דאם כן הוה אדרבה מוכח משם לאיסור דהא לא מצא המרדכי טעם להתיר רק מכח מרתת העובד כוכבים וטעם מרתת הוא אף בלא חותם כלל כמבואר בסי' קכ\"ט וא\"כ מוכח דלא מהני מפתח ובאמת אין הפירוש כך אלא והמפתח בידם ר\"ל ביד השומרים וכן הוא משמעות הדברים וכך מבואר במרדכי בפרק השוכר במעשה זה דר\"ח כהן כתב המרדכי שם בפירוש ואפילו מסר לו המפתח כו' ע\"כ הוכרח לטעם דמירתת העובד כוכבים אבל באמת אי הוי ביד ישראל הוי מותר מטעם חותם לר\"ת כן נראה לע\"ד ברור דיפה כוון מו\"ח ז\"ל לדינא ורמ\"א קיצר במקום שהיה לו לכתוב היתר לדידן בדיעבד בסעיף ד':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 118:3"
+        },
+        "4": {
+          "he": "ובדיעבד יש לסמוך על זה. כ\"כ או\"ה כלל כ\"ו גם בתוס' (דף ס\"ט) איתא כן ולע\"ד נראה דכ\"ע מודים (ביין) [ בזה הזמן] דהא עיקר הטעם דחיישי' ביין שצריך שני חותמות אע\"פ שהוא דרבנן הוא מצד שחיבת היין נסך עליו כמו שזכרתי בסעיף א' ובזמן הזה לאו עובדי עבודת כוכבים הם כמ\"ש לקמן ע\"כ אין שייך חיבת נסך ממילא לכ\"ע די בחותם אחד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 118:4"
+        },
+        "5": {
+          "he": "או הוא יין ויש לחוש כו'. דבר זה תמוה דהא ודאי נהנה מחליפין זה שישתה ממנו ויתן שם מים ובזה ודאי אין שייך לומר שרואה שהיין הוא טוב כבתחלה דהא אסור לטועמו ודוקא בבשר שייך לומר כן שמראיהו כבתחלה שמן וטוב אבל לא במידי דתלי בטעמא ונראה פירוש דבריו דביין יש חשש אפי' אם ברור לנו שלא שתה ממנו כגון שהיו שומרים מבחוץ שלא יכול להביא שם מים לערב שם ורואין שלא נחסר משיעורו אפ\"ה יש חשש מחמת נגיעה אע\"פ שאינו נהנה ממנה מ\"מ היכא שהוא בגיגית או בכוס רחב יש לחוש שמא מתוך שהיה מתעסק נגע ביין וכמ\"ש רמ\"א בסי' קכ\"ח סעיף ד' ובלבוש כתב הטעם מחמת חיבת נסך ואינו כן דא\"כ היה להיות מותר לדידן וזה אינו וכ\"כ באו\"ה כלל כ\"ב בשם סמ\"ג:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 118:5"
+        },
+        "6": {
+          "he": "אבל בדברים שדי בחותם אחד כו'. כבר כתבתי בסעיף א' דלדידן כשר בדיעבד במפתח אפילו במקום שאין צריך רק חותם א':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 118:6"
+        },
+        "7": {
+          "he": "וגם השק. פי' שגם השק חתם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 118:7"
+        },
+        "8": {
+          "he": "אם שלח ע\"י עובד כוכבים ירך כו'. משמע דוקא דיעבד אבל לכתחלה לא וכ\"כ באו\"ה כלל כ\"ב ומבואר בדברינו סימן ס\"ג בשם המרדכי דכל שיש לו ט\"ע במה ששלח לו על ידי העובד כוכבים שרי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 118:8"
+        },
+        "9": {
+          "he": "כל חתיכה שניכר בה ניקור ישראל כו'. נראה פשוט שבכלל זה תרנגולת שניכר בה ניקור הגידין של צואר כמו שישראל עושין שיש לסמוך ע\"ז להיתר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 118:9"
+        },
+        "10": {
+          "he": "מעבר לרבים כו'. פירוש אפילו במקום דלא שכיחי רבים ישראל אלא עובדי כוכבים מסתפי זה העובד כוכבים שלא יראוהו עובדי כוכבים ויגידו לישראל וכמ\"ש בטור וש\"ע סי' קכ\"ט סעיף ד':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 118:10"
+        },
+        "11": {
+          "he": "ומיהו לכתחלה כו'. בת\"ח כלל ל\"ב כתב דנוהגין לשלוח ע\"י עובד כוכבי' במקום מעבר לרבים והיא שכונת ישראל ואין עובדי כוכבים מצויין שם עכ\"ל דמידע ידעי שהוא של ישראל. תמיה לי טובא הא איכא למיחש שמא היה באמת של ישראל והיה בדעתו לאוכלו ועשה לו סי' להכירו בין שאר חתיכות טריפות ואח\"כ נודע לו שהיתה זו טריפה וסברא זו בעצמה כתב הרשב\"א עצמו שהוא מריה דהאי דינא במקום אחר בספר משמרת הבית (דף קי\"ח) סוף עמוד ב' וגם התוס' כתבוהו בפרק ג\"ה (דף צ\"ד) דיבור המתחיל חיתוכה דעובד כוכבים כו' לענין אם חתך במקום הגיד דחייש ישראל שמא אחר כך נודע לו שהוא טריפה ולכך שולחה לעובד כוכבים אחר הניקור עכ\"ל ומנא לן דכאן לא ניחוש לזה ונקל בספק דאורייתא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 118:11"
+        },
+        "12": {
+          "he": "יש ליזהר אפילו בשתי קדירות. בד\"מ בשם מרדכי בפרק אין מעמידין והטעם שלא יתחלפו זה בזה ויליף לה מפ' כיצד צולין דאין צולין שני פסחים בתנור א' ואפילו גדי וטלה משום תערובת גופים ולפי זה אי הוי שתי קדירות של ישראל אחת של בשר ואחת של חלב אין איסור אפילו לכתחלה לבשלם בתנור אחד כיון דאין שייך שם לחלופי והדורשים מראה מקום כתבו שדברי רמ\"א הם בטור וטעות הוא: כתוב באגודה פרק ג\"ה פעם אחת נתפסו היהודי' ונטלו העובדי כוכבי' כל אשר להם ונתפשרו והוחזר להם ומצאו קדירותיהם בשומן של אווז ואמרו שהכירום בטביעות עין כאשר הניחום נ\"ל להתיר דלא גרע מטביעת עין דקלא ותו איתא במרדכי פרק א\"מ שכתב כשישראל נותן לעובד כוכבים תבשיל בקדירה להוליכו בביתו של עובד כוכבים יזהירנו הישראל שלא ידיח הקערה אך יש להניח בה קצת משיורי התבשיל וכן שיביאנה בו ביום עכ\"ל ותימא איך יסמוך על זה שיאמר לעובד כוכבי' שיניח בה שיורי המאכל דילמא ישתמש בה ואח\"כ יחזור ויתן בה משיורי המאכל. ומו\"ח ז\"ל העתיק תשובת מהר\"ר מנחם קדרה שנשאר' בין העובדי כוכבים וכבר לקח ישראל אחד מן השומן שבקדרה בכף מועט וכשהוחזר הקדרה עם השומן הכיר הישראל הגומא שבשומן שנלקח ממנו השומן שהיתה בו כמו שהניחה נראה להתיר דבכהאי גוונא שייך טביעת עין עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 118:12"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "וחלב ומורייס. עש\"ך (והובא בבה\"ט סק\"ב) שכתב אף דחלב טמא הוא איסור תורה מ\"מ כיון דחלב טהור חיור. טמא ירוק אם היה מחליף כולו או רובו מינכר וא\"כ אינו אסור אלא מדרבנן דמין במינו בטל ברוב מדאורייתא עכ\"ל ותימא דהרי הש\"ך לעיל סי' צ\"ח סק\"ו מסיק דאזלינן בתר טעמא וא\"כ הרי חלב טמא משונה בטעמו מחלב טהור וצריך ס' מדאורייתא ומצאתי בתשובת נו\"ב תניינא חלק או\"ח סי' ס\"ו שתמה ג\"כ בזה וכתב ליישב משום דהא דטכ\"ע דאורייתא ילפינן ממשרת או מגיעולי עובדי כוכבים אמרינן דדוקא באיסורים דכוותייהו שהם לאוין שיש בהם מלקות ולא בלאוין שאין בהם מלקות כגון חלב טמא וכיוצא לא אמרינן טעם כעיקר מן התורה רק מדרבנן אסור ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 118:1"
+        },
+        "2": {
+          "he": "מד\"ס. ע' בתשובת מהר\"י הלוי סי' י\"ד שכתב דאם שלח חמאה ביד עובד כוכבים שמותר אף בלא חותם ע\"ש וכ\"כ אחיו הט\"ז משמו לקמן סי' קכ\"ז סק\"ז:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 118:2"
+        },
+        "3": {
+          "he": "חותם אחד. ע' בשו\"ת שמש צדקה חיו\"ד סי' ט\"ו שנשאל במי ששלח לחבירו מעיר לעיר ע\"י עובד כוכבים חלקת צווארי אווז מלאים בשר מונחים בתיבה א' במסמרות נטועות בלי שום חותם רק על כל א' מהם פיתק תלוי וכתב בו פסח אשר איננו שוה להיות נקרא חותם מה דינם אי חשיבי המסמרות כחותם שנוכל להקל בדיעבד כדעת רמ\"א ז\"ל דע\"י עובד כוכבים די בחותם א' והשיב להתיר במקום הפסד מרובה וצירף כמה טעמים להקל ולומר דאלו המסמרות חשיב כחותם אף לענין זה שהוא איסור דאורייתא וכתב שהרצה דברים לפני הרב מהר\"ר יוסף פיאמיטה והוסיף הוא ז\"ל עוד טעם לפי שכתב בש\"ע לקמן ס\"ה אם שלח ע\"י עובד כוכבים ירך בלא חותם והיא חתוכה כו' וה\"ה בנ\"ד שהרי אין דרך עובד כוכבים לעשות כאלה ודאי דלכ\"ע בדיעבד שרי בחותם כל דהו ואף בלא חותם עכ\"ז למיגדר מלתא כו' אם לא בהפסד מרובה ע\"ש ולע\"ד קשה לסמוך ע\"ז לחוד היכא ששלח בלי חותם כלל אף בהפ\"מ דאף שאין דרך עובד כוכבים לעשות כאלה מ\"מ כיון דבקל יכולים לעשות כן דמי לשחיטה שאינו סימן לסמוך עליו כדלקמן סי' ו' וצ\"ע בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 118:3"
+        },
+        "4": {
+          "he": "שהחותם מקולקל. עיין בתשובת נ\"ב חיו\"ד סי' ל\"ח:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 118:4"
+        },
+        "5": {
+          "he": "אין כתב סימן. ע' במג\"א פי' ל\"ב ס\"ק י\"ג:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 118:5"
+        },
+        "6": {
+          "he": "[וכיוצא בו. עבה\"ט מ\"ש שבכלל זה תרנגולת כו' ושמעתי בשם רב גדול אחד שהתיר כמו כן בתרנגולת שניכר בה שהובהבה באש על קש ותבן להסיר שיורי נוצות שעליה כמו שישראל עושין כמ\"ש לעיל סי' ס\"ח ס\"ג בהגהה לפי שהעובדי כוכבים אין עושין כן רק מולגין ברותחין ועוד היה מעשה באווז קודם ההבהוב שלקחה עבד השר עבור מכס ואחר ב' שעות החזירה לבעלים ולא ניכר בה סימן והתיר ג\"כ ע\"י סימן בהנוצות שבראשי כנפים שנחסר מכל כנף ג' נוצות הטובים לכתיבה שמנהג בכל תפוצות ישראל שתולש אותם השוחט מיד אחר השחיטה וצ\"ע]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 118:6"
+        },
+        "7": {
+          "he": "אין להאכילה. עבה\"ט וע' בספר תפארת למשה שכתב שיש חילוק אם נתנה להכעיס אסור להאכיל גם לעובדי כוכבים אחרים אבל אם נתנה להנאתה שרי להאכיל לעובדי כוכבים אחרים דהא לא נתקיימה מחשבתה עכ\"ד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 118:7"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ובשר.  וכתב הש\"ך היינו אפילו במקום שהטבחים ישראל ול\"ד למ\"ש בש\"ס ס\"ג שאם היה ביד עובד כוכבים בשר במקום שרוב מוכרים ישראלים כשר דיש לחלק דהתם מיירי בנמצא בשר ביד עובדי כוכבים שלקחו מהמקולין דליכא למיחש שמא נבלה לקח וגם ליכא למיחש לאחלופי בנבלה דלאיזה צורך יחליפו אבל הכא מיירי ששולח או מפקיד ביד עובד כוכבים דאיכא למיחש לאחלופי בנבלה שלו ועוד דשוהה זמן רב אצלו ויש לו שהות להחליפו משא\"כ התם בלוקח מהמקולין וע\"ל בר\"ס קכ\"ח ומיהו בחב\"ח בדברים האסורים מן התורה ובחותם א' באיסורי דרבנן מותר אפילו לכתחלה לשלוח ע\"י עובד כוכבים ומ\"ש המחבר שהפקיד וכו' לשון דיעבד הוא לאו דוקא וכ\"כ המחבר להדיא בר\"ס ק\"ל ופשוט הוא וכמו שהדין בעובד כוכבים כן הוא בישראל חשוד בענין זה עכ\"ל וע\"ש שהאריך קצת בזה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:1"
+        },
+        "2": {
+          "he": "דבש.  כתב הש\"ך צ\"ל דמיירי שעירב לו כ\"כ דבש עד שנשתנה טעם היין מחמתו דבכה\"ג אין בו משום יי\"נ וע\"ל סי' קכ\"ג ומ\"ש וכן החומץ ר\"ל חומץ של היין והיינו שמבעבע כשמשליכין אותו על הארץ שאז הוי חומץ גמור ואין ראוי לנסך ואם כן למאי ניחוש לה אי משום חיבת ניסוך הלא אין ראוי לנסך ואי משום שמא יחליף בחומץ של יי\"נ כיון דסתם יינם אינם אלא מדרבנן לא חיישינן להכי וסגי בחותם א' והיינו דמורייס ויין מבושל ויין שעירבו בו דברים אחרים דסגי להו בחותם א'. ועי\"ל סי' הנ\"ל ס\"ו ומ\"ש וחלב אע\"ג דיש לחוש שיחליף בחלב טמא שהוא מדאורייתא י\"ל שחלב טמא ניכר שהוא עכור וא\"כ אין לחוש שיחליף כולו או רובו אלא יש לחוש שמא החליף מעט דאינו אסור אלא מדרבנן דמן התורה מין במינו בטל ברוב ומ\"ש ומורייס נמי איכא למיחש שמא יחליף במורייס שלהן שהוא אסור במקום שדרכן לתת לתוכו יין כמ\"ש בסי' קי\"ד סי\"א אבל במקום שאין דרכן ליתן לתוכו יין או במקום שהיין ביוקר יותר מן המורייס פשיטא דא\"צ חותם כלל ומ\"ש ופת פשיטא שבמקום דנוהגין היתר בפת של עובד כוכבים דא\"צ חותם כלל. (ופר\"ח כתב אף במקום דנוהגין היתר בפת פלטר צריך חותם שמא יחליפו בפת ב\"ב דאסור בכל מקום). ומ\"ש וגבינה אע\"פ שיש לחוש שיחליף בגבינה שלהם שאסורה מפני שמעמידין אותה בעור קיבת נבלה מ\"מ מדאורייתא נמי בטל העור במיעוטו ומה שלא בטיל הוא מדרבנן א\"נ והוא העיקר כיון דאיכא למימר שמא לא העמידה אלא בעשבים ואפ\"ה אסורים משום שמא העמיד בעור נבלה הוי שפיר מדרבנן ודוק עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:2"
+        },
+        "3": {
+          "he": "וי\"א.  ולקמן ר\"ס ק\"ל סתם המחבר כסברא הראשונה וצ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:3"
+        },
+        "4": {
+          "he": "הודיעו.  כ' הש\"ך וה\"ה אם אינו מודיע לחבירו אלא שאומר לעובד כוכבים שמודיע נמי מירתת דסבר שהאמת כן הוא וכל זה נמשך לסברא האחרונה משא\"כ לסברא הראשונה וק\"ל ומיהו אף בשולח בב' חותמות נכון הדבר להודיע לחבירו צורת החותם כדי שיחזור אחריו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:4"
+        },
+        "5": {
+          "he": "חשוד.  דגרע לענין זה מעובד כוכבים לפי שהוא בטוח שיאמינוהו ולא מירתת כ\"כ ומיירי שהוא חשוד להחליף דאין לפרש שחשוד לאכול אותו דבר שמשלח ע\"י דהא קי\"ל מי שהוא חשוד לאכול דברים האסורים אינו חשוד להחליפם ואולי חשיבי הני דברים שאין הרבים מקילין בהם שאף הוא חשוד להחליפם אם חשוד לאוכלם כמ\"ש המחבר בסי' קי\"ט אבל הרשב\"א כתב שאכילת גבינה של עובד כוכבים קילא בעיני רבים וכ\"כ הטור בסי' הנ\"ל דהחשוד על הגבינה אינו חשוד להחליף עכ\"ל הש\"ך והט\"ז פסק דבעובד כוכבים די בחותם א' ומפתח הוי כחותם (ובנה\"כ השיג עליו דלא מהני מפתח אלא בדבר שצריך ב' חותמות אז סגי במפתח וחותם אבל לא במה שצריך רק חותם א' ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:5"
+        },
+        "6": {
+          "he": "שתי.  וה\"ה יותר ולקמן סי' ק\"ל ס\"ח התנה הרב תנאים בזה ע\"ש ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:6"
+        },
+        "7": {
+          "he": "בנגיעה.  כתב הט\"ז נראה פירושו דביין יש חשש אפילו אם ברור לנו שלא שתה ממנו כגון שהיו שומרים מבחוץ שלא היה יכול להביא שם מים לערב ורואין שלא נחסר משיעורו אפ\"ה יש חשש משום נגיעה אף על פי שאינו נהנה ממנו דיש לחוש שמא מחמת שהיה מתעסק (משום חיבת ניסוך) נגע ביין כמ\"ש רמ\"א בסי' קכ\"ח ס\"ד וזה אסור אפילו לדידן דלא כלבוש עיין שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:7"
+        },
+        "8": {
+          "he": "כחותם.  משמע דאפילו בדברים שדי בחותם א' חשוב אות א' כסימן ועדיף ממפתח שכ' המחבר בסעיף שאח\"ז. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:8"
+        },
+        "9": {
+          "he": "מפתח.  עי' מ\"ש לעיל ס\"ק ה':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:9"
+        },
+        "10": {
+          "he": "השק.  פי' שגם השק חתם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:10"
+        },
+        "11": {
+          "he": "כשרה.  כתב הט\"ז משמע דוקא דיעבד אבל לכתחלה לא:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:11"
+        },
+        "12": {
+          "he": "וכיוצא.  נראה פשוט שבכלל זה תרנגולת שניכר בה ניקור הגידין של צואר כמו שישראל עושין שיש לסמוך על זה. ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:12"
+        },
+        "13": {
+          "he": "דרבנן.  מבואר בת\"ה באיסור דרבנן אפילו ראה יהודי שהיה החותם נשבר ומקולקל לגמרי והיה ניכר בודאי שנפתח החותם מותר בענין זה. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:13"
+        },
+        "14": {
+          "he": "שחוטים.  כתב הש\"ך ול\"ד למ\"ש בסי' א' דאם אבדו גדייו דמותר אם הם שחוטים דהתם לא הוי ביד עובד כוכבים מעולם אלא דלא ידעינן מי שחטם הלכך אזלינן בתר רובא דרוב מצויין אצל שחיטה מומחים הם אבל הכא ששולח ביד עובד כוכבים ויש לחוש שהחליף הטוב ברע הלכך אפילו במקום שרוב ישראל מצויים יש לחוש ששחט בעצמו לזה שהחליף וכ' המרדכי וז\"ל מעשה בא לידי בתרנגולת שחוטה ששלחוה ביד עובד כוכבים בלי שומר ונסתפקו בדבר לומר שמא אחרת היתה ונתחלפה והלכו לשוחט ושאלו לו אם שחט זאת התרנגולת והשיב אין לי בה טביעת עין אמנם עתה שחטתי תרנגולת א' אבל בעל התרנגולת היה מכירה ואמר שזאת היא והתרתי אותה כיון שבעל התרנגולת היה מכירה עכ\"ל והוסיף מהרש\"ל אבל אם לא שאלו לשוחט לא הוי סי' ופשוט הוא (וע\"ל ס\"ס ס\"ג מ\"ש בשם הט\"ז):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:14"
+        },
+        "15": {
+          "he": "לרבים.  כתב הש\"ך משמע אפילו בשאר כותי שאינו עבדו ושפחתו מותר בדיעבד במקום מעבר לרבים (ודלא כאו\"ה שלא התיר אלא בשפחתו ועבדו). וכתב הט\"ז ואפילו במקום דלא שכיחי רבים ישראל אלא עובדי כוכבים מסתפי זה העובד כוכבים שלא יראוהו עובדי כוכבים אחרים ויגידו לישראל כמ\"ש בסי' קכ\"ט ס\"ד ובת\"ח כתב דנוהגין לשלוח ע\"י עובד כוכבים במקום מעבר לרבים והוא שכונת ישראל ואין עובדי כוכבים מצויין שם עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:15"
+        },
+        "16": {
+          "he": "להחליף.  בס\"ס קי\"ט יתבאר דהיינו דוקא לאותו דבר שהוא חשוד עליו חשוד ג\"כ להחליף ע\"ש. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:16"
+        },
+        "17": {
+          "he": "ידיע.  כתב הט\"ז תמיהא לי טובא הא איכא למיחש שמא באמת של ישראל היה ועשה לו סי' להכירה בין שאר חתיכות טריפות ואח\"כ נודע לו שהיתה זו טריפה ולכך נמצאת עתה ביד עובד כוכבים ומנ\"ל להקל בספק דאוריי' (ובנה\"כ תירץ דמיירי שיש עליו חותם או נכתב עליו תיבת כשר שזה אין דרך לעשות עד שיודע בודאי שהוא כשר ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:17"
+        },
+        "18": {
+          "he": "ובדיעבד.  כתב הש\"ך כלומר אם כבר קנה מן העובד כוכבים (עיין פר\"ח ס\"ק ל\"א) ומשמע דקאי אבמקום שאין לחוש שמא נשארו הדפוסים ביד עובדי כוכבים וקבעו אותם כו' אבל אם יש לחוש שנשארו הדפוסים ביד עובדי כוכבים אסור אפילו בדיעבד מיהו כתב בלבוש דבמקום הפסד יש להתיר אפילו בכה\"ג בדיעבד וכתב ב\"ח ומנהג ליקח יינות שמביאים העובדי כוכבים מארץ ישמעאל שקורין מושקטע\"ל ע\"י חותמיהון שמביאים כתבים מישראל וע\"ל סי' ק\"ל ס\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:18"
+        },
+        "19": {
+          "he": "ונכנס.  כתב הש\"ך נראה דאפילו קטן יוצא ונכנס מהני כדלעיל סי' קט\"ו ס\"א בהג\"ה (ואפי' באיסור דאוריי') ומסיק בש\"ס דאפילו לכתחלה מותר ביוצא ונכנס וא\"כ צ\"ל דמ\"ש הט\"ו האי לישנא משום סיפא נקטוהו דשהה זמן רב ולא הודיעו שדעתו לשהות דאינו מותר אלא בדיעבד וע\"ל סימן קכ\"ט ס\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:19"
+        },
+        "20": {
+          "he": "סגר.  ומן הסתם אמרינן דלא סגר אא\"כ שנודע שהיה סגור. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:20"
+        },
+        "21": {
+          "he": "לחוש.  (וכתב פר\"ח דדעת רוב הפוסקים להתיר אף ביוצא ונכנס וכן עיקר ע\"ש) ובתשובת הרא\"ש מוכח דאפילו בעובד כוכבים וישראל אכסנאים אין לחוש דהא דשרינן ביוצא ונכנס היינו אפילו באכסנאים שאינה מכירים זא\"ז דאינהו נמי מירתתי אהדדי ע\"ש ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:21"
+        },
+        "22": {
+          "he": "ליזהר.  כתב הש\"ך פי' משום ניצוצות וזה שכתב אפילו ולפ\"ז כשאין פיהן מגולה א\"צ ליזהר בשתי קדרות והט\"ז כתב דהטעם שלא יתחלפו זה בזה ולפ\"ז אי הוי ב' קדרות של ישראל א' של בשר וא' של חלב אין איסור אפילו לכתחלה לבשלם בתנור א' כיון דאין שייך שם לאחלופי:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:22"
+        },
+        "23": {
+          "he": "ונכנס.  כתב הש\"ך משמע דעת הר\"ב דביוצא ונכנס א\"צ להחמיר (דעיקר מה שיש להחמיר הוא כשהולכים לבה\"כ שיודעות השפחות שמשהין שם זמן מה. אבל ביוצא ונכנס א\"צ להחמיר כלל ש\"ך ופר\"ח) וא\"ל ממ\"ש בסעיף הקודם דלכתחלה יש ליזהר אף בב' קדרות ופשיטא דישראל ועובד כוכבים ששפתו לא גרע מיוצא ונכנס דהתם הטעם משום ניצוצות שיתזו מזו לזו כמ\"ש לעיל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:23"
+        },
+        "24": {
+          "he": "להאכילה.  בשבולי הלקט כ' לאכול אותו עובד כוכבי' ולא לעובדי כוכבים אחרים והיינו שידעה שאותו דבר אסור לישראל ואפ\"ה נתנוהו לישראל וכ' עוד עובד כוכבים שאמר אל תאכל מקדרה זו שאני השלכתי בה חלב אין מקבלין ממנו אלא מותרת היא עכ\"ל וכ\"פ בת\"ח שאין העובד כוכבים נאמן לא לאיסור ולא להיתר וע\"ל סי' קכ\"ב ס\"ג וסי' קכ\"ז וכ' המרדכי כשישראל נותן לעובד כוכבים תבשיל בקדרה להוליכו בביתו של עובד כוכבים יזהיר אותו הישראל שלא ידיח הקערה אך יש להניח בה קצת משיורי התבשיל וכן שיביאנה בו ביום עכ\"ל ותימא איך יסמוך ע\"ז שיאמר לעובד כוכבים שיניח בה שיורי המאכל דלמא ישתמש בה ואח\"כ יחזור ויתן בה משיורי המאכל והב\"ח ז\"ל העתיק תשובת מהר\"ר מנחם קדרה שנשארה בין העובד כוכבים וכבר לקח ישראל א' מן השומן שבקדרה בכף מועט וכשהוחזר הקדרה עם השומן הכיר הישראל הגומא שבשומן שנלקח ממנו השומן שהיתה בו כמו שהניח נראה להתיר דבכה\"ג שייך טביעת עין עכ\"ל הט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:24"
+        },
+        "25": {
+          "he": "שמא.  כתב הש\"ך מאחר דאיכא ספיקי טובא נראה דמותר לקנות ממנו גם גבינות אחרות ע\"ש וכן אין לחוש שהחליק וכו' דלא חיישינן שכוון להכשילו כל זמן שאין לעובד כוכבים הנאה בדבר וכמ\"ש בס\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:25"
+        },
+        "26": {
+          "he": "מונח.  פי' שהניחו במקום מיוחד על הגבינות אבל אם הניחו במקום אחר אף במקום מיוחד בכוונה מ\"מ כיון דלא הניחו מונח על הגבינות סבור העובד כוכבים שאין הישראל יודע היכן הניחו ואסור (אבל אם הניחו מונח על הגבינות אז מירתת העובד כוכבים ליטול החותם שמא עשה ישראל סימן בהנחתו) ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 118:26"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

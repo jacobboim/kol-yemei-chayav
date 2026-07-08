@@ -1,0 +1,599 @@
+{
+  "chelek": "YD",
+  "siman": 216,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 12,
+  "fetchedAt": "2026-07-08T00:01:25.454Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "חילוק בין האומר פירות אלו או לא אמר אלו ודין הנודר מהמבושל (וכיצד הולכין בנדרים אחר לשון תורה). ובו י\"ב סעיפים:קונם פירות האלו עלי אסור בחילופיהם ובגידוליהם ואין צריך לומר במשקין היוצאין מהן וכן אסור בגידולי גידוליהן אבל חילופי חילופיהן מותרים ואם הוא דבר שזרעו כלה גידולי גידוליו מותרים וכן הדין אם לא אמר האלו אלא היו לפניו ואמר קונם הם עלי: הגה וכן אם אמר פירות פלוני או מקום פלוני הם קונם עלי הוי כאילו אמר פירות אלו. (ב\"י בשם הר\"ן):",
+      "en": "De la différence qui existe entre le vœu formulé ainsi: «Que ce fruit me soit défendu», et le vœu formulé sans l’emploi du démonstratif. — Du vœu concernant un aliment cuitLorsqu’on dit: «Que ces fruits me soient interdits», ces fruits sont défendus sous n’importe quelle forme, et ceux provenant de leur reproduction sont également défendus. Il va sans dire qu’on ne doit pas boire une boisson qui serait faite avec les fruits en question. Les fruits de la deuxième reproduction sont également interdits, mais non ces fruits qu’on aurait d’abord préparés d’une certaine façon, et auxquels on aurait ensuite donné une forme nouvelle. Quand les fruits sont d’une espèce telle qu’ils ne se reproduisent que par putréfaction et anéantissement de la graine, la seconde reproduction est permise. Si une personne, ayant des fruits devant elle, fait vœu qu’ils lui soient défendus, c’est comme si elle s’était servie du mot «ces».GLOSE: Si l’on dit: «Que les fruits d’un tel, ou: que les fruits de tel lieu, me soient défendus», c’est comme si on se servait du démonstratif «ces».",
+      "ref": "Shulchan Arukh, Yoreh Deah 216:1"
+    },
+    {
+      "seif": 2,
+      "he": "אמר קונם מה שאני אוכל או טועם מהם אם הוא דבר שזרעו כלה כגון חטים וכיוצא בהם מותר בחילופיהם ובגידוליהם ואם הוא דבר שאין זרעו כלה כשזורעין אותו כגון שום ובצלים אפי' גידולי גידולין אסורים וכן משקים היוצאים מהם אסורים וכן אם אמר קונם פירות האלו על פלוני אסור בחילופיהם ובגידוליהם:",
+      "en": "Lorsqu’on a dit: «Si je mange ou si je goûte de ces fruits, qu’ils me soient défendus», il y a deux cas à considérer:\r1° La graine de ces fruits se pourrit en terre, avant de reproduire, comme cela a lieu pour le froment; alors les mets que l’on prépare avec ces fruits sont permis, ainsi que les fruits de la reproduction;\r2° Si, au contraire, ce sont des fruits qui ne se reproduisent pas par anéantissement de la graine, comme c’est le cas pour l’ail, l’oignon, la seconde reproduction est encore interdite, ainsi que les boissons fabriquées avec ces fruits.(a)On comprend l’idée attachée à l’anéantissement ou au non-anéantissement de la graine mise en terre: cette graine faisait partie intégrante du fruit qu’on s’est interdit par le vœu. Si une personne dit: «Que ces fruits soient interdits à un tel», les fruits sont défendus pour la seconde personne, tout comme si cette personne avait prononcé le vœu elle-même.(a’)Bien entendu ces fruits appartiennent à la personne qui prononce le vœu.",
+      "ref": "Shulchan Arukh, Yoreh Deah 216:2"
+    },
+    {
+      "seif": 3,
+      "he": "אמר לאשתו קונם מעשה ידיך עלי אסור בחילופיהם ובגידוליהם. אמר קונם שאני אוכל או שאני טועם ממעשה ידיך מותר בחילופיהן ובגידוליהן בדבר שזרעו כלה אבל בדבר שאין זרעו כלה אפי' גידולי גידולין אסורין:",
+      "en": "Si un homme dit à sa femme: «Que l’œuvre de tes mains me soit défendue », les fruits obtenus par le travail de sa femme lui sont interdits sous n’importe quelle forme, ainsi que les fruits par reproduction. Mais s’il a dit: «Qu’il me soit défendu de goûter ou de manger le produit de ton travail », il y a deux cas à considérer:1° Il s’agit de fruits qui se reproduisent par anéantissement de la graine; les mets que l’on fait avec ces fruits, ainsi que les fruits de la première reproduction, sont permis;2° La reproduction se fait sans anéantissement de la graine; la seconde reproduction est encore défendue.(b)La seconde façon de s’exprimer est beaucoup plus explicite que la première, et on l’assimile à l’emploi du démonstratif «ce » (article 2, fruits se reproduisant sans anéantissement de la graine).",
+      "ref": "Shulchan Arukh, Yoreh Deah 216:3"
+    },
+    {
+      "seif": 4,
+      "he": "אמר לחבירו קונם לביתך שאני נכנס שדך שאני לוקח מת או שמכרן או נתנן לאחר מותר אבל כל שהוא ברשותו אסור אפילו מכרו ואחר כך קנאו או שנפל ובנאו ואפילו לא בנאו במקומו הראשון: הגה אמר לו קונם בית אביך שאיני נכנס בו אע\"פ שמת האב אסור דכל יוצאי חלציו קרויין בית אב (מרדכי ספ\"ק דגיטין ובא\"ע סי' קמ\"ו ועס\"ק י\"ב):",
+      "en": "Quand une personne a dit à une autre: «Que ta maison me soit défendue, si j’y entre; que ton champ me soit défendu, si je l’achète»; si ensuite le propriétaire de la maison ou du champ meurt, ou vend l’immeuble, ou donne l’immeuble à un tiers, la personne peut acheter la maison ou le champ au nouveau propriétaire.(c)En disant: «Que ta maison me soit défendue...», on a voulu s’interdire le propriétaire de la maison plutôt que la maison elle-même; si la maison change de propriétaire, le vœu devient caduc. mais tant que l’immeuble reste en la possession du premier propriétaire, il reste défendu à la personne qui a fait le vœu, même si le propriétaire vend l’immeuble, puis le rachète ou si, à la place de sa maison qui se serait écroulée, il en fait bâtir une autre, en changeant l’emplacement.(d)Même observation: c’est le propriétaire, non l’immeuble, que le vœu visait dans son esprit, sinon dans sa lettre.GLOSE: Quand on a dit à quelqu’un: «Que la maison de ton père me soit défendue, si j’y entre»; si ce père meurt, on ne devra pas entrer dans la maison, bien qu’elle appartienne alors au fils, car le fils est le possesseur naturel des biens de son père décédé.(e)Cette glose me paraît fausse. En se reportant à la note (c), qui m’a été inspirée par la michenah de Nedârîm, page 47, 1, on voit que l’expression: «la maison de ton père» s’applique entièrement au père, et non à la maison; «ton» équivaut, dans ce cas, à un démonstratif. On pourrait discuter sur le sens exact du vœu qui a été prononcé, si ce vœu avait été: «Que la maison de ton père me soit défendue», et prétendre, avec la glose, qu’il s’agit non-seulement du père, mais de toute sa descendance. Mais le vœu a été: «Que la maison de ton père me soit défendue, si j’y entre», et on voit bien que l’intention de celui qui a prononcé un tel vœu portait sur le père lui-même, et non sur ses descendants.",
+      "ref": "Shulchan Arukh, Yoreh Deah 216:4"
+    },
+    {
+      "seif": 5,
+      "he": "אמר קונם לבית זה שאני נכנס בו אסור בו לעולם בין שמת או מכרו או נתנו לאחרים ואם נפל ובנאו אפילו במקומו ובמדתו הראשונה מותר:",
+      "en": "Quand une personne dit: «Que cette maison me soit défendue, si j’y entre», la maison lui est interdite à jamais, même si le propriétaire meurt, ou vend la maison, ou la donne.(f)De la désignation «cette maison» on conclut que le vœu s’appliquait à la maison elle-même, non pas au propriétaire de la maison. Mais si, la maison s’étant écroulée, on en a rebâti une autre, la maison neuve est permise, fût-elle bâtie à la même place que l’ancienne et semblable à celle-ci.(g)C’est le même raisonnement qu’au début de l’article. La maison n’a pas changé de propriétaire, mais ce n’est plus la même maison. Or le vœu visait la maison alors existante, et non le propriétaire.",
+      "ref": "Shulchan Arukh, Yoreh Deah 216:5"
+    },
+    {
+      "seif": 6,
+      "he": "אמר קונם לביתך זה שאני נכנס אסור בו לעולם בין שמת או מכרו או נתנו לאחר בין שנפל ובנאו ויש מי שמתיר במת או מכרו או נתנו ואוסר בנפל ובנאו ויש מי שאוסר בזו ומתיר בזו:",
+      "en": "Quand une personne dit à une autre: «Que cette maison qui t’appartient me soit défendue, si j’y entre», la maison lui sera toujours interdite, que le propriétaire meure, qu’il la vende, ou qu’il la donne, ou qu’il en rebâtisse une autre si la maison s’est écroulée.(1)(Chakh, 15). La personne a désigné la maison de deux façons; elle a dit: «cette maison» et elle a dit: «qui t’appartient». On ne sait donc pas de façon certaine si elle a entendu s’interdire seulement la maison elle-même, ou seulement le propriétaire de la maison; le vœu sera donc considéré comme réel, à la fois quant à la maison et quant à son propriétaire. Un auteur dit que la maison devient permise, si le propriétaire meurt, ou s’il la donne, ou la vend; mais si la maison s’est écroulée, la maison rebâtie sur l’emplacement de la première est défendue.(2)(Chakh, 16). Cet auteur admet, dans le vœu, la prépondérance de l’expression: «Qui t’appartient». Dès lors le vœu ne visait que le propriétaire: le propriétaire disparaît, le vœu est caduc: la maison disparaît, mais le propriétaire demeure: le vœu subsiste. Un autre auteur permet la maison qui a été construite à la place de la première tombée en ruines, et interdit la maison, si le propriétaire meurt, donne la maison, ou la vend à un tiers.(3)Cet auteur donne au contraire la prépondérance à l’expression: «cette maison». Pour lui, le vœu visait uniquement la maison, non son propriétaire.GLOSE: Nous nous rangerons au premier de ces trois avis, qui est l’avis de l’auteur même du Choulhan Aroukh, Joseph Caro, pour les raisons suivantes. Les deux auteurs, dont Caro a enregistré les opinions dans l’article 6, se sont inspirés d’un certain passage du Talmud (traité Baba Metsia, michenah, page 102, 2), que voici: «Si un propriétaire loue sa maison à l’année, les années embolismiques sont à l’avantage du locataire; s’il la loue au mois, les années embolismiques sont à l’avantage du propriétaire.» (On rappelle ici que l’année embolismique juive est une année de 13 mois, au lieu de douze. Il y a 7 de ces années dans un cycle de 19 ans, afin de racheter la différence des nombres de jours de l’année solaire et de l’année lunaire, qui est de 10 environ). «Le fait suivant s’est passé à Séphoris. Une personne avait loué un immeuble à un propriétaire pour douze pièces d’or par an, à raison d’un dinar d’or par mois. Il y eut alors discussion en raison des deux expressions qui avaient été employées dans le contrat, et l’affaire vint devant rabban Siméon, fils de Gamaliel, et rabbi José. Ceux-ci dirent: que le mois supplémentaire en litige (le 13e mois des années embolismiques) soit divisé entre les deux contractants.» Et voici la guemara correspondant à cette michenah: «Rab a dit: Si j’avais été là, j’aurais décidé que le mois supplémentaire tout entier serait payé au propriétaire. Et que veut-il nous faire savoir par là? C’est qu’il eût appliqué la seconde des règles de la michenah (c’est-à-dire: location au mois, avantage du propriétaire).» Les deux auteurs que cite Caro ont voulu imiter les tanaïm (auteurs de la michenah) et les amoraïm (auteurs de la guemara), en décidant entre la première et la seconde des deux expressions employées par la personne qui a prononcé le vœu de l’art. 6. Mais peut-on assimiler des questions de vœux à des questions d’argent? Les règles ne sont-elles pas complètement différentes dans les deux cas? Les vœux ne sont-ils pas autrement graves que les questions d’intérêt? Et puis, y a-t-il réellement deux idées différentes dans le membre de phrase sujet de la discussion: «cette maison qui t’appartient»? Le démonstratif «cette» ne fait qu’insister davantage sur l’interdiction de la maison qu’on désigne. Dans le passage de Baba Metsia, le propriétaire a dit: 12 pièces d’or par an, et il ajoute ensuite: un dinar d’or par mois. On pouvait donc comprendre de deux façons différentes: location à l’année ou location au mois, et les Docteurs pouvaient trancher dans un sens ou dans l’autre. Dans notre question de vœu au contraire, en quoi diffèrent les deux expressions: «cette maison» et: «la maison qui t’appartient»? Simplement en ce que la première renferme le démonstratif «cette», et rend ainsi absolue l’interdiction prononcée sur la maison du propriétaire en question. Alors qu’importent la mort du propriétaire, la vente, la donation ou la reconstruction de la maison? La maison doit demeurer interdite de toutes les façons.",
+      "ref": "Shulchan Arukh, Yoreh Deah 216:6"
+    },
+    {
+      "seif": 7,
+      "he": "אמר ראובן לשמעון קונם בית זה שאתה נכנס ומת או שמכרו לאחר אסור שהאוסר דבר שהוא שלו על חבירו אע\"פ שיצא מרשותו הרי הוא באיסורו עומד אבל אם אמר לו קונם לביתי שאתה נכנס אם מת או מכרו או נתנו לאחר מותר האומר לבנו הרי אתה אסור בהנייתי או שנשבע שלא יהנה בו אם מת יירשנו שזה כאומר נכסי עליך אסורין אבל אם אסר עליו הנייתו ופירש בין בחייו בין במותו אם מת לא יירשנו שזה כאומר נכסי אלו עליך אסורים (וע\"ל סימן רכ\"ג) : הגה קהל שנדרו כל מה שיגבו יהיה לצורך בנין בית הכנסת ובנין בית המדרש יתנו מחצה לזה ומחצה לזה אע\"פ שלא גבו להספיק א' מהם (ב\"י ס\"ס רכ\"ח בשם תשו' הרשב\"א) מי שהשביע את בנו או חבירו שלא ילוה מעותיו לאחרים אם לא ברשות ראובן ושמעון ומת אחד מהם מותר להלוות ברשות הא' דכל מקום שנאמר פלוני ופלוני משמע אפי' א' מהם עד שיפרוט לך שניהם ביחד (ב\"י סי' רכ\"ח דף ע\"ב ע\"ד בשם תשובת הרשב\"א) מי שנשבע לאשה המשודכת לו שלא ישא אשה עליה וקודם שכנסה נפלה לו יבמה מותר ליבמה דלשון עליה אינה במשמע אלא אם נשאה תחילה ולא יכנוס המשודכת אלא א\"כ יתירו לו שבועתו (שם סוף דף רע\"ג בשם תשובת רשב\"א והיא בסימן תתי\"ב):",
+      "en": "Quand le propriétaire d’une maison dit à une personne: «Que cette maison te soit défendue, si tu y entres», la maison est interdite à cette personne, même si le propriétaire meurt, ou s’il vend la maison, ou la donne; car un homme peut interdire à un autre homme un objet qui lui appartient, et, alors même que la maison n’est plus en sa possession, le mot «cette» dont il s’est servi fait que sa défense subsiste.(i)Voir la note (f). Si le propriétaire a dit à la personne: «Que ma maison te soit interdite, si tu y entres», il est permis à cette personne d’aller dans l’immeuble, si le propriétaire est mort, ou bien a vendu ou donné sa maison.(j)Le cas est analogue à celui de l’article 4; c’est la personne même du propriétaire qui est interdite dans les deux cas, et non la maison; si donc la maison s’écroule et si le propriétaire la rebâtit, il me semble que la nouvelle maison est, elle aussi, interdite, bien que le texte soit ici muet. Quand un père fait le vœu ou le serment que son fils ne profite pas de lui, le fils peut cependant hériter après la mort du père, parce qu’on assimile ce vœu aux paroles suivantes: «Que mes biens te soient défendus».(k)Le cas est identique à celui de la phrase précédente: «Si le propriétaire a dit...» Mais si un père interdit à son fils de profiter de lui, et s’il ajoute: «de mon vivant» ou «après ma mort», il est défendu au fils d’hériter; car c’est comme si le père avait dit: «Je te défends de profiter de ces biens qui m’appartiennent».(l)Voir l’article 1.GLOSE: Quand une communauté fait le vœu de donner l’argent de ses encaissements à la synagogue et à l’école rabbinique, elle doit partager cette somme entre les deux institutions dont il s’agit, même si la somme est insuffisante pour une seule d’entre elles. Lorsqu’un père a adjuré son fils, un ami son ami, de ne point prêter d’argent sans l’assentiment de Ruben et de Siméon; si Ruben ou Siméon meurt, le fils, l’ami peuvent prêter avec l’assentiment du seul survivant. En effet, lorsqu’on dit que la permission de Ruben et de Siméon est nécessaire, il est entendu qu’à défaut de l’un d’eux, l’autre suffira, à moins qu’on ait émis l’idée qu’il fallait absolument la permission des deux personnes mentionnées. Si un fiancé jure qu’il ne prendra pas une autre femme que sa fiancée, et si le mari de sa belle-sœur (femme de son frère) meurt avant le mariage, il lui est permis d’épouser cette belle-sœur; car il semble que son serment ait été fait pour le temps qui suivra son union avec sa fiancée, et non pour le temps qui précède cette union. Il ne pourra cependant se marier avec sa belle-sœur qu’après qu’un rabbin lui aura fait remise de son serment.(m)Ces dispositions sont incompréhensibles. D’abord le serment qu’a prêté le fiancé, de ne pas prendre une autre femme que sa fiancée, s’applique évidemment aussi bien au temps qui précédera son mariage avec sa fiancée qu’au temps qui suivra ce mariage. En second lieu, la glose a tort de dire qu’il lui est «permis» d’épouser sa belle-sœur, alors que la chose lui est «prescrite formellement», par le Deutéronome (XXV, 5, 6). Le Talmud (Nédârîm, page 16, 1) dit: «On ne peut pas jurer de transgresser une prescription de la Torah». Un tel serment est donc vain, et l’on doit exécuter la prescription de la Torah. Dans notre cas particulier, le serment de ne pas épouser une autre femme ne peut évidemment pas s’appliquer à la belle-sœur, devenue veuve sans enfant, qu’il est formellement prescrit d’épouser. Comment la glose peut-elle prescrire au fiancé de se faire faire remise d’un serment qui est vain? Que d’erreurs! Nous ne pouvons croire qu’Isserlès (auteur des gloses, appelé aussi par abréviation Réma: rabbi Mocheh Isserlès) les ait commises; des copistes ont dû les lui prêter.",
+      "ref": "Shulchan Arukh, Yoreh Deah 216:7"
+    },
+    {
+      "seif": 8,
+      "he": "אמר לחבירו ככרי זו אסורה עליך אפי' נתנה לו במתנה או מכרה לו אסורה לו מת ונפלו לו בירושה או שנתנה לאחר והוא נתנה לו מותרת לו שלא אמר אלא ככרי ועתה אינו שלו:",
+      "en": "Quand une personne a dit à une autre: «Que ce pain qui m’appartient te soit défendu», le pain est interdit à la seconde personne, même si le propriétaire du pain le lui donne ou le lui vend; mais si ce propriétaire meurt, et si la personne hérite du pain, ou bien si le propriétaire donne son pain à une tierce personne, qui le donne à son tour à la seconde personne, cette dernière peut l’accepter. En effet le propriétaire du pain a dit: «Que mon pain te soit interdit», et ce pain n’est plus à lui dans les deux derniers cas considérés.(n)L’auteur me semble ici contredire ce qu’il a écrit à l’article 6, à propos de la maison dont on a dit: «Que cette maison qui t’appartient me soit défendue, si j’y entre». Taze en effet nous dit que le présent article présente des fautes d’impression, et que les premières éditions ne portaient pas le mot «ce» (ce pain). Alors le pain devient permis, dans le cas où le propriétaire meurt ou donne son pain, sans qu’il y ait contradiction avec l’article 6.",
+      "ref": "Shulchan Arukh, Yoreh Deah 216:8"
+    },
+    {
+      "seif": 9,
+      "he": "אמר קונם בשר ויין עלי מותר בתבשיל שיש בו בשר ויין אע\"פ שנותנין בו טעם ואם אמר קונם בשר ויין שאני טועם או שאני אוכל או שאמר קונם בשר או יין זה עלי אסור בתבשיל שיש בו טעם [בשר או] יין:",
+      "en": "Quand on fait un vœu de ne pas manger de viande, le bouillon et le résidu sont permis.(2)De nos jours, selon un commentateur, le vœu de ne pas manger de viande interdit aussi le bouillon et son résidu; il est seulement permis de manger du poisson. Si l’on fait vœu de ne pas manger de viande, bouillon et résidu sont permis, sauf si l’on a dit: «Que la viande me soit défendue, si je la goûte, ou: si je la mange.»(3)Il y a ici une faute de copiste ou d’impression, le mot «cette» manque; il faudrait, selon les formules données au § 216, art. 9: «Que cette viande me soit défendue» ou bien: «Que la viande que je goûterais, ou: que je mangerais, me soit défendue.»",
+      "ref": "Shulchan Arukh, Yoreh Deah 216:9"
+    },
+    {
+      "seif": 10,
+      "he": "נתערב יין זה שאסרו על עצמו ביין אחר אפי' טפה בחבית נאסר הכל מפני שיש לו להשאיל על נדרו נעשה כדבר שיש לו מתירין שאינו בטל במינו:",
+      "en": "Lorsque le vin, qu’une personne s’est interdit par un vœu, se trouve mêlé avec un autre vin, ce mélange est défendu, même s’il n’a que très légèrement le goût du vin interdit; car la personne peut aller demander à un rabbin la remise de son vœu. On considère alors que le vin interdit peut devenir permis dans le mélange, bien qu’en réalité un tel mélange ne puisse jamais être négligé, même si l’aliment de même espèce et permis, avec lequel est mélangé l’aliment défendu, est en quantité mille fois supérieure à celle de l’aliment défendu.",
+      "ref": "Shulchan Arukh, Yoreh Deah 216:10"
+    },
+    {
+      "seif": 11,
+      "he": "האוסר על עצמו יינו של פלוני או של מקום פלוני דינו כדין האוסר על עצמו יין זה שאסור בתבשיל שנפל בו ויש בו טעם יין והוא הדין אם אותו יין נעשה חומץ אחר הנדר שהוא אסור עליו אבל מה שהיה חומץ בשעת הנדר מותר (דיין אסר עליו ולא חומץ) (ב\"י בשם תשובת הרשב\"א):",
+      "en": "Quand on a dit: «Que le vin de tel homme, ou: de tel lieu, me soit défendu», et que ce vin tombe dans du bouillon, le bouillon est également interdit, s’il a pris le goût du vin. De même si, après le vœu, le vin a été transformé en vinaigre, ce vinaigre est défendu; mais si l’on faisait le vinaigre au moment même où le vœu a été formulé le vinaigre est permis.GLOSE: Car dans ce dernier cas le vœu portait évidemment sur le vin et non sur le vinaigre.",
+      "ref": "Shulchan Arukh, Yoreh Deah 216:11"
+    },
+    {
+      "seif": 12,
+      "he": "אמר קונם זיתים וענבים עלי מותר בשמן ויין היוצא מהם אפי' הוא חדש ואם אמר קונם זיתים וענבים שאני טועם או שאמר קונם זיתים אלו עלי אסור אף במשקים היוצאים מהם ובתבשיל שנותנין בהם טעם:",
+      "en": "Quand une personne dit: «Que les olives, ou les raisins, me soient défendus», les produits fabriqués avec ces fruits, même frais, lui sont permis(5)Parce que le vœu est bien précis et vise simplement les olives, les raisins, non leurs dérivés.. Mais si le vœu a été formulé ainsi: «Que les olives, ou: les raisins, que je goûterai, me soient défendus», ou bien: «Que ces olives, ou: ces raisins me soient défendus», les produits fabriqués avec les fruits en question sont interdits; il en est de même des aliments cuits avec ces fruits, s’ils ont pris le goût des fruits.",
+      "ref": "Shulchan Arukh, Yoreh Deah 216:12"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה נדרים דף נ\"ז ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:1"
+        },
+        "2": {
+          "he": "רמב\"ם בפ\"ה מה\"נ ממשנה הנודר מן הענבים וכו' וגמרא שם דף נ\"ב ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:2"
+        },
+        "3": {
+          "he": "טור וכ\"כ הר\"ן דהא דתנן שם דף נ\"ז אבל דבר שאין זרעו כלה אפי' גדולי גידולים אסורים קאי נמי ארישא קונם פירות אלו וכו' אע\"ג דקיי\"ל זה וזה גורם מותר שאני נדרים דדמי להקדש דחמיר טובא כמ\"ש הר\"ן א\"נ שאני נדרים דדבר שיש לו מתירין הן ולהכי לא שרי בהו זה וזה גורם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:3"
+        },
+        "4": {
+          "he": "הרא\"ש שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:4"
+        },
+        "5": {
+          "he": "שם במשנה דף נ\"ז ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:5"
+        },
+        "6": {
+          "he": "בעיא דרמי בר חמא שם דף מ\"ז ע\"א ולא נפשטא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:6"
+        },
+        "7": {
+          "he": "משנה שם דף נ\"ז ע\"א ולא הוי דבר שלא בא לעולם דאוסר מעשה ידי אשתו לאחר שתעשה דדבר שיש בו ממש הוא. (°) פי' אם נטעה אילן או נתנו לה פירות בשכר מעשה ידיה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:7"
+        },
+        "8": {
+          "he": "שם במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:8"
+        },
+        "9": {
+          "he": "משנה שם דף מ\"ו ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:9"
+        },
+        "10": {
+          "he": "בית יוסף:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:10"
+        },
+        "11": {
+          "he": "הריב\"ש בתשובה סי' שנ\"ו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:11"
+        },
+        "12": {
+          "he": "ירושלמי הביאו הרא\"ש והר\"ן שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:12"
+        },
+        "13": {
+          "he": "הר\"ן שם וריב\"ש שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:13"
+        },
+        "14": {
+          "he": "שם במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:14"
+        },
+        "15": {
+          "he": "הר\"ן שם מהירושלמי וריב\"ש שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:15"
+        },
+        "16": {
+          "he": "לשון הטור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:16"
+        },
+        "17": {
+          "he": "כ\"כ הרא\"ש מפורש וכתב דבעיא ראשונה בירושלמי ולא נפשטא ונראה דתליא בפלוגתא דאמוראי בתפוס לשון ראשון או לשון אחרון בב\"מ דף ק\"ב ע\"ב וכתבו הרי\"ף והרא\"ש שם דספיקא הוא הלכתא כמאן וא\"כ לגבי נדרים דאיסורא דאורייתא נקטינן לחומרא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:17"
+        },
+        "18": {
+          "he": "ב\"י לדעת הרמב\"ם מדין ד' פ\"ה מהלכות נדרים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:18"
+        },
+        "19": {
+          "he": "הר\"ן שם מהירושל' דנפשטא הבעיא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:19"
+        },
+        "20": {
+          "he": "בעיא דאבימי ופשטא רבא לאיסורא דף מ\"ז ע\"א ואפילו לא אמר בחיי ובמותי כדעת הר\"ן וכדעת הרמב\"ם שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:20"
+        },
+        "21": {
+          "he": "טור וכ\"כ הרמב\"ם בדין הנזכר לעיל:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:21"
+        },
+        "22": {
+          "he": "ל' הרמב\"ם ממשנה בב\"ק דף ק\"ח וק\"ט והובאה בנדרים שם (°) דין זה כתבו הב\"י לקמן סימן רכ\"ח סעיף מ' ועיין במה שציינתי שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:22"
+        },
+        "23": {
+          "he": "בעי דרב חייא בר אבין מרבא ופשטא לאיסורא שם דף ל\"ד ע\"ב וכ\"פ הרמב\"ם שם בפ\"ה והרא\"ש שם בפסקיו וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:23"
+        },
+        "24": {
+          "he": "הר\"ן שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:24"
+        },
+        "25": {
+          "he": "לשון הרמב\"ם ממשנה קונם לביתך שאיני נכנס וציינתיו לעיל בסעיף ו' וכן כתבו התוספות שם וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:25"
+        },
+        "26": {
+          "he": "משנה שם דף נ\"א נ\"ב וכת\"ק:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:26"
+        },
+        "27": {
+          "he": "שם במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:27"
+        },
+        "28": {
+          "he": "שם במשנה וטעמא דכיון שאמר זה שויא חתיכה דאיסורא ואוסר בנ\"ט כשאר איסורין אבל בשלא אמר זה לא אסר עליו אלא דבר הנקרא בשר או יין וכתב הב\"י בשם התוספות והרא\"ש דוקא באומר קונם בשר עלי אבל אם אדם אסר על עצמו עד זמן פלוני שאסור ברוטב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:28"
+        },
+        "29": {
+          "he": "הרמב\"ם בפ\"ה מהלכות נדרים (דין י\"ב וסמ\"ג ריש דע\"א):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:29"
+        },
+        "30": {
+          "he": "הרשב\"א בתשובה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:30"
+        },
+        "31": {
+          "he": "משנה שם דף נ\"ב ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:31"
+        },
+        "32": {
+          "he": "הרמב\"ם בפ\"ט מהל' נדרים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:32"
+        },
+        "33": {
+          "he": "שם במשנה וגמרא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 216:33"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "בחילופיהן. היינו שהחליפן בדבר אחר אסור אותו הדבר אחר וכתב הרא\"ש פרק הנודר מן הירק דוקא להמחליף אסורים אבל לאחר מותרים וכן אם החליפם אחר מותרים להנודר וכ\"כ סמ\"ג בשם ר\"י והר\"ן אוסר בכל ענין דמשוי ליה כהקדש (ומיהו היכא דלא אמר אלו כתב הר\"ן דמותר בהחליפן אחר וע\"ש) והתוס' פרק השותפין (נדרים דף מ\"ז) כתבו כהרא\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:1"
+        },
+        "2": {
+          "he": "וכן אסור בגידולי גידוליהן. בדבר שאין זרעו כלה והב\"ח כתב דהרמב\"ם והרא\"ש וטור לא אסרי גידולי גידולין אלא בקונם מה שאני אוכל או טועם מהן לקמן סעיף ב' ולא כאן והכי נקטינן עכ\"ל ולא משמע מידי בדבריהם דאי משום שכתבו כן בסיפא הא כמו שפירש הר\"ן המשנה דסיפא ארישא נמי קאי כן יש ליישב דבריהם וכן משמע להדיא בכסף משנה שמפרש כן דברי הרמב\"ם וכן פי' להדיא בדרישה דברי הטור וכן הוא בלשון המשנה שבהרא\"ש האומר לאשתו קונם מעשי ידיך עלי קונם הן לפי קונם הן על פי אסור בחילופיהן ובגידוליהן אבל בדבר שאין זרעו כלה גידולי גידולין אסור ואע\"ג שבמשנתנו אין הלשון כן ואפשר דילוג סופר הוא באשר\"י מ\"מ מאן מוכח וגם התוספות (דף נ\"ה) כתבו והלכך גידולי גידולין אסורין בדבר שאין זרעו כלה אבל בדבר שזרעו כלה הגידולין אסורין וגדולי גידולים מותרים עכ\"ל וע\"כ באמר קונם פירות אלו מיירי מדכתבו בסיפא הגידולין אסורין הלכך אין להקל נגד דעת הר\"ן והמחבר כיון שאין חולק בדבר וגם בתוס' משמע כן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:2"
+        },
+        "3": {
+          "he": "גידולי גידולים מותרים. אבל הגידולים עצמן אסורים וכב\"י בשם הרמב\"ם פ\"ה ולמה לא יבטל איסור בגידולים שרבו עליהן שהוא דבר שיש לו מתירין ואינו בטל ברוב ולא כתב מאי הוציא כן גם בכסף משנה לא כתב דבר והוא ש\"ס ערוך פרק הנודר מן הירק (נדרים דף נ\"ט ע\"א):",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:3"
+        },
+        "4": {
+          "he": "פירות פלוני. כלומר של איש פלוני אבל אם אמר פירות של מין פלוני כלומר קונם תאנים או ענבים עלי כיון שלא פרט ואסר עליו כל המין לא עשאם עליו כהקדש שלא נתכוין אלא מאכילת אותו המין ומ\"ה לא מיתסר בחילופיהן ובגידוליהן כן הוא בר\"ן ודלא כהעט\"ז:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:4"
+        },
+        "5": {
+          "he": "כגון חטים. וה\"ה פירות האילן הגהת דרישה בשם מהרש\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:5"
+        },
+        "6": {
+          "he": "מותר בחילופיהן כו'. כתבו דרישה ופרישה דחילופיהן אפילו באין זרעו כלה מותר וכן הוא בהדיא בש\"ע וכן מוכח ברא\"ש והר\"ן וכו' ולא משמע מידי וגם בטור משמע איפכא הלכך נראה דכיון שהגידולין אסורים השוו ואסרו גם החילופין:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:6"
+        },
+        "7": {
+          "he": "על פלוני אסור. בכל אופן שנתבאר כמו שאסר על עצמו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:7"
+        },
+        "8": {
+          "he": "מעשה ידיך כו'. לא תיקשי לך מעשה ידיך דבר שאין בו ממש הוא דאיכא לאוקמא באומר קונם ידיך למעשיהן (ע\"ל סי' רל\"ד ס\"ק פ\"ה) א\"נ מעשה ידי אשתו לאחר שתעשה דבר שיש בו ממש הוא מיהו כתב הר\"ב יונה דלא מיתסר אלא בכנגד מעשה ידיה שאם אשתו טחנם ואפאם ומכרה לחם להיות מעות שכנגד טחינה ואפייה שלה ודכנגד חטים שלו עכ\"ל ר\"ן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:8"
+        },
+        "9": {
+          "he": "או שמכרן. דוקא לאחר אבל מכרו לנודר עצמו אסור שהרי הוא נהנה מביתו שמכחו באלו כ\"כ הריב\"ש סימן שנ\"ז וע\"ל סימן רכ\"ו ס\"ק י\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:9"
+        },
+        "10": {
+          "he": "מותר. שהרי עתה אינו ביתו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:10"
+        },
+        "11": {
+          "he": "ואפילו כו' במקומו הראשון. אלא שינהו במקום אחר ומשמע אבל קנה לגמרי בית אחר מותר שלא היתה כוונתו אלא על בית שהיה לו בשעת נדר הן שיהיה כן או ישתנה אבל לא על בית אחר לגמרי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:11"
+        },
+        "12": {
+          "he": "דכל יוצאי חלציו כו'. כלומר בית אביך שאמר היינו יוצאי חלציו ולפ\"ז אם מכרו מותר אלא דמ\"מ אסור לילך ליוצאי חלציו וכן כוונת התוס' בעירובין (דף ט\"ו ע\"ב) במ\"ש וי\"ל דכל יוצאי חלציו קרויים בית אביו כו' ר\"ל ומה שאמר ה\"ז גיטך ע\"מ שלא תלכי לבית אביך ר\"ל יוצאי חלציו שהם קרויים בית אביך כדכתיב שבי אלמנה בית אביך ודלא כמ\"ש מהר\"ש אידל\"ש שם שכתב וממכרו דגבי נדרים ל\"ק להו דאין זה כריתות דאפשר שיקנה בית אחר עכ\"ל גם התוספות פ\"ב דגיטין (דף כ\"א ע\"ב) והמרדכי הקשו שם בהדיא ממכרו דנדרים ג\"כ אלא ודאי כדפרישית וע\"ש ודו\"ק. ומ\"מ יש לגמגם על דברי הרב דבמרדכי ותוספות שם לא משמע אלא באמר ע\"מ שלא תלכי לבית אביך אבל לשון קונם בית אביך שאני נכנס בו י\"ל דאבית ממש קאמר דאיוצאי חלציו לא שייך לומר שאני נכנס בו אלא שאני הולך:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:12"
+        },
+        "13": {
+          "he": "אסור בו לעולם. כתוב בתשו' מהרי\"ל סימן ר\"ז על הבן המדיר עצמו מנכסים אלו (אפילו) כשאמר לביתך זה אסור בו אפילו אחר מות הנודר מדקאמר זה מה לי אבוה ומה לי אחר אי משום דראוי ליורשו בחייו נמי צריך לו לכמה ענינים ליהנות משל אביו ע\"כ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:13"
+        },
+        "14": {
+          "he": "ואם נפל כו'. והב\"ח השיג על הב\"י דאע\"ג דדעת הר\"ן כן (וכן דעת הריב\"ש בתשובה סימן שנ\"ו) מ\"מ מ\"ש כן לדעת הרא\"ש וטור ליתא אלא דעתם דאפילו בנפל ובנאו אסור ע\"כ דבריו ולא ירדתי לסוף דעתו ועוד לדבריו קשיא מאי פשיט בירושלמי הא התם לא קאמר בית זה אלא גם דעת הרא\"ש והטור כן וגם י\"ל דהרא\"ש מפרש הבעיא על ביתך אי אסור בנפל ופשיט לאיסור אבל בבית זה מותר וכן משמע להדיא ברבינו ירוחם ני\"ד ח\"ה ונראה ראיה ברורה לזה דהא בירושלמי פשיט ליה מהאומר תנו בית כו' נפל חייב לבנותו כו' ובהמשכיר בית לחבירו קי\"ל בס\"פ השואל דאם אמר זה אין חייב לבנותו ומוסכם מכל הפוסקים וכמו שנתבאר בח\"מ סימן שי\"ב וגם מדקאמר ש\"ס התם אי דקאמר זה נפל אזדא לה משמע דפשיטא דבכל דוכתי כיון דקאמר זה נפל אזדא לה ואפשר אסיק אדעתיה הך מתניתין דמייתי בירושלמי שהביא הר\"ן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:14"
+        },
+        "15": {
+          "he": "בין שמת כו'. דמספקא לן אי תפיס לשון ראשון או לשון אחרון הלכך יש להחמיר כשתי הלשונות:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:15"
+        },
+        "16": {
+          "he": "ויש מי שמתיר כו'. דלביתך לשון ראשון דייקא ולא זה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:16"
+        },
+        "17": {
+          "he": "ויש מי כו'. דזה דייקא ולא ביתך:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:17"
+        },
+        "18": {
+          "he": "קונם בית זה כו'. משמע אע\"פ שלא אמר בחיי ובמותי אסור ונראה דאם נפל וחזר ובנאו מותר כדלעיל סעיף ה':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:18"
+        },
+        "19": {
+          "he": "שהאוסר דבר שהוא שלו כו'. ודוקא כשמתחיל האיסור בעודנו ברשותו אבל אם אמר קונס לכשיצא מרשותי אינו יכול לאסרו. ב\"ח ופשוט הוא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:19"
+        },
+        "20": {
+          "he": "מותר. ונראה דאם נפל ובנאו אסור כיון שאמר ביתי ועדיין ביתו הוא כדלעיל סעיף ד':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:20"
+        },
+        "21": {
+          "he": "קהל כו'. ע\"ל סימן רכ\"ח סעיף מ\"ט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:21"
+        },
+        "22": {
+          "he": "אם לא ברשות ראובן ושמעון ומת אחד מהם כו'. לאו דוקא דה\"ה שניהם חיים יכול לעשות ברשות אחד מהן כיון דטעמא הוא דקי\"ל בפלוגתא דר\"י ורבי נתן כרבי נתן שמשמע אפי' אחד מהם וכן משמע להדיא לקמן סימן רכ\"ח סעיף מ' מיהו בתשובת ר' אליה מזרחי סימן נ\"ב כתב דפלוגתא דר\"י ור\"ן לא שייך כאן דבנדרים הלך אחר לשון בני אדם ופוק חזי מאי עמא דבר במי שקבל עליו ב' דיינים שאין דן יחידי מהם וכ\"ש בנדון זה וע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:22"
+        },
+        "23": {
+          "he": "ולא יכנוס המשודכת כו'. וב\"י בסי' רכ\"ח ריש דף רע\"ד כתב ומה שכתב ויזהר שלא ישא המשודכת צ\"ע ומביאו הד\"מ ואפשר דטעמא הוא דשמא היתה הכונה שלא תהא שום אשה נשואה לו עתה מיהו בבדק הבית הגיה במקום ולא ישא המשודכת ולא ישא אחרת עליה משמע שכן מצא בתשובת הרשב\"א וכ\"מ מלשון תשובת הרשב\"א שם ולפי זה מותר ליכנס המשודכת אלא שלא ישא אשה אחרת עליה וכ\"מ בתשובת הרשב\"א סי' תתי\"ב עיין שם וא\"כ דברי הרב צ\"ע:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:23"
+        },
+        "24": {
+          "he": "מותרת לו כו'. תימה דאמאי כתב סתם דמותרת לו כו' הא למ\"ד לעיל סעיף ו' דמספקא לן אי תפיס ל' ראשון או אחרון אסור וכ\"ש למ\"ד תפוס לשון אחרון והיה נראה לומר דהכא שאני כיון שהמדיר אומר כן לאחר וכדמחלק הב\"ח סעיף ו' בשם הריב\"ש ור' ירוחם וטור אך בבית יוסף לא משמע כן שהרי מה שכתב לעיל סעיף ו' ויש מי שמתיר כו' ותפוס ל' ראשון כתב בבית יוסף שהוא הרמב\"ם שכתב בלשון הזה שבסעיף ח' וכן כתב בעט\"ז דאם אמר ככרי זה או ביתי זה דינו כמו גבי האומר ביתך זה בסעיף ו' שתופסין בו חומרות בו הלשונות עכ\"ל וצ\"ע:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:24"
+        },
+        "25": {
+          "he": "מותר כו'. נראה דהיינו מסתמא אבל אם היה הטעם יין או בשר קשה לו וכה\"ג אזלינן בתר כוונתו כדלקמן סי' רי\"ח ואסור בטעמן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:25"
+        },
+        "26": {
+          "he": "אסור בתבשיל שיש בו טעם יין. ע\"ל סי' צ\"ח ס\"ק ה' כתבתי דיש לסמוך אטעימת ישראל דהתירה אף בזמן הזה והלכך אם יש אחר שרשאי לטעום יכול לסמוך עליו ואם אין כאן אחר משערין בס' מיהו כל זה שלא במינו אבל במינו אפילו באלף לא בטיל כדבסעיף שאח\"ז וע\"ל סימן ק\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:26"
+        },
+        "27": {
+          "he": "אפילו הוא חדש. שטעמו שוה דאזלינן בתר שמא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 216:27"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "פירות האלו וכו'. ע\"כ שרואה אותם מדאמר האלו אלא שמ\"מ אינם מוכנים לפנים כמו בסיפא משום הכי נקט בסיפא לפניו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 216:1"
+        },
+        "2": {
+          "he": "אסור בחילופיהם. באשר\"י פ' הנודר מן הירק בפסקיו כתב בזה ואפילו בחילופי חילופיהן ובב\"י בשם הר\"ן כתב דבחילופי חילופיהן מותר כ\"כ כאן בש\"ע בסמוך ותימה על ב\"י שלא ראה הך דהרא\"ש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 216:2"
+        },
+        "3": {
+          "he": "וכן אסור בגדולי גידוליהן. כ\"כ הר\"ן הביאו ב\"י דכמו דבסיפא בסעיף ב' באומר שאיני אוכל או טועם מהם אוסר אפילו בגידולי גידוליהן הכי נמי כאן ונראה דגם דעת הרא\"ש כן שכתב בדף נ\"ו שהגידולי גידוליהן אסורים בסיפא משום דהוה גוף האיסור כיון שאין זרעו כלה וא\"כ גם באומר פירות האלו עלי מ\"מ הרי נהנה מגוף האיסור וק\"ו הוא דהרי בסיפא שאומר שאיני טועם דמותר בחילופיהן וגידוליהן בזרעו כלה אפ\"ה אסור אפילו בגדולי גידוליהן באין זרעו כלה כל שכן ברישא דאסור בחלופיהן ובגידוליהן אפי' בזרעו כלה דיהיה אסור באין זרעו כלה אפילו בגידולי גידוליהן ומטע' זה לא הוצרך הרמב\"ם והטור לכתוב בהדיא ברישא דאסור בגידולי גידולין באין זרעו כלה דסמכו על ק\"ו שזכרנו וע\"כ יפה פסק כאן בש\"ע בדין זה דגידולי גידולין אסורין באין זרעו כלה ומו\"ח ז\"ל כתב דזו היא דעת הר\"ן לחוד אבל הרמב\"ם והרא\"ש והטור סבירא להו ברישא דגידולי גידולין מותרין והוציא פסק זה מהלכה ותמוה הוא מטעם שזכרנו ואדרבה הרא\"ש כתב להדיא דאפילו חליפי חליפין אסורין כ\"ש גידולי גידולין כיון שהוא ממש בעין שהרי לא כלה זרעו ע\"כ ודאי פסק ההוא ברור וכ' ב\"י בשם הר\"ן דדוקא כאן שהוא פורט ואומר פירות אלו שווינהו כהקדש בחילופין וגידולין וכן באומר פירות מקום פלוני עלי אבל באומר קונם זיתים וענבים עלי כמ\"ש סוף סי' זה שלא נתכוין אלא מאכילת אותו מין ולא שוינהו כהקדש ומ\"ה לא מיתסר בחילופיהן וגידוליהן ע\"כ והך גידולין שכתב בסוף הוא שלא בדקדוק דהא על כל פנים אסור בגידוליהן דהא פירות אותו מין הם והוא אסר כל המין עליו אלא בחילופין לבד יש חילוק וכן כתב הרא\"ש בהדיא שם במשנה דלא בעינן שיאמר האלו אלא אמר קונם לחוד אלא משום חילופין לחוד דאין אוסרין אלא באומר אלו ואפשר שהר\"ן מיירי באומר קונם זיתים וענבים של שנה זו עלי דאז מותר בגידולים שיגדלו אחר כן כל שלא אמר אלו ובזה חילופים וגידולים שוין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 216:3"
+        },
+        "4": {
+          "he": "שזרעו כלה. זה קאי אגידוליהן אבל בחילופיהן אין חילוק דאפי' באין זרעו כלה מותר בהם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 216:4"
+        },
+        "5": {
+          "he": "מותר בחילופיהן. דכי אכיל חילופיהן וגידוליהן לא טעים הנהו פירות דאסר עליה והוא אמר שאני טועם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 216:5"
+        },
+        "6": {
+          "he": "אפי' גידולי גידולין. וא\"ל יבטל האיסור בגידולין שרבו עליו שהרי הוא דבר שיש לו מתירין שהרי יש לנדר התרה בפתח או חרטה וכל שיש לו מתירין לא בטיל ברוב ב\"י בשם רמב\"ם ובזה מתורץ נמי למה לא יהא מותר מטעם זה וזה גורם כמו שהקשה ב\"י בשם הראב\"ד וכ\"כ ב\"י בסמוך:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 216:6"
+        },
+        "7": {
+          "he": "וכן אם אמר כו'. דבעיא היא בגמרא אם אסור בחילופיהן אם יכול לאסור דבר שלא בא לעולם על חבירו כיון שאין יכול לאסור פירות חבירו על חבירו מה שאין כן באם הוא אוסר על עצמו שכן יכול לאסור גם פירות חבירו על עצמו א\"ד חילופיהן וגידוליהן לא שנא הוא לא שנא חבירו ואזלינן לחומרא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 216:7"
+        },
+        "8": {
+          "he": "אמר לאשתו קונם מעשה ידיך כו'. כתב הר\"ן קמ\"ל רבותא דמייחד פירותיו של פלוני כי היכי דמייחד מעשה ידי אשתו כאומר האלו דמי ומיתסר בחילופים וגידולים וסיפא דשאני אוכל או טועם קמשמע לן רבותא דאפילו באומר פירות האלו שאני טועם הוה ליה כאילו לא אמר האלו ואזלינן בתר לשון שאני טועם דהא כאן הוי כאומר האלו כיון שמייחד כמו שכתבתי אלא דקשה לי כיון שיש כאן ב' לשונות הסותרים זה את זה דמלשון ממעשה ידיך הוה כאומר האלו דהא מטעם זה אסור בחילופיהן וגידוליהן וגם הטור ע\"כ ס\"ל כן דאל\"כ ה\"ל כאומר קונם זיתים וענבים דאין איסור בחילוף וגידול אלא ע\"כ דהוי כאומר האלו כמ\"ש הר\"ן ומלשון שאני טועם משמע להיתר בחילוף ובגידול ויש לנו לילך לחומרא כמ\"ש הטור אחר כך גבי לביתך זה בשלמא להר\"ן לק\"מ דס\"ל לישנא בתרא עיקר בין לקולא בין לחומרא כמ\"ש ב\"י בשמו והר\"ן סידר דין זה דלגבי אשתו שלא כסדר הטור אלא דנקט תחילה קונם מעשה ידיך ואח\"כ שאני טועם ממילא יש לנו לילך אחר לישנא בתרא אבל להטור קשה ונ\"ל דהטור ס\"ל דאין שייך לומר דאזלינן לחומרא אלא במקום שאפשר להיות לשון אחד בלא חבירו דהיינו באומר ביתך זה דהיה אפשר לומר בית זה או להיפך לביתך לחוד ע\"כ לא ידעינן הי מינייהו עיקר משא\"כ באומר שאני אוכל ממעשה ידיך הוי לשון שאני אוכל עיקר לפי סידור דבריו דודאי לא סגי בלא\"ה וכן לא סגי אם לא יאמר ממעשה ידיך א\"כ אין כאן לישני דסתרי אלא ה\"ק ממעשה ידיך לא יהא איסור אלא מה שאני אוכל נמצא דלשון שאני אוכל הוא נשאר עכ\"פ עיקר כנ\"ל נכון:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 216:8"
+        },
+        "9": {
+          "he": "אסור בו לעולם. דיש לנו ספק אם ניזול בתר לישנא דלביתך ויהיה מותר במכירה ואסור בנפל או ניזול בתר זה ויהיה איפכא ואזלינן לחומרא ואסרינן בשניהם ויש שמתיר במת כו' דס\"ל דלביתך עיקר דבתר לישנא קמא אזלינן ויש שאוסר בזו דס\"ל לישנא בתרא דהוא זה עיקר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 216:9"
+        },
+        "10": {
+          "he": "אע\"פ שיצא מרשותו כו'. בטור כתוב בזה וכגון שפירש בחיי ובמותי קונם לביתי שאתה נכנס מת או מכרו לאחר מותר עכ\"ל והוא ע\"פ הרא\"ש כמו שהביא ב\"י ותמה ב\"י על הסיפא דמותר ממ\"נ אי מיירי בלא פירש בחיי ובמותי הא אפילו אומר בית זה מותר לפי דעת הרא\"ש ואי בפירש למה יהיה מותר והביאו בפרישה בשם רש\"ל דמיירי הסיפא שאמר בחיי ובמותי וכן מו\"ח ז\"ל כתב כן וכתב שאפ\"ה מותר כיון שאמר תחילה לביתי לא מהני אח\"כ בחיי ובמותי אף על גב דלעיל בסמוך כי אמר הנודר לביתך זה אזלינן לחומרא דהוה ג\"כ לישני דסתרי אהדדי שאני התם דהנודר אומר כן דאפשר שלא יכנס לאותו בית לעולם אבל הכא דמדיר אומר לשמעון לביתי שאתה נכנס מה איכפת ליה לאחר שיצא מרשותו ולפיכך מותר ליכנס אחר מות המדיר אע\"פ שאומר בחיי כו' וסברא זו כתב ריב\"ש סי' שנ\"ז עכ\"ל וראיתי בריב\"ש שם שלא חילק בין נודר למדיר אלא באין אומר בחיי ובמותי וכן הוא בר\"ן דף מ\"ו ד\"ה בעי אבימי כו' והוא פשוט אבל באומר בחיי ובמותי לא ידעתי אפי' התחלה לדבר זה דהא אין כאן לישני דסתרי כלל דהכי קאמר אותו שהוא ביתי עכשיו לא תכנס בו לעולם אפי' לאחר מותי ותימה מאד הא כתבו כאן הטור והש\"ע בסמוך האומר לבנו קונם שאתה נהנה לי בחיי ובמותי לא יירשנו כו' והא התם אמר תחילה שאתה נהנה לי דהוה ממש כמו לביתי ואפ\"ה מהני מה שאמר אח\"כ בחיי כו' וכן בגמרא דמבעיא ליה ככרי עליך ונתנו לו במתנה ככרי אמר לו כי איתא ברשותיה הוא דאסור א\"ד עליך א\"ל שוייה הקדש וב\"י מביאה הרי דאע\"ג דלשון ככרי מורה על ברשותו דוקא מ\"מ אתי עליך ואסרו וכ\"ש שאם אמר אח\"כ בחיי וכו' והנלע\"ד לפי דברי הרא\"ש והטור הוא בדרך זה דהטעם שצ\"ל בחיי ובמותי אע\"ג דאמר קונם בית זה שאתה נכנס בו הוא משום דאין אדם משים אל לבו לאסור ביתו אחר מותו דלא קפיד אינש מסתמא אלא שלא יראה שונאו בביתו וע\"כ לעיל שאמר קונם לבית זה שאני נכנס דאסור אפילו מת כו' א\"צ בחיי ובמותי דפשיטא דהאוסר עצמו כוונתו כל ימי חייו כיון דאמר בית זה ודאי יש לו איזה שנאה להבית עצמו משא\"כ כאן דאוסר את שלו על חבירו אע\"ג דאמר זה כוונתו שלא יראה את שונאו נהנה מנכסיו ואחר מותו דרך עולם למחול לכל שונאיו ע\"כ צ\"ל בחיי ובמותי וע\"פ זה נלע\"ד עוד דאפילו שהצריכו הרא\"ש והטור לומר בחיי כו' היינו לענין אחר מיתה מטעם שכתבתי אבל אחר מכירה ודאי אסור אפילו בלא פירש לאחר מכירתי דחד טעמא הוא שלא יראה שונאו נהנה מבית זה והדבר ברור בזה דאילו לענין מכירה קשה מה תיקן בלשון בחיי ובמותי אלא היה לו לומר בין אם יהיה בידי או ביד אחר וא\"ל דלשון בחיי מורה על זה דהא זה הלשון אצטריך דאם לא יאמר אלא במותי יהיה היתר בחייו תיכף אלא ודאי דלא צריך תיקון אלא לענין מיתה אבל לא למכירה וכן משמע בסימן רכ\"ו שכתב הטור אבל אם אמר חצר זו לא מהני כפייה שהרי אסור בו אף לאחר שימכור ועל פי זה מתורצות קושיות בית יוסף דסיפא שכתב הטור קונם לביתי שאתה נכנס כו' מיירי בלא פירש וקמ\"ל דלענין מכירה מותר באומר לביתי ואין אוסר אלא באומר לבית זה דלגבי מכירה לא אכפת לן כלל אם אומר בחיי ובמותי ואגב מכירה נקט הטור גם מיתה כן נ\"ל נכון לדעת הטור אבל להלכה כבר פסק הש\"ע שא\"צ כאן לומר בחיי ובמותי ומש\"ה לא הזכירו אלא כל שאומר בית זה אסור אפי' מת או מכרו דכיון דאמר זה אסרו לעולם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 216:10"
+        },
+        "11": {
+          "he": "משמע אפי' אחד מהם. בתשובת רשב\"א הביאו ב\"י סי' רכ\"ח מביא ראייה לזה מדקי\"ל פרק השואל כרבי יונתן דאמר אביו ואמו קלל משמע שניהם כאחד ומשמע כל אחד בפני עצמו עד שיפרוט לך הכתוב יחדיו כדרך שפרט בשור וחמור ואף זה בהשביעו משמע שלא ילויהו כ\"א ברשות שניהם או ברשות אחד מהם לבד עכ\"ל ולפי זה אף אם שניהם חיים די לו אם עושה ברשות אחד מהם ומה שהוזכר שמת אחד מהם מעשה היה כך וכן כתב בהדיא בסי' רכ\"ח סעיף מ' ועיין מה שכתבתי שם מדברי ריב\"ש סימן תנ\"ג והיאך קיי\"ל להלכה: ומה שכתב אחר זה) אלא אם כן יתירו לו שבועתו הטעם דאפשר דהכי קאמר שלא תהא שום אשה נשואה לו אחר נישואיה ולפי מה שכתב בסוף סי' ר\"ח סעיף ה' דאם אמר לשון שמשמעו שלא יעשה נשואין כו' הכי נמי הוה כן דבלשונו תליא מילתא כפי החילוק דלעיל כן נ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 216:11"
+        },
+        "12": {
+          "he": "ככרי זה אסורה כו'. גם בבית יוסף כתב שכן מצא הגירסא בטור אבל בטורים ישנים לא כתב אלא ככרי ולא זה וכן הוא בהדיא באשר\"י בפירוש שלו בנדרים וכן עיקר דעיקר הטעם כאן דמותר במת ונפלו לו בירושה הוא מטעם שלא אמר זה דאלו אמר ככרי זה הוה דינו כמו לבית זה דבסעיף ז':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 216:12"
+        },
+        "13": {
+          "he": "ביין אחר. אבל בחומץ לא איכפת לן ביש לו מתירין כיון שאינו מינו ונתבאר בסי' ק\"ב סעיף א' דדבר שיש לו מתירין בטל באינו מינו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 216:13"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "אסור בחילופיהן. בכל אופן שנתבאר כמו שאסר על עצמו ש\"ך. ועיין בתשובת רבינו עקיבא איגר סוס\"י ס\"ה בשם בנו הרב מהר\"ש איגר זצ\"ל שטען ע\"ז דהא אחד מן האופנים שנתבאר הוא דבאמר פירות אלו עלי אם הוא דבר שזרעו כלה גידולי גידולין מותרין אבל הגדולים עצמן אסורים והטעם דלא בטל האיסור בגדולים מבואר בש\"ך ס\"ק ג' דהוא דשיל\"מ והרי זה נכון באומר קונם עלי דבידו להתיר אבל באומר קונם על פלוני דאין ביד פלוני להתיר מהראוי דגם גידולים עצמן מותרין דעתה אינו דשיל\"מ (עיין לעיל סימן ק\"ב ס\"ק יו\"ד מ\"ש בזה) וא\"כ אינו בכל אופן שנתבאר ע\"ש ועיין בתשובת ברית אברהם חי\"ד סימן ל\"ז אות ב' ודו\"ק. ועיין בספר בני אהובה פ\"ה מהלכות אישות סוף הלכה ב' מ\"ש בזה דלא תיקשי ממ\"ש המחבר בא\"ח סימן תמ\"ג דחליפי חמץ מותרין ואפילו להמחליף דהא בש\"ס מדמה להו להדדי ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 216:1"
+        },
+        "2": {
+          "he": "משמע אפילו אחד מהם. עבה\"ט בשם רא\"מ ועיין בתשובת רבינו עקיבא איגר זצ\"ל סימן מ\"ו שכתב דהיכא שהוא להקל כגון שנשבע שלא יעשה זאת וזאת או שלא יאכל זאת וזאת אין לסמוך על הרא\"מ בזה להקל ואסור אפילו באחד מהם וע\"ש עוד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 216:2"
+        },
+        "3": {
+          "he": "שיפרוט לך. עיין מה שהקשה על זה בסוף ספר מהר\"מ ברבי מדלעיל סימן כ\"ח ועיין בתשובת אא\"ז פנים מאירות ח\"ב סימן קי\"ז:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 216:3"
+        },
+        "4": {
+          "he": "בתבשיל שיש בו טעם. עיין בתשובת תשואת חן סימן נ\"ז שכתב דאסור גם כן בתבשיל שנתבשל בקדרה של בשר ב\"י אם נתבשל אחר הנדר אמנם אם נתבשל קודם הנדר מותר כדלקמן סימן רי\"ז סעיף י\"ב אפילו אם אמר קונם טעם בשר עלי דאז גם הטעם שיצא מבשר קודם שנדר בכלל זה מ\"מ שרי לאכול התבשיל שנתבשל בקדרה של בשר קודם שנדר משום דהוי נ\"ט בר נ\"ט דהתירא דלא כספר גינת וורדים כלל ס\"ה ע\"ש. וע' בתשובת ברית אברהם חי\"ד סימן י\"ז שכתב בגזירת צבור שהבשר יהיה טרפה אין חשש לאסור הכלים אף דכל היכא דשוי חתיכה דאיסורא גם הטעם אסור ויש לאסור גם הכלים מ\"מ הא באם גזרו שהבשר יהיה טרפה אינו ענין לשויא ח\"ד מדין נדר דהא א\"א להיתר להעשות טרפה כדלעיל סימן ר\"ה ואין ענין אך לדין תקנת הצבור שיש כח בידם לאסור המותר וכבר כתב בתשובת הראנ\"ח ח\"ב סימן ע\"א דבתקנת הצבור אזלינן בתר לשון בני אדם והא קי\"ל דבלשון ב\"א אין הטעם בכלל בשר ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 216:4"
+        },
+        "5": {
+          "he": "זה שאסרו על עצמו. [עיין מש\"ל סי' ק\"ב ס\"ק י' מזה]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 216:5"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "בחלופיהם.  (והיינו שהחליפם בד\"א אסור אותו הדבר אחר) כתב הרא\"ש דוקא להמחליף אסורים אבל לאחר מותרים וכן אם החליפם אחר מותרים להנודר והר\"ן אוסר בכל ענין דמשוי ליה כהקדש ומיהו היכא דלא אמר אלו כ' הר\"ן דמותר בהחליפן אחר ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 216:1"
+        },
+        "2": {
+          "he": "בגידולי.  בדבר שאין זרעו כלה והב\"ח כ' דהרמב\"ם והרא\"ש והטור לא אסרי גידולי גידולין אלא בקונם מה שאני אוכל או טועם מהן והכי נקטינן עכ\"ל אבל הט\"ז והש\"ך חולקין עליו ופסקו כהמחבר:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 216:2"
+        },
+        "3": {
+          "he": "מותרים.  כתב הט\"ז דבאשר\"י פ' הנודר מן הירק בפסקיו כתב ואפי' בחילופי חילופיהן אסור ותימה על הב\"י שלא ראה הך דהרא\"ש עכ\"ל (ובנה\"כ השיג עליו וכתב דט\"ס הוא בפסק הרא\"ש ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 216:3"
+        },
+        "4": {
+          "he": "פלוני.  כלומר של איש פלוני אבל אם אמר פירות של מין פלוני כגון קונם תאנים או ענבים עלי כיון שאסר עליו כל המין לא עשאם עליו הקדש שלא נתכוין אלא מאכילת אותו המין ומ\"ה לא מיתסר בחילופיהן ובגידוליהן כן הוא בר\"ן ודלא כהלבוש עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 216:4"
+        },
+        "5": {
+          "he": "אפילו.  כתב הט\"ז וא\"ל יבטל האיסור בגידולין שרבו עליו שהרי הוא דבר שיל\"מ שהרי לנדר יש התרה בפתח או בחרטה ובזה מתורץ נמי למה לא יהא מותר מטעם זה וזה גורם עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 216:5"
+        },
+        "6": {
+          "he": "ידיך.  כתב הש\"ך וא\"ל הא מעשה ידיך דבר שאין בו ממש הוא דאיכא לאוקמי באומר קונם ידיך למעשיהן א\"נ מעשה ידי אשתו לאחר שתעשה דבר שיש בו ממש הוא מיהו כתב הר\"ר יונה דלא מיתסר אלא בכנגד מעשה ידיה שאם אשתו טחנם ואפאם ומכרה לחם להיות מעות שכנגד טחינה ואפייה שלה וכנגד חטים שלו עכ\"ל הר\"ן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 216:6"
+        },
+        "7": {
+          "he": "שמכרן.  דוקא לאחר אבל מכרן לנודר עצמו אסור שהרי הוא נהנה מביתו שמכחו בא לו כ\"כ הריב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 216:7"
+        },
+        "8": {
+          "he": "ובנאו.  משמע אבל קנה לגמרי בית אחר מותר שלא היתה כוונתו אלא על בית שהיה לו בשעת נדר הן שיהיה כן או ישתנה אבל לא על בית אחר לגמרי ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 216:8"
+        },
+        "9": {
+          "he": "חלציו.  כלומר בית אביך שאמר היינו יוצאי חלציו ולפ\"ז אם מכרו מותר אלא דמ\"מ אסור לילך ליוצאי חלציו ומ\"מ יש לגמגם על הר\"ב דבתוס' ובמרדכי לא משמע כן אלא באמר ע\"מ שלא תלכי לבית אביך אבל לשון קונם בית אביך כו' י\"ל דאבית ממש קאמר דאילו איוצאי חלציו לא שייך לומר שאני נכנס בו אלא שאני הולך עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 216:9"
+        },
+        "10": {
+          "he": "לעולם.  כתוב בתשו' מהרי\"ל על הבן המדיר עצמו מנכסים אלו אפי' כשאמר לביתך זה אסור בו אפילו אחר מות הנודר מדקאמר זה מה לי אבוה ומה לי אחר אי משום דראוי ליורשו בחייו נמי צריך לו לכמה ענינים ליהנות משל אביו עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 216:10"
+        },
+        "11": {
+          "he": "שנפל.  דמספקא לן אי תפוס לשון ראשון או אחרון הלכך יש להחמיר כשתי הלשונות והיש מי שמתיר וכו' ס\"ל דלביתך ל' ראשון דייקא ולא זה והיש מי שאוסר כו' ס\"ל דלישנא בתרא דהוא זה עיקר ט\"ז וש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 216:11"
+        },
+        "12": {
+          "he": "אסור.  (משמע אפי' שלא אמר בחיי ובמותי אסור). ונראה דאם נפל וחזר ובנאו מותר כדלעיל ס\"ה וכן אם אמר קונם לכשיצא מרשותי אינו יכול לאסרו דצריך להתחיל האיסור בעודנו ברשותו. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 216:12"
+        },
+        "13": {
+          "he": "מותר.  אבל אם נפל ובנאו אסור כיון שאמר ביתי ועדיין ביתו הוא כדלעיל ס\"ד ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 216:13"
+        },
+        "14": {
+          "he": "משמע.  כתב הש\"ך לפ\"ז לאו דוקא מת אחד מהם דה\"ה שניהם חיים יכול לעשות ברשות אחד מהם (כיון דטעמא הוא דקיי\"ל כרבי יונתן עד שיאמר יחדיו וכ\"מ לקמן סי' רכ\"ח סעיף מ' ובתשובת הרא\"ם כתב שצריך דוקא רשות שניהם) דבנדרים הולכין אחר לשון בני אדם ופוק חזי מאי עמא דבר במי שקיבל עליו ב' דיינים שאין דן יחידי מהם וכ\"ש בנדון זה עיין שם ועיין בסי' רכ\"ח ס\"מ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 216:14"
+        },
+        "15": {
+          "he": "המשודכת.  כתב הש\"ך דמצא בבדק הבית שהגיה במקום ולא ישא המשודכת ולא ישא אחרת עליה וכן משמע מל' תשובת הרשב\"א ולפ\"ז מותר להכניס המשודכת וא\"כ דברי הרב צ\"ע וכתב הט\"ז ולפי מ\"ש בסי' ר\"ח ס\"ה דאם אמר לשון שמשמעו שלא יעשו נשואין וכו' ה\"נ הוי כן דבלשונו תליא מילתא כפי החילוק דלעיל עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 216:15"
+        },
+        "16": {
+          "he": "מותרת.  כתב הש\"ך תימא דאמאי כתב סתם דמותרת הא לעיל ס\"ו מספקא לן אי תפוס ל' ראשון או אחרון א\"כ אם אמר זה יהיה אסור לעולם וצ\"ע ובט\"ז כ' שבטורים ישנים לא כתב אלא ככרי ולא זה וכן הוא בהדיא באשר\"י וכן עיקר דאלו אמר ככרי זה הוה דינו כמו לבית זה בס\"ז עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 216:16"
+        },
+        "17": {
+          "he": "בתבשיל.  כתב הש\"ך נראה דהיינו מסתמא אבל אם היה הטעם יין או בשר קשה לו וכה\"ג אזלינן בתר כונתו ואסור בטעמן כדלקמן סי' רי\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 216:17"
+        },
+        "18": {
+          "he": "טעם.  ואם יש ישראל אחר שרשאי לטעום יכול לסמוך עליו ואם אין כאן אחר משערין בס' מיהו כ\"ז שלא במינו אבל במינו אפי' באלף לא בטיל ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 216:18"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

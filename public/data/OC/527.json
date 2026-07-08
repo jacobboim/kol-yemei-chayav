@@ -1,0 +1,1455 @@
+{
+  "chelek": "OC",
+  "siman": 527,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 24,
+  "fetchedAt": "2026-07-07T23:49:31.860Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני עירוב תבשילין. ובו כד סעיפים:יו\"ט שחל להיות בערב שבת לא יבשל בתחלה לצורך שבת בקדירה בפני עצמה אבל מבשל הוא כמה קדירות לי\"ט ואם הותיר הותיר לשבת וע\"י עירוב מבשל בתחילה לשבת (פי' ענין העירוב הוא שיבשל ויאפה מי\"ט לשבת עם מה שבשל ואפה כבר מעי\"ט לשם שבת ונמצא שלא התחיל מלאכה בי\"ט אלא גמר אותה) : הגה ומותר להניח עירוב זה אפי' ספק חשיכה (מרדכי ס\"פ במה מדליקין):",
+      "en": "1. The Laws of Eruv Tavshilin, 24 Seifim: If a holiday falls on Friday, one should not cook something for Shabbat in its own pot. One can cook many pots for the holiday and if he makes too much, the leftovers are for Shabbat. Using an eruv, one can cook for Shabbat. (Meaning that the point of the eruv is so that one can cook and bake on a holiday for Shabbat along with what was already baked or cooked for Shabbat before the holiday, so that he is not starting the work on the holiday but is just finishing it.) Rem\"a: It is permitted to make the eruv even at twilight (Mordechai at the end of Chapter \"Bameh Madlikin\").",
+      "ref": "Shulchan Arukh, Orach Chayim 527:1"
+    },
+    {
+      "seif": 2,
+      "he": "עירוב זה עושין אותו בפת ותבשיל ואם לא עשאו אלא מתבשיל לבד מותר:",
+      "en": "2. This eruv consists of bread and a cooked item. If one only made it using a cooked item, it is permitted.",
+      "ref": "Shulchan Arukh, Orach Chayim 527:2"
+    },
+    {
+      "seif": 3,
+      "he": "שיעור תבשיל זה כזית בין לאחד בין לאלפים בין בתחלתו בין בסופו: הגה ויש מצריכים לכתחלה בפת כביצה (א\"ז בשם ירושלמי) וכן נוהגין לכתחלה:",
+      "en": "3. The measure of this cooked item must be a kezayit (olive's weight), whether [the eruv] is for one person or for a thousand, at all points of its existence. Rem\"a: Some require the bread to be a kebeitzah (egg's weight) (Yerushalmi) and such is the practice, initially.",
+      "ref": "Shulchan Arukh, Orach Chayim 527:3"
+    },
+    {
+      "seif": 4,
+      "he": "צריך שיהא תבשיל זה דבר שהוא ראוי ללפת בו את הפת לאפוקי דייסא:",
+      "en": "4. The cooked item must be something that accompanies bread - not barley.",
+      "ref": "Shulchan Arukh, Orach Chayim 527:4"
+    },
+    {
+      "seif": 5,
+      "he": "תבשיל זה שאמרו אפילו צלי אפי' שלוק אפי' כבוש או מעושן אפי' מין דגים קטנים שהדיחן במים חמין והדחתן הוא בישולן לאכילה הרי זה סומך עליהם וכן סומך על תפוחים מבושלים (וה\"ה שאר פירות מבושלים) ועל דגים קטנים שבישלן:",
+      "en": "5. The cooked item can be roasted, stewed, pickled or smoked. It can even be the small fish that are prepared by putting them in hot water and this is how they are cooked - one can rely on them. It can be cooked apples (the same goes for other cooked fruits) or small fish that were boiled.",
+      "ref": "Shulchan Arukh, Orach Chayim 527:5"
+    },
+    {
+      "seif": 6,
+      "he": "סומך מעי\"ט אפילו על עדשים שבשולי קדרה וכן על שמנונית שנדבק בסכין וגרדו והוא שיהא בו כזית:",
+      "en": "One can rely upon lentils that are at the bottom of the pot before the holiday, or fat stuck to the knife that is scraped off, as long as it is a kezayit (olive's worth).",
+      "ref": "Shulchan Arukh, Orach Chayim 527:6"
+    },
+    {
+      "seif": 7,
+      "he": "מצוה על כל אדם לערב ומצוה על כל גדול העיר לערב על כל בני עירו כדי שיסמוך עליו מי ששכח או נאנס או שהניח עירוב ואבד (והוא הדין עם הארץ שאינו יודע לערב) (א\"ז) אבל מי שאפשר לערב ולא עירב אלא שרוצה לסמוך על עירובו של גדול העיר נקרא פושע ואינו יוצא בו:",
+      "en": "7. It is a mitzvah for everyone to make an eruv. It is incumbent on the leader of the city to make an eruv for his townspeople so that those who forgot to make an eruv, those who were forced not to, and those who made an eruv and lost it can rely on his. (This is also the case for ignoramuses who do not know who to make an eruv) (Or Zarua). However, one who can make an eruv and didn't make an eruv but rather wanted to depend on the leader's eruv is called a sinner and cannot rely on it.",
+      "ref": "Shulchan Arukh, Orach Chayim 527:7"
+    },
+    {
+      "seif": 8,
+      "he": "כשמערב על אחרים אינו צריך לפרט אלא מניח בכלל על כל בני העיר וכל מי שהוא בתחום העיר יוצא בו: הגה אבל מי שהוא חוץ לתחום אינו יוצא בו אפי' הניח עירוב תחומין ויכול לבא לכאן אא\"כ התנה עליו המניח בהדיא: (המגיד פ\"ו):",
+      "en": "8. When one makes an eruv for others, he need not specify (that). Rather, he can make it generally for all the residents of the town, and all who live within the techum (boundaries) of the town can rely on it. Rem\"a: However, somebody outside of the techum cannot rely on it, even if he made an eruv techumin and can enter [the town], unless the maker of the eruv mentioned him explicitly (the Magid chapter 6).",
+      "ref": "Shulchan Arukh, Orach Chayim 527:8"
+    },
+    {
+      "seif": 9,
+      "he": "דעת מניח בעינן שיכוין להוציא לאחר אבל דעת מי שהניחו בשבילו לא בעינן בשעת הנחה רק שיודיעוהו בי\"ט קודם שיתחיל לבשל לצורך שבת: הגה ואם דרך הגדול להניח עליהם סומכין עליו מסתמא (ר\"ן פ\"ב):",
+      "en": "9. The maker of the eruv must intend to exempt others, but he who is the beneficiary of the eruv does not need to intend such when the eruv is made. He [the eruv maker] should tell him on the holiday before starting to cook for Shabbat. Rem\"a: If the leader generally makes an eruv for everybody, we rely on it by default (Ra\"n chapter 2).",
+      "ref": "Shulchan Arukh, Orach Chayim 527:9"
+    },
+    {
+      "seif": 10,
+      "he": "המערב לאחרים צריך לזכות להם ע\"י אחר וכל מי שמזכים על ידו בעירובי שבת מזכין על ידו בעירובי תבשילין וכל מי שאין מזכין על ידו באותו עירוב אין מזכין על ידו בזה (וע\"ל סימן שס\"ו):",
+      "en": "10. One who makes an eruv for others must transfer possession to them using a [symbolic] person. And everybody who can be used for a Shabbat eruv can be used for an eruv tavshilin, and everybody who cannot be used for that eruv cannot be used for this eruv. (And see above chapter 366).",
+      "ref": "Shulchan Arukh, Orach Chayim 527:10"
+    },
+    {
+      "seif": 11,
+      "he": "צריך הזוכה להגביה העירוב מן הקרקע טפח:",
+      "en": "11. The one who receives the eruv must lift it off of the ground a tefach (a handsbreath).",
+      "ref": "Shulchan Arukh, Orach Chayim 527:11"
+    },
+    {
+      "seif": 12,
+      "he": "חוזר ונוטלו מיד הזוכה ומברך על מצות עירוב ואומר בדין יהא שרי לן לאפויי ולבשולי ולאטמוני ולאדלוקי שרגא ולמעבד כל צרכנא מי\"ט לשבת לנא ולפלוני ופלוני או לכל בני העיר הזאת: הגה ומי שאינו יודע בלשון הקודש יוכל לאמרו בלשון לעז שמבין: (מהרי\"ל)",
+      "en": "[The maker of the eruv] then takes the eruv from he who received it and blesses \"...on the commandment of eruv.\" He then says \"With this it will be permitted to bake, cook, insulate, light lamps, and do all that is needed for Shabbat on the holiday, for us and for X and for Y\" or \"for all the residents of this city.\" Rem\"a: And one who doesn't know the holy language can say it in the vernacular that he understands (the Mahari\"l).",
+      "ref": "Shulchan Arukh, Orach Chayim 527:12"
+    },
+    {
+      "seif": 13,
+      "he": "אע\"פ שהניח עירוב אינו יכול לבשל מיו\"ט ראשון לשבת:",
+      "en": "Even with an eruv, one cannot cook on the first day of the holiday for Shabbat.",
+      "ref": "Shulchan Arukh, Orach Chayim 527:13"
+    },
+    {
+      "seif": 14,
+      "he": "אם הניח העירוב על דעת לסמוך עליו כל זמן שיהיה קיים אפי' ליום טוב אחר לכתחילה לא יסמוך עליו ליו\"ט אחר אבל בדיעבד יכול לסמוך עליו:",
+      "en": "14.  If one made the eruv with the intention of relying on it as long as it exists, even on a different holiday, he should initially not rely on it on a different holiday, but after the fact, he can rely on it.",
+      "ref": "Shulchan Arukh, Orach Chayim 527:14"
+    },
+    {
+      "seif": 15,
+      "he": "נאכל העירוב או שנאבד קודם שבישל לשבת אינו יכול לבשל אא\"כ נשתייר ממנו כזית:",
+      "en": "15. If the eruv was eaten or lost before one cooked for Shabbat, he cannot cook unless a kezayit (olive's weight) remains.",
+      "ref": "Shulchan Arukh, Orach Chayim 527:15"
+    },
+    {
+      "seif": 16,
+      "he": "לאחר שהכין צרכי שבת יכול לאכלו:",
+      "en": "16. After preparing for Shabbat, he can eat it.",
+      "ref": "Shulchan Arukh, Orach Chayim 527:16"
+    },
+    {
+      "seif": 17,
+      "he": "התחיל בעיסתו ונאכל העירוב גומר אותה עיסה והוא הדין אם התחיל לבשל שגומר אותו התבשיל שהתחיל:",
+      "en": "17. If one started making dough and then the eruv was eaten, he can finish that dough. It is also the case that if one started to cook, he can finish the dish he started.",
+      "ref": "Shulchan Arukh, Orach Chayim 527:17"
+    },
+    {
+      "seif": 18,
+      "he": "אפה ולא בישל או בישל ולא אפה ונאכל העירוב או אבד מה שנעשה בהיתר אפי' נתכוין בו לצורך י\"ט יכול הוא להניחו לשבת ולבשל מכאן ואילך לי\"ט:",
+      "en": "If one baked but did not cook or cooked but did not bake and then the eruv was eaten or lost, what he legally made, even if it was intended for the holiday, can be left for Shabbat. He can then cook more food for the holiday.",
+      "ref": "Shulchan Arukh, Orach Chayim 527:18"
+    },
+    {
+      "seif": 19,
+      "he": "מי שלא עירב מותר להדליק נר של שבת ויש אוסרין:",
+      "en": "19. One who didn't make an eruv is allowed to light the Shabbat candle. There are some who forbid this.",
+      "ref": "Shulchan Arukh, Orach Chayim 527:19"
+    },
+    {
+      "seif": 20,
+      "he": "מי שלא עירב כשם שאסור לבשל לעצמו כך אסור לבשל לאחרים ואפי' בביתם וגם אחרים אסורים לבשל לו ואין תקנה אלא שיתן קמחו ותבשילו לאחרים שיערבו במתנה והם אופין ומבשלים ונותנין לו ואפילו בביתו יכולים לבשל ואם אין שם אחרים שעירבו י\"א שמותר לאפות בצמצום פת אחד ולבשל קדרה אחת ולהדליק נר אחד. הגה ואם הניח עירוב ולא הזכיר המלאכות בהדיא אלא אמר בדין יהא שרי לן למעבד כל צרכנא הוי כמי שלא עירב כלל (א\"ז) ומי שמתענה ביום טוב אסור לבשל לאחרים אפי' לצורך בו ביום דהוי כמי שלא הניח עירוב שאינו מבשל לאחרים (מהרי\"ו):",
+      "en": "20. If one did not make an eruv, just as it is forbidden for him to cook for himself, it is also forbidden for him to cook for others, even in their houses. Others are also forbidden to cook for him. The only solution is for him to give his flour and cooked things as a gift to others with an eruv. They can then bake and cook and give it to him. They can even cook in his house. If there are no others with an eruv, some say that he is permitted to minimally bake one loaf, cook one dish, and light one candle. Rem\"a: If he made an eruv but did not specify the labors explicitly, just saying \"With this it will be permitted for us to do all needed things,\" he is like somebody who made no eruv (Or Zarua). Somebody fasting on a holiday is forbidden to cook for others even for that day, because he is likened to somebody who made no eruv and is forbidden to cook for others (Maharil).",
+      "ref": "Shulchan Arukh, Orach Chayim 527:20"
+    },
+    {
+      "seif": 21,
+      "he": "אם נזכר שלא עירב קודם סעודת שחרית יבשל הרבה בקדרה אחת ויותיר לשבת: הגה והוא הדין שיכול לילך מבע\"י לחדר בנר דלוק לחפש איזה דבר ויניחנו דולק עד הלילה: (טור) וי\"א דאפי' לבשל כמה קדירות מותר כיון שקודם אכילה הוא והוא שיאכל מכל אחד ואחד:",
+      "en": "21.  If one realized that he did not make an eruv before the morning meal, he can cook a lot in one pot and the leftovers will be for Shabbat. Rem\"a: He can also go during the day into a room with a lit candle to look for something and leave it lit until night (Tur). There are some who permit even cooking in many pots, because it is before eating. This only holds when one eats from each one [that day].",
+      "ref": "Shulchan Arukh, Orach Chayim 527:21"
+    },
+    {
+      "seif": 22,
+      "he": "אם נזכר בי\"ט ראשון שלא עירב אם הוא בי\"ט של ר\"ה אינו יכול לערב על תנאי אבל אם הוא ביו\"ט של גליות יכול לערב בתנאי אם היום קודש אינו צריך לערב ואם היום חול בעירוב זה יהא שרי לן לאפויי ולבשולי וכו' ולמחר אין צריך לומר כלום ויש אומרים דאי לית ליה מידי דבשיל מאתמול לא מהני תנאו:",
+      "en": "22. If one realized that he didn't make an eruv on the first day of the holiday and it is Rosh Hashana, he cannot make an eruv on condition. However, if it is a Diasporean holiday, he can make an eruv on a condition: If today is holy, I do not need an eruv, and if today is a weekday, with this eruv it will be permitted for us to bake and cook... The next day, he need not say anything. Some say that if he doesn't have anything that was cooked yesterday, his condition does not work.",
+      "ref": "Shulchan Arukh, Orach Chayim 527:22"
+    },
+    {
+      "seif": 23,
+      "he": "אם עבר במזיד  (או בשוגג) ובישל כמה קדירות שלא לצורך י\"ט מותר לאכלן בשבת או בחול:",
+      "en": "23. If one sinned intentionally (or unintentionally) and cooked many dishes not for the sake of the holiday, he can eat them on Shabbat or a weekday.",
+      "ref": "Shulchan Arukh, Orach Chayim 527:23"
+    },
+    {
+      "seif": 24,
+      "he": "אם הערים לבשל ב' קדירות לצורך היום והותיר אחת לצורך מחר אסור לאכלה:",
+      "en": "24. If one tried to circumvent the law by cooking two dishes for today and leaving one leftover for tomorrow, he is forbidden to eat it.",
+      "ref": "Shulchan Arukh, Orach Chayim 527:24"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה ביצה ט\"ו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:1"
+        },
+        "2": {
+          "he": "משמעות המשנה ב\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:2"
+        },
+        "3": {
+          "he": "טור בשם ר\"ת ורבי שמעון הזקן ובה\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:3"
+        },
+        "4": {
+          "he": "הגהת מיימוני דסומכין על ר\"י והרי\"ף וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:4"
+        },
+        "5": {
+          "he": "שם בגמרא ט\"ז כר' אבא וכרב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:5"
+        },
+        "6": {
+          "he": "שם וכלישנא בתרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:6"
+        },
+        "7": {
+          "he": "כרבי זירא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:7"
+        },
+        "8": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:8"
+        },
+        "9": {
+          "he": "הגהת מיימוני בפ\"ה מה\"ת בשם סמ\"ג מהירושלמי נדרים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:9"
+        },
+        "10": {
+          "he": "משמעות דברי רב יוסף שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:10"
+        },
+        "11": {
+          "he": "שם תני ר' חייא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:11"
+        },
+        "12": {
+          "he": "שם מימרא דרב יצחק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:12"
+        },
+        "13": {
+          "he": "שם ט\"ו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:13"
+        },
+        "14": {
+          "he": "מהא דאבוה דשמואל ורב אסי שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:14"
+        },
+        "15": {
+          "he": "מעובדא דההוא סמיא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:15"
+        },
+        "16": {
+          "he": "מהא דאבוה דשמואל ורב אמי ורב אסי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:16"
+        },
+        "17": {
+          "he": "שם בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:17"
+        },
+        "18": {
+          "he": "פשוט שם בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:18"
+        },
+        "19": {
+          "he": "שם מהא דמכריז רב יעקב בר אידי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:19"
+        },
+        "20": {
+          "he": "הרי\"ף והרא\"ש שם מהא דציינתי לעיל בסימן שס\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:20"
+        },
+        "21": {
+          "he": "גם זה ציינתיו שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:21"
+        },
+        "22": {
+          "he": "גם זה ציינתי שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:22"
+        },
+        "23": {
+          "he": "טור בשם הרא\"ש ובעל העיטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:23"
+        },
+        "24": {
+          "he": "כל בו בשם רבינו חננאל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:24"
+        },
+        "25": {
+          "he": "כדעת רא\"ש לטעמי' דרב אשי בע\"ת שם בגמרא ט\"ו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:25"
+        },
+        "26": {
+          "he": "משנה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:26"
+        },
+        "27": {
+          "he": "ברייתא שם י\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:27"
+        },
+        "28": {
+          "he": "מימרא דאביי שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:28"
+        },
+        "29": {
+          "he": "הראב\"ד בהשגות בפ\"ו מהלכות י\"ט וכ' שסברא ככונה היא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:29"
+        },
+        "30": {
+          "he": "ב\"י מדברי הרמב\"ם בנוסח לשון העירוב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:30"
+        },
+        "31": {
+          "he": "הרא\"ש והר\"ן שם בפ\"ב דביצה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:31"
+        },
+        "32": {
+          "he": "בעיא ונפשט' שם י\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:32"
+        },
+        "33": {
+          "he": "מימרא דרב הונא כ\"א כפי פירוש הרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:33"
+        },
+        "34": {
+          "he": "מרדכי בפ\"ב דביצה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:34"
+        },
+        "35": {
+          "he": "ר\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:35"
+        },
+        "36": {
+          "he": "שם ו' בעובדא דרבינא י\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:36"
+        },
+        "37": {
+          "he": "טור בשם ר' אפרים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:37"
+        },
+        "38": {
+          "he": "בעיא שם ולא נפשטא ופסקו הפוסקים לקולא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:38"
+        },
+        "39": {
+          "he": "שם בגמרא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 527:39"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "בקדירה עט״ז עסי׳ תק״ג וביצה י״ו ב׳ ברש״י ד״ה היה אלמא בראשון נזכר ואמאי עציב למחר ביום ב׳ יבשל בקדירה אחת הרבה שיהא שמן ויותיר לשבת לכן פי׳ דהיה רוצה לשבת תבשיל אחר לכן עציב:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:1"
+        },
+        "2": {
+          "he": "אבל עט״ז עיין אות כ״ב ועיין אות א׳ ההוא סמיא בענין הערמה כ״ב מינים יש ליישב:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:2"
+        },
+        "3": {
+          "he": "אפי׳ עיין ט״ז משמע די״ט חלוק משבת דלא הוי קבלה ברכו ובשבת הוי קבלה ברכו ע׳ סי׳ רס״א רס״ג וזה חידוש ועמ״א אות א׳ מ״ש שבת היינו י״ט וחל י״ט ב׳ בשבת א״נ ה״ו וצריך תנאי משמע דקבלת י״ט ברכו כשבת ועא״ר אות ג׳ ורס״ג אות ל״ה ואי״ה במ״א יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:3"
+        },
+        "4": {
+          "he": "בפת ותבשיל עט״ז ופת לחוד לא מהני לבשל עט״ז ב׳ ובא״ר ד׳ בשם רש״ל אף לאפות אסור וכ״כ הע״ש בשם הג״א פ״ג די״ט יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:4"
+        },
+        "5": {
+          "he": "לאפוקי דיסא עט״ז להניח ע״ת דוקא בעי״ט וזה תלוי בב׳ הטעמים בגמרא. מ״ש המחבר בסופו היינו נאכל בעינן עכ״פ שנשאר כזית ויאפה ויבשל עליו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:5"
+        },
+        "6": {
+          "he": "אפילו שלוק עט״ז רש״י י״ו ב׳ ומשמע אף למ״ד בעלמא שלוק חמור מבישול כאן בעינן ראוי לאכילה ללפת שלא ע״י הדחק וכמאב״ד לא וה״ה כל כיוצא בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:6"
+        },
+        "7": {
+          "he": "אפי׳ עט״ז עמ״א חולק על זה ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:7"
+        },
+        "8": {
+          "he": "ומצוה עט״ז ועא״ר ט׳ דמיירי כשבא חוץ לתחום עס״ח יע״ש והיינו ע״י עירוב:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:8"
+        },
+        "9": {
+          "he": "נקרא עט״ז עב״י ומ״ש ולפ״ז אין מצוה עיין אות ח׳ לכאורה לפ״ז למ״ש המחבר כהרא״ש דיעבד אין יוצא אפי׳ מכוין להוציא פושעים אם כן למה מצוה על גדול העיר הא עזרא לא הניח משא״כ אי כרש״י י״ל בימי עזרא אכשור דרי ולא היו מתרשלים משא״כ עתה מצוה שמא יש מתרשלים וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:9"
+        },
+        "10": {
+          "he": "רק עט״ז וצריך לזכות ע״י אחרים כמבואר בסימן שס״ו ס״י לכתחלה יזכה ע״י גדול יג״ש וב״ש ודיעבד ע״י אשתו נמי שרי:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:10"
+        },
+        "11": {
+          "he": "ולאדלוקי שרגא עט״ז ועא״ר ט״ז דיעבד שרי ולכתחלה אם צריך לשחוט מי״ט לשבת טוב לכלול בעירוב:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:11"
+        },
+        "12": {
+          "he": "מי״ט עט״ז עב״י ולא היה הזמן מספיק כעת לעיין בזה ומ״ש כשחל י״ט ו׳ ז׳ נכון לומר בעי״ט מי״ט לחבירו לכלול מה שמבשל מיום ו׳ ליום ז׳ בשביל כבוד י״ט וא״ר אות י״ז הביאו ויש ט״ס שם עליונים למטה נתחלפו השורות יע״ש: אמר ההדיוט הכותב ראיתי לכתוב קצת בענין ע״ת הנה ראוי ליקח פת שלם כביצה עם כזית בשר או דג מבושל ראוי לאכילה לא שיהא חצי בישולו גם שלא יהא מצות בזויות עליו והנוסח מבואר בסידורים: שאלה הניח ע״ת לחם עם ביצה מבושלת דמשמע דיי״ח ללפת במשנה כדג וביצה שעליו כו׳ ובי״ט נולד ביצה ובשלה ונתערבה בהרבה דשיל״מ י״ל כאן לא הוי דשיל״מ דא״כ יהא אסור לבשל בשבת עדיף מנתקלקל א״ד הואיל ובתבשיל זה לית הפסד אם ימתין אסור ולא הוי עירוב דהוי כנאבד הואיל ואסור לאכול בי״ט ומצה שבורה נתערב בע״פ חמץ במצה בי״ט נאסר יבש ביבש למ״ד חוזר וניער אסור כה״ג ואין סומכין משום עירוב וצ״ע ואם אין לי״ט כ״א דבר שנתערב כה״ג צ״ע אם הוי דשיל״מ עסי׳ תקכ״ט עונג י״ט שוה לשבת ולהתענות ג״כ אסור בי״ט:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:12"
+        },
+        "13": {
+          "he": "אם עט״ז וכבר כתבנו לעיל מזה דלכתחלה צריך להניח עי״ט העירוב דוקא:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:13"
+        },
+        "14": {
+          "he": "לאחר עט״ז וכ״ה המ״א אות ט״ו ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:14"
+        },
+        "15": {
+          "he": "אפ״ה עט״ז ועיין א״ר אות כ״ג מ״ש ליישב דברי הלבוש ז״ל יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:15"
+        },
+        "16": {
+          "he": "וי״א עט״ז ועמ״א אות י״ח ועא״ר אות כ״ה לענין הוצאה כה״ג:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:16"
+        },
+        "17": {
+          "he": "ואפילו עט״ז פירש הטעם דהאיש זה אין דרכו לבשל לאחרים אם כן יאמרו ודאי שלא הניח ע״ת ורוצה להקל לעצמו בבית אחרים לכן אסור אבל אלו היינו יודעין בפירוש שלאחרים שרי אלא דיטעו העולם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:17"
+        },
+        "18": {
+          "he": "הוי עט״ז ובמ״א אי״ה יבואר אי יש לחלק בין לא הזכיר המלאכות כלל או הזהיר א׳ והב׳ לא הזכיר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:18"
+        },
+        "19": {
+          "he": "ויותיר עט״ז עסי׳ תק״ג ובט״ז אות ג׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:19"
+        },
+        "20": {
+          "he": "והוא עט״ז ועיין אות כ״ג:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:20"
+        },
+        "21": {
+          "he": "בי״ט עט״ז ואם נזכר ביה״ש של יום ב׳ אע״ג דהוי כס״ס שמא עדיין יום ומהני תנאו ושמא י״ט ב׳ חול ולדידן דבקיאין בקביעא דירחא אפ״ה י״ל דלא מהני ואין מניח ע״ת כה״ג ועמ״ש אי״ה במ״א אות א׳ יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:21"
+        },
+        "22": {
+          "he": "אם עט״ז וי״ל ועא״ר אות ל׳ יע״ש.",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 527:22"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] בפני עצמה וכו'. אבל בקדירה אחת אף שמערים ומרבה מותר (תוס'):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:1"
+        },
+        "2": {
+          "he": "[ב] [לבוש] סמוך לחשיכה וכו'. ולכן נהגו כשחל יום טוב בערב שבת מקדימין להתפלל ערבית:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:2"
+        },
+        "3": {
+          "he": "[ג] ספק חשיכה וכו'. ואם קיבל שבת כגון שאמרו ברכו אסור (מגן אברהם), והט\"ז פסק בשם ראב\"ן דמערב כל זמן שלא התפלל תפילת יום טוב ואינו נראה דראב\"ן אזיל לטעמיה דסבירא ליה גם בשבת הכי כמו שכתב בסימן רס\"ג ס\"ק ל\"ג. ומי שהוא בבית הכנסת ואם ילך לבית להניח עירוב תבשילין יעבור זמן המנחה יתפלל מנחה ולא יניח עירוב תבשילין דיוכל להקנות קמחו לאחרים:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:3"
+        },
+        "4": {
+          "he": "[ד] [לבוש] אבל בדיעבד וכו'. אבל על הפת לחוד אין לסמוך אף לאפות (רש\"ל). אסור לעשות עירוב תבשילין לפני ערב יום טוב רק בערב יום טוב ובדיעבד מותר אם עשה תבשיל מיוחד לעירוב תבשילין או הפריש לשם כך אף שלא בירך ברכת עירוב תבשילין סמוך עליו בדיעבד בין עשה הוא בין עשה אשתו (רש\"ל), ומגן אברהם כתב ס\"ק כ\"ג וחולק עליו מהא דסעיף כ\"ג דאפילו אומר למיעבד כל צורכנא אסור, מיהו כשאומר בדין יהא וכו' ולא אמר הברכה מותר ולקמן כתבתי בזה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:4"
+        },
+        "5": {
+          "he": "[ה] כזית וכו'. יש ליזהר שלא ליקח פת ועצם שפל דעושין המצוה בביזוי ואפשר שאחר כך משליכין אותו אלא כל איש השמח במצוה יקח פת מוכן לסעודת שבת ותבשיל חשוב כגון חתיכת דג חשוב או בשר או תבשיל המוכן לסעודת שחרית (של\"ה דף י\"ז), ורש\"י כתב דבעינן דבר שאינו אוכל בכל יום שיהא מוכחא מילתא שעושה לכבוד שבת מהרי\"ל היה נוהג היה מניח הבשר על הטעלי\"ר ולא על הגלוסקא משום מיאוס וגם לקח לחם שלם ולקחו ללחם משנה בליל שבת ובשחרית ובסעודה שלישית היה בוצע עליו, עד כאן, ולשון בעל הלכות גדולות דף ל\"ו ששקלין ריפתא ומתנח בגווה בשרא מבושל וכו':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:5"
+        },
+        "6": {
+          "he": "[ו] [לבוש] שאין דרכו וכו'. אפילו במקום שמלפתין בו את הפת בטלה דעתן, ונראה לי דהוא הדין שאר מיני ליפתן וקטניות במקום שאין דרך ללפת בהן את הפת אסור לערב בהן (מגן אברהם):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:6"
+        },
+        "7": {
+          "he": "[ז] שלוק וכו'. פירש רש\"י מבושל הרבה מאוד. כבוש בחומץ או בחרדל כדי שיתנו על האור ויתחיל להרתיח וכן אם נשרה יום שלם בדבר לח וכל זה כשראוי לאכילה בכך (מגן אברהם):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:7"
+        },
+        "8": {
+          "he": "[ח] עדשים וכו'. דוקא אם להם תבשיל אחר ובמקום שמלפתין בו את הפת (אחרונים):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:8"
+        },
+        "9": {
+          "he": "[ט] ומצוה גם כן וכו'. הקשה הט\"ז מביצה דף ט\"ז ושלחו מנות לאין נכון למי שאין מניח עירוב תבשילין הא ודאי הניח כל גדול העיר גם על אחרים כיון שהוא מצוה, עד כאן. ולעניות דעתי דהך מצוה נקט הטור שראה שרגילין לשכוח מכח טרדות הזמן אבל בימי הש\"ס לא היה מצוה וקל להבין, עוד אפשר דמיירי לאותן שבאו חוץ לתחום עיין סעיף ח':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:9"
+        },
+        "10": {
+          "he": "[י] שכח וכו'. ומעשה דסמיא בש\"ס מיירי נמי ששכח ומכל מקום מיקרי פושע כיון ששכח פעם שנית, וכן כתב רש\"ל סימן ו', עוד כתב דמי ששכח מחמת עצלות פושע הוא:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:10"
+        },
+        "11": {
+          "he": "[יא] שאינו יודע וכו'. והוא הדין יודע אלא שאין יודע שמחויב כל אחד לערב:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:11"
+        },
+        "12": {
+          "he": "[יב] [לבוש] אף על פי שנזכר וכו'. לשון אפילו אינו מדוקדק דאדרבה כשלא נזכר סומך על הגדול ולשון הטור ושולחן ערוך אינו כן וצריך לומר דקאי על דעתו שרוצה לסמוך דזה הוא רבותא. כתב הט\"ז כדאי רש\"י ורשב\"א לשמוע להם דמהני סמיכה אם הגדול מכוין לכך:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:12"
+        },
+        "13": {
+          "he": "[יג] שדעתו וכו'. פירוש על מי שהניח עירוב תחומין אבל למי שלא הניח לא מהני:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:13"
+        },
+        "14": {
+          "he": "[יד] [לבוש] אפילו מעלה לה מזונות וכו'. וצריכה עירוב כיון שאינה אוכלת מתבשילו (רש\"ל), ואם כן צריך להניח עירוב בעד האלמנות אבל היודעת צריכה לערב בעצמה (מגן אברהם), ועיין סימן שס\"ו סעיף י' מדינים שבסעיף זה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:14"
+        },
+        "15": {
+          "he": "[טו] מן הקרקע וכו'. פירוש ממקום שהעירוב מונח עליו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:15"
+        },
+        "16": {
+          "he": "[טז] ולאטמוני וכו'. ואם רוצה לשחוט אסור עד שיאמר בפירוש ולשחוט (תשובת רש\"ל ע\"ח), והב\"ח והט\"ז השיגו עליו באריכות וכן נראה לי מוכח מרבינו ירוחם דף ל\"ג ע\"א ומכל מקום לכתחילה טוב לאומרה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:16"
+        },
+        "17": {
+          "he": "[יז] מיום טוב לשבת וכו'. ואם חל יום ראשון ביום ששי דאז ליום טוב שני שהוא שבת מבשל טפי משאר שבת (ט\"ז). ופשוט דיחיד שמערב לעצמו אין אומר ולפלוני וכו' או לכל העיר וכו' ועוד דהא לא מהני כשאין נותנין ליד אחר כדלעיל ועולם טועין ואומרים כל הנוסח נכון שיאמר מיום טוב לחבירו ומיום טוב לשבת:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:17"
+        },
+        "18": {
+          "he": "[יח] [לבוש] אסור וכו'. ואפילו עבר ובישל אסור ליהנות ממנו עד אחר שבת, ולא דמי לסעיף כ\"ג דאם עבר מותר דשאני הכא דאפשר לבשל בערב שבת (רש\"ל), ואינו מכיר חילוק זה כלל וכל שכן שאין איסור לאוכלו על כל פנים ביום טוב (ט\"ז), ואם לא בישל בערב שבת משמע דלכולי עלמא מותר בשבת וכן משמע בשיירי כנסת הגדולה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:18"
+        },
+        "19": {
+          "he": "[יט] [לבוש] טוב יותר וכו'. משמע כשיודע שאי אפשר לו לבשל ביום חמישי אבל בערב שבת אוסר וכן מגן אברהם מסתפק בזה דהוי כמו אם יום טוב ביום חמישי וביום ששי הוא חול ויש אונס שאין יכול ליאפות ביום ששי דאסור ליאפות ביום חמישי לשבת על ידי עירוב וכן משמע בתשובת הריב\"ש סימן ט\"ו שלא תיקנו עירוב תבשילין בזה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:19"
+        },
+        "20": {
+          "he": "[כ] ונאכל וכו'. היינו התבשיל אבל אם נאכל הפת אין בכך כלום עיין סעיף ב' ואפילו אם חל שני ימים טובים ביום חמישי וביום ששי ונזכר ביום טוב ראשון אין צריך לערב עיין סעיף כ\"ב (ים של שלמה):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:20"
+        },
+        "21": {
+          "he": "[כא] [לבוש] מותר וכו'. עיין ס\"ק ה':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:21"
+        },
+        "22": {
+          "he": "[כב] התחיל לבשל וכו'. כתב מגן אברהם נראה לי אפילו לא הניח עדיין הקדירה אצל האש רק שהתחיל בתיקונו כגון שחתך הלפתות וכדומה מותר לבשלו דהא בעיסה מיירי גם כן שהתחיל ללוש ומותר אחר כך לאפות, עד כאן, ורש\"י פירש [ביצה] דף י\"ז התחיל בעיסתו לתקנה ולאפותה, מיהו יש לומר דהכי קאמר לתקנה או לאפותה וכן הוא בהר\"ן:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:22"
+        },
+        "23": {
+          "he": "[כג] [לבוש] ולא יותר וכו'. פירוש לצורך שבת אין רשאי יותר אבל לצורך יום טוב כגון שלא עשה עדיין צורך היום מותר וכן אם כבר עשה ליום טוב יכול להניחו לצורך שבת ולעשות מכאן ואילך ליום טוב כמו שנתבאר בסעיף שאחרי זה ולא קאמר אלא דלצורך שבת אין ראוי לעשות יותר כן נראה לי ברור ולאפוקי מט\"ז שכתב שדברי לבוש סותרים:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:23"
+        },
+        "24": {
+          "he": "[כד] מותר להדליק וכו'. טעמייהו בביצה דף כ\"ב דקאמר מי שלא הניח עירוב תבשילין אופין לו פת אחת ומבשלין לו קדירה אחת ומדליקין לו הנר, ומדלא נקט נמי נר אחד משמע דכל צורכו מותר להדליק אף שלא הניח עירוב תבשילין כלל וכן משמע בהרא\"ש ור\"ן ומרדכי שזה טעמם, ומזה תימא דדוקא כשמערב עירוב תבשילין אלא שאין מזכיר הדלקה הוא דמותר אבל כשלא הניח כלל לכולי עלמא אסור הא בש\"ס מפורש שלא הניח כלל ואפילו הכי מותר וכמשמעות בית יוסף ושולחן ערוך, ומשמע בעבודת הקודש דף מ\"ה דהוא הדין להוצאה מותר וכן משמע מדכתב הגהות אשירי פרק ב' דביצה בנוסחת עירוב ולאפוקי מרשות היחיד לרשות היחיד וכו' ואנן לא אמרינן הכי אלמא דמותר דהא בזה תלה דין הדלקת הנר ואף רמ\"א כתב דאף למאן דאמר שאין מזכירין לאדלוקי מכל מקום אסור להדליק בלא עירוב תבשילין (מכל מקום אסור להדליק בלא עירוב), ומכל מקום מפוסקים הנזכרים לעיל משמע דתליא זה בזה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:24"
+        },
+        "25": {
+          "he": "[כה] ויש אומרים וכו'. היינו דפירשו ומדליקין לו נר יש לומר נר אחד כמו שכתב סעיף כ' וכן הדין כשעירב ואין מזכיר לאדלוקי כמו שכתבו תוס' דף כ\"ב, ולדינא כתב הב\"ח דבדיעבד יש לסמוך על המתירין להדליק נר של שבת שהוא מצוה ואף רמ\"א חולק אין דבריו מוכרחים בזה ועוד הא כתב שיירי כנסת הגדולה נהגו עלמא להדליק אפילו בלא עירוב:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:25"
+        },
+        "26": {
+          "he": "[כו] [לבוש] שיקנה קמח וכו'. במשיכה ולא בקנין סודר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:26"
+        },
+        "27": {
+          "he": "[כז] ואם אין שם אחרים וכו'. והוא הדין כשיש אחרים וכו' ואין רוצה להקנות להם (בית יוסף ורש\"ל):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:27"
+        },
+        "28": {
+          "he": "[כח] [לבוש] או יערים וכו'. אבל הפרישה כתב דבלבד נר אחד שהתירו לו להדליק בחדר שהוא אוכל שם יכול לחפש בחדר שאין בו צורך כל כך להדליק בו וכן משמע ברמ\"א:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:28"
+        },
+        "29": {
+          "he": "[כט] [לבוש] במזיד והותיר וכו'. לכאורה תמוה דמזיד או שוגג שייך כשמבשל לצורך מחר כמו שכתב בשולחן ערוך דבזה מותר בדיעבד כמו שמסיים אבל מזידין וכו', ודין דבישל לצורך היום והותיר קרי מערים כמו שכתב בשולחן ערוך ואולי יש חסרון בדברי לבוש. ודעת הב\"ח דאפילו שיש לחוש שהוא מזיד ואמר שוגג הייתי אין לנו להחמיר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:29"
+        },
+        "30": {
+          "he": "[ל] [לבוש] לצורך היום וכו'. שמבשל ואומר עוד אני צריך להזמין אורחים כדפירש רש\"י שם או כמו שכתב הריב\"ש סימן רנ\"ד שאופה לצורך היום וחוזר ואופה לצורך היום ואמר הראשונה תהיה למחר, אבל כשמבשל לאכול ממנו כזית בהערמה. כתב הלבוש אחר כך ואם נזכר וכו' ויש אומרים וכו' וכן נראה לי ברור פירוש השולחן ערוך דלא לסתור עצמו בסעיף כ\"א לסוף סעיף זה ולאפוקי מט\"ז שתמה ונדחק לחינם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:30"
+        },
+        "31": {
+          "he": "[לא] [לבוש] אסור וכו'. עיין בים של שלמה פרק ב' סימן י\"ז דגם הרא\"ש מודה לזה והב\"ח האריך ולא ראה בים של שלמה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:31"
+        },
+        "32": {
+          "he": "[לב] ויש אומרים וכו'. עיין סימן תק\"ג ס\"ק [ג'] העליתי דעיקר כסברא ראשונה, וכן דרכו של השולחן ערוך לפסוק כראשונה שכתב כסתם ולפי זה הוא הדין אחר אכילה אסור אפילו בקדירה אחת כיון שאין צריך לכלום, והוא הדין קודם אכילה כשאין צריך למידי מקדירה זו מיהו בדיעבד אין לאסור בהערמת אלו ועיין סימן תק\"ג ס\"ק ה':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:32"
+        },
+        "33": {
+          "he": "[לג] ונזכר וכו'. זה לשון הרוקח סימן ש\"א שכח ולא עירב בערב יום טוב ונזכר ביום טוב בלילה אין להניח ואם הניח עשוי דאמרינן בין, עד כאן, והיינו כדלעיל סימן של\"ט סעיף ד' וסוף סימן תקכ\"ד, וכולן אם עשאן וכו' מיירי שיום טוב הוא ערב שבת ושכח שאי אפשר להתנות או דהכי קאמר אין להניח בלא תנאי ואם הניח בדיעבד מותר וזהו נראה לי פשוט וברור, והבית יוסף סוף סימן זה הבין דברי הרוקח בענין אחר דחוק ועל כן דחהו מהלכה עיין שם, ותימא עליו גם העתיק דברי רוקח בטעות עיין שם כי קיצרתי:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:33"
+        },
+        "34": {
+          "he": "[לד] בעירוב זה וכו'. ומברך בתחילה (שלטי גיבורים):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:34"
+        },
+        "35": {
+          "he": "[לה] ויש אומרים וכו'. ועיקר כסברא ראשונה כמו שכתבו רש\"ל ואחרונים:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:35"
+        },
+        "36": {
+          "he": "[לו] [לבוש] דבלשון הזה וכו'. ובזה מתורץ מה שתמה הט\"ז מהא דרש\"ל שכתבתי ס\"ק ד', ועל כן דחה זה מהלכה, גם מגן אברהם תמה ודחה הך דרש\"ל מקמי הא ובטעם הלבוש מיושב הכל דבאמירת כל צורכנא גרע ודו\"ק, ועוד דדין זה הוא מאור זרוע ולא נדחה הפוסק הקדמון מקמי סברות רש\"ל:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:36"
+        },
+        "37": {
+          "he": "[לז] [לבוש] אסור לו לבשל וכו'. זה יתבאר בסימן תקצ\"ד סעיף ב':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 527:37"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "בקדרה בפ\"ע.  דאלו בקדרה א' יכול לבשל כמה שירצה כ\"כ הטור וכ\"כ רש\"י בדף י\"ז וז\"ל שלא יערים לאחר שבישל לצורך לומר עוד אני צריך להזמין אחרים ויבשל תבשילין אחרים ויותירם לשבת אבל בקדירה א' אם ירבה הא אמרי' דאפי' לחול שרי כדלעיל ממלאה אשה קדיר' בשר כו' עכ\"ל פי' דבקדירה אחת אפי' אם מערים ומרבה מותר וכן העתיקו התו' שם וא\"ל דא\"כ אמאי היה הסמ\"א מצטער בגמ' שם במה שלא הניח ע\"ת הא יש היתר להערי' ולהרבות בקדירה א' בשביל שבת י\"ל דס\"ל לבשל תבשיל לשבת מה שאינו יכול לבשל בתבשיל שמבשל בקדירה זו של י\"ט כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:1"
+        },
+        "2": {
+          "he": "אבל מבשל כמה קדירות.  עמ\"ש בסוף סי' זה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:2"
+        },
+        "3": {
+          "he": "אפי' ספק חשיכה.  כתב הראב\"ן אפי' לא עירב עד אחר ברכו יכול לערב כל זמן שהציבור לא התפללו תפלת י\"ט כי קבלת י\"ט לא הוה עד תפלת י\"ט ע\"ש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:3"
+        },
+        "4": {
+          "he": "בפת ותבשיל. דהכי ס\"ל לר\"א דיליף מקרא דאשר תאפו אפו ואשר תבשלו בשלו מכאן שאין אופין אלא על האפוי ולא מבשלין אלא על המבושל ע\"כ צריך כאן פת בשביל מה שיאפה פת לצורך שבת ותבשיל בשביל מה שיתבשלו ור\"י ס\"ל דבשביל תבשיל מותר הכל ורוב הפוסקים ס\"ל כר\"י רק ר\"ת וקצת דיעות ס\"ל כר\"א ע\"כ כשר לכל הפחות בדיעבד כר\"י:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:4"
+        },
+        "5": {
+          "he": "לאפוקי דייס'.  דא\"ר זירא הני בבלאי טפשאי דאכלי נהמא בנהמא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:5"
+        },
+        "6": {
+          "he": "אפי' שלוק.  פי' אפי' מבושל הרבה מאוד יותר מן מבושל כהלכתו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:6"
+        },
+        "7": {
+          "he": "אפי' על עדשים כו'.  כתוב במרדכי דוקא בדיעבד והב\"י חולק ע\"ז וכתב אפי' לכתחלה אם אין לו בעי\"ט שום תבשיל אלא עדשים שנשארו בשולי קדירה או אותו שמנוני' שנדבק בסכין יכול לערב עליהם והיינו אם גרדו כמ\"ש כאן בש\"ע ול\"נ דאף המרדכי ס\"ל כן דכה\"ג היא כמו דיעבד כיון שאין לו תבשיל אחר והמרדכי לא איירי אלא ביש לו תבשיל אחר וכ' רש\"ל מדלא אמרי' בגמרא מערבין על עדשים כו' אלא סומכין על העדשים משמע דוקא דיעבד וכ' מו\"ח ע\"ז שאין זה ראי' דהא במשנה אמרי' ג\"כ זה הל' אלא עושין תבשיל מעי\"ט וסומך עליו לשבת והיינו אפי' לכתחלה ועכ\"פ משום הידור מצוה ראוי ליקח תבשיל גמור לד\"ה וכ' רש\"ל ומ\"מ נראה דלא בעי להתנות מעי\"ט אלא תבשיל שנשאר בלא מתכוין כגון שולי קדירה וכדומה לו אבל מי שעשה תבשיל מיוחד לשם ע\"ת או שהפרישו לשם כך אפי' היה דעתו להתנות עליו ולברך עליו ושכח מלהתנות ולברך עליו סומך עליו בדיעבד כלישנא דמתני' ועוש' תבשיל מעי\"ט וסומך עליו והברכה שצריך לברך עליו לכתחלה ולהתנות עליו להדיח אינה מעכבת כי הברכות אינן מעכבות עכ\"ל מ\"ש לשון המשנה וסומך עליו בדיעבד כיון דלא התנה ולא בירך אינו מסתבר דהתנא לא מיירי כאן מברכם כלל אלא וסומך עליו לכתחלה קאמר אבל הדין מ\"מ אמת הוא כיון שהיה בדעתו להתנות ע\"ז שרי בדיעבד דודאי ברכות אינן מעכבות בכ\"מ וע' בסעיף כ':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:7"
+        },
+        "8": {
+          "he": "ומצוה על כל גדול כו'.  ק\"ל דהא איתא ריש פ\"ב  ושלחו מנות לאין נכון לו למי שלא הניח ע\"ת דהיינו למי שלא היה לו להניח אבל מי שהיה לו להניח ולא הניח הוא פושע ואמאי הוצרך לצוות לשלוח מנות לאותן שלא הניחו באונס והא מי שהוא אונס מותר לו לבשל ולסמוך על גדול העיר דודאי הניח גם על אחרים כיון שהוא מצוה ותו דכ' הר\"ן הביאו ב\"י דר\"י בר אידי לא היה דרכו להניח וע\"כ הוצרך להכריז וכי ח\"ו עברו על המצות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:8"
+        },
+        "9": {
+          "he": "נקרא פושע.  כ\"כ הרא\"ש והטור ומשמע אפי' אם הגדול מכוין להוצי' וק\"ל דאמרי' בגמ' ההוא סמיא דהוי מסדר מתרת' קמיה דמר שמואל חזיא דהוי עציב א\"ל אמאי עציבת א\"ל דלא אותבי ע\"ת א\"ל סמוך אדידי דמעריבנ' על כולהו בני עירי לשנה חזי' דהוי עציב א\"ל אמאי עציבת כו' א\"ל פושע את לכ\"ע שרי ולדידך אסור פירש\"י שאין דעתו על המזידין ועל הפושעי' שאין חרדים לדברי חכמים משמע מזה דאלו היה דעתו אף על הפושעים האלו הוי מהני וזה שלא כהרא\"ש והטור שפסקו אפי' סומך על גדול העיר לא מהני כיון דלא עביד כמצות חכמים שיערב כל א' לעצמו ולפ\"ז ק' ממ\"נ אם היה אותו סומא סומך על עירוב דשמואל בשנה אחרת ההיא אמאי הי' עציב בי\"ט כיון דלפי דעתו היה מועיל דבר זה משא\"כ בשנה ראשונ' לא ידע דמהני סמיכה על הגדול וא\"כ מה נתחדש לסמי' בי\"ט האחר להצטער על מה שסמך על הסמיכ' ואי לא סמך כלל גם בפעם השני מנ\"ל להרא\"ש וטור דהסומך נקרא פושע כיון דבגמ' לא איירי מזה בשלמא לרש\"י ניחא דבאמת לא הוה זה פושע כיון שסומך ואותו סמיא לא היה סומך גם בפעם הב' ונקרא פושע על השנות השכחה פעמיי' וה\"ל להיות חרד וזריז להזכיר הדבר ושמואל לא נתכוין להוציאו כלל אבל להרא\"ש וטור ק' וא\"ל שהיה עצב בי\"ט מחמת שדאג בי\"ט שמא לא מהני סמיכה ודאגה זו באה לו במחשבתו בי\"ט וע\"ז השיב שמואל לאיסור דסמיכה לא מהני זה אינו דא\"כ אמאי אמר שמואל לכ\"ע שרי ולדידך אסור דמשמע דהוה גרע מן כ\"ע כיון שאירע לו ב\"פ ולהרא\"ש וטור לא הוה משום ב\"פ אלא דסמיכה לא מהני כלל וא\"ל שזה גופי' הוה החילוק בינו לכ\"ע דכ\"ע לא סמכו אלא שכחו ואיהו שסמך נקרא טפי פושע כיון שהיה נזכר הוה ליה לערב בפני עצמו זה אינו. אמאי התיר לכולי עלמא דלמ' יש ביניהם ג\"כ מי שסמך ותו קשה למה נקרא פושע במה שסמך והלא אינו אלא טועה בדבר הלכה שהיה סבור דמהני סמיכה וצ\"ע דבר זה להלכה כי לדעת רש\"י ורשב\"א כמ\"ש ב\"י דמהני סמיכה אם הגדול מכוין לכך וכדאי הם לשמוע להם ולפ\"ז אין מצוה על הגדול לכוין להוציא הרבים וכמ\"ש בסמוך מהתלמוד דבימי עזרא שהוצרך לומר ושלחו מנות לאין נכון לו דהיינו שלא הניח ע\"ת דמוכח שלא היה מצוה על הגדול לכוון להוציא אחרים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:9"
+        },
+        "10": {
+          "he": "רק שיודיעוהו בי\"ט כו'.  ק' פשיטא דאל\"כ היאך יבשל בי\"ט לשבת וי\"ל דקמ\"ל דלא סגי באומדן דעתו דבודאי נתכוין הגדול לזכות לאחרים אלא צריך להודיע בפי' דבר זה ועכשיו שיש בנוסח הברכה לנו ולכל הדרים בעיר הזאת א\"צ להודיעו וכ\"כ רש\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:10"
+        },
+        "11": {
+          "he": "ולאדלוקי שרגא.  משמע דאם לא התנ' זו אסור להדליק מי\"ט לשבת וכ\"כ התו' בפ\"ב דף כ\"ב מדאמרי' מי שלא הניח ע\"ת כו' מדליקין לו נר משמע שצריך להזכיר בברכת ע\"ת יהא שרי לן לאפויי ולבשולי ולאדלוקי וכו' ואם בשביל הדלקה לא התנ' משמע הכא דיהא אסור להדליק לו רק נר אחד מדחזי' דהוצרך להזכיר הדלקת הנר עכ\"ל וקשה למה לנו להזכיר ההדלקה הא אומר אח\"כ ולמיעבד כ\"צ ונ\"ל מדאי' בפ\"ב שם אין טומנין את החמין כדברי ב\"ש ומקשי' אי אנח ע\"ת אמאי אסור לב\"ש ומשני רבא שאני הטמנ' דמוכח' מלתא דאדעתא דשבת עביד איתביה אביי חנני' אומר בש\"א אין אופין אא\"כ עירב בפת ואין מבשלין אא\"כ עירב בתבשיל ואין טומנין אא\"כ היו לו חמין טמוני' מבע\"י הא אם היה לו מיהו עביד ואע\"ג דמוכחא מילתא אלא אמר אביי כגון שעירב לזה ולא עירב לזה פירש\"י אפה ובישול מבע\"י לשם עירוב ולא טמן חמין וחנני' היא אליבא דב\"ש מזה אנו לומדי' מדברי ב\"ש וב\"ה דאפי' לב\"ה דסגי להו בתבשיל א' על הכל מ\"מ לענין הברכ' צריך להזכיר ואם לא בירך כלל מהני לכל מילי דברכות אינם מעכבות וכמש\"ל אלא דאם בירך והזכיר דבר א' גרע טפי דמרא' בהדיא שאינו מערב אלא לאותו דבר וא\"כ היה ראוי להזכיר ולמיעבד כ\"צ לחזור ולכלול בו הכל אלא כיון דאר\"א מדכתיב את אשר תאפו אפו מכאן שאין אופין ואין מבשלין אלא על האפוי ומבושל ע\"כ צריך להזכיר ב' דברים אלו בהדי' אפיה ובישול כיון שהם מבוארים בקרא דאסמכי' ע\"ת עליה וא\"כ ע\"כ צריך להזכיר בברכ' גם שאר דברים דהיינו אטמוני ולאדלוקי דא\"כ ה\"ל כמו עירב לזה ולא לזה לב\"ש לענין שצריך ע\"ת לכל מין בפ\"ע ה\"נ לב\"ה לענין הזכרה בברכה דע\"כ ל\"פ ב\"ה אלא שדי במין א' אבל עכ\"פ באותו מין צריך להזכיר הכל אלא דק' ל\"ל למיעבד כ\"צ כיון שהזכיר בפי' מה שצריך לו נ\"ל דהך למיעבד כ\"צ אתא לכלול שחיטה שאינה בכלל כל הפרטיים המוזכרים בהדיא וא\"ל ל\"ל להזכיר אטמוני ולאדלוקי בפי' ולא כללם ג\"כ בלמיעבד כ\"צ נ\"ל דאתי שפיר אליבא תירוצא דרבא דאמר הטמנ' שאני דמוכחא מילתא דעביד לשבתא ואע\"ג דאידחא תירוצ' דרבא כמ\"ש הא ל\"ק דא\"כ לא אידחי אלא לענין דל\"ת דבאמת לא מהני ע\"ת להטמנה מכח סברא זו אלא אמרינן דמהני אף למוכחא מילת' אבל לענין ברכה ודאי אמרי' לכ\"ע דצריך להזכיר שהוא מערב אפי' למוכחא מלתא דהיינו הטמנה וה\"ה נמי אדלוקי שרגא דמוכחא מלתא שעושה בשביל שבת דהרי מדליק בעוד היום גדול ושרג' בטיהרא מאי אהני וה\"א דזה לא נכלל בכלל דלמיעבד כ\"צ ע\"כ זכרו בפי' להני תרוייהו ובנוסח ה\"ג לא זכר לאטמוני אלא לאדלוקי נראה טעמו דבחד מילתא דיש בו מוכחא מילתא סגי אבל בנוסח הטור וש\"ע  נזכר תרתי מאותן דמוכחי מילתא אבל שאר דברים שאין מוכח מילתא כגון שחיטה וכיוצא בה שפיר נכללים בלמיעבד כ\"צ ודבר זה נ\"ל הגון כפתור ופרח: אלא דעדיין צריכין אנו למודעי במ\"ש דע\"ת מועיל להתיר שחיטה מי\"ט לשבר. והוא אינו מוזכר בפי' בפוסקים מ\"מ אמת גמור הוא דדבר פשוט הוא דנכלל בלמיעבד כ\"צ כמ\"ש וכ\"מ בתשו' הרא\"ש שמביא ב\"י בסמוך וז\"ל וכיון שאפשר לו לשחוט בשני שהוא כחול למה ישחוט בראשון שהוא ודאי קודש עכ\"ל הרי בהדי' דע\"ת מתיר גם השחיטה אלא שרש\"ל כתב בתשו' סימן ע\"ח דאסור לשחוט בי\"ט לשבת מכח ע\"ת וראייתו שם דע\"ת לא מהני אלא למה שמתנה בהדי' כמ\"ש התו' והרא\"ש לענין אדלוקי שזכרנו לעיל לכן נהגו כשמניחין עירוב לומר לאפויי ולבשולי ולאדלוקי ואטמוני ואנו תופסין זה הנוסח עיקר ואל תשגיח במ\"ש הרא\"ש בתשוב' שאינו יכול לשחוט מי\"ט ראשון לשבת אלא ישחוט ביום ו' אלמא דמותר לשחוט ביום ו' אין זה ראייה דהוא כ' לפי אותן שמתירין כל המלאכות ע\"י מ\"ש לאפויי ולבשולי כדעת הרי\"ף וסייעתו ולא בא באות' תשובה אלא לפסוק שאסור לשחוט בי\"ט ראשון אבל לדעת החולקים על הרי\"ף וסוברים כל שלא התנ' בפי' אסור לעשות א\"כ פשיטא שאסור לשחוט ועוד אפשר שהרא\"ש מיירי היכא שהתנה בהדיא בע\"ת ולשחוט דשרי לד\"ה עכ\"ל וכתב עוד שא\"ל דשחיט' הוה בכלל למיעבד כ\"צ דזה אינו שהרי ה\"ג כתבו למיפ' ובשולי ולמיעבד כ\"צ ולאדלוקי נר ואם איתא דכולל הכל ל\"ל לומר ולאדלוקי וכ\"ש לנוסח הטור שמזכיר להדיא למיעבד כ\"צ וגם לאטמוני שהוא ממש כבישול ואפ\"ה צריך להזכירו ולא אמרי' שנכלל בלמיעבד כ\"צ כ\"ש שחיטה עכ\"ל. הגם שאין משיבין הארי אחר מותו מ\"מ אמינא כי ניים ושכיב הרב אמר להא שמעתת' דמ\"ש דהיתר שחיטה תלוי בהזכרת ע\"ת בפי' א\"כ למה לא תקנו באמת להזכי' דבר זה בברכ' כמו אטמוני ואדלוקי כיון דזכרו כמה פעמים היתר שחיט' בי\"ט ה\"ל להכניסו גם בנוסח ע\"ת ומ\"ש דהרא\"ש כ\"כ לנוס' הרי\"ף כו' הוא דבר בטל שבהדי' זכר הרא\"ש בפ\"ב הנוסח כמו הטו' ממש ובחבורו של רש\"ל פ\"ב סי' כ\"ז כ' הוא עצמו וז\"ל ואע\"ג דהרי\"ף ורמב\"ם לא הזכירו אדלוקי שרג' מ\"מ דברי הרא\"ש עיקר כו' עכ\"ל. ובזה נסת' גם מ\"ש אח\"כ ועוד דאפש' דהרא\"ש מיירי שהתנ' בהדי' על השחיט' כו' זה ודאי אינו שהרי אינו בנוסח הברכ' שלו כלל ותו דהא שם לא בא הרא\"ש אלא לומ' דמה שמות' בי\"ט שני לעשות לשבת לא יעש' בי\"ט ראשון א\"כ למה נקט שחיט' לענין זה מה שאינו נמצא בנוסח ולא כ' דבריו על אפייה ובישול שהם מפורשים בנוסחאות אין זה אלא תימה. גם מ\"ש אח\"כ שאין למדין מן הכלל דלמיעבד כ\"צ א\"כ הויין דברי חכמי' כחוכא ואיטלולא דל\"ל נוסח זה למיעבד כ\"צ אלא ודאי דדברי חכמים הם ראויים ומדוייקים וכולהו צריכים למימרינהו ומאן דלא הזכיר רק אפייה ובישול כוונתו כיון שהם מפורשים בקרא כמ\"ש גם מו\"ח ז\"ל חלק על רש\"ל בזה אלא שבענין טעם לנוסח אטמוני ואדלוקי דחק למצוא טעם שהוכרחו להזכיר כיון שאפשר לעשות בלעדם ואין בהם צורך משא\"כ בשחיטה וטעם זה אינו מספיק דודאי ההטמנה היא הכרחית לשבת וכ\"ש נר של שבת ולפי מ\"ש הכל ניחא בפי' מרווח בס\"ד ואין להשגיח לאסור השחיטה מי\"ט לשבת אם הניח ע\"ת כנלע\"ד ברור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:11"
+        },
+        "12": {
+          "he": "מי\"ט ראשון לשבת.  פי' כשחל יו\"ט יום ה' ויום ו' דכיון שאפשר לאפות ולבשל ולשחוט ביום ו' שהיא אינו אלא משום מנהג אבותינו למה יעשה זה בי\"ט הראשון שהוא ודאי קודש משא\"כ אם חל יו\"ט יום ו' ויום השבת פשיטא שמותר לבשל ביום ו' שהוא י\"ט ראשון ע\"י ע\"ת כיון שהוכרח לזה וכתב הרש\"ל דאפי' אם עבר ובישל ביום א' דהיינו ביום ה' דאסור לאכלו בשבת ול\"ד למ\"ש בסימן זה לקמן דעבר ובישל מותר דהתם אין לו מה לאכול אבל הכא דאפשר לו לבשל למחר לשבת אסור ליהנות עד אחר שבת ע\"כ ואיני מכיר חילוק זה כלל וכ\"ש שאין איסור לאכלו עכ\"פ בי\"ט כתבו הג\"מ דאיתא בירוש' מי\"ט לחבירו ומי\"ט לשבת ופי' ראבי\"ה כגון ששני ימים הם שבת וע\"ש ואשמועינן שצריך בעי\"ט שניהם עכ\"ל וב\"י הביא זה וכתב ע\"ז נראה שר\"ל שצריך שיאמר בעירוב זה יהא מותר לבשל מי\"ט לחבירו ומי\"ט לשבת אף ע\"פ שאינו מבשל אלא ביום א' לצורך יום א' כיון שאותו יום שמבשלים [לצרכו] יש לו ב' שמות צריך להזכירם וק\"ל דאין הלשון מכוון דמשמע שבב' ימים רוצה לבשל לצורך ב' ימים אחרים ואינו כן אלא ביום א' מבשל לצורך יום א' וכך הל\"ל מי\"ט לחבירו שהוא י\"ט ושבת כו' עכ\"ל והאריך עוד ע\"ז ולעד\"ן הדברים כפשוטן דבאם י\"ט ביום ו' ושבת ואומר למיעבד כ\"צ מיומא טבא לשבתא אינו מספיק כי כל אדם מבשל בי\"ט שהוא בשבת טפי ממה שצריך לבשל בשאר שבת לחוד אם כן לא נכלל בזה היתר מותרות מה שמבשל לצורך מחר מה שהוא אינו שייך לשבת לחוד והוא אומר מי\"ט לשבת נמצא שאין המותרות בכלל ע\"ת ע\"כ יאמר שניהם לכלול בו גם שמבשל היום לצורך יו\"ט במותרות על של שבת כנלע\"ד והוא נכון והגון לומר כן בכל י\"ט ראשון שהוא ביום ו':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:12"
+        },
+        "13": {
+          "he": "אם הניח וכו'.  דאיתא בגמ' מ\"ט תקנו ע\"ת אמר רבא כדי שיברור מנה יפה לשבת ומנה יפה לי\"ט רב אשי אמר כדי שיאמרו אין אופין מי\"ט לשבת ק\"ו מי\"ט לחול וב' הרא\"ש נ\"מ בין אלו הטעמים דלרבא צריך לערב דוקא בעי\"ט כדי שיברור מנה יפה לשבת ולרב אשי יכול לערב אפי' קודם עי\"ט וי\"ט של סוכות שחל להיות בה' בשבת יכול לערב עי\"ט עירוב א' לשבת זו ולשבת הבאה וכיון דלא בריר לן כמאן הלכה פסק ב\"י לכתחלה לאיסור ובדיעבד להיתר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:13"
+        },
+        "14": {
+          "he": "לאחר שהכין כו'.  כתב רש\"ל מיהו היה מנהג מהר\"ם להניח הככר תחת המשנה בליל שבת ובמחרתו ובסעודה ג' היה בוצע עליו כיון דמתעביד ביה חדא מצוה ליעביד ביה מצוה אחריתא וכן נהגו בעירוב חצירות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:14"
+        },
+        "15": {
+          "he": "אפה ולא בישל.  זהו לשון הראב\"ד בב\"י ונ\"ל דעתו דאמר אביי נקטי' התחיל בעיסתו גומר וכתב הרא\"ש שיש להסתפק אי גומר עיסה זו שהתחיל בה ושוב לא יבשל ולא יטמין או שמא כיון שהתחיל להתעסק בא' מצרכי שבת בהיתר גומר כל צרכי שבת והדבר שקול עד יבא מורה צדק אבל הראב\"ד ס\"ל גומר היינו אפי' מידי אחרינא מאותו מין כגון שאפה בהיתר יכול לאפות גם אחר שנאבד אבל לא מהני ליה לבשל אחר כך בשום צד שיהיה לצורך שבת גם כן וכן אם בישל בהיתר מהני לבישול דוקא אלא דקשה ע\"ז אם אפה תחלה לצורך שבת פשיטא דיכול אחר כך לאפות וגם לבשל לי\"ט ע\"כ פירש דהאפייה הראשונה היתה לצורך י\"ט ולשבת לא הכין עדיין כלום ואח\"כ נאכל העירוב נוטל מה שאפה לי\"ט ומניחו לשבת ואופה פעם אחרת לי\"ט דה\"א דאסור דהוה כאופה לשבת קמ\"ל דשרי כיון דמ\"מ האפייה היתה בהיתר וכן לענין בישול אם בישל תחלה בהיתר לי\"ט מהני אחר כך לבישול לשבת אבל לא לאפייה לצורך שבת כלל ובלבוש כתב בזה גומר אותה עיסה שהתחיל ולא יותר וה\"ה אם התחיל לבשל גומר ואם אפה או בישל לי\"ט ונאכל העירוב הרי האפייה או בישול נעשה בהיתר יכול להניחה לצורך שבת ויכול לאפות ולבשל אחר כך לי\"ט דבריו סותרים זא\"ז דברישא לא התיר אלא לאותה עיסה ובסיפא התיר לאפות מחדש על י\"ט וא\"כ כ\"ש דמותר לאפות לי\"ט מחדש ברישא כיון שהתחיל לשבת בהיתר והוא ערבב דעת הראב\"ד עם דעת הרא\"ש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:15"
+        },
+        "16": {
+          "he": "ויש אוסרין.  הוא דעת התוס' והרא\"ש וטור שזכרנו בס\"ב ומ\"מ אין איסור אלא בתוספת נר אבל נר א' מדליק כדאיתא בגמרא ומדליקין לו נר א' וכמ\"ש בסוף הסעיף:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:16"
+        },
+        "17": {
+          "he": "ואפי' בביתם.  בטור הטעם שהעולם אינם יודעים שהוא לאחרים והקשה ב\"י דמה העולם יודעים אם זה עירב או לא ועוד שאפי' יודעים כיון שאינו מבשל בביתו אלא בבית אחרים הא מוכח מילתא דלאחרים הוא מבשל ונ\"ל דחד' קושי' מתרצ' בחברת' דה\"ק רבינו הטור כיון דמוכח מילתא שזה לא עירב יסברו לו' שלעצמו הוא מבשל אלא שאינו רשאי לבשל בביתו לעצמו כיון שלא עירב אבל בבית אחר יכול לבשל אפי' לעצמו שכן הוא הדין לפי דעת הרי\"א ע\"כ אסרו לגמרי כנ\"ל נכון:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:17"
+        },
+        "18": {
+          "he": "הוי כמי שלא עירב כלל.  תימא לי דהא אם הניח ע\"ת ולא בירך כלל מהני דברכות אינן מעכבות בכל התורה וכמ\"ש רש\"ל שזכרתי בס\"ו ואמאי לא מהני כאן אם אמר כ\"צ מי גרע מלא בידך כלל דנהי דתקנת חז\"ל דלא סגי בלמיעבד כ\"צ לחוד היינו כדי לעשות הברכ' ע\"צ ה\"ט ומטעם שזכרנו לעיל אבל מ\"מ לא גרע זה מלא בירך וכ\"כ רמ\"א עצמו סי' שצ\"ה דאין הברכה מעכבת וכמדומ' לי שאין לסמוך על פסק זה לחזור ולברך שנית כנלע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:18"
+        },
+        "19": {
+          "he": "ויותיר לשבת.  ברש\"י כתוב אפי' לחול שרי כדלעיל ממלא' אשה קדירה בשר כו':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:19"
+        },
+        "20": {
+          "he": "והוא שיאכל מכל א'.  נ\"ל דודאי לכתחלה קאמר כן דצריך שיראה לכל שאוכל ממנו בי\"ט אבל אם אירע שלא אכל כלל ממין אחד אינו אסור לשבת כיון שעכ\"פ בשעת הבישול נתכוין לאכלו היום הרי היה מעשה שלו בהיתר ומה שלא אכל אח\"כ אין זה גורם איסור דאף בתבשילי י\"ט הרבה פעמים אדם מניח קדירה שלימה ואין טועמו מחמת שביעתו ובסי' תק\"ג כ' ב\"י בשם ריב\"ש דאפילו לאחר אכילה אם עבר ובישל בהערמת כזית אין לו דין מערים לאסור וכ\"פ שם בש\"ע כ\"ש כאן דהוא מבשל בהיתר קודם האכילה ועמ\"ש בססי' זה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:20"
+        },
+        "21": {
+          "he": "בי\"ט של ר\"ה.  לפי ששני הימים של ר\"ה כיומא אריכת' הם ולא משום ספיקא דיומא כשאר י\"ט:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:21"
+        },
+        "22": {
+          "he": "אם הערים כו'.  פירש\"י דמ\"ה החמירו בהערמה טפי מעבר במזיד דאחמור בהא מילתא שלא לעקור תורת עירוב דאלו מזיד רשע הוא לעבור על דברי חכמים ואין אחרים לומדים ממנו והוא עצמו משים אל לבו ושב הלכך לא מיעקרא תקנת עירוב אבל מערים סבור לעשות בהיתר ואחרים לומדים ממנו ומיעקרא תקנת עירוב הלכך קנסוהו רבנן עכ\"ל וקשה במ\"ש כאן הש\"ע דהערמה בב' קדירות אפי' לצורך היום אסור היינו ע\"כ קודם האכילה ולעיל סכ\"א הביא י\"א דמותר קודם האכילה מטעם שיאכל מכל א' ואע\"ג דגם הטור כתכ כאן כן לק\"מ דהטור לא ס\"ל הך תקנתא דיאכל ממנו מעט וכמ\"ש בסי' תק\"ג דאין לך הערמה גדולה מזו אבל הש\"ע שפסק דמהני למה אסר כאן ואין ראוי לומר דכאן חזר מדעת י\"א שהביא בסמוך גם א\"ל דכאן אסר אם לא אכל מעט ממנו דא\"כ לא הל\"ל אסור אלא יאכל ממנו מעט ותו דלעיל הל\"ל ואם לא אכל אסור ותו דדין זה ודאי שקר שיהיה אסור מחמת שלא אכל כיון שעכ\"פ הבישול היה בה בהיתר וכמ\"ש בסי\"ט ע\"כ נ\"ל דכאן מיירי במבשל מין א' בב' קדירות דבזה לא מהני מה שירצה לאכול ממנו מעט דהא טעם אחד לשניהם אבל באמת אם יש שינוי ביניהם בטעם מהני אפי' בשני קדירות קודם אכילה בהערמה זו לאכול מעט ממנה כמ\"ש וחילוק זה כתבתי גם בסי' תק\"ג בס\"ד והוא נכון:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 527:22"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "כתב הר\"ן פ\"ג דפסחים דמדאוריית' אסור לבשל מי\"ט לשבת ק\"ו לחול אלא דשרי ע\"י הואיל ואי מקלעי ליה אורחים חזי ליה השתא נמי חזי ליה מ\"מ איסורא איכא וע\"י עירוב שרי וכ\"ה בגמ' ועססי' תקי\"ב וכתבו התו' בפסחים דף מ\"ו דאם בישל סמוך לחשיכה דליכא למימר שיקלעו ליה אורחים לוקה וכ\"כ המרדכי רפ\"ב דביצ' וב\"י בשם הג\"מ ומ\"ש הרב\"י דמבואר בגמ' שמדאוריית' צרכי שבת נעשים בי\"ט וכו' כבר השיגוהו היש\"ש דדוקא רב חסדא אית ליה האי סברא אבל אנן קי\"ל כרבה ונ\"ל שגם דעת הרמב\"ם כן וא\"כ ליכא פלוגתא בזה וס\"ל כמ\"ש המאור דע\"י הואיל שרי לכתחלה לבשל מי\"ט לשבת דחשוב כשע' הדחק רק שחכמים אסרוהו שלא יבאו לבשל מי\"ט לחול או כדי שיזכור שיברור מנה יפה לשבת כדאי' בגמ' וא\"כ אסור לבשל סמוך לחשיכ' דכיון שהוא איסו' דאוריי' לא שרי ע\"י הואיל אף על גב שהתו' כתבו ריש ביצה דבבישול לא שייך הכנה לא כתבו כן אלא למאן  דל\"ל הואיל ע\"ש ובל\"ה דבריהם תמוהים וצריכי' ישוב עם הגמ' דפסחים ע\"ש אבל אנן קי\"ל דמדאורייתא אסור לבשל מי\"ט לשבת סמוך לחשיכה ולכן נהגו כשחל י\"ט בע\"ש מקדימין להתפלל ערבית ועסי' תי\"ו ס\"ב דהכנה מועטת אסור ועססי' תרס\"ז: ספק חשיכה. ואם קיבל עליו שבת כגון שאמר ברכו אסור עססי' רס\"א ונ\"ל דמי שהוא בבה\"כ ולא הניח ע\"ת ואם ילך לביתו להניח ע\"ת יעבור זמן מנחה יתפלל מנחה ולא יניח ע\"ת דיוכל להקנ' קמחו לאחרים:",
+          "en": "",
+          "ref": "Magen Avraham 527:1"
+        },
+        "2": {
+          "he": "דייסא. נ\"ל דאפי' במקום שמלפתין בו את הפת בטל' דעתן דאכלו נהמא בנהמא וכ\"מ בגמרא ונ\"ל דה\"ה שאר מיני לפתן וקטניו' במקו' שאין דרך ללפת בהן הפת אסור לערב בהן ורש\"י כ' דבעי' דבר שאינו אוכל בכל יום שהוא מוכחא מילתא שעושה לכבוד שבת:",
+          "en": "",
+          "ref": "Magen Avraham 527:2"
+        },
+        "3": {
+          "he": "כבוש. פירש\"י בחומץ או בחרדל ובי\"ד סימן פ\"ז מבואר דאם נשרה יום שלם בדבר לח מקרי כבוש (ד\"מ) ועבב\"י ונ\"ל דאם אינו ראוי לאכיל' ע\"י הכביש' או העישון אין מערבין בו אבל במליח אף על פי שהוא ראוי לאכילה אין מערבין כדאמרי' בדגים קטנים כדאי' בחולין מליח שהרי הוא כרותח כבוש ה\"ה כמבושל משמע דמליח אינו כמבושל מיהו אם הי' כבוש בציר או בחומץ ושהא בתוכו כדי שיתננו על האור ויתחיל להרתיח הוי כמבושל אם נאכל כך עבי\"ד רסי' ק\"ה:",
+          "en": "",
+          "ref": "Magen Avraham 527:3"
+        },
+        "4": {
+          "he": "פירות מבושלים. אבל חיין לא ומיהו במ\"מ משמע אפי' מבושלים אסור אם אין דרך ללפת בהן הפת דבחיין לא אצטריכא ליה למימר דפשיטא דתבשיל בעי' עס\"ד:",
+          "en": "",
+          "ref": "Magen Avraham 527:4"
+        },
+        "5": {
+          "he": "עדשים. דוקא אם אין לו תבשיל אחר (יש\"ש) ועב\"י וצ\"ל דוקא במקום שמלפתין בהם את הפת:",
+          "en": "",
+          "ref": "Magen Avraham 527:5"
+        },
+        "6": {
+          "he": "ששכח. ואם שכח מחמת עצלותו שלא היה חרד על דבר ה' ולא מחמת אונס נקרא פושע דשוכח נקרא פושע לענין תשלומין של ממון וק\"ו בדבר איסור (יש\"ש) וצ\"ע דבסי' ק\"ח ס\"ח אי' דשוכח מקרי אונס וה\"ה לענין ממון כמ\"ש הב\"י שם וצ\"ל דשוכח מחמת עצלות שאני:",
+          "en": "",
+          "ref": "Magen Avraham 527:6"
+        },
+        "7": {
+          "he": "ואבד. ולא אמרי' הרי גילה דעתו שאינו רוצה לצאת בעירוב של הגדול (ב\"י):",
+          "en": "",
+          "ref": "Magen Avraham 527:7"
+        },
+        "8": {
+          "he": "שאינו יודע. או שלא ידע שמחויב כל א' לערב וסמך על הגדול אבל בר בי רב חשיב כפושע (יש\"ש):",
+          "en": "",
+          "ref": "Magen Avraham 527:8"
+        },
+        "9": {
+          "he": "התנה עליו. והניח עירוב תחומין (יש\"ש):",
+          "en": "",
+          "ref": "Magen Avraham 527:9"
+        },
+        "10": {
+          "he": "סומכין עליו. פי' אם שכח א\"צ להודיעו עס\"ו:",
+          "en": "",
+          "ref": "Magen Avraham 527:10"
+        },
+        "11": {
+          "he": "המערב לאחרים וכו'. וביש\"ש כ' דאם אין אשתו אוכלת עמו אף על פי שמעלה לה מזונות צריכה עירוב כיון  שאינה אוכלת מתבשילו ולכן מזכה על ידה מגו דזכיה לנפשה זכי' לאחרינא ול\"ד לעירובי חצירות דהתם בבע\"ה תליא מלתא אבל הכא כל מי שאוכל מתבשיל אחר צריך עירוב אחר עכ\"ל וא\"כ צריך להניח עירוב בעד האלמנות שאין יודעו' לערב בעצמן אבל היודעים צריכים לערב בעצמן:",
+          "en": "",
+          "ref": "Magen Avraham 527:11"
+        },
+        "12": {
+          "he": "מן הקרקע. פי' ממקום שהעירוב מונח עליו:",
+          "en": "",
+          "ref": "Magen Avraham 527:12"
+        },
+        "13": {
+          "he": "אינו יכול לבשל. די\"ט שני הוי ודאי חול מדאורייתא ולכן כשיכול לעשות בשני אסור לעשות בראשון ועוד דשבות קרוב' התירו שבות רחוק' לא התירו כדאי' ספט\"ו דשבת ונ\"ל דאם יודע שיהי' לו ביום שני אונס שלא יוכל לאפות כגון ביום אידם דשרי לאפות או לבשל ביום א' ובלבד שהי' דעתו לכך בשעת עירוב וזה לטעם ראשון אבל לטעם שני אסור דהא ודאי אם י\"ט ביום ה' וביום ו' הוא חול ויש אונס שאינו יכול לאפות ביום ו' דאסור לאפות ביום ה' לשבת ע\"י עירוב ה\"נ כה\"ג וצ\"ע, לכתחלה אין לערב אלא בעי\"ט כדי שיברור מנה יפה לשבת (עס\"א):",
+          "en": "",
+          "ref": "Magen Avraham 527:13"
+        },
+        "14": {
+          "he": "נאכל העירוב. היינו התבשיל (עס\"ב) אבל אם נאכל הפת אין בכך כלום ואפי' חל ב' י\"ט ביום ה' וביום ו' ונזכר בי\"ט ראשון א\"צ לערב (עסכ\"ב) (יש\"ש):",
+          "en": "",
+          "ref": "Magen Avraham 527:14"
+        },
+        "15": {
+          "he": "יכול לאוכלו. ומ\"מ יניח אותו ללחם משנה בערבית ושחרית ולמנחה יבצע עליו (יש\"ש) עסי' שנ\"ד:",
+          "en": "",
+          "ref": "Magen Avraham 527:15"
+        },
+        "16": {
+          "he": "התחיל לבשל. נ\"ל דאפי' לא הניח הקדיר' עדיין אצל האש רק שהתחיל בתקונו כגון שחתך הלפתות וכדומה מותר לבשלו דהא בעיס' מיירי ג\"כ שהתחיל ללוש ומות' אח\"כ לאפות:",
+          "en": "",
+          "ref": "Magen Avraham 527:16"
+        },
+        "17": {
+          "he": "להניחו לשבת. אבל אסור להניחו לחול עסי' תק\"ו ס\"ז:",
+          "en": "",
+          "ref": "Magen Avraham 527:17"
+        },
+        "18": {
+          "he": "מותר להדליק. זה חידש הרב\"י מדעתו מדלא הזכירו הרי\"ף והרמב\"ם בנוסחת העירוב ולאדלוקי שרגא ש\"מ דאף בלא עירוב מותר להדליק ול\"נ דהם סוברים דא\"צ להזכיר רק עיקר הסעודה וכל שאר מילי גרירי אבתרייהו (ע' סמ\"ק) ובאמת אם לא עירב אסור להדליק וכדעת הרא\"ש וכ\"מ ובגמ' לכן אין להדליק רק נר א' כמ\"ש ס\"כ וכ\"פ רוב הפוסקים וכ\"פ יש\"ש, והב\"ח כתב כדאי הרי\"ף והרמב\"ם לסמוך עליהם להדליק נר של שבת שהוא מצוה, וליתא חדא דהא כתבתי דהרי\"ף והרמב\"ם לא פליגי בזה ועוד דלכתחל' די בנר א' כמ\"ש סי' רס\"ג:",
+          "en": "",
+          "ref": "Magen Avraham 527:18"
+        },
+        "19": {
+          "he": "שיתן קמחו. במשיכה ולא בק\"ס עמ\"ש סי' ש\"ז:",
+          "en": "",
+          "ref": "Magen Avraham 527:19"
+        },
+        "20": {
+          "he": "ואם אין שם כו'. משמע אם יש אחרים ואין רוצה להקנות להם אסו' לאפות אפי' בצמצום וכ\"פ הד\"מ אבל בב\"י כ' דמ\"מ שרי לאפות בצמצום וכ\"פ ביש\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 527:20"
+        },
+        "21": {
+          "he": "המלאכות בהדיא. כ' רש\"ל בתשובה סי' ע\"ח שאסור לשחוט מי\"ט לשבת כיון שלא פירש בהדיא בעירוב ולשחוט וכתב הב\"ח ושרי ליה מרי' דכל המלאכות שקודם הבישול הם בכלל ולבשל כגון הפשט ומליחה ונ\"ל דחזר בו מדלא כ\"כ בחיבורו עכ\"ל ובתשו' הרא\"ש כלל כ\"ג ד\"ח משמע בהדיא דשרי ומביאו ב\"י ועיין מ\"ש סימן תק\"ג ותצ\"ח ס\"ח ותקכ\"ח ומ\"מ נ\"ל שטוב לו' בהדיא ולשחוט:",
+          "en": "",
+          "ref": "Magen Avraham 527:21"
+        },
+        "22": {
+          "he": "אסור לבשל לאחרים. כיון שאינו יכול לבשל לעצמו ואין להתיר מטעם הואיל ויכול לשאול על נדרו דלא אשכחן דמותר לבשל מטעם הואיל אלא היכא דמותר לבשל לעצמו בלא הואיל כגון לאפות חלה וכן האופה מי\"ט לחול ועוד אומר מי שמתענ' בר\"ה צריך ללמוד כל היום כיון דאינו מקיים חציו לכם צריך לקיים כולו לה' דבזה מודה ר\"י לר\"א עכ\"ל דיני מהרי\"ו סי' נ\"ה ולפי מ\"ש ססי' תקי\"ב לא שרי לכתחלה משום הואיל ועיין בתוספת פ\"ג דפסחים ומשמע מזה דאפי' משרתת אסורה לבשל דלא כמ\"ש הלבוש סימן תקצ\"ז עמ\"ש שם ובי\"ט שחל להיות ע\"ש אסור לבשל מי\"ט לשבת ואפי' ע\"י עירוב לא מהני אלא מטעם הואיל ואי מקלעי אורחים כמ\"ש ס\"א והכא כיון שהוא אסור לבשל לאחרים לא שייך ה\"ט ומ\"מ אחרים אופין ומבשלין לו:",
+          "en": "",
+          "ref": "Magen Avraham 527:22"
+        },
+        "23": {
+          "he": "אם נזכר וכו'. כתב ביש\"ש אם עשה תבשיל מיוחד לעירוב תבשילין או שהפרישו לשם כך אפי' היה דעתו לברך עליו ושכח שרי לבשל דברכות אין מעכבות ואפי' הפריש' אשתו שלא מדעתו שרי עכ\"ל וצ\"ע דמי עדיף זה מאלו אמר ולא פי' המלאכות בהדי' דאסו' כמ\"ש ס\"כ ומ\"ש דברכות אין מעכבות היינו אם אמר בדין יהא כו' ולא אמר הברכ' אף על גב דבע\"ח שרי בדיעבד בלא אמירה כלל התם עיקר הפעולה  שישתתפו יחד אבל הכא אמירה הוא עיקר שיברור מנה יפה לשבת לכן נ\"ל דאין לסמוך על זה, עוד כתב האידנא אם שכח אחד ולא עירב שרי דהא איתא בנוסח העירוב לנא ולכל ישראל וא\"כ כל א' מערב על כל ישראל וכן כתב הב\"ח ולא דקדקו יפה במעשה בני האדם הא קי\"ל צריך לזכות כמ\"ש ס\"י ואין לך אדם שעושה זה אלא הבקי בכך לכך אין לסמוך ע\"ז עס\"ט:",
+          "en": "",
+          "ref": "Magen Avraham 527:23"
+        },
+        "24": {
+          "he": "וי\"א דאפי' כו'. עסי' תק\"ג דאפי' בי\"ט דעלמא שרי:",
+          "en": "",
+          "ref": "Magen Avraham 527:24"
+        },
+        "25": {
+          "he": "בעירוב זה כו'. ומברך בתחלה (ש\"ג):",
+          "en": "",
+          "ref": "Magen Avraham 527:25"
+        },
+        "26": {
+          "he": "ויש אומרים דאי ל\"ל כו'. ויש\"ש וב\"ח פסקו כסברא ראשונה כ\"כ בפסקי מהרא\"י:",
+          "en": "",
+          "ref": "Magen Avraham 527:26"
+        },
+        "27": {
+          "he": "או בשוגג. קשה מאי קמל\"ן רמ\"א כיון דבמזיד שרי כ\"ש בשוגג וביש\"ש כתב ומ\"מ בשוגג דאיכא למיחש הערמה בדבר שיאמר שוגג הייתי ועבר ואפה במזיד יש לקונסו דדמי להערמה ואיכא למיחש שיעבור תדיר ומ\"ה כתב הא\"ז הכל לפי ראות עיני החכם עכ\"ל ואפשר דבא רמ\"א לאשמעי' דבשוגג שרי בכל ענין דלא כא\"ז:",
+          "en": "",
+          "ref": "Magen Avraham 527:27"
+        },
+        "28": {
+          "he": "והותיר אחת. היינו קדירה א' אסור לאוכלו דבהערמה חיישי' שילמדו אחרים לעשות כן מה שאין כן במזיד:",
+          "en": "",
+          "ref": "Magen Avraham 527:28"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ספק.  וכתב המ\"א ואם קיבל עליו (שבת) [יו\"ט] כגון שאמר ברכו אסור עססי' רס\"א. אבל הט\"ז ועט\"ז כתבו משם ראב\"ן דאפי' לא עירב עד אחר ברכו יכול לערב כל זמן שהצבור לא התפללו תפלת י\"ט ע\"ש והיד אהרן הסכים עם המ\"א ע\"ש ונ\"ל דמי שהוא בבית הכנסת ולא הניח עירוב תבשילין ואם ילך לביתו להניח עירוב תבשילין יעבור זמן מנחה יתפלל מנחה ולא יניח עירוב תבשילין דיכול להקנות קמחו לאחרים. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:1"
+        },
+        "2": {
+          "he": "מתבשיל.  דאיתא דר\"א יליף מקרא דאשר תאפו אפו ואשר תבשלו בשלו מכאן שאין אופין אלא על האפוי ולא מבשלין אלא על המבושל ע\"כ צריך כאן פת בשביל מה שיאפו פת לצורך שבת ותבשיל בשביל מה שיבשלו ור\"י ס\"ל דבשביל תבשיל מותר הכל ורוב פוסקים ס\"ל כר\"י רק ר\"ת וקצת דעות ס\"ל כר\"א ע\"כ כשר לכל הפחות בדיעבד כר\"י אבל על הפת לחוד לא מהני לכ\"ע אף לאפות. אסור לעשות ע\"ת לפני עי\"ט רק בעי\"ט אבל בדיעבד מותר עיין ט\"ז ס\"ק י\"ב ומ\"א ס\"ק י\"ג. כתוב ביש\"ש אם עשה תבשיל מיוחד לע\"ת או שהפרישו לשם כך אפי' היה דעתו לברך עליו ושכח שרי לבשל דברכות אין מעכבות ואפי' הפרישה אשתו שלא מדעתו שרי עכ\"ל. והמ\"א בס\"ק (נ\"ג) [כ\"ג] חולק עליו וכתב דאין לסמוך ע\"ז ע\"ש. ועיין ט\"ז ס\"ק (י\"ז) [י\"ח]. מהרי\"ל היה מניח הבשר על הטעלי\"ר ולא על גלוסקא משום מיאוס. גם לקח לחם שלם ולקחו ללחם משנה בליל שבת ובמחרתו בסעודה ג' היה בוצע עליו כיון דאתעביד ביה חדא מצוה ליעביד ביה מצוה אחרית'. בשל\"ה כ' שלא ליקח עצם שפל אלא יקח חתיכה חשובה ואל תהי מצוה זו קלה בעיניך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:2"
+        },
+        "3": {
+          "he": "דייסא.  נ\"ל דאפי' במקום שמלפתין בו את הפת בטלה דעתן דאכלי נהמ' בנהמ' ונ\"ל דה\"ה שאר מיני ליפתן וקיטניות במקום שאין דרך ללפת בהן הפת אסור לערב בהן. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:3"
+        },
+        "4": {
+          "he": "מעושן.  כ' המ\"א נ\"ל דאם אינו ראוי לאכילה ע\"י הכבישה או העישון אין מערבין בו אבל במלח אע\"פ שהוא ראוי לאכילה אין מערבין דאמרי' מליח הרי הוא כרותח כבוש ה\"ה כמבושל משמע דמליח אינו כמבושל מיהו אם היה כבוש בציר או בחומץ ושהה בתוכו כדי שיתנו על האור ויתחיל להרתיח הוי כמבושל אם נאכל כך עיין בי\"ד רסי' ק\"ה. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:4"
+        },
+        "5": {
+          "he": "עדשים.  דוקא אם אין לו תבשיל אחר יש\"ש ועב\"י ובט\"ז. ודוקא שמלפתין בהם את הפת כמ\"ש ס\"א. מ\"א וע' יד אהרן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:5"
+        },
+        "6": {
+          "he": "ששכח.  ואם מחמת עצלות שכח נקרא פושע יש\"ש ועמ\"א. ודוקא אם שכח פעם א' אבל פעם ב' פושע הוי. גמרא:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:6"
+        },
+        "7": {
+          "he": "שאינו.  או שלא ידע שמחויב כל אחד לערב וסמך על הגדול אבל בר בי רב חשיב כפושע. יש\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:7"
+        },
+        "8": {
+          "he": "התנה.  והניח עירוב תתומין. יש\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:8"
+        },
+        "9": {
+          "he": "סומכין.  פירוש אם שכח ואין צריך להודיעהו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:9"
+        },
+        "10": {
+          "he": "מן.  פירוש ממקום שהעירוב מונח עליו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:10"
+        },
+        "11": {
+          "he": "צרכנא.  כתב רש\"ל אם לא התנה בפירוש ולשחוט אינו יכול לשחוט ביום טוב לשבת וט\"ז חולק עליו והעלה דאין להשגיח עליו לאסור השחיטה מיום טוב לשבת אם הניח עירוב תבשילין ע\"ש וכ\"פ הב\"ח וכ\"מ בתשובת גינת ורדים חא\"ח כלל ד' סימן ד' דא\"צ לפרש ולשחוט. והשכנה\"ג בהגהת ב\"י אות י' כתב דלכתחלה ראוי לומר בפירוש ולשחוט ושכן נוהג הוא ז\"ל ועיין יד אהרן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:11"
+        },
+        "12": {
+          "he": "ראשון.  היינו שחל יום טוב ביום ה' ו' משא\"כ אם חל יום ו' ויום שבת פשיטא דמותר לבשל ביום ו' שהוא י\"ט ראשון ע\"י עירוב תבשילין. וכתב רש\"ל דאפילו אם עבר ובישל ביום א' דהיינו ביום ה' דאסור לאכלו בשבת. וט\"ז חולק עליו ומתיר לאכול בשבת וכ\"ש שאין איסור לאכלו עכ\"פ בי\"ט ע\"ש אם חל יום טוב יום ו' ויום השבת יאמר בע\"ת למעבד כל צרכנא מיום טוב לחבירו ומיום טוב לשבת עיין ט\"ז הטעם. ועיין מ\"א שהניח בצ\"ע דאם יודע שיהיה לו ביום שני אונס שלא יוכל לאפות כגון ביום אידם אי שרי לאפות או לבשל ביום ראשון אם היה דעתו לכך בשעת עירוב ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:12"
+        },
+        "13": {
+          "he": "העירוב.  היינו התבשיל אבל אם נאכל הפת אין בכך כלום עס\"ב. ואפי' חל יום טוב ביום ה' וביום ו' ונזכר ביום טוב ראשון אין צריך לערב. יש\"ש ועסכ\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:13"
+        },
+        "14": {
+          "he": "לאכלו.  ומכל מקום יניח אותו ללחם משנה בערבית ושחרית ולמנחה יבצע עליו כמ\"ש בס\"ק ב':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:14"
+        },
+        "15": {
+          "he": "לבשל.  אפי' לא הניח הקדירה עדיין אצל האש רק שהתחיל בתיקונו כגון שחתך הלפתות וכדומה מותר לבשלו. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:15"
+        },
+        "16": {
+          "he": "נר.  האחרונים העלו דאם לא עירב אסור להדליק לכן אין להדליק רק נר אחד כמ\"ש ס\"כ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:16"
+        },
+        "17": {
+          "he": "אחרים.  וה\"ה אם יש שם אחרים והוא אינו רוצה להקנות להם קמחו שרי גם כן לאפות בצמצום. יש\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:17"
+        },
+        "18": {
+          "he": "כלל.  כתב ט\"ז כמדומה לי שאין לסמוך על פסק זה לחזור ולברך שנית ע\"ש. ועיין סעיף קטן ב' מש\"ש בשם יש\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:18"
+        },
+        "19": {
+          "he": "לאחרים.  ומשמע מזה דאפי' משרתת אסורה לבשל. ובי\"ט שחל להיות ערב שבת אסור לבשל מי\"ט לשבת אפי' ע\"י עירוב ומ\"מ אחרים אופין ומבשלים לו. מ\"א ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:19"
+        },
+        "20": {
+          "he": "ואחד.  היינו לכתחלה אבל אם אירע שלא אכל כלל ממין א' אינו אוסר לשבת כיון שעכ\"פ בשעת הבישול נתכוין לאוכלו היום הרי היה המעשה שלו בהיתר. ט\"ז ועיין סימן תק\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:20"
+        },
+        "21": {
+          "he": "בעירוב וכו'.  ומברך בתחלה. ש\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:21"
+        },
+        "22": {
+          "he": "לא.  ויש\"ש וב\"ח פסקו כסברא ראשונה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:22"
+        },
+        "23": {
+          "he": "והותיר אחת.  היינו קדירה אחת אסור לאכלו דבהערמה חיישינן שילמדו אחרים לעשות כן משא\"כ במזיד: וכתב ט\"ז וקשה דלעיל סכ\"א הבי' י\"א דמותר קודם האכילה מטעם שיאכל מכל אחד ולמה אסר כאן. ע\"כ נ\"ל דכאן מיירי במבשל מין אחד בשני קדירות דבזה לא מהני מה שרוצה לאכול ממנו מעט דהא טעם אחד לשניהם אבל אם יש שינוי ביניהם בטעם מהני אפי' בשני קדירות קודם אכילה הערמה זו לאכול מעט ממנו עד כאן לשונו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 527:23"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "{א} יו\"ט שחל להיות בע\"ש - ואין נ\"מ בין יו\"ט ראשון בין יו\"ט ב' של גליות דאם חל יו\"ט ב' בע\"ש ג\"כ אסור לבשל לשבת אם לא ע\"י עירוב שיערב מעיו\"ט הראשון:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:1"
+        },
+        "2": {
+          "he": "{ב} כמה קדירות ליו\"ט ואם הותיר - ואפילו ניתותר קדירה שלימה כולה כיון שמתחלה חשב שיצטרך ליו\"ט ובלבד שלא יערים בזה וכמבואר בסעיף כ\"ד עי\"ש ועיין בסעיף כ\"ג ובסימן תק\"ג:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:2"
+        },
+        "3": {
+          "he": "{ג} וע\"י עירוב מבשל בתחלה - כתבו הפוסקים דהיתר העירוב הוא אף למ\"ד דמלאכות שבת אין נעשין ביו\"ט מדאורייתא מ\"מ מהני העירוב דמ\"מ אין כאן אלא איסור מד\"ס דמדאורייתא אמרינן הואיל ואלו מקלעי אורחים וחזי ליה ליו\"ט גופא א\"כ אין עושה איסור בזה ורק מדרבנן אסרו ובשביל שבת שהוא שעת הדחק התירו ע\"י עירוב שנחשב בזה כאלו כבר התחיל להכין מעיו\"ט לשבת ורק שגומר ביו\"ט וכדלקמיה בהג\"ה. וכתבו האחרונים דביו\"ט שחל להיות בע\"ש יזהר להקדים הכנת מאכליו לשבת בכדי שיגמר מלאכתו בעוד יום גדול דסמוך לחשיכה בזמן דלא שייך שיצטרך לו ביו\"ט גופא הלא יש כאן לתא דמלאכה דאורייתא [וכן יש ליזהר בהמאכלים שמטמין לשבת שיטמינן בזמן שאפשר שיתבשלו שליש בישול מבעו\"י] וכתבו דמטעם זה נהגו להקדים תפלת ערבית בליל שבת כשחל סמוך ליו\"ט כדי שלא יתאחר מלאכת בישולו ביום טוב עד סמוך לחשיכה. ועיין בה\"ל דבשעת הדחק יש להקל ביו\"ט שני שחל בע\"ש אם נתאחר בישולו לשבת עד סמוך לשבת ואף ביו\"ט ראשון אפשר דיש להקל בשעת הדחק ולכתחלה בודאי צריך ליזהר בזה ובפרט ביו\"ט ראשון שהוא דאורייתא:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:3"
+        },
+        "4": {
+          "he": "{ד} אפילו ספק חשיכה - זמן ספק חשיכה נתבאר בסימן רס\"א ומבואר שם דכשנראין ג' כוכבים בינונים הוא ודאי לילה וכתבו האחרונים דאם קיבל עליו יו\"ט באמירת ברכו שוב אין יכול לערב דבקבלת יו\"ט נחשב הזמן כיו\"ט ודאי ודוקא בקבלת ברכו שהוא קבלת ציבור ואף אם הוא לא אמר ברכו נגרר אחר הציבור כמבואר בסימן רס\"ג סי\"ד אבל קבלת עצמו אף שקיבל בפירוש אפשר דלא מהני לענין זה ויכול עדיין לערב אם עוד לא חשכה ובשעת הדחק אף אחר ברכו כ\"ז שלא התפללו הציבור מעריב יוכל לערב אם לא חשכה עדיין אם בא להתפלל מנחה ונזכר שלא עשה עירוב תבשילין ואם יחזור לביתו לערב יאחר זמן מנחה יתפלל מנחה ולענין עירוב יקנה קמחו לאחרים ומיהו אם יכול לעשות עירובו ע\"י שליח ישלח שליח לעשות עירוב קודם שיתפלל מנחה:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:4"
+        },
+        "5": {
+          "he": "{ה} בפת ותבשיל - דצריך לאפות ולבשל מיו\"ט לשבת ולכן עושין העירוב מפת ותבשיל מעיו\"ט שעל סמך זה אופין ומבשלין אח\"כ:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:5"
+        },
+        "6": {
+          "he": "{ו} ואם לא עשאו אלא מתבשיל לבד - דמעיקר הדין א\"צ אלא מתבשיל לבד ומהני בין לפת בין לתבשיל שכן הוא דעת רוב הפוסקים אלא שנהגו כדעת הפוסקים המחמירין להצריך פת ותבשיל ולכן בדיעבד מותר ואם א\"צ לאפות ביו\"ט ורק לבשל אף לכתחלה סגי בתבשיל לחוד לכו\"ע:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:6"
+        },
+        "7": {
+          "he": "{ז} מותר - לאפות ולבשל ביו\"ט בשביל שבת ומ\"מ אם נזכר קודם שחשכה צריך להוסיף להניח גם פת ויאמר בהדין עירובא אבל לא יברך שנית. ואם עשה מפת לבד לתבשיל בודאי לא מהני ואם מהני לפת לחוד יש דעות בין הפוסקים והאחרונים הסכימו דלא מהני אף לפת דעיקר העירוב נתקן מתבשיל:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:7"
+        },
+        "8": {
+          "he": "{ח} כזית - ומשום הידור מצוה יקח לחם שלם וחתיכת בשר או דגים חשובה:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:8"
+        },
+        "9": {
+          "he": "{ט} בין בסופו - לכאורה ק\"ו הוא אם בתחלתו סגי בכזית כ\"ש אם היה יותר ונשאר כזית אלא בא לאשמעינן דאף בסופו לא סגי בפחות מכזית [עו\"ת]:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:9"
+        },
+        "10": {
+          "he": "{י} לכתחלה - האי לכתחלה הוא רק קודם שעושה העירוב אבל אם כבר עשה א\"צ לחזור ולעשות [חמד משה]:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:10"
+        },
+        "11": {
+          "he": "{יא} ללפת - כגון בשר ודגים וביצים ושארי מיני לפתן מבושלים שדרכן ללפת בהן את הפת. מהרי\"ל היה מניח הבשר על טעלער ולא על הגלוסקא משום מיאוס וגם לקח לחם שלם והיה לוקח אותו אח\"כ ללחם משנה ובוצע עליו בסעודה שלישית דכיון דאיתעביד ביה מצוה חדא ליתעבד ביה מצוה אחרינא:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:11"
+        },
+        "12": {
+          "he": "{יב} לאפוקי דייסא - היינו ריפות של שעורים שקורין גאגעלאך שאין דרכן של בני אדם ללפת בהן את הפת אלא אוכלין אותן בעצמן כדי לשבוע כמו פת. ואפילו במקומות שנוהגין ללפת בהן את הפת בטלה דעתן אצל כל אדם ושארי מיני קטניות תלוי במנהג המקומות שבמקום שאין מלפתין בהן את הפת אסור לערב בהן:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:12"
+        },
+        "13": {
+          "he": "{יג} צלי - ודוקא צלי ממש אבל מליח אף שהוא חשיב כרותח דצלי אפ\"ה אין מערבין וגרע מכבוש דלקמיה ולכן אין מערבין בדגים מלוחים שקורין הערינ\"ג אף שהוא ראוי לאכילה כמו שהוא חי אכן אלו המונחים בשולי החביות שכבושין הן בציר יש להם דין כבוש ומערבין בהן:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:13"
+        },
+        "14": {
+          "he": "{יד} שלוק - מבושל הרבה יותר מכפי צרכו:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:14"
+        },
+        "15": {
+          "he": "{טו} כבוש - דכבוש כמבושל חשיבי ושיעור כבישה במים ושאר משקין הוא מעל\"ע ובחומץ וציר אם רק נשרה כדי שיתננו על האור ויתחיל להרתיח חשוב כמבושל וכ\"ז אם ראוי לאכילה ע\"י הכבישה:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:15"
+        },
+        "16": {
+          "he": "{טז} או מעושן - וזה נמי כשראוי לאוכלו בזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:16"
+        },
+        "17": {
+          "he": "{יז} מין דגים קטנים - היינו קולי\"ס האיספנין שבש\"ס שרכין הן ובמים חמין נגמרין לאכילה וחשיבי בישול לדידהו:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:17"
+        },
+        "18": {
+          "he": "{יח} תפוחים מבושלים וה\"ה וכו' - וכ\"ז דוקא אם דרך אותו המקום ללפת בהן את הפת [מ\"א וש\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:18"
+        },
+        "19": {
+          "he": "{יט} שבישלן - או צלאן [גמרא] והיינו אפילו היו מלוחים בתחלה דראויין היו לאכלן חיים ואין צריכין בישול הו\"א דלא נחשב בישולן לכלום קמ\"ל ורבותא זו היא גם כן לענין תפוחים מבושלין אף דראוי היה לאכלן חיים:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:19"
+        },
+        "20": {
+          "he": "{כ} סומך מעיו\"ט אפילו וכו' - ר\"ל אע\"פ שנשארו שם בלא מתכוין הואיל ומבעוד יום סמך עליהן ולא אמרינן דמיגו דלא חשיבי בטלי אגב קידרא אלא גוררן מעיו\"ט ומחשבן לכך ואומר עליהן בהדין עירובא וכו' וכן שמנונית שעל הסכין וכ\"ז דוקא אם אין לו תבשיל אחר [אחרונים] ופשוט דזה דוקא לענין עדשים שבשולי קדרה דהוא קצת ביזוי מצוה אבל תבשיל גמור של עדשים לא גריעא משאר תבשיל. ואפילו לא נתבשלו מתחלה לשם כך. וכ\"ז דוקא אם דרך באותו מקום ללפת הפת עם עדשים [מ\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:20"
+        },
+        "21": {
+          "he": "{כא} ומצוה על כל גדול וכו' - וכן מצינו בש\"ס שכמה גדולי האמוראים היו מדקדקים בזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:21"
+        },
+        "22": {
+          "he": "{כב} מי ששכח - וכ\"ז בפעם ראשון אבל אם ברגל השני שכח עוד פעם הוי כפושע שניכר שאינו חרד לדבר מצוה ודינו מבואר בסוף הסעיף:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:22"
+        },
+        "23": {
+          "he": "{כג} או שהניח וכו' - ולא אמרינן שבזה שעירב גילה בדעתו שאינו רוצה לצאת בעירוב של גדול העיר:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:23"
+        },
+        "24": {
+          "he": "{כד} שאינו יודע לערב - וה\"ה אם חשב שיכולין לצאת בעירוב של גדול אפילו לכתחלה:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:24"
+        },
+        "25": {
+          "he": "{כה} נקרא פושע וכו' - מפני שתקנת חכמים היה שכל אחד ואחד יעשה ע\"ת בעצמו וכדי שיהיה זכור שאם מיו\"ט לשבת אסור לבשל מכש\"כ מיו\"ט לחול. ומיהו לאו דוקא הוא בעצמו דה\"ה אם ממנה שליח נמי דשלוחו של אדם כמותו ולא בא אלא לאפוקי עירוב של גדול שמכין מתבשילו ואינו נמלך בהם בשעת עשייתו אלא מודיע להם ביו\"ט שעשה עירוב ויכולין לסמוך עליו:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:25"
+        },
+        "26": {
+          "he": "{כו} ואינו יוצא בו - שאין החכמים מקנים עירובם למי שהוא יכול לעשות בעצמו ומתעצל. ודע דהרבה פוסקים חולקים על זה ולדידהו יכול כל אדם לסמוך לכתחלה על עירוב של גדול העיר ואף הגדולים מכוונים בעירובם להקנות לכל אדם בכל אופן ואיזהו שאינו יוצא בעירובם זה שכל פעם עושה בעצמו ואינו רוצה לסמוך על עירוב של הגדול ואח\"כ קרה ששכח כמה פעמים ולא עשה בזה אין הגדול מוציאו שהרי לא היה דרכו לסמוך על הגדול ואפשר בדיעבד יש לסמוך אפוסקים אלו ולהקל משום שמחת יום טוב:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:26"
+        },
+        "27": {
+          "he": "{כז} אינו צריך לפרט - בשעה שמזכה ע\"י אחר וה\"ה באמירת הנוסח יאמר לי ולכל מי שלא עשה עירוב:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:27"
+        },
+        "28": {
+          "he": "{כח} אפילו הניח ע\"ת - דמן הסתם אין דעתו של אדם להקנות אלא למי שהוא בעירו או בתחום אלפים:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:28"
+        },
+        "29": {
+          "he": "{כט} אא\"כ התנה - ומיהו אם לא הניח ע\"ת לא מהני תנאו שהרי אינו יכול לבא וליקח:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:29"
+        },
+        "30": {
+          "he": "{ל} דעת מניח וכו' - לכאורה מילתא דפשיטא הוא שהרי אינו מוציא עד שיזכה ע\"י אחר ואפשר דמשום סיפא דאבל דעת וכו' נקט לה ועוד אפשר לומר דנקט לה להיכא שמוציא בסתם דלא מהני אלא לב\"א הנכללים מסתמא בלשונו דהיינו מי שהוא בתוך תחום העיר וכעין ההיא דסעיף הקודם:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:30"
+        },
+        "31": {
+          "he": "{לא} רק שיודיעוהו וכו' - כלומר אם נודע לו ביו\"ט שהניחו עירוב בעדו מותר לו לבשל אע\"ג שלא נמלכו עמו בעת הנחה דאין צריך דעתו כלל ולשון רק שיודיעוהו דקאמר הוא כדי שידעו שיכולים לבשל לשבת:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:31"
+        },
+        "32": {
+          "he": "{לב} סומכין עליו מסתמא - אותן ששכחו או נאנסו דבודאי עירבו בעד כולם ואע\"ג שלא הוכרז ויש מהאחרונים שרצו לומר לדידן שבנוסח ברכת ע\"ת הוא לנו ולכל הדרים בעיר הזאת כל מי ששכח יכול לסמוך דודאי עירבו בעדו וחלקו עליהם שאין הנוסח מועיל כלום כ\"ז שלא זיכו להם על ידי אחר בתבשיל וכדלקמן בס\"י ואין רוב ב\"א יודעים זאת ואינם מקנים כלל וע\"כ א\"א לסמוך ע\"ז על סתם ב\"א אא\"כ יודעים בבירור שהקנו להם:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:32"
+        },
+        "33": {
+          "he": "{לג} צריך לזכות להם - כדי שיהיה להם חלק בתבשילין ושיוכלו לסמוך ע\"ז לבשל:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:33"
+        },
+        "34": {
+          "he": "{לד} מזכין על ידו בע\"ת - ובהני דאיכא פלוגתא שם כגון באשתו שמעלה לה מזונות או בבנו גדול שסמוך ע\"ש שמסקינן שם דבדיעבד סומכין לקולא ה\"ה הכא וכתבו האחרונים דכ\"ז באשתו שאוכלת עמו אבל אם מעלה לה מזונות והיא מבשלת בפ\"ע א\"כ אינה נטפלת בתר קדירת הבעל וצריכה עירוב באפי נפשה ומיגו דזכיא לנפשה יכול לזכות ע\"י גם לאחרים:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:34"
+        },
+        "35": {
+          "he": "{לה} מן הקרקע - וה\"ה אם היה העירוב מונח על איזה דבר שצריך להגביהו טפח ועיין לעיל סימן שס\"ו ס\"ט ובמ\"ש שם:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:35"
+        },
+        "36": {
+          "he": "{לו} ואומר בדין יהא שרא לן וכו' - ומוכח דעת הרמ\"א לקמן בסעיף כ' דאמירה זו מעכב ויש חולקין בזה ואומרים שאין זה אלא לכתחלה הא אם שכח ל\"ל בה כיון שהכין תבשיל להתיר לו הבישול ויתבאר לקמן בסעיף כ':",
+          "en": "",
+          "ref": "Mishnah Berurah 527:36"
+        },
+        "37": {
+          "he": "{לז} לאדלוקי שרגא - ויש שכתבו גם לאפוקי [והיינו הוצאה] מיהו בדיעבד אם לא הזכירן להני תרתי לכו\"ע אין להחמיר דנכללים בלמעבד כל צרכנא:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:37"
+        },
+        "38": {
+          "he": "{לח} למעבד כל צרכנא - ושוב מותרין כל המלאכות וכתבו האחרונים דגם שחיטה נכללת בזה ומ\"מ לכתחלה טוב לפרט בבהדין גם שחיטה:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:38"
+        },
+        "39": {
+          "he": "{לט} ומי שא\"י בלה\"ק וכו' - שהרי צריך לומר שסומך ע\"ז ואם אינו מבין מה שאומר א\"כ לא סמך עליהם בפיו:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:39"
+        },
+        "40": {
+          "he": "{מ} יכול וכו' - כלומר צריך לומר:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:40"
+        },
+        "41": {
+          "he": "{מא} מיו\"ט ראשון - פי' כשחל יו\"ט ראשון ביום ה' דהא יכול לבשל ביום וי\"ו שהוא יו\"ט שני ואפילו אם יודע שיהיה לו אונס ביו\"ט שני שלא יוכל לבשל בו ועירב מתחלה על מנת כן שיבשל ביום ראשון לא מהני דלא תקנו עירוב אלא מיום הסמוך לשבת ולא מיום שלפניו ובפרט בזמנינו שיום טוב שני כחול מדאורייתא שאלו היה יום חול בינתים בודאי לא מהני עירוב לבשל מיו\"ט לשבת:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:41"
+        },
+        "42": {
+          "he": "{מב} לשבת - ובדיעבד אם עבר ובישל או שגג ובישל דעת הט\"ז להתיר כדלקמן סעיף כ\"ג וכ\"ש אם לא בישל מאכלים אחרים לשבת:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:42"
+        },
+        "43": {
+          "he": "{מג} שיהיה קיים - כגון מעושן שמתקיים ימים הרבה:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:43"
+        },
+        "44": {
+          "he": "{מד} לכתחלה לא יסמוך וכו' - דיש דעות בזה בין הפוסקים י\"א דלטעם העירוב המובא בס\"א יכול לערב בעיו\"ט ולהתנות שיהיה לעירוב אף ליו\"ט אחר אם יתקיים דאף דנמצא שהניח העירוב זמן רב קודם יו\"ט ההוא לא איכפת לן כיון דעכ\"פ כבר התחיל להכין לשבת ההוא מזמן קודם בימות החול וי\"א דמצותו להניחו דוקא בערב אותו יו\"ט שבא להתיר לבשל בו ואפילו אם הניח ב' או ג' ימים מקודם לא מהני והכריע המחבר דלכתחלה צריך להחמיר כדעה זו ובדיעבד סומכין על המקילין באיסור דרבנן:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:44"
+        },
+        "45": {
+          "he": "{מה} יכול לסמוך - היינו כשהניח העירוב על יו\"ט אחר ולא נזכר לערב שנית בעיו\"ט סומך על עירוב זה לאפות ולבשל אבל אם נזכר קודם יום טוב צריך לערב שנית ולומר בהדין עירובא אבל לא יברך שנית:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:45"
+        },
+        "46": {
+          "he": "{מו} נאכל העירוב - היינו התבשיל אבל נאכל הפת אין בכך כלום ואפילו אם חל יו\"ט ביום ה' ויום וי\"ו ונזכר בראשון שאבד הפת א\"צ לערב על תנאי אלא סומך על התבשיל לחוד שהוא עיקר העירוב כדלעיל בס\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:46"
+        },
+        "47": {
+          "he": "{מז} כזית - דזהו שיעור עירוב כדלעיל בס\"ג:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:47"
+        },
+        "48": {
+          "he": "{מח} יכול לאוכלו - מ\"מ לכתחלה נכון שיניח אותו ללחם משנה בערבית ושחרית ובמנחה יבצע עליו דכיון דאיתעביד בו מצוה חדא ליתעביד בו מצוה אחריתא:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:48"
+        },
+        "49": {
+          "he": "{מט} התחיל בעיסתו - רק ללוש גומר לאפותה:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:49"
+        },
+        "50": {
+          "he": "{נ} אותו התבשיל - ואפילו לא הניחה עדיין אצל האש ורק שהתחיל בה כגון שחתך ראשי הלפתות וכדומה גומר אותה לבשלה:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:50"
+        },
+        "51": {
+          "he": "{נא} אפה ולא בישל וכו' - כאן בא להשמיענו דין חדש דכשנאבד העירוב קודם סעודת יו\"ט יכול להשאיר מה שבישל ביו\"ט לצורך יו\"ט עצמו לשבת דכיון דבשלם בשעה שהיה העירוב קיים והיה יכול לבשלם לשבת מה שכוון בהם לצורך יו\"ט לא הפסיד בזה ויכול להשאירם לשבת ולבשל אחרים לצורך יו\"ט אבל מה שבישל ליו\"ט אחר שנאבד עירובו אינו יכול להשאיר לשבת ולבשל אחרים לצורך יו\"ט דהערמה הוא דהא יש לו תבשילין ליו\"ט:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:51"
+        },
+        "52": {
+          "he": "{נב} או בישל ולא אפה - הלשון אינו מדוקדק דה\"ה אם אפה ובישל ורק שלא לצורך שבת:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:52"
+        },
+        "53": {
+          "he": "{נג} להניחו לשבת - אבל להניחו לחול בכה\"ג ולבשל אחרים לצורך יו\"ט אסור וכנ\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:53"
+        },
+        "54": {
+          "he": "{נד} מותר להדליק - דלהדלקת הנר א\"צ עירוב ולדעה זו אין אומרין בנוסח בהדין עירובא ולאדלוקי שרגא:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:54"
+        },
+        "55": {
+          "he": "{נה} ויש אוסרין - הרבה אחרונים הסכימו דעיקר כדעה זו ולכך אנו אומרין בנוסח בהדין עירובא גם לאדלוקי שרגא דגם זה ניתר על ידי העירוב אלא דאם הניח העירוב ולא אמר אין אסור בדיעבד דממילא נגרר גם זה אבל אם לא הניח כלל אסור ורק נר אחד מותר להדליק בכל אופן ויש מקילין כדעה ראשונה להדליק כל מה שרוצה ולכתחלה נכון שיקנה לאחרים והם ידליקו לו או יסתפק בנר אחד:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:55"
+        },
+        "56": {
+          "he": "{נו} מי שלא עירב וכו' - ודוקא אחד מאנשי העיר שאינו נטפל לעיסתו ולתבשילו של חבירו אבל אשתו ובני ביתו של אדם כיון שעירב הבעה\"ב הם נטפלין לו ומותרין לבשל אע\"פ שלא עירבו לעצמן כלל וגם הוא לא זיכה להם על ידי אחר:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:56"
+        },
+        "57": {
+          "he": "{נז} לאחרים ואפילו בביתם - קמ\"ל דלא אמרינן כיון שהם עירבו ויכולים לבשל לעצמן יכולין לעשות שליח עבורן דכיון שהוא לא עירב איסורא רמי עליה לבשל:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:57"
+        },
+        "58": {
+          "he": "{נח} וגם אחרים וכו' - ר\"ל אפילו בביתם:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:58"
+        },
+        "59": {
+          "he": "{נט} לבשל לו - היינו מקמחו דאף שהם עירבו לא הותר להם ליקח קמח שלו דגם קמחו נאסר כל זמן שהוא שלו:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:59"
+        },
+        "60": {
+          "he": "{ס} לאחרים שעירבו במתנה - היינו במשיכה לרשותם או בהגבהה בכל מקום דאלו בקנין סודר אסור [אחרונים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:60"
+        },
+        "61": {
+          "he": "{סא} ואם אין שם אחרים וכו' - והאחרונים הסכימו דאפילו יש שם אחרים אלא שאינו רוצה להקנות להם מאיזה טעם גם כן מותר לו לאפות פת אחת וכו' אכן באמת נכון מאד שיקנה קמחו לאחרים כדי שיוכלו לאפות עבורו ללחם משנה:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:61"
+        },
+        "62": {
+          "he": "{סב} בצמצום פת אחד - היינו אפילו פת גדול שיהיה די לו לכל השבת והתירו לו בכל זה כדי חייו משום כבוד שבת. ופשוט דאם יש לו פת אחד שנשאר לו מיו\"ט אסור לו לאפות משום לחם משנה:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:62"
+        },
+        "63": {
+          "he": "{סג} הוי כמי שלא עירב וכו' - דכן תקנו חכמים שיפרט עיקרי המלאכות ואם פרט רק מקצתו כגון שאמר רק לאפויי ולא הזכיר בישול והטמנה אסור בהם ויש חולקין על עיקר דין זה וס\"ל דהאמירה של בהדין אינו רק למצוה לכתחלה אבל בדיעבד כיון שהניח התבשיל לשם עירוב אפילו לא אמר כלל נוסח של בהדין וכו' אינו מעכב ומותר לסמוך עליו לעשות כל המלאכות מיו\"ט לשבת ולענין הלכה לכתחלה יש להחמיר כסברא הראשונה וע\"כ אם נזכר קודם כניסת ליל יום טוב יחזור ויטלו להעירוב בידו ויאמר נוסח בהדין וכו' ולא יחזור ויברך שנית אם כבר בירך בתחלה ואם נזכר בע\"ש יקנה קמחו לאחרים והם יבשלו ויתנו לו ואם אין לו למי להקנות יוכל לסמוך על סברא האחרונה:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:63"
+        },
+        "64": {
+          "he": "{סד} כלל - ואם אמר נוסח בהדין אך שלא בירך בתחלה אינו מעכב דברכות אין מעכבות:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:64"
+        },
+        "65": {
+          "he": "{סה} דהוי כמי שלא הניח עירוב וכו' - ר\"ל כמו דקי\"ל דאותו איש שלא עירב אסור לבשל מיו\"ט לשבת אפילו בשביל אחרים כיון שאסור לבשל בשביל עצמו כן ה\"ה ביו\"ט גופא מי שמתענה דאסור לבשל בשביל עצמו כיון שא\"צ לה ממילא לא הותר לו לבשל גם בשביל אחרים וכתב המ\"א דממילא אם איקלע זה ביו\"ט הסמוך לשבת אסור לבשל בעצמו לכתחלה על שבת אף שהניח עירוב אבל בני ביתו או אחרים אופין ומבשלין לו משלו דאין קמחו נאסר הואיל והניח עירוב תבשילין. ועיין באחרונים שמפקפקים על עיקר דינו דרמ\"א וע\"כ ביו\"ט הסמוך לשבת אם אין לו אחרים שיבשלו בעבורו מותר לו לבשל בעצמו וכן אשה משרתת שמתענה ביו\"ט ג\"כ יכולה לבשל לצורך בעה\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:65"
+        },
+        "66": {
+          "he": "{סו} אם נזכר שלא עירב וכו' - ומיירי שלא היה שם בכל העיר גדול שזיכה בעירובו לכל אנשי העיר:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:66"
+        },
+        "67": {
+          "he": "{סז} ויניחנו דולק - ויכול אח\"כ לטלטלו ולהניחו באיזה מקום שירצה:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:67"
+        },
+        "68": {
+          "he": "{סח} וי\"א דאפילו וכו' - וכן נוהגין העולם להקל כדעה זו ועיין לעיל בסימן תק\"ג ס\"א בהג\"ה ובמ\"ב שנתבאר שם דין זה באורך:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:68"
+        },
+        "69": {
+          "he": "{סט} כמה קדרות וכו' - אין ר\"ל שמבשל מינים חלוקים בכמה קדרות לצורך יו\"ט ומרבה בכל אחת בשביל שבת דזה אפילו לדעה ראשונה שרי אלא דבא להוסיף שאף אם אינו מבשלם אלא בשביל שבת ורק כדי להתיר לבשל אוכל קצת מכל אחת ביו\"ט ג\"כ שרי:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:69"
+        },
+        "70": {
+          "he": "{ע} מותר - היינו שבכל אחד יהיה מין חלוק בפ\"ע דאל\"ה מינכר הערמה דמה שיאכל קצת מכל קדרה הלא יכול לטעום מאחת:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:70"
+        },
+        "71": {
+          "he": "{עא} והוא שיאכל וכו' - כתב הט\"ז דהיינו לכתחלה אבל אם אירע שלא אכל כלל ממין אחד אינו אסור לשבת כיון שעכ\"פ בשעת הבישול נתכוין לאוכלו היום הרי היה המעשה שלו בהיתר ובבית מאיר חולק ע\"ז דכיון דעיקר בישולו הוא לצורך מחר וא\"צ ליו\"ט וכל ההיתר הוא רק מה שעכ\"פ אוכל ממנו קצת ביום טוב דעי\"ז לא הוי הערמה הניכרת ואם אח\"כ לא יאכל הלא מינכר ההערמה לכל דנמצא כל בישולו לצורך מחר לחוד. וכן נראה להחמיר בזה אחרי שכמה אחרונים ס\"ל דהעיקר כדעה הראשונה שאין להתיר לבשל אלא באותה קדירה שמבשל באמת לצורך יו\"ט אלא שמרבה בה גם בשביל שבת אלא שנהגו העולם להקל כדעה אחרונה וכנ\"ל עכ\"פ אין להוסיף קולא על קולא:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:71"
+        },
+        "72": {
+          "he": "{עב} אינו יכול לערב ע\"ת - לפי ששני ימים של ר\"ה הם כיום אחד ארוך ולא משום ספיקא כשאר ב' יו\"ט של גליות:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:72"
+        },
+        "73": {
+          "he": "{עג} אינו צריך לערב - דהא למחר יהיה יום חול וממילא יהא מותר לבשל:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:73"
+        },
+        "74": {
+          "he": "{עד} בעירוב זה יהא שרא וכו' - ומברך בתחלה [מ\"א בשם ש\"ג] ובחי' רע\"א הביא בשם ס' לחם סתרים דאין לברך וכ\"כ בשמק\"ו:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:74"
+        },
+        "75": {
+          "he": "{עה} וי\"א דאי לית ליה וכו' - ונקטינן כסברא הראשונה:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:75"
+        },
+        "76": {
+          "he": "{עו} או בשוגג - אשמועינן דלא תימא דוקא מזיד שלא ילמדו ממנו לעשות כן דהכל יודעים שהוא רשע אבל בשוגג אם נתירו יבואו אחרים להקל ולהערים:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:76"
+        },
+        "77": {
+          "he": "{עז} אם הערים וכו' לצורך היום - ר\"ל שבאמת א\"צ אלא לקדרה אחת ומבשל שניה בדרך הערמה שאומר שמא יזדמנו לו אורחים או שבישל לצורך היום וחזר ובישל לצורך היום ואמר שקדרה הראשונה ישאר למחר אבל כשמבשל בדרך הערמה שיאכל מן השניה כזית מבואר לעיל בסכ\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:77"
+        },
+        "78": {
+          "he": "{עח} והותיר אחת וכו' - דבהערמה חיישינן שילמדו אחרים לעשות כן וגם הוא יעשה כן פעם אחרת משא\"כ במזיד:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:78"
+        },
+        "79": {
+          "he": "{עט} אסור לאכלה - היינו לו ולב\"ב דקנסוהו רבנן אבל לאחרים מותר למויו\"ט מיד [לבוש] כתב בחמד משה דאף לו אינו אסור רק עד מוצאי יו\"ט:",
+          "en": "",
+          "ref": "Mishnah Berurah 527:79"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

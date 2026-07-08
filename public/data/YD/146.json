@@ -1,0 +1,492 @@
+{
+  "chelek": "YD",
+  "siman": 146,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 15,
+  "fetchedAt": "2026-07-08T00:01:19.624Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "איזו עבודת כוכבים יש לה ביטול ואיזו אין לה ביטול. ובו ט\"ו סעיפים:אלילים של עובד כוכבים שביטלה עובד כוכבים מותרת אבל ישראל אינו יכול לבטל אלילים של עובד כוכבים וכל שכן של ישראל שאין לה ביטול עולמית ואפילו אם יש לעובד כוכבים שותפות בה עמו אין ביטול העובד כוכבים מועיל לחלק הישראל:",
+      "en": "Des objets qui sont permis après avoir été déformés et de ceux qui sont toujours défendusUn objet servant aux idoles et déformé par un païen est permis; mais il est défendu, si la déformation a été faite par un Israélite et à plus forte raison quand l’objet appartient à un Israélite. Lorsqu'un objet servant aux idoles appartient par moitié à un païen et à un Israélite, on ne doit pas, après la déformation, profiter de la valeur de la partie appartenant à l’Israélite, mais la valeur de la partie appartenant au païen est permise.",
+      "ref": "Shulchan Arukh, Yoreh Deah 146:1"
+    },
+    {
+      "seif": 2,
+      "he": "אפילו אלילים של עובד כוכבים משבאה ליד ישראל וזכה בה שוב אין לה ביטול והני מילי אלילים עצמם אבל משמשי אלילים ונויה אם באו ליד ישראל ואח\"כ ביטלה עובד כוכבים מותרים:",
+      "en": "Quand une idole revient à un Israélite qui l’accepte, il lui est défendu d’en profiter même après l'avoir déformée. Il ne s’agit ici que de l’idole proprement dite; mais s’il s’agit d'objets servant au culte païen ou d’embellissements, ces différents objets sont permis, si le païen les déforme après les avoir offerts.",
+      "ref": "Shulchan Arukh, Yoreh Deah 146:2"
+    },
+    {
+      "seif": 3,
+      "he": "הלוקח גרוטאות (פי' שברי כלי מתכות) מן העובד כוכבים ומצא בהם אלילים אם נתן מעות ולא משך יחזירם לעובד כוכבים וכן אם משך ולא נתן מעות אף על פי שמשיכה בעובד כוכבים קונה כמקח טעות הוא נתן מעות ומשך יוליכם לים המלח:",
+      "en": "Quand un Israélite a acheté de la ferraille chez un païen, il peut la refuser s’il y trouve une idole après avoir payé la marchandise avant la livraison; il en est de même s’il l’a reçue sans la payer immédiatement, parce qu'il y a erreur, l’Israélite n'ayant pas cru trouver une idole dans son achat. Mais si la ferraille a été livrée et payée, l’Israélite n’a plus le droit de la refuser et il est obligé de la jeter à la mer.",
+      "ref": "Shulchan Arukh, Yoreh Deah 146:3"
+    },
+    {
+      "seif": 4,
+      "he": "גר ועובד כוכבים שירשו את אביהם עובד כוכבים יכול הגר לומר לעובד כוכבים טול אתה אלילים ואני מעות אבל משבאת האלילים לרשות הגר אסור:",
+      "en": "Quand un père a laissé en mourant ses biens à ses deux fils, dont l’un s’est converti au Judaïsme, s’il se trouve une idole dans l’héritage, le converti peut prier son frère de l’accepter et de lui donner en retour une somme d’argent représentant la valeur de l’idole; mais si le converti a trouvé le faux dieu dans sa part après être entré en possession de son legs, il ne peut plus faire d'échange et il est obligé de jeter ce qui lui revient.",
+      "ref": "Shulchan Arukh, Yoreh Deah 146:4"
+    },
+    {
+      "seif": 5,
+      "he": "עובד כוכבים מבטל אלילים אע\"פ שאינה שלו ואפילו אינו עובד לאותם אלילים ואפי' בעל כרחו ובלבד שידע בטיב אלילים אבל קטן שאינו יודע בטיב אלילים וכן שוטה וכן מי שאינו עובד אלילים כגון גר תושב אינם יכולים לבטלה. (ישמעאלים שאינן עובדי עבודת כוכבים אינם יכולים לבטל) (בית יוסף בשם הרמב\"ם פ\"ח):",
+      "en": "Quand un païen a déformé une idole, celle-ci est permise, même si elle ne fait pas partie des faux dieux qu'il adore ou si elle appartient à un autre païen; il doit connaître toutefois la nature de l’objet et le culte qui lui est rendu; mais si l’idole a été déformée par un enfant, ou par un homme privé de raison, ou encore par un païen qui ne croit pas aux enseignements du paganisme, elle reste défendue.GLOSE: Les mahométans ne rendant pas honneur au culte idolâtre, si l’un d’eux déforme une idole, celle-ci reste défendue.",
+      "ref": "Shulchan Arukh, Yoreh Deah 146:5"
+    },
+    {
+      "seif": 6,
+      "he": "כיצד מבטלה נטל מהאשרה מקל או אפי' עלה אחד לצרכו נתבטלה ובין האשרה עצמה ובין השפאים שנטל ממנה מותרים ואם נטל השפאים לצרכה דהיינו ליפותה לא נתבטלה והיא אסורה והשפאים מותרים:",
+      "en": "Qu’entend-on par ces mots «déformer une idole»? Quand un païen arrache pour ses besoins une feuille à un arbre qui représente une idole, ou quand il coupe une de ses branches, on dit qu’un arbre est déformé, et par suite, il est permis. Il en est de même quand un païen coupe les branches qui forment les arbres. Mais quand il le taille dans l'intention de l'embellir, l'arbre n’est pas alors considéré comme déformé et il est défendu; cependant, les branches coupées sont permises, parce qu’on n’en fait pas des faux dieux et qu’on ne les adore pas.",
+      "ref": "Shulchan Arukh, Yoreh Deah 146:6"
+    },
+    {
+      "seif": 7,
+      "he": "אלילים של עובד כוכבים שקטע ראש אזנה או ראש חוטמה או ראש אצבעה או שמיעכה בפניה אע\"פ שלא חסרה בטלה מיעכה שלא בפניה ולא חסרה או רקק בפניה השתין בפניה או גררה או זרק בה את הצואה לא בטלה: הגה וי\"א דאפילו בטלה באמירה בעלמא הוי ביטול אבל אם בטלה מכח אונס אינה מבוטלת עד שיעשה מעשה בגופה כמו שנתבאר (מרדכי ר\"פ כל הצלמים בשם ראבי\"ה):",
+      "en": "Quand un païen a enlevé le bout d’une oreille, du nez ou d’un doigt d’une statue représentant une idole ou égratigné la face sans rien couper, cette statue est considérée comme déformée, et par conséquent elle est permise. Mais si le païen a égratigné le corps seulement, sans enlever aucune autre partie, et même s'il s’est rendu coupable envers la statue d’un acte méprisant, la statue reste défendue.GLOSE: Si un païen prononce des blasphèmes contre une idole, celle-ci est considérée comme déformée; mais si ses malédictions ont été dictées par la contrainte, l’idole reste défendue, à moins qu’il ne se soit rendu coupable envers elle des déprédations énoncées en l’article 7.",
+      "ref": "Shulchan Arukh, Yoreh Deah 146:7"
+    },
+    {
+      "seif": 8,
+      "he": "מכרה או משכנה אפילו לצורף ישראל לא בטלה ויש מתירין בצורף ישראל: הגה ומשמשי עבודת כוכבים אם משכנו או מכרו הוי ביטול (וכן משמע בטור סימן קל\"ט וכ\"כ הב\"י):",
+      "en": "Quand un païen a vendu une idole à un fondeur israélite ou quand il l'a mise en gage chez ce dernier, cette idole n’est pas considérée comme déformée. Certains auteurs prétendent que l’idole est déformée et par suite permise, quand elle est vendue au fondeur israélite.GLOSE: On considère comme déformés les objets servant au culte païen, lorsqu'ils sont vendus ou mis en gage.",
+      "ref": "Shulchan Arukh, Yoreh Deah 146:8"
+    },
+    {
+      "seif": 9,
+      "he": "נפלה עליה מפולת ולא פינוה גנבוה לסטים ולא תבעוה אינה בטלה:",
+      "en": "Lorsqu'un éboulis d’une ruine est tombé sur une idole et qu’on ne la déblaye pas, l’idole n’est pas considérée comme déformée, il en est de même pour une idole volée et non réclamée.",
+      "ref": "Shulchan Arukh, Yoreh Deah 146:9"
+    },
+    {
+      "seif": 10,
+      "he": "הניחוה עובדיה והלכו להם בשעת שלום מותרת בשעת מלחמה אסורה והוא שאינם יכולים לחזור לה אבל אם היו יכולים לחזור לה ולא חזרו מותרת:",
+      "en": "Quand des païens ont abandonné en temps de paix leur idole, celle-ci est permise; mais le faux dieu abandonné par les païens en temps de guerre est interdit, quand ceux-ci n’ont pu revenir sur leurs pas pour le chercher; mais s’il leur était possible de revenir en arrière et s'ils ne sont pas venus, l’idole est permise.",
+      "ref": "Shulchan Arukh, Yoreh Deah 146:10"
+    },
+    {
+      "seif": 11,
+      "he": "אלילים של עובד כוכבים שנשברה מאליה שבריה אסורים בהנאה עד שיבטלוה לפיכך המוצא שברי אלילים הרי אלו אסורים בהנאה שמא לא ביטלה העובד כוכבים ואם היתה של פרקים והדיוט יכול להחזירה צריך לבטל כל פרק ופרק מפרקיה ואם אינו יכול להחזיר כיון שבטל אבר אחד ממנה בטלו כל השברים:",
+      "en": "Lorsqu'une idole se brise, il est permis de profiter des morceaux, si toutefois ses adorateurs n’éprouvent aucun regret et s'ils ne pensent plus à leur faux dieu; mais s’ils y pensent, les morceaux sont défendus; c’est pour cette raison qu'un Israélite ne doit pas se servir des idoles car on ignore si le païen a abandonné entièrement son faux dieu. Quand les diverses pièces qui composent une idole et qu’une simple personne peut monter ou démonter viennent à se disjoindre, il est permis de profiter des morceaux, si l’on est sûr que les païens voient sans regret tous les membres du faux dieu séparés; de même, quand on ne peut rétablir facilement en place les diverses parties de l’idole et qu'un de ses membres manque, les divers morceaux sont permis.",
+      "ref": "Shulchan Arukh, Yoreh Deah 146:11"
+    },
+    {
+      "seif": 12,
+      "he": "מזבח של אלילים שנפגם עדיין הוא אסור עד שינתץ רובו על ידי עובד כוכבים ובימוס שנפגם מותר איזהו בימוס ואיזו מזבח בימוס אבן אחד מזבח אבנים הרבה:",
+      "en": "Il est défendu de profiter d’un autel ébréché appartenant à un païen jusqu'à ce que celui-ci soit à moitié brisé. Quand il s’agit d’une pierre servant aux sacrifices, il est permis d’en profiter même quand elle n’est qu'ébréchée, parce qu’elle ne se compose que d’une pierre unique, tandis que l'autel est formé par l'assemblage de plusieurs pierres.",
+      "ref": "Shulchan Arukh, Yoreh Deah 146:12"
+    },
+    {
+      "seif": 13,
+      "he": "המבטל אלילים נתבטלו משמשיה (אפי' הם כבר ביד ישראל נתבטלו עם ע\"א שביד העובד כוכבים) (מרדכי פרק ר\"י וכן כ' הר\"ן בשם הראב\"ד) ביטל משמשיה לא נתבטלה היא:",
+      "en": "Quand un païen méprise ses idoles, il va sans dire qu’il méprise également les objets servant à leur culte, et par suite il est permis de profiter de ces derniers.GLOSE: Si les objets servant au culte païen se trouvent chez un Israélite, il est permis d’en profiter, quand le païen à qui ils appartiennent profère des blasphèmes contre ses faux dieux. Mais bien qu’on puisse profiter des objets servant au culte idolâtre, quand un païen manifeste le mépris que leur vue lui inspire, il n’en résulte pas que les idoles soient permises; car le païen peut les respecter, tout en se montrant irrespectueux vis-à-vis des accessoires du culte.",
+      "ref": "Shulchan Arukh, Yoreh Deah 146:13"
+    },
+    {
+      "seif": 14,
+      "he": "מצוה על כל המוצא אלילים שיבערנה ויאבדנה וכיצד מבערה שוחק וזורה לרוח או מטיל לים (וה\"ה במשמשיה וכל הנעשה בשבילה שנאמר אבד תאבדון את כל המקומות) (בית יוסף בשם הרמב\"ם):",
+      "en": "On fait une bonne œuvre quand on anéantit une idole trouvée; dans ce cas, il faut la réduire en poudre et jeter ensuite cette poudre, ou si l’on n’a pu la réduire en poudre, il faut la jeter dans la mer.GLOSE: On doit traiter de la même façon tous les objets servant au culte des faux dieux.",
+      "ref": "Shulchan Arukh, Yoreh Deah 146:14"
+    },
+    {
+      "seif": 15,
+      "he": "צריך לשרש אחר האלילי' ולכנות לה שם גנאי:",
+      "en": "Il faut tâcher d’anéantir le plus grand nombre d’idoles possible, en expliquant aux païens leur erreur, jusqu’à ce que ceux-ci méprisent à leur tour les objets de leur vénération.",
+      "ref": "Shulchan Arukh, Yoreh Deah 146:15"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה עבודת כוכבים דף נ\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:1"
+        },
+        "2": {
+          "he": "שם בגמ' דף נ\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:2"
+        },
+        "3": {
+          "he": "ברייתא שם דף ס\"ד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:3"
+        },
+        "4": {
+          "he": "טור בשם הרב ר' אליעזר שאין להחמיר בה כעבודת כוכבים עצמה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:4"
+        },
+        "5": {
+          "he": "ברייתא שם דף ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:5"
+        },
+        "6": {
+          "he": "ומפרש רבא שם אע\"ג דמקח טעות הוא מ\"מ כי הדר ושקל זוזי מחזי כמאן דמזבן עבודת כוכבים לעובד כוכבי':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:6"
+        },
+        "7": {
+          "he": "משנה דמאי פ\"ו משנ' י':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:7"
+        },
+        "8": {
+          "he": "משנה עבודת כוכבים דף נ\"ב וברייתא שם דף ס\"ד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:8"
+        },
+        "9": {
+          "he": "כפשטא דרב נחמן שם וכדמפרש שם בגמ' והברייתא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:9"
+        },
+        "10": {
+          "he": "רמב\"ם בפ\"ח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:10"
+        },
+        "11": {
+          "he": "שם בגמ':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:11"
+        },
+        "12": {
+          "he": "משנה שם דף מ\"ט:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:12"
+        },
+        "13": {
+          "he": "שם וכמאן דשרי דתניא כוותיה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:13"
+        },
+        "14": {
+          "he": "משנה שם דף נ\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:14"
+        },
+        "15": {
+          "he": "ויליף לה שם בגמרא מקרא והיה כי ירעב ויתקצף וקלל במלכו ובאלהיו וכו' אע\"ג דקלל מלכו ואלהיו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:15"
+        },
+        "16": {
+          "he": "שם במשנה וכחכמי':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:16"
+        },
+        "17": {
+          "he": "פלוגת' דאמוראי שם ופסק הרא\"ש לחומרא וכ\"פ הר\"ן ושכן דעת הרי\"ף:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:17"
+        },
+        "18": {
+          "he": "רמב\"ם בפ\"ח ואיירי שאמר בשעת שהשכינ' אם לא הבאתי לך מכאן עד יום פלוני הרי הוא שלך והגיע הזמן ולא פדאה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:18"
+        },
+        "19": {
+          "he": "ברייתא שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:19"
+        },
+        "20": {
+          "he": "משנה שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:20"
+        },
+        "21": {
+          "he": "מימרא דרבי ירמיה בר אבא וכו' שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:21"
+        },
+        "22": {
+          "he": "הרמב\"ם בפ\"ח מהל' עבודת כוכבים כפי פירושו שם בגמ' בפלוגת' דרב ושמואל שם דף מ\"ט וכרב וכפי פי' זה אתיא נמי כרבי יוחנן שם דף מ\"א דפסקו הפוסקים כוותיה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:22"
+        },
+        "23": {
+          "he": "ברייתא שם דף נ\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:23"
+        },
+        "24": {
+          "he": "משנה שם דף נ\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:24"
+        },
+        "25": {
+          "he": "רמב\"ם ריש פ\"ז מהמ\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:25"
+        },
+        "26": {
+          "he": "ברייתא שם דף מ\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:26"
+        },
+        "27": {
+          "he": "שם דף מ\"ז:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 146:27"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "וזכה בה. והב\"ח כתב דאפילו לא זכה בה כגון שמצאה לפני יאוש או גזלה אע\"ג דמדינא עבודת כוכבים של עובד כוכבים היא ויש לה ביטול מ\"מ מדרבנן אין לה ביטול גזרה משום אליל של ישראל עצמו ובהכי אמרינן דמשמשי עבודת כוכבים שבאו ליד ישראל וביטלם עובד כוכבים מותרין אבל זכה בהם הישראל אפילו משמשים אין להם ביטול עכ\"ד וע\"ש וע\"ל סעיף י\"ג בהג\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 146:1"
+        },
+        "2": {
+          "he": "יחזירם לעובד כוכבים. ולא אמרינן דמחזי כזבין אליל דהכל יודעים שלא נקנו לו כיון שלא משך:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 146:2"
+        },
+        "3": {
+          "he": "ולא נתן מעות. אע\"פ שפסק הדמים דבכה\"ג משיכה קונה כדלעיל סי' קל\"ב (וע\"ל סי' קל\"ח ועפ\"ר כאן) מ\"מ משיכה בטעות היה שלא ידע שהי' בהן אליל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 146:3"
+        },
+        "4": {
+          "he": "נתן מעות כו'. וה\"ה משך ברישא ואחר כך נתן מעות וטעמא דהשתא' כיון שנקנו לו אע\"ג דהוי כמקח טעות מ\"מ כשיחזור ויקח המעות מחזי כזבין אליל הלכך יוליכם לים המלח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 146:4"
+        },
+        "5": {
+          "he": "יכול הגר לומר כו'. לפי שירושת הגר מדרבנן וחכמים הקילו בגר שלא יחזור לקלקולו ש\"ס ולפ\"ז דוקא גר אבל מי שהמיר אביו ובנו עמו ומת אביו אינו יכול לומר לאחיו המומר טול אתה אלילים כו' וכן מי שנשתתף עם עובד כוכבים בסחורה ובאתה אלילים לידו אינו יכול לומר טול אתה אלילים כו':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 146:5"
+        },
+        "6": {
+          "he": "ישמעאלים כו'. עיין לעיל סימן קכ\"ד ס\"ק י\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 146:6"
+        },
+        "7": {
+          "he": "והשפאים מותרין. משום דמיזרק זריק להו ולא פלח להו. רש\"י:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 146:7"
+        },
+        "8": {
+          "he": "באמירה בעלמא. ול\"ד למכרה או משכנה דבסמוך דהתם זוזי אנסוהו ב\"ח ופסק כן. ובד\"מ כתב דשאני התם דלא ידעינן בודאי שבטלו אבל כשבטלו אפילו באמירה בעלמא מהני כדברי המרדכי עד כאן ר\"ל דהכא מיירי שאומר שרוצה לבטל לקטוע אזנה או חוטמה וכה\"ג אבל התם אינו מבטלו וגם סובר שהקונה לא יבטל ודלא כב\"י:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 146:8"
+        },
+        "9": {
+          "he": "אפילו לצורף כו'. וכ\"ש לצורף עובד כוכבים או לישראל אחר שאינו צורף דבהנך לכ\"ע לא בטלה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 146:9"
+        },
+        "10": {
+          "he": "ויש מתירין כו'. משמע אפילו במשכנתא ובב\"י כתב דאפילו משכנה והרהינה אצלו שא\"ל אם לא הבאתי לך המעות מכאן עד יום פלוני תהא שלך והגיע הזמן ולא פדאה לא בטלה לכ\"ע ודלא כהר\"ן שכתב דהרהינה הוי כמכירה עכ\"ל וכן תפס הב\"ח עיקר במשנה וש\"ס ורמב\"ם כהר\"ן עי' שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 146:10"
+        },
+        "11": {
+          "he": "כיון שבטל אבר א' כו'. והב\"ח כתב דהרי\"ף והרא\"ש חולקים וס\"ל דאין חילוק רק בין נשתברה לשברים או לשברי שברים ולפעד\"נ אדרבה מדבריהם שאין מחלקים בהכי וכן מוכח בר\"ן וכן משמע בטור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 146:11"
+        },
+        "12": {
+          "he": "ע\"י עובד כוכבים. כלומר דאם לא כן אסור כדין אליל שנשתברה מאליה. ב\"י:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 146:12"
+        },
+        "13": {
+          "he": "או מטיל לים המלח. בלא שחיקה אבל לשאר נהרות בעי שחיקה ב\"י וד\"מ ושאר אחרונים וכן הוא לקמן סימן רצ\"ד סעיף ו' והב\"ח כתב דאף לים המלח בעי שחיקה ועיין מה שכתוב בא\"ח סימן תמ\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 146:13"
+        },
+        "14": {
+          "he": "ולכנות לה שם גנאי. דוקא בא\"י. מ\"ו ופרישה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 146:14"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "שביטלה עובד כוכבים מותרת. דילפינן לה מדכתיב פסילי אלהיהם שעובד כוכבים פוסל אלוה שלו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 146:1"
+        },
+        "2": {
+          "he": "שותפות בה. הטעם דאמרינן ישראל אדעתיה דנפשיה פלח ולא אדעת עובד כוכבים ע\"כ כי מבטל העובד כוכבים אין מבטל אלא חלקו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 146:2"
+        },
+        "3": {
+          "he": "שוב אין לה ביטול. הטעם בב\"י בשם סמ\"ג גזירה אטו אליל של ישראל עכ\"ל ונ\"ל דכיון שאין הטעם אלא משום גזירה לא גזרו אלא אם באה לידו אחר הזכייה דוקא ואם לא באה לידו אלא קנאה ונתן לו המעות אף על פי שמדינא מעות קונות בעובד כוכבים כמ\"ש הטור סימן קל\"ב וז\"ל דמיד שנתן לו הדינר נקנה לו היין כו' מ\"מ הכא לא גזרו ביה לענין ביטול כיון שעיקרה היא של עובד כוכבים תחילה וזהו שכתבו הטור והש\"ע כפול לשון משבאה ליד ישראל וזכה בה משמע אבל זכייה לחוד לא ועי' מה שאכתוב בסמוך ע\"פ זה בסייעתא דשמיא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 146:3"
+        },
+        "4": {
+          "he": "הלוקח גרוטאות כו'. יש כאן מקום בטור שצריך ביאור ונבאר אותו בסייעתא דשמיא. בבריית' איתא אם עד שלא נתן המעות משך יחזיר ואם משנתן מעות משך יוליך לים המלח ורוצה להוכיח המקשן מזה בגמרא שמשיכה בעובד כוכבים אינו קונה ודחה לה רבא דבאמת מקח טעות הוא אלא רישא דיהיב דמיה מתחזי כעבודת כוכבים של ישראל סיפא דלא יהיב דמיה לא כו' וכתב הטור אם משך עד שלא נתן מעות יחזיר לו שעדיין לא נקנו ואם משנתן מעות משך כבר נקנו לו והוה אליל של ישראל ואין לה ביטול וצריך להוליכה לים המלח וכ\"כ הרמב\"ם כו' ותימה הא מסקינן בגמרא דבכל גווני אין כאן קנין מכח מקח טעות רק שהחילוק מחמת [דמיחזי] שנקנה או לא. ומו\"ח ז\"ל כתב דמה שכ' הטור כבר נקנה לו הוא לפי דעת הרואים שיסברו דקנה דהכל תופסין דנקנו לו ולא מתיישב כלל דבאמת יש קנין לעובד כוכבים הן במשיכה לדעת ר\"ת הן במעות לרש\"י כמ\"ש הטור לקמן סי' ש\"ך רק שלצאת ידי שניהם כתב שם שיש לעשות משיכה ומעות לענין בכורה וא\"כ א\"א לומר כן בדברי הטור שהם ע\"פ תנא דבתרייתא שהצריך כאן שניהם דאם כן אתיא הברייתא דלא כרש\"י ולא כר\"ת וכיון שהדין כן דבחד סגי למה ניחוש לרואים דוקא בשיש שניהם ולא בא' מהן שיאמרו ג\"כ כבר נקנה לישראל כיון שהטור תלה האיסור במקום שיש קנין מלבד שהלשון לא משמע כן בטור ובפרישה כתב שהטור נתכוין באמת כמו שכתב בסי' ש\"ך ולהכי הצריך שניהם וכבר נדחה מכח מה שכתבנו דדברי הטור הם דברי הברייתא ותו דלא דק כלל בזה דע\"כ לא הצריך שניהם אלא להחמיר כגון להפקיע מידי בכורה אבל לא להקל וא\"כ כאן יהיה קולא מזה שיהא מותר לו להחזיר אם לא יש קנין שניהם וזהו פשיטא דבר בטל ואדרבה הטור מחמיר כשיש אחד מהם דהיינו בסי' קל\"ב ע\"ש מטעם דמשיכה קונה לענין מודד לכלי עובד כוכבים ומעות קונות לענין הקדים דינר לחנוני והיאך יאמר כאן להקל עד שיהיו שניהם אלא פשוט שזה אינו. והנלע\"ד בדברי הטור אחרי שנדקדק עוד למה הוצרך לכתוב כאן והוה אליל של ישראל ואין לה ביטול וצריך להוליכה לים המלח וכי עדיין לא ידענו דין אליל של ישראל מהו עד כאן. ע\"כ נ\"ל דכיון דראינו לפי המסקנא בגמרא דבזוזא תליא מילתא קשה לכאורה למה לי משיכה בברייתא כיון דהמשיכה אינה עושה כלום דטעות הוה רק מפני הרואים חשו א\"כ ליחוש נמי במעות לחוד דהא לרש\"י מעות קונות בעלמא וניחוש גם כאן מפני הרואים שלא ידעו מטעותו וע\"כ היה אפשר לומר דבאמת העיקר תלוי במעות והא דנקט התנא אם משנתן לו המעות משך הך משיכה ל\"ד אלא כלומר משך ומצא האליל לזה נשמר וכתב שאינו כן אלא העיקר דכל שהוא אם היה יודע שיש אליל בתוך הגרוטאות היה לו קנין לפי הדין אז גזרינן כשיש טעות מפני הרואים שיסברו שידע מהם אבל אם לפי הדין יודע לא גזרינן מפני הרואים באינו יודע וע\"כ אם משך לחוד דאז אפילו אם ידע אין כאן קנין על האליל כי בודאי בשעה שמשך כל הגרוטאות לא נתכוין אלא כשיהיו בידו יברר לעצמו מה שמותר לו ויחזיר מה שאסור לו דהיתרא ניחא ליה דליקני דאיסורא לא ניחא ליה כדאמרינן פרק השואל אבל כשנתן כבר המעות בעד כל משקל הגרוטאות אי אפשר לומר כן דודאי אם היה יודע שיש אליל בתוכה ודאי קנאו ומ\"ה כשהוא שוגג בדבר בשעת מקח חשו למראית עין והקפידו בזה דוקא כשיש שניהם. וא\"ל למה לי משיכה הא במעות לחוד קונה גם כן בידוע וא\"כ ניחוש בשוגג מפני הרואים. יש לומר דאף בידוע וקנאו לאליל מכח מעותיו מ\"מ כיון שלא בא לידו לא היה צריך להוליכו לים המלח אלא סגי בביטול העובד כוכבים כמו שהוכחנו בסמוך דדוקא בא לידו בעינן ע\"כ הוצרך הטור כאן לכתוב שצריך להוליכו לים המלח להורות על מה שכתבתי ושיעור דבריו הלוקח גרוטאות ומצא בשוגג אליל אם עד שלא נתן המעות משך יחזיר ואין לחוש מפני הרואים כיון שעדיין לא נקנה המקח אפילו אם היה יודע שיש שם אליל אבל אם עשה שניהם לא יחזיר כיון שאם היה יודע כבר נקנה וכ\"ת משיכה למה לי לזה תירץ דהוה אליל של ישראל וצריך להוליכו כו' כיון שבא לידו ע\"כ חשו גם בשוגג וא\"ל למה ליה לרבא לאוקמי הברייתא באמת שיש מקח טעות ומפני הרואים ולא מוקי לה ביודע וצריך שניהם כמו שכתבנו דהברייתא אמרה ומצא אליל משמע בשעת מקח לא ידע וע\"כ היה לו להתיר בכל גווני כיון שלא ידע מאליל מ\"ט אסור כשיש שניהם אלא ע\"כ משום הרואים וכפי החלוקה אשר זכרנו. ולפי דברינו נתיישב גם כן מ\"ש הטור וכ\"כ הרמב\"ם והקשה ב\"י הא ברייתא ערוכה היא ולפי מה שכתבתי ניחא דקא משמע לן דתרווייהו בעינן ולא סגי במעות לחוד כמו שכתבתי לעיל והכל ניחא בסייעתא דשמיא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 146:4"
+        },
+        "5": {
+          "he": "גר ועובד כוכבים וכו'. בגמרא פריך והא גר רוצה בקיומו של אליל עד שיטול דמיו מן העובד כוכבים ומשני רב פפא שאני ירושת הגר דאקילו בה רבנן שלא יחזור לקלקולו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 146:5"
+        },
+        "6": {
+          "he": "השתין בפניה. בגמרא יליף מקרא והיה כי ירעב וקלל במלכו ובאלהיו ופנה למעלה ואל ארץ יביט אף על פי שמתחלה מבזה אליל שלו אח\"כ חוזר ומביט אליה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 146:6"
+        },
+        "7": {
+          "he": "באמירה בעלמא. כתב ב\"י על זה ותמיהני מדין מכרה או משכנה בסמוך דמשמע אפילו מכרה ברצונו לא בטלה וכתב ד\"מ שאני התם דלא ידעינן בודאי שבטלה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 146:7"
+        },
+        "8": {
+          "he": "מכרה או משכנה כו'. במשנה איתא מכרה או משכנה ר' אומר ביטל וחכמים אומרים לא ביטל וידוע דהלכה כחכמים ואיכא בגמרא פלוגתא חד אמר בצורף עובד כוכבים מחלוקת אבל בצורף ישראל דברי הכל ביטל וחד אמר בצורף ישראל מחלוקת ופסק הטור לחומרא אפילו בצורף ישראל כחכמים דלא בטיל ורמב\"ם פסק כלישנא קמא לקולא בצורף ישראל וכתב הר\"ן טעמו מדאיתא אח\"כ בברייתא ת\"ר לוה עליה או שנפלה עליה מפולת כו' אינה בטילה וצריכא דאי תנא לוה עליה הייתי אומר מדלא זבנה לא ביטלה ש\"מ מהאי ברייתא דזבנה מהני והיינו ע\"כ בצורף ישראל ואתיא כרבנן מ\"ה מהני מכרה אבל לוה עליה לא וכתב הר\"ן הא דבטל במשכנו לרבי דוקא בהרהינו למשכון אצלו ואמר אי לא אפדנו לזמן פלוני יהא שלך והגיע הזמן ולא פדאו אז דוקא בטל לרבי דחשוב כמכירה וממילא הוה לדידן כן הלכה בצורף ישראל לרמב\"ם וב\"י חלק על הר\"ן וכתב דבמשכון אין חילוק בין הרהין או לא דאפילו הרהין המשכון לצורף ישראל לא בטלה והוכיח כן מדלא נקט בגמרא גבי לוה עליה מדלא הרהינו ולמה נקט מדלא זבנה אלא דבמשכן לא איכפת לן בהרהין או לא וכתב שכ\"מ מדברי הרמב\"ם ונרא' דמשמע ליה כן ברמב\"ם מדכתב וז\"ל מכרו לישראל צורף בטלה משכנו או מכרו לעובד כוכבים או לישראל שאינו צורף לא בטלה עד כאן לשונו מדלא נקט ברישא אלא מכירה לחוד ש\"מ משכון ע\"י הרהון לא מהני ולפ\"ז יהיו דברי הרמב\"ם בסיפא לצדדין וה\"ק אבל משכנו אפילו לישראל צורף או מכרו לאינו צורף לא בטלה ולפ\"ז קשה למה כתב כאן ויש מתירין בצורף ישראל דמשמע גם במשכנו. ומו\"ח ז\"ל כתב ג\"כ דהאי פסקא דש\"ע ביש מתירין ליתא במשכנו אבל תמיהני על הב\"י שהרי אמרינן בגמרא אבל בצורף ישראל דברי הכל בטל דהיינו שמודים חכמים לרבי ור' נקט בפירוש משכנו או שמכרו במתני' והיאך נימא שלא הודו לו אלא במכרו ולעשות מחלוקת חדשה במשכנו אפילו בצורף ישראל אין ביטול לחכמים אלא ודאי דברי הר\"ן עיקר דבמשכון דמתני' דהיינו הרהינו מודים חכמים לרבי דבטל וברייתא דלוה עליה אינו בטל מיירי בלא הרהין ומיירי בישראל צורף ואתיא כרבנן ודוקא לוה עליה הלואה בעלמא אבל אם הרהינו אצלו על זמן ולא פדאו הוה כמכר גמור כמ\"ש בא\"ח סימן תמ\"א בחמצו של ישראל ביד עובד כוכבים ולא הוצרך התלמוד להזכיר כאן מדלא זבנה וממילא גרע זה דהיינו מכירה ממש ומתניתין דנקטה משכנה מיירי בהרהינו אצלו וע\"כ בטל לרבי אפילו בצורף עובד כוכבים וא\"ל למה הוצרך למתני כלל משכנה כיון דאמרינן דהוה כמכירה לא קשה מידי דכיון דהצורף עובד כוכבים במתניתין סלקא דעתיך אמינא שהממשכנה לא ביטלה דמימר אמר אותו העובד כוכבים שהלוה לי (עשה) יחוס עליה ולא ישברנה קמשמע לן דאפ\"ה בטלה לרבי אבל בברייתא בצורף ישראל לא שייך לומר כן פשיטא דהרהינה כמכירה ממש ומש\"ה שפיר כתב הרמב\"ם ברישא דבטל היינו במכירה ולא זכר שם משכנה כדי שלא תטעה לומר אפילו משכון בעלמא בלא הרהין אבל באמת הרהינה הוה מכר גמור ומהני בצורף ישראל ובסיפא דמיירי בשל עובד כוכבים כתב גם משכנה דרך לא זו אף זו דכל משכון לא מהני ואפילו הוה כמו מכירה דמכירה עצמה גם כן לא מהני. והנה בכסף משנה כתב הרב בפשיטות להסכים עם הר\"ן וכך הם דבריו פה בשלחן ערוך ויש מתירין דהיינו אפילו במשכנו דהיינו שהרהינו אצלו והגיע הזמן ולא פדאו ודבר זה היה לו להרב לכתוב כאן בשלחן ערוך ולבאר באיזה משכון מתירין דהיינו בהרהינו ולא פדאו בזמנו כן נראה לע\"ד ברור ועיקר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 146:8"
+        },
+        "9": {
+          "he": "ומשמשי עבודת כוכבים אם משכנו כו'. נ\"ל פשוט דגם האי משכנו הוא בהרהינו אצלו לזמן ולא פדאו כמו לעיל אבל משכון סתם לא מהני לבטל.",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 146:9"
+        },
+        "10": {
+          "he": "כיון שביטל אבר אחד כו'. ביאר הב\"י כוונת הרמב\"ם מריה דהאי פסקא שהוקשה לו מאי דקי\"ל בפלוגתא דרב ושמואל ס\"פ כל הצלמים שמביא ב\"י באליל שנשתבר מאליו דבאין הדיוט יכול להחזירה דבטל לכ\"ע ולעיל ר\"פ כ\"ה פליגי ביה רב ור' יוחנן וקי\"ל כר' יוחנן לאיסורא על כן תירץ הרמב\"ם דרב ושמואל דלא פליגי באין הדיוט מחזירו ומותר לאו בלא ביטול קאמרי אלא עכ\"פ צריך ביטול בא' מהם דהיינו דחשבינן להו כאילו עדיין בשלימותן כיון שנשבר מעצמו ואם היה מבטל בו עובד כוכבים אפילו באחד מאבריו [מהני] הכי נמי מהני עכשיו אבל בהדיוט יכול להחזירה הוה כל חתיכה בעצמה אליל ע\"כ צריך לבטל כל חתיכה בפני עצמה אבל בטור כתב כאן דאם אין הדיוט יכול להחזירה בטלה ועליו ודאי קשה הא קי\"ל כר\"י דנשתברה מאליה לא בטלה ונראה דגם הטור ס\"ל כתירוץ שהביא ב\"י בשם רמב\"ן והר\"ן שיש חילוק אם עיקר אליל קיים או לא מש\"ה לעיל בפלוגתא דרב ור\"י מיירי שהעיקר קיים רק שנשבר מעט ממנו כדי ביטול אם היה העובד כוכבים עשאו בזה קי\"ל דלא בטילה כיון שנשבר מעצמו ובזה לא שייך לומר כלל אם הדיוט יכול להחזירו או לא כי העובד כוכבים אינו מבקש להחזירו כיון שעיקרו קיים ועובד לו כבתחלה משא\"כ בפלוגתא דרב ושמואל מיירי שנשבר כולו וזה מבואר במה שאמרו הדיוט יכול להחזירו אלמא דבטלה עבודתו כל זמן שאין מחזירו בזה פסק הטור שפיר באין יכול להחזירו דבטל אפילו נשבר מעצמו דודאי העובד כוכבים ביטלו אחר שראה שכולו נשבר וא\"ל אמאי לא כתב הטור הדין דעיקרו קיים י\"ל נלמד ממה שכתב הטור באין הדיוט יכול להחזירו דבטל בנשבר מעצמו ממילא נדע דבמקום שאין צריך לחזרה דהיינו שעיקרו קיים דאסור בנשבר מעצמו כנ\"ל נכון דעת הטור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 146:10"
+        },
+        "11": {
+          "he": "או מטיל לים. פירש ב\"י דמ\"ש הטור שוחק ומטיל לים פירוש לשאר נהרות שספינות עוברות שם ושמא תפגע בו ותטלנו אבל לים המלח שאין שם ספינות מטילה אפילו בלא שחיקה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 146:11"
+        },
+        "12": {
+          "he": "ולכנות לה שם גנאי. כתוב בפריש' בשם רש\"ל פי' דוקא בא\"י והוא תימה ונראה דט\"ס הוא כאן ושייך על הרישא דצריך לשרש אחריה דזו דוקא בא\"י שצריך להיות מנוקה ומטוהרת שוב ראיתי כן ברמב\"ם פ\"ח בפי' ובח\"ל אין אנו מצווים לרדוף אחריה אלא כל מקום שנכבוש נאבד כל אליל שבו עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 146:12"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "אבל ישראל. עי' בתפארת למשה שכתב דר\"ל אפילו ישראל מומר דאי לא פלח אפילו גר תושב וישמעאלים אין מבטלים ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 146:1"
+        },
+        "2": {
+          "he": "אפילו לצורף ישראל. וכ\"ש לצורף עובד כובים או לישראל שאינו צורף דבהנך לכ\"ע לא בטלה. ש\"ך ועיין בתשובת פרי תבואה סימן נ\"א ונ\"ב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 146:2"
+        },
+        "3": {
+          "he": "משכנו או מכרו עבה\"ט ס\"ק י\"א בשם ט\"ז ועי' בתשובת פרי תבואה ס\"ס נ\"א:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 146:3"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "לחלק.  והטעם דאמרינן ישראל אדעתיה דנפשיה קא פלח ולא אדעת עובד כוכבים ע\"כ כי מבטל העובד כוכבים אינו מבטל אלא חלקו. ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 146:1"
+        },
+        "2": {
+          "he": "ביטול.  כתב הט\"ז והטעם בב\"י בשם סמ\"ג גזרה אטו עבודת כוכבים של ישראל ונ\"ל כיון שאין הטעם אלא משום גזירה לא גזרו אלא אם באה לידו אחר הזכייה דוקא ואם לא באה לידו אלא קנאה ונתן לו המעות אע\"פ שמדינא מעות קונות בעובד כוכבים מ\"מ הכא לא גזרו ביה לענין ביטול עכ\"ל אבל הב\"ח כתב דאפילו לא זכה בה כגון שמצאה לפני יאוש או גזלה מ\"מ מדרבנן אין לה ביטול גזרה משום עבודת כוכבים של ישראל עצמו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 146:2"
+        },
+        "3": {
+          "he": "ישראל.  והב\"ח כ' דאם זכה בהם הישראל אפי' משמשיה אין להם ביטול רק אם לא זכה בה כגון שמצא קודם יאוש או גזלה בזה יש חילוק בין עבודת כוכבים עצמה למשמשיה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 146:3"
+        },
+        "4": {
+          "he": "יחזירם.  ולא אמרי' דמחזי כזבין עבודת כוכבים דהכל יודעין שלא נקנו לו כיון שלא משך. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 146:4"
+        },
+        "5": {
+          "he": "מעות.  אע\"פ שפסק הדמים דבכה\"ג קונה משיכה כדלעיל סי' קל\"ב וסי' קל\"ח מ\"מ משיכה בטעות היה שלא ידע שהיה בהן אליל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 146:5"
+        },
+        "6": {
+          "he": "ומשך.  כתב הש\"ך וה\"ה משך ברישא ואח\"כ נתן מעות וטעמא דהשתא כיון שנקנו לו אע\"ג דהוי כמקח טעות מ\"מ כשיחזור ויקח המעות מחזי כזבין אליל הלכך יוליכם ליה\"מ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 146:6"
+        },
+        "7": {
+          "he": "הגר.  לפי שירושת הגר מדרבנן וחכמים הקילו בגר שלא יחזור לקלקולו ש\"ס ולפ\"ז דוקא גר אבל מי שהמיר אביו ובנו עמו ומת אביו אינו יכול לומר לאחיו המומר טול אתה אלילים כו' וכן מי שנשתתף עם העובד כוכבים בסחורה ובאתה לידו אלילים אינו יכול לומר טול אתה אלילים וכו' עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 146:7"
+        },
+        "8": {
+          "he": "מותרים.  משום דמזרק זריק להו ולא פלח להו. רש\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 146:8"
+        },
+        "9": {
+          "he": "לא.  בש\"ס יליף לה מקרא והיה כי ירעב והתקצף וגו' ואל ארץ יביט אע\"פ שמתחלה מבזה עבודת כוכבים שלו אח\"כ חוזר ומביט אליה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 146:9"
+        },
+        "10": {
+          "he": "באמירה.  ול\"ד למכרה או משכנה דבסמוך דהתם זוזי אנסוה ב\"ח ופסק כן ובד\"מ כתב דשאני התם דלא ידעינן בודאי שבטלו אבל הכא מיירי שאומר שרוצה לבטל לקטוע אזנה או חוטמה וכה\"ג אבל התם הוא אינו מבטלה וגם סובר שהקונה ג\"כ לא יבטל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 146:10"
+        },
+        "11": {
+          "he": "מתירין.  כתב הב\"ח דזה לא קאי רק אמכרה אבל במשכנה אין שום היתר אפי' בצורף ישראל והט\"ז כ' דאפי' במשכנו יש היתר כגון שהרהינו אצלו והגיע הזמן ולא פדאו דאז הוי כמכירה וגם האי משכנו דכ' רמ\"א הוא בכה\"ג דוקא אבל משכון סתם לא מהני לבטל וכ\"כ הש\"ך ודבר זה היה לו להר\"ב לכתוב כאן ולבאר באיזה משכון מתירין עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 146:11"
+        },
+        "12": {
+          "he": "השברים.  כתב הש\"ך בשם הב\"ח דהרי\"ף והרא\"ש חולקים וס\"ל דאין חילוק רק בין נשתברה לשברים או לשברי שברים ולפענ\"ד אדרבה מדבריהם משמע שאין מחלקין בהכי וכן מוכח בהר\"ן וטור עכ\"ל והט\"ז מיישב דברי הטור בענין אחר עיין שם ולפי שאינו אליבא דהלכתא קצרתי:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 146:12"
+        },
+        "13": {
+          "he": "עובד כוכבים.  כלומר דאל\"כ אסור כדין עבודת כוכבים שנשתברה מאליה. ב\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 146:13"
+        },
+        "14": {
+          "he": "לים.  היינו לשאר נהרות (הוא דבעי שחיקה שספינות עוברות שם ושמא תפגע בו ותטלנו) אבל לים המלח לא בעי שחיקה ב\"י וד\"מ וכן הוא לקמן סי' רצ\"ד ס\"ו והב\"ח כ' דאף לים המלח בעי שחיקה ועיין בא\"ח סי' תמ\"ה עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 146:14"
+        },
+        "15": {
+          "he": "ולכנות.  כ' הט\"ז דרש\"ל פי' דוקא בא\"י והוא תימה ונראה דט\"ס הוא כאן ושייך על הרישא דצריך לשרש אחריה זו דוקא בא\"י וכן הוא לשון הרמב\"ם ובח\"ל אין אנו מצוים לרדוף אחריה וכו' עכ\"ל (ובנה\"כ כ' דאין כאן ט\"ס וכן משמע בש\"ס דהא דצריך לשרש אחריה ולכנות לה וכו' ילפינן מחד קרא ואבדתם וגו' מן המקום ההוא וכי היכי דצריך לשרש הוא דוקא בא\"י ה\"ה לכנות וכו' ג\"כ אינו אלא בא\"י עכ\"ל):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 146:15"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

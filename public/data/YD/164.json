@@ -1,0 +1,184 @@
+{
+  "chelek": "YD",
+  "siman": 164,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 4,
+  "fetchedAt": "2026-07-08T00:01:21.543Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "הממשכן שדה לא יחכירנו. ובו ה' סעיפים:מי שהיתה שדה ממושכנת בידו לא יחזור וישכיר אותה לבעל השדה ויש מי שמתיר לעשות כן במשכנתא דסורא: הגה ובלבד שלא התנה מתחילה על כך (ריב\"ש סי' ש\"ה) וגם שכבר החזיק המלוה בשדה אבל בלאו הכי לכולי עלמא אסור (ב\"י סימן קע\"ב בשם תשובת רשב\"א):",
+      "en": "Celui qui a un champ comme gage de paiement ne peut le louer sous contrat de métayageCelui qui obtient un champ comme nantissement pour la sûreté d’une dette ne peut le louer à son véritable propriétaire. Un autre permet de le faire, quand le contrat de nantissement s’est effectué selon la coutume d’Assyrie.GLOSE: Il n’est question ici que du cas où le créancier n’a mis aucune condition pour le louage du champ, et où il a pris possession du terrain avant de le louer; sinon il est interdit de le louer.",
+      "ref": "Shulchan Arukh, Yoreh Deah 164:1"
+    },
+    {
+      "seif": 2,
+      "he": "משכנתא דסורא אם בא אחר ושכר אותה מהמלוה מותר לחזור ולהשכיר אותה לבעל השדה (וע\"ל סימן קע\"ב):",
+      "en": "Quand un champ a été mis en gage d’après la coutume assyrienne et qu’une personne a loué ce terrain auprès du créancier, cette personne peut le sous-louer à son tour au propriétaire du champ.",
+      "ref": "Shulchan Arukh, Yoreh Deah 164:2"
+    },
+    {
+      "seif": 3,
+      "he": "מותר למכור שדהו לאחד ולהתנות עמו שיחכירנו (פי' החוכר הוא איש שמקבל עליו שדה חבירו לעבדה בתנאי שיתן לבעל כך וכך פירות בין יעשה השדה פירות בין לא יעשה) לו אח\"כ:",
+      "en": "Le vendeur d’un champ peut convenir avec l’acheteur que celui-ci le lui louera sous contrat de métayage.GLOSE: C'est-à-dire que le locataire du champ s'engage à le cultiver, et à en donner une partie des produits au propriétaire, que le champ produise ou non.",
+      "ref": "Shulchan Arukh, Yoreh Deah 164:3"
+    },
+    {
+      "seif": 4,
+      "he": "הלוהו על שדהו וא\"ל אם לא תתן לי מכאן ועד ג' שנים הרי הוא שלי ולא אמר מעכשיו בענין שאין המקח קיים תוך ג' שנים לא יאכל הפירות ואם אכלם הוי רבית קצוצה ויוצאת בדיינים: הגה ויש אומרים דמה שאכל תוך ג' שנים לא הוי אלא אבק רבית דהוי כמשכנתא בלא נכייתא (ב\"י לדעת הרא\"ש וטור ורש\"י ותוס' ותלמידי רשב\"א וראב\"ד מביאם ב\"י בח\"מ סימן ר\"ז ס\"ס י\"ג) וכמו שיתבאר לקמן סי' קע\"ב אבל מה שאכל לאחר שלש שנים צריך להחזיר וכן עיקר:",
+      "en": "Si une personne prête de l’argent sur un champ et dit à son débiteur: si vous ne me rendez l'argent dans trois ans, le champ m'appartient, et qu’elle ne dise pas que ces trois années courent du moment où le contrat est fait, elle ne peut profiter des produits du champ. Si le créancier s’est nourri des produits du champ pendant les trois années, cela est regardé comme un intérêt, et le débiteur peut se faire rendre la valeur de ces produits par voie judiciaire.GLOSE: D’aucuns disent que les productions du champ durant le laps de temps fixé sont regardées comme un intérêt indirect, ainsi qu'il est expliqué dans le § 172. Toutefois le créancier est forcé de rendre ce qu’il aurait pris au-delà des trois années.",
+      "ref": "Shulchan Arukh, Yoreh Deah 164:4"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מימרא דרבא דלית הלכתא כחכירי נרשאה וכו' ב\"מ דף ס\"ח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 164:1"
+        },
+        "2": {
+          "he": "הריב\"ש בתשובה אחרת ופי' משכנתא דסורא ע' בריש סי' קע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 164:2"
+        },
+        "3": {
+          "he": "תלמידי הרשב\"א דכיון שחכרה אחר לא מוכחא מילתא דאדעתא דהכי אוזפיה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 164:3"
+        },
+        "4": {
+          "he": "הריב\"ש בתשו' כיון שגוף הבית קנוי למחכיר והוא גדול באדנות הבית לעולם יותר מן החוכר:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 164:4"
+        },
+        "5": {
+          "he": "משנה שם דף ס\"ה ע\"ב וכשינויא בתרא שם בגמ' דף ס\"ו ע\"ב דמתניתין איירי בדאמר ליה מעכשיו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 164:5"
+        },
+        "6": {
+          "he": "מימרא דרב נחמן שם וכפי' הרי\"ף והרמב\"ם בפ\"ו מה\"מ דאתוך ג' שנים נמי קאי וכרבינא דמשכנתא בלא נכייתא רבית קצוצה היא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 164:6"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "לא יחזור כו'. אפילו כתוב בשטר ששהתה בידה מלוה זמן רב קודם שהחכירהו ללוה. טור. פי' ואפילו האמת נמי הכי ששהתה זמן רב בידו אסור וכ\"כ בפרישה ופשוט הוא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 164:1"
+        },
+        "2": {
+          "he": "וישכיר. ואם שכר משמע דעת המחבר כהפוסקים דר\"ק הוא ולזה בסעיף ב' במשכנתא דסורא דוקא כתב שאם בא אחר לשכרה מותר להשכיר לבעל השדה ולא כ\"כ בדין דהכא כדכתבו תלמידי רשב\"א דאזיל לטעמיה שכתב בב\"י דתלמידי רשב\"א ס\"ל דהכא הוי א\"ר אבל למאן דס\"ל דהוי ר\"ק כי אפסקיה אחר סגי לאפוקי מר\"ק אבל א\"ר אכתי הוי אבל במשכנתא דסורא לכ\"ע שרי וכ\"כ בב\"ה וע\"ל סי' קע\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 164:2"
+        },
+        "3": {
+          "he": "במשכנתא דסורא. נתבאר ענינו בר\"ס קע\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 164:3"
+        },
+        "4": {
+          "he": "מותר. וכן כתב הריטב\"א וסיים בה אפי' לא נחת המלוה לתוך המשכנתא כלל וכן קבלתי ממורי הרב ע\"כ כ\"כ בב\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 164:4"
+        },
+        "5": {
+          "he": "מותר למכור כו'. עי' בתשובת מבי\"ט ח\"א סי' קכ\"ג דף נ\"ז מזה באריכות וע\"ש גם בח\"ב סי' רע\"ג דף קכ\"ז:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 164:5"
+        },
+        "6": {
+          "he": "בענין שאין המקח קיים. כמבואר בח\"מ סי' ר\"ז ס\"י וק\"ק דשם כתב המחבר גם סברת י\"א דלא הוי אלא א\"ר וע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 164:6"
+        },
+        "7": {
+          "he": "צריך להחזיר. מפני שהיה סבור שנחלטה לו וכשנודע לו שלא קנאה מוציאה מידו דהוי מחילה בטעות אבל תוך ג' שנים לא הוי טעות שהרי בידו וברשותו היה להחזיר המעות למלוה וע\"ל סי' קע\"ד ס\"ק ד':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 164:7"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "ממושכנת בידו. אפילו שנים הרבה וה\"א שכבר קנאה לפירותיה אפילו הכי אסור להשכירה לו כיון שהוא לוה שלו ושקיל מיניה יותר ממה שהלוהו וכל שכן אם לא החזיק בה כלל המלוה דלא קנאה כלל ולא הוה כאן רק הלואה בעלמא הכי אמרי' בגמרא וזה פשיטא שאסור אפילו במשכנתא דסורא לכולי עלמא כמ\"ש רמ\"א בסמוך ובב\"י הביא פלוגתא דלרש\"י הוה רבית קצוצה ולרמב\"ם אבק רבית ובסימן קע\"ב סעיף ב' יתבאר להלכה אימתי הוה רבית קצוצה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 164:1"
+        },
+        "2": {
+          "he": "לבעל השדה. וכתב ב\"י בשם תלמידי רשב\"א דאם בא אחר לשכרה מהמלוה יכול בעל השדה לשכור ממנו כיון דאפסקיה אחר שרי וכתב ד\"מ אבל בתשובת רשב\"א שמביא ב\"י אח\"כ משמע דאפי' אחר באמצע אסור וכן הוא לקמן סימן קע\"ב בשם הרא\"ש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 164:2"
+        },
+        "3": {
+          "he": "במשכנתא דסורא. מבואר לקמן סימן קע\"ב דהיינו שהשכין לו באופן שלא יצטרך לפדות ממנו אלא יאכל איזה שנים ויחזירנה בחנם דבזה אין שם הלואה עליו אלא שכירות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 164:3"
+        },
+        "4": {
+          "he": "אם בא אחר כו'. תמוה הוא הא פסק בסעיף א' דיש מי שמתיר במשכנתא דסורא דהיינו אפילו ללוה עצמו ובלבוש כתב כאן דמיירי בלא החזיק המלוה בשדה ולא נראה לע\"ד דכל שלא החזיק כלל בשדה לא קנאה והוה הלואה בעלמא כדאיתא בגמרא אימת קנאה דליהדר וליחכר ליה ובודאי לא מהני כאן מה שיפסיק אחר בין מלוה ללוה ותו דא\"כ היה לו לש\"ע לבאר כן בפירוש דמיירי בלא החזיק כיון שלא זכר תחילה שיש חילוק בזה אלא דרמ\"א שבא אחריו זכרו על כן נראה לע\"ד דבודאי קאי אדעה הראשונה שהתחיל בריש הסעיף מי שהיתה שדה ממושכנת כו' דמשמע אפילו במשכנתא דסורא וכ\"פ בב\"י להדיא דעל זה אמר כאן דמכל מקום אי אפסקינהו אחר שרי לכולי עלמא והיינו אחר שהחזיק בה המלוה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 164:4"
+        },
+        "5": {
+          "he": "מותר למכור. כיון שגוף הבית מכור לו לגמרי והוא גדול באדנות הבית לעולם יותר מן השוכר ממנו ופשוט הוא גם כאן שצריך שיקנה הלוקח הבית תחילה בקנין גמור כדרך שהמכירה נקנית בעלמא דאם לא כן הוה כהלואה ואסור כן נ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 164:5"
+        },
+        "6": {
+          "he": "אבל מה שאכל לאחר ג' שנים כו'. שזהו אכל בגזל ומה שהניחו לאכול הוי מחילה בטעות ולא הוי מחילה בכהאי גוונא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 164:6"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "יחזור.  כתב הש\"ך אפילו כתוב בשטר ששהתה ביד המלוה זמן רב קודם שהחכירהו ללוה ואפילו האמת נמי הכי אסור ואם שכר משמע דעת המחבר כהפוסקים דר\"ק הוא:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 164:1"
+        },
+        "2": {
+          "he": "דסורא.  דהיינו שהשכין לו באופן שלא יצטרך לפדות ממנו אלא יאכל איזה שנים ויחזירנו בחנם דבזה אין שם הלואה עליו אלא שכירות וכתב ב\"י בשם תלמידי רשב\"א דאף בסתם משכנתא אם בא אחר ושכרה מהמלוה יכול בעל השדה לשכור ממנו כיון דאפסקיה אחר אבל בתשובת רשב\"א שמביא ב\"י אח\"כ משמע דאפילו אחר באמצע אסור:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 164:2"
+        },
+        "3": {
+          "he": "ולהשכיר.  וסיים הריטב\"א ואפילו לא נחית המלוה לתוך המשכנתא כלל וכן קבלתי ממורי הרב אבל הט\"ז כתב דכל שלא החזיק המלוה בשדה לא קנאה והוי הלואה בעלמא והמחבר דכתב דוקא האי דינא במשכנתא דסורא קאי לפי דעה ראשונה שבס\"א שכתב סתם ממושכנת דמשמע אפילו במשכנתא דסורא ע\"ז כתב כאן דמ\"מ אי אפסקיה אחר שרי עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 164:3"
+        },
+        "4": {
+          "he": "ולהתנות.  כתב הט\"ז ופשוט הוא דגם כאן צריך שיקנה הלוקח הבית תחלה בקנין גמור כדרך שהמכירה נקנית בעלמא דאל\"כ הוי כהלואה ואסור:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 164:4"
+        },
+        "5": {
+          "he": "להחזיר.  מפני שהיה סבור שנחלטה לו וכשנודע לו שלא קנאה מוציאה מידו דהוי מחילה בטעות אבל תוך ג' שנים לא הוי טעות שהרי בידו וברשותו היה להחזיר המעות למלוה וע\"ל סי' קע\"ד ובח\"מ סי' ר\"ז ס\"י עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 164:5"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

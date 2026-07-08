@@ -1,0 +1,161 @@
+{
+  "chelek": "YD",
+  "siman": 394,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 6,
+  "fetchedAt": "2026-07-08T00:01:43.542Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "שלא להתקשות על המת יותר מדאי. ובו ו' סעיפים:אין מתקשין על המת יותר מדאי וכל המתקשה עליו יותר מדאי על מת אחר הוא בוכה אלא שלשה ימים לבכי שבעה להספד שלשים לתספורת ולגיהוץ:",
+      "en": "One should not grieve excessively for the dead, and whosoever grieves excessively for him, will weep for another [dead]1M.K. 27b in accord with Rab Judah on the authority of Rab. save that three days [are designated] for weeping, seven for lamenting, thirty [to abstain from] cutting the hair and wearing laundried garments.2M.K. ibid., for it is written, “‘Weep ye not for the dead, neither bemoan him” (Jer. XXII, 10), which is explained as follows: ‘“Weep ye not for the dead” — excessively; “neither bemoan him” — beyond measure. In what matter? — Three days for weeping and seven for lamentation etc.’ (ibid.).",
+      "ref": "Shulchan Arukh, Yoreh Deah 394:1"
+    },
+    {
+      "seif": 2,
+      "he": "במה דברים אמורים בשאר העם אבל תלמידי חכמים הכל לפי חכמתם ואין בוכים עליהם יותר מל' יום ואין מספידין עליהם יותר מי\"ב חדש וכן חכם שבא שמועתו לאחר י\"ב חדש אין מספידין אותו:",
+      "en": "This applies to the rest of the people, but [as to] scholars [who died], everything is according to their wisdom;3Tur citing RaShBA. and one does not weep for them more than thirty days,4Derived from Rabbi’s instructions prior to his death, viz., ‘Reassemble the College after thirty days for I am not more important than Moses of whom it is written, “And the children of Israel wept for Moses in the plains of Moab thirty days”’ (Deut. XXXIV, 8) — Ket. 103b. nor does one make a lamentation for them more than twelve months,5Ket. ibid. and likewise, a Sage whose [death] report was received after twelve months, is not lamented.6Yeb. 79a. Cf. M.K. 21b. This applies even on the day that the death report is received — Shak.",
+      "ref": "Shulchan Arukh, Yoreh Deah 394:2"
+    },
+    {
+      "seif": 3,
+      "he": "יוצאין לבית הקברות ופוקדים על המתים שלשה ימים שמא עדיין הוא חי:",
+      "en": "One may go out to the cemetery and visit the dead until three days [after being placed in the sepulchral chamber], for perhaps he is still alive.7Sem(H). VIII, 1. According to some versions ‘until thirty days.’ Cf. A.R.N. § XLI; Yad, Ebel IV, 4 also RIDBaZ and Migdol Oz a.l.; Sem(H). Int. VI, 4. This custom refers to Talmudic days when it was customary to bury the dead in sepulchral chambers and it was possible to view the corpse in order to determine whether the person was really dead — ShaK. Cf. Sam. ibid. where it is related that it once happened that one visited an entombed person and the latter was found living and lived twenty years thereafter and begat children.",
+      "ref": "Shulchan Arukh, Yoreh Deah 394:3"
+    },
+    {
+      "seif": 4,
+      "he": "כל שלשה ימים יראה האבל כאלו חרב מונחת לו בין כתפיו משלשה ועד שבעה כאלו זקוף כנגדו בקרן זוית משבעה ועד שלשים כאלו עובר לפניו בשוק וכל אותה השנה הדין מתוחה כנגד אותה משפחה ואם נולד בן זכר באותה משפחה נתרפאת כל המשפחה:",
+      "en": "During the first three days [of mourning], the mourner should look upon himself as if a sword is resting between his shoulders; from the third to the seventh, as if it is standing in the corner facing him; from the seventh to the thirtieth, as if it is passing before him in the market place; and throughout the entire year, the judgment is aimed against that family. But if a male child is born in that family, the entire family becomes healed.8M.K. 27b; Y.M.K. III, 7(83c): ‘This is comparable to a heap of stones; when one of them is shaken, all of them are shaken.’ Cf. Y.San. X, 1(27d).",
+      "ref": "Shulchan Arukh, Yoreh Deah 394:4"
+    },
+    {
+      "seif": 5,
+      "he": "אחד מהחבורה שמת תדאג כל החבורה:",
+      "en": "When one [member] of a company dies, the whole company should feel troubled.9Shab. 105-106a. e., they should examine their ways.",
+      "ref": "Shulchan Arukh, Yoreh Deah 394:5"
+    },
+    {
+      "seif": 6,
+      "he": "כל מי שאינו מתאבל כמו שצוו חכמים ה\"ז אכזרי אלא יפחד וידאג ויפשפש במעשיו ויחזור בתשובה:",
+      "en": "Whosoever does not observe mourning rites as the Sages commanded is a cruel person, but one should fear and be troubled and investigate his conduct and repent.10Yad, Ebel XIII, 12. Cf. Lam. III, 39ff., ‘Wherefore doth a living man complain, a strong man because of his sins? Let us search and try our ways and return to the Lord. Let us lift up our heart with our hands unto God in the heavens etc.’",
+      "ref": "Shulchan Arukh, Yoreh Deah 394:6"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מימרא דרב יהודה אמר רב מ\"ק דף כ\"ז ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 394:1"
+        },
+        "2": {
+          "he": "שם בגמ':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 394:2"
+        },
+        "3": {
+          "he": "טור בשם הרשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 394:3"
+        },
+        "4": {
+          "he": "שם מצוואת רבי הושיבו ישיבה לאחר ל' יום דלא עדיפנא ממרע\"ה וכו' כתובות דף ק\"ג ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 394:4"
+        },
+        "5": {
+          "he": "ג\"ז משם דספדי תריסר ירחי שתא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 394:5"
+        },
+        "6": {
+          "he": "מדאמר דוד שאול נפקו להו י\"ב ירחא שתא ולא דרכי' למספדיה יבמו' דף ע\"ט ע\"א וכ\"כ הרמב\"ן בסת\"ה בשם גאון:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 394:6"
+        },
+        "7": {
+          "he": "ברייתא דאבל רבתי פ\"ח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 394:7"
+        },
+        "8": {
+          "he": "ירושלמי סוף מ\"ק ואיתא שם למה הדבר דומה לכיפה של אבנים כיון שנתרועעה אבן אחת נתרועעה כולה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 394:8"
+        },
+        "9": {
+          "he": "ג\"ז שם משמיה דר' יוחנן:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 394:9"
+        },
+        "10": {
+          "he": "מימרא דר' חייא בר אבא וכו' שבת דף ק\"ה ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 394:10"
+        },
+        "11": {
+          "he": "רמב\"ם פרק י\"ג מהלכות אבל וכתב הכ\"מ שדברי רבינו ראוים אליו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 394:11"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "אין מספידין אותו. אפילו ביום שמועה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 394:1"
+        },
+        "2": {
+          "he": "ופוקדים על המתים כו'. כתב הפרישה זה היה דוקא בימיהם שהיו מניחין את המת בכוכין () [אולי שייך זה בסי' זה סעיף ד' עמ\"ש ואם נולד בן זכר כו'. מראה כהן:] והיה אפשר לגלות את המת ולראותו וכתב עוד הדרישה בשם מהרש\"ל אדם שמת לו מת ובתוך שלשים נולד לו בן אין עושין שמחה ומשתה ביום המילה רוקח עכ\"ל וכמדומה שאין נוהגין כן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 394:2"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "יותר מדאי. עבה\"ט של הרב מהרי\"ט ז\"ל מ\"ש בשם ס\"ח אדם שמת בנו או בתו אל ינשק אותם. ונ\"ל דדוקא לבנו ולבתו אסור אבל לשאר מתים מותר כדכתיב גבי יעקב ויבך עליו וישק לו:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 394:1"
+        },
+        "2": {
+          "he": "ופוקדים. [עבה\"ט בשם הפרישה ועי' בתשו' ח\"ס סי' של\"ח מ\"ש בזה]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 394:2"
+        },
+        "3": {
+          "he": "כל מי שאינו. עי' בתשו' הרדב\"ז ח\"ג סי' תקצ\"ה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 394:3"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ופוקדים.  כתב הפרישה זה היה דוקא בימיהם שהיו מניחין את המת בכוכין והיה אפשר לגלות את המת ולראותו. וכתב עוד בשם מהרש\"ל אדם שמת לו מת ובתוך ל' נולד לו בן אין עושין שמחה ומשתה ביום המילה רוקח עכ\"ל. וכמדומה שאין נוהגין כן. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 394:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

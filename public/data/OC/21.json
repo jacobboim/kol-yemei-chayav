@@ -1,0 +1,317 @@
+{
+  "chelek": "OC",
+  "siman": 21,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 4,
+  "fetchedAt": "2026-07-07T23:36:27.252Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "כדת מה לעשות בציציות שנפסקו ובטליתות ישנים. ובו ד סעיפים:חוטי ציציות שנפסקו יכול לזורקן לאשפה מפני שהוא מצוה שאין בגופה קדושה אבל כל זמן שהם קבועים בטלית אסור להשתמש בהם כגון לקשור בהם שום דבר וכיוצא בזה משום ביזוי מצוה [וי\"א דאף לאחר שנפסקו אין לנהוג בהם מנהג בזיון לזורקן במקום מגונה אלא שאינן צריכין גניזה [כל בו הלכות שבת] ויש מדקדקין לגונזן והמחמיר ומדקדק במצות תע\"ב [מהרי\"ל הלכות ציצית] [וע\"ל סי' תרס\"ד סעיף ח' ט']:",
+      "en": "What To Do With ציצית That Detached and With An Old טלית.  Containing 4 Se'ifim:ציצית strings that detached may be thrown into the garbage, because it is a מצוה that does not possess it's own holiness (i.e. ציצית are only a מצוה by virtue of their being attached to a four cornered garment).  However, as long as they  are attached to a טלית it is forbidden to use them [for another purpose], like to tie something [with them] or similar, because this is disrespectful to the מצוה [And there are those who say that even after they become  detached, one should not treat them disrespectfully by throwing them into a dirty place, but they don't need to be ritually buried (Kol Bo - Laws of Shabbat).  And there are those who are punctilious to ritually bury them, and for the one who is stringent and careful in the performance of מצות, a blessing shall come upon him) (Mahari\"l - Laws of ציצית)(And see below -  siman 664, se'if 8 and 9)].",
+      "ref": "Shulchan Arukh, Orach Chayim 21:1"
+    },
+    {
+      "seif": 2,
+      "he": "טליתות של מצוה שבלו אדם בודל עצמו מהם ואינו מותר לקנח עצמו בהם ולא לייחד אותם לתשמיש המגונה אלא זורקן והם כלים:",
+      "en": "A טלית used for the מצות [of ציצית] that wore out, a person should not use them.  And one is not permitted to wipe himself with them, and not to designate them for any disgusting use, rather he can throw them away, and they will wear out [on their own].",
+      "ref": "Shulchan Arukh, Orach Chayim 21:2"
+    },
+    {
+      "seif": 3,
+      "he": "מותר ליכנס בציצית לבית הכסא: הגה וכ\"ש לשכב בהן דשרי ויש שכתבו שנהגו שלא לשכב בטלית שיש בו ציצית גם שלא ליתנו לכובס עכו\"ם לכבס והכל שלא יהיו מצות בזויו' עליו אך נוהגין להקל לשכב בהם [כל בו]:",
+      "en": "It is permitted to enter a bathroom with ציצית.  Rem\"a: And certainly to sleep in them is permitted. And there are those that write that it is our custom to not sleep in a טלית that has ציצית on it, also one shouldn't give it to a non-Jewish cleaner to clean. And all these things are so that commandments shouldn't become disgraced because of it. However, the custom is to be lenient [with regards] to sleeping in them (Kol Bo).",
+      "ref": "Shulchan Arukh, Orach Chayim 21:3"
+    },
+    {
+      "seif": 4,
+      "he": "יש ליזהר כשאדם לובש טלית שלא יגרור ציציותיו:",
+      "en": "There should be caution, when a man wears a טלית, that he shouldn't drag it's ציצית [on the ground].",
+      "ref": "Shulchan Arukh, Orach Chayim 21:4"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מגילה כ\"ז לפירוש השאלתו' והרמב\"ם והר\"ן מהא דכסוי הדם חולין פ\"ז ונר חנוכה שבת כ\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 21:1"
+        },
+        "2": {
+          "he": "הר\"ן בפי\"ג דשבת בשם הראב\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 21:2"
+        },
+        "3": {
+          "he": "הרמב\"ם בפ\"ג וב\"י בשם גאון מההיא דמנחות מ\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 21:3"
+        },
+        "4": {
+          "he": "אגור בשם הגהות מרדכי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 21:4"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "זורקן עמ״א. וכ״כ הט״ז אות ג׳. ודע בציצית לא מהני תנאי באומר איני בודל מהם דביזוי מצוה הוא ול״ד לנוי סוכה תרל״ח ס״ב דהתם לא נחשבו כמותם ולא חל שם מצוה עליהם משא״כ ציצית דבהכרח לשם מצוה עושה ומברך להתעטף עיין לבוש שם וא״ר א׳ ומ״א ז״ח ועיין סי׳ מ״ב במ״א אות ו׳ ואי״ה שם יבואר. והנה אף מצות דרבנן שייך בהו ביזוי שהרי נר חנוכה דרבנן ואמרו אסור משום ביזוי מצוה ה״ה טלית משי להמחבר בסימן ט׳ דרבנן אסור, ובטלית אי רשאי לעשות ביה תשמיש הדיוט כתב א״ר בשם ע״ת דשרי אי אין תשמיש מגונה והט״ז באות ג׳ כתב דטלית להמחבר חמיר מציצית ולי ההדיוט י״ל טלית של תפלה המיוחד לכך חמיר הטלית כמו ציצית (וא״ש בסי׳ ט״ו בא״ר יע״ש) אבל טלית קטן לבוש פשיטא דשרי לכל תשמיש באין מגונה דהא לבוש הדיוט הוא ואפי׳ לשכב בלילה רשאי ויבואר בסעיף ב׳ מזה. והוא כמו תנאי כזה מועיל. טליתות לעשות ממלבושי כומרי עכו״ם מותר אבל מה שמשתמשין ומלבישין עצמן כשהולכין לעכום אין לעשות טלית מצוה מהם עי״ד קל״ט סי״ג יע״ש וטלית שנפסקו ציצותיו אי רשאי לעשות מכנסיים יראה דלא אריך למיעבד כן דתשמיש מגונה אסור ואפילו מטלית קטן. והוי יודע דציצית אסור למיסור מידעם אפי׳ בלילה אפי׳ להר״מ בסי׳ י״ח מ״מ דמי לשופר ולולב שעומד לשנה הבאה דאסור לתשמיש הדיוט כמ״ש הב״ח כ״ש זה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 21:1"
+        },
+        "2": {
+          "he": "שלא עמ״א הקשה להאר״י ז״ל א״כ להר״מ ז״ל דמיוחד ליום פטור בלילה וקשה מדוד בלילה (כמבואר סי׳ י״ח) אלא דהיה לו מזוזה והנה בטלית לבית הכסא הוכיחו מרב יהודה מנחות מ״ג א׳ דאמאי לא מברך כשהסיר ביום עב״י וי״ל דרבי דאמר כ״ז שמניחין מברך בהסיח דעתו או בית הכסא שלהם רחוק בשדה עמ״א סי׳ כ״ה אות כ״ב ולעיל סי ח׳ במ״א אות י״ח ויש ראיה מדוד דאמר מנחות מ״ג ב׳ כשנכנס למרחץ ולא בנכנס לבית הכסא ג״כ לא מזוזה ולא טלית ש״מ שמותר לילך שם בטלית:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 21:2"
+        },
+        "3": {
+          "he": "שלא עמ״א ובסימן י׳ אות י״ג מדמשני שם שיפסקו בכל עת ולא משום דאסור שיהיה ציצית נגררים ומש״ה פטרו אותן בגדים ש״מ דרך הילוכו אין איסור:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 21:3"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "חוטי הציצית עט״ז. עיין תוס׳ שבת כ״ב א׳ ד״ה סוכה ומהרש״א ז״ל שם פירש לצדדין קתני הא נפלו בח״ה שרי וכ״כ הג״א שם נפלו בי״ט אסורים הא בחה״מ נפלו שרי ושם בחדושינו הקשינו מסוכה מ״ו ב׳ אתרוג כל שמונה אסור וי״ל משוי ביזוי אסור בחה״מ ובשמיני מוקצה אבל הט״ז סובר דנפלו בחה״מ אשור וכ״ה בתרל״ח בטור בהדיא בשם בעל הלכות נפלו בחה״מ אסור באכילה ומותר בטלטול ובש״ע תרס״ה אפילו נפסל אסור כל שבעה יע״ש. וסובר הט״ז הטעם דחול המועד ג״כ קצת י״ט ובצירוף הטעמים ביזוי ומוקצה אסור אף נפלו נויי הסוכה ואתרוג שנפסל אפילו בחה״מ וציצית ואתרוג (ואפשר סוכה נמי ונפלו לאו דוקא ה״ה ביוצא לטיול ואין עושה המצוה כעת ליכא ביזוי כמו נפלו) לאחר שנטל האתרוג הוי כמו נפלו שאין רוצה עתה במצוה וכן ציצית דלאו חובת גברא הוא שילך דוקא בטלית עם ציצית לא שייך ביה ביזוי מצוה ול״ד לנר חנוכה כו׳ ושאני אתרוג ונויי סוכה דהואיל ואתקצי בי״ט אתקצי קצת לחה״מ ובצירוף ביזוי מצוה אסור אף נפסל ונפלו משא״כ בציצית דלית מוקצה בחול גמור ואין רוצה עתה במצוה ל״ש ביזוי מצוה וצירוף ליכא ומש״ה מתיר הטור ומ״מ כתב שיש להחמיר. ומשמע קצת בשבת וי״ט מדינא אסור להשתמש בציצית דאסח דעתיה מינייהו. ובאין עליו רק מונח בקופסא שרי אף להשאלתות ואין כן דעת אחרונים אלא אסורים כ״ז שהם בבגד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 21:1"
+        },
+        "2": {
+          "he": "במקום עט״ז דה״ה בעצי סוכה אין לעשות תשמיש מגונה ודפנות הסוכה יש לעיין ביה ומ״מ נכון שלא לעשות תשמיש מגונה מהם ועמ״א תרל״ח ב׳ סוכה בנויה משנה לשנה ועמ״ש כאן במ״א מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 21:2"
+        },
+        "3": {
+          "he": "מותר עט״ז כתב דטלית המיוחד לתפלה כעין שלנו אסור לכנוס לביה״כ רק טלית קטן תחת בגדיו שרי משמע למעלה מבגדיו לא ואין נוהגין כן. ומ״ש להמחבר בס״א לא הבינותי דמשמע מדבריו להמחבר בציצית אפילו תשמיש מגונה רשאי וטלית אסור מגונה והנה הלבוש השמיט הגה״ה בסעיף א׳ והביא הא דטליתות כו׳ וכפי הנראה דהרב בהגה״ה החמיר אפי׳ לזורקן באשפה אסור אלא שא״צ גניזה ובד״מ בשם הכל בו משמע לאנהוגי בזה בזיון אסור יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 21:3"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] אסור להשתמש בהם וכו'. אבל מותר להשתמש בטלית כשהתיר הציצית, כמו דמותר למכרה לכותים, ובלבד שלא יהא תשמיש מגונה, ומכל שכן דמותר לעשות ממנו בגד אחר בלא ד' כנפות, וכן משמע בפוסקים. מיהו כל זמן שציצית בטלית אף שאין לובש בהן, וכן שופר אף אחר ראש השנה, וכן לולב ישן אחר סוכות שעומד למצוה, כתב הב\"ח דאסור להשתמש בהן ולנהוג בהן מנהג בזיון. ובטלית גופיה בעוד שציצית בו, כתב עולת תמיד דמותר להשתמש בו כל שאין תשמיש מגונה, דלא אסרו להשתמש אלא בציצית ולא בטלית, עד כאן. וקצת קשה לפי זה מאי הוצרך להוכיח לעיל סימן ט\"ו דכשהתיר הציצית מותר להשתמש בטלית, הא אפילו בעודו עליו מותר. כתב בתשובת ר' אליהו מזרחי סימן פא אסור לעשות טלית של מצוה מתכשיטי כומרי עבודת כוכבים או לקנות מהן קרשים ואבנים לבנות בית הכנסת, אבל מותר ללבוש מלבוש שמקשטין עצמן לעובדי כוכבים, ומותר להכנס לכנסתו ולהתפלל בו ועיין יורה דעה סימן ק\"ל סעיף י':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 21:1"
+        },
+        "2": {
+          "he": "[ב] ויש מדקדקים וכו'. ומהרי\"ל כתב דיניחן לסימן בספרים, וכתב הט\"ז ולפי זה נראה דהוא הדין בסכך סוכה טוב שלא לעשות בו לצורך דבר שאינה כבוד למצוה שעברה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 21:2"
+        },
+        "3": {
+          "he": "[ג] מותר ליכנס וכו'. כתב הט\"ז נראה דדוקא בבגד שעשאו למלבוש. אבל בטליתות של מצוה שלנו שאינן רק להתפלל בהם אין נכון שיכנס בהם לבית הכסא אף שאין ראיה לאיסור מכל מקום לא גרע מדרך ארץ דאמרינן בגדים שבישל בהם קדירה לרבו אל ימזוג בהם את הכוס. וכן ההולכים ביום הכיפורים לפנות צריך שיפשטו הקיטל שבגד זה מיוחד להתפלל, כן כתב ט\"ז, עד כאן. ואני מצאתי בספר חסידים סימן תשע\"ז וזה לשונו, שאול כשעשה צרכיו לא היה המנטיל עליו לכך יש כשעושין צרכיהן בבית הכסא פושטין את המקטורן וכן טליתן שיש בו ציצית גם כן, וצריך עיון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 21:3"
+        },
+        "4": {
+          "he": "[ד] שלא לשכב וכו'. והמקובלים אחרונים כתבו הרבה מדקדקים לישון בציצית כדי שלא יהיה בלא מצות ציצית אפילו רגע אחד, אפילו כשישן עם אשתו ומותר לשמש מטתו בו. והנה מגן אברהם הקשה על ראיית מהר\"י לוריא, שאמר דוד כשראוהו ערום במרחץ אוי לי שאני ערום מן המצוות ולא אמר כן בלילה כששכב, והקשה דבלילה היה לו מזוזה, עיין שם. ולעניות דעתי ראייתו מלילות דחג הסוכות דחייב לישון בסוכה והיא פטורה ממזוזה, כדאיתא ביורה דעה סימן רפ\"ו, מיהו מזה לאו ראיה דיש לומר דסוכה עצמה היא המצוה. אלא נראה לי דראייתו כששוכב עם אשתו בכל השנה פטור ממזוזה, אלא דרמ\"א כתב ביורה דעה סימן רפ\"ו דאם הדלת מפסיק לכולי עלמא חייב במזוזה, ואפשר כיון דדלת מפסיק הוי כערום מן המצוה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 21:4"
+        },
+        "5": {
+          "he": "[ה] שלא ליתנו לכובס וכו'. והלבוש השמיט. ונראה דסבירא ליה דמה שכתב רמ\"א דנוהגין לשכב בהן, הוא הדין דנוהגין ליתנו לכובס עובדי כוכבים לכבס, וכן כתב בית יוסף, דלא ראה ולא שמע מי שנזהר בזה, וכן משמע בלחם חמודות דף קי\"ב. מיהו שיירי כנסת הגדולה כתב זה לשונו ובזמנינו זה מקפידין על כיבוס כותים:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 21:5"
+        },
+        "6": {
+          "he": "[ו] שלא יגרור וכו'. ועליו הכתוב אומר וטאטתיהו במטאטא השמד. בספר מצות שמורים בשם עדי זהב האריך לחלוק על הלבוש שנתן עונש זה, אלא דאין איסור משום ביזוי כדמוכח מבן ציצית הכסת שהיו ציציותיו נגררין, אלא הטעם שידרוס עליהן ויפסקו ולא יוכל לתקנן מיד, עד כאן. ולא ראה שכן כתב הבית יוסף בשם האגור והמרדכי, וכסתות אין ביזוי כל כך, עיין מה שכתבתי בסימן י' ס\"ק י\"ב. ומגן אברהם כתב דיש לומר דדוקא כשגוררין בשעת לבישה הוי ביזוי דנראה כאילו מכבד בהם הבית, אבל אם נגררים דרך הילוכו אין קפידא כל כך:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 21:6"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "חוטי ציצית שנפסקו.  רבינו הטור מביא בשם שאלתות דבעוד הציצית במצותן אסור להשתמש בהן וכן באתרוג לאכול אותו והושענא להריח בה דילפינן מדם שנאמר ושפך וכסה במה ששפך יכסה שלא יכסה ברגליו שלא יהיו מצות בזויות עליו. וכ' עליו ואפשר לחלק דשאני דם כשמכסה ברגל עושה המצות דרך בזיון משא\"כ כאן וטוב להחמיר עכ\"ל. ותמה ב\"י מ\"ש חוטי ציצית דמותר  מאתרוג דאסור למיכליה. ועוד הקשה מפרק ב\"מ דאמרינן בנר חנוכה דאסור לרצות מעות כנגדו וילפי' מדם שלא יהיו מצות בזויות עליו וכן נוי סוכה הרי מפורש שהנאה מדבר מצוה עד שלא עברה מצותו חשוב ביזוי מצוה. ומו\"ח ז\"ל תי' דהטור לא בא להתיר בעודו לבוש בהן אלא במונחים בקופס' קאמר דאע\"פ שעומדים ללבישה מ\"מ כיון שאין חיוב אלא בטלית שרוצה ללבוש מותר וכו' וזה תמוה דבהא ודאי גם השאלתות מודים דמותר ומנ\"ל דהשאלתות אוסר בזה. ונלע\"ד דברי רבינו הטור ברורים והם ע\"פ דברי התוס' פ' ב\"מ דף כ\"ב שכתבו בנוי סוכה יש תרי טעמי לאיסור חדא משום מוקצ' וחדא משום ביזיון וצריכי תרווייהו דאי משום מוקצה לא היה אסור רק בי\"ט ולא בח\"ה ואי משום בזיון היה מותר בנפלו אבל השתא דאיכא תרתי אסור בנפלו  אפילו בח\"ה הא לך דמשום צירוף י\"ט אסור גם בח\"ה א\"כ הטור שפיר קאמר להתיר להשתמש בציצית אפי' בעודו עליו דמשום מוקצ' אין שייך כאן דדוקא בשבת וי\"ט שייך זה דהיינו מה שהקצה בב\"ה שלהם ומשום בזיון מצוה אין כאן דבאותה שעה שמשתמש אין מבקש אז בעת ההיא להיות עליו שם מצוה וא\"כ ל\"ד לכל האסורים דלנר חנוכה ל\"ד דשם מיירי שרוצה להשתמש בשעה שיש חיוב להיות הנר דולק וא\"א לומר שאינו מבקש לעשות המצוה בעת ההיא דא\"כ יצטרך אח\"כ לכבות ולהדליק מחדש דהא הדלקה עושה מצוה אלא ודאי שבאותה שעה רוצה לעסוק גם כן במצוה וא\"כ עושה המצוה עצמו בבזיון דומי' דדם וג\"כ ל\"ד לאכילת אתרוג ולהריח בהושענא דאלו אין אסורים מחמת בזיון מצוה דג\"כ הוה כמו ציצית שאינו רוצה לעשות אז המצוה אלא דהם דומי' לנוי סוכה דיש איסור מחמת מוקצה בי\"ט וזהו  גורם איסור אפי' בח\"ה כמ\"ש התו' הכלל העולה דנר חנוכה ונוי סוכה שרוצה להשתמש בשעת עשיית המצוה הוין דומי' דדם ואפי' בנוי סוכה שנפלו יש איסור אע\"ג דלא הוה דומי' דדם דהא אין שם בזיון מ\"מ אסור אפי' בח\"ה מטעם מוקצה כיון שכבר נאסר בי\"ט וכמ\"ש התוספות שזכרתי והוה בזה כמו אתרוג שרוצה לאכלו והושענא להריח דאז אין עושה המצוה מ\"מ אסור מטעם מוקצ' ונמצא ששפיר אמר הטור שלא כדברי השאלתות דס\"ל דילפי' אתרוג והושענא מדם וא\"כ היה לנו ג\"כ לאסור תשמיש של ציצית אבל באמת לא ילפי' אתרוג והושענא מדם דשם עושה המצוה בבזיון וא\"כ יש להתיר בציצית דיש  תרתי לטיבות' כמ\"ש ע\"כ יש היתר גמור אפי' בעודן עליו לעשות מהם תשמיש ואח\"כ יחזרו למצותן זהו ברור ונכון מאד בס\"ד אלא שרבינו הטור לענותנותו ביטל דעתו וכ' שטוב להחמיר כנלע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 21:1"
+        },
+        "2": {
+          "he": "במקום מגונה.  מסיים בשם מהרי\"ל שנהג לגונזם ולהניחם תוך ספר א' או לעשות בהם שום מצוה עכ\"ל. ולפ\"ז נראה דה\"ה בסכך סוכה טוב שלא לעשות בו לצורך דבר שאינו כבוד למצוה שעברה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 21:2"
+        },
+        "3": {
+          "he": "מותר ליכנס כו'.  נראה היינו דוקא בבגד שעשוי למלבוש ובו ד' כנפות נתחייב בציצית אבל  בטליתות של מצוה שלנו שאינן רק להתפלל בהם אין נכון שיכנס לב\"ה דוגמא לדבר ופשט את בגדיו ולבש בגדים אחרים דרשינן ד\"א בגדים שבישל בהן קדיר' לרבו אל ימזוג בהם את הכוס וק\"ו להאי מילת' שמיוחד לדבר קדושה דוקא והלא גם בסעיף שקודם לזה נתן חומרא לטלית של מצוה שבלה טפי מציצית  שנתקלקלו לפ\"ד הש\"ע ס\"א ומש\"ה כתב הטור סי' ח' בטלית שפשט כדי ליכנס  בו לב\"ה ואע\"פ שכתב ב\"י שם דלאו משום איסור נקט רבינו כן אלא מיירי שא\"א לעשות בו צרכיו אם לא בהפשטת טלית נלע\"ד יותר נכון דרך שכתבתי ואף שאין ראיה לאיסור מ\"מ לא גרע מההוא דרך ארץ שזכרנו אבל מ\"מ הטלית קטן שלובשין תחת הבגד שאנו נוהגים בו בזה ודאי מותר ליכנס לצרכיו כיון שהוא מכוסה. ועוד נ\"ל דג\"כ ההולכים מבה\"כ ביה\"כ לפנות והם מלובשים קיט\"ל צריך שיפשיטו הקיט\"ל כיון שבגד זה מיוחד להתפלל בו כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 21:3"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "לזורקן. כ' מהרי\"ו ה' לולב דיניח הציצית בספר לסימן הואיל ואיתעביד בהו מצוה חדא יעשה בהו אחריתי:",
+          "en": "",
+          "ref": "Magen Avraham 21:1"
+        },
+        "2": {
+          "he": "שלא לשכב. והרב\"י כת' אנו לא שמענו מי שהקפיד ע\"ז מעולם, וכתבי האר\"י כתוב על פי הסוד שיש לשכב בלילה בטלית קטן ומביא מהאי דאמרי' פ\"ד דמנחות כיון שראה דוד עצמו ערום בבית המרחץ אמר אוי לי שאני ערום מן המצות וק' למה לא אמר כן בליל' שהיה ג\"כ ערום אלא ע\"כ שהיה שוכב בטלית קטן ע\"כ ודבריו דברי קבלה נקבל אבל לדין יש תשובה די\"ל דבלילה עכ\"פ היה לו מזוזה בפתחו משא\"כ במרחץ וכ\"מ בגמ' דאמרינן בגמרא ת\"ר חביבין ישראל שסיבבן הקדוש ברוך הוא במצות תפילין וציצי' ומזוזה ועליהם אמר דוד  שבע ביום הללתיך ובשעה שנכנס דוד לבה\"מ וראה עצמו ערום וכו' משמע שהיה ערום מכולם אף ממזוזה כנ\"ל ועסי' י\"ח ס\"א:",
+          "en": "",
+          "ref": "Magen Avraham 21:2"
+        },
+        "3": {
+          "he": "שלא יגרור. ועליו נאמר וטאטיתים במטאטי השמד [אגור] וק' דבסי' כ\"ג כ' דאם נגרר על הקברות אסור משום לועג לרש משמע בעלמא אין איסור בגריר' ועוד דמשמע לכאורה מדאמרי' בן ציצית הכסת שהיו ציציותיו נגררים ע\"ג כרים וכסתו' משמע לכאורה דאנשים אחרים היו ציציותיה' נגררין על הארץ וכ\"מ ממ\"ש סוף סי' י' ע\"ש ונ\"ל דהקברים היו גבוהים מן הארץ והיו הציצית של ר' יונתן נגררים עליהם ואסרו משום לועג לרש אבל משום בזוי מצו' ליכא כיון שאין נגררין אלא במקום גבוה וגבי בן ציצית הכסת יש לדחות דשל אחרי' לא היו נגררים כלל על הארץ א\"נ י\"ל דדוק' כשגוררים בשעת לבישה הוי ביזוי דנרא' כאלו מכבד בהם הבית אבל אם נגררים דרך הילוכן אין קפידא כ\"כ:",
+          "en": "",
+          "ref": "Magen Avraham 21:3"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "שנפסקו.  ה\"ה מקודם שעשאם בבגד דהזמנה לאו מילתא היא:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 21:1"
+        },
+        "2": {
+          "he": "לאשפה.  ומהרי\"ל נהג להניחם תוך הספר לסימן או לעשות בהם שום מצוה. וכ' ט\"ז וה\"ה סכך סוכה טוב שלא לעשות בו לצורך דבר שאינו כבוד למצוה שעברה. (ומותר להשתמש בטלית כשהתיר הציצית ובלבד שלא יהיה תשמיש מגונה ופשוט הוא. כ' בתשו' רמ\"א סימן ט' אסור לעשות טלית של מצוה מתכשיטי כומרי עכו\"ם. או לקנות מהם קרשים ואבנים לבנין ב\"ה. אבל מותר ללבוש מלבוש שמקשטין בהם עכו\"ם):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 21:2"
+        },
+        "3": {
+          "he": "לבית הכסא.  כ' הט\"ז דוקא בד' כנפות שלבש תחת הבגדים אבל בטליתות של מצוה אין נכון שיכנס לבית הכסא. גם ההולכים בי\"כ לפנות ומלובשים בקיטל צריך שיפשוט הקיטל כיון שבגד זה מיוחד רק להתפלל ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 21:3"
+        },
+        "4": {
+          "he": "שלא לשכב.  ובכתבי האר\"י ז\"ל ע\"פ סוד שיש לשכב בלילה בטלית קטן. ועיין בס' אליהו רבה מה שמתרץ על קושית מ\"א על ראיות האר\"י ז\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 21:4"
+        },
+        "5": {
+          "he": "ציציותיו.  ועליו נאמר וטאטאתיה במטאטא השמד. ובספר מצת שמורים האריך דאין איסור בזה משום ביזוי מצוה אלא הטעם שלא ידרוס עליהן ויפסקו. והקשה המ\"א דבסי' כ\"ג כתב דאם נגרר על הקברות אסור משום לועג לרש משמע דבעלמא מותר. וכן ההיא דציצית הכסת ע\"ש והמחבר יד אהרן מיישבו ע\"פ החילוק של הט\"ז שכתבתי בס\"ק ג' לענין בית הכסא. ה\"נ כאן לענין שלא יהא נגרר הציציות יש חילוק בין טלית גדול או קטן דבטלית גדול שמיוחד רק להתפלל אינו ראוי והגון שיהיה ציצותיו נגררין בארץ. וההיא דבית הקברות ודציצית הכסת מיירי בציצית שבבגדיהם ע\"ש ועיין בשכנה\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 21:5"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) חוטי ציצית וכו' - וה\"ה לכל תשמישי מצוה כגון סוכה ולולב ושופר וכל כה\"ג לאחר שנתבטלו ואינם עומדין עוד למצותן:",
+          "en": "The strings of the Tzitzit - And the same law applies to all objects used for a Mitzvah,like  Sukkah, Lulav, Shofar, and all similar things after they have stopped they're use and the mitzvah no longer applies.",
+          "ref": "Mishnah Berurah 21:1"
+        },
+        "2": {
+          "he": "(ב) שנפסקו - או שהתירן מהטלית וה\"ה מקודם שעשאן בבגד דהזמנה לאו מילתא היא:",
+          "en": "That became detached - Or if he [purposefully] removed them from the garment.  And the same rule applies before he attached them to the garment.  For just by virtue of the strings being ready/prepared [to attach to the garment, but not yet actually attached] is not considered [of importance].",
+          "ref": "Mishnah Berurah 21:2"
+        },
+        "3": {
+          "he": "(ג) לאשפה - אבל אסור לעשות בהם תשמיש מגונה דלא גרע ציצית מטלית לקמן בס\"ב:",
+          "en": "To the garbage - But it is forbidden to use them in an unfitting/improper manner.  For the Tzitzit are no less than the Tallit [whose laws are mentioned] below in 21:2.",
+          "ref": "Mishnah Berurah 21:3"
+        },
+        "4": {
+          "he": "(ד) קבועים בטלית - אפילו אם אין לבוש עתה בהטלית ואפילו בלילה כיון שהוא עומד ללבישה ולצאת בהציצית ידי מצות ציצית וכן שופר נמי אפילו לאחר ר\"ה וכן לולב ישן אם עומדין עדיין למצוה לשנה הבאה אסור להשתמש בהן משום ביזוי מצוה ועיין בבה\"ל:",
+          "en": "Attached to the Tallit - Even if he is not currently wearing the Tallit and even if it's evening, since it's fitting  to be worn and to fulfill with the Tzitzit the Mitzvah of wearing Tzitzit.  And similarly a Shofar, even after Rosh Hashana, and similarly an old  Lulav... if they are fitting to be used for the Mitzvah the following year, then it is forbidden to use them for other purposes because of \"degrading the Mitzvah\".  And see [further] in Biur Halachah.",
+          "ref": "Mishnah Berurah 21:4"
+        },
+        "5": {
+          "he": "(ה) להשתמש בהן - ובציצית לא מהני תנאי באומר איני בודל מהן כמו בתרל\"ח ס\"ב משום דביזוי מצוה הוא דציצית ע\"כ בהכרח לשם מצוה עושה דמברך עליהן להתעטף:",
+          "en": "To use them for another purpose - And with Tzitzit, it would not suffice to make a condition saying \"I am not separating myself from them [to allow them to be used for the mitzvah] like in [Shulchan Aruch] Siman 638, Se'if 2 (regarding Sukkah decorations), since it is a \"degrading of the Mitzvah\" of Tzitzit.  For it is obvious that he is using the Tzitzit to fulfill the Mitzvah, for he makes the blessing over them \"...to wrap\".",
+          "ref": "Mishnah Berurah 21:5"
+        },
+        "6": {
+          "he": "(ו) אין לנהוג בהן - וכן בסכך הסוכה ולולב ושופר לאחר שנתבטלו ממצותן אין לזורקן לאשפה וכל כה\"ג דבר שאינו כבוד למצוה שעברה וכתב הפמ\"ג דנכון שלא לעשות תשמיש מגונה אפילו בדפנות הסוכה:",
+          "en": "One should not treat them - And similarly with the schach of the Sukkah and a Lulav and a Shofar... once they have stopped their use for the mitzvah, we do not throw them in the garbage or anything similar which would not be an honor to the mitzvah that has passed.  And the Pri Megadim wrote that it is proper to not even use the walls of the Sukkah for an unfitting use.",
+          "ref": "Mishnah Berurah 21:6"
+        },
+        "7": {
+          "he": "(ז) לזורקן - ר\"ל בידים אסור לזורקן לאשפה אך אם מתוך שלא גנזן נזרקו ממילא אין לחוש לזה:",
+          "en": "To throw them - Meaning to say, with one's hands it's forbidden to throw them in the garbage.  However, if by the fact that he did not put them in genizah (ie. a repository for sacred items) they got thrown away on their own... for that we are not concerned.",
+          "ref": "Mishnah Berurah 21:7"
+        },
+        "8": {
+          "he": "(ח) לגונזן - כתב מהרי\"ל דיניח הציצית בתוך הספר לסימן או לעשות בהן שום מצוה דהואיל ואיתעביד בהו מצוה חדא יתעביד בהו אחריתא:",
+          "en": "To place them in genizah (ie. a repository for sacred items) - The Maharil wrote that one can place the Tzitzit inside a [sacred] book as a bookmark or to use them for any other type of mitzvah... for since he it was used for one mitzvah, let it be used for another.",
+          "ref": "Mishnah Berurah 21:8"
+        },
+        "9": {
+          "he": "(ט) שבלו - עיין בפמ\"ג שכתב דטלית של מצוה שנפסקו ציציותיו לא יעשה ממנו מכנסים דהוא בכלל תשמיש מגונה ואפילו מטלית קטן אסור:",
+          "en": "That wore out - See in Pri Megadim who wrote that [regarding] a garment used for the mitzvah [of Tzitzit] whose Tzitzit strings became detached, one should not make pants out of them... for that falls under the category of \"unfitting use\".  And even from a Tallit Kattan it is forbidden.",
+          "ref": "Mishnah Berurah 21:9"
+        },
+        "10": {
+          "he": "(י) ואינו מותר וכו' - כצ\"ל. [ארה\"ח וכן משמע מהגר\"א]:",
+          "en": "And he is not permitted etc. - That is the proper text [Or Hachaim and so too is it implied from the Gra].",
+          "ref": "Mishnah Berurah 21:10"
+        },
+        "11": {
+          "he": "(יא) לקנח וכו' - ר\"ל אפילו לקנח הטיט מעל רגלו [כן מוכח מר\"ן בפי\"ג דשבת]:",
+          "en": "To wipe/clean etc. - Meaning to say, even to wipe the mud/dirt from his feet [So too is it proven from the Ran in chapter 13 in mesechet Shabbat]",
+          "ref": "Mishnah Berurah 21:11"
+        },
+        "12": {
+          "he": "(יב) המגונה - אבל לשאינו מגונה שרי ובעוד הציצית עליו אם רשאי להשתמש בהטלית תשמיש שאינו מגונה דעת הע\"ת דשרי דדוקא בציצית אוסר המחבר בס\"א ולהט\"ז אסור וכן הסכים הפמ\"ג וכתב דטלית של תפלה המיוחד לכך חמיר הטלית כמו הציצית אבל ט\"ק פשיטא דשרי לכל תשמיש שאינו מגונה אפילו בעוד הציצית עליו דהא לבוש הדיוט הוא ורשאי לשכב בו בלילה וכבסמוך:",
+          "en": "Unfitting - But if it's not unfitting then it is permitted. [Regarding a Tallit whose] Tzitzit strings are still attached... if it's permitted to use the Tallit for a use that's not unfitting, the opinion of the Olat Tamid(?) is that it is allowed.  For it's specifically the Tzitzit strings that the Mechaber (ie. the Shulchan Aruch) forbids in Se'if 1 (of chapter 21).  But according to the Taz, it is forbidden.  And so too the Pri Megadim agrees and wrote that a Tallit that's designated for prayer use, we are strict with it just like with the Tzitzit strings.  But [regarding] a Tallit Kattan, it's obvious that it's allowed to be used for anything that's not unfitting... even when the Tzitzit strings are still attached.  For it's a common clothing [item] and he is [even] allowed to sleep in them at night as will be mentioned soon.",
+          "ref": "Mishnah Berurah 21:12"
+        },
+        "13": {
+          "he": "(יג) זורקן - ר\"ל לאשפה ואפילו הי\"א הנ\"ל דאוסר בציצית גופא משמע דמודה בזה:",
+          "en": "He can throw them away - Meaning to say, in the garbage.  And even [according to] the other opinions that were mentioned previously that forbid the Tzitzit strings themselves, it's inferred that they would agree here.",
+          "ref": "Mishnah Berurah 21:13"
+        },
+        "14": {
+          "he": "(יד) לבית הכסא - ודוקא בד' כנפות הקטן שלובשו כל היום אבל אלו טליתות של מצוה שמיוחדין רק להתפלל בהן אין נכון שיכנס בהן לבהכ\"ס אך להשתין בהן מותר גם ההולכים ביוה\"כ לפנות ומלובשים בקיט\"ל צריך שיפשוט הקיט\"ל כיון שבגד זה מיוחד רק להתפלל:",
+          "en": "To the bathroom - And [this is] specifically with the Tallit Kattan that one wears throughout the day.  But the Tallitot that are designated to be used for prayer services, it is not proper to enter with them into the bathroom.  However, to urinate with them is permitted.  Similarly, those who go on Yom Kippur to [the bathroom] to defecate and are wearing a Kittel, they need to remove the Kittel since that garment is designated to only be used for prayers.",
+          "ref": "Mishnah Berurah 21:14"
+        },
+        "15": {
+          "he": "(טו) שלא לשכב - ובכתבי האר\"י ז\"ל כתוב ע\"פ הסוד שיש לשכב בלילה בטלית קטן:",
+          "en": "To not sleep - And in the writings of the Arizal it is written based on the mystical teaching [Kabbalah] that one should sleep at night while wearing a Tallit Kattan.",
+          "ref": "Mishnah Berurah 21:15"
+        },
+        "16": {
+          "he": "(טז) לכובס אינו יהודי לכבס - הטלית עם הציצית אלא מתיר הציצית ואח\"כ כובסן:",
+          "en": "To a non-Jewish cleaner to clean - ...the Tallit with the Tzitzit [attached], rather he should remove the Tzitzit strings and then afterwards they may be washed [by the non-Jew].",
+          "ref": "Mishnah Berurah 21:16"
+        },
+        "17": {
+          "he": "(יז) לשכב בהם - וכן ליתן לכובס א\"י מיהו יש מחמירין בזה שיעשה כנ\"ל:",
+          "en": "To sleep in them - And so too, to give them to a non-Jewish cleaner.  However, there are those that are stringent regarding this and do it like was mentioned previously (ie. remove the strings first).",
+          "ref": "Mishnah Berurah 21:17"
+        },
+        "18": {
+          "he": "(יח) שלא יגרור - יש מפרשים הטעם משום ביזוי מצוה ועוד כי קרוב שיפסלו ולכן יגבהם ויתחבם בחגורו:",
+          "en": "Shouldn't drag - Some explain [that] the reason is because of \"degrading the Mitzvah\".  And additionally, because [doing so] makes them prone to becoming invalid (ie. the strings can tear etc.).  Therefore, one should raise them and tuck them into their belt.",
+          "ref": "Mishnah Berurah 21:18"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

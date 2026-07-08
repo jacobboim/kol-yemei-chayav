@@ -1,0 +1,790 @@
+{
+  "chelek": "OC",
+  "siman": 398,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 11,
+  "fetchedAt": "2026-07-07T23:49:26.688Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין היאך מודדין אלפים אמה. ובו יא סעיפים:הבא למדוד אלפים אמה של תחום העיר אם היתה העיר אריכא וקטינא או שהיתה מרובעת לא לרבוע העולם הואיל ויש לה ארבע זויות שוות מניחים אותה כמות שהיא ומודדים לה אלפים אמה לכל רוח מארבע רוחותיה:",
+      "en": "When one comes to measure the 2000 amot teḥum of a city, if the city was long and narrow, or if it was square but not aligned with the square of the earth [i.e. the cardinal directions], but it has four square corners, we leave the size of the city as it is and measure 2000 amot in every direction from its four sides.",
+      "ref": "Shulchan Arukh, Orach Chayim 398:1"
+    },
+    {
+      "seif": 2,
+      "he": "היתה עגולה עושין לה זויות ורואין אותה כאלו היא בתוך המרובע ומודדין חוץ מצלעות אותו מרובע אלפי' אמה לכל רוח שנמצא משתכר הזויות וכן אם היתה העיר משולשת או שיש לה צלעות רבות מרבעין אותה ואח\"כ מוציאין חוץ למרובע אלפי' אמה לכל רוח:",
+      "en": "If the city was round, we make corners for it and view it as if it was inscribed in a rectangle, and measure 2000 amot in every direction from the sides of the rectangle. It is thus found that the corners [of the circumscribed rectangle] increase the size of the city. So too, if the city was triangular or if it had many sides, we circumscribe a rectangle around it and afterwards extend 2000 amot in every direction from outside the rectangle.",
+      "ref": "Shulchan Arukh, Orach Chayim 398:2"
+    },
+    {
+      "seif": 3,
+      "he": "כשהוא מרבעה מרבעה בריבוע העולם כדי שתהא כל רוח ממנה משוכה כנגד רוח מרוחו' העולם ומכוונ' כנגדה:",
+      "en": "When one circumscribes a rectangle [around a city], one circumscribes it according to the cardinal directions, so that each of its sides extends according to one of the cardinal directions and is parallel to it.",
+      "ref": "Shulchan Arukh, Orach Chayim 398:3"
+    },
+    {
+      "seif": 4,
+      "he": "היתה רחבה מצד א' וקצרה מצד א' רואין אותה כאלו כולה רחבה היתה עשויה כמין גם או כקשת אם יש בין שני ראשיה פחות מארבע אלפי' אמה מודדין לה מן היתר ורואין את כל הרוחב שבין היתר והקשת כאלו הוא מלא בתים ואם היו בין שני ראשיה ד' אלפי' אין מודדין לה אלא מן הקשת: הגה ויש אומרים מן המקום שנתקצר שם הקשת שאין בו ארבע אלפים אמה וכל זה שיש בין הקשת והיתר יותר מאלפים אבל אם אין ביניהם אלפים מודדין בכל ענין מן היתר וכן נראה להקל (הגהות מיימוני פרק כ\"ה מהלכות שבת והרא\"ש והטור):",
+      "en": "If a city was wide on one end and narrow on another end, we view it as if it was entirely the maximal width. If it was shaped like the letter gamma (Γ) or like an archer's bow, if there were less than 4000 amot between the tips of the arc, we measure the teḥum from the chord of the arc and view it as if all the space between the chord and arc were full of houses. If there were [at least] 4000 amot between the tips of the arc, we measure the teḥum only from the arc itself. Rema: Some say that [in this case where the tips of the arc are at least 4000 amot apart] we measure the teḥum from the place at which the chord would be less than 4000 amot long. This is only when there is at least 2000 amot between the apex of the arc and the chord, however if there is less than 2000 amot, we measure in any case from the chord, and it is acceptable to be lenient (Hagahot Maimoniot chapter 25 from the laws of Shabbat, and the Rosh and the Tur).",
+      "ref": "Shulchan Arukh, Orach Chayim 398:4"
+    },
+    {
+      "seif": 5,
+      "he": "כל בית דירה שהוא יוצא מהעיר אם היה בינו ובין העיר שבעי' אמה ושני שלישים שהוא צלע בית סאתים המרובעות או פחות מזה הרי זה מצטרף לעיר ונחשב ממנה וכשמודדין לה אלפים אמה לכל רוח מודדין חוץ מבית דירה זה: הגה ויש אומרים שאין מתחילין למדוד מיד מן הבית אלא מותחין חוט על פני רוחב העיר נגד הבית ומרחיקין משם שבעים אמה ושיריים ומתחילין וכן בכל מקום שמודדין (טור) וכן נראה לי להקל:",
+      "en": "Every apartment that is located outside the city, if there is a distance of 70 and two-thirds cubits between it and the city, which is equivalent to the diagonal of a side of 50 square cubits (Beit sasaim) or less, then it is considered part of the city, and when measuring the city's boundaries, it is included, except for this apartment. Rema: Some say that one should not start measuring immediately from the apartment, but rather stretch a string across the width of the city opposite the apartment and move it seventy cubits and two-thirds away from there, and start measuring from that point. This is done in every place where measuring is done (Tur). This is my opinion to be lenient.",
+      "ref": "Shulchan Arukh, Orach Chayim 398:5"
+    },
+    {
+      "seif": 6,
+      "he": "היה בית קרוב לעיר בשבעי' אמה ובית שני קרוב לבית ראשון בשבעי' אמה ובית שלישי קרוב לשני בשבעים אמה וכן עד מהלך כמה ימי' הרי הכל כעיר אח' וכשמודדין מודדין מחוץ לבית האחרון והוא שיהי' בית דירה זה ד' אמות על ד\"א או יותר וכן בית הכנס' שיש בו בית דירה לחזני' ובית ע\"א שיש בו בית דירה לכהני' והאוצרו' שיש בהם בית דיר' והגשר והקבר שיש בהם בית דירה ושלש מחיצו' שאין עליהם תקרה ויש בהם ד\"א על ד\"א והבית הבנוי בים ושתי מחיצות שיש עליהם תקרה ומעזיבה ומערה שיש בנין על פיה ויש בה בית דיר' כל אלו מצטרפין עמה אם היו בתוך שבעי' אמה ושירי' ומאותו הבית היוצא רואים כאלו חוט מתוח על פני כל העיר ומודדין חוץ מאותו החוט אלפים אמה: הגה ואם היו שני בתים כאלו נגד העיר דינם כעיר העשויה כקשת (טור) אבל שתי מחיצות שאין עליהם תקרה אע\"פ שדרים ביניהם והגשר והקבר ובית הכנסת ובית ע\"א והאוצרות שאין בהם בית דירה והבור והשיח והמערה והשובך ובית שבספינה כל אלו וכיוצא בהם אין מצטרפין עמה:",
+      "en": "A house that is close to a city within 70 amot (cubits), and a second house is close to the first house within 70 amot, and a third house is close to the second house within 70 amot, and so on for however many days' travel, all of them are considered as one city. And when measuring, one measures from outside the last house, provided that this house is a minimum of four cubits wide, or more. Similarly, a synagogue that has an apartment for the cantor, or a bathhouse that has an apartment for the attendant, or a treasury that has an apartment, and a bridge or a grave that has an apartment, and three walls that do not have a ceiling above them and have overlapping spaces, and also a house built in the sea, and two walls that have a ceiling above them, and a tower or a cave, all of these are considered as part of the city if they are within 70 amot and a bit from the last house. From this last house, it appears as if a thread is stretched across the entire city, and measuring is done outside of that thread at a distance of 2,000 amot in every direction except for that house. Rema: If there are two such houses opposite the city, they are considered as a city that is built like an arch. (Tur) However, two walls that do not have a ceiling above them, even if they are adjacent, and a bridge or a grave, and a synagogue or a bathhouse or a treasury that do not have an apartment, and a well, and a bush, and a cave, and a dovecote that is in a ship, and the like, are not considered as part of the city.",
+      "ref": "Shulchan Arukh, Orach Chayim 398:6"
+    },
+    {
+      "seif": 7,
+      "he": "היו שתי עיירות זו סמוכה לזו קמ\"א אמות ושליש כדי שיהיה ע' אמה ושיריים לזו ושבעים אמה ושיריים לזו חשובים שתיהם כעיר אחת ונמצאת כל עיר מהן מהלכות את כל העיר השניה וחוצה לה אלפים אמה: הגה וכן חומת העיר שנפרצה מב' רוחותיה זו כנגד זו וחרבו הבתים שביניהם עד קמ\"א אמה ושליש דינו כסתום (טור) אבל בית אחד אפי' גדול הרבה אין לו דין עיר לתת לו שבעים אמה ושיריים. (תוס' ורא\"ש פרק כיצד מעברין וטור):",
+      "en": "There were two towns, one adjacent to the other, with a distance of one hundred and thirty-one cubits between them, so that there were sixty-one and a half cubits to one town and seventy-one and a half cubits to the other town: They are considered as one city, and each one is considered as extending the entire other city, except for a distance of two thousand cubits outside the last house of each town. RAMA: If there were two houses like this facing each other, their law is like that of a city made like an arch. However, two walls without a roof between them, even if they are close to each other up to one hundred and thirty-one cubits, are considered like an enclosed area. (Tur). But a single house, even if it is very large, does not have the status of a city, and it cannot be given a distance of seventy-one and a half cubits. (Tosafot and Rosh in Chapter \"Keitzad Ma'avrin\" and Tur)",
+      "ref": "Shulchan Arukh, Orach Chayim 398:7"
+    },
+    {
+      "seif": 8,
+      "he": "היו שלשה כפרים משולשים אם יש בין האמצעים ובין כל אחד מהחיצונים אלפים אמה או פחות מכאן ובין שנים החיצונים רפ\"ג אמות פחות שליש (מלבד רוחב העיר האמצעי) (טור) כדי שיהיה בין כל אחד מהם ובין האמצעי כשתראה אותו כאלו הוא ביניהם קמ\"א ושליש הרי שלשתן כמדינה אחת ומודדים להם אלפים אמה לכל רוח מחוץ לשלשתן (וי\"א דאין מודדין מן האמצעי רק מחומותיה) (תוס' והרא\"ש פ' כיצד מעברין וטור):",
+      "en": "There were three triangular villages, if there is a distance of 1,000 cubits or less between the middle one and each of the outer ones, and between the two outer villages, the distance is less than 3,000 cubits (excluding the width of the middle village) (Tur), in order that each one of them, together with the middle one, appears as a 2,000-cubit square. Therefore, the three villages are considered as one city-state, and a 2,000-cubit measurement is taken for each direction outside the three villages (although some say that the measurement is taken only from their walls and not from the middle one). (Tosafot, Rosh in Chapter \"Keitzad Ma'avrin\" and Tur)",
+      "ref": "Shulchan Arukh, Orach Chayim 398:8"
+    },
+    {
+      "seif": 9,
+      "he": "עיר שיושבת על שפת הנחל שרוב העתים הוא יבש ומשתמשים בו שאינו מלא אלא בשעת הגשם אם יש לפניה מצבה רוחב ד' אמות על שפת הנחל כדי שיעמדו עליה וישתמשו בנחל נמצא הנחל בכלל העיר ומודדין לה אלפים אמה משפת הנחל השני ויעשה הנחל כלו בכלל העיר מפני המצבה הבנויה בצדה ואם לא היה שם מצבה אין מודדין להם אלא מפתח בתיהם ונמצא הנחל נמדד מן האלפים שלהם:",
+      "en": "A city that sits on the bank of a river that is dry most of the time, and people use it only when it is filled with water during rainy season: If there is a platform of four cubits width on the bank of the river, people can stand on it and use the river. The river is considered part of the city, and it is measured two thousand cubits from the second bank of the river. The entire river is considered part of the city because of the platform built on its side. If there is no platform, only the area of the houses adjacent to the river is measured, and the river is measured from the thousands of cubits of theirs.",
+      "ref": "Shulchan Arukh, Orach Chayim 398:9"
+    },
+    {
+      "seif": 10,
+      "he": "יושבי צריפים דהיינו שיושבים באהלים שעושין מהוצין וערבה אין להם דין עיר ולפיכך אין מודדין להם אלפים אמה אלא מפתח בתיהם: (אם אין להם כמין היקף מחיצה י' או חריץ י' סביב בתיהם) (ב\"י בשם שבולי לקט) ואם יש שם שלש חצירות של שני שני בתים קבועים של אבן או של נסרים אלו עושים את כלם קבע ויש להם דין עיר ומרבעים אותה ונותנין לה אלפים אמה לכל רוח כשאר העיירות:",
+      "en": "Those who dwell in huts, meaning those who dwell in tents made of wood and reeds, do not have the law of a city. Therefore, they are not measured in thousands of cubits from the outskirts of the city, but rather from the threshold of their tents. (However, if they have a kind of enclosure of a wall or ditch that is ten cubits high around their homes).  ( Beis Yosef in the name of the Shibulei Leket) If they have three courtyards of two houses each, made of stones or beams, they are all considered permanent structures, and they are measured like any other city, with a city boundary of a thousand cubits in every direction.",
+      "ref": "Shulchan Arukh, Orach Chayim 398:10"
+    },
+    {
+      "seif": 11,
+      "he": "עיר שהוקפה ואח\"כ ישבה מודדין לה ממקום ישיבתה ישבה ואחר כך הוקפה מודדין לה מחומתה:",
+      "en": "If a city was surrounded by a wall and then it was inbaited, its measurement is taken from the place where its settlement was located, and afterwards its wall is measured.",
+      "ref": "Shulchan Arukh, Orach Chayim 398:11"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא עירובין כ\"ה ובגמרא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:1"
+        },
+        "2": {
+          "he": "משנה שם נ\"ב וברייתא ל\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:2"
+        },
+        "3": {
+          "he": "רמב\"ם בפכ\"ח מה\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:3"
+        },
+        "4": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:4"
+        },
+        "5": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:5"
+        },
+        "6": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:6"
+        },
+        "7": {
+          "he": "פי' היא כף יונית (ונ\"ל גימל שכן גמא היא אות שלישית יונית וצורתה כדלת הפוכה)",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:7"
+        },
+        "8": {
+          "he": "שם בגמרא וכרב הונא כן דעת הרי\"ף והרמב\"ם בפכ\"ח מה\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:8"
+        },
+        "9": {
+          "he": "משנה שם בפירש\"י שם בגמרא כ\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:9"
+        },
+        "10": {
+          "he": "רמב\"ם בפכ\"א מה\"ש מעובדא דהוו אתו לבי כנישתא דדניאל שם כ\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:10"
+        },
+        "11": {
+          "he": "ברייתא שם נ\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:11"
+        },
+        "12": {
+          "he": "בעיא שם ולא נפשטא ופסק רמב\"ם בפרק כ\"א לקולא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:12"
+        },
+        "13": {
+          "he": "שם בברייתא דר' חייא וגמרא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:13"
+        },
+        "14": {
+          "he": "שם ברייתא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:14"
+        },
+        "15": {
+          "he": "משנ' שם כו וכדמפרש לה רב הונא שם ורמב\"ם בפכ\"ח מה\"ש וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:15"
+        },
+        "16": {
+          "he": "שם במשנה ובגמרא מפרש לה הכי אליבא דרב הונא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:16"
+        },
+        "17": {
+          "he": "שם גמרא ס\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:17"
+        },
+        "18": {
+          "he": "הרי\"ף שם נ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:18"
+        },
+        "19": {
+          "he": "הרמב\"ם בפכ\"ח מה\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:19"
+        },
+        "20": {
+          "he": "פי' איצטבא הוא פי' דקה הנזכר בגמ' ובפוסקים והרב נקט מצבה במקום דקה)",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:20"
+        },
+        "21": {
+          "he": "שם גמרא נ\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:21"
+        },
+        "22": {
+          "he": "שם וכ\"פ הרמב\"ם בפרק כ\"ח מהלכות שבת",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:22"
+        },
+        "23": {
+          "he": "רמב\"ם בפרק כ\"ח מהלכות שבת מהא דעיר חדשה מודדין לה מישיבתה ישבה וכו' שם ב\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 398:23"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "אריכא וקטינא עמ״א כל שיש לעיר ד׳ זויות מרובעין אף ע״פ שאין לריבוע עולם שעומד באלכסון או ארכה יותר על רחבה אין מרבעין לריבוע עולם ולא לעשות רחבה כארכה משא״כ בס״ד רחבה מצ״א וקצרה מצ״א אע״פ שיש זויות אין זה ריבוע ומרבעין אותה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 398:1"
+        },
+        "2": {
+          "he": "מן הקשת עמ״א שמרבעין הקשת במקום עיגולו ומשם ב״א אמה ורשאין לילך מראש קשת זה עד ראש הקשת הב׳ אבל דרך יתר אסור לילך הואיל ויש יותר מד״א:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 398:2"
+        },
+        "3": {
+          "he": "מן המקום עמ״א וכמ״ש חז״ל אם אין מקשת ליתר כ״א רשאין וע׳ אות ד׳ ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 398:3"
+        },
+        "4": {
+          "he": "מן היתר עמ״א בסעיף ח׳ אות י״ב דכה״ג דוקא לחיצונים שני ראשי הקשת מודדין מותר אבל אמצעים היושבים בגובה הקשת אין מודדין כה״ג מותר דמפסדי לצ״א משא״כ באין ב׳ ראשים ד״א אף אמצעי מודדין מותר ואי״ה שם יבואר ועתו״ש אות ד׳ וט״ז יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 398:4"
+        },
+        "5": {
+          "he": "בית דירה עמ״א ע׳ סעיף ו׳ שלש מחיצות ואין תקרה כל שהיה בית דירה וד״א על ד״א מצטרף וע׳ לבוש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 398:5"
+        },
+        "6": {
+          "he": "על ד״א עמ״א מרובע דוקא לא כדי לרבע דאין זה בית דירה. עמ״ש אי״ה באות ז׳ מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 398:6"
+        },
+        "7": {
+          "he": "הבנוי בים עמ״א גמרא עירובין נ״ג עב״י דבעי בכל אלו ד׳ על ד׳ דוקא. ומ״ש המ״א באות ו׳ דבעינן מרובע צ״ע דבשס״ו אות ו׳ לא כ״כ יע״ש ושאני ר״ה דבעי ד״ט על ד״ט מרובע הא בית דירה י״ל דע״ד אמות כל שיש לרבע חשיב בית דירה שוב ראיתי בתו״ש אות ח׳ הקשה כן וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 398:7"
+        },
+        "8": {
+          "he": "ומערה עמ״א עירובין נ״ח ב׳ כשיש בנין ע״פ המערה מצטרף בנין על פי המערה כל שיש רוב ד״א מבנין והשאר משלים ממערה א״כ למדוד כו׳ תוס׳ שם ד״ה לא. ומלת בלבד קאי לפירש״י:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 398:8"
+        },
+        "9": {
+          "he": "דינם עמ״א מלת שנ״י אחר מלת נג״ד ולהוסיף מלת ראש״י כו׳ ומ״ש וכ״ש כו׳ יותר מאלפים לכאורה ד״א ראוי להיות ועתו״ש הגיה כן וקשה פשיטא מה קמ״ל ובא״ר העתיק אלפים דכל שאין בית כ״א בצ״א בראש העיר ובשני לית והעיר ארוכה יותר מאלפים אין מותחין בצד הב׳ ומיהו דרך בתים יכולין לילך עד סוף העיבור כמ״ש באות ב׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 398:9"
+        },
+        "10": {
+          "he": "ובית עמ״א אף ספינה עומדת בנחל לא קביעא מיקרי דפעמים ניידי על המים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 398:10"
+        },
+        "11": {
+          "he": "בית א׳ עמ״א וכן בית אחר בית הרבה תוך ע׳ אמה ושיריים כבס״ו ומ״א ט׳ כל שהאחד קרוב לעיר ומשמע הא הרבה בתים כ״א רחוק מחבירו ע׳ אמה ושיריים אין מצטרפין וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 398:11"
+        },
+        "12": {
+          "he": "מחומותיה עמ״א ועתו״ש אות ט״ז הקשה עליו דזה תליא בפלוגתא שבין רבה בר רב הונא ובין רבא כו׳ וע״ש ולא היה פנאי כעת לעיין בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 398:12"
+        },
+        "13": {
+          "he": "וישתמשו עמ״א ועיין בטור כי לרש״י והרשב״א ז״ל הנהר נמדד מכלל התחום שבת עב״י ותו״ש ובא״ר אות י״ב וראוי להגיה ול״ג להקל כלומר דאין להקל במקום שמשתמשין בני העיר דהא לרש״י והרשב״א אף בנהר אין הנהר מכלל העיר ממילא אף דמקילין כהרי״ף והר״מ ז״ל אבל בשאר מקומות נמדד המקום מכלל אלפים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 398:13"
+        },
+        "14": {
+          "he": "מפתח עמ״א פירוש מקור העיר ומלת מפתח בתיהם הוא ל״ד כי לרש״י והרשב״א הפירוש כן כ״א מפתח ביתו משא״כ לרי״ף והר״מ ז״ל ועב״י:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 398:14"
+        },
+        "15": {
+          "he": "באהלים עמ״א ועיין לבוש וא״ר אות י״ד דקבוע במקום א׳ הוי כעיר וקבוע זה א״י כמה זמן דאפשר כל שקבוע קיץ א׳ או שלשים יום הוי קבוע וצ״ע",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 398:15"
+        },
+        "16": {
+          "he": "מקום עמ״א וע׳ לבוש לפי מ״ש בס״ח מודדין לאחר ע׳ אמה ושיריים יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 398:16"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] [לבוש] וקצרה ברחבה וכו'. מניחין כמות שהיא ואין אומרים נראה אותו כאילו רחבה כארכה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 398:1"
+        },
+        "2": {
+          "he": "[ב] [לבוש] כדכתיב לעיל וכו'. בריש סימן שצ\"ז:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 398:2"
+        },
+        "3": {
+          "he": "[ג] רואים וכו'. ומודדין אלפיים מצד הרחב אף שיהא יותר מצד הקצר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 398:3"
+        },
+        "4": {
+          "he": "[ד] מן המקום שנתקצר או ממקום שלא נשאר הקשת עד שם יותר מאלפיים (טור). כתב עבודת הקודש דלא אף בעיר שאין מודדין אלא מן הקשת אפילו כן מרבעין אותו מבחוץ וכל אנשי הקשת מהלכין כל אותו ריבוע ומודדין אותו ריבוע ולהלן אלפיים אמה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 398:4"
+        },
+        "5": {
+          "he": "[ה] [לבוש] יש מחלוקת וכו'. ולא ידעתי איסור (מלבושי יום טוב):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 398:5"
+        },
+        "6": {
+          "he": "[ו] על ארבע אמות וכו'. ואם אין בה רוחב ארבע אמות אף על פי שארוכה כמה אמות לא מיקרי בית:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 398:6"
+        },
+        "7": {
+          "he": "[ז] ומערה וכו'. פירוש כשאין בתוכה ארבע אמות ויש בנין על פיה שמשלים לארבע אמות נמדדת עמה (עבודת הקודש). הבורגנין שעושין שומרי גנות ושומרי העיר אין נמדדין עמה מפני שהם עראי ודוקא במקום דשכיחי גנבי או ביש מים ששוטפין אותן (בית יוסף):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 398:7"
+        },
+        "8": {
+          "he": "[ח] [לבוש] ואם יש עליהן תיקרה וכו'. והראב\"ד והרשב\"א פסקו דאין מצטרפין (ריב\"ש ר\"א :",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 398:8"
+        },
+        "9": {
+          "he": "[ט] מאותו חוט וכו'. כפי הדעת שכתב לעיל:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 398:9"
+        },
+        "10": {
+          "he": "[י] [לבוש] כמו שיתבאר. רצה לומר בסעיף ח', אבל אינו כן שרמ\"א לא נתכוין לזה אלא לדלעיל סעיף ד' וכן הוא בטור, גם בריש כיצד מעברין ונסתפקו התוס' והרא\"ש שם באם היו כן הרבה בתים כאילו בזה אחר זה, וכמו שכתבתי בריש זה הסעיף, וגם נסתפק הרא\"ש ברחבה וקצרה בריש סעיף ד' אם נאמר רואין אותה כאילו היה שוה אפילו ארוך העיר ארבע אלפים אמה (מלבושי יום טוב). ומגן אברהם כתב דכן צריך להגיהה ברמ\"א ואם היו בתים כאלו נגד שתי ראשי עיר, ונראה לי כוונתו שאם הרבה בתים יוצאין זה אחר זה עד רחוק מאלפיים מן העיר וכן בצד השני דינה כעיר העשויה כקשת, ונראה לי דכל שכן אם בצד אחד יוצאין בתים עד חוץ לאלפיים אם העיר ארוכה יותר מאלפיים אין מותחין המדה כנגד הבית בצד הכל, ודע דעל כל פנים מותר לילך עד הבית האחרון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 398:10"
+        },
+        "11": {
+          "he": "[יא] וחרבו וכו'. דאז נעשו כשתי עיירות:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 398:11"
+        },
+        "12": {
+          "he": "[יב] וישתמשו וכו'. צריך עיון אם בכל מקום שמשתמשין בני העיר נתחיל למדוד משם (מגן אברהם). ונראה לי להקל דהא בגוף דין זה פליגי רש\"י ורשב\"א:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 398:12"
+        },
+        "13": {
+          "he": "[יג] מפתח בתיהם וכו'. פירוש מבית החיצון והיינו מקיר העיר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 398:13"
+        },
+        "14": {
+          "he": "[יד] [לבוש] שקלה הוא וכו'. משמע אף קבועים במקום אחד, אבל בשבלי הלקט הביאו בית יוסף ומגן אברהם דוקא כשאין במקום אחד אלא יושבין כאן זמן זה ואחר כך הולכין למקום אחר, וכן משמע בעבודת הקודש ורבינו ירוחם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 398:14"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "אריכא וקטינא. פי' שאין רחבה כארכה:",
+          "en": "",
+          "ref": "Magen Avraham 398:1"
+        },
+        "2": {
+          "he": "מן הקשת. וכתב הרב המאירי אותם ששבתו בקשת הולכין כל ריבועו של קשת ועגולו עד ראשי הקשת ומשם ואילך אלפים אמה ע\"כ אבל דרך היתר אסורי' לבוא (רדב\"ז ח\"א ק\"ז) והכי איתא בגמ' דאי בעי הדר ואתי דרך בתים:",
+          "en": "",
+          "ref": "Magen Avraham 398:2"
+        },
+        "3": {
+          "he": "מן המקום. שנתקצר או שלא נשאר מן הקשת עד שם ב' אלפים (טור):",
+          "en": "",
+          "ref": "Magen Avraham 398:3"
+        },
+        "4": {
+          "he": "מן היתר. עמ\"ש ס\"ח דדוקא לחיצונה אבל לא לאמצעי' וצ\"ע למה סתם הטור:",
+          "en": "",
+          "ref": "Magen Avraham 398:4"
+        },
+        "5": {
+          "he": "בית דירה. אף ע\"פ שאין דרין שם:",
+          "en": "",
+          "ref": "Magen Avraham 398:5"
+        },
+        "6": {
+          "he": "על ד\"א. ואם אין בה רוחב ד\"א אף על פי שארוכה כמה לא מקרי בית עסי' שמ\"ה:",
+          "en": "",
+          "ref": "Magen Avraham 398:6"
+        },
+        "7": {
+          "he": "הבנוי בים. שעשוי' לפנות בו כלים שבספינ':",
+          "en": "",
+          "ref": "Magen Avraham 398:7"
+        },
+        "8": {
+          "he": "ומערה וכו'. בגמרא פריך ותיפוק ליה משום בנין ומשני לא צריכא אלא להשלים פי' הבנין והמערה מצטרפין לד\"א ובלבד שיהא רוב הד\"א מן הבנין א\"נ קמ\"ל שמתחילין למדוד מסוף המערה ואיירי שיש בבנין לבד ד\"א (תו') הבורגנין שעושין שומרי גנות ושומרי העיר אין נמדדין עמה מפני שהם עראי ודוקא במקום דשכיח גנבי או גשמים ששוטפין אותו (ב\"י רשב\"א):",
+          "en": "",
+          "ref": "Magen Avraham 398:8"
+        },
+        "9": {
+          "he": "דינם כעיר כו'. צ\"ע דהא כל בית עומד בתוך ע' ולעיל בס\"ד כ' שאם אין בין קשת ליתר אלפים מודדין מן היתר וא\"כ היינו מתעברין עמה לכן נ\"ל דהסופר החליף התיבות וכן צ\"ל אם היו בתים כאלו נגד שני ראשי העיר וכו' וכונתו למ\"ש הרא\"ש שאם הרבה בתים יוצאין זה אח\"ז עד רחוק מאלפים מן העיר וכן בצד הב' דינה כעיר העשויה כקשת וכ\"מ בד\"מ ונ\"ל דכ\"ש אם בצד א' יוצאים בתים עד חוץ לאלפים אם העיר ארוכה יותר מאלפים אין מותחין המידה נגד הבית בצד הב' ודע דעכ\"פ מותר לילך עד הבית האחרון וכמ\"ש ריש הסעיף (ע' ת\"ש):",
+          "en": "",
+          "ref": "Magen Avraham 398:9"
+        },
+        "10": {
+          "he": "ובית שבספינה. דלא קביעא ופעמים שהולכות חוץ לע' אמה:",
+          "en": "",
+          "ref": "Magen Avraham 398:10"
+        },
+        "11": {
+          "he": "בית א' כו'. אא\"כ עומד בתוך ע' לעיר:",
+          "en": "",
+          "ref": "Magen Avraham 398:11"
+        },
+        "12": {
+          "he": "מחומותיה. בגמ' פריך מ\"ש דבעיר כקשת צריך שלא יהא בין קשת לקשת יותר מד\"א והכא אפי' יש בין חיצון לחיצון יותר שרי ומשני התם נמי דוקא לעומדים באמצע הקשת אין מודדים להם אלא מפתח ביתם שא\"א כאלו ביתם נתונות במקום היתר דא\"כ מפסד' להו אידך גיסא וכו' וה\"נ האמצעית אין מודדים לה אלא מחומותיה אלא דוקא לשנים החיצונים הוא דאמר מלי וה\"ה בעיר כקשת אם בני ראש קשת זו באין לילך לצד ראש קשת הא' חשבי' להו כחדא אפי' איכא טובא בין ב' ראשי הקשת ובלבד שלא יהא בין יתר לקשת יותר מאלפי' (תו' ורא\"ש) וא\"כ משמע דאם יש בין ב' החיצונים פחות מד' אלפי' אפי' האמצעית מודדין מהחיצונות כמו בעיר כקשת וצ\"ע דסתם הטור ומיהו אם יש בין חיצון לאמצעי יותר מאלפים בכל ענין אסור דל\"ד לעיר כקשת כיון דליכא בתים בין חיצונית לאמצעית משא\"כ בעיר כקשת עס\"ד:",
+          "en": "",
+          "ref": "Magen Avraham 398:12"
+        },
+        "13": {
+          "he": "וישתמשו. צ\"ע אם בכ\"מ שמשתמשים בני העיר נתחיל למדוד משם:",
+          "en": "",
+          "ref": "Magen Avraham 398:13"
+        },
+        "14": {
+          "he": "מפתח בתיהם. פי' מבית החיצון (מ\"מ):",
+          "en": "",
+          "ref": "Magen Avraham 398:14"
+        },
+        "15": {
+          "he": "באהלים. שאין קבועים במקום א' אלא יושבים כאן זמן מה ואח\"כ הולכים למקום אחר (ש\"ל רש\"י) כ\"מ בגמרא אבל אם קבועים במקום א' הוי כעיר:",
+          "en": "",
+          "ref": "Magen Avraham 398:15"
+        },
+        "16": {
+          "he": "ממקו' ישיבתה. פי' מן הבתים ולא מן החומה אם אין בחומה בית דירה:",
+          "en": "",
+          "ref": "Magen Avraham 398:16"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "אריכא.  פירוש שאין רחבה כארכה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 398:1"
+        },
+        "2": {
+          "he": "שנתקצר.  או שלא נשאר מן הקשת עד שם ב' אלפים. טור:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 398:2"
+        },
+        "3": {
+          "he": "בית דירה.  אע\"פ שאין דרין בה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 398:3"
+        },
+        "4": {
+          "he": "ארבע.  ואם אין בה רוחב ד\"א אע\"פ שארוכה כמה לא מיקרי בית עיין סימן שמ\"ה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 398:4"
+        },
+        "5": {
+          "he": "ומערה.  הבורגנין שעושין שומרי הגנות ושומרי העיר אין נמדדין עמה מפני שהם עראי ודוקא במקום דשכיחי גנבי או גשמים ששוטפין אותן. ב\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 398:5"
+        },
+        "6": {
+          "he": "כעיר.  עיין מ\"א שכתב שיש כאן ט\"ס ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 398:6"
+        },
+        "7": {
+          "he": "בית א'.  אא\"כ עומד בתוך ע' לעיר:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 398:7"
+        },
+        "8": {
+          "he": "מפתח.  פי' מבית החיצון:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 398:8"
+        },
+        "9": {
+          "he": "באהלים.  שאין קבועים במקום אחד אלא יושבין כאן זמן מה ואח\"כ הולכים למקום אחר אבל אם קבועים במקום אחד הוי כעיר. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 398:9"
+        },
+        "10": {
+          "he": "ישיבתה.  פירוש מן הבתים ולא מן החומה אם אין בחומה בית דירה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 398:10"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) אריכא וקטינא - פי' שאין רחבה כארכה:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:1"
+        },
+        "2": {
+          "he": "(ב) ולא לריבוע העולם - היינו שאין עומדת צפונה לצפון העולם ודרומה לדרום העולם אלא באלכסון:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:2"
+        },
+        "3": {
+          "he": "(ג) ארבע זויות שוות - לאפוקי כשהיא רחבה מצד אחד וקצרה מצד אחר אין זה זויות שוות ואין זה ריבוע ומרבעין אותה כמבואר בס\"ד:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:3"
+        },
+        "4": {
+          "he": "(ד) כמות שהיא - היינו באריכא וקטינא אין מוסיפין על רחבה להשוותה לארכה וכן כשאינה מרובעת לריבוע העולם אין מוסיפין עליה לרבע אותה בריבוע העולם כמו בסעיף ג':",
+          "en": "",
+          "ref": "Mishnah Berurah 398:4"
+        },
+        "5": {
+          "he": "(ה) משולשת וכו' מרבעין אותה - שמושכין הריבוע להשוות צד הקצר כפי אורך צד הארוך:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:5"
+        },
+        "6": {
+          "he": "(ו) צלעות רבות - שיש לה ששה זויות או שמונה מושכין החוט לרבעה כנגד המקומות היותר רחבין בה ומהמרובע ואילך מודדין האלפים אמה לכל צד:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:6"
+        },
+        "7": {
+          "he": "(ז) בריבוע העולם - היינו שאינו יכול לעשות הריבוע כמו שירצה אלא דוקא לפי רוחות העולם דרום כנגד דרום וצפון כנגד צפון ומשם ולהלן מודדין האלפים אמה:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:7"
+        },
+        "8": {
+          "he": "(ח) כאלו כולה רחבה - היינו כשבא למדוד התחומין אצל מקום הקצר אין מודדין מן החומה אלא מוסיפין מתחלה על העיר עד שיהא שוה עם מקום הרחב ומשם ולהלן מודדין האלפים אמה:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:8"
+        },
+        "9": {
+          "he": "(ט) כמין גם - הוא אות יונית וצורתה כמין כ\"ף פשוטה:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:9"
+        },
+        "10": {
+          "he": "(י) או כקשת - שבתיה בנויים כחצי עיגול ובין שני ראשיה המקום פנוי:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:10"
+        },
+        "11": {
+          "he": "(יא) פחות מד' אלפים אמה - שתחום ראשה של זו מובלע בתוך תחום ראשה האחר נעשית עיר אחת עי\"ז ורואין כאלו היה מלא בתים במקום החלל ומודדין האלפים מקצות הקשת והלאה:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:11"
+        },
+        "12": {
+          "he": "(יב) מודדין לה מן היתר - יתר נקרא חבל הקשור בשני קצות הקשת ומשם והלאה מודדין האלפים אמה:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:12"
+        },
+        "13": {
+          "he": "(יג) ורואין את כל הרוחב וכו' - וה\"נ לענין עשויה כמין גאם רואין כאלו מלאה בתים בריבוע ממזרח למערב ומצפון לדרום וגם בזה דוקא אם אין בין שני ראשי הגאם באלכסון מזוית לזוית רק פחות מארבע אלפים אמה:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:13"
+        },
+        "14": {
+          "he": "(יד) כאלו הוא מלא בתים - וע\"כ יכול לילך כל החלל שמן ראש הקשת עד היתר ואין עולה לו בחשבון אלפים וכן לענין הרוחב יכול לילך מדרומו של הקשת לצפונו דרך חללו ונותנין לו אלפים אמה שלמים מן צד הצפון והלאה דכל הקשת וחללו רק כד' אמות דמיא:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:14"
+        },
+        "15": {
+          "he": "(טו) אלא מן הקשת - הטעם דכיון דאין מובלעין התחומין זה בזה וא\"א להלך מקצה הקשת האחד לקצה השני ע\"כ א\"א לחשוב החלל בכלל עיר ועולה בתוך שיעור אלפים והסכימו הפוסקים דכ\"ז כשרוצה לילך דרך החלל של הקשת עד היתר ולהלאה אבל מותרים לילך סביב דרך הבתים שבקשת עד קצה הקשת ומשם ואילך מודדין לו אלפים אמה מאחר שהולך הכל בעיר חשיב כולה כד\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:15"
+        },
+        "16": {
+          "he": "(טז) מן המקום וכו' - דס\"ל דאף דבראשי הקשת היה רחב ד' אלפים ויותר אפ\"ה כיון שבאמצע הקשת מתקצר עד שאין בין זה לזה ד' אלפים אמה נחשב עד אותו מקום כאלו מלא בתים ומתחילין למדוד האלפים אף לאותן שדרין בגג הקשת רק מאותו מקום ולהלאה שמשם הולך ומתרחב ליותר מד' אלפים אמה:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:16"
+        },
+        "17": {
+          "he": "(יז) אם אין ביניהם אלפים - אם אין ביניהם אלא אלפים כצ\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:17"
+        },
+        "18": {
+          "he": "(יח) בכל ענין מן היתר - כיון דהיתר מובלע תוך התחום ויכול להגיע אליו מן הקשת רואין כאלו הוא מלא בתים כל החלל ועיין במ\"א שדעתו דלא מהני זה רק להיושבין בראשי הקשת שיהיו יכולין לילך מראש זה לראש אחר אף שהוא יותר מארבע אלפים אבל לא ליושבין בגג הקשת למעלה שימדדו מן היתר אבל האחרונים חולקין עליו ודעתם דמהני גם ליושבין בגג הקשת שימדדו מן היתר התחום שבת. ודע דלכו\"ע מותרים בעלי הקשת לילך אלפים אמה מבתיהם ולמעלה בכל ענין:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:18"
+        },
+        "19": {
+          "he": "(יט) בית דירה - אע\"פ שאין דרין בה [אחרונים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:19"
+        },
+        "20": {
+          "he": "(כ) חוץ מבית דירה זה - פי' שמותחין חוט על כל פני רוחב העיר כנגד בית דירה זו כדי שיהא התחום שוה בכל מקום וכדאיתא לעיל בריש ס\"ד ומשם ולהלן מודדין התחום:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:20"
+        },
+        "21": {
+          "he": "(כא) וכן בכל מקום שמודדין - פי' כשאין שם בית דירה בתוך שבעים אמה נותנין ג\"כ שבעים אמה ושיריים לעיר ואח\"כ מודדין התחום ולדעה ראשונה אין נותנין שבעים אמה ושיריים לעיר אחת כלל ומודדין האלפים מחומתה ורק בשתי עיירות סמוכות נותנין ביניהן קרפיפות כמבואר בס\"ז:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:21"
+        },
+        "22": {
+          "he": "(כב) וכן נראה לי להקל - עיין בביאור הלכה מה שכתבנו בזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:22"
+        },
+        "23": {
+          "he": "(כג) כעיר אחת - שבתיה מפוזרין:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:23"
+        },
+        "24": {
+          "he": "(כד) מחוץ לבית האחרון - אזיל לטעמיה בס\"ה ולרמ\"א שם נותנין בתחלה בסוף בית האחרון שבעים אמה ושיריים ואח\"כ מודדין התחום ולמעשה העיקר בזה כדעת המחבר כמו שכתבנו בבה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:24"
+        },
+        "25": {
+          "he": "(כה) לחזנים - דסתם בית הכנסת לאו לדירה עביד:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:25"
+        },
+        "26": {
+          "he": "(כו) לכהניהם - דלענין הצטרפות לעיבור לא בעינן דוקא דירת ישראל:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:26"
+        },
+        "27": {
+          "he": "(כז) והאוצרות - לתבואה וליין ולשמן ולאו לדירה מקרי הלכך בעינן שיהיה בהן בית דירה לשומרים וכל הנך בית דירה בעינן שיהיה בהן ד\"א על ד\"א [תוספות]:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:27"
+        },
+        "28": {
+          "he": "(כח) שיש בהם בית דירה - לשומר הגשר [ליטול מהם מכם] ובית הקברות:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:28"
+        },
+        "29": {
+          "he": "(כט) ושלש מחיצות וכו' - שהיה שם בית דירה מתחלה ונהרס וה\"ה בכל הני דקחשיב מקודם אם נהרס ונשארו עדיין ג' מחיצות ובלא תקרה או שתים עם תקרה וכדלקמיה:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:29"
+        },
+        "30": {
+          "he": "(ל) הבנוי בים - שעשוי לפנות בו כלים שבספינה לכך נחשב בית דירה וגם זה מיירי שיש בה ד\"א על ד\"א ועומדת בתוך שבעים אמה ושיריים לעיר:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:30"
+        },
+        "31": {
+          "he": "(לא) ושתי מחיצות וכו' - איירי ג\"כ שהיה בית דירה מתחלה ונהרס:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:31"
+        },
+        "32": {
+          "he": "(לב) ומעזיבה - ט\"ס וליתא בגמרא ופוסקים (הגר\"א):",
+          "en": "",
+          "ref": "Mishnah Berurah 398:32"
+        },
+        "33": {
+          "he": "(לג) ומערה שיש וכו' - דאל\"ה אין מערה נחשבת לבית דירה. הבורגנין [סוכות] שעושין שומרי גנות ושומרי העיר לשמור העיר והפירות אין נמדדין עמה ודוקא במקום דשכיחי גנבי דגנבי להו או גשמים ששוטפין אותן הלכך לא חשיבי מידי אבל בעלמא נמדדין עמה. ועיין בשע\"ת דבורגנין אין צריך להיות בהן ד\"א ועיין עוד מה שכתב בזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:33"
+        },
+        "34": {
+          "he": "(לד) ובית שבספינה - דלא קביעא ופעמים שהולכת חוץ לשבעים אמה [רש\"י]:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:34"
+        },
+        "35": {
+          "he": "(לה) שני בתים כאלו נגד העיר - ט\"ס הוא וצ\"ל בתים כאלו נגד שני ראשי העיר וכו'. ור\"ל שאם הרבה בתים יוצאין זה אחר זה עד רחוק מאלפים מן העיר וכן בצד השני דינה כעיר העשויה כקשת והיינו דאם היה בין שני הצדדין ארבע אלפים אמה אין מודדין התחום אלא מעצם העיר ולא מן אלו הבתים וכ\"ש אם בצד אחד יוצאין בתים עד חוץ לאלפים אם העיר ארוכה יותר מארבע אלפים אין מותחין המדה נגד הבית בצד השני. ודע דעכ\"פ מותר לילך עד הבית האחרון כמש\"כ ריש הסעיף:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:35"
+        },
+        "36": {
+          "he": "(לו) וחוצה לה אלפים אמה - ולדעת ההג\"ה בס\"ד נותנין מתחלה ע' אמה ושיריים ואח\"כ האלפים אמה:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:36"
+        },
+        "37": {
+          "he": "(לז) דינו כסתום - ויכול לילך מקצה העיר ועד קצהו ומשם ולחוץ מודדין התחום דכל שאין בהפרצה יותר משיעור שני עיבורים עדיין כעיר אחת היא אבל ביותר מזה נחשב כשתי עיירות נפרדות:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:37"
+        },
+        "38": {
+          "he": "(לח) אבל בית אחד - בין שהוא עומד בפ\"ע ובין שהוא סמוך לעיר ברחוק יותר משבעים אמה ושיריים דבשתי עיירות כה\"ג נחשבין כעיר אחת עד קמ\"א אמה ושליש וכנ\"ל אבל בית אחת אין לה דין עיר. ואם היו שלשה חצרות ובכל חצר שני בתים אז מקרי עיר ליתן לה עיבור [חי' רע\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:38"
+        },
+        "39": {
+          "he": "(לט) אלפים אמה - דיכולין לבוא מהאמצעי לשניהם בלי עירוב לכך אמרינן רואין כאלו האמצעי היה נתון בין שני החיצונים בשורה אחת משא\"כ אם היה רחוק יותר מאלפים אמה אינו מצטרף האמצעי עם שני החיצונים שיהיה עי\"ז כעיר אחת אם לא שהיה בין שני החיצונים רק קמ\"א אמה ושליש שאז אינם צריכין לצירוף האמצעי כלל:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:39"
+        },
+        "40": {
+          "he": "(מ) מלבד רוחב וכו' - ר\"ל דאם נעמיד הכפר האמצעי בין שני החיצונים באמצע לא ישאר ריוח כ\"א קמ\"א אמה ושליש מצד אחד שבין האמצעי לחיצון וכן מצד השני שהוא בס\"ה רפ\"ג אמות פחות שליש:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:40"
+        },
+        "41": {
+          "he": "(מא) כמדינה אחת - ומותר לשנים החיצונים לילך מזה לזה אפילו רחוקים הרבה אחד מחבירו וגם משם ולחוץ אלפים אמה דכעיר אחת חשיבי:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:41"
+        },
+        "42": {
+          "he": "(מב) לכל רוח - ר\"ל אפילו האמצעי מותר לו לילך עד בין החיצונים ומשם ולהלן אלפים אמה ואפילו אם בין שני החיצונים יש ריוח יותר מארבעה אלפים אמה ג\"כ דינא הכי כיון דאם נעמיד האמצעי ביניהם לא ישאר כ\"א קמ\"א אמה ושליש מכל צד:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:42"
+        },
+        "43": {
+          "he": "(מג) דאין מודדין להאמצעי - כצ\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:43"
+        },
+        "44": {
+          "he": "(מד) רק מחומותיה - ר\"ל דלא מהני הסברא דרואין רק לענין שני החיצונים שיהיו כעיר אחת אבל לא לענין אמצעית עצמה וע\"כ מדידת תחומין שלה הוא רק סביב חומותיה לכל צד בלבד וטעמם שאם נראה אותו כמובלע ועומד בין החיצונים יפסיד כ\"כ לרוח השנית שאינה לצד החיצונים ולענין הלכה נקטינן כדעה הראשונה דבד\"ס הלך אחר המקיל ומודדים להאמצעי אלפים מחוץ לחיצונים ואפ\"ה לא הפסיד לרוח השנית:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:44"
+        },
+        "45": {
+          "he": "(מה) מצבה - ר\"ל איצטבא:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:45"
+        },
+        "46": {
+          "he": "(מו) הבנויה בצדה - שע\"י משתמשים בנחל גם כשהיא מלאה ואע\"ג דאין מעברין להעיר אלא בית דירה והנחל הלא אינו ראוי לדירה י\"ל דהתם הוא כשבאין לעבר העיר מפני מקום מסויים שחוצה לו אבל הנחל הזה שהוא לפני כל העיר וראויין להשתמש בו כל בני העיר אע\"פ שאינו ראוי לדירה מעברין בו את העיר [ריטב\"א]. ועיין במ\"א שמסתפק אם בכל מקום שמשתמשים בני העיר נתחיל למדוד משם ועיין בא\"ר שהסכים דאין להקל דגם בנחל גופא דעת כמה ראשונים שחולקין וסוברין דהנחל עולה במדת האלפים והבו דלא להוסיף עלה:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:46"
+        },
+        "47": {
+          "he": "(מז) לא היה שם מצבה - של רוחב ארבע אמות וכ\"ש אם לא היה כלל:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:47"
+        },
+        "48": {
+          "he": "(מח) מפתח בתיהם - פי' מבית החיצון והיינו מקיר העיר:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:48"
+        },
+        "49": {
+          "he": "(מט) שיושבים באהלים - שאין קבועין במקום אחד אלא יושבים כאן זמן מה ואח\"כ כשכלה המרעה הולכים למקום אחר. ואם קבועים במקום אחד הוי כעיר ועיין בפמ\"ג שמסתפק בכמה זמן נקרא קבוע:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:49"
+        },
+        "50": {
+          "he": "(נ) מפתח בתיהם - ר\"ל שאין מצטרפין יחד להיות כעיר אלא מודדין האלפים לכל אחד בפ\"ע מפתח ביתו:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:50"
+        },
+        "51": {
+          "he": "(נא) אם אין להם כמין היקף וכו' - דאם יש להם היקף זה סביב למחניהם נחשב כל השטח כולו כד\"א ומודדין האלפים מסביב ההיקף:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:51"
+        },
+        "52": {
+          "he": "(נב) מחיצה עשרה - ומיירי שישבה ולבסוף הוקף וכדלקמיה:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:52"
+        },
+        "53": {
+          "he": "(נג) ואח\"כ ישבה - ואינה מיושבת כולה עד החומה:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:53"
+        },
+        "54": {
+          "he": "(נד) ממקום ישיבתה - פי' לא ימדוד מהחומה אלא מן הבתים [ולדעת הרמ\"א לעיל בס\"ה נותן לה עוד ע' אמה ושיריים] שהחומה זו אינה חשובה לשוייה כולה כד\"א שלא הוקפה לדירה שנעשית קודם ישיבתה אם לא שיש בחומה בית דירה והיא בתוך ע' אמה ושיריים לישיבת בתי העיר מצטרפת עמה:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:54"
+        },
+        "55": {
+          "he": "(נה) מחומתה - אפילו החומה רחוק הרבה מן הבתים דכיון שהוקפה אח\"כ מקרי הוקף לדירה וכל מה שבתוכה חשיב כד\"א ולדעת הרמ\"א לעיל בס\"ה נותנין לה מתחלה השבעים אמה ושיריים מחוץ לחומה ואח\"כ מודדין לה האלפים:",
+          "en": "",
+          "ref": "Mishnah Berurah 398:55"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

@@ -1,0 +1,880 @@
+{
+  "chelek": "YD",
+  "siman": 98,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 9,
+  "fetchedAt": "2026-07-08T00:01:16.094Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין איסור שנתערב בהיתר ואופן ביטולו. ובו ט' סעיפים: איסור שנתערב בהיתר מין בשאינו מינו כגון חלב שנתערב בבשר יטעמנו עובד כוכבים אם אומר שאין בו טעם חלב או שאומר שיש בו טעם אלא שהוא פגום מותר והוא שלא יהא סופו להשביח וצריך שלא ידע שסומכין עליו ואם אין שם עובד כוכבים לטועמו משערינן בס' וכן אם הוא מין במינו כיון דליכא למיקם אטעמא משערים בס' (ואין נוהגים עכשיו לסמוך אעובד כוכבים ומשערינן הכל בס') (באגור ותשובת מהר\"מ פדואה סימן ע\"ט ושאר אחרונים):",
+      "en": "On the Mixing of Forbidden Food with Permitted Food and DissolutionWhen a forbidden food is mixed with a permitted food of a different nature, for example, when forbidden fat is mixed with meat, the mixture must be tasted by a gentile. If the gentile says that they do not detect the flavor of the forbidden food, or if they do detect it but find it altered, the mixture is permitted, provided that the forbidden food has not subsequently improved the taste of the mixture; but the gentile must not be made aware that their opinion is needed. If there is no gentile to taste the mixture, the permitted food must be sixty times the amount of the forbidden food. The same applies to a mixture of two foods, one forbidden and one permitted, but both of the same nature, making tasting ineffective; in this case, the permitted food must be sixty times the forbidden food.GLOSS: Nowadays it is customary not to have the mixture tasted by a gentile; it suffices to evaluate if the quantity of the permitted food is sixty times that of the forbidden food.",
+      "ref": "Shulchan Arukh, Yoreh Deah 98:1"
+    },
+    {
+      "seif": 2,
+      "he": "אם נתערב מין במינו ונשפך בענין שאין יכולין לעמוד עליו לשערו אם נודע שהיה רובו היתר מותר ואם לא נודע שהיה רובו היתר אסור: הגה ולענין מין במינו אזלינן בתר שמא אם הוא שוה הוי מין במינו אבל לא אזלינן בתר טעמא אם הוא שוה או לא (ב\"י בשם האגור וכן הוא בהגהת ש\"ד סי' ל\"ט): אבל אם נתערב בשאינו מינו ונשפך בענין שאין יכולין לעמוד עליו לשערו אפי' נודע שהיה רובו היתר אסור ואם נתערב במינו ובשאינו מינו ונשפך בענין שאין יכולין לעמוד עליו לשערו ונודע שהיה רובו היתר ממינו רואין את שאינו מינו כאילו אינו והשאר מינו רבה עליו ומבטלו:",
+      "en": "If the mixture is composed of two foods of the same nature and the pot is overturned in such a way that it is impossible to determine if the quantity of the permitted food was indeed sixty times greater than that of the forbidden food, if it was recognized before the accident that the permitted food made up the majority of the mixture, it is permitted; otherwise, it is forbidden.GLOSS: Foods with the same name, although of different forms, are of the same nature; in this case, it is the similarity of name, not taste.If the mixture is composed of two foods of different natures and the pot is overturned, if it is known that the quantity of permitted foods is greater than that of forbidden foods, but it is uncertain if the former outweighs the latter sixty times, the mixture is forbidden. If the mixture consists of foods of the same nature and foods of different natures and the pot is overturned, making it impossible to know if the quantity of permitted foods is sixty times greater than that of forbidden foods, if it is known that the majority of the mixture is composed of permitted foods of the same nature, the mixture is permitted, with the foods of different natures considered dissolved.",
+      "ref": "Shulchan Arukh, Yoreh Deah 98:2"
+    },
+    {
+      "seif": 3,
+      "he": "במה דברים אמורים בשנשפך אבל איסור שנתערב בהיתר והוא לפנינו ואי אפשר לעמוד על שיעורו אף על פי שהוא מאיסורים של דבריהם אסור:",
+      "en": "The above mixture is only permitted in the case of the pot being overturned. But when witnessing the mixing of forbidden foods with permitted foods without being able to evaluate if the quantity of the permitted food is sixty times that of the forbidden food, the use of this mixture is prohibited by rabbinical authority.",
+      "ref": "Shulchan Arukh, Yoreh Deah 98:3"
+    },
+    {
+      "seif": 4,
+      "he": "איסור שנתבשל עם היתר אפי' מכירו והוא שלם וזרקו צריך ששים כנגד כל האיסור מפני שאין אנו יודעים כמה יצא ממנו לפיכך המבשל בקדירת איסור שהיא בת יומא או תוחב כף של איסור בהיתר צריך ס' כנגד כל הקדירה וכנגד כל מה שתחב מהכף שאין אנו יודעין כמה בלעו בין שהם של חרס או עץ או מתכת: הגה ובלבד שבלעו ע\"י רתיחת אש שאז הבליעה הולכת בכל הכלי אבל על ידי רתיחת מליחה אינו נבלע בכלי רק כדי קליפה וא\"צ לשער רק כדי קליפה (מרדכי פכ\"ה ובארוך כלל כ\"ד) וע\"ל סימן ס\"ט: ויש מי שמחמיר בכף של מתכת להצריך ס' כנגד כולו אפי' לא הכניס אלא מקצת משום דחם מקצתו חם כולו: הגה ונוהגין כסברא הראשונה וכל איסור שמבטלים בששים אם מכירו צריך להסירו משם אף על גב דכבר נתבטל טעמו בששים ולכן אם נפל חלב לתוך התבשיל ונתבטל טעמו בששים צריך ליתן שם מים צוננים וטבע החלב להקפיא ולצוף למעלה על המים ויסירנו משם דמאחר דאפשר להסירו הוי כאילו מכירו וצריך להסירו משם (הגהות מרדכי בחולין ובארוך כלל כ\"ג) איסור שנתבטל בקדירה והסירוהו משם ונפל לקדירה אחרת צריך לחזור ולבטלו בששים נגד כולו וכן לעולם אבל אם נפל לקדירה הראשונה ב' פעמים אין צריך רק ששים (פעם) אחת כנגדו (בארוך כלל כ\"ד דין ב') ועיין לעיל סימן צ\"ד:",
+      "en": "When a forbidden food is cooked with a permitted food, or a forbidden food, visible and whole, is thrown out of the pot, the quantity of the permitted food must be sixty times that of the entire forbidden food, as it is impossible to evaluate the degree of flavor imparted to the mixture by the forbidden food. Consequently, when permitted foods are cooked in a pot that, on the same day, was used to prepare forbidden foods, the quantity of foods being cooked must be sixty times the weight of the pot. The same applies when, by mistake, a spoon that was used to prepare forbidden foods is dropped into a pot containing permitted foods; the quantity of the latter must be sixty times greater than the part of the spoon that came into contact with the forbidden foods. Indeed, it is impossible to evaluate the quantity of forbidden food absorbed by the pot or the spoon. The law makes no distinction regarding the material of the pot or the spoon; it does not matter whether these utensils are made of iron, clay, or wood.GLOSS: Sixty times the weight of the pot is only required in the case of absorption by this utensil of forbidden foods subjected to the action of fire. But if the absorption occurs due to salting, the foods being cooked need only be sixty times greater than the quantity obtained by scraping the inside of the pot.One author goes further. If the spoon is made of metal, the cooked food must, according to him, exceed the entire spoon by sixty times, even when only a part has been in contact with the permitted foods, metal being a good conductor of heat.GLOSS: We rely on the first opinion. A forbidden food can dissolve and lose its taste in a quantity sixty times greater of permitted foods; if this forbidden food is visible, it must be removed. Consequently, when a small quantity of forbidden fat falls and loses its taste in hot foods sixty times greater than this quantity, one must pour a little cold water into the pot; the fat naturally rises to the surface and solidifies. It is then considered as a visible food, which must be removed. A forbidden food mixed with a permitted food sixty times greater than the first falls into another pot: the quantity of the permitted food must then be sixty times greater than the forbidden food. If, however, the latter falls twice into the same pot, the permitted food need only be sixty times greater than the forbidden food once. (V. 94.)",
+      "ref": "Shulchan Arukh, Yoreh Deah 98:4"
+    },
+    {
+      "seif": 5,
+      "he": "אם ידוע כמה הוא האיסור כגון כף חדשה או שאינה בת יומא שניער בה ובלעה כזית חלב ואחר כך ניער בה קדרה של בשר אין צריך אלא ס' לבטל הכזית שבלעה (ולא אמרינן גבי כלי חתיכה נעשית נבילה אפילו אם ניערו בו איסור) אבל כף ישנה ובת יומא משערין בכולה (דכל מה שבלע נעשה איסור ולא ידעינן כמה בלע) (שם) ויש מי שאומר שגם בזו אין צריך אלא ס' לבטל הכזית שבלע: הגה והסברא ראשונה עיקר כמו שנתבאר לעיל גבי טיפת חלב שנפלה על הקדרה ויש שאינן מחלקין בין כף ישן לחדש רק בין כלי חרס לשאר כלים (מרדכי פ' ג\"ה) ואומרים דבכלי חרס דאי אפשר להפריד האיסור על ידי הגעלה אמרינן הכלי נעשה נבילה אבל לא בשאר כלים וטוב לחוש לחומרא וע\"ל סימן צ\"ב:",
+      "en": "The quantity of forbidden food is known, for example, a new spoon or any other spoon previously absorbed an amount of milk equal in volume to half an olive: it is then plunged into a pot of meat. In this case, the permitted food in the pot must outweigh the quantity absorbed by the spoon by sixty times. But if the spoon, already old, was used the same day, the weight of the meat must be sixty times greater than that of the entire spoon.GLOSS: The quantity absorbed is unknown; therefore, the entire weight of the spoon is forbidden.It is also claimed that a quantity sixty times greater than the absorbed amount suffices.GLOSS: The first opinion is preferable; it also aligns with paragraph 92, which deals with a small drop of milk falling into a pot of meat. Some authors, according to the law, make no distinction between a new spoon and one that has already been used; this difference would only exist between earthen and metal utensils. According to them as well, it is impossible to completely rid earthenware of forbidden food; consequently, only earthenware and not metal is considered a forbidden utensil. Under these conditions, it is preferable to strictly apply the Law. (See § 92.)",
+      "ref": "Shulchan Arukh, Yoreh Deah 98:5"
+    },
+    {
+      "seif": 6,
+      "he": "כחצי זית של איסור שנתערב בהיתר צריך ששים חצאי זיתי היתר לבטלו:",
+      "en": "A forbidden food the size of half an olive has been mixed with a permitted food. The latter must be sixty times greater than half an olive, the size of the forbidden food.",
+      "ref": "Shulchan Arukh, Yoreh Deah 98:6"
+    },
+    {
+      "seif": 7,
+      "he": "ביצה שיש בה אפרוח או טיפת דם שנתבשלה עם אחרות צריך ששים ואחת לבטל פליטתה:",
+      "en": "When an egg cooked with other eggs contains a small chick or a small drop of blood, they must be sixty-one times greater than the forbidden egg containing the small chick or the small drop of blood.",
+      "ref": "Shulchan Arukh, Yoreh Deah 98:7"
+    },
+    {
+      "seif": 8,
+      "he": "כחל מתבטל בתשעה וחמשים: הגה כל האיסורים הנוהגין בזמן הזה כולם מתבטלים בששים מלבד חמץ בפסח ויין נסך כאשר נתבאר בהלכותיהם (טור) ובלבד שהאיסור אינו נותן טעם בקדירה אבל אם נותן טעם באותה קדירה והוא אסור מצד עצמו אפילו באלף לא בטיל כל זמן שמרגישין טעמו ולכן מלח ותבלין מדברים דעבידי לטעמא אם אסורים מחמת עצמן אינן בטילים בששים (בארוך כלל כ\"ה עיין ס\"ק כ\"ז וע\"ל סוף סימן ק\"ה):",
+      "en": "The udder can be dissolved by a quantity fifty-nine times greater than its own.GLOSS: Nowadays, all forbidden mixtures can be dissolved with a quantity of permitted food sixty times greater than the forbidden food, except for leavened bread during Passover and wine from a gentile, for which the law must be applied; provided that the permitted food has not taken on the flavor of the forbidden food, otherwise, the mixture is forbidden, even if the permitted food is a thousand times greater than the forbidden food. Indeed, a mixture, whatever it may be, is always forbidden if it retains the flavor of the forbidden food. Salt, vegetables, which change the taste of dishes, must therefore be considered insoluble if by their nature they are forbidden.",
+      "ref": "Shulchan Arukh, Yoreh Deah 98:8"
+    },
+    {
+      "seif": 9,
+      "he": "קדירה שיש בה נ\"ט זיתים היתר ונפלו בה ב' זיתים א' של דם וא' של חלב כל א' מצטרף עם הנ\"ט של היתר לבטל חבירו וכן כ\"ט זיתים של היתר שנפל בהם כזית חלב ובקדרה אחרת היו שלשים של היתר ונפל לתוכו כזית של דם ונתערבו בשוגג מותר. (וכ\"ש בב' זיתים אחד של גבינה ואחד של בשר דכל אחד מבטל חבירו) (בארוך כלל ארבעה ועשרים):",
+      "en": "In a pot containing a quantity of permitted foods equal in volume to fifty-nine olives, two forbidden foods, for example fat and blood, both of an olive's volume, fall in. In this case, each forbidden food counts to dissolve the other with the fifty-nine parts of permitted foods and the mixture is permitted. The same applies in the following case: forbidden fat of an olive's volume falls into permitted foods representing in volume twenty-nine olives; in another pot containing permitted foods equivalent in volume to thirty olives, blood of an olive's volume accidentally falls in, then these two quantities are mixed: this mixture is permitted.GLOSS: Indeed, if these two forbidden foods of a volume equal to two olives, the first from meat and the second from cheese, each can dissolve the other.",
+      "ref": "Shulchan Arukh, Yoreh Deah 98:9"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מימר' דרבא חולין דף צ\"ו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 98:1"
+        },
+        "2": {
+          "he": "רמב\"ם בפרק ט\"ו מהמ\"א ואפילו אינו אומן בכך וכמ\"ש הטור בשם הרשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 98:2"
+        },
+        "3": {
+          "he": "מבואר בסימן ק\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 98:3"
+        },
+        "4": {
+          "he": "טור בשם הרשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 98:4"
+        },
+        "5": {
+          "he": "טור בשם ר\"ת וכרבא דאמר מין במינו מדאורייתא ברובו בטל זבחים דף ע\"ט:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 98:5"
+        },
+        "6": {
+          "he": "כדעת ר\"ת דכיון שנתן האיסור טעם בהיתר נהפך כולו להיות איסור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 98:6"
+        },
+        "7": {
+          "he": "שם בשם הרשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 98:7"
+        },
+        "8": {
+          "he": "ב\"י בשם הרשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 98:8"
+        },
+        "9": {
+          "he": "טור בשם הרשב\"א ופירש הר\"ן הטעם דבנשפך שאינו בא אלא באקראי בעלמא אזלינן לקולא ולא בספק ידיעה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 98:9"
+        },
+        "10": {
+          "he": "טור וכ\"כ הרשב\"א מהא דאמרינן גבי כחל מי ידעינן כמה נפק מיניה חולין דף צ\"ז:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 98:10"
+        },
+        "11": {
+          "he": "שם בשם ר' פרץ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 98:11"
+        },
+        "12": {
+          "he": "שם וכ\"כ הרשב\"א בת\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 98:12"
+        },
+        "13": {
+          "he": "שם ושם ופי' ישנה שניער בה באותו יום בהיתר קודם שניער בה החלב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 98:13"
+        },
+        "14": {
+          "he": "הרשב\"א שם בשם הרמב\"ן דס\"ל דלא אמרינן בבלוע חתיכה נעשית נבילה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 98:14"
+        },
+        "15": {
+          "he": "מעובדא דמר בר רב אשי וכו' וכרבי יוחנן דחצי שיעור אסור מן התורה חולין דף ק\"ח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 98:15"
+        },
+        "16": {
+          "he": "ציינתיו לעיל סי' פ\"ו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 98:16"
+        },
+        "17": {
+          "he": "ציינתיו לעיל בסי' צ' בהל' כחל:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 98:17"
+        },
+        "18": {
+          "he": "טור ממשנה ב' פ\"ב דערלה ומימר' דר' יוחנן הפיגול והנותר וכו' זבחים דף ע\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 98:18"
+        },
+        "19": {
+          "he": "הרא\"ש בתשובה מהא דלעיל:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 98:19"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "איסור שנתערב עש\"ך. מדכתב איסור ואלו בב\"ח שניהם היתר נינהו וראב\"ן בסוף עבודת כוכבים סי' שי\"א כתב דשווין בבשר שמן איירי ומה שהראה מקום לאות ו' דשם מבואר דבתר טעמא אזלינן ולא בתר שמא עד ס' והוה ספיקא דאורייתא: דע דשומן וחלב שווין בטעמא כ\"כ הרא\"ש בנ\"ה אהא דרבא מין במינו דליכא למיקם אטעמא כגון חלב בשומן וכ\"כ הצ\"צ סימן מ\"ג דהוה דרבנן ועמ\"ש באות ח'. ולפ\"ז שומן ובשר כחוש אינו מינו עד\"מ שומן נבילה וטריפה ספיקו להחמיר. ובשר שמן עם חלב צ\"ע לדינא אם לצדד ולומר דהוה מינו. ובשר כחוש עם בשר שמן יראה לומר בה\"מ דהוה מינו דשפיר אמרינן רואין כה\"ג ועיין פ\"ת אות א'. עיין ראב\"ן מסכת עבודת כוכבים סימן שי\"א בשר חזיר ובשר פרה אין טעמן שוה ובפתיחה הארכנו אי בשר שור ואיל ועז ומיני עופות החלוקין אי טעמן שוה וצ\"ע לדינא ✍ובב\"ח אף בשר שמן או שומן בחמאה פשיטא דאין טעמן שוה: שמעתי אומרים שהיה שאלה באיזה קהלה שהתיכו יורה גדולה של חמאה ופרח לתוכה עוף ומת שם והיה מבוכה בין הלומדים באשר לא היה ס' נגד העוף. ואני לא אאמין אם היה זה שאלה כי לדעתי פשוט יותר מביעתא בכותחא שהחמאה אסור באכילה ומותר בהנאה כדין בב\"ח עוף המוזכר בסי' פ\"ז ואפי' בשר בהמה כה\"ג יראה בה\"מ כי הא לצדד בהנאה דחמאה הוה דרך טיגון ומדרבנן הוא עין בסולת למנחה כלל פ\"ה בנרות הלב עם החמאה ובמהר\"ם שי\"ף ז\"ל במס' חולין צידד ג\"כ יע\"ש. ואם ספק אי היה ס' ונאבד העוף אפ\"ה אסור מטעם נבילה הוה איסור תורה באכילה. ובגדי שקפץ כה\"ג לחמאה כתבנו. ולחלב כה\"ג יש לעיין לענין האוכל כזית מחלב אי לוקה משום בב\"ח אי הוה ב\"א או עשה דשאין זבוח לא פקע עיין ח\"מ ל\"ד ולעיל סימן י\"ו באו\"ב ואין להאריך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:1"
+        },
+        "2": {
+          "he": "יטעמנו עש\"ך. מ\"ש דהפוסקים והרמב\"ם סוברים עובד כוכבים מסל\"ת מהני אפשר דסברי טכ\"ע דרבנן אגב שאר הפוסקים נקיט הר\"מ ז\"ל דהר\"מ מתיר בסתם עובד כוכבים אפי' אין מסל\"ת דמרתת וטכ\"ע לדידיה וודאי דרבנן לא אפשר כמבואר פט\"ו ממ\"א יע\"ש. ומ\"ש בשם האלוף מהר\"ר גרשון קשה קצת כי מהרא\"י סובר דהרא\"ש תרתי בעי אומן ומסל\"ת דלא כב\"י שכתב דמהרא\"ש אין הכרע כו' וסובר מהרא\"י דקפילא דלא מרעא אומנתו ומסל\"ת היא לחומרא דבעינן ג\"כ מסל\"ת להחמיר וכ\"ת אי מסל\"ת לא שייך מרעא אומנתיה י\"ל דאפ\"ה שייך לא מרעא אומנתיה ואדרבה בב\"י משמע כן שכתב וכיון דמחמת לא מרעא כו' כ\"ש באין מסל\"ת בשם הר\"ן אלמא מיהת במסל\"ת נמי שייך דלא משקר ל\"מ אם מודיעין לו שצריך לענין אחר עד\"מ שאומרים לו שהמרו ב' ב\"א ע\"ז אלא אפילו כך נמי לא מרעא גם מ\"ש אח\"כ דאי לא מרעא לסגי בקפילא לחוד היא הוכחה אחרת דמו\"ל לרא\"ש להחמיר מסל\"ת כיון דגמרא מזכיר קפילא אימא די בלא מרעא לחוד אלא ע\"כ קפילא משום דשאר בני אדם אינם מבחינים הטעם ועיקר שריותא מסל\"ת קשיא כו' וזה סותר למ\"ש מקודם. ואם נאמר מ\"ש הש\"ך וכן משמע מב\"י היינו דרא\"ש עיקר הטעם משום מסל\"ת כמ\"ש שם מ\"מ לא יתיישב הלשון דהרי הוא מסל\"ת: כתב הש\"ך דעל המחבר קשיא מס\"א לס\"ב ובכר\"ו אות ב' תי' דטועם עובד כוככים ואח\"כ טועם ישראל דטעימה לא הוה אלא דרבנן כמ\"ש הריב\"ש רפ\"ח עכ\"ל וי\"ל דטעימה להבחין טעם איסור בעינן טועם ובולע וח\"ש אסור מה\"ת והריב\"ש בטועם ופולט אומר יע\"ש ושפיר הקשה הש\"ך. ומ\"ש די\"א דהיכא דלא איתחזק מסל\"ת נאמן והא דאין נאמן אלא לעדות אשה משום דאיתחזק איסורא דא\"א והקשה דא\"כ מאי פריך משבויה כו' ויש לראות אמאי ל\"ק מה פריך מתרומה וצ\"ל דאיתחזק איסורא שהיה בחזקת ישראל או דרובא לאו כהנים נינהו וא\"כ משבויה למה דס\"ד דהוה דאורייתא יע\"ש והיינו מטעמא דרוב עובדי כוכבים פרוצים הוה רוב מ\"ה א\"כ מקשה שפיר השתא מסל\"ת נגד חזקה לא מהימן כ\"ש נגד רובא דעדיף וע' בספר פני יהושע במס' כתובות י\"ג וכ\"ד דשבויה דרבנן דרוב עוברי כוכבים פרוצים לאו רוב גמור הוה משא\"כ לס\"ד וכדאמרן וע' בר\"מ פח\"י מהא\"ב הי\"ז משמע דשבויה מן התורה וספיקא להחמיר דרבנן כמ\"ש פ\"ט מהל' ט\"מ ולדידן שבויה דרבנן והדברים ארוכים אין עת האסף פה. ולדינא תי' דאיכא למיקם עליה דמלתא מיד סמכינן במסל\"ת דמירתת ועס\"י פ\"ו וזה סותר למ\"ש בשם מחותנו מהר\"ר גרשון דבמסל\"ת שייך מרתת:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:2"
+        },
+        "3": {
+          "he": "והוא שלא יהא. הש\"ך הראה לק\"ג אות ז' דבעודו פגום שרי ולאחר שישביח הוא דאסור ולדינא הפר\"ח שם אות ז' חולק ואוסר בעודו פגום ושם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:3"
+        },
+        "4": {
+          "he": "ואם אין שם. עש\"ך והנה ד' דעות יש. דעת רש\"י תרתי בעינן ס' וקפילא ודעת הרמב\"ן ס' סגי. וקפילא בא\"י כמה היה האיסור סמכינן אקפילא. ור\"י סובר ס' לחוד או קפילא בפחות מס' ואיסור בעין נמי סגי ודעת הר\"מ ז\"ל דעת ד' דבאיכא קפילא צריך קפילא ובין ס' ובין אין ס' משתרי אפומיה וראייה מדכתב בפט\"ו ממ\"א הכ\"ב מין ומינו וד\"א אם הי' ס' מותר שא\"א לעמוד על הטעם משמע דאהיתרא מהדר וה\"ק דאין צריך קפילא דא\"א כו' דאי אאיסורא היל\"ל צריך ס' שא\"א כו' והמחבר משמע כהר\"מ כו'. ומיהו א\"א נוהגין לסמוך על עובד כוכבים להקל ואף להחמיר כשיש ס' א\"א נוהגין להחמיר וה\"ה ספק דרבנן לא חשיב לדידן אפשר לברורי ועמ\"ש באות כ\"ט:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:4"
+        },
+        "5": {
+          "he": "ואין נוהגין עש\"ך. (ט\"ס רי\"ז וצ\"ל רי\"ו) ומ\"מ קפילא ומסל\"ת לא מהני לדידן אבל ישראל אף לאו קפילא ופחות מס' מהני דישראל לא משקר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:5"
+        },
+        "6": {
+          "he": "אם נתערב. עש\"ך האריך וכל האחרונים הסכימו עמו המ\"י והפר\"ח והמ\"כ בס' התערובות דעיקר בתר טעמא אזלינן וכן הלכה. ומ\"ש ביבש שלא במינו בנודע תערובות אסור מ\"ה עס\"י ק\"ט ומ\"ש בפתיחה כיון דמיירי שהרבה מינים וא' נשחט שלא כהוגן א\"כ בטל מ\"ה ובסי' ק\"מ אבאר. ומיהו ברמ\"א י\"ל דה\"ק דבעינן שוה בטעמא ובשמא הא שוה בטעמא ולא בשמא הוי א\"מ וכל זה הרחיקו האחרונים דעיקר תלוי בטעמא ולא בשמא בין להקל ובין להחמיר. ומ\"ש דלמעלה מס' אזלינן בתר שמא וכ\"כ בסי' ק\"ב אות ג' לדשיל\"מ דבתר שמא אזלינן וכ\"כ יש\"ש פכ\"ה פ\"ח ועמ\"ש בק\"ב שם. ובמ\"י כלל ע\"ד אות ג' הקשה מטור שכ\"ג ועיין מ\"ש בפתיחה כאן. ומ\"מ לדינא וודאי כל למעלה מס' בתר שמא אזלינן כרבא ומ\"ש המ\"י מר\"מ פט\"ו ממ\"א ה\"ו אין ראייה דמ\"ש מין במינו דליכא טעמא בס' חוץ מיי\"נ וטבל סתמא כששוה בטעמו שוה בשמא. ועיין בס' פני יהושע סוף ביצה כתב טעם דנפשיה דשיל\"מ במינו לא בטיל דשלא במינו אבד הטעם יע\"ש ומשמע מדבריו דבתר טעמא אזלינן בדשיל\"מ וליתא והטעם מבואר בת\"ח כלל מ' ד\"ו דשלא במינו נקרא האיסור ע\"ש ההיתר והיינו בתר שמא ומכ\"ש לטעם הר\"ן עיין סימן ק\"ב דוגמא דדם הפר וכרבא קיי\"ל דבתר שמא אזלינן לר' יהודה במיגו:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:6"
+        },
+        "7": {
+          "he": "אבל אם נתערב. עש\"ך דבשר עוף בחלב וכדומה נמי ספיקו להקל. ודלא כהר\"ב וט\"ז. וכללא הוא דכל ספק דרבנן הן לא נודע אי היה ס' באיסור דרבנן או ספק אי נפל כלל לקדירה אזלינן לקולא וכ\"כ הצ\"צ סימן ע\"ג ועס\"י קי\"א דלאו דוקא ב' קדירות אלא ה\"ה קדרה א' וא\"י אי נפל שם איסור כלל תולין להקל וה\"ה חלב שחוטה וכדומה. ובשר עוף הר\"ב וט\"ז מחמיר בי' אבל שאר דרבנן כ\"ע מודים להקל. וכ\"כ הפר\"ח אות ט'. וכתב אמונת שמואל סימן כ\"ה קטן או עובד כוכבים ששמו דם וא\"י אם יש ס' שרי דדם שבשלו דרבנן עכ\"ל וכתבנו בהל' מליחה בזה דווקא בכ\"ד אבל כלי שני נהי דמפליט ומבליע אבל אינו מבשל הוה דאורייתא ובסי' ק\"ה וקי\"א אבאר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:7"
+        },
+        "8": {
+          "he": "ואם נתערב. עש\"ך ועט\"ז אות ה' ומ\"ש הש\"ך דהרשב\"א לא התיר אלא מינו אין להקשות כיון דא\"מ אסור איך יתיר מינו דרוטב נבלע בבשר יש לומר חנ\"נ בשאר איסורים דרבנן וא\"כ מים הנבלעים בחתיכה כשירה ליכא איסור תורה עכ\"פ ובדרבנן תולין שיש ס'. ולפי דברי הש\"ך לא משכחת האי דינא אלא בבשר נבילה עם שחוטה ורוטב לא לח בלח שכולו אסור: אמנם ראוי שנעמוד כאן על חקירה אחת קטנה כמו שאגיד. והוא דקיי\"ל חתיכת נבילה שנפלה לחתיכות כשירות עם רוטב אם היה בין הכל ס' שרי והיינו טעמא דרוטב מוליך הטעם בשוה ולא חיישינן שהחתיכה נתנה בחדא טעם יותר מחברתה וכן מיני אסורין שנפלו כ\"א מבטל חבירו עד\"מ נ\"ט זיתי היתר וזית נבילה וזית חלב ממ\"נ אי חיישינן שזית א' נותן טעם לכל הקדירה הרי נחלק טעמו לס' זיתים וכן בחבירו וכ\"ת ששניהם פולטין כל א' זית שלם דבכולי' משערינן אכתי אין טעמם שוה וכ\"א מבטל טעם חבירו משא\"כ שנאמר וודאי דכל חתיכה פולטת זה וודאי אינו דלפעמים מצינו קפילא בעשרים אין בו טעם דלא פלטה כ\"כ וא\"כ לכאורה קשיא טובא איך אמרינן רואין ומאן נימא לן שהחתיכה כשירה פלטה כ\"כ כמו הנבילה וליכא רוב להיתירא במיחל הנפלט מן הנבילה ונהי דכשירה מותר דאי פלטה נבילה ונבלע בכשירה מ\"ה מין במינו ברובא משא\"כ להתיר אינו מינו ויש להעמיס זה ביש\"ש פכ\"ה סימן מ\"ו בדין הד' הביאו הט\"ז דהוה ספיקא דאורייתא וכאמור ולפ\"ז אדרבה לח בלח יותר קיל דהכל שרי דמתערב יפה וליכא טעמא דאיסורא: עיין צמח צדק סימן מ\"ג במצא חלב ושומן ובשר יחד וספק אי נמלח החלב עמו אסור מספיקא דאורייתא ולא שייך רואין דאי אפשר לעמוד על שיעורו יע\"ש לא הבינותי כלל אמאי לא אמרינן רואין בכה\"ג ומה ענין לפנינו וא\"א לעמוד על שיעורו ולפי מ\"ש מקודם שמא אחת פלטה ולא חבירו לא שייך רואין ומ\"ש דהוה ספיקא דאורייתא אבאר בסימן ק\"ח אי מליחה בס' מ\"ה או מדרבנן:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:8"
+        },
+        "9": {
+          "he": "והוא. עש\"ך הביא ב' טעמים ועמ\"ש בט\"ז אות ו':",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:9"
+        },
+        "10": {
+          "he": "איסור כו' אפילו איסור דרבנן ש\"ך וראיה מכחל דרבנן דצריך נגד כולו ואם סומכין אקפילא כה\"ג יבואר באות כ\"ט:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:10"
+        },
+        "11": {
+          "he": "צריך ס' עש\"ך ולפעמים יש ס' בנחושתו דק כמ\"ש בצ\"ג אות א' גם אם ידוע כמה בלעה הקדירה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:11"
+        },
+        "12": {
+          "he": "בין שהם. עש\"ך דלא תדחוק לומר דהמחבר ה\"ק דאין חילוק בין חרס לעץ ומתכות דלרמ\"א יש חילוק בין חרס דחנ\"נ החרס אפילו ידוע כמה בלע איסור ומתכות י\"א חם מקצתו חם כולו לז\"א המחבר דאין חילוק לזה קמ\"ל דאין פשט הלשון משמע כן אלא לאפוקי מסברת הראב\"ד ומתכת אגב סיפא נקיט:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:12"
+        },
+        "13": {
+          "he": "אבל. עש\"ך ועמ\"י שם אות י\"א דאף כלי חרס שאין מנוקב אין מבליע יותר מכ\"ק ואם נשתהה בציר כשיעור שירתיח עס\"י ס\"ט בט\"ז וש\"ך דתלי' בפלוגתא להפרישה דהוה כבוש ואוסר בכולו ולדידהו לא הוה אלא כמליחה לענין כלים ושם התבאר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:13"
+        },
+        "14": {
+          "he": "בכלי. אבל מאכל אוסר בכולו ש\"ך ומשמע בכלי אף שהיה דבר שמן אין מבליע בכלי יותר מכ\"ק ע\"י מליחה כן משמע מסתימת לשון רמ\"א אף דהמעיין במרדכי פכ\"ה תש\"ו דמליחה רק כ\"ק וא\"כ לדידן דמליחה בכולו אפ\"ה פסק הר\"ב דבכלי אין אוסר יותר מכ\"ק א\"כ היה נראה דווקא בכחוש ולא בשמן ואף שא\"א בקיאין מ\"מ לכמה דברים אנו בקיאין לענין בלוע בלא רוטב עס\"י ק\"ה מ\"מ מדסתם משמע דאין לחלק וצ\"ע: עוד יש לעיין אי נאסר כלי ע\"י מליחה או עירוי ואח\"כ עמד ריקן על האש וכלי ישן ב\"י אי אמרינן דמבליע מכ\"ק לכל הכלי ונ\"נ הבלוע וצריך אח\"כ לשער נגד כולו ונהי אם בשלו בו לא אמרינן דנ\"נ כולו כיון שיש ס' נגד הקליפה לא נ\"נ הבלוע דלא הוי מופרד ויש חילוק בין אוכל לכלי עס\"י צ\"ד נתבאר זה היטיב מ\"מ בכלי ריקן המה על האש מפליט ומבליע בכל הכלי ויהיה צריך אח\"כ ס' נגד כולו ועס\"י ס\"ט בש\"ך אות ס\"ג בקערה שמלח ואח\"כ לח צונן לקערה חמה י\"ל דקערה חדשה ר\"ל שלא בישלו בה מעולם וכעת צ\"ע בכל זה ✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:14"
+        },
+        "15": {
+          "he": "ונוהגין כו'. כמ\"ש בצ\"ד ש\"ך ור\"ל אף המחבר סובר סברא א' עיקר וכן כאן דעה ראשונה בסתם ושם ביארנו יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:15"
+        },
+        "16": {
+          "he": "ולכן. הש\"ך הסכים כט\"ז דבפחות מס' לא מהני הסרת החלב והשומן האסור ומ\"ש לק\"ד לא מצאתיו שם מבואר בהסירו שלם וזה מבואר כאן במחבר ואין ראיה לחלב דטבע לצוף מלמעלה ובורח ממשקה ולענין הלכה וודאי צריך פ' ועיין מ\"ש בסימן קכ\"א ס\"א חבית שדבקו בחלב יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:16"
+        },
+        "17": {
+          "he": "או עש\"ך ועיין אות כ\"א: אם היה כאן קדירה אב\"י בלועה ב' זיתי בשר ואח\"כ בלעה זית חלב ובישלו בה דברים חריפים ע' סי' צ\"ה בהג\"ה דבד\"ח לא שייך נ\"ט בר נ\"ט ולא אב\"י א\"כ במאכל זה יש טעם בב\"ח ומה לי התם דאוסר דיעבד בחלב עד ס' ומה לי טעם חלב הנפלט לחריף דלא שייך נ\"ט בר נ\"ט בחריף והוה כטעם אחד ואם יש במאכל ס' נגד זית חלב תו אין צריך דליכא תערובות בב\"ח ואם יש נ\"ט איכא לעיונא ביה ועיין סוף הסימן ב' זיתי כו': אם נאסר כלי ע\"י עירוי או מליחה כ\"ק ובישל במקצת כלי היתר דאם נשער נגד מקום הבישול יש ס' נגד הקליפה ואם נשער נגד הכל אין ס' נגד קליפת כל הכלי מבואר בסימן ס\"ט בש\"ך אות ס\"ג ואם הקדירה כולה חמה צריך ס' נגד כל הקליפה אף במה שלא נגע בתבשיל. ודע כלי שנאסר כולו ע\"י בישול ואח\"כ היתה חמה ריקנית ונתנו צונן לח לתוכו במקצת הכלי א\"צ ששים כ\"א נגד מקום התבשיל שנוגע בכלי ועם כ\"ק מה שנגד מקום הריקן ר\"ל כל שיש במאכל ס' נגד מקום שנוגע בכלי אם נחושתו דק (עס\"י צ\"ד) ויש במאכל ס' גם נגד קליפה במקום הריקן די דאין כלי חם מפליט בלא רוטב רק כ\"ק עס\"י ק\"ה בש\"ך אות כ\"ג ובצ\"ד אות ל\"ב אבל אם בישל במקצת תו הוה ספיקא שמא בישול מפעפע בכל הכלי בין להבליע ובין להפליט עס\"י צ\"ב בש\"ך אות כ\"ב ושם ביארנו דל\"ק מצ\"ד התוחב כף דא\"צ רק מה שתחב דהכף קר הוא יע\"ש ועיין כר\"ו אות ג' בצ\"ד יע\"ש וצריך ס' נגד כל הכלי בכולו ועיין סימן קכ\"א בש\"ך אות י\"ז: יראה לי אם בישל ספק איסור בכלי ואח\"כ בישלו במקצת היתר ויש ס' נגד הקליפה במקום הריקן (אם הכלי כולו חם) יש לצדד ולומר דהוה ס\"ס שמא לא היה כאן איסור ושמא אין בישול מפעפע להבליע ולהפליט ומנה אמינה לה מסימן צ\"ז בש\"ך אות ב' ספק שמא לא זב ושמא לא פעפע בכולו אלמא לספיקא חשיב לה וכאן אנו דנין על התבשיל לא על הקדירה הוה ס\"פ עיין מ\"ש השבות יעקב בח\"ב סימן ק\"ג בעגל פה מיץ יע\"ש ועמ\"ש בקונטריס הספיקות ✍וצ\"ע בכל זה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:17"
+        },
+        "18": {
+          "he": "אפילו. עש\"ך וכוונתו מבואר מדכתב הרב ואפילו ניערו איסור לא אמרינן גוף הכלי נ\"ג משמע הא ישן בלוע הרבה היתר וניער זית איסור נ\"נ הבלוע וזה באין הפסד אבל בהפסד קצת כתב בת\"ח דשרי בשאר איסורין דהרבה סוברים אין חנ\"נ בשאר איסורין וצירוף סברת הרמב\"ן דבלוע כו' ובב\"ח כה\"ג במתכת בעינן ה\"מ דווקא כמו שיתבאר אות כ\"א:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:18"
+        },
+        "19": {
+          "he": "שגם בזו כו' דס\"ל בלוע לא נ\"נ בב\"ח וכ\"ש בשאר איסורים לדידן דמשום לתא דבב\"ח כו':",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:19"
+        },
+        "20": {
+          "he": "כמו שנתבאר. הש\"ך הראה לצ\"ב פ\"ה וכבר התבאר שם וכאן דט\"ח נגד הריקן יש לו כל דין דכאן לחלק בין מתכות וחרס ובין בב\"ח לשאר איסורים:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:20"
+        },
+        "21": {
+          "he": "ויש שאין. עש\"ך פסק דגוף החרס אין עולה על הדעת דנ\"נ (עמ\"ש בצ\"ט) ובמתכות ישן בה\"מ יש לסמוך אף בב\"ח דבלוע לא נ\"נ ובשאר איסורין בהפסד קצת הדין כן דלא נ\"נ ובכ\"ח ישן אף בה\"מ נ\"נ בב\"ח אבל שאר איסורין יראה דעתו דכ\"ח ישן נמי להקל ועמ\"י כלל נ\"א אות ח\"י לא משמע כן אבל מסתימת הש\"ך אות ח\"י משמע כן וצ\"ע:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:21"
+        },
+        "22": {
+          "he": "דבכלי חרס דהיינו כשבלע איסור כו'. ש\"ך והיינו לסברת הר\"ב דגוף החרס נ\"נ אבל הש\"ך גילה דעתו באות כ\"א דגוף החרס לא נ\"נ אפילו באיסור ואפילו בב\"ח כה\"ג עד\"מ קדירה שבלעה זית בשר וזית חלב:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:22"
+        },
+        "23": {
+          "he": "כחצי זית. דח\"ש אסור אלא שאין לוקין עליו ש\"ך וכלשון הזה הוא בלבוש ס\"ו ויותר מגומגם שכתב הלכך דח\"ש אסור מ\"ה צריך ס' והא אף באיסור דרבנן וח\"ש נמי בעינן ס' וכן הלכה ובכה\"ג בהגהות הטור אות ל\"א רצה לעשות פלוגתא בין הט\"ז וש\"ך והבל\"י אות ח\"י העתיק דבריו ואינו גם לא העתיקן בשלימות דווקא במינו אבל שלא במינו בעינן ס' ומיהו ודאי דש\"ך קושטא קאמר ואפילו איסור דרבנן וח\"ש בעינן ס' ואף במינו בלח. והא ליכא למימר דנתן טעם ליבש בא\"מ ח\"ש דאסור מ\"ה דבעינן ס' דאילו מדרבנן לא בעינן ס' כמ\"ש הש\"ך בק\"ט אות ט' זה טעות דהא איפשר למיתי לידי איסור תורה אם יבשלם יתן טעם והיתר נהפך לאיסור והוה שיעור שלם ונהי דאין לוקין על התערובות דמה מצינו מגיעולי גוים אין לוקין אבל שיעור שלם יש עיין מנחת כהן ס' התערובות אלא קושטא קאמר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:23"
+        },
+        "24": {
+          "he": "לבטל. עש\"ך וט\"ס ק\"ה וצ\"ל ק' אות ב' ולענין ביצה שיש בה דם לא הוה בריה וע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:24"
+        },
+        "25": {
+          "he": "כחל. עס\"י צ'. ודווקא כחל אבל שאר איסורין דרבנן בעינן ס' לבד האיסור יע\"ש: עיין לבוש ס\"א כתב כדי אכילת פרס הוה ד' ביצים שלוקה ונ\"מ לעדות עיין סימן ט\"ו ובח\"מ ל\"ד ובאו\"ה הלכות יה\"כ תרי\"ב בא\"ז אות א' כתב די\"א וי\"א הלכה כדעה ב' עס\"י תע\"ה שם תרי\"ח וק\"מ שם ובכללים אי\"ה אבאר שאין זה ברור כי י\"א וי\"א איכא דעות דבדאורייתא לחומרא ובדרבנן להקל וא\"כ לענין פיסול עדות ספיקא הוה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:25"
+        },
+        "26": {
+          "he": "כל האסורים. עש\"ך וכן הלכה דאף איסורין דרבנן ומינו וח\"ש בלח אפ\"ה בעינן ס':",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:26"
+        },
+        "27": {
+          "he": "מלבד חמץ. עש\"ך וכל הדברים ששיעורן יותר מס' הם במינים דוקא ולא שלא במינו מלבד חמץ ודברים החשובים ועיין מ\"ש בפתיחה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:27"
+        },
+        "28": {
+          "he": "אבל. עש\"ך ועיין או\"ח שי\"ח בט\"ז אות ט\"ו לטעמא אי יש זוז\"ג שרי ועס\"י ט\"ז ומ\"ש הט\"ז בא\"ח צ\"ע בדבריו יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:28"
+        },
+        "29": {
+          "he": "אפילו באלף. עש\"ך והפר\"ח אות כ\"ה משמע דחולק ובמ\"ך הביא דעות בזה ולהר\"ן הוה ד\"ת וה\"ה בשאר דברים ביותר מס' אי נרגש טעמו תלוי בפלוגתא זו. ומ\"ש להתיר עובד כוכבים מסל\"ת יש לעיין א\"כ כל איסורין דרבנן אמאי לא סמכינן אעובד כוכבים בזה\"ז ונראה דחוששין לסברת רש\"י ג\"כ ופחות מס' לא מתירין ואף בקדירה באיסור דרבנן אין נוהגין בטעימת קפילא:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:29"
+        },
+        "30": {
+          "he": "ולכן מלחה עש\"ך דתלוי אי שוה בטעמא או לאו ולא תלוי בשמא כיון דהוא יותר מס' ורמ\"א שהחמיר לעיל בפחות מששים יעוין שם:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:30"
+        },
+        "31": {
+          "he": "דעבידי כו'. אפילו איסור דרבנן אם מחמת עצמו אין בטל ש\"ך ולקמן בדיני בריה אבאר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:31"
+        },
+        "32": {
+          "he": "אם אסורים מחמת עצמם. לאפוקי בלועים מאיסור ש\"ך: נסתפקתי בשמים של היתר הבלועים מבשמים של איסור ע\"ז או ערלה מהו מי אמרינן דוקא מלח הבלוע מדם לא חמיר הנאסר יותר מהאוסר מדם עצמו וכמ\"ש בנימין זאב של\"ב דם עצמו בטל בס' כ\"ש המלח משא\"כ בשמים בלועים מבשמים ע\"ז דבשמים ע\"ז אם יש כדי לתבל אפילו באלף אסור א\"כ עכשיו בשמים היתר נ\"נ ויש בהיתר כדי לתבל א\"ד כל שאין איסור מחמת עצמו בטל הוא ויש תבלין לזה דחנ\"נ בשאר איסורין משום לתא דבב\"ח ובב\"ח לא יצויר בו יותר מס' ע\"פ רובא דרובא ועיין מה שכתבנו בסימן ס\"ט בט\"ז אות י\"ט בזה ועמ\"י כלל א' אות ב' וכעת הדבר צריך עיון ועיין מ\"ש בסימן ק\"ה והנה אם נפל חלב לשומן כתב הט\"ז דלא עביד לטעמא גם לו הוה לטעמא היא גופא דרבנן ועיין אות כ\"ט:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:32"
+        },
+        "33": {
+          "he": "כל אחד. עש\"ך וזה אפילו למאן דאמר איסורים אין מבטלין זה את זה מ\"מ ליכא טעמא ועיין בל\"י אות כ\"ו העתיק דברי איסור והיתר אפילו סילק א' מהם והב' נשאר בתוכו שרי וראה כן בכה\"ג שהעתיקה ולא יפה עשה וכבר כתבנו בט\"ז שאינו כן וכ\"כ הפר\"ח באות ל\"ב רק בגבינה ובשר וירקות יצויר זה הדין ואיסור והיתר אפשר לטעמיה אזיל בכלל כ\"ג דבר חריף יבש באינו מינו לא שייך אם יבשלם יתן טעם כיון דהוא בטיל כ\"ש טעמו ה\"ה כאן מה שאין כן לדידן וראיה מדגים סימן ק\"ו וק\"ז ואו\"ה גופא כלל כ\"ו כתב כן. וא\"כ ל\"מ זית נבילה וזית חלב והוסר א' דאסור אלא אפילו זית דם וזית נבילה והוסר א' החלב ודם נתערב יפה אפ\"ה עתה נ\"ט וכאמור:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:33"
+        },
+        "34": {
+          "he": "וכן. עש\"ך אם היה נ\"ט ונפלו ב' זיתי איסור בב\"א שרי אף לדידן ואם סילק א' אסור. ואם בזא\"ז אסור לדידן דנ\"נ ואם ס' זיתי היתר ונפלו ב' זיתי איסור בב\"א וסילק א' שרי דיש ס' היתר וזה אמת ויציב. ואפילו זית איסור וזית ועוד ר\"ל חלק ששים מזית נפל בב\"א שרי ומ\"ש הש\"ך בזא\"ז רבותא קאמר אפילו בזא\"ז לא נ\"נ מאחר דיש ששים היתר וכדאמרן עמ\"ש באות י\"ו שלפני זה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:34"
+        },
+        "35": {
+          "he": "ונתערבו הקדירות בשוגג. אבל במזיד יתבאר דינו בצ\"ט ש\"ך ואף להמחבר באיסור דרבנן מותר להוסיף מ\"מ האיסור משום חלב ועוד מיידי בצונן ולמ\"ש הש\"ך בפ\"ז אות ט\"ו בלא\"ה לק\"מ ולדידן אף איסור דרבנן אסור להוסיף: ודע אם נאמר ספיקא דאורייתא לחומרא מדרבנן א\"כ להמחבר ספק איסור תורה מותר להוסיף ואיך כתב בס\"ב בא\"מ הוה ספק איסור תורה לוסיף עד ששים עתה כיון דלדידיה לית לי' חנ\"נ ועוד חנ\"נ בשאר איסורין דרבנן י\"ל חשש איסור תורה אין מבטלין ודוקא עצים שנשרו דלית דררא דאורייתא ועוד דספק שיכול לברר ע\"י טעימא מ\"ה אסור כמ\"ש בקונטרס הספיקות א\"כ אין ראיה מהמחבר איך סובר ובצ\"מ אבאר ספק איסור תורה אי מבטלין או לאו. ובק\"י אבאר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 98:35"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "כגון. חלב עט\"ז. מדאמר איסור שנתערב בהיתר ע\"כ הכין הוא דחלב בקמץ תרווייהו היתר נינהו. ומ\"ש ראיה מאגור המעיין שם בב\"י יראה דלענין שמא איירי ועמ\"ש בש\"ך אות א' ובש\"ך אות ו' אבאר דעת הט\"ז אי מסכים עמו דבס' בתר טעמא אזלינן או לאו. ומ\"ש ביש\"ש פג\"ה ל\"א ט\"ס וצ\"ל ל\"ב ועיין פתיחה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 98:1"
+        },
+        "2": {
+          "he": "יטעמנו עובד כוכבים עט\"ז. עש\"ך בסימן מ\"ב אות ד' תי' במרה רוב יש טעם מר וגם הרבה פוסקים מכשירים בניטלה המרה. ולפ\"ד ש\"ך שם בכל ספק איסור אסור לטעום בלשונו. והט\"ז מיקל וחילק בין טעימה בלשון דשרי וא\"כ ללחוך הבשר אם נמלח שרי ובתנאי שיקנח הדם מעליו. ולשונו צריך תיקון והוא מ\"ש דלחיכה בלשון במקום ספק שרי משמע הא ודאי איסור אף בלשון אסור ומש\"ה כתב לטעום בשר אם מלוח אם נקי מדם שרי ולא אמרינן שמא אין נמלח ומתוך לחיכה ירגיש טעם דם הנבלע בבשר ויהיה פירש בספק לא גזרו. והיה נראה הטעם דלחיכה בלשון הוה איסור דרבנן ובספק לקולא משא\"כ טעימה אם יש טעם איסור צריך ליתן לתוך פיו והוה איסור תורה אסור אף בספק אלא שבריב\"ש סי' רפ\"ח מבואר דאף בולע ופולט הוה דרבנן ולזה נאמר דכאן בעינן טעימה שיבלע מעט וז\"ש הט\"ז אכילה ממש כו' ומ\"מ קשה מה זה שסיים ובא\"ח מבואר שבלשון אין איסור אלא לתוך פיו ובזה יש חילוק בין איסור לתענית א\"כ משמע דאף בוודאי איסור מותר ללחוך בלשון ויראה דה\"ק דבא\"ח מבואר דבתענית ציבור אסור לטעום ולפלוט משמע הא ללחוך בלשונו מותר אלמא לחיכה קיל מליתן לתוך פיו ובזה יש חלוק ר\"ל לחיכה חלוק בתענית מותר לחיכה בלשון אף בת\"צ ובאיסורין אסור אבל לתוך פיו אף בת\"צ אסור ע\"ש בא\"ח סי' תקס\"ז אף שיש לפרש דברי הט\"ז בע\"א נ\"ל לפרש כמ\"ש. ועמ\"ש פר\"ח סימן מ\"ב אות ה' וא\"ש מ\"ש הט\"ז ממרה דמ\"מ איסור דם איכא נמי התם דטועם קודם צליה עמ\"ש בסימן מ\"ב בש\"ך אות ד': והנה ראוי להזכיר בכאן מ\"ש הריב\"ש ברפ\"ח וז\"ל שאפשר שאין סומכין על קפילה בלא אכילה גמורה יע\"ש נמצינו למידין מדבריו דיטעמנו עובד כוכבים היינו לאכול ולבלוע ובע\"א לפלוט לא מהני ונ\"מ לדידן טעימת ישראל בעינן אכילה ממש עש\"ך אות ה' כאן. ועמ\"ש לעיל בסי' צ\"ה על מ\"ש הצ\"צ בבורית דלק\"מ מחולין קי\"א ע\"ש. ויש לנו הרהורי דברים מ\"ש הריב\"ש שם דטעימה אסורה מדרבנן דלמא יבוא לאכול דאי ד\"ת כמו ח\"ש ליבעי מטעמת ברכה עכ\"ל קשה בברכות י\"ד א' השרוי בתענית יותר לטעום דלא קיבל הנאה מ\"מ ליתסר אטו אכילה. ולזה י\"ל דמיירי בת\"צ מד\"ס דלא גזרינן גזירה לגזירה כמ\"ש בצ\"ה. ומ\"ש ראיה מטעימה א\"צ ברכה הא להר\"מ פ\"א מה\"ב משמע אף בולע פחות מרביעית א\"צ ברכה ומיהו אפשר כתב זה לדידן עי' א\"ח ר\"י. ובהר\"מ יש לדייק בהלכות תענית פ\"א כתב בולע ופולט ואילו בפ\"א מה\"ב כתב מטעמת אף בולע ואין פולט אין מברך פחות מרביעית ואי סובר ע\"כ כדי רביעית קאי אתרוייהו א\"כ בחד גוונא הוא ולזה י\"ל דבתענית קאמר הנאה לא קיבל אלמא בפולט מיירי ובברכות משמע ליה ע\"כ באין פולט דאי פולט אף יותר מרביעית נמי והא כדאיתא כו'. ובלבוש שם א\"ח תקס\"ז במ\"ש י\"ה ד\"ת יש לעיין נודר נמי ד\"ת הוא ולפי שאין דברים אלו ענינים לכאן לא ראיתי להאריך בהם: ובעיקר הדין טעימה במ\"א אי הוה ד\"ת יש לעיין בס\"פ כ\"ה ק\"ג הרי נהנה גרונו כפי הנראה דחיך אוכל יטעם וע\"י טעם למה דווקא כי בלע מחייב הא חזינן דמצטרף בין החניכים לכזית נימא אפי' נתן לפיו ופולט הרי נהנה חכו ועיין פי\"ד ממ\"א בר\"מ וצ\"ע ✍: כתב עוד הט\"ז טעימת עובד כוכבים כו' ודבריו צריכין ביאור. מ\"ש כמ\"ש הראב\"ד שאם עובד כוכבים ט\"ס צ\"ל הר\"מ טועם עובד כוכבים וכן דקדק הב\"י שם. ומ\"ש הט\"ז שם עיקר היתר מסל\"ת לא היה צריך לראיה מב\"י שמבואר כאן בש\"ע וצריך שלא ידע שסומכין עליו ומ\"ש הט\"ז מהרא\"ה הוא בדף ק\"ו ב' וירצה דכאן לא הוי גילוי מילתא דהעובד כוכבים לא מירתת שיוכל להשמט לומר לא הרגשתי בטעם. ומ\"ש דסמך ארש\"י והר\"מ כו' כ\"כ הש\"ך באות ב' ולא ידענא כיון דלחומרא פסק דטכ\"ע ד\"ת אם כן תו מימרא דר\"א בהגוזל מה עביד בי' וי\"ל דמ\"מ חשיב קצת כגילוי מילתא ומ\"ש לתרץ דבאיסורין דע\"א נאמן מהימן נמי מסל\"ת וההוא דב\"ק בממון או שאר דברים דבעי ב' עדים צ\"ע דהא בב\"ק שם מקשה מאיסורין משבויה ותרומה והא ודאי שם בשבויה עכ\"פ ע\"א מהימן ואי לאו שבויה דרבנן לא הוה מסל\"ת מהימן. גם מ\"ש בש\"ע שי\"ו פסק דמסל\"ת לא מהימן היינו אפי' שלא להשביח מקחו ורא\"ש מתיר כה\"ג עיין בכורות ועיין שי\"ו בט\"ז אות ד' ובש\"ך אות ב'. ואין להקשות התם ע\"א אין נאמן דאיכא חזקה י\"ל דלהמחבר איכא חזקה להיפך ולד אין קדוש במעי אמו ואף לדידן בהג\"ה שם דאין חלב פוטר מ\"מ קיימא לן ע\"א נאמן להתיר התם ואי\"ה בס' שושנת העמקים אבאר בזה ובס' גינת וורדים הערנו בזה יע\"ש: בטור כתב כו' זה לשון הטור כתב הרשב\"א אפי' לאו קפילא שכל טעם שאין נרגש לסתם ב\"א אין טעם. ואומן נאמן אפי' אין מסל\"ת דלא מרעא אומנתו ויש מחמירין עד שיהא אומן ומסל\"ת וכ\"כ א\"א הרא\"ש ז\"ל שצריך שלא ידע שסומכין עליו באיסור והיתר והב\"י עשה ע\"ז כלומר שאין בדבריו הכרע רק דבעינן מסל\"ת (ולפ\"ז הביא דברי הרא\"ש לומר דמסל\"ת בעינן ובזה לא פליג הרשב\"א ג\"כ ולאפוקי מסברת הר\"מ ז\"ל דלא בעי מסל\"ת ודוחק) אבל לענין אומן אין הכרע בדבריו עכ\"ל הב\"י משום דקשיא ליה לישנא דטור דהיל\"ל ולזה הסכים הרא\"ש גם לא היל\"ל שצריך כו'. והט\"ז הקשה מדכתב הרא\"ש קפילא פי' נחתום אומן והרא\"ש לאו פרשן הוא אלא פסקן וכן הקשה הדרישה אות ז'. ועמ\"ש בש\"ך אות ב'. והט\"ז תי' דהרא\"ש כיש מחמירין סובר ומה שהאריך הטור שצריך כו' אגב גררא השמיענו חידוש אחר דהאי מסל\"ת אפי' ע\"י שאלה שאומרין לו שב\"א המרו זה בזה אי יש טעם (עיין כר\"ו) כל שא\"י שסומכין באו\"ה שרי משא\"כ בעדות אשה כל שע\"י שאלה אסור ולא מיקרי מסל\"ת רק שיאמר מעצמו עכ\"פ בלי שום שאלה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 98:2"
+        },
+        "3": {
+          "he": "אם נתערב. עט\"ז בכר\"ו אות ח' הקשה ליטעמיה קפילא ותי' זית נבילה וזית שחוטה לירקות ונשפך וא\"י אם היה ס' נגד זית נבילה יע\"ש. הנה מה דפשיטא ליה נסתפקנו בזה בפתיחה דכה\"ג דמחצה או רובו איסור כיון שהטעם נרגש וחיך אוכל יטעם אסור הוא ומיהו ברובו היתר ממינו רואין שפיר כמו שהארכנו בפתיחה. ואף לקמן צ\"ט ס\"ו בהג\"ה ממין איסור הא' משמע הא היתר ממין א' אין ניעור אין ראיה כ\"כ די\"ל דלאו דוקא נקיט וממ\"ש הר\"מ פט\"ו ממ\"א הביאו הב\"י מין במינו וד\"א דמשמע בס' נגד האיסור סגי הוא ז\"ל לשיטתיה דטכ\"ע דרבנן. ואם נאמר שהדין פשוט הוא דדי בס' נגד האיסור על כל זה טעמא לא ידענא כיון דחיך אוכל יטעם וכבר הארכנו בפתיחה ואין להאריך כאן. ואם נשפך ואח\"כ נתרבה בשוגג ויש יותר מס' בא\"מ יש לעיין ביה כיון דחנ\"נ בשאר איסורין דרבנן תו הוה ספק להקל וי\"ל כיון שמתחלה טרם הוסיף הוה ליה ספיקא דאורייתא תו ע\"י גלגול לא הולכין להקל כמו ספק טריפה שנתבשל בכלי אף לאחר מעל\"ע אסור עס\"י ק\"י ובמ\"י בקונטרס הספיקות אות ל\"ג: ואם ספק טריפה יש ספק אי נפל לתבשיל יראה דהוה ס\"ס בגוף א' דעל התבשיל אנו דנין עיין שו\"ת שבות יעקב ח\"ב ק\"ט ואם ודאי נפל אלא שיש ספק אי יש ס' בא\"מ יבואר הכל בסי' ק\"י בעזה\"י: ודע דאיסור דרבנן אף בא\"מ ויש ספק אי היה ס' תולין להקל וכ\"כ הש\"ך באות ז' והאמונת שמואל סי' כ\"ח הביאו. הפר\"ח אות ט' ויראה אף שיש עובד כוכבים אומן אין צריך לברר ונהי דס\"ס כל היכא דאיכא לברורי בקל מבררינן וה\"ה ספק דרבנן כדבעינן למימר קמן בקונטרס הספיקות מ\"מ כיון שא\"א נוהגים כלל לסמוך אעובד כוכבים הוה כלא אפשר לברורי ע' מ\"י בקונטרס הספיקות אות מ\"ה ובכלל נ\"ט אות ח' ✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 98:3"
+        },
+        "4": {
+          "he": "ולענין. עט\"ז הראה מקום לב\"י לכאורה משמע דעתו כהר\"ב דבתר שמא אזלינן וכ\"מ מאות א' ואפשר סובר תרתי בעי שוה בשמא וטעמא הא כל שלא שוה בשמא נמי א\"מ מיקרי ובש\"ך אות ו' אבאר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 98:4"
+        },
+        "5": {
+          "he": "ואם. עט\"ז הסכים להמחבר דאפי' אינו מינו מותר דהטעם הנרגש בא\"מ הוא מעורב מהיתר ואיסור ונתבטל ברוב במינו דהיתר. ומ\"ש הט\"ז שהיה ס' במינו ובסוף מסיים שיש ספק אם היה ס' באינו מינו הכל לאו דוקא אלא אם ספק שיש בין הכל בא\"מ ומינו דהיתר ס' נגד האיסור שרי דבס' בין הכל די מדרבנן כמ\"ש הדרישה אות כ' דבסלק מינו כמי שאינו וא\"מ רבה עליו בעינן בא\"מ ס' לבד מינו משא\"כ רואה א\"מ כאינו ודאי שמצטרף הכל לס' והוא פשוט דמינו סלק דאינו מועיל לבטל אדרבה מחזיקו לר' יהודא מה שאין כן לדידן להיפך פשיטא אם יש בין הכל ששים שרי ועיין מה שכתבתי בסימן ק\"ט בש\"ך אות ד': והנה הדין נחלק לשלשה דרכים כמו שאבאר. הדרך הא' אם בישל מין במינו או\"ה ויש רוב בהיתר ואח\"כ נפל א\"מ היתר לתוכו כ\"ע מודים ר\"ל היש\"ש והש\"ך דהכל שרי כיון דכבר נתבטל מקודם ונעשה היתר גמור ובאם נפל האיסור לא\"מ ואח\"כ נפל מינו דהיתר אף הט\"ז מודה דאסור כל שלא נודע שהיה ס' כ\"פ בנפל ההיתר לא\"מ ואח\"כ נפל האיסור לשם או בב\"א הרשב\"א והמחבר והב\"ח והט\"ז והמ\"י כלל פ\"ה אות מ\"ה מתירין הכל והיש\"ש והש\"ך אות ח' והפר\"ח אות ח' אוסרין ובש\"ך אבאר. ויש לראות אמאי בנפל מן האיסור תחלה לא\"מ נ\"נ ומה בכך כיון דעתה נפל מינו דהיתר רוב סוף סוף ליכא איסור תורה עכשיו לסברת הרשב\"א ונ\"נ בשאר איסורין הוה דרבנן וספיקא לקולא. וכ\"ת דה\"ק דאם נפל בב\"א די בספק שיהא בין הכל ס' משא\"כ כשנפל לא\"מ לא מהני שיהא בין הכל ס' וצריך בא\"מ ס' דאל\"כ חנ\"נ דאין לשון הט\"ז מורה כן. ואולי כה\"ג לא רצה הט\"ז להתיר כיון די\"א חנ\"נ בשאר איסורין הוה מ\"ה ומכל מקום צריך עיון: וראוי שתדע דכ\"ז מיירי בתערובת לח בלח או שם ילקוהו לאיסור קודם שנשפך הא לא\"ה כל שאין עכשיו ס' נ\"ט עתה ואפילו במינו אסור מדרבנן כמבואר סימן ק\"ו וק\"ז וכ\"כ הפרישה אות י\"ז ופשוט הוא: שאלה דשיל\"מ דבמינו לא בטיל אפי' באלף כמבואר סימן ק\"ב אם נתערב במינו תחלה ואח\"כ בא\"מ אם נאמר רואין או לאו. ואם יש לחלק בין ביצה שנולדה ביום טוב אחר שבת לבין יום טוב דעלמא: תשובה הנה קיי\"ל רואין כו' כמבואר מדברי הרשב\"א כאן וכ\"ע מודים בזה דסלק מינו כו' ואף בעבודת כוכבים ע\"ג ב' פליג חזקיה ולית ליה רואין והוא רביה דר\"י (כמבואר בה\"ע) מ\"מ רבא דהו' בתרא סובר בחולין ק' ב' הכין ועיין חולין ק\"ח א' בתוס' ד\"ה דאמר שר' יהודא במנחות כ\"ב סובר כן יע\"ש ובהא לא פליגי רבנן עליה. ועיין בב\"י לקמן סימן קל\"ד במ\"ש רי\"ו שהרי\"ף השמיט הא דנפל קיתון של מים דסובר מצא מין את מינו וניער והב\"י דחה שם אמנם בש\"ע שם סימן קל\"ד סעיף ד' חילק בין יי\"נ גמור דבעינן קיתון מים תחלה ובין סתם יינם כמ\"ש הט\"ז אות ד' והש\"ך אות י\"ט וכ' דבאיסור תורה החמיר ובאיסור דרבנן היקל ואף שביי\"נ נמי ליכא איסור תורה מין במינו כ\"א מדרבנן מ\"מ כיון דעיקר איסור הוה מ\"ה החמיר. א\"כ ה\"ה בנדון דידן אם נתערב דשיל\"מ במינו באופן שיש ששים דלא נ\"נ כי דבר האסור במשהו לא נ\"נ כמבואר סימן צ\"ב בט\"ז אות ט\"ו ובסי' קל\"ד בש\"ך אות י\"ז יע\"ש ואח\"כ נפל לא\"מ ויש ששים בא\"מ לחוד נגד הדשיל\"מ אמרינן רואין והכל שרי ודוקא י\"ט דעלמא הא י\"ט אחר השבת דהוה דאורייתא עיין או\"ח תקי\"ג במ\"א אות א' תו יש לאסור בנפל א\"מ לבסוף דומיא דיי\"נ גמור. ואף שיש לומר שהמחבר בקל\"ד הכריע להחמיר ביי\"נ משום חומרא דע\"ז ואין לדמות שאר איסורים ליה שהרי בספרו הארוך הכריע להקל לגמרי יע\"ש: אמנם כן לא שקר מילי שהרי הר\"מ ז\"ל בפי\"ו ממ\"א הלכה ל\"א ובהלכות תרומות פט\"ו הלכה י\"ז כתב ב' כוסות א' של חולין וא' של תרומה ומזגן ואח\"כ עירבן כו' הרי דבכל איסורין סובר הר\"מ דבעינן דוקא תחלה והב\"ח בקל\"ד ס\"ו כתב דהב\"י דייק לישניה דהר\"מ ז\"ל שכתב יי\"נ והטור כתב יין אסור וסיים דיי\"נ הוא איסור תורה הרי כמ\"ש דכל שעיקרו איסור תורה שוב א\"א אומרים רואין כל שנפל היתר לאיסור מין במינו תחלה וכדאמרן ✍: נספקתי אם נתערבו הרבה מיני עופות יחד שחלוקין בשמן ויש בהן אפרוח שנולד בי\"ט דאסור ע' א\"ח תקי\"ג ס\"ח מהו מי אמרינן סלק מינו כמי שאינו ושאינו מינו רבה עליו ומבטלו עס\"י ק\"ט בש\"ך אות ח' וא\"כ אם יהיה מין עוף א' ב' או ג' מהן וכן מין השני ואחד מהן נולד בי\"ט וא\"י איזה מהמינים וכולם בגדר הספק הן א\"כ אי אמרינן רואין ממ\"נ מותר דדשיל\"מ בא\"מ בטל הוא ובתר שמא אזלין כה\"ג ע' ש\"ך כאן אות ו' ובב\"י בשם מ\"כ ובש\"ך בספרו הארוך (שנדפס ימים לא כביר) ומה שהביאני לזה הוא ממה שראיתי כתוב בהג\"א בעבודת כוכבים ע\"ג וז\"ל רשב\"ם כתב וכן הלכה בכל מין ומין וא\"מ ואינו בעין שהוא דבר לח סלק יע\"ש היטב משמע הא בדבר יבש כה\"ג לא אמרינן כה\"ג סלק וא\"כ כה\"ג דכתיבנא לא יצויר כלל וכלל והבן ולפי שדרכי החכמה נעלמו ממני לא ראיתי להאריך בו ✍: הט\"ז החזיק בפסק הת\"ח דבב\"ח אף בשר עוף גזרינן אטו בהמה משא\"כ מין במינו דאין שם גזירה אטו דאורייתא. תמה במ\"י כלל פ\"ה אות מ\"ו דמין במינו בלח דבעי ששים הוא אטו א\"מ יע\"ש. ובאמת שגם אני תמהתי כן ואף שי\"ל לדידן הטעם דלח בלול הוא ולא דמי ליבש עיין מ\"ש בפתיחה מ\"מ ודאי הטעם ג\"כ אטו א\"מ עס\"י ק\"ט ומ\"מ בגוף הדין הסכים הכה\"ג בהגהות הטור אות י\"ז להט\"ז ויראה דעוף אטו בהמה קיל לטעות שהרי גזרו בה גזירה לגזירה (עמ\"ש בסי' פ\"ח בט\"ז אות א') משא\"כ במין במינו לא גזרינן. ל\"מ לר\"מ ז\"ל דכל ספיקא מ\"ה שריא די\"ל כן אלא אפי' לדידן י\"ל כן והבן. ולפ\"ז בכל ספק שיארע בבשר עוף בחלב אם נפל כלל או ב' קדירות המבואר סימן קי\"א להט\"ז אין תולין אטו בשר בהמה ולהש\"ך באות ז' תולין ויראה בה\"מ המיקל כש\"ך לא הפסיד וכן הסכים הפ\"ת אות ט\"ו והמנחת יעקב שם אות מ\"ו (ויש טעות סופר בדפוס פיורדא יע\"ש):",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 98:5"
+        },
+        "6": {
+          "he": "ואי אפשר כו'. עיין ט\"ז ותוכן כוונתו דהקשה הא ספק דרבנן וספק ספיקא בדאורייתא דין אחד להם (עיין סימן ק\"י) ואם כן כיון דבס\"ס אין מזיק חסרון חכמה הוא הדין בספק דרבנן. ועוד הקשה קושית הב\"י מ\"ש הטור אם לפנינו וא\"א לשער אסור הלכך כחל אסור דהרשב\"א יליף מכחל לספק חסרון חכמה. וע\"ז תי' הט\"ז דודאי יש ב' עניני חסרון חכמה א' שא\"י לשער וא' כחל שאם נאמר במה דנפיק בטל' איסור כחל כי אף שאין בתבשיל רוב נגד הכחל נאמר שלא יצא אלא משהו ויש ס' ועיין ב\"י הביא דברי הר\"ן והש\"ך באות ט' ג\"כ הביאו. והלכך הרשב\"א לשיטתיה דאוסר הגבינות ולא חשיב ס\"ס אף בספק לכל באי העולם שפיר יליף דיניה מכחל אבל הטור דפוסק דספק לכל העולם הוה ספק וע\"כ בכחל טעם הר\"ן יש בו דכ\"א ישער לפי ראות עיניו א\"כ וודאי דלאו מכחל יליף לה ומ\"ש הלכך כחל לדמיון נקטי' כלומר כמו שיש חילוק בין חסרון לכל הדור ובין לאדם א' ה\"ה דיש חילוק בין שיש גבול להאיסור אז שרי באם הספק לכל הדור ובאם שאין גבול כמו כחל דאם נשער במאי דנפיק בטל' תורת כחל כו' ולענין דינא עי' סימן נ\"ג בט\"ז אות ח' ובס\"ס ק\"י דבהפסד מרובה יש להתיר בנשמט ולא בע\"א אף דהו' ספק לכל באי העולם ובקונטרס הספיקות אבאר: ואמנם כן במ\"ש הט\"ז דרשב\"א מש\"ה אין מתיר בסירכא דהוה חסרון חכמה לא זכיתי להבין דברי קדשו דהמעיין בטור וב\"י פ\"א מבואר מטעם דכל שיצאה מחזקה מחיים לא אמרינן אוקי אחזקתה מחמת רובא שהני ראינו עכשיו שאינה מהרוב ואנן מכשירין לה דאמרינן עתה יצאה מהרוב ומקודם בחזקת רובא היתה וכבר התבאר שם באורך וצ\"ע:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 98:6"
+        },
+        "7": {
+          "he": "ולכן. עט\"ז דבעינן ס' ותקנתא מים צוננים לחומרא הוא דהוה כמכירו. וכן הסכים הש\"ך אות י\"ז וכ\"ה בת\"ח כלל פ\"ה דין י\"ז (וט\"ס פ\"ג) וכ\"כ הפר\"ח אות ט\"ו והפ\"ת אות י\"א אף דל\"ד לחתיכה שסילקה וגדולה כבראשונה דאמרינן פלטה ובלעה מהיתר וזה לא שייך בחלב מכל מקום טעם בולע ממנו יע\"ש בפ\"ת ונכון הוא. ולקמן אבאר דין של הב\"ח ז\"ל ובכר\"ו אות ו' היקל כשהמאכל מתקלקל ע\"י צינון כמו לקמן סי' ק\"ב בכלי ע\"י הגעלה יע\"ש. ויש לחלק ביניהן כי כאן הוא כמכיר האיסור. ויש לעיין בחלב לרוטב שומן דאם יצנן יהיה עכ\"פ בשומן היתר רוב נגד החלב ומ\"ה במינו ברוב: כתב הפ\"ת אות ט\"ו בשם הר\"מ ז\"ל שומן איסור ע\"ג יין יקפה השומן וע\"ג ציר כ\"ק מהציר רמב\"ם סוף ה\"ת והבנ\"י אות י\"ד העתיקו. ויראה דהיינו צונן בצונן ולא שהה מעל\"ע הא ברותחין לא גרע מחלב וטעמו אית ביין וצריך ס' עכ\"פ ועס\"י קכ\"א ס\"א בהג\"ה ופ\"ת שם ושם אבאר: ודע דאשכחנא פתרי למ\"ש הב\"ח אף שאין ס' נגד החלב שרי כמו שאגיד באם נפל חלב רותח מהותך למשקה צונן בנפסק הקילוח (ובלא נפסק ע\"י עירוי שהעמוד הקילוח יורד למטה אבאר בסימן ק\"ד גבי עכבר שנמצא בשומן עיין או\"ח שי\"ח סי\"א ובמ\"א אות ל\"ה ולקמן בק\"ד יבואר) דאם נאמר אדמיקר בלע כ\"ק ויש ס' נגד הקליפה או דמותר אפילו באין ס' עס\"י צ\"ב א\"כ לא נימא כיון דנתערב תחלה גוף החלב במשקה צונן ואין במשקה ס' נגד גוף החלב לא שייך חנ\"נ כיון שאפשר להפרידו ע\"י צינון שצף למעלה לא שייך חנ\"נ כה\"ג כמבואר כאן ובדוכתי טובא מידי דהוה אמליחה שבשר תפל שבלע ממקום אחר ואף דממליחה אין ראיה דלא נשאר כלל בתוכו מ\"מ מבואר בהרבה מקומות מאו\"ה כן ומש\"ה בכ\"מ לא שייך נ\"נ עש\"ך כאן אות כ\"א:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 98:7"
+        },
+        "8": {
+          "he": "אם ידוע. עט\"ז. הנה התה\"א והר\"ן פג\"ה והל\"ח פג\"ה אות קי\"ז הביאו מחלוקת הרשב\"א והרמב\"ן כי הרמב\"ן סובר בב\"ח גופא בכלי אין נ\"נ המשל בזה כף בלוע מבשר הרבה ובלע זית חלב ותחב אח\"כ לבשר א\"צ ס' כ\"א נגד זית חלב דבלוע בכלי לא נ\"נ כמו דאמרינן אין טומאה בלועה מטמא טהרה בלועה ה\"ה אין איסור בלוע בכלי (ולא באוכל) אוסר היתר בלוע ולדעתי י\"ל דלא הוה דרך בישול בכך) והרשב\"א חולק ואומר דבלוע בכלי חנ\"נ. ולשון הטור ע\"ש והט\"ז הביאו ומ\"ש הט\"ז עכ\"ל רמ\"א ות\"ח סימן קפ\"ג כו' הוא טעות סופר וכן צריך להיות עכ\"ל הטור ות\"ה סימן קפ\"ג כו' וירצה בזה דהתרומות הדשן סימן קפ\"ג בסופו כתב וז\"ל ובי\"ד נמי כתב והיכא שידוע לנו האיסור שבכף לא נשער נגד כולו עכ\"ל ונתכוין למ\"ש הטור כאן אבל כף ישנה דלא ידעינן כמה בלע הא ידעינן כמה בלע עד\"מ כף בשר ובלע זית חלב בבלוע בכלי לא נ\"נ כסברת הרמב\"ן ז\"ל ומ\"ש בסי' ק\"ז (ומ\"ש ק\"ו ט\"ס) הוציא זבוב בכף י\"א שכף נ\"נ והטור כתב ונראה דאין לחוש דאין לשער אלא נגד הזבוב אלמא דהטור סובר דבכלי לא נ\"נ דא\"ל דהטור הוא לשיטתיה דאין חנ\"נ בשאר איסורין דמ\"מ היה לבאר דלר\"ת דחנ\"נ בשאר איסורין הדין עם הי\"א אלא ש\"מ דס\"ל דבלוע אין נ\"נ כ\"כ הדרישה בסימן ק\"ז אות ו' ועיין דרישה כאן אות כ\"ג וב\"ח אות יו\"ד ועיין הגהות ש\"ד כלל כ\"ה ונ\"ה ופ\"ה. אבל הב\"י סובר שהטור סתם כסברת הרשב\"א והיינו מדכתב הטור כף חדש ולא אמר רבותא טפי כף ישן ובלע זית חלב ש\"מ כרשב\"א סובר וזה שסיים ישן דלא ידעינן כו' ונ\"נ זית שבלע עם מה שבכף בלוע. וזה שהביא בכאן סברא א' בסתם הוא דעת הרשב\"א ויש מי שאוסר הוא דעת הרמב\"ן דבלוע בצלי לא נ\"נ אף בב\"ח וכ\"ש שאר איסורין (דמשום לתא דבב\"ח גזרו) והלכה כדעה א' שהביא בסתם כדרכו כמ\"ש הרמ\"ע עיין בהנהגת או\"ה סימן רמ\"ב וכן סיים רמ\"א דהעיקר כסברא א' כדמוכח מטיפת חלב נגד הריקן דבעינן ס\"א פעמים ס\"א דאלמ' בלוע בכלי נ\"נ וכדבעינן למימר קמן. וא\"כ מ\"ש המחבר אבל כף ישנה וב\"י היינו הרבה פעמים בשר ואח\"כ זית חלב נ\"נ הבלוע בכף ולא ידעינן כמה בשר בלע ומשערין בכולו וכאמור ומ\"ש הר\"ב ולא אמרינן גבי כלי ר\"ל להמחבר אפילו ניערו איסור די\"ל דגוף העץ נ\"נ לא אמרינן כן לכ\"ע במתכות ובחרס יבואר לקמן. ומיהו להמחבר בלא\"ה אין נ\"נ בשאר איסורים וי\"ל דה\"ק אפילו בלע הכף זית בב\"ח לא אמרינן דהכף נ\"נ דבאוכל כה\"ג כיון דבא מבב\"ח כבב\"ח דיינינן לה אף להמחבר ע' סימן צ\"ד בש\"ד אות כ\"ב: אמנם מ\"ש הט\"ז דאין ראיה מט\"ח דשם ג\"כ יש היתר לא הבינותי כלל ושוב ראיתי בנה\"כ כתב עליו לא ידענא מה קאמר דהא שם נגד הריקן אוסר דהבלוע נ\"נ יע\"ש. ועלה בלבי לומר דט\"ס ס\"ד וצ\"ל אות כ' ושם משמע דמנהגא בעלמא הוא ומן הדין מותר ובהפסד מרובה שרינן שם וכן מצאתי במ\"י כלל נ\"א אות ט\"ו ובאמת באו\"ה כלל כ\"ד דין ט' כתב וז\"ל ולא כפי' הסמ\"ק בנפל נגד הריקן דאוסר בס' פעמים ס' אלא מנהגא בעלמא הוא כדלקמן ונתכוון למ\"ש בכלל ל\"א דין ב' וז\"ל שם וז\"ל הא\"ז נפל נגד הריקן אעפ\"י שיש צד היתר נהגו העולם לאסור והיינו אף על פי שאף בכ\"ח לא אמרינן חנ\"נ כדאיתא לעיל מכל מקום נהגו העולם לאסרו ואין להקל עכ\"ל ונתכוין למ\"ש כלל כ\"ד ד\"ט דחזרת הכבשונות מהני יע\"ש ומכל מקום להבין דעת קדושים צריך אני להאריך קצת: דע כי בסימן צ\"ב סהו\"ז משמע לכאורה מהמחבר דודאי נגד הריקן אוסר ס\"א פעמים ס\"א כרשב\"א דכאן ומה שנהגו העולם לאסור היינו אפילו להניח להצטנן שמא עלה פ\"א רתיחה למעלה כמ\"ש הט\"ז שם אות כ' ומה שמתירין בשעת הדחק דלא חיישינן לזה אבל וודאי אם מלאוהו אחר כך כל הקדירה או עירו דרך מקום נפילת הטפה ודאי אוסר עד ס\"א פעמים ס\"א ואם כן שפיר כתב רמ\"א כאן דיש ראיה מט\"ח. אמנם מדכתבו שם בע\"ש יערה דרך אחר שלא במקום נפילה כמ\"ש הט\"ז אות כ\"ג והש\"ך שם אות למ\"ד בשם יש\"ש והבאר הגולה ציין כרבינו יחיאל סמכו להתיר ע\"ש. ואמאי יערה ממקום אחר כיון דחיישינן לפעפוע מההוא דזבחים בישל במקצת כלי כו' וודאי פעפוע בעוגל בכל הקדירה אלא דעיקר ההיתר דאין בלוע בכלי נ\"נ ומש\"ה מתירין בשעת הדחק ולפ\"ז אפילו עירו דרך מקום הנפילה שרי דיעבד ולכתחילה הוא דיערה ממקום אחר בע\"ש אלא שהש\"ך שם באות י\"ט כתב דלערות ממקום אחר חיישינן ע\"י נענוע כו' משמע אפילו לפי סברת הסמ\"ק והטור והמחבר אפ\"ה דרך מקום אחר שרי ולא ידענא דאי מפעפע בכלי כולו ובלוע נ\"נ מה מהני דרך אחר הן אמת שממ\"ש הטור והמחבר שאם יערה דרך מקום הקדירה שנאסר הרי יאסר התבשיל משמע דרך מקום אחר שרי אמנם יש לפרש דה\"ק דכל שמערה דרך הריקן הוה מקום הנאסר אלא יש תקנה לנקוב שולי הקדרה יע\"ש: שוב ראיתי במנחת יעקב כלל נ\"ה אות ח' עמד קצת בזה ותמה מאי מהני שיערה ממקום אחר יע\"ש באופן שלמידין מכאן דהש\"ך לשיטתיה סובר מה שנהגו להקל שם בעת הצורך הוא מטעם דלא חיישינן שמא עלה רתיחה פ\"א כו' ואה\"נ אם עירה דרך מקום ריקן במקום נפילה אפשר דאסור ומש\"ה משיג עליו בנה\"ך והט\"ז סובר דמה שנהגו שם להקל הוא מה\"ט דאין בלוע נ\"נ: ולענין הלכתא אבאר תחלה דברי ת\"ח כלל נ\"א דין ב' ופ\"ה דין א' מפרש במרדכי ב' פירושים אחד דהמרדכי מחלק בין חרס לעץ בישן וה\"ק דבעץ שייך הגעלה או ליבון. ובכ\"מ סמכינן ארמב\"ן דאין בלוע בכלי נ\"נ משא\"כ בכ\"ח דאי אפשר להוריד האיסור הלכה כרשב\"א כאן דבלוע נ\"נ ופי' הב' דודאי בישן אין חילוק דאף עץ ומתכות מה יושיענו הגעלה נהי שיוכל להפריד הבלוע מכלי מ\"מ א\"א להפריד האיסור מהיתר ונ\"נ הבלוע וכי מחלק בין עץ וחרס בחדש דעץ לא נ\"נ גוף העץ כיון דאיפשר להפריד ע\"י הגעלה משא\"כ בחרס גוף החרס נ\"נ ואם כן כף חדש בלע זית איסור צריך לשער נגד כל הכף אם הוא חרס אבל בלע זית חלב עדיין כולו היתר הוא והשתא מ\"ש רמ\"א כאן ויש שאין מחלקין כו' וטוב לחוש לחומרא לפי' האחד במרדכי פליגי י\"א אלו בתרתי א' לקולא בעץ ומתכות אף ישן הבלוע לא נ\"נ וא' לחומרא בחרס חדש נ\"נ גוף החרס וז\"ש שאין מחלקין בין חדש לישן כלל ולפי' הב' פליגי בחדא לחומרא בחדש חרס ולשון שאין מחלקין לא יתיישב דהא יש חילוק בין ישן לחדש בעץ ומתכות וסיים הט\"ז דלדינא אין נ\"מ אי הפי' במרדכי כפי' א' מכל מקום הא סיים רמ\"א וטוב לחוש לחומרא ר\"ל לחומרא נקטינן כמרדכי ולא לקולא וכמ\"ש בת\"ח דכחומר ב' הפירושים נקטינן: והנה דעת יש\"ש פג\"ה ל\"ו והב\"ח ואו\"ה והש\"ך כאן אות כ\"א דאין לחלק בב\"ח לשאר איסורים אלא בין כ\"מ וחרס דמתכות ישן ב\"י הבלוע נ\"נ כסברת הרשב\"א וה\"ה לדידן בשאר איסורים באין ה\"מ אבל בה\"מ שרי במתכות אף בב\"ח ובחרס ישן אף בשאר איסורים נ\"נ הבלוע אף בה\"מ וז\"ש הט\"ז דיש\"ש תרתי בעי רצה לומר חרס ישן הא חרס חדש אין גוף החרס נ\"נ אף בלא ה\"מ וכן מתכות ישן בה\"מ עכ\"פ שרי: אבל דעת רמ\"א בת\"ח כלל צ\"א דין ב' פסק דיש לחלק בין בב\"ח לשאר איסורים דבהפסד שרי בשאר איסורים וכמ\"מ המ\"י שם אות ח\"י דאף ישן וב\"י סמכינן אהרמב\"ן בזה ובב\"ח אסור אף בהפסד יע\"ש ודעת הט\"ז כאן יש לעיין בי' דמתחלה כתב דכ\"ח חדש יש להחמיר כמרדכי דגוף החרס יהיה נבילה ואחר כך כתב בשאר איסורים אין להחמיר כלל ואם כן גוף החרס שאר איסורין הוא גם מלת כלל אין לו פירוש דהת\"ח כתב במקום הפסד דווקא ולכאורה י\"ל גוף החרס שבלע זית בב\"ח כיון דבא מבב\"ח כבב\"ח דיינינן ליה משא\"כ כשבלע שאר איסורין אין להחמיר כלל בגוף חרס חדש הא ישן דווקא במקום הפסד שרי ועדיין צ\"ע ✍: ויצא לנו הדין בטפת חלב נגד הריקן ואח\"כ מלאוה במים גם במקום הריקן וה\"מ יש לחלק בין מתכות לחרס ובין בב\"ח לשאר איסורים ותליא בפלוגתת הט\"ז והש\"ך כאן אות כ\"א ובש\"ך אבאר עוד ועמ\"ש בסימן צ\"ב ואין להאריך יותר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 98:8"
+        },
+        "9": {
+          "he": "כחצי זית. עט\"ז והדין אמת אפילו אד\"ר וחצי שיעור צריך ששים לבד חלת ח\"ל יש דיעות ומ\"מ הראייה מפג\"ה דף צ\"ח לא מוכח מיניה אלא איסור תורה ושיעור דרבנן למה דהוה ס\"ד דח\"ש מדרבנן. ובבאר הגולה כתב דהלכה כר\"י דח\"ש אסור מ\"ה וכ\"ה בלבוש ס\"ו ח\"ש אסור מה\"ת הלכך ח\"ש צריך ס' וכ\"כ הש\"ך אות כ\"ג והא ודאי קשה דהא אפילו איסור דרבנן ומינו וח\"ש אפ\"ה צריך ששים כי לא חילקו חז\"ל והשוו מידותיהן בלח בס' ובש\"ך אות כ\"ג יבואר בזה עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 98:9"
+        },
+        "10": {
+          "he": "צריך ס\"א עס\"י פ\"ו שם נתבאר הטעם לזה ובין בתבשיל ובין טרופה ס\"א אבל טרופה ובתבשיל די בס' יעוין שם:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 98:10"
+        },
+        "11": {
+          "he": "והוא אסור. עט\"ז ודבריו צריכין ביאור. מ\"ש שומן למאכל חלב אין איסור מצ\"ע מה בכך בשלמא מלח הבלוע מדם כיון דנ\"נ בשאר איסורין דרבנן נתנו על המלח כאלו הוא דם משא\"כ בב\"ח כיון שהשומן נרגש בחלב אף ביותר מס' דטעמא לא בטיל שוב ראיתי במ\"י כלל פ\"ה אות ס\"ג הרגיש בזה ועי' או\"ה כלל כ\"ה ד\"ה וח' וכלל מ\"ו דין ד' ועס\"י פ\"ו. וצריך לומר סברת הט\"ז הוא דלטעם מדרבנן לא בטיל כמ\"ש הש\"ך אות כ\"ט מדרבנן ולכן בב\"ח שכ\"א היתר לא גזרו: ועוד י\"ל כיון דחזינן דהתורה דווקא דרך בישול אסרה תורה טעם גמור בעינן. ומיהו שומן שבלע טעם מחלב בפחות מס' וודאי גוף האיסור הוא הוה כמו שומן איסור וראוי הוא שלא לבטל באלף דלטעמא עבידי והביא הט\"ז ראיה מא\"ח דקורא לביצה עביד לטעמיה ואף דשם תרתי בעינן חזותא וטעמא היינו דטעמא לחוד אין אוסר שם דלא גזרו בדשיל\"מ על הטעם ומשום חזותא וטעמא הוה כממשו עס\"י תקי\"ג בא\"ח (יש לעיין בי') מה שאין כן כאן טעם לחוד אוסר. ומ\"ש הט\"ז ואע\"פ שכתב רמ\"א כו' צריך ביאור ויש לפרש דה\"ק דכ\"ז שמרגישין טעמו היינו מסתמא אין בו טעם אף במידי דעביד לטעמא אם כן מותר לטעום התבשיל ואם טועם אחר כך הטעם אסור הוא ואם כן בשומן איסור נמי כן הוא אם יש ס' טועם הישראל ואם יש טעם אה\"נ דאוסר ביותר מס' וביצה בי\"ט כיון דחזותא הוא חיישינן מסתמא שמא יש טעם ואסור לטעום דהוה כממשו של איסור (עס\"י תקי\"ג דבעינן ממשו דווקא וכאן סימן ק\"ב) וכ\"ז דוחק. ולסוף העלה דלא מיקרי דעביד לטעמיה כי אם ד\"ח הא שומן לא מיקרי טעם כו' ולפ\"ז י\"ל כמ\"ש הש\"ך אות כ\"ח דבכל הדברים בסתמא בששים אין בו טעם ואם מרגישין טעמו אסור אף ביותר מס' ולכן מלח ותבלין מסתמא אסור ביותר מס' וביורה גדולה אף מלח שרי וכן הלכתא. ובל\"י אות כ\"ב בשם חידושי הגרשוני אוסר בשומן איסור והוא התיר יע\"ש: ודע דיש לעיין בשומין ובצלים עיין חולין צ\"ז ב' תוס' ד\"ה כל דמשמע פלפלים באלף לא בטל ובצל עכ\"פ ביותר מס' בטל ואם כן אנחנו לא נדע מה לעשות בבצלים ושומין של עובד כוכבים וכיוצא מגוף האיסור דס' עכ\"פ לא מהני וראיתי במ\"י כלל ע\"ד אות ס\"א העיר בזה קצת ובפר\"ח אות כ\"ד כ' דלא נ\"מ יע\"ש וא\"י דודאי אסור לישראל למיטעם ומיהו בעובד כוכבים קפילא או מסל\"ת ביותר מס' יש להקל האידנא וכמ\"ש הש\"ך אות כ\"ט ושם אבאר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 98:11"
+        },
+        "12": {
+          "he": "אינם. בטלים אפי' באיסור דרבנן ט\"ז וכ\"כ הש\"ך באות ל\"א ושם אבאר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 98:12"
+        },
+        "13": {
+          "he": "וכן. עט\"ז דגירסת הש\"ע נכונה דבין הכל נ\"ט וב' זיתי איסור להמחבר דלא נ\"נ די בכך ואין צריך ל' ול'. ונ\"מ לדידן בלח בה\"מ:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 98:13"
+        },
+        "14": {
+          "he": "ונתערבו. עט\"ז וכ\"כ הש\"ך אות ל\"ד ועיין שם:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 98:14"
+        },
+        "15": {
+          "he": "של נבילה. עט\"ז ובזה לדידן נמי כ\"ט ירקות וזית וחלב ול' ירקות וזית בשר ונתערבו אח\"כ שוגג שרי דאין נרגש טעם כ\"א ונ\"נ לא שייך דכ\"א היה היתר כאמור: דע דאם נפל איסור בלול להיתר ויש ס' ונשפך שרי דיש בילה. איסור גוש והסירו ונשפך נמי שרי. הא לא הסירו נותן טעם עתה כשאין ס' וזה פשוט לא ניתן לכתוב מרוב פשיטותו. וכתב הפר\"ח אות ל\"ב ב' זיתי גבינה ובשר לנ\"ט ירקות והסיר א' משם שרי וב' זיתי איסור והוציא א' משם אוסר עתה עכ\"ל וגם זה אמת ויציב דבשר וחלב בשעה שהיו שניהן לא יהיבי טעמא דהוה ס' ונתבטל באין טעם בשר וגבינה כלל ועתה שהסיר עד\"מ הגבינה ונשאר זית בשר היתרא הוא משא\"כ ב' זיתי איסור והוציא א' משם. וזה מבואר יפה בד\"מ אות י' וז\"ל ובארוך כלל כ\"ד ב' זיתי בשר וגבינה לנ\"ט ירקות הואיל ולא נתערבו עד שנפלו לקדירה שרי אפי' נטל אח\"כ א' מהן יע\"ש. הן אמת שבאו\"ה שם דין י' בסופו משמע ב' זיתי איסור וסילק א' מהן ואח\"כ חבירו אין איסור וזה תמוה דהא יהיב טעמא עתה וד\"מ באו\"ה שלפניו לא היה כתוב כן והב' זיתי גבינה ובשר שייך זה. גם שם באו\"ה משמע בפירוש דאם נאסרו גבינה ובשר מקודם נפילתן חשיב גוף א' כיון דמצטרפין למלקות אף שאין טעמן שווין מכל מקום בעינן ס' נגד שניהם ולפ\"ז כ\"ש זית נבילה משור וזית נבילה מעוף או כבש (אם נאמר דאין טעמן שווין) מכל מקום חד איסור הוא צריך ק\"ך זיתים וכבר דברנו מזה בפתיחה וכאן אין להאריך: ומיהו אם נתערבו ב' איסורין המשל בזה זית חלב וזית נבילה עם נ\"ט זיתי בשר כשר עם רוטב וסילקו לחלב ונבילה נשאר בתוכו אלא שאין ניכר בין החתיכות ואין ר\"ל דקודם לזה היה ס' ועכשיו שאין ניכר בטל הוא כדין יבש ברוב חתיכות ועכשיו שאין ס' נגדו הוה כמו בק\"ט ס\"ב דאם נודע התערובות יש להקל במקום הפסד וה\"נ דכוותי'. ועיין בפר\"ח אות ט' בשם הרשב\"א בחידושיו דאם נתערבו יעוין שם והבן. ואם נפל זית גבינה לנ\"ט ירקות והסירו משם ואח\"כ נפל זית בשר לשם אוסר דהא קיבלו הירקות טעם גבינה ועתה טעם בשר ובשלמא אם בב\"א נפלו לא היה נרגש הטעם כלל מה שאין כן בזה אחר זה דודאי אי סילקו הא' אסור אף בשר בחלב וכדאמרן ✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 98:15"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "איסור שנתערב כו' כגון חלב כו'. משמע דהיינו חלב בציר\"ה דהיינו תרבא וכן משמע בטור וא\"כ דעת הט\"ו דטעם חלב ובשר אינו שוה וכן משמע מדברי שאר פוסקים אבל ראב\"ן כ' בתשובה בסי' ב' ובסוף עבודת כוכבים דחלב ובשר טעמם שוה וצ\"ל דמיירי בבשר שמן ועיין בס\"ק ו':",
+          "en": "Forbidden Foods etc. that mix with Fat: We infer that its Fat pronounced with a Zeirei which means fat (not Milk). So this is also implied by the Tur. Tastes of fat and meat are not the same. There is an opinion that is brought down elsewhere that the taste is the same - the answer to that theory is that it's referring to fatty meat. We have a Psak in the following paragraph that food that mixes with unalike foods, as long as the gives taste to the other it becomes prohibited. If so, why would we trust a gentile who speaks without intent? It clearly states in the Gemara that a Gentile who speaks without intent is not trusted in regard to Halachic prohibitions with exception to Testimony regarding a woman. The following is still questionable -",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:1"
+        },
+        "2": {
+          "he": "יטעמנו עובד כובבים כו'. וצריך שלא ידע שסומכין עליו בב\"י פסק דאעובד כוכבים דלאו קפילא (פי' נחתום אומן) סמכינן עליה במסיח לפי תומו דוקא ואקפילא סמכינן אפי' אינו מסיח לפי תומו דלא משקר שלא יפסיד אומנותו ונתבאר לך דכאן מיירי בעובד כוכבים שאינו קפילא ולכך צריך שלא ידע שסומכין עליו ומ\"מ קשיא לי כיון דפסק בס\"ב דמין בשאינו מינו אסור מדאורייתא כל שנותן טעם א\"כ איך יהיה עובד כוכבים נאמן במסיח לפי תומו והלא ש\"ס ערוכה היא בפ' הגוזל בתרא (בבא קמא דף קי\"ד) דאין עובד כוכבים מסל\"ת נאמן באיסור תורה אלא בעדות אשה לבד ופסקוהו בה\"ג והרי\"ף והרא\"ש שם וסמ\"ג בסוף הלכות גרושין (סוף עשין נ') ואע\"פ שמדברי הרמב\"ם ושאר פוסקים משמע ג\"כ דסמכינן אעובד כוכבים דלאו קפילא במסל\"ת מ\"מ אפשר דסברי כרש\"י וסייעתו דמין בשאינו מינו מן התורה בטל ברוב אבל על המחבר קשה וכן קשה על הרשב\"א שגם הוא פסק דמין בשאינו מינו אסור מן התורה עד ס' ופסק דעובד כוכבים דלאו קפילא נאמן במסל\"ת וכדהובא בב\"י שוב מצאתי בתרומת הדשן סי' ע\"ט שהרגיש קצת בזה וכ' ז\"ל דקפילא שאני דאומנותו בכך ולא מרע חזקתו והכי איתא בטור י\"ד דמסקנת הרא\"ש דבעינן תרתי קפילא ומסל\"ת ולא כרשב\"א דסבר דכל חד מהני וא\"ת תיקשי להרשב\"א אמאי מהני מסל\"ת וי\"ל דסבר כרש\"י כו' ותימה שהרי הרשב\"א פסק בהדיא בתה\"א דף ק\"ב ע\"א כר\"ת ע\"ש ודוחק לומר כיון דכ' ומ\"מ לענין פסק הלכה נסמוך על ר\"ת ור\"י ובעל הלכות והראב\"ד ז\"ל שרבים הם ואמרו להחמיר בשל תורה עכ\"ל א\"כ לא פסק כותייהו אלא משום חומרא ומהני סברת המקילים לענין עובד כוכבים מסל\"ת ועוד דבת\"ה הקצר שם סתם לגמרי כסברת ר\"ת ולא הזכיר סברת המקילין (ומחותני האלוף המרומם מהר\"ר גרשון נר\"ו הקשה ג\"כ על הת\"ה דהא הרא\"ש וסייעתו דמצרכי קפילא ע\"כ לאו טעמא משום דלא מרע חזקה דהרי הוא מסל\"ת אלא הטעם הוא משום דאל\"כ מנ\"ל שיודע להבחין בטעם וכן משמע בב\"י וכן הוא בתה\"א דף ק\"ו ע\"ב וא\"כ הדרא קושיא לדוכתא דהא הרא\"ש פסק כר\"ת ופסק דסמכינן אמסל\"ת [ועוד] דע\"כ טעמא הוא משום מסל\"ת לחוד דאי משום דלא מרע אומנתיה ליסגי בקפילא לחוד ודוק) ועוד דעדיין דברי המחבר אינם מיושבים שסתם בחבור זה הפסקים וכן מהרש\"ל פג\"ה סי' ל\"ג פסק דאפי' האידנא סמכינן אעובד כוכבים מסל\"ת אפי' לאו קפילא ובסי' מ\"ו שם הביא מ\"ש הרשב\"א ואמרו להחמיר בשל תורה וכתב עליו ולפי מה שפירשתי הוא בלא חומרא דכך הוא מחוורתא דשמעתא דהוא דאורייתא כו' ע\"ש ויש שהיו רוצים לתרץ דהא דאמרינן בהגוזל דאין עובד כוכבים מסל\"ת נאמן בשאר דברים היינו היכא דאתחזק איסורא משא\"כ הכא דלא ידעינן אי אית ביה טעם כלל ודוחק ועוד דהתם פרכינן עלה מהא דהתירו שבויה על פי קטן מסל\"ת ומשני בשבויה הקילו והשתא מאי פריך הא בשבויה לא אתחזק איסורא ואע\"ג דבריב\"ש סי' תל\"ג כתב על דין דעובד כוכבים מסל\"ת על קנקנים של יין נסך שעברו עליו י\"ב חדשים דאינו נאמן דאף אם נאמר גבי מין בשאינו מינו דסמכינן אעובד כוכבים מסל\"ת אפי' לאו קפילא מכל מקום שאני הכא דאתחזק איסורא דודאי נשתמשו בקנקן ביין של איסור ואתה בא להוציא מכח עדותו מידי ודאי איסורו עכ\"ל ע\"כ צ\"ל דהריב\"ש ס\"ל כרש\"י וסייעתו והלכך באיסור דרבנן (דקנקנים של עובדי כוכבים אינם אסורים אלא מדרבנן וכדלקמן בהל' כלי היין) הוא דיש לחלק בהכי וכמו שמוכרח לחלק בהכי לדעת הרב כמ\"ש בסוף סימן קל\"ז ע\"ש אבל באיסור דאורייתא ודאי א\"א לחלק בהכי וכמו שכתבתי לכך נ\"ל לחלק דדוקא היכא דליכא למיקם עלה דמילתא הוא דאין עובד כוכבים מסל\"ת נאמן באיסור תורה אבל במין בשאינו מינו כיון דאיכא למיקם עלה דמילתא להטעימו לקפילא סמכינן עליה וחלוק זה מוכח בריב\"ש שם ע\"ש וע' בסימן ט\"ז סעיף י\"א ובסימן ס\"ט ס\"י ובסימן קכ\"ב סי\"א ובס\"ס קל\"ז ובמ\"ש שם:",
+          "en": "A Gentile should taste it etc: He mustn't know that we are relied on him to determine the Halachic decision. In the Beis Yosef it was established that Gentiles who are not expert Chefs, we trust when they are speaking without any intent. Regarding someone who is a Chef, even if he is speaking with intent we will trust him because lying could damage his reputation. It's explained that here we are referring in this scenario to someone who is not an expert; Therefore he cannot know that we are taking into account his opinion. The following paragraph it says when one food mixes into another food of a different type (Issur), it makes it forbidden M'daraisah if taste is apparent. \"How do we trust a gentile to determine the Kosher status?\" (The only time a gentile is trusted when speaking nonchalantly is regarding \"Eidut Eisha, the other allowing opinions don't consider taste to be of a biblical standard rather majority being the ruling factor). Theres also a question on the Rashba that hold that biblically it needs to be nullified by 60x. The Rashba believes a gentile who speaks nonchalantly",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:2"
+        },
+        "3": {
+          "he": "והוא שלא יהא סופו להשביח. ע\"ל סימן ק\"ג סוף ס\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:3"
+        },
+        "4": {
+          "he": "ואם אין שם עובד כוכבים לטועמו כו'. משמע דעת המחבר דכשיש שם עובד כוכבים לטועמו לא שרינן אלא ע\"י עובד כוכבים ואי אמר דאיתביה טעם איסור אסור אפי' טפי מס' ואי אמר דלית ביה טעם מותר אפי' בפחות מששים ולא אמרינן לשער בס' אלא היכא דלא אפשר למיקם עלה דמילתא כגון שאין שם עובד כוכבים או מין במינו וכמו שפירש בב\"י דעת הרמב\"ם כן וע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:4"
+        },
+        "5": {
+          "he": "ואין נוהגין עכשיו לסמוך אעובד כובבים כו'. מדלא קאמר ואין נוהגין עכשיו לסמוך אטעימה וקאמר ואין נוהגין עכשיו לסמוך אעובד כוכבים משמע דוקא אעובד כוכבים הוא דלא סמכינן משום דעובד כוכבים הוא אבל אטעימת ישראל סמכינן במין בשאינו מינו דהתירא כגון תרומה שנפל לחולין דטעים לה כהן כדאי' בש\"ס ופוסקים ואף שאין תרומה נוהג בזמנינו מ\"מ נ\"מ לענין האומר קונם בשר ויין שאני טועם ונפל לתבשיל שאסור לו בנ\"ט דסמכי' אטעימת ישראל וכדלקמן סימן רי\"ז ס\"ק כ\"ו א\"נ לענין טעימת בשר או חלב כמו גבי צנון וכה\"ג וכמ\"ש בסמוך וכ\"פ הב\"ח דבשא\"מ דהיתירא יש לסמוך אישראל אפי' אינו אומן אפי' האידנא אפי' בנתערב גוף הדבר דודאי ישראל לא משקר וכן משמע לעיל ר\"ס צ\"ו גבי צנון שחתכו בסכין של בשר וכמ\"ש שם בס\"ק ה' וכן משמע בתשובת הרב סימן נ\"ד דקי\"ט ע\"ג ודלא כהעט\"ז שכ' ועכשיו אין נוהגין לסמוך אטעימת כהן ועובד כוכבים עכ\"ל ואזיל לטעמיה שגם בסימן צ\"ו לא הזכיר טעימת צנון כלל והא ליתא אלא בישראל מהני לעולם טעימה וכמ\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:5"
+        },
+        "6": {
+          "he": "אם נתערב מין במינו. הטעם כתב ר\"ת וכל הפוסקים העומדים בשיטתו דק\"ל טעם כעיקר אסור מדאורייתא במין בשאינו מינו דכיון שנותן האיסור טעם בהיתר נהפך ההיתר להיות כולו איסור ואסור כולו מדאורייתא אבל מין במינו כיון שאינו נותן בו טעם בטל מה\"ת ברוב כדכתיב אחרי רבים להטות אלא שחכמים הצריכוהו ס' והלכך כיון שנודע שהיה רובו היתר ולא נסתפק אלא אם יש שם ס' או לאו ה\"ל ספיקא דרבנן ולקולא משא\"כ כשלא נודע שהיה רובו היתר דה\"ל ספק דאורייתא ואסור אבל מין בשאינו מינו כיון דאסור מה\"ת עד ס' כיון שנ\"ט אפי' נודע שהיה רובו היתר ולא נודע שהיה ס' ה\"ל ספיקא דאורייתא דאסור ובהיות כן תמהני על מ\"ש הרב ולענין מין במינו אזלי' בתר שמא כו' דדעתו אם הוא שוה בשמא אע\"ג דלא שוה בטעמא ה\"ל מין במינו ואסור מדרבנן ואם אינו שוה בשמא אע\"ג דשוה בטעמא ה\"ל מבשא\"מ ואסור מה\"ת וכ\"נ מדברי מהרש\"ל באו\"ש ובספרו פג\"ה ס\"ס ל\"ב והרי מבואר בכל הפוסקים דלהכי מבשא\"מ אסור מה\"ת עד ששים כיון דנ\"ט ולהכי מין במינו דאינו נ\"ט בטל מן התורה ברוב כדאזלינן בכל דוכתי בתר רובא וא\"כ נהפוך הוא דהכל אזלינן בתר טעמא דאם אינו שוה בטעמא אע\"ג דשוה בשמא מ\"מ כיון דנ\"ט בהיתר ונהפך ההיתר להיות כולו איסור אסור מן התורה עד ששים והלכך בנשפך אזלינן לחומרא ואם שוה בטעמא אע\"ג דלא שוה בשמא מ\"מ כיון דלא יהיב טעמא בטיל מן התורה וכדאזלינן בכל דוכתי בתר רובא כדכתיב אחרי רבים להטות והלכך בנשפך אזלינן לקולא ואע\"ג דקי\"ל כרבא פרק בתרא דעבודת כוכבים ס\"ו גבי חמרא חדתא דאזלי' בתר שמא ולא בתר טעמא לענין מין במינו היינו דוקא לענין יי\"נ וטבל שאוסרים במשהו מין במינו וכן לענין תרומה וערלה ששיעורן למעלה מששים במינו והלכך אם הוא שוה בשמא אע\"ג דלא שוה בטעמא ה\"ל מין במינו ואסור במשהו או בק\"א ור\"א ואם אינו שוה בשמא אע\"ג דשוה בטעמא אסור בנ\"ט וכן לר' יודא דאמר בכל האיסורין מין במינו במשהו והלכך בכה\"ג תו ליכא משום טעם כעיקר או אחרי רבים להטות וכן הוא להדיא בתוספות פג\"ה (דצ\"ז ע\"א) ד\"ה אמר רבא כו' ובאשיר\"י וראב\"ן ור\"ן סוף עבודת כוכבים וכל הפוסקים דהך דרבא איירי ביי\"נ וטבל ודכותייהו וא\"כ י\"ל דוקא בהנך אבל לא לדידן בשאר איסורים ולענין נשפך (והגיעו דברי אלה לפני כמה גדולי הדור והסכימו לדברי גם מ\"ו הגאון מוהר\"ר יושיע נר\"ו אמר שדברים ברורים הם) והכי מוכח נמי בדברי מהרא\"י בת\"ה שהבאתי בס\"ק ב' דאל\"כ לא הוי צ\"ל דהרשב\"א סבר כרש\"י ע\"ש ודוק והכי מוכח נמי להדיא בחידושי הרשב\"א דף ק\"ט ובת\"ה הארוך דף ק\"ב ק\"ג ע\"ש וכן מוכח עוד בכמה הוכחות למעיין ומדקדק בדברי התוס' והרא\"ש והרשב\"א והר\"ן ותשובת ראב\"ן אשר התוכח עם ר' אפרים והיא נדפסת בסוף ספר ראב\"ן ושאר כל הפוסקים והכי מוכח נמי בפי' בדברי הרא\"ש פג\"ה במ\"ש וגם מין במינו כו' אע\"ג דלא יהיב טעמא כי חכמים גזרו מין במינו אטו מין בשאינו מינו ומביאו ב\"י בסימן ק\"ט והכי מוכח נמי בפי' בדברי הרא\"ש בסוף הלכות חלה ע\"ש וכן משמע להדיא מדברי הפוסקים שאביא לקמן גבי יבש שלא במינו דצריך ששים משום שאם יבשלם יתן טעם וה\"ל איסורא דאורייתא ע\"ש וזה ברור לדעתי ועיין נמי בס\"ק ח' ואע\"ג דהאגור ושאר קצת אחרונים כתבו ג\"כ בשם א\"ז הך דרבא דאזלינן בתר שמא ולא בתר טעמא אפשר שכתבו כן לרש\"י וסייעתו שפסקו כר\"י דמין במינו לא בטיל וכן משמע לכאורה באגור ע\"ש אי נמי נ\"מ לענין י\"נ כדלקמן סימן קל\"ד וכן לענין שאר תקרובת עבודת כוכבים ומשמשיהן דאסור במשהו במינן א\"נ לענין דבר שיש לו מתירין דלא בטיל במינו דאזלינן בתר שמא ולא בתר טעמא וכמ\"ש לקמן סימן ק\"ב ס\"ק ג' (או אפשר שס\"ל דנ\"מ לענין יבש ביבש וס\"ל הטעם דיבש ביבש לא בטיל כמ\"ש האו\"ה לקמן) והלכך בכל הנך גווני תו ליכא משום טעם כעיקר או אחרי רבים להטות אבל לענין שאר איסורים דאסורים בששים ולענין נשפך בדאורייתא או דרבנן ודאי דהכל תלי בטעמא וכדאמרן גם הב\"ח והעט\"ז נמשכו אחר דברי הרב ולפעד\"נ כמו שכתבתי שוב מצאתי באו\"ה סוף כלל כ\"ג שהאריך בשם הא\"ז בדינים איזו נקרא מין במינו בשמא ודאזלינן בתר שמא ולא בתר טעמא וכ' עליו לבסוף ואנו דקי\"ל דאף מין במינו בדבר לח בששים כדאיתא לעיל אין נפקותא אלא באיסור יבש שנתערב בהיתר ונודע תערובתו קודם בישול שהוא במינו ברוב ושלא במינו בששים עכ\"ל ושם בכלל ההוא כתב בהדיא דקי\"ל כר\"ת דמין במינו בששים מדרבנן ושלא במינו בששים מדאורייתא ונ\"מ אם נשפך עכ\"ל הרי מוכח בהדיא דס\"ל כמו שכתבתי אלא שמ\"ש דנ\"מ לענין יבש ביבש כו' אזיל לטעמיה שכ' שם ד\"ח דאין הטעם דיבש ביבש במינו בטל ברוב ושלא במינו בששים משום דמין במינו אינו נ\"ט כשיתבשלו אבל שלא במינו נ\"ט כשיתבשלו דא\"כ היה מותר ממ\"נ דאי נודע התערובות קודם הבישול היה מותר אף לבשלן יחד לבדו ואי לא ידע בו עד שנתבשלו א\"כ צריך ששים מטעם דהוי איסור לח אלא הטעם דשלא במינו אף בדבר יבש שאינו נ\"ט חמיר יותר לפי שנקרא דבר שיש לו תקנה דיכול קצת להכיר האיסור ולהסירו משם ומ\"מ בטל שפיר בששים דמאחר שהוא ג\"כ מועט ואינו מוצאו נקרא שפיר דבר שאין לו תקנה אבל באמת טעמו דחוק והטעם ברור ומבואר בדברי הרא\"ש פג\"ה והר\"ן שם ובחידושי הרשב\"א שם דק\"ה ריש ע\"ג ובטור סק\"ט בשם סה\"ת וברוקח סי' תע\"ט ובתשובת מהרי\"ל סימן קצ\"ד ורי\"ד דמין בשאינו מינו ביבש צריך ששים דחיישינן שמא יבשלם ויתן טעם וה\"ל איסור דאורייתא ואפילו נודע התערובות קודם הבישול מכל מקום כיון דנ\"ט אחר כך אסור מן התורה וכדאיתא לשם (ומדברי הפוסקים אלו מוכח נמי דאזלינן בתר טעמא ודוק) וכן דעת הרב לקמן סימן ק\"ט ושאר כל האחרונים משא\"כ במין במינו והלכך כיון דבטעמא תליא מילתא גם ביבש אזלינן בתר טעמא וכל זה נלפע\"ד ברור:",
+          "en": "The reasoning: Rabbeinu Tam writes, as well as all those Poskim that follow his line of thought, that we assume Taam Kikar is biblical when the mixture is of two dissimilar items.  Since the the forbidden item imparts flavor into the permitted item the whole dish now transforms into a forbidden item on a biblical level.  However, if the mixture was of two similar items, where no recognizable prohibited flavor is added, then biblically, the prohibited item is negated via majority of permissible flavor because of the dictum of \"Achrei Rabim Lehatot\".  Nevertheless, the rabbis required 60:1 of permissible to prohibited ingredients. It follows, that since it was known that the majority of the dish was made up of permitted food and the unkown variable is only whether there was 60:1 of permitted to prohibited ingredients we can rely on the principle of being lenient in doubtful cases of Rabbinic prohibtions. On the flipside, the mixture of dissimilar ingredient creates a doubtful Biblical prohibition where we follow a stricter set of guidelines making the mixture of ingredients prohibited.     With the above information I am bewildered at what The Rav (Rama) writes concerning how to ascertain whether ingredients are similar or dissimilar; that is: If the ingredients share the same name then we consider then similar regardless if they taste differently.  It would follow that items with similar tastes and different names would create a rabbinically prohibited mixture whereas the inverse set of variables would create a Biblical prohibited mixture.  This opinion also seems to be shared by the Maharshal in his Issur V'Heter and his book at the end of Siman 32.  The issues lies in the fact that according to all poskim a mixture of dissimlar ingredients is Biblically prohibited up to a 60:1 ratio because the taste imparted by the prohibted ingredient is apparent whereas the mixture of two similar ingredients where the flavor of the prohibited ingredient isn't apparent is negated by a majority of permitted ingredients. Seemingly, the deciding factor is flavor of the ingredients, not the name of the ingredients.  Accordingly, eventhough we follow the opinion of Rava, as in the last perek of Avoda Zara 66A, when categorizing the similarity of ingredients by comparing their names as opposed to flavors, it is localized to the cases brought there in the Gemara of yayin nesech and tevel because their prohibitive nature in a mixture is effective with even a minute amount is present (where no flavor of the prohibited item is present and yet the mixture is still prohibited).  Similarly, Terumah and Orlah also prohibit a mixture when their presence is less than 60 parts of the mixture, therefore, the name of the ingredients is the deciding factor not flavor (because less than 60:1 is assumed to not impart flavor). Furthermore, according to R' Yehuda, a mixture of similar items, where one ingredient is permitted and the other is prohibited, in which the prohibited ingredient being any amount, in all cases throughout the Torah, not just localized to Yayin Nesech, Tevel, Orlah and Terumah, create a prohibited mixture, which shows that taste is not the deciding factor in his discussion nor is following the majority.  These points are brought out to bare in Tosfot Perek Gid Hanashe 97A \"Amar Rava\", The Ashiri, The Raavan, The Ran at the end of Avodah Zara, and all the poskim, that Rava is only opining in the specific cases there (Yayin Nesech and Tevel).  Therefore we can qualify Rava to being localized to those cases whereas everywhere else the issue is one of taste and when evaluating whether ingredients are the same or not, we consider their taste, not their names.",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:6"
+        },
+        "7": {
+          "he": "אבל אם נתערב בשאינו מינו כו'. כתוב בת\"ח כלל פ\"ה די\"ג בשם או\"ה כלל ל\"ז דאפילו אם נפל חלב לבשר עוף שהוא דרבנן אפילו הכי אם נשפך אסור הואיל וטעם כעיקר דאורייתא וכ\"פ בסימניו והוא תמוה דהא מ\"מ אפילו עיקר בשר בחלב דעוף גופיה אינו אלא מדרבנן ואם כן הוי ספיקא דרבנן ולקולא והכי מוכח להדיא ממה שהביא הרשב\"א והר\"ן ושאר פוסקים ראיה לאיסור שהוא לפנינו ואי אפשר לעמוד על שיעורו דאין תולין להקל מכחל דאיסורו דרבנן דחלב שחוטה דרבנן ע\"ש ודו\"ק ועס\"ק ט' וכן לקמן סי' קי\"א אמרי' בין באיסור דרבנן בין בשיעור דרבנן תולין להקל אבל המעיין באו\"ה יראה דהרב לא כוון יפה דז\"ל שם דט\"ו אם נשפכו המים שבקדרה לאחר נפילת האיסור וספק אם היה שם ס' מתחלה או לא כתב בסמ\"ק שנוהגין כר\"ת דטעם כעיקר דאורייתא ודנין בספיקו לחומרא ע\"כ ואפילו נפל חלב לתבשיל של בשר עוף דאין חילוק עכ\"ל ור\"ל דאין חילוק דאזיל לטעמיה שכתב בכלל מ' ד\"ו דבשר עוף בחלב הוי דאוריי' ואין חילוק בין בשר עוף לבהמה בכל מילי עכ\"ל וכ\"כ בכמה דוכתי אבל למאי דקי\"ל בר\"ס פ\"ז דבשר עוף בחלב דרבנן פשיטא דתולין כאן להקל וזה ברור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:7"
+        },
+        "8": {
+          "he": "ואם נתערב במינו ובשאינו מינו כו'. באמת צריך עיון בדין זה דהטור בשם הרשב\"א הוציא דין זה ממאי דאמרי' רואין את מינו כאלו אינו להקל ושאינו מינו רבה עליו ומבטלו למאן דאית ליה מין במינו לא בטיל עכ\"ל (וע\"ל סי' קל\"ד ס\"ד) ולא דמי כלל דהתם במינו לאו בנ\"ט אסור הלכך אמרי' רואין את מינו כאלו אינו דהא נתבטל בשאינו מינו אבל הכא איך נאמר רואין את שאינו מינו כאלו אינו סוף סוף השתא נ\"ט בשאינו מינו וא\"כ הוי ספקא דאורייתא דלמא לא היה ס' ונתן טעם וכן השיג מהרש\"ל באו\"ש סי' פ\"ה ובספרו פכ\"ה סי' מ\"ו בדין הרביעי ע\"ז ע\"ש ומ\"ש הב\"ח בזה קשה דמ\"מ מנין להמציא היתר כיון דל\"ד כלל ויש טעם נכון לחלק ביניהם ודו\"ק ונ\"ל דגם הרשב\"א והנמשכים אחריו לא אמרו אלא להתיר את מינו ולאפוקי דלא נימא כיון דהשתא נפל באינו מינו א\"כ ה\"ל ספיקא דאורייתא אלא אמרי' רואין את שאינו מינו כאלו אינו והשאר מינו רבה עליו ומבטלו והיינו דדייק לישנא דוהשאר מינו רבה עליו כו' דהל\"ל ומינו רבה עליו אלא משום דשאינו מינו אסור קאמר דמינו הנשאר רבה עליו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:8"
+        },
+        "9": {
+          "he": "והוא לפנינו וא\"א לעמוד עליו כו'. פי' שעכ\"פ בקיאין אנו שיש בו רוב אלא דאין אנו בקיאין אם יש בו ס' או לא או שאין אנו יודעין כמה איסור נפק מיניה דאז הוי מאיסורים של דבריהם אפ\"ה אין תולין להקל כדקי\"ל גבי כחל לעיל סי' צ' והטעם כתבו הפוסקים דספק התלוי בחסרון ידיעה לא מיקרי ספק דדעת שוטים הוא זה משא\"כ ברישא דבא הספק מכח שנשפך והר\"ן כ' משום דבדבר שא\"א לעמוד עליו אי אזלינן לקולא יהיו כל האיסורים בספק וכל א' ישער במה שנראה בעיניו ולפיכך באו חכמים להשוות מדותיהן אבל במה שאינו בא אלא באקראי בעלמא כגון שנשפך וכה\"ג אזלינן לקולא ע\"כ:",
+          "en": "...And the Poskim write that the reason for this is that a doubt (ספק) that is dependent on a lack of knowledge can not really be considered a doubt (ספק), for this is merely the [faulty] knowledge of stupid people , which is not true of the first case that comes from a doubt (ספק) connected to spilling the substance.",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:9"
+        },
+        "10": {
+          "he": "איסור שנתבשל כו'. אפי' איסור דרבנן וכמ\"ש בס\"ק שלפני זה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:10"
+        },
+        "11": {
+          "he": "צריך ס' נגד כל הקדרה. פי' וא\"כ אסור התבשיל שבקדרה דאין מה שבתוך הכלי ס' נגד הכלי ועיין בסי' צ\"ג ס\"ק א':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:11"
+        },
+        "12": {
+          "he": "בין שהם של חרס כו'. כלומר ולאפוקי סברת הראב\"ד דס\"ל דבעץ ובמתכת כיון דאפשר להפריד האיסור ע\"י הגעלה אין משערין בכולו אלא אומדים אומד יפה כמה יצא ממנו אלא אין חילוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:12"
+        },
+        "13": {
+          "he": "אבל ע\"י רתיחת מליחה כו'. וכתוב בת\"ח ריש כלל פ\"ה בשם או\"ה דה\"ה אם נאסר הכלי ע\"י עירוי א\"צ לשער רק כדי קליפה אבל אם נאסר ע\"י כבישה צריך לשער נגד כולו עכ\"ל ועיין בסימן ס\"ט ס\"ק ס' ובסימן צ\"א ס\"ה בהג\"ה ג' ובמ\"ש שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:13"
+        },
+        "14": {
+          "he": "בכלי. דוקא בכלי אבל בדבר מאכל קי\"ל דנאסר כולו כדלעיל סימן צ\"א ס\"ה ובסימן ק\"ה ס\"ט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:14"
+        },
+        "15": {
+          "he": "ונוהגין כסברא הראשונה. וכמו שנתבאר בס\"ס צ\"ד וע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:15"
+        },
+        "16": {
+          "he": "ולכן אם נפל חלב כו' ונתבטל טעמו בששים כו'. משמע דהיכא דליכא ס' לא מהני נתינת מים צוננים וכ\"כ בת\"ח כלל פ\"ה די\"ז בהדיא וכ\"כ באו\"ה כלל כ\"ג סוף ד\"י בשם ראב\"ן וכן כל הפוסקים לא הזכירו היתר נתינת מים צוננים היכא דליכא ס' אלא ודאי כיון דליכא ס' אע\"פ שנותן מים צוננים מ\"מ מתחלה נפלט טעם האיסור וטעמא לא בטיל במה שמסיר השומן אח\"כ ולא עדיף מאילו נפל חתיכת איסור אע\"פ שמכירו והוא שלם וזרקו צריך ס' נגד כולו וכדכתבו הט\"ו וכל הפוסקי' דלא כהב\"ח שסמך עצמו אהגהת או\"ה להתיר בדיעבד על ידי נתינת מים צוננים אפי' ליכא ס' וע\"ל ר\"ס ק\"ד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:16"
+        },
+        "17": {
+          "he": "או שאינה בת יומא. פי' שהיה של בשר ואינה בת יומא שניער בה כזית חלב דליכא למימר דנ\"נ כיון שהבלוע שבה היא נ\"ט לפגם הלכך אם ניער בה אחר כך קדרה של בשר א\"צ אלא ס' נגד הכזית חלב דלגבי הכלי לא אמרינן חנ\"נ לכ\"ע אפי' ניער בו איסור כיון דהבלוע לא נ\"נ דודאי לא שייך לומר שגוף העץ או מתכת או חרס יעשה נבלה אבל אם ניער בכף אח\"כ חלב פשיטא דמותר בדיעבד שהבשר נטל\"פ אבל כף ישנה של בשר ובת יומא שניער בה כזית חלב או איפכא ונעשה הבלוע בה נבילה בין שניער אח\"כ בה קדרה של בשר או של חלב או של שאר דברים צריך ס' לבטל כל מה שנתחב מהכף בקדרה דלא ידעינן כמה בלע אבל אי ידעינן כמה בלע לא הוה צריך לשער אלא נגד הבשר והחלב כגון אם ניער בה כזית של בשר ואח\"כ ביומו כזית חלב א\"צ אלא ס' נגד הב' זיתים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:17"
+        },
+        "18": {
+          "he": "אפי' אם ניערו בו איסור. מדלא כ' זה בסיפא גבי כף ישן משמע דס\"ל דאף בשאר איסורים חנ\"נ בכלי ישן מיהו היינו דוקא במקום שאין הפסד אבל בהפסד שרי בשאר איסורים בכלי ישן כדמשמע בת\"ח כלל נ\"א ד\"ב ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:18"
+        },
+        "19": {
+          "he": "שגם בזו כו'. דס\"ל דלגבי דבר הבלוע לא אמרי' חנ\"נ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:19"
+        },
+        "20": {
+          "he": "במו שנתבאר לעיל. סי' צ\"ב ס\"ה ועמ\"ש שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:20"
+        },
+        "21": {
+          "he": "ויש שאין מחלקין כו'. מה שנרשם כאן בש\"ע רשב\"א בת\"ה בשם הראב\"ד הוא טעות דהרשב\"א בשם הראב\"ד לא כתב כן אלא דבכלים שיש להם הכשר בהגעלה אפי' לא ידעינן כמה בלע א\"צ לשער נגד כולו אלא לפי אומד דעת מאי דנפיק מיניה וכמ\"ש בס\"ק י\"ב אבל לא מיירי כלל מדין נ\"נ אלא היש מחלקים הוא מ\"ש בת\"ח ריש כלל פ\"ה בשם המרדכי דכ' דבדבר שיש לו הגעלה לא אמרי' ביה חנ\"נ כיון דאפשר להפריד האיסור משם ע\"י הגעלה ומ\"מ נראה דדוקא בכלי ישן קאמר הכי אבל בכלי חדש אפי' של חרס ודאי אינו עולה על הדעת שגוף החרס יעשה נבילה וכן דעת מהרש\"ל באו\"ש ובספרו פ' ג\"ה סי' ל\"ו וכן הב\"ח השיג על הרב בזה במ\"ש דכלי חרס חדש נ\"נ ומ\"מ נראה דבישנה יש להחמיר כאותן הפוסקים והמחבר מכללם דנ\"נ אפי' בדבר שיש לו היתר בהגעלה ולומר דס\"ס השתא הבלוע בה נ\"נ אבל בהפסד מרובה וכה\"ג יש להקל כהפוסקים דבשל עץ ומתכת לא אמרי' נ\"נ וכדברי מהרש\"ל (ואו\"ה) וכ\"פ הב\"ח וע\"ל סי' צ\"ד ס\"ב וע\"ל ס\"ס ק\"ז:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:21"
+        },
+        "22": {
+          "he": "דבכלי חרס כו' נ\"נ. היינו כשבלע איסור אבל כלי חרס חדש שבלע חלב או בשר לבד לא שייך נ\"נ דהא אפי' בחתיכה וכה\"ג לא אמרי' בכה\"ג דנ\"נ כיון דעדיין כולו היתר וכדלעיל סימן צ\"ד ס\"ו וכמה דוכתי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:22"
+        },
+        "23": {
+          "he": "כחצי זית כו'. דקי\"ל חצי שיעור נמי אסור מן התורה אלא שאין לוקין עליו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:23"
+        },
+        "24": {
+          "he": "לבטל פליטתה. לאפוקי לבטל היא עצמה אם אינו מכירה דאז חשיבה בריה כשיש בה אפרוח וכדלקמן ר\"ס ק' וע\"ל סי' פ\"ו סעיף ה' ו' נתבארו דינים אלו על נכון וע\"ל סי' ק\"ה ס\"ק ב':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:24"
+        },
+        "25": {
+          "he": "כחל. ע\"ל סי' צ' נתבארו דיני כחל כי שם מקומם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:25"
+        },
+        "26": {
+          "he": "כל האיסורים כו'. פי' בין של תורה בין של דבריהם כ\"כ הטור והרשב\"א דלא כהרמב\"ם שסובר דאיסורים של דבריהם מתבטלים בחמשים ותשעה כמו כחל וכתב הב\"י שנראה דעת כל הפוסקים כהרשב\"א וכן פשוט בכמה דוכתי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:26"
+        },
+        "27": {
+          "he": "מלבד חמץ בפסח כו'. ל' הטור מלבד חמץ בפסח ויי\"נ וטבל וערלה שאין לנו עתה עסק בהן ודאי דערלה נוהגת בזמן הזה אפי' בח\"ל כדלקמן סי' רצ\"ד אלא ר\"ל שאין לנו במקום הזה בהלכות תערובות עסק בהן וכ\"פ הפרישה דלא כהעט\"ז שכ' חוץ מטבל וערלה שאין לנו עתה עסק בהן שאין נוהגין בינינו עכ\"ל ולא דק והא דהשמיט הרב ערלה אע\"ג דפשוט במשנה וכל הפוסקים וכן לקמן סי' רצ\"ד דשיעורא דערלה במין במינו במאתים אפשר דתנא ושייר א\"נ לא בא אלא לומ' חוץ מחמץ בפסח ויי\"נ ששיעורן במשהו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:27"
+        },
+        "28": {
+          "he": "אבל אם נ\"ט בקדרה כו' ולכן כו'. כלומר דכל האסורים דעלמא לא עבידי לטעמא מן הסתם בטלים בששים לפי שאין נותנים טעם ביותר מששים אלא א\"כ נרגש טעמו דאז פשיטא דאסור וכמ\"ש הרא\"ש והרשב\"א והר\"ן ומביאם ב\"י בר\"ס זה וכן שאר פוסקים והוא פשוט ולכן כיון דאם מרגישין טעמו אינו בטל אפי' ביותר מששים הלכך מלח ותבלין כו' אינם בטלים אפי' באלף לפי שמן הסתם נותנין טעם אפי' באלף כיון שנעשים ליתן טעם דהא דמילתא דעביד לטעמא אינו בטל היינו נמי מטעם שמסתמא הוא נ\"ט אפי' באלף וכדמוכח מדברי סה\"ת שהביאו הטור וב\"י ס\"ס ק\"ה ולפ\"ז היכא דידוע בבירור שאינו נ\"ט כגון שנפל קורט א' של מלח או תבלין ליורה גדולה מותר וכן משמע להדיא בת\"ח כלל פ\"ה דין כ' וכן מצאתי (בתוס' בעבודת כוכבים דף ס\"ו ע\"א) סוף ד\"ה תבלין בהדיא וז\"ל והא דטעמא לא בטיל לא בעי למימר דלא בטיל כלל אלא דלא בטיל כשאר איסורים אבל בטל ודאי שפיר כי ידעינן ודאי דנתבטל הטעם כגון ביורה גדולה עכ\"ל וכן הוא בפוסקים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:28"
+        },
+        "29": {
+          "he": "אפי' באלף לא בטיל כו'. וכתב באו\"ה כלל כ\"ה דהיינו מדרבנן וכתב עוד שם בסוף הכלל דאם אינו ידוע אם מרגישים טעמו או לא מתיר בכה\"ג בא\"ז גם עתה להאכילו לעובד כוכבים מסל\"ת ע\"כ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:29"
+        },
+        "30": {
+          "he": "ולכן מלח ותבלין כו'. עיין בת\"ח כלל פ\"ה ד\"ד שפסק דאפי' נפל מלח ותבלין לדבר ששוה בשמו אפ\"ה כיון דחלוק בטעמו לא בטיל אבל אם נפל לדבר ששוה בטעמו בטל בששים ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:30"
+        },
+        "31": {
+          "he": "דעבידי לטעמא אם אסורים מחמת עצמן. אפי' אינם אסורים אלא מדרבנן אינם בטלים כן הוכיח הב\"י לקמן ר\"ס קי\"ב מהש\"ס וכן משמע מתשובת הרשב\"א שהביא ב\"י ס\"ס קל\"ד ומדברי האו\"ה והרב לקמן סי' קי\"ד ס\"ו שכתבו כן גבי סתם יינם דאינו אלא מדרבנן ע\"ש וכן משמע מדברי הפוסקים בכמה דוכתי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:31"
+        },
+        "32": {
+          "he": "אם אסורים מחמת עצמם כו'. כגון תבלין של עבודת כוכבים ושל ערלה וכיוצא בו לאפוקי בלועים מאיסור וכדלקמן ס\"ס ק\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:32"
+        },
+        "33": {
+          "he": "כל אחד מצטרף כו' לבטל חבירו כו'. דסברא הוא דכל איסור בטל כשאינו יכול ליתן טעם בהיתר וטעם דם וחלב אינה שוה הרי נתבטל טעם החלב בס' וטעם הדם בס' דמה לי איסור המבטל איסור ומה לי היתר המבטל איסור רק שיתבטל טעם האיסור ולא יהא לו עוד כח ליתן טעם בהיתר עכ\"ל הרא\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:33"
+        },
+        "34": {
+          "he": "וכן כ\"ט כו'. בטור כתוב וכן שלשים ובש\"ע הישנים מבלי הגהות כתוב וכן כ\"ט זיתים וכן הוא בתשו' הרא\"ש והוא יותר נכון דה\"ל רבותא יותר ודוק ומ\"מ צ\"ע דהאי דינא לא שייך לפי מאי דקי\"ל חנ\"נ בכל האיסורים דכיון דנפל כזית דם לקדרה אחת ולא היה בו ס' נ\"נ וכן הקדרה הב' מיהו רישא איכא לפרושי בנפלו הב' זיתים בבת אחת דכל אחד מבטל טעם חבירו אבל הכא דמיירי בב' קדרות קשה דלא ה\"ל להרב לסתום הדברים ועוד שכתב וכ\"ש בשני זיתים א' של גבינה כו' משמע דברישא מודה להמחבר והא ליתא למאי דקי\"ל חנ\"נ בכל האיסורים דפשיטא דהיינו אפי' בשוגג כדמוכח בכמה דוכתי וכדלקמן סי' צ\"ט ס\"ה בהדיא וי\"ל דסתם הדברים לענין לח בלח דלא אמרי' חנ\"נ בהפסד מרובה כדלעיל בסי' צ\"ב ס\"ד וכ\"כ בהג\"ה בסי' צ\"ט ס\"ה ועי\"ל דהרב אזיל לטעמיה שפסק בת\"ח הבאתיו לקמן סי' צ\"ט ס\"ק ט\"ו דאם ניתוסף על האיסור בשוגג קודם שנודע התערובות לא אמרי' חנ\"נ וא\"צ אלא ס' נגד האיסור אם כן מיירי הכא שנתערבו ב' הקדרות יחד קודם שנודע התערובות אבל למאי דהוכחתי שם דאפי' לא נודע התערובות אמרי' חנ\"נ א\"כ לא שייך הא דינא בנפל לב' קדרות בפחות מס' אם לא בלח בלח בהפסד מרובה אבל מ\"מ נ\"מ לענין דכל א' מבטל טעם חבירו כשנפלו שניהם בבת אחת לנ\"ט א\"נ אם נפל כזית גבינה לכ\"ט זיתים היתר ובקדרה אחרת נפל כזית בשר לשלשים זיתים של היתר ונתערבו אלו ב' התערובות בשוגג דמותר דלא שייך לומר חנ\"נ כיון דעדיין כולו היתר וכדלעיל סי' צ\"ד ס\"ו וכמה דוכתי א\"נ נ\"מ אם נפל כזית דם לתוך ס' זיתים של היתר ואחר כך נפל כזית ועוד של חלב לאותן ס\"א זיתים דא\"צ ס' נגד ב' זיתים אלו של איסור אלא גם הכזית דם שנפל בראשונה מצטרף לבטל הכזית ועוד של חלב ואילו לא היינו מצטרפים הכזית של דם לא היה ס' לבטל הכזית ועוד והשתא דכל אחד מבטל טעם חברו גם הוא מצטרף לבטל מיהו כל זה דוקא בשני מיני איסורין שאין טעמם שוה אבל במין אחד לעולם חוזר וניעור וכדלקמן סימן צ\"ט ס\"ו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:34"
+        },
+        "35": {
+          "he": "ונתערבו הקדרות יחד בשוגג. אבל במזיד יתבאר דינו בסי' צ\"ט ס\"ה וע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 98:35"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "כגון חלב כו'. בציר\"ה דתרבא בבישרא הוה מין באינו מינו כ\"כ ב\"י לקמן בסי' זה בשם האגור ורש\"ל בשם הרא\"ש וא\"ז בפרק גיד הנשה סי' ל\"א:",
+          "en": "For example, forbidden fat...: With the vowel tzereh [clarifying the word as \"forbidden fat\" instead of \"milk\"] because it is mixed with meat, it is a type with not its type.",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 98:1"
+        },
+        "2": {
+          "he": "יטעמנו עובד כוכבים. כתב בדרישה מדאסר בישראל למטעם בו יש ללמוד שפעמים שקונין בשר מן הקצב ואין ידוע אם מלוח הוא אם לא אסור לטעום בלשונו עד כאן לשונו והוא תמוה מאד דהא בסי' מ\"ב גבי מרה כ' בהדיא דטועמו בלשונו וע\"כ נראה דבטעימ' בלשון אין בו חשש איסור במקום ספק ומשום הכי הזכיר בפירוש גבי מרה שיטעום בלשון כמ\"ש שם ב\"י בשם מרדכי וה\"נ מותר אם נקי שם מדם ושאני הכא דהיה צריך לטעום ע\"י אכילה ממש כדי להרגיש אם יש שם טעם וע\"כ צריך שיטעמנו עובד כוכבים וגבי תענית בא\"ח סי' תקס\"ז מבואר פשוט בזה דאין איסור בטעימה בלשון לחוד דלא הוזכר שם אלא לענין טעימה ליקח לתוך פיו ובזה יש חילוק בין תענית לשאר איסורים. והך יטעמנו עובד כוכבים משמע אפי' לאו קפילא שכן דקדק ב\"י מלשון הראב\"ד שכתב שם עובד כוכבים ולא זכר קפילא וא\"כ עיקר ההיתר מכח מסיח לפי תומו כמבואר בב\"י בשם הרשב\"א ובבדק הבית להרא\"ה הקשה ע\"ז דאין מסל\"ת נאמן אלא לעדות אשה שאינו אלא כגילוי מילתא בעלמא כו' וקושיא זו הקשה גם בתרומת הדשן סי' ע\"ט על הרשב\"א ותירץ דס\"ל לרשב\"א דטעם כעיקר לאו דאורייתא ובמידי דרבנן מהני מסל\"ת ובאמת כתב ב\"י בשם ת\"ה הארוך דמסכים עם ר\"ת דס\"ל דאורייתא אפשר דלא מסכים עמהם אלא לענין עיקר הדין אבל לענין מסל\"ת שפיר סמך ארש\"י ורמב\"ם דס\"ל דטעם כעיקר דרבנן ואפשר שלזה נתכוין בב\"י שכ' בסי' זה בהא סמכינן ארמב\"ם ורשב\"א דמהני עובד כוכבים מסל\"ת אפילו אינו קפילא אבל באמת מצינו ויכוח כזה עוד בפיסקי מהרא\"י סי' ק\"ל לענין בכור שכ' דלהרא\"ש מהני מסל\"ת כשאינו משביח מקחו אלא שהקשה עליו דלא מהני אלא בעדות אשה כדאיתא בהגוזל ונ\"ל דהרשב\"א והרא\"ש ס\"ל דהא דאמרינן בהגוזל דאין מסל\"ת נאמן במילי דאורייתא היינו במידי דבעי עדות דוקא משא\"כ באיסור והיתר שפיר מהני דבזה לא בעינן עדות גמורה אלא באם יש לנו הוכחה סגי תדע דהא ע\"א נאמן באיסורין להתיר ואם כן הכי נמי מסל\"ת דמזה יש לנו סברא שאין שם איסור וסגי בזה והא ראייה שקפילא מהני אפי' באינו מסל\"ת מטעם דלא מרעא חזקתו ובמידי דבעי' עדות ודאי לא מהני דבר כזה אלא ע\"כ דבאיסורין לא צריך רק הוכחה. כנ\"ל ליישב דעת הרשב\"א והרא\"ש אבל לענין הלכה כבר פסק בטור וש\"ע סי' שי\"ו לענין בכור דלא מהני מסל\"ת ואם כן לא מהני בשום דוכתא) דאיכא איסור דאורייתא: בטור כתוב וכן כתב א\"א הרא\"ש שצריך כו' הא דלא כתב סתם וכן כתב א\"א הרא\"ש פי' ב\"י כלומר שאין הכרע בדבריו אם צריך קפילא דוקא. ק\"ל הא כתב הרא\"ש פי' נחתום עובד כוכבים משמע דבעינן דוקא אומן דאל\"כ למה ליה לכתוב דבר זה דאין דרכו של הרא\"ש לכתוב אלא מה דנפקא מיניה לדין על כן נראה איפכא דודאי הרא\"ש סבירא ליה כמו יש אומרים שמביא לפני זה דצריך אומן דוקא. אלא דיש חידוש אחד בדברי הרא\"ש דמשמע אם יודע העובד כוכבים שסומכין עליו בדבר אחר לא לענין איסור והיתר מקרי לפי תומו מה שאין כן בשאר לפי תומו כגון בעדות אשה לא מהני זה על כן כתב בשם הרא\"ש דגם זה מהני כאן:",
+          "en": "2. A Non-Jew Should Taste It.  It is written in the Drisha that since a Jew is forbidden to taste it, it follows that when buying a peice of meat that might not be salted it would be forbidden to lick it to taste for whether it was salted or not.  However we see in Siman 42 concerning a gallbladder that it is recommended to to lick it to taste for blood.  Therefore, we must say that licking to taste doesnt constitute a problem if we are dealing with a doubtful situation.  Therefore, by a gallbladder it would be permitted to lick for taste as written in the Beit Yosef quoting the Mordechai. The issue that arises here from the mixutre of forbidden fats and kosher meat is different in that there needs to be an actual consumption of the mixture to ascertain whether there is flavor of the prohitted item, therefore we require the tasting of a non-jew.  Bolstering this distinction, we see in the laws of Fasting O''C 567 that licking to taste is permitted as long as there isnt a full on comsuption.  When the S'A says to have a non-jew taste, the assumption is that it is even the usage of a non- 'Kfeila (professional chef)' based on the Beit Yosef's understanding of the expression used by the Raavad, in the laws of forbidden foods, of 'non-jew' to the exclusion of 'Kfeila'.  If so, it must be that the mechanism of usability of the non-jewish non-chef as a taste barometer is the concept of 'Mesiach Le'fi Tumo' - 'story telling' or 'innocently', that is: without being prompted with the knowledge that his answer will dictate the permissibility or prohibtion of the questionable mixture at hand. See the Beit Yosef in the name of the Rashba.  The Ra'ah asks in the Bedek Habayit: \"Mesiach Le'fi Tumo' is only applied when dealing with the integrity status of a women in captivity as it serves a clarification of events. The Terumat Hadeshen shares this quandry in Siman 79, to which he answers that the whether 'the taste of something being its essence - Taam Kikar' is not a biblical prohibition, therefore, in categories of rabbinic prohibitions 'Mesiach le'fi tumo' would suffice to clarify the doubt at hand.  The Beit Yosef writes in the name of the Torat Habayit Extended Version that he agrees with Rabbeinu Tam (who holds that Taam Kikar is Biblical) which could be limited to that case law in discussion, but would disagree to the biblical nature of Taam K'Ikar and rather follows the opinions of Rashi and Rambam that it is of a Rabbinic nature.  Perhaps this line of thought is what the Beit Yosef is following when he allows relying on Rambam and Rashba for trusting a non-jewish non-chef speaking innocently.  However, this point of contention is already discussed in the decisions of the Ra'i siman 130 regarding establishing the status of a first born animal. The Ra'i quotes the Rosh that a non-jew inncently relating that the animal in question is a first born is believed as long as the statement doesn't increase the value of the animal.  On this the Ra'i asks that we should only limit the trustworthiness of a non-jew to cases of women, as mentioned above.  To this he answers that according to the Rashba and the Rosh as found in the chapter of \"HaGozel\",  the inability to apply 'Mesiach Lefi Tumo' to Biblical probitions is for required testimony, unlike the clarification nature of testimony in 'Issur V'Heter', as we do find that a single witness is believed to permit the prohibited and therefore 'Mesiach Lefi Tumo' is sufficient.  This also fits well as we see that a non-jewish professional chef is believed even if asked directly, which would be prohibited if applied the biblical nature of testimony to 'Issur V'Heter' and not clarification nature of the testimony.  However, at the end of the day the S'A 316 decided that we don't rely on innocent storytelling in establishing the first-born status of an animal and that 'Mesiah Lefi Tumo' is insufficient when the issue at hand is Biblical.     The Tur writes: \"So does my father the Rosh write: 'It is required...'\"  The B'Y understands the Tur's quote of the Rosh is unclear whether 'Kfeila' is needed or not.  This is difficult to understand as the Rosh himself is very careful with his words and since he specifically mentions 'Professional Chef' we can exclude a non-jewish non-chef.  What would follow according to the Rosh is that if the non-jew knew we were relying on his statement for something other than 'Issur V'Heter' it is considered 'Lefi Tumo' unlike other cases (testimony of a woman) which 'Lefi Tumo' doesn't help.",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 98:2"
+        },
+        "3": {
+          "he": "אם נתערב מין במינו. המסקנא בפוסקים דמין שנתערב במינו מן התורה בטל ברוב בעלמא שנאמר אחרי רבים להטות אלא דרבנן אצרכו בה ששים על כן במקום שיש ספק כגון זה שנשפך אזלינן לקולא ואמרי' שהיה ששים אבל במין באינו מינו צריך ששים מן התורה כיון שמרגישין בהיתר טעם האיסור ע\"כ במקום ספק אזלינן לחומרא:",
+          "en": "If one type [of food] was mixed with its own type: The conclusion of the decisors is that a type that was mixed with its own type is nullified from the Torah with just a majority, as it is stated (Exodus 23:2), \"to follow the majority.\" However rabbinically, they required sixty [times as much as what is not kosher]. Hence when there is a doubt, such as that which spilled out, we are lenient and say that there was sixty there. However with a type of food in something that is not its own type, it requires sixty from the Torah, since we [otherwise] feel the taste of that which is forbidden in that which is permissible. Hence when there is a doubt, we are stringent.",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 98:3"
+        },
+        "4": {
+          "he": "ולענין מין במינו. עיין בב\"י בדבור המתחיל מצאתי כתוב כו' מבואר בפרטות מהו נקרא מינו או אינו מינו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 98:4"
+        },
+        "5": {
+          "he": "ואם נתערב במינו כו'. הרשב\"א יליף לה ממאי דאמרינן בגמ' לר\"י דאית ליה מין במינו לא בטיל אם נתערב במינו ואינו מינו סלק את מינו כאלו אינו ושאינו מינו רבה עליו ומבטלו הכי נמי כאן לדידן דלהיפך דמין במינו קיל מן התורה מתערובת באינו מינו ע\"כ אם נתערב במינו ואינו מינו סלק את שאינו מינו כאלו אינו ומינו רבה עליו ומבטלו ואלו לא נשפך ועדיין התערובות לפנינו היה נשאר עדיין איסור דרבנן כי מדרבנן לא סגי ברוב אלא עכשיו שנשפך ואפשר לנו לומר שהיה ס' במינו נגד האיסור אזלי' לקולא וע\"כ צריך שיהא ידוע וברור לנו שהיה רוב ממינו ההיתר נגד האיסור כי היכי דלא להוי חשש איסור דאורייתא ולשון ותולין לומר שמינו היה רוב כו' שכ' הטור כבר תירצו הב\"י ע\"ש ורש\"ל פכ\"ה סי' מ\"ו כ' על הרשב\"א הנ\"ל כחולק עליו וז\"ל נ\"ל שאין זה דמיון כלל דבשלמא התם גבי מין במינו בגמ' אין בו איסור מצד נתינת טעם אלא שגזירת הכתוב הוא לר\"י שאינו בטל במינו מש\"ה כי איכא נמי בהדיה מין באינו מינו אמרי' סלק את מינו כדי שיבטל הטעם באינו מינו וממילא יהא מותר הכל אבל הכא מה אוסר שאינו מינו בנ\"ט מדאורייתא א\"כ היכא שנשפך הרוטב אפי' איכא נמי מינו בהדיה סוף סוף עדיין בספק עומדת וספיקא דאורייתא לחומרא עכ\"ל. ולע\"ד נראה דברי הרשב\"א נכונים וברורים דהא דאמרי' בגמ' סלק את מינו כו' היינו כגון בשר שחוטה ובשר נבילה והרוטב ויש ברוטב ס' נגד הבשר נבילה לחוד והיה לנו לומר דמ\"מ בשר שחוטה יהא אסור כיון שהוא מינו עם האיסור ובמינו לא מהני בטול ס' אפ\"ה לא אמרי' כן אלא כיון שאין בבשר שחוטה איסור אלא מחמת התערובות עכשיו אמרי' סלק את מינו ההיתר כאלו אינו ולא יזיק לו התערובות כיון שבטל בס' האיסור ברוטב הוה האיסור כמאן דליתיה ואין כאן אפי' בליעה במשהו וא\"כ הוא הדין ממש לדידן שמינו בטל ברוב מן התורה ואינו מינו בס' לכ\"ע ונתערב בשר שחוטה עם נבילה ורוטב ואין כאן ס' לבטל הנבילה נמצא שיש כאן היתר לבטל האיסור בבשר שחוטה מצד שהוא רוב נגדו ובמינו מהני רוב מן התורה אלא שראוי לאסור הרוטב מצד שאין בו ס' נגד האיסור נמצא שנותן בו טעם לזה אמרי' דחשבינן לרוטב כאלו לא נתערב עם הנבילה כיון שכבר בטלה הנבילה מחמת רבוי מינו והוה כמאן דליתיה ולהיתר ממש נחשב האיסור לגמרי כן הוא מן התורה אלא דרבנן החמירו להצריך ששים אף במינו ע\"כ כאן שיש ספק אם היה ששים באינו מינו נגד האיסור וא\"א לעמוד עליו כיון שנשפך מותר דשבקינן ליה אדאורייתא דמינו מבטל ברוב וא\"צ ס' כיון שאפשר שהיה ס' בשאינו מינו וכל זה הוא נכון ואין בו פקפוק ועיין מה שכתב' בסי' ק\"ט ס\"א מזה.) ודבר פשוט שכאן לא מיירי אלא שנתערב בפעם אחת במינו ואינו מינו אבל אם נתערב תחלה עם אינו מינו ואחר כך ניתוסף שם מינו ודאי כבר נ\"נ קודם שבא לשם מינו כן נלע\"ד. ועוד יש נ\"מ בין במינו לשאינו מינו לענין תערובת יבש ביבש בסי' ק\"י לקמן. וכתב בת\"ח כלל פ\"ה בשם או\"ה אפי' אם נפל חלב לבשר עוף שהוא דרבנן ונשפך אסור הואיל וטעם כעיקר דאורייתא. ולכאורה תמוהין מאד דבריו דמה מהני שהטעם כעיקר הוא אפי' אם העיקר בעין לא הוה אלא איסור דרבנן לפי מה שתופס עכשיו דבשר עוף בחלב דרבנן ובאמת לא כתב באו\"ה בזה שהוא דרבנן כמו שהעתיק ת\"ח משמו נמצא שהוא כתב זה למאן דס\"ל בשר עוף הוא דאורייתא וכ\"כ הוא בהדיא כלל מ' מ\"מ אין מזה תפיסה על רמ\"א שאפשר שבנוסח שלו באו\"ה היה כתוב כן כמו שמצינו בתשובות רמ\"א בסופן שכתב במידי אחרינא שבנוסח שלו באו\"ה כתב יד לא היה כתוב כמו שהוא בנדפסים אלא שצ\"ע במ\"ש הואיל וטעם כעיקר דאורייתא דאין בזה כלום אבל נראה דשפיר קאמר רמ\"א דכיון דמצינו בבשר בחלב שעשו חכמים חיזוק לדבריהם כשל תורה ממש כגון לענין אכילת גבינה אחר בשר כמ\"ש ריש סי' פ\"ט סעיף א' וכן בסעיף ב' ליש מחמירין שמביא רמ\"א וכן ר\"ס פ\"ח לענין להעלותו על השלחן ולא חשבי' לה גזירה לגזירה והמקור ממה שאיתא בגמרא בזה בפכ\"ה דגזירה לגזירה הוא בזה כמו גזירה אחת ע\"כ גם בזה ראוי להחמיר בעוף גזירה אטו נשפך בבשר בהמה משא\"כ במין במינו ונשפך דאין שם גזירה אטו איסור דאורייתא ע\"כ אזלינן שם להקל ביש רוב להיתר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 98:5"
+        },
+        "6": {
+          "he": "וא\"א לעמוד על שיעורו כו'. במרדכי פ' השוכר נתן טעם דדעת שוטים אינו כלום וכ\"כ בש\"ד בזה וכעין זה כתב ב\"י לקמן בסי' ק\"ץ בדין לבשה חלוק שנתכבס ונמצא עליו כתם) בשם הרשב\"א וז\"ל שאין זה כספיקא דרבנן דספק הבא ממיעוט הכרה אינו ספק דאם אין זה בקי ומכיר אחר יכיר והיינו באפשר למיקם עלה דמילתא עכ\"ל. ויש להקשות ממ\"ש הטור סימן פ\"א להתיר הגבינות בטרפות שע\"י סירכא מפני שאם היינו בקיאין לברר אפשר שהיה להן היתר ע\"י בדיקה א\"כ ה\"ל ס\"ס כו' אלמא דחסרון בקיאות שמיה ספק לענין איסור דאורייתא דצריך ס\"ס וכאן לא חשבינן ליה לספק כלל במקום שדי בספק אחד כיון שהוא דרבנן. וצ\"ל דדוקא כאן דיש חסרון בקיאות למי שאינו בקי אבל לאחרים ודאי יוכל להתברר זהו דוקא לא מיקרי ספק כלל משא\"כ בסירכא דהתם כל הדור אינם בקיאים בזה אלא דקשה דאמאי הביא כאן הטור הלכך כחל כו' דאזלינן להחמיר והיינו מטעם שא\"א לנו לעמוד על השעור וזה כולל לכל הדור. ונראה לתרץ דיש כאן ב' צדדין בספק דחסרון בקיאות. הצד הא' במקום שיש ספק אם הוא מותר או אסור ואין שום תיקון לומר עד היכן הולך האיסור אלא א\"ת אסור יהיה אסור לגמרי והיינו הך דהכא אם אינו בקי לשער ובזה אמרינן דאם היה החסרון לכל הדור היינו הולכים בו להקל כיון שהוא ספק דרבנן אבל אם החסרון ליחידים אין זה ספק וצד השני באם הספק הוא באיזה ענין נשער כי יש לנו שני שיעורים היינו ההיא דכחל שספק אם נשער בכחל עצמו או במאי דנפיק מיניה דאין לנו לומר דאפי' בודאי אין ס' נגד כולו יש ספק אם יש ס' נגד) מאי דנפיק מיניה דא\"כ יש לך להתיר בכל גוונא והיכן תמצא איסורא בזה אזלינן להחמיר אפי' אם החסרון לכל העולם כיון שיש עכ\"פ לפנינו שיעור אחר שיצא מספק ודאי חוששין לו ולא אמרינן דהוה ספק דרבנן להקל כיון דהספק הוא מחמת חסרון ידיעה נמצא דה\"ק הטור כאן אזלינן לחומרא אם הוא אינו בקי לשער כיון שיש אחרים שיודעים ע\"כ אסור לגמרי הלכך בכחל דהוה הספק בין כולו או במאי דנפיק מיניה אזלינן ג\"כ לחומרא ומשערים בכולו כיון דהוא לפנינו וא\"א לשערו אבל כל היכא שהספק לכל העולם והוה הספק אם הוא אסור לגמרי או מותר אזלינן לקולא והיינו ההיא דגבינות שחשבינן זה לספק והוא ס\"ס ובזה מתורץ גם קושיא של ב\"י דהקשה למה כתב הטור הלכך כחל והרשב\"א למד דין זה מכחל ולפי מ\"ש ניחא דכבר יש פלוגתא בסי' פ\"א בין הרשב\"א להרא\"ש בזה דלהרשב\"א אמרינן אפילו בספק לכל עולם מחמת בקיאות הוה כמו ביחיד ולא נחשב לספק ומ\"ה אסורים הגבינות ולא חשב לספק ספיקא ע\"כ שפיר יליף להך מילתא מכחל אע\"ג דבכחל הוה ספק לכל העולם וכאן הוה ספק ליחיד מ\"מ שוין הם לדידיה אבל הטור כאן אזיל בסברא זו בתר אביו הרא\"ש דיש חילוק בין חסרון הבקיאות א\"א לו ללמוד דין דכאן מכחל כי באמת חלוקים הם אלא דכתבו בלשון הלכך כלומר כי היכי דלגבי חסרון בקיאות ביחיד אמרינן כאן לחומרא הכי נמי בכחל דהוה חסרון בקיאות דרבים אזלינן לחומרא לענין חילוק השיעור בין כולו למאי דנפיק מיניה והכל ניחא בסייעתא דשמיא. גם בסי' פ\"א ס\"ב כתבתי מעין זה דבמקום שתלוי בחסרון ידיעה יש להחמיר במקום שאפשר לעשות תקנה לצאת מן הספק אע\"ג דהוא מדרבנן שם דהא מן התורה חד בתרי בטל ע\"ש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 98:6"
+        },
+        "7": {
+          "he": "ולכן אם נפל חלב לתוך התבשיל כו'. משמע דבפחות מס' לא מהני הך תקנה ולומר שהאיסור הוא דבר נפרד בפני עצמו ואו\"ה פסק ג\"כ הכי ובת\"ח כלל פ\"ג מביאו אלא דבהגהת או\"ה בסוף הספר בשער כ\"ד סימן י' כתב בשם המרדכי פג\"ה תקנה זו אפילו בדליכא ס' הבשר מותר שהחלב צף למעלה וכתב הטעם שאין החלב מתערב ברוטב אלא צפה למעלה וכל שאפשר להפרידו לגמרי לא אמרינן ביה חתיכה עצמה נ\"נ כו' וכן משמע במרדכי שאין מחלק בין איכא ס' לליכא ס' בתקנה עכ\"ל ובספר בית חדש פסק מו\"ח ז\"ל מטעם זה דבדיעבד מותר אפילו אי ליכא ס'. ולע\"ד נראה דלא להקל כלל בזה דמ\"ש הג\"ה הנ\"ל בשם המרדכי פשיטא שאינו בהדיא במרדכי שלו דהא אח\"כ מסיק דכן משמע במרדכי מדלא מחלק בין איכא ס' וכו' והדברים מבוארים בעצמן שאין טעם וריח לקולא זו דהא אפילו בכלי בעינן ס' נגדו אם תחב כף של בשר בקדירת חלב ואנו רואים הכף כמו שהוא בתחלה אעפ\"כ אמרינן שהטעם יצא ממנו ה\"נ בחלב לתוך היתר אע\"פ שאח\"כ צף למעלה אפי' אם אנו יודעים שיש בו שיעור כמו שהיה בתחלה מכל מקום הטעם שלו נפלט ונכנס מים במקומו אלא פשוט דלא אמרינן תקנה זו דיצוף החלב למעלה אלא לחומרא בדאיכא ס' אבל בליכא ס' ודאי החתיכה עצמה נ\"נ ולא מהני אח\"כ שיצוף למעלה דמ\"מ הטעם נשאר שם כמ\"ש בת\"ח וכאן בהג\"ה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 98:7"
+        },
+        "8": {
+          "he": "אם ידוע כו'. קודם שנבאר דברים אלו נבאר שיש חילוק בפירוש דברי הטור בין ב\"י לרמ\"א שהטור כ' וז\"ל ואם ידוע כמה הוא האיסור כגון כף חדשה שניער בה כזית חלב ואח\"כ ביומו ניער בה קדירה של בשר א\"צ אלא ס' לבטל הכזית שבלע אבל כף ישנה שניער בה הרבה פעמים אין יודעים כמה בלע ומשערינן בכולה ע\"כ לשון הטור ות\"ח סי' קפ\"ג פירש דברי הטור דס\"ל אין כלי נ\"נ כלל ומ\"ש הטור אבל כף ישנה וכו' פי' שהיום ניער הרבה פעמים בבשר ותחבה לחלב תוך מעל\"ע דצריך ס' נגד כולה וה\"ק הטור אם הוא חדש לכ\"ע סגי נגד האיסור ואם הוא ישן לכ\"ע צריך נגד כולה) אלא אם כבר יש איסור בכף מחמת שהיה בה היתר ובלעה איסור כזית ותחבה להיתר בזה סמך עצמו על מה שיכתוב בסימן ק\"ו שיש פלוגתא כן משמע בת\"ח שפירש כן דברי הטור והב\"י פירש בדרך אחר וזהו תורף פירושו אף שאין זה לשונו ממש דהטור ס\"ל כדעה ראשונה של רשב\"א שמביא ב\"י דלא כרמב\"ן דהיינו שגם בבלוע בכלי אמרינן חתיכה ענ\"נ ונמצא דה\"ק הטור דוקא אם הכף חדש ובלע כזית חלב ולאו דוקא חדש ממש אלא ה\"ה כף ישן שנשתמש בו כבר קודם מע\"ל בשר הרבה והיום בלע כזית חלב ואכתי קרי ליה חדש דכל שאינו בן יומו ה\"ל כאילו הוא חדש כיון שאין טעם שלו אוסר על כן אין שייך בו נעשה נבילה דהא בשעת בליעת החלב היה היתר ע\"כ אם תחבוהו אח\"כ לבשר א\"צ ס' רק נגד הבליעה של חלב. אבל אם היה כף ישנה פי' שביום א' נשתמשו בו בשר הרבה ואח\"כ בלע כזית חלב כיון שבשעת הבליעה היה בו איסור בשר בחלב חשבינן לכל הבלוע שבו דהיינו בליעת בשר שבו לאיסור כי חתיכה ענ\"נ ואם חזר ותחב אותו לבשר היתר כיון שאין אנו יודעין כמה היה תחילה בליעת הבשר ע\"כ משערינן כנגד כל הכף כיון דכל הבליעה שלו נעשה איסור מכח חתיכה עצמה נ\"נ וא\"ל מדברי הטור סי' ק\"ז בהוצאת זבוב דלא בעינן ס' רק נגד הזבוב ולא נגד הכף דדוקא הכא בבשר בחלב אמרינן חתיכה עצמה נ\"נ משא\"כ בשאר איסורים דהטור ס\"ל כר' אפרים בסי' צ\"ב ועל פי זה כתב הש\"ע כאן אם הכף חדשה או שאינה בת יומא פירוש שהיא כף ישנה של בשר רק שהיום בלעה כזית חלב לא שייך בזה נ\"נ כמ\"ש לעיל כיון שאין כאן איסור וע\"ז כתב רמ\"א לפי סברתו דהש\"ע ולא אמרינן חתיכה ענ\"נ גבי כלי אפי' בלעה איסור דאיסור בלוע אין כאן ע\"כ אין שייך לומר על גוף הכלי שיהיה נ\"נ כמו שאר חתיכה שנאסר וה\"ק לא מיבעיא בזה שכתב הש\"ע בכף חדש או ישן וכו' דכיון דעדיין היתר הוא לא שייך נ\"נ אלא אפי' אם בלע איסור כגון בשר נבילה כזית דמ\"מ לא אמרינן ביה דהכלי עצמה שהוא חדש יהיה כולו נבילה וזהו אליבא דכ\"ע אבל בסיפא דמיירי בכף ישנה ובת יומא פי' שהכף היא של בשר ונשתמש בה היום הרבה בשר ובלעה ג\"כ כזית חלב ממילא יש כאן איסור בלוע ובו ביום תחבוהו לבשר נעשה כל הבלוע בכף נבילה וע\"ז סיים רמ\"א דכל מה שבלעה הקדרה פי' אפי' טעם בשר קודם בליעת החלב נ\"נ ממילא צריך לשער נגד כל הקדירה כיון דלא ידעינן כמה יש בו איסור. והיש מי שאומר שמביא הש\"ע הוא דעת הר\"ן בשם הרמב\"ן דאפי' בכף של בשר שנשתמש היום ובלע אח\"כ כזית חלב בו ביום ותחבוהו לבשר א\"צ בבשר ס' רק נגד החלב דלא אמרינן בבלוע בכלי חתיכה עצמה נ\"נ וכ\"ש בגוף הכלי ומה שנרשם במראה מקום על הג\"ה ולא אמרינן גבי כלי כו' שהוא מדברי הר\"ן בשם הרמב\"ן אותו המעתיק טעה ולא הבין דברי הג\"ה כלל דלא מיירי בהג\"ה בבלוע נ\"נ רק בגוף הכלי לא אמרינן כן כמו שכתבתי וע\"כ סיים רמ\"א שפיר דהסברא ראשונה עיקר דבבלוע אמרינן נ\"נ אם הוא איסור דהא גבי טפת חלב שנפלה על הקדרה נתבאר דכל שלא כנגד הרוטב אסור התבשיל מחמת הקדרה אלמא דאמרינן בבלוע חתיכה עצמה נ\"נ ובאמת אין זה ראייה דגם שם יש היתר כמ\"ש סי' צ\"ב סעיף ד' וכ\"כ או\"ה כלל כ\"ד ואחר כך מביא רמ\"א ויש שאינן מחלקין כו' והוא דעת המרדכי שכתב פג\"ה דכל שאפשר להפריד האיסור הבלוע מן החתיכה לא אמרינן ביה חתיכה עצמה נ\"נ וע\"כ בכלי עץ ומתכות שאפשר בהגעלה וליבון אם נפל האיסור במקום אחד לא אמרינן כל הכלי נעשית נבילה להרבות האיסור ולשער בכל הכלי אם נתבשל באותו כלי היתר ומשערין לפי איסור שנפל בו במקום שברור לנו כמה נפל איסור ואי לא ידעינן צריך לשער נגד כולו מכח ספק עכ\"ל משמע מדבריו דכלי חרס שא\"א להפריד האיסור הבלוע ע\"י הגעלה וליבון אם לא ע\"י החזרה לכבשן וזה מקרי פנים חדשות וע\"כ אפי' ידעינן כמה בלע כגון כף חדש מ\"מ כיון שבלע איסור נעשה גוף החרס נבילה כמו חתיכה בעלמא והמרדכי לטעמיה דס\"ל בכל האיסורים אמרי' חתיכה עצמה נ\"נ דמה לי גוף החתיכה שנעשה איסור מחמת האיסור הבלוע ומה לי גוף החרס כיון שנעשה איסור הוה נבילה. ונראה לי ברור דהמרדכי לא מיירי אלא לענין אם צריך ששים אף נגד החרס עצמו או המתכות עצמו דהיינו שהבליעה של איסור שבלעה תוך מע\"ל היא ידוע בזה אמרי' במתכת שא\"צ לבטל גוף) החרס כיון שאפשר להפריד האיסור משם ובחרס צריך ששים אף נגד החרס אבל בכלי ישן שיש בו בלוע היתר תוך מע\"ל ובלע כזית איסור ואין בבלוע היתר ששים נגדו ודאי נעשה הבלוע נבילה אף בכלי מתכות דהא אף בהגעלה לא יהיה הפרש בין בליעת ההיתר לאיסור וכ\"כ בת\"ח כלל פ\"ה וז\"ל ומיהו אפשר המרדכי מיירי בכלי חדש כו' עכ\"ל ואף שכתב רמ\"א בזה לשון מסופק מ\"מ נראה ברור שהוא כן נמצא לפי זה אין שום קולא בדברי המרדכי כאן על דעה הראשונה אלא חומרא נוספת יש בכלי חרס חדש דאמרי' ביה כלי נעשה נבילה אע\"פ שיודעים כמה נפל איסור שם א\"נ בכלי ישן שאינו בן יומו בשעת בליעת איסור אלא דמלשון רמ\"א שכתב ויש שאין מחלקים כו' רק בין כלי חרס לשאר כלים כו' דמשמע קצת דבשאר כלים יש קולא לפי זה דאפילו בכלי ישן אין הכלי מתכות נ\"נ אף הבלוע בו מדכ' סתמא שאין חילוק בין ישן לחדש ולענין הלכה אין נ\"מ מזה דמסיק רמ\"א וטוב לחוש לחומרא יש לנו לומר דיש לחוש לחומרא של המרדכי ובת\"ח כלל נ\"א כ' וז\"ל ובמקום הפסד יש להקל בכל האיסורים מלבד בבשר בחלב כי רוב הפוסקים הסכימו דאין אומרים חתיכה עצמה נ\"נ רק בבשר בחלב ואע\"ג דאנו מחמירין מ\"מ בכלי אין להחמיר כן נראה לי עכ\"ל ורש\"ל בפ' ג\"ה סי' ל\"ז לא מחלק בין איסור בשר בחלב לשאר איסורים אלא מסיק דתרווייהו בעינן דאף בכלי חרס אין חומרא לשער נגד כולו אלא אם נשתמשו באותו יום בדבר של היתר אבל אם לא נשתמשו בו באותו יום בשל היתר אפי' בכלי חרס א\"צ לשער רק נגד בליעת האיסור וכ' עוד שם לתרץ הא דאמרינן דבכלי אף ההיתר הבלוע כבר נעשה איסור לא תקשה ממאי דקי\"ל בעלמא אין איסור בלוע אוסר היתר בלוע דהתם היינו שנפל עליה טיפה של איסור ואיכא רוטב היתר בקדרה ויש בו כדי לבטל האיסור לחוד ולא כדי לבטל האיסור וההיתר הבלוע יחדיו התם אמרינן שאין איסור בלוע אוסר היתר בלוע אבל בלא נפילת טיפה אלא שהכלי בלע איסור אף ההיתר שבלע כבר נעשה איסור ובעינן ששים נגד כולו בכלי חרס עכ\"ל ולע\"ד נראה דלפי דברי המרדכי יש להחמיר בכלי חרס אפי' חדש לשער נגד כולו ובשאר כלים דוקא ישן דהיינו תוך מע\"ל של בליעת הרבה בשר ובליעת כזית חלב ובשאר איסורים לא אמרינן כלל בכלי שנעשה נבילה אפי' בלע איסור והיא כלי חרס וכמו שזכרתי בשם ת\"ח כלל נ\"א שבשאר איסורים אין להחמיר כלל:",
+          "en": "As a preface to we will explain the difference between the Beit Yosef and the Rama in understanding the Tur.  This is the verbiage of the Tur: \"...And if the amount of the Issur is known, e.g., A new spoon that is used to stir one olive's worth of milk and is subsequently used to stir a meat dish within 24 hours, then 60 times the volume of only the one olive's worth that was absorbed is needed to nullify the prohibited mixture.  However, an old spoon used many times to stir an indeterminate volume requires a nullification of 60 times the volume of the whole spoon.\"",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 98:8"
+        },
+        "9": {
+          "he": "כחצי זית של איסור. פירוש אפי' באיסור דרבנן דהכי אמרי' פ' ג\"ה לא תזלזל בשיעורא דרבנן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 98:9"
+        },
+        "10": {
+          "he": "צריך ס\"א וכו'. לעיל סי' פ\"ו ס\"ה נתבאר זה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 98:10"
+        },
+        "11": {
+          "he": "והוא אסור מצד עצמו. צ\"ע לענין שומן של איסור שנפל למאכל אמאי יהיה בטל בששים הא לטעמא עביד) בשלמא שומן בשר לתוך מאכל חלב שפיר בטל בששים כיון שאין האיסור מצד עצמו רק מצד התערובות וכיון שיש ששים אין כאן תערובות אבל בשומן של איסור שהוא מצד עצמו אמאי מהני ששים בהיתר ומאי שנא מביצה שנולדה בי\"ט ולבנו בו מאכל דפסק בא\"ח סי' תקי\"ג דלא מהני ששים כיון דלטעמא עבידא ואע\"פ שמזכיר שם טעמא וחזותא מ\"מ כאן ודאי טעם לחוד אוסר ואע\"פ שכ' רמ\"א כאן כל זמן שמרגישין הטעם מ\"מ היאך נבוא לידי הרגשה כיון שאפשר שנותן טעם היאך יטעמוהו וצ\"ל דאין הכי נמי דמסתמא אמרי' ביש ששים אינו נ\"ט אלא דאם מרגישין שיש טעם שם אז לא בטיל ולא מהני באמת בזה ששים אבל בביצה לא אמרי' כן כיון שיש ג\"כ חזותא ע\"כ אין אנו מקילין בששים בדבר שיש לו מתירין כיון שאפשר שיש בו טעם. שוב ראיתי באו\"ה כלל כ\"ה דין ו' וז\"ל דבר הנעשה לטעם כיצד כל דבר חריף כגון תבלין ומלח של הקדש אין בטיל ע\"כ משמע דלא מקרי טעם בזה אלא דבר חריף ולא שומן דאף שגם הוא מטעים המאכל וממתיקו מ\"מ אין נרגש כ\"כ כמו דבר חריף ע\"כ שפיר בטל כמו כל איסורים בכל גוונא ומשום הכי סיים כאן גם רמ\"א כגון מלח ותבלין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 98:11"
+        },
+        "12": {
+          "he": "אינם בטלים בששים. כתב ב\"י בסי' קי\"ב אפילו באיסור דרבנן אמרינן כן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 98:12"
+        },
+        "13": {
+          "he": "וכן קדירה שיש בה כ\"ט זיתים כו'. בטור כתוב בזה שלשים זיתים וגירסא דכאן עיקר וכן הוא בתשו' הרא\"ש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 98:13"
+        },
+        "14": {
+          "he": "ונתערבו בשוגג מותר. זהו למאן דלית ליה חתיכה עצמה נ\"נ בשאר איסורים אבל לדידן דקי\"ל בסי' צ\"ב דבכל האיסורים אמרינן חתיכ' עצמה נעשה נבילה גם זה התערובו' אסור דכבר נעשה נבילה קודם התערובות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 98:14"
+        },
+        "15": {
+          "he": "של גבינה כו' דכל אחד כו'. פירוש שנפלו לירקות בקדירה דמהני כל אחד לשיעור ס':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 98:15"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "יטעמנו עובד כוכבים. עבה\"ט בשם ט\"ז. וע\"ל סי' מ\"ב בבה\"ט סק\"ג שכתב בשם הש\"ך דלהכי גבי מרה שרי לטעום דקרוב הדבר שיטעום טעם מר ע\"ש משמע דאי לאו הכי אף טעימה בלשון אסור וכ\"כ הפמ\"ג בסי' צ\"ה במשבצות ס\"ק ט\"ו דהכי קי\"ל ואסור ללחוך בלשון אם מלוח ע\"ש. ועיין בשו\"ת צמח צדק סי' מ\"ז שנשאל אם מותר לטעום הבורית אם יש בו מלח כל צרכו והשיב דאע\"ג דדבר שהוא פגום. מדרבנן מיהא אסור לכתחלה וטעימה היינו דוקא לאכילה אבל לטעימה שרי לכתחלה וטעימה אינו אסור אלא מדרבנן ובדרבנן לא גזרו ע\"ש. והמובן מדבריו דס\"ל דה\"ה בכל איסורי דרבנן שרי טעימה ואף לטעום בפיו ממש וכן הבין בנו של בעל צ\"צ בסוף הספר והפר\"ח בסי' ק\"ח ס\"ק כ\"ב ע\"ש (ועפ\"ז מיושב דברי רש\"י בחולין ד' צ\"ז ע\"ב במה שפירש דאיסורא כגון בשר בחלב שאין ישראל יכול לטועמו ע\"ש וגם אפשר לתרץ קושיית התוס' שם ע\"א בד\"ה אבל בב\"ח מהא דיין במים כו' אמנם התוס' לשיטתייהו בדף צ\"ח ע\"ב בד\"ה רבא דחולקים על רש\"י ז\"ל וס\"ל דאף רבא ס\"ל בכל האיסורים טעם כעיקר דאורייתא ע\"ש ודו\"ק) אכן בתשובת נו\"ב תניינא חיו\"ד סי' נ\"ב כתב דהצ\"צ לא התיר אלא טעימה בלשון ומסיק דאף טעימה בלשון אינו מותר כי אם באיסור פגום ולא בכל איסורי דרבנן ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 98:1"
+        },
+        "2": {
+          "he": "משערינן בששים. עיין בתשובת שער אפרים סי' נ\"א ובתשובת עבודת הגרשוני סי' למ\"ד שמשערים במדה ולא במשקל ע\"ש וכן כתב בתשובת הר\"ש בן הרשב\"ץ סי' רצ\"ט. ועיין בתשובת חינוך בית יהודא סי' ל\"ג שדעתו דאם האיסור וההיתר שוים במשקל דהיינו ממין אחד שאין א' כבד בטבעו יותר מחבירו וגם אין בו נפוח או חלל יותר מחבירו פשיטא דנוכל לשער בשניהם או במדידה או במשקל ואמנם אם יש בחלק א' חלל יותר מחבירו דאז אם נשער במדידה צריך למעך החלל אז אמרינן השוקל משובח ממנו דשמא לא מימעך החלל יפה ובשני מינים א\"א לשער במשקל ואפילו אם יש חלל ע\"כ צריך למעך החלל ע\"ש. ועיין בתשובת בית אפרים חי\"ד סימן ל\"ו שכתב דכזית קרוש שנפל לתבשיל כגון כזית שומן שנפל לתבשיל של חלב או כזית חמאה שנפל לתבשיל של בשר אע\"ג שמיד שנפל לתוך התבשיל נמס ונעשה רביעית מ\"מ א\"צ ס' רביעיות מחמת שנמס רק סגי בס' זיתים דאף שהגדיל מדתו מ\"מ עמד בו טעמו שהיה בתחלה ואפשר דאם נמס קודם ונפל אחר שנמוח צריך ס' רביעיות נגדו מדרבנן כיון שהיה האיסור ניכר בפ\"ע כשיעור הזה ע\"ש שהאריך בזה. ועיין בתשובת פאר הדור להרמב\"ם סי' ס\"ה שנשאל באיסורין שאמרו חכמים שבטילין בששים אם מותר להורות כך לעם הארץ או לא והשיב בודאי מותר להורות כך אפילו לעם הארץ ולא גזרינן שמא יפרצו פרץ מפני שדבר שנתערב איסור בהיתר מדין תורה חד בתרי בטל כו' אמור מעתה מאחר כי אחד בששים גזירה הוא ניקום אנן ונגזור גזירה לגזירה עכ\"ד ע\"ש. וצ\"ל דלשיטתו אזיל דס\"ל טכ\"ע לאו דאורייתא כמ\"ש הש\"ך בסק\"ב ועיין בבית יוסף ולפ\"ז לדידן דקי\"ל טעם כעיקר דאורייתא אם נתערב איסור בהיתר מין בשאינו מינו אסור להורות כך לעם הארץ שיתבטל בששים וצ\"ע כי לא שמענו זאת מעולם ועיין בש\"ך לקמן סי' ק\"ס ס\"ק כ\"ב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 98:2"
+        },
+        "3": {
+          "he": "לסמוך. עבה\"ט בשם ש\"ך ועיין בספר בכור שור בחידושיו לחולין ד' צ\"ו שמפקפק בזה ודעתו שאין להקל משום דכתב הרמ\"א ז\"ל לעיל סי' מ\"ב ס\"ג בהגהה דאף עכשיו יש לסמוך אטעימת הכבד וביאר הטעם בד\"מ משום דרבו מכשירים בחסרה המרה אלמא דבמקום אחר אין לסמוך עכשיו אטעימה אפילו דישראל ע\"ש ועיין פמ\"ג בסי' מ\"ב שם שדעתו לחלק דבטעימה ע\"י לחיכה בלשונו לחוד אין בקי כ\"א מומחה וע\"ז כתב הרמ\"א דיש לסמוך הואיל ורבו מכשירים אבל לענין טעימת מאכל בזה כ\"ע בקיאין וא\"צ אומן ומש\"ה ישראל מהימן ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 98:3"
+        },
+        "4": {
+          "he": "בתר שמא. עבה\"ט [ועיין פמ\"ג בפתיחה ח\"ג פ\"ד בענין בשר עוף ובהמה ואיל וכבש כו' אי נקראים מב\"מ ועיין בתשובת ח\"ס סימן פ\"ז וס\"ס צ\"ג מ\"ש בזה]. ועיין בספר תיבת גמא שחיבר בעל הפמ\"ג דף ע\"ח שכתב דדם וחלב אין טעמם שוה אע\"ג דדם נעכר ונעשה חלב [צ\"ע דזהו לכ\"ע בנדה ט' אבל אנן לא קי\"ל הכי כמבואר לקמן סי' קפ\"ד ס\"ז ובסי' קפ\"ט סל\"ג וכמ\"ש בנ\"צ לעיל סימן פ\"א ועיין מג\"א סי' רט\"ז סק\"ג ובסימן תצ\"ד סק\"ו] מ\"מ השתא לאו טעם דם הוא וכדמוכח ראיה מחולין קי\"א אמרה ילתא אסר לן דמא שרא לן כבדא ופירש\"י טעם דם בו ולא אמרה שרא לן חלב ש\"מ דאין בו טעם דם. ועיין בתשובת בית אפרים חי\"ד סי' ל' לענין חתיכת בשר שנפל לתוך יורה של חלב וסילקו מיד והבשר נאבד וא\"א לעמוד על שיעורו והשואל אומר שלפי אומדן דעתו היה ס' אך אינו יודע בבירור וכתב שיש כמה צדדים להקל דדעת הפר\"ח דכל בב\"ח שלא נתבשל כמאכל ב\"ד אין בו איסור מה\"ת וגם כיון שאומר שהיה חתיכה קטנה קרוב שיש ששים הוי כהיתרא שכיחא טפי ולכן יש להתיר ע\"י טעימת קפילא מסל\"ת ואם אין שם קפילא שרי לישראל לטעום טעימה בעלמא ואם אין מרגיש טעם בשר מותר לאכול אח\"כ ומי שירצה להחמיר גם בזה לענין אכילה עכ\"פ בהנאה יש להתיר בפשיטות ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 98:4"
+        },
+        "5": {
+          "he": "אבל אם נתערב בשא\"מ. משום דקי\"ל טעם כעיקר דאורייתא וע' בתשובת נו\"ב תנינא חלק א\"ח סימן ס\"ו שכתב דכיון דהא דטעם כעיקר דאורייתא ילפינן ממשרת או מגיעולי עובדי כוכבים אמרינן דדוקא באיסורים דכוותייהו שהם לאווין שיש בהם מלקות אבל לא בלאו שאין בו מלקות כגון חלב טמא וכיוצא ע\"ש ועיין מ\"ש לקמן סי' קי\"ח ס\"ק א'. ועיין בש\"ך מה שתמה על הרב בת\"ח ועיין בתשובת בשמים ראש סימן קמ\"ד בהגהת כסא דהרסנא שם מ\"ש בזה. [ומה שתמה בכו\"פ סק\"ב על דברי הרשב\"א בחולין בתיחב כף חולבת ליורה של בשר ונשפך עייו בתשו' חתם סופר סימן פ\"ו שכתב ליישב בטוב טעם. וע\"ש עוד שתלמיד ותיק אחד רצה לחדש למאן דס\"ל טכ\"ע ל\"ד ואך בבב\"ח הוא דאורייתא מדאפקיה רחמנא בלשון בישול א\"כ י\"ל דהיינו דוקא כשקיבל החלב טעם ממשות הגדי אבל טעם גדי הנבלע בקדרה אינו כעיקר מה\"ת לאסור החלב (גם הפמ\"ג בפתיחה להלכות בב\"ח נסתפק בזה ע\"ש ולפ\"ז לענ\"ד מיושב קושיית העולם והוזכרה ג\"כ בת' הנ\"ל סי' פ\"ג איך נילף טכ\"ע מג\"נ דילמא משום בב\"ח צוה להגעיל ע\"ש ודו\"ק) והוא ז\"ל כתב דסברא זו י\"ל גם לדידן דטכ\"ע דאורייתא מ\"מ בב\"ח לא הוי אלא בקיבל טעם מן הגדי ממש אך הראה לו סתירת חילוק זה מש\"ס פ' אלו עוברין ע\"ש]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 98:5"
+        },
+        "6": {
+          "he": "רובו היתר. עבה\"ט ועיין בתשובת אמונת שמואל סי' כ\"ח שדעתו כהש\"ך וחולק על ט\"ז וכן דעת הפר\"ח ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 98:6"
+        },
+        "7": {
+          "he": "רבה עליו ומבטלו. [עבה\"ט דהש\"ך אוסר את שאינו מינו והט\"ז מתיר: ועיין בתשובת ח\"ס סימן פ\"ז שכתב דאין נראה להקל נגד דעת הש\"ך דטעמא לא בטיל ולכן גם הבשר כשר שהוא מינו צריך שיסיר ממנו כל לחלוחית הרוטב והמרק ויקלפנו משם דאית ביה פילי כדי להסיר ממנו המרק של איסור שהוא בעין עליו ע\"ש]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 98:7"
+        },
+        "8": {
+          "he": "לעמוד על שיעורו. עיין בתשובת אמונת שמואל סי' כ\"א שכתב דקטן או עובד כוכבי' ששמו דם בקדרה של בשר וידוע שנתבטל ברוב אלא ספק אם יש ס' כיון דדם שבישלו דרבנן ספק כי האי שאינו מוטל עליו לידע הוי ממש כנשפך דתולין להקל ולא שייך לומר דדעת שוטים הוא זה שהרי אינו נביא לידע כמה נפל וכ\"ש לטעם הר\"ן (הובא בבה\"ט סק\"י) כיון דמילתא דלא שכיחא הוא ודאי דינו כנשפך ומ\"מ לא החליט הדבר רק להלכה ולא למעשה ועפר\"ח שהביאו והביא ראיה לדבריו ע\"ש (ובזה מיושב דברי הש\"ך לעיל סי' י\"ד ס\"ק י\"ב ועיין בש\"ך סי' פ\"א סק\"ח ודו\"ק) ועיין פמ\"ג שכתב דאף שיש עובד כוכבי' א\"צ לברר להטעימו לקפילא כיון שאין אנו נוהגים לסמוך כלל על עובד כוכבי' הוי כלא אפשר לברורי ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 98:8"
+        },
+        "9": {
+          "he": "מחמת עצמן. עבה\"ט בשם הט\"ז לענין שומן ועיין במ\"י כלל ת\"ה ס\"ק ס\"א דמשמע קצת דה\"ה יין וחומץ לא מקרי עביד לטעמא ע\"ש ועיין בתשובת שמש צדקה חלק יו\"ד סי' ק\"כ מ\"ש בענין חומץ:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 98:9"
+        },
+        "10": {
+          "he": "כל אחד מצטרף. עיין בחו\"ד שכתב וה\"ה אם כזית בשר נ\"נ מחמת חלב וכזית בשר נעשה נבלה מכח דם ג\"כ כל אחד מצטרף לבטל טעם חבירו אבל שני כזתים שאין טעמם שוה שנ\"נ מדברים שטעמן שוה אין מבטלין זא\"ז ובעינן ס' נגד שניהם. וביבש ביבש אין איסורים מבטלין זה את זה וכן שני איסורים שאסורים משם אחד אף שאין טעמם שוה אין מבטלין זא\"ז עכ\"ד ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 98:10"
+        },
+        "11": {
+          "he": "מצטרף עם הנ\"ט. עבה\"ט הטעם. ובספר מראה חידה אות מ' כתב דאם היה האיסור האחד כבד קודם צלייתו אסור דטעמא מאי מותר בשני אסורים משום דכ\"א טעמו היוצא ממנו מתפשט בששים חלקים עם האיסור הב' אבל הכבד דפולטת ואינה בולעת נשאר טעם איסור הב' תוך נ\"ט חלקים עכ\"ד. שוב מצאתי בפמ\"ג במשבצות לעיל סי' ס\"ט ס\"ק כ\"ט ובסי' ע\"ג סק\"א שכתב ג\"כ הכי וביאר עוד דאע\"ג שדעת הרבה פוסקים דשמנונית בולעת מ\"מ כמו כן יש דעות להיפך ומידי ספיקא לא נפקא ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 98:11"
+        },
+        "12": {
+          "he": "א' של גבינה. עי' בתשו' בית אפרים חי\"ד סי' ל\"א מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 98:12"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "חלב.  כ' הש\"ך דמדברי הטור משמע דהיינו חלב בציר\"י דהוא תרבא אבל הראב\"ן כ' בתשובה דחלב ובשר טעמן שוה וצ\"ל דמיירי בבשר שמן עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:1"
+        },
+        "2": {
+          "he": "עובד כוכבים.  כתב בדרישה מדאסר בישראל למטעם בו יש ללמוד שפעמים שקונין בשר ואין ידוע אם מלוח הוא אם לא אסור לטעום בלשונו עכ\"ל וכתב הט\"ז ע\"ז שהוא תמוה מאד דהא בסימן מ\"ב גבי מרה כתב בהדיא דטועמו בלשונו וע\"כ נראה דבטעימה בלשון אין בו חשש איסור במקום ספק ושאני הכא דהיה צריך לטעום ע\"י אכילה ממש כדי להרגיש אם יש שם טעם וע\"כ צריך שיטעמנו עובד כוכבים ועיין בא\"ח סי' תקס\"ז לענין תענית מבואר פשוט דאין איסור בטעימה בלשון לחוד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:2"
+        },
+        "3": {
+          "he": "שסומכין.  כתב הש\"ך דבב\"י פסק בכותי דלאו קפילא פירוש נחתום אומן סמכינן עליה במסל\"ת דוקא ואקפילא סמכינן אפילו אינו מסל\"ת דלא משקר שלא יפסיד אומנתו ונתבאר לך דכאן מיירי בעובד כוכבים שאינו קפילא ולכך צריך שלא ידע שסומכין עליו אלא שהקשו בט\"ז ובש\"ך כמה קושיות על המחבר דהא קיי\"ל דאין עובד כוכבים נאמן במסל\"ת רק בעדות אשה לבד ומכ\"ש שהמחבר עצמו כ' בס\"ב דמין בשאינו מינו אסור מדאורייתא א\"כ היאך עובד כוכבים נאמן ותירץ הש\"ך דיש לחלק דדוקא היכא דליכא למיקם עלה דמילתא הוא דאין עובד כוכבים מסל\"ת נאמן באיסור תורה אבל במין בשא\"מ כיון דאיכא למיקם עלה דמילתא להטעימו לקפילא סמכינן עליה והט\"ז תירץ דס\"ל להני פוסקים דהא דאין עובד כוכבים מסל\"ת נאמן במידי דאורייתא היינו במאי דבעי עדות דוקא משא\"כ באיסור והיתר דא\"צ עדות גמורה אלא בהוכחה סגי מהני שפיר מסל\"ת והא ראיה שקפילא מהני אפילו אינו מסל\"ת מטעם דלא מרע חזקתיה ובמידי דבעי עדות ודאי לא מהני דבר כזה כנ\"ל ליישב דעת הפוסקים אבל לענין הלכה קיי\"ל בסימן שי\"ו ולענין בכור דלא מהני מסל\"ת וא\"כ גם בשאר דוכתי לא מהני באיסור דאורייתא עכ\"ל ועי' בסימן ט\"ז סי\"א ובסי' ס\"ט ס\"י ובסי' קכ\"ב סי\"א ובס\"ס קל\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:3"
+        },
+        "4": {
+          "he": "משערינן.  כתב הש\"ך משמע דעת המחבר דכשיש שם עובד כוכבים לא שרינן אלא ע\"י עובד כוכבים ואם אמר דאית ביה טעם איסור אסור אפי' טפי מס' ואי אמר דלית ביה טעם מותר אפילו בפחות מס' ולא אמרינן לשער בס' אלא כשאין שם עובד כוכבים או במין במינו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:4"
+        },
+        "5": {
+          "he": "לסמוך.  כ' הש\"ך משמע דוקא אעובד כוכבים לא סמכינן אבל אטעימת ישראל סמכינן כגון גבי צנון שחתכו בסכין של בשר כמ\"ש בסימן צ\"ו (וכגון תרומה שנפל לחולין דטעים ליה כהן) וכן האומר קונם בשר ויין שאני טועם ונפל לתבשיל שאסור לו בנ\"ט סמכינן אטעימת ישראל אפי' אינו אומן ואפי' נתערב גוף הדבר דודאי ישראל לא משקר דלא כעט\"ז שמחמיר בזה עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:5"
+        },
+        "6": {
+          "he": "נודע.  הטעם כ' ר\"ת וכל הפוסקים דמין במינו מדאורייתא בטל ברוב כיון שאינו נ\"ט אלא דחכמים הצריכו ס' הלכך כיון שנודע שהיה רובו היתר רק הספק אם היה ס' ה\"ל ספיקא דרבנן ולקולא משא\"כ כשלא נודע דהיה רובו היתר ה\"ל ספיקא דאורייתא ולחומרא (אבל מין בשא\"מ צריך מדאורייתא ס' והטעם משום דאיסור נותן טעם בהיתר נהפך ההיתר להיות כולו איסור ע\"כ בספק החמירו):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:6"
+        },
+        "7": {
+          "he": "שמא.  והש\"ך חולק על רמ\"א והביא כמה ראיות שנהפוך הוא דהכל הולך בתר טעמא ולא בתר שמא רק ביין נסך או תקרובת עבודת כוכבים דאסור במשהו במינן וכן בדבר שיש לו מתירין דלא בטל כלל במינן בזה אזלינן בתר שמא ולא בתר טעמא אבל בדבר שמתבטל בס' אזלינן בתר טעמא ואפילו יבש ביבש ג\"כ אזלינן בתר טעמא וכתב שהגיעו דבריו אלה לפני כמה גדולי הדור והסכימו עמו גם הגאון מהר\"ר יושיע אמר שדבריו ברורים הם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:7"
+        },
+        "8": {
+          "he": "רובו.  הטעם דס\"ל מין בשאינו מינו מה\"ת בנ\"ט א\"כ ה\"ל ספיקא דאורייתא לחומרא וכ' הת\"ח בשם או\"ה דאפי' אם נפל חלב לבשר עוף שהוא דרבנן אפ\"ה אם נשפך אסור הואיל וטעם כעיקר דאורייתא וכתבו הט\"ז וש\"ך דתמוהין מאד דבריו דמה בכך דטעם כעיקר הלא העיקר גופא אינו אלא מדרבנן וזה שכ' האו\"ה אינו אלא למ\"ד דבשר עוף בחלב דאורייתא אבל לדידן דקי\"ל שהוא רק מדרבנן פשיטא אם נשפך דמותר (וט\"ז כ' וראוי להחמיר בעוף גזירה אטו נשפך בבשר בהמה משא\"כ מין במינו ונשפך דאין שם גזירה אטו איסור דאורייתא):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:8"
+        },
+        "9": {
+          "he": "ומבטלו.  והש\"ך אוסר עכ\"פ את שאינו מינו (וכן דעת הפר\"ח) והט\"ז מתיר אפילו שאינו מינו ג\"כ וכתב דכל זה לא מיירי אלא כשנתערב בפעם א' במינו ושאינו מינו אבל אם נתערב תחלה עם אינו מינו ואח\"כ נתוסף שם מינו ודאי כבר נ\"נ קודם שבא לשם מינו והוא פשוט עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:9"
+        },
+        "10": {
+          "he": "אסור.  כ' הש\"ך פי' שעכ\"פ בקיאין אנו שיש בו רוב אלא דאין אנו בקיאין אם יש בו ס' או שלא ידעינן כמה נפיק מיניה דאז הוי מאיסורים של דבריהם אפ\"ה אין תולין להקל והטעם כתבו הפוסקים דספק התלוי בחסרון ידיעה לא מקרי ספק דדעת שוטים הוא זה משא\"כ אם בא הספק מכח שנשפך והר\"ן כ' משום דבדבר שא\"א לעמוד עליו אי אזלינן לקולא יהיו כל האיסורים בספק וכל א' ישער במה שנראה בעיניו לפיכך באו חכמים להשוות מדותיהן אבל במה שאינו בא אלא באקראי בעלמא כגון שנשפך וכה\"ג אזלינן לקולא והט\"ז הקשה איך אמרינן כאן דחסרון ידיעה לא הוי ספק ובסי' פ\"א מתירין גבינות הטריפות ע\"י סירכא וכן בכחל משום שאם היינו בקיאין היה אפשר להתיר ע\"י בדיקה וה\"ל ס\"ס אלמא דחסרון בקיאות הוי ספיקא ותירץ דגבי גבינות איכא ספק לכל העולם ובכחל איכא תקנה אחרת לשער בכולו משא\"כ כאן דעכ\"פ איכא איסורא בודאי אלא לא ידעינן אם יש שם ס' לכך אסור וע\"ש באריכות (ובנה\"כ תירץ דהכא הוי שפיר חסרון חכמה כיון דא\"א לעמוד על שיעורו אבל התם מדינא אפשר למבדק בפושרין ובנפיחה רק דמחמרינן לומר דאין אנו בקיאין לכן הוי ספק מעליא ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:10"
+        },
+        "11": {
+          "he": "בכלי.  כ' הש\"ך דוקא בכלי אבל בדבר מאכל קי\"ל דנאסר כולו ואפילו בכלי דוקא אם נאסר ע\"י מליחה או ע\"י עירוי אבל אם נאסר ע\"י כבישה צריך כולו ג\"כ לשער נגד כולו וע\"ל סי' צ\"א ס\"ה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:11"
+        },
+        "12": {
+          "he": "ויסירנו.  כתבו הט\"ז וש\"ך אבל בפחות מס' לא מהני תקנה זו דהא אם תחב כף בשר בקדרה של חלב ואנו רואין הכף כמו שהיה בתחלה אפ\"ה אמרינן שהטעם יצא ממנו ה\"נ בחלב לתוך היתר אע\"פ שאח\"כ צף למעלה מ\"מ הטעם שלו נפלט ולא אמרינן תקנה זו אלא לחומרא בדאיכא ס' אבל בדליכא ס' ודאי חתיכה עצמה נ\"נ ולא מהני אח\"כ שיצוף למעלה ודלא כב\"ח שמתיר בדיעבד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:12"
+        },
+        "13": {
+          "he": "איסור.  כתב הש\"ך דמשמע מדברי הרב דס\"ל דאף בשאר איסורים חנ\"נ בכלי ישן מיהו היינו דוקא במקום שאין הפסד אבל בהפסד שרי בשאר איסורים בכלי ישן וכ\"כ בת\"ח ואף אם היא כף ישנה רק דידעינן כמה בלע א\"צ לשער אלא כנגד הבשר והחלב כגון אם ניער בה כזית של בשר ואח\"כ ביומו כזית חלב אין צריך אלא ס' נגד ב' זיתים עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:13"
+        },
+        "14": {
+          "he": "הכזית.  דסבירא ליה דלגבי דבר הבלוע לא אמרי' חנ\"נ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:14"
+        },
+        "15": {
+          "he": "חרס.  כ' הש\"ך דמהרש\"ל וב\"ח חולקים על הר\"ב בזה וכתבו דבכלי חרס ודאי אינו עולה על הדעת שגוף החרס יעשה נבלה וט\"ז כתב דיש להחמיר בכ\"ח אפילו חדש לשער נגד כולו ול\"ד למ\"ש רמ\"א בסי' צ\"ב ס\"ה גבי טיפת חלב דלא אמרינן חנ\"נ אם הוא כלי חדש דהתם שאני שעדיין כולו היתר לא שייך ביה חנ\"נ משא\"כ אם הוא בלוע מאיסור מיהו כ' הש\"ך דבהפסד מרובה וכה\"ג יש להקל כהפוסקים דבשל עץ ומתכת לא אמרינן נ\"נ אבל בלא הפסד יש להחמיר בשאר כלים ישנים ב\"י לומר דנ\"נ אפי' בשל עץ ושל מתכת:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:15"
+        },
+        "16": {
+          "he": "איסור.  פי' הט\"ז אפי' איסור דרבנן דרבנן והכי אמרינן בש\"ס פ' ג\"ה לא תזלזל בשיעורא דרבנן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:16"
+        },
+        "17": {
+          "he": "פליטתה.  כ' הש\"ך לאפוקי לבטל היא עצמה אם אינו מכירה דאז חשיבה בריה כשיש בה אפרוח כדלקמן ר\"ס ק' וע\"ל סי' פ\"ו מדינים אלו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:17"
+        },
+        "18": {
+          "he": "הנוהגין.  פי' בין של תורה בין של דבריהם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:18"
+        },
+        "19": {
+          "he": "עצמן.  כגון תבלין של עבודת כוכבים ושל ערלה וכיוצא בו ואפילו אין אסורים אלא מדרבנן לאפוקי אם הם רק בלועים מאיסור והטעם שהחמירו בתבלין לפי שמן הסתם נ\"ט באלף ולפ\"ז היכא דידוע בבירור שאינו נ\"ט כגון שנפל קורט א' של מלח או תבלין ליורה גדולה מותר ופסק בת\"ח דאפילו נפל מלח ותבלין לדבר ששוה בשמו אפ\"ה כיון דחלוק בטעמא לא בטיל אבל אם נפל לדבר ששוה בטעמו בטל בס' וכ' באו\"ה דהא דאינו בטל אפי' באלף היינו מדרבנן ואם אינו ידוע אם מרגישין טעמו או לא מתיר בכה\"ג בא\"ז גם עתה להאכילו לעובד כוכבים מסל\"ת וכתב הט\"ז וצ\"ע לענין שומן של איסור שנפל למאכל אמאי יהיה בטל בס' הא לטעמא עביד ותירץ בשם או\"ה דלא מקרי טעם בזה אלא דבר חריף ולא שומן דאף שגם הוא מטעים המאכל וממתיקו מ\"מ אין נרגש כ\"כ כמו דבר חריף משום הכי כתב כאן רמ\"א כגון מלח ותבלין ועיין בא\"ח סי' תקי\"ג דשם לא מהני ס' אע\"ג דאינו דבר חריף צ\"ל דשאני התם שיש שם טעמא וחזותא גבי ביצה שלבנו בו מאכל משא\"כ כאן וכתב עוד דשומן בשר שנפל לתוך מאכל חלב בטל בס' כיון שאין האיסור מצד עצמו רק מצד התערובות:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:19"
+        },
+        "20": {
+          "he": "מצטרף.  שטעם דם וחלב אינו שוה הרי נתבטל טעם החלב בס' וטעם הדם בס' דמה לי איסור המבטל איסור ומה לי היתר המבטל איסור רק שיתבטל טעם האיסור ולא יהא לו עוד כח ליתן טעם בהיתר:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:20"
+        },
+        "21": {
+          "he": "בשוגג.  אבל במזיד יתבאר דינו בסי' צ\"ט ס\"ה וכ' בט\"ז זה למאן דלית ליה חנ\"נ בשאר איסורים אבל לפי מה דקי\"ל דאמרינן חנ\"נ בכל האיסורים גם זה התערובת אסור דכבר נעשה נבלה קודם התערובת והש\"ך כתב דגם לדעת רמ\"א מצינו דין זה לענין לח בלח דלא אמרינן חנ\"נ בהפסד מרובה כדלעיל סי' צ\"ב ס\"ד א\"נ דרמ\"א אזיל לטעמיה דס\"ל דאם נתוסף על האיסור בשוגג קודם שנודע התערובות לא אמרינן חנ\"נ א\"נ הכא מיירי שנתערבו שתי הקדרות יחד קודם שנודע התערובות אלא לפי מה שהוכחתי שם דאפילו לא נודע התערובות אמרי' חנ\"נ א\"כ לא שייך האי דינא רק בלח בלח בהפסד מרובה א\"נ אם נפל כזית גבינה לכ\"ט זיתים היתר ובקדירה אחרת נפל כזית בשר לשלשים זיתים של היתר ונתערבו ב' התערובות הללו בשוגג דמותר דלא שייך לומר חנ\"נ כיון דעדיין כולו היתר א\"נ נ\"מ אם נפל כזית דם לתוך ס' זיתים של היתר ואח\"כ נפל כזית ועוד של חלב לאותן ס\"א זיתים דא\"צ ס' נגד ב' זיתים אלו של איסור אלא גם הכזית דם שנפל בראשונה מצטרף לבטל החלב מיהו כ\"ז דוקא בשני מיני אסורים שאין טעמן שוה אבל במין א' לעולם חוזר וניער כדלקמן סי' צ\"ט ס\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:21"
+        },
+        "22": {
+          "he": "מבטל.  פי' שנפלו לירקות בקדרה דמהני כל אחד לשיעור ששים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 98:22"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

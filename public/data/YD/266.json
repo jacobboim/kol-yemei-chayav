@@ -1,0 +1,596 @@
+{
+  "chelek": "YD",
+  "siman": 266,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 14,
+  "fetchedAt": "2026-07-08T00:01:28.386Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "איזה מילה דוחה שבת וי\"ט. ובו י\"ד סעיפים:מילה בין בזמנה בין שלא בזמנה דוחה צרעת שאם יש בהרת בעור הערלה אע\"פ שיש בקציצת הבהרת לא תעשה חותכה עם הערלה אבל אם לאחר שנימול גדל בשר במילתו עד שאינו נראה מהול וצריך לחתכו אם יש בהרת באותו הבשר אסור לחתכו כיון שא\"צ למולו פעם אחרת אלא מדרבנן:",
+      "en": "What circumcision overrides Shabbat and Festivals. And it has 14 sections: Circumcision, whether at the proper time or not, overrides the concern for a tzaraat (leprosy-like) affliction. Even if there is a bright spot on the skin of the foreskin, and cutting that spot would violate the prohibition of \"You shall not make a cutting in your flesh,\" it is still cut together with the foreskin. However, if after the circumcision, flesh grows over the circumcision wound to the point that it no longer appears circumcised, and that new flesh needs to be cut away - if there is a bright spot on that new flesh, it is forbidden to cut it, since the child no longer needs to undergo another circumcision except by rabbinic decree.",
+      "ref": "Shulchan Arukh, Yoreh Deah 266:1"
+    },
+    {
+      "seif": 2,
+      "he": "מילה דוחה י\"ט ושבת בזמנה אבל שלא בזמנה אינה דוחה ואפי' בזמנה אינו דוחה אלא המילה עצמה ופריעה ומציצה ואפי' פירש חוזר על ציצין המעכבין דהיינו אם נשאר מהעור עור החופה רוב גובהה של עטרה אפי' במקום א' ועל שאינם מעכבים אם לא פירש חוזר ואם פירש אינו חוזר ונותנין עליה אספלנית: הגה ומותר לטלטל האיזמל לאחר המילה להצניעו בחצר המעורב אע\"ג דאינו צריך לו עוד באותו שבת דהא לא הוקצה בין השמשות מאחר דהיה צריך לו באותו שבת כן נראה לי (היתר טלטול כתוב בתא\"ו נתיב א' והטעם הוא דברי המחבר ודלא כמהרי\"ל) : אבל מכשיריה אינם דוחים כיון שהיה אפשר לעשות' מבעוד יום ולפיכך אין עושין סכין למול בו ואין מביאין אותו ממקום למקום ואפילו להוציאו מהבית [ולהביאו] דרך גגין וחצרות ומבואות שלא עירבו אבל אם שכח הסכין בגג וחצר מותר להביאו מזה לזה אפי' עירבו חצירות עם הבתים:",
+      "en": "Circumcision overrides the festival and Shabbat when done at the proper time, but not when done at an improper time. Even when done at the proper time, only the circumcision itself, the uncovering, and the tearing away of the remaining membrane are permitted to override Shabbat. Even if the mohel only partially removes the remaining membrane that covers most of the crown in one area, which renders it invalid, he may return to complete it. However, any remaining membrane that does not invalidate the circumcision - if he did not initially remove it, he may not go back, but they may apply an adhesive bandage. Note: It is permitted to move the circumcision implements after the circumcision to store them in the courtyard shared by multiple dwellings, even though they are no longer needed that Shabbat, since they were not set aside as muktzeh before Shabbat, having been needed on that Shabbat. (This permissibility of moving them is written in the Toldot Adam VeChava, Pathway 1, and the reasoning is that of the author of the Shulchan Arukh, contrary to Maharil).However, the implements themselves do not override Shabbat since they could have been prepared beforehand. Therefore, one may not make a knife for circumcising, nor bring it from place to place, nor even take it out of the house [and bring it] through rooftops, courtyards and alleyways that were not included in the eiruv. However, if the knife was forgotten on a roof or courtyard, it is permitted to bring it from one to the other, even if the courtyards were combined with the houses in an eiruv.",
+      "ref": "Shulchan Arukh, Yoreh Deah 266:2"
+    },
+    {
+      "seif": 3,
+      "he": "אין שוחקין סמנים ולא מחמין לו חמין ואין עושין לה אספלנית ולא טורפין לה יין ושמן אם לא שחק כמון מערב שבת לועס בשיניו אם לא טרף יין ושמן מע\"ש נותן זה לעצמו וזה לעצמו ואין עושין לה חלוק אבל כורך עליה סמרטוט ואם לא התקין מערב שבת כורך על אצבעו ומביא דרך מלבוש אפילו מחצר אחרת שלא עירבה:",
+      "en": "One may not grind spices, nor heat water, nor make an adhesive bandage, nor mix wine and oil. If no cumin was ground before Shabbat, he may chew it with his teeth. If no wine and oil were mixed before Shabbat, he may place them separately for himself. One may not make a garment for the child, but may wrap it in a rag. If nothing was prepared before Shabbat, he may wrap it in a piece of cloth from his garment and bring it, even from another courtyard that was not included in the eiruv.",
+      "ref": "Shulchan Arukh, Yoreh Deah 266:3"
+    },
+    {
+      "seif": 4,
+      "he": "מלו את הקטן בשבת ואח\"כ נתפזרו הסימנים עושין לו בשבת מפני שסכנה היא לו (ודין רחיצת התינוק קודם מילה או לאחריה עיין בטור א\"ח סי' של\"א) .",
+      "en": "If a child was circumcised on Shabbat and then the bandage scattered, it may be re-bandaged on Shabbat due to the danger to the child. (Regarding bathing the child before or after circumcision, see Tur Orach Chaim 331).",
+      "ref": "Shulchan Arukh, Yoreh Deah 266:4"
+    },
+    {
+      "seif": 5,
+      "he": "שכחו ולא הביאו סכין מע\"ש אומר לעובד כוכבים להביא סכין בשבת ובלבד שלא יביא אותו דרך רשות הרבים כללו של דבר כל דבר שעשייתו בשבת אסורה עליו משום שבות מותר לנו לומר לעובד כוכבים לעשות אותה כדי לעשות מצוה בזמנה ודבר שעשייתו בשבת אסורה עלינו משום מלאכה אסור לנו לומר לעובד כוכבים לעשותה בשבת:",
+      "en": "If a knife was forgotten and not brought before Shabbat, one may instruct a non-Jew to bring a knife on Shabbat, provided he does not carry it through a public domain. In general, anything whose performance on Shabbat is prohibited due to shevut (rabbinic prohibitions), we may instruct a non-Jew to do in order to perform a mitzvah at its proper time. But anything whose performance on Shabbat is prohibited for us due to a biblical prohibition of labor, we may not instruct a non-Jew to do on Shabbat.",
+      "ref": "Shulchan Arukh, Yoreh Deah 266:5"
+    },
+    {
+      "seif": 6,
+      "he": "כל המכשירים שאין דוחין שבת גם יו\"ט אין דוחין חוץ מזה ששוחקין לה כמון בי\"ט הואיל וראויים לקדרה וכן טורפין לה יין ושמן:",
+      "en": "All the preparations that do not override Shabbat also do not override the festival, except for grinding cumin on the festival since it is fit for a pot, and also mixing wine and oil.",
+      "ref": "Shulchan Arukh, Yoreh Deah 266:6"
+    },
+    {
+      "seif": 7,
+      "he": "אדם שלא מל מעולם לא ימול בשבת שמא יקלקל ונמצא מחלל שבת ואם כבר מל פעם אחת מותר ואפי' אם הוא אביו (תה\"ד סי' רמ\"ה ודלא כה\"ר אליעזר שבטור):",
+      "en": "A person who has never performed a circumcision should not do so on Shabbat, lest he make a mistake and end up desecrating Shabbat. However, if he has already performed a circumcision once before, he is permitted to do so on Shabbat, even if it is his own son (Terumat HaDeshen 245, disagreeing with Rabbi Eliezer cited in the Tur).",
+      "ref": "Shulchan Arukh, Yoreh Deah 266:7"
+    },
+    {
+      "seif": 8,
+      "he": "מי שנולד בין השמשות שהוא ספק יום ספק לילה מונין מן הלילה ונימול לתשיעי שהוא ספק שמיני ואם נולד ערב שבת בין השמשות אינו דוחה את השבת שאין דוחין את השבת מספק וכן אינו דוחה י\"ט מספק ואפילו י\"ט שני של גליות (טור ר\"ס זה בשם תשובת רא\"ש והיא בכלל כ\"ו) ואפילו לא הוציא אלא ראשו בין השמשות אע\"פ שיצא כולו בשבת אינו נימול בשבת:",
+      "en": "8. Someone who was born at twilight where it is doubtful [if it is still] day and doubtful [if it is already] night, we count from the night and do the Bris on the 9th, which is Safek the eighth day. And if he is born Erev Shabbos at twilight it does not supersede [the laws of] Shabbos because we do not supersede Shabbos because of a doubt. And likewise we do not supersede Yom Tov because of a doubt, and even the second day of Yom Tov in Galus [outside Israel]. (Tur, this is in the name of the Teshuvot HaRosh). Even if his only his head emerged at twilight and the rest of him emerged on Shabbos we do not perform the Bris on Shabbos.",
+      "ref": "Shulchan Arukh, Yoreh Deah 266:8"
+    },
+    {
+      "seif": 9,
+      "he": "בשיעור בין השמשות אפליגי תנאי ואמוראי בסוף פ' במה מדליקין וכתב בעל העיטור מספקא לן הלכה כדברי מי הלכך אי איתיליד ינוקא משתשקע החמה ספק הוא עד דשלים בין השמשות דרבי יוסי ונימול לעשרה ואי איתיליד במוצאי שבת משתשקע החמה עבדינן לחומרא כדרבה (ועיין לעיל סימן רס\"ב סעיף ה' ו'):",
+      "en": "Seif 9 – About the measuring of twilight, the Tannaim and the Amoraim disagree at the end of the chapter “Bameh Madlikin” [the second chapter of Shabbat]. The Ba’al HaIttur wrote that there is doubt for us regarding whom the halakhah is like; therefore, if the head of the child was coming out from sunset, there is doubt until twilight according to R. Yose is completed, and the child is circumcised on the 10th day. If the child was born Saturday night from sunset on, we follow the stringency of Rabba.",
+      "ref": "Shulchan Arukh, Yoreh Deah 266:9"
+    },
+    {
+      "seif": 10,
+      "he": "קטן שנולד כשהוא מהול  ומי שיש לו שתי ערלות ואנדרוגינוס ויוצא דופן ויליד בית שלא טבלה אמו עד שילדה אע\"פ שנימולים לח' אינם דוחים את השבת (טומטום שנקרע ונמצא זכר מלין אותו בשבת (כ\"כ הרמב\"ם והרא\"ש) ויש אוסרין) (ב\"י בשם הרי\"ף וכ\"כ ר' ירוחם):",
+      "en": "A child born already circumcised, someone with two foreskins, an androgynous person, an unusual birth, and a child born to a mother who did not immerse before giving birth - even though they are circumcised on the eighth day, they do not override Shabbat. (A tumtum - an intersex individual - who is found to be male after being examined, is circumcised on Shabbat according to Maimonides and Rosh, though some prohibit it) (Beit Yosef in the name of the Rif and Rabbi Yerocham).",
+      "ref": "Shulchan Arukh, Yoreh Deah 266:10"
+    },
+    {
+      "seif": 11,
+      "he": "מי שנולד בחדש השביעי מלין אותו בשבת אפילו אם לא גמרו שערו וצפרניו אבל מי שנולד בחדש השמיני אין מלין אותו בשבת אלא אם כן גמרו שערו וצפרניו והוא הדין לספק בן שבעה ספק בן שמונה שאין מלין אותו בשבת אלא אם כן גמרו שערו וצפרניו: הגה וי\"א דמהלינן ליה הואיל וספק בן שבעה הוא אלא דאין מחללין עליו השבת בשאר דברים (סמ\"ג וכן משמע מהרי\"ף והרא\"ש וטור) וכן נראה לי עיקר:",
+      "en": "One born in the seventh month is circumcised on Shabbat even if his hair and nails are not fully developed. But one born in the eighth month is not circumcised on Shabbat unless his hair and nails are fully developed. The same applies to a doubt whether he is seven or eight months - he is not circumcised on Shabbat unless his hair and nails are fully developed. Note: Some say we do circumcise him since he may be seven months old, but we do not violate Shabbat for anything else related to his care (Semag, and this seems to be the view of the Rif, Rosh and Tur). And this seems to me to be the proper ruling.",
+      "ref": "Shulchan Arukh, Yoreh Deah 266:11"
+    },
+    {
+      "seif": 12,
+      "he": "ישראל שהמיר ונולד לו בן מישראלית מלין אותו בשבת:",
+      "en": "A Jew who converted and had a son from a Jewish woman - the son is circumcised on Shabbat.",
+      "ref": "Shulchan Arukh, Yoreh Deah 266:12"
+    },
+    {
+      "seif": 13,
+      "he": "ישראל שנולד לו בן מעובדת כוכבים אין מלין אותו בשבת:",
+      "en": "A Jew who had a son from a non-Jewish woman - the son is not circumcised on Shabbat.",
+      "ref": "Shulchan Arukh, Yoreh Deah 266:13"
+    },
+    {
+      "seif": 14,
+      "he": "יש ליזהר שלא ימולו שני מוהלים מילה אחת בשבת שזה ימול וזה יפרע אלא המל הוא עצמו יפרע: הגה  ולא מצאתי ראיה לדבריו ואדרבה נראה לי דשרי דהא מילה דחיא שבת כמו עבודה במקדש שכמה כהנים היו עובדים ומחללים שבת דמאחר דשבת ניתן לדחות הרי הוא כחול לכל דבר וכן מצאתי בספר התרומה ישן כתוב בקלף שכתב בסוף הלכות שבת בהדיא דשרי אמנם מצאתי בקובץ שיש לאסור ועל כן טוב להחמיר לכתחלה אף על פי שמדינא נראה לי מה שכתבתי (ד\"ע ודלא כב\"י):",
+      "en": "One must be careful that two mohels do not perform one circumcision on Shabbat, where one does the cutting and the other does the uncovering. Rather, the one who circumcises should also do the uncovering himself. Note: I did not find a source for his words, and on the contrary it seems permissible to me, since circumcision overrides Shabbat like the Temple service where multiple kohanim would perform labor and violate Shabbat. Since Shabbat can be overridden, it is considered like a weekday for this purpose. I also found this explicitly permitted in an ancient manuscript of the Sefer HaTerumah written on parchment at the end of the laws of Shabbat. However, I found in a anthology that there is an opinion to prohibit it, and therefore it is good to be stringent initially, although according to the law it seems to me as I have written. (Contrary to the Beit Yosef).",
+      "ref": "Shulchan Arukh, Yoreh Deah 266:14"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא שבת דף קל\"ב ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:1"
+        },
+        "2": {
+          "he": "טור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:2"
+        },
+        "3": {
+          "he": "שם ע\"א ויליף לה רבי יוחנן מקרא ותניא בבריי' כוותיה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:3"
+        },
+        "4": {
+          "he": "משנה שם דף קל\"ז ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:4"
+        },
+        "5": {
+          "he": "משנה שם דף קל\"ג ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:5"
+        },
+        "6": {
+          "he": "בברייתא שם ע\"ב וכפי' רש\"י שם וכן כתב הטור בשם אביו הרא\"ש:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:6"
+        },
+        "7": {
+          "he": "ציינתיו לעיל בסימן רס\"ד סעיף ה':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:7"
+        },
+        "8": {
+          "he": "שם במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:8"
+        },
+        "9": {
+          "he": "משנה שם דף ק\"ל ע\"א וכר\"ע:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:9"
+        },
+        "10": {
+          "he": "ממימרא דרבי אבא בר רבי אחא וכו' וכדמפרש לה רב אשי שם ע\"ב וכר\"ש במשנה עירובין דף פ\"ט ע\"א דאיפסקא הלכתא כוותיה שם דף צ\"א ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:10"
+        },
+        "11": {
+          "he": "שמואל ורבי יוחנן שם וציינתיו גם כן באורח חיים ריש סי' שע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:11"
+        },
+        "12": {
+          "he": "משנ' שבת ד' קל\"ג ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:12"
+        },
+        "13": {
+          "he": "הרי\"ף שם וכ\"כ הרמב\"ם בפ\"ג מהל' מילה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:13"
+        },
+        "14": {
+          "he": "ל' הרמב\"ם שם דין ט' מהא דא\"ל רבה לאביי ולא שני לך וכו' [עירובין ס\"ח ע\"א] וכפי' הרי\"ף בס\"פ ר\"א דמילה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:14"
+        },
+        "15": {
+          "he": "ברייתא שם דף קל\"ד ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:15"
+        },
+        "16": {
+          "he": "תה\"ד סי' רס\"ה ודהכי משמע ל' המרדכי ר\"פ כסוי הדם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:16"
+        },
+        "17": {
+          "he": "משנה שם דף קל\"ז ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:17"
+        },
+        "18": {
+          "he": "מעובדא דההוא גברא וציינתיו לעיל בסי' רס\"ב סעיף ד' וע\"ש:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:18"
+        },
+        "19": {
+          "he": "דף ל\"ד ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:19"
+        },
+        "20": {
+          "he": "כרבי יוחנן שם דף ל\"ה ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:20"
+        },
+        "21": {
+          "he": "כרבי יהודה שם בברייתא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:21"
+        },
+        "22": {
+          "he": "דס\"ל דבין השמשות כהרף עין פירוש דמספקא ליה בההוא כהרף עין כמ\"ש התוס' שם וקודם לזה יום הוא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:22"
+        },
+        "23": {
+          "he": "שם משמיה דרב יהודה אמר שמואל ג' תלתי מילין:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:23"
+        },
+        "24": {
+          "he": "ברייתא שם בשבת דף קל\"ה ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:24"
+        },
+        "25": {
+          "he": "שם ע\"ב פלוגתא דאמוראי ולא אפסקא הלכ' כמאן ולחומרא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:25"
+        },
+        "26": {
+          "he": "טור בשם הרמב\"ם בפ\"א מה\"מ וכרבנן שם בברייתא ולדעת הב\"י גם הרי\"ף ס\"ל דאינו דוחה שבת דספוקי מספקא ליה כמ\"ש הרי\"ף שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:26"
+        },
+        "27": {
+          "he": "גם זו שם בפלוגתא דאמוראי ולא איפסק' הלכה כמאן ולחומרא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:27"
+        },
+        "28": {
+          "he": "הרא\"ש שם בפסקיו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:28"
+        },
+        "29": {
+          "he": "דלא כרב שזבי דאיתותב בקושיא ב\"ב דף קכ\"ו ע\"ב והא דהרמב\"ם לא בפירוש פסק כן אלא מדלא הזכיר בה\"מ נראה להב\"י כן:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:29"
+        },
+        "30": {
+          "he": "שם וכרב שזבי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:30"
+        },
+        "31": {
+          "he": "בריי' שבת דף קל\"ה ע\"א וכדמוקי לה ביבמות דף פ' ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:31"
+        },
+        "32": {
+          "he": "ב\"י לדעת הרי\"ף והרא\"ש והרמב\"ם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:32"
+        },
+        "33": {
+          "he": "טור וכ\"כ בעל העיטור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:33"
+        },
+        "34": {
+          "he": "שם מהירושלמי ואיתא נמי בב\"ר וכתבו בעל העיטור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:34"
+        },
+        "35": {
+          "he": "ב\"י מהא דאית' בברייתא שבת דף קל\"ג ע\"ב ואם לא הלקיט ענוש כרת וכו' אנא עבדי פלגא דמצוה וכו' דקדק מדברי רש\"י שם דנהי דחיוב כרת ליכא איסורא מיהא איכא כיון שלא גמר המצוה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 266:35"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "רוב גובהה של עטרה. ע\"ל סי' רס\"ד ס\"ה ומ\"ש שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 266:1"
+        },
+        "2": {
+          "he": "ומותר לטלטל כו' אבל אם שכח כו' מותר. דבכה\"ג אפילו שלא לצורך מילה מותר כמו שנתבאר בא\"ח ר\"ס שע\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 266:2"
+        },
+        "3": {
+          "he": "אין שוחקים כו' ולא כו'. טור. פי' לפי שכל מכשירי מילה אלו היה אפשר לעשותן מע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 266:3"
+        },
+        "4": {
+          "he": "לועס בשיניו. דכמה דאפשר לשנויי משנינן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 266:4"
+        },
+        "5": {
+          "he": "ואין עושין לה חלוק כו'. כעין כיס דחוק היו עושין ומלבישין ראש הגיד עם ראש העטרה וקושרין שם כדי שלא יחזור העור לכסות את הגיד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 266:5"
+        },
+        "6": {
+          "he": "ואח\"כ נתפזרו הסמנים כו'. וכתב הר\"ן דאם נתפזרו אותן הסמנים שהכינו לצורך אחר המילה קודם המילה דעת הרמב\"ן שאין למצוה אלא שעתה ומלין אותו ואין דוחין את המילה מפני שנצטרך אח\"כ לדחות את השבת דבתר הכי פיקוח נפש הוא דדחי לה ולא מכשירי מילה ודעת הרז\"ה והרשב\"א דתדחה המילה עכ\"ל. וכתב בית יוסף שכן נראה דעת הרי\"ף והרמב\"ם ואינו מוכרח מיהו בעט\"ז כתב דתדחה המילה וכ\"פ הב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 266:6"
+        },
+        "7": {
+          "he": "ואפילו אם הוא אביו. ולא אמרינן דלגבי אביו הוי פסיק רישי' דניחא ליה שהרי מתקן את בנו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 266:7"
+        },
+        "8": {
+          "he": "ואפילו י\"ט שני של גליות. ולפעד\"נ עיקר כהרמב\"ם דדוחה י\"ט שני של גליות דכן הוא ג\"כ דעת הסמ\"ג עשין כ\"ח ד' קט\"ו והכל בו סימן ע\"ג וכן נראה דעת הברטנורה שפירש שני י\"ט של ר\"ה דקדושה אחת הן וכתב רמב\"ם וסייעתו שם דה\"ה כל שאר הדברים שאינם דוחין שבת דוחין את י\"ט שני דגליות:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 266:8"
+        },
+        "9": {
+          "he": "ואפי' לא הוציא אלא ראשו כו'. וכתוב בסמ\"ק סי' קנ\"ז וצריך לדקדק באשה מקשה בערב שבת אם הוציא ראשו חוץ לפרוזדור בערב שבת אז אין מלין אותו בשבת כי אם בערב שבת וצריך לשאול לנשים ואם אינן יודעות יש לילך אחר המנהג ע\"כ וכ\"כ הכל בו סימן ע\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 266:9"
+        },
+        "10": {
+          "he": "משתשקע החמה. בע\"ש ונימול לעשרה היינו ביום א':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 266:10"
+        },
+        "11": {
+          "he": "דר' יוסי. דהיינו כהרף עין סמוך ללילה ממש וכבר נתבאר בסי' רס\"ב סעיף ו' דמשנראו ג' כוכבים לילה הוא. ובתשובת מהר\"מ אלשקר סי' צ\"ו שאלה תינוק שנולד ע\"ש אחר שקיעת החמה קודם שנראו ג' כוכבים בינונים אם נימול יום ראשון כדעת הרי\"ף והרמב\"ם והרא\"ש ז\"ל דלדידהו בין השמשות הוי תיכף אחר שקיעת החמה מעל הארץ או אם נימול בע\"ש כדעת ר\"ת ז\"ל שכתב דשתי שקיעות נינהו ושאין בין השמשות מתחיל אלא מסוף השקיעה אחר שנכנס החמה בעובי של רקיע אבל קודם לכן יום גמור הוא וכן דעת הרמב\"ן בספר תורת האדם והסמ\"ג והר\"ן כו' ע\"ש שהאריך להביא שיטת הגאונים והפוסקים ובביאור דבריהם ומסיק שם כללא דמילתא דהאי ינוקא אין מלין אותו עד יום א' וע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 266:11"
+        },
+        "12": {
+          "he": "כדרבה. דאמר בפ' במה מדליקין (שבת דף ל\"ד ע\"א) דכל שפני מזרח מאדימין נמי בה\"ש הוא והוא מהלך ג' חלקי מילין קודם הלילה (ודלא כרב יוסף דאמר התם דיום הוא) והלכך נימול לט' ולא בשבת:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 266:12"
+        },
+        "13": {
+          "he": "אע\"פ שנימולין לח'. וכדלעיל סי' רס\"ב ס\"ד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 266:13"
+        },
+        "14": {
+          "he": "מלין אותו. דבן קיימא הוא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 266:14"
+        },
+        "15": {
+          "he": "אלא דאין מחללין עליו שבת בשאר דברים. ז\"ל ד\"מ ולי נראה דודאי דעת הרי\"ף כדעת הרא\"ש וכדעת הטור ומלין אותו מכל מקום והא דכתב דאין מחללין עליו היינו דאין פיקוח נפש דוחה שבת מאחר דלא גמרו שערו וצפרניו אין מחללין עליו שבת אלא מוהלין אותו ממ\"נ (אי בן ז' הרי הוא בן קיימא ואי בן ח' הוא הרי הוא כמחתך בשר בעלמא כדאיתא בטור) וזה אין שייך לשאר חילולים והא דמוקי לה בש\"ס לענין מכשירים ואליבא דרבי אליעזר היינו משום דלענין מילה מיתני בש\"ס וכל הפוסקים למדו ממנו שאר חילולים לענין פסק הלכה והא דלא כתבו דמוהלין אותו ממ\"נ אפשר דסמכו על מ\"ש אין מחללין עליו השבת דמשמע דוקא דאין מחללין אבל מהלינן ליה דממ\"נ אין בו חילול שבת כמו שאמר הטור כן נראה לי וכ\"כ הסמ\"ג בהדיא דאין מחללין עליו השבת היינו דאין מפקחין עליו הגל אע\"ג דמהלינן ליה עכ\"ל ועד\"ר וב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 266:15"
+        },
+        "16": {
+          "he": "מישראלית כו'. ולי נראה דאפילו נשוי מומרת נמי מלין בשבת בן הנולד מהם שהרי הם חייבים בכל המצות וישראלית דנקט העיטור אפשר דלא לאפוקי מומרת אלא לאפוקי עובדי כוכבים עכ\"ל בדק הבית ומביאו ב\"ח ולי לא משמע הכי וגם מדסיים הב\"ה ואין אנו מחזיקים אותו שיצא לתרבות רעה כיון שאמו ישראלית ומביאו הטור משמע דהוי סלקא דעתך אמינא כיון דאביו מומר נחזיקהו שיצא לתרבות רעה ולא מחזקינן בהכי כיון שאמו ישראלית אבל כשאמו מומרת אסור וצריך עיון:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 266:16"
+        },
+        "17": {
+          "he": "מלין אותו כו'. כתוב בספר ב\"ה בשם הרשב\"ץ דממזר מלין אותו בשבת וכן הוא במהרי\"ל: כתוב עוד בספר בדק הבית וז\"ל כתוב בא\"ח בשם הרמב\"ם הקראים כל זמן שלא ידברו תועה על הרבנים ולא יתלוצצו בדברי רבותינו הקדושים חכמי המשנה והש\"ס נכון לנו לכבדם ללכת לשאול בשלומם אפילו בבתיהם ולמול בניהם אפילו בשבת היכא דגזור להו גזירה דידן ועבוד להו מילה ופריעה דדלמא נפק מנייהו זרעא מעליא והדרי בתיובתא והכי אשכחן לרבינו האי זצ\"ל דאמר הכי עכ\"ל. ובתשובת רבינו בצלאל אשכנזי ס\"ס ג' מביא דברי הרמב\"ם ורבינו האי גאון וכתב נמצאת למד כי בקראים הדרים אצלינו בזמן הזה לא נמצא בהן אחד מכל המדות שהזכיר הגאון ז\"ל כי בכל יום הם מוסיפין גירעון ואינם מלים בניהם שהרי אינם פורעים וקיימא לן מל ולא פרע כאלו לא מל ואינם מלים במוהל שלנו ואין מכניסים בבתיהם תלמידי חכמים אדרבה בורחים מהם כבורח מן הנחש ואין מתפללים במנהג שלנו כלל אין אומרים י\"ח הרי שהם משונים בכל דבריהם ולפיכך אסור למול בניהם בשבת כיון שאינם מודים בפריעה ואם כן איך יעשה להם פריעה וכי תימא ימול בלא פריעה נמצא מחלל שבת ואינו עושה מצוה ע\"כ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 266:17"
+        },
+        "18": {
+          "he": "ולא מצאתי כו'. בעט\"ז האריך בזה וסיום דבריו אף כי לא מלאני לבי להתיר לכתחלה לשואלין הואיל והורה זקן הב\"י והרב סיים שיש להחמיר לכתחלה מ\"מ אין נ\"ל למחות ביד הנוהגין היתר אפי' לכתחלה כו' ולחנם האריך שהרי גם הרב עצמו דחה כל דברי ב\"י בד\"מ ובתשובה סי' ע\"ו ואדרבה האריך שם בראיות להתיר ע\"ש אלא שחש לאותו קובץ שמצא שאולי היה ברור לו שאותו קובץ נתלה באיזה אילן גדול מיהו כבר פשט המנהג להתיר וכ\"כ העט\"ז והב\"ח וגם הרב ב\"י גופיה כתב בספר ב\"ה על דברי עצמו וז\"ל ובא\"ח כתוב בשם בעה\"ת שנים מוהלים בשבת אחד יכול לימול וא' יכול לעשות פריעה ואין שום חיוב בראשון על החבורה כיון שהשני גומר המצוה כדאמר רב פפא אנא עבדי פלגא דמצוה ואתון עבידו אידך פלגא ע\"כ: בספר ב\"ה וז\"ל כ' הרשב\"ץ בתשובה על הא דתניא אין מפליגין בספינה פחות מג' ימים קודם השבת שפי' הרז\"ה דטעמא משום שהוא דבר שא\"א שלא יבא לידי חילול שבת ונראה כמתנה לחלל שבת דג' ימים קודם שבת מקרי שבת דמכאן יש ללמוד דאסור למול הגר ביום ה' כדי שלא יבא ג' למילה בשבת ויצטרך לחלל עליו השבת וכן תנוק שחלה ונתרפא ביום ה' בשבת ממתינן לו עד למחר עכ\"ל ואין דבריו נראין דהא אמרינן בש\"ס פ\"ק דשבת (דף י\"ט ע\"א) אהא דאין מפליגין בספינה דהיינו דוקא לדבר הרשות אבל לדבר מצוה שפיר דמי והוא מוסכם מכל הפוסקים כמו שנתבאר בא\"ח סימן רמ\"ח והכא נמי אין לך מצוה גדולה מזו ועוד דע\"כ הרשב\"ץ ס\"ל דהא דמחללין שבת בשלישי למילה היינו יום ג' דוקא ולא קודם לכן ולכן מתיר לימול ביום ו' אבל לפי מ\"ש הרב המגיד פ\"ב מהל' שבת בשם קצת מפרשים ובשם הרמב\"ן והרשב\"א שכ\"ש ביום השני מחללין וכ\"כ הרמב\"ם בפי' המשנה והברטנורא ורש\"י פ' ר' עקיבא א\"כ נצטרך לומר דמילה שלא בזמנה שחל בה' בשבת נדחה עד לאחר השבת וזה אי אפשר דא\"כ הא דתנן פ' ר\"א דמילה קטן נימול לח' כו' ולי\"ב לא פחות ולא יותר נולד בין השמשות וחל בשני י\"ט של ראש השנה שלפני השבת נימול לי\"ב הא משכחת לה אפי' ט\"ו היכא דחל שני י\"ט של ר\"ה בג' וד' דה\"ל י\"ב בה' ואסור למולו בה' כיון דלא הוי בזמנו דידחה שבת וא\"כ נדחה עד יום א' אלא ודאי דאפילו מילה שלא בזמנה שרי ביום ה' ואפילו הפוסקים דס\"ל דיום ג' דוקא דוחה שבת אפשר דמודו בזה דמילה שלא בזמנה מותר ביום ה' וכדהוכחתי מדעת רוב הפוסקים וכן נראה עיקר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 266:18"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "להצניעו בחצר המעורב. כ\"כ ב\"י בשם רבינו ירוחם ובמהרי\"ל כתב שצוה מהר\"י סג\"ל שתיכף אחר המילה יסירו מידם כל צרכי המילה דחשובים מוקצה להלאה וגם המוהל לא יחזור ליטול האיזמל מן החול שהטיל שם הערלה בהיותו בהול על הפריעה עכ\"ל ורש\"ל בתשובה כתב גם כן להתיר כמו שכתב רמ\"א כאן מטעם שכיון שהיה ראוי בין השמשו' הותר לכל היום דאין מוקצה לחצי שבת ואיני כדאי להכריע בין הרים הגדולים אבל נ\"ל מבורר לאיסור וראיה ברורה מתלמוד ערוך פ\"ק דביצה (דף י\"א) תנא ושוין שאם קצב עליו בשר שאסור לטלטלו פירוש התם קאי על עלי שמלאכתו לאיסור לכתוש במכתשת ואפילו הכי מתירין ב\"ה לקצב עליו בשר לצורך י\"ט וע\"ז אמר דאחר שעשה בו צורך י\"ט אסור לטלטלו ועוד ראיה מפרק אין צדין (ביצה דף כ\"ח) שפוד שצלו בו בשר אסור לטלטלו בי\"ט לפי שנמאס ומוקצה וכבר נעשה צורך י\"ט והאי איזמל ממש הוא כוותייהו דהנך דאחר שנעשה בו המצוה חזר לאיסור מוקצה ומ\"ש רש\"ל דאין מוקצה לחצי שבת אינו ענין לזה דהך אין מוקצה לחצי שבת הוא בפרק אין צדין (ביצה דף כ\"ו) בענין שיהיה ראוי בבין השמשות וביום השבת אידחי וחזר ונעשה ראוי דאין איסור מוקצה בזה מה שאין כן כאן שמתחילה בבין השמשות לא היה עליו שם ראוי אלא לעשות צורך י\"ט ולא אח\"כ ומ\"ש ב\"י בשם רבינו ירוחם בשם הרמב\"ן דמותר לטלטלו אחר המילה דמאחר שטלטל בהיתר מחזירו לאיזה מקום שירצה כו' נראה טעמו דאי היה צריך להשליך האיזמל אחר כך ויהיה אבוד ודאי מימנע ולא מהיל וזה עדיף טפי מהנך ג' דברים שאמר עולא (פרק אין צדין) [פ\"ק דביצה] שהתירו סופן משום תחילתן ולא חשבו עולא כי פשוט הוא והנך ג' יש בהו חידוש כדאיתא שם. וע\"כ נראה דלא התיר הרמב\"ן אלא להצניעו אח\"כ באותו חדר שמל שם כדי שלא יהיה אבוד אבל לא למקום אחר מטעם שאמרנו כיון שסגי בלאו הכי וגם בשופר של ר\"ה אחר התקיעה כתב רש\"ל שם שראה שנהגו איסור לטלטלו אח\"כ ותמה הוא ע\"ז שם שהרי ראוי לתקוע בו כל היום ולפי מה שכתבתי ניחא שהרי גם העלי והשפוד שרי לעשות בהם צורך י\"ט פעם שנית אם ירצה ואפ\"ה אסור כל שאינו לצורך יו\"ט וה\"נ דכותיה שאין לטלטל השופר אם הוא שלא לצורך תקיעה וכ\"ש האיזמל אחר המילה אם לא להצניעו באותו חדר שמל שם ותו לא ואפילו לפני המילה אין לטלטלו בחנם כל שאינו לצורך המילה כנלע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 266:1"
+        },
+        "2": {
+          "he": "דרך גגין וחצרות. פי' כלים ששבתו בתוכן דכולן רשות אחת הה כמ\"ש בא\"ח סי' שע\"ב ואפילו הן של בעלים הרבה שלא אסרו אלא בכלים ששבתו תוך הבית כשקדש היום דאותן אסור לטלטל מבית לחצר אם לא ערבו הבתים עם החצר ואפילו ערבו הבתים עם החצר אסור לטלטל אותו כלי הבית מחצר זה לחצר אחרת שלא ערבו עמה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 266:2"
+        },
+        "3": {
+          "he": "אפילו ערבו חצרות עם הבתים. פי' כל בית ערב עם חצר שלו ולא אמרינן הואיל ואז שכיחי כלי הבית בחצר אם נתיר לטלטל מחצר לחצר כלי ששבת באחד מהם יטלטל גם כלים ששבתו בבית מחצר לחצר הא לא גזרינן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 266:3"
+        },
+        "4": {
+          "he": "ואין עושין לה חלוק. פי' כעין כיס דחוק היו עושין ומלבישין ראש הגיד עם העטרה כדי שלא יחזור העור לכסות העטרה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 266:4"
+        },
+        "5": {
+          "he": "אפילו מחצר. אבל לא מר\"ה שאין זה מלבוש ממש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 266:5"
+        },
+        "6": {
+          "he": "פעם אחת מותר. ול\"ד למוחזק דשחיטה דבעינן ג' פעמים דהתם איכא למיחש לעילוף כל דהו ועל ידי כך ישהה או ידרוס ולכך בעינן מוחזק ג' פעמים אבל כאן אין חשש אלא משום שמא לא יוכל לאמן ידיו וכיון דחזינן בחד זמנא דמאמן את ידיו שפיר סגי בהכי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 266:6"
+        },
+        "7": {
+          "he": "מי שנולד בחודש השביעי. בטור כתוב בזה אם הוא שלם כו' וסבירא ליה לבית יוסף שפירושו שלם באיבריו אבל לא איכפת לן בשערו וצפרניו דנקט בתר הכי דאפילו לא נגמר שערו וצפרניו מלין אותו בשבת וראייתו מהא דאפילו גבי ספק בן ז' כתב דא\"צ שיגמרו שערו כו' ותמהתי אם כפי' אין שלם באיבריו בעי למעוטי בז' וכמעט אין לו שום משמעות כי לא נמצא קפידא של איברים בשום דוכתא לענין מילה ותו ק\"ל דהא איתא בפ' הערל (יבמות דף פ') תניא איזהו בן ח' כל שלא כלו לו חדשיו רבי אומר סימניו מוכיחין עליו שערו וצפרניו שלא נגמרו הרי לפנינו דלרבי כל שלא נגמרו סימניו מיקרי בן ח' וקיי\"ל כר' כמבואר שם בגמ' ע\"כ נלע\"ד דע\"כ כתבו רמב\"ם וטור אפי' בבן ז' שצריך שיהיה שלם דהיינו בסימנים אלו דאם לא נגמרו לא מיקרי בן ז' והא דנקט הטור תחילה בבן ז' שלם סתם ואח\"כ גבי נולד לח' כתב שלם בשערו ובצפרניו להורות כי בבן ז' אין אנו צריכין לדקדק אחר זה או מי שאינו בקי בסימנים אלו אין חשש רק שלא נראה חסרון בבירור לפנינו ע\"כ אמרו סתם שלם ולא באו למעוטי אינו שלם אלא כתב זה לומר כיון שלא ראינו בודאי שום חסרון אבל בבן ח' צריך שיהיה נראה מבורר שלימות בשערו וצפרניו. ומה שהקשה בית יוסף שהרי אפילו בספק כתב הטור שמלין אפילו בלא גמרו לק\"מ דמתחלה אמר הטור מה שהוא מוסכם מכל הפוסקים דהיינו אם הוא שלם ואח\"כ כתב מה שיש בו מחלוקת דהיינו בספק והכריע הוא דאפילו התם אין צריך גמרו. ובזה ניחא לי מה שכתב הטור שנראה לו מלשון הרמב\"ם שרצה לומר שגמרו שערו כולו ותמה בית יוסף מהיכן ראה כן מדברי רמב\"ם ולדידי ניחא שהיה קשה לו ברמב\"ם כיון שכתב שאפילו בודאי בן ז' צריך שיהיו נגמרו והיאך יתיר בספק בלא נגמרו אלא ודאי פשוט דבנגמרו קאמר ועל זה חולק הטור דאפילו בלא נגמרו מלין מכח ממ\"נ אם חי הוא שפיר ואם נפל הוא הוה מחתך בשר בעלמא ואין כאן חבורה כלל וע\"כ בכל גווני מלין אפילו בלא נגמרו זהו דעת הטור והוא דעת הי\"א שמביא רמ\"א בסמוך והמקור מפרק ר\"א דמילה שמביא בית יוסף במסקנת התלמוד בתירוץ רב אדא בר אהבה דאפילו ספק בן ז' מלין ממ\"נ. אלא שהטור הביא דעת הרא\"ש שכתב דספק בן ז' אין מחללין עליו שבת ותמה עליו דהא מלין אותו מכח ממ\"נ. ותירץ בית יוסף דהרא\"ש נמשך אחר הרי\"ף שכתב גם כן הכי וטעמם דאותה סברא דמהלינן מכח ממ\"נ לא נשארה במסקנא כיון שבפרק הערל אמרי' אהברייתא דמיירי בלא גמרו דאז הוה כאבן אבל גמרו יוכל לחיות ממילא אמרינן דבספק בן ז' לא מהני למימהל מכח ממ\"נ וקשה דלמה נאמר בחנם בסתמא דתלמודא שהם חולקים זה על זה ואותן אמוראים שהוזכרו בפרק ר\"א דמילה לא ידעו דברייתא מיירי בלא נגמרו זה אי אפשר לאומרו ולמה לא נאמר דגם הם ידעו פירושא דברייתא ואפילו הכי מהלינן מכח ממ\"נ אפילו בלא נגמרו. ונלע\"ד זה טעם הרא\"ש והרי\"ף דבודאי לפי מסקנת הגמרא מהלינן בכל גווני אפילו בלא נגמרו אלא דכיון דאם היה ודאי בן ח' לא מהלינן בלא נגמרו כיון דוודאי לאו בר מילה הוא ולא מהני לומר שמחתך בשר כמ\"ש הטור וז\"ל כיון שהוא כאבן למה יחתכו בשר שלא לצורך ואם כן עיקר ההיתר דוקא בספק ולדידן לא מהני ספק דאפשר מה שהוא ספק לדידן היה ודאי לחכמי התלמוד וכמ\"ש התוס' סברא זאת בפ' רבי אליעזר דמילה (שבת דף קל\"ה) ד\"ה בן שמונה כו' שאין אנו בקיאין וכולן מיקרי ספק כו' אע\"ג שהם כתבו זה להיתר לענין ודאי בן ח' שלדידן אין כאן ודאי היינו בנגמרו כמשמעות דבריהם אבל בלא נגמרו הוה חומר מכח סברא דאין אנו בקיאין וכמ\"ש הטור סי' נ\"ח וז\"ל אבל אם הוא לפנינו אלא שאין בקי לשערו אפילו מדרבנן אין תולין להקל עכ\"ל וה\"נ כן הוא דהרבה פעמים נולד בין השמשות ואין אנו בקיאים אם היה יום או לילה ואפשר שבימי חכמי התלמוד היו יודעים בודאי שיום הוא או להיפך כן נראה לי טעם הרי\"ף והרא\"ש שלא התירו למול בשבת בספק בן ח' אלא אם כן גמרו כו' והוא דעת השלחן ערוך ואיני יודע למה הכריע רמ\"א להקל בשבת נגד דעת הרי\"ף והרא\"ש שוב ראיתי שרמ\"א בד\"מ כתב דהרי\"ף והרא\"ש ג\"כ סבירא להו דמהלינן מכח ממ\"נ ולא הוצרכו לכותבו ובדרישה הביאו והוא דרך רחוקה מאוד מכח כמה דברים ואין שום סברא שיהא פשיטא להם ובגמרא הוצרכו לומר כן בשם רב אדא בר אהבה גם בדרישה חלק עליו. וכן משמעות דברי התוספת בפרק רבי אליעזר דמילה שזכרתי דבעינן שלא יהא ריעותא כלל בצפרניו ובשערו אפי' בספק ע\"ש וכ\"כ הנ\"י בפרק הערל דאפילו בגמרו סימניו היה לנו להחמיר אלא שבזה סמכינן על הממ\"נ וכ\"כ רמב\"ם וריטב\"א עד כאן ובודאי אין ראוי להקל כלל נגד אלו למול בשבת אם לא גמרו סימניו כנלע\"ד וכן הכריע מו\"ח ז\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 266:7"
+        },
+        "8": {
+          "he": "אלא אם כן גמרו כו'. דאז אמרינן שזה הולד היה לו להולד בחודש הז' שאז נגמר אלא שנשתהה לחודש הח':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 266:8"
+        },
+        "9": {
+          "he": "מלין אותו בשבת. ואין מחזיקין אותו שיצא לתרבות רעה כיון שאמו ישראלית כן כתב הטור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 266:9"
+        },
+        "10": {
+          "he": "אין מלין כו'. שולד כותית היא כמותה וכתב בית יוסף בבדק הבית דישראלית מומרת שהולידה ממומר מלין בשבת דאע\"פ שחטאו ישראלי' הם והא דנקט מומר שנשא ישראלית אתי לאפוקי כותית ולא משמע כן בטור שהרי כתבתי בסעיף י\"ב משמו שאין מחזיקין שיצא לתרבות רעה כיון שאמו ישראלית ובזה שאמו מומרת ודאי מחזיקין אותו בכך ואין למולו בשבת ואע\"ג דנותנין אותו לימול שמא אחר כן יחזירוהו לדרך שלהם כיון שהם נשארו כך ותו דאפשר שהם מומרים לכל התורה חוץ ממצות מילה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 266:10"
+        },
+        "11": {
+          "he": "יש להזהר שלא ימולו כו'. בבית יוסף יליף לה מהא דגרסינן פרק רבי אליעזר דמילה מהלקטין את המילה פירש\"י בציצין המעכבין ואם לא הלקיט ענוש כרת ופרכינן כרת זו של מי הוא אמר רב כהנא אומן ענוש כרת שחילל שבת ולא עשה מצוה מתקיף לה רב פפא לימא להו אנא עבדי פלגא דמצוה אתון עבדי פלגא דמצוה פירש\"י כלומר הואיל וכשהתחיל ברשות התחיל וחבורה שעשה ברשות עשה אמאי חייב נימא להו לכו אתם וסיימו המלאכה עכ\"ל וכ' ב\"י ויש לדקדק מדבריו דנהי דחיובא דכרת ליכא איסורא מיהא איכא כיון שלא גמר המצוה ולפי זה יש ליזהר שלא ימולו שני אומנים כו' ותמוהין דבריו דאם היה שום סברא לאיסור בזה מאי קשיא ליה לרב פפא דלמא ההיא סברא מועלת גם לחיוב כרת ומאן פלג ליה לחלק בזה ולהקשות אלא ברור דאין כאן אפי' איסור כלל ורש\"י דנקט אמאי חייב לפי שבברייתא אמר חייב אמר גם המקשן אמאי חייב ולאו לדיוקא אתי ולומר דאיסורא איכא. וכבר נהגו בהרבה מקומות גדולות שמלין ב' מוהלין בשבת זה מל וזה פורע ובלבוש כתב לחלוק על הוראה זו והסכים שיש רמז איסור בדברי רש\"י אלא שחילק בין דברי רש\"י להוראה זו גם מו\"ח חילק חילוק אחר אבל נלע\"ד דמעולם לא נתכוין רש\"י לומר שיש שם איסור וא\"א לומר שיש איסור בדבר כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 266:11"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "אבל שלא בזמנה אינה דוחה. עיין בתשו' רבינו עקיבא איגר סימן קע\"ד שנשאל במל בשבת שלא בזמנו אי אמרינן ביה דעביד לא מהני והוי כאילו נחתך העור מעצמו או ע\"י עובד כוכבים דצריך להטיף דם ברית או כיון דרק יומא קגרים אין זה בכלל אעל\"מ והאריך בזה לדחות ראית השואל לסברא זו וכתב דגם משוחט בשבת אין ראיה דשאני התם דאין העבירה תלוי בשחיטה דאף בנוחרו הוי מלאכת שבת ולא יתוקן הלאו במה דלא מהני (עיין בנ\"צ לעיל סימן י' הבאתי סברא זו בשם מהרי\"ט וחו\"ד ושם העירותי ע\"ז מעבר ושחט או\"ב ע\"ש) אבל במל בשבת העבירה תלוי במצוה דמילה למאי דקיי\"ל מקלקל בחבורה פטור אלא דמילה הוי מתקן גברא י\"ל בזה דלא מהני וצריך להטיף ד\"ב ולא נתקן גברא והוי מקלקל ולא נעשה מלאכת שבת. ושוב כתב לעיקר דבמל שלא בזמנו בשבת דמהני א\"צ להטיף ד\"ב דדמי שפיר לשוחט בשבת דגם במילה אף אם נדון דלא מהני מ\"מ לא הוי מקלקל כיון דעתה אינו חסר רק הטפת ד\"ב מקרי מתקן וראיה מסוגיא דשבת דף קל\"ג ע\"ש ונראה לפע\"ד דהך שאלה לאו לענין דינא איתשל רק לפלפולא בעלמא לעמוד על טעמו של דבר (ומה\"ט לא הוקבעה בחלק הפסקים אמנם מלשון התשובה שם קצת לא משמע הכי) דהרי בשבת דף קל\"ז ע\"א משמע להדיא דבזה אי עביד מהני מדקרי ליה התם עשה מצוה גבי שכח ומל של ערב שבת בשבת ע\"ש דאין לומר דשאני התם דהיה בשוגג והך שאלה איתמר לענין מזיד דזה אינו דהרי בתשובת נו\"ב תנינא חי\"ד סימן ט' הוכיח מסוגיא דתמורה דף ו' דאף בשוגג אמרינן אי עביד ל\"מ ע\"ש. ועוד נראה לכאורה לפי הטעם שכתב רבינו הנ\"ל דדמי שפיר לשוחט בשבת כו' כיון דעתה אינו חסר כו' לפ\"ז בנולד מהול דא\"צ רק הטפת ד\"ב ואינו דוחה שבת כדאיתא בשבת קל\"ה וכדלקמן ס\"י אם עבר והטיף ממנו בשבת י\"ל דלא מהני וצריך לחזור ולהטיף ד\"ב דכאן אם נאמר דלא מהני הוי מקלקל גמור דקודם ג\"כ לא היה חסר רק הטפת ד\"ב וצ\"ע. וכתב עוד שם דגם מצוה הבאה בעבירה ל\"ש בזה כיון דאין גופה עבירה ע\"ש. ועיין עוד שם בחלק הפסקים סימן קכ\"ט שהאריך מאד בכלל אעל\"מ:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 266:1"
+        },
+        "2": {
+          "he": "שאינם מעכבים. עיין בשו\"ת שאגת אריה סי' נ\"א מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 266:2"
+        },
+        "3": {
+          "he": "ומותר. עיין בה\"ט [ועיין בספר לבושי שרד שכתב בשם מהרי\"ע כשמלין בשבת אסור לקנח האיזמל מן הדם ע\"ש] ועיין בתשובת נו\"ב תניינא חיו\"ד סי' קס\"ב שכתב במוהל שמל בשבת ואח\"כ זרק הערלה מידו דמותר ליקח הערלה ולהניחה לעפר המוכן לה ואף שכתב רש\"ל בתשובה סימן מ' דלאחר שזרקו לעפר מוקצה הוא מכל מקום קודם שזרקו עדיין לא נעשה מצותו לאו מוקצה הוא וסיים דעכ\"פ לכתחלה יזהר המוהל שתיכף שחתך הערלה בעודה בידו יזרקנה לעפר אבל אם אירע שזרקה מידו קודם לכן מאן דמתיר להגביה הערלה כדי לתתה בעפר לא משתבש ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 266:3"
+        },
+        "4": {
+          "he": "אין עושין סכין. בספר חכמת אדם כלל קל\"ה כתב דה\"ה אם אינו חד אסור להשחיזו במשחזת ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 266:4"
+        },
+        "5": {
+          "he": "שלא מל. עיין במ\"א סימן של\"א סק\"י דה\"ה אם מל ולא פרע מעולם אסור לפרוע בשבת וטעם אחד להם ע\"ש ועיין בתשובת שבו\"י ח\"ג סי' כ\"ה שאם אין מוהל אחר ויודע בעצמו שיכול למול שרי ע\"ש. כתב הבאר היטב שם מוהל שבא למול בשבת ואמר שכבר מל פ\"א נאמן ואין צריך להביא ראיה לדבריו. נאמן שמואל סימן י\"ט וכיוצא בזה כתוב בא\"ח סימן ש\"א סעיף כ\"ו לענין מומחה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 266:5"
+        },
+        "6": {
+          "he": "בשבת. בחדושי הגאון מהר\"ר יונתן זצ\"ל על הלכות י\"ט להרמב\"ם פ\"ב הלכה ד' כתב דה\"ה בי\"ט אך בי\"ט שני של גליות יש להתיר וכן הורה הלכה למעשה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 266:6"
+        },
+        "7": {
+          "he": "י\"ט שני ש\"ג. עי' באה\"ט בשם ש\"ך ועיין בתשובת נו\"ב חלק א\"ח סימן ל' שהאריך בזה והעלה דמ\"ש המחבר וכן בי\"ט שני ש\"ג כוונתו אם הוא ודאי שלא בזמנו כגון שנולד בערב שבת בין השמשות ובשבוע שאחר ספק שמיני חלו שני ימים טובים של גליות באחד בשבת ובשני בשבת שנימול ליום י\"ב אבל מי שספק שמיני שלו בי\"ט שני אפילו בר\"ה נימול בשני דהוי ס\"ס שמא היום זמנו ואת\"ל אינו זמנו שמא היום חול ולא הוו דשיל\"מ כיון דחוזר לאיסורו (ע\"ל סי' ק\"ב ס\"ד בהג\"ה) . וכתב עוד לענין הפלוגתא שבין הרמב\"ם והרא\"ש במילה ודאי שלא בזמנה אם דוחה י\"ט שני ש\"ג. נראה עיקר כהרא\"ש דאין דוחה ומ\"מ מי שרוצה לסמוך על הש\"ך שהכריע כדעת הרמב\"ם אין מוחין בידו ע\"ש: [ועיין בתשובת חתם סופר סי' ר\"נ שהאריך בענין זה והעלה בהחלט להחמיר כהרא\"ש. וכהסכמת התשב\"ץ ח\"ג סי' רפ\"ד שראה דברי הרמב\"ם וסמ\"ג והסכים עם הרא\"ש]. והש\"ך לא ראה אותה תשובה וכל היכא שדברי הראשונים נעלמו מעיני האחרונים הלכה כראשונים. אך בספק אם המילה היא היום בזמנו נ\"ל כהגאון נו\"ב הנ\"ל למולו בי\"ט שניי של גליות עכ\"פ ולא מטעמים דהנו\"ב משום דהוי ס\"ס רק מטעם אחר דאתי ספק קיום מ\"ע דאורייתא ודחי ספק קל דרבנן ובפרט עתה שאינו אלא מנהג ומסיק דהזריז ומיקל בי\"ט ב' ומחמיר למולו ביום ספק ח' ס' ט' הרי הוא מן הזריזים ע\"ש. ובסי' רנ\"ב ג\"כ תשובה מענין זה ושם אין דעתו כן אלא דאפי' ספיקא אינו דוחה י\"ט שני של גליות ע\"ש. אך כפי הנראה לא נדפס על הסדר ואותה תשובה דסי' ר\"ן שנדפס לראשונה השיב באחרונה בערך עשרים שנה ויותר. [מן הכתוב על שער הספר הנ\"ל מוכח כן] והיא עיקר:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 266:7"
+        },
+        "8": {
+          "he": "אלא ראשו. [עבה\"ט ועי' בספר לבושי שרד שכתב בשם מהרי\"ע דהוצאת הראש חוץ לפרוזדור היינו לאויר העולם דוקא ולא לבית החיצון (ע\"ל סי' רס\"ב סק\"ו) עוד כתב וז\"ל אם לא קשתה האשה בין השמשות ולא נראו לה חבלי לידה עד כניסת שבת אפילו בתחלת ליל שבת מיד אז ודאי לא חיישינן שמא הוציא ראשו קודם שבת אבל אם נמשך זמן קישוי בה\"ש וילדה בתחלת הלילה יש לנו לחוש לחומר איסור שבת דקרוב הדבר שהוציא הראש לפני שבת ולא יהיה אלא ספק אינו דוחה ואע\"פ שלא ידעו מזה לא היולדת ולא המילדת אימור לאו אדעתייהו אגב דטרידי וכי שיילו להו ואמרי דידעו שהוציא ראשו לפני שבת או שלא הוציא פשיטא שאין לנו אלא דבריהן בין לדחות שבת בין שלא לדחותו ומשנפתח הקבר ואינה יכולה לילך בידוע שהוציא העובר ראשו עכ\"ל. ועיין בתשובת ב\"ח סימן קצ\"ד]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 266:8"
+        },
+        "9": {
+          "he": "שתי ערלות. עיין במ\"א סי' של\"א ועיין בתשובת אא\"ז פנים מאירות ח\"ב סי' ל\"א שכתב שראוי להזהיר למוהלים כשרואים ב' עורות זה על זה שלא יפרעו עוד בשבת וימתינו עד אחר שבת דאין סכנה אם לא יפרעו עד אחר שבת וע\"ש עוד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 266:9"
+        },
+        "10": {
+          "he": "ואנדרוגינוס. [עיין בתשו' משכנות יעקב סי' ס\"ב מ\"ש בזה]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 266:10"
+        },
+        "11": {
+          "he": "טומטום שנקרע. עיין בתשובת נו\"ב תניינא חיו\"ד סימן קס\"ג:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 266:11"
+        },
+        "12": {
+          "he": "דמהלינן ליה. [עבה\"ט ועיין בתשובת חתם סופר סימן רמ\"ז מ\"ש בזה]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 266:12"
+        },
+        "13": {
+          "he": "מישראלית. עש\"ך ועיין בלקוטי פר\"ח לי\"ד שהשיג עליו:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 266:13"
+        },
+        "14": {
+          "he": "אין מלין אותו בשבת. ע' בספר תפארת למשה שכתב דישראל כשר שנולד לו בן מישראלית שהומרה מלין אותו בשבת וכן ישראלית שהולידה בן מעובד כוכבים ג\"כ מלין אותו בשבת דהא הולד כשר ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 266:14"
+        },
+        "15": {
+          "he": "ולא מצאתי ראיה. עש\"ך מה שחלק על הרשב\"ץ ועי' בתשו' ר\"א בן חיים סי' ל\"ט שחולק ג\"כ על התשב\"ץ וטענה הראשונה של הש\"ך כתוב ג\"כ שם ועוד כתב טענות אחרות ע\"ש ועיין בשאילת יעב\"ץ ח\"ב סי' צ\"ה שעשה פשר דבר בזה שנהגו בגר ודאי שאנו חוששין לדברי הרשב\"ץ כיון דאכתי לאו בר חיובא הוא משא\"כ בקטן אין חוששין לדבר ומלין אותו בכל יום שאירע עיין שם: [ועיין בספר תפל\"מ דנראין לו דברי התשב\"ץ אנא שכתב דדוקא נקיט התשב\"ץ חלה ונתרפא דאין קצבה ידוע לחליו ואפשר שטעה וגם ביום אתמול היו יכולין למולו לכך נמתין יותר שיתרפא עוד אבל היכא שלא היו יכולין למולו מקודם מחמת יו\"ט ולא שייך טעות ודאי דמותר למולו בה' ע\"ש (ומ\"ש שם על הש\"ך לדבריו עדיפא הל\"ל להקשות כו' אינו מובן דודאי גם לפי הבנת הש\"ך בדברי הרשב\"ץ לא קאמר רק בודאי שלא בזמנו ולא בספק שמא הוא זמנו. ודע שגם לשון הש\"ך אינו מדוקדק במ\"ש הא משכחת לה אפילו ט\"ו כו' דבאמת הוא רק י\"ד ועיין בספר אור חדש פרשה תזריע מ\"ש בזה) ועיין עוד בתשו' חתם סופר ס\"ס רנ\"ב מ\"ש בזה]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 266:15"
+        },
+        "16": {
+          "he": "לאסור. עט\"ז וש\"ך. ועיין בשאגת אריה סי' נ\"ט שהאריך בזה ודעתו שבשבת אסור למוהל לסלק ידיו משהתחיל למול עד שיגמור הפריעה אבל אם אירע שסילק ידיו מותר גם לאחר לגמרו ושבת וי\"ט שוים בזה ע\"ש ועיין בתשובת זכרון יצחק סי' כ\"ז מ\"ש על דבריו. ועיין בתשובת נו\"ב תניינא חלק א\"ח סימן כ\"ב שכתב שהוא מחמיר לעצמו וח\"ו להורות לאחרים והביא שם דברי היש\"ש יבמות שמחמיר בזה וכתב לדחות ומסיק פוק חזי מאי עמא דבר בכל מדינות פולין תמיד הם שני מוהלים זה חותך וזה פורע בין בחול בין בשבת ועיין בתשו' תפארת צבי חלק או\"ח סי' ז' שדחה ג\"כ דברי היש\"ש והעלה דשרי להיות שני מוהלים בשבת וחלילה להחמיר בזה להוציא לעז על גדולים וטובים שנהגו מימות עולם כן שח\"ו חיללו שבת ע\"ש (ועמ\"ש לעיל סימן רי\"ד סק\"ד ועיין בסוף ספר דרך חיים שו\"ת בענין זה באורך):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 266:16"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ומותר.  והט\"ז חולק על הג\"ה זו ומביא ראיות מהש\"ס דאסור לטלטל האיזמל בשבת וגם מצינו בשופר של ר\"ה נהגו ג\"כ איסור לטלטלו אחר התקיעה אם לא לצורך וכ\"ש האיזמל אחר המילה אם לא להציעו באותו חדר שמל שם ותו לא ואפילו לפני המילה אין לטלטלו בחנם כל שאינו לצורך המילה וע\"ש (ובנה\"כ השיג עליו ודחה ראיותיו ודעתו מסכמת עם הרמ\"א אך סיים וכתב ומ\"מ משמע דלא התיר אלא כדי להצניעו בחצר המעורבת אבל לטלטלו בחנם לא ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 266:1"
+        },
+        "2": {
+          "he": "ערבו.  פי' כל בית ערב עם חצר שלו ולא אמרינן הואיל ואז שכיחי כלי הבית בחצר אם נתיר לטלטל מחצר לחצר כלי ששבת בא' מהם יטלטל ג\"כ כלים ששבתו בבית מחצר לחצר קמ\"ל דלא גזרינן עכ\"ל הט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 266:2"
+        },
+        "3": {
+          "he": "בשיניו.  דכמה דאפשר לשנויי משנינן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 266:3"
+        },
+        "4": {
+          "he": "חלוק.  פי' כעין כיס דחוק היו עושין ומלבישין ראש הגיד עם העטרה וקושרין שם כדי שלא יחזור העור לכסות העטרה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 266:4"
+        },
+        "5": {
+          "he": "מחצר.  אבל לא מר\"ה משום שאין זה מלבוש ממש. ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 266:5"
+        },
+        "6": {
+          "he": "נתפזרו.  וכתב הר\"ן דאם נתפזרו אותן הסמנים שהכינו לצורך אחר המילה קודם המילה דעת הרמב\"ן שאין למצוה אלא שעתה ומלין אותו ואין דוחין את המילה מפני שנצטרך אח\"כ לדחות את השבת דבתר הכי פיקוח נפש הוא דדחי לה ולא מכשירי מילה ודעת הרז\"ה והרשב\"א דתדחה המילה וכתב ב\"י שכן נראה דעת הרי\"ף והרמב\"ם ואינו מוכרח מיהו בלבוש כתב דתדחה המילה וכ\"פ הב\"ח עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 266:6"
+        },
+        "7": {
+          "he": "אביו.  ולא אמרינן דלגבי אביו הוי פסיק רישי' דניחא ליה שהרי מתקן אח בנו. ש\"ך. וכתב הט\"ז ול\"ד למוחזק דשחיטה דבעינן ג\"פ דהתם איכא למיחש לעילוף כל דהו וע\"י כך ישהה או ידרוס אבל כאן אין חשש אלא משום שמא לא יוכל לאמן את ידיו לכך סגי בפעם א':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 266:7"
+        },
+        "8": {
+          "he": "גליות.  והש\"ך כתב דנראה עיקר דדוחה י\"ט שני של גליות וכ\"נ דעת הברטנורה שפי' ב' י\"ט של ר\"ה דקדושה א' הן וכתב הרמב\"ם וסייעתו שם דה\"ה כל שאר הדברים שאינם דוחים שבת דוחים את י\"ט שני דגליות עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 266:8"
+        },
+        "9": {
+          "he": "ראשו.  וכתב הסמ\"ק וצריך לשאול לנשים אם הוציא ראשו חוץ לפרוזדור בע\"ש אז אין מלין אותו בשבת ואם אינן יודעים יש לילך אחר המנהג עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 266:9"
+        },
+        "10": {
+          "he": "דרבי יוסי.  דהיינו כהרף עין סמוך ללילה ממש וכבר נתבאר בסימן רס\"ב ס\"ו דמשנראו ג' כוכבים לילה הוא ובתשו' מהר\"מ אלשקר שאלה תינוק שנולד ע\"ש אחר שקיעת החמה קודם שנראו ג' כוכבים בינונים וכו' ומסיק כללא דמילתא דהאי ינוקא אין מלין אותו עד יום א' עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 266:10"
+        },
+        "11": {
+          "he": "כדרבה.  דס\"ל דמהלך ג' חלקי מילין קודם הלילה הוא בין השמשות והלכך נימול לט' ולא בשבת. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 266:11"
+        },
+        "12": {
+          "he": "דמהלינן.  והט\"ז מאריך בדין זה ומסקנתו דבודאי אין ראוי להקל כלל למול בשבת אם לא גמרו סימניו וכן הכריע הב\"ח עכ\"ל וע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 266:12"
+        },
+        "13": {
+          "he": "שהמיר.  וכתב בבדק הבית ונראה דאפילו נשוי מומרת נמי מלין בשבת בן הנולד מהם שהרי הם חייבים בכל המצות עכ\"ל ולי לא משמע הכי מדסיימו כיון שאמו ישראלית משמע אבל כשאמו מומרת אסור וצ\"ע עכ\"ל הש\"ך וכ\"פ הט\"ז כשאמו ג\"כ מומרת אין מלין אותו בשבת וכתב עוד בבד\"ה בשם הרמב\"ם הקראים כל זמן שלא ידברו תועה על הרבנים ולא יתלוצצו בדברי רבותינו הקדושים חכמי המשנה והש\"ס נכון לנו למול בניהם ואפילו בשבת דדלמא נפק מינייהו זרעא מעליא והדרי בתיובתא ובתשו' מהר\"ר בצלאל אשכנזי כתב שהקראים הדרים אצלינו בזה\"ז לא נמצא בהם א' מכל המדות שהזכיר הגאון ולפיכך אסור למול בניהם בשבת כיון שאינם מודים בפריעה ואם ימול בלא פריעה נמצא מחלל שבת ואינו עושה מצוה עכ\"ל וע\"ל סימן רס\"ב ס\"ק ב' מ\"ש בדין מילה שלא בזמנה אם מותר למול ביום ה' או ביום ו' ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 266:13"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

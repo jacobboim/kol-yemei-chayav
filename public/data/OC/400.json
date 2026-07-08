@@ -1,0 +1,140 @@
+{
+  "chelek": "OC",
+  "siman": 400,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-07T23:49:26.698Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "מי שישב לו בדרך לנוח ולא ידע אם הוא בתחום אם לאו. ובו סעיף אחד:מי שהיה בא בדרך ליכנס לעיר וישב בדרך לנוח וחשכה לו ולא ידע שהוא בתחום העיר ואח\"כ מצא עצמו בתחומה קנה שביתה בעיר ונכנס לתוכה בשבת ומהלך את כולה וחוצה לה אלפים אמה לכל רוח אבל אם לא היה דעתו ליכנס למדינה זו קנה שביתה במקומו ומשם יש לו אלפים אמה לכל רוח ואם כלים אלפים אמה ממקום שביתתו בחצי העיר אינו מהלך בעיר יותר מחציה: הגה והוא הדין אם היה דעתו ליכנס לעיר ואמר שביתתי במקומי נמי דינא הכי (המגיד פרק כ\"ז):",
+      "en": "1.  A Traveler Who Sat Down to Rest Without Knowing Whether or Not He is Within the Shabbos Limits: One who was on his way to enter a city and sat down on the way to rest, and darkness fell upon him and he did not realize that he was within the city limits, and later found himself within its limits, acquires a residence in the city and may traverse its entire length and breadth on Shabbat and proceed another 2000 cubits beyond the town in all directions. However, if he had absolutely no intention to enter this town and acquired a residence there instead, {i.e. the place in which he was located at the onset of Shabbos is established as his Shabbos place.} he may traverse a distance of two thousand cubits in any direction from his residence. If the 2000 [cubits] from his Shabbos place conclude in the middle of the town, he may not walk in the city beyond that point. Rema: The same law applies if he had intended to enter the city and said, \"My residence is in my place,\" as well. (The Magid, Chapter 27)",
+      "ref": "Shulchan Arukh, Orach Chayim 400:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה עירובין מ\"ה וכרבי יהודה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 400:1"
+        },
+        "2": {
+          "he": "ב\"י מדברי הרמב\"ם וה\"ה בפכ\"ז מה\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 400:2"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "בחצי העיר עמ״א ובלבוש אפילו ל״ד וכלומר אף רוב העיר הא כלה מדתו בסוף העיר נחשב כל העיר כד״א כדלקמן בסי׳ ת״ח ס״א ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 400:1"
+        },
+        "2": {
+          "he": "דעתו עמ״א ביה״ש חזר מדעתו ועב״י משמע אף שדעתו בלב לקנות במקומו כיון שלא ידע קבלה בלב בטעות היה וממילא באומר בפירוש אע״פ שבטעות הוי שסבור שהוא חוץ לתחום קנה במקומו ועא״ר בזה וע׳ ע״ש ובב״ח משמע דוקא כשלא היה בדעתו כלל לקנות במקומו ומלת ולא היה כוונתו לכך כפשטיה עירובין מ״ה וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 400:2"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] בחצי העיר וכו'. אבל בסוף העיר כל העיר נחשב כארבע אמות כמו שנתבאר ריש סימן ת\"ח (מגן אברהם) וכן משמע בפירוש רש\"י דף ס' ע\"ב:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 400:1"
+        },
+        "2": {
+          "he": "[ב] [לבוש] ובהיה דעתו וכו'. כן כתב בית יוסף בשם המגיד שכתב כן בשם ראב\"ד ורשב\"א ומשמע דאף בלא ידע שהוא בתחום כיון שאמר עקר, וצריך עיון דכיון שלא ידע אמירתו בטעות היה וכן מפורש בר' יהונתן ותימא שלא הזכירו בית יוסף. ומה שכתב בשם הראב\"ד צריך עיון דבהשגות לא משמע כלום אדרבא מדכתב על מה שכתב הרמב\"ם היה ישן וכו', זה לשונו או שישב ולא ידע שהוא סמוך לעיר, עד כאן, משמע דהכי קאמר דבישן לא שייך אמר אלא נמי ישב דמסתמא אמר כיון שלא ידע הוי בטעות וקנה בעיר והמגיד שכתב כן דעת הראב\"ד דקאי אלמעלה על גוף הפירוש עיין שם ודו\"ק, אבל לא אדין אמר. גם ברשב\"א בעבודת הקודש דף כ\"ט דמחלק בין אמר איכא לאוקמי בידע שהוא תוך התחום לכך מהני אמר, ואפשר שכן נמי דעת המגיד לכן צריך עיון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 400:2"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "בחצי העיר. ואם כלתה מדתו בסוף העיר כל העיר נחשב כד\"א כמ\"ש רסי' ת\"ח:",
+          "en": "",
+          "ref": "Magen Avraham 400:1"
+        },
+        "2": {
+          "he": "דעתו ליכנס וכו'. כשהיה בדרך היה בדעתו ליכנס לעיר ובין השמשות אמר שביתתי במקומי:",
+          "en": "",
+          "ref": "Magen Avraham 400:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "יותר.  ואם כלתה מדתו בסוף העיר כל העיר נחשבת כד\"א כמ\"ש רסי' ת\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 400:1"
+        },
+        "2": {
+          "he": "ואמר.  בין השמשות. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 400:2"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) ולא ידע וכו' - ואפילו נתכוין לקנות שביתה במקום הזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 400:1"
+        },
+        "2": {
+          "he": "(ב) קנה שביתה בעיר - כיון שמתחלה היה בדעתו ליכנס לעיר ואלו היה יודע שהעיר תוך תחומו לא היה חפץ לקנות שביתה אלא עם בני העיר ולכן גם עתה הרי הוא כאחד מבני העיר להלוך את כולה ולהיות לו אלפים לכל רוח. ומ\"מ יש בזה חומרא ג\"כ שהוא מפסיד מצד זה במקום שהוא ישב שאין לו משם שיעור אלפים כיון שנחשב כאחד מבני העיר ונראה פשוט דכ\"ז כשרוצה עכשיו לילך לעיר ולטובתו הקילו עליו אבל אם רוצה לישאר במקומו שקנה שביתה הרשות בידו:",
+          "en": "",
+          "ref": "Mishnah Berurah 400:2"
+        },
+        "3": {
+          "he": "(ג) למדינה - ר\"ל עיר:",
+          "en": "",
+          "ref": "Mishnah Berurah 400:3"
+        },
+        "4": {
+          "he": "(ד) קנה שביתה במקומו - ואפילו אם לא נתכוין לקנות שביתה כאן כגון שהיה ישן בבין השמשות ובשבת כשננער מצא עצמו שהוא בתוך תחום העיר אעפ\"כ לא נחשב כאנשי העיר כיון שלא היה בדעתו מתחלה לכנוס וקנה שביתה כאן וכדלקמיה בסעיף שאח\"ז:",
+          "en": "",
+          "ref": "Mishnah Berurah 400:4"
+        },
+        "5": {
+          "he": "(ה) בחצי העיר - אבל אם כלים האלפים בסוף העיר כל העיר אינו נחשב לו אלא כד\"א ומהלך גם חוץ לעיר עד תשלום מידת אלפים ממקום שביתתו כמו שנתבאר בסימן ת\"ח:",
+          "en": "",
+          "ref": "Mishnah Berurah 400:5"
+        },
+        "6": {
+          "he": "(ו) אם היה בדעתו וכו' - ר\"ל דגם ברישא דמיירי שהיה בדעתו ליכנוס מ\"מ לא מהני להיות כאחד מבני העיר אלא בדוקא שלא הוציא בפירוש מפיו שקונה שביתה במקומו אלא במחשבה אבל אם אמר כן בפירוש בפיו בין השמשות שביתתי במקומי אף דבתחלה כשהיה בא בדרך היה בדעתו ליכנס לעיר ואמירתו עתה היה ג\"כ רק מפני שלא היה יודע שהעיר סמוכה לו מ\"מ כבר עקר בזה שביתתו מאנשי העיר ואין לו אלא אלפים ממקום שביתתו:",
+          "en": "",
+          "ref": "Mishnah Berurah 400:6"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

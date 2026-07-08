@@ -1,0 +1,66 @@
+{
+  "chelek": "OC",
+  "siman": 598,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-07T23:49:34.116Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "ר\"ה שחל להיו' בשב' אומרים צדקתך במנחה: הגה וי\"א שלא לאומרו (ר\"ן סר\"ה ומנהגים וכן אנו נוהגים):",
+      "en": "When Rosh HaShanah falls on Shabbat we say Tzidkatkhah at mincha. Rema: And there are those who say we do not say it [Ran end of Tractate Rosh HaShana and Minhagim], and this is our custom.",
+      "ref": "Shulchan Arukh, Orach Chayim 598:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "טור בשם רב עמרם והכל בו בשם רב האי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 598:1"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "אומרים צדקתך עט״ז עב״י עוד טעם דר״ח הוא וע׳ לבוש ולפ״ז ביה״כ אומרים ולדידן דא״א ביוה״כ כבסימן תרנ״ב צ״ל שלא לעורר הדין דכתיב ביה משפטיך תהום רבה עיין לבוש. ועיין ב״ח תקצ״ו דר״ה אקרי חג וכתיב ושמחת בחגך יע״ש ומיהו יוה״כ שא״א צו״ץ כשחל בשבת ע״כ הטעם דשלא לעורר הדין כמ״ש הלבוש ועמ״ש אי״ה בתקצ״ט:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 598:1"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אומרים צדקתך.  כיון שהוא יום הדין אומרים בו צידוק הדין שהרי אנו אומרים ויגבה ה' צבאות במשפט וגומ' וי\"א ס\"ל דהא עכ\"פ י\"ט הוא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 598:1"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) אומרים צדקתך - כיון שהוא יום הדין אומרים צו\"ץ משום צדוק הדין שהרי אנו אומרים ויגבה ד' צבאות במשפט והאל הקדוש נקדש בצדקה והי\"א ס\"ל דהא עכ\"פ יו\"ט הוא ור\"ח:",
+          "en": "d",
+          "ref": "Mishnah Berurah 598:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

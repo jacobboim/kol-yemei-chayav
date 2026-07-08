@@ -1,0 +1,110 @@
+{
+  "chelek": "OC",
+  "siman": 237,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-07T23:49:21.499Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "סדר תפלת ערבית. ובו סעיף אחד:אין ש\"צ חוזר התפלה בתפלת ערבית  (ואין נופלין על פניהם לאחר ערבית):",
+      "en": "Ordre de la prière d’Arvit (du soir). Ce chapitre contient un seul paragraphe : Le Chaliaḥ Tsibbour (officiant) ne répète pas la ‘Amida lors de la prière d’Arvit. (Et on ne tombe pas sur la face – Nefilat Apayim – après Arvit.)",
+      "ref": "Shulchan Arukh, Orach Chayim 237:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "הרמב\"ם פרק יוד מה\"ת והטור ורשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 237:1"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "ואין עמ״א ואפילו התפללו ערבית מבע״י אין נופלין דכבר שויא לילה וכן תשלומין מנחה אין ליפול בערבית לאחר ערבית ועוד דתשלומין לא תקנו כ״א בתפלה ולא בתהלה לדוד כ״ש לתחנון: בא״ר בשם זקנו הגאון שאמר עלינו עם הציבור אף שכבר אמר שיר המעלות בתפלת ערבית אם בלילה אומרים דכתיב ביה העומדים בבית ה׳ בלילות ובא״ר צידד בזה ונוהגים לאומרו מ״מ כשהוא בלילה יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 237:1"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "אין כו׳ רמב״ם וממ״נ אם התפלל בקי הוא ואין הש״ץ מוציא הבקי ואם לא התפלל מעולם רשות הוא למי יוצא הש״ץ רשב״א הביאו ב״י יע״ש ויראה ודאי ציבור שהיו אנוסים ולא התפללו מנחה ומשלימין בערבית שתים אפ״ה אין הש״ץ חוזר שניה ואפילו במנחה כה״ג אין חוזר דהאידנא כולהו בקיאין והתקנה לא זזה וכה״ג ל״ש תקנה נ״ל: עב״י בשם הכל בו ומשמע דתמיד שחר מכפר על עבירות לילה ובין הערבים על של יום ומט׳ ואילך עד הלילה אין מי שיכפר כי איברים כבר נקטרו לכך אומרים והוא רחום גם אומר והוא רחום בערבית כי לילה זמן קטרוג וקודם תמיד השחר שיכפר מבקשין שיכפר ה׳ ובליל שבת וי״ט היה ראוי יותר לאומרו כי אין איברי חול קרבין בשבת ומ״מ א״א אותו בערבית שבת ועא״ר בשם מ״מ ג׳ ממוני׳ בגיהנם אף ומשחית וחימה ובשבת יש לרשעים מנוחה ועסי׳ רס״ז ואי״ה שם יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 237:1"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] [לבוש] שאין תמיד וכו'. לפי זה גם בלילי שבתות וימים טובים ראוי לאומרו, אבל לפי טעם יש אומרים אתי שפיר לפי שאין מלקין בשבת, וכן כתב ר' דוד אבודרהם ועיין לקמן סימן רס\"ז. ובמטה משה כתב על דרך הסוד דשלושה ממונים שולטים בגיהנום משחית אף וחימה מזמן תפילת ערבית ודנין הרשעים בלילה על שהיה במחשיך מעשיהם לזה אומרים והוא רחום וגו' ולא ישחית זו משחית והרבה להשיב אפו זו אף ולא יעיר כל חמתו זו חימה, ולכן אין אומרים בשבת, כי יש לרשעים מנוחה בגיהנום בשבת ואין שולטים עיין שם דף צ\"ו באריכות. כתב ר' דוד אבודרהם ולא יעיר כל חמתו פירוש שום דבר מחמתו והוא מלשון ולרש אין כל, עד כאן, כן כתב הכלבו דף ל\"ג אבל בילקוט תהלים סימן ע\"ח קא דריש כל חמתו אינו מעיר אבל מקצת מעיר, עד כאן, וכן פירש רש\"י שם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 237:1"
+        },
+        "2": {
+          "he": "[ב] [לבוש] ברכו וכו'. על פי המדרש חיה אחת ברקיע כשהוא יום אז אמת במצחו ויודעים המלאכים שהוא יום, ולערב אמונה במצחו ויודעים שהוא לילה, ובכל פעם אומרת ברכו את ה' המבורך כלומר עת לכם לומר שירה לפיכך אומרים ברכו בלילה כמו ביום:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 237:2"
+        },
+        "3": {
+          "he": "[ג] [לבוש] שהרי לא וכו'. פירוש דוקא כשאומרים פעם אחת הוא דקיבלו לחובה אבל כשלא אמרו מעולם לא, ובלחם חמודות דף ל\"ב כתב זה לשונו והאידנא דקבעו חובה אפילו לא התפלל כלל מכל מקום לא אלים מנהגא לשוויה חובה כדי לאטרוחי ציבורא להחזיר השליח ציבור התפילה, עד כאן, ולזה נוטין דברי הב\"ח:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 237:3"
+        },
+        "4": {
+          "he": "[ד] [לבוש] עלינו לשבח וכו'. שמעתי שנהג זקיני הגאון זכרונו לברכה שאמר עלינו עם הציבור אף שכבר אמר עלינו יש מקומות שאומרים שיר מזמור לאסף אחר כך. כתב שלטי גיבורים ריש ברכות נהגו בקצת מקומות לומר שיר המעלות הנה ברכו וכו' קודם מעריב משום דאמרינן רגיל לקרות קורא דצריך לקרות קריאת שמע מתוך ספר תורה, והא דאומרים מזמור זה יותר מאחרים כתב כנסת הגדולה משום דכתיב ביה העומדים בבית ה' בלילות, אי נמי משום דכתיב שאו ידיכם קודש וברכו את ה', עד כאן. ולפי זה נראה כשנמשכה מנחה עד הלילה ומתפללין מיד מעריב אין אומרים המזמור דלא שייך רגיל לקרות וכו' אלא כשאין מתפלל קודם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 237:4"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "ואין נופלין וכו'. וכן כ' האגור וכן נכון על פי הקבל' (ב\"ח):",
+          "en": "",
+          "ref": "Magen Avraham 237:1"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) אין שליח צבור וכו' - שאין תפלת ערבית חובה רק מצוה ולא נתחייב בה אדם שיצטרך הש\"ץ להוציאו ידי חובתו [רמב\"ם] ואפילו האידנא דקבעוה חובה מ\"מ לא אלים מנהגא לשויוה חובה כדי לאטרוחי צבורא להחזיר הש\"ץ התפלה [ל\"ח וא\"ר]:",
+          "en": "(1) \"Le Chaliaḥ Tsibbour [officiant] ne répète pas la ‘Amida…\" – Parce que la prière d’Arvit n’est pas une obligation stricte, mais une mitsva, et aucun homme n’y est tenu au point que le chaliaḥ tsibbour doive l’en acquitter [Rambam]. Et même de nos jours, où l’on a instauré qu’elle soit considérée comme obligatoire, malgré tout, la force du minhag (coutume) n’est pas suffisante pour en faire une véritable obligation qui justifierait d’imposer à l’assemblée l’effort de faire répéter la ‘Amida par l’officiant [Levouch ha-ḥour et Eliyah Rabba].",
+          "ref": "Mishnah Berurah 237:1"
+        },
+        "2": {
+          "he": "(ב) ואין נופלין וכו' - וכ\"כ הב\"ח ומ\"א. ואפילו התפללו ערבית מבע\"י אין נופלין דכבר שויא לילה. ואפילו תפלה שהוא מתפלל לשם תשלומין של תפלת מנחה ג\"כ אין ליפול [פמ\"ג]. כתב ש\"ג ריש ברכות נהגו בקצת מקומות לומר שיר המעלות הנה ברכו וכו' קודם מעריב משום דאמרינן רגיל לקרות קורא דצריך לקרות שמע מתוך ד\"ת והא דאמרינן מזמור זה יותר מאחרים משום דכתיב ביה העומדים בבית ה' בלילות א\"נ משום דכתיב שאו ידיכם קודש וברכו את ה' [א\"ר ע\"ש עוד]:",
+          "en": "(2) \"Et on ne tombe pas sur la face…\" – Ainsi ont écrit le Baḥ et le Ma’amar Avraham.Et même si l’on a prié Arvit avant la tombée de la nuit (depuis la fin de l’après-midi), on ne fait pas Nefilat Apayim, car cette prière est déjà considérée comme une prière nocturne. Même si l’on prie à ce moment une ‘Amida comme remplacement de celle de Minḥa (compensation d’une prière manquée), on ne fait pas non plus Nefilat Apayim [Pri Mégadim]. Le Shiyouré Knesset ha-Guedola écrit, au début de Berakhot, que dans certains endroits, on avait l’habitude de dire le psaume \"Chir hama’alot, hiné barékhou…\" avant Arvit, parce qu’il est dit que celui qui est habitué à lire le Qeriat Shema doit le faire en sortant d’un contexte de paroles de Torah. Et pourquoi avoir choisi particulièrement ce psaume parmi d’autres ? Parce qu’il est écrit dans ce psaume : \"ceux qui se tiennent dans la Maison de l’Éternel pendant les nuits\", ou bien parce qu’il est écrit : \"Levez vos mains vers le sanctuaire et bénissez l’Éternel\" [Eliyah Rabba, voir là-bas pour d'autres raisons].",
+          "ref": "Mishnah Berurah 237:2"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

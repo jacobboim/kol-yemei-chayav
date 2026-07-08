@@ -1,0 +1,204 @@
+{
+  "chelek": "OC",
+  "siman": 413,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-07T23:49:27.293Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין המערב לרבים. ובו סעיף אחד:המערב לרבים משלו אומר הרי עירוב זה בשביל כל בני העיר ובלבד שיהא בו מזון ב' סעודות לכל אחד וכל מי שירצה יסמוך עליר וצריך לזכות להם ע\"י אחר הראוי כמו בעירובי חצירות (וע\"ל סי' שס\"ו ס\"י) וצריך להודיעם וכל מי שהודיעו מבע\"י אפי' לא גמר בלבו לסמוך עליו מבעוד יום אלא לאחר שחשכה הוי עירוב אבל אם לא הודיעו מבע\"י אינו יכול לסמוך עליו לאחר שתחשך וכן מי שהניח עירוב לכל שבתות השנה ואמר איזה מהם שארצה אלך ואסמוך עליו אע\"פ שלא גמר בלבו עד למחר יכול לסמוך עליו וכן מי ששמע שיש לחכם לבא ואינו יודע לאיזה רוח והניח ב' עירובים ואמר לאותו צד שיבא החכם יקנה לי עירוב לרוח שבא לו החכם קנה לו או אמר אם לא יבא כלל אהיה כבני עירי או אם יבאו שנים למקום שארצה אלך הכל לפי תנאו וכן אם אמר לשנים או לשלשה הריני מערב על איזה מכם שארצה אע\"פ שלא בירר את מי רצה עד שתחשך הוי עירוב:",
+      "en": "Laws of one who makes an eruv for many. Contains one sectionOne who makes an eruv for many from his own food says \"this eruv is for all the townspeople, and whoever wishes may rely on it\" — provided it contains two meals' worth for each person. He must transfer ownership to them through another suitable person, as with eruv of courtyards (see above Siman 366, section 10), and he must inform them. Whoever he informed before Shabbat — even if that person did not resolve in his mind to rely on it while it was still day but only after nightfall — it is a valid eruv. But if he did not inform him before Shabbat, he cannot rely on it after nightfall. Similarly, one who placed an eruv for all the Shabbatot of the year and said \"whichever one I choose I will go and rely on it\" — even if he did not resolve in his mind until the next day, he may rely on it. Similarly, one who heard that a scholar was coming and did not know from which direction, and placed two eruvs and said \"whichever direction the scholar comes from, that eruv shall take effect for me\" — the eruv in the direction the scholar came from takes effect. Or if he said \"if he does not come at all I will be like the townspeople,\" or \"if two scholars come I will go wherever I wish\" — everything follows his condition. Similarly, if he said to two or three people \"I hereby make an eruv for whichever of you I choose\" — even if he did not specify whom he chose until nightfall, it is a valid eruv.",
+      "ref": "Shulchan Arukh, Orach Chayim 413:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה עירובין דף פ\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 413:1"
+        },
+        "2": {
+          "he": "שם בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 413:2"
+        },
+        "3": {
+          "he": "שם בגמ' פ' כרב וכרב נחמן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 413:3"
+        },
+        "4": {
+          "he": "משנה שם פ\"א וכדמפרש לה שם רב אשי הודיע ולא הודיע קתני",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 413:4"
+        },
+        "5": {
+          "he": "ברייתא ל\"ז וכמאן דמיקל בעירוב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 413:5"
+        },
+        "6": {
+          "he": "משנה שם ל\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 413:6"
+        },
+        "7": {
+          "he": "בריית' שם ל\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 413:7"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "לכל א׳ עמ״א וכמ״ש הט״ז דכאן צריך כמספר ההולכים צריך לכ״א וכאן אין צריך בכלי א׳ ומניח חביות דרכן היו בכך עתוס׳ פ״ב א׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 413:1"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "לכל אחד עט״ז ובלבוש דלדבר מצוה הקילו ועסי׳ תט״ו כלומר דתחומין לא רצו להקל לרשות דל״ש איסורא כ״כ מש״ה לא הקילו ג״כ עד שיהא ב״ס לכ״א ובא״ר כתב דתחומין אסמכוהו אקרא החמירו יותר יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 413:1"
+        },
+        "2": {
+          "he": "וכל עט״ז עירובין פ״ב וכל מי שירצה משחשיכה אע״פ שביה״ש לא גמר בלבו כיון שידע הוברר כו׳ דבדרבנן יש ברירה אבל לא ידע ביה״ש כלל ל״ש ברירה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 413:2"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] [לבוש] נראה לי דהיינו טעמא וכו'. קשה מתוס' שבת דף ל\"ד שכתבו טעמא דהקילו בתחומין דלא בעי פת משום דאין מערבין אלא לדבר מצוה הרי הסברא להיפך וצריך עיון, והנה הט\"ז כתב טעם אחר דשאני עירוב חצירות דהאי הוא משום שהאחד אוסר על חבירו משום הכי סגי בשמונה עשרה גרוגרת דעל ידי זה הם מעורבים והיו לאחדים מה שאין כן בתחומין דאין תועלת מן אחד על חבירו דאין איסור משום אחד על חבירו, עד כאן, וליתא דהא כתב המרדכי פרק בכל מערבין והא דספק עירוב כשר אפילו היכא דליכא לאוקמי אחזקה היינו בערובי חצירות דמקילין בהו טפי מתחומין דבחצרות סגי במזון שתי סעודות לכולן אבל תחומין בעי לכל אחת ואחת, עד כאן. ולפירוש ט\"ז לא תלי כלל בקולא וחומרא הא דבעי מזון שתי סעודות לכל אחד, ולעניות דעתי הטעם דתחומין שאני דאסמכוה אקרא כמו שכתב בסימן רס\"א סעיף א' וסימן תט\"ו סעיף ב' לכן לא הקילו כל כך שיהא סגי בשתי סעודות לכולם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 413:1"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "לכל א'.  לעיל סימן שס\"ה כתב דיני ע\"ח וכ' שם די\"ח גרוגרות סגי אפי' למרובין והכא בעינן לכל אחד וא' נראה דבחצירות הוא האיסור משום שהאחד אוסר על חבירו מ\"ה סגי שיש בין כולם י\"ח גרוגרות דעי\"ז הם מעורבין והיו לאחדים משא\"כ בתחומין אין האיסור משום אחד אוסר על חבירו אלא דגבול יש לכל א' אלפים אמה ותו לא וע\"י העירוב נעשה כמי שדר שם ע\"כ צריך כל א' להתיר לו יותר מגבולו ואין תועלת מן אחד על חבירו לערב הרשויות כנ\"ל פשוט ובלבוש טרח עצמו לחלק בענין דחוק ללא צורך:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 413:1"
+        },
+        "2": {
+          "he": "וכל מי שירצה לסמוך.  הטעם בגמרא דבדרבנן קי\"ל דיש ברירה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 413:2"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "לכל אחד. פי' אף על גב דבעירובי חצירות מזון שתי סעודות לכלם אבל בע\"ת צריך לכל א' מזון שתי סעודות כמספר ההולכים וכן פשוט בגמ' ובפוסקים בתו' פ\"ב וכ\"מ וראב\"ד:",
+          "en": "",
+          "ref": "Magen Avraham 413:1"
+        },
+        "2": {
+          "he": "הוי עירוב. דבדרבנן יש ברירה:",
+          "en": "",
+          "ref": "Magen Avraham 413:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "לכל.  לעיל סי' שס\"ח ס\"ג כתב דיני ע\"ח וכתב שם די\"ח גרוגרות סגי אפי' למרובין והכא בעי לכל א' נראה דבחצירות הוא האיסור משום שהאחד אוסר על חבירו מש\"ה סגי שיש בין כולם י\"ח גרוגרות דעי\"ז הם מעורבין והיו לאחדים משא\"כ בתחומין אין האיסור משום דא' אוסר על חבירו אלא דגבול יש לכל אחד אלפים אמה ותו לא וע\"י עירוב נעשה כמי שדר שם ע\"כ צריך כל א' להתיר לו יותר מגבולו. ט\"ז ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 413:1"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) לרבים משלו אומר וכו' - וגם בנתנו כ\"א בפ\"ע כשמניח אחד בשבילם צריך לומר בשעה שמניח שהוא מניח לשם עירוב לכל בני העיר וכדלעיל בסימן ת\"ט ס\"ח במ\"ב אלא דכשנותן עירוב משלו בשביל כולם צריך לזכות מתחלה ע\"י אחר בשבילם קודם שמניחו:",
+          "en": "",
+          "ref": "Mishnah Berurah 413:1"
+        },
+        "2": {
+          "he": "(ב) מזון שתי סעודות - ואפילו בלפתן למזון שתי סעודות סגי וכדלעיל בסימן ת\"ט סעיף ז':",
+          "en": "",
+          "ref": "Mishnah Berurah 413:2"
+        },
+        "3": {
+          "he": "(ג) לכל אחד - ולא דמי לעירובי חצרות דבמזון שתי סעודות לכולם סגי דשם העירוב הוא משום דאחד אוסר ע\"ח ועי\"ז הם כמעורבין משא\"כ בתחומין אין שייך אחד לחבירו וכל אחד כשרוצה לילך חוץ לאלפים שלו צריך לקנות שביתה לעצמו לכך צריך מזון שתי סעודות לכל אחד:",
+          "en": "",
+          "ref": "Mishnah Berurah 413:3"
+        },
+        "4": {
+          "he": "(ד) וע\"ל בסימן שס\"ו - דשם נתבאר מי הוא הראוי לזכות על ידו. ולענין מי הוא שראוי להעשות שליח להנחת העירוב נתבאר בסימן ת\"ט ס\"ח:",
+          "en": "",
+          "ref": "Mishnah Berurah 413:4"
+        },
+        "5": {
+          "he": "(ה) וצריך להודיעם - משום דעי\"ז הלא מפסיד תחום של צד השני ודלמא לא ניחא ליה:",
+          "en": "",
+          "ref": "Mishnah Berurah 413:5"
+        },
+        "6": {
+          "he": "(ו) מבעוד יום - ואפילו בין השמשות סגי בדיעבד כ\"כ הפמ\"ג ועיין ביאור הלכה:",
+          "en": "",
+          "ref": "Mishnah Berurah 413:6"
+        },
+        "7": {
+          "he": "(ז) אפילו לא גמר בלבו וכו' - דאמרינן הוברר הדבר שקודם זמן קניית העירוב דעתו לכך היה כיון שידע מתחלה משא\"כ בשלא הודיעוהו מבע\"י לא שייך לומר דהוברר כיון שלא ידע כלל מבעוד יום:",
+          "en": "",
+          "ref": "Mishnah Berurah 413:7"
+        },
+        "8": {
+          "he": "(ח) יכול לסמוך עליו - והוא נמי משום דאמרינן הוברר הדבר דקודם בין השמשות דעתו היה לכך וכל זה הוא כפי מה דקי\"ל דלענין מלתא דרבנן יש ברירה. ופשוט דכל זה אם בלילה לא הלך מביתו לצד השני:",
+          "en": "",
+          "ref": "Mishnah Berurah 413:8"
+        },
+        "9": {
+          "he": "(ט) לרוח שבא לו החכם קנה - ולא מיבעיא אם כבר בא החכם קודם בין השמשות לאותו רוח אלא שהוא לא היה יודע להיכן בא עד למחר שנשמע לו בודאי קנה לאותו רוח דגילוי מלתא בעלמא הוא דאיגלאי מלתא השתא דההוא עירוב קנה אלא אפילו היה החכם רחוק משם ביה\"ש בתוך התחום [של סוף ד' אלפים שלו] וא\"כ אפשר שלא גמר אז החכם בדעתו כלל לבוא לתוך ד' אלפים שלו [דדלמא אז היה בדעתו שלא לזוז כלל ממקומו וממילא לא קנה עירובו של זה] אפ\"ה אמרינן דמהני תנאו משום ברירה דאמרינן הוברר למפרע דלאותו צד שבא החכם היה מאתמול עומד לכך [גמרא]:",
+          "en": "",
+          "ref": "Mishnah Berurah 413:9"
+        },
+        "10": {
+          "he": "(י) הוי עירוב - דאמרינן כיון שרצה עכשיו מסתמא בין השמשות שהוא זמן קניית העירוב היה ג\"כ דעתיה להאי:",
+          "en": "",
+          "ref": "Mishnah Berurah 413:10"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

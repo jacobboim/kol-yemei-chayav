@@ -1,0 +1,315 @@
+{
+  "chelek": "YD",
+  "siman": 176,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 8,
+  "fetchedAt": "2026-07-08T00:01:22.428Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "איזה השכרה מותרת ואיזה אסורה. ובו ח' סעיפים:אסור לאדם להשכיר מעותיו שיאמר לו אשכיר לך י' דינרין בדינר לחודש והני מילי כששוכר להוציאם אבל אם שכרם כדי להתלמד בהם או ליראות ומחזירם לו בעין מותר: הגה ודוקא שלא קבל עליו רק אחריות גנבה ואבדה אבל אם קבל עליו כל אחריות אסור (ב\"י בשם בעל התרומות) ואם קיבל עליו המשכיר כל אחריות בין דגנבה ואבדה בין אחריות דאונסין יש מתירין אפי' משכיר לו להוציאם (ת\"ה סי' ש\"ב) כדלקמן סי' קע\"ז ומיהו אם לא קבל עליו רק גנבה ואבדה ולא אונסין או אונסין ולא גנבה ואבדה אסור להוציאן בשכרן (ב\"י בשם תוס' והגהמ\"יי פ\"ה וסמ\"ג וריב\"ש סי' ש\"ה וש\"ח ות\"ה שם וע\"פ) מיהו לא הוי אלא כאבק רבית אבל אם לא קבל המשכיר אחריות כלל הוי רבית קצוצה (ריב\"ש שם):",
+      "en": "Des locations permises ou défenduesIl est interdit de prêter de l'argent sous la condition de recevoir un intérêt, si l’argent est prêté pour être dépensé; mais si l’on prête des monnaies du pays à une personne qui veut apprendre à les connaître et qui doit ensuite les rendre au prêteur, il est permis de prendre un intérêt.GLOSE: Dans ce dernier cas il est permis de prendre un intérêt, si l’emprunteur n'assume la responsabilité de l’argent qu’en ce qui concerne le vol et les pertes; mais s’il assume la responsabilité de tout ce qui peut advenir, le créancier ne doit prendre aucun intérêt. Enfin d’aucuns disent que si le créancier prend la responsabilité de tout ce qui peut advenir, il lui est permis de recevoir un intérêt pour l’argent qu’il prête, même si cet argent doit être dépensé (V. § 177). Mais quand le créancier ne prend qu’une part de responsabilité, il lui est défendu d’accepter un intérêt pour de l'argent qu’il prête et qui est destiné à être dépensé. Ainsi, lorsque, sans avoir de responsabilité, le prêteur prend un intérêt, il agit contrairement à une défense biblique; et s’il n’a qu’une part de responsabilité, il agit contre une défense traditionnelle.",
+      "ref": "Shulchan Arukh, Yoreh Deah 176:1"
+    },
+    {
+      "seif": 2,
+      "he": "כלים מותר להשכירם אפילו נותן לו רשות למכרם ולעשות בהם כל חפצו רק שלבסוף יחזיר לו כלי אחר כזה (לשון רמב\"ם פ\"ח מה\"מ די\"א):",
+      "en": "Quand on prête des objets, il est permis de prendre un loyer, même si le prêteur, ayant permis à son débiteur d’en user à sa guise, prie de les lui rendre tels qu’ils ont été reçus.",
+      "ref": "Shulchan Arukh, Yoreh Deah 176:2"
+    },
+    {
+      "seif": 3,
+      "he": "מקום שנהגו לשכור הספינה וליטול שכרה ואם נשברה שמין לו מה שפחתה ומשלם יתר על שכרה הרי זה מותר וכן מותר להשכיר סיר של נחושת וכיוצא בו ונוטל השכר ודמי מה שפחת ממשקלו וכן כל כיוצא בזה: הגה וי\"א דוקא כלים כאילו דאפי' מה שנשאר נפחת קצת ובעד זה נוטל שכר ולכן אם נשבר משערין כמה היה שוה בשעת שבירה (ב\"י בשם התוספות וכן כ' רבינו ירוחם והגהות אשיר\"י וכן משמע לשון הטור):",
+      "en": "Lorsque l’usage est de louer des navires moyennant un prix de location, il est permis de le faire; et aussi, quand le navire venant à se détériorer, on en fait l’évaluation, le propriétaire peut recevoir, avec le loyer, la somme représentant la différence de valeur du navire neuf et du navire détérioré. De même un marchand peut louer des ustensiles de cuivre contre rémunération, et se faire payer le poids de cuivre qui manque à l’ustensile au moment où celui-ci est rendu.GLOSE: D’aucuns disent qu’on ne prend de rémunération pour la location des ustensiles que parce qu'ils s’abiment nécessairement, mais ils disent aussi qu’une fois cassés, on évalue le prix de l’objet neuf et son prix comme métal et que l’on fait payer la différence.",
+      "ref": "Shulchan Arukh, Yoreh Deah 176:3"
+    },
+    {
+      "seif": 4,
+      "he": "מותר לשכור פרה ולשומה בדמים כגון שיאמר הרי פרתך עשויה עלי בשלשים דינר אם תמות וכל זמן שהיא אצלי אעלה לך סלע בחדש בשכירות (וי\"א דאם תמות משערין כמה היתה שוה בשעת מיתה) (רמב\"ן ורבינו ירוחם והטור):",
+      "en": "Il est permis de louer une vache moyennant une certaine somme par mois, et aussi d'évaluer son prix, prix que devra rembourser l’emprunteur si elle meurt chez lui.GLOSE: D’aucuns disent qu'il faut évaluer le prix au moment de la mort de l’animal et faire payer ce prix à l’emprunteur.",
+      "ref": "Shulchan Arukh, Yoreh Deah 176:4"
+    },
+    {
+      "seif": 5,
+      "he": "המשכיר שדה לחבירו בי' כורים לשנה וא\"ל תן ר' זוז שאפרנס בהם השדה ואני אתן לך י\"ב כור בכל שנה הרי זה מותר מפני שאם יפרנס השדה בדינרין אלו יהיה שכרה יותר וכן אם השכיר לו חנות או ספינה בעשרה דינרין בשנה ואמר לו תן לי מאתים זוז שאבנה בהם ואציירנה ואכיירנה או אתקן בהם ספינה זו וכלי תשמישה ואני אעלה לך י\"ב דינר בכל שנה הרי זה מותר. (הואיל והוא מוציא המעות בגוף הספינה או החנות) (טור) אבל אם א\"ל תן לי ר' זוז כדי להתעסק בהם בחנות או להוציא בסחורה של ספינה או לשכור בהם מלחים ואני אוסיף לך בשכירות הרי זה אסור:",
+      "en": "Si un cultivateur loue un champ et veut donner dix khors de blé comme prix de location annuelle, il est permis au propriétaire de dire au locataire: «Donnez-moi deux cents zouz, c’est moi qui, avec cette somme ferai produire le champ et je vous donnerai douze khors de froment par an». Ce marché est permis, parce que le locataire ne prend pas un intérêt, mais trouve, dans son entreprise, un bénéfice commercial. De même, lorsqu'un propriétaire loue pour dix dinars par an un magasin ou un navire, il lui est permis de dire à son futur locataire: «Donnez-moi deux cents zouz pour terminer l’ouvrage et je vous paierai un loyer de douze dinars par an.»GLOSE: Parce que l’argent que demande le propriétaire est destiné à faire le navire ou le magasin.Mais si le propriétaire demande les deux cents zouz, afin d'acheter des marchandises pour le magasin ou le navire, ou d’embaucher des matelots, et s’il promet à son locataire de lui donner un loyer supérieur à celui que ce locataire voulait lui donner, ce marché est défendu.",
+      "ref": "Shulchan Arukh, Yoreh Deah 176:5"
+    },
+    {
+      "seif": 6,
+      "he": "מותר להרבות בשכר הקרקע (לשון רמב\"ם פ\"ז מה\"מ דין ח') כיצד השכיר לו את החצר וא\"ל קודם שהחזיק בו אם מעכשיו אתה נותן לי הרי היא לך בי' סלעים בכל שנה ואם תתן שכר חדש בחדש הרי היא בסלע בכל חדש ה\"ז מותר וכיוצא בזה בשכר האדם ג\"כ מותר: הגה אבל אם כבר החזיק בו לשכור לו בי' סלעים לשנה אסור לומר לו תתן כל חדש סלע א' ואני אמתין לך המעות (ב\"י בשם תלמידי הרשב\"א) וכ\"ש אם כבר נתחייב לו השכירות ונותן לו דבר בהמתנת המעות דאסור (הגהות אשיר\"י והג\"מ פ' א\"נ ובהגמי\"י פ\"ח) מותר להרבות בנדונית חתנים כגון שנדר נדוניא לבתו והתנה עם חתנו שכל שנה שיניח לו הנדוניא אצלו יתן לו כך וכך שכר מותר שאין זה אלא כמוסיף לו נדוניא ודוקא כשהתנו כן קודם הנשואין אבל לא אח\"כ דהוי אגר נטר (רשב\"א סימן תקכ\"ט וריב\"ש סימן תק\"ב) ועיין לקמן סימן קע\"ז):",
+      "en": "Il est permis à un propriétaire de demander, pour la location de son champ, dix sélas par an, payables en un seul terme et immédiatement, ou bien un séla payable par mois, si cette proposition a été faite avant la confection du contrat. Il en est de même pour le paiement d’un employé.GLOSE: Il ne s’agit ici que du cas où le propriétaire s’est entendu, avant le contrat, sur les deux modes de paiement; si le propriétaire a seulement demandé dix sélas par an, il lui est interdit, le marché une fois conclu, de dire à son locataire qu’il veut bien prendre un séla par mois, au lieu de recevoir tout le prix du loyer en une seule fois. Il est d’autant plus interdit au propriétaire d’accepter un dédommagement de son locataire, si celui-ci, au moment de payer en une seule fois, ne peut plus le faire. Il est également permis à un père, qui a promis une dot à sa fille, de demander à son gendre de lui servir une certaine somme par an, et de garder pour un certain temps la dot promise; il ne fournit pas alors un intérêt, cela revient à donner une dot supérieure à celle qu’il devait donner. Cette manière de payer est autorisée, lorsque les conditions ont été posées avant le mariage; sinon elle est interdite, car le père semblerait donner un intérêt, pour faire attendre à plus tard le versement du capital.",
+      "ref": "Shulchan Arukh, Yoreh Deah 176:6"
+    },
+    {
+      "seif": 7,
+      "he": "אסור לומר לאדם עשה עמי מלאכה היום ששוה דינר ואני אעשה עמך בשבוע אחר מלאכה ששוה שתים:",
+      "en": "Il est interdit de demander à une personne de faire aujourd’hui un travail valant un dinar, pour que plus tard son débiteur lui fasse un travail de deux dinars.",
+      "ref": "Shulchan Arukh, Yoreh Deah 176:7"
+    },
+    {
+      "seif": 8,
+      "he": "השוכר את הפועל בימות החורף לעשות עמו בימות הקיץ בדינר ליום ומקדים לו שכרו מעתה ושכרו שוה בימות הקיץ סלע ליום אסור אבל אם אמר לו עשה עמי מלאכה מהיום ועד זמן פלוני בדינר ביום מותר דכיון שמתחיל לעשות עמו מעתה אינו נראה כנוטל שכר מעותיו שמקדים לו:",
+      "en": "Quand, en hiver, les journées sont payées un dinar, il est interdit de payer d’avance en hiver un ouvrier, pour qu’il travaille en été au prix d’un dinar par jour au lieu d’un séla, en récompense de ce qu’il a reçu son salaire avant d’avoir fourni son travail. Mais si le patron embauche l’ouvrier pour l'hiver et l’été, et lui avance le salaire qu’il devra recevoir en été, il est permis de payer pour toutes les journées un prix égal; la diminution de prix d’une journée d’été ne provient pas alors de ce que le patron a avancé l’argent, mais de ce qu’il emploie l’ouvrier hiver comme été.",
+      "ref": "Shulchan Arukh, Yoreh Deah 176:8"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מעובדא דרב חמא דהוה מוגר זוזי וכו' וכלו זוזי דרב חמא ב\"מ דף ס\"ט ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 176:1"
+        },
+        "2": {
+          "he": "תוספות שם והביאו ראיה מהתוספתא וכ\"כ הרא\"ש וכ\"כ ה\"ה בספ\"ה מה\"מ שזה דעת הרמב\"ם: (°) כדין השוכר שחייב בגניבה ואבידה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 176:2"
+        },
+        "3": {
+          "he": "שם בתוספות כפי פירוש לגירסא ויציע תחתיו וכ\"כ הרא\"ש שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 176:3"
+        },
+        "4": {
+          "he": "מימרא דרב שם ספינתא אגרא ופגרא והכי פסק רב פפא הלכתא וכו' שם ודף ע' ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 176:4"
+        },
+        "5": {
+          "he": "מעובדא דההוא דודא דבני מר עוקבא וכו' שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 176:5"
+        },
+        "6": {
+          "he": "ברייתא שם דף ס\"ט ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 176:6"
+        },
+        "7": {
+          "he": "כדמפרש רב ששת שם וה\"ה אם תשבר וכל כמה דלא קביל עליה זולא לא מלוה היא גביה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 176:7"
+        },
+        "8": {
+          "he": "ברייתא שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 176:8"
+        },
+        "9": {
+          "he": "מימרא דרב נחמן אמר רבה בר אבהו שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 176:9"
+        },
+        "10": {
+          "he": "רמב\"ם בפ\"ז מה\"מ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 176:10"
+        },
+        "11": {
+          "he": "משנה שם דף ס\"ה ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 176:11"
+        },
+        "12": {
+          "he": "תלמידי הרשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 176:12"
+        },
+        "13": {
+          "he": "ה\"ה שם בפ\"ז מה\"מ דשכירות אינה משתלמת אלא לבסוף:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 176:13"
+        },
+        "14": {
+          "he": "משנה שם דף ע\"ה ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 176:14"
+        },
+        "15": {
+          "he": "ברייתא ב\"ב דף פ\"ו ופ\"ז:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 176:15"
+        },
+        "16": {
+          "he": "וכתב ה\"ה בספ\"ז מה\"מ שכתב הרשב\"א ז\"ל בשם מורו דדוקא בפועל אסרו בכה\"ג דהא לא משתעבד דיכול לחזור בו אבל בשכירות קרקע שזכה בו מעת זכיה גמורה שרי אף על פי שאינו דר מעתה בחצר והביאו הבית יוסף ושלא כדעת התוספות שם בב\"ב דף פ\"ו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 176:16"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "אבל אם שכרם כו'. מיהו אם הוציא המעות אע\"פ שבאו לידו אותן המעות עצמן אסורין משום רבית הגמ\"ר וכ' ב\"י והיינו ודאי בשכרן להתלמד או ליראות דאי להוציאן אפילו לא הוציאן נמי אסור דכיון דמלוה להוצאה ניתנה מעת שבאו לידו כאלו הוציאן דמי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 176:1"
+        },
+        "2": {
+          "he": "יש מתירין כו'. וב\"י כתב דמשמע מדברי ת\"ה דמ\"מ אין לעשות מעשה להיתר וליתא דל\"ק התם הכי אלא כשהלוה מבטיחו ומתנה שלא יהיו נאמנים על הקרן שנאנס או נגנב או נאבד רק בש\"ץ והשמש אבל כשאינו מתנה כלום פשיטא דשרי כמ\"ש לקמן סי' קע\"ז ס\"ק י\"ז ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 176:2"
+        },
+        "3": {
+          "he": "אסור לשוכרן להוציאן כצ\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 176:3"
+        },
+        "4": {
+          "he": "דווקא כלים כו'. וכן יוכל להתנות שאם ישבר באונס ישלם לו דמיו אע\"פ שמן הדין שוכר פטור מאונסין כמ\"ש בח\"מ סימן ש\"ו וא\"כ כיון ששם אותן בדמים ומתחייב באונסים הרי הדמים הלואה אצלו והשכר שנתן לו מחזי כרבית אפ\"ה שרי כיון שאינו מתחייב בדמיו אא\"כ ישבר וכל זמן שהוא בעין הוא מחזירו כמו שהוא ועד שעת שבירה הוא ברשות בעלים לזולא וגם הוא נפחת כו'. טור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 176:4"
+        },
+        "5": {
+          "he": "מותר כו'. ול\"ד לצאן ברזל דלקמן ר\"ס קע\"ז דהתם אינו עושה בהן מלאכה שיכחישו מחמתן והוא מקבל עליו אחריות מעתה וכ\"כ ה\"ה פ\"ח מה\"מ דין י\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 176:5"
+        },
+        "6": {
+          "he": "בגוף הספינה כו'. נמצא מעלה לו שכירות ספינה טובה יותר מספינה רעה וע\"ל סי' קס\"ג ס\"ד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 176:6"
+        },
+        "7": {
+          "he": "ה\"ז מותר. לפי ששכירות אינה משתלמת אלא לבסוף (וכמ\"ש בח\"מ סימן שי\"ז) הלכך כי שקיל מיניה סלע בחודש דה\"ל י\"ב סלעים אין זה שכר המתנת מעות שהרי לא נתחייב לו לשלם שכירות עד סוף החודש והאי דא\"ל אם מעכשיו תתן לי הרי לך בי' סלעים אי הוה מקדים ליה הוה מחיל ליה מדמי השכירות ומוגיר לו בפחות משויה. ש\"ס ורש\"י:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 176:7"
+        },
+        "8": {
+          "he": "אבל אם כבר כו'. כלומר שהחזיק ונתחייב לתת לו מעכשיו השכירות י' סלעים (לחדש) [לשנה] אסור לומר תן כל חודש סלע וכ\"ש אם כבר נתחייב לו השכירות דהיינו שהגיע הזמן פרעון של סוף השנה וממתין לו ונותן לו דבר בהמתנת המעות אסור ומבואר כאן דאין חילוק בין מעות שכירות למעות הלואה לעולם כל אגר נטר ליה אסור וכ\"כ בד\"מ וכ\"ד ב\"י לעיל ס\"ס ק\"ס ולא כהב\"ח סי' קס\"א ס\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 176:8"
+        },
+        "9": {
+          "he": "סימן קע\"ז. סעיף ט\"ו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 176:9"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "כששוכר להוציאם. ואע\"פ שיחזיר אותם בעין אח\"כ מ\"מ כיון שהיה לו רשות להוציאם והיה האחריות על המקבל הוה ליה כהלואה ואסור ליתן שכר דהוי כרבית אבל בסעיף ב' בכלים אמרינן דאין השכר משום הלואה אלא משום שנפחת הכלי במה שנשתמש בו ואותו הפחת המשכיר מקבלו עליו ומשום הכי אם הוא כלי שאין בו פחת כגון כלי כסף וזהב שכתבו התוס' פרק הרבית (דף ס\"ט) אסור ליטול ממנו שכר כשהוא דרך הלואה והאחריות על המקבל כמו במעות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 176:1"
+        },
+        "2": {
+          "he": "או אונסין ולא גניבה ואבידה בשכרו להוציאן כצ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 176:2"
+        },
+        "3": {
+          "he": "כלים מותר כו'. דין הכלים כמו במעות דסעיף א' כדי להתלמד ונתבאר שם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 176:3"
+        },
+        "4": {
+          "he": "וליטול שכרה ואם נשברה שמין לו כו'. בטור כתוב. דמותר לקצוב דמיו ולהתנות כו' ומסיים בסוף לכשישבר אינו מחויב אלא בדמי' שהיה שוה בשעת שבירה והם דברים סותרים לכאורה והב\"י פירש מה שפירש ול\"נ דמתחלה לא מיירי הטור מענין שאם יהיה זול מ\"מ יתן לו הקצבה אלא דלא בא אלא להשמיענו שמותר לעשות קצבה כפי השער שהיה באותה הפעם ולא אמרינן דעשיית הקצבה היא כמו הלואה אבל בסיפא קמ\"ל דאם יהיה זול אח\"כ ישלם לו כפי אותו השער וכמ\"ש רמ\"א ס\"ס ד' בשם י\"א:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 176:4"
+        },
+        "5": {
+          "he": "וכן מותר להשכיר סיר כו'. ביאר בטור שבזה יש רבותא טפי מברישא דברישא לא הוה עלה שם הלואה עד לבסוף שישבר הכלי ועד אותה שעה הוה שכירו' וקאי ברשות הבעלים לענין זול ולענין פחת אם יחזיר לו בעין והוה השכר בשביל שעת השכירות ההוא אלא אפי' בסיר נחושת שמיד שמתחיל להשתמש בו מיד מתחיל הקלקול שהנחושת הולך ופוחת תמיד ממילא הוה תכף הלואה אפ\"ה מותר ליקח שכר כיון שאותו נחושת הנשאר הוא מקולקל ממה שהיה תחילה ובעד זה הוא משלם לו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 176:5"
+        },
+        "6": {
+          "he": "בגוף הספינה. פירוש והוה כמשכיר לו ספינות משובחות בסך יותר משאר ספינות שאינם כל כך חשובות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 176:6"
+        },
+        "7": {
+          "he": "מותר להרבות בשכר הקרקע. הטעם דשכירות אינה משתלמת אלא לבסוף נמצא מה שפוחת לו השתא אוזלי קא מוזיל גביה. וכ' ב\"י בשם הגהת מיימוני בשם רשב\"א בעל התוס' דאין היתר רק אם נכנס תיכף לתוך קרקע דאל\"ה הוה אגר נטר וכתב ד\"מ אמנם במ\"מ כתב בשם הרשב\"א דאע\"ג דאינו דר מיד בחצר שרי הואיל ובשכירות קרקע זוכה בה מיד משא\"כ בשכירות פועל הואיל ופועל אינו משתעבד מהשתא עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 176:7"
+        },
+        "8": {
+          "he": "וכ\"ש אם כבר נתחייב כו'. נראה פשוט דזה הוה רבית קצוצה ואפילו בחלוקה הראשונה שכבר החזיק כו' נסתפק ב\"י אי הוה רבית קצוצה אבל בזה נראה דמודה דהוה רבית קצוצה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 176:8"
+        },
+        "9": {
+          "he": "מותר להרבות בנדונית חתנים כו'. הטעם משום דהוי כמוסיף לו נדוניא כמ\"ש אח\"כ וה\"ה בכל מה שאדם מתחייב עתה לחבירו מתנה שאם לא יפרע מכאן עד יום פלוני שיהא מוסיף על כל ליטרא ד' פשיטים בחודש כ\"כ ב\"י בס\"ס קס\"א בשם ריב\"ש בשם רשב\"א ונ\"ל דמ\"ש כאן שצריך שיהיה התנאי קודם הנישואין היינו בפעם הראשון שמתקשר עצמו נגד חתנו ליתן לו נדוניא דהיינו בשעת כתיבת התנאים לחתן כיון דעד אותו פעם אין שום חיוב עליו ואי בעי לא יהיב ליה מידי הוה גם הרבית בכלל המתנה ההיא אבל אם בתנאים לא נכתב רק חיוב הנדן ובשעת החתונה שמסלק הנדוניא כותב לו שיתן לו רווחים אין מועיל היתר זה הואיל ובפעם ההיא יש חיוב עליו לתת לו סך הנדן ואי לא יהיב ליה חייב ליתן קנס הנכתב בתנאים ממילא הוה כחוב דעלמא וצריך לעשות היתר על הרווחים וכן משמעות דברי ריב\"ש שם בב\"י בלשון זה ראובן שידך בתו לשמעון והתנה עמו שיתן ת' דינרין בנדוניא בשטרי חובות בין קידושין לשבע ברכות כו' עכ\"ל ועל זה כתב היתר זה משמע בפעם הראשון שכתבו התקשרות התנו כן וכן הוא ברור לענ\"ד. ובלבוש כתב ג\"כ בסימן קס\"א בסופו שאם נתפשרו כן אחר החופה הוה רבית גמור שהרי אחר החופה מיד נעשה עליו כמלוה וגם קודם החופה טוב לעשות הכל קרן ויכתוב שאבי הכלה חייב ליתן להחתן כך בשנה הראשונה וכך בשנה השניה כו':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 176:9"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "קודם הנשואין. עבה\"ט סק\"ט בשם ט\"ז ועיין בתשובת נו\"ב תניינא חלק יו\"ד סימן ע\"ו במי שמת וצוה לתת לבנו מאתים זהובים וכל נכסיו נתן במתנה לאשתו ואח\"כ עשתה האשה שידוך עם בנה ונתחייבת בתנאים לתת לבנה עם אשתו דירה הואיל שמניח בידה ב' מאות שיש לו מעזבון אביו כל ימי חייה ואח\"כ מתה האשה ובנה בא לגבות חובו ויש עוד ב\"ח אחרים והקרקעות אין מספיקים די תשלומי כל החובות ונשאל אם מנכין להבן שכירות הבית שדר בו וכתב דאין זה דומה לנדונית חתנים כיון שכבר היתה האם חייבת לבנה חוב זה ע\"פ צוואת אביו וזה הוי ר\"ק כדברי הש\"ך בסי' קס\"ו סק\"ח ומ\"מ אם כבר גבה הבן את חובו פשיטא דאינו יוצא בדיינים ואפילו אם לא גבה לא מנכינן ליה כיון שדין זה הוא בין בע\"ח זה לשאר בע\"ח. וע\"ש דמשמע מדבריו שאם לא היה כאן שאר בע\"ח רק היה להבן טענה עם שאר היורשים בזה יש חילוק אם כבר גבה א\"י בדיינים ואפשר דאפילו שום חיוב אין כאן על הבן להחזיר (עמ\"ש לעיל סי' קס\"א סק\"ו בשם דגמ\"ר) אבל אם לא גבה עדיין את חובו מנכינן ליה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 176:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "בעין.  מיהו אם הוציא המעות אע\"פ שבאו לידו אותן המעות עצמן אסורים משום רבית הגמ\"ר וכתב ב\"י והיינו ודאי נשכרין להתלמד או ליראות דאי להוציאן אפילו לא הוציאן נמי אסור דכיון דמלוה להוצאה ניתנה מעת שבאו לידו כאילו הוציאן דמי:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 176:1"
+        },
+        "2": {
+          "he": "מתירין.  כתב הש\"ך דב\"י כתב דמדברי הת\"ה משמע דאין לעשות מעשה להתיר וליתא דל\"ק התם הכי אלא כשהלוה מבטיחו ומתנה שלא יהיה נאמן על הקרן שנגנב או נאבד או נאנס רק הש\"ץ והשמש אבל כשאינו מתנה כלום פשיטא דשרי ומ\"ש הרב אסור להוציאן בשכרן צ\"ל אסור לשוכרן להוציאן. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 176:2"
+        },
+        "3": {
+          "he": "כלים.  כ' הט\"ז דאין השכר אלא משום שנפחת הכלי במה שמשתמש בו ולפ\"ז אם הוא כלי שאין בו פחת כגון כלי כסף וזהב אסור ליטול ממנו שכר כשהוא דרך הלואה והאחריות על המקבל כמו במעות:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 176:3"
+        },
+        "4": {
+          "he": "כאלו.  וכן יוכל להתנות שאם ישבר באונס ישלם לו דמיו אע\"פ שמן הדין שוכר פטור מאונסים אפ\"ה שרי ליטול שכר כיון דאינו מתחייב בדמיו אא\"כ ישבר וכ\"ז שהוא בעין הוא מחזירו כמו שהוא ועד שעת שבירה הוא ברשות בעלים לזולא וגם הוא נפחת וכו'. טור:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 176:4"
+        },
+        "5": {
+          "he": "בדמים.  כ' הש\"ך ול\"ד לצאן ברזל לקמן ר\"ס קע\"ז דהתם אינו עושה בהן מלאכה שיכחישו מחמתן והוא מקבל עליו אחריות מעתה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 176:5"
+        },
+        "6": {
+          "he": "בגוף.  והוה כמשכיר לו ספינות משובחות בסך יותר משאר ספינות שאינם כ\"כ חשובות וע\"ל סי' קס\"ג ס\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 176:6"
+        },
+        "7": {
+          "he": "מותר.  לפי ששכירות אינה משתלמת אלא לבסוף כמ\"ש בח\"מ סי' שי\"ז נמצא מה שפוחת לו השתא אזולי קא מוזיל גביה וכתב ב\"י בשם רשב\"א בעל התוספות דאין היתר רק אם נכנס תיכף לתוך הקרקע דאל\"ה הוי אגר נטר וכתב בד\"מ אמנם במ\"מ כתב דאע\"ג דאינו דר מיד בחצר שרי הואיל ובשכירות קרקע זוכה בה מיד משא\"כ בשכירות פועל הואיל ופועל אינו משתעבד מהשתא (ובנה\"כ כ' דנראה מסקנת הד\"מ כהרשב\"א דיש חילוק בין פועל לשכירות קרקע ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 176:7"
+        },
+        "8": {
+          "he": "דאסור.  נראה פשוט דזה הוי ר\"ק ואפי' בחלוקה הראשונה שכבר החזיק כו' נסתפק הב\"י אי הוה ר\"ק אבל בזה נראה דמודה דהוה ר\"ק ט\"ז (ובנה\"כ כתב דבב\"י לא משמע כן דנסתפק כיון דלא בא ע\"י הלואה וק\"ל):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 176:8"
+        },
+        "9": {
+          "he": "קע\"ז.  סט\"ו. וכתב הט\"ז וה\"ה בכל מה שמתחייב אדם עתה לחבירו מתנה שאם לא יפרע מכאן עד יום פלוני שיהא מוסיף על כל ליטרא ד' פשיטים בחדש כ\"כ ב\"י ונ\"ל דמ\"ש כאן שצריך שיהיה התנאי קודם הנישואין היינו בפעם הראשון שמתקשר עצמו בשעת כתיבת התנאים ליתן לחתנו נדוניא כיון דעד אותו פעם אין שום חיוב עליו א\"כ גם הרבית הוי בכלל המתנה אבל אם בתנאים לא נכתב רק חיוב הנדן ובשעת החתונה שמסלק הנדוניא כותב לו שיתן לו רווחים אין מועיל היתר זה הואיל ובפעם ההוא יש חיוב עליו לתת לו סך הנדן ואי לא יהיב ליה חייב ליתן קנס ממילא הוה כתוב דעלמא וצריך לעשות היתר על הרווחים ובלבוש כ' ג\"כ שאם נתפשרו אחר החופה הוי רבית גמור וגם קודם החופה טוב לעשות הכל קרן ויכתוב שאבי הכלה חייב ליתן להחתן כך בשנה הראשונה וכך בשנה השניה וכו' עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 176:9"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

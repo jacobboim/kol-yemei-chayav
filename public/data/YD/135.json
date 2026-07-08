@@ -1,0 +1,758 @@
+{
+  "chelek": "YD",
+  "siman": 135,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 16,
+  "fetchedAt": "2026-07-08T00:01:19.248Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "באיזו כלים יש לחוש משום ניסוך. ובו ט\"ז סעיפים:כלים שאין מכניסין לקיום בין שהם של עור בין שהם של עץ ושל זכוכית ושל אבן ושל מתכת אם אינן מזופתין משכשכן היטב במים ומותרים בין שהיה תחילת תשמישן ביד עובד כוכבים בין ביד ישראל היו מזופתין וחדשים אם דרכן לשום בהם יין בשעת זפיתה וכל שכן אם הם ישנים שנתיישנו ביד עובד כוכבים בתשמיש יין קולף את הזפת ומשכשכן ומותרים. לא רצה לקלף ממלאן ומערן ג' ימים והוא הדין לכלים שלנו שנגע בהם העובד כוכבים בעוד היין טופח עליהם: הגה י\"א דבכלים שלנו שהיה משקה טופח עליהם ונגע בהן עובד כוכבים אם הם של עץ ואבן או מתכת ושכשכן אפילו הם זפותים ועבר ונתן בהם יין אין לאסור בדיעבד (טור בשם ר\"ת ובעל התרומה והרא\"ש) ובהפסד מרובה יש להקל:",
+      "en": "Des vases qui peuvent devenir défendus pour avoir servi au vin destiné aux idolesLorsqu’on a versé du vin défendu dans des récipients en peau, en bois, en cristal, en pierre ou en fer, non enduits de poix et ayant servi soit chez un païen, soit chez un Israélite, mais dans lesquels le vin ne séjourne jamais longtemps, il suffit de laver ces vases pour qu’on puisse s’en servir. Mais si les vases enduits de poix ont contenu du vin destiné aux idoles, si en outre ils ont fait déjà beaucoup d’usage, il faut gratter la poix et bien laver ces vases. Si l’on ne peut pas gratter la poix, on peut, pour pouvoir s’en servir, les remplir d’eau pendant trois jours, en ayant soin de changer l’eau tous les jours. La même loi s’applique au vase qu’un païen a touché au moment de l’écoulement du vin.GLOSE: D’après certains auteurs, il faut se montrer modéré en cas de fait accompli, et surtout lorsque la perte doit être importante, dans le cas suivant: un païen a touché un vase en bois, en fer ou en pierre au moment de l’écoulement du liquide, puis par négligence, on a versé un autre vin dans ce même vase; alors même que les vases sont enduits de poix, il suffit qu’ils aient été bien lavés.",
+      "ref": "Shulchan Arukh, Yoreh Deah 135:1"
+    },
+    {
+      "seif": 2,
+      "he": "כלי שניקב וסתמו בזפת אינו נידון ככלי מזופף ולפי זה משפך שהוא מזופף מעט סביב הברזל אין לו דין כלי מזופף:",
+      "en": "Quand un vase, dont les parois sont perforées, a ses trous fermés avec de la poix, on ne le considère pas, dans le cas où il aurait servi pour du vin défendu, comme enduit de poix; il en est de même pour un seau dont le cercle est également enduit de poix.",
+      "ref": "Shulchan Arukh, Yoreh Deah 135:2"
+    },
+    {
+      "seif": 3,
+      "he": "כלי שהוא שוע (פירוש שהחליקו וטחו) בשעוה אין דינו כמזופף דשעוה לא בלעה:",
+      "en": "Dans le cas où l’on aurait versé dans un vase enduit de cire du vin défendu, on ne considère pas ce vase comme s’il était enduit de poix parce que la cire n’absorbe aucun liquide.",
+      "ref": "Shulchan Arukh, Yoreh Deah 135:3"
+    },
+    {
+      "seif": 4,
+      "he": "כלי חרס אם נשתמש בהם העובד כוכבים כל זמן שלא שבעו לבלוע צריכים מילוי ועירוי אפילו אינם זפותין ומאימתי שבעו מפעם שניה ואילך לפיכך אם נשתמש בהם העובד כוכבים פעם ראשונה ושנייה צריך מילוי ועירוי (טור) ואם נתן בהם מים שלשה פעמים ואח\"כ נתן בהם יין ונגע בו העובד כוכבים מותר בשכשוך אבל אם לא נתן בהם מים אלא ב' פעמים ואח\"כ נתן בהם יין ונגע בו העובד כוכבים יש אומרים שצריך עירוי ואם נתן בהם מים פעם אחת ושהו בהם שעה גדולה כמו רביע היום הוו בלועים ממים כמו נתן בהם מים שלש פעמים ואם הם זפותים צריכים לקלוף הזפת או מילוי ועירוי אפילו בשלנו שנגע בהם העובד כוכבים בעוד משקה טופח עליהם (ובדיעבד דינן ככלי אבן ועץ כמו שנתבאר) (כך מפרש הב\"י ל' הטור):",
+      "en": "Un vase de terre, dont un païen s’est servi et qui n’a pas absorbé une grande quantité de vin défendu, doit être rempli d’eau qu’il faut changer trois fois; il est alors permis, même s’il n’est pas enduit de poix. Lorsqu’après avoir changé l’eau trois fois et après avoir lavé le vase, un païen arrive et touche le vase qui contient du vin, il suffit, dans ce cas, de rincer ce vase. Mais si le même fait se produit alors qu’on n’a pu changer l’eau que deux fois, certains auteurs prétendent qu’il faut, dans ce cas, remplir de nouveau le vase d’eau et la changer trois fois. Quand le vase est resté rempli d'eau pendant le quart d’une journée, on présume que l’effet est le même que si on avait changé l’eau trois fois. Quand le vase est enduit de poix, il faut gratter cette substance, remplir le vase d’eau et la changer trois fois.GLOSE: En cas de fait accompli, le vase est considéré comme s’il était en pierre ou en bois.",
+      "ref": "Shulchan Arukh, Yoreh Deah 135:4"
+    },
+    {
+      "seif": 5,
+      "he": "כלי נתר והם העשוים ממחפורת של צריף (פי' קרקע שחופרין משם צריף בלע\"ז אלו\"ם ובלשון אשכנז בייס\"א. רש\"י) בולעים הרבה ביותר ואין להם טהרה עולמית אפילו ביישון י\"ב חדש ואפילו באין מכניסין בהם לקיום ואפי' היה תחילת תשמישן ביד ישראל:",
+      "en": "Lorsqu’un vase en plâtre a contenu du vin destiné aux idoles, il est défendu à jamais, parce qu’il a absorbé une grande quantité du liquide et il est impossible, quoi qu’on fasse, de le rendre propre à servir de nouveau.",
+      "ref": "Shulchan Arukh, Yoreh Deah 135:5"
+    },
+    {
+      "seif": 6,
+      "he": "כלי חרס המצופים באבר או ברתוכי זכוכית (פירוש ממין כלי זכוכית שלא נתבשל כל צרכו והוא מן החול. תוספות)  אם הם ירוקים דינם ככלי נתר מפני שיש בו קרקע מחפירת צריף אבל לבנים או שחורים אם הם חלקים שאין בהם בקעים דינם ככלי מתכות ואם יש בהם בקעים דינם כשאר כלי חרס שאינם שועים: הגה והא דכלי חרס מהני ליה עירוי היינו בדלא נשתמשו בו יין נסך רק בצונן אבל אם השתמשו בו בחמין כלי חרס אין לו תקנה ובשאר כלים צריכים הגעלה כמו בשאר איסורים (מרדכי פרק ב' דעבודת כוכבים בשם ראבי\"ה):",
+      "en": "Un vase de terre, enduit de glaise, qui présente un aspect verdâtre indiquant que cette substance ne s’est pas encore liée avec la terre, est considéré comme un vase de plâtre. Quand la glaise est uniformément blanche ou noire et sans gerçures, on considère ce vase comme un vase de fer; si l’enduit présente des gerçures, on considère ce récipient comme un vase en terre non revêtu d’une couche de cire.GLOSE: Il n’est question ici que du vase de terre qu’il suffit de laver, quand on y a versé du vin défendu froid; mais quand le vin est chaud, le récipient est défendu à jamais. Quant aux vases de métal dans lesquels on a versé du vin chaud, il suffit de les rincer.",
+      "ref": "Shulchan Arukh, Yoreh Deah 135:6"
+    },
+    {
+      "seif": 7,
+      "he": "כלים שמכניסים בהם יין לקיום צריכי' עירוי בין שלקחם ישנים מהעובד כוכבים בין שהם שלנו ונשתמש בהם העובד כוכבים אפילו לפי שעה ומיהו בעירוי סגי להו אפילו הם זפותים:",
+      "en": "Quand on a acheté à un païen des vases destinés à contenir du vin, soit que ceux-ci ne lui aient pas servi depuis longtemps, soit qu’ayant appartenu à un Israélite, le païen n’y ait versé du vin qu’une seule fois, il faut les tremper dans l’eau; cette simple condition suffit également aux vases enduits de poix.",
+      "ref": "Shulchan Arukh, Yoreh Deah 135:7"
+    },
+    {
+      "seif": 8,
+      "he": "יש מי שאומר שלא החמירו בשביל שמכניסו לקיום אלא בכלי חרס בלבד ויש מוסיפים של עץ ושל עור ויש מי שמוסיף של אבן ושל מתכת וכן ראוי לנהוג אבל של זכוכית לדברי הכל אין מחמירים בו בשביל שמכניסו לקיום:",
+      "en": "Un auteur déclare qu’il ne faut pas exiger une application trop rigoureuse des lois concernant les vases destinés au vin, à l’exception toutefois, de celles qui concernent les ustensiles de terre. D’autres au contraire, prétendent qu’il faut se montrer aussi sévère pour les récipients en bois, en peau, en pierre ou en fer que pour ceux en terre. Tel est d’ailleurs l’usage généralement adopté; mais tous s’accordent à dire que la même sévérité ne s’étend pas aux ustensiles en verre.",
+      "ref": "Shulchan Arukh, Yoreh Deah 135:8"
+    },
+    {
+      "seif": 9,
+      "he": "נודות אין חשובין מכניסן לקיום שהרי אינם עשוים אלא להוליך בהם יין מהגת לחבית אבל חמת של טייעים כיון שהיין נתון בו תמיד שמיד שמערין זה חוזרין וממלאים אותו דינו כמכניסו לקיום אבל כוסות אע\"פ ששותים בהם תדיר מכ\"מ אין היין שוהה בהם תמיד אלא ממלאן לפי שעה ושותה ומערה והלכך אין להם דין מכניסן לקיום (כלי שמכניסין בו יין לעמוד בו שלשה ימים מקרי מכניסו לקיום ולכן העירוי גם כן הוא שלשה ימים) (מרדכי פא\"מ ובכל בו ובארוך כלל כ\"ח דין ס\"ט):",
+      "en": "Les outres ne sont pas considérées comme des vases destinés à contenir du vin d’une façon continue, parce qu’on ne s’en sert généralement que pour transporter le liquide du pressoir au tonneau; il n’en est pas de même pour l’outre du berger, qui contient constamment son vin. Une coupe n'est également pas regardée comme un vase destiné à contenir continuellement du vin, parce qu'on ne l'y verse qu’au moment où on doit le boire.GLOSE: Lorsqu'on a laissé pendant trois jours du vin défendu dans un vase, il faut, pour pouvoir s'en servir, le laisser tremper dans l'eau pendant trois jours également.",
+      "ref": "Shulchan Arukh, Yoreh Deah 135:9"
+    },
+    {
+      "seif": 10,
+      "he": "כלי עור הצריך מילוי ועירוי צריך שיוסיף עור וכיוצא בו על פיו כעין גדנפא כדי שיעלו המים על פיו או יהפכנו על פיו בתוך כלי מלא מים שלשה ימים אחרים:",
+      "en": "Quand une outre a contenu du vin défendu, on doit, pour la rendre de nouveau propre à l'usage, la remplir d'eau et mettre une peau sur son ouverture afin que l'eau monte jusqu'au sommet et on la laisse aussi trois jours. On peut également la remplir d'eau, la plonger, l'ouverture en bas, dans un autre vase plein d'eau et l'y laisser séjourner le même nombre de jours.",
+      "ref": "Shulchan Arukh, Yoreh Deah 135:10"
+    },
+    {
+      "seif": 11,
+      "he": "כ\"מ שאמרנו שצריך שכשוך צריך להדיחו ג' פעמים (במים אבל לא ביין אפילו רוצה לאסור יין שמשכשך (טור וב\"י בשם הרמב\"ן) ויש מקילין בדיעבד) . (בא\"ח בשם י\"א):",
+      "en": "Toutes les fois qu'il est prescrit de remplir d’eau un vase défendu afin de le rendre de nouveau propre à l'usage, il est également prescrit de le laver trois fois.GLOSE: Mais il faut rincer le vase avec de l'eau et non avec du vin, quand bien même on aurait l'intention de jeter le vin; cependant, en cas de fait accompli, il faut se montrer indulgent.",
+      "ref": "Shulchan Arukh, Yoreh Deah 135:11"
+    },
+    {
+      "seif": 12,
+      "he": "כל מקום שצריך עירוי צריך למלאותו מים על כל גדותיו ויניחם בו כ\"ד שעות מעת לעת ולסוף כ\"ד שעות ישפכם והמים מותרים (ויש אוסרים המים) (מרדכי פא\"מ ובארוך ואגודה בשם ראבי\"ה) ויתן בו מים שניים ויניחם בו כ\"ד שעות וכן יעשה פעם שלישית ואע\"פ שלא היו שלשה ימים אלו רצופים אין בכך כלום ואם עמדו בו המים כמה ימים ולא שפכם לא עלו לו אלא ליום אחד ואם שפך המים קודם שעמדו בו כ\"ד שעות לא עלו לו אותם המים:  (מי מלח חזקים שיש בהן שליש מלח וב' שלישים מים מועילים במעת לעת (טור בשם הרמ\"ה) כמו עירוי ג' ימים) (טור בשם הרא\"ש):",
+      "en": "Chaque fois qu'il est nécessaire de remplir d’eau un vase afin de le rendre de nouveau permis, la hauteur du liquide doit atteindre l’extrême bord et l’eau doit être laissée dans le vase pendant vingt-quatre heures; on la change alors, on laisse cette nouvelle eau pendant le même laps de temps et on continue ainsi par trois fois. L’eau dont on s’est servi est permise.GLOSE: Certains auteurs prétendent que cette eau est défendue. Le vase est permis, quand bien même l’opération n’aurait pas été faite en trois journées consécutives. Mais lorsque la même eau est restée dans le vase pendant plusieurs jours de suite, ce séjour prolongé ne constitue quand même qu’un tiers de l’opération. Quand on a changé l’eau avant les vingt-quatre heures, la journée ne compte pas. Lorsqu’on a mis dans le vase une dissolution d’eau salée au tiers, un jour suffit.",
+      "ref": "Shulchan Arukh, Yoreh Deah 135:12"
+    },
+    {
+      "seif": 13,
+      "he": "אפילו במכניסו לקיום אינו בולע יותר מכדי קליפה לפיכך אם העביר עליהם מלקט ורהיטני או קלפם בקרדום הוכשרו (אבל קליפת הזפת לא מהני בכלים המכניסים לקיום) (כך משמע מתשובת הרא\"ש):",
+      "en": "Pour un vase qui a contenu du vin défendu pendant quelque temps, et qui n’a absorbé du liquide que dans la partie de la paroi qui doit être enlevée, il suffit, pour le rendre de nouveau propre à l’usage, de le gratter avec un instrument quelconque.GLOSE: Pour un vase enduit de poix, on doit enlever entièrement cette substance et, de plus, une certaine épaisseur de la paroi du vase.",
+      "ref": "Shulchan Arukh, Yoreh Deah 135:13"
+    },
+    {
+      "seif": 14,
+      "he": "כלי חרס שנשתמש בהם יין נסך אם החזירן לכבשן והסיקן מבחוץ ונתלבנו אפי' לא השהם בתוכו עד שנשר הזפת אלא שנרפה שרי אבל אם הסיקן מבפנים לא מהני אלא אם כן הסיקן כל כך עד שעבר חומם לצד חוץ כל כך שהיד סולדת בו:",
+      "en": "Lorsqu’on a fait chauffer dans une fournaise l’extérieur d’un vase de terre ayant contenu du vin destiné aux idoles, de manière à ce que la chaleur ne puisse être assez forte à l’intérieur pour séparer des parois du vase la poix qui continue à n’y adhérer que faiblement, le vase est permis. Si on l’a fait chauffer à l’intérieur, il faut que le vase soit de nouveau rendu propre à l’usage; la chaleur doit alors être assez forte pour qu’il soit impossible de toucher l’extérieur, sinon le vase est défendu.",
+      "ref": "Shulchan Arukh, Yoreh Deah 135:14"
+    },
+    {
+      "seif": 15,
+      "he": "כלי עץ וכלי עור וכלי חרס אפילו מזופתים ואפילו מכניסן לקיום ניתרים בהגעלה בכלי ראשון: הגה ויש מתירין אפילו ע\"י עירוי שמערה בהן רותחין ולגלגלן (טור בשם ר\"ח ותשובת הרא\"ש) ויש לסמוך על זה בדיעבד (ב\"י) ואפילו לכתחילה נוהגין ליתן אבנים קטנים מלובנים תוך החבית או (גדולים) ונותנן על המשפך ושופך עליהם רותחים ויורדים לתוך החבית ומגלגלו ומחשבים זה לכלי ראשון (ארוך כלל נ\"ח):",
+      "en": "Les récipients en bois, en peau ou en terre qui ont contenu du vin appartenant à un païen, sont de nouveau rendus propres à l’usage quand on les a frottés avec de l’eau bouillante, prise dans le vase qui a servi à la faire chauffer. Il en est de même pour les récipients enduits de poix, et dans lesquels du vin défendu a longtemps séjourné.GLOSE: Certains auteurs autorisent l’usage du vase qui n’a été que plongé dans l’eau chaude; on peut admettre leur opinion en cas de fait accompli. On peut aussi, de propos délibéré, placer des pierres brûlantes dans le vase, verser de l’eau chaude sur ces pierres et agiter le tout; cette opération a la même valeur que celle ordonnée par l’article 15.",
+      "ref": "Shulchan Arukh, Yoreh Deah 135:15"
+    },
+    {
+      "seif": 16,
+      "he": "כל הכלים שישנן י\"ב חדש שרי שודאי כלה כל לחלוחית יין שבהם ואפילו נתן לתוכם מים תוך י\"ב חדש אין בכך כלום:",
+      "en": "Si des vases, après avoir servi pour le vin d’un païen, sont restés vides pendant douze mois, ils sont permis, car il est certain que toute la matière absorbée s’est évaporée; de même, l’eau qui aurait séjourné dans ces vases pendant les douze mois, ne compte pas.",
+      "ref": "Shulchan Arukh, Yoreh Deah 135:16"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מעובדא דבי פרזק רופילא עבודת כוכבים דף ל\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:1"
+        },
+        "2": {
+          "he": "ר\"ן שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:2"
+        },
+        "3": {
+          "he": "הרשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:3"
+        },
+        "4": {
+          "he": "ברייתא דף ל\"ג וכגירסא שכתבו התוס' והרא\"ש שם בשם ר\"ת וכפירושו שם וחדשים פירוש שדומה שלא היה בהן יין מעולם אפ\"ה אסורים דילמא רמא בהם עובד כוכבים חמרא והזפת מבליעו אע\"פ שאין מכניסו לקיום מפני שהזפת מבליע וכ\"כ הרשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:4"
+        },
+        "5": {
+          "he": "מעובדא דבר אדא טייעא שם בגמ':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:5"
+        },
+        "6": {
+          "he": "תוס' שם דף ע\"ד וכ\"כ המרדכי פ\"ב דעבודת כוכבי':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:6"
+        },
+        "7": {
+          "he": "שם במרדכי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:7"
+        },
+        "8": {
+          "he": "מסקנת הגמ' שם דף ל\"ג וכפירש\"י וכ\"כ הר\"ן והרשב\"א בשם ר\"ח ושכן פירשו הגאונים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:8"
+        },
+        "9": {
+          "he": "סה\"ת והגמ\"יי כפי פירושם שם בגמ' דפעם א' וב' קאי אנתינת מים שלא גמרו לשבוע מלבלוע אא\"כ נתן בהם מים ג' פעמים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:9"
+        },
+        "10": {
+          "he": "שם בסה\"ת והגמי\"י:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:10"
+        },
+        "11": {
+          "he": "הרשב\"א מעובדא דבר אדא טייעא שציינתי לעיל סעיף א':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:11"
+        },
+        "12": {
+          "he": "מימרא דרב יוסנא א\"ר אמי שם דף ל\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:12"
+        },
+        "13": {
+          "he": "טור בשם הראב\"ד וכן הסכים הרשב\"א והר\"ן מדאמר עולמית:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:13"
+        },
+        "14": {
+          "he": "הרשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:14"
+        },
+        "15": {
+          "he": "מימרא דרב זביד שם ובפסחים דף כ\"ט:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:15"
+        },
+        "16": {
+          "he": "כפי' רש\"י שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:16"
+        },
+        "17": {
+          "he": "כפי' התוס' בשם ר\"ח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:17"
+        },
+        "18": {
+          "he": "מברייתא דקנקנים של עובדי כוכבים וכו' וכפירש\"י שם דף ל\"ג וברייתא הגת והמחץ שם דף מ\"ד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:18"
+        },
+        "19": {
+          "he": "מעובדא דבר אדא טייעא שם דף ל\"ג ומהא דרבא כי הוה משדר גולפי שם דף ע\"ד הרא\"ש והר\"ן שם והרשב\"א בת\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:19"
+        },
+        "20": {
+          "he": "טור בשם אביו הרא\"ש וכ\"כ הרשב\"א בת\"ה מהך ברייתא דף ע\"ד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:20"
+        },
+        "21": {
+          "he": "שם בשם רמב\"ן:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:21"
+        },
+        "22": {
+          "he": "שם בשם הרשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:22"
+        },
+        "23": {
+          "he": "שם בשם הרא\"ש:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:23"
+        },
+        "24": {
+          "he": "שם אפילו לדעת אביו הרא\"ש (ור\"ן):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:24"
+        },
+        "25": {
+          "he": "שם בשם תשובות אביו הרא\"ש:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:25"
+        },
+        "26": {
+          "he": "מימרא דרבי חביבא הני אבני דטייעא וכו' שם דף ל\"ד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:26"
+        },
+        "27": {
+          "he": "ב\"י ממשמעות דברי הר\"ן והרשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:27"
+        },
+        "28": {
+          "he": "הרשב\"א בתשובה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:28"
+        },
+        "29": {
+          "he": "טור בשם ר\"ת שם בתו' דף ל\"ג בד\"ה כסי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:29"
+        },
+        "30": {
+          "he": "שם בגמרא הורה רב אמי הלכה למעשה וכו':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:30"
+        },
+        "31": {
+          "he": "מימר' דרבא שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:31"
+        },
+        "32": {
+          "he": "מברייתא דקנקנים ומהא דשרי רבינא לרבי חייא וכו' למרמי ביה שכרא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:32"
+        },
+        "33": {
+          "he": "טור וכ\"כ הרשב\"א בת\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:33"
+        },
+        "34": {
+          "he": "שם בשם הרשב\"א בת\"ה הארוך ושכן אמר לו מורו ה\"ר יונה וכ\"כ התוס' שם דף ע\"ד בד\"ה דרש רבא נעווה ארתחו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:34"
+        },
+        "35": {
+          "he": "מימרא דרבי יוחנן שם דף ל\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:35"
+        },
+        "36": {
+          "he": "כרב אשי שם (°) פי' שהכניס האור לתוך הכלי דכיון שהכניס האור מיד זפתו נושר:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:36"
+        },
+        "37": {
+          "he": "מסקנת הגמ' שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:37"
+        },
+        "38": {
+          "he": "טור בשם הרשב\"א בשם גדולי המורים והוא בת\"ה מדין הכניס האור לתוך הכלי עד שעבר חומה לצד חוץ דשרי וכן כתב רבינו ישעיה צרפתי: (°) פי' ללבן אבנים גדולים שהם מחזיקים החום יותר זמן מרובה וכו' שם בארוך:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:38"
+        },
+        "39": {
+          "he": "מימרות דאמוראי שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 135:39"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "שאין מכניסין וכו'. דאלו מכניסין בהם לקיום צריך עירוי כדלקמן סימן זה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:1"
+        },
+        "2": {
+          "he": "בין שהיה כו'. חוץ מכלי הגת שצריך ניגוב לפי שמשתמשין בהם יין בשפע כדלקמן סי' קל\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:2"
+        },
+        "3": {
+          "he": "בין ביד ישראל. לשון הטור בין שלנו שנגע בו עובד כוכבים בעוד משקה טופח עליהם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:3"
+        },
+        "4": {
+          "he": "שנתיישנו ביד עובד כוכבים בתשמיש כו'. וכתב הטור והפוסקים בשם ר\"י דאם אין דרכם לתת בהם יין בשעת הזפיתה ומראיתם צהוב ניכר שלא נשתמש בהן אחר הזפיתה דאם היה נותן בהם יין היה ניכר וכ\"כ הטור לקמן בשם הרשב\"א גבי כלי חרס זפותים במקום שאין דרכם לתת יין בשעת זפיתה ומראיהם צהוב מותר לקנותם מהם ע\"כ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:4"
+        },
+        "5": {
+          "he": "דבכלים שלנו כו'. אע\"פ שראינו שהיה בו יין לפנינו וכ\"ש כלי עובד כוכבים דאינו יודע כן משמע בטור ובפוסקים וכ\"כ בפרישה ס\"ט ופשוט הוא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:5"
+        },
+        "6": {
+          "he": "טופח ע\"מ להטפיח מהרש\"ל וכ\"כ ב\"י לקמן סי' קל\"ח בשם הרשב\"א דלא כדרישה שכתב דצ\"ע:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:6"
+        },
+        "7": {
+          "he": "אם הם של עץ כו'. לאפוקי של עור שהן רכים והזפת מבליע בהן היין ולכ\"ע צריך עירוי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:7"
+        },
+        "8": {
+          "he": "אין לאסור. דל\"ד לכלי הגת דלקמן סי' קל\"ח לפי שהן תדירין ביין:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:8"
+        },
+        "9": {
+          "he": "ובהפסד מרובה יש להקל. ומותר בשתיה והיינו לדין הש\"ס אי נמי מיירי כשאין ס' אבל יש ס' פשיטא דבכל ענין שרי לדידן דקי\"ל סתם יינם בס' ומסתמא יש ס' נגד קליפת הכלי שלא נאסר אלא כדי קליפה וכדלקמן סימן קל\"ז ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:9"
+        },
+        "10": {
+          "he": "אינו נידון בכלי מזופף. הלכך סגי ליה בהדחה ככלי עצמו או ניגוב אם הוא כלי שצריך ניגוב ולפי זה המשפך שלנו שמזופף מעט סביב הברזל סגי ליה בניגוב כמו המשפך עצמו (לקמן סי' קל\"ח סעיף ה') שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:10"
+        },
+        "11": {
+          "he": "כלי חרס כו'. אפי' אין מכניסו לקיום וכן הוא מסקנת רוב הפוסקים וכן הוא בעט\"ז:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:11"
+        },
+        "12": {
+          "he": "מילוי ועירוי. ואע\"ג דלענין הגעלה קיימא לן דאין כלי חרס יוצא מידי דפיו לעולם (כדלעיל סימן קכ\"א ובא\"ח סימן תנ\"א) שאני הכא גבי הכשירו מיין נסך שתשמישו על ידי צונן עירוי המים מקלישין טעם היין עד כאן לשון עט\"ז וע\"ל סימן קכ\"ח ס\"ק ט\"ו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:12"
+        },
+        "13": {
+          "he": "אם נשתמש בהם כו'. דוקא בשלא היה בו יי\"נ מע\"ל אבל היה בו מע\"ל אין חילוק בין שבעו ללא שבעו אלא לעולם צריך מילוי ועירוי כדלעיל סי' צ\"ג ס\"ק ו':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:13"
+        },
+        "14": {
+          "he": "יש אומרים שצריך כו'. קשה דהא כתב בתחלה לשון הטור דמפעם שניה ואילך שבעו ובב\"י כתב דהסה\"ת והגהמ\"י שהם הי\"א מפרשים בע\"א והכי הל\"ל וי\"א שאם לא נתן בו מים אלא ב' פעמים כו' צריך עירוי ונ\"ל דסבירא ליה דגם הטור מודה דבמים לא שבעו מב' פעמים דדוקא ביין שבעו מב\"פ ולא במים. ומ\"ש בב\"י דסה\"ת והגמ\"יי מפרשים בע\"א היינו פי' דשמעתא אבל לענין דינא אפשר דלא פליגי דלא כד\"מ שכתב בשם ב\"י דפליגי לענין דינא ע\"ש אלא שלפי דמפשט דברי הטור והפוסקים לא משמע לחלק בהכי כתב המחבר דברי סה\"ת והגמ\"יי בשם י\"א והיינו דכתב דברי הי\"א במים ואי הוי ס\"ל דאין חילוק בין מים ליין הל\"ל בפשיטות דלא סגי בב\"פ זה נ\"ל בדעת המחבר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:14"
+        },
+        "15": {
+          "he": "ושהו בהם כו'. וכב\"י דדוקא באין מכניסו לקיום אבל במכניסו לקיום אפילו לא נתן בהם העובד כוכבים יין אלא לפי שעה צריך עירוי כדלקמן אבל הב\"ח כתב דבכלי חרס אפילו מכניסו לקיום היכא דכבר שבע לבלוע ביד ישראל א\"צ עירוי כשנשתמש בו עובד כוכבים אח\"כ אלא סגי ליה בשכשוך ולק' כלי עץ ואבן שאני דאינם שבעים לעולם וכן בכלי חרס כל זמן שאינו שבע לבלוע ביד ישראל אם היה מכניסו לקיום אע\"פ שלא נשתמש בהן עובד כוכבים אלא לפי שעה נמי צריך עירוי דאלו בשאין מכניסו לקיום א\"צ עירוי בכלי חרס אפילו לא שבע לבלוע אלא א\"כ דנשתמש בו ונשתהה בו יין של איסור קצת אבל בנשתמש בו לפי שעה סגי בשכשוך עכ\"ל ולענד\"נ דבכלי חרס שלא שבעו לבלוע אפילו לא נשתמש בו העובד כוכבים אלא לפי שעה צריך עירוי וכן משמע מדברי הרשב\"א שבטור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:15"
+        },
+        "16": {
+          "he": "אפילו בשלנו שנגע בהם העובד כוכבים כו'. היינו לפי מה שפירש בב\"י דברי הטור אבל מהרש\"ל השיג עליו ופירש דברי הטור דאפי' לכתחלה נוהגין להתיר לשתות בו ול\"ד לכלי עץ דבסעיף א' דכלי חרס הואיל ושבעים כבר לא בלעי ומביאו הדרישה וכ\"כ הב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:16"
+        },
+        "17": {
+          "he": "כלי נתר כו'. כתבו התוספות [בעבודת כוכבים דף ל\"ג ע\"ב] דתרי גווני נתר וזה אינו דפ\"ק דשבת דקאמר כלי נתר וכלי חרס טומאתן שוה ויש עוד נתר שלישי שאין עושין ממנו כלים אלא מכבסים בו כלים עיין שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:17"
+        },
+        "18": {
+          "he": "ממחפורת של צריף. שקורין אלו\"ין עט\"ז ופרישה וכ\"כ הריב\"ש סימן ת\"ן והברטנורה רפ\"ב דכלים שהוא הנקרא אלו\"ם אבל הרמב\"ם שם סתר בארוכה דברי האומרים כן ופי' שהוא הנקרא טפל בל' ערבי וע\"ל סי' קנ\"ט ס\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:18"
+        },
+        "19": {
+          "he": "ככלי מתכות. בסעיף א' ובסעיף ח':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:19"
+        },
+        "20": {
+          "he": "כשאר כלי חרס. בסעיף ד':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:20"
+        },
+        "21": {
+          "he": "כלים שמכניסים כו'. כלומר שדרך להכניס בהן יין לקיום וכו':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:21"
+        },
+        "22": {
+          "he": "לפי שעה. דוקא בנשתמש בהן אבל אם נגע בהם בשעת טפיחה לא נאסר דגזרו משום שמא ישתמש בהם העובד כוכבים ויכניס בהן לקיום ויהיה כבוש כו' פרישה סעיף כ\"ג וע\"ל סימן קל\"ו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:22"
+        },
+        "23": {
+          "he": "אבל של זכוכית כו'. דשועים וקשים הם ובליעתם מועטת מכל הכלים. ר\"ן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:23"
+        },
+        "24": {
+          "he": "כלי שמכניסין כו'. כלומר כל שדרך להכניס בו אבל אם ידוע שעמד בהן יין ג' ימים לא מהני ליה עירוי דה\"ל כבוש כמבושל כדלקמן ס\"ק ל\"ג ובעט\"ז משמע דאפילו ידוע שעמד בו יין ב' ימים זה אח\"ז סגי בעירוי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:24"
+        },
+        "25": {
+          "he": "כלי עור כו'. וה\"ה כל הכלים וכן משמע ברשב\"א שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:25"
+        },
+        "26": {
+          "he": "בדיעבד. ובמרדכי כתב כלי יי\"נ ששכשכו ביין כשר מותר לכתחלה ונראה דר\"ל אם שכשכו מותר לכתחלה לשתות בו ואין צריך שכשוך אחר מיהו לכתחלה אסור לשכשכו ביין והרב אמר דבדיעבד אם שכשכו מקילין לשתות בו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:26"
+        },
+        "27": {
+          "he": "מים. ואם ירצה לעשות עירוי ביין אינו כלום. טור וכן הביא ב\"י הא\"ח שכתב כן בשם הרמב\"ן וכתב בדרכי משה שאפשר דבשכשך כ\"ע מודו דיש להקל ומשמע דגבי עירוי הודה הרב דלא סגי ביין ודלא כהעט\"ז שכתב להקל בדיעבד להתיר על ידי שכשוך או עירוי ביין כשר כו' מיהו היינו דוקא מדינא דיין ביין אוסר בכל שהוא א\"נ לדידן וכשאין ס' ביין נגד קליפת הכלי א\"נ יש ס' ואפי' הכי לכתחלה אסור ליתן בו יין אבל אם יש ביין ס' ואחר כך נתנו בכלי יין פעם אחרת היין מותר בדיעבד שכבר נתבטל טעם הכלי ביין הראשון וכדלקמן סי' קל\"ז סעיף ה' ס\"ק י\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:27"
+        },
+        "28": {
+          "he": "כ\"ד שעות. וכב\"י בשם תשובת הרא\"ש ואם לא יוכל לצמצם ברגע א' לא ניתנה התורה למלאכי השרת אבל אם מיהר לערות בא' מג' ימים בב' שעות אותו היום לא עלה לו כלל כו' ונראה דב' שעות הוא ל\"ד דה\"ה חצי שעה או פחות כל שידוע בודאי שלא עמדו כ\"ד שעות ומכל מקום ק\"ל מ\"ש ואם לא יכול לצמצם דשרי דלא נתנה תורה למלאכי השרת והלא אפשר לצמצם כפשוטו שישהה המים בתוכה יותר מכ\"ד שעות:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:28"
+        },
+        "29": {
+          "he": "ויש אוסרין המים. נראה דוקא מים הואיל ואינן מאכל אלא מים גרידא מחמירין לכתחלה וכמ\"ש בסי' צ\"ד ס\"ק י\"ט כה\"ג אבל משקה אחר כגון שכר ודבש וכה\"ג שרי וכדאיתא בש\"ס ופוסקים ואף במים משמע במרדכי שם דאינם אסורים אלא כשנתנן בכלי להכשירו ומטעמא דכיון העושה כן לכתחלה אם היה שותה המים היה עובר על אין מבטלין איסור לכתחלה וה\"ה דלכתחלה אין לשומן בתבשיל עד כאן לשונו אבל אם אירע במקרה שנתנו מים בכלי ועמדו שם זמן רב מותרים ולפי זה שכר וכה\"ג בלא\"ה שרי דאין מכשירין בשכר ובזה מיושב מה שהביא מהר\"ם מטיקטי\"ן בגליון המרדכי בצ\"ע ולפי זה מה שכתב הב\"י בשם סה\"ת ותוספות דמי העירוי מותרין ליתא דהם לא כתבו אלא אמאי דאמרי' בש\"ס דמותר לתת שכר בכלי היין דה\"ה מים ושאר משקין וי\"ל דמיירי כשנותן בהם מים שלא להכשיר הכלים וכ\"נ דעת הרב שכ' כאן בהג\"ה דיש אוסרים המים ולקמן סי' קל\"ז ס\"ד סתם כדברי הט\"ו דמותר לתת בהן מים ושאר משקין אלא ודאי כדפרישית:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:29"
+        },
+        "30": {
+          "he": "אין בכך כלום. ואפילו לכתחלה יכול לעשות ג' ימים מפוזרים. טור ורשב\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:30"
+        },
+        "31": {
+          "he": "לא עלו לו אותן המים. בב\"י כתב בשם תשובת הרשב\"א דגם אותו יום עלה לו אלא שמשלים ביום של אחריו אותן [שעות] שחסרו וכתב דגם תשובת הרא\"ש מודה לזה אבל הדרישה כתב דהרא\"ש וטור חולקים וכ\"כ הב\"ח דסבירא ליה דאותו יום לא עלה לו כלל דשמא שעה כ\"ד גורם פליטת האיסור וכתב עוד הב\"ח והכי נקטינן לחומרא וכן משמע בש\"ע שחזר בו עד כאן ודלא כהעט\"ז שכ' כהרשב\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:31"
+        },
+        "32": {
+          "he": "מי מלח כו'. וכתב הטור ורשב\"א דשאר כל המשקין אינם מועילין להכשיר במע\"ל חוץ מציר ומורייס והמחבר והרב השמיטו הכשר ציר ומורייס משום דלא שכיח בינינו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:32"
+        },
+        "33": {
+          "he": "אינו בולע יותר מכדי קליפה. נראה דהיינו מסתמא אמרינן הכי משום שאינו ידוע שנכבש היין בתוכו יום שלם אבל אם היה ידוע שהיה יי\"נ בתוכו יום שלם ה\"ל כבוש וכבישה אוסר כל הכלי וכמ\"ש לקמן סי' קל\"ז ס\"ק ט' ונראה עוד דבכל הסי' ובכל מקום דאמרינן בכלי היין נכשרין במילוי ועירוי וכה\"ג היינו מסתמא אבל אם ידוע שעמד בו יי\"נ יום שלם פשיטא דצריך הגעלה גמורה כל חד לפי דינו שנתבאר בסי' קכ\"א כאלו נשתמש בו חמין דהא קי\"ל כבוש הרי הוא כמבושל ואף להרמב\"ן דס\"ל דמילוי ועירוי עדיף מהגעלה דמילוי ועירוי מהני בכלי חרס ולא הגעלה וא\"כ היה נראה דכמו דהגעלה מהני בשאר כלים שנחסרו ע\"י כבוש כ\"ש עירוי היינו מסתמא ומטעמא דאם איתא דנבלע בו לא מהני הגעלה לכלי חרס דאינו יוצא מידי דפיו לעולם א\"נ מטעמא דכתב הב\"ח דכדי שלא יבוא לטעות להגעיל כלי חרס אף בשאר איסורין אבל עירוי קי\"ל לחז\"ל הואיל ולא נבלע אלא בצונן כבכ\"פ אבל אם ידוע דעמד בה מע\"ל לא מהני לכ\"ע לכלי חרס לא מילוי ועירוי ולא הגעלה וכן מילוי ועירוי לא מהני בשאר כלים מיהו עדיין צ\"ע שאפשר לומר שאפי' ידוע שעמד בו מעת לעת וכדמשמע מסתימת פשט' דברי הפוסקים מכל מקום כיון דלא נאסר אלא על ידי צונן אמרינן ביה כבכ\"פ ומהני ליה מילוי ועירוי וגם י\"ל דקים להו לחז\"ל דע\"י מילוי ועירוי נקלש טעם היין שנבלע ע\"י צונן וצ\"ע ומכל מקום נראה דשאר איסורין שנבלעו בצונן ע\"י כבישה לא מהני הכשר מילוי ועירוי ולא אמרו כן אלא ביין שהמים שממלאין ומערין בכלי מקלישים טעם היין משא\"כ בשאר איסורין והיינו שלא הוזכר בשום מקום בש\"ס ופוסקים הכשר מילוי ועירוי בשאר איסורין אלא שקשה מ\"ש הטא\"ח סי' תנ\"א בשם ראבי\"ה וב\"י שם בשם יש פוסקים וכ\"כ בש\"ע שם סכ\"א דחבית של חרס שנתנו בהם שכר שעורים מותרין בהגעלה או בעירוי ג' ימים ואפשר לא הקילו אלא כשאינם ב\"י דתו ליכא איסורא דאורייתא וכה\"ג כתב בעל העיטור ומביאו הטור סימן קכ\"א דכלי חרס שאינה ב\"י כיון דליכא אלא איסורא דרבנן מהני ליה הגעלה אף על גב דאינו יוצא מידי דפיו לעולם ואף להחולקים עליו אפשר דמודה בחבית שתשמישה בצונן וכדמשמע להדיא מדברי ראבי\"ה שם דמחלק בהכי אבל בבן יומו לא מהני עירוי ובכלי יין לא שייך לפלוגי בין ב\"י לאינן ב\"י כדלקמן סימן קל\"ז גם י\"ל דבחמץ יש להקל טפי בהגעלה משום דהיתרא בלע וכה\"ג אמרינן לעיל סי' צ\"ג ס\"ק ג':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:33"
+        },
+        "34": {
+          "he": "על ידי עירוי. ואפילו למ\"ד עירוי אינו ככלי ראשון שרי הכא כיון דתשמישו בצונן תוס' ופוסקים ומה\"ט הקילו נמי הפוסקים הכא בהכשר שכתב הרב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:34"
+        },
+        "35": {
+          "he": "שרו. וא\"צ להתיר הקשרים הרשב\"א ופוסקים וכ\"פ ב\"י ומ\"ש הטור בשם הרא\"ש דצריך להתיר הקשרים צ\"ע דאפילו יהא כמ\"ש הב\"י דמדכתב הרא\"ש כהווייתו משמע דס\"ל דקאי גם איישון מ\"מ יש לחלק כמו שחילק הרשב\"א וע\"ל סי' קל\"ח סעיף ט':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:35"
+        },
+        "36": {
+          "he": "מים. ואפי' יין כן הוא בתשו' הרא\"ש ומביאו ב\"י וע\"ל סי' קל\"ז ס\"ק י\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 135:36"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "כלים שאין כו'. בסימן זה לא נכללו כלי הגת שהם חמירי טפי אע\"פ שאין מכניסין יין שם לקיום דטרידי ביין ודינם מבואר בסי' קל\"ח כ\"כ ב\"י והוא מוזכר בכל הפוסקים דכלי גת חמירי משאר כלים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 135:1"
+        },
+        "2": {
+          "he": "היו מזופתין. שהזפת מבליע היין לא שהאיסור משום היין שהם נותנים בשעת הזפיתה שאותו היין הוה כמשליך לאיבוד אלא שאח\"כ נותנים בהם יין ואינו ניכר כ\"כ ב\"י בשם התוספות וכתב הטור בשם ר\"י דוקא בימיהם שהיו רגילין ליתן יין בזפת שאז אינו ניכר אם נתן בהם יין אחר הזפת אבל האידנא שאין רגילין ליתן בהם יין בשעת זפיתה כל זמן שהם חדשים מראיתן צהוב עד שיתנו בהם יין לפיכך יכול לקנותן מהם כל זמן שהם צהובין עכ\"ל. ועיקר האיסור בימיהם הוא כשנתן יין בשעת זפיתה משום שאחר כך לא יהא ניכר באם נתן בו יין וכלי שהוא מזופף מבליע בכלי טפי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 135:2"
+        },
+        "3": {
+          "he": "ממלאן ומערן כו'. נ\"ל דנקט הכשר זה לפי שהוא מועיל בכולן אפי' בכלי עץ אבל באמת בכלי אבן מועיל ניגוב הנזכר בסימן קל\"ח סעיף א' לענין גת וכ\"ש בשאר כלים אם שייך בהו ניגוב והטור והש\"ע שלא זכרו כאן אלא עירוי גרירי בתר הגמרא פ' א\"מ (דף ל\"ג) בר אדא טייעא אנס נודות מישראל ורמא בהו חמרא והורו בי מדרשא דמערן ג' ימים והיינו בשל עור או חרס המבליע אפילו טפי מכלי עץ אבל בכלים שאין מכניסין לקיום לא מיירי בגמרא והפוסקים כללו אותם עם כלי עץ לענין דלא סגי בשכשוך ונקטו בהם הכשר א' המועיל לכולן ולא נחתו כאן לחילוק בין ניגוב לעירוי דבזה סמכו על סי' קל\"ח גם בפרישה סי' קל\"ח מחלק בין אבן לעץ בזה אלא שדחק לומר דכאן בהכשר העירוי לא קאי אשל אבן והוא ללא צורך ועוד בקש שם בעל הפרישה חילוקים להחמיר בשאר כלים יותר מכלי גת והם דברים תמוהים דפשוט הוא בכל הפוסקים דכלים שבגת חמירי שטרודים ביין כמו שכתבו התוספות בפרק אין מעמידין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 135:3"
+        },
+        "4": {
+          "he": "וה\"ה לכלים שלנו. פי' שיש חילוק בין זפותים לאינם זפותים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 135:4"
+        },
+        "5": {
+          "he": "בעוד היין טופח. פירוש על מנת להטפיח כ\"כ רש\"ל ובלאו הכי אין בו כח לאסור וכמ\"ש סימן קכ\"ג סעיף י\"ז לענין החרצנים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 135:5"
+        },
+        "6": {
+          "he": "אם הם של עץ ואבן כו'. לא אתי לאפוקי אלא של עור שהן רכים והזפת מבליע בהם את היין כ\"כ הטור בשם ר\"ת:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 135:6"
+        },
+        "7": {
+          "he": "ובדיעבד דינם ככלי עץ. זהו לפי מה שכתב הטור ואין נוהגין כן על דין כלי חרס שהוא מזופף ופירש ב\"י דאין נוהגין לאסור בדיעבד דאי לכתחלה הא כבר מסיק הטור בכלי עץ מזופף דבעי עירוי לכתחלה ורש\"ל פירש דמותר אפילו לכתחלה בכלי חרס שלנו הואיל ושבעים כבר עכ\"ל והיינו ע\"פ החילוק שכתב הטור בשם הרא\"ש בכלי חרס בין שבעים ללא שבעים ואם כן יהיו הכלי חרס השבעים עדיפי מכלי עץ ולע\"ד א\"א לפרש כן דברי הטור דהא בשכתב הטור דין כלי חרס שהוא בזפת קאי על מקום האוסר דהיינו אינו שבע ועל זה כתב דנראה לדמותו לכלי עור דבעי עירוי ועל זה כתב דאין נוהגין כן משמע בההוא גווני דמיירי לפני זה והיאך נאמר דאין נוהגין קאי על כלי חרס שלנו דוקא בשבע לבלוע ע\"כ נראה עיקר כפי' ב\"י דאדיעבד קאמר דוקא דאין נוהגין לאוסרו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 135:7"
+        },
+        "8": {
+          "he": "כלי חרס כו'. משמע סתם כלי חרס שלנו ולא כמו שמביא הטור דעת הרא\"ש דכתב שהוא מין אדמה כו' ולפי זה צריך ליזהר בהנהו כדים של חרס שפיהם קצר מלמעלה ומיוחדים ליין על הרוב שאין לשתות בהם יין של היתר אם הם של עובד כוכבים דתחלה נשתמש בו עובד כוכבים ביין ולא מועיל הדחה אבל באותן שממלאין בהן גם מים הוי ספק דרבנן שמא נשתמש בו תחלה במים ומותרים בהדחה. כן נ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 135:8"
+        },
+        "9": {
+          "he": "ונשתמש בהם העובד כוכבים אפילו לפי שעה. תוב בפרישה דדוקא בנשתמש בהן אבל אם נגע בשעת טפיחה לא נאסר דגזרו משום שמא ישתמש העובד כוכבים ויכניס בו לקיום ובסימן קל\"ח סעיף א' מבואר גבי גת דאין חילוק בין זפתה עובד כוכבים או ישראל ונגע בו עובד כוכבים וכתב שם בפרישה לחלק דהכא גבי שאר כלים דפסק דבעינן עירוי לא גזרו על הנגיעה אבל שם בסי' קל\"ח דמיירי להצריך ניגוב גזרו גם על הנגיעה עכ\"ל ודבריו תמוהים מכל צידי צדדים חדא דמנין לנו לחלק בזה הא אין לנו רמז בתלמוד מזה דהא שם כתב הש\"ע ושל עץ אם זפתה העובד כוכבים כו' או שזפתה ישראל ונגע העובד כוכבים כו' בעי עירוי בלא קליפה כו' הרי דבדין עירוי כתב בש\"ע ג\"כ דגזרו על הנגיעה וכן איתא סוף סימן קל\"ח בטור בשם סה\"ת דבשלנו ונגע בהו עובד כוכבים נסתפק אי צריך הגעלה כו' שמע מיניה דלא כדבריו דכתב דוקא בניגוב גזרו. ותו דהא כתב בת\"ה מביאו ב\"י בסי' קל\"ח גבי גת וז\"ל והא דקתני שזיפתה עובד כוכבים ה\"ה אם זיפתה ישראל ונגע בו העובד כוכבים כשיש בו כדי להטפיח כו' והטעם לזה דגת כיון שאם היה תחילת תשמישה ביד עובד כוכבים היה צריך ניגוב אף הוא גזרו עליו לפי שעה וכמו שאמרנו נמי במכניסו לקיום שאפילו לפי שעה גזרו בו רבנן עכ\"ל הרי לפניך דלמד דין גת מדין כלי שמכניסו לקיום לענין זה דנגיעת עובד כוכבים אוסרת גם מ\"ש דכאן לא מיירי מניגוב אלא מעירוי הוא תמוה דודאי גם כאן סגי בניגוב בכלי אבן וכמו שכתבתי בסעיף א' והוא פשוט. ותו דהא אפי' באין מכניסין לקיום והן מזופתין אמרינן ר\"ס זה דאוסר בנגיעת עובד כוכבים ק\"ו במכניסן לקיום אפי' אין מזופתין שהרי כתב ב\"י דדין מכניסין לקיום אנו למדין מדין מזופף באין מכניסין לקיום. ועל פי זה אסרתי במי שמכר יינו ונשאר החבית ריקם רק שמרים נשארו בו ומוכרם לעובד כוכבים שלא יקח העובד כוכבים השמרים משם כיון שהחבית יש בו טופח על מנת להטפיח וגם בין השמרים עצמם נשאר קצת יין צלול נמצא שאוסר העובד כוכבים את החבית דהא מכניסין בו יין לקיום ויצטרך החבית להגעלה או עירוי על כן צריך שיוציא ישראל את השמרים ועובד כוכבים לא יגע בו ע\"כ נראה דגם כאן אע\"פ דנקטו לישנא דנשתמש העובד כוכבים בה ה\"ה נגע דחד דינא אית להו בכל גווני דהא גבי גת לקמן סימן קל\"ח אסרינן מגע עובד כוכבים אע\"פ דבגמרא לא אמרו אלא זפתה עובד כוכבים אלא דחדא מילת' היא ומסברא פשוטה אמרינן כן כמו שכתב שם ב\"י וה\"נ כן הוא ואין לנו לבדות חילוקים ודינים מלבנו בפרט להקל כנלע\"ד והרב בעל הפרישה לא דק כאן כל הצורך גם מו\"ח ז\"ל חולק עליו בזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 135:9"
+        },
+        "10": {
+          "he": "אלא בכלי חרס. א\"ל הא בכלי חרס אפי' אין מכניסו לקיום אסור כמ\"ש בסעיף ד' תירץ בתה\"א דקא משמע לן דאפילו בחרס דאיכא תרתי לריעותא מועיל עירוי ובפרישה הרבה בתירוצים אחרים ע\"ז ללא צורך:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 135:10"
+        },
+        "11": {
+          "he": "אבל של זכוכית. לפי שהוא חלק מאד ולא בלע כלל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 135:11"
+        },
+        "12": {
+          "he": "נודות כו'. בטור כתוב י\"א שחשובין מכניסין לקיום כו' נראה ביאור דבריו שדרך העולם להחזיק פעמים איזה ימים יין בנוד וע\"כ י\"א שהוי כמכניסו לקיום וחולק הטור עליהם וס\"ל דלא הוי מכניסו לקיום אלא במידי דעשוי לכך מתחלה משא\"כ במידי דאינו עשוי לכך רק שדרך מקרה מכניסין בו לקיום לא גזרו בו לפי שעה אם משתמש בו העובד כוכבים ביין ועל זה מביא הטור מתשובת הרא\"ש בנודות שמחזיקין אותם להוליך יין מגת לחבית והתירן הרא\"ש בהדחה ולא חשש שמא אירע מילתא והחזיק בו יין איזה ימים ומביא ראיה ממעשים בכל יום בכלי חרס דסגי בהדחה פירוש דמעשה בכל יום שהעובד כוכבים שותה יין בבית ישראל בכלי חרס של ישראל ומדיחין אותו אחר כך ולא אמרינן כיון שדרך לפעמים להחזיק בהם יין איזה ימים דהוה מכניסו לקיום ולא סגי בהדחה אלא כדפרישית שלא גזרו בזה. ובזה מתורץ מה שהקשה ב\"י על הטור אבל תמה אני על מה שהתיר הרא\"ש הנודות שמוליכין בהם מגת לחבית בהדחה שהרי כלי גת הם כמו מחץ ומשפך בסי' קל\"ח וצריך ניגוב כמ\"ש שם ע\"כ נראה דלא נתכוין הרא\"ש באלו נודות רק שא\"צ עירוי כמכניסין לקיום ועל זה מביא ראיה מכלי חרס כל השנה דאין צריך רק הדחה ה\"ה בזה אבל ניגוב מכל מקום צריך עם הדחה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 135:12"
+        },
+        "13": {
+          "he": "כלי שמכניסין בו יין לעמוד בו ג' ימים כו'. פי' שמתחלה ייחדו לכך כדפרישית בסמוך לפני זה אבל לא דרך מקרה שהיה שם יין ג' ימים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 135:13"
+        },
+        "14": {
+          "he": "צריך להדיחו ג' פעמים. כן פירש ר\"ת מה שאמרו בגמרא כסי בפעם ראשון ושני אסור דקאי על ההדחה שלא הדיחו רק ב' פעמים ואם כן בדיעבד אסור אי לא הדיחו ג' פעמים כיון דנקט בגמ' לשון אסור ואף החולקים על ר\"ת בפירוש הפשט מודים לו לדינא כמו שהביא ב\"י אלא דאפשר דוקא לכתחלה אסורים אבל דיעבד אפשר דמותר אפי' בלא הדחה כלל ביבש כמו שנזכיר בסי' קל\"ז בסעיף א' וגם לפי' ר\"ת אפשר דלשון אסור בגמרא היינו דוקא לכתחלה וע\"ל סי' קל\"ז ומלשון רמ\"א כאן משמע אם לא הדיח כלל דאסור אפי' דיעבד ולא מצינו כאן איסור בדיעבד לפי דעת רמ\"א אלא אס החזיק יין כשר בכלי של איסור מעת לעת כמ\"ש סי' קל\"ז כיון שאין מכניסו לקיום וגם אין ס' ביין כשר נגד הטיחה של יין האיסור שעל פני הכלי שלא הודח עדיין ובדרך זה כתב גם רמ\"א בסמוך ויש מקילין בדיעבד דמשמע דבלא הדחה כלל אסור בדיעבד היינו בדרך שזכרתי ומכל מקום נראה לי דאין לאסור בדיעבד וכמו שכתבתי בסי' קל\"ז סעיף א':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 135:14"
+        },
+        "15": {
+          "he": "לא עלו לו אותן המים. זה דברי הרא\"ש והטור סיים על זה וצריך שלשה פעמים חוץ מאלו משמע דלא מהני אפי' אם ירצה לצרף מים אחרים עם זה השיעור שהיו מים אלו לא מהני והב\"י הביא תשובת רשב\"א שכתב ולא עוד אלא אפי' מילא יום אחד שש שעות ויום שני מילאום שש שעות מים חדשים וכן בפיזור עד תשלום שיעור שלשה ימים מותר עכ\"ל. וכתב ב\"י ליישב דברי הרא\"ש עם הרשב\"א דהרא\"ש לא בא למעט אלא שלא נחשוב אותו ליום שלם אע\"פ שלא נחסר ממנו רק שעה אחת וכן נראה לי עיקר דהא מייתי ראייה ממקוה חסר קורטוב ואם היתה כוונת הרא\"ש שלא לצרף כלל אותו השיעור אין לו ראייה ממקוה וזו היא הראייה עצמה שהביא גם הרשב\"א על הדין דפחות משעה אחת לא מהני ולשון הטור הוא חולק עם הרשב\"א וכתב הב\"י דנקטינן להלכה כרשב\"א ובש\"ע לא זכר מזה דרשב\"א משמע שפוסק להחמיר כהטור ונראה לע\"ד דבדיעבד אם עשה ההכשר כהרשב\"א ונשתמש בו אחר כך בהיתר לא אסרינן ליה דבאמת איני יודע טעם לחומרא זו של הטור דאם נאמר שההפסקה שהפסיק בעירוי של יום אחד גורמת שחזר הלחלוחית שהתחיל לצאת ונתבלע לתוכו ע\"כ צריך שיהא מלוחלח כ\"ד שעות אף אנו נאמר מטעם זה דבעינן רצופים כל הג' ימים דהא בגמרא לא מצינו בפירוש היתר במפוזרין ומנא לן להקל אלא פשוט שאין זה סברא כלל דכל שנפלט אפי' מעט מהני לצירוף למה שיפלוט אח\"כ הכי נמי ביום ראשון דאין שום חילוק בפיזור של יום אחד מחבירו ובין פיזור של השעות עצמן של יום אחד וכיון שאנו מתירין מסברא פיזור הימים למה לא נתיר גם פיזור השעות ואפשר שטעם הטור בזה משום מראית עין שהרואה יסבור שזה עולה ליום שלם על כן נראה דבדיעבד פשיטא דמהני לצירוף אבל ביום אחד גופיה שמערה ונותן מים אחרים תיכף פשיטא דזה יותר טוב ואפי' לכתחלה רק שיכוין שיהא קצת יותר מן מעת לעת כדי למלאות אותו הזמן הקצר שבין עירוי מים אלו לנתינת מים אחרים ואולי אפי' זה אין צריך כי כבר הביא הב\"י בשם הרא\"ש בתשובה ואפי' אם לא יוכל לצמצם ברגע אחת לא נתנה תורה למלאכי השרת כו' אלא דאפשר דהתם אנוס הוא במה שא\"א לצמצם משא\"כ כאן דלכתחלה עושה קצת שהייה בין מים למים ע\"כ צריך שישהה אח\"כ קצת יותר מן מע\"ל ואז אין חשש כלל נראה לי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 135:15"
+        },
+        "16": {
+          "he": "אבל קליפת הזפת לא מהני. שהזפת מבליע היין בכלי ומכל מקום כל שעושה מילוי ועירוי א\"צ לקלוף הזפת כ\"כ הטור ועיין מה שכתבתי בסימן צ\"ט ס\"ז במה ששייך לסעיף זה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 135:16"
+        },
+        "17": {
+          "he": "אלא שנרפה שרי. דהא נתחמם החרס יפה והוה כהגעלה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 135:17"
+        },
+        "18": {
+          "he": "ויש מתירים אפי' על ידי עירוי כו'. זה לשון הטור ור\"ת התיר לשפוך בה רותחין ולגלגלה עד שיעברו על פני כולה וכתב א\"א ז\"ל אף לדבריו אין להתיר כה\"ג אלא כשאינו מזופף אבל במזופף לא מהני הגעלה גרועה כזאת ומשמע מדבריו דהגעלה טובה מהני בלא קליפת הזפת ור\"י היה מצריך להגעיל כל נסר לבדו שיכניס כלי לתוך היורה כשהיא רותחת וישפוך על כל נסר כו' עכ\"ל מ\"ש בדעת ר\"ת לשפוך רותחין לכאורה משמע אפי' רותחין דכלי שני קאמר מדנקט סתם רותחין ובדברי ר\"י אמר שיכניס כלי לתוך היורה כו' ואינו כן דבהדיא אית' בתשו' הרא\"ש כלל י\"ט סי' י\"א וז\"ל והחבית התיר ר\"ת שיקח יורה מליאה מים רותחין וישפכם לחבית כו' ואף על פי שאין זה כלי ראשון כיון שאין המים מגיעין בכולם אלא ע\"י גלגול אפ\"ה כיון שהבליעה ע\"י צונן היה מקיל כו' הרי דאף לר\"ת צריך שישפוך מכלי ראשון דוקא ואע\"ג דבגלגול החבית מהני אפי' מנסר אחד להרבה נסרים מכל מקום צריך שיבוא עיקר החמימות לתוך החבית מן כלי ראשון דוקא והא דנקט בדברי ר\"י אחר כך שיכניס כלי לתוך היורה לאו לאפוקי מדברי ר\"ת בזה אתא אלא דקמשמע לן קולא דל\"ת כיון שר\"י מחמיר לשפוך על כל נסר לבד ולא מועיל הגלגול מנסר לנסר א\"כ לא יועיל השפיכה אפי' מאותו כלי עצמו כיון שפסקה הרתיחה מאחר שמעבירה מהאש קמשמע לן דאכתי מיקרי כלי ראשון וכן מבואר להדיא בדברי התוס' הביאם הב\"י ומה שכתב הטור בשם הרא\"ש דבמזופף לא מהני הגעלה גרוע כזאת לא תטעה לומר דוקא כהאי גוונא שהיה ע\"י גלגול אבל אם שופך עלכל נסר לבד מהני אפי' על ידי עירוי מן כלי ראשון בלא קליפת זפת וזהו הגעלה טובה שזכר אח\"כ דהיינו שפיכה על כל החבית לא על ידי גלגול דמהני אפי' בלא קליפה זה אינו דמבואר בתשובת הרא\"ש סי' זה וזה לשונו ומה שהקיל ר\"ת לשפוך כו' היינו דוקא בחבית של עץ שאינו מזופף אבל מזופף בלעי טפי כדאיתא בגמרא אם היו מזופפות אסורין ואחרי כתבי זה נ\"ל מתוך דבריך ששאלת במה יוכשרו אחרי קליפת הזפת זה דבר פשוט דדי להם בשפיכת מים רותחין לתוכה מתוך כלי גדול ולא יצטרך שימלא מים ג' ימים ומה שאמרת שאינן יכולין כי הזפת אינו נדבק יפה אחר המים לזה לא ידעתי תקנה עכ\"ל. הרי לפניך שהצריכו לקלוף הזפת דוקא ואע\"ג דלא ידע לו תקנה ויתקלקל הכלי ולא אמר דישפוך המים מכלי גדול בכל מקום מהחבית באופן שלא יצטרך לגלגול אלא ברור דכל שהוא מזופף אין לו תקנה כלל בשום שפיכה רק צריך להכניסו לכלי ראשון שעל האש וזהו א\"א והגעלה טובה דנקיט הטור היינו סתם הגעלה דבכל דוכתי שמכניס הנגעל לתוך היורה היכא שאפשר להכניסו שם ושם לא צריכין להסיר הזפת וכן משמע מפי' הב\"י שכתב הגעלה טובה כלומר מכלי ראשון מהני בלא קליפת זפת ופשוט הוא עכ\"ל ולא תטעה במה שכתב ב\"י מכלי ראשון היינו דרך עירוי מכלי ראשון דעל זה לא היה כותב שהוא פשוט שהרי כמעט רוב הפוסקים סברי להו דעירוי לא מהני כלל אלא צריך שיכניסנו לתוך היורה וכמ\"ש כאן הש\"ע ניתרים בהגעלה בכלי ראשון אלא הב\"י נתכוין שההגעלה באה מכלי ראשון שהכניסו לתוכו וזה הלשון כתב רשב\"א בת\"ה הקצר הביאו ב\"י סי' קל\"ח דבור המתחיל כתב הרשב\"א שכלי הגת כו' וזה לשונו ויש מגדולי המורים שהורו שאין כלי הגת נכשרים אלא מכלי ראשון כו' והתם קאי שיכניסנו לכלי ראשון ע\"כ. כתבתי כל זה לפי שראיתי בפרישה שכתב שלדעת ר\"ת אין צריכין שיערה מכלי ראשון לחבית וכבר הוכחתי שאינו כן ועוד כתב שבהגעלה טובה דנקיט הטור היינו שישפוך על כל נסר בלי גלגול וזה מותר אפי' במזופף לישנא דטור בשם הרא\"ש אטעיתיה שכתב הגעלה גרועה כזאת הוא סבר דכזאת דוקא הוא ובאמת בתשובת הרא\"ש כלל י\"ט סי' ח' לא כתב האי תיבת כזאת אלא סתם לא מהני הגעלה גרועה וכבר הוכחנו דבמזופף לא מהני שום דבר רק קליפת הזפת ולהכשירו אח\"כ אם אי אפשר שיכניסנו לכלי ראשון ואי לא עביד הכי אפילו דיעבד אסור ובזה תבין דברי רמ\"א שכתב להתיר ע\"י עירוי שמגלגלין כו' בפרטי הדינים שזכרנו בסיעתא דשמיא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 135:18"
+        },
+        "19": {
+          "he": "אבנים קטנים מלובנים תוך החבית או גדולים וניתנין על כו'. כצ\"ל ומ\"ש אח\"כ ושופך עליהם רותחין נראה דוקא מכלי ראשון דכל מה שאפשר לקרב לנו לעיקר הדין כן עבדינן לכתחלה במס' עבודת כוכבים (דף ל\"ד) כתבו התוספות דאין שום כלי שלא יהא ניתר בעירוי והקשה ב\"י בסי' זה דהא אמרי' בגמ' שם גולפי בתר י\"ב חודש שריין וגולפי הוא כלי ולא סגי בעירוי ולא קשה מידי דאדרבה קשה ל\"ל בגולפי דהיינו חביות י\"ב חודש הא אמרינן בברייתא דקנקנים סגי בעירוי. אלא ברור הוא דלא בעי שם בגמרא למעט גולפי מתקנת עירוי אלא בא לומר אם לא עשה עירוי ושהה י\"ב חודש שרי גם כן וכ\"כ הרמב\"ם פרק י\"א דהלכות מאכלות אסורות דקנקנים של העובדי כוכבים מותר בישן י\"ב חודש ובעירוי ולא הוצרך למנקט כלל עירוי שהוא שנוי כבר משא\"כ אבטי דטייעא שם לא נזכר בשום מקום שיהא דינו בעירוי א\"כ הא דנקט בגמרא דשרי אחר י\"ב חודש היינו דוקא ולא סגי בעירוי ע\"כ אין לפרש כפר\"ת):",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 135:19"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "דינם ככ\"מ. ודוקא לענין יי\"נ דתשמישו בצונן אבל לענין חמץ בפסח ושאר איסורים אפילו לבנים ושחורים דינם ככלי חרס כדאיתא בא\"ח סימן תנ\"א הגהת פרישה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 135:1"
+        },
+        "2": {
+          "he": "מכדי קליפה. עבה\"ט בשם ש\"ך ועיין בתשובת נו\"ב תניינא חיו\"ד סוף סימן נ\"ח שכתב דדברי הש\"ך בס\"ק י\"ג (הובא בבה\"ט סק\"ז) הם עיקר לדינא דאפילו אם עמד מעל\"ע מהני עירוי ע\"ש ועי' בזה בתשובת תפארת צבי חלק או\"ת סימן ה' אות ח':",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 135:2"
+        },
+        "3": {
+          "he": "י\"ב חודש. עיין בתשובת ברית אברהם חי\"ד סי' ח' אות ה' שהביאו תוספות בנדה דף ס\"ה ע\"ב ד\"ה היינו דהנך חדשים הם חדשי לבנה כל חודש כ\"ט יום ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 135:3"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "כלים.  כתבו הט\"ז וש\"ך שבסי' זה לא נכללו כלי הגת שהם חמירי טפי אע\"פ שאין מכניסין בהם יין לקיום לפי שמשתמשין בהם יין בשפע כדלקמן סי' קל\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:1"
+        },
+        "2": {
+          "he": "דרכן.  וכ' הטור דאם אין דרכן לתת בהם יין בשעת הזפיתה ומראיתם צהוב. ניכר שלא נשתמש בהם אחר הזפיתה דאם היה נותן בהם יין היה ניכר:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:2"
+        },
+        "3": {
+          "he": "שלנו.  פי' הט\"ז שיש חילוק בין זפותים לאינם זפותים וטופח פי' ע\"מ להטפיח כ\"כ רש\"ל ובלא\"ה אין בו כח לאסור וכמ\"ש סי' קכ\"ג סי\"ז לענין החרצנים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:3"
+        },
+        "4": {
+          "he": "להקל.  כ' הש\"ך ומותר בשתיה והיינו לדין הש\"ס א\"נ מיירי כשאין ס' אבל יש ס' פשיטא דבכל ענין שרי לדידן דקי\"ל סתס יינם בס' ומסתמא יש ס' כנגד קליפת הכלי שלא נאסר אלא כדי קליפה וכדלקמן סי' קל\"ז וכל זה בכלים של עץ וכו' לאפוקי של עור שהן רכים והזפת מבליע בהן היין לכ\"ע צריך עירוי:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:4"
+        },
+        "5": {
+          "he": "משפך.  וסגי ליה בהדחה בכלי עצמו או ניגוב אם הוא כלי שצריך ניגוב. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:5"
+        },
+        "6": {
+          "he": "זפותין.  אפילו אין מכניסו לקיום ואע\"ג דלענין הגעלה קי\"ל דאין כלי חרס יוצא מידי דפיו לעולם כדלעיל סי' קכ\"א שאני הכא גבי הכשירו מיין נסך שתשמישו על ידי צונן עירוי המים מקלישין טעם היין עכ\"ל הלבוש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:6"
+        },
+        "7": {
+          "he": "נשתמש.  כ' הש\"ך ודוקא כשלא היה בו יין נסך מע\"ל אבל היה בו יין נסך מעל\"ע אין חילוק בין שבעו ללא שבעו כדלעיל סי' צ\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:7"
+        },
+        "8": {
+          "he": "עירוי.  כ' הש\"ך קשה הא מתחלה כ' דמפעם ב' ואילך שבעו ונ\"ל דס\"ל דדוקא ביין שבעו מב' פעמים ולא במים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:8"
+        },
+        "9": {
+          "he": "גדולה.  כב\"י דדוקא באין מכניסו לקיום אבל במכניסו לקיום אפילו לא נתן בהם העובד כוכבים יין אלא לפי שעה צריך עירוי אבל הב\"ח כ' דבכלי חרס אפילו במכניסו לקיום היכא דכבר שבע לבלוע ביד ישראל א\"צ עירוי כשנשתמש בו עובד כוכבים אח\"כ אלא סגי ליה בשכשוך וכל זמן שאינו שבע לבלוע ביד ישראל אפילו לא נשתמש בו העובד כוכבים אלא לפי שעה נמי צריך עירוי:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:9"
+        },
+        "10": {
+          "he": "ובדיעבד.  והרש\"ל כתב דאפילו לכתחלה נוהגין להתיר לשתות בו ול\"ד לכלי עץ דבס\"א דכלי חרס הואיל ושבעים כבר לא בלעי והט\"ז פוסק כהרמ\"א דדוקא דיעבד ודלא כמהרש\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:10"
+        },
+        "11": {
+          "he": "אלו\"ם.  והרמב\"ם כ' שהוא הנקרא טפל בל' ערבי וע\"ל סי' קצ\"ט ס\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:11"
+        },
+        "12": {
+          "he": "המצופים.  כתב הט\"ז דצריך ליזהר בהנהו כדים של חרס שפיהם קצר מלמעלה ומיוחדים ליין על הרוב שאין לשתות בהן יין של היתר אם הם של עובד כוכבים דתחלה נשתמש בו עובד כוכבים ביין ולא מועיל הדחה אבל באותן שממלאים בה גם מים הוי ספק דרבנן שמא נשתמש בו תחלה במים ומותרים בהדחה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:12"
+        },
+        "13": {
+          "he": "ונשתמש.  כתב בפרישה דדוקא כשנשתמש בהן אבל אם נגע בשעת טפיחה לא נאסר והט\"ז חולק עליו מכמה ראיות שהביא ופסק דאוסר בנגיעה ג\"כ ועפ\"ז אסור במי שמכר יינו ונשאר החביות ריקם רק שמרים נשארו בו ומוכרם לעובד כוכבים שלא יקח העובד כוכבים השמרים משם כיון שהחבית יש בו טופח ע\"מ להטפיח וגם בין השמרים עצמם נשאר קצת יין צלול נמצא שאוסר העובד כוכבים את החבית דהא מכניסין בו יין לקיום ויצטרך החבית להגעלה או עירוי ע\"כ צריך שיוציא ישראל את השמרים ועובד כוכבים לא יגע בו וע\"כ נראה דגם כאן אע\"ג דנקטו לישנא דנשתמש ה\"ה נגע דחד דינא אית להו עכ\"ל (ובנה\"כ מסכים לדעת הפרישה בכאן מטעם כיון דאינו מזופף לא גזרו בנגיעה כולי האי להחמיר להצריכו עירוי ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:13"
+        },
+        "14": {
+          "he": "חרס.  כתב הט\"ז א\"ל הא בכלי חרס אפילו אין מכניסו לקיום אסור כמ\"ש בס\"ד תירץ בתה\"ה דקמ\"ל דאפילו בחרס דאיכא תרתי לריעותא מועיל עירוי:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:14"
+        },
+        "15": {
+          "he": "זכוכית.  לפי שהוא חלק מאד ולא בלע כלל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:15"
+        },
+        "16": {
+          "he": "שמכניסין.  פי' שמתחלה ייחדו לכך אבל לא דרך מקרה שהיה בו יין ג' ימים. ט\"ז. והש\"ך כ' באם ידוע שעמד בהן יין ג' ימים לא מהני ליה עירוי דה\"ל כבוש כמבושל ובלבוש משמע דאפילו ידוע שעמד בו יין ג\"י זה אחר זה סגי בעירוי:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:16"
+        },
+        "17": {
+          "he": "עור.  וה\"ה כל הכלים. כן משמע ברשב\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:17"
+        },
+        "18": {
+          "he": "מעת לעת.  כב\"י בשם תשובת הרא\"ש ואם לא יוכל לצמצם ישהה המים בתוכו יותר מכ\"ד שעות. עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:18"
+        },
+        "19": {
+          "he": "אוסרים.  כ' הש\"ך נראה דוקא מים גרידא מחמירים לכתחלה אבל משקה אחר כגון שכר ודבש וכה\"ג שרי ואף במים משמע במרדכי דאינם אסורים אלא כשנתנן בכלי להכשירו דכיון שעושה כן לכתחלה אם היה שותת המים היה עובר על אין מבטלין איסור לכתחלה וה\"ה דלכתחלה אין לשומן בתבשיל אבל אם אירע במקרה שנתנו מים בכלי ועמדו שם זמן רב מותרים ולפ\"ז שכר וכה\"ג בלא\"ה שרי דאין מכשירין בשכר ובזה מיושב דלקמן סי' קל\"ז ס\"ד כ' הרב דמותר לתת בהם מים ושאר משקים וכאן כ' דיש אוסרין המים אלא ודאי יש לחלק בין אם נותן שם להכשיר הכלים או לא:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:19"
+        },
+        "20": {
+          "he": "רצופין.  ואפילו לכתחלה יכול לעשות ג' ימים מפוזרין. טור ורשב\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:20"
+        },
+        "21": {
+          "he": "עלו.  בב\"י כ' בשם תשובת הרשב\"א דגם אותו יום עלה לו אלא שמשלים ביום שלאחריו אותן שעות שחסרו אבל כל הפוסקים אחרונים חלקו על זה וסבירא להו דאותו היום לא עלה לו כלל והכי נקטינן לחומרא והט\"ז כ' דבדיעבד אם עשה ההכשר כהרשב\"א ונשתמש בו אח\"כ בהיתר לא אסרינן ליה דבאמת איני יודע טעם לחומרא זו עכ\"ל (ובנה\"כ כ' דהטעם כשוט הוא דכבוש לא הוי במעל\"ע בסירוג ומטעם זה לא בעינן ג' מעל\"ע רצופים אלא ג' פליטות זה אחר זה מיהו בלא\"ה מותר בדיעבד ולאו דוקא הכא אלא בכל כלי היין שנשתמשו בהן בדיעבד בלי הכשר כלל משום דמסתמא איכא ס' נגד הקליפה ושרי לדידן כדלקמן סי' קל\"ז עכ\"ל):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:21"
+        },
+        "22": {
+          "he": "שליש.  והש\"ך כ' בנה\"כ שט\"ס הוא וצ\"ל ב' שלישים מלח ושליש מים וכן איתא בש\"ס שבת דף ק\"ח ע\"ב וכ\"כ המחבר בא\"ח סי' שכ\"א ס\"ב עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:22"
+        },
+        "23": {
+          "he": "קליפה.  ב' הש\"ך נראה דהיינו מסתמא שאינו ידוע אם נכבש היין בתוכו יום שלם אבל אם ידוע שהיה יי\"נ בתוכו יום שלם ה\"ל כבוש וכבישה אוסר כל הכלי ונראה עוד דבכל הסי' ובכל מקום דאמרינן בכלי היין נכשרים במילוי ועירוי וכה\"ג היינו מסתמא אבל אם ידוע שעמד בו יי\"נ יום שלם פשיטא דצריך הגעלה גמורה כל חד לפי דינו כאלו משתמש בו חמין דהא קי\"ל כבוש הוי כמבושל ובכלי חרס לא מהני הגעלה וצריך שבירה מיהו עדיין צ\"ע שאפשר לומר שאפילו ידוע שעמד בו מע\"ל מ\"מ כיון דלא נאסר אלא על ידי צונן אמרינן ביה כבכ\"פ ומהני ליה מילוי ועירוי ומ\"מ נראה דשאר איסורים שנבלעו בצונן ע\"י כבישה לא מהני הכשר מילוי ועירוי ולא אמרו כן אלא ביין שהמים מקלישין טעם היין משא\"כ שאר איסורים ומ\"ש בא\"ח סי' תנ\"א סכ\"א דחבית של חרס שנתנו בו שכר שעורים מותר בהגעלה או בעירוי ג' ימים אפשר דלא הקילו אלא כשאינו ב\"י דתו ליכא איסורא דאורייתא אבל בבן יומו לא מהני עירוי ובכלי יין לא שייך לפלוגי בין ב\"י לאינו ב\"י כדלקמן סי' קל\"ז גם י\"ל דבחמץ יש להקל טפי בהגעלה משום דהיתרא בלע וכ' עוד ואם ירצה לעשות עירוי ביין אינו כלום מיהו היינו דוקא מדינא דיין ביין אוסר בכל שהו א\"נ לדידן וכשאין ס' ביין גנד קליפת הכלי א\"נ יש ס' ואפ\"ה לכתחלה אסור ליתן בו יין אבל אם יש ביין ס' ואח\"כ נתנו בכלי יין פעם אחרת היין מותר בדיעבד שכבר נתבטל טעם הכלי ביין הראשון עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:23"
+        },
+        "24": {
+          "he": "הזפת.  ומ\"מ כל שעושה מילוי ועירוי א\"צ לקלוף הזפת כ\"כ הטור וע\"ל בסי' צ\"ט ס\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:24"
+        },
+        "25": {
+          "he": "רותחים.  כ' הט\"ז נראה דוקא מכלי ראשון ובמזופף לא מהני שום דבר רק קליפת הזפת ולהכשירו אחר כך אם א\"א שיכניסנו לכלי ראשון ואי לא עביד הכי אפילו דיעבד אסור ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:25"
+        },
+        "26": {
+          "he": "מים.  ואפילו יין וגם אין צריך להתיר הקשרים. הרשב\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 135:26"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

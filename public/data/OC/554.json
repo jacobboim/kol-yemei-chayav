@@ -1,0 +1,1278 @@
+{
+  "chelek": "OC",
+  "siman": 554,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 25,
+  "fetchedAt": "2026-07-07T23:49:32.811Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דברים האסורים בתשעה באב. ובו כה סעיפים:תשעה באב אסור ברחיצה וסיכה ונעילת הסנדל ותשמיש המיטה ואסור לקרות בתורה נביאים וכתובים ולשנות במשנה ובמדרש ובגמ' בהלכות ובאגדות משום שנאמר פקודי ה' ישרים משמחי לב ותינוקות של בית רבן בטלים בו אבל קורא הוא באיוב ובדברים הרעים שבירמיה ואם יש ביניהם פסוקי נחמה צריך לדלגם:",
+      "en": "Tisha b'Av is forbidden for washing, anointing, wearing leather shoes, and marital relations. It is also forbidden to read from the Torah, Nevi'im, and Ksuvim and to learn mishna and midrash and gemara and halacha and aggada, because it says, \"The precepts of God are right, gladdening the heart\" (Tehillim 19:9). Schoolchildren are idle on it. One may read Iyov and the bad things which are in Yirmiyah, but if there are between them passages of consolation, one must skip them.",
+      "ref": "Shulchan Arukh, Orach Chayim 554:1"
+    },
+    {
+      "seif": 2,
+      "he": "ומותר ללמוד מדרש איכה ופרק אלו מגלחין וכן ללמוד פירוש איכה ופירוש איוב:",
+      "en": "It is permitted to learn the exegesis of Eichah and Perek Ein Megalchin (third and final perek of Moed Katan). Likewise, one may learn the interpretations of Eichah and Iyov.",
+      "ref": "Shulchan Arukh, Orach Chayim 554:2"
+    },
+    {
+      "seif": 3,
+      "he": "יש מי שאוסר ללמוד ע\"י הרהור:",
+      "en": "There are those who prohibit learning by thought (and not out loud).",
+      "ref": "Shulchan Arukh, Orach Chayim 554:3"
+    },
+    {
+      "seif": 4,
+      "he": "ומותר לקרות כל סדר היום ופרשת הקרבנות ומשנת איזהו מקומן ומדרש רבי ישמעאל: הגה ומותר לחזור הפרשה בתשעה באב: (מנהגים)",
+      "en": "It is permitted to read the entire Order of the Day (of prayers) - the paragraphs of the Sacrifices, the Mishnah (Chapter) of Eizu Mekoman, and the teaching of Rabbi Yishmael. Rema: It is permitted to review the Torah reading (of Tisha B'av) on Tisha B'av.",
+      "ref": "Shulchan Arukh, Orach Chayim 554:4"
+    },
+    {
+      "seif": 5,
+      "he": "עוברות ומניקות מתענות בט' באב ומשלימות כדרך שמתענות ומשלימות ביום כפור אבל בג' צומות אחרים פטורו' מלהתענו' ואעפ\"י כן ראוי שלא תאכלנה להתענג במאכל ובמשתה אלא כדי קיום הולד (וע\"ל סימן תק\"ן סעיף א'):",
+      "en": "Pregnant and nursing women fast on the 9th of Av just as they fast and complete the fast on Yom Kippur. On the other 3 fasts they are exempt from fasting, nevertheless it is proper that eating and drinking should be solely for the purpose of sustaining the baby, instead of deriving enjoyment from the food and drink.  (Also see prior in Siman 550, Paragraph 1)",
+      "ref": "Shulchan Arukh, Orach Chayim 554:5"
+    },
+    {
+      "seif": 6,
+      "he": "חיה כל שלשים יום וכן חולה שהוא צריך לאכול אין צריך אומד אלא מאכילין אותו מיד דבמקום חולי לא גזרו רבנן: הגה ומיהו נוהגין להתענות כל זמן שאין להם צער גדול שהיה לחוש לסכנה והמקיל לא הפסיד:",
+      "en": "A chayah (=a new mother) all 30 days (after delivery) and a sick person that needs to eat, it is not necessary to assess; rather, we feed to them immediately because in a place of sickness, the Rabbis did not decree. Rema: However, we are accustomed to fast the whole time that there is not a great pain which would cause to worry for danger; however, a lenient approach doesn't lose.",
+      "ref": "Shulchan Arukh, Orach Chayim 554:6"
+    },
+    {
+      "seif": 7,
+      "he": "רחיצה אסורה בט' באב בין בחמין בין בצונן אפי' להושיט אצבעו במים אסור:",
+      "en": "Washing is forbidden on Tisha B'av whether with warm or cold (water) even to dip one's fingers into water is forbidden.",
+      "ref": "Shulchan Arukh, Orach Chayim 554:7"
+    },
+    {
+      "seif": 8,
+      "he": "טבילה של מצוה בזמנה מותרת אבל בזמן הזה אין טבילה בזמנה הילכך לא תטבול בו וכן נהגו:",
+      "en": "Mitzvah immersions in their proper time are allowed, but today we do not immerse in the proper time; therefore, one should not immerse on it (Tisha B'av) and so the is the custom.",
+      "ref": "Shulchan Arukh, Orach Chayim 554:8"
+    },
+    {
+      "seif": 9,
+      "he": "אם היו ידיו מלוכלכו' בטיט ובצואה מותר לרחוץ להעביר הלכלוך ולא יטול כל ידיו אלא לפי הצורך להעביר הלכלוך: הגה ואם עשה צרכיו אם מותר לרחוץ דינו כמו ביום כפור וע\"ל סימן תרי\"ג ס\"ג:",
+      "en": "If one's hand are dirty with dirt or excrement, it is allowed to wash to get off the dirt, yet he should not wash his whole hand rather according to the need to get off the dirt. Rema: If one does their bodily needs (i.e. goes to the bathroom) if it is allowed to wash, the law is like Yom Kippur and further see Siman 613 Paragraph 3.",
+      "ref": "Shulchan Arukh, Orach Chayim 554:9"
+    },
+    {
+      "seif": 10,
+      "he": "נוטל אדם ידיו שחרית וצריך ליזהר שלא יטול ידיו אלא עד סוף קשרי אצבעותיו:",
+      "en": "A person who pours (the water) on his hands in the morning (for the ritual hand-washing) needs to to be careful that he not pour on his hand except to the end of the joints of the fingers.",
+      "ref": "Shulchan Arukh, Orach Chayim 554:10"
+    },
+    {
+      "seif": 11,
+      "he": "ולאחר שניגב ידיו ועדיין לחות קצת מעבירם על עיניו ואם היה לפלוף על גבי עיניו ודרכו לרחצם במים רוחץ ומעבירו ואינו חושש דהוה ליה כטיט וכצואה שרוחץ כדרכו ואינו חושש:",
+      "en": "And after he dries his hands, and they are still a little moist, he can pass them on his eyes (to clean) if there is pus on his eyes and his normal matters to wash them with water and pass over. And he doesn't have to be concerned because that it is like dirt and excrement that he washes normally and there is no concern.",
+      "ref": "Shulchan Arukh, Orach Chayim 554:11"
+    },
+    {
+      "seif": 12,
+      "he": "ההולך להקביל פני רבו או אביו או מי שגדול ממנו או לצרכי מצוה עובר במים עד צוארו ואינו חושש וכן בחזרה מותר:",
+      "en": "One who is going to visit his teacher, father, or one who is bigger (in Torah knowledge) than him, or for a Mitzvah need, can cross in water until his neck and he has no concern. And same on the return, it is allowed.",
+      "ref": "Shulchan Arukh, Orach Chayim 554:12"
+    },
+    {
+      "seif": 13,
+      "he": "ההולך לשמור פירותיו עובר במים עד צוארו ואינו חושש אבל בחזרה אסור:",
+      "en": "One who is going to guard his fruits, can cross in water until his neck and he has no concern. But on the return, it is forbidden.",
+      "ref": "Shulchan Arukh, Orach Chayim 554:13"
+    },
+    {
+      "seif": 14,
+      "he": "הבא מן הדרך ורגליו כהות מותר לרחוץ במים: הגה ומותר לשרות מפה במים בערב תשעה באב ומוציאה מן המים והיא מתנגבת ומקנח בה פניו ורגליו אפי' אינו עושה רק לתענוג שרי כיון שהיא נגובה: (טור)",
+      "en": "One who returns from the road and his feet are  darkened, it is allowed to wash them with water. Rema: It is permitted to soak a cloth in water on the eve of Tisha B'av and take out from the water and let dry. And (on Tisha B'av) wipe with it one's face and feet even if one does only for pleasure it is fine since it is (Halachically) dry [Tur].",
+      "ref": "Shulchan Arukh, Orach Chayim 554:14"
+    },
+    {
+      "seif": 15,
+      "he": "סיכה אינה אסורה אלא של תענוג אבל מי שיש לו חטטין בראשו סך כדרכו ואינו חושש:",
+      "en": "Anointing is not forbidden except for pleasure but one who has scabs on their head can normally anoint and he has no concern.",
+      "ref": "Shulchan Arukh, Orach Chayim 554:15"
+    },
+    {
+      "seif": 16,
+      "he": "נעילת הסנדל דוקא של עור אבל של בגד או של עץ או של שעם (פי' קליפי עץ) וגמי מותר ושל עץ מחופה עור אסור:",
+      "en": "(The prohibition of) wearing shoes is specifically by leather but of garment or wood or cork explanation - word pieces or silk is allowed. Of wood covered by leather is forbidden.",
+      "ref": "Shulchan Arukh, Orach Chayim 554:16"
+    },
+    {
+      "seif": 17,
+      "he": "אבל ומנודה שמהלכים בדרך מותרים בנעילת הסנדל וכשיגיעו לעיר יחלוצו וכן בט' באב: הגה וכן במקום שדרים בין העכו\"ם לא יחלוץ כי אם ברחוב היהודים וכן נהגו (טור והגהות מיימוני הגהות מרדכי רפ\"ק):",
+      "en": "A mourner or an excommunicant that is going on the road is allowed to wear shoes and when he reaches the city, he takes them off. And so too on Tisha B'av. Rema: And same in a place that we dwell amongst Gentiles, he does not take off unless on a Jewish street, and so is the custom. [Tur and Haagos Maimoni, Haagos Mordechai beginning of the first Chapter].",
+      "ref": "Shulchan Arukh, Orach Chayim 554:17"
+    },
+    {
+      "seif": 18,
+      "he": "יש מי שאומר שלא יישן בליל תשעה באב עם אשתו במטה ונכון הדבר משום לך לך אמרינן נזירא:",
+      "en": "There is one who says not to sleep on the night of Tisha B'av with his wife in (the same) bed. And the matter is fitting to do because \"go go\" (i.e. away from the orchard of grapes) that we say to a Nazir (who is forbidden in eating grape products).",
+      "ref": "Shulchan Arukh, Orach Chayim 554:18"
+    },
+    {
+      "seif": 19,
+      "he": "אם חל ט\"ב בשבת מותר בכלן אפי' בתשמיש המטה: הגה ויש אוסרים בתשמיש המטה וכן נוהגין: (טור בשם ר\"י ואגור ומנהגים):",
+      "en": "If Tisha B'av falls out on Shabbos, it is permitted in all (i.e. all acts with his wife) even marital relations are allowed.  Rema: There are those that forbid marital relations, and so we are accustomed [Tur in the name of the Ri, Agur, and Minhagim.]",
+      "ref": "Shulchan Arukh, Orach Chayim 554:19"
+    },
+    {
+      "seif": 20,
+      "he": "אין שאלת שלום לחבירו בתשעה באב והדיוטות שאינם יודעים ונותנים שלום משיבים להם בשפה רפה ובכובד ראש:",
+      "en": "He should not greet \"Shalom\" to his friend on Tisha B'av. And fools that do not know and give \"Shalom\", we respond to them in a quiet tone and with solemnity.",
+      "ref": "Shulchan Arukh, Orach Chayim 554:20"
+    },
+    {
+      "seif": 21,
+      "he": "יש מי שאומר שלא ילך ויטייל בשוק כדי שלא יבא לידי שחוק וקלות והתול:",
+      "en": "There is one who says not to go and leisurely walk in the market (on Tisha B'av) in order not to come to laughter, irreverence, and mockery.",
+      "ref": "Shulchan Arukh, Orach Chayim 554:21"
+    },
+    {
+      "seif": 22,
+      "he": "מקום שנהגו לעשות מלאכה בט\"ב עושין במקום שנהגו שלא לעשות אין עושין ובכל מקום ת\"ח בטלים וכל הרוצ' לעשות עצמו תלמיד חכם לענין זה עושין ואפי' במקום שנהגו שלא לעשות מותר ע\"י עכו\"ם אפי' בביתו ופרקמטיא להרויח ולהשתכר במקום שנהגו שלא לעשות מלאכה אסור ובמקום שנהגו לעשות מותר אלא שממעט שאפי' משנכנס אב אנו ממעטין מלישא וליתן: הגה ולא נהגו באיסור מלאכה כי אם עד חצות (מנהגים) ונהגו להחמיר עד חצות בכל מלאכה שיש בה שיהוי קצת אפילו מעשה הדיוט אבל דבר שאין בה שיהוי כגון הדלקת נרות או קשירה וכדומה מותרת ולחלוב הפרות טוב לעשות ע\"י עכו\"ם אם אפשר בעכו\"ם:",
+      "en": "A place that is accustomed to do work on Tisha B'av, one can do. A place that is accustomed that they do not do work on Tisha B'av, one should not do. In all places, Talmud Chachim (Torah Sages) are idle (i.e. from work), and all who want to make themselves a Talmud Chacham regarding this matter, one can do. Even in a place that is accustomed not to do work, it is allowed via a Gentile even in his (the Jew's) house. (Regarding) doing business for profit or to get wages (i.e. as opposed to for preventing loss etc.), in a place that is accustomed not to do work, it is forbidden. In a place that is accustomed to do work, it is permitted. However, that it should be minimized, as even upon the entry of (the month of) Av, we reduce transactions. Rema: It is not the custom in forbidding work except until Halachic Noon [Minhagim]. It is the custom to be strict until Halachic Noon in all work that there is some delay even a non-professional act. But something that does not have delay like lighting a candle, tying (a knot) and similar are permissible. Milking cows, it is good to do via a Gentile if possible with a Gentile.",
+      "ref": "Shulchan Arukh, Orach Chayim 554:22"
+    },
+    {
+      "seif": 23,
+      "he": "ומלאכת דבר האבד מותר כדרך שאמרו בחולו של מועד:",
+      "en": "Work that is a matter of loss (Davar Haavid) is permitted like the way that it is said by Chol HaMoed.",
+      "ref": "Shulchan Arukh, Orach Chayim 554:23"
+    },
+    {
+      "seif": 24,
+      "he": "כל העוש' מלאכ' בתשעה באב אינו רואה סימן ברכה מאותה מלאכה:",
+      "en": "All that do work on Tisha B'av, one will not see a sign of blessing from that work.",
+      "ref": "Shulchan Arukh, Orach Chayim 554:24"
+    },
+    {
+      "seif": 25,
+      "he": "כל האוכל ושות' בתשעה באב אינו רואה בשמחת ירושלים וכל המתאבל על ירושלים זוכה ורואה בשמחתה וכל האוכל בשר או שותה יין בסעודה המפסקת עליו הכתוב אומר ותהי עונותם על עצמותם:",
+      "en": "All that eat and drink on Tisha B'av, will not see the joy of Jerusalem. And all that mourn on Jerusalem, will merit and see it in her joy. And that eat meat and drink at the Parting Meal, on him the verse says their iniquities are on their bones (Ezekiel 32:27).",
+      "ref": "Shulchan Arukh, Orach Chayim 554:25"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא תענית ל'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:1"
+        },
+        "2": {
+          "he": "כר\"י שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:2"
+        },
+        "3": {
+          "he": "הגהות מיימוני החדשות בשם הכל בו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:3"
+        },
+        "4": {
+          "he": "תשו' מהרי\"ל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:4"
+        },
+        "5": {
+          "he": "אגור בשם מהר\"י מולן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:5"
+        },
+        "6": {
+          "he": "טור בשם הרמב\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:6"
+        },
+        "7": {
+          "he": "מימרא דרבא פסחים כ\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:7"
+        },
+        "8": {
+          "he": "ה\"ה בפ\"ה מה' תענית מהא דרבא והרשב\"א בתשו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:8"
+        },
+        "9": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:9"
+        },
+        "10": {
+          "he": "טור בשם הרמב\"ם וה\"ה וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:10"
+        },
+        "11": {
+          "he": "מימרא דר\"א פסחים נ\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:11"
+        },
+        "12": {
+          "he": "ברייתא תענית י\"ג וכת\"ק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:12"
+        },
+        "13": {
+          "he": "תוס' בשם ר\"י ביצה י\"ח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:13"
+        },
+        "14": {
+          "he": "מהרי\"ק בסי' ל\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:14"
+        },
+        "15": {
+          "he": "הרא\"ש בסוף תענית",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:15"
+        },
+        "16": {
+          "he": "ר\"י בשם הסכמת הפוסקים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:16"
+        },
+        "17": {
+          "he": "טור בשם הירושלמי כפי גירסתו ופירושו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:17"
+        },
+        "18": {
+          "he": "שם בשם הרי\"ץ גאות וכ\"כ הרמב\"ן בת\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:18"
+        },
+        "19": {
+          "he": "ברייתא יומא ע\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:19"
+        },
+        "20": {
+          "he": "מהא דרב יוסף שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:20"
+        },
+        "21": {
+          "he": "מהא דרבא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:21"
+        },
+        "22": {
+          "he": "טור בשם הירושלמי שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:22"
+        },
+        "23": {
+          "he": "ברייתא יומא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:23"
+        },
+        "24": {
+          "he": "ממשמעות הגמ' שם ע\"ח וכ\"פ הרי\"ף ורא\"ש והרמב\"ם בהלכות י\"כ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:24"
+        },
+        "25": {
+          "he": "בטור י\"ד סי' שפ\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:25"
+        },
+        "26": {
+          "he": "ירושלמי בפ\"ק דתענית וכתבוהו הרי\"ף והרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:26"
+        },
+        "27": {
+          "he": "הג' מרדכי דמ\"ק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:27"
+        },
+        "28": {
+          "he": "טור בשם אביו רא\"ש מל' התוספתא ושכ\"כ רמב\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:28"
+        },
+        "29": {
+          "he": "תוספתא וירושלמי וכ\"פ הפוסקים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:29"
+        },
+        "30": {
+          "he": "כל בו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:30"
+        },
+        "31": {
+          "he": "משנה פסחים פ\"ד וכרשב\"ג תו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:31"
+        },
+        "32": {
+          "he": "רוקח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:32"
+        },
+        "33": {
+          "he": "רשב\"א בתשו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:33"
+        },
+        "34": {
+          "he": "שם בתשובה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:34"
+        },
+        "35": {
+          "he": "ברייתא תענית ל'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:35"
+        },
+        "36": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:36"
+        },
+        "37": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 554:37"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "ונעילת הסנדל עמ״א ע׳ אות י״ח וגם ביה״ש אסור בכל אלה עסי׳ תקנ״ג ס״ב בהגה. ולקדש לבנה במוצאי ט״ב אין לקדש יחף. ה״ה תורה אסור עד צ״ה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:1"
+        },
+        "2": {
+          "he": "ותינוקת עמ״א השיג לכאורה על הב״ח דללמוד עם אחרים אסור אף בדברים רעים עי״ד שפ״ד סעיף ד׳ ותשב״ר כה״ג לא מיקרי ת״ת דרבים באפשר ומודה לו דתשב״ר לעצמן בטילים אף בדברים רעים דשמחה להם ואע״ג דאין אבילות לאבל בט״ב מחמירין טפי עסי׳ תקנ״א במ״א ל״א ועט״ז א׳ ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:2"
+        },
+        "3": {
+          "he": "ובדברים עמ״א בתקצ״א ס״ה זכרונות:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:3"
+        },
+        "4": {
+          "he": "ובפרק ואלו מגלחין עמ״א עסי׳ תקנ״א:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:4"
+        },
+        "5": {
+          "he": "ע״י הרהור עמ״א פי׳ איכה ואיוב אע״ג דעמוק וחמור שרי אדרבה צער הוא לו אבל קושיא ותירוץ שמחה היא לו כמאמר החכם מי שלא טעם שמחת התרת הספיקות לא טעם טעם שמחה מעולם וה״ה איזה קושיא ג״כ שמחה לו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:5"
+        },
+        "6": {
+          "he": "מותר עמ״א מזה י״ל אם בטלו תהלים של יום א׳ יאמרו מחר ככל השנה ע׳ הל׳ קריאת ס״ת כה״ג ביטלו סדר א׳ לקרות:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:6"
+        },
+        "7": {
+          "he": "לחזור הפרשה עמ״א ועט״ז אות ג׳ ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:7"
+        },
+        "8": {
+          "he": "עוברות עמ״א ע׳ מ״ש באות שאח״ז וכל שיש סכנה אף ביום הכיפורים אין מתענה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:8"
+        },
+        "9": {
+          "he": "חיה עמ״א יולדת שילדה בשבת שחל ר״ח ערב שבת וט״ב נדחה ליום א׳ יש להקל כבסי׳ תקנ״ט ס״ט בנדחה בעל ברית יתפללו יע״ש ועט״ז בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:9"
+        },
+        "10": {
+          "he": "טבילה עמ״א יש קצת חסרון בדפוס וצ״ל דוקא בליל ט״ב לא תטבול עתה אבל במוצאי ט״ב תטבול וצפרנים עמ״א י״א מותרת בעט״ב לא בט״ב כ״ש לט״ז י״ג ועי״ד קצ״ט בש״ך אות ט׳ ועיין לבוש שלא ילך יחף ותדבק טיט ורפש יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:10"
+        },
+        "11": {
+          "he": "אם עמ״א למי שצריך לאכול בשר וכדומה עסי׳ תקנ״ח וצ״ע בחמין א״א שתהנה וי״ל דוקא בצונן שרי דלאו רחיצה של תענוג:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:11"
+        },
+        "12": {
+          "he": "פני רבו עמ״א עא״ר י״ב א״כ מה קאמר לא חדש ושבת היום שמ״מ מצוה איכא וי״ל מצוה שמא ישמע ממנו איזה דבר תורה משא״כ אשה לאו בנות תורה הוית ועיין חגיגה ה׳ ב׳ דר׳ יעקב איש כפר חיטייא היה מקבל פני רביה כל יומא יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:12"
+        },
+        "13": {
+          "he": "בחזרה מותר עמ״א עט״ז וכל אלו אע״ג דלאו רחיצה של תענוג ומ״מ אי לאו לצורך מצוה לא התירו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:13"
+        },
+        "14": {
+          "he": "לשמור עמ״א דוקא שיש הפסד ממון הא לאו הכי אסור ובחזרה ג״כ אסור דלא שייך מימנע כו׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:14"
+        },
+        "15": {
+          "he": "והיא מתנגבת עמ״א בשם ב״ח דאין בה טופח ע״מ להטפיח הא לא״ה אסור:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:15"
+        },
+        "16": {
+          "he": "נעילת הסנדל עמ״א עט״ז אות ז׳ ובקכ״ח אות ה׳ דבגד חופה עור שרי הכא אסור דמ״מ תענוג הוא ואסור בט״ב עסי׳ תרי״ד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:16"
+        },
+        "17": {
+          "he": "מותרים ע׳ מ״א ועא״ר אות י״ד צידד להקל כל שיצא מעיר אף שאין דרך רחוק נועל מנעליו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:17"
+        },
+        "18": {
+          "he": "ברחוב היהודים עמ״א וע׳ א״ר אות ט״ו צידד להחמיר ברחוב יהודים לחלוץ שם אע״ג דהרבה עכו״ם עוברים שם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:18"
+        },
+        "19": {
+          "he": "עם אשתו עמ״א ועט״ז בסי׳ תרט״ו משמע בט״ב שרי ליגע בה יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:19"
+        },
+        "20": {
+          "he": "ויש אוסרין עמ״א הראה לסעיף ח׳ י״ל דכוונתו דהאידנא ליכא טבילה בזמנה דאין טהרות ולבעלה בלא״ה בט״ב אסור בתשמיש משא״כ בשבת ט״ב דיעה א׳ מותר בתשמיש המטה אם כן רשאי לטבול ולשמש עם בעלה ועא״ר י״ט ולמ״ש א״ש ועב״י:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:20"
+        },
+        "21": {
+          "he": "עמ״א ועיין בהלכות פורים כה״ג משלוח מנות ה״ה בט״ב אין לשלוח עא״ר אות כ״א צפרא דמרי טב נמי בט״ב אסור דבאבל נמי תוך שלשים אסור ועיין ש״ך י״ד שפ״ה אות ב׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:21"
+        },
+        "22": {
+          "he": "לחבריה עמ״א בב״ח בתוספתא אין שאילת שלום לחברים היינו ת״ח בט״ב וכ״ה בר״מ ז״ל פ״ה מתענית הי״א ובמ״מ שם אבל במרדכי הגירסא לחבירו משמע אף שאין ת״ח אסור וע״ז השיג המ״א דודאי אף לגירסא וחברים ה״ה לכל אדם אין שאילת שלום בט״ב רק ע״ה אין יודעים הדין ונותנים שלום משיב להם בשפה רפה וי״ל דעת הב״ח דחייש לאיבה התירו ליתן לע״ה שלום וכ״מ לשון הר״מ ז״ל ת״ח אין נותנים דאל״כ לימא בקיצור אין שאילת שלום ואם אחד נתן משיב בשפה רפה ומיהו י״ל יודיע לו שהיום אסור:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:22"
+        },
+        "23": {
+          "he": "שלא עמ״א ע׳ אות כ״ה חליבת פרות משמע הטעם משום מסיח דעת מהאבילות אין לחלק אף בלילה אסור דמה״ט מתירין מלאכה שאין בה שהייה כו׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:23"
+        },
+        "24": {
+          "he": "וכל ע׳ מ״א הא במקום דשייך יוהרא אסור:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:24"
+        },
+        "25": {
+          "he": "אם עמ״א משמע חליבת פרה הוי דבר האבוד ואפ״ה דוקא ע״י כותי אם אפשר ועיין אות כ״ו ועא״ר כ״ג ובנין ע״י כותים אוסר בשכ״ג א״ר אות כ״ב:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:25"
+        },
+        "26": {
+          "he": "דבר האבד משמע בעצמו לא וי״ל דמסיח מאבילות ע׳ כ״ד כ״ה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:26"
+        },
+        "27": {
+          "he": "כל ע׳ מ״א אף במקום שנהגו וה״ה אחר חצות טוב למעט במו״מ יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:27"
+        },
+        "28": {
+          "he": "על עצמותם עמ״א עט״ז י״א גמרא נדה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 554:28"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "ותינוקות עט״ז זה כתב לאפוקי מסברת הב״ח עמ״א ב׳ ויראה דתינוק בן י״ב גדול קצת ומבין אף הט״ז מודה דאסור ללמוד בפני עצמו מה ששמחה לו ודוקא קטן שיש לו צער בלימודו כו׳ ועסי׳ תקנ״א במ״א אות ל״ח. עא״ר וא״ז דאסור בת״ת כל היום עד צ״ה כל שמדינא אסור ודוקא מישיבת הספסלים דמנהגא מותר אחר חצות. ע׳ בטור מי שאוכל ושותה מכין מכת מרדות וצ״ע אם בשאר עינויין מכין וצ״ע אם אכל ח״ש אם מכין גם ביה״ש עי״ד רצ״ד בהנהיג עיזא ושיבוטא בב״י דאין לוקין מכת מרדות על הספק ובספר שושנת העמקים בכלל מכת מרדות כתבנו מזה ונ״מ לפסולי עדות הר״מ פרק עשירי מהלכות עדות היתה החיוב שבה מדבריהם עח״מ סי׳ ל״ד עי׳ בר״מ ז״ל הלכות חמץ ומצה פרק א׳ הלכה ז׳ מ״ש בפסח מ״מ משמע בשש לא ובהלכה י׳ נהנה משמע לא לקי מ״מ משמע הכלל כל שאלו מ״ה כה״ג לא לקי ה״ה מדרבנן כן ועלח״מ שם. וצ״ע ובס׳ ש״ה כתבנו מזה באורך:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 554:1"
+        },
+        "2": {
+          "he": "ופ׳ אלו מגלחין עט״ז דאף בדברים שמותר ללמוד דוקא פשטן אבל דרך פלפול אסור ועא״ר אות ד׳ ועמ״א:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 554:2"
+        },
+        "3": {
+          "he": "ומותר עט״ז ועמ״א אות ז׳ ובא״ר אות ו׳ הקשה להמ״א פשיטא דפ׳ כי תוליד מעין המאורע הוא יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 554:3"
+        },
+        "4": {
+          "he": "היה עט״ז ועא״ר אות ו׳ וז׳ ועמ״א אות ט׳ ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 554:4"
+        },
+        "5": {
+          "he": "ומיהו עט״ז ובא״ר אות ז׳ משמע תוך ז׳ ביולדת אין להחמיר להתענות בת״ב דרבנן משמע אף אין אמרה צריכה אני:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 554:5"
+        },
+        "6": {
+          "he": "וכן עט״ז ועב״י ובסי׳ תרי״ג בהלכות יוה״כ ובט״ז שם אות ו׳ ספק דרבנן דאין רחיצה של תענוג ושם אסור הרב אצל התלמיד וה״ה כאן הרב אצל התלמיד ועמ״א שם וב״י כאן יע״ש וע׳ לבוש בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 554:6"
+        },
+        "7": {
+          "he": "ושל עץ עט״ז בתי שוקיים כו׳ וכ״כ המ״א אות י״ו בשם משפטי שמואל והיינו כשמחופין למטה על השוליים דהוי כמנעל של עור:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 554:7"
+        },
+        "8": {
+          "he": "שלא עט״ז בסי׳ תרט״ו אות א׳ דבט״ב מותר ליגע בה ועמ״א כאן אות י״ט ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 554:8"
+        },
+        "9": {
+          "he": "מותר עט״ז וע׳ סי׳ תקנ״ג אות ב׳ וטבילה בזמנה בט״ב בשבת עמ״א ך׳ דפוסק בשם של״ה דמותר ועא״ר אות י״ט משמע דאוסר לשמש עמה ואי״ה במ״א יבואר בזה: ט״ב שחל בשבת כתב א״ר י״א שאומר אב הרחמים דהוי כקינות ומזכירין נשמות הצדיקים ובסי׳ תקנ״ט אות ו׳ בט״ז דמותר לעשות הספד בט״ב על ת״ח וה״ה אב הרחמים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 554:9"
+        },
+        "10": {
+          "he": "וכל עט״ז הא בשאר דברים שייך יוהרא ועמ״א אות כ״ד ואי״ה שם יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 554:10"
+        },
+        "11": {
+          "he": "על עצמותם עט״ז עסי׳ תקנ״ט ס״ה בשעת הקינות כו׳ ברכת שעשה לי כל צרכי אומר בט״ב ועסי׳ מ״ו במ״א אות י״ד ועסי׳ תרי״ד בלבוש וכן המנהג פשוט בט״ב ויוה״כ לברך שעשה לי כל צרכי וא״ר אות ט״ז האר״י ז״ל כתב שלא לברך ועיקר כלבוש יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 554:11"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] [לבוש] ואפילו לשכוב וכו'. ואפשר דאסור ליגע בה כמו ביום כיפור (דרכי משה), ונראה לי יש להקל ביום (מגן אברהם), וצריך עיון דבסוף סימן תרט\"ו אוסר אף ביום אי סבירא ליה לחלק בין יום כיפור לתשעה באב בזה אם כן מנא ליה לחלק ללמוד בלילה מיום כיפור, מיהו בט\"ז שם מתיר נגיעה בתשעה באב לגמרי כיון שהולכת בבגדים בזוים ולא יתאוה לה כל כך, גם מטעם הלבוש שם משום קרי משמע נמי בתשעה באב מותר מכל מקום טוב להחמיר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:1"
+        },
+        "2": {
+          "he": "[ב] ואסור לקרות וכו'. באליהו זוטא שלי תמהתי על הלומדים שלומדים בתשעה באב אחר מעריב שיעור בבית הכנסת אף שעדיין יום והא כתב הב\"ח בסימן תקנ\"ט ומהרי\"ל דכל הנזכרים בסעיף זה אסור עד שחשיכה שהם מדינא דגמרא וכן כתב בשל\"ה דף רי\"ג דדוקא בישיבת קרקע מקילין שאינו אלא מנהגא, ובמגן אברהם כתב דוקא ההולכים בין הכותים ועוסקים במשא ומתן אחר חצות הם מותרין לנעול, עד כאן, ואין לומר דערבית משוי לילה דלהקל קיימא לן דלאו משוי תפילת ערבית ללילה כמו שכתב הט\"ז ליו\"ד סימן ת\"ב, גם לשון מהרי\"ל וב\"ח עד חשיכה משמע וכן מבואר במהרי\"ל הכי, מיהו בשבלי הלקט כתב זה לשונו יש מביאין סנדליהון בידיהם וכשמתפללין תפילת ערבית נועלין עד כאן לשונו, ואפשר שהתפלל מעריב סמוך לחשיכה ועוד הא כתב עלה בשם הגאונים יהא בנידוי כל מי שעושה אחד מכל אלו כל היום בתשעה באב, וכן כתב בתניא ובגן נטע לא דקדק והחליף דברי גם בקיצור של\"ה, ואין ללמוד ממה שנוהגין לומר תהלים במנחה במדינותינו שזה אומרים דרך בקשה כמו שכתב מגן אברהם. כתב הכלבו מנהג קדם שהנשים רוחצות ראשון מן המנחה ולמעלה ולטובה נתכוונו זכר לבן דוד שנולד בתשעה באב וזה לנשים אבל לשאר בני אדם וכו' מי שמיקל לרחוץ רגליו או שום מקום כל היום עובר על דברי חכמים, עד כאן, והבית יוסף סוף סימן תקנ\"ד כתב המנהג ואף לנשים אסור:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:2"
+        },
+        "3": {
+          "he": "[ג] ותינוקות וכו'. אין הטעם משום שהם שמחים דודאי אין להם שמחה אלא משום המלמד ששמח בדברי תורה שלומד עמהם לכך מותר ללמוד לקטנים דבר שמותר ללמוד בתשעה באב (ט\"ז), אבל מגן אברהם אוסר ללמוד תינוקות המבין אם לא החורבן שמשבר את הלב של תינוק:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:3"
+        },
+        "4": {
+          "he": "[ד] אבל קורא וכו'. ומכל מקום אסור ללמוד בהן איזה דרוש או קושיא ותירוץ מפני ששמחה הוא לו (מטה משה), וזה לשון הט\"ז דוקא כפשוטן של דברים אבל דרך פלפול אפילו בהרהור לפרש דברי חמור אסור עד כאן לשונו, ולא משמע קצת הכי ממה שכתב הלבוש מיהו לישא וליתן ביה דמפרסמא וכו' משמע דבפני עצמו שרי אם לא שנאמר דבמה שאינו דבר חמור קאמר דאסור לישא וליתן עם אחרים וצריך עיון, ועוד הא פירש איוב שחמורה הוא כמו שכתב בית יוסף שמותר וקיימא לן דמותר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:4"
+        },
+        "5": {
+          "he": "[ה] הרהור וכו'. וכן אסור להורות הוראה דהוי כהרהור אם לא לחולה הצריך עכשיו ואסור לדין דיני ממונות ואם אין בעל דין יכולין להמתין אפשר דשרי דהוי כרבים צריכין לו (מגן אברהם):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:5"
+        },
+        "6": {
+          "he": "[ו] הפרשה וכו'. פירש מגן אברהם היינו חזן הקורא מותר לו לחזור הפרשה קודם שיקרא, עד כאן, ולכאורה קשיא פשיטא הא פרשת כי תוליד בנים מעין המאורע הוא ובאליהו זוטא פירשתי דרמ\"א ומנהגים מיירי מפרשת השבוע וכהאי גוונא כתב הט\"ז זה לשונו מי שרגיל לחזור הפרשה באותו יום שבוע דהיינו שחל תשעה באב ביום חמישי, ומגן אברהם פירש עוד דמיירי בתשעה באב שחל בשבת:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:6"
+        },
+        "7": {
+          "he": "[ז] חיה כל שלושים וכו'. עיין בט\"ז מה שהקשה על רש\"ל מסימן תרי\"ח ביום כיפור, ולעניות דעתי לא קשה מידי דרש\"ל מיירי להדיא בחיה דצריכה להתענות ביום כיפור אחר שבעה אף שאמרה צריכה אני כמו שנתבאר בסימן תרי\"ז אבל בחולה מיירי אף שאינו אומר צריך וקאמר דאין צריך אומד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:7"
+        },
+        "8": {
+          "he": "[ח] מיהו וכו' והמקיל וכו'. קשה דלקמן סימן תר\"ב כתב הלבוש כן על שלוש צומות אבל בתשעה באב אין להקל וכן רש\"ל וט\"ז כתבו אפילו אמרה צריכה אני מתענה אם לא שהיא קצת חולה, מיהו מלבושי יום טוב כתב שאין נראין דברי רש\"ל וכן פסק איסור והיתר דאף אחר שבעה אין מתענה כשאמרה צריכה אני, וזה לשון הב\"ח נהגו להתענות כל זמן שאין להם חולשא ונתרפאות מלידתן ואף בשאר שלוש צומות נהגו להחמיר כשהן בריאות, עד כאן, ומגן אברהם כתב והיכי דנהוג נהוג מיהו בתשעה באב שנדחה יש להקל, עד כאן, ונראה דוקא בשאר צומות יש להקל לגמרי כשנדחה, אבל בתשעה באב אין להקל ממנהג דהא ברש\"ל כתב שדינא הוא. כתב הט\"ז יולדת תוך שלושה אפילו אמרה אין צריכה אסור לה להתענות וכל שכן תוך שבעה כשאמרה צריכה אני, ועיין סימן תרי\"ז ביום כיפור, ולעניות דעתי אין לה להחמיר כלל תוך שבעה בתשעה באב דרבנן. כתב בספר בית הלל סימן רס\"ה דיולדת שאינה מתענה מכל מקום צריכה להתענות איזה שעה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:8"
+        },
+        "9": {
+          "he": "[ט] [לבוש] אלא כיון וכו' נוהגין היתר על וכו'. פירוש שתרחץ ותחוף בליל מוצאי תשעה באב ולא חשש שתהיה בהול לביתה, אבל ביום אפילו בין השמשות אסור כמו שנתבאר בריש דבריו, ומה שכתב אחר כך אם אי אפשר לה לרחוץ בתשעה באב בעצמו פירוש בליל תשעה באב עצמו וכן משמע בסימן תקנ\"א סעיף ט\"ז:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:9"
+        },
+        "10": {
+          "he": "[י] [לבוש] וצריך לברך וכו' אשר יצר וכו'. והא דבסימן תרי\"ג סעיף ב' כתב דוקא קינח או שיפשף נראה לי דביום כיפור דאורייתא החמיר, ובזה מיושב מה שהניח הט\"ז בצריך עיון על הטור בסימן תרי\"ג והא דכתב הטור הכא בין בתשעה באב בין ביום כיפור קאי אלפניו על חייבי טבילות ולא לאחריו וקל להבין. כתב שלטי גיבורים נשים המבשלות בתשעה באב מותרים לרחוץ הבשר בידים ועיין סימן תקנ\"א ס\"ק ל\"ה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:10"
+        },
+        "11": {
+          "he": "[יא] [לבוש] מתנגבת וכו'. עד שאין בה טופח על מנת להטפיח (ב\"ח ומגן אברהם). להעביר הליכלוך וכו' בטור שעושה עתה לתענוג שרי:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:11"
+        },
+        "12": {
+          "he": "[יב] להקביל וכו'. פירוש שהלך בחול להקביל פני רבו בשבת אי נמי נהי דחיובא ליכא בחול מכל מקום מצוה איכא וכן משמע בחגיגה (מגן אברהם), וצריך עיון אם כן למה אמר אלישע לשונמית מדוע באת לא חודש ולא שבת כיון דאפילו בחול מצוה הוא:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:12"
+        },
+        "13": {
+          "he": "[יג] של עור וכו'. ואפילו באנפלאות של בגד שיש עור בתחתיהם (פ\"ח ואחרונים). אבל של עץ וכו' והב\"ח החמיר לילך יחף לגמרי וסיים ומכל מקום אין לגעור במקילין:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:13"
+        },
+        "14": {
+          "he": "[יד] בדרך וכו'. נראה לי הטעם דטורח גדול הוא לילך דרך רחוק יחף אבל כשהולך לשדה סמוך לעיר אסור לנעול והוא הדין לבית הקברות אלא אם כן טיט ורפש או בין הכותים וכשיושב על העגלה או רוכב צריך לחלוץ אפילו בדרך רחוק (מגן אברהם) וצריך עיון, ועוד דסתם שדה הוי בבית כותים וזה לשון רבינו ירוחם, ביציאתו מעיר נועל ובכניסתו חולץ גם נראה לי מדפירש רש\"י בתענית דף י\"ג היוצא לדרך חוץ לעיר משמע דכל שיצא מעיר אף שאין דרך רחוק מותר וטעמא שלא החמירו חז\"ל בנעילת הסנדל אלא בעיר כמו שלא אסרו במלאכה בלילה ואינך שמזכיר בש\"ס שם וכן משמע להדיא ברוקח סימן ש\"י:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:14"
+        },
+        "15": {
+          "he": "[טו] וכן נהגו וכו'. ורחוב שדרים בו כל היהודים אף שהוא דרך המלך שדורסים בו כותים אסור (כנסת הגדולה ורשד\"ם), ומגן אברהם כתב דאם הרבה כותים עוברים שם מותר, עד כאן. ומלשון כנסת הגדולה הנזכר לעיל לא משמע קצת הכי וצריך עיון ברשד\"ם גופיה ועוד הבו דלא להוסיף על המנהג:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:15"
+        },
+        "16": {
+          "he": "[טז] [לבוש] מברכין וכו'. ומהר\"י לוריא פסק שלא לברך ועיקר כלבוש כמו שכתב בסוף סימן תרי\"ז וכן פסקו בשבלי הלקט ותניא:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:16"
+        },
+        "17": {
+          "he": "[יז] לישן וכו'. עיין ריש סימן זה ובסימן תרי\"ד ס\"ק:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:17"
+        },
+        "18": {
+          "he": "[יח] חל תשעה באב בשבת וכו'. נראה לומר אב הרחמים אף דתשעה באב נקרא מועד מכל מקום אב הרחמים הוי כמו קינות שאומרים בתשעה באב עיין סוף סימן רפ\"ד, ועוד דהא אפילו בתחנון וצידוק הדין כתב הט\"ז סימן תקנ\"ט שיש לאומרו בתשעה באב אף דלא נהיגין הכי מכל מקום הבו דלא להוסיף כיון שלא נזכר בפוסקים, וכבר כתב הט\"ז שם ס\"ק ה' דמותר לעשות הספד בתשעה באב וזה לשונו, מעגלי צדק מזכיר נשמות הרבנים הקודמין והקהילות שנהרגו על קדושת השם ואב הרחמים, עד כאן, ומשמע אף דבתשעה באב בשבת:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:18"
+        },
+        "19": {
+          "he": "[יט] [לבוש] אפילו בשבת וכו'. כתב של\"ה מחלוקת אי טבילה בזמנה מצוה וכתב בית יוסף סימן קצ\"ו כשבעלה בעיר מצוה לטבול בזמנה שהרי יהושע נענש על שביטל לילה אחד מפריה ורביה, עד כאן, ולכך התרתי לאשה שטובלת ומשמשת בליל שבת שחל תשעה באב אף שרמ\"א החמיר מצוה שאני ובמנהגים ישנים מצאתי כדברי שהאשה תטבול בליל שבת שחל תשעה באב עד כאן לשונו, ובאליהו זוטא שלי הקשיתי דמאי דפליגי הפוסקים אם טבילה בזמנה מצוה היינו אף בלא תשמיש אבל לדידן דקיימא לן דאינה מצוה אלא כשבעלה בעיר משום ביטול פריה ורביה אם כן בתשעה באב דאסור בתשמיש המטה מה לי בליל טבילה, ויש לומר דוקא בליל טבילה קאמר דהוי ביטול פריה ורביה דאין האשה מתעברת אלא סמוך לטבילתה, אך קשה בתשעה באב בחול אסור אף בליל טבילה וכיון דקיימא לן דבר שבצינעה נוהג כמו באבל ובאבל ודאי אסור ליל טבילה בשבת, ואין לומר דסמכינן בזה על סברת המתירין כיון דקיימא לן כאוסרין בכל ענין. ומה שכתב בשם מנהגים ישנים לעניות דעתי פירושו שתטבול אבל אסור לבוא עליה וראיה מתשובת מהר\"י ברונא שהביא שיירי כנסת הגדולה זה לשונו, אין לטבול ערב שבת שמא יבוא עליה ואנן קיימא לן דברים שבצינעה נוהג עד כאן לשונו, ופירושו נראה לי דהוה אמינא שתטבול כדאי לבוא עליה במוצאי תשעה באב שלא להרחיק חפיפה מטבילה כמו שכתב בסימן תקנ\"א סעיף ט\"ז קא משמע לן דאסור מגזירה שמא יבוא עליה ומנהגים הנזכר לעיל סבירא ליה דלא גזרינן אבל לבוא עליה ודאי דאין חילוק בין ליל טבילה לשאר לילות בתשעה באב, ועוד הא ר\"י מברונא הנזכר לעיל אוסר להדיא ואילו ראהו של\"ה לא היה מקיל כנגדו וכן שמעתי שפסק זקיני הגאון מהרא\"ש ז\"ל לאסור ואדוני אבי הגאון אחריו והכי נוהגין ועיין סימן תקע\"ד ס\"ק ז' וכן במגן אברהם על של\"ה ועיין ספר חסידים אפשר רמז דנתבאר שם דהאידנא אסורה לטבול:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:19"
+        },
+        "20": {
+          "he": "[כ] [לבוש] מידי דהוי וכו' ברגל וכו'. מזה קשה על מה שכתב שבלי הלקט סימן פ\"ח תשעה באב שחל להיות בשבת מותר בתשמיש והא דדברים שבצינעה נוהג בשבת התם כיון דחל עליה אבילות קודם שבת אינה פוסקת לענין תשמיש עד כאן לשונו, מה מתרץ הא דקובר ברגל כתב הט\"ז דאסור לרחוץ ידו בחמין שגם זה קרוי צינעה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:20"
+        },
+        "21": {
+          "he": "[כא] אין שאילת שלום וכו'. כתב ביו\"ד סימן שפ\"ה יש אומרים דזה מה שאנו נותנין שלום לא מיקרי שאילת שלום שבימיהם, וצריך עיון הא בטור כתב שלום עליכם וגם בגמרא אמרינן שלום עליך רבי ולכן אין להקל (מגן אברהם), ולעניות דעתי כוונת רמ\"א על צפרא דמריא טב דנהיגין האידנא דלא מיקרי שאילת שלום וכמו שכתב לעיל סימן פ\"ט, גם נראה לי דבתשעה באב הכל אסור דלא עדיף מאבל תוך שלושים דהכל אסור. כתב מגן אברהם אסור לשלוח דורון לחבירו בתשעה באב:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:21"
+        },
+        "22": {
+          "he": "[כב] על ידי כותים וכו'. ובנין דאוושא מילתא החמיר בשיירי כנסת הגדולה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:22"
+        },
+        "23": {
+          "he": "[כג] אם אפשר וכו'. צריך עיון הא בסוף סימן תקל\"ג התירו משום שהוא דבר אבוד ובדבר אבוד התיר בסעיף שאחר זה אף באפשר על ידי כותים, ואפשר דמיירי הכא בענין שאינו דבר אבד ובאמת שדיתי בה נרגא בסימן תקל\"ג דבתרומת הדשן גופיה מבואר דלא הוי דבר אבד ואפילו הכי מותר, ומה שכתב מגן אברהם הכא בשם תרומת הדשן דלטעם משום עינוי אף דבר אבד אסור ליתא בתרומת הדשן כלל אלא קאמר שם על מלאכה שאינה צריכה טורח ומעשה הדיוט דאסור לטעם דעינוי ולטעם דאיסור מלאכה מותר אבל בדבר אבוד נראה דלכל הטעמים שרי על ידי עצמו דלא החמירו בדבר האבד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:23"
+        },
+        "24": {
+          "he": "[כד] דבר האבוד וכו'. כתב במטה משה סימן תשמ\"ב אם היה יריד או שיירות מותר אפילו קודם חצות לקנות מהם על ידי כותים וכל שכן למכור דהוי דבר האבד עד כאן לשונו, וצריך עיון דעל ידי כותים מבואר בסעיף הקודם דאפילו באין דבר האבוד מותר אף בעצמו ואפשר דזה בפרהסיא ולרבים לא רצה להקל בזה ניחא מה שהקשה מגן אברהם מהרא\"ש:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:24"
+        },
+        "25": {
+          "he": "[כה] וכל העושה וכו'. אפילו במקום שנהגו ואם כן אף אחר חצות לדידן מיהו דוקא כשקובע עצמו למלאכה ומסיח דעתו מאבילות וכן למשא ומתן כמו שכתב מגן אברהם. וליל תשעה באב צריך עיון בפסחים דף ד' אוסר רש\"י ובתענית דף י\"ג מתיר רש\"י:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:25"
+        },
+        "26": {
+          "he": "[כו] מאותה מלאכה וכו'. כלומר מאותן המעות שמרויח באותו מלאכה (תניא). כתיבה מותר בתשעה באב (שיירי כנסת הגדולה), והמעתיק ספרים בשכר נראה להתיר ובמגן אברהם מסיק דאסור, וצריך עיון בהרא\"ש וברמזים פרק קמא דתענית. גרסינן בסוף תענית תלמידי חכמים בטלין ממלאכה ר' שמעון בן גמליאל אומר לעולם יעשה עצמו כתלמיד חכם תניא נמי הכי ר' שמעון בן גמליאל אומר לעולם יעשה אדם עצמו כתלמיד חכם כדי שיתענה וכתב אף בתרומת הדשן סימן קנ\"ג זה לשונו, פירש רש\"י כדי שיתענה כלומר עינוי הוא להם שיהיו בטלים ממלאכה, ותימא מאי פריך בתענית דף י\"ב בשלמא רחיצה וסיכה אית בהו תענוג אלא מלאכה צער הוא אלמא דביטול מלאכה תענוג הוא לאו עינוי, עד כאן, ולעניות דעתי ליישב דבגמרא בבא מציעא דף ע\"ז דבמחוזא היה רגילים במלאכה ובטילה קשה להן ואם כן בשיירי כנסת הגדולה מיירי לפירוש רש\"י שאותן אנשים דוקא יעשו עצמן כן וכל הש\"ס פריך על מתניתין דאוסר במלאכה וכל העולם פריך שפיר כן נראה לי, אך צריך עיון דבפירוש רש\"י שלפניו לא נמצא כלל מה שכתב תרומת הדשן בשמו ועוד דבברטנורה פרק ד' דפסחים פירש הטעם דאיסור מלאכה שלא יסיח דעתו מאבילות, ודוחק ליישבו בדרך זה, ועוד מצאתי בכלבו סימן ס\"ב שפירש כדי שיתענה שאם יעשה אדם מלאכה לא ירגיש בתעניתו מתוך טרדות מלאכתו ועוד שאפשר מתוך טורח המלאכה שלא יוכל להתענות, עד כאן. ומזה נמי קשה קושיא הנזכר לעיל ומאי פריך הש\"ס על מלאכה ואי לאו דמיסתפינא אמינא דהך ברייתא דר' שמעון בן גמליאל קאי אתענית ציבור ראשונים דגשמים דתלמידי חכמים מתענין וקאמר ר' שמעון בן גמליאל דכל אדם רשאי לעשות עצמו כתלמיד חכם כדי שיתענה והיינו כפשטיה להתענות כדאיתא בש\"ס שם דף י' ע\"ב דלדבר של צער אין יוהרא ומייתי ראיה דהוא הדין למלאכה בתשעה באב. ובענין זה קשה לי מאי פריך בפסחים דף נ\"ה דר' שמעון בן גמליאל דבמלאכה הנזכר לעיל אדר' שמעון בן גמליאל דקריאת שמע דחתן דאינו קורא ודשאני הכא דאית ליה צער. ובענין הזה מקשים העולם על תוס' פרק איזהו נשך דף ס\"ז ד\"ה רבינא וכו' ואומר רבינו תם דרבינא לא היה רוצה לעשות לעצמו צורבא מרבנן, עד כאן, הא קיצותא הוא לו להיזק יותר מנכייתא ובצער מותר לעשותו ושמעתי לתרץ דזה קשה לתוס' עצמו ותירצו כמו שכתבתי, ועוד פירש רפרם במקום רבינא בפלוגתא דקיצותא ורצה לומר דאם כן רבינא אוסר קיצותא שהרי לא נזכר בפלוגתא זו שנאמר דמקילי ולא היה לו תקנה אחרת אלא משכנתא דסורא שזה לאו היזק הוא דהוא נמי נכייתא כמו שכתבו תוס' שם ד\"ה כשישלם וכו', עד כאן, אבל בניכייתא והוא דחוק ועוד דאם אוסר רבינא קיצותא (כמ\"ש) [כל שכן] דאסור נכייתא כמבואר בש\"ס שם דיותר מסתבר להתיר קיצותא, ועוד כדי שלא לעשות איסור וגם לא היה רוצה לעשות תלמיד חכם היה לו לשכור או לקנות. ובאמת עיקר הקושיא יש לתרץ דיש חילוק בין צער דגופיה ובן צער דהיזק ממון, עוד יש לומר דהא הרמב\"ם בפירוש המשנה דפסחים שם כתב דאין הלכה כר' שמעון בן גמליאל אלא דאף במקום צער לא יעשה עצמו כתלמיד חכם ואם כן אין קושיא כלל על תוס' דיש לומר דסבירא ליה כרמב\"ם, ועוד יש לומר דשאני הכא דמלאכה דלית ביה משום יוהרא, דהרואה יאמר מלאכה הוא דלית ליה כדאיתא בפסחים דכמה בטלני איכא בשוקא מה שאין כן הכא בקיצותא משמע בגמרא דאין מי שעושה כן אם לא צורבא מדרבנן הוא:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 554:26"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "ותינוקות של בית רבן בטלים  נראה פשוט דפי' איוב ושאר דברים המותרים לגדול מותר ללמוד גם עם התינוקות וכאן לא אסרו אלא הלימוד שהקטנים לומדים בסדר שלהם דהיינו חומש וגמרות וקמ\"ל דאע\"ג דיש צער קצת בלימוד עמהם ור\"מ ס\"ל בגמרא דהותר לשנות במה שאינו רגיל ואע\"ג דלא קי\"ל כוותי' היינו בלימוד של עצמו אבל עם התינוקות ה\"א דשרי קמ\"ל דאפ\"ה ליבטלו מזה ואיסור של התינוקות בלימוד אין הטע' משום שהם שמחי' דודאי אין להם שמחה אלא משום המלמד ששמח בד\"ת שלומד עמהם כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 554:1"
+        },
+        "2": {
+          "he": "ופ' אלו מגלחין.  בגמ' פליגי ר\"מ ס\"ל דקורא ושונ' בכ\"מ במקום שאינו רגיל מפני שצער הוא לו ור\"י אוסר אף בזה והלכתא כוותי' וצריך לתת טעם באמת למה אוסר ר\"י שהרי יש לו צער ונראה טעמו מפני סוף הלימוד דאחר שיטריח עצמו ויבין הפשט יהיה לו שמחה ואזלי' בתר סופה דמילתא וסברא זו אשכחן בהדי' דר\"י ס\"ל כן לענין אחר דהיינו בפ\"ק דמ\"ק ד\"ט רי\"א לא תסוד אשה פני' במועד ומוד' ר\"י בסיד שיכול' לקפלו במועד שטופלתו במועד שאע\"ג דעכשיו היא מצירה היא שמח' לאחר זמן והובא לעיל בדברינו סי' תקמ\"ו ה\"נ אזלי' בתר הסוף דיש שמח' ואסור ומטעם זה נ\"ל דאפי' במקום דמותר ללמוד היינו שילמוד בפשוטן של דברי' אבל לא דרך פלפול ואפי' בהרהור לפ' דבר חמור אסור מטעם שיהיה לו שמחה אחר שיתיישב לו כנלע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 554:2"
+        },
+        "3": {
+          "he": "ומותר לחזור הפ'.   נראה דה\"ק דמי שרגיל לחזור הפ' באותו יום דהיינו שחל ט\"ב ביום ה' ה\"ל כסדר היום:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 554:3"
+        },
+        "4": {
+          "he": "חיה כל ל' יום.  פי' אע\"ג דבי\"כ היא לאחר ז' כשאר כ\"א כמ\"ש בסי' תרי\"ז ומ\"מ כאן לענין ט\"ב לא גזרו עליה: כ' רש\"ל בתשו' סי' נ\"ג דמיירי באמרה צריכה אני ואע\"ג דלענין שבת בסימן ש\"ל אין שומעין לה אפי' באומרת צריכה אני וכן חולה צריך אומד הכא מקילינן מאחר שהוא דרבנן אבל בלא אמרה צריכה אני אלא שמצערת אפי' כואב לה הרבה התענית אסורה מאחר שאינה חולה ע\"כ  וק\"ל דמדאמרו א\"צ אומד משמע דיש ספק אם יש סכנה דאי בודאי אין סכנה מה אומד שייך בדבר וא\"כ שיש ספק סכנה קשה דבאומרת צריכה אני מותר' אפי' בי\"כ כמ\"ש בסי' תרי\"ח חולה שצריך לאכול כו' שמא יסתכן ומאכילן על פיו כשאומר צריך אני ותו דלמה לא זכר הרמב\"ן מרי' דהאי דינא דמיירי באומרת צריכה אני ע\"כ נלע\"ד דמיירי בדלא אמרה צריכה אני ואפ\"ה בחיה אחר ז' וחולה שיש בו ספק  אותו חול' א\"צ אומד לומר שמא יש בו סכנ' דאפי' ודאי אין בו סכנ' ואפי' לא אמר צריך אני מותר בט\"ב והב\"י הביא הג\"מ שר\"ת התיר לוולדת לאכול בצ\"ג אפי' אחר שבעה ואע\"ג דאמרינן בפרק מפנין דלאחר ז' אם אמרה איני צריכה אין מחללין עליה שבת וצ\"ג מדברי קבלה ודברי קבלה כד\"ת אפ\"ה מותר כיון דרצו אין מתענין כו' אם כן רשות הוא עכ\"ל משמע דבט\"ב אסור' לאכול שלא כדברי הרמב\"ן דהא בט\"ב לא תליא ברצו כמש\"ל כיון שהוכפלו בו הצרות והוא חוב ואפש' שמ\"ה נהגו להחמיר כמ\"ש רמ\"א וכן מסקנת רש\"ל דאחר ז' אפי' אמרה צריכה אני מתענה אם לא שהי' קצת חולה וכן בתשו' מהרי\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 554:4"
+        },
+        "5": {
+          "he": "ומיהו נהגו להתענות.  נראה דזה קאי דוקא אלאח' ז' אבל תוך ג' אפי' אם אמרה איני צריכה אין לה להתענות ואסור לה להתענות שהרי מחללין עלי' שבת כמ\"ש סי' ש\"ל  וכ\"ש אחר ג' תוך ז' כשאומר' צריכה אני שאסור לה להתענות כנלע\"ד פשוט:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 554:5"
+        },
+        "6": {
+          "he": "וכן בחזרה מותר.  הטעם כדי שלא תהא מכשילו לעתיד לבוא שלא ירצה לקיים המצו':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 554:6"
+        },
+        "7": {
+          "he": "ושל עץ מחופה עור אסור.  כ\"ש שיש לאסור אותן שיש להן  בתי שוקיים של עור דהיינו גם מה שעל הרגלים של עור וגם אותן שהן של בגד רק שהשוליים של עור אסור כנלע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 554:7"
+        },
+        "8": {
+          "he": "שלא יישן בליל ט\"ב כו'  עמ\"שבסי' תרט\"ו מזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 554:8"
+        },
+        "9": {
+          "he": "מותר בכולן כו'.  דהא איתא בברייתא ומעלה על שלחנו ואינו מונע עצמו משום דבר וי\"א ס\"ל דהוה שבת זה כמו קובר מתו ברגל דנוהג ברגל דברים של צנעה ולפי זה גם כן אסור לרחוץ ידיו בחמין שג\"ז קרוי צנע' כמ\"ש המרדכי במ\"ק:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 554:9"
+        },
+        "10": {
+          "he": "וכל הרוצה לעשות עצמו כו'.  ולא מיחזי כיוהרא דהרואה אומר שאין לו שום מלאכה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 554:10"
+        },
+        "11": {
+          "he": "על עצמותם.  פירש הר\"ן דאיתא בהמפלת השותה יין אי עצמותיו שרופים מזיג עצמותיו סכוין כראוי עצמותיו משופין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 554:11"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "ונעילת הסנדל. ואסור לנעול סנדל כל היום (הגאונים) ור\"ח כ' יהא בנדוי מי שעושה א' מכל אלו כל היום (תניא וש\"ל ומהרי\"ל וב\"ח ושל\"ה) אך אותם ההולכים בין העכו\"ם ועוסקין במשא ומתן אחר חצות אותן מותרים לנעול ומהם למדו כולם להקל ויש למחות בידם:",
+          "en": "",
+          "ref": "Magen Avraham 554:1"
+        },
+        "2": {
+          "he": "ותינוקות וכו'. אפי' דברים הרעים אסור ללמוד עם התינוק דעיקר שמחת התינוק במה שיודע לקרות אף על פי שאינו מבין אבל תינוק שמבין מה שהוא אומר מותר ללמוד עמו  דברים הרעים (ב\"ח) ול\"נ דאסור ללמוד כלל עם אחרים כמ\"ש בי\"ד סי' שפ\"ד ע\"ש רק מותר ללמוד לו החורבן דאינו אלא סיפור דברים ומשבר הלב של התינוק:",
+          "en": "",
+          "ref": "Magen Avraham 554:2"
+        },
+        "3": {
+          "he": "ודברים הרעים. ונ\"ל דרעות של עכו\"ם אסור לקרות עמ\"ש סי' תקצ\"א ס\"ה:",
+          "en": "",
+          "ref": "Magen Avraham 554:3"
+        },
+        "4": {
+          "he": "ופ' אלו מגלחין. אף על גב  שיש בו כמה דיני מנודה ומוחרם מות' ללמוד דלא עדיף מאבל דדוקא באבילות המפורסם חמור ט\"ב מאבל אבל באבילות שאינו מפורסם כגון לשנות בינו לבין עצמו ט\"ב קיל טפי כמ\"ש התו' בהחולץ אבל לישא וליתן בהל' ודאי אסור (תשובת מהרי\"ל סימן רכ\"ט):",
+          "en": "",
+          "ref": "Magen Avraham 554:4"
+        },
+        "5": {
+          "he": "ע\"י הרהור. אף על גב דהרהור לאו כד\"ד כמ\"ש סי' ס\"ב שאני הכא דעיקר טעמא משום שמחה ובהרהור איכא שמחה (מהרי\"ל שם) ונ\"ל דמה\"ט אסור ללמוד איזו דרוש או קשיא ותירוץ אפי' בדברים הרעים מפני ששמח' הוא לו וגם אסור להורות הוראה אם לא לחולה הצריך עכשיו כמ\"ש בי\"ד סי' שפ\"ד ס\"ד דהוראה הוי כהרהור כמ\"ש סי' פ\"ה ואסור לדון דיני ממונות דדין היינו תורה מיהו אם אין הבע\"ד יכולין להמתין עד למחר שנחוצים לדרכם אפשר דשרי דהוי כרבים צריכים לו:",
+          "en": "",
+          "ref": "Magen Avraham 554:5"
+        },
+        "6": {
+          "he": "מותר לקרות וכו'. בפוזנא נוהגין שא\"א תהלים ושיר היחוד רק למחרתו או' של אמש ושל היום (לבוש) ובמדינ' זו נוהגין לאמרם במנח' אף על גב דאסור בת\"ת כל היום צ\"ל דס\"ל כיון שאומר' דרך בקש'  שרי לאומרו במנחה ומה\"ט מקילין בתפילין במנחה:",
+          "en": "",
+          "ref": "Magen Avraham 554:6"
+        },
+        "7": {
+          "he": "לחזור הפ'. נ\"ל דהיינו חזן הקורא מותר לו לחזו' הפ' קודם שיקרא או מיירי בט\"ב שחל בשבת דאז אפי' יחיד מותר לחזו' הפ' כמ\"ש ססי' רפ\"ה ועססי' תקנ\"ג:",
+          "en": "",
+          "ref": "Magen Avraham 554:7"
+        },
+        "8": {
+          "he": "עוברות וכו'. מי שהיה חסר דעה ונתרפא מיום אל יום מותר בבשר ויין כל ימי השבוע ולא יתענה בט\"ב (מהרי\"ל):",
+          "en": "",
+          "ref": "Magen Avraham 554:8"
+        },
+        "9": {
+          "he": "חיה כל ל'. כ' רש\"ל בתשו' יולדת בשבת ב' אב חייבת להתענות בט\"ב שנדחה דדוקא תוך ז' פטור' אבל אחר ז' אפי' אמרה צריכה אני חייבת אא\"כ חולה קצת עכ\"ל וז\"ל ד\"מ מיהו בב\"י סימן תקנ\"ט משמע דיש להתענות אחר ז' וע\"ש בש\"ע ס\"ז דמשמע דלא תתענה ובלבוש סימן תר\"ב כתב דתתענה וכ\"כ בהגמ\"נ שם והב\"ח כתב דמדינ' שרי לאכול ומ\"מ כבר נהגו להתענו' כל זמן שאין להם חולש' ונתרפאו מלידתן אף בג' צומות אחרים נהגו להחמי' עכ\"ל והיכא דנהוג נהוג מיהו בט\"ב שנדחה יש להקל עססי' תקנ\"ט ס\"ט, נוהגות קצת יולדות למנוע מבשר ויין מז' באב ואילך ונכון שבאותו היום נכנסו העכו\"ם להיכל כדאיתא בטור:",
+          "en": "",
+          "ref": "Magen Avraham 554:9"
+        },
+        "10": {
+          "he": "טבילה כו'. ותרחוץ ותחוף עט\"ב ולמוצאי ט\"ב חופפת מעט דבעינן סמוך לחפיפה טבילה (ב\"י תו') ועסי' תקנ\"א סי\"ו בהגה ובי\"ד סימן קצ\"ט ס\"ד:",
+          "en": "",
+          "ref": "Magen Avraham 554:10"
+        },
+        "11": {
+          "he": "אם היו ידיו מלוכלכות. נשים המבשלות וצריכים לרחוץ הבשר מותר (ש\"ג):",
+          "en": "",
+          "ref": "Magen Avraham 554:11"
+        },
+        "12": {
+          "he": "פני רבו. נ\"ל שהולך בחול להקביל פני רבו בשבת דבחול אין חייב להקביל פני רבו א\"נ נהי דחיובא ליכא בחול מ\"מ מצוה איכא וכ\"מ בחגיגה:",
+          "en": "",
+          "ref": "Magen Avraham 554:12"
+        },
+        "13": {
+          "he": "בחזרה מותר. דאם יהא אסור לחזור ימנע מלילך לדבר מצוה:",
+          "en": "",
+          "ref": "Magen Avraham 554:13"
+        },
+        "14": {
+          "he": "לשמור פירותיו. מפני הפסד ממון:",
+          "en": "",
+          "ref": "Magen Avraham 554:14"
+        },
+        "15": {
+          "he": "והיא מתנגבת. עד שאין בה טופח להטפיח כ\"מ בב\"ח:",
+          "en": "",
+          "ref": "Magen Avraham 554:15"
+        },
+        "16": {
+          "he": "נעילת הסנדל. כתוב בס' משפטי שמואל בתי שוקיים שמקצתן מחופין עור אסור לילך בהן עסי' קכ\"ח ס\"ה וב\"ה החמיר לילך יחף לגמרי:",
+          "en": "",
+          "ref": "Magen Avraham 554:16"
+        },
+        "17": {
+          "he": "מותרים בנעילת. נ\"ל הטעם דטורח גדול הוא לילך רחוק יחף אבל כשהולך לשדה סמוך לעיר אסור לנעול וה\"ה לבית הקברות עבי\"ד ססי' שפ\"ב אא\"כ יש טיט ורפש או בין העכו\"ם ונ\"ל דכשיושב על העגלה או רוכב צריך לחלוץ אפי' בדרך רחוק:",
+          "en": "",
+          "ref": "Magen Avraham 554:17"
+        },
+        "18": {
+          "he": "ברחוב היהודים. ואף על פי שמשכירין קצת חניות לעכו\"ם ועכו\"ם עוברים שם אסור (רש\"מ סי' י\"ט) ונ\"ל דאם הרבה עכו\"ם עוברים שם מותר:",
+          "en": "",
+          "ref": "Magen Avraham 554:18"
+        },
+        "19": {
+          "he": "עם אשתו. ואפשר שלא יגע בה כמו בי\"הכ (ד\"מ) ונ\"ל דביום יש להקל עבי\"ד סימן שמ\"ב:",
+          "en": "",
+          "ref": "Magen Avraham 554:19"
+        },
+        "20": {
+          "he": "ויש אוסרין. ומכריז השמש דברים שבצנעה נוהג (ד\"מ ומנהגים) ופסק בשל\"ה דאם נזדמנה ליל טבילתה בליל שבת זו טובלת ומשמשת דיש לסמוך על סברא הראשונה (עס\"ח):",
+          "en": "",
+          "ref": "Magen Avraham 554:20"
+        },
+        "21": {
+          "he": "אין שאלת שלום. כתוב בי\"ד סי' שפ\"ה י\"א דזה מה שאנו נותנים שלום לא מקרי שאלת שלום שבימיהם וצ\"ע דהא בטור שם מביא הירוש' שכתב בהדיא שלום עליכם וגם בגמרא אמרי' כדי שאילת תלמיד לרב שלום עליך ר' ולכן אין להקל ונ\"ל דאסור ג\"כ לשלוח דורון לחבירו דזהו בכלל שאלת שלום כמ\"ש בי\"ד שם:",
+          "en": "",
+          "ref": "Magen Avraham 554:21"
+        },
+        "22": {
+          "he": "לחבירו. (בטור איתא לחבירי') פי' ת\"ח אין נותנין שלום זה לזה אבל במרדכי כתב לחבירו משמע כל שהוא חבירו אפי' אינו ת\"ח אסור (ב\"ח) ולא ידענא מאי קאמר דודאי אסור ליתן שלום לכל אדם אך ע\"ה שאין יודעין ונותנין שלום משיבין להם בשפה רפה:",
+          "en": "",
+          "ref": "Magen Avraham 554:22"
+        },
+        "23": {
+          "he": "שלא לעשות. כדי שלא יסיחו דעתן מהאבילו' (הרע\"ב פ\"ד דפסחי') ובת\"ה פלפל למצו' טעם כמ\"ש בסמוך ונ\"ל דמטעם זה גם בלילה אסור במלאכה (דהא גם בלילה מחויב להתאבל) וכ\"כ רש\"י בפסחים דף נ\"ד ע\"ב בין השמשות שלו אסור באכילה ובמלאכה וצ\"ע דבתעני' דף י\"ג פרש\"י מהכא משמע דבליל ט' באב מותרים במלאכה ואין איסור אלא ביום ואין מפרסמין הדבר עכ\"ל ומסתימת כל הפוסקים משמע דאסור גם בלילה ול\"ד לת\"צ דהתם הטעם שיהיו פנוים ויתאספו להתפלל (ע' סימן תקע\"ה ס\"ג) ולכן מותרים בלילה דלא היו מתאספים בלילה כדאיתא בגמרא משא\"כ בט' באב שאין אסור במלאכה ותליא במנהגם שנוהגים איסור טעמם שלא יסיחו דעתם מאבילות או משום עינוי ולכן אף בלילה אסור ולכן כל מלאכה שאין בה שיהוי שרי דאין מסיח דעתו בכך כנ\"ל:",
+          "en": "",
+          "ref": "Magen Avraham 554:23"
+        },
+        "24": {
+          "he": "וכל הרוצה. ואין בו יוהרא דהרואה אומר מלאכה הוא דלית ליה עסי' תקע\"ה:",
+          "en": "",
+          "ref": "Magen Avraham 554:24"
+        },
+        "25": {
+          "he": "אם אפשר בעכו\"ם. אף על גב דהוי דבר האבד כמ\"ש סי' תקל\"ג שאני התם דאיסור מלאכה  משום שביתה הוא שרו רבנן כל מלאכת הדיוט ושאינו של טורח אבל ט\"ב משום עינוי הוא כמ\"ש רש\"י ולכן אפי' אינו של טורח ומלאכת הדיוט אסור אף בקצת פוסקים משמע דה\"נ הטעם משום איסור מלאכה הוא ולהכי אם א\"א ע\"י עכו\"ם מותר לעשותה בעצמו כמו בח\"ה (ת\"ה):",
+          "en": "",
+          "ref": "Magen Avraham 554:25"
+        },
+        "26": {
+          "he": "דבר האבד. אם יריד או שיירות באים מותר לקנות מהם ע\"י עכו\"ם וכ\"ש למכור דהוי דבר האבד כמ\"ש בי\"ד סי' ש\"פ ס\"ז לענין אבל (הגמ\"נ ומט\"מ), והרא\"ש כתב במס' תענית במשא ומתן דאיכ' פרסום החמירו טפי בט\"ב מבאבל (ועמ\"ש ס\"ב) ומ\"מ יש להקל כיון דאינו אלא מנהג:",
+          "en": "",
+          "ref": "Magen Avraham 554:26"
+        },
+        "27": {
+          "he": "כל העושה מלאכה. משמע אפי' במקום שנהגו לעשות וכ\"מ ברי\"ף ורא\"ש וטור ובקיצור פסקי הרא\"ש דילג הא דמקום שנהגו וכתב רק הא דאינו רואה סימן ברכה וא\"כ צ\"ע למה אין נזהרין בזה ומ\"מ מגמרא משמע דוקא כשקובע עצמו למלאכה ומסיח דעתו מהאבילות ע\"ש, וא\"כ אף שמותר לישא וליתן אחר חצות לא ימשוך בעסקיו כדי שלא יסיח דעתו מהאבילות:",
+          "en": "",
+          "ref": "Magen Avraham 554:27"
+        },
+        "28": {
+          "he": "על עצמותם. דבעצמות נכיר אם שתה יין חי או מזוג כדאיתא בגמרא (הר\"ן):",
+          "en": "",
+          "ref": "Magen Avraham 554:28"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "אסור.  וכל הנזכר בסעיף זה אסור כל היום עד חשיכה שהם מדינא דש\"ס וכ\"כ בשל\"ה דדוקא בישיבה על הקרקע מקילין שאינו אלא מנהג'. ור\"ח כ' יהא בנידוי מי שעושה אחד מכל אלו כל היום ושיבוש לומר דתפלת ערבית יעשה יום ללילה למיקל באיסורים תניא וש\"ל ומהרי\"ל וב\"ח ושל\"ה אך אותם ההולכים בין העכו\"ם ועוסקין במשא ומתן אחר חצות אותן מותרין לנעול ומהם למדו כולם להקל ויש למחות בידם דאסור לנעול סנדל כל היום. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 554:1"
+        },
+        "2": {
+          "he": "הרעים.  ורעות עכו\"ם אסור לקרות ועם התינוקות אסור ללמוד אפי' דברים הרעים רק מותר ללמוד לו החורבן דאינו אלא ספור דברים ומשבר הלב של תינוק מ\"א. והט\"ז מתיר ללמוד עם התינוק בדברים הרעים וכאן לא אוסר אלא הלמוד שהקטנים לומדים בסדר שלהם דהיינו חומש וגמרא ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 554:2"
+        },
+        "3": {
+          "he": "הרהור.  ונראה לי דמה\"ט אסור ללמוד איזה דרוש או קשי' או תירוץ אפי' בדברים הרעים מפני ששמחה היא לו מ\"א וט\"ז גם אסור להורות הוראה אם לא לחולה הצריך עכשיו. ואסור לדון דיני ממונות דדין היינו תורה מיהו אם אין הבע\"ד יכולין להמתין עד למחר שנחוצי' לדרכם אפשר דשרי מ\"א ועיין בפר\"ח בספר מים חיים דף א' עמוד ב':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 554:3"
+        },
+        "4": {
+          "he": "סדר.  ונוהגין לומר תהלים ושיר היחוד במנחה אע\"ג דאסור ת\"ת כל היום צריך לומר דסביר' ליה כיון שאומרים דרך בקשה שרי ומהאי טעמא מקילין בתפילין במנחה. ובפוזנ' אומרים למחרתו של היום ושל אמש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 554:4"
+        },
+        "5": {
+          "he": "הפרשה.  נ\"ל דהיינו חזן הקורא מותר לו לחזור הפרשה קודם שיקרא או מיירי בט\"ב שחל בשבת דאז אפי' יחיד מותר לחזור הפרשה כמה שכתוב ססי' רפ\"ה. ועיין סי' תקנ\"ג. מ\"א. וט\"ז כ' דה\"ק דמי שרגיל לחזור הפרשה באותו יום דהיינו שחל ט\"ב יום ה' ה\"ל כסדר היום ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 554:5"
+        },
+        "6": {
+          "he": "חולה.  חסר דעה שנתרפא מיום ליום מותר בבשר ויין כל ימי השבוע ולא יתענה בט\"ב. מהרי\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 554:6"
+        },
+        "7": {
+          "he": "להתענות.  כתב הט\"ז דזה קאי דוקא אלאחר שבעה אבל תוך ג' אפי' אמרה אינה צריכה אין לה להתענות ואסור לה להתענות שהרי מחללין עליה שבת כמ\"ש סימן ש\"ל וכ\"ש אחר ג' תוך שבעה כשאומרת צריכה אני שאסור לה להתענות ואחר שבעה אפי' אמרה צריכה אני מתענה אם לא שהיא קצת חולה וכן הסכמת מהרש\"ל ומהרי\"ל וע' סי' תרי\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 554:7"
+        },
+        "8": {
+          "he": "טבילה וכו'.  ותרחוץ ותחוף ערב תשעה באב ולמוצאי תשעה באב חופפת מעט דבעי סמוך לחפיפה טבילה ותטבול ב\"י ועסי' תקנ\"א סי\"ו בהג\"ה ובי\"ד סי' קצ\"ט סעי' ד':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 554:8"
+        },
+        "9": {
+          "he": "מלוכלכות.  ונשים המבשלות בט\"ב וצריכים לרחוץ הבשר אין חשש משום רחיצה ש\"ג. נוהגין קצת יולדות למנוע מבשר ויין מז' באב ואילך ונכון שבאותו יום נכנסו העכו\"ם להיכל כדאיתא בטור. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 554:9"
+        },
+        "10": {
+          "he": "מתנגבת.  עד שאין בה טופח ע\"מ להטפיח. ב\"ח מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 554:10"
+        },
+        "11": {
+          "he": "אסור.  כתב הט\"ז כ\"ש שיש לאסור לאותן שיש להם בתי שוקיים של עור דהיינו גם מה שעל הרגלים של עור וגם אותן שהן של בגד רק שהשוליים של עור אסור עכ\"ל: וב\"ח מחמיר לילך יחף לגמרי מ\"א. ואע\"פ שאסור בט\"ב בנעילת הסנדל מ\"מ מברכין שעשה לי כל צרכי והאר\"י ז\"ל פסק שלא לברך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 554:11"
+        },
+        "12": {
+          "he": "בדרך.  הטעם דטורח גדול הוא לילך דרך רחוק יחף אבל כשהולך לשדה סמוך לעיר אסור לנעול וה\"ה לבית הקברות אא\"כ יש טיט ורפש או בין העכו\"ם ונ\"ל דכשיושב על העגלה או רוכב צריך לחלוץ אפי' בדרך רחוק מ\"א. וכתב עט\"ז דבכל מקום שצריך מנעלים יתן עפר במנעלים ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 554:12"
+        },
+        "13": {
+          "he": "היהודים.  ונ\"ל דאם הרבה עכו\"ם עוברים שם מותר. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 554:13"
+        },
+        "14": {
+          "he": "משום.  ועסי' תרט\"ו דאסור ליגע באשתו כאילו היא נדה ואפשר דה\"ה בט\"ב ד\"מ. ונ\"ל דביום יש להקל. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 554:14"
+        },
+        "15": {
+          "he": "וכן נוהגין.  ומכריז השמש דברים שבצנעה נוהג ד\"מ ומנהגים. ופסק בשל\"ה דאם נזדמנה ליל טבילתה בליל שבת זו טובלת ומשמשת דיש לסמוך על סברה הראשונה וכן דעת כל הגדולי' וכ\"כ המ\"א דלא כא\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 554:15"
+        },
+        "16": {
+          "he": "שלום.  כתוב בי\"ד סי' שפ\"ה י\"א דזה מה שאנו נותנים שלום ל\"מ שאלת שלום שבימיהם ע\"ש והמ\"א חולק וכתב דאין להקל ונ\"ל דאסור ג\"כ לשלוח דורון לחבירו דזה בכלל שאלת שלום. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 554:16"
+        },
+        "17": {
+          "he": "אין עושין.  כדי שלא יסיחו דעתן מהאבילות ומטעם זה גם בלילה אסור במלאכ' דהא גם בלילה מחויב להתאבל מיהו כל מלאכה שאין בה שיהוי שרי דאין מסיח דעתו בכך. מ\"א ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 554:17"
+        },
+        "18": {
+          "he": "בעכו\"ם.  ואם א\"א ע\"י עכו\"ם מותר לעשותה בעצמו כמו בחה\"מ ועססי' תקל\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 554:18"
+        },
+        "19": {
+          "he": "האבד.  אם יריד או שיירות באים מותר לקנות מהם ע\"י עכו\"ם וכ\"ש למכור דהוי דבר האבוד כמ\"ש בי\"ד סי' ש\"פ סעיף ז' לענין אבל וע' מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 554:19"
+        },
+        "20": {
+          "he": "מלאכה.  אפי' במקום שנהגו לעשות מ\"א ע\"ש. ובכתיבה מותר בט\"ב. שכנה\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 554:20"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) אסור ברחיצה וכו' ואסור לקרות בתורה וכו' - ואסור בכל אלו הדברים כל היום ואפילו בין השמשות עד צאת הכוכבים ואין מועיל לזה מה שיתפלל מעריב מקודם אך אותן ההולכים בין הנכרים ועוסקים במשא ומתן אחר חצות אותן מותרין לנעול [ועיין לקמן בסי\"ז בהג\"ה ובמ\"ב] ומהם למדו כולם להקל ויש למחות בידם:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:1"
+        },
+        "2": {
+          "he": "(ב) הרעים - ורעות עכו\"ם אסור לקרות. ועם התינוקות אסור ללמוד אף דברים הרעים רק מותר ללמוד לו החורבן דאינו אלא סיפור דברים ומשבר לב התינוק ויש מאחרונים שסוברין דמותר ללמוד עם התינוק בדברים הרעים וכאן לא אסר אלא הלימוד שהקטנים לומדים בסדר שלהם דהיינו חומש וגמרא:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:2"
+        },
+        "3": {
+          "he": "(ג) איכה - וכן אגדת החורבן בפרק הניזקין ובפרק חלק ולקרות בחורבן הנזכר ביוסיפון מותר [לבוש]:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:3"
+        },
+        "4": {
+          "he": "(ד) מגלחין - אע\"ג דיש בו גם כמה דיני מנודה ומוחרם מ\"מ מותר ללמוד אבל לישא וליתן בהלכה בודאי אסור [מ\"א בשם מהרי\"ל] וכעין זה כתב ג\"כ הט\"ז דאפילו במקום דמותר ללמוד היינו שילמוד בפשוטן של דברים אבל לא דרך פלפול. ואפילו בהרהור לפרש דבר חמור אסור מטעם שיהיה לו שמחה אחר שיתיישב לו:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:4"
+        },
+        "5": {
+          "he": "(ה) ע\"י הרהור - אף דהרהור לאו כדבור דמי שאני הכא דעיקר טעמא משום שמחה ובהרהור איכא שמחה ומה\"ט אסור ללמוד איזה דרוש או קשיא או תירוץ אפילו בדברים הרעים מפני ששמחה היא לו. ואסור להורות הוראה אם לא לחולה הצריך עכשיו ואסור לדון דיני ממונות דדין היינו תורה מיהו אם אין הבע\"ד יכולים להמתין עד למחר שנחוצים לדרכם אפשר דשרי דהוי כרבים צריכים לו [אחרונים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:5"
+        },
+        "6": {
+          "he": "(ו) ומותר לקרות כל סדר היום - דהיינו ק\"ש וברכותיה וכל מה ששייך לברכת התפלה:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:6"
+        },
+        "7": {
+          "he": "(ז) ופרשת הקרבנות ומשנת וכו' - דלא גרע כל זה ממה שקורין בתורה ומפטירין בנביא והכל מפני שהוא סדר היום ונוהגין לומר תהלים ושיר היחוד במנחה אע\"ג דאסור בת\"ת כל היום צ\"ל דס\"ל כיון שהוא דרך בקשה שרי ובפוזנא נוהגין לומר למחרתו של אמש ושל היום וכן נכון ומעמדות בודאי אין לומר ועיין לקמן סימן תקנ\"ט ס\"ד דאין לומר פטום הקטורת שאינו מסדר היום וכ\"ש שאין לומר סדר הקרבנות הכתוב בסוף סי' א' ומה שכתוב בשו\"ע ופרשת הקרבנות היינו פרשת התמיד:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:7"
+        },
+        "8": {
+          "he": "(ח) ומותר לחזור הפרשה בט\"ב - היינו חזן הקורא מותר לו לחזור הפרשה קודם שיקרא והיינו אפילו במנחה דאלו בשחרית פרשה כי תוליד פשיטא דמעין המאורע היא:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:8"
+        },
+        "9": {
+          "he": "(ט) חיה כל שלשים יום - דמסתמא אמרינן שהיא חלושה והויא כחולה שאין בו סכנה וע\"כ אף דלענין יוה\"כ היא לאחר זיי\"ן כשאר כל אדם כמש\"כ בסימן תרי\"ז כאן לענין ט\"ב שהוא דרבנן לא גזרו במקום חולי ועיין בט\"ז ובשארי אחרונים דאפילו ודאי אין בה סכנה וכן בחולי הכתוב לקמיה ואפילו לא אמרו צריכין אנו לאכול מותר בט\"ב ואף שמהרש\"ל חולק על עיקר הכרעת השו\"ע ודעתו דלענין זה שוה ט\"ב ליוה\"כ דאפילו אמרה צריכה אני לאכול כיון שהוא לאחר זיי\"ן חייבת להתענות אם לא שהיא ג\"כ קצת חולה הרבה אחרונים הסכימו דמדינא שרי לאכול אכן כבר נהגו להתענות כמו שכתב הרמ\"א כ\"ז שאין להם חולשה ונתרפאו מלידתן אבל אם עדיין לא נתרפאה לגמרי או שהיא קצת חולה או חלושה בטבעה לא תתענה בתוך ל' ואם אירע ביולדת בריאה שמתענה ומרגשת באמצע היום שום חולשה יתירה יש לפסוק שלא תתענה בשארית היום [אחרונים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:9"
+        },
+        "10": {
+          "he": "(י) חולה - חסר דעה שנתרפא מיום ליום מותר בבשר ויין כל ימי השבוע ולא יתענה בט\"ב [מהרי\"ל]:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:10"
+        },
+        "11": {
+          "he": "(יא) שהוא צריך לאכול וכו' - ר\"ל שהוא חלוש וחש בגופו אע\"פ שאין בו סכנה מאכילין אותו:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:11"
+        },
+        "12": {
+          "he": "(יב) אין צריכין אומד - כצ\"ל. ואתרוייהו קאי וכן איתא בתורת האדם ובר\"ן והכונה דא\"צ לאמוד ולשער אם תבא לידי סכנה עי\"ז שתתענה דאפילו אם אין בה סכנה כיון שהיא בכלל חולה א\"צ להתענות. ועיין בליקוטי פר\"ח שכתב דר\"ל דמסתמא מאכילין אותה אבל אם קים לה להיולדת בגווה דמצית להתענות דהיינו שראתה עצמה בריאה אז מחויבת להתענות:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:12"
+        },
+        "13": {
+          "he": "(יג) ומיהו נוהגין להתענות וכו' - היינו אפילו אמרה צריכה אני לאכול ודוקא אחר שבעה אבל תוך שבעה אפילו אמרה אינו צריכה אין לה להתענות וכ\"ש תוך ג' דבודאי אסור לה להתענות:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:13"
+        },
+        "14": {
+          "he": "(יד) כל זמן שאין להם צער גדול וכו' - וה\"ה אם היא קצת חולה וכנ\"ל בסק\"ט ואפילו לא אמרה צריכה אני. ועיין במ\"א שכתב דאפילו במקום שנוהגין להחמיר בט\"ב שנדחה יש להקל שלא תתענה. ועיין בא\"ר שכתב דאפילו יולדת שאינה מתענה תתענה איזה שעות אכן אם גם זה קשה לה לא תתענה כלל:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:14"
+        },
+        "15": {
+          "he": "(טו) שהיה לחוש לסכנה - ובאופן זה אסור לה להתענות:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:15"
+        },
+        "16": {
+          "he": "(טז) והמיקל לא הפסיד - ומכ\"ש באדם חלוש והוא חולה שאין בו סכנה אין כדאי להחמיר [ח\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:16"
+        },
+        "17": {
+          "he": "(יז) אבל בזמן הזה - ר\"ל שנהגו הנשים לישב על טיפת דם שבעה נקיים דוקא ממילא אין הטבילה בזמנה ולמה תטבול דהרי מצות עונה לא יוכל לקיים בט\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:17"
+        },
+        "18": {
+          "he": "(יח) לא תטבול בו - אלא תרחוץ ותחוף עט\"ב ולמוצאי ט\"ב חופפת מעט קודם הטבילה דבעינן סמוך לחפיפה טבילה ולענין לבישת לבנים ט\"ב עיין לעיל בסימן תקנ\"א ס\"ג בהג\"ה ובמ\"ב שם:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:18"
+        },
+        "19": {
+          "he": "(יט) מותר לרחוץ להעביר וכו' - דאינו אסור אלא רחיצה של תענוג ומטעם זה נשים המבשלות וצריכות לרחוץ הבשר אף דממילא רוחצת גם ידיה מותר:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:19"
+        },
+        "20": {
+          "he": "(כ) ועיין לקמן סי' תרי\"ג ס\"ג - וע\"ש במ\"ב מה שהעתקנו בשם האחרונים בזה ושייך גם לכאן:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:20"
+        },
+        "21": {
+          "he": "(כא) נוטל אדם ידיו שחרית - משום רוח רעה השורה על הידים דהו\"ל כמלוכלך בטיט ובצואה דמותר כ\"כ הב\"י בסי' תרי\"ג וע\"ש בביאור הגר\"א שמפקפק על דין זה ולכן נ\"ל שלא יברך ענט\"י בשחרית אחר הנטילה רק אחר שעשה צרכיו יטול ידיו עד סוף קשרי אצבעותיו ואז יברך ענט\"י משום תפלה ועיין בספר מטה יהודא שכתב דמותר לרחוץ ידיו אף לתפלת המנחה דהוי כמקבל פני השכינה וכטבילת מצוה שהתירו:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:21"
+        },
+        "22": {
+          "he": "(כב) ומעבירה על עיניו - וה\"ה על פניו ידיו ורגליו כיון דאין בה טופח ע\"מ להטפיח וכ\"ז דוקא בדרך העברה אבל לרחצם בהדיא לא. מי שהוא איסטניס וצריך לקנח פניו במים ואין דעתו מיושבת עליו כל היום עד שיקנח במים יקנח אבל שאר כל אדם אסור:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:22"
+        },
+        "23": {
+          "he": "(כג) פני רבו וכו' - אפילו בחול דאף דחיובא ליכא להקביל פניו בחול מ\"מ מצוה איכא שמא ישמע ממנו איזה ד\"ת. ודוקא תלמיד ההולך אצל הרב אבל לילך הרב אצל תלמיד לא התירו לעבור במים שאם יצטרך לו תלמידו ילך הוא אצל רבו וכן בששניהן שוין ג\"כ אסור:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:23"
+        },
+        "24": {
+          "he": "(כד) וכן בחזרה מותר - דאם יהא אסור לחזור ימנע מלילך לדבר מצוה:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:24"
+        },
+        "25": {
+          "he": "(כה) לשמור פירותיו - והתירו בזה מפני הפסד ממון וע\"כ בחזרה דליכא בזה משום הפסד אסור:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:25"
+        },
+        "26": {
+          "he": "(כו) כהות וכו' - היינו שהיו עייפים מחמת טורח הדרך מותר שאין זה מחמת תענוג אלא לרפואה לחזקם:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:26"
+        },
+        "27": {
+          "he": "(כז) והיא מתנגבת - עד שאין בה טופח ע\"מ להטפיח הא לא\"ה אסור:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:27"
+        },
+        "28": {
+          "he": "(כח) סיכה וכו' - סיכה מיקרי בדבר שדרכו לסוך בו כגון בשמן או בחלב בבורית וכה\"ג:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:28"
+        },
+        "29": {
+          "he": "(כט) אינה אסורה אלא וכו' - ואסור אפילו לסוך אבר אחד כדלקמן בסימן תרי\"ד גבי יוה\"כ. כלה אחר נשואיה כל שלשים יום מותר לרחוץ פניה וכן לסוך כדי שלא תתגנה על בעלה:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:29"
+        },
+        "30": {
+          "he": "(ל) אבל של בגד או של עץ וכו' - ר\"ל אע\"ג דמגין על רגלו וגם עשוי בצורת מנעל ממש שרי דלא נקרא מנעל אלא של עור:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:30"
+        },
+        "31": {
+          "he": "(לא) ושל עץ מחופה עור - מלמעלה ואף דהשולים הם ג\"כ של עץ מ\"מ אסור. וה\"ה אם היה של בגד ומחופה בעור מלמעלה או השולים הם של עור אסור ועיין בשע\"ת [אחרונים]. והנה אע\"פ שאסור בט\"ב וביוה\"כ בנעילת הסנדל מ\"מ הסכימו הרבה אחרונים שיוכל לברך ברכת שעשה לי כל צרכי:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:31"
+        },
+        "32": {
+          "he": "(לב) בדרך - כתב המ\"א הטעם דטורח גדול הוא לילך יחף דרך רחוק אבל כשהולך לשדה סמוך לעיר אסור לנעול וה\"ה לבית הקברות אא\"כ יש טיט ורפש או בין העכו\"מ ולפ\"ז כשיושב על העגלה או רוכב צריך לחלוץ אף בדרך רחוק:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:32"
+        },
+        "33": {
+          "he": "(לג) מותרים בנעילת הסנדל - וטוב שאז יתן עפר במנעלים:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:33"
+        },
+        "34": {
+          "he": "(לד) לא יחלוץ וכו' - משום העכו\"מ שמלעיגים עלינו:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:34"
+        },
+        "35": {
+          "he": "(לה) כ\"א ברחוב היהודים - כתב המ\"א נ\"ל דאם הרבה עכו\"מ עוברים שם מותר וא\"ר צידד להחמיר לענין רחוב היהודים אף באופן זה דהבו דלא להוסיף על המנהג. ובעוה\"ר הרבה מהמון מקילין באיסור נעילת הסנדל כל היום אף כשיושבין בביתם ועוון גדול הוא דאף כשנקיל בזה בעת שהולך ברחוב שמצוי שם עכו\"ם מ\"מ תיכף כשבא לביתו מחוייב לחלוץ אותם ועיין לעיל במ\"ב סק\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:35"
+        },
+        "36": {
+          "he": "(לו) וכן נהגו - כתב הח\"א ההולכים בין העכו\"מ ונוהגין ללבוש המנעלים אף שאין למחות בידם שיש גדולים המתירים מ\"מ אין לזה טעם דמה בכך שילעיגו עלינו בלא\"ה מלעיגים עלינו ומ\"מ אותן היושבים בחנות ודאי אסורים דאיך ידעו הנכרים אם ילכו בלא מנעלים:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:36"
+        },
+        "37": {
+          "he": "(לז) ונכון הדבר - ועיין לקמן סי' תרט\"ו דאסור ליגע באשתו כאלו היא נדה ואפשר דה\"ה בט\"ב [כ\"כ הד\"מ] ומ\"מ ביום יש להקל [מ\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:37"
+        },
+        "38": {
+          "he": "(לח) אמרינן לנזירא - סחור סחור לכרמא לא תקרב:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:38"
+        },
+        "39": {
+          "he": "(לט) מותר בכולן אפילו וכו' - דהא איתא בברייתא ומעלה על שולחנו ואינו מונע עצמו משום דבר והיש אוסרים ס\"ל דהוי שבת זו כקובר מתו ברגל דנוהג ברגל דברים שבצנעא ולפ\"ז אסור ג\"כ לרחוץ ידיו בחמין שגם זה קרוי צנעא:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:39"
+        },
+        "40": {
+          "he": "(מ) וכן נוהגין - ומכריז השמש דברים שבצנעא נוהג. אכן אם אירע ליל טבילתה בשבת זו הביא המ\"א בשם השל\"ה דיש לסמוך בזה על דעה הראשונה וטובלת ומשמשת ויש מחמירין גם בזה ועיין בח\"א שכתב דכיון דבליל טבילה הוא מצות עונה יש לסמוך בזה על המתירין והרמ\"א שכתב דנוהגין לאיסור היינו במקום שאין כאן מצות עונה משא\"כ בליל טבילה ע\"ש בנ\"א ועיין בביאור הגר\"א דמשמע מניה ג\"כ דהוא מצדד להלכה כדעת המחבר וא\"כ יש לסמוך להקל עכ\"פ בליל טבילה:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:40"
+        },
+        "41": {
+          "he": "(מא) אין שאלת שלום וכו' - וה\"ה לומר לו צפרא טבא נמי אסור. וה\"ה לשלוח דורון לחבירו בט\"ב אסור [אחרונים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:41"
+        },
+        "42": {
+          "he": "(מב) לחבירו בט\"ב - ולע\"ה טוב שיודיע לו שהיום אסור ליתן שלום ולא יהיה לו איבה עבור זה עליו:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:42"
+        },
+        "43": {
+          "he": "(מג) אין עושין - כדי שלא יסיחו דעתם מהאבלות ומטעם זה גם בלילה אסור במלאכה דהא גם בלילה מחוייב להתאבל מיהו כל מלאכה שאין בה שיהוי שרי דאין מסיח דעתו בכך:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:43"
+        },
+        "44": {
+          "he": "(מד) עושה - ולא מיחזי כיוהרא דהרואה אומר דמניעתו ממלאכה הוא מפני שלא נזדמן לו מה לעשות:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:44"
+        },
+        "45": {
+          "he": "(מה) ואפילו במקום שנהגו שלא לעשות - כגון במדינתינו:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:45"
+        },
+        "46": {
+          "he": "(מו) מותר ע\"י עכו\"מ - אכן לבנות בנין דאוושא מילתא אסור אפילו ע\"י עכו\"מ:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:46"
+        },
+        "47": {
+          "he": "(מז) אם אפשר בנכרי - ואם א\"א בנכרי מותר לעשותה בעצמו כמו בחוה\"מ [מ\"א] ועיין בביאור הגר\"א שמצדד להקל תמיד ע\"י ישראל בעצמו:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:47"
+        },
+        "48": {
+          "he": "(מח) דבר האבד מותר - אם יריד או שיירות באים מותר לקנות מהם ע\"י עכו\"מ [אבל לא ע\"י עצמו דמסיח דעתו מאבילות] אפילו קודם חצות וכ\"ש למכור דהוי דבר האבד כמש\"כ ביו\"ד סימן ש\"פ ס\"ז לענין אבל:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:48"
+        },
+        "49": {
+          "he": "(מט) כל העושה מלאכה וכו' - היינו אפילו במקום שנהגו לעשות ואפילו לאחר חצות ומשמע מגמרא דוקא כשקובע עצמו למלאכה ומסיח דעתו מהאבילות. וע\"כ אף שמותר לישא וליתן אחר חצות לא ימשוך בעסקיו כדי שלא יסיח דעתו מן האבילות:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:49"
+        },
+        "50": {
+          "he": "(נ) מאותה מלאכה - כלומר מאותן מעות שמרויח מאותה מלאכה:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:50"
+        },
+        "51": {
+          "he": "(נא) כל האוכל ושותה וכו' - אפילו מעוברת או מניקה או שארי אנשים שהם חלושים בטבען ומצטערים מהתענית [אם לא מי שהוא חולה באמת וכדלעיל בס\"ו וע\"ש בהג\"ה] וכדאי הוא בית אלהינו להצטער על חורבנו עכ\"פ יום אחד בשנה:",
+          "en": "",
+          "ref": "Mishnah Berurah 554:51"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

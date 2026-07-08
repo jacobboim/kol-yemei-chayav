@@ -1,0 +1,297 @@
+{
+  "chelek": "OC",
+  "siman": 550,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 4,
+  "fetchedAt": "2026-07-07T23:49:32.607Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "הבדל שיש בין ט' באב ליתר צומות. ובו ד סעיפים:הכל חייבים להתענות ארבע צומות הללו ואסור לפרוץ גדר: הגה מיהו עוברות ומיניקות שמצטערות הרבה אין להתענות (הגהות מיימוני והמגיד פ\"ה) ואפי' אינן מצטערות אין מחוייבות להתענות אלא שנהגו להחמיר ודוקא בג' צומות אבל בט' באב מחויבות להשלים (כדלקמן סי' תקנ\"ד סעיף ה'):",
+      "en": "The (legal) distinction that there is between Tisha B'av to the other fasts, and in it there are 4 paragraphs.  All are obligated to fast on these Four fasts, and it is forbidden to break the fence (i.e. not fast)  Rema: However, those who are pregnant or nursing that are very distressed, do not fast [Hagaos Maimoni and the Maggid Chapter 5]. And even if they (the above) are not distressed, they are not obligated to fast, rather customarily they are strict. (This lack of obligation for those in a lack of distress) is specifically on the 3 fasts, but Tisha B'av, they are obligated to complete (the fast) [like that brought in Siman 554 Paragraph 5]",
+      "ref": "Shulchan Arukh, Orach Chayim 550:1"
+    },
+    {
+      "seif": 2,
+      "he": "צומות הללו חוץ מט' באב מותרים ברחיצה וסיכה ונעיל' הסנדל ותשמיש המטה ואין צריך להפסיק בהם מבעוד יום:",
+      "en": "These fast except for Tisha B'av one is allowed to wash, anoint, wear shoes, and have marital relations. And it is unnecessary to stop (from eating) when it is still day (in the case the 3 fasts when it is still night and the fast has not started yet).",
+      "ref": "Shulchan Arukh, Orach Chayim 550:2"
+    },
+    {
+      "seif": 3,
+      "he": "כל ד' צומות הללו אם חלו להיו' בשבת נדחין לאחר השבת: הגה ואם חלו בע\"ש קורים בשחרית ומנחה ויחל (ב\"י) ואם יש חופה ביום התענית בערב שבת נוהגין להתפלל מנחה ולקרות ויחל ואח\"כ עושין החופה: (וע\"ל סי' רמ\"ט סעיף ד' אם משלימין התענית):",
+      "en": "3. All four fast if they fall on Shabbos, they are pushed to after Shabbos.   Rema: If they fall on the eve of Shabbos, we read in the morning and afternoon prayers the parsha of Vyachel (Exodus 32:11 and on) [Bais Yosef] If there is a wedding on the day of the fast on the eve of Shabbos, the custom is pray the afternoon prayers and read Vyachel and then afterwards do the Chuppah ceremony [see Siman 249 Paragraph 4 if one completes the fast].",
+      "ref": "Shulchan Arukh, Orach Chayim 550:3"
+    },
+    {
+      "seif": 4,
+      "he": "בשבת קודם לצום מכריז שליח צבור הצום חוץ מט\"ב וצום כפור וצום פורים וסימנך אכ\"ף עליו פיהו (ומנהג האשכנזים שלא להכריז שום אחד מהם) :",
+      "en": "4. On Shabbos before a fast, a Community Representative (Shaliach Tzibur) announces the fast except for Tisha B'av, Yom Kippur, and the Fast of Purim (Taanis Esther). The remainder is forces (אכ\"ף - Aleph - tisHA bav Kof - yom KIppur Geh - Purim)  on him his mouth. (see Proverbs 16:26)  Parentheses the custom of Ashkenazim is not to announce even one of them (of the fasts).",
+      "ref": "Shulchan Arukh, Orach Chayim 550:4"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "רמב\"ן בספר תורת האדם טור וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 550:1"
+        },
+        "2": {
+          "he": "תו' בספ\"ק דתענית וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 550:2"
+        },
+        "3": {
+          "he": "משנה מגילה ה' וכפי' רש\"י שם וכ\"כ רמב\"ם בפ\"ה מהלכות תענית",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 550:3"
+        },
+        "4": {
+          "he": "אבודרהם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 550:4"
+        },
+        "5": {
+          "he": "דין עוברות ומניקות בצומות בסימן תקנ\"ד ותרי\"ו ותרי\"ז:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 550:5"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "ואסור עיין מ״א ועב״י ומ״מ פ״ה דתענית חובה עלינו להתענות והיינו מאחר שנהגו אבותינו כך אסור לנו לשנות ועסי׳ תצ״ו ופר״ח שם. ומקילין בעוברות ומניקות שכן קבלו עליהם ברצו כן להקל בג׳ צומות ולא בט״ב:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 550:1"
+        },
+        "2": {
+          "he": "שנהגו עמ״א הקשה מתקע״ה דעוברות פטורות התם ואם רצו אסורין להחמיר ותי׳ דד׳ צומות מדינא היו עוברות אף מצטערות הרבה כל שאין סכנה מחוייבים להתענות רק עתה תליא ברצו כו׳ וקבלו מנהג בט״ב כמקודם ומתענות עוברות כבסי׳ תקנ״ד ס״ה ובג׳ צומות נהגו כמקדם באין מצטערות להתענות אבל לא במצטערות וא״ש ותינוקות עא״ר ז׳ דנוהגין בת יב״ש ויום א׳ ותינוק יג״ש וי״א אז מתענין לא קודם לכן ואף שלא הביאו ב״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 550:2"
+        },
+        "3": {
+          "he": "מותרים עמ״א ועט״ז רבי רחץ כו׳ והשתא בעו״ה יש ג״כ גזירות ע׳ טור בזה ובעל נפש יחמיר חוץ מנעילת הסנדל כו׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 550:3"
+        },
+        "4": {
+          "he": "כל עמ״א ל״ד כולם ועב״י בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 550:4"
+        },
+        "5": {
+          "he": "חלו בע״ש עמ״א ועב״י בשם הרד״א:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 550:5"
+        },
+        "6": {
+          "he": "קורים עמ״א חופה בת״צ כו׳ ונדחה יכול החתן לשתות מכוס ברכה עסי׳ תקמ״ט בט״ז ותקנ״ט ס״ט יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 550:6"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "פריך בגמרא ר״ה דף ח״י ב׳ יע״ש וע׳ בעין יעקב במהרש״א האמת והשלום אהבו יהיה ששון הא בית שני נחרב בש״ח יהיה אח״כ צום וברי״ף דהיל״ל יום הצום דמשמע דצום גופא יהיה ששון והנה י״ל לימות המשיח ניבא דהצומות והצוות יקבלו שכר ע״ז ע״ד שמחנו כימות עניתנו: מותרים עט״ז ועב״י וב״ח בזה ועמ״א בשם של״ה בעל נפש יחמיר לבד חליצת המנעל ורחיצה היינו חמין אבל צונן י״ל דשרי בג׳ צומות עסי׳ תקע״ה ס״ג בת״צ בא״י וה״ה פניו ידיו ורגליו בחמין י״ל דשרי ועסי׳ תקנ״א סי״ו בהג״ה מר״ח ואילך אסור בצונן הא י״ז בתמוז וכן צ״ג וי׳ טבת מותר בצונן ואי״ה שם יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 550:1"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] עוברת וכו'. עיין סימן תרפ\"ו סעיף ב' שיפרעו יום אחר (מלבושי יום טוב):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 550:1"
+        },
+        "2": {
+          "he": "[ב] ברחיצה וכו'. ועכשיו המנהג ברחיצה לאיסור (ב\"ח) מפני כבוד שבת מותר ואיזה יחיד שמרגיש בעצמו שיוכל לעמוד בזה טוב לו שיפסיק באכילה מבעוד יום בכל ארבע צומות (של\"ה דף קל\"ט), ובשאר דברים כתב של\"ה דבעל נפש יחמיר כמו בתשעה באב חוץ מחליצת מנעל שלא יהא כחוכא וטלולא, עד כאן, ומכל מקום בליל טבילה לא יפרוש מאשתו. הקשה ט\"ז בתוס' מגילה דף ה' ד\"ה ורחץ כו' דילמא לא רצו וכו' ומכל מקום רחיצה מותר בדינא, ועיין שם בתירוצו, ולעניות דעתי דאם כן נלמוד מרבי דמחויב להתענות כיון דרק רחץ ולא אכל לכן תירצו תוס' דמסתמא קיבלוהו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 550:2"
+        },
+        "3": {
+          "he": "[ג] אם חלו בשבת וכו'. חוץ מעשרה בטבת שאינו חל לעולם בשבת ואפילו היה חל לא היו יכולין לדחותו ליום ראשון מפני שנאמר בו בעצם היום הזה כמו ביום כיפור (אבודרהם), וכתב הבית יוסף ולא ידעתי מנין לו זה ובכנסת הגדולה כתב דבספר תקון יש שכר כתב בשם תשובת הגאונים כאבודרהם ועיין ס\"ק שאחר זה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 550:3"
+        },
+        "4": {
+          "he": "[ד] ואם חלו בערב שבת וכו'. היינו עשרה בטבת לאפוקי שאר צומות אין חלין לעולם (עולת שבת ובית יוסף). דין חופה עיין סימן תקנ\"ט ס\"ק:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 550:4"
+        },
+        "5": {
+          "he": "[ה] [לבוש] דאקדומי וכו'. במשנה דמגילה דף ה' תשעה באב מאחרין ולא מקדימין ובגמרא מאי טעמא אקדומי פורענתא וכו', והקשיתי ללומדים מנא ליה לגמרא טעם זה הא בתענית דף כ\"ט בתשעה באב סמוך לחשיכה הציתו את האור והדליק כל היום כולו והיינו דאמר ר' יוחנן אלמלא הייתי התם וכו' ופריך ורבנן ומשני אתחולי פורענת עדיפא. ואם כן תשעה באב שחל בשבת דאי אפשר לעשות בתחילה עבדינן ביום ראשון בעשירי ואפשר דמשמע לש\"ס דהוא הדין י\"ז בתמוז ועשרה בטבת כדפירש רש\"י שם דאם לא כן ליחשביה מתניתין דמקדימין ולכך צריך לומר הטעם דאקדומי וכו' וצריך עיון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 550:5"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "פריך  בגמרא קרי להו צום וקרי להו ששון ומשני רבא בזמן דאיכא שלום דהיינו שב\"ה קיים ששון יש שמד צום כו' ק' מאי פריך הא ודאי דה\"ק מה שהיה צום  קודם גאולה שני' יהיה לששון אחר הגאולה ונרא' דהכי קשיא ליה דהל\"ל צום הרביעי כו' יהפך לששון כו' כמו שאמר הכתוב ויהפוך ה' אלהיך הקללה לברכה  וכן בפיוט תהפוך לרווח' צום הרביעי לשמחה ומדקאמר קרא יהיה לששון משמע דהצום לא יבטל לגמרי אלא שיהיה לששון וזה א\"א וע\"כ תירץ דחילוק זמן יש ביניהם ושניהם קיימים והב\"י תי' דהכי פריך דלא הל\"ל צום הרביעי אנא החודש הרביעי כמ\"ש בשאלה האבכה בחודש החמישי כו' אלא ודאי דשם צום ישאר ג\"כ:   (א)  מותרים ברחיצה.  קשה לי ממ\"ש פ\"ק דמגילה דף ה' ר' רחץ בקרונה של צפורי בי\"ז בתמוז וכתבו התו' וא\"ת מאי אירי' לרחוץ אפי' לאכול נמי מותר כדתניא אין סכנה ואין שלום רצו לא מתענין וי\"ל כיון דכבר קבלוהו אבותינו על עצמם מסתמא גם הם קבלוהו עכ\"ל ולפי מ\"ש כאן דאין איסור רחיצה בד' צומות מאי רבותא דר' בי\"ז בתמוז וא\"ל דאה\"נ דממעשה דר' אנו לומדים היתר רחיצה ואין אסור אלא באכילה א\"כ  מאי מקשי' התו' הא לאכול נמי שרי אם רצו דלמא באמת לא רצו לבטל התענית אלא באמת התענו כדין ורחץ כדין וי\"ל ע\"פ מ\"ש ב\"י בשם הרמב\"ן דכולהו ד' צומות גזרו עליהם תחלה כל החומרות אלא דהאידנא כיון דנהגו להתענות בהן ולא נהגו בחומרות הללו משמע דמעיקרא כך רצו להתענו' בלבד אבל לא רצו לנהוג באותן חומרות וכיון דהני ברצון תלוי הרשות בידם אבל מעיקר התקנה ודאי אסורים בכולן עכ\"ל ומ\"ה ניחא ההיא דר' דהעולם היו תופסין החומרא  בכל הני מילי כמו באכילה ובא ר' והתיר הרחיצה ממילא בטלה הגזירה אף לענין אכילה וע\"כ הקשו התו' דא\"כ הי' לר' לאכול להורות דבטלה הגזירה לגמרי ותירצו דאה\"נ דבטלה לגמרי אלא שהוא קיבל עליו מעצמו איסור אכילה ולא איסור רחיצה כמו שקבלו אבותינו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 550:1"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "ואסור לפרוץ גדר. פי' אף על גב דמדינא בזמן שאין סכנה אין חייבי' להתענות אלא בט\"ב מ\"מ כיון שנהגו להתענות כלם אסור לפרוץ גדר:",
+          "en": "",
+          "ref": "Magen Avraham 550:1"
+        },
+        "2": {
+          "he": "שנהגו להחמיר. צ\"ע דבסי' תקע\"ה ס\"ה כתב דאסור להם להחמיר צ\"ל דוקא יחידים אסורים אבל הכא מעיקרא קבלו עליהם כלם להחמיר להתענות כמו ט\"ב: כתב מ\"ע סי' קי\"א קטנים מאכילין אותם לחם ומים להתאבל עם הציבור עכ\"ל ונ\"ל דוקא קטן שיש לו דעת להתאבל:",
+          "en": "",
+          "ref": "Magen Avraham 550:2"
+        },
+        "3": {
+          "he": "מותרים ברחיצה כו'. לפי שאין רוב הצבור יכולים לעמוד בה [ר\"ן] ולכן בעל נפש יחמיר בכולן כמו בט\"ב חוץ מחליצת מנעל שלא יהא כחוכא ואיטלולא [של\"ה] ומ\"מ בליל טבילה לא יפרוש מאשתו:",
+          "en": "",
+          "ref": "Magen Avraham 550:3"
+        },
+        "4": {
+          "he": "כל ד' צומו'. לאו דוקא דלעולם אין י' בטבת בשבת כמ\"ש סי' תכ\"ח ס\"ב:",
+          "en": "",
+          "ref": "Magen Avraham 550:4"
+        },
+        "5": {
+          "he": "חלו בע\"ש. צ\"ע דהא א\"א לחול בע\"ש אלא י' בטב':",
+          "en": "",
+          "ref": "Magen Avraham 550:5"
+        },
+        "6": {
+          "he": "קורין וכו'. והרב\"י כ' דאין קורין במנח' וכ\"ה במשנה פ\"ד דתענית שאנשי מעמד לא היו קורין במנחה בע\"ש מפני כבוד שבת וצ\"ל דהאידנ' הכל מכינים מבע\"י ולכן קורין עמ\"ש סי' תי\"ז א\"א וידוי במנחה [אבודרהם ב\"י ד\"מ] חופה בתענית אסור החתן לשתות מכוס של ברכה מבעוד יום ונותנין לתינוקות עיין סי' תקס\"ב ס\"ב:",
+          "en": "",
+          "ref": "Magen Avraham 550:6"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "להחמיר.  כתב מ\"א סימן קי\"א קטנים מאכילין אותם לחם ומים להתאבל עם הציבור עכ\"ל וכתב המ\"א ונ\"ל דוקא קטן שיש לו דעת להתאבל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 550:1"
+        },
+        "2": {
+          "he": "מותרים.  ובעל נפש יחמיר בכולם כמו בט\"ב חוץ מחליצת מנעל שלא יהא כחוכא ואיטלולא של\"ה מ\"מ בליל טבילה לא יפרוש מאשתו מ\"א. עכשיו ברחיצה המנהג לאסור ומפני כבוד השבת מותר. ב\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 550:2"
+        },
+        "3": {
+          "he": "כל.  לאו דוקא דלעולם אין עשרה בטבת בשבת כמ\"ש סימן תכ\"ח סעיף ב':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 550:3"
+        },
+        "4": {
+          "he": "בע\"ש.  וא\"א לחול בע\"ש אלא עשרה בטבת דאז אין אומרים וידוים במנחה עיין מ\"ש סימן תי\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 550:4"
+        },
+        "5": {
+          "he": "החופה.  ואסור החתן לשתות מכוס של ברכה מבעוד יום ונותנין לתינוקות עיין סי' תקס\"ב סעיף ב' מ\"א. וכן כשחל בתוך שבעת ימי החופה ישלים תעניתו אבל יאר צייט אין צריך להתענות תוך שבעה ימי החופה אם נשא בתולה או בחור אלמנה מצאתי בעטרת זקנים ועיין במ\"א סי' תקנ\"ט סעיף קטן י\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 550:5"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) ואסור לפרוץ גדר - ר\"ל אע\"ג דמסקינן בגמרא דבזמן דאין מצוי גזירות עובדי כוכבים על ישראל תלוי הדבר ברצון ישראל דהיינו אם רצו רוב ישראל והסכימו שלא להתענות בהג' צומות הרשות בידן כתבו הפוסקים דעכשיו כבר רצו וקבלו עליהן כלל ישראל מדור דור ואסור לפרוץ גדר:",
+          "en": "",
+          "ref": "Mishnah Berurah 550:1"
+        },
+        "2": {
+          "he": "(ב) מיהו וכו' - דבשעה שרצו וקבלו עליהן להתענות הקילו לכתחלה עליהן:",
+          "en": "",
+          "ref": "Mishnah Berurah 550:2"
+        },
+        "3": {
+          "he": "(ג) עוברות ומניקות וכו' - ומסתברא דעוברת מיקרי משעה שהוכר הולד כדקי\"ל לענין ווסתות ומ\"מ אפשר דאפילו לאחר ארבעים יום ליצירת הולד נמי הו\"ל בכלל מעוברת לענין זה אם מרגשת צער אבל בבציר מהכי נראה דהויא לה ככל הנשים לכל דבר אם לא שמצטערת הרבה. ואם מרגשת חולשה אין להחמיר בה כלל [מור וקציעה עיי\"ש]:",
+          "en": "",
+          "ref": "Mishnah Berurah 550:3"
+        },
+        "4": {
+          "he": "(ד) אין להתענות - וכ\"ש אם הוא חולה שאין בו סכנה בודאי פטור מלהתענות ואסור לו להחמיר על עצמו:",
+          "en": "...should not fast... and all the more so if one is an ill person who is not in danger, they are certainly exempt from fasting, and it is forbidden for them to impose stringency on themselves.",
+          "ref": "Mishnah Berurah 550:4"
+        },
+        "5": {
+          "he": "(ה) אלא שנהגו להחמיר - ואם הם חלושות נראה דאין להם להחמיר ומ\"מ אף הצריך לאכול לא יתענג עצמו בבשר ויין רק כפי מה שצריך. וכן הקטנים שיש להם דעת להתאבל אע\"ג שאין מחוייבין לחנכם אפילו בן י\"ב שנה ואפילו בתענית שעות מ\"מ ראוי לחנכם שלא יאכלו רק כדי קיום הגוף לחם ומים או שאר מאכל פשוט לפי התנוק כדי שיתאבלו עם הצבור:",
+          "en": "...but they have the custom of being stringent... If they are weak, it would seem that they should not be stringent. In any case, even someone who needs to eat should not feast on meat and wine, but [should eat] only what they need.  And likewise, children who understand [enough] to mourn: although we are not obliged to educate them [to fast] even at age twelve and even for a fast of a few hours, it is in any case appropriate to educate them to eat just enough to sustain their bodies, water and other simple food as they require, in order that they will mourn with the community.",
+          "ref": "Mishnah Berurah 550:5"
+        },
+        "6": {
+          "he": "(ו) מותרים ברחיצה וכו' - דבשעה שרצו וקבלו עליהם לצום בכל הארבע תענית הנ\"ל לא קבלו עליהם שיהיו בחומר ת\"צ כט\"ב לפי שאין רוב הצבור יכולין לעמוד בה ובעל נפש יחמיר בכולן כמו בט\"ב אלא שאם חל ליל טבילה יקיים עונתו וגם בנעילת הסנדל לא יחמיר משום חוכא וטלולה וכן אם חל י' בטבת בע\"ש אין להחמיר ברחיצה בחמין מפני כבוד השבת:",
+          "en": "We are permitted to wash ourselves... Because at the time when [Israel] wished [to fast] and accepted upon themselves the obligation to fast on all four of these fasts, they did not accept upon themselves that [all four] would be as stringent a public fast as Tish'ah Be'Av, because the majority of the community would not be able to stand it.  So a pious person should be stringent on all of them as on Tish'ah Be'Av, but if one of them falls on the evening when [a man's wife is due to] immerse [after her period], he should fulfill his obligation [to have marital relations].  Likewise, a person should not be strict about wearing shoes in order not to be a laughingstock. Likewise, if the 10th of Tevet falls on Friday, a person should not be strict about not washing in hot water out of respect for Shabbat.",
+          "ref": "Mishnah Berurah 550:6"
+        },
+        "7": {
+          "he": "(ז) ואין צריך וכו' מבעוד יום - כמו בט\"ב אלא מותר בהם באכילה ושתייה בלילה:",
+          "en": "And it is not required ... while it is still day... [That is,] as is required on Tish'ah Be'Av. Rather, it is permitted to eat and drink during the evening [of these fasts].",
+          "ref": "Mishnah Berurah 550:7"
+        },
+        "8": {
+          "he": "(ח) כל ד' צומות - כל לאו דוקא דלעולם אין עשרה בטבת חל בשבת כמ\"ש סימן תכ\"ח ס\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 550:8"
+        },
+        "9": {
+          "he": "(ט) נידחין לאחר השבת - ולא קודם דאקדומי פורעניתא לא מקדמינן:",
+          "en": "",
+          "ref": "Mishnah Berurah 550:9"
+        },
+        "10": {
+          "he": "(י) ואם חלו בע\"ש - האי לישנא ג\"כ לאו דוקא דכל הד' צומות ג\"כ א\"א לחול בע\"ש לפי הקביעות המבואר לעיל בסימן תכ\"ח כ\"א עשרה בטבת בלבד:",
+          "en": "",
+          "ref": "Mishnah Berurah 550:10"
+        },
+        "11": {
+          "he": "(יא) בשחרית ומנחה ויחל - וה\"ה דאומר הש\"ץ ענינו בין גואל לרופא אבל אין אומרים וידוים ונפילת אפים במנחה לפי שהוא ע\"ש. ומטעם זה אין לעשות בע\"ש יו\"כ קטן באם ר\"ח בשבת כ\"א ביום חמישי שלפניו לפי שאין לומר סליחות גם וידוים בע\"ש במנחה:",
+          "en": "",
+          "ref": "Mishnah Berurah 550:11"
+        },
+        "12": {
+          "he": "(יב) ואח\"כ עושין החופה - ואסור אז החתן לשתות מכוס של ברכה כיון שהוא עדיין מבע\"י אלא נותנין לתינוק לשתות. [ובנדחה יכול החתן לשתות מכוס של ברכה וכן לאכול ולשתות אח\"כ ועיין לקמן בסימן תקס\"ב ס\"ב דאם התענית הוא רק מחמת עצמו שהוא התענה ביום זה א\"צ להשלים] וכן כשחל אחד מהצומות בתוך שבעת ימי החופה ישלים תעניתו אבל יא\"צ א\"צ להתענות בתוך ז' ימי החופה אם נשא בתולה או בחור אלמנה:",
+          "en": "",
+          "ref": "Mishnah Berurah 550:12"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

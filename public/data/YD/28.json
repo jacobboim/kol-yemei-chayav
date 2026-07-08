@@ -1,0 +1,1200 @@
+{
+  "chelek": "YD",
+  "siman": 28,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 24,
+  "fetchedAt": "2026-07-08T00:01:13.738Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני כסוי הדם. ובו כ\"ד סעיפים: השוחט חיה או עוף צריך לכסות דמו בין צדן עתה בין שהיו מזומנים בידו: הגה והכיסוי היא מצוה בפני עצמה (כך משמע באשיר\"י פרק כיסוי הדם) אבל השחיטה כשרה אף אם הזיד ולא כיסה (ב\"י וכ\"כ א\"ח וכ\"ה בכל בו):",
+      "en": "One who slaughters a wild animal or a bird needs to cover its blood, whether it was just trapped now or whether it was already ready in his hand. Rema: And the covering is a commandment onto itself, but the slaughtering is valid even if [the blood] was purposely not covered.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:1"
+    },
+    {
+      "seif": 2,
+      "he": "חייב לברך קודם שיכסה אשר קדשנו במצותיו וצונו על כיסוי דם בעפר: הגה מי ששחט פעם הראשון מברך שהחיינו על הכיסוי אבל לא על השחיטה דמזיק לבריה (במנהגים ישנים בשם ר' ידידיה משפירא):",
+      "en": "One is obligated to make a blessing before he covers [the blood]: \"... who sanctified us with his commandments and commanded us on covering blood in dirt.\" Rema: One who slaughters for the first time, makes a blessing of \"that he gave us life\" on the covering but not on the slaughtering since it damages a creature.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:2"
+    },
+    {
+      "seif": 3,
+      "he": "כוי שהוא ספק חיה וכלאים הבא מבהמה וחיה צריך לכסות דמן ואינו מברך ואין שוחטין אותם בי\"ט ואם שחטן אינו מכסה דמן ובלילה אם רישומו ניכר יכסנו:",
+      "en": "the Koy animal which is questionable if it's a wild animal, and mixed-breeds that come from domesticated and wild animals, one needs to cover their blood and there is no blessing made. And we don't slaughter them on holidays. And if they were slaughtered [on a holiday] their blood it not covered. And [after the holiday] at night, if [the blood's] imprint is recognizable, he should cover it.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:3"
+    },
+    {
+      "seif": 4,
+      "he": "הבו\"פלו נהגו שלא לכסות דמו: הגה ויש מסתפקים בבו\"פלו שהוא שור הבר שמא חיה הוא (הגאונים והערוך) על כן טוב לכסותו בלא ברכה או לשחוט עוף ג\"כ ואז יוכל לברך על הכיסוי משום העוף (בהגהות מהרי\"ו):",
+      "en": "The buffalo, we have the custom to not cover its blood. Rema: There are those who question if a buffalo is a \"wild\" ox or maybe it's a [species] of wild animal, therefore, it's good to cover [the blood] without a blessing or to also slaughter a bird and then he is able to make a blessing on the covering on account of the bird.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:4"
+    },
+    {
+      "seif": 5,
+      "he": "צריך שיהיה למטה עפר תיחוח וצריך להזמינו בפה ויש אומרים שאינו צריך:",
+      "en": "There needs to be loose earth below [the blood]. And one needs to designate it verbally, and there are those that say that there is no need.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:5"
+    },
+    {
+      "seif": 6,
+      "he": "מכסה בידו או בסכין או בכלי אחר אבל לא ברגלו כדי שלא יהיו מצות בזויות עליו:",
+      "en": "One covers it with his hand or with a knife or with another utensil, but not with his foot so that the commandments aren't denigrated on account of it.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:6"
+    },
+    {
+      "seif": 7,
+      "he": "שחט ולא היה עפר למטה צריך לגרור הדם וליתנו בעפר תיחוח ולכסות עפר תיחוח עליו:",
+      "en": "If one slaughtered and there was no earth below, he needs to scrape off the blood [from the knife] and put it on loose earth and cover it with loose earth.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:7"
+    },
+    {
+      "seif": 8,
+      "he": "מי ששחט הוא יכסה ואם לא כיסה וראהו אחר חייב לכסות:",
+      "en": "The one who slaughters he is the one who should cover. And if he didn't cover and someone else sees [the blood, the other person] is required to cover it.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:8"
+    },
+    {
+      "seif": 9,
+      "he": "שחט מאה חיות או מאה עופות או ששחט חיה ועוף במקום אחד כיסוי אחד לכולם:",
+      "en": "If one slaughters a hundred wild animals or a hundred birds or he slaughtered a wild animal and a bird in the same place, he does one covering for all of them.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:9"
+    },
+    {
+      "seif": 10,
+      "he": "השוחט ונבלע הדם בקרקע אם רישומו ניכר חייב לכסות:",
+      "en": "One who slaughters and the blood got absorbed into the ground, if the imprint is recognizable he is required to cover it.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:10"
+    },
+    {
+      "seif": 11,
+      "he": "כיסהו הרוח פטור מלכסות ואם חזר ונתגלה חייב לכסות אבל אם הוא עצמו כיסהו ונתגלה אינו חייב לכסותו פעם אחרת:",
+      "en": "If the wind covered it he is exempt from covering it; but if after [the wind covered it] it returned and uncovered it, he is required to cover it. But if he himself covered it and it became uncovered, he is not required to cover it again.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:11"
+    },
+    {
+      "seif": 12,
+      "he": "דם שנפל לתוך המים או מים שנפלו לתוך הדם אם יש בו מראה דם חייב לכסות ואם לאו פטור:",
+      "en": "Blood that fell into water or if water fell into the blood, if there is still the appearance of blood one is required to cover it, but if not he is exempt.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:12"
+    },
+    {
+      "seif": 13,
+      "he": "נתערב הדם ביין אדום או בדם בהמה רואים היין ודם בהמה כאלו הוא מים ואילו נתערב במים כשיעור הזה היה בו מראית דם חייב לכסות:",
+      "en": "If the blood became mixed with red wine or the blood of a domesticated animal, we view the wine and the blood of the domesticated animal as if it were water, and if [the blood] would have mixed with that amount of water it would have still have had an appearance of blood one is required to cover it.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:13"
+    },
+    {
+      "seif": 14,
+      "he": "שחט עוף או חיה ושחט עליו בהמה פטור מלכסות אבל אם שחט בהמה ושחט עליה חיה או עוף חייב לכסות: הגה שחט עוף או חיה ואח\"כ שחט עוד אחרת ונתנבלה בידו אם יודע שדם האחרון כסה דם הראשון פטור מלכסות אבל מסתמא חייב לכסות (בהגהות מיימוני פי\"ד פסק סתם שחייב לכסות והוא מחלק אם יודע כו' דלא תקשי אהדדי הגה זו והאי דשחט עליו בהמה דפטור):",
+      "en": "If one slaughtered a bird or a wild animal and then slaughtered a domesticated animal on top of it he is exempt from covering the blood, but if he slaughtered a domesticated animal and then slaughtered a bird or a wild animal on top of it he is obligated to cover the blood. Rema: If one slaughtered a bird or a wild animal and afterward while slaughtering another one it became a carcass (invalidly slaughtered) in his hand, if he knows that the latter's blood covers the former's blood he is exempt from covering, but in the simple situation he is obligated to cover it.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:14"
+    },
+    {
+      "seif": 15,
+      "he": "דם הניתז ושעל הסכין אם אין שם דם אלא הוא חייב לכסות וגורר אותו ומכסהו כדי שיתן עפר גם למטה אבל אם יש שם דם אחר אין צריך לכסותו שאין צריך לכסות כל הדם לפיכך אין צריך (להמתין) לכסות עד שיצא כל הדם: הגה מיהו ימתין עד שמתחיל לירד טיפין כדי שיכסה מקצת דם הנפש (מהרי\"ל בשם מהרא\"ק ושחיטות ישנים בשם מהר\"ש):",
+      "en": "Blood that sprayed and that's on the knife, if there is no other blood but it one is required to cover it, and he scrapes it off and covers it in order that there should also be earth below it. However, if there is other blood there one does not need to cover it because there is no need to cover all the blood. Therefore, there is no need (to wait) to cover until all the blood comes out. Rema: However, he should wait until [the blood] starts dripping down in order that he should cover some of the life-blood.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:15"
+    },
+    {
+      "seif": 16,
+      "he": "השוחט לחולה בשבת לא יכסה אפי' אם יש לו דקר נעוץ ובלילה אם רישומו ניכר יכסנו. ויש מי שאומר שאם היה לו אפר מוכן לכסות בו צואה יש לכסות בו הדם אפילו בשבת:",
+      "en": "One who slaughters for a sick person on Shabbat he does not cover, even if he has a shovel already stuck in the ground. And [after Shabbat] at night, if [the blood's] imprint is recognizable, he should cover it. And there are those who say that if he had ash set aside to cover dung there is something to covering the blood even on Shabbat.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:16"
+    },
+    {
+      "seif": 17,
+      "he": "השוחט ונתנבלה בידו או ששחט ונמצאת טריפה פטור מלכסות וכן חרש שוטה וקטן ששחטו ואין אחרים רואים אותם חזקת שחיטתן מקולקלת ופטורה מכיסוי:",
+      "en": "One who slaughters and it became a carcass (invalidly slaughtered) in his hand or one who slaughters and finds [that the animal] has signs that make it unfit, he is exempt from covering it. And so too, if a deaf person or   a mentally challenged person or a child slaughtered and there was no one watching them, there is an assumption that the they had a botched slaughter and it is exempt from being covered.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:17"
+    },
+    {
+      "seif": 18,
+      "he": "השוחט אע\"פ שאינו צריך אלא לדם חייב לכסות כיצד יעשה נוחר או מעקר כדי שיפטר מכיסוי:",
+      "en": "One who slaughters, even if he only wants the blood, he's obligated to cover. How should he perform [the slaughtering instead?] He should stab or tear out [the organs] in order to be exempt from covering.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:18"
+    },
+    {
+      "seif": 19,
+      "he": "צריך לבדוק הסימנים והסכין קודם הכיסוי כדי שלא יבא לידי ברכה לבטלה:",
+      "en": "One needs to check the signs and the knife before the covering in order that one doesn't come to make a wasted blessing.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:19"
+    },
+    {
+      "seif": 20,
+      "he": "השוחט חיה לא יכסה עד שיבדוק הריאה ואם נמצאת ספק טריפה מכסה בלא ברכה והוא הדין לכל פיסול שהוא מחמת ספק כגון ההיא דחיישינן שמא בעור נפגמה וכן כל כיוצא בזה: הגה אבל דבר שמדינא הוא כשר רק שמחמירים בו כגון אם חתך כל המפרקת וכיוצא בו חייבים לכסות (ת\"ה סימן קפ\"ד):",
+      "en": "One who slaughters a wild animal does not cover [the blood] until he checks the lungs, and if he finds a questionably invalid signs, he covers without making a blessing. And this is the law for all invalidations that arise from a questionable status, for example that [case] where we're worried that maybe [the knife] became notched while [cutting] the skin, and so too all similar cases. Rema: But anything that according to the law is valid [and] it's only [ruled invalid] because we're strict on it, for example if one cut the entire neck, and similar cases, one is obligated to cover [the blood].",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:20"
+    },
+    {
+      "seif": 21,
+      "he": "מי שאין לו עפר לכסות לא ישחוט: הגה אלא ימתין עד שיהיה לו עפר (טור) ואם הוא הולך במדבר או בספינה ולא שוה העוף כהפסד הבגד שישרוף לאפר או הזהב שישחוק תקינו ליה רבנן לשחוט ולמצה הדם בבגד או בסנדל ומברך וכשיגיע למקום עפר יכבס הבגד או הסנדל שיצא הדם ומכסהו בלא ברכה (מרדכי בשם הגאונים) והכי נהוג (א\"ז וראב\"ן):",
+      "en": "One who has no earth to cover with should not slaughter. Rema: Rather, he should wait until he has earth. And if he is travelling in the desert or on a ship, and the bird is not worth the loss of a garment that he would [need to] burn for its ashes [to cover with] or the gold that he would [need to] grind [to cover with], the sages enacted to slaughter and to keep the blood in a garment or a sandal and make a blessing, and when he reaches a place with earth, he should wash the garment or the sandal so that the blood comes out, and cover it without a blessing, and this is the custom.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:21"
+    },
+    {
+      "seif": 22,
+      "he": "השוחט חיה ועוף ולא יצא מהם דם מותרין:",
+      "en": "One who slaughters a wild animal or a bird and blood did not come out of it, it is permitted.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:22"
+    },
+    {
+      "seif": 23,
+      "he": "כל הדברים שהזרעים הנזרעים בהם מצמיחים הם בכלל עפר ומכסים בהם ואם אינם מצמיחים אם נקראו עפר מכסין בהם לפיכך מכסין בזבל ובחול הדק מאד עד שאין היוצר צריך לכתשו כלל ובסיד ובחרסית ולבינה ומגופה של חרס שכתשן ובשחיקת אבנים ובשחיקת חרסים ובנעורת של פשתן דקה ובנסורת חרשים ובאוכלים או בגדים שרופים עד שנעשו עפר ובשיחור ובכחול ובנקרות הפסולים אבל אין מכסין בזבל גס ולא בחול שהיוצר צריך לכתשו ולא בקמח וסובין ומורסן ולא בשחיקת מתכת אם אינם שרופין חוץ מבזהב שחוק שנקרא עפר דכתיב ועפרות זהב לו ואפר נקרא עפר דכתיב ולקחו לטמא מעפר שרפת החטאת (רמב\"ם סוף ה\"ש מפכ\"ה דף פ\"ח ע\"ב):",
+      "en": "All things that if one plants seeds in them they would sprout, they are included in \"earth\" and one may cover [blood] with them. And if they don't sprout, if they are called \"עפר\" (\"earth\") one may cover with them. Therefore, one may cover with dung, and with very fine sand, [fine] enough that the potter doesn't need to crush it at all, and with lime, and with an earthenware shard and brick and barrel stopper of earthenware that was crushed, and with ground stones and ground earthenware shards, and scraps of fine flax, and sawdust, and with food or garments that were burnt until they were made into ash, and with powdered coal, and with stibium, and with millstone dust. But one may not cover with coarse dung, and not with sand that a potter needs to crush, and not with flour and bran-flour, and coarse bran, and not with ground metal if it's not burnt [to ash], except for ground gold which is called \"עפר\" (\"earth\"), as it is written \"and it has earth of gold\". And ash is called \"עפר\" (\"earth\"), as it is written \"And they should take for the impure from the earth, the burnt [ashes] of the sin-offering\".",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:23"
+    },
+    {
+      "seif": 24,
+      "he": "אין מכסין בעפר המדבר מפני שהיא ארץ מליחה ואינה מצמחת: הגה ולכן אין מכסין בעפר לחה ממים כגון מתונתא (טור וסמ\"ק וסמ\"ג) ואין לכסות בשלג (ב\"י וא\"ז בשם גאון דלא כמרדכי בשם גאון):",
+      "en": "One may not cover with desert earth because it's damp earth and [seeds] don't sprout in it. Rema: And therefore, one may not cover with earth that's damp from water, for example swampy earth. And one may not cover with snow.",
+      "ref": "Shulchan Arukh, Yoreh Deah 28:24"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה חולין דף פג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:1"
+        },
+        "2": {
+          "he": "טור בשם אביו הרא\"ש שם דהכיסוי היא מצוה בפני עצמה וכ\"כ הרמב\"ם בפרק י\"ד מה\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:2"
+        },
+        "3": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:3"
+        },
+        "4": {
+          "he": "כרבי יוסי בברייתא שם ד\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:4"
+        },
+        "5": {
+          "he": "כי\"א שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:5"
+        },
+        "6": {
+          "he": "טור בשם אביו הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:6"
+        },
+        "7": {
+          "he": "הרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:7"
+        },
+        "8": {
+          "he": "כן פי' הטור מברייתא דהשוחט ונבלע וכו' דף פ\"ז וכ\"כ הרשב\"א בת\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:8"
+        },
+        "9": {
+          "he": "בהגהת האגור בשם ריא\"ח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:9"
+        },
+        "10": {
+          "he": "מימרא דרבי זירא שם דף פג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:10"
+        },
+        "11": {
+          "he": "טור (וכל בו) בשם בעל העיטור וכפי' רש\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:11"
+        },
+        "12": {
+          "he": "שם בשם הרא\"ש בס\"פ וכ\"כ התו' כאן (וכ' האגור שכן נוהגין)",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:12"
+        },
+        "13": {
+          "he": "ברייתא חולין דף פ\"ו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:13"
+        },
+        "14": {
+          "he": "טור מהא דפריך במוקדשין לגרריה ולכסייה שם דף פ\"ג וכ\"כ הרשב\"א בת\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:14"
+        },
+        "15": {
+          "he": "בריי' שם דף פ\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:15"
+        },
+        "16": {
+          "he": "משנה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:16"
+        },
+        "17": {
+          "he": "משנה שם דף פ\"ו וכת\"ק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:17"
+        },
+        "18": {
+          "he": "ברייתא וגמרא שם דף פ\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:18"
+        },
+        "19": {
+          "he": "משנה שם וכאוקימתא דרבה בר בר חנה וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:19"
+        },
+        "20": {
+          "he": "משנ' שם וכרב פפא שם דאין דיחוי אצל מצות ולא אמרינן ראשון ראשון בטל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:20"
+        },
+        "21": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:21"
+        },
+        "22": {
+          "he": "ברייתא שם דף פג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:22"
+        },
+        "23": {
+          "he": "משנה שם וקיי\"ל כת\"ק דמתניתין וכדפריש רבי יהודה אליביה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:23"
+        },
+        "24": {
+          "he": "הר\"ן שם וכ\"כ הרשב\"א בת\"ה וב\"י לדעת הטור והתוס'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:24"
+        },
+        "25": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:25"
+        },
+        "26": {
+          "he": "טור וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:26"
+        },
+        "27": {
+          "he": "כרבה דאמר לית דחש לה לשמטוה לאמורה מיניה שם דף פ\"ד וכן הסכמת כל הפוסקים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:27"
+        },
+        "28": {
+          "he": "טור וכ\"כ הרשב\"א בת\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:28"
+        },
+        "29": {
+          "he": "הרי\"ף והרא\"ש והרמב\"ם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:29"
+        },
+        "30": {
+          "he": "כל בו בשם הר\"מ בספר המאורות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:30"
+        },
+        "31": {
+          "he": "משנה שם דף פ\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:31"
+        },
+        "32": {
+          "he": "שם במשנה וכחכמים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:32"
+        },
+        "33": {
+          "he": "משנה שם דף פ\"ו וכר\"מ משום דהורה רבי לסוף כוותי'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:33"
+        },
+        "34": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:34"
+        },
+        "35": {
+          "he": "טור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:35"
+        },
+        "36": {
+          "he": "שם בשם בעל העיטור ומרדכי בשם גדולי נרבונא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:36"
+        },
+        "37": {
+          "he": "תה\"ד סי' קפ\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:37"
+        },
+        "38": {
+          "he": "טור וכ\"כ הרשב\"א בת\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:38"
+        },
+        "39": {
+          "he": "משנה שם דף לג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:39"
+        },
+        "40": {
+          "he": "משנה שם דף פח וככללא דרשב\"ג שבא לפרש כפי' התו' והרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:40"
+        },
+        "41": {
+          "he": "כדדרש רב נחמן בר רב חסדא (°) פירוש אף על פי שכשמשימין בו צמחים הוא מגדלן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:41"
+        },
+        "42": {
+          "he": "משנה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:42"
+        },
+        "43": {
+          "he": "כרבה בר בר חנה וכו' וכלישנא קמא (°) פי' מין סיד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:43"
+        },
+        "44": {
+          "he": "ברייתות שם (°) פי' פחמים כתושים. (°) פי' עפר שמנקרים מן הריחיים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:44"
+        },
+        "45": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:45"
+        },
+        "46": {
+          "he": "בריי' שם וכב\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:46"
+        },
+        "47": {
+          "he": "בריי' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:47"
+        },
+        "48": {
+          "he": "מטעמא דדרש רב נחמן בר רב חסדא וכשיטת הרי\"ף והרא\"ש:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 28:48"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "בין שהיו מזומנים. דסד\"א כי יצוד ת\"ל ציד מ\"מ ש\"ס ש\"ך וכי יצוד למדה תורה דרך ארץ שלא יאכל בשר אלא בהזמנה זו עט\"ז מה שכתבנו שם:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:1"
+        },
+        "2": {
+          "he": "והכיסוי. הש\"ך הראה מקום לסימן י\"ט אות ו' ור\"ל דאף ששם נתבאר דהכיסוי גמר מצוה ואם שח בין שחיטה לשחיטה צריך לכסות דם הראשון מ\"מ לענין זה הוה מצוה בפ\"ע דהשחיטה כשרה. עיין ב\"י דכתב דיש ראיה מגמרא דאף אם לא כיסה מותר וכתב הל\"ח קצ\"ב אות א' מדאמרינן פרק כיסוי הדם פ\"ט ולחשוב עפר כיסוי הדם ומשני לית ביה הנאה ופירש\"י דבלא כיסוי הוה מישתרי בשר והכה\"ג בהגהות ב\"י אות כ\"ד כתב ממ\"ש רש\"י הוה משתרי בשר ולא כתב דבלא כיסוי משתרי בשר אלא דה\"ק דאי נמי לא היה מצווה לכסות היה משתרי בשר משא\"כ טהרת טמאים ויפה כתב:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:2"
+        },
+        "3": {
+          "he": "כשרה. ואם העם פרוצים שאין מכסין או אין מברכין על הכיסוי או על השחיטה יש למגדר מלתא ולאסור השחיטה. והתב\"ש כתב דה\"ה אם אותו השוחט לחוד הוא פרוץ ואין מברך על השחיטה וכיסוי יש לאסור:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:3"
+        },
+        "4": {
+          "he": "על כיסוי דם בעפר. הש\"ך הראה מקום לאות כ\"ט דאם ממצה בבגדו דלא יאמר בעפר כ\"א על כיסוי דם ולענין הלכתא עיין מ\"ש שם:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:4"
+        },
+        "5": {
+          "he": "מברך. הש\"ך הניח בצ\"ע והפר\"ח הסכים שלא לברך שהחיינו בפעם ראשון על הכיסוי ועיין כה\"ג בהגהות הטור הניח בצ\"ע באות ז' לכן יראה וודאי דאין להכניס עצמו בספק ברכה והתב\"ש הסכים דמברך וצ\"ע:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:5"
+        },
+        "6": {
+          "he": "דמזיק. הש\"ך כתב טעם אחר דשחיטה יכול להיות דלא ישחוט ולא יברך משא\"כ כיסוי דכולן מצווין אם שחט כבר ומ\"מ הא הניח בצ\"ע אם יש לברך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:6"
+        },
+        "7": {
+          "he": "וכלאים. הש\"ך העלה דמיירי בצבי על התיישה הא איפכא וודאי מכסה עם ברכה דלזרע אם וודאי חוששין וצבי אפילו מקצת דלא כב\"ח ודרישה ובט\"ז כתבנו דיכסה בלא ברכה אף כה\"ג. ומה שהשיג על זבחי צדק דנתן טעם משום התרת חלבו אפשר דנתן טעם לבהמה הבא על חיה דיאמרו מדמברכין וודאי חיה היא ולית בה כלל מקצת בהמה משא\"כ כיסוי לחוד יאמרו מדרבנן אמרי דיכסה בחול ולא אתי למישרי חלבו כדמסיק בביצה *):",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:7"
+        },
+        "8": {
+          "he": "ואין. עש\"ך ואם יש לו עוף אחר אפ\"ה כוון זע\"ז אסור דמבטל דם העוף מכיסוי אלא זא\"ז וכיון דבחד זימנא לא יכול לכסות שתיהן תו הוי טירחא. ולשחוט הבופל\"י בי\"ט לכאורה יראה דמותר דהא בסי' דצ\"ז כתב דשור הבר מין בהמה ולא הגיה רמ\"א כלום וכתב פר\"ח כאן יש תקנה בקל לשחוט עוף ויברך על שתיהן א\"כ יכול לשחוט בי\"ט בופל\"י ולא יכסה כיון דודאי בהמה כמו לענין כלאים דמותר עם בהמה ומיהו י\"ל דאין לעשות כן די\"ל דסמך רמ\"א לקמן על כאן עש\"ך שם ושוב מצאתי בכר\"ו גם כן שאין לשחוט בופל\"י ביו\"ט ועיין עוד מ\"ש לקמן בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:8"
+        },
+        "9": {
+          "he": "אינו מכסה את דמו. אפילו יש לו אפר מוכן ש\"ך עמ\"ש בט\"ז מזה דאפילו יש לו אפר מוכן לכל ספיקותיו אפ\"ה אין מכסין דיבואו להתיר חלבו:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:9"
+        },
+        "10": {
+          "he": "ובלילה אם רישומו ניכר. הש\"ך הביא דעת הב\"ח להקל בזמן הזה באם מניח מעט עפר בכלי ולשחוט לתוכו יע\"ש ומ\"מ לכתחלה לא יעשה כן:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:10"
+        },
+        "11": {
+          "he": "או לשחוט כו'. אצל הבופל\"י לא ע\"ג כדלקמן ס\"ק כ' ש\"ך ויש לראות הא לקמן אדרבה חולק על הב\"ח וסובר עוף ע\"ג בהמה צריך לכסות ושוב ראיתי להכה\"ג בהגהות ב\"י אות י\"ג תמה עליו בזה ולדידי אין כ\"כ תמיהה דשם כתב דלקולא שלא לכסות ודאי לא וכאן כתב דלכתחלה ראוי לחוש לדברי הב\"ח. והתב\"ש אות ה' כתב הטעם שלא יהיה עפר למטה תחת דם העוף וכתב שהש\"ך רמז לזה. ולא ידענא הא באות כ' הסכים להלבוש לומר דמיירי ביש עפר למטה ולא הוה הפסק וכמ\"ש הל\"ח יע\"ש ולענין הבופל\"י בי\"ט לשחוט עליו חיה גדולה לסברת הלבוש ליתן עפר למטה הוה שרי גם מסתמא יהיה מראה דם בחיה מ\"מ אין לעשות אף כה\"ג:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:11"
+        },
+        "12": {
+          "he": "וצריך. עש\"ך וסבור הייתי לומר דה\"ק מצוה שיתן הוא אף עפר דלמטה ולא אחר וכן כתב התב\"ש דאף עפר למטה צריך שיתן הוא אלא דמתוספות ר\"פ כיסוי הדם ד\"ה עפר לא מוכח אלא דמצוה שיתן הוא ולא יסמוך שיכסה הרוח או אם כיסה הרוח דרשות בידו לגלותו ולכסותו לקיים המצוה וכן מוכח מהראיה שהביאו מכסהו הרוח דאי לומד שמצוה עליו הא ברייתא מפורשת ושפך וכסה מי ששפך יכסה אלא כמ\"ש דעיקר כוונת הש\"ך נמי הכין הוא דבעינן שיאמר בפה אם מצא עפר מוכן או שיזמין בידו וא\"צ לומר בפה ועפר למעלה ודאי נוטל בידו זה הוא הזימון וא\"צ לומר בפה שעושה לשם כיסוי:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:12"
+        },
+        "13": {
+          "he": "או בסכין. ר\"ל בקתא ש\"ך. ור\"ל כדלעיל סי' ח\"י ס\"כ דאסור להשתמש כלל בסכין של שחיטה דשמא ישחוט ויאבד הסכין ויסמוך על חזקה ובאמת כיון ששימש ביה תו ליכא חזקה ועוד דאסור לשחוט בסכין שיש בה פגימה אף בראשה אף שיש כמלא ב' צווארין אין לעשות כן לכתחלה יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:13"
+        },
+        "14": {
+          "he": "מי ששחט. עש\"ך וכבר כתבנו בט\"ז אי רשאי לכבד לאחר לעשות המצוה והנה התב\"ש אות י\"ד הביא ראיה מגמרא שבת קל\"ג ואי איכא אחר ליעבד אחר אלמא דאין איסור כו' והנה רש\"י שם פי' ליעבד אחר ולא ליקום אב התם ויראה דאי קאי האב התם הוה שליח דידיה והאב עובר אף דאין שליח לדבר עבירה מ\"מ היכא דהשליח לאו בר חיובא המשלח חייב כי התם ושוב ראיתי במשנה למלך פ\"י ה\"ד מהלכות טומאת צרעת הביא דברי רש\"י וכפי הנראה מדבריו דכל זמן דלא עמד האב שם אף דבשליחותיה לא עבר וא\"י מה לי אם עמד שם או לאו וכפי הנראה דפריך בכל התורה אין עשה דוחה עשה ול\"ת לולי מילה שנכרתו עליה י\"ג בריתות וזה י\"ל גוף מצות מילה משא\"כ מ\"ע של אב דאין בו לא כרת ולא י\"ג בריתות שייך גבה קשיא שפיר כיון דבכל התורה אין עשה דוחה עשה ול\"ת אף דבמילת קטן ליכא כרת מ\"מ שייך במ\"ע כרת כן נראה ליישב שיטת הד\"מ ומ\"מ המנהג פשוט לכבד לאחר אף שאבי הבן מוהל בעצמו וה\"ה לכיסוי. ולא ראיתי נוהגין בכיסוי כן:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:14"
+        },
+        "15": {
+          "he": "שחט ק' חיות או חיה ועוף כיסוי אחד לכולם. ואם שח עיין לעיל סי' י\"ט כי שם נתבארו דינים אלו. ועי' בתשובת מהר\"ם מלובלין מה שהקשה כאן פסקינן כת\"ק ובאו\"ב מסיק או לחלק צריך קרא יע\"ש שהאריך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:15"
+        },
+        "16": {
+          "he": "דם שנפל. דאין דיחוי אצל מצות ש\"ך. וכבר כתבנו דמכסה בלא ברכה דבעיא דלא איפשטא היא אם נראה ונדחה חוזר ונראה ומיהו אם יש לו עוף אחר ישחוט אצל זה ויכסה ויברך על שתיהן ככל הספיקות ופשוט:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:16"
+        },
+        "17": {
+          "he": "בדם בהמה. עש\"ך והטור והמחבר השמיטו מלת היה ומה שפירשו בדם היה טמאה או דם הקזה ה\"ה המ\"ל בדם חיה נבילה או טריפה. כתב התב\"ש אות כ\"א דאם נתערב דם היה בדם היה שכיסה מקצת דמו דתו א\"צ למיכסי לכולהו דמא יש להסתפק אי מבטל ויש לכסות בלא ברכה. ודע דהא דאמרי' בסי' י\"ט דאם שוחט דבר דאיתילד ריעותא ישחוט עוף אצלו ולא ע\"ג אף דראשון חיה או עוף הוא דלמא יהיה טריפה ופטור מכיסוי ומבטל דם חבירו והוא פשוט:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:17"
+        },
+        "18": {
+          "he": "רואין כו' חייב לכסות. כתב הש\"ך דאם לא היה מראה דם וחזר ונפל חוזר וניער וא\"י מה מלמדנו פשיטא דהכין הוא והא ודאי דגם כאן אין מכסה בברכה כיון דנראה ונדחה הוה תו בעיא דלא איפשטא:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:18"
+        },
+        "19": {
+          "he": "פטור. הש\"ך העתיק דברי רש\"י דמה יכסה וירצה בזה דל\"ת מין במינו אין חוצץ כמו בעפר דלמטה לדעת הלבוש והל\"ח שהביא באות כ' ולזה אמר דמ\"מ הוה ככסהו הרוח דאידחי מלכסות כיון דמכוסה הוא. ולפ\"ז יש לכאורה להוכיח דכסהו הרוח בדברים שאין מכסין אפילו הכי פטור מלכסות. ועיין תב\"ש אות א' נסתפק בזה אי כסהו הרוח בדבר שאין מכסין אי פטור מלכסות. ובל\"ח קצ\"ג ב' אות כ\"ז אין הכרע בכסהו הרוח אי דוקא בדברים שמכסין או אף בדברים שאין מכסין:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:19"
+        },
+        "20": {
+          "he": "או עוף. עש\"ך שהשיג על הב\"ח וכתב מיש\"ש מוכח איפכא והנה הט\"ז באות י\"ד כתב גם כן דמיש\"ש מוכח כן ויש לראות במאי פליגי ועיינתי ביש\"ש פרק כיסוי הדם סימן י\"ד על מה שהקשה ב\"י על הטור למה הביא בשם בה\"ע והלא ברייתא שלימה היא שחט חיה ואח\"כ בהמה פטור מלכסות כתב ואני אומר מש\"ה הביא דברי בה\"ע לומר דוקא ציפרא או חיותא ואח\"כ בהמה הא ציפור שנתנבלה חייב לכסות דקליל אף שהתחתון ג\"כ קליל של ציפור ומש\"ה דייק בה\"ע בלישניה שחט ציפרא או חיותא ולבסוף בהמה ואח\"כ חיה ולא כתב או עוף אלא דמש\"ה כתב בתחלת הדברים ציפרא למידק מיניה דאף בציפור בעינן אח\"כ בהמה הא ציפור לא דקליל ומש\"ה כתב מהר\"מ שאם שחט ציפור שנתנבלה חייב לכסות כדפרישית עכ\"ל. ביאור הדברים דמש\"ה הביא הטור דברי בח\"ע דהוסיף על ברייתא דלא הזכירה כ\"א חיה ואח\"כ בהמה וכ\"ת דלאו בכוונה הוסיף בה\"ע מלת ציפרא דא\"כ בסיפא אמאי לא סיים בהמה ואח\"כ ציפרא או חיותא אלא דמש\"ה הוסיף ברישא לומר אף שציפרא אפ\"ה דוקא בהמה אחריו וה\"ה חיה שנתנבלה הא ציפור ונתנבל לא דקליל אף שתחתון ג\"כ קליל והב\"י יודה לזה ושגם הוא פי' דברי הגהות מיימוני כן כמו שיראה הרואה בב\"י. הנה הוא יורה כפי הבנת הש\"ך ביש\"ש דאם בהמה ואח\"כ עוף חייב לכסות דאל\"כ מה האי דקאמר ובסיפא לא סיים או עוף אלא מש\"ה זכר ברישא כו' והא אי אפשר להזכיר בסיפא עוף דבטל במיעוטו ולמה חזר היש\"ש לרישא. מלבד דהו\"ל לומר דמשום הכי הביא דברי בה\"ע לומר דוקא בהמה ואח\"כ היה הא עוף פטור מלכסות ומה ענין הגהות מיימוני לכאן. ובהיות כי הדברים כפשטן מראין כפי' הש\"ך יש לראות איך הבינו הב\"ח והט\"ז ביש\"ש ואין רמז כלל בדבריו דבהמה ואח\"כ עוף פטור מלכסות. וכ\"ת הא בהא תליא כיון דעוף קליל ואין עומד בפ\"ע א\"כ הוא כמעורב בדם הבהמה ובטל הוא. הא ליתא דהב\"י נמי סבר דעופא דקליל ובהכי יישב דברי הגהות מיימוני ואפ\"ה סתם בש\"ע בהמה ואחר כך חיה ועוף חייב לכסות וסובר דאינו בטל וא\"כ קשיא ואולי דבה\"ע דייק למיכתב ברישא ציפרא או חיותא ואמאי לא באמת בסיפא כן אלא דבסיפא פטור לכסות והא דכתב היש\"ש ולא סיים בסיפא אלא נקיט ברישא הכי קאמר מדלא סיים בסיפא ע\"כ בהמה ואח\"כ ציפרא פטור וא\"כ אמאי אמר ברישא ציפרא ואח\"כ בהמה הא בהמה ואח\"כ ציפרא נמי אלא מש\"ה כתב כן ברישא למידק מיניה דוקא בהמה הא ציפור שנתנבלה חייב לכסות דקליל אף דדם התחתון נמי קליל. ועתה אין קושיא למה לא אמר דמש\"ה הביא הטור דברי בה\"ע לומר דבהמה ואח\"כ חיה הא עוף לא דא\"כ הוה קשיא בדברי העיטור גופא אדאשמעינן ברישא ציפרא ואח\"כ בהמה ולא השמיענו רבותא טפי בהמה ואח\"כ ציפרא לא אלא דמש\"ה הביא העיטור ברישא כן למידק מיניה הא ציפור שנתנבלה חייב בכיסוי ותרתי שמעת מיניה ועיין בכה\"ג בהגהת הטור אות ל\"ב האריך בזה וכפי מ\"ש נתבאר הכל על נכון: והנה בקושית הב\"י על הטור תי' דוודאי קושית התוס' על הברייתא אמאי לא יגרור בין ברישא ובין בסיפא וסוברים הפוסקים דהברייתא סוברת דא\"צ גרירה וה\"ה דם הניתז א\"צ גרירה וא\"כ אנן דסוברים דם הניתז בעי גרירה דחייב לכסות משמע כדיניה כמ\"ש הרשב\"א ז\"ל בחדושיו א\"כ לית הלכתא כברייתא. ואף דבברייתא נמי קתני חייב לכסות לק\"מ כמ\"ש התב\"ש איידי דתני ברישא פטור תני בסיפא חייב וברייתא לית לה גרירה מרישא שמעינן לה ומש\"ה השמיטו הפוסקים הך ברייתא והטור סובר דהלכתא הוא וברישא חיה ואח\"כ בהמה אין קושיא ליגרריה וליכסי כיון שמכוסה בדם בהמה מה יכסה ור\"ל דהוה ככסהו הרוח ומ\"ש דמעורב הוא ר\"ל דאם היה מעורב ורואין כאלו מים לא היה מראה דם דנדחה הוא וכאן גרע טפי דהוה כמו כסהו הרוח ואפשר דסובר בכסהו הרוח אף בדברים שאין מכסין פטור מלכסות ועיין תב\"ש ול\"ח קצ\"ב ב' במה שהאריך בברייתא זו והבאתיו לעיל בט\"ז אות יו\"ד יע\"ש. ובהמה ואחר כך חיה מיירי דיש עפר למטה כמ\"ש הלבוש והל\"ח. הנה מ\"ש הל\"ח כבר תמה עליו התב\"ש אות כ\"ה דאדרבה הל\"ח חולק על הלבוש מטעם דמה מקשה הגמרא דהא מיירי ביש עפר למטה יע\"ש. ואני אומר לא זו בלבד אלא בגוף הדין חולק הל\"ח עם הלבוש דאלו הלבוש סובר כל שיש עפר למטה אף שדם בהמה מפסיק ש\"ד והל\"ח סובר כל שמפסיק אינו כלום. וסיים שם ודברי רמ\"י יש להם קיום ומ\"מ גורר רק דם חיה ולא בהמה בהמה עמה יע\"ש וא\"כ יש לתמוה על הש\"ך ז\"ל איך הרכיב דעת לבוש ול\"ח יחד והם דחוקים מקצה אל הקצה. ויש ליישב דמ\"ש כמ\"ש הלבוש והל\"ח יש לפרש מלת והל\"ח חוזר אמ\"ש בדם בהמה למעלה דפטור ולא יגררנו דמכוסה הוא והוה ככסהו הרוח ע\"ז קאי והל\"ח כו' ולבוש קאי אבהמה ואח\"כ חיה ולצדדין קתני. וכתב עוד א\"נ בהמה ואח\"כ חיה יכסנו אף בלא עפר תיחוח למטה מוטב שיהיה כך מגרירה ויתערב הכל ושמא יהיה דיהה מראהו וכן נראה הסכמתו כתירוץ זה הב' דמכסה בלא גרירה וכט\"ז אות יו\"ד ועיין בט\"ז אות יו\"ד מ\"ש דאין כל העופות שוין. ועי' תוס' חולין פ\"ו ד\"ה רואין מ\"ש דיהה מראהו אין ראוי לזריקה ויש לעיין לענין כיסוי אם דיהה מראהו אם חייב לכסות בברכה או בעינן מראה דם גמור:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:20"
+        },
+        "21": {
+          "he": "וחייב. הש\"ך כתב על עט\"ז דכתב דברים מגומגמים וא\"י כיון דבאות כ' הודה לדבריו לתירוץ הא' דבהמה ואח\"כ חיה מכסה אף דליכא עפר למטה בין דם חיה לבהמה כיון דאיכא למטה ש\"ד א\"כ אף דבתירוץ הב' כתב דכאן א\"א בגרירה אעפ\"כ אין לכתוב בשביל זה דבריו מגומגמין ואולי במ\"ש הלבוש דאי ליכא עפר למטה יגרור הכל דם החיה עם בהמה ויתן עפר למטה סובר הש\"ך כל\"ח קצ\"ב ב' כיון דגורר יגרור דם החיה לחוד יע\"ש. ומ\"ש הש\"ך אע\"ג דליכא בינו לדם החיה עפר תיחוח הודה לנו בזה דלמעשה אין לסמוך על מ\"ש הלבוש כיון דיש עפר למטה אף שמפסיק ש\"ד דאין לעשות כן ושאני הכא דא\"א בגרירה וכתירוץ הב' באות כ' דאם ימתין עד דתתיבש כו' והלכך מכסה במקומו. ולפ\"ז מ\"ש באות י\"א כמ\"ש בס\"ק כ' היה נראה להגיה כ\"א וכמ\"ש כאן דלמעשה אין לסמוך אף שיש עפר תיחוח למטה אין לשחוט חיה ע\"ג בהמה. ומיהו הא ודאי דאם שחט בהמה ופיזר עפר הרבה על הדם רשאי לשחוט חיה אחר כך דיש עפר למטה. ומה שהביאו לזה הוא דבש\"ע ודאי משמע בהמה ואח\"כ חיה אף דאין עפר למטה כלל בקרקע וע\"כ הטעם דא\"א בגרירה וא\"כ נאמר דבעינן עפר תיחוח בינו לדם החיה וכאן משום דא\"א בגרירה מש\"ה מכסה כך: כתב התב\"ש באות ח\"י דאין לשחוט עוף ברה\"ר במקום שוודאי עתיד לגלות דכל העומד לגלות כגלוי דמי והביא ראיה ממ\"ש הרא\"ה ז\"ל בב\"ה דם הסכין הכי פריך דא\"א שיכסה במקומו דודאי מגלה אח\"כ לא הוה כיסוי וגם במ\"ה לא השיג עליו והביא דברי ת\"ח. ולפ\"ז הא דנקיט בש\"ע סט\"ו דם הניתז ושעל הסכין חייב לכסות וגורר ומכסהו כדי שיתן עפר למטה האי טעמא לדם הניתז דעל הסכין בלא\"ה בעי גרירה דכל העומד להגלות אמנם הפר\"ח היקל בכל ענין ולפי דבריו אף הוא בעצמו רשאי לגלות אם צריך לדם ומ\"ש בחולין השוחט וצריך לדם נוחרו ולא אמר דיכסה ויגלה יש לומד דצריך לצבוע ויתלכלך בעפר ולא יהיה ראוי:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:21"
+        },
+        "22": {
+          "he": "ובלילה. הש\"ך הראה מקום לאות יו\"ד ושם נאמר דיתן מעט עפר בכלי וכאן אם יש לו עפר מוכן יתן הרבה דכאן לא שייך התרת חלבו ואם אין לו עפר ישחוט כך לתוך הכלי כיון דאין עתה עובדין עבודת כוכבים בכך כדלעיל יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:22"
+        },
+        "23": {
+          "he": "ואין. עש\"ך דבאינו יודע לאמן ידיו כיון דאיכא דעות אף באחרים רואין פסול מש\"ה מכסה בלא ברכה והשיג על הלבוש דכתב מכסה בלא ברכה. וסבור הייתי לומר דעשו היכר שלא יבואו לאכול משחיטתן שיתנו להם אח\"כ אלא מנלן הא והתב\"ש פסק דמכסה בברכה. שוב עיינתי בלבוש סכ\"ב וז\"ל שם אם אחרים עע\"ג וראו ששחטו כהוגן חייבים לכסות ואפי' שחטו הם עצמם ובלא ברכה דהא עכ\"פ שחיטה ראויה היא יראה דה\"ק אפילו שחטו החש\"ו עצמן ומסתמא בלא ברכה על השחיטה אפ\"ה מכסה בברכה דמ\"מ שחיטה ראויה היא דאפילו הזיד ולא בירך שחיטתו כשירה כן נראה לפרש דבריו:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:23"
+        },
+        "24": {
+          "he": "ופטור. בש\"ך כתב דאפילו איסורא איכא דלמא אתי למיכל ומה שהביא ראיה מתוס' ד\"ה סיפא אף דלמסקנא לא קיימא הכי מ\"מ המעיין בתוס' דבור המתחיל מ\"ט יראה דסברי לסברא פשוטה דכל היכא דפטור אסור להחמיר דאל\"כ לא הוה מקשי מאי טעמא דרבנן דאימא משום חומרא ופליגי ארישא נמי אלא דאין זה סברא דמש\"ה הקשו דאפילו יהא מותר לשחוט אחריהם בקום ועשה וכ\"ש דאין צריך לכסות מהאי טעמא. אמנם מה שכתב התב\"ש דהיכא דלנקר רשאי לכסות לא הבנתי כלל דאדרבה בגמרא משמע דמשום שחט באשפה לא פלוג ואפילו בחצירו אסור וכן מוכח מב\"ח בקו\"א דכתב דלא תלינן לקולא לנקר דבשחט באשפה ליכא למימר הכי זה יודה כמ\"ש כאן:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:24"
+        },
+        "25": {
+          "he": "וצריך. הש\"ך הראה מקום לסימן ח\"י וכ\"ה והנה אם נאבד הסכין פשיטא דמכסה בברכה כיון דעוף והחיה כשירה דאוקמיה אחזקה ואשר יאכל קרינן ואם לא בדק בסימנים ונאבד או חתך דאשו דא\"א תו לבדוק יראה לי דמכסה בלא ברכה אף שכפי הנראה הוה וודאי נבילה מ\"מ מתוס' חולין ט' ד\"ה ואסורה משמע דהוה רק איסור דרבנן וגם להר\"מ ז\"ל לא ברירא כ\"כ מש\"ה מכסה בלא ברכה ועסי' כ\"ה מ\"ש מזה ✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:25"
+        },
+        "26": {
+          "he": "עד שיבדוק. עש\"ך ועיין מ\"ש בט\"ז. ולענין בדיקות הוושטות באווזות שמלעיטין שיש תקנה לבדוק יכסה מקודם ול\"ד לריאה שהשוחט הוא הבודק משא\"כ בזה צ\"צ סימן ק\"ט וכן כתב התב\"ש ודבר דאתיליד ריעותא וודאי אין מכסין עד שיבדוק וכ\"ש הוא מריאה דלא הוה אלא מדרבנן כ\"ש ריעותא דהוה מן התורה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:26"
+        },
+        "27": {
+          "he": "כגון. עש\"ך השיג על הב\"ח וממרוצת דבריו נראה דהבין מב\"ח מטעם אוקמיה אחזקה קאתינן עליה ודחי לה מחולין. הנה מה אעשה שלא זכיתי להבין דבריו בכאן דוודאי סוקלין ושורפין על החזקות וגמרא חולין אדרבה התוס' שם ד\"ה מ\"ט כתבו אי לרבנן מחצה על מחצה הוה וודאי דאיכא חזקה ומה שאמרו לר\"מ רובא דאי מחצה עכ\"פ מדרבנן הוה מצריך כיסוי כיון דלא אזיל בתר רובא מדרבנן כ\"ש בתר חזקה. שוב ראיתי במהרש\"א ז\"ל כתב לר\"מ מש\"ה אמר רובא דעם חזקה הוה מיעוטא דמיעטוא וזה כדברי. אמת שבסכין פגום לא הוה אלא ספק וכבר כתבנו בסימן ח\"י טעם לזה דהוה ספיקי טובי או שאר טעמים. ועיינתי בב\"ח בסימן זה וז\"ל כיון דלא יצאה מחזקה כו' וגם זה הוה בכלל אשר יאכל יראה לי דה\"ק לו דהוה ספק השקול עם החזקה ולא וודאי מ\"מ כיון דאשר יאכל ממעט שחיטה שאינה ראויה מה\"ט ממעטינן ספק טריפה לא מיבעיא למ\"ד ספיקא דאורייתא מן התורה אסור א\"כ לאו בכלל אשר יאכל הוא אלא אפילו להר\"מ ז\"ל דמדרבנן אסור מ\"מ הא כתב בשורש הא' דכל מידי דרבנן הוה ד\"ת מלאו דלא תסור כמו שאנו עתידין לבאר בס' שושנת העמקים א\"כ ממועט מאשר יאכל. תדע שהרי בסימן ח\"י כתב הב\"ח גופא דמש\"ה כתב הטור דנמצא פגום הר\"ז נבילה אף דלא הוה רק ספק כדי לפטור מכיסוי ואיך יסתור דבריו תכ\"ד כיון דספק איך יפטור מכיסוי אלא כדאמרן. ומ\"ש שם דלמא אתי למיכל ה\"ק דאין רשאי להחמיר. וסובר ג\"כ הא דכתב הטור אי מישתכח סירכא כו' א\"נ אומא לדופן היינו אותן שא\"א בקיאין ומשום חומרא מש\"ה מכסה יע\"ש. מ\"ש הפר\"ח על א\"נ אומא לדופן ואה\"נ לדידיה כל ספק טריפות אין מכסה ומש\"ה בשחיטה ר\"ל דהוה עכ\"פ ספק מ\"ה דאלו בשאר דברים אזלינן בתר רובא (ואפילו להר\"מ אפשר דספק כי הא בשחיטה הוה מ\"ה) ואיך שיהיה דברי הש\"ך בכאן צ\"ע:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:27"
+        },
+        "28": {
+          "he": "אבל. עש\"ך ומ\"ש דמשמע לא ידענא הא מבואר הוא מדכתב אבל דבר כו' והלא בספק טריפה ממש מכסה בלא ברכה לדעת המחבר וא\"כ בהכרח בחתך המפרקת מכסה בברכה ולענין דינא כבר כתבנו בט\"ז וכן סיים התב\"ש הזהיר להוציא ש\"ש לבטלה אין להכריח אותו לברך ועיין ל\"ח קצ\"א א' במ\"ש שם: דע דאם שחט הוושט בחיה ואח\"כ ניקב התורבץ דיש טריפות לחצי חיות מכסה בלא ברכה דספק הוא אי יש טריפות לחצי חיות כמו שהתבאר בסי' כ\"ו ואף דמתחלה היה דם ראוי לכיסוי מ\"מ איגלי מלתא למפרע דלאו אשר יאכל הוא. וכן אם שחט או\"ב ביום א' לדעת בה\"ג דאסור בו ביום מ\"ה לחד דעה מלא תאכל כל תועבה (או אפשר כל מלתא דאמר רחמנא לא תעביד ויש לאסור בו ביום עכ\"פ) מ\"מ אשר יאכל קרינן ביה דהא למחד וליומא אוחרא מותר דהא מפרכסת נמי מיד אסור מ\"ה לדעת הר\"מ ז\"ל. מבעיא לי בן פקוע שהפריס ע\"ג קרקע ויש ב' תמיהות שאף מדרבנן א\"צ שחיטה אם נחרו ועקרו מי אמרינן ושפך וכיסה חייב לכסות וה\"נ כן הוא וודאי דמו דם הנפש קרינן ביה כמבואר דחייבין על דמו כרת והא דנוחרו או עוקרו פטור דלאו אשר יאכל והא קרינן ביה אשר יאכל שוב ראיתי לא זו דכה\"ג פטור אלא אף שוחטו כראוי פטור דבין למאן דיליף משחוטי חוץ ומטבוח טבח בעינן כי התם דשחיטה אהני וכאן לא אהני כלל דשחוט ועומד הוא ומיהו בהפריס ואין בו תרי תמיהי דטעון שחיטה מדבריהם וודאי טעון כיסוי מדבריהם וכפי הנראה מכסה בברכה כמו בשחיטה דמברך כה\"ג עסי' י\"ד וצ\"ע ✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:28"
+        },
+        "29": {
+          "he": "תקינו. עש\"ך דמסיק להלכה כן דבגמרא איידי דהעוף שוה לו יותר דליכא ב\"ת וכיון דאפשר למיעבד הכי לא התירו לו שיתמצה בבגדו משא\"כ כשהבגד שוה יותר כיון דא\"א בע\"א התירו שיתמצה בבגדו ועל קושיא שניה כתב דלא יאמר בעפר רק על כיסוי הדם. ומ\"מ לא הבינותי כיון דהמצוה אינו אלא בעפר איך יברך עכשיו ול\"ד לביעור חמץ דא\"א בלא בדיקה משא\"כ כאן ודברי הלבוש ג\"כ קשין אמאי לא כשמתמצה מבגדו אח\"כ ויש מראית דם אמאי לא יברך אז ואפשר שכבר נדחה. וראיתי לתב\"ש שמסיק ג\"כ דמברך אח\"כ. שוב עיינתי בלבוש כתב דהיכא שמכבס אח\"כ ויש מראה דם דמברך אלא היכא שאין מראה דם אין מברך אח\"כ וא\"כ קשיא קצת על הש\"ך מ\"ש סתמא בשם הלבוש דאין מברך אח\"כ. ולענין דינא וודאי מי שאין לו עפר יוכל לשחוט לתוך סנדל של עור ואין בזה ביזוי מצוה כמ\"ש התב\"ש ומכסה כשמגיע לביתו דודאי מצות כיסוי לאו מיד הוא כמו שהוכחתי לעיל וכן הוכיח התב\"ש דכוי אין שוחטין בי\"ט דהקשה הרא\"ש יקבל הדם בכלי וכן כתב הב\"ח לדידן דאין עובדין עבודת כוכבים בכך שרי ע\"י מעט עפר אלמא דראוי לאכול והכיסוי הוא ביומא אוחרא וה\"נ כן ויפה כתב בזה התב\"ש וכן ראוי לעשות:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:29"
+        },
+        "30": {
+          "he": "השוחט כו'. עש\"ך ומ\"ש דם האיברים שלא פירש אפשר דה\"ק דה\"א דפי' ממקום למקום קמ\"ל דלא הוה פי' ממקום למקום. ויש שלשה פירושים. א' דל\"ת דלא נתקיים מצות כיסוי וא' דל\"ת מתים הם וא' דל\"ת דם האברים כו' ולכאורה כולהו צריכי דבמשנה תנן השוחט חיה ועוף ובהמה ולא נאמר סתמא השוחט ולא יצא דם וכ\"ת חיה אשמעינן דלא איירי בקדשים זה ידעינן מכח שאר קושית שם בגמרא אלא היה קתני משום כיסוי ועוף לומר דצולהו כאחד אפ\"ה יוצא כל הדם ובהמה אשמעינן מיתורא דמתני' דא\"צ פרכוס ולא חיישינן שמא מתים אי לאו יתורא ה\"א דאיירי בפרכוס או יאמר עוף נקיט משום ר\"ש דהוכשרו בשחיטה וכפירש\"י לבן נח משום אמ\"ה ואף בשוחט טריפה וה\"א עוף אין ב\"נ מוזהר עליה קמ\"ל נהי דאין נהרג עכ\"פ מוזהר עליה עיין בד\"מ פ\"ט מהל' מלכים. ויש לראות המחבר דנקיט השוחט ולא יצא דם מותרין מה אשמעינן בזה הא איהו הסכים בספרו הארוך אפילו הזיד ולא כיסה דשרי השחיטה כ\"ש כאן ורמ\"א אמאי לא הגיה עליו כלום ודוחק לומר דרבותא הוא דל\"ת דווקא הזיד דהיה ראוי לקיים מצות כיסוי משא\"כ כאן דבעינן קרא כדכתיב זה דוחק:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:30"
+        },
+        "31": {
+          "he": "הנזרעים. דווקא שזורעים בתוכו ומצמיח הא כשגדלו כבר לא ש\"ך. וה\"ה אם מעלה עשב מעצמו נמי לא דעפר המדבר נמי מגדל עשב הוא:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:31"
+        },
+        "32": {
+          "he": "בחרסית. פי' בערוך מין סיד שחופרין אותו מן האדמה ש\"ך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:32"
+        },
+        "33": {
+          "he": "מגופא כו'. האי שכתשן קאי נמי אלבינה דבלאו כתישה אין ראוי לכסוי כלל דבעינן שיהא הדם נבלע בו ועוד דבעינן שיהיה ראוי למנות כמ\"ש אם יוכל איש למנות ואף שהיה מתחלה עפר עכשיו הוה גוש ש\"ך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:33"
+        },
+        "34": {
+          "he": "ובנעורת. עש\"ך הביא כמה פירושים ע\"ז ובשיחור ב' פירושים יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:34"
+        },
+        "35": {
+          "he": "אם. זה הכלל בכל הדברים שאמרו שאין מכסין בהם היינו בעינייהו הא נשרפו וודאי מכסין בכולם ועש\"ך בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:35"
+        },
+        "36": {
+          "he": "ולכן. הרמ\"א כתב ולכן משמע הטעם דבמתונתא אין מכסין דאין ראוי לזריעה והקשה הש\"ך מפסחים פרק אלו עוברין דאמרי' מ\"ז ב' יש חורש כו' במתונתא פירש\"י דראוי לזריעה ואין ראוי לכותשה יע\"ש אלא הטעם דבעינן אם יוכל איש למנות והאי ולכן ט\"ס הוא. ועיין ב\"י שהעתיק דברי רש\"י ואינה ראויה לזריעה ט\"ס הוא וצ\"ל וראויה לזריעה. בדגבי אדמה אין מכסין כמ\"ש התב\"ש מה\"ט גופא:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:36"
+        },
+        "37": {
+          "he": "בעפר לחה וכ\"ש בטיט ש\"ס ש\"ך ור\"ל דאמרינן פא\"ע מ\"ז ב' וטינא בר זריעה הוא וכיון דאין מגדל צמחים לאו בכלל עפר הוא והלכך אפילו יבש ונפרך עד אשר דק אפ\"ה אין מכסין בו ובארץ לחה דהוא מתונתא הטעם דאין נפרך ובעינן אם יוכל איש כו' וז\"ש וכ\"ש בטינא דאין לו תקנה כלל ואלו במתונתא יש תקנה: כתב הכה\"ג בהגהות הטור אות י\"ד וט\"ו ראמים שלנו מין בהמה הם ובסי' פ' אבאר. עסי' רצ\"ג בש\"ך שתמה על רמ\"א בשור הבר ובס' נ\"ו הארכנו בפרט זה: תנן כסהו הרוח פטור מלכסות חזר ונתגלה חייב הא כסהו בעצמו וחזר ונתגלה פטור ועיין תב\"ש אות ט\"ז האריך אפשר דאף שכיסה הרוח בדברים שאין מכסין אפ\"ה פטור ולפ\"ז יש לכסות בלא ברכה כי חזר ונתגלה וה\"ה אפשר אם בעצמו כיסה בדבר שאין מכסין ומגלהו אין מברך דיש דיחוי הוה בעיא דלא אפשטא כדאמרן. והשוחט ונבלע דם אם רישומו ניכר מכסה בברכה אף דלמטה לא אפשר מ\"מ מקיים המצוה כתיקונה מיקרי ומברך. אם רשאי השוחט לכבד לאחר במצוה זו כבר כתבנו לעיל דעת התב\"ש דרשאי לכבד אמנם לא ימכור המצוה בדמים כדכתיב אמת קנה ואל תמכור ועיין בהל' מילה סימן רס\"ז וכבר הארכנו בט\"ז מזה יע\"ש: סליק הלכות שחיטה בעזרת השם יתברך",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 28:37"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "מזומנים. עיין ט\"ז הביא ברייתא דריש כיסוי הדם ומסיק שם דאנו שאין בריאים אוכלים בשר ועיש\"ש פרק כיסוי דם סי' ג' דמ\"מ לא יעדן עצמו בתפנוקים והעתיק דברי הר\"מ ז\"ל אין ד\"ת מתקיימין במי שמרפה עצמו עליהן ולא באלו שלומדין מתוך עידון ומתוך אכילה ושתיה אלא במי שממית עצמו עליהן פי' שמצער גופו תמיד ולא יתן שינה לעיניו ולעפעפיו תנומה אמרו חז\"ל אין דברי תורה מתקיימין אלא במי שממית עצמו באהלו של תורה דכתיב אדם כי ימות באוהל. ועיין בספר המדע פ\"ה ובכ\"מ שם. כתב כנה\"ג בהגהות ב\"י אות וי\"ו דהא דאמרינן לעולם יכבד אדם אשתו ובניו יותר ממה שיש לו היינו במלבושים דר' יוחנן קרי למאני מכבדותא ולא באכילה ושתיה. וכתב בשם דמש\"א דאם הוא אנינא דעתיה כרב יוסף יכול לעדן עצמו שזה גם כן משמירת ובריאת הגוף עד כאן לשונם העתקתי זה מפני שהם דברי מוסר ושכל: כתב הר\"מ ז\"ל פי\"ד מהל\"ש ה\"א נוהג במזומן ואינו מזומן לא נאמר אשר יצוד אלא דבר הכתוב בהוה וכתוב הלח\"מ שפי' הר\"מ כתוס' שם הא דתנן ונוהג במזומן משום דל\"ת דאשר יצוד כתיב ור\"ל דאלו לפי פירש\"י דפירש מש\"ה תני במזומן איידי דשלוח הקן כו' לא הוה להר\"מ לומר דבר הכתוב בהוה משמע דהוא מפרש מה שכתב קודם נוהג במזומן. ועל רש\"י קשה אמאי לא פירש כתוס' והקשה הלח\"מ דגמרא אמר למדה ד\"א והוא כתב דבר בהוה ותי' דגמרא יצוד קשיא והר\"מ נתן טעם לציד עכ\"ל וירצה בזה דבברייתא אמרו נצודין ועומדין ת\"ל ציד מכל מקום א\"כ יצוד ל\"ל ולא מקשה למה לי כלל יצוד וציד ואם נאמר דיבר בהווה א\"ש ודוחק. ועוד דמאי קשה לגמרא למה לי יצוד ה\"א ציד דוקא אין מזומן וציד דרך לכתוב משום דבר הכתוב בהוה ולכך כתיב יצוד ציד דאין מיעוט אחר מיעוט אלא לרבות ועוד אימא יצוד למדה ד\"א וציד דוקא אין מזומן דאי יצוד לחוד לא ידעינן למדה ד\"א ועוד מסתבר דנוהג במזומן דאל\"כ למה כי יקרא פרט למזומן ניליף מק\"ו מכיסוי שנוהג בנקיבות וזכרים אינו נוהג במזומן כ\"ש שילוח הקן עיין תוס' ר\"פ או\"ב:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 28:1"
+        },
+        "2": {
+          "he": "מצוה. עיין ט\"ז ובתפילין הטעם דאסר להפסיק שצריך לברך על של ראש שתים לדידן א\"כ הוה ברכה שא\"צ ומניח תפילין דר\"ת או בחש\"מ למאן דלא מברך ודאי לענות קדיש או לומר קדושה שרי ובלא כך אסור כמו בין שחיטה לכיסוי טוב שלא לדבר ה\"נ ומ\"מ הגהות רמ\"א היה להגיה אחר כך אמ\"ש המחבר דיברך קודם כיסוי ולא אח\"כ כבה\"ג:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 28:2"
+        },
+        "3": {
+          "he": "כיסוי. הט\"ז נתן טעם להורות ב' כיסוין ואף אם נבלע ורישומו ניכר דלית ליה אלא כיסוי מלמעלה או דם חיה או דם בהמה וליכא עפר למטה אפ\"ה נוסח הברכה חדא הוא והתב\"ש כתב טעם דכתיב במקום אחר וכסינו את דמו לשון העלמה דל\"ת דה\"נ ה\"פ לכן אנו אומרים בעפר לומר דמצוה היא לכסות בעפר ונכון הוא ואם שכח לברך קודם הכיסוי פר\"ח כתב יברך אח\"כ כיון דבה\"ג סובר דעיקר הברכה אח\"כ והתב\"ש העלה דאין לברך אח\"כ לחוש לדברי הר\"מ ז\"ל בהל' ברכות וכן ראוי להורות דספק ברכות להקל. מ\"ש התב\"ש אות י\"ג על מ\"ש הלבוש מדכתיב בעפר בסגו\"ל ולא בשו\"א כתב א\"י היאך משמע כן. והנה גם הפרישה כתב כלבוש והיינו משום דאותיות כל\"ב המשמשין הם בשו\"א והיכא שבא אות הגרון אח\"כ בפת\"ח נשמטה אות הגרון והוטל התנועה על שלפניה כמו בשמים וכדומה וה\"נ כאן בעפר הידוע והשמיט הה\"א ובא סגו\"ל במקום פת\"ח:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 28:3"
+        },
+        "4": {
+          "he": "הבא. עט\"ז בשם רש\"ל דתייש הבא על הצביה ודאי חיה ומכסה בברכה ושוחטין בי\"ט ואף דאמרינן אתי להתיר חלבו היינו כוי שהוא ספק אמרו אי ס\"ד ספיקא לא אטרחוה רבנן בי\"ט אלא ש\"מ קמו רבנן במלתיה דודאי חיה ומשרי חלבו משא\"כ תייש הבא על הצביה ודאי מקצת חיה הוא ומש\"ה לא אתי למישרי ועוד היאך יעקור מצות כיסוי משום גזירה כיון דודאי היא ועיין לבוש ס\"א ופרישה אות ה' כתב בחול יאמרו לנקר חצירו לא ידענא דא\"כ יהא אסור לשחוט כוי באשפה בחול אלא הטעם בחול יאמרו מספיקא טעון כיסוי עי' ביצה יש לראות להפרישה וב\"ח דאמרי לא בכל מקום אמרו שה ואפילו מקצת שה א\"כ תייש הבא על הצביה או להיפך חלבו ספק הוה ולא ודאי דאפשר כל חלב שור וכבש ועז ולא מקצת והא דכתב כל לרבות כוי היינו שהוא בריה בפ\"ע ולא כה\"ג ויש לעיין ומיהו אנו לא קיי\"ל כפרישה וב\"ח וחלבם חלב גמור וענוש כרת אם אכל ב' זיתים והיינו בצבי על התיישה הא תייש הבא על הצביה ספק הוה דשמא אין חוששין והוה כולו צבי ולקמן בס' התערובות אבאר בזה✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 28:4"
+        },
+        "5": {
+          "he": "לשחוט. כתב הט\"ז היינו אצל הבופל\"י לא ע\"ג דלפעמים יהיה בטל ושמא אין דם הבופל\"י טעון כיסוי. ולא ידענא אמאי לא כתב הטעם דאין עפר למטה תחת העוף דדם הבופל\"י מפסיק. ושוב ראיתי התב\"ש אות ח' כתב זה הטעם וכתב דהש\"ך באות י\"א רמז לזה ושם יבואר. ומכל מקום יש ליישב למ\"ש הלבוש הביאו הט\"ז אות י\"א דחיה ע\"ג בהמה אם יש עפר למטה א\"צ גרירה ואם לאו צריך גרירה ואף שהט\"ז השיג עליו היינו מטעמים אחרים אלמא כ\"ע מודים דמין במינו אינו חוצץ א\"כ י\"ל דמש\"ה הוצרך לטעם זה דאי משום הפסק מין במינו אין חוצץ. ולשחוט כוי בי\"ט אם יש לו עוף לכאורה שרי דמכסה בשביל העוף ומ\"מ כיון דכתבו לא ישחוט זע\"ז אלא זא\"ז א\"כ צריך טורח לכסות שתיהן תו אתי למשרי חלבו ואסור וה\"ה חיה עם כוי אסור כמ\"ש בסמוך ובופל\"י אסור לשחוט בי\"ט עיין מ\"ש לקמן:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 28:5"
+        },
+        "6": {
+          "he": "למטה עפר תיחוח. דכתיב בעפר משמע שיהא עטוף בעפר ט\"ז. ועפר דלמטה צריך שיהא כמו עפר דלמעלה בכל הלכותיו דבר שמצמיח או שיהא נקרא עפר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 28:6"
+        },
+        "7": {
+          "he": "בסכין. היינו בקתא לא בלהב שמא יפגום ט\"ז. ושוחט שמכסה בלהב יש להעביר אותו שמיקל הוא כמבואר בתשובת הרשב\"א עיין לעיל ועיין פרישה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 28:7"
+        },
+        "8": {
+          "he": "חייב. עט\"ז הקשה קושית הפרישה ותי' יע\"ש ומ\"ש דמ\"מ צריך לפייסו וה\"ה אם תפס לא מפקינן מיניה וכגון שאמר הברכה בלחש שלא שמע חבירו הא לא\"ה שומע ועונה אמן יותר מהמברך ואי לא ענה איהו דאפסיד אנפשיה ובזה צריך עכ\"פ לפייסו שביטל חבירו מהמצוה וה\"ה בספיקות כמו ספק טריפה וכדומה דמכסה בלא ברכה מ\"מ צריך פיוס שמבטל חבירו מספק מצוה ועיין בטור וכדאמרן. ואם רשאי השוחט לכבד במצוה זו לאחר לכסות להש\"ך ח\"מ שפ\"ב משמע דאסור והתב\"ש אות י\"ד העלה דרשאי לכבד. ובאמת כיון דנוהגין העולם אף שאבי הבן מוהל מכבד לאחר ה\"ה כאן דרשאי לכבד עיין לקמן סי' רס\"ד בד\"מ יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 28:8"
+        },
+        "9": {
+          "he": "דם. עט\"ז דאין דיחוי אצל מצות ומיהו הנך שני דינים אין שוין דאלו דם לתוך המים מטעם דאין דיחוי מכסה בלא ברכה כמ\"ש הפר\"ח ותב\"ש אות י\"ז דבסוכה ל\"ג וע\"ז מ\"ז הוה בעיא דלא איפשטא אי יש דיחוי או לאו ומספק מכסה ואף טפה אחרונה לא בטלה מה בכך כיון דראשונים בטלו תו הוה אחרונה כמו ליין אדום או דם בהמה משא\"כ מים לתוך דם מכסה בברכה ועיין פ\"ת אות ט\"ז דוקא נראה ונדחה הוה בעיא דלא איפשטא אבל דיחוי מעיקרו לא הוה דיחוי וא\"כ מיד שנפל כיסה הרוח דלא היה ראוי שום פעם לכיסוי ונתגלה מכסה בברכה יע\"ש ולפ\"ד ה\"ה דם לתוך מים ואח\"כ נתרבה הוה דיחוי מעיקרו וחוזר ונראה ומ\"מ יש לעיין מיד ביציאתו מצוואר עוף נראה מיקרי ע\"כ יכסה בלא ברכה גם מ\"ש באות י\"ז דם לתוך מים צריך שיעור יותר מן המים לתוך דם לאו דמים לתוך דם לא בעי מראה דם אלא דבקל יש לו מראה דם משא\"כ להיפך ומ\"מ מראה דם בעינן:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 28:9"
+        },
+        "10": {
+          "he": "שחט. עט\"ז ויש במקצת דפוסים ט\"ס וז\"ל הטור כתב בה\"ע האי מאן דשחט ציפרא או חיותא ושחט בהמה פטור. בהמה ואח\"כ חיה חייב. בפטור הזכיר עוף ובחיוב לא הזכיר רק חיה והמחבר שינה וכתב בחיוב ג\"כ עוף דאזיל לשיטתיה שהקשה בב\"י לאיזה צורך הביא זה בשם בה\"ע והלא ברייתא שלימה היא והב\"ח תי' דמבה\"ע שמעינן בסיפא חיה ולא עוף וכן סובר מהרש\"ל וז\"ש הט\"ז כאן והיינו דעוף מועט דמו נשקע ובטל אף שהוא למעלה עש\"ך אות כ' ומיהו חיה ואח\"כ בהמה עומד הוא למעלה ולא נתערב ומכוסה בדם בהמה והט\"ז הקשה ע\"ז דלאו ודאי הוא דליהוי דם ציפור בטל דלאו כל הציפרים שווין וע\"כ תי' דבגמרא משמע דריב\"י אמר כן ות\"ק פליג עליה ומש\"ה השמיטו הרי\"ף ורשב\"א ורא\"ש דברי ריב\"י (וא\"י אמאי לא מנה גם הר\"מ ז\"ל עיין לח\"מ פי\"ד מה\"ש הי\"ד) ויש לפרש בב' פנים או דת\"ק סובר חיה על בהמה פטור דלא ס\"ל כל הראוי לבילה כו' או דסובר בהמה על חיה נמי חייב כקושית התוס' וליגרריה וליכסי כו' ומש\"ה השמיטו הרי\"ף ורשב\"א ורא\"ש האי ברייתא כיון דרבים פליגי עליה והטור סובר דהלכתא הוה מדמקשה מיניה מש\"ה הביא הטור זה בשם בה\"ע זהו תוכן כוונת הט\"ז ומיושב הלשון. אלא שיש להקשות אי ת\"ק סובר כיון שאין כיסוי למטה פטור אף למעלה א\"כ מה מקשה בריש כיסוי הדם מריב\"י ליסייעיה מת\"ק ודלמא מתני' ת\"ק ומש\"ה קדשים לא אח\"כ ראיתי בתב\"ש אות כ\"ה ובבכור שור הרגיש בזה. ומיהו אתירוץ שני שכתב הט\"ז דת\"ק אף בהמה למעלה חייב לגרר ולכסות ל\"ק דה\"ק מי לא תנן ריב\"י אומר ולא מיבעיא לת\"ק קשיא ליגררי' אלא אפילו לריב\"י תקשה דא\"צ עפר למטה דיעבד כמ\"ש הלח\"מ פי\"ד מה\"ש הי\"ד ולתי' ראשון קשה ולדידי משום הא לא איריא דודאי מתחלה הקשה מריב\"י דהיה סבור אף דרבים פליגי עליה אפ\"ה הלכתא כוותיה מהא דתנן דם הניתז ושעל הסכין חייב לכסות והלכה כסתם משנה והיה סובר בלא גרירה ומכסה במקומו אלמא דאין מעכב עפר למטה ופריך שפיר מריב\"י דדוחק לומר דמשנה זו פליגא על משנה דדם הניתז וכ\"ת א\"כ אמאי לא מקשה מיד ממשנה דם הניתז. הא בלא\"ה נמי תקשה היה להקשות מיד ממשנה בלא ברייתא דריב\"י ויש לנו הרהורי דברים על מ\"ש הל\"ח קצ\"ב אות כ\"ח יע\"ש ועי' תב\"ש אות כ\"ה שהאריכו בזה. ואח\"כ דמשני כדר\"ז כל הראוי לבילה כו' מקשי ליה מהא דדם הניתז ושעל הסכין דודאי גריר ליה אף לריב\"י דבמקומו אין ראוי לבילה דלא יצויר דם שעל הסכין שיהא עפר למטה דהא צריך למישחט ביה עיין כה\"ג בהגהות ב\"י אות ח\"י שהאריך בזה וכתב דמ\"ש התוס' תי' אדם הניתז אבל דם הסכין א\"א בגרירה ולא הוה ראוי לבילה דא\"א שישחוט ולא יתלכלך הסכין בדם כו' ולא הבינותי דבריו דא\"כ אכתי מה תי' לקושית קדשים אמאי לא ליכסיה למעלה במקומו כמו דם הסכין אף דא\"א למטה ואין להאריך. ומ\"מ נאמר כפי דרכינו דודאי בסכין א\"א דיהיה ראוי לבילה וע\"כ דגריר ומכסה פריך שפיר וליגררי' וליכסיה והא דמשני שפך וכיסה מי שאין מחוסר אלא גרירה אפ\"ה לא קשיא מדם הסכין דהתורה לא מיעטתה אלא דם קדשים ולא דם חולין אף שעל הסכין. אלא שאני תמה במ\"ש דמש\"ה השמיטו הברייתא דהלכה כת\"ק דבאין עפר למטה אין מכסה למעלה והא דדם הסכין היינו דגריר ובדם בהמה ואח\"כ חיה א\"א בגרירה כמו שהאריכו האחרונים בזה ועיין תב\"ש א\"כ איך כתב הרא\"ם ז\"ל לברייתא ד' פ\"ז א' השוחט ונבלע דם בקרקע חייב לכסות ואוקמיה ר\"ז ברישומו ניכר והא אין עפר למטה לתי' הא' של הט\"ז. וע\"כ נראה דה\"ק הט\"ז דמש\"ה השמיט האי ברייתא מדקתני ריב\"י אומר ולא אמר ריב\"י ש\"מ דפליג על ת\"ק ויש לומר א' מב' פנים הפן הא' דלת\"ק בהמה ואח\"כ חיה אין חייב דבעינן עפר למטה או דסובר בהמה ואח\"כ חיה גריר ליה והאמת הוא כאופן ב' דמסתמא הלכתא כברייתא דשוחט ונבלע דם בקרקע חייב לכסות ברישומו ניכר ומש\"ה פריך ליה מריב\"י והרא\"ש סובר פי' הב' ומש\"ה לא זכר להאי ברייתא והטור סובר דכאן א\"א גרירה ול\"ד לסכין דגריר ליה ומש\"ה סובר דהלכה היא. אמנם הא קשיא לי דא\"כ אמאי חיה ואח\"כ בהמה פטור מלכסות יערבנו ויכסה בלא ברכה כמו נראה ונדחה ואי דהוה ככסהו הרוח יש לעיין גם שם אי כסהו בדבר שאין מכסין אי פטור או לאו ולקמן אבאר בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 28:10"
+        },
+        "11": {
+          "he": "שחט. עט\"ז דבהמה ואח\"כ חיה מכסה בלא גרירה והתוס' באמת הניחו בתימה אמאי ליגררי' והל\"ח דף קצ\"ג כתב דא\"א בגרירה והשיג על הלבוש דכתב דמיירי ביש עפר למטה דא\"כ מה מקשה הגמרא והא תניא ריב\"י והתם מיירי ביש עפר למטה ובל\"ח קצ\"ג א' וב' טרח ליישב דברי רמ\"י יע\"ש ובש\"ך אות כ' אבאר עוד. ועי' מ\"ש לעיל בט\"ז אות ה' דמודה לו עכ\"פ דאין הפסק בין דם בהמה לחיה דמינו אין חוצץ והא דדם בהמה למעלה אין מכסה היינו דעכ\"פ מכוסה הוא ולמ\"ש הלבוש דלסוף נבלע גם הוא בעפר משמע קצת בע\"א:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 28:11"
+        },
+        "12": {
+          "he": "ונתנבלה. עט\"ז הנה הב\"י הקשה על דברי הגהות מיימוני שחט עוף ואח\"כ עוף אחר ונתנבלה חייב לכסות משוחט חיה ואח\"כ בהמה דפטור ותי' עופא דקליל ויראה לי פירושו דלא סמיך ועב ומעורב עם התחתון ורואין כאלו מים ויש בתחתון מראה דם והד\"מ לא ניחא ליה בתי' זה ותי' דאם יודע ודאי שכיסה כל דם החיה פטור הא מסתמא חייב וז\"ש כאן בהג\"ה כו' ולא חילק בין עופא דקליל דלשיטתיה אזיל. וה\"ה דה\"מ למכתב דבריו אמ\"ש המחבר שחט בהמה על חיה פטור דוקא בידע הא מסתמא חייב אלא דנקיט לשון הגהות מיימוני ולא מצי לחלק איפכא מסתמא פטור הא ידע שלא כסה חייב דא\"כ מה קמ\"ל הגהות פשיטא וכפי הנראה דמכסה בלא ברכה קאמר. והט\"ז לא ניחא ליה בכך ותי' בע\"א דאף שודאי כיסה אפ\"ה דומה לחמץ דאין חוזר וניער. ולא הבינותי דחמץ מו' ולמעלה אף דאסור הוא מ\"מ בטל הוא ועוד מה ענין זה לסעיף י\"ג דכאן כיסה דם העליון לתחתון ואולי עופא דקליל מתערב יפה משא\"כ דם בהמה דסמיך וצ\"ע ועיין תב\"ש שתמה ג\"כ עליו ובנה\"ך והפר\"ח האריכו בזה ועיין כה\"ג בהגהות הב\"י אות כ\"ז הקשה על תי' הב\"י עופא דקליל א\"כ אמאי אשמעי' בברייתא בהמה ואח\"כ חיה חייב לכסות לאשמעינן רבותא חיה ועוף ואח\"כ עוף וניבלה חייב וביותר לפרישה וב\"ח ודמש\"א דהם סוברים בהמה ואח\"כ עוף פטור מלכסות א\"כ לאשמעינן הא וכ\"ש חיה ואח\"כ בהמה דפטור מלכסות עכ\"ל הנה הוא ז\"ל סובר דלפרישה וב\"ח ודמש\"א יש יותר קושיא וכפי הנראה אינו כן דאי אשמעינן בהמה ואח\"כ עוף ה\"א הטעם דבטל הוא אמנם בהמה על חיה גדולה דשוה דם החיה כבהמה ה\"א דרואין קמ\"ל דעומד הוא בפ\"ע דסמיך ואינו מתערב אמנם לתי' הב' דעופא דקליל יש להקשות לאשמעי' עוף ואח\"כ עוף וניבלה דחייב לכסות כ\"ש בהמה ואח\"כ חיה חייב ממ\"נ אי אין מתערב הרי דם חיה למעלה ואי מתערב הרי רואין כו' י\"ל דאי הוה תני הכי ה\"א דחיה ואח\"כ בהמה נמי חייב לכסות. ועוד למאן קא קשיא ליה להב\"י ואיהו סובר בהמה ואח\"כ חיה אפילו אין עפר למטה חייב לכסות דלא כלבוש וא\"כ אין כאן התחלת קושיא דאי הוה תני עוף ועוף וניבלה משום דיש עפר למטה קמ\"ל בהמה ואחר כך חיה דאין עפר למטה כדר\"ז כל הראוי לבילה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 28:12"
+        },
+        "13": {
+          "he": "אפילו יש לו דקר נעוץ. עט\"ז דאף דלא מתסר אלא מדרבנן אפ\"ה יש כח ביד חז\"ל לעקור דבר מ\"ה בשב ואל תעשה. ואפילו יש לו עפר מוכן לכל ספיקותיו משמע דעה א' דאסור וכן הכריע הפר\"ח אבל דעת התב\"ש באות ל\"ב כהרא\"ה דמכסה בברכה ואף בת\"ה לא פליג עליו מדכתב אפילו יש לו דקר נעוץ משמע הא עפר מוכן מכסה אלא שבמ\"ה השיג עליו וכן פסק העט\"ז דמכסה והנה בש\"ע כתב אפילו יש לו דקר נעוץ משמע הא עפר מוכן מכסה וי\"א אלו ל\"פ מש\"ה כתב י\"א דלא מצא מבואר כ\"א בהרא\"ה מש\"ה כתב וי\"א ומש\"ה נראה דאי איתרמי כך יכסנו וכדכתיבנא: ודע דהרא\"ש והטור גבי אין שוחטין כוי ביום טוב כתבו ואין יכולין לקבל הדם בכלי שאין שוחטין לתוך הכלי הרי בהדיא כמ\"ש הב\"י בסי' י\"א דכ\"ש אם מקבל הדם לאחר שחיטה דיש איסור והתב\"ש בסי' י\"א הרגיש קצת בזה ולפי דעתי ראיה גמורה היא וא\"י למה ערער הפר\"ח עליו בקו\"א: עוד אבאר לך דמצות כיסוי הוא כל זמן שירצה יכסה ולאו דוקא מיד ומיהו לכתחלה ודאי נכון לכסות מיד דחביבה מצוה בשעתה ושמא ישכח. וראיה משחט חיה לא יכסנה עד שיבדוק הריאה ואי הוה מ\"ע מיד איך עוקר מ\"ע בשביל בדיקת הריאה וכ\"ת יש כח ביד חז\"ל לעקור דבר מ\"ה הוה להו לתקוני לכסות מיד ולברך אח\"כ או בלא ברכה כי אין הברכה מעכבת ופשוט הוא דלא כמ\"ש בכר\"ו אות א' דביטל מ\"ע אם לא כיסה מיד וז\"א כמ\"ש ועיין מ\"ש עוד לקמן בדין חיה✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 28:13"
+        },
+        "14": {
+          "he": "וכן חש\"ו. עט\"ז דה\"ה גדול שא\"י ה\"ש והראה מקום לסימן ט\"ז אות י\"ג ושם נאמר לענין או\"ב דיש להחמיר ה\"ה כאן יכסה בלא ברכה וכ\"ת דכאן אין ראוי להחמיר דיבואו לאכול משחיטתן כמו בחש\"ו י\"ל בגדול לא שייך ולמגזר דיודע הוא ולא ישחוט עוד וגם מזו השחיטה אין לגזור דיבואו לאכול והתב\"ש הכריע דיכסה בלא ברכה בגדול שא\"י ה\"ש ועיין סימן א' בידע דלא גמיר יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 28:14"
+        },
+        "15": {
+          "he": "כדי. עט\"ז תמה על מהרש\"ל דא\"כ שוחט דבר דאתיליד ביה ריעותא למה שוחט אחר עמו ובנה\"ך תמה עליו דבאמת רש\"ל סובר דא\"צ עש\"ך סי' י\"ט אות ב' בשם יש\"ש פרק כיסוי הדם סי' ה'. והנה המחבר כתב ב' דינים ואינם שווין דאם נמצא הסכין פגום מכסה בלא ברכה ואם נמצא הסימנים אין שחוטין רובן פטור מכיסוי. אמנם כן דברי יש\"ש יש להם מקום דשפיר קשיא ליה דודאי הכין הוא דסמכינן ארובא ואחזקה וכל היכא דאיכא לברורי בקל לא סמכינן ומש\"ה לא קשיא ליה דלמא ימצא הסכין פגום והוה ברכה לבטלה דלא מטהר מידי נבילה או שמא לא ישחוט הרוב דרוב שוחטין רוב ואוקי סכין אחזקה כל היכא דא\"א לברורי בקל אלא קשיא ליה מבדיקת הריאה דחז\"ל חששו למיעוט המצוי וכל היכא דנאבדה אסור לדידן א\"כ איך לא חששו למיעוט המצוי לאיסור גדול לא תשא שמע שוא דחמור הוא מלאו דטריפה ע\"ז תי' דא\"נ טריפה מטהר מידי נבילה. ולדידן ודאי קשיא כיון דבדיקת הריאה מעכבת אף דיעבד איך לא תקנו לברך בבהמה וחיה על השחיטה לאחר השחיטה ואדרבא משום לא פלוג היה להם לתקן אף בעוף כן כמו בנט\"י וכל חייבי טבילות עיין תוס' ר\"פ וצ\"ע:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 28:15"
+        },
+        "16": {
+          "he": "חתך. עט\"ז דמכסה בברכה אמת לשון רמ\"א מורה בבירור כך שכתב אבל חתך מפרקת משמע דזה דין אחר יש לו דאלו בספק טריפה מכסה בלא ברכה וכאן בברכה אמנם לא זכיתי להבין דבד\"מ מבואר להדיא דשווין המה ספק וחיתוך מפרקת והמעיין בתרומת הדשן קפ\"ז יראה להדיא דכל פלפולו אינו אלא אם יכסה ולא חיישינן דלמא אתי למיכל וע\"ז כתב דאפילו ספק גמור מכסה וכ\"ש זה ומיניה מה זה בלא ברכה אף זה וראיתי להתב\"ש הרגיש בזה וכתב דהזהיר להוציא ש\"ש לבטלה אין לגעור בו אם לא יברך על הכיסוי. ומ\"מ אף להט\"ז וש\"ך דווקא חתך המפרקת דעתם להכשיר בה\"מ הוה שחיטה ראויה משא\"כ שהיה כ\"ש בעוף די\"א דהוה מ\"ה וה\"ה בחיה או שהיה במיעוט בתרא דהוה בעיא דלא איפשטא ודאי אין לכסות בברכה וה\"ה כדומה אלא מכסה בלא ברכה וכאמור: יראה לי בספק ברכה לבטלה אפילו איכא ס\"ס לברך אפ\"ה טוב שלא לברך המשל בזה שחט כוי שהוא בריה בפ\"ע וספק חיה או בהמה ושחט ג\"כ כלאים צבי הבא על התיישה דאיכא ס\"ס לכסות שמא כוי חיה ושמא חוששין לזרע אב אפ\"ה מכסה בלא ברכה דגדול חומר לאו דלא תשא וברכות אין מעכבות כמבואר. ומיהו חיה שנולד בה ספק טריפות ויש ס\"ס להכשירה באכילה פשיטא דמברך על הכיסוי כיון דשחיטה ראויה הוא דהחיה מותרת אשר יאכל קרינן ביה ומברך ומכסה וזה פשוט✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 28:16"
+        },
+        "17": {
+          "he": "תקינו ליה רבנן. עט\"ז דהעלה להלכה דאין לעשות כן ומי שאין לו עפר שראוי לכסות בו לא ישחוט כלל משיבטל מ\"ע דכיסוי כי הכיסוי בבגדו אינו כיסוי כלל ולפי דבריו אף בכוי וכדומה שמכסה בלא ברכה אין לעשות כן כיון דהכיסוי בבגדו או בסנדלו לאו כלום הוא ע\"כ אין לבטל ספק מ\"ע דכיסוי. אמנם לא ידענא אם יודע ודאי שהדם יהא נשמר עד שיבוא למקום עפר ודאי דרשאי לשחוט כי המ\"ע דכיסוי אינו מיד כמו שהוכחתי לעיל מדהתירו לו לבדוק הריאה מקודם ואח\"כ מכסה והמחבר מודה בה והא מבטל מ\"ע דכסוי ולדידיה אי נאבדה הריאה כשירה אף בלא ה\"מ כמבואר סי' ל\"ט יע\"ש וצ\"ע:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 28:17"
+        },
+        "18": {
+          "he": "הנזרעים בהם מצמיחים לאפוקי עפר שמצמיח עשבים שגדלו כבר. לכאורה היה נראה להגיה ושגדלו כבר ותרתי קאמר דהמעיין בתוס' חולין פ\"ח ב' ד\"ה אלא דעפר המדבר המגדל עשבים מאיליהן אלא שאין מצמיח ומגדל זרעים שזורעין בו וכן אם גדלו הזרעים ושתלן שם ונתוספים לא מהני אלא בעינן שהדבר הנזרע בתוכו יצמיח ויגדל ועיין פרישה אות כ\"ג וכן העתיק השמלה חדשה סעיף כ\"ז יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 28:18"
+        },
+        "19": {
+          "he": "ובחרסית הוא מין סיד ואין צריך כתישה ב\"י ועי' פירוש דברים אלו בט\"ז כאן מה הן הדברים הראוין לכסות בהן או מצמיח או נקרא עפר: כתב הכה\"ג בהגהות הטור אות נ\"ב קנמון טחון מכסין בו דהוה מין עץ כנסורת חרשים דמיא ובאות נ\"ג ונ\"ד גפרית ומלח אין מכסין בהם וה\"ה פלפל טחון דהוא מין פרי והוה כקמח טחון ואין מכסין בו יע\"ש: בכל דבר השרוף מכסין בו אף קמח וסובין ששרוף מכסין בהם ושלג ושחיקת ברזל אין מכסין בהם והא דלא הגיה רמ\"א דאין מכסין בשחיקת ברזל דמבואר הוא במחבר דאין מכסין כ\"א בזהב שחוק. מ\"ש הד\"מ הטעם דאין מכסין בשלג דלמחר יתמחה ויהיה למים לאו לומר דבעינן שיכסה כיסוי הראוי להיות עולם דהא נוהגין העולם לכסות בשוק אף שודאי יחזור ויגלה כלומר אלא דלאו כיסוי כלל אף עתה. והכה\"ג בהגהות ב\"י אות מ\"ח בשם מהר\"י וויי\"ל וספר יאיר נתיב דבשעת הדחק יכסה בשלג בלא ברכה וצ\"ע והב\"ח מתיר בשעת הדחק בשחיקת ברזל: אין מכסין ברגבי אדמה דלאו דוקא מתונתא ארץ לחה ה\"ה זה כיון דלאו נפרד ונפרך דבעינן אם יוכל איש למנות עפר הארץ שיהא ראוי למנות. המחבר השמיט עפר עיר הנדחת דלא שכיח ומ\"מ היה להביא דנ\"מ לענין איסורי הנאה אפר חמץ בפסח ואפר עבודת כוכבים דמכסין בהם דמצות לאו ליהנות נתנו וכתותי לא שייך בהא דכל כמה דמיכתת מעלי טפי שוב ראיתי להכה\"ג בהגהות ב\"י אות נ' תמה בזה על המחבר ומשמע שם לכתחלה נמי ולא דמי לשופר דלכתחלה לא עיין בלח\"מ פי\"ד מה\"ש ואין להאריך: כתב בתב\"ש כל הני דאין מכסין בהם אם עבר וכיסה צריך לגלות ולכסות בלא ברכה והאריך שם ובש\"ך אבאר: בספר בית לחם יהודה באות י\"ז העתיק דשהיה כ\"ש אפילו בתחלת השחיטה יכסהו ויברך יע\"ש ואני אומר בעוף ודאי יש דעות דשיעור שהיה מועטת הוא כמ\"ש ת\"ה דחצי קנה פגום והוסיף עליו כ\"ש ודאי דאסור לברך אלא אפילו בחיה אין לברך כמ\"ש לעיל. עוד הביא שם באות כ\"ד בשוחט שהעבירו עפ\"י עד אחד והיה רגלים לדבר והוא יודע בעצמו ששקר ענה בו או ששוגג היה אם יש לומר במקום שאין מכירין או בביתו מותר לשחוט יע\"ש שצידד דאסור דהוה כפסלוהו הקהל כמבואר סי' א' וב' דאין רשאין לשחוט וה\"ה כאן ועוד דעיקר בזמן הזה הקבלה שנוטלין כמבואר סי' א' וכיון דהקהל פסלוהו אין לו לשחוט במקום שאין מכירין אותו או בביתו לצורך עצמו גם זה אסור ועיין שו\"ת חות יאיר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 28:19"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "בין שהיו מזומנים בידו. כגון אווזים ותרנגולים דסד\"א מדכתיב אשר יצוד אימעטו אווזים ותרנגולים וכיוצא בהן שנצודין ועומדין ת\"ל ציד מ\"מ ש\"ס:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:1"
+        },
+        "2": {
+          "he": "והכיסוי היא מצוה בפני עצמה כו'. ע\"ל סי' י\"ט ס\"ק ו':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:2"
+        },
+        "3": {
+          "he": "כשרה כו'. משמע אפילו לעצמו וכן הוא בד\"מ וכן דעת הבית יוסף ומהרש\"ל פרק כס\"ה סי' א' ושאר אחרונים דלא כהב\"ח שאוסר לעצמו מיהו היכא דהעם פרוצים במצות כסוי שאינם מכסים כדין או שאינ' מברכי' על הכסוי או על השחיט' יש לקנוס ולחייב מלקו' וגם יש לאסור השחיטה להעובר משו' מיגדר מילתא כן משמע מדברי מהרש\"ל שם וע\"ל ר\"ס י\"ט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:3"
+        },
+        "4": {
+          "he": "על כסוי דם בעפר כו'. ע\"ל ס\"ק כ\"ט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:4"
+        },
+        "5": {
+          "he": "מברך שהחיינו כו'. ז\"ל הגהת מנהגים שהביא בד\"מ דכסוי הוי מצוה כדאמרינן בזכות שאמר אברהם ואנכי עפר ואפר זכו בניו לשני מצות והוי כמו ציצית וסוכה דמברך שהחיינו כך מפורש בה\"ש ר' ידידי' משפירא עכ\"ל. וצ\"ע דהא גבי ציצית קי\"ל דאין מברך שהחיינו אלא א\"כ קנה בגד חדש מטעם דקנה כלים חדשים כמו שנתבאר בא\"ח סי' רכ\"ג אבל בעושה ציצית בבגד ישן אינו מברך שהחיינו כמ\"ש הבעל העיטור ומהר\"י אבוהב וד\"מ בא\"ח סימן כ\"ב וכ\"כ בש\"ע ובלבוש שם והכי משמע נמי בתוס' פ' לולב וערבה (סוכה דף מ\"ו ע\"א) ד\"ה העושה סוכה שכתבו הטעם דאין מברכין שהחיינו אציצית ותפילין משום דלא תקנו שהחיינו אלא אמצוה שיש בה שמחה. וא\"ל דכסוי דכיון דבזכות אנכי עפר ואפר הוא חשוב שמחה דהא אדרבה אמרי' בפ' כ\"ה (סוף דף פ\"ח) אמר רבא בשכר שאמר אברהם אבינו ואנכי עפר ואפר זכו בניו לשתי מצות אפר פרה ועפר סוטה וליחשוב נמי עפר כסוי הדם התם הכשר מצוה איכא הנאה ליכא ואמר רבא בשכר שאמר אברהם אבינו אם מחוט ועד שרוך נעל זכו בניו לב' מצות לחוט של תכלת ורצועה של תפילין ע\"כ והכי משמע נמי ממ\"ש הר\"ן שם הטעם דלא מברכין שהחיינו אתפילין משום דלאו מזמן לזמן קאתי וכ\"כ הרשב\"א בתשובה סי' קכ\"ו א\"כ כ\"ש כסוי ועוד נראה דאפילו להרמב\"ם פי\"א מהלכות ברכות דמברכין שהחיינו אציצית ותפילין היינו מטעמא דכתב שם מפני שהם מצות שהם קנין לו משא\"כ בכסוי ומצאתי ברוקח סימן שע\"א שכתב בשם ריב\"ק משפירא כל מצוה שעל האדם לעשות ולא עשאה ומתחנך לכתחלה צריך לברך שהחיינו והביא ראיה מדאמרינן במנחות (דף ע\"ה) היה עומד ומקריב מנחות בירושלים אומר שהחיינו שנתחנך לעבודת הזמן עכ\"ל ואפשר ע\"ז סמכו לברך בכסוי אבל צ\"ע לפ\"ז אמאי לא מברכין בציצית ותפילין ושאר מצות שמתחנכים בהו וכן אין מברכין שהחיינו על קדושי אשה או נשואיה כמ\"ש מהרי\"ק שורש קכ\"ח וכן על מזוזה כדלקמן ר\"ס רפ\"ט אלא ע\"כ ס\"ל דאפילו במצוה שמתחנכים בה אין מברכין שהחיינו כל שאין זמנה קבוע וכדעת התוס' והר\"ן והרשב\"א הנ\"ל ומפרשי' ההיא דמקריב מנחות כמ\"ש התוס' והרשב\"א בחדושיו פ' כיצד מברכין דהיו כ\"ד משמורות ואין מתחדשות יותר מב' פעמים בשנה וכיון שיש להן זמן קבוע מברך שהחיינו עכ\"ל הא לאו הכי לא וא\"כ ה\"ה בכסוי וצ\"ע:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:5"
+        },
+        "6": {
+          "he": "דמזיק לבריה. זה הטעם דחוק ולי נראה טעם אחר יותר מתקבל משום דשחיטה היא בידו ואינו מצווה לשחוט דהא יכול להיות לעולם בלא בשר או שישחוט אחר אבל בכסוי החיוב מוטל על כל אדם שרואה הדם לכסות כדלקמן סעיף ח':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:6"
+        },
+        "7": {
+          "he": "וכלאים הבא מבהמה וחיה כו'. מיירי בצבי הבא על התיישה דספוקי מספקא לן אי חוששין לזרע האב או לאו ולכך מספיקא מכסה ואינו מברך דדלמא אין חוששין דלא כמ\"ש בס' זבחי צדק הטעם דאינו מברך משום גזירה שמא יתיר חלבו ולא דק וק\"ל אבל אי הוה פשיטא לן דחוששין הוה חייב לברך דהא צריך לכסותו מן התורה דקי\"ל צבי ואפילו מקצת צבי ולזרע האם ליכא מאן דפליג דפשיטא דחוששין ועי\"ל סי' ט\"ז ס\"ק י\"ז מזה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:7"
+        },
+        "8": {
+          "he": "ואין שוחטין אותן ביו\"ט. דכיון שצריך לכסותן ובי\"ט אינו רשאי לכסותן לא ישחוט לכתחלה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:8"
+        },
+        "9": {
+          "he": "אינו מכסה את דמו. אפילו יש לו עפר מוכן מפני שהרואה יאמר ודאי חיה הוא דאל\"כ לא היו מטריחין לכסות דמו בי\"ט ויבא להתיר חלבו עכ\"ל הט\"ו בא\"ח סי' תצ\"ח סי\"ח והוא מסקנא דש\"ס פרק קמא דביצה (סוף דף ח') ומוסכם מכל הפוסקים (וכן כתב הרשב\"א בס' עבודת הקודש בבית מועד שער ב' דין ב') וכ\"כ הלבוש שם דלא כמ\"ש העט\"ז כאן אין שוחטין הכוי והכלאים בי\"ט דשמא יטלטל עפר בי\"ט שלא לצורך דשמא מין בהמה הוא עכ\"ל ולא דק דהא אפילו יש עפר מוכן דליכא איסור טלטול אסור מטעם הנזכר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:9"
+        },
+        "10": {
+          "he": "ובלילה אם רשומו ניכר יכסנו. ואין יכולין לקבל הדם בכלי לכסותו בלילה שאין שוחטין לתוך הכלים עכ\"ל הטור מדברי הרא\"ש ור\"ל דאסור משום שנראה כמקבל דם לעבודת כוכבים כדלעיל סי' י\"א ס\"ג והא דלא שרי ע\"י נתינת מעט עפר בכלי כדלעיל סי' י\"א משום דגם בזה יש חשש לפני הרואה שיאמר שלקח עפר לכסות בו ויבא להתיר חלבו כ\"כ הדרישה אבל הב\"ח כתב וז\"ל ונ\"ל דבזמן הזה (כלומר שאין דרך עובדי עבודת כוכבים בכך וכדלעיל ס\"ס י\"ב) שאפילו לכתחלה היה יכול לשחוט לתוך הכלים כהא\"ז אלא שאנו נזהרים א\"כ) בדיעבד אם שחט בי\"ט יכול לקבל הדם בכלי אפילו לכתחלה דכדי לקיים מצות כסוי כדינו לא שייך ליזהר מלקבלו כיון שאין בו איסור מן הדין ומ\"מ יותר טוב ליתן עפר וצרורות בכלי קודם קבלה עכ\"ל ובאמת קשה לדבריו אמאי לא אשמועינן בש\"ס ופוסקים האי תקנתא דעפר בכלי ואפשר דלא מתיר אלא ע\"י מעט עפר בענין דליכא למימר שיכסה בו ומדינא היה אסור כיון דליכא אלא מעט עפר משום חשדא דעבודת כוכבים דעדיין ראוי לזריקה אלא דהאידנא דאין דרך עובדי עבודת כוכבים בכך שרי אפילו בלא עפר כלל אלא דלחומרא יתן בו עפר מעט ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:10"
+        },
+        "11": {
+          "he": "או לשחוט עוף ג\"כ. אצל הבופל\"י ולא ע\"ג דם הבופל\"י כדלקמן ס\"ק כ':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:11"
+        },
+        "12": {
+          "he": "וצריך להזמינו בפה. פי' העפר דלמטה צריך להזמין בפה לשם כסוי היכא דמצא עפר תיחוח דאל\"כ לא עביד מידי וכן כשנותן הוא לשם עפר תיחוח חשיב כהזמנה כן משמע מפרש\"י פ' השוחט (חולין דף ל\"א) וכן הוא באגודה והי\"א ס\"ל דאם מצא עפר תיחוח ושחט עליה די בכך אבל עפר שלמעלה לכ\"ע צריך שיתן הוא כדאיתא בתוס' ר\"פ כ\"ה וכן משמע ברבינו ירוחם ונ\"ל דלא פליגי אלא למצוה מן המובחר אבל בדיעבד פשיטא דלכ\"ע א\"צ שיתן הוא אפילו עפר שלמעלה דהא כסהו הרוח בסי\"א פטור מלכסות והוא משנה שלימה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:12"
+        },
+        "13": {
+          "he": "או בסכין. ר\"ל בקתא של סכין אבל לא בראש הסכין במקום ששוחט כדלעיל ס\"ס י\"ח וכ\"כ בד\"מ ופרישה ופשוט הוא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:13"
+        },
+        "14": {
+          "he": "מי ששחט הוא יכסה כו'. בטור יש כמה דינים על מי שקדם וכיסה מה הוא חייב והמחבר כתבם בח\"מ סי' שפ\"ב כי שם מקומם וע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:14"
+        },
+        "15": {
+          "he": "שחט מאה חיות כו'. ודין אם סח בין כיסוי לכיסוי או בין שחיטה לשחיטה וכיוצא בדינים אלו נתבאר בסי' י\"ט ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:15"
+        },
+        "16": {
+          "he": "דם שנפל כו'. אע\"פ שבטל ונדחה ראשון אפ\"ה כשהלך ורבה עד שנתהפכה מראית המים לדם חוזר דם הראשון ונראה ולא אמרינן הואיל ונדחה ידחה דאין תורת דחוי אצל מצות:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:16"
+        },
+        "17": {
+          "he": "או בדם בהמה או בדם החיה כו'. כן הוא במשנה דף פ\"ז ריש ע\"ב ופירש\"י והר\"ן והברטנורא בדם הקזה של חיה והרמב\"ם פי' בדם חיה טמאה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:17"
+        },
+        "18": {
+          "he": "רואים כו'. נ\"ל דה\"נ אם שחט חיה או עוף ונפל הדם לדם בהמה וכה\"ג בענין שאם היו רואין הדם בהמה מים לא היה בו מראית דם ושוב נפל לתוכו יותר בענין שאם היה מים היה חוזר וניעור חייב לכסות:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:18"
+        },
+        "19": {
+          "he": "פטור מלכסות. שהרי דם בהמה למעלה ומה יכסה. רש\"י:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:19"
+        },
+        "20": {
+          "he": "או עוף כו'. והב\"ח כתב דבעוף ע\"ג בהמה פטור מלכסות כיון דדם עוף מועט ואין נלפע\"ד ומ\"ש שכ\"כ מהרש\"ל פכ\"ה סי' י\"ד ליתא דאדרבה דברי מהרש\"ל שם נראין להפך ומה שדחקו לזה ליישב קושית הב\"י על הטור שכתב בשם בעל העיטור דהלא ברייתא שלימה היא תירוצו דחוק ע\"ש: והנלפע\"ד בזה משום דכל הפוסקים לא הביאו כלל ברייתא זו משמע דס\"ל דלא קי\"ל כהך ברייתא משום דהתוס' תמהו עלה וז\"ל שחט חיה ואח\"כ בהמה פטור מלכסות תימא דליגרריה ולכסייה וכן בהמה ואח\"כ חיה ליגרריה ולכסייה כדם הניתז ושעל הסכין עכ\"ל וס\"ל להפוסקים לישב תמיה זו דהך ברייתא ס\"ל דבדם הניתז ושעל הסכין נמי לא בעי גרירה אלא מכסה במקומו וכמ\"ש הכל בו בשם הר\"מ בן נתן ומביאו ב\"י וא\"כ אנן דקי\"ל דבדם הניתז ושעל הסכין בעי גרירה לא קי\"ל כהך ברייתא לכך כתב הטור דין זה בשם בעל העיטור דס\"ל דהך ברייתא הלכה היא וצריך לחלק דל\"ד לדם הניתז ושעל הסכין דשאני הכא כיון שדם הבהמה למעלה מה יכסה כמ\"ש רש\"י והרי כאלו הכל מעורב יחד וכן כשדם חיה למעלה דחייב לכסות אה\"נ דהיינו ביש עפר תיחוח למטה כמ\"ש העט\"ז והל\"ח דף קצ\"ג. א\"נ אפילו ליכא עפר תיחוח אפשר דא\"צ לגרור משום דכי ימתין עד שיגרור ויתיבש יתערב הדם חיה בדם בהמה וקודם שיתיבש פשיטא דלא יכול לגררו ויתערב הכל ביחד ולכך טוב יותר לכסותו במקומו. זה נ\"ל דעת הטור ואפשר גם דעת הפוסקים כן והא דהשמיטו ברייתא זו היינו משום שנ\"ל פשוט כן וגם לא הובאה ברייתא זו בש\"ס אלא אגב ריהטא ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:20"
+        },
+        "21": {
+          "he": "חייב לכסות. ואע\"ג דליכא עפר למטה בינו לבין דם בהמה מ\"מ מאי דאפשר למיעבד עבדינן ובעט\"ז כתב כאן דברים מגומגמים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:21"
+        },
+        "22": {
+          "he": "ובלילה כו'. ע\"ל ס\"ק י' מ\"ש בזה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:22"
+        },
+        "23": {
+          "he": "ואין אחרים רואין אותן כו'. אבל כשאחרים רואין אותם אמרינן במשנה (דף פ\"ו ע\"א) דחייב בכסוי ומשמע התם בש\"ס דחייב מדינא בכסוי וכן משמעות הפוסקים וכן בדין דהא טעמא דבינם לבין עצמם דפטור משום שרוב מעשיהם מקולקלים הלכך כשאחרים רואין אותם ששחטו יפה כיון דכשר אפילו לאכילה פשיטא שצריך כסוי וצריך לברך וכ\"כ בס' ל\"ח דף קצ\"א סוף ע\"א דלא כהעט\"ז דכתב מכסה בלא ברכה מיהו היינו דוקא כשהן מומחים או יודעים לאמן ידיהם דאז שחיטתן כשרה דיעבד לכ\"ע כמ\"ש בסי' א' ס\"ק כ\"ד דאל\"כ מכסה בלא ברכה וע\"ל סי' ט\"ז ס\"ק כ\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:23"
+        },
+        "24": {
+          "he": "ופטורה מכסוי. בש\"ס משמע דאינו רשאי לכסות כיון דרוב מעשיהם מקולקלים והוי כנבלה גמורה וכשיכסה אתי למימר שחיטה מעלייתא היא ואתי למטעי ולמיכל משחיטתן כן משמע בתוספות שם ד\"ה סיפא כו' וכ\"כ הב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:24"
+        },
+        "25": {
+          "he": "צריך לבדוק הסימנים כו'. ע\"ל סי' כ\"ה מדין בדיקת הסימנים וסי' י\"ח מדין בדיקת הסכין:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:25"
+        },
+        "26": {
+          "he": "עד שיבדוק כו'. ואע\"ג דלעיל סי' י\"ט אמרי' דמברך על השחיטה קודם השחיטה היינו משום דא\"א בענין אחר דכל הברכות מברך עליהן עובר לעשייתן וסמכינן אחזקה דרוב בהמות בחזקת כשרות הן כדלקמן סי' פ\"א אבל הכא כיון דאפשר לברורי מבררינן ודמי לדלעיל ר\"ס א' דאין סומכין על החזקה במקום דיכולים לבררו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:26"
+        },
+        "27": {
+          "he": "כגון ההיא דחיישינן שמא בעור נפגמה כו'. וכדלעיל סי' י\"ח ס\"ק א' וסי\"א והב\"ח חלק אמהרא\"י והמחבר ודקדק ממ\"ש הטור בר\"ס י\"ח דבנמצאת הסכין פגומה לאחר שחיטה הרי זה נבלה ולא כתב ספק נבלה דאתא לאורויי דמחזקינן לה בנבלה גמורה לפטור מכסוי ול\"ד לספק טריפה דמכסה בלא ברכה כיון דאירע הספק בשחיטה עצמה עכ\"ד ותימא היאך יעלה על הדעת לעקור עשה מן התורה לפטור מכסוי משום שנמצא הסכין פגומה דליכא אלא ספקא ואפשר דבעצם המפרקת נפגם דהא איכא מ\"ד פ\"ק דחולין (דף י') דמכשיר ונהי דקי\"ל לחומרא מ\"מ ליכא אלא ספיקא וכדאמרי' בש\"ס חיישינן שמא בעור נפגמה וכן כתבו כל הפוסקים וכמ\"ש בר\"ס י\"ח ומה שדקדק מדברי הטור לאו כלום הוא דודאי הטור בסי' י\"ח לאו להכי אתא דהתם לא מיירי כלל מדיני כסוי וגם אם היה כוונתו לכך לא היה כותבו ברמז אלא לא ירד לדקדק בכך וכ\"כ בדוכתי טובי ה\"ז נבלה והוי ספק נבלה וכן המחבר גופיה כתב בר\"ס י\"ח ה\"ז נבלה גם מה שחילק בין ספק טרפה לספק בשחיטה לא נהירא כלל והכי מוכח להדיא בש\"ס פכ\"ה דף פ\"ו גבי שחיטת חש\"ו דאי לאו דרוב מעשיהם מקולקלים אזלינן לחומרא להצריך כסוי מספק ע\"ש וכ\"פ מהרש\"ל פכ\"ה סי' ו' כהמחבר וכ\"פ בד\"מ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:27"
+        },
+        "28": {
+          "he": "אבל דבר כו'. משמע דבחתך מפרקת חייב לכסות מדינא וצריך לברך וכן משמע בתה\"ד וכן דעת הס' ל\"ח דף קצ\"א וכן בדין לפי מ\"ש בסי' כ\"ד ס\"ק ה' דהא דמחמירין בחתך המפרקת הוא חומרא בלא טעם והוכחתי שם מן הש\"ס ופוסקים דמותר ע\"ש הלכך נהי דמחמרינן לאכול היינו משום שכבר נהגו כן אבל פשיטא דצריך לברך דלא כהעט\"ז והב\"ח שכתבו מכסה בלא ברכה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:28"
+        },
+        "29": {
+          "he": "תקינו ליה רבנן כו'. הב\"י דחה דברים אלו משום דא\"כ עדיפא ה\"ל למיתני האי תקנתא משורף טליתו דאיכא משום בל תשחית ועוד דכיון שאינו מכסה בעפר היאך יברך עליו הלכך נראה דאין לדברים אלו עיקר עכ\"ל והרב בד\"מ דחה דברי הב\"י דבמתני' מיירי דהבגד או זהב אינו שוה כמו העוף וליכא בל תשחית כדאיתא בפרק החובל (סוף בבא קמא דף צ\"א) גבי אילן מאכל שדמיו יקרים לבנין מותר לקצצו וכ\"פ הרמב\"ם בהל' מלכים (פ\"ו והסמ\"ג לאוין רכ\"ט) והא דמברך היינו הואיל וכי ממצה ליה בבגד ה\"ל התחלת הכיסוי אע\"פ שאינו גומר הכסוי עד לאחר זמן מידי דהוי אבדיקת חמץ דמברכין על ביעור חמץ אע\"ג דלא מבערין עד למחר (וכמו שנתבאר בא\"ח סי' תל\"ב) וה\"ה בנ\"ד כו' ואח\"כ מצאתי בא\"ז שהביא דברי הגאונים והאריך בטעמים וכתב דיש לסמוך עליהם עכ\"ל ד\"מ וכן מצאתי בראב\"ן שהביא דבריהם לפסק הלכה ומהרש\"ל פרק כ\"ה סי' י\"ז נמשך אחרי הב\"י לדחות דברי הגאונים ודחוי כזה חוזר ונראה אחר שמפורש כן בגדולי ההוראה הנזכרים ונתיישב דבריהם גם מהרש\"ל עצמו הביא דברי הגאונים בסתם בהגהותיו לשחיטות מהרי\"ו (אכן תמצא כמה פעמים שבספרו חוזר בו מדבריו הראשונים) וכ\"פ הב\"ח אכן מה שדמה בד\"מ דין זה לבדיקת חמץ ל\"ד כ\"כ דהתם ה\"ט דהבדיקה היא תחלת ביעור דא\"א לביעור בלא בדיקה ותלי הבדיקה בביעור משא\"כ הכא עכ\"ל נ\"ל לצרף ג\"כ הטעם שכ' הב\"ח דהברכה לא נתקנה אלא על כסוי דם ולא בעפר כדאיתא בתוספתא וירושלמי ופוסקים ואף דנהגינן לומר בעפר היינו לרווחא דמלתא אבל כאן אוקמא אדינא ולכך כשממצה בבגדו אין לומר בעפר וגם בלשון הגאונים הנ\"ל איתא מברך על הכיסוי ותו לא ובעט\"ז כתב שנ\"ל שלא יברך לכתחלה כשממצה בבגדו ולא אח\"כ כשמכבס הבגד ואילו ראה דברי הר\"ב בד\"מ לא כתב כן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:29"
+        },
+        "30": {
+          "he": "השוחט כו'. משמע דאתא לאשמועינן דאע\"פ שלא נתקיים בהן מצות כסוי מותרים וכן משמע בתה\"א שער ה' וכן משמע בעט\"ז וב\"ח אבל במשנה פרק השוחט (חולין דף ל\"ג ע\"א) שממנו מקור דין זה איתא השוחט בהמה חיה ועוף ולא יצא מהם דם מותרין ומדנקט בהמה משמע דלאו מכסוי מיירי וכ\"כ הרמב\"ם פ\"ד מה\"ש דין י\"ג בדיני מסוכנת השוחט בהמה חיה ועוף ולא יצא מהן דם הרי אלו מותרין ואין אומרים שמא מתים היו עכ\"ל וכן פירש בספר תורת חיים ובמשמרת הבית דף כ' פירש הרשב\"א דאתא לאשמועינן דאע\"ג דלא יצא מהן דם מותרין דדם האיברים שלא פירש מותר כו' וע\"ל ס\"ס כ\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:30"
+        },
+        "31": {
+          "he": "הנזרעים בהם מצמיחים כו'. ולא מהני כשמשימים בהן צמחים והוא מגדלם אלא בעינן דוקא שהנזרעים בהן מצמיחים ב\"י וכ\"כ הכל בו בשם הרז\"ה ובעל העיטור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:31"
+        },
+        "32": {
+          "he": "ובחרסית. פי' בערוך הוא מין סיד שחופרים אותו מן הקרקע:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:32"
+        },
+        "33": {
+          "he": "ומגופה של חרס שכתשן. האי כתישה קאי ג\"כ אלבינה וכן מוכח ס\"פ כ\"ה עכ\"ל פרישה. וגם דברי הט\"ו א\"א לפרש בענין אחר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:33"
+        },
+        "34": {
+          "he": "ובנעורת של פשתן דקה. פירש\"י דהיינו אריש\"טא שמנערין מן הפשתן וה\"ה בעפר. ונסורת של חרשים שמגררים הנגרים במגירה וקוצצים בה עצים והיא משרה נסורת דקה כעפר. ושיחור פירש\"י פחמים כתושים וכן פי' בערוך ערך שחור והרמב\"ם פי' דהיינו פיח הכבשן. וכחול הוא צבע שנותנין בעין. ונקרת הפסולים פירש\"י עפר שמנקרין מן הרחיים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:34"
+        },
+        "35": {
+          "he": "ולא בשחיקת מתכת אם אינם שרופין כו'. אבל בשרופים מכסים וה\"ה לכל הנך דאין מכסים אם שרופים מכסים בעפרן כ\"מ בטור וב\"י ופשוט הוא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:35"
+        },
+        "36": {
+          "he": "ולכן אין מכסין כו'. כן הוא בכל הספרים וכן העתיק בס' אפי רברבי ומשמע דהיינו מפני שעפר לחה אינה מצמחת וליתא דבש\"ס פרק אלו עוברין (פסחים דף מ\"ז) איתא בהדיא דראויה לזריעה ומצמחת וכן הוא ברש\"י שם אעפ\"י שהב\"י העתיק לשון רש\"י ואינה ראוי' לזריעה פשוט הוא דט\"ס הוא והעט\"ז העתיק לשון הב\"י ולא הרגיש בטעות אלא הטעם כתב הסמ\"ג דבעינן עפר דק ונפרך שראוי למנות כדכתיב אם יוכל איש למנות את עפר הארץ ומביאו ב\"י ודרכי משה ונ\"ל דהאי ולכן ט\"ס הוא וצריך להיות וכן וקל להבין:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:36"
+        },
+        "37": {
+          "he": "בעפר לחה וכו'. וכל שכן בטיט כדאיתא בש\"ס שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 28:37"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "מזומנים בידו. דכתיב אשר יצוד ציד מ\"מ א\"כ למה נאמר יצוד למדך תורה דרך ארץ שלא יאכל אדם בשר אלא בהזמנה זאת פרש\"י כאלו הוא צד שאינה מזומנת לו כלומר שלא יאכל בשר תדיר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 28:1"
+        },
+        "2": {
+          "he": "מצוה בפני עצמה. וא\"ל ממ\"ש הרא\"ש והביאו הטור סי' כ' דמצות כיסוי היא גמר מצות שחיטה דבאמת היא מצוה בפני עצמה אלא ששייכה אחר מצות שחיטה כמו תפילין של ראש עם של יד. ואין להקשות למה פסק בהג\"ה סי' י\"ט סעיף ד' שמותר לדבר בין כיסוי לשחיטה מאי שנא מסח בין תפילין לתפילין י\"ל דבתפילין שייכה הברכה דשל ראש גם על של יד כמו שזכרנו בהלכות תפילין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 28:2"
+        },
+        "3": {
+          "he": "כיסוי דם בעפר. אע\"ג דלא מצינו בשום מקום שמזכירין פרט המצוה בברכה אלא דרך כלל וא\"כ היה די לומר על כיסוי דם לחוד מ\"מ הכא שאני שעושה שני מצות דהיינו כיסוי שלמטה מן הדם ושל מעלה וזה נלמד מן בעפר ע\"כ צריך לומר בעפר להורות על שני המצות כנ\"ל ועי' מ\"ש סי' ק\"כ סעיף ג':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 28:3"
+        },
+        "4": {
+          "he": "הבא מבהמה וחיה. זהו ג\"כ בכלל כוי וכתב רש\"ל דדוקא בחיה שבא על הבהמה אמרינן שאינו שוחט בי\"ט כיון דמספקא לן אם חוששין לזרע אב ושמא אין חוששין אבל בבהמה שבא על החיה חייב לכסות בודאי ואין כאן ספק דצבי ואפילו מקצת צבי אמרי' כמו דאמרינן לעיל סי' י\"ז סעיף ח' שה אפילו מקצת שה וע\"כ שוחטין אותו בי\"ט וכן איתא להדיא בגמ' בפ' אותו ואת בנו למסקנא דרב פפא דבתייש הבא על הצבייה חייב לכסות בודאי דצבי אפילו מקצת צבי אמרי' ולא משכחת ספיקא אלא בצבי הבא על התיישה דיש ספק אי חוששין לזרע אב והוה מקצת צבי ואע\"ג שהטור והרמב\"ם וש\"ע כתבו כאן סתם מבהמה וחיה סמכו על מ\"ש באותו ואת בנו דשה אפילו מקצת שה ה\"נ כאן וע\"כ תפרש דבצבי הבא על התיישה קא מיירי ובפרישה הקשה ג\"כ מכאן על ההיא דאותו ואת בנו ותירץ דגבי אותו ואת בנו גילה לנו הכתוב דשה אפילו מקצת שה אבל כאן לא גילה לנו הכתוב איכא לספוקי דלמא דוקא בחיה גמורה צריך כיסוי עכ\"ל ולא עיין בגמ' שזכרנו שמבואר להדיא דמאן דס\"ל שה אפילו מקצת שה ס\"ל ג\"כ אפי' מקצת צבי לענין כסוי דחייב ומו\"ח ז\"ל כתב דהטור ס\"ל כיש אומרים שמביא אח\"כ בגמרא בברייתא דכוי הוי הבא מן התייש ומן הצבייה והך י\"א לא ס\"ל דאמרי' אפילו מקצת צבי אע\"ג דגבי שה אמרינן כן. ולא נייח לי גם בזה דודאי רב פפא שאמר במסקנא דלא משכחת לענין כיסוי אלא בצבי הבא על התיישה ראה וידע ג\"כ הך ברייתא דיש אומרים ואפ\"ה מפרש לה דלא מיירי בתייש הבא על הצביה דאל\"כ לא היה רב פפא חולק על הברייתא מסברא דנפשיה וכן מוכח ממה שאמרו שם בגמרא לפני זה והא דתניא כוי אין שוחטין ביו\"ט במאי עסקינן אילימא בתייש הבא על הצבייה בין לרבנן בין לר\"א לשחוט ולכסי צבי ואפילו מקצת צבי כו' מדפריך בפשיטות כן ש\"מ שפשוט הוא דשוין הם שה אפילו מקצת שה עם צבי אפילו מקצת צבי אלא האמת הברור כדעת רש\"ל שזכרתי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 28:4"
+        },
+        "5": {
+          "he": "לשחוט עוף ג\"כ כו'. פי' ישחוט העוף אצלו אבל לא בתערובות עם דם הבופי\"ל דהא יהיה בטל בתוכו כמ\"ש בסעיף י\"ג בנתערב דם חיה עם דם בהמה אם נתערב במים כו':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 28:5"
+        },
+        "6": {
+          "he": "תיחוח למטה כו'. דכתיב בעפר מלמד שצריך ב' כיסויים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 28:6"
+        },
+        "7": {
+          "he": "בסכין. פי' בקתא של סכין אבל לא בראשו דשמא יפגום אותו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 28:7"
+        },
+        "8": {
+          "he": "חייב לכסות. בגמ' יליף לה מדכתיב ואומר לבני ישראל אזהרה לכל בני ישראל והטור סיים כאן חייב לכסות שמצות כסוי היא כשאר מ\"ע שכל ישראל חייבים בהם אלא שהשוחט קודם לכל אדם הלכך אם קדם אחר וכסה חייב ליתן לו י' זהובים שכר ברכה שביטל ממנו עכ\"ל וקשה למה הוצרך לתת טעם נוסף על לימוד מהפסוק שאמרו בגמ' גם לשון הלכך אינו מיושב שפיר והיה לו לומר ואם קדם אחר כו' ונראה שכוונתו שלא נטעה לומר מדחזינן שאמרה תורה ושפך וכיסה מי ששפך יכסה ואח\"כ אמרה אזהרה לכל ישראל ע\"כ צריך לומר דאזהרה היא כשאין הוא שם אבל אם הוא שם אין אחר בכלל האזהרה וא\"כ אם אחר רוצה לכסות בעוד שהשוחט שם אינו מברך כיון שאינו מוזהר על עשייה זאת ולפ\"ז אין עליו חיוב לשלם י' זהובים דדוקא שכר ברכה שהוא נהנה ומבטל את חבירו ממנו צריך לשלם לו משא\"כ כאן שאינו נהנה ואינו אלא כמבטל חבירו מן הנאת חברו ומזיק בעלמא הוא ע\"כ כתב הטור שמצות כסוי היא כשאר מצות כו' פי' אחר שגילה לנו הפסוק שיש אזהרה על כל ישראל הוה כאן כמו בכל המצות שכל ישראל חייבים בם ה\"נ החיוב על כל ישראל אפילו אם הוא שם אלא שהשוחט קודם באותו חיוב הלכך כיון שעכ\"פ האזהרה אפילו כשהוא שם ממילא שפיר מברך וכיון שהוא מברך ומבטל מחבירו הנאת הברכה ע\"כ צריך ליתן לו י' זהובים כנ\"ל וכתב הטור אלא שאין גובין זה בזמן הזה דהוה כמו דיני קנסות כמבואר בח\"מ סי' א' וע\"כ לא הביאו זה בש\"ע אבל ראיתי בסמ\"ק שכתב בזה מ\"מ לא טוב עשה וצריך לפייסו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 28:8"
+        },
+        "9": {
+          "he": "לתוך המים. פירש דלא אמרינן קמא קמא בטל דאין דיחוי אצל מצות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 28:9"
+        },
+        "10": {
+          "he": "שחט עוף כו'. בטור כתוב דין זה בשם בעל העיטור ותמה ב\"י שהרי דין זה ברייתא היא בפרק כסוי דם ולכאורה נראה שלמד ממנו מדנקט בדברי העיטור בטור ברישא בפטור צפור או חיה ובסיפא גבי חיוב לא נקט רק חיה ולא כמו שהעתיק כאן בש\"ע ובודאי היתה כוונת בעל העיטור דבשוחט צפור על הבהמה אין שם כסוי דמועט הוא וכן ראיתי לרש\"ל שכתב כן ולא נתיישב לי בזה דאטו כל העופות שוין או כל הבהמות שוין ובהדיא אמרי' בסוטה (דף ט\"ז) לענין דם צפור שמעורב במים שאין כל הצפרים שוים וכאן הלא הכל תלוי לפי השיעור אם היה מים כמ\"ש סעיף י\"ג וכוונת הטור נ\"ל שהיא כן דיש להקשות להיפך למה לא הביאו הרי\"ף והרא\"ש והרשב\"א בת\"ה הך דינא דשחט חיה ואח\"כ בהמה כו' או איפכא כיון שהוא מפורש בברייתא ונראה כוונתם דבברייתא אמרינן בלשון זה ר' יונתן בן יוסף אומר שחט חיה ואח\"כ בהמה כו' מדקתני ר' יונתן אומר ש\"מ דתנא קמא פליג וס\"ל דאין חייב לכסות אפילו בשוחט חיה על בהמה כיון שאין עפר למטה תחת דם החיה או להיפך דאפשר אפילו בשוחט בהמה על חיה יש כסוי דהיינו שיגרור את דם בהמה ויכסה דם החיה כמו שהקשו התוס' באמת על ר' יונתן בן יוסף בזה וע\"כ לא הביאו הרי\"ף והרא\"ש דברי רבי יונתן כיון דרבים פליגי עליה ובעל העיטור ס\"ל דהלכה כרבי יונתן ע\"כ הביא הטור דין זה בשם בעל העיטור כנ\"ל ברור ונכון:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 28:10"
+        },
+        "11": {
+          "he": "חייב לכסות. פי' כמות שהוא ואע\"ג דאין עפר למטה תחת דם החיה מ\"מ די בכך ומפרש הטעם בגמרא כיון דמ\"מ היה ראוי תחלה לתת עפר למטה וכל הראוי לבילה אין בילה מעכבת בו והתוס' הקשו דלמה לא יגרר אותו ויכסה בעפר למטה כמו בדם הניתז שבסעיף ט\"ו ואסיקו בתימה ובלבוש כתב בזה שחייב לכסות ובלבד שיהיה עפר תיחוח למטה שיהיה נבלע בסוף ואם אין עפר תיחוח למטה יגררנו הכל כמו שהוא ויתן עפר תיחוח למטה ולמעלה כו' וכל זה שגגה גדולה ולא עיין בגמרא כלל אלא מדעת עצמו כתב דברים כזה והם טעות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 28:11"
+        },
+        "12": {
+          "he": "ונתנבלה בידו. דין זה כתבו ב\"י בשם הג\"ה מיימוני בשם מהר\"מ דחייב לכסות והקשה ב\"י מ\"ש משוחט בהמה על החיה דפטור מכסוי. וע\"כ תירץ רמ\"א כאן דמיירי שאינו יודע אם דם האחרון כיסה את הראשון או לא אמרינן מסתמא לא כיסה אותו ועל כן חייב לכסות ויש לתמוה היאך שייך ליתן כלל כזה לחייב ברכה מסתמא דאטו כל חיות או עופות שוים אחת לחבירו ונלע\"ד דרך אחרת בזה (דהרמב\"ם) [דהר\"מ] כתב דין זה דוקא בנתנבלה בידו והטעם דכל מה שיצא בשחיטת עוף השני קודם שנעשה נבלה הוא דם ראוי לכסוי ובאותה שעה מיקרי דם שחיטה ואע\"פ שלאחר שנעשית נבלה הוה למפרע דם שאינו ראוי לכסוי מ\"מ כבר נתבטל בשעה שהיה עליו שם ראוי לכסות ובזה אין אנו הולכים אחר שיעור שאם היה מים אם היה בו מראית דם אלא בטל האי דם בדם שהיה תחלה ויש לדמות דבר זה לחמץ לח שנתערב קודם הפסח ביין דקים לן אין חוזר וניעור כמו שכתוב באורח חיים סי' תמ\"ז כיון שהיה עליו שם היתר בשעת התערובות הכי נמי כאן היה תחלה שם היתר עליו מ\"ה אמר מהר\"ם שפיר דחייב לכסות דמסתמא מיד שרואה שנתנבלה משליכה מידו וא\"כ אין כאן דם שיבטל דם התחתון אבל אם כבר נתנבלה בתחלת השחיטה והוא הולך ושוחט ומוציא הדם ודאי אין לברך על כיסוי זה כל זמן שלא נתברר לנו שיש כ\"כ שאילו נתערב במים כשיעור דם האיסור שהיה בו מראית דם כמ\"ש בסעיף י\"ג כנלע\"ד ברור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 28:12"
+        },
+        "13": {
+          "he": "אפילו יש לו דקר נעוץ. אע\"ג דלא מיתסר אלא מדרבנן לא אמרינן כיון דשחט ברשות שיכסה כמו בי\"ט דרצו חכמים לעשות היכר שהוא יום שאסור בשחיטה לפיכך לא התירו אלא מה שהוא צורך החולה כן כתב ר\"ן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 28:13"
+        },
+        "14": {
+          "he": "וכן חרש שוטה וקטן. נראה דה\"ה גדול ששחט ואין יודע הלכות שחיטה דרוב מעשיו מקולקלים ועמ\"ש סי' ט\"ז ס\"ק י\"ג:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 28:14"
+        },
+        "15": {
+          "he": "כדי שלא יבא לידי ברכה לבטלה. פי' דאם ימצא פסול בסימנים אין כאן כיסוי כלל ואם ימצא הסכין פגום נהי שיצטרך לכסות מספק דשמא במפרקת נפגמה כמ\"ש אח\"כ מ\"מ בשניהם אין כאן חיוב ברכה ע\"כ לא יכסה קודם הבדיקה בסימנים וסכין וא\"ל למה מברכין ברכת שחיטה קודם השחיטה שמא ימצא טריפה דהא בעינן שהברכה תהיה עובר לעשייתה ואף על גב דבברכת נטילת ידים וטבילה מברכינן אחר עשיית המעשה שאני התם דא\"א בענין אחר דגברא לא חזי כמ\"ש בסי' ד' סעיף א' וע\"כ כאן סמכינן ארובא דכשירות הם ובדרישה כתב בשם רש\"ל דברכת שחיטה שאני דמהני לטהרה מידי נבלה ותמוה הוא דא\"כ למה אמרו בשוחט דבר דאיתיליד ביה ריעותא דשוחט בלא ברכה כדאיתא סימן י\"ט סעיף א' הא מטהרה מידי נבלה אלא ע\"כ דלא מברכינן אלא על מה שמותר לאכול ממנה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 28:15"
+        },
+        "16": {
+          "he": "כל המפרקת כו'. דוקא בחומרא זאת שמדינא כשר לגמרי אפילו לדידן כמו שזכרנו בסי' כ\"ד סעיף ד' ומצות פרוש בעלמא אית ביה ע\"כ יכסנו בברכה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 28:16"
+        },
+        "17": {
+          "he": "תקינו ליה רבנן כו'. הב\"י הביא דברי המרדכי אלו בשם הגאונים והקשה עליהם דא\"כ טפי היה לתנא למיתני תקנה זאת ממה ששנה שישרוף זהב ותו דהיאך מברך על הכיסוי בעפר הא אין מכסהו בעפר אלא ממצה ליה בטליתו ע\"כ כתב שאין לדברים אלו עיקר ורמ\"א בד\"מ תירץ הקושיא הראשונה דהתנא מיירי שהעוף שוה כמו הזהב או הטלית ששורף והגאונים מיירי שאינו שוה ע\"כ א\"א לו בענין אחר וע\"כ עשו לו תקנה זאת ולא תירץ כלום דכיון דבגמרא החמירו עליו שישרוף הטלית או הזהב ולא סגי להו בתקנה זאת שימצה הדם בבגד אין כח ביד הגאונים לעשות תקנה מלבם ועל הקושיא השניה תירץ רמ\"א דכיון דבשעה שממצה הדם בבגד הוה התחלה לכיסוי ויכול לברך אע\"פ שאינו גומר הכיסוי עד לאחר זמן מידי דהוה אבדיקת חמץ דמברכין על ביעור חמץ אע\"ג דלא מבערו עד למחר משום דהבדיקה היא תחלת הביעור ה\"נ בזה ע\"כ גם זה אינו כלום דשאני גבי ביעור חמץ דא\"א לו לבער אא\"כ יבדוק אחריו תחלה נמצא שבשעה שציוו לבער היה בכלל זה גם הבדיקה תחלה משא\"כ כאן ששום אדם אינו עושה כן שימצה הדם בבגד רק האי גברא לפי שאין לו עפר ודאי אין שייך לומר שזהו בכלל הציוו מעיקרא אדרבה נימא שזה לא ישחוט כלל כיון שאין לו עפר לכסות. ומו\"ח ז\"ל תירץ הקושיא השנייה שאין מברך על כיסוי דם בעפר אלא יברך על כיסוי הדם כמו ששנו בתוספתא שעיקר נוסח הברכה כך היא וק\"ל דאף לפי זה שאינו מזכיר בכל ברכת כיסוי תיבת בעפר מ\"מ בעינן שיהיה הכסוי בעפר כמפורש בפסוק וכסהו בעפר אלא שלא צריך להזכירו וכמו שזכרתי לעיל סעיף ב' בקושיא ע\"כ נראה ברור שאין לנהוג כתקנה זאת וכן ראיתי לרש\"ל בספרו פרק כיסוי הדם סי' י\"ז וז\"ל נראה שאין לדברים אלו עיקר אף שהא\"ז הביאם מ\"מ אם היה ממש בדברי הגאונים א\"א שלא הביאם הרי\"ף או הרמב\"ם עכ\"ל ובלבוש כתב ג\"כ שאין לברך על כיסוי זה לא בתחלה ולא בסוף משמע דלא קפיד רק אברכה אבל עיקר הכיסוי יוכל לעשות כן ואני אומר שמי שאין לו עפר לכסות לא ישחוט כלל כיון דליתיה לתקנה זאת וכמ\"ש הטור והש\"ע כאן נ\"ל ברור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 28:17"
+        },
+        "18": {
+          "he": "הנזרעים בהם מצמיחים. פי' ולא עפר שמצמיח עשבים שגדלו כבר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 28:18"
+        },
+        "19": {
+          "he": "ובחרסית. הוא מין סיד וא\"צ כתישה ב\"י. ומגופה של חרס שכתשן האי שכתשן קאי גם אלבינה. ובנערת של פשתן פי' שמנערים מפשתן. ובנסורת חרשים פירוש חרש עץ שמגררים הנגרים במגירה. ובשיחור פי' כתישת פחמין ונקרת פסולים פירוש עפר שמנקרים מן הרחיים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 28:19"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "שהחיינו. עיין במגן אברהם סימן כ\"ב ס\"ק א':",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 28:1"
+        },
+        "2": {
+          "he": "לשחוט עוף ג\"כ. עיין בתשובת זכרון יצחק סימן ק\"י שכתב דהרמ\"א דקדק בלשונו וכתב לשחוט עוף ולא כתב חיה או עוף והיינו משום דעיקר מצות כיסוי לכסות תיכף כשיצא הדם מהנשחט כו' ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 28:2"
+        },
+        "3": {
+          "he": "פטור מלכסות. עיין במג\"א סימן תקפ\"ו סק\"ו:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 28:3"
+        },
+        "4": {
+          "he": "חייב לכסות. הפר\"ח כתב וכן הסכים ע\"י הפרי תואר דמכסה בלא ברכה משום דהא דאין דיחוי אצל מצות הוא איבעיא דלא איפשטא ועיין במג\"א סימן תקפ\"ו סק\"ו נראה דעתו דהכא מכסה בברכה ע\"ש ועיין בספר באר יעקב מ\"ש בזה והעלה כדעת הפר\"ח אך כתב דנכון שישחוט קודם לכסות עוף אחר ויברך על הכיסוי ואח\"כ יכסה האי דנתגלה אבל אי לית ליה עוף אחר ודאי מכסה בלא ברכה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 28:4"
+        },
+        "5": {
+          "he": "חייב לכסות. עבה\"ט ועי' בספר תפל\"מ שכתב דאם נתערב דם חיה ועוף בדם חיה ועוף אחר שכבר כיסה אותה וחזר ונתגלה דפטור לכסותה כדאיתא בסי\"א או שכבר כיסה מקצת דמה דא\"צ לכסות יותר כמו שכ' בסט\"ו אפשר דבכה\"ג אפילו לא היה בו מראה דם חייב בכיסוי כיון דכל הדם הוא מין שחייב בכיסוי אלא שנפטר פ\"א ובכה\"ג שנתערב אפשר דלכ\"ע דם בדם לא בטיל וצ\"ע לדינא עכ\"ד ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 28:5"
+        },
+        "6": {
+          "he": "שא\"צ לכסות כל הדם. [עיין בתשובת משכנות יעקב סי' י\"ג שהביא ראיה לדעת הרז\"ה שהובא בב\"י דצריך לכסות כולו. וגם במ\"ש בש\"ע כאן וגורר אותו כו' הביא ראיה לדעת הר\"מ בר נתן שהובא בב\"י דא\"צ לגוררו ע\"ש]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 28:6"
+        },
+        "7": {
+          "he": "שאם היה לו. עיין בס' תפארת למשה דלית הלכתא כיש מי שאומר אלו ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 28:7"
+        },
+        "8": {
+          "he": "ופטורה מכיסוי. עש\"ך שכתב דבש\"ס משמע שאינו רשאי לכסות כו' ועיין בתשובת אא\"ז פנים מאירות ח\"א סימן ט\"ו שדחה דבריו דבש\"ס לא משמע כלל הכי והעלה דאין איסור לכסות ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 28:8"
+        },
+        "9": {
+          "he": "כיצד יעשה כו'. [נראה דהיינו דוקא אם צריך לכל הדם אבל אם לא כן הרי יכול לכסות מקצת ולעשות צרכו בדם הנשאר כדלעיל סט\"ו ועיין בט\"ז לקמן סי' קי\"ז סק\"ד]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 28:9"
+        },
+        "10": {
+          "he": "נוחר או מעקר. עי' בתשובת נו\"ב תניינא חי\"ד סימן יו\"ד שנשאל באיש אחד אשר זיכהו השם בנחלה רחבה ויש לו יערות ושדות אשר בתוכו חיות אם מותר לילך בעצמו לירות בקנה שריפה לצוד ציד או אסור לעשות כן משום צעב\"ח או בל תשחית והשיב דמצד הדין אין איסור דכ\"ד שיש בו צורך להאדם לית ביה משום צעב\"ח וגם לא שייך צעב\"ח אלא לצערו ולהניחו בחיים אבל להמית לא ומשום בל תשחית נמי ליכא שהרי נהנה בעור וגם אינו עושה דרך השחתה ועוד דעיקר איסור ב\"ת היינו שלא ישחית דבר שיכול האדם ליהנות ממנו אבל דבר שאין בו הפסד לשום אדם ל\"ש ב\"ת וא\"כ הני חיות כ\"ז שהם בחיים אין בהם שום הנאה רק במותן בעורותיהם ובבשרם ודאי דלית בהו משום ב\"ת אך מ\"מ יש בדבר זה מדה מגונה היינו אכזריות וזה אומנות שאינה שלו וגם איסורא שמכניס עצמו לסכנה וגם גורם הזכרת עונותיו ומי שהוא איש הצריך לזה ופרנסתו מצידה כזו אין ברירה אבל מי שאין עיקר כוונתו למחייתו אסור לעשות כן ע\"ש ועיין בתשובת שמש צדקה חי\"ד סימן י\"ח וסימן נ\"ז עוד על ענין הנ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 28:10"
+        },
+        "11": {
+          "he": "שיבדוק הריאה. עיין בתשובת צמח צדק סי' קט\"ו שכתב לענין בדיקות הוושטות באווזות שמלעיטין שיש תקנה לבדוק יכסה מקודם. ולא דמו לריאה ע\"ש והביאו הפמ\"ג. ונראה דה\"ה לענין בר אווזות ששכיח במעיהן בועות הרבה וצריך בדיקה כמו שכתוב לקמן ס\"ס מ\"ו יכסה ג\"כ מקודם וכן כתב בתשובת הר הכרמל חלק יו\"ד סי' ח' באמצע התשובה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 28:11"
+        },
+        "12": {
+          "he": "כיוצא בזה. עבה\"ט ועיין בתשובת אא\"ז פמ\"א ח\"א סימן ט\"ו באמצע התשובה שיישב דעת הב\"ח והעלה לדינא כדבריו דספק בשחיטה בסכין פגומה א\"צ לכסות ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 28:12"
+        },
+        "13": {
+          "he": "שמחמירים. ועיין בתשובת נח\"ש ח\"ב סי' מ\"ז וסי' נ\"ז דה\"ה שהייה כל דהו מכסה בברכה ע\"ש. ועיין בתשובת בי\"ע סימן פ\"ו:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 28:13"
+        },
+        "14": {
+          "he": "תקינו ליה רבנן. עיין בתפארת למשה שכתב דצ\"ע אם מותר לעשות כן בשוחט לחולה בשבת להיש מי שאומר דבסעיף ט\"ו ולפמ\"ש שם דאין הלכה כהיש מי שאומר שם א\"כ גם למצה הדם בבגד אסור משום טורח ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 28:14"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "כיסה.  וכ' בט\"ז אע\"ג דכתב הרא\"ש דמצות כסוי היא גמר מצות שחיטה צ\"ל באמת היא מצוה בפני עצמה אלא ששייכה אחר מצות שחיטה כמו תפילין של ראש אחר תפילין של יד ואין להקשות למה פסק בהג\"ה בסי' י\"ט שאם סח בין שחיטה לכסוי דכשר מ\"ש מסח בין תפילין לתפילין צ\"ל דבתפילין שייכה הברכה דשל ראש גם לשל יד משא\"כ בשחיטה וכסוי מדנקט סתמא דכשרה משמע אפי' לעצמו. והב\"ח אוסר לעצמו מהרמ\"ט:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:1"
+        },
+        "2": {
+          "he": "לבריה.  ובש\"ך כתב טעם אחר משום דשחיטה היא בידו ואינו מצווה לשחוט דהא יכול להיות לעולם בלא בשר או שישחוט אחר אבל בכסוי החוב מוטל על כל אדם שרואה הדם לכסות כדלקמן ס\"ח מיהו צ\"ע למה מברכין על הכיסוי יותר שהחיינו מתפילין ומזוזה או קדושי אשה או שאר מצות שמתחנכים בו והניח בצ\"ע והפר\"ח פסק שלא לברך שהחיינו וספק ברכות להקל. וכ' בט\"ז דהא דצריך לומר על כיסוי דם בעפר ולא אמר סתם על כסוי דם צ\"ל משום דכאן עושה שני מצות כסוי שלמטה מהדם ושלמעלה וזה נלמד מן בעפר על כן צריך לומר בעפר להורות על שני מצות כנ\"ל ועיין בסימן ק\"כ ס\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:2"
+        },
+        "3": {
+          "he": "בי\"ט.  והטעם משום דצריך כסוי ובי\"ט אין רשאי לכסותה וכ' בט\"ז ובש\"ך הא דאינו מברך על כלאים הבאים מבהמה וחיה מיירי בצבי הבא על התיישה כיון דמספקא לן אי חוששין לזרע האב אבל בהמה שבא על החיה חייב לכסות בוודאי ואין כאן ספק וחייב לברך דצבי אפילו מקצת צבי אמרינן ולזרע האם ליכא מאן דפליג דפשיטא דחוששין כמו דאמרינן לעיל סימן י\"ו ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:3"
+        },
+        "4": {
+          "he": "דמן.  וכתב בש\"ך אפילו יש עפר מוכן מפני שהרואה יאמר ודאי חיה הוא דאל\"כ לא היו מטריחין לכסות בי\"ט ויבא להתיר חלבה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:4"
+        },
+        "5": {
+          "he": "יכסנו.  וכתב בש\"ך והאידנא בי\"ט יש ליתן בכלי מעט עפר ויקבל לתוכה הדם עד הלילה. הא דגבי כוי מצרכינן כיסוי מספק משא\"כ בספיקות אחרות עיין תשובת מהר\"ם לובלין סי' ס\"ה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:5"
+        },
+        "6": {
+          "he": "העוף.  ופי' הש\"ך שישחוט העוף אצל הבופל\"ו ולא ע\"ג הבופל\"ו דהא יהיה בטל בתוכה כמו שכתב בסעיף י\"ג בנתערב דם חיה עם דם בהמה וכו'. * וצ\"ע דבסימן רצ\"ז ס\"ו כתב בפשיטות דשור הבר הוא מין בהמה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:6"
+        },
+        "7": {
+          "he": "צריך.  פי' דאם מצא עפר תיחוח שוחט עליה ודי בכך וכתב בש\"ך אבל עפר מלמעלה לכ\"ע צריך שיתן הוא לכתחלה אבל בדיעבד כשר אפילו אם לא נתן עפר גם למעלה דהא כסהו הרוח פטור מלכסות כדלקמן סעיף י\"א. כ' בה\"י ועכשיו נוהגין ליקח אפר כירה ונותן ע\"ג קרקע ועושין בו גומא ומורידין בו דם העופות ובודקין תיכף הסימנין והסכין ואח\"כ מכסין בקתא את האפר:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:7"
+        },
+        "8": {
+          "he": "בסכין.  פי' בקתא של סכין אבל לא בראשו שמא יפגום אותו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:8"
+        },
+        "9": {
+          "he": "לכסות.  ועיין בח\"מ סימן שפ\"ב במי שקדם וכסה מה הוא חייב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:9"
+        },
+        "10": {
+          "he": "לכסות.  וכתב הט\"ז ולא אמרינן קמא קמא בטל והואיל ונדחה אידחי דאין תורת דחוי אצל מצות:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:10"
+        },
+        "11": {
+          "he": "לכסות.  וכתב בש\"ך דנראה לי דה\"ה אם שחט חיה או עוף ונפל הדם לדם בהמה בענין שאם היו רואין הדם בהמה מים לא היה בו מראית דם ושוב נפל לתוכו יותר בענין שאם היה מים היה חוזר וניעור חייב לכסות בלא ברכה וכך כתב הפרי חדש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:11"
+        },
+        "12": {
+          "he": "לכסות.  וכתב בש\"ך ואע\"ג דליכא עפר תיחוח למטה מ\"מ מה דאפשר למיעבד עבדינן וכתב בט\"ז הטעם כיון דמ\"מ היה ראוי לכתחלה לתת עפר למטה וכל הראוי לבילה אין בילה מעכבת והתוספות הקשו דלמה לא יגרר אותו ויכסה בעפר למטה כמו בדם הניתז שבסעיף ט\"ו ואסיקו בתימא. והב\"ח כתב דבעוף ע\"ג בהמה פטור מלכסות דדם העוף מועט וחולקין עליו הט\"ז והש\"ך דהכל תלוי לפי השיעור אם היה מים כמו שכתב בסעיף י\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:12"
+        },
+        "13": {
+          "he": "לכסות.  ובט\"ז חולק על רמ\"א דכתב מסתמא חייב לכסות האיך שייך ליתן כלל בזה לחייב ברכה מסתמא אלא העיקר תליא בזה אם מתחלה יצא דם קודם שנעשה נבלה אעפ\"י שלאחר שנעשה נבלה הוי למפרע דם שאינו ראוי לכסוי מ\"מ כבר נתבטל ויש לדמות דבר זה לחמץ לח שנתערב קודם פסח דאינו חוזר וניעור כיון שהיה עליו שם היתר בשעת התערובת אבל אם כבר נתנבלה בידו בתחלת השחיטה והוא שוחט ומוציא הדם ודאי אין לברך על כסוי זה כ\"ז שלא נתברר לנו שיש כל כך שאם נתערב במים שהיה בו מראה דם כמו שכתוב בסעיף י\"ג כנ\"ל ברור עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:13"
+        },
+        "14": {
+          "he": "נעוץ.  וכתב בט\"ז ואע\"ג דלא מיתסר אלא מדרבנן לא אמרינן כיון דשחט ברשות יכסה כמו ביום טוב משום דרצו חכמים לעשות היכר שאסור בשחיטה לפיכך לא התירו אלא מה שהוא צורך לחולה. ולדעת הי\"א שהתירו אם היה מוכן לכסות בו צואה אפ\"ה מה שמדליקין בי\"ט אסור לכסות באותו אפר אא\"כ ראוי לצלות בו ביצה עיין בא\"ח סי' תצ\"ח (מהרמ\"ט):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:14"
+        },
+        "15": {
+          "he": "יכסנו.  וע\"ל סוף סעיף ג' מה שכתבתי שם בשם הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:15"
+        },
+        "16": {
+          "he": "מכיסוי.  ל\"ד קטן ה\"ה גדול וא\"י ה\"ש. וכתב בש\"ך דבש\"ס פסק דאסור לכסות כדי שלא יאמר ודאי שחיטה מעליותא היא אבל כשאחרים רואין אותו פשיטא דהוי שחיטתן כשרה וצריך לכסות ולעשות ברכה וכל זה היינו דוקא מומחים או יודעים לאמן ידיהם דאז שחיטתן כשרה לכ\"ע ואם לא כן מכסה בלא ברכה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:16"
+        },
+        "17": {
+          "he": "לבטלה.  וכתב בש\"ך אבל ברכת השחיטה אי אפשר לברך כיון דצריך לברך עובר לעשייתן וסמכינן על חזקה דרוב בהמות כשרות הן אבל הכא דאפשר לברורי לא סמכינן על החזקה במקום דיכולין לבררו וע\"ל סי' א':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:17"
+        },
+        "18": {
+          "he": "בזה.  והב\"ח חולק על המחבר ופסק דאם נמצא ספק מה פטור מכסוי והט\"ז חולק עליו והסכים עם המחבר וכ\"פ מהרש\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:18"
+        },
+        "19": {
+          "he": "לכסות.  וכ' בש\"ך דצריך לברך דלא כהב\"ח שפוסק לכסות בלא ברכה. וכן שהייה דרסה חלדה הגרמה במיעוט בתרא בסימנין חייב לכסות בברכה (ש\"ך) השוחט לאכילת כלבים או לאכילת עובדי כוכבים חייב בכסוי. כנה\"ג בשם ש\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:19"
+        },
+        "20": {
+          "he": "שישרוף.  והקשה הע\"י למה לי לשרוף טליתו הלא כששורף טליתו יש לו אש ע\"כ א\"כ יכסה באפר של אותו אש או איך יבשל או יצלה אותו עוף וע\"כ יש לו אש ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:20"
+        },
+        "21": {
+          "he": "נהוג.  וכ' בש\"ך דעכ\"פ כשמברך אין לומר על כסוי דם בעפר אלא על כסוי דם בלבד והט\"ז חולק על הגהת רמ\"א ופסק להלכה כדעת המחבר דמי שאין לו עפר לכסות לא ישחוט ופר\"ח מסיק ואין לו תקנה אלא לישרף טליתו או שישחוק דינרי זהב. ובס' נ\"ה חולק על ט\"ז ופוסק דעיקר כרמ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:21"
+        },
+        "22": {
+          "he": "מותרים.  פירוש אע\"ג שלא נתקיים בהם מצות כסוי מותרים וכן בהמה שלא יצא מהם דם מותר דדם האברים שלא פירש מותר:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:22"
+        },
+        "23": {
+          "he": "בהם.  וכ' בש\"ך ולא מהני כשמשימין בהם צמחים והוא מגדלם אלא בעינן דוקא שהנזרעים בהן מצמיחים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:23"
+        },
+        "24": {
+          "he": "שרופים.  וכ' בש\"ך אבל אם שרופים מכסים וה\"ה לכל הנך דאין מכסין אם שרופים מכסים בעפרן. אין מכסין לא בגפרית ומלח ולא בפלפלין שחוקים אבל בקנמון טחון מכסין (כנה\"ג בשם ש\"ג):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:24"
+        },
+        "25": {
+          "he": "לחה.  כתב בש״ך דמשמע כאן שעפר לחה אינה מצמחת וזה אינו דבפ' אלו עוברין (פסחים דף מ״ו) איתא בהדיא דראוי' לזריעה ומצמחת אלא הטעם דאין מכסין בעפר לחה משום דבעינן עפר דק דראוים למנות דכתיב אם יוכל איש למנות עפר הארץ וגו' ע״כ נלע״ד דהאי ולכן שכ' רמ״א הוא ט״ס וצ״ל וכן. כתב הרמב״ם סוף ה״ש מותר לכסות בעפר עיר הנדחת וה״ה בעפר עבודת כוכבים ושאר איסורי הנאה משום דמצות לאו ליהנות ניתנו (מהרמ״ט):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 28:25"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

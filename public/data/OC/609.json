@@ -1,0 +1,95 @@
+{
+  "chelek": "OC",
+  "siman": 609,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-07T23:49:34.390Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "הטמנת חמין בערב יום כפור. ובו סעיף אחד:מותר להטמין חמין מערב יום הכפורים למוצאי יום הכפורים: הגה וי\"א שאין להטמין ביום הכפורים (עיין בטור) וכן המנהג במדינות אלו (מהרי\"ל):",
+      "en": "“Keeping food warm66Keeping food warm on Yom Kippur refers to putting food in an insulated container that was usually a box of some type surrounded by wool or old clothes. It should not be assumed that food could be kept warm on Yom Kippur by means of a continual fire on Yom Kippur, which is not permitted. on the Eve of Yom Kippur” - Containing one paragraph.It is permitted to keep food warm from the Eve of Yom Kippur until the end of Yom Kippur.Hagah: There are those who say that one is not to keep food warm on Yom Kippur (see in the Tur, טור),67Tur, טור; see footnote 23. and so it is the custom in these lands, (מהרי״ל).68Maharil, מהרי״ל; see footnote 8.",
+      "ref": "Shulchan Arukh, Orach Chayim 609:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "טור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 609:1"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "שאין עמ״א טור בשם רב עמרם והיינו אף קודם חצות בעי״כ יש לאסור שנראה דביום כיפורים מתבשל בתנור לחול וזה אין נכון ועב״ח לאחר חצות עי״כ י״ל איסורא איכא עסי׳ רנ״א ומ״מ י״ל שא״צ להמתין מוצאי יוה״כ כ״ש. ועסי׳ רנ״ד במ״א אות ך׳ וא״כ כאן דמיחזי כרעבתונא עיין לבוש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 609:1"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] [לבוש] אלא עיקר וכו'. בזה מיישב מה שהתיר בסימן רנ\"ד סעיף ה' לאפות לצורך מוצאי שבת וקל להבין, ומגן אברהם סימן רנ\"ד ס\"ק ב' מחלק בין להטמין בין לאפות דמותר, וכן בתשובת רדב\"ז סימן ל\"א אוסר להטמין למוצאי שבת:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 609:1"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "שאין להטמין. שמכין ביה\"כ לחול (ב\"ז וטור):",
+          "en": "",
+          "ref": "Magen Avraham 609:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "שאין.  שמכין ביה\"כ לחול ועיין רדב\"ז סימן ל\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 609:1"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) מותר וכו' - שמחול לחול הוא מכין:",
+          "en": "",
+          "ref": "Mishnah Berurah 609:1"
+        },
+        "2": {
+          "he": "(ב) וי\"א שאין להטמין - שנראה דביוה\"כ מתבשל בתנור לצורך חול וזה אין נכון ואפילו בעיו\"כ קודם חצות אין לעשות הטמנה זו ובכל גווני אם עבר והטמין א\"צ להמתין במוצאי יו\"כ בכדי שיעשה:",
+          "en": "",
+          "ref": "Mishnah Berurah 609:2"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

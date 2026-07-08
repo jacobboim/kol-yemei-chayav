@@ -1,0 +1,114 @@
+{
+  "chelek": "OC",
+  "siman": 601,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-07T23:49:34.165Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "סדר יום שני של ראש השנה. ובו ב סעיפים:ביום שני (מתפללים כמו ביום ראשון) (טור) וקורים מוהאלהים נסה את אברהם עד סוף סידרה ומפטיר קורא כמו אתמול ומפטיר בירמיה כה אמר ה' מצא חן במדבר עד הבן יקיר לי אפרים ובמוצאי ר\"ה מבדילין כמו במוצאי שבת אלא שאין מברכין על הבשמים ועל האש:",
+      "en": "The order of the 2nd day of Rosh HaShana and in it is 2 paragraphs On the 2nd day (we pray like the 1st day) (Tur) and we read from \"And God tested Abraham\" (Bereshis 22:1) until the end of the portion (Bereshis 22:24). The Maftir reading is the same as yesterday. And the Haftarah is in Yirmiyah (Jeremiah) \"Thus Spoke Hashem: (the Nation) found favor in the desert\" (Jeremiah 31:2) until \"The son, precious to me, is Efrayim\" (Jeremiah 31:20). On Motzei Rosh HaShana, we make Havdala like on Motzei Shabbos; however, we do not make a blessing on the spices or on the flame.",
+      "ref": "Shulchan Arukh, Orach Chayim 601:1"
+    },
+    {
+      "seif": 2,
+      "he": "אף בארץ ישראל עושים ראש השנה שני ימים:",
+      "en": "Even in the Land of Israel, we make Rosh HaShana two days.",
+      "ref": "Shulchan Arukh, Orach Chayim 601:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא מגילה ל\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 601:1"
+        },
+        "2": {
+          "he": "טור וציינתיו לעיל בסי' תצ\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 601:2"
+        },
+        "3": {
+          "he": "הרי\"ף בפ\"ק וביצה והרמב\"ם בפ\"ה מה' קידוש החודש ובפ\"א מהי\"ט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 601:3"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "אף בא״י עמ״א שאם באו עדים ממנחה ולמעלה כבסי׳ ת״ה. ביום שני תקיעות ספק ותפלה ודאי ע׳ סי׳ תקצ״ה מ״ש שם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 601:1"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] [לבוש] ותוקעין וכו'. בט\"ז האריך בשאלה בראש השנה שחל בחמישי וששי ולא בא להם שופר עד אחר שהתפלל של שבת בעוד יום, והתיר לתקוע בלא ברכה וכן עיקר. ואף שיש לפקפק על קצת ראיותיו ובפרט מה שכתב דגם בשבת אין איסור לתקוע, דחכמה ואין מלאכה הוא כדאיתא בש\"ס אלא משום גזירה שמא יטלטלנו ברשות הרבים וכל שהוא תוקע דרך רשות וכו' אזיל לטעמיה בסוף סימן תקצ\"ו וכבר הקשיתי שם עליו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 601:1"
+        },
+        "2": {
+          "he": "[ב] [לבוש] ואומר לאל עורך דין וכו'. והא דאומרים ביום ראשון בשחרית אפשר כיון דיש שני דעות בגמרא אי בשלוש ראשונות יושב ודן אי בשניות לכך עושין פעם בשחרית ופעם במוסף בשניות עיין סימן תקצ\"ו ס\"ק ב':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 601:2"
+        },
+        "3": {
+          "he": "[ג] מבדילין וכו'. ואין אומרים אליהו הנביא אבודרהם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 601:3"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "אף בארץ ישראל. שאף הבית דין עשו ב' ימים:",
+          "en": "",
+          "ref": "Magen Avraham 601:1"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) וקורים וכו' - כדי להזכיר זכות עקידת יצחק וקורין בזה ה' גברי ואם שכח וקרא פרשה וד' פקד את שרה חמשה קרואים יקרא עוד א' ויקרא מתחילת פ' העקידה עד סופה ואפילו אמר קדיש יעשה כן ויאמר קדיש שנית ואם כבר נסתלק ספר זה יכול לקרות בספר השני למפטיר פ' העקידה ויגלול ויקרא ג\"כ חובת היום:",
+          "en": "",
+          "ref": "Mishnah Berurah 601:1"
+        },
+        "2": {
+          "he": "(ב) אפרים - מפני שחובת היום להזכיר זכרונות וכתיב בההיא קרא זכור אזכרנו:",
+          "en": "",
+          "ref": "Mishnah Berurah 601:2"
+        },
+        "3": {
+          "he": "(ג) אף בא\"י עושין וכו' - לפי שאפילו בזמן המקדש אירע כמה פעמים שהיו צריכין לעשות שני ימים וכמו שמבואר בב\"י. ולכן גם היום החיוב בא\"י לעשות שני ימים ונחשבין כיומא אריכתא:",
+          "en": "",
+          "ref": "Mishnah Berurah 601:3"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

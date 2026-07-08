@@ -1,0 +1,248 @@
+{
+  "chelek": "OC",
+  "siman": 617,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 4,
+  "fetchedAt": "2026-07-07T23:49:34.802Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין עוברה ומניקה ויולדת ביו\"כ. ובו ד סעיפים:עוברות ומניקות מתענות ומשלימו' ביום הכפורים:",
+      "en": "“The laws concerning a pregnant woman, and one who nurses a child, and giving birth on Yom Kippur” - Containing four paragraphs.Pregnant and nursing women fast completely on Yom Kippur.",
+      "ref": "Shulchan Arukh, Orach Chayim 617:1"
+    },
+    {
+      "seif": 2,
+      "he": "עוברה שהריחה (ופניה משתנים אע\"פ שלא אמרה צריכה אני) (רי\"ו נכ\"ז) לוחשין לה באזנה שיום הכפורים הוא אם נתקררה דעתה בזכרון זה מוטב ואם לאו מאכילין אותה עד שתתיישב דעתה:",
+      "en": "A pregnant woman who smells (food and her face changes even though she did not say “I need it”) we whisper in her ear that it is Yom Kippur and if she quiets down when this is mentioned it is fine, but if not, then we feed her (until) she is satisfied.",
+      "ref": "Shulchan Arukh, Orach Chayim 617:2"
+    },
+    {
+      "seif": 3,
+      "he": "כל אדם שהריח מאכל ונשתנו פניו מסוכן הוא אם לא יתנו לו ממנו ומאכילין אותו ממנו:",
+      "en": "Every person who smells food and his face changes (its color) and he is in danger if they do not give him from it (the food which he smells), we feed him from it (the food).",
+      "ref": "Shulchan Arukh, Orach Chayim 617:3"
+    },
+    {
+      "seif": 4,
+      "he": "יולדת תוך שלשה ימים לא תתענה כלל משלשה עד שבעה אם אמרה צריכה אני מאכילין אותה מכאן ואילך הרי היא ככל אדם וימים אלו אין מונין אותם מעת לעת כגון אם ילדה בשבעה בתשרי בערב אין מאכילין אותה ביום הכפורים אם לא אמרה צריכה אני אף על פי שלא שלמו לה שלשה ימים עד יום כפורים בערב משום דכיון שנכנס יום רביעי ללידתה מקרי לאחר שלשה:",
+      "en": "A woman who gives birth must not fast at all within three days (of giving birth). From three until seven (days), if she says, “I have to eat,” feed her. From now on (after seven days), behold she is like every other person. And we do not count these as twenty-four hour days, for example if she gives birth in the evening of the seventh of Tishrei, we do not feed her on Yom Kippur (the tenth day of Tishrei) if she does not say, “I need it (food),” even though the three days were not completed for her until the evening of Yom Kippur, since (Yom Kippur) begins the fourth day after her giving birth, this is called after three days.125Yom Kippur in this example is actually the fourth day but the term \"day\" here is not to be understood as precisely a twenty-four hour day. In other words, according to a strict counting of twenty-four hours, she should be given food on the evening of the tenth of Tishrei which is Yom Kippur, but if the woman does not feel that she needs the food at this time after giving birth she is considered legally already in her fourth day after giving birth where the law states that she may fast unless she feels she must eat. She may not observe the fast up to seven days after giving birth, but after that time has elapsed, she must fast as every other person does. It was felt that she was out of physical danger by this time unless complications arose. (Yom Kippur here is counted as the fourth day after her giving birth.)",
+      "ref": "Shulchan Arukh, Orach Chayim 617:4"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מימרא דרבא פסחים דף נ\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 617:1"
+        },
+        "2": {
+          "he": "משנה יומא דף ס\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 617:2"
+        },
+        "3": {
+          "he": "מעובדא דרבי שם ז'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 617:3"
+        },
+        "4": {
+          "he": "עיין בסימן דלקמן ס\"ו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 617:4"
+        },
+        "5": {
+          "he": "הרא\"ש שם מעובדא דאמימר ומר זוטרא כתובות ס\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 617:5"
+        },
+        "6": {
+          "he": "רא\"ש שם בשם רמב\"ן וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 617:6"
+        },
+        "7": {
+          "he": "תה\"ד מדברי התוספות גיטין ח'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 617:7"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "אף ע״פ עמ״א משמע המחבר מיירי בלא נשתנה פניה רק אמרה צריכה אני מאכילין אותה ובשאר ב״א דוקא פניו משתנים הא צריך אני לא מהני כבסעיף ג׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 617:1"
+        },
+        "2": {
+          "he": "מאכילין עמ״א בין במאכל איסור או היתר אין חילוק בעוברה תחלה מאכילין כוש ברוטב או רוטב או מאכל עצמו כו׳ בין ביה״כ בין בשאר ימות השנה משא״כ בחולה כו׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 617:2"
+        },
+        "3": {
+          "he": "לא תתענה עמ״א אפי׳ אמרה א״צ אומר לה אכלי עב״ח ועסי׳ תרי״ח ואי״ה שם יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 617:3"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] ואפילו לא אמרה וכו'. אבל אמרה אף שאין פניה משתנות (מגן אברהם):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 617:1"
+        },
+        "2": {
+          "he": "[ב] לא תתענה וכו'. אפילו אמרה אין צריך (ב\"ח). ומכל מקום יש להאכילה פחות מכשיעור (מגן אברהם), וצריך עיון. ועיין סימן תרי\"ח ס\"ק י\"א מה שכתבתי בשם מגן אברהם גופיה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 617:2"
+        },
+        "3": {
+          "he": "[ג] מכאן ואילך וכו'. היינו באומרה צריכה אני מחמת לידה אבל אמרה צריכה אני מחמת שמתכבד עלי החולי נותנין לה (איסור והיתר), ועיין סימן תרי\"ח סעיף א':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 617:3"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "אף על פי שלא אמרה. משמע דאם אמרה צריכה אני אף על פי שאין פניה משתנות וכ\"מ ברי\"ו שכתב תחלה סתם עוברה שהריחה ומיירי כשאמר' צריכ' אני דאל\"כ מנא ידעינן שהריחה ובהכי מיירי ג\"כ הטור ואח\"כ כת' כשפניה משתנות נותנין לה דלא כהב\"ח שעש' מחלוקת ובשאר כל אדם לא מהני אמרי' אא\"כ נשתנה פניו כמ\"ש ס\"ג:",
+          "en": "",
+          "ref": "Magen Avraham 617:1"
+        },
+        "2": {
+          "he": "מאכילין אותה. פי' שתוחבין כוש ברוטב ונותנין לתוך פיה ואם לא נתישב' דעתה נותנין לה רוטב ואם לאו נותנין לה המאכל עצמו [ב\"י ב\"ח ולבוש] ודוקא עוברה שלפעמים מתישבת דעתה בדבר מועט אבל חולה מאכילין אותו כפי שיאמר הרופא אך פחות פחות מכשיעור כמ\"ש סי' תרי\"ח ס\"ז [הרא\"ש]:",
+          "en": "",
+          "ref": "Magen Avraham 617:2"
+        },
+        "3": {
+          "he": "לא תתענה. אפי' אמר' א\"צ מאכילין אותה ואומרי' לה אכלי [ב\"ח] ומ\"מ יש להאכיל' פחות מכשיעור עסי' ש\"ל ס\"ד:",
+          "en": "",
+          "ref": "Magen Avraham 617:3"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "שלא אמרה.  ואם אמרה צריכה אני אע\"פ שאין פניה משתנות. ובשאר כל אדם לא מהני אמירה אא\"כ נשתנה פניו מ\"א ע\"ש עס\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 617:1"
+        },
+        "2": {
+          "he": "מאכילין.  פי' שתוחבין כוש ברוטב ונותנין לתוך פיה ואם לא נתיישבה דעתה נותנין לה רוטב ואם לאו נותנין לה המאכל עצמו ב\"י ב\"ח לבוש. ודוקא עוברה לפעמים מתיישבא דעתה בדבר מועט אבל חולה מאכילין אותו כפי שיאמ' הרופא אך פחות פחות מכשיעור כמה שכתוב בסימן תרי\"ח סעיף ז':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 617:2"
+        },
+        "3": {
+          "he": "לא תתענה.  אפילו אמרה א\"צ מאכילין אותה ואומרין לה אכול. ב\"ח. וע' סי' תקנ\"ד סעיף ו'. ומ\"מ יש להאכילה פחות מכשיעור. מ\"א ועיין סי' ש\"ל ס\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 617:3"
+        },
+        "4": {
+          "he": "ככל.  היינו באמרה צריכה אני מחמת לידה אבל אם אמרה צריכה אני מחמת שמתכבד עלי החולי נותנין. או\"ה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 617:4"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) שהריחה - מאכל וידוע שאם אין נותנין לה מה שמתאוה היא וולדה מסוכנים ואין נ\"מ בין בתחלת עיבורה ובין בסופה:",
+          "en": "",
+          "ref": "Mishnah Berurah 617:1"
+        },
+        "2": {
+          "he": "(ב) ופניה משתנים אע\"פ וכו' - ובאין פניה משתנים אין מאכילין אותה אא\"כ אמרה צריכה אני לאכול:",
+          "en": "",
+          "ref": "Mishnah Berurah 617:2"
+        },
+        "3": {
+          "he": "(ג) אם נתקררה דעתה וכו' - שלפעמים מתיישבת דעתה אחר שמזכירין לה שיום הזה יום הכפורים הוא שכל העולם מתענין בו:",
+          "en": "",
+          "ref": "Mishnah Berurah 617:3"
+        },
+        "4": {
+          "he": "(ד) מאכילין אותה - פי' שתוחבין קיסם ברוטב (ר\"ל איזה טיפות) ונותנים לתוך פיה ואם לא נתיישבה דעתה נותנין לה רוטב פחות פחות מכשיעור כפי שיתבאר לקמן בסימן תרי\"ח ואם גם בזה לא נתיישבה דעתה נותנין לה מן המאכל עצמו פחות פחות מכשיעור עד שתתיישב דעתה. ודוקא עוברה מדקדקין עמה בכל הנזכר לעיל משום שלפעמים מתיישבת דעתה בדבר מועט אבל חולה מאכילין אותו כפי שיאמר הרופא וכן כשמאכילין אותו ע\"פ עצמו כשאומר צריך אני ג\"כ מאכילין אותו עד שיאמר די אך בכל זה מאכילין אותו פחות פחות מכשיעור וכפי שיתבאר לקמן סי' תרי\"ח:",
+          "en": "",
+          "ref": "Mishnah Berurah 617:4"
+        },
+        "5": {
+          "he": "(ה) עד שתתיישב דעתה - ואינה צריכה אומד הרופאים לזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 617:5"
+        },
+        "6": {
+          "he": "(ו) ונשתנו פניו - ובלא נשתנו פניו אע\"פ שאומר שלבו חלש וצריך לאכול אין מאכילין אותו. [כ\"כ מ\"א וא\"ר ובישועות יעקב מגמגם בזה ועיין בחתם סופר בחלק אה\"ע ח\"ב סי' פ\"ב שדעתו דאף שאנו אין מאכילין אותו מחמת שהוא בחזקת בריא מ\"מ החולה עצמו היודע מרת נפשו יוכל ליקח לעצמו ולאכול בין ביוה\"כ בין בשאר איסורין כיון שמרגיש בעצמו שיוכל לבא לידי סכנה]:",
+          "en": "",
+          "ref": "Mishnah Berurah 617:6"
+        },
+        "7": {
+          "he": "(ז) ומאכילין אותו - ר\"ל ג\"כ הקל הקל כמו באשה עוברה וכנ\"ל. ודע דמה שהקלנו באשה עוברה וכן בכל אדם שהריח הוא דוקא עד שתתיישב דעתן אבל אחר שנתיישב דעתן אין להם לאכול שאר היום דלא אמרינן כיון שהותר מקצת היום באכילה הותר כולו:",
+          "en": "",
+          "ref": "Mishnah Berurah 617:7"
+        },
+        "8": {
+          "he": "(ח) ממנו - ואעפ\"כ כשמריח ריח מאכל יזהר מאד כל אדם שיפלוט כל הרוק שיבא בפיו ולא יבלע דאז בא לידי סכנה [כדאיתא בכתובות ס\"א ע\"ב] ח\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 617:8"
+        },
+        "9": {
+          "he": "(ט) יולדת וכו' - ואפילו אם לא ילדה עדיין רק אחזו לה חבלי לידה וכפי המבואר לעיל בסימן ש\"ל ס\"ג דנקראת יולדת לענין לחלל עליה את השבת וה\"ה דנקראת גם יולדת לענין זה שלא תתענה [מאמר מרדכי]:",
+          "en": "",
+          "ref": "Mishnah Berurah 617:9"
+        },
+        "10": {
+          "he": "(י) לא תתענה כלל - אפילו אמרה איני צריכה לאכול מאכילין אותה ואומרין לה אכלי אכן מ\"מ יש להאכילה אז פחות פחות מכשיעור אבל בלא אמרה איני צריכה מאכילין אותה כדרכה וא\"צ לחלק בפחות מכשיעור ויש מחמירין שגם בזה צריך להאכילה פחות פחות מכשיעור:",
+          "en": "",
+          "ref": "Mishnah Berurah 617:10"
+        },
+        "11": {
+          "he": "(יא) אם אמרה צריכה אני וכו' - מיירי כשחברותיה אומרות שאינה צריכה או שהרופאים אומרים שא\"צ דאז בעינן שתאמר צריכה אני [ומאכילין אותה פחות פחות מכשיעור] ומהני אמירתה משום דלב יודע מרת נפשו וכדלקמן בסימן תרי\"ח אבל כשאין שם מי שיאמר שאינה צריכה אז אפילו בסתמא שאינה אומרת כלום או שאומרת שאינה יודעת אם היא צריכה מאכילין אותה:",
+          "en": "",
+          "ref": "Mishnah Berurah 617:11"
+        },
+        "12": {
+          "he": "(יב) ככל אדם - דמשם ואילך הרי היא כשאר חולה שאין בו סכנה דבודאי אין שום סכנה מחמת לידה לאחר ז' ימים ללידתה לפיכך אף אם אמרה צריכה אני לאכול מחמת צער לידה אין מאכילין אותה אבל אם אמרה צריכה אני לאכול מחמת שמתכבד עלי החולי מאכילין אותה כדרך שמאכילין כל חולה כשאומר צריך אני כמו שיתבאר בסימן תרי\"ח ע\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 617:12"
+        },
+        "13": {
+          "he": "(יג) אין מונין אותם מעל\"ע - עיין לעיל סימן ש\"ל במ\"ב סק\"י דכמה פוסקים סוברין דימים אלו במעל\"ע שיערו אותם ושיש להקל למעשה וכן מצאתי בישועות יעקב דהמיקל בספק נפשות לחשוב השבעה ימים מעל\"ע לא הפסיד:",
+          "en": "",
+          "ref": "Mishnah Berurah 617:13"
+        },
+        "14": {
+          "he": "(יד) אם לא אמרה צריכה אני - והיינו כשחברותיה אומרות שאינה צריכה וכנ\"ל בסקי\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 617:14"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

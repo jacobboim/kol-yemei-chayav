@@ -1,0 +1,230 @@
+{
+  "chelek": "OC",
+  "siman": 125,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-07T23:41:01.785Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני קדושה. ובו ב סעיפים:אין הצבור אומרים עם ש\"צ נקדישך אלא שותקין ומכוונין למה שש\"צ אומר עד שמגיע לקדושה ואז עונים הצבור קדוש:",
+      "en": "The Laws of Kedusha.  Containing 2 S'ifim:The congregation does not say \"Nakdishakh...\" [the opening of the Kedusha] together with the prayer leader, rather they should be silent and concentrate on what the prayer leader is saying, until [the leader] reaches Kedusha [proper], and then the congregation answers \"Kadosh\".",
+      "ref": "Shulchan Arukh, Orach Chayim 125:1"
+    },
+    {
+      "seif": 2,
+      "he": "טוב לכוין רגליו בשעה שאומר קדושה עם שליח צבור: הגה ויש לישא העינים למרום בשעה שאומרים קדושה וכן מנענעים גופן ונושאין אותן מן הארץ [טור ושבולי לקט] ואין לדבר באמצע הקדושה [מהרי\"ל וב\"י בשם מהרי\"א ודרך ארץ זוטא] ומי שאמר סדר קדושה ובא לבה\"כ ומצא צבור עונין קדוש' חוזר ועונ' עמהם: [תשובת הרשב\"א סי' רמ\"ט]:",
+      "en": "It is proper is pay attention to one's feet [i.e. keep them together] at the time when one is saying Kedusha with the prayer leader. Gloss: And people should raise the eyes on high at the time at which they are saying Kedusha, and also move their body and lift themselves from the ground [Tur and Shibolei Leket]. And one should not speak in the middle of Kedusha [Mahari\"l and Beit Yosef in the name of Mahari\"a and Derech Eretz Zuta]. And one who [already] said the order of the Kedusha and came to the synagogue and found the congregation answering Kedusha should repeat it and answer with them [Responsum of the Rashb\"a - siman 249]",
+      "ref": "Shulchan Arukh, Orach Chayim 125:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "הרא\"ש בתשו' כלל ד' וב\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 125:1"
+        },
+        "2": {
+          "he": "ת\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 125:2"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "שותקין עמ״א ס״ו ס״ג אות ו׳. בשבת האמור בקמ״ץ הה״א אע״פ שהידיעה בפתח נשלם הדגש מגרוניות ע״ש בשם מהרי״ל עד״מ כאן. עיין פרישה מקדישים במ״ם כמשפט לה״ק לא ארמית צריך הפסק בין שמקדישים ובין אותו כמו וזכרתם את וכדומה עא״ר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 125:1"
+        },
+        "2": {
+          "he": "מנענעים עמ״א מ״ש הב״ח וכן כתוב על יד נביאך לא ככתוב דיש י״ד תיבות עד וקרא וככתוב לית רק י״ג תיבות עד וקרא יע״ש בטור והמ״א כתבו סמך לנוסח שלנו מחזקוני יע״ש ואמנם בטור מבואר וכן כתוב והוי י״ד תיבות: עיין בה׳ ר״ה מדין י״ג מדות בכל ימות השנה צריך ציבור וכולם אומרים ביחד ל״ד לקדושה שצריך שהש״ץ לבדו יאמר וישתקו וכן בקדיש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 125:2"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "אין עט״ז בק״ט סעיף ב׳ ומ״מ שם הסכים להר״ב בהג״ה דלכתחלה לא יתחיל עד אחר אמן של הקדוש שיענה אמן והמ״א שם לשיטתיה באות ט׳ דאסור לכתחלה לומר קדושה עם הש״ץ ודיעבד אם התחיל אין ברירה מחמת אמן יע״ש ועיין לבוש הטעם דאיך יאמרו כולם נקדש שמשמע שאומרים לאחרים הלא כולם אומרים נמי א״ש כשהתחיל יחיד להתפלל אומר עם הש״ץ שיש רבים בלא הוא ומיהו ודאי בלא התפלל עם הש״ץ פשיטא אף שיש מנין בלא הוא אין לענות דכ״א יעשה כן ועמ״א וא״ר. ומ״ש מסימן נ״ט לעומתם נמי סיפור הוא:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 125:1"
+        },
+        "2": {
+          "he": "ויש עט״ז מנהג בני אשכנז נושאין עיניהם למעלה ובני ספרד עיניהם למטה ומפרש הט״ז למעלה וסגורות אבל הב״ח כתב דתפלה שאני משא״כ בקדושה עיניהם פתוחות וז״ש במדרש תנחומא כ״ה בב״ה. עמ״א סי״ נ״ו א׳ איש״ר קודם לקדושה ועפר״ח כאן מסתברא שאם התחיל בקדושה יגמור ולא יפסיק לאיש״ר ויראה דגומר קדוש ג״פ עד כבודו (עסי׳ ס״ו מ״א ו׳) ויאמר אח״כ איש״ר אם שומע אז:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 125:2"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] אין הציבור וכו'. נקדישך וכו' וכן לעומתן בדברי וכו', כן כתב הנחלת צבי ובבית יוסף נראה כמסתפק ולכן לא כתבו בשולחן ערוך, וכן בט\"ז פסק שיאמרו, וכן בספר חסידים סימן תת\"ט משמע דהקהל יאמרנו בלחש, ועיין בספר חסידים דצריך עיון להבין ועל פי זה אפשר לפרש ודו\"ק. עוד כתב ספר חסידים דאסור ליחידים לומר ברוך כבוד קודם שיסיים השליח ציבור תיבת ואמרו, וכן בימלוך אסור קודם שיסיים השליח ציבור לאמור. כתב האבודרהם נקדש שמך בעולמך ותיקון בתחתון לעומתם, פירוש כל ארבע רוחות משבחים להקב\"ה באיזה נוכח שירצה כי הכבוד מלא את כל רוחות ואינן צריכים להסיב פניהם שיש להם פנים לכל צד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 125:1"
+        },
+        "2": {
+          "he": "[ב] עם השליח ציבור נקדישך וכו'. הטעם בלבוש שהרי השליח ציבור אומר אותו בשביל כל הציבור בלשון רבים על כרחך מפרש כן מה שכתב בית יוסף טעמו בשם תשובת הרא\"ש אין אומרים דבר שבקדושה אלא בעשרה וצריך להבין להשליח ציבור ולענות אחריו, עד כאן. ובזה ניחא תמיהת הט\"ז מסימן ק\"ט דיאמר עם החזן נקדישך כו' ודו\"ק. כתב בעל הלכות גדולות סימן י\"ג אפילו יש מנין מלבדו אסור אפילו ללמוד אם לא בשעה שהחזן מנגן בשעת הניגון ולא בשעת שמחתך האותיות:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 125:2"
+        },
+        "3": {
+          "he": "[ג] ויש לישא וכו'. משמע שעיניו יהיו פתוחות וכן כתב הב\"ח, ולא דמי לתפילה בסימן צ\"ה דקיימא לן דעיניו למטה ודלא כט\"ז, וכן כתב בספר זרע ברך וכן משמע בספר שבלי הלקט ותניא זה לשונו, בשעה שאומרים קדושה צריך לפסוע ג' פסיעות לפניו על שם מלכי צבאות ידודן ידודן כתיב ידדון בהליכה ידדון בחזרה, וכמה שלוש פסיעות כנגד מחנה ישראל שלוש פרסאות, מרכבה למדו אותם שישאו עיניהם למרום וידאו עקביהם עם גופם בעת קדושה כי אין להקב\"ה הנאה לעולמו אלא באותו שעה שעיניהם נשואות בעיני ועיני בעיניהם באותו שעה אני אוחז בכסא כבודי ובדמות יעקב ומחבקה ומנשקה וכו' ומזכיר גלותם. וכתב בגליון מגן אברהם דוקא במלת קדוש ראשונה יש להביט לשמים אבל קדוש שאומרים פעם שניה ושלישית צריכין לומר בהשתחויה, עד כאן. ומפוסקים הנזכרים לעיל משמע דכולם שוין. ובתנחומא פרשת צו ובשתים יעופף מכאן תיקנו לעוף רגליו וכו' וכתב מגן אברהם ולא כאותן שדולגים וקופצים, עד כאן. ומדברי הלבוש יש להם לסמוך ועיין סוף סימן זה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 125:3"
+        },
+        "4": {
+          "he": "[ד] [לבוש] כשם שמקדישין וכו'. בלבוש כתב, אבל בדינן ובהלכות מהר\"י ווייל סימן ל\"ז כתב שיש לומר שמקדישים במ\"ם ולא בנו\"ן, עד כאן. מלוא כל כ\"ף ברפי והטעם כתב הפרישה משום דבלשון הקודש שייך לומר במ\"ם ולא בנו\"ן, ונראה שיפסיק קצת בין שמקדישין בין אותו, וטעמא כדלעיל סימן ס\"א בקריאת שמע:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 125:4"
+        },
+        "5": {
+          "he": "[ה] ואין לדבר באמצע וכו'. כתב בדרכי משה מהרי\"ל לא היה מדבר עד אחר אמן דהאל הקדוש, וכשהיה אומר ברוך כבוד ה' כורע וזוקף בשם וכן בימלוך היה כורע וזוקף בשם, עד כאן. ובשל\"ה הקשה מסימן קי\"ג סעיף ג' דאין לכרוע כלל בהודאה, ותירץ דאין מוחין אלא דוגמת מה שתיקנו חז\"ל והם לא תיקנו רק בברכה שיש בה שם ומלכות, וסיים ואני קיבלתי בשעה שאומרים ברוך כבוד ה' וימלוך צריך גם כן להרים עקביהם עם גופן כלפי מעלה כמו בקדוש, עד כאן, וכן נוהגים אף שיש מי שכתב להרים על רגלים. כתב ר' דוד אבודרהם ממקומו לפי שאין יודעין איה מקומו, ורמב\"ם פירש ממקומו כפי מעלתו. ימלוך ה' כו' מן הדין היה לומר ה' ימלוך לעולם ועד שהוא בתורה .אלא בשביל אזכרות ציון יש מפרשים ציון ממש, יש מפרשים ישראל שנאמר לציון עמהם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 125:5"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אין הצבור אומרים כו'.  בב\"י משום תשובת הרא\"ש כ' הטע' כי א\"א קדושה אלא בי' וכן בקדיש. וכ' ב\"י ונראה דכן יש לעשות כשאומר החזן לעומתם משבחים ואומרים שותקין עד שמגיע לבכה\"מ ואז הם עונים וכן כשאומר ובדברי קדשך שותקין עד שמגיע לימלוך. וק\"ל  ממ\"ש בסי' ק\"ט דאם התחיל יאמר עם הש\"ץ מלה במלה נעריצך ונקדישך וע\"כ לו' דמה שהוא או' עם החזן  לא מקרי יחיד בזה ונ\"ל דאין חילוק בזה בין אם התפלל כבר או לא וכ\"ש במה שהוסיף ב\"י לענין לעומתם משבחים כו' איני יודע היזק בזה וכ\"כ רמ\"א סי' כ\"ט דמנהג הפשוט אפי' היחיד אומר סדר קדוש' שביוצר וכן ובדברי קדשך כתוב לאמר מה איסור יש ליחיד לו' דבר זה שמספר מה שכתוב בפסוק:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 125:1"
+        },
+        "2": {
+          "he": "ויש לישא העינים וכו'.  נ\"ל דהיינו שיהיו סגורות אבל לא בעינים פתוחות דהא קי\"ל בפ' מצות חליצה המתפלל צריך שיתן עיניו למטה ולבו למעלה כו' ואמאי לא נימא גבי קדוש הכי וכתוב בטור בשם ספר היכלות ברוכים אתם לה' שמי' ויורדי מרכבה אם תאמרו ותגידו לבני מה שאני עושה בשעה שמקדישים ואומרים קדוש ק\"ק ולמדו אותם שיהיו עיניהם נשואות למרום לבית תפלתם ונושאים עצמם למעל' כי אין לי הנאה בעולם כאות' שעה שעיניה' נשואות בעיני ועיני בעיניהם. וב\"י בשם ש\"ל מסיים בזה באותה שעה אני אוחז בכסא כבודי בדמות יעקב ומחבקו ומנשקו ומזכיר גלותם וממהר גאולתם. במדרש תנחומא פ' צו איתא ובשתים יעופף מכאן תקנו לעוף על רגליו בשעה שהש\"ץ אומר קק\"ק:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 125:2"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "שותקין. וגם קדיש א\"ל עם החזן כי א\"א דבר שבקדושה אלא בי' וצריך להבין לחזן ולענות אחריו (ב\"י רא\"ש) וכ' בהגה' י\"ל אפי' יש מנין מלבדו אסור ואפי' ללמוד אם לא בשעה שהחזן מנגן בשעת הנגון ולא בשעה שמחתך האותיות. ואינו נק' קדושה אלא נעריצך וכו' לעומתם וכו' ובדברי וכו' אבל שאר הנוסח שמוסיפין בשבת אינו בכלל קדושה ע\"כ, ועמ\"ש סי' ס\"ג, בשבת אומרים כדבר האמור בקמ\"ץ (ס\"ח סי' תת\"ה) ויראה הש\"ץ לסיים לעומתם וכו' ובדברי וכו' קודם שיתחילו הקהל ברוך וימלוך [ס\"ח סי' תת\"ו]: מהרי\"ל כשאמר ברוך וימלוך היה כורע וזוקף בשם וקשה היאך השתחוה במקום שלא אמרו חכמים עסי' קי\"ג (ע\"ה) ול\"נ דדוקא כשאומר ברוך אתה ה' או מודים אסור לשחות דה\"ל כמוסיף על תקנ' חכמי' ובכל קומה לפניך תשתחוה אסור דהוי שבח והודאה אבל בעלמא מותר דהא באמצע הברכה מותר לשחות, ואני קבלתי שירים גופו ועקבו למעלה בברוך וימלוך כמו בקדוש (של\"ה):",
+          "en": "Also by kadish one shouldn't say it along with the chazan because a \"holy matter\" is only said with 10 people [Gemara says \"a holy matter needs 10 people.\" The Magen Avraham is understanding this to mean that there needs to be 9 people listening and one saying it. The basis for this understanding is because chazal definitely had these matters need a chazan (can't just say kadish once 10 people present), so only considered a chazan (i.e. shiliach tzibur: someone davening for the congregation) if saying it for them (which you wouldn't be doing if there saying it for themselves)]. One needs to understand what the chazan is saying and respond after him (Beis Yosef). The Rama writes \"even if there's 10 people without you, you may not (say kedusha). You may not even learn unless the chazan is singing but can't (learn) when he's annunciating the words. The term \"kedusha\" is only reffering to na'aritzach etc., li'umatam etc., and \"uvdivrie etc.\" but the parts we add on shabbot by mussaf is not called kedusha (the difference to whether it's called part of kedusha seems to be in whether the individual can say it).\" See siman 66 (halachot of interrupting ones davening when congregation gets to kedusha). On Shabbot they should say \"kadavar ha'amor\" with a kamatz (Sefer Chasidim siman 805). It appears that the chazan should finish \"liumatam etc. and \"uvdivrie etc.\" before the congregation responds \"baruch (kivod Hashem mimikomo)\" and \"Yimloch (Hashem liolam...).\" [Sefer Chasidim siman 806]: When the Mahril said \"baruch\" and \"yimloch\" (in kedusha) he would bow and then straighten himself when he got to Hashems name (like we do by the beracha magen avraham in shemona esrie). This is custom is troublesome because how could he bow in  a place the Rabbis didn't say to bow see siman 113 (where Shulchan Aruch in sief 1 says can't bow where the Rabbis didn't make you)? I think the answer is that only when say \"baruch ata Hashem\" or \"modim\" is one prohibited from bowing (if Rabbis didn't say to bow there) because it would look like one is adding on to what the Rabbis required. To say \"and all the upright will bow before you\" is also prohibited (as Shulchan Aruch previously said) because its a praise and gratitude. Generally however it is permitted (to bow where the Rabbis didn't say to bow) and this is evident from being allowed to bow in the middle of a beracha [in siman 113 only prohibited bowing at end of beracha. Must be only prohibited from bowing at places similar to what Rabbis say because it appears like your adding on to the requirement). I have a tradition that one should raise his body and heels upwards at \"baruch (kivod Hashem...)\" and \"Yimloch (Hashem liolam...)\" just like he does by kadosh (Shelah).",
+          "ref": "Magen Avraham 125:1"
+        },
+        "2": {
+          "he": "מנענעים גופן. בתנחומא פ' צו ובשתים יעופף מכאן תקנו לעוף על רגליו בשעה שאומר קדוש [בד\"ה] ולא כאותם שדולגים וקופצים, ובכתבים איתא בשעת קדושה יפסע ג' פסיעות לפניו וישאר שם עד נפילת אפים ויאמר נקדישך ונעריצך וקק\"ק בקול רם והשאר יאמר בלחש מלה במלה עם הש\"ץ ע\"כ: כב\"ח שצ\"ל וכן כתוב על יד כו' ונוסח' שלנו ככתוב על יד וכו' ונהרא נהרא ופשטי' ונוסח שלנו יש לה סמך מחזקוני פרשת האזינו שצ\"ל כ\"א תיבות קודם שיזכיר השם כמו שעשה משה בפ' האזינו וע\"ש בילקוט ובתוס' סנהדרין:",
+          "en": "In the Midrash Tanchuma Parashat Tzav it says and with two they would fly. Based on this it was decreed to \"fly on ones feet\" (go on tepee toes) when there he says kadosh [BD\"H]. This is against those people who skip and jump (just go on toes). In the kesavim it's brought that \"when the chazan reaches kedusha one should take three steps forwards and remain there until tachanun. During kedusha he should say \"nakdishach vina'aritzach\" and \"kadosh kadosh kadosh\" in a loud voice and the rest of kedusha he should say quietly word by word with the chazan\": The Bach says the correct text (in the Tur) is \"vichan katuv al yad etc.\" However our version is \"kacatuv al yad etc.\" (difference is if \"as it is written\" is written as two words or one word). Every river has its own course (a Talmudic expression which means different places do different things). Our version does have support from the Chizkuni in parashat ha'azinu (32:3). He says \"one needs to say 21 words before he mentions Hashems name just like Moshe did in Parashat Ha'azinu [doesn't say Hashems name until verse 3 which is 21 words from the beginning of the Parasha. Sifri says \"Moshe waited a bit before saying Hashems name because the angels don't say until they say three words (kadosh kadosh kadosh) so he thought he should wait the amount of words 7 angels would wait (7 x 3= 21).\" Based on this the Rabbis had us also wait until we say 21 words.]\" (according to Bach's version it would not be 21 words). Also see the Yalkut and Tosafot in Mesechta Sanhedrin.",
+          "ref": "Magen Avraham 125:2"
+        },
+        "3": {
+          "he": "טוב כו'. והאר\"י היה מזהיר מאד ע\"ז:",
+          "en": "The Arizal was very careful about this (to have his feet together for kedusha).",
+          "ref": "Magen Avraham 125:3"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "שותקין.  וגם קדיש א\"ל עם החזן. ואפילו ללמוד אסור אם לא בשעה שהחזן מנגן בשעת הניגון ולא בשעה שמחתך האותיות ואינו נקרא קדושה אלא נעריצך וכו' לעומתם וכו' ובדברי וכו' אבל שאר הנוסח שמוסיפין בשבת אינו בכלל קדושה. י\"נ. וע\"ל סי' ס\"ו ס\"ק י\"ז והאר\"י ז\"ל כ' שיאמר כל הקדושה בלחש עם הש\"ץ עיין בספר נגיד ומצוה דף צ\"ז ע\"ב. בשבת אומרים כדבר האמור בקמץ. ס\"ח סי' תת\"ה. ויראה הש\"ץ לסיים לעומתם וכו' ובדברי וכו' קודם שיתחילו הקהל ברוך וימלוך ס\"ח סי' תתמ\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 125:1"
+        },
+        "2": {
+          "he": "קדוש.  מי שאמר קק\"ק ועדיין הש\"ץ היה בוקרא זה אל זה יצא. הלק\"ט ח\"ב סי' קס\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 125:2"
+        },
+        "3": {
+          "he": "העינים.  דהיינו שיהיו סגורות אבל לא בעינים פתוחות. ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 125:3"
+        },
+        "4": {
+          "he": "גופם.  מהרי\"ל כשאומר ברוך וימלוך היה כורע וזוקף בשם. עיין מ\"א. ובשל\"ה כתב ואני קבלתי שירים גופו ועקבו למעלה בברוך וימלוך כמו בקדוש. איתא בתנחומא פרשת צו ובשתים יעופף מכאן תקנו לעוף על רגליו בשעה שאומר קדוש. ולא כאותם שדולגים וקופצים. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 125:4"
+        },
+        "5": {
+          "he": "רגליו.  בסוד ורגליהם רגל ישרה. וצריך לכוין בקדושה לקדש את ה' ית' כדי שישרה עליו קדושה מלמעלה ויכוין לקיים מ\"ע ונקדשתי בתוך בני ישראל והאר\"י ז\"ל היה מזהיר מאוד ע\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 125:5"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) אין הצבור וכו' - הטעם דניתקן שש\"ץ יאמרנו בשביל הקהל ויהיה שלוחם וכשגם הצבור אומרים אותו איך יקרא הש\"ץ שלוחם וכן בקדיש יש ליזהר שלא לומר עם החזן יתגדל וכו' עד איש\"ר. ואפילו יש מנין מלבדו ששומעין ומאזינין לש\"ץ ג\"כ אסור כי על כ\"א שבבהכ\"נ החיוב לשתוק ולהאזין לש\"ץ ואח\"כ לענות אחריו ומטעם זה אפילו אם ירצה ללמוד ע\"י הרהור ג\"כ אסור משעה שמתחיל החזן נקדש וכן בקדיש אם לא בשעה שהחזן מאריך בניגון ולא בשעה שמחתך האותיות ואינו נקרא קדושה אלא נעריצך וכו' [הוא למנהג הספרד שאומרים כן בכל תפילת שחרית וכן לאשכנזים שאומרים נקדש] לעומתם וכו' ובדברי וכו' אבל שאר הנוסח שמוסיפין בשבת אינו בכלל קדושה ואינו צריך להאזין אחר החזן בזה [וכן המנהג כהיום שאומרים זה קודם החזן] וכן מותר ללמוד אז ע\"י הרהור כן כתב המ\"א בשם הגהת יש נוחלין אבל כמה אחרונים סוברין דאפילו ימלוך ג\"כ אינו מעיקר הקדושה וכ\"ש לעומתם וכו' ובדברי וכו':",
+          "en": "",
+          "ref": "Mishnah Berurah 125:1"
+        },
+        "2": {
+          "he": "(ב) אלא שותקין וכו' - ויש מקילין שיוכל לאמר עם הש\"ץ והמנהג הנכון כמו שכתב השו\"ע כי עמו נמשכו האחרונים וכן נהג הגר\"א ומ\"מ המנהג בימינו שאומרים הקהל ג\"כ נקדש. בשבת אומרים כדבר האמור בקמ\"ץ. ויראה הש\"ץ לסיים לעומתם וכו' ובדברי וכו' קודם שיתחילו הקהל ברוך וימלוך כ\"כ המ\"א בשם הס\"ח ור\"ל שלא ימשוך הש\"ץ כ\"כ באמירתו לעומתם וכו' ובדברי וכו' כדי שלא יתחילו הקהל ברוך כבוד וכו' וכן ימלוך קודם שיסיים וה\"ה לקדיש ולברכו ולכל דבר שעונים אחר הש\"ץ או אחר המברך לא ימשוך הש\"ץ או המברך בסופו כדי שלא יענו הקהל אחריו קודם שיסיים ויהיה זה כעין אמן חטופה לעיל בסימן קכ\"ד ס\"ח. מהרי\"ל כשאמר ברוך וימלוך היה כורע וזוקף בשם אבל לא מצינו ראיה לזה [ד\"מ] ע\"כ לא נהגו כן כהיום:",
+          "en": "",
+          "ref": "Mishnah Berurah 125:2"
+        },
+        "3": {
+          "he": "(ג) קדוש - ויחיד שאמר קק\"ק ועדיין הש\"ץ היה בוקרא זה אל זה י\"א דלא יצא וצריך לענות פעם אחרת והטעם פשוט דצריך לענות בי עשרה כאחד וכן יש ליזהר ג\"כ שלא יאחר לומר את הקדושה אחר הקהל ויש ליזהר בכל זה בעת אמירת הפייט שכשרואה הצבור מתחילין לומר קק\"ק תיכף יפסוק באמצע:",
+          "en": "",
+          "ref": "Mishnah Berurah 125:3"
+        },
+        "4": {
+          "he": "(ד) לכוין רגליו - כמ\"ש בסימן צ\"ה. וצריך לכוין ביותר בקדושה לקדש את השם ית' ובזכות זה ישרה עליו הש\"י קדושה מלמעלה ויכוין לקיים הפסוק ונקדשתי בתוך בני ישראל והאר\"י ז\"ל היה מזהיר מאוד ע\"ז. הנוסח שמקדישים ולא שמקדישין. גם יפריש קצת בין תיבת שמקדישים לתיבת אותו שכתוב אח\"כ וכדלעיל בסימן ס\"א לגבי ק\"ש. [אחרונים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 125:4"
+        },
+        "5": {
+          "he": "(ה) ויש לישא וכו' - כי כתבו בשם ספר היכלות ז\"ל ברוכים אתם לד' שמים ויורדי מרכבה אם תאמרו ותגידו לבני מה שאני עושה בשעה שמקדישים ואומרים קק\"ק ולמדו אותם שיהיו עיניהם נשואות למרום לבית תפלתם ונושאים עצמם למעלה כי אין לי הנאה בעולם כאותה שעה שעיניהם נשואות בעיני ועיני בעיניהם באותה שעה אני אוחז בכסא כבודי בדמות יעקב ומחבקה ומנשקה ומזכיר זכותם וממהר גאולתם:",
+          "en": "",
+          "ref": "Mishnah Berurah 125:5"
+        },
+        "6": {
+          "he": "(ו) העינים - דהיינו שיהיו סגורות אבל לא בעינים פתוחות כ\"כ הט\"ז אבל הרבה אחרונים חולקין ע\"ז ופסק המגן גבורים כמותם:",
+          "en": "",
+          "ref": "Mishnah Berurah 125:6"
+        },
+        "7": {
+          "he": "(ז) וכן מנענעים וכו' - השל\"ה כתב שקבלה בידו שירים גופו ועקבו למעלה בברוך וימלוך כמו בקדוש:",
+          "en": "",
+          "ref": "Mishnah Berurah 125:7"
+        },
+        "8": {
+          "he": "(ח) ונושאין אותו וכו' - כי איתא בתנחומא פ' צו ובשתים יעופף מכאן תקנו לעוף על רגליו בשעה שאומר קדוש. וכתב המ\"א ודלא כאותם שדולגים וקופצים אבל הא\"ר ושארי אחרונים יישבו את המנהג ומנהג ישראל תורה היא ומ\"מ במקום שאין המנהג כן פשיטא שאין לעשות כן כי יבואו להתלוצץ ויצא שכרו בהפסדו. כתב ב\"ח שצ\"ל וכן כתוב על יד נביאך. ונוסח שלנו ככתוב על יד נביאך וכתב המ\"א שיש לו ג\"כ סמך עי\"ש. כתבו האחרונים דאף שעניית איש\"ר הוא עדיפא מקדושה מ\"מ אם קדיש כבר שמע וקדושה לא שמע עדיין ונזדמן לו לענות קדיש וקדושה מוטב שיענה קדושה כדי לצאת ידי חובה. כתב הפמ\"ג אם התחיל קדושה ובאמצע שמע קדיש מסתברא דלא יפסיק לענות איש\"ר אלא גומר קדוש ג\"פ עד כבודו ואם שומע אז יאמר איש\"ר:",
+          "en": "",
+          "ref": "Mishnah Berurah 125:8"
+        },
+        "9": {
+          "he": "(ט) באמצע הקדושה - כתב בד\"מ שמהרי\"ל לא היה מדבר מתחלת הקדושה עד אחר אמן דהאל הקדוש [א\"ר]:",
+          "en": "",
+          "ref": "Mishnah Berurah 125:9"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

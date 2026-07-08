@@ -1,0 +1,323 @@
+{
+  "chelek": "YD",
+  "siman": 215,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 6,
+  "fetchedAt": "2026-07-08T00:01:24.997Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "הנדרים חלים על דבר מצוה. ובו ו' סעיפים:נדרים חלים על דבר מצוה כיצד אמר קונם סוכה שאני יושב לולב שאני נוטל אסור לישב בסוכה וליטול לולב: הגה ויש אומרים שהיו מלקין אותו על שנדר לבטל המצות ומתירין לו נדרו ומקיים המצוה (מרדכי ריש שבועות שתים בשם ר\"ח) וי\"א דאין מלקות בנדר שוא רק גבי שבועת שוא (מרדכי מצא בשם ראבי\"ה ור\"ן ורא\"ש בנדרים ועב\"י סימן רל\"ו) וכן עיקר:",
+      "en": "Tout vœu se rapportant à l’exécution d’un précepte de la Loi est réelLe vœu est réel lorsqu’il s’agit d’un précepte religieux. Par exemple, si une personne dit: «Je fais vœu de ne pas séjourner sous la tente de feuillage (souccah), ou: de ne pas saisir la branche de palmier (loulab)», il lui est interdit de séjourner dans la souccah, ou de saisir le loulab, pendant la fête des Tentes.(a)La fête des Tentes commémore le séjour des Hébreux dans le désert, après la sortie d’Égypte; la souccah et le loulab ou branche de palmier se rattachent à ce souvenir (voir Lévitique, XXIII, 39-48); Quand il s’agit de l’exécution d’un précepte religieux, le vœu est réel, mais le serment ne le serait pas. Sans doute vœux et serments doivent être respectés également (Nombres, XXX, 3); cependant ici il faut distinguer entre eux. Dans le cas d’un vœu, on s’interdit d’accomplir un précepte qu’on désirerait accomplir; dans le cas d’un serment on jure de ne pas observer un précepte, que d’autre part on avait juré d'observer (car, au pied du Sinaï, les Israélites ont juré d’accomplir les préceptes, et ce serment engage leurs descendants); or un serment, qui prétendrait en annuler un autre antérieur, n’a pas de réalité. Telle est l’opinion de Maimonide en son traité Nedârîm, chap. III. Voir aussi la Michènah de Nedârîm (Talmud) page 16, 1.GLOSE: D’aucuns disent que celui qui a fait un tel vœu est passible de la fustigation, parce qu’il s’est promis de violer un commandement. Après que le rabbin lui aura fait remise de son vœu, il pourra entrer dans la souccah et se servir du loulab. D’autres auteurs déclarent qu’on ne peut pas punir de la fustigation un vœu fait sans utilité, mais que l’on peut punir ainsi pour un faux serment.(b)«Tu ne proféreras pas le nom de l’Éternel ton Dieu à l’appui du mensonge.» (Exode, XX, 7.) La seconde opinion a plus de poids.",
+      "ref": "Shulchan Arukh, Yoreh Deah 215:1"
+    },
+    {
+      "seif": 2,
+      "he": "נדר להתענות זמן ידוע ואירע בו שבתות וימים טובים ור\"ח מתירין לו נדרו ופותחין לו בהם שאומרים לו אילו שמת על לבך שיפגעו בתוך הזמן הזה אלו הימים לא היית נודר והותר כל הנדר:",
+      "en": "Lorsqu’une personne a fait vœu de jeûner pendant un certain laps de temps, et que ce laps de temps comprend un samedi, un jour de fête, une néoménie, le rabbin lui fera remise de son vœu, en lui donnant comme raison que, si elle avait songé aux jours précités, au moment où elle formulait son vœu, elle ne l’aurait pas formulé.(d)Il est en effet défendu de jeûner pendant les sabbats, jours de fête et néoménies; la personne a fait vœu de jeûner pendant un certain laps de temps, mais elle n’a pas dit: «Je jeûnerai le sabbat, les jours de fête ou de néoménie», comme cela aura lieu à l’article 4. On peut donc admettre qu’elle n’a pas songé aux jours de sabbat, de fête ou de néoménie, qui tomberaient dans ce laps de temps. Une partie du vœu reposant sur une erreur, on annule le vœu tout entier. Toujours la préoccupation de restreindre le nombre des vœux.",
+      "ref": "Shulchan Arukh, Yoreh Deah 215:2"
+    },
+    {
+      "seif": 3,
+      "he": "במה דברים אמורים שצריך התרה כשקבלו בלשון נדר שאמר קונם אכילת ימים כך וכך עלי אבל אם לא הוציאו אלא בלשון קבלת תענית אינו דוחה לא שבת ויו\"ט וראש חודש ולא חנוכה ופורים ואינו צריך התרה ואפי' לא קבל עליו להתענות אלא בשבת ויום טוב בלבד (ועיין בא\"ח סימן תי\"ח):",
+      "en": "Il n’est question ici que du cas où l’on a prononcé un vœu formel, par exemple: «Qu’il me soit interdit de manger pendant tant de jours». Mais si la personne a dit, par exemple: «Je veux jeûner un certain nombre de jours»; alors, quand viendront les samedis, jours de fête, néoménies, hanoukah ou pourîm, elle pourra manger sans permission du rabbin; car on considère ses paroles comme un serment et non comme un vœu. Et même si elle a dit: «Je veux jeûner les samedis et les jours de fête», elle ne devra pas jeûner.(e)Voir le deuxième alinéa de la note (a) de ce paragraphe.GLOSE: Voyez Orah Hayim, paragraphe 418.",
+      "ref": "Shulchan Arukh, Yoreh Deah 215:3"
+    },
+    {
+      "seif": 4,
+      "he": "המקבל עליו בלשון נדר לצום בשבת ויו\"ט חל הנדר וכן הנודר לצום יום ראשון או ב' כל ימיו ופגע בהם יו\"ט או ערב יום כפור חייב לצום ואין צריך לומר ר\"ח אבל אם פגע בהם חנוכה ופורים נדרו בטל (ועיין בא\"ח סי' תק\"ע דלא פסק כן):",
+      "en": "Quand une personne fait le vœu formel de jeûner le samedi et les jours de fête, son vœu doit être tenu.(f)Sous-entendu: «Si la personne n’a pas demandé la remise de son vœu à un rabbin». À la fin de l’article précédent, la personne se promettait de jeûner les samedis et jours de fête, contenus dans un certain laps de temps, et on considérait cette promesse comme un serment sans valeur, non comme un vœu. Ici, au contraire, il y a vœu formel prononcé pour toute la vie; il faut qu’on en soit délié par un rabbin. De même si elle fait vœu de jeûner, sa vie durant, le lundi ou le dimanche, et que ce jour vienne à être un jour de fête ou la veille du Kippour, elle doit accomplir son vœu. Il va sans dire qu’elle doit également jeûner le lundi ou le dimanche, si ce jour est la néoménie. Cependant lorsque ce jour tombe pendant la fête de Hanoukah ou à Pourîm, on ne doit pas jeûner.(g)L’auteur fait ici, en faveur des fêtes de Hanoukah (anniversaire de la Purification du Temple par les Hasmonéens) et du Pourîm (anniversaire de la délivrance des Juifs sous Assuérus), une exception à la règle générale posée par l’article 4, tandis que les articles 2 et 3 ne font aucune exception pour ces deux fêtes; il semble donc qu’il y ait contradiction. Nous expliquerons cette contradiction en disant qu’à l’article 4 l’auteur du Choulhan Aroukh a exposé, non pas son opinion personnelle, mais bien celle de Maimonide. En voici la preuve: On lit dans le code Orah Hayim du Choulhan Aroukh (§ 570, art. 1): «Une personne s’est promis de jeûner pendant tant de jours consécutifs, et, dans ce laps de temps, se rencontrent des sabbats, jours de fête, néoménies, jours de Hanoukah, de Pourîm, ou veille de Kippour; si elle n’a employé qu’une vague formule de promesse, elle n’a pas besoin de consulter un rabbin pour se dégager; mais si elle a dit: ( Je prends sur moi...», ce qui est une formule de vœu, il lui faudra consulter un rabbin. Le rabbin lui expliquera que, si elle avait pensé à l’existence de ces jours particuliers dans le laps de temps en question, elle n’aurait pas prononcé son vœu; et il la déliera de ce vœu.» On retrouve ici exactement la pensée de l’article 2, avec en plus la mention spéciale des fêtes de Hanoukah et de Pourîm. Maimonide au contraire s’exprime ainsi: «Si l’on a fait vœu de jeûner tant de jours, et s’il se trouve dans ce laps de temps des sabbats, fêtes, veille de Kippour, néoménies, on est tenu de jeûner tous ces jours, si un rabbin ne vous a pas délié; mais si la période comprend des jours de Hanoukah ou de Pourîm, le vœu est nul et non avenu en ce qui concerne ces jours-là.» «Nul et non avenu» veut dire qu’on n’a pas besoin de consulter le rabbin pour être délié. C’est bien là notre article 4, qui fait une exception en faveur de Hanoukah et de Pourîm. Maintenant comment Maimonide a-t-il pu donner le pas au Hanoukah et au Pourîm, fêtes instituées par les docteurs du Talmud, sur le sabbat et les fêtes qui sont prescrits par la Torah? S’il avait eu l’intention de fortifier ainsi les institutions des Docteurs, comme l’expliquent nombre de commentateurs, il aurait simplement assimilé les fêtes des Docteurs aux fêtes de la Torah, comme le fait notre auteur aux articles 2 et 3, et il n’aurait pas ainsi eu l’air de donner une prééminence à Hanoukah et à Pourîm. Je pense que Maimonide a voulu dire que Hanoukah et Pourîm ont plus d’action encore que le sabbat et les fêtes pour enraciner dans nos cœurs le respect de la religion de nos pères: le sabbat et les fêtes témoignent de la grandeur du divin Législateur, mais Hanoukah et Pourîm témoignent de l’élévation des pensées et des belles qualités du peuple d’Israël.GLOSE: Voir Orah Hayim, § 570.",
+      "ref": "Shulchan Arukh, Yoreh Deah 215:4"
+    },
+    {
+      "seif": 5,
+      "he": "הא דנדרים חלים על דבר מצוה דוקא במצות עשה בין שיש בה עשה גרידא בין שיש עשה בקיומה ולא תעשה בביטולה ואין הפרש בזה בין איסור הבא מאליו לאיסור הבא ע\"י עצמו אבל על מצות לא תעשה דעלמא אינו חל בין בביטולו בין בקיומו כיצד הרי שאמר אכילת נבילה עלי אין הנדר חל עליו והוא הדין לאיסור הבא ע\"י עצמו כגון שאמר שבועה שלא אוכל ככר זה וחזר ואמר ככר זה עלי אינו חייב אלא אחת דהיינו משום בל יחל דשבועה וכן אם אמר שבועה שלא אשתה וחזר ואמר הריני נזיר ושתה אינו חייב אלא אחת דהיינו בל יחל דשבועה אבל דנזירות לא אא\"כ נשאל על השבועה שאז חל הנזירות עליו והנדר חל על מי שנשבע שיישן או שישתה ואע\"פ שיש בביטולו לא תעשה:",
+      "en": "Les vœux faits au sujet d’un précepte religieux positif sont réels, que ce précepte soit toujours positif, ou bien qu’il soit positif si on lui obéit et négatif dans le cas contraire; il en est de même lorsqu’on s’est posé soi-même un précepte (non religieux) qui soit positif.(h)Exemple de précepte positif, si on lui obéit, et négatif, si on lui désobéit: le sabbat; car il est écrit: «Le septième jour est un sabbat en l’honneur de l’Éternel ton Dieu (positif); tu ne feras aucun travail en ce jour (négatif)» (Exode XX, 10). Exemple de précepte toujours positif: le loulab, la souccah; car il est écrit: «Vous prendrez le premier jour un fruit de l’arbre hadar, des branches de palmier, etc... Vous demeurerez dans des tentes durant sept jours» (Lévitique, XXIII, 40-42). Pour plus de détail voir au huitième traité (De l’Idolâtrie) la note (c) de la page 69. Mais quand les vœux sont faits au sujet d’un précepte négatif, ces vœux sont nuls dans tous les cas. Par exemple, si une personne fait vœu de ne pas manger de tout animal qui n’a pas été abattu selon les rites (nebêlâh), le vœu est nul.(i)Cela veut dire que si la personne viole ce vœu en mangeant d’une viande défendue, elle ne sera pas punie pour le fait de ne pas avoir observé son vœu, mais elle le sera pour avoir transgressé un précepte négatif: «Vous ne mangerez point d’une nebêlâh (bête morte sans abattage rituel)» (Deutéronome, XIV, 21.) Et il en est de même s’il s’agit d’un précepte négatif, qui n’est pas religieux, mais qu’a établi celui qui fait le vœu; par exemple il a juré de ne pas manger d’un pain, et ensuite il fait vœu que ce même pain lui soit défendu: le vœu est nul et, en mangeant le pain, on ne fait qu’un péché, celui de n’avoir pas tenu le serment qui avait précédé le vœu. De même, si quelqu’un jure de ne pas boire, et fait ensuite le vœu de ne pas boire de liqueur forte, il commet, en buvant, le péché de ne pas remplir son serment, et le vœu qui a suivi le serment est nul; mais s’il a obtenu une remise de son serment, le vœu devient valable. Enfin si une personne a d’abord juré de boire et de dormir, puis a fait le vœu de ne pas boire et de ne pas dormir, ce vœu sera réel, bien qu’il s’applique à un précepte négatif que s’est posé la personne en le prononçant (ne pas boire, ne pas dormir).(j)La différence entre cet exemple et les deux précédents saute aux yeux; ici le vœu dit le contraire du serment qui l’a précédé, plus haut il disait la même chose que le serment. Dans le cas actuel, on devra se faire faire remise du vœu par un rabbin; car un tel vœu aurait pour effet de faire violer un serment antérieur, et celui qui a prononcé un tel vœu est coupable: «Tu ne proféreras pas le nom de l’Éternel ton Dieu à l’appui du mensonge.»",
+      "ref": "Shulchan Arukh, Yoreh Deah 215:5"
+    },
+    {
+      "seif": 6,
+      "he": "וי\"א שאם נדר מדברים האסורים כגון נבילות וטריפות חל הנדר ואם אוכל מהם עובר בלא יחל אבל אם התפיס בהם דבר אחר אינו נתפס שאינו דעתו אלא בעיקר האיסור דהוי ליה מתפיס בדבר האסור אבל דבר שאסור מדרבנן ואסרו עליו בלשון נדר והתפיס בו דבר אחר נתפס בנדר ואסור: הגה הנודר או הנשבע שלא לאכול מצה בליל פסח אין מצה עשירה בכלל אבל אם נדר שלא לאכול מצה כל השנה אפשר דמצה עשירה בכלל. (ריב\"ש מביאו ב\"י ס\"ס רל\"ו):",
+      "en": "D’aucuns disent que, lorsqu’une personne a fait un vœu relatif à une défense biblique, par exemple de ne pas manger d’un animal mort sans abattage rituel (nebêlâh) ou d’un animal défendu (térêfâh), elle commet, si elle en mange, le péché d’avoir violé son vœu, outre celui d’avoir mangé d’une viande défendue.(k)Règle en opposition avec celle de l’article 5 (précepte négatif), et difficile à comprendre. Car rendre responsable de deux péchés commis au même moment est chose contraire à l’esprit du code Hôchêne Michepâte, qui défend de punir deux fois pour deux fautes commises simultanément, et en particulier de la peine de fustigation; le droit romain dit aussi: non bis in idem. L’auteur a sans doute été conduit à cet article 6 par le souvenir du dire de Samuel et de Rabbi Houna, dans le traité Nedârîm du Talmud, page 18,1 (michenah de la page 17, 1): un vœu peut exister dans un autre vœu. Une personne dit: «Je veux être nazîr si je mange, je veux être nazîr si je mange», puis elle mange; elle est deux fois responsable. En disant la première fois: «Je veux...» et en mangeant ensuite, elle s’est mise dans la situation de celui qui a transgressé une défense qu’il s’était faite. Le fait d’avoir dit une seconde fois: «Je veux être...» la range une deuxième fois dans la même situation, tout au moins en apparence. Notre auteur a assimilé à ce cas du double vœu de naziréat le cas de la personne qui a mangé d’une viande défendue, après avoir prononcé le vœu de n’en pas manger. Mais c’est là une grave erreur. Que veut dire le Talmud, lorsqu’il rend doublement responsable l’auteur du double vœu de naziréat? Ceci: si la personne a demandé remise du premier vœu, elle est encore tenue de demander la remise du deuxième; les Docteurs n’entendent pas, comme à l’article 2 (note d), la délier d’un seul coup de son double vœu; ils veulent au contraire la considérer comme ayant prononcé deux vœux. Ici le cas est tout différent: le vœu s’applique à des choses défendues par la loi religieuse, et la transgression seule de cette défense religieuse (tout vœu à part) entraîne la peine de fustigation. Il ne faut donc pas s’en rapporter à l’article 6, mais bien à l’article 5: les vœux faits au sujet des choses déjà défendues religieusement ne sont pas des vœux réels. Lorsqu’en faisant son vœu relatif à une défense biblique une personne a compris dans ce vœu d’autres choses, que le Pentateuque ne défend pas, le vœu n’existe que pour les défenses bibliques.(l)Si par exemple quelqu’un dit: «Je fais vœu de ne pas manger de viande nebêlâh ou térêfah», et ajoute ensuite «et de ne pas boire de vin», son vœu relatif au vin ne sera pas un vœu réel, parce qu’on admet que toute son attention s’était concentrée sur les viandes défendues, et non sur le vin. Mais si elle a fait vœu de ne pas manger de certaines choses défendues par la loi traditionnelle, et a compris dans ce vœu d’autres choses qui sont permises, ces dernières sont englobées par le vœu.(m)Une défense traditionnelle n’est pas aussi grave qu’une défense biblique. On peut donc admettre que la personne, quand elle prononçait son vœu, concentrait son attention sur la chose permise, qu’elle s’interdisait, en même temps que sur la chose défendue par la loi orale.GLOSE: Quand un homme fait vœu ou jure de ne pas manger de pain azyme le soir de Pâque, le pain azyme aux œufs n’est pas compris dans son vœu ou son serment; mais s’il fait vœu de ne pas manger de pain azyme pendant toute l’année, il est possible que le pain azyme aux œufs soit compris dans ce vœu.(n)La Glose dit: «pain azyme riche»; nous avons traduit par «pain azyme aux œufs», qui est bien ce qu’elle entend dire. L’Israélite est tenu de s’abstenir de pain levé pendant toute la durée de la Pâque, mais il n’est pas tenu de manger du pain sans levain (il peut ne pas manger de pain du tout), si ce n’est le premier jour de la fête. C’est pourquoi la glose vise le premier soir de Pâque; il s’agit d’un précepte positif du Pentateuque.(o)En réalité la Glose ne fait que s’inspirer de ce qu’a stipulé le Code Orah Hayim, § 485: «Si quelqu’un jure qu’il ne mangera de pain azyme d’aucune façon, il lui est interdit d’en manger le premier jour de Pâque.» — il devra donc demander la remise de son serment. — «S’il dit: je jure de ne pas manger de pain azyme le premier soir de Pâque, son serment est vain, il devra manger du pain azyme le premier soir de Pâque» — car un serment ne peut avoir de réalité vis-à-vis d’un précepte religieux (voir note a, 2e alinéa); mais on fustigera cette personne pour avoir fait un serment vain. Ici aussi le vœu où il est question du premier soir de Pâque est considéré comme ne visant que l’acte religieux de manger du pain azyme ce soir-là, et le pain azyme aux œufs n’a rien à y voir; tandis que le vœu relatif à toute l’année ne vise plus un acte religieux, mais la consommation d’une certaine denrée: le pain azyme; et le pain azyme aux œufs peut être compris dans le vœu.",
+      "ref": "Shulchan Arukh, Yoreh Deah 215:6"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה נדרים דף ט\"ו ע\"א וכ\"כ הרמב\"ם בפ\"ג מה\"נ וכ' הטעם דשבועות אינם חלות על דבר מצוה שהנשבע אוסר עצמו על דבר שנשבע עליו וכבר עצמו מושבע בהר סיני ואין שבועה חלה על שבועה משא\"כ בנדר דאוסר הדבר הנדור על עצמו ואותו הדבר אינו מושבע מהר סיני ולכן אמר הכתוב בשבועת ביטוי להרע או להיטיב בדברי רשות כשאחז\"ל ובנדרים אומר ככל היוצא מפיו יעשה לא חילק בין דברי מצוה לדברי רשות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 215:1"
+        },
+        "2": {
+          "he": "משנה שם דף ס\"ו ע\"א וכר\"ע שם וה\"ה דחל הנדר אם קבל עליו לצום בשבתות וי\"ט לבד כדלקמן:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 215:2"
+        },
+        "3": {
+          "he": "טור בשם הרמב\"ן וכ\"כ שם הרא\"ש בשמו (ור\"ן פ\"ק דתענית וראב\"ד פ\"ח מה\"נ ורמב\"ם):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 215:3"
+        },
+        "4": {
+          "he": "ב\"י ואפילו לדעת הסמ\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 215:4"
+        },
+        "5": {
+          "he": "טור בשם הרמב\"ם בפ\"ג מהל' נדרים דין ט\"ו (°) פי' ששם הביא ג\"כ דעת הרמב\"ן והרא\"ש:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 215:5"
+        },
+        "6": {
+          "he": "הרשב\"א בתשובה סימן תרט\"ו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 215:6"
+        },
+        "7": {
+          "he": "שם מהא דהאומר הנאת תשמישך עלי וציינתיו לקמן בסי' רל\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 215:7"
+        },
+        "8": {
+          "he": "טור ורא\"ש מדקי\"ל דנדרים חלים על דבר מצוה וכ\"נ מד' רש\"י בריש נזיר:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 215:8"
+        },
+        "9": {
+          "he": "שם מהא דנדרים ד' י\"א איבעיא בעיקרו קא מתפיס או בהיתירא קא קא מתפיס ופסקו הפוסקים דבעיקרו מתפיס:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 215:9"
+        },
+        "10": {
+          "he": "שם מהא דריש פ\"ג דשבועות דמשני כיון דמדרבנן הוא אסור וכו' וכגירסת הרא\"ש בספרים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 215:10"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "נדרים כו'. דוקא נדרים אבל לא שבועה כדלקמן סימן רל\"ט ס\"ד וע\"ש דין נדוי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 215:1"
+        },
+        "2": {
+          "he": "סוכה שאני יושב כו'. אבל אם אמר הנאת סוכה עלי מותר לישב בסוכה דמצות לאו ליהנות נתנו וכ\"כ הר\"ן. ב\"ח וכ\"כ הט\"ו בא\"ח סי' תקפ\"ו ס\"ה גבי שופר ועיין בתשובת מנחם עזריה סי' ל\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 215:2"
+        },
+        "3": {
+          "he": "שאני יושב. ולא הוי דבר שאין בו ממש כיון דמזכיר שם החפץ הנאסר. ר\"ן בשם התו' ומביאו הב\"ח וע\"ל סי' רי\"ג וע\"ל סי' רל\"ט ס\"ד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 215:3"
+        },
+        "4": {
+          "he": "ומתירין לו נדרו כו'. כתב הדרישה משמע שסובר שאפילו בסוכה או שנדר בפירוש להתענות בשבת וי\"ט מתירין לו כו' שאומרים לו אלו היית יודע שאסור להצטער בשבת וי\"ט כו' וכיוצא בזה וכן משמע בא\"ח סי' תק\"ע וכן עיקר וכן משמע מדברי הב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 215:4"
+        },
+        "5": {
+          "he": "וי\"א דאין כו'. מיהו נראה דהיו מכין אותו מכת מרדות כדכתב הרא\"ש בנדרים ס\"פ רבי אליעזר והוא ע\"פ הירושלמי ובהכי נ\"ל ליישב דברי ראבי\"ה שאין סותרין זא\"ז שכתב במרדכי ריש שבועות בשם ראבי\"ה דאין מלקות בנדר ואחר כך כתב אבל במקומות אחרים מצאתי בשם ראבי\"ה שצוה להלקות את רבי ישראל שנדר שלא יחזור ההלכה לאחיו למחר פתח לו בחרטה וצוה להלקותו לאחר שהותר לו נדרו עכ\"ל דמה שצוה להלקות את רבי ישראל היינו מכת מרדות מדרבנן דהא מלקות אינו נוהג עכשיו. כן נ\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 215:5"
+        },
+        "6": {
+          "he": "והותר כל הנדר. שמותר בכל הימים דנדר שהותר מקצתו הותר כולו וע\"ל סי' רכ\"ט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 215:6"
+        },
+        "7": {
+          "he": "ולא חנוכה ופורים. ע\"ל סקי\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 215:7"
+        },
+        "8": {
+          "he": "ואפי' לא קבל עליו להתענות אלא בשבת ויו\"ט בלבד. אין צריך התרה אם לא הוציאו אלא בלשון קבלת תענית וכ' הב\"ח קשה תרתי. חדא מאי אפילו אדרבה כ\"ש הוא דאין בקבלה זו ממש שקבל עליו להתענות בשבת וי\"ט בלבד ועוד שהוא סותר דברי עצמו שבספרו הארוך (בב\"י בא\"ח סימן תי\"ח) כתב דמדברי ה\"ה והראב\"ד נראה דכ\"ש הוא וכאן כתב ואפילו ולא דק דלפי האמת כל שכן הוא עכ\"ל. ואני אומר דשפיר קאמר אפי' ל\"מ ברישא דלא נתכוין לשבת וי\"ט אלא אפילו בסיפא דנתכוין לשבת וי\"ט בהדיא בפגעו בהן דמה\"ט בקבלו בלשון נדר חל בשבת וי\"ט במתכוין לנדור בהן ובנדר סתם ופגעו בהם אין צריך שאלה להסמ\"ק וא\"כ הוה אמינא ה\"ה בקבלו בל' קבלת תענית וכן בא\"ח סימן תי\"ח כתב משמע היכא דאמרינן שאם אירע יו\"ט בתוך הימים שקבל עליו להתענות אינו דוחה יום טוב כ\"ש היכא דקיבל עליו בפירוש להתענות באותו יום כו' וכן נראה מדברי הרב המגיד והראב\"ד כו' אם כן הא דפגעו בהן מפורש בהדיא והא דקבל עליו להתענות בפירוש אף ע\"ג דלפי האמת כ\"ש הוא מכל מקום הוצרך לומר כן ממשמעות כיון שאינו מפורש בהדיא והוה ס\"ד למימר דגרע טפי וכמ\"ש ודוק וכן מוכרח ליישב לשון אפי' שכתבו הרמב\"ם והט\"ו לקמן סימן שי\"ז ס\"ב וכמ\"ש שם בס\"ק ו' ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 215:8"
+        },
+        "9": {
+          "he": "חל הנדר כו'. מיהו יש להתיר כמ\"ש בס\"ק ד'. לקמן סימן רל\"ט ס\"ק י\"ט כתבתי דאע\"ג דחל הנדר ראוי לכופו שישאל על נדרו ולא יעבור על המצוה ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 215:9"
+        },
+        "10": {
+          "he": "נדרו בטל. מפני שהם מדבריהם וצריכין חיזוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 215:10"
+        },
+        "11": {
+          "he": "ועיין בא\"ח סי' תק\"ע דלא פסק כן. ר\"ל דשם כתב יחיד שקבל עליו תענית כך וכך ימים ואירעו בהם שבתות וי\"ט או ר\"ח חנוכה ופורים או עי\"כ כו' אם קבלו בל' הרי עלי שהוא לשון נדר צריך התרת חכם כו' ולהרמב\"ם בכולן חייב לצום בהן אם לא יתירו לו חוץ מחנוכה ופורים כו' הרי שכתב סברא ראשונה בסתם וכאן כ' רק סברת הרמב\"ם לבד בסתם ולי נראה לתרץ משום דבא\"ח סי' תי\"ח הקשה הב\"י על הרמב\"ם היאך יש כח ביד חכמים לעקור דבר מן התורה בקום ועשה שאנו אומרים לו קום אכול ותירץ דמשום מיגדר מילתא או משום שיש פנים וטעם לדבר שיש כח בידם לקיים דבריהם א\"כ נ\"ל להמחבר להכריע דדוקא הכא בנדר לצום יום א' או ב' כל ימיו איכא מיגדר מילתא ופנים בדבר שהרי יצטרך להתענות כל ימיו בחנוכה א\"כ מיעקרא מלתא דרבנן אבל בא\"ח דמיירי בהדיא שקיבל עליו כך וכך ימים אם כן יתענה חנוכה ופורים פעם אחת או ב' ולא מיעקר מילתא דרבנן בכך ואין להקשות א\"כ מנ\"ל להמחבר שהרמב\"ם סובר כן דילמא באמת דוקא בנדר כל ימיו סובר כן שהרי לא כתב אלא כלשון המחבר כאן י\"ל דע\"כ הרמב\"ם ס\"ל דבכל ענין נדרו בטל דהא הוציא דין זה ממאי דאמרי' פ\"ק דתענית יחיד שקבל עליו תענית ב' וה' של כל השנה ואירעו בהן ימים טובים הכתובים במגילת תענית נדרו בטל וכמבואר בבית יוסף סימן תי\"ח והתם הא קאמר שקבל עליו ב' וה' של כל השנה משמע רק שנה אחת ולא כל ימיו ומה\"ט גם כן נראה לו להכריע ולהביא סברת החולקים על הרמב\"ם משום דהר\"ן הקשה על סברת הרמב\"ם מהירושלמי ומביאו ב\"י שם ויש לומר שלא נדחה סברא זו אלא בנדר לזמן אבל בנדר כן כל ימיו נדרו בטל תדע שיש לחלק כדפירש' שהרי בסעיף ג' כתב המחבר אבל אם לא הוציאו אלא בלשון קבלת תענית אינו דוחה לא שבת ולא יום טוב ור\"ח ולא חנוכה ופורים משמע דאם קבלו בלשון נדר דוחה חנוכה ופורים וזה סותר למ\"ש כאן בסעיף ד' ואם כן יסתרו דברי המחבר גופיה מיניה וביה ודוחק לומר דחנוכה ופורים כדי נסבה אלא ודאי בסעיף ג' דמיירי בנדר לזמן ידוע שאני וכדפי' גם בא\"ח סימן תק\"ע כתב הרב והכי נהוג כסברא הראשונה ודלא כמו שפסק בי\"ד סימן רט\"ו עכ\"ל לא עלה על דעתו לחלק כן אבל לפי מה שחלקתי לא תמצא שום פוסק שחולק על הרמב\"ם בזה (ועוד שהסמ\"ג לאוין רמ\"ב דף ע\"א כתב ג\"כ כהרמב\"ם וגם ר' ירוחם ני\"ד ח\"ו כתב שכן עיקר וכ\"פ בתשו' בנימין זאב סימן רס\"ה) כן נ\"ל. ולענין שבועה עיין מה שכ' המחבר בא\"ח ס\"ס תי\"ח ותק\"ע אבל בעל הלבוש כתב בס\"ס תי\"ח דאפי' נשבע בפירוש להתענות בר\"ח לא יתענה אע\"פ שר\"ח דרבנן כיון שיש לו אסמכתא בדאורייתא עשו חכמים חיזוק לדבריהם דהוי כמו דאורייתא דאין שבועה חלה עליו כו' ע\"ש שדבריו לא נהירין ולא ידעתי מנין לו זה ולמה לו זה (ואפי' למ\"ש המחבר שם בשם הרמב\"ם היינו משום דר\"ח הוי דאורייתא) ואפשר כיון ליישב בזה מה שהקשה הב\"י בטור א\"ח ס\"ס תי\"ח על מ\"ש הטור בא\"ח סימן תק\"ע גבי ר\"ח אבל לא הועיל כלום בזה דס\"ס אחנוכה ופורים קשיא אלא העיקר דבר\"ח וחנוכה ופורים ועי\"כ שהם מדרבנן השבועה חלה עליהם וכ\"כ הב\"ח בא\"ח סי' תק\"ע ועוד דאפי' להרמב\"ם דנראה מדבריו דר\"ח ועי\"כ דאורייתא י\"ל דמודה דשבועה חלה עליהם די\"ל דס\"ל כמ\"ש הר\"ן פ' שבועות שתים בתרא ופ\"ק דנדרים (דף ח' ע\"א) דאפילו דבר שהוא מן התורה כיון דליתא מפורש בקרא בהדיא אלא דאתא מדרשא חלה שבועה עליה וכ\"כ הרב לקמן סי' רל\"ו ס\"ב והמחבר סי' רל\"ט סעיף ו' וכ\"כ הב\"ח בסי' רל\"ו ס\"ס ד' שדעת הרמב\"ם שכתב שנשבע לחבול בעצמו חל השבועה כיון דחבלה לא אתיא אלא מדרשא גם לקמן ר\"ס רל\"ט הביא ב\"י תשובת הר\"ן שכתב וסעד מצאתי לדברי מדברי הרמב\"ם וזהו דלא כהמחבר בא\"ח שם שכתב דלהרמב\"ם אין השבועה חלה הלכך יש להתיר השבועה ואינו מתענה כמ\"ש הרב שם: האחרונים בשם תשובת מהר\"מ דימי ניסן וכן שאר הימים שאין אומרים תחנון דינן כימים האסורים מדבריהם מיהו נראה דבנודר בלשון נדר אף להרמב\"ם צריך התרה בהן דלא דמי לחנוכה ופורים דכתיבי במגלת תענית ולא בטלו עדיין וגם חשיבי טפי ועשו חכמים חזוק מה שאין כן באלו אבל לשאר דברים כל דין ימים האסורים מדבריהם עליהם כן נ\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 215:11"
+        },
+        "12": {
+          "he": "כיצד הרי שאמר אכילת נבלה עלי אין הנדר חל עליו כו'. כתב הב\"ח ואיכא לתמוה דפסק בתחלה בסתם דלא חל הנדר וכדעת הרשב\"א בתשובה ואחר כך כתב י\"א דחל הנדר ולפעד\"נ עיקר כפירש\"י והתוספות והטור כו' ותימה לתמיהתו דהרי מתחלה כתב סברת הרשב\"א ואחר כך כתב וי\"א כו' והכי סוגיא דעלמא בכל דוכתי ואפשר שהיה כתוב בספרו י\"א בלא וי\"ו גם מה שכתב ולפעד\"נ עיקר כפרש\"י והתוס' כו' אומר אני שאלו עיין בתשובת הרשב\"א סימן תרט\"ו שהאריך שם בכמה ראיות וטעמים לדבריו לא היה כותב כן ואם לא ישרו בעיניו ה\"ל להביאם ולדחותם גם מה שכתב והתוספות נמשכו לשטתו במה שכתב דהך ומיהו לר\"י ב\"ב כו' שכתבו התוס' הוא עיקר אבל לפעד\"נ אפילו להאי ומיהו דוקא לר\"י ב\"ב הוי הכי ולא לדידן דאל\"כ האי ועוד דהא דנדרים כו' שכתבו התוס' לא קיימא כלל וא\"כ אדרבה מסקנת התוס' כהרשב\"א וכן הוא בפסקי תוס' פרק שבועות שתים סימן י\"ח להדיא ע\"ש מיהו דעת הר\"ן פ\"ב דנדרים דף י\"ח ע\"א כהטור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 215:12"
+        },
+        "13": {
+          "he": "אא\"כ נשאל על השבועה כו'. כלומר כשנשאל על השבועה אחר שאמר הריני נזיר שאז חל הנזירות למפרע וע\"ל סי' רכ\"ט וס\"ס רל\"ט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 215:13"
+        },
+        "14": {
+          "he": "וי\"א שאם נדר מדברים האסורים כו'. וכן אם אמר שבועה שלא אוכל ככר זה וחזר ואמר קונם ככר זה עלי חייב שתים וכן אם נשבע שיאכל ככר זה ואח\"כ אסרו עליו בקונם אסור לאכלו לפי שהנדרים חלים ע\"ד מצוה ושבועות וכ\"כ הר\"ן שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 215:14"
+        },
+        "15": {
+          "he": "אבל אם כו'. זהו אף לסברא האחרונה כדאיתא בטור ופוסקים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 215:15"
+        },
+        "16": {
+          "he": "דהוה ליה מתפיס בדבר האסור. מיהו בע\"ה י\"א דבעינן שאלה אף במתפיס בדבר האסור כדלעיל סי' ר\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 215:16"
+        },
+        "17": {
+          "he": "אין מצה עשירה בכלל. כלומר ומותר לאכלה בלא התרה אבל מ\"מ בנשבע שלא לאכול מצה בליל פסח לוקה ואוכל מצה בליל פסח כמו שנתבאר בא\"ח סי' תפ\"ה ולקמן סי' רל\"ו ס\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 215:17"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "חלים על דבר מצוה. הטעם דנדר כיון שהוא אוסר החפץ עליו שאומר קונם ישיבת סוכה עלי אינו כנודר לבטל המצוה שהרי לא קבל על עצמו כלום אלא אסר החפץ עליו ואין מאכילין לאדם דבר האסור לו אבל שבועה אוסר עצמו מלעשות הדבר ולאו כל כמיניה להפקיע עצמו מחיוב מצוה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 215:1"
+        },
+        "2": {
+          "he": "ומתירין לו את נדרו. בפרישה כתוב מלשון הטור משמע שבזה לא מהני התרה מדכתב ומ\"מ לא יצום כו' ולא כתב כן ארישא דהיינו סוכה שאני יושב ואין זה דקדוק כלל דודאי בכל נדר מהני היתר אלא דבתענית קמשמע לן דלא נימא דגם תענית הוא מצוה ויקיים נדרו וכתב עוד בפרישה שגם הסמ\"ג שמביא הטור אחר כך ס\"ל כן דאין היתר לנודר בתענית בי\"ט וגם זה אינו ודברי הספר המצות יתבאר לפנינו בס\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 215:2"
+        },
+        "3": {
+          "he": "בד\"א שצריך התרה כו'. זהו דעת הרמב\"ן בטור והנה נבאר דברי הטור בקצרה במה שהביא ספר המצות ושאר המשך דבריו ע\"פ מה שהביא בב\"י בא\"ח סי' תי\"ח ד' הפוסקים ומתוך זה יתבאר שיש כאן מקום עיון על הש\"ע בסעיף ד' דהטור כתב בשם ספר המצות לחלק בין קבל עליו להתענות בי\"ט עצמו או אירע כך בתוך הזמן כו' דהפוסקים הוקשה להם תרי דוכתי בתלמוד אהדדי דהיינו דבפרק קמא דתענית איתא דאם קבל עליו יחיד תענית שני וחמישי כל השנה ואירעו בהם ימים טובים הכתובים במגילת תענית יבטל גזירתנו את נדרו וקשה על זה דהא אמרינן נדרים חלים על דבר מצוה ותו דהא אמרינן פותחין בכבוד שבת ויום טוב שמע מינה דהנדר חל ועל זה תירץ הרמב\"ן דההיא דנדרים חלין על דבר מצוה היינו באומר לשון נדר גמור הרי עלי אכילת יום פלוני אבל ההיא דפרק קמא דתענית מיירי מקבלת תענית בעלמא כגון שאומר אהא בתענית למחר ובסמ\"ק סי' פ\"א והיינו ספר המצות שהביא הטור ולא כמו שהבין הב\"י דהיינו סמ\"ג ומשום הכי הקשה מה שהקשה אבל באמת היינו סמ\"ק שכתב חילוק זה. דהיינו דההיא דנדרים חלין על דבר מצוה מיירי בנודר בפירוש להתענות בי\"ט וההיא דתענית מיירי שאירע כך בתוך הזמן שנדר להתענות דבזה אמרינן דאותו הנודר להתענות לא נתכוין לבטל גזירות חכמים וכ\"ש דין תורה ביום שלא להתענות אבל פשוט שגם לספר המצות מהני התרה בכל גווני ולא כמו שעלה על דעת בעל הפרישה שזכרתי בסעיף א' והב\"י בא\"ח סי' תי\"ח הקשה על סה\"מ בזה דהא תנן אין גוזרין תענית על הצבור בר\"ח וחנוכה ופורים ואם התחילו אין מפסיקין הרי שאע\"פ שאירע ר\"ח וחנוכה כו' בתוך הימים האלו שקבלו להתענות מתענין מ\"מ אין מתחילין להתענות בהם ומשמע שאפי' גזרו להתחיל בהם אין גזירתם גזירה וכן נראה מדברי הרב המגיד והראב\"ד שיותר יש לדחות התענית בנודר להתענות בי\"ט עצמו מאם בא בתוך הזמן שנדר וזה היפך מדברי ספר המצות שבטור כאן. ולא ידעתי אפילו ריח קושיא בזה דודאי לענין איסור לקבל עליו תענית מתחילה חמיר בנודר על י\"ט עצמו מאם הגיע בתוך הזמן שעבר שזהו עושה בכלל ושום ב\"ד אין גוזרין תענית על י\"ט אלא דלענין אם כבר עבר אחד ועשה שנדר להתענות בי\"ט עצמו חל הנדר טפי מאם הגיע בתוך הזמן דאפשר שלא חשב על זה וזה פשוט ועל זה דמתרץ הרמב\"ן תרי גמרות דלעיל הביא הטור דברי ספר המצות שהוא מחלק בענין אחר ממה שחילק הרמב\"ן והא דכתב הטור וכתוב בספר המצות ולא כתב ובספר המצות כתב כדרך שכותב בלשון פלוגתא לפי שגם ספר המצות אינו חולק על חילוק הרמב\"ן דהיינו בין קבלת תענית לל' נדר שחילוק נכון הוא ונ\"ל שהוא מוכרח דאלו אמר לשון קבלת התענית הרי אוסר נפשו על האכילה ודמיא לשבועה דאין חלה על דבר מצוה אלא דוקא נדר כדאיתא ריש סי' זה אלא שאין נראה לו לסמ\"ק לתרץ הגמרות בכך כיון דבשניהם איתא לשון נדר ע\"כ תירץ בחילוק אחר והרמב\"ם עשה חילוק שלישי דההיא דפ\"ק דתענית מיירי בי\"ט מדרבנן שהם עשו חיזוק לדבריהם שלא יחול הנדר בהם אפילו בנודר בפירוש להתענות בהם ועל זה מסיק הטור שמסקנת הרא\"ש כרמב\"ן וא\"כ מאחר שפסק הש\"ע כאן כדעת הרמב\"ן למה פסק בסעיף שאחריו שאין הנדר חל בי\"ט דדבריהם שהוא דעת הרמב\"ם והם חולקים ובא\"ח סי' תי\"ח ס\"א עשה באמת פלוגתא וכאן כתב כדברי שניהם ויפה כתב רמ\"א שבא\"ח לא כ\"כ ופסק הש\"ע בא\"ח שם סי' תי\"ח שבי\"ט דדבריהם חל הנדר אבל לא בדאורייתא ורמ\"א בא\"ח סי' תק\"ע כתב שהמנהג דלא כרמב\"ם דכאן נמצא דלענין הלכה אין לנו שום חילוק רק בין לשון נדר ללשון קבלת תענית דבלשון נדר חל בכל גווני וצריך התרה ובלשון תענית לא חל כלל וא\"צ התרה וזו היא דעת הרמב\"ן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 215:3"
+        },
+        "4": {
+          "he": "ואפי' לא קבל עליו להתענות אלא בשבת וי\"ט. פי' לא מיבעיא ברישא דלא נתכוין כלל לשבת וי\"ט אלא אפי' קיבל עליו בפירוש להתענות בשבת וי\"ט מ\"מ אין הנדר חל כיון שלא אמרו בלשון הרי עלי ובחנם כתב מו\"ח ז\"ל על לשון הש\"ע כאן לא דק: מעשה באדם אחד שנדר לתת מן הריוח שבא מממונו מעשר וכן נהג כמה ימים ומטה ידו ונתחרט נראה דיכול לחזור בו משום דהריוח לא בא לעולם ואין מקדיש דבר שלא בא לעולם כדפרי' פרק שור שנגח ד' וה' ומיהו אם היה אומר כסף זה כל הריוח המגיע ממנו אתן ממנו מעשר חל ההקדש כיון שההקדש בא לעולם זה העתיק בדרישה בשם רש\"ל בשם מעיל צדק ולא קיי\"ל כן אלא כמ\"ש בח\"מ סי' רי\"ב סעיף ט' באומר לכשאקחנו אתננו להקדש הוה עליו שם נדר וצריך לקיים נדרו כן נ\"ל. עוד הביא הג\"ה משמו דרש\"ל הר\"ר אליעזר ממי\"ץ בנדר להתענות חודש אומרים לו הרי בזה החודש שנדרת יש יו\"ט ושבתות אומר להם לא נתכוונתי להם אין צריך אפי' התרה דדברים שבלב כי הני שמוכחים הוי דברים ע\"כ ונ\"ל שזהו כדעת ספר המצות שזכרנו ולפי מה דקיימא לן כרמב\"ן אף כאן צריך התרה כל שאמר בלשון נדר כדלעיל אלא דאם אמר שבפירוש היה עולה על דעתו שלא להתענות אלא בימי החול ודאי נאמן על זה דהא אינו סותר לשון נדרו שנדר להתענות חודש אחד ובזה נראה לקיים דברי הג\"ה הנ\"ל ודברי הש\"ע בסעיף ב' דצריך היתר לא מיירי מזה אלא לא עלה על לבו ימי י\"ט ושבת כלל בשעת נדרו. עוד הג\"ה אחת משמו באשה שנדרה להתענות אחר פסח שני וחמישי ושני עד ר\"ח ולאחר הפסח שאלה מתי תתחיל נראה דתתחיל אחר ימי ניסן אם מנהג בכל המקומות שאין אומרים תחנות כל ימי ניסן עד כאן וכתב מו\"ח ז\"ל דהיינו דוקא בלשון קבלת תענית בעלמא אבל בלשון נדר צריך התרה שהרי נדרה בפירוש להתענות אחר הפסח דלא עדיף מנדר להתענות ביום טוב:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 215:4"
+        },
+        "5": {
+          "he": "המקבל עליו כו'. כבר כתבתי בסעיף ג' מה שקשה על זה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 215:5"
+        },
+        "6": {
+          "he": "חל על מי שנשבע שיישן כו'. נראה פירושו שאם נשבע שבוע שאישן ואחר כך נודר קונם שינה עלי דחל הנדר כמו באומר לאשתו הנאת תשמישך עלי דחל הנדר כדלקמן אע\"ג דבאומר תשמישי עליך לא חל דהוא משועבד לה מ\"מ יכול לאסור הנאתו ממנה אע\"פ שהוא משועבד לה הכי נמי כאן אף שהוא חייב לישן או לשתות יכול לאסור הנאת השינה עליו בלשון נדר ולא דמי למ\"ש תחילה אם נשבע שלא לאכול ככר זה ואח\"כ אומר קונם ככר זה עלי דלא הוה נדר דשם הוי הנדר ג\"כ כמו השבועה משא\"כ כאן הוי הנדר להיפך מהשבועה חל כמו בקונם הנאת תשמישך עלי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 215:6"
+        },
+        "7": {
+          "he": "י\"א שאם נדר כו'. נראה דיש לגרוס וי\"א כו' בוי\"ו וחולק על מ\"ש לעיל דאין הנדר חל על לא תעשה ועל זה אמר וי\"א דחל עליו והמסדר ההעתק הבין שהך ו' של וי\"א הוא רושם לסעיף ו' וע\"כ סידר כאן ו' סעיפים ובאמת כל זה מסעיף ה' והוי\"ו שייכא לתיבת וי\"א:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 215:7"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "שאני יושב. עבה\"ט ומ\"ש נדר שלא לישא אשה כו' עיין בזה בתשובת בשמים ראש סימן רי\"א ובהגהת כסא דהרסנא שם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 215:1"
+        },
+        "2": {
+          "he": "ואמר הריני נזיר. עיין בתשובת זכרון יוסף חי\"ד ס\"ס כ\"ו שכתב דלא נקט בש\"ע אלא לדוגמא בעלמא ומיירי שהיה כועס או מתאבל או שיכור ואמר הריני נזיר מכוס זה בתר דנשבע שלא לשתותו דבכה\"ג אין אסור רק בשתיית כוס זה כדאיתא במסכת נזיר דף י\"א וליכא איסור כולל אבל אל\"כ הלא נזירות איסור כולל הוא חרצנים וזגים טומאה ותגלחת וחייל על איסור שבועה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 215:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "יושב.  כ' הש\"ך ולא הוי דבר שאין בו ממש כיון דמזכיר שם החפץ הנאסר אבל אם אמר הנאת סוכה עלי מותר לישב בסוכה דמצות לאו ליהנות נתנו וע\"ל סימן רל\"ט ס\"ד וכ' הט\"ז דוקא בנדרים הדין כן דכיון שהוא אוסר החפץ עליו שאומר קונם ישיבת סוכה עלי אינו כנודר לבטל המצוה שהרי לא קבל על עצמו כלום אלא אסר החפץ עליו (ואין מאכילין לאדם דבר האסור לו) אבל שבועה אוסר עצמו לעשות הדבר ולאו כל כמיניה להפקיע עצמו מחיוב מצוה (נדר שלא לישא אשה הראויה לבנים חל עליו הנדר אבל אם נשבע אין שבועתו כלום ואם נשבע סתם שלא לישא שום אשה חלה השבועה בכולל הרדב\"ז ח\"א סי' א' ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 215:1"
+        },
+        "2": {
+          "he": "ומתירין.  כ' הדרישה משמע שסובר שאפילו בסוכה או שנדר בפירוש להתענות בשבת ויו\"ט מתירין לו כו' שאומרים לו אלו היית יודע שאסור להצטער בשבת ויו\"ט וכו' וכיוצא בזה וכ\"מ בא\"ח סימן תק\"ע וכן כתב הב\"ח וכן עיקר ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 215:2"
+        },
+        "3": {
+          "he": "מלקות.  מיהו נראה דהיה מכין אותו מכות מרדות מדרבנן ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 215:3"
+        },
+        "4": {
+          "he": "והותר.  דנדר שהותר מקצתו הותר כולו וע\"ל סי' רכ\"ט:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 215:4"
+        },
+        "5": {
+          "he": "ואפילו.  הקשה הב\"ח מאי אפילו אדרבה כ\"ש הוא דאין בקבלה זו ממש שקבל עליו להתענות בשבת ויו\"ט לבד ותירץ הש\"ך דשפיר קאמר אפילו. ל\"מ ברישא דלא נתכוין לשבת ויו\"ט אלא אפילו בסיפא דנתכוין לשבת ויו\"ט בהדיא דמה\"ט בפגעו בהן אם קבלו בלשון נדר חל בשבת ויו\"ט אם מתכוין לנדור בהן ובנדר סתם ופגעו בהן א\"צ שאלה להסמ\"ק וא\"כ הוי אמינא ה\"ה בקבלו בלשון קבלת תענית קמ\"ל ועיין בא\"ח סי' תי\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 215:5"
+        },
+        "6": {
+          "he": "חל.  מיהו יש להתיר וראוי לכופו שישאל על נדרו ולא יעבור על המצוה ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 215:6"
+        },
+        "7": {
+          "he": "ופורים.  מפני שהם מדבריהם וצריכין חיזוק ומ\"ש רמ\"א דבא\"ח לא פסק כן מתרץ הש\"ך דנראה להמחבר להכריע דדוקא הכא דנדר לצום יום א' או יום ב' כל ימיו איכא מיגדר מילתא ופנים בדבר שהרי יצטרך להתענות כל ימיו בחנוכה א\"כ מיעקרא מילתא דרבנן אבל בא\"ח דמיירי בהדיא שקיבל עליו כך וכך ימים א\"כ יתענה בחנוכה ופורים פעם אחת ולא מיעקרא מילתא דרבנן בכך ובאמת דהרמב\"ם ס\"ל דבכל ענין נדרו בטל רק שהמחבר מכריע כן מדעתו ותדע שכן הוא שהרי בס\"ג כתב המחבר אבל אם הוציאו בלשון קבלת תענית אינו דוחה וכו' ולא חנוכה ופורים משמע דאם קבלו בלשון נדר דוחה חנוכה ופורים וזה סותר למ\"ש כאן בס\"ד א\"כ דברי המחבר גופיה יהיו סותרים זא\"ז אלא ע\"כ דיש לחלק דבס\"ג מיירי בנדר לזמן ידוע כמ\"ש ולענין שבועה עיין מ\"ש המחבר בא\"ח ס\"ס תי\"ח ותק\"ע אבל בעל הלבוש כתב שם דאפי' נשבע בפירוש להתענות בר\"ח לא יתענה אע\"פ שר\"ח דרבנן כיון שיש לו אסמכתא בדאורייתא וכו' ע\"ש ודבריו לא נהירין כלל דהא כתב הר\"ן פ\"ק דנדרים דאפי' דבר שהוא מן התורה כיון דליתיה מפורש בקרא בהדיא אלא דאתא מדרשא חלה שבועה עליה וכ\"כ הר\"ב לקמן בסי' רל\"ו ס\"ב והמחבר בסי' רל\"ט ס\"ו וכ\"כ הב\"ח הילכך יש להתיר השבועה ואינו מתענה כמ\"ש הר\"ב שם בא\"ח וכתבו האחרונים בשם תשובת מהר\"מ דימי ניסן וכן שאר הימים שאין אומרים חחנון דינן כימים האסורים מדבריהם מיהו נראה בנודר לשון נדר אף להרמב\"ם צריך התרה דל\"ד לחנוכה ופורים דחשיבי טפי ועשו חכמים חיזוק משא\"כ באלו אבל לשאר דברים כל דין ימים האסורים מדבריהם עליהם עכ\"ל ובדרישה הביא הג\"ה בשם מהרש\"ל בנדר להתענות חודש אומרים לו הרי בזה החודש שנדרת יש י\"ט ושבתות ואומר להם לא נתכונתי להם א\"צ אפילו התרה דדברים שבלב כי הני שמוכיחים הוי דברים עכ\"ל והט\"ז פוסק דצריך התרה כל שאמר בלשון נדר אלא דאם אמר שבפירוש היה עולה על דעתו שלא להתענות אלא בימי החול ודאי נאמן ע\"ז. עוד הג\"ה א' משמו באשה שנדרה להתענות אחר פסח בה\"ב עד ר\"ח ולאחר הפסח שאלה מתי תתחיל נראה דתתחיל אחר ימי ניסן אם מנהג בכל המקומות שא\"א להתענות כל ימי ניסן וכתב הב\"ח דהיינו דוקא בלשון קבלת חענית בעלמא אבל בלשון נדר צריך התרה שהרי נדרה בפירוש להתענות אחר פסח דלא עדיף מנדרה להתענות בי\"ט עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 215:7"
+        },
+        "8": {
+          "he": "נשאל.  פי' אחר שאמר הריני נזיר שאז חל הנזירות למפרע וע\"ל סי' רכ\"ט וס\"ס רל\"ט:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 215:8"
+        },
+        "9": {
+          "he": "שיישן.  כתב הט\"ז נראה פי' שאם נשבע שבועה שאישן ואח\"כ נדר קונם שינה עלי דחל הנדר (ול\"ד למ\"ש תחלה אם נשבע שלא לאכול ככר זה ואח\"כ אמר קונם ככר זה עלי דלא הוי נדר דשם הוי נדר ג\"כ כמו השבועה מה שא\"כ כאן הוי נדר להיפוך מהשבועה):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 215:9"
+        },
+        "10": {
+          "he": "עובר.  והב\"ח כתב דנ\"ל עיקר כדעה זו אבל הש\"ך כתב דעיקר כדעה ראשונה מיהו דעת הר\"ן כדעה זו וכתב עוד הש\"ך דלדעה זו ה\"ה אם אמר שבועה שלא אוכל ככר זה וחזר ואמר קונם ככר זה עלי חייב שתים וכן אם נשבע שיאכל ככר זה ואח\"כ אסרו עליו בקונם אסור לאכול לפי שהנדרים חלים ע\"ד מצוה ושבועות וכ\"כ הר\"ן עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 215:10"
+        },
+        "11": {
+          "he": "אינו.  זהו אף לסברא האחרונה כדאיתא בטור ופוסקים מיהו בע\"ה י\"א דבעינן שאלה אף במתפיס בדבר האסור כדלעיל סי' ר\"ה. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 215:11"
+        },
+        "12": {
+          "he": "עשירה.  מותר לאכלה בלא התרה ועל גוף המצה לוקה ואוכלה בליל פסח כמו שכתב באורח חיים סימן תפ\"ה ולקמן סימן רל\"ו סעיף ה' עכ\"ל הש\"ך.",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 215:12"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

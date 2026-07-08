@@ -1,0 +1,327 @@
+{
+  "chelek": "YD",
+  "siman": 208,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 5,
+  "fetchedAt": "2026-07-08T00:01:24.909Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני סתם נדרים והנודר בחרם. ובו ה' סעיפים:סתם נדרים להחמיר כיצד אמר פירות אלו כבשר מליח או כיין נסך שיש במשמעו מליח של קדשים או יין נסך לשמים שהוא נדר שהרי הוא מתפיס בדבר הנדור ויש עוד במשמע בשר מליח ויין נסך לעבודת כוכבים שאינו נדר שהרי הוא מתפיס בדבר האסור אנו תולין אותו להחמיר ואם הוא אומר שדעתו כבשר מליח ויין נסך של עבודת כוכבים נאמן ואין צריך שאלה ואפי' הוא עם הארץ ואם רוב אנשי המקום קורים לבשר מליח של קדשים בשר מליח סתם וליין נסך לשמים יין [נסך] סתם אינו נאמן:",
+      "en": "Du vœu équivoque et du vœu dans lequel on fait entrer le mot חרם (hérem)Il faut se montrer très sévère, lorsqu’il s’agit d’un vœu dont le sens est équivoque. Par exemple, si un homme dit: «Que ces fruits soient pour moi comme la viande salée, ou: comme le vin des libations», on peut comprendre: «Que ces fruits soient pour moi comme la viande des sacrifices offerts au Temple», ou: comme le vin versé en libation, au Temple»; le vœu dans ce cas aurait de la valeur, puisque les fruits ont été assimilés à des choses sacrées. Mais on pourrait également comprendre: «Que ces fruits soient pour moi comme la viande salée ou le vin offerts aux idoles», et le vœu serait alors nul, puisque celui qui l’a prononcé assimilait les fruits à des objets défendus par leur nature même.(b)Voir § 205. Les deux versions étant plausibles, on n’admet que la première, à moins que celui qui a prononcé le vœu ne déclare avoir pensé, en le formulant, à la viande et au vin destinés aux idoles; on le croit alors sur parole et son vœu est nul, sans qu’il ait besoin, même si c’est un ignorant, du secours d’un rabbin.(c)Le plus souvent on fait un vœu pour accomplir une bonne œuvre, donc dans de bonnes intentions. C’est pourquoi l’on croit la personne, quand elle dit avoir pensé au vin ou aux sacrifices offerts aux idoles. Dans les pays où l’on a coutume de désigner sous les noms de viande salée et de vin de libation uniquement ce qui était offert au Temple, si celui qui a prononcé le vœu dit qu’il pensait aux offrandes faites aux idoles, on n’ajoutera pas foi à son dire, et il lui faudra remplir son vœu.(d)Cette mesure a pour but de rendre l’annulation d’un vœu très difficile et d’empêcher ainsi l’abus des vœux, plutôt qu’elle ne répond à la crainte d’une duperie.",
+      "ref": "Shulchan Arukh, Yoreh Deah 208:1"
+    },
+    {
+      "seif": 2,
+      "he": "נדר בחרם ואמר לא נדרתי אלא בחרמו של ים (פי' רשת שצדין בה דגים בים) בקרבן ואמר לא נדרתי אלא בקרבנות מלכים הרי עצמי קרבן ואמר לא נדרתי אלא בעצם שהנחתי להיות נודר בו קונם אשתי נהנית לי ואמר לא נדרתי אלא מאשתי הראשונה שגרשתי אם הוא תלמיד חכם נאמן ואינו צריך התרה ואם הוא עם הארץ צריך שאלה שלא ינהגו קלות ראש בנדרים ומיהו בחרטה סגי וא\"צ לפתוח לו פתח ואם עבר על הנדר אין קונסין אותו לנהוג איסור כימים שעבר על הנדר ונהג בהם היתר אבל הנודר נדר גמור דאורייתא ועבר עליו (במזיד) קונסין אותו ואין מתירין לו אלא א\"כ ינהוג איסור כימים שעבר עליו ונהג בו היתר ואם יש מכשול בדבר כגון שנדר בדבר שאינו יכול ליזהר בו כגון שאסר עליו כל הפירות שבעולם חוץ מדגן ועבר עליו מתירין לו מיד ואין קונסין אותו לנהוג איסור כימים שעבר עליו כדי שלא יבא לידי מכשול ויש מי שאומר שמ\"מ יש להחמיר עליו שלא להתירו בחרטה אלא בפתח ומזה נלמוד למי שאסר על עצמו בשר ויין אם יעבור עבירה פלונית ועבר עליה ולא נזהר מבשר ויין ובא להתיר נדרו שמתירין לו מיד ואינו צריך לנהוג איסור כימים שנהג בהם היתר כיון שיש חשש מכשול בדבר: הגה מיהו אם נראה לחכם שיוכל לעמוד על עצמו ולא יעבור עוד אין מתירים לו עד שינהוג איסור כימים שנהג בהן היתר (מרדכי ריש שבועות שתים ובתשובת הרמב\"ן סי' רכ\"ה):",
+      "en": "Quand un homme, après avoir dit: «Je fais vœu que ces objets me soient hérem» (hérem a à la fois le sens de «consacré» et celui de «filet pour la pêche»), déclare qu’en formulant son vœu il pensait au filet; ou s’il dit: «Que cet objet me soit sacré comme ce qui est offert en sacrifice», et déclare ensuite qu’il pensait aux offrandes faites au monarque(e)Le sens du texte pourrait être également: «offrandes faites par le monarque». Il y a donc équivoque.; ou encore s’il dit: «Que je sois comme l’holocauste», et déclare ensuite avoir pensé seulement à l’os de l’holocauste, son vœu est nul. S’il fait vœu que sa femme lui soit sacrée, et dit ensuite avoir pensé à sa première femme, avec laquelle il a divorcé, ce vœu est de même annulé. Il est annulé sans le secours d’un rabbin, quand il a été prononcé et interprété par un talmudiste, car on a confiance en un talmudiste.(g)On admet qu’un talmudiste ne fera pas ce qu’il sait être interdit. Il peut très bien avoir pensé à sa première femme, puisque, au temps où le Talmud a été écrit, on pouvait épouser à nouveau la femme qu’on avait répudiée et avoir ainsi deux femmes. Remarquons la différence entre le talmudiste et le rabbin. Le talmudiste est une personne qui a étudié le Talmud et qui exerce une profession quelconque, sans se livrer spécialement aux études sacrées. Le rabbin au contraire ne cesse pas d’étudier, il se consacre entièrement à l’étude de la Loi; ce qui ne veut pas dire qu’il ne puisse en même temps exercer une profession lui laissant beaucoup de loisirs pour l’étude. Si c’est un ignorant qui a prononcé le vœu, il doit avoir recours à un rabbin; on veut ainsi éviter que les vœux ne soient traités à la légère.(h)On lit dans le traité Nedârîm (page 20, michenah): «Quand un ignorant prononce un vœu, ce vœu fût-il équivoque, il faut se montrer sévère et ne pas lui en faire remise trop facilement». C’est pourquoi l’ignorant doit toujours avoir recours au rabbin. Si l’ignorant dit au rabbin qu’il regrette son vœu équivoque, cela suffit pour annuler ce vœu. Quand un ignorant a fait un vœu, n’en a pas rempli les clauses, puis est venu quelques jours après en faire part au rabbin, celui-ci ne doit pas le punir en lui faisant observer ce vœu pendant un nombre de jours égal au nombre des jours écoulés, lorsqu’il s’agit d’un vœu équivoque. Mais si le vœu n’est pas équivoque, s’il vise bien une chose interdite par la Torah, celui qui l’a formulé et ne l’a pas observé doit être puni par l’obligation d’en remplir les clauses, pendant un temps égal au temps écoulé entre le jour où il a prononcé son vœu et celui où il en a fait part au rabbin. Quand un homme a fait un vœu presque impossible à tenir, par exemple celui de ne manger aucun fruit de la terre en dehors du seigle, ne l’a pas observé et va s’en ouvrir au rabbin, celui-ci doit lui en faire remise entièrement et sans aucune punition, afin qu’il ne commette pas un plus grand péché en enfreignant son vœu. Un docteur déclare que le rabbin doit se montrer plus sévère, ne pas faire remise au coupable dès que celui-ci a dit regretter son vœu imprudent, mais chercher une disposition de loi qui puisse le libérer. D’après ces principes, on peut poser la règle suivante: Une personne a fait vœu de ne plus manger de viande, de ne plus boire de vin, si elle se rendait coupable d’un certain péché, et, n’ayant pas accompli son vœu, vient s’en ouvrir à un rabbin; celui-ci devra l’absoudre, sans lui imposer l’abstinence pendant un temps égal à celui de la transgression, afin de lui éviter le péché d’enfreindre son vœu.GLOSE: Mais si le rabbin voit que celui qui se présente à lui est un homme vertueux, capable d’accomplir ce qui lui sera ordonné, il devra lui imposer comme châtiment de ne pas manger de viande, de ne pas boire de vin, pendant un temps égal à celui de la transgression.",
+      "ref": "Shulchan Arukh, Yoreh Deah 208:2"
+    },
+    {
+      "seif": 3,
+      "he": "במה דברים אמורים שצריך לנהוג איסור כימים שנהג בהם היתר בימים מועטים אבל במרובים דיו ל' יום:",
+      "en": "Si une personne n’a pas observé un vœu et est passible d’une peine, le rabbin devra lui faire remplir les clauses de son vœu pendant un temps égal à celui de la transgression, s’il s’agit d’un temps relativement court; mais si ce temps est long, la règle est de lui faire observer le vœu pendant trente jours.(i)Certains docteurs, plus sévères, prétendent que l’on doit faire observer le vœu pendant un temps égal à celui de la transgression, quelle qu’en soit la durée; mais il vaut mieux adopter les mesures indulgentes de l’article 3, car une trop grande sévérité pourrait éloigner de la religion.",
+      "ref": "Shulchan Arukh, Yoreh Deah 208:3"
+    },
+    {
+      "seif": 4,
+      "he": "מי שעבר על נידוי אין צריך לנהוג איסור כימים שנהג בהם היתר מפני שנידוי הוא דרבנן:",
+      "en": "Lorsqu’a été formulé le vœu suivant: «Que je sois méprisé et considéré comme un être impur, si je me rends coupable de tel péché», et que, ce péché commis, le vœu n’a pas été observé, — si le coupable en fait part quelque temps après à un rabbin, il ne doit pas être puni comme le voudrait l’article 3, parce qu’il s’agit ici d’un vœu interdit seulement par la loi rabbinique.(j)Cet article paraît au premier abord en contradiction avec ce qui précède, puisque les prescriptions rabbiniques (Loi orale) sont sacrées pour l’Israélite. Mais cette sorte de vœux n’a très probablement pas été interdite par les Docteurs. On lit en effet, traité Nedârîm, page 7: «Rabbi Aqîbâ, qui seul a voulu se montrer sévère pour ce genre de vœux, a douté lui-même qu’il y ait là vœu.» Il y a donc doute rabbinique; comme la loi traditionnelle prescrit l’indulgence dans le cas de doute rabbinique, l’article 4 est en définitive exact quant à ce qu’il prescrit, sinon quant au motif qu’il donne à sa prescription.",
+      "ref": "Shulchan Arukh, Yoreh Deah 208:4"
+    },
+    {
+      "seif": 5,
+      "he": "נשבע שלא ישא אשה תוך ג' שנים ועבר ונשא אם אמר לשון שמשמעו שלא יעשה נישואין עמה הוה ליה כנשבע על הככר ואכלה דנשאל ומתירין לו אבל אם אמר לשון שמשמעו שלא תהיה אשתו אין מתירין לו עד שיגרשנה כימים שנהג בהם קלות ראש בנדרו. (וכבר נתבאר דבשלשים יום סגי) . (תשובת הרשב\"א ותשובת הרמב\"ן וריב\"ש לענין הלכתא):",
+      "en": "Quand un homme a prononcé un serment tel qu’on puisse comprendre qu’il ne se mariera pas avant trois ans, et qu’au mépris de ce serment il a contracté mariage, — s’il s’en excuse ensuite auprès d’un rabbin, celui-ci devra lui faire remise de sa faute; car le cas est identique à celui où l’on a fait vœu de ne pas manger de pain, par exemple, et où l’on en a mangé. Mais si, d’après la formule du serment, on comprend qu’il a juré de ne pas épouser une certaine femme avant trois ans, s’il n’a pas tenu sa parole et s’il va trouver un rabbin, après consommation du mariage, le rabbin devra lui donner comme punition de vivre séparé de sa femme, pendant un temps égal au temps écoulé depuis le vœu jusqu’au moment où il est venu dévoiler ce vœu au rabbin.(k)Dans le premier cas le vœu était vague, l’homme jurait de ne pas se marier; or, le mariage étant recommandé par le Pentateuque (Genèse, I, 28: Dieu les bénit et leur dit: «Croissez et multipliez et remplissez la terre»), le rabbin doit faire remise d’un tel serment. Le cas est plus délicat quand le serment désignait nominativement la femme; car le vœu porte alors à la fois sur celui qui le prononce et sur la femme visée. Mais là encore le rabbin agira avec modération, en raison des paroles de la Genèse que nous venons de citer.GLOSE: S’il a beaucoup tardé à dévoiler son vœu, il ne doit cependant pas être séparé de sa femme pendant plus de trente jours (V. art. 3).",
+      "ref": "Shulchan Arukh, Yoreh Deah 208:5"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה נדרים דף י\"ח ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 208:1"
+        },
+        "2": {
+          "he": "כפי' השני שכ' הרא\"ש על הא דתנן ופירושן להקל וכ\"כ הטור וכ\"נ מדברי הרשב\"א בתשובה שכ' ואם סתם אסור כלו' אם סתם ולא ידע על מה נתכוין אסור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 208:2"
+        },
+        "3": {
+          "he": "הרא\"ש שם מדלא תנן בהו דצריך שאלה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 208:3"
+        },
+        "4": {
+          "he": "טור ממשנה שם וכר\"י וכ\"פ הרמב\"ם בפ\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 208:4"
+        },
+        "5": {
+          "he": "משנה שם ד' כ' ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 208:5"
+        },
+        "6": {
+          "he": "כאוקימתא דרב יהודה שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 208:6"
+        },
+        "7": {
+          "he": "כחכמים שם במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 208:7"
+        },
+        "8": {
+          "he": "הרא\"ש שם וכחכמים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 208:8"
+        },
+        "9": {
+          "he": "ברייתא שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 208:9"
+        },
+        "10": {
+          "he": "הרא\"ש שם וש\"פ בשם התוס':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 208:10"
+        },
+        "11": {
+          "he": "הר\"ן שם בשם התוספות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 208:11"
+        },
+        "12": {
+          "he": "תשובת הרשב\"א והיא בתשו' להרמב\"ן בסי' רנ\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 208:12"
+        },
+        "13": {
+          "he": "כרבי יוסי שם בבריי' והיינו נזירות היינו נדרים הרשב\"א בתשובה שם וכן כתב בקונטרס משפטי החרם והנידוי (לרמב\"ן):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 208:13"
+        },
+        "14": {
+          "he": "הריב\"ש בתשובה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 208:14"
+        },
+        "15": {
+          "he": "תשו' הר\"ש בר צמח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 208:15"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "סתם נדרים להחמיר כו'. היינו כשלא פי' מה היה בלבו אלא אומר כך נדרתי כמו שפירשוהו חכמים אנו מפרשי' לחומרא ע\"ל סי' רל\"ו ס\"ק א' הרא\"ש וכן דעת הרמב\"ם פ\"ב מה\"נ דין ז' וכן ר' ירוחם ני\"ד ח\"ג אחר שהביא דברי הרא\"ש כתב וכן כ' הרמב\"ם כו' ותימה על מ\"ש בית יוסף שדעת הרמב\"ם פרק ב' מה\"נ אינו כן: בתשו' מבי\"ט ח\"ב סי' רנ\"ו דף קי\"ח ע\"ג מי ששכח אם נדר או נשבע נותנין עליו חומרי שניהם חומרי דנדר ודשבועה וכ\"ש אם שכח אם נשבע או לא דאסור מספק וע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 208:1"
+        },
+        "2": {
+          "he": "ואפי' הוא ע\"ה. כ' הב\"ח ויש לתמוה דז\"א אלא לדעת הרא\"ש וטור אבל לדעת הרמב\"ם דפסק המחבר לעיל ר\"ס ר\"ה כוותיה דצריך שאלה בע\"ה במתפיס בדבר האסור ה\"ה הכא וצ\"ע מיהו יש להחמיר כהרמב\"ם וכאן נמי צריך שאלה בע\"ה עכ\"ל ול\"נ דדעת המחבר דהכא גם הרמב\"ם מודה דע\"כ לא מחמיר התם אלא בשאינו יודע אם מתפיס בדבר האסור חשיב נדר או לא אבל כאן יודע שהמתפיס בדבר האסור לא הוי נדר אלא שאמר סתם יי\"נ ויש במשמעותו של עבודת כוכבים או של מזבח וכל כמה דלא פריש דבוריה הולכין להחמיר אבל כל שפירש ואמר דעתי היה על יי\"נ של עבודת כוכבים שלא יהא נדר נאמן ולא בא לכאן אלא לאשמועי' דאין צריך שאלה משום דבר הנדור ודו\"ק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 208:2"
+        },
+        "3": {
+          "he": "ואם רוב כו'. משמע דוקא רוב אבל בתר מיעוט לא אזלינן והקשה ב\"י דלקמן סי' רי\"ז סי\"ז אזלינן בתר מיעוט לחומרא ותירץ דשאני התם כיון שמסתפקין משניהם אלא שרוב סיפוקן מאחד ולא נהירא דהא התם טעמא הוא משום ספק נדרים להחמיר ועוד דלקמן סי' רי\"ז סעיף ג' כתבו הרמב\"ם והמחבר היו מקצת בני אדם קורין לו כך ומקצת כך אין הולכין אחר הרוב כו' אלא נראה עיקר כמ\"ש בפרישה דשאני הכא כיון שפירש דבריו ואמר ליין נסך נתכוונתי מ\"ה לא אזלינן לחומרא אם אין הרוב כנגדו אבל אם לא פירש דבריו רק נדר והלך לו אזלינן לחומרא וע\"ל סי' ר\"כ סעיף י\"ד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 208:3"
+        },
+        "4": {
+          "he": "לבשר מליח שלקדשים כו'.וה\"ה להקל כגון שהרוב קורין לבשר מליח של עבודת כוכבי' בשר מליח סתם וכן ליי\"נ של עבודת כוכבי' יי\"נ סתם הולכין להקל וכן ברמב\"ם פ\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 208:4"
+        },
+        "5": {
+          "he": "אינו נאמן. כתוב בהגהת פרישה דהיינו דוקא ע\"ה אבל ת\"ח נאמן בקל וחומר מלקמן סעיף ב' ופשט דברי הפוסקים לא משמע כן דדוקא לקמן הת\"ח נאמן כיון שיש במשמעותו ב' לשונות אלא שפשוטו הוא להחמיר ולכך ע\"ה אינו נאמן אבל הכא כיון שאנשי המקום קורין ליין נסך לשמים יי\"נ אם כן אין משמעו אלא לשון א' שהוא ל' נדר ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 208:5"
+        },
+        "6": {
+          "he": "בחרמו של ים. פי' ברשתות של ים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 208:6"
+        },
+        "7": {
+          "he": "הרי עצמי קרבן. דמשמע שהקדיש את עצמו ושוב אמר לא נדרתי אלא בעצם אחד כו':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 208:7"
+        },
+        "8": {
+          "he": "ואם הוא ע\"ה כו'. וכבר נתבאר לעיל סי' ר\"ה דבזמן הזה כולי עלמא דיינינן להו כע\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 208:8"
+        },
+        "9": {
+          "he": "ומיהו בחרטה סגי. והב\"ח פסק דלא סגי בחרטה אלא צריך לפתוח לו פתח ממקום אחר כדלעיל סי' ר\"ה סעיף א':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 208:9"
+        },
+        "10": {
+          "he": "אין קונסין כו'. כיון שאין צריך שאלה אלא מדרבנן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 208:10"
+        },
+        "11": {
+          "he": "חוץ מדגן. אבל אם לא פרט חוץ מדגן הוי נדר שוא ואינו נדר כלל כדלקמן סי' רל\"ב סעיף ה':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 208:11"
+        },
+        "12": {
+          "he": "ועבר עליה כו'. אבל אם רוצה להתיר כדי לעבור י\"א דאין מתירין לו אפילו יש מכשול בדבר כדלקמן סי' רכ\"ח סעיף ט\"ו ס\"ק כ\"ז:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 208:12"
+        },
+        "13": {
+          "he": "בימים מועטים. כלומר שנהג היתר בימים מועטים אבל במרובים כלומר שנהג היתר ימים מרובים דיו ל' יום מיהו היינו למ\"ש בב\"י ולענין הלכה נקטינן כהנך רבוותא דשרי בל' יום אבל לא שת לבו לעיין בתוס' ספ\"ב דנדרים ובהרא\"ש שם ורבינו ירוחם ני\"ד ח\"ז שפסקו דאפילו בימים מרובים צריך לנהוג איסור ככל הימים שנהג היתר וכן נראה דעת הטור שכתב סתם צריך לנהוג איסור כימים שנהג היתר ולא חילק דלא כהגהת דרישה שפירש דבריו בימים מועטים ואם כן כיון דכל הני רבוותא אוסרין וכן הראב\"ד והריב\"ש וכמבואר בב\"י אין להקל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 208:13"
+        },
+        "14": {
+          "he": "מי שעבר על נידוי כו'. תימה דלקמן סי' של\"ד סכ\"ח כתב אם זלזל בנדויו ובחרמיו צריך לנהוג איסור כימים שנהג בהן היתר קודם שיתירוהו עכ\"ל והב\"ח שם תירץ דהכא מיירי כשעבר במזיד מפני שא\"א לו לקיים נדרו כגון שנדר מן הדגן שא\"א לו להיו' בלא דגן וכיוצא בזה דחשיב קצת כמו אנוס אבל בדבר שאפשר לו לקיים אלא שמזלזל בנדויו שאומר איני חושש לנדוי ולחרם החמירו בו שצריך לנהוג איסור עכ\"ל ואי אפשר לומר כן דהא מדכתב בסעיף ב' בסיפא ואם יש מכשול בדבר כו' שאינו יכול ליזהר כו' וגם מדיהיב טעמא מפני שנידוי דרבנן מכלל דמיירי בדבר שאפשר לו לקיים דאם לא כן אפי' בנדר דאורייתא אין קונסין אותו לנהוג איסור כימים הראשונים אלא נ\"ל לתרץ שהרי דין זה לקוח מהריב\"ש שבבית יוסף וז\"ל שאין צריך שינהוג נידוי כלל אפי' שעה אחת דקי\"ל דבנדרים דרבנן אין קונסין וה\"נ שהדברים שהמנודה חייב לנהוג בהן לאו מדאורייתא הן אבל להתיר לו דבר שנשבע עליו ושנשבע עליו בנידוי וחרם דבר ברור הוא שאין מתירים עד שינהוג איסור בדבר ההוא כימים שנהג בהן היתר עכ\"ל ור\"ל דאם זלזל בדיני הנידוי שלא נהג בדברים שהמנודה חייב לנהוג בהן ליכא אלא מדרבנן אבל אם קבל עליו דבר בנדוי או בחרם ועבר על הדבר ההוא אם כן הוא מדאורייתא שהרי נידוי וחרם גופיה דאורייתא הוא והלכך אין מתירין אותו עד שינהוג איסור בדבר ההוא כימים שנהג בו היתר ואם כן בסימן של\"ד סכ\"ח מיירי כהך סיפא דהריב\"ש דהיינו שזלזל בנדוי ועבר על אותו דבר שנתנדה עליו או שקבלו בחרם או בנידוי וזה דין אמת:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 208:14"
+        },
+        "15": {
+          "he": "נשבע שלא ישא כו' והשבועה חלה בכה\"ג אף על גב דמתבטל ממצות פריה ורביה כדלקמן סי' רל\"ט סעיף ח' בהג\"ה וע\"ש שכתבתי בשם א\"ז דאין השבועה חלה ולפי זה אפשר להקל כאן שאין צריך לגרשה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 208:15"
+        },
+        "16": {
+          "he": "דנשאל ומתירין כו'. ונפטר מידי שבועתו כדלקמן סי' רל\"ח ס\"ך:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 208:16"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "ואם רוב אנשי כו'. הקשה בית יוסף ממה שכתוב סי' רי\"ז הנודר מן השמן ואם מסתפקין בשניהם אסור בשניהם אע\"פ שרוב סיפוקם מאחד מהם ותירץ דהתם כולם מסתפקין משניהם אלא שרוב סיפוקם מאחד מהם הלכך כיון שכולם מסתפקין משניהם אסור בשניהם עכ\"ל ודבריו תמוהים דאם אנו משגיחין ברוב גם בזה נשגיח ברוב דמיעוט סיפוק של בני אדם לא ניזול בתריה ובאמת יש להקשות עוד על הך דהכא דאזלינן בתר רוב וכן בסי' ר\"ך סעיף י\"ד ואם המקום שנדר בו הוא קציר שעורים הולכין אחריו והיינו אפילו לקולא ובסי' רי\"ז סעיף ג' כתב לענין ספק מה מיקרי כבוש דאין הולכין בנדרים אחר הרוב אלא אמרינן להחמיר. ומו\"ח ז\"ל כתב בסי' ר\"ך לתרץ ההיא דסי' ר\"ח גבי מליח דקדשים דהולכין אחר הרוב היינו משום דהרוב קורין לו מליח סתם וכן בסי' ר\"ך לענין קציר דהולכין אחר הרוב דהרוב קורין לקציר חטים ולשעורים קציר סתם אבל גבי שמן בסימן רי\"ז דאין הולכין אחר הרוב מיירי שקורין לשניהם שמן סתם אלא שהרוב הם מסתפקין מאחד מהם ואישתמיטתיה ההיא דסי' רי\"ז סעיף ג' גבי כבוש דאמרינן שם היו מקצת בני המקום קורין לו כך ומקצתן אין קורין אין הולכין אחר הרוב אלא הרי זה ספק נדרים וכל ספק נדרים להחמיר אלמא שזהו עיקר החומרא שאין הולכין בתר קריאת הרוב. והדרא קושיא לדוכתה ונראה לע\"ד דהכל ניחא דודאי כל שיש ספק בגוף הנאסר אזלינן לחומרא ולא אזלינן בתר הרוב והיינו חומרא דנדרים כל שאפשר שנכנס באיסור אסור אפילו הוא מיעוט בשם ההוא אלא דאם הספק אינו בגוף הנאסר אלא נקטו לסימן אז ודאי אנו מפרשים ההוא סי' בתר לישנא דרובא דעלמא וכיון שבא לתת סימן ולפרש דבריו ודאי נתכוין בדבר ברור דלא מחית אינש נפשיה לספיקא מ\"ה בההיא דסי' רי\"ז גבי שמן וגם גבי כבוש שהוא גוף הנאסר אזלינן לחומרא אפילו בתר מיעוטא משא\"כ כאן שתולה פירות אלו בבשר מליח וכן בסי' ר\"ך לענין קציר שאומר דבר זה יהא אסור עלי עד הקציר הרי הספק במה שתלה בו גוף הנאסר ובא לבררו במה שתלה בו אז אמרינן דלדבר ברור נתכוין והיינו הרוב וראיה ברורה לזה מקדושין פרק האומר (דף ס\"ד) מי שיש לו ב' כיתי בנות ואמר קידשתי את בתי הגדולה ואיני יודע אם גדולה שבגדולות או גדולה שבקטנות כו' ר' יוסי אומר כולן מותרות חוץ מן הגדולה שבגדולות וקיימא לן כוותיה ומפרשינן טעמא שם דלא מחית אינש נפשי' לספיקא פרש\"י שיהא צריך לשאול איזה היא ואמרינן שם דגבי נדרים נמי הכי הוא הרי לפניך דכל שבא לתת סימן לדבריו דהיינו שאומר הגדולה אז אמרינן דלא מחית אינש לספיקא ואילו לא אמר רק בתי מקודשת סתם הויין כולן בספיקא ולא אמרינן דודאי נתכוין לגדולה כיון דרוב העולם משיאין הגדולה תחילה ואף על גב דכתב הרא\"ש בפרק האיש מקדש וז\"ל ועוד אומר ר\"ת דאפשר להיות דלא אמרינן שאין מסורין לביאה אלא דוקא אחת מבנותיך אבל בתך מקודשת לי משמע דוקא לגדולה ולא להלכה למעשה אמר כן עכ\"ל משמע להלכה בלא מעשה היה סובר אפילו בבתך מקודשת לי נתכוין על הגדולה שאני התם דאלים לר\"ת הך סברא דאין אדם משיא הקטנה לפני הגדולה כיון דקרא כתיב לא יעשה כן במקומנו וגו' והוה כאומר בפירוש הגדולה וכדכתב שם הרא\"ש לעיל מיניה בשמו דאם היא משודכת לו ודאי נתכוין לה אבל בשאר דוכתי דאין סברא חזקה לפנינו לאיזה נתכוין ודאי אזלינן לחומרא אפילו בתר מיעוט אלא דאם בא לברר דבריו ונקטיה לסימן אז אנו הולכין אחר הרוב וה\"נ הך דהכא ממש כן נראה לע\"ד נכון וברור וראיתי בזה לאחרים דברים דחוקים במאד ומה שכתבתי הוא ברור בסייעתא דשמיא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 208:1"
+        },
+        "2": {
+          "he": "ואין צריך לפתוח לו פתח. ענין פתח וחרטה יתבארו בסי' רכ\"ח:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 208:2"
+        },
+        "3": {
+          "he": "ואין קונסין אותו לנהוג כו'. כן כתב הטור בכל מידי דרבנן וכן הביא ב\"י בשם ריב\"ש דבנידוי שהוא דרבנן אין צריך לנהוג איסור כימים שזלזל באיסור בהנידוי וכ\"כ בש\"ע כאן סעיף ד' ותימה על הש\"ע בסי' של\"ד סעיף כ\"ח שפסק אפי' בזלזל בנידוי צריך לנהוג איסור כימים שנהג היתר ופסקיו סותרים אהדדי ומו\"ח ז\"ל בסי' של\"ד הרגיש בזה ג\"כ וכתב דכאן מיירי שעבר בענין שא\"א לו לקיים נדרו כגון שנדר מהדגן שא\"א לו לחיות בלי דגן וכיוצא בזה דחשיב קצת אונס אבל לקמן מיירי שאפשר לקיים אלא שמזלזל בו ע\"כ. ותמוהין דבריו דאם הוא אנוס אפי' בנדר דאורייתא אין צריך לנהוג איסור כמ\"ש כאן בהדיא שיבוא לידי מכשול:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 208:3"
+        },
+        "4": {
+          "he": "מפני שהנידוי הוא דרבנן. אבל אם היה שם שבועה צריך לנהוג איסור כימים כו' ועמ\"ש מזה בסעיף ב':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 208:4"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "סתם. עבה\"ט של הרב מהרי\"ט ז\"ל מ\"ש בשם מהריב\"ל מי שנשבע שלא ישא אשה אחרת כו' ועיין בתשובת רדב\"ז החדשות סימן קכ\"ו במי שנשבע לאשתו שלא ישא עליה אבל אם תשהה עשר שנים ולא תלד יהיה פטור משבועתו וילדה בתוך הזמן ולד של קיימא ומת ושהתה אחר מיתת הולד עשר שנים ולא ילדה אם הוא פטור משבועתו או לא ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 208:1"
+        },
+        "2": {
+          "he": "אינו נאמן. כתב בהגהת פרישה דוקא ע\"ה אבל ת\"ח נאמן בק\"ו מלקמן סעיף ב' וש\"ך חולק עליו ועיין בתשובת חות יאיר סימן ט\"ו שנראה לו עיקר כהגהת פרישה ולא כש\"ך ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 208:2"
+        },
+        "3": {
+          "he": "שלא ינהגו קלות ראש. עיין בתשובת חות יאיר סימן ט\"ו שכתב דבפירוש הרא\"ש ורוב הפוסקים משמע הטעם משום נאמנות דע\"ה אינו נאמן ולפי דבריהם אפשר לומר דאם לבו יודע שהאמת אתו אין איסור אם יעבור בסתר עיין שם בהשמטות:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 208:3"
+        },
+        "4": {
+          "he": "מפני שנידוי. עיין באר היטב מה שכתב שהרי נידוי וחרם גופיה הוא דאורייתא ועיין בתשובת נו\"ב חלק אבן העזר סוף סי' ע\"ז שהוכיח ג\"כ מדברי הר\"ן שהחרם הוא דאורייתא ועיין בנודע ביהודה תניינא חלק יו\"ד סימן קמ\"ו שכתב דשוב נתן אל לבו דהחרם אף שאינו מדרבנן והוא חמור יותר אבל אינו דאורייתא ממש רק הוא מדברי קבלה ולענין ספיקא נראה לי דספיקו לקולא ושוב הוכיח כן מדברי הרמב\"ן ע\"ש וכ\"כ עוד בחלק אה\"ע סימן ח' ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 208:4"
+        },
+        "5": {
+          "he": "הוי לו כנשבע. עיין בשו\"ת עבודת הגרשוני סימן ב' שהוכיח מזה דאם הטילו הקהל חרם שלא לקבל שום רב בעירם אשר יש לו קרובים שם ועברו וקיבלו רב אחד שיש לו קרובים בעירם דמותרים להחזיקו אצלם דכיון שלא החרימו שלא להחזיק אצלם שום רב שיש לו קרובים בעיר רק שלא לקבלו ועכשיו שכבר קבלוהו מה שעבר עבר ומותרים להחזיקו אצלם. וע\"ש עוד לענין אם מחוייבים לנהוג איסור כימים שנהגו היתר ועיין בשו\"ת זכרון יוסף חלק ח\"מ סימן ב' שהוכיח ג\"כ מזה אודות הש\"ס דפוס זולצבאך שנדפסו במשך החרם דמותר ללמוד מתוכם דכיון שלא גזרו רק שלא ידפיס איש אחר זולת המדפיסים באמשטרדם את הש\"ס אין בכלל זה אלא מה שבפרט דהיינו ההדפסה אסור משא\"כ אם עבר אחד והדפיסו מותר ללמוד מתוכו והביא עוד ראיה מהא דהשביע יהושע שלא יבנה יריחו ואחד עבר על החרם ובנאה ואפ\"ה היו ישראל דרים בה לאחר שבנאה כמבואר בש\"ס בכמה דוכתי ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 208:5"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "להחמיר.  היינו כשלא פי' מה היה בלבו אלא אומר כך נדרתי כמו שפירשוהו חכמים אנו מפרשים לחומרא כ\"כ הרא\"ש וכ\"ד הרמב\"ם וכתב בתשובת מבי\"ט מי ששכח אם נדר או נשבע נותנין עליו חומרי שניהם חומרא דנדר ודשבועה וכ\"ש אם שכח אם נשבע או לא דאסור מספק:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 208:1"
+        },
+        "2": {
+          "he": "עם הארץ.  והב\"ח כתב דיש להחמיר להצריך שאלה בעם הארץ כמו בר\"ס ר\"ה אבל הש\"ך כתב דנראה עיקר דעת המחבר כאן דע\"כ לא מחמרינן שם אלא בשאינו יודע אם מתפיס בדבר האסור חשיב נדר או לא אבל הכא יודע שמתפיס בדבר האסור לא הוי נדר אלא שאמר סתם יי\"נ ויש במשמעותו ב' דברים הלכך כשפירש א\"צ שאלה עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 208:2"
+        },
+        "3": {
+          "he": "אינו.  כתב בהגהת פרישה דהיינו דוקא עם הארץ אבל ת\"ח נאמן בק\"ו מלקמן ס\"ב ופשט דברי הפוסקים לא משמע כן דדוקא שם הת\"ח נאמן כיון שיש במשמעותו ב' לשונות אלא שפשוטו הוא להחמיר לכך ע\"ה אינו נאמן אבל הכא כיון שאנשי המקום קורין ליין נסך לשמים יי\"נ סתם א\"כ אין משמעו אלא לשון א' שהוא נדר וה\"ה להקל כגון שהרוב קורין לבשר מליח של עובד כוכבים בשר מליח סתם וכן ליי\"נ של עובד כוכבים יי\"נ סתם הולכין להקל. והב\"י הקשה דהא בסי' רי\"ז סי\"ז אזלינן בתר מיעוט לחומרא ונראה עיקר כמ\"ש בפרישה דשאני הכא כיון שפירש דבריו ואמר ליי\"נ של עובד כוכבים נתכוונתי מש\"ה לא אזלינן לחומרא אם אין הרוב כנגדו אבל אם לא פירש דבריו רק נדר והלך לו אזלינן לחומרא וע\"ל סי' ר\"כ ס\"ד עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 208:3"
+        },
+        "4": {
+          "he": "שאלה.  וכבר נתבאר לעיל סימן ר\"ה דבזה\"ז כ\"ע דיינינן להו כע\"ה. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 208:4"
+        },
+        "5": {
+          "he": "בחרטה.  והב\"ח פסק דלא סגי בחרטה אלא צריך לפתוח לו פתח ממקום אחר כדלעיל סימן ר\"ה ס\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 208:5"
+        },
+        "6": {
+          "he": "קונסין.  כ\"כ הטור בכל מידי דרבנן אין קונסין אותו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 208:6"
+        },
+        "7": {
+          "he": "יעבור.  אבל אם רוצה להתיר כדי לעבור י\"א דאין מתירין לו אפילו יש מכשול בדבר וע\"ל סי' רכ\"ח סט\"ו עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 208:7"
+        },
+        "8": {
+          "he": "במרובים.  ודעת הש\"ך נוטה לפסוק כהתוס' ושאר פוסקים דאפילו בימים מרובים צריך לנהוג איסור כימים שנהג היתר:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 208:8"
+        },
+        "9": {
+          "he": "שנידוי.  כתב הש\"ך תימה דלקמן סימן של\"ד סכ\"ח כתב אם זלזל בנדויו ובחרמיו צריך לנהוג איסור כימים שנהג בהן היתר קודם שיתירוהו ונ\"ל לתרץ דאם זלזל בדיני הנידוי שלא נהג בדברים שהמנודה חייב לנהוג בהן ליכא אלא מדרבנן אבל אם קבל עליו דבר בנידוי או בחרם ועבר על הדבר ההוא הוי מדאורייתא שהרי נידוי וחרם נופיה דאורייתא הוא וא\"כ בסי' של\"ד מיירי שזלזל בנידוי ועבר על אותו דבר שנתנדה עליו או שקבלו בחרם או בנידוי וזה דין אמת עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 208:9"
+        },
+        "10": {
+          "he": "שיגרשנה.  כתב הש\"ך ולפי מ\"ש בסימן רל\"ט ס\"ח בשם א\"ז דאין השבועה חלה משום דמתבטל ממצות פריה ורביה אפשר להקל כאן שא\"צ לגרשה גם מ\"ש רמ\"א דסגי בל' יום כבר כתבתי בס\"ק ח' דאין כן דעת הש\"ך ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 208:10"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

@@ -1,0 +1,2037 @@
+{
+  "chelek": "OC",
+  "siman": 318,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 19,
+  "fetchedAt": "2026-07-07T23:49:23.814Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין המבשל בשבת. ובו יט סעיפים:המבשל בשבת  [או שעשה א' משאר מלאכות] [טור] במזיד אסור לו לעולם ולאחרים מותר למ\"ש מיד ובשוגג אסור בו ביום גם לאחרים ולערב מותר גם לו מיד [ואם אמר לעכו\"ם לעשות מלאכה בשבת ע\"ל סי' ש\"ז סעיף כ']:",
+      "en": "1. One who cooks food on Shabbos [or performs any one of the other forbidden acts on Shabbos][Tur]; if done intentionally, the food is forbidden to eat forever, but other people are permitted to eat the food immediately after Shabbos. If done accidentally the food is forbidden to him during the day but may be eaten by everyone, including him, immediately after Shabbos. [If one ordered a non-Jew to perform a Melacha for oneself on Shabbos, see above Siman 307 se’if 20].",
+      "ref": "Shulchan Arukh, Orach Chayim 318:1"
+    },
+    {
+      "seif": 2,
+      "he": "השוחט בשבת לחולה בין שחלה מאתמול בין שחלה היום מותר הבריא לאכול ממנו חי (בשבת) אבל המבשל (או שעשה שאר מלאכה) לחולה אסור (בשבת) לבריא או לחולה שאין בו סכנה דחיישינן שמא ירבה בשבילו: הגה ואפי' בישל ע\"י עכו\"ם אסור בשבת (תוס' פ\"ק דגיטין ור\"נ פ' אין מעמידין) ואם קצץ פירות מן המחובר לחולה בשבת אפי' היה חולה מבעוד יום אסור לבריא בשבת משום שגדל והולך בשבת ויש בו משום מוקצה (ב\"י בשם אורחות חיים):",
+      "en": "2. A healthy person may eat raw meat (on Shabbos) from an animal slaughtered on Shabbos for the sake of a (critically) ill person, regardless of whether the person was ill before Shabbos or became ill on Shabbos. However, if one cooked food (or performed any other Melacha) for a (critically) ill person, it is forbidden (on Shabbos) for a healthy person or for an ill person (who is not critically ill) to eat that food, because we are afraid that additional food will be cooked for people other than the sick. RAMA: Even if a gentile cooked the food; it is forbidden to be eaten on Shabbos (by people other than the ill). (Tosefos, Ran). It is forbidden for a healthy person to eat fruit that was picked on Shabbos for the sake of the ill even if he was ill before Shabbos, because the fruit continues to grow on Shabbos and is Muktze. (Beis Yosef in the name of Orchot Chaim).",
+      "ref": "Shulchan Arukh, Orach Chayim 318:2"
+    },
+    {
+      "seif": 3,
+      "he": "כשם שאסור לבשל באור כך אסור לבשל בתולדות האור כגון ליתן ביצה בצד קדרה או לשברה על סודר שהוחם באור כדי שתצלה ואפילו בתולדות חמה כגון בסודר שהוחם בחמה אסור גזרה אטו תולדות האור וכן אסור להטמינה בחול או באבק דרכים שהוחמו מכח חמה אבל בחמה עצמה כגון ליתן ביצה בחמה או ליתן מים בחמה כדי שיוחמו מותר:",
+      "en": "3. Just as it is forbidden to cook with fire, it is forbidden to cook with Toldas ha’ur (translation: Items that were on the fire), for example: to roast an egg by placing it beside a pot (hot from the fire), or to crack an egg over a garment heated on the fire. It is even forbidden to cook with Toldas hachama (translation: Items that were heated from the sun), for example: a garment hot from the sun, for fear that one will cook with Toldas ha’ur. It is also forbidden to place (the egg) inside sand or dust heated by the sun, but it is permitted in the sun itself, for example: to heat an egg by placing it in the sun, or to heat water by placing it in the sun.",
+      "ref": "Shulchan Arukh, Orach Chayim 318:3"
+    },
+    {
+      "seif": 4,
+      "he": "תבשיל שנתבשל כל צרכו יש בו משום בישול אם נצטנן: הגה וי\"א דוקא אם מצטמק ויפה לו [רבי ירוחם ח\"ג] ואם לא נתבשל כל צרכו ואפי' נתבשל כמאכל בן דרוסאי שייך בו בישול אפי' בעודו רותח וה\"מ שיש בו בישול אחר בישול בתבשיל שיש בו מרק אבל דבר שנתבשל כבר והוא יבש מותר לשרותו בחמין בשבת ואם הוא דבר יבש שלא נתבשל מלפני השבת אין שורין אותו בחמין בשבת אבל מדיחים אותו בחמין בשבת חוץ מן המליח הישן ומן הדג שנקרא קולייס האספנין שאינם צריכים בישול אלא מעט והדחתן היא גמר מלאכתן: הגה וה\"ה כל דבר קשה שאינו ראוי לאכול כלל בלא שרייה דאסור לשרותו בשבת דהוי גמר מלאכה [הגהות מרדכי]:",
+      "en": "4. Food fully cooked which has cooled down may not be reheated because of the Melacha of Bishul (cooking).  RAMA some hold that this is only if the food is Mitztamek ve’yafe lo. [R' Yerucham]  Food not fully cooked, even if cooked to the degree of Ma’achal ben Derusa’i and even if the food is hot, is nevertheless forbidden to cook any further. The reheating that is forbidden, only applies to food with liquid, but a cooked food item that is a solid (has no liquid), may be immersed in hot water on Shabbos. A solid food item that has not been cooked before Shabbos, may not be immersed into hot water on Shabbos, but one may pour hot water over it on Shabbos, with the exception of aged salted food and a fish called “Kulias ha’ispanin”, which do not require much cooking, and by pouring water over them one completes the Melacha.  RAMA: This rule applies to all hard foods that cannot be eaten without first marinating them. Therefore one may not soak them (in hot water) on Shabbos, as it is a completion of a Melacha. [Ha'gahot Mordechai]",
+      "ref": "Shulchan Arukh, Orach Chayim 318:4"
+    },
+    {
+      "seif": 5,
+      "he": "יש מי שאומר דדבר שנאפה או נצלה אם בשלו אחר כך במשקה יש בו משום בישול ואסור ליתן פת [אפי'] בכלי שני שהיד סולדת בו ויש מתירין: הגה בכלי שני ויש מקילין אפי' בכלי ראשון ונהגו ליזהר לכתחילה שלא ליתן פת אפילו בכלי שני כל זמן שהיד סולדת בו:",
+      "en": "5. There is an opinion that an issur of Bishul (cooking) will be violated if a baked or roasted item is subsequently cooked in a liquid. It is therefore forbidden to put bread even in a Keli Sheini [liquid] that is Yad soledes bo. (However), there are opinions that permit it.  RAMA: (to be placed) into a Keli Sheini. There are those who are lenient and allow it to be placed even in a Keli Rishon. The accepted custom is to be careful not to put bread even in a Keli Sheini while it is Yad soledes bo.",
+      "ref": "Shulchan Arukh, Orach Chayim 318:5"
+    },
+    {
+      "seif": 6,
+      "he": "כלי שיש בו דבר חם שהיד סולדת בו מותר להניחו בשבת על גבי קדירה הטמונה כדי שישמור חומו ולא יצטנן ויכול לטוח פיו בבצק אם יש לו בצק שנלוש מאתמול אבל אין מניחין כלי שיש בו דבר שאינו חם כל כך על גבי קדירה שהיא חמה כל כך שהעליון יכול להתחמם מחומה עד שתהא היד סולדת בו:",
+      "en": "6. A vessel that has something warm in it, to the point of Yad Soledet Bo, is permitted to be placed on an insulated pot on Shabbos so that it maintains its warmth and does not become cold. You may seal it with dough, if you have dough which was kneaded the day before. But we may not place a vessel that has in it something that is not so warm on top of a pot that is slightly warm, because the top one may warm up from the heat until it is Yad Soledet Bo.",
+      "ref": "Shulchan Arukh, Orach Chayim 318:6"
+    },
+    {
+      "seif": 7,
+      "he": "יש מפרשים דהא דשרי להניח כלי שיש בו דבר חם על גבי קדירה הטמונה אפי' כלי התחתון על האש שרי ויש מפרשים שאם כלי התחתון על האש לעולם אסור:",
+      "en": "7. There are commentators that permit placing a vessel that has something hot inside it on an insulated pot even if the bottom vessel is on the fire. And there are commentators who say that if the bottom pot is on the fire, it is forbidden [to do so].",
+      "ref": "Shulchan Arukh, Orach Chayim 318:7"
+    },
+    {
+      "seif": 8,
+      "he": "להניח דבר קר שנתבשל כל צרכו על גבי מיחם שעל האש י\"א שדינו כמניחו כנגד המדורה וכל דבר שמותר להניחו כנגד המדורה במקום שהיד סולדת בו כגון שיבש מותר להניחו ע\"ג מיחם שעל גבי האש וי\"א דהוי כמניח על גבי כירה לכתחלה ואסור אפי' אם נתבשל כל צרכו ואפי' אם מצטמק ורע לו אפי' אם נותנו שם לשמור חומו וראשון נראה עיקר ומ\"מ אם הוא תבשיל שיש בו רוטב ומצטמק ויפה לו אסור לדברי הכל:",
+      "en": "8. There are those who say that to place something cold, that is cooked all the way, on a warm vessel that is on the fire - the law is the same as placing something next to the fire. And everything that is permitted to be placed next to the fire, in a place were it is Yad Soledet Bo, such as something dry, is permitted to be placed on top of something warm that is on the fire. There are those who say that if you place something on the Kirah initially it is forbidden, even if the food is cooked all the way and even if cooking it further will make the food worse; even if you placed it there to retain its heat and it seems to be your main purpose. In all cases, if it is a dish that has gravy and by cooking it further it will make the dish better, it is forbidden according to all.",
+      "ref": "Shulchan Arukh, Orach Chayim 318:8"
+    },
+    {
+      "seif": 9,
+      "he": "כלי ראשון (פי' הכלי שמשתמש בו על האש) אפי' לאחר שהעבירוהו מעל האש מבשל כל זמן שהיד סולדת בו לפיכך אסור ליתן לתוכו תבלין אבל מלח מותר ליתן לתוכו כיון שהעבירו מעל האש דצריכא מילחא בישולא כבישרא דתורא ויש מי שאוסר לתת לתוך כלי זה בשר מליח אפי' הוא של שור: הגה ונ\"ל דבלא מליח נמי אסור אלא דנקט מליח דבלאו הכי אסור משום דם שבו ויש אוסרים לתת מלח אפי' בכלי שני כל זמן שהיד סולדת בו והמחמיר תבא עליו ברכה: (תוס' ומרדכי פרק כירה) ואם עבר ונתן מלח אפי' בכלי ראשון אפי' הוא על האש שעבד איסורא מותר המאכל דהמלח בטל על גבי המאכל (ב\"י בשם שבולי הלקט):",
+      "en": "9. A Keli Rishon (the cooking vessel one uses on the fire) has the ability to cook even after having been removed from the fire, as long as it is Yad soledes bo, therefore, it is forbidden to add spices to it. However salt may be added once it has been removed from the fire, as salt requires cooking as much as beef. There is an opinion that forbids placing salted meat into this keli even if it is beef.  RAMA: It appears to me that even unsalted meat is assur (to place in a Keli Rishon) but he mentioned salted meat because otherwise it is forbidden due to blood within. There are those who hold that it is forbidden to put salt even into a Keli Sheini as long as it is Yad soledes bo, and one who is stringent shall be blessed. (Tosefos; Mordechai Perek Kirah) If one deliberately transgressed and put salt into a Keli Rishon, even if it is on the fire, the food may be eaten because the salt is batel (nulified) by the food. (Beis Yosef in the name of Shibulei HaLeket)",
+      "ref": "Shulchan Arukh, Orach Chayim 318:9"
+    },
+    {
+      "seif": 10,
+      "he": "אסור ליתן תבלין בקערה ולערות עליהם מכלי ראשון:",
+      "en": "10. It is forbidden to place spices into a plate and pour hot water over them from a Keli Rishon.",
+      "ref": "Shulchan Arukh, Orach Chayim 318:10"
+    },
+    {
+      "seif": 11,
+      "he": "אמבטי [פי' כלי שרוחץ בו] של מרחץ שהיא מלאה מים חמין [אע\"פ שהוא כלי שני] [תוס' והרא\"ש וטור] אין נותנין לה מים צונן שהרי מחממין הרבה אבל נותן הוא ממים חמין שבזה האמבטי לתוך אמבטי אחר של צונן:",
+      "en": "11. The bathtub of a bathhouse, which is full of hot water (even though it is a Keli Sheini) [Tosefos, the Rosh and the Tur] one may not add into it cold water because its waters are extremely hot. However, one may pour hot water from this tub into another tub containing cold water.",
+      "ref": "Shulchan Arukh, Orach Chayim 318:11"
+    },
+    {
+      "seif": 12,
+      "he": "מיחם שפינה ממנו מים חמין מותר ליתן לתוכו מים צונן [מרובים] כדי להפשירן ומותר לצוק מים חמין לתוך מים צונן או צונן לתוך חמין והוא שלא יהיו בכלי ראשון מפני שמחממין הרבה: הגה ואם המים מרובים כל כך שאי אפשר שיתבשלו רק שיפיגו צינתן אפי' בכלי ראשון שרי רק שלא יהיה על האש [טור]:",
+      "en": "12. A hot water urn that has been emptied may have (a large amount of) cold water poured into it in order to warm the water. It is permissible to pour hot water into cold water or to pour cold water into hot water as long as they are not in a Keli Rishon as the water there is very hot. RAMA: If there is a large amount of water (being poured into the hot) to the extent that the water will not get cooked, instead the water will merely lose its chill, and it is permitted (to do so) even into a Keli Rishon as long as it is not on the fire. [Tur]",
+      "ref": "Shulchan Arukh, Orach Chayim 318:12"
+    },
+    {
+      "seif": 13,
+      "he": "מותר ליתן קיתון של מים או של שאר משקים בכלי שני שיש בו מים חמין אבל בכלי ראשון אסור:",
+      "en": "13. One is permitted to place a container of water or other liquids into hot water which is in a Keli Sheini but it is forbidden when it is in a Keli Rishon.",
+      "ref": "Shulchan Arukh, Orach Chayim 318:13"
+    },
+    {
+      "seif": 14,
+      "he": "מותר ליתן קיתון של מים או של שאר משקים כנגד האש להפיג צינתן ובלבד שיתנם רחוק מהאש בענין שאינו יכול להתחמם באותו מקום עד שתהא היד סולדת [פירוש מתחממת ונכוית] בו דהיינו שכריסו של תינוק נכוית בו אבל אסור לקרבו אל האש למקום שיכול להתחמם שתהא היד סולדת בו ואפי' להניח בו שעה קטנה שתפיג צנתן אסור כיון שיכול להתבשל שם: הגה וה\"ה בפירות או שאר דברים הנאכלין כמות שהן חיין (מרדכי פ' כירה וע\"ל סי' רנ\"ד):",
+      "en": "14. One is permitted to place a container of water or other liquids next to a fire in order to remove the chill, as long as the container is distanced from the fire in such a way that it will not reach Yad soledes bo, the degree that would scorch a baby’s stomach. However, it is forbidden to place it so close to the fire where it could become Yad soledes bo even when he one intends to leave it there only for a short while, since it can become cooked there. RAMA: The same rule applies to fruit or other food items which can be eaten raw. (Mordechai, Perek Kirah and see above Siman 254).",
+      "ref": "Shulchan Arukh, Orach Chayim 318:14"
+    },
+    {
+      "seif": 15,
+      "he": "דבר שנתבשל כל צרכו והוא יבש שאין בו מרק מותר להניחו כנגד המדורה אפילו במקום שהיד סולדת בו: הגה ואפי' נצטנן כבר אבל אם הוא רותח אפי' בדבר שיש בו מרק מותר ויש מקילין לומר דכל שאינו נותנו על גבי האש או הכירה ממש רק סמוך לו אפילו נצטנן מותר [המגיד פכ\"ב] ונהגו להקל בזה אם לא נצטנן לגמרי וכמו שכתבתי לעיל סי' רנ\"ג:",
+      "en": "15. One is permitted to place fully cooked dry food, with no liquid, near a fire, even in a place that is Yad soledes bo, RAMA: even if it is now cold, but if it is hot, even if liquid is present it is permitted. Some authorities are lenient and say that even if the food has cooled down it is permitted to place next to fire, as long as it is not placed above a fire or Kirah. (HaMagid, Perek 22). The custom in this matter is to be lenient as long as it has not completely cooled down, as I have written in Siman 253.",
+      "ref": "Shulchan Arukh, Orach Chayim 318:15"
+    },
+    {
+      "seif": 16,
+      "he": "מותר ליתן אינפאנדה כנגד האש במקום שהיד סולדת ואף ע\"פ שהשומן שבה שנקרש חוזר ונימוח: הגה וכל שכן קדירה שיש בו רוטב שנקרש שכשהשומן נימוח אינו בעין דשרי (ר' ירוחם ח\"ג) ויש מחמירין (ר\"ן פרק במה טומנין) ונהגו להחמיר מיהו במקום צורך יש לסמוך אסברא ראשונה:",
+      "en": "16. It is permitted to place an Empanada [this is a type of layered bread with slivers of fat within] close to fire in a  place that is Yad soledes bo even though the congealed fat within will melt.  RAMA: all the more so a pot that has congealed gravy inside [may be heated], for when the fat melts it is unnoticeable. (Rabbeinu Yerucham). Some authorities are stringent (R\"an, Perek Bameh Tomnin), and that is the custom. However, when necessary one may rely on the first opinion.",
+      "ref": "Shulchan Arukh, Orach Chayim 318:16"
+    },
+    {
+      "seif": 17,
+      "he": "אסור ליתן צונן (על המיחם) אפי' להפשיר כל שהמיחם חם כל כך שאלו היה מניחו שם הרבה היה בא לידי בישול דהיינו שיהיה היד סולדת בו שדין מניח על גבי מיחם כדין מניח כנגד המדורה ואם אינו חם כל כך מותר:",
+      "en": "17. It is forbidden to place a cold food item (above a hot urn) even for the sake of warming, if the urn is hot to the point that if the food would be left there it would cook, which is the degree of Yad soledes bo. The rule of placing (food) above a hot urn is comparable to the rules of placing (food) near a fire. If the urn is not so hot, it is permissible.",
+      "ref": "Shulchan Arukh, Orach Chayim 318:17"
+    },
+    {
+      "seif": 18,
+      "he": "האלפס והקדירה שהעבירן רותחין מעל גבי האור אם לא נתבשל כל צרכו אין מוציאין בכף מהם שנמצא מגיס ואיכא משום מבשל ואם נתבשל כל צרכו מותר אבל צמר ליורה אע\"פ שקלט העין אסור להגיס בו [פי' לנענע אותו בכף]: הגה ולכתחילה יש ליזהר אף בקדירה בכל ענין: [פסקי מהרי\"ו]:",
+      "en": "18. One may not spoon food from a cooking utensil or pot removed hot from the fire if the food is not fully cooked, because it is stirring. But if fully cooked it is permitted. However, wool in a dying tub (also hot), even if the wool is already dyed, is forbidden to stir (i.e. to stir with a spoon). RAMA: Initially one should be careful (not to spoon food) even from a pot of food in all circumstances. [Piskei Mahar”i Weil, known as the Mahariv]",
+      "ref": "Shulchan Arukh, Orach Chayim 318:18"
+    },
+    {
+      "seif": 19,
+      "he": "אסור לטוח שמן ושום על הצלי בעודו כנגד המדורה אפילו נצלה הצלי מבעוד יום דמכל מקום יתבשל השום והשמן:",
+      "en": "19. It is forbidden to baste a roast with oil or garlic while near a fire, even if it was roasted before Shabbos, because the garlic and oil will cook.",
+      "ref": "Shulchan Arukh, Orach Chayim 318:19"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "חולין ט\"ו וכתובות ל\"ד ובבא קמא ע\"א וכרבי יהודה הרי\"ף והגאון ורמב\"ם בפרק ו' והרא\"ש וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:1"
+        },
+        "2": {
+          "he": "חולין ט\"ו וכרב דימי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:2"
+        },
+        "3": {
+          "he": "שבת צ\"ח במשנה כתנא קמא דרבי יוסי הרי\"ף ורמב\"ם פרק ט'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:3"
+        },
+        "4": {
+          "he": "שם ל\"ט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:4"
+        },
+        "5": {
+          "he": "שם קמ\"ו במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:5"
+        },
+        "6": {
+          "he": "טור ורא\"ש מדברי רש\"י בפירש\"י שמא ירתיח ל\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:6"
+        },
+        "7": {
+          "he": "לדעת הטור וכן משמע מדברי רמב\"ם בפרק ט'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:7"
+        },
+        "8": {
+          "he": "שם קמ\"ה במשנה ומפרש לה בגמרא כגון תרנגולתא דרבי אבהו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:8"
+        },
+        "9": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:9"
+        },
+        "10": {
+          "he": "טור בשם ר' אליעזר ממיץ וסמ\"ג מהא דקיימ' לן שאין יוצאין במבושל אחר אפייה בפסחים מ\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:10"
+        },
+        "11": {
+          "he": "מרדכי בפרק ג' דשבת בשם ראבי\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:11"
+        },
+        "12": {
+          "he": "שבת נ\"א בבריייתא ורמב\"ם ברפ\"ד מה\"ש וכפי שפירשו הרב המגיד שם והביאו הב\"י בסי' רנג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:12"
+        },
+        "13": {
+          "he": "ר\"י בה\"ג הביא לשני הדיעות ולא הכריע",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:13"
+        },
+        "14": {
+          "he": "שם בשם הגדולים שכ\"כ הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:14"
+        },
+        "15": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:15"
+        },
+        "16": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:16"
+        },
+        "17": {
+          "he": "שבת מ\"ב במשנה ובגמרא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:17"
+        },
+        "18": {
+          "he": "שם בגמרא וכלישנא בתרא הרי\"ף ורא\"ש והרמב\"ם בפרק כב והתוס'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:18"
+        },
+        "19": {
+          "he": "טור התוס' כתבו המחמיר תבוא עליו ברכה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:19"
+        },
+        "20": {
+          "he": "ר\"ת וכן נוטין דברי הרא\"ש וכן דעת ה\"ה בפרק כב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:20"
+        },
+        "21": {
+          "he": "שבת מ\"ב ברייתא וכתבו רמב\"ם בפרק כב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:21"
+        },
+        "22": {
+          "he": "שם מ\"א במשנה ובגמ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:22"
+        },
+        "23": {
+          "he": "שם בתוס'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:23"
+        },
+        "24": {
+          "he": "שבת מ' בעובדא דרבי יצחק בר אבדימי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:24"
+        },
+        "25": {
+          "he": "שם מ' בברייתא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:25"
+        },
+        "26": {
+          "he": "שם בגמ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:26"
+        },
+        "27": {
+          "he": "הר\"ן שם בשם הירושלמי ובשם ר\"י ושאר פוסקים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:27"
+        },
+        "28": {
+          "he": "בהסכמת כל הפוסקים אפי' המחמירים בדבר שיש בו מרק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:28"
+        },
+        "29": {
+          "he": "רמב\"ם וסמ\"ג וסמ\"ק ורבי' ירוחם וכ\"כ ה\"ה בפרק כ\"א לדעת הרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:29"
+        },
+        "30": {
+          "he": "תו' בשבת מ\"ח עובדא דרבה ורבי זירא בבי ריש גלותא והר\"ן שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:30"
+        },
+        "31": {
+          "he": "הר\"ן בפ\"ק דשבת י\"ח אוקימתא דיורה עקורה וטוח'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:31"
+        },
+        "32": {
+          "he": "כל בו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 318:32"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "אסור עמ״א וכ״כ ע״ש בשם הרשב״א קע״ה ועי״ד סקי״ג סי״ו ומשמע לכאורה ה״ה כאן מהני הגעלה עכ״פ דלית ביה עיקר מ״ה עמ״ש בפריי שם. ומיהו צריך ששים נגד הבלוע דחמור מבישולי עכו״ם עי״ד סי׳ קי״ג מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:1"
+        },
+        "2": {
+          "he": "למ״ש מיד עמ״א עט״ז א׳ דהמחבר בתקט״ו ס״א משמע דסובר הטעם שלא יהנה כרש״י מדאוסר לכל ישראל ומתיר בליל שני עמ״א שם אות גד״ה אפ״ה ע״י ישראל ל״ש ולא גזרו רבנן שלא יהנה תוס׳ חולין ט״ו ד״ה מורי כו׳ יע״ש. וע״י עכו״ם חמור יותר דצריך כדי שיעשו למ״ש. ומיהו אם בישל עכו״ם מים בשבת ונצטנן דלא נהנה כלל ממלאכת שבת י״ל דא״צ למ״ש כדי שיעשו שאף לטעם שלא יאמר לו דהא שותה צונן אבל בו ביום אסור לכ״ע דאיתעביד איסורא עסי׳ רנ״ג מזה: ומ״ש דאם מ״ש י״ט אסור משום הכנה כל י״ט עסי׳ תק״ז מגן אברהם אות ד׳ וט״ז ג׳ אם הוי הכנה מן התורה כה״ג וע׳ תוס׳ ריש ביצה ע״ב ד״ה והיה ונ״מ טובא לענין להוסיף בדרבנן עי״ד צ״ט בזה. ובתקי״ג שבת וי״ט הסמוכים ונולדה כו׳ ה״ה כאן. ואף בישל לחולה בשבת ומ״ש י״ט אסור לבריא י״ט ראשון דהכנה הוי עמ״א תקי״ג ח׳. ודוקא דבר שאין נאכל כמות שהוא חי ובישל תפוחים צ״ע ומים חמין הוחמו בשבת אם נצטננו למ״ש י״ט ודאי ל״ש הכנה. ע׳ מ״ש בסמוך אי״ה. ומ״ש בי״ד כו׳ כ״כ הש״ך שם אות ט״ו דיצוייר במזיד ולא ביאר כי י״ל בג׳ אנפי א׳ נתערב בשבת שמותר בו ביום לבשל ע״ז אמר דמיא לביכורים אע״פ שעדיין ביד ישראל חשיב דשיל״מ הואיל ולכהן דשיל״מ. הפן הב׳ נתערב בשבת אי שרי למ״ש לבעלים הג׳ שנתערב דוקא למ״ש דלא חל כלל שום דשיל״מ מעולם עמ״ש בפריי לי״ד שם והנה במ״ש י״ט ואם ימתין עד מי״ט יתקלקל המאכל י״ל אף בשוגג בו ביום מותר בביטול וכ״ת דימתין עד מ״ש י״ט דבשבת יש ב׳ איסורים נהנה ממלאכת שבת וקנסא ולמ״ש אזיל איסור נהנה בכ״ש ונשאר רק קנסא כעין מ״ש הצ״צ הביאותיו בפריי לי״ד ביצת טריפה בי״ט דמ״מ דשיל״מ דחד איסורא אזיל הא בורכא ל״מ למ״ד הכנה כזו ד״ת א״כ אדרבה אם ימתין יהיה יותר איסור חמור ואף אם דרבנן מ״מ אין מרויח כלום ועדיין צ״ע. ומ״ש למי שנתבשל בשבילו י״ל דשרי דבי״ד צ״ט בב״י ב׳ תירוצים א׳ דאמר לישראל לבשל דלא משמע לאינשי איסורא ב׳ ע״י עכו״ם וכאן ל״ש ב׳ תירוצים דאף דרבנן זהירי ולא ישמע ישראל וע״י עכו״ם אין מרויח דימתין כ״ש. עמ״ש אות ז׳ אי״ה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:2"
+        },
+        "3": {
+          "he": "ובשוגג עמ״א שוכח משמע שוגג וצ״ע. אונס חמור משוגג א״ר אות ה׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:3"
+        },
+        "4": {
+          "he": "שאלה עמ״א עב״י עוד טעם מחובר מדלא לקמן דחינהו בידים משא״כ שוחט לא איתרמי ליה סכין יפה משא״כ מחובר אף פירות דעכו״ם אמרינן דהוה מוקצה מדלא ציוה לעכו״ם ללקוט מבע״י עב״י מזה עט״ז ב׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:4"
+        },
+        "5": {
+          "he": "חי עמ״א דאסור למלוח בשבת והדחה בעי משום דם בעין ומותר להדיח בשבת כיון שרוצה לאכול עתה מיד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:5"
+        },
+        "6": {
+          "he": "שמא עמ״א ממרוצת לשונו משמע דאף למ״ד דרבנן אפ״ה איכא למגזר שמא ירבה בשבילו ולפ״ז אף בעשה מלאכה דרבנן לחולה שאין סכנה אסור לבריא שמא ירבה שהרי הר״ב אומר כן בהג״ה בישל ע״י עכו״ם אסור לבריא ע׳ ע״ש דלא כרשב״א שכתב דבדרבנן הוי גזירה לגזירה ומירי י״ל בעכו״ם דאיסור אמירה קיל טפי יש לגזור אף בדרבנן שמא ירבה בשבילו כו׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:6"
+        },
+        "7": {
+          "he": "ואפילו עמ״א בשם ש״ך דל״ת דוקא בישראל לחולה לא בעי כ״ש כמ״ש הרשב״א הביאו הב״י אף לרש״י דל״ש שיהנה ממלאכת שבת בהיתר נעשה ושמא יאמר לו פ״א ישראל לא יעשה משא״כ ע״י עכו״ם יש חששא דקל בעיניו כבאות ב׳ קמ״ל דא״צ כ״ש כל שהעשיה היה בהיתר ואף לחולה שאין סכנה. עי״ד קי״ג ט״ז ט״ו והנה מתוס׳ גיטין ראיה דבש״ע לית כה״ג י״ל בדבר שאין עעש״מ או נאכל חי. שוב ראיתי מתוס׳ אין ראיה כלל דבגיטין דף ח׳ ב׳ ד״ה אע״ג כתבו דע״י עכו״ם אסור להרבות היינו להחם חמין יע״ש. ואני תמה ממה שנרשם בש״ע בהג״ה תוס׳ פ״ק דגיטין שם לענין להרבות וכ״ה בב״י אבל בר״ן מוכח שפיר דשבת אסור עב״י בזה עט״ז ב׳ מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:7"
+        },
+        "8": {
+          "he": "משום עמ״א ושמא ירבה בשבילו בקצירה בעוקץ א׳ אם נאמר דמודה הר״ב בדרבנן דשרי י״ל זה דרבנן עט״ז ב׳ ומ״א ז׳. ומ״ש הגדל בטל ברוב דלא ניכר מעולם ל״ש דשיל״מ דומיא דגיגית בסי׳ ש״ך יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:8"
+        },
+        "9": {
+          "he": "שאסור עמ״א ודינו כבס״ה ותולדות חמה וחמי טבריא עסי׳ שכ״ו כחמין שהוחמו בשבת משמע דינו כמבשל בתולדות אור:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:9"
+        },
+        "10": {
+          "he": "להטמינה עמ״א שבת ל״ט א׳ ומשנה שם בשביל שתצל״ה וכ״ה בטור ולרבה משום הטמנה קשה דאפילו נתבשל כ״צ נמי אסור עסי׳ רנ״ז מזה ובש״ע השמיט שתצלה ובר״מ פ״ט לא כתב להטמינה דע״ג חול נמי אסור כרבנן דרבי יוסי דאטו תולדות אור. ודברי הרא״ש דכתב לרבה אסור מבע״י מדין הטמנה אליבא דרבי יוסי הוא. וע״ג חול דאסור הוא לרב יוסף אליבא דרבי יוסי ולרבא שרי ע״ג חול דהטמנה אסור אפילו נתבשל כ״צ כבסי׳ רנ״ז כרבה וע״ז כתב המ״א דכ״ז לר׳ יוסי אבל לרבנן ע״ג חול אסור אטו תולדות אור והטמנה ל״ד אלא מגולה מכל צד וקצת הטמינה ועיקר האיסור משום שתצלה אטו תולדות אור אע״ג דרואה שהוחם בחמה גזור אבל גג הוחם באור י״ל דלא גזור כמו חמה עצמה ומ״מ יש להחמיר כנ״ל פירוש דברי הב״ח ומ״א ועדיין צ״ע. וע׳ לבוש כתב בחול משום הך גזירה וכ״ה כוונת המחבר והטמנה ל״ד כאמור. ומ״ש המ״א בשם הר״ם ור״א ז״ל פ״ט ״ה בשבת והשגת הר״א בהרמ״ך הובא בכ״מ שם דסובר כמאב״ד בשבת כבישל כ״צ הוי וי״א שאין חייב בו שוב משום בישול ועמ״מ שם ה״נ ודברי ר׳ יוחנן במנחות דלאו הלכתא הוא דכמאב״ד מבושל גמור הוי לענין שבת בין להקל ולהחמיר ועא״ר כתב דהר״א בא לשלול דברי רש״י וצ״ע דודאי כוונתו להשיג על הר״מ ז״ל יע״ש. ולדידן אין נ״מ דמשמע אף בישול דרבנן אסור בשוגג בו ביום לא לעולם. וכל שיש ספק פלוגתא אם הוי בישול או לאו בזה ספק דרבנן לקולא. ומ״ש המ״א בר״מ פ״ט ה״ו ופי״ב ה״א הקשה על המ״מ ועלח״מ שם יישב כוונת המ״מ דהר״מ סובר כל שמעביר גחלת ממש חייב שתים מבשל ומעביר ולהר״א רק מבשל והמ״א סובר די״ל בין ע״ד שתעשה גחלת ולא עד בכלל וכוונתו לרפה גוף קשה (ט״ס שריפ״ת וצ״ל שריפה) ומ״א גרס עד שנעשה גחלת וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:10"
+        },
+        "11": {
+          "he": "יש עמ״א בססי׳ רנ״ג בהג״א דכל שיש בו משום בישול אסור בכל ענין ואף בשלו ע״י עכו״ם אסור כבס״א:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:11"
+        },
+        "12": {
+          "he": "ועמ״א בכ״ר כ״ז שיס״ב אין בישול אחר בישול ואין יס״ב אף בכ״ר יש בישול אחר בישול אם מחמם אח״כ שיס״ב ואם הורק לכ״ש אף יס״ב י״ל דיש בישול אם מניחו אח״כ בכ״ר וכדומה עסי׳ רנ״ג ואי״ה בט״ז אות ג׳ יבואר בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:12"
+        },
+        "13": {
+          "he": "וי״א עמ״א ובאות כ״ז י״ל דהמחבר קאמר שם מצטמק ויפה אסור לד״ה הא מור׳ל תליא בפלוגתא ומ״מ כאן פסק בסתם להחמיר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:13"
+        },
+        "14": {
+          "he": "מותר עמ״א השיג על הב״ח במ״ש מהגמ״ר מסופק אי מבושל כ״צ שורין בכ״ר ותליא בסברת ר״ת דכל שלא בא מדיחין מכ״ש ממילא כל שבא בכלי שני שורין וא״כ המחבר דפסק כר״ת בי״ד עירוי ככ״ר ממילא הכין הוא ולא ביאר בש״ע זה צ״ע הא בסט״ו מבואר בפירוש מבושל לגמרי מותר נגד המדורה דאין בישול אחר בישול וכ״ה בתוס׳ שבת ל״ט א׳ ד״ה כל בכ״ר משמע אף לפיר״ת והגמ׳ י״ל דספק דידיה כל שב״א מחמין לא נתבשל על האש ב״א בא בכ״ר שהוסר מאש בדברים שנגמר בישולן בכך או מלוחים או בלא מלוח שקלים בטבע להתבשל לגמרי בכ״ר שהוסר מאש איכא לספוקי א׳ שורין בכ״ר או רק בכ״ש לפיר״ת דומיא דמדיחין וכן מטין דברי הר״מ ז״ל פ״ט מה״ש ה״ג ופכ״ב ה״ח שלא יסתרו זה לזה ועב״י וד״מ פרישה ולמ״ש א״ש דודאי דבר שאין דרכו להתבשל לגמרי בכ״ר שהוסר מאש פשיטא דאסור להשים אחר כך בכלי ראשון שהוסר מאש דכמאב״ד דמי וגרע מיניה רק דבר שדרכו וטבעו קל להגמר בישולו בכ״ר אז שרי ליתן אח״כ דאין בישול אחר בישול ומ״ש ומשמע מש״ע כו׳ וטוב להחמיר אפשר כה״ג כדכתיבנא דאל״כ חיובי מחייב וכדכתיבנא: אם מותר לערות חמי טבריא מכ״ר (שהוחם במעיין) על דבר שאין מבושל לכאורה עירוי ספק הוי אי מבשל לא ודאי א״כ הוי ספק לקולא. וי״ל דאין זה ספק עמ״ש בפריי לי״ד בס״ח וק״ה מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:14"
+        },
+        "15": {
+          "he": "מדיחין עמ״א תוס׳ שבת ל״ט א׳ ד״ה כל ב׳ תירוצים ואין דרך הפוסק לומר משום סיפא דקולייס האספנין ש״מ דוקא מדיחין מכ״ש ע״י עירוי הא שורין לא ומכ״ש עירוי אסור דבי״ד פסק עירוי ככ״ר ומבשל כ״ק והיינו עירוי שלא נפסק הקילוח אבל נפסק הקילוח אין מבשל כ״א מפליט ומבליע כ״ק עי״ד סי׳ ק״ה בש״ך אות ה׳ וע׳ מה שכתב בפריי שם ובצל כתבלין הא בכ״ר מבשל מ״ה וחולק אט״ז ח׳ דאוסר בצל בכ״ש יע״ש וכ״כ א״ר י״ח דלא כתו״ש. ע׳ תוס׳ שבת ל״ט א׳ (ט״ס ל״ח) ואף בנפסק הקילוח י״ל דשרי בכ״ר מ״מ מדנקיט סתמא מדיחין ומשמע דבא לשלול שורין והא מדיחין בלא נפסק נמי אסיר ש״מ בב״ש איירי ועתו״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:15"
+        },
+        "16": {
+          "he": "כל עמ״א הנה המעיין בב״י בשם פרדס וכמ״ש הפרישה הביאו א״ר י״ד וט״ו משמע דכל מלוח שנגמר בישולו ע״י הדחת חמין דמבשל הוא וחייב משום מבשל אף בכ״ש וכל שאין החמין פועל בישול רק דא״א לאכול כלל מחמת מלחו אם לא בחמין חייב משום מכה בפטיש וזה כוונת המ״א דקולייס הוא גמר בישולו ואין נאכל מחמת מלחו הוי מכה בפטיש וא״י מה איריא חמין אף צונן נמי יהא גמר מלאכה ול״ד להדחת כוסות דמ״מ ראוי ע״י הדחק ומי שאין איסטניס לאכול כך:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:16"
+        },
+        "17": {
+          "he": "משום עמ״א ובשלו ואח״כ צלאו חייב בפסח אע״ג דמבטל ליה לאו לגמרי והוספה הוא ומחייב בתרווייהו ע׳ פסחים מ״א א׳ לר״כ ובר״מ פ״ח מה׳ ק״פ יע״ש. ומותר לשרות:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:17"
+        },
+        "18": {
+          "he": "אפי׳ עמ״א עס״ט מלח הגס יש מחמירין בכ״ש ומלח שלנו אין בישול אחר בישול עמ״א שם אות ל״א ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:18"
+        },
+        "19": {
+          "he": "מתירין עמ״א תדקדק בדברי האדון ז״ל כי באות ס״ו כתב כחי׳ של תוס׳ דמשמע ליה דוחק איידי דסיפא בדברי הפוסק ואמנם הטור כ״כ מדיחין ובהכרח איירי מדכתב אהרא״ם וא״י למה אסרו בכ״ש ולתירוץ א׳ של תוס׳ דמיחזי כמבשל ש״מ דסובר כתי׳ הב׳ ובכ״ש שרי לשרות דבר חי ממש אבל המחבר שכתב כאן ויש מתירין משמע אף כ״ר והוא הראבי״ה בב״י כמו שציין באר הגולה אות ך׳ מרדכי בשם ראבי״ה ולא הביא ב׳ ויש מתירין א׳ הטור בכ״ש ויש מתירין בכ״ר הראבי׳ ש״מ דהמחבר סובר כתי׳ א׳ לחומרא דבכ״ש מיחזי ודוחק איידי והשמיט לגמרי דעת הטור רק יש מתירין בפת בכ״ר שאין בישול אחר אפיה הא חי ממש ודאי יש לאסור אף בכ״ש וז״ש האדון ז״ל וכ״מ דעת הש״ע היינו דחוזר אמ״ש כתי׳ א׳ של תוס׳ ויש להחמיר משום זה ועתו״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:19"
+        },
+        "20": {
+          "he": "אפי׳ עמ״א דלח אף בישול אחר בישול יש בנצטנן כבסי״ד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:20"
+        },
+        "21": {
+          "he": "שהיס״ב עמ״א ולערות מכ״ר רוטב על פת עיין ע״ש. והנה המחבר משמע דפסק כדיעה א׳ בסתם והר״ב שכתב ונהגו היינו בכ״ש אבל בכ״ר אפשר מדינא דיש בישול אחד אפיה ועירוי הוי ס״ס עט״ז אות י״ו ומ״מ כתבנו בפריי לי״ד דאין נחשב לס״ס גמור והבן זה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:21"
+        },
+        "22": {
+          "he": "בבצק עמ״א סובר בצק אין זה מירוח דלא כט״ז אות י׳ וע׳ שי״ו במ״א אות כ״ד. ומוקצה י״ל דצריך הבצק לתרנגולים ע׳ סי׳ ש״ח סכ״ב ועתו״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:22"
+        },
+        "23": {
+          "he": "אין עמ״א מטעם בישול בלח אסור אם נצטנן שאין יס״ב תו הוי בישול כבס״ד ויבש שרי אפילו נצטנן לגמרי כמו נגד המדורה בסט״ו ועט״ז אות ט׳ ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:23"
+        },
+        "24": {
+          "he": "לעולם עמ״א הנה כירה גרופה חזרה שרי ולכתחלה להניח אסור כבסי׳ רנ״ג ס״ב וע״ג אש ממש אף חזרה אסור דנראה כמבשל בשבת וכאן קדירה מפסקת באין על אש עדיף מגרופה ובעל הא״ש י״א דהוי ככירה גרופה וחזרה שרי ולהניח אסור וי״א דעל אש נמי עדיף מגרופה דהוי כנגד המדורה דאית היכרא ה״ה כאן וערנ״ג ס״ב דאם משחשיכה הוי חזרה ה״ה כאן ע׳ אות כ״ו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:24"
+        },
+        "25": {
+          "he": "כמניח עמ״א דהוי כגרופה ואסור לכתחלה כבאות כ״ד ואי״ה באות כ״ו יבואר עוד מזה יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:25"
+        },
+        "26": {
+          "he": "וראשון עמ״א הקשה למה בס״ח הכריע וס״ז לא הכריע וגם ברנ״ג ס״ה (ט״ס לכאורה ס״ג עתו״ש) הביא לשון הר״ן פנאדרי״ש משמע לכאורה גם באין גרופה עדיף מגרופה הואיל והקדירה מפסקת וע״ז פי׳ דצלי כלומר יבש דלית גזירה אטו קר בזה הכריע דאע״ג ע״ג אש הואיל וקדירה מפסקת עדיף מגרופה ומותר להניח לכתחלה בשבת משא״כ בס״ז לח דיש גזירה אטו צונן דיש בישול מ״ה להמחבר בס״ד בע״ג אם יש ב׳ גזירות אטו צונן ושמא יחתה לא הכריע ועתו״ש ומש״ה הביא המחבר ס״ז וס״ח לכאורה א׳ הוא ולמ״ש המ״א א״ש דבס״ז לא הכריע בלח וביבש הכריע כאמור וע׳ לבוש בס״ז כתב י״א כמעמידו על האש ממש ואף חזרה אסור והטעם דבלח יש חשש אטו צונן ויבוא לידי בישול ובס״ח כתב דהוי כמניח ע״ג כירה ביבש וחולק עם המ״א בס״ז אף חזרה אסור ע׳ אות כ״ד מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:26"
+        },
+        "27": {
+          "he": "ומצטמק עמ״א הקשה דברי המחבר אהדדי דבס״ד השמיט דברי רי״ו וכאן הביאו המחבר כתב בס״ח ביבש כמו צלי הכריע ובלח חם יס״ב לא הכריע ובלח צונן כ״ע מודים ליכא למימר כ״ע אף רי״ו דא״כ אכתי יש מחלוקת הר״מ ור״ן סוברים דלח צונן מוי״ל נמי ליכא בישול אחר בישול וע״כ דברי הכל מה דהביא בש״ע א״כ שפיר קשה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:27"
+        },
+        "28": {
+          "he": "וכ״ז שהיס״ב עמ״א והיינו עומד על האש הא העביר מאש באין יס״ב שרי עי״ד צ״ד בט״ז א׳ וכ״מ משנה מרותחין עכ״פ יס״ב עט״ז וא״צ אצל האש בלא״ה אסור עסי׳ רנ״ג ולקמן סט״ו בזה י״ל רחוק מהמדורה ואין בו בישול:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:28"
+        },
+        "29": {
+          "he": "של שור עמ״א דהר״ב בהג״ה דנקיט אהמחבר קאי (עט״ז י״ב) דהטור בודאי סובר כן דלא הזכיר מלוח כלל עמ״ש אי״ה באות שאח״ז:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:29"
+        },
+        "30": {
+          "he": "דם עמ״א ובי״ד מלת מבש״ל בכ״ש י״ל מפליט ומבליע מיהו י״ל לשיטתיה מבשל ממש ונ״מ בב״ח והרא״ש שכתב נמלח מחדש והודח אפ״ה הלחלוחית בכ״ר הא עדיין מלח עליו אף בכ״ש מבשל כה״ג:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:30"
+        },
+        "31": {
+          "he": "דהמלח עמ״א בב״י בשם רבינו שמחה וע״כ על האש דבהעביר שרי ליתן לכתחלה עמ״ש בט״ז י״ב ובמלח שלנו אין בישול אחר בישול נגד המדורה דע״ג אש אסור מדרבנן א״נ בהעביר מאש ומלחא בבישרא דתורא במלח שחופרין אבל שלנו י״ל מבשל בכ״ר שהעביר מאש רק דאין בישול אחר בישול ועד״מ כ״כ:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:31"
+        },
+        "32": {
+          "he": "אסור עמ״א תוס׳ שבת מ״ב ב׳ ד״ה אבל דעירוי שלא נפסק קילוח מבשל ונפסק רק מפליט ומבליע ובי״ד סס״ח ביארנו דיני כ״ר ועירוי וכ״ש והנה למ״ש באות ט״ו דהמחבר כתי׳ א׳ בתוס׳ שם דבכ״ש חי אסור דמיחזי כמבשל א״ש דנקיט כאן לערות אתבלין וכ״ה במשנה הא שאר בשר וכדומה אף בכ״ש שיס״ב אסור דמיחזי כמבשל והא דסי״א אמבטי בכ״ש שמחממן הרבה לק״מ דמשמע שאר כ״ש שרי די״ל דוקא להניח גוש בכ״ש לשרות מיחזי כמבשל משא״כ מים במים שמתערבין יפה לא מיחזי כמבשל אלא בהוחם לרחיצה אסור ואי״ה שם יבואר באות ל״ד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:32"
+        },
+        "33": {
+          "he": "מלאה עמ״א גמרא שבת מ״ם ב׳ במעשה דרבי טול בכ״ש ותן אמבטי גומא בקרקע שהומשך ממעיין חמי טבריא לתוכה הוי אמבטי כ״ר אף ע״פ שנפסק אח״כ ממעיין הואיל ובדעת משיכה הוי ממעיין הוי לה לאמבטי דין כ״ר שהוסר אח״כ מאש כפירש״י שם (עט״ז י״ב) ואסור ליתן לתוכו פך שמן בקיתון המפסיק עסי״ג דאפילו כלי מפסיק אסור כ״ש ליתן כך לתוכו אף בחמי טבריא אבל לתת לתוך כ״ש בחמי טבריא שרי והוחמו ע״י אש אסור בהוחמו לרחיצה. ועמ״א ט״ו לתי׳ א׳ י״ל בין כלי מפסיק דשרי כבסי״ג:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:33"
+        },
+        "34": {
+          "he": "שהוא עמ״א ע׳ אות ט״ו א״כ מה איריא לרחיצה כתבתי באות ל״ב דמים שמתערבין ל״ש דנראה כמבשל דוקא בגוש. ומיהו י״ל הר״ב שהגיה לשיטתיה שהרי הר״ב אומר כן בס״ה דנהגו ליזהר בפת בכ״ש ומה איריא פת אף בצלי לכ״ש נמי ש״מ פת דרכיך דוקא ומדהביא שם יש מתירין בכ״ש מוכח כן עמ״א יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:34"
+        },
+        "35": {
+          "he": "אבל עמ״א אע״ג דעירוי מבשל כ״ק כבסי׳ זה גוש אע״ג דתתאה צונן רב מים וכדומה משא״כ מים עם מים ותחתון צונן מרובים הרבה מעליון אין מבשל כ״ק ונ״מ באיסורין בב״ח שעירה רוטב בשר צלול חם לתוך חלב רב צונן אע״פ שמתערבים יפה ונאסרו באכילה שרי בהנאה דלאו דרך בישול הוא ובפריי לי״ד ביארנו זה יע״ש וצ״ע לדינא. ואם יש לחלק בין כלי שני לכלי שלישי עב״י וב״ח כתב דאין לחלק אפי׳ כלי רביעי ככלי שני חשיב וע׳ סי׳ תמ״ו במ״א אות ט׳ משמע עירוי מכ״ש הוי ככלי שלישי ואין אוסר כלל בחמין וכ״ש בשאר איסורין אף למ״ד דכ״ש מפליט ומבליע עירוי שלו אין מפליט ובשבת למ״ד בס״ה דאוסר פת בכ״ש הא כלי שלישי בט״ע וכדומה שמערה ממים טמונים לכ״ש ומשם לקערות קטנים דיש להקל:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:35"
+        },
+        "36": {
+          "he": "מרובים עמ״א ע׳ מ״מ פי״ב מה״ש ה״א וב׳ ובתוס׳ שבת מ״א ב׳ דה״ה מיחם פלפלו לרבי יהודה שאין מתכוין או מ״ה אסור או מדרבנן וממרוצת דברי המ״מ שם משמע לר״י מ״ה חייב באין מתכוין. ויש חסרון תיבה במ״א שהרי אינו רוצה לעשות ממנו כלי. והנך רואה שדעת המ״א ש״מ שהמ״מ בה״א דצירוף מיחם לא הוי פ״ר עם מ״ש בה״ב דאין רוצה לעשות ממנו כלי הם ב׳ תירוצים נפרדים אבל הלח״מ שם פירש דבמיחם שהיא כלי אי הוי פ״ר אסור וחייב למ״ד צירוף ד״ת ועכ״פ מדרבנן אסור משא״כ גחלת מתכות ועששיות חתיכה ברזל אז אף אי הוי פ״ר כל שאין מתכוין שרי אף לר״י דדומה לקטימת קיסם כיון שאין רוצה לעשות ממנו כלי לא הוי כלי כלל יע״ש וכ״מ דברי המ״מ שאין רוצה לעשות ממנו כלי היינו גחלת וחתיכה ואמנם רואה אני שנהפוך הוא כי צונן על מלח מרובים שי״ל המחבר השמיט מרובים בהורק המיחם מעטים נמי כל שאין היורה חם ביותר ולא יבא לבישול במעט מים הא מרובים לפעמים אסור בממלח דהוי פ״ר דצירוף והטור י״ל דסובר צירוף דרבנן ופ״ר דרבנן שרי עסי׳ שי״ד במ״א ה׳ כתה״ד והמחבר סובר כר״מ פי״ב ה״ב צירוף ד״ת השמיט מרובים ולהר״ן בגחלת הוי פ״ר צ״ל כלח״מ שם דומה לקטימת קיסם או סובר צירוף דרבנן ובהיזקא לא גזרו והמ״א לעיל בשי״ד כתב דרבנן נמי פ״ר אסור ומש״ה סידר כאן דבריו והראה לשל״ד סכ״ז גחלת כאמור והבן:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:36"
+        },
+        "37": {
+          "he": "הנאכלין עמ״א דהר״ב מאיסורא מהדר דה״ה בפירות קרוב ליס״ב אסור וחייב ג״כ משום מבשל וער״מ פ״ט מה״ש ועמש״ל. וכ״כ ע״ש. ואלונטית הוא שעוה י״ל אף במקום שיתיך בלבד באין יס״ב אסור דהוי מבשל שריפה גוף קשה עסס״ג אות י״ד יע״ש. ועופות ויש בו יבש מבושל או לח רותח אפ״ה אם יותך עופות יהיה חייב משום מבשל וי״ל דאין מתכוין ולא הוי פ״ר וגם מסתמא יקח מקודם עתו״ש ע׳ אות ל״ח מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:37"
+        },
+        "38": {
+          "he": "מותר עמ״א הרא״ש כירה דף מ״ם ב׳ גבי מביא קיתון של מים כו׳ וזה שהשמיענו המחבר כאן אע״ג דכבר כתב בס״ד יבש אין בישול אחר בישול יע״ש וכאמור:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:38"
+        },
+        "39": {
+          "he": "אקילו עמ״א המ״מ פכ״ב ה״ד רמב״ם ורשב״א יע״ש ומה שהכריע הר״ב להתיר בלא נצטנן לגמרי אף שאין יס״ב לאו למימרא דכה״ג אף להמחמירין שרי דז״א כבס״ח אלא דנהנו להקל (ולא מדינא) כרשב״א ומ״מ אם נצטנן עד שאין ראוי לאכול אסור דנראה כתיקון קצת עסי׳ רנ״ג וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:39"
+        },
+        "40": {
+          "he": "מקום עמ״א הנה בטעם אין מרסקין שלג אבל נותן לכוס כבסי׳ ש״ך ס״ט יש ג׳ פירושים א׳ דומה למלאכה שבורא מים כפירש״י ז״ל ב׳ שמא יסחוט פירות ולהנך טעמים נימוח ממילא שרי ולתוך הכוס ל״ד וי״ל משום נולד ולתוך הכוס שרי דמתערב ואין ניכר הא בעין אף ממילא אסור משום נולד עט״ז ואי״ה שם יבואר. והמחבר כתב דממילא שרי דהטעם משום בורא או שמא יסחוט. ודעת הלבוש באין יס״ב דאל״כ בנימוח הוי כלח צונן שיש בישול אחר בישול כבס״ד ומה לי שמן קרוש שנימוח או שומן קרוש שנימוח ומגיה באין יס״ב וא״ש במ״ש רמ״א וכ״ש כשיש בקדירה כו׳ דבאין יס״ב שוין המה. אבל המ״א סובר דשמן ודאי חי יש בו בישול ביס״ב משא״כ שומן ונתבשל אף נימוח אח״כ דין יבש יש לו ואין בישול אחר בישול (מ״ש ברנ״ג אות ל״ג צ״ל בשי״ח סי״ו ומ״מ אין מבואר שם דמיירי עם שומן) ופירוש דברי המרדכי הובא בב״י וז״ל הב״י המרדכי כתב כדברי סה״ת (רבינו ברוך) (דאסור משום נולד) ורבינו יחיאל מפריש מביא להיתר סכה ידה בשמן ומחממה במדורה ושמן קרוש ואפ״ה שרי ומ״מ טוב ליזהר שלא יס״ב נראה מדבריו דלסה״ת לא אסור אלא ביס״ב וליתא דטעמא לאו משום בישול אלא משום נולד וא״כ יס״ב נמי. ועוד דמשמע לרבינו יחיאל מפריש בשמן שרי אף ביס״ב וליתא דשמן יש בו משום בישול הוי יע״ש הנה גם הב״י מודה דשומן שנימוח אין בישול הואיל ותחלה יבש הוי דין יבש ומש״ה הקשה דלסה״ת ודאי לאו משום בישול דאין בישול רק נולד וא״כ למאן דמתיר באין יס״ב דל״ש נולד כאן (דתמיד אוכל הוא וכן שלג תמיד משקה הוא וכדבעינן למימר לקמן אי״ה) ה״ה יס״ב נמי שרי כך וא״צ להגיה בב״י כמ״ש הט״ז אות כ׳ ואי״ה שם יבואר ובשמן הוא דהוי בישול דחי הוא והמרדכי דכתב טוב להחמיר בסי״ב הוא דחשש לסה״ת נולד ומש״ה ביס״ב זב למרחוק אסור ובאין יס״ב נשאר בפשטי״ד אין ניכר כ״כ עב״י. ומ״ש הב״י דשמן יש בו בישול הבין דלרבינו יחיאל בשמן יס״ב שרי למרדכי ואינו דשמן אסור ביס״ב רק מיירי באין יס״ב וראיה דמ״מ לאו נולד הוא והמרדכי כתב טוב להחמיר בשומן ביס״ב דזב למרחוק לחוש לרבינו ברוך בעל סה״ת משום נולד ובסמ״ק שוה צלי יבש דאין בישול אחר בישול לפשטי״ד דשומן יבש הוי ומשמע הא שומן לח וצלול ונצטנן אסור ביס״ב דהוי דין לח וצ״ע קצת. ומ״ש שהב״י הבין דקאי אשמן כלומר גם אשמן וליתא דלא קאי רק אשומן ואי״ה באות מ״ה יבואר עוד: והוי יודע דבב״י הטעם דלא הוי נולד דשלג וברד תורת משקין עליהם לכל דבר ושומן לעולם אוכל הוא לא הוי נולד ומש״ה מתירין דיעה א׳. ולפ״ז רוטב קרוש הוי נולד כשנימוח באין יס״ב ואסור לר״ה כנראה מהר״מ זכרונו לברכה פ״א מהט״א ה״ש כ״א ופ״ט שם ה״א ובשמן קרוש חישב בטלה דעתו ובנימוח משקה מכל מקום י״ל לאו נולד הוי דמעיקרא לא אוכל ולא משקה יע״ש דבש דבורים עסי׳ קנ״ח מ״א ז׳ דבש דבורים קרוש אוכל נימוח משקה חלב קרוש אוכל בחישב עליו ונמוח מז׳ משקין וצ״ע בכל זה ע״ש בפ״א המ״א הכ״ג שלג וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:40"
+        },
+        "41": {
+          "he": "וכ״ש עמ״א פירשתיו באות מ״ם לשיטתיה דיס״ב א״ש א״כ האי כ״ש ל״ד דבלח אסור ביס״ב משום בישול אם נצטנן ומשמע לכאורה אף שרוטב ג״כ נקרש יש בו בישול אם נימוח אח״כ ול״ד לשומן דאוכלא הוא וצ״ע בזה דאפשר כוונתו הרוטב צלול ושומן נקרש על גביו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:41"
+        },
+        "42": {
+          "he": "ויש עמ״א ע׳ שו״ת פנים מאירות ח״א סי׳ פ״ד מזה דמשמע דנולד ומשקין שזבו תרי טעמי הוי או משום נולד או גזרו שמא יסחוט אף בנימוח מעצמו כמו בש״ך ס״א יצאו מעצמן אסורים ואי״ה בש״ך אות י״ד יבואר מזה. ולכאורה נראה להגיה כאן דהוי נולד א״ו דדמי למשקין שזבו ואף מעצמן אסורים ואפ״ה באין ניכר שרי ועיין פ״א שם ובש״ך י״ד כתב לטעם נולד ה״ה שלג ואי״ה יבואר שם במ״ש ניתן פשטיד״א קודם שהוסק התנור לא הבינותי דלאו מטעם בישול קאתינן עליה כ״א מטעם נולד אפי׳ הניחו בחמה אסור ליש מחמירין כבאות מ״ם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:42"
+        },
+        "43": {
+          "he": "אסור עמ״א עסי׳ רנ״ב אות ב׳ דשם כתב המחבר ביורה שמא יגיס והמגיס בקדירה חייב משום מבשל הא כ״צ בקדירה שהעבירה עכ״פ שרי ממילא ה״ה צמר ליורה בנתבשל הסמנין כ״צ שרי מדתלה טעמא דומיא דקדירה (עט״ז כאן אות כ״ב) אבל התוס׳ ורא״ש בתי׳ ב׳ כתבו כאן משום צובע וכ״מ לשון המחבר כאן אב״ל צמר ליורה משמע אע״פ שבישל כ״צ וסממנין דינם כקדירה אם הם בלא צמר אפ״ה אסור משום צובע אם יש בהם צמר דבהגסה נקלט הצבע יותר בצמר ועט״ז כ״ב שהצמר צריך הרבה בישול ל״ד אלא הסמנין צריך בישול רב ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:43"
+        },
+        "44": {
+          "he": "ולכתחילה עמ״א ועט״ז אות כ״ג ובסי׳ שכ״א אות ח״י וי״ד בט״ז ומ״א והר״ב סמך שם אמ״ש כאן יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:44"
+        },
+        "45": {
+          "he": "כנגד עמ״א. ס״ד וסט״ו כצ״ל וכ״מ מרש״י אסט״ו קאי ועט״ז שם אות י״ב פירש״י שהעבירן ביה״ש לא יתן משתחשך יע״ש. ובי״ד גושי״א דכ״ש מבשל כו׳ עמ״ש בפריי שם. ושלא לרסק שומן בידים דדמי לבורא מים כמו אין מרסקין שלג ועש״ך אות י״ב וכאן אות מ״ם. ע׳ פנים מאירות סי׳ פ׳ יי״ש ביורה שבת כל טיפה נולד ואסור לא הבינותי למ״ש מיד מותר רק בשבת אסור נולד. וע״ש שא״צ להסיר הכיסוי בשבת:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 318:45"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "מותר עט״ז הנך רואה דע״י ישראל אף מבשל בחמי טבריא א״צ כדי שיעשו דוקא על ידי עכו״ם קל אמירה בעיניו ועיין לבוש כתב דבאיסור דרבנן כו׳ אבל באיסור תורה כו׳ משמע הא בדרבנן צריך כ״ש ולא משמע כן מפוסקים משמע ודאי דבו ביום בשוגג אסור אף במלאכה דרבנן על ידי ישראל כמו בעכו״ם ול״ת עכו״ם חמור דקל בעיניו ועמ״א ב׳ דאף לרש״י א״ש כאן דאל״כ יהיו דברי המחבר סתורין מכאן לתקט״ו ס״א דשם פסק כרש״י דיהנה ממלאכת שבת מש״ה אסור לאחרים וליל שני מותר עמ״א שם אות גד״ה ואי״ה יבואר במ״א כאן ב׳ ובתקט״ו מזה ומ״ש הר״ב וה״ה שאר מלאכות צ״ע לכאורה דזה למאן דפסק כר׳ מאיר בשוגג בו ביום מותר אז י״ל לחלק בין עשה מלאכה שאפשר ליהנות בלא״ה כמבשל דראוי לכוס ובין נר שהדליק נהנה גדול הוא אז יש מחלוקת אי שרי מיד בו ביום משא״כ למאן דפסק כר׳ יהודה לדידן ודאי למ״ש פשיטא שאין חילוק בין שאר מלאכות למבשל כמו שיראה הרואה בב״י שעשה כלומר עמ״ש הטור ויראה לי כו׳ ועב״ח מ״ש דשוחט מוקצה קשה דנר שהדליק ל״ש מוקצה דמותר בהנאה כ״א הטעם דנהנה גדול הוא דבלא״ה לא היה ראוי כלל אז י״א דאסור. (ומש״ה כתב בספר התרומה שוחט ונר לומר דכמו נר רק מטעם נהנה ה״ה שוחט ונ״מ בחולה שנחלה היום דלא הוי מוקצה דלא דחאו בידים עב״י שם) עוד יש להסתפק הא דפסקינן כר׳ יהודה אם כתי׳ הר״ן ז״ל בתי׳ א׳ דהלכה כר״י ומבטל בששים דבר שבישל בשבת הוי מבטל איסור דרבנן ואסור או הטעם דשכיחי גבן ע״ה ולא איסו גמור מיקרי ואם בטלו אפשר אף במזיד לא מיקרי מבטל איסור דרבנן כיון דכל עצמו רק הטעם דשכיחי ע״ה וצ״ע בכל זה ואי״ה במ״א יבואר עוד. עמ״ש באות ב׳ דהר״ב שלל תי׳ תוס׳ חולין ט״ז:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:1"
+        },
+        "2": {
+          "he": "בין עט״ז עסי׳ רע״ט ושאר דוכתי דר״ש מתיר אף נר שהדליק באותו שבת וכבה אע״ג דדחייה בידים ביה״ש כיון דנסתלק איסור לא אמרינן לר״ש מיגו דאיתקצי ביה״ש כו׳ רק גרוגרות דחייה ואסח דעתיה דלא ידע שיתייבשו בשבת וכוס וקערה ועששית דלא ידע שיכבה דגדולים הם משא״כ נר אע״ג דחייה בידים לא אסח דעתיה דמצפה מתי יכבה נרו. ואנן קיי״ל לאסור בנר הואיל ודחייה בידים ובהמה י״ל דלא הוי דחייה בידים דלא נזדמן ליה שוחט וכדומה ול״ד למחובר מדלא לקטינהו כדחייה בידים דמי עב״י וא״כ צ״ע מה שהקשה הט״ז בכאן על המחבר ולפ״ד הט״ז אם זרק סכין לנועצה בתלוש והלכה ושחטה כדרכה דכשירה היא אסור בו ביום לבריא דמוקצה מאיסור הוי ולטעם הב״י י״ל דשרי דשוגג אסור דאיתעביד מלאכת איסור משא״כ זה או בן פקועה דרבנן למ״ד דוקא מלאכה ד״ת אסורה בו ביום ומיהו כבר הוכחנו דאף במלאכה דרבנן אסורה בו ביום. ועסי׳ רנ״ג בעבר ושהה ובכירה מזה דף ל״ח א׳ האי דלא עביד מעשה הא עביד מעשה אף דרבנן אסור ממילא לדידן אף שוגג באיסור דרבנן אסור בו ביום עמ״א רנ״ג אות י״א ומיהו לא בעינן כדי שיעשו כ״א התם בשהה דקל בעיניו משא״כ בעביד מעשה בידים אף דרבנן מילתא דל״ש ולא קל בעיניו ובמ״א אי״ה יבואר עוד. עמ״ש באות א׳ די״ל דהר״ב שכתב שאר מלאכות לומר דאף שוחט וקוצץ דלעת והדליק נר מותר מיד וא״כ כ״ש דל״ת כמ״ש התוס׳ חולין ט״ו א׳ ד״ה מורי וכ״כ הרא״ש שם די״ל בין נהנה גדול יע״ש וי״ל בדברי הב״י במה שעשה כלומר: אמר ההדיוט הכותב יש לי בכאן הרהורי דברים והנני פורטם בעזה״י. א׳ מ״ש המחבר בין כו׳ והלא דרכו תמיד לנקוט בבין בין זו ואצ״ל זו כמ״ש הסמ״ע בח״מ ע״ב אות ז״ח. ב׳ במ״ש הר״ב שעשה שאר מלאכות איזה כוונה יש בה וכ״ת קצץ דלעת שמא ירבה בקצירה עוקץ א׳ וב׳ גרוגרות עסי׳ שכ״ח סי״ו ומנחות ס״ד ומ״ש הר״ב קצץ מוקצה היינו בדבר שדרכו לעשות בד בבד וכ״ז איננו שוה לי. ג׳ מ״ש הר״ב בשבת הא לדידן אף בשוגג מותר למ״ש מיד כ״ש זה והרשב״א הביאו הב״י כ״כ לרש״י ולזה יש לנו לומר דכאן קיל טפי דירבה בשבילו וכ״ש אם נאמר לאיסור דרבנן כמ״ש המ״א אות וי״ו הוצרך שפיר להשמיענו דע״י ישראל וכ״ש בהיתר אף ע״י עכו״ם א״צ כמ״ש המ״א אות ז׳. ד׳ במ״ש המחבר לחולה שאין סכנה (הבאר הגולה אות ב׳ חסר דעת הפוסקים וחלה היום גם חסר מ״מ לחולה שאין סכנה כי הוא תשובת הרשב״א תתי״ד דממנה לוקחה) חסר תנאי א׳ וכמ״ש בב״י כיון שאפשר ע״ל ידי עכו״ם וטעמא דאף דאיסור דרבנן שרי לחולה שאין סכנה ומה לי אמירה לעכו״ם או שמא ירבה י״ל דחמירא שיבוא להתיר ע״י ישראל לרבות באיסור תורה אצל האש עמ״א וי״ו משא״כ כשאין עכו״ם ל״מ אם כבר בישל לחולה סכנה שמותר לאין סכנה אפי׳ לרבות לא אצל האש לס״ד דרבנן אפשר שרי עסי׳ שכ״ח והבן זה: גם בי״ד צ״ט למי שנתבטל בשבילו באיסור דרבנן אי גזור שיאמר לעכו״ם כו׳ ועש״ך י״ד צ״ח אות ח״י ובשבת ער״פ כה״ג שרי עמ״א ב׳: מ״ש הר״ב בס״א עיין ש״ז ס״ך (ט״ס סי״ט) ר״ל דשם בכ״ש ולמ״ש בכ״ש מותר אף במזיד ולרי״ו אסור לעולס עט״י אות י״ד ומיהו שבות דשבות באין מצות י״ל דכ״ע מודים דשרי: שאלה בישל במזיד עוף ונולד אח״כ ספק אחר שא״י אם היא בשר עוף בחלב וכדומה מהו. ואם יש לחלק בין שוחט למבשל כה״ג גם הדין של מ״א באות ב׳ למי שנתבשל בשבילו דנראה דמסופק הוא ובא״ר משמע דפשוט דמותר צ״ע בזה. והנה בח״מ סי׳ ש״ן בסמ״ע וכאן בפרישה משמע דהא דפסקינו כר״י לאו ודאי רק ספק דרבנן ולקולא דמזיד שרי לאחרים למ״ש ומש״ה לענין דו״ה ג״כ לקולא יע״ש וא״כ י״ל בהצטרף עוד ספק למ״ד ס״ס לחומרא אף בדרבנן אסור ומיהו להצטרף ספיקות חלוקות בדרבנן י״ל לכ״ע אין מצטרפין להחמיר אבל ספק נתבשל בשבילו הוי ס״ס לחומרא. גם י״ל דוקא לשחיטה הדבר בספק דע״י שחיטה זו נכשרה הבהמה ומעשה שבת כה״ג י״ל הלכה כר״י הסנדלר משא״כ בישול וכדומה אין ספק דהלכה בזה כר׳ יהודה ומותר לאחרים למ״ש עכ״פ ובזה י״ל מ״ש הר״ב בהג״ה ס״א וה״ה שאר מלאכות אמזיד דסמיך ליה קאי דל״ת דוקא מבשל הא שוחט דעל ידי מעשה שבת ניתקנה הבהמה ואי לאו השחיטה כנבילה דמיא ליתסר קמ״ל או דל״ת כל מילי דאמר רחמנא לא תעביד כו׳ עח״מ ר״ח ומיהו ז״א ועיין טור וב״י בזה שעשה כלומר יע״ש. ואין להאריך:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:2"
+        },
+        "3": {
+          "he": "תבשיל עט״ז ותוכן כוונתו דהמחבר בש״ע כאן פסק כטור אליבא דפירש״י במה מדליקין ל״ד א׳ דבמרק נצטנן אף בכ״צ יש בישול ד״ת (וסתם קדירות ביה״ש במטמין באין מוסיף הבל כ״צ מבושלים) ויבש שרי לגמרי כתרנגולתא דר״א וכמאב״ד אף ביבש ורותח יש בישול ד״ת ועסי׳ רנ״ג יע״ש וצמר ליורה עסי׳ רנ״ב א׳ ולקמן סי״א בט״ז אות כ״ב ומרא״ש לכאורה משמע דפליג אטור בתרתי דכמאב״ד שרי לגמרי בכ״צ ובנצטנן כמאב״ד אסור אף ביבש אבל כ״צ ונצטנן אף במרק שרי ואין חילוק כלל בין לח ליבש ולסוף כתב דהטור ורא״ש בחדא שיטתא קיימא וכמאב״ד פטור אבל אסור מדרבנן והיינו אף נצטנן ביבש אין חייב חטאת רק בין לח ליבש החילוק וסתם קדירות מבושלות כ״צ ועב״י שרצה לפרש כן ומ״ש הט״ז דהמ״מ כתב בהדיא כן בפ״ט דאיסורא איכא לא הבינותי דזה ע״ג אור ממש שמא יחתה אבל לסמוך ליכא איסור׳ כמאב״ד למאן דאמר ליכא חיובא ה״ה דשרי והמחבר פסק כטור ורמב״ם שם פ״ט הלכה ג׳ יע״ש דכל שאין כ״צ חייב מ״ה אף כמאב״ד ובכ״צ ובמרק נצטנן אף כ״צ חייב כרש״י ל״ד וטור ושכן דעת הרא״ש לפירושו דשמא ירתיח בכ״צ ונצטננת וביבש שרי כה״ג בכ״צ ואף להר״מ במרק נמי הרי כה״ג פסק כרש״י וטור ורא״ש. ועמ״א י״ד וט״ו בסתירת דברי הב״י בזה עד״מ ופרישה ואי״ה שם יבואר. ולענין מור״ל יש דיעות אי הוי מבשל בנצטנן וספק לקולא לענין מ״ש מזיד ובו ביום שוגג דהוי דרבנן ומיהו בו ביום י״ל דשיל״מ א״א ספיקו לקולא עי״ד ק״י בזה: לענין חהר״ל אם נתערבה חתיכה שנתבשלה בשבת עם שאר חתיכות שבישל במזיד דלא הוי דשיל״מ עמ״א בזה צ״ע אם הוי חהר״ל א״ד הואיל ואין איסורא מחמת עצמה ועי״ד סי׳ ק״א דמשמע כה״ג הוי חהר״ל כמו חטאת ואשם והמודר הנא׳ נמי גוף החתיכה חהר״ל רק קיבלה טעם וכדומה לא הוי חהר״ל ועמ״ש בפריי שם. ואם עירה מכ״ר על דבר חי בשבת באסרה כ״ק לא מקרי חהר״ל כ״ק:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:3"
+        },
+        "4": {
+          "he": "וי״א עט״ז עסי׳ ט״ו אות ל״ה ואות כ״ה נגד המדורה רחוק קצת שרי במור״ל הא סמוך ממש אסור במור״ל שמא יחתה כיון שאין דבר מפסיק ועדיין צ״ע. גם מ״ש כמאב״ד מדרבנן יש חילוק בזה צ״ע דבאות ג׳ כתב בנצטנן במרק יש חיוב חטאת וע״כ הכין הוא דשמא ירתיח ויהא חייב כפירש״י ל״ד א׳ מ״ה ואף א״ת כמאב״ד איסור דרבנן היינו בעודו רותח הא נצטנן חייב חטאת כמאב״ד עכ״פ וההיא דקדירות ביה״ש נדחוק בכמאב״ד א״כ אין חילוק בזה בין מוי״ל או מור״ל ומנלן בכ״צ נצטנן אסור מדרבנן:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:4"
+        },
+        "5": {
+          "he": "חוץ עט״ז דוקא בחמין הא בצונן שרי להדיח מלוח ואם א״י לאכול כלל בלא הדחה אם מותר להדיח במים קרים ואי״ה יבואר במ״א אות י״ו ואי״ה באות וי״ו יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:5"
+        },
+        "6": {
+          "he": "אם עט״ז עב״ח ותוכן הדברים בפסחים מ״א א׳ מדמה פסח למצה לרבי יוסי צלאו ובשלו חייב דבישול מבטל כמו דמבטל בישול לאפיי׳ ועולא אמר אף לר״מ דבשל מבושל גלי קרא גזירת הכתוב ולדעת התוס׳ שם ד״ה עולא דלטעמי׳ כו׳ אבל לדידן דשלקות פה״א ובישול לא מבטל ודאי דל״ד פסח למצה דמצה לאו מטעם בישול לרבי יוסי כ״א דטעם מצה בעינן לחם עוני ובנתבשלה אח״כ מצה עשירה הוי ופסח ע״כ מבשל מבושל אף לר״י אם כן בשבת אין ראיה כלל לא ממצה ולא מפסח כאמור. כתב הט״ז דבשבת נמי יליף ר״א ממצה הואיל דחזינן בישול מבטל טעם אפייה ממילא לענין שבת מלאכת מחשבת כו׳ אסור מ״ה וזה בישול אחר אפייה אבל בישול אחר צלייה י״ל דאין מבטל בישול לצלייה לתוס׳ שם דדחי׳ דטעם מצה שייך לפסח לצלאו ג״כ וי״ל אף לתוספות לאו כוונתם דבישול אין מבטל טעם צלייה אלא דמה בכך דבמצה לחם עוני בעינן פסח רק צלי בעינן ואף דלית טעם צלי בבשלו אח״כ שפיר דמי אבל הרא״ם יש לו ראיה מפסח ג״כ דבישול מבטל טעם צלייה מדלא דחי בפסחים ותסברא לרבי יוסי דמבושל מבטל טעם אפייה משא״כ פסח ש״מ דלר״י פסח ומצה חדא הוא או דבישול מבטל לגמרי או דמבטל עכ״פ הטעם וממילא פסח טעם צלייה בעינן כמצה א״כ בשבת אסור עכ״פ מדרבנן זה תוכן כוונתו ועב״ח: פשיטא לי מליח כרותח כבוש כמבושל רק להפליט ולהבליע הא לענין שבת אם בישל כבשין אח״כ חייב מ״ה אף שראוין לאכילה לגמרי חיין ופירות שטובין חיין כמבושלים או יותר יש בו בישול כבסי׳ רנ״ד ס״ד ומ״א י״ד ולקמן סי״ד ומ״ש הר״מ ז״ל פ״ט ה״ג דבר שאין צריך בישול כלל פטור א״א בקיאין איזו הוא הא דבר דשייך ביה בישול כפירות שטובין חיין יותר ממבושלים דלברכה שהכל בשבת חייב חטאת דמ״מ מבשל הוא אם רוצה וניחא ליה בכך ואם אין ניחא ליה מקלקל ופטור אבל אסור נסתפקתי בישול בחמי טבריא ותולדות חמה אם מבשל אח״כ בחמי אור אם חייב ויראה דפטור הוא דכבר נתפעל בבישולו ואפשר מותר לגמרי. עמ״ש אי״ה באות שאח״ז:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:6"
+        },
+        "7": {
+          "he": "אפי׳ עט״ז למדה ממלח ואף למ״ד מלח שרי פת רכיך טפי ולענין או״ה בי״ד יע״ש והוי יודע מלשון הרא״ם שכתב המחבר נאפה ונצלה במשקה משמע דוקא משקה כיין ומים ושמן באפשר עב״י הא נתבשל בשומן טיגון הוי עיין סנהדרין פ״ק בחלב כו׳ ואין בישול ולא מבטל אפייה וצלייה. ומיהו י״ל בשר נצלה שרי אח״כ בשומן אבל לחם במרק שומן חם בכ״ר אסור דמ״מ צלייה אחר אפייה נמי מבטל ועיין ר״מ פ״ט מה׳ ק״פ ה״ח וכ״מ ולח״מ שם ולפי דברי לח״מ משמע כט״ז וכרא״מ עיין אות וי״ו דצלאו ואח״כ בשלו נפיק ממצה והתם טעם מצה בעינן כדדחי בברכות ל״ח ש״מ פסח נמי הכין הוא וצלי קדר מבשל מבושל מ״מ ואי לאו קרא צלי קדר צלי גמור הוא א״כ בשר צלי אח״כ בשומן נמי כצ״ק דמי והבן זה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:7"
+        },
+        "8": {
+          "he": "ונהגו עט״ז דק דק אורחא דמלתא קתני ועי״ד ע״ט בט״ז אות כ״ג וש״ך אות ל׳ מלח וחומץ בכ״ש נמי מבשל משמע מבטל ממש ונ״מ בב״ח בשר לקערה רותח בארשט מחמץ עם חלב אסור בהנאה וה״ה לשבת בצל או חומץ בקערה דהמיקל שם דרבנן הוא משא״כ כאן איסור תורה ומיהו דיעבד הוי דרבנן ולכתחלה לאו במנהגא תליא מילתא. ועם זה יתיישב הא דשבת מ״ב ב׳ ר״י ארישא או אסיפא מה נ״מ דאין הלכה כר״י אלא דנ״מ בכ״ש לדידן ומסיק דארישא פליג ובסיפא ת״ק מודה דמבשל בכ״ש שיש חומץ וציר ואסור אף דיעבד דכ״ע מודים בזה ודבר גוש בכ״ש עי״ד צ״ד בט״ז י״ד ופריי שם אי מבשל לאו״ה או רק מפליט ומבליע. עמ״א ט״ו בצל משמע דחולק יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:8"
+        },
+        "9": {
+          "he": "דבר חם עט״ז עיין שבת נ״א ב׳ וסי׳ רנ״ח בב״י והנה להר״ן דסובר רכ״א דכל שנתבשל לגמרי נצטנן אין בו בישול אף בלח עב״י בזה א״כ ברייתא מניחין קדירה ע״ג קדירה לא בשביל שיחמו אלא לשמור חומו ע״כ בכמאב״ד דאל״כ בכ״צ אפי׳ שיוחמו מותר וכמאב״ד לשמור חומו אמאי מותר הא נתבשל אח״כ וכ״ת לשמור חומו להפיג צינה א״כ שיוחמו נמי מותר מביא קיתון מים כו׳ אלא כמאב״ד מדרבנן אסור ודוקא היכא דיבוא לבישול גמור הא כה״ג דלא יתבשל כ״צ ע״י כך לא גזרו משא״כ אם נצטנן לגמרי י״ל כמאב״ד הוי ד״ת אסור כה״ג עיין אות ג׳ בט״ז וכל זה מפני שהמחבר לא ביאר וחילק בכאן בין לח ליבש ובין כ״צ או לאו וכ״ז צ״ע לי דלהמחבר בס״ד אתיא פשטות הברייתא דשנה נ״א כפשטן בלח מיירי ועיין אות י״א מזה. ואי״ה שם יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:9"
+        },
+        "10": {
+          "he": "לטוח עט״ז ועמ״א אות כ״ב דבצק לא שייך מירוח והט״ז סובר דשייך מירוח בית ועמ״א שי״ו אות כ״ד מירוח אפי׳ ברוק שייך כל שרוצה לדבקו ע״ג ד״א יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:10"
+        },
+        "11": {
+          "he": "אפי׳ עט״ז המ״מ פכ״ב מה״ש ה״ד הביאו המ״א אות כ״ו. ומ״ש דכאן מיירי שלא נתבשל כ״צ צ״ע וכתבתי באות ט׳ וער״מ פ״ד מה״ש ה״ו ובט״ז אות ד׳ משמע להר״מ נמי כמאב״ד כ״צ הוי מדרבנן וצ״ע בכל זה ועסי׳ רצ״ח בב״י וב״ח שם. ועולת שבת בכאן:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:11"
+        },
+        "12": {
+          "he": "אפי׳ עט״ז עא״ר כ״ב כ״ג דהגמ״ר מפרש דלא כרש״י רק מיד שהעבירן יע״ש. והא דשבת מ״ם ב׳ קיתון של מים נגד המדורה לא בשביל שיוחמו דמשמע להחם לבד אע״פ שא״א להעלות שם רתיחות אסור אלמא כ״ר שיס״ב מבשל הוי וא״כ יש ראיה ה״ה העבירוהו מאש אע״ג דאין מעלה רתיחות מבשל והגמ״ר מחלק בין עומד אצל אש ובין העביר מאש. ובמשנה מרותחין דייק הגמרא הא נחו מרתיחתן לא עא״ר והנה הדיוקים סתרי מסיפא משא״כ בעירוי י״ל התנא קצוות נקיט כר׳ אסור עירוי בנפסק קילוח שרי וכ״ש שרי ועירוי בלא נפסק הקילוח אסור:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:12"
+        },
+        "13": {
+          "he": "בשר עט״ז דהר״ב כתב דנקיט אהרא״ש קאי דהמחבר משמע לענין איסור שבת מצריך דוקא מלוח וע״ז אמר דהמחבר מיירי ביבש דלית לחלוחית מש״ה בעי׳ מלוח כו׳. והוי יודע דממ״ש רבינו שמחה מלח קודם שנימוח אפי׳ באש לא נתבשל מיד רק צריך שיעור מה ולאחר שנימוח לא ניכר ולא הוי דשיל״מ כבסי׳ ש״ך ס״ב וא״כ לפ״ז ה״ה בשר שור כ״ש דצריך שיעור מה ואם נפל ליורה ע״ג אש וסלקוהו מיד י״ל התבשיל נאסר דמפליט מיד ונתבשל אח״כ באין ששים נגד הבשר החי והבשר שרי אף בשיעור מה כ״ז שאין כמאב״ד דלא הוי בישול לענין שבת ומיהו י״ל דמדרבנן הוי בישול אלא מיהת י״ל דבשר שור מיד שסלקוהו נאסר שהלחלוחית שבו דמתבשל מיד ויש בו בלע מגופו ואסור וגם התבשיל נאסר באלף דהוסר מיד האיסור דעודו בבשר והיינו אם במינו הא בא״מ בטל בס׳ ול״ד למלח דמיתקי בכך כבסי׳ תקי״ג ס״ג וכדבעיבן למימר קמן אי״ה וגם שם ליכא לחלוחית. ומינה כאן בשר יבש דאין לחלוחית וסלקוהו מיד י״ל דשרי בלא נמלח עתה מחדש הבשר ותבשיל אפי׳ בעודו על האש כו׳ כמלח כמ״ש הר״ב בעודו על האש דהעבירוהו מלח מותר לגמרי ועב״ח משמע דהעביר מעל האש הותר דאין מעלה רתיחות ובאש מעלה רתיחות ומסתימת הפוסקים משמע דהעביר מאש אע״ג דמעלה רתיחות שרי וע״ג אש אע״ג דאין מעלה רתיחות מבשל ועמ״ש עוד אי״ה באות י״ד מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:13"
+        },
+        "15": {
+          "he": "בטל עט״ז ולדבריו ז״ל בחצי זית בשר כשר נפל לס׳ חצאי זיתי גריסין ואח״כ נפל חצי זית נבילה דנ״ט עכשיו דאסור ועי״ד מזה דחיך אוכל יטעם ושם הארכתי ועא״ר כאן אות כ״ד מזה: ולענין מי ט״ע בשבת שמטמינין מים חמין באופני ההיתר המבוארין ברל״ג יע״ש ובשבת לוקחין מכ״ר ושופכין על צוקר ונותנין שם חלב קר וטובלין בו פת וכדומה יש בו מהעיון כמו שאגיד. העלים של ט״ע אם נותנין בכ״ר נאסר הכל דנרגש הטעם ואם יש ששים ואין נרגש הטעם לח הוי דשיל״מ לכ״ע דלא מיתקן בכך עסי׳ תקי״ג ס״ג ואם עירו על העלים מע״ש והוריקו המים שלא נשאר כלום י״ל ביבש אין בישול אחר בישול. והחלב הקר בכ״ש אין איסור ובכ״ר או עירוי אסור בלח ונצטנן כבס״ד אבל משום צביעה אין צביעה באוכלין ולא במשקין כבסי׳ ש״ך סי״ט וך׳ דאין צביעה באוכלין וה״ה במשקין כרכום בתבשיל רוטב עד״מ שם. אבל אם ניחא ליה בכך מתכוין להיות צובע י״ל אף באוכלין ומשקין יש בו משום צובע מדרבנן ואף מ״ה שוחט חייב משום צובע דליזבנו מיניה ואי״ה שם יבואר. וצוקר אין בישול אחר בישול ולטבול פת למאן דאוסר בס״ה בכ״ש אפשר דאין לחלק אף בכלי גו״ד כ״ז שיס״ב יש להחמיר ועיין הלכות פסח סימן תמ״ז במ״א ט׳ משמע דיש לחלק בין כלי שני לכלי גו״ד דאפי׳ עירוי מכ״ש אין אוסר בצונן כ״ש כשכבר הונח בכלי שלישי די״ל דמותר לטבול פת בתוכו: והוי יודע דלפי הנראה ממרוצת דברי המ״א שם הטעם דכ״ש אין מפליט היינו טעם לאסור בס׳ הא משהו פולט ומש״ה בפסח עצמו אסור א״כ כל הדברים שהם במשהו דשיל״מ נמי יש להחמיר בכ״ש ולפ״ז אם בישל בשבת דאסור ונפל אח״כ לכ״ש במינו דשיל״מ במשהו יש לאסור אף בכ״ש דמפליט ומבליע משהו מיהו י״ל משום חומרא דחמץ דוקא עמ״ש בפריי לי״ד ס״ח ובשאר דוכתי ואי״ה לקמן יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:15"
+        },
+        "16": {
+          "he": "ולערות עט״ז עירוי מבשל כ״ק לחומרא ודיעבד בשוגג אסור למ״ש דשיל״מ א״א בו ספק דרבנן לקולא ומזיד קיל טפי למ״ד הכין עמ״א אות ב׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:16"
+        },
+        "17": {
+          "he": "אמבטי עט״ז הסוגיא ארוכה שבת מ״ב א׳ ע״ב וב״ח וגם בחידושינו הארכנו ולדינא כלי ראשון יס״ב ואף הוחם לשתייה וכלי שני אמבטי לרחיצה שהוחם מאוד שוין המה וכדבעינן למימר לקמן באות ח״י אי״ה מזה וכלי שני וכלי שלישי משמע מסתימת הפוסקים כאן ובי״ד ק״ה דאין לחלק ולמ״ד כ״ש מפליט ומבליע ה״ה שלישי וד׳ כל שיס״ב אבל בתמ״ז במ״א אות ט׳ מחלק דכלי שני עירוי שלו אין לחוש וכ״ש שלישי יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:17"
+        },
+        "18": {
+          "he": "של מרחץ עט״ז. חסר מלת אין וכצ״ל אין חילוק דין בין אביי לרבי אבא והביא תוס׳ שבת דף מ״ב א׳ ד״ה אבל ושם כתבו דאמבטי לרחיצה כ״ש מ״ה אין מבשל כלל רק הרואה סבור כ״ר הוא ומש״ה אסור צונן לחם שבו ומשמע דיעבד שרי דלא מתבשל אבל בטור כתב ומחממין הרבה ומתבשלין וצ״ע כי בי״ד סתמו כל הפוסקים כ״ש אף אין מפליט ומבליע כ״ש שאין מבשל ולא חלקו בין הוחם רב או מעט וכ״ה הלכה רווחת משמע כאן לכתחלה אסור דהרואה כו׳ כתוס׳. ומ״ש מחלוקת בין הטור והרמב״ם אפשר דהטור סובר לשיטתיה דכ״ש לרחיצה מבשל א״כ א״נ שוין המה ממש כ״ר לשתייה עם כ״ש לרחיצה צונן לחם אסור וחם לצונן מרובים שרי כמ״ש המ״א אות ל״ה אבל הר״מ סובר כתוס׳ דאמבטי כ״ש רק מדרבנן הרואה א״כ ודאי יש חילוק בין כ״ר דחם לצונן אין היתר כ״א מים צונן מרובים הרבה שאין כ״א להפשיר שרי כמו מיחם שפינה. ובין אמבטי כ״ש לרחיצה חמץ לצונן אע״פ שאין מרובים כ״כ שרי דליכא גזירה כולי האי. ולומר עירוי שלא נפסק קילוח ספק הוי ולהר״מ ספק מ״ה שריא והוי גזירה לגזירה כבר דאינו סברא זו במקום אחר. ומ״ש הט״ז כתב תתאה גבר דהלכה כן קשה דמ״מ עירוי שלא נפסק הקילוח מבשל כ״ק לחומרא ואיך התיר אף בכ״ר לדעתו אף כ״ש. ועמ״א אות ל״ה ושם ביארנו זה: עיין מ״מ פכ״ב ה״ה במ״ש ואמבטי זה כלי הוא י״ל מ״ש רש״י מ״ם אמבטי בריכה עשויה בקרקע ובחמי טבריא איירי משא״כ אמבטי שלנו הוחם מחמי אור ע״כ אמבטי זה כלי הוא לא בקרקע דאל״כ כ״ש הוא והמ״מ מפרש אמבטי כלי ראשון דוקא אבל ממ״ש והגאונים פירשוהו וממ״ש הר״מ ז״ל כמבשל בכף הדמיון יורה ע״ז כ״ש ובחידושינו הארכנו ועיין לבוש שמים שבו מתבשלין כטור ומ״ש דתתאה גבר ועוד דמים רבים עיקר הוא דמים רבים ועמ״א ל״ה דגם הטור דוקא במים רבים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:18"
+        },
+        "19": {
+          "he": "בכ״ש עט״ז גמרא מ״ם ב׳ וי״ל לאיזה צורך כתב המחבר בכ״ש דאפי׳ מים שרי בלא כלי רק סיפא כו׳ וי״ל דל״ת מים אין נראה כמבשל משא״כ עם כלי לתי׳ א׳ בתוס׳ שבת ל״ט א׳ ד״ה כל עמ״א אות ט״ו אפ״ה שרי דאין נראה כמבשל עם הכלי כה״ג בכ״ש או יאמר דאמבטי כ״ש דלטור מבשל אבל עם פך שמן שרי שהכלי מפסיק לא יבא לידי בישול כה״ג ואמבטי דרבי חמי טבריא כ״ר הוי אבל מר״מ ז״ל פכ״ב שם מבואר דאמבטי כ״ש כה״ג לא יתן פך שמן לתוכו ומשמע מעשה דרבי כה״ג הוי והמחבר מפרש כר״מ אמבטי כ״ר יע״ש והבן. ושמא לא נתבאר אי הפשירו זהו בישולו או לאו. ושמן הכשירו לא זהו בישולו וכדבעינן למימר לקמן אי״ה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:19"
+        },
+        "20": {
+          "he": "במקום שיס״ב עט״ז ותוכן כוונתו דסובר כלבוש דשומן נימוח אח״כ וצונן עדיין וכשיס״ב הוי מבשל דלא כמ״א אות מ״ם ומ״מ הפרש יש בין מקום שיס״ב במקום לבד דאז ודאי המים שמשימין בכלי קרוב אע״פ שישהה הרבה שם לא יהיה י״ס בו בשמן ובשומן ובמים ובסי״ב לא זכר במקום שיס״ב רק המקום יהא חם מאוד והמים יתחממו שיהא המים חמין י״ס במים וז״ש הט״ז ולא זכר במקום כו׳ וכאמרו דהול״ל בסי״ד בקיצור במקום שי״ס במקום. וה״ה שומן במקום י״ס במקום לחוד לא בשומן ואשה סכה ידיה במקום שי״ס במקום לא בשמן ומש״ה אע״ג דהפשירו זהו בישולו היינו במקום שיכול לבא לבישול גמור הא במקום שא״א לבא לבישול גמור ודאי מדרכנן הוא וע״י שינוי לא גזור (דלרבי הפשירו בישולו ואפ״ה בכ״ש שרי שבת מ״ם ב׳ ול״ד לקולייס האספנין דאף בכ״ש אסור למ״ד הדחתן זהו בישולו עיין ס״ד י״א גמר מלאכתו מכה בפטיש) ומ״מ קשה דלאיזה צורך כתב המחבר במקום שיס״ב כאן כיון דא״א לבוא לידי בישול שם ומיהו אם נאמר בלח צונן מדרבנן יש בישול כנראה ממרוצת הט״ז באות ד׳ דכמאב״ד דרבנן ה״ה בלח צונן מדרבנן א״כ ביס״ב ושיעור להפשיר שרי דליכא למגזר דישהה דא״נ שוהה הוי דרבנן וגזירה לגזירה וי״ל עוד הפשירו זהו בישולו מדרבנן וצ״ע. ומ״ש הב״י שמן הפשירו זהו בישולו בר״מ פכ״ב ה״ש ה״ד משמע דפסק דשמן הפשירו לא זהו בישולו ועיין מ״מ והגמי״י שם אות ג׳ וצ״ע שם. ומ״ש להגיה בב״י דבאין יס״ב נמי אסור ובב״י כתוב לאמר אף ביס״ב נמי שרי ובמ״א אות מ״ם פירשתיו להמ״א א״צ להגיה וט״ז כלבוש לדינא ומש״ה מגיה ועא״ר אות ל״ז חרה אפו בו באדונינו הט״ז וכתב שדבריו תמוהים ולמ״ש א״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:20"
+        },
+        "21": {
+          "he": "ואע״פ שהשומן עט״ז דעת רש״י באין מרסקין שבת נ״א ב׳ דבורא המים ומשום סרך מלאכה ומשמע לרסק לכוס אפשר כיון שאין בעין שרי וי״א דדמי לפירות העומדין למשקין ובתוך הכוס לא גזרו דממילא הוא ולר״ן אף ממילא אסור דדמי ממש למשקין מפירות שאף יצאו מעצמן אסורים ול״ד לשלג ממילא שרי. ולמאן דאמר משום נולד אף בחמין אסור ומ״ש בט״ז אף בחמין אסור לכאורה שרי י״ל מאן דמתיר ומיהו קרח י״ל אף למאן דאוסר בשומן אפשר מודה בקרח דשרי בחמה ואי״ה שם יבואר ועב״י כאן ובר״ן בזה והרמב״ן מיקל ביותר דבשומן אף לרסק ביד ובעין שרי דתמיד אוכל הוא משא״כ שלג כשמרסק ביד כבורא מים הוא עיין בר״ן ועמ״ש במ״א אות מ״ב:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:21"
+        },
+        "22": {
+          "he": "אבל עיין ט״ז ברא״ש ושם כתב שהסמנין צריך הרבה בישול אף בלא צמר עמ״ש בסימן רל״ב בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:22"
+        },
+        "23": {
+          "he": "אף בקדירה עט״ז עמ״א אות מ״ד עמ״ש ברנ״ב ובר״מ ז״ל מענין מגיס וכללו של דבר בלא נתבשל כ״צ רק כמאב״ד דיש בישול מ״ה עס״ד אסור להוציא אף במגריפה מקדירה דהוי מגיס בכ״ר שהוסר מאש ומקרב הבישול משא״כ בנתבשל כ״צ להוציא מותר אבל להגיס ולהפוך בו אסור מדרבנן ואצל האש י״א דחייב מ״ה אף בנתבשל כ״צ עמ״א מ״ב:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:23"
+        },
+        "24": {
+          "he": "בעודו עט״ז וכ״כ המ״א אות מ״ה ואפילו מונח על הטעלי״ר או בקערה בגוש י״א דהוי מבשל עמ״ש בפריי לי״ד בזה. ודיעבד יש לסמוך אהר״ב בי״ד דמשמע דמתיר אפילו גוש וגם י״ל דמפליט ומבליט לא מבשל אבל בהוציאו עם השפוד ודאי כ״ז שיס״ב כ״ר הוא ומבשל ואם טחו בשום אוסר כ״נ בכחוש שאין בו סרך שומן ובשמן עד ס׳ ולא יותר דאינו מינו הוא ולא מיתקן המאכל בכך ועי״ד סי׳ ק״ה מדינים אלו. בש״ך שם אות י״ו ול״ת דג״כ דרבנן ומיהו אם אווז שמינה י״ל דמפטם בצלייה עכ״פ ושם הארכנו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 318:24"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] אסור לו וכו'. אפילו הקדירה (רשב\"א קע\"ה), מי שנתבשל בשבילו דינו כמו אחר כיון שאינו שלו ולא חיישינן שיצוה לישראל אחר לבשלו דאין אדם חוטא ולא לו (מגן אברהם):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:1"
+        },
+        "2": {
+          "he": "[ב] [לבוש] מן התורה וכו'. טעמא דר' יוחנן הסנדלר אבל אנן דמספקינן כר\"י נראה דאף במזיד אין בו איסור אלא מדרבנן (מלבושי יום טוב), ומהרא\"ש פרק מרובה ור\"ן פרק כירה מבואר דאף לר' יוחנן הסנדלר הוא דרבנן דהא פליגי רב אחא ורבינא אליביה והלכה כדברי המקיל:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:2"
+        },
+        "3": {
+          "he": "[ג] [לבוש] ולפי מה שכתבתי מותר וכו'. ואם היה יום טוב אסור דאין שבת מכין ליום טוב (מהרי\"ו ב'). אם נתערב אותו דבר בהיתר בשבת הוי דבר שיש לו מתירין לאחרים ולא בטילי, ולפי מה שכתבתי בטל ומותר גם לו (מגן אברהם), ועיין בספרי ליו\"ד סוף סימן ק\"ב ובס\"ק י\"א שם כתבתי לתרץ שלא יהיה דברי לבוש דהתם סותרים להכא:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:3"
+        },
+        "4": {
+          "he": "[ד] [לבוש] דלא אמרו וכו'. צריך עיון דבתוס' והרא\"ש ור\"ן משמע דאף באיסור דרבנן לא מחזקינן שיעשה ישראל ולא בעינן כדי שיעשו אלא כשנעשה על ידי כותים, ואפשר דלבוש הכריע כן מסברא דנפשיה כיון דבית יוסף הביא הרבה פירושים דלעולם בעינן כדי שיעשו שלא יהנה ממעשה בשבת וכן ראיתי בים של שלמה פרק קמא דחולין סימן כ\"ה ובדק הבית לרא\"ה דף י\"ח וריא\"ז בשלטי גיבורים פרק כירה וכן משמע בב\"ח, ומה שהשיג מגן אברהם מתוס' חולין דבמילתא דלא שכיחי לא גזרו רבנן, ולא קשה מידי דמבואר בחידושי רשב\"א שם דרש\"י לא סבירא ליה הכי ובים של שלמה פרק אלו טריפות סימן ה' דהוא הדין נמי דאף שאינו שכיח מכל מקום גנאי ליהנות ממעשה שבת עיין שם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:4"
+        },
+        "5": {
+          "he": "[ה] ובשוגג וכו'. שיכחה שוגג מיקרי (ר\"מ מינץ כ\"ח), וכן כשעשה על פי חכם שוגג מיקרי (רד\"ך), אין לדמות אונס לשוגג (בנימין זאב ק\"ל):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:5"
+        },
+        "6": {
+          "he": "[ו] אם חלה דיום וכו'. ורש\"ל פרק קמא דחולין סימן ל' אוסר בחלה היום משום מוקצה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:6"
+        },
+        "7": {
+          "he": "[ז] [לבוש] הא לא דחייה בידים וכו'. שלא הקצה הוא אותן אלא איסורא הוא דרכיב עליהו וכל שיסתלק האיסור ושלא בעבירה חזר להכשרו (משמרת הבית דף י\"ט), ובזה יתבאר לך שכל מה שהאריך הט\"ז לתמוה כאן ובריש סימן ש\"י הוא לחינם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:7"
+        },
+        "8": {
+          "he": "[ח] [לבוש] שהפרי גדול והולך וכו'. מיירי בפרי שלא נגמר בישולו אבל נגמר בישולו לא אמרינן שגדל והולך (בית יוסף ומגן אברהם):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:8"
+        },
+        "9": {
+          "he": "[ט] להטמינו בחול וכו'. אפילו גילגול על גבי חול אסור (הרא\"ש והר\"י), גג שיש בה עפר אפילו כבר צלויים ועושה כדי לשמור חומו אסור ואפילו מבעוד יום כמו בחול ואבק אבל גג שאין בו עפר מתיר רש\"ל בתשובת סימן ס\"א, ודעת יש\"א ומגן אברהם לאסור ונחלת צבי ולחם משנה פרק כירה פסקו כרש\"ל. כתב הר\"ן אסור להעמיד מאכל על גבי חמי טבריא אבל מערב שבת מותר ולהניח בתוכו אסור כמו שכתב סימן שכ\"ו סעיף ג'. כתב הרמב\"ם פרק ט' הניח בשר על גבי גחלים אם נצלה בו כגרוגרת חייב אפילו בחצי בישולו לדעת הראב\"ד ולהרמב\"ם אינו חייב בחצי בישולו בנתבשל מקצתו עד שנתבשלו כל הבשר חצי בישול (מגן אברהם), וצריך עיון דמשמע דראב\"ד מודה לרמב\"ם ולא כתב אלא דחצי בישול הוא כמאכל בן דרוסאי לאפוקי מרש\"י שכתב שהוא שליש בישולו. כתב הרמב\"ם שם המתיך אחד ממיני מתכות או המחמם המתכת עד שנעשה גחלת וכן הממיס שעוה או החלב או הזפת והגפרית או המבשל כלי אדמה עד שנעשה כלי חרס חייב דהוא תולדה דבישול וכללא דמילתא בין שריפה גוף קשה או שהקשה גוף רך חייב:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:9"
+        },
+        "10": {
+          "he": "[י] [לבוש] יש בו אחר כך וכו'. ויש אומרים דוקא אם מצטמק ורע לו (רמ\"א), והלבוש השמיטו נראה דסבירא ליה כב\"ח שדחה סברא זו דאפילו במצטמק ורע לו אסור מיהו יש לומר דסמך אמה שכתב סעיף ח' מיהו וכו' ומצטמק ויפה לו וכו' וכן בט\"ז ומגן אברהם נראה שהסכימו לזה וכן משמע בספר מנחת כהן אלא שסיים שראוי להחמיר מפני שאין אנו בקיאין בכמה דברים אם מצטמק ויפה לו ואין להקל אלא אם כן ידוע בבירור שרע לו כגון לפת ותמרי ודייסא וכיוצא בו וכן מים אחר שנתבשל כל צורכו ודוקא נגד מדורה אבל אצל אש ממש אפילו במצטמק ורע לו אסור (ט\"ז), ועיין סעיף ו' בהג\"ה דאם אין היד סולדת מיקרי נצטנן אף שעדיין חם ועיין סוף סימן ט\"ו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:10"
+        },
+        "11": {
+          "he": "[יא] שנתבשל כבר וכו'. כל צורכו עיין סעיף ט\"ו, ומה שכתב והוא יבש פירש משאת בנימין שהרוב הוא דבר יבש ואם רוב רוטב נידון לדבר לח וצריך עיון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:11"
+        },
+        "12": {
+          "he": "[יב] לשרותו בחמין אפילו בכלי ראשון וכו' מלבושי יום טוב ומגן אברהם דלא כב\"ח וכן עיקר וכן פסקו תוס' ור\"ן ור\"י ומרדכי פרק כירה, וב\"ח שהחמיר משום דבהגהות מיימוני מסתפק יחידאה הוא נמי גדולים הנזכרים לעיל דדוקא בלא נתבשל מערב שבת רק בנשרה בחמין מסתפק ודו\"ק שהוא נכון. כתב מגן אברהם ומשמע מלשון השולחן ערוך דאם לא נתבשל מערב שבת רק נשרה בחמין אסור לשרותו בחמין בשבת וטוב להחמיר אם היד סולדת בחמין, עד כאן, ומלשון הלבוש לא משמע הכי ובפוסקים נראה עיקר כמגן אברהם, ומכל מקום בכלי שני נראה להקל ולסמוך על הרמב\"ם ודו\"ק:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:12"
+        },
+        "13": {
+          "he": "[יג] מדיחין וכו'. מכלי שני על ידי עירוי ואפשר דשרייה בכלי שני נמי שרי ומשום סיפא נקיט מדיחין (מלבושי יום טוב), והוא לחד תירוצא בתוס' כירה דף ל\"ט, אבל מגן אברהם וב\"ח פסקו כאידך תירוצא דאסור לשרות בכלי שני דמיחזי כמבשל אם לא תבלין בסעיף ט' וכן משמע מר\"י והגהות מרדכי:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:13"
+        },
+        "14": {
+          "he": "[יד] [לבוש] אפילו להדיחן וכו'. עיין בבית יוסף במה שכתב שדברי הפרדס מגומגמין ומתרץ הדרישה זה לשונו, הצעת דבריו שיש מפרשים מליח ישן טרית הוא והוא שנאכל חי אפילו לא הודח בחמין אלא בקרים על זה כתב דאינו דכיון דאין צריך לתיקונו חמין וזה פשוט דבצונן מותר וכיון שראוי אפילו על ידי קרים הוא הדין נמי דמותר על ידי חמין, ומה שכתב שהיו אומרים דאסור לאכול טרית וכו' הכי קאמר האוסרים בטרית כאילו אסרו בהדחת כוסות וזה אינו עד כאן לשונו, מבואר מזה דכל שאי אפשר לאכול אפילו על ידי הדחת קרים אם לא בחמים אסור בחמין ומכל מקום בקרים מותר אבל מה שאפשר בקרין מותר אף בחמין:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:14"
+        },
+        "15": {
+          "he": "[טו] בלא שרייה וכו'. וכן נמי אם לא בהדחה אין ראוי לאסור הדיח נראה לי (מלבושי יום טוב) וכן משמע במגן אברהם, ולכאורה קשה הא זה ממש דין דמליח ישן הנזכר לעיל:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:15"
+        },
+        "16": {
+          "he": "[טז] [לבוש] שאינו מבשל. תימא דרש\"י דף קמ\"ה ודף ל\"ט פירש דמבשל וכן כתב הרמב\"ם פירוש המשנה פרק חביות כיון דמכשרתה לאכילה וכן כתב בפרק ט' ור\"ן:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:16"
+        },
+        "17": {
+          "he": "[יז] משום בישול וכו'. והוא הדין שיש צלי אחר בישול ולכן אסור ליתן דבר שנתבשל אצל האש בלא רוטב (פסקי רקנט\"י בשם רא\"ש וסמ\"ג, מגן אברהם), אבל בשלטי גיבורים פרק חביות כתב שדעת הטור דאין צלי אחר בישול אף דסבירא ליה דיש בישול אחר צלי והיה תמוה לי כי נראה מספר יראים דף ל\"ח ופוסקים הנזכרים לעיל דשוין הן ומבואר נמי שם דיש אפיה אחר בישול כגון שאופה אחר שחלטו, אך מצאתי קצת ראיה לדבריו בכלבו דף כ\"ד וצריך עיון הכלבו שם וכן מצאתי בספר משאת בנימין שפסק כן אלא שהאריך בקושית שם ואישתמיטתיה שלטי גיבורים וכלבו שם הנזכר לעיל. ועוד כתב שלטי גיבורים אין אפיה אחר אפיה וצלוי אחר צלוי ואין צלי אחר אפיה ואפיה אחר צלי. כתב מגן אברהם לכולי עלמא אין צלי אחר צלי ודבר שנצלה מותר ליתנה אצל האש אפילו נצטנן והוא הדין האפוי עד כאן לשונו, וצריך עיון ממה שכתב הלבוש בסעיף הקודם מיהו לחממו על גבי האש אסור מדרבנן ודוחק לומר דהתם מיירי שחיממו על גבי האש ברוטב דגרע טפי ומשמע דבהכי מיירי דאי בלא רוטב הוא דין דצלי אחר בישול או יש לומר דסבירא ליה כשלטי גיבורים הנזכר לעיל ועיין מגן אברהם ס\"ק כ\"ו וצריך עיון. אך יש לומר דמגן אברהם מישרי ליתן אצל אש במקום שיד סולדת אבל על גבי אש ממש מודה דאסור:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:17"
+        },
+        "18": {
+          "he": "[יח] שלא ליתן פת וכו'. והוא הדין שאר דברים כדמסיק ובזה מתורץ תמיהת פרי חדש בסימן ס\"ח ס\"ק כ' על הגמרא דאסור ליתן תרנגולת בכלי שני עיין שם, ועיין סעיף ט' דיש אומרים דמלח מבשל בכלי שני וכן אותן שנותנין בצלים צילאט כתב הט\"ז דאין ליתן בקערה כל זמן שיד סולדת ברוטב ודעת מגן אברהם להתיר בבצלים שהן כתבלין סעיף ט', ויראה להקל דהא כתב בשלטי גיבורים דנהגו עלמא לתת אפוי אפילו בכלי ראשון ואין נזהרים כלל והיינו כיש מקילין הנזכר לעיל, ובספר משאת בנימין כתב דכבר ראו לנהוג איסור אבל בכלי שני אין צריך ליזהר ליתן פת:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:18"
+        },
+        "19": {
+          "he": "[יט] בבצק. אבל בדבר המתמרח אסור כמו שכתב סימן שי\"ד סעיף י\"א מגן אברהם, אבל הט\"ז כתב דבצק הוא כמו שעוה דטיחה היינו ממרח אלא דהכא מיירי שאינו רוצה לסתום פיו כל כך הרבה אלא שלא יהיה מגולה לגמרי ואם כן אינו מדבק הרבה בכלי:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:19"
+        },
+        "20": {
+          "he": "[כ] להתחמם וכו'. אפילו לא נתבשל כל צרכו כיון שאינו אלא לשמור חומו ואי אפשר לבוא לידי בישול גמור (ט\"ז):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:20"
+        },
+        "21": {
+          "he": "[כא] אפילו הכלי וכו'. כיון שהקדירה מפסקת וכן עיקר כדמשמע בסעיף ח' ואפילו ליש אומרים אם נטלו מערב מחשיכה שרי ליתנו על גבי כירה כמו שכתב בסימן רנ\"ג סעיף ב':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:21"
+        },
+        "22": {
+          "he": "[כב] לאחר שהעבירוהו וכו'. הבית יוסף הביא הגהות מרדכי שקרוב הדבר דלא מיקרי כלי ראשון אלא עם סילוקו מן האש מיד אבל וכו' ודחהו ט\"ז והוסיף זה לשונו, תמהתי מאוד הא משנה מפורשת פרק כירה האלפס והקדירה שהעבירן (פירש רש\"י מן האור) מרותחין לא יתן לתוכן תבלין פירש רש\"י העבירו בין השמשות לא יתן משתחשך דכלי ראשון כל זמן שהיא רותח מבשל עד כאן לשונו, ותימא לתמיהותו וכי גברא אגברא קרמית דיש לומר דהגהות מרדכי לא סבירא ליה כפירוש רש\"י אלא פירש דמיד כשהעבירו לא יתן גם איך קרי זה משנה מפורשת, ויותר תימא דלא עיין בהגהות מרדכי פרק כירה גופיה זה לשונו, והלשון מוכיח דקתני האלפס והקדירה שהעבירם מרותחין עד כאן לשונו, הרי אדרבה מייתי ראיה ממשנה זו דמשמע מיד בשעת העברה מאש לא יתן ולא סבירא ליה כפירוש רש\"י, אך קשה על בית יוסף סימן תנ\"א דמייתי שם דין זה ממשנה ופירוש רש\"י הנזכר לעיל והכא מייתי מנתינת קיתון כנגד המדורה וצריך עיון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:22"
+        },
+        "23": {
+          "he": "[כג] כל זמן שהיד סולדת בו וכו'. מיהו בירושלמי איתא דעשו הרחקה לכלי ראשון אף שאין היד סולדת בו וכן כתב תשב\"ץ ועיין ביו\"ד סימן צ\"ד בט\"ז (מגן אברהם), ושם מבואר דוקא בכלי ראשון שעומד אצל האש וגם בזה מקיל ועיין בתשב\"ץ סימן ק\"ז דאין ראיה משם וכן הש\"ך סימן ק\"ה ס\"ק ד' דחה לגמרי דירושלמי מיירי ביד סולדת בו דוקא וכן כתב פרי חדש סימן ס\"ח ס\"ק י\"א:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:23"
+        },
+        "24": {
+          "he": "[כד] דהמלח בטל וכו'. אף דמידי דלטעמא לא בטיל שאני הכא דהוי זה וזה גורם דמסתמא נמלח גם בערב שבת (בית יוסף בשם שבלי הלקט), והאריך הט\"ז לחלוק ולתמוה מאוד דעל כרחך לא מצינו זה וזה גורם רק שאם היה מתערבין קודם שבאו לקדירה דאז נותנים טעם ביחד כמו בשאור מה שאין כן דנתבשל במלח היתר רק שאינו מספיק לטעמא ואחר כך על ידי מלח איסור בא לו טוב טעם האיסור גרם לחוד, עד כאן, ואינו נכון דבמתניתין פרק ב' דערלה בין שנפל שאור של איסור בתחילה בין בסוף לעולם אינו אוסר עד שיהא כדי לחמץ דזה וזה גורם מותר ודוחק לומר דמיירי מתניתין שנפל איסור מיד אחר ההיתר קודם שיעשה שום פעולה דסתמא קתני בין בסוף גם מתנא קמא שם משמע דמיירי אף אחר שעשה פעולתה וכמבואר בברטנורה שם וממשנה הנזכר לעיל מבואר דאם יש במלח הניתן לתוכו כדי ליתן טעם זולת המלח שנתן בערב שבת בכל ענין אסור עד כאן דבריו סוף סימן פ\"ז אלא מיירי שאין בו כדי ליתן טעם אלא עם המלח שאתמול. כתב מגן אברהם ונראה לי דמלח שעושין ממים שמבשלים אותם אין בו משום בישול דאין בישול אחר בישול עיין מה שכתבתי סעיף ט\"ז עד כאן, ואף דבסעיף ד' בנצטנן יש בו משום בישול צריך לומר דמלח מיקרי יבש ואם כן אין היתר אלא ליתן בכלי ראשון שאין אצל אש דהוי כשורה בחמין שם, שוב מצאתי דברי מגן אברהם במרדכי ואגודה פרק כירה ומשמע שם קצת דטוב להחמיר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:24"
+        },
+        "25": {
+          "he": "[כה] ולערות וכו'. ואם עירה אזי הקליפה אסורה (מלבושי יום טוב ומגן אברהם), ועיין יו\"ד סימן ס\"ח ושם סעיף י' כתב רמ\"א דבנפסק הקילוח שרי ובש\"ך סימן ק\"ה שם דאף למאן דאמר דאסור היינו שמבליע אבל אינו מבליע ומפליט כאחד, ומזה פשוט דלענין בישול בשבת דאין חשש כלל ועולת שבת לא דק כלל בזה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:25"
+        },
+        "26": {
+          "he": "[כו] מים חמין וכו'. אפילו בחמי טבריא (מגן אברהם):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:26"
+        },
+        "27": {
+          "he": "[כז] ואף על פי שהוא כלי שני וכו'. כן כתב רמ\"א ונחלת צבי חולק דמותר אם הוא כלי שני ודבריו ארוכים בסוגיא זו וכן הב\"ח וט\"ז האריכו עיין שם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:27"
+        },
+        "28": {
+          "he": "[כח] [לבוש] ועוד וכו' הרבה וכו'. הרכיב פירוש תוס' עם פירוש רש\"י ואינו נכון דלפירוש רש\"י אפילו אין מרובים והרמב\"ם גם כן לא אסר מרובים והטור סתם כפירוש רש\"י דתתאה גבר, והיה נראה לי לתפוס לדברי הר\"ן דמחלק מחמת שהעירוי המתערב מצטנן לגמרי וכו' (מלבושי יום טוב). כתב מגן אברהם נראה לי דאסור ליתן חתיכות בשר רותח לתוך רוטב צונן דכיון שאינו מתערב מבשל כדי קליפה וכן משמע ביו\"ד סימן צ\"א סעיף ד':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:28"
+        },
+        "29": {
+          "he": "[כט] [לבוש] הרבה מים וכו'. שכך דרך לשפוך מהמועט למרובה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:29"
+        },
+        "30": {
+          "he": "[ל] מים וכו' מרובים וכו'. ולא אמרינן דמצרף הכלי וכו' דדבר שאין מתכוין הוא ולא הוי פסיק רישיה דאפשר שלא יגיע לצירוף, ומגיד כתב כל שהוא מפני התיקון כלי מי שאינו מכוין לתקנו פטור:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:30"
+        },
+        "31": {
+          "he": "[לא] אפילו בכלי ראשון וכו'. ולדעת מלבושי יום טוב הנזכר לעיל אפשר לאסור בזה ועיין סעיף י':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:31"
+        },
+        "32": {
+          "he": "[לב] בכלי שני וכו'. היד סולדת בו תוס' פרק כירה אבל בכלי ראשון עיין סעיף ט' ואם שואב בכלי ריקן מכלי ראשון פסק הט\"ז ביו\"ד סוף סימן צ\"ב להחמיר הוי ככלי ראשון, ואם שהא בתוכו עד שמעלה רתיחה שם פשיטא שהוא ככלי ראשון ועיין סוף סימן רנ\"ח:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:32"
+        },
+        "33": {
+          "he": "[לג] דהיינו מקום וכו'. מכאן תשובה למורה הוראה דשואלין אם היד סולדת בתבשיל ומשערין באצבע וזה אינו אלא שכריסו של תינוק וכו' (דרישה):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:33"
+        },
+        "34": {
+          "he": "[לד] והוא הדין בפירות וכו'. ומכל מקום מותר ליתן אלונטית וכלי עופרת סמוך לאש לחממו אף שהוא קרוב כל כך שיכול להתיך שם או לשרוף דלא ניחא ליה והוי דבר שאין מתכוין:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:34"
+        },
+        "35": {
+          "he": "[לה] אפלו נצטנן וכו'. דסבירא ליה דאין בישול אחר בישול אפילו ברוטב ונצטנן ועיין סעיף ד' וצריך עיון ממה שכתב בהג\"ה סעיף ה' סתם אפילו בנצטנן קצת אסור:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:35"
+        },
+        "36": {
+          "he": "[לו] ויש מחמירין וכו'. ואם שפך לחוץ המים והשומן שבתוכו מותר לחמם הפשטידא אף דעדיין נפשר וזב מבשר שומן שבתוכו דבר מועט הוא ולא חשיב ושרי ולכך מותר לחמם לכולי עלמא חתיכות בשר שמן אף שמקצתו זב (בית יוסף), וזה לשון מלבושי יום טוב כתב בדרשות מהר\"ש שהתיר להשים כד של יין שהיה בו קרח הרבה על התנור כדי לפשר הקרח, עד כאן, וצריך עיון דמהר\"ש נראה דסבירא ליה כהמתירין דלעיל אבל למחמירין הוה ליה נולד ואפשר דכיון שיש בו יין ואינו ניכר הקרח כשנימוח מותר וכן צריך לומר בסימן ש\"כ סעיף ט' אם הניחם בחמין וכו' אבל בקרח לבד או אינפאנדה וקדירה הנזכר לעיל אף שנימוח בחמה הוי נולד למחמירין ואפילו בדיעבד אסור השומן בשבת מיהו הפשטידא עצמה מותר וכתב מגן אברהם דמותר ליתן הפשטידא קודם שהוסק התנור כמו שכתב סוף סימן רנ\"ג אך אין להקל בפני עם הארץ ויש לעשות על ידי כותים:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:36"
+        },
+        "37": {
+          "he": "[לז] [לבוש] נראה לי שטעות וכו'. דשמן יש בו בישול וכו' הט\"ז האריך לתמוה על בית יוסף ולבוש דלא ראו בש\"ס דר' שמעון בן גמליאל אומר אשה סכה ידה וכו' דכיון דהוא על ידי שינוי ליכא בישול דאין איסור אלא כשהשמן בעין בפני עצמו והוא הדין בשומן שעל גבי אנפדה דמותר אפילו ביד סולדת בו אנפדה מיד, עד כאן, ודבריו תמוהין דודאי ראו דר' שמעון בן גמליאל דהא מייתי לה אלא דסבירא ליה דלמסקנא לא קיימא לן כר' שמעון בן גמליאל אלא אסור אף על ידי שינוי ועוד דשומן אנפדה שזב ממנו הוי בעין ממש כמו שכתב בית יוסף ועיין מה שכתבתי ס\"ק מ\"א, גם מה שכתב הט\"ז דהך מקום שיד סולדת בו מיירי על כל פנים שאינו יכול להתבשל דאם לא כן אסור לכולי עלמא כמו שכתב בסעיף י\"ד במקום שיכול להתבשל אסור ולא זכר שם במקום שיד סולדת בו וכו', ולא ירדתי לסוף דעתו שהרי מפורש שם במקום שיד סולדת בו גם פשוט בש\"ס ופוסקים דיד סולדת בו הוא מקום שיכול להתבשל ומבואר נמי כן בסעיף י\"ד ודו\"ק וכן בסעיף שאחר זה, ואי נתרץ קושיות בית יוסף ולבוש נאמר שיש חילוק לענין בישול בין שמן בין אינפדה שכבר נתבשל שאין בו בישול אחר בישול כמבואר בסעיף ט\"ו וכן כתב בספר משאת בנימין ומגן אברהם ודרישה, ומכל מקום יפה כתב הלבוש כי בתשב\"ץ והג\"ה סמ\"ק וכלבו כתבו נמי להחמיר במקום שיד סולדת בו ובתנור משמע אף שאין יד סולדת בו אסור אם לא על גבי נסרים העשוין על גבי תנור ונראה להחמיר בזה לכתחילה אף לעת הצורך:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:37"
+        },
+        "38": {
+          "he": "[לח] [לבוש] ויפשירו זהו בישולו וכו'. כן הוא לפי גירסת רש\"י דף מ' אבל הר\"ן ור\"י ורמב\"ם ופוסקים גרסינן הפשרו לא זהו בישולו וכן פסק בספר משאת בנימין, מיהו ביד סולדת בו אף בסכה ידיו שמן או מים אסור וכן משמע ברמב\"ם פרק ט' וכלבו דף ל\"ב ורבינו ירוחם חלק ג':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:38"
+        },
+        "39": {
+          "he": "[לט] שהעבירו מרותחין וכו'. כן כתבו הטור ור\"ן וכן פירש בית יוסף דברי רמב\"ם פרק ג' אבל בלחם משנה שם ראיתי שפירש דוקא על האש אסור והא דצמר ביורה דאסור אפילו העבירו טעמיה משום צובע וכן מצאתי בכלבו דף ל\"ב ע\"א (ע\"ד) [עיין שם] שפירש כן להדיא דברי רמב\"ם ובהכי ניחא נמי מה שכתב הטור ושולחן ערוך בסוף סימן שכ\"א בשם הרמב\"ם להתיר דמיירי התם בנסתלקה מהאש וכן משמע במרדכי ואגודה פרק קמא דשבת, ואפשר לי להשוות דעת הפוסקים יחד דכשהוא על האש אפילו בנתבשל כל צרכו אסור וכשאין על האש מותר בנתבשל כל צרכו אלא דבמגיד משמע דאף שהוא על האש מותר בנתבשל כל צרכו וכן משמע בב\"ח ריש סימן רנ\"ב, גם אפשר דמודין כל הפוסקים דמותר בנתבשל כל צרכו והא דכלבו ומרדכי ואגודה שכתבו קדירה מבושלת אבל לא מיירי בכל צרכו וצריך עיון, ומגן אברהם העתיק לשון הכלבו כל צרכו וליתא שם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:39"
+        },
+        "40": {
+          "he": "[מ] [לבוש] ויש אומרים דלכתחילה וכו'. היינו משום הרחקה כמו שכתבו הב\"ח וט\"ז ומכל מקום כשהוא על האש הראיתי פנים שהוא מדינא. כתב מגן אברהם העולם נהגו היתר במיני קטניות שמוציאן בכף כיון דאי אפשר בענין אחר וכו' ודעת ט\"ז לחלק בין הוצאה למגיס ומהפך בו דהוצאה בעלמא אין כאן זהירות וכן משמע לי במגיד שם זה לשונו, כתב כל שהם בהגסה ממש חיוב הכנסת המגרפה מותר וכל שכן בהגסה חייב אסור להכניסה עד כאן לשונו, דלכאורה תמוה ונראה לי להגיה כל שאין בהגסה וכו' והיינו דבהוצאה קיל דכל שאין חיוב בהגסה ממש מותר הוצאה, מיהו כשהוא על האש ודאי יש לאסור הוצאה וזה לשון שלטי גיבורים דף ק\"ע אין ליקח מן החמין כדי לתת לתינוק משנכנס שבת לא בלילה ולא למחרתו דילמא מגיס ומבשל, עד כאן:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:40"
+        },
+        "41": {
+          "he": "[מא] שמן ושום וכו'. ונראה לי דבשומן מותר לטוחן דאין בו משום בישול כמו שכתב בסעיף ט\"ז ומשום נולד ליכא כיון דאין בעין ובלבד שלא ירסקו בידים רק יניחנו עליו מעט מעט והוא נימוח מאיליו ואפשר דזהו מיקרי בעין מידי דהוי אקדירה שיש בה רוטב וצריך עיון (מגן אברהם), אבל בדרישה מצאתי זה לשונו מכאן נראה לי ראיה שמותר לטוח שמן אווזא שנקפה על גבי מיני קמחים וקיטניות כגון לאקשין רכין או הירז שנותנין על גבי קערה בשבת שאף שהניחה [שנמחה] על גבו הואיל ואינה מתבשל על גבו מותר דהרי שום ושמן גם כן נקרש קצת ונמחה אצל האש ואף על גב דאין מרסקין הברד והשלג בידים שאני הכא שהיא נמחה כבר ועדיין אינו קפוי כל כך כמו בקושי כמו הגלד ואף דבפשטידא יש אוסרים לעיל שאני התם שהשומן נמחה הוא והוא בעין וגם מתחילה בטל אצל האוכל ועכשיו נעשה משקה מה שאין כן בזה עד כאן לשונו, מבואר דפשיטא ליה דזהו מיקרי אינו בעין גם משמע דמותר לרסקו בידים ועוד הא בסימן ש\"כ ס\"ק י\"ג הביא מגן אברהם הרבה פוסקים דמותר לרסק גלד לתוך הכוס ונראה דהוא הדין בזה, אך צריך עיון מסימן שכ\"ח סעיף כ\"ב ובתניא דף כ\"ז ובכלבו דף ל\"ב ע\"א בשם ספר התרומות זה לשונו, סכין לאדם דוקא בשמן אבל בחלב או בשומן אסור לפי שהוא נתך ונמס על ידו ונעשה נולד, עד כאן, ודוחק לומר דעל גבי ידו מיקרי בעין יותר מעל גבי דבר מאכל חם שנבלע ועיין ס\"ק ל\"ד, (והג\"ה) [והנה] מדברי דרישה משמע לכאורה דוקא בכלי שני מתיר מדנקט קערה ויש לומר דאורחא דמילתא נקט ועוד דבדבר גוש יש אומרים דאף כלי שני דין כלי ראשון יש לו עיין יו\"ד סימן ק\"ה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:41"
+        },
+        "42": {
+          "he": "[מב] כנגד המדורה וכו'. לאו דוקא דהוא הדין כשהעבירו ויד סולדת בו כמו שכתב בסעיף ט' (ט\"ז ומגן אברהם), וצריך עיון בכלבו מקור דין זה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 318:42"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "מותר למ\"ש מיד.  דלא בעינן בכדי שיעשו אלא במלאכה  הנעשית ע\"י עכו\"ם בשביל ישראל משום דקל בעיניו ויבא לעשות כן פעם אחרת אבל דבר שעושה ישראל בידים ודאי ליכא למיחש דאתי לבשולי בהדיא:",
+          "en": "Permitted on Motzai Shabbos immediately. For 'bichdei sheyasu' is only required when the labor was performed by a gentile on behalf of a Jew, for it is an insignificant matter in his eyes and he may come to do it again whereas a labor performed by a Jew personally there is certainly no concern that he will be lead to cook openly.",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:1"
+        },
+        "2": {
+          "he": "בין שחלה היום.  ואין אסור משום מוקצה וכ' הב\"י בשם הרא\"ש דקי\"ל כר\"ש דאמר אין מוקצה אלא בנר שהדליקו בשבת [נ\"ל ט\"ס וצ\"ל הדולק בשבת וכמ\"ש בסי' רע\"ט] ובגרוגרות וצמוקים דדחינהו בידי' ואסח דעתיה כו' עכ\"ל  ואח\"כ כ' בשם רמב\"ם וה' המגיד דלא כהראב\"ד והר\"ן שלא התירו בחולה שנחלה בשבת משום מוקצה אפי' לר\"ש וקשה ממ\"ש ב\"י רסי' ש\"י דמודה ר\"ש במידי דלא חזי לתשמיש היתר כו' דהא כאן ודאי היה על הבהמ' איסור כל שלא נשחטה ואפ\"ה מתירין משום מוקצה לר\"ש כאן וע\"כ הטעם כיון שאח\"כ באותה שבת הותרה ונעשית ראוי וכ\"כ הב\"י שם דבזה דוקא ר\"ש מתיר דהיינו שנסתלק איסור וע\"ז קשה מאוד דהא בזה לא קי\"ל כר\"ש ואנו אוסרים נר שהדליקו בה באותה שבת וכבתה דלר\"ש מותר ואנן קי\"ל לאיסור כמ\"ש סי' רע\"ט אם כן קשה למה פסק כאן להתיר בבהמה שנשחטה בשבת לחולה כשנחלה בשבת וא\"ל דדברי ב\"י בסימן ש\"י הם אליבא דהראב\"ד והר\"ן דכאן שמביא ב\"י שס\"לבשוחט לחולה דמותר לבריא היינו בחולה שנחלה בע\"ש אבל בשבת ה\"ל מוקצה ואפי' לר\"ש זה אינו דמבואר היא דאליבא דהלכתא כ\"כ ב\"י בסי' ש\"י שבא לישב שם שלא תקשה הלכתא אהלכתא וב\"י תמה על הר\"ן איך לא הרגיש במאי דקי\"ל כר\"ש דל\"ל מוקצה ולפמ\"ש יש לתמוה איפכא על המתירין ונ\"ל דהא דלא קי\"ל כר\"ש בהיתר שבא מחמת שנסתלק האיסור היינו דאמרינן כיון דאתקצאי לב\"ה איתקצאי לכולי יומא והיינו במידי דבא היתר בשבת מחמת שינוי שנשתנה האיסור מכמות שהיה דהיינו נר שהדליקו באותו שבת אע\"פ שכבה אסור לטלטלו אנו אמרינן כיון שהיה דולק ב\"ה ה\"ל כאלו דולק עדיין ולא משגחי' בהשינוי שנעש' בנר וכן בנוי סוכה שנפלו אמרינן כיון שהיה תלוי' בסוכה ב\"ה הוה כאלו תלוים עדיין וכן במעות שעל הכר אנו רואים כאלו מונח עדיין מה שא\"כ בשוחט בשבת לחולה דבהמה כמות שהיא וכמו שהיתה ב\"ה בחיים כן היא עדיין רק שנתחדש מצד אחר שנחלה אדם א' והתירה לו התורה משום פ\"נ ואלו היה ב\"ה אותו חולה היה לו ג\"כ היתר נמצא לא היה עליה שם מוקצה כלל מצד איסור  לא אמרינן מגו דאתקצאי כו' אלא מצד שהאדם מקצה דעתו ממנ' על כל השבת ולא חשיב עליה בזה קי\"ל כר\"ש דמוקצ' מותר כנ\"ל נכון וברור הגם כי לא נמצא מפורש סברא וחילוק זה והראב\"ד והר\"ן לא ס\"ל כן מ\"מ המתירים דהיינו הרמב\"ם והרא\"ש ס\"ל שפיר כן כי סבר' טובה היא כנלע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:2"
+        },
+        "3": {
+          "he": "תבשיל שנתבשל כו'.  זה דעת רש\"י שפי' במאי דאמרינן בפ\"ק דשבת דף י\"ח דנותנין צמר ליורה סמוך לשבת וניחוש שמא מגיס בה פי' שמא יהפך ביורה ובמבשל הוי בישול ש\"מ דיש בישול אחר בישול ובפרק חבית (שבת דף קמ\"ה) תנן כל שבא בחמין פי' שנתבשל בע\"ש שורין אותו בשבת פי' בחמין כדי שיהא נימוח אלמא אין בישול אחר בישול וצריך לחלק דההיא דחבית מיירי בדבר יבש כדאמרי' שם בתרנגולת' דר' אבא פי' שהיה  מבשלה ושורה אותה ימים רבי' בחמין למחות מאליה ואוכלה לרפואה אבל בתבשיל שיש בו מרק יש בישול אחר בישול וכ' הרא\"ש ונ\"ל להביא ראי' מדתני' בפרק המביא אחד מביא את האור ואח' מביא את העצים כו' כולם חייבים אע\"פ שאותו שנתן לתוכה מים נתחייב משום מבשל המגיס בה נמי חייב משום מבשל אלמא יש בישול אחר בישול אף ע\"פ שלא נצטנני' ואיכא למדחי שעד שלא נתבשל כמב\"ד כל המקרב בישולו חייב ואחר שנתבשל כמב\"ד אפשר דאין בישול אחר בישול ומסתברא דעד שלא הגיע למאכל ב\"ד כל המקרב בישולו חייב ואחר שנתבשל כמב\"ד אם נצטנן והרתיחו חייב כדפי' רש\"י בפ\"ק דשבת גבי שמא ירתיח דשמא ירתיח קדירה שנצטננה כשירצ' להטמינ' וירתיחנה באור ונמצא מבשל והא דפריך וניחוש שמא מגיס היינו משום צובע משמע מסקנת הרא\"ש בהא דכתב ומסתברא וכו' דאחר שהגיע למב\"ד אין חיוב אלא א\"כ נצטנן  ומרתיחו ומשמע דבבישול גמור אין אחריו בישול אפי' נצטנן אבל הטור כתב בזה אפי' עודו רותח שייך בו בישול ובנצטנן ומרתיח אפי' נתבשל כ\"צ והיינו כדעת רש\"י ומ\"ה מביא הטור החילוק בין מרק לדבר יבש דאלו לדעת הרא\"ש א\"צ לזה דס\"ל בבישול גמור אין אחריו בישול ל\"ק מההיא דכל שבא בחמין דשם מיירי מנתבשל גמור אלא ודאי דס\"ל  לטור כרש\"י וכ\"פ כאן בש\"ע ונ\"ל דגם הרא\"ש ס\"ל כך ולא נקט החיוב בנצטנן אלא לדין תורה דכל שנצטנן חייב מה\"ת חטאת ואפי' בנתבשל בישול גמור כבר דכיון שהחיוב משום צינון אין שום חילוק ולא נקט כמב\"ד אלא משום היפוכה דרישא דקוד שהגיע לזה יש חיוב אפי' בלא נצטנן והטור מיירי מצד האיסור דיש חילוק בין כמב\"ד ובין בישול גמור ובהדיא כתב ה' המגיד בפ\"ט וז\"ל ודעת הרשב\"א וקצת מפרשים דכל שנתבשל כמב\"ד אין בו משום בישול דבר תורה ומ\"מ באור ממש אסור וזה נלמד מדין חזרת מצטמק ורע לו בפ\"ג עכ\"ל מ\"ה כ' הטור דבכדי מב\"ד מה\"ת פטור כל שהוא רותח אפ\"ה מדרבנן אסור כיון שיש תוספ' בישול אבל בנצטנן אסור אפי' בבישול גמור ואז חייב חטאת והב\"י לא רצה לפ' כן משום דק\"ל דאם אית ביה אסורא איכא נמי חיובא ולק\"מ דהא  בהדיא כ\"כ ה' המגיד כמ\"ש ועוד הקשה דהא הרא\"ש כ' בסברתו  ואחר שהגיע למב\"ד אפי' נצטנן והרתיחו חייב כדפי' רש\"י גבי שמא ירתיח הרי שלא חילק בין נתבשל כ\"צ להגיע למב\"ד ומנ\"ל לרבינו לחלק ביניהם גם זה ל\"ק דודאי האמת הוא כך דבנצטנן אין חילוק גם לדעת הטור כיון שיש איסור דאורייתא רק בעודו רותח יש חילוק דכשהגיע למב\"ד פטור אבל אסור ובכל צרכו מותר אפי'  לכתחלה והיינו סמוך למדורה אבל אצל האש ממש פשיטא דאסור בכל ענין אפי' במצטמק ורע לו ועססי' זה סט\"ו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:3"
+        },
+        "4": {
+          "he": "וי\"א דוקא כו'.  אבל במצטמק ורע לו מותר כ\"כ הב\"י בשם הרי\"ו וכ' דבנצטנן ומצטמק ויפה לו אין לו להניחו כ\"כ סמוך למדורה במקום שהי\"ס בו אפי' בישול כ\"צ ממילא במצטמק ורע לו בכה\"ג דוקא מותר וכ\"כ עוד בשם רבינו יונה א\"כ קיצר רמ\"א כאן במידי שצריך לבאר דמדכתב סתם משמע דבמצטמק ורע לו  מותר אפי' סמוך למדור' ומו\"ח ז\"ל דחה דיעה זו מהלכה דהקשה לו דע\"כ לא מחלקים בין יפה לו או רע לו אלא לענין חשש שמא יחתה אבל לענין חיוב חטאת דמבשל אין חילוק ביה ולמאי דכתבתי בסמוך  דלהטור אין חיוב מ\"ה אחר מב\"ד אלא בדרבנן אסור שפיר יש חילוק בזה ותו נ\"ל דיש חילוק זה אפי' במן ה\"ת דקי\"ל במלאכת שבת דמלאכת מחשבת אסרה תורה והיינו במאי דניחא ליה וזה בא לחמם להפיג צינתו לא שיצטמק עוד דהא רע לו דאי היה טוב לו הי' אסור דחיישינן שמא מתכוין להצטמק משא\"כ בזה כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:4"
+        },
+        "5": {
+          "he": "חוץ מן המליח הישן כו'.  משמע דבמים צוננים מותר ולכן מותר לרחוץ הערינ\"ג בשבת בצוננים אפי' הוא מלוח הרבה וכ\"כ ב\"י בסימן זה בשם הפרדס בדג שקורין טונינא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:5"
+        },
+        "6": {
+          "he": "אם בישלו אח\"כ כו'.  זה כתב הטור בשם הר\"א ממיץ דאע\"ג דאין בישול אחר בישול בדבר יבש מ\"מ יש בישול אחר צלי וראייתו מההיא דפרק כ\"ש דף מ\"א בקרבן פסח אם צלאו ואח\"כ בשלו חייב הא מני ר\"י הוא דאמר יוצאין ברקיק השרוי במים בפסח אבל לא במבושל דלאו לחם קרינא ביה אף ע\"פ שכבר נאפה בתנור הואיל וחזר ובישלו ביטלו מתורת לחם ה\"נ יש בישול לאחר אפייה לענין שבת וראבי\"ה חלק עליו דבפ' כ\"מ מייתי לההיא דר\"י לענין ברכה דשלקות מברכין עליה שהכל ולא בפ\"ה כבתחלה כמו במצה לר\"י ומסיק עלה דעד כאן לא אמר ר\"י אלא דבעינן טעם מצה וליכא וקלסה ב\"י לראבי\"ה דקושייתו חזקה דהא קיימא לן דברכתו בפ\"ה וא\"כ ע\"כ קיימא הדחי' דבעי' טעם מצה אליבא דהלכתא וכ\"כ התו' שם בפרק כל שעה דיש לדחות מחמת טעם מצה בעי' ול\"ד לפסח כמו דדחי בפ' כ\"מ לענין ברכה. ואני איני כדאי להכריע בין הרים גדולים מ\"מ כנלע\"ד לתרץ על נכון דברי הרא\"מ כדרך זה דס\"ל כרי\"ו ור\"י לעיל בס\"א במצטמק ורע לו דאין בו בישול אחר שנתבשל כ\"צ. וכבר ביארנו טעמו בסמוך דבמצטמק ויפה לו יש בו משום בישול כיון דנהנה ממלאכת שבת בטעם חדש משא\"כ במצטמק ורע לו א\"כ נאמר כאן ג\"כ סברא זו דאף למאי דבעית למידחי ולפר' ההיא דר\"י משום בעינן טעם מצה זה מועיל לדחות ההיא דצלאו לפסח והדר בשלו דשם גזירת הכתוב הוא דצלי בעינן ולא בטעם תליא מילתא ע\"כ נוכל לומר דלא נתבטל ממנו שם צלי אבל במצה בעי' טעם מצה דלחם עוני בעינן כן נוכל לדחות ההיא דפסח לפי דעת התוס' אבל כאן לענין שבת לא מהני האי דחיה דכי נמי תימא משום דטעם מצה בעינן ה\"נ אזלינן בתר טעם התבשיל וכיון דנשתנה הטעם ע\"י בישול אמריצן דנתכוין לזה בשבת ולא עדיף מן מצטמק ויפה לו דיש משום בישול אפי' אחר בישול כ\"ש אחר אפיה זה כתבנו לדעת התוס' דס\"ל דגם לענין הפסח שייכה הדחייה דבעינן טעם מצה וא\"כ צ\"ל דבצלי אין שייך לומר טעם צלי בעינן וע\"כ צ\"ל דיש לימוד אצל מצה דשם דוקא בעינן טעם מצה דהיינו מדכתיב לחם עוני אבל נ\"ל דהרא\"מ ס\"ל דלא שייכא דחי' זו גבי פסח כלל דגם גבי פסח נימא טעם צלי בעי' ומש\"ה חייב במבשל אחר הצלייה אבל לענין ברכה שפיר הוה הדחיה בפרק כ\"מ דודאי טעם ירק שהיה בו קודם הבישול ישנו ג\"כ אח\"כ אלא שנשתנה למעליותא ולמה יגרע הברכה ממה שהיה תחלה דהיינו בפ\"ה ומ\"ה לא דחה בגמרא בפ' כ\"ש לשום מ\"ד דחיה זו דבעינן טעם מצה וא\"כ כאן לענין בישול בשבת פשיטא דליתא לדחיה זו כמ\"ש דמלאכת מחשבת אסרה תורה כדאיתא בהרבה דוכתי וק\"ו דנימא דאסור מדרבנן מחמת שינוי הטעם ומ\"ש כאן אסור לד\"ה כנ\"ל נכון:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:6"
+        },
+        "7": {
+          "he": "אפי' בכ\"ש.  הטעם בב\"י דלמא פת דרכיך מתבשל אפי' בכ\"ש ויש מתירין הוא דעת הטור דס\"ל דלא מצינו בישול בכ\"ש אלא במלח לחד לישנא בס\"ט ולא מידי אחרינ':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:7"
+        },
+        "8": {
+          "he": "ונהגו ליזהר לכתחלה.  פי' שאין נותנים לחם במרק של השלינ\"ט ונ\"ל דאותם שחותכים בצלים דק דק ונותנים לתוך המרק לא ישימו רק אחר שלא תהיה היד ס\"ב דבלחם יש קולא מחמת שנאפה כבר ואפ\"ה נזהרים כ\"ש בבצלים ואע\"ג דאפשר דבצלים לא מתבשלים בכ\"ש מ\"מ י\"ל דשמא הוה כמלח לל' א' דמתבשל כמו שכתב בס\"ט ע\"ש דלא בקיאין אנו במידי דמקרי רכיך ואסור והיינו כ\"ז שהיד סולדת במרק:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:8"
+        },
+        "9": {
+          "he": "דבר חם שהיס\"ב.  ואפי'  לא נתבשל כ\"צ דאמרינן לעיל בסמוך דיש בו משום בישול אפי' ברותח שאני הכא שא\"א לבוא לידי בישול גמור והא דאמרינן בגמרא ולא בשביל שיוחמו אלא בשביל שישמור חומו פי' לא יניח צונן כדי שיוחם אבל חם כבר מותר שאין כאן אלא שמירת חומו ולא יבא לידי בישול גמור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:9"
+        },
+        "10": {
+          "he": "לטוח פיו בבצק.  ק\"ל דהא טיחה היינו ממרח דבערוך כתב טיחה ומריחה וסיכה ומשיחה אחת הם וא\"כ מ\"ש מההיא דפ' חבית הובא בסי' שי\"ד סי\"ד דלא יתן שעוה בנקב החבית מפני שהוא ממרח וצ\"ל דש\"ה שרוצה לסתום הנקב ע\"כ רוצה לדבק השעוה בדופן הכלי סביב הנקב כדאיתא שם במשנה אר\"י מעשה בא לפני ריב\"ז ואמר חוששני לו מחטאת פרש\"י שמא מירח השעוה לדבקה לשעוה בדופני הכלי סביב הנקב משמע דלאו ודאי הוא שמדבק אלא חיישינן לזה דקפיד שלא יזוב המשקה והכא שאינו רוצה לסתום פיו כ\"כ הרבה אלא שלא יהיה מגולה לגמרי שיתקרר וע\"כ לא חיישינן שמא ידבק הרבה בכלי כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:10"
+        },
+        "11": {
+          "he": "אפי' כלי התחתון על האש.  הטעם כתב ה' המגיד שכיון שהקדירה מפסקת ה\"ז כמחמם נגד המדורה ומותר עכ\"ל. ונראה דגם זה במקום שא\"א לבא לידי בישול גמור דאל\"כ הא אפי' ברותח יש בו משום בישול אחר בישול כל שלא נתבשל כ\"צ וכאן לא חילק בין נתבשל כל צרכו או לא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:11"
+        },
+        "12": {
+          "he": "אפי' לאחר שהעבירוהו כו'.  בב\"י כתב וז\"ל כתב בהגמ\"ר שקרוב הדבר דלא מקרי כ\"ר אלא עם סילוקו מן האש מיד אבל אם הניחו לעמוד להפיג רתיחתו ה\"ל כ\"ש ולי משמע ממ\"ש בפ' כירה גבי נתינת קיתון של מים כנגד המדורה שכל זמן שהיס\"ב חשיב כ\"ר ואע\"פ שגם בכ\"ש היס\"ב אין לו דין כ\"ר דשאני כ\"ר שנתחמם באור עצמו וכמ\"ש התוס' כו' עכ\"ל ואיני יודע מהיכן למד ב\"י מגמרא שהביא לענין זה דשם לא מיירי כלל מהעבירוהו מן האש אלא מענין דין יד סולדת אבל תמהתי מאד דהא משנה מפורשת היא בפרק כירה האילפס והקדירה שהעבירן (פרש\"י מן האור) מרותחין לא יתן לתוכן תבלין פירש\"י מרותחין בין השמשות לא יתן לתוכן תבלין משתחשך דכ\"ר כ\"ז שהוא רותח מבשל עכ\"ל הרי מבואר דלא כהגמ\"ר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:12"
+        },
+        "13": {
+          "he": "בשר מלוח.  באשר\"י כתב וז\"ל משמע דבשר' דתורא לא בשלה בכ\"ר ומותר לתת בשר חי בכ\"ר שהעבירוהו מן האש ומיהו אם מלוח ישן הוא אפשר דאסור דממהר להתבשל כדאמרינן לעיל ואפי' נמלח מחדש נהי דבשר אינו מתבשל הלחלוחית והדם והמלח שבתוכו מתבשל ונבלע בתוכו ואסור עכ\"ל.  ומשמע מזה דהמלח הוא הגורם שימהר להתבשל המלח מרכך הבשר כששוהא הרבה במלחו כדרך שמולחין בשר אחר כשרותו מדמו וזהו כששוהה שם אבנ מליחה מחדש אינו מרכך עדיין הבשר אלא דנתן בו טעם אחר לאיסור שבת לפי שהמלח והלחלוחית כו' מתבשל וא\"כ אפי' אין בו מלח כלל יש איסור לענין שבת מחמת בישול הלחלוחית ומ\"ה לא זכר הטור כאן רק לחלוחית ולא מלח  והרא\"ש דנקט מלח היינו לכלול בזה עוד איסור בלאו בישול שבת אלא אפי' בחול מחמת הדם וזה כונת רמ\"א שכתב ונ\"ל דבלא מליח כו' אלא דנקט מלוח ר\"ל הרא\"ש דנקט מלוח הוא בשביל דבלא\"ה כו' ונ\"ל דגם הש\"ע יכול לסבור כך דלחלוחית פשיטא דמתבשל אלא אם אין בו לחלוחית כגון שהוא יבש מ\"מ כיון שיש מלוח עליו אלא שנתייבש עליו הוא מתבשל וע\"כ לא כתב רמ\"א ל' פלוגת' ולי נראה כו' אלא ונ\"ל כו' דאין כאן פלוגתא כיון שמפרש כן בטור דלחלוחית לבד מתבשל ועכי\"ד מ\"ש עוד מזה לענין איסור דם: ;",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:13"
+        },
+        "14": {
+          "he": "ויש אוסרים ליתן מלח.  בגמ' איכא ב' לשונות בזה ללישנא בתרא הוה מלח לקולא דקשה להתבשל כבישרא דתורא מ\"ה מותר אפי' בכ\"ר כשהעבירוהו מהאש וללישנא קמא הוה מלח לחומרא דאפי' בכ\"ש מתבשל ופסקו כלישנא בתרא אלא דרמ\"א כ' ע\"פ התו' דהמחמיר כלישנא קמא תע\"ב וכבר זכרנו בס\"ד בבצלים דינא הכי כיון שהם חריפי' ממהרי' להתבשל ועינינו רואות דכשנותנין אותם בכ\"ש רותח מתמתקי' ממרירותם אחר שמונחים שם קצת שעה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:14"
+        },
+        "15": {
+          "he": "בטל ע\"ג המאכל.  ולא הוי דשיל\"מ אחר השבת דאפי' באלף לא בטיל משום דכאן נתבטל קודם שנעשה האיסור דהא מילחא אינו מתבשל אלא כבישרא דתורא כדלעיל ואין לאסור מטעם דלטעמא עביד ולא בטיל כמו בשאור ותבלין כיון שמסתמא נמלח ג\"כ מע\"ש אלא שלא נמלח כ\"צ ה\"ל זה וזה גורם ומותר כמו בשאור של תרומה ושאור של חולין שנפלו לתוך עיסה ונצטרפו וחמצו דקי\"ל זוז\"ג מותר ע\"כ בב\"י בשם ש\"ל בשם ר\"ש. ולעד\"נ מאד תמוה דע\"כ לא מצינו זוז\"ג רק שאם באותו הזמן שגורם האיסור פעולתו אז גורם גם ההיתר פעולתו כההיא דשאור שזכרנו דשניהם הם מחמצים בפעם א' וכן בכל זוז\"ג הנזכרים בי\"ד כמ\"ש שם בסי' קמ\"ב הוא כן משא\"כ כאן דנתבשל תחלה במלח של היתר וכבר עשה פעולתו רק שאינו מספיק לטעמא ואח\"כ ע\"י מלח של איסור בא לו טעם טוב לא הוה זוז\"ג אלא האיסור הוא הגורם ליתן לו טעם טוב וההפרש מגולה לנו הא למה זה דומה לתבשיל שיש בו תבלין אלא שאינם מספיקין והניח שם תבלין של איסור והשביחו לתבשיל וכי יהיה זה מותר דאין לך אכילת איסור גדול מזה ול\"ש זוז\"ג אלא אם היו מתערבים קודם נתינת הטעם דהיינו קודם שבאו לקדירה דאז נותנים טעם ביחד משא\"כ בנדון זה דהוה כמו נותן תחלה תבלין בשבת בכ\"ר דגם כאן מרגישין בפי' טעם האיסור מה שמוסיף על ההיתר כנלע\"ד לחלק והבא לסתור חילוק זה עליו הראיה  ונראה שאין להתיר אכילה זו בשבת אלא ימתין עד אחר השבת כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:15"
+        },
+        "16": {
+          "he": "ולערות עליהם מכ\"ר.  דקי\"ל כרש\"י ור\"ת דעירוי ככ\"ר היינו לחומרא אבל לא לקולא כגון  להכשיר [כלי] שצריך הגעלה ע\"י עירוי מכ\"ר כמבואר בי\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:16"
+        },
+        "17": {
+          "he": "אמבטי של מרחץ כו'.   בטור כתב אבל ספל של מים חמין כו' והוא תמוה מאד דפסק נגד כל ההלכה הנזכר' בתלמוד דהיינו שאמרי' בפי' דאביי הביא ברייתא דספל אינו כאמבטי  דאמבטי אמרינן שם דמותר בחמין לתוך צונן ולא להיפך אלא בספל מותר בכל גוני תו אמרי' אח\"כ דרבא לא קפיד אמיא דהיינו בספל בין חמים לצונן או אפכא מותר ובכל דוכתי ק\"ל כרבא וכ\"ש כאן  שהרי\"ף וש\"פ ס\"ל בפי' כרבא היאך פסק הטור דלא כרבא. והב\"י פי' ב' פירושים וכבודו במקומו מונח דשני כתובים אלו אין מלמדין. הא' הוא מפני שאין ידוע לנו תמונת כלים אלו יש לאסור בכל כלי שני העשוי לרחיצה. ולכן כתב רבינו לאסור אפי' בספל וזה לא ניתן להכתב דא\"כ היה לו לרבינו לכתוב דין התלמוד והחילוק שיש בין ספל לאמבטי ואחר כך היה לו לכתוב ועכשיו אין אנו בקיאין יש לאסור כל כלי ולמה פסק רבינו לדינא מה שהוא שקר גמור לדין התלמוד בשביל חסרון הבקיאות ולכל הפחות לא היה להזכיר ספל כלל אלא יכתוב סתם כל כ\"ש שיש בו מים חמים לרחיצה כו' ותו מאי בקיאות שייך בין ספל לאמבטי. והפי' הב' דמפרש הטור דספל הוא כלי שלישי והוא נגד כל הסוגיא דאמרי' רבא לא קפיד אמיא בספל ומסתמא קאי אשלפניו דספל הוא כלי שני. ומו\"ח ז\"ל בחר לו דרך אחרת לפרש הסוגיא אליבא דהטור בענין שפוסק דלא כרבא ועשה פלוגתא בין הברייתות וכל אלו הדרכים לא שערום אבותינו ולעד\"נ לדקדק עוד בל' הטור שכתב תחלה מיחם של נחשת לא יתן בו מים חמין ל' יחיד וכן בכוס שכתב אחר כך כתב שיתן הצוננים לתוכו ולא זכר ל' רבים לתוכן דהיינו לתוך המים וכשכתב דין הספל כתב אסור ליתן בהם כו' אבל לערות מהם כו' ל' רבים ואחר כך חזר וכתב ל' יחיד וכן הדין כו' לערות ממנו. ותו קשה דלמה לא זכר דין האמבטי כלל כיון שנזכר בגמרא ויש מקום לטעות ולו' דבאמבטי אסור אפי' ליתן חמין לתוך צונן כמ\"ש התו' דאי לאו ב' ברייתות דר\"ח הייתי אומר כן לענין ספל ואם ר\"ח הוצרך להזהר מזה ק\"ו שהיה לו לרבי' הטור להזהר מזה לענין אמבטי בפרט שר\"ש בן מנסי' ס\"ל באמת דבאמבטי אסור בכל גווני ותו דכתב הטור אח\"כ וכן הדין בכ\"ר והוא לשתי' כו' דמשמע דלפני זה כ\"ר והוא לרחיצה ולא מצינו זה ע\"כ נלע\"ד דראוי ונכון להגיה בדברי רבינו הטור וכצ\"ל אבל ספל שיש בו מים חמין לרחיצה והוא כ\"ר או אמבטי כו' אפי' הוא כ\"ש ויהיו דבריו מכוונים עם דברי התוס' שכתבו בד\"ה אבל  באמבטי וז\"ל והאי ספל ע\"כ כ\"ש דאי כ\"ר אמאי אינו כאמבטי עכ\"ל הרי מבואר דספל כ\"ר הוא שוה לאמבטי בכ\"ש וע\"כ כתב הטור שפיר דספל כ\"ר שהוא לרחיצה וכן אמבטי אפי' כ\"ש וכו' ועכשיו נכון ל' רבים שכתב הטור לערות מהם דר\"ל מן הספל והאמבטי וגם ניחא מ\"ש אח\"ז וכן הדין בכ\"ר והוא לשתיה דר\"ל כמו שהוא הדין בכ\"ר שהוא לרחיצה שזכר כבר אצל ספל לפי הגהתינו ואל יקשה בעיניך להגיה שהרי גם הב\"י מגיה בעסק זה בדברי הרמזים וניחא ליה לרבינו לייחס ט\"ס בהעתקה כדי שיהיה מוסכם להלכה עם שאר הפוסקי' ממה שנייחס לו שיטה מיוחדת מה שלא נראה ולא נמצא כנלע\"ד ברור כשמש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:17"
+        },
+        "18": {
+          "he": "של מרחץ.  ל' הש\"ע בסעיף זה עם סעיף שאחריו הוא ל' הרמב\"ם בפ' כ\"ב וחזינ' לפע\"ד תמוה בפי' שפי' בו הב\"י וכ\"מ ע\"כ נעתיק הסוגיא איתא בפ' כירה מתני' המיחם שפינהו לא יתן לתוכו צונן בשביל שיחמו אבל נותן הוא לתוכו או לתוך הכוס כדי להפשירן מאי קאמר א\"ר אדא בר מתנ' ה\"ק המיחם שפינה ממנו מים חמין לא יתן לתוכו מים מועטים כדי שיחממו אבל נותן לתוכן מים מרובים כדי להפשירן והלא מצרף פי' שמחזיק הכלי הרותח ע\"י מים צוננין ר\"ש הוא דאמר דבר שאין מתכוין מותר מתקיף לה אביי מידי מיחם שפינה ממנו מים קתני מיחם שפינהו קתני דמשמע שפינהו לעצמו מן האור אלא אמר אביי ה\"ק המיחם שפינהו ויש בו מים חמין לא יתן לתוכו מים מועטים בשביל שיחומו אבל נותן לתוכו מים מרובי' כדי להפשירן ומיחם שפינה ממנו מים לא יתן לתוכו מים כל עיקר מפני שמצרף ור\"י הוא דאמר דבר שאין מתכוין אסור וכתב הרב המגיד דאוקימתא דרב אדא נשארה קיימת לדינא אע\"פ שנדחית ואין כאן משום צירוף עכ\"ל פי' דבריו דאביי ס\"ל ג\"כ להלכה כר\"א הן במיחם שפינהו הן במיח' שפינה אלא דאביי לא רצה לפ' המשנ' בפינ' מצד הל' שאמר' פינהו ע\"כ מוכרח לפ' בפינהו ונמשך מזה מדלא תנא במשנה מיחם שפינה ממילא ס\"ל לתנא דבפינה אסור אפילו במרובין משום צירוף ור\"י הוא וא\"כ לפי מה דקי\"ל כר\"ש מותר גם בפינה במרובין  ואם כן אין חילוק דין בין רב אדא לאביי. ובזה נבא לבאר בס\"ד דברי הרמב\"ם האלו ונקדים עוד מה שחלקו אח\"כ שם בגמ' בין כוס לאמבטי דבכוס שהוא לשתיה והוא כ\"ש מותר בין חמין לצונן בין צונן לתמין ובאמבטי מותר דוקא בחמין לצונן ולא איפכא ופירש התוספות האי אמבטי הוא כ\"ש ואתי לאיפלוגי בכ\"ש בין כוס לשתיה ובין אמבטי שהיא חם הרבה ואיכא למיגזר כו' וכ\"ה דעת הרב המגיד שכתב וז\"ל ואמבטי זה כלי הוא וכן פירשוהו הגאונים והטעם שאסור לתת צונן לחמין מפני שהמים שבו עומדין לרחיצה ואדם מחממן הרבה וז\"ש אמבטי שבמרחץ וכן עיקר עכ\"ל ולפי הנרא' שיש כאן ט\"ס וחסר תיבת שני וצ\"ל ואמבטי זה כ\"ש הוא והיינו כמ\"ש התו' וע\"ז אמר וכ\"פ הגאונים ופי' דברי הרמב\"ם הם בדרך זה תחלה כ' האמבטי שבמרחץ דהיינו כ\"ש דוקא בזה אמרו מותר בחמין לצונן ולא צונן לחמין אבל אם היתה כ\"ר אסור אפי' בחמין לצונן ורמ\"א שהגיה כאן ואפי' שהוא כ\"ש משמע שגם בכ\"ר דינא הכי הוא נמשך לדעת הטור כמ\"ש בסמוך אבל להרמב\"ם אינו כן כמ\"ש אלא דוקא בכ\"ש מיירי הרמב\"ם וקמ\"ל שיש חומרא בכ\"ש זה כיון שהוא של מרחץ אבל לא הוה ממש ככ\"ר דהוא אסור אפי' בחמין לצונן וזהו דין אמבטי שבגמרא אח\"כ כתב דין המיחם שזהו לשתיה ואמר תחלה הדין שאם פינה ממנו מים ממילא הוי המיחם עדיין כ\"ר ואסור אפי' בחמין לצונן מ\"מ יש היתר מצד שאם הם מרובים ואין כח בחום רק להפשיר וממילא נדע ג\"כ דין מיחם שפינהו דהוא ג\"כ כ\"ר דמותר במרובין אלא דקמ\"ל בפינה ממנו מים דלא אסרינן משום צירוף להלכה דקיי\"ל כר\"ש והיינו בין לרבי אדא בין לאביי כמ\"ש בסמוך אח\"כ כתב דין הכוס של שתיה והוא כ\"ש דינו הוא להיתר בין חמין לצונן בין צונן לחמין דכ\"ש אינו מבשל וע\"ז אמר והוא שלא יהיה בכ\"ר פי' דאי בכ\"ר אסור אפי' בחמין לצונן אא\"כ הן מרובים כמ\"ש והב\"י וכ\"מ הלך בדרך אחר לומר שיש פלוגתא בין אביי לרבי אדא בפינהו דאסור לר' אדא אפי' במרובים ומפרש דברי רמב\"ם כר' אדא ומפ' מ\"ש שבמרחץ לאו דוקא אלא כ\"ר הוא ודינו ככל כ\"ר:  ומ\"ש הרמב\"ם דבכ\"ר אסור היינו בחד גוונא דהיינו צונן לחמין אבל בחמין לצונן מותר אפי' בכ\"ר וכ\"ז הוא תמוה דהיאך יפסוק הרמב\"ם כר' אדא כיון דלא נשאר בגמרא כן מכח קושית אביי והוא רוצה לדחות קושית אביי ואין זה בכח שום פוסק כלל גם שאר דוחקים שיש בפירושו ולפמ\"ש ניחא הכל בס\"ד מכל מה שהקשה ב\"י על ה' המגיד. ונשאר לנו מחלוקת א' בין הרמב\"ם להטור דאלו להרמב\"ם אסור בכ\"ר אפי' בחמין לצונן אלא א\"כ מרובים הצונן ולהטור שכ' אפי' בכ\"ש משמע שגם בכ\"ר דינא הכי שיש חילוק בין חמין לצונן דמותר ולהיפך אסור כי הוא ס\"ל תתאה גבר כמ\"ש שם בהדיא אבל בחומרא שיש בכ\"ש דמרחץ גם הטור ס\"ל כרמב\"ם דאסור בצונן לחמין לא כשאר כ\"ש דשתיה: ובמ\"ש  הטור הטעם דתתאה גבר ראוי לתרץ דבריו והלא רש\"י פי' טעם זה ודחהו התו' בשם ר\"ת דא\"כ קשה למ\"ד עילאה גבר מכאן ותירצו התו' דהטעם משום שיש בתחתון מים מרובין ע\"כ אנו אזלינן בתר התחתון והיאך כתב הטור דלא כהתו' שאין זה דרכו לחלוק על התו' ולא מביא כלל דבריהם ונ\"ל דלק\"מ דלמ\"ד תתאה גבר נשאר הטעם כפשוטו אלא דלמ\"ד עילאה גבר צריך להוסיף ולמ\"ד דמיירי שהתחתון מרובה מעליון וכיון דקי\"ל תתאה גבר פסק כאן שפיר אפילו בלא התחתון מרובה כ\"ז נראה נכון מאד בס\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:18"
+        },
+        "19": {
+          "he": "בכ\"ש שיש בו מים.  בגמרא איתא פ' כירה דא\"ל ר' לר\"ש בר אבדימי טול בכ\"ש ותן וכתבנו בי\"ד ס\"ס צ\"ב ופי' ושם נתבאר דאם שואב בכלי ריקן מן הכ\"ר דאותו הכלי ששואב יש לו דין כ\"ר לחומרא ולא לקולא ולעיל סי' רנ\"ח כתבנו דאין לטמון כל הכלי בתוך הכ\"ש דא\"כ ס\"ל הטמנה אלא צריך להיות מגולה למעלה וכת' המרדכי בפ' כירה אין לתת פירות תוך הקיכלי\"ש של התנור בבית החורף כדי שיוצלו דלא גריעי ממים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:19"
+        },
+        "20": {
+          "he": "במקום שהיס\"ב  הב\"י הבי' שהמרדכי כ' כבעל התרומה דהיינו היש מחמירין דכאן ורבינו יחיאל מפרי\"ש היה מביא ראיה להתיר מפ' כירה סכה אשה ידה ומחממה כנגד המדורה וסכה לבנה וסת' שמן זית קרוש הוא ואפ\"ה שרי ומ\"מ טוב להזהר שלא להשים כ\"כ קרוב להאש אלא רחוק כדי שלא יהא יס\"ב עכ\"ל. וכת' ב\"י  וז\"ל נראה דלבעה\"ת לא אסור אלא  במקום שהיס\"ב ולית' דהא טעמא לאו משו' בישול הוא  אלא משום נולד וא\"כ אפי' אין י\"ס נמי אסור [בב\"י יש ט\"ס וצ\"ל כמ\"ש כאן] ועוד דמשמע דלרבינו יחיאל שרי  לחמם שמן זית אפי' במקום שהיס\"ב ובהדי' אסיקנ' בפ' כירה דשמן יש בו משום בישול והפשרו זה בישולו עכ\"ל ולא דק בדברי' אלו דמ\"ש תחל' שנרא' מדברי המרדכי דלבעה\"ת אסור דוקא ביס\"ב הוא סבר מדאסיק המרדכי לחלק בין י\"ס או לא שזה כדעת בעה\"ת ולית' דבעה\"ת מחמיר אפילו באין י\"ס מחמת שהוא נולד אלא דהכרעת המרדכי בעצמו הוא לחלק בכך להלכה למעשה לכתחלה להחמיר בי\"ס ומ\"ש עוד שבפ' כיר' אמרי' שמן יש בו משום בישול כו' תמהתי על גברא רבא דכותיה שראה באפס קצהו שם ולא כולו דא\"כ קשה מ\"ש רשב\"ג סכה אשה ידה כו' והא יש בו משום בישול דהא היא מפשרה עכ\"פ ידיה ואפי' מחממתה והא אפי' בהפשר הוה בישול אלא פשוט דכיון דהוה ע\"י שינוי שרי ואין כאן בישול גמור ולא אסור אלא כשהשמן בעין בפ\"ע כמ\"ש רש\"י שם דמותר מחמת שינוי וא\"כ ה\"ה נמי כאן בשומן שהוא על אינפנד\"י דמותר לחמם אפי' במקום שי\"ס דמ\"ש אינפנד\"י מידה גבי שמן והך  מקום שהי\"ס מיירי עכ\"פ שאינו יוכל שם להתבשל דאל\"כ הוה אסור לד\"ה משום בישול לאו משום נולד כמ\"ש בסי\"ד במקום שיכול להתבשל אסור ולא זכר שם במקום שהיס\"ב דודאי יש מקום שיס\"ב ואפ\"ה אין מתבשל וה\"ה נמי גבי שמן לא מצינו היתר אפילו ע\"י שינוי אלא באין יוכל להתבשל בישול גמור וע\"כ לא אסרו בעה\"ת כאן אלא משום נולד מ\"ה מביא שפיר ראיה רבי יחיאל לענין נולד דמותר כאן כמו בשמן במקום דהוה שינוי כנ\"ל ומ\"ה כ' כאן להתיר אפי' ביס\"ב כי חזר ממ\"ש בב\"י לחלוק על המרדכי אלא דלדעת המקילים שהוא רבי' יחיאל והרמב\"ן וש\"פ שחולקים על סה\"ת מותר אפי' בי\"ס ובלבוש כ' דנ\"ל שטעות יש בש\"ע וצ\"ל במקום שאין היס\"ב דהוא אזיל אחר קושיית ב\"י שזכרנו אבל האמת שהב\"י חזר בו בש\"ע ואין כאן ט\"ס בש\"ע:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:20"
+        },
+        "21": {
+          "he": "ואע\"פ שהשומן כו'.  זהו דעת הסמ\"ג דאין לאסור משום נולד ודמי לאין מרסקין שלג או ברד כמ\"ש  סי' ש\"כ סי\"א דכאן לא עביד כלום בידים אלא ממילא הוא נמחה וגבי ברד נמי תניא אבל נותן הוא לתוך הכוס ואינו חושש ואע\"פ שנימוח כיון שהוא ממילא ולפ\"ז  אף בחמה מותר להניח והרמב\"ן מקיל עוד וס\"ל  דשומן כיון דלעולם אוכל הוא אפי' לרסק ולסחוט מותר והיש מחמירין הוא דעת התרומה והר\"ן ס\"ל כיון דכל זמן שלא קרש זב וצלול הוא ודרכו בכך אף כשקרש כפירות העומדין למשקין דמי ולפ\"ז אף בחמה אסו' והביא ב\"י בשם התרומה דאם שפך לחוץ המים והשומן שבתוכה מותר לחמם בשבת  הפשטיד\"א וכ' ע\"ז ונראה מכאן שאפי' למאן דמחמיר מותר להחם בשבת חתיכת בשר שמן אעפ\"י שמקצתו זב והטעם כיון דדבר מועט הנפשר לא חשיב ושרי עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:21"
+        },
+        "22": {
+          "he": "אבל צמר כו'.  דבזה יש משום צובע א\"נ שהצמר צריך הרבה בישול כ\"כ הרא\"ש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:22"
+        },
+        "23": {
+          "he": "אף בקדירה כו'.  שם כ' מהרי\"ו שאין להגיס בה בכף דהוה כמבשל כדאמרינן בפ\"ק דשבת ביורה עקורה וטוחה וכן ראיתי בבית מהר\"י ז\"ל עכ\"ל. מ\"ש מפ\"ק דשבת אין ראיה דשם מיירי מצמר ליורה דחמיר טפי כמ\"ש בסמוך אבל כאן כבר נתבשל כ\"צ מותר וכ\"כ בהדיא בססי' שכ\"א בעץ פרור בתוך הקדירה דמותר מטעם שכבר נתבשל כ\"צ אלא ודאי משום הרחקה יתירה פגע בה וע\"כ נלע\"ד דהוצא' בעלמא בלי שום היפך בקדירה אלא ליקח חתיכה אין כאן זהירות אעפ\"י שלא נתבשל כ\"צ אסור אפי' בהוצאה שנמצא מגיס מ\"מ בנגמר כ\"צ אין להחמיר בהוצאה רק שיחמי' להפוך בקדירה הרוצ' להחמיר דהא בס\"ס שכ\"א מתיר אפילו לכתחלה ע\"ש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:23"
+        },
+        "24": {
+          "he": "בעודו כנגד המדור'.  וה\"ה במעבירו מהאש כ\"ז שהוא רותח שהי\"ס אסור לטוח עליו שום דהא עדיין כ\"ר הוא והרבה אין יודעים להזהר כשצולין אווזא וכשמוציאין אותה בעודה רותחת מושחין עליה שום וזה אסור כ\"ז שהיס\"ב:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 318:24"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "אסור לו לעולם. משמע ברשב\"א סימן קע\"א /קע\"ה/ דהקדירה אסורה ג\"כ:",
+          "en": "...1.",
+          "ref": "Magen Avraham 318:1"
+        },
+        "2": {
+          "he": "למ\"ש מיד. דדוקא בעכו\"ם שעושה בעינן בכדי שיעשה דחיישי' שמא יאמר לו לעשות אבל ישראל לא ישמע לו אף לרש\"י שכתב הטעם שלא יהנה ממלאכת שבת כמ\"ש סי' תקט\"ו מ\"מ הכא שרי דבמלתא דלא שכיחא לא גזרו [תו' חולין דף טו] דלא כב\"ח: אם היה מ\"ש י\"ט אסור דאין שבת מכין לי\"ט [לקוטי מהרי\"ו סי' ב'] ועבי\"ד ססי' ק\"ב דאם נתערב אותו דבר באחרים בטיל ולא הוי דשיל\"מ דומיא דתרומה ע\"ש וצ\"ע דאין הנידון דומה לראי' דתרומה לא הוי אצל שום אדם דשיל\"מ דאי לכהן גם היום מותר ואי לישראל לעולם אסור אבל הכא כיון שחל עליו שם דבר שיל\"מ לאחרים אף לדידיה לא בטיל כדאיתא פ\"ג דבכורים דאם נתערבו בכורים אסורים אף לזרים אף על גב דלדידהו הוי דשאל\"מ כיון דלכהנים הוי  דשיל\"מ דיכולין לאכלו בירושלים אף לזרי' אסור וכ\"כ הרע\"ב והרמב\"ם בפי' המשניו' ובחבורו פ\"ד מבכורים ומיהו הר\"ש כתב דלא הוי דשיל\"מ כיון דאסורים לזרים ומ\"מ יש להחמיר ומ\"ש בי\"ד ססי' ק\"ב אפשר דאיירי כשנתערב אחר השבת דאז הוי ממש דומיא דתרומה וכנ\"ל עיקר ואף שבפי' הרמב\"ם משמע דדוקא כשנתערב לכהן אז אסור אף לישראל מ\"מ בחבורו לא משמע כן וגם דבריו שבפי' י\"ל כן, נ\"ל דלמי שנתבשל בשבילו הוי ג\"כ דינו כמו הוא עצמו כמ\"ש בי\"ד סי' צ\"ט ס\"ה דה\"נ טעמא משום קנסא ומיהו מדברי הרב\"י שם משמע דוקא התם חיישי' שיאמר לעכו\"ם לבטלו אבל הכא הא בלא\"ה צריך להמתין בכדי שיעשה כשבישלו עכו\"ם ולישראל לא חיישינן דאין אדם חוטא ולא לו עסי' רנ\"ג ס\"א:",
+          "en": "Motzai Shabbos immediately. For specifically when a gentile is doing it do we require 'bichdei sheyase' for we suspect he might instruct him to do so [again] whereas [even if he were to instruct a Jew to transgress shabbos for him] the Jew would never listen.",
+          "ref": "Magen Avraham 318:2"
+        },
+        "3": {
+          "he": "ובשוגג. עשה ע\"פ הוראת חכם מקרי שוגג וה\"ה בשוכח [כ\"ה רד\"ך בית כ\"ו ח\"ב]:",
+          "en": "",
+          "ref": "Magen Avraham 318:3"
+        },
+        "4": {
+          "he": "שחלה היום. ואף על פי שהבהמה היתה מוקצה מחמת איסור שחיטה מ\"מ שרי דקי\"ל כר\"ש דאין מוקצה מחמת איסור אלא כשדחאו בידים כגון נר שהדליקו עליו [מ\"מ פ\"ב] וקשה דא\"כ מוקצה דמחובר נמי יהא מותר כשנשרו הפירות וי\"ל דהתם טעמא שמא יעלה ויתלוש כדאיתא ריש ביצה וע\"ש עוד טעם בב\"י:",
+          "en": "",
+          "ref": "Magen Avraham 318:4"
+        },
+        "5": {
+          "he": "חי בשבת. ובלא מליחה [טור] ועבי\"ד סי' ס\"ז ס\"ב דהדחה מיהא בעי ועמ\"ש סי' שכ\"ה סי\"א:",
+          "en": "",
+          "ref": "Magen Avraham 318:5"
+        },
+        "6": {
+          "he": "שמא ירבה. וזהו איסור דאורייתא כשמרבה בשבילו אפילו קודם שיתן הקדרה על האש וי\"א דהוי דרבנן עב\"י:",
+          "en": "",
+          "ref": "Magen Avraham 318:6"
+        },
+        "7": {
+          "he": "ואפי' בישל וכו'. אבל במ\"ש מותר מיד [ש\"כ] וטעמו דכיון דהעכו\"ם בישל בהיתר לא בעי להמתין בכדי שיעשו:",
+          "en": "",
+          "ref": "Magen Avraham 318:7"
+        },
+        "8": {
+          "he": "משום שגדל והולך. ומיירי בפירי שלא נגמר בישולו [ב\"י] אבל בנגמר בישולו לא אמרי' שגדל והולך דאל\"כ למה נצטריך בפ\"ק דביצה לאסור מחובר משום שמא יעלה ויתלוש או משום מוקצה וע' בתו' שנדחקו שם והל\"ל משום שגדל והולך אלא ע\"כ כשנגמר בישולו שוב אינו גדל וא\"כ מהני הכנה והכי דייק ל' הא\"ח עב\"י ע' בתוס' בב\"ק דף ס\"ט דמה שגדל בטל ברוב ועסי' ש\"ך ס\"ב ובביצה בתוס' דף ל\"ז ע\"ב משמע דזה לא הוי מוקצה אפי' לר\"י דהא בהמה נמי גדלה והלכה ומותר לשוחטה בי\"ט ע\"ש בתו':",
+          "en": "",
+          "ref": "Magen Avraham 318:8"
+        },
+        "9": {
+          "he": "שאסור לבשל. המבשל בתולדות האור חייב:",
+          "en": "",
+          "ref": "Magen Avraham 318:9"
+        },
+        "10": {
+          "he": "להטמינה בחול. אפי' מבע\"י עסי' רנ\"ו ס\"ג ואפי' לגלגלו ע\"ג החול בשביל שתצלה נמי אסור [כ\"כ הרא\"ש] וצ\"ע למה השמיטו הטור דקי\"ל דהלכה כרבה [ב\"ח] ונ\"ל דהרא\"ש כ' אליבא דר\"י ע\"ש אבל אנן קי\"ל כרבנן וא\"כ פשיטא דאסור דגזרינן אטו תולדות האור וכ\"כ הר\"ן ע\"ש ומ\"מ כתב רש\"ל בתשובה דמותר לצלות על גג רותח מחמה דלא מיחלף בתולדות האור ע\"ש ודבריו אינם מוכרחים וגם בט\"א חולק עליו ובירושלמי איתא להדיא דאסור, כ' הרמב\"ם המבשל בחמי טבריא פטור דהוי כתולדות חמה וכ\"ה בגמרא וכ\"מ במשנה פ\"ט דנגעים ובסנהדרין אמרי' דנשתיירו מהמבול ואפשר דמ\"מ ה\"ל כתולדת חמה וכתב הר\"ן דאסור להעמיד מאכל ע\"ג חמי טבריא אבל מע\"ש מותר ולהניח בתוכו אסור כמ\"ש סי' שכ\"ו ס\"ג: כתב הרמב\"ם פ\"ט הניח בשר ע\"ג גחלים אם נצלה בו כגרוגרות חייב אפי' בחצי בישולו לדעת הראב\"ד ולהרמב\"ם אינו חייב בחצי בישול בנתבשל מקצתו עד שיתבשל כל הבשר חצי בישול: המתיך אחד ממיני מתכות או המחמם המתכות עד שנעשה גחלת וכן הממסמס השעוה או החלב או הזפת והגפרית או המבשל כלי אדמה עד שיעשה כלי חרס חייב כללא דמלתא בין שריפה גוף קשה או שהקשה גוף רך חייב וע' ססי' זה וצ\"ע דבפי\"ב כתב המחמם הברזל כדי לצרפו חייב משום מבעיר והראב\"ד כ' משום מבשל והמ\"מ יישב דבריו ע\"ש ולא זכר שדברי הרמב\"ם סתרי אהדדי וצ\"ע ויש לחלק:",
+          "en": "",
+          "ref": "Magen Avraham 318:10"
+        },
+        "11": {
+          "he": "יש בו משום בישול. והוי יודע שכל דינים דאסורים משום בישול אפי' ליתן על הכירה או התנור קודם היסק אסור כמ\"ש סו' סימן רנ\"ג:",
+          "en": "",
+          "ref": "Magen Avraham 318:11"
+        },
+        "12": {
+          "he": "נצטנן. כב\"י ומשמע ליה דכל שהיס\"ב מיקרי רותח וכ\"מ ס\"ו וז\"ל רי\"ו אם לא נצטנן אפי' שינה קצת מרתיחתו מותר ועסט\"ו בהג\"ה:",
+          "en": "",
+          "ref": "Magen Avraham 318:12"
+        },
+        "13": {
+          "he": "וי\"א דוקא כו'. והב\"ח פסק כסברא ראשונה ועס\"ח מ\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 318:13"
+        },
+        "14": {
+          "he": "מותר לשרותו. אפילו בכ\"ר וכמ\"ש סט\"ו דאין בישול אחר בישול וכ\"כ התוספות והמרדכי ור\"ן דלא כב\"ח דמחמיר ומשמע מל' הש\"ע דאם לא נתבשל מע\"ש רק נשרה בחמין אסור לשרותו בחמין בשבת וטוב להחמיר אם היד סולדת בחמין:",
+          "en": "",
+          "ref": "Magen Avraham 318:14"
+        },
+        "15": {
+          "he": "מדיחין אותו. היינו שמערין עליו מכלי שני [ועסי\"א דאפי' בדבר לח שרי] אבל אסור לשרותו אפי' בכלי שני דמחזי כמבשל ול\"ד לתבלין בס\"ט דתבלין עשוי למתק הקדירה ולא מחזי כמבשל (תוס' דף ל\"ט וש\"ג ב\"ח) ונ\"ל דבצל דינו כתבלין דעבידי לטעמיה ועס\"ה:",
+          "en": "",
+          "ref": "Magen Avraham 318:15"
+        },
+        "16": {
+          "he": "כל דבר קשה. וה\"ה דבר מליח שאין יכולין לאוכלו כלל בלא הדחה (ב\"י ל\"פ) ואיתא בגמרא דאם הדיח חייב:",
+          "en": "",
+          "ref": "Magen Avraham 318:16"
+        },
+        "17": {
+          "he": "משום בישול. אף על גב דאין בישול אחר בישול מ\"מ יש בישול אחר צלי וה\"ה שיש צלי אחר  בישול ולכן אסור ליתן דבר שנתבשל אצל האש בלא רוטב (פסקי רקנ\"ט בשם רא\"ם וסמ\"ג) אבל לכ\"ע אין צלי אחר צלי ודבר שנצלה מותר ליתנו אצל האש אפי' נצטנן וה\"ה האפוי ודבר שנתבשל מותר לשרותו בחמין כמ\"ש ס\"ד:",
+          "en": "",
+          "ref": "Magen Avraham 318:17"
+        },
+        "18": {
+          "he": "אפי' בכלי שני. דיש דברים שמתבשלים בו ואין אנו בקיאין ואם כן בשאר דברים נמי יש להחמיר עס\"ט:",
+          "en": "",
+          "ref": "Magen Avraham 318:18"
+        },
+        "19": {
+          "he": "מתירים בכ\"ש. דס\"ל דאין כ\"ש מבשל ולפי מ\"ש ס\"ד בשם תוס' יש להחמיר דמיחזי כמבשל אך היש מתירים סוברים להקל כתירוץ שני של התו' וכ\"מ דעת הש\"ע ויש להחמיר:",
+          "en": "",
+          "ref": "Magen Avraham 318:19"
+        },
+        "20": {
+          "he": "אפי' בכ\"ר. כיון שהוא יבש אין בישול לאחר אפייה:",
+          "en": "",
+          "ref": "Magen Avraham 318:20"
+        },
+        "21": {
+          "he": "שהיס\"ב. עמ\"ש ס\"ד וסט\"ו בהג\"ה וא\"צ לדברי הע\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 318:21"
+        },
+        "22": {
+          "he": "בבצק. אבל בדבר המתמרח אסור כמ\"ש סי' שי\"ד סי\"ד סי\"א:",
+          "en": "",
+          "ref": "Magen Avraham 318:22"
+        },
+        "23": {
+          "he": "אין מניחין וכו'. ובדבר יבש שרי עס\"ח:",
+          "en": "",
+          "ref": "Magen Avraham 318:23"
+        },
+        "24": {
+          "he": "לעולם אסור. דהוי כמניח ע\"ג כירה לכתחלה בשבת (רי\"ו) וא\"כ לפמ\"ש סי' רנ\"ג ס\"ב אם נטלו מע\"ג כירה משחשיכה שרי ליתנו ע\"ג קדירה ע\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 318:24"
+        },
+        "25": {
+          "he": "כמניח ע\"ג כירה. דאפי' בדבר שאין בו משום בישול אסור להניחו ע\"ג כירה דגזרינן שמא יחתה:",
+          "en": "",
+          "ref": "Magen Avraham 318:25"
+        },
+        "26": {
+          "he": "וראשון נראה עיקר. כיון שהקדירה מפסקת ל\"ד לכירה דהתם הקדיר' עומדת ע\"ג האש ממש (מ\"מ פכ\"ב) וצ\"ע למה לא הכריע הרב\"י בס\"ז להתיר דהא הוא בעצמו כ\"כ בסי' רנ\"ג ס\"ג וי\"ל דוקא צלי מותר ליתנו לכתחלה ע\"ג כירה גרופה אבל מבושל אסור ליתנו ע\"ג (קדירה דעדיף מכירה, ת\"ש) כירה אפי' הוא חם שאין בו משום בישול דגזרינן שמא יתן עליו כשהוא קר ואין מותר אלא חזרה וכן צ\"ל לדברי רי\"ו ומ\"מ יש להקל דמשמע במ\"מ דכיון דהקדירה מפסקת עדיף מכירה גרופה ושרי ליתן עליה תבשיל חם:",
+          "en": "",
+          "ref": "Magen Avraham 318:26"
+        },
+        "27": {
+          "he": "ומצטמק ויפה לו. ז\"ל רי\"ו והוא מ\"ש רמ\"א בהג\"ה ס\"ד וצ\"ע מאחר שהרב\"י סתם בס\"ד דלא כוותיה משמע דס\"ל דאפי' מצטמק ורע לו יש בו בישול אם נצטנן וא\"כ אסור להניחו ע\"ג מיחם ולמה כתב כאן מצטמק ויפה לו וצ\"ע, ואפשר דסמך על מ\"ש כאן:",
+          "en": "",
+          "ref": "Magen Avraham 318:27"
+        },
+        "28": {
+          "he": "כ\"ז שהיס\"ב. ונ\"ל דאם אין היס\"ב שרי אף על גב דלענין איסור והיתר יש אוסרין וכמ\"ש  בת\"ח כלל נ\"ז היינו משום דמבליע ומפליט וגם יש אוסרין אפי' בכ\"ש אבל לכ\"ע אינו מבשל מיהו בירושלמי איתא דעשו הרחקה לכ\"ר אפי' אין היס\"ב וכ\"כ בתשב\"ץ ועבי\"ד רסי' צ\"ד בט\"ז בשם רש\"ל:",
+          "en": "",
+          "ref": "Magen Avraham 318:28"
+        },
+        "29": {
+          "he": "של שור. נהי דהבשר אינו מתבשל הלחלוחית שבו מתבשל (טור):",
+          "en": "",
+          "ref": "Magen Avraham 318:29"
+        },
+        "30": {
+          "he": "דם שבו. ומיירי כגון שהודח אחר המליחה דאל\"כ עדיין אסור משום הדם שבמלח ולא כמ\"ש בב\"ח ומ\"מ פשט דעת הרב\"י משמע דדוקא כשהוא עדיין מלוח אז המלח מסייע לבישול וכמ\"ש הב\"ח בשם רי\"ו ועבי\"ד סי' ס\"ח והב\"ח הכריע כרמ\"א ולמסקנא דכתב הרא\"ש ואפי' נמלח מחדש וכו' חזר מדבריו הראשונים [ב\"ח] וכ\"מ ברמזים ובטור וע' בת\"ח כלל א' וכלל ב':",
+          "en": "",
+          "ref": "Magen Avraham 318:30"
+        },
+        "31": {
+          "he": "דהמלח בטל בס'. ואף על גב דמידי דעביד לטעמא לא בטיל ש\"ה דהוי זוז\"ג דמסתמא נמלח גם בע\"ש ואף על גב דדשיל\"מ לא בטיל כיון שנתבטל מקודם שנאסר בטל דנימוח מיד ואין נתבשל מיד דבעי בישולא כבשרא דתורא (שם) וצ\"ל דהמלח שנתן עכשיו לא היה בו כדי ליתן טעם בקדירה זולת המלח של אתמול שאם היה בו כדי ליתן טעם אסור כמ\"ש בי\"ד ססי' פ\"ז וכן הובא במשנה פרק ב' דערלה ובע\"א פ\"ה: ונ\"ל דמלח שעושין ממים שמבשלים אותם אין בו משום בישול דאין בישול אחר בישול ועמ\"ש סי\"ו:",
+          "en": "",
+          "ref": "Magen Avraham 318:31"
+        },
+        "32": {
+          "he": "אסור ליתן כו'. ואם עירה אזי הקליפה אסורה דנתבשלה בשבת דהא ר\"ת דייק זה מהמשנה דשבת עיין בתו' ופשוט דאפי' למ\"ד כ\"ש מבליע ומפליט היינו לענין איסור והיתר אבל לענין שבת אינו אסור אלא בדבר שהוא מבשל כדתנן אבל נותן לתוך הקערה עבי\"ד סי' ס\"ח:",
+          "en": "",
+          "ref": "Magen Avraham 318:32"
+        },
+        "33": {
+          "he": "מלאה מים חמין. ואפי' בחמי טבריא אסור ליתן צוננין באמבטי שהומשכה מן המעיין לתוכה אלא צריך ליטול מהאמבטי בכ\"ש ואחר כך יתן המים לתוכה [גמרא]:",
+          "en": "",
+          "ref": "Magen Avraham 318:33"
+        },
+        "34": {
+          "he": "שהוא כלי שני. דכיון שהם לרחיצה מסתמא הן חמין הרבה ומתבשלין הצונני' שמתערבים בהן [טור] וכ\"ד המ\"מ כמ\"ש הב\"ח וכ\"כ במ\"מ דלא כב\"י ע\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 318:34"
+        },
+        "35": {
+          "he": "אבל נותן. ואפי' מכ\"ר מותר לערות לתוך מים צוננים דהתחתון גובר על העליון ומצננו [טור] ואף על גב דאסור לערות על תבלין כמ\"ש בס\"י דהוי ככ\"ר הכא שאני שמתערבין  החמין עם הצוננים ומתבטל חמימותן כיון שהצוננין מרובין ועיין בתוס' שבת דמ\"ב ר\"ן ותו' פסחים דף מ' ע\"ב ונ\"ל דאסור ליתן חתיכת בשר רותח לתוך רוטב צונן דכיון שאינו מתערב מבשל כדי קליפה וכ\"מ בי\"ד סי' צ\"א ס\"ד ובגמרא פסחים דף ע\"ו:",
+          "en": "",
+          "ref": "Magen Avraham 318:35"
+        },
+        "36": {
+          "he": "מרובים. ולא אמרי' דמצרף הכלי דדבר שאין מתכוין הוא ולאו פסיק רישיה הוא וכת' המ\"מ וז\"ל נראה שכל שאינו מתכוין אין ראוי לומ' פסיק רישיה וליחייב מפני שכשהוא מתכוין עושה מלאכה וכשאינו מתכוין אין בו מלאכה כלל שהרי אינו רוצה לעשות ממנו כלי דומה לקטימת קיסם שכל שאינו קוטמו לחצוץ בו שיניו פטור שכל שהוא מפני תיקון כלי מי שאינו מתקנו פטור ואפי' לר\"י דמחייב בדבר שאינו מתכוין והמכוין לצרף י\"א שהוא חייב מדאורייתא וי\"א שהוא מדרבנן עכ\"ל פ\"כ ועססי' של\"ד וסי' תק\"י ס\"ג:",
+          "en": "",
+          "ref": "Magen Avraham 318:36"
+        },
+        "37": {
+          "he": "הנאכלין כמות שהן חיין. פירוש אף על פי כן אסור ליתנן סמוך לאש אבל רחוק מהאש אפילו דבר שאין נאכל כמות שהוא חי שרי ולפי זה אסור ליתן אלונטית או כלי עופרת סמוך לאש לחממו אם הוא קרוב כל כך שיכול להתיך שם או לשרוף עיין מה שכתוב סס\"ג ויש לדחות דהתם לא ניחא ליה שישרוף או שיתיך והוי דבר שאין מתכוין:",
+          "en": "",
+          "ref": "Magen Avraham 318:37"
+        },
+        "38": {
+          "he": "מותר להניחו כנגד המדורה. דדמי לסמיכה בכירה דשרי ואף על גב שאין דבר מפסיק בינו לבין האש כיון שהצריכו החכמים להרחיק קצת מן המדורה אית ליה היכרא ולא אתו לאחתויי, הרא\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 318:38"
+        },
+        "39": {
+          "he": "אפי' נצטנן מותר. דס\"ל דאין בישול אחר בישול אפי' ברוטב ונצטנן:",
+          "en": "",
+          "ref": "Magen Avraham 318:39"
+        },
+        "40": {
+          "he": "במקום שהיס\"ב. כ' הלבוש שיש ט\"ס וצ\"ל במקום שאין היס\"ב דבמקום שהיס\"ב אסור משום בישול כמ\"ש הרב\"י גבי שמן ול\"נ דל\"ד דהכא כיון שנתבשל כבר והוא יבש אין בו משום בישול כמ\"ש סט\"ו ועסי' רנ\"ג ס\"ה דאיתא בהדיא כך, וכ\"מ במרדכי דלהמתירין שרי אפי' במקו' שהיס\"ב אך כ' דטוב ליזהר שלא ליתן במקום שהיס\"ב וקאי אפשטיד\"א דלא כמו שהבין הב\"י דקאי אשמן והקשה עליו וכ\"כ הכל בו בהדיא בשם הר\"ם ע\"ש וכן מוכח בגמרא וברש\"י שכ' דף קמ\"ה שורין אותו בחמין שיהא נימוח משמע שאע\"פ שנימוח אח\"כ יש לו דין דבר יבש וה\"ה שומן אלא שהמרדכי והכלבו חששו לדברי ר\"ב ולכן כתבו שלא ליתן במקו' שהיס\"ב כדי שלא יהיה נימוח כל כך שיזוב לחוץ אלא יתנו מרחוק ואף שנימוח בתוכו ל\"ל בה כמ\"ש הרב\"י וכ\"כ בספר מ\"כ עיין שם וכן משמע בהגהות סמ\"ק דצלי ופשטי\"ד שוין:",
+          "en": "",
+          "ref": "Magen Avraham 318:40"
+        },
+        "41": {
+          "he": "וכ\"ש קדירה שיש וכו' דשרי. אבל מ\"מ אסור מטעם בישול להאוסרין כמ\"ש סט\"ו:",
+          "en": "",
+          "ref": "Magen Avraham 318:41"
+        },
+        "42": {
+          "he": "ויש מחמירין. משום דהשומן צף למעלה והוי בעין והוי נולד דדמי למשקין שזבו משא\"כ בשלג דשרי כמ\"ש סי' ש\"ך ס\"ט דכשנימוח במים אינו ניכר ומשמע דאפי' בדיעבד אסור לאכול השומן דהוי נולד ומ\"מ הפשטי\"ד עצמה מותרת דבשומן הבלוע בה אין איסור מידי דהוי אחתיכת בשר שמותר לחמם כמ\"ש הרב\"י ואפשר דכיון דנאסר השומן בעין חוזר ונבלע בפשטי\"ד ונאסר כמ\"ש בי\"ד סי' קי\"ג ס\"ג ומ\"מ יש להקל בדיעבד כמ\"ש רמ\"א, ונ\"ל דמותר ליתן הפשטיד\"א קודם שהוסק התנור כמ\"ש ססי' רנ\"ג דאפי' בנותן קדירה קודם שהוסק פטור אבל אסור וכ\"ש הכא דיש מתירין ליתן אפילו אחר שהוסק לכל הפחות יש להתיר קודם שהוסק ומ\"מ אין להקל בפני ע\"ה ויש לעשות ע\"י עכו\"ם, כ' הרמב\"ם פ\"ט א' נותן האור וא' העצים וא' הקדירה וא' המים וא' הבשר וא' הגיס כלם חייבים משום מבשל שכל העושה דבר מצרכי הבישול הרי זה מבשל אבל נתן א' הקדרה וא' המים וא' האור וא' העצים וא' הגיס ב' האחרונים חייבים (אבל נותן האור לא מחייב כיון שהאור היה מתכבה ולא היה התבשיל מתבשל אם לא היה השני נותן העצים) אבל ברישא מיירי שנתנו שניהם האור והעצים ביחד [כ\"מ בשם ר\"י בר רב] וצ\"ל דמיירי שלא הצית האש אלא הביאו ממקום אחר ונתנו פה דאלו הציתו חייב משום מבעיר ורש\"י פי' דכשמוליך גחלת ממקום למקום היא מתלבה מרוח הליכתו וחייב משום מבעיר וע' ר\"ל חביב סי' כ\"א וכתב המ\"מ וי\"א שאין חיוב ההגסה אלא בהגסה ראשונה אבל משהגיס פעם א' דבלא מגיס מתבשל פטור וכ\"ד רמב\"ן והרשב\"א ז\"ל [וכ\"כ מהרמ\"פ בהגהותיו] ובודאי לד\"ה כל שאין בבישולו חיוב כגון במבושלת כ\"צ אין בהגסתו חיוב עכ\"ל וב\"י סי' רנ\"ג כ' בשם הכל בו דמגיס חייב משום מבשל אפי' בקדירה מבושלת כ\"צ כל זמן שהיא על האש ע\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 318:42"
+        },
+        "43": {
+          "he": "אסור להגיס. משום צובע:",
+          "en": "",
+          "ref": "Magen Avraham 318:43"
+        },
+        "44": {
+          "he": "ולכתחלה וכו'. והעולם נהגו היתר במיני קטניות שמוציאין אותן בכף כיון דא\"א בע\"א ויש להם על מי שיסמכו עמ\"ש סי' רנ\"ג ס\"ד:",
+          "en": "",
+          "ref": "Magen Avraham 318:44"
+        },
+        "45": {
+          "he": "כנגד המדור'. לאו דוקא דה\"ה אם הוא רותח שיס\"ב כמ\"ש ס\"ה וכ\"ט וכ\"מ מל' רש\"י וכ\"כ הפוסקים בי\"ד דדבר שהוא גוש אפי' בכ\"ש מבשל וכ\"ש צלי ונ\"ל דבשומן מותר לטוחו דאין בו משום בישול כמ\"ש סי\"ו ומשום נולד ליכא כיון דאינו בעין ובלבד שלא ירסקו בידים רק יניחנו עליו מעט מעט והוא נימוח מאיליו ואפש' דזהו מקרי בעין מידי דהוי אקדיר' שיש בה רוטב וצ\"ע:",
+          "en": "",
+          "ref": "Magen Avraham 318:45"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "במזיד.  ומשמע ברשב\"א סי' קע\"ה שהקדרה אסורה ג\"כ ודוקא המבשל לבריא אבל המבשל לחולה מותרת הקדרה כ\"כ הרשב\"א שם עיין בתשובת שבות יעקב ח\"ב סי' נ\"א וגדולה מזו כתב שאפי' היתה קדירה חדשה שציוו כן הרופאים שיעשו התבשיל בכלי חדש אפ\"ה מותר הקדרה ועיין רש\"י בפ\"ק דחולין שכתב דלדעת ר\"מ בשוגג יאכל בו ביום אפי' הוא עצמו ובמזיד אסור אפילו לאחרים בו ביום ולמ\"ש מותר אפילו לו ע\"ש ובפרק אלו נערות פי' להפך בדעת ר\"מ דס\"ל בשוגג יאכל אפילו בו ביום במזיד לא יאכל לעולם אבל אחרים ישראלים אוכלים הרי שכתב דלר\"מ במזיד לא יאכל הוא לעולם וזהו הפך ממה שפירש בפ\"ק דחולין וצ\"ע ועיין בפירוש המשנה להרמב\"ם פ\"ב דתרומות ודו\"ק:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:1"
+        },
+        "2": {
+          "he": "למו\"ש מיד.  דדוקא בעכו\"ם שעושה בעינן בכדי שיעשו דחיישינן שמא יאמר לו לעשות אבל ישראל לא ישמע לו תוס' חולין דף ט\"ו ואם היה מו\"ש י\"ט אסור דאין שבת מכין לי\"ט. לקוטי מהרי\"ו סי' ב' ואם נתערב אותו דבר באחרים עיין מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:2"
+        },
+        "3": {
+          "he": "ובשוגג.  אם עשה ע\"פ הוראת חכם מקרי שוגג וה\"ה בשוכח. כנה\"ג רד\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:3"
+        },
+        "4": {
+          "he": "חי.  ובלא מליחה טור ועיין בי\"ד סי' ס\"ז ס\"ב דהדחה מיהא בעי ועיין סי' שכ\"ה סי\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:4"
+        },
+        "5": {
+          "he": "בשבת.  אבל במ\"ש מותר מיד ש\"ך וטעמו דכיון דהעכו\"ם בישל בהיתר לא בעי להמתין בכדי שיעשה מ\"א ועיין בי\"ד סי' קי\"ג ס\"ק יו\"ד כתבתי בשם האחרונים דאסור אפילו לחולה עצמו במו\"ש ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:5"
+        },
+        "6": {
+          "he": "והולך.  ומיירי בפרי שלא נגמר בישולו ב\"י אבל בנגמר בישולו לא אמרינן שגדל והולך. מ\"א ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:6"
+        },
+        "7": {
+          "he": "להטמינה.  אפי' מבע\"י עיין סי' רנ\"ז ס\"ג. וכתב רש\"ל בתשובה סי' ס\"א דמותר לצלות על גג רותח מחמה דלא מיחלף בתולדות האור ע\"ש וכתב המ\"א דדבריו אינם מוכרחים וגם בס' טל אורות חולק עליו ובירושלמי איתא בהדיא דאסור. כתב הרמב\"ם המבשל בחמי טבריא פטור דהוי כתולדות חמה וכתב הר\"ן דאסור להעמיד מאכל ע\"ג חמי טבריא אבל מע\"ש מותר ולהניח בתוכו אסור כמ\"ש סי' שכ\"ו ס\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:7"
+        },
+        "8": {
+          "he": "בישול.  והוי יודע שכל דינים דאסורים משום בישול אפי' ליתן על הכירה או התנור קודם היסק אסור כמ\"ש סוף סי' רנ\"ג. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:8"
+        },
+        "9": {
+          "he": "וי\"א.  והב\"ח פסק כסברא ראשונה ועיין ס\"ח מ\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:9"
+        },
+        "10": {
+          "he": "לשרותו.  אפי' בכ\"ר כמ\"ש סעיף ט\"ו דאין בישול אחר בישול. משמע מלשון הש\"ע דאם לא נתבשל מע\"ש רק נשרה בחמין אסור לשרותו בחמין בשבת וטוב להחמיר אם היד סולדת בחמין. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:10"
+        },
+        "11": {
+          "he": "מדיחים.  היינו שמערין עליו מכלי שני אבל אסור לשרותו אפי' בכ\"ש דמחזי כמבשל ב\"ח. ול\"ד לתבלין בס\"ט דתבלין עשוי למתק הקדירה ולא מיחזי כמבשל ונ\"ל דבצל דינו כתבלין דעבידא לטעמא. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:11"
+        },
+        "12": {
+          "he": "המליח.  משמע דבמים צוננים מותר ולכן מותר לרחוץ הערינ\"ג בשבת בצוננים אפי' הוא מלוח הרבה וכ\"כ הב\"י בסוף סי' זה בשם הפרדס בדג שקורין טונינ\"א. ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:12"
+        },
+        "13": {
+          "he": "קשה.  וה\"ה דבר מלוח שאין יכולים לאכלו כלל בלא הדחה ב\"י ואיתא בגמרא דאם הדיח חייב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:13"
+        },
+        "14": {
+          "he": "בישול.  אע\"ג דאין בישול אחר בישול מ\"מ יש בישול אחר צלי וה\"ה שיש צלי אחר בישול ולכן אסור ליתן דבר שנתבשל אצל האש בלא רוטב פסקי רקנט\"י אבל לכ\"ע אין צלי אחר צלי ודבר שנצלה מותר ליתנו אצל האש אפי' נצטנן וה\"ה האפוי ודבר שנתבשל מותר לשרותו בחמין כמ\"ש ס\"ד מ\"א. משקה בני ארץ ישראל שמרתיחין מים ומערבין קאוו\"י בתוכה ופעמים שאין נותנין בו כל צרכו בעודנו רותח על האש ובעת שנותנין אותו בכוסות מוסיפין ונותנין על הכוס משחיקת הקאוו\"י כדי לבשמו ולתקנו אם יעשה כן בשבת אסור להוסיף ולתת מן הקאוו\"י בכוסות והעושה כן לכשיבנה בית המקדש חייב להביא חטאת שמנה מהר\"א הלוי בתשובת גינת ורדים חא\"ח כלל ג' סי' ב' וע\"ש עד סי' ט' מה שהאריכו בזה חכמי א\"י וכתבו דהמיקל יש לו על מה לסמוך והמחמיר תע\"ב ועיין בס' זרע אברהם חא\"ח סימן א' ועיין בתשובת פנים מאירות סימן פ\"ד ובשבות יעקב ח\"א הלכות שבת:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:14"
+        },
+        "15": {
+          "he": "אפילו בכ\"ש.  הטעם בב\"י דלמא פת דרכיך מתבשל אפי' בכ\"ש ויש מתירין הוא דעת הטור דס\"ל דלא מצינו בישול בכ\"ש אלא במלח לחד לישנא בס\"ט ולא מידי אחרינא וכתב המ\"א לפי מה שכתבתי בס\"ד בשם ב\"ח יש להחמיר בכ\"ש דמחזי כמבשל. (אבל בספר אליהו רבה מביא בשם תשוב' מ\"ב דמותר בכלי שני):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:15"
+        },
+        "16": {
+          "he": "בכ\"ר.  כיון שהוא יבש אין בישול לאחר אפיה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:16"
+        },
+        "17": {
+          "he": "שהיס\"ב.  פי' שאין נותנים לחם במרק כל זמן שהיס\"ב ונ\"ל דאותם שחותכים בצלים דק דק ונותנים לתוך המרק לא ישימו רק אחר שלא תהיה היד סולדת בו דבלחם יש קולא מחמת שנאפה כבר ואפ\"ה נזהרים כ\"ש בבצלים ואע\"ג דאפשר דבצלים לא מתבשלים בכ\"ש מ\"מ י\"ל דשמא הוי כמלח ללשון א' דמתבשל כמ\"ש בס\"ט ע\"ש דלא בקיאין אנו במידי דמקרי רכיך ואסור והיינו כל זמן שהיד סולדת בו במרק. ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:17"
+        },
+        "18": {
+          "he": "סולדת.  אפי' לא נתבשל כל צרכו מותר שאין כאן אלא שמירת חומו ולא יבא לידי בישול גמור ט\"ז ע\"ש ועיין סט\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:18"
+        },
+        "19": {
+          "he": "בבצק.  אבל בדבר המתמרח אסור כמ\"ש סי' שי\"ד סי\"א ועי' ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:19"
+        },
+        "20": {
+          "he": "חם.  ובדבר יבש שרי עס\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:20"
+        },
+        "21": {
+          "he": "אסור.  דהוי כמניח ע\"ג כירה לכתחלה בשבת רי\"ו. וא\"כ לפי מ\"ש סי' רנ\"ג ס\"ב אם נטלו מע\"ג כירה משחשיכה שרי ליתנו ע\"ג קדרה ע\"ש. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:21"
+        },
+        "22": {
+          "he": "כירה.  דאפי' בדבר שאין בו משום בישול אסור להניחו ע\"ג כירה דגזרינן שמא יחתה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:22"
+        },
+        "23": {
+          "he": "עיקר.  כיון שהקדירה מפסקת ל\"ד לכירה דהתם הקדירה עומדת ע\"ג האש ממש. מ\"מ פכ\"ב. ועיין מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:23"
+        },
+        "24": {
+          "he": "סולדת.  עיין מ\"א ועיין בי\"ד סי' צ\"ד ס\"ק ב' מש\"ש בשם רש\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:24"
+        },
+        "25": {
+          "he": "של שור.  נהי דהבשר אינו מתבשל הלחלוחית שבו מתבשל. טור:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:25"
+        },
+        "26": {
+          "he": "דם.  ומיירי שהודח אחר המליחה דאל\"כ עדיין הוא אסור משום הדם שבמלח. ומ\"מ פשט דעת הרב\"י משמע דדוקא כשהוא עדיין מלוח אז המלח מסייע לבישול עיין מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:26"
+        },
+        "27": {
+          "he": "מלח.  כבר כתבתי בס\"ק י\"ז דגם בבצלים דינא הכי כיון שהם חריפים ממהרים להתבשל ועינינו רואות דכשנותנים אותם בכ\"ש רותח מתמתקים ממרירותם אחר שמונחים שם קצת שעה. ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:27"
+        },
+        "28": {
+          "he": "בטל.  עיין ט\"ז שחולק והעלה שאין להתיר אכילה זו בשבת אלא ימתין עד לאחר השבת ע\"ש ועיין מ\"א. ונ\"ל דמלח שעושין ממים שמבשלין אותם אין בו משום בישול דאין בישול אחר בישול. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:28"
+        },
+        "29": {
+          "he": "מכ\"ר.  ואם עירה אזי הקליפה אסורה דנתבשלה בשבת ועי' במ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:29"
+        },
+        "30": {
+          "he": "חמין.  ואפי' בחמי טבריא אסור ליתן צוננין באמבטי שהומשכה מן המעיין לתוכו אלא צריך ליטול מהאמבטי בכ\"ש ואח\"כ יתן המים לתוכה גמ' ועיין ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:30"
+        },
+        "31": {
+          "he": "ממים חמין.  ואפי' מכ\"ר מותר לערות לתוך מים צוננין דהתחתון גובר על העליון ומצננו טור. ואע\"ג דאסור לערות על תבלין כמ\"ש ס\"י דהוי ככ\"ר הכא שאני שמתערבין החמין עם הצוננים ומתבטל חמימותן כיון שהצוננין מרובין. ונ\"ל דאסור ליתן תתיכת בשר רותח לתוך רוטב צונן דכיון שאינו מתערב מתבשל כדי קליפה וכ\"מ בי\"ד סי' צ\"א ס\"ד. מ\"א ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:31"
+        },
+        "32": {
+          "he": "מרובים.  ולא אמרינן דמצטרף הכלי דדבר שאין מתכוין אין ראוי לומר פסיק רישיה הוא ולחייב מפני שכשהוא מתכוין עושה מלאכה וכשאינו מתכוין אין בו מלאכה כלל שהרי אינו רוצה לעשות ממנו כלי ע\"ש ועיין מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:32"
+        },
+        "33": {
+          "he": "בכלי שני.  ועיין בי\"ד סי' צ\"ב ס\"ק מ\"ה כתבתי בשם הט\"ז דאם שואב בכלי ריקן מן הכלי ראשון דאותו הכלי ששואב יש לו דין כ\"ר לחומרא ע\"ש דלא כמהרי\"ל ולעיל סי' רנ\"ח כתבנו דאין לטמון כל הכלי בתוך הכלי שני דא\"כ ה\"ל הטמנה אלא צריך להיות מגולה למעלה. ט\"ז עיין שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:33"
+        },
+        "34": {
+          "he": "שהן חיין.  פי' אעפ\"כ אסור ליתנן סמוך לאש אבל רחוק מהאש אפי' דבר שאין נאכל כמות שהוא חי שרי ולפ\"ז אסור ליתן אלונטית או כלי עופרת סמוך לאש לחממו אם הוא קרוב כ\"כ שיוכל להתיך שם או לשרוף עמ\"ש המ\"א ס\"ק יו\"ד בשם הרמב\"ם ויש לדחות דכאן לא ניחא ליה שישרוף או שיתיך והוי דבר שאין מתכוין. מ\"א ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:34"
+        },
+        "35": {
+          "he": "נצטנן מותר.  דס\"ל דאין בישול אחר בישול אפי' ברוטב ונצטנן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:35"
+        },
+        "36": {
+          "he": "שהיד סולדת.  כתב הלבוש שיש ט\"ס וצ\"ל במקום שאין היס\"ב דבמקום שהיס\"ב אסור משום בישול ונ\"ל דל\"ד דהכא כיון שנתבשל כבר והוא יבש אין בו משום בישול כמ\"ש סט\"ו ועיין סי' רנ\"ג ס\"ה דאי' בהדיא כך. ט\"ז ומ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:36"
+        },
+        "37": {
+          "he": "ונימוח.  דלא עביד כלום בידים אלא ממילא הוא נמחה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:37"
+        },
+        "38": {
+          "he": "דשרי.  מ\"מ אסור מטעם בישול להאוסרים כמ\"ש סט\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:38"
+        },
+        "39": {
+          "he": "ויש מחמירין.  משום דהשמן צף למעלה והוי בעין והוי נולד דדמי למשקין שזבו משא\"כ בשלג דשרי כמ\"ש סי' ש\"ך ס\"ט דכשנימוח במים אינו ניכר. ומשמע דאפילו בדיעבד אסור לאכול השומן דהוי נולד ומ\"מ פשטיד\"א עצמה מותרת דבשומן הבלוע בה אין איסור מידי דהוי אחתיכת בשר שמותר לחמם כמ\"ש הרב\"י ואכתוב בסמוך. ואפשר דכיון דנאסר השומן בעין חוזר ונבלע בפשטיד\"א ונאסרה כמ\"ש בי\"ד סי' קי\"ג ס\"ג. ומ\"מ יש להקל בדיעבד כמ\"ש רמ\"א. ונ\"ל דמותר ליתן הפשטיד\"א קודם שהוסק התנור כמ\"ש סוף סי' רנ\"ג דאפילו בנותן קדירה קודם שהוסק פטור אבל אסור וכ\"ש הכא דיש מתירין ליתן אפי' אחר שהוסק לכל הפחות יש להתיר קודם שהוסק ומ\"מ אין להקל בפני ע\"ה ויש לעשות על ידי עכו\"ם. כתב הב\"י נראה אפילו למאן דמחמיר מותר להחם בשבת חתיכות בשר שמן אעפ\"י שמקצתו זב כיון דדבר מועט הוא הנפשר לא חשיב ושרי לכ\"ע עכ\"ל וכתב א\"ז דמותר להשים כד של יין שיש בו קרח על התנור כדי לפשר הקרח. כתב הרמב\"ם פ\"ט אחד נתן האור ואחד העצים ואחד הקדרה ואחד המים ואחד הבשר ואחד הגיס כולם חייבים משום מבשל שכל העושה דבר מצרכי הבישול ה\"ז מבשל אבל נתן אחד הקדרה ואחד המים ואחד האור ואחד העצים ואחד הגיס ב' האחרונים חייבים. אבל נותן האור לא מתחייב כיון שהאור היה מתכבה ולא היה התבשיל מתבשל אם לא היה השני נותן העצים אבל ברישא מיירי שהביאו שניהם האור והעצים ביחד כ\"מ בשם ר\"י בי רב. וצ\"ל דמיירי שלא הצית האש אלא הביאו ממקום אחר ונתנו פה דאלו הציתו חייב משום מבעיר. ורש\"י פי' דכשמוליך גחלת ממקום למקום היא מתלבה מרוח הליכתו וחייב משום מבעיר ועיין ר\"ל בן חביב סי' כ\"א. וכתב המ\"מ ויש אומרים שאין חיוב ההגסה אלא בהגסה ראשונה אבל משהגיס פעם א' דבלא מגיס מתבשל ופטור וכ\"ד הרמב\"ן והרשב\"א. ובודאי לד\"ה כל שאין בבישולו חיוב כגון מבושלת כל צרכו אין בהגסתו חיוב עכ\"ל. וב\"י סי' רנ\"ג כתב בשם הכלבו דמגיס חייב משום מבשל אפי' בקדרה מבושלת כל צרכו כל זמן שהיא על האש ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:39"
+        },
+        "40": {
+          "he": "אסור.  דבזה יש משום צובע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:40"
+        },
+        "41": {
+          "he": "ולכתחלה וכו'.  והעולם נהגו היתר במיני קטניות שמוציאין אותו בכף כיון דא\"א בענין אחר ויש להם על מי שיסמוכו עיין מ\"ש סי' רנ\"ג סעיף ד' מ\"א. וט\"ז כתב נלע\"ד דהוצאה בעלמא בלי שום היפך בקדירה אלא ליקח חתיכה אין כאן זהירות אף ע\"פ שלא נתבשל כל צרכו אסור אפילו בהוצאה שנמצא מגיס מ\"מ בנגמר כל צרכו אין להחמיר בהוצאה רק שיחמיר להפוך בקדרה הרוצה להחמיר ועיין סוף סי' שכ\"א ועיין בפנים מאירות סי' פ\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:41"
+        },
+        "42": {
+          "he": "המדורה.  וה\"ה במעבירו מהאש כל זמן שהוא רותח שהיס\"ב אסור לטוח עליו שום דהא עדיין כ\"ר הוא וכ\"כ הפוסקים ביו\"ד סי' צ\"ד ס\"ק כ\"ה בדבר שהוא גוש אפי' בכ\"ש מבשל וכ\"ש צלי ע\"ש והרבה אין יודעים להזהר כשצולין אווזא וכשמוציאין אותה בעודה רותחת מושחין עליה שום וזהו איסור כל זמן שהיס\"ב ט\"ז. וכתב המ\"א ונ\"ל דבשומן מותר לטוחו דאין בו משום בישול כמ\"ש סי\"ו ומשום נולד ליכא כיון דאינו בעין ובלבד שלא ירסקו בידים רק יניחנו עליו מעט מעט והוא נימוח מאליו ואפשר דזהו מיקרי בעין מידי דהוי אקדירה שיש בה רוטב וצ\"ע עכ\"ל ומכאן ראיה שמותר לטוח שומן אווזא שנקפה ע\"ג מיני קמחים וקטניות כגון לאקשי\"ן ערביזי\"ן היר\"ז שנותנים ע\"ג קערה. א\"ז בשם דרישה (ובספר אליהו רבה הניח קצת בצ\"ע ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 318:42"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) המבשל וכו' - אחד המבשל את המאכל או את הסממנין או המחמם את המים [ר\"ל אף דמים ראוי לשתיה בלא בישול וה\"ה חלב מ\"מ חייב כיון דמשתבח ע\"י הבישול] ואחד האופה את הפת הכל ענין אחד הוא [דאפיה הוא מענין בישול אלא שאפיה הוא בפת ובישול הוא בשארי דברים]. המתיך אחד ממיני מתכות כל שהוא או המחמם את המתכות עד שתעשה גחלת ה\"ז תולדת מבשל [שהרי בחימומו הוא מרככו שיהא ראוי לתקנו ולעשות ממנו כלי והרי הוא מרפה דבר הקשה] וכן הממסס את הדונג [שעוה] או את החלב או את הזפת והכופר והגפרית וכיוצא בהן ה\"ז תולדת מבשל וחייב וכן המבשל כלי אדמה עד שיעשו חרס חייב משום מבשל [דקודם שמתחזק הכלי ונצרף בהכבשן ונעשה חרס כראוי מתבשל בה טיט של הכלי] וכן הנותן חתיכת עץ בתנור כדי שיתייבש וידוע שמתחלה הוא מתרפה ויוצא ממנו הלחלוחית חייב משום מבשל כללו של דבר בין שרפה גוף קשה באש או שהקשה גוף רך ה\"ז חייב משום מבשל [רמב\"ם בפ\"ט] וע\"כ יש ליזהר מאד שלא להניח עצים לחים על התנור ליבשן אחר שקיעת החמה דהוא חשש דאורייתא. הניח בשר ע\"ג גחלים אם נצלה צליה גמורה כשיעור גרוגרת חייב ואפילו הגרוגרת אינה במקום אחד אלא מתלקט משנים ושלשה מקומות ג\"כ חייב ואפילו אם לא היה צליה גמורה רק כמאב\"ד ג\"כ חייב אלא דבזה שאינו צליה גמורה צריך שיהיה הבשר צלוי משני הצדדים של הבשר דוקא וא\"ל פטור [כן כתב הרמב\"ם שם בהלכה ה'] וכ\"ז הוא לענין חטאת אבל איסורא יש בכל גווני וכן מה שכתב הרמב\"ם מתחלה לענין צליה השיעור גרוגרת הוא ג\"כ רק לענין חיוב חטאת אבל איסור דאורייתא יש בכל גווני כדקי\"ל חצי שיעור אסור מן התורה [שבת ע\"ד גמ' ורש\"י שם]:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:1"
+        },
+        "2": {
+          "he": "(ב) בשבת - וכל שיש ספק פלוגתא בזה אי הוי בכלל בישול או לאו או בשאר מלאכות כה\"ג אין לאסור בדיעבד דכל האיסור הזה הוא רק מדרבנן שקנסוהו וספיקא דרבנן לקולא [פמ\"ג באות יו\"ד וכעין זה כתב המג\"א בסימן שכ\"ג סקי\"א ועיין בסקל\"ב וצע\"ק]:",
+          "en": "When there is a dispute whether something is prohibited, b’dieved it is not prohibited since the restriction is only Rabbinic in the first place and we adopt a lenient approach regarding doubtful matters that are Rabbinic.",
+          "ref": "Mishnah Berurah 318:2"
+        },
+        "3": {
+          "he": "(ג) אחת משאר מלאכות - ואם היא מלאכה דרבנן עיין בביאור הגר\"א שהאריך להוכיח דלכו\"ע אם עשה אותה בשוגג אין לאסור בדיעבד ליהנות ממנה ועיין בבה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:3"
+        },
+        "4": {
+          "he": "(ד) לעולם - ליהנות מאותה מלאכה דקנסוהו רבנן ומ\"מ מותר לו ליהנות מדמיה של המלאכה. כתב המג\"א בשם הרשב\"א דגם הקדירה שבישל בה בשבת אסורה לו לבשל בה מפני שהיא בלועה מדבר האסור לו ודוקא המבשל לבריא אבל המבשל לחולה מותרת הקדרה:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:4"
+        },
+        "5": {
+          "he": "(ה) מותר למו\"ש מיד - ואפילו למי שנתבשל בשבילו דלא בעינן להמתין בכדי שיעשו אלא במלאכה הנעשית ע\"י א\"י בשביל ישראל משום דקל בעיניו איסור דאמירה לעו\"ג ויבוא לעשות כן פעם אחרת כדי שיהיה מוכן לו במו\"ש מיד אבל דבר שנעשה ע\"י ישראל בידים ודאי ליכא למיחש דעי\"ז שנתיר למו\"ש מיד יבא פעם אחרת לומר לישראל לבשל לו בשבת בשביל זה ועוד שהישראל לא ישמע לו דאין אדם חוטא ולא לו. אם היה במו\"ש יו\"ט אפילו בישל בהיתר כגון שבישל בשבת לחולה מ\"מ אסור לבריא גם ביו\"ט ראשון דאין שבת מכין ליו\"ט. אם נתערב בשבת אותו דבר שנתבשל במזיד באחרים דעת המ\"א דאינו מתבטל ואסור לו בשבת ליהנות מזה דכיון דלמו\"ש יהיה מותר לאחרים מקרי דבר שיש לו מתירין דאינו בטל אפילו באלף ומה שכתב ביו\"ד סוף סימן קי\"ב היפוך זה נדחק המ\"א לישבו ועיין בחות דעת שם שחולק עליו וכ\"ז להמבשל בעצמו אבל לענין אחרים לכו\"ע מקרי דבר שיש לו מתירין:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:5"
+        },
+        "6": {
+          "he": "(ו) ובשוגג - שגג בדין או שכח כ\"ז בכלל שוגג הוא:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:6"
+        },
+        "7": {
+          "he": "(ז) גם לאחרים - הנה בגמרא פליגי בענין שוגג ומזיד ר\"מ ור' יהודה ודעת השו\"ע הוא דעת ר' יהודה שכן הסכימו הרי\"ף והרמב\"ם והגאונים והגר\"א הסכים בבאורו לשיטת התוספות וסייעתם דפסקו כר' מאיר דבמזיד אסור בין לו בין לאחרים עד מו\"ש ובשוגג מותר גם לו מיד. ובמקום הצורך יש לסמוך על זה בבשול בשוגג:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:7"
+        },
+        "8": {
+          "he": "(ח) שחלה היום - ולא אמרינן דהבהמה היא מוקצה מחמת איסור דאיתקצאי בבה\"ש מחמת איסור שחיטה שבאותו פעם לא היה חולה עדיין שיהיה דעתו עליה לשחטה דהא אנן קיי\"ל כר' שמעון דלית לו מוקצה אלא היכי דדחיה בידים כגון נר שהדליקו עליו באותו שבת דדחיה בידים שלא להשתמש בו באותה שבת כיון שהדליק בו אבל גבי בהמה לא דחיה בידים ועיין עוד בב\"י:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:8"
+        },
+        "9": {
+          "he": "(ט) מותר הבריא וכו' - הטעם כיון דעיקר השחיטה לצורך החולה דאי אפשר לכזית בשר בלא שחיטה ולא שייך בזה שמא ירבה בשבילו:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:9"
+        },
+        "10": {
+          "he": "(י) חי בשבת - ובלא מליחה דאסור למלוח בשבת והדחה בעי משום דם בעין משא\"כ דם הבלוע בו ליכא איסור כ\"ז שלא פירש:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:10"
+        },
+        "11": {
+          "he": "(יא) לחולה אסור - אבל במו\"ש מותר מיד ולא בעינן לזה בכדי שיעשה. וטעימה אם התבשיל יפה בשביל החולה מותר גם בשבת:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:11"
+        },
+        "12": {
+          "he": "(יב) שאין בו סכנה - דגם הוא כבריא לענין זה שאסור מן התורה לבשל עבורו ע\"י ישראל וחיישינן שאם נתירו לאכול מזה שמא ירבו בשבילו:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:12"
+        },
+        "13": {
+          "he": "(יג) שמא ירבה בשבילו - ליתן בשר לתוך הקדרה וזהו איסור דאורייתא כשמרבה בשבילו אפילו הוא מרבה בפעם אחת קודם שיתן הקדירה על האש וי\"א דהוי דרבנן כיון שהוא בפעם אחת עיין ב\"י [מ\"א ועיין בספרי אהבת חסד בפ\"ז שביררנו ראיה מהגמרא דהעיקר כדעה הראשונה]:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:13"
+        },
+        "14": {
+          "he": "(יד) אסור בשבת - לבריא ליהנות ממנו אבל במו\"ש מותר מיד וטעמו דכיון דהא\"י בישל בהיתר לא בעי להמתין בכדי שיעשו וגם לא גזרו בזה משום בישולי א\"י [הגר\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:14"
+        },
+        "15": {
+          "he": "(טו) מבעוד יום - ר\"ל והיה בדעתו מבע\"י לקצוץ הפרי בשבת אפ\"ה אסור מפני שאין הכנה מועלת כלל במחובר כיוצא בזה שהוא גדל והולך בשבת אבל פרי שנגמר בשולו ושוב אין גדל והולך מועלת בו הכנה אע\"פ שהוא מחובר אבל חולה שנחלה היום אסור בכל גווני ליהנות לבריא משום מוקצה דמחובר:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:15"
+        },
+        "16": {
+          "he": "(טז) שגדל והולך - עיין במ\"א שמקשה דליבטל הגידולים בעיקר שהוא הרוב של היתר ויהא מותר לבריא כשנחלה מבע\"י ובביאור הגר\"א מצדד ג\"כ כן להלכה:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:16"
+        },
+        "17": {
+          "he": "(יז) בתולדת האור - והמבשל בו חייב לפיכך המניח פירות או מים על התנור או בתוך [הקאכלין] לאחר שהוסק התנור ונתבשלו שם חייב ומדרבנן אסור להניח אפילו קודם שהוסק וכדלקמיה. וכל דיני בישול הנזכרים בסימן זה שייכים גם בדבר שנתבשל ע\"י תולדת האור:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:17"
+        },
+        "18": {
+          "he": "(יח) ואפילו בתולדת חמה - ואפילו בדיעבד אסור ואפשר דלאחר שבת מותר אף למבשל עצמו [חידושי רע\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:18"
+        },
+        "19": {
+          "he": "(יט) להטמינה וכו' - ואפילו מבע\"י דחול הוא דבר המוסיף הבל כמבואר לעיל בסימן רנ\"ז ס\"ג ואסור להטמין בו אפילו מבע\"י כמבואר שם [הרא\"ש] ובחידושי רע\"א הביא בשם הרשב\"א דמותר להטמין בו מבע\"י דכל שהוחם בע\"ש מן החמה מצטנן לגמרי בליל שבת:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:19"
+        },
+        "20": {
+          "he": "(כ) בחול - ואפילו אם לא יטמין אלא יגלגלה בשבת ע\"ג חול החם כדי שתצלה נמי אסור דגזירה אטו תולדת האור וע\"כ אסור לצלות ביצה על גג רותח מחמה - המבשל בחמי טבריא פטור מחטאת דהוי כתולדת חמה אבל חייב מכת מרדות דאיסור יש בזה הלכך אסור להעמיד מאכל ע\"ג חמי טבריא בשבת אבל להשהות עליהן מע\"ש מותר ולהניח בתוכן אסור משום הטמנה בדבר המוסיף הבל כמ\"ש סימן שכ\"ו ס\"ג:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:20"
+        },
+        "21": {
+          "he": "(כא) אבל בחמה עצמה - ולא גזרינן אטו אור דחמה באור לא מיחלף:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:21"
+        },
+        "22": {
+          "he": "(כב) יש בו וכו' - וכל דינים האסורין משום בשול אפילו ליתן על הכירה להתנור קודם היסק אסור כמ\"ש סימן רנ\"ג:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:22"
+        },
+        "23": {
+          "he": "(כג) בשול - וע\"כ אסור מן התורה להניח התבשיל הזה בשבת במקום חם שהיד סולדת בו ולערב אותו בתבשיל רותח בכלי שני יש להקל [אחרונים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:23"
+        },
+        "24": {
+          "he": "(כד) אם נצטנן - היינו שאין היד סולדת בו אף שהוא קצת חם עדיין אבל אם היד סולדת בו אף שנצטנן מרתיחתו לא שייך בו בישול עוד דבכלל רותח הוא ואין בישול אחר בישול [ודוקא לענין להחזירו לתנור כשהוא גרוף מן הגחלים או שהם עמומין אבל לתנור כשאינו גרוף וכ\"ש על האש ממש אסור להחזיר לכו\"ע אפילו רותח גמור וכדלעיל ברנ\"ג] וכ\"ז הוא דעת המחבר אבל הרמ\"א לקמן בסט\"ו בהג\"ה כתב דכל זמן שלא נצטנן לגמרי נהגו להקל דאין בו משום בישול וע\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:24"
+        },
+        "25": {
+          "he": "(כה) ויפה לו - אבל אם מצטמק ורע לו מותר להניח סמוך למדורה אפילו במקום שהיס\"ב ועיין בב\"ח שפסק כסברא הראשונה דאין חילוק בזה וכן משמע בביאור הגר\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:25"
+        },
+        "26": {
+          "he": "(כו) כמאכל ב\"ד - וה\"ה יותר עד שיגמר בישולו שייך בו בישול מן התורה:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:26"
+        },
+        "27": {
+          "he": "(כז) אפילו בעודו רותח - ופשוט דאפילו ע\"י א\"י אסור לגמור הבישול ונראה דבדיעבד אין לאסור התבשיל דיש לסמוך על הפוסקים שסוברים דכיון שנתבשל כמאכל ב\"ד שוב אין בזה משום בישול:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:27"
+        },
+        "28": {
+          "he": "(כח) והני מילי וכו' - ר\"ל הא דאמרן דבנצטנן שייך בישול בכל גוונא:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:28"
+        },
+        "29": {
+          "he": "(כט) מרק - דבדבר לח כיון שאזיל חמימותו ונצטנן בטל ממנו שם בישולו הראשון:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:29"
+        },
+        "30": {
+          "he": "(ל) אבל דבר וכו' - היינו בנתבשל כל צרכו:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:30"
+        },
+        "31": {
+          "he": "(לא) שנתבשל כבר - דוקא שנתבשל אבל אם לא נתבשל אלא נשרה מע\"ש בכלי ראשון שהיס\"ב אסור לשרותו בחמין שהיס\"ב בשבת דאע\"ג דאין כאן תוספת בישול מ\"מ כ\"ז שלא נתבשל ממש אלא היה בכלי ראשון ניתוסף בו קצת בישול כשמניחו פעם שני בחמין ויש מקילין בדבר ודעת הפמ\"ג דהמקילין מיירי בדבר שדרכו וטבעו קל להגמר בישולו אף בכלי ראשון שהוסר מן האש אבל דבר שאין דרכו להתבשל לגמרי בכלי ראשון לכו\"ע אסור וטוב להחמיר בכל גוונא ע\"ש וכ\"ז לענין לשרותו בכלי ראשון אבל לשרותו בכ\"ש אף שהיס\"ב יש להקל בכל גוונא כיון שבע\"ש נשרה בחמין שהיס\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:31"
+        },
+        "32": {
+          "he": "(לב) והוא יבש - ר\"ל שהריקו המרק ממנו:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:32"
+        },
+        "33": {
+          "he": "(לג) מותר לשרותו - אפילו בכלי ראשון רותח כדי שיהיה נימוח שם ויהיה דבר לח דאין בישול אחר בישול אבל לא יתנו לכ\"ר שעומד על גבי האש:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:33"
+        },
+        "34": {
+          "he": "(לד) אותו בחמין - שהיד סולדת בהן ואפילו אם לא יניחו שם עד שיהיה נימוח ואפילו בכלי שני נמי אסור לשרות דמיחזי כמבשל ולא דמי לתבלין בסעיף ט' דלא אסר אלא בכלי ראשון דתבלין עשויין למתק הקדירה ולא מיחזי כמבשל:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:34"
+        },
+        "35": {
+          "he": "(לה) מדיחין אותו - והיינו שמערה עליו מכ\"ש דמכ\"ר אסור לערות עליו דעירוי ככ\"ר ומבשל כדי קליפה כמו שכתוב סעיף יו\"ד וה\"ה דשרי לערות מכ\"ש ע\"ג דבר לח צונן דה\"ל כהדחה בעלמא [אחרונים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:35"
+        },
+        "36": {
+          "he": "(לו) חוץ מן המליח הישן - דג מלוח של שנה שעברה וקולייס האיספנין הוא שם דג שאוכלין אותו מחמת מלחו ע\"י הדחה בחמין וע\"כ אפילו הדחה נמי לא שזהו גמר מלאכתן והוי בישול ואיתא בגמרא דאם הדיחן בחמין חייב חטאת והנה כמה אחרונים כתבו דטבע של אלו הדברים שאין יכולין לאכלו כ\"ז שלא הודח בחמין וע\"כ הדחה שלהן חשיבא בישול דמשוי לה אוכל וה\"ה שאר דבר מלוח כיוצא בזה שאין יכולין לאכול כלל בלי הדחה אבל דברים שיכולין לאכלן ע\"י הדחת מים צוננים אין איסור להדיחן בחמין מכלי שני ולפ\"ז דג מלוח שבמקומנו שנקרא הערינ\"ג שיכולין לאכול ע\"י הדחת צוננים ולפעמים אף בלי הדחה מותר להדיחו אף במים חמין ומהט\"ז משמע דיש ליזהר שלא להדיחו בחמין וכן כתב בספר שלחן עצי שטים ובח\"א וכן נכון לנהוג למעשה ועיין בה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:36"
+        },
+        "37": {
+          "he": "(לז) והדחתן וכו' - ר\"ל בחמין אבל בצונן מותר להדיחו ואף לשרותו ואפילו בדבר שע\"י שריה בצונן נעשה ראוי לאכילה שכל דבר שאינו אוכל מותר לעשותו אוכל בשבת כמ\"ש בסימן שכ\"ד:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:37"
+        },
+        "38": {
+          "he": "(לח) וה\"ה כל דבר קשה - ר\"ל דבר שהוא ראוי לאכול חי בלא בישול אך שהוא יבש וקשה מאד עד שאינו ראוי לאכול כלל מחמת זה בלא שריה בחמין דאסור לשרותו ולכאורה למה צריך הרמ\"א לסיים דהוי גמר מלאכה תיפוק ליה דכל דבר יבש שלא נתבשל מבעוד יום אסור לשרותו בחמין בשבת וכנ\"ל י\"ל דרוצה להשמיענו דבזה שהוא גמר מלאכתו יש איסור בשריה מדאורייתא כמו בהדחת מליח הישן ועיין בה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:38"
+        },
+        "39": {
+          "he": "(לט) דאסור לשרותו - אפילו בכלי שני וה\"ה אם הוא דבר שיהיה נעשה ראוי לאכילה ע\"י הדחת חמין בעלמא גם ההדחה אסור וכנ\"ל לענין דג מליח. ועתה נבאר דין בישול עלי הטיי\"א השייך בכמה ענינים לסעיף זה. הנה טיי\"א בשבת פשוט בפוסקים דיש בו משום בישול ובמזיד יש בו איסור סקילה ובשוגג חיוב חטאת וע\"כ יש ליזהר בו מאד ובעו\"ה רבים נכשלים בו ומקילין לעצמן בקולות שאין בהם ממש וע\"כ מוכרח אני לבאר אופני ההיתר והאיסור בזה בעזה\"י. הנה לערות מכלי ראשון על עלי הטיי\"א יש בזה בודאי חשש אב מלאכה דקי\"ל דעירוי מבשל כדי קליפה כדלקמן בסעיף יו\"ד וכ\"ש אם יעמידנו אח\"כ על התנור או בתוך הקאכלין עד שיהיה היד סולדת בו בודאי יבוא לכו\"ע לידי איסור סקילה עי\"ז ואפילו אם ירצה ליתן את עלי הטיי\"א לתוך הכלי אחר שיערה החמין לתוכה כדי שיהיה על המים שם כלי שני ג\"כ אסור כדקי\"ל בסעיף זה דדבר שלא בא בחמין מלפני השבת אין שורין בשבת אפילו בכ\"ש וכ\"ש לפי מה שמבואר בסעיף זה דיש דברים רכים קלי הבישול שמתבשלים אפילו בהדחה מכלי שני אפשר דיש בהעלים ג\"כ חשש איסור דאורייתא אפילו באופן זה וע\"כ הסכימו האחרונים דיש לערות עליהם מע\"ש רותחין מכלי ראשון כדי שעי\"ז יהיה נקרא הטיי\"א מבושל במקצת דעירוי מבשל כדי קליפה ויהפך בעת העירוי את הטיי\"א היטב בתוך הרותחים מלמעלה למטה ומלמטה למעלה [ויותר טוב שיהיה מבושל ממש ע\"י העמדה במקום שמתבשל] ואח\"כ יריק את העסענס לכלי אחר כדי שישארו עלי הטיי\"א יבשים ויהיה מותר לו לערות אח\"כ בשבת עליהם מים חמין מכלי ראשון כיון שכבר נתבשלו מע\"ש כדין דבר יבש דקי\"ל בסעיף זה דאין בו בישול אחר בישול אפילו אם נצטנן [ואח\"כ מותר לו להחזיר גם מי העסענ\"ס אלו הצוננים לתוך הכלי זה גופא וכמו שכתבנו לעיל דדבר לח שנצטנן מותר לו ליתנו בתוך כלי שני רותח] דאם ישאר בו משקה העסענ\"ס הרי קיי\"ל דבלח יש בישול אחר בישול אם נצטנן אם לא שמי העסענס הצוננים הם מרובין שלא יתחממו ע\"י המים שמערה עליהן למחר וכן הדין לענין קאוו\"י יזהר שלא יערה עליהם מים חמין מכלי ראשון אם לא שעירה עליהם מאתמול והריק את המים מעליהן והטעם ככל הנ\"ל [עיין בתשובות חתם סופר סימן ע\"ד ובפ\"ת על או\"ח]. ודע דאף שהתרנו לערות חמין על עלי הטיי\"א והקאוו\"י אם נתן עליהם מאתמול מים מכ\"ר אעפ\"כ יזהר שלא יעמיד את הטיי\"א והקאוו\"י בתנור או בקאכלין אחר ששפך עליהם מים דהא אין עירוי מבשל רק כדי קליפה וא\"כ לא נתבשל אתמול רק כדי קליפה ועכשיו ע\"י העמדה בתנור יתבשל לגמרי. והנה אופן זה שבארנו אף שאין למחות ביד הנוהגים בו מ\"מ כתבו האחרונים עצה המובחרת מזה דהיינו שיתקן העסענס מע\"ש לגמרי שלא יצטרך לערות לתוכו עוד רותחין למחר בשבת ולמחר כשיצטרך לשתות יתן העסענס הצונן לתוך הכוס ששותה בו אחר שעירו המים חמין לתוכו ונעשה כ\"ש וה\"ה שמותר לתת לתוך הכוס הזה שהוא כ\"ש חלב שנצטנן אבל אסור לערות עליהם מכ\"ר וכדלעיל בס\"ד וכשהעסענס שלו אינו צונן הוא בודאי טוב לצאת בזה ידי כל הדעות:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:39"
+        },
+        "40": {
+          "he": "(מ) אם בשלו אח\"כ במשקה - ר\"ל שנתנו בקדרה כשמתבשלת עם רוטב דאם נותנו במשקים צוננים תיפוק ליה דיש בו משום בישול עבור המשקים:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:40"
+        },
+        "41": {
+          "he": "(מא) משום בישול - דאע\"ג דאין בישול אחר בישול בדבר יבש מ\"מ יש בישול אחר צלי ואפילו עדיין רותח מחמת הצליה [אחרונים] וה\"ה דלשיטה זו יש צלי אחר בישול ולכן אסור ליתן דבר שנתבשל אצל האש בלי רוטב [מ\"א] ולאו דוקא אצל האש דה\"ה בכל מקום שיוכל להצלות מחום התנור ולכן צריך ליזהר שלא להחזיר בשר מבושל בלי רוטב לתוך התנור במקום החום שהיד סולדת בו ואפילו אם יעמידנו ע\"ג קדרה המפסקת אבל לכו\"ע אין צלי אחר צלי ודבר שנצלה מותר ליתנו אצל האש אפילו אם נצטנן ובלבד שלא יקרבנו ביותר כדי שלא יבוא לחתות וגם לא יעמידנו על קרקעית התנור אלא ע\"י הפסק כלי ריקנית תחתיה כדי שלא יהיה נראה כמבשל ועיין לעיל בסימן רנ\"ג ס\"ה וה\"ה באפיה כה\"ג דאין אפיה אחר אפיה:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:41"
+        },
+        "42": {
+          "he": "(מב) ואסור ליתן פת וכו' - הוסיף בזה דין אחר והטעם דסבירא ליה לדעה זו דיש דברים שמתבשלים אפילו בכלי שני מפני שהם רכים ואין אנו בקיאים וע\"כ הוסיף לאסור ליתן פת האפוי דהוא רכיך אפילו בכלי שני וה\"ה דלדעה זו יש להחמיר נמי בשאר דברים שלא ליתנם בכלי שני ועיין לקמן בס\"ט אודות תבלין:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:42"
+        },
+        "43": {
+          "he": "(מג) מתירין בכלי שני - ס\"ל דאין כלי שני מבשל בשום דבר:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:43"
+        },
+        "44": {
+          "he": "(מד) אפילו בכלי ראשון - ס\"ל דאין שייך שם בישול אחר אפיה או צליה וה\"ה להיפך:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:44"
+        },
+        "45": {
+          "he": "(מה) ונהגו ליזהר וכו' - פי' שאין נותנים לחם במרק של הטשאלינ\"ט בקערה שהיא כלי שני וכ\"ש שיזהר שלא לערות עליהם מכלי ראשון ואותם שחותכים הבצלים ונותנין לתוך המרק בקערה לא ישימו רק אחר שלא תהיה היד סולדת בהמרק דבלחם יש קולא מחמת שנאפה כבר ואפ\"ה נזהרים כ\"ש בבצלים שצריך ליזהר כי אין אנו בקיאין במידי דמקרי רכיך וכנ\"ל וכ\"ש לפי מה שנוהגין ליתן הבצלים לתוך התבשיל שהוא דבר גוש בודאי יש ליזהר בזה דיש פוסקים שסוברים דדבר גוש שמונח בכלי שני דינו ככ\"ר. ואפילו אם ימתין עד שיהיה המרק שבקערה אין היד סולדת בו מ\"מ יזהר שלא ישפוך אח\"כ על שיורי בצלים שנשאר בקערה מן המרק שבקדרה אם היד סולדת בהן דעירוי מבשל כדי קליפה כדקי\"ל בסעיף י' ויש בזה חשש דאורייתא. וכן מה שנוהגין איזה אנשים כשעושין חמין מרגלי בהמה לחתוך חתיכת פת בכלי ולערות עליהם המרק של הרגלים מכ\"ר לא יפה הם עושין דאפילו אם לא יתן הפת בתחלה עד שיערה המרק תחלה בכלי כדי שיעשה כ\"ש הלא כתב רמ\"א דיש ליזהר בזה אלא אם רוצה ליתן פת ימתין עד שלא יהיה היד סולדת במרק או שלכל הפחות ישאב בכף מן הקדרה כדי שתהיה הקערה כלי שלישי וכ\"ש אם רוצה ליתן בצלים ושומים לתוך החמין האלו בודאי יזהר מאד לעשות כן דאם יערה עליהם מכלי ראשון שהיד סולדת בהן יש בזה חשש אב מלאכה וכנ\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:45"
+        },
+        "46": {
+          "he": "(מו) לכתחלה וכו' - ובדיעבד אפילו בכ\"ר אין לאסור דיש לסמוך איש מקילין:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:46"
+        },
+        "47": {
+          "he": "(מז) אפילו בכ\"ש - ובכלי שלישי מצדד הפמ\"ג בסקל\"ה להקל עי\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:47"
+        },
+        "48": {
+          "he": "(מח) כ\"ז שהיד סולדת בו - עיין בח\"א שכתב דהיכא שהיד נכוית בו לכו\"ע מבשל אפילו בכלי שני:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:48"
+        },
+        "49": {
+          "he": "(מט) דבר חם שהיד סולדת וכו' - המחבר אזיל לשיטתיה בס\"ד דאם נצטנן קצת עד שאין היד סולדת בו יש בו עוד משום בישול אבל לפי מה שכתב רמ\"א בהג\"ה בסט\"ו דנוהגים להתיר אם לא נצטנן לגמרי א\"כ לא בעינן יד סולדת בו:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:49"
+        },
+        "50": {
+          "he": "(נ) בו - ואפילו לא נתבשל כל צרכו דאמרינן לעיל בס\"ד דיש בו משום בישול אפילו ברותח שאני הכא דלא יבוא עי\"ז לידי בישול גמור רק שישתמר חומו בתוכו [ט\"ז] אבל הרבה אחרונים חולקין עליו וס\"ל דאינו מותר רק בנתבשל כל צרכו דיש לחוש שמא יתוסף מעט בישול ע\"י החום וכתב בספר מאמר מרדכי דבכל צרכו אפי' יהיה מצטמק ויפה לו ע\"י העמדה זו ג\"כ שרי:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:50"
+        },
+        "51": {
+          "he": "(נא) להניחו וכו' הטמונה - בבגדים מבע\"י ואשמועינן דמותר להניח הכלי תחת הבגדים שכיסו בהן הקדרה ואף שאין טומנין בשבת אפי' בדבר שאינו מוסיף הבל הכא כיון דעיקר הטמנה היה מבע\"י לצורך הקדרה דזה מותר ולכן אם נתגלתה הקדרה דמותר לכסותה מותר לכסות דרך אגב גם הכלי שיש בו הדבר חם:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:51"
+        },
+        "52": {
+          "he": "(נב) פיו בבצק - כדי שלא יצא חומו ומיירי בשאינו מוקצה כגון דצריך הבצק לתרנגולין שבביתו. ועיין במ\"א דדוקא בבצק שהוא אינו בר מירוח אבל בשעוה וזפת או טיט שהוא דבר המתמרח אסור משום ממרח וכענין דאיתא לעיל בסימן שי\"ד סי\"א דאסור ליתן שעוה בנקב החבית לסתמו מפני שהוא ממרח והט\"ז כתב דבצק נמי בר מירוח הוא אלא הטעם דאין בזה משום מירוח לפי שאין מקפיד עליו לדבק אותו בטוב רק שלא יהיה מגולה לגמרי שלא יתקרר אבל שם גבי נקב החבית קפיד עליה לדבק היטב ולהחליקו סביב הנקב שלא יזוב היין החוצה עכ\"ד ולפי זה אף בטיט ושעוה מותר בעניננו אבל להמ\"א הנ\"ל אסור:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:52"
+        },
+        "53": {
+          "he": "(נג) אבל אין מניחין וכו' - דתבשיל שנצטנן קי\"ל בס\"ד דיש בישול אחר בישול וע\"כ אסור אפילו לא הטמינם כלל בשום דבר וה\"מ בדבר לח אבל בדבר יבש אפילו נצטנן לגמרי שרי וכדלקמיה בס\"ח:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:53"
+        },
+        "54": {
+          "he": "(נד) שהעליון יכול להתחמם וכו' - היינו אפילו אם אין בדעתו להשהות שם כ\"כ חיישינן דילמא מישתלי וכדלקמיה בסי\"ד:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:54"
+        },
+        "55": {
+          "he": "(נה) אפילו כלי התחתון וכו' - הטעם דכיון שהקדרה מפסקת איכא היכרא טובא ואינו נראה כמבשל ומיירי שהיה הכלי מבושל כל צרכה:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:55"
+        },
+        "56": {
+          "he": "(נו) על האש וכו' - ס\"ל דע\"י קדרה המפסקת הוי כמו כירה גרופה דאסור להניח עליה לכתחלה ועיין מה שכתבנו לקמיה דהלכה כדעה הראשונה:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:56"
+        },
+        "57": {
+          "he": "(נז) להניח דבר קר - סעיף זה וסעיף זיי\"ן ענין אחד הוא ואלו השתי דעות שבסעיף זה הם עצמן שבסעיף זיי\"ן אלא דשם מיירי בדבר לח דאם היה מצטנן יש בו משום בישול לכך כתב כלי שיש בו דבר חם והכא איירי בדבר יבש דאפילו נצטנן אין בו עוד משום בישול וכדלעיל בס\"ד:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:57"
+        },
+        "58": {
+          "he": "(נח) וכל דבר שמותר להניחו וכו' - דהיינו כל מה שנתבאר בסעיף ד' דאין בו משום בישול כגון ביבש אפילו נצטנן ומותר לשרותו בכלי ראשון ה\"ה דמותר להניחו נגד המדורה רחוק קצת דלא חיישינן לחיתוי וכמבואר בסט\"ו:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:58"
+        },
+        "59": {
+          "he": "(נט) מיחם שעל גבי האש - ואע\"ג דאפילו בכירה גרופה מן האש לא שרי בסימן רנ\"ג אלא חזרה אבל להניח לכתחלה אסור כמבואר שם בס\"ה בהג\"ה וא\"כ הכא אע\"פ שהמיחם שלמטה מפסיק בין הכלי ובין האש מאי הוי צ\"ל דס\"ל לדעה זו דהפסקת המיחם אפי' באינה גרופה עדיף מכירה גרופה דהתם הקדרה עומדת ע\"ג כירה שהוא מקום שדרך לבשל תמיד ונראה כמבשל אבל בכאן שעומדת ע\"ג קדרה שאין דרך בישול בכך ולכן שרי אף להניח לכתחלה:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:59"
+        },
+        "60": {
+          "he": "(ס) וראשון נראה עיקר - וכן פסק הא\"ר והגר\"א וקאי גם על הא דסעיף זיי\"ן דענין אחד הוא וכמו שכתבנו למעלה:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:60"
+        },
+        "61": {
+          "he": "(סא) רוטב - דכיון שיש בו רוטב כבר פסק המחבר לעיל בס\"ד דבנצטנן יש בישול אחר בישול וממילא אסור ליתנו ע\"ג מיחם חם אף אם אינו ע\"ג האש וכנ\"ל בס\"ו:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:61"
+        },
+        "62": {
+          "he": "(סב) ומצטמק ויפה לו - דע דכל לשון הסעיף הזה הוא מלשון רי\"ו ואזיל לשיטתיה הנזכר לעיל בס\"ד בהג\"ה דדוקא במצטמק ויפה לו אז יש בישול אחר בישול ולדינא כבר כתבנו לעיל בס\"ד דהלכה כשאר פוסקים דאין מחלקין בזה ואף המחבר אפשר דסובר כן כמו שסתם שם אלא דלישנא דרי\"ו נקיט ואזיל:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:62"
+        },
+        "63": {
+          "he": "(סג) כל זמן וכו' - היינו אפילו כבר פסק רתיחתו ממנו:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:63"
+        },
+        "64": {
+          "he": "(סד) שהיד סולדת בו - אבל אם אין היד סולדת בו אפילו כלי ראשון אינו מבשל. ואם לא העבירוהו מעל האש אסור ליתן לתוכו תבלין ואפי' מלח בכל גוונא ואפי' דעתו לסלק את הקדרה מהר משם פן ישכח עד שיתבשל וכדלקמן בסי\"ד:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:64"
+        },
+        "65": {
+          "he": "(סה) לתוכו תבלין - אבל בכלי שני מותר לתת תבלין אפי' יד סולדת בו דאין מתבשל שם ואם מונח בכלי שני דבר גוש שהיד סולדת בו יש ליזהר בזה דיש פוסקים שסוברין דדבר גוש כ\"ז שהיס\"ב דינו ככלי ראשון:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:65"
+        },
+        "66": {
+          "he": "(סו) כיון שהעבירו - דעל האש אפי' בישרא דתורא מתבשל:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:66"
+        },
+        "67": {
+          "he": "(סז) כבשרא דתורא - ואף שנימוח אף בכלי שני מיחויו אינו בישולו שאף בצונן אתה רואה כן:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:67"
+        },
+        "68": {
+          "he": "(סח) בשר מלוח - ר\"ל בשר שנמלח והודח כדין:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:68"
+        },
+        "69": {
+          "he": "(סט) של שור - דנהי דהבשר אינו מתבשל הלחלוחית שבו מתבשל [טור]:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:69"
+        },
+        "70": {
+          "he": "(ע) דבלא מלוח וכו' - היינו דלא נטעה לומר דהטעם שאוסר הוא משום דהמלח מרכך הבשר ומתבשל אח\"כ בכלי ראשון אלא דאפי' בלא נמלח כלל היה אסור לתתנו מפני הלחלוחית וכנ\"ל והא דנקט המחבר מלוח דאי לא היה מלוח היה אסור לתתנו מפני איסור דם בכלי רותח בלא איסור שבת:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:70"
+        },
+        "71": {
+          "he": "(עא) ויש אוסרים וכו' - בגמרא איכא תרי לישני בזה ללישנא בתרא הוי מלח לקולא דקשה להתבשל כבישרא דתורא מש\"ה מותר אפי' בכלי ראשון כשהעבירוהו מהאש וללישנא קמא הוי מלח לחומרא דאפי' בכלי שני מתבשל ופסקו רוב הפוסקים כלישנא בתרא אלא מפני שיש מחמירין לכן כתב דהמחמיר תבא עליו ברכה. וה\"מ במלח שחופרין אבל מלח שעושין ממים שמבשלין אותם אין בו משום בישול לכו\"ע דאין בישול אחר בישול וכדלקמן בסט\"ו [מ\"א וש\"א] וכן בצוקע\"ר מותר מהאי טעמא ליתנו בכ\"ר לאחר שהעבירוהו מן האש ויש שמפקפקין בזה. וטוב ליזהר מכלי ראשון לכתחלה:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:71"
+        },
+        "72": {
+          "he": "(עב) אפילו הוא וכו' - דע\"ג האש אפי' לפסק השו\"ע אסור וכנ\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:72"
+        },
+        "73": {
+          "he": "(עג) דהמלח בטל - ואע\"ג דמידי דעביד לטעמא לא בטיל שאני הכא דהוי זה וזה גורם דהכא מיירי שנמלח ג\"כ מכבר בע\"ש וגם מיירי דהמלח שנתן עכשיו לא היה בה כדי ליתן טעם בקדרה זולת המלח של אתמול אבל אם היה במלח של עכשיו לבדו כדי ליתן טעם אסור המאכל עד מו\"ש אם נתן בהכלי כשעומד על האש וה\"מ במלח שנעשה מחפירה אבל במלח שנעשה ממים שמבשלין אין לאסור המאכל וכנ\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:73"
+        },
+        "74": {
+          "he": "(עד) מכלי ראשון - דאף דתבלין אין מתבשל בכ\"ש וכנ\"ל מ\"מ העירוי מכ\"ר קי\"ל דהוא מבשל כדי קליפה ואפי' בדיעבד אסור אם עירה להדיא עליהן שלא נפסק הקילוח:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:74"
+        },
+        "75": {
+          "he": "(עה) מלאה מים חמין - ואפי' בחמי טבריא אסור ליתן צוננים באמבטי שהומשך מן המעין לתוכה אלא צריך ליטול מהאמבטי בכ\"ש ואח\"כ יתן המים לתוכה אפילו המים צוננים מועטין מן החמים וכדלקמיה בסי\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:75"
+        },
+        "76": {
+          "he": "(עו) אע\"פ שהיא כ\"ש - דכיון שהן לרחיצה מסתמא חיממן הרבה ומתבשלין הצוננים שמתערבין בהם אע\"פ שהאמבטי היא כ\"ש [טור] וזהו שכתב שהרי מחממן הרבה:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:76"
+        },
+        "77": {
+          "he": "(עז) אין נותנים לה מים צונן - עיין באחרונים שכתבו דדוקא מים מועטין שאפשר שיתבשלו שם אבל אם נותן הרבה כ\"כ עד שהחמין נעשים פושרים עי\"ז שרי וכמו לקמיה בסוף סי\"ב ונראה דאם היה האמבטי כלי ראשון יש לחוש לדעת הר\"ן ורבינו ירוחם שכתבו דבאמבטי אסור ליתן אפי' צונן מרובים:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:77"
+        },
+        "78": {
+          "he": "(עח) אבל נותן וכו' - ואפי' אם האמבטי הוא כ\"ר מותר לערות לתוך מים צוננים אם הם מרובין על החמין ואע\"ג דאסור לערות על תבלין כמ\"ש בס\"י דהוי ככלי ראשון זהו דוקא על דבר גוש אבל הכא שאני שמתערבין החמין עם הצונן ומתבטל חמימותן כיון שהצונן מרובים. וליתן חתיכת בשר רותח לתוך רוטב צונן אסור דכיון שאינו מתערב מבשל כדי קליפה [מ\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:78"
+        },
+        "79": {
+          "he": "(עט) לתוך אמבטי אחר - לרבותא נקט דאע\"פ שהוא אמבטי לא גזרו וכ\"ש לתוך כלי אחר שיש בו צונן:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:79"
+        },
+        "80": {
+          "he": "(פ) מים צונן מרובים וכו' - אבל מועטין שיוכלו להתחמם מחום המיחם עד שתהא היד סולדת בהן אסור אבל מרובין מותר אפי' אם ימלא את כל הכלי במים צוננים וע\"י זה יוכל הכלי לבוא לידי צירוף [דהיינו כשהכלי מתכות חם ונותנין לתוכו צונן מחזקים את הכלי וזה הוא גמר מלאכת הצורפין שרתיחת האור מפעפעתו וקרוב להשבר והמים מצרפין פעפועיו] אפ\"ה שרי כיון שאין מתכוין לזה ולאו פסיק רישיה הוא דאפשר שלא יגיע הכלי עי\"ז לידי צירוף. והמכוין לצרף י\"א שהוא חייב מדאורייתא וי\"א שהוא מדרבנן:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:80"
+        },
+        "81": {
+          "he": "(פא) לתוך מים צונן או צונן וכו' - ובשניהן אפי' המים צוננים מועטין שעדיין היד סולדת בהן אחר התערובות ג\"כ שרי כיון שהוא בכלי שני קי\"ל דכלי שני אינו מבשל כדלעיל בס\"ט:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:81"
+        },
+        "82": {
+          "he": "(פב) שלא יהיו בכ\"ר - דאם החמין הם בכלי ראשון אסור לצוק בתוכם מים צוננים וה\"ה דאסור לערות מהם לתוך מים צוננים מועטים שיתבשלו על ידם:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:82"
+        },
+        "83": {
+          "he": "(פג) ואם המים מרובין - קאי אצונן לתוך חמין וכן אם חמין לתוך צונן היה הצונן מרובים שרי. ועין בח\"א שכתב דבצונן לחמין דוקא ששופך בשפיכה גדולה הכל בפעם אחת אבל מעט מעט אסור לערות שהרי מבשל תיכף ומה יועיל מה שמצטנן אח\"כ:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:83"
+        },
+        "84": {
+          "he": "(פד) רק שיפיגו צינתן - ואפי' חמין קצת כעין פושרין שרי רק שלא יהיה היד סולדת בהן:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:84"
+        },
+        "85": {
+          "he": "(פה) רק שלא יהיה על האש - וה\"ה סמוך לאש במקום שיכול להתבשל פן ישכח ויניחנו שם וכדלקמיה בסי\"ד:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:85"
+        },
+        "86": {
+          "he": "(פו) קיתון של מים - אף דמים בלבד בלא כלי ג\"כ מותר לערב בתוך כלי שני וכנ\"ל בסי\"ב נקט ע\"י כלי משום סיפא לאשמועינן דבכלי ראשון אפי' ע\"י הפסקת כלי אסור:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:86"
+        },
+        "87": {
+          "he": "(פז) בכלי שני - כ\"ש מיקרי כשעירו מן כלי ראשון שהרתיחו החמין בתוכו לתוך כלי זה ומותר אפי' אם היד סולדת בו אבל אם שואב בכלי ריקן מתוך כלי ראשון י\"א דדינו ככלי ראשון ובפרט אם משהה הכלי ריקן בתוכו עד שמעלה רתיחה ודאי מקרי כ\"ר [אחרונים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:87"
+        },
+        "88": {
+          "he": "(פח) בענין שאינו יכול וכו' - היינו שאפי' אם יעמדו שם המים והמשקין זמן מרובה לא יתחממו כ\"כ:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:88"
+        },
+        "89": {
+          "he": "(פט) דהיינו מקום שכריסו וכו' - דלא נוכל לשער ביד דיש שסולד מרתיחה מועטת ויש שאינו סולד:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:89"
+        },
+        "90": {
+          "he": "(צ) כיון שיכול וכו' - וחיישינן דילמא מישתלי ליטלו:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:90"
+        },
+        "91": {
+          "he": "(צא) וה\"ה בפירות - היינו שאסור להניחן במקום החום להפיג צינתן פן ישכח עד שיצלו ואף שנאכלין כמות שהן חיין ג\"כ אסור דשייך בהן שם בישול שהם משתבחין עי\"ז אבל ליתנן רחוק מהאש אפי' דבר שאין נאכל כמות שהוא חי שרי. ומ\"מ מותר ליתן אלונטית וכלי עופרת סמוך לאש לחממו [היינו שיש בהכלי תבשיל שלא נצטנן ורוצה שיהיה חם] אף אם הוא קרוב כ\"כ עד שיוכל הכלי להיות ניתך שם או לשרוף האלונטית דכיון דלא ניחא ליה בהכי הוי דבר שאין מתכוין וגם מסתמא לא ישכח ויזהר הרבה ליקח אותו משם קודם שיתיך או ישרוף:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:91"
+        },
+        "92": {
+          "he": "(צב) דבר שנתבשל וכו' - הטעם דכיון שכבר נתבשל שוב אין בזה משום חשש בישול ומיהו על האש ממש אסור מדרבנן מפני שנראה כמבשל אבל בזה שמעמידו כנגד המדורה שאין דרך בני אדם ברוב פעמים לבשל כך אפי' איסור דרבנן ליכא [הרשב\"א] ועיין מה שכתבנו לקמיה בשם הרא\"ש שסובר דסמוך למדורה ג\"כ אסור אלא צריך להרחיק קצת:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:92"
+        },
+        "93": {
+          "he": "(צג) כל צרכו והוא יבש - דאי לא הוי כל צרכו אפי' אם היה דבר יבש והוא רותח יש בו עוד משום בישול כנ\"ל בס\"ד וממילא אסור להעמידו במקום שהיס\"ב ואי הוי דבר לח אפי' בכל צרכו יש בו עוד משום בישול אם נצטנן לפי מה שפסק המחבר בריש ס\"ד:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:93"
+        },
+        "94": {
+          "he": "(צד) כנגד המדורה - נקט נגד המדורה ולא אצל המדורה להורות שצריך להרחיק קצת מן המדורה ולכן לא חיישינן שיבוא לחתות באש דכיון שהצריכו חכמים להרחיק קצת אית ליה הכירא ולא אתי לחתויי [הרא\"ש]. וראיתי איזה אחרונים שכתבו דמיירי שהיה עשוי מדורה בפני עצמה אבל כשמדורת עצים הוא בתוך התנור אסור להכניס שם קדירה אפי' אם מרחיק קצת מן המדורה כיון שהוא מקום שהיד סולדת בו ולא גרע ממה שמבואר בסימן רנ\"ג דאסור להכניס קדרה לכירה כשאינה גרופה דהוא אפי' אם אינו מעמידו סמוך להאש. אך אם אינו מעמיד את הקדרה על קרקעית התנור כ\"א על איזה כלי המפסיק אז יש להקל וכנ\"ל בסימן רנ\"ג ס\"ג:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:94"
+        },
+        "95": {
+          "he": "(צה) ואפי' נצטנן כבר - לפרש דברי המחבר בא דמיירי בנצטנן ולהכי לא התיר אלא ביבש:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:95"
+        },
+        "96": {
+          "he": "(צו) רותח - היינו שהיס\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:96"
+        },
+        "97": {
+          "he": "(צז) ויש מקילין לומר - פליג אמחבר דס\"ל דדוקא כשהוא יבש אבל בדבר לח שנצטנן יש בישול אחר בישול ודעה זו ס\"ל דאין בישול אחר בישול בכל גווני ואפי' נצטנן לגמרי:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:97"
+        },
+        "98": {
+          "he": "(צח) על גבי האש וכו' - דאם נותן ע\"ג ממש אף שאין בו איסור דאורייתא לדידהו עכ\"פ אסור מדרבנן מפני שנראה כמבשל וגם דאתי לחתות בגחלים:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:98"
+        },
+        "99": {
+          "he": "(צט) אם לא וכו' - אף דלדעת המחבר כיון שנצטנן מעט מחמימותו ואין היס\"ב שוב יש בו משום בישול וכמו שכתבנו לעיל בס\"ד המנהג להקל בזה דסומכין בזה איש מקילין כ\"ז שלא נצטנן לגמרי:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:99"
+        },
+        "100": {
+          "he": "(ק) אינפאנדא וכו' - הוא פשטיד\"א הנזכר בכמה מקומות והוא פת כפולה הממולא בחתיכות שומן ונותנו שם כדי לחממו והטעם שמותר דכיון שהוא יבש אף שנצטנן לא שייך ביה בישול עוד וכמ\"ש בסט\"ו ואע\"פ שהשומן חוזר ונימוח מ\"מ מקרי יבש כיון שבשעה שנותנו לחממו לא נמחה עדיין:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:100"
+        },
+        "101": {
+          "he": "(קא) כנגד האש - היינו ע\"ג איזה כלי המפסיק דאל\"כ אסור וכנ\"ל בסימן רנ\"ג ס\"ג וס\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:101"
+        },
+        "102": {
+          "he": "(קב) ואע\"פ וכו' - ולא דמי לריסוק שלג וברד המבואר לקמן בסימן ש\"כ ס\"ט דאסור מטעם נולד שמוליד המים וה\"נ הרי מתחלה היה עב וקפוי ועכשיו נעשה זך וצלול דשאני הכא דלא עביד כלום בידים אלא ממילא הוא נמחה וגבי ברד נמי תניא אבל נותן הוא לתוך הכוס של יין לצננו ואינו חושש ואע\"פ שנימוח כיון שהוא ממילא:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:102"
+        },
+        "103": {
+          "he": "(קג) וכ\"ש קדירה וכו' - דבזה כשהוא נימוח מתערב השומן עם הרוטב ואינו ניכר ודמי ממש להא דאמרינן אבל נותן לתוך הכוס משום דאינו ניכר כשנימוח הברד לתוכו:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:103"
+        },
+        "104": {
+          "he": "(קד) דשרי - היינו רק לענין איסור נולד דלא שייך בזה אבל לענין איסור בישול הכא חמיר מדלעיל דהא רוטב הוא דבר לח ודבר לח שנצטנן שייך בו בישול כמ\"ש המחבר בסט\"ו וע\"כ אינו מותר הכא רק אם יעמיד הקדרה במקום שאין היד סולדת בו:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:104"
+        },
+        "105": {
+          "he": "(קה) ויש מחמירין - ס\"ל דגם בזה שייך איסור נולד ואפי' בקדרה שהשומן מעורב עם המרק ולא דמי להא דאמרינן אבל נותן הוא לתוך הכוס דהתם אין הברד ניכר כלל כשנמחה בהכוס אבל שומן שנמחה צף למעלה וניכר הוא ואפי' להניחו בחמה שיהיה נמחה ג\"כ אסור לדעה זו. ודע דאפי' להיש מחמירין אינו אסור כ\"א כשיש הרבה שומן על הפשטיד\"א שכשיהיה נימוח יהיה זב לחוץ ויהיה מינכר בפ\"ע אבל אם אין על הפשטיד\"א כ\"כ שומן או שמעמידו כ\"כ בריחוק מקום מן החום שלא יהיה נימוח עד שיזוב לחוץ אלא מעט ממנו יהיה נימוח בתוכו לבד או אם השליך לחוץ השומן שעליו מותר לחמם הפשטיד\"א לכו\"ע ואף שעדיין נפשר וזב מבשר שומן שבתוכו דבר מועט הוא ושרי לכו\"ע וכן מותר להחם בשבת חתיכת בשר שמן אע\"פ שמקצתו זב כיון דדבר מועט הוא הנפשר לא חשיב ושרי. כתבו האחרונים כד של מים או שאר משקין שנקרש מלמעלה שרי לכו\"ע להעמידו במקום שלא יגיע ליד סולדת בו דהקרח כשימס יהיה מתערב תיכף תוך המשקים שתחתיו ואינו ניכר:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:105"
+        },
+        "106": {
+          "he": "(קו) להחמיר - ומ\"מ קודם שהוסק התנור מותר להניח הפשטיד\"א כיון דיש מתירין אפי' אח\"כ ואין לעשות כן בפני ע\"ה [מ\"א וש\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:106"
+        },
+        "107": {
+          "he": "(קז) במקום צורך יש לסמוך - היינו דאז אפי' לכתחלה מותר ובדיעבד בכל בכל גווני אין לאסור:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:107"
+        },
+        "108": {
+          "he": "(קח) אסור ליתן צונן וכו' - לפי מה דמסיק הרמ\"א לעיל בסט\"ו בהג\"ה יש להקל בזה אם היה דבר מבושל ולא נצטנן לגמרי:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:108"
+        },
+        "109": {
+          "he": "(קט) הרבה - דחיישינן שמא ישכח ויניחנו שם עד שיתבשל:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:109"
+        },
+        "110": {
+          "he": "(קי) כדין מניח וכו' - ר\"ל ומבואר לעיל בסי\"ד דאפילו להפיג צינתו אסור אם יכול לבוא לידי בישול:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:110"
+        },
+        "111": {
+          "he": "(קיא) ואם אינו וכו' - ואם המיחם עומד ע\"ג האש עיין לעיל בס\"ח:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:111"
+        },
+        "112": {
+          "he": "(קיב) מותר - אפי' אם הצונן הוא דבר שלא נתבשל מעולם:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:112"
+        },
+        "113": {
+          "he": "(קיג) שהעבירן מרותחין - נקט שהעבירן לרבותא דאפי' בזה אסור כשלא נתבשל כל צרכו ובנתבשל כל צרכו אפי' עומד ע\"ג האור מותר להוציא בכף כן משמע בב\"י אבל בא\"ר מסיק דיש לאסור בזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:113"
+        },
+        "114": {
+          "he": "(קיד) שנמצא מגיס וכו' - וכ\"ש להגיס ממש דאסור ויש חיוב חטאת בזה לפי מה שפסק השו\"ע לעיל בס\"ד דבזה מסייע ומקרב להבישול וחשיב כמבשל:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:114"
+        },
+        "115": {
+          "he": "(קטו) כל צרכו מותר - אפי' להגיס בו דאין בישול אחר בישול וכדלעיל בס\"ד:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:115"
+        },
+        "116": {
+          "he": "(קטז) אסור להגיס בו - משום צובע שכן הוא מלאכת הצביעה להגיס תמיד כדי שלא יתחרך גם ע\"י הגסה נקלט הצבע בצמר יותר:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:116"
+        },
+        "117": {
+          "he": "(קיז) אף בקדירה וכו' - אלא יהפוך הקדירה לקערה ולא יוציא בכף ועיין באחרונים דלא נהיגין להחמיר בזה דבאמת העיקר כמו שכתבנו מתחלה דמבושל כל צרכו אפי' להגיס מותר וכמבואר לקמן בסימן שכ\"א סוף סי\"ט והרוצה להחמיר יחמיר בהגסה ממש אבל להוציא בכף אין להחמיר כלל בנתבשלה כל צרכה ואינה על האש:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:117"
+        },
+        "118": {
+          "he": "(קיח) כנגד המדורה - לאו דוקא דה\"ה במעביר את השפוד שתחוב עליו הצלי מהאש כ\"ז שהוא רותח שהיס\"ב אסור לטוח עליו ואפילו אם הניח אח\"כ על הקערה שהוא כ\"ש ג\"כ אסור דהא כמה פוסקים סוברים דדבר גוש כ\"ז שהיס\"ב אפילו בכ\"ש מבשל ומ\"מ בדיעבד אין לאסור כשהוא מונח בכלי שני דסמכינן על הפוסקים דכלי שני אינו מבשל בכל גווני וכ\"ז בשום ושמן דהוא דבר חי שלא נתבשל אבל בשומן שנקפא מותר לטוח אפילו כנגד המדורה דאין בו שוב משום בישול כיון שכבר נתבשל וכמו שכתבנו למעלה בסט\"ז דדבר יבש שכבר נתבשל אין בו שוב משום בישול ומשום נולד ליכא כיון דנבלע בהבשר ואינו בעין ובלבד שלא ירסקנו בידים רק יניחנו עליו מעט מעט והוא נימוח מאליו וה\"ה דמותר לטוח מטעם זה בשומן אווז שנקפא ע\"ג מיני קמחים וקטניות [כגון לאקשי\"ן ערביזי\"ן היר\"ז] שנתנום ע\"ג קערה אף שהוא רותח ורק שיניחנו עליו מעט מעט והוא נימוח מאליו וכנ\"ל. איתא בתוספתא אחד נתן את האור ואחד נתן את העצים ואחד נתן את הקדרה ואחד נתן את המים ואחד נתן את הבשר ואחד את התבלין ובא אחר והגיס כולם חייבים [היינו שהנותן האור חייב משום מבעיר דכשהוא מוליך גחלת ממקום למקום הוא מתלבה מרוח הליכתו והנותן העצים ג\"כ חייב משום מבעיר כ\"כ רש\"י ואידך כולהו משום מבשל וגם מגיס נמי מטעם זה שכל העושה דבר מצרכי בישול ה\"ז מבשל וכמו שכתב הרמב\"ם והנותן את הקדרה מיירי בחדשה וחייב משום שמתלבן ומתחזק הקדרה ע\"י שנותנה על האש. גמרא שם ועיין במגדול עוז] אחד נתן את הקדרה ואחד נתן את המים ואחד נתן את הבשר ואחד נתן את התבלין ואחד נתן את העצים ואחד הביא את האור ובא אחר והגיס שנים האחרונים חייבים [כן הוא הגירסא הנכונה כפי מה שהגיה הגר\"א בהגהותיו על התוספתא וכן הוא לפי מה שמצא הב\"י מוגה בספרי הרמב\"ם וא\"צ עתה לשום דוחק שנדחק מהר\"י בי רב בהכ\"מ ע\"ש] וכתב הרב המגיד דלד\"ה כל שאין בבישולו חיוב כגון במבושלת כל צרכו אין בהגסתו חיוב וב\"י כתב בשם הכלבו דכשהיא על האש חייב בהגסה אפילו במבושל כל צרכו. כלי בישול שלנו שקורין סאמאווא\"ר שהוקם מע\"ש אסור ליטול ממנו מים בשבת כשאינו גרוף מן הגחלים [כ\"כ בספר תוספת ירושלים לעיל בסימן רנ\"ג ע\"ש שהביא זה בשם ירושלמי דקאמר שם דמוליאר שאינו גרוף אין שותין ממנו בשבת הטעם מפני שהוא עשוי פרקים הוא מתיירא שמא יתאכל פירוקו והוא מוסיף מים] ולפ\"ז יש ליזהר כשישב לשתות מן הכלי בישול שלנו קודם שקיעה ובאמצע קידש עליו היום שלא לשתות ממנו עוד:",
+          "en": "",
+          "ref": "Mishnah Berurah 318:118"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

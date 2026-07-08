@@ -1,0 +1,296 @@
+{
+  "chelek": "OC",
+  "siman": 18,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 3,
+  "fetchedAt": "2026-07-07T23:36:24.584Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "זמן ציצית. ובו ג סעיפים:לילה לאו זמן ציצית הוא דאמעיט מוראיתם אותו להרמב\"ם כל מה שלובש בלילה פטור אפי' הוא מיוחד ליום ומה שלובש ביום חייב אפי' מיוחד ללילה ולהרא\"ש כסות המיוחד לליל' פטור אפי' לובשו ביום וכסות המיוחד ליום או ליום ולילה חייב אפי' לובשו בלילה: הגה וספק ברכות להקל ע\"כ אין לברך עליו אלא כשלובשו ביום והוא מיוחד ג\"כ ליום [הגהות מיימוני] ואחר תפלת ערבית אע\"פ שעדיין יום הוא אין לברך עליו [פסקי מהרא\"י סי' קכ\"א] ובליל יו\"כ יתעטף בעוד יום וברך עליו [תשבץ]:",
+      "en": "The Time of ציצית.  Containing 3 Se'ifim:Night is not the time of tsitsit, because [the obligation is] limited by [the verse] \"and you shall see it\" (Numbers 15:39). According to the Rambam, anything that is worn at night is exempt, even if it is designated for daytime use, and that which is worn in the day is required [to have ציצית], even if it is designated for nighttime use. And according to the Rosh, a garment which is designated for nighttime is exempt, even if it is worn in the day, and a garment designated for daytime, or both day  and nighttime, is required [to have ציצית] even if it is worn at night. Rem\"a: And a doubt regarding blessings is ruled leniently - therefore one shouldn't make a blessing on it unless it is worn in the daytime and it is designated for daytime (Hagahot Maimoni). And after the evening prayers, even if it is still day, one shouldn't say the blessing on it (Piskei Mahar\"i, 121). And on the night of Yom Kippur one should put on the garment while it is still day and say the blessing on it (Tashbetz).",
+      "ref": "Shulchan Arukh, Orach Chayim 18:1"
+    },
+    {
+      "seif": 2,
+      "he": "סדינים אע\"פ שאדם ישן בהם בבקר אין מטילים בהם ציצית:",
+      "en": "Bedsheets/Blankets, even though one sleeps in them in the morning, we do not affix ציצית to them.",
+      "ref": "Shulchan Arukh, Orach Chayim 18:2"
+    },
+    {
+      "seif": 3,
+      "he": "מאימתי מברך על הציצית בשחר משיכיר בין תכלת שבה ללבן שבה: ואם לובשו מעלות השחר ואילך י\"א דמברך עליו וכן נוהגין [מרדכי פ\"ב דמגילה] ואם לבשו קודם לכן כגון בסליחות לא יברך עליו וכשיאיר היום ימשמש בו ויברך [תשב\"ץ]:",
+      "en": "From when does one bless on the ציצית [that he puts on] in the morning?   From the time when [there's enough light that] one can tell the difference between the techeilet (blue) in it and the white in it.  And if he puts it on starting at dawn, some say he makes a blessing, and this is our practice (Mordechi - chapter 2 of Tractate Megillah). And if he put it on earlier than that, such as during [the time of year when we recite] selichot, he should not make a blessing over it [right away], and [then] when it becomes light he should touch [the ציצית] and makes the blessing (Tashbe\"tz).",
+      "ref": "Shulchan Arukh, Orach Chayim 18:3"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מנחות מ\"ג וכר\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 18:1"
+        },
+        "2": {
+          "he": "בפ\"ג מהל' ציצית והגהת מיימוני בשם רש\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 18:2"
+        },
+        "3": {
+          "he": "בריש הלכות ציצית",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 18:3"
+        },
+        "4": {
+          "he": "הרא\"ש שם בסופן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 18:4"
+        },
+        "5": {
+          "he": "רמב\"ם פ\"ו מהלכות ציצית ממשנה ב' דברכות ט'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 18:5"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "ולהרא״ש עמ״א והם ד״ת מנחות מ״ב ד״ת משום ואור״ת כסות יום חייב בלילה וכסות לילה פטור ביום ומ״ע שהז״ג שהיום גורם (ליחוד) להמלבוש יע״ש ועמ״ש בט״ז מ״ש הב״ח להסיר הטלית כו׳ מ״מ הש״ץ לפני העמוד אם אין הולך במלבוש רא״ק וכדומה שאין כבוד הציבור כך פשיטא דלא יסיר הטלית במערב ועא״ר אות ב׳ בשם ל״ח המנהג להתעטף בטלית לומר קדיש יתום משום כבוד הציבור ומ״ש מסי׳ ל׳ ס״ד הוא דאפילו מתפלל מעריב מבע״י עשאן לילה לענין זה דאין לברך על טלית אח״כ וה״ה שיש להסירו וזה טעות ונתכוין לאות ו׳ שם ולאות כ׳ יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 18:1"
+        },
+        "2": {
+          "he": "ובליל עמ״א ולכאורה משמע מ״ש באות א׳ בשם הב״ח שיש לחסיד הטלית הוא ליחיד לא לש״ץ המתפלל אפילו מעריב בזמנו בלילה י״ל שיתעטף טלית מפני כבוד הציבור ומ״ש וכמו קדיש יתום אפי׳ בלילה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 18:2"
+        },
+        "3": {
+          "he": "סדינים עמ״א. ור״י בר אלעי בשבת כ״ה ב׳ היה מתעטף דבהעלאה לא מיחייב בציצית (ט״ס ר״י ב״ב) ומ״ש מתוס׳ מנחות מ״א א׳ ד״ה תכלת (דף מ׳ ב׳) כתבו דאין לחלק בציצית בין הצעה ללבישה ומשמע דאפילו להציע תחתיו ביום כסות המיוחד ליום אסור. ומ״ש יעשה קרן א׳ עגול בצמר אבל פשתן אין להקפיד די״א דאין עושין לפשתן כלל ציצית עיין סי׳ ט׳ ס״ו ושאר מינין י״ל דכמה פוסקים סוברים והם מדרבנן. איכא ס״ס שמא פטורים מ״ה ושמא הלכה כסות המיוחד ללילה פטור ביום וכל שיש ב׳ ספיקות מ״ה אף בדרבנן רק ספק א׳ שפיר דמי עי״ד סי׳ ק״י בזה: בספר חמד משה מסופק כסות המיוחד לאשה אם מתעטף בו איש אי רשאי בלא ציצית והביא תוס׳ דמנחות מ״א שהביאו ספרי אמר ר״י ב״ב ביחוד בטלו חכמים כסות אשה מציצית ולא חייבו אלא מפני שבעלה מתכסה בו יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 18:3"
+        },
+        "4": {
+          "he": "מעלות עמ״א. היינו אף ביה״ש י״ל דמברך עליו עיין ריש פסחים בתמים דעים להראב״ד דמש״ה נקיט אור לי״ד שיש עדיין אור ועד צ״ה יטמא הוא לענין זה וראיתם אותו ועוד דהוי ס״ס שמא הלכה כרא״ש ושמא יממא וא״צ. ומיירי שעדיין לא התפלל מעריב דאל״ה הוי כתרתי דסתרן אהדדי וא״ר אות ה׳ לא פי׳ כן. והנה מרמ״א לכאורה דוקא דיעבד אם לבשו כבר מברך בע״ה אבל לכתחלה יש להמתין מללבוש עד שיכיר ובלבוש כתב מאימתי מברך עליהם משיעלה ע״ה שהרי לא כתיב בהו יום מיהו י״א שלא לברך לכתדלה עד שיכיר בין תכלת ללבן הנה סתם כדיעה א׳ וכהר״ב ומשמע לכתחלה יוכל ללבוש מע״ה ולברך ומ״ש דלא כתיב בהו יום דאי כתיב יום הוי כמו קרבנות אע״ג דיעבד כשירים מע״ה לכתחלה החמירו מנץ החמה. וא״ר ה׳ החמיר ופי׳ בלבוש דאפי׳ אם לבשו כבר י״א כי׳ יע״ש. בחורף אם השעה דחוקה המיקל להניח מע״ה ואילך אין גוערין אותו ואי״ה בה׳ תפילין אבאר זמן משיכיר בין תכלת שבה אימתי הוא ובחידושינו ראש יוסף במסכת ברכות כתבנו מזה וכאן אין להאריך:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 18:4"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "להרמב״ם עט״ז. והם דברי הר״מ ז״ל בפ״ג מהלכות ציצית ה״ח ופי״ט מה״ש ה״ך יע״ש. ואם נפסק מציצית בכסות יום בלילה להר״מ א״צ להסיר מעליו ולהרא״ש צריך להסיר מעליו: שאלה אם נפסק ציצית מכסות המיוחד ליום ועשה בו ציצית בלילה אם רשאי למעבד כן או לאו וציצית שעשאן בשבת אם הם כשירים או לאו: תשובה יראה דכשר אף אם עשאן בלילה ולא הוי תולמ״ה אף דכסות יום בלילה פטור להר״מ דוגמא לדבר אין מחוסר זמן לבו ביום וזמן ממילא קאתי ולא הוי תולמ״ה ולא דמי לבעלת ג׳ שאין חייבת כלל ואין ראוי כלל לציצית. וכסות בת ד׳ כנפות שהיה בו כלאים בשפה שלו ועשה ציצית ואח״כ חתך הכלאים ממנה י״ל דהוי תולמ״ה כיון דבעת עשייתן לא קרינן בה אשר תכסה בה עתה שאין לנו כלאים ואפי׳ נאמר מ״ה מותר כלאים עתה רק מדרבנן (עיין פתיחה) מ״מ מדרבנן הוי תולמ״ה: ואם עשה ציצית בשבת אם בשוגג עשה י״ל דכשרים הם אף לדעת המרדכי בסי׳ י״ג דבשבת מותר לילך בבגד בת ד׳ כנפות בלא ציצית וע״ש מ״מ לא הוי תולמ״ה ועדיף מאם עשה ציצית בלילה דכשר וכדכתיבנא אבל אם עשה בזדון בשבת בהא איכא לעיונא והפרש יש עשאן ביום השבת מבואר דינו באה״ע סימן קכ״ג ס״ב וס״ה בהג״ה בזדון בשבת הגט בטל מ״ה ועב״ש שם אות ה״א אלא דודאי מבני ישראל לא ממעטינן מומר לכ״ה דבכלל בני ישראל הוי וקידושיו קידושין רק לקרבן לאו שב מידיעתו וכותב שלא לשמה וא״כ כאן בסימן י״ד ס״ב תלאן בלא כוונה כו׳ א״כ יש לומר דפסולים הם אבל ביה״ש של ע״ש י״ל דהוי ס״ס ושל מ״ש י״ל איתחזק איסורא (עא״ח סימן שמ״ב במ״א וי״ד ק״י) ואי קשיא למאן קאמר לה להר״מ כשרים בסימן י״ד ולרא״ש ושאר פוסקים הא תו״ש ד״ת (עיין א״ח סימן רס״א) י״ל דמומר לחלל שבתות דוקא ביום השבת לא בתו״ש ואי״ה בה״ש יבואר זה. עיין סוף הסימן מזה: עוד רגע אדבר שנסתפקתי אם ייחד כסות ללילה ועשה בו ציצית דפטורה אז ואח״כ נמלך וייחדה לכסות יום אי הוי תולמ״ה הואיל ובעת שעשאו היתה פטורה או דלמא כיון דלאו מחוסר מעשה לא הוי תולמ״ה וצ״ע כעת:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 18:1"
+        },
+        "2": {
+          "he": "ולהרא״ש עט״ז עב״י דהר״מ פ״ג מציצית ה״ז כתב כסות פשתן אין מטילין בה ציצית גזירה שמא יתכסה בלילה ובגמרא אמרו (מנחות מ״ם ב׳) גזירה משום כסות לילה אלמא סובר הר״מ דה״ה כסות יום בלילה נמי אין חייבת וגמרא אמר יותר חששא כסות לילה לא הותר בו בשום פעם והרא״ש יש לו הוכחה מגמרא דאמר כסות לילה ש״מ הכל תלוי בכסות: ומ״ש כיון שהותר פ״א כ״ה ברא״ש עב״י וקשה דלר״ת ורא״ש לא מטעם הותר כ״א דכסות יום חייבת בלילה ולתי׳ שני שם דכסות יום ביום לבד חייבת א״ש ועיין תוס׳ מנחות מ״ם ב׳ ד״ה משום וד״ה תכלת במ״ש ר״ח סותר פירוש שלמעלה ועיין בה״ז שם ויש ליישב קצת אע״ג דיש לו כסות המיוחד ללילה בת ד׳ כנפות רשאי לילך בכסות יום בלילה בכלאים ולא חשיב אפשר לקיים שניהם עתוס׳ פרק אלו נערות מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 18:2"
+        },
+        "3": {
+          "he": "מיוחד עט״ז. עב״י כתב הלכתא כר״מ ועוד ספק ברכות להקל והא כסות לילה ביום נמי ספק עיין בעט״ז כאן ואם נאמר דעת הר״מ כר״ת כתיב הב׳ (ע״ב) והוא דעת שלישית כמ״ש הר״ב כאן דוקא כסות יום וביום וז״ש הר״מ ז״ל שמא יתכס״ה בלילה ובגמרא כסות לילה היינו ביום (כי בזה אין כ״כ הכרע אם סובר הר״מ כן עב״י ותבין) א״ש ספק ברכות לקולא. עיין ב״י בשם מהרי״א טליתות שלנו שהן רק למצות ציצית לא למלבוש לא חשיב כסות המיוחד ליום (ונ״מ אם נפסק ציצית בלילה אי רשאי לילך כך) והב״י דחה זה דכסות המיוחד ליום חשיב ולרא״ש צריך ציצית בלילה כה״ג יע״ש וכן הלכה: מ״ש באות א׳ אם הטיל ציצית בשבת בשוגג כשירים הם הציצית ולא אמרי׳ כל מילתא דאמר רחמנא לא תעביד דאי עביד לא מהני ע׳ חושן המשפט סי׳ ר״ז ור״ח במקח הנעשה באיסור בשבת ע׳ סמ״ע שם כיון דאין במקח איסור כ״א הזמן לא חשיב לא תעביד ושוחט בשבת יוכיח בשוגג עיין מה שכתב בפריי בי״ד מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 18:3"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] ולהרא\"ש חייב בציצית וכו'. ומכל מקום מיקרי שפיר זמן גרמא שהיום גורם לחיוב המלבוש, כן כתבו תוס' מנחות דף מ' ד\"ה משום וכו', ועיין בעולת תמיד וכמדומה שלא ראה דברי תוס' שם, וקיצרתי כיון שלא נפקא מינה לדינא, ומשמע דאסור ללבוש כסות של לילה ביום בלא ציצית, וכן כסות של יום בלילה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 18:1"
+        },
+        "2": {
+          "he": "[ב] תפילת ערבית וכו'. עיין מה שכתבתי ס\"ק [ה'], כתב לחם חמודות ומכל מקום נהגו להתעטף האומר קדיש יתום משום ציבור, עד כאן. כתב מהרא\"י (תרומת הדשן ח\"ב) סימן קכ\"א מי ששכח או הזיד ולא התעטף בציצית כל היום יתעטף בלא ברכה אחר תפילת ערבית או אפילו בלילה. וכתב הב\"ח בתענית ציבור שלובשין הציבור טלית במנחה יסירו הטלית כשמגיעין לברכו, ושיירי כנסת הגדולה כתב מיהו מנהגי שלא להסיר הטלית ותפילין שעלי עד אחר תפילת ערבית, עד כאן, ואין גרירין אחר דברי הב\"ח בזה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 18:2"
+        },
+        "3": {
+          "he": "[ג] ובליל יום כיפור וכו'. ואין מסירין מעליהם בלילה לפי שדומין למלאכים לובשים לבנים ומתעטפים לבנים, ב\"ח, ומטעם זה נוהגין שלא להסיר הטלית במוצאי יום כיפור עד אחר תפילת ערבית שיירי כנסת הגדולה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 18:3"
+        },
+        "4": {
+          "he": "[ד] [לבוש] סדינין וכו'. בין של צמר וכו' פירוש בין שסדין של צמר, בין שסדין של פשתן. ומה שכתב גזירה משום צמר רצה לומר בסדין של פשתן גזירה שלא יעשה ציצית מצמר, וכיון דדרך לעשות הסדין מפשתן גזרינן נמי בסדין של צמר אטו של פשתן וכולה חדא גזירה היא כן נראה לי כוונת הלבוש, ועיין לעיל סוף סימן ט'. אך קשה לי למה לי הטעם דעיקר תשמישן בלילה, הא בלאו הכי אסור מגזירה הנזכר לעיל, וקיימא לן דיש כח ביד חכמים לעקור בשב ואל תעשה כמו שנתבאר בסימן י\"ג. ועוד לטעם זה קשה לחייב בציצית בלא ברכה כמו שאר כסות לילה ביום. ובמרדכי כתב טעם אחר דסדין לא מיקרי מלבוש, ולא חייבה התורה אלא מלבוש, וצריך עיון. ובמגן אברהם כתב ונראה לי דבסדין של צמר יעשה קרן אחת עגולה לפטור מציצית לכולי עלמא, עד כאן. שוב מצאתי כתב בגליון שולחן ערוך וזה לשונו הואיל ואין התחלת תשמישו ביום לא מיקרי תשמיש יום כלל אפילו לרמב\"ם, עד כאן, ונכון הוא:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 18:4"
+        },
+        "5": {
+          "he": "[ה] וכן נוהגין וכו'. משמע דנוהגין לברך לכתחילה, ואפשר דכוונת רמ\"א דלכתחילה אין לובשו עד שיכיר בין תכלת שבה, אלא בדיעבד אם לובשו מברך, והלבוש שכתב שאין לברך לכתחילה נמי הכי קאמר שאין ללובשו כדי לברך, ודוחק, אלא יותר נראה כלבוש להחמיר לכתחילה שלא לברך עד שיכיר אף שלבשו כבר. ובאמת קשיא לי על רמ\"א דלדבריו גם אחר מעריב יש לברך כשעדיין יום משום דבראיות תליא מילתא ולא כתיב ביה יום, וכן ראיתי בתשובת מהרי\"ל סימן קע\"ד שפסק לברך מטעם זה, ומה שכתב רמ\"א בשם כתבי מהרא\"י דאין לברך נראה לי דסבירא ליה דגם בשחר אין לברך עד שיכיר. שוב מצאתי במגן אברהם זה לשונו ונראה לי דהוא הדין בערב עד צאת הכוכבים, עד כאן, ונראה שכיוון לזה, וצריך עיון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 18:5"
+        },
+        "6": {
+          "he": "[ו] ימשמש בהן וכו'. לשון בית יוסף ימשמש בטליתו ויניח על ראשו ומברך:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 18:6"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "להרמב\"ם כו'.  ומ\"מ מותר לצאת לר\"ה בליל שבת בטלית עם ציצית ולא הוי משוי שהם נוי הבגד ותכשיטיה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 18:1"
+        },
+        "2": {
+          "he": "ולהרא\"ש וכו'.  טעמו מדאמרינן בגמ' דאין לעשות סדין בציצית גזיר' משום כסות לילה ולא אמרי' שמא יתכסה בה בלילה. ש\"מ דכסות המיוחד גם ליום אין לחוש אם לובשו גם בלילה ועיקר החשש מחמת כסות המיוחד ללילה לחוד שבו לא הותר כלאים לגמרי משא\"כ בכסות המיוחד גם ליום כיון שהותר בו פעם א' כלאים הותר לגמרי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 18:2"
+        },
+        "3": {
+          "he": "מיוחד ג\"כ ליום.  אבל על המיוחד ללילה לא יברך ביום ולאפוקי מרמב\"ם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 18:3"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "ולהרא\"ש. ע' ברא\"ש שהקש' דא\"כ למה מקרי מ\"ע שה\"ג הואיל וחייב גם בלילה ע\"ש והע\"ת לא ע\"ש: כתב הב\"ח אפי' היה טלית עליו יסירנו כשמתחילין ברכו מאחר דעכשיו אין לובשין הטלית אלא למצות ציצית אם יהיה עליו יראה כאלו סובר לילה זמן ציצית הוא וכ\"מ סי' ל' ס\"ד:",
+          "en": "",
+          "ref": "Magen Avraham 18:1"
+        },
+        "2": {
+          "he": "ובליל יה\"כ יתעטף. בב\"ח כתב הטעם להדמות למלאכים, וכת' הלבוש סי' תקפ\"ה /תקפ\"א/ אין לו' י\"ג מדות בלא עטיפה ול\"נ דכל עובר לפני התיבה צריך להתעטף כדאמרי' מלמד שנתעטף הקדוש ברוך הוא כש\"ץ, ובל\"ח כתב דאף האומר קדיש יתום יתעטף מפני כבוד צבור:",
+          "en": "",
+          "ref": "Magen Avraham 18:2"
+        },
+        "3": {
+          "he": "סדינים כו'. כתוב בהג\"מ דלהרמב\"ם שסובר כסות לילה ביום חייב א\"כ הסדינים חייבים בציצית ורבינו אליה היה עושה להם ציצית כו' עכ\"ל, ומנהג פשוט שלא להטיל בסדינים בין שהם פשתים או צמר עכ\"ל ב\"י וטעמא לא ידענא למה יפטרו של צמר ובס' יראים כתוב ג\"כ שחייבים, ובמרדכי כתוב איתא בספרי כסות פרט לסדין, ונ\"ל שאין חייבים בציצית כלל אלא אותן שהן דרך לבישה ואשר תכסה בה נמי משמע דרך מלבוש ואפי' דרך העלאה שחייב בכלאים הדעת נוטה לפטור דלא אתקש אלא ללבישה וכרים וכסתות נמי משמע בספרי דממעט מאשר תכסה בה ולא הודה לו ר' ע\"ש בתוס' עכ\"ל, ולדידי' צ\"ל הא דאיפלגי בית שמאי ובית הלל בסדין בציצית היינו כשמתעטף בו כמו שעשה ר\"י בר אלעאי, ובתו' דף מ\"א כתבו דגבי ציצית אין לחלק בין הצעה ללבישה, ונ\"ל דבסדין של צמר יעשה קרן א' עגולה לפטור מציצית אליב' דכ\"ע:",
+          "en": "",
+          "ref": "Magen Avraham 18:3"
+        },
+        "4": {
+          "he": "מעלות השחר. ונ\"ל דה\"ה בערב עד צאת הכוכבים:",
+          "en": "",
+          "ref": "Magen Avraham 18:4"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "להקל.  דהיינו דוקא לענין ברכה. אבל ציצית צריכין להיות. ע\"ת:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 18:1"
+        },
+        "2": {
+          "he": "ג\"כ ליום.  פירוש גם ליום ואפי' גם מיוחד ללילה ומכ\"ש ליום לבד. שכנה\"ג וע\"ת:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 18:2"
+        },
+        "3": {
+          "he": "תפלת ערבית.  ובתענית ציבור כ' הב\"ח דיסיר את הטלית כשיגיע לברכו. וכנה\"ג כ' עד לאחר ערבית עיין בשיורי כנה\"ג ועיין סי' למ\"ד ס\"ק ג'. כתב בכתבי מהרא\"י מי ששכח או הזיד ולא נתעטף בציצית כל היום. אחר שיתפללו ערבית יתעטף בלא ברכה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 18:3"
+        },
+        "4": {
+          "he": "ובליל י\"כ.  וכל העובר לפני התיבה צריך להתעטף. ובל\"ח כתב דאף האומר קדיש יתום יתעטף מפני כבוד הציבור ואין מברך עליו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 18:4"
+        },
+        "5": {
+          "he": "בעוד יום.  ולא יסירו בלילה לפי שדומין למלאכים מעוטפים לבנים ב\"ח. ועי' יד אהרן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 18:5"
+        },
+        "6": {
+          "he": "סדינים.  ר\"ל בין של פשתן או של צמר. וכ' ב\"י וטעמא לא ידענא למה יפטרו בשל צמר ע\"ש. וכתב המ\"א דבסדין של צמר יעשה קרן אחת עגולה לפטור מציצית אליבא דכ\"ע ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 18:6"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) להרמב\"ם וכו' - ומ\"מ מותר לצאת לר\"ה בליל שבת בטלית עם הציצית ולא הוי משוי שהם נוי הבגד ותכשיטיה:",
+          "en": "According to the Rambam etc. - Nevertheless, it is permitted to go out in a public domain on Friday night with a טלית and ציצית and it is not considered carrying, because they (ie. the ציצית) are the beauty of the garment and are its adornments.",
+          "ref": "Mishnah Berurah 18:1"
+        },
+        "2": {
+          "he": "(ב) להקל - היינו דוקא לענין ברכה אבל אסור ללבוש כסות של לילה ביום בלא ציצית וכן כסות של יום בלילה משום ספק. ומ\"מ נראה דהש\"ץ הלובש טלית בלילה א\"צ לבדוק הציצית דבכגון זה בודאי נוכל לסמוך על חזקתן שמכבר:",
+          "en": "Ruled leniently - This is specifically regarding the blessing, but it is forbidden to wear a nighttime garment during the day without ציצית and similarly, a daytime garment [may not be worn] at night [without ציצית] because of this  doubt (ie. the machloket Rambam/Rosh).  Nevertheless, it seems that a prayer leader who wears a טלית at night [to lead the evening prayers] does not need to inspect the ציצית, for in this case we can certainly rely on the assumption that it had previously (ie. that the ציצית were valid).",
+          "ref": "Mishnah Berurah 18:2"
+        },
+        "3": {
+          "he": "(ג) ג\"כ ליום - פי' גם ליום ואפילו גם מיוחד ללילה וכ\"ש ליום לבד:",
+          "en": "And it is also designated for daytime - The meaning of \"also for daytime use\" is: even if it's [a garment that's] designated for nighttime use, and certainly [one designated] for daytime use alone.",
+          "ref": "Mishnah Berurah 18:3"
+        },
+        "4": {
+          "he": "(ד) תפילת ערבית - ובתענית צבור כשלובשין טלית במנחה יסיר את הטלית כשיגיע לברכו מאחר דעכשיו אין לובשין הטלית אלא למצות ציצית אם יהיה עליו יראה כאילו סובר דלילה זמן ציצית הוא. ומ\"מ הש\"ץ לפני העמוד אם אין הולך במלבוש העליון שאין כבוד הצבור בכך פשיטא דלא יסיר הטלית מעליו:",
+          "en": "The evening prayers - And on a public fast day, when we wear a טלית during the afternoon prayers, one should remove the טלית when they get up to ברכו since nowadays we only wear a טלית to fulfill the mitzvah of ציצית, and if it were to remain on him, it would appear as if he holds that nighttime is the time of ציצית.  Nevertheless, the prayer leader who leads the communal prayers - if he is not wearing an outer garment (ie. a jacket), which is disrespectful to the congregation, it is obvious that he should not remove his טלית.",
+          "ref": "Mishnah Berurah 18:4"
+        },
+        "5": {
+          "he": "(ה) ובליל יו\"כ - וכל העובר לפני התיבה צריך להתעטף. ובל\"ח כתב דאף האומר קדיש יתום לפני התיבה יתעטף מפני כבוד הצבור ואין מברך עליו:",
+          "en": "And on night of Yom Kippur - Anyone who leads the communal prayer must don [a טלית].  And Lechem Chamudot wrote that even one who recites the Mourner's Kaddish must don [a טלית] out of respect for the congregation, but he should not make the blessing on it.",
+          "ref": "Mishnah Berurah 18:5"
+        },
+        "6": {
+          "he": "(ו) יתעטף - להדמות למלאכים שמעוטפים לבנים ולכך לא יסירו בלילה עד אחר תפילת ערבית של מוצאי יוה\"כ:",
+          "en": "Wrap/wear - To be likened to the angels who are wrapped in white.  Therefore, they (the men) should not remove [their טלית] at night until after the evening prayers of the end of Yom Kippur.",
+          "ref": "Mishnah Berurah 18:6"
+        },
+        "7": {
+          "he": "(ז) בעוד יום - אבל אם איחר להתעטף עד לילה שוב לא יברך דשמא הלכה כהרמב\"ם ומשמע מדברי המ\"א בסק\"ד דאפילו בין השמשות מותר לברך עד צה\"כ וטעמו דהלא בציצית לא כתיב יום רק וראיתם אותו משמע כל זמן שנוכל לראות וכן פסק בעל דרך החיים ובספר מטה אפרים ראיתי שמחמיר בזה. אך אם זה גופא הוא מסתפק אם כבר הגיע בין השמשות נראה דבודאי יוכל לברך דבלא\"ה דעת התוספות והרא\"ש דכסות יום חייב בלילה והגר\"א בביאוריו מצדד ג\"כ לשיטה זו עי\"ש:",
+          "en": "While it is still day - But if one delayed in donning [their טלית] until it was nighttime, they should not make the blessing anymore, because maybe the law follows the Rambam.  And it seems from the Magen Avraham in se'if katan 4 that even during twilight it is permitted to recite the blessing up until nightfall.  And his reason is that regarding ציצית it (ie. the verse) does not say \"day\", [rather] it just says \"and you shall look upon it\" - it's inferred to mean \"as long as we can see it\".  The author of Derech Hachaim ruled this way as well.  And I saw that the Mateh Efraim is stringent regarding this.  However, if one is in doubt about this, whether twilight arrived yet, it seems that one may certainly make the blessing [on their טלית], for even without that, the opinion of Tosefot and the Rosh are that a daytime garment is obligated [in ציצית] at night (and so according to them, you would be obligated to make a blessing at night).  And the Gr\"a in his commentary also leans towards this opinion.  See there further.",
+          "ref": "Mishnah Berurah 18:7"
+        },
+        "8": {
+          "he": "(ח) בהם ציצית - מפני שעיקר תשמישן בלילה וכסות לילה מיקרי אך לפ\"ז לא היה פטור רק להרא\"ש אבל להרמב\"ם דכסות לילה חייב ביום חייב וי\"א עוד טעם לפטור משום דלא חייבה התורה רק דרך מלבוש או דרך עיטוף לא דרך העלאה בעלמא ויש חולקין וס\"ל דאפילו אם יציע תחתיו בגד של ד' כנפות חייב בציצית וכ\"ש דרך העלאה ע\"כ הכריע המ\"א דיעשה קרן אחת עגולה ויצא אליבא דכו\"ע. אכן משמע מדבריו דאין להחמיר בזה רק בסדין של צמר אבל לא בשל פשתן או שאר מינים ועיין הטעם בפמ\"ג:",
+          "en": "ציצית to them - Since their main use is at night and [therefore] it's called a \"nighttime garment\".  But according to this, it would only be exempt [from ציצית] according to the Rosh; but according to the Rambam [who holds] that a nighttime garment is obligated [in ציצית] during the day, it (ie. the bedsheet/blanket) would be obligated.  And there are those who say another reason to exempt it: it's because the Torah only obligated [a garment] that's worn as clothing or that one wraps [himself] in it, but not something that one covers himself with.  And there are those who argue on this and hold that even if one spreads out a 4 cornered  garment underneath himself, and certainly if he covers himself with [a 4 cornered garment].  Therefore, the Magen Avraham decided that one should make one of the corners rounded and [therefore] would fulfill all opinions.  But it's inferred from his words that one only needs to be stringent regarding this with a wool bedsheet/blanket, but not with one of flax or some other material.  And regarding the reasoning for this, see in Pri Megadim....",
+          "ref": "Mishnah Berurah 18:8"
+        },
+        "9": {
+          "he": "(ט) משיכיר וכו' - והוא הזמן דמשיראה את חבירו הרגיל עמו קצת ברחוק ד' אמות ויכירנו המוזכר לקמן בסימן נ\"ח לגבי ק\"ש [ב\"י בסי' נ\"ח בשם הרא\"ש דחד שיעורא הוא עי\"ש ובביאור הגר\"א בענינינו]:",
+          "en": "Can tell the difference etc. - And this is the time of \"when [if] one would see a friend who he is somewhat acquainted with from a distance of 4 cubits, he would recognize him\", which is mentioned below in siman 58 regarding K'riat Shema (Beit Yosef [stating] in siman 58 in the name of the Rosh that it is all one  measurement (ie. blue/white and recognizing friend).  See further in Biur HaGr\"a on this topic).",
+          "ref": "Mishnah Berurah 18:9"
+        },
+        "10": {
+          "he": "(י) וכן נוהגין - עיין בביאור הגר\"א שפסק כדעת השו\"ע ובפמ\"ג כתב אם השעה דחוקה המיקל להניח מע\"ה ואילך אין גוערין בו ועכ\"פ לכתחלה בודאי נכון מאד להמתין מלברך עד שיכיר בין תכלת ללבן וכן נראה דעת הא\"ר. ובדיעבד נראה דאפי' אם בירך קודם עמוד השחר לא יחזור ויברך דשמא הלכה כהרא\"ש דכסות יום בלילה חייב:",
+          "en": "And this is our practice - See in Biur HaGra who ruled like the opinion of the Shulchan Aruch.  And Pri Megadim wrote [that] if the there is a time constraint, one who is lenient and puts on his טלית starting from dawn, we do not protest it;  but nevertheless, ideally it is certainly very proper to wait to make the blessing until the time of when [there's enough light that] one can tell the difference between the תכלת and the white, and this seems to be the opinion of the Eliah Raba.  And after the fact, it seems that even if one made the blessing before dawn he should not repeat it [after משיכיר], because maybe the law is like the Ro\"sh [who holds] that a daytime garment [worn] at night is obligated [in ציצית and would therefore require a blessing].",
+          "ref": "Mishnah Berurah 18:10"
+        },
+        "11": {
+          "he": "(יא) ימשמש בו - ר\"ל בציציותיו:",
+          "en": "He should touch it - [\"It\"], meaning the ציצית.",
+          "ref": "Mishnah Berurah 18:11"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

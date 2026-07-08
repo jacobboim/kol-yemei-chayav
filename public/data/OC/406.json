@@ -1,0 +1,180 @@
+{
+  "chelek": "OC",
+  "siman": 406,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-07T23:49:27.000Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "מי שיצא חוץ לתחום שלא לדעת. ובו סעיף אחד:מי שיצא חוץ לתחום שלא לדעת שאין לו אלא ד\"א והוצרך לנקביו יכול לצאת מהם עד שימצא מקום צנוע לפנות ועצה טובה לו שיתקרב בצד תחומו שאם לא ימצא מקום צנוע עד תחומו יכול ליכנס ולאחר שנכנס הוי כאלו לא יצא כיון שנכנס ברשות אבל אם מצא מקום צנוע קודם לא יכנס אלא יפנה שם ויתרחק ממקום שנפנה עד שיכלה הריח ושם יש לו ד\"א ואם נתרחק מהריח ונכנס בתחומו כאלו לא יצא ואם יצא לדעת אין לו תקנה. זה שאמרנו בהוצרך לנקביו ויש אומרי' אפי' לקטני' ויש אומרי' דוקא לגדולי':",
+      "en": "One who went out of the Shabbat barrier unknowingly, he only has four amot, and if he needs to \"go do the bathroom\", he is able to leave from there until he finds a private place to turn; and it is good advice that he approaches the side of the barrier, because if he does not find a private place until the barrier he can enter, and after he enters, it is like he did not leave since he entered with permission; but if he found a private place first, he should not enter except to face there, and he should distance himself from the place he turned until he covers the smell, and there he has four amot. And if he distances himself from the smell and enters into the barrier, it is like he did not leave. And if he went out knowingly, he has no fix. This that we said, regarding the need to \"go to the bathroom\", there are those who say even for urine and there are those who say specifically for feces.",
+      "ref": "Shulchan Arukh, Orach Chayim 406:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "פשוט בגמרא עירובין מ\"א וכן כתב הרמב\"ם בפרק כ\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 406:1"
+        },
+        "2": {
+          "he": "רא\"ש בפסקיו שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 406:2"
+        },
+        "3": {
+          "he": "טור בשם ר\"ת",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 406:3"
+        },
+        "4": {
+          "he": "שם בשם אביו הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 406:4"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "מקום צנוע עמ״א. כי טוב יותר מקום מוצנע אצל יהודים. וה״ה יצא לדעת יתרחק למקום מוצנע ויש לו ד״א ממקום שכלה הריח אלא שאין לו תקנה לחיות כבראשונה עמ״א ב׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 406:1"
+        },
+        "2": {
+          "he": "אין לו תקנה עמ״א ביצא לדעת בא לעירו הואיל ושבת שם ומוקפת כד״א ולא חוצה לה ולעיר אחרת הואיל ולא שבת אין לו אלא ד״א ביצא לדעת עב״י:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 406:2"
+        },
+        "3": {
+          "he": "דוקא לגדולים עמ״א ולכאורה הלכה כמיקל וגם בדרבנן לקולא וע׳ בכללים וע׳ א״ר ג׳ הראה לסימן צ״ב לענין תפלה בהוצרך לקטנים ועמ״א שם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 406:3"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] מקום צנוע וכו'. שלא יתבייש ויכול ללכת עד בית היהודים לפנות שם (ראב\"ן :",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 406:1"
+        },
+        "2": {
+          "he": "[ב] [לבוש] לא התירו וכו'. פירוש אף דיכול לילך למקום צנועה מכל מקום אין לו שם אלא ארבע אמות אם לא שנכנס לעירו דיש לו כל העיר ולעיר אחרת שלא שבת בה אין לו אלא ארבע אמות, ועיין סימן ת\"ה ס\"ק י\"א. מי שהיה בספינה למעלה מעשרה שאינה קונה שביתה והובא הספינה חוץ לתחום מעיר והוצרך לנקבין יכול לילך חוץ לתחום ליפנות ויתנה שלא יקנה שביתתו עד שיבוא לשם לתוך תחום ואז כל העיר כארבע אמות וחוצה לה אלפיים כיון שלא קנה שביתה קודם זה אף דבסימן ת\"ט בעינן שיגיע שם מבעוד יום מכל מקום בספינה הקלו (פרישה) וצריך עיון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 406:2"
+        },
+        "3": {
+          "he": "[ג] ויש אומרים וכו'. עיין סימן צ\"ב ס\"ק ב' ויותר קשה על לשון הרא\"ש דמוכח בכולי גמרא דהוצרך לנקביו דוקא גדולים:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 406:3"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "מקום צנוע. ויכול ללכת עד בית היהודים לפנות שם (ראב\"ן):",
+          "en": "",
+          "ref": "Magen Avraham 406:1"
+        },
+        "2": {
+          "he": "אין לו תקנה. פי' שאף שבא לתחומו אין לו אלא ד\"א כמ\"ש סי' ת\"ה ס\"ח אבל מ\"מ יכול לילך למקום צנוע לפנות וכ\"כ הרר\"י ואם בא לעירו עסי' ת\"ה ס\"ח דיש לו כל העיר ולעיר אחרת אין לו אלא ד\"א וכ\"כ ראב\"ן:",
+          "en": "",
+          "ref": "Magen Avraham 406:2"
+        },
+        "3": {
+          "he": "דוקא לגדולים. אבל קטנים אין כבוד הבריות כל כך דמשתיני' מים בפני רבים וגם אין כ\"כ טינוף דנבלעין במקומן:",
+          "en": "",
+          "ref": "Magen Avraham 406:3"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "מקום צנוע.  ויכול ללכת עד בית היהודים לפנות שם. ראב\"ן מגן אברהם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 406:1"
+        },
+        "2": {
+          "he": "תקנה.  פי' שאף שבא לתחומו אין לו אלא ד\"א כמ\"ש סי' ת\"ה ס\"ח אבל מ\"מ יכול לילך למקום צנוע לפנות ואם בא לעירו עיין סי' ת\"ה ס\"ח דיש לו כל העיר ולעיר אחרת אין לו אלא ד\"א וכ\"כ ראב\"ן. מגן אברהם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 406:2"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) שלא לדעת - עיין לקמיה:",
+          "en": "",
+          "ref": "Mishnah Berurah 406:1"
+        },
+        "2": {
+          "he": "(ב) עד שימצא מקום צנוע - ר\"ל מקום שאין בני אדם מצויים מפני שגדול כבוד הבריות ועיין לעיל בסימן ג' דאחורי הגדר חשיב מקום צנוע ובשדה עד שאין חבירו יכול לראותו. כתבו האחרונים בשם ראב\"ן דיכול ללכת עד בית היהודים לפנות והיינו אף אם ימצא מקום צנוע מקודם אלא שהוא סמוך לבתי עכו\"ם מ\"מ יכול להתרחק עד בתי היהודים שמא העכו\"ם יכוהו או יפחידוהו:",
+          "en": "",
+          "ref": "Mishnah Berurah 406:2"
+        },
+        "3": {
+          "he": "(ג) ועצה טובה וכו' - ר\"ל שאם יכול לחפש מקום צנוע בשאר רוחות טוב לו יותר לבקש מקום צנוע לצד מקום שיצא משם:",
+          "en": "",
+          "ref": "Mishnah Berurah 406:3"
+        },
+        "4": {
+          "he": "(ד) עד תחומו - ואם מצא בתוך ד\"א של התחום חשוב כאלו בתוך התחום ויכול ליכנס וכנ\"ל בריש סימן ת\"ה ע\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 406:4"
+        },
+        "5": {
+          "he": "(ה) כאלו לא יצא - ויש לו אלפים לכל רוח וכנ\"ל בסימן ת\"ה ס\"ו:",
+          "en": "",
+          "ref": "Mishnah Berurah 406:5"
+        },
+        "6": {
+          "he": "(ו) ויתרחק ממקום שנפנה - דזהו ג\"כ בכלל כבוד הבריות:",
+          "en": "",
+          "ref": "Mishnah Berurah 406:6"
+        },
+        "7": {
+          "he": "(ז) עד שיכלה הריח - ותו לא ואפילו לתוך מקום הראשון שישב שם מתחלה אם הוא יותר משיעור הזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 406:7"
+        },
+        "8": {
+          "he": "(ח) אין לו תקנה - ר\"ל אף דמותר לו בזה ג\"כ לצאת חוץ לד' אמותיו עד שימצא מקום צנוע וכן להתרחק ג\"כ מן הריח וכנ\"ל אבל אין לו תקנה להחשב בזה כאלו לא יצא אם נכנס לתחומו דאף אם יכנס אין לו אלא ד\"א כיון שיצא מתחלה מדעת אם לא שנכנס עי\"ז לעירו ששבת בה דאז כל העיר לו כארבע אמות בכל גווני וכנ\"ל בסימן ת\"ה ס\"ח:",
+          "en": "",
+          "ref": "Mishnah Berurah 406:8"
+        },
+        "9": {
+          "he": "(ט) דוקא לגדולים - אבל קטנים אין כבוד הבריות כ\"כ דהא משתינים מים בפני רבים וגם אין כ\"כ טינוף בהם שיהיה צריך להתרחק דהא נבלעין במקומן ויש להחמיר כסברא זו:",
+          "en": "",
+          "ref": "Mishnah Berurah 406:9"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

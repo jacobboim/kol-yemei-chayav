@@ -1,0 +1,537 @@
+{
+  "chelek": "OC",
+  "siman": 161,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 4,
+  "fetchedAt": "2026-07-07T23:42:39.176Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני חציצה בנטילה. ובו ד סעיפים:צריך ליזהר מחציצה שכל דבר שחוצץ בטבילה חוצץ בנטילה כגון צואה שתחת הציפורן שלא כנגד הבשר ובצק שתחת הציפורן אפילו כנגד הבשר ורטיה שעל בשרו וטיט היון וטיט היוצרים אבל במיעוטו שאינו מקפיד אין לחוש: הגה ומשום הכי לא נהגו לנקר הטיט שתחת הצפרנים לנטילה משום דהוי כמיעוטו שאין מקפיד כי אין מקפידים על זה לנטילה (הגהות סמ\"ק והגהות אשיר\"י פרק אלו דברים) אבל אם היה מקפיד הוא צריך לנקר וכן עיקר ואפשר שנהגו להקל בחציצה לענין נטילה כי יש אומרים שאין שייך חציצה לנטילה אבל העיקר כסברא ראשונה:",
+      "en": "Lois concernant la barrière (חציצה) pour la netilat yadayim (lavage des mains). Ce passage comprend dix-sept points : Il faut faire attention à toute barrière qui bloque la tévilah (immersion rituel), car tout ce qui fait obstacle à la tévilah bloque aussi la netilat yadayim, par exemple des excréments sous l'ongle qui ne touchent pas la chair, de la pâte sous l’ongle même si elle touche la chair, une humidité sur la peau, de la boue grecque (טיט היון) ou la boue des artisans, mais si c’est en petite quantité et qu’on n’est pas strict, on ne s’en inquiète pas. Note marginale : c’est pour cela qu’on ne pratique pas le grattage de la boue sous les ongles pour la netilat yadayim, car c’est considéré comme une petite quantité dont on ne se soucie pas pour la netilat yadayim (notes du Siman Katan et des Hagahot Ashiri sur ce chapitre). Mais si la personne est stricte, elle doit gratter. C’est d’ailleurs l’essentiel. Il est possible que la coutume soit d’être laxiste sur la barrière pour la netilat yadayim, car certains disent qu’il n’y a pas de barrière qui bloque la netilat yadayim, mais en principe, c’est la première opinion qui prévaut.",
+      "ref": "Shulchan Arukh, Orach Chayim 161:1"
+    },
+    {
+      "seif": 2,
+      "he": "כל דבר שאינו מקפיד עליו אינו חוצץ היה דרכו של זה להקפיד וזה אין דרכו להקפיד למי שדרכו להקפיד חוצץ למי שאין דרכו להקפיד אינו חוצץ כיצד היה אחד צבע והיו ידיו צבועות אין הצבע חוצץ על ידיו אע\"פ שיש על ידיו מממשות של צבעונים לא היה צבע אם היו ידיו צבועות ויש מממש הצבע על ידיו הרי זה חוצץ שהדיו היבש חוצץ והלח אינו חוצץ וכן הנשים שדרכן לצבוע ידיהם לנוי וכיוצא בזה אין אותו צבע חוצץ  (גלדי מכה שעל ידיו אם אינו מקפיד עליו אין חוצצים) (ספר התרומה):",
+      "en": "Tout ce dont une personne ne fait pas une stricte habitude n’est pas considéré comme une barrière. Celui qui a l’habitude d’être strict, cela bloque (la pureté), mais celui qui n’a pas cette habitude, cela ne bloque pas. Par exemple, un teinturier dont les mains sont teintes : la teinture ne bloque pas la pureté des mains même s’il y a des traces de teintures sur ses mains, car ce n’est pas considéré comme une teinture réelle. Mais si ses mains sont réellement teintées et qu’il y a une teinture bien visible dessus, cela constitue une barrière, car l’encre sèche bloque, mais l’encre humide ne bloque pas. De même pour les femmes qui ont l’habitude de teindre leurs mains pour l’ornement, ce type de teinture ne bloque pas. (Par exemple, une blessure sur les mains si la personne n’y fait pas attention ne constitue pas une barrière.) (Sefer HaTerouma)",
+      "ref": "Shulchan Arukh, Orach Chayim 161:2"
+    },
+    {
+      "seif": 3,
+      "he": "צריך להסיר הטבעת מעל ידו בשעת נטילת ידים: ואפי' הוא רפוי (ב\"י) ואפי' אינו מקפיד עליו בשעת נטילה הואיל ומקפיד עליו בשעה שעושה מלאכה שלא יטנפו (הרא\"ש פ' תינוקת) ונהגו קצת להקל אם הוא רפוי אבל יש להחמיר כי אין אנו בקיאים איזה מקרי רפוי:",
+      "en": "Il faut enlever la bague de sa main au moment de la netilat yadayim, même si elle est lâche, et même si la personne n’est pas stricte à ce sujet lors de la netilat, puisqu’elle y fait attention lorsqu’elle travaille pour ne pas se salir (Rosh, chapitre Tinokot). Certains ont pour habitude d’être plus laxistes si la bague est lâche, mais il faut être strict car nous ne savons pas précisément quels cas relèvent du lâche.",
+      "ref": "Shulchan Arukh, Orach Chayim 161:3"
+    },
+    {
+      "seif": 4,
+      "he": "שיעור נ\"י כל היד עד הקנה של זרוע וי\"א עד מקום חיבור האצבעות לכף היד וראוי לנהוג כדעת הראשון:",
+      "en": "La mesure de la netilat yadayim (נטילת ידים) est toute la main jusqu’au début de l’avant-bras selon une opinion, et selon une autre jusqu’à l’endroit où les doigts se joignent à la paume. Il est préférable de suivre l’avis de la première opinion.",
+      "ref": "Shulchan Arukh, Orach Chayim 161:4"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "חולין ק\"ו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 161:1"
+        },
+        "2": {
+          "he": "פ\"ק ובתוספתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 161:2"
+        },
+        "3": {
+          "he": "עירובין ד'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 161:3"
+        },
+        "4": {
+          "he": "רשב\"א בת\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 161:4"
+        },
+        "5": {
+          "he": "הגהת אשרי פ\"ב דברכות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 161:5"
+        },
+        "6": {
+          "he": "הרי\"ף בפ\"ח דברכות על ההיא דחולין קו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 161:6"
+        },
+        "7": {
+          "he": "לפירוש הרא\"ש שם בחולין",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 161:7"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "שלא עמ״א דכשלא נגד הבשר מאיס ומקפיד הוא עליו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 161:1"
+        },
+        "2": {
+          "he": "וטיט היון עמ״א ועט״ז י״ד קצ״ח אות י״ט ועש״ך שם אות כ״ה בציפורן העומד לקלוף יש מחמירין אע״פ שאין טיט תחתיו ה״ה כאן יש ליטול צפרנים בכל ע״ש מה״ם גופא משום נט״י:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 161:2"
+        },
+        "3": {
+          "he": "במיעוטו עמ״א דלגבי נטילה רוב היד הוי רובו ואין מקפיד וחוצץ אע״ג דבטבילה כל אלו מדרבנן כל דתיקון רבנן בנט״י כעין של תורה תיקנו יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 161:3"
+        },
+        "4": {
+          "he": "אין עמ״א ועמ״ש בט״ז אות ב׳ מזה יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 161:4"
+        },
+        "5": {
+          "he": "הטיט עמ״א דבטלה דעתו אצל רוב בני אדם ועב״י דאפשר לקולא נמי אם אחרים אין מקפידין והוא מקפיד יע״ש. ומ״ש לגרר בשבת עא״ר אות ה׳ יע״ש עמ״א ו׳ אי״ה מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 161:5"
+        },
+        "6": {
+          "he": "מקפיד הוא עמ״א בנט״י ספיקו לקולא אף בפלוגתא דרבוותא ובזה צ״ע ועב״י:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 161:6"
+        },
+        "7": {
+          "he": "היה עמ״א זבחים צ״ח ב׳ (ט״ס פ״א וצ״ל פרק אחד עשר יע״ש) ובר״מ פ״ג ה״ז דמקואות דאחד לא קפיד אבל אתרתי אע״ג דרגיל בהן מקפיד וה״ה בכל הדברים החוצצין אי אירע שנים ביחד ורגיל בהן היינו הך איבעיא ויש לראות מיעוט המקפיד דרבנן הוא והיה לן למיזל לקולא אף בטבילה וכ״ת אוקמיה אחזקה הא בורכא דבספיקא דדינא ל״ש אוקמיה אחזקה כמ״ש בפריי לי״ד ובס׳ ש״ה ועוד אפי׳ בספק דגוף המעשה קיי״ל ספק טבל כו׳ וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 161:7"
+        },
+        "8": {
+          "he": "שהדיו עמ״א דהוי כמו צבע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 161:8"
+        },
+        "9": {
+          "he": "גלדי מכה עמ״א דאם מצטער אף שמקפיד אפשר שאין חוצץ עא״ר ט׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 161:9"
+        },
+        "10": {
+          "he": "אפי׳ עמ״א עיין אות ד׳ דמים שע״ג הטבעת טמאים ואין מטהרין בשניים ולא בטיל הטבעת ע״ג היד כמ״ש בט״ז:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 161:10"
+        },
+        "11": {
+          "he": "בשעת המלאכה עמ״א וכ״כ הט״ז אות ד׳ בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 161:11"
+        },
+        "12": {
+          "he": "לכף היד עמ״א בשם הזוהר ומ״מ מלא חפני דטיבותא יש ליטול בשפע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 161:12"
+        },
+        "13": {
+          "he": "כדעת הא׳ עמ״א בי״ד רי״ז ס״א משום שלא יהא נדר ומ״ש דבמלוכלך כו׳ יש״ש כ״ח כ״א אין כעת ת״י ואי״ה יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 161:13"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "שלא עט״ז וראוי לחתוך צפרנים בכל ע״ש עיין א״ר א׳ ובלבוש. וחציצה דפוסלת בנט״י דמטהרת בנטילה בעינן דומיא דטבילה עיין לבוש ואף לרש״י שבת י״ד ידים שניות מפני שעסקניות ונגעו במקום מיאוס וא״כ אם יש רטיה על מקצת לא נגע שם מ״מ כיון דעשאום שניות בעינן טהרה בלי חציצה וחולין משום סרך תרומה הוא: אם נטל ידיו אח״כ נמצא עליו דבר חוצץ אע״ג בטבילה צריכה טבילה אחרת עי״ד קצ״ט סעיף יו״ד כאן בנט״י ספיקו לקולא ומיהו לכתחלה ודאי ראוי שיעיין קודם נטילה אם אין שם דבר חוצץ. ואפילו נמצא אח״כ על רוב היד חולין להקל:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 161:1"
+        },
+        "2": {
+          "he": "ורטיה עט״ז עמ״א קס״ב אות י״ח בשם הב״ח ול״ח תי׳ דלקמן באין מקפיד וכאן במקפיד ויש נ״מ טובא באם הרטיה על רוב היד לל״ח חוצץ באין מקפיד עמ״א אות ג׳ ולב״ח אין חוצץ דהוי כמי שנקטעה ידו במקום הרטיה שנוטל מה שנשאר ולא הוי נטילה לחצאין עיין טור קס״ב ולשמא יסיר לא חיישינן דכאיב ליה עוד תי׳ הט״ז דכאן מיירי במי שאין נזהר שלא יגיעו המים על הרטיה דיחזרו המים ויטהרו היד אם אין שופך רביעית בב״א כבסי׳ קס״ב שם וע״כ אם מיעוט המקפיד לא בטל לגבי היד הא במיעוט שאין מקפיד ברטיה אף המים שע״ג הרטיה מיטהרין בשניים דבטלה הרטיה וכאלו מהיד היא הואיל ודבוק ביד עמ״א ד׳ ואי״ה בקס״ב סעיף ט׳ אבאר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 161:2"
+        },
+        "3": {
+          "he": "ומש״ה עט״ז ביד שם דסומכין על ר״ת דוקא טיט היוצרים שדבוק הרבה הא שאר טיט אין חוצץ יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 161:3"
+        },
+        "4": {
+          "he": "אבל עט״ז ומ״א י״א ומ״מ א״א ליזהר שלא יבואו המים ואין מטהרין עיין אות ב׳ וכאן ל״ש דבטל ע״ג היד דלא מבטל ליה לטבעת:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 161:4"
+        },
+        "5": {
+          "he": "הקנה עט״ז ועב״ח בתפילין נקרא זרוע גובה היד וכאן קורא זרוע קודא המרפ״ק:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 161:5"
+        },
+        "6": {
+          "he": "וראוי עט״ז ועא״ר כתב הרוצה להחמיר בספק פלוגתא רשאי יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 161:6"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] [לבוש] גדולות וכו'. ולכן לא יגדל אדם את צפרניו ספר חסידים סימן נ\"ח:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 161:1"
+        },
+        "2": {
+          "he": "[ב] [לבוש] שאין הצואה מהודק הרבה וכו'. קצת קשה הא כתב אחר כך דנגד הבשר אינו חוצץ כיון שאין מהודק הרבה, ויש לומר דהכא דרכו להקפיד אבל בכנגד הבשר אין דרך להקפיד אלא לפעמים לכן אינו חוצץ כיון שאין מהודק הרבה. אך צריך עיון הא ביו\"ד סימן קצ\"ח סעיף ג' הביא יש אומרים דדבר הרפוי דעייל שם מיא לעולם אינו חוצץ אפילו דרכו להקפיד, ואפשר לחלק בין דבר הרפוי לאינו מהודק הרבה, ובאמת ביו\"ד שם סעיף י\"ח כתב הלבוש בסתם שלא כנגד הבשר מקפידין עליו וחוצץ, כנגד הבשר אין דרך להקפיד עליו ואינו חוצץ. וגם בדין בצק צריך עיון דהכא כתב הטעם מפני שהוא מהודק הרבה, וביו\"ד כתב זה לשונו, ובצק שתחת הציפורן אפילו כנגד הבשר דרך להקפיד עליו וחוצץ, עד כאן. ואפשר דלהכי כתב הטעם מפני שהוא מהודק דאם אינו מהודק לא מהני הקפדה כמו שכתב קודם זה, מיהו למאי שחילקתי בין דרך להקפיד בין לפעמים אי אפשר לומר כן וצריך עיון. ואפשר דהכי קאמר דכיון שהוא מהודק הרבה דרכם להקפיד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 161:2"
+        },
+        "3": {
+          "he": "[ג] [לבוש] הרבה ומונע וכו'. כתב עולת תמיד משמע מלבוש אפילו אינו מקפיד ויש לתמוה הא אמרינן מיעוטא שאינו מקפיד אינו חוצץ, עד כאן. ולא עיין ביו\"ד שם שכתב הלבוש טעם דמקפיד גם מדכתיב הכא אבל אם הוא דבר מועט וכו', וכן ממה שכתב אחר כך כמו בצק אם מקפיד וכו' מבואר שאם הבצק מעט שאין מקפידין עליו אינו חוצץ וכן כתב בית יוסף, והא דלא כתב הלבוש טעם דדרך להקפיד כבר פירשתי, ועיין לקמן סימן קס\"ב ס\"ק ח':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 161:3"
+        },
+        "4": {
+          "he": "[ד] רטיה שעל בשרו וכו'. והא דאמרינן בסוף סימן קס\"ב דדי לו במה שיטול שאר היד שלא במקום הרטיה יש לומר דהתם מיירי במכה בידו, אבל הכא מיירי בקצת מיחוש דיש לחוש שמסירו ויגע באוכלין לכן צריך ליטול כל היד, וכן כתבו הב\"ח ואחרונים, אבל מעדני מלך דף רכ\"ד מחלק דלקמן מיירי באין מקפיד בה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 161:4"
+        },
+        "5": {
+          "he": "[ה] ואין דרך להקפיד וכו'. משמע דאם הוא מקפיד צריך לנקרן וכן כתב רמ\"א, אבל הב\"ח כתב הטעם דסמכינן על הסמ\"ג דדוקא בטיט הנדבק כמו טיט של יוצרים שייך חציצה וסתם טיט וצואה תחת הציפורן אינו אלא אותו שאינו נדבק, וכן כתב הט\"ז ביו\"ד שם ס\"ק י\"ט, וכן כתב שיירי כנסת הגדולה כשצפרנים גדולים ינקרנו, עד כאן. כתב התשב\"ץ סימן רפ\"ד בשבת דוחק את הבשר שתחת הציפורן כדי שלא יגרר את הציפורן כמשסיר הטיט, עד כאן. ובמגן אברהם כתב בשם תשב\"ץ סימן קכ\"ב בשבת אסור לגרר הטיט שתחת הציפורן בצפרניו אלא ירחצנו במים, עד כאן, וכתב עליו, ועיין לקמן סימן ש\"ב סעיף ז', עד כאן, ויש לומר דשם מתירין לגרר טיט בציפורן. ואני תמה שעיינתי בתשב\"ץ שם ולא מצאתי כדבריו, גם מתשב\"ץ שהבאתי מבואר דאין איסור משום טיט אלא שלא יגרור את הציפורן:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 161:5"
+        },
+        "6": {
+          "he": "[ו] [לבוש] דבר שדרכו וכו'. כתבו שיירי כנסת הגדולה ועולת תמיד בשם רש\"ל אם שאר בריות מקפידין והוא אינו מקפיד אמרינן בטלה דעתו אצל כל אדם לחומרא, עד כאן, וכן מבואר בשולחן ערוך ליו\"ד ריש סימן קצ\"ח ועיין שם מדינים אלו ויתבארו שם. ופשוט בצבע כיון שדרך האומנות בכך לא אמרינן בטלה דעתו לשאר אדם אלא לרוב אומנים:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 161:6"
+        },
+        "7": {
+          "he": "[ז] [לבוש] יבשה וכו'. כתב מלבושי יום טוב ויראה דאף ביבש אינו חוצץ בסופר דמלאכתו בכך, וכן כתב לחם חמודות, ומעשה בדרושת מהר\"ש שנמצא דיו יבש ופסק דאין לחוש אם אין עב ויבש ואם ירצה יטול שנית בלא ברכה. כתב מגן אברהם אם הוא טבח ומוכר שומן ויש דם ושומן על ידו אינו חוצץ:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 161:7"
+        },
+        "8": {
+          "he": "[ח] לח אינו חוצץ וכו'. צריך עיון דביו\"ד שם סעיף י\"ד כתב רמ\"א דאם מקפיד עליו חוצץ ואם יש לחלק בזה בין טבילה לנטילה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 161:8"
+        },
+        "9": {
+          "he": "[ט] אינו מקפיד וכו'. זה לשון ספר התרומה סימן ע\"ט גלדי מכה שהיה יבישה ואינו מקפיד או גלד לח שמצטער עליו אינו חוצץ דבנטילת ידים לא החמירו, עד כאן. משמע כשמצטער אף כשמקפיד אין חוצץ, וכן משמע בים של שלמה סימן כ\"א ושיירי כנסת הגדולה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 161:9"
+        },
+        "10": {
+          "he": "[י] ואפילו הוא רפוי וכו'. רבים תמהו בזה דביו\"ד שם (שכ\"ג) [סעיף כ\"ג] פסקו אפילו בטבילה דרפוי אינם חוצצים. ולעניות דעתי דודאי הכא רק לכתחילה קאמר דמחמירין ולכן בטבילה לא הוצרכו להחמיר לכתחילה בזה דכבר כתב רמ\"א בריש סימן קצ\"ח שם דלכתחילה לא תטבול אפילו בדברים שאינם חוצצין. כתב בים של שלמה סימן כ\"א האידנא נוהגין להסיר אפילו טבעת רפוי בטבילה משום דאין בקי אנן אם הוא רפוי אבל בנטילה אין להחמיר כל כך, גם האנשים אין צריכין כלל להסיר הטבעת לנטילה ממה נפשך אם רפוי אינו חוצץ דליכא לשינוי דקפיד עליו כי אין דרכו של איש לקפוד, אכן בטבעת שיש בו אבן טוב מקפידין עליו וחוצץ אם אינו רפוי עד כאן לשונו. וכתב עליו דמשק אליעזר דף ש\"ך זה לשונו להיות אם אפילו רפוי, גם לעיל מה שכתב גם האנשים אין צריך כלל וכו', ממה נפשך וכו', בודאי חסר מן הדפוס דאין כאן אלא ממה נפשך מצד אחד ולא בדרך ממה נפשך משני צדדין עד כאן לשונו, ונמשכו אחר הגהתו שיירי כנסת הגדולה ועולת תמיד כדעת מהרש\"ל לפסק הלכה דטבעת שיש בו אבן טוב אפילו רפוי פסול עיין שם. ובמחילה לא ירדו לעומק הבנת דברי רש\"ל דהם נכונים בהווייתן והכי קאמר והאנשים אין צריכים כלל להסיר, רצה לומר בין ברפוי בין באינו רפוי, ועל זה כתב ממה נפשך אם רפוי אינו חוצץ אפילו באשה דלא מחמירין בנטילה לומר דאין אנו בקיאין איזה רפוי כמו שכתב רש\"ל קודם זה, ומה שכתב דליכא לשנויי דקפיד וכו' הוא הממה נפשך מצד שני ורצה לומר ואם הוא אינה רפוי דאז אסור באשה משום שמקפדת מכל מקום מותר באיש משום שאין דרכו להקפיד, ולזה כתב אם בטבעת שיש בו אבן טוב מקפידין עליו וחוצץ אם אינו רפוי ורצה לומר דכיון שהאיש מקפיד עליו דינו כמו כל טבעת של נשים דאסורין באין רפוי וברפוי שרי, ולפי זה דברי רש\"ל עולין כהוגן בלא תוספת וחסרון וגרעון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 161:10"
+        },
+        "11": {
+          "he": "[יא] של זרוע. אינו בלשון זרוע שהזכיר לעיל ריש סימן כ\"ז דלשם פירוש זרוע הוא העצם שבין הכתף וכאן פירוש זרוע הוא הקנה המחובר ליד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 161:11"
+        },
+        "12": {
+          "he": "[יב] ויש אומרים עד מקום חיבור וכו'. וכן הסכים רש\"ל סימן כ\"א וסיים דוקא כשאינו מטונף, אבל מטונף או בבוקר צריך ליטול כל היד והמחמיר אפילו לאכילה ואינו מטונף תבוא עליו ברכה, עד כאן. והט\"ז הפריז על המדה וכתב דיש חשש בחומרא זאת, מפני הרואים שיסברו שהדין כן ויוציאו לעז על מי שאין עושין כן עיין שם. ולא נהירא דודאי יש רשות לכל אדם להחמיר בפלוגתא כיון דלא איתמר בהדיא הלכה כדברי מי, ולא דמי למוציא שכתב בסימן קס\"ז סעיף ב', גם יש חילוק בין דבר אמירה למעשה. גם מה שכתב דספיקא דרבנן לקולא תמוה הא בסימן ק\"ס סעיף י' דמכל מקום אם יש לו מים אומרים לו קום וטול ידיך מספק, ועוד קשה הא כתב הוא גופיה בסימן קס\"ז דהיכא דלא משמעינן חידוש בכולי עלמא, ואם כן לדידיה דספק דרבנן לקולא לאו חידוש הוא:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 161:12"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "שלא כנגד הבשר.  פי' במקום שהצפורן עודף על הבשר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 161:1"
+        },
+        "2": {
+          "he": "ורטיה שעל הבשר.  פי' שאין לו מכה רק מיחוש בעלמא ויוכל להסיר הרטיה כשירצה זה תלוי בקפידא אבל אם יש לו מכה וא\"א לו להסיר אז א\"צ כלל ליטול במקום הרטייה כמ\"ש ס\"ס קס\"ב. א\"נ דגם הכא מיירי ביש לו מכה אלא דהוא אינו נזהר שלא יחזרו המים דעל הרטיה על היד כמ\"ש שם וע\"כ  הוה חציצה מש\"ה כ' כאן דאם אינו מקפיד לא הוה חציצה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 161:2"
+        },
+        "3": {
+          "he": "ומש\"ה לא נהגו לנקר כו'.  בי\"ד סי' קצ\"ח ס\"ק י\"ט כתבתי טעם אחר למה נהגו להקל בנט\"י:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 161:3"
+        },
+        "4": {
+          "he": "אבל יש להחמיר כו'.  רש\"ל כ' להקל כי אין דרכו של איש להקפיד אכן בטבעת שיש בו אבן ודאי מקפיד עליו וחוצץ  אם אינו רפוי עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 161:4"
+        },
+        "5": {
+          "he": "הקנה של זרוע.  פי' תכף אח' השלמת היד מקרי קנה של זרוע וצריך נטילה עד התחלת אותו הקנה דהיינו עד השלמת היד כן הוא לרי\"ף:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 161:5"
+        },
+        "6": {
+          "he": "וראוי לנהוג כו'.  כתב ב\"י ונכון להתנות ולומר שאינו מקבל עליו דבר זה בתורת חובה דשמא לא יזדמן לו פעם א' כ\"כ מים לא יצטרך להחמיר כמנהגו וכן ראוי להתנות בכל דבר שאדם רוצה להחמיר על עצמו עכ\"ל ונראה דיש חשש בחומרא זאת מפני הרואים שיסברו שעיקר הדין כן הוא ולפעמים יראו אחרים שאין נוטלין אלא כפי הדין ויאמרו עליהם שאוכלין בלא נטילה כראוי ויהיה כב' תורות ח\"ו בעיניהם ותו דיוציאו לעז עליהם כדאיתא פ\"ק דגיטין לענין שאין לעשות חומרא בגט וכן איתא באשר\"י פ\"ק דפסחים בענין ברכה דעל ביעור חמץ שי\"ל כן אע\"ג דטפי עדיף לומר לבער לפי שצריך להודיע שג\"ז שפיר ולא יטעו לומר אם בירך כך לא יצא הבאתיו לקמן סי' קס\"ז ס\"ב. ע\"כ נ\"ל שגם הש\"ע לא כתב כן אלא אם הוא בפ\"ע לא בפני רבים ולעד\"נ דהמיקל בכ\"מ בזה לא הפסיד כיון שקי\"ל הלכה כדברי המיקל בנט\"י כדאיתא סימן ק\"ס סי\"א ואין זה בכלל אנא משאי מלא חפני מיא כו' דשם מיירי במקום נטילה משא\"כ שלא במקום נטילה כנלע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 161:6"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "שלא כנגד הבשר. כגון שהצפורן גדול ועולה למעלה מבשר האצבע וצואה שם דמאיס:",
+          "en": "",
+          "ref": "Magen Avraham 161:1"
+        },
+        "2": {
+          "he": "וטיט היון. פי' טיט הבורות וטיט היוצרים שדבוקים מאד:",
+          "en": "",
+          "ref": "Magen Avraham 161:2"
+        },
+        "3": {
+          "he": "במיעוטו. אבל אם רוב היד מכוסה אף על פי שאינו מקפיד חוצץ (ב\"י סמ\"ק):",
+          "en": "",
+          "ref": "Magen Avraham 161:3"
+        },
+        "4": {
+          "he": "אין לחוש. וא\"ת הא כ' בסי' קס\"ב ס\"ט דאם נמצא דבר על היד דטמא וצ\"ל דשאני הכא כיון שהוא דבוק ביד בטל לגבי יד א\"נ דמיירי הכא כשנטל מרביעית:",
+          "en": "",
+          "ref": "Magen Avraham 161:4"
+        },
+        "5": {
+          "he": "הטיט שתחת. פי' אף ע\"פ שטיט חוצץ אפי' כנגד הבשר אין מקפידין ע\"ז אבל שלא כנגד הבשר בודאי רוב בני אדם מקפידין אפי' בצואה וחוצץ אף על פי שהוא אינו מקפיד וכמ\"ש בי\"ד  סי' קצ\"ח: בשבת אסור לגרר הטיט שתחת הצפורן בצפרניו אלא ירחצנו במים (תשב\"ץ סי' קכ\"ב) עסי' ש\"ב ס\"ז:",
+          "en": "",
+          "ref": "Magen Avraham 161:5"
+        },
+        "6": {
+          "he": "מקפיד הוא. משמע אף על פי שהרוב אין מקפידין ובס' פני יצחק כת' דמאחר שהרשב\"א מסופק אזלי' לקולא ואינו חוצץ:",
+          "en": "",
+          "ref": "Magen Avraham 161:6"
+        },
+        "7": {
+          "he": "היה אחד צבע. ואם הוא טבח ומוכר שומן ויש דם ושומן על ידו מבעיא ספ\"א דזבחים ולא איפשטא ונ\"ל דבטבילת נדה אזלי' לחומרא ובנט\"י לקולא עיין ברמב\"ם פ\"ג ממקואות ונ\"ל דה\"ה בכל הדברים החוצצין:",
+          "en": "",
+          "ref": "Magen Avraham 161:7"
+        },
+        "8": {
+          "he": "שהדיו. ומי שכותב תדיר אין הדיו חוצץ:",
+          "en": "",
+          "ref": "Magen Avraham 161:8"
+        },
+        "9": {
+          "he": "גלדי מכה. ואם מצטער בנטילתו אינו חוצץ (ב\"י סמ\"ג וסמ\"ק יש\"ש):",
+          "en": "",
+          "ref": "Magen Avraham 161:9"
+        },
+        "10": {
+          "he": "ואפילו הוא רפוי. ובדיעבד עלת' לו נטיל' ברפוי כמ\"ש בי\"ד סי' קצ\"ח סכ\"ג ובלבד שנטל מרביעי' כמ\"ש ס\"א:",
+          "en": "",
+          "ref": "Magen Avraham 161:10"
+        },
+        "11": {
+          "he": "בשעת מלאכה. היינו בשעת לישה ולכן כ' ביש\"ש פכ\"ה סי' כ\"א דבאיש אינו חוצץ שאין מסיר אותו בשעת מלאכתו אא\"כ יש בו אבן טוב:",
+          "en": "",
+          "ref": "Magen Avraham 161:11"
+        },
+        "12": {
+          "he": "לכף היד. וכ\"כ הזוהר פ' עקב ע' תקכ\"א וברקנ\"ט שם:",
+          "en": "",
+          "ref": "Magen Avraham 161:12"
+        },
+        "13": {
+          "he": "כדעת הראשון. ויתנה בתחלה שלא יהא חובה עליו שמא פעם א' לא יהא לו מים כ\"כ עבי\"ד סי' רי\"ד ואם היד מלוכלך לכ\"ע צריך נטיל':",
+          "en": "",
+          "ref": "Magen Avraham 161:13"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "הבשר.  פי' במקום שהצפורן עודף על הבשר:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 161:1"
+        },
+        "2": {
+          "he": "בשרו.  פי' שאין לו מכה רק מיחוש בעלמא ויכול להסיר הרטיה כשירצה זה תלוי בקפידא אבל אם יש לו מכה וא\"א לו להסיר אז א\"צ כלל ליטול מקום הרטיה כמ\"ש ס\"ס קס\"ב ט\"ז ועיין מ\"א קס\"ב ס\"ק י\"ח. ועיין הלק\"ט ח\"ב סי' קל\"ג שכתב שאם היתה מכה על גב ידו וכרך עליו סמרטוט ונטל כדינו ובתוך הסעודה נפל הסמרטוט שאין צריך עוד נטילה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 161:2"
+        },
+        "3": {
+          "he": "מקפיד.  ואם רוב היד מכוסה אעפ\"י שאינו מקפיד חוצץ. ב\"י מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 161:3"
+        },
+        "4": {
+          "he": "לחוש.  וא\"ת הא בסי' קס\"ב ס\"ט כתב דאם נמצא דבר על היד דטמא וצ\"ל דהכא מיירי כשנטל מרביעית:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 161:4"
+        },
+        "5": {
+          "he": "לנטילה.  כתב המ\"א אבל שלא כנגד הבשר בודאי רוב בני אדם מקפידין וחוצץ אע\"פ שהוא אינו מקפיד. בשבת אסור לגרר הטיט שתחת הצפורן בצפרניו אלא ירחצנו במים. תשב\"ץ מ\"א וע\"ל סי' ש\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 161:5"
+        },
+        "6": {
+          "he": "הוא.  ובספר בני יצחק מיקל. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 161:6"
+        },
+        "7": {
+          "he": "היבש.  ומי שכותב תדיר אין הדיו חוצץ ל\"ח מ\"א. אם הוא טבח ומוכר שומן ויש דם ושומן על ידו אינו חוצץ בנט\"י. מוהל שנתייבש דם המילה בידיו אינו חוצץ סלק\"ט ח\"א סי' כ' ועיין יד אהרן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 161:7"
+        },
+        "8": {
+          "he": "רפוי.  ורש\"ל כתב דאין להחמיר כלל בנט\"י באנשים אם לא שיש בו אבן טוב מ\"א ט\"ז וכ\"כ בס' גן המלך סי' (קכ\"ב) [קכ\"ג] ועיין בס' מעיל שמואל סי' י\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 161:8"
+        },
+        "9": {
+          "he": "זרוע.  פי' תיכף אחר השלמת היד מקרי קנה של זרוע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 161:9"
+        },
+        "10": {
+          "he": "הראשון.  ויתנה בתחלה שלא יהא חובה עליו שמא פעם אחד לא יהא לו מים כ\"כ וכן ראוי להתנות בכל דבר שאדם רוצה להחמיר על עצמו ב\"י ואם היד מלוכלך לכ\"ע צריך כל היד נטילה ועיין ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 161:10"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) ליזהר - אקדים לזה הקדמה קצרה והוא דלענין טבילת הגוף קי\"ל דצריך ליזהר שלא יהיה חציצה והיינו שלא יהיה שום דבר מודבק על הגוף בעת הטבילה דעי\"ז לא יהיה אותו המקום ראוי לביאת מים ואם היה חציצה לא עלתה לה טבילה ואף דמן התורה לא הוי חציצה אלא א\"כ היה החציצה על רוב בשר הגוף מדרבנן אסור אפילו אם היה החציצה על מיעוט הגוף גזירה אטו רובו אך לא אסרו חכמים אא\"כ כשדרך בני אדם להקפיד עליו שישאר כך אף שעתה בעת הטבילה אין מקפיד ע\"ז אבל דבר שאין דרך להקפיד אינו חוצץ אא\"כ היה מכוסה רוב הגוף דאז אסור מדרבנן אפילו כשמודבק עליו דבר שאין דרך להקפיד עליו. ולענין נט\"י ג\"כ אף שהוא מדרבנן כל דתקון רבנן כעין דאורייתא תקון וע\"כ אם יש חציצה על רוב היד דהיינו על רוב מקום הנטילה אסור אפילו אם אין דרך בני אדם להקפיד עליו ואם היה רק על מיעוט היד אינו אסור אא\"כ הדרך להקפיד ע\"ז ועתה נבאר דברי השו\"ע. מש\"כ ליזהר מחציצה היינו שיסיר מהידים קודם הנטילה כל דבר שדרך בני אדם להקפיד עליו להסירו ואם נטל ידיו ואח\"כ נמצא עליו דבר חוצץ בין על מיעוט היד בין על רוב היד תלינן להקל שנתהוה אח\"כ אך לכתחלה ראוי שיעיין קודם נטילה אם אין עליו דבר חוצץ:",
+          "en": "(1) Must be careful - It is necessary to provide a brief introduction: As regarding the immersion of the body (in a mikvah) that should be careful not to have any interposition, that there should be no substance adhering to the body at the time of immersion. If there is, then that place is not considered suitable for immersion. If there is any chatzitzah, then immersion is not valid. *** And even though Biblically it is not considered a chatzitzah unless the interposition is on most of the body, Rabbinically it is forbidden even if the interposition was on a minority (&lt;50%) of the body.  It is a decree whether it is on the majority of the body or not. *** But, the Chachamim did not forbid unless it is the way of (most) people to usually care about if it stays that way, regardless that now at the time of immersion the individual does not care about it (i.e.  it bothers you enough that you eventually want to remove it.) *** Something that is not usually cared about is not a barrier unless it covers most of the body.  Then it is forbidden by rabbinic law even if something that is not usually cared about sticks (to the body). *** Regarding netilas yadayim (hand washing) even though it is a Rabbinic decree, any Rabbinic decree that is similar to a Torah decree is considered as if it were a Torah decree. Therefore, if there is a chatzitza (barrier) on most of the hand, meaning on most of the place where the water touches when washing hands, it is forbidden even if people do not care about it. However, if there is only a chatzitza on a minority of the hand, it is not forbidden. *** Nevertheless, the custom is to be careful about this.  *** And now we will explain the words of the Shulchan Aruch: one should be careful to remove anything that is stuck to the hands before washing that people are usually concerned about removing. *** If one washed his hands and afterwards found something was stuck to them, whether it covered a minority or majority of his hand(s), it should be considered a leniency that it is permissible after the fact. However, ideally one should check before washing to see if there is anything that is a chatzitzah.",
+          "ref": "Mishnah Berurah 161:1"
+        },
+        "2": {
+          "he": "(ב) צואה שתחת הציפורן וכו' - היינו זוהמת הצפרנים שדרך להקבץ שם אבל צואה ממש אפילו כנגד הבשר מסתברא שלא חשיב נטילה אם מצאו שנשאר שם:",
+          "en": "",
+          "ref": "Mishnah Berurah 161:2"
+        },
+        "3": {
+          "he": "(ג) שלא כנגד הבשר - כגון אם הצפורן גדול ועודף על בשר האצבע והצואה שיש שם תחת עודף זה דרך רוב בני אדם להקפיד לנקותם משום מאוס משום הכי חוצץ וצריך להסיר אותה הזוהמא קודם הנטילה ובבצק דרך בני אדם להקפיד אפילו נגד הבשר ועיין ביו\"ד קצ\"ח דקחשיב שם עוד כמה דברים שחוצצים אלא דפה חשב דברים המצויים וכתב הא\"ר בשם ס\"ח דנכון מטעם זה שלא יגדל אדם את צפרניו:",
+          "en": "",
+          "ref": "Mishnah Berurah 161:3"
+        },
+        "4": {
+          "he": "(ד) ורטיה - הוא מה שנותנין חלב או דונג או שאר דבר משיחה על סמרטוט להניח על הכאב [ערוך]:",
+          "en": "",
+          "ref": "Mishnah Berurah 161:4"
+        },
+        "5": {
+          "he": "(ה) שעל בשרו - ואף דמבואר לקמן בסימן קס\"ב ס\"י דא\"צ ליטול כלל על מקום הרטיה ומטעם דכיון שאינו יכול ליטול באותו מקום הוי כמו שנקטעה אצבעו דא\"צ ליטול רק שאר מקום היד התם הלא מיירי ביש לו מכה ולכך לא חיישינן שיסיר מקום הרטיה ויגע בבשרו להאוכלין דכאיב ליה אבל הכא מיירי שאין לו מכה רק מיחוש בעלמא במקום הנטילה ואין לו צער בנטילתו ויוכל להסיר הרטיה מתי שירצה א\"כ יש לחוש שיסיר הרטיה בתוך הסעודה ויגע בבשרו להאוכלין ולכך צריך להסיר הרטיה וליטול ידיו דאם יטול כשהרטיה על ידו יהיה חציצה:",
+          "en": "(5) On his flesh - Even though it is explained later in 162:2 that one does not need to wash at all at the place of the bandage.  The reason is that since he cannot wash in that place, it is like his finger was cut off and he only needs to wash the rest of his hand.  There is not stated (the fact is) that he has an injury, and we are not concerned that he will remove the bandage and he will touch his flesh to the food since it will be painful to him. *** But now it is stated (the fact is) that he has no wound, only a feeling in the place of washing, and he has no pain in his washing and can remove the bandage whenever he wants. Therefore, one has to be concerned that he will remove the bandage during the meal and touch his (impure hands) flesh to the food. Therefore, it is necessary to remove the bandage. And to wash his hands, if he washes when the bandage is on his hand, it will be a chatzitzah.",
+          "ref": "Mishnah Berurah 161:5"
+        },
+        "6": {
+          "he": "(ו) וטיט היון וכו' - פי' טיט הבורות דהוי כמו טיט היוצרים שהם נדבקים מאד ומונעים המים מלבוא תחתיהם אפילו כשהם לחים וה\"ה שאר מיני טיט כשהוא יבש ונדבק בבשר חוצצין בכל זה בין ע\"ג היד בין תחת הצפורן אפילו כנגד הבשר [אם לא שהיה דבר מועט כ\"כ שאין דרך בני אדם להקפיד ע\"ז דאז אין חוצצין בכל מקום שימצאו וה\"ה בצואה ובצק כה\"ג כמו שכתבתי בבה\"ל] אך היכא שמלאכתו בטיט כגון העושה לבנים או קדרן וכדומה בודאי אינו חוצץ בכל מקום שימצאו כיון שאומנתו בכך ואינו מקפיד בזה וכדלקמיה בס\"ב אם לא שהיה רוב מקום הנטילה מכוסה בזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 161:6"
+        },
+        "7": {
+          "he": "(ז) אבל וכו' - דין זה קאי על ריש הסעיף בעצם דין חציצה דאם נמצא שום דבר חוצץ על מיעוט היד ואין מקפיד אין לחוש ודעת הטור דאף באלו שזכר המחבר מקודם דהוא מדברים שדרכן של רוב בני אדם להקפיד מ\"מ אם הוא אינו מקפיד אינו חוצץ אבל דעת המ\"א ושארי אחרונים דבכל אלו שזכר המחבר לא אזלינן בתריה כ\"א בתר רוב בני אדם:",
+          "en": "(7) But (a small amount that one is not concerned about is not a problem) etc. - This law applies to the beginning of the section, which is actually the law of a chatzitzah. For if it is found that there is anything interposing on a minority of the hand and one does not care, there is no concern; ***And according to the opinion of  the Tur (that even those that the author mentioned earlier) regarding the things (on the body or hands) in which it is the way for most people to be concerned or bothered by, but nevertheless if the individual is not concerned, it is not considered a chatzitzah. *** But the opinion of the Magen Avraham and other Achronim (in all those that the author mentioned), we do not follow them (the individual who happens to not be bothered) when for the most part the majority of people (are bothered by the presence of the interposition).",
+          "ref": "Mishnah Berurah 161:7"
+        },
+        "8": {
+          "he": "(ח) במיעוטו שאינו מקפיד - ואם רוב היד מכוסה דהיינו רוב מקום הנטילה אע\"פ שאין מקפיד חוצץ:",
+          "en": "",
+          "ref": "Mishnah Berurah 161:8"
+        },
+        "9": {
+          "he": "(ט) הטיט - המ\"א פירש דקאי רק על שכנגד הבשר ואפילו טיט היון והיוצרים משום דבאלו מדינות אין מקפידין ע\"ז והוי כמיעוטו שאין מקפיד אבל שלא כנגד הבשר בודאי רוב בני אדם מקפידים אפילו בצואה וחוצץ אף שהוא אינו מקפיד וכדבריו העתיקו הח\"א והדה\"ח ויש שמקילין בצואה וסתם טיט:",
+          "en": "",
+          "ref": "Mishnah Berurah 161:9"
+        },
+        "10": {
+          "he": "(י) מקפיד הוא - משמע אע\"פ שהרוב אינן מקפידין כיון דהוא מקפיד אזלינן בתריה וחוצץ ומ\"מ נראה דהיינו דוקא בטיט היוצרים או בטיט יבש אבל בטיט לח או בעפר שתחת הצפורן כנגד הבשר שאינו נדבק כ\"כ אין להחמיר ובפרט אם כל היום אין דרכו להקפיד רק כשמגיע לנטילה:",
+          "en": "(10) But if he was particular – Meaning, although most people are not bothered, since he is bothered, we follow him and consider this a chatzitzah. Nevertheless, it seems that this is only with clay (i.e. mud that forms) or dry mud. But with wet mud or dirt under the nail that does not stick so much, one should not be strict, especially if all day he does not care except when it comes to washing.",
+          "ref": "Mishnah Berurah 161:10"
+        },
+        "11": {
+          "he": "(יא) כל דבר וכו' - היינו אם הוא במיעוטו דוקא אע\"ג דכבר זכר זה המחבר בסוף סעיף הקודם כפלו כאן משום דכל הסעיף זה הוא דברי הרשב\"א ממש כמובא בב\"י ורצה להעתיקו בלשונו:",
+          "en": "",
+          "ref": "Mishnah Berurah 161:11"
+        },
+        "12": {
+          "he": "(יב) והיו ידיו צבועות - ר\"ל מקצת ממקום הנטילה דאלו היה רובו הא קי\"ל דאפילו אינו מקפיד חוצץ אכן בסיפא לענין נשים שדרכן לצבוע ידיהן לנוי שם אפילו כל ידיהן צבועות נמי כיון שמתכוונות לעשות כן ורוצות בזה הרי הוא כגופן ממש ולא חייצי:",
+          "en": "",
+          "ref": "Mishnah Berurah 161:12"
+        },
+        "13": {
+          "he": "(יג) אין הצבע וכו' - וכן אם הוא טבח ויש דם על ידיו אינו חוצץ וכן אם היה מוכר שומן ויש שומן על ידיו אינו חוצץ אבל אחר שהיה ממשות דברים אלו על ידיו חוצץ [אחרונים] ואם היה טבח ומוכר שומן ויש דם ושומן על ידיו ג\"כ מצדד המ\"א להקל דאינו חוצץ:",
+          "en": "",
+          "ref": "Mishnah Berurah 161:13"
+        },
+        "14": {
+          "he": "(יד) שהדיו וכו' והלח אינו חוצץ - ור\"ל כמו התם גבי דיו שהלח אינו חוצץ מטעם שנמחה במים ומי הנטילה מגיעין לגופו ה\"ה לצבעים שהם כמו דיו דוקא שממשו עליו הא אם אין בו ממש רק חזותא של צבע בעלמא אין שייך חציצה וה\"ה שחרורית שאין בה ממש אינה חוצצת [אחרונים]. ומי שכותב תדיר אפילו יש ממשות של דיו יבש על אצבעותיו אינו חוצץ דהרי אין דרכו להקפיד ע\"ז [אחרונים]:",
+          "en": "(14) Dry ink is an interposition.  Wet ink is not. – This means to say: Ink that is wet is not considered an interposition for the reason that the water soaks or washes (off the ink) and the water used for netilas yadayim reaches (touches) the body.  This is also the rule for paints or dyes that are like ink that only if they have substance.  If there is no substance in it but only the appearance of a color in general, there is no concern of chatzitzah. ** And whoever writes frequently, even if there is dry ink on his fingers, is not an interposition because there is no way for him to be careful about it.",
+          "ref": "Mishnah Berurah 161:14"
+        },
+        "15": {
+          "he": "(טו) גלדי מכה - היינו ריר היוצא מן המכה ומתיבש ונעשה גליד [רמב\"ם] וי\"מ דהוא שחין שנתרפא ועלה עור למעלה ויש עליו גלדי:",
+          "en": "",
+          "ref": "Mishnah Berurah 161:15"
+        },
+        "16": {
+          "he": "(טז) אם אינו מקפיד - להסירו מעל ידיו מפני שהוא מצטער בנטילתו [כן מסיק במאמר מרדכי עי\"ש ועיין בא\"ר ובש\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 161:16"
+        },
+        "17": {
+          "he": "(יז) להסיר הטבעת - משום חציצה:",
+          "en": "",
+          "ref": "Mishnah Berurah 161:17"
+        },
+        "18": {
+          "he": "(יח) ואפילו וכו' - ר\"ל אף שהמים באים להאצבע מ\"מ יש להסיר משום שאין אנו בקיאין איזה מקרי רפוי וכדלקמיה ובדיעבד עלתה לו נטילה ברפוי והוא ששפך עליה רביעית בבת אחת כמ\"ש לקמן בסימן קס\"ב ס\"ט:",
+          "en": "",
+          "ref": "Mishnah Berurah 161:18"
+        },
+        "19": {
+          "he": "(יט) בשעה וכו' - ומסקי האחרונים דדוקא אשה שדרכה להקפיד להסיר הטבעת בשעת מלאכה [היינו בשעת לישה] אבל איש שאין דרכו להקפיד להסירו בשעת מלאכה כי אין דרכו ללוש אין צריך להסיר אותו בשעת נטילה אפילו אם אינו רפוי רק אם יש בו אבן טוב שגם איש דרכו להקפיד להסיר בשעת נטילה שלא יתלכלך מהמים אז יש לחוש להסירו משום חציצה:",
+          "en": "(19) At the time (when doing work) - And the Achronim conclude that only a woman who is accustomed to be concerned to remove the ring during work (that is, during kneading) (i.e. should be careful to remove it at the time of netilas yadayim). But a man who is not accustomed to be concerned to remove it during work, because it is not his custom to do the kneading, he does not need to remove it at the time of washing even if it is not loose.  Except if it has a precious stone, for also a man will be concerned to remove it at the time of washing so that it does not become dirty in the water.  Then it is appropriate to say he removes his ring because it is a chatzitzah.",
+          "ref": "Mishnah Berurah 161:19"
+        },
+        "20": {
+          "he": "(כ) עד הקנה וכו' - ר\"ל עד סוף פיסת היד שהוא מקום חיבור היד והקנה:",
+          "en": "",
+          "ref": "Mishnah Berurah 161:20"
+        },
+        "21": {
+          "he": "(כא) וראוי לנהוג וכו' - ר\"ל אף דמדינא מי שירצה להקל כדעה שניה אין מוחין בידו דכל ספק בנט\"י לקולא וכדלעיל בסימן ק\"ס סעיף י\"א מ\"מ לכתחלה ראוי להחמיר כדעה הראשונה וכן נוהגין העולם ובספר עצי אלמוגים הוכיח שהרבה גדולי ראשונים סוברים כן ויש ליזהר מלהקל בזה עי\"ש ועיין בביאור הלכה:",
+          "en": "",
+          "ref": "Mishnah Berurah 161:21"
+        },
+        "22": {
+          "he": "(כב) כדעת הראשון - ומשמע דבשעת הדחק שיש לו מים בצמצום יוכל לסמוך על דעת המקילין. וכתבו האחרונים דאם פיסת ידו מלוכלך מזיעה וכה\"ג לכו\"ע צריך ליטול עד סוף פיסת היד:",
+          "en": "",
+          "ref": "Mishnah Berurah 161:22"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

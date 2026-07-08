@@ -1,0 +1,190 @@
+{
+  "chelek": "OC",
+  "siman": 45,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-07T23:37:30.340Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין תפילין בבית הקברות ובית המרחץ. ובו ב סעיפים:אסור ליכנס בבית הקברו' או בתוך ארבע אמות של מת ותפילין בראשו משום לועג לרש ואם הם מכוסים מותר:",
+      "en": "The laws of tefillin in a cemetery and in a bathhouse: containing two subsections. It is forbidden to enter a cemetery, or within four cubits of a corpse, with tefillin on one's head, because of mocking the poor (lo'eg larash). And if they [the tefillin] are covered, this is permitted.",
+      "ref": "Shulchan Arukh, Orach Chayim 45:1"
+    },
+    {
+      "seif": 2,
+      "he": "בבית המרחץ בבית החיצון שכל העומדים בו הם לבושים יכולים להניח שם תפילין לכתחלה ובבית האמצעי שמקצת בני אדם עומדים שם לבושים ומקצתן ערומים אינו יכול להניחם לכתחלה ואם היו בראשו א\"צ לחלצן ובבית הפנימי שכל העומדים שם ערומים אפילו היו בראשו צריך לחלצן:",
+      "en": "In a bathhouse: in the outermost section, where everyone is clothed, it is permitted from the outset to put on tefillin. In the middle section, where some are clothed and some are naked, it is not permitted from the outset to put tefillin on, but if one was wearing them on one's head, one does not need to remove them. In the innermost section, where everyone is naked, even if one already had tefillin on one's head one needs to remove them.",
+      "ref": "Shulchan Arukh, Orach Chayim 45:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברכות י\"ח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 45:1"
+        },
+        "2": {
+          "he": "ב\"י וכן מצא בתשובת רשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 45:2"
+        },
+        "3": {
+          "he": "שבת י'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 45:3"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "בבית הקברות עמ״א סובר תוך ד״א של קברות אסור וכ״מ בי״ד סי׳ שס״ז ס״ג לא יהלך בבית הקברות או תוך ד״א של מת או קבר ש״מ דקברות תוך ד״א דקברות אסור ולפ״ז יש לומר תוך הקברות אפי׳ אין קבר סביבו ד״א הרחקה וגדר הוא הא תוך ד׳א של בית הקברות אין כאן גדר והמ״א סובר הא דאמרו בברכות י״ח א׳ תוך ד״א אסור אבית הקברות קאי לא אקבר ומ״מ א״י אי בית הקברות היינו קרקע שהוקצה לקברות אע״פ שרחוק הרבה מקברים אסור תוך ד״א של קרקע א״כ איך אומרים קדיש בביה״ק עי״ד שע״ו ש״ך אות ג׳. ואין לומר כל שיש קברים בקרקע אסור הוא להלוך תוך ד״א רחוק בכל השטח ההוא ולט״ז דוקא תוך השטח אסור זה דוחק ומ״ש שכ״ה כוונת הגמרא ברכות י״ח א׳ וב״י סי׳ כ״ג תוך ד״א של בית הקברות לא תוך ד״א של קבר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 45:1"
+        },
+        "2": {
+          "he": "בבית המרחץ עמ״א העלה במקוה נשים מברכות בתוכה ואסור לכנוס בתפילין וכתבי הקודש במקוה כשיש אדם ערום שם אבל כשאין אדם שרי לכנוס בתפילין שם. והנה במקוה שיש בו מים חמין ששופכין לתוכה י״ל דיש בו הבלא כמ״ש הכ״מ בשם הר״ר מנוח וי״ל דלא נפיש הבלא וזוהמא כ״כ כמו במרחץ. ודע שאני נסתפקתי במקוה שעושין תוך המרחץ ממש אע״פ שבנוי הוא וחלוק רשות לעצמה מ״מ נפיש הבלא גם שם שהבית יתמלא עשן וזוהמא א״כ איך מברכין שם הנשים ברכה וכמרחץ דיינינן לה דהמקוה עומד תוך המרחץ ממש וכאמור. ויש לנו אריכות דברים בסוגיין דשבת י׳ א׳ ואי״ה בסימן פ״ד אבאר לענין דינא וכאן אין להאריך ובחדושינו שבת הארכנו בביאור הסוגיא בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 45:2"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "או עט״ז. שלש מחלוקת בדבר הב״ח סובר דבקברות נמי תוך ד״א לקבר הוא דאסור הא חוץ לד״א של קבר אע״פ שעומד באמצע בית הקברות שרי כל שאין סביבו קבר תוך ד״א ותוך ד״א של מת רבותא קאמר דה״א מת שמוציאין לקבורה אפי׳ חוץ לד״א אסור וט״ז פירש מדינא אין איסור כי אם תוך ד״א לקבר והטור החמיר משום גדר חוץ לד״א של קבר כל שעומד בבית הקברות אבל המ״א פי׳ דתוךך ד״א של בית הקברות נמי אסור וכ״מ בי״ד כמו שהראה מקום לזה ולדבריו קשה לערבינהו ולתנינהו אסור לכנוס לתוך ד״א של בית הקברות או של מת. גם קשה להט״ז מנא ליה להטור גדר זה כיון דבגמ׳ דוקא תוך ד״א של קבר הא חוץ לד״א של קבר שרי:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 45:1"
+        },
+        "2": {
+          "he": "ואם עט״ז הש״י הרצועות סביב האצבע צריכין להיות מכוסה דאל״כ איכא לועג לרש. ועיין א״ר אות א׳ מזה יש ללמוד דמותר לכנוס לבה״כ בשל יד יע״ש היינו מ״ש בסימן מ״ג ס״ה בהג״ה דעת רבינו האי דכניסה אסור הא של יד דמכוסה שרי והיינו נמי שרצועות סביב אצבע ג״כ מכוסה דרצועות ג״כ קדושה דיש בו יו״ד אבל לפנות ודאי אסור בשל יד וגם להשתין בקבוע כדמוכח בסימן מ״ד בזרועו דאסור לישן עראי וקבע שמא יפיח בהן כ״ש לפנות וכדכתיבנא בסימן מ״ד במגן אברהם שם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 45:2"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] לועג וכו'. אבל בשל זרוע מותר דמכוסה הוא. מטעם זה יש להתיר נמי לעיל סימן מ\"ג ליכנס לבית הכסא בתפילין של יד כיון שהוא מכוסה כי רש\"י פירש בברכות דף כ\"ג הטעם דבשל ראש אסור משום שהוא מגולה, גם יש להסתפק הא הרצועות מוכרכים על גבי יד או נאמר דמיירי שגם הרצועות הידים מכוסין. שוב נדפס מגן אברהם וכתב בפירוש שגם הרצועות צריך להיות מכוסין:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 45:1"
+        },
+        "2": {
+          "he": "[ב] צריך לחלצן וכו'. אף בשעה שאין בני אדם עומדים ערומים שם ויתבאר לקמן בסימן פ\"ד פ\"ה בס\"ד. כתב מגן אברהם דאסור ליכנס בתפילין למקוה שטובלין שם כשיש בו אדם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 45:2"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "או בתוך ד\"א של מת.  משמע דבבה\"ק אסור אפי' חוץ לד\"א מן הקבר דאל\"כ ליערבינהו ולימא אסור לילך תוך ד\"א של קבר או של מת ובר\"פ מ\"ש אמרי' תוך ד\"א הוא דאסור חוץ לד\"א שרי פי' לקרות ק\"ש וכ\"כ ב\"י בסי' כ\"ג וז\"ל ודע דבגמ' אמרי' לא יהלך אדם בבה\"ק ותפילין בראשו דוקא תוך ד\"א הוא דאסור אבל חוץ לד\"א שרי א\"כ ק' על ל' הטור והש\"ע דכאן. ונ\"ל דהטור ס\"ל דודאי עיקר האיסור הוא תוך ד\"א לקבר אלא משום גדר לא יכנס לבה\"ק ותפילין בראשו דשמא יתקרב לתוך ד\"א של קבר ולאו אדעתיה וכמ\"ש בנזיר סחור סחור לכרמא לא תקרב ומ\"מ אי מקלע והלך לב\"הק והוא חוץ לד\"א ודאי חייב לקרות ק\"ש דדוקא להחמיר אמרו שלא יכנס כלל כנלע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 45:1"
+        },
+        "2": {
+          "he": "ואם הם מכוסים כו'.  נראה דגם הרצועות צריכים להיות מכוסים דחד טעמא הוא מ\"ה אע\"פ שתש\"י מותר ליכנס בה כיון שהיא מכוסה בבגד מ\"מ צריך ליזהר ברצוע' שעל אצבעות שתהיה ג\"כ מכוסה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 45:2"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "בבית הקברות. ואפי' תוך של ביה\"ק אסור וכ\"ה בי\"ד סי' רפ\"ב ס\"ד ושס\"ז ס\"ג ושע\"ו ס\"ד ולזה נתכוון הב\"י בסי' כ\"ג וכ\"ה כוונת הגמרא כנ\"ל:",
+          "en": "",
+          "ref": "Magen Avraham 45:1"
+        },
+        "2": {
+          "he": "בבית המרחץ. כתב רי\"ו נ\"ב ח\"ב מעשה שרקם א' פסוק ויאמר על טליתו וכו' כ' הרמב\"ם כו' שהעושה כן מביא פסוקי התורה לידי זלזול כי הציצית אין בו קדושת הגוף ולכן יבא בהן לב\"ה ולבית הטבילה וכו' ואיך יביא כתבי התורה במקום הטנופת וזלזול עכ\"ל משמע דאסור ליכנס בתפילין למקום שטובלין שם ובכ\"מ פ\"ג מק\"ש כתב בשם הר\"ר מנוח איכא מ\"ד כיון דאיסור מרחץ מפני שעומדים שם ערומים ה\"ה להנך מקואות שטובלין בהם הנשים אסור לברך בתוכן ולא מסתבר דעיקר איסור המרחץ משום זוהמא והבלא דאית ביה על ידי שתשמישו בחמין אבל צוננין מותר וצ\"ע דהא לענין מזוזה בית הטבילה כבית המרחץ עכ\"ל ובי\"ד סי' ר' איתא דהנשים מברכות במקוה אך נ\"ל דמ\"מ אסור לכנס לתוכה בכתבי הקדש דאסור לעמוד לפני השם ערום כדאיתא בשבת דף ק\"כ ומה\"ט פטור ממזוזה וכשאין שם אדם מותר דדוקא במרחץ החמירו אף על פי שאין שם אדם אבל לא במקוה כנ\"ל:",
+          "en": "",
+          "ref": "Magen Avraham 45:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "מת.  משמע דבבה\"ק אסור אפי' חוץ לד\"א מן הקבר ובריש פרק מי שמתו אמרינן תוך ד' אמות אסור חוץ לד' אמות שרי לקרות ק\"ש וכ' הט\"ז דהטור ס\"ל דודאי עיקר האיסור הוא תוך ד\"א לקבר אלא משום גדר לא יכנס לבה\"ק ותפילין בראשו דשמא יתקרב לתוך ד\"א של קבר ולאו אדעתיה אבל מ\"מ אם אירע שהלך לבה\"ק והוא חוץ לד\"א מקבר ודאי חייב לקרות ע\"ש. וכ\"כ הב\"ח וע\"ת דהאיסור הוא דוקא בתוך ד\"א של קבר ע\"ש ועי' ט\"ז בסימן ע\"א ס\"ק ה' ודברי המ\"א בכאן צל\"ע עי' סי' ע\"ח ס\"ק ד' במ\"א ובי\"ד סימן רפ\"ב ס\"ד וסימן שס\"ו ס\"ג ודו\"ק. אפי' קבר של קטן שעדיין לא הגיע לכלל מצות אפ\"ה אסור להניח תפילין ולקרות ק\"ש אצלו. מהריט\"ץ בחידושיו לפרק איזהו נשך דף י\"ב ע\"ד עי' עט\"ז שכתב כל החדר שהמת מונח בו חשיב כד' אמות ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 45:1"
+        },
+        "2": {
+          "he": "מותר.  נראה דגם הרצועות צריכים להיות מכוסים ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 45:2"
+        },
+        "3": {
+          "he": "המרחץ.  עיין מ\"א שהעלה דבמקוה מותר כשאין שם אדם דדוקא במרחץ החמירו אף על פי שאין שם אדם משום זוהמא דאית ביה אבל לא במקוה ע\"ש ועי' סימן פ\"ד ס\"ק א':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 45:3"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) בבית הקברות - ואפילו תוך ד\"א של מקום התחלת הקברים ג\"כ אסור אי ליכא מחיצה מפסקת ביניהם והא דלא עירב ביחד ויאמר אסור לילך תוך ד\"א של קבר או של מת דעת המ\"א דבא לרמז דממקום בה\"ק ולפנים אסור אפי' רחוק ד\"א מן הקבר ויש מקילין בזה ועיין בבה\"ל דבאמצע בה\"ק שיש קברים סביב נראה דיש להחמיר אפילו רחוק ד\"א מן הקבר משא\"כ בסוף בה\"ק דאין שם קברים רק דהוקצה הקרקע לקברים אין להחמיר מדינא ברחוק ד\"א מן הקבר ואעפ\"כ נכון שלא יכנוס כלל בתפילין שבראשו כל שהוא לפנים ממחיצת בה\"ק שמא יתקרב בתוך ד\"א של איזה קבר בלי דעת:",
+          "en": "A graveyard – Even within four cubits of the start of the graves is also prohibited if there is no mechitza (halachik partition) in between. And the reason why the author of the Shulchan Aruch didn’t join these phrases together and say ‘It is prohibitted to go within 4 cubits of a grave or of a corpse’ is, according to the Magen Avraham, to indicate that from the start of the graveyard it is forbidden even if this is more than four cubits away from a grave. There are those who are lenient about this. And see in the Biur Halacha, [where the Mishna Brura says] that in the middle of a graveyard, where there are graves all around, it seems that one should be stringent even four cubits away from a grave, but at the edge of the graveyard, where there are no graves but the area is designated for them, one need not be stringent above the law requiring four cubits distance. Even so, it is correct not to enter the boundaries of a graveyard at all with Tefillin on one’s head, lest one come within 4 cubits of a grave unawares.",
+          "ref": "Mishnah Berurah 45:1"
+        },
+        "2": {
+          "he": "(ב) בתוך ד\"א וכו' - וכתב העט\"ז דכל אותו חדר שהמת מונח בו חשוב כד\"א של מת ומגן גיבורים חולק עליו וכתב דאינו תופס רק ד\"א עי\"ש ואפילו קבר של קטן שעדיין לא הגיע לכלל מצות אפ\"ה אין לכנוס שם בתפילין בראשו משום לועג לרש:",
+          "en": "Within 4 cubits etc. – The Iturey Zahav writes that the whole room where a corpes lies is considered like 4 cubits. The Magen Giborim disagrees and writes that the corpse only takes up 4 cubits, see there. While one is wearing Tefillin, one should not even approach the grave of a minor who hadn’t yet reached the age of obligation in Mitzvos, because of ‘mocking the impoverished.’",
+          "ref": "Mishnah Berurah 45:2"
+        },
+        "3": {
+          "he": "(ג) מותר - וצריך שגם הרצועות תהיינה מכוסות לפיכך אע\"פ שמותר לכנוס בתש\"י לבדה הואיל והוא מכוסה צריך ליזהר ברצועה שעל אצבעו שתהיה ג\"כ מכוסה [ט\"ז]:",
+          "en": "It is permitted – And the straps must also be covered. Therefore, even though it is permitted to enter with Tefillin shel yad alone because it is covered, one should take care that the straps that go around the fingers are covered as well.",
+          "ref": "Mishnah Berurah 45:3"
+        },
+        "4": {
+          "he": "(ד) בית החיצון - שדרכם היה לאחר שלבשו החלוק בבית האמצעי לילך לבית החיצון ולגמור הלבישה:",
+          "en": "The outer room – It was common practice that after putting on one’s shirt [or perhaps more correctly, tunic – a garment that covered part of the legs as well as the upper body] in the middle room one would go to the outer room and finish dressing.",
+          "ref": "Mishnah Berurah 45:4"
+        },
+        "5": {
+          "he": "(ה) ומקצתן ערומים - י\"א דאם עתה אין שם אדם ערום מותר להניח בו תפילין ולברך ויש אוסרין כיון דהמקום מיוחד לזה דין מרחץ עליו במקצתו. ובית הטבילה משמע בט\"ז סי' פ\"ד דדין בית אמצעי יש לו לכל דבר ורק ברכת הטבילה מותר לברך בה עי\"ש טעמו. ומהמ\"א בסימן זה משמע דבאין בה אדם ערום מותר להניח בה תפילין ולברך דדוקא במרחץ החמירו אע\"פ שאין שם אדם משום שזוהמתו רבה מהבל החמין שמשתמשין בה משא\"כ במקוה [ואם שופכין בה ג\"כ חמין יש לעיין] אבל אם יש שם אדם ערום אסור לכנס בה בתפילין וכתבי הקודש דאסור לעמוד לפני השם ערום ועיין לקמן בסימן פ\"ד במ\"ב בענין זה:",
+          "en": "And some are naked – Some say that if at the present moment there is noone naked then one may put on Tefillin there and say the B’racha, but some prohibit this because since the place is designated for this it has the ruling of a bathhouse in part. It seems from the Taz in Siman 84, that a Mikvah has the rules of the middle room for all purposes and only the Bracha for the immersion is allowed to be said there, look there for his reason. [A Mikvah is a ritual bath – used by men daily, weekly, or even annually according to custom, and used by women one week after the conclusion of a monthly cycle. Women make a blessing after immersing themselves.] But from the Magen Avraham in this Siman, it seems that if there is no one presently naked in it, one may put on Tefillin and say the B’racha, because they were only stringent in a bath house because of the intense sweat as a result of the hot water – which is not the case in a mikvah. [And if they use hot water in the Mikvah as well, further examination is needed.] But if there is someone there naked, it is forbidden to enter with Tefillin or Holy Scriptures because it is forbidden to stand in front of G-d’s Name naked. Look later in Siman 84 in the MB about this.",
+          "ref": "Mishnah Berurah 45:5"
+        },
+        "6": {
+          "he": "(ו) ובבית הפנימי - בזה לכו\"ע אפילו אין שם אדם ערום דנפישא זוהמיה וכבית הכסא דמיא:",
+          "en": "The inner room – In this room everybody agrees, even if there is no one naked, that because of the intense sweat it is like a bathroom. [Bathroom in modern terms – a room with a toilet.]",
+          "ref": "Mishnah Berurah 45:6"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

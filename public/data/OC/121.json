@@ -1,0 +1,162 @@
+{
+  "chelek": "OC",
+  "siman": 121,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 3,
+  "fetchedAt": "2026-07-07T23:40:51.332Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני מודים. ובו ג סעיפים:שוחין במודים תחלה וסוף:",
+      "en": "The Laws of \"Modim\".  Containing 3 S'ifim:We bow in \"Modim\" [\"We are thankful\"] at the beginning [of it] and at the end.",
+      "ref": "Shulchan Arukh, Orach Chayim 121:1"
+    },
+    {
+      "seif": 2,
+      "he": "האומר מודים מודים משתקין אותו:",
+      "en": "One who says \"Modim Modim\", we silence [that person].",
+      "ref": "Shulchan Arukh, Orach Chayim 121:2"
+    },
+    {
+      "seif": 3,
+      "he": "יחיד אין לו לומר ברכת כהנים: הגה וכן עיקר וכן נראה לי לנהוג אבל המנהג הפשוט אינו כן רק אפי' יחיד אומר אותו כל זמן שראוי לנשיאות כפים ואינו נראה [ב\"י בשם מנהיג]:",
+      "en": "An individual does not say \"Birkat Kohanim\" [\"The Priestly Blessing\"]. Gloss: And this is the principle, and it appears to me that [people should] practice like this. But the the widespread custom is not like this, rather even an individual says it any time it is appropriate to \"spread the hands\" [i.e. to say Birkat Kohanim], but this does not appear [correct to me]. (Beit Yosef in the name of Manhig [Sefer haManhig by Rabbi Avraham ben Natan, 13th century Provence])",
+      "ref": "Shulchan Arukh, Orach Chayim 121:3"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברכות ל\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 121:1"
+        },
+        "2": {
+          "he": "שם ל\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 121:2"
+        },
+        "3": {
+          "he": "אבודרהם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 121:3"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "שוחין עמ״א עיין טור שדרו של אדם לאחר ע׳ שנין וי״ג אחר ז׳ שנין יעשה נחש ועיין פר״ח קי״ג ס״ד בסבא דמשפטים הקב״ה אין מקפח שכר גוף ראשון זולת מאן דלא כרע במודים יע״ש פלאות וכמה צריך ליזהר בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 121:1"
+        },
+        "2": {
+          "he": "וסוף בברכת הטוב שמך מ״א הנה בלבוש כאן כשאומר הטוב שמך שוחה להכניע לפניו בהודאה ועפירש״י ברכות ל״ד א׳ ד״ה תחלה וסוף במודים ולך נאה להודות משמע שם כורע אבל ברש״י י״ב א׳ ד״ה כשהוא באבות והודאה הרי בהודאה כורע בברוך כמו באבות. מ״ש המחבר מודים מודים משתקין הדין כמו בק״ש בין מלה מלה או פסיקא פסיקא משתקין ואף לא השתחוה ב״פ. הפקודות לך עא״ר וכן כתב בסידור הר״ב המדקדק הגדול בעל בנין שלמה ז״ל אמנם מ״ש הא״ר שאתה השי״ן בקמ״ץ בסידור הנ״ל שאתה בסגול הג״ה מקונטרס קורת ארזים יע״ש בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 121:2"
+        },
+        "3": {
+          "he": "יחיד עמ״א ועיין סי׳ קכ״ז בשבת במנחה י״א שים שלום ואנו נוהגין שלום רב אפי׳ בשבת במנחה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 121:3"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] שוחין וכו'. בטור אם לא שח נעשה שדרו נחש לאחר שבעים שנים וכו', בש\"ס דילן בבא קמא דף ט\"ו הנוסחא לאחר שבע שנים, ואפשר לכוין בזה כי הנחש נולד לשבע שנים כדאיתא ש\"ס בכורות, ואיתא במדרש הכל מתרפאים חוץ מנחש. כתב בספר חסידים אל ישוח במודים אם יש רוק בפיו עד שתצא הרוק מפיו. הפקודות לך כן הוא בכל הנוסחאות הישנים וכן באבודרהם, ודלא כיש שמשנים, שאתה שין בקמ\"ץ ואינה נראה, והלבוש נראה לי דהשמיטו בכוונה דסבירא ליה דנכון לאומרה שכן כתבו הכלבו ותשב\"ץ ומהרי\"ל ומנהגים וכן לקמן סוף סימן קכ\"ז מבואר כך, וכן כתב הדרישה שהאריך בתשובה לאומרה, וכן פסק מטה משה וכן בפסקי תוס' חולק על רמ\"א בזה. ברכינו בברכה ב' ראשונה בפת\"ח. כתב כנסת הגדולה סימן קכ\"ח שאין אומרים אלהינו וכו' בבית אבל, ודין תענית יחיד במנחה יתבאר לקמן סוף סימן קכ\"ד. כתב הכלבו שלמה תיקן לומר ברכת כהנים בתפילה. כתב בקיצור של\"ה ובית יוסף כשיאמר יברכך ה' יהיה פניו נגד ההיכל וישמרך נגד ימינו יאר ה' פניו נגד ההיכל אליך ויחנך נגד שמאלו ישא ה' פניו נגד ההיכל אליך נגד ימין וישם לך נגד שמאלו שלום נגד ימין, עד כאן. וזה קצת סותר מה שכתב מגן אברהם סימן קכ\"ז בשם זוהר חדש כשחזן אומר ברכת כהנים יאמר יחיד למנצח בנגינות מזמור שיר וכו' עד אפסי ארץ, יסתכל בצורה דמנורה וטוב לאומרה אפילו בראש השנה. בשים שלום כתב של\"ה אומר כולנו כאחד ולא כאחת, ומאי כאחד זה אברהם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 121:1"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "שוחין. אם נזדמן לו רוק לא ישחה עד שיצא הרוק מפיו (ס\"ח סי\"ח):",
+          "en": "If one has spit in his mouth he shouldn't bow until the spit leaves his mouth (Sefer Chassidim siman 18).",
+          "ref": "Magen Avraham 121:1"
+        },
+        "2": {
+          "he": "וסוף. ברכת הטוב שמך:",
+          "en": "(the end if referring to when he says) the beracha of hatov shimcha (ulicha naeh lihodos).",
+          "ref": "Magen Avraham 121:2"
+        },
+        "3": {
+          "he": "יחיד. ובמהרי\"ל כתוב שיחיד אומרו וגם במנחה בת\"צ אפילו מי שאינו מתענה אומרו ובתענית יחיד אומרו היחיד אבל הש\"ץ אינו אומרו אפילו בער\"ה דלא מיקרי ת\"צ (ד\"מ סי' תקפ\"א) ובד\"מ סי' קכ\"ז חולק וכותב דיחיד אינו אומרו וכ\"כ ר\"ל חביב סימן ט\"ו ובלבוש שם כתב דנוהגין לאומרו ונ\"ל דאין למחות ביד האומרים אותו:",
+          "en": "The Mahril writes that an invidual says it and also at mincha at a ta'anit tzibur (communal fast) even one who didn't fast should say it. On a personal fast the individual (fasting) says it but the chazan doesn't say it even on erev rosh hashana because its not considered a communal fast (Darchie Moshe siman 581 quoting this Mahril). The Darchie Moshe in siman 127 argues that an individual doesn't say it. And the Ral Chaviv writes this way as well in siman 15. The Levush however writes there that the custom is to say it. My opinion on the matter is that one should not stop those who say it.",
+          "ref": "Magen Avraham 121:3"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "במודים.  אם נזדמן לו רוק לא ישחה עד שיצא הרוק מפיו ס\"ח סי' י\"ח. מ\"א וע\"ת:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 121:1"
+        },
+        "2": {
+          "he": "נראה.  המ\"א העלה דאין למחות ביד האומרים אותו עיין שם. אין אומרים אלהינו בבית האבל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 121:2"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) שוחין - אם נזדמן לו רוק לא ישחה עד שיצא הרוק מפיו [מ\"א בשם ס\"ח] ועיין לעיל סימן צ\"ז ס\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 121:1"
+        },
+        "2": {
+          "he": "(ב) במודים - איתא בגמרא אם לא כרע במודים נעשה שדרו נחש לאחר שבע שנים:",
+          "en": "",
+          "ref": "Mishnah Berurah 121:2"
+        },
+        "3": {
+          "he": "(ג) תחלה - היינו בתחלת מודים וכשאומר ד' יזקוף:",
+          "en": "",
+          "ref": "Mishnah Berurah 121:3"
+        },
+        "4": {
+          "he": "(ד) וסוף - בברכת הטוב שמך דהיינו בעת אמירת ברוך אתה וכשאומר ד' יזקוף וכנ\"ל בסימן קי\"ג ס\"ז לענין ברכת אבות:",
+          "en": "",
+          "ref": "Mishnah Berurah 121:4"
+        },
+        "5": {
+          "he": "(ה) משתקין אותו - אף אם לא השתחוה ב' פעמים ובין לכפול המלות ובין לכפול ענין וענין הכל אסור דמיחזי כשתי רשויות:",
+          "en": "",
+          "ref": "Mishnah Berurah 121:5"
+        },
+        "6": {
+          "he": "(ו) ואינו נראה - ומ\"מ אם אמר אין מחזירין אותו וגם אין למחות ביד האומרים אותו. אין לומר אלהינו ואלהי אבותינו בבית האבל כ\"כ הבה\"ט והוא בשכנה\"ג בשם ספר תניא וע\"כ אף שבדגול מרבבה חלק ע\"ז יש לחוש לדברי ראשונים [מגן גבורים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 121:6"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

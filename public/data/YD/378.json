@@ -1,0 +1,335 @@
+{
+  "chelek": "YD",
+  "siman": 378,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 13,
+  "fetchedAt": "2026-07-08T00:01:41.861Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני סעודת הבראה לאיש ולאשה. ובו י\"ג סעיפים:אבל אסור לאכול משלו בסעודה ראשונה אבל בשניה מותר אפילו ביום ראשון ומצוה על שכניו שיאכילוהו משלהם כדי שלא יאכל משלו ויכול אחד להאכיל את חברו בימי אבלו והוא יחזור גם כן ויאכילנו בימי אבלו ובלבד שלא יתנו בתחילה:",
+      "en": "A mourner is forbidden to eat of his own at the first meal [after burial],1M.K. 27b in accord with R. Judah on the authority of Rab. Derived from the words of God to Ezekiel, ‘And eat thou not the bread of men’ (Ezek. XXIV, 17) whence it follows that for others it is done. Should others, however, not provide him with the first meal, or in the case where he is the only Jewish resident in town, he may eat of his own — TaZ. Some explain that the reason the first meal is provided by others is that usually the mourner immediately after burial refuses to eat and in some cases prefers death — Perisha. The main part of the mourner’s meal is the bread as may be seen from the verse in Ezek. ibid., but he may eat other dishes of his own even at the first meal — A.H. It is customary to bring him bread with eggs or lentils. Cf. B.B. 16b where it is stated that on the day that Abraham our father died, Jacob made a broth of lentils to comfort his father Isaac (v. Gen. XXV, 29-30 and Rashi a.l.), and the reason it was of lentils is that ‘just as the lentil has no mouth (i.e., no cleft), so too, the mourner has no mouth (i.e., for speech)’. Others say, ‘Just as the lentil is round, so too, mourning rolls and goes around to all the denizens of this world.’ The practical difference between these two explanations is whether we should comfort with eggs, which have no cleft, but are not perfectly round. Hence, according to the first reason offered in the Talmud (B.B. ibid.) one may provide the mourner’s meal with eggs. Some of the Later Authorities hold that also beverages should be provided by others at the first mourner’s meal — Leḥem ha-Panim. but at the second [meal] he is permitted [to eat of his own] even on the first day [of mourning].2Thus also Tur and Asheri who explain that the words, ‘on the first day’ mentioned in M.K. ibid. apply only to the first meal. Cf. Pes. 36a where the expression ‘first day’ (יומא קמא) refers to one meal. So also Hag. Maim. Ebel IV, 9 citing SeMaG, for the underlying principle is that we follow the lenient authority in laws of mourning (M.K. 18a; ‘Er. 46a a.e.). Tosaf. (M.K. 20b s.v. שכבר and 27b s.v. יום) maintain that the mourner must be provided with all the meals he requires on the first day, for they take ‘first day’ to mean the meals of the entire day. A religious duty rests upon his neighbours to provide food for him of their own in order that he should not eat of his own.3Y.M.K III, 5(82b). This refers only to the first meal. One may provide food for another person during the latter's mourning and the latter may in turn provide food for the former during his mourning,4Even though both are in mourning. M.K. 27b in the case of Rabbah and R. Joseph. provided they do not make such a stipulation at the outset.5Thus Asheri. For if such a stipulation is made it would be considered as though each one ate of his own.",
+      "ref": "Shulchan Arukh, Yoreh Deah 378:1"
+    },
+    {
+      "seif": 2,
+      "he": "אשה שאירעה אבל אין לאנשים להברותה אבל נשים מברין אותה ואשה נשואה שאירעה אבל אינה יכולה לאכול סעודה ראשונה משל בעלה וכן מי שיש לו סופר או שכיר אם אוכל בשכרו ואירעו אבל לא יאכל סעודה ראשונה משל בעל הבית אבל מי שזן עני או יתום או לבנו ובתו בלא תנאי ואירעם אבל יכולים לאכול סעודה ראשונה משל בעל הבית:",
+      "en": "If mourning befell a woman, men should not provide the mourner's meal for her,6Sem(H). XI, 2 because it offers an occasion for sin. but women should provide her with the mourner's meal.7Asheri on the authority of R. Meir of Rothenberg. Cf. Lev. R. VI, 3 and Lam. R. IV, 10 (Buber), according to which a woman should provide the mourner’s meal for another woman in mourning. If mourning befell a married woman, she may not eat the first meal [after burial] of her husband.8Asheri ibid. For since the husband is required to feed her, the food is regarded as her own. When she provides other women with the mourner’s meal, she does not have to obtain her husband’s consent, for this is considered a small matter for which the husband’s approval is unnecessary.  Ḥ.M. § 358 and supra § 248. However, if the husband refuses, she may not bring the mourner’s meal to other women. If both the husband and the wife are mourners, men are permitted to provide the mourner’s meal for both, since the meal in this case is provided mainly for the husband, and indirectly she eats too — A.H. For the same reason, one who obligated himself to feed his son and daughter-in-law or his daughter and son-in-law, and mourning befell them, the latter may not eat of his food — A.H. So too, one who has [in his employment] a scribe or a hired man, if [each of them] receives meals as his payment, and mourning befell him, he should not eat the first meal of his employer. But one who feeds a poor person or an orphan [because it is a meritorious act] or his son and daughter without any stipulation,9 supra par. 1, n. 5. Cf. B.B. 43b, RaShBaM s.v. זה שייך. and mourning befell them, — [the law is that] they may eat the first meal of the master of the house.",
+      "ref": "Shulchan Arukh, Yoreh Deah 378:2"
+    },
+    {
+      "seif": 3,
+      "he": "אם רצה האבל שלא לאכול ביום הראשון מותר לאכול משלו אפילו סעודה ראשונה: הגה וכן אם לא הברוהו ביום ראשון שנמשך עד הלילה מותר לאכול בלילה משלו ואין צריך הבראה (טור בשם רוב הפוסקים):",
+      "en": "If the mourner desires not to eat on the first day,10Derived from Y.Ber. III, 1(6a) according to the reading of Tur and N in T.H. Cur. edd. of Y. have a different reading. This means that if the mourner desires to fast on the first day, he is permitted (BaḤ) — ShaK. Or Zaru’a, however, rules that the mourner is not permitted to fast unless it is a public fast day, and during the days of Penitence (עשרת ימי תשובה) even if it is his custom to fast, he is not permitted to do so, for it is a religious duty to eat the mourner’s meal — A.H. Cf. M.Abr. to O.Ḥ. § 581, n. 12 and Ba’er Heteb. he may eat of his own11e., on the second day or on the night following the first day, even if it is his first meal — ShaK. even the first meal. Gloss: So too, if he was not provided with the mourner's meal on the first day until12Lit. ‘which extended to.’ the night, he is permitted to eat at night of his own13On the same principle as supra n. 10. and he is not required to be provided with the mourner's meal.14Tur on the authority of the majority of the Codifiers — G. If the burial took place at night, the mourner’s meal is provided at night, and if he did not eat at night he is provided with same on the following day, for the day follows the night. Isserles’ ruling applies only if the mourner’s meal was not provided during the day after burial for the reasons mentioned above — P.Tesh. If the burial took place late Friday afternoon, and there was not sufficient time to provide the mourner’s meal, it must be provided Saturday night — Birke Yos.",
+      "ref": "Shulchan Arukh, Yoreh Deah 378:3"
+    },
+    {
+      "seif": 4,
+      "he": "היו נוהגים להתענות ביום מיתת החכמים:",
+      "en": "It was customary to fast on the day of the death of scholars.15Y.M.K. III, 7(83b) in the case of R. Abbahu, cited by Asheri, Ta‘an.  Cf. Y.Ned. VIII, 1(40d) and supra § 376 Gloss n. 39. From this ruling it follows that the relatives also fasted and did not partake of the mourner’s meal — A.H.",
+      "ref": "Shulchan Arukh, Yoreh Deah 378:4"
+    },
+    {
+      "seif": 5,
+      "he": "מי שנקבר בערב שבת סמוך לחשכה קודם ביה\"ש יש מי שאומר שמברין אותו אז ולי נראה דכיון שאינו חובה טוב שלא להברותו אז מפני כבוד השבת וכן נוהגין:",
+      "en": "[In the case of] one who was buried on the eve of the Sabbath close to nightfall prior to twilight,16On the time of the day designated ‘twilight’ (בין השמשות) v. Shab. 34b. there is an authority who says that he should be provided then with the mourner's meal.17Mord. M.K. III end in accord with R. Jose in Pes. 99b. But it seems to me that since this is not obligatory,18 supra par. 3. it is better not to provide him then with the mourner's meal on account of the honour due to the Sabbath.19In order to partake of the Sabbath meal with appetite. Cf. O.Ḥ. § 249, 2. If the mourner desires to eat prior to the advent of the Sabbath, he must not eat of his own — Ḥok. Adam. And thus is the accepted custom.",
+      "ref": "Shulchan Arukh, Yoreh Deah 378:5"
+    },
+    {
+      "seif": 6,
+      "he": "אין מברין על הקטן אא\"כ הוא בן שלשים יום שלימים או קים ליה ביה שכלו לו חדשיו:",
+      "en": "The mourner's meal is not provided for [one whose] infant child died, unless it was thirty complete days old,20e., it died on the thirty-first day after birth. or one knows for certain that its months [of pregnancy] were complete.21Shab. 136a in the case of the death of the grandson of R. Dimi b. Joseph. One who suffers another bereavement during his mourning period should be provided with the mourner’s meal, although he is in the midst of observing mourning rites for the first bereavement for which he was already provided with the mourner’s meal — A.H.",
+      "ref": "Shulchan Arukh, Yoreh Deah 378:6"
+    },
+    {
+      "seif": 7,
+      "he": "מרביצין ומכבדין בבית האבל ומדיחין קערות כוסות וצלוחיות וקיתונות ואין מביאין שם לא בשמים ולא מוגמר אבל מביאים אותם בבית שהמת שם ואין מברכים עליהם ואין אומרים שמועה ואגדה בבית האבל אלא יושבים ודוממים:",
+      "en": "One may sprinkle or sweep [the floors] in the house of mourning and wash dishes, cups, flasks and drinking vessels.22M.K. 27a. This is not considered pleasure. However, one does not bring therein perfumes or spices,23Ibid. but he may bring them into a house wherein the corpse lies,24For fumigation purposes on account of the bad odour emitted by the corpse. and one does not recite a benediction over them.25Ibid., in accord with Bar Kappara. The benediction is not recited since the purpose of the perfumes and spices is merely to deodorize the house. One does not expound legal matters or homiletical interpretations in the house of mourning,26Ibid. 23a. This refers to a Ḥakam who died, whose Academy is in recess (v. supra § 344, 18), and according to Sem(H). X, 14 where the same ruling is found, it appears that this applies to those who assemble at the Academy where the mourning rites are observed at which place it was customary under normal conditions to raise legal and Aggadic questions. In the case of other mourners, studies may be conducted at the place of mourning — A.H. but one sits and is silent.",
+      "ref": "Shulchan Arukh, Yoreh Deah 378:7"
+    },
+    {
+      "seif": 8,
+      "he": "כיון שנקבר המת מותר לאכול בשר ולשתות יין מעט בתוך הסעודה כדי לשרות אכילה שבמעיו אבל לא לרוות:",
+      "en": "As soon as the corpse is buried, he27The mourner. may eat meat and drink some wine28 Ta‘an. 13b; Ned. 56a. during the meal in order to dissolve the food in his bowels, but [he must] not drink to the full.29 Ket. 8b where it is reported that ten cups were instituted to be drunk in a mourner’s home, — three before, three during and four after the meal (cf. Sem(H). XIV, 14 for a different version). Later four more cups were added. However, when this led to intoxication, they reverted to the ‘original practice.’ According to Rashi ‘original practice’ refers to the ten cups; according to N in T.H. it refers to the three cups during the meal only. Cf. Y.Pes. X, 7(37d); ‘Wine during the meal does not lead to intoxication.’ On this ruling cf. also Yad, Ebel IV, 6.",
+      "ref": "Shulchan Arukh, Yoreh Deah 378:8"
+    },
+    {
+      "seif": 9,
+      "he": "מקום שנהגו להברות בבשר ויין ומיני מטעמים עושים ומברין תחילה בבצים או בתבשיל של עדשים זכר לאבילות ואח\"כ אוכלים כל צרכם:",
+      "en": "[In] a locality where it is the adopted custom to provide the mourner's meal with meat, wine and savoury dishes, they do so.30Sem(H). XIV, 13 cited by T.H. and Tur. Cf. also Ned. 56a; Y.Ber. III, 1(6a). [However], at first they provide the mourner's meal with eggs or a dish of lentils as a symbol of mourning,31 supra par. 1, n. 1. and then they eat their sufficient requirement.",
+      "ref": "Shulchan Arukh, Yoreh Deah 378:9"
+    },
+    {
+      "seif": 10,
+      "he": "אין לאכול עם האבל כל כך בני אדם שיתחלקו לשני מקומות:",
+      "en": "A great number of people should not [assemble] to eat with the mourner, for this would necessitate that they separate themselves to two different places.32Hag. Maim. derived from Y.M.K. III, 2(82a). If they are obliged to divide themselves into two groups, it would appear more like a social gathering. Hence, the prohibition — ShaK. Those who are relatives may eat with the mourner. So too, those who make the lamentation.  Mishna M.K. 24b; ibid. 25a; Shab. 105b; T.H.",
+      "ref": "Shulchan Arukh, Yoreh Deah 378:10"
+    },
+    {
+      "seif": 11,
+      "he": "היכא שצריך למנות שבעה אחר הרגל וכן אם שמע שמועה בשבת צריך להברותו הבראה ראשונה שבימי אבלות (וי\"א שכיון שנדחה יום ראשון אין מברין אותו וכן נוהגים (במרדכי במ\"ק בשם י\"א ונ\"י) ואפילו היכא דעולה לו למנין ז' כגון במקומות שעושין שני ימים ששני עולה):",
+      "en": "Where one is required to count seven [days of mourning] after the Festival,33In the case of one who suffered a bereavement on the Festival or on Ḥol ha-Moed.  O.Ḥ. § 548, 2 and infra § 399, 13. and so too, if one heard [near] tidings on the Sabbath,34 D.M. a.l. who rules in accord with B.Yos. that the mourner’s meal may be provided on the Sabbath. Cf. however, Ba’er Heteb a.l. the first mourner's meal which is partaken of during the days of mourning must be provided [by others].35 M.K. 20a, Tosaf. s.v. שכבר. However, some say that since the first day [of mourning] was postponed, the mourner's meal is not provided [by others]. And thus is the common practice,36Mord. M.K. III on the authority of ‘some say;’ N.Yos. — G. even where the [first day] enters into the counting of the seven [days of mourning], e.g., in localities where two [Festival] days are observed,37In the Diaspora.  further on this ruling infra § 401, 4; O.Ḥ. § 547, 8-9. [in which case] the second [Festival] day is counted [in the seven days of mourning].",
+      "ref": "Shulchan Arukh, Yoreh Deah 378:11"
+    },
+    {
+      "seif": 12,
+      "he": "אין מברין על שמועה רחוקה:",
+      "en": "The mourner's meal is not provided in the case of distant tidings.38Mord. and N.Yos. to M.K. end. Cf. M.K. 24b, Tosaf. s.v אלא In the case of ‘near tidings’ the mourner’s meal is provided even if the death occurred in another place — A.H. On near and distant tidings, v. infra § 402.",
+      "ref": "Shulchan Arukh, Yoreh Deah 378:12"
+    },
+    {
+      "seif": 13,
+      "he": "פריס (פירוש בוצע לחם לברך המוציא) מנחם גדול דבהון ובשבת פריס כאורחיה :",
+      "en": "The distinguished comforter among them breaks bread, i.e., breaks bread to recite the blessing before the meal,39During weekdays. and on the Sabbath he40The mourner. breaks bread in his usual manner.41Yalk. Prov. s. 947, on the verse, ‘The blessing of the Lord it maketh rich’ (Prov. I, 22) which refers to the blessing of the Sabbath, ‘and toil addeth nothing thereto’ (ibid.) which refers to mourning. Hence, on the Sabbath which bestows its blessings upon us, the comforter need not hand the bread to the mourner, but during the weekdays when the mourner is engrossed in his mourning (-toil), the comforter hands the bread to the mourner, which is not done under normal conditions. Cf. also Y.Ber. II, 7(5b); Y.M.K. III, 5(82d) ; Gen. R. XI, 1; ibid. C, 7; Shab. 119a (ref. Deut. XIV, 22); Pesik. R. § 46; Hag. Maim. Yad, Ebel IV, 9; Yad, Berakoth VII, 5; O.Ḥ. § 167, 18; Ginzberg L. Commentary on the Palestinian Talmud Vol. I, pp. 385-6.",
+      "ref": "Shulchan Arukh, Yoreh Deah 378:13"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מימרא דרב יהודה אמר רב מ\"ק דף כ\"ז ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:1"
+        },
+        "2": {
+          "he": "כפירוש הרא\"ש דיום ראשון דקאמר רב יהודה הוא סעודה ראשונה וכיוצא בזה בפסחים דף ל\"ז ע\"א מימרא דריב\"ל יומא קמא וכו' וכ\"כ הגהמי\"י בשם סמ\"ג דנקטינן באבל הלכה כדברי המיקל:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:2"
+        },
+        "3": {
+          "he": "ירושלמי תבא מאירה לשכניו שהצריכוהו לאכול משלו והביאו הרא\"ש שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:3"
+        },
+        "4": {
+          "he": "מהא דרבה ורב יוסף מחלפי סעודתייהו להדדי שם בבבלי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:4"
+        },
+        "5": {
+          "he": "הרא\"ש שם.",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:5"
+        },
+        "6": {
+          "he": "ברייתא באבל רבתי משום הרגל עבירה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:6"
+        },
+        "7": {
+          "he": "הרא\"ש סוף מ\"ק בשם הר\"מ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:7"
+        },
+        "8": {
+          "he": "גם זה שם וכן כתבו ש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:8"
+        },
+        "9": {
+          "he": "ירושל' עובדא דרבי זעירא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:9"
+        },
+        "10": {
+          "he": "ג\"ז שם עובדא דרבי אבהו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:10"
+        },
+        "11": {
+          "he": "מרדכי בסוף מ\"ק (והגהמי\"י פרק י\"ב):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:11"
+        },
+        "12": {
+          "he": "עובדא דרב דימי בר יוסף שבת דף קל\"ו ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:12"
+        },
+        "13": {
+          "he": "ברייתא מ\"ק דף כ\"ז ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:13"
+        },
+        "14": {
+          "he": "אוקימתא דגמ' שם מבריית' דבר קפרא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:14"
+        },
+        "15": {
+          "he": "ברייתא שם: [דף כ\"ג ע\"א]:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:15"
+        },
+        "16": {
+          "he": "לשון הרמב\"ם בפ\"ד מהלכות אבל דין ו':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:16"
+        },
+        "17": {
+          "he": "טור בשם הרמב\"ן בס\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:17"
+        },
+        "18": {
+          "he": "הגהמי\"י פ' י\"ב מהירושלמי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:18"
+        },
+        "19": {
+          "he": "מרדכי במ\"ק:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:19"
+        },
+        "20": {
+          "he": "מרדכי ונ\"י במ\"ק:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:20"
+        },
+        "21": {
+          "he": "הגהת מיי' פ\"ד בשם סמ\"ג בשם הירושלמי פ\"ג דברכות ופ\"ק דמ\"ק: (°) כתב רבינו ירוחם שנהגו לאכול משל אחרים כל שבעה מפני עניי ישראל שאינם יכולים לעשות מלאכה ולא יתביישו שאף לעשירים עושים כן ע\"כ וכן ראיתי פה מנהג קהל קדוש ספרדיים יצ\"ו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 378:21"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "שיאכילוהו משלהם. כלומר הסעודה ראשונה מצוה שיאכילוהו משלהם אבל בסעודה שניה אין כאן מצוה שהרי יכול לאכול משלו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 378:1"
+        },
+        "2": {
+          "he": "בימי אבלו. פירוש אע\"פ ששניהם אבלים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 378:2"
+        },
+        "3": {
+          "he": "ואשה נשואה כו'. דכיון שחייב במזונותיה כמשלה דמי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 378:3"
+        },
+        "4": {
+          "he": "אם רצה כו'. ומשמע דאם רצה האבל להתענות באותו היום מותר וכ\"פ הב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 378:4"
+        },
+        "5": {
+          "he": "מותר לאכול. ביום שני או בלילה שאחר יום ראשון משלו אפילו סעודה ראשונה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 378:5"
+        },
+        "6": {
+          "he": "יש מי שאומר כו'. הוא המרדכי (ואגודה) שהביא בב\"י והיינו מ\"ש בפרישה וב\"י לא כ' כן ואוסר אף בע\"ש והיינו דעתו כאן בש\"ע ודלא כהגהת דרישה שכ' ולא ידעתי למה כתב א\"א ז\"ל וב\"י לא כ\"כ ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 378:6"
+        },
+        "7": {
+          "he": "כיון שנקבר כו'. אבל קודם קבורה אסור בבשר ויין דהוי אונן וכדלעיל סימן שמ\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 378:7"
+        },
+        "8": {
+          "he": "בביצים כו'. שאין להם פה כמו אבל שאין לו פה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 378:8"
+        },
+        "9": {
+          "he": "אין לאכול כו'. דהוי כסעודת מריעות שיש בה שמחה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 378:9"
+        },
+        "10": {
+          "he": "היכא כו'. כלומר ואפי' במקום שעושים ב' י\"ט שהשני עולה למנין ז' וכמו שנתבאר באו\"ח סי' תקמ\"ח ס\"ב ולקמן סי' שנ\"ט (סד\"א) [סי\"ג] דיש להברותו אח\"כ דהא לא נדחה דה\"ל להברות ביום ז' שהרי שייך ביה אבילותה כיון דעולה למנין ז' קמ\"ל דאמרי' בזה ג\"כ כיון דנדחה נדחה ואין צריך הבראה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 378:10"
+        },
+        "11": {
+          "he": "אם שמע שמועה בשבת. צריך עיון דבד\"מ ס\"ס זה פסק כב\"י שכ' בסי' שצ\"ג דמברין בשבת וכתב שכן פשט המנהג בכל העולם להברות בשבת ולא נשמע בעולם שום פוצה פה ומצפצף:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 378:11"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אסור לאכול משלו. נראה דאם לא שלחו לו או שהוא יחידי בעיר אין חייב לצער עצמו שלא לאכול כלל דמשום הכי כתב כאן הטור ושלחן ערוך דמצוה על שכיניו שיאכילוהו שלא יאכל משלו שזהו מיותר לכאורה אלא הכוונה דעיקר מצוה על השכנים שלא יגרמו שיצטרך לאכול משלו דאם לא ישלחו לו יהיה לו היתר לאכול משלו ע\"י ההכרח:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 378:1"
+        },
+        "2": {
+          "he": "בבית שהמת שם. להעביר הסרחון:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 378:2"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "מותר לאכול בלילה. עי' בתשו' רדב\"ז החדשות סי' תכ\"ד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 378:1"
+        },
+        "2": {
+          "he": "וא\"צ הבראה. עי' בתשו' נו\"ב חי\"ד סי' צ\"ח שכתב דמי שמת לו מת וקבר אותו בלילה מברין אותו בלילה ואם לא אכל בלילה מברין אותו ביום שאחריו ודוקא בנדחה יום הראשון אמר הרמ\"א דא\"צ הבראה בלילה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 378:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "אסור. כתב הט\"ז נראה דאם לא שלחו לו או שהוא יחידי בעיר אינו חייב לצער עצמו שלא לאכול כלל ומש\"ה כתב המחבר דמצוה על שכניו שיאכילוהו שלא יאכל משלו דלכאורה הוא יתור לשון אלא הכוונה דעיקר מצוה על השכנים שלא יגרמו שיצטרך לאכול משלו עד כאן לשונו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 378:1"
+        },
+        "2": {
+          "he": "יחזור.  פי אע\"פ ששניהם אבלים. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 378:2"
+        },
+        "3": {
+          "he": "לאכול.  ומשמע דאם רצה האבל להתענות באותו היום מותר וכ\"כ הב\"ח עכ\"ל הש\"ך (ובהג\"א פרק אלו מגלחין כתב בשם א\"ז אין מניחים את האבל להתענות ביום ראשון אלא מאכילין ומשקין אותו אפילו בתענית שלפני ראש השנה לא הניח הרשב\"ם להתענות ביום הקבורה ע\"כ. ב\"י ופוסקים. ומכל מקום שמעינן מהא אפילו למאי דפסקינן שמותר להתענות אם רצה האבל שלא להתענות בימים שלפני ראש השנה או בתעניות הדומים לזה הרשות בידו ואם מת בחצי היום וכבר קבל עליו התענית ממתין לעת ערב עד אחר התפלה ולא משלים לגמרי):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 378:3"
+        },
+        "4": {
+          "he": "שהמת.  כדי להעביר הסרחון:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 378:4"
+        },
+        "5": {
+          "he": "שיתחלקו.  דהוי כסעודת מריעות ושיש בה שמחה. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 378:5"
+        },
+        "6": {
+          "he": "בשבת.  כתב הש\"ך צ\"ע דלקמן ס\"ס שצ\"ט פסק הב\"י דמברין בשבת וכתב שכן פשוט המנהג בכל העולם להברות בשבת ולא נשמע מעולם שום פוצה פה ומצפצף עכ\"ל (ואפשר שזהו לפי יש נוהגין שמברין כל ז' כפי מנהג הספרדיים בהרבה מקומות לפי שאין האבל מכין עצמו דבר מכח טרדת אבלותו. וגם כדי שלא לבייש מי שאין לו לזון עצמו ז' ימים ימי בטולו ממלאכתו. וכ\"כ רבינו ירוחם. וע\"כ גם בשבת מברין שהאבלים סומכין על זה ובלא זה אין לו מה יאכל בשבת. אך לפי הנוהגין שאין מברין אלא סעודה הראשונה באיזה לחם וביצים מעולם לא שמענו שעושין זה בשבת כנ\"ל):    ..",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 378:6"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

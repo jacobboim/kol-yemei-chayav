@@ -1,0 +1,786 @@
+{
+  "chelek": "OC",
+  "siman": 575,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 13,
+  "fetchedAt": "2026-07-07T23:49:33.425Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני תעניות שמתפללין בארץ ישראל על הגשמים. ובו יג סעיפים:סדר תעניו' שמתענין בארץ ישראל על גשמים כך היא הגיע י\"ז במרחשוון ולא ירדו גשמים מתחילין תלמידי חכמים בלבד להתענו' שלשה תעניות ב' וה' וב' וכל התלמידים ראוים לכך ודין תעניות אלו כדין תענית יחיד:",
+      "en": "Laws of supplications for rain prayed for in the Land of Israel, and it has thirteen clauses: 1. The order of fasts observed in the Land of Israel for rain: When the 17th of Marcheshvan arrives and no rain has fallen, the scholars begin to observe fasts. Only the advanced students fast three times, on Monday, Thursday, and Monday. All students are eligible for this, and the rules of these fasts are like those of an individual fast.",
+      "ref": "Shulchan Arukh, Orach Chayim 575:1"
+    },
+    {
+      "seif": 2,
+      "he": "הגיע ר\"ח כסליו ולא ירדו גשמים בית דין גוזרין שלשה תעניות על הצבור שני וחמישי ושני וכל העם נכנסים לבתי כנסיות ומתפללים וזועקים ומתחננים כדרך שעושים בכל התעניו':",
+      "en": "2. When the first day of the month of Kislev arrives and no rain has fallen, the court decrees three communal fasts: on Monday, Thursday, and Monday. The entire community enters the synagogues, prays, cries out, and entreats, following the customary practice during all fasts.",
+      "ref": "Shulchan Arukh, Orach Chayim 575:2"
+    },
+    {
+      "seif": 3,
+      "he": "עברו אלו ולא נענו ב\"ד גוזרין עוד ג' תעניו' על הציבור שני וחמישי ושני ובאלו מפסיקין מלאכול מבעוד יום ואסורים בהם בעשיית מלאכה ביום אבל לא בלילה ואסורים ברחיצת כל הגוף בחמין לפיכך נועלין את המרחצאו' אבל פניו ידיו ורגליו בחמין וכל גופו בצונן מותר ואסורים בסיכה אלא א\"כ הוא להעביר את הזוהמא ואסורים בהם בתשמיש המטה וכן אסורים בנעילת הסנדל בעיר ומתפללין בבתי כנסיות ומתחננים כבשאר תעניו':",
+      "en": "3. If these passed by and were not answered, the court decreed three additional fasts on the public: Monday, Thursday, and Monday. On these days, one must refrain from eating from dawn, and it is forbidden to engage in work during the day, but not at night. Bathing the entire body in hot water is prohibited. Therefore, they immerse in lukewarm water, but they may wash their face, hands, and feet in hot water, and the rest of the body in cold water is allowed. They are also forbidden from anointing themselves with oil, except if it is to remove dirt. They are forbidden from marital relations on these days. They are also forbidden from wearing leather shoes in the city. However, they pray in synagogues and supplicate like on other fasts.",
+      "ref": "Shulchan Arukh, Orach Chayim 575:3"
+    },
+    {
+      "seif": 4,
+      "he": "עברו אלו (ולא נענו) ב\"ד גוזרין עוד ז' תעניות על הצבור שני וחמישי ושני וחמישי ושני וחמישי ושני וכל מה שאסור בג' שלפני אלו אסור אף באלו ויתירין אלו שמתריעין בהם בשופר על הברכו' שמוסיפים בהם ומתפללי' ברחוב העיר ומורידין זקן להוכיחם ומוסיפין שש ברכו' בתפלת שחרי' ובתפלת המנחה ונועלים את החניו' ובשני לעת ערב פותחין מעט (אותן החניות המוכרות אכילה ושתיה) (ב\"י בשם רש\"י) כדי שימצאו לקנו' לסעוד' הלילה ובחמישי פותחין כל היום חניו' המוכרו' מאכל מפני כבוד השבת ואם יש לחנו' שני פתחים פותח אחד ונועל אח' ואם יש לחנו' אצטבא לפניו פותח כדרכו בחמישי ואינו חושש:",
+      "en": "4. If these passed by (and were not answered) seven additional fasts are decreed by the beis din on the public: Monday and Thursday, Monday and Thursday, Monday and Thursday, and Monday. Everything that is prohibited on the three [previous] fasts is also forbidden on these. These are permitted [additional practices] for which they blow the shofar to awaken the public. They recite additional blessings, pray in the streets of the city, rebuke the people, add six blessings in the morning and afternoon prayers, wear sackcloth, and on Monday evening, they start [the fast] a bit. (Those familiar in selling food and drink) (B\"Y in the name of Rashi) in order for people to find for purchase for the Friday night meal, on Thursday, all day, those who sell food open their shops due to the honor of Shabbat. If a shop has two entrances, they open one and close the other. If a shop has a small side entrance, they open it as usual on Thursday, and there is no concern.",
+      "ref": "Shulchan Arukh, Orach Chayim 575:4"
+    },
+    {
+      "seif": 5,
+      "he": "עוברו' ומניקות מתענות אבל לא בג' ראשונו' ולא בז' אחרונו' ומיהו לא יאכלו אלא כדי קיום הולד (ואסור להן להחמיר ולהתענות) (תשב\"ץ סי' תכ\"ח):",
+      "en": "5. Pregnant women and nursing mothers fast, but not during the first three and last seven months [of pregnancy]. However, they should only eat enough to sustain the fetus, (and it is forbidden for them to take on additional stringencies and fasting) (Responsa Teshuvot Shaul, Siman 498).",
+      "ref": "Shulchan Arukh, Orach Chayim 575:5"
+    },
+    {
+      "seif": 6,
+      "he": "אחר שגזרו י\"ג תעניו' אלו אם לא נענו אין גוזרין עוד והני מילי כשמתענין על הגשמים לפי שכשעברו אלו כבר עברו זמן הגשמים ואין בהם תועלת אבל על שאר פורעניו' מתענים והולכים עד שיענו:",
+      "en": "6. After decreeing these thirteen fasts, if they were not answered, no additional fasts are decreed. These matters apply when fasting for rain, as when these [fasts] pass, the rainy season has already elapsed, and there is no benefit in fasting for rain. However, for other calamities, they fast and continue until they are answered.",
+      "ref": "Shulchan Arukh, Orach Chayim 575:6"
+    },
+    {
+      "seif": 7,
+      "he": "כשמתענים על הגשמים ועברו י\"ג תעניו' אלו ולא נענו ממעטין במשא ומתן ובבנין של שמחה (אלא אם כן כותלו נוטה ליפול) (טור) וממעטין באירוסין ונישואין אלא אם כן לא קיים מצות פריה ורביה וממעטים בשאיל' שלום בין אדם לחבירו ותלמידי חכמים לא ישאלו שלום אלא כנזופין וכמנודים למקום ועם הארץ שנתן להם שלום משיבין לו בשפה רפה וכובד ראש ותלמידי חכמים לבדם חוזרים ומתענים שני וחמישי ושני עד שיצא ניסן של תקופה ומותרין לאכול בלילה ובמלאכה ובשאר דברים ומפסיקים בראש חדש חנוכה ופורים יצא ניסן של תקופה והוא כשהגיע השמש לתחל' מזל השור אין מתענין עוד שאין הגשמים בזמן הזה אלא סימן קללה הואיל ולא ירדו כל עיקר בתחל' השנה:",
+      "en": "7. When fasting for rain, and these thirteen fasts have passed without being answered, they diminish in business transactions and building for joy (unless a wall is inclined to fall) (Tur). And they reduce engagements and marriages unless the commandment of procreation and multiplication is not fulfilled. They also reduce greetings between one person and another, and scholars should not greet each other except with a nod or a slight inclination to the head. And when an ignoramus extends a greeting, they respond to him with soft speech and a bowed head. However, scholars alone return the greeting. They fast on Monday and Thursday, and Monday, until the arrival of the Nisan equinox. And it is permissible to eat at night, engage in work, and other matters. They cease fasting on Rosh Chodesh, Chanukah, and Purim. Once the Nisan equinox has arrived, and it is when the sun reaches the beginning of the zodiac sign of Taurus, they no longer fast because rain is not expected at this time. It is considered a sign of a curse since significant rainfall does not occur at the beginning of the year",
+      "ref": "Shulchan Arukh, Orach Chayim 575:7"
+    },
+    {
+      "seif": 8,
+      "he": "וכל זה הסדר כשלא ירדו גשמים כלל אבל ירדו ברביעה (פי' המטר היורד להצמיח כל צמח ועשב האדמה נקרא רביעה מפני שרובע ומעבר את הקרקע כדכתיב כי כאשר ירד הגשם וגו' והולידה והצמיחה וגו') וצמחו העשבים והתחילו ליבש הרי אלו מתענים וזועקים עד שירדו גשמים או עד שיבשו הצמחים וכן אם הגיע זמן הפסח או קרוב לו שהוא זמן פריחת האילנו' בארץ ישראל ולא ירדו גשמים הרי אלו מתענים וזועקים עד שירדו גשמים הראוים לאילנו' או עד שיעבור זמנם וכן אם הגיע חג הסוכו' ולא ירדו גשמים הרבה כדי למלאו' מהם הבורו' והשיחין והמערו' הרי אלו מתענים עד שירד גשם הראוי לבורו' ואם אין להם מים לשתו' מתענין על הגשמים בכל עת שלא יהיה להם מים לשתו' ואפי' בימות החמה פסקו הגשמים בין גשם לגשם מ' יום בימו' הגשמים הרי זה מכת בצור' ומתענים וזועקים עד שירדו גשמים או עד שיעבור זמנם:",
+      "en": "8. All this order applies when there is no rainfall at all, but if rain falls in the fourth part [of the rainy season (the term 'the fourth part' refers to the rain that falls to stimulate the growth of every plant and herb of the earth. It is called 'a quarter' because it penetrates and goes beyond the ground, as it is written, 'For as the rain comes down, and so on, and gave seed to the sower and bread to the eater.) when the herbs sprout and begin to wither, they fast and cry out until rain falls or until the plants dry up. Similarly, if the time for Passover arrives or is approaching, which is the time of the blossoming of the trees in the Land of Israel, and there is no rainfall, these individuals fast and cry out until suitable rain falls for the trees, or until their season passes. Similarly, if the festival of Sukkot arrives, and there is not enough rain to fill the cisterns, pits, and caves, they fast until the appropriate rain for filling them falls. And if they do not have water for drinking, they fast for rain at any time when they do not have water to drink, even during the hot days. If there is a break in rainfall between one rain and another for 40 days, it is considered a drought. They fast, cry out until rain falls, or until their season passes.",
+      "ref": "Shulchan Arukh, Orach Chayim 575:8"
+    },
+    {
+      "seif": 9,
+      "he": "במה דברים אמורים בארץ ישראל וכל הדומה לה אבל מקומו' שעונת הגשמים שלהם קודם שבעה עשר במרחשון או אחר זמן זה כשיגיע זמנם ולא ירדו גשמים יחידים מתענים שני וחמישי ושני ומפסיקים בראש חודש חנוכה ופורים ושוהין אח\"כ כמו ששה ימים אם לא ירדו גשמים ב\"ד גוזרין י\"ג תעניו' על הסדר שאמרנו:",
+      "en": "9. In the land of Israel and similar places, but in their respective locations, their rainy season begins before the seventeenth of Marheshvan. If, by that time, rain has not fallen, they fast on Monday, Thursday, and Monday, and pause again at the beginning of the months of Hanukkah and Purim. Afterwards, they continue in intervals of six days. If rain still hasn't come by the 24th of Marheshvan, they decree thirteen fasts in order, as we have mentioned",
+      "ref": "Shulchan Arukh, Orach Chayim 575:9"
+    },
+    {
+      "seif": 10,
+      "he": "כל תעני' שגוזרים הצבור בחוצה לארץ אוכלים בהם בלילה ודינם כדין שאר תעניו' שאין גוזרים על הצבור תעני' כגון צום כפור אלא בארץ ישראל בלבד ובגלל המטר ובאותם עשר תעניו' שהם שלשה אמצעיים ושבע אחרונות:",
+      "en": "10. All communal fasts imposed outside the land, one may eat at night, and their regulations are like those of other fasts not decreed for the community, such as Yom Kippur. This applies only in the land of Israel and is due to rain. In those ten communal fasts, which are three in the middle and seven at the end",
+      "ref": "Shulchan Arukh, Orach Chayim 575:10"
+    },
+    {
+      "seif": 11,
+      "he": "היו מתענים על הגשמים ונענו כמה ירדו ויהיו פוסקין מן התעני' משיכנסו בעומק הארץ החרבה טפח ובבינוני' שני טפחים ובעבודה שלשה טפחים (ושיעור כמה שצריכין לירד לברך עליהם ע' לעיל סימן רכ\"א) ואם התחילו לירד אחר חצות ישלימו אותו היום (וע' לעיל סימן תקס\"ט בסופו) ואם התחילו לירד קודם חצו' לא ישלימו אלא יאכלו וישתו ויעשו יום טוב ולערב יתקבצו ויאמרו הלל הגדול:",
+      "en": "11. They would fast for rain, and they were answered based on how much rain fell. They would cease the fast when the water reached a depth of one handbreadth in the plowed land, two handbreadths in uncultivated land, and three handbreadths in a well-irrigated field; (And the measure of how much rain is needed to recite the blessing on them is discussed above in Section 231). And if rain begins to fall after midnight, they should complete that day (and see above, Section 459, at its end). If it began to rain before midday, they should not complete that day. Instead, they should eat, drink, and celebrate the festival. In the evening, they should gather and recite the complete Hallel.",
+      "ref": "Shulchan Arukh, Orach Chayim 575:11"
+    },
+    {
+      "seif": 12,
+      "he": "אין אומרים הלל הגדול אלא כשנענו ביום תעניתם דוקא אבל אם לא נענו עד יום שלאחר תעניתם לא:",
+      "en": "12. The complete Hallel is recited only when they were answered on the day of their fast; specifically, if they were not answered until the day following their fast, it is not recited.",
+      "ref": "Shulchan Arukh, Orach Chayim 575:12"
+    },
+    {
+      "seif": 13,
+      "he": "אם ירדו להם גשמים בליל תעניתם קודם שעלה עמוד השחר אין אומרים הלל הגדול:",
+      "en": "13. If rain falls for them on the night of their fast before dawn, the complete Hallel is not recited.",
+      "ref": "Shulchan Arukh, Orach Chayim 575:13"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה תענית",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:1"
+        },
+        "2": {
+          "he": "ברייתא שם וכר' יוסי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:2"
+        },
+        "3": {
+          "he": "שם משנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:3"
+        },
+        "4": {
+          "he": "משנה שם י\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:4"
+        },
+        "5": {
+          "he": "ברייתא שם י\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:5"
+        },
+        "6": {
+          "he": "מימרא דרב חסדא וברייתא שם מהא דתנן נועלים את המרחצאות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:6"
+        },
+        "7": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:7"
+        },
+        "8": {
+          "he": "רמב\"ם בפ\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:8"
+        },
+        "9": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:9"
+        },
+        "10": {
+          "he": "משנה שם ס\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:10"
+        },
+        "11": {
+          "he": "משנה שם ב\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:11"
+        },
+        "12": {
+          "he": "ברייתא שם י\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:12"
+        },
+        "13": {
+          "he": "ב\"י ממשמעות פירש\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:13"
+        },
+        "14": {
+          "he": "שם בברייתא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:14"
+        },
+        "15": {
+          "he": "כפירוש רמב\"ם בפ\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:15"
+        },
+        "16": {
+          "he": "ברייתא י\"ד וכאוקימתא דרב אשי שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:16"
+        },
+        "17": {
+          "he": "רמב\"ם וסמ\"ג מהירושלמי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:17"
+        },
+        "18": {
+          "he": "שם בגמ' בעובדא דר' יהודה נשיאה וברייתא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:18"
+        },
+        "19": {
+          "he": "משנה וגמ' שם י\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:19"
+        },
+        "20": {
+          "he": "רמב\"ם שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:20"
+        },
+        "21": {
+          "he": "ברייתא שם י\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:21"
+        },
+        "22": {
+          "he": "שם במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:22"
+        },
+        "23": {
+          "he": "ירושלמי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:23"
+        },
+        "24": {
+          "he": "רמב\"ם שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:24"
+        },
+        "25": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:25"
+        },
+        "26": {
+          "he": "והוא ל' יום אחר תקופת ניסן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:26"
+        },
+        "27": {
+          "he": "רמב\"ם שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:27"
+        },
+        "28": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:28"
+        },
+        "29": {
+          "he": "ירושלמי והביאו הרי\"ף ורא\"ש ורמב\"ם שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:29"
+        },
+        "30": {
+          "he": "משנה שם י\"ח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:30"
+        },
+        "31": {
+          "he": "אוקימתא דרב נחמן שם וכפי' ראשון שברש\"י וכ\"כ הפוסקים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:31"
+        },
+        "32": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:32"
+        },
+        "33": {
+          "he": "משנה וגמ' וברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:33"
+        },
+        "34": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:34"
+        },
+        "35": {
+          "he": "רמב\"ם בפ\"ג מה\"ת הוא מבואר בירושלמי וגם נראה מן הגמ' שלנו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:35"
+        },
+        "36": {
+          "he": "כן הגיה הב\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:36"
+        },
+        "37": {
+          "he": "רמב\"ם שם מהא דשמואל אין ת\"צ בבבל י\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:37"
+        },
+        "38": {
+          "he": "ברייתא שם כ\"א וכחכמים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:38"
+        },
+        "39": {
+          "he": "משנה שם י\"ט כר' אליעזר",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:39"
+        },
+        "40": {
+          "he": "שם במשנה מעשה י\"ט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:40"
+        },
+        "41": {
+          "he": "הרשב\"א בתשו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:41"
+        },
+        "42": {
+          "he": "ע\"ל סי' ת\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:42"
+        },
+        "43": {
+          "he": "שם בתשובה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 575:43"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "ראוים לכך עמ״א ת״ח ששואל דבר הלכה בכ״מ אומרה צריך להתענות אבל תלמוד שאין יודע בכ״מ אם רצה מתענה ולית יוהרא הא אין חיוב ועט״ז א׳ לכאורה משמע כן. ומ״ש מרשב״ג היינו לדידן ס״ל כת״ק דרשב״ג בתענית דלא הוי כ״א יוהרא ובתענית מוכחא מילתא ורשב״ג סבר דלא מוכחא מילתא בתענית נפסיק כמתני׳ דתענית ולא כברייתא שם וצ״ע דבתענית י׳ ב׳ אמר רשב״ג הטעם שבח אין עושה צער עושה וזכות הוא לו א״כ מה קושיא מט״ב ותענית דרשאי לצער עצמו ול״ש יוהרא כה״ג וזכות הוא לו. ומ״ש המ״א ממקום שהתענה לאין מתענה התם מדינא אסור ואיך יעשה איסור בשביל מחלוקת וי״ל דמשמע ליה אם שואלין אותו רשאי לומר מתענה אני וצ״ע. מ״ש וס״ל צ״ל וצ״ל:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 575:1"
+        },
+        "2": {
+          "he": "מבע״י עמ״א א״צ תוספת אבל ביה״ש שלו אסור בת״צ בא״י ועסי׳ תקנ״ג ס״ג ופסחים ונ״ד ב׳ כרבא ואליבא דר׳ יוחנן ובגמ׳ לס״ד אין בין ט״ב ליוה״כ שזה ספיקו אסור הא צריך הוספה מחול על הקודש יע״ש אלא חדא נקיט:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 575:2"
+        },
+        "3": {
+          "he": "מתשמיש המטה עמ״א דברעב בלא״ה אסור בתשמיש ומיהו יש לומר אף בליל טבילה עמ״א שם אות ה׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 575:3"
+        },
+        "4": {
+          "he": "המוכרת עמ״א מדלא כתב המוכרת מאכל ומשתה כמ״ש בהג״ה בשני ש״מ דבה׳ אין פותחין חנות מחמת דא״צ הכנה ופותחין בע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 575:4"
+        },
+        "5": {
+          "he": "לא עמ״א הוכיח לכאורה דאין אומדים בתענית ואם א״י כולם לא יתענה כלל מעוברת ומינקת:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 575:5"
+        },
+        "6": {
+          "he": "של שמחה עמ״א עסי׳ תקנ״א ס״ב ובמ״א אות זיין יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 575:6"
+        },
+        "7": {
+          "he": "ממעטין באירוסין עמ״א אף אירוסין בלא נישואין ואף בלא סעודה אין מארסין וחמיר מט״ב ובתקנ״א יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 575:7"
+        },
+        "8": {
+          "he": "מתענין עמ״א ועב״י:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 575:8"
+        },
+        "9": {
+          "he": "בד״א עמ״א ובסי׳ קי״ז לענין שאלה טל ומטר הכל כיחידים דמי כל שאין בזמן שקבעו חז״ל ועמ״א שם אות ג׳ ד׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 575:9"
+        },
+        "10": {
+          "he": "בח״ל ובגמרא פסחים אין ת״צ בבבל כ״א ט״ב ואף זה אין כיום כפור וא״צ תוספת והמחבר שכתב כגון צום כפור משמע בא״י אסור תוס׳ ועמ״א אות ב׳ ועא״ר ב׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 575:10"
+        },
+        "11": {
+          "he": "יאכלו עמ״א הלל הגדול כ״ו כל״ח ובשבת אומרים אותו קודם התפלה ועסי׳ תקס״ט שאם רוב הציבור רוצים להשלים אף קודם חצות משלימין ומ״מ הלל הגדול צ״ל קודם אכילה כיון שא״א בענין אחר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 575:11"
+        },
+        "12": {
+          "he": "הלל הגדול עמ״א עד נהרות בבל ומ״ש ששירת הגשמים בלילות י״ל ונתתי גשמיכם בעתם בלילה בשעה שאין ב״א עוברים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 575:12"
+        },
+        "13": {
+          "he": "שלאחר עמ״א ואף ירדו גשמים מיד בצ״ה א״א הלל הגדול ואפשר ירדו ביה״ש אומרים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 575:13"
+        },
+        "14": {
+          "he": "א״א עמ״א אף שהפסיקו מבע״י מ״מ עיקר התענית מתחיל מע״ה ועט״ז ד׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 575:14"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "וכל עט״ז משמע דתלמיד אע״פ שאין ת״ח ממש אפילו הכי חייב להתענות וקמ״ל דל״ת מה״ב יוהרא קמ״ל דאין זה יוהרא וממילא צריך להתענות והמ״א א׳ פירש דוקא ת״ח ממש א״י לפטור עצמו ותלמיד לחוד לית ביה יוהרא ורשות אם רוצה מתענה אבל שאר העם אף אם רצו לא דהוי יוהרא. ואף בזמן הזה דלית ת״ח מ״מ מתענין ואי״ה במ״א יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 575:1"
+        },
+        "2": {
+          "he": "ומתחננים עט״ז כל ת״צ קורין בשחרית ויחל עסי׳ תקס״ו בזה ולמנחה בה״ב לדידן דרשו ועיין לקמן. כת׳ הר״מ ז״ל פ״א מהל׳ תענית מ״ע לזעוק ולהריע בחצוצרות הביאו המ״א ר״ס תקע״ו ותמה למה אין תוקעין היום יע״ש ועמ״ל בפרשת דרכים דרך מצותיך שהסמ״ג לא הביא מצוה זו לתקוע בעת הצרה יע״ש ובקרא (במדבר יו״ד בהעלותך) כתיב בארצכם י״ל ח״ל לא ובא״י גופא כשאין בידינו י״ל לא וצ״ע ועמ״מ פ״א מהל׳ תענית ומ״ל שם שהר״מ ז״ל כלל מ״ע א׳ לקרבנות ולצרה ותמהו שם למה לא מנה לב׳ מ״ע אחר שהם זמנים מתחלפים כמו שופר ר״ה ויובל ביוה״כ יע״ש ועיין בספר החינוך פרשת בהעלותך למדתי קצת תי׳ שהכוונה להם א׳ שאדם צריך כוונה גדולה בקרבן (ושלא יקריבהו רק לשמים לא לשום מזל וכוכב כמו שהורגלו מקודם לכן ועיין בר״מ ז״ל ונשאר ספרים טעם קרבנות) וכן בעת צרה צריך כיוון גדול לה׳ והיינו נמי כמ״ש בסמוך שלא יאמר מקרה הוא או ממערכת השמים האדם חומר צריך התעוררות רב ולזה נצטוינו להריע בחצוצרות וכיון שהכוונה אחת מנה במ״ע א׳ כך י״ל קצת ושופר ר״ה ויובל ב׳ כוונות להם זה לחירות וזה לשבור לבינו ולשוב בתשובה ולזכור פקידת יצחק ותענית בחצוצרות ושופר בר״ה מש״ה א״ש. ואי״ה במ״א בר״ס תקע״ו יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 575:2"
+        },
+        "3": {
+          "he": "עד עט״ז משמע כל שלעת ערב אחר צ״ה התחילו לירד גשמים אע״פ שעדיין לא אכלו ועודן בתעניתם שוב א״א הלל הגדול שהוא כ״ו כל״ח ועמ״א ואי״ה שם יבואר עוד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 575:3"
+        },
+        "4": {
+          "he": "בליל עט״ז בתשובת הרשב״א ז״ל סי׳ קנ״ב הביאו הב״י משמע בבבל דוקא שאין מתענין מבע״י כמ״ש כאן בסעיף י׳ אין ת״צ בבבל ומש״ה לא התחיל התענית כ״א מעמוד השחר הא בא״י כה״ג באמצעות ואחרונות דמפסיקין מבעוד יום משמע אם ירדו בליל התענית אומרים הלל הגדול והמחבר לא משמע כך וצ״ע כעת:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 575:4"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] סדר תעניות וכו'. מצות עשה לזעוק ולהריע בחצוצרות על כל צרה שלא תבוא על הציבור, וידוע הכל שבגלל מעשיהם הרעים הורע להן ככתוב עונותיכם הטו וגו' וזהו שיגרום להם להסיר הצרה מעליהם אבל אם לא יזעקו וכו', ומדברי סופרים להתענות וכו' (רמב\"ם) וכתב מגיד או שופר או חצוצרות, ומגן אברהם בריש סימן תקע\"ו תמה למה אין אנו נוהגין לתקוע בעת צרה ואף שאין תענית ציבור בבבל, מכל מקום הלא מדאורייתא מצוה לתקוע בלא תענית, ועיין מה שכתבתי בסימן תקפ\"ה דתקיעה זו מעומד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 575:1"
+        },
+        "2": {
+          "he": "[ב] [לבוש] כמו ביום כיפור ותשעה באב וכו'. בטור לא כתב אלא ביום כיפור משמע דתוספות מבעוד יום בעינן והלבוש סיים נמי בתשעה באב להורות דרק בין השמשות אסור ולא תוספות וכן הסכים המגיד פרק ג' דלא יהיו חמורין אלו מתשעה באב:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 575:2"
+        },
+        "3": {
+          "he": "[ג] המוכרות מאכל וכו'. אבל חנויות של משתה אסור לפתוח רק מטין דהא יכולין לקנותו בערב שבת מה שאין כן מאכל שצריך הכנה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 575:3"
+        },
+        "4": {
+          "he": "[ד] [לבוש] שהם רבים וכו'. ואם כן אם ציבור גזרו שלוש תעניות ויש אדם חלוש שאינו יכול להתענות כולם אין צריך להתענות כלל וצריך עיון (מגן אברהם):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 575:4"
+        },
+        "5": {
+          "he": "[ה] של שמחה וכו'. קאי למעלה גם אמשא ומתן דאינו אסור אלא של שמחה וכמו שכתב סימן תקנ\"א. וממעטין באירוסין וכו'. פירוש שאין מארסין כלל בו (מגן אברהם), דחמירי מתשעה באב שמארסין בו תוספות מגילה דף ז', וצריך עיון ממה שכתבתי בס\"ק א' בשם המגיד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 575:5"
+        },
+        "6": {
+          "he": "[ו] מתענין וזועקין וכו'. אבל לא בשופר (בית יוסף):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 575:6"
+        },
+        "7": {
+          "he": "[ז] עד שיבשו וכו'. ואם לא יצא זמנה של רביעי מתענה י\"ג תעניות כפי הסדר ואם אין שהות כל כך מתריעין מיד למה שהם צריכין לזרוע בתחילה בית יוסף מר\"ן:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 575:7"
+        },
+        "8": {
+          "he": "[ח] אבל וכו'. והוא הדין כשעונות הגשמים שלהם אחר שבועות בית יוסף:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 575:8"
+        },
+        "9": {
+          "he": "[ט] [לבוש] אלא בנפש וכו'. ודוקא בשעת התפילה אבל קודם התפילה שרי ולכן אמרינן ליה בפסוקי דזמרא בשבת תוס' מגן אברהם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 575:9"
+        },
+        "10": {
+          "he": "[י] ועיין לעיל סימן תקס\"ט וכו'. ששם נתבאר בירדו קודם חצות שאם תלמידי חכמים ורוב ציבור רוצין להשלים אין היחיד רשאי לפרוש וצריך עיון בירושלמי שהביא בית יוסף דנחית מטרא ברמשא סליק ר' מנא ובעי למשתיה אמר ליה ר' יודן ר\"י המתן שמא ימלכו להשלים הרי דאחר חצות תלוי בהמלכתן ויש ליישב בדוחק:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 575:10"
+        },
+        "11": {
+          "he": "[יא] [לבוש] שהוא הודו וכו'. כן כתב בית יוסף בשם הרי\"ף אבל מגן אברהם פסק כפסקי תוס' תענית שהביא בית יוסף דיש להתחיל משיר המעלות הנה ברכו וגומר העומדים בבית ה' בלילות מפני ששירת הגשמים בלילות ואומר מעלה נשיאים מקצה הארץ, עד כאן. וצריך עיון הא בפסחים דף קי\"ח מהיכן הלל הגדול ר' יודא אומר מהודו וכו' ר' יוחנן אומר משיר המעלות וכו' ופסקו כל הפוסקים שם כר' יודא וכמו שכתב בסימן ת\"פ, גם לא ידעתי הפירוש שכתבו ששירת הגשמים בלילות, שוב ראיתי בירושלמי סוף פרק ג' דתענית איזה הלל הגדול ר' חנינא אמר מהודו וכו' א\"ר יוחנן ובלבד שעומדין בבית ה' ולמה אילן תרתי פרשתא מפני שירידת גשמים כלולה בהן על דעתיה דר' יוחנן ניחא דכתיב מעלה נשיאים וכר' חנינא מה בגין דכתיב נותן לחם וכו' עד כאן לשונו. ואי לאו דמסתפינא הייתי אומר שנפל טעות בפסקי תוס' שצריך לומר שירידת גשמים כלולה (כמו בירושלמי) וטעו והדפיסו ששירת הגשמים בלילות, ואין להקשות לפי זה למה מתחילין משיר המעלות דיש לומר דסבירא ליה דחדא פרשתא הוא עם הללויה וכו' שעומדים או מטעם אחר, וראיה דבש\"ס דילן קאמר נמי ר' יוחנן משיר המעלות כדלעיל ועיין בתוס' פסחים דף קי\"ד ע\"א, ומכל מקום לדינא כיון דאיכא פלוגתא בש\"ס דילן וקיימא לן דלא כר' יוחנן אין לשנות ואף דהכא יש טעם דכתיב ביה מעלה נשיאים ודאי בפסחים נמי יש טעם לר' יוחנן ועוד דהכא והתם תנא במתניתין וברייתא סתם הלל הגדול, איך נפרש לחלק פירושו ועוד דבתוספתא סוף פרק ב' דתענית מצאתי נמי כן בפירוש המשנה סוף פרק ג' דתענית ראיתי שכתב זה לשונו מהודו עד שיר המעלות, עד כאן, והוא תמוה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 575:11"
+        },
+        "12": {
+          "he": "[יב] [לבוש] לשכרות אומרים וכו'. והוא הדין אם רצו רוב הציבור להשלים יאמרו הלל הגדול קודם אכילה מגן אברהם ועיין סימן תקס\"ט, וצריך עיון דאם כן גם בירדו לאחר חצות דמשלימין יאמרו הלל קודם אכילה דלילה, אלא אין אומרים אלא כשאוכלים ביום, וכן משמע במגיד סוף פרק א':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 575:12"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "וכל התלמידים ראוים כו'.  בטור כתב וז\"ל וכל תלמיד יכול להחזיק עצמו בחזקת ת\"ח ואין בו משום יוהרא אבל לא שאר העם הקש' ב\"י דלפ\"ז ברצונו תליא מלתא ולא משמע התם הכי דת\"ר אל יאמר אדם תלמיד אני איני ראוי להיות יחיד אלא כל ת\"ח הם יחידים משמע שצריכין הם לעשות כיחידים ודחק לתרץ ונראה דלק\"מ דודאי חיוב הוא על כל תלמיד דאין יכול להפקיע עצמו לומ' פטור אני דיהיה מצוה הבאה בעבירה כי יוהרא היא קמ\"ל דאין כאן עביר' כלל דלענין יוהרא היתר הוא ממילא נשארה המצוה לבדם וע\"כ אין יכול להפקיע ממנה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 575:1"
+        },
+        "2": {
+          "he": "ומתחננים כדרך וכו'.  כ\"כ גם הטור. ונראה דבכלל זה הקריאה בויחל כמו בשאר תענית כדמסיק הטור ססי' תקס\"ו בשם רב שלום ולא הוצרך להזכירו פה בתעני' זה והא דזכר במנח' הקריא' היינו אגב אורחיה דבא שם להזכיר סדר היום זכר גם את זה ואע\"ג דבסי' תקע\"ט אצל ז' תעניו' זכר גם הקריאה היינו דשם הוה קריאה משונה משאר תעניו' דצריך שם לקרות באם בחקותי כו' ולא ויחל ובחנם האריך ב\"י בזה בפי' דברי הטור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 575:2"
+        },
+        "3": {
+          "he": "עד יום שלאחר תעניתם לא.  דבתענית' לא נענו וברחמי שמים ירדו להם יום אחר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 575:3"
+        },
+        "4": {
+          "he": "בליל תעניתם כו'.  לפי שאינם מתחילין להתענות אלא מעמוד השחר שזהו עיקר תענית:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 575:4"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "ראוי לכך. ומשמע דאין חייבים להתענות והקשה הרב\"י דהא בגמ' משמע דחייבים להתענו' ולק\"מ דהתם קאי את\"ח ששואלין אותן דבר הלכ' בתלמודו ואומר' אבל אם לא הגיע לכלל כך אין מחויב להתענו' אלא שאם רצה מתענ' ולית ביה משום יוהרא כנ\"ל ברור בגמ': ודע דרשב\"ג קאמ' בגמ' דכל אדם אפי' אינו תלמיד רשאי להתענות וצ\"ל הטעם דהרואה אומ' שמתענה בלא\"ה כי הרב' בני אדם מתעני' וכ\"מ ספ\"ב דברכות לרב שישא וכ\"מ רס\"י תקע\"ד דההולך ממקום שמתענים למקום שאין מתענים יתענה ולא חיישי' למחלוקת דכל אדם יש לו רשות להתענו' וא\"כ צ\"ע דבססי' תקנ\"ד פסק כרשב\"ג לענין מלאכה בט\"ב וא\"כ גם הכא הל\"ל דכל אדם רשאי להתענו' גם על הטור ק' דבסי' ע' פסק כרשב\"ג ולא כבריית' (וצ\"ל) דתענית ל\"ד למלאב' דמ\"מ הרואה שמתענה מוכחא מלתא שעושה מפני הגשמים והוי משום יוהרא ועמ\"ש סי' תקפ\"א ס\"ב ועמח\"מ סי' קס\"ב בב\"י דלפעמי' פוסקי' דלא כרשב\"ג ובתי\"ט פ\"ד דפסחים:",
+          "en": "",
+          "ref": "Magen Avraham 575:1"
+        },
+        "2": {
+          "he": "מבע\"י. כמו ביה\"כ (טור) ומיהו ל\"ד דביה\"כ צריך להוסיף מעט משא\"כ כאן אבל ביה\"ש שלו אסור כדאי' בפסחי' ד' נ\"ד:",
+          "en": "",
+          "ref": "Magen Avraham 575:2"
+        },
+        "3": {
+          "he": "בתשמיש המטה. אפי' עדיין אין רעב בעולם עססי' תקע\"ד:",
+          "en": "",
+          "ref": "Magen Avraham 575:3"
+        },
+        "4": {
+          "he": "המוכרו' מאכל. מדלא כ' מאכל ומשתה כמש\"ל בהג\"ה ש\"מ דס\"ל דחנות של משת' אסור לפתוח רק מטין דהא יכולין לקנותו בע\"ש משא\"כ מאכל שצריך הכנ':",
+          "en": "",
+          "ref": "Magen Avraham 575:4"
+        },
+        "5": {
+          "he": "לא בג' ראשונו'. דלא תקיף רוגזי' כולי האי ואחרונו' כיון דז' נינהו לא מצו עוברות ומניקות למיקם בהו (רש\"י) וק' יתענו עכ\"פ ג' תעניו' וצ\"ל כיון שא\"א להתענו' כולם אין מחויבי' להתענו' כלל וכ\"מ ממש\"ל סי' תקע\"ז ועסי' תקע\"ו סי\"ד וא\"כ אם ציבור גזרו ג' תעניו' ויש אדם חלש שאינו יכול להתענו' כלם א\"צ להתענו' כלל וצ\"ע:",
+          "en": "",
+          "ref": "Magen Avraham 575:5"
+        },
+        "6": {
+          "he": "של שמחה. קאי גם אמשא ומתן דאינו אסור אלא של שמחה וכמ\"ש סי' תקנ\"א:",
+          "en": "",
+          "ref": "Magen Avraham 575:6"
+        },
+        "7": {
+          "he": "וממעטין באירוסין. פי' שאין מארסין כלל (ב\"י תו'):",
+          "en": "",
+          "ref": "Magen Avraham 575:7"
+        },
+        "8": {
+          "he": "מתענין. ולא מתריעין [ב\"י]:",
+          "en": "",
+          "ref": "Magen Avraham 575:8"
+        },
+        "9": {
+          "he": "בד\"א כו. אפי' עונו' הגשמים שלהם אחר שבועו' (ב\"י רשב\"א) עמ\"ש סי' קי\"ז:",
+          "en": "",
+          "ref": "Magen Avraham 575:9"
+        },
+        "10": {
+          "he": "בח\"ל. שאין להם נשיא שיגזור עליהם:",
+          "en": "",
+          "ref": "Magen Avraham 575:10"
+        },
+        "11": {
+          "he": "יאכלו וישתו. שא\"א הלל הגדול אלא בנפש שבע' וכרס מלאה ודוקא בשעת התפלה אבל קודם התפלה שרי ולכן אמרי' ליה בפסוקי דזמרה בשחרית בשבת (תוס') ובמקום דשכיח שכרות אומרים הלל הגדול ואח\"כ אוכלין ושותין (ב\"י גמ') ונ\"ל דה\"ה אם רצו רוב הציבור להשלים יאמרו הלל הגדול קוד' אכילה:",
+          "en": "",
+          "ref": "Magen Avraham 575:11"
+        },
+        "12": {
+          "he": "הלל הגדול. הם כ\"ו כי לעולם חסדו, וחותמין מודים אנחנו לך על כל טפה וכו' כמ\"ש סי' רכ\"א (הרי\"ף) והר\"ן כתב דשוב א\"צ כל יחיד לברך וכתב בפסקי התוס' דיש להתחיל שיר המעלות הנה ברכו וגו' העומדים בבית ה' בלילות מפני ששירת הגשמים בלילות ואומר מעלה נשיאים מקצ' הארץ וגו':",
+          "en": "",
+          "ref": "Magen Avraham 575:12"
+        },
+        "13": {
+          "he": "שלאחר תענית' לא. דלא נענו מכח התעני' רק משמיא דרחימו עלייהו:",
+          "en": "",
+          "ref": "Magen Avraham 575:13"
+        },
+        "14": {
+          "he": "א\"א הלל. דזה לא מקרי התחל' להתענות עסי' תקס\"ה:",
+          "en": "",
+          "ref": "Magen Avraham 575:14"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ומתחננים.  ובכלל זה הקריאה בויחל כמו בשאר תעניות. ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 575:1"
+        },
+        "2": {
+          "he": "בתשמיש.  אפי' אין רעב בעולם עדיין עסס\"י תקע\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 575:2"
+        },
+        "3": {
+          "he": "מאכל.  אבל של שתיה דיכולין לקנותו בע\"ש לא. מ\"א ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 575:3"
+        },
+        "4": {
+          "he": "באירוסין.  פי' שאין מארסין כלל. ב\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 575:4"
+        },
+        "5": {
+          "he": "וישתו.  ובמקום דשכיחי שכרות אומרים הלל ואח\"כ אוכלין ושותין. וה\"ה אם רצו רוב הציבור להשלים יאמרו הלל הגדול קודם אכילה ויתחילו משיר המעלות העומדין בבית ה' עד כ\"ו כי לעולם חסדו עיין מ\"א וחותמין מודים אנחנו לך על כל טפה כמ\"ש סי' רכ\"א ושוב א\"צ כל יחיד לברך עיין מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 575:5"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) שמתענין בארץ ישראל - בא לאפוקי שאר מקומות וכדלקמן בס\"ט:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:1"
+        },
+        "2": {
+          "he": "(ב) מתחילין תלמידי חכמים וכו' - היינו אפילו ביום י\"ז גופא וכן משמע בביאור הגר\"א בס\"ט:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:2"
+        },
+        "3": {
+          "he": "(ג) וכל התלמידים וכו' - היינו שחיוב הוא על כל תלמיד ואין יכול להפקיע עצמו לומר פטור אני ודוקא כששואלים אותו דבר הלכה בתלמודו ואומרה דאז הוא בכלל ת\"ח וחייב להתחיל להתענות אבל אם לא הגיע לכלל כך איננו מחוייב להתענות אלא שאם רצה מתענה ואין בו משום יוהרא אבל כל שאר אדם אינו רשאי דהרואה שמתענה מוכחא מילתא שעושה מפני הגשמים והוי משום יוהרא:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:3"
+        },
+        "4": {
+          "he": "(ד) כדין תענית יחיד - היינו לענין שמפסיקין בהם בר\"ח וחנוכה ופורים אם פגע באלו הימים ומשא\"כ ת\"צ וכדלעיל בסימן תקע\"ב וגם לענין מה שמבואר בסימן תקס\"ו ע\"ש ונ\"ל דה\"ה לענין שצריך לקבל אותן מבעוד יום כשאר תענית יחיד ולאפוקי בת\"צ וכנ\"ל בסימן תקס\"ב סי\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:4"
+        },
+        "5": {
+          "he": "(ה) ומתחננים כדרך וכו' - ובכלל זה הקריאה ויחל בשחרית ומנחה כשאר תענית [ט\"ז וש\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:5"
+        },
+        "6": {
+          "he": "(ו) מבעוד יום - היינו דבהשמ\"ש שלו אסור וא\"צ להוסיף יותר:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:6"
+        },
+        "7": {
+          "he": "(ז) להעביר את הזוהמא - וכ\"ש אם יש לו חטטין בראשו דמותר:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:7"
+        },
+        "8": {
+          "he": "(ח) ואסורים בהם וכו' - אפילו עדיין אין רעב בעולם. ואפילו בליל טבילה [פמ\"ג]:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:8"
+        },
+        "9": {
+          "he": "(ט) ומתפללין בבתי כנסיות - ר\"ל שאין מוציאין לרחובה של עיר כמו שנוהגין בשבע אחרונות וכדלקמיה בס\"ד:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:9"
+        },
+        "10": {
+          "he": "(י) ומוסיפין שש ברכות - הוא מבואר בטור:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:10"
+        },
+        "11": {
+          "he": "(יא) ונועלים את החנויות - עיין בגבורת ארי דמסיק דשארי חנויות של דבר אחר נועלין לגמרי כל היום בין בשני בין בחמישי רק בחנויות של מאכל ומשתה פותחין מעט לעת ערב:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:11"
+        },
+        "12": {
+          "he": "(יב) פותחין מעט - דהיינו שפותח קצת דלת החנויות ואין מוציאין מה שבחנות לחוץ:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:12"
+        },
+        "13": {
+          "he": "(יג) מאכל - אבל של שתיה דיכולין לקנותו בע\"ש לא:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:13"
+        },
+        "14": {
+          "he": "(יד) איצטבא - כסא דהשתא אין החנות פתוחה לר\"ה ואם הוא פתוח אינו נראה כל כך [רש\"י]:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:14"
+        },
+        "15": {
+          "he": "(טו) מתענות - באלו ג' תעניות אמצעיות:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:15"
+        },
+        "16": {
+          "he": "(טז) אבל לא וכו' - דבג' ראשונות לא תקיף רוגזי' כולי האי ואחרונות כיון דשבעה נינהו לא מצי עוברות ומניקות למיקם בהו וקשה יתענו עכ\"פ ג' תענית וצ\"ל כיון דא\"א להתענות כולם אין מחוייבים להתענות כלל:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:16"
+        },
+        "17": {
+          "he": "(יז) ולהתענות - כי הוא רע לולד. אם צבור גזרו ג' תענית ויש אדם חלש שאינו יכול להתענות כולם א\"צ להתענות כלל וצ\"ע [מ\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:17"
+        },
+        "18": {
+          "he": "(יח) של שמחה - לאו דוקא אלא ה\"ה לכל בנין שא\"צ דאינו נעשה אלא לנוי ולהרוחה בעלמא. ודע עוד דשל שמחה קאי גם אמשא ומתן דאינו אסור אלא של שמחה כגון צרכי חופה לבנו [מ\"א] ועיין בסימן תקנ\"א ס\"ב ובמ\"ב שם מדינים אלו:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:18"
+        },
+        "19": {
+          "he": "(יט) כותלו - של בנין שמחה כגון בית חתנות לבנו ואפילו אין בו סכנה:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:19"
+        },
+        "20": {
+          "he": "(כ) וממעטין באירוסין - פי' שאין מארסין כלל ועיין בבה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:20"
+        },
+        "21": {
+          "he": "(כא) מזל השור - והיינו ל' יום לאחר שנופלת תקופת ניסן:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:21"
+        },
+        "22": {
+          "he": "(כב) מתענין וזועקין - בפה אבל לא מתריעין [מ\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:22"
+        },
+        "23": {
+          "he": "(כג) או עד שיבשו הצמחים - ששוב לא יועיל והוי תפלת שוא:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:23"
+        },
+        "24": {
+          "he": "(כד) קודם שבעה עשר במרחשון - אפילו עונת הגשמים שלהם אחר שבועות:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:24"
+        },
+        "25": {
+          "he": "(כה) בחו\"ל - שאין להם נשיא שיגזור עליהם. ודע דאחרונים מסתפקין אפילו בא\"י אם נוהג היום הסדר תענית מחמת זה הטעם ואפשר משום דשליחותייהו דקמאי קעבדינן שם ועיין בברכי יוסף שהאריך בזה וקצת מדבריו מובא בשע\"ת ריש הסימן עי\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:25"
+        },
+        "26": {
+          "he": "(כו) ישלימו אותו היום - שכבר עבר רוב היום בקדושה ושוב אין אומר ענינו בתפלת המנחה ולא תחנונים אחרים וגם הלל היה ראוי לומר אלא שאין אומרים אותו בכרס רעבה [דמתוך שכתוב בו נותן לחם לכל בשר נאה להאמר על השובע רש\"י] וי\"א דכיון שנענו באותו יום אומרים הלל הגדול [דגמ\"ר]:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:26"
+        },
+        "27": {
+          "he": "(כז) ואם התחילו לירד קודם חצות - משמע מלשון זה דאף שלא נגמר השיעור גשמים קודם חצות כיון שההתחלה היתה קודם חצות ולא הפסיק בחצות אזלינן בתר ההתחלה ולא ישלימו:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:27"
+        },
+        "28": {
+          "he": "(כח) לא ישלימו - דעד כדון צפרא הוא:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:28"
+        },
+        "29": {
+          "he": "(כט) יאכלו וישתו - שא\"א הלל הגדול אלא בנפש שבעה וכרס מלאה ודוקא בזה שהוא אחר התפלה אבל קודם התפלה שרי ולכן אמרינן ליה בפסוקי דזמרה בשחרית בשבת. ובמקום דשכיחי שכרות אומרים הלל הגדול ואח\"כ אוכלין ושותין וה\"ה אם ירד קודם חצות ורצו רוב הצבור להשלים דמשלימין וכנ\"ל בסימן תקס\"ט ס\"א יאמרו הלל הגדול קודם אכילה:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:29"
+        },
+        "30": {
+          "he": "(ל) הלל הגדול - הם כ\"ו כי לעולם חסדו וחותמין מודים אנחנו לך על כל טיפה וכו' כמ\"ש סימן רכ\"א ושוב אין היחיד צריך לברך ויש להתחיל קודם הודו שיר המעלות הנה ברכו וגו' העומדים בבית ד' בלילות ואומר מעלה נשיאים מקצה הארץ וגו' [מ\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:30"
+        },
+        "31": {
+          "he": "(לא) תעניתם לא - דלא נענו מכח התענית רק משמיא דרחימו עלייהו:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:31"
+        },
+        "32": {
+          "he": "(לב) אין אומרים וכו' - דזה לא מיקרי התחלה להתענות ומשמע מסתימת המחבר דאפילו אותן התעניות שמפסיקין מבע\"י מ\"מ עיקר התענית מתחיל מעמוד השחר ואילך לא קודם ועיין בפמ\"ג:",
+          "en": "",
+          "ref": "Mishnah Berurah 575:32"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

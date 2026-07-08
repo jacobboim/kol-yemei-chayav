@@ -1,0 +1,109 @@
+{
+  "chelek": "YD",
+  "siman": 388,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-08T00:01:42.696Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "אבל ביום ראשון אסור להניח תפילין. ובו ב' סעיפים:אבל  אסור להניח תפילין ביום ראשון ואחר שהנץ החמה ביום ב' מותר להניחם:",
+      "en": "A mourner is forbidden to don Tefillin1 Glos. M.K. 15a, derived from, ‘Bind thy headtire (Tefillin) upon thee’ (Ez. XXIV, 17-23.  Targum a.l.) whence it follows that for every one else this is forbidden. Cf. ibid. 21a. on the first day;2 dictum of R. Joshua in M.K. 21a (cf. also Sem(H). VI, 3; Y.Ber. III, 1(5d); Y.M.K. III, 5(82b); Gen. R. § 7; Suk. 25b), where it is stated that the exemption from Tefillin is applicable only to the first day, since of that day it is said, ‘And the end thereof as a bitter day’ (Amos VIII, 10). and after the sun rises on the second day, he is permitted3Tur on the authority of Asheri. Thus also T.H. to put them on.4If the mourner was unaware of this ruling, he must remove the Tefillin as soon as it is brought to his attention. However, if he became aware of this close to the time for the recital of the Shema, he should remove the Tefillin after he completes the reading of the Shema. This ruling (viz., not to don Tefillin on the first day) applies even if the burial does not take place on the same day as death. One who also puts on Tefillin prescribed by R.Tam (v. O.Ḥ. § 32), should not wear them during the seven days of mourning. One who receives near tidings should not don the Tefillin on the day the death report is received. One who buries his dead on a Festival day, in which case the law is that he observes mourning rites after the Festival, or one who receives a death report on the Festival, should don the Tefillin on the first day following the Festival — Later Authorites. On this ruling cf. also O.Ḥ. § 38, 5.",
+      "ref": "Shulchan Arukh, Yoreh Deah 388:1"
+    },
+    {
+      "seif": 2,
+      "he": "מבעי ליה לאבל ליתובי דעתיה לכווני לביה לתפילין שלא יסיח דעתו מהם אבל בשעת הספד ובכי לא מנח להו:",
+      "en": "A mourner is required to set his mind at ease [and] to pay attention to the Tefillin1 Glos. M.K. 15a, derived from, ‘Bind thy headtire (Tefillin) upon thee’ (Ez. XXIV, 17-23.  Targum a.l.) whence it follows that for every one else this is forbidden. Cf. ibid. 21a. [i.e.,] not to abandon his thoughts of them;5During the week of mourning excluding the first day when he is forbidden to don Tefillin. but during the time of lamentation and weeping, he does not put them on.6Tur on the authority of T.H. The same ruling applies to the mourner with respect to the religious duty of the Sukkah (Suk. 25b). Cf. Shab. 12a; Yoma 7b. The present ruling has reference only to the times when Tefillin were worn all day, but does not apply today.",
+      "ref": "Shulchan Arukh, Yoreh Deah 388:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מ\"ק דף ט\"ו ע\"א מדקאמר ליה רחמנא ליחזקאל פארך חבוש עליך מכלל דלכ\"ע אסור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 388:1"
+        },
+        "2": {
+          "he": "כרבי יהושע בברייתא שם דף כ\"א ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 388:2"
+        },
+        "3": {
+          "he": "טור בשם אביו הרא\"ש וכך הם דברי הרמב\"ן בסת\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 388:3"
+        },
+        "4": {
+          "he": "שם בשם הרמב\"ן שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 388:4"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "ואחר שהנץ כו'. ויש פוסקים דאינו אסור אלא ביום ראשון וביום ב' מותר מיד אפי' קודם הנץ החמה וכ\"פ הב\"ח. ואם שמע שמועה קרובה דינה כיום קבורה דאסור להניח תפילין. כן משמע מדברי הרמב\"ן והמחבר לקמן סי' ת\"ב ס\"ב וכ\"פ בתשו' משאת בנימין סימן פ\"ב ופשוט הוא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 388:1"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אסור להניח תפילין. גם ביום שמועה קרובה אסור להניח תפילין כ\"כ הרמב\"ן וב\"י מביאו לקמן סימן ת\"ב:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 388:1"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "אסור להניח . עבה\"ט בא\"ח סי' ל\"ח סק\"ד שכתב בשם מהריט\"ץ בחידושיו פ' א\"מ דדוקא יום המיתה שהוא יום הקבורה פטור מתפילין יום ראשון אבל כשהמיתה יום אחר והקבורה יום אחר חייב בתפילין אפילו ביום ראשון עי\"ש ועי' בדגמ\"ר שהביאו ג\"כ והשיג עליו והעלה דאפילו אם הוא יום קבורה לחוד אסור בתפילין עי\"ש ועיין בשו\"ת זכרון יצחק סי' ב' שכתב שגם אביו הגאון בעל משנת חכמים השיג על דעת מהריט\"ץ הנ\"ל ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 388:1"
+        },
+        "2": {
+          "he": "ביום ראשון. עבה\"ט וכתב בספר אליה רבה בא\"ח סי' ל\"ח סק\"ד דיש להסתפק באם שמע אחר שהתפלל ערבית דקי\"ל לעיל סוס\"י שע\"ה דאותו יום אינו עולה ומונה מיום המחרת אי מניח תפילין ביום שני שנקרא לו ראשון ומדברי הט\"ז לקמן סי' ת\"ב סי\"א משמע דמניח תפילין עכ\"ד ועי' בס' חומות ירושלים ס' רס\"ד שכתב דשם לא משמע כן ודעתו שיניח בלא ברכה ויכסה אותם ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 388:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ראשון.  כתב הט\"ז דגם ביום שמועה קרובה אסור להניח תפילין כן כתב הרמב\"ן ומביאו ב\"י לקמן סימן ת\"ב עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 388:1"
+        },
+        "2": {
+          "he": "החמה.  כתב הש\"ך ויש פוסקים דאינו אסור אלא ביום ראשון וביום ב' מותר מיד אפי' קודם הנץ החמה (כשיאיר היום) וכ\"פ הב\"ח עכ\"ל (ועיין בה\"י):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 388:2"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

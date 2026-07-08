@@ -1,0 +1,1675 @@
+{
+  "chelek": "YD",
+  "siman": 198,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 48,
+  "fetchedAt": "2026-07-08T00:01:24.395Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני טבילה וחציצתה. ובו מ\"ח סעיפים:צריכה שתטבול כל גופה בפעם אחת לפיכך צריך שלא יהיה עליה שום דבר החוצץ ואפילו כל שהוא ואם דרך בני אדם לפעמים להקפיד עליו חוצץ אפילו אם אינה מקפדת עליו עתה או אפילו אינה מקפדת עליו לעולם כיון שדרך רוב בני אדם להקפיד עליו חוצץ ואם הוא חופה רוב הגוף אפילו אין דרך בני אדם להקפיד בכך חוצץ: הגה ולכתחלה לא תטבול אפילו בדברים שאינן חוצצין גזרה אטו דברים החוצצין (הגהות ש\"ד):",
+      "en": "Lois relatives à l’immersion et aux opérations qui précèdent la purificationIl faut qu’au moment de l’immersion le corps entier plonge dans l’eau tout d’un coup, sans qu’aucune de ses parties reste couverte. Bien que nombre de personnes n’attachent pas d’importance à ce que la femme ait quelque chose qui adhère au corps, l’immersion est cependant nulle par le fait que la femme aura conservé quoi que ce soit sur elle.GLOSE: De propos délibéré, la femme ne doit même pas, au moment de l’immersion, conserver sur elle quelque chose ne formant pas séparation entre elle et l’eau, parce qu’on craindrait, si on accordait cette licence, qu’on n’allât plus loin en gardant sur soi un corps formant séparation.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:1"
+    },
+    {
+      "seif": 2,
+      "he": "אלו הדברים שחוצצין חוטי צמר וחוטי פשתן ורצועות שכורכין בהם השער בראש לא תטבול בהם עד שתרפם ואם הם בתוך קליעת שערה אינו מועיל בהם רפיון ואם הם כרוכים בשאר מקומות בגוף לא תטבול בהם עד שתרפם חוץ מאם הם כרוכים בצואר שאינם חוצצין לפי שאינה מהדקן אבל קטלא שהיא רצועה חלקה ורחבה שכורכת סביב צוארה חוצצת מפני שחונקת עצמה בחוזק כדי שיהיה בשרה בולט ותראה בעלת בשר ומתוך שהרצועה חלקה ורחבה אינה מזיקתה (רש\"י):",
+      "en": "Sont considérés comme formant séparation entre le corps et l’eau, pendant l’immersion, un fil de laine ou un fil de lin, un ruban qui enserre les cheveux; il ne suffit même pas de desserrer ce ruban, il faut le détacher complètement. Cependant on peut lier les cheveux qui retombent sur la nuque, parce qu’ils ne doivent pas être serrés et parce que de cette façon, ils ne flottent pas sur le dos. Un collier serré et large, appliqué sur le cou, et faisant légèrement ressortir la chair sous le menton, ne doit pas non plus être gardé.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:2"
+    },
+    {
+      "seif": 3,
+      "he": "אם החוטין האלו חלולין עשוי מעשה רשת אינם חוצצין (טור בשם ראב\"ד):",
+      "en": "Quand les fils retenant la coiffure forment une résille, on peut conserver cette résille sur la tête, parce que l’eau passe aisément au travers.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:3"
+    },
+    {
+      "seif": 4,
+      "he": "חוטי שער אינם חוצצין: הגה ואם היו מוזהבות חוצצין דמקפדת עליהם שלא תטנפם וכן אם היו מטונפים תחלה מקפדת עליהם שלא תתלכלך מהן במים וחוצצין (טור):",
+      "en": "Quand les fils qui retiennent la coiffure sont détachés, on ne les considère pas comme formant écran entre le corps et l’eau.GLOSE: Cependant, lorsque ce sont des fils d’or, il est interdit de les conserver, même détachés, pendant l’immersion. En effet, la femme voudra autant que possible éviter de les mouiller s’ils sont intacts, et s’ils sont un peu poussiéreux, elle ne voudra pas que la poussière forme boue avec l’eau; il en résultera que l’eau ne passera pas sur sa tête.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:4"
+    },
+    {
+      "seif": 5,
+      "he": "שתי שערות או יותר שהיו קשורים כאחד קשר אחד אינם חוצצין: הגה ואין חילוק בין אם קשר ב' שערות עם שתי שערות או שקשר ב' שערות בפני עצמן (ב\"י בשם רשב\"א ור\"ן): ושערה אחת שנקשרה חוצצת והוא שתהא מקפדת עליה אבל אם אינה מקפדת עליה עלתה לה טבילה עד שיהא רוב שערה קשור נימא נימא בפני עצמו:",
+      "en": "Quand deux ou plusieurs cheveux sont noués ensemble, on ne considère pas ce nœud comme formant séparation entre le corps et l’eau; il n’en est pas de même lorsque c’est un cheveu seul qui est noué.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:5"
+    },
+    {
+      "seif": 6,
+      "he": "שיער שכנגד הלב ושבזקן הנדבק זה בזה מחמת זיעה חוצץ שבראש ושבבית השחי אינו חוצץ ושבאותו מקום באיש אינו חוצץ ובאשה בנשואה חוצץ בפנויה אינו חוצץ: הגה ואותן שיש להן כמין קליעות שערות דבוקות זו בזו ונעשית בלילה על ידי שד וסכנה להסירם לא חייצי (מרדכי הלכות נדה בשם ראבי\"ה ובאגור ובהגהות ש\"ד):",
+      "en": "Les cheveux de la barbe et ceux qui poussent parfois sur le thorax forment séparation entre le corps et l’eau, lorsqu’ils sont collés par la sueur; le cas ne peut pas se présenter pour les cheveux de la tête, dans lesquels le peigne passe quotidiennement. Si les cheveux des parties toujours couvertes sont collés ensemble, ils ne sont pas considérés comme formant séparation entre le corps et l’eau, chez l’homme et la jeune fille, mais il n’en est pas de même chez la femme mariée.GLOSE: Les cheveux tressés dans la journée et défaits le soir ne forment pas séparation entre le corps et l’eau.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:6"
+    },
+    {
+      "seif": 7,
+      "he": "לפלוף (פי' צואת העין) שחוץ לעין חוצץ אפי' הוא לח ולפלוף שבעין אינו חוצץ ואם הוא יבש חוצץ והוא שהתחיל להוריק (כ\"ד התוספות וסמ\"ג בשם ר\"ת ורמב\"ם):",
+      "en": "La chassie des yeux, qui se porte sur les sourcils, est considérée comme formant séparation entre le corps et l’eau, et la femme ne doit pas s’immerger dans cet état; la chassie encore humide n’est pas un obstacle, mais celle qui est sèche, c’est-à-dire celle qui présente une couleur verdâtre, qu’elle se trouve dans les coins des yeux ou sur les yeux, forme obstacle à l’eau.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:7"
+    },
+    {
+      "seif": 8,
+      "he": "כחול שבעין אינו חוצץ ושחוץ לעין חוצץ ואם היתה פותחת ועוצמת (פירוש וסוגרת) עיניה תדיר אף שחוץ לעין אינו חוצץ:",
+      "en": "Le fard, que certaines femmes se mettent dans les yeux, ne forme pas obstacle à l’eau; mais celui qu’elles se mettent au bord des paupières forme un obstacle, à moins que ce ne soit une femme qui ouvre et ferme les yeux par un mouvement très fréquent.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:8"
+    },
+    {
+      "seif": 9,
+      "he": "דם יבש שעל המכה חוצץ וריר שבתוכה אינו חוצץ יצא הריר מתוכה כל תוך ג' ימים לח הוא ואינו חוצץ לאחר מכאן יבש הוא וחוצץ לפיכך אשה בעלת חטטים צריכה לחוף במים עד שיתרככו:",
+      "en": "Lorsqu’une femme a une plaie et qu’il est resté sur cette plaie du sang coagulé depuis plus de trois jours, le sang desséché est regardé comme formant obstacle entre le corps et l’eau; il n’en est pas de même de l’humeur qui se trouve à l’extérieur de la plaie. Quand une femme a des dartres, ces dartres empêchent l’eau d’arriver au corps et il faut qu’avant l’immersion elles soient lavées dans de l’eau chaude, qui les amollit.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:9"
+    },
+    {
+      "seif": 10,
+      "he": "רטיה שעל המכה חוצצת:",
+      "en": "La croûte formée au-dessus de la cicatrice d’une plaie est un obstacle entre l’eau et le corps.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:10"
+    },
+    {
+      "seif": 11,
+      "he": "חץ או קוץ התחוב בבשר אם נראה מבחוץ חוצץ ואם אינו נראה אינו חוצץ:",
+      "en": "Lorsqu’une femme s’est enfoncée une écharde avant de s’immerger, l’écharde est considérée comme formant obstacle à l’eau, si elle fait saillie, mais non si elle est tout entière sous la peau.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:11"
+    },
+    {
+      "seif": 12,
+      "he": "לכלוכי צואה שעל הבשר מחמת זיעה אינם חוצצין נגלד כגליד חוצץ:",
+      "en": "La sueur qui a laissé une trace sur le corps n’empêche pas l’immersion d’être valable; mais quand la sueur, mêlée à la poussière, forme une espèce de croûte, cette croûte est considérée comme un écran empêchant l’eau de baigner la peau.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:12"
+    },
+    {
+      "seif": 13,
+      "he": "מלמולין שעל הבשר חוצצין:",
+      "en": "Une parcelle de pâte qui, au cours d’un pétrissage, s’est collée sur le bras ou sur une autre partie du corps, est considérée comme faisant obstacle à l’eau de l’immersion.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:13"
+    },
+    {
+      "seif": 14,
+      "he": "טיט היון וטיט היוצרים וטיט דרכים הנמצא שם תמיד אפילו בימות החמה כל אלו חוצצין ושאר כל הטיט כשהוא לח אינו חוצץ שהרי הוא נמחה במים וכשהוא יבש חוצץ (רמב\"ם וסמ\"ג) (מיהו אם היא מקפדת אפילו בדבר לח חוצץ) (רוקח ומרדכי הלכות נדה):",
+      "en": "Une parcelle d’argile grecque, de terre à modeler, d’argile des potiers ou de celle qui se trouve aux roues des voitures fait également obstacle à l’eau; il n’en est pas de même pour les autres sortes de terre, qui se délaient immédiatement dans l’eau; cependant lorsqu’une parcelle de boue s’est desséchée sur le corps, on la considère encore comme un obstacle à l’eau.GLOSE: Pour les femmes extrêmement minutieuses, la parcelle de boue, même non desséchée, est regardée comme formant obstacle.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:14"
+    },
+    {
+      "seif": 15,
+      "he": "הדיו החלב והדבש והדם שרף התאנה ושרף התות ושרף החרוב ושרף השקמה (פי' מין ממיני התאנים) יבשים חוצצין לחים אינם חוצצין ושאר כל השרפים אפילו לחים חוצצין:",
+      "en": "Une tache d’encre, de lait, de miel, de jus de figue confite, ne forme pas obstacle à l’eau, quand la tache est fraîche; toute autre tache, même fraîche, forme obstacle.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:15"
+    },
+    {
+      "seif": 16,
+      "he": "דם שנסרך בבשר אפילו לח חוצץ:",
+      "en": "Du sang frais, mais qui commence à se coaguler et se tire en filaments, forme obstacle à l’eau.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:16"
+    },
+    {
+      "seif": 17,
+      "he": "צבע שצובעות הנשים על פניהן וידיהן ושער ראשן אינו חוצץ וכן מי שהוא צובע וידיו צבועות אינו חוצץ: הגה וכן מי שאומנותו להיות שוחט או קצב וידיו תמיד מלוכלכות בדם אינו חוצץ שרוב בני אומנות זו אינן מקפידים (ב\"י בשם ר\"י):",
+      "en": "(17) Coloring/makeup/dye that women put on their faces and hands and the hair on their heads is not an interposition.  And also, one who uses dyes (or paints) and their hands are dyed/colored, this is not an interposition. Re’ma – and also one whose occupation is a shochet or a butcher and their hands are always dirty with blood, the discoloration is not considered an interposition. Because the majority of butchers are not particular about this. **** שרוב בני אומנות זו אינן מקפידים - Most people in the profession do not care about this. **** Similarly, one whose profession is to be a slaughterer or ritual slaughterer and whose hands are always stained with blood is not a barrier because most people in this profession are not careful.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:17"
+    },
+    {
+      "seif": 18,
+      "he": "צואה שתחת הצפורן שלא כנגד הבשר חוצץ כנגד הבשר אינו חוצץ ובצק שתחת הצפורן אפילו כנגד הבשר חוצץ ואי זהו שלא כנגד הבשר זה שהצפורן עודף על הבשר ולפי שאינן יכולות לכוין מה נקרא כנגד הבשר או שלא כנגדו נהגו הנשים ליטול צפרניהם בשעת טבילה:",
+      "en": "Le dépôt noir, qui se trouve parfois sous les ongles, ou la pâte qui peut s’y loger quand on pétrit, forment obstacle à l’eau, s’ils ne font pas vis-à-vis au doigt; ils ne forment pas obstacle dans le cas contraire. On dit que le dépôt noir fait vis-à-vis au doigt, quand l’ongle est très long. Mais, comme nous ne sommes plus aptes à trancher en cette matière, il est plus simple de se couper les ongles avant l’immersion, et cela est d’ailleurs devenu un usage chez les femmes.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:18"
+    },
+    {
+      "seif": 19,
+      "he": "אם יש לה נפח על מקום הצפורן ואינה יכולה לא לחתוך ולא לחטט אם נפוחה כל כך שאין הטיט שתחת הצפורן נראה אינו חוצץ:",
+      "en": "Si sous l’ongle se trouve une ampoule qui empêche de le couper et de le nettoyer, et si l’ampoule est assez grosse pour empêcher de voir si l’ongle présente un dépôt noir ou non, elle n’est cependant pas considérée comme faisant obstacle, l’immersion est valable.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:19"
+    },
+    {
+      "seif": 20,
+      "he": "דוקא בצק שתחת הצפורן חוצץ אבל הצפורן עצמה אינה חוצצת ואפילו אם היתה גדולה ועומדת ליחתך ופורחת ועוברת מכנגד הבשר אינה חוצצת: הגה מיהו כל זה דוקא שאין צואה או בצק תחתיו בשעה שטבלה ומאחר דכבר נהגו ליטול הצפרנים אפילו אם צפורן אחת נשאר בידה וטבלה צריכה טבילה אחרת (הגהות ש\"ד) וכן נוהגין:",
+      "en": "C’est le dépôt noir ou la pâte qui forment obstacle à l’eau, mais l’ongle par lui-même n’est jamais un obstacle, s’il est propre, quelque long qu’il soit.GLOSE: Les ongles, quand ils sont propres, ne forment pas obstacle à l’eau; mais, étant donné qu’il est d’usage de se couper les ongles avant l’immersion, si la femme omet d’en couper un, l’immersion n’est plus valable; il faut la recommencer.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:20"
+    },
+    {
+      "seif": 21,
+      "he": "צפורן המדולדלת שפירשה מיעוטה חוצצת פירשה רובה אינה חוצצת:",
+      "en": "Quand une petite partie de l’ongle s’est détachée, on considère le reste de l’ongle comme un obstacle à l’eau; quand la partie détachée est la plus grande partie de l’ongle, il n’en est plus de même.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:21"
+    },
+    {
+      "seif": 22,
+      "he": "אבר ובשר המדולדלים חוצצים. (אבל יבלת או יתרת ואינן מדולדלין אינן חוצצים) (ב\"י בשם סמ\"ג סימן רמ\"ח בשם ר\"י):",
+      "en": "Une partie détachée du corps, ou un morceau de chair qui pend, sont considérés comme faisant obstacle à l’eau.GLOSE: Une verrue ou un organe supplémentaire (un sixième doigt par exemple) ne forment pas obstacle, lorsqu’ils ne sont pas détachés du corps.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:22"
+    },
+    {
+      "seif": 23,
+      "he": "השירים והנזמים והטבעות והקטלאות אם הם רפויים אינם חוצצים ואם הם מהודקים חוצצים וכן הדין באגד שעל המכה וקשקשים שעל השבר:",
+      "en": "Les chaînes, boucles d’oreilles, bagues, colliers, forment écran entre la personne et l’eau, s’ils sont serrés contre les régions qu’ils ornent; ils n’en forment pas s’ils sont relâchés. Il en est de même d’un linge qui enveloppe une plaie, ou du pansement qui entoure une fracture.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:23"
+    },
+    {
+      "seif": 24,
+      "he": "צריכה לחצוץ שיניה שלא יהא בהם דבר חוצץ שאם טבלה ונמצא שום דבר דבוק בהם לא עלתה לה טבילה ויש נוהגות שלא לאכול בשר ביום לכתן לבית הטבילה מפני שהוא נכנס בין השינים יותר ממאכל אחר ואף על פי שבודקות וחוצצות השינים חוששות דילמא תשתייר מיניה ולאו אדעתה ומנהג יפה הוא: הגה ואין לה לאכול בין הרחיצה לטבילה (הרא\"ש בה\"נ) ואין לה לעסוק כל היום קודם הטבילה בבצק או בנרות של שעוה שלא ידבק בה (ש\"ד) וכן נהגו:",
+      "en": "Il faut, avant de se purifier, se brosser soigneusement les dents. Si, après l’immersion, la femme trouve quoi que ce soit attaché sur son corps, l’immersion est nulle. Il est d’usage, en certains endroits, de ne pas manger de viande avant l’immersion; car même en se nettoyant les dents, il peut y rester quelques filaments de viande. Cet usage est à recommander.GLOSE: Il ne faut pas manger, entre le bain simple et le bain de purification. Dans la journée où elle veut faire son immersion, la femme ne doit ni pétrir de pâte, ni fabriquer de bougies de cire, de crainte qu’une parcelle de pâte ou de cire ne s’attache à elle.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:24"
+    },
+    {
+      "seif": 25,
+      "he": "אם לא הדיחה בית הסתרים ובית הקמטים שלה ונמצא בהם דבר חוצץ לא עלתה לה טבילה ואם לא נמצא עליה דבר חוצץ אף על פי שלא בדקה קודם טבילה עלתה לה טבילה ואינו דומה לבדיקת הגוף וחפיפת הראש:",
+      "en": "Si, avant l’immersion, la femme a omis de laver les parties du corps qui restent toujours couvertes ainsi que les articulations, et si elle trouve sur elle, après le bain de purification, une chose qui ait pu former obstacle à l’eau, l’immersion est nulle. Si elle ne trouve rien, le bain est valable, même si elle n’a pas inspecté au préalable les parties dont on vient de parler. L’oubli de cette inspection est moins grave que celui de soigneusement peigner et dénouer les cheveux et d’inspecter le corps en général.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:25"
+    },
+    {
+      "seif": 26,
+      "he": "אם לא בדקה קודם טבילה בין שיניה ולא בית הסתרים שלה ואחר טבילה נמי לא בדקה עד שנתעסקה בכתמים ובתבשילין ואחר כך בדקה ומצאה עצם בין שיניה או דבר חוצץ בין סתריה תלינן לקולא ואמרינן דבתר טבילה עיילי בה:",
+      "en": "Une femme n’a pas inspecté, avant l’immersion, ses dents, ni les parties du corps qui restent toujours couvertes, elle ne s’est pas davantage inspectée aussitôt après le bain, et s’est ensuite livrée à certains travaux où elle a pu se tacher, comme la préparation des mets; puis s’étant inspectée après ces travaux, elle remarque sur elle une chose qui aurait pu faire obstacle à l’eau: l’immersion reste valable, car on admet que ce qu’elle a trouvé lors de son inspection tardive provient des occupations auxquelles elle s’est livrée.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:26"
+    },
+    {
+      "seif": 27,
+      "he": "נתנה שערה בפיה או קרצה שפתותיה או קפצה ידה בענין שלא באו המים בהם לא עלתה לה טבילה:",
+      "en": "Si, pendant le bain de purification, elle serre un cheveu entre ses dents, tient quelque chose entre ses lèvres, ou ferme le poing, l’immersion est nulle.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:27"
+    },
+    {
+      "seif": 28,
+      "he": "לא תאחוז בה חברתה בידיה בשעת טבילה אלא אם כן רפתה ידה כדי שיבואו המים במקום אחיזת ידיה ואם הדיחה ידיה במים תחלה שרי שמשקה טופח שעל ידיה חבור למי המקוה:",
+      "en": "Il ne faut pas que, pendant le bain, la femme qui se purifie soit tenue par la main; cependant si la compagne, qui lui donne la main, a trempé au préalable ses mains dans l’eau, l’immersion est valable, car l’eau qui humecte ses mains ne fait qu’un avec l’eau du bain de purification.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:28"
+    },
+    {
+      "seif": 29,
+      "he": "הטובל במקוה שאין בו אלא מ' סאה מצומצמין אם אמר לחבירו כבוש ידך עלי במקוה הרי זה מגונה:",
+      "en": "Il est absolument contraire à toutes les règles qu’une femme, voulant s’immerger dans une miqvah qui ne contient pas plus de quarante séah d’eau, demande à sa compagne de peser sur elle afin que l’eau la recouvre entièrement.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:29"
+    },
+    {
+      "seif": 30,
+      "he": "אינה צריכה להגביה רגליה בשעת טבילתה אם אין שם טיט אע\"פ שדורסת על הרצפה אין כאן חציצה מפני שהמים מקדימים לרגליה:",
+      "en": "Quand une femme s’immerge dans une miqvah à fond pavé, elle n’a pas à lever les pieds durant la purification; en effet, pendant qu’elle descendait, ses pieds ont pris contact avec l’eau, avant de toucher aux pierres du fond.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:30"
+    },
+    {
+      "seif": 31,
+      "he": "אין טובלין בכלים לפיכך אם היה טיט במקום שטובלת לא תעמוד על גבי כלי עץ שמקבלין טומאה מגבן ולא על גבי נסרים שראוים למדרסות ולא על שום כלי הראוי למדרס ותטבול משום גזירת מרחצאות של כלים עברה וטבלה לא עלתה לה טבילה אבל נותנת היא חבילי זמורות תחת רגליה מפני הטיט וכן לא תעמוד על גבי כלי חרס ולא על גבי בקעת ותטבול ואף על פי שאין כלי חרס מטמא מגבו ולא ראוי למדרס חשש חכמים הוא שמא תפחד שלא תפול ולא תטבול כראוי עברה וטבלה על גבי אלו עלתה לה טבילה ולפי זה מקוה שיש בו שליבות (פי' מדרגות) של עץ אם טבלה על גבי השליבות (אפילו אם הם מחוברים לכותלי המקוה) (תשובת הרשב\"א) לא עלתה לה טבילה דפשוטי כלי עץ הם וצריך לעשות במקומן מדרגה של אבנים ותהיה המדרגה רחבה ד' מקום הנחת הרגל כדי שיהא בה שיעור מקוה לבל תפחד ליפול ממנה:",
+      "en": "Il est interdit de prendre le bain de purification dans une baignoire. Lorsque le sol de la miqvah est argileux, il ne faut pas que la femme se pose sur un objet en bois ou sur des bancs en bois, car le bois absorbe les impuretés; l’immersion serait nulle dans ce cas. Mais on peut déposer dans le fond de la miqvah une claie faite de branchages. Il ne faut pas non plus que la femme pose au fond, pour monter dessus, un objet en poterie ou des copeaux; les docteurs déclarent que, le bain étant dans ce cas rendu dangereux, la femme craindra de glisser et ne se purifiera pas convenablement; cependant, en cas de fait accompli, l’immersion est valable. Une femme ne peut pas non plus, et pour la même raison, se purifier sur l’escalier de la miqvah s’il est en bois, même quand cet escalier est fixe. Si elle s’est purifiée sur l’escalier, la purification est nulle. Pour qu’elle ait le droit de faire son immersion sur l’escalier, il faut que celui-ci soit en pierre, et que la largeur des marches soit quatre fois la longueur du pied, afin qu’elle n’ait aucune crainte de tomber.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:31"
+    },
+    {
+      "seif": 32,
+      "he": "סילון של עץ הקבוע בקרקעית הטבילה אם אין לו לבזבז (פירוש מסגרת שאז אין לו בית קבול) מותרת לעמוד עליו ולטבול:",
+      "en": "Quand il a été déposé des osiers dans le fond de la miqvah, on peut faire l’immersion, à condition toutefois que les baguettes d’osier n’aient pas été tressées de manière à former une sorte de récipient.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:32"
+    },
+    {
+      "seif": 33,
+      "he": "לא תטבול במקום שיש בקרקעיתו טיט משום חציצה אלא אם כן תתן עליו זמורות וכיוצא בהם דבר שאינו מקבל שום טומאה ואם טבלה י\"א שלא עלתה לה טבילה (ראב\"ד ורש\"י אבל רוב הפוסקים מתירין):",
+      "en": "Il ne faut pas que la femme fasse son immersion sur un sol argileux; on craint que l’argile ne s’attache à elle et ne forme obstacle entre une partie de son corps et l’eau; il lui faut alors placer sur le fond des branchages ou toute autre chose n’absorbant pas d’impuretés. D’aucuns considèrent la purification comme nulle, si la femme n’a pas pris ces précautions.GLOSE: Plusieurs docteurs et commentateurs admettent que la purification est valable quand même.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:33"
+    },
+    {
+      "seif": 34,
+      "he": "לא תטבול במקום שיש חשש שיראוה בני אדם מפני שמתוך כך ממהרת לטבול ואינה מדקדקת בטבילה ומיהו בדיעבד עלתה לה טבילה:",
+      "en": "Il ne faut pas que la femme fasse sa purification en un lieu fréquenté; on craint que la peur d’être vue ne la pousse à se hâter, et que sa purification ne soit pas parfaite; cependant ces immersions sont valables en cas de fait accompli.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:34"
+    },
+    {
+      "seif": 35,
+      "he": "לא תטבול בקומה זקופה מפני שיש מקומות שמסתתרים בה ואל תשחה הרבה עד שידבקו סתריה זה בזה אלא שוחה מעט עד שיהיו סתרי בית הערוה נראים כדרך שנראית בשעה שהיא עורכת ויהיה תחת דדיה נראה כדרך שנראה בשעה שמניקה את בנה ויהיה תחת בית השחי נראה כדרך שנראה כשאורגה בעומדין ואינה צריכה להרחיק ירכותיה זו מזו יותר מדאי וגם לא להרחיק זרועותיה מהגוף יותר מדאי אלא כדרך שהם בעת הילוכה ואם שינתה כגון ששחתה ביותר או זקפה ביותר עלתה לה טבילה (ערוך וסמ\"ג ורשב\"ץ ורמב\"ם) ויש מי שאומר שלא עלתה:",
+      "en": "Il ne faut pas qu’en se purifiant la femme se dresse ou se courbe exagérément; elle doit conserver la tenue qu’elle a habituellement, elle ne doit pas non plus trop écarter les membres supérieurs ou inférieurs. En cas de fait accompli, la purification est pourtant valable; pour l’un des commentateurs elle est nulle.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:35"
+    },
+    {
+      "seif": 36,
+      "he": "צריך שיהיה המקוה גבוה ממעל לטבורה זרת לפחות:",
+      "en": "L’eau de la miqvah doit monter au moins d’une zéreth au-dessus du nombril.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:36"
+    },
+    {
+      "seif": 37,
+      "he": "יש מי שאומר שאע\"פ שאין בגובה מי המקוה לעלות בהם כל גופה אלא אם כן פניה וגופה כבושים בקרקע שפיר דמי. (ועיין לקמן סימן ר\"א סעיף ס\"ו בדיני מקוה):",
+      "en": "Un Docteur déclare bonne une miqvah où l’eau ne recouvre entièrement le corps, que si la personne se place de manière à ce que son corps et son visage touchent le sol.GLOSE: Voir § 201, art. 66, glose.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:37"
+    },
+    {
+      "seif": 38,
+      "he": "אינה צריכה לפתוח פיה כדי שיכנסו בה המים ולא תקפוץ אותה יותר מדאי ואם קפצה לא עלתה לה טבילה אלא תשיק שפתותיה זו לזו דיבוק בינוני:",
+      "en": "Il ne faut pas, durant la purification, ouvrir la bouche de façon que l’eau puisse y pénétrer; mais si l’on serre les lèvres fortement, l’immersion n’est pas valable (v. plus haut art. 27); on doit tenir les lèvres légèrement closes, comme on les a habituellement.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:38"
+    },
+    {
+      "seif": 39,
+      "he": "לא תעצים עיניה ביותר ואל תפתחם ביותר ואם עשתה כן יש אומרים שלא עלתה לה טבילה. (ב' דעות בטור ופוסקים עב\"י):",
+      "en": "Selon certains docteurs, il ne faut ni trop ouvrir les yeux, ni les fermer complètement, durant la purification, sous peine de la rendre nulle.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:39"
+    },
+    {
+      "seif": 40,
+      "he": "צריך להעמיד על גבה יהודית גדולה יותר מי\"ב שנה ויום א' בשעה שהיא טובלת שתראה שלא ישאר משער ראשה צף על פני המים ואם אין לה מי שתעמוד על גבה או שהוא בלילה תכרוך שערה על ראשה בחוטי צמר או ברצועה שבראשה ובלבד שתרפם או בשרשרות של חוטים חלולות או קושרת בגד רפוי על שערותיה:",
+      "en": "Il faut que la purification ait lieu en présence d’une Israélite, âgée au moins de douze ans, et au jour, afin que celle-ci voie si toute la personne, et même les cheveux, ont plongé dans l’eau; car les cheveux peuvent parfois flotter au-dessus de l’eau. Lorsqu’il n’y a pas de témoin ou que la purification est faite le soir, il faut légèrement lier la chevelure, mais sans serrer, soit avec un ruban, soit avec des fils, soit avec un filet; de cette façon, les cheveux tremperont dans l’eau en même temps que la tête.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:40"
+    },
+    {
+      "seif": 41,
+      "he": "המפשלת בנה לאחוריה כשהיא ערומה וטבלה לא עלתה לה טבילה שמא היה טיט ברגלי התינוק או בידיו ונדבק באמו וחצץ בשעת טבילה ואחר שעלתה נפל:",
+      "en": "Quand, déshabillée et prête à se purifier, une femme prend son enfant sur son dos, la purification est annulée de ce fait. L’enfant pouvait en effet avoir de l’argile ou quelque autre impureté aux pieds, cette impureté a pu retomber sur sa mère et s’attacher à elle; cette impureté a pu, il est vrai, se décoller dans l’eau pendant l’immersion, mais elle avait néanmoins formé obstacle entre l’eau et le corps, sans que la personne s’en doutât.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:41"
+    },
+    {
+      "seif": 42,
+      "he": "נכנסו צרורות וקסמים בסדקי רגליה מלמטה חוצצים:",
+      "en": "Les impuretés qui peuvent se trouver entre les orteils, au moment de l’immersion, constituent un obstacle entre le corps et l’eau.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:42"
+    },
+    {
+      "seif": 43,
+      "he": "אספלנית מלוגמא ורטיה שעל בית הסתרים חוצצין אף על פי שאינם צריכים שיכנסו בהם המים צריכי' שיהיו ראוים ולא יהא בהם דבר חוצץ: הגה יש אומרים שהאשה צריכה להטיל מים קודם טבילה אם היא צריכה לכך גם צריכה לבדוק עצמה בגדולים ובקטנים שלא תהא צריכה לעצור עצמה ולא יהיו ראויים לביאת מים גם צריכה להסיר צואת החוטם (ש\"ד וראב\"ן סימן שכ\"ו דף ס' ע\"ג):",
+      "en": "Quand il se trouve une impureté dans une partie du corps qui reste toujours couverte, et où l’eau n’arrive même que difficilement, on considère cependant cette impureté comme un obstacle entre le corps et l’eau.GLOSE: D’aucuns exigent qu’avant le bain de purification la femme urine et s’assure qu’aucune impureté n’adhère à son corps; elle doit même se moucher.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:43"
+    },
+    {
+      "seif": 44,
+      "he": "היתה בה שערה אחת או שתים חוץ למכת ראשה מודבק למכה או שהיו שתי שערות ראשה מודבקות בטיט או בצואה או שהיו שתי שערות בריסי עיניה מלמטה ונקבו והוציאתן בריסי עיניה מלמעלה וכן אם היו ב' שערות ריסי עיניה של מטה מדובקות בריסי עיניה של מעלה הרי אלו חוצצים:",
+      "en": "Un ou deux cheveux collés à une plaie de la tête, deux cheveux collés l’un à l’autre par une impureté ou par de l’humeur provenant d’un œil, deux cils de la paupière inférieure attachés à la paupière supérieure, sont considérés comme des obstacles à l’eau.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:44"
+    },
+    {
+      "seif": 45,
+      "he": "לא תטבול באבק של רגליה ואם טבלה יש מי שאומר שאינו חוצץ ויש מי שאומר שחוצץ אלא אם כן שפשפה או שטבלה בחמין:",
+      "en": "Il est interdit de se purifier ayant de la poussière aux pieds, car la poussière est considérée comme un obstacle à l’eau. Quand une femme s’est cependant purifiée dans ces conditions, certains regardent cette purification comme valable; d’autres l’annulent, à moins que la femme n’ait pris le soin de s’essuyer les pieds avant l’immersion ou qu’elle se soit purifiée dans de l’eau chaude.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:45"
+    },
+    {
+      "seif": 46,
+      "he": "נדה שטבלה בבגדיה מותרת לבעלה:",
+      "en": "L’immersion faite avec peignoir est valable.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:46"
+    },
+    {
+      "seif": 47,
+      "he": "מין כנים שדבוקים בבשר ונושכים בעור במקום שיער ונדבקים בחוזק בבשר צריך להסירן ע\"י חמין ולגורדן בצפורן ואם אינו יכול להסירן אינו חוצץ:",
+      "en": "Lorsque certains insectes se trouvent sur des parties du corps qui restent toujours couvertes et que ces insectes se sont enfoncés profondément dans la peau, il faut les enlever avant la purification, soit en se lavant avec de l’eau chaude, soit en se grattant avec l’ongle; ils ne sont cependant pas considérés comme obstacle à l’eau, si l’on ne peut les supprimer.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:47"
+    },
+    {
+      "seif": 48,
+      "he": "נדה שטבלה בלא כוונה כגון שנפלה לתוך המים או שירדה להקר הרי זו מותרת לבעלה: הגה ויש מחמירין ומצריכין אותה טבילה אחרת (ב\"י בשם רשב\"א ור' ירוחם ורוקח והגהות אשיר\"י) ויש להחמיר לכתחלה. יש שכתבו שיש לאשה להיות צנועה בליל טבילתה וכן נהגו הנשים להסתיר ליל טבילתן שלא לילך במהומה או בפני הבריות שלא ירגישו בהן בני אדם ומי שאינה עושה כן נאמר עליה ארור שוכב עם בהמה ויש לנשים ליזהר כשיוצאות מן הטבילה שיפגע בה חברתה שלא יפגע בה תחילה דבר טמא או עובד כוכבים ואם פגעו בה דברים אלו אם היא יראת שמים תחזור ותטבול (ש\"ד וכל בו ורוקח). ועיין לקמן סוף סי' ר\"א אם מותר להטיל חמין למקוה או אם מותר לרחוץ אחר הטבילה:",
+      "en": "Une immersion faite sans intention est valable. Une chute dans l’eau, ou une immersion faite dans le but de se rafraîchir sont des immersions sans intention.GLOSE: Certains se montrent plus sévères et disent que, pour qu’une purification soit valable, il faut que la femme s’y soit préparée; la femme devra donc s’immerger à nouveau, lorsqu’il y a eu immersion sans intention. D’aucuns se montrent sévères seulement s’il y a eu propos délibéré. Il faut qu’une femme soit pudique et garde le secret quand elle va se purifier, vis-à-vis de ceux qui l’entourent. Beaucoup de femmes s’arrangent de manière à rencontrer une amie sur le chemin du retour; la femme qui vient de se purifier ne doit pas trouver sur son chemin, comme premier objet frappant sa vue, un animal immonde, ni rencontrer un païen à ce moment. Une femme très vertueuse à laquelle il arrive de voir un objet impur en revenant de la purification retourne se purifier à nouveau. Voir § 201, si l’on peut verser de l’eau chaude dans la miqvah et si une femme peut se laver après la purification.",
+      "ref": "Shulchan Arukh, Yoreh Deah 198:48"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "בת\"כ פרשת אמור פרק ד' יליף לה הכי מדכתיב כי אם רחץ בשרו במים ובא השמש וטהר מה ביאת שמשו כולו כאחת אף ביאתו במים כולו כאחת:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:1"
+        },
+        "2": {
+          "he": "מימרא דרבי יצחק וכו' עירובין דף ד' ע\"ב נדה דף ס\"ז ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:2"
+        },
+        "3": {
+          "he": "הרא\"ש שם בפסקיו בשם הראב\"ד וכ\"כ הרשב\"א בת\"ה וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:3"
+        },
+        "4": {
+          "he": "משנה שבת דף נ\"ז ע\"א ובריש פ\"ט דמקואות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:4"
+        },
+        "5": {
+          "he": "תוספות שם (ע\"ב) [עב\"י] וכ\"כ הרא\"ש:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:5"
+        },
+        "6": {
+          "he": "מימרא דרב הונא וכדמפרש רב יוסף טעמו שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:6"
+        },
+        "7": {
+          "he": "ברייתא שם וכדמפרש רבינא שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:7"
+        },
+        "8": {
+          "he": "בעיא דרב כהנא מרב שם ונפשטא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:8"
+        },
+        "9": {
+          "he": "שם במשנה בריש פ\"ט דמקואות וכרבי יהודה וכדאי' שם בשבת בגמרא דמודים חכמים לרבי יהודה בחוטי שער:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:9"
+        },
+        "10": {
+          "he": "כרבי יוחנן שם נדה דף ס\"ז ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:10"
+        },
+        "11": {
+          "he": "הרמב\"ם בפרק ב' מהלכות מקואות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:11"
+        },
+        "12": {
+          "he": "הרא\"ש בסוף נדה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:12"
+        },
+        "13": {
+          "he": "משנה ב' פ\"ט דמקואות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:13"
+        },
+        "14": {
+          "he": "שם משנה ג' והטעם לפי שאין אדם מקפיד עליו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:14"
+        },
+        "15": {
+          "he": "תוספתא דהיא מקפדת שלא תתגנה על בעלה: (°) שקורין מארלאקי\"ן או קאלטינע\"ש:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:15"
+        },
+        "16": {
+          "he": "שם ממשנה ב' פ\"ט דמקואות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:16"
+        },
+        "17": {
+          "he": "תוס' אמימרא דמר עוקבא נדה דף ס\"ז ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:17"
+        },
+        "18": {
+          "he": "שם במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:18"
+        },
+        "19": {
+          "he": "שם במימרא דמר עוקבא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:19"
+        },
+        "20": {
+          "he": "שם בגמרא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:20"
+        },
+        "21": {
+          "he": "מימרא דשמואל שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:21"
+        },
+        "22": {
+          "he": "תוספתא כתבה הרא\"ש שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:22"
+        },
+        "23": {
+          "he": "שם במשנה וכגי' וגלד שבמכה וכפירוש הרא\"ש שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:23"
+        },
+        "24": {
+          "he": "שם משנה ד' וכפי' הרא\"ש בפ\"י דנדה מהא דרמי בר חמא הני ריבדא דכוסילתא עד ג' יומי וכו':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:24"
+        },
+        "25": {
+          "he": "הרא\"ש שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:25"
+        },
+        "26": {
+          "he": "שם במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:26"
+        },
+        "27": {
+          "he": "משנה שם בסוף מקואות ופי' הרא\"ש שם כיון שנראה מבחוץ א\"א שלא היה מקצתו על הבשר:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:27"
+        },
+        "28": {
+          "he": "שם במשנה דף פ\"ט:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:28"
+        },
+        "29": {
+          "he": "שם במשנה ב':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:29"
+        },
+        "30": {
+          "he": "שם ופירש מלמולין כשידיו מלוכלכות ומשפשף זו בזו נעשין כמין גרגרין של שעורין:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:30"
+        },
+        "31": {
+          "he": "שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:31"
+        },
+        "32": {
+          "he": "שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:32"
+        },
+        "33": {
+          "he": "תוספתא הביאה הרא\"ש שם בפ\"י דנדה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:33"
+        },
+        "34": {
+          "he": "טור בשם הרמב\"ם בפ\"ב דמקואות מהתוספתא פ\"ט (ורבינו ירוחם דלא כהטור) ומסיים שם מפני שהם לכלוך הפירות פי' ודרך ב\"א להקפיד עליהם כ\"מ שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:34"
+        },
+        "35": {
+          "he": "רמב\"ם שם ד\"ב (ורבינו ירוחם) מימרא דרב דימי כדמפרש שם מנחות דף כ\"א ע\"א וצ\"ע על הסמ\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:35"
+        },
+        "36": {
+          "he": "הרא\"ש שם בפ\"י דנדה וכ\"כ הרשב\"א משום דאינן מקפידות ואדרבה חוזרות הן ומחדשות אותם ועוד שאין שם ממשות אלא מראיתו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:36"
+        },
+        "37": {
+          "he": "מהא דזבחים דף צ\"ח ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:37"
+        },
+        "38": {
+          "he": "תוספתא הביאה הר\"ש והרא\"ש שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:38"
+        },
+        "39": {
+          "he": "שם במשנה דפ\"ט דמקואות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:39"
+        },
+        "40": {
+          "he": "שם במשנה ב':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:40"
+        },
+        "41": {
+          "he": "הרא\"ש שם והרשב\"א בת\"ה וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:41"
+        },
+        "42": {
+          "he": "מרדכי פ\"ב דשבועות מדין החץ וציינתיו לעיל בסעיף י\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:42"
+        },
+        "43": {
+          "he": "שם בשם ראבי\"ה בשם הגאונים וטעמא משום דהצפורן הוי מגוף האדם וכ\"כ בסה\"ת: (°) שמעתי היינו כל זמן שלא שמשה עם בעלה אבל לא לאחר שכבר שמשה מפני שאפשר שנתעברה ואם באת להחמיר עליה בטבילה שנית אתה מוציא לעז על אותו ולד וכ\"כ הרב ט\"ז ושכן שמע שהשיב גדול אחד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:43"
+        },
+        "44": {
+          "he": "במשנה דף פ\"ט דמקואות תנן צפורן מדולדלת אינו חוצץ ובתוספתא פירשו דאיירי בפירשה רובה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:44"
+        },
+        "45": {
+          "he": "תוספתא כתב הרא\"ש בפ\"י דנדה והרמב\"ם בפ\"ב דמקואות אפי' פירשו רובן כיון דצריכין אומן לקטען. ב\"ח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:45"
+        },
+        "46": {
+          "he": "תוספתא כתבה הר\"ש בפ\"ט דמקואות והרמב\"ם שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:46"
+        },
+        "47": {
+          "he": "מעובדא בשפחתו של רבי וכו' נדה דף ס\"ו ע\"ב דאע\"ג דלא בעינן שיכנסו מים לתוך הפה מ\"מ בעינן שיהא הפה ראוי להכניס בו מים וכדרבי זירא כל הראוי וכו' שם ומנחות דף י\"ח ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:47"
+        },
+        "48": {
+          "he": "הרא\"ש שם בהלכות נדה בקוצר וכ\"כ רבינו ירוחם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:48"
+        },
+        "49": {
+          "he": "הראב\"ד בספר בעלי הנפש מעובדא דשפחה הנ\"ל (וכפל לקמן סי' קצ\"ט ס\"ט):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:49"
+        },
+        "50": {
+          "he": "שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:50"
+        },
+        "51": {
+          "he": "שם (וכפול שם סעיף י\"ב) וסיים שם הואיל וא\"צ שיבואו בהם מים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:51"
+        },
+        "52": {
+          "he": "משנה סוף פ\"ח דמקואות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:52"
+        },
+        "53": {
+          "he": "שם במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:53"
+        },
+        "54": {
+          "he": "טור בשם רשב\"א דמפרש דת\"ק נמי מודה בהם אלא דאפילו במהדקת נמי שרי ת\"ק בהדיחה את ידיה ור\"ש לא שרי אלא במרפה והלכה כת\"ק: (°) ועיין לעיל בסי' ק\"ך ס\"כ שכ' רמ\"א שם בהג\"ה דווקא שלחלח ידו במי מקוה אבל לא במי' תלושים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:54"
+        },
+        "55": {
+          "he": "תוספתא בפ\"ה במסכת דרך ארץ זוטא דמקוואות ופ\"ז וכ\"כ הרמב\"ם בפ\"א דמקואות דחיישינן שמא יוציאנה קודם שיטבול זה ונמצא טובל במקוה חסר שחסרו ממנו המים שטפחו על ידו של זה שהכניסה לכבוש עליו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:55"
+        },
+        "56": {
+          "he": "הרא\"ש בסוף נדה והראב\"ד בסבע\"ה והרשב\"א בת\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:56"
+        },
+        "57": {
+          "he": "ל' הרשב\"א בת\"ה הקצר ומפרש שם שלא אמרה תורה אלא מעין ומקוה מים: (°) מדברי הרשב\"א בת\"ה ובתשובה סי' תתכ\"ח ובדברי הראב\"ד שהביא שם והר\"ן הביאו יותר באריכות בפ\"ב דשבועות מפורש דלא אמר אלא בנסרים המיוחדים לכלים וראוים למדרס כמו ספסל וכו' אבל לא בנסרים העומדין לבנין וכ\"נ מדברי המחבר וכמ\"ש הרמב\"ם בריש פכ\"ה מהל' כלים ושם בדין ז' נסרים שבמרחץ וכו' וחכמים במשנה ספכ\"ב דכלים וכ\"כ בפ\"ו דמקואות דין ה' המניח טבלא וכו' ובפ\"ט דין י' ומ\"ש הרשב\"א והעתיקו הרב ב\"י שצריך לעשות במקומן מדרגה של אבנים וכו' ה\"ה בנסרים העומדים לבנין הרחבים ד' אלא עצה טובה קמ\"ל לבנות בנין קבוע שיתקיים זמן רב וכמ\"ש והוכיח הגאון ר\"מ מפאדואה בתשובה בסי' ל\"א וכן דעת כל הגאונים האחרוני' חוץ ממהר\"מ יפה ז\"ל:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:57"
+        },
+        "58": {
+          "he": "שם וכ\"כ הטור בשם הראב\"ד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:58"
+        },
+        "59": {
+          "he": "ממימרא דרבא וכדמפרש רב חנן מנהרדעא נדה סוף דף ס\"ו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:59"
+        },
+        "60": {
+          "he": "תשובת הרשב\"א סי' תתכ\"ח ושם איתא שירד בו דרך שליבות סולם של עץ וכו':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:60"
+        },
+        "61": {
+          "he": "שם בתשו' הרשב\"א וסיים שם שהכלים אינם יוצאי' מתורת כלים מחמת שקבועים מאחר שנעשו קודם קביעות וכו':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:61"
+        },
+        "62": {
+          "he": "טור בשם תשובת אביו הרא\"ש כלל נ\"א דין ג':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:62"
+        },
+        "63": {
+          "he": "ממימרא דשמואל בר רב יצחק וכפי' רש\"י וגרסתו שם ד' ס\"ו ודף ס\"ז וכ\"כ הטור בשמו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:63"
+        },
+        "64": {
+          "he": "טור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:64"
+        },
+        "65": {
+          "he": "שם ממימרא הנ\"ל בשם ר\"ת וכ\"כ התוס' שם בשמו וכפי' ר\"ח וגירסתו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:65"
+        },
+        "66": {
+          "he": "שם וכ\"כ הרשב\"א בת\"ה ור' ירוחם כלומר שאם היא יודעת שטבלה כהוגן כשרה ולא חיישינן דלמא אגב ביעתותא לא טבלה שפיר ולאו אדעתה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:66"
+        },
+        "67": {
+          "he": "טור וכ\"כ הרשב\"א בת\"ה ממימרא דר\"ל נדה דף ס\"ז ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:67"
+        },
+        "68": {
+          "he": "תוספות שם ממשנה דפ\"ב דנגעים ופי' עורכת כעורכת פת:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:68"
+        },
+        "69": {
+          "he": "כפי' התוספות שם מברייתא דת\"כ וכ\"כ הר\"ש והרשב\"א והרא\"ש וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:69"
+        },
+        "70": {
+          "he": "ב\"י בפי' דברי הטור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:70"
+        },
+        "71": {
+          "he": "הרמב\"ן בתשובה בשם הראב\"ד (ודעת ראב\"ד מביא ב\"י לעיל דף רכ\"א וכ\"ד הרבה פוסקים וע' בתוספות דנדה דף ס\"ו ופוסקים):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:71"
+        },
+        "72": {
+          "he": "תשובת הרשב\"א ולזה מסכים הרשב\"ץ: (°) פי' חצי אמה של ששה טפחים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:72"
+        },
+        "73": {
+          "he": "רבינו ירוחם בשם הגאונים ובשם רב נטרונאי גאון וכ\"כ הר\"ן בתשובה וכתב דלא איתמר הא דר\"ל שציינתי לעיל אלא לאפוקי שלא תקפל קצתה על קצתה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:73"
+        },
+        "74": {
+          "he": "מימרא דעולא קידושין דף כ\"ה ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:74"
+        },
+        "75": {
+          "he": "ממשנה סוף פ\"ח דמקואות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:75"
+        },
+        "76": {
+          "he": "מימרא דר' יוחנן נדה דף ס\"ז ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:76"
+        },
+        "77": {
+          "he": "פוסקים בשם רש\"י בתשובה הוכיח דרבי יוחנן אנדה קאי ולא כגי' ר\"ח ור\"ת והרמב\"ם וכ\"כ הרא\"ש והמרדכי בשמו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:77"
+        },
+        "78": {
+          "he": "הטור בשם אביו הרא\"ש וכ\"כ הרשב\"א בת\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:78"
+        },
+        "79": {
+          "he": "כלבו והאגור בשם הר\"מ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:79"
+        },
+        "80": {
+          "he": "הרשב\"א בתשובה וכ\"כ הראב\"ד בסבע\"ה והביאו הטור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:80"
+        },
+        "81": {
+          "he": "רמב\"ם בפ\"ב מהל' מקואות כפי גירסתו שם בגמ' נדה דף ס\"ז וכ\"כ התוס' שם בשם ר\"ת ריש ע\"א וכ\"כ הרא\"ש: (°) פירוש סמוך לטבילתה ולאו דוקא בטבילתה כדעת התוספות שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:81"
+        },
+        "82": {
+          "he": "הרמב\"ם שם ודלא כהתוספתא בפ\"ח דמקואות משמיה דר\"ע מטעם שכתוב בב\"י ובכ\"מ שם ובסעיף שאחר זה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:82"
+        },
+        "83": {
+          "he": "הרמב\"ם שם מהתוספתא שם כר' דבעינן שיהיו ראוים לביאת מים וכר' זירא וציינתיו לעיל בסעיף כ\"ד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:83"
+        },
+        "84": {
+          "he": "שם מהתוספתא בפ' הנזכר:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:84"
+        },
+        "85": {
+          "he": "כל בו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:85"
+        },
+        "86": {
+          "he": "תוספתא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:86"
+        },
+        "87": {
+          "he": "הרמב\"ם שם מהתוספתא כפי גירסתו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:87"
+        },
+        "88": {
+          "he": "הר\"ש בפ\"י דמקואות כפי גירסתו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:88"
+        },
+        "89": {
+          "he": "הרמב\"ם בפ\"א מהלכות מקואות וכ\"כ הרא\"ש ממימרא דרב ביצה די\"ח ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:89"
+        },
+        "90": {
+          "he": "רוקח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:90"
+        },
+        "91": {
+          "he": "רמב\"ם שם ממימרא דנדה שנאנסה וטבלה וכרב חולין דף ל\"א ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 198:91"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "לפעמים כו'. כיון דאיכא זימנא דמקפדת חוצץ לעולם אף על פי דרוב פעמים אינה מקפדת. ב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:1"
+        },
+        "2": {
+          "he": "כיון שדרך כו'. והיכא דרוב בני אדם אין מקפידים והיא מקפדת כ' ב\"י בשם הרמב\"ם וטור דחוצץ וכ\"פ הב\"ח וכ\"כ בד\"מ ולקמן בסי' זה כתבתי דברי המרדכי שכתב בהדיא דחוצץ עכ\"ל. ונראה דהיינו המרדכי דלקמן סי\"ד בהג\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:2"
+        },
+        "3": {
+          "he": "שאינה מהדקן. שלא תהא חונקת עצמה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:3"
+        },
+        "4": {
+          "he": "קטלא. האל\"ז באנ\"ד בל\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:4"
+        },
+        "5": {
+          "he": "חלולין כו'. דרפו מרפי טובא ולא מהדקי שפיר ועייל מיא תחותייהו. הראב\"ד. וק\"ק דבא\"ח ר\"ס ש\"ג כתב סתם אם הם מעשה אריגה מותר שאין צריך להתירה בשעת טבילה ולא מחלק בין עשוים חלולים מעשה רשת או לא משמע דסבר ליה כהחולקים על הראב\"ד ויש ליישב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:5"
+        },
+        "6": {
+          "he": "ואם היו כו'. נראה דקאי גם אסעיף שלפני זה וכן הוא בטור ובעט\"ז וכ\"נ מבואר מדברי הרב בא\"ח ר\"ס ש\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:6"
+        },
+        "7": {
+          "he": "ואין חילוק כו'. כלומר בין אם ב' שערות קשורות עם ב' שערות אחרות או שני שערות קשורות בפני עצמן בכל ענין אין חוצצין וכן שערה א' שנקשרה אין חילוק בין שהיא קשורה עם חברתה א' אל א' או שקשורה בפני עצמה בכל ענין חוצצת וכדאיתא בב\"י בשם הרשב\"א והר\"ן ועב\"ח שהאריך:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:7"
+        },
+        "8": {
+          "he": "והוא שתהא מקפדת כו'. וה\"ה אם דרך רוב בני אדם מקפידין אע\"פ שהיא אינה מקפדת וכדלעיל סעיף א' וכן מדמה בב\"י ופשוט הוא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:8"
+        },
+        "9": {
+          "he": "אינו חוצץ. לפי שאין אדם מקפיד עליו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:9"
+        },
+        "10": {
+          "he": "באיש כו'. וכן אשה פנויה אינן מקפידין אבל אשה נשואה מקפדת שלא תתגנה על בעלה.",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:10"
+        },
+        "11": {
+          "he": "קליעות שערות. היינו מה שקורין בל\"א מארצע\"פ או מארלאקי\"ן ובלשון פולין ורוסי\"א קאלטינ\"ש וכן הוא בדרישה ובמעדני מלך סוף דף שט\"ו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:11"
+        },
+        "12": {
+          "he": "אינו חוצץ. ואין חילוק בכאן בין תוך שלשה ימים או לאחר ג' ימים וכ\"כ ב\"י והדרישה ועיקר דלא כהב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:12"
+        },
+        "13": {
+          "he": "ואם הוא יבש חוצץ כו'. ודעת הראב\"ד והרשב\"א והרמב\"ם ור\"ת וסמ\"ג ושאר כמה גאונים דחציצה זו וכן חציצה דבסעיף ח' ט' אינו אלא לטהרות אבל לא לבעלה ומביאם ב\"י ותימה שלא הזכיר דעתם כאן ועוד דמידי דרבנן הוא דד\"ת אינו חוצץ אלא רובו ומקפיד עליו ובדרבנן הלך אחר המיקל וכן נ\"ל שהוא דעת רבינו ירוחם שכתב לפלוף יבש חוצץ וזהו שחוץ לעין משיתחיל להיות ירוק ככחול שבעין אינו חוצץ ואפילו שע\"ג העין ואע\"ג דבתוספתא איתא דחוצץ וכן בש\"ס דוקא לטהרות אבל לבעלה לא וכ\"כ הרמב\"ם וכן עיקר וכן הסכימו רוב הפוסקים דגרסינן ולית הלכתא כו' עכ\"ל והב\"י כ' עליו נראה שהוא סובר דהא דקאמר ולית הלכתא ככל הני שמעתתא לא קאי אלפלוף שבעין כו' ואיני יודע מי הכריחו לכך כו' וליתא דקאי אלפלוף שבעין ומ\"ש דלפלוף שחוץ לעין חוצץ היינו דכ\"ע מודו בזה משום דבהא לא מיירי מר עוקבא ופשיטא דחוצץ לכ\"ע וכ\"כ הב\"י גופיה בסוף ד\"ה והראב\"ד כ' דגליד כו' וז\"ל ומיהו כ\"ז בלפלוף שבתוך העין דאילו שחוץ לעין לא איירי ביה מר עוקבא ואף לבעלה חוצץ לד\"ה וע\"פ הפירושים דלעיל עכ\"ל ומ\"ש רבינו ירוחם יבש דוקא קאי בשטת הסמ\"ג והמרדכי דסבירא ליה הכי ע\"ש מכל מקום משמע דס\"ל לרבינו ירוחם דבתוך העין אפילו יבש אינו חוצץ וכן האגודה ושאר פוסקים הביאו דעת הגאונים אלו שמתירין לבעלה מיהו כתב רא\"מ והסמ\"ג והמרדכי דאפילו מ\"ד דוקא לטהרות מכל מקום צריך ליזהר לבעלה לכתחלה בכל דבר וכן משמע בכמה דוכתי דלבעלה לכתחלה כטהרות דמי וע\"ל סימן קצ\"א ס\"ק ג' (ופשוט הוא דלכתחלה צריך ליזהר כדכתב הרב לעיל ס\"א) ואפשר שגם הרא\"ש שכתב ונכון להחמיר כפרש\"י לכתחלה קאמר ומ\"מ נראה דהיכא דאפשר שתטבול שנית יש להחמיר אבל היכא דלא אפשר ודאי כדאי הם כל הנך רבוואתה לסמוך עליהם שפסקו דלטהרה דוקא אתמר ולא לבעלה וגם המחבר גופיה הביא סברתם לקמן סל\"ד ול\"ט ע\"ש ועיין בב\"י:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:13"
+        },
+        "14": {
+          "he": "כחול כו'. לשון בה\"ג דף פ\"ה ריש ע\"ב וכי טבלה לא תישוף משחא ולא תכחול עיניה דאמר שמואל כוחלת אם לרפואה הרי זה חוצץ ואם בשביל שתראה עיניה פורעת אין חוצץ. ושנו חכמים כחול שחוץ מן העין חוצץ אמר רבי יהודא כל השמנים אין חוצצים חוץ משמן המור ונהגו בנות ישראל בעצמן שאין סכות שמן בשעת טבילה כל עיקר ע\"כ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:14"
+        },
+        "15": {
+          "he": "כל תוך שלשה ימים כו'. וכן אם הקיזה דם תוך שלשה ימים אינו חוצץ מכאן ואילך חוצץ כל זמן שהגלד עליו עד שיתרפא כהוגן כדאיתא בש\"ס ע\"פ פרש\"י ושאר פוסקים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:15"
+        },
+        "16": {
+          "he": "ואם אינו נראה כו'. בב\"י נסתפק בפי' אינו נראה ונראה לחומרא דהיינו כל שהוא שוה לבשר קרי נראה וכשהוא משוקע הוי אינו נראה ומשמע כל שהוא משוקע שאינו שוה לבשר אע\"פ שנראה העץ מונח בבשרה פנימי שתחוב בו אינו נראה מיקרי כיון שאינו נראה בשוה לבשר וכ\"כ העט\"ז:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:16"
+        },
+        "17": {
+          "he": "אינו חוצץ. ואם יש עליו קרום של בשר בכל ענין אינו חוצץ ע\"כ לשון הטור (פירוש אפילו נראה מבחוץ תחת העור) ונ\"ל כפירוש התוספתא בנראה וכמו שפירשו הסה\"ת וסמ\"ג והמרדכי וגם הרמב\"ם והרא\"ש ורבי' ירוחם נ\"ל שפירשו כן והב\"י כתב דס\"ל דהתוספתא מיירי באינו נראה ומתני' אתיא כרבי דהוא יחידאה ומ\"ה לא מפלגא בין מתכת לשל עץ וקשה דאם כן כרבי נמי לא אתיא דהא רבי מודה דבשל עץ חוצץ ומתניתין לא מפלגה בין של עץ או מתכת (וכן לעיל כתב הב\"י דא\"א לפרש התוספתא באינו נראה מבחוץ דא\"כ קמה לה מתני' כיחידאה דהא לא מפלגה בין של מתכות לשל עץ והיינו כרבי דבכולהו לא חייץ כשאינו נראה מבחוץ עכ\"ל והוא גם כן אינו נכון דהא לרבי בשל עץ נמי חייץ וא\"כ כרבי נמי לא אתיא) ועוד דאם כן הוה ליה להרמב\"ם והרא\"ש ורבי' ירוחם לאפלוגי בהכי ולכתוב דבשל עץ אפילו אינו נראה חוצץ אלא ודאי סבירא להו דמתניתין אתיא כחכמים ותוספתא מיירי בנרא' הלכך אין חילוק בין של עץ או מתכות אלא דבנראה אפילו של מתכות חוצץ כחכמי' דתוספתא ובאינו נראה אפי' של עץ אינו חוצץ וכמתני' דלא מפלגא בהכי ולזה לא הזכירו הפוסקים חילוק בין עץ או מתכת אלא בין נראה או אינו נראה ומה שלא כתבו הרמב\"ם והרא\"ש ורבינו ירוחם דבקרם עליה בשר מותר משום דפשוט הוא דהתוס' לא הוצרכה לומר כן אלא משום דמיירי בנראה ולא אשמועינן דאינו נראה אינו חוצץ אבל אם אינו נראה מבחוץ אינו חוצץ פשיטא דכ\"ש קרם עליה אינו חוצץ (וגם בב\"י גופיה מוכח דקרם עדיף מאינו נראה דהא פי' התוספתא מיירי באינו נראה א\"כ ס\"ל לחכמים דחוצץ ואפ\"ה קתני בסיפא דבקרם ד\"ה אינו חוצץ) (או אפשר שהם מפרשים ואם אינו נראה דמתני' דהיינו שקרם עליה בשר) וכ\"ז הוא דלא כב\"י ואדרבה לב\"י קשה למה לא הזכירו קרם לאשמועי' דאפילו בעץ דחוצץ לרבי אינו חוצץ בקרם וכדאיתא בתוספתא וכ\"ז נ\"ל ברור שוב מצאתי בד\"מ שכתב שדברי הב\"י מגומגמים בזה דא\"כ ה\"ל להרא\"ש וסייעתו לחלק בין של מתכת או עץ ע\"כ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:17"
+        },
+        "18": {
+          "he": "מלמולים כו'. פי' כשאדם מגבל טיט או לש עיסה ומשפשף ידיו זו בזו נופל מהן כמו חוטין אם נופלים על בשרה חוצצים. טור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:18"
+        },
+        "19": {
+          "he": "מיהו אם כו'. קאי גם אסעיף שלאח\"ז כדאיתא במרדכי שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:19"
+        },
+        "20": {
+          "he": "דם שנסרך כו'. שמתחיל להתייבש ולהדבק קצת שכשתולים בו אצבע נמשך והולך חוט ממנו רש\"י במנחות (דף כ\"א ע\"א) ומשמע דעיקר החילוק הוא בין נסרך או לא אבל אין חילוק בין נסרך בבשר או בד\"א וכ\"מ בש\"ס שם דמשני הא דסריך הא דלא סריך וע\"ש ובה\"ג (דף פ\"ח ע\"א) מצאתי אמר רב זו שאמרו חכמים דם לח אינו חוצץ לא אמרו אלא בשלא נתבשל אבל נתבשל באש בין לח בין יבש חוצץ ע\"כ ואף שלא נמצא כן בש\"ס שלנו גם מדלא משני הכי במנחות לא משמע הכי מ\"מ דברי בה\"ג דברי קבלה הם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:20"
+        },
+        "21": {
+          "he": "ושער ראשן. אע\"פ שחופה רוב השער או כולו והרי הוא כגופו של שער שאינו חוצץ והשער הוא כגופו של אדם ועוד שהמראה מן הצבע אין בו ממש ואינו דומה לדיו שחוצץ דהתם יש ממשות הדיו כ\"כ ר' ירוחם והרמב\"ן והרשב\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:21"
+        },
+        "22": {
+          "he": "צואה כו'. עיין בב\"י שמתמה על הרשב\"א שדבריו סותרים זא\"ז וחילק בדוחק בין נטילה (בא\"ח סימן קס\"א ס\"א) לטבילה ע\"ש שהאריך ואחריו נמשך העט\"ז ובספרי הוכחתי דלק\"מ והוא דס\"ל להרשב\"א והסמ\"ג וסמ\"ק בשם ר\"ת דצואה שאינה נדבקת אינה חוצצת כלל והנדבקת חוצצת שלא כנגד הבשר וסתם צואה אינה נדבקת אלא דקאמר דכיון דבצואה נדבקת דומיא דבצק חוצצת נהגו הנשים להחמיר ליטול צפרניהם בשעת טבילה דשמא יש שם צואה הנדבקת אבל ודאי לענין נטילה לא שייך האי חומרא ליטול צפרניו בכל נטילה ונטילה קצרתי ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:22"
+        },
+        "23": {
+          "he": "נהגו הנשים ליטול כו'. ולענין נטילת הצפרנים בחול המועד עיין בא\"ח סימן תקל\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:23"
+        },
+        "24": {
+          "he": "אם נפוחה כו'. כתב ב\"י שזה נלמד מחץ דלעיל סי\"א ולפ\"ז א\"צ שיהא נקרם עור ובשר על הטיט אלא כל שהטיט כך בעומק שאינו נראה בשוה לבשר אינו חוצץ כדלעיל גבי חץ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:24"
+        },
+        "25": {
+          "he": "צריכה טבילה אחרת. באמת חומרא זו לא נמצאת בשום פוסק ואדרבה מהמשנה והרבה פוסקים וט\"ו נראה מבואר דכל שהצפורן נקי בודאי אינו חוצץ אלא ההגהת ש\"ד כתב דטוב להחמיר ותטבול שנית משום דא\"א שלא יהא בתוכו טיט וע\"כ כתב הרב דנוהגין להחמיר וכתב מהר\"מ מלובלין בתשו' סי' פ\"א דכיון שאין זה מדינא אלא מחומרא נ\"ל שלא החמירו אלא כשנמצא ששכחה צפורן א' מיד אחר הטבילה קודם שלנה עם בעלה אבל אם לא מצאה כ\"א עד למחר אין ראוי להחמי' שלא תוציא לעז על בעילתה ואפי' אם לא נזקקה לבעלה אותו לילה הדבר מכוער וא\"צ טבילה אחרת אם לא נמצא שום לכלוך תחתיו עכ\"ל מיהו בהראב\"ד סימן שכ\"ו דף ס' ע\"ד מצאתיו ז\"ל צריכה לחתוך צפרני ידיה ורגליה דכיון דעתידה ליטלן חייצי השתא עכ\"ל וזהו כעין מ\"ש הרב ומאחר דכבר נהגו ליטול הצפרנים כו' צריכה טבילה אחרת כו' משמע דטעמא לאו משום דא\"א שלא נשאר טיט תחת הציפורן אלא משום דהצפורן עצמו חוצצת וכ\"כ הב\"ח סי\"ט דנ\"ל דאפילו ברי לה שלא היה שום טיט כלל יש להחמיר שתטבול פעם שנית שהרי איכא למ\"ד אם הצפורן עומדת ליקצץ חוצץ עכ\"ל וא\"כ צ\"ע בפסק זה שפסק מהר\"מ מלובלין ע\"כ נראה דהיכא דאפשר לה לחזור ולטבול אפילו לא מצאה עד למחר יש לה לחזור ולטבול וכמדומה לי שכן נוהגים להורות אבל היכא דלא אפשר אין להחמיר כיון שעבר הלילה וע\"ל סימן קצ\"ז ס\"ק א':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:25"
+        },
+        "26": {
+          "he": "חוצצת. היא עצמה משום שפירשה אפי' לא נמצא עליה דבר חוצץ. ד\"מ והעט\"ז וב\"ח ושאר אחרונים ודלא כמסקנת ב\"י:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:26"
+        },
+        "27": {
+          "he": "פירשה רובה אינ' חוצצת. ונראה דלדידן דנוהגים להצריכה טבילה שנית אם לא חתכה הצפורן ה\"ה הכא או אפשר לחלק דכיון דמן הדין אפילו נשאר צפורן אינו חוצץ כל שידוע שלא היה שום צואה תחתיו וכדאיתא בפוסקים אלא דנהגו להחמיר והיינו כשכל הצפורן נשאר מה שאין כן הכא ודוחק וכ\"ש לטעם דהצפורן גופיה מעכב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:27"
+        },
+        "28": {
+          "he": "וכן הדין באגד כו'. והב\"ח פסק דבאגד וקשקשים אפילו רפויים חוצצים דלא עיילי בהוא מיא שפיר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:28"
+        },
+        "29": {
+          "he": "וקשקשי' כו'. היינו לוחות שעושים הרופאים ע\"ג מכה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:29"
+        },
+        "30": {
+          "he": "שאם טבלה כו'. כתב הב\"ח דמלשון זה משמע שאינו חוב עליה אלא צריכה לחוש לטובתה שאם טבלה ונמצא שום דבר ביניהם לא עלתה לה טבילה וכיוצא בזה כתב מהרא\"י בת\"ה גבי שחיטה (לעיל סימן י\"ח ס\"ק י\"ז) ובנה יסודו על דקדוק זה עכ\"ל ולא נהירא דדוקא לעיל גבי שחיטה דאמרינן השוחט בהמות רבות צריך לבדוק בין כל אחד ואחד שאם לא נעשה כן ובדק באחרונה ונמצא הסכין פגום הרי הכל ספק נבלות ע\"כ דייק מהרא\"י שם שפיר מלשון זה דאי איתא דאיסורא מטעמא אחרינא שמא יאכל מהן קודם בדיקה אחרונה לא הל\"ל הכי ע\"ש מבואר כך להדיא אבל הכא אפ\"ת דחוב הוא לה היינו טעמא משום שאם טבלה ונמצא שום דבר ביניהם לא עלתה לה טבילה והלכך חיישינן שמא יהא דבר חוצץ ביניהם דהא אין צריכה לבדוק אחר הטביל' אם יש עליה שום דבר חוצץ אבל בשחיטה צריך הסכין לבדוק אחר סוף השחיטה וכן משמע בב\"י דחוב הוא לה וכתב דכן הדין שהרי שיני' מצויים לימצא ביניהם שיורי מאכל ובזה מיושב מה שהקשה הב\"ח מנ\"ל דחובה הוא דכן בדין וק\"ל. וגם בעט\"ז כתב ואם בוי\"ו ואפי' אמרה אבדוק אחר הטבילה בין השינים חיישינן שמא תשכח מלבדוק וכה\"ג חיישינן בדוכתי טובי ול\"ד לשחיטה דהתם בלאו הכי צריך לבדוק הסכין אחר השחיטה מה שאין כן הכא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:30"
+        },
+        "31": {
+          "he": "לא עלתה כו'. דאע\"ג דלא בעינן ביאת מים לבית הסתרים ראוי לביאת מים בעינן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:31"
+        },
+        "32": {
+          "he": "עלתה לה טבילה ואינו דומה כו'. כתב העט\"ז והמעדני מלך דף שט\"ו ע\"א הטעם דבבית הסתרים כיון שיש לה מקום להשאר שם ולהתדבק בבית קמטיה אמרינן ודאי לא היה שם דא\"כ למה יפול אחר הטבילה עכ\"ל ולחנם דחק דלהכי ל\"ד לבדיקת הגוף וחפיפת הראש דהתם בעינן ביאת מים ותלינן לחומרא אבל הכא לא בעינן ביאת מים (אלא ראוי לביאת מים) לכך תלינן לקולא כדלקמן סכ\"ו וכ\"מ בראב\"ד וכן מבואר בט\"ו לקמן סימן קצ\"ט ס\"ט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:32"
+        },
+        "33": {
+          "he": "תלינן לקולא כו'. ודעת הרוקח אינו כן שכ' בסימן שי\"ט וז\"ל מצאתי מעשה באשה שטבלה ונמצא בשר בין שיניה והצריכו' טביל' אחרת מההוא עובדא דמייתי פ\"ק דקדושין מעש' בשפחתו של רבי שטבלה ונמצא לה עצם בין שיני' והצריכה ר' טבילה אחרת ואפי' לא ידעינן מתי נכנס בין שיניה (קודם טבילה או) אחר טבילה הא אמרי' טבלה ועלתה ונמצא עליה דבר חוצץ אע\"פ שנתעסקה באותו המין כל היום כולו לא עלתה לה טבילה עכ\"ל ויש להחמי':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:33"
+        },
+        "34": {
+          "he": "נתנה שערה בפיה. ולא באו המי' בשערה (רש\"י) [ר\"ש]:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:34"
+        },
+        "35": {
+          "he": "אא\"כ רפתה כו'. והב\"ח פסק כהרמב\"ם והרמב\"ן דאפי' ברפתה לא עלתה לה טבילה גזרה אטו לא רפתה ואע\"ג דבעלמא לא גזרינן ברפוי הכא שאני דמתוך שהוא בהול ומתפחד פן ישמט מידיו הוא דוחק את ידיו עליו שלא במתכוין ע\"כ וכ\"כ הרא\"ה בס' ב\"ה דף ק\"ן ע\"ב דהכא באוחז בחבירו שחבירו נשען עליו עשוי הוא ומצוי שלא ירפה ושפיר שייך למגזר עכ\"ל מיהו בה\"ג דפ\"ה ע\"ב גורס ר\"ש אומר עד שירפה כו' והיינו כפי' הרשב\"א דאסיפא פליג ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:35"
+        },
+        "36": {
+          "he": "ואם הדיחה כו'. כתב הדרישה מכאן יש היתר גמור שבשעה שהאשה טובלת וחברתה דחפה במים שיכולה לאחזה בידה בשעת דחיפה אם הדיחה ידיה במים תחלה וא\"צ להפריד ידיה ממנה ולא כמו שנוהגין נשי דידן שמפרידין ידיהם ממנה בשעת דחיפה עכ\"ל ולפע\"ד אין להורות קולא בדברים שנהגו איסור דהלא במשנה ופוסקים אינו אלא דבדיעבד שרי אבל לכתחלה מאן לימא לן ועוד דבכמה וכמה דברים מחמירים לענין נדה שלא מן הדין ואפילו דיעבד כ\"ש הכא ועוד שהרי מהר\"ר ישראל ברי\"ן חולק ואוסר הכא אף בהדיחה ידיה ואף המשאת בנימין שחולק עליו י\"ל דמודה לכתחלה מיהו באשה שאינה יכולה לעמוד על רגליה פסק בתשובת משאת בנימין שם סימן פ\"א דיש לטובלה ע\"י שתאחזנה שתי נשים בזרועותיה וידיחו ידיהם תחילה במים עד שיהא טופח על מנת להטפיח אבל אין לה תקנה שישכיבוה על הסדין ויטבילוה דסדין מקבל טומאה ואסור (כדלקמן סעיף ל\"א) עכ\"ד ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:36"
+        },
+        "37": {
+          "he": "במים כו'. דוקא במי מקוה אבל לא במים תלושים כדלעיל סימן ק\"כ ס\"ב בהג\"ה וכ\"מ במרדכי סוף ע\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:37"
+        },
+        "38": {
+          "he": "טופח. ע\"מ להטפיח. פרישה וב\"ח וכן הוא ברשב\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:38"
+        },
+        "39": {
+          "he": "הרי זה מגונה. דחיישינן שמא יוציאנה קודם שיטבול זה ונמצא טובל במקוה חסר שהרי חסרו ממנו המים שטפחו בידו של זה. ב\"י. אבל הריב\"ש סימן רצ\"ג כ' דהרמב\"ם פי' דאפי' במקוה שיש בה יותר ממ' סאה הרי זה מגונה ומביאו ב\"י לקמן סי' ר\"א דף רמ\"ו ע\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:39"
+        },
+        "40": {
+          "he": "אם אין שם טיט כו'. צ\"ע דמשמע בשיש שם טיט צריכה להגביה רגליה ויכולה לטבול שם ובסעיף ל\"ג פסק בשיש שם טיט לא תטבול כלל ואפשר דה\"נ קאמר דבאין שם טיט אין צריכה להגביה רגליה אבל בשיש שם טיט לא תטבול כלל כדלקמן ולמאי דכתבתי לקמן ס\"ק מ\"ו דיש חילוק בין טיט לטיט אתי שפיר ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:40"
+        },
+        "41": {
+          "he": "ע\"ג כלי. אפי' רחב וקבוע בענין שאין לחוש שמא תפול ממנה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:41"
+        },
+        "42": {
+          "he": "ולא ע\"ג נסרים. ע\"ל ס\"ק מ\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:42"
+        },
+        "43": {
+          "he": "עברה וטבלה ע\"ג אלו כו'. והב\"ח חלק על זה דאין נראה להקל כיון דלפרש\"י ותוספות לא עלתה לה טבילה אפילו בכ\"ח מגזרה דמרחצאות כו' ודבריו תמוהין לי דרש\"י ותוס' לא כתבו כן אלא כדס\"ד דרב כהנא אבל למסקנא משמע בש\"ס דליכא גזירה דמרחצאות בכ\"ח וכמ\"ש כל הפוסקים ותו די\"ל דאף גזרה דמרחצאות אינו אלא לכתחלה וכמש\"ל סימן ר\"א ס\"ק ל\"ז לדעת הרא\"ש וטור ואפילו להפוסקים דסברי דאפי' בדיעבד שייכא גזרה דמרחצאות היינו בכלי שמקבל טומאה אבל בכלי חרס י\"ל דאפילו בס\"ד דש\"ס לא הוי מיתסר אלא לכתחלה ודו\"ק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:43"
+        },
+        "44": {
+          "he": "ולפי זה כו'. אלעיל ולא ע\"ג נסרים כו' קאי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:44"
+        },
+        "45": {
+          "he": "שיש בו שליבות כו'. בעט\"ז האריך מאד והתרעם על המקואות שבמדינות אלו שעושין נסרים למטה ומדרגות לעמוד עליהן בשעת טבילה ע\"ש וכבר מחו ליה מאה עוכלי בעוכלי במעדני מלך דף שי\"ז ע\"א והגהת דרישה והב\"ח ובעל מגדול דוד וכבר האריך בזה מהר\"מ פאדוא\"ה בתשו' סי' ל\"א והעלה טעם ההיתר משום דפשוטי כלי עץ להרבה פוסקים אינו מקבל טומאה אפילו מדרבנן ואפילו הרשב\"א (והמחבר) לא מיירי אלא כשהיה סולם זה בשליבות קודם שקבעוה במקוה דהיה עליה שם כלי מתחלה ואח\"כ קבעוה במקוה אבל אם מתחלה עשו במקוה נסרים או מדרגות לעמוד עליהן בשעת טבילה אין שם כלי עליהם אלא שם בנין נקרא עליה' ומותר לטבול עליהן וכן כתב הב\"ח והמ\"ד ע\"ש שהאריכו בזה (אכן מה שהשיג המ\"ד שם עליו וז\"ל דלא אסר הרשב\"א באותן שליבות אלא בשליבות דוקא שיש לחוש שמא תפול מהן כו' שגגה יצאה מלפניו וק\"ל) גם בתשובת שארית יוסף סי' ס' כתב דהרשב\"א (והמחבר) מיירי בנסרים ושליבות העשויים למדרס אבל כשלא נעשו רק לעמוד עליהם במים ולטבול אינם ראוי' לטמא מדרס ולכן מותר לעמוד שם בשעת טבילה ע\"כ וכן נ\"ל מוכרח דעת המחבר מיניה וביה שכתב בסעיף שאח\"ז אם אין להם לבזבזין מותר' לעמוד עליו ומה בכך שאין להם לבזבזין הלא הרא\"ש בתשו' לא כתב אלא כיון דאין להם לבזבזין והוי פשוטי כלי עץ דלא מקבלי טומא' מות' ומביאו ב\"י ואם איתא אם כן גם כן בסילונות אע\"ג שאין להם לבזבזין ליתסר (ומה שכ' העט\"ז גבי לבזבזין אינו נראה וק\"ל) אלא ודאי כדאמרן ולזה מותר בסילונות לפי שלא היה עליהם שם כלי מתחלה שהרי אינו ראוי למדרס רק פשוטי כלי עץ לצורך המקוה וכן כ' בב\"ה וז\"ל ונראה דאפי' להראב\"ד והרשב\"א דפסלי בפשוטי כלי עץ שקבע בקרקע התם בנסרים וכיוצא בהן שראויים למדרס אבל סילונות אינן ראויים למדרס שרי עכ\"ל ולפ\"ז מה שכתב המחבר כאן לא עלתה להן טביל' דפשוטי כלי' הם קודם שנקבעו במקוה ודוק ועיין (בס\"ק שאח\"ז יש עוד צד היתר ודוק) ומהר\"מ מלובלין בתשו' סי' נ\"ז כ' דודאי אין לשנות המנהג שלא להוציא לעז על הראשונים ואעפ\"כ בכל זמן שמזדמן לידי שמתקנים איזה מקוה או בונים חדשה אני מצוה תמיד לתקנה בדברים שאינם ראויים למדרס כדי שתהא כשרה אליבא דכ\"ע עכ\"ל וע\"ש וע\"ל סי' ר\"א סי\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:45"
+        },
+        "46": {
+          "he": "אם אין לו לבזבז כו'. הטור לא הזכיר תנאי זה והיינו משום דסבירא ליה דהרא\"ש בתשובה שם התיר מתרי טעמי חדא דל\"ד למעיין שהעביר ע\"ג ספסל דהתם מיירי שהעביר המעיין למקוה ע\"ג הספסל ופירש ר\"ש שגזרו בכלים הקבועים כו' עד והך גזרה לא שייכא הכא ועוד דסתם סילונות אין להם לבזבזין כו' עכ\"ל וס\"ל לטור דשנויא קמא עיקר כדמשמע פשט לשונו ושנויא בתרא לא כתבו אלא לרווחא דמילתא ולכך אפי' יש להן לבזבזין שרי מיהו היינו דוקא לשיטת ר\"ש והרא\"ש אבל הראב\"ד והרשב\"א והר\"ן שאסרו אפילו בכלים תלושים שנתנום למקוה א\"כ לא שרי הכא מטעמא קמא ולזה התיר המחבר מטעם שאין לו לבזבזין ודו\"ק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:46"
+        },
+        "47": {
+          "he": "י\"א. ואע\"ג דלעיל סי\"ד פסק דאינו חוצץ אלא טיט היון ויוצרים ודרכים ושאר כל הטיט כשהוא לח אינו חוצץ שהרי הוא נמחה במים י\"ל דהכא נמי מיירי במקוה שיש טיט עבה כמו טיט היון וכ\"כ ב\"י לדעת רש\"י ע\"ש (ועד\"ר סל\"ד) ואפשר ע\"ז סמכו עכשיו וטובלין במקוה שיש טיט משום דסתם טיט אינו כמו טיט היון וכמ\"ש ב\"י בשם הר\"ן וגם רוב הפוסקים מתירים לטבול בנמל דהיינו במקום טיט כדאיתא בטור ופוסקים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:47"
+        },
+        "48": {
+          "he": "אלא שוחה כו'. דבכל אלו שיערו חז\"ל כשעושה כן יכולים המים לבא בכל מקומות גופה הגלויים הצריכים לביאת מים ושאר מקומות נקראו בית הסתרים שאין צריכין לביאת מים אלא בעינן שיהו ראויים לביאת מים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:48"
+        },
+        "49": {
+          "he": "עלתה לה טבילה בו'. צ\"ע בזה וכן הא דעצמה עיניה ביותר לקמן סל\"ט די\"א דעלתה לה טבילה אינו אלא למאן דגריס בש\"ס ולית הלכתא ככל הני שמעתתא כו' אבל המחבר ע\"כ לא ס\"ל הכי שהרי פסק לעיל ס\"ח גבי כחול וסעיף ט' גבי דם שבמכה שחוצץ וזה אינו אלא למאן דלא גרס הכי בש\"ס דהא בהא תליא וכדמוכח בכל הפוסקים ובב\"י ע\"ש וצל\"ע:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:49"
+        },
+        "50": {
+          "he": "שפיר דמי. לשון בה\"ג דף כ\"ה ע\"ב ובדלא נפישי מיא למירמי בהו איתתא כולה קומתה מיגנדרא כביניתא ושפיר דמי וכן כתבו שאר פוסקים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:50"
+        },
+        "51": {
+          "he": "י\"א כו'. במעדני מלך דף שי\"ח ע\"א תמה מ\"ש מקפצה פיה דסתם וכתב דלא עלתה לה טבילה ולא קשה מידי דאפ' מאן דפליג כאן מודה בקרצה שפתותיה דמתני' היא וכדאיתא בכל הפוסקים והחילוק כתב הר\"ן וז\"ל מ\"ש מקרצה שפתותיה דתנן כאילו לא טבלה י\"ל דכי עצמה עיניה לא מעכבי קמטים כולי האי שיהיו מעכבים מלבא בהן מים עכ\"ל ומביאו ב\"י לעיל גבי דין דגלד שעל המכה דף רכ\"א ע\"ב וכ\"כ הרא\"ה בספר בדק הבית דף קכ\"ט ע\"א ועצמה עיניה ביותר או פתחה ביותר אין לחוש לה אלא בקריצת שפתיה לבד עכ\"ל וכן מבואר בשאר פוסקים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:51"
+        },
+        "52": {
+          "he": "חלולות. עשויים מעשה רשת כדלעיל סעיף ג':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:52"
+        },
+        "53": {
+          "he": "לא עלתה לה טבילה כו'. והב\"ח פסק בס\"ס קצ\"ט דעלתה לה טבילה: איתא בש\"ס נתנה תבשיל לבנה לא עלתה לה טבילה וכתבו הט\"ו לקמן ס\"ס קצ\"ט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:53"
+        },
+        "54": {
+          "he": "חוצצין. דאע\"ג דבית הסתרים א\"צ ביאת מים ראוי לביאת מים בעינן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:54"
+        },
+        "55": {
+          "he": "י\"א שהאשה כו'. מיהו כל זה אינו מעכב בדיעבד וכן משמע בב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:55"
+        },
+        "56": {
+          "he": "בבגדיה כו'. נראה דוקא באותן הבגדים שהן רפויין עליה אבל לא באותן שהן מהודקים. שוב מצאתי כן ברמב\"ן ס\"ס שכ\"ו דף ס\"א ע\"א וז\"ל דוקא אשה בבגדיה שהם רחבות שכך היה מנהג נשים שלהן כמו שעדיין נהגו הנשי' של ארץ כנען אבל איש בבגדיו שהן קצרי' ודבוקי' לבשר ולא מצי מיא עייל בהו או אשה בזמן הזה בבגדים קצרים לא ע\"כ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:56"
+        },
+        "57": {
+          "he": "ונדבקין בחוזק בבשר. והם בל\"א פיל\"ץ ליי\"ז עט\"ז:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:57"
+        },
+        "58": {
+          "he": "צריך להסירן כו'. משמע כל שלא הסירן אפי' דיעבד חוצצין כיון שיכול להסירן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:58"
+        },
+        "59": {
+          "he": "ומצריכין כו'. מיהו אין לה לברך כשתחזור ותטבול. ב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:59"
+        },
+        "60": {
+          "he": "ויש להחמיר כו'. כלומר יש להחמיר לכתחלה שתחזור ותטבול בכוונה אם אפשר וכ\"כ הב\"ח מיהו אם אנסה חברתה ואטבלה כוונה דחברתה כוונה מעליותא היא לכולי עלמא הכי אמרינן פ\"ב דחולין סוף דף ל\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:60"
+        },
+        "61": {
+          "he": "ואם פגעו בה דברים אלו כו'. כגון כלב או חמור או עם הארץ או עובד כוכבים או חזיר או סוס או מצורע וכיוצא בהן כן הוא בש\"ד סי' כ\"ג אבל ברוקח וכל בו איתא שאם פגע בה סוס תעלה ותשמש שבניה עומדין נאה בדבורן שומעים ומבינים לומדי' תורה ואינם משכחין וממעטי' בשינה ולא עוד אלא שאימתן מוטלת על הבריות כו': גרסינן בפרק ערבי פסחים (פסחים דף קי\"א ע\"א) האי מאן דפגע באיתתא בעידנא דסלקה מטבילת מצוה אם איהו קדים ומשמש אחדה ליה לדידי' רוח זנונית אי איהי קדמה ומשמשה אחדה לה לדידה רוח זנונית מאי תקנתיה לימא הכי שופך בוז על נדיבים ויתעם בתוהו לא דרך ע\"כ והוא בתהלים ק\"ז והכי מייתי לה ברוקח אבל בעל תולדות אהרן לא ציין מקרא דשופך בוז על נדיבים אלא ומזיח אפיקים רפה באיוב י\"ב פסחים קי\"א ובתהלים לא ציין כלום נראה שלא היה גורס בש\"ס שופך בוז על נדיבים וגו' ובילקוט מייתי ש\"ס זה בתהלים ובאיוב הלכך נמרינהו לתרווייהו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 198:61"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "כל גופה בפעם אחת. דדרשינן ורחץ ובא השמש וטהר מה ביאת שמשו כולו כאחת אף רחיצתו כולו כאחת:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:1"
+        },
+        "2": {
+          "he": "ואם דרך בני אדם כו'. נראה ביאור לשון זה דרך בני אדם להקפיד על זה אע\"פ שאין רוב בני אדם מקפידין רק קצתן וזו האשה רגילה להקפיד ג\"כ על זה בפעמים אחרים רק שעכשיו אינה מקפדת או אפילו אינה מקפדת בשום פעם ורוב בני אדם מקפידים על זה חוצץ אבל אם מקצת בני אדם מקפידין וזו אינה מקפדת לעולם לא הוה חציצה ועי' מה שכתבתי בסעיף י\"ח:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:2"
+        },
+        "3": {
+          "he": "כיון שדרך רוב בני אדם כו'. בב\"י נסתפק אם שאר בני אדם אינם מקפידים וזו מקפדת וכתב בד\"מ דבמרדכי כתב בהדיא שחוצץ וכן כתב מו\"ח ז\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:3"
+        },
+        "4": {
+          "he": "ואם הוא חופה רוב הגוף כו'. דדבר תורה אינו חוצץ אלא ברובו ומקפיד עליו וגזרו רבנן ברובו שאין מקפיד משום רוב המקפיד וגזרו על המיעוט המקפיד גם כן משום רוב המקפיד אבל במיעוט ואינו מקפיד דתרתי לטיבותא לא גזרו כלל דהוה גזירה לגזירה. והא דכ' רמ\"א אחר כך גזירה אטו דברים החוצצים והיינו אפילו במיעוט התם קאמר לכתחלה אבל דיעבד לא גזרינן גזירה לגזירה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:4"
+        },
+        "5": {
+          "he": "חוטי צמר כו'. לפי שמקפדת להסירם בשעת חפיפה או רחיצה שיכנסו שם המים כיון דאיכא זימנא דמקפדת חוצץ לעולם ע\"כ אין צריך כאן שיהיה כן על רובה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:5"
+        },
+        "6": {
+          "he": "חוטי שער. פי' שכרוכים סביב השערות ולא מהודקים בהם ע\"כ אינם חוצצין ויתבאר בסמוך:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:6"
+        },
+        "7": {
+          "he": "ואם היו מוזהבות. דאז מקפדת עליהם להסירם וכשאינה מסירם הוה חציצ' וכן במטונפו' מקפדת להסירם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:7"
+        },
+        "8": {
+          "he": "שתי שערות כו'. בטור כתוב דין זה בסימן זה שתי פעמים האחד כאן והשני שכ' (ראש) [רוב] השער שנקשר נימא כו' וכוונתו שמצינו דין זה גם בגמ' שתי פעמים האחד בפרק במה אשה הכל מודים בשער שאינו חוצץ פי' אם כרכה שער ראשה בשער דעלמא דאינו חוצץ לפי שאינ' מהדקת היטב והשני בפרק בתרא דנדה מביאו ב\"י דנימא אחת חוצצת שתים איני יודע שלשה אינן חוצצות וההיא מיירי לענין שערו' האשה עצמה שאם נקשרו רובן אחת אחת אז חוצץ דוקא ומזה מיירי ההיא דלקמן בטור וכאן מיירי מדבוק שער דעלמא על שערה ונפקא מיניה בין הנך תרתי דכאן כל דהוה חציצה אפילו במיעוט הוה חציצה כמו חוטי צמר דסעיף ב' וכמו שכתבתי שם ולהכי לא כתב כאן הטור דבעינן שיהא הרוב שערה כן כמ\"ש לקמן אבל לקמן דמיירי בשערות עצמה שנקשרו צריך דוקא רוב דבלאו הכי אינה מקפדת והב\"י כתב על דברי הטור דכאן דמיירי במקפדת הרבה כו' והוא שלא בדקדוק כי אין זה שייך כאן אלא לקמן מטעם שזכרתי אבל ודאי לענין המנין הם שוים דכמו שלענין שער עצמה תלוי הדבר היאך נקשרו השערות אם אחת אחת או שתים שתים ה\"נ כן הוא אם כרכה חד שער על שערה חוצץ והיינו אפילו אם כרכה הרבה שערות סביב זה שלא במקום זה ובכל כריכה הוה חד שער מהטעם דמהדק שפיר אבל אם על כל כריכה לקחה שתי שערות או יותר לא הוה חציצה וזהו שכתב הטור כאן בד\"א בזמן שהם של שתי שערות פי' כל כריכה כמו שכתבתי. ודברים אלו מכוונים גם בר\"ן שהביא ב\"י וז\"ל מודים בחוטי שער שאינם חוצצים פי' דוקא בראשי הבנות הוא שאין שער חוצץ לפי שא\"א להדקו יפה אבל לקשור נימא אחת בעצמה או נימא בחברתה מתהדקות הן דהא אמרינן בפרק בתרא דנדה נימא א' קשורה חוצצת כו' ואפילו לכרוך חוטי שער אלו בשערותיה נמי שרי לפי שאי אפשר לחוטי שער הללו שלא יהיו יותר מנימא א' כו' עכ\"ל הרי דכתב גם כן דדין הראשון מיירי בכריכה סביב שערה ולקשור נימא א' מיירי משערה עצמה ומ\"ש או נימא אחת בחברתה זה מיקרי נמי נימא אחת דמה לי אחת בפני עצמה או עם חברתה וכמ\"ש ב\"י אח\"כ ושפיר פסק כרבי יוחנן שמביא ב\"י ובחנם כתב כאן שפסק כרבה בב\"ח אלא שאח\"כ סיים הר\"ן דכאן בכריכת שער דעלמא אין חציצה לפי שאין עושין כריכא זו בנימא א' והטור כ' דאם עשאוה משער אחת הוה חציצה ואין חילוק דין ביניהם אלא במציאות הענין ועפ\"ז דברי הש\"ע מבוארין דמ\"ש בסעיף ד' חוטי השער אינם חוצצין היינו בדין הכריכה שזכרנו וגם שם יש חילוק היאך נעשית הכריכה אם משער אחת או יותר ושם הוה חציצה אם נעשית הכריכה משער אחת ואפילו לא הוה רובא ואינה מקפדת דהוה כמו חוטי צמר דסעיף ב' דמייא לא עיילי שם עד שתרפם וכאן סעיף ה' מיירי מדין השני דהיינו שערותיה עצמן ובזה תלוי במקפדת וכמו שסיים כאן הש\"ע:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:8"
+        },
+        "9": {
+          "he": "ואין חילוק בין אם קשר שתי שערות כו'. כצ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:9"
+        },
+        "10": {
+          "he": "בנשואה חוצץ. לפי שהיא מקפדת שלא תתגנה על בעלה וכתב ב\"י דלא היה צריך הטור לכתוב דין הפנויה שאינה חוצץ דאין נפקא מיניה לדידן ומו\"ח ז\"ל תיקן אותו דקמ\"ל אם היתה נשואה דומיא דפנויה שאין בעלה מקפיד על זה אפ\"ה חוצץ דאזלינן בתר רוב נשואות ועל כן אמר דוקא פנויה אינו חוצץ ולא שום נשואה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:10"
+        },
+        "11": {
+          "he": "ולפלוף שבעין כו'. זה דלא כדברי הטור שהקיל בעין לגמרי ובחוץ לעין חילק בין לח ליבש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:11"
+        },
+        "12": {
+          "he": "ואם היתה פותחת כו'. פירוש שמנהגה כך וכן משמע לשון הטור שכתב נפתחות דהיינו שלא בכוונה וכ\"כ מו\"ח ז\"ל ובטור כתב בשם הרמב\"ם שפירוש היו עיניה פתוחות נראה לי שהרמב\"ם מפרש דבשעת טבילה עשתה כך שפתחה עיניה דזה פשוט שאין אשה שתהא עיניה פתוחות תמיד נמצא ששפיר יש לרמב\"ם פירוש שלישי ממ\"ש הטור קודם לזה שני פירושים ולא כב\"י שכתב שהרמב\"ם ס\"ל כפירוש קמא בטור וראיה לזה שהרי הרמב\"ם כתב אח\"כ סמוך לזה פתחה עיניה ביותר לא עלתה לה טבילה וזהו ודאי קאי על שעת הטבילה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:12"
+        },
+        "13": {
+          "he": "וריר שבתוכה. פירוש שהוסר הגליד מעליה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:13"
+        },
+        "14": {
+          "he": "בעלת חטטין כו'. מבואר בב\"י בשם המרדכי והרא\"ש דריבדא דכוסילתא דהיינו דרכן של מקיזי דם להעלו' גליד הוה דינו כגליד שעל המכה אחר שלשה ימים אבל תוך שלשה ימים אין חוצץ כלל. והביא רש\"ל הג\"ה אחת וז\"ל וגרב לגבי טבילה צריכה להסיר אע\"פ שכואב לה הרבה ואשתו של מהרר\"ק היתה צריכה לעמוד לפניו ערומה שהיה רואה שלא היה גרב עליה שלא היה מאמין לה שהיתה מסירה שהיתה נערה והיה כואב לה וכן עשה השר מקוצי לאשתו עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:14"
+        },
+        "15": {
+          "he": "ואם אינו נראה כו'. בטור סיים ואם עלה עליו קרום של בשר בכל ענין אינו חוצץ פירוש אפילו אם נראה תחת הקרום:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:15"
+        },
+        "16": {
+          "he": "מלמולין שעל הבשר. פירוש כשהאדם לש עיסה משפשף ידיו זו בזו ונופל מהן כמו חוטין ואם נופלין על בשרו חוצצין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:16"
+        },
+        "17": {
+          "he": "שרוב בני אומנות כו'. בב\"י ס\"ס זה כתב בשם הרוקח וז\"ל נראה אם אשה נגעה ביורה או בקדרה ונתפחמה בבשר מעט זה אינו קפידא אע\"פ שמעט נדבק בבשר עכ\"ל ומטעם זה דנתי להתיר באשה שטבלה ומצאה במקום אחד בגופה שחרורית במקום שנגעה בכותלי בית המרחץ שהיו שחורים מחמת עשן המרחץ שאינה צריכה טבילה שנית דדמיא להא שזכרנו והוא ק\"ו דהא ידיה צריכין להיות נקיות יותר מגופה שידיה מגולות תמיד והיא מקפדת על נקיותם יותר מגופה ולא דמיא לדיו שחוצץ כמ\"ש ריש סעיף ט\"ו דהתם ממשה של דיו חוצצת משא\"כ במראה שחרורית זה שאינו אלא לכלוך בעלמא וכיוצא בזה כתב ב\"י בשם הרשב\"א לחלק בין צבע לדיו כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:17"
+        },
+        "18": {
+          "he": "צואה שתחת הצפורן כו'. בטור סיים אחר זה ומיהו אין דרך בני אדם להקפיד בכך הלכך מי שאינו מקפיד אינו חוצץ עכ\"ל וכתב ב\"י דקאי גם אבצק ותמה ב\"י דהיאך פסק לחלק בכך ובמשנה לא חילקו וע\"כ לא הביאו כאן בש\"ע ורמ\"א בד\"מ פירש דהטור מיירי בענין שהוא דבר מועט מאד שאין מקפידין עליו וכמו שכתבו סמ\"ג וסמ\"ק בשם ר\"ת דאפילו צואה ובצק אם יש ממנו כ\"כ מיעוט שאין מקפידין מיעוטו שאינו מקפיד אינו חוצץ עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:18"
+        },
+        "19": {
+          "he": "שלא כנגד הבשר חוצץ. כתב בית יוסף בשם סמ\"ג בשם ר\"ת שזה דוקא בטיט הדומה לבצק שנדבק מאוד כגון טיט של יוצרים אבל לא בטיט אחר וצואה ותדע שהרי תנן במקוואות אלו שאין חוצצין לכלוכי צואה שעל בשרו וצואה שתחת הצפורן עכ\"ל ולא זכר מזה כאן בש\"ע להקל כל כך ומ\"מ נראה לי לתרץ בזה מה שהוקשה לרמ\"י בלבוש למה אין נזהרין מזה בנטילת ידים ולפי מה שכתבתי ניחא דודאי לענין טבילת ידים שפיר סמכינן על ר\"ת דאינו חוצץ רק טיט היוצרים וכיוצא בו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:19"
+        },
+        "20": {
+          "he": "אבל הצפורן עצמה כו'. לפי שהוא מגוף האשה ודומה לשערותיה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:20"
+        },
+        "21": {
+          "he": "ומאחר דכבר נהגו ליטול וכו'. בהגה' שערי דורא כתב בלשון זה ואם שכחה ולא נטלה צפרניה קודם טבילה אינה חוצצת ובלבד שלא יהא בתוכם טיט ומ\"מ טוב להחמיר ותטבול פעם ב' משום דא\"א שלא תהא בתוכם טיט עכ\"ל ורש\"ל העתיק מתשובת מהר\"מ בזה דעלתה לה טבילה כל שבודקת תחת צפרניה קודם טבילה ואין שם טיט וצואה ומו\"ח ז\"ל כתב שנראה לו אפילו אם ברי לה שלא היה שם צואה תטבול פעם שנית שהרי איכא למאן דס\"ל דאם הצפורן עומד ליקצץ הוא חוצץ כו' ולא דמי לשערו' הראש דרוב הנשים אין דרכן ליקצץ משא\"כ בצפרנים דכולם קוצצים והוה חציצה אם לא תקצץ עכ\"ל ודבריו תמוהים דהא כל הפוסקים כתבו כאן דאינו אלא מנהג בעלמא ליטול הצפרנים ואינו מן הדין ונ\"ל דכל מה שמצינו שצריכה לטבול שנית בשכחה ליטול צפורן היינו כל זמן שלא שמשה עם בעלה קודם שנזכר' לדבר אבל אם אחר ששמשה נזכרת אין להחמיר עליה ולהצריכה טבילה שנית כיון שאין זה אלא חומרא בעלמא ואפילו אם אין ידוע לה שלא היה שם טיט וצואה דמשמע מהגה' ש\"ד ותשובת מהר\"ם דלעיל שצריכה מדינא טבילה שנית היינו כל זמן שלא שמשה עם בעלה אבל לא אח\"כ דהא אפילו אם היה שם צואה מדאוריי' אינו חוצץ דרובו ומקפיד בעינן אלא דגזירה דרבנן היא במיעוט המקפיד כדאיתא ריש הסימן אם כן הוה כאן ספיקא דרבנן וכ\"ש למ\"ש בסעיף י\"ח בשם סמ\"ג ור\"ת דדוקא טיט הנדבק בעינן אע\"פ שלא פסקו בש\"ע להלכה מ\"מ כאן שכבר שמשה ואפשר שהיא נתעברה אם באת להחמיר עליה בטבילה שנית אתה מוציא לעז על אותו הולד וכמו שמצינו בפ\"ק דגיטין בלשון זה ואם באת להחמיר עליה אתה מוצא לעז על בניה כן נראה לע\"ד ברור ושוב הוגד לי שגדול אחד השיב בתשובה כמו שכתבתי: וכיון שנתברר לעיל דנטילת צפרנים של האשה אינו אלא מצד המנהג שהחמירו על עצמם נ\"ל דהא דאיתא במרדכי הלכות נדה והגהת שערי דורא מביאו דאם אירע טבילתה בחול המועד נכון הדבר ששפחה עובדת כוכבים תגלחם לה דאמירה לעובד כוכבים שבות היא ובמקום מצוה לא גזרו ואם אין לה עובדת כוכבים תנקר היטב בטיט שתחת הצפורן עכ\"ל היינו דוקא בחוה\"מ אבל בשבת ויו\"ט אם אירע ששכחה ליטול הצפרנים לא תאמר לעובדת כוכבים שתחתוך לה דכיון שאין מצוה גמורה בנטילת צפרנים דהא אפשר בניקור תחתם לחוד למה נבטל בזה שבות דאמירה לעובד כוכבים שבות הוא ותו דהוא חומרא דאתא לקולא שאע\"פ שהעובדת כוכבים חותכת מ\"מ אותה ישראלית מסייעת לה על ידי שמטה לה את ידיה וכאילו היא עושה מלאכה זו שאסורה מדאורייתא בשבת ויו\"ט וכההיא שמצינו בסימן קפ\"א לענין הקפת פיאה שגם הניקף חייב אם סייע בדבר שמטה עצמו אליו להקיפו כו' וזה א\"א להשמר ממנו כשתניח לחתוך הצפרנים להעובדת כוכבים בלי הטיית הישראלית את ידיה אליה וא\"ל דאין הכי נמי שלא תטבול כשאירע כן בשבת ויו\"ט זה אינו דהא גם בחול המועד התירו על ידי שתנקר הצפרנים ולמה יגרע בשבת ויו\"ט מאין לה עובדת כוכבים בחול המועד אלא דבר ברור דבשבת ויו\"ט לא תחתכם ע\"י עובדת כוכבים אלא תנקרם היטב ותטבול ולא החמיר במרדכי לחתוך על ידי עובדת כוכבים אלא בחול המועד דבו הקילו אפי' לחתכם היא בעצמה והכי קי\"ל בא\"ח סימן תקל\"ב בטבילת מצוה אליבא דכ\"ע כמ\"ש שם רמ\"א אלא דהמרדכי שהוא תלמיד מהר\"מ דהחמיר דאסור לחתוך הצפרנים בחול המועד כי אם על ידי עובדת כוכבים כמ\"ש ב\"י שם על כן הוצרך לחתכם על ידי עובדת כוכבים לפי סברתו ולפי מאי דקי\"ל בסימן תקל\"ב שם להתיר חותכין בח\"ה בלי שינוי ובשבת ויו\"ט לא תחתכם כלל אלא תנקר אותם היטב כן נ\"ל ברור. וראיתי מי ששגג בזה וצוה לחתוך ביו\"ט ע\"י עובדת כוכבי' ולא כוון נכונה לע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:21"
+        },
+        "22": {
+          "he": "צפורן המדולדלת. הב\"י האריך בדבר זה שהוקשה לו מ\"ט יש חציצה במיעוט יותר מברוב ומתוך כך נדחק לפרש דמיירי שיש איזה דבר חציצה על אותו המדולדל והמרדכי כ' וב\"י מביאו רובו חוצצת דוקא רובו דרובו ככולה אבל מיעוטו אינה חוצצת כיון דעומדת לפרוש וכבר התחילה לפרוש כו' עכ\"ל ומ\"מ לא נתיישב עדיין למה לא יהא חציצה באותו מיעוט הנדבק עדיין כשנפרש רובו ותו מאי שנא מאבר המדולדל ועומד להחתך דהוה חציצה אפי' בנפרש רובו ומו\"ח ז\"ל נתן טעם לזה לפי שצריך אומן לחתכו ולא ידעתי חילוקו דסוף סוף עומד להחתך הוא והנראה לע\"ד לפרש דודאי אין חציצה במה שנדבק עדיין כי לא היה מגולה מעולם שם וכמ\"ש ב\"י בקושייתו אלא על החלק הנפרש אמרינן כן דאם רובו קיים ומיעוטו נסדק נמצא דמקום הסדק צר הוא ואין המים יכולין לבוא באותו הסדק מה שאין כן אם נפרץ רובו נמצא שנתרחב מקום הסדק ויכולים מים לבוא שם והוי ראוי לביאת מים אבל באבר ובשר המדולדל אפילו נפרץ רובו אין דרך להניחו כך שהוא תלוי ועומד דהוה כאב לה הרבה אלא מחזיקו תמיד אל הגוף כפי מה שיכול' להחזיק ע\"כ אינו ראוי לביאת מים שם כנ\"ל לפרש דבר זה בס\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:22"
+        },
+        "23": {
+          "he": "מהודקים חוצצים. וא\"ל הא מיעוט שאינו מקפיד הוא פירש הראב\"ד לפי שמקפדת להסירו בשעת לישה והוה כההיא דחוטי צמר דסעיף ב':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:23"
+        },
+        "24": {
+          "he": "צריכה לחצוץ שיניה כו'. אע\"פ שאין צריך לביאת מים דדרשינן כל בשרו מה בשרו מאבראי אף כל מאבראי מ\"מ בעינן שיהא ראוי לביאת מים דכל הראוי לבילה אין בילה מעכבת בו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:24"
+        },
+        "25": {
+          "he": "ומנהג יפה הוא. ופשוט שאם לא נהגה כן א\"צ לעכב הטבילה בשביל זה ובשבת ויו\"ט המנהג שאוכלים בשר רק שתזהר לנקר ביותר אחרי כן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:25"
+        },
+        "26": {
+          "he": "תלינן לקולא. זה דוקא בבית הסתרים שאין צריך לביאת מים כ\"כ הטור סוף סימן קצ\"ט:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:26"
+        },
+        "27": {
+          "he": "לא תאחוז בה חברתה. איתא במתני' פרק ח' דמקוואות האוחז באדם ובכלים ומטבילן טמאין ואם הדיח ידיו במים טהורים לפי שהמשקה שעל ידיו מתחבר למי המקוה ואין כאן חציצה רבי שמעון אומר ירפה את ידיו כדי שיבואו בהם המים ופירשו הרמב\"ם והרמב\"ן דת\"ק מחמיר טפי מרבי שמעון דלרבי שמעון סגי ברפוי ידיו ולת\"ק לא סגי משום גזירה שמא לא ירפה על כן פסק דבעינן הדחת ידיו תחלה דוקא וכבר כתבתי בסי' ק\"כ סעיף ב' דיכול להדיח ידיו אפילו במים תלושים דלא כרמ\"א שם ומשמע לפירושם דכל שמדיח ידיו תחלה אין צריך לרפוי ידיו כלל אפי' אם מהדקם בכח באדם וכלי הנטבל אין חשש כיון שכבר נתלכלכו דאי לא תימא הכי מה מועיל הדחת ידים דגם אחר ההדחה נגזור שמא יהדקם בכח. ותו ראיה דהרשב\"א בת\"ה הארוך הקשה על פירוש הרמב\"ם ורמב\"ן בזה דהא בכמה דוכתי מצינו שאין גוזרין כגון שירים ונזמים שזכר הטור בסמוך דמותר ברפיון ותירץ הרא\"ה בבדק הבית דדוקא באוחז באדם וכלים לטבלן יש לחוש שמא יאחזנו בכח כדי שלא יפול ממנו אבל בשאר דוכתי למה נגזור בחנם א\"כ ראינו שאם הדיח ידיו תחלה אין לחוש אח\"כ אף אם יהדקם בכח והרשב\"א פירש דרבי שמעון לחומרא קאמר דהתנא קמא ס\"ל דסגי בהדחה לחוד ור\"ש ס\"ל כיון שעשוי לדחוק ידיו על האדם והכלי שמטביל ליכא חיבור אפילו במשקה טופח ול\"ד לרגלי הטובל שעל הקרקע המקוה שנזכר למטה סעיף ל' דהתם המים מקדימים לרגלים ועדיין איכא משקה טופח מחובר למקוה אבל כאן סבר ר\"ש שדרך האוחז בכלים להטבילן שדוחק ידיו עליהם כדי שלא יפלו מידו וכן אוחז בחבירו וימנע מהיות המשקה שעל ידיו חיבור כלל ות\"ק לא חייש לזה כלל ואיכא משקה טופח חיבור והלכה כת\"ק דאין צריך לרפות אבל אם מרפה פשיטא דמהני ומסיק דאפילו לת\"ק מ\"מ צריך שלא ידחוק הרבה בכח כשאוחזו לטבלו כן כתוב בת\"ה ובמשמרת הבית שחיבר הרשב\"א עצמו והסכים הטור להרשב\"א וע\"כ פסק כאן בש\"ע כמותם דסגי הן ברפתה הן בהדחת ידיה תחלה ומו\"ח ז\"ל תמה על שפסק דלא כרמב\"ם ורמב\"ן ואין כאן תימה דכדאי הם הרשב\"א והטור שנסמוך עליהם בפרט במלתא דרבנן דמן התורה אין חוצץ אלא רובו ומקפיד. והנה יש עוד מחלוקת בין רמב\"ם ורמב\"ן לבין הרשב\"א דלהרמב\"ם והרמב\"ן הוכחתי בסמוך דאפילו אם אוחזו בכח אין חוצץ כל שהדיח ידיו תחלה והרשב\"א כתב בפירוש דאע\"פ שהלכה כת\"ק מ\"מ לא ידחוק הרבה אלא יאחזנו כדרך כל האדם ולא חיישינן שיאחז בכח והמרדכי נראה דס\"ל ג\"כ הכי שהרי פסק שאין להניח כלי מלא בדלי שיש בו מים ולהטבילו בבור שכובדו של כלי עושה חציצה כמו שהעתקתי בסימן ק\"כ סעיף ב' והיינו כדברי הרשב\"א דהא כובדו של כלי דומה לאדם שאוחז הכלי בכח. ולפ\"ז מה דפסק כאן בש\"ע כהרשב\"א דמהני רפתה ואח\"כ כתב דמהני אם הדיחה ידיה תחלה אפילו בלא רפתה נ\"ל אע\"ג דלא רפתה מ\"מ צריך שלא תאחוז החברתה בה בכח דאל\"כ לא מהני הדחה תחלה אלא דלא חיישינן לזה וכמ\"ש בסמוך בדברי הרשב\"א וכתב בדרישה מכאן שיש היתר גמור שבשעה שהאשה טובלת וחברתה דוחפת אותה במים שיכולה לאחזה בידה בשעת הדחיפה אם הדיחה ידיה תחלה במים וא\"צ להפריד ידי' ממנה ולא כמו שנוהגין נשי דידן שמפרידין ידיהם מהם בשעת דחיפה וסבורים שאין שום צד היתר שיכולים לאחזה בידים עכ\"ל ויפה כתב שהרי משנה שלמה שנינו האוחז באדם כו' ופסקו כן כל הפוסקים ולא חשו שמא תאחז הרבה בכח וכ\"ש לפי' רמב\"ם ורמב\"ן שזכרנו דאפילו אם היא אוחזת בכח לא מזיק כלום כל שהדיחה ידיה תחלה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:27"
+        },
+        "28": {
+          "he": "במים תחלה. פירוש אפילו במים תלושים שעכשיו שיתחברו למי מקוה יהיו גם הם כשרים דמשקה טופח הוא חבור ולא כמ\"ש רמ\"א בסי' ק\"כ סעיף ב' דוקא במי מקוה וכמו שהוכחתי שם שלא דק בזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:28"
+        },
+        "29": {
+          "he": "הרי זה מגונה. דחיישינן שמא יוציאנה קודם שיטבול זה ונמצא טובל במקוה חסר שהרי חסרו ממנו המים שטפחו בידו של זה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:29"
+        },
+        "30": {
+          "he": "מפני שהמים מקדימים. פירוש כשהכניסה רגליה לשם כבר קדמו המים ונגעו ברגליה קודם שהגיעו לריצפה ואותן המים מחוברין למקוה כ\"כ ב\"י בשם הרא\"ש משמע מטעם זה דדוקא במי מקוה שהם קדמו לרגליה אבל אם היו רגליה לחות כבר ממים תלושים לא דאל\"כ היה לו לומר שכבר רגליה לחות כמ\"ש הטור באמת לשון זה אלא ודאי דההכשר הוא כיון דמי מקוה עצמם הם הקדימו ההכשר ולפי מה שכתב בשם המרדכי לעיל בשיש כובד בכלי הנטבל תוך כלי אחר לא מהני מה שנתלכלך תחלה במים תלושים אתי שפיר הכא דכיון שעומדת על הריצפה הוה כובד ונתבטל החיבור שע\"י משקה טופח ע\"כ צריך שמי המקוה עצמם יעשו ההכשר וכמ\"ש לעיל סימן ק\"כ בשם המרדכי ולרמב\"ם ורמב\"ן דלעיל דאפילו באוחז בכח אינו חוצץ כל שהדיח ידיו תחלה וממילא ה\"ה כובד הכלי צ\"ל דהכא שנקט הטעם מפני שהמים מקדימים לאו דוקא מי מקוה אלא ה\"ה שאר מים וכ\"כ ת\"ה בפירוש כמו שהביא ב\"י וז\"ל ולפי שהמים מקדימים ולא עוד אלא שיש שם טופח על מנת להטפיח כו' ומש\"ה לא כתב הטור רק כיון שמלוחלחות ולא נקט כיון שמי מקוה מקדימים לה דהוא ס\"ל בזה כרמב\"ם ורמב\"ן שזכרנו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:30"
+        },
+        "31": {
+          "he": "ולא ע\"ג נסרים כו'. בגמרא איתא אמר רבא אשה לא תעמוד על גבי כלי חרס ותטבול סבר רב כהנא למימר טעמא מאי משום גזירת מרחצאות פירוש שדרך מרחצאות שלהם לישב על גבי אצטבאות של אדמה דדמי לכלי חרס ואתי למימר עולה בהם הא על גבי סילתא שפיר דמי כלומר על גבי בקעת עבה א\"ל רב חנן מנהרדעא התם טעמא משום דבעיתא שלא תפול ולא טבלה שפיר סילתא נמי בעיתא וכתב ב\"י בשם הראב\"ד דאף לפי המסקנא נשאר קיים הטעם דגזירת מרחצאות מכח המשנה דאיתא לא יטביל על הספסל ושם א\"א לומר הטעם משום ביעתותא דהא בכלים מיירי התם ע\"כ כתב דההיא משנה אסרה ג\"כ משום גזירת מרחצאות והיינו כל מידי דיש עליה שם כלי אפילו פשוטי כלי עץ אסור לטבול על גבו כיון דבר קיבולי טומאה הוא רק על גבי כלי חרס דאין שם קבלת טומאה כלל כיון שאין מטמא רק מאוירא וכן סילתא שהיא בקעת עץ היה לנו להתיר בא רבא ואמר גם באלה לא תטבול משום ביעתותא ונ\"מ בין גזירת מרחצאות לביעתותא דכל שאסור מטעם גזירת מרחץ אסור אפי' דיעבד שהרוא' יטעה לומר שיש היתר לטבול במרחץ משא\"כ לטעם ביעתותא הכל יודעים שצריכה לטבול שפיר אלא שיש לחוש לשוגג שמא תפחד ולא תטבול שפיר בזה לא אסרו דיעבד כן נ\"ל טעם נפקותא זה וע\"כ כתב הראב\"ד כמו שהעתיק כאן בש\"ע דבכל מידי שמקבל טומאה אין לטבול בו ונקט נסרים הראויין למדרס כי טומאת מדרס אינה שייכא אלא בחשב עליה שתהיה למדרס ולפעמים צריך אפילו למעשה כדאיתא ברמב\"ם פרק כ\"ה דהלכות כלים וכתב שם נסרים של בית המרחץ ששגמן אינם מקבלין טומאה שאינן עשויין לישיבה כו' א\"כ כ\"ש סתם נסרים שמוכרין לבנין ודאי לא מטמאים מדרס אלא דס\"ל להראב\"ד כיון שראויין לטומאת מדרס אם היו מיוחדין לכך לעשות מהם ספסל או כיוצא בו יש לחוש להרואה שיטעה ויאמר בכל נסרים הדין כך אע\"פ שיחדום כבר לישיבה ויש בהם טומאת מדרס ומכח זה יטבול במרחצאות זהו כוונת הראב\"ד שכתב נסרים הראויין למדרס וכן כ' הריטב\"א ובית יוסף מביאו. ולפי זה יש לתמוה טובא על מנהג מדינותינו שעושים נסרים במקוה שתעמוד האשה הטובלת עליה. ובלבוש האריך בתמיה זו מאוד וכבר קדמוהו רבנן דהיינו בתשובת מוהר\"ר מאיר מפדווא\"ה סימן ל\"א ששאל ממנו מוהר\"ר דוד ויט\"ל על מה עושין כן והשיב לו בארוכה ועיקר בניינו דהנסרים שלנו במקוה אינם חשובים מיוחדים למדרס הואיל והן עשוין לעמוד עליהם לטבול כי אדרבה בזה יוצאין מתורת כלי וחשובין כתקרת הבית ובפרט מאחר שנקבעו במסמרות כיון שלא היה תחלה שם כלי עליהם: ועוד נראה כיון שהנסרים אלו נתונים על קורות ומים צפים עליהם הוי כבנין וא\"כ אפילו היה כבר כלים מדאורייתא אפילו הכי בטלים עתה כו' ודבריו תמוהים מאד דבגמרא לא אמרינן דבטל גזירת מרחצאות אלא בסילתא שהיא בקעת עץ ולא בעץ אפילו פשוטי כלי עץ וזו היא עיקר דיוקו של הראב\"ד שלמד מזה לכל דבר שראוי לקבלת טומאה ותו דמה זכות למד בזה שלא היה עליו שם כלי תחלה מכל מקום הרואה יטעה וכמה שכתוב לעיל דמש\"ה כתב הראב\"ד הראויה למדרס והיותר תמוה דכתב אפילו היה עליו שם כלי תחלה נתבטל מכח שהמים צפים עליו והוי כבנין דדבר פשוט דאפילו בבנין גמור אין בנין מבטל כלי כדאיתא בצינור שחקקו ולבסוף קבעו דפוסל המקוה והוא עצמו כתב כן לעיל מיניה בההיא תשוב' ואיך שכחו בכדי דבור. ועוד למד זכות דאנן ס\"ל כאותן הסוברים דפשוטי כלי עץ אין מקבלין טומאת מדרס זהו טעם נכון כמו שיתבאר אבל לא כשיטת הראב\"ד דהוא כתב בפירוש אפי' בפשוטי כלי עץ ודייק לה מדנקט סילתא דוקא ובאמת אין להתלונן על ר\"מ בתשו' ההיא כי הוא לא ראה דברי הראב\"ד והרשב\"א האלו כמ\"ש שם הוא בעצמו. ומו\"ח ז\"ל כתב שכל דברי מהר\"מ פדוא\"ה הללו הם אמת ומהתימא עליו שכתב הוא שעיקר ההיתר במה שנקבעו הנסרים במסמרות אבל אם לא נקבעו אסור והא מהר\"מ כתב בפירוש להתיר אפילו באינם קבועים שכתב שהמים עושים אותן קבועים גם מהר\"י כ\"ץ מקראקא עסק בהיתר זה מטעם דהוי כלי העשוי לנחת פירוש שלא להשתמש בו רק יהא מונח ואינו מקבל טומאה וה\"נ הווין הנך נסרים ולדידיה ג\"כ יש היתר אפילו אם אין קבועים במסמרות ועליו יש יותר להפליא דודאי קבלת טומאת מגע אין בכלי העשוי לנחת אבל טומאת מדרס יש בהם כמו שהבאתי בשם הרמב\"ם בנסרים של בית המרחץ דאי היו מיוחדים לישיבה ודאי מטמאים מדרס. כלל הדברים לא שקטה דעתי בשום היתר לנסרים שבמקוה לפי דעת הראב\"ד והרשב\"א דלעיל ויפה תמה בעל הלבוש לפי פ\"ז אלא דנ\"ל מצד אחר שהיתר ברור יש לנו דהיינו ששאר פוסקים לא ס\"ל כהראב\"ד בזה אלא ס\"ל דבגמרא דלעיל דאמרו משום גזירת מרחצאות לרבא אין איסור כלל מחמת קבלת טומאה אלא האיסור משום טעמים אחרים מה דלא שייך בנסרים אלו וזה מוכח מדברי רבינו שמשון שהביא ב\"י סי' זה דהוקשה לו מתני' דמעין שהעבירו ע\"ג השוקת פירוש כלי של אבן שקבע שם דפוסל למה יגרע מכלי הנטבל בתוך כלי במקוה אם יש בחיצון פה כשפופרת הנוד וניחא ליה דיש חילוק בין כלים תלושים דכשר לטבול בהם כשמחוברים למקוה ובין כלים הקבועים שהמעין נגרר עליהם דלמא אתי בהו לידי תקלה דפעמים שקובעים אותם במקום מוצא המים ואין שם כשפופרת הנוד ונמצאו כל המים העוברים עליהם פסולים ויתכן דהיינו נמי טעמא דמתניתין דלא יטבול ע\"ג ספסל והיינו נמי טעמא דגזרת מרחצאות דלעיל מיירי בחרס הקבוע לעמוד שם מפני הטיט ואסרוהו מטעמא דפרישית ע\"כ דבריו בקיצור והרא\"ש כתב על דברי הר\"ש דל\"ק מידי דהא דמטבילן אפי' בכלי עצמו ל\"ד דהתם הכלי הפנימי עצמו הוא נטבל תוך המקוה כיון דפי החיצון כשפופרת אבל כלי המחובר למעין אין להטבילו בתוכו דלמא אתי להטביל בכלי של מ' סאה בלא חבור ע\"כ וצריך להבין דעת הרא\"ש בחילוק זה ונראה שדעתו דבכלי תוך כלי שנטבל הכל במקוה אין שייך לגזור שמא יטבול בכלי בלא חבור כיון שטובל אלו שני הכלים תוך מי מקוה כשירה ולא נמשך טעות מזה משא\"כ במעיין שנמשך על השוקת שהשוקת המים נמשכים דרך עליו תמיד ולפעמים נפסק החבור של מעין או מקוה ממנו ויטעה הטועה לטבול בו גם בעת ההיא וכ' ב\"י שהרא\"ש חולק על הר\"ש דלהרא\"ש אפי' בתלושים לא יטבול ומ\"מ הביא הרא\"ש בתשוב' דסילון המחובר בקרקעית המקוה פי' הר\"ש דהגזירה משום דלפעמים יהיו במקום מוצא המעין כו' וכתב דבסילון אין שייך גזירה זו ועוד דסתם סילון העשוי למים אין בו לבזבזין והוה פשוטי כלי עץ דלא מקבלי טומא' ואינם פוסלים בשאיבה כמו שמביא ב\"י בסמוך ונראה באור דבריו חדא דבסילון אין שייך גזירה שמא יעשה במקום מוצא המעין ולא היה בו כשפופרת הנוד דהא כל סילון יש בו כשפופרת הנוד ועוד דלא גזרינן שמא יעשנו במקום המעין אלא בכלי גמור דטהרתו תלוי בנקב כשפופרת משא\"כ בפשוטי כלי עץ שאין מקבל טומאה ע\"כ אין חשש שיפסול אם יעשנו במקום מוצא המים והנה הנך נסרים שבמקוה שלנו ברור הוא שאינם גרועים כלל מהך סילון וכי היכי דבסילון ליתא לגזרה של הר\"ש כמו שאמרנו ה\"נ בהנך נסרים וכן לטעם הרא\"ש שאסר אפי' בתלושין שמא יטביל בהם בלא חבור זה אינו שייך אלא בשוקת שאפשר לטבול בו בלא חבור למעיין שאפשר שנשאר בו מים משא\"כ בנסרים וסילון דאם אין שם חבור למעין אין שם מעין כנלע\"ד ברור וכ\"ש למ\"ש ב\"י במסקנתו על מ\"ש הטור וא\"א הרא\"ש לא חילק דכוונתו להרא\"ש לא אכפת לן בקבלת טומאה אלא משום פחד לחוד פשיטא שאין חשש בנסרים וכל זה שכתבתי בהיתר הנסרים שייך ג\"כ לשליבות של עץ במקוה שיש בכל מדינותינו דזכרון אחד עולה לכאן ולכאן. ומצאתי כתוב למהר\"ל מפראג לשון זה דמדריגות של עץ מותרים דכיון דהטעם משום גזירה שמא יסמוך הספסל למקום המעין והמדריגות אין עשוין למעברות המים ע\"כ היינו כמו שכתבתי. וע\"כ לפי המנהג ודאי לא קי\"ל בהך סעיף כש\"ע שפסק כהראב\"ד דתלה הכל בקבלת טומאה וכלל בו גם פשוטי כלי עץ וכל הראוי למדרס אלא כרבינו שמשון והרא\"ש דלדידהו היתר גמור בהנך נסרים והוויין ממש כסילון המחובר בקרקע המקוה ומאן דפוסל בנסרים יפסול ג\"כ בסילון דהא גם הוא פשוטי כלי עץ ובאמת שניהם כשרים בלי ספק ואף אם הנסרים מונחים בלי קביעות מסמרות הכל מותר כפסק מהר\"מ מפאדוו\"ה ומהר\"י כ\"ץ אך לא מטעמייהו אלא כדאמרן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:31"
+        },
+        "32": {
+          "he": "שליבות של עץ כו'. לפי מה שנתבאר לא קי\"ל כן אלא גם הם מותרים אע\"פ שעשה כבר השליבה וקבעה אח\"כ במקוה דדין אחד יש להם עם הנסרים דלעיל אך שבזה ראיתי הרבה נכשלים שאין עושין אותם רחבים ד' ויש לחוש לפחד שמא תפול ואסור לכתחלה ע\"כ כל מורה ישים לבו על זה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:32"
+        },
+        "33": {
+          "he": "בקרקעית הטבילה. שמשם זוחלין המים לחוץ. וטעם היתר בזה לפי שאין שם פחד לפי שקבוע היא בקרקע וג\"כ אין שם כלי עליה לפסול בשאיבה דאין לו לבזבז ואינו מקבל מים על כן לא הוה רק פשוטי כלי עץ וכמו שכתבתי בסמוך:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:33"
+        },
+        "34": {
+          "he": "משום חציצה. הטור כתב ע\"ז ולא נהירא וטעמו משום הקושיא שהקשה הרא\"ש שהביא ב\"י דמאי שנא ממתניתין דהמטביל המטה במים אע\"פ שרגליה שוקעות בטיט טהורה מפני שהמים מקדימין והביא ב\"י בשם הר\"ן תירוץ אחר דשאני רגלי אדם שיש יותר חשש בין אצבעותיו דנדבק שם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:34"
+        },
+        "35": {
+          "he": "תתן עליו זמורות. וה\"ה לדידן בנסרים כמו שכתבתי בסמוך:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:35"
+        },
+        "36": {
+          "he": "כשאורגת בעומדין. כן הוא בגמרא אבל הטור כתב כמוסקת זיתים ותמה ב\"י למה שינה מלשון הגמ' דמוסק זיתים אמר בגמרא אצל איש ותירץ מה שתירץ ונ\"ל דהטור נסתפק לו כיון דאיתא אצל נגעים כאורגת ביד ימינה כמו שהביא ב\"י אם דוקא לימין בעינן שיעור ולשמאל לא כלום או אורחא דמילתא נקט ע\"כ נקט שיעורא דפסיקא ליה גבי איש וה\"נ באשה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:36"
+        },
+        "37": {
+          "he": "וא\"צ להרחיק כו'. בב\"י הקשה הא כבר נתן שיעור אחר דהיינו כעורכת כו' ונ\"ל דהטור נגרר אחר לשון הגמרא שאמר ר\"ל לא תטבול אלא דרך גדילתה פירוש הילוכה כדתנן האיש נראה כעודר ומוסק זיתים כו' והיינו דלענין נגעים אמרינן שיעור ההוא לענין ראיית כהן ה\"נ לענין טבילה אלא דלאו כל אדם בקי בהנך שיעורים היאך הם נתן שיעור שישער כל אדם בעצמו היאך מרוחקים איבריו קצת כדרך הילוכו ואידי ואידי חד שיעורא וכן נמי דעת הטור שאחר שכתב השיעור הנזכר בגמרא אמר שכיון שאין כל אדם יוכל לשער כזה יטעה לומר שצריך להרחיב הירכים הרבה וכן הרחקת הידים מן הגוף יהיה הרבה כדי שיצא מידי ספק לזה אמר שא\"צ אלא תשער כפי שרגילה בשעת הילוכה ומו\"ח ז\"ל פירש שבנשים שחצניות מיירי שמגביהין ידיהן על צדיהן ודרך רחוקה היא שיתן התלמוד והפוסקים שיעורא להנשים כאלה שזה דרך בנות ציון שגינה הכתוב:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:37"
+        },
+        "38": {
+          "he": "ויש מי שאומר שלא עלתה לה טבילה. ק\"ל למה יפסול בדיעבד מאי שנא מסעיף ל' דאמרינן מפני שהמים מקדימין ה\"נ נימא הכי דהא הקדימו המים לאותן קמטין קודם שנדבקו על ידי הזקיפה או השחיה הרבה ויותר קשה לפי דעת הטור שאפילו בטיט שברגליה אינו חושש כמו שזכרתי לעיל סעיף ל\"ג וי\"ל דהכא יש חשש שידבקו הקמטים שהם בגוף למעלה מן המים נמצא שבביאתם למים כבר הם מדובקים ולפ\"ז אם הכניסה עצמה עד צוארה במים תחילה הוה טבילה בדיעבד בכל גוונא ונ\"ל שנכון לכל אשה שתעשה כן שעכ\"פ יש בזה צד מעליותא אם תשחה הרבה ולאו אדעתה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:38"
+        },
+        "39": {
+          "he": "ונקבו והוציאתן. בלבוש העתיק ונקבו ויצאו וזה נכון יותר ופירושו שהשערות נקבו ויצאו דרך אותו נקב למעלה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:39"
+        },
+        "40": {
+          "he": "ויש מחמירין כו'. אבל אם אנסה חברתה אותה וטבלה הוה טבילה לדברי הכל כי כוונת חברתה הוי שפיר כוונה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 198:40"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "לפעמים. עי' בשו\"ת זכרון יוסף חי\"ד סי' יו\"ד שכתב דמ\"מ בעינן דוקא שמקפדת לעתים מזומנות כאותה שכתב הט\"ז ס\"ק כ\"ג דטבעת מהודקת באצבע חוצץ משום דמסירתו בשעת לישה דהרי אם מיקלע לה עיסה ללוש כמה פעמים היום או מחר מסירתו אבל אם אינה מקפדת רק פ\"א לזמן מרובה לא ומ\"ש בש\"ע אפילו אינה מקפדת עליו עתה כו' אין פירושו אלא שמקפדת עליו לבסוף לזמן רחוק אלא פירושו שאינה מקפדת עתה בשעת טבילה מ\"מ מקפדת בימים שקודם ושלאחר הטבילה ע\"ש ועמש\"ל ס\"ק י\"ב בשמו:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:1"
+        },
+        "2": {
+          "he": "ולכתחלה לא תטבול. עי' מ\"ש לקמן ס\"ק י\"א בשם שיבת ציון:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:2"
+        },
+        "3": {
+          "he": "שחוצצין. עי' בתשו' פני אריה סי' י\"ב שנשאל על אשה שנושאת ספוג באזנה לשאוב הזוהמא ששכחה ליטול הספוג בשעת טבילה וכתב שלא ידע בזה הלכה ברורה ע\"כ תטבול שנית בלא ברכה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:3"
+        },
+        "4": {
+          "he": "חוצצין דמקפדת עליהם. [כתב בספר לבושי שרד אות קצ\"ו וז\"ל ואע\"ג דמיא עיילי בהו ומה יזיק מה שמקפדת להסירם כבר כתב הב\"י דהטור פסק כרבותיו של רש\"י דהנהו דינים דסעיף א' דרוב אם מקפיד חוצץ מיירי אף דעיילי מיא כו' ולפ\"ז הני דינים דסעיף ג' ד' דאין חוצץ מיירי דוקא במיעוט אבל כשמכסה רוב השערות אע\"ג דאינה מקפדת ומיא עייל אפ\"ה חוצץ ולפי זה קצת קשה מההיא דסעיף ה' דמבואר דבב' שערות או יותר אין חוצץ אף במקפיד או רוב משום דלא מיהדק וצ\"ל דדוקא בדבר שאינה מגופה כהך דסעיף ג' ד' אמרינן במקפיד או רוב חוצץ אף אי עיילי מיא משא\"כ שערות דעצמה דהוה גופה אין מקום לומר שחוצץ אלא אי לא עיילי מיא. אך כ\"ז הוא לדעת הב\"י אכן הדרישה ופרישה חולק דדעת רש\"י עיקר והך דינא דמוזהבות אין הטעם משום חציצה אלא משום דמירתתא ולא טבלה שפיר ע\"ש ולדבריו הך דסעיף ג' ד' אין חוצץ אף ברוב כיון דמיא עיילי. ונ\"ל עיקר כהדרישה ופרישה ולא כהב\"י דהכי מוכח מהמרדכי ברבדא דכוסילתא כו' ועוד ראיה מדין דסעיף כ\"ג השירים והנזמים כו' ועוד ראיה ברורה מסעיף מ' או קושרת בגד רפוי כו' (ועוד ראיה ברורה מסעיף מ\"ו נדה שטבלה בבגדיה מותרת אף דהוא רוב ואפשר נמי מקפיד וחידוש בעיני על הרב שלא הזכיר זה) לכן העיקר כדעת הדרו\"פ והכי נקטינן להלכה דכל היכא דעיילי מיא אפילו רוב ומקפיד שרי. ומדינא אפילו לכתחלה טובלת בהם ולא גזרינן רפויין אטו שאין רפויין אלא מקום שמצינו בו כגון אחזה חברתה וכן בנזמי האוזן כיון דטריחא לה להסירן אבל בשאר דוכתי לא גזרינן אך מאחר דיש מי שמחמיר בכל הרפויין להסירם יש לנהוג לכתחלה להחמיר בכולם ולהסירם אבל אם כבר טבלה ודאי דאין להחמיר כלל ודלא כספר בה\"י (הובא לקמן סק\"י ע\"ש) וכתב עוד מאחר דהוכחתי דטעמא דמוזהבות אינו רק משום דמירתתא א\"כ י\"ל דהוא רק לכתחלה כמבואר בסעיף ל\"א דטעמא דמירתתא אינו פוסל הטבילה בדיעבד כו' וצ\"ע בזה להלכה עכ\"ד ע\"ש. שוב ראיתי בס\"ט ס\"ק י\"ג האריך ג\"כ בזה ושם הקשה ג\"כ מהא דסעיף מ\"ו הנ\"ל אך בלשון אחר שהוא ז\"ל לא הזכיר דהא שם הוי רובא רק דהא שם הוי מקפיד ותירץ די\"ל דמיירי בבגדים הגרועים ופחותים דלא קפדי עליהן ע\"ש כנראה שדעתו דגם לדעת רבותיו של רש\"י לא אסור היכא דעיילי מיא אלא במקפיד אבל באינו מקפיד אף ברובא שרי. ומש\"ה נמי עזב להקשות מהא דסעיף מ' הנ\"ל ולע\"ד תימה לומר כן דודאי אין חילוק בין מיעוט המקפיד לרוב שאינו מקפיד אחרי דס\"ל לרבותיו של רש\"י דהלכתא דרובא ומקפיד חוצץ אתמר נמי במידי דלא מיהדק ולישנא דחוצץ לאו דוקא א\"כ גם הא דגזרו רובו שאינו מקפיד משום רובו המקפיד הוא נמי בכה\"ג אף דלא מיהדק ואף למה שרוצה לומר בס\"ט שם דס\"ל לדעה זו דמדאורייתא ליכא חציצה אלא במידי דמיהדק אלא שחכמים גזרו כו' ג\"כ אין שום סברא לחלק בין מיעוט המקפיד לרוב שאינו מקפיד (עב\"י ודו\"ק) ומסיק דהיכא דאיכא עוד צד להקל יש להקל אם הם רפויין אע\"ג דקפיד עלייהו. ע\"ש ועיין עוד בספר תפארת למשה מזה]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:4"
+        },
+        "5": {
+          "he": "דבוקות זו בזו. עי' בתשו' אא\"ז פנים מאירות ח\"ב סי' קמ\"ז שכתב דהכא מיירי אפי' אם רוב שערות דבוקות ולהכי הוצרך המרדכי לאהדורי אטעמא אחרינא ולא כתב טעם מפני שאין מקפדת וכתב עוד באשה שחלתה ואמרו הרופאים שאין תקנה אא\"כ תעשה מארלאקי\"ן וא\"א לעשות אם לא שמפזרים בראשה סמים כתושים כמו קמח ועי\"ז השערות מסתבכים וכשמדיחים במים הסמים הנ\"ל אי אפשר לשערות להסתבך והחולי חוזר וניעור דיש לפקפק אם תוכל לטבול כן דשני טעמים הראשונים שבמרדכי לא שייכי אלא באותן קליעות הנעשים מן השערות עצמן אבל לא בזה שנעשים ע\"י דבר אחר וגם הב' טעמים אחרים יש לפקפק בנדון שלפנינו והעלה דאין להקל אא\"כ נשאר רוב שערותיה שלא נקלעו דאז הוי מיעוט שאינו מקפיד ולא חייצי אלא מדרבנן סמכינן שפיר ארופא מומחה שאומר שיעלה לה רפואה ע\"י זה והוי רביתה אבל לעשות לה כל הראש או רוב שערה דיש כאן ספק דאורייתא אין בידנו להתירה ע\"ש. [ועי' בס\"ט ס\"ק י\"ט שהביאו ג\"כ וכתב שדבריו נכונים לדינא ומסיים ועכ\"פ בכל השערות או ברוב השערות שלה ודאי דאסור לעשות כן לכתחלה ע\"י תחבושת וסמים ואם עשתה כן הוא חוצץ בטבילה ע\"ש. ועי' בתשו' ח\"ס חלק ששי ס\"ס פ\"ב שכתב אודות האשה שרוצים לדבק שערותיה בשעוה לצורך רפואה פשיטא שחוצץ וע\"כ לא שקלי וטרי בתשו' פמ\"א וס\"ט אלא ע\"י סמים ותחבושת שהם עצמם אינם חוצצים אלא שדיבוק השערות חוצץ ואהא שקלי וטרי אי שייך לומר דהכי רביתא ומ\"מ הסכימו לאיסור אבל ע\"י שעוה שהשעוה בעצמו חוצץ ולא שייך לומר הכי רביתא פשיטא שחוצץ וחלילה להקל כלל עכ\"ל]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:5"
+        },
+        "6": {
+          "he": "לא חייצי. כתב בספר חמודי דניאל כ\"י נראה שהיא צריכה להשהות במים עד שיכנס בהם המים היטב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:6"
+        },
+        "7": {
+          "he": "תוך ג' ימים. [עי' בתשו' ח\"ס סי' ק\"צ שכ' דהדעת נותנת דבעינן מעל\"ע ולא אמרינן בזה מקצת היום ככולו וזכר לדבר מבשר ששהה ג' ימים בלא מליחה (לעיל סי' ס\"ט סי\"ב) וכיון דמיעוט המקפיד אינו אלא מדרבנן המקיל לא הפסיד והמחמיר תבא עליו ברכה ע\"ש ועי' מה שכתבתי לעיל סי' פ\"א סק\"ה]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:7"
+        },
+        "8": {
+          "he": "בעלת חטטין. עט\"ז ס\"ק י\"ד שהביא מעשה דאשתו של מהרר\"ק היתה צריכה לעמוד לפניו ערומה כו' ואף דאסור להסתכל במקומות המכוסים שבה כדלעיל סי' קצ\"ה ס\"ז כבר תירץ ע\"ז בתשו' נודע ביהודה תניינא חי\"ד סי' קכ\"ב וע\"ש בהגה\"ה מבן המחבר שכתב דהכא מיירי לאחר טבילה וכן הוא הלשון שלא היה גרב עליה ולא חיישינן שמא נפל במים כיון שדבוק כ\"כ עד שכואב לה להסירו ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:8"
+        },
+        "9": {
+          "he": "צואה שתחת הצפורן. עי' במ\"א סי' קס\"א סק\"ה שכתב וז\"ל אע\"פ שטיט חוצץ אפילו כנגד הבשר אין מקפידין ע\"ז. אבל שלא כנגד הבשר בודאי רוב בני אדם מקפידין אפילו בצואה וחוצץ אע\"פ שהוא אינו מקפיד וכמ\"ש ביו\"ד סי' קצ\"ח. [והט\"ז כתב דבנט\"י יש לסמוך על הר\"ת דאין חוצץ רק טיט היוצרים שדומה לבצק שנדבק מאד אבל לא בטיט אחר]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:9"
+        },
+        "10": {
+          "he": "נשאר בידה. ראיתי בכתבי הרב הגדול מהר\"ר דניאל זצ\"ל שדעתו להקל בצפרני הרגלים שאינה צריכה טבילה אחרת הגם שאינה יודעת אם היה נקי וכתב שאפשר אפילו יודעת שלא היה נקי א\"צ טבילה אחרת שברגלים אין דרכן של הנשים להקפיד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:10"
+        },
+        "11": {
+          "he": "צריכה. עבה\"ט ומ\"ש אם אירע ששכחה בשבת כו' עי' בתשו' שבות יעקב ח\"ב סוס\"י ח' שכתב דנראה לו עיקר למעשה כמסקנת בעל נקודות הכסף ליטול ע\"י עובד כוכבים בידו או בשיניו אף שבתשו' ח\"צ השיג עליו היינו דוקא ליטול בכלי אבל בכה\"ג מודה וגם הנה\"כ עצמו למעשה לא התיר אלא ביד או בשיניו ולרווחא דמלתא כתב דאפילו בכלי אפשר להתיר למקצת פוסקים אבל אין לסמוך למעשה כ\"א ביד או בשיניו ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:11"
+        },
+        "12": {
+          "he": "מיעוטה חוצצת. [עי' בתשו' חתם סופר סי' קצ\"ה אודות כלות שטובלות ושערותיהן ארוכות ועתידין לקוץ אחר בעילת מצוה ופקפק רב אחד לחוש שיחוצו כיון שסופן להתגלת והוא ז\"ל כתב דאין כאן בית מיחוש ומנהג ישראל תורה היא משום דהא דאמרי' בכ\"מ כל העומד כו' היינו כשעומד להעשות מיד בלי הפסק דבר אחר ביניהם כמ\"ש התוס' ב\"ק דף ע\"ו והכא אין השערות עומדות להתגלח עד אחר בעילת מצוה והבעילה מפסקת בין הטבילה לגילוח לא שייך עומד לקוץ כקצוץ ועוד ראיה ברורה מנזיר דמ\"ד ע\"ב ע\"ש]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:12"
+        },
+        "13": {
+          "he": "רפוים. עי' באר היטב של הרב מהרי\"ט ז\"ל שכתב בשם בה\"י דחוצץ אפילו בדיעבד [רק דאם שמשה כבר אחר הטבילה בטבעת רפויה אין צריכה טבילה אחרת] ועי' בתשו' מקום שמואל סי' נ\"ה שחולק עליו ופסק כהש\"ע ע\"ש ובכתבי הרב הגדול מהר\"ר דניאל זצ\"ל ראיתי שמחמיר בזה מאד דאפילו אם עברה לילה אחד אחר טבילה זו בטבעת רפוי יש להחמיר להצריכה טבילה אחרת רק אם היה רפוי הרבה יש להקל ועי' בתשו' ב\"ח החדשות סי' מ\"א [דשם כתב שחלילה לומר דברפוי לא עלתה לה טבילה והאומר זה ראוי לנזיפה ולא אמר הרמב\"ם אלא באוחז באדם וכלים כו' (עי' סכ\"ח בט\"ז וש\"ך) אבל זו\"ז אין גוזרין רפוי אטו שאינו רפוי מדינא אם לא בנזמי האוזן כיון דטריחא לה מילתא להסירם. וכל כה\"ג במה דטריחא לה יש לגזור מטעם חומרא לכתחלה וכן בחוטין שבצואר שתולין בהן הקמיעין כו' ע\"ש והביא ג\"כ בס' לבושי שרד אות קצ\"ג ועמש\"ל ס\"ג בד\"ה מקפדת גם בס\"ט ס\"ק ו' ומ\"ג דעתו דרק לכתחלה יש ליזהר אבל בדיעבד עלתה לה טבילה ע\"ש]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:13"
+        },
+        "14": {
+          "he": "ואם הן מהודקין. [עבה\"ט ועיין בספר שיורי טהרה ס\"ק מ\"ד שכתב דמדברי ס' גן המלך סי' קכ\"ג מבואר דאשה שאין דרכה ללוש בעצמה אין הטבעת שעל ידה חוצץ אפילו מיהדק טובא וכה\"ג כתב בא\"ר בא\"ח סי' קס\"א בשם רש\"ל דטבעת באנשים אינו חוצץ לפי שאין מקפידין. אם לא בטבעת שיש בו אבן טוב והוא ג\"כ מה\"ט לפי שאין דרכם של אנשים לעשות מלאכות כאלו ומ\"מ אין להקל כיון דבש\"ע כאן ובא\"ח כתב סתם דטבעת מהודק חוצץ ולא מפליג מידי משמע שאין לחלק בזה ול\"ד למוכרי רבב והצובעים שכל אותו אומנת ידוע בכך משא\"כ הכא י\"ל דלא פלוג מיהו אפשר בדיעבד ושימשה יש להקל בנדון זה ע\"ש].",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:14"
+        },
+        "15": {
+          "he": "וכן הדין באגד. עי' בשו\"ת שיבת ציון סי' מ\"ב באשה אשר לה כאב עינים ר\"ל וצוה עליה רופא מומחה שלא יבואו מים כלל על עיניה אפילו מחוץ לעינים פן תאבד מאור עיניה איך תנהג האשה ההיא בחפיפה וטבילה ודעת השואל להמציא לה תחבולה לעשות לה אגד רפוי על עיניה בעת טבילה ואף שכתב הב\"ח בשם ש\"ד דגבי שירים ונזמים יש לגזור לכתחלה רפוי אטו אין רפוי וכ\"כ הרמ\"א לעיל ס\"א בהגה\"ה דוקא בשירים ונזמים שהם עליה תמיד כו' והרב המחבר נר\"ו אין דעתו מסכמת להך תקנה דאדרבה אפילו מאן דסובר בשירים ונזמים דלא גזרינן אטו אינו רפוי היינו דשם ליכא תועלת והנאה לאשה אם טובלת במהודקין משא\"כ בנ\"ד שעיקר פעולת האגד להגין שלא יבואו מים על העינים יש לחוש שתהדק מפני הפחד אך יש לה תקנה אחרת שתתן ידיה על עיניה ותדיח הידים תחלה שתהיינה טופח ע\"מ להטפיח וכמ\"ש לקמן סעיף כ\"ח אך הנחת ידים לא תהיה מהאשה עצמה דאם תכוף את הידים למעלה נעשו קמטים ונתכסה הבשר שבתוך הפרק במקום חיבור היד והזרוע וכמש\"ל סעיף ל\"ה דהטבילה צריך להיות כמו שהיא הולכת רק אשה אחרת תרד עם האשה לתוך המקוה ותעמוד לאחוריה בריחוק קצת שלא תגע גופה בגוף האשה הטובלת ותדיח ידיה במים ותכסה עיני האשה הזאת ברפיון קצת ותטבול ולענין החפיפה העלה להקל אשר די לה שתרחץ ותחוף כל גופה וראשה חוץ מהעינים וסגי לה בעיון לראות במראה או בבדיקה ע\"י אשה אחרת שלא יהיה לפלוף וגם שלא יהיה ריסי עיניה דבוקות ע\"ש ועי' בתשו' מהר\"ם זיסקינד מרוטענבורג סי' י\"ח:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:15"
+        },
+        "16": {
+          "he": "בית הסתרים. עי' בתשו' נודע ביהודה חלק יו\"ד סימן ס\"ד ע\"ד האשה אשר הושם טבעת של שעוה תוך עומק הפרוזדור לצורך רפואה אם חוצץ בטבילה וכתב דזה ודאי קרוי מקפיד שהרי הוא מתלכלך תמיד בימי נדתה וצריכה להסירה בעת שתפסוק בטהרה לנקותה וכן בימי לידה ואולי מעכב גם הבדיקה תמיד בשבעה נקיים וצריכה להסירה וא\"כ הוא דבר שמקפיד וחוצץ אמנם אף שאמרו בה\"ס צריך להיות ראוי לביאת מים דוקא בבית הסתרים אמרו כן אבל במקום הנקרא בלוע א\"צ אפילו ראוי לביאת מים ולכן אם אשה זאת אומרת שהוא כ\"כ בעומק עד שאין השמש מגיע שם אפילו בשעת גמר ביאה אז מקרי בלוע וא\"צ להיות ראוי לביאת מים וא\"צ להסירה בשעת טבילה ע\"ש שהעלה כן להלכה ולא למעשה עד שיסכימו עמו עוד שני רבנים [ובתשו' ח\"ס סי' קנ\"ב חולק על ראשית דברי הנו\"ב מ\"ש דקרוי מקפיד משום שצריכה להסירו בשעת הפסק טהרה וכן בימי לידה וכתב דההסרה שבעת לידה לא מקרי מקפיד שאין אותה ההסרה מטעם ההקפדה לא על הטבעות ולא על לכלוך גופה אלא לפנות מקום לולד וראיה לזה מטבעת של איש שאין בו אבן שאין חוצץ כמ\"ש מג\"א סי' קס\"א אף דמסירו בשעת הנחת תפלין ונטילת לולב רק אם היתה צריכה להסירו בשעת פרישת טהרה זה ודאי קרוי מקפיד וגם מ\"ש הנו\"ב אם האשה זאת אומרת שהוא כ\"כ בעומק כו' הוסיף הוא ז\"ל בסי' קצ\"ג דאף אם מסופקים בכך ואפשר הוי ספק חסרון ידיעה דאשה בקיאה יכולה לברר מ\"מ כיון דהוי סכנה וחולשה רבה להוציא הו\"ל מיעוטו ואינו מקפיד כו' ויש להקל ע\"ש]. ועי' בנודע ביהודה תניינא חלק יו\"ד סימן קל\"ה שרב אחד רצה לחלק בבית הסתרים גופא דבמקום שהמים יכולים לבוא בעצמם כמו הפה אם הוא פתוח וכן נקבי החוטם והאזנים אלא שהכתוב גילה לנו שא\"צ לביאת מים אלו צריכים עכ\"פ ראוי לב\"מ אבל אותו מקום של אשה אפילו בית החיצון כיון שאף אם תרחיק ירכותיה לא יכנסו המים רק קצת בהתחלת המקום ולכן כל שהוא לפנים ממקום שהתינוקת יושבת ונראית אין צריכה אפילו ראוי לב\"מ והוא ז\"ל דחה ראיותיו (גם מדברי הרמ\"א בסעיף מ\"ג בהגה\"ה מבואר דלא כוותיה) וע\"ש שהעלה לענין בדיקת הנקיים אם הוא באופן שפי הרחם מכוון נגד חלל הטבעת וכל פה המקור מכוון ג\"כ כנגד חלל הטבעת א\"כ בשעת הפסק טהרה תתן צמר גפן תוך מטלית של פשתן נקי באופן שיהא עב קצת עכ\"פ כמו רוחב חלל הטבעת ותכניס העד הזה עמוק דרך חלל הטבעת עד נגד פי המקור ויהא אצלה מקודם בה\"ש עד אחר צה\"כ וגם ביום א' תעשה כן ובשאר ששת ימים תבדוק כפי האפשר לה ע\"ש. ועי' בתשו' זכרון יוסף חי\"ד סי' י' שמסכים ג\"כ להנו\"ב הנ\"ל גם הביא מתשו' שבו\"י ח\"א סי' ס\"ט שכתב בפי' דלענין מיעוט המקפיד אמרי' ספק דרבנן לקולא (וצריך עיון כעת דהא באיתחזק איסורא לא אמרי' ס' דרבנן כדלעיל ס\"ס ק\"י בדיני ס\"ס אות כ' והכא איתחזק איסור דטומאת נדה וצ\"ל דס\"ל כדעת הפר\"ח שהבאתי שם וכבר כתבתי שם דאין כן הלכה וכעת אין ס' ה\"ל לפני) ועוד לפי שהאשה אמרה שאינה יכולה לקחת הטבעת משם משום סכנת נפשות זולת בבוא חבלי לידה בהכרח נוטלתו כדי שלא ימנע יציאת העובר מרחמה א\"כ מקרי אינה מקפדת (עמש\"ל סק\"א בשמו) ולענין בדיקה העלה שיכולה לבדוק א\"ע כשאר נשים במוך שתכניס לאמצע פרוזדור עד קרוב למקום שהשמש דש ותניחהו שם כל בין השמשות בשעת הפרשתה לטהרה וכן תעשה גם באחד מימי הספירה בשחרית או ערבית וגם תבדוק צד שמאל רחמה ואף שצד הימין ומקום הטבעת א\"י לבדוק אין בכך כלום רק תעשה מה שביכולתה לבדוק בכל המקומות שתוכל להגיע שם ובשאר ימים די לה בבדיקה קלה ע\"ש באריכות ועי' בתשובת רבינו עקיבא איגר זצ\"ל סי' ס' שהאריך מאד בענין הנ\"ל והסכים ג\"כ להקל לענין החציצה דאינה חוצצת וגם הגאון מליסא ז\"ל הסכים להיתרא אולם במה שמקיל בתשו' זכרון יוסף הנ\"ל לענין הבדיקה חולק עליו מאחר שרבו דעת רבותינו המחמירים דבעינן דוקא בדיקת חורין וסדקין ומשמע דאינה בדיקה כלל בלא חו\"ס. אולם אחת היא שיש בזה לדון ולהקל די\"ל דמאי דצריך בדיקת חו\"ס היינו כיון דע\"פ הרוב אינה יכולה להכניס העד בעומק עד מקום שהשמש דש ממש כמ\"ש הב\"י ואף במקום גמר דישת השמש אינו ממש במקור חיישינן דזב לצדדים לחו\"ס ואינו פוגע בעד א\"כ יש תקנה לאחותנו לבדוק בשפופרת (דע\"י זה יכולה לדחוק המוך יותר) ומוך בתוכו ולדחוק הרבה המוך עד שיכנס לפנים ממקום שהשמש דש סמוך לפי האם ממש דזה הוי הוכחה דאם המקור זב היה נוטף על המוך ולא בעי בדיקת חו\"ס ככה יהיה בדיקה דפסיקת טהרה ויום א' דז\"נ וסיים דיש להקל ע\"י בדיקה הנ\"ל באופן אם יסכימו גדולי הדור ואף אם יקילו ביותר שיהיה רק בדיקה דהפסק טהרה כפי הנ\"ל ולסמוך על הרמב\"ן דבדיקת שבעה נקיים לא בעי חו\"ס מסכים ג\"כ לזה ע\"ש. ועי' בתשו' בשמים ראש סי' קנ\"ו בהגהת כס\"ד שם מה שהאריך בזה הן על ענין הבדיקה והן על ענין החציצה ע\"ש ועי' עוד בשאלות ותשובות תשובה מאהבה ח\"א מסי' ל\"ו עד סי' מ\"ב [ובתשובות חתם סופר סי' קצ\"ב וקצ\"ג] מה שכתב בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:16"
+        },
+        "17": {
+          "he": "שפתותיה. כתב בס' חמודי דניאל כתב יד אבל אם קרצה שיניה לא הוי חציצה ע\"כ:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:17"
+        },
+        "18": {
+          "he": "אין טובלין בכלים. עי' בתשו' אא\"ז פנים מאירות ח\"ג סי' מ\"ב שנשאל אם מותר לחבר טסין של נחושת בקרקעות המקוה ובכתלים כדי שיחזקו מימיו והשיב להתיר לפי דהני טסין לא מקבלי טומאה קודם שנתחברו למקוה דה\"ל כגולמי כלי מתכות ע\"ש באורך:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:18"
+        },
+        "19": {
+          "he": "נסרים. עיין באר היטב בשם מהר\"ם מלובלין. ועס\"ט שכתב דבמקום שאין אבנים מצויין אפשר לתקן בנסרים שאין כל אחת רחב כ\"כ שיהא ראוי למדרס הרגל כ\"א ע\"י חיבור הרבה נסרים ואז לא הוי ראוי למדרס קודם שחיברו למקוה כו' ע\"ש עוד. (ועי' בתשו' חתם סופר ס\"ס ר\"א אודות שבקרקע המקוה העשוי מבנין לבנים נתנו עליו נסרים עבים כדי שלא יזובו המים בין הלבנים ויבלעו בו והנסרים משולבות אשה אל אחותה ע\"י ברזלים וצוה המורה לעשות בהם נקבים כשפופרת הנוד כדי לצאת דברי האמור בש\"ע ומהר\"ם לובלין והוא ז\"ל כתב לו דאינו נכון ואם בא לחוש לחומרת מהרמ\"ל מה הועיל בעשותו נקבים וכי מפני זה אינם ראוים למדרס שהנקבים מועילים לבטל מתורת כלי קיבול אבל לא לבטל מתורת מדרס ואדרבה מגרע גרעי השתא שהרי מכיון שמונחים על רצפת אבנים הרי הנקבים עשוים לקבלה וה\"ל כלי קיבול ממש (לע\"ד אינו מובן לפמ\"ש הוא ז\"ל עצמו בסי' רי\"ו ויובא קצת לקמן סי' ר\"א סק\"ה וע\"ש בס\"ק י\"ח) ועוד דאיכא למיחש שהמים שנכנסים לתוך הנקבים ונמשכים למטה בין הנסרים ולבינים ואולי יעשו עי\"ז כזוחלין ויפסלו המקוה כולו מדינא כמבואר בש\"ע סי' ר\"א ס\"נ. (וגם זה אינו מובן קצת עי' בש\"ע שם סנ\"א ומ\"ש שם בשמו בסי' רי\"א ואפשר לישב) ועוד אני תמה אם בא לחוש לחומרת מהרמ\"ל איך יקבעו בו ברזלים והם מקבלים טומאה ועי\"ז גם העץ מקבל טומאה מפני שהברזל מעמיד אותם כו' (גם ע\"ז קשה ממ\"ש הוא ז\"ל עצמו בסי' ר\"ו ויובא קצת לקמן סי' ר\"א ססק\"ח) לכן נ\"ל דודאי הרוצה לחוש לחומרא הנ\"ל יעשה רצפת אבנים בלא נסרים כלל וכלל והמקיל לא הפסיד אפילו עם הברזלים מטעם כיון שעשויים מתחלה לשם בנין אבל עכ\"פ יש לסתום הנקבים שצוה לעשות בהם משום חשש זחילה שהוא חשש דאורייתא עכ\"ד ע\"ש) ועי' בתשו' נודע ביהודה תניינא חלק יו\"ד סי' קל\"ח במקוה שהיתה עמוקה והנשים מתפחדות לירד שם לטבול ולקחו כסא והעמידו לתוך המקוה וקשרוהו בחבלים כדי שיעמדו על הכסא בשעה שטובלת יש לגעור בהם ואף דע\"פ סברא אחת שנשען הט\"ז לענין היתר נסרים יש למצוא היתר גם בזה מ\"מ הבו דלא לוסיף דשם יש כמה סברות להתיר משא\"כ ספסל דמפורש במשנה פ\"ח דמקואות לאיסור לא נסמוך על סברא חיצונה להתיר ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:19"
+        },
+        "20": {
+          "he": "שלא עלתה. עבה\"ט מ\"ש ואפשר כו' ומ\"מ צריכה להגביה רגליה בשעת טבילה כדמשמע בש\"ך סק\"מ בסופו. דגמ\"ר. וכ\"כ בספרו תשובות נו\"ב תניינא ס\"ס קל\"ו וכתב שם דמה\"ט אם יש מקוה אחרת אין לטבול במקוה שיש רפש וטיט אף שאינו כמו טיט היון שעכ\"פ צריכה בשעת טבילה להזדקר לקפוץ באויר בעודה תחת המים קרוב לודאי שאין הנשים נזהרות בזה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:20"
+        },
+        "21": {
+          "he": "זרת לפחות. [עי' באר הגולה שכתב שהוא חצי אמה של ו' טפחים ועי' בספר לבושי שרד שכתב דזה אינו ברור כ\"כ כי מבואר בירושלמי דיש שני מיני זרת כו' לכן בעת תיקון המקוה ראוי לדקדק שיהא דוקא י\"ב גודלין שהוא חצי אמה ואח\"כ בהזדמן שמתמעטין המים לא יפחות עכ\"פ מי' גודלין וכתב עוד דראוי לכל מורה להשגיח ע\"ז כי לדעת הש\"ך ס\"ק מ\"ט יש בזה חשש פסול דיעבד ע\"כ ראוי שיתן לאשה העומדת על הנשים בעת טבילה מדה של עשרה גודלין למען תדע ליזהר בדבר ויזהירנה שאם לא יהיה כ\"כ ממעל לטבורה של הטובלת לא תטבול אא\"כ תוכל לשכב לארץ בתוך המים כמו דף לא שתקפל קצתה על קצתה ויהיו המים עולין למעלה מכל גופה. וגם בכל דיני הטבילה החיוב מוטל על כל מורה להזהיר תמיד להאשה העומדת על הטבילה ולא יסמוך במה שהזהירה פ\"א רק יהיה רגיל בכך ע\"ש]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:21"
+        },
+        "22": {
+          "he": "תכרוך שערה. [עי' בתשו' רבינו עקיבא איגר סי' ק\"ד (הובא קצת באורך בפ\"ת לאה\"ע סי' קט\"ו ס\"ד) דאם לא עשתה תיקון זה וטבלה בינה לבין עצמה לא עלתה הטבילה ע\"ש ועי' בס\"ט מ\"ש בשם מהרש\"ק]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:22"
+        },
+        "23": {
+          "he": "באבק של רגליה. עי' בתשו' פני אריה סי' ו' שנשאל ע\"ד האנשים אשר קווצותם תלתלים ונפזר על ראשיהם אבק לבן שקורין פוד\"ר אם חוצץ בתפלין והעלה דכיון שעשוי לנוי הרי כגופו של שער ואינו חוצץ בתפלין של ראש וכתב שאין ללמוד מזה שתהא אשה מותרת לטבול עם האבק זה שעל ראשה דמיד כשיבואו השערות במים אזיל ליה הנוי ולא עדיף תו מאבק שעל רגלים ואפילו לדעת הרמב\"ם דאבק של רגלים שאינו חוצץ בדיעבד מ\"מ בהא הרמב\"ם מודה דזה גרע יותר מאבק של רגלים ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:23"
+        },
+        "24": {
+          "he": "שטבלה בבגדיה. [עבה\"ט ועמש\"ל ס\"ג בד\"ה דמקפדת עליהם]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:24"
+        },
+        "25": {
+          "he": "אינו חוצץ. כתב בספר חמודי דניאל כ\"י נראה דאותן כנים קטנים מתים הדבוקים בשער צריך להסירן דהוי חציצה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:25"
+        },
+        "26": {
+          "he": "בלא כוונה. כתב בספר חמ\"ד כ\"י אם היה בעלה חולה ר\"ל וספרה שבעה נקיים וטבלה בכדי שתוכל ליגע בו ולא כוונה לתשמיש נראה דאותה טבילה מהני אף לתשמיש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:26"
+        },
+        "27": {
+          "he": "מותרת לבעלה. עי' מה שהקשה ע\"ז בספר יום תרועה דף ח' ע\"א ועי' בתשו' רדב\"ז החדשות סימן ל\"ד שתירץ קושייתו וע\"ש עוד. ועי' במג\"א סי' קנ\"ח ס\"ק י\"ג שכתב דבזה לא שייך לברך:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:27"
+        },
+        "28": {
+          "he": "ויש להחמיר. עבה\"ט מ\"ש מיהו אם אנסה חברתה כו' ובספר חמודי דניאל כ\"י כתב לכאורה נראה דוקא חברתה אבל איש לא מהני ע\"כ [ועי' בס' לבושי שרד סי' צ' שכתב דיש להסתפק אם נכנסה להקר ואח\"כ נתכוונה ולא הגביה רגליה בשעת טבילה אי מהני שלא להצריכה טבילה אחרת ויש להקל ע\"ש]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:28"
+        },
+        "29": {
+          "he": "דברים אלו. עבה\"ט מ\"ש או עם הארץ. ובספר חמ\"ד כ\"י כתב דהכא מיירי בע\"ה גמור שאינו יודע לקרות ק\"ש כיון שמנאוהו עם דברים טמאים ע\"כ:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 198:29"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "רוב.  והיכא דרוב בני אדם אין מקפידין והיא מקפדת כתב ב\"י בשם הרמב\"ם דחוצץ וכ\"פ הב\"ח וד\"מ וכתב הט\"ז אבל אם היא אינה מקפדת לעולם ורק מקצת בני אדם מקפידין אז לא הוי חציצה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:1"
+        },
+        "2": {
+          "he": "צמר.  לפי שמקפדת להסירן בשעת חפיפה או רחיצה שיכנסו שם המים וכיון דאיכא זימנא דמקפדת חוצץ לעולם. ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:2"
+        },
+        "3": {
+          "he": "מהדקן.  שלא תהא חונקת עצמה וקטלא הוא שקורין האל\"ז באנ\"ד בל\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:3"
+        },
+        "4": {
+          "he": "חלולין.  כתב הש\"ך ק\"ק דבא\"ח סי' ש\"ג ס\"א כ' סתם אם הם מעשה אריגה מותר שא\"צ להסירם בשעת טבילה ולא מחלק בין עשוים חלולין מעשה רשת או לאו ויש ליישב עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:4"
+        },
+        "5": {
+          "he": "שער.  פי' שכרוכים סביב השערות ולא מהודקין בהם ע\"כ אינם חוצצין. ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:5"
+        },
+        "6": {
+          "he": "מוזהבות.  או מטונפים דאז מקפדת עליהן להסירן וכתב הש\"ך דהג\"ה זו קאי גם אסעיף הקודם וכן הוא בטור ולבוש וכ\"נ מבואר מדברי הרב בא\"ח סי' ש\"ג עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:6"
+        },
+        "7": {
+          "he": "חילוק.  כלומר בין אם ב' שערות קשורות עם ב' שערות אחרות או ב' שערות קשורות בפני עצמן בכל ענין אין חוצצין וכן שערה אחת שנקשרה אין חילוק בין שהיא קשורה עם חברתה אחת אל אחת או שקשורה בפ\"ע בכל ענין חוצצת כדאיתא בב\"י בשם הרשב\"א והר\"ן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:7"
+        },
+        "8": {
+          "he": "מקפדת.  וה\"ה אם דרך רוב בני אדם מקפידין אע\"פ שהיא אינה מקפדת כבס\"א וכן מדמה בב\"י ופשוט הוא. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:8"
+        },
+        "9": {
+          "he": "שבראש.  לפי שאין אדם מקפיד עליו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:9"
+        },
+        "10": {
+          "he": "בנשואה.  שמקפדת שלא תתגנה על בעלה אבל איש ופנויה אינן מקפידין וכתב הב\"ח ודוקא פנויה גמורה אבל אם היתה נשואה דומיא דפנויה כגון שאין בעלה מקפיד ע\"ז אפ\"ה חוצץ דאזלינן בתר רוב נשואות עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:10"
+        },
+        "11": {
+          "he": "שבעין.  ואין חילוק בכאן בין תוך ג' ימים או לאחר ג' ימים. כ\"כ ב\"י והדרישה ודלא כב\"ח עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:11"
+        },
+        "12": {
+          "he": "חוצץ.  כתב הש\"ך ונראה דהיינו היכא דאפשר שתטבול שנית יש להחמיר אבל היכא דלא אפשר ודאי כדאי הם רוב גדולי הפוסקים לסמוך עליהם שפסקו דלטהרות דוקא איתמר ולא לבעלה וגם המחבר גופיה הביא סברתם לקמן סל\"ד ול\"ט וע\"ש ועיין בב\"י עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:12"
+        },
+        "13": {
+          "he": "תדיר.  פי' שמנהגה כך וכתב בה\"ג ונהגו בנות ישראל בעצמן שאין סכות שמן בשעת טבילה כל עיקר:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:13"
+        },
+        "14": {
+          "he": "וריר.  פי' שהוסר הגליד מעליה וכתב הש\"ך וכן אם הקיזה דם בתוך ג' ימים אינו חוצץ מכאן ואילך חוצץ כל זמן שהגלד עליו עד שיתרפא כהוגן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:14"
+        },
+        "15": {
+          "he": "אינו חוצץ.  בטור סיים ואם עלה עליו קרום של בשר בכל ענין אינו חוצץ פי' אפילו אם נראה תחת הקרום ט\"ז וכתב הש\"ך דבב\"י נסתפק בפי' אינו נראה ונ\"ל לחומרא דהיינו כל שהוא שוה לבשר קרוי נראה וכשהוא משוקע הוי אינו נראה ומשמע אם הוא משוקע אע\"פ שנראה העץ מונח בבשר הפנימי שתחוב בו אינו נראה מיקרי כיון שאינו בשוה לבשר וכ\"כ הלבוש עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:15"
+        },
+        "16": {
+          "he": "מלמולין.  פי' כשאדם מגבל טיט או לש עיסה ומשפשף ידיו זו בזו נופל מהן כמו חוטין אם נופלים על בשרה חוצצים. טור:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:16"
+        },
+        "17": {
+          "he": "שנסרך.  שמתחיל להתייבש ולהדבק קצת שכשתולים בו אצבע נמשך והולך חוט ממנו רש\"י ומשמע דעיקר החילוק הוא בין נסרך או לא אבל אין חילוק בין נסרך בבשר או בד\"א ובה\"ג מצאתי וז\"ל אמר רב זו שאמרו חכמים דם לח אינו חוצץ לא אמרו אלא בשלא נתבשל אבל נתבשל באש בין לח ובין יבש חוצץ ע\"כ ואף שלא נמצא כן בש\"ס שלנו מ\"מ דברי בה\"ג דברי קבלה הם עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:17"
+        },
+        "18": {
+          "he": "ושער.  אע\"פ שחופה רוב השער או כולו והרי הוא כגופו של שער שאינו חוצץ ועוד שהמראה מן הצבע אין בו ממש ואינו דומה לדיו שחוצץ דהתם יש ממשות הדיו. כ\"כ רבינו ירוחם והרמב\"ן והרשב\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:18"
+        },
+        "19": {
+          "he": "שאומנותו.  כתב הב\"י בשם הרוקח נראה אם אשה נגעה ביורה או בקדרה ונתפחמה בבשר מעט זה אינו קפידא אע\"פ שמעט נדבק בבשר עכ\"ל ומטעם זה דנתי להתיר באשה שטבלה ומצאה במקום אחד בגופה שחרורית במקום שנגעה בכותלי בית המרחץ שהיו שחורים מחמת עשן המרחץ שא\"צ טבילה שנית עכ\"ל הט\"ז (וכתב בה\"י ונראה דאם אדם אחד יש לו שתי אומנות דהיינו שהוא צובע וסופר ודבק על ידו צבע ודיו אזלינן לחומרא ע\"ש ועי' בש\"י שאלה ס\"ט):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:19"
+        },
+        "20": {
+          "he": "צפרניהם.  ולענין נטילת הצפרנים בחול המועד עיין בא\"ח סי' תקל\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:20"
+        },
+        "21": {
+          "he": "הטיט.  כתב הש\"ך וא\"צ שיהא נקרם עור ובשר על הטיט אלא כל שהטיט כך בעומק שאינו נראה בשוה לבשר אינו חוצץ כדלעיל גבי חץ וכתב הט\"ז בשם רבינו תם דאפילו צואה ובצק אם יש ממנו כ\"כ מיעוט שאין מקפידין מיעוטו שאינו מקפיד אינו חוצץ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:21"
+        },
+        "22": {
+          "he": "צריכה.  וכתב מהר\"מ מלובלין בתשו' דכיון שאין זה מדינא אלא מחומרא נ\"ל שלא החמירו אלא כשנמצא ששכחה צפורן א' מיד אחר הטבילה קודם שלנה עם בעלה אבל אם לא מצאה פ\"א עד למחר אין ראוי להחמיר שלא תוציא לעז על בעילתה ואפילו לא נזקקה עם בעלה באותו לילה מכוער הדבר וא\"צ טבילה אחרת אם לא נמצא שום לכלוך תחתיו עכ\"ל וכתב הש\"ך ע\"ז ונראה היכא דאפשר לה לחזור ולטבול אפילו לא מצאה עד למחר ואפילו אומרת ברי לי שלא היה שום לכלוך תחתיו יש לה לחזור ולטבול משום דהצפורן עצמו חוצץ אף בלא שום טיט וכמדומה לי שכן נוהגין להורות אבל היכא דלא אפשר אין להחמיר כיון שעבר הלילה והט\"ז כתב שאם כבר שמשה אין לה לטבול שנית דאפשר שנתעברה ואם באת להחמיר עליה בטבילה שנית אתה מוציא לעז על אותו הולד (וכל זה כשאין צואה או בצק תחתיו אבל אם יש תחתיו אפילו נזקקה לבעלה צריכה טבילה אחרת לד\"ה) וכתב עוד דאם אירע טבילתה בחול המועד כתב המרדכי דלא תחתכם בעצמה אלא ע\"י שפחה עובדת כוכבים אבל אנן קי\"ל בא\"ח סי' תקל\"ב דמותרת לחתכם בלי שום שינוי (והמרדכי החמיר ע\"י עצמו כ\"א ע\"י עובדת כוכבים) אבל בשבת ויום טוב נ\"ל (אם אירע ששכחה ליטול הצפרנים בשבת וביו\"ט לא תאמר לעובד כוכבים שיחתוך לה דכיון שאין מצוה גמורה בנטילת הצפרנים דהא אפשר בניקור תחתם למה נבטל בזה שבות דשבת דאמירה לעובד כוכבים ועוד שאשה מסייעת ע\"י שמטה לה את ידיה וכאלו היא עושה מלאכה בשבת ויו\"ט ע\"כ) לא תחתכם כלל אף ע\"י עובד כוכבים אלא תנקרם היטב וראיתי מי ששגג בזה וצוה לחתוך ביו\"ט ע\"י עובד כוכבים ולא כוון נכונה עכ\"ל (ובנה\"כ השיג עליו באריכות וסוף דבריו דמותר לומר לעובד כוכבים ליטלם דלא גזרו משום שבות במקום מצוה וכן פסק מ\"א סי' ש\"מ דמותר לומר לעובד כוכבים לחתכם דמסייע אין בו ממש ובתשו' ח\"צ שאלה פ\"ב משיג על הש\"ך שבנה\"כ והסכים עם הט\"ז מאחר שהוא לחומרא) מיהו כיון דאפשר ליטלן שלא בכלי למה נקיל בכדי אבל שלא בכלי הדבר פשוט דמותר ולית דין צריך בשש עכ\"ל וע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:22"
+        },
+        "23": {
+          "he": "חוצצת.  כתב הש\"ך היינו היא עצמה משום שפירשה אפילו לא נמצא עליה דבר חוצץ ובפירשה רובה נראה דלדידן יש להחמיר ג\"כ ולהצריכה טבילה שנית ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:23"
+        },
+        "24": {
+          "he": "מהודקים.  לפי שמקפדת להסירם בשעת לישה והוה כההיא דחוטי צמר. הראב\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:24"
+        },
+        "25": {
+          "he": "וקשקשים.  היינו לוחות שעושים הרופאים ע\"ג מכה והב\"ח פסק דבאגד וקשקשים אפילו רפוים חוצצים דלא עיילי בהו מיא שפיר:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:25"
+        },
+        "26": {
+          "he": "טבלה.  כתב הב\"ח דמל' זה משמע שאינו חוב עליה אלא צריכה לחוש לטובתה שאם טבלה ונמצא דבר ביניהם לא עלתה לה טבילה והש\"ך חולק עליו וס\"ל דחוב הוא עליה לחצוץ שיניה ואפי' אמרה אבדוק אחר הטבילה בין השינים חיישינן שמא תשכח מלבדוק:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:26"
+        },
+        "27": {
+          "he": "ומנהג.  כ' הט\"ז פשוט שאם לא נהגה כן א\"צ לעכב הטבילה בשביל זה ובשבת ויו\"ט המנהג שאוכלים בשר רק שתזהר לנקר ביותר אח\"כ עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:27"
+        },
+        "28": {
+          "he": "עלתה.  דהכא לא בעינן ביאת מים אלא ראוי לביאת מים לכך תלי' לקולא כדלקמן סכ\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:28"
+        },
+        "29": {
+          "he": "לקולא.  כתב הש\"ך דבעל הרוקח חולק ע\"ז ופסק דצריכה טבילה אחרת ויש להחמיר:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:29"
+        },
+        "30": {
+          "he": "רפתה.  והב\"ח פסק דאפי' ברפתה לא עלתה לה טבילה גזרה אטו לא רפתה אבל הט\"ז פוסק דהעיקר כדעת המחבר ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:30"
+        },
+        "31": {
+          "he": "במים.  כתב הש\"ך דוקא במי מקוה אבל לא במים תלושין אבל הט\"ז כתב דיכולה להדיח ידיה אפילו במים תלושין (שעכשיו שמחוברין למקוה יהיו גם הם כשרים דמשקה טופח הוא חיבור) ודלא כמ\"ש הרמ\"א בסי' ק\"כ ס\"ב וכתב עוד דמה שכתב המחבר דמהני רפתה ואח\"כ כתב דמהני אם הדיחה ידיה אפי' בלא רפתה מ\"מ צריך שלא תאחוז בה בכח דאל\"כ לא מהני הדחה תחלה אלא דלא חיישינן לזה עכ\"ל וכתב הדרישה דיש היתר גמור שבשעה שהאשה טובלת וחברתה דוחפה במים שיכולה לאחזה בידיה בשעת דחיפה אם הדיחה ידיה במים תחלה וא\"צ להפריד ידיה ממנה ולא כמו שנוהגין נשי דידן שמפרידין ידיהן ממנה בשעת דחיפה וכתב הש\"ך שלפע\"ד אין להורות קולא בדברים שנהגו איסור דהלא במשנה ובפוסקים אינו אלא דבדיעבד שרי אבל לכתחלה מאן לימא לן מיהו באשה שאינה יכולה לעמוד על רגליה פסק בתשו' מ\"ב סי' פ\"א דיש לטבלה ע\"י שתאחזנה ב' נשים בזרועותיה וידיחו ידיהם תחלה במים עד שיהא טופח ע\"מ להטפיח אבל אין לה תקנה שישכבוה על הסדין ויטבלוה דסדין מקבל טומאה ואסור (כדלקמן סעיף ל\"א) עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:31"
+        },
+        "32": {
+          "he": "מגונה.  דחיישינן שמא יוציאנה קודם שיטבול זה ונמצא טובל במקוה חסר מה שחסרו המים שטפחה בידו של זה. ב\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:32"
+        },
+        "33": {
+          "he": "שהמים.  כתב הט\"ז דלרמב\"ם ורמב\"ן דס\"ל לעיל דאפי' באוחז בכח אינו חוצץ כל שהדיח ידיו תחלה א\"כ אין חילוק בכאן אם הם מלוחלחות ממי מקוה או משאר מים תלושין ע\"ש והש\"ך כתב דצ\"ע דכאן משמע ביש שם טיט צריכה להגביה רגליה ויכולה לטבול שם ובסל\"ג פסק כשיש שם טיט לא תטבול כלל ולמאי שכתבתי לקמן דיש חילוק בין טיט לטיט אתי שפיר עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:33"
+        },
+        "34": {
+          "he": "כלי.  אפילו רחב וקבוע בענין שאין לחוש שמא תפול ממנה. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:34"
+        },
+        "35": {
+          "he": "נסרים.  כ' הט\"ז ויש לתמוה טובא על מנהג מדינתנו שעושים נסרים במקוה שתעמוד האשה הטובלת עליה ובלבוש האריך בתמיה זו מאד וכבר קדמוהו בתשובה מוהר\"מ פדאוו\"ה ששאל ממנו מוהר\"ר דוד ויטל למה עושין כן והשיב לו בארוכה ועיקר בנינו דהנסרים שלנו במקוה אינם חשובים מיוחדים למדרס הואיל ואין עשויין לעמוד עליהם לטבול כי אדרבה בזה יוצאין מתורת כלי וחשובין כתקרת הבית ובפרט מאחר שנקבעו במסמורות כיון שלא היה מתחלה שם כלי עליהם ע\"כ ועוד נראה למצוא היתר אפי' באינם קבועים במסמורות וכו' ע\"ש שמאריך בזה וסיים וכל זה שכתבתי בהיתר הנסרים שייך ג\"כ לשליבות של עץ במקוה שיש בכל מדינתינו דזכרון א' עולה לכאן ולכאן עכ\"ל וכ' מוהר\"מ מלובלין בתשו' דודאי אין לשנות המנהג שלא להוציא לעז על הראשונים ואעפ\"כ בכל זמן שמזדמן לידי שמתקנים או בונין מקוה חדשה אני מצוה תמיד לתקנה בדברים שאינם ראוים למדרס כדי שתהא כשרה אליבא דכ\"ע עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:35"
+        },
+        "36": {
+          "he": "טבילה.  והב\"ח כ' דאין נראה להקל כיון דלרש\"י ותוס' לא עלתה לה טבילה כו' וכ' הש\"ך דדבריו הם תמוהין ודברי המחבר עיקר:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:36"
+        },
+        "37": {
+          "he": "השליבות.  כתב הט\"ז לפי מה שנתבאר לא קי\"ל כן אלא גם הם מותרים אע\"ג שעשה כבר השליבה וקבעה אח\"כ במקוה אך שבזה ראיתי הרבה נכשלים שאין עושין אותן רחבים ד' ויש לחוש לפחד שמא תפול ואסור לכתחלה ע\"כ כל מורה ישים לבו על זה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:37"
+        },
+        "38": {
+          "he": "בקרקעית.  שמשם זוחלין המים לחוץ וטעם היתר בזה לפי שאין שם פחד לפי שקבוע הוא בקרקע וג\"כ אין שם כלי עליה לפסול בשאיבה דאין לו לבזבז ואינה מקבלת מים ע\"כ לא הוה רק פשוטי כלי עץ. ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:38"
+        },
+        "39": {
+          "he": "שלא.  כ' הש\"ך אע\"ג דלעיל סי\"ד פסק דאינו חוצץ אלא טיט היון וכו' י\"ל דהכא נמי מיירי במקוה שיש בה טיט עבה כמו טיט היון ואפשר ע\"ז סמכו עכשיו שטובלין במקוה שיש טיט משום דסתם טיט אינו כמו טיט היון:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:39"
+        },
+        "40": {
+          "he": "עלתה.  כ' הש\"ך צ\"ע בזה וכן הא דעצמה עיניה ביותר בסל\"ט די\"א דעלתה לה טבילה וזה אינו לפי מ\"ש המחבר לעיל גבי כחול וגבי דם שבמכה שחוצץ והא בהא תליא לפי הגירסא בש\"ס וכדמוכח מכל הפוסקים עכ\"ל והט\"ז כ' וקשה לי למה יפסול בדיעבד מ\"ש מס\"ל דאמרי' מפני שהמים מקדימין ה\"נ נימא הכי וי\"ל דהכא יש חשש שידבקו הקמטים שהם בגוף למעלה מן המים נמצא שבביאתם למים כבר הם מדובקים ולפ\"ז אם הכניסה עצמה עד צוארה במים תחלה הוי טבילה בדיעבד בכל גוונא ונ\"ל שנכון לכל אשה שתעשה כן שעכ\"פ יש בזה צד מעליותא אם תשהה הרבה ולאו אדעתה עכ\"ל (ובנה\"כ מתרץ דהתם כשתחבה רגליה במים כבר נגעו רגליה במים קודם שהגיעו לטיט ואותן המים מחוברים למקוה והלכך לא הוי חציצה אבל הכא ע\"י הקמטין לא יהיו המים שבתוך הקמטין מחוברים למקוה כלל ודו\"ק עכ\"ל):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:40"
+        },
+        "41": {
+          "he": "לא.  והב\"ח פסק דעלתה לה טבילה ואיתא בש\"ס נתנה תבשיל לבנה לא עלתה לה טבילה וכתבו הט\"ז לקמן ס\"ס קצ\"ט:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:41"
+        },
+        "42": {
+          "he": "חוצצים.  דאע\"ג דבית הסתרים א\"צ ביאת מים ראוי לביאת מים בעינן. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:42"
+        },
+        "43": {
+          "he": "צריכה.  כ' הש\"ך מיהו כל זה אינו מעכב בדיעבד וכ\"מ בב\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:43"
+        },
+        "44": {
+          "he": "בבגדיה.  כ' הש\"ך נראה דוקא באותן הבגדים שהן רפויים עליה אבל לא באותן שהן מהודקים שוב מצאתי כן בהרמב\"ן כו' ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:44"
+        },
+        "45": {
+          "he": "להסירן.  משמע כל שיכול להסירן אפילו דיעבד חוצצין. ש\"ך:  (מה*) [ טבילה אחרת.  בלא ברכה. ב\"ח וש\"ך]:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:45"
+        },
+        "46": {
+          "he": "להחמיר.  מיהו אם אנסה חברתה ואטבלה כונה דחברתה כונה מעליותא היא לכ\"ע הכי אמרי' בש\"ס חולין דף ל\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:46"
+        },
+        "47": {
+          "he": "אלו.  כגון כלב או חמור או ע\"ה או עובד כוכבים או חזיר או סוס או מצורע וכיוצא בהן כ\"כ בש\"ד אבל ברוקח וכל בו איתא שאם פגע בה סוס תעלה ותשמש שבניה עומדים נאה בדבורן שומעין ומבינין לומדים תורה ואינם משכחין וממעטין בשינה ולא עוד אלא שאימתן מוטלת על הבריות כו' עכ\"ל וגרסינן בפסחים האי מאן דפגע באיתתא בעידנא דסלקה מטבילת מצוה אי איהו קדים ומשמש אחדא ליה לדידיה רוח זנונית ואי איהי קדמה ומשמשה אחדא לה לדידה רוח זנונית מאי תקנתיה לימא הכי שופך בוז על נדיבים ויתעם בתוהו לא דרך והוא בתהלים ק\"ז והכי מייתי לה ברוקח אבל בתולדות אהרן לא ציין מקרא דשופך בוז על נדיבים אלא ומזיח אפיקים רפה באיוב י\"ב נראה שלא היה גורס בש\"ס שופך בוז וכו' ובילקוט מייתי ש\"ס זה בתהלים ובאיוב הלכך נמרינהו לתרווייהו עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 198:47"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

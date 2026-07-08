@@ -1,0 +1,770 @@
+{
+  "chelek": "YD",
+  "siman": 286,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 23,
+  "fetchedAt": "2026-07-08T00:01:30.671Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "מקומות החייבים במזוזה. ובו כ\"ג סעיפים:אלו המקומות שחייבים במזוזה אחד שערי בתים ושערי חצרות מדינות ועיירות רפת בקר ולולין ואוצרות יין ושמן ובית האשה ובית השותפים כולם חייבים: הגה ודוקא כשבית השותפים ישראלים אבל בית של ישראל ועובד כוכבים פטור ממזוזה (מרדכי ספ\"ק דעבודת כוכבים) וכן חצירות או עיירות שמקצת עובדי כוכבים דרים שם פטורין ממזוזה (חידושי אגודה פ\"ק דיומא):",
+      "en": "Places that require a mezuzah. These are the places that require a Mezuzah. Whether the gates of the houses, or the gates of the courtyards, states and cities, [all are the same] and the cowshed of cattle, and the pen, and the storehouses of wine and oil and a woman's house [or room] and the house of the Jewish housemates.They are all obligated. Rema: Specifically when the housemates are Jewish. But the house of a Jew and an idolator, is exempt from a Mezuzah (Mordekhai on Avodat Kokhavim ch. 1 end). Also the courtyards of cities where some idol worshippers live are exempt from Mezuzot (Chidushei Agudah on Yoma, ch. 1).",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:1"
+    },
+    {
+      "seif": 2,
+      "he": "בית התבן בית העצים ובית הבקר חייבים ואם הנשים רוחצות בהם כיון שעומדות שם ערומות אין כבוד שמים להיות שם מזוזה: הגה ודוקא אלו אבל חדר ממש אפי' מקום שאיש ואשה ישנים ומשמשים שם חייב במזוזה (בתשובת מהרי\"ל וכ\"כ הב\"י) ויש מקילין ואומרים דבכל מקום שנשים שוכבות פטור ממזוזה (ב\"י בשם סמ\"ק וכל בו ומרדכי סוף הל' מזוזה) ונראה לי דבמקום שהדלת מבפנים וכששוכבים שם סוגרים הדלת ונמצא המזוזה מבחוץ חייב לכולי עלמא (ד\"ע בד\"מ וכ\"מ בתשובת מהרי\"ל סי' צ\"ח):",
+      "en": "A house/room for straw, wood, livestock — require. But if women bathe there, since they stand there naked, it is not proper regard of Heaven for a mezuza to be there. Rema: Only these specifically. But an actual [living] room, even if man and woman sleep and have relations there — requires mezuzah (in Responsa Maharil and the same wrote the BY) And some are lenient and say wherever women lie is exempt from mezuzah (BY in the name of Semak, the Kol Bo, and Mordekhai Hilkhot Mezuza end.) It seems to me wherever the door is from the [room's] inside and when people sleep there they close the door, and a doorpost is found outside it — it requires by all opinions. (Own opinion in Darkhei Moshe. And thus it seems in Teshuvat Maharil #98).",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:2"
+    },
+    {
+      "seif": 3,
+      "he": "בהכ\"נ אם יש בו דירה לשום אדם חייב במזוז': הגה ואם בית דירה בעזרה שלפני בית הכנסת העזרה חייבת ובית הכנסת פטור (ב\"י בשם רבינו ירוחם):",
+      "en": "A synagogue, if there is an apartment for anyone, requires a Mezuzah. Rama: And if there is an apartment in the courtyard that is in front of the synagogue, the courtyard needs a Mezuzah but the synagogue is exempt. (Beit Yosef in the name of Rabbeinu Yerucham).",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:3"
+    },
+    {
+      "seif": 4,
+      "he": "בית הכסא ובית המרחץ ובית הבורסקי ובית הטבילה פטורים לפי שאינם עשויים לדירת כבוד:",
+      "en": "A bathroom and a bathing house and a tannery and a Mikvah, they are exempt, since they are not made to be honorable dwelling places. (BY in the name of Rabbeinu Yerucham)",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:4"
+    },
+    {
+      "seif": 5,
+      "he": "במקום שיש טינוף כגון שתינוקות מצויים שם טוב לכסות המזוזה ובמקום טהרה טוב להיות נראית:",
+      "en": "Where there's filth e.g. if there are babies there, it's better to cover the mezuzah. In a clean place it's better to have it visible.",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:5"
+    },
+    {
+      "seif": 6,
+      "he": "אכסדרה והוא המקום שיש לו ג' כתלים ותקרה אע\"פ שיש לה שני פצימין ברוח רביעית פטורה מפני שהפצימין להעמיד התקרה הם עשויים ולא משום מזוזות (ל' הרמב\"ם פ\"ו מהס\"ת ד\"ג) אבל אם יש לה מחיצה גם ברוח הרביעית אע\"פ שהיא נמוכה או שעשויה חלונות חלונות חייבת:",
+      "en": "An porch, which is a space with three walls and a roof, even though it has two uprights on the fourth side petzimin, the akhsadra is exempt, because the petzimin are made to support the roof and not for the sake of mezuzoth/doorposts. (Quoting Rambam: Sefer Torah 6:3) But if it has a wall on the fourth side as well, even if it is low or is composed of many windows, then it requires.",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:6"
+    },
+    {
+      "seif": 7,
+      "he": "מרפסת שהיא דרך לעלות בה לעליות ובית שער והגנה פטורים ואם בית פתוח לאחד מאלו חייבים ויש אומרים שבית שער חייב אפילו אין בית פתוח לו (טור והפוסקים בשם ר\"י):",
+      "en": "A balcony that is a path to go up some stairs, and hallway [beith sha`ar], and a garden, is exempt. But if the house opens to one of these, it requires. (And some say a hallway [beith sha`ar] requires one even if the house does not open to it (Tur and the poskim in the name of R\"Y).",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:7"
+    },
+    {
+      "seif": 8,
+      "he": "בית שער שפתוח לבית ולחצר חייב בשתי מזוזות אחת במקום שפתוח לבית ואחת במקום שפתוח לחצר:",
+      "en": "A gatehouse (hallway) that opens to a room and to a yard, needs two mezuzot: one where it open to the room and one where it opens to the yard.",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:8"
+    },
+    {
+      "seif": 9,
+      "he": "בית שער העומד בין הגנה לבית חייב בשתי מזוזות אחת במקום שפתוח לבית ואחת במקום שפתוח לגנה:",
+      "en": "A gatehouse (hallway) between a garden and house needs two mezuzot: one where it opens to the room and one where it opens to the garden.",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:9"
+    },
+    {
+      "seif": 10,
+      "he": "בית המדרש פטור מהמזוזה ואם יש בו פתח שרגיל לצאת בו לביתו חייב במזוזה באותו פתח וי\"א שבית המדרש חייב במזוזה ונכון לחוש לדבריהם אבל לא יברך עליה:",
+      "en": "A Beit Midrash does not need a Mezuzah, but if there is in it an entrance that you regularly use to go to your house, it needs a Mezuzah. And there are those who say that a Beit Midrash does need a Mezuzah and it is correct to be concerned about their words, but one should not make a blessing on it.",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:10"
+    },
+    {
+      "seif": 11,
+      "he": "סוכת החג בחג והבית שבספינה והחנויות שבשוקים פטורים:",
+      "en": "A Sukkah during its holiday, a room in a boat, and stores in the marketplace, are exempt.",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:11"
+    },
+    {
+      "seif": 12,
+      "he": "שתי סוכות של יוצרים זו לפנים מזו הפנימית חייבת והחיצונה פטורה:",
+      "en": "Two potter's huts one inside the other, the inner one requires and the outer one is exempt. [Sukkah 8b]",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:12"
+    },
+    {
+      "seif": 13,
+      "he": "בית שאין בו ד' אמות על ד' אמות פטור ואם יש בו  כדי לרבע ד' אמות על ד' אמות בשוה אע\"פ שארכו יתר על רחבו או שהוא עגול או בעל ה' זויות חייב (רמב\"ם שם ד\"ב):",
+      "en": "A house/room that hasn't 4 amot by 4 amot, is exempt. But if it's able to cover 4 amot by 4 amot in equivalent area, even though it's longer than wide, or is round or has five corners, it requires. (Rambam ibid. :2)",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:13"
+    },
+    {
+      "seif": 14,
+      "he": "בית שאין לו תקרה פטור היה מקצתו מקורה ומקצתו אינו מקורה אם היה הקירוי כנגד הפתח חייב במזוזה והוא שיהי' במקורה ד' על ד':",
+      "en": "An unroofed room is exempt. If part roofed and part unroofed, if the roofing is by the entrance, it requires mezuzah, provided 4 amot [square] are roofed.",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:14"
+    },
+    {
+      "seif": 15,
+      "he": "הבית אע\"פ שאין לו דלתות חייב במזוזה ויש מי שפוטר:",
+      "en": "A house even if it has no doors requires mezuzah. But some exempt it.",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:15"
+    },
+    {
+      "seif": 16,
+      "he": "הרבה חדרים זה לפנים מזה כולם חייבים במזוזה:",
+      "en": "If there are many rooms, one in front of another, they all need Mezuzot.",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:16"
+    },
+    {
+      "seif": 17,
+      "he": "אם יש בבית הרבה פתחים פתוחים לחצר או לרשות הרבים ונעשו כולם לכניסת ויציאת בני הבית כולם חייבים אפילו נתמעטו הדיורים שאין רגילין עתה לצאת ולבא אלא באחד מהם:",
+      "en": "If there are many entrances in the house that are open to the yard or to a public domain and each one is used as an entrance and an exit for the people of the house, they all need Mezuzot, even if the number of residents has declined such that its residents normally only exit and enter through one of them.",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:17"
+    },
+    {
+      "seif": 18,
+      "he": "בית שיש לו פתחים הרבה אף על פי שאינו רגיל לצאת ולבא אלא באחד מהם חייב לעשות מזוזה בכל פתח ופתח: הגה הואיל ונעשו לכניסה ויציאה (משמעות הטור) מרתף שיש לו פתח מן הרחוב שמכניסין בו יין בחביות גדולות ויש לו פתח קטן מן הבית שנכנסין ויוצאין בו תמיד אם הפתח הקטן ראוי למזוזה היא חייבת והגדולה פטורה ואם אין הקטן ראוי למזוזה הגדולה חייבת והקטן פטור (ב\"י בשם תשובה אשכנזית והיא בת' מהרי\"ל סי' צ\"ט):",
+      "en": "A house that has many doorways, even though he normally only exits and enters through one of them one, he is required to make a Mezuzah on each one. Rema: Since they are made for entry and exit. (Thus seems to say the Tur) A cellar that has an entry from the street, where they bring in wine in large barrels and it has a doorway from the house through which they enter and exit it constantly: If the small doorway [inside] is fit to have a mezuzah, then it requires it and the large doorway [outside] is exempt. But if the small one is not fit to have a mezuzah, then the large one requires it and the small one is exempt (Beit Yosef in the name of an Ashkenazi responsum, which is found in Responsae Maharil #99).",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:18"
+    },
+    {
+      "seif": 19,
+      "he": "ארובה שבין בית לעליה ועולים לה בסולם ועושים סביב הסולם היקף מחיצות פעמים למטה ברגלי הסולם ופעמים למעלה בראשו ויש בו צורת פתח במקום שעושין אותו חייב ואם עשו למעלה וגם למטה חייב בשתים:",
+      "en": "A chute that extends from a house/room to an upper floor, in which people go up on a ladder, and the ladder is surrounded by walls, sometimes below at the base of the ladder or sometimes above at its top, and it has a tzurath hapetach/doorway at [either] end, it requires. And if they made a [tzurah] above and below, both require.",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:19"
+    },
+    {
+      "seif": 20,
+      "he": "פתח שאחורי הדלת אם יש לו פצים טפח חייב במזוזה:",
+      "en": "An entrance that is behind a door -- if its boards are tefach [past the door], it requires a mezuzah. [Menachot 33b]",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:20"
+    },
+    {
+      "seif": 21,
+      "he": "פתח אחד וחלקו בעמוד בינתיים כל שיש היכר ציר בזה ובזה לצד העמוד הרי הם כשני פתחים וצריך מזוזה לכל פתח אבל כל שאין צירים לצד העמוד אין העמוד מחלקו לשנים שאינו אלא לנוי בעלמא:",
+      "en": "An entrance that consists partially of a pillar between [two rooms] — as long as the hinge can be recognized from each side of the pillar, behold they're like two doorways, and each doorway needs a mezuzah. But so long as there's no hinge alongside the pillar, the pillar does not divide it [the doorway] into two [doorways], as it's just decorative.",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:21"
+    },
+    {
+      "seif": 22,
+      "he": "השוכר בית בחוצה לארץ והדר בפונדק בארץ ישראל פטור ממזוזה שלשים יום והשוכר בית בארץ ישראל חייב במזוזה מיד משום ישוב ארץ ישראל (והוא הדין לשואל בית דינו כשוכר) (ב\"י בשם הר\"ר מנוח וכ\"מ בש\"ס):",
+      "en": "One who rents a house/room outside the Land, or one who lodges at an in the Land of Yisrael, is exempt from Mezuza for thirty days. But one who rents a house/room in Eretz Yisrael requires Mezuza immediately, due to yeshuv (dwelling in) Eretz Yisrael. (And this is the law for someone who borrows a house; the law is like the renter.) (Beit Yosef in the name of Rabeinu Manoah and so it seems in Shas)",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:22"
+    },
+    {
+      "seif": 23,
+      "he": "השוכר בית מאינו יהודי חייב במזוזה:",
+      "en": "One who rents a house from a non-Jew is obligated in the mitzvah of Mezuza [for that house].",
+      "ref": "Shulchan Arukh, Yoreh Deah 286:23"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא יומא דף י\"א ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:1"
+        },
+        "2": {
+          "he": "גם זה ברייתא שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:2"
+        },
+        "3": {
+          "he": "כדתני רב כהנא קמיה דרב יהוד' וכו' שם וכ\"כ הרי\"ף והטור בשם אביו הרא\"ש:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:3"
+        },
+        "4": {
+          "he": "ברייתא שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:4"
+        },
+        "5": {
+          "he": "ברייתא שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:5"
+        },
+        "6": {
+          "he": "לשון סמ\"ג (והגהמי\"י ומרדכי וסמ\"ק):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:6"
+        },
+        "7": {
+          "he": "לשון הכל בו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:7"
+        },
+        "8": {
+          "he": "מימרא דרבה בר שילא א\"ר חסדא מנחות דף ל\"ג ע\"ב וכדמפרש שם בגמ':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:8"
+        },
+        "9": {
+          "he": "שם באכסדרא דבי רב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:9"
+        },
+        "10": {
+          "he": "ברייתא שם דאכסדרא חייבת ומוקי לה באכסדרא רומיתא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:10"
+        },
+        "11": {
+          "he": "ברייתא יומא דף י\"א ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:11"
+        },
+        "12": {
+          "he": "ברייתא מנחו' דף ל\"ב ע\"ב דבית שער ומרפסת חייבין ותירצו התוס' שם בשם הרי\"ף דהכא בפתוחה לבית:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:12"
+        },
+        "13": {
+          "he": "כתי' הראשון שבתו' התם מדאוריי' והכא מדרבנן וכן הדין במרפסת:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:13"
+        },
+        "14": {
+          "he": "מימר' דרחב' וכו' וכדמפר' רב פפא סבא וכו' שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:14"
+        },
+        "15": {
+          "he": "ברייתא שם וכרבי יוסי וכדמפרש רב ושמואל כ\"פ הרא\"ש וכ\"נ מדברי הרמב\"ם שם בפ\"ו מהס\"ת ומזוזה שכתב אפילו י' בתים זה פתוח לזה וזה פתוח לזה הואיל והפנימי חייב כולם חייבים וכו':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:15"
+        },
+        "16": {
+          "he": "מפתחא דעייל בה רבי למדרש' וכו' שם ע\"א ומעובדא דאביי ורבין דהוו אזלי באורחא וכו' ברכות דף מ\"ז ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:16"
+        },
+        "17": {
+          "he": "שם מההוא פתחא דהוה עייל בה רב הונא וכו' שם במנחות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:17"
+        },
+        "18": {
+          "he": "תוספות שם בשם הירושלמי וכ\"כ הטור בשם הר\"מ מרוטנבורק:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:18"
+        },
+        "19": {
+          "he": "בריי' יומא דף י' ע\"א וכרבנן וטעמייהו דכתיב ביתך שהוא דירת קבע לאפוקי דירת עראי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:19"
+        },
+        "20": {
+          "he": "מימרא דרבי לוי וכו' סוכה ד\"ח ע\"ב דעיקר דירתו בפנימי והחיצונ' לא קבעא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:20"
+        },
+        "21": {
+          "he": "בריי' סוכה דף ג' ע\"א וכגירסת הרי\"ף:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:21"
+        },
+        "22": {
+          "he": "טור בשם הרמב\"ם שם בפ\"ו דס\"ל כל שיש בו לרבע כן ראוי לדירה הוא והוא בכלל ד' אמות על ד\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:22"
+        },
+        "23": {
+          "he": "מימרא דרבא מנחות דף ל\"ג ע\"ב ותני רב שמואל בר יהודא וכו' יומא דף י\"א ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:23"
+        },
+        "24": {
+          "he": "הרמב\"ם שם וכתב הכ\"מ מלתא דסברא היא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:24"
+        },
+        "25": {
+          "he": "הר\"ר מנוח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:25"
+        },
+        "26": {
+          "he": "לפי' התוס' והרא\"ש להא דריש גלותא בנה ביתא וכו' מנחות דף ל\"ג ע\"א (וטור וראב\"ד וע\"פ):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:26"
+        },
+        "27": {
+          "he": "הרמב\"ם שם בפ\"ו וכמו שהשיב לחכמי לוני\"ל שאין החיוב תלוי אלא בפתח שיש בה שער כפשטיה דקרא על מזוזות ביתך ובשעריך:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:27"
+        },
+        "28": {
+          "he": "רמב\"ם וציינתיו לעיל סעי' ט':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:28"
+        },
+        "29": {
+          "he": "לשון הטור ממימרא דרב פפא וכו' שם דף ל\"ד ע\"א וכפי' השני שברש\"י בשם תשו' הגאונים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:29"
+        },
+        "30": {
+          "he": "לשון הרמב\"ם שם בפ\"י ממימרא דרב פפא וכפירוש הראשון שברש\"י:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:30"
+        },
+        "31": {
+          "he": "מימרא דרב הונא שם וכפי' רש\"י שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:31"
+        },
+        "32": {
+          "he": "ברייתא שם דף ל\"ג ע\"ב וע\"ש בפי' רש\"י:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:32"
+        },
+        "33": {
+          "he": "תשובת הרשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:33"
+        },
+        "34": {
+          "he": "בריי' שם דף מ\"ד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:34"
+        },
+        "35": {
+          "he": "הגהת מיימוני לדעת הרמב\"ם וכ\"כ סמ\"ג בשם הירושלמי בסוף מגילה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 286:35"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "מדינות. מוקפות הרים ובקעות בכמה פרסאות ואין יוצאים ממנה אלא דרך שערים כגון ארץ הגר. רש\"י:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:1"
+        },
+        "2": {
+          "he": "רפת בקר. דאע\"ג דהוא במקום הטנופת מכל מקום לא נפיש זוהמייהו והדרישה כתב כלל הדברים דהיכא דאיכא משום קדושה כגון בית הכנסת או היכא דאיכא מקום טינופת אז בעינן בית דירה ממש שידור בו תמיד אבל היכא דליכא חד מהנך כגון מתבן כו' וכל אחד מהנך אפילו אינם דרים שם ממש כיון דיוצאין ונכנסין בו חשיב בית דירה. עד כאן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:2"
+        },
+        "3": {
+          "he": "ולולין. הוא חדר בנוי העשוי לאווזין ותרנגולין:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:3"
+        },
+        "4": {
+          "he": "ובית האשה כו'. ולא אמרינן ביתך ולא ביתה אלא כיון דכתיב למען ירבו ימיכם וגו' ונשי נמי בעי חיי כמו גברי הלכך חייבים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:4"
+        },
+        "5": {
+          "he": "כולם חייבים. עיין בסמ\"ע בחשן משפט סי' תכ\"ז ס\"ק ב':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:5"
+        },
+        "6": {
+          "he": "אבל בית כו' פטור. כיון שהמקצת הוא של עובד כוכבים וגם משום סכנה כדי שלא יאמר העובד כוכבים שהישראל עושה מעשה כשפים וכן שערי חצירות ושערי עיירות פטורים מהאי טעמא משום סכנה כדאיתא בש\"ס ודלא כהעט\"ז שכ' הטעם משום דכתיב למען ירבו ימיכם וגו' והעובדי כוכבים אינם חפצים בזה שהרי אינן מקיימין התורה כו':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:6"
+        },
+        "7": {
+          "he": "וכן חצרות או עיירות כו'. שמקצת עובדי כוכבי' דרים שם אפי' רובם ישראלים פטורים משום סכנה ומזה הטעם אין עושין מזוזה בשערי רחובות כגון בק\"ק קראקא ובק\"ק פראג שקבעו שערים ברחובו' היהודים ונסגרים בלילה ולא קבעו בה מזוזות לעולם והאי טעמא משום סכנה דעלילות המושל מזומנות היו תמיד על שונאי ישראל ועוד מטעם אחר אין עושין שם מזוזות משום דבודאי יטלוה ויבזוה ואם כן יהיו גורמין בזיון לכתבי הקדש ומכאן למדנו לישראל החוכר חכירות מן השר למכור יין שרף או שכר או מי דבש שקורין שענק ועבדי השר ממלאים הבית בכל יום ורגילים ליקח מזוזות ונוהגין בהם מנהג בזיון שאין לעשות מזוזה באותן פתחים אלא אם כן שהפתח הוא במקום שמור מן העובדי כוכבי' שלא יטלו המזוזה ממנה. כ\"כ הב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:7"
+        },
+        "8": {
+          "he": "ודוקא אלו כו'. כלומר דוקא אלו שאינם בית דירה ממש אבל חדר שהוא בית דירה ממש כו':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:8"
+        },
+        "9": {
+          "he": "ויש מקילין ואומרים כו'. כ' הב\"ח דהוא הדין היכא דרגילין הנשים לרחוץ בבית החורף או בחדר כנשי דידן דאי אפשר לרחיצה אלא אם כן היא ערומה ואיכא בזיון דכתבי הקדש ומשום הכי נתפשט המנהג שאין עושין מזוזה כי אם בפתח הבית הסמוך לר\"ה והיינו משום דרוחצין בבית החורף בחורף ובהחדרים בקיץ ועומדים שם ערומים כו' ומקרוב נהגו הלומדים לעשות מזוזות לכל הפתחים שבבית ומיהו צריכין ליזהר שלא יעשו מזוזות במקום שרגילין שם לרחוץ ולכבס טינופת בגדי קטנים עד כאן ומיהו נראה שיש לתקן מזוזות בכל הפתחים ויכסה המזוזה כדלקמן סעיף ה':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:9"
+        },
+        "10": {
+          "he": "חייב לכ\"ע. כתוב בספר מעדני מלך סוף ד' ע\"ח ואלא מיהא איכא לברורי אם אותו החדר יש לפנים ממנו עוד חדר אחר ושם אינו משכב נשים לתשמיש המטה והוא חדר שחייב במזוזה אלא מפני שהיכר ציר ודלת סובבין אותו ואם כן חלל הפתח מבחוץ לתוך חדר משכב נשים וזה נעשה באותו חדר כו' נראה בעיני שיש לקיים מצות מזוזה בחדר שאנו דנין עליו לקבעה אחורי דלת (וכדלקמן סי' רפ\"ט ס\"ב כו') וע\"ש שהאריך:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:10"
+        },
+        "11": {
+          "he": "פטורים לפי כו'. פירוש אף אם מכסה המזוזה דלא יהיה משום בזיון כתבי הקדש מכל מקום כיון דאינם עשויים לדירת כבוד פטורים מהמזוזה ואין לעשות בם מזוזה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:11"
+        },
+        "12": {
+          "he": "במקום שיש טינוף כו'. פירוש שהוא עשוי לדירת כבוד אלא שלפעמים מצוי שם טינוף הלכך חייב מדינא אלא שיש לכסותה וע\"ל סעיף ג':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:12"
+        },
+        "13": {
+          "he": "או שעשויה חלונות כו'. ר\"ל מכל הרוחות. נ\"י:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:13"
+        },
+        "14": {
+          "he": "ובית שער. הוא בית קטן שעושין לפני שער החצר והכל עושין אותו קפנדריא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:14"
+        },
+        "15": {
+          "he": "פטורים. כיון שאינם מיוחדים לדירה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:15"
+        },
+        "16": {
+          "he": "וי\"א שבית שער כו'. צ\"ע דהא הי\"א אלו גם במרפסת וגינה מחייבין ועב\"ח ופרישה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:16"
+        },
+        "17": {
+          "he": "חייב. היינו מדרבנן כדאיתא בטור ופוסקים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:17"
+        },
+        "18": {
+          "he": "חייב בשתי מזוזות כו'. חוץ מהמקום שנכנסין לו מר\"ה. טור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:18"
+        },
+        "19": {
+          "he": "וי\"א כו'. ול\"ד לבהכ\"נ לעיל סעיף ג' דאינו חייב במזוזה אא\"כ יש בו בית דירה דבית המדרש כיון שהתלמידים יושבים בו מהבקר ועד ערב דומה לדירה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:19"
+        },
+        "20": {
+          "he": "אבל לא יברך עליה. והב\"ח כ' דנכון הוא כשיקבע מזוזה בפתח הבית ויברך עליה שיהא דעתו ג\"כ על קביעת המזוזה שבב\"ה ויקבע אותם זאח\"ז תחלה בפתח הבית ואח\"כ בפתח בה\"מ וברכה זו חוזרת על שניהם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:20"
+        },
+        "21": {
+          "he": "פטורים. מפני שהם דירת עראי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:21"
+        },
+        "22": {
+          "he": "שתי סוכות של יוצרים כו'. כך היה דרך היוצרים בימיהם שהיו להם ב' סוכות זו לפנים מזו ובפנימית היה דר ומצניע קדרותיו הלכך חייבת ובחיצונה היה עושה מלאכתו ומוציא קדרותיו למכור ואינו דר שם הלכך פטורה ולא דמי לבית שער דלעיל דקביע תשמישו משא\"כ הכא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:22"
+        },
+        "23": {
+          "he": "ואם יש בו כדי לרבע כו'. ודעת הרא\"ש שאינו חייב במזוזה אא\"כ הוא מרובע ד' על ד' אמות ולפי שכתב בב\"י דנקטינן כהרמב\"ם דהא לא פליג עליה אלא הרא\"ש לא הביא כאן אלא דברי הרמב\"ם אבל באמת גם דעת רבינו ירוחם בסוף ספר אדם כהרא\"ש וכתב שכן תפסו עיקר ע\"כ נראה דיש לקבעה בלא ברכה או שיברך מתחלה גם על אחרת ויהא דעתו גם על זו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:23"
+        },
+        "24": {
+          "he": "ד' על ד'. או כדי לרבע ד' על ד' להרמב\"ם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:24"
+        },
+        "25": {
+          "he": "ויש מי שפוטר. ואם קבעה קודם תליית הדלת לא יצא ידי חובתו כשנותן הדלת אח\"כ דהוי תעשה ולא מן העשוי עכ\"ל עט\"ז ולצאת ידי שניהם יתלה בה הדלת מיד ויקבענה ואם אי אפשר לתלותה מיד יקבענה בלא ברכה או יברך מתחלה גם על אחרת ויהא דעתו גם על זו וכשיתלה בה הדלת יטלנה ויחזור ויקבענה בלא ברכה או יברך על אחרת ויהא דעתו גם אזו ובזה יוצא ידי כולם ודו\"ק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:25"
+        },
+        "26": {
+          "he": "אם הפתח הקטן ראוי למזוזה. שיש בו גבוה עשרה ורחב ארבע כדלקמן סימן רפ\"ז כיון שנכנסים ויוצאים תמיד דרך אותו פתח הקטן ושם הוא עיקר תשמישו והגדול פטור מפני שאין תשמישו שם בכניסה ויציאה אלא לפעמים כשצריך להכניס בו היין בחביות ואין זה תשמיש קבוע ובטלו היא לגבי הפתח קטן אבל כשאין בקטן שיעור הראוי למזוזה אף על פי שמשתמשין בקטן אינו אלא כחור בעלמא והגדולה היא עיקר הפתח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:26"
+        },
+        "27": {
+          "he": "פתח שאחורי הדלת כו'. פירש רש\"י כגון שיש במקצוע הבית פצים קבוע לשני פתחים מחותכי' א' לצפון ואחד למערב וקבעו המזוזה בפצים בחלל הפתח הצפוני וכשהדלת פתוח הוי אחורי הדלת אם יש בעובי הפצים עובי הבדלת טפח בין פתח לפתח צריך מזוזה אחרת לפתח מערבי הואיל ואין המזוזה בחללה ואם לאו א\"צ מזוזה אחרת שהרי היא כמונחת בחלל עצמו ע\"כ ועב\"ח וירא' מכאן אותן פתחים שהם חלוקים ועמוד באמצע די להם במזוזה א' אפילו אם יש בעובי העמוד טפח דלא מחייב בשתים כשיש בעובי העמוד טפח אלא כשאחד בצפון וא' במערב אבל כששני הפתחים ברוח א' אפי' אם יש בעובי הפצים טפח חשוב הכל כפתח א' אפילו לפי' השני שפי' רש\"י כמו שדרך לעשות פתח אחד קטן אצל שער הגדול שאין פותחין תמיד השער הגדול ופותחים הקטן ואם יש פצים רוחב טפח ביניהם צריך מזוזה אחרת אפילו לפי זה נראה שפתח החלוק אין צריך דשאני התם דפתח הקטן נבדל משער הגדול לגמרי שהרי נפתח ונסגר כל אחד בלא חבירו אבל הכא שאין נבדלין זה מזה דכשזה נפתח גם זה נפתח גם נסגרים ביחד ואין העמוד נעשה אלא לנוי ודאי כחד חשיבי עד כאן לשון טור ועיין ב\"ח ודרישה מה שכתבו בזה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:27"
+        },
+        "28": {
+          "he": "פטור ממזוזה כו'. שאינו נקרא עדיין דירה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:28"
+        },
+        "29": {
+          "he": "חייב במזוזה. לאחר ל' יום בח\"ל ובא\"י מיד וקמ\"ל דלא אמרי' כיון שהבית של עובד כוכבים תפטור לגמרי ממזוזה מיהו כל זה היכא דליכא משום סכנה בבית של עובד כוכבים דכה\"ג פטור ממזוזה כדלעיל סעיף ח':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 286:29"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "רפת בקר. בזה לא כ' אם הנשים רוחצות שם כמו שכתב בבית הבקר בסעיף ב' לפי שבבית הבקר אין הבקר שם תדיר אבל ברפת יש שם זבל הבהמות תדיר על כן אין הנשים רוחצות שם כן כתבו התוס' ביומא (דף י\"א) ואפ\"ה חייב במזוזה ולא דמי לבית הכסא דנפיש זוהמיה ונראה דגם בזה צריכה המזוזה להיות מכוסה כמו שכתבתי בסעיף ה':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 286:1"
+        },
+        "2": {
+          "he": "של ישראל ועובד כוכבים פטור. דשותפות מרבינן מדכתיב ירבו ימיכם ובעובד כוכבים אין לומר כן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 286:2"
+        },
+        "3": {
+          "he": "שמקצת עובדי כוכבים דרים שם. הטעם מבואר שם מפני הסכנה פירוש שיאמר שעושין לו כישוף כדאיתא ביומא דף י\"א. ומזה יש ללמוד לכל שערי העיר לפטור מפני סכנת המושל בזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 286:3"
+        },
+        "4": {
+          "he": "כגון שתינוקות מצויים שם. בבית יוסף בשם סמ\"ג כתב ואפילו בפתח הבית במקום שתחילת שליש עליון הוא למעלה מי' טפחים יכול להניחה ואע\"פ שהחזירים מצויים שם עכ\"ל ומדכתב טוב לכסותה ש\"מ שאין עיקר המצוה להיות נראית מזה למדתי שאותן האנשים שאין עושין מזוזה מחמת שאומרים שגונבין משם ונוהגין בהם בזיון שאין זה מציל עליהם שיכולים ליתן המזוזה שם באופן שלא תהיה מגולה כלל מבחוץ אפילו נגד השם של שדי דזה על כל פנים טוב יותר מלבטל המצוה לגמרי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 286:4"
+        },
+        "5": {
+          "he": "טוב להיות נראית. נראה לי דאין לעשות שתהיה נראה בלי כיסוי כלל דנמשך מזה עבירה דבכל פעם שממשמשין בה בכניסה ויציאה מוחק מעט משם שדי עד שנמחק לגמרי אחר זמן רב כמו שאנו רואין ברוב בתים אלא יכניס שם חתיכת זכוכית ממילא יהי' השם נראה ובזה בטלה ג\"כ טענת המקילים בעשיית מזוזה מחמת שמצוי שם טינופת סביבות המקום ההוא לפעמים או שנשים רוחצות שם דרך עראי דבזה הוה מכוסה אע\"ג שנראה וראיה מדאיתא בא\"ח סי' ע\"ו צואה בעששית מותר לקרות ק\"ש כנגדה אע\"פ שרואה אותה דרך דופנותיה משום דבכיסוי תליא רחמנא והא מתכסיא וה\"ה נמי כאן שהוא להיפך כיון דמתכסיא השם אין כאן איסור דלאו בראיה תליא מילתא וק\"ו במה שהיא למעלה מי' טפחים דהוה כרשות אחרת כמו שכ' הסמ\"ג הביאו ב\"י ולא היה צריך אפי' לכיסוי זכוכית אלא דזהו צד היותר טוב ובחדר שאיש ואשתו שם יכסה המזוזה בשעוה כמ\"ש ב\"י בשם סמ\"ג בשם ריב\"א לענין אם טינופת מצוי שם וכן יש לעשות בחדר הנ\"ל כי בזה לא די כיסוי זכוכית כיון דיש שם תשמיש וכתיב לא יראה בך ערות דבר כמו דאמרינן ערוה בעששית אסור לקרות ק\"ש כנגדה כן נ\"ל ועיין מ\"ש בסימן רפ\"ז סעיף ב':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 286:5"
+        },
+        "6": {
+          "he": "חלונות חלונות. פי' מכל צדדיה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 286:6"
+        },
+        "7": {
+          "he": "פטורים. דכתיב ביתך מה בית שהוא מיוחד לדירה אף כל שהוא לדירה יצאו אלו שאינן לדירה: ומ\"ש בית שער הוא בית קטן אצל שער החצר שהשומר יושב שם: ומ\"ש וי\"א שבית שער כו' הוא דעת ר\"י בטור שהוקשה לו תרי ברייתות אהדדי דביומא תנן באלו אכסדרה בית שער ומרפסת דפטורין ובהקומץ תניא דחייבין ותירץ ר\"י דבהקומץ מיירי מדרבנן. וא\"כ הך י\"א קאי גם כן אמרפסת ואכסדרה והטור וש\"ע חדא מנייהו נקטו אלא דלפי זה גם בגינה הוה חיוב מדרבנן ואע\"פ שבגמרא לא הוזכר גינה אצל אלו מ\"מ ס\"ל לטור דכחדא נינהו כיון שאין בהם דירה ואינם דומין לבית ואפ\"ה חייבו בהן רבנן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 286:7"
+        },
+        "8": {
+          "he": "חייב בשתי מזוזות. כתוב בטור מלבד הפתח שנכנסין לשם מן רה\"ר שפשיטא שצריך מזוזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 286:8"
+        },
+        "9": {
+          "he": "וי\"א שבית המדרש כו'. בטור כתוב וכן עשה הר\"מ מרוטנבורג מזוזה לב\"ה ואמר כשהיה ישן בו שינת הצהרים היה רוח רעה מבעתו קודם שתיקן בו מזוזה ע\"כ לשונו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 286:9"
+        },
+        "10": {
+          "he": "והחנויות שבשוקים פטורים. דלאו דירות נינהו ונ\"ל אפי' אם יושבין בהם בכל יום פטורים דכיון דאינם שם בלילה מיקרי עראי כדמצינו בח\"מ סי' ק\"מ סעיף ח' לענין חזקה ובפרישה הניח זה בצריך עיון ולע\"ד נראה כמו שכתבתי ולא דמי לבית התבן או אוצר דשם תשמיש השייך לו אין חילוק בין יום ללילה כן נראה לי אבל חנות שהוא בביתו פתוח לרשות הרבים פשיטא שצריך מזוזה לפתחיו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 286:10"
+        },
+        "11": {
+          "he": "פתח שאחורי הדלת. בטור כתוב פרש\"י בזה כגון שיש במקצוע הבית פצים קבוע ושני (כ\"ה ברש\"י בגמרא ועדיף מגירסא של הטור דגורס לשני) פתחין מחותכין בו אחד לצפון וא' למערב וקבע מזוזה בפנים בחלל פתח הצפוני וכשהדלת פתוח הוה אחורי הדלת אם יש בעובי הפצים עובי הבדלה טפח בין פתח לפתח צריך מזוזה אחרת לפתח מערבי הואיל ואין המזוזה בחללה ואם לאו א\"צ מזוזה אחרת שהרי היא כמונחת בחלל עצמו עכ\"ל והקשה המרדכי על רש\"י מנא ליה הא ופי' הר\"ן כגון שיש אצל פתח חדר שצריך מזוזה ויש פצים שם שהוא ימין לזה ולזה וכיון שאין ביניהם טפח יוצא במזוזה אחת עכ\"ל פי' דהוקשה לו לפרש\"י הא כשיכנס בפתח המערב הוה המזוזה לשמאלו שהרי הפצים הוה לשמאל הנכנס שם והיאך יוצא במזוזה ההיא וע\"כ לומר שכיון שקבעה בפתח הצפוני ושם באותו פתח הוה המזוזה לימין הנכנס מהני גם לפתח המערב ועל זה הקשה מנא ליה הא ע\"כ פירש הר\"ן שיש חדר שם שנכנסים לאותו חדר דרך פתח המערב ולשם זה נעשה אותו פתח ונמצא דהוה המזוזה בימין הנכנס מביתו לאותו חדר רק שם פתח המערבי ובדרך זה חזק ואמץ מו\"ח ז\"ל והאריך בביאורו ובדרישה ופרישה האריך ג\"כ בפי' דבר זה של רש\"י וההיתר הוא מכח שכיון שנעשה בעיקר קביעתו לימין סגי גם בפתח השני שהוא לשמאל ואני אשתומם על הראשונים ואחרונים כשעה חדא שזכרתי למה לא פירשו דברי רש\"י כפשוטן והכל ניחא דהחכמים הנ\"ל הבינו שיש פתחים במערב וצפון כדרך שאר הפתחים של בית שמשייר בבנין הכותל מקום הפתח ומגיע עד הפצים והיאך הבינו ברש\"י מה שכתב מחותכין בו היאך תתפרש לשון חיתוך בזה והאמת הברור לפע\"ד דשני הפתחים הם בפצים עצמו מחותכים בו דהיינו שבמקצוע מערבית צפונית עומד פץ אחד עב ורחב ונחתך בו חתך גדול כדי שיעור פתח מצד צפון לתוך חלל הבית ושם נכנסין ויוצאין מצפון לבית ומבית לצפון ועוד נחתך שם שיעור פתח מצד מערב לחלל הבית ושם הוי כניסה ויציאה מבית למערב וממערב לבית ועשה המזוזה בחלל הפתח המערבי דהיינו באותו צד שהוא ימין הנכנס ממערב לבית שהרי באותו פצים עצמו יש חלק ימין ושמאל בפתח העשוי בו נמצא הכל ניחא דהכי קאמר שהמזוזה של פתח המערבי פשיטא שהיא כדין אלא דבפתח הצפוני יש חילוק אם יש באותו חלק פצים המבדיל בין מערב לצפון שיעור טפח צריך מזוזה אחרת לצפוני אבל אם אין שם הבדל טפח חשבינן אותו הבדל כמאן דליתא ומתכשר גם הצפוני כאלו גם הוא בחלל המערבי וימין אחד לשניהם סגי ואע\"ג דליכא צפוני הוה המזוזה רחוק מטפח סמוך לחוץ מ\"מ כשר הוא כמ\"ש סימן רפ\"ט וכ\"ש הכא דעכ\"פ לצד צפון הוה כראוי. וזה מבואר גם בלשון רש\"י שבגמרא שמביא ב\"י אלא דשם נקט פתח דרומי ומערבי והוא נמי בדרך זה אלא שבזה צ\"ל שהמזוזה בפתח הדרומי בחלק ימין הנכנס ופתח מערבי מתכשר באותה מזוזה ג\"כ אם אין טפח בהבדל שהרי היא ימין לשניהם. ומ\"ש רש\"י וכשהדלת פתוחה הוה אחורי הדלת אין זה שייך לשום טעם פטור או חיוב אלא פי' למה נקרא חד פתח אחורי הדלת בגמרא ועיקר הכוונה של בעל התלמוד להורות לנו סמיכות הפתחים באיזה דרך שנוכל להבינו שב' המקומות הם מקום אחד והיינו על דרך שכתבתי ובזה ניחא הכל שהמזוזה היה ממש בימין לשניהם ובמקומה הראוי מה שא\"כ למה שהבינו החכמים הנ\"ל דהמזוזה בפצים והפתחים הם בלאו הפצימים היאך תצרף המזוזה באין עובי טפח הא אין המזוזה לצד חלל הפתח של אחוריה ובמה שכתבתי הכל ניחא בסייעתא דשמיא ואולי מן השמים מקום הניחו לי בזה לפרש כן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 286:11"
+        },
+        "12": {
+          "he": "אין העמוד מחלקו כו'. מבואר בטור דהיינו אם הוא בדרך שאין נבדלין זה מזה אלא אם זה נפתח גם השני נפתח משא\"כ אם יש שער אחד גדול וסמוך לו שער קטן כדרך העשירים שאינם רוצים שהשער הגדול יהיה פתוח אלא משתמשים תמיד בקטן רק לפרקים בגדול בזה צריך ב' מזוזות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 286:12"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "שחייבים במזוזה. עיין בה\"ט של הרב מהרי\"ט ז\"ל שכתב בשם תשובת ש\"א סימן פ\"ג קהל שהיה להם בית האסורים והשיבו שם באחד מהחדרים ליהודי אחד בתורת קנס על כמה חדשים דצריך לקבוע מזוזה דדירה בע\"כ שמיה דירה ע\"ש ועיין בר\"י שהביאו ג\"כ וכתב עליו דיש לצדד בזה לפי שהוא דירת עראי והוי כבתים שבספינה ולא דמי לפונדק דשם עשוי לדירת קבע ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 286:1"
+        },
+        "2": {
+          "he": "רפת בקר. עיין בה\"ט ועי' בספר יד הקטנה פ\"ב מהלכות מזוזה אות י\"ב שכתב דמה שאין נוהגים עכשיו בשום מקום לעשות מזוזה ברפת צ\"ל דדוקא בימיהם דהיתה נקיה קצת ולא נפיש זוהמייהו אבל עכשיו אנו רואים בחוש דנפיש זוהמייהו. ומ\"מ בלולין והוא חדר הבנוי העשוי לאווזים ותרנגולין נראה דודאי חייב במזוזה כל שיש בו ד\"א ובתקרה ובשאר תנאים דהרי לא נפיש זוהמייהו כמו ברפת ואם אנו רואים דנפיש קצת עכ\"פ אם הדלת היא בפנים והמזוזה היא מבחוץ ראוי לעשות בה מזוזה והכל לפי ראות עינים ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 286:2"
+        },
+        "3": {
+          "he": "של ישראל ועובד כוכבים. עיין בתשובת רבינו עקיבא איגר ס\"ס ס\"ו שכתב דאם קנו בית שאין בה דין חלוקה ופעמים זה משמש בכולה ופעמים זה משמש בכולה יש לדון דחייב במזוזה למ\"ש הר\"ן נדרים רפ\"ה דבכה\"ג קיי\"ל יש ברירה וזה משתמש בשלו וזה בשלו ע\"ש היטיב וע\"ל סימן רכ\"ו ובאו\"ח סימן תרנ\"ח ס\"ז בהג\"ה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 286:3"
+        },
+        "4": {
+          "he": "ובית הבקר. [ועיין בת' משכנות יעקב סימן ס\"ג מ\"ש בזה]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 286:4"
+        },
+        "5": {
+          "he": "בית הכנסת. [ועיין בת' חתם סופר סי' רפ\"א מ\"ש בזה]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 286:5"
+        },
+        "6": {
+          "he": "המרחץ. עיין בתשובת אא\"ז פנים מאירות ח\"א סימן פ\"ז שאם עשו שינוי מעשה בגופו של מרחץ ועקרו התנור וכיוצא ועשו אותו בית מותר לדור בו ולברך ולהניח בפתחו מזוזה ע\"ש. וכ' בס' חמודי דניאל כ\"י מאלץ הויז שעושין ממנו לפעמים מרחץ פעם אחת או ב' בשנה חייב במזוזה אלא דיש לכסות בשעוה (עט\"ז סק\"ה) וכן מותר להתפלל בתוכה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 286:6"
+        },
+        "7": {
+          "he": "לכסות. עיין בספר יד הקטנה פ\"ג מהלכות מזוזה אות י\"ג שכתב דכל זה מיירי כשיזדמן לפעמים במקרה איזה דבר מטונף והוא מוכרח להיות נגד המזוזה דהיינו שא\"א בענין אחר אז דינו לכסות אבל חלילה לעשות בקביעות שום דבר בזיון נגד המזוזה ולסמוך על הכיסוי כגון לכבס לפניה תמיד טנופת של בגדי קטנים או לקבוע שיעמוד לפניה כלי ששופכין בה כל המי שופכין כאשר בעו\"ה מצוי בינינו וע\"ז נאמר כי דבר ה' בזה. ועונשו גדול כו' עיין שם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 286:7"
+        },
+        "8": {
+          "he": "להיות נראית. עבה\"ט בשם ט\"ז מ\"ש רק בחדר כו' ועיין במג\"א סימן מ\"ם סק\"ב שכתב דעכצ\"ל דמיירי אפילו פרס סודר עליה דבכלי אחד פשיטא דאסור וע\"ז חולק ודעתו דמהני כיסוי זכוכית ועליו כיסוי אחר ע\"ש ועיין בספר חומות ירושלים סימן רע\"ז שכ' דגם הט\"ז מודה בזה ואינו אוסר כ\"א בכיסוי זכוכית לבד וכ\"ת פשיטא דאפילו שאינו זכוכית אסור כלי א'. נראה דלולא זכוכית מיחשב כאוהל בפ\"ע דבגבוה עשרה איירי וקבוע בכותל וחשוב טפי. ועל מ\"ש הט\"ז דבמקום טינופת מהני כיסוי זכוכית כתב דצ\"ע מאחר דמתכוין שיתראה השם י\"ל דגרע דהוא עצמו בעי גילוייא לא מיחשב כ\"כ למחיצה ע\"ש וסברא זו קלושה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 286:8"
+        },
+        "9": {
+          "he": "בית המדרש פטור. עיין בתוס' פ\"ק דיומא דף י\"א ע\"ב סד\"ה שאין בו בית דירה. שכתבו דאם היה בהמ\"ד של יחיד ולא של רבים חייב במזוזה וכ\"כ בפסקי תוס' שם וכ\"כ בס' תפל\"מ ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 286:9"
+        },
+        "10": {
+          "he": "והחנויות שבשוקים. עבה\"ט ועיין בס' יד הקטנה על הרמב\"ם פ\"ב מהלכות מזוזה אות כ\"א שתמה ע\"ז דאם יש בחנות איזה סחורה המונח שם תמיד הוי ליה ממש בית האוצר ואף אם מפנה הסחורה משם בלילה ואינו משאיר שם כלום מ\"מ ראוי לחייבה כמו בבהמ\"ד דאמרינן לפי שיושבין בו כל היום הרי זה דירה והעלה דכוונת הטור והש\"ע בחנויות שעושין ביומא דשוקא בכרכים גדולים ועומדים שם החנויות בשוק רק כל משך היריד ואחר כך מפרקים אותם או עומדים פנוי בלי שום תשמיש דזה ממש כמו סוכת החג בחג ע\"ש. וכתב הגאון מהר\"י ז\"ל מליסא בסידור תפלה שלו דאותן החנויות שבבית שעושין מזוזה אחת מן הקרקע עד המשקוף ומזוזה אחת שאין מגיע עד המשקוף רק שכונסין את הכותל לערך אמה או יותר אם המזוזה שמגיע עד המשקוף הוא מימין הכניסה עושין המזוזה באותה מזוזה ואם המזוזה הקטנה הוא מימין הנכנס אם הוא גבוה עשרה טפחים עושין המזוזה בו ואם אינו גבוה עשרה טפחים עושה במקום הרחב כן נ\"ל עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 286:10"
+        },
+        "11": {
+          "he": "ד' אמות . בס' חמודי דניאל כ\"י נראה דוקא בית דירה צריך דוקא שיהא ד\"א על ד\"א אבל בית שער ומרפסת וגינה אפי' לית בהו ד' על ד' חייבין ועוד נראה במי שיש לו בית גדול ויש לו חדרים קטנים להניח שם חפצים דחייבים במזוזה ע\"כ:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 286:11"
+        },
+        "12": {
+          "he": "כדי לרבע. [עיין בת' חתם סופר סי' ר\"פ מ\"ש בזה]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 286:12"
+        },
+        "13": {
+          "he": "שאין לו תקרה. עיין בתשובת הר הכרמל חי\"ד סי' כ\"ג שכתב בחדר שקורין קי\"ך שנכנסין שם להסיק תנורי בית החורף ומחזיקין שם לולין של תרנגולים חייב במזוזה אע\"פ שאינו מקורה כלל מ\"מ כיון שדרכו להיות אינו מקורה דמי לשערי חצרות דחייב במזוזה מטעם זה אבל אם הוא מקום טינופת פטור כיון שאינו בית דירה כמ\"ש הש\"ך סק\"ב אך אם אין מקום טינופת רק לפעמים חייב במזוזה אלא דיש לכסותו ואף שהדלת מפסיק ע\"ש. ועיין בשו\"ת ארבעה טורי אבן סי' י\"ד לענין מה שיש ברוב מקומות חדרים מקורים עם מזוזה ובסוכות פותחין הקירוי ומסככין בענפים והמזוזה קבועה בדלת ואחר הסוכות משליכין הסכך ומקרין עם הקירוי כמקדם והמזוזה כדקאי קאי אם יפה הם עושים או לא. ודעת גדול אחד דיש בזה משום תעשה ולא מן העשוי ע\"כ צריך אח\"כ ליקח משם המזוזה ולקבוע אותה מחדש ולברך עליה וכן העלה שיש להחמיר אם נשברה הדלת ונתנו אותה לאומן לתקנו. כשחוזר וקובע אותה בהשער שצריך להוציא המזוזה ולקבוע אותה מחדש משום תולמ\"ה. והרב בעל המחבר חולק עליו חדא דמעולם לא יצא הסוכה הנ\"ל מידי חיוב מזוזה דאי משום דסוכה דירת עראי הרי חדר זה דירת קבע כל השנה וע\"כ לא פטרינן סוכת החג אלא כשעושה לשם חג אף כשעושה אותה דירת קבע פטורה דמקרי דירת עראי אבל בחדר זה שהוא דירת קבע כל השנה ודאי גם בימי סוכות לא נפטרה. ואין לפוטרה בשביל שאינו מקורה הרי דרכו בכך והוי כמו חצר. ועוד דפסול תולמ\"ה לא הוי אלא כשמתחלה נעשה בפסול אבל אם מתחלה נעשה בהכשר בחדר שחייב במזוזה אף שנפטר החדר אח\"כ ממזוזה כגון שמסירין הקירוי וכדומה לזה מ\"מ כשנתקן אח\"כ כשירה ואין בזה משום תולמ\"ה ע\"ש באורך:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 286:13"
+        },
+        "14": {
+          "he": "שפוטר. וכתב הגאון מהר\"י ז\"ל מליסא בסידור תפלה שלו דאף לדעת הפוסקים שאם אין דלת פטור ממזוזה אם קבעה כשהיה דלת ואח\"כ נוטל הדלת וחוזר ותולה אותה אין בזה חשש משום תולמ\"ה ע\"ש וכן כתבתי לעיל ס\"ק הקודם בשם שו\"ת ארבעה טורי אבן:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 286:14"
+        },
+        "15": {
+          "he": "ארובה. עיין בספר חומות ירושלים סימן קמ\"ו מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 286:15"
+        },
+        "16": {
+          "he": "השוכר בית. עיין בתשובת רבינו עקיבא איגר ס\"ס ס\"ו שכתב ה\"ה השוכר בית תבן ועצים חייב במזוזה אף דלפום רהיטא היה נראה דפטור כיון דשוכר פטור מה\"ת הוי ספק דרבנן דלמא הלכה כהרמב\"ם דבית תבן ועצים פטור מ\"מ מאחר דבש\"ע ואחרונים לא הביאו דעת הרמב\"ם לחוש לה שלא לברך ע\"כ ס\"ל דדבריו דחויים מהלכה ולא משוינן לה לספיקא דרבנן ע\"ש ולפ\"ז נראה קצת דהנך דנזכר בש\"ע דעת המיקל כמו מקום שנשים שוכבות בס\"ב ובית שער אם אין בית פתוח לו בס\"ז ובהמ\"ד בסעיף י' ובית שאין לו דלתות בסעיף ט\"ו אפשר דפטור בשוכר:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 286:16"
+        },
+        "17": {
+          "he": "פטור ממזוזה ל' יום. עיין באשל אברהם מ\"ש אם רצה כו' ועיין באשל אברהם בא\"ח סי' י\"ד סק\"ב דפשיט ליה דרשאי להחמיר ולברך מהא דאיתא בש\"ע שם סעיף ג' דטלית שאולה פטורה מציצית כל ל' יום וכתב המג\"א שם בשם תוס' והרא\"ש דהמברך לא הפסיד ע\"ש וכן העלה בשו\"ת רב משולם סי' א' ע\"ש ועיין בנ\"צ מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 286:17"
+        },
+        "18": {
+          "he": "ל' יום. כתב בר\"י אם עמד בבית כ\"ט יום ויצא ואח\"כ חזר יש להסתפק אם בחזרתו ביום ראשון יצטרף היום ההוא לכ\"ט יום שקדמו ויושלמו שלשים יום ויש לצדד בזה. הרב בית דוד יו\"ד סי' קמ\"ו. ולע\"ד צ\"ע מ\"ש מטלית דכתב בנ\"י הל' ציצית הובא בא\"ח סימן י\"ד ס\"ג בהג\"ה דאם החזירו תוך למ\"ד וחזר ולקחו אינו מצטרף דבעינן למ\"ד יום רצופים עיין שם וכעת אין התשובה הנ\"ל לפני. ועיין בנ\"צ שכתבתי דהא דפטור ממזוזה ל' יום היינו אף אם רוצה לדור בו כמה שנים אינו חייב לקבוע עד אחר ל' ודלא כדמשמע מסדור הגאון מליסא ז\"ל. ע\"ש עוד בענין אם קנה אח\"כ הבית אי מברך שנית:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 286:18"
+        },
+        "19": {
+          "he": "השוכר בית מעובד כוכבים. עיין בתשובת רבינו עקיבא איגר סי' ס\"ו שנשאל בישראל ששכר מרתף מעובד כוכבים והמפתח אצל הישראל אך יש להעובד כוכבים המשכיר זכות ורשות להניח שמה חפציו ובשעה שרוצה להשתמש צריך לשאול המפתח מן הישראל אם חייב במזוזה או לא דמקרי שותפות עובד כוכבים והשיב דלכאורה נראה דחייב מאחר דקיי\"ל דשכירות ל\"ק ואחר ל' חייב משום מ\"ע דמחזי כשלו א\"כ בנ\"ד דשמושו דישראל מחזי כאילו הבית שלו ממש אבל השימוש דעובד כוכבים לא מיחזי כשלו כיון דהמפתח ביד הישראל וא\"א לו לילך שם בלי דעת ישראל אך מ\"מ אין לנו לבדות סברא מדעתנו דמכח המפתח לא מיחזי שימוש עובד כוכבים כשלו רק כשוכר דמאי ראיה היא זו דאולי כשקנו הבית בשותפות התנו כן ביניהם שיהיה הנאמנות לישראל וכיון דד\"ת שוכר פטור ממזוזה אין אנו אחראין להחמיר בדרבנן. וכ' עוד דבנד\"ז אף אם המרתף אין בה דין חלוקה ופעמים זה משמש בכולה ופעמים זה (עמש\"ל סק\"ג) אף דבקנו בכה\"ג יש להחמיר מ\"מ הכא בשוכר דרק מדרבנן יש להקל ובפרט דיש עוד סניפים להקל ומכ\"ש היכא דשייך חשש שיאמר העובד כוכבים כשפים עושה לו ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 286:19"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "מדינות.  מוקפות הרים ובקעות בכמה פרסאות ואין יוצאין ממנה אלא דרך שערים כגון ארץ הגר. רש\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:1"
+        },
+        "2": {
+          "he": "רפת.  ואע\"ג דהוא במקום הטינופת מ\"מ לא נפיש זוהמייהו והדרישה כ' כלל הדברים דהיכא דאיכא משום קדושה כגון בהכ\"נ או היכא דאיכא מקום טינופת אז בעינן בית דירה ממש שידור בה תמיד אבל היכא דליכא חד מהנך כגון מתבן כו' אפילו אינם דרים שם ממש כיון דיוצאים ונכנסין בו חשיב בית דירה עכ\"ל ולולין הוא חדר בנוי העשוי לאווזין ותרנגולים. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:2"
+        },
+        "3": {
+          "he": "חייבים עיין. בסמ\"ע בח\"מ סימן תכ\"ז ס\"ק ב':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:3"
+        },
+        "4": {
+          "he": "פטור.  כיון שהמקצת של עובדי כוכבים וגם משום סכנה שלא יאמר העובד כוכבים שהישראל עושה מעשה כשפים. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:4"
+        },
+        "5": {
+          "he": "שמקצת.  אפילו רובם ישראלים פטורים משום סכנה ומזה הטעם אין עושין מזוזה בשערי רחובות כגון בק\"ק קראקא ובק\"ק פראג שקבעו שערים ברחובות היהודים ונסגרים בלילה ולא קבעו בהם לעולם שום מזוזה ועוד מטעם אחר אין עושין שם מזוזה משום דהעובדי כוכבים בודאי יטלוה ויבזוה וא\"כ יהיו גורמין בזיון לכתבי הקדש ומכאן למדו לישראל החוכר חכירות מן השר למכור יין שרף או שכר או מי דבש שקורין שענ\"ק והעובדי כוכבים ממלאים הבית בכל יום ורגילים ליקח המזוזה ונוהגין בהן מנהג בזיון שאין לעשות מזוזה באותן פתחים אא\"כ שהפתח היא במקום שמור מעובדי כוכבים שלא יטלו המזוזה. עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:5"
+        },
+        "6": {
+          "he": "חייב.  וכתב בס' מעדני מלך ואלא מיהא איכא לברורי אם אותו החדר יש לפנים ממנו עוד חדר אחר ושם אינו משכב לנשים לתשמיש המטה והוא חדר שחייב במזוזה אלא מפני שהיכר ציר ודלת סובבין אותו וא\"כ חלל הפתח מבחוץ לתוך חדר משכב נשים כו' נראה בעיני שיש לקיים מצות מזוזה בחדר שאנו דנין עליו לקבעה אחורי הדלת עכ\"ל והב\"ח כתב דנתפשט המנהג שאין עושין מזוזה כ\"א בפתח הבית הסמוך לר\"ה והיינו משום דהנשים רוחצות בבית החורף בחורף ובהחדרים בקיץ ועומדים שם ערומים וכו' ומקרוב נהגו הלומדים לעשות מזוזו' לכל הפתחים שבבית ומיהו צריכין ליזהר שלא יעשו מזוזה במקום שרגילין שם לרחוץ ולכבס טנופת דבגדי קטנים ע\"כ ומיהו נראה שיש לתקן מזוזות בכל הפתחים ויכסה המזוזות כדלקמן ס\"ה. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:6"
+        },
+        "7": {
+          "he": "לכסות.  כתב הט\"ז מזה למדתי שאותן האנשים שאין עושין מזוזה מחמת שאומרים שגנבים גונבים אותה משם ונוהגין בזיון שאין זה מציל עליהם שיכולים ליתן המזוזה שם באופן שלא תהיה מגולה כלל מבחוץ אפי' נגד השם של שד\"י דזה עכ\"פ יותר טוב מלבטל המצוה לגמרי וכתב בב\"י בשם סמ\"ג ואפילו בפתח הבית במקום שתחלת שליש העליון הוא למעלה מי' טפחים יכול להניחה ואע\"פ שהחזירים מצויים שם עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:7"
+        },
+        "8": {
+          "he": "נראית.  כ' הט\"ז נ\"ל דאין לעשות בלי כיסוי כלל דנמשך מזה עבירה שע\"י משמוש בכל פעם ימחק שם שד\"י כמו שאנו רואין ברוב בתים אלא יכסהו בחתיכ' זכוכית וממילא יהיה השם נראה ובזה בטלה גם טענת המקילים בעשיית מזוזה מחמת שמצוי שם טינופת או הנשים רוחצות שם דבזה הוי כיסוי אע\"פ שנראה רק בחדר שאיש ואשתו משמשים שם לא די בכיסוי זכוכית וצריך לכסותה בשעוה עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:8"
+        },
+        "9": {
+          "he": "חלונות.  פירוש מכל הרוחות. נ\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:9"
+        },
+        "10": {
+          "he": "שער.  הוא בית קטן אצל שער החצר והגנה שהשומר יושב שם פטורים כיון שאינם מיוחדים לדירה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:10"
+        },
+        "11": {
+          "he": "וי\"א.  כתב הש\"ך וצ\"ע דהא הי\"א אלו גם במרפסת וגנה מחייבין ועב\"ח ופרישה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:11"
+        },
+        "12": {
+          "he": "בשתי.  כתוב בטור מלבד הפתח שנכנסין לשם מן רשות הרבים דפשיטא שצריך מזוזה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:12"
+        },
+        "13": {
+          "he": "לחוש.  בטור כ' וכן עשה הר\"מ מרוטנבורג מזוזה לבה\"מ ואמר כשהיה ישן בו שינת צהרים היה רוח רעה מבעתו קודם שתיקן בו מזוזה והב\"ח כתב דנכון הוא כשיקבע מזוזה בפתח הבית ויברך עליה שיהא דעתו ג\"כ על קביעת המזוזה שבבה\"מ ויקבע אותם זה אחר זה תחלה בפתח הבית ואח\"כ בפתח בה\"מ וברכה זו חוזרת על שניהם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:13"
+        },
+        "14": {
+          "he": "פטורים.  מפני שהם דירת עראי וכ' הט\"ז ונ\"ל אפי' אם יושבים בהם בכל יום פטורים דכיון דאינם שם בלילה מקרי עראי כמ\"ש בח\"מ סימן ק\"מ ס\"ח לענין חזקה אבל חנות שהוא בביתו פתוח לרשות הרבים פשיטא שצריך מזוזה לפתחיו עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:14"
+        },
+        "15": {
+          "he": "הפנימית.  ששם הוא דר ומצניע קדרותיו הלכך חייבת ובחיצונה הוא עושה מלאכתו ומוציא קדרותיו למכור ואינו דר שם לכך פטור ול\"ד לבית שער דלעיל דקביע תשמישו משא\"כ הכא. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:15"
+        },
+        "16": {
+          "he": "חייב.  כתב הש\"ך מאחר דיש פלוגתא בזה נראה דיש לקבעה בלא ברכה או שיברך מתחל' על אחרת ויהא דעתו גם על זו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:16"
+        },
+        "17": {
+          "he": "על.  או כדי לרבע ד' על ד' להרמב\"ם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:17"
+        },
+        "18": {
+          "he": "שפוטר.  ואם קבעה קודם תליית הדלת לא יצא חובתו כשנותן הדלת אח\"כ דהוי תעשה ולא מן העשוי כ\"כ הלבוש ולצאת ידי שניהם יתלה בה הדלת מיד ויקבענה ואם א\"א לתלותה מיד יקבענה בלא ברכה או יברך תחלה על אחרת ויהא דעתו גם על זו וכשיתלה בה הדלת יטלנה ויחזור ויעשה כך ובזה יוצא ידי כולם עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:18"
+        },
+        "19": {
+          "he": "ראוי.  שיש בו גבוה עשרה ורחב ארבעה כדלקמן סימן רפ\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:19"
+        },
+        "20": {
+          "he": "שאחורי.  פירש רש\"י כגון שיש במקצוע הבית פצים קבוע לשני פתחים מחותכים א' לצפון וא' למערב וקבעו המזוזה בפצים בחלל הפתח הצפוני וכשהדלת פתוח הוי אחורי הדלת אם יש בעובי הפצים עובי הבדלת טפח בין פתח לפתח צריך מזוזה אחרת לפתח מערבי הואיל ואין המזוזה בחללה ואם לאו א\"צ מזוזה אחרת שהרי היא כמונחת בחללה עצמו ע\"כ ויראה מכאן אותן פתחים שהם חלוקים ועמוד באמצע די להם במזוזה א' אפי' אם יש בעובי העמוד טפח דלא מחייב בשתים אלא כשא' בצפון וא' במערב אבל כששני הפתחים ברוח א' אפילו אם יש בעובי הפצים טפח חשוב הכל כפתח א' עכ\"ל ומפרש הט\"ז דברי רש\"י דר\"ל דשני הפתחים הם בפצים עצמו מחותכים בו דהיינו שבמקצוע מערבית צפונית עומד פץ א' עב ורחב ונחתך בו חתך גדול כדי שיעור פתח מצד צפון לתוך חלל הבית ושם נכנסין ויוצאין מצפון לבית ומבית לצפון ועוד נחתך שם שיעור פתח מצד מערב לחלל הבית ושם הוי כניסה ויציאה מבית למערב וממערב לבית ועשה המזוזה בחלל הפתח המערבי דהיינו באותו צד שהוא ימין הנכנס ממערב לבית וא\"כ המזוזה של פתח המערבי פשיטא שהיא כדין אלא דפתח הצפוני יש חילוק אם יש באותו חלק פצים המבדיל בין מערב לצפון שיעור טפח צריך מזוזה אחרת לצפוני אבל אם אין שם הבדל טפח חשבינן אותו הבדל כמאן דליתי' ומתכשר גם הצפוני כאילו גם הוא בחלל המערבי וימין א' לשניהם סגי ומה שנקט רש\"י לשון דרומי ומערבי הוא נמי בדרך זה אלא שבזה צ\"ל שהמזוזה בפתח הדרומי בחלק ימין הנכנס ופתח מערבי מתכשר באותה מזוזה ג\"כ אם אין טפח בהבדל שהרי היא ימין לשניהם עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:20"
+        },
+        "21": {
+          "he": "מחלקו.  מבואר בטור דהיינו אם הוא בדרך שאין נבדלין זה מזה אלא אם זה נפתח גם השני נפתח משא\"כ אם יש שער א' גדול וסמוך לו שער קטן כדרך העשירים שאינם רוצים שהשער הגדול יהיה פתוח אלא משתמשים תמיד בקטן רק לפרקים בגדול בזה צריך ב' מזוזות עכ\"ל הט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:21"
+        },
+        "22": {
+          "he": "חייב.  לאחר ל' יום בח\"ל ובא\"י מיד וקמ\"ל דלא אמרינן כיון שהבית של עובדי כוכבים תפטור לגמרי ממזוזה מיהו כל זה היכא דליכא משום סכנה בבית של עובדי כוכבים דאל\"ה פטור ממזוזה כדלעיל ס\"א עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 286:22"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

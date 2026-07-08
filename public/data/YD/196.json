@@ -1,0 +1,615 @@
+{
+  "chelek": "YD",
+  "siman": 196,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 13,
+  "fetchedAt": "2026-07-08T00:01:23.628Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני לבישת הלבון ובדיקתה. ובו י\"ג סעיפים:שבעת ימים שהזבה סופרת מתחילין ממחרת יום שפסקה בו וכך משפטה אם תראה ב' ימים או ג' ופסקה מלראות בודקת ביום שפסקה כדי שתפסוק בטהרה  ובדיקה זו תהיה סמוך לבין השמשות (וכן נוהגין לכתחלה ובדיעבד אפילו לא בדקה עצמה רק שחרית ומצאה עצמה טהורה סגי בכך) (טור בשם הרשב\"א וב\"י אף לפי דברי (הראב\"ד) [הרא\"ש]) ולעולם ילמד אדם (להחמיר לכתחלה) בתוך ביתו שתהא בודקת ביום הפסק טהרתה במוך דחוק ושיהא שם כל בין השמשות שזו הבדיקה מוציאה מידי כל ספק (רשב\"א בתה\"ק): הגה י\"א אם התפללו הקהל ערבית ועוד היום גדול אינה יכולה לבדוק (או) [אז] ללבוש לבנים ולהתחיל ולמנות מיום המחרת מאחר דהקהל כבר עשו אותו לילה (ת\"ה) וי\"א דמותר אפי' עשו הקהל שבת (אגור בשם מהרי\"ל) ונוהגין לכתחלה ליזהר ובדיעבד אין לחוש ומקצת נשים נוהגות שאם פסקה קודם ברכו וחזרה לראות כתם או דם תוך ימי ספירתה אז מפסיקין אפילו לאחר ברכו אם נתקלקלה סמוך לערב וחושבים דבר זה לדיעבד ואין למחות בידם כי כן קבלו מאיזה חכם שהורה להן והוא מנהג ותיקין:",
+      "en": "The seven days which the Zava counts start from the day after she stops seeing blood. Likewise, the law is that if she sees blood for 2 or 3 days and subsequently stops seeing blood, she should do an internal examination on the day she stopped seeing blood in order to establish her tahara status. This internal examination should be done just prior to the onset of halachic twilight (ie. just before sunset). [And this is the way one should ideally act; but if, after the fact, even if she only did an internal examination in the morning and found no blood, that would suffice.] A person should always teach his wife to [be stringent for the ideal ruling and] do internal examination on the day she stops seeing blood using a compressed wad of cloth which should be inserted for the entire time of halachic twilight, because this type of internal examination frees us from doubt. [Gloss: There are authorities who say that if the local community has prayed the evening prayer while it is still early in the day, a woman is no longer able to do an internal examination and begin counting and wearing her white garments the following day, because of the fact that the local community has already established it as nighttime. There are also authorities who say that she would be permitted to do so even if the local community had accept the Sabbath; our practice is to ideally be stringent, but after the fact one does not have to worry about the stringent opinions. There are some women who act as follows: If she did an internal examination before the Chazzan says \"Barchu\" (at the evening service which the local community said while it was still daytime), but then during the course of her days of counting she saw some blood (and had to start her count over with a new internal examination) in that situation she would be able to do an internal examination even after the Chazzan says \"Barchu\" (at the evening service which the local community said while it was still daytime) if this blood was seen close to the onset of nighttime. This practice is not considered ideal, but one should not protest women who behave this way as they have received this ruling from a sage who ruled this way for them, and it is an old custom.]",
+      "ref": "Shulchan Arukh, Yoreh Deah 196:1"
+    },
+    {
+      "seif": 2,
+      "he": "ראתה יום אחד בלבד ופסקה בו ביום צריכה לבדוק עצמה במוך דחוק ושיהא שם כל בין השמשות: הגה ובדיעבד אם בדקה עצמה סמוך לבין השמשות ומצאה עצמה טהורה אע\"פ שלא היה המוך אצלה כל בין השמשות סגי (טור בשם הרשב\"א וה\"ה בשם רמב\"ן וב\"י להרמב\"ם וכ\"מ בש\"ס) אבל בדיקת שחרית לא מהני  הואיל ולא ראתה רק יום אחד (רשב\"א ורמב\"ן בשם י\"א וכ\"ד רמב\"ם פ\"ו מהא\"ב ובפי' משנה סוף פ\"ד וברטנורה שם):",
+      "en": "If a woman saw blood for just one day, and she stopped seeing blood on that same day, she must do an internal examination with a compressed wad of cloth which should remain inserted for the entire duration of halachic twilight. [Gloss: But, after the fact, if she did a standard internal examination just before the onset of halachic twilight and found no blood, even though the wad was not inserted for the entire duration of halachic twilight, it is sufficient. However, in this case an internal examination done in the morning would not suffice because of the fact that she only saw blood for one day.]",
+      "ref": "Shulchan Arukh, Yoreh Deah 196:2"
+    },
+    {
+      "seif": 3,
+      "he": "ביום שפסקה מלראות ובודקת עצמה כאמור תלבש חלוק הבדוק לה שאין בו כתם ובלילה תשים סדינים הבדוקים מכתמים ומיום המחרת תתחיל לספור שבעה נקיים: הגה ומנהג כשר הוא כשהאשה פוסקת בטהרה שתרחץ ולובשת לבנים אמנם אם לא רחצה רק פניה של מטה די בכך (מרדכי בשם רוקח) וכן נוהגין ואין לשנות אבל בשעת הדחק כגון אשה ההולכת בדרך ואין לה בגדים תוכל לספור ז' נקיים רק שהחלוק נקי ובדוק מדם (אגור והגהות ש\"ד ס\"ס י\"ט):",
+      "en": "(On the day which we have been discussing, ie.) the day she stopped seeing blood and did an internal examination, she should wear a garment that has been checked and found free from stains, and at night she should make her bed with sheets which have been checked and found free from stains. On the following day she begins counting her seven blood-free days. [Gloss: It is an upright practice that before a woman does the internal examination that she wash herself and wear white garments. Even if she only washes her genital area, that is enough. This is the way our communities act and one should not depart from this practice; however, in a dire situation, such as a woman who is going on a trip and doesn't have (white) clothing, she is still able to begin counting her seven blood-free days. She should, however, do her best to wear clothing which have been checked beforehand and found free of any blood stains. (Although this last line does not follow the seeming literal translation, based on commentaries this seems to be the position of the Rama)]",
+      "ref": "Shulchan Arukh, Yoreh Deah 196:3"
+    },
+    {
+      "seif": 4,
+      "he": "בכל יום מז' ימי הספירה צריכה להיות בודקת לכתחלה פעמים בכל יום אחת שחרית וא' סמוך לבין השמשות (טור בשם סה\"ת וע\"פ) ואם לא בדקה בכל השבעה אלא פעם אחת לא שנא בדקה ביום ראשון של השבעה או ביום השביעי או בא' מהאמצעים מאחר שבדקה ביום שקודם השביעי ומצאה טהורה עלו לה אבל אם לא בדקה בכל הז' וביום השמיני בדקה ומצאה טהורה אין לה אלא יום ח' בלבד ומשלמת עליו וי\"א שצריך שתבדוק ביום ראשון מהשבעה  וביום השביעי ואין להקל והבדיקה תהיה לאור היום ולא לאור הנר (תא\"ו נכ\"ו והרשב\"א בת\"ה) ובדיעבד מהני אפילו לאור הנר (כן משמע בב\"י):",
+      "en": "During all of her seven blood-free days a woman should, ideally, do internal examinations twice a day, once in the morning and once just before the onset of halachic twilight. But, if she did not do any internal examinations over the course of the entire seven blood-free days except once - irregardless of whether that single internal examination was done of the first day, the seventh day, or on any of the other day - because of the fact that she did an internal examination on the day before the seven days began (ie. the hefsek tahara) this (internal examination that she does during the seven blood-free days) suffices for her. But, if she didn't do any internal examinations during the entire seven days but only did an internal examination on the eighth day and found it to be clean from blood, she can only begin counting from the eighth day (ie. the eighth day becomes the first day). There are authorities who say that a woman must do an internal examination on the first and seventh day, and one should not be lenient. [This internal examination should ideally be done by daylight and not by candle light, but after the fact even candle light is acceptable.]",
+      "ref": "Shulchan Arukh, Yoreh Deah 196:4"
+    },
+    {
+      "seif": 5,
+      "he": "בדקה עצמה ביום שפסקה מלראות ומצאה טמאה ובדקה לאחר שלשה או ד' ימים ומצאה טהורה ה\"ז בחזקת טמאה עד שתפסוק בטהרה שלעולם אינה סופרת עד שתבדוק אם פסקה ואז מונה למחרתו:",
+      "en": "If she does an internal examination on the day which she stops seeing blood and finds that it is not clean, and then she checks after three or four day and finds that it is clean, she is still presumed to be bleeding until she establishes otherwise through an internal check as outlined above. A woman may never begin counting her seven blood-free days until she checks to ensure that she has indeed stopped bleeding and then she can begin counting on the next day.",
+      "ref": "Shulchan Arukh, Yoreh Deah 196:5"
+    },
+    {
+      "seif": 6,
+      "he": "כל בדיקות אלו בין בדיקת הפסק טהרה בין בדיקת כל השבעה צריכות להיות בבגד פשתן לבן ישן או בצמר גפן או בצמר לבן נקי ורך ותכניסנו באותו מקום בעומק לחורים ולסדקים עד מקום שהשמש דש ותראה אם יש בו שום מראה אדמומית ולא שתכניסהו מעט לקנח עצמה. ואם יקשה בעיניה מאד להכניסו כל כך בעומק לפחות בדיקה של יום הפסק טהרה ובדיקה של יום ראשון מהשבעה תהיינה עד מקום שהשמש דש: הגה ואם לא עשתה כן בבדיקת יום ראשון תעשה פעם אחת כן מבדיקות שאר הימים (ב\"י) מיהו בדיעבד אם לא עשתה כן כלל רק שבדקה עצמה יפה בחורין ובסדקין בעומק היטב כפי כחה אע\"פ שלא הגיע למקום שהשמש דש סגי לה (ב\"י שכ\"ד רוב הפוסקים וכן מהרא\"י בפסקיו סימן ע\"ז וב\"ח):",
+      "en": "All of these examinations, both the hefsek tahara and the internal examinations which are conducted during the course of the seven blood-free days, must be performed with an old, white linen piece of fabric, or with cotton, or with wool which is clean, soft, and white. It should be inserted into the vaginal cavity to the depth which a man's reproductive organ enters during intercourse, and it should make contact with the crevices and openings, in order to see if there is anything which is reddish in appearance. It is not sufficient for her to merely wipe herself and enter the vaginal cavity slightly. If she finds it very difficult to insert the cloth to such a depth, at the very least she should do so for the internal examination of the day on which she sees her bleeding stop and the internal examination on the first day of her seven blood-free days. [Gloss: But, if she did not do so for the internal examination on the first day of her seven blood-free days, she should do so for at least one of the internal examinations of the remaining days. However, after the fact, if she didn't do any internal examinations to such a depth, but she did check the crevices and openings within the vaginal cavity well as deep as she is able, even though she didn't reach the depth that the male organ reaches during intercourse, it is sufficient.]",
+      "ref": "Shulchan Arukh, Yoreh Deah 196:6"
+    },
+    {
+      "seif": 7,
+      "he": "הסומא בודקת עצמה ומראה לחבירתה:",
+      "en": "A blind woman should do an internal examination and show the cloth to another woman.",
+      "ref": "Shulchan Arukh, Yoreh Deah 196:7"
+    },
+    {
+      "seif": 8,
+      "he": "החרשת ששומעת ואינה מדברת או שמדברת ואינה שומעת הרי הן כפקחות אבל אם אינה שומעת ואינה מדברת וכן השוטה או שנטרפה דעתה מחמת חולי צריכות פקחות לבדוק אותן ולקבוע להן וסתות כדי שתהיינה מותרות לבעליהן הוקבע להן וסת הרי הן כשאר כל הנשים לא הוקבע להן חוששות משלשים יום לשלשים יום ובודקות על ידי פקחות:",
+      "en": "A mute woman or a deaf woman who can speak, they are considered mentally fit, but a deaf-mute who cannot speak or hear, and similarly a woman who is mentally unfit, or a woman who has temporarily lost her mind because of an illness, require a mentally fit woman to perform internal examinations and establish their presumed sighting days on their behalf in order that they be permitted to their husbands. One who establishes presumed sightings for these women, should do so according to the rules for all other women. If they do not have an established day of presumed sighting, they must be careful for the 30th days from the previous sighting and be examined by mentally sound women.",
+      "ref": "Shulchan Arukh, Yoreh Deah 196:8"
+    },
+    {
+      "seif": 9,
+      "he": "האשה שמרבה לבדוק בין בימי ספירתה בין בימים שלא ראתה בהם הרי זו משובחת אף על פי שיש לה וסת קבוע:",
+      "en": "A woman who checks more often than necessary, whether during her seven blood-free days or during days when she doesn't see blood at all, is praiseworthy even if she has an established day of presumed sighting.",
+      "ref": "Shulchan Arukh, Yoreh Deah 196:9"
+    },
+    {
+      "seif": 10,
+      "he": "השבעה נקיים צריך שיהיו רצופים שלא תראה דם בהם שאם ראתה דם אפילו בסוף יום השביעי סתרה כל הימים וצריכה לפסוק בטהרה ולחזור ולמנות שבעה נקיים: הגה יש אומרים דבשלשה ימים ראשונים של ימי הספירה אם מצאה כתם אין תולין אותו להקל כמו שתולין שאר כתמים דג' ימים ראשונים צריכים להיות נקיים לגמרי (מרדכי הל' נדה ובהגהות מיימוני פ\"ט דא\"ב ומרדכי ות\"ה סימן רמ\"ט ואגור פ' תינוקת וא\"ח ור\"ף) אבל אח\"כ דינו כשאר כתם וכן נוהגין ודוקא כתם שהוא יותר מכגריס ועוד אבל פחות מכגריס ועוד תולה בכינה אפילו ג' ימים ראשונים (ת\"ה שם) וה\"ה אם היה לה מכה בגופה ויודעת שמוציאה דם תולה בה אפילו ביתר מכגריס ועוד (סברת הרב וכן משמע לשון המרדכי) אלא שאין מקילין בשלשה ימים הראשונים לתלות במכה שאין ידוע שמוציאה דם או בשאר דברים שתלינן בהם כתם כמבואר לעיל סימן ק\"צ:",
+      "en": "The seven blood-free days must be consecutive days on which she does not see blood. If she saw blood even at the end of the seventh day, all the previous days are cancelled and she must do a hefsek tahara to re-establish her status and start counting a full seven blood-free days again. [Gloss: There are authorities who say that during the first three days of her seven blood-free days if she finds a stain we do not attempt to hang it on an outside source in order to be lenient in the way that we attempt to hang other stains, because the first three days should be completely clean, but on the subsequent days stains which are found may be treated like all other stains, and this is the way we behave. And this is specifically referring to a stain which is larger than the size of a \"gris and more\", but a stain which is smaller than this size can be blamed on a louse even within the first three days. This is also true if she has a wound on her body which she knows is actively bleeding, in this case she would be able to blame a stain which is larger than a \"gris and more\" on this wound. During the first three days, however, we would not blame a stain on a wound which she is not sure whether it is actively bleeding or on other things which we would normally attempt to blame a stain on, as is outlined in Section 190 above.]",
+      "ref": "Shulchan Arukh, Yoreh Deah 196:10"
+    },
+    {
+      "seif": 11,
+      "he": "הפולטת שכבת זרע בימי ספירתה אם הוא תוך ו' עונות לשמושה סותרת אותו יום לפיכך המשמשת מטתה וראתה אחר כך ופסקה אינה מתחלת לספור ז' נקיים עד שיעברו עליה ו' עונות שלימות שמא תפלוט לפיכך אינה מתחלת לספור עד יום ה' לשמושה כגון אם שמשה במוצאי שבת אינה מתחלת לספור עד יום ה' דקי\"ל אין שכבת זרע מסריח עד שיעברו עליו שש עונות שלימות מעת לעת ואם שמשה במוצאי שבת ופלטה ליל ד' קודם עת שימושה במוצאי שבת עדיין היא עומדת בתוך עונה ששית לשמושה וסותרת הילכך יום ה' יהיה ראשון לספירתה: הגה ותפסוק יום ד' לעת ערב ויום ה' עולה למנין ויש שכתבו שיש להמתין עוד יום א' דהיינו שלא תתחיל למנות עד יום הששי והוא יהיה יום ראשון לספירתה דחיישינן שמא תשמש ביום ראשון בין השמשות ותסבור שהוא יום ואפשר שהוא לילה ואם תתחיל למנות מיום חמישי יהיה תוך ששה עונות לשמושה על כן יש להוסיף עוד יום א' דמעתה אי אפשר לבא לידי טעות (ת\"ה סימן רמ\"ה והאגור בשם מהרי\"ל וש\"ד וכן כתב מהרא\"י ומהרי\"ק שורש ל\"ה) וכן נוהגין בכל מדינות אלו ואין לשנות ויש נשים שנהגו להחמיר עוד להמתין עד שבעה ימים (שם בת\"ה) ואין טעם בדבר והמחמיר יחמיר והמיקל נשכר להקדים עצמו למצוה ויש שכתבו שעכשיו אין לחלק בין שמשה עם בעלה ללא שמשה וכל אשה שרואה אפי' כתם צריכה להמתין ה' ימים עם יום שראתה בו ותפסוק לעת ערב ותספור ז' נקיים (שם בת\"ה בשם א\"ז ומהרי\"ק) וכן נוהגין במדינות אלו ואין לשנות (סה\"ת וסמ\"ג):",
+      "en": "Si, pendant qu’elle compte ses sept jours, une femme perd un germe, soit par exemple après le cinquième jour, elle ne peut finir de compter ses sept jours, mais doit attendre trois jours, comme lorsqu’il s’agit de la menstruation, puis compter sept jours après ces trois jours écoulés. Si, le lendemain d’un moment de vie intime, la femme a une perte, elle doit également compter trois jours, puis à nouveau sept jours, avant la purification. Par exemple, le moment de vie intime a eu lieu le samedi soir et la femme a eu une perte le lendemain, elle ne doit pas commencer à compter ses sept jours avant le jeudi suivant; mais si, après un moment de vie intime le samedi soir, elle a eu une perte le mercredi suivant, elle peut commencer à compter ses sept jours à partir du lendemain, c’est-à-dire à partir du jeudi.GLOSE: Bien que d’après l’art. 11, en cas de perte le samedi soir ou dimanche matin, la femme ait le droit de commencer à compter ses sept jours le jeudi suivant, le jeudi faisant partie des sept jours, il faut, d’après certains docteurs, compter le jeudi dans les trois jours qui précèdent la semaine de purification, et ne commencer à compter les sept jours que du vendredi. La femme ignore en effet si le moment de vie intime a eu lieu avant ou après le coucher du soleil; or s’il a eu lieu après le coucher du soleil, il lui faut compter vingt-quatre heures de plus, et dans le doute, il vaut mieux adopter la règle la plus sévère. Il est des femmes qui, se montrant encore plus strictes, attendent sept jours avant de compter les sept jours qui précèdent la purification; elles peuvent agir ainsi, mais il vaut mieux, quand cela n’est pas nécessaire, ne pas contraindre la nature. Quand une femme a trouvé une tache sur elle, elle doit compter cinq jours avant les sept jours précédant la purification; le jour où elle a vu la tache compte dans les cinq jours.",
+      "ref": "Shulchan Arukh, Yoreh Deah 196:11"
+    },
+    {
+      "seif": 12,
+      "he": "אם טעתה במנין יום א' וטבלה ושמשה צריכה להמתין ששה עונות שלימות ואחר כך תמנה יום אחד נקי ותטבול אך סתירה שלאחר שבעה כגון שלא טבלה כראוי ושמשה  ה\"ז טובלת בכל עת:",
+      "en": "Si une femme s’est trompée en comptant ses sept jours, a fait son immersion au bout du sixième jour, et a repris la vie intime, il lui faut attendre à nouveau ses soixante-douze heures et recommencer son immersion ensuite. Si elle a bien fait son immersion au bout du septième jour, mais non de la façon prescrite, et a repris la vie conjugale, elle n’a pas à attendre un certain laps de temps, comme dans le cas précédent, mais elle doit recommencer l’immersion.",
+      "ref": "Shulchan Arukh, Yoreh Deah 196:12"
+    },
+    {
+      "seif": 13,
+      "he": "האשה ששמשה מטתה וראתה אחר כך ופסקה ורוצה לספור מיום מחרת ראייתה תקנח יפה יפה אותו מקום במוך או בבגד להפליט כל הזרע או תרחוץ במים חמין והם יפליטו כל הזרע :הגה ויש אומרים דאין אנו בקיאין בזמן הזה ואין לסמוך על זה (הגהות מיימוני פ\"ו וסמ\"ק) והכי נהוג דהרי כבר נתבאר שאנו נוהגין להמתין אפילו לא שמשה כלל כדי שלא לחלק בין ספירה לספירה כ\"ש בכהאי גוונא וכל הפורץ גדר בדברים אלו במקום שנהגו להחמיר ישכנו נחש:",
+      "en": "Si, après la vie intime, la femme a eu une perte et si elle ne veut pas compter cinq jours, mais commencer dès le lendemain à compter les sept jours qui précèdent la purification, elle peut le faire, à la condition d’essuyer parfaitement les parties d’où proviennent les pertes ou de les laver avec de l’eau chaude.GLOSE: D’aucuns disent: étant donné que de nos jours nous ne sommes plus parfaitement aptes à faire les inspections, il faut, lorsqu’une femme remarque une perte, qu’elle compte toujours cinq jours avant de compter les sept jours précédant la purification. Les personnes qui ne suivent pas cette prescription encourent la malédiction céleste.",
+      "ref": "Shulchan Arukh, Yoreh Deah 196:13"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא דרבי מאיר נדה דף ל\"ג ע\"א ד\"א יום שפוסקת בו וכו' ואע\"ג דדחי ליה שם בגמרא כתב הרא\"ש דדיחויא בעלמא והכי איתא שם דף ס\"ט ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:1"
+        },
+        "2": {
+          "he": "טור וש\"פ והרא\"ש בפסקיו בפ\"י דנדה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:2"
+        },
+        "3": {
+          "he": "לשון הרשב\"א בת\"ה הקצר:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:3"
+        },
+        "4": {
+          "he": "גם הטור כ\"כ בשם אביו הרא\"ש:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:4"
+        },
+        "5": {
+          "he": "לשון הרשב\"א שם בת\"ה וכ\"כ הטור בשם אביו וכסברת ר' בברייתא שם דף ס\"ח ע\"ב כיון דפסק פסק: (°) פירוש הואיל ומעיינה פתוח עדיין:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:5"
+        },
+        "6": {
+          "he": "טור בשם אביו הרא\"ש וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:6"
+        },
+        "7": {
+          "he": "מרדכי בשם הרוקח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:7"
+        },
+        "8": {
+          "he": "ממשנה שם דף ס\"ח ע\"ב דלא פליגי תנאי אלא בדיעבד אבל לכתחילה צריכה בדיקה כל יום וכ\"כ הרא\"ש שם בפסקיו והתוספות שם דף ז' בד\"ה ר\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:8"
+        },
+        "9": {
+          "he": "טור בשם סמ\"ג ממשנה שם דף י\"א ע\"א ואע\"ג דאסיקנא שם דלא אמרו אלא לטהרות ה\"ה במקום שצריכה ז' נקיים דהיא בחזקת טמאה כמו לטהרות לאחר שטבלה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:9"
+        },
+        "10": {
+          "he": "כר\"א שם במשנה וכרב שם דף ס\"ט ע\"א ממסקנת הרא\"ש שם וכן כתב הרשב\"א בת\"ה וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:10"
+        },
+        "11": {
+          "he": "הרא\"ש שם בשם הראב\"ד וכ\"כ הרשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:11"
+        },
+        "12": {
+          "he": "טור והרא\"ש שם דבדיקה תוך ז' בעינן וש\"פ דאפילו רב מודה בזה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:12"
+        },
+        "13": {
+          "he": "סמ\"ג דכיון דלא נתברר הלכה כדברי מי ראוי להחמיר כדברי רבי חנינא שם וכ\"כ בסה\"ת (ואגור בשם תוספות פ\"ק דביצה והגמ\"יי בשם רמב\"ן ורבי שמחה וש\"ד סי' י\"ח):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:13"
+        },
+        "14": {
+          "he": "טור וכ\"כ הרשב\"א ופשוט הוא ממשנה דלעיל דף ס\"ט:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:14"
+        },
+        "15": {
+          "he": "מימרא דרבא שם דף י\"ז ע\"א וכשינויא בתרא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:15"
+        },
+        "16": {
+          "he": "מימרא דשמואל שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:16"
+        },
+        "17": {
+          "he": "הרא\"ש שם בפ\"י דנדה והרשב\"א בת\"ה ממשמעות הבעיא דרב אבא מרב הונא שם דף י\"ב ע\"א וש\"פ ומימרא דרב יהודה וכו' וכדמפרש רב קטינא שם דף ה' ע\"א (וטור ורבינו ירוחם) וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:17"
+        },
+        "18": {
+          "he": "ב\"י (עשה כן פשרה בין הפוסקים ע\"ש):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:18"
+        },
+        "19": {
+          "he": "משנה וגמרא שם דף י\"ג ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:19"
+        },
+        "20": {
+          "he": "בברייתא שם וה\"ה וטור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:20"
+        },
+        "21": {
+          "he": "שם במשנה וכדמפרש שם בגמרא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:21"
+        },
+        "22": {
+          "he": "טור וכ\"כ הרמב\"ן בהלכותיו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:22"
+        },
+        "23": {
+          "he": "משנה שם ריש ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:23"
+        },
+        "24": {
+          "he": "מימרא דרבא שם דף ל\"ז ע\"א ובברייתא שם דף ס\"ז ע\"ב וכת\"ק [וגם ר\"ש מודה בזה]: (°) מטעם שכתבתי לעיל בהג\"ה סעיף ב':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:24"
+        },
+        "25": {
+          "he": "כן כתבו התוספות אהא דבעי רמי בר חמא וכו' שם דף ל\"ג ע\"א ושכ\"פ ר\"ח וכן כתב הרא\"ש שם בשם ה\"ר יונה וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:25"
+        },
+        "26": {
+          "he": "סמ\"ק:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:26"
+        },
+        "27": {
+          "he": "הרא\"ש אהא דציינתי בסעיף י\"א שם בפסקיו ממשנה דף פ\"ח דמקואות: (°) מטעם זה נהגו הנשים שלא ילכו לבית המרחץ בג' ימים אחר הטבילה משום דרוב נשים יהיו מעוברות אחר טבילתן ולפיכך אילו היו נכנסות למרחץ בתוך ג' ימים טרם שיסריח הזרע היו המים מפליטין ממנה כל הזרע:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 196:27"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "כדי שתפסוק בטהרה. בין השמשות:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:1"
+        },
+        "2": {
+          "he": "רק שחרית כו. היינו מיום ב' מראייתה ואילך כדלקמן ס\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:2"
+        },
+        "3": {
+          "he": "מאחר דהקהל כבר עשו כו'. אע\"פ שעדיין היא לא התפללה ערבית. ת\"ה שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:3"
+        },
+        "4": {
+          "he": "אפילו עשו הקהל שבת. כי ההיא תוספת לא שייך לענין נדה וצריך כ\"ד שעות וכן איתא בפרק נערה (כתובות דף מ\"ז ע\"א) בתוספות ד\"ה דמסר לה בשבתות ויום טוב וכן יש ראיה מספירת עומר דלא חשבינן ללילה אפילו בע\"ש דתוספת שבת דאורייתא וכן מאכיל' מצה ופסח וסוכה עכ\"ל האגור בשם מהרי\"ל משמע מדבריו ומכל הלין ראיות דאע\"פ שהתפללה היא ג\"כ ועשתה שבת מותר (וכן דעת אחד מהגדולים בתשובה שהביא הת\"ה שם דאפילו התפללה היא ערבית מותר עי\"ש בת\"ה) ולפי זה מה שכ' הרב דאפי' עשו הקהל שבת ה\"ק אפילו עשו הקהל גם כן שבת וגם היא והגאון אמ\"ו ז\"ל לא כתב כן בתשובה אלא כתב דלהרב אם התפללה היא ערבית אין להקל אפי' דיעבד כדלקמן ס\"ס שע\"ה וע\"ש (וכ\"נ דעת מהרש\"ל בתשובה סימן ע\"ב שהבאתי לקמן ס\"ק י\"ט) ש\"מ מבואר מהאגור שהבאתי דאף להמקילים היינו עד כ\"ד שעות וא\"כ כשהיום גדול כל כך חשבינן יום ולילה שוים וכמש\"ל סי' קפ\"ד ס\"ק ז') אבל בתר הכי לכ\"ע אסור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:4"
+        },
+        "5": {
+          "he": "ומקצת נשים כו' תוך ימי ספירתה כו'. כתב הב\"ח משמע מדבריו דוקא תוך ימי ספירתה אבל בתחילת ספירתה אם ראתה דם אחר ברכו אע\"פ שעוד היום גדול אינה מפסקת בטהרה היום אלא ביום המחרת וליתא אלא אף בתחלת ספירתה מפסקת בטהרה אפילו אם ראתה דם סמוך לערב כו' ולפעד\"נ דגם להרב אפי' אם ראתה דם סמוך לערב מפסקת (אחר) [קודם] ברכו בתחילת ספירתה וה\"ק אפי' פסקה קודם ברכו לא אמרינן כיון דפסקה קודם ברכו א\"כ חשיב אחר ברכו לדידה לילה אלא אם נתקלקלה אח\"כ מפסקת אפילו לאחר ברכו והיינו שכתב הרב ובדיעבד אין לחוש ואם היא רואה דם עד סמוך לערב פשיטא דאין דיעבד גדול מזה ומתחלת להפסיק אחר ברכו ומה שכתב ונוהגים לכתחלה ליזהר היינו היכא דאפשר כגון שאינה רואה דם קודם ברכו וק\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:5"
+        },
+        "6": {
+          "he": "רק יום א'. ומעיינה פתוח וכתוב בספר מעדני מלך דף ש' ע\"א וז\"ל וא\"ת ולדידן מאי נ\"מ הא אפילו אשה שרואה כתם נוהגין שצריכה להמתין ה' ימים עם יום שראתה בו ואחר כך תפסוק ותספור ז' נקיים (כדלקמן סי\"א) ונ\"ל דנ\"מ להיכא דחזרה וראתה בתוך ימי הספירה דכיון שלא ראתה רק יום א' בימי הספירה בדיקת שחרית לא מהני אפילו בדיעבד אבל לא ראתה רק כתם אפשר להקל בין בימי הספירה בין בתחילה ע\"כ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:6"
+        },
+        "7": {
+          "he": "ומנהג כשר הוא כו'. וע\"ל סי' קצ\"ט ס\"ק י\"ב מדין לבישת לבנים בשבת ויו\"ט וט\"ב ואבילות ויוה\"כ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:7"
+        },
+        "8": {
+          "he": "אלא פעם אחת. תוך הז' נקיים מלבד הבדיק' דהפסק טהרה דלעיל סעיף א':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:8"
+        },
+        "9": {
+          "he": "בדקה עצמה כו'. וה\"ה אם ראתה ולא בדקה עצמה ביום שפסקה מלראות ובדקה לאחר ג' או ד' ימים ומצאה טהורה ה\"ה בחזקת טמאה עד שפסקה בטהרה כדאיתא בטור ורשב\"א ופוסקים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:9"
+        },
+        "10": {
+          "he": "ולקבוע להן וסתות כו'. ע\"ל סי' קפ\"ט מקביעות הוסתות:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:10"
+        },
+        "11": {
+          "he": "האשה שמרבה כו'. וע\"ל סימן קפ\"ד ס\"ק ד':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:11"
+        },
+        "12": {
+          "he": "אפי' בסוף יום הז' כו'. וה\"ה ביום הח' דלעולם צריכה לישב ז' נקיים סמוך לטבילתה וזה פשוט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:12"
+        },
+        "13": {
+          "he": "י\"א דבג' כו'. ז\"ל ד\"מ במרדכי אם סופרת תוך ז' ימים נקיים מסתברא מג' ימים ואילך הכתמים טהורים אם יש לתלות במכה או בחבורה או בצפור ואינה אוסרת אבל צריכה לידע בודאי שפסק דם המקור לגמרי לכך צריך שיהא ג' ימים הראשונים של ספירת נקיים טהורים לגמרי (ובמרדכי שם איתא מסה\"ת קצרתי) עכ\"ל וכן הוא בהגמ\"י פ\"ט מהא\"ב ונ\"ל דהא דלא תלינן במכה בשלשה ימים הראשונים דוקא במכה שאינה ידוע שמוציאה דם דתלינן בה שאר כתם כדלעיל סי' קפ\"ז (ס\"ה) וכ\"מ מלשון המרדכי דע\"ז קאי אבל במכה שידוע שמוציא' דם נ\"ל דתלינן בה אף בג' ימים הראשוני' דהא אפי' רואה ממש תלינן לעיל סי' קפ\"ז במכה שמוציאה דם כ\"ש כתמים דרבנן וא\"ל דשאני ברואה ממש דהוא תחלת ראיה ולכך תלינן במכה ואמרי' דמעיינה סתום עדיין ולא ראתה אבל תוך ספירתה שמעיינה פתוח כבר לא תלינן במכה כלל זה אינו דהרי כתבתי לעיל סימן קפ\"ז דיש סוברים בשעת וסתה תלינן במכה הואיל ווסתות דרבנן אם כן כתמים נמי שהן מדרבנן תלינן במכה ואפילו למאן דמחמיר בשעת וסתה היינו הואיל ואיכא למאן דאמר וסתות דאורייתא אבל כתמים שהן דרבנן לכ\"ע תלינן במכה שידוע שמוציאה דם כנ\"ל לצדד להקל משום דלא חילקו שאר הפוסקים בין כתם שרואה בימי הספירה לשאר כתם אם כן משמע דס\"ל דאפי' תוך ג' ימים תלינן כתם בכל מקום שיש לתלות וכ\"כ לעיל סימן ק\"צ (סמ\"א) בשם ב\"י בשם רשב\"א דתלינן כתם אף בימי ספירתה ואפשר דסה\"ת והמרדכי לא החמירו אלא לחומרא בעלמא דהרי כתב בת\"ה סימן רמ\"ט טעמא דלא תלינן בג' ימים הראשונים הואיל ואפשר ליזהר כו' ואם היה אסור מדינא לא שייך לחלק משום שאפשר ליזהר אלא ודאי לא החמירו אלא משום שאפשר ליזהר אבל במקום דאי אפשר ליזהר אין להחמיר ולכן התיר בכתם בפחות מכגריס ועוד שתלינן בכינה כן נ\"ל דאין להחמיר במכה שידוע שמוציאה דם עכ\"ל ד\"מ וכל דבריו צל\"ע מה שכתב ונראה לי דלא תלינן כו' וכ\"מ לשון המרדכי כו' אדרבה פשט דברי המרדכי דמסתים סתים לה משמע דבכל מכה איירי ועוד דהא אפילו בנתעסקה בדם צפור לא תלינן בה אע\"פ שיש דם לפנינו כל שכן במכה שמוציאה דם ולהרב צריך לחלק דשאני דם צפור שהוא ממקום אחר מה שאין כן מכה שבגופה שאי אפשר ליזהר וזה אינו משמע ועוד דהא הם דברי סה\"ת והג\"מ ופשטן של דברי סה\"ת והג\"מ משמע דאפילו ממכה שידוע שמוציאה דם לא תלינן דכתבו אם יש לה מכה באותו מקום תולה בה כתמה אפילו אינה יודעת אם היא מוציאה דם או לאו כו' ואם סופרת ז' נקיים כו' לכך צריכה שיהיו שלשה ימים הראשונים של ספירה נקיים לגמרי עכ\"ל ומדכתבו ברישא אפי' אינה יודעת שמכתה מוציאה דם משמע דכל שכן כשיודעת ואם כן כיון דרישא בכל גווני סיפא נמי בכל גווני מיירי ועוד מדתלו הפוסקים טעמא שצריכה שתדע בודאי שפסק דם המקור משמע דבג' ימים הראשונים שאינה יודעת בודאי שפסק דם מקורה בכל ענין לא תלינן במכה והכי משמע להדיא בב\"ה סימן ק\"צ בשם הא\"ח וז\"ל כתב הר\"מ אשה מוכת שחין דבר פשוט הוא שכתמיה טהורים דכיון דשיחני וכיבי שבה ודאי מפקי דמא ונצבעים בה סדינים וחלוקה ואפילו בשעת וסתה וכ\"ש בימי לבונה תלינן בה והגיה עליו הר\"ף וה\"מ לאחר שלשה ללבונה אבל תוך שלשה לא תלינן עכ\"ל ודברי הר\"מ והר\"ף אלו הם בתשב\"ץ סימן תפ\"א אלמא דאע\"ג דודאי מפקי דמא לא תלינן תוך שלשה והא א\"ל שכתב הרב לחלק בין מעיינה סתום או פתוח ודאי קושטא והכי משמע מדכתבו הפוסקים שצריכה שתדע בודאי שפסק דם מקורה ומ\"ש זה אינו דהרי כתבתי לעיל דיש סוברים כו' אינה סתירה דמ\"מ התם אינו ידוע שמעיינה פתוח מה שאין כן הכא ותו דהא התם קי\"ל דבשעת וסתה לא תלינן במכתה אפילו ידוע שמוציאה דם וכמ\"ש שם בס\"ק כ\"ו ומ\"ש הרב היינו הואיל ואיכא למ\"ד וסתות דאורייתא כו' ודאי ליתא דהא ודאי רשב\"ג דסובר וסתות דרבנן נמי סבר הכי מטעם ההוכחה דאל\"כ לעולם לא תהיה טמאה וכמ\"ש שם בס\"ק הנ\"ל ויותר ה\"ל להרב לומר דאפי' מאן דמחמיר התם היינו משום דאם לא כן לעולם לא תהיה טמאה מה שאין כן הכא אבל כל זה אינו במשמע אלא איפכא מסתברא דהכא כיון דמעיינה פתוח לכ\"ע צריכה שתדע בודאי שפסק דם מקורה ומ\"ש כן נ\"ל לצדד להקל משום דשאר הפוסקים לא חילקו כו' אין זה כדאי להקל דהא בכמה מקומות מצינו כה\"ג אפי' היכא שמקצת פוסקים מקילין ושאר פוסקים סתמו דבריהם ואמרינן ילמד הסתום מן המפורש כ\"ש הכא שהמפרשים מחמירים ועוד מי לנו גדול מסה\"ת ומרדכי והג\"ה וכ\"ש שגם הר\"ף והא\"ח ות\"ה מסכימים לדבריהם וכ\"פ האגודה פרק תינוקת סי' ל\"ט ומ\"ש וכ\"כ לעיל סי' ק\"צ בשם רשב\"א כו' י\"ל דהרשב\"א מיירי אחר שלשה ולא עדיפי דברי הרשב\"א מדברי הר\"מ שכ' בימי לבונה תלינן להקל ופירשו הר\"ף לאחר ג' ואפילו יחלוק הרשב\"א בזה יחיד הוא נגד כל הני רבוותא בפרט שהן מחמירים ומ\"ש ואפשר דלא החמירו אלא לחומרא בעלמא דהא כתב בת\"ה סימן רמ\"ט כו' לא ידענא מאי הוכחה היא זו דת\"ה לא כתב שם אלא דפחות מכגריס ועוד תלינן בכינה הואיל ושכיח טובא וא\"א ליזהר א\"כ אין לך אשה שתוכל לספור שבעה נקיים מה שאין כן במכה אבל ודאי טעמא הוא משום שצריכה בודאי לידע שפסק דם מקורה שוב מצאתי בב\"ח ס\"ס ק\"ץ שכתב באשה שהיא מוכת שחין כיון שהדם יוצא תמיד מהשחין שבגופה ונכתם בסדיני' וחלוקה יש לתלות אף בשלשה ימים הראשונים דאל\"כ לא תוכל לספור שבעה נקיים לעולם ול\"ד לחבורה שבגופה שמוציאה דם ואפילו הכי לא תלי' בה ג' ימים הראשונים דשאני חבורה א' שהיה מכוסה באספלנית שאינה מוציאה דם אלא לפעמים דומיא דמכה שבאותו מקום דכתב סה\"ת דלפעמים מוציאה דם אבל מוכת שחין דכל שעה יוצא ממנה דם דמיא למאכולת דתלינן בה אף בשלשה ימים הראשונים וכו' ומכל מקום הכל לפי ענין השחין ודוק עכ\"ל מבואר מדבריו דאין להקל אלא במלאה שיחני וכיבי ודם יוצא ממנה תמיד הא לאו הכי אפילו ידוע שמכתה מוציאה דם אין להקל וכ\"מ בס' אפי רברבי שהעתיק כל הדברים שבסי' זה רק דין זה שכתב הרב דבמכה שמוציאה דם תולין אף בשלשה ימים הראשונים השמיט רק כתב סתמא שאין תולין כתם כגריס ועוד בשום דבר בשלשה ימים הראשונים ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:13"
+        },
+        "14": {
+          "he": "ו' עונות. ועונה הוא י\"ב שעות:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:14"
+        },
+        "15": {
+          "he": "שמא תפלוט. ולא תרגיש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:15"
+        },
+        "16": {
+          "he": "עד יום ה'. דעד אותו היום חיישינן לכל יום ויום שמא תפלוט או שמא תפלוט כל השלשה ימים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:16"
+        },
+        "17": {
+          "he": "מע\"ל. כלומר ע\"ב שעות:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:17"
+        },
+        "18": {
+          "he": "וסותרת. כלומר אע\"פ ששלמו הו' עונות בתחלת ליל ד' אחר שימושה במ\"ש מ\"מ כיון שפלטה בתחלת ליל ד' קודם שימושה במ\"ש א\"כ סותרת אותו יום והיינו כל יום ד' ומתחלת לספור מיום ה':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:18"
+        },
+        "19": {
+          "he": "עד יום ו' כו'. וכ' מהרש\"ל בתשובה סי' פ\"ב דלפי מנהג זה אם ראתה אחר ערבית ביום א' ועדיין הוא יום יכולה ללבוש בגדים נקיים בסוף יום ה' ומונה מיום ו' ואין ספיקא בדבר (ומשמע מדבריו דאע\"פ שהתפללה היא גם כן ערבית) אבל לפי מנהג המקומות של הט\"ו שלובשים לבנים ביום (א) [ד] לראייתם ומתחילין למנות מיום ה' צ\"ע בדבר כו' ואינו דומה למ\"ש מהרא\"י בתשובה שאין אשה יכולה להפסיק בטהרה אחר שהתפללו הקהל ערבית דשאני הכא שבא לה הסבה מן השמים ואין שייך לומר שה\"ל להקדים או לאחר מה שאין כן בהפסקת טהרה כו'. ומ\"מ נראה די לנו בזה שנחמיר היכא שהתפללה כבר ערבית ועשתה אותו כבר לילה אבל היכא שלא התפללה אפילו התפללו כבר ערבית הקהל לא נחמיר כה\"ג לחושבו לילה מאחר שבאה לה הסבה מן השמים כו' עכ\"ל ונראה דנמשך לדברי מהרא\"י דלעיל סעיף א' אבל למש\"ל ס\"ק ד' דדעת מהרי\"ל והרב בהפסקת טהרה להקל אפילו התפללה היא וכ\"ש הכא וק\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:19"
+        },
+        "20": {
+          "he": "ללא שמשה. דלא פלוג רבנן וגזרי' לא שמשה אטו שמשה ואע\"ג דשמשה גופה גזירה היא אטו בין השמשות חששא דביה\"ש פשוט' היא וחששו בה רבנן טובא בכמה דוכתי. ת\"ה. וכ' הב\"ח מיהו היינו דוקא כשבעלה בעיר אבל כשאין בעלה בעיר יש להקל דמיד שתפסוק בטהרה סמוך לבין השמשות תמנה למחרתו ואע\"ג דבת\"ה משמע מלשון השאלה שהיה שואל להחמיר אף כשאין בעלה בעיר מכל מקום מלשון התשובה שלא הזכיר שם להחמיר בזה משמע קצת דבהכי יש להקל עכ\"ל ואין דבריו נראין דהלא נודע שהשאלות שבת\"ה עשה מהרא\"י בעל התשובות עצמו ולא ששאלוהו אחרים כמו בפסקי כתביו ועוד דא\"כ אמאי לא פשיט מידי אשאלה זו אלא הדבר פשוט כיון דבשאלה משוה להדיא אין בעלה בעיר ללא שמשה א\"כ גם בתשובה הוא כן גם בתשובת מהרי\"ק סי' ל\"ה כתב שהנשים מחמירין אפי' אין בעליהן בעיר וכן המנהג פשוט במדינו' אלו. וגדולה מזו נוהגים, שאפי' כלה אינה סופרת ז' נקיים עד יום ה' לראייתה אע\"פ שעדיין לא בא החתן לעיר אע\"פ שלפי דעתי אין להחמיר בזה כלל ולא נזכר בשום פוסק קדמון או אחרון מ\"מ לא יהא אלא כדברים המותרים ואחרים נהגו בו איסור כו' ומ\"מ בשעת הדחק יש להתיר להכלה שמיד שתפסוק בטהרה תספור ז' נקיים דבהכי עדיף טפי ממה שנוהגין שנשאת כשהיא נדה שהרמב\"ם פסק שלא תנשא כלל עד שתטהר ואע\"ג דאנן לא מדקדקים בהכי וכמ\"ש הרב בא\"ע ס\"ס ס\"א מ\"מ ודאי היכא דאפשר בטהרה טפי עדיף. כן נ\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:20"
+        },
+        "21": {
+          "he": "וכל אשה שרואה כתם כו'. נראה דבכתם יש להקל היכא דלא שמשה למנות מיום המחרת של מציאת הכתם דהא הך דלא שמשה גופה גזירה רחוקה היא וגם הב\"י כתב דבמקומו לא נהגו בגזרה זו הלכך י\"ל דגם הת\"ה גופיה שכתב להחמיר היינו ברואה אבל לא בכתמים דרבנן דאזלינן בהו בכמה דוכתי לקולא שהרי לא הזכיר שם כתם כלל ואפשר לזה לא כתב הרב האי ויש שכתבו שעכשיו כו' אחר דין הכתם אלא אחר דין רואה אבל עט\"ז כ' יש שכתבו שכל אשה אפילו רואה כתם כחרדל (נ\"ל להגיה או טפת דם כחרדל אבל כתם צריך כגריס ועוד כדלעיל סימן ק\"צ) בין שמשה בין לא שמשה צריכה להמתין כו' וכן נוהגין:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:21"
+        },
+        "22": {
+          "he": "צריכה להמתין ה' ימים כו'. היינו מתחלתה ומשום טעמא דש\"ז אבל אם תוך ימי ספירתה או אחר ה' ימים נתקלקלה וחזרה וראתה דם או כתם פוסקת באותו יום בטהרה ומונה למחרת וזה פשוט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:22"
+        },
+        "23": {
+          "he": "צריכה להמתין כו'. דשמא תפלוט בג' ימים שאחר התשמיש וא\"ל דאע\"ג שתפלוט ביום הב' מכל מקום סתירה דלאחר ז' לאו סתירה היא י\"ל דחיישינן שמא תפלוט גם ביום א' שאחר התשמיש א\"כ לא יהיו ז' נקיים רצופים ולא הוי סתירה דלאחר ז' וק\"ל ומשמע דהכא לא נהגינן להחמיר משום גזירה דבין השמשות וטובלת מיד אחר ד' ימים ויום א' נקי דהיינו אחר ה' ימים דלא שכיח שתטעה במנין ובמלתא דלא שכיחא לא גזרו רבנן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:23"
+        },
+        "24": {
+          "he": "שלאחר ז' כו'. ובב\"י כ' בשם הרא\"ש דבטבלה ליל ז' ושמשה ביום ז' נמי לאו סתירה היא וטובלת מיד לאחר ז' כיון שפלטה כשהאיר היום ז' וכתב אם באנו להסכים דברי הסמ\"ק להרא\"ש יש לומר דמה שכ' הסמ\"ק סתירה דלאחר ז' לאו סתירה היא היינו לאחר ליל ז' וע\"ש וצ\"ע לדינא דפשט דברי הסמ\"ק משמע לאחר ז' דוקא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:24"
+        },
+        "25": {
+          "he": "והכי נהוג דכבר נתבאר כו'. לא ידענא מאי ענין זה לזה דהתם לא שייך בקיאות כלל וגזרינן לא שמשה אטו שמשה ואה\"נ דבאשה לא מהני רחיצה וקינוח דלא עדיף מלא שמשה כלל והתם גזרינן במלתא דשכיח אבל מ\"מ נ\"מ ברחיצה וקינוח בדין שנזכר בסעיף הקודם בשכחה יום א' שצריכה להמתין ו' עונות דמהני רחיצה וקינוח דתמנה מיד אחר שתשלים היום ששכחה ודוק ונראה דגם הרב מודה בזה ומיירי בסתם אשה ומ\"מ לענין דינא בלאו הכי כיון דהסמ\"ק והג\"מ כתבו דאין אנו בקיאין אין להקל לכתחלה וכ\"פ הב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 196:25"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "ונוהגי' לכתחלה ליזהר כו'. רש\"ל בתשובה סי' פ\"ב כתב דכיון שנשים שלנו מתחילין למנות מיום ו' כמ\"ש בסעיף י\"א פשיטא שיכולה למנות אפילו אחר תפלת ערבית:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 196:1"
+        },
+        "2": {
+          "he": "הואיל ולא ראתה רק יום א'. הטעם הואיל ומעיינה פתוח ביום ההוא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 196:2"
+        },
+        "3": {
+          "he": "צריך שיהיו רצופים כו'. בב\"י כתוב דאין מזה נפקותא אלא לדין התלמוד שהיה חילוק בין נדה לזיבה אבל האידנא אחר חומרא דרבי זירא דכל אשה שרואה אפילו טיפה כחרדל צריכה לישב שבעה נקיים אין נפקותא מדין זה דאע\"פ שאינה סותרת הרי צריכה לישב ז' נקיים מחמת ראי' דעכשיו והוא דוחק גדול שיכתוב הטור דין לפי התלמוד גם בש\"ע כתבו בעל ב\"י וע\"כ שיש בו איזה נפקותא מיניה ונראה לי דיש בו נפקותא אף לדידן לפי מה דקי\"ל דאשה שיש לה וסת אינה צריכה בדיקה כלל כמ\"ש ריש סימן קפ\"ז והטעם דאז היא בחזקת טהרה מה שאין כן בז' הנקיים קי\"ל כאן דלכתחלה צריכה בדיקה והטעם דהיא בחזקת טמאה עד שיצאו הז' נקיים ע\"כ קמ\"ל כאן דחזקת טומאה עליה עד שיכלו ז' רצופין דלא תימא בהגיע קץ הז' נקיים הרי שבה לחזקת טהרה ואינה צריכה בדיקה אפי' לכתחלה קמ\"ל דאפילו אם תראה בסוף הז' נקיים ממש תסתור הכל אם כן עדיין חזקתה הראשונה עליה וצריכה בדיק' לכתחלה גם בעת ההיא כנלע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 196:3"
+        },
+        "4": {
+          "he": "אבל פחות מכגריס וכו'. בב\"י בשם ת\"ה כתב וז\"ל אבל בפחות מכן דאינה צריכה לתלותו בחבורה או מכה אלא בדם מאכולת ודאי תלינן לעולם דאל\"כ אין שום אשה יכולה לטהר כדאיתא פרק הרואה דאין לך אשה שאין עליה כמה טיפי דמי' של מאכולת עכ\"ל וכ' רמ\"א בד\"מ דהא דלא תלינן בחבור' ע\"כ חומרא בעלמא הוא דאי מדינא מאי איכפת לן באי אפשר לטהר או לא והוכיח דמדינא תלינן אפילו בשלשה ימים ראשונים דהא אפילו ברואה ממש תלינן במכה שיש לה באותו מקום ומסיק שם כן נ\"ל להלכה אבל למעשה יש להחמיר לכתחלה במכה עוברת בימים מועטים דגם זה מיקרי אפשר להיזהר ע\"כ ומ\"מ כתב כאן להתיר במכה שיודעת ודאי שמוציאה דם ונראה דמה שהביא בד\"מ ראיה מרואה ממש לאו ראיה היא דהתם אית לה חזקת טהרה תחלה ואתה בא לטמאותה על כן תלינן במכה משא\"כ כאן שהיא כבר טמאה ואתה צריך לטהרה על כן צריך לך חזקה ברורה לטהרה להוציאה מן החזקה של טומאה הקודמת משום הכי בעינן ג' ימים נקיים לגמרי דאז יש חזקה לטהרה בג' ימים אלא דבפחות מכגריס א\"א בעולם להזהר בזה לא גזרו רבנן דדבר זה אינו רק מדרבנן כיון שאינה מרגשת ביציאת הדם כדלעיל וכן בההיא דמוכת שחין שהעתקתי בס\"ס ק\"ץ א\"א ליזהר ממנה וכן נראה במכה שיש לה בגופה כל שאפשר לה להזהר שלא תלכלך עצמה מדם ולא עשתה כן אין לה לתלות באותה מכה משא\"כ במכה שא\"א לה להזהר שפיר תולה בה וגם דברי רמ\"א כאן בש\"ע יש כוון לזה. ומו\"ח ז\"ל העתיק בשם בדק הבית לב\"י שכתב על ההיא דמוכת שחין בשם הר\"ף דבשלשה ימים הראשונים אין תולה בשחין ומסיק מו\"ח ז\"ל דהכל לפי השחין והיינו כפי הדרך שכתבתי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 196:4"
+        },
+        "5": {
+          "he": "אין שכבת זרע מסריח כו'. פי' ואחר שהוא מסריח אע\"פ שפולטת אותו הרי היא כפולטת מיא בעלמא וע\"כ הצריכו שתמתין ו' עונות שלימות היינו כל עונה היא כשיעור יום או לילה דהיינו י\"ב שעות וע\"כ אם שמשה במ\"ש דרך משל ב' שעות בלילה ותתחיל למנות שבעה נקיים מן יום ד' הרי לא כלו הו' עונות עד ליל ד' ב' שעות בה וא\"כ איך תמנה היום הד' ליום נקי דהא אפשר שתפלוט באותן ב' שעות של תחלת הלילה ועדיין השכבת זרע אינו מסריח וכל יום נקי צריך שיהיה כולו נקי הן בלילה הן ביום שבו ע\"כ לא תתחיל למנות אלא מיום ה' כל ששמשה בליל מוצאי שבת אלא שיש עוד חומרא א' דהיינו אם נבעלה במ\"ש בליל' אם נתיר לה למנות מיום ה' אתי למטעי באם תשמש ביום הראשון בבין השמשות שלו והיא תסבור שעדיין יום הוא נמצא שלפי זה יהיו כלים ו' עונות שלה בסוף יום ד' ולילה שלאחריו יהיה להתחלת נקיים כיון שעדיין יום הוא ואנן חושבין מעת לעת ותתחיל למנות מיו' החמישי ובאמת היה אז לילה ולא כלו ו' עונו' שלה עד תחלת הלילה של יום ה' ושמא תפלוט ש\"ז באותה תחילת הלילה נמצא שצריכה למנות מיום הו' כי יום החמישי אינו נקי בבירור מהפלטת ש\"ז בתחלתו ע\"כ החמירו האחרונים בכל אשה המשמשת באיזה יום שיהיה חשבינן לה כאלו שמשה ביום שלאחריו מ\"ה אם שמשה במ\"ש תמנה מיום הו' כאלו שמשה בסוף יום א' בין השמשות שאז היא מוכרחת למנות מיום הששי מכח ספק ונתנו עליה חומרא זו בשימשה כל אותו יום הראשון אפי' תחילת הלילה שלו וכבר כתבתי בסי' קצ\"ג בשם מהר\"ל מפראג שבכלה אחר בעילת מצוה תוכל למנות מיום ה' לשימושה ורצונו לומר דלא גזרינן בה שמא תשמש באותו יום בסופו דהיינו בין השמשות ונראה טעמו כיון דאין כאן דם נדה רק דם בתולים לא החמירו בו משום תשמיש בין השמשות אבל אם באמת נבעלה בעילת מצוה בין השמשות נראה ודאי דחשבינן לה כאלו נבעלת בלילה שאחר אותו בין השמשות אפילו גבי כלה נמצא שאם נבעלה הכלה ליל מ\"ש תמנה מיום חמישי ואם נבעלה בביה\"ש של סוף יום א' תמנה מיום ו' כנלע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 196:5"
+        },
+        "6": {
+          "he": "ואין טעם בדבר. מו\"ח ז\"ל הביא טעם לדבר בשם הר\"ש מאוסטרייך דכיון דנדה דאורייתא טובלת אחר ז' ימי נדה אף שלא היו נקיים אלא שצריכה שבעה נקיים שמא היא בימי זיבה והיו נוהגים בימים קדמונים לטבול ב' פעמים אחת אחר ז' דאורייתא והשניה אחר שבעה הנקיים וזכר לאותו דבר נהגו ג\"כ להמתין י\"ד יום ע\"כ ויפה כתב רמ\"א שהמקדים עצמו מקדים למצוה ואין בטעמים כאלה כדי להרחיק טבילת מצוה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 196:6"
+        },
+        "7": {
+          "he": "אין לחלק בין שמשה כו'. הב\"י לא חש לחומרא זאת אלא אם לא שמשה אינה ממתנת כלל אלא דרמ\"א מקיים המנהג להחמיר בזה ומו\"ח ז\"ל כתב שנראה לו להקל כשאין בעלה בעיר דאין להחמיר כל כך ואשתמיטתיה תשובת מהרי\"ק שורש ל\"ה שכ' להדיא שנהגו להחמיר אפי' אין בעלה בעיר ומי יחלוק על המנהג אלא דנ\"ל קולא אחת בזה (באלמנה) [בכלה] שפירסה נדה סמוך לחופתה ואפילו אחר חופתה קודם שנתייחדה עם חתן שלה אין ממתנת כלל דבזה ודאי לא שייך למגזר לא שמשה אטו שמשה דלא באה עדיין לכלל תשמיש כלל עמו ולמה נגזור כזה. כן נ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 196:7"
+        },
+        "8": {
+          "he": "אפי' כתם. פירוש אשה טהורה שמוצאה כתם דינה כרואה ממש גם לזה אבל אשה שלבשה לבנים ומצאה כתם ואפילו רואה ממש בתוך ימים הנקיים א\"צ להמתין ו' עונות אלא מונה מחדש שבעה נקיים מיום שתוכל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 196:8"
+        },
+        "9": {
+          "he": "אם טעתה במנין יום אחד. פשוט דה\"ה נמי שני ימים שתמנה אחר הששה עונות עוד ב' ימים אלא דכולי האי לאו אורחה למטעי על כן נקט יום א':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 196:9"
+        },
+        "10": {
+          "he": "צריכה להמתין ששה עונות. כי אותן הימים שמפלטת זרע אינן עולין לה לנקיות מ\"מ אין להקשות הא איתא בסעיף י' דבעינן שבעה רצופין וכאן מפסקת בימי פליטת זרע דפליטת שכבת זרע אין סותר למפרע כדם אלא דאותן ימים עצמן אינן נחשבים לנקיים הכי איתא בגמרא. וא\"ל שמא ראתה באותן הששה עונות דם אלא שחיפהו שכבת זרע כדאיתא סי' קצ\"ג בבעילת מצוה דהתם שאני שדמים מצויי' בה מחמת הבעילה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 196:10"
+        },
+        "11": {
+          "he": "הרי זו טובלת בכל עת. שהרי היא כבר ספרה שבעה נקיים רק שמחוסרת טבילה ויש לי תמיה רבה בסעיף זה ממ\"ש בא\"ע סימן י\"ג ס\"ה גר ואשתו שנתגיירו מפרישין אותם צ' יום להבחין בין זרע שנזרע בקדושה לזרע שנזרע שלא בקדושה וה\"נ היה לנו להפריש' אחר שבא עליה באיסור כדי להבחין אם נתעברה באיסור כשטבלה שלא כראוי. ונ\"ל דהכא מיירי באשה שבעלה מצוי לה קודם לזה נמצא שאין שייך כאן הבחנה דומיא דאשה שנאנסה תחת בעלה שאינה צריכה להמתין צ' יום אם נבעלה לבעלה תחלה כמ\"ש רמ\"א שם בא\"ע סעיף ו' ולפ\"ז אם לא היה בעלה אצלה קודם למעשה זה תוך תשעים יום ממילא צריך להפריש אחר ביאה זו האסורה תשעים יום כן היה נ\"ל וצ\"ע למעשה אבל מה שכתבתי לעיל בס\"ס (קצ\"ג) [קצ\"ב] בעברה על הדין שצריכה ז' נקיים משום חימוד שא\"צ להפריש זה אינו דומה כלל לההיא דגר שזכרנו דשם אין כאן אלא איסור דרבנן לחוד כמ\"ש ר\"ס קצ\"ב:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 196:11"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "שבת. עבה\"ט מ\"ש בשם ש\"ך אבל בתר הכי לכ\"ע אסור ועי' בדגמ\"ר שהשיג ע\"ז וכתב שאין להחמיר בזה כלל אפילו לכתחלה ונראה דאף הש\"ך לא החמיר אלא כשהתפללה היא וגם הקהל ערבית וקיבלו שבת וגם בזה נראה להקל בדיעבד ע\"ש. ומה שכתב הבה\"ט וט\"ז כתב בשם רש\"ל כו' עי' בדגמ\"ר שהשיג גם על זה דמהרש\"ל מיירי (עש\"ך ס\"ק י\"ט) שהראיה שראתה היתה אחר תפלת ערבית בעוד יום ולענין אימת תלבש לבנים אם ביום חמישי לראייתה שהיה עדיין יום או חמישי מיום המחרת בזה כתב דכיון דנשים שלנו מתחילין מיום ו' יש להקל אבל כאן דמיירי בבדיקה של הפסקת טהרה אין הפרש לנשים שלנו שאם אחר תפלת ערבית לילה אין יום המחרת עולה למספר שבעה נקיים ע\"ש הדברים האלה נאמרו ונשנו בספרו תשובת נודע ביהודה תניינא סי' קל\"א ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 196:1"
+        },
+        "2": {
+          "he": "שחרית. עי' בדגול מרבבה שכתב דלאו דוקא בדיקת שחרית אלא כל שהיתה קודם מנחה קטנה לא מהני ביום הראשון ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 196:2"
+        },
+        "3": {
+          "he": "הבדוק לה. עי' בתשובת מעיל צדקה סי' ס\"ג שכתב באשה שמצאה כתם בימי ליבונה ולערב הפסיקה בטהרה מחדש ולבשה שנית לבנים ואמרו לה חברותיה ביום המחרת שגם על הכתם צריכה להמתין מחדש ה' ימים וחזרה ולבשה כתונת שלה הנכתם בכמה כתמים אך היתה חגורה מלמטה סינר לבן ונקי מלבונה של אתמול ואחר ב' ימים נודע לה שא\"צ להמתין מחדש ה' ימים ושאלה אם היא רשאי למנות שבעה נקיים מפסיקת טהרתה הראשון כי אומרת שהיא מכרת הכתמים שבחלוקה שהם מימי טומאתה הראשון ולהוכיח מילין אמרה שהסינר נקי עדיין ואילו נכתם מחדש היה נמצא על הסינר. והנה השאלה הזאת מתחלק לכמה פנים. הא' אם היא רשאי למנות ימים הראשונים אשר נפלו מתחלה לדעתה. הב' אף אם נחשב אותם לטהורים אם לבשה בגדים מלוכלכים אם נאמר שהכתמים ההם הנה מימי נדתה. הג' אף אם אין תולין בכך אם נאמין לה מה שהיא אומרת שמכרת אותן בט\"ע וגם מה יוסיף לה מה שהסינר התחתון נקי והעלה לענין ספק א' מאחר שהחזיקה עצמה בטמאה אין לה לספור אותן הימים ומעתה אין נ\"מ בספיקות האחרונים אך אם לא הוחזקה עצמה בטמאה עלו לה אותן ב' ימים כיון שמכרת הכתמים בט\"ע שהם מימי נדתה ואף אם אין לה בהם ט\"ע ג\"כ עלו לה מחמת ההוכחה דעל הסינר בעי לה לאשכוחי. אכן אם אין הוכחה זו וגם אין לה בהם ט\"ע אין תולין שהם מימי נדתה כיון שהוא בג\"י ראשונים ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 196:3"
+        },
+        "4": {
+          "he": "ימי הספירה. הגאון הקדוש בעל של\"ה בדף ק\"א הצריך שבימי ספירת הנקיים תמנה בכל יום ותאמר היום יום כו' כדכתיב וספרה לה. אך בתשובת נודע ביהודה תניינא חלק יו\"ד סי' קכ\"ג חולק עליו ועי' בתשובת מהר\"ם בר ברוך דפוס פראג סי' רנ\"ב שכתב ג\"כ דאינה סופרת דלא דמי לעומר ע\"ש וכן בתשובת הרדב\"ז ח\"א סי' כ\"ז כתב ג\"כ שאין צריכה להוציא המספר בשפתיה ע\"ש הטעם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 196:4"
+        },
+        "5": {
+          "he": "אבל אם לא בדקה. [עי' בספר חו\"ד סק\"ג שכתב ומשמע מדברי הש\"ס נדה דף ס\"ט דכל שלא בדקה אף שלא הרגישה טמאה מדאורייתא דימי נקיים ספורין ובדוקין בעינן כו' ע\"ש כל הדיבור ועי' בתשובת חתם סופר סי' קע\"ז שחולק עליו וכתב הדין דין אמת גבי הפסק טהרה א\"צ ראיה דודאי אין מועיל מה שלא הרגישה כל ביה\"ש שנפתח מקורה דהרי פתוח ועומד הוא וצריכה שתדע שנסתם מקורה וזה א\"א לידע אלא ע\"י בדיקת חו\"ס. אך לענין הספירות נקיים צריך ראיה דאפשר הוה ספורים לפנינו כל שברור לה שהשגיחה על עצמה שחרית א' מז' ימים ויודעת בודאי שאז לא נפתח מקורה. ואין ראייתו מהש\"ס מכרעת כלל. וגם הביא בשם ספר אבני מלואים שהשיג עליו על מ\"ש עוד דאם יצא ממנה דם שלא בהרגשה דסותר דמקור מקומו טמא והו\"ל כפולטת. וז\"א דמה\"ת אינו סותר בשום אופן אך לדידן אפילו כתם סותר. וגם מ\"ש עוד הח\"ד שם דבין אשה שהוחזקה נדה ואח\"כ נולד לה מכה שמוצ\"ד ובין אשה טהורה שנולד לה מכה שמוצ\"ד ואך טמאה ביום עונה שלה כדלעיל סימן קפ\"ז ס\"ה מכיון שהוזקקו לטומאה אינם יוצאים מטומאתם עד שיהיה בדיקת הפסק טהרה ויום אחד מהשבעה נקיים נקי לגמרי בלי ראיית דם מכה (הובא בקיצור לעיל סי' קפ\"ז ס\"ק ל\"א) האריך בתשו' חתם סופר שם לחלוק עליו ומדבריו מבואר דמודה ליה בחדא ופליג עליה בחדא ודעתו להלכה דאשה שהיתה טמאה נדה וטרם שפסקה בטהרה ומעיינה עדיין פתוח נולד לה מכה בזה צדקו דברי החו\"ד ואין לה היתר לפסוק בטהרה (המעיין יבין שגם בזו החלוקה אינו מודה לגמרי להחו\"ד) אבל אשה שמעיינה סתום שנולד לה מכה והגיע יום וסתה ואנו חוששים לשיטת תוספות ומטמאים אותה אז אחר שעבר עליה כ\"כ ימים אשר אין דרך דם למשוך אצלה ומסתמא כבר סתם מקורה תוכל לפסוק בטהרה באופן שתעמוד כל בה\"ש בהיסח הדעת מכל הרהורים ומחשבות ותשגיח ע\"ע ואם לא תרגיש אז פתיחת המקור תפסוק בטהרה ותטהר ע\"ש בטעם הדבר. ועמש\"ל סי' קצ\"א בד\"ה שלא בשעת וסתה]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 196:5"
+        },
+        "6": {
+          "he": "ראשון מהשבעה. עי' בדגמ\"ר שכתב דאפילו לא בדקה ביום ראשון ובדקה באחד מימים אמצעים וגם ביום שביעי גם הסמ\"ג מודה שעלו לה ובלבד שעכ\"פ ליום שפסקה בדקה כדי שתפסוק בטהרה ע\"ש ועי' בספרו תשובת נודע ביהודה תניינא חי\"ד סי' קכ\"ח כתב שם דדוקא ראשון ושביעי בעינן אבל אם בדקה דרך משל בראשון ובשלישי לא מהני ואינה יכולה לטבול בשביעי ואם אח\"כ שוב לא בדקה עד עשירי אין בידה אלא עשירי אבל אם בדקה אח\"כ בתשיעי טובלת לערב דדל יום א' מהכא הרי בדיקת ג' וט' נחשב ראשון ושביעי ואפילו בדקה בשמיני דהיינו שבדקה בראשון ובשלישי ובשמיני טובלת בשמיני לערב ומצטרף השמיני עם הראשון ואף שיש בין שמיני לראשון יותר מה' ימים השלישי מצרפם ע\"ש ומזה מוכח דאם לא בדקה בראשון רק באחד מימים אמצעים ובשביעי לא מהני דלא כמ\"ש בדגמ\"ר וע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 196:6"
+        },
+        "7": {
+          "he": "וביום הז' ואין להקל. [עיין בתשו' חתם סופר סי' קע\"ח שכתב דבדיעבד שכבר לנתה אצל בעלה יש להקל אך כ\"ז בבדקה בודאי בא' או בז' אבל אם לא בדקה בהם רק מאחד מהאמצעים יש לחוש אפילו בדיעבד ע\"ש]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 196:7"
+        },
+        "8": {
+          "he": "לפחות בדיקה של יום. בתשו' נודע ביהודה תניינא חלק יו\"ד סי' קכ\"ט כתב דאם כואב לה הרבה אינה צריכה בדיקה כלל בשאר ימים חוץ מיום ראשון ויום שביעי וטוב להצריכה קינוח כל דהו מבחוץ אם לא יכאב לה וע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 196:8"
+        },
+        "9": {
+          "he": "תהיינה עד מקום שהשמש. ע' בתשו' נודע ביהודה חלק יו\"ד סוף סי' מ\"ו שהאריך להוכיח דדעת הרבה פוסקים להקל בהבדיקה אלא שלא מלאו לבם להקל לגמרי כיון שיש ג\"כ דעת הרבה פוסקים המחמירים אך במ\"ש הש\"ע דבדיקה של הפסק טהרה ובדיקה של יום ראשון כו' בזה נראה לו להקל ולסמוך על הרמב\"ן דרק בדיקה של הפסקת טהרה צריכה לחורין ולסדקין אבל שאר בדיקות אפילו של יום ראשון די בבדיקה קלה אחרי שכתב הש\"ע ס\"א שילמד אדם בתוך ביתו כו' ושיהא שם כל ביה\"ש כו' וא\"כ הרי בבדיקה זו כוללת גם בדיקת יום ראשון שהרי המוך אצלה עד הלילה אלא שטעם הב\"י משום דספירת לילה לאו ספירה עכ\"פ יש לצרף דעת רש\"י שסובר דספירת לילה מקרי ספירה לענין זה שאף שצריכה בדיקה ביום ראשון שוב די לה בבדיקה קלה ע\"ש באריכות:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 196:9"
+        },
+        "10": {
+          "he": "דבג' ימים כו'. ואם סופרת נקיים על כתם שמצאה אם מצאה אח\"כ כתם בג\"י ראשונים עיין באה\"ע בב\"ש סי' ס\"ג סק\"ג ועי' בדגמ\"ר שכתב שיש להקל בזה וק\"ו שיש להקל בתבעוה להנשא ונתפייסה ומצאה כתם בג' ימים ראשונים ע\"ש. [ועי' בתשובת חתם סופר סי' קפ\"ז ע\"ד אשה שבדקה עצמה לילך לבית הכנסת וביום הפסקת טהרה הפסיקה וספרה ובתוך ג' ימים מצאה כתם ויש לה במה לתלות אם נאמר דבתוך ג\"י לא תלינן כתם או נחשוב מיום שבדקה לילך לביהכ\"נ וכבר הלכו בזה נימושות בעל עה\"ג סי' ע\"ט מקיל וצ\"צ סי' ס\"ה דעתו להחמיר ובס\"ט ס\"ק ל\"ג נוטה להקל אך כתב דמפי' רש\"י במתני' ריש נדה מפקידה לפקידה בדיקה שחרית וערבית למד מהר\"ם לובלין דוקא בדיקת תיקון חז\"ל אבל בדיקה אחרת לא דאינה מדקדקת יפה ומביאו המל\"מ פ\"ג ממו\"מ דין ד' משמע קצת כצ\"צ אלא י\"ל התם לטהרות שאני ע\"ש. והוא ז\"ל כתב דמעולם לא נתכוין רש\"י לזה כלל רק כתב כן לכוונה אחרת ובנידון השאלה העלה דאם אמרה עתה ברי לי שבדקתי שפיר יש להקל ע\"ש]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 196:10"
+        },
+        "11": {
+          "he": "אם מצאה כתם. עי' בתשובת תפארת צבי חי\"ד סי' כ\"ד שכתב דדוקא אם מצאה הכתם תוך ג\"י ראשונים אינה תולה אבל אם מצאה הכתם לאחר ג' ימים אלא שיש לחוש שזה הכתם ראתה בתוך ג\"י ולא ידעה עד הנה תולה במכתה ובנדתה וחושבת אף ג' ימים הראשונים לספירה לא כרב אחד שטעה בזה ע\"ש וכן משמע בשו\"ת אא\"ז פנים מאירות ח\"ב סי' ק\"ע ע\"ש אכן בתשובת בית אפרים שאביא לקמן בשם אחיו מבואר שדעתו אינו כן [ועיין בזה בס\"ט לעיל סי' ק\"צ ס\"ח ע\"ד ובתשובת חמדת שלמה סי' כ' מ\"ש בזה באריכות]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 196:11"
+        },
+        "12": {
+          "he": "אין תולין אותו להקל. [עי' בתשובת חמדת שלמה סי' כ' שהעלה דאם נמצא הכתם ע\"ד שאינו מקבל טומאה אף תוך ג' לא חיישינן לה כיון דדבר שאינו מקבל טומאה לא הוי בכלל גזירת כתמים וכ\"מ מדברי הגה\"מ ובסה\"ת שלא כתבו רק דתוך ג' ימים לא תלינן והיינו במידי דבעי לתלות שפיר אמרינן דיותר מסתבר לתלות בגופה אבל בדבר שאינו מקבל טומאה דלאו מטעם תליה אתינן עלה דאפילו בדקה קרקע עולם וישבה עליו טהורה והיינו כיון דבלא הרגשה חזיא לא גזרו חכמים ע\"ז א\"כ מה מהני הא דתוך ג' ימים מעיינה פתוח סוף סוף חזיא בלא הרגשה. ושוב ראיתי בתשובת מעיל צדקה סי' ס\"ב דמדבריו נראה פשוט להתיר בכתמים הנמצאים בבגד צבוע תוך ג\"י ע\"ש]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 196:12"
+        },
+        "13": {
+          "he": "פחות מכגריס. הטעם בזה הואיל ושכיח טובא וא\"א ליזהר. ובכתבי הגדול מהר\"ר דניאל זצ\"ל ראיתי שכתב דאם יכולה לישן במקום שאין פשפשין ושכבה במקום שיש פשפשין אינה יכולה לתלות בפשפשין ע\"כ ועמש\"ל סי' ק\"ץ ס\"ק ל\"ז בשם דגמ\"ר:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 196:13"
+        },
+        "14": {
+          "he": "ויודעת. עי' בה\"ט ועי' בתשובת ברית אברהם חי\"ד סי' נ\"ח אות כ\"ז כתב דגם אם נחמיר ברואה ממש במכה הידוע שמוציאה דם תוך ג' ימים ראשונים כל זה באם הראיה שנטמאה בעבורה היא טומאה ודאית אבל בנדון דהרמ\"א בסי' קפ\"ז ס\"ה בחלוקה הג' שמרגשת שהדם בא מהמקור וא\"י אם היא ממכה שבמקור דבתחלת ראיה טהורה אך בשעת וסתה או בשעת עונה בינונית מטמאינן לה משום הסברא דכי לעולם לא תטמא בכה\"ג יש להקל אח\"ז תוך ג\"י ראשונים לתלות במכה גם ברואה ממש כעין שכתב הב\"ש בכלה או בבעלת הכתם מעיקרא ע\"ש. ועי' בתשו' בית אפרים חי\"ד סי' מ\"ה באשה שהפסיקה בטהרה ולפי שהיתה בדרך פשטה חלוקה וביום ששי לספירתה באתה לביתה ומצאה על חלוקה דם אם יכולה לתלות שהדם הנמצא הוא מימי נדתה וכתב שאחיו הרב מדובנא צידד להחמיר לפי דעת הש\"ך דגם במכה שמ\"ד אינה תולה בג' ימים הראשונים וא\"כ אם נתלה מימי נדתה ע\"כ שהיה עליה גם בג' ימים ראשונים והוא ז\"ל העלה להקל דגם במכה שמ\"ד מסתבר להקל. ולתלות בימי נדתה עדיף טפי ממכה שבגופה ומכ\"ש כשידוע שבאו כתמים על החלוק. וכן כתב בשם אא\"ז פנים מאירות ח\"ב סי' ק\"ע באשה שהתחילה לספור שבעה נקיים וביום שני פירסה המשרתת הסדין שהיתה שוכבת עליו בימי נדתה וביום ז' מצאה כתם על הסדין והעלה דזה הוי כמכה שבודאי מטפטף ומוציא דם דתולין אף בג' ימים ראשונים ע\"ש שהאריך בזה. [ועי' בתשו' חתם סופר סי' קס\"ה אודות אשה שבימי נקיים שלה הגיע וסת עורק זהב (גילדערני אדער) וחלוקה וסדיניה מלוכלכים בדם אי לתלות ג\"י הראשונים או דילמא כיון שבימים מועטים יעברו אלו הדמים של עורק זהב אין הפסד שתמתין מלספור והאריך בזה ומסיק מאחר שאין וסת העורק זהב נמשך אלא איזה ימים אין לתלות בו בג' ימים ראשונים אך נעשה לה תקנה שמיד אחר ב' ימים לראייתה תפסוק בטהרה דאע\"ג דאלו ג' ימים אין עולים לה לנקיים מפני חשש פולטת ותמתין עד אחר חמשה ימים מ\"מ מועיל לה בדיקתה שלא נחזיקנה רואה. ואם אחרי ה' ימים תפתח עורק זהב שלה תולין בו כתמים כנ\"ל למעשה ע\"ש עוד וגם בכו\"פ ומנ\"י וס\"ט באורך ועמש\"ל סי' ק\"ז סס\"ק כ\"ט]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 196:14"
+        },
+        "15": {
+          "he": "שעכשיו. עי' בשל\"ה דף ק\"א שכתב וז\"ל מעשה בא לידי באשה אחת שהיה יום ד' לנדתה ולא שמשה עם בעלה בלילה שקודם ראייתה והתרתי לה ללבוש לבנים ביום ד' ולהתחיל לספור ביום ה' כי אם היתה מתחלת לספור ביום ו' אז היה בא ליל טבילה בליל שבת שאחר י\"ט ומוטב שנניח חומרא זו כדי לקרב הטבילה לחפיפה עכ\"ל ועיין בס\"ט שכתב דנראה לו דבנדון כזה אף בשמשה יש להתיר שתפסוק ביום ד' לראייתה ותמנה שבעה נקיים מיום ה' ע\"ש עוד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 196:15"
+        },
+        "16": {
+          "he": "אפילו כתם. עבה\"ט [ומ\"ש בשם ש\"ד נראה דבכתם יש להקל היכא דלא שמשה כו' עי' בתשובת חתם סופר סי' קפ\"ח מבואר שדעתו דבדיעבד שכבר ספרה שבעה נקיים מיד אחר מציאת הכתם מבלי המתנת ה' ימים אפשר להקל גם בשמשה שיעלו לה הנקיים אך אם היה זה הכתם בבדיקת העד אין להקל אפילו בדיעבד ע\"ש ומ\"ש הבה\"ט וגדולה מזו נוהגין שאפילו כלה כו'] עיין בדגמ\"ר שכתב דאף הש\"ך שכתב דשלא בשעת הדחק אפילו כלה אינה סופרת שבעה נקיים עד יום ה' לראייתה לא אמר אלא כשלא היתה נדה קודם לראיה זו כגון בתולה שראתה פעם ראשונה או מניקה שהיתה טהורה בעת מיתת בעלה וראתה עתה פעם ראשון אחר כ\"ד חודש אבל אם היתה כבר נדה לא שייך חומרא זו כלל ע\"ש. ועפ\"ז הוריתי ביולדת שלא טבלה תוך מ' לזכר ופ' לנקבה וככלות הימי טוהר ראתה דא\"צ להמתין למנות ז' נקיים עד אחר ה' ימים אלא מיד שתפסוק בטהרה תוכל להתחיל למנות שבעה נקיים דהא עד ראיה זו היתה ג\"כ טמאה מלידה ולא שייך חומרא זו כלל. ומכ\"ש אם ראיה זו היא בתוך ימי טוהר והיא רוצה למנות שבעה נקיים ולטבול דבזה אפשר לומר שגם אם לא היתה טמאה וכבר מחמת לידה שטבלה כבר ג\"כ תוכל למנות שבעה נקיים מיד אם לא שמשה דהא אפילו בכתם כתב הש\"ך הביאו הבה\"ט דיש להקל היכא דלא שמשה למנות מיום המחרת ומכ\"ש בדם טוהר דקיל יותר דאינו אלא חומרת הגאונים עמש\"ל סי' קצ\"ד סק\"ב בשם נודע ביהודה וכ\"ז פשוט [ועי' בתשו' ח\"ס סי' קנ\"ז שאלה כזו ביולדת שטובלת תוך מלאות וחזרה וראתה באותן הימים אם תתחיל לספור נקיים השניים האלו אחר ד' לשמושה דלא גרע מכלה הטובלת לדם בתולים (בבה\"ט לעיל סק\"ג) והשיב להחמיר אחרי שכתב הרמ\"א בסי' קצ\"ד דדינו כדם לכל דבר משמע שאין לחלק בשום דבר בכל מנהגי נדה וחומרותיה ע\"ש] ועמ\"ש לקמן סי' קצ\"ז סק\"ג לענין אם החמירה ע\"ע ועי\"ז אירע טבילתה בליל שבת ועי' בתשו' נודע ביהודה תניינא חלק יו\"ד סי' קכ\"ה שמורה אחד הורה באשה שטבלה ואחר טבילה קודם ששמשה ראתה דם ובעלה היה בעיר שתמנה שבעה נקיים תיכף וכתב שראוי המורה הזה לגעור בו בנזיפה אבל לא לענשו באיזה עונש כי גוף דין זה הוא חומרא בלא טעם. ואח\"כ כתב בשם תשובת פני יהושע סי' י\"ב שמקיל בזה בראתה תיכף אחר הטבילה קודם ששמשה והוא ז\"ל חולק עליו וכתב דהט\"ז סק\"ד הביאו הבה\"ט מחמיר ג\"כ בזה שהרי לא הקיל רק בראתה תיכף אחר חופתה שלא באתה עדיין לכלל תשמיש ע\"ש ועי' בתשו' מעיל צדקה סי' נ\"ב שגם הוא ז\"ל מקיל בראתה תיכף אחר הטבילה קודם ששמשה וכתב הטעם דאף בגזירת חז\"ל קיי\"ל במלתא דלא שכיח לא גזרו ומכ\"ש בגזירה זו ע\"ש עוד. וכתב שהסכימו עמו החברים ונעשה מעשה. וכן דעת הסדרי טהרה עין שם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 196:16"
+        },
+        "17": {
+          "he": "אם טעתה במנין. עי' בשו\"ת תשובה מאהבה ח\"א סי' ע\"ט באשה אחת נדה שהתחילה לספור שבעה נקיים ותיכף ביום א' מצאה כתם יותר מכגריס והתחילה לספור מחדש מיום המחרת כדין וספרה יום יום ובדקה בכל יום ומצאה טהורה וטבלה ושמשה ויהי בוקר והנה האשה השכנה מגרת ביתה אמרה לה מה זאת עשית כי טעית בחשבונך יום א' ולא ספרה רק ששה נקיים והאשה ההיא אומרת דקדקתי בחשבוני ושבעה ספרתי ואעפ\"כ בא האשה לשאול אף כי לפי דעתה ברור לה שלא טעתה מ\"מ היא חוששת לדברי חברתה ומסתפקת אולי טעתה ושאלה מה דינה אם צריכה טבילה אחרת ואם צריכה כפרה. וצדד להקל אחרי שאין כאן רק ספק דרבנן דמה\"ת הכתם שמצאה ביום הא' טהור כיון שלא הרגישה וא\"כ מן התורה מצטרף גם יום זה לנקיים ויש ג\"כ עוד כמה צדדים להקל ואחרי שכבר שמשה ויש חשש לעז פגם לולד אשר תלד הורה לה להקל שאין צריכה לא טבילה ולא כפרה וצוה עליה שתאמר בפירוש לחברתה שאינה מאמנת לה (עי' לעיל סי' קכ\"ז) והסכים עמו הגאון בעל נודע ביהודה ז\"ל שם בסי' פ\"א אך כתב דדוקא אם אומרת איני מאמינך אבל אם היא בעצמה מסתפקת יש לה לחוש לדברי חברתה דהיכא דהבע\"ד שותק שתיקה כהודאה ואם האשה מכחשת פשיטא שהיא נאמנת וספרה לה כתיב ואין ע\"א נאמן באיסורים היכא שהבע\"ד מכחישו (ובזה אפילו אם היה חשש איסור דאורייתא הדין כן) ע\"ש. [ועי' בתשובת חתם סופר סי' קצ\"ו מ\"ש בזה]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 196:17"
+        },
+        "18": {
+          "he": "טובלת בכל עת. [עבה\"ט בשם ט\"ז דהכא מיירי כו' ועי' בתשו' חתם סופר סי' קס\"ח שכתב דמ\"ש הט\"ז אבל אם לא היה בעלה עמה צ' יום ונמשכו אחריו בח\"מ וב\"ש באה\"ע סי' י\"ג דבריהם תמוהים מה שייכות צ' יום לכאן אפילו לא היה בין שימוש בעלה לראיה רק זמן מועט שייך הבחנה. עיין יבמות דף מ\"ב גבי ותמתין משהו ושוב מצא שהרגיש בזה בספר עצי ארזים שם וכתב עוד דבכתם אין לחוש להצריך הבחנה עיין שם]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 196:18"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "בטהרה.  בין השמשות ובדיעבד אפי' אם לא בדקה עצמה רק שחרית כו' היינו מיום ב' מראייתה ואילך כדלקמן ס\"ב. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 196:1"
+        },
+        "2": {
+          "he": "דהקהל.  אפי' אם היא עדיין לא התפללה ערבית:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 196:2"
+        },
+        "3": {
+          "he": "שבת.  כ' הש\"ך דמדברי מהרי\"ל משמע דאע\"פ שהתפללה היא ג\"כ ועשתה שבת מותר אבל הגאון אמ\"ו ז\"ל כתב דלהרב אם היא התפללה ערבית אין להקל אפילו דיעבד וכ\"נ דעת מהרש\"ל בתשובה (ומהאגור שהבאתי מוכח דאף להמקילין היינו עד כ\"ד שעות וא\"כ כשהיום גדול כ\"כ חשבינן יום ולילה שוין. אבל בתר הכי לכ\"ע אסור) עכ\"ל (וט\"ז כתב בשם רש\"ל כיון שנשים שלנו מתחילין למנות מיום ו' פשיטא שיכולה למנות אפילו אחר תפלת ערבית ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 196:3"
+        },
+        "4": {
+          "he": "לערב.  כתב הש\"ך נ\"ל לדעת הרב אפילו אם ראתה דם סמוך לערב מפסקת קודם ברכו בתחלת ספירתה ואם היא רואה דם עד סמוך לערב פשיטא דאין דיעבד גדול מזה ומתחלת להפסיק אחר ברכו ומ\"ש ונוהגים לכתחלה ליזהר היינו היכא דאפשר כגון שאינה רואה דם קודם ברכו עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 196:4"
+        },
+        "5": {
+          "he": "אחד.  ומעיינה פתוח וכתב הש\"ך ונ\"ל דנ\"מ לדידן להיכא דחזרה וראתה בתוך ימי הספירה דכיון שלא ראתה רק יום א' בימי הספירה לא מהני בדיקת שחרית אפילו בדיעבד אבל אם ראתה רק כתם אפשר להקל בין בימי הספירה בין בתחלה. כ\"כ בספר מעדני מלך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 196:5"
+        },
+        "6": {
+          "he": "אחת.  תוך הז' נקיים מלבד הבדיקה דהפסק טהרה דלעיל ס\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 196:6"
+        },
+        "7": {
+          "he": "שפסקה.  וה\"ה אם ראתה ולא בדקה עצמה ביום שפסקה מלראות (ולא בדקה) [ובדקה] לאחר ג' או ד' ימים ומצאה טהורה הרי היא בחזקת טמאה עד שפסקה בטהרה. טור ורשב\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 196:7"
+        },
+        "8": {
+          "he": "סתרה.  כ' הט\"ז דאף לדידן דמחמרינן אפי' רואה טיפת דם כחרדל צריכה ז' נקיים למאי נ\"מ כתב המחבר דין זה דסתרה ונ\"ל דיש נפקותא גם עכשיו לפי מה דקי\"ל דאשה שיש לה וסת א\"צ בדיקה כלל כמ\"ש ר\"ס קפ\"ו דהיא בחזקת טהרה משא\"כ בז' נקיים קי\"ל דלכתחלה צריכה בדיקה דהיא בחזקת טמאה עד כלות הז' נקיים ע\"כ קמ\"ל כאן דחזקת טומאה עליה עד שיכלו ז' רצופין דל\"ת בהגיע קץ הז' נקיים היא שבה לחזקת טהרה וא\"צ בדיקה אפילו לכתחלה קמ\"ל דאפילו אם תראה בסוף הז' ממש תסתור הכל א\"כ עדיין חזקתה הראשונה עליה וצריכה בדיקה לכתחלה גם בעת ההיא עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 196:8"
+        },
+        "9": {
+          "he": "ויודעת.  והש\"ך חולק על הרמ\"א בדין זה ופסק דאף ביודעת בודאי שמכתה מוציאה דם אפ\"ה אינה תולה בה בג' ימים הראשונים של ז' נקיים וכ\"מ מדברי הב\"ח דאין להקל אלא דוקא במלאה שחין ודם יוצא ממנה תמיד דאז אמרינן אם לא תתלה בו לא תוכל לספור ז' נקיים לעולם הא לא\"ה אפילו ידוע שמכתה מוציאה דם אין להקל ע\"ש שמאריך בזה בכמה ראיות והט\"ז כתב דיש לכוין דברי הרמ\"א דמיירי במכה שא\"א לה להזהר שפיר אז תולה בה אבל כל שאפשר לה להזהר ולא עשתה כן אין לה לתלות כלל עכ\"ל (עיין בת' צ\"צ סימן ס\"ה ובעה\"ג סימן ע\"ט):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 196:9"
+        },
+        "10": {
+          "he": "עונות.  וכל עונה היא י\"ב שעות:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 196:10"
+        },
+        "11": {
+          "he": "לשמושה.  דעד אותו היום חיישינן לכל יום ויום שמא תפלוט או שמא תפלוט כל הג' ימים ומע\"ל של ו' עונות היא ע\"ב שעות:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 196:11"
+        },
+        "12": {
+          "he": "בתוך.  כלומר אע\"פ ששלמו הו' עונות בתחילת ליל ד' אחר שימושה מ\"מ כיון שפלטה בתחלת ליל ד' קודם זמן שימושה במ\"ש א\"כ סותרת אותו יום והיינו כל יום ד' ומתחלת לספור מיום ה' עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 196:12"
+        },
+        "13": {
+          "he": "להוסיף.  כתב הט\"ז וכ\"כ בסי' קצ\"ו בשם מהר\"ל מפראג שבכלה אחר בעילת מצוה תוכל למנות מיום ה' לשמושה ונראה טעמו כיון דאין כאן דם נדה רק דם בתולים לא החמירו בו משום תשמיש בין השמשות אבל אם באמת נבעלה בין השמשות בעילת מצוה נראה ודאי דחשבינן לה כאלו נבעלה בלילה שאחר אותו בין השמשות אפילו גבי כלה נמצא שאם נבעלה הכלה ליל מ\"ש תמנה מיום ה' ואם נבעלה בין השמשות של סוף יום א' תמנה מיום ו' כנ\"ל עכ\"ל וכתב מהרש\"ל אם ראתה אחר ערבית ביום א' ועדיין הוא יום יכולה ללבוש בגדים נקיים בסוף יום ה' ומונה מיום ו' ואין ספיקא בדבר עכ\"ל ומשמע מדבריו דאע\"פ שהתפללה היא ג\"כ ערבית. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 196:13"
+        },
+        "14": {
+          "he": "כתם.  פי' אשה טהורה שמוצאה כתם דינה כרואה ממש גם לזה אבל אשה שלבשה לבנים ומצאה כתם ואפילו רואה ממש בתוך ימי הנקיים א\"צ להמתין ו' עונות אלא תמנה מחדש ז' נקיים מיום שתוכל. ט\"ז. וכ' הש\"ך נראה דבכתם יש להקל היכא דלא שמשה למנות מיום המחרת של מציאת הכתם דהא הך דלא שמשה גופה גזרה רחוקה היא הלכך אין להחמיר אלא ברואה ממש אבל לא בכתמים דרבנן דאזלינן בהו לקולא בכמה דוכתי (ועיין בתשו' ש\"י בחלק ב' שאלה ע\"ז הורה באשה שטבלה ולא היה בעלה בעיר בליל טבילתה ומצאה כתם דפוסקת באותו יום ומונה למחרת אע\"ג דנוהגין להחמיר מ\"מ בכה\"ג שלא שמשה ואין בעלה בעיר מצדד להקל בכתמים וכ\"פ בתשו' פני יהושע ס\"ס י\"ב ע\"ש) ואפשר לזה לא כתב הרב האי ויש שכתבו עכשיו וכו' אחר דין הכתם אלא אחר דין רואה ומיהו מה שרוצה הב\"ח להקל אף ברואה ממש כשאין בעלה בעיר אין דבריו נראין וכן המנהג פשוט במדינות אלו להחמיר אפילו אין בעלה בעיר וגדולה מזו נוהגין שאפילו כלה אינה סופרת ז' נקיים עד יום ה' לראייתה אע\"פ שעדיין לא בא החתן לעיר ואע\"פ שלפי דעתי אין להחמיר בזה כלל ולא נזכר בשום פוסק קדמון או אחרון מ\"מ לא יהא אלא כדברים המותרים ואחרים נהגו בו איסור ומ\"מ בשעת הדחק יש להתיר להכלה שמיד שתפסוק בטהרה תספור ז' נקיים דבהכי עדיף טפי ממה שנוהגין שנשאת כשהיא נדה שהרמב\"ם פסק שלא תנשא כלל עד שתטהר ואע\"ג דאנן לא מדקדקין בהכי כמ\"ש בא\"ע ס\"ס ס\"א מ\"מ ודאי היכא דאפשר בטהרה טפי עדיף והט\"ז כתב דנ\"ל להקל באלמנה שפירסה נדה סמוך לחופתה ואפילו אחר חופתה קודם שנתייחדה עם החתן שלה שאינה ממתנת כלל דבזה ודאי לא שייך למיגזר לא שמשה אטו שמשה דלא באה עדיין לכלל תשמיש כלל עמו ולמה נגזור כזה עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 196:14"
+        },
+        "15": {
+          "he": "אחד.  כ' הש\"ך ומשמע דהכא לא נהגינן להחמיר משום גזרה דבין השמשות וטובלת מיד אחר ד' ימים ויום א' נקי דלא שכיח שתטעה במנין ובמלתא דלא שכיחא לא גזרו רבנן וכתב הט\"ז וא\"ל שמא ראתה באותן הו' עונות דם אלא שחיפהו ש\"ז כמ\"ש בסי' קצ\"ג בבעילת מצוה דהתם שאני שדמים מצויים בה מחמת הבעילה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 196:15"
+        },
+        "16": {
+          "he": "עת.  שהרי כבר ספרה ז' נקיים אלא שמחוסרת טבילה ויש לתמוה ממ\"ש בא\"ע סי' י\"ג ס\"ה גר ואשתו שנתגיירו מפרישין אותן צ' יום להבחין בין זרע שנזרע בקדושה לזרע שנזרע שלא בקדושה וה\"נ היה לנו להפרישה אחר שבא עליה באיסור כדי להבחין אם נתעברה באיסור כשטבלה שלא כראוי ונ\"ל דהכא מיירי באשה שבעלה מצוי לה קודם לזה נמצא שלא שייך כאן הבחנה אבל אם לא היה בעלה אצלה קודם למעשה זה תוך צ' יום ממילא צריך הפרשה אחר ביאה זו האסורה צ' יום וצ\"ע למעשה אבל בעברה על הדין שצריכה ז\"נ משום חימוד כמ\"ש בס\"ס קצ\"ג אינו דומה כלל לדין זה דשם אין כאן אלא איסור דרבנן לחוד עכ\"ל (ובנה\"כ תירץ דהתם כיון שנזרע שלא בקדושה לאו ישראל גמור הוא דבכמה דינים חלוק הוא מישראל כמ\"ש בסי' רס\"ט אבל אפילו נולד מן הנדה קי\"ל דכשר עכ\"ל (ועי' בבית שמואל שם ס\"ק ט\"ו שהרגיש ג\"כ בזו) ובב\"י כתב בשם הרא\"ש דבטבלה ליל ז' ושמשה ביום ז' נמי לאו סתירה הוא וטובלת מיד לאחר ז' וכתב הש\"ך דצ\"ע לדינא דהוא רצה להשוות דברי הסמ\"ק להרא\"ש ופשט דברי הסמ\"ק משמע לאחר ז' דוקא עכ\"ל):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 196:16"
+        },
+        "17": {
+          "he": "להמתין.  כתב הש\"ך ואף באשה ששכחה יום אחד דקי\"ל בסעיף הקודם שצריכה להמתין ו' עונות ג\"כ אין להקל לכתחלה לומר דמהני לה רחיצה וקנוח כדי שתמנה מיד וכ\"פ הב\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 196:17"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

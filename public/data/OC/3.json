@@ -3,7 +3,7 @@
   "siman": 3,
   "chelekTitle": "Orach Chayim",
   "seifCount": 17,
-  "fetchedAt": "2026-07-07T15:27:09.478Z",
+  "fetchedAt": "2026-07-07T23:48:56.386Z",
   "sa": [
     {
       "seif": 1,
@@ -198,6 +198,31 @@
           "he": "נדה שם",
           "en": "",
           "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 3:17"
+        },
+        "18": {
+          "he": "רמב\"ם פכ\"א מהל' אישות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 3:18"
+        },
+        "19": {
+          "he": "רבי' יונה בספר היראה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 3:19"
+        },
+        "20": {
+          "he": "שם בגמ' דנדה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 3:20"
+        },
+        "21": {
+          "he": "סמ\"ג סי' קכו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 3:21"
+        },
+        "22": {
+          "he": "מכות ט\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 3:22"
         }
       }
     },
@@ -777,6 +802,76 @@
           "he": "(יז) ביד ימין - מפני שקושר בה תפילין על זרוע השמאלי ועוד טעמים אחרים עיין בגמרא וטוב ליזהר מלקנח באצבע האמצעי שכורך עליו הרצועה וכתבו האחרונים דאיטר יד שכל עניניו עושה בשמאל מקנח בשמאל דידיה שהוא ימין כל אדם ואם כותב בשמאל ושאר מעשיו עושה בימין או להיפך עיין בבה\"ל:",
           "en": "With his right hand - Because one ties tefillin with his right hand onto his left arm. There are additional reasons given in the Gemara, and it is proper to be careful not to wipe with the middle finger [of the left hand] because the strap [of the tefillin] is wrapped around it. The Achronim write that a left-handed person who does everything with their left hand should wipe with \"his left\", which is the right hand of most people. If he writes with his left hand but does everything else with his right or vice versa,  consult the Biur Halacha.",
           "ref": "Mishnah Berurah 3:17"
+        },
+        "18": {
+          "he": "(יח) בחרס - ואפילו היא חלקה ואינה מקרע הבשר דאם אינה חלקה ויש בה חדודים קטנים יש בזה ג\"כ מפני הסכנה שלא ינתק שיני הכרכשתא:",
+          "en": "With earthenware - Even if it is smooth and doesn't tear the skin, for if it isn't smooth and has sharp pieces there is also danger that it may tear the anal sphincter.",
+          "ref": "Mishnah Berurah 3:18"
+        },
+        "19": {
+          "he": "(יט) חבירו - אבל אם קנח הוא עצמו בו או שיבש או שקנח מצד אחר לית לן בה:",
+          "en": "Another person - However, if he himself already wiped with it, or it has dried out, or he wipes with a different part, then there is no concern.",
+          "ref": "Mishnah Berurah 3:19"
+        },
+        "20": {
+          "he": "(כ) אינן בשדה - ולא שכיחי כשפים לכן מותר בחרס ודוקא אם הוא חלק וכנ\"ל:",
+          "en": "Are not in the field - And witchcraft is uncommon, therefore it is permitted with earthenware,  as long as it is smooth as was mentioned above.",
+          "ref": "Mishnah Berurah 3:20"
+        },
+        "21": {
+          "he": "(כא) בדבר שהאור וכו' - אפשר דוקא לענין שאר דברים אבל לענין עשבים יבישים גם לההג\"ה יש להחמיר דהם מחתכים את הבשר וכדלקמן בסי' שי\"ב ס\"ה עיין בפמ\"ג. כתב בהגהות ר\"ע איגר בשם הס\"ח כשיוצא מבהכ\"ס יראה המקום שישב עליו שלא יהיה טינופות שמא יבוא חבירו פתאום או בלילה וישב עליו:",
+          "en": "Something flammable etc. - It's possible that this is specifically referring to all other things [that are flammable], but regarding dry grass/leaves, even the Ram\"a would agree that it's proper to be stringent, as they [tend to] cut the skin, as is seen below in siman 312 se'if 5,  see the Pri Megadim. Hagahot Rabbi Akiva Eiger writes in the same of the Sefer Chasidim that when one leaves the bathroom he should check the place where he sat to make sure it is not dirty because perhaps his friend will come suddenly or in the night and sit there.",
+          "ref": "Mishnah Berurah 3:21"
+        },
+        "22": {
+          "he": "(כב) בצניעות בלילה - ר\"ל שלא יגלה עצמו יותר מביום ולא יגלה עצמו עד שישב וכה\"ג כי לפניו ית' חשיכה כאורה אבל א\"צ להתרחק ואם אין שם אדם מפנה ברחוב ורק שיזהר שלא יהיה במקום הילוך ב\"א כדי שלא יטנפו בני אדם על ידו אבל אם יש שם אדם אפילו נכרי אסור לפנות בפניו. וכ\"ז לפנות אבל להשתין מותר אפילו ביום בפני רבים אם צריך לכך שאין לו מקום ואפילו בפני אשה משום דאיכא סכנתא אם יעמיד עצמו. ואשה לא תעמוד להשתין אפילו נגד פניו של תינוק משום דאיכא חציפותא אבל לצדדין שאינה משתנת ממש נגד פניו לית לן בה:",
+          "en": "Modestly at night - That is to say, that one should not expose himself [at night] more than he does during the day, and one should not expose himself [when in the bathroom] until he is sitting, and other matters similar to these. Because before Hashem, Blessed is He, darkness is like light. But one need not distance himself [from others].  If there is nobody there, one can defecate in the streets, as long as he is careful that he is not defecating where people walk, lest they become filthy because of him. However, if there is someone there, even a non-Jew, it is prohibited to defecate before them. All of this is regarding defecating, but to urinate is permitted, even during the day in front of many people, if he has no other place to go. This is even permitted in front of a woman, since there is danger if he holds himself back. A woman may not even urinate in front of a baby, since there exists an element of audacity in this. However, when she urinates off to the side where she is not directly in front of others, there is no prohibition.",
+          "ref": "Mishnah Berurah 3:22"
+        },
+        "23": {
+          "he": "(כג) על רגליו - ויאמרו שהוא כרות שפכה שאין מימי רגליו מקלחין אלא שותתין וכרות שפכה אינו מוליד ויאמרו על בניו שאינם שלו:",
+          "en": "Upon his legs - And they (ie. people) will say he is \"k'rut shof'cha\" (ie. a person with a gash on their member which causes spillage when urinating or ejaculating - Rashi on Deuteronomy 23:2:2) - for his urine does not flow in a stream, rather it dribbles out.  And a \"k'rut shof'cha\" cannot reproduce and people will say about his children, that they are not his.",
+          "ref": "Mishnah Berurah 3:23"
+        },
+        "24": {
+          "he": "(כד) אם לא וכו' - ואם אין לו עצות אלו וגם שם א\"א בישיבה יוכל לעשות עצה אחרת שלא יבוא לידי נצוצות שיסייע בבצים להגביה הגיד קצת או ע\"י מטלית עבה ואם איתרמי שנפלו ניצוצות על רגליו מצוה לשפשפם:",
+          "en": "Unless etc. - And if he does not have these [other] options [available to him], and he's also not able to sit there, he can utilize another option to avoid drops [of urine from falling onto his legs] - he can support his testicles in order to raise his member a bit, or by using a thick cloth.  And if some drops [ended up] falling on his legs, it's a mitzvah to wipe them off.",
+          "ref": "Mishnah Berurah 3:24"
+        },
+        "25": {
+          "he": "(כה) ולמטה - ואפילו אם האבר בקישוי מותר מעטרה ולמטה:",
+          "en": "Downwards - And even if the organ is erect, it is permitted from the corona downwards.",
+          "ref": "Mishnah Berurah 3:25"
+        },
+        "26": {
+          "he": "(כו) מפני שמוציא - ר\"ל שע\"י נגיעתו בגיד בא לידי חמום והרהור ויבא לזה וחומר עון הזה עיין באה\"ע סימן כ\"ג:",
+          "en": "Because [he will come to] bring forth - Meaning, that by touching his organ, he will come to an aroused state and illicit thoughts and [will eventually] come to this (ie. spilling seed in vain).  And [regarding] the severity of this sin, see in Even HaEzer 23.",
+          "ref": "Mishnah Berurah 3:26"
+        },
+        "27": {
+          "he": "(כז) הוא נשוי - דיש לו פת בסלו ואין יצרו תוקפו כ\"כ ואם היא נדה או שהוא בדרך אסור. ועיין בא\"ע סימן כ\"ג ס\"ד דאפילו נשוי אינו מותר להושיט ידו לאמה כלל אלא בשעה שהוא צריך לנקביו:",
+          "en": "He is married - For he has \"bread in his basket\" and his yezter is not so strong.  But if she is a niddah or if he is travelling [without his wife], then it is forbidden.  See further in Even HaEzer 23:4 - that even one who is married is not permitted to touch his organ at all except for when he needs to urinate.",
+          "ref": "Mishnah Berurah 3:27"
+        },
+        "28": {
+          "he": "(כח) הנשוי - ואם עומד במקום שיש לו פחד שלא יפול אין להחמיר בנשוי כלל. [ארה\"ח]:",
+          "en": "One who is married - And if he's standing in a place where he's afraid he might fall, a married man does not need to be stringent at all [Artzot Hachaim].",
+          "ref": "Mishnah Berurah 3:28"
+        },
+        "29": {
+          "he": "(כט) בביצים - שאינו מתחמם ע\"י כך. ולפעמים מותר לאחוז באמה להשתין כגון ע\"י מטלית עבה שאינו מחמם אבל ע\"י החלוק אסור ויש מפקפקין גם ע\"י מטלית עבה משום דלא ידעינן שיעורו:",
+          "en": "The testicles - For one will not become aroused because of that.  And sometimes it is permitted to hold the organ to urinate, like when using a thick cloth which won't cause one to become aroused, but with one's shirt (ie. because it's a thinner material), it is forbidden.  There are those who disagree [and say] that even using a thick cloth [is forbidden] since there's no way to know the exact measurement [of thickness that would cause arousal].",
+          "ref": "Mishnah Berurah 3:29"
+        },
+        "30": {
+          "he": "(ל) להתחכך לא - לפי שהחיכוך מביא לידי חמום ובקל יבוא לידי ש\"ז ועיין בח\"א שמתיר ע\"י בגד עב. ומותר לסרוק זקן התחתון אך שלא יגע אז באמה בידו ועיין בבה\"ל:",
+          "en": "To scratch it is not permitted - Because the scratching will cause arousal and he will easily come to spilling seed in vain.  See further in Chayei Adam who permits [scratching] when using a thick cloth.  It is permitted to scratch one's pubic hairs, as long as one does not touch his organ with his hand.  See further in Biur Halachah.",
+          "ref": "Mishnah Berurah 3:30"
+        },
+        "31": {
+          "he": "(לא) בל תשקצו - ואם משהא עצמו לקטנים עובר משום בל תשקצו ומשום שלא יהיה עקר. והמשהא מלהפיח אינו עובר על בל תשקצו. גם האיסור בל תשקצו נדחה מפני כבוד הבריות כגון המשהא נקביו עד שימצא מקום צנוע וכה\"ג. יזהר מאוד לקנח היטיב כי צואה במקומה במשהו כמו שכתב בסימן ע\"ו ס\"ה. וטוב לרחוץ פי הטבעת במים או ברוק:",
+          "en": "You shall not make yourselves detestable - And if he holds himself back from urinating, he transgresses \"you shall not make yourselves detestable\" (Leviticus 11:43) as well as \"there will not be among you a sterile male\" (Deuteronomy 7:14).  And one who holds himself back from passing gas does not transgress \"you shall not make yourselves detestable\".  Also, the transgression of \"you shall not make yourselves detestable\" is pushed off when it comes to the dignity of people.  For example, if a person holds back from relieving himself until he can find a private place, or similar.  One should be very careful to clean himself very well [after relieving himself], because feces [found] anywhere [on his body is forbidden] with any amount, like is written in siman 76, se'if 5.  And it's good to wash one's anus with water or spit.",
+          "ref": "Mishnah Berurah 3:31"
         }
       }
     }

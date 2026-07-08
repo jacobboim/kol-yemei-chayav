@@ -1,0 +1,520 @@
+{
+  "chelek": "YD",
+  "siman": 244,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 18,
+  "fetchedAt": "2026-07-08T00:01:26.794Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "קימה והידור בפני חכם אפילו אינו רבו. ובו י\"ח סעיפים:מצות עשה לקום מפני כל חכם אפי' אינו זקן אלא יניק וחכים ואפי' אינו רבו (רק שהוא גדול ממנו וראוי ללמוד ממנו) (טור בשם הרמב\"ם ור\"ן פ\"ק דקדושין) וכן מצוה לקום מפני שיבה דהיינו בן שבעים שנה (אפילו הוא ע\"ה ובלבד שלא יהיה רשע) (ב\"י בשם התוס' ובהגהות מיי' פ\"ו ומרדכי פ\"ק דקדושין ור' ירוחם ור\"ן ור\"ת):",
+      "en": "Standing and showing honor before a sage, even if he is not one’s teacher. Containing 18 paragraphs: It is a positive commandment to stand up before any sage, even if he is not elderly but is a young scholar, and even if he is not one’s teacher (as long as he is greater than oneself and worthy of being learned from) (Tur quoting the Rambam and Ran, first chapter of Kiddushin). Likewise, it is a mitzvah to stand before an elderly person—i.e., someone aged seventy—even if he is an ignoramus, provided he is not wicked (Beit Yosef quoting Tosafot, Hagahot Maimoniyot ch. 6, Mordechai Kiddushin, Rabbeinu Yeruḥam, Ran, and Rabbeinu Tam).",
+      "ref": "Shulchan Arukh, Yoreh Deah 244:1"
+    },
+    {
+      "seif": 2,
+      "he": "מאימתי חייב לקום מפניהם משיגיע לתוך ארבע אמותיו עד שיעברו מכנגד פניו ורכוב כמהלך דמי:",
+      "en": "From when is one obligated to stand before them? From the moment they enter within four cubits (about two meters) until they pass out of one’s line of sight. Someone riding is considered as walking.",
+      "ref": "Shulchan Arukh, Yoreh Deah 244:2"
+    },
+    {
+      "seif": 3,
+      "he": "אסור להעצים עיניו ממנו קודם שיגיע לתוך ארבע אמותיו כדי שלא יצטרך לקום מפניו כשיגיע לתוך ארבע אמותיו:",
+      "en": "It is forbidden to deliberately close one’s eyes before he reaches within four cubits in order to avoid having to stand up for him when he comes closer.",
+      "ref": "Shulchan Arukh, Yoreh Deah 244:3"
+    },
+    {
+      "seif": 4,
+      "he": "אין עומדים מפניהם לא בבית הכסא ולא בבית המרחץ דכתיב תקום והדרת קימה שיש בה הידור (ודוקא בבית הפנימי של מרחץ אבל בבית החיצון עומדים): (ב\"י בשם הגמ' ורי\"ף ורא\"ש ור' ירוחם ואגודה וסמ\"ג סכ\"ב):",
+      "en": "One does not stand for them in a bathroom or a bathhouse, as it is written: \"You shall rise and show honor\"—the standing must be accompanied by honor. (This refers specifically to the inner room of the bathhouse, but in the outer room one should stand.) (Beit Yosef quoting the Gemara, Rif, Rosh, Rabbeinu Yeruḥam, Aguda, and Sefer Mitzvot Gadol, negative commandment 22.)",
+      "ref": "Shulchan Arukh, Yoreh Deah 244:4"
+    },
+    {
+      "seif": 5,
+      "he": "אין בעלי אומניות חייבים לעמוד בפני תלמיד חכם בשעה שעוסקים במלאכתן ואם הוא עוסק במלאכת אחרים ורוצה להחמיר על עצמו לעמוד מפניו אינו רשאי:",
+      "en": "Craftsmen are not obligated to stand before a Torah scholar while they are engaged in their work. If he is working for someone else and wants to be stringent with himself and stand, he is not permitted to do so.",
+      "ref": "Shulchan Arukh, Yoreh Deah 244:5"
+    },
+    {
+      "seif": 6,
+      "he": "אין ראוי לחכם שיטריח על הצבור לכוין לעבור לפניהם שיעמדו מפניו אלא ילך לו בדרך קצרה כדי שלא ירבו לעמוד ואם יוכל להקיף הדרך כדי שלא יעבור לפניהם זכות הוא לו:",
+      "en": "A sage should not trouble the public by intentionally walking before them to cause them to stand. Rather, he should take a short route so as not to cause many people to rise; if he can avoid passing before them entirely, it is meritorious.",
+      "ref": "Shulchan Arukh, Yoreh Deah 244:6"
+    },
+    {
+      "seif": 7,
+      "he": "אפי' חכם שהוא ילד עומד בפני הזקן המופלג בזקנה ואינו חייב לעמוד מלא קומתו אלא כדי להדרו ואפילו זקן עובד כוכבים מהדרים אותו בדברים ונותנים לו יד לסומכו:",
+      "en": "Even a scholar who is a youth must stand before an exceptionally elderly person. However, he is not obligated to rise to his full height, only enough to show honor. Even for an elderly non-Jew, one honors him with words and offers him a hand for support.",
+      "ref": "Shulchan Arukh, Yoreh Deah 244:7"
+    },
+    {
+      "seif": 8,
+      "he": "שני חכמים ושני זקנים אין אחד צריך לקום מפני חבירו אלא יעשה לו הידור (ואפי' הרב לתלמידו יעשה לו הידור קצת) (מהגהת מיימוני פ\"ה דת\"ת בשם רמ\"ך):",
+      "en": "When two sages or two elderly men encounter one another, neither is required to stand for the other, but each should show some form of respect. (Even a teacher should show a bit of honor to his student) (from Hagahot Maimoniyot ch. 5 of Talmud Torah in the name of RaMaḥ).",
+      "ref": "Shulchan Arukh, Yoreh Deah 244:8"
+    },
+    {
+      "seif": 9,
+      "he": "הרואה חכם עובר אינו עומד עד שיגיע לתוך ארבע אמותיו וכיון שעבר מלפניו יושב ואם הוא רבו מובהק עומד מלפניו מלא עיניו ואינו יושב עד שיתכסה מעיניו או עד שישב במקומו:",
+      "en": "One who sees a sage passing does not stand until the sage comes within four cubits, and once the sage passes in front of him, he may sit. If it is one’s primary teacher, one must stand when he is fully in view and remain standing until the teacher is hidden from view or sits in his place.",
+      "ref": "Shulchan Arukh, Yoreh Deah 244:9"
+    },
+    {
+      "seif": 10,
+      "he": "אם הוא מופלג בחכמה אפי' אינו רבו דינו כרבו מובהק (מי שהוא גדול הדור ומפורסם בדורו בכך נקרא מופלג בחכמה) (ת\"ה סימן קל\"ח ותוס'):",
+      "en": "If someone is exceptionally wise—even if he is not one’s teacher—he is treated like a primary teacher. (Someone who is the greatest of the generation and publicly recognized as such is considered exceptionally wise) (Terumat HaDeshen §138 and Tosafot).",
+      "ref": "Shulchan Arukh, Yoreh Deah 244:10"
+    },
+    {
+      "seif": 11,
+      "he": "אפילו בשעה שהוא עוסק בתורה צריך לעמוד מפניו:",
+      "en": "Even while one is studying Torah, one must stand before such a sage.",
+      "ref": "Shulchan Arukh, Yoreh Deah 244:11"
+    },
+    {
+      "seif": 12,
+      "he": "חכם אפי' הוא מופלג בחכמה רשאי לעמוד בפני מי שהוא בעל מעשים (ר\"ן בשם הרמב\"ן):",
+      "en": "A sage, even if exceptionally wise, may choose to stand before someone who is known for outstanding deeds (Ran quoting the Ramban).",
+      "ref": "Shulchan Arukh, Yoreh Deah 244:12"
+    },
+    {
+      "seif": 13,
+      "he": "ראה אב בית דין עומד מלפניו משיראנו מרחוק מלא עיניו עד שיעבור מלפניו ארבע אמות:",
+      "en": "One who sees the head of the court (Av Beit Din) must stand when he sees him from a distance with full vision and remain standing until he passes within four cubits.",
+      "ref": "Shulchan Arukh, Yoreh Deah 244:13"
+    },
+    {
+      "seif": 14,
+      "he": "ראה את הנשיא עומד מלפניו מלא עיניו ואינו יושב עד שישב במקומו או עד שיתכסה מעיניו וכולם שמחלו על כבודם כבודם מחול ואעפ\"כ מצוה לכבדם ולקום מפניהם קצת:",
+      "en": "One who sees the Nasi (head of the Sanhedrin) must stand when he is fully in view and not sit until the Nasi either sits down or is no longer visible. All of them, if they waive their honor, it is waived. Nevertheless, it is still a mitzvah to honor them and stand before them to some extent.",
+      "ref": "Shulchan Arukh, Yoreh Deah 244:14"
+    },
+    {
+      "seif": 15,
+      "he": "כשהנשיא נכנס לבית המדרש עומדים ואינם יושבים עד שיאמר להם שבו כשאב בית דין נכנס עושים לו שורות עומדים מכאן ומכאן עד שישב במקומו כשהחכם נכנס כל שיגיע לו בארבע אמותיו עומד מלפניו אחד עומד ואחד יושב עד שנכנס במקומו:",
+      "en": "When the Nasi enters the study hall, all stand and do not sit until he tells them to sit. When the head of the court enters, they form rows standing on each side until he sits in his place. When a sage enters, anyone within four cubits must stand; one person may be standing and one sitting until the sage reaches his place.",
+      "ref": "Shulchan Arukh, Yoreh Deah 244:15"
+    },
+    {
+      "seif": 16,
+      "he": "בני חכמים ות\"ח בזמן שהרבים צריכים להם מפסיעים על ראשי העם ונכנסים למקומם ואין שבח לתלמיד חכם שיכנס באחרונה יצא לצרכיו נכנס וחוזר למקומו:",
+      "en": "Sons of sages and Torah scholars, when the public needs them, may walk over the heads of the people (i.e., walk through the crowd) to reach their place. It is not praiseworthy for a Torah scholar to be the last to enter. If he left temporarily for his needs, he may return to his place.",
+      "ref": "Shulchan Arukh, Yoreh Deah 244:16"
+    },
+    {
+      "seif": 17,
+      "he": "בני חכמים שאבותיהם ממונים פרנסים על הצבור בזמן שיש בהם דעת לשמוע נכנסים ויושבים לפני אביהם והופכים פניהם כנגד אביהם ואם אין בהם דעת לשמוע הופכים פניהם כלפי העם:",
+      "en": "Sons of sages whose fathers serve as leaders of the community, if they have the maturity to understand and listen, may sit before their father and turn their faces toward him. If they are not mature enough to understand, they should face the people.",
+      "ref": "Shulchan Arukh, Yoreh Deah 244:17"
+    },
+    {
+      "seif": 18,
+      "he": "היו ביחד חכם שמופלג בחכמה והוא בחור וזקן שמופלג בזקנה והוא חכם קצת בישיבה של דין או של תורה הולכים אחר החכמה להושיב החכם בחור בראש ולדבר תחילה ובמסיבה של משתה או של נישואים הולכים אחר הזקנה להושיבו בראש ואם החכם מופלג בחכמה והזקן אינו מופלג בזקנה בכל מקום הולכים אחר החכמה ואם הזקן מופלג בזקנה והחכם אינו מופלג בחכמה בכל מקום הולכים אחר הזקנה הואיל והוא חכם קצת ואם אין שום אחד מהם מופלג לא זה בחכמה ולא זה בזקנה הזקן קודם בכל מקום:",
+      "en": "If an outstanding young Chacham is with a very old moderate Chacham, regarding sitting in judgment or Torah, we seat the younger, greater Chacham at the head and he speaks first. At a drinking feast or wedding feast, we follow seniority and seat the oldest at the head. If the younger is an outstanding Chacham, and the elder is not so old, the Chacham always comes first. If the elder is exceedingly old, and the Chacham is not so outstanding, the elder always comes first, since he is somewhat Chacham. If neither is so Chacham or so old, the elder is first in every case.",
+      "ref": "Shulchan Arukh, Yoreh Deah 244:18"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "לשון הטור מבריי' קידושין דף ל\"ב ע\"ב וכר' יוסי הגלילי וכדמפרש שם בגמרא: (°) אינו ברמב\"ם וכבר העיר הב\"י בזה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:1"
+        },
+        "2": {
+          "he": "כ\"כ הרא\"ש שם אהא דא\"ר יוחנן הלכה כדאיסי בן יהודה דאמר אפי' כל שיבה במשמע שם דף ל\"ג ע\"א וכפי' ר\"ת שם בתוס' דף ל\"ב ריש ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:2"
+        },
+        "3": {
+          "he": "ברייתא שם דף ל\"ג ע\"א ושם ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:3"
+        },
+        "4": {
+          "he": "שם בברייתא ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:4"
+        },
+        "5": {
+          "he": "שם בעיא ונפשטא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:5"
+        },
+        "6": {
+          "he": "שם בבריית' דף ל\"ב ע\"ב וכדמפרש שם בגמרא דף ל\"ג ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:6"
+        },
+        "7": {
+          "he": "שם בברייתא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:7"
+        },
+        "8": {
+          "he": "שם דף ל\"ג ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:8"
+        },
+        "9": {
+          "he": "ל' הטור מהא דאיתא שם בגמ' אין בעלי אומניות רשאין וכפי' השני שבתוס' שם וכ\"כ הרמב\"ם בפ\"י:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:9"
+        },
+        "10": {
+          "he": "כפירוש ראשון שבתוספות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:10"
+        },
+        "11": {
+          "he": "שם מהא דרשב\"א שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:11"
+        },
+        "12": {
+          "he": "מהא דאביי ורבי זירא שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:12"
+        },
+        "13": {
+          "he": "שם בשם הרמב\"ם שם פ\"ו וכמו שפירש הטור דבריו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:13"
+        },
+        "14": {
+          "he": "שם ושם וכרבא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:14"
+        },
+        "15": {
+          "he": "כאביי שם דף ל\"ג ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:15"
+        },
+        "16": {
+          "he": "טור מטעם שפי' לדעת הרמב\"ם כיון שצריכין לנהוג בו ג\"כ כבוד אין לו להתבזות לקום:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:16"
+        },
+        "17": {
+          "he": "ברייתא שם דף ל\"ג ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:17"
+        },
+        "18": {
+          "he": "כאביי שם ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:18"
+        },
+        "19": {
+          "he": "מהא דר\"א כד הוה בעי ר' יוחנן לסגויי וכו' יומא דף נ\"ג ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:19"
+        },
+        "20": {
+          "he": "טור בשם ה\"ר פרץ וכדעת התוס' בברכות דף ל\"א ע\"ב וכמ\"ש בתה\"ד סי' קל\"ח דתרי שינויי נינהו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:20"
+        },
+        "21": {
+          "he": "טור וכאביי דלייט עלה קדושין דף ל\"ג ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:21"
+        },
+        "22": {
+          "he": "מהא דא\"ל ניקום מקמיה דגברא דחיל חטאין הוא וכו' שבת דף ל\"א ע\"ב ומהא דשאני רב יחזקאל וכו' קדושין שם (°) פי' ולא אמרי' שהוא זקן ואינו לפי כבודו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:22"
+        },
+        "23": {
+          "he": "ממימרא דרבי אבהו וכו' שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:23"
+        },
+        "24": {
+          "he": "שם במימרא הנזכרת:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:24"
+        },
+        "25": {
+          "he": "שם דף ל\"ב ע\"א וע\"ב ובכתובות דף י\"ז ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:25"
+        },
+        "26": {
+          "he": "ברייתא הוריות דף י\"ב ע\"ב וכפי' התוס' והרא\"ש שם בפרק קמא דקידושין:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:26"
+        },
+        "27": {
+          "he": "שם בברייתא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:27"
+        },
+        "28": {
+          "he": "רמב\"ם שם בפ\"ו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:28"
+        },
+        "29": {
+          "he": "כרבא דאמר האידנא דחלשא עלמא ואפילו לגדולים שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:29"
+        },
+        "30": {
+          "he": "שם בברייתא הנזכרת:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:30"
+        },
+        "31": {
+          "he": "מימרא דרבי אמי וכדמפרש רב אשי בב\"ב דף ק\"ך ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:31"
+        },
+        "32": {
+          "he": "הרמב\"ם שם וכתבו הרא\"ש בפ\"ק דקדושין וכדמפרש הרמב\"ם שם הטעם דבשביל שהבחור חכם קצת יותר ממנו אין לנו לבייש את הזקן והחכם אינו בוש בכך מאחר שזקן ממנו יודע הוא שבשביל זקנתו חולקין לו כבוד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 244:32"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "יניק כו'. כתב בית יוסף בשם שיבולי לקט דהיינו שלא הגיע לכלל המצות ומביאו ד\"מ ופרישה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 244:1"
+        },
+        "2": {
+          "he": "רק שהוא גדול כו'. וכתבו התוס' פרק קמא דקדושין (דף ל\"ב ע\"ב) והסמ\"ק סי' ל\"ב דבעינן שיהא מופלג בחכמה ומביאם בית יוסף וכן כתב הרא\"ש שם ומ\"מ אין זה מופלג דלקמן סעיף י' דהתם הוא מופלג בחכמה יותר משאר חכמי דורו ולכך דינו כרבו מובהק וכמ\"ש הבית יוסף שם בשם התוס' פ' אין עומדין שכתבו דעלי גדול הדור היה ומופלג בחכמה דהכא היינו שהוא מופלג בחכמה יותר משאר העם וכ\"מ בתוס' והרא\"ש שם שהרי לא כתבו כן אלא כדי לתרץ זקן ושיבה ל\"ל דיניק וחכים היינו מופלג בחכמה ואם כן היינו מופלג יותר משאר העם עיין שם ודוק ובהכי ניחא מה שכתב הטור בשם הר\"ף ודלא כהב\"ח שכתב שהר\"ף חולק אסמ\"ק דפשט לשונו לא משמע הכי אלא ודאי כדפירש' ודוק ומה שכתב הטור בשם הרמב\"ם (צ\"ל הרמ\"ה וכן כתב הפרישה שמ\"כ בטור ישן על קלף וכן הוא ברבינו ירוחם נ\"ב ח\"ה בשם הרמ\"ה דלא כבית יוסף וב\"ח שכתבו שצ\"ל הרמב\"ן שוב מצאתי כן בב\"ה) מי שגדול בחכמה וראוי ללמוד ממנו כו' מיירי נמי מופלג בחכמה משאר העם והוא גדול מסתם בני אדם דאל\"כ ע\"ה או מי שהוא קטן בתורה יהא חייב לעמוד בפני כל אדם וזהו דבר שאין לו שחר ועוד דהא לא חייבה התורה לעמוד אלא מפני החכם ונראה שמפני כך לא כתב הטור בריש הסי' וכן בשאר מקומות בסימן זה שהחכם צריך שיהא מופלג דפשיטא הוא שצריך שיהא מופלג משאר העם ודוק ועל פי הדברים האלה מפרש דברי הרב תדע שהרי הר\"ן כתב ג\"כ כדברי הרמ\"ה (וכ\"כ בד\"מ שדעת הר\"ן כדעת הרמ\"ה שכתב הטור לקמן) ומסיק וז\"ל ואפשר שאפילו בשוים נמי פטור שאינו חייב לעמוד מפני חכם אלא בגדול ממנו כו' אלמא דמיירי שהוא חכם מופלג יותר משאר העם דאל\"כ פשיטא דבשוין פטור ומאי ואפשר כו' דאל\"כ כל אדם יהא חייב לעמוד בפני חבירו השוה לו אפילו אינו חכם כלל אלא ודאי כדאמרן אלא דבהא חולק הרמ\"ה אהר\"ף דבאינו מופלג מהחכמים שבדור ואינו רבו כלל משמע דסבירא ליה להר\"ף אפילו גדול ממנו פטור ולהרמ\"ה חייב דראוי ללמוד הוי כרבו מיהו היינו ברבו שאינו מובהק וכ\"כ ר' ירוחם בהדיא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 244:2"
+        },
+        "3": {
+          "he": "אבל בבית החיצון של מרחץ כו'. משמע דאפילו בבית האמצעי של מרחץ עומדים כיון דיש שם שאילת שלום וכמ\"ש בא\"ח סימן פ\"ד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 244:3"
+        },
+        "4": {
+          "he": "אין ראוי לחכם שיטריח כו'. נראה דהיינו דוקא בזמן הש\"ס או במקומות שעוד היום יושבים על הקרקע וכדלקמן סעיף ט\"ו וה\"ה בכל מקום שיש טירחא אבל במקום שיושבים על הספסלים ואין טירחא בדבר אין קפידא מכל מקום לא יכוין לעבור לפניהם כדי שיעמדו מפניו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 244:4"
+        },
+        "5": {
+          "he": "ואינו חייב כו'. כלומר ילד שהוא חכם יותר מהזקן אינו חייב כו' אבל אם אינו חכם יותר אף שהוא שוה לו בחכמה חייב לקום מפני הזקן וכן הוא בתוס' בקידושין סוף דף ל\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 244:5"
+        },
+        "6": {
+          "he": "אינו עומד כו'. משמע דאסור לעמוד עד שיגיע לתוך ד' אמותיו דאי לאשמועינן דאינו חייב כבר נתבאר לעיל סעיף ב' ואע\"ג דבנשיא ואב ב\"ד ורבו מובהק עומד כמלא עיניו אלמא דאיכא הידור אפי' במקום רחוק התם ודאי כיון דחייבינן לעמוד מפניו כמלא עיניו איכא הידור אבל בחכם דעלמא כיון דליכא חיובא לא מוכחא מילתא שמפניו הוא עומד אלא נראה כאלו עומד לצרכו. ב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 244:6"
+        },
+        "7": {
+          "he": "וכיון שעבר מלפניו כו'. והרא\"ש ורש\"י גורסים ואינו יושב עד שיעבור ממנו ד' אמות השניות וכ\"כ הב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 244:7"
+        },
+        "8": {
+          "he": "מלא עיניו. כתוב בסמ\"ק סי' נ\"ב ברבו מובהק כמלא רוס עיניו וכמה הוא רוס פי' רס\"ו אמות:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 244:8"
+        },
+        "9": {
+          "he": "מופלג בחכמה כו'. ע\"ל ס\"ק ב':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 244:9"
+        },
+        "10": {
+          "he": "רשאי כו'. ואין בו משום זקן ואינו לפי כבודו והטור והר\"ן כתבו דחייב לעמוד מפניו וכ\"כ הב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 244:10"
+        },
+        "11": {
+          "he": "אב\"ד כו'. כתוב בסמ\"ק סימן ל\"ב ודין נשיא ואב ב\"ד אין אנו צריכין עתה עכ\"ל משמע דר\"ל דאין בזמנינו נשיא ואב ב\"ד ואע\"פ שמקבלים בקהלות ראשי ישיבות ואב ב\"ד אין להם אלא דין חכם ומה\"ט לא נהגו עכשיו לעשות שורה לאב ב\"ד כדלקמן סעי' ט\"ו ועכשיו נהגו שלא לקום אלא מפני ראש ישיבה ואב\"ד ואפשר שלא לחלק בין חכם לחכם השוו מדותיהם שכל שהוא תופס ישיבה או אב\"ד נקרא חכם לעמוד מפניו ועדיין צ\"ע:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 244:11"
+        },
+        "12": {
+          "he": "בני חכמים ות\"ח כו'. ר\"ל בנים של חכמים ושל ת\"ח שבני קאי אתרווייהו או י\"ל דה\"ק בן חכם או תלמיד של חכם ועד\"ר שהאריך בזה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 244:12"
+        },
+        "13": {
+          "he": "או של נשואים כו'. כתב הב\"ח נראה דהאי של נשואים הכי פירושו אם אחים או אחיות יעשו להם נשואים אע\"ג שא' גדול מחבירו בחכמה לא יקדימו לעשות נשואים לקטן בשנים מפני שהוא גדול בחכמה אלא יקדימו לעשות נשואים לגדול בשנים כו':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 244:13"
+        },
+        "14": {
+          "he": "הזקן קודם בכל מקום. צ\"ל ג\"כ והוא שיהא חכם קצת וכל שכן הוא ומיירי נמי שהבחור חכם ממנו דאל\"כ פשיטא. מהרש\"ל ופרישה. והר\"ן כתב שיש חולקים דהיכא דאין אחד מופלג הוי ליה כאילו תרווייהו מופלגים ובישיבה הלך אחר החכמה ובמסיבה הלך אחר הזקנה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 244:14"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אפילו אינו זקן. דזקן דקרא דריש איסי בן יהודה זה שקנה חכמה והאי יניק פי' בית יוסף בשם שיבולי לקט שלא הגיע לכלל מצוה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 244:1"
+        },
+        "2": {
+          "he": "אפילו עם הארץ. זהו זקן אשמאי בגמ' לפי' ר\"ת ולא כרש\"י דמפרש שהוא רשע:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 244:2"
+        },
+        "3": {
+          "he": "ארבע אמותיו. דבעינן קימה שיש בה הידור והיינו בתוך ארבע אמותיו שמוכחא מילתא שמפניו הוא עומד. רש\"י:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 244:3"
+        },
+        "4": {
+          "he": "ואינו חייב לעמוד מלא קומתו. כיון שהוא ילד חכם וצריכין לנהוג בו ג\"כ כבוד אין לו להתבזות לקום מפני הזקן אלא יעשה לו הידור אבל שאר אדם צריך לעמוד מפני הזקן מלא קומתו כמו מפני החכם. טור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 244:4"
+        },
+        "5": {
+          "he": "הרואה חכם כו'. פי' שהוא גדול ממנו וראוי ללמוד ממנו כמו שכתב רמ\"א בסעיף א':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 244:5"
+        },
+        "6": {
+          "he": "רשאי לעמוד. פירוש ואין בזה איסור משום זקן ואינו לפי כבודו ובטור כתב בזה צריכין לעמוד מפניו והביא ב\"י דעות בזה וכ' מו\"ח ז\"ל להחמיר כדעת הטור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 244:6"
+        },
+        "7": {
+          "he": "בני חכמים כו'. זהו בתוספת' סוף מס' הוריות ונראה פירושו ע\"פ שאמרו בפ' מצות חליצה גבי מעשה דרבי ישמעאל ברבי יוסי ואבדן דתחילה היה ר' ישמעאל מפסיע על ראשי עם קודש ואמר הטעם אני ישמעאל בר' יוסי באתי ללמוד תורה מרבי ואחרכך באה יבמה לפני רבי ואמר לאבדן צא ובדקה אם גדולה היא לבתר דנפק אמר רבי ישמעאל בשם אביו אין צריכין דבאיש בעינן דוקא שיהא גדול אבל אשה בין גדולה בין קטנה וכשחזר אבדן הוה מפסיע על ראשי עם קודש אמר רבי ישמעאל מי שצריך לו עם קודש יפסיע על ראשי עם קודש ומי שא\"צ לו עם קודש לא יפסיע על ראשי עם קודש כו' מבואר מזה דחכם עצמו יפסיע על ראשי עם קודש כיון שצריכים לתורתו אע\"פ שיש אדם גדול אחר שם וזהו טעם לפסיעות ר' ישמעאל כו' להורות ברמז שגם הוא חכם ורבים צריכים לו אף ע\"פ שבאתי ללמוד מרבי. ואבדן לא היה לו מעלה זאת אלא מעלתו היה שהלך בשליחותו של רבי לדבר מצוה ועל כן היה רוצה לפסוע ואמר לו רבי ישמעאל ששליחותו היתה בחנם שאין האשה צריכה בדיקה ועל כן אין לו רשות לפסוע והורה לו רבי שם וע\"כ אמרו התוס' שאם הבנים של החכמים או התלמידים של החכמים הולכים באיזה עסק אז אם אותו עסק הוא לצורך רבים יש להם רשות לפסוע ובזה אין חילוק הן אם היה העסק ההוא קודם כניסתן לבית המדרש שיש להם רשות ליכנס ולפסוע והן אם היו כבר שם ויוצאין לעסק זה וחוזרין שיש לפסוע ומ\"ש אחר כך יצא לצרכיו כו' דמשמע אע\"פ שהוא חכם אינו מפסיע אא\"כ ביוצא לצרכיו זהו כיון שכבר היה שם ויצא ובגמרא מחלק דביוצא לקטנים דוקא מיירי אבל ביוצא לגדולים הוה פושע דאיבעי ליה למבדק נפשיה תחלה ורבא אמר האידנא דחלש עלמא אפילו לגדולים ובתוספות פ' מצות חליצה (יבמות דף ק\"ה) הקשו מההיא דפרק קמא דסנהדרין אזהרה לדיין שלא יפסיע על ראשי עם קודש ותירצו היינו שלא יצא לצורך עם קודש אי נמי אפילו יצא לצורך עם קודש יש לו לקצר כפי מה שיוכל כדאמרינן בזקן מנין שלא יטריח כו' עכ\"ל כנ\"ל בדברים אלו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 244:7"
+        },
+        "8": {
+          "he": "שיכנס באחרונה. ואע\"ג דפרש\"י באלה הדברים בפסוק ראשיכם עליכם שהראש יכנס באחרונה היינו שהרשות בידו לעשות כן והקהל מחויבים לסבול דבר זה ממנו אבל הוא עצמו ימנוע מלעשות כן דוגמא דקימה אע\"ג דמצוה היא אפילו הכי אמרינן שלא יטריח הצבור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 244:8"
+        },
+        "9": {
+          "he": "נכנסים ויושבים כו'. הך נכנסין אין פירושו שיפסיע על ראשי עם קודש דלא התירו זה אלא בשביל צורך עם קודש אלא ה\"ק שיש לאביהם רשות ליקח בניהם עמהם בשעת כניסתן ולהחזיק בניהם אצלם במקום מושבם וכן אמרו עוד בגמ' דאף במשתה מושיבין הבנים בצד הזקנים משום כבוד אביהם. כן נראה לי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 244:9"
+        },
+        "10": {
+          "he": "הזקן קודם בכ\"מ. צריכין לומר גם כן והוא שיהא חכם קצת כמו ברישא וכ\"ש הוא ומיירי נמי שהבחור חכם ממנו דאל\"כ פשיטא וכן איתא להדיא באשר\"י ואין להקשות א\"כ אמאי הוצרך לומר היכא שהזקן מופלג והחכם אינו מופלג שהזקן קודם הא כל שכן הוא מכח דין זה דיש לומר דקא משמע לן דאפ\"ה בעינן שיהא הזקן חכם קצת. בשם רש\"ל. ומשמע מדברי רשב\"ם פרק יש נוחלין גבי בנות צלפחד דבשניהם אינם מופלגים הולכים אחר השנים דהיינו למי שיש לו יותר שנים ואפי' אינו זקן בן ע' שנה. וטעם שהזקן קודם בזה שאין בזה פחיתות להחכם שאינו מופלג במה שחולקין כבוד לכשנגדו בשביל שנותיו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 244:10"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "מפני כל חכם. עיין בשיורי כנה\"ג ובשאילת יעב\"ץ ח\"ב סימן קצ\"ה מה שכתבו בענין אי חייבים לקום מפני אשת חבר:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 244:1"
+        },
+        "2": {
+          "he": "אמותיו . עבה\"ט של הרב מהרי\"ט ז\"ל בשם בית הלל ועיין מה שכתבתי לעיל סימן ר\"מ ס\"ק ו':",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 244:2"
+        },
+        "3": {
+          "he": "אין עומדין בפניהם. כתב הלחם משנה בפ\"ו מהלכות ת\"ת שדין זה אפילו ברבו מובהק וע' בס' ארבעה טורי אבן על הרמב\"ם שם שחולק עליו וסובר דדוקא ברבו שאינו מובהק או בשאר חכם או שיבה יש אלו דינים אבל ברבו מובהק שהוא בכלל מורא צריך לקום בפניו גם בבית המרחץ וכן באביו וגם מה שאין בעלי אומניות חייבים או רשאים לעמוד היינו דוקא מפני חכם או רבו שאינו מובהק אבל מפני רבו מובהק צריכים לעמוד ולכן לא הביא הרמב\"ם דינים אלו בפרק דלעיל דמיירי ברבו מובהק וכן הטור והש\"ע כתבו דינים אלו בסימן רמ\"ד ולא בסימן רמ\"ב עכ\"ד ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 244:3"
+        },
+        "4": {
+          "he": "מחול. עבה\"ט של הרב מהרי\"ט ז\"ל ועיין בתשובת חות יאיר סימן ר\"ב שנשאל בת\"ח היודע נגן בכמה מיני כלי זמר אם הרשות בידו לנגן בכנור לפני חתן וכלה או אסור לבזות עצמו מפני כבוד תורתו ואין יכול למחול על בזיונו וכתב דלכאורה זה תלוי בפלוגתא שבין הרמב\"ם והרא\"ש גבי זקן ואינו לפי כבודו הובא בח\"מ סימן רס\"ג ס\"ג דלדברי הרא\"ש שם דאף אם רוצה להחמיר אינו רשאי ה\"ה כאן ושוב כתב דבזה לכ\"ע שרי ומצוה עביד אחרי שהכל יודעים שאין לו שכר בעמלו ושהוא עושה לש\"ש דדברי הרא\"ש אינם רק בדבר מצוה שהיא בין אדם לחבירו דפטרה תורה לזקן ואינו לפ\"כ ככלל שאמרו כל שהיה מטפל באבידה שלו וטוען ה\"נ בשל חבירו דלא צותה תורה רק ואהבת לרעך כמוך ואם ירצה להחמיר נעשה כמבזה תורתו ליטפל בממון עצמו שאין ראוי לבזות עליה משא\"כ במצות שבין ישראל למקום כ\"ש מצוה שהזמן גרמא אין בו משום ביזוי כבוד זקנה ותורה וכל הנוהג קלות בעצמו לצורך גבוה ומצות ה' אף שאינה מצות עשה ממש רק גמילות חסד שילפינן מוהלכת בדרכיו הרי זה משובח ותבא עליו ברכה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 244:4"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "יניק.  דזקן דקרא היינו שקנה חכמה והאי יניק פי' ב\"י בשם שבולי לקט שלא הגיע לכלל מצות:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 244:1"
+        },
+        "2": {
+          "he": "גדול.  ומ\"מ צריך שיהא מופלג בחכמה יותר משאר העם. ש\"ך וע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 244:2"
+        },
+        "3": {
+          "he": "החיצון.  כתב הש\"ך משמע דאפילו בבית האמצעי של מרחץ עומדים כיון דיש שם שאילת שלום וכמ\"ש בא\"ח סימן פ\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 244:3"
+        },
+        "4": {
+          "he": "שיטריח.  ונראה דהיינו דוקא בזמן הש\"ס או במקומות שעוד היום יושבים על הקרקע וה\"ה בכל מקום שיש טירחא אבל במקום שיושבים על הספסלים ואין טירחא בדבר אין קפידא ומ\"מ לא יכוין לעבור לפניהם כדי שיעמדו מפניו עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 244:4"
+        },
+        "5": {
+          "he": "להדרו.  ודוקא ילד שהוא חכם יותר מהזקן אבל אם אינו חכם יותר אף שהוא שוה לו בחכמה חייב לקום מפני הזקן מלא קומתו וכ\"ש שאר בני אדם כ\"כ התוס' בקידושין:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 244:5"
+        },
+        "6": {
+          "he": "חכם.  פי' שהוא גדול ממנו וראוי ללמוד ממנו וכתב הש\"ך ומשמע דאסור לעמוד עד שיגיע לתוך ד' אמותיו דכיון דליכא חיובא לא מוכחא מילתא שמפניו הוא עומד אלא נראה כעומד לצרכו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 244:6"
+        },
+        "7": {
+          "he": "עיניו.  כתב בסמ\"ק כמלא רוס עיניו פי' רס\"ו אמות:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 244:7"
+        },
+        "8": {
+          "he": "רשאי.  והטור והר\"ן כתבו דחייב לעמוד מפניו וכ\"כ הב\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 244:8"
+        },
+        "9": {
+          "he": "אב\"ד.  כתב הש\"ך דאין בזמנינו נשיא ואב\"ד ואע\"פ שמקבלים בקהלות ראשי ישיבות ואב ב\"ד אין להם אלא דין חכם ועכשיו נהגו שלא לקום אלא מפני ראש ישיבה ואב\"ד ואפשר שלא לחלק בין חכם לחכם השוו מדותיהם שכל שהוא תופס ישיבה או אב\"ד נקרא חכם לעמוד מפניו ועדיין צ\"ע עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 244:9"
+        },
+        "10": {
+          "he": "חכמים.  פי' בני של חכמים ושל ת\"ח או י\"ל דה\"ק בן חכם או תלמיד של חכם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 244:10"
+        },
+        "11": {
+          "he": "אביהם.  פי' הט\"ז שיש לאביהם רשות ליקח בניהם עמם בשעת כניסתן ולהחזיק בניהם אצלם במקום מושבם וכן אמרו עוד בש\"ס דאף במשתה מושיבין הבנים בצד הזקנים משום כבוד אביהם עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 244:11"
+        },
+        "12": {
+          "he": "נישואים.  כתב הב\"ח דהכי פי' אם אחים או אחיות יעשו להם נשואים אע\"ג שאחד גדול מחבירו בחכמה לא יקדימו לעשות נשואים קטן בשנים מפני שהוא גדול בחכמה אלא יקדימו לעשות נשואים לגדול בשנים כו':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 244:12"
+        },
+        "13": {
+          "he": "קודם.  צ\"ל והוא שיהא ג\"כ חכם קצת כמו ברישא וכ\"ש הוא ומיירי נמי שהבחור חכם ממנו דאל\"כ פשיטא. כ\"כ מהרש\"ל ופרישה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 244:13"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

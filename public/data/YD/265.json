@@ -1,0 +1,600 @@
+{
+  "chelek": "YD",
+  "siman": 265,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 13,
+  "fetchedAt": "2026-07-08T00:01:28.255Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "סדר ברכת המילה ודין מילה ביום התענית. ובו י\"ג סעיפים:המל מברך אשר קדשנו במצותיו וצונו על המילה ואבי הבן מברך בין חתיכת הערלה לפריעה אשר קדשנו במצותיו וצונו להכניסו בבריתו של אברהם אבינו: הגה ואם אין אבי הבן אצל המילה יש מי שאומר שאדם אחר מברך ברכה זו דהרי הבית דין מצווין למולו (רמב\"ם בשם י\"א) ונוהגין שמי שתופס הנער מברך ברכה זו (טור ובשם ראב\"ד והגהת מיי'בשם סמ\"ק) וכן אם האב בכאן ואינו יודע לברך (רבינו ירוחם נתיב א' וכ\"כ ב\"י בשם אבודרהם) . האב והמוהל כשמברכים צריכים לעמוד (טור וב\"י בשם ב\"ה) אבל התופס הנער כשמברך נוהגים שיושב ומברך י\"א שכל העם שהם אצל המילה יעמדו שנאמר ויעמוד העם בברית (מרדכי פר\"א דמילה וכל בו ור' ירוחם ואבודרהם ותניא) וכן נוהגין מלבד התופס הנער שהוא יושב ואם אחרים עומדים שם אומרים כשם שהכנסתו לברית כן תכניסהו לתורה ולחופה ולמעשים טובים ואבי הבן או המוהל או א' מהעם מברך על הכוס בורא פרי הגפן ויש נוהגים ליטול הדס בידו ומברך עליו ולהריח ואומר בא\"י אלהינו מלך העולם אשר קדש ידיד מבטן וכו' ונוהגין שכשמגיע לבדמיך חיי נותן מהיין באצבעו בפי התינוק (וכשהמוהל מברך ברכה זו רוחץ תחלה ידיו ופיו כדי שיברך בנקיות) (אבודרהם):",
+      "en": "Order of the blessings of the Bris and Laws of Bris on fast day.The circumciser blesses “who sanctified us with his commandments and commanded us regarding circumcision.” The father blesses between the cutting of the foreskin and peeling back: “who sanctified us with his commandments and commanded us to bring him into the covenant of Abraham, our father.” Rema: If the father of the boy is not at the Bris, there are those who say that another man makes this blessing because the court is obligated to circumcise him (Rambam) and our practice is that the one who holds the boy makes this blessing (Tur in the name of the Raavad and Hagahot Maimoniyot in the name of the Smak). So too if the father is at the Bris, but does not know how to make the blessing (Rabbeinu Yerucham). The father and the mohel need to stand when they bless, but the one holding the boy customarily sits when he blesses. There are those who say that all people at the Bris must stand because it says that “all the nation stood in covenant.” This is our custom except for the one holding the boy who sits down. And if others are standing there, they say “just as you brought him into the covenant, so too should you bring him in to Torah, to the wedding canopy, and to good deeds.” The father or the mohel, or one of the people there blesses on a cup: “who creates the fruit of the vine.” And some have the custom to take a myrtle in their hands, to bless on it and to smell it. He says “Blessed are You, Adonoy our God, King of the Universe, who sanctified his dear one from the womb etc.” Our custom is when we reach “BeDamayich Chayii” to put wine on his finger and in the mouth of the baby. (And when the mohel makes the blessing, he should wipe his hands and mouth first so that he does it in cleanliness.) (Abudarham)",
+      "ref": "Shulchan Arukh, Yoreh Deah 265:1"
+    },
+    {
+      "seif": 2,
+      "he": "אם אבי הבן הוא מוהל בעצמו מברך למול את הבן לדעת הרמב\"ם (ויש חולקין (טור בשם בעל העיטור) וכן נוהגין שלא לחלק מיהו אם בירך למול או שבירך ברכת להכניסו לחוד יצא) (וכן משמע בהגהות מיימוני):",
+      "en": "If the father of the boy is the mohel, he blesses “to circumcise a son” according to the Rambam. (But there are those who disagree, (Tur in the name of the Baal Haitur) and our custom is not to differentiate. However, if he blessed “limol” or “lehachnieso” alone, he has fulfilled his obligation) (Hagahot Maimoniyot)",
+      "ref": "Shulchan Arukh, Yoreh Deah 265:2"
+    },
+    {
+      "seif": 3,
+      "he": "גר שמל קודם שנתגייר וקטן שנולד כשהוא מהול כשמטיפין ממנו דם ברית אינם צריכים ברכה וכן אנדרוגינוס אין מברכין על מילתו מפני שאינו זכר ודאי: הגה אבל כשחוזרין על ציצין המעכבים המילה צריך לחזור ולברך כל הברכות אבל אין לומר קיים את הילד הזה וכו' (בנימן זאב סימן ו' בשם אגודה):",
+      "en": "Seif 3 - A convert who was circumcised before he converted, and minor who was born circumcised, when we take a drop of blood from them (הטפת דם) they do not require a blessing. Similarly, one possessing both male and female genitalia, their circumcision does not require a blessing because they are not a male for certain. Rema: But when going back (to cut) flaps of skin that prevent the circumcision [from being kosher], one is required to go back and bless all of the blessings, but one does not say the phrase: “keep this child…”",
+      "ref": "Shulchan Arukh, Yoreh Deah 265:3"
+    },
+    {
+      "seif": 4,
+      "he": "ממזר כישראל הוא ומברכין עליו ברכת מילה עד כורת הברית אבל אין מבקשים עליו רחמים. (ומפרסמין בשעת מילתו שהוא ממזר) (מהרי\"ל) ביוהכ\"פ ובד' צומות לא יברך על הכוס (טור בשם בעל העיטור וע\"פ) מיהו בג' צומות מהם שהיולדת אינה מתענה יכול לברך על הכוס ותטעום ממנו היולדת אם היא שומעת הברכה ומתכוונת שלא להפסיק בדברים בין שמיע' הברכה לשתיית הכוס אבל ביום הכפורים וט' באב שאין היולדת יכולה לשתות אין מברכין על הכוס ובתשעה באב אסא נמי לא מייתינן מטעמא דאין מברכין על הבשמים במוצאי שבת שחל בו תשעה באב: הגה וי\"א דמברך אכוס בכל תעניות ונותנים הברכה לתינוקות קטנים (תוס' בכל מערבין ומרדכי דיומא) וכן פסק בטור א\"ח סי' תקנ\"ט וכן נוהגין וביום כפורים נוהגין ליתן לתינוק הנימול כמו שנתבאר בא\"ח סי' תרכ\"א וי\"א דאף בלא תענית יוצאים בזה (כל בו) אבל אין נוהגין כן אלא הסנדק שותה כשאינו תענית:",
+      "en": "Seif 4 - A mamzer is like a (regular) Jew and we bless the blessing for circumcision until [the point in the blessing when it says] “who makes the covenant”, and we do no has for mercy for him. And we make it public knowledge during his circumcision that he is a mamzer). During Yom Kippur and the other 4 fasts one should not make the blessing over a cup [of wine], however, during the three fasts where a woman who has recently given birth does not need to fast, it is permissible to make the blessing over a cup [of wine], and the woman should taste it if she hears the blessing and intends not to make an interruption between hearing the blessing and drinking the wine, but during Yom Kippur and the 9th of Av, when the woman who has recently given birth is not allowed to drink, we do not make the blessing over a cup [of wine], and during the 9th of Av we do not bring a myrtle, because the reasoning being that we (similarly) don’t make the blessing over the spices when the 9th of Av falls on Saturday night. Rema: And there are those who say that one makes the blessing over the cup [of wine] on all of the fasts, and he gives the blessing (i.e. the wine on which the blessing was made) to the small children. And this is how we practice, and during Yom Kippur, our practice is to give [some wine] to the child who was circumcised. And there are those who say that this is sufficient even when it is not a fast day, but we don’t practice accordingly; rather, the sandek should drink [from the cup] when it is not a fast day.",
+      "ref": "Shulchan Arukh, Yoreh Deah 265:4"
+    },
+    {
+      "seif": 5,
+      "he": "מי שיש לו שני תינוקות למול יברך ברכה אחת לשניהם ואפי' אם שנים מלים הראשון יברך על המילה ועולה גם לשני והשני יברך אשר קדש ידיד ועולה גם לראשון ואפי' אין הנער לפניו בשעת הברכה כיון שדעתו עליו רק שלא יסיח דעתו בינתיים. (ד\"ע בב\"י ולא כרבינו ירוחם) : הגה אבל אם שח בינתיים או שלא היה דעתו על הב' מתחילה צריך לברך אשר קדש ידיד על הראשון ולחזור ולברך על מילת השני ודוקא אם שח בדברים שאינן צרכי המילה אבל בצרכי מילה לא הוי הפסק (רבינו ירוחם ומרדכי ס\"פ כסוי הדם ואבודרהם) ואפי' אם שכח ובירך אשר קידש ידיד לאחר הראשון אינו צריך לחזור ולברך על המילה דברכה לא הוי הפסק (רשב\"א סי' שס\"ב ובכל בו) כמו שנתבאר סי' כ\"ח לענין כסוי דם ואם שני הילדים של אדם אחד האב אומר להכניסם בבריתו של אברהם אבינו (ב\"י בשם מרדכי ואבודרהם) וכן אומר קיים את הילדים וכו' ויתקן כל צרכי המילה לכל א' בפני עצמו כגון הנר שמדליקין יעשה לכל אחד נר בפני עצמו (מהרי\"ל):",
+      "en": "Seif 5 - Someone who has two babies to circumcise should make a single blessing for the two of them, even if two people are circumcising them, the first should make the blessing over the circumcision, which will cover the second circumcision, and the second person should make the blessing: “who Hashem sanctified” and the blessing will count for the first child, and even if the child is not in front of him during the blessing, since he was focused on the child, provided that he was not distracted in the interim.",
+      "ref": "Shulchan Arukh, Yoreh Deah 265:5"
+    },
+    {
+      "seif": 6,
+      "he": "היכא דאפשר עבדינן למילה בעשרה והיכא דלא אפשר עבדינן בפחות מעשרה:",
+      "en": "When it is possible, the circumcision should be done among 10 individuals, and when it is not possible, it can be done among less than 10.",
+      "ref": "Shulchan Arukh, Yoreh Deah 265:6"
+    },
+    {
+      "seif": 7,
+      "he": "כשהאב עצמו מוהל את בנו הוא מברך שהחיינו ואם המוהל הוא אחר י\"א שאין שם ברכת שהחיינו ולהרמב\"ם לעולם האב מברך שהחיינו על כל מילה ומילה וכן נהגו בכל מלכות ארץ ישראל וסוריא וסביבותיה ומלכות מצרים: הגה ובמדינות אלו נוהגין שלא לברך שהחיינו אפי' כשהאב עצמו מל בנו אם לא שמל בנו הבכור שחייב לפדותו מברך שהחיינו בשעת מילה ואינו מברך בשעת פדיון אבל כשפטור מהפדיון אינו מברך שהחיינו. (ע\"פ מהרי\"ל):",
+      "en": "When the father himself is circumcising his son, he makes the blessing Shehachayenu, and if the one who is doing the circumcising is someone else, there are those who say that the blessing Shehachayenu is not said, and according to the Rambam, the father always makes the blessing שהחיינו for every circumcision, and this is how we practice in all of the community of the land of Israel, and in Syria, and in its environs, and in the Egyptian community. Rema: And in these places, the custom is not to bless Shehachayenu, even when the father himself is circumcising his son, unless he is circumcising his firstborn son who is obligated in being redeemed, then he makes the blessing Shehachayenu during the circumcision and does not make the blessing during the redemption, but when the child is exempt from being redeemed, he does not make the blessing Shehachayenu.",
+      "ref": "Shulchan Arukh, Yoreh Deah 265:7"
+    },
+    {
+      "seif": 8,
+      "he": "אין צריך לכסות ערות הקטן בשעת הברכה (אבל יש לנקות הקטן מצואתו קודם שיברך) (ב\"י בשם כל בו והגהת סמ\"ק סי' קנ\"ח):",
+      "en": "Seif 8 - There is no need to cover the child's nakedness during the blessing (for the circumcision). However, the child should be cleaned of any bodily waste before the blessing is recited. (Beit Yosef, in the name of the Kol Bo and the glosses on the Semak, section 158).",
+      "ref": "Shulchan Arukh, Yoreh Deah 265:8"
+    },
+    {
+      "seif": 9,
+      "he": "אבי הבן עומד על המוהל להודיעו שהוא שלוחו:",
+      "en": "The Father of a son, stands over the mohel to let [the mohel] know that he is [acting as] the father’s agent.",
+      "ref": "Shulchan Arukh, Yoreh Deah 265:9"
+    },
+    {
+      "seif": 10,
+      "he": "נותנין את הערלה בחול ועפר (וכן רוקקין דם המציצה אל העפר) (מהרי\"ל בשם יש מקומות) ואם הוא שבת צריך שיהיו מוכנים מבעוד יום. (ב\"י בפירוש בעל העיטור):",
+      "en": "Seif 10 - The Orla (foreskin) must be placed (buried) in sand or dirt. Rama: So too the blood from metzitzah should be spit into dirt.",
+      "ref": "Shulchan Arukh, Yoreh Deah 265:10"
+    },
+    {
+      "seif": 11,
+      "he": "נוהגין לעשות כסא לאליהו שנקרא מלאך הברית וכשמניחו יאמר בפיו שהוא כסא אליהו: הגה ונוהגין להדר אחר מצוה זו להיות סנדק לתפוס התינוק למוהלו (הגהות מיימוני פרק ג' דמילה) ויפה כח הסנדק מכח המוהל להקדימו לקריאת התורה דכל סנדק הוי כמקטיר קטורת (מהרי\"ל בשם ר\"פ) ולכן נוהגין שלא ליתן שני ילדים לבעל ברית אחד כדאמרינן גבי קטורת חדשים לקטורת (שם בשם ר\"פ) ואין לאשה להיות סנדק לתינוק במקום שאפשר באיש משום דהוי כפריצות ומ\"מ היא עוזרת לבעלה ומביאה התינוק עד בית הכנסת ואז לוקח האיש ממנה ונעשה סנדק (שם בשם מוהר\"ם) אבל האיש יכול לעשות הכל בלא אשה (כן עשה מהרי\"ל) נהגו המוהלים להתפלל ביום המילה שנאמר רוממות אל בגרונם וחרב פיפיות בידם:",
+      "en": "Seif 11 - It is customary to set up a chair for Elijah, who is called the \"angel of the covenant.\" When placing it, one should say aloud that it is Elijah's chair. Rama: It is also customary to honor this mitzvah by being the sandak (the one who holds the baby during the circumcision ceremony) for the mohel (the one who performs the circumcision). (Hagahot Maimoni, chapter 3 on Hilkhot Milah) The power of the sandak is considered greater than that of the mohel, entitling him to be called up first to the Torah reading, for every sandak is likened to one who offers incense (MaHaRIL, in the name of R' Peretz). Therefore, it is customary not to assign two children to a single father for the circumcision, just as we say regarding the incense offering, \"new [attendants] for the incense offering\" (ibid., in the name of R' Peretz). A woman should not be the sandak for a child where a man is available, as it would be considered immodest. However, she can assist her husband by bringing the child to the synagogue, and then her husband takes the child from her and becomes the sandak (ibid., in the name of Maharam). But a man can perform all these roles without a woman (as MaHaRIL did). It has become customary for mohels to pray on the day of the circumcision, as it is said, \"High praises of God are in their throats, and two-edged swords in their hands.\" (Psalms 149:6)",
+      "ref": "Shulchan Arukh, Yoreh Deah 265:11"
+    },
+    {
+      "seif": 12,
+      "he": "נוהגים לעשות סעודה ביום המילה: הגה ונהגו לקחת מנין לסעודת מילה ומקרי סעודת מצוה (פר\"א דמילה ובא\"ז) וכל מי שאינו אוכל בסעודת מילה הוי כמנודה לשמים (תוס' פ' ע\"פ) ודוקא שנמצאו שם בני אדם מהוגנים אבל אם נמצאו בני אדם שאינם מהוגנים א\"צ לאכול שם (ג\"ז שם) עוד נהגו לעשות סעודה ומשתה בליל שבת לאחר שנולד זכר נכנסים אצל התינוק לטעום שם והוא ג\"כ סעודת מצוה (בת\"ה סי' רס\"ט מתוס' פרק מרובה):",
+      "en": "It is customary to have a meal on the day of the circumcision. Rema: And it is customary to assemble a minyan [i.e., a quorum of ten] for the circumcision meal, and it is considered a “mitzvah meal.\" And anyone who does not participate in a mitzvah meal are like those outcast by God, but only if honest/worthy people are [in attendance] there. But if dishonest/unworthy people are [in attendance at the mitzvah meal], one is not obligated to eat there. It is also customary to make a meal and a feast on the Friday night after the birth of a son, and for people to come and partake [of food] near the baby. This is also a mitzvah meal.",
+      "ref": "Shulchan Arukh, Yoreh Deah 265:12"
+    },
+    {
+      "seif": 13,
+      "he": "יום מילה שחל ביום תענית צבור הכתובים מתפללים סליחות ואומרים וידוי כדרכם ואין אומרים והוא רחום ולא נפילת אפים: (אבל אומרים אל ארך אפים) (ב\"י בשם הרשב\"א):",
+      "en": "On the day of a circumcision that falls on a public fast day, those called up to the Torah read the selichot (penitential prayers) and recite the vidui (confession of sins) as usual, but they do not say \"V'hu rachum\" (a liturgical phrase meaning \"But He is merciful\") nor do they perform nefilat apayim (prostrating themselves). (However, they do say \"El erech apayim\" - \"God, patient and merciful.\") (Beit Yosef in the name of Rashba)",
+      "ref": "Shulchan Arukh, Yoreh Deah 265:13"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא שבת דף קל\"ג ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:1"
+        },
+        "2": {
+          "he": "שם בברייתא וכדעת הרא\"ש שם ששמע כן וכ\"כ בנו הטור בשמו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:2"
+        },
+        "3": {
+          "he": "שם בברייתא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:3"
+        },
+        "4": {
+          "he": "לשון הטור מדברי מפרשים והגאונים מדברי המרדכי במסכת יומא נראה שהטעם משום דאמרינן אין אומרים שירה אלא על היין:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:4"
+        },
+        "5": {
+          "he": "שם בברייתא בשבת (וכ\"מ בר\"ן פ' תולין שבב\"י לקמן):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:5"
+        },
+        "6": {
+          "he": "כל בו וכ\"כ הר\"ד אבודרהם ע\"פ המדרש וכתב ושמעתי שעושה צורת שדי באצבעותיו בפי התינוק וכתב מה שנוהגין לכפול ואומר לך בדמיך חיי הוא לרמוז שע\"י המילה יזכה לעוה\"ז ולעוה\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:6"
+        },
+        "7": {
+          "he": "ריש פ\"ג מה\"מ מסוגיא דגמ' פסחים דף ז' ע\"ב וטעמו ליישב קושי' הר\"ן שהקשה עליו עיין בב\"י ובכ\"מ סוף הלכות ברכות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:7"
+        },
+        "8": {
+          "he": "לשון הרמב\"ם שם בפ\"ג וטעמו בקטן כיון דטעמא דצריך להטיף ממנו דם ברית משום דחיישינן שמא ערלה כבושה היא כמו שציינתי בסי' רס\"ג ואין מברכין על הספק וגר שמל קודם שנתגייר לא עדיף מקטן והראב\"ד השיגו בזה מפני שהוא ספק מדאורייתא וחכמי לוניל שאלו מהרמב\"ם ע\"ז והשיב להם חכמים תיקנו את הברכה והם אמרו כל המברך ברכה שאינה צריכה עובר משום לא תשא והביא ראיה מסוכה דאמרינן והלכתא מיתב יתבינן ברוכי לא מברכינן וכו' סוכה דף מ\"ז ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:8"
+        },
+        "9": {
+          "he": "טור בשם הרמב\"ם שם (דין ז'):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:9"
+        },
+        "10": {
+          "he": "טור בשם תשוב' לגאון וכ\"כ בעל העיטו':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:10"
+        },
+        "11": {
+          "he": "ב\"י לדעת הגאונים והרי\"ף והרמב\"ם וכ\"כ בא\"ח סי' תקנ\"ט: (°) כשהיא אינה צריכה לאכול ועי' בא\"ח סי' תקנ\"ד ותקנ\"ט:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:11"
+        },
+        "12": {
+          "he": "טור בשם תשובת הרא\"ש:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:12"
+        },
+        "13": {
+          "he": "טור בשם ר' צמח גאון וכ\"כ בעל העיטור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:13"
+        },
+        "14": {
+          "he": "הגהמי\"י בשם ראבי\"ה (ואגודה) משום שעושה המצוה המוטלת עליו העיקר:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:14"
+        },
+        "15": {
+          "he": "טור בשם בעל העיטור ובשם ר\"י וכ\"כ הגהות מיימוני שלא נהגו כן וכן כ' הרוקח אבל טעמיהם שכתבו משום צערא דינוקא דחה הרשב\"א בתשובה שלא אמרו כן אלא לענין שהשמחה במעונו אבל לענין שהחיינו הוא על שהגיע לו תועלת וטעם הרוקח שכתב שעדיין לא יצא הולד מתורת נפל דחה רבינו ירוחם דאזלינן בתר רובא וגם הרשב\"א דחהו משום דכל שגמרו סימני שעריו וצפרניו סומכים על סימנים האלו אפי' למולו בשבת החמורה כ\"ש לענין ברכה וכת' רבינו ירוחם בשם התוספות דפדיון הבן לא שכיח תקנו לברך שהחיינו אבל מיל' דשכיח לא והרשב\"א האריך עוד בזה וסיים ומפני שראיתי גדולי הדור שלא נהגו לאמרו אני דוחה כן וכו':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:15"
+        },
+        "16": {
+          "he": "בסוף הל' מילה ובסוף הל' ברכות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:16"
+        },
+        "17": {
+          "he": "טור בשם בעל העיטור וכ\"כ הרא\"ש וכל בו בשם הר\"ם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:17"
+        },
+        "18": {
+          "he": "ג\"ז שם בשמו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:18"
+        },
+        "19": {
+          "he": "שם בשם בני מערב ובשם רב יהודאי גאון:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:19"
+        },
+        "20": {
+          "he": "שם על פי המדרש שהבטיחו הקב\"ה לאליהו שאין עושין ברית מילה עד שיראה בעיניו וכ\"כ הרד\"א והביא לשון פרקי דר\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:20"
+        },
+        "21": {
+          "he": "הרד\"א שם ע\"פ המדרש ושכן משמע בגמרא מהא דרב פפא סבר לברוכי שהשמחה במעונו וכו' כתובות דף ח' ע\"א ושכן אמר דוד המלך ע\"פ אספו לי חסידי כורתי בריתי עלי זבח דם מילה שהוא זבח לשמונה ימים וכ\"כ רש\"י ותוספות ובשם המדרש אברייתא דרשב\"ג כל מצוה שקבלו עליהם בשמחה וכו' שבת דף ק\"ל ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:21"
+        },
+        "22": {
+          "he": "הרשב\"א בתשובה (הביאו הב\"י) וכן כ' בא\"ח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 265:22"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "בין חתיכת הערלה כו'. משום דיש פוסקים לברך קודם המילה משום דכל מצות כולן מברך עליהן עובר לעשייתן ויש פוסקים לברך אחר המילה דשמא ימלך המוהל ולא ימול והוי ברכה לבטלה הלכך מברכים אחר המילה קודם הפריעה וחשיב שפיר עובר לעשייתן דמל ולא פרע כאילו לא מל ולשמא ימלך לא חיישי' כיון דכבר מל מיהו אם בירך קודם חתיכת הערלה או אחר הפריעה יצא בדיעבד וא\"צ לחזור ולברך:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:1"
+        },
+        "2": {
+          "he": "להכניסו כו'. כתב בב\"ה בשם הרשב\"ץ כשהאנוסים מוהלין עצמן מברך אקב\"ו להכנס בבריתו של אברהם אבינו עכ\"ל ונראה דפשיטא שמברכים ג\"כ על המילה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:2"
+        },
+        "3": {
+          "he": "כשם שהכנסתו כו'. כן הוא הגירסא ג\"כ בטור ורמב\"ם ושאר פוסקים אבל בש\"ס ואשר\"י איתא כשם שנכנס לברית כן יכנס לתורה ולחופה ומע\"ט וכן הוא באבודרהם וכן נוהגין ונראה דבהכי עדיף טפי לפי שלפעמים אין האב שם או שאין לו אב א\"כ א\"א לומר בלשון נוכח אלא בלשון נסתר כשם שנכנס כו' ולכך לא פלוג וגם נראה דאפי' מאן דגריס כשם שהכנסתו כו' מודה דכשם שנכנס נמי ש\"ד כדאיתא בתניא דף קל\"ג ע\"א העומדים שם אומרים כשם שהכנסתו כו' ואח\"כ כתב בדף קל\"ה ע\"א והעומדים שם אומרים כשם שנכנס לברית כו' כמ\"ש למעלה בענין הברכות ע\"כ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:3"
+        },
+        "4": {
+          "he": "או אחד מהעם כו'. משמע אפי' אינו מוהל או אביו וכתב הב\"ח ומנהגנו שהמוהל מברך לעולם ואינו ישר בעיני דלפעמים הוא ע\"ה ולא די שאינו מבין אלא מדלג ומסרס תיבות ע\"כ הירא דבר ה' לא יניח לברך ברכה זו אלא א' משאר העם המיוחד שבעם ע\"כ. מיהו המנהג הזה מנהג קדמונים הוא שהרי גם הכל בו כתב בסימן ע\"ג ועכשיו נהגו להיות המוהל מברך בפ\"ה ואקי\"מ כו' ואומר קיים את הילד כו':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:4"
+        },
+        "5": {
+          "he": "ואומר כו'. אשר קדש ידיד מבטן וחוק בשארו שם וצאצאיו חתם באות ברית קודש על כן בשכר זאת אל חי חלקנו צורנו צוה להציל ידידות שאריתנו משחת למען בריתו אשר שם בבשרנו בא\"י כורת הברית. כן הוא בש\"ס וטור ושאר פוסקים ועיין פי' ברכה זו בב\"י בשם הפוסקים ועיין בספר תניא ג\"כ בפי' ברכת המילה ובמנהגים ונ\"ל שע\"כ בשכר זאת כו' הוא תפלה ובקשה על העתיד וצוה צ\"ל נקוד בפת\"ח הצד\"י ובציר\"י הוי\"ו דלא כמו שנקוד בכל נוסחאות הלוחות שבב\"ה צוה בחיר\"ק הצד\"י וקמץ הוי\"ו וכן נוהגין כל מוהלים לאמרו שלפי זה הוא לשון עבר ואינו מתיישב ע\"כ בשכר זאת כו' גם לא שייך ל' צוואה אלא ל' הבטחה אלא ודאי כמ\"ש וכן מוכח באגודה בשם הרמב\"ם שכתב שואל מאת ה' ואומר אתה צורנו צוה להציל ידידות שארינו משחת כו' וכן בהלכות גדולות דף כ\"ד ע\"א גריס ע\"כ בשכר זאת אל חי יהא חלקנו להציל ידידות שארינו משחת כו' ואף ע\"ג דאנן לא גרסינן הכי ולא אמרינן הכי מכל מקום נשמע מיניה דל' תפלה היא להבא ואין לתמוה מ\"ש צוה להציל לשון נוכח להקב\"ה ואח\"כ אומר למען בריתו כו' לשון נסתר שכן הוא נוסח הברכות והתפלות בכמה מקומות:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:5"
+        },
+        "6": {
+          "he": "ונוהגים שכשמגיע כו'. לפי שאחר סיום ברכה הנ\"ל אומר אלהינו ואלהי אבותינו קיים את הילד הזה לאביו ולאמו ויקרא שמו כו' עד סוף הפסוקים וכשמגיע לדמיך חיי כופלין ואומר לך בדמיך חיי ונותנין בכל פעם מהיין באצבעו ובב\"י כתוב בשם אבודרהם וכל בו וריטב\"א כשאין לתינוק אב או שאין לו אב ואם נוסחאות אחרות ע\"ש אבל אנו נוהגין כשאין לו אב מדלגין לאביו ואומר קיים את הילד הזה לאמו כו' וכשאין לו ג\"כ אם מדלגין גם אמו ואומר קיים את הילד הזה ויקרא שמו כו' וכ\"כ בהגהת מנהגים ואם ח\"ו נפטר אביו או אמו של תינוק מדלגין מן הברכה איזה שהוא ואומר קיים את הילד הזה לאביו או לאמו ע\"כ וכן הוא בספר תניא דף קל\"א ע\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:6"
+        },
+        "7": {
+          "he": "וקטן שנולד כו'. ע\"ל סי' רס\"ג ס\"ק ד':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:7"
+        },
+        "8": {
+          "he": "שנולד כשהוא מהול כו'. א\"צ ברכה. כתב הטור בשם בעל העיטור ומ\"מ ברכה של להכניסו בבריתו של א\"א ואקי\"מ מברכים והמחבר העתיק לשון הרמב\"ם משמע מדבריו דאין צריך ברכה כלל וכ\"כ הרשב\"א בתשובה סי' שכ\"ט והר\"ן פרק ר\"א דמילה דה\"ה שאין מברכין עליו להכניסו בבשא\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:8"
+        },
+        "9": {
+          "he": "אבל אין מבקשין עליו רחמים. כלומר אין אומרים קיים את הילד כו' מטעם דלא ניחא להו לישראל הקדושים לקיים הממזרים שביניהם ומטעם זה העומדים שם אל יאמרו אחר שנימול כשם שנכנס לברית כו' כן הוא במהרי\"ל:)",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:9"
+        },
+        "10": {
+          "he": "אבל כשחוזרין כו'. כלומר גם בילד כשר אף ע\"פ שאין מברכין על הספק מ\"מ כשחוזרין על ציצין המעכבין כו' צריך לחזור ולברך כו' ולא יאמר קיים הילד אע\"פ שהוא ילד כשר שכבר בקש עליו רחמים בתחלה וכן הוא בעט\"ז וכן במהרי\"ל ובהג\"ה מנהגים בשם אגודה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:10"
+        },
+        "11": {
+          "he": "ומפרסמין בשעת מילתו כו'. וכ' במהרי\"ל שהיו מלין אותו בחצר בית הכנסת אצל פתח בהכ\"נ משא\"כ בכשרים שמלין בפנים אצל הפתח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:11"
+        },
+        "12": {
+          "he": "מטעמ' דאין מברכין על הבשמים כו'. כלומר מטעם שאין מברכין על הבשמים בט' באב שחל להיות במוצאי שבת וכמו דנתבאר בא\"ח בסי' תקנ\"ו והיינו דריח תענוג הוא וה\"ה הכא דאסור להריח במקום שנוהגין ליטול הדם ולהריח בשעת מילה כדלעיל סעיף א' זהו דעת המחבר אבל אינו מוכרח דנראה דהתם היינו טעמא משום שהנשמה יתרה הלכה במ\"ש ונתקן ברכת הבשמים לתענוג להשיב נפשו אבל שיהא אסור בכל ט\"ב להריח בבשמים זה לא שמענו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:12"
+        },
+        "13": {
+          "he": "וכ\"פ המחבר בא\"ח סי' תקנ\"ט. סעי' ז':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:13"
+        },
+        "14": {
+          "he": "אלא הסנדק שותה כו'. ובכל המקומות שהייתי אין נוהגין כן אלא נותנים לשתות לנערים קטנים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:14"
+        },
+        "15": {
+          "he": "או שלא היה דעתו על השני כו'. צ\"ע דלעיל סי' י\"ט ס\"ז כ' הרב די\"א דאפילו לא היה דעתו על השני א\"צ לחזור ולברך כשהן ממין א' וכאן תינוקות הא מין א' הן בשלמא אבעל העיטור גופיה לק\"מ דאע\"ג דדברי הרב שם הם דברי בעל העיטור שהביא הטור שם וכאן כתב הטור בשם בע\"ה כיון דלא אפשר למימהלינהו כחדא צריכה ברכה אכל חדא וחדא דל\"ד לשחיטה דאפשר דשוחט הרבה בהמות ביחד בבת אחת אבל במילה א\"א למימהלינהו כחדא והיינו שכתב בעל העיטור כיון דלא אפשר למימהלינהו כחדא כו' דל\"ד לשחיטה מה\"ט ודלא כהפרישה שכ' צ\"ע הלא כתב בעל העיטור לעיל בדין שחיטה דאם הם ממין א' א\"צ לחזור ולברך ואפשר דשאני שחיטה דדרך לשחוט כמה בהמות זה אחר זה משא\"כ במילה עכ\"ל ולא נהירא דהא משמע אפילו היה דעתו כאן על הרבה תינוקות מצריך בעל העיטור ב' ברכות מטעם דפרישית. שוב מצאתי בריב\"ש סימן שפ\"ד הביא לשון בעל העיטור וז\"ל והיכא דאיכא ליה תרי ינוקא למימהל בבי כנשתא מסתברא לן כיון דלא אפשר למימהלינהו כחדא גופים מחולקים נינהו וצריכה ברכה אכל חדא וחדא ול\"ד לשחיטה דהתם אפשר למישחט תרוייהו כחדא כדגרסינן השוחט והתיז ב' ראשים כאחד שחיטתו כשירה אבל הכא לא אפשר כו' עכ\"ל הרי להדיא כמ\"ש אבל על הרב קשיא כיון דפוסק כאן דא\"צ לחזור ולברך כשהיה דעתו על השני מתחלה אלמא דסבירא ליה כהסכמת הפוסקים שחולקים על בעל העיטור ואע\"ג דלא אפשר למימהלינהו כחדא סגי בחדא ברכה א\"כ כשלא היה דעתו מתחלה נמי הא מין א' הוא וצ\"ע. ולענין דינא העליתי בסי' י\"ט ס\"ק ט' דאפי' במין א' צריך לחזור ולברך א\"כ ה\"ה הכא מיהו היכא שאין מנהג כ' הב\"ח שיש לנהוג ולברך אכל חדא וחדא ויהיו נזהרים שלא יביאו ב' תינוקות ביחד לב\"ה אלא בזה אחר זה דלאחר שנימול הא' יביאו הב' עכ\"ל וכן נכון לעשות משום דעל הרוב מפסיקין בינתיים בשיחה בטלה שאינה מצרכי מילה והוי הפסק לכ\"ע וכ\"כ מהרש\"ל בפרק כסוי הדם ס' ט' שנמנעו בב' תינוקות שאינן של א' לפטרם בברכה א' כי כמה פעמים יביאו לידי שהיות גדולות והיסח הדעת:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:15"
+        },
+        "16": {
+          "he": "ואפי' אם שכח וכו'. מהרש\"ל שם כ' דה\"ה אף הראשון יכול לברך אשר קדש אלא דלא ליתי לאנצויי הוא והיה נראה להביא ראיה לדבריו ממ\"ש בית יוסף ומדברי רבי' ירוחם נראה שמברך אשר קדש אחר כל מילה וכו' אבל באמתלא נראה כלום בר' ירוחם שלא העתיק שם אלא תשובת ר' משולם לרבי שמחה דאם הם ב' מוהלים הא' יברך על המילה והב' לא יברך על המילה אלא אשר קדש כו' ויצאו שניהם לב' תינוקות עכ\"ל והוא במרדכי ס\"פ כל הבשר משמע דר\"ל דהראשון לא יברך אשר קדש כלל אלא הב' וכן יש לנהוג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:16"
+        },
+        "17": {
+          "he": "אם לא שמל בנו הבכור כו'. ואין נוהגין כן מעולם אלא אין מברכין שהחיינו כלל אפי' ישראל שמל בנו הבכור וכן בדין וגם הרב שהוציא זה ממהרי\"ל וכ\"כ בד\"מ וז\"ל ומהרי\"ל כתב דאין לאב לברך שהחיינו אא\"כ מל בעצמו בנו דעכ\"פ יצטרך לפדות בנו אבל אם לא יצטרך לפדות בנו כגון שבנו פטור מפדיון לא יברך שהחיינו עכ\"ל נ\"ל דאגב חורפיה לא עיין שפיר ואדרבה נהפוך הוא וז\"ל מהרי\"ל פעם אחת מל האב את בנו הבכור והאם היתה כהנת ושאלו את הרב אם צריך לברך שהחיינו מאחר דהאם כהנת והפקיעה את בנה מפדיון נתבטל ברכת זמן דשל פדיון ולכך אם יברך עתה הזמן בשעת המילה ואמר שלא יברך הזמן עכ\"ל אלמא דאפילו בכהנת אמר שלא יברך זמן ול\"מ אם לא היתה כהנת דלא יברך זמן דהא יברך בשעת פדיון ושלא כדעת הרב דיברך בשעת המילה ולא בשעת פדיון וזהו מן התימה דברכת שהחיינו בשעת פדיון מוזכר בש\"ס סוף פסחים ובפוסקים לקמן סי' ש\"ה ואין חילוק בדבר לומר דכשהאב מל לא יברך וגם מדבעי התם בש\"ס מי מברך כהן מברך דמטי הנאה לידיה א\"ד אבי הבן מברך דעביד מצוה כו' משמע דאין חילוק אלא בכל ענין יש לברך בשעת פדיון וכן נוהגין (שוב מצאתי בהגהת דרישה שכתב על דברי הרב ואין נוהגין כן אלא מברך שהחיינו בשעת פדיון ע\"כ) וכן עיקר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:17"
+        },
+        "18": {
+          "he": "א\"צ לכסות כו'. ואפילו למ\"ד בא\"ח סי' ע\"ה דאסור לקרות ק\"ש כנגד ערות קטן משום דבעינן והיה מחניך קדוש ואין בו כיון דלתקוני מילה קאתי קרינן ביה שפיר והיה מחניך קדוש ואינו אותה שעה משום ולא יראה בך ערות דבר כדכתב הרא\"ש וגם בקטן כ\"כ לא דיינינן ליה דין ערוה וא\"צ לכסותו בשעת ברכה כמ\"ש ה\"ר יונה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:18"
+        },
+        "19": {
+          "he": "אבל יש לנקות כו'. ואע\"פ שאין מרחיקין מצואת קטן עד שיהא ראוי לאכול כזית דגן וכמ\"ש בא\"ח ר\"ס פ\"א מ\"מ מוטב לנקותו קודם הברכה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:19"
+        },
+        "20": {
+          "he": "ואם הוא שבת צריך שיהו מוכנים כו'. היינו ע\"פ מה שכתב בב\"י בפירוש דברי העיטור בשם רב יהודה גאון אבל באמת נראה מדברי העיטור דאפילו מוכנים אסור גזירה שמא יביא עפר בשבת מבחוץ שאינו מוכן וכ\"כ הב\"ח וכן משמע בספר תניא דף קל\"ג ע\"א בשם רב יהודה גאון שכתב שם ובשבת לא יעשה כן שמא יביא עפר מבחוץ ע\"כ וכתב הב\"ח ומיהו העולם נהגו היתר בעפר מוכן מע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:20"
+        },
+        "21": {
+          "he": "נוהגין לעשות כו'. ונוהגין להדליק נר בבית הכנסת בשעת המילה וכן הוא בתניא ובהגהת מנהגים ובמהרי\"ל ונכלל בדברי הרב סוף סעיף ה':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:21"
+        },
+        "22": {
+          "he": "שלא ליתן ב' ילדים כו'. כלומר שאין כופלין לתת בניו לבעל ברית אחד פעמים או שלש רק לכל בן בורר בעל ברית אחר וכן הוא במהרי\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:22"
+        },
+        "23": {
+          "he": "נהגו המוהלים כו' שנאמר רוממות אל בגרונם וגו'. ובתשו' מהר\"ר משה מינץ סי' מ\"ג כתב הא ליתא ולא נמצא דרשה זו בשום דוכתא רק הקטפים והדרשנים אומרים זה ואותו קרא נדרש ברבה בע\"א ובפסיקתא נדרש לענין ד\"ת כו' וכתב עוד שם דאין לדחות משום כך האבל להתפלל ביום המילה וכל המוחה באבל כאלו מוחה באדם לעשות מצוה וכאלו גוזל את המת אם לא במקום שיש מנהג קבוע ע\"פ חכמים כו' ובהגהות מנהגים העתיק דבריו בקצרה אבל יש שם טעות בהעתק על כן נתפשט המנהג שהמוהל דוחה האבל ואינו נכון וכתב שם ועיקר הטעם לפי שעוסק במצוה לכך ראוי לו להתפלל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:23"
+        },
+        "24": {
+          "he": "מתפללים סליחות כו'. כתוב במנהגים סי' קל\"ז ואם יש מילה בין כסה לעשור אומר זכור ברית דמילה ואל תפר בהשכמה וצ\"ל גם פזמון יה איום ואומר אבינו מלכנו ואין אומר והוא רחום ותחנון גם בצום גדליה במילה אבל אומר אא\"א ולמנצח ע\"כ ובמנהג עשרה בטבת סי' ל\"ט כתב ואומר זכור ברית דמילה ופזמונו כדפרישית לעיל ע\"כ וכתב בהגהות שם וכן בכל תענית צבור אבל למנצח אומר משום צערא דינוקא ואין אומר יהי רצון אחר קריאת התורה ואם היו ב' בתי כנסיות בעיר באותו שאין מלין אומרים תחנון והכי נהוג וכן אין אומרים פיוטים של מילה באותו בית הכנסת שאין מלין בו. מכתבי מהר\"א ע\"כ וכ\"כ בתשו' ר\"מ מינץ סי' מ\"ג דאומרים למנצח משום צערא דינוקא וכן הוא במהרי\"ל וכן נוהגים ודלא כהאבודרהם שכ' גם אין אומרים יענך ה' ביום צרה מפני שהוא יום שמחה לאבי הבן ולא יום צרה וכ\"כ בכל בו וגם אין אומרים למנצח מפני שיום המילה יום שמחה הוא על קיום המצוה ע\"כ ואין נוהגין כן במדינות אלו ונראה דמקומות מקומות יש וכ\"כ ברוקח ס\"ס ק\"ח במגנצ\"א אומרים יענך ביום המילה שיש בו ט' פסוקים כט' חדשי העיבור כדאיתא בשוחר טוב ובווירמייש\"א אין אומרים יענך ע\"כ: בהגהות מנהגים שמלין קודם עלינו לשבח וכן המנהג. עוד נהגו שלא לחלוץ התפילין עד אחר המילה משום שהתפילין הם אות והמילה ג\"כ אות:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 265:24"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "בין חתיכת הערלה כו'. ובטור כתוב שרשב\"ם חידש להנהיג לברך להכניסו קודם המילה דוקא כי להכניסו משמע להבא ועוד דצריך לברך בכל המצות עובר לעשייתן ור\"ת כתב שא\"צ לשנות המנהג וטעמו כתב הרא\"ש דדוקא אם העושה המצוה הוא מברך אז צריך להיות עובר לעשייתן משא\"כ כאן שנעשית על ידי אחר ורב שר שלום ס\"ל ג\"כ כר\"ת אלא שהחמיר ואמר שיש איסור לברך עד לאחר המילה כיון שנעשית על ידי אחר והב\"י כתב דגם ר\"ת ס\"ל כחומרא דרב שר שלום שהרי כתבו התוס' והרא\"ש בפרק ר\"א דמילה שר\"ת החזיר המנהג לקדמותו לברך אחר המילה כו' ול\"נ דאדרבה משם ראיה שהרי כתבו שמתחילה היו נוהגים לברך אחר המילה אלא שבא רשב\"ם ושינה המנהג וע\"ז הקפיד ר\"ת ואמר שאין לשנות המנהג וע\"ז הולכים לשם כל ראיותיו ליישב המנהג משמע דאי לאו שינוי מנהג לא היה מקפיד ומסקנת הרא\"ש כמ\"ש כאן דכיון שעושה הברכה קודם הפריעה הוה ג\"כ עובר לעשייתה דמל ולא פרע כאילו לא מל ונראה שבזה יצא ידי שניהם כיון שאפשר בכך אבל במקום שלא אפשר בזה ודאי יעשה עובר לעשייתו וכפי מה שכתבתי בסימן א' סעיף ז' וכן משמע לשונו שכתב שזה מיקרי עובר לעשייתו משמע דגם בנעשה על ידי אחר ראוי לעשות עובר לעשייתו כל מה שאפשר ונ\"ל דאב המל את בנו יעשה כדעת רשב\"ם שיברך תחילה שתי הברכות דהיינו על המילה ולהכניסו ואחר כך יחתוך דאילו בין החיתוך לפריעה א\"א לי כיון שהוא טרוד באמצע עשיית המצוה היאך יפסיק אז בברכה להכניס ותו דיש צער לתינוק שיפסיקו בין חיתוך ופריעה ויתמלא החיתוך דם ובדוחק ימצא הפריעה אח\"כ ע\"כ נראה דבזה ודאי אין לעשות בין חיתוך לפריעה מאי אית לך לומר שיאמר להכניסו אחר הפריעה הרי אף לר\"ת ולרב שר שלום יש איסור בזה כיון שהוא עצמו עושה המצוה ודאי צריך להיות עובר לעשייתו ע\"כ יאמר שניהם קודם החיתוך וכן נהגתי בעצמי בעת שמלתי בני יצ\"ו והוא אליבא דכ\"ע ואח\"כ מצאתי שגם מהרי\"ל פסק כן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 265:1"
+        },
+        "2": {
+          "he": "כשם שהכנסתו כו'. כך היא הנוסחא ברמב\"ם וטור אבל בגמ' הנוסחא כשם שנכנס ולפי מ\"ש ב\"י בשם הר\"ן מנוח שהעומדים שם מברכים אותו שיזכה לשאר מצות שחייב אדם לעשות לבנו עכ\"ל משמע שעל האב קאי ואותו מברכים שיכניסו לתורה ממילא נוסחת הפוסקים עיקר ומ\"מ נראה שיש חילוק בדבר דאותן שרואין האב יאמרו לשון שהכנסתו כן תכניסהו כו' ואותן שעומדין מרחוק או שאין האב בבהכ\"נ יאמרו כשם שנכנס כו' כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 265:2"
+        },
+        "3": {
+          "he": "ולחופה ולמע\"ט. אומר תחילה חופה לפי שאין נענש בב\"ד של מעלה עד בן עשרים וא\"כ החופה קודמת שבן י\"ח לחופה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 265:3"
+        },
+        "4": {
+          "he": "מברך על הכוס. שא\"א שירה אלא על היין. ב\"י בשם המרדכי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 265:4"
+        },
+        "5": {
+          "he": "ידיד מבטן. רש\"י פי' דעל יצחק קאי ור\"ת פי' על אברהם כמ\"ש מה לידידי בביתי. וחוק בשארו זה יצחק. וצאצאיו חתם זה יעקב. ידידות שארנו זה הנשמה. משחת זה גיהנם. ואם נולד יתום מאב או מאם תמצא נוסח הברכה של קיים הילד בב\"י בשם הריטב\"א:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 265:5"
+        },
+        "6": {
+          "he": "בפי התינוק. בב\"י כתוב ושמעתי שעושה צורת שדי באצבעותיו בעת שנותן יין בפי התינוק ונוהגין לכפול ואומר לך וכו' שהוא לרמז על ידי המילה זוכה לעוה\"ז ולעוה\"ב ע\"כ ולא נתבאר מי האומר ברכה אשר קדש כו' ובטור כתב שאבי הבן או המוהל או א' מהעם אומר אותה ומנהגנו שהמוהל אומרה וכשיש שנים אחד מוהל וא' פורע אומר אותה הפורע ונראה ראיה לזה ממה שמצינו בא\"ח סימן קע\"ד דאותו שמברך על היין שלאחר המזון הוא מברך על המוגמר ה\"נ מי שפורע יגמור מה שיש עדיין לפניו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 265:6"
+        },
+        "7": {
+          "he": "שאינו זכר. ודאי כאן שייך הג\"ה אבל כשחוזרין על ציצין המעכבין המילה צריך לחזור ולברך אבל אין לומר קיים את הילד ע\"כ וכ\"פ מהרי\"ל לענין מל ולא פרע ואח\"כ פרע שא\"צ לומר פעם שנית קיים את הילד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 265:7"
+        },
+        "8": {
+          "he": "אבל אין מבקשים כו'. כתב במהרי\"ל שיש לקרות שמו כידור על שם הפסוק כי דור תהפוכות המה כדמצינו בפ' בתרא דיומא וכתב עוד שימולו אותו במקום אחר כגון בפתח בית הכנסת לא במקום שמלין הכשרים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 265:8"
+        },
+        "9": {
+          "he": "שאין היולדת יכולה לשתות. אע\"ג דבא\"ח סי' תקנ\"ד כתב דכל ל' יום א\"צ אומד ויכולה לאכול בט' באב מ\"מ הא כ' שם רמ\"א דמ\"מ נהגו להתענות כל שאין להם צער גדול:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 265:9"
+        },
+        "10": {
+          "he": "לתינוק הנימול. משמע דאין צריך כאן כדי שיעור כוס של ברכה דהיינו מלא לוגמיו וכ\"כ ב\"י בסי' זה לעיל בשם הרשב\"א וז\"ל ששאלת כמה שיעור טעימה גבי מקדש בעינן מלא לוגמיו הכא גבי שאר ברכות לא בעינן מלא לוגמיו עכ\"ל. וקשה דהא איתא בא\"ח סי' ק\"ז דכל דבר שצריך כוס צריך לשתות מלא לוגמיו וי\"ל דהיינו מה שצריך כוס מדברי הגמ' משא\"כ כאן שאינו אלא מצד שאין אומרים שירה אלא על היין כמ\"ש ב\"י בשם המרדכי ועל כיוצא בזה אמר הרשב\"א:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 265:10"
+        },
+        "11": {
+          "he": "ברכה אחת לשניהם. בטור כ\"כ בשם הרא\"ש וכן הוא שם בב' חתנים ובטור בא\"ע סימן ס\"א ס\"ג ואפי' אין חתן השני בשעת הברכה. ויש להקשות למה כתב שם רמ\"א שמשום עין הרע נוהגין לברך לכל אחד בפני עצמו ומאי שנא משני תינוקות דלא הצריך להנהיג כך. ונ\"ל דודאי לכתחלה צריך החתן השני להיות גם כן אצל הברכה כיון שבר חיובא הוא ואז שייך חשש עין הרע כיון ששניהם ביחד משא\"כ בתינוק שנימול אין צריך להיות אצל הברכה דלאו בר חיובא הוא אבל מ\"מ נראה באם ידוע שהתינוק השני לא יבא כ\"כ מהר ואיכא הפסק גדול בדבר ושיחה יעשו לכל א' ברכה בפני עצמו דהיינו ברכת המילה וכדעת בעל העיטור שמביא בטור ע\"כ ראוי לנהוג שגם השני יהיה מוכן אחר ברכת הראשון למולו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 265:11"
+        },
+        "12": {
+          "he": "יאמר בפיו כו'. כתוב בזוהר פרשת לך לך דאבי הבן יאמר פסוק אשרי תבחר ותקרב ישכון חצריך והעומדים שם יאמרו סוף הפסוק נשבעה בטוב ביתך קדוש היכלך וכתב ד\"מ ולא ראיתי נוהגין כן. ומקרוב נהגו כן רבים וכן שלמים שלומדים ספר הזוהר דהיינו שהעומדים אומרים כל הפסוק הזה אחר שמביאים התינוק לבית הכנסת:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 265:12"
+        },
+        "13": {
+          "he": "בליל שבת כו'. הטעם שס בת\"ה דאז הכל מצויים בבתיהם ואז ישוע הבן בגמ' לפר\"ח וראיתי סמך אחד לזה ממדרש רבות פרשת אמור פרשה כ\"ז ר' לוי אמר משל למלך שגזר ואמר כל אכסנאין שיש כאן לא יראו פני עד שיראו פני המטרונא תחילה כך אמר הקב\"ה לא תביאו לפני קרבן עד שתעבור עליו שבת שאין ז' ימים בלא שבת ואין מילה בלא שבת עכ\"ל. ובדרישה הביא מתשובת מהר\"ר מנחם מה שנוהגים בשבת לבקר אצל התינוק הנולד שהוא אבל על תורתו ששכח כדאיתא פ' המפלת עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 265:13"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "המל מברך. כתב בספר חמודי דניאל כ\"י נראה שהמל כשמברך צריך לכוין להוציא את הפורע והפורע צריך לכוין לצאת בברכתו ע\"כ:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 265:1"
+        },
+        "2": {
+          "he": "ואבי הבן מברך. עבה\"ט בשם ט\"ז וכ\"כ בתשובת רשב\"ש סימן פ\"ט וכתב עוד וכן אם לא מלו אביו שהוא מחויב למול את עצמו כשיגדיל מברך ג\"כ להכנס דלא כדעת הר\"י בר יקר ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 265:2"
+        },
+        "3": {
+          "he": "ואם אין אבי הבן. עיין בתשובת רבינו עקיבא איגר סי' מ\"ב ביתום שרוצים להכניסו בברית של א\"א ואבי אביו יהיה המוהל יברך הוא להכניסו שהוא יותר ראוי מן הסנדק וע\"ש עוד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 265:3"
+        },
+        "4": {
+          "he": "מבטן. עבה\"ט בשם ש\"ך ועיין בשאילת יעב\"ץ ח\"א סימן קמ\"ו שמאשר ומקיים מנהג האומרים צוה בנקוד חיר\"ק הצד\"י לשון עבר דלא כש\"ך והעלה דמ\"ד הכי או הכי לא משתבש ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 265:4"
+        },
+        "5": {
+          "he": "המעכבים המילה. עיין בתשובת חתם סופר סי' רמ\"ח שכתב דנראה פשוט אפי' על ציצין המעכבים הפריעה חוזר ומברך על המילה ולהכניסו אך כ\"ז בידעינן בודאי שזה הציץ נשאר כך מתחלה ולא נימול כראוי אבל היכא שא\"צ תיקון אלא מדרבנן משום מ\"ע אין לברך ע\"ש עוד בסימן רמ\"ט מזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 265:5"
+        },
+        "6": {
+          "he": "מבקשים. עבה\"ט ועיין בשו\"ת תשובה מאהבה ח\"א סימן ל\"ה שאין להקפיד מלקרות שמות כשמות שהיה קודם אברהם אבינו ע\"ה דלא כהמבי\"ט ח\"א סי' רע\"ו שכתב דאין ראוי לקרוא בשם אדם או נח או שם ועבר דאין להעלות שם אלא מאברהם ואילך ע\"ש דאין לחוש לזה שהרי מצינו רבי בנימין בר יפת ועקביא בן מהללאל וראובן קרא לבנו בכורו חנוך וכ\"כ בספר ברכי יוסף עיין שם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 265:6"
+        },
+        "7": {
+          "he": "בג' צומות. עיין בתשובת רדב\"ז החדשות סימן שפ\"ה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 265:7"
+        },
+        "8": {
+          "he": "אלא הסנדק. עיין בה\"ט בשם ש\"ך ובספר חמודי דניאל כ\"י כתב נראה דאין לנהוג כן דהנערים אינם שומעים הברכה ועדיף טפי שיטעום המברך:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 265:8"
+        },
+        "9": {
+          "he": "שני תינוקות. עיין בתשובת ברית אברהם חלק א\"ח סימן י\"ד על דבר שתי מילות ביום א' ואחת מהם שלא בזמנה אם יש להקדים למול זה שנולד מקודם וכתב דגם בשתי מילות בזמנם לא מצא שום סברא להקדים דוקא לזה שנולד תחלה ומסימן שנ\"ד גבי שני מתים אין ראיה דהתם חל החיוב מיד בשעה שמת האחד טרם מיתת השני משא\"כ בזה דהחיוב חל ביחד מתחלת יום שמיני ומ\"מ נהגו להביא תחלה זה שנולד מקודם אפשר שהוא מטעם שלא יתעורר קנאה ומחלוקת ועכ\"פ ברור דאם הובא לבהכ\"נ זה שנולד אחרון אין להמתין כלום רק למולו מיד וכל זה אם שניהם בזמנם אבל בנ\"ד שאחת היא שלא בזמנה בודאי צריכים מקודם למול המילה שבזמנה ע\"ש וכ\"כ בתשובת יד אליהו סימן מ\"א דמי שזמנו קבוע הוא קודם לזה שנדחה אף שנולד ראשון אך כתב דאם אירע שהביאו לבהכ\"נ את התינוק שנדחה יש למולו מיד ולא להמתין על מי שזמנו קבוע ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 265:9"
+        },
+        "10": {
+          "he": "ברכה אחת. עיין בתשובת דרכי נועם חי\"ד סימן כ\"ז שכתב דבמצרים נהגו לברך על כל אחד בפני עצמו ואחר מילת האחד אומרים פסוקים המלאך הגואל וכיוצא כדי להסיח דעת והוא מנהג ותיקין ואם הם של אדם אחד מברך האב להכניסו ג\"כ על א' בפ\"ע ע\"ש ועיין בתשובת פרח מ\"א ח\"ב סימן ל\"ב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 265:10"
+        },
+        "11": {
+          "he": "שלא היה דעתו. עיין ש\"ך ס\"ק ט\"ו ועיין במגן אברהם סימן ח' ס\"ק ט\"ו:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 265:11"
+        },
+        "12": {
+          "he": "מברך שהחיינו. עיין במגן אברהם סי' כ\"ב סק\"א:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 265:12"
+        },
+        "13": {
+          "he": "סנדק. ונוהגים להתעטף בטלית ועיין בש\"ת בא\"ח סימן י\"ח סק\"ד שכתב בשם כנה\"ג לפי המנהג שלא ללבוש טלית בט\"ב שחרית גם לצורך להיות סנדק למילה לא ילבש טלית ומ\"מ ראיתי סנדקי א' לבש ובירך ולא מחיתי בידו ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 265:13"
+        },
+        "14": {
+          "he": "כמקטיר קטורת. עיין בתשובת נו\"ב חי\"ד סי' פ\"ו מ\"ש בזה ועיין בש\"ת בא\"ח סי' תקצ\"א סק\"ג:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 265:14"
+        },
+        "15": {
+          "he": "לבעל ברית אחד. עבה\"ט לעיל סי' קע\"ט שכתב בשם צוואת רי\"ח לא יעשה חבירו סנדק לב' בניו אלא א\"כ מת אחד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 265:15"
+        },
+        "16": {
+          "he": "לעשות סעודה. ואם אירע סיבה שלא עשאו סעודה ביום המילה יעשו ביום אחר. חמו\"ד כ\"י. ועיין בספר תולדות שבת בא\"ח סימן ר\"ן שכתב בהא דמצוה בו יותר מבשלוחו ראוי ליזהר גם בסעודת ברית מילה וחתונה ע\"ש ועיין בש\"ת שם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 265:16"
+        },
+        "17": {
+          "he": "סעודת מצוה. ע' במג\"א סימן תכ\"ח ס\"ק י\"ג:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 265:17"
+        },
+        "18": {
+          "he": "כמנודה לשמים. עיין בה\"ט של מהרי\"ט ז\"ל מ\"ש לכן יצוה כו' ובתשובת מקום שמואל סי' פ' כתב בשם ספר שרביט הזהב דטוב לבטל מה שהשמש קורא על סעודת ברית מילה כי אולי לא ילכו מטעמים המתהוים ויהיה ח\"ו בכלל נידוי ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 265:18"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ואבי.  כתב הט\"ז ונ\"ל דאם האב מל את בנו יברך תחלה ב' הברכות דהיינו על המילה ולהכניסו ואח\"כ יחתוך הערלה (דאילו בין חיתוך לפריעה א\"א לו כיון שהוא טרוד באמצע עשיית המצוה ואיך יפסוק בברכה להכניסו) וכן נהגתי כשמלתי את בני והוא אליבא דכ\"ע ואח\"כ מצאתי שגם מהרי\"ל פסק כן עכ\"ל (ונראה לי דדוקא ביש לו שניהם חיתוך ופריעה אבל אם הוא בחיתוך ואחר בפריעה יברך להכניסו אחר החיתוך קודם הפריעה כמו שאר אנשים) וכתב בבד\"ה בשם הרשב\"ץ כשהאנוסים מוהלין עצמן מברך אקב\"ו להכניסו בבריתו של אברהם אבינו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 265:1"
+        },
+        "2": {
+          "he": "שהכנסתו.  כתב הט\"ז ונראה דאותן שרואין האב יאמרו לשון שהכנסתו כן תכניסהו וכו' ואותן שעומדים מרחוק או שאין האב בבהכ\"נ יאמר כשם שנכנס וכו' (וש\"ך כתב דלעולם יאמרו כשם שנכנס וכו' ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 265:2"
+        },
+        "3": {
+          "he": "מבטן.  וכ' הש\"ך שצ\"ל צוה נקוד בפת\"ח הצד\"י ובציר\"ה הוי\"ו דלשון תפלה הוא להבא גם מנהגנו כשאין להילד אב מדלגין בנוסח הברכה תיבת לאביו ואמר קיים את הילד הזה לאמו וכו' וכשאין לו גם כן אם מדלגין גם אמו ואומר קיים את הילד הזה ויקרא שמו וכו' עכ\"ל וכתב הט\"ז כשיש ב' מוהלים א' מל וא' פורע אומר הברכה אותו שפרע וראיה לזה ממ\"ש בא\"ח סימן קע\"ד דאותו שמברך על היין שלאחר המזון הוא אומר על המוגמר ה\"נ מי שפורע יגמור עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 265:3"
+        },
+        "4": {
+          "he": "ברכה.  משמע דא\"צ ברכה כלל אפילו ברכת להכניסו בבריתו שא\"א ג\"כ א\"צ לברך. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 265:4"
+        },
+        "5": {
+          "he": "אבל.  וכ\"פ מהרי\"ל לענין מל ולא פרע ואח\"כ פרע שא\"צ לומר פעם שנית קיים את הילד וכו'. ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 265:5"
+        },
+        "6": {
+          "he": "מבקשים.  כלומר אין אומרים קיים את הילד וכו' מטעם דלא ניחא להו לישראל קדושים לקיים ממזרים ביניהם וגם העומדים שם לא יאמרו אחר שנימול כשם שנכנס וכו' ויש לקרות שמו כידור ע\"ש הפסוק כי דור תהפוכות המה גם ימולו אותו במקום אחר כגון בפתח בהכ\"נ ולא במקום שמלין הכשרים עכ\"ל מהרי\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 265:6"
+        },
+        "7": {
+          "he": "וט' באב.  כ' הט\"ז אע\"ג דבא\"ח סי' תקנ\"ד כתב דכל ל' יום א\"צ אומד ויכולת לאכול בט\"ב מ\"מ הא כ' שם רמ\"א דמ\"מ נהגו להתענות כל שאין להם צער גדול:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 265:7"
+        },
+        "8": {
+          "he": "מטעמא.  והש\"ך כתב דאין זה ראיה מוכרחת דהתם היינו טעמא משום שהנשמה יתרה הלכה במ\"ש ונתקן ברכת הבשמים לתענוג להשיב נפשו אבל שיהא אסור בכל ט\"ב להריח בבשמים זה לא שמענו עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 265:8"
+        },
+        "9": {
+          "he": "לתינוק.  כ' הט\"ז משמע דאין צריך כאן שיעור כוס של ברכה דהיינו מלא לוגמיו קשה דהא איתא בא\"ח סימן ק\"ץ דכל דבר שצריך כוס צריך לשתות מלא לוגמיו וי\"ל דהיינו מה שצריך כוס מדברי הש\"ס משא\"כ כאן שאינו אלא מצד שאין אומרים שירה אלא על היין עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 265:9"
+        },
+        "10": {
+          "he": "הסנדק.  וכ' הש\"ך ובכל המקומות שהייתי אין נוהגים כן אלא נותנים לשתות לנערים קטנים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 265:10"
+        },
+        "11": {
+          "he": "דעתו.  כתב הש\"ך צ\"ע דבסימן י\"ט ס\"ז כתב הרב די\"א דאפילו לא היה דעתו על השני א\"צ לחזור ולברך כשהן ממין א' וכאן התינוקות מין א' הן ולענין דינא העליתי בסימן י\"ט דאפילו במין א' צריך לחזור ולברך א\"כ ה\"ה הכא מיהו היכא שאין מנהג כתב הב\"ח שיש לנהוג ולברך אכל חדא וחדא ויהיו נזהרים שלא יביאו ב' תינוקות ביחד לבהכ\"נ אלא בזה אחר זה דלאחר שנימול האחד יביאו הב' ע\"כ וכן נכון לעשות משום דעל הרוב מפסיקין בינתיים בשיחה בטלה שאינה מצרכי המילה והוי הפסק לכ\"ע וכ\"כ מהרש\"ל עכ\"ל וכ' הט\"ז יש להקשות למה כתב רמ\"א בא\"ע סימן ס\"א ס\"ג שמשום עין הרע נוהגין בב' חתנים לברך לכל א' בפ\"ע ומאי שנא מב' תינוקות דלא הצריך להנהיג כן ונ\"ל דודאי לכתחלה צריך החתן הב' להיות גם כן אצל הברכה כיון שבר חיובא הוא ואז שייך חשש עין הרע כיון ששניהם ביחד מה שאין כן בתינוק שנימול אין צריך להיות אצל הברכה דלאו בר חיובא הוא עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 265:11"
+        },
+        "12": {
+          "he": "ובירך.  והש\"ך כתב בשם רבינו ירוחם דאם הם ב' מוהלים הא' יברך על המילה והב' לא יברך על המילה אלא אשר קדש וכו' ויצאו שניהם לב' תינוקות ע\"כ משמע דהראשון לא יברך אשר קדש כלל וכן יש לנהוג דלא כמהרש\"ל עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 265:12"
+        },
+        "13": {
+          "he": "הבכור.  והש\"ך כתב ואין נוהגין כן מעולם אלא אין מברכין שהחיינו אפילו ישראל שמל בנו הבכור וכן בדין כי הרב הוציא כן ממהרי\"ל ושם משמע להיפך דאין חילוק אלא בכל ענין יש לברך בשעת פדיון וכן נוהגין שוב מצאתי כן בהגהת דרישה וכן עיקר עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 265:13"
+        },
+        "14": {
+          "he": "מוכנים.  ובאמת נראה מדברי העיטור דאפילו מוכנים אסור גזירה שמא יביא עפר בשבת מבחוץ שאינו מוכן וכ\"כ הב\"ח וסיים ומיהו העולם נהגו היתר בעפר מוכן מע\"ש עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 265:14"
+        },
+        "15": {
+          "he": "בפיו.  כתב הט\"ז בשם הזוהר דאבי הבן יאמר פסוק אשרי תבחר וגו' עד חצריך והעומדים שם יאמרו סוף הפסוק נשבעה וגו' עד היכלך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 265:15"
+        },
+        "16": {
+          "he": "להתפלל.  ובתשובת מהר\"מ מינץ כתב דמ\"מ אין לדחות משום כך האבל וכל המוחה באבל כאלו מוחה באדם לעשות מצוה וכאלו גוזל את המת אם לא במקום שיש מנהג קבוע על פי חכמים עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 265:16"
+        },
+        "17": {
+          "he": "שבת.  בדרישה הביא מתשו' מהר\"ר מנחם מה שנוהגים בשבת לבקר אצל התינוק הנולד שהוא אבל על תורתו ששכח כדאיתא פ' המפלת עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 265:17"
+        },
+        "18": {
+          "he": "נפילת.  כתב בהגהות מנהגים אבל למנצח אומר משום צערא דינוקא ואין אומר יהי רצון אחר קריאת התורה ואם היו ב' בתי כנסיות בעיר באותו שאין מלין אומרים תחנון והכי נהוג וכן אין אומרים פיוטים של מילה באותו בהכ\"נ שאין מלין בו והמנהג למול קודם עלינו לשבח עוד נהגו שלא לחלוץ התפילין עד אחר המילה משום שהתפילין הם אות והמילה גם כן אות:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 265:18"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

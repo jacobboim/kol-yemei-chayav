@@ -1,0 +1,788 @@
+{
+  "chelek": "OC",
+  "siman": 386,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 9,
+  "fetchedAt": "2026-07-07T23:49:26.289Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני שיתוף בעירוב. ובו ט סעיפים:אסרו חכמים לטלטל מן החצירו' למבוי והתירוהו ע\"י שיתוף שגובין פת או דבר אחר ממיני מאכל מכל חצר וחצר ונותנים אותו בא' מן החצירו' ואנו רואים כאלו פתוח כל המבוי לאותו חצר ומפני שאינו אלא לשתף החצירו' יכולים ליתנו באויר החצר או בבית שאין לו ארבע על ארבע וא\"צ ליתנו בבית רק שיהי' במקום המשתמר הילכך אין נותנין אותו באויר המבוי (וע\"ל סי' שס\"ו):",
+      "en": "Laws of partnership in an eruv. Containing 9 paragraphsThe Sages forbade carrying from courtyards into an alleyway, and permitted it through a partnership whereby bread or any other food is collected from each courtyard and placed in one of the courtyards, and we consider it as if the entire alleyway opens into that courtyard. Since this is only to create partnership among the courtyards, it may be placed in the airspace of the courtyard or in a house that is not four by four handbreadths, and need not be placed in a house — only in a protected place. Therefore it may not be placed in the airspace of the alleyway.",
+      "ref": "Shulchan Arukh, Orach Chayim 386:1"
+    },
+    {
+      "seif": 2,
+      "he": "ישראלים שדרים בג' מקומו' חלוקים ודלתות כל א' מהמקומו' נעולים בלילה והשמש גובה קמח מכולם אינו מועיל להם להשתתף ששיתוף מבוי צריך שיהי' מונח בחצר שבמבוי ואלו שנבדלים זה מזה ורחוקים אין שיתופן א' ואין מבואיהן כא': הגה ואם עירבו במקום אחד אין האחרים שלא עירבו אוסרים עליהם הואיל ואין להם דריסת הרגל זה על זה כי אין כל העיר חשובה כמבוי אחד אע\"פ שיושבין בהיקף חומה אחת (ב\"י סי' שצ\"ב בשם חזה התנופה):",
+      "en": "Jews living in three separate locations whose gates are each locked at night, and a beadle who collects flour from all of them — this does not help them make a partnership, since an alleyway partnership must be placed in a courtyard within the alleyway, and since they are separate from one another and distant, their partnership is not one and their alleyways are not one. Rema: If they made an eruv in one place, the others who did not make an eruv do not restrict them, since they have no foot traffic over one another, as the entire city is not considered one alleyway even though they live within one surrounding wall.",
+      "ref": "Shulchan Arukh, Orach Chayim 386:2"
+    },
+    {
+      "seif": 3,
+      "he": "ככל משפטי עירובי חצירו' ושיעורו ושאשתו מערבת בשבילו ושמערבין שלא לדעתו אם אין הבית פתוח אלא לחצר א' ושקטן יכול לגבותו ושיכול א' לזכות לכולם (ושאם היו שותפין א\"צ לערב) כך דיני שיתוף: הגה ואפי' היה משותף עם שכיניו בסחורה לזה ביין ולזה בשמן אין צריך להשתתף והוא שיהיה בכלי אחד: (טור סי' שס\"ו):",
+      "en": "All the laws of eruv for courtyards — its required amount, that a man's wife may make the eruv on his behalf, that one may make an eruv without someone's knowledge if their house opens only to one courtyard, that a minor may collect it, and that one person may acquire on behalf of all (and that if they were already partners they need not make an eruv) — all these laws apply equally to the partnership eruv. Rema: Even if one was already partnered with his neighbors in merchandise — one in wine and one in oil — they need not make a partnership eruv, provided it is in one vessel.",
+      "ref": "Shulchan Arukh, Orach Chayim 386:3"
+    },
+    {
+      "seif": 4,
+      "he": "משתתפין בכל מיני מאכל ואפי' ד' וה' מיני מאכל מצטרפין למזון שני סעודות:",
+      "en": "One may make a partnership eruv with any type of food, and even four or five types of food may combine to make up two meals' worth.",
+      "ref": "Shulchan Arukh, Orach Chayim 386:4"
+    },
+    {
+      "seif": 5,
+      "he": "בכל מיני מאכל משתתפין חוץ מגודגדניו' שהוקשו לזרע ותבלין ופולין יבשים ולא בעלי בצלים שלא גדלו אורך הזרת ולא בכמהין ופטריות ולא בכפניו' ולא בעדשים ולא בחטים ושעורים ולא בירק שהוא בשיל ולא בשיל ולא במים לבדם ולא במלח לבדו אבל אם עירבם יחד משתתפין בהם וי\"א דדוקא כשנתן לתוכן שמן וי\"א שמערבין בתבלין:",
+      "en": "One may make a partnership eruv with any type of food except for berries that have hardened to seed, spices, dry beans, onion tops that have not grown a handbreadth in length, truffles and mushrooms, unripe dates, lentils, wheat and barley, vegetables that are half-cooked, water alone, or salt alone. But if water and salt are mixed together one may use them, and some say only when oil was added to them. Some say one may make an eruv with spices.",
+      "ref": "Shulchan Arukh, Orach Chayim 386:5"
+    },
+    {
+      "seif": 6,
+      "he": "כל דבר שרגילים ללפת בו את הפת שיעורו ללפת בו פת הנאכל לשני סעודו' וכל שאין מלפתין בו הפת שיעורו כדי לאכול ממנו ב' סעודו' ובשר חי לא הוי ליפתן וצריך כדי שיאכל ממנו ב' סעודו' אבל צלי הוי ליפתן ושיעורו ללפת בו ב' סעודו' חומץ הוי ליפתן וכן יין מבושל אבל יין חי לא הוי ליפתן ושיעורו שני רביעיו' וכן שיעור שאר משקים:",
+      "en": "For anything normally used as a relish with bread, the required amount is enough to serve as relish for bread eaten at two meals. For anything not used as a relish, the required amount is enough to eat at two meals. Raw meat is not considered a relish and requires enough to eat at two meals. Roasted meat is considered a relish and requires enough to serve as relish for two meals. Vinegar is considered a relish, as is cooked wine, but uncooked wine is not considered a relish and its required amount is two reviit, and similarly for other liquids.",
+      "ref": "Shulchan Arukh, Orach Chayim 386:6"
+    },
+    {
+      "seif": 7,
+      "he": "משתתפין בשני ביצים אפילו חיים בשני רמונים בחמשה אפרסקים בליטרא ירק בין חי בין מבושל בפולים לחים מלא היד בתפוחי יער מלא הקב:",
+      "en": "One may make a partnership eruv with two eggs even raw, with two pomegranates, with five peaches, with a litra of vegetables whether raw or cooked, with a handful of fresh beans, or with a kav of forest apples.",
+      "ref": "Shulchan Arukh, Orach Chayim 386:7"
+    },
+    {
+      "seif": 8,
+      "he": "משתתפין אפי' באוכל שאינו ראוי לו אם ראוי לשום אדם כגון לנזיר ביין ולישראל בתרומה וכן  (הנודר) מאוכל או נשבע שלא יאכלנו משתתף בו ויש אומרים דהיינו דוקא כשנדר או נשבע שלא יאכלנו אבל אם נדר או נשבע שלא יהנה ממנו אין משתתפין לו בה (ואם אמר קונם הנאתו או אכילתו עלי לכ\"ע אין משתתף בה) (טור):",
+      "en": "One may make a partnership eruv even with food that is not suitable for him, if it is suitable for some person — such as wine for a nazirite or terumah for a Jew. Similarly, one who vowed or swore not to eat something may still make a partnership eruv with it. Some say this applies only when he vowed or swore not to eat it, but if he vowed or swore not to benefit from it, one may not make a partnership eruv with it for him. (And if he said konام on benefiting from it or eating it — according to all opinions one may not make a partnership eruv with it.) (Tur)",
+      "ref": "Shulchan Arukh, Orach Chayim 386:8"
+    },
+    {
+      "seif": 9,
+      "he": "אמר על ככר היום חול ולמחר קודש או קונם משתתפין לו בה שבין השמשו' עדיין לא נתקדש' ודאי וראוי היתה מבעוד יום אבל אם אמר היום קונם ולמחר חול אין משתתפין לו בה שאינה ראויה עד שתחשך חצר הפתוח לשני מבואו' ושיתף עם כל א' מהם מותר עם כל א' מהם לטלטל ממנו לחצר ומהחצר לתוכו ואסור לטלטל כלים ששבתו במבוי זה למבוי האחר דרך החצר ואם לא שיתף עם שום א' מהם אם הוא רגיל עם שניהם לצאת ולבא בחול דרך עליהם אוסר על שניהם ואם הוא רגיל עם הא' ועם השני אינו רגיל אותו שרגיל אוסר שאינו רגיל אינו אוסר ואם שיתף עם אותו שאינו רגיל הותר הרגיל לעצמו אם שיתפו ביניהם וכן אם היה רגיל עם שניהם ושיתף עם א' מהם מותר השני שהרי סילק עצמו ממנו ואם המבוי שרגיל בו שיתפו ביניהם ואותו שאינו רגיל לא שיתפו והוא לא שיתף לא עם זה ולא עם זה דוחים אותו אצל שאינו רגיל ויסתלק מאותו שרגיל כדי שיהא מותר כיון שהוא אינו מפסיד בדבר שהרי לא שיתף עמהם ויש ריוח לאחרים שע\"י זה יהיו מותרים כופין אותו על מדת סדום:",
+      "en": "If one said of a loaf \"today it is unconsecrated and tomorrow it is consecrated\" or \"konام\" — one may make a partnership eruv with it, since during twilight it had not yet certainly become consecrated and it was suitable while it was still day. But if one said \"today it is konام and tomorrow it is unconsecrated\" — one may not make a partnership eruv with it since it is not suitable until nightfall. A courtyard opening into two alleyways that made a partnership with each of them — it is permitted to carry between it and each of them, but it is forbidden to carry vessels that rested in one alleyway to the other alleyway through the courtyard. If it made no partnership with either of them: if it regularly uses both by entering and exiting through them on weekdays, it restricts both. If it regularly uses one and not the other, the one it regularly uses restricts while the one it does not regularly use does not restrict. If it made a partnership with the one it does not regularly use, the one it regularly uses becomes permitted on its own if they made a partnership among themselves. Similarly, if it regularly uses both and made a partnership with one of them, the other is permitted since it removed itself from it. If the alleyway it regularly uses made a partnership among themselves and the one it does not regularly use did not make a partnership, and it made no partnership with either — we push it toward the one it does not regularly use and it removes itself from the one it regularly uses so that the latter is permitted, since it loses nothing by this as it made no partnership with them, and others gain from it — we compel it on account of the trait of Sodom.",
+      "ref": "Shulchan Arukh, Orach Chayim 386:9"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מדברי רמב\"ם בפ\"א ושנוי בברייתא שבת ו' וכפי' רש\"י שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:1"
+        },
+        "2": {
+          "he": "משנה עירובין כ\"ז וברייתא פ\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:2"
+        },
+        "3": {
+          "he": "ברייתא וגמרא פ\"ה ובפירש רש\"י שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:3"
+        },
+        "4": {
+          "he": "ברייתא סוכה ג'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:4"
+        },
+        "5": {
+          "he": "רשב\"א בתשובה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:5"
+        },
+        "6": {
+          "he": "ממשמעות המשנה ע\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:6"
+        },
+        "7": {
+          "he": "ציינתיו בריש הסימן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:7"
+        },
+        "8": {
+          "he": "ממשנה כריתות י\"ג והובא בעירובין כ\"ט ובגמ' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:8"
+        },
+        "9": {
+          "he": "שם בגמרא כ\"ח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:9"
+        },
+        "10": {
+          "he": "שם בגמרא כ\"ז וכ\"כ הטור וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:10"
+        },
+        "11": {
+          "he": "פירוש תמרים רעות שלא בישלו כל צרכן)",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:11"
+        },
+        "12": {
+          "he": "תוספת והגהות אשר\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:12"
+        },
+        "13": {
+          "he": "רמב\"ם בפ\"א מה\"ע וסמ\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:13"
+        },
+        "14": {
+          "he": "שם בגמרא כט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:14"
+        },
+        "15": {
+          "he": "שם בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:15"
+        },
+        "16": {
+          "he": "ברייתא לענין מעשר שני וכן לעירוב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:16"
+        },
+        "17": {
+          "he": "משנה שם כ\"ו וכתנא קמא הרא\"ש ורמב\"ם מפרק א' מה\"ע",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:17"
+        },
+        "18": {
+          "he": "שם בגמ' ל'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:18"
+        },
+        "19": {
+          "he": "רמב\"ם בפרק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:19"
+        },
+        "20": {
+          "he": "שם בגמרא ל\"ו בעי' ונפשטא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:20"
+        },
+        "21": {
+          "he": "משנה שם ע\"ה לענין חצירות וכר\"ש ומשמע בגמ' מ\"ט דה\"ה לחצר שבין ב' מבואות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:21"
+        },
+        "22": {
+          "he": "שם בגמרא וכן כת' הרמב\"ם בפ\"ה מהלכות עירובין",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:22"
+        },
+        "23": {
+          "he": "טור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:23"
+        },
+        "24": {
+          "he": "שם בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 386:24"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "ואין עמ״א אע״ג שכתב המחבר דלתות נעולות ונבדלין הוא ל״ד ועיקר שאסורין לטלטל מזה לזה והעירוב צריך להיות מונח במקום שראוי ליטול ביה״ש עסי׳ שצ״ד ט״ז ג׳ ושס״ו בענין עירוב בבית הכנסת יע״ש: דע דשיתוף הוא להתיר טלטול כלים ששבתו בבית ביה״ש ונטלו לחצר שעירבו אז אסור להוציא מחצר למבוי כשלא שיתפו הא כלים ששבתו בחצר ביה״ש רשות א׳ עם מבוי כר״ש כבסי׳ שע״ב ועמ״א ט״ו כאן ול״ד מבוי ה״ה חצירות ומבואות רשות א׳ לכלים ששבתו בתוכן וע׳ פרישה כ״כ:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 386:1"
+        },
+        "2": {
+          "he": "ואין עמ״א עסי׳ שס״ז ושצ״ב:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 386:2"
+        },
+        "3": {
+          "he": "כמבוי עמ״א עתו״ש בשם הלכה ברורה ואי״ה בשצ״ב במ״א אות י״א יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 386:3"
+        },
+        "4": {
+          "he": "ולא בעדשים עמ״א הב״ח מוחק עדשים והמג״א מיישבו דאין ראוין לאכול חיין ועא״ר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 386:4"
+        },
+        "5": {
+          "he": "בשיל עמ״א בשר חי משמע חי לגמרי ובא״ר אות י׳ בשם הירושלמי בשר מליח ובשר חי יע״ש וי״ל היינו בשיל ולא בשיל כמאב״ד שליש בישולו כו׳ וי״ל לפת״ן נמי בכך מיירי בשיל ולא בשיל וצ״ע. גם י״ל בשיל לגמרי שיעורו ללפת ואי חי לגמרי י״ל בעינן ממנו שיעור ב״ס:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 386:5"
+        },
+        "6": {
+          "he": "צלי עמ״א דדי ללפת בו פת שיעור ב״ס ולא בעינן ביה שיעור ב״ס אף במקום שאוכלין כך:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 386:6"
+        },
+        "7": {
+          "he": "חומץ עמ״א עתו״ש אות ט״ז ומשמע כל שדרך אותו המקום לטבל בו יהיה חזק או לאו שיעורו כדי לטבל:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 386:7"
+        },
+        "8": {
+          "he": "יין חי עמ״א הכל לפי מה שהוא ראוי אם לאכול בעין בעי ב״ס ואם לטבל כו׳ ואם לקינוח בעי שיהא לקינוח ב״ס:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 386:8"
+        },
+        "9": {
+          "he": "בתרומה עמ״א עסי׳ תנ״ז צ״ל במ״א אות ט׳ שאין מאכילין חלה עתה לשום כהן וא״כ אין מערבין ומשתתפין בחלה בזה״ז כלל:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 386:9"
+        },
+        "10": {
+          "he": "שלא עמ״א ועא״ר בשם הפרישה כ״כ והוא ז״ל כתב דאפשר לתרץ דקונם מודה: שיתופי מבואות בעינן ג״כ ככר שם א״ר בשם ע״ק אות י״ד וט״ז:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 386:10"
+        },
+        "11": {
+          "he": "והנה עמ״א שצ״ד אות ב׳ ורס״א ו׳ ועסי׳ שס״ג ס״ח לחי מעצי אשירה כשר מצות לא ליהנות ניתנו הא נהנה שמטלטל עי״כ ועא״ר שם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 386:11"
+        },
+        "12": {
+          "he": "לא נתקדשה ודאי ביה״ש מספק לא חל עליו קדושה עד הלילה ביה״ש ראוי היה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 386:12"
+        },
+        "13": {
+          "he": "עד עמ״א כיון דהיום קדש מספק לא נפיק קדושה עד הלילה וביה״ש לא ראוי. משמע כל דשרי לאחריני מזון הוא ואע״פ שכל החבורה אין רשאין לאכול ממנו. ואם איסור דרבנן והוא חולה שמותר לו לאכול צ״ע אם מערבין בו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 386:13"
+        },
+        "14": {
+          "he": "ואסור עמ״א ומיירי כשנתנו בבית כלים או במבוי זה ומבוי זה מש״ה אסור ממבוי למבוי:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 386:14"
+        },
+        "15": {
+          "he": "ששבתו עמ״א כמ״ש בריש הסי׳ וכ״כ הפרישה כבסי׳ שע״ב כר״ש דהכל רשות א׳ לכלים ששבתו בהן אע״ג דהגזירה משום דחצר נראה כרה״י לגבי מבוי אפ״ה דוקא כלים ששבתו בבית הוא דאסור כשישום אח״כ בחצר לטלטל למבוי:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 386:15"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] באויר החצר וכו'. ואם אין שם צריך ליתנו בבית:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 386:1"
+        },
+        "2": {
+          "he": "[ב] אינו מועיל וכו'. אלא צריך לערב בכל מקום ומקום:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 386:2"
+        },
+        "3": {
+          "he": "[ג] ואין להם דריסות וכו'. פירוש אף שיש להם רשות שם מכל מקום הואיל שיש להם דרך אחר כופין אותו לעבור דרך שם כמו שנתבאר סימן שצ\"ב סעיף ו':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 386:3"
+        },
+        "4": {
+          "he": "[ד] שותפין וכו'. בעירובי חצירות צריך לומר דשותפין בפת ובשיתופי מבואות מיירי אפילו בשמן וכיוצא. והוא שיש בכלי אחד, כתב רמ\"א אפילו לזה ביין לזה בשמן אין צריך להשתתף אם בכלי אחד, עד כאן, והלבוש שהשמיט נראה לי דסבירא ליה כרמב\"ם שהביא בית יוסף סימן שס\"ו דאוסר וכן ראיתי בעבודת הקודש דף כ\"ב זה לשונו, שכל שאין ראויין לערב ביחד אינו חיבור אף שהם בכלי אחד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 386:4"
+        },
+        "5": {
+          "he": "[ה] בכל מיני וכו'. תמיהני שהשמיט מה שכתב בשולחן ערוך אפילו ארבע וחמשה מיני מאכל מצטרפין למזון שתי סעודות (מלבושי יום טוב), ולעניות דעתי דסבירא ליה ללבוש כראב\"ד שהביא בית יוסף דדוקא עירובי תחומין מצטרפין וכן המגיד כתב הרשב\"א לא הכריע, ויותר נראה לי שנחסר בדפוס וסימני הסעיפים מוכיחין שדילג מד' לו':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 386:5"
+        },
+        "6": {
+          "he": "[ו] בגודגניות וכו'. ולא בקור אף שאפשר לטגנו לפי שאין משתתפין אלא בסעודה הראויה בשבת זו (עבודת הקודש):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 386:6"
+        },
+        "7": {
+          "he": "[ז] בעדשים וכו'. אף דאינו בגמרא מכל מקום נלמוד מחיטים ושעורים חיין ועדשים נמי אין דרכן לאכול חי והב\"ח מוחק עדשים בחינם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 386:7"
+        },
+        "8": {
+          "he": "[ח] בחיטין ושעורים חיין וכו'. שאין דרכן של בריות לאוכלן חיין או בפת או בדייסא או בקליות עבודת הקודש:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 386:8"
+        },
+        "9": {
+          "he": "[ט] ויש אומרים וכו'. וסברא ראשונה כי כן פסקו עבודת הקודש ורבינו ירוחם. ויש מתירין וכו'. וכן פסק רבינו ירוחם מערבין בעוכלא שמינית ליטרא תבלין:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 386:9"
+        },
+        "10": {
+          "he": "[י] ובשר חי וכו'. נראה לי דוקא מליח אבל חי בלא מליח אין רוב בני אדם אוכלין אותו ואין סומכין עליו וכן הדין בדג מליח (עבודת הקודש דף ק\"ה), ועיין סימן ש\"ח סעיפי ל\"א ל\"ב, וצריך עיון דבירושלמי פרק בכל מערבין חשיב בשר מליח וגם חי דתנינן הבבליין אוכלין אותו כשהוא חי מפני שדעתן יפה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 386:10"
+        },
+        "11": {
+          "he": "[יא] [לבוש] הפת לקינוח וכו'. אין לשונו של המגיד בשם הרשב\"א כך וזה לשונו, יראה לי שהיין מבושל בקינוח סעודה בא ולא לטבול בו ולפי שיעורא כדי שמביאין ממנו לקינוח שתי סעודות, עד כאן, ויש לומר דלא לטבול בו בשר קאמר הרשב\"א (מלבושי יום טוב). ולא עיין במקור בעבודת הקודש שם שפתח יין מבושל כדי לטבול פת של שתי סעודות ועל זה כתב ויראה לי וכו' הרי דלא לטבול בו פת קאמר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 386:11"
+        },
+        "12": {
+          "he": "[יב] [לבוש] ויש אומרים וכו'. כן דעת רשב\"א ותוס', אבל בשולחן ערוך סתם כסברא ראשונה והוא דעת הרי\"ף ורמב\"ם והרא\"ש והטור ולא ידעתי מי הכריח ללבוש שהוא נגד השולחן ערוך ורוב פוסקים (מלבושי יום טוב). ולעניות דעתי לא קשה מידי דהא תוס' ורשב\"א פירשו דשיעור חומץ כדי לטבול בו שתי סעודות היינו רביעית ואם כן יש לומר דגם הרי\"ף ורמב\"ם ושולחן ערוך מודים לזה אלא שנקטו לשון הש\"ס וכן פירש ריא\"ז בשלטי גיבורים:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 386:12"
+        },
+        "13": {
+          "he": "[יג] בשני רימונים וכו'. אתרוג אחד חמשה אגוזים קב תמרים קב גרוגרת מנה דבילה כשות מלא היד תרדין הן בכלל ירק (רמב\"ם פרק א'), ליטרא בכל מקום שתי רביעית עוכלא חצי רביעית (שם), ורש\"י דף כ\"ט פירש עוכלא שמינית בליטרא וליטרא הוא לוג, עד כאן, ולוג הוא ארבע רביעית:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 386:13"
+        },
+        "14": {
+          "he": "[יד] בתפוחי יער וכו'. הב\"ח פסק כתוס' דף כ\"ז וכן מלבושי יום טוב ונחלת צבי הסכימו לשולחן ערוך, ונראה לי לתרווייהו בין תפוחי פרדס בין תפוחי יער בקב וכן משמע קצת באגודה ואולי כן כוונת הב\"ח ודלא כנחלת צבי. כתב מגן אברהם לפתות דידן מערבין חיין דלא גרע מבשר חי, עד כאן, ועיין ס\"ק ט' מיהו לא גרע מירק חי על כן אין משתתפין בפת פרוסה כמו בעירובי חצירות (עבודת הקודש):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 386:14"
+        },
+        "15": {
+          "he": "[טו] בתרומה וכו'. היינו בימיהם אבל בזמן הזה אין ראוי שהרי כולנו טמאי מתים (שלטי גיבורים בכל מערבין) עיין סימן תנ\"ז. טבל אפילו טבל מדבריהם אין מערבין:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 386:15"
+        },
+        "16": {
+          "he": "[טז] ויש אומרים וכו'. אבל הרמב\"ם ורשב\"א ורוב מפרשים מתירין (בית יוסף), ומכל מקום אפשר דמודין בלשון קונם כן נראה לי, והפרישה כתב דרמב\"ם וסייעתו מתירין גם בקונם ותימא על רמ\"א וכן כתב מגן אברהם, ולעניות דעתי כמו שכתבתי. ועיין בית יוסף הנזכר לעיל קשה לי מנא ליה דרמב\"ם ממתירין דילמא מה שכתב הנודר מאוכל זה היינו שלא יאכלנו כמו שכתב בנשבע אבל שלא יהנה אפשר דמודה, גם מה שכתב דרוב מפרשים מתירין ראיתי ברשב\"א גופיה בעבודת הקודש דף ל\"ג בשם יש מי שהורה מגן אברהם, ולעניות דעתי כמו שכתבתי:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 386:16"
+        },
+        "17": {
+          "he": "[יז] ואסור לטלטל וכו'. ואם נתנו שתופן של שתי מבואות בבית אחת שבחצר ובכלי אחד או בשני כלים וכגון שנתמלא אחד והותיר מותר לטלטל כלים ששבתו במבוי זו למבוי אחרת דרך החצר כדלעיל סימן שע\"ח (מלבושי יום טוב):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 386:17"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "ואין מבואיהן כא'. דהא אסורין לטלטל מזה לזה:",
+          "en": "",
+          "ref": "Magen Avraham 386:1"
+        },
+        "2": {
+          "he": "ואין להם דריסת הרגל. פי' אף על פי שיש להם רשות לעבור דרך שם מ\"מ הואיל שיש להם  דרך אחר לצאת כופין אותו לעבור דרך שם כמ\"ש סי' שצ\"ב ס\"ו וסימן שס\"ד ס\"ג:",
+          "en": "",
+          "ref": "Magen Avraham 386:2"
+        },
+        "3": {
+          "he": "כמבוי א'. דאילו במבוי אח' צריך ב' פסין כמ\"ש סימן שס\"ג סל\"א ומ\"מ צ\"ע דהא עכ\"פ בעי' צ\"ה בינם לבין העכו\"ם כמ\"ש שם ובסימן שס\"ג סכ\"ו וא\"כ פשיטא דמהני ג\"כ לסלק היהודים שלא עירבו כמ\"ש סי' שצ\"ב ס\"ו אפי' יש להם דריסת הרגל זע\"ז וצ\"ע ועוד משמע שם דכל העיר נחשבת כא' ועסי' שצ\"א:",
+          "en": "",
+          "ref": "Magen Avraham 386:3"
+        },
+        "4": {
+          "he": "ולא בעדשי'. דאין נאכלין חיין דלא עדיפי מחיטי' ועב\"ח:",
+          "en": "",
+          "ref": "Magen Avraham 386:4"
+        },
+        "5": {
+          "he": "בשיל ולא בשיל. ונ\"ל דלפתות דידן מערבין מהן חיין דלא גרע מבשר חי:",
+          "en": "",
+          "ref": "Magen Avraham 386:5"
+        },
+        "6": {
+          "he": "צלי הוי לפתן. ואפילו יש מקומות שאוכלים אותו בלא פת בטל' דעתן אצל כל אדם (גמ') ערסי' ש\"כ:",
+          "en": "",
+          "ref": "Magen Avraham 386:6"
+        },
+        "7": {
+          "he": "חומץ. שיעורו כדי לטבל ירק מזון ב' סעודות אם היה אוכלו בלא פת:",
+          "en": "",
+          "ref": "Magen Avraham 386:7"
+        },
+        "8": {
+          "he": "יין חי. אבל מבושל לקינוח סעודה בא ולא לטבל לפיכך שיערו כדי שמביאין ממנו לקינוח ב' סעודו' (מ\"מ) וכן כל כיוצא מזה:",
+          "en": "",
+          "ref": "Magen Avraham 386:8"
+        },
+        "9": {
+          "he": "בתרומ'. ועכשיו אין תרומה טהורה הראויה לשום אדם (כ\"ה ש\"ג עסי' תנ\"ז):",
+          "en": "",
+          "ref": "Magen Avraham 386:9"
+        },
+        "10": {
+          "he": "שלא יהנה. אף ע\"ג דבעירובי תחומין שרי התם אין מערבין אלא לדבר מצוה ומצות לאו ליהנות ניתנו והרמב\"ם והרשב\"א ומ\"מ בשם רוב המפרשים כתבו דאפ\"ה שרי בעירובי חצירות כיון דחזי לישראל אחר ואף על פי שאמר שלא אהנה או קונם שרי שלא כוון אלא בדרך הנאתו וע' בגמ' וא\"כ מ\"ש רמ\"א דבקונם כ\"ע מודו צ\"ע דהיינו פלוגתייהו אלא דלדעת הטור בקונם אפי' בעירובי תחומין אין מערבין דדמי להקדש והרמב\"ם ודעימי' ס\"ל דאין הלכה כרב הונא דאתיא כר\"א ע\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 386:10"
+        },
+        "11": {
+          "he": "יהנה ממנו. עמ\"ש סי' שצ\"ד דעירובי חצירות נמי מצוה היא מ\"מ עושה להנאתו:",
+          "en": "",
+          "ref": "Magen Avraham 386:11"
+        },
+        "12": {
+          "he": "לא נתקדשה ודאי. שמספק לא חל עליו קדושה:",
+          "en": "",
+          "ref": "Magen Avraham 386:12"
+        },
+        "13": {
+          "he": "עד שתחשך. דמספקא לא פקעה קדושה ועיין בגמ':",
+          "en": "",
+          "ref": "Magen Avraham 386:13"
+        },
+        "14": {
+          "he": "ואסור לטלטל. ואם נתנו שני המבואות שתופן בחצר זו בכלי א' ה\"ל כולן כא' ומותר לטלטל ממבוי זה למבוי זה כמ\"ש רסי' שע\"ח ע\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 386:14"
+        },
+        "15": {
+          "he": "ששבתו במבוי. כלומר בבתים שבמבוי דאלו ששבתו במבוי עצמה שרי כמ\"ש רסי' שע\"ב:",
+          "en": "",
+          "ref": "Magen Avraham 386:15"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "בירק.  ונ\"ל דלפתות דידן מערבין בהן חיין דלא גרע מבשר חי עיין מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 386:1"
+        },
+        "2": {
+          "he": "צלי.  ואפי' יש מקומות שאוכלים אותו בלא פת בטלה דעתן אצל כל אדם גמ':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 386:2"
+        },
+        "3": {
+          "he": "מבושל.  ושיעורו כדי שמביאין ממנו לקינוח ב' סעודות וכן כל כיוצא בזה. מ\"מ מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 386:3"
+        },
+        "4": {
+          "he": "בתרומה.  ועכשיו אין שום תרומה ראוי לאדם. כנה\"ג עי' סימן תנ\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 386:4"
+        },
+        "5": {
+          "he": "ואסור.  ואם נתנו ב' המבואות שתופן בחצר זו בכלי א' ה\"ל כולן כאחד ומותר לטלטל ממבוי זה למבוי זה כמ\"ש רסי' שע\"ח. מ\"א ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 386:5"
+        },
+        "6": {
+          "he": "במבוי.  כלומר בבתים שבמבוי דאלו ששבתו במבוי עצמה שרי כמ\"ש רסי' שע\"ב. מ\"א ועיין בגינת ורדים כלל ג' סי' כ\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 386:6"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) מן החצרות למבוי - מפני שהמבוי חשיב רשות משותפת כנגד החצרות שאינם מיוחדים רק לאנשי אותו החצר וגזרו אטו מר\"ה לרה\"י:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:1"
+        },
+        "2": {
+          "he": "(ב) והתירוהו ע\"י שיתוף - שכשם שעירובי חצרות מערב כל בתי החצר יחד וכדלעיל ריש סי' שס\"ו כך שיתופי מבואות משתף כל חצרי המבוי יחד ונעשים כחצר אחד:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:2"
+        },
+        "3": {
+          "he": "(ג) שגובין פת או דבר אחר - ואף דלענין עירובי חצרות בעינן דוקא פת כדלעיל בסי' שס\"ו שאני התם דעירוב משום דירה הוא לערב דירתן לעשותן אחת ודירתו של אדם אינו נמשך אלא אחר פתו משא\"כ שיתופי מבואות דאינו אלא לשתף רשות החצרות שבמבוי לא רשות הבתים וחצר לאו בית דירה הוא הלכך סגי בכל דבר מאכל ומזה הטעם נמי סגי כשנותנים אותו באויר החצר:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:3"
+        },
+        "4": {
+          "he": "(ד) או בבית שאין בו וכו' - דאפילו אם נימא כיון דלא חשיב בית הקיפו וקירויו כמו שאינו עכ\"פ לא גרע מאויר שבחצר:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:4"
+        },
+        "5": {
+          "he": "(ה) במקום המשתמר - וחצר מקרי מקום המשתמר [גמרא]:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:5"
+        },
+        "6": {
+          "he": "(ו) וע\"ל סי' שס\"ו - ס\"ג לענין עירובי חצרות דשם בעינן דוקא שיניחנו בבית דירה:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:6"
+        },
+        "7": {
+          "he": "(ז) בשלשה מקומות חלוקין - ר\"ל בשלשה מבואות שרחוקין זה מזה ומפסיק ביניהם מקום האסור בטלטול מפני שדרים שם עכו\"ם ולא שכרו מהם רשותם:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:7"
+        },
+        "8": {
+          "he": "(ח) אינו מועיל להם להשתתף - יחד אלא צריכין לערב בכל מקום ומקום בפני עצמו:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:8"
+        },
+        "9": {
+          "he": "(ט) בחצר שבמבוי - ר\"ל באותו מבוי שנשתתפו בו כדי שכל אחד ואחד יוכל להביא העירוב אצלו וכאן הרי אסורין לטלטל העירוב ולהביאו אצלן א\"כ אין שיתופן כאחד. ולפי זה הא דכתב המחבר ודלתות וכו' נעולין בלילה לאו דוקא דאפי' בפתוחין נמי כיון שמפסיק ביניהם מקום האסור שאין יכולין להביאו אצלו וכנ\"ל בודאי לא מהני שיתופן [ודין זה מועתק מתשו' הרשב\"א ואפשר דעובדא הוי התם כן בנעולין] ובספר בית מאיר יישב הדברים כפשוטן דאפי' באין מפסיק ביניהם מקום האסור בטלטול כגן ששכרו הרשויות מן העכו\"ם שדר באמצע ותיקנו המבואות כדין אעפ\"כ אם הם רחוקין זה מזה ודלתותיהן נעולות בלילה אין יכולין להשתתף יחד דהשיתוף הוא כדי לחברן ביחד וכאן שהוא בריחוק מקום וגם הדלתות נעולות אין יכולין להתחבר ביחד ולא מיקרי שיתוף. ומסיים שם בס' בית מאיר דמסתברא דכל זה הוא דוקא אם אין להם רשות לפתוח הדלתות בלילה (מטעם המלכות וכדומה) אבל אם הרשות בידם לפתוח בכל שעה שירצו אין מתקלקל השיתוף ע\"י הנעילה:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:9"
+        },
+        "10": {
+          "he": "(י) ואם עירבו במקום אחד - ר\"ל שנשתתפו וקאי על דברי המחבר שהיו הישראלים במקומות חלוקים [אך זה לא מיירי לגמרי בגווני הנ\"ל בשהיו הדלתות נעולות או אפי' בצורת הפתח ביניהם דאם כן על ידי זה בודאי נתחלק רשותם ואפי' היה להם דריסת הרגל עליהם ג\"כ אין יכולין לאסור עליהם כדלקמן בסי' שצ\"ב ס\"ו אלא מיירי שלא תיקנו המבואות רק בלחי וקורה]:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:10"
+        },
+        "11": {
+          "he": "(יא) ואין להם דריסת הרגל - פי' אע\"ג שיש להם רשות לעבור דרך שם מ\"מ הואיל שיש להם דרך אחר לצאת כופין אותן לעבור דרך שם כמ\"ש סי' שצ\"ב ס\"ו (מג\"א). ועיין בס' בית מאיר בסי' שצ\"ב מ\"ש בזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:11"
+        },
+        "12": {
+          "he": "(יב) כמבוי אחד - דאילו במבוי אחד כשרוצים קצת מן הדיורין להשתתף בפני עצמם צריכין להתחלק מן השאר בצוה\"פ או עכ\"פ בשני פסין כמ\"ש בסי' שס\"ג ס' ל\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:12"
+        },
+        "13": {
+          "he": "(יג) בהיקף חומה אחת - וצ\"ע דהא קיימ\"ל בסי' שס\"ג סכ\"ו (עיי\"ש במג\"א) דהיכי דמוקפת חומה נחשבת כחצר של רבים וצריך כל מבוי להתחלק בצוה\"פ או עכ\"פ בשני פסין ולא סגי בלחי וקורה:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:13"
+        },
+        "14": {
+          "he": "(יד) ככל משפטי וכו' - המבואר בסימן שס\"ו ושיעורו מבואר בסי' שס\"ח ס\"ג ושאשתו מערבת בשבילו בסימן שס\"ז ושמערבין שלא לדעתו ג\"כ שם ושקטן יכול לגבותו בסימן שס\"ו ס\"ג ושאחד יכול לזכות לכולם שם ס\"ט ושאם היו שותפין א\"צ לערב שם סי\"א בהג\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:14"
+        },
+        "15": {
+          "he": "(טו) לזה ביין ולזה בשמן - ר\"ל אע\"פ שהן שני מיני משקה אפ\"ה כיון שהם בכלי אחד נקרא שיתוף אע\"פ שלא הונחו שם לשם שיתוף:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:15"
+        },
+        "16": {
+          "he": "(טז) בכלי אחד - ר\"ל סחורה של כל השלשה שותפין אבל בשני כלים אפילו אם היה שותפות כולם במין אחד יין או שמן וכה\"ג ג\"כ לא מהני ואף דלעיל בסימן שס\"ו ס\"ד מבואר דלפעמים מותר אפילו בשני כלים עי\"ש התם שאני שנשתתפו מעיקרא לשם שיתוף מבואות אבל הכא דלאו לשם שיתוף הונח שם אלא לסחורה בכלי אחד אין בשני כלים לא. ודע דהרמ\"א נמשך בזה אחר דעת הטור אבל רוב הפוסקים חולקים על זה ודעתם דביין ושמן שהם שני מינים שאין ראויין להתערב יחד אפילו כשהיו מעורבין בכלי אחד ג\"כ אין סומכין עליהן לענין שיתוף ועיין בבה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:16"
+        },
+        "17": {
+          "he": "(יז) למזון שתי סעודות - שהוא שיעור הראוי אף לאלף בני אדם וכמו שכתוב למעלה בסימן שס\"ח ס\"ג:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:17"
+        },
+        "18": {
+          "he": "(יח) שהוקשו לזרע - ר\"ל שהוקשו הקלחים כעץ שכבר צמח בהם זרע וקשים לאכילה:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:18"
+        },
+        "19": {
+          "he": "(יט) ותבלין - דלאו בני אכילה נינהו:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:19"
+        },
+        "20": {
+          "he": "(כ) ופולין יבשים - שאין נאכלין כמות שהן חיין אלא לאחר בישולן ובעינן שיהא ראוי לאוכלו עכשיו:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:20"
+        },
+        "21": {
+          "he": "(כא) ולא בעלי בצלים וכו' - שקשים הם לאכילה אבל בבצלים גופא מערבין בהן אם יש בהן כדי ללפת מזון שתי סעודות:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:21"
+        },
+        "22": {
+          "he": "(כב) שלא גדלו וכו' - שבעוד שהן כ\"כ קטנים מזיק לאדם ארס שבהן אבל אם כבר גדלו העלין שיעור זרת הרי הם כבצלין עצמן ומערבין בהם כשיש בהם שיעור ללפת בהם מזון ב' סעודות:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:22"
+        },
+        "23": {
+          "he": "(כג) ולא בכמהין ופטריות - אפילו מבושלים והטעם שאין אדם רגיל לסמוך עליהן לא מחמת סעודה ולא מחמת לפתן ואינן באין אלא באקראי ובביאור הגר\"א חולק ע\"ז ודעתו דמערבין בכמהין ופטריות מבושלין:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:23"
+        },
+        "24": {
+          "he": "(כד) ולא בכפניות - הם תמרים רעים שלא בשלו כל צרכן:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:24"
+        },
+        "25": {
+          "he": "(כה) ולא בעדשים ולא בחטים וכו' - היינו כשהם חיים דלאו בני אכילה נינהו וה\"ה אורז ודוחן וקטניות יבשין שאין ראויין לאכול כמות שהן חיין דאין מערבין בהן [אחרונים]. כתב הרשב\"א דבקליות מערבין בהן:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:25"
+        },
+        "26": {
+          "he": "(כו) שהוא בשיל ולא בשיל - שקשין הן לאכילה אבל בשיל לגמרי או חי לגמרי מערבין בהן ודוקא ירקות שדרכן לאכול חיין וכתב המ\"א דלפת דידן הוא בכלל הזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:26"
+        },
+        "27": {
+          "he": "(כז) ולא במים לבדם וכו' - דלאו מידי דמזון הוא:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:27"
+        },
+        "28": {
+          "he": "(כח) אבל וכו' - שראוי ללפת בו הפת [ב\"י] וממילא שיעורן שיהיה בהן כדי ללפת בו פת מזון שתי סעודות וכדלקמיה בס\"ו:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:28"
+        },
+        "29": {
+          "he": "(כט) כשנתן לתוכן שמן - ומיירי שבשמן לבדו ליכא שיעור הראוי לעירוב אלא בתערובות המים ומלח ואפ\"ה אגב השמן חשיב הכל אוכל להשלים לשיעור. ולדינא נקטינן כדעה ראשונה:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:29"
+        },
+        "30": {
+          "he": "(ל) שמערבין בתבלין - מפני שראוי לתבל בו את האוכל חשיב הוא לערב בו ושיעורו כחצי רביעית. ואפשר דבשעת הדחק יש לסמוך איש אומרים הזה ומ\"מ יש ליזהר מלערב בפלפלין כ\"כ הח\"א אכן בתשובת חתם סופר חלק או\"ח סימן צ\"ג דעתו שם דפלפלין הוא בכלל שאר תבלין ושיעור חצי רביעית הוא שני לויט ושלשה רבעי לויט ע\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:30"
+        },
+        "31": {
+          "he": "(לא) שיעורו ללפת בו וכו' - וסגי בזה ולא בעינן שיהיה כולהו סעודתא מההוא מינא:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:31"
+        },
+        "32": {
+          "he": "(לב) לא הוי ליפתן - דאין רגילין ללפת בו את הפת:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:32"
+        },
+        "33": {
+          "he": "(לג) וצריך כדי שיאכל ממנו וכו' - עיין בה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:33"
+        },
+        "34": {
+          "he": "(לד) צלי הוי לפתן - ואפילו יש מקומות שאוכלין אותו בלא פת בטלה דעתן אצל כל אדם [מ\"א] וכן בשר מבושל דינו כצלי:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:34"
+        },
+        "35": {
+          "he": "(לה) חומץ הוי ליפתן - ושיעורו כדי לטבל בו ירק מזון שתי סעודות הנאכל בלא פת ונתבאר בפוסקים דשיעורו ברביעית:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:35"
+        },
+        "36": {
+          "he": "(לו) וכן יין מבושל - מלשון זה משמע דשיעורו כדי ללפת בו פת של שתי סעודות וי\"א דדי בכדי שיביא ממנו לקינוח שתי סעודות אבל רוב הפוסקים אין סוברין כן:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:36"
+        },
+        "37": {
+          "he": "(לז) לא הוי ליפתן - דאין דרך ללפת בו הלכך בעינן דוקא שיעור שתיית שתי סעודות דהוא שתי רביעיות:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:37"
+        },
+        "38": {
+          "he": "(לח) אפילו חיים - דזימנין דסועדין בהן ע\"פ הדחק:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:38"
+        },
+        "39": {
+          "he": "(לט) בשני רמונים בחמשה אפרסקים - דאלו דברים רגילין לבוא לקינוח סעודה ושיעור זה די לקינוח שתי סעודות מפני חשיבותם ובגמרא איתא עוד דמערבין בעשרה אגוזים או באתרוג אחד מהאי טעמא דחשיבי:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:39"
+        },
+        "40": {
+          "he": "(מ) בליטרא ירק - דבפחות מזה לא חשיבי:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:40"
+        },
+        "41": {
+          "he": "(מא) בין חי וכו' - עיין לעיל בסקכ\"ו:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:41"
+        },
+        "42": {
+          "he": "(מב) בפולין לחין - שדרכן לאכול חיין:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:42"
+        },
+        "43": {
+          "he": "(מג) מלא היד - שזה שיעור ללפת בו שתי סעודות [ריטב\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:43"
+        },
+        "44": {
+          "he": "(מד) בתפוחי יער - לפי שאין דרך לאכלן אלא ע\"י הדחק והרבה פוסקים חולקים ע\"ז ודעתם דבכל תפוחים דינא הכי דבקב. עוד איתא בגמרא דגם תמרים וגרוגרות השיעור הוא כמלא הקב. ושמן שיעורו ברביעית ודבילה שיעורו מנה:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:44"
+        },
+        "45": {
+          "he": "(מה) מלא הקב - דבציר מהכי לא חשיבי:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:45"
+        },
+        "46": {
+          "he": "(מו) משתתפין וכו' - ה\"ה לענין עירובי תחומין וכן כל אלו הסעיפים הקודמים שייך גם בעירובי תחומין [ולא בעירובי חצרות דאינו אלא בפת]:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:46"
+        },
+        "47": {
+          "he": "(מז) ולישראל בתרומה - הואיל וחזי לכהן ועכשיו שכולנו טמאי מתים אין תרומה טהורה ראויה לשום אדם ואין לערב בה ומ\"מ בחלה נראה דמערבין ומשתתפין ולענין מי שנוהג שלא לאכול חדש אי מותר לערב ולהשתתף בו תלוי בזה אם הוא נוהג רק מצד חומרא מותר לערב ולהשתתף בו ואם הוא נזהר בזה מחמת דעת הפוסקים שסוברים שהוא אסור מן הדין גם בחו\"ל אסור לו לערב ולהשתתף בו:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:47"
+        },
+        "48": {
+          "he": "(מח) וכן וכו' משתתף בו - הואיל וחזי לאחריני:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:48"
+        },
+        "49": {
+          "he": "(מט) אין משתתפין לו בה - דאע\"ג דחזי לאחריני מ\"מ הרי הוא נהנה ע\"י תיקון זה והרי הוא אסר על עצמו הנאתו ודוקא שיתוף או עירובי חצרות שמערבין לדבר הרשות אבל עירובי תחומין שאין מערבין אלא לדבר מצוה מותר דמצות לאו ליהנות ניתנו ולא מחשב הנאה. והנה מלשון המחבר משמע דלדעה הראשונה אפי' כשאמר שלא אהנה ג\"כ מותר לערב ולהשתתף אבל כמה אחרונים כתבו דאף לדעה ראשונה אסור בנדר או נשבע בפירוש שלא יהנה:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:49"
+        },
+        "50": {
+          "he": "(נ) ואם אמר קונם וכו' - הטעם דאע\"ג דבסתם נדר מאכילה מותר להשתתף היינו בשלא הזכיר לשון קונם אבל באומר לשון קונם אפילו הזכיר בפירוש אכילה ג\"כ אין משתתפין בה דקונם הוא לשון קרבן ואי שרית בזה אתי למשרי גם בשל הקדש גמור ובהקדשות לכו\"ע אין מערבין ומשתתפין מפני שהוא אסור לכל העולם ולענין דינא עיין בבה\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:50"
+        },
+        "51": {
+          "he": "(נא) היום חול ולמחר קודש - פי' בע\"ש לא יתקדש עדיין רק למחר יהיה קודש אמרינן דביה\"ש עדיין לא נתקדש דמספיקא לא נחתא לה קדושה וע\"כ יכול להשתתף בככר זה שעיקר חלות השיתוף הוא בין השמשות ועדיין היה אז באותו הזמן הככר חול:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:51"
+        },
+        "52": {
+          "he": "(נב) עד שתחשך - ר\"ל לילה גמורה דמספיקא לא פקעה קדושה וא\"כ בבין השמשות היה עדיין קודש ואין מערבין בהקדשות:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:52"
+        },
+        "53": {
+          "he": "(נג) ואסור לטלטל וכו' - שהרי המבואות לא שיתפו יחד ולפיכך אם נתנו שני המבואות שיתופן בחצר זו בכלי אחד הו\"ל כולן כאחד ומותר לטלטל ממבוי זה למבוי זה כמ\"ש רס\"י שע\"ח ע\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:53"
+        },
+        "54": {
+          "he": "(נד) ששבתו במבוי - כלומר בבתים שבמבוי דאלו בעת כניסת היום שבתו במבוי עצמה שרי [אחרונים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:54"
+        },
+        "55": {
+          "he": "(נה) אוסר על שניהם - כדקי\"ל דאם חצר אחד לא נשתתף במבוי אוסר על כל המבוי:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:55"
+        },
+        "56": {
+          "he": "(נו) הותר הרגיל לעצמו - ואין זה אוסר דכיון דשיתף עם השני סילק עצמו מזה שהיה רגיל בו:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:56"
+        },
+        "57": {
+          "he": "(נז) וכן אם היה רגיל וכו' - דין זה הוא בכ\"ש מדין הקודם:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:57"
+        },
+        "58": {
+          "he": "(נח) ויסתלק מאותו שרגיל - שלא יעבור עליו בשבת:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:58"
+        },
+        "59": {
+          "he": "(נט) כופין אותו על מדת סדום - שיעבור בשבת דרך מבוי שלא נשתתף אע\"פ שאינה רגילה בו ואצ\"ל אם הוא רגיל בשניהם שכופין אותו שלא לעבור בשבת על השני שנשתתף ולאסור עליו:",
+          "en": "",
+          "ref": "Mishnah Berurah 386:59"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

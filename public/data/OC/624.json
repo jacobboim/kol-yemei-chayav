@@ -1,0 +1,443 @@
+{
+  "chelek": "OC",
+  "siman": 624,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 5,
+  "fetchedAt": "2026-07-07T23:49:34.887Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "סדר מוצאי יום כפורים. ובו ה סעיפים:מתפללים תפלת ערבית ואומר הבדלה בחונן הדעת:",
+      "en": "“The order at the close of (i.e., after) Yom Kippur” - Containing five paragraphs.We pray the Evening Prayer225Arvit, ערבית, the Evening Service; see footnote 144. and say the Havdalah226Havdalah, הבדלה, literally means distinction. It is a blessing that is recited at the termination of Sabbaths and festivals in order to help distinguish the holy of the holiday from the profane or ordinary nature of the regular weekday. According to the Talmud (Ber. 33a) the men of the Great Synagogue instituted these prayers. At times the prayer was said in the Amidah, but when Israel got richer and could afford it, the prayer was said over a cup of wine and, therefore taken out of the Amidah and placed at the end of the Service. The location of the prayer varied through the tannaitic period. In different rites, different prayers begin the ceremony. Most Ashkenazim recite Isaiah 12:2-3, \"Behold, God is my salvation\". The introduction is followed by three blessings, over wine, spices, and light, the order varied before it was set down in the Mishna.The blessing over light was to display that work (lighting fire) was now permitted as the Sabbath or festival was over. The blessing over wine comes from the early established duty to recite the prayer over wine. There is no agreement as to the origin of the blessing over the spices. The rishonim (see footnote 16) state that it is to compensate the Jew for the loss of his \"additional soul\" which traditionally accompanied him throughout the Sabbath and festivals, although other reasons have also been given.The actual Havdalah blessing itself, the blessing over the separation of holy from profane, is the fourth blessing in the ceremony. It developed over the years into various versions. It was decided that the prayer must mention at least one distinction, that between holy and profane. When a festival is followed immediately by the Sabbath the distinction mentioned is between the holy and the holy. When a festival is followed by a weekday, Havdalah may be recited over wine alone without the candle and spices. Many local customs developed around this mystical ceremony as did many special songs and hymns.Editorial Staff, E. J., v. 7, pp. 1481-82. (the “separation”) in the benediction “חונן הדעת227According to the Sephardi ritual, the Havdalah ceremony was part of the Arvit Service (see footnote 144) and the recitation of the Havdalah was done during the Amidah (see footnote 43). It was inserted into the fourth benediction of the regular nineteen benedictions which make up the weekday Amidah, Ḥonen ha-Da'at, חונן הדעת, a prayer of thanking God for knowledge and understanding.”.",
+      "ref": "Shulchan Arukh, Orach Chayim 624:1"
+    },
+    {
+      "seif": 2,
+      "he": "צריך להוסיף מחול על הקודש גם ביציאתו שימתינו מעט אחר יציאת הכוכבים:",
+      "en": "One has to add some time (i.e., lengthen the day of Yom Kippur)228\"Add some time,\" means one must wait a little while and not rush for the conclusion of the Day of Atonement. One should prolong the day a bit by not rushing into the Havdalah prayer, (see footnote 226). from the profane to the holy229From \"the profane to the holy\" means that by waiting a bit to recite the Havdalah prayer one takes away a bit of the profane, that is the weekday, and adds a bit to the holy, that is Yom Kippur, by prolonging the Day of Atonement a bit longer than is actually dictated by the fall of night. also when (Yom Kippur is over, that is they should wait a little after the stars appear in the sky.230When three stars appear in the sky that is the definate distinction between light and dark, between day and night. The sight of the three stars definitely establishes the fact that it is night, that the holiday is over, that a new day has begun according to the Hebrew calendar, and that the Havdalah Prayer can be recited.",
+      "ref": "Shulchan Arukh, Orach Chayim 624:2"
+    },
+    {
+      "seif": 3,
+      "he": "מבדילים על הכוס ואין מברכים על הבשמים אפי' אם חל להיות בשבת:",
+      "en": "One says Havdalah over the cup (of wine) but one does not say the benediction over the spices even if it (Yom Kippur) falls on the Sabbath.231For an explanation of this special case regarding the Havdalah, see the end of footnote 226.",
+      "ref": "Shulchan Arukh, Orach Chayim 624:3"
+    },
+    {
+      "seif": 4,
+      "he": "מברכין על האור ואין מברכים במוצאי יום הכפורים על האור שהוציאו עתה מן האבנים וי\"א שמברכים עליו מעמוד ראשון ואילך:",
+      "en": "We (say a) blessing over the light, but we do not say a blessing after Yom Kippur on the light which they brought forth now from stones (i.e., sparks). Some say that we do say the benediction over the first fire which was ignited by this spark and onward.232To say the blessing over the lights in the Havdalah ceremony one may not use a fire that one sees from the first spark that results when two stones are struck together. The fire that can be used for the prayer has to be the result of at least the second fire that was ignited by those first sparks. The first sparks do not burn long enough to say a blessing over them. According to the commentator Magen Avraham, a commentary on the Shulḥan Arukh, Oraḥ Ḥayyim by Abraham Abele Gombiner (see footnote 33), the first sparks are not a real fire. Only the second fire ignited from the first sparks is considered a real fire that continues to burn long enough for a benediction to be recited over it.",
+      "ref": "Shulchan Arukh, Orach Chayim 624:4"
+    },
+    {
+      "seif": 5,
+      "he": "ישראל שהדליק מעכו\"ם אין מברכים עליו במוצאי יום הכפורים אע\"פ שבמוצאי שבת מברכין עליו שאין מברכים במוצאי יום הכפורים אלא על האור ששבת מבעוד יום ממש או על האור שהודלק ממנו וכן נהגו להדליק מעששיות של בית הכנסת ומיהו אפילו אם הודלק ביום הכפורים אם הודלק בהיתר כגון לחולה יכולים לברך עליו: הגה י\"א להבדיל על נר של ביהכנ\"ס (המגיד ואבודרהם וא\"ז) וי\"א שאין להבדיל עליו אלא מדליקין נר אחר ממנו והנכון להבדיל על שניהן ביחד דהיינו להדליק נר אחד מנר בית הכנסת ולא יבדיל על נר עצמו של בית הכנסת לחוד [מהרי\"ל] ושאר דיני נר ע\"ל סי' רצ\"ח ואוכלים ושמחים במוצאי יום כיפורים דהוי קצת יום טוב (טור ומהרי\"ו א\"ז) יש מחמירים לעשות שני ימים יום כפורים ויש לזה התרה ואין לנהוג בחומרא זו משום דיש לחוש שיבא לידי סכנה [א\"ז]. מי שמתענה תענית חלום למחרת י\"כ א\"צ להתענות כל ימיו [מנהגים]. אין אומרים תחינות ולא צו\"ץ מי\"כ עד סוכות והמדקדקים מתחילים מיד במוצאי י\"ה בעשיית הסוכה כדי לצאת ממצוה אל מצוה: [מהרי\"ל ומנהגים והגהות מיימוני פרק ב' דברכות מהרי\"ו]:",
+      "en": "A Jew who lights the candle from the fire of a non-Jew does not (say a) blessing over it at the close of Yom Kippur even though at the end of the Sabbath we do bless it, because we do not say a blessing over the fire on the close of Yom Kippur, only over light which was not burning during the daytime of Yom Kippur, or over the light that was lighted from it, and (therefore) the custom is to light from the lamps of the synagogue233These candles in the synagogue were kindled before Yom Kippur and therefore they are not the candles that were lighted and used on Yom Kippur by non-Jews. Candles lighted and used on Yom Kippur by Gentiles are not to be used to ignite candles to be blessed during the Havdalah ceremony, but candles in the synagogue that had been ignited prior to Yom Kippur and they burned all through Yom Kippur without being touched can be used to light candles which are to be blessed during the Havdalah ceremony following Yom Kippur.; however if one lighted (his candle) on Yom Kippur, if it was lighted with permission (i.e., if he was allowed to light it), for example for a sick person, we are able to say a blessing over it.Hagah: There are those who say that one is to say the Prayer of Havdalah234Havdalah, הבדלה; see footnote 226. over the light of the synagogue, (המגיד ואבודרהם וא״ז),235Ha-Maggid and Abudarham and Or Zarua'a, וא״ז המגיד ואבודרהם.Ha-Maggid, המגיד, refers to the work Maggid Mishneh, a commentary to the Mishneh Torah by Maimonides, (see footnote 59) . It was written by a Spanish rabbi known as Vidal Yom Tov of Tolosa who lived in the second half of the fourteenth century. He came from Tolosa, Catalonia where he wrote his commentary. The commentary does not cover the entire Mishneh Torah, only Books 3; 4; 5, chapters 1-9; 11; 12, chapters 1-3; and 13 are in existence. Some of his commentaries may have been lost, but it is also possible that he only commented on laws that were practical during his time. His purpose was to clarify the difficult passages of Maimonides and to indicate the sources Maimonides used. Vidal also dealt with criticisms, hassagot, of Abraham b. David of Bosquieres and tried to answer them. He often found both men right attributing the differences to different versions of the text. He also explained the order of the halakhot of Maimonides in each book. He felt that a misunderstanding of Maimonides' order was the reason for the book being so severly criticized. Vidal was quite strict in his rulings where he quoted extensively from Naḥmanides and Solomon b. Abraham Adret and others. The Maggid Mishneh has become the standard commentary on the Mishneh Torah.Yehoshua Horowitz, E. J., v. 16, pp. 119-20.Sefer Abudarham, ספר אבודרהם, was written in Seville in 1340 by David ben Joseph Abudarham, a fourteenth century Spanish liturgical commentator. He was a communal leader in Toledo, and he was inspired to write his book because of the fact that customs connected with prayer varied from country to country where the Jews lived. Most of the Jews at this time did not understand the words of the prayers, nor the correct procedures and the reasons for saying them. Abudarham based his decisions on the Talmuds, the decisions of the geonim (see footnote 19), and early and late commentators of Spain, Provence, France and other Ashkenazi origins. Abudarham made much use of the prayer book of Saadiah Gaon. He also used several customs based on the Manhig of Abraham b. Nathan ha-Yarḥi of Lunel and the Minhagot of Asher b. Saul. He derived legal material from Asher b. Jehiel and the Turim of Jacob b. Asher (see footnote 23).Abudarham traced the various customs in different countries of each prayer and commented on them. He included in his commentary an examination of the Passover Haggadah. He also discussed the weekly division of the Torah readings and their corresponding Haftarot (see footnote 170). He added to his book the rules of various benedictions, dividing them into nine categories and explaining and interpreting them. Sefer Abudarham was first published in Lisbon in 1490. Abudarham also wrote a book commenting on the liturgy of Yom Kippur which has been ascribed to Yose b. Yose, and other liturgical poems.Zvi Avneri (Hans Lichtenstein) and Editorial Staff, E. J., v. 2, pp. 181-82.For Or Zaru'a, א״ז; see footnote 118. and there are those who say that one should not use (the light of the synagogue) for Havdalah, rather one lights another light from the synagogue lamp.236In other words one lights the candle over which the Havdalah Prayer is recited from a candle that was lighted from the synagogue candles, thus making the lighting of the candle over which the blessing is said once removed from the synagogue light. In this way, the candle of the synagogue which burned throughout Yom Kippur is not used directly. The correct practice is to say the Havdalah over both of them together, that is to kindle one light from the light of the synagogue, but one should not make the Havdalah over the light of the synagogue alone, (מהרי״ל).237Maharil, מהרי״ל; see footnote 8. For the rest of the laws concerning the light, see above in chapter  298.238The Shulḥan Arukh, Oraḥ Ḥayyim, chapter 238 contains the laws of the candle used for the Havdalah ceremony in fifteen chapters. We eat and we rejoice at the close of Yom Kippur because it is somewhat of a holiday,239It is not actually according to official terminology a holiday on the night after Yom Kippur, but that night is celebrated as somewhat of a holiday to mark the end of fasting and the hope of true forgiveness by God for the genuine repenter. (טור ומהרי״ו, א״ז).240Tur and Mahariv and Or Zaru'a, טור ומהרי״ו, א״ז.For Tur, טור; see footnote 23.For Mahariv, מהרי״ו; see footnote 27.For Or Zaru'a, א״ז; see footnote 118. There are those who are strict and observe two days of Yom Kippur, and a person can be (halakhically) relieved of this practice,241If one started a second day of Yom Kippur he can be excused of it and stop his observation. The method that should be employed to stop the second day of fasting once it has been begun is the same as the process that is used to annul a vow, hattarat nedarim, declaring that the vow is null and void outloud by the bet din, the rabbinical court made up of three rabbis. and one should not follow this strict practice since there is a fear that a person might be in danger (of his life or health), (א״ז).242Or Zaru'a, א״ז; see footnote 118. He who fasts because he had a bad dream243A fast observed as the result of a bad dream or a nightmare, ta'anit ḥalom, תענית חלום; see footnote 7. on the day after Yom Kippur, there is no need for him to fast all his days244This means that if one has had a bad dream and observes a dream fast (see footnote 7) for it one year immediately after Yom Kippur, there is no need for him to fast every year after Yom Kippur just because he did it once. This one time is sufficient. (after Yom Kippur every year just because he did it once), (מנהגים)245Minhagim, מנהגים;see footnote 13. One does not say prayers of supplication246Taḥanun, תחנון, prayers of supplication; see footnote 10. nor does he say “You are righteous, and you will be righteous, and you were righteous247Ẓidkatkha, צדקתך; see footnote 199.” from Yom Kippur until Sukkot248Sukkot, סוכות, the \"Festival of Booths\" is one of the three pilgrimage festivals. It begins on the fifteenth of Tishrei, five days after Yom Kippur. It commemorates the event that the Children of Israel dwelt in the wilderness after the Exodus from Egypt. The festival lasts for seven days. The first day (the first two days in the Diaspora) is a yom-tov, a festival on which no work is permitted. On the intermediate days, ḥol ha-mo'ed, work is permitted. Immediately after Sukkot, on the eigth day is the festival of Shemini Aẓeret, \"The eighth day of solemn assembly\" which is again a yom-tov. In the Diaspora a second day of Shemini Aẓeret is observed called Simḥat Torah, \"Rejoicing over the Torah.\"The holiday is called the feast of Tabernacles or Ingathering is mentioned often in the Bible, especially in Leviticus 23:39-43. It marks the Fall harvest.The holiday is celebrated by living in temporarily constructed or completed booths, Succot, of which at least the roof is made especially for the holiday. These booths have a roof which enables those in them to see the sky but more of it has to be covered than not. Dwelling in these booths is to remind the Jews of the wandering of the Israelites through the desert. All meals are to be eaten (by the men) in the Succah, and one (i.e., the men) was supposed to live in the Succah throughout the holiday if the weather permitted this. During the time of the Temple Jews would make Sukkot one of their minimal of three pilgrimages to offer a special sacrifice in honor of the harvest and the festival.The rabbis established four species of plant, arba'ah minim,to celebrate the festival with based on Leviticus 23:39-43; the citron, etrog; myrtle twigs, hadasim; palm branch, lulav; and willows, aravot.Louis Jacobs, E. J., v. 15, pp. 495-502. (the Festival of the Booths), and the meticulous ones begin immediately at the close of Yom Kippur to build the Succah249One is to build a Succah for the holiday of Sukkot (see footnote 248). Succah must be at least three sided and its roof must be made of leaves and branches. The roof should be such that it will not be able to withstand a heavy down-pour. One is to dwell in the Succah during the holiday of Sukkot to remind the Jew of the wandering of the Israelites in the desert following the Exodus from Egyptian slavery. If it rains or the weather is severe one is only required to eat meals in the temporary booth of this harvest festival. According to tradition preferably each household is to have its own Succah and the building of it should begin immediately following Yom Kippur. so they can go from one commandment to another commandment,250It is a talmudic principle that one goes from mitzvah to mitzvah, from commandment to commandment. That means that when one is through completing his religious obligations in one area or a good deed, he must immediately begin fulfilling another commandment or doing another good deed. Sukkot is the next festival, following Yom Kippur by only five days. The concern with the festival of Sukkot must occupy the thoughts and the life of a pious person immediately upon the termination of Yom Kippur. Therefore the next day, if it is not the Sabbath, one should begin constructing his Succah (see footnote 249). (מהרי״ל ומנהגים, והגהות מיימוני פרק ב‘ דברכות, מהרי״ו).251Maharil and Minhagim and Hagahot Maimuniyyot, chapter two of the section Berakhot, Blessings, and Mahariv, ומנהגים והגהות מיימוני פרק ב‘ דברכות, מהרי״ו מהרי״ל.For Maharil, מהרי״ל; see footnote 8.For Minhagim, מנהגים; see footnote 13.For Hagahot Maimuniyyot, הגהות מיימוני; see footnote 27.For Mahariv, מהרי״ו; see footnote 27.",
+      "ref": "Shulchan Arukh, Orach Chayim 624:5"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "הרי\"ף ורא\"ש מהא דרב יומא פ\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 624:1"
+        },
+        "2": {
+          "he": "ברייתא שם פ\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 624:2"
+        },
+        "3": {
+          "he": "רמב\"ם בפרק כ\"ט מהלכות שבת וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 624:3"
+        },
+        "4": {
+          "he": "מימרא דרבי יוחנן פסחים כ\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 624:4"
+        },
+        "5": {
+          "he": "שם בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 624:5"
+        },
+        "6": {
+          "he": "כל בו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 624:6"
+        },
+        "7": {
+          "he": "ה\"ה בפ' כ\"ט ה\"ש בשם הרמב\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 624:7"
+        },
+        "8": {
+          "he": "טור מהא דאור ששבת פסחים כד וכפי' רש\"י שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 624:8"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "יש עמ״א ועא״ר א׳ ומשמע לכאורה שם דאסור בכל חומרות יוה״כ אבל המ״א מסיק דמותר בכל לבד אכילה ושתייה קודם שיבדיל על הכוס עסי׳ רצ״ט ורע״א: על הבשמים עמ״א ועט״ז ב׳ וע׳ עט״ז וכן נוהגין כשחל בשבת. ואומרים ויתן לך וא״א ויהי נועם ואתה קדוש שסוכות חל באמצע השבוע ע׳ לבוש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 624:1"
+        },
+        "2": {
+          "he": "ואין עמ״א דבעי אור שדלק ביוה״כ בהיתר ובדיל מיניה ועתה נהנה ממנו עט״ז:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 624:2"
+        },
+        "3": {
+          "he": "מעומד עמ״א וע׳ אות ז׳ דאם יש נר בית הכנסת לחוד ויש נר אחר שהודלק מהאור שהוציא מאבנים במוצאי יוה״כ עדיף טפי נר אחר כדיעה זו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 624:3"
+        },
+        "4": {
+          "he": "שכמ״ש עמ״א וגם על הר״ב לכאורה קשה ע׳ אות ז׳ ועסי׳ רצ״ט מ״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 624:4"
+        },
+        "5": {
+          "he": "נר עמ״א שהודלק מבע״י בהיתר ודלק ביוה״כ ולא נהנה ממנה עד עתה מברך עליו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 624:5"
+        },
+        "6": {
+          "he": "שאין עמ״א ועסי׳ רצ״ח סי״א:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 624:6"
+        },
+        "7": {
+          "he": "של ע׳ מ״א עשה כלומר דהוא כפל ומלת לחוד מיותר כו׳ ועיין אות ג׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 624:7"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "מתפללין עט״ז עב״ח בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 624:1"
+        },
+        "2": {
+          "he": "ואין עיין ט״ז ועמ״א אות א׳ ועט״ז וכן נוהגין ועא״ר אות ב׳ שאין להורות לציבור כן ולמחות בידם רק לעצמו יכול לברך על הבשמים וא״כ ודאי מנהג הקדום בעיר בבית הכנסת שנהגו שלא לברך על הבשמים אין לבטל מאחר שהמחבר והר״ב לא הגיה כלום:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 624:2"
+        },
+        "3": {
+          "he": "שהוציאו עט״ז אע״ג במ״ש מברכין עליו התם הטעם דנברא במ״ש אדה״ר הקישן ב״א כבסי׳ רצ״ח בט״ז א׳ ומ״א ב׳ ביוה״כ מצוה לחזור אחריו ועא״ר משמע אף חל יוה״כ בשבת אין מברכין על אור היוצא מאבנים להורות שיום זה חמור שאסור להשתמש באור. ויראה אם אין לו כ״א אור היוצא מאבנים כשחל יוה״כ בשבת יברך עליו וצ״ע כיון שבשבת א״צ לחזור אחריה וביוה״כ כו׳ וי״ל. ועמ״א ואי״ה שם יבואר עוד: מ״ש הרי״ב בהג״ה המדקדקים מתחילים מיד במוצאי יוה״כ בעשיית הסוכה להתחיל בלילה דבר מה וביום המחרת יעשנה כולה כמ״ש בתרכ״ה עמ״א תרכ״ה א׳ והלבוש השמיט בתרכ״ה זה ועיין א״ר ט״ו והבן ועיין מה שכתבתי בתרכ״ה מזה בעזה״י:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 624:3"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] [לבוש] ואפשר וכו'. וצריך עיון למה יאסר לגדולים לשתות אם מכוונים לצאת בהבדלה זו ואם אין מכוונין לצאת בה גם בכל מוצאי שבת אסורין לשתות, ואם כן מאי טעמא גזרינן טפי ביום כיפור ולכן אין לנהוג כן. ונראה לי דמותר ברחיצה ובכולם קודם שיבדיל (מגן אברהם). ולעניות דעתי דכיון דאסור באכילה קודם הבדלה נשאר עליו חומרת יום כיפור לכן גזרו יותר משאר מוצאי שבת. עוד יש לומר טעם חדש דגזרו שיבדיל בין השמשות וגזרינן דילמא אתא למיסרך מה שאין כן בשאר מוצאי שבת דמותר גם לגדול לשתות בין השמשות:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 624:1"
+        },
+        "2": {
+          "he": "[ב] ואפילו אם וכו'. וב\"ח פסק לברך במוצאי שבת ואין כאן ברכה לבטלה כיון שנהנה וכן פסקו תוס' וט\"ז ומגן אברהם. ונראה דלעצמו יכול אדם לעשות כן אבל לא למחות ולהורות לציבור כיון שכבר נהגו כן על פי השולחן ערוך ולבוש ומנהגים וכן מטה משה ושיירי כנסת הגדולה כתבו שכן המנהג פשוט ועוד שגם הכלבו שהביא בית יוסף הביא דעת החולקים וסיים וכן אנחנו עושין כן אלמא דאין לבטל המנהג בזה, ועוד דהא כתב הט\"ז דיש הפסק בין ברכת בורא פרי הגפן לברכת המבדיל בבשמים אם אין הכרח להם. ואף שכתב דעדיף לצאת ידי כל הדיעות מלחוש להפסק, על כרחך אינו נכון דאם הוא הפסק הוי ברכת בורא פרי הגפן לבטלה, גם שתיית יין הוא בלא ברכה וראיה שהביא הט\"ז מתשר\"ת דעמידה שתוקעין שלושה פעמים דאם קר\"ק עיקר הוי שברים הפסק וכו' לאו ראיה כלל דשם כבר יצא לו בתקיעת דמיושב כמו שכתב הוא גופיה. ואין להביא ראיה ולומר דתשר\"ת דישיבה דאו תרועה או שברים הוי הפסק בין ברכה לתקיעה דשם הכי תיקנו חכמים מספיקא ואם כן שייך ברכת וצונו ועוד דתקיעה ודאי הוי התחילה וכל שמתחילין במצוה קיימא לן דליכא הפסק כל כך כמו בקריאת התורה סי' ק\"מ, אבל בבשמים הוי התחילה תיכף אחר ברכת בורא פרי הגפן והוי לבטלה לכן אין לבטל כלל מנהגינו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 624:2"
+        },
+        "3": {
+          "he": "[ג] [לבוש] שידליק נר אחד וכו'. לשון מהרי\"ל שידליק נר של אבדלתא המזומן בביתו מנר בית הכנסת:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 624:3"
+        },
+        "4": {
+          "he": "[ד] ישראל שהדליק וכו'. ובתשובת מנחם עזריה סימן י\"ח חולק ומתיר בזה וראוי לסמוך עליו בשעת הדחק ועיין סימן רצ\"ח:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 624:4"
+        },
+        "5": {
+          "he": "[ה] [לבוש] אבל יום כיפור וכו'. משמע אף חל יום כיפור בשבת אין לברך להורות שיום זה הוא מקודש ששבת מן האור:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 624:5"
+        },
+        "6": {
+          "he": "[ו] ויש אומרים וכו'. ויש לסמוך עליהם בשעת הדחק כי מצאתי בשבלי לקט ותניא שפסקו הכי:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 624:6"
+        },
+        "7": {
+          "he": "[ז] [לבוש] דכתיב לך אכול וכו'. ומהרי\"ו כתב דאיתא במדרש בת קול אומרת לך אכול וכו':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 624:7"
+        },
+        "8": {
+          "he": "[ח] [לבוש] חוץ מן התפילה וכו'. ונראה לי דיניחו גם כן תפילין מהאי טעמא (מגן אברהם):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 624:8"
+        },
+        "9": {
+          "he": "[ט] [לבוש] מיהו בישראל וכו'. משמע באינו כשר אסור וכל שכן בכותים מכירו. עוד כתב מגן אברהם דאם בישל דבר שאי אפשר לאכלו חי כגון דגים אסור לאוכלן בשבת כיון שקדושה אחת הן, ועיין סימן תקט\"ו סעיף ד', עד כאן. ומשמע אף בישראל כשר ונראה דאין להחמיר בזה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 624:9"
+        },
+        "10": {
+          "he": "[י] [לבוש] אבל הנכון וכו'. ועוד שמעתי כשעושין יום השני יום כיפור אם כן מאתמול הוי ערב יום כיפור ואסור להתענות (מגן אברהם). וכן מצאתי בספר אמרכל על קלף, ומכל שכן למנהגינו שאין מתענין בין יום כיפור לסוכות. ובליקוטי פרדס משמע שאין מתענין בלילה כי אם ביום:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 624:10"
+        },
+        "11": {
+          "he": "[יא] [לבוש] אפילו בסתם וכו'. ומהרי\"ו סימן קצ\"א כתב דאפילו התנה מתחליה שלא יעשה אלא זה מהני כמו בנזיר ומגן אברהם מיקל דתנאי מהני:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 624:11"
+        },
+        "12": {
+          "he": "[יב] [לבוש] בין יום כיפור לסוכות וכו'. נהגו לעשות השכמה לתפילה במחרת יום כיפור שלא יקטרג השטן (של\"ה רמ\"ה):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 624:12"
+        },
+        "13": {
+          "he": "[יג] [לבוש] אין מתחיל לחשוב וכו'. בשל\"ה תמה דמאי דאמרינן ראשון לחשבון עוונות היינו דמסתמא אין עושין עוונות כיון שעוסקין במצות סוכה ולולב, אבל כשאדם חוטא ודאי חושבין. ואפשר דשוגגין אין צריכין כפרה בימים אלו איידי דטרידא במצוות:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 624:13"
+        },
+        "14": {
+          "he": "[יד] ואין אומרים צדקתך צדק וכו'. ולא פרקים ולא שיר המעלות כמו שכתב בסוף סימן תרס\"ט:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 624:14"
+        },
+        "15": {
+          "he": "[טו] והמדקדקים וכו' להתחיל וכו'. ולמחרת אפילו הוא ערב שבת יעשה הסוכה כולה דמצוה הבא לידו אל יחמיצנה וכן משמע בדרכי משה, וזה כוונת רמ\"א סימן תרכ\"ה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 624:15"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "מתפללין תפלת ערבית כו'.  בטור כתב שאין תפלת נעילה פוטרת אותה פירוש דלא כרב דאמר נעילה בלילה ממילא פוטרת תפלת ערבית שהיא בלילה ואע\"ג דלעיל סי' תרכ\"ג פסק הטור כרב והוא מדברי רי\"ף י\"ל דהרי\"ף עצמו כ' דהאידנא נהגו לצלויי ערבית בתר נעילה פי' בזה אין אנו תופסין כרב:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 624:1"
+        },
+        "2": {
+          "he": "ואין מברכין על הבשמים.  כ' מו\"ח ז\"ל אכן בתשובת מהרי\"ל סי' ל\"ד כתב לברך על הבשמים כשחל בשבת וכ\"כ אבודרהם וכן נ\"ל עיקר לענין מעשה מאחר שהמרדכי פסק לברך על הבשמים כניהוג ר\"ג מ\"ה אפי' חל בחול ואע\"פ דבהא לא נהגי' כוותיה מ\"מ כשחל בשבת ראוי לנהוג כניהוגו מאחר שרבים סוברין כן וכן פסק מהור\"ר שלמה לוריא ועוד נ\"ל דלא שייך כאן ספק ברכות להקל מאחר שנהנה מן הבשמים עכ\"ל ויש לכאורה לדחות זה שכ' מאחר שנהנה כו' דמ\"מ יש כאן הפסק בין ברכת בורא פרי הגפן לברכת המבדיל בבשמים אם אין הכרח להם מ\"מ נראה דעדיף טפי לצאת ידי כל הדיעות מלחוש להפסק וראיה מדברי ת\"ה סימן קמ\"ב לענין קשר\"ק שתוקעין בסדרים דבזה נפיק ידי כל הקולות דהיינו או קר\"ק או קש\"ק ולא חיישינן להפסיק אם קש\"ק עיקר הוה התרועה הפסק ואם קר\"ק עיקר הוה השברים הפסק דכיון דעכ\"פ כבר יצא י\"ח לא חיישינן להפסק  אע\"ג דעיקר התקיעות הם על סדר הברכות הכי נמי  כיון דיוצא ממ\"נ לא חיישינן להפסק:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 624:2"
+        },
+        "3": {
+          "he": "שהוציאו עתה מן האבנים.  שאין מברכין על מה שנולד עכשיו ולא היה מבעוד יום אלא במ\"ש  שאף הוא תחלת ברייתו מן האור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 624:3"
+        },
+        "4": {
+          "he": "י\"א להבדיל על נר של בה\"כ. כיון שהיה דולק כל היום בהיתר וי\"א שאין מברכין עליו כיון שכל היום לא הי' דולק להאיר אלא לכבוד היום והוי כאלו לא דלק כלל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 624:4"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "יש מקומות דאין נוהגי' להבדיל בבה\"כ וצ\"ע דיתנו לתינוקות לשתות ואפשר משום דלגדולים אסור לשתות עד שיבדיל כל א' בביתו לפיכך חיישינן לקטנים דלמא אתי למסרך כנ\"ל [לבוש] וצ\"ע למה יאסר לגדולים לשתות אם מכוונים לצאת בהבדלה זו ואם אין מכוונין לצאת בה גם בכל מ\"ש אסורים לשתות וא\"כ מ\"ט גזרינן טפי ביה\"כ ועוד דהא בקידוש לכ\"ע אסור לשתות ואפ\"ה לא גזרינן בתינוקות ולכן אין לנהוג כן ונ\"ל דמותר ברחיצה ובכולם קודם שיבדיל: על הבשמים. וב\"ח כ' בשם מהרי\"ל ואבודרהם ורש\"ל שכשחל בשבת יש לברך על הבשמים ואין כאן ברכה לבטלה כיון שנהנה:",
+          "en": "",
+          "ref": "Magen Avraham 624:1"
+        },
+        "2": {
+          "he": "ואין כו'. דבעינן אור ששבת:",
+          "en": "",
+          "ref": "Magen Avraham 624:2"
+        },
+        "3": {
+          "he": "מעמוד ראשון. פירוש שהדליקו נר א' מאותו שלהב' עיין סס\"ה:",
+          "en": "",
+          "ref": "Magen Avraham 624:3"
+        },
+        "4": {
+          "he": "שבמ\"ש מברכין. מפני שעל תוספת ההיתר הוא מברך וה\"ל כאור היוצא מהעצים אבל ביה\"כ אין מברכין אלא על האור ששבת מבע\"י וכו' עכ\"ל מ\"מ פכ\"ט משבת וא\"כ גם על הנר שהודלק מאור היוצא מהאבנים אין לברך דהא על העיקר אין לברך ועל התוספ' גם כן אין לברך דהא לא שבת מבע\"י וכ\"מ בתר\"י פ\"ח דברכות במוצאי יה\"כ אין מברכין על האור היוצא מהעצים ובגחלים ששבתו והדליקו מהם י\"א דהוי כיוצא מהעצים ואין נראה שהרי הגחלים הראשונים הם היתר והנר גם כן היתר ע\"ש הרי בהדיא דבאור שהודלק מאור היוצא מהעצים אין לברך עליו לכ\"ע וצ\"ע דהרב\"י כתב בס\"ד שי\"א לברך עליו וכאן סתם כהמ\"מ:",
+          "en": "",
+          "ref": "Magen Avraham 624:4"
+        },
+        "5": {
+          "he": "נר של בה\"כ. ששבת ממש:",
+          "en": "",
+          "ref": "Magen Avraham 624:5"
+        },
+        "6": {
+          "he": "שאין להבדיל. דלא נעשה רק לכבוד עססי' רצ\"ח:",
+          "en": "",
+          "ref": "Magen Avraham 624:6"
+        },
+        "7": {
+          "he": "של בה\"כ לחוד. כלומר דאם א\"א להבדיל על שניהם מוטב להבדיל על נר אחר לחוד מנר בה\"כ לחוד ומשמע דאפי' חל יה\"כ בשבת אין לברך על אור היוצא מן העצים להורות שיום זה מקודש ששבת מן האור: אין מתענין מי\"כ עד סוכות יום שמת בו אביו (הגמ\"נ) והם ימי שמחה שהיו מחנכין בהן המזבח בימי שלמה (מהרי\"ל) ביום שאחר יה\"כ משכימין לביה\"כ (מ\"צ מנהגים) העושים שני ימים יה\"כ אף אם הם י' לא יתפללו רק התפלה של חול ופי' ב\"י הטעם דהוי לא תתגודדו דכב\"ד א' בעיר א' דמי ונ\"ל דיניחו גם כן תפילין מה\"ט וע' סי' ל\"א אי נמי משום דמיחזי כיוהרא ואתי לידי מחלוקת וב\"ח פי' הטעם דאסור להתפלל תפלה שלא תקנו והוי ברכה לבטלה אך סליחות ותחנונים לא היה מוחה בידם (רשד\"ם בי\"ד סי' קנ\"ג) וז\"ל מהרי\"ל בתשובה סימן רי\"ב ב' ימים יה\"כ אין משנין בכל התפלו' דאין היחיד קובע ואפי' ק' ועשרה אין משנין התפלות אך פיוטים וסליחות יאמרו כרצונם וי\"ג מדות כקורא בתורה עכ\"ל משמע כמ\"ש הב\"ח ולטעם הרב\"י צ\"ל דפיוטים שרי דלא מיחזי כ\"כ שעושין כן משום יה\"כ שרשות לומר בכל יום סליחות ומ\"מ נ\"ל דלא יאמרו אותם באמצע התפלה רק אחר י\"ח עסי' תקס\"ו גם לא יקראו בתורה אפי' ויחל, כשחל יה\"כ יום ה' אסור להכין להם צרכי שבת בע\"ש שהוא י\"כ שלהן אך יאכלו עם אחרים שלא הרבו בשבילן כן הורה מהר\"מ וכ\"ד רבינו בה' עירובין פ\"ח הלכה י' עכ\"ל הג\"מ סוף י\"ה עסי' תקכ\"ז סס\"ך ז\"ל הרמב\"ם שם יה\"כ שחל להיות ע\"ש או אחר שבת יראה לי שהם כיום א' וקדושה א' להם עכ\"ל והא דשרי לאכול מה שבישלו אחרים כתוב בתשו' מהר\"מ סי' ע\"ו כיון דבהיתר הוא מבשל לא שייך לאסור משום קנס (וע' סימן שי\"ח) ואפי' מכירו שרי ולא גזירנן שמא ירבה בשבילו לשנה הבאה דישראל לא עבר אלפני עור ל\"ת מכשול להרבות בשבילו משא\"כ בעכו\"ם (עסי' שכ\"ה) עכ\"ל וא\"כ מה שבישל עכו\"ם בע\"ש אסור לאכול אם הוא מכירו, ומ\"מ צ\"ע דליתסר משום הכנה דלא גרע מדבר הניצוד או נתלש בי\"ט שאסור בשבת ואף על גב דס\"ל דיה\"כ ושבת קדושה א' הן מ\"מ להקל לא אמרינן כך ואפשר דס\"ל  דאפי' להקל הוי קדושה א' ועי\"ל דחזי בו ביום לקטנים ומ\"מ אם בישל דבר שא\"א לאכלו חי כגון דגים אסור לאוכלן בשבת כיון שקדושה א' הן ועסי' תקט\"ו ס\"ד וסי' תי\"ו לענין עירוב וססי' רס\"ג: וכ' ד\"מ וי\"א דמי שעשה פעם א' ב' ימים אינו יכול לחזור בו כו' וכ' מהרי\"ו דלפי דעה זו אפי' תנאי לא מהני וז\"ל מהרי\"ו סי' קצ\"א וצריך לנהוג כך כל ימיו כיון שקבל עליו ונ\"ל אפי' התנה מתחלה שלא יעשה אלא זו מידי דהוי אמי שאמר אהיה נזיר פחות מל' יום לא מהני ליה תנאי דאין נזירות פחות מל' יום וכיון דאמר אהיה נזיר לא מהני ליה תנאי ה\"נ ל\"ש ואשר\"י מתיר בהתרה עכ\"ל משמע דתנאי עכ\"פ לא מהני דדמי לנזיר דיש לו התרה ולא מהני תנאי [וע' במסכ' ביצה דף י\"ח ובמנחות ס\"פ התוד'] ומ\"מ צ\"ע דל\"ד לנזיר דכיון שאמר הריני נזיר חל עליו נזירות ל' יום ושוב לא מהני תנאי משא\"כ הכא דאע\"ג דבשנה זו חש לספיקא ועושה ב' ימים אין מחויב לנהוג לעולם ולמה לא יועיל תנאי ומכ\"ש האידנא דבקיאינן בקביעא דירחא ואין עושין שני ימים אלא משום מנהג א\"כ כיון שאבותינו לא נהגו כן ביה\"כ למה ננהוג אנחנו כן ושמעתי עוד טעם שלא לעשות שני ימים י\"כ דכשעושה יום השני י\"כ א\"כ מאתמול הוי עי\"ה ואסור להתענות וא\"כ היאך יתענה והוי סתרי אהדדי לכן אין לנהוג כך ומכ\"ש למנהגנו שאין מתענין בין יה\"כ לסוכות ובליקוטי פרדס משמע שאין מתענין בלילה כ\"א ביום:",
+          "en": "",
+          "ref": "Magen Avraham 624:7"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "מבדילים.  ומותר ברחיצה ובכולם קודם שיבדיל. מ\"א עיין שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 624:1"
+        },
+        "2": {
+          "he": "הבשמים.  וב\"ח כתב בשם מהרי\"ל ואבודרהם ורש\"ל שכשחל בשבת יש לברך על הבשמים ואין כאן ברכה לבטלה כיון שנהנה. מ\"א וט\"ז וכן עיקר:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 624:2"
+        },
+        "3": {
+          "he": "עתה.  אפי' חל בשבת להורות שיום זה מקודש ששבת מן האור. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 624:3"
+        },
+        "4": {
+          "he": "ראשון.  פי' שהדליקו נר אחד מאותו שלהבת עסס\"ה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 624:4"
+        },
+        "5": {
+          "he": "שני ימים.  וז\"ל מהרי\"ל בתשוב' סימן רי\"ב העושין שני ימים יה\"כ אין משנין כלל התפילות אף אם הם י' או מאה לא יתפללו רק התפלה של חול דהוי לא תתגודדו וכתב המ\"א ונ\"ל דיניחו גם כן תפילין מה\"ט ע\"כ. אך פיוטים וסליחות יאמרו כרצונם וי\"ג מדות כקורא בתורה. וכתב המ\"א ומכל מקום נראה לי דלא יאמר אותם באמצע התפלה רק אחר י\"ח גם לא יקראו בתורה אפי' ויחל כשחל יום כפור ביום ה' אסור להכין להם צרכי שבת בע\"ש שהוא יום כפור שלהן אך יאכלו עם אחרים שלא הרבו בשבילן מ\"א ע\"ש שמסיים שלא לעשות שני ימים יום כפור דכשעושה יום שני יום כפור א\"כ מאתמול הוי ערב יום כפור ואסור להתענות וא\"כ היאך התענה והוי סתרי אהדדי ולכן אין לנהוג כן ומכ\"ש למנהגינו שאין מתענין בין יום כפור לסוכות ובליקוטי פרדס משמע שאין מתענין בלילה כי אם ביום:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 624:5"
+        },
+        "6": {
+          "he": "תחינות.  ואין מתענין בהם אפי' יאר צייט שהם ימי שמחה שהיו מחנכין בהם המזבח בימי שלמה. מהרי\"ל. ומקדשין הלבנה במוצאי יום כפור עיין סי' תכ\"ו סעיף ב' ביום שאחר יום כפור משכימין לבה\"כ. מנהגים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 624:6"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) מתפללין תפלת ערבית - עיין לעיל בסימן רצ\"ג ס\"א ובמ\"ב שם:",
+          "en": "",
+          "ref": "Mishnah Berurah 624:1"
+        },
+        "2": {
+          "he": "(ב) גם ביציאתו - עיין לעיל שם בס\"ב ובמ\"ב ובה\"ל שם:",
+          "en": "",
+          "ref": "Mishnah Berurah 624:2"
+        },
+        "3": {
+          "he": "(ג) שימתינו מעט אחר יציאת הכוכבים - ותוך הזמן הזה אסור באכילה ורחיצה וסיכה וכו' אך אין שיעור לההוספה וע\"כ כיון שמתפללים אצה\"כ מותרים בכולם אף שעדיין לא הבדיל על הכוס רק באכילה ושתיה אסורים עד אחר הבדלה בין אם חל בחול ובין כשחל בשבת:",
+          "en": "",
+          "ref": "Mishnah Berurah 624:3"
+        },
+        "4": {
+          "he": "(ד) מבדילים וכו' - ובמקומות שמבדילין בבהכ\"נ על הכוס בכל מו\"ש ויו\"ט גם עכשיו יבדיל הש\"ץ ויטעים מן הכוס לקטן או אף לגדול מי שהוא מתכוין לצאת בהבדלה זו:",
+          "en": "",
+          "ref": "Mishnah Berurah 624:4"
+        },
+        "5": {
+          "he": "(ה) אפילו אם חל להיות בשבת - שטעם הברכה כדי להשיב את הנפש מפני הנשמה יתירה שהלכה לה ועכשיו ביוה\"כ לא היה בו נשמה יתירה מפני התענית אבל רבים מהאחרונים חולקין ע\"ז וסוברין דכשחל בשבת יש לברך על הבשמים ואין כאן חשש ברכה לבטלה כיון שנהנה. ומ\"מ אין להורות לצבור כן ולמחות בידם במקום שנהגו בבהכ\"נ שלא לברך על הבשמים רק לעצמו בביתו יכול לברך [פמ\"ג]. אם חל בשבת אומרים ויתן לך וא\"א ויהי נועם ואתה קדוש לפי שחג הסוכות חל באמצע השבוע:",
+          "en": "",
+          "ref": "Mishnah Berurah 624:5"
+        },
+        "6": {
+          "he": "(ו) מברכים על האור - לפי שפסקה הנאתו בו ביום שכל היום לא היו יכולין להשתמש בו ועכשיו הותר לו:",
+          "en": "",
+          "ref": "Mishnah Berurah 624:6"
+        },
+        "7": {
+          "he": "(ז) במוצאי יוה\"כ על האור שהוציאו וכו' - וה\"ה כשהוציאו מן עצי גפרית [שקורין שוועבעליך] וכל כה\"ג ומה שנשתנה יוה\"כ משבת הוא משום דטעם שמברכין על האור במו\"ש שאינו אלא לזכר שנברא האור במוצ\"ש שאדם הראשון הקיש האבנים במוצ\"ש זה בזה והוציא מהן אש לכך מותר לברך על אש כזה ממה שהוציאוהו עתה אבל במוצאי יוה\"כ מה שמברכין על האור הוא להורות שיום זה היה קדוש משאר ימים טובים ונאסר להבעיר בו אש ועתה הותר והוי האש דבר חידוש ומברכין עליו וזה לא שייך אלא באור ששבת ר\"ל שהיה בעולם ביוה\"כ בשעת שביתה ופסקה הנאתה ממנה בו ביום ועכשיו הותר לו משא\"כ באור זה שלא היה מעולם ביוה\"כ אכן אם חל יוה\"כ בשבת מותר מדינא לברך במוצאי שבת על אור זה אכן מנהג העולם להחמיר ועכ\"פ בנר שהדליקו מן האור ההוא בוודאי יש להקל:",
+          "en": "",
+          "ref": "Mishnah Berurah 624:7"
+        },
+        "8": {
+          "he": "(ח) עתה מן האבנים - לאפוקי אם הוציאו אתמול מן האבנים בודאי מותר כיון ששבת ביוה\"כ:",
+          "en": "",
+          "ref": "Mishnah Berurah 624:8"
+        },
+        "9": {
+          "he": "(ט) מעמוד ראשון ואילך - היינו שהדליקו נר א' מאותו שלהבת וטעמם שגם זה נקרא אור ששבת ואינו אור הנברא מחדש:",
+          "en": "",
+          "ref": "Mishnah Berurah 624:9"
+        },
+        "10": {
+          "he": "(י) שאין מברכין במוצאי יוה\"כ וכו' - ומה דאנו מקילין בזה במו\"ש הוא מפני שהוא מברך על תוספות שלהבת של היתר שניתוסף בנרו של ישראל (ולא על מקור האור ששאב מנרו של עכו\"ם) ותוספות שלהבת זו לא היה מעולם ביוה\"כ כ\"א נולד עכשיו ודומה לאור היוצא מן העצים ואבנים דאסור במוצאי יוה\"כ לברך עליו ועיין במ\"א דלפ\"ז גם באור היוצא מן עצים ואבנים אין לברך אפילו על נר אחר שהודלק ממנו דלא כהי\"א דס\"ד:",
+          "en": "",
+          "ref": "Mishnah Berurah 624:10"
+        },
+        "11": {
+          "he": "(יא) על נר של בהכ\"נ - ר\"ל שהודלק מבע\"י ידלק בהיתר והו\"ל שבת ממש:",
+          "en": "",
+          "ref": "Mishnah Berurah 624:11"
+        },
+        "12": {
+          "he": "(יב) שאין להבדיל עליו - דלא נעשה רק לכבוד היום ולא להאיר ומבואר בסימן רצ\"ח שאין מברכין ע\"ז ודיעה ראשונה ס\"ל דנעשו להאיר ועדיף להבדיל על זה מלהבדיל על נר אחר שדלק ממנו דלא מקרי כ\"כ אור ששבת כיון שלא היה ביוה\"כ:",
+          "en": "",
+          "ref": "Mishnah Berurah 624:12"
+        },
+        "13": {
+          "he": "(יג) והנכון להבדיל על שניהן ביחד - ר\"ל שבזה בודאי יוצא וה\"ה אם היה לו נר אחד בביתו שהיה דלוק מבע\"י ידליק ממנה עוד אחד ויברך על שניהן ביחד כי על אותו נר שבביתו לחוד ג\"כ אינו כדאי לברך דאפשר שהיא נעשה ג\"כ רק לכבוד היום [ח\"א] ומן דרך החיים משמע דיותר טוב שיניח בביתו לכתחלה נר דלוק מעיו\"כ שיהיה דלוק עד מוצאי יוה\"כ כדי לברך עליו ויוצא בזה לכל הדעות כיון שהוא מניחה לכתחלה בשביל זה:",
+          "en": "",
+          "ref": "Mishnah Berurah 624:13"
+        },
+        "14": {
+          "he": "(יד) על נר עצמו של בית הכנסת לחוד - ואם א\"א להבדיל על שניהם מוטב להבדיל על נר אחר שדלקו ממנו לחוד מנר בהכ\"נ לחוד ומ\"מ אם עבר ובירך על נרות של בהכ\"נ בלבד א\"צ לחזור ולברך על נר אחר שהנרות שלנו עשוין גם להאיר שהרי מתפללין לאורן. אין מתענין מיו\"כ עד סוכות יום שמת בו אביו ואמו שהם ימי שמחה שהיו מחנכין בהם המזבח בימי שלמה. ביום שאחר יוה\"כ משכימין לבהכ\"נ כדי שלא יהא נראה ח\"ו שאנו היינו נכנעין לו רק בעת שאנו צריכין לבקש על דיננו:",
+          "en": "",
+          "ref": "Mishnah Berurah 624:14"
+        },
+        "15": {
+          "he": "(טו) דהוי קצת יו\"ט - כדאיתא במדרש דבת קול יוצאה במוצאי יוה\"כ ואומרת לך אכול בשמחה וגו':",
+          "en": "",
+          "ref": "Mishnah Berurah 624:15"
+        },
+        "16": {
+          "he": "(טז) לעשות שני ימים יו\"כ - משום ספיקא דיומא ומ\"מ לא יתפללו רק תפלה של חול ויניחו תפילין אך פיוטים וסליחות יוכלו לומר כרצונם וגם זה לא יאמרו בתוך התפלה רק אחר י\"ח. גם לא יקראו בתורה אפילו ויחל. כשחל יוה\"כ יום ה' אסורים אחרים להכין להם צרכי שבת בשבילן בע\"ש שהוא יו\"כ שלהן אך יאכלו עם אחרים שלא הרבו בשבילן י\"א דמי שעשה כן פ\"א שני ימים אינו יכול לחזור וצריך לעשות כן כל ימיו דהוי כמו קיבל על עצמו בנדר:",
+          "en": "",
+          "ref": "Mishnah Berurah 624:16"
+        },
+        "17": {
+          "he": "(יז) ויש לזה התרה - היינו אם נתחרט ע\"ז ואינו רוצה לעשות כן רשאי להתיר לעצמו בפני ג' ע\"י פתח וחרטה ואם התנה בפירוש שאין עושה כן רק שנה זו ואין מקבל ע\"ע שיעשה כן בכל שנה א\"צ התרה ומש\"כ שאין לנהוג בחומרא זו כי באמת מדינא אין לחוש דאנן בקיאין בקביעא דירחא ואין עושין רק משום מנהג שנהגו אבותינו וביוה\"כ לא נהגו אבותינו א\"כ למה ננהוג אנחנו:",
+          "en": "",
+          "ref": "Mishnah Berurah 624:17"
+        },
+        "18": {
+          "he": "(יח) ולא צו\"צ וכו' - ולא פרקים ולא שיר המעלות אבל למנצח ואא\"א אומרים ויש מקומות שבערב סוכות א\"א למנצח אבל אא\"א אומרים:",
+          "en": "",
+          "ref": "Mishnah Berurah 624:18"
+        },
+        "19": {
+          "he": "(יט) מתחילים - וביום המחרת יעשה כולה כמו שכתב בסימן תרכ\"ה:",
+          "en": "",
+          "ref": "Mishnah Berurah 624:19"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

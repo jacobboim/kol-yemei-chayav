@@ -1,0 +1,118 @@
+{
+  "chelek": "YD",
+  "siman": 212,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-08T00:01:24.953Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין הנודר בתורה. ובו סעיף אחד:הנודר בתורה כגון שאמר פירות אלו עלי כזו לא אמר כלום ואין צריך התרה אם הוא תלמיד חכם אבל אם הוא עם הארץ צריך התרה כדי שלא ינהגו קלות ראש בנדרים ואם נדר במה שכתוב בה אסור שהרי כתוב בה איסור נטלה בידו ונדר בה כמי שנדר במה שכתוב בה דמי (אבל הנשבע בתורה בכל ענין צריך התרה ועיין לקמן סימן רל\"ז) . (ב\"י לענין מעשה):",
+      "en": "Du vœu fait à propos d’un objet qu’on assimile à la TorahQuand on fait un vœu en prenant la Torah comme point de comparaison, par exemple si l’on dit: «Je fais vœu que ces fruits soient pour moi comme la Torah», le vœu est nul.(1)Parce qu’il peut y avoir équivoque; celui qui a fait un tel vœu peut en effet dire qu’il avait assimilé l’objet, non pas aux saintes paroles, mais aux marges du livre saint (Un commentateur). Si le vœu a été énoncé par un talmudiste, celui-ci n’a pas besoin d’avoir recours à un rabbin.(a)Un talmudiste en effet sait que les vœux sont interdits; s’il en fait un, c’est par inadvertance, et dans l’article 1er du § 210 il est dit: Un vœu n’est réel que si le cœur est d’accord avec les lèvres. Les formules de vœux envisagées dans la suite de l’art. 1 ne pourront jamais être prononcées par inadvertance; c’est pourquoi le texte ne prévoit pas le cas où elles émaneraient d’un talmudiste. Si le vœu a été formulé par un ignorant, celui-ci doit recourir à un rabbin, afin qu’il ne s’habitue pas à traiter à la légère les questions relatives aux vœux. Mais si l’on a dit: «Que ces fruits, ou ces mets soient pour moi comme les choses qui sont défendues par la Torah», le vœu est alors réel, car il y a des mets que la Torah défend. Si, prenant la Torah en main, on dit: «Que ces fruits soient pour moi comme cette Torah», le vœu est réel, tout comme si on avait dit: «Que ces fruits soient aussi sacrés pour moi que les paroles mêmes de la Torah.»GLOSE: Si, pour s’interdire une chose, on a fait un serment sur la Torah, il faut, pour annuler un tel vœu, avoir recours à un rabbin.",
+      "ref": "Shulchan Arukh, Yoreh Deah 212:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא נדרים דף י\"ד ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 212:1"
+        },
+        "2": {
+          "he": "טור בשם הרמב\"ם בסוף פ\"א מהל' נדרים דין כ\"ז:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 212:2"
+        },
+        "3": {
+          "he": "מבריי' שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 212:3"
+        },
+        "4": {
+          "he": "שם וכתירוצא בתרא שם בגמ':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 212:4"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "לא אמר כלום. לפי שדעתו אגוילין ואינן כלום:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 212:1"
+        },
+        "2": {
+          "he": "ע\"ה. וכבר נתבאר לעיל סימן ר\"ה דבזמן הזה לכ\"ע כע\"ה דיינינן להו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 212:2"
+        },
+        "3": {
+          "he": "שהרי כתוב בה איסור כו'. והראב\"ד בהשגות פי\"ב מה\"ש והר\"ן פ\"ב דנדרים כתבו הטעם מפני שיש בה קרבנות ואזכרות שהן כדבר הנדור שע\"י הכתיבה והכנה לקדושה הן קדושות ולפ\"ז כ\"ש אם אמר בפירוש אני נודר באזכרות שבה דהוי נדר אעפ\"י שאין כוונתו על איסור ונדר הכתוב בה וכן אם נדר במקצת יריעות שבתורה אע\"פ שאין כתוב באותן יריעות איסור או נדר כיון שיש בהן קרבנות או אזכרות הוי נדר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 212:3"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "פירות אלו עלי כזו. דדעתו אגוילים שבה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 212:1"
+        },
+        "2": {
+          "he": "אבל הנשבע בתורה כו'. זה לדעת הרמב\"ם שבסעיף זה הוא דבריו אבל לפירוש התוספות והרא\"ש וטור גם בנשבע י\"ל דעתיה אגוילים כמבואר בטור וב\"י ומ\"מ בב\"י קרא תגר על שראה בבני דורו איזה אנשים הנשבעים בתורה לשוא לשקר ומתנצלי' מהא דתניא הנודר בתורה לא אמר כלום דדעתיה אגוילים וקרא עליהם חכמים המה להרע ונ\"ל דמי שנתחייב שבועה לא יתנו לו שבועה בלשון זה הריני נשבע בספר תורה כמו שראיתי למקצת דיינים דאפשר דאתי להורות לו היתר ויאמר דדעתיה אגוילים אא\"כ שמניח ידו עליה ואז הוה דינו כאוחזה בידו שזכר כאן כן נראה לי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 212:2"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "הנשבע בתורה. עיין בתשובת הר הכרמל חיו\"ד סי' כ\"א לענין מי שפסקו לו שבועה בס\"ת שחסר בה תיבה או אות או יריעה אם בשביל זה אינו חשיב שבועה בס\"ת וגם אם רשאי לעשות כך לכתחלה לחסר בה יריעה או תיבה או אותיות וכתב דאף אי מהני מעשיו מ\"מ אסור לעשות כן לכתחלה למחוק אותיות ומכ\"ש לחסר יריעה בס\"ת אך באמת לא מהני דמ\"מ מקרי שפיר שבועה בס\"ת וגם אין סמיכת היתר במה שנשבעין בהפטרות כיון שכתובה אשורית ובדיו אפילו מזכיר בפיו הריני נשבע בס\"ת זו נמי שפיר אומר כי דברי נביא מקרי ספר ומקרי תורה ומכ\"ש כשאוחז ס\"ת ממש אלא שחסר יריעה או פסוק דנקרא ס\"ת ואפילו אם מסלק עשרת הדברות מתוכה ונשבע ואומר הריני נשבע בעשרת הדברות ג\"כ שבועה מקרי ע\"ש ועיין בתשובת נו\"ב חי\"ד סי' ע\"א שנשאל ג\"כ ע\"ז מאדון אחד להודיע דעתו ע\"פ דין תוה\"ק אם מותר לישבע על שקר אם הס\"ת שאוחז בידו בשעת השבועה היא פסולה והשיב ע\"ז באריכות והביא כמה ראיות מתנ\"כ ומגמרא ורמב\"ם שאסור לישבע בשקר אפילו בלא אחיזת ספר כלל ומה שהמנהג ליתן ספר ביד הנשבע הוא רק לאיים עליו ולהזכירו עונש השבועה הכתובה בתורה ולאו דוקא ס\"ת אלא ה\"ה שאר ספרים שיש בהם שמות וא\"כ פשיטא דלא גרע ספר תורה אף שיש בו איזה פסול אכתי חמור קדושתו מכל שאר ספרים עיין שם באורך:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 212:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "כלום.  לפי שדעתו אגוילין ואינן כלום:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 212:1"
+        },
+        "2": {
+          "he": "עם הארץ.  וכבר נתבאר לעיל סי' ר\"ה דבזה\"ז לכ\"ע כע\"ה דיינינן להו. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 212:2"
+        },
+        "3": {
+          "he": "שכתוב.  הראב\"ד והר\"ן כתבו הטעם מפני שיש בה קרבנות ואזכרות שהן כדבר הנדור שע\"י הכתיבה והכנה לקדושה הן קדושות ולפ\"ז כ\"ש אם אמר בפי' אני נודר באזכרות שבה דהוי נדר אע\"פ שאין כוונתו על איסור ונדר הכתוב בה וכן אם נדר במקצת יריעות שבתורה אע\"פ שאין כתוב באותן יריעות איסור או נדר כיון שיש בהן אזכרות או קרבנות הוי נדר וכ' הט\"ז ונ\"ל דמי שנתחייב שבועה לא יתנו לו שבועה בלשון זה הריני נשבע בספר תורה דאפשר דאתי להורות לו היתר ויאמר דדעתיה אגוילים אא\"כ שמניח ידו עליה דאז דינו כמו שאוחזה בידו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 212:3"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

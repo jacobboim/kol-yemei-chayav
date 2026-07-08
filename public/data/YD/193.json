@@ -1,0 +1,126 @@
+{
+  "chelek": "YD",
+  "siman": 193,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-08T00:01:23.760Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין דם בתולים. ובו סעיף אחד: הכונס את הבתולה בועל בעילת מצוה וגומר ביאתו ופורש מיד אפי' היא קטנה שלא הגיע זמנה לראות ולא ראתה ואפילו בדקה ולא מצאה דם טמאה שמא ראתה טיפת דם כחרדל וחיפהו שכבת זרע: הגה ויש מקילין אם לא ראתה דם (הגהות מיימוני בשם איכא מ\"ד) ונהגו להקל אם לא גמר ביאה רק הערה בה ולא ראתה דם אבל אם בא עליה ביאה ממש צריך לפרוש ממנה אע\"פ שלא ראתה דם (טור וב\"י בשם רוב הפוסקים) ובעל נפש יחוש לעצמו שלא לשחוק בתינוקות. וצריכה שתפסוק בטהרה ותבדוק כל שבעה ולא תתחיל למנות עד יום ה' לשימושה ונוהג עמה בכל דיני נדה לענין הרחקה אלא שנדה גמורה אסור לו לישן על מטתה אפי' כשאינה במטה וזו מותר לו לישן באותה מטה לאחר שעמדה מאצלו ואפי' בסדין שהדם עליו:",
+      "en": "Loi relative au sang de la virginité.Les époux doivent se séparer aussitôt après le début de la vie intime, même si la jeune femme n’a trouvé aucune tache et si elle n’avait pas encore ses époques avant de se marier. L’épouse doit, à partir de ce moment, compter cinq jours, tout comme dans le cas de menstruation, puis sept jours pendant lesquels elle s’inspecte. La seule différence faite entre la jeune mariée et la femme mariée est que l’époux a le droit de coucher sur les draps de la première, quand celle-ci a quitté le lit conjugal, tandis qu’il ne le peut pas avec la seconde.GLOSE: Certains disent qu’on peut se montrer moins sévère, lorsqu’il s’agit d’une jeune femme qui n’avait pas encore eu ses époques, et d’autres qu’il vaut mieux être très strict.",
+      "ref": "Shulchan Arukh, Yoreh Deah 193:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מימרא דרב ושמואל נדה ד' ס\"ה ע\"ב וכברייתא דרבותינו דחזרו ונמנו וכו' וכעולא משמיה דר' יוחנן ור\"ל:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 193:1"
+        },
+        "2": {
+          "he": "שם בגמ':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 193:2"
+        },
+        "3": {
+          "he": "כפי' רש\"י שם וכ\"כ הרא\"ש שם וכ\"כ הר\"ן בפ\"ב דשבועות ושכן מוכח בירושלמי וכן דעת הראב\"ד בהשגות בפ\"ה מהא\"ב והרשב\"א בת\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 193:3"
+        },
+        "4": {
+          "he": "הרא\"ש בפסקיו במימרא דרב ושמואל וכ\"כ הרשב\"א בת\"ה וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 193:4"
+        },
+        "5": {
+          "he": "טור וכ\"כ הרשב\"א בת\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 193:5"
+        },
+        "6": {
+          "he": "שם ושם הרא\"ש שם בשם רב האי וכ\"כ הרמב\"ם בפי\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 193:6"
+        },
+        "7": {
+          "he": "שם וכן כ' הגמי\"י שם שכ\"כ בסה\"ת:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 193:7"
+        },
+        "8": {
+          "he": "שם ובפסקי הרא\"ש בשם הראב\"ד בפירוש דברי רב האי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 193:8"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "וגומר ביאתו. אע\"פ שהדם שותת ויורד וה\"ה דמותר לו לפרוש באבר חי ואין צריך להמתין עד שימות האבר. כן הסכימו הפוסקים ודלא כהראב\"ד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 193:1"
+        },
+        "2": {
+          "he": "עד יום ה'. כדין נדה לקמן סי' קצ\"ו סי\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 193:2"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "וגומר ביאתו. פי' באבר חי כך כתב הטור והיינו אע\"פ שהיתה רואה דם בשעת אותו תשמיש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 193:1"
+        },
+        "2": {
+          "he": "הגיע זמנה לראות ולא ראתה. ובטור כתוב כאן ואפילו היא בוגרת שכלו בתוליה כו' והוקשה לב\"י מאי אפילו בוגרת אדרבה בבוגרת יש לתלות טפי בדם נדה כיון שאין לה דם בתולים ונראה דלא קשה מידי דכוונת הטור ללמדנו תרי רבותות האחת אף אם בודאי הוא דם בתולים ולא דם נדה כגון לא הגיע זמנה ולא ראתה אפ\"ה מחמירין דאתי למטעי בין דם לדם ואח\"כ קמשמע לן דל\"ת דוקא היכא שברור שרואה דם בתולים ראוי להחמיר משום אתי למטעי אבל אם אין ברור שראתה כלל אפילו דם בתולים למה נחמיר בה שנאמר שצריך לפרוש מיד כיון שעדיין לא ברור לו שראתה למה נחמיר בחנם בזה וא\"כ כשהיא בוגרת שכלו בתולים שלה לא יפרוש לזה קאמר דאפ\"ה יחמיר בזה דשמא ראתה והוא לא ידע מזה ואח\"כ אמר אפילו אם בודאי הוא שלא ראתה דהיינו שבדקה עצמה מכל מקום חיישינן שחיפהו שכבת זרע והדברים ברורים ולא כמו שכתב מו\"ח ז\"ל דהיפוך שורות יש כאן אלא הדברים כהלכתן וכסדרן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 193:2"
+        },
+        "3": {
+          "he": "וחיפהו שכבת זרע. הא דהוצרך כאן לזה ולא אמר כמו שאמר ריש סימן קצ\"ג לענין חימוד ולא הרגישה בו יש לומר דהתם היא הולכת אנה ואנה ובודאי אין שייך לבקש בשום מקום אם יצא ממנה דם משא\"כ כאן שהיא שוכבת במטה ואפשר לראות אם יש בסדין שתחתיה דם לזה הוצרך לומר שמא נתחפה בשכבת זרע ובפרישה דחק עצמו בחנם בזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 193:3"
+        },
+        "4": {
+          "he": "ולא תתחיל למנות עד יום ה' כו'. מצאתי בשם מהר\"ל מפראג דאע\"פ דהשתא נהוג עלמא דהנדה מתחלת למנות מיום הששי כמבואר סי' קצ\"ו מ\"מ במתחלת למנות אחר ביאה ראשונה של בתולים מתחלת למנות מיום ה' וכן הורה הלכה למעשה ועיין סי' קצ\"ו סעיף י\"א מה שכתבתי בזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 193:4"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "וגומר.  אע\"פ שהדם שותת ויורד וה\"ה דמותר לו לפרוש באבר חי וא\"צ להמתין עד שימות האבר. כן הסכימו הפוסקים ודלא כהראב\"ד עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 193:1"
+        },
+        "2": {
+          "he": "למנות.  כתב הט\"ז מצאתי בשם מהר\"ל מפראג דאע\"ג דהשתא נהוג עלמא דהנדה מתחלת למנות מיום הששי כמבואר סימן קצ\"ו מ\"מ במתחלת למנות אחר ביאה ראשונה של בתולים מתחלת למנות מיום ה' וכן הורה להלכה למעשה וע\"ל סימן קצ\"ו סי\"א מ\"ש מזה עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 193:2"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

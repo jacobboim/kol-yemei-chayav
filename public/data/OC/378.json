@@ -1,0 +1,309 @@
+{
+  "chelek": "OC",
+  "siman": 378,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 5,
+  "fetchedAt": "2026-07-07T23:49:25.860Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין חצרות פתוחות זו לזו. ובו ה סעיפים:שלש חצירו' פתוחות זו לזו ופתוחות לרשות הרבים ועירבה כל אחת מהחיצונות עם האמצעי' והחיצונו' לא עירבו יחד החיצונות אסורות זו עם זו והאמצעי' מותרת עם כל אחת מהן והן מותרות עמה במה דברים אמורים כשנתנה אמצעי' עירובה בזו ועירובה בזו או שנתנו החיצונות עירובן באמצעי' בשני בתים אבל אם נתנו שתי החיצונו' עירובן באמצעי' בבית א' שלשתן מותרות זו עם זו:",
+      "en": "Laws of courtyards that open into one another. Contains 5 sectionsThree courtyards opening into one another and opening to a public domain, where each of the outer ones made an eruv with the middle one but the outer ones did not make an eruv with each other — the outer ones are forbidden to each other, the middle one is permitted with each of them, and they are permitted with it. This applies when the middle one placed its eruv in one and its eruv in the other, or when the outer ones placed their eruv in the middle one in two separate houses. But if both outer ones placed their eruv in the middle one in one house, all three are permitted with one another.",
+      "ref": "Shulchan Arukh, Orach Chayim 378:1"
+    },
+    {
+      "seif": 2,
+      "he": "שתי חצרות זו לפנים מזו ופנימי' פתוחה לחיצונה והחיצונה למבוי ויש לפנימי' דריכת רגל על החיצונה אם עירבה פנימי' לעצמה ולא החיצונה או שעירבה כל אחת לעצמה ושכח א' מן החיצונה ולא עירב פנימי' מותרת והחיצונה אסורה עירבה חיצונה ולא פנימית או שעירבה כל אחת לעצמה ושכח א' מהפנימי' ולא עירב שתיהן אסורות עירבה כל אחת לעצמה כל אחת מותרת בחצרה:",
+      "en": "Two courtyards one inside the other, the inner one opening to the outer one and the outer one to an alleyway, and the inner one has foot traffic through the outer one — if the inner one made an eruv on its own and the outer one did not, or if each made its own eruv and one person from the outer one forgot and did not make an eruv — the inner one is permitted and the outer one is forbidden. If the outer one made an eruv and the inner one did not, or if each made its own eruv and one person from the inner one forgot and did not make an eruv — both are forbidden. If each made its own eruv, each is permitted in its own courtyard.",
+      "ref": "Shulchan Arukh, Orach Chayim 378:2"
+    },
+    {
+      "seif": 3,
+      "he": "עירבו ביחד ונתנו עירובן בחיצונה ושכח א' בין מן הפנימי' בין מן החיצונה ולא עירב שתיהן אסורות עד שיבטל רשותו ואם נתנו עירובן בפנימי' ושכח א' מן הפנימי' ולא עירב שתיהן אסורות אבל אם שכח א' מן החיצונה ולא עירב פנימית מותרת:",
+      "en": "If they made a joint eruv and placed it in the outer one, and one person — whether from the inner or outer — forgot and did not make an eruv, both are forbidden until he renounces his domain. If they placed their eruv in the inner one and one person from the inner one forgot and did not make an eruv, both are forbidden. But if one person from the outer one forgot and did not make an eruv, the inner one is permitted.",
+      "ref": "Shulchan Arukh, Orach Chayim 378:3"
+    },
+    {
+      "seif": 4,
+      "he": "אם יחיד דר בפנימי' ויחיד בחיצונה או שנים בחיצונה ועירבו אין היחיד שבפנימי' אוסר על החיצונה: הגה וה\"ה רבים שהם כיחיד ואינן צריכין לערב כדרך שנתבאר לעיל סימן ש\"ע (המגיד פ\"ד):",
+      "en": "If one individual lives in the inner one and one individual in the outer one, or two in the outer one who made an eruv — the individual in the inner one does not restrict the outer one. Rema: The same applies to many who are like an individual and need not make an eruv, as explained above in Siman 370.",
+      "ref": "Shulchan Arukh, Orach Chayim 378:4"
+    },
+    {
+      "seif": 5,
+      "he": "שלשה חצרו' זו לפנים מזו ויחיד בכל אחת אע\"פ שרבים דורסים בחיצונה אינם אוסרים שכל אחת מותר' במקומה ואם היו שנים בפנימי' ולא עירבו הרי הם אוסרים על היחידים שבאמצעי' ושבחיצונה זה הכלל רגל האסור' במקומה אוסר' שלא במקומה ורגל המותרת אינה אוסר' שלא במקומה:",
+      "en": "Three courtyards one inside the other with one individual in each — even though many have foot traffic through the outer one, they do not restrict, since each one is permitted in its own place. But if there were two in the inner one who did not make an eruv, they restrict the individuals in the middle and outer ones. This is the general rule: a foot that is forbidden in its own place restricts in other places, but a foot that is permitted in its own place does not restrict in other places.",
+      "ref": "Shulchan Arukh, Orach Chayim 378:5"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה עירובין פ\"ה וכרבי שמעון",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 378:1"
+        },
+        "2": {
+          "he": "שם מ\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 378:2"
+        },
+        "3": {
+          "he": "שם בגמ' מ\"ח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 378:3"
+        },
+        "4": {
+          "he": "דדומיא דאמצעי' כאלו דרה בהם ואין דיורי חיצונית באמצעית",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 378:4"
+        },
+        "5": {
+          "he": "שם בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 378:5"
+        },
+        "6": {
+          "he": "דהשת' לא מחברי חצונות בהדדי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 378:6"
+        },
+        "7": {
+          "he": "משנה שם מ\"ה ובגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 378:7"
+        },
+        "8": {
+          "he": "דרגל האסורה במקומ' אוסרת שלא במקומה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 378:8"
+        },
+        "9": {
+          "he": "שם במשנה ובגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 378:9"
+        },
+        "10": {
+          "he": "דכיון דעירובה אצלה יכולה להסתלק מהחיצונית דאמר' לתקוני שתפתיך ולא לעוותי וסוגרת הדלת ומשתמשת לעצמה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 378:10"
+        },
+        "11": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 378:11"
+        },
+        "12": {
+          "he": "שם בגמרא וכשמואל הרי\"ף והרא\"ש והרמב\"ם בפ\"ד מהלכות עירובין",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 378:12"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "עירבה עט״ז ומ״ש המחבר ופתוחות לרה״ר ה״ה למבוי עטו״ר וב״י ובב״ח וא״ר. ויראה ג׳ חצירות וא׳ מחיצונה לבד פתוחה לרה״ר או למבוי ואמצעית דריסת הרגל עם חיצונה הב׳ נמי הוי א״ש. ומ״ש המחבר שנתנו עירובו באמצעית בב׳ בתים משמע אע״ג דא״א היה לתת הכל בבית א׳ ומ״ש בבית א׳ כדין בכלי א׳ או דמליא חדא מלא ונתנו בכלי אחר עתו״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 378:1"
+        },
+        "2": {
+          "he": "ופנימית עט״ז ואם יש לפנימית דרך על החיצונה וגם יש לה פתח לר״ה ולמבוי י״ל כופין בשבת להסתלק מן החיצונה כה״ג ועסי׳ שפ״ו סעיף ט׳ ואי״ה שם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 378:2"
+        },
+        "3": {
+          "he": "שתיהן עט״ז כל שיש דריסת הרגל אוסר ומ״ש המחבר בס״ב עירבה כ״א לעצמה מותרת בפ״ע דרגל המותרת במקומה אין אוסרת שלא במקומה ועתו״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 378:3"
+        },
+        "4": {
+          "he": "פנימית עט״ז ואם עירובן בחיצונה שתיהן אסורות דא״א לאחדא דשא דהעירוב בחיצונה ועב״י. רגל המותרת במקומה אין אוסרת שלא במקומה ע׳ סימן שס״ד ג׳ במ״א דוקא חצר לא במבוי וסי׳ שצ״ב ס״ו ושע״ז במ״א אות ב׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 378:4"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] ופתוחות לרשות הרבים וכו'. וכן למבוי (טור):",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 378:1"
+        },
+        "2": {
+          "he": "[ב] [לבוש] ואין להם דריסת רגל וכו'. דאי הוי להו זו לפנים מזו אסרה פנימית אחיצונה דאפילו בפני עצמה אסורה כל אחד להשתמש (רש\"י דף מ\"ה), וקשה הא מיירי שכולן ערבו והוי רגל המותרת במקומה, ועוד קשה אמאי בפני עצמה אסורה הא עירבו, וצריך לומר דבדף ע\"ה איכא פלוגתא במשנה ולרבי עקיבא אף רגל המותרת אוסר סבירא ליה לרש\"י דבפלוגתא לא קמיירי רש\"ל וצריך עיון:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 378:2"
+        },
+        "3": {
+          "he": "[ג] בבית אחד. וכגון שהיה האחד מלא והותיר (בית יוסף מגיד פרק ז') והוא תמוה, ועיינתי במקורו וראיתי שנפל טעות בבית יוסף דזה לשונו במגיד בבית אחד ובכלי אחד או בשני כלים בבית אחד וכגון שהיה הכלי האחד מלא והותיר שאינו נקרא חולק עירובו עד כאן לשונו, וכן כתב בעבודת הקודש דף כ\"ב:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 378:3"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "עירובה בזו ובזו.  דאז דמיא אמצעית כאלו דרה בהן ואין דיורים חיצוניות באמצעית למימרא דכי הדדי נינהו אבל אם עירובן באמצעיות דאז דמי כאלו כולהו דרים באותו בית וחצר דההוא בית הוין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 378:1"
+        },
+        "2": {
+          "he": "ופנימית פתוחה לחיצונה.  כלומר ולא למבוי ועי\"כ יש לה דריסת הרגל על החיצונה דאין לה מקום לכנוס מהמבוי לפנימית אלא דרך החיצונה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 378:2"
+        },
+        "3": {
+          "he": "שתיהן אסורות.  דקיימא לן רגל האוסרת במקומה אוסרת שלא במקומה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 378:3"
+        },
+        "4": {
+          "he": "פנימית מותרת.  דיכולה היא להסתלק מהחיצונה דאחדא לדשא באפה ומשתמשת דהא עירובה אצלה ואע\"ג דעירוב החיצונה נתון בפנימי' אמר' לי' לתקוני שדרתיך ולא לעוותי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 378:4"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "באמצעית.  דאז דמי כאלו כולהו דרים באותו בית וחצר דההוא בית הויין:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 378:1"
+        },
+        "2": {
+          "he": "פנימית.  דאחדא לדשא באפי החיצונה ואע\"ג דעירוב החיצונה נתן בפנימית אמרה ליה לתקוני שדרתיך ולא לעוותי:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 378:2"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) פתוחות זו לזו - דאל\"ה לא היו יכולין לערב יחד:",
+          "en": "",
+          "ref": "Mishnah Berurah 378:1"
+        },
+        "2": {
+          "he": "(ב) ופתוחות לר\"ה - וה\"ה כשפתוחות למבוי. וכתבו האחרונים דה\"ה אם החיצונה לבד פתוחה לר\"ה או למבוי ואמצעית יש לה דריסת הרגל עם הפנימית השניה שלפנים הימנה נמי דינא הכי דכל אחת שריא עם האמצעית אפילו החיצונה הפתוחה לר\"ה ואין הפנימית יכולה לאסור עליה דרגל המותרת במקומה אינה אוסרת שלא במקומה כדלקמיה ס\"ב:",
+          "en": "",
+          "ref": "Mishnah Berurah 378:2"
+        },
+        "3": {
+          "he": "(ג) עירובה בזו ועירובה בזו - דאז דיורי האמצעית בחיצונה ואין דיורי חיצונה באמצעית למהוי כולהו כי חדא אבל אם נתנו עירובן באמצעית הוי כאלו כולן דרין באמצעית:",
+          "en": "",
+          "ref": "Mishnah Berurah 378:3"
+        },
+        "4": {
+          "he": "(ד) בשני בתים - ואפילו מלאוהו לכלי אחת ואייתר ונתנו אח\"כ לכלי אחר דבכה\"ג היה מהני אם היו נותנים אותו בבית אחד כמ\"ש סימן שס\"ו ס\"ד אבל אם נתנו בשני בתים לא משתרי החיצונות זו בזו כיון דלא מיחברי אהדדי:",
+          "en": "",
+          "ref": "Mishnah Berurah 378:4"
+        },
+        "5": {
+          "he": "(ה) בבית אחד - והיינו בכלי אחד או דמליא למנא ואייתר [אחרונים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 378:5"
+        },
+        "6": {
+          "he": "(ו) שלשתן מותרות - דהוי כאלו עירבו יחד:",
+          "en": "",
+          "ref": "Mishnah Berurah 378:6"
+        },
+        "7": {
+          "he": "(ז) ופנימית פתוחה וכו' - ובכל אחת יש בע\"ב האוסרין זה על זה:",
+          "en": "",
+          "ref": "Mishnah Berurah 378:7"
+        },
+        "8": {
+          "he": "(ח) לעצמה - היינו עם בע\"ב שבתוכה:",
+          "en": "",
+          "ref": "Mishnah Berurah 378:8"
+        },
+        "9": {
+          "he": "(ט) פנימית מותרת - שהרי יכולה לסגור פתחה ואין יכולין לעכב עליה בני החיצונה:",
+          "en": "",
+          "ref": "Mishnah Berurah 378:9"
+        },
+        "10": {
+          "he": "(י) והחיצונה אסורה - שהאחד שלא נתן חלק בעירוב אוסר על השאר אם לא שיבטל את חלקו להם:",
+          "en": "",
+          "ref": "Mishnah Berurah 378:10"
+        },
+        "11": {
+          "he": "(יא) שתיהן אסורות - דקי\"ל רגל האסורה במקומה אוסרת שלא במקומה כשיש לו דריסת רגל שם אם לא שיבטל את רשותו לבני הפנימית וגם רשות דריסת הרגל שיש לו בחיצונה לבני חיצונה:",
+          "en": "",
+          "ref": "Mishnah Berurah 378:11"
+        },
+        "12": {
+          "he": "(יב) כל אחת וכו' - דרגל המותרת במקומה אינה אוסרת שלא במקומה:",
+          "en": "",
+          "ref": "Mishnah Berurah 378:12"
+        },
+        "13": {
+          "he": "(יג) מותרת בחצרה - ר\"ל שאין הפנימי אוסר על בני החיצונה אף שיש לו דריסת הרגל עליו:",
+          "en": "",
+          "ref": "Mishnah Berurah 378:13"
+        },
+        "14": {
+          "he": "(יד) שתיהן אסורות - שאם השוכח הוא אחד מן הפנימית בודאי אוסר על החיצונה כיון שאוסר במקומו ואפילו אם השוכח מן החיצונה אז החיצונה ודאי אסורה וגם הפנימית אסורה אף שאין לחיצונה דריסת הרגל עליה דכיון שעירבו יחד הרי היא כמו שדרה בחיצונה ואוסרת עליה ולא מהני בזה שיסתלקו מבני החיצונה ותסגור פתחה דהא ליתה לעירובה גבה ועיקר העירוב משום דירה דהוי כאלו דר במקום העירוב:",
+          "en": "",
+          "ref": "Mishnah Berurah 378:14"
+        },
+        "15": {
+          "he": "(טו) עד שיבטל רשותו - ר\"ל לשתי החצירות וכמבואר בסי' שפ\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 378:15"
+        },
+        "16": {
+          "he": "(טז) שתיהן אסורות - דכחדא חשיבא אם לא שיבטל רשותו לשני החצרות אבל אם יבטל רק לבני הפנימי לא מהני אפילו אם ירצו להסתלק מהחיצונה ולסגור פתחה [אחרונים]:",
+          "en": "",
+          "ref": "Mishnah Berurah 378:16"
+        },
+        "17": {
+          "he": "(יז) פנימית מותרת - דיכולה היא להסתלק מהחיצונה דאחדא לדשא ומשתמשת דהא עירובה אצלה ואע\"ג דמתחלה נשתתפו יחד יכולה לחזור בה ולומר לה לתקוני שיתפתיך ולא לעוותי כי לא היה בדעתי שיעוות אחד מבני חצרך ולא יתן חלק בעירוב:",
+          "en": "",
+          "ref": "Mishnah Berurah 378:17"
+        },
+        "18": {
+          "he": "(יח) או שנים בחיצונה ועירבו - היינו אותם השנים לבד אבל לא עם הפנימית ואשמועינן בזה דלא תימא דגזרינן משום שיסברו שיש שנים בפנימית כמו בחיצונה ונבוא להתיר גם בזה והתם בודאי אסור מדינא דהוי רגל האסורה במקומה:",
+          "en": "",
+          "ref": "Mishnah Berurah 378:18"
+        },
+        "19": {
+          "he": "(יט) אין היחיד שבפנימית וכו' - ר\"ל אף שלא עירבו יחד דרגל המותרת במקומה אינה אוסרת שלא במקומה:",
+          "en": "",
+          "ref": "Mishnah Berurah 378:19"
+        },
+        "20": {
+          "he": "(כ) רבים שהם כיחיד - היינו שהיו בפנימית האב עם בניו שמקבלים ממנו פרס וכל כיוצא בהם ע\"ש בסי' ש\"ע:",
+          "en": "",
+          "ref": "Mishnah Berurah 378:20"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

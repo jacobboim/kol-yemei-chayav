@@ -1,0 +1,1118 @@
+{
+  "chelek": "YD",
+  "siman": 36,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 17,
+  "fetchedAt": "2026-07-08T00:01:13.938Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "כמה מיני טריפות בריאה. ובו י\"ז סעיפים: הריאה יש לה שני קרומים ניקבו זה בלא זה או זה שלא כנגד זה כשרה עד שניקבו שניהם זה כנגד זה (טור בשם רשב\"א): הגה ויש מטריפים בנקבו זה שלא כנגד זה (הגהות אשיר\"י פא\"ט ורבינו ירוחם וא\"ו הארוך וע\"פ) והכי נהוג:",
+      "en": "De diverses lésions du poumonLe poumon est revêtu de deux membranes; si une seule en est perforée, ou si la perforation de l’une ne fait pas face à celle de l’autre, l'animal est mangeable. Pour qu'il en soit autrement, il faut que toutes les deux membranes soient perforées et que la perforation de l'une soit en face de celle de l’autre.GLOSE: D’aucuns déclarent l'animal immangeable alors même que la perforation d'une membrane ne fait pas face à celle de l’autre. Tel est, en effet, l'usage.",
+      "ref": "Shulchan Arukh, Yoreh Deah 36:1"
+    },
+    {
+      "seif": 2,
+      "he": "אפילו נגלד (פירוש נקלף) קרום העליון כולו כשרה אלא שצריכה בדיקה: הגה מיהו אם נמצא בועה על מקום שנקלף העור העליון יש להטריף כי הוי כקרום שעלה מחמת מכה (בד\"י) יש אומרים אם נפחו הריאה ונקרע הקרום מחמת הנפיחה טריפה (בבדיקות):",
+      "en": "Alors même que la membrane extérieure a été entièrement enlevée, l'animal est mangeable, seulement il faut, en pareil cas, procéder à un examen.GLOSE: Mais si l’on trouve une vessie à l'endroit où la membrane extérieure a été enlevée, il faut déclarer l'animal immangeable, car ce cas est assimilable à celui d’un tissu cicatriciel.",
+      "ref": "Shulchan Arukh, Yoreh Deah 36:2"
+    },
+    {
+      "seif": 3,
+      "he": "ניקבה ועלה בו קרום ונסתם טריפה:",
+      "en": "L'animal est immangeable si, après que la membrane pulmonaire a été perforée, une pellicule s’est formée qui recouvre la perforation.",
+      "ref": "Shulchan Arukh, Yoreh Deah 36:3"
+    },
+    {
+      "seif": 4,
+      "he": "ריאה שנשמע בה הברה כשנופחין אותה אם ניכר המקום שממנו נשמע ההברה מושיבין עליו רוק או תבן וכיוצא בו אם יתנדנד בידוע שהיא נקובה וטריפה ואם לא ניכר המקום מושיבין אותה במים פושרין ונופחין אותה אם בצבץ המים טריפה ואם לאו בידוע שקרום התחתון בלבד ניקב והרוח מהלך בין שני הקרומים ומפני זה ישמע בה קול הברה בשעת נפיחה וכשרה: הגה ואם שמו אותה פעם אחת במים חמין (אליבא דכ\"ע) או קרים שוב אין לה בדיקה אפי' בפושרין (ב\"י בשם הר\"ן):",
+      "en": "Lorsque le poumon fait entendre un bruit quand on l’insuffle, on procède de la façon suivante: Quand on peut désigner l'endroit précis d'où le bruit s’échappe, on y dépose de la salive, une paille ou quelque chose de semblable: si l'on constate un remuement, on en conclut que les membranes sont perforées; l'animal est, par conséquent, immangeable. Mais si l’on ne peut pas désigner l'endroit précis, on plonge le poumon dans de l’eau tiède et on l’insuffle: si l’eau mousse, l'animal est immangeable; si non, alors il est évident que c'est la membrane intérieure seule qui est perforée, et que c'est l'air qui, en pénétrant entre les deux membranes, fait entendre le bruit quand on insuffle le poumon; aussi l'animal est-il mangeable.GLOSE: Mais si le poumon a été déjà plongé une fois dans l’eau chaude ou froide, on ne peut plus l’examiner, même dans de l’eau tiède.",
+      "ref": "Shulchan Arukh, Yoreh Deah 36:4"
+    },
+    {
+      "seif": 5,
+      "he": "נמצאת נקובה במקום שיש לתלות שנעשה אחר שחיטה כגון שהעביר הטבח ידו בכח או שתלשה בכח או שלקחה זאב והחזירה נקובה תלינן להקל וכשרה ואפילו יש נקבים הרבה שלא במקום שיניו תלינן כולהו בזאב: הגה ולא תלינן ביד הטבח אלא אם הנקב משוך שדרכו להיות מכח הטבח אבל אם הוא עגול (בד\"י בשם מהרי\"ל ומהר\"י מולין) לא תלינן בטבח כי אין דרכו להיות עגול וכל נקב שהוא פתוח (הגהות מרדכי פ\"ק דחולין) או שהושחר או אדום סביב הנקב (ב\"י בשם מ\"כ) ואפילו הוא רק אדום סביב הצלעות נגד הנקב טריפה ולא תלינן בשום דבר דבודאי מחיים נעשה (שם): וכן אם נמצאו עליה תולעים שנקבוה ואין ידוע אם נקבוה קודם שחיטה או אחר שחיטה כשרה ואם אין מקום לתלות והדבר ספק אם ניקבה מחיים עושים נקב אחר ומקרבין אצלו אם הם דומים כשרה שכמו שזה נעשה אחר שחיטה כן נעשה הראשון ואם אינם דומים טריפה ואין מדמין מריאה של בהמה דקה לריאה של בהמה גסה אלא מדקה לדקה ומגסה לגסה (רי\"ף ורמב\"ם ורשב\"א ותוספות והגה\"מ בשם ר\"ח): הגה וי\"א דאין מקיפין מבהמה זו לבהמה אחרת (רש\"י ובה\"ג ורא\"ש וטור (ואגודה) וסמ\"ג ור\"ן ור' ירוחם הביאו דעת רש\"י בסוף) ואפילו בבהמה אחת אין מקיפין אלא מגסה לגסה דהיינו מאומא לאומה או מדקה לדקה דהיינו מאונה לאונה מיהו בזמן הזה אין אנו בקיאין ואין לסמוך אהקפה כלל להכשיר (כל בו בשם הגאונים) (ומהרי\"ל ושאר אחרונים):",
+      "en": "Lorsqu'on trouve le poumon perforé et que la conjoncture permet de supposer que la perforation ne s’est produite qu’après l’opération de la saignée, par exemple lorsque le boucher a passé brusquement sa main sur le poumon ou qu'il l’a arraché violemment hors du thorax, ou encore lorsqu'un loup, après avoir enlevé le poumon, l'a rapporté perforé, on incline à l’atténuation et on déclare l'animal mangeable; et alors même qu'on trouve sur le poumon de nombreux trous hors de la portée des dents du loup, on les attribue tous au loup.GLOSE: Il ne faut attribuer un trou du poumon à la main du boucher qu'autant que le trou a la forme ovale, un tel trou pouvant être l'effet de l'effort fait par le boucher. Mais s’il est rond, on ne l’attribue pas au boucher; car les trous déterminés par la main du boucher ne sont pas ronds d’ordinaire. Tout trou béant, ou dont le bord est noirci ou rougi, alors même que la rousseur n'existe que sur un point de la paroi thoracique faisant face au trou, l’animal est immangeable; on n’attribue un pareil trou à aucune cause accidentelle, car il est manifeste qu'il existait déjà quand l'animal vivait encore. De même lorsqu'on trouve sur le poumon des vers qui l'ont perforé, et que l’on doute si ces parasites l'ont perforé avant ou après l'opération de la saignée, l'animal est mangeable. Lorsqu'on se trouve en présence d’un cas où rien n'autorise à attribuer le trou du poumon à une cause accidentelle quelconque, et que l’on doute quand même s’il existait déjà quand l’animal vivait encore, ou s’il ne s’est produit qu'après la saignée, on pratique sur le poumon un autre trou et on compare les deux trous: s'ils sont semblables, l’animal est mangeable, car on suppose alors que, de même que le second, le premier trou ne s'est produit qu'après la saignée. Mais si les trous sont dissemblables, l'animal est immangeable. On ne doit pas faire cette comparaison des trous d’un poumon d’animal du petit bétail d'avec celui d’un poumon d'animal du gros bétail, mais on compare le poumon d'animal du petit bétail avec un poumon d'animal semblable, et celui d'animal du gros bétail également avec un poumon d'animal semblable.",
+      "ref": "Shulchan Arukh, Yoreh Deah 36:5"
+    },
+    {
+      "seif": 6,
+      "he": "ניקב אחד מהסמפונות (פי' קנים החלולים שבתוך הריאה) שבפנים לחבירו כגון במקום שמתפצלים זה מזה ואין בשר ביניהם טריפה שחברו קשה ואינו מגין עליו אבל ניקב לבשר הריאה הבשר מגין עליו וכשרה:",
+      "en": "Si un des tuyaux bronchiques vient d’être perforé à un endroit où les parois de deux tuyaux sont juxtaposées, par exemple au point où les bronches se bifurquent et où aucune substance pulmonaire ne les sépare, l'animal est immangeable, attendu que la paroi avoisinant le trou est trop dure pour boucher le trou. Mais si le trou du tuyau est ouvert du côté de la substance pulmonaire, cette substance molle bouche le trou; aussi l'animal est-il mangeable.",
+      "ref": "Shulchan Arukh, Yoreh Deah 36:6"
+    },
+    {
+      "seif": 7,
+      "he": "הריאה שנשפכה כקיתון וקרום העליון שלה קיים שלם בלא נקב אם הסמפונות עומדים במקומם ולא נמוחו כשרה ואם נמוק אפילו סימפון אחד טריפה כיצד עושים נוקבים אותה ושופכין אותה בכלי שהוא שוע באבר אם נראה בה חוטים לבנים בידוע שנמוקו הסמפונות וטריפה ואם לאו בשר הריאה בלבד הוא שנימוק וכשרה והוא שיהא מחוי המים זך אבל אם הם עכורים או סרוחים טריפה: הגה ויש מכשירין אפילו בעכורים וסרוחים (הרא\"ש והרשב\"א והרז\"ה והר\"ן וטור וסה\"ת וסמ\"ג והגה\"מ וכל בו סימן ק\"א וע\"ל ר\"ס ל\"ז) ומי שהוא בקי לבדוק שלא נמוחו הסמפונות יכול לסמוך עלייהו לצורך הפסד מרובה:",
+      "en": "Lorsque le tissu pulmonaire s’est liquéfié, de manière que la substance présente des mouvements d'oscillation semblables à un liquide renfermé dans une cruche agitée, et que la membrane supérieure est restée intacte, ne présentant aucune perforation, l’animal est mangeable si les bronches sont restées à leur place sans se liquéfier; mais s’il y a également liquéfaction des bronches, ne fût-ce que d’une seule, l’animal est immangeable. Comment faire en pareil cas? On perce la membrane du poumon et on verse le liquide qu'elle renferme dans un vase étamé: si l’on y aperçoit des filets blancs, on en conclut que les bronches ont été également liquéfiées, et on déclare, par conséquent, l’animal immangeable; si non, on en déduit que c’est la substance pulmonaire seule qui a été liquéfiée, et on déclare l'animal mangeable. Cette dernière règle ne s'applique pourtant qu'au cas où la masse liquéfiée est limpide; mais si elle est trouble ou fétide, l'animal est immangeable.GLOSE: D’aucuns déclarent l'animal mangeable alors même que la substance liquéfiée est trouble ou fétide. Celui qui est assez expérimenté pour pouvoir examiner si les bronches ne sont pas liquéfiées, peut, en cas de grande perte, suivre cette opinion.",
+      "ref": "Shulchan Arukh, Yoreh Deah 36:7"
+    },
+    {
+      "seif": 8,
+      "he": "חסר מגוף הריאה ולא ניקבה כשירה ויש מי שאוסר: הגה והמנהג להכשיר אם החסרון ככ\"ף פשוטה אבל אם החסרון ככ\"ף כפופה כזה אם יוכל להניח בגומא ההוא אצבע אגודל מקרי חסרון וטריפה ואם לאו כשרה וכל זה כשנראה החסרון מבחוץ לאחר הנפיחה אבל אם היא מבחוץ כשאר ריאה אלא שנחסר מבשרה מבפנים אפילו מחזיק החסרון עד כדי רביעית כשרה יתר מכאן טריפה (מהרי\"ו ובדיקות ישנים וראה מעשה וש\"ס וטור ופוסקים וב\"י בשם אהל מועד):",
+      "en": "S'il manque une partie du parenchyme pulmonaire sans que la membrane extérieure en soit perforée, l'animal est mangeable. Quelqu’un le déclare en pareil cas immangeable.GLOSE: Il est d'usage de déclarer l'animal mangeable si le vide résultant du manque d’une partie du parenchyme a la forme de la lettre « Caf » droite; mais s’il présente la forme de la lettre « Caf » courbée, l’animal est immangeable, si la concavité formée par le vide est si large qu'on peut y plonger le pouce; car une pareille cavité constitue un manque considérable. Il n’est question ici que du cas où le vide formé dans le poumon est visible à la surface du poumon insufflé. Mais lorsque la surface du poumon ressemble à celle des poumons ordinaires et qu'il manque une partie de son tissu interne, l'animal est mangeable, même si la partie qui manque représente la valeur d’un quart de « Loug »; mais si elle représente une valeur plus considérable, l’animal est immangeable.",
+      "ref": "Shulchan Arukh, Yoreh Deah 36:8"
+    },
+    {
+      "seif": 9,
+      "he": "הריאה שנמצא בה מקום אטום כל שהוא (ל' רמב\"ם פ\"ז ד\"ו) שאין הרוח נכנס בו ואינו עולה בנפיחה מביאין סכין וקורעין (הקרום לבד) (מהרי\"ו וב\"י בשם מ\"כ ורשב\"א בת\"ה) סמוך ממש למקום האטום אם נמצא בו ליחה מותרת שמחמת הליחה לא נכנס שם הרוח ואם לא נמצא בו ליחה נותנין עליו מעט רוק או תבן או נוצה אם נתנדנד כשרה שהרי הרוח בא שם ואם לאו טריפה: הגה ולא מקרי אטום אלא כשמראהו דומה לשאר ריאה אלא שאינו עולה בנפיחה אבל אם מראהו דומה למוגלא אינו אלא טינרי וכשר בלא בדיקה (הגהות מיימוני וסמ\"ג וב\"י בשם רש\"י) ואף באטום יראה תחילה ליתן הריאה במים פושרין או ליתן מים פושרין תוך הקנה ולנענע אותה (הגהות אשיר\"י) או למשמש הרבה במקום האטום (רוקח) ולשפוך אחר כך מה שבתוך הקנה ואם עולה אחר כך בנפיחה כשרה ואפילו אם כבר נחתכה הריאה אם יוכל לבדוק על ידי שפופרת שיעלה מקום האטום בנפיחה יש להכשיר (מהרי\"ו וערוך ערך אפי פי' כן פחיזה דש\"ס):",
+      "en": "Lorsqu'une partie du poumon, si petite soit-elle, est imperméable à l'air, de manière que l’insufflation ne la dilate pas, on apporte un couteau et on pratique une entaille GLOSE: à la plèvre seulement, immédiatement à côté de l'endroit imperméable: si on y trouve une infiltration d'humeur, l’animal est mangeable, car il est évident que c’est l'humeur qui a empêché l'air de pénétrer dans cette partie du poumon. Mais si on n'y trouve pas d'humeur, on pose dessus de la salive, une paille ou une plume; si l’on constate alors, en insufflant le poumon, quelque mouvement dans les matières posées dessus, l’animal est mangeable, puisque l’on voit que l'air y parvient; si non, l’animal est immangeable.GLOSE: On ne désigne un tel cas par le nom d'imperméabilité qu'autant que la partie en question a une couleur semblable à celle du reste du poumon, seulement qu'elle ne se dilate pas par l'insufflation. Mais si cette partie est puriforme, alors ce n'est qu'un bouton; l’animal est donc mangeable, sans autre examen. En cas d’imperméabilité, on ferait bien de plonger préalablement le poumon dans de l’eau tiède, ou de verser de l’eau tiède dans la trachée et d’agiter le poumon, ou encore de bien pétrir l'endroit imperméable; on vide ensuite la trachée et on insuffle le poumon: si l'endroit en question se dilate, l’animal est mangeable. Même dans le cas où le poumon a été découpé déjà, on peut déclarer l’animal mangeable, s'il y a moyen d’insuffler la partie imperméable à l’aide d’un tuyau et d’en provoquer ainsi la dilatation.",
+      "ref": "Shulchan Arukh, Yoreh Deah 36:9"
+    },
+    {
+      "seif": 10,
+      "he": "ריאה שקשה כעץ במשמושה טריפה (וה\"ה אם קלה כעץ טריפה) (מהרי\"ו):",
+      "en": "Si le poumon est tellement dense qu’il provoque à la palpation la sensation qu'on éprouve en touchant le bois, l’animal est immangeable. GLOSE: De même si le poumon est léger comme du bois, l’animal est immangeable.",
+      "ref": "Shulchan Arukh, Yoreh Deah 36:10"
+    },
+    {
+      "seif": 11,
+      "he": "ריאה שנתמסמסה דהיינו שנמצאת שלימה וכשתולין אותה תחתך ותפול חתיכות חתיכות טריפה:",
+      "en": "Lorsque le poumon est gangrené de telle façon qu'il n’a de la cohésion que tant qu’il reste à sa place, mais qu’aussitôt suspendu, il tombe en morceaux, l’animal est immangeable.",
+      "ref": "Shulchan Arukh, Yoreh Deah 36:11"
+    },
+    {
+      "seif": 12,
+      "he": "ריאה שנמצאת נפוחה כמו עיקר חריות של דקל אוסרין אותה מספק:",
+      "en": "Si l’on trouve le poumon insufflé, à l'instar de l'écorce d’un dattier, on déclare l’animal immangeable, parce que le cas est douteux.",
+      "ref": "Shulchan Arukh, Yoreh Deah 36:12"
+    },
+    {
+      "seif": 13,
+      "he": "ריאה שיבשה אפילו מקצתה טריפה והוא שתהא נפרכת בצפורן: הגה ואם משרטט בציפורן על בשר הריאה ונראה השרטוט בתוכה מקרי יבש וטריפה. (מצא כתוב וכן הוא בבדיקת האחרוני'):",
+      "en": "Si le poumon est desséché, ne fût-ce qu’en partie, l’animal est immangeable; mais à condition toutefois que la dessiccation soit telle que le poumon s’émiette sous la pression de l’ongle.GLOSE: Si la raie tracée avec l'ongle sur la surface du poumon y laisse une empreinte, on considère ce cas comme une dessiccation, et l’animal est, par conséquent, immangeable.",
+      "ref": "Shulchan Arukh, Yoreh Deah 36:13"
+    },
+    {
+      "seif": 14,
+      "he": "צמקה כולה אם מחמת בני אדם שהפחידוה כגון ששחטו אחרת לפניה וכיוצא בזה טריפה ואם בידי שמים כגון שפחדה מקול רעם או ראתה זיקים וכיוצא בזה או מפחד שאר בריות כגון מקול שאגת אריה וכיוצא בזה כשרה:",
+      "en": "Lorsque le poumon est entièrement ratatiné, l’animal est immangeable si ce rétrécissement pulmonaire est dû à la frayeur que l’animal a éprouvée par suite d’un acte humain, par exemple parce qu'on a saigné un autre animal en sa présence, ou par quelque autre motif semblable; mais si la frayeur de l’animal a été causée par quelque phénomène céleste, tel que le bruit éclatant du tonnerre, la vue de la foudre, ou quelque chose de semblable, ou même si elle a été causée par un autre animal, par exemple par le rugissement du lion, l’animal est mangeable.",
+      "ref": "Shulchan Arukh, Yoreh Deah 36:14"
+    },
+    {
+      "seif": 15,
+      "he": "כיצד בודקין אותה (אם הדבר ספק מאיזה דבר בא לה) (דעת הר\"ן) מושיבין את הריאה במים מעת לעת אם היה זמן הקור מושיבים אותה במים פושרים ובכלי שאין המים מתמצין מגבו ונוזלים כדי שלא יצוננו במהרה ואם היה זמן החום מושיבין אותה במים צוננים בכלי שהמים מתמצין מגבו כדי שישארו קרים אם חזרה לברייתה הרי זה בידי שמים או בידי הבריות ומותרת ואם לא חזרה בידי אדם היא וטריפה (כל הסעיף ל' הרמב\"ם שם ד\"י): הגה ונראה דאין לנו לסמוך על בדיקה זו כי אין אנו בקיאין בכל דבר שצריך בדיקה ואם נראה שבא לה בידי שמים אין להכשיר בלא בדיקה זו ובזה יש לסמוך על בדיקתנו (כ\"פ רש\"ל):",
+      "en": "Comment examiner ce cas? GLOSE: lorsqu'il y a incertitude sur la cause de la frayeur. On laisse tremper le poumon dans l’eau durant vingt-quatre heures, — en hiver, on le trempe dans l’eau tiède contenue dans un vase qui ne transpire point, pour que l’eau ne se refroidisse vite, et en été, on le trempe dans l'eau froide contenue dans un vase qui transpire, pour que l’eau reste froide — si le poumon revient ensuite à son état normal, on en déduit que la frayeur qui a déterminé le rétrécissement a été causée par un phénomène céleste ou par un autre animal; aussi l’animal est-il mangeable. Si non, on en conclut que la frayeur est due à un acte humain; aussi l’animal est-il immangeable.GLOSE: Il me semble que nous ne devons pas nous baser sur cet examen; car partout où un examen est commandé, nous ne sommes pas à même d'y procéder. Alors même qu'il paraît certain que la frayeur de l’animal a été causée par un phénomène céleste, nous ne devons pas déclarer l’animal mangeable sans examen préalable, c'est dans ce cas seul que nous pouvons nous baser sur notre examen.",
+      "ref": "Shulchan Arukh, Yoreh Deah 36:15"
+    },
+    {
+      "seif": 16,
+      "he": "ריאה שהרגיש בה במשמוש היד שמחט בתוכה אם שלימה היא נופחין אותה אם עולה בנפיחה כשרה בין אם היא דקה או עבה בין אם נכנסה דרך חודה או דרך קופה (פי' דרך צד העב) ואם היא חתוכה טריפה. יש עליה קורט דם כנגד המחט בחוץ טריפה אפילו היא שלימה: הגה ובזמן הזה יש להטריף כל ריאה שנמצא בה מחט ואין דנין בה דין שלימה (ב\"י בשם סמ\"ק הגהות מיימוני פ\"ז וא\"ו הארוך ומהרא\"י שער ל') אם לא במקום הפסד מרובה אז יש להקל ולבדוק ע\"י נפיחה (ש\"ד סימן צ\"ב בהגהות ובית יוסף ומהרי\"ל וכן משמעות כל הפוסקים):",
+      "en": "Lorsque on sent, en palpant le poumon, qu'il y a une aiguille dedans, on insuffle le poumon, en cas où il est encore intact, et s’il se dilate l’animal est mangeable, sans nulle différence si l'aiguille est mince ou forte, si elle est entrée par la pointe ou par la tête. Mais si le poumon est déjà découpé, l’animal est déclaré immangeable. Si l’on trouve à la surface du poumon, juste en face de l'aiguille, une goutte de sang, l’animal est immangeable, alors même que le poumon est intact.GLOSE: De nos jours, il faut déclarer immangeable dans tous les cas où l’on trouve une aiguille, et on ne tire aucun avantage de l'intégrité du poumon, excepté en cas de grande perte où l’on incline à la modération en se basant sur l’examen à l’aide de l’insufflation.",
+      "ref": "Shulchan Arukh, Yoreh Deah 36:16"
+    },
+    {
+      "seif": 17,
+      "he": "מחט שנמצא בסמפונא רבה דריאה כשרה: הגה ואפילו בחתיכה שלא נוכל לבדוק בנפיחה יש להכשיר (ב\"י בשם ר\"ן וש\"ד ומהרי\"ו בשערים ור' ירוחם ולאפוקי כלבו ואו\"ה):",
+      "en": "Si l'on trouve une aiguille dans le grand tuyau bronchique, l’animal est mangeable.GLOSE: Il convient de déclarer l’animal mangeable, alors même que le poumon est déjà découpé, de sorte que nous ne pouvons plus l’examiner à l'aide de l’insufflation.",
+      "ref": "Shulchan Arukh, Yoreh Deah 36:17"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מסקנת הגמרא חולין דף מ\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:1"
+        },
+        "2": {
+          "he": "מימרא דרבא שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:2"
+        },
+        "3": {
+          "he": "הרא\"ש שם בשם בה\"ג וכ\"כ ש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:3"
+        },
+        "4": {
+          "he": "מימרא דרב יוסף דף מ\"ז ודיוקא דברייתא משום דסופן ליסתר וישאר הנקב כשהיה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:4"
+        },
+        "5": {
+          "he": "גם זה שם (ולשון רמב\"ם פ\"ז מה\"ש):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:5"
+        },
+        "6": {
+          "he": "מסקנת הגמרא דף מ\"ט.",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:6"
+        },
+        "7": {
+          "he": "שם דף ט':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:7"
+        },
+        "8": {
+          "he": "תוס' שם (ורא\"ש ואגודה):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:8"
+        },
+        "9": {
+          "he": "מסקנת הגמ' שם דף מ\"ט:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:9"
+        },
+        "10": {
+          "he": "מימרא דרבי יוחנן ור' אלעזר שם דף נ':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:10"
+        },
+        "11": {
+          "he": "כפי' הרי\"ף והרמב\"ם בפ\"ז מה\"ש והרשב\"א בת\"ה ובחידושיו.",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:11"
+        },
+        "12": {
+          "he": "מימרא דרב נחמן כדמוקי לה בגמרא שם דף מ\"ח וכפי' רש\"י והרשב\"א והר\"ן וכ\"כ הטור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:12"
+        },
+        "13": {
+          "he": "מימרא דעולא וכו' וכדמוקי לה רבא שם דף מ\"ז ורמב\"ם פ\"ו דין ט':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:13"
+        },
+        "14": {
+          "he": "מימרא דרב אשי שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:14"
+        },
+        "15": {
+          "he": "הרי\"ף והרמב\"ם פ\"ז מהא דפסל בגמרא סריחי ועכירי שם דף נ\"ה וס\"ל דקאי נמי אריאה אע\"ג דריאה דמליא מוגלא כשירה כדלקמן מים עכורי' גריעי דמראים במראיתן שבאים מחולי המפסיד ועתיד' היא לינקב וכל העומד לינקב כנקוב דמי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:15"
+        },
+        "16": {
+          "he": "מסוגיא דגמ' אהא דר' יוחנן חסרון דבפנים לא שמיה חסרון דף מח תוס' בשם ריב\"א וא\"ז וטור בשם בעל העיטור וכן פסק רבינו קלונימוס הזקן וכ\"כ המרדכי והגה\"א (°) פירוש מתחלת ברייתה נבראת חסרה קצת:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:16"
+        },
+        "17": {
+          "he": "הרמב\"ם בפ\"ח מה\"ש:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:17"
+        },
+        "18": {
+          "he": "מימרא דרבינא שם דף מ\"ז:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:18"
+        },
+        "19": {
+          "he": "הרשב\"א בת\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:19"
+        },
+        "20": {
+          "he": "שם בגמרא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:20"
+        },
+        "21": {
+          "he": "מימרא דרפרם שם וכאיכא דאמרי כפירש\"י שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:21"
+        },
+        "22": {
+          "he": "מימרא דר' אשי שם דף נג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:22"
+        },
+        "23": {
+          "he": "לשון הרמב\"ם פ\"ח מה\"ש דין ח' מהא דרפרם (°) דדלמא לא בא רפרם לאסור אלא בשיעה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:23"
+        },
+        "24": {
+          "he": "מימרא דרבא שם דף נז:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:24"
+        },
+        "25": {
+          "he": "משנה דף נד וברייתא שם דף נה וכת\"ק:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:25"
+        },
+        "26": {
+          "he": "הרא\"ש והרשב\"א וש\"פ דאלו מקצתה אפילו יבשה אם אינה נפרכת בציפורן כשירה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:26"
+        },
+        "27": {
+          "he": "מעובדא דרבה בר בר חנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:27"
+        },
+        "28": {
+          "he": "כפי' הרמב\"ם בפ\"א מה\"ש אהא דמשיכלי שחימי וכו':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:28"
+        },
+        "29": {
+          "he": "הסכמת הגמרא אההוא עובדא דריאה דאתיא לקמיה דרבי אמי וכו':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:29"
+        },
+        "30": {
+          "he": "הרא\"ש שם וש\"פ משום דסמפוני הריאה רחבים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:30"
+        },
+        "31": {
+          "he": "טור מדין מחט שנמצא בבית הכוסות לקמן סימן מ\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:31"
+        },
+        "32": {
+          "he": "שם בגמרא דף מ\"ח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 36:32"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "זה. עש\"ך הביא טעם האוסרין שמא יצא הרוח בנתיים וראיה מריאה דאוושא ולב\"י צ\"ל דריאה דאוושא מספק טריפה שמא הם זה כנגד זה וכבר התבאר בט\"ז ולענין דינא הלכה כהאוסרין וכן כתב בנה\"ך ואפי' מב' רוחות ומיהו כתב השמ\"ח בב' ערוגות ב' נקבים אין לחוש דהסמפון מפסיק ביניהם ולא יבוא הרוח בהם מזה לזה יע\"ש וכן הלכה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:1"
+        },
+        "2": {
+          "he": "אלא שצריכה בדיקה. כלומר נפיחה אבל ניקב קרום א' א\"צ ש\"ך לכאורה מה שעשה כלומר דל\"ת בדיקה המוזכרת בכ\"מ היינו פושרין וכאן א\"צ כ\"א נפיחה וכלשון בה\"ג והוא דלא מפקא זיקא אמנם למ\"ש התב\"ש אות ד' דבעינן פושרין והביא ראיה מש\"ך אות ט' דכתב אי היה נקב הוה מבצבץ דלשון בצבוץ נופל במים א\"כ י\"ל דה\"ק דכל ריאה צריכה בדיקה וכאן נפיחה ומ\"ש ניקב קרום עליון א\"צ יש לעיין דהא בסימן ל\"ט אות ה' כתב דכל דאתיליד ריעותא צריך נפיחה והביא לשון הר\"מ ז\"ל מעולם לא נפחנו ריאה בספרד ובמערב אא\"כ נולד לה דבר מה א\"כ בוודאי בניקב קרום העליון יש לבדוק ע\"י רוק במקום ההוא אלא דאם לא בדק כשירה דיעבד ובנגלד מעכב דיעבד ורובו ככולו. והתב\"ש תי' מה שמקשין דברי בה\"ג דכאן כתב שצריך בדיקה והא בכל ריאה פוסק דצריך ותי' דכאן פושרין בעינן יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:2"
+        },
+        "3": {
+          "he": "בועה אפי' מים זכים. ובל\"י אות ג' הביא בפשיטות בשם כה\"ג דלא נהיגין הכי. ואמת שהכה\"ג בהגהות ב\"י אות ה' הביא כן בשם מהרש\"ג וי\"ל דסובר ב' לריעותא כשר משא\"כ דידן באין ה\"מ וודאי יש להטריף מטעם ב' לריעותא אלא אפי' בה\"מ אין להכשיר כאן כיון דנגלד כל העור עליון ומיהו נגלד פורתא ונמצא בועה מ\"ז על מקום הנגלד יש לצדד בה\"מ דלא הוה ב' לריעותא עסי' ל\"ז סירכא תלויה מבועה מ\"ז יע\"ש. ובזה מיושב הא דהגיה רמ\"א דין דבוע' על נגלד כולו ולא על נגלד פורתא דהוה ב' לריעותא דכאן אפי' מ\"ז טריפה ולא מטעם ב' לריעותא אלא כיון דהגיע ההפסד כ\"כ חיישינן שמא קרום מחמת מכה עלה בו על הבועא ולא עור הריאה הוא ועיין תב\"ש אות י\"א ושמ\"ח ס\"ד ולפי מ\"ש א\"ש יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:3"
+        },
+        "4": {
+          "he": "הוה כקרום. הש\"ך עשה כלומר דקשיא ליה על כ\"ף הדמיון והכי הוה לומר דהוה קרום מחמת מכה דבועות דעלמא בין עור לבשר הם גדילים ועור של הבועא הוא עור הריאה וכאן דאיגלא אמרינן גם קרום הב' חלף והלך לו וזה עור הבועה הוא וקרום מחמת מכה. וכתב שמ\"ח ס\"ד דכל שא\"א בבדיקה טריפה ונכון יע\"ש. וכבר כתבנו באות הקדום דכאן לאו מטעם ב' לריעותא קאתינן עליה דאל\"כ הוה לרמ\"א לומר בקיצור ומשו\"ה אף מ\"ז יש לאסור כאן ואף בה\"מ ולא בנגלד פורתא:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:4"
+        },
+        "5": {
+          "he": "יש אומרים. הש\"ך הביא ג' פרושים או שנפחו מעט ונקרע או שנפחו קצת יותר מהראוי ונקרע סמוך ליובש אף שאין נפרד בציפורן חזינן דיבש הוא (ה\"ה וכ\"ש במקום היובש נקרע) או שהיה ריעותא דממ\"נ אי משערין כמו שהיא נפוחה הרי נקרע אמנם השמ\"ח ס\"ה ובתב\"ש אות י\"ב כתב דלא הוה ממ\"נ דבחייה יותר חזקה הבהמה מלאחר מיתה וכן הסכים עמו הכר\"ו אות ג' וליכא ממ\"נ ולא הטריף אלא ביובש או שאר ריעותא דאיגלי בהדייהו דאמרינן כיון דנקרע מסתמא ריעותא הוא ואפי' הלך הריעותא ע\"י נפיחה ולזה הסכים הכר\"ו ואם נפחוה רק מעט יראה מכר\"ו דמכשיר והתב\"ש אוסר דיצאה זו משאר רוב בהמות דאין נקרע ע\"י נפיחה מועטת ובתי' הג' התב\"ש וכר\"ו שניהם מתירין אם הריעותא הלכה והקרע במקום אחר ולדידי הדבר הזה צ\"ע דניהו דממ\"נ ליכא מ\"מ מידי ספיקא לא נפקא ולא שייך לאוקמי' אחזקה מידי דהוה אמים בראש כל שהריעותא מחיים וכ\"ש למ\"ש התב\"ש סימן כ\"ט דלא אוקי אחזקה דיצאה מהרוב דרובן אין מים בראש ה\"ה כאן וצ\"ע לדינא ויש לאסור כתי' הג' ✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:5"
+        },
+        "6": {
+          "he": "ונסתם. הש\"ך הביא ב' פירושים מפני מה קרום מחמת מכה אינו קרום וכבר התבאר בט\"ז אות ד' ודע דבכ\"מ אינו קרום ולאו דוקא ריאה או וושט כן העלו כולן דלא כהרא\"ה ב\"ה ל\"ד ב':",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:6"
+        },
+        "7": {
+          "he": "במים. עש\"ך הביא דברי מהרי\"ו דגם כאן מדקדקים בכלי כמו בצמקה אמנם התב\"ש אות ח' כתב דלקמן בעינן שיה' פושרין כל מעל\"ע צריך לדקדק בכלי וכאן רק בשעת נפיחה בעינן פושרין אין לדקדק בכלי וכן דחה מ\"ש בשם בה\"ג דבקיץ במים קרים יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:7"
+        },
+        "8": {
+          "he": "פושרין. עש\"ך דלפי מה שפירש\"י בקרירי לא הוה עצה טובה והר\"ב שכתב ואם שמוה בקרירי אין תקנה ואלו לרש\"י לא הוה צריך עוד לבדוק אלא כהר\"ן והשיג על הלבוש שסותר דבריו תכ\"ד דכתב קרים מקרעין והוא כפירש\"י ואיך כתב מיד דאם הושם אין תקנה והלא א\"צ תקנה. וכדי לא נישוויה להלבוש מאורן של ישראל כטועה ח\"ו תכ\"ד עיינתי ברש\"י מ\"ז ב' ד\"ה דמטרשי לשון טרשים שמקשין אותה וקרום הדק כשהוא מתקשה נסתם במשמוש היד ופעמים דלא מינקב עילאה ומינקב כי בדיק לה עכ\"ל והלבוש הוסיף וז\"ל והקרים מקשים הריאה ומותחים קרום עליון ויתקרע בנפיחה ויטריפנה שלא כדין הלכך אם שמו בחמים או בקרים אין תקנה שהרי כבר נכווץ ונסתם הנקב והיינו דמקשה ונסתם במשמוש היד כי כן דרך דבר הקשה וה\"ה ע\"י נפיחה והוסיף מלת ומותחין היינו שמתכוויץ ג\"כ ע\"י קרים ומתקרע אח\"כ וה\"ה דלפעמים נסתם הנקב מאחר דמותחין ומ\"ש ויטריפנה שלא כדין נקיט לשון רש\"י וגם לשון הר\"ן ואמת שהב\"י האריך בלשון רש\"י שכתב ומים קרים מותחין אותה כשמתקשה ואינו לשון רש\"י יע\"ש גם שם ד\"ה אינו קרים ראיתי בפי' ברש\"י דסופו ליסתר וזה דלא כש\"ך אות ו' וכבר כתבנו בט\"ז אות ד' באורך. כן נראה ליישב קצת *) ✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:8"
+        },
+        "9": {
+          "he": "שוב. עש\"ך דמשמע מרמ\"א מדכתב שוב אין תקנה הא פושרין אף האידנא יש תקנה ומשמע כן דעת הש\"ך רק באוושא אין דעתו כן הא באיגלד מבואר בנה\"ך דמהני והבל\"י כתב בשם ש\"ך דא\"א בקיאין באיגלד ולא ידענא מי הגיד לו זה ואדרבה בנה\"ך מבואר ההיפוך. ודע דאם ידעינן היכא אוושא היה נראה לכאורה דמשימין גילא או גדפא ודוקא אמנם השמ\"ח כתב דא\"א בקיאין. וכתב עוד דאם פ\"א השמיעה קול ובתר הכי אין משמעת תו אין תקנה דשמא נקרע דבר מה בתוכה יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:9"
+        },
+        "10": {
+          "he": "שהעביר הטבה ידו. עש\"ך דהמחבר הוסיף תיבת בכח גם אהעביר ידו דבעינן בכח ולמקום דחוק לא בעינן בכח ועב\"י עיין מ\"ש ב\"ח:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:10"
+        },
+        "11": {
+          "he": "או שלקחה זאב. כתב הש\"ך ה\"ה עובד כוכבים אם ידעינן שעשה איזה נקבים תולין בו אף השאר כמו בזאב וה\"ה דלא חיישינן שמא מקודם היה נקב ויראה לדידן דנאבדה הריאה טריפה באין ה\"מ לא מכשירים בעובד כוכבים אלא בבדקו מקודם הסירכות ולא בלא בדקו כלל ואף התב\"ש אות כ\"ב דמתיר בנאבד דאין מדרך הטבח להעביר סירכא עד שלא ישאר שום דלדול בעובד כוכבים מודה וכבר כתבנו לעיל דאף התם אין להתיר והעיקר כבה\"י ופר\"ח בקו\"א. שוב ראיתי שזה תלוי במחלוקת הב\"ח ושאר אחרונים בסימן ל\"ט ס\"ג גבי בא עובד כוכבים ונטל ריאה בודקין אותה ושם אבאר וכאן אין להאריך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:11"
+        },
+        "12": {
+          "he": "תלינן. כתב הש\"ך דאין צריך הקפה ואפילו איקפי ולא אידמי כשירה. הנה מ\"ש דמוכח דכשו בלא הקפה היינו דבמ\"ט אמרינן דלא תלינן בזאב והיינו מטעם חזקה ואם כן היכא דלא איפשר להקיף וודאי כשר כגון שנאבדה דאי ע\"י הקפה בלא\"ה אמרי' בדף ג' מקיפין בבני מעיים משמע אף היכי שאין לתלות וכן משמע מטור ומחבר שלא כתבו כאן הקפה אלא שיש לומר דאה\"נ היכא דא\"א להקפות כשירה דאוקי אחזקה אבל כל היכא דאיכא לברורי לא סמכינן אחזקה כמבואר לז\"א דאדרבא מש\"ה מוכח כמ\"ש המרדכי דא\"נ איקפי ולא אידמי כשירה והקפה זו וטורח זו למה והיינו דאמרינן בא זאב תולין ולא אידכר הקפה לברורי זה נ\"ל כוונתו. והפר\"ח החמיר לדינא אי איקפי ולא אידמי. והשמ\"ח סי\"ב ואות כ\"ג היקל כשיש לתלות בשינוי הזמן ומשמוש היד יע\"ש ואין להחמיר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:12"
+        },
+        "13": {
+          "he": "וכל. עש\"ך דכל שיש סימן שנעשה מחיים לא מהני הקפה. ואפילו לדידן אם יש עוד צד מקילין כמ\"ש הש\"ך אות י\"ט מ\"מ כל שיש סימן אין מקיפין כלל:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:13"
+        },
+        "14": {
+          "he": "או אדום. עש\"ך דהמורה צריך ליזהר ולהבחין אם יש לתלות ולומר אחר שחיטה הוה. כתב השמ\"ח סי\"א דאם עור הריאה תלוי על גבי נקב אין להקל ולומר דוודאי לאחר שחיטה דמחיים הוה כלה העור לגמרי דאין זה ראיה דלא כמורה אחד שהיקל בזה יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:14"
+        },
+        "15": {
+          "he": "וכן. עש\"ך דמלשון הטור והמחבר שכתבו וכן משמע דחד טעמא כמו בזאב ומשמוש ידא דטבחא תלינן וה\"ה הכא תלינן מספקא דנשחטה הותרה כמ\"ש ס\"ס כ\"ה אבל מהר\"מ ושאר פוסקים משמע דוודאי הוה שא\"א לפרוש מחיים מחמת רחיפת הריאה או כ\"ז שאין אפס חום הטבעי אין יוצא ולכאורה נ\"מ באם התולעים מרוחקים מנקב דאי ספיקא הוה ס\"ס לאיסורא שמא הני תולעים מעלמא ושמא קודם שחיטה פירש עיין אות י\"ז וח\"י ואלו לטעם דוודאי הוה אף מרוחק מנקב מכשירין דתלינן דנקבים ממורנא דנשחטה הותרה אף בספק השקול כ\"ש כאן דלא נעשה הריעותא מחיים דתולין להקל עסי' כ\"ט ומ\"ש באות ח\"י וי\"ז יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:15"
+        },
+        "16": {
+          "he": "תולעים. עש\"ך והנה דעת הרש\"ל יש לומר דהוה ס\"ס לאיסורא שמא הני נקבים לאו מהני תולעים ושמא כבר פירשו כמ\"ש באות ט\"ו ולדינא העלה כמהר\"מ מלובלין ומ\"ש דאף בלא נמצא כ\"כ תולעים והביא ראיה מזאב א\"י מה הוא דהתם אמרי' נשך וחזר ונשך משא\"כ כאן דוודאי אין סברא שתולע א' עשה כמה נקבים ומהר\"מ מלובלין ז\"ל בתשובה לא אמר אלא כי מי יוכל למנות או שמא נפלו במשמוש ידא דטבחא יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:16"
+        },
+        "17": {
+          "he": "שנקבוה כו'. עש\"ך בשם הב\"ח דווקא ריאה הא כרס ודקין לא והוא העלה אף כל האיברים לבד במוח חיישינן והראה מקום לס\"ס מ\"ט דשם מבואר בקורקבן כשר. והנה הפרישה בסימן ל\"א אות ב' מכשיר ריאה וקורקבן דעור שלו קשה והב\"ח משמע אף קורקבן אוסר ואין ראיה מעוף פלומי\"ל שהביא הג\"א דשם יודעין דעוף זה דרכו בתולעים משא\"כ בשאר שמא מעלמא אתו והתב\"ש בסימן מ\"ח אות ד' וס\"ב הסכים כב\"ח לאסור בכרס ודקין בקורקבן משמע מדבריו דמתירו מה\"ט כמ\"ש הפרישה שעורותיו קשים ומ\"מ כפי הנראה מב\"ח אין ראיה להתיר בקורקבן דמהג\"א אין ראיה שאותו העוף ידוע שמיניה קא רבו התולעים ואין דרכן לפרוש אלא לאחר שחיטה ומ\"מ לדינא להתיר בקורקבן וכרס ודקין אין לעשות מעשה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:17"
+        },
+        "18": {
+          "he": "כשירה. הש\"ך האריך ותוכן כוונתו דהד\"מ העתיק בשם או\"ה דברי רגמ\"ה הוא בפירשו מקצתן ומצאו מקצתן תוך הנקבים צריך בדיקת השמש לחומרא שמא לא יפרשו אח\"כ א\"כ אנו רואין שתולעים אלו אין טבעם לבקש חמימות ואף אותם שפירשו קודם שחיטה פירשו ול\"מ אם מוצאין תולעין בנקבים ולא יוצאין ע\"י חום השמש אסור מאותן תולעים גופא שהרי אין יוצאין ומבקשין חמימות ואומרים שנקבו קודם שחיטה אלא אפילו הריאה שלימה וחתכוה ומצאו בתוך הריאה תולעים צריך בדיקת השמש להחמיר דאם לא יצאו אף אותם שמצא בחוץ הם מחיים וכתב הד\"מ אבל לראות אם יש עוד תולעים ולחתוך הריאה אף רגמ\"ה מודה דאין צריך אבל דעת שאר פוסקים אם הניח בשמש ולא יצאו כשירה ולכן לא כתבו כלל בדיקת השמש. ויש לראות הכי היה לו לומר אף הניח בשמש ולא יצא כשירה ומה זה שכתב דא\"צ בדיקת השמש דמשמע אם הניח ולא יצאו טריפה וז\"א מדכתב ומכשירין בכל ענין משמע אף בלא יצאו. והנה לפי העתקת הד\"מ הוא כך אבל לפי הנוסחא שהובא ברוקח יש לפרש בע\"א והוא ריאה נקובה ולא פירש אחד מהן לחוץ הבדיקת השמש הוא לקולא שאם פירשו לחוץ כשירה וא\"ל טריפה דחזינן תולעים אלו אין מבקשים חמימות ואין סובר הטעם דריאה מרחפת וא\"א לצאת מחיים אלא מבקש חמימות אבל פירשו מקצתו לחוץ אנו רואין שמבקשין חמימות ואין לחוש לאותן שלא פירשו וכפי הנראה אף שנקובים המה והם בתוך הנקבים הדין כן דאמרינן אותן שלא פירשו נתקשו בתוך החור ואין יוצאין עכשיו. והשתא ל\"פ הפוסקים אהדדי רגמ\"ה דמצריך בדיקת השמש היינו בלא יצאו כלל לחוץ א\"א להכשיר בלא בדיקת השמש וראיה דאמר מורנא לאחר שחיטה פריש הא אם הוא תוך החור וחורו נקוב לחוץ שלא פירש אסור וי\"ל הטעם דהוה ס\"ס לאיסורא שמא הני נקבים לאו מחמת מורנא ושמא מחיים כי אין סברא שפירש וחזר לחורו משא\"כ אם ע\"י שמש יוצאין לחוץ יש ראיה דמבקשין חמימות שהרי ע\"י השמש יוצאין לחוץ משא\"כ בפירשו לחוץ אמרי' מסברא דמבקשין חמימות אבל כשחותכין הריאה ומוצאין תולעים פשיטא דאין צריך בדיקת השמש שוב עיינתי בתב\"ש וראיתי שלא פירש כן דברי הש\"ך והלענ\"ד כתבתי: ודע דאם נמצא מורנא והנקבים אדומים אין תולין לאחר שחיטה דודאי מחיים פירשו דאודם מוכיח וכ\"מ בשמ\"ח סט\"ז ותב\"ש אות ל\"ג ועיין לבוש ס\"ה היפך וכתב וכן תולעים ודוקא אם אין הניקב אודם. וכן יש לעיין בצלעות נגד הנקבים אם יש שם אודם תולין להחמיר כמ\"ש רמ\"א בהג\"ה עוד אומר לך שפ\"א בא אלי ריאה ומלא נקודות שחורות הרבה ואמר הבודק כי הם מחמת מורנא שיש תחתיה והראה בחוש כן ואמר שכשירה היא ואני אומר דטריפה היא דחזינן שניקבו מחיים וקרום מחמת מכה או מראה פסולה היא ואף דלקמן תולין היינו כשנוטלין המוגלא חוזר למראה המותר כמ\"ש התב\"ש סימן ל\"ח ואף אם נאמר שם דלא כתב\"ש מ\"מ י\"ל דמראין הדברים שתולע נקב וקרום העלה או דלקוי הוא כ\"כ וסופו ליפסק ע\"כ אין להאמין להבודק ההוא שאמר שכן דרך כל הריאות וכבר ידעתי מ\"ש הרשב\"א בתשובה סי' ל\"ח ששקר בימינם יע\"ש נ\"ל בזה ✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:18"
+        },
+        "19": {
+          "he": "מיהו בזה\"ז. הש\"ך בשם א\"ר דאם יש עוד צד להקל מקיפין והפר\"ח אות י\"ז והתב\"ש אות כ\"ה ובל\"י בשם כה\"ג ורש\"ל שא\"א בקיאין וכ\"כ הפ\"ת שבעו\"ה אבדה החכמה וקלי הדעת מקילין ע\"כ אין להקל אלא להחמיר סומכין על הקפה יע\"ש. והנה יש צד שכתב לא ידענא מה הוא ואולי אם נתערבה באחרות דיש דיעות דספק א' בגופו הוה ס\"ס עיין מ\"ב סל\"ז ומ\"מ הנך רואה דכולן מחמירין:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:19"
+        },
+        "20": {
+          "he": "אבל. הש\"ך העלה דלבשר ודאי כשירה ולחבירו טריפה כמשמעות הגמרא. והש\"ד דמכשיר לחבירו היינו כמו שפי' הרא\"ה ז\"ל בבד\"ה ל\"ג ב' ועיינתי שם וכוונתו דלחבירו היינו קודם שנכנס לריאה במקום פיצולו שמתפצלין תלתא קני חד ללב ולריאה ולכבדא ואם ניקב במקום פיצולו שהן דבוקין זה לזה אין מגין הא תוך הריאה כשירה ומיהו אנן לא קיי\"ל כן ומה שהוכיח הרא\"ה מנשפכה כקיתון תי' הרשב\"א דאם איתא דניקב הוה נימוח והוה שורייקי חיוורא. ועי' מ\"ש בט\"ז איך חוזר להכשירו והא בשעה שהיה המחט שם לא היה מי שיגין על הסמפון והתב\"ש באות י\"ד כאן כתב דאין נ\"מ בין הפירושים בקרום שעלה מחמת מכה אי הטעם סופו ליסתר ובין סתימה מעיקרא והרי אתה רואה שיש נ\"מ טובא ולטעם דסופו ליסתר לא קשה דהבשר בריא הוא ועיין ט\"ז:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:20"
+        },
+        "21": {
+          "he": "הריאה. עש\"ך ומדכתב משמע אפילו כולה משמע ה\"ה מקצת בעינן בדיקת הסמפונות עיין מה שכתב בט\"ז. ומ\"ש לחלק בין נתרוקנה במקום א' הלשון משמע דאי נחסר שיעור יותר מרביעית אף בנשפכה טריפה וכבר כתבנו שהתב\"ש הכשיר ויש לפרש כוונתו דבשר שנתרוקן גרע מה שאין כן נשפכה דרך להחסר דריאה ספוגיות והדרא בריא או כאן יש בדיקת הסמפונות כמו שכתב הרשב\"א כיון שהקלקול כ\"כ אי איתא דניקב הוה נמחה מה שאין כן בנתרוקן חיישינן שמא ניקב הסמפון ועיין בט\"ז מזה ועיין אות כ\"ב ובט\"ז אות י\"ד ובנה\"ך שם:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:21"
+        },
+        "22": {
+          "he": "ולא נימוחו. עש\"ך דלא חיישינן שמא ניקב סמפון ואין שם בשר שיגין דאם איתא הוה נמחה ש\"ך בשם הרשב\"א. מה שאין כן בנתרוקנה דאין הפסד כ\"כ חיישי' שפיר. ולענין אי יש לסמוך אבדיקה בזמן הזה י\"א שלא לסמוך ואמנם מרמ\"א מבואר דבהפסד מרובה אף בעכורים יש להתיר אלמא דיש לסמוך וכן כתב התב\"ש. ודע שמה שכתוב בש\"ע שוע באבר אין זה מה שקורין גלייזרט אלא טוח באבר מחופה בבדיל ועופרת עיין מ\"א א\"ח ה\"פ תנ\"א ועיין לקמן ק\"כ לעניין טבילת כלים ולפ\"ז יותר טוב ליקח קערה של בדיל שהיא לבנה וכ\"ה במהרי\"ו הביאו השמ\"ח יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:22"
+        },
+        "23": {
+          "he": "כשירה. עש\"ך והוא פשוט וכ\"מ בתוס' שם דאם לא כן אכתי לישני דנראית חסירה בחוץ אחר הנפיחה. ומיהו נפיחה בעינן כדין כל דבר דאיתיליד ריעותא דנופחין לריאה עיין ש\"ך בסימן ל\"ט:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:23"
+        },
+        "24": {
+          "he": "ויש. הש\"ך מצדד להקל ומ\"ש שאין עולה יפה לפי סוגיות הש\"ס דלישני חסרה ככ\"ף כפופה ומיהו אין כ\"כ קושיא כמו שכתב בנה\"ך אט\"ז דחסרה משמע באין שיעור ומשום הכי כתב רק שאין עולה יפה. והתב\"ש כתב שאין לזוז מהמנהג ואם הוא תמונת שאר אותיות מחמיר בתב\"ש. ומ\"מ המיקל בהפסד מרובה אף בכ\"ף כפופה לא הפסיד:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:24"
+        },
+        "25": {
+          "he": "הקרום. עש\"ך ויראה כוונתו דסמוך למקום האטום היינו הקרום שע\"ג האטום ועיין נה\"ך ומ\"ש שמא משם ולמטה נטמטם ה\"ה דהמ\"ל שמא במקום החתך היה אטום ועכשיו נחתך ויצא הרוח ודוחק לומר דסובר דבעינן אטום מעל\"ע ז\"א אלא כל שהוא טריפה ודע דאם מקום אטום רחב הוא סוב הכה\"ג דיש לחתוך הרבה פעמים ולבדוק בכל מקום האטום. ואנן בקיאין בבדיקה זו וכן הסכימו כל אחרונים ועיין כה\"ג:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:25"
+        },
+        "26": {
+          "he": "אם כו'. וה\"ה דם או בשר נרקב תולין האטום בזה ש\"ך וכבר נתבאר בט\"ז ההבדל בין אטום לצמקה וליבשה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:26"
+        },
+        "27": {
+          "he": "ואם. הש\"ך הביא דעת הרשב\"א דריאה מניפה על הלב והר\"מ נתן טעם דהוה כניקב ורש\"י פירש דהוה לקותא ובט\"ז כתבנו מה דנ\"מ בין הטעמים לדינא יע\"ש: כתב התב\"ש אות נ\"ח סירכא מתוך האטום טריפה דא\"א בבדיקה שמא הא דלא בצבצה מקודם מחמת האטום ועוד דהוה ב' לריעותא הנה מ\"ש דאי אפשר בבדיקה אזיל לשיטתיה בסימן ל\"ט דסירכא שלא בדק בנפיחה אף שעברה על ידי מיעוך טריפה וכבר כתבנו בט\"ז דיש לצדד ולהקל אמנם מטעם ב' לריעותא יש להטריף עוד כתבו אחרונים חוט אדום בתוך האטום אין לו בדיקה יעוין שם: ודע דכבר כתבנו אטום כל שהוא אפילו אינו מעל\"ע ואפילו בקולשיה שיהיה כ\"ש הוה אטום וכן הסכים התב\"ש אות נ\"ג דלא כפר\"ח בשם הראב\"ד בס' תמים דעים והתב\"ש כתב דלאו הראב\"ד חתים עלה ואינו מאמין שיאמר זה הראב\"ד. אמנם עתה ראיתי בבל\"י אות כ\"ח הביא בשם הראב\"ד וכ' כ\"כ הכה\"ג. עיינתי בכה\"ג בהגהות הטור אות ל\"ד ושם מבואר ההיפך והרבה להשיב דאין נראה כן מרש\"י וסמ\"ג ושאר פוסקים דאין מחלקין כלל אלא טינרי הוא וליחה קשה ומראיתו נשתנה והדרא בריא וכחילוק שכתב רמ\"א משא\"כ אטום ואני תמה עליו היאך מזכה שטרא לבי תרי דכאן אות כ\"ז הביא דברי הראב\"ד בס' תמים דעים סימן י\"א וז\"ל אטום מעל\"ע אבל אותן סלעים שהן מצ\"א ומצד הב' עולים בנפיחה כשירה וירצה בזה דראיית הראב\"ד מטינרי כמו שאבאר ואיך כתב בסימן ל\"ז אות כ\"ז דאנו נוהגין להכשיר טונרי מעל\"ע והרי אטום הוא ואי לא היה כותב כן הייתי אומר דטינרי תוך ד\"א הוה קולשיה ואין אוסר שם אטום כיש מי שאומר כן וגם בזה לא קיי\"ל כן וח\"ו להתיר אף בקולשיה כמו שכתב התב\"ש אות נ\"ג וכן נראה מסתימת כל האחרונים דלא חילקו אמנם מאחר שמתיר אף בסומכיה קשיא ועל הפר\"ח אות כ\"ח לא קשיא דאיהו מטעם הב' שהביא הראב\"ד דיובש כל שאין נפרך כשירה והא אין עולה בנפיחה. ולזה יש לתרץ כמ\"ש בט\"ז גם התב\"ש תי' דיובש אה\"נ חותכין אי מפקא זיקא ואפי' הכי אין נפרך הרי קרום יבש וניקב כו' אבל הבל\"י לא הביא ראיה כ\"א מסלעים דהיינו טינרי ע\"כ ח\"ו להתיר אטום כ\"ש ואף בקולשיה ובחוט אדום טריפה ומ\"מ בה\"מ יש להתיר חוט אדום על ידי בדיקה וכן נראה דעת הפר\"ח ועיין תב\"ש אות נ\"ג:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:27"
+        },
+        "28": {
+          "he": "קלה. פי' הש\"ך בעץ נרקב והתב\"ש פי' לפי אומד הדעת קלה יותר משאר ריאות:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:28"
+        },
+        "29": {
+          "he": "צמקה. עש\"ך אונא שלימה הוה כחסר ול\"ד לצמקה מקצת ריאה דחסרון בפנים לא שמיה חסרון יעוין שם ומ\"ש דהך בדיקה כמו לקמן אכתי ל\"ד דהתם מעל\"ע והכא אי לאלתר חוזר כשירה ואם לאו טריפה וכמו שכתב בט\"ז ומהאי טעמא אנו בקיאין בזו ולא לקמן דבעינן כל מעת לעת פושרין ולא בקיאין: ודע דלעיל כתבנו אם בימין ג' ובשמאל ד' וא' צמקה טריפה הוא אמת ויציב ואף שיש לומר דצמקה מטעם חסר קאתינן עלה והכא חסר מעליותא הוא וכי תימא דחסר מטעם סופו לינקב דלא כהר\"מ שמנה חסר סוג בפ\"ע אכתי הא צמקה מקצת הריאה כשירה דחסרון בפנים לא שמיה חסרון ואף דנראה החסרון מבחוץ לא קי\"ל כהר\"מ בזה א\"כ הרי אתה רואה כל שחסר אין מזיק ה\"ה צמקה אין מזיק א\"כ ה\"ה כאן אלא מכל מקום טריפה דלא סמכינן אבה\"ג אלא להחמיר ואין להקל ועוד דהוה ב' לריעותא אמנם בוורדא שצמקה וכמעשה שהיה הביאותיו בט\"ז יש לומר אי מטעם חסר הא יש פוסקים מכשירין חסר הוורדא ויש ספיקי טובי שמא בידי שמים ושמא חסר הוורדא כשר ושמא אין הלכה כבה\"ג ושמא שיור כט\"ד כשירה ועכ\"ז אין אני סומך עליו. ומיהו הא ודאי אם צמקה אונא שלימה וא\"י אם ב\"ש או ב\"א אין לעשות ס\"ס כלל ולהכשיר גם לסמוך על בדיקתינו בזה אין לסמוך כלל כנ\"ל:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:29"
+        },
+        "30": {
+          "he": "אם. עש\"ך ויש קצת קושי ההבנה בדבריו ואבאר הנה הרשב\"א בארוך וקצר לא ביאר כלום רק בחידושיו דף נ\"ה כתב יש להסתפק אי רדף ארי ושחטוה מי תלינן וא\"צ בדיקה כההיא דנטל זאב א\"ד התם כששחטה הותרה משא\"כ כאן דריעותא מחיים והניח בצ\"ע ומיהו אם שחטוה מיד א\"א בשעה קלה להצטמק עכ\"ל. הנך רואה דלא מסופק אלא ברדף ארי אחריה אי בעי בדיקה אבל ברדף אדם אפשר יודה להר\"ן דתולין במצוי והר\"ן לא פליג עמו בבירור אלא ברדף ארי דלהרשב\"א ספק ולהר\"ן א\"צ בדיקה אם שחטוה יום או יומים אח\"כ ובידי אדם אפשר הרשב\"א יודה דלא מהני בדיקה והר\"ב שהגיה אם הדבר ספק היינו דאי וודאי רדף ארי א\"צ בדיקה כר\"ן וטעמא יהיב למילתיה להג\"ה שאח\"כ דמש\"ה סמכינן על בדיקתינו ברדף ארי דבלאו הכי יש דעת הר\"ן אלא שאין אנו סומכים בלא בדיקה להתיר ומה שנרשם בהג\"ה שניה וכ\"פ רש\"ל יראה דהש\"ך ציין כן הנה בסימן צ' (מ\"ש ג' הוא ט\"ס) בא\"ט לא פסק כהר\"ב אלא במ\"ש דאם ספק א\"א בקיאין דלא כאפי רברבי אמנם ברדף ארי ליש\"ש א\"צ בדיקה ולהר\"ב צריך בדיקה כ\"ז מבואר להמעיין היטב באותן מקומות שהבאתי. וא\"כ לא ידענא למה האשים אדונינו הש\"ך למאורן של ישראל בעל הלבושים שהשמיט הגהות רבו בסעיף ט\"ו שלא כתב אם הדבר ספק מה נ\"מ לדינא כיון שסיים לסוף ואם הדעת נוטה הרבה שבא ב\"ש סומכין על בדיקה זו תו אין כאן מכשול לדינא וכ\"ת דהש\"ך סובר לדעת הר\"ב אם נאבדה בלי בדיקה כשירה והעיקר כר\"ן והא דכתב ואין להכשיר בלי בדיקה אי איתא לפנינו דכל היכא דאיפשר מבררינן דאין הלשון משמע כן והמעיין בנה\"ך יראה שאינו כן. ומ\"ש בנה\"ך דהר\"ב מגיה ואם ספק להודיע לנו דבספק אין סומכין ור\"ל דל\"ת דהבדיקה היא בראינו אדם רדף ואם כן פשיטא שאין להאשים הלבוש ע\"ז אמנם יראה דטעמא יהיב הר\"ב בהג\"ה א' להג\"ה ב' וכ\"נ דברי הש\"ך כאן דאי להודיע הא כתב בפירוש שאין לסמוך על בדיקתינו אלא אם נראה שבא ב\"ש: והנה אם נאמר כסברת הרשב\"א אף ברדף אין תולין אף דיש במה לתלות אם כן אתה רואה דמחיים אוקמי' אחזקה דאיסורא הואיל ויצאה בהמה זו מהרוב ואף שיש לה חזקה ברורה דכשנולדה לא היה הריאה צמקה אפ\"ה אוסר בלי בדיקה כ\"ש במים בראש. אמנם מכמה מקומות מוכח אף בספק מחיים כל ששכיח להיתרא יותר מלאיסורא תולין ועיין בסימן מ\"ט ונ' ועוד דספק קניא או דורס תולין במצוי אף שהספק מחיים והיינו דהיה לו חזקה מבוררת והא כאן נמי היה חזקה מבוררת במעי אמה לא היתה צמוקה הריאה וא\"כ כפי הנראה דבה\"מ ונאבדה הריאה וא\"א לבדוק יש לצדד ולהקל ובפרט שהט\"ז היקל ברדף ארי ושחטוה אח\"כ יום או יומים ואפשר מש\"ה הקשה הש\"ך על הלבוש שהשמיט להגהות רבו ✍וצ\"ע לדינא:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:30"
+        },
+        "31": {
+          "he": "ואם הש\"ך הביא דעת מהרש\"ל דב\"ש אין צריך בדיקה ואם בדקוה ולא חזרה הרי ע\"כ מקודם הפחידוה ב\"א וכבר נתבאר שמה שציין רש\"ל ב\"פ היינו בספק אין בקיאין דלא כא\"ר. וכתב התב\"ש ברדף ארי ונרתעת דאל\"כ אין לך בהמה שלא שמעה קול רעם ויפה כתב. עוד הביא דב\"ש הבהמה כשירה והריאה טריפה כמ\"ש בסימן ס\"ט ולא הבינותי למה כי לא מצאתי לאחד מהפוסקים שיאמר זה ואי משום שאין הדם יוצא ע\"י מליחה מנא ליה ועוד צלי היה להתיר וצ\"ע:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:31"
+        },
+        "32": {
+          "he": "כשירה עש\"ך דבריאה אין חילוק בין קופא לבר או לגו דסמפון רחב הוא ובא למקום צר ושם בע\"כ דוחקת וניקבה אף בקופא והרא\"ש והר\"ן כתבו בשר הריאה רך הביאו התב\"ש וא\"י דמ\"מ הסמפון קשה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:32"
+        },
+        "33": {
+          "he": "יש עש\"ך חולק על הב\"ח ומ\"ש דמה נ\"מ בנפיחה זו לא הבינותי דודאי נ\"מ אם אין המחט נקובה לחוץ דחיישינן שמא ניקבה וחזרה ע\"י נענוע ואם כן אף שאין ק\"ד טריפה דע\"כ לא בעינן ק\"ד אלא במחט התחובה מעל\"ע דאם איתא דמחיים הוה ק\"ד דאיכא מידי למיסרך דהא בביה\"כ אם ניקבה מב' צדדים ואין המחט לפנינו אפילו אין ק\"ד אסור דחיישינן שמא נפלה הטפה דליכא מידי למיסרך כמבואר בסימן מ\"ח ה\"ה כאן. ומ\"ש הב\"ח אפילו נקוב לחוץ לא בא לומר כ\"ש כשאין נקוב לחוץ דז\"א אלא דה\"ק אפילו נקוב לחוץ כשאין ק\"ד. שוב ראיתי להתב\"ש אות צ\"ג הרגיש בזה. ולענין דינא הסכים עם הש\"ך מהני טעמים שכתב הש\"ך דהני איברים אין טבעם שוין ולכתחלה יש לראות אחר ק\"ד בחוץ ואם לא ראה כשירה אף דביה\"כ י\"א הכא כיון דנפחוה די בכך. ואם רוב הנבלעים דרך הוושט כרש\"י או כתוס' כתב התב\"ש דהתוספות יודו לרש\"י דרוב הנבלעים דרך הוושט ובספרי ראש יוסף הארכנו ובסימן מ\"ח ומ\"ט אבאר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:33"
+        },
+        "34": {
+          "he": "ואין עש\"ך ובח\"מ יש להתיר אם ידעו שיש מחט ונפחוה הא לא ידעו ונפחוה וחתכוה כל מלתא דלא רמיה עליה דאינש לאו אדעתיה דומיה דשומן בפסח וכה\"ג טובא:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:34"
+        },
+        "35": {
+          "he": "בסמפונא רבה דריאה יש לנפחה לכתחלה דריעותא עכ\"פ מיקרי ודיעבד אין מעכב דאפילו בחיתוכה כשירה ולאו כל הריעתות שוין יש מעכב הבדיקה בדיעבד ויש לכתחלה ובסימן ל\"ט אבאר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 36:35"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "זה. עט\"ז הנה ב' טעמים יש למאן דאוסר זה שלא כנגד זה א' בשם הג\"א דריאה גמדא ופשטא כמו וושט ולפ\"ז מב' רוחות כשירה וטעם הב' ברי\"ו דרוח יוצא בין ב' הקרומים ולפ\"ז אף מב' רוחות טריפה והט\"ז בחר לו טעם הג\"א והיקל עוד והביא סברת היש\"ש דכרשב\"א קיי\"ל דכשירה והנה הרשב\"א במ\"ה ל' ב' כתב דבוקים הם זה בזה ואין הרוח יוצא ביניהם וכבר הקשו האחרונים מריאה דאוושא דזיקא דביני ביני הוא ולזה תירצו דרוב פעמים לא יבוא ואין להחזיק איסורא הא לפעמים יבוא וטריפה ור\"ל דריאה דאוושא חזינן שנפרדו הקרומים ויצאה הריאה זו מכלל שאר ריאות ולפ\"ז אם בצבצה הרשב\"א נמי מודה דטריפה וכן כתב יש\"ש פא\"ט להדיא דווקא אי לא בצבצה הא מפקא זיקא בין הקרומים טריפה [?יא] ולא היה להט\"ז לסתום זה. והנה בס\"ד ריאה דאוושא טריפה אם מבצבץ היינו נמי דחזינן שהרוח בא בין הקרומים ונתפרדו ואין דבוקים ואין סתירה למ\"ש המחבר ס\"א וכמ\"ש. אמנם בב\"י כתב אפילו יצא הרוח אין בכך כלום כיון דהוה זה שלא כנגד זה וצ\"ל כמ\"ש הפרישה אות ג' דריאה דאוושא טריפה מספק בנקב קטן דא\"א לבדוק אם הם ניקבו זה כנגד זה. ולענין דינא כ\"ע מודים גם רש\"ל דאם מפקא זיקא טריפה וגם במ\"ה כתב דרוח לא יבא ביניהן ולפ\"ז ריאה דאוושא אי מבצבץ הוה ודאי לא ספק ובניקבו זה שלא כנגד זה ואין מבצבץ דעת רש\"ל וט\"ז להכשיר ובנה\"ך השיג עליו ואמר דאין להכשיר מאחר דרוב פוסקים אוסרים וכן המנהג:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:1"
+        },
+        "2": {
+          "he": "אפילו. עט\"ז הראה מקום לסימן ל\"ג אות ה' דאם לקוי עור א' גרע ולפ\"ז ה\"ה כאן אם לקוי עור א' ברובו לא מהני בדיקה ויש להחמיר כתי' הא' ויש כדמות ראיה ממ\"ש בס\"ס ל\"ט אות כ\"ד דמשמע שיהיו ב' הקרומים שלימים. וכתב עוד דלפי תי' הב' א\"כ הבדיקה עיקרית הוא להקל וא\"א בקיאין בבדיקה והש\"ך אות ט' סובר דבקיאין כיון דלא מוזכר בגמרא בדיקה זו כ\"א בה\"ג וריאה דאוושא שהוא מגמרא נראה שהסכים שם לאגודה דאין בקיאין ובנה\"ך פירש דעתו להדיא דכאן מקילין ופסק כן בשמ\"ח ס\"ג ואות ה' ובל\"י אות ב' השיג על לה\"פ מ\"ש מש\"ך דאנו בקיאין בבדיקה זו מס\"ט וא\"י מפני מה כתב כך הא שם באוושא קאמר ובנה\"ך ביאר דעתו. ואמנם הבדיקה התב\"ש כתב דצריכה פושרין ומשאר אחרונים לא משמע כן אלא נפיחה כראוי וצ\"ע:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:2"
+        },
+        "3": {
+          "he": "ונקרע. הט\"ז השיג על הב\"ח וכן הש\"ך שלא ראה דברי רמ\"א בכאן ולדינא העלה דכשירה ומ\"מ משמע מדבריו אם נפחוה מעט ונקרע מודה דטריפה דטעמא שמא לא היתה נפוחה כ\"כ ובש\"ך אות ה' אבאר לדינא:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:3"
+        },
+        "4": {
+          "he": "ועלה. עט\"ז. הנה דברי רש\"י כמ\"ש הט\"ז קשים להולמם דאם הטעם דטריפה אין לה היתר עולמית ואף שאין סופו ליסתר אח\"כ וריאה דסביך לדופן או סירכא כסדרן ע\"כ דאם אין סביך אמרינן שמא לא סתמה הדופן היטב אבל כשסביך איגלי מלתא דדופן סתם היטב או כמ\"ש המ\"ה ל\"ו א' דאנו חוששין לעתים יתפרד הדופן קצת ולא יסתום יפה ומשום הכי כי סביך כשר יע\"ש שהביא הא דמקשה מטריפה שאין לה היתר א\"כ מה האי דכתב רש\"י אפילו סתימה עבה אינה מתקיימת דמשמע סופו ליסתר ויראה סתירה בדבריו דאחר כך אמר דלאו סתימא דמעיקרא ודוחק לומר אינה מתקיימת אבהמה קאי דאין מתקיימת י\"ב חודש אמנם כפי מ\"ש הדרישה הביאו הש\"ך אות ו' לק\"מ דה\"ק דסופו ליסתר וסתימה דסלקא לאחר זמן. הא סתימא דמעיקרא היינו דופן שנברא מתחלה אף שסותם אחר כך הוה סתימה עיין תב\"ש אות י\"ד ואמנם יקשה קושית הרשב\"א דאיך טריפה חוזרת לכשרותה ותיפוק ליה דא\"נ לא יסתום טריפה בסתימה דלאחר זמן. והתב\"ש כתב דמרש\"י חולין מ\"ח משמע אף סתימה דלאחר זמן כל שבריאה הוא כשר ולא מצאתיו שם דדופן הוה סתימה מעליא וסביך היינו כמ\"ש הרשב\"א במ\"ה או כמ\"ש דאיגלי מילתא דהוה סתימה מעליא ועיין ב\"ח תמה על הב\"י שהביא בשם מ\"כ דסלקא לאחר זמן לא הוה סתימה דרש\"י כתב כן וא\"י אדרבה מרש\"י משמע שסופו ליסתר וכמו שפי' הדרישה ומש\"ה הביא המ\"כ דמשמע הטעם דטריפה שעה א' אין לה היתר. וברש\"י י\"ל תרתי קאמר דסופו ליסתר וגם סלקא לאחר זמן אמנם בלבוש ס\"ג קרום מחמת מכה סופו ליסתר ול\"ד לדופן דהתם לא נחלשה הבהמה משא\"כ הכא ויראה ג\"כ סתירה בדבריו וצ\"ע. והנה דקין שניקבו או קורקבן ושומן סותם כשר אף ששומן לא הוה בתולדה אלמא מעיקרא לאו דווקא ומ\"ש הפרישה כן ר\"ל שהוא דבר בריא ולא חיישינן שמש מתחלה ניקבו ואח\"כ נולד שומן דלדרישה א\"ש ולמ\"כ ולרשב\"א קשה אלא דאין קושיא דאדרבה אנו אומרים עתה ניקבו כמו בגבינות סי' פ\"א ועיין פנים מאירות ח\"א ס\"א ולא ראה דברי המ\"ה וכבר כתבנו בסי' ל\"ג מזה ואי\"ה בסי' מ\"ט אבאר עוד. והנ\"מ בין ב' טעמים אלו כבר נתבאר בסי' ל\"ג עוד י\"ל אם לא בדקו אחר השומן אם היה סותם כל הנקב ומ\"מ ידוע היה שבמקום הנקב היה שומן אם נאמר סתימה לאחר זמן לא מהני הוה ס\"ס לאיסורא שמא ניקב קודם השומן כקושית הכ\"מ ושמא גם השומן היה ניקב גם אם יש עוד איזה ספק בבהמה מצד אחר מצטרף עם זה והוה ס\"ס לאיסורא ובסי' מ\"ו חלב טהור סותם אבאר עוד בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:4"
+        },
+        "5": {
+          "he": "שוב. כתב הט\"ז שמזה יש ראיה למ\"ש סי' ע' דמים קרים סותמין נקבי הפליטה ולפ\"ז בפושרין לא קרים ולא חמים יש לצדד להקל כפי הנראה מדבריו ובלא\"ה יש שם דיעות להקל דלא אמרינן נסתמין נקבי הפליטה ואמנם הדחה א' במים קרים יש למנוע דמטרשי ליה ולא יפלוט וטוב לשרות במים שעמדו בבית מעט שתפיג צינתן ושם יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:5"
+        },
+        "6": {
+          "he": "שהעביר. עט\"ז והם ג\"כ דברי הב\"ח דוקא שיודע במקום הזה היה ממשמש הא לאו הכי לא תלינן תרי ספיקא לקולא אמנם מ\"ש דחזינן במקום השינים ניקב אמאי לא כפשוטו דהתם ספק א' שמא נשך וחזר ונשך כמ\"ש הב\"ח ומשמע מט\"ז דאם רואין במקום שניו שלא נקבם לא תלינן דזאב אין ברור שנוקב כמו שהאריך התב\"ש אות י\"ט וזה לא משמע משום פוסק שיאמר כן דבעינן דוקא שבמקום אחיזה יהא נקב דוקא אלא אמרי' מסתמא הזאב נקבן כיון שאוחז בהן: ודע דבגמרא אמרו בא זאב ונטל מהו. הא ליתנהו אלא החזירן כשהן נקובים מי אמרי' במקום נקב ניקב כו' ויש לראות מה האי דאמר במקום נקב ופירש\"י שמא מקודם היה נקב והא אין בודקין אחר ח\"י טריפות כלל ומה\"ת לחוש וכך היה לומר מי חיישינן שמא נקבים אלו לא מזאב הן והיינו שלא במקום שניו. והנה רש\"י סובר אין סירכא בלא נקב ונאמר ריאה בכלל בני מעיים וכמ\"ש הרשב\"א ושאר פוסקים א\"כ שפיר אמר בא זאב ונטל בני מעיים והריאה בכלל אף שאין אנו רואין סירכא ואי הוי בה מסתמא נשאר היה איזה דלדול כמ\"ש בסמוך לקמן מ\"מ שמא היה נקב מקודם דהא ריאה צריך בדיקה מה\"ט וע\"ז משני התם דלא חיישינן דיעבד כמ\"ש רש\"י שם לקמן בשמעתין דאי איפרקה ריאה בלא בדיקה כשר דסמכינן ארובא. והא דבעינן לתלות בידא דטבחא או בזאב היינו או דמדרבנן בספק השקול מחמירין או כיון דאין במה לתלות האיסור שכיח טפי מחיים שהולך אנה ואנה דרכו לינקב לא לאחר שחיטה כמו שביארנו בס' ראש יוסף ובספר ג\"ו בשו\"ת א' יע\"ש. אמנם בתוס' בדף מ\"ג כתבו דיש סירכא בלא נקב ולשיטתם הוכרחו לומר דהכי קמיבעיא ליה אפילו נקבים שלא במקום שיניו אי תלינן בזאב. ולשון הגמרא צ\"ע דאמר מי חיישינן שמא במקום נקב נקב. והתב\"ש באות י\"ט כתב דאי זאב אין ברור שניקב א\"ש יע\"ש ולא הבינותי דאכתי היה לומר מי חיישינן שנקבים אלו שלא מן הזאב הם סוף דבר לא יכולתי ליישב לשון הגמרא כראוי: כתב השמ\"ח ס\"ח ואות י\"ג דוקא נטלה הא נתייחד כלב וזאב אצל הריאה לא תלינן ואפילו הקפה לא מהני וזה לשיטתיה שסובר זאב אין וודאי נוקב הא מסתימת שאר פוסקים יראה דיש לצדד בזה אם נתייחד כלב וזאב עם הריאה דיש לתלות. גם לענין העביר הטבח היקל התב\"ש אף שלא ידענו בוודאי שהיה ידו במקום הזה לצורך גדול יע\"ש. וצ\"ע לדינא בכל זה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:6"
+        },
+        "7": {
+          "he": "תלינן. כתב הט\"ז אפילו במקום בועא כמ\"ש בסימן ל\"ו ס\"ו עכ\"ל והוא מפירש\"י חולין מ\"ו ב' אמר אמימר אין מקיפין בבועא ופירש רש\"י ד\"ה אין במקום דלא משמשא ידא דטבחא. משמע מפורש הא במשמש תלינן אף בבועא והוא פשוט עיין מ\"ש בסמוך מזה: ודע דהשמ\"ח סי\"א כתב אם היה סירכא ועוברת ע\"י מיעוך ונמצא נקב תחת הסירכא או סמוך לה אין תולין וממרוצת דבריו שם ובתב\"ש אות כ\"ב דהטעם כיון דסירכא בעי בדיקת נפיחה וכאן א\"א טריפה ונסתייע מדברי הב\"ח בסימן ל\"ז ומה\"ט כתב בסי' ל\"ט סל\"ו ואות נ\"ד דסירכא שלא כסדרן ועברה ע\"י מיעוך ולא בדקוה בנפיחה טריפה ולי ההדיוט אין מדברי הב\"ח ראיה לכאורה וז\"ל בסי' ל\"ז מיהו סירכא שלא כסדרן ומצא נקב במקומה או סמוך לה לא תלינן במשמש דוקא בועא שלא היתה בחזקת טריפה משא\"כ סירכא אין להוציאה מחזקת טריפה אלא בידוע שלא היה שם נקב. [?יב] התב\"ש הבין מטעם דא\"א לבדוק מש\"ה מטריף בנמצא סמיך לה נקב ואינו דא\"כ למה ליה לומר בועא לאו בחזקת טריפה תיפוק ליה דא\"צ בדיקה אלא דה\"ק סירכא שלא כסדרן רוב הפוסקים מטריפין אלא שאנו מקילין ע\"י מיעון הלכך אם נקב תחתיה או סמוך לה לא תלינן בטבח דהטעם דתלינן דהוה ספק השקול משא\"כ כאן דיותר יש לתלות בסירכא שהיה נקב ומה שעוברת ע\"י מיעוך אין ראיה כ\"כ ושמא עדיין לא סתמה הסירכא כל הנקב והא עברה ע\"י מיעוך. ומ\"ש אלא בידוע שלא היה שם נקב ר\"ל ומאחר דחזינן נקב אין לתלות בידא דטבחא ולאו דוקא בידוע שלא היה נקב אלא ה\"ה נאבדה בלא נפיחה כשירה כיון שעברה על ידי מיעוך והבדיקה רק לחומרא כמ\"ש הט\"ז סי' ל\"ט יע\"ש. וסירכא תלויה ושאר ריעותא כתב הב\"ח שם דתולין נקב בטבח והנך רואה עכ\"פ אם סירכא שלא כסדרן ובא א' ונתק הסירכא בכח בענין שא\"א תו לבדוק אם עובר ע\"י מיעוך טריפה דסירכא זו בחזקת טריפה כל זמן שלא נבדקה ע\"י משמוש ואף שהוא דבר שלא ניתן לכתוב מרוב פשיטותיה מ\"מ הוצרכתי לכתוב מפני שראיתי רבים אומרים דאם נקרע באונס כשירה שמא היתה עוברת ע\"י משמוש ואוקמיה בהמה אחזקתה ואני אומר ח\"ו להרהר כן ובסי' ל\"ט אבאר עוד מזה באורך: כתב עוד התב\"ש באות ס\"ב בשם בה\"י לדידן נאבדה הריאה טריפה באין ה\"מ ה\"ה נטל זאב וכדומה והתב\"ש כתב דאף לרש\"י דאין סירכא בלא נקב מ\"מ אין שכיח שיהיה נקב בלא סירכא כי מיד נתהוה סירכא ולהא לא חיישינן שמא היה ונתקה זאב דהיה מינכר איזה דלדול עכ\"ל ואני אומר גם בה\"י לא חייש אלא שמא הי' סירכא ונתקה הזאב והא דאמרינן בא זאב ונטל בני מעיים וכתב הרשב\"א ריאה בכלל א\"נ כן הוא אין ראיה דמיירי שבדקוה מסירכא ולא מנקבים ומשום הכי לא חיישינן לזאב וכן נראה להחמיר והפר\"ח בקו\"א סי' כ\"ה הסכים על ידו ויש להחמיר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:7"
+        },
+        "8": {
+          "he": "או. עט\"ז ב' טעמים א' שאי אפשר לצאת מחיים מחמת רחיפת הריאה ולפי זה קורקבן כה\"ג טריפה וטעם ב' דמסתמא כשמרגיש שאפס חום הטבעי יצא ולפי זה אף בקורקבן כשירה. ומ\"ש בשם רש\"ל שנמצא התולע תוך הנקב וכן כתב מו\"ח הנה רש\"ל בפא\"ט סימן נ\"א הכשיר אף אם נמצא תוך הנקב או עליו בסמוך לו ולא אוסר אלא כשנמצא רחוק מנקב דשמא התולע ממקום אחר הוא וכל שכן מקצתו תוך הנקב ומקצתו בחוץ כשר אמנם מב\"ח משמע דוקא מקצתו תוך הנקב ומקצתו בחוץ הא כולו תוך הנקב לא והביא ראיה פסל יוצא מסוכה ה\"ה כאן אין להקל אלא כה\"ג ואם כן איך השווה הט\"ז דעת רש\"ל עם הב\"ח ואמת הב\"ח גופא כתב וכן כתב רש\"ל יע\"ש. ומ\"ש עוד דההיא דרגמ\"ה שמניחין בשמש כו' ירצה בזה כשאין בנקבים שום תולע אלא בגוף הריאה במקומות אחרים יש תולעים חותכין ומניחין בשמש אם יצאו תלינן שגם זה הוה מן התולעים ועיין ב\"ח ולענין דינא אבאר בש\"ך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:8"
+        },
+        "9": {
+          "he": "שבפנים. עט\"ז מה שתי' אמ\"ש הר\"מ אפילו לחבירו דמשמע כ\"ש לבשר וזה נגד הש\"ס דמשמע דוקא לחבירו ותי' דה\"ק ל\"מ לעור במקום שאין בשר כו' ולענין דינא נקטינן כי הא נמי דאם ניקב לעור טריפה דאין בשר שיגין עליו. ואם נמצא מחט עדיין תחובה בתוך סמפון ובשר א\"כ אין מי שיגין עליו בכה\"ג בהגהות הטור כתב אם המחט מקצת בסמפון ומקצת בבשר טריפה הר\"מ טיוול\"ו ומהר\"י פיגי\"ן הסכים כן. וצ\"ע דא\"כ איך מצינו מחט בריאה כשירה מיד שעבר בתוך סמפון מעל\"ע נטרפה ואיך תחזור לכשרותה כשיצאה לבשר והא קיי\"ל טריפה אין לה היתר. וראיתי לתב\"ש אות ל\"ה כתב אם נחסר מהבשר נגד הנקב אף שבצדדין יש בשר טריפה וכתב דאף דמחמת המחט נחסר הבשר לא מחזקינן ריעותא ואמרי' מיד עברה המחט ולא שהתה ובשר הדרה בריא ולפ\"ז אמת הוא הדין אם רואין מחט בתוך הבשר ונרקב סביבו ולא מטעמיה דכה\"ג ומ\"מ קשיא וודאי מחט אין סותם ובאותה שעה שהמחט היתה תחובה מקצתה בסמפון ומקצתה בבשר מאן היה סותם ואין טריפה חוזר לכשרותה ולכאורה ראיה מכאן דסתימה דלאחר זמן הוה סתימה לולי קרום שסופו ליסתר ומה אעשה שהגמר' אמרה בטריפה שאין לה היתר וצ\"ע:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:9"
+        },
+        "10": {
+          "he": "שהיא שוע' באבר. הב\"י כתב שתהא לבנה ט\"ז וא\"כ יש ליקח קערה של בדיל שהיא לבנה וניכר בה ולאו דוקא חרס המוצפה באבר דמ\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:10"
+        },
+        "11": {
+          "he": "בשר. הט\"ז הביא הא דרשב\"א שמא ניקב א' לחבריה ותי' דמסתמא היה נמחה. האי לחבריה לאו דוקא דא\"נ ניקב כך אין מי שיגין וכן הוא בב\"י ר\"ן בשם הרשב\"א ועיין ש\"ך אות כ\"ב. ומה\"ט כתב התב\"ש מחט בריאה שנשפכה כקיתון טריפה אפילו בה\"מ וע\"י נפיחה דניקב הסמפון ואין מי שיגין עליו ופשוט הוא. והא דקשיא ליה כאן ולא מחט בריאה לא חיישינן שמא לחבירו דאחזוקי ריעותא לא מחזקינן י\"ל הכי קשיא ליה כיון דחיישינן לקלקול הסמפונות כ\"ש לניקב א' ואהא תי' כו': ודע דנשפכה כקיתון ויש חסרון יותר מרביעית כתב השמ\"ח סי\"ט דכשירה דריאה ספוגיית וכשנימוח' למים נתמעטה ול\"ד לנתרוקנה ודווקא כולה [וה\"ה רובה] הא מקצת לא יע\"ש. גם אם אין נימוס כמים שאם ניקב הקרום אין יוצא צריך בדיקת הסמפונות וכבר כתבנו לעיל מזה. ולענין אם בקיאין האידנא בבדיקה זו דעת רמ\"א להכשיר בה\"מ אפי' בעכורים וסרוחים וכן דעת השמ\"ח סח\"י ותב\"ש באות מ' דהט\"ז יודה כאן דמהני ודוקא לענין נקב א\"א בקיאין מה שאין כן צבע לראות שורייקי לבינים בקיאין יעוין שם וכן משמעות הרבה אחרונים ועמ\"ש בריאה שנתרוקנה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:11"
+        },
+        "12": {
+          "he": "חסר. דהר\"מ סובר דחסר שנראה מבחוץ לאחר נפיחה טריפה דהוה כחסר אונא ור\"ל כמו חסר אונא טריפה ה\"ה ע\"ג טריפה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:12"
+        },
+        "13": {
+          "he": "אם הט\"ז האריך לסתור זה ומסיק בה\"מ להכשיר וכן נראה דעת הש\"ך באות כ\"ד. ומ\"ש אם התחיל להתרפאות א\"ל איך תחזור לכשרות י\"ל מאן דמטריף כף כפופה לא מטעמיה דהר\"מ דאלו להר\"מ כ\"ש טריפה אלא קבלה בידו דבהכי טריפה ואיפשר מספק טריפה שמא ישלוט יותר ומש\"ה אם רואין שהתחיל להתרפאות איך בכך כלום ושומעין להקל בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:13"
+        },
+        "14": {
+          "he": "יתר. הט\"ז האריך לסתור פסק זה וא' מהקושיא שאמורא צריך לפרש ותנא אין צריך לפרש וכאן הוא להיפך ואין לומר דרב נחמן אמר כשירה אפילו יותר מרביעית היינו על ידי בדיקת הסמפונות כמו שאבאר לקמן וכשירה ע\"י בדיקה כמו ריאה דאיגלד כשירה היינו ע\"י בדיקה חדא מאן דאוסר סובר דלא מהני בדיקת הסמפון ועוד דמכל מקום ברייתא מפרש עד כדי רביעית כשר ובלא בדיקה הא יותר צריך בדיקה ואיך סתם ר\"נ. ובנה\"ך השיג עליו וכתב דהא דלא מוקי מתני' בהכי דחסרה משמע כ\"ש לא שיעור גם מצינו כמה פעמים אמורא סתם דבריו וכן השמ\"ח ס\"כ הסכים דטריפה והפר\"ח הסכים לט\"ז ובל\"י כ' דרוב בנין ב\"י ואוהל מועד ורש\"ל וב\"ח וש\"ך בנה\"ך מטריפין יעוין שם. ומיהו כתב התב\"ש היה הריקון בב' מקומות אין מצטרפין ליתר מרביעית: ודע דיותר מרביעית טריפה יש ב' טעמים או דחיישינן לסמפונות והא דלא מהני בדיקה דשמא ניקב ולא שייך תי' הרשב\"א דלעיל ויש טעם דסופו לינקב הקרום כן כתב נה\"ך. ומיהו אם חסרה כדי רביעית אף שנראה חסרון מבחוץ כשירה וכן משמע מב\"י להדיא אף להר\"מ דאסר חסרון בחוץ דסופו לינקב מה שאין כן נימוקה אם היה סופו לינקב היה כבר נקוב כיון שהגיע ההפסד כ\"כ. ויש לראות הא הר\"מ ז\"ל בפ\"ח מה\"ש ה\"ז חשיב חסר מגוף הריאה תחת סוג חסירה לא תחת סוג נקובה אם כן אין הטעם סופו לינקב ואי יש לומר הכי יש לומר דחסר לא הוה אלא בתולדה מה שאין כן כאן נתרוקן הדר בריא וצריך עיון בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:14"
+        },
+        "15": {
+          "he": "שנמצא בטור כ' שאירע שנפחו. אטום מראיתה מראה ריאה ומשמושה קשה ט\"ז בשם ר\"ש. הנה ה' דברים יש אטום וטינרי וקשה כעץ ויבשה וצמקה ויש לחלק ביניהם בין אטום לטינרי שזה מראה ריאה ומשום הכי הוה ריעותא וזה מראה מוגלא ואף שאין בה ליחד כדעת הרמ\"א בתשובה הוה טינרי. ויבשה איפשר שעולה בנפיחה והקרום יבש השרטוט ציפורן ניכר בה וקשה כעץ הוא יותר מאטום בקשיות ומשום הכי אין מהני מפקא זיקא וצמקה אין ראיה דלאו אטום הוא דמחמת שצמקה אין עולה בנפיחה וכל שלא צמקה רובה או כולה לית לן בה אמנם בנה\"ך משמע דמפרש הא דהג\"א בשם בה\"ג דמניח במים פושרים משום אטום הוא והיינו ע\"י פושרין אטום אפילו כל שהוא וכן יובש ואין צריך שיהיה האטום מעל\"ע עיין כה\"ג. ומיהו כתב השמ\"ח דאפילו אין קשה במשמושו הוה אטום והביא ראיה דאל\"כ למה ליה להטור לומר שאירע מקרה שנפחוה והלא אם משמשו דבר קשה פשיטא שצריך לנפוח: ודע דאטום יש ב' טעמים דטריפה א' טעם הרשב\"א הביאו אחרונים שאין מניף על הלב ואם כן טריפות אטום לאו משום לתא דריאה אלא משום לב והר\"מ בפ\"ח מה\"ש מנה תחת סוג נקובה שסופו לינקב ורש\"י כתב דהוה לקותא והנ\"מ בין הטעמים להרשב\"א בועא או תלוי על האטום וכדומה לא הוה ב' לריעותא שאין שניהם מעידות על ענין א' שזה מעיד על הריאה וזה על הלב ומיהו אם אטום נגד הדופן במיצר החזה להרשב\"א טריפה ולהר\"מ דסופו לינקב אם במיצר יש להכשיר ולרש\"י דהוה לקותא בין ב' לריעותא ובין לדופן טריפה ואף לדידן דאוסרין בסימן ל\"ט כל הסירכות אף במיצר החזה מ\"מ הטעם שא\"א בקיאין ויש לפעמים לצדד להקל כמו שיתבאר שם ואלו מטעם האטום טריפה בכ\"ע ויש להחמיר ככל הפירושים וכאמור✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:15"
+        },
+        "16": {
+          "he": "הקרום לבד. עט\"ז ומפרש דהר\"ב הגיה הקרום לבדו ומה שכתב המחבר סמוך למקום האטום היינו מהצד קרום לאטום ואפ\"ה לא יקרע רק הקרומים ולכאורה הוה נראה דהבדיקות דמפרשי הקרומים היינו ע\"ג אטום ולהרשב\"א בקצר שכתב סמוך למקום האטום היינו מהצד יחתוך בבשר והט\"ז סיים דכהטור ראוי לעשות וסיים דרמ\"א סובר כן במ\"ש נחתכה משמע שנחתכה אף סמוך לאטום ומה שהגיע הקרום היינו להמחבר וליה לא סבירא ליה אמנם הנה\"ך ותב\"ש ושאר אחרונים אמרו דעיקר לקרוע רק הקרום ומ\"ש הרשב\"א סמוך למקום אטום היינו ע\"ג גבי אטום וירצה במה שכתב סמוך למקום אטום הקרום לא הבשר וא\"כ אתי שפיר מה שהגיה הר\"ב במחבר כן דגם המחבר ורשב\"א והר\"ב סוברים כן דקורעין על גבי מקום אטום הקרומין ולא הבשר ובודקין:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:16"
+        },
+        "17": {
+          "he": "אם נמצא ליחה והוא הדין בשר נרקב ט\"ז ומשמע דוקא אם יש באטום גופא ליחה ולא מהני מה שנמצא באמצע ריאה רחוק מאטום ליחה ובכהאי גוונא לא משמע כן ואמנם מה שכתב נראה ליה דבו משמע תוך האטום דווקא:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:17"
+        },
+        "18": {
+          "he": "אם קלה כעץ. הט\"ז מכשיר זה אמנם האחרונים כתבו כעץ נרקב והתב\"ש כתב אם היא קלה משאר ריאות לפי אומד הדעת ולכך אין להקל בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:18"
+        },
+        "19": {
+          "he": "וכשתולין אותה תחתך כצ\"ל בשם רש\"ל וט\"ז והוא בפרישה ור\"ל דיש גורסים תחחוך בוי\"ו הגיה תחתך וי\"ג תהתך לשון התכה עיין פרישה וכה\"ג המעשה שהביאו אחרונים ריאה שהיה נופלת תילחי תילחי וצוה המורה לנפוח בחזק ונפל הבשר ונשארה הריאה שלימה כשירה דומה למעשה דס\"ס ל\"ט ולמעשה דריינוס ואם הריאה שלימה אח\"כ מכל מום כשירה ע\"י נפיחה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:19"
+        },
+        "20": {
+          "he": "צמקה כולה כתב הט\"ז אם צמקה אונא שלימה טריפה מחמת חסר אונא ומ\"ש דאין בדיקתה כבדיקת צמקה כולה דהתם בעינן כ\"ח שהמים מתמצין מגבו וכ\"ד שעות וכאן א\"צ כ\"ח לבנה. וגם לא מהני שיחזיר תכ\"ד שעות אלא מיד אי הדרא בריא כשירה וא\"ל טריפה עיין תב\"ש. עוד כתב השמ\"ח סל\"ז ואות פ\"ד דאם רוב אונא צמקה אף שנשאר כט\"ד מ\"מ רובא ככולה יע\"ש וכן נ\"ל דבכל התורה רובא ככולה אף יש לומר מדכתב אונא שלימה י\"ל דרוב ככל ואין להקל נגד התב\"ש: מעשה היה שצמקה הוורדא רובא ומ\"מ נשאר כט\"ד בשורש שלה קיים והיה הפסד גדול ושעת הדחק ורציתי להתיר מטעם ס\"ס שמא אין הלכה כבה\"ג שהרי בש\"ע והר\"ב לא הביאו ואת\"ל הלכה כדבריו מ\"מ כיון דמטעם חסר קאתינן עלה ובחסר הוורדא רוב מקילין כמבואר סי' ל\"ה ומחמת המנהג אנו נוהגין להטריף כמ\"ש הר\"ב שם ועוד יש סניף כיון דנשאר כט\"ד יש לומר דלא כתב\"ש שוב ראיתי שזה טעות דחסר מטעם סופו לינקב ואף הר\"מ ז\"ל מנה צמקה בפ\"ח מה\"ש ה\"ט תחת סוג חסירה מ\"מ אנן קיימא לן כל טריפות הריאה מטעם נקובה כמו שיתבאר בריש הסימן ומה שכתב בה\"ג דהוה כחסר היינו דסופו לינקב וגרע מחסר הוורדא בתולדה ומ\"מ יש לומר דהוה ס\"ס שמא בידי שמים ושאר הבריות או שמא אין הלכה כבה\"ג או שמא כל שנשתייר ט\"ד כשירה ואין אני אומר כעת לא איסור ולא היתר ובש\"ך אבאר לענין חליף או צמקה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:20"
+        },
+        "21": {
+          "he": "אם הדבר ספק. הט\"ז הניח דברי רמ\"א בצ\"ע כיון דמודה להר\"ן דאם נראה ב\"ש כגון שדחפו ארי וכיוצא א\"צ בדיקה א\"כ לדידן בידוע אמאי צריך בדיקה ובנה\"ך תי' בזה דה\"ק אם הדבר ספק בעי בדיקה להמחבר ואם ידוע שבא בידי אדם לא מהני בדיקה ולדידן אף בספק לא מהני שאין אנו בקיאין ואם ב\"ש לא רצה לסמוך על הר\"ן שהרשב\"א חולק ומכל מקום בבדיקה יש להתיר כיון שהר\"ן בלאו הכי מכשיר יעוין שם:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 36:21"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "זה שלא כנגד זה. ששני הקרומים דבוקים זה בזה והרוח לא יבא ביניהם על הרוב ואפילו את\"ל שנכנס הרוח בזה ויצא בזה כיון שאינם מכוונים זה כנגד זה לית לן בה עכ\"ל ב\"י וטעם האוסרין משום דלפעמים הרוח נכנס בזה ויוצא בזה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:1"
+        },
+        "2": {
+          "he": "אלא שצריכה בדיקה. כלומר נפיחה ומשמע דוקא בכה\"ג שנגלד כולו אבל ניקב אחת מהן א\"צ בדיקה וכן משמע מדברי הפוסקים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:2"
+        },
+        "3": {
+          "he": "בועה כו'. כ' בסמח\"ב אפילו בועה של מים זכים ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:3"
+        },
+        "4": {
+          "he": "הוי כקרום כו'. כלומר שקרום התחתון הוי קרום מחמת מכה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:4"
+        },
+        "5": {
+          "he": "י\"א שאם נפחוהו כו'. נר' דמיירי שנפחוה כדרכה אבל אם נפחוה יותר מדאי כשרה דאמרינן בעודה בחייה לא היתה נפוחה כ\"כ וכן מעשים בכל יום שמכשירין ובבדיקות הר\"ץ ושאר אחרונים כתוב וז\"ל ואם נשבר הקרום מחמת הנפיחה יבשה היא וטריפה פי' שנשבר הקרום בנפיחה סביב היובש יבש הוא וא\"צ בדיקה לראות אם הוא יבש עכ\"ל ואפשר דבכה\"ג מיירי הבדיקות ישנים והרב הגאון אמ\"ו ז\"ל פירש דהבד\"י והר\"ב מיירי כגון דאיכא שום ריעותא בריאה כגון מראה וכה\"ג דצריכה לנפחה לראות אם תעלה בנפיחה ואם נשבר הקרום ואין כאן ריעותא טרפה דאמרי' ממ\"נ אי דיינין לה כדקודם נפיחה טרפה היא ואי כלאחר נפיחה הא נשבר הקרום ואשתמיטתיה להב\"ח בסימן ל\"ט סוף סעיף ט\"ו דברי הר\"ב בהג\"ה זו ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:5"
+        },
+        "6": {
+          "he": "ונסתם טרפה. דכל נקובי דטרפות לא מהני להו אפילו סתימא מעליותא ול\"ד לריאה שניקבה ודופן סותמתה בסי' ל\"ט סעיף י\"ח וכן מרה שניקבה וכבד סותמתה בריש סי' מ\"א וכן שאר סתימות דמהני דהנהו הויין סתימא דמעיקרא (ר\"ל מיד שנעשה הנקב מיד יש דבר לסתום ובדרישה סעיף ב' פירש שהסתימה היא מתחלת בריית הבהמה) אבל הכא הוי סתימא דסלקא לאחר זמן ב\"י בשם מ\"כ ואו\"ה כלל נ\"א דין כ\"ד ורש\"י פא\"ט דף מ\"ג סוף ע\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:6"
+        },
+        "7": {
+          "he": "במים פושרין. בהפשרת המים של ימות הקיץ שעמדו בבית קצת לאחר שנשאבו ונתחממו קצת מחום האויר טור ורשב\"א בת\"ה בשם ר\"ת ועיטור ובה\"ג ומביאו ב\"י ג\"כ בס\"ס זה וע\"ל סי' קפ\"ח ס\"ק י\"ד נתבאר דפושרי' היינו כחמימות הרוק. והכלי כתב ר' ירוחם שיהיה מחופה באבר ומביאו ב\"י וד\"מ והיינו דוקא בימות הקיץ אבל בימות החורף צ\"ל דוקא שאינו מחופה באבר כדלקמן סט\"ו ע\"ש ובה\"ג דף קכ\"ח ע\"ג מצאתי בימות הקיץ יתנם במים קרירי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:7"
+        },
+        "8": {
+          "he": "פושרים כו' ואם שמוה כו'. לשון הש\"ס בפושרים בחמימי לא דמכווצי (פי' רש\"י דכווצי לה והנקב נסתם ואין זו בדיקה יפה) ובקרירי לא דמטרשי (פרש\"י מקשים אותה) ואם אין נקב בעליון מותחין כשמתקשה ונעשה הנקב וכ\"כ ר' ירוחם והר\"ן כתב דמטרשי וסותמים הנקב ונ\"ל עיקר כהר\"ן וזה דעת הר\"ב והעט\"ז כתב וז\"ל ולא יהיו המים חמים ולא קרים מפני שהחמים מכווצים והקרים מקשים הריאה ומותחין קרום העליון ויטריפנה שלא כדין והלכך אם כבר שמו הריאה בין במים חמים בין במים קרים שוב אין לה בדיקה בפושרים עכ\"ל ולא דק דלפי טעם זה פשיטא דמהני בדיקת הפושרים ואדרבה אפילו בדיקת פושרים לא צריך כלל כיון דלא בצבץ בקרים כ\"ש בפושרים אלא ודאי כדפי' וכן מבואר בד\"מ ושאר אחרונים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:8"
+        },
+        "9": {
+          "he": "שוב אין לה כו'. משמע הא מעיקרא מהני אפילו האידנא וכן משמע בעט\"ז וב\"ח ושאר אחרונים ואע\"ג דכתב הר\"ב סט\"ז והב\"ח והעט\"ז והאחרונים גבי צמקה הריאה דמושיבין אותה בכלי במים פושרים דא\"א בקיאין בבדיקה זו שאני התם דצריך שיהיו בפושרים כל מעל\"ע וכן צריך הבחנה איזו קרוי חזרה לברייתא משא\"כ הכא מיהו צ\"ע דהא גבי סרכא בכסדרן קי\"ל לקמן סי' ל\"ט ס\"ד דמאחר שא\"א בקיאין בבדיקה טרפה והשתא הא התם לא נזכר הבדיקה בש\"ס ואדרבה רוב הפוסקים והמחבר מכללם הסכימו דא\"צ בדיקה אלא דאנן קי\"ל לחומרא אפ\"ה מטריפין וכן לקמן סי' זה סי\"ו גבי מחט א\"כ כל שכן הכא שהבדיקה הוזכרה בש\"ס ומוסכם מכל הפוסקים וכן קשיא לעיל גבי נגלד קרום העליון בס\"ב שצריכין בדיקה דמשמע מדברי הר\"ב ושאר אחרונים דכשר אפילו לדידן ואולי יש לחלק דשאני התם דאם איתא דיש נקב כיון שנגלד היה מבצבץ הרבה והיה ניכר לעין כל ובזה אנו בקיאין וכמו כן י\"ל כאן כיון דהיא משמעת קול מיהו מצאתי באגודה פא\"ט סי' מ\"ו שכתב אריאה דמשמעת קול כו' דאנן לא בקיאין בבדיקה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:9"
+        },
+        "10": {
+          "he": "שהעביר הטבח ידו בכח. ל' הטור כגון שהעביר הטבח ידו או שתלשה בכח והמחבר אזיל לטעמי' שכתב בבית יוסף תיבת בכח קאי נמי אהעביר טבח ידו שאם לא העבירה בכח או שלא היה המקום דחוק ודאי לא תלינן עכ\"ל וכן משמעות הפוסקים והסכמת האחרונים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:10"
+        },
+        "11": {
+          "he": "או שלקחה זאב. או כלב וכה\"ג וכן הוא בפוסקים ורבינו ירוחם נט\"ו ח\"ג כתב דה\"ה עובד כוכבים ומביאו ב\"י והב\"ח חלק עליו דבודאי זאב וכלב דרכן לעשות נקבים אבל עובד כוכבים למה לו לעשות נקב ואולי זהו דעת המחבר והפוסקים וכל האחרונים שלא הזכירו עובד כוכבים ונ\"ל דאף רבינו ירוחם לא קאמר אלא כשידוע שנעשו בה נקבים וקא משמע לן דאע\"ג דלא ידעינן אי היו בה נקבים מקודם או לא דלא סמכינן אעדותו דעובד כוכבים מ\"מ תלינן הכל בעובד כוכבים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:11"
+        },
+        "12": {
+          "he": "תלינן כולהו בזאב. כתב הב\"ח הטעם דאמרינן נשך וחזר ונשך ונ\"ל מוכח מן הש\"ס פא\"ט דף מ\"ט ונ' ופוסקים דכל היכא דאיכא למתלי בזאב או בטבח כשר בלא הקפה וכן כתב בהגהת מרדכי פרק קמא דחולין בשם רבינו שמחה ומביאה מהרש\"ל פא\"ט סי' נ' והכי מוכח נמי להדיא מדברי הט\"ו ומה שכתוב בכל בו סי' ק\"א נגד זה נראה שט\"ס הוא ע\"ש. עוד כתוב בהגהת מרדכי שם דכל היכי דתלינן אפי') אי מקיפו ולא דמי כשר דסמכינן אחזקה דנשחטה בחזקת היתר עומדת ואמרי' אע\"פ ששניהם נעשו לאחר שחיטה זימנין דלא דמי עכ\"ל ומביאו מהרש\"ל שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:12"
+        },
+        "13": {
+          "he": "וכל נקב שהוא פתוח. ולא מהני ליה הקפה (אפי' במקום שסומכין אהקפה) הכי איתא בהגהת מרדכי שם וכ\"פ מהרש\"ל שם והכי משמע מדברי הר\"ב שכ' דודאי מחיים נעשה והקפה לא מהני אלא כשיש ספק כדמשמע בש\"ס שם (דף נ') ורש\"י שם להדיא וכל הפוסקים ולפ\"ז ה\"ה להושחר ואדום:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:13"
+        },
+        "14": {
+          "he": "או אדום כו'. וכתוב בהגהת בדיקות ומביאו הר\"ץ קבלה על הנקבים אם תמצא נקב אדום ורך סביבותיו אז ודאי נקב חדש הוא ותולין ביד הטבח אבל אם תמצא סביב הנקב לבן וקשה כעין שומן אז ודאי קודם השחיטה היתה וטרפה עכ\"ל ומ\"ש באדום כבר דחה זה הר\"ב בד\"מ מפני דברי המ\"כ שהביא הב\"י ואפשר דלא מיירי באדום ממש רק אדום כמראה הריאה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:14"
+        },
+        "15": {
+          "he": "וכן אם נמצאו כו'. מלשון הט\"ו משמע לכאורה דספיקא מיהא הוי אלא דתלינן להקל דלאחר שחיטה פירש אבל הרמב\"ם פ\"ו והכל בו ואו\"ה כתבו חזקה שלאחר שחיטה פי' וכן ראב\"ן כתב ודאי לאחר שחיטה פירש וכן משמע מדברי שאר פוסקים וע\"ל ס\"ס כ\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:15"
+        },
+        "16": {
+          "he": "תולעים כו'. מהרש\"ל פא\"ט סי' נ\"א פסק דדוקא כשנמצא התולעת בתוך הנקב או על הנקב שמוכח שהנקב בא מתולעת שניקבה וצריך למצוא דוקא התולע בכל נקב ונקב או עליו ולא רחוק מן הנקב והב\"ח הוסיף דבעינן שיהא התולע מקצתה בנקב ומקצתה חוץ לנקב ואין לכל הדברים אלו עיקר והכרח בש\"ס ופוסקים ומהר\"ם מלובלין בתשובה סי' קכ\"ז חולק אכל זה ומסיק להלכה דודאי אם נמצא נקב או נקבים בריאה ולא נמצא על הריאה שום מורנא (פי' תולעים) אין להקל ולא להכשיר ולתלות שע\"י המורנא באו ואין לסמוך על הכרת הבודקים שאומרים שהן בקיאין לידע איזה נקב בא מחמת מורנא ואם נמצאים התולעים בפנינו בין נמצאו בתוך הנקבים (עמ\"ש ע\"ז בס\"ק י\"ח) או בחוץ על הריאה יש להכשיר וא\"צ לדקדק שיהיו התולעים נמצאים דוקא על הנקב או בסמוך לו ממש כי מי יוכל לצמצם כזה אלא כיון שאנו מוצאים התולעים בפנינו על הריאה יש הוכחה גלויה שהנקבים באו ע\"י מורנא גם א\"צ לדקדק שימצאו כ\"כ הרבה תולעים כמספר הנקבים עכ\"ד וכן ראיתי נוהגין (והכי משמע נמי לכאורה ממאי דכתבו הפוסקים דבזאב אפילו שלא במקום שיניו תלינן כולהו בזאב ודוק):",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:16"
+        },
+        "17": {
+          "he": "שנקבוה כו'. כתב הב\"ח דוקא בריאה אמרי' הכי אבל בכרס ודקין וכה\"ג אי חזינן דנקובים הן כיון דאתיליד ריעותא חיישינן דלמא מבחוץ באו התולעים מחיים עכ\"ד ובה\"ג דף קכ\"ט ע\"א ובראב\"ן סי' רמ\"ו דבכרס ודקין נמי אמרינן הכי וכן משמע בשאר פוסקים וכ\"כ באו\"ה כלל נ\"א דין ב' דבכל אברים שהנקב פוסל בהן אמרי' הכי לבר במוח (וכמ\"ש בסי' ל\"א ס\"ק ז') ומביאו ד\"מ לפסק הלכה וע\"ל ס\"ס מ\"ט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:17"
+        },
+        "18": {
+          "he": "כשרה. ז\"ל ד\"מ ובהג\"ה או\"ה (כלל נ\"א ד\"ב) אמנם ר\"ג מאור הגולה הצריך להניח הריאה בשמש עד שתתחמם אם יוצאים יותר כשר ואם לאו טרפה והיינו כשחותכין אחר כך הריאה ומוצאים בה יותר תולעים שלא יצאו עכ\"ל הג\"ה ונראה שאין לאסור מספק (ר\"ל אם לא חתכוה אין לאסור מספק שמא עדיין שם תולעים שלא יצאו) דכיון דנשחטה הותרה ובחזקת היתר עומדת אין להחזיק איסור ותלינן לאחר מיתה פירש כנ\"ל לדעת רגמ\"ה אבל דעת הפוסקים נראה להכשיר בכל ענין ולכן כתבו סתמא דכשר ואפילו בדיקת השמש לא בעי עכ\"ל ד\"מ ובאמת כן הוא בהגהת או\"ה אבל בהלכות טרפות של רגמ\"ה גופא שהובא ברוקח סי' שפ\"ג איתא בזה הלשון ריאה שיש בה תולעים מניחים את הריאה בשמש אם מתחממים ויוצאים לחוץ כשרה ואם לאו טרפה עכ\"ל ונראה דה\"פ שיש כאן ריאה שהיא נקובה וניכר שהיא מנקבי המורנא שיש בתוכה תולעים מניחים את הריאה בשמש אם מתחממים ויוצאים לחוץ כשרה דאמרינן האי נקובה ממורנא באו דכי היכא דהשתא פירש לחום השמש לבקש חמימות ה\"נ לאחר שחיטה כשהרגישו שחום הטבעי אפס במות הבהמה דחקו לצאת ונקבוה לבקש חמימות וכמ\"ש הכל בו דה\"ט דאמרי' לאחר שחיטה פירש ואם אין יוצאין לחוץ א\"כ מאן לימא לן דפירש לאחר שחיטה דהא חזינן דהשתא לא פרשי לחום השמש וא\"כ ע\"כ אין טבען של תולעים אלו לפרוש לאחר שחיטה ואפשר שמחיים פירשו או לא נעשו הנקבים אלו ע\"י התולעים כלל וכ\"כ בשלטי הגבורים על שם) ריא\"ז וז\"ל ונראה בעיני שאם נמצא התולעת תוך הנקב טרפה שהרי לא פירש מן הנקב ולא נעשה הנקב ע\"י התולעת עכ\"ל ומיהו מודה ריא\"ז דהיכא דיוצא התולעת ע\"י בדיקת חום השמש דכשרה אלא מיירי שנמצא בתוך הנקב התולעת ואינו יוצא כלל וכה\"ג פירש הב\"ח וכן הוא בה\"ג ריש דקכ\"ט וז\"ל ריאה דאית ביה מורנא נעיין אי נפקין ורחשין כשר ואי לא ניתלה לריאה בשמש אי כי חיימא ריאה נפקא מורנא כשרה ואי לא נפקא טרפה עכ\"ל והשתא א\"ש הא דלא הצריכו הפוסקים בדיקת השמש משום דאינהו מיירי להדיא בנמצאו תולעים על הריאה וא\"כ חזינן דפירשו והלכך כיון דפירש מקצת לא אכפת לן תו באינך דלא פירש דהרי נראה לעין דהני ניקבי מורנא נינהו כיון דפירש מקצת וקיימא לן לאחר שחיטה פירשו (ועמ\"ש בס\"ק ט\"ז) אבל רגמ\"ה הא קאמר ריאה שיש בה תולעים ולא פירשו כלל ואי לאו דיוצאין ע\"י חום השמש הוי טרפה דהא לא קאמרינן בש\"ס אלא מורנא לאחר שחיטה פריש משמע דלא כשר אלא כשפריש ולא כשנמצאים בתוך הנקב ולא פרשו כלל וכדכתב ה\"ג וריא\"ז הלכך מהני בדיקת השמש לקולא דאם יוצאין לחוץ כשרה ובתשובת מהר\"מ שם דחה דברי הרוקח וריא\"ז בלא טעם ודעתו להכשיר אפי' בנמצאין תוך הנקב ואין יוצאין כלל ותמהני עליו גם מהרש\"ל פא\"ט סי' נ\"א כתב דיש לחוש לדברי הרוקח כי מסתמא קבל כך מרבותיו ואני מוסיף דהרי הן הן דברי רגמ\"ה ואיך נדחה דברי רבן של כל הגולה בלא טעם כלל ובפרט שהם דברים ראוים לאמרם וכמ\"ש ועוד שבה\"ג שכל דבריו דברי קבלה נמי פסק הכי וביותר שר' ישעיה אחרון ז\"ל שהיה בעל הוראה ואחרון קאי בשטתיה וכמ\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:18"
+        },
+        "19": {
+          "he": "מיהו בזמן הזה כו'. ובס' אפי רברבי כתב דהיכא דיש עוד קצת צד להיתר יש להקל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:19"
+        },
+        "20": {
+          "he": "אבל ניקב לבשר כו'. והב\"ח פי' דברי הרמב\"ם וה\"ג להטריף אפי' ניקב לבשר וכתב דכך יש להורות הלכה למעשה דלא כמ\"ש בש\"ע להקל בזה עכ\"ל ואין דבריו נראין כלל לפי סוגית הש\"ס וכל הפוסקים רש\"י והרשב\"א והר\"ן והרא\"ש וטור ורבינו ירוחם ושאר פוסקים כתבו להדיא דבניקב לבשר כשרה ותו דהרי הש\"ד כתב בסי' צ\"ב אפילו נמצא בה המחט בסמפון או מסמפון לחבירו כשר עכ\"ל ואע\"ג דמהרא\"י בכתביו סי' רט\"ו כתב שהוא נגד הש\"ס בהא דמכשיר מסמפון לחבירו וכן מהרש\"ל ורנ\"ש בא\"ו שלהם דחיקא להו מילתא טובא ליישב דברי ש\"ד בזה מ\"מ ודאי דנעלם מהן דברי הרא\"ה בס' ב\"ה דף ל\"ג שהשיג על הרשב\"א במה שמטריף מסמפון לחבירו והאריך להוכיח דכל שבתוך הריאה ליכא טרפות כלל בנקב אפי' מסמפון לחבירו ע\"ש וזהו ברור דעת הש\"ד ואע\"ג דכל הנך פוסקים דלעיל לא ס\"ל הכי מ\"מ כ\"ע מודו דניקב לבשר כשר ותו דהרי הריב\"ש בסי' קפ\"ט והר\"מ אלשקר בתשובה סי' ו' מפרשים גם דעת הרמב\"ם להכשיר בניקב לבשר ופסקו הכי וכן מהרש\"ל פא\"ט סי' מ\"ו ועוד נ\"ל להוכיח שדעת הרמב\"ם כן שכתב בפי' המשנה אם ניקב א' מסמפון הריאה ומגיע לחבירו טריפה אלמא דוקא במגיע לחבירו מטריף וגם בדברי בה\"ג אין הכרע כלל ע\"ש וק\"ל וע\"ל סעיף ט\"ז:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:20"
+        },
+        "21": {
+          "he": "הריאה שנשפכה כקיתון כו'. משמע אפי' כולה וכן משמע בש\"ס ופוסקים ואע\"ג דבחסרה אינה כשרה אלא עד כדי רביעית וכמ\"ש הר\"ב ס\"ח צ\"ל דגרע חסרה במקום אחד מנשפכה כולה כקיתון וכ\"כ מהרש\"ל שם סי' מ\"א וכ\"כ הב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:21"
+        },
+        "22": {
+          "he": "ולא נימוח וכשרה. ולא) והובא בתשובת מהר\"מ מלובלין שם בל' השואל ומהר\"מ השיב לו שם לא מצאתי בפוסקים שכתבו כן על שם ריא\"ז כי ספר א\"ז הגדול לא נמצא בזמנינו זה עכ\"ל ופשוט דמ\"ש השואל בשם ריא\"ז אין ר\"ל ר\"י אור זרוע אלא רבי ישעי' אחרון ז\"ל שמכונה בכ\"מ בשם ריא\"ז וכדכת' בשלט\"ג עיין שם: חיישינן דלמא ניקבו לחבריה או אפי' שלא לחברי' דהא ליכא בשר להגן דאם איתא דניקבו היה נימוחו. רשב\"א ור\"ן ושאר פוסקים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:22"
+        },
+        "23": {
+          "he": "כשרה. וכתבו הפוסקים המכשירים בעינן שתהא עולה בנפיחה ובספר ת\"ח ד' קל\"ד ע\"א הבין דר\"ל שלאחר הנפיחה יהא מקום הגומא שוה ולא דק דהמכשירין מכשרי אפילו ניכר הגומא לאחר הנפיחה והמטריפין לא טרפי אלא כשיש גומא לאחר נפיחה דכל מילי דריאה כשהיא נפוחה משערינן ליה וכן מוכח בדבריהם להדיא ע\"ש וכן נראה מדברי הר\"ב בד\"מ ומ\"ש הפוסקי' דבעינן שתהא עולה בנפיחה ר\"ל כיון דאית בה ריעותא צריך לראות אם עולה בנפיחה ולא מפקא זיקא וזה ברור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:23"
+        },
+        "24": {
+          "he": "ויש מי שאוסר. ובב\"י הכריע כהמכשירים וכ\"פ מהרש\"ל פא\"ט סי' מ\"א וגם מ\"ש האחרונים להטריף בכ\"ף כפופה אינו עולה יפה לפי סוגית הש\"ס ע\"ש גם מהרש\"ל חלק ע\"ז שם וע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:24"
+        },
+        "25": {
+          "he": "הקרום לבד. ולא הבשר דאם לא כן יצא הרוח כשיחתוך האטום ושמא משם ולמטה נטמטם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:25"
+        },
+        "26": {
+          "he": "אם נמצא בו ליחה כו'. שמחמת ליחה לא עלתה בנפיחה ובחיי הבהמה היה אפשר שהליחה יוצאת ובב\"י וד\"מ בשם הרוקח דה\"ה לדם עכור או בשר נרקב כשרה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:26"
+        },
+        "27": {
+          "he": "ואם לאו טריפה. שהריאה בחיי הבהמה מרחפת על הלב ואם יש בה אטום אינה יכולה להכניס רוח ולהניף. רשב\"א. ועוד כתבו הפוסקים טעמים בזה ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:27"
+        },
+        "28": {
+          "he": "קלה כעץ. בסמח\"ב האריך מאד בזה לפרש מאי היא קלה כעץ ע\"ש והיה נראה לכאורה לפרש קלה בטבעה כעץ שדרך העץ קל הוא בטבע שצף על פני המים וכן פי' הב\"ח בסי' ל\"ח בפשיטות אך נתברר שהחוש מכחיש פי' זה כמ\"ש הרבה בודקים שכל הריאות צפים ע\"פ המים ופירשו קלה כעץ היינו כעץ נרקב ואמרו שכך הוא מקובל בידם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:28"
+        },
+        "29": {
+          "he": "צמקה כו'. שאינה נפרכת בציפורן בעינן דוקא כולה כן משמע בש\"ס וכ\"כ כל הפוסקים ראשונים ואחרונים וכתב מהרש\"ל פא\"ט סי' צ' דרובא ככולה ופשוט הוא והב\"ח מטריף אף בצמקה מקצתה וכבר השגתי עליו בספרי ע\"ש ומיהו היכא דיבשה אונה שלימה אע\"פ שאינה נפרכת בצפורן כתב בהג\"א מא\"ז בשם בה\"ג דטרפה אך מניחים אותו במים וממשמש בה או יתן מים לתוך הקנה אם תחזור לברייתה כשרה וכ\"פ מהרש\"ל פא\"ט סי' כ\"ב וכתב הטעם דכיון שצמקה אונה שלימה הוי כחסרה האונה ול\"ד לצמקה ריאה מקצתה דחסרון מבפנים לאו שמיה חסרון דלא כב\"י וד\"מ ונראה דבדיקה דהג\"א נוהגת ג\"כ עכשיו דהיינו כמו בדיקה שכתב הר\"ב ס\"ט וכ\"כ מהרש\"ל שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:29"
+        },
+        "30": {
+          "he": "אם הדבר ספק כו'. זהו דעת הר\"ן (לאפוקי הרשב\"א שנסתפק בזה) דלא הוזכר בדיקה אלא בספק אבל אם ידוע שבא לה בידי אדם כגון ששחטו אחרת לפניה לא מהני בדיקה וכן כשידוע שבא לה בידי שמים כגון שנראה שפחדה מקול רעם או שאגת אריה וכה\"ג א\"צ בדיקה וכ\"פ מהרש\"ל פא\"ט סי' צ' דלא כהעט\"ז שהשמיט הג\"ה זו: ונראה דאין כו'. ולי נראה כל היכא שאין רגלים לדבר שבא בידי אדם תלינן ברוב וסמכינן על בדיקה זו שהרי חזרה לברייתא עכ\"ל אפי רברבי ודעת מהרש\"ל שם כהר\"ב וכן נראה דעת שאר אחרונים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:30"
+        },
+        "31": {
+          "he": "ואם נראה שבא לה בידי שמים כו'. ודעת מהרש\"ל שם דאם נראה שבא לה בידי שמים אין צריך בדיקה כלל מיהו ודאי היכא דבדקה ולא חזרה לברייתה לכ\"ע טרפה דמוכחא מילתא דמקודם לכן הפחידוה ג\"כ בידי אדם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:31"
+        },
+        "32": {
+          "he": "כשרה בין כו'. לפי שסמפוני הריאה רחבים ואפי' דרך הקופה נכנסת לתוך הסמפון ומשם דוחקת ונכנסת לתוך בשר הריאה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:32"
+        },
+        "33": {
+          "he": "יש עליה קורט דם כו'. כתבו הב\"י וב\"ח שזה נלמד מדין מחט שנמצא בעובי בית הכוסות דלקמן סי' מ\"ח וכתב הב\"ח ומשמע דאם אין שם קורט דם אפילו ניקב לחוץ כשרה דודאי אחר השחיטה דחק ועבר עכ\"ל ותימא דהא אדרבה משמע איפכא דאם איתא כדבריו למה כתבו כל הפוסקים והט\"ו נופחין אותה נפיחה זו מה טיבה הלא אם יש קורט דם אפילו עולה בנפיחה טרפה ואם אין שם קורט דם אפילו אינו עולה בנפיחה כשרה אם כן הכל תלוי בקורט דם ולא בנפיחה כלל וכן בש\"ס פא\"ט (דף מ\"ח ע\"ב) גבי הא איתא קמן ולא מינקבא לא משמע הכי ע\"ש ע\"כ נראה דדוקא בבית הכוסות אמרינן הכי דאם אין שם קורט דם אפילו ניקב לחוץ כשרה משא\"כ בריאה וכ\"כ הפרישה וחילק משום דק\"ד מבפנים חשיב כמו מבחוץ ובריאה לא שייך למבדקה בפנים מפני שהמשקים משפשפים תמיד כל מה שבתוכה עכ\"ל ועוד נראה לחלק משום דבריאה מתוך שהמחט הולכת תמיד בדוחק בבשר הריאה ואין לה מקום מרווח א\"כ אף אם ניקב מחיים לא ימצא קורט דם ועוד אפשר דאין טבעת כל האברים שוה דאין אומרים בטריפות זו דומה לזו וע\"ל סי' מ\"ח ס\"ק ל':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:33"
+        },
+        "34": {
+          "he": "ואין דנין בה דין שלימה. כי א\"א בקיאין בבדיקת נפיחה ומהרש\"ל פא\"ט סי' מ\"ו פסק כמהר\"י והמחבר ע\"ש וכתב ואיני יודע מה חומרא יש בבדיקה זו כו' ע\"ש ונראה להכריע דהיכא דנפחוה ולא הרגישו עדיין במחט רק אח\"כ מצאוה בחיתוכה אז יש לנהוג כדברי הר\"ף דבהכי איירי הר\"ף בהגהת סמ\"ק להדיא אבל היכא שהרגישו המחט במשמוש היד אז נראה דמהני בדיקה וכמ\"ש כל הפוסקים ואפשר דהר\"ף ואו\"ה גופייהו מודים בזה והטעם ק\"ל ומה גם ששאר הפוסקים כגון הסמ\"ג וסמ\"ק וכל בו והאגודה אע\"פ שכתבו דאנן השתא לא בקיאין בבדיקה כתבו דין דשלימה בסתם וכן מהרי\"ל ועוד יש צדדים בזה להתיר ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:34"
+        },
+        "35": {
+          "he": "ואפילו בחתיכה כו'. בדברי הפוסקים מבואר דאפי' איתא לריאה שלימה לקמן א\"צ לבודקה והר\"ב שלא כתב כן היינו משום דקי\"ל לקמן ר\"ס ל\"ט דבכל מקום דאיכא ריעותא צריך לנפחה גם במקצת מקומות נהגו לנפוח כל ריאות כדאיתא לשם ובעט\"ז כתב דא\"צ לנופחה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 36:35"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "שלא כנגד זה כשירה. כמו בקורקבן בסי' מ\"ט ולא דמי לושט דסי' ל\"ג סעיף ד' דהתם ע\"י שהוא מתפשט מתוך האכילה מתרמי אהדדי כמ\"ש שם ויש מטריפין סבירא להו דגם כאן כיון שהריאה שואבת כל מיני משקה וגמדא ופשטא ומשמעת קול אפשר דמתרמות אהדדי וע\"כ הדבר פשוט דכאן לא אסור אפי' ליש מטריפין אלא אם שניהם מרוח אחת וכמ\"ש בסי' ל\"ג לענין ושט ק\"ו כאן כנ\"ל ורש\"ל פסק לקולא כדעה ראשונה וכשר כל זמן שאין מבצבץ:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:1"
+        },
+        "2": {
+          "he": "אפילו נגלד כו'. ל\"ד לושט בסי' ל\"ג כמ\"ש שם סעיף ה' ונראה לחלק עוד דשאני הכא שאפשר להתברר ע\"י בדיקה בנפיחה שלא ניקב גם התחתון מה שאין כן בושט שאין שייך כן ועיין מ\"ש בסי' ל\"ט סעיף ד' דלדידן בזה אסור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:2"
+        },
+        "3": {
+          "he": "ונקרע הקרום מחמת הנפיחה. בסי' ל\"ט הביא מו\"ח ז\"ל דברי ד\"מ שכתב דין זה וכתב עליו וז\"ל ולא נהגו כן ומעשים בכל יום שנשבר מחמת חוזק הנפיחה ומכשרינן לה ולכן לא הביאו הר\"ב בהגהת ש\"ע עכ\"ל ונעלם ממנו בההיא שעתא הג\"ה זאת אבל מכל מקום כדבריו כן הוא שכל הבודקים שראינו אומרים כן ונראה שכן הוא מן הדין כיון שאין אנו יודעים היאך היתה הבהמה נפוחה בחייה כדאיתא סי' ל\"ה סעיף ה' ע\"כ אין לנו להטריף כאן דאנו אומרים שהבהמה לא היתה נפוחה כל כך כמו שמנפח הבודק:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:3"
+        },
+        "4": {
+          "he": "ועלה בו קרום כו'. פירש\"י פרק א\"ט (דף מ\"ג) אפי' סתימה עבה אינה מתקיימת דסלקא לאחר זמן ול\"ד לריאה שניקבה ודופן סותמתה וסתימת הכבד במרה וירכים בחלחולית דההיא סתימא דמעיקרא היא עכ\"ל ור\"ל בשעה שנעשה הנקב תיכף נעשה הסתימה ולא היה בכלל נקב משא\"כ כאן בקרום שעלה אחר שנעשה כבר נקב:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:4"
+        },
+        "5": {
+          "he": "שוב אין לה בדיקה. כי המים חמין כווצי הריאה וכן המים קרים סותמין הנקב ומזה הבאתי ראייה בסי' ע' למ\"ש רמ\"א בת\"ח דהודח הבשר נסתמו נקבי הפליטה ועיין סימן ע' ס\"ו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:5"
+        },
+        "6": {
+          "he": "שהעביר הטבח ידו. פירש\"י דהיינו במיצר החזה שמתוך הדחק היד קורעת בצפורנים עכ\"ל ונ\"ל דדוקא שיודעים בבירור שהעביר הטבח שם ידו בכח ואע\"ג דגבי זאב אנו מקילין אפילו שלא במקום השינים שאני התם דהא חזינן עכ\"פ נקבים מחמת השינים משא\"כ הכא שיש ב' ספקות לחומרא אימור לא העביר ידו ואת\"ל העביר אימור לא נקב כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:6"
+        },
+        "7": {
+          "he": "תלינן להקל. אפי' נמצא בועה במקום הנקב כן משמע בסי' ל\"ז סעיף ו':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:7"
+        },
+        "8": {
+          "he": "או אחר שחיטה כשרה. הטעם דבחיי הבהמה א\"א לתולעת שינקוב מחמת טרדת הריאה שמרחפת תמיד בלי הפסק ועוד שדרך שכשהתולע מרגיש בקרירות הבהמה מחמת מיתתה דוחק לצאת ומבקש חמימות וכ\"כ הכלבו וכתב רש\"ל סי' נ\"א דהיינו דוקא אם נמצא התולע בתוך הנקב וכן מצאתי בבדיקת ישנים וכ\"כ מו\"ח ז\"ל. וכתב עוד רש\"ל והרוקח כתב ריאה שיש בה תולעים מניחין אותה בשמש אם מתחממין ויוצאין לחוץ כשרה ואם לאו טרפה ע\"כ וה\"ט מאחר שאינם יוצאים א\"כ כבר נתקשה התולע בתוכה מחיים דאי לאחר שחיטה פריש הוה נמי עתה חוזרת ויוצאת ויש לחוש לדבריו כי מסתמא קיבל כן מרבותיו עכ\"ל ונרא' שזה מיירי שיש נקב בריאה ואין שם תולע רק בתוך הריאה עצמה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:8"
+        },
+        "9": {
+          "he": "שבפנים לחבירו כו'. בטור כתב לשון הרמב\"ם אפילו לחבירו טריפה ויראה מלשונו כו' רבים מקשים לתרץ דברי רמב\"ם ולעד\"נ בדרך זה לא מבעיא במקום שאין לו סתימה כגון באותן סמפונות שלצד חוץ שאין עליהם בשר כלל רק עור הריאה פרוש עליהם בלי סתימה פשיטא דטרפה אלא אפילו אם ניקב לחבירו וחבירו מגין עליו נמי טרפה אבל בשר פשיטא דמגין וא\"ל א\"כ מנליה לתלמודא למוקמי מלתא דרב נחמן בניקב לחבירו למה לא מוקי לה בניקב במקום שאין מגין לגמרי י\"ל דמצד שיש ספק בדבר מאיזה ענין מדבר רב נחמן אזיל תלמודא לחומרא דאפילו בלחבירו אסור וא\"ל למה לא כתב הרמב\"ם דלבשר כשר י\"ל דלא הוצרך לכתבו דנלמד מכלל הדברים מדלא אמר רבותא אלא בניקב לחבירו ולא אמר רבותא אפילו בבשר וכן מוכח להדיא בדברי רמב\"ם דבניקב לבשר כשר מדכתב פרק ז' דה\"ש מחט שנמצאת בריאה נופחין אותה אם לא יצא ממנה רוח בידוע שזאת המחט דרך סמפונות נכנסה ולא ניקב עכ\"ל האי לא ניקב פירוש שלא נכנסה דרך הוושט לריאה ואם איתא דניקב לבשר טריפה מה מועיל שנכנסה דרך סמפון אכתי יש טרפות מכח שניקבה הסמפון לבשר הריאה דהא בבשר מצינו המחט ובפא\"ט (דף מ\"ח) פרש\"י בהדיא וז\"ל ונהי נמי דדרך סמפונות באה הרי לא נמצאת בסמפון וע\"כ ניקב' הסמפון ויצאה לבשר הריאה עכ\"ל ואין סברא לדחוק ולומר דהרמב\"ם מיירי שנמצאת בסמפון דוקא דהא כתב מחט שנמצאת בריאה וא\"כ היה לו לומר בסמפון הריאה אלא פשוט דאין טרפות כלל בניקב לבשר ותימא על הטור שהבין מדברי רמב\"ס דבניקב לבשר טרפהשזה אינו כדפרישית וכן משמע לשון בה\"ג שמביא ב\"י וז\"ל בניקב לחבירו אתמר אבל דיצא לסמפון ולא ניקב לחבירו לא עכ\"ל והך דיצא מלשון דץ ביה מידי דהיינו שנתחב שם המחט בסמפון וניקב אותו לבשר הריאה ולא לחבירו כשר ע\"כ אין שום טריפות לכ\"ע בניקב לבשר כנ\"ל וא\"ל ממ\"ש הרמב\"ם בפי\"א דהל' שחיטה שאם נמצא בועה בריאה במים סרוחים חיישינן שמא ניקב הסמפון ש\"מ דטריפה בניקב לבשר זה ל\"ק דכל שיש סביב נקב הסמפון בועה אין שם בשר בריא שיגין על נקב הסמפון וזה ברור ופשוט בדעתו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:9"
+        },
+        "10": {
+          "he": "שהוא שוע באבר. בטור כתוב שהיא לבנה ופי' ב\"י לפי שהלבן בהיר וניכר בו שורייקי חיורי עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:10"
+        },
+        "11": {
+          "he": "בשר הריאה בלבד כו'. וא\"ל שמא ניקבו הסימפון אחד לחבירו דכיון שנתקלקל כ\"כ אם אינקב הוה מימחה לגמרי כן כתב רשב\"א:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:11"
+        },
+        "12": {
+          "he": "חסר מגוף הריאה. פי' בתולדה והי\"א היא דעת רמב\"ם דס\"ל אע\"ג דחסרון מבפנים לא שמיה חסרון מ\"מ היינו דוקא כשאחר הנפיחה העור קיים ולא נראה חסרון מבחוץ משא\"כ כאן דה\"ל כאונה חסרה כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:12"
+        },
+        "13": {
+          "he": "אם החסרון ככ\"ף פשוטה. פי' בין באמצע הריאה בין בשיפוליה ולא כמ\"ש הר\"ץ בהגהת בדיקות דוקא בשיפוליה דאין חילוק בזה אבל אני תמה אם יש איסור אם הוא ככ\"ף כפופה יקשה מה שהקשו התוס' פא\"ט (דף מ\"ז) על יש רוצים לאסור כשיש קמט בריאה כו' דא\"כ ה\"ל לשנויי הכא כדברי הכל אלא ודאי כל שעולה בנפיחה כשרה וא\"כ עדיין קשה למה לא מוקי תלמודא כדברי הכל ומיירי שהחסרון ככ\"ף כפופה אלא ע\"כ שטריפות זו חומרא בעלמא הוא וכן ראיתי לרש\"ל שכתב ולא כמ\"ש בקצת בדיקות להטריף כמין כ\"ף ומחלקין בין כ\"ף כפופה לפשוטה כי הכל הבל ורעיון רוח כל היכא שעולה בנפיחה כשרה מה אתה בא לומר אם יש חסרון ככ\"ף כפופה דמיחזי כב' אונות מה בכך הוה יתרת בדרי דאוני וכשר עכ\"ל ובודאי כדאי הוא רש\"ל לסמוך עליו בפרט במקום הפסד ושיטת ההלכה מוכח כן כמ\"ש וראיתי כתוב למאן דמטריף בכ\"ף כפופה דוקא בששניהם שוים אבל אם עוקץ א' ארוך מחבירו אמרינן כיון דאותו צד התחיל להתרפאות גם צד השני יתרפא וכיון שטריפות זו חומרא היא ודאי יש לסמוך על סברות כאלו אפי' מאן דמחמיר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:13"
+        },
+        "14": {
+          "he": "יתר מכאן טרפה. זה כתוב בב\"י בשם ספר אהל מועד וז\"ל נלע\"ד דיותר מרביעית טרפה דהכי דייקינן גבי אפילו מיל אינו חוזר עכ\"ל ומאד תמוה הוראה זאת דא\"כ קשיאאמאי לא משני תלמודא הכי בא\"ט (דף מ\"ז) כגוונא שהקשתי בסמוך סעיף זה לענין כ\"ף כפופה ה\"נ קשיא כאן דלמה משני ל\"צ אלא לר\"ש כו' ומחלק בין ניקב לחסר לישני דמיירי בחסר מבפנים אליבא דכולי עלמא ומתני' הכי קאמר הריאה שניקבה בכל גווני אבל חסר מבפנים אינו אסור אא\"כ חסרה יותר מרביעית ותו ק\"ל מדאי' בגמרא אמר ר\"נ ריאה שנמוקה וקרום שלה קיים כשרה תניא נמי הכי ריאה שנימוקה וקרום שלה קיים אפילו מחזקת כדי רביעית כשרה ואם איתא דנתכוון תנא דברייתא להשמיענו דיותר מרביעית טרפה אמאי א\"ר נחמן סתם כשרה והא קי\"ל אמורא צריך לפרש דבריו תנא א\"צ לפרש דבריו וכאן היתה איפכא דהתנא פירש דטרפה ביותר מרביעית ור\"נ אמר סתם כשרה וקושיא ראשונה אפשר לתרץ דבעל אהל מועד ס\"ל כרמב\"ם שהוא היש מי שאוסר שמביא הש\"ע כאן ופי' בב\"י דלדידיה אמרינן ה\"מ לשנויי הכי אלא לפום מאי דס\"ד דמקשה כו' ה\"נ נתרץ על קושיא זאת אלא דלפ\"ז קשה על רמ\"א למה מביאו להלכה כיון דקי\"ל כמכשירין והוא מכח ההוא קושיא למה לא משני אליבא דכ\"ע כמ\"ש התוס' א\"כ לא קי\"ל כאהל מועד בזה והקושיא השניה ודאי קשיא על אהל מועד גופי' ומה שמביא ראיה מדיוקא דאפילו מיל כו' אין זה דיוקא דודאי גבי ההיא דמיל שהוא בפרק היה קורא שפיר דייקינן שם מדלא אמר רבותא טפי אפילו (עד פרסה) [פחות ממיל אינו] חוזר אלא ודאי דהרבותא אינה אלא עד שיעור מיל משא\"כ כאן דקים להו שהשיעור היותר גדול הוא כדי רביעית וכל ריעותא שיש ביותר מרביעית ישנו ברביעית וא\"כ אין רבותא טפי מרביעית וזה מוכח מכל הפוסקים שהרי בסי' ל\"ה כתב הטור וכן הרמב\"ם דאם היתרת פחות מטרפא דאסא כשר והיינו מדאמרינן בגמרא אפילו כטרפא דאסא טרפה ודמו הפוסקים האי אפילו לאותו אפילו שאמרו גבי מיל כמ\"ש הר\"ן פא\"ט מזה אלא שהביא שם יש מטריפין אפילו פחות מטרפא דאסא אלא אורחא דמלתא נקט טרפא דאסא והנה הטור והרמב\"ם לא כתבו כאן דיותר מרביעית טרפה כדמשמע מלשון אפי' אלא ע\"כ דשם גבי טרפא דאסא נראה להו שפיר לדקדק מלשון אפי' מטעם דהיה לו לומר רבותא טפי אפי' פחות מטרפא דאסא טרפה משא\"כ כאן דאין חילוק כלל בין רביעית ליותר מרביעית ולמדו זה מדברי רב נחמן שאמר כשר סתם בכל גווני ע\"כ לא מתיישבין כלל האי פסקא דבעל אהל מועד אף אם הביאוהו איזה אחרונים כי לא ירדו ודקדקו בזה כפי הראוי כנלפע\"ד. אחר כתבי כן מצאתי להרשב\"א במשמרת הבית בהדיא שכתב כן בדף ל\"ב ע\"ב וחלק על ב\"ה שר\"ל גם כאן דוקא ברביעית ושמחתי ע\"ז שכוונתי לדעתו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:14"
+        },
+        "15": {
+          "he": "שנמצא בה מקום אטום. בטור כתב שאירע בה מקרה שנפחוה פי' ב\"י לפי שא\"צ נפיחה מן הדין אטום פי' רבינו שמשון שמשמושה קשה ומראיתה כמראית ריאה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:15"
+        },
+        "16": {
+          "he": "הקרום לבד. כ\"כ ב\"י בשם בדיקות וגם מ\"ש כאן בש\"ע סמוך ממש למקום האטום כ\"כ ב\"י בשם רשב\"א ובטור לא משמע כן שכתב קורעין המקום האטום משמע קריעה גמורה וממש במקום האטום ותמוה לי דעת הרשב\"א דאם יבצבץ בסמוך למקום האטום מה זו ראיה שנכנס הרוח למקום האטום שמא מן הצדדים של מקום האטום הוא בא הרוח וצ\"ל דס\"ל כל שיש מקום אטום א\"א לרוח שיבא סמוך לו ממש וס\"ל דאם יקרע באטום ממש אפשר שיבצבץ מחמת החתך שנפתח האטום ומ\"ה ישאירנו שלם ויחתוך סמוך לו כנ\"ל דעתו והוא דחוק וראיתי לרש\"ל שכתב שהעיקר כדברי הטור שכן משמע לשון התלמוד ודלא כהב\"י בשם בדיקות ולא כרשב\"א שזכרנו וגם מדברי רמ\"א בסמוך משמע כדעת הטור שהרי כתב ואפי' כבר נחתכה הריאה כו' וזה מבואר שנחתכה לגמרי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:16"
+        },
+        "17": {
+          "he": "אם נמצא בו ליחה. ה\"ה דם עכור או בשר נרקב כ\"כ רוקח:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:17"
+        },
+        "18": {
+          "he": "וה\"ה אם היא קלה כעץ. אמת שכן הוא במקצת נוסחאות בדיקות דמהרי\"ו ואחר זה נמשך רמ\"א כאן ותמוה מאד הוא דלפ\"ז היה לנו לבאר מה השיעור בקלות זה להטריף דאין לך דבר קל בבהמה יותר מהריאה לאשר היא מליאה רוח ותו היאך תלה הקלות בעץ והוא פירוש כגישתא הנאמר בגמרא בזה לפי זה ובאמת עץ הוא אינו דבר קל ושום פוסק לא הזכיר זה גם בנוסח הבדיקות של רש\"ל לא כתוב האי קלה כעץ ואין מציאות לטריפות זה לפע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:18"
+        },
+        "19": {
+          "he": "וכשתולין אותה תחתך. כצ\"ל בשם רש\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:19"
+        },
+        "20": {
+          "he": "צמקה כולה. ה\"ה רובה כ\"כ רש\"ל ופי' דצמקה הוא אינו כמו יבשה דסעיף הקודם דביבשה אפילו במקצתה טרפה אלא צמקה היינו קרוב ליבשה כמ\"ש רמב\"ם ע\"כ בעינן דוקא כולה. ובהג\"ה אשיר\"י בשם א\"ז כתב בשם בה\"ג אונא דריאה שיבשה קצת ואינה נפרכת בצפורן מניחין אותה במים וממשמש בה אי הדרא בריא כשרה או יתן מים לתוך הקנה אולי תחזור לקדמותה וכשרה כשתחזור עכ\"ל ותמה ב\"י הא אפי' בלא בדיקה כשרה כיון שאינה יבשה דהא אינה נפרכת בצפורן וא\"כ לא הוי אלא צמקה ובצמקה במקצת א\"צ בדיקה ותירץ רש\"ל דדעת ה\"ג כל שצמקה אונא שלימה הוה כחסר ומ\"ה טרפה ולא דמי לריאה דהיכא שצמקה ולא צמקה כולה דכשרה משום דחסרון בריאה אינו פוסל כשהיא שלימה מבחוץ משא\"כ באונות ומ\"ה מאחר שדברי ה\"ג דברי קבלה והא\"ז בעל הוראה היה אין לסור מדבריהם ואע\"פ שבדיקה זו אינה כבדיקה דגבי צמקה כולה ג\"כ אינה דומה צמוקת אונא לצמוקת ריאה עכ\"ל ודבריו נכונים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:20"
+        },
+        "21": {
+          "he": "אם הדבר ספק כו'. זה דעת הר\"ן דכל שהוא ידוע לנו שבידי שמים דרדף ארי אחריה לפנינו או ששמעה קול רעמים ושחטוה ונמצא ריאה שלה צמוקה א\"צ בדיקה וכשרה דלא כרשב\"א דאף בזה ה\"ל ספק וצריכה בדיקה ומ\"מ גם לדעת הר\"ן צ\"ל דלא שחטוה לשעה קלה מיד אחר שראינו שרדפה ארי כדלעיל דבזה כתב הרשב\"א שא\"א שלשעה מועטת תצמק הריאה ובודאי גם הר\"ן אינו חולק ע\"ז וכן נלפע\"ד להוכיח מן התלמוד כר\"ן דאמאי דאמר רבה בב\"ח אשכח במדבר דיכרי דצמיק ריאה דידהו שאיל בי מדרשא א\"ל שיבדוק במשיכלי חיורי כו' ואילו במתני' דתנן חרותא בידי שמים כשרה לא הוצרך לשום שאלה בבי מדרשא אלא ברור דבמתני' דיש בירור דנעשה בידי שמים א\"צ בדיקה רק בהנהו שנמצאים ולא נודע מה נעשה בהם ורש\"ל הביא ג\"כ הוכחה נכונה דאי ס\"ד דצריכה בדיקה א\"כ הדבר ספק ולמה שנה התנא חרותא בידי שמים בין הכשירות כיון דצריך בדיקה יש בו צד לטריפות ג\"כ ואמאי לא שנאה בין הטריפות תחלה אלא דדעת רמ\"א צ\"ע דכאן פוסק כר\"ן משמע דבודאי בידי שמים א\"צ בדיקה ובסמוך בהג\"ה כתב ואם נראה שבא לה בידי שמים אין להכשיר בלא בדיקה כיון דקי\"ל כר\"ן וכמו שפסק רמ\"א עצמו דבודאי בידי שמים א\"צ בדיקה ולמה נגרע אנחנו דבשלמא במידי דתלוי בבדיקה יש לנו להחמיר כיון שא\"א בקיאין משא\"כ במידי דלא תלוי בבקיאות כמונו כמוהם להכשיר וכן כתב רש\"ל דבמקום שנראה שנעשה בידי שמים ושחטה לאחר זמן אין צריך בדיקה כלל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 36:21"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "בדיקה. עבה\"ט ועיין בתשובת מקום שמואל סי' ט' שהעלה ג\"כ דבזה אנו בקיאין בבדיקה דלא כט\"ז ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 36:1"
+        },
+        "2": {
+          "he": "טריפה. עבה\"ט מ\"ש דהרמ\"א איירי דאיכא שום ריעותא כו' ועי' בתשובת ברית אברהם חיו\"ד סי' ט\"ז אות א' כתב דאם הריעותא הוא מחמת סירכא דוקא אם אינה עוברת ע\"י מיעוך הוי ריעותא ושייך ממ\"נ של הש\"ך אבל אם הסירכא עוברת ע\"י מיעוך והבדיקה היא לחומרא י\"ל שפיר דבנפוחה יותר מדאי אמרינן דלא היתה נפוחה כ\"כ בחייה ודיינינן לה כמו קודם נפיחה אבל מה אעשה דהתב\"ש בסי' ל\"ט החמיר גם בסירכא העוברת ע\"י מיעוך ולא נבדקה בנפיחה לאסור אף דיעבד א\"כ לעולם הוי הך ממ\"נ של הש\"ך דאי הוי כמו נפיחה היא טריפה [ולפמ\"ש לקמן ר\"ס ל\"ט בשם תשובת גבעת שאול להתיר דיעבד בהפ\"מ וכן דעת הפמ\"ג שם דלא כהתב\"ש וגם בתשובת חינוך בית יהודה סימן מ\"ב כתב דיש להקל הדר קם דינא:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 36:2"
+        },
+        "3": {
+          "he": "שלקחה זאב. עיין בתשובת מהר\"מ זיסקינד סימן י\"ד מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 36:3"
+        },
+        "4": {
+          "he": "בזאב. עבה\"ט מ\"ש דכשר אפילו בלא הקפה כו'. ועיין בדגמ\"ר שכתב דמלשון רמ\"א בסוף הסעיף שכתב דלא סמכינן אהקפה להכשיר מדדייק לכתוב להכשיר משמע דאיכא הקפה להטריף א\"כ משמע דלא כהגהת מרדכי. ועיין בתשובת מהרי\"ט ח\"א סי' ל\"ז נשאל על ד\"ז והשיב ג\"כ להיתר דהיכא דאיכא למיתלי תלינן אפילו בלא אידמו וכתב שם דאפי' אם מתחלה אסרוה לפי שהקיפו ולא אידמי ויצא מחזקת כשרות במה שאסרוה מכל מקום כשנודע להם אח\"כ דאיכא למתלי במשמוש או בזאב מכשירים אותה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 36:4"
+        },
+        "5": {
+          "he": "אדום סביב הצלעות. ונ\"ל דצריך לכתחלה בדיקה בצלעות דכל היכא דאפשר לברורי מבררינן וכן בסימן ל\"ט בש\"ך סק\"ל (ובבה\"ט שם ס\"ק כ\"ב) דבסרכא תלויה צריכה בדיקה נגדה בצלעות וכן בסי' ל\"ג סק\"ח ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 36:5"
+        },
+        "6": {
+          "he": "תולעים. עבה\"ט ס\"ק י\"ג [ועיין בתשו' ח\"ס סי' מ\"ד אודות אילים דשכיח מאד במדינתו שהתליע הכבד שלהם וכמה פעמים הביאו לפניו ריאות מאותן אילים וראה בהם כתמים אדומים ונקודות אדומות הרבה ובדקו הריאה בנפיחה ומים והיה מבצבץ ונמצא על הריאות ההמה כמה וכמה תולעים הניכרים שהם מאותן תולעים שבכבד הנ\"ל אם לתלות הני נקבים באותן התולעים והאריך בזה ומסקנתו דאם ימצא נקב במקום נקודה אדומה או כתם אדום אין לתלות בשום דבר וטריפה אמנם אם נמצא נקב במקום מראה ריאה ממש יש להתיר אם יש תולעים על הריאה ג\"כ אע\"פ שניכרים שהם מתולעי הכבד שבאו לכאן ע\"ש ועיין תב\"ש ופמ\"ג]. ועיין בתשובת גבעת שאול סי' פ\"ה שנשאל על בועה בריאה ובתוך הבועה יש תולע מה דינו והשיב דהיכא דליכא נקב בבועה פשוט הוא להיתרא ואין זה תרתי לריעותא אלא אפילו נמצא נקב בבועה והתולע היא מקצתה בנקב ומקצתה חוץ לנקב ג\"כ נראה להתיר אך אם התולע אינו בנקב רק על הריאה יש לפקפק בהיתרא כיון דהרש\"ל והב\"ח אוסרים אף בלא בועה ואף דאנו נוהגין להתיר מ\"מ גבי בועה אפשר לומר דהוי תר\"ל ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 36:6"
+        },
+        "7": {
+          "he": "להכשיר. עבה\"ט ועיין בתשובת ברית אברהם חי\"ד סימן ט\"ז אות ג' כתב בשם יש\"ש פא\"ט סי' נ\"ח דבתערובות יש לסמוך על הקפה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 36:7"
+        },
+        "8": {
+          "he": "להכשיר. עיין בתשובת נו\"ב חלק יו\"ד סי' ה' באמצע התשובה שהביא ראיה לדעת הרמב\"ם שמטריף בכל ענין וכתב שכן נ\"ל להורות למעשה להטריף כל חסרון מבחוץ בין ככ\"ף כפופה בין כ\"ף פשוטה בכל אופן שיהיה יש להטריף ע\"ש וצ\"ע לדינא. [ובתשו' ח\"ס סי' ל\"ה כתב וז\"ל נהי שאין הלכה בזה כהרמב\"ם בחסרון מבפנים מ\"מ לא תהיה סברתו קלה בעיני המורים שאם יצטרפו לזה איזה סברות יש להחמיר אמנם אותן חסרונות קטנים שבפנים הנראים על הריאה כעין נקבים שבפני אדם הרשומים מחולי בלאטרי\"ן פשיטא דאין כאן בית מיחוש אפילו להרמב\"ם כו' ע\"ש]. ועיין מ\"ש לקמן סי' ל\"ח סק\"ב בשם תשובת ג\"ש סי' פ\"ו:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 36:8"
+        },
+        "9": {
+          "he": "ככ\"ף כפופה. עט\"ז וש\"ך ועיין בתשובת גבעת שאול סימן נ\"ט מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 36:9"
+        },
+        "10": {
+          "he": "שנחסר מבשרה מבפנים. עי' בתשו' נו\"ב תניינא חיו\"ד סוס\"י כ\"ג שכתב דאם נמצא סירכא על מקום זה יש להטריף אפי' לא מצד תר\"ל שאפילו אין החלל הזה נחשב לריעותא כלל היא טריפה לא מיבעיא אם הסירכא היתה דבוקה למקום אחר פשיטא שטריפה שזה המיעוך שאנו נוהגין הוא משום שאם היתה סירכא גמורה לא היתה עוברת ע\"י מיעוך וכל זה כשבשר הריאה שתחתיו שלם אבל אם כלה הבשר אין להסירכא במה להתחזק ואינה דבוקה רק בעור לכן היא מתנתקת ע\"י מיעוך אף שהיא סירכא גמורה. אלא אפי' בסירכא תלויה ג\"כ יש להטריף דומיא דסירכא תלויה יוצא מן הבועה בסי' ל\"ז ס\"ב שג\"כ לדעתי הוא הטעם הואיל ותחת הבועה כלה הבשר לכך לא היה להסירכא יניקה וחיזוק מבפנים להתאחז במקום אחר ע\"ש. ולע\"ד דבריו צ\"ע דהרי בסירכא תלויה מבועה של מים זכים כשר לדעת הש\"ך בסי' ל\"ז סק\"ג וכן מבועה מליאה רוח כמבואר שם סק\"ט ואפי' לדעת הט\"ז שם סק\"ג דאוסר במ\"ז. נראה דמודה במליאה רוח וכמ\"ש הפמ\"ג בשפ\"ד שם סק\"ט אלמא דלא חיישינן להאי טעמא רק הא דסירכא תלויה יוצא מבועה דטריפה הוא מטעם תרתי לריעותא. וא\"כ בנ\"ד צ\"ע לדינא אם יש להטריף בכה\"ג אמנם אם היה החסרון ניכר מבחוץ ועליו סירכא תלויה פשיטא דטריפה משום תר\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 36:10"
+        },
+        "11": {
+          "he": "יתר מכאן טריפה. [עיין בה\"ט ועיין בתשובת ח\"ס סי' ל\"ה מ\"ש בזה ושם מסיק דאם החסרון מחזיק רביעית וגם יש קמט הרי זו טריפה אפי' בהפ\"מ ע\"ש היטב]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 36:11"
+        },
+        "12": {
+          "he": "שם הרוח. עבה\"ט בשם עולת יצחק לענין אם נמצא סירכא במקום אטום ועיין בתשובת תפארת צבי חיו\"ד סי' ה' שכתב דזה אינו דאי בדק ולא בצבץ אחר שעברה הסירכא ואח\"כ כשקרע הקרום בצבץ ליכא ממ\"נ וכשר דהא מוכח דתחלה לא היתה נקובה מדלא בצבצה דהא האטום לא עיכב הבצבוץ כשקרע העור. ע\"כ תחלה היה שלם אך יש לקיים דברי הע\"י באם מוגלא בתוכו דתלינן שהאטום היה מחמת מוגלא אז אין הנפיחה ראיה דמה שלא בצבץ היה אטום ע\"ש עוד ודו\"ק:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 36:12"
+        },
+        "13": {
+          "he": "טריפה. עיין בתשובת בית יעקב סי' קכ\"ו שצידד לומר דאינו אלא ספק טריפה דלא כדמשמע מדברי השו\"ע ונפקא מיניה לכמה דברים ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 36:13"
+        },
+        "14": {
+          "he": "צמקה כולה. עבה\"ט ומ\"ש אבל אם צמקה אונא שלימה טריפה עיין בשמ\"ח דאם רוב האונא צמקה רובו ככולו אפי' נשאר בהאי כט\"ד לא מהני כיון דמתחלה לא נבראת כך קטנה ע\"ש וכן הסכים בתשובת ח\"ס סוף סי' ל\"ט ועיין פמ\"ג]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 36:14"
+        },
+        "15": {
+          "he": "מחמת ב\"א. עי' ס' תפארת למשה דע\"י חולי הוי כבידי אדם ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 36:15"
+        },
+        "16": {
+          "he": "ששחטו אחרת לפניה. עיין בתשובת בית אפרים חיו\"ד סי' כ\"ו שכתב שלא נכון מה שהרבה בני אדם באים אל השוחט ואוחזים עופות בידיהם ועומדים סביב בכדי שמיד שיגמור שחיטת עופות של זה יתחיל בשלו ובפרט בערב יו\"כ בשחיטת הכפרות ואין זה נכון כי יש בזה משום צער ב\"ח וגם יש חשש צימוק הריאה ואף שאין להחמיר להצריך בדיקה מ\"מ לכתחלה יש ליזהר בין בעופות בין בבהמות. וכל זה כששוחטים זה אח\"ז מיד שיש קצת קולא מחמת סברת הרשב\"א שלא תצמיק לשעה קלה אז א\"צ בדיקה רק לכתחלה יש ליזהר אך מה שנוהגין כשהשוחט קרוא אצל ב\"ב לשחוט על סעודת חתונה או מילה וקובעים מקום לשחיטתו אצל הכלוב מלא עוף ולוקחים מהם לשחוט ומשאירין בכלוב כמה עופות שאין שחיטתן אלא אחר כמה ימים בזה יש חששא ביותר ואף בדיעבד יש מקום להצריך בדיקה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 36:16"
+        },
+        "17": {
+          "he": "פושרים. עיין פר\"ח בא\"ח סי' תנ\"ט סעיף ה' ובספר בית אפרים על טריפות בקונט' התשובות סימן ך' באורך:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 36:17"
+        },
+        "18": {
+          "he": "קורט דם. עיין בתשובת חוט השני סימן ס\"ט שכתב דקורט דם המוזכר בכל מקום היינו ממשות או דם צרור בעובי הבשר אבל האדים הבשר לחוד אינו מזיק ע\"ש והביאו ג\"כ הפמ\"ג לקמן סוף סי' מ\"ו ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 36:18"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "נהוג.  וכתב בט\"ז דאף לדעה זו אינה טריפה אלא אם שניהם מרוח אחת וכמו שכתב בסימן ל\"ג לענין וושט ומהרש\"ל פסק לקולא כדעת המחבר וכשר כל זמן שאינו מבצבץ ונה\"כ חולק על מהרש\"ל וכתב שהמנהג להטריף:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:1"
+        },
+        "2": {
+          "he": "בדיקה.  (ר\"ל נפיחה ודוקא נגלד כולה אבל ניקב אחד מהם א\"צ בדיקה) ובט\"ז כ' לדידן יש לאסור בזה (והש\"ך ס\"ק ט' כתב דבזה אנו בקיאין בבדיקה וכ\"כ הפר\"ח) ועיין לקמן סי' ל\"ט סעיף ד':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:2"
+        },
+        "3": {
+          "he": "מכה.  פי' קרום התחתון הוי כקרום מחמת מכה וכ' בש\"ך אפילו אותה בועה ממים זכים אפי' הכי טריפה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:3"
+        },
+        "4": {
+          "he": "טריפה.  וכתב בש\"ך דאיירי שנפחוה כדרכה אבל אם נפחוה יותר מדאי כשרה דאמרינן בעודה בחייה לא היתה נפוחה כל כך וכן מעשים בכל יום שמכשירין ובבדיקת הר\"ץ כתב אם נשבר הקרום בנפיחה סביב היובש יובש הוא. וא\"מ ז\"ל פי' דרמ\"א מיירי כאן אף שאינו נשבר סביב היובש טריפה משום דאיירי כאן דאיכא שום ריעותא בריאה כגון מראה וכה\"ג דצריכה לנופחה לראות אם תעלה בנפיחה ונשבר הקרום ואין כאן ריעותא טריפה ממ\"נ אי דיינינן לה כקודם נפיחה טריפה היא ואי כלאחר נפיחה הא נשבר הקרום עכ\"ל וכתב בט\"ז שכל הבודקים מכשירים אם נשבר מחמת הנפיחה דאנו אומרים שהבהמה לא היתה נפוחה כ\"כ בחייה כמו שמנפח הבודק:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:4"
+        },
+        "5": {
+          "he": "טריפה.  דכל סתימה דנקיבת הריאה לא מהני. וכתב בש\"ך ולא דמי לריאה שניקבה ודופן סותם בסימן ל\"ט סעיף י\"ח צריך לומר משום דשם הסתימה היא מתחלת בריית הבהמה אבל הכא הוי סתימה דלאחר הזמן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:5"
+        },
+        "6": {
+          "he": "פושרים.  פי' כחמימת הרוק והכלי בימות החמה צריך שיהיה מחופה באבר ובחורף דווקא דאינו מחופה באבר. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:6"
+        },
+        "7": {
+          "he": "בדיקה.  והטעם איתא בט\"ז כי המים חמין כווצי וכן המים קרים סותמין הנקב ומזה הבאתי ראיה בסימן ע' מ\"ש רמ\"א כשהודח הבשר נסתמו נקבי הפליטה ועיין סי' ע' סעיף ו'. וכתב בש\"ך דמשמע מדברי רמ\"א דאם לא שמוה במים חמין או בקרים יש לה בדיקה אפילו לדידן אע\"ג דגבי צמקה הריאה אין אנו בקיאים בבדיקה שאני התם דצריך שיהא פושרין מעת לעת אלא שצריך עיון דגבי סירכא כסדרן למטה מחציה קיימא לן מאחר שאין אנו בקיאים בבדיקה טריפה מכל שכן הכא ובדיקה זו מוזכר בש\"ס וצריך לומר כיון דמשמעת קול היה מבצבץ הרבה ובזה אנו בקיאים מיהו בספר אגודה כתב דאין אנו בקיאים בבדיקת הריאה דנשמעת הקול. וכן בנגלד קרום העליון משמע לדעת הרמ\"א דכשר אפי' לדידן ע\"י בדיקה דאם איתא דיש נקב כיון שנגלד היה מבצבץ הרבה ובזה אנו בקיאין:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:7"
+        },
+        "8": {
+          "he": "בכח.  פי' דווקא בכח דהיינו במקום דחוק כמו במיצר החזה ודוקא דידעינן בבירור שהטבח העביר שם ידו בכח דאל\"ה לא תלינן ט\"ז ועיין במהרש\"ך ח\"ג סי' ל\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:8"
+        },
+        "9": {
+          "he": "וכשרה.  וכתב הש\"ך וה\"ה כלב וה\"ה עובד כוכבים אם ידוע שנעשה בה נקבים אע\"ג דלא ידעינן אי הוי נקבים מקודם. וכתב בט\"ז אפילו אם נמצא הבועה במקום הנקב ג\"כ כשר וכתב פר\"ח ומסתברא אף אם הקיפו ולא דמו כשרה משום דבועות עשויות להשתנות כדלקמן ס\"ס ל\"ז: והב\"ח כתב דודאי זאב וכלב שדרכן לעשות נקבים אבל עובד כוכבים לא כי למה לעשות לו נקב וכתב בש\"ך דנראה לו דאף לדעה זו דמכשיר בעובד כוכבים לא קאמר אלא כשידוע שנעשה בה נקבים וקמ\"ל דאע\"ג דלא ידעינן אם היו בה נקבים אם לא תלינן הכל בעובד כוכבים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:9"
+        },
+        "10": {
+          "he": "בזאב.  וכתב בש\"ך דכשר אפילו בלא הקפה ואפי' מקיפו ולא דמי כשר. ואמרינן אע\"פ דשניהם נעשו לאחר שחיטה זימנין דלא דמי וכן פסק מהרש\"ל וכתב הפר\"ח אי איתרמי דאקיף ולא דמי טרפה אבל לכתחלה לא בעי הקפה ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:10"
+        },
+        "11": {
+          "he": "עגול.  וכתב בט\"ז דלא תלינן בטבח אא\"כ שיודעים בבירור שהעביר הטבח שם ידו בכח ואע\"ג דגבי זאב אנו מקילין אפילו שלא במקום השינים שאני התם דהא חזינן עכ\"פ נקבים מחמת השינים משא\"כ הכא שיש שני ספיקות לחומרא שמא לא העביר ידו ואת\"ל העביר שמא לא ניקב עכ\"ל. ולא מהני הקפה אפילו במקום שסומכין אהקפה וה\"ה להושחר ואדום. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:11"
+        },
+        "12": {
+          "he": "נעשה.  וכתב בש\"ך דאפילו הקפה לא מהני וכתב בבדיקות קבלה על נקבים אם נמצא נקב אדום ורך סביבותיו אז ודאי נקב חדש ותלינן ביד הטבח אבל אם נמצא הנקב לבן וקשה כעין שומן אז ודאי נעשה קודם שחיטה וטריפה. עוד כ' הש\"ך מ\"ש באדום כבר דחה זה הרמ\"א בד\"מ ואפשר דלא מיירי הר\"ץ באדום ממש רק אדום כמראה הריאה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:12"
+        },
+        "13": {
+          "he": "כשרה.  והטעם משום דבחיי הבהמה א\"א לתולע שינקוב מחמת טרדת הריאה. וכתב הש\"ך בשם מהרש\"ל דהיינו דוקא אם נמצא התולע בתוך הנקב או על הנקב שמוכח שהנקב בא ממנו מזה התולעת וצריך למצוא דוקא תולע בכל נקב ונקב או עליו ולא רחוק מן הנקב והב\"ח הוסיף עליו דבעינן שיהא תולע מקצתה בנקב. ומהר\"ר מאיר מלובלין חולק על כל זה ומסיק להלכה בין נמצא בתוך הנקבים או בחוץ על הריאה יש להכשיר גם אין צריך לדקדק שימצא כל כך הרבה תולעים כמספר הנקבים והא ראיה מדתלינן בזאב אפילו שלא במקום שיניו וכ' עוד בשם הב\"ח דדוקא בריאה אמרינן כן אבל בכרס ודקין כיון דאיתיליד בהו רעותא חיישינן דלמא מבחוץ באו התולעים מחיים אבל הש\"ך חולק עליו וס\"ל דבכל מקום שהנקב פוסל בהם אמרינן כן חוץ מבמוח. וכחב עוד הש\"ך בשם רבי' גרשון דצריך להניח הריאה בשמש עד שיתחמם אם יוצאים יותר כשר ואם לאו טריפה. דמאחר שאין יוצאין א\"כ כבר נתקשה התולע בתוכה מחיים. דאי לאחר שחיטה פריש הוי נמי עתה חוזרת ויוצאת כך הסכמת פוסקים אחרונים ועיין ש\"ך ס\"ק י\"ח ויש להסתפק אם נמצא סירכא בתוך הנקב אי תלינן בתולעים עיין כנה\"ג דף ק\"ב. וכתב בט\"ז שיש לחוש לדבריו כי מסתמא קיבל כן מרבותיו ונראה שזה מיירי שיש נקב בריאה ואין שם תולע רק בתוך הריאה עצמו וכתב בש\"ך הא דלא כתבו הפוסקים בדיקת השמש משום דאינהו מיירי בהדיא שנמצא תולעים על הריאה וא\"כ חזינן שפירשו והלכך כיון דפירשו מקצתן לא איכפת לן באינך דלא פירשו דהרי נראה לעין דהנהו נקבים מתולעים הם כיון דפריש מקצתן וקי\"ל דלאחר שחיטה פירש אבל אם יש בה תולעים ולא פירשו כלל בזה קאמר רבינו גרשון דאם לא יוצאין ע\"י חום השמש טריפה דהא לא קאמרינן בגמרא אלא מורנא לאחר שחיטה פריש משמע דלא כשר אלא כשפריש ולא כשנמצא בתוך הנקב ולא פרשו כלל הלכך מהני בדיקת השמש לקולא דאם יוצאים לחוץ כשירה ובתשובת מהר\"ם מלובלין פסק אפי' בנמצאים תוך הנקב ואין יוצאין כלל ג\"כ כשר ותמיהני עליו דאיך ידחו דברי כל הפוסקים בלא טעם כלל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:13"
+        },
+        "14": {
+          "he": "להכשיר.  וכ' בהש\"ך היכא דיש עוד קצת צד להיתר יש להקל ובכנה\"ג כ' דאין לסמוך אהקפה כלל אפילו למכניף עשרה ולהקיף אין עושין וכ\"כ הפר\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:14"
+        },
+        "15": {
+          "he": "וכשרה.  וכ' בש\"ך דהב\"ח פוסק לאסור בזה ואין דבריו נראין אלא העיקר כדעת המחבר אם ניקב לבשר כשרה וכתב בט\"ז אין להקשות ממ\"ש הרמב\"ם בפרק י\"ד מהלכות שחיטה שאם נמצא בועה בריאה במים סרוחים חיישינן שמא ניקב הסמפון ש\"מ דטריפה בניקב לבשר זה לא קשה דכל שיש סביב נקב הסמפון בועה אין שם בשר בריאה שיגין על נקב הסמפון עכ\"ל. ואם יש קוץ בין נקב לבשר או מחט טריפה דהא המחט אין מניח לבשר שיגן עליו שהוא מפסיק וכן אם יש סמוך לנקב מוגלא טריפה שאין מגין עליו כנה\"ג בשם מהרש\"ק ד' ק\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:15"
+        },
+        "16": {
+          "he": "כקיתון.  וכתב בש\"ך אפילו כולה ולא דמי לנחסר דטריפה אפילו ברביעית כמ\"ש הרמ\"א סעיף ח' דחסר במקום א' גרע טפי מנשפכה כקיתון. רש\"ל וב\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:16"
+        },
+        "17": {
+          "he": "נמוחו.  וכ' בש\"ך דלא חיישי' לנקב הסמפון דהא ליכא בשר להגן משום דאמרינן דאם איתא דניקבו היו נמוחו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:17"
+        },
+        "18": {
+          "he": "כשרה.  וכתב בש\"ך אפי' נראה כן לאחר הנפיחה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:18"
+        },
+        "19": {
+          "he": "כשרה.  וכ' בט\"ז בשם מהרש\"ל שאין מחלק בין כ\"ף כפופה לפשוטה וסבירא ליה כל היכא שעולה בנפיחה כשרה וכתב עוד בט\"ז וזה לשונו ראיתי כתוב למאן דמטריף בכ\"ף כפופה דוקא בשניהם שוין אבל אם עוקץ א' ארוך מחבירו אמרי' כיון דאותו צד התחיל להתרפאות גם צד השני יתרפא וכיון שטריפות זו חומרא בעלמא היא ודאי יש לסמוך על סברות כאלו להכשיר אפילו למאן דמחמיר. ומ\"ש אם החסרון ככ\"ף כפופה פי' בין באמצע הריאה בין בשיפולי דלא כר\"ץ שכ' דוקא בשיפולי וכנה\"ג הביא כמה פוסקים יש כותבים דוקא בשיפולי. ודמש\"א דף ק\"ט כ' דוקא באומות טריפה כמין כ\"ף כפופה אבל באונות דנין אותו חסר כיותרת העומדת בדרי דאונא דכשירה עיין כנה\"ג דף ק' וק\"י. ואם בועה עומדת על הקמט הוי לקותא בתר לקותא וטריפה לכ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:19"
+        },
+        "20": {
+          "he": "טריפה.  ובט\"ז חולק ע\"ז ופוסק דאף ביתר מרביעית נמי כשר וכ' שכן מצא ברשב\"א מפורש ובעל נ\"ה חולק ע\"ז ופסק דחלילה להקל נגד האחרונים באיסור דאורייתא:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:20"
+        },
+        "21": {
+          "he": "כל שהוא.  פי' שמשמושה קשה ומראיתה כמראית ריאה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:21"
+        },
+        "22": {
+          "he": "הרוח.  וכ' בש\"ך וה\"ה לדם עכור או בשר נרקב נמי כשר והטעם משום דאמרי' דבחיי הבהמה אפשר דהליחה או הדם היה יוצאת. ומ\"ש המחבר ואם לאו טריפה. כ' בהגהת מהרי\"ו אם חוט אדום נמשך מעט במקום האטום אז ודאי אטום הוא וא\"צ בדיקה אחרת וטריפה אבל אם בחוט לבן אז צריך לנקוב החוט ע\"כ. ופר\"ח כ' ואני אומר דליכא פסידא בדבר ולבדוק בכל גווני דאי מבצבצא כשרה. ואם נמצא סירכא במקום אטום שהי' גרוע מסירכא היוצא מן הבועה אין לה בדיקה להכשירה ממ\"נ אי מבצבץ א\"כ יש נקב בריאה דהא סירכא כשהיא מבצבץ טריפ' ואם אינו מבצבץ א\"כ היא אטום וטריפה עכ\"ל ע\"י. וע' כנה\"ג דק\"ג שנוטה להכשיר אטום בריאה ומכה בדופן וסירכא ממקום אטום למכה תלינן שהסירכה באה מן המכה ובודקין האטום אי בצבץ כשרה ונראה שדין זה אפילו נמצא מוגלא במקום האטום. כנה\"ג דף ק\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:22"
+        },
+        "23": {
+          "he": "להכשיר.  וכ' בט\"ז דגם מכאן משמע דבמקום אטום יש לחתוך במקום אטום בעצמו שהרי גם כאן נחתכה הריאה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:23"
+        },
+        "24": {
+          "he": "קלה כעץ.  פי' כעץ נרקב ובט\"ז כ' שאין לטריפות זו שום סמך מהש\"ס. ובנ\"ה חולק עליו וכ' פר\"ח הא דנקט המחבר בסעיף י\"א ותפול חתיכות כו' ה\"ה אם לא תפול אם הגיע ללקותא שרופא גורדו ומעמידו על בשר חי הוי טריפה. מעשה שהביאו ריאה לפני ר\"מ משנפחה נפלו ממנה חתיכות ולא יצא הרוח וצוה לנפוח בחוזק עד שנפל כל בשר הריאה וראה שהיה בפנים הריאה קרום חדש על הריאה ר\"ל על הסמפונות והכשיר ויש לסמוך ע\"ז עכ\"ל הפר\"ח. גם מ\"ש בסעיף י\"ג בהגהה ואם משרטט בצפורן כ' ה\"ה דאם נשבר הקרום מחמת נפיחה במקום שהיה יבשה א\"צ בדיקה אחרת וטריפה. אחרונים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:24"
+        },
+        "25": {
+          "he": "כולה.  צמקה אינה נפרכת בצפורן כמו יבשה דסעיף הקודם דהתם אפי' מקצתו ובצמקה דוקא כולו. וכ' בש\"ך בשם מהרש\"ל דה\"ה רובה דינו ככולה אבל מקצתה כשרה אבל אם צמקה אונה שלימה טריפה דהוה נחסרה אונה אחת ולא דמי לריאה דשרי משום דחסרון בריאה אינו פוסל כשהיא שלימה מבחוץ משא\"כ באונות אך כ' שיש להכשיר בבדיקה דמניחין אותם במים וכ' בש\"ך שיש לסמוך אבדיקה אפילו בזמן הזה עכ\"ל ש\"ך וט\"ז וכנה\"ג דף קי\"ב ומ\"ש כאן גבי שאגת אריה דכשירה הוא דעת כנה\"ג. ופר\"ח כ' דבשאגת אריה טרפה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:25"
+        },
+        "26": {
+          "he": "בדיקתנו.  אי חזינן שצמקה ע\"י חולי כשרה ולא בעי בדיקה פר\"ח וצריך לדעת היכא דבעי בדיקה הריאה לעולם טריפה באשר ששהה כ\"ד שעות במים. ולענין הכלי עיין סי' ס\"ט שג\"כ טריפה אלא דמותר לשרות בו עוד ע\"ש. ובט\"ז חולק על זה ופוסק במקום שנראה שבא לה בידי אדם כגון שראינו דרדף ארי אחריה או ששמעה קול רעמים ושחטה ונמצא ריאה שלה צמוקה כשירה בלא בדיקה (אבל ידוע שבא לה בידי אדם כגון ששחט אחרת לפניה לא מהני בדיקה וכן כשידוע שבא לה מן השמים א\"צ בדיקה. ומ\"מ צ\"ל דלא שחטו לשעה קלה מיד אחר שראינוה שרדפה ארי דא\"א דלשעה מועטת תצמק הריאה ט\"ז. וה\"ה אם ראינו שנבעתה בידי אדם ושחטוה מיד דלא הוי טריפה דלשעה קלה לא צמקה רש\"י וכנה\"ג כ' ודאי אם רדף אחריה ארי או היכא שפחדוה בני אדם הבעתותא כ\"כ חזק אפי' לשעה קלה יוכל לצמקה הריאה רק כששמעה קול אריה יוכל להיות שא\"א שתצמק לשעה קלה וצ\"ע ע\"ש דף קי\"א. ומ\"ש דבזמן הקור מושיבים אותן בפושרין וכו' והמים צריכין להיות פושרין כל מע\"ל) ודעת רמ\"א צ\"ע דכאן פוסק אף בידי שמים צריך בדיקה ולעיל כתב דוקא אם הדבר ספק משמע בוודאי בידי שמים א\"צ ובנ\"ה מתרץ דברי רמ\"א דמ\"ש אם הדבר ספק להורות דאפי' בספק לא מהני בדיקה לדידן. וכ' בש\"ך מיהו ודאי היכא דבדקה ולא חזרה לברייתה לכ\"ע טריפה דמוכחא מילתא דמקודם לכך הפחידוה גם בידי אדם וכן היכא שאין רגלים לדבר שבא בד\"א תלינן ברוב וסמכי' על בדיק' זו שהרי חזרה לברייתה וכ\"ד אחרונים ש\"ך ופר\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:26"
+        },
+        "27": {
+          "he": "שלימה.  והב\"ח כ' דדוקא אם נמצא קורט דם אבל בלא\"ה אפי' ניקב לחוץ כשרה והש\"ך חולק עליו בזה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:27"
+        },
+        "28": {
+          "he": "נפיחה.  ומהרש\"ל חולק על זה ופוסק כהמחבר וכ' בש\"ך דנראה לו להכריע דהיכא דנפחוה ולא הרגישו עדיין במחט רק אח\"כ בחתיכה אז יש לנהוג כדברי הרמ\"א אבל היכא שהרגישו המחט במשמוש היד אז נראה דמהני בדיקה. (כ' ע\"י אם נמצא המחט מונחת ע\"ג הריאה על אונא ארוכה ועבה יש להטריף ממ\"נ אם בא מבטן נקבו בני מעיים אי בא דרך הריאה וניקבה הריאה פשיטא דטריפה):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:28"
+        },
+        "29": {
+          "he": "להכשיר. וכתב בש\"ך אבל אם היא שלימה צריך לנפחה כמו בסי' ל\"ט דבכ\"מ דאיכא ריעותא לפנינו צריך לנפחה (ופר\"ח חולק ע\"ז וכ' דאין צריך לנפחה אפי' כשהיא שלימה קמן. אבל בכנה\"ג מסיק דריאה וסימפונא דין א' להם בשלימה כשרה בבדיקה ובחתוכה טריפה. ועכשיו בזמן הזה דלא דיינינן דין שלימה בין נמצא בריאה ובין בסמפונא רבה דריאה טריפה ע\"ש דף קי\"ג):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 36:29"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

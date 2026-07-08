@@ -1,0 +1,168 @@
+{
+  "chelek": "OC",
+  "siman": 222,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 4,
+  "fetchedAt": "2026-07-07T23:49:21.085Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "ברכת הודאת הטוב והרע. ובו ד סעיפים:על שמועות שהם טובות לו לבדו מברך שהחיינו ואם הן טובות לו ולאחרים מברך הטוב והמטיב:",
+      "en": "On news that are good for him, he makes the blessing of \"Shehecheyanu\"; If the news is good for him and for others, he makes the blessing of \"Hatov VehaMaytiv\".",
+      "ref": "Shulchan Arukh, Orach Chayim 222:1"
+    },
+    {
+      "seif": 2,
+      "he": "על שמועות רעות מברך בא\"י אמ\"ה דיין האמת:",
+      "en": "On bad news he makes the blessing: Blessed are you Hashem, Our G-d, Master of the Universe, the judge of truth.”",
+      "ref": "Shulchan Arukh, Orach Chayim 222:2"
+    },
+    {
+      "seif": 3,
+      "he": "חייב אדם לברך על הרעה בדעת שלימה ובנפש חפצה כדרך שמברך על הטובה כי הרעה לעובדי השם הוא שמחתם וטובתם כיון שמקבל מאהבה מה שגזר עליו השם נמצא שבקבלת רעה זו הוא עובד את השם שהוא שמחה לו:",
+      "en": "A person is obligated to bless on the bad with a full mind and wanting soul, in the way that he blesses happily on the good, because the bad, for servants of G-d, is their happiness and goodness. Since he/she has accepted out of love what G-d has decreed, he/she finds that by accepting this bad, he/she is serving G-d which bring him happiness.",
+      "ref": "Shulchan Arukh, Orach Chayim 222:3"
+    },
+    {
+      "seif": 4,
+      "he": "מברך על הטובה הטוב והמטיב אע\"פ שירא שמא יבא לו רעה ממנו כגון שמצא מציאה וירא שמא ישמע למלך ויקח כל אשר לו וכן מברך על הרעה ברוך דיין האמת אע\"פ שיבא לו טובה ממנו כגון שבא לו שטף על שדהו אף ע\"פ שכשיעבור השטף היא טובה לו שהשקה שדהו:",
+      "en": "He blesses on the good: “Hatov Vemaytiv” even though he is fearful that bad might come from Him. For example: He found a “prize” and he is fearful that it may become known to the king and the king will take all that he has. He blesses on the bad: “Blessed Judge of Truth”, even though good will come from Him. For Example: a flood has washed away his field even though when the flood passes, it will be good for him, as the field has been watered.",
+      "ref": "Shulchan Arukh, Orach Chayim 222:4"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברכות נ\"ד ונ\"ט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 222:1"
+        },
+        "2": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 222:2"
+        },
+        "3": {
+          "he": "שם נ\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 222:3"
+        },
+        "4": {
+          "he": "טור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 222:4"
+        },
+        "5": {
+          "he": "שם נ\"ד וס'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 222:5"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "על עמ״א אפשר מסתם בני אדם לא דוקא מוחזק בכשרות אע״ג לנאמן באיסורים מהימן כ״א עי״ד סי׳ ח׳ וס״ה וקכ״ז. מ״ש אשה עשירה כו׳ היום כמדומה ממעטין בברכות אלו עסי׳ רכ״ג מ״ש המחבר שמועות טובות שהחיינו אינו בגמ׳ מפורש וברייתא קצרו של דבר (נ״ט ב׳) י״ל בראה ועב״ח כאן ובמ״א רכ״א א׳ ומיהו אנו אין לנו אלא פסק המחבר דאף שמע מברך שהחיינו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 222:1"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] [לבוש] שחייב אדם וכו'. אין זה טעם על שמברכין בשמועות רעות דלמה דוקא על הרעות שרואה, אבל מצאתי בר' דוד אבודרהם טעם על שמועות טובות שכיון שנאמר תשמיעני ששון ושמחה תגילנה עצמות דכית ומשבח אותו הכתוב יש לנו להודות עליהן שם, ובשמועות רעות כיון שנאמר ושמועה רעה תיבש גרם ומגנה אותה הכתוב יש לנו להצדיק עליו את הדין. כתב בספר חסידים סימן שפ\"ב אם מחמת עניותו הוצרך לקחת אשה עשירה שלא בחפצו מברך הטוב והמטיב וברוך דיין אמת. כתב במטה משה בכל השמועות אם אין המגיד נאמן או המגיד לא ראה דבר לא יברך כלל, וכן ראובן שגזלו ממנו ושמע מנאמן שנתפס הגזלן וישיב לו הכל אל יברך עד שישיב לו הגזילה, ומעשה דעבד אברהם אנבואת אברהם סמך. כתב ר' דוד אבודרהם על עשב בקמה ונקיבה בבניו אין לו לברך דיין האמת כי לא נהפכו החיטים לעשבים, והבן לא נהפך לנקיבה שאם לא רצה הבורא לתת לו הכל חיטים והכל זכרים אין לו לברך על מה שלא נתן לו הבורא כי אם על מה שנתן לו ונתקלקל או אבד:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 222:1"
+        },
+        "2": {
+          "he": "[ב] בשמחה וכו'. שיחשוב כי הכל כפרת עוונותיו, תוספות הרבינו יונה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 222:2"
+        },
+        "3": {
+          "he": "[ג] [לבוש] דכתיב חסד וכו'. במשנה פרק הרואה מבואר דנלמד נמי מקרא דואהבת דלעיל שיהא בשמחה, ובאמת צריך יישוב בש\"ס [ברכות] דף ס' דקאמר מאי קרא הא במתניתין כבר למדו ויש לחלק:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 222:3"
+        },
+        "4": {
+          "he": "[ד] אף על פי שירא וכו'. הטעם בפירוש המשנה להרמב\"ם לפי שעתידות ההם אפשר או שלא יהיו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 222:4"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "על שמועות. ודוקא ששמע מפי אדם נאמן שראה הדבר (מט\"מ בשם ס\"ח), מי שהוכרח מחמת עניותו לקחת אשה עשיר' שלא בחפצו מברך הטוב והמטיב ודיין האמת (ס\"ח סימן שפ\"ב תתס\"ד תתמ\"ה):",
+          "en": "",
+          "ref": "Magen Avraham 222:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "שמועות.  נקט שמועות לשון רבים לאשמועינן שאם באו לו הרבה בבת אחת די בברכה אחת. הלק\"ט ח\"א סי' קצ\"ט. אם שמע שמועה שצריך לברך עליו הטוב והמטיב או שהחיינו או דיין האמת ואין המגיד נאמן או שלא ראה הדבר לא יברך וכן אם שמע שנתפס הגזלן לא יברך עד שישיב לו הגזילה ס\"ח מט\"מ. מי שהוכרח מחמת עניותו לקחת אשה עשירה שלא בחפצו מברך הטוב והמטיב ודיין האמת. ס\"ח מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 222:1"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) על וכו' - ודוקא כששמע מפי אדם נאמן וזה האדם ראה בעצמו אבל אם שמע שמועה [בין שמועה טובה שצריך לברך עליה הטוב והמטיב או שהחיינו בין שמועה רעה שצריך לברך עליה דיין האמת] ואין המגיד נאמן או שהמגיד לא ראה בעצמו לא יברך וכן אם שמע שנתפס הגזלן שגזל ממנו לא יברך עד שישיב לו הגזלה. מי שהוכרח מחמת עניותו לקחת אשה עשירה שלא בחפצו מברך הטוב והמטיב ודיין האמת [מ\"א בשם ס\"ח] וכמדומה שכהיום ממעטין בברכות אלו [פמ\"ג] גם בספר מור וקציעה מפקפק בזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 222:1"
+        },
+        "2": {
+          "he": "(ב) שמועות - נקט בלשון רבים להורות שאם שמע כמה שמועות בבת אחת די לו בברכה אחת:",
+          "en": "",
+          "ref": "Mishnah Berurah 222:2"
+        },
+        "3": {
+          "he": "(ג) מברך שהחיינו - היינו כשיש לו שמחה מהשמועה וכן להיפוך בדיין האמת כשיש לו צער מהשמועה:",
+          "en": "",
+          "ref": "Mishnah Berurah 222:3"
+        },
+        "4": {
+          "he": "(ד) כדרך שמברך וכו' - כי באמת כל היסורין בין בגוף ובין בממון הוא הכל כפרה על העונות כדי שלא יצטרך להתיסר לע\"ל ששם העונש הוא הרבה יותר גדול וכדאיתא במדרש יצחק תבע יסורין [היינו שהוא הכיר גודל מדת הדין שלעתיד וכעין זה אמר ג\"כ דהע\"ה סמר מפחדך בשרי וממשפטיך יראתי ותבע בעצמו יסורין כדי שינקה מכל וכל ולא יצטרך לפחוד עוד] א\"ל הקב\"ה חייך דבר טוב אתה מבקש וממך אני מתחיל שנאמר ויהי כי זקן יצחק ותכהין עיניו מראות:",
+          "en": "",
+          "ref": "Mishnah Berurah 222:4"
+        },
+        "5": {
+          "he": "(ה) אע\"פ שירא וכו' - כי אין לנו להסתכל בעתיד שאפשר שלא יהיה כן [רמב\"ם בפי' המשנה]:",
+          "en": "",
+          "ref": "Mishnah Berurah 222:5"
+        },
+        "6": {
+          "he": "(ו) כגון שמצא מציאה - וירא שיעלילו עליו ויקחו את אשר לו ומיירי שיש לו אנשי בית שיש בזה טובה גם להם ושייך ברכת הטוב והמטיב דאל\"ה יש לו לברך רק שהחיינו:",
+          "en": "",
+          "ref": "Mishnah Berurah 222:6"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

@@ -1,0 +1,198 @@
+{
+  "chelek": "OC",
+  "siman": 23,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 4,
+  "fetchedAt": "2026-07-07T23:36:32.351Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני ציצית בבית הקברות. ובו ד סעיפים:מותר לכנס בבית הקברות והוא לבוש ציצית והוא שלא יהא נגרר על הקברות אבל אם הוא נגרר על הקברות אסור משום לועג לרש במה דברים אמורים בימיהם שהיו מטילים ציצית במלבוש שלובשים לצורך עצמם אבל אנו שאין אנו מכוונים בהם אלא לשם מצוה אסור אפילו אינם נגררים וה\"מ כשהציציות מגולי' אבל אם הם מכסים מותר:",
+      "en": "It is permitted to enter a cemetery while wearing tzitzit as long as the fringes do not drag on the graves. But if the fringes drag on the graves it is forbidden as an example of \"mocking the poor.\" The conditional prohibition (only if the fringes are dragging on the graves) applied in their (Talmudic) times, when they placed fringes on their daily garments, but for we who wear fringed garments only for the sake of fulfilling the mitzvah (of tzitzit), it is forbidden even if the fringes do not drag on the graves. However, it is forbidden only if the fringes are visible, but if they are covered, it is permitted.",
+      "ref": "Shulchan Arukh, Orach Chayim 23:1"
+    },
+    {
+      "seif": 2,
+      "he": "יש נוהגים לקשור ב' ציציות שבשני כנפים זה עם זה כשנכנסים לבי' הקברו' ולא הועילו כלום בתקנתן:",
+      "en": "There are those with the custom to tie two tzitzit on two corners together when they enter a cemetery and there is no purpose in doing so.",
+      "ref": "Shulchan Arukh, Orach Chayim 23:2"
+    },
+    {
+      "seif": 3,
+      "he": "הנכנס תוך ד' אמות של מת או של קבר דינו כנכנס לבית הקברות:",
+      "en": "The laws of one who goes within four cubits of a corpse or of a grave are the same as those for one who enters a cemetery.",
+      "ref": "Shulchan Arukh, Orach Chayim 23:3"
+    },
+    {
+      "seif": 4,
+      "he": "במקום שנוהגים להסיר ציצית מטלית המת בבית אם הכתפים לובשים ציצית איכא למיחש בהו משום לועג לרש:",
+      "en": "In those places where it is the custom to remove the tzitzit from a dead person's tallit in the home, if the pallbearers wear tzitzit there is reason to suspect transgression of \"mocking the poor.\"",
+      "ref": "Shulchan Arukh, Orach Chayim 23:4"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברכות י\"ח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 23:1"
+        },
+        "2": {
+          "he": "ר' יונה שם והרא\"ש בשמו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 23:2"
+        },
+        "3": {
+          "he": "ב\"י ותשובת הרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 23:3"
+        },
+        "4": {
+          "he": "ב\"י מההיא דמנחות ל\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 23:4"
+        },
+        "5": {
+          "he": "ב\"י מההיא דברכות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 23:5"
+        },
+        "6": {
+          "he": "הרא\"ש בהל' ציצית",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 23:6"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "ולא הועילו עמ״א הלבוש הביא ראיה מתרכ״ו ס״ג דאם היה גג שיש בו צירים שסוגר ופותח אם סיכך בעוד נעול יש מחמירין אע״ג בס״ב שם תחת הגג מחובר והסיר שרי דשם מעשה גמור כמ״ש המ״א אות ז׳ משא״כ פתיחה לא הוי כ״כ מעשה ואפ״ה כשהניח היה פתוח ונסגר שרי אח״כ אע״ג דנפסל לא הוי תולמ״ה אע״ג דפתיחה אין מעשה להכשירו הואיל ותחלה נעשה בהכשר ה״ה די״ל כאן הואיל ותחלה בהכשר ואע״ג די״ל שם אין הפסול בגופו מ״מ אין מוכרח כתב הלבוש יע״ש. וע׳ סי׳ י׳ ס״ו בב׳ קיימות פסולים ובנקצץ א׳ מהן כשר הואיל דלא נפסלו בגופן ועיין סי׳ ט״ו שם הארכנו מדיני תולמ״ה יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 23:1"
+        },
+        "2": {
+          "he": "שנוהגין עמ״א שיש לחלק בין שעה שנושאין אותו ובין הולך לקברות עם ציצית והנה בטלית גדול המיוחד לתפלה אף ציצית מכוסים ג״כ אסור משום לועג לרש עב״י. אפי׳ קבר קטן יש לועג לרש שמא נשמת אדם גדול הוא א״ר ג׳ בשם מהרי״ט צהלון ז״ל ומשמע קבר אשה דבחייה ג״כ פטורה ליכא לועג לרש ולחוש לגלגול זכר כולי האי לא חיישינן. הא דכתב הש״ע לתוך ד״א של מת כו׳ היינו לדידן במגולים אסור תוך ד״א כו׳ וה״ה שלא יהא ננררין על הארץ נמי תוך ד״א אסור ול״ד על הקברים ועיין סימן מ״ה בט״ז ומ״ה ושם יבואר אי״ה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 23:2"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] עצמם וכו'. אפילו שלא לצורך מצוה לבוש וזהו פירוש הרבינו יונה, וביורה דעה כתב לשון הטור והרא\"ש:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 23:1"
+        },
+        "2": {
+          "he": "[ב] ולא הועילו וכו'. עיין בלבוש מה שהקשה על בית יוסף ובאליהו זוטא ישבתי על נכון עיין שם. שוב ראיתי שגם מלבושי יום טוב הסכים לדברי בית יוסף וזה לשונו, ואם זה אינו מוכרח הרי כבר הכריח מצד אחר דקשירה אינה מבטלת מהא דסימן י' סעיף ג', כמו שהתחיל הלבוש, וכבר דחה דלא דמי לתלאן וכו', וגם הכריח שאם כן נמצא שלובשין בגד שיש בו ד' כנפות בלי ציצית, ובזה גם כן חילק יפה בין ציצית לסוכה, עד כאן לשונו. כתב במרדכי הלכות ציצית בשם ר\"י זה לשונו, כי שכיבנא אצוה את בני לקשור הציצית בכנפי הבגד שיהו מזומנים לעתיד להתיר הבגד הקשור והרי הן תלויין ממילא ואין זה מן העשוי, עד כאן לשונו. ופירש הב\"ח ביורה דעה סימן שנ\"א דרצה לומר שיקשור שני הציצית שבשני כנפות זה לזה, עד כאן, משמע מזה דפסול בקשירה, וקשה על בית יוסף ולבוש. ואולי שאני התם דאין עומדין להתיר כל זמן שאינם חיים, ומכל מקום הא כתבו ואין זה מן העשוי, וצריך עיון, גם מגן אברהם לא ירד לכל זה. כתב הב\"ח שם, טוב לקושרן במת זה לזה או לכסותן תחת הכנפות, עד כאן. משמע דהחי יתן אל לבו שלא לעשות כן, מיהו יש לדחוק מדברי סמ\"ק שכתב שם דאז לא הוי לועג לרש, ממה נפשך אם חייבים הרי יש להם, ואם לאו הרי הם מכוסים, עד כאן לשונו ודו\"ק, ועיין לעיל סימן ח' במגן אברהם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 23:2"
+        },
+        "3": {
+          "he": "[ג] תוך ארבע אמות וכו'. משמע בבית יוסף דבבית הקברות נמי מותר חוץ לד' אמות וכן כתב הב\"ח סימן מ\"ה וע\"א, והא דנקטו במת רבותא קא משמע לן דאף שהוא בגלוי נמי מותר חוץ לד' אמות, כן כתבו עולת תמיד ונחלת צבי ושיירי כנסת הגדולה, אבל הט\"ז לקמן סימן מ\"ה כתב דבבית הקברות אפילו חוץ לד' אמות אסור, ומגן אברהם שם החמיר וכתב זה לשונו, אפילו תוך ארבע אמות של בית הקברות אסור, עד כאן. ובאמת שכן משמע ביורה דעה סימן רפ\"ב ובטור שם, ורמב\"ם פרק י' דספר תורה, ומיהו ביורה דעה סימן שס\"ז ולקמן סימן מ\"ה וע\"א משמע כט\"ז, וביורה דעה סימן שמ\"ג יש קצת ראיה לסברא ראשונה דפסק רמ\"א דמותר לשאול בשלום בבית הקברות חוץ לארבע אמות מן הקבר, עיין שם וצריך עיון, וביורה דעה סימן שס\"ז נתבארו דינים אלו. כתב בית יוסף ביורה דעה סימן רפ\"ב דאסור ליקח ספר תורה בזרוע בבית הקברות אף שהוא במטפחת ואין קורא בו. כתב בסוף ספר תשובת ר' יום טוב צהלון דאפילו אין שם אלא קבר קטן שייך לועג לרש דשמא הוא נשמה של אדם גדול:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 23:3"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "ולא הועילו. דאע\"פ שקושרין אותן לא נתבטל מצות ציצית כמ\"ש סי' י' ועוד לפי דעתם שסוברים שנתבטלו הציצית בקשירתן א\"כ כשחוזרין ומתירים אותם ה\"ל תולמ\"ה [ב\"י] והלבוש כ' דלית בזה משום תולמ\"ה כמ\"ש סס\"י תרכ\"ו דאם מסיר הגג שעל הסוכה לא הוי תולמ\"ה ע\"ש ול\"נ דל\"ד דהתם אין הפסול בגוף הסוכה רק בד\"א המונעו לכן כשמסירו כשר אבל הכא הפסול בגופו וכ\"מ סי' י' ס\"ו ע\"ש ובב\"י וע' סוכה דף דף ל\"ג, ובתו' ברכות דף י\"ח כתבו וז\"ל טלית של מתים יש לקשרם ולהדקם תוך הכנף אם הם חייבים בציצית הרי יש להם ציצית ואם לאו הרי הם מכוסין עכ\"ל משמע דאע\"פ שהם קשורים לא נתבטל מצות ציצית ואפשר דכשקושר ב' זה בזה שאני:",
+          "en": "",
+          "ref": "Magen Avraham 23:1"
+        },
+        "2": {
+          "he": "שנוהגין. משמע במקום שאין נוהגין להסירם אין קפידא אם הכתפים לובשים ציצית וצ\"ע דהרי בי\"ד סימן שנ\"א כתב שמשימין ציצית בטלית של מתים ואפ\"ה פסק כאן דאסור ליכנס לב\"ה או לד\"א של מת בציצית והיינו כסברא הראשונה שכתב הרא\"ש ולמה כתב כאן בהיפוך ויש לחלק אבל אין עיקר בפוסקים וצ\"ע:",
+          "en": "",
+          "ref": "Magen Avraham 23:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "מותר.  פירוש שלבש את הציצית תחת הבגד והוא הדין בתפילין נמי מותר לילך בבית הקברות אם מכסה אותן ע\"ת. ועיין תשובת בית יעקב סימן צ\"ב. ובספר גור אריה על הרא\"ם פרשת ויצא:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 23:1"
+        },
+        "2": {
+          "he": "בתקנתן.  דלפי דעתם שסוברים שנתבטלו הציצית בקשירתן א\"כ כשחוזרין ומתירין אותן ה\"ל תעשה ולמ\"ה. עיין מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 23:2"
+        },
+        "3": {
+          "he": "לועג לרש.  היינו אם הציצית מגולין כדלעיל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 23:3"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) לועג לרש - שנראה כמחרף שאינם יכולים לקיים את המצות:",
+          "en": "\"Mocking the poor\" - For it appears as if he is shaming [the dead], for they are not able to fulfill the Mitzvot.",
+          "ref": "Mishnah Berurah 23:1"
+        },
+        "2": {
+          "he": "(ב) לצורך עצמם - שהיה אז מנהג בגדיהם עשויים בני ד' כנפות:",
+          "en": "That were needed for them - For [back] then the custom was that their clothing were [all] made with four corners.",
+          "ref": "Mishnah Berurah 23:2"
+        },
+        "3": {
+          "he": "(ג) הם מכוסים - כגון שמחביא את הציצית של הט\"ג תחת כנפי כסותו ומה\"ט גם בט\"ק שלובשו תחת למדיו אין בו משום לועג לרש כיון שהוא מכוסה אם לא שהולך בלי לבוש העליון גם בהם אסור עד שיתחבם בהכנפות [ומפמ\"ג משמע דיש להחמיר בט\"ג אף מכוסה כיון שהוא מיוחד לתפלה אכן בב\"י לא משמע כן וגם בדה\"ח סתם וכתב דמכוסה מותר]:",
+          "en": "Covered up - For example, if he hid (ie. tucked in) the ציצית of his Tallit Gadol under the edges of his garment.  And for the same reason, also the Tallit Kattan that he wears underneath, it does not have the [prohibition] of \"mocking the poor\" since it's covered up... unless he is walking without his outermost garment [in which case] that too would be prohibited until he hides/tucks them under his garment.  [And from the Pri Megadim it seems that one should be strict with a Tallit Gadol even if it's covered up since it's designated [to be used only] for prayers.  However, in the Beit Yosef it does not seem that way.  And in Derech Hachaim(?) [he was] closed/silent (ie. he did not comment on this point) and [simply] wrote that if it's covered then it is permitted].",
+          "ref": "Mishnah Berurah 23:3"
+        },
+        "4": {
+          "he": "(ד) בתקנתן - דאע\"פ שקושרים זה על זה לא נתבטל מצות ציצית עי\"ז דהא לאו קשר של קיימא הוא דדעתו להתיר את הקשר מיד בצאתו מבה\"ק וכעין שכתב בסימן י' ס\"ג ועוד לפי דעתם שסוברים שנתבטלו הציצית בקשירתן א\"כ לובשין בגד בלי ציצית:",
+          "en": "By doing this - For even though they tie one to the other, it does not nullify the מצוה of ציצית by doing so.  For it is not [considered] a permanent knot since he has in mind to remove the know once he exits the cemetery.  And this is similar to what he (ie. the Shulchan Aruch) wrote in Siman 10, Se'if 3.  And furthermore, according to their logic that they hold that the ציצית are nullified by tying them... if that is true, then they are wearing a garment without ציצית.",
+          "ref": "Mishnah Berurah 23:4"
+        },
+        "5": {
+          "he": "(ה) של קבר - ואפילו בקבר של קטן יש להחמיר משום לועג לרש דשמא נשמת אדם גדול הוא אבל בקבר אשה דבחייה ג\"כ פטורה ליכא משום לועג לרש:",
+          "en": "Or a grave - And even [regarding] a grave of a child one should be stringent because of \"mocking the poor\".  For maybe the [soul of this child] is the soul of a great man.  But [regarding] a woman's grave, who even in her lifetime was exempt [from ציצית], there is no [concern for] \"mocking the poor\".",
+          "ref": "Mishnah Berurah 23:5"
+        },
+        "6": {
+          "he": "(ו) דינו כנכנס לבה\"ק - עיין לקמן בסימן מ\"ה במ\"ב:",
+          "en": "The same law applies [to him] as one entering a cemetery - See later in Siman 45 in Mishnah Berurah.",
+          "ref": "Mishnah Berurah 23:6"
+        },
+        "7": {
+          "he": "(ז) במקום שנוהגים וכו' - והאחרונים הסכימו דאפילו במקום שאין נוהגים להסיר ג\"כ איכא משום לועג לרש הואיל שהמתים פטורים מן המצות:",
+          "en": "In a place that has the practice etc. - And the אחרונים (ie. later commentators) agree that even in a place that does not have the practice to remove [the ציצית from the garment of the dead], there too there is [a concern for] \"mocking the poor\" since the dead are exempt from doing מצות.",
+          "ref": "Mishnah Berurah 23:7"
+        },
+        "8": {
+          "he": "(ח) לועג לרש - היינו אם הציצית מגולין כדלעיל:",
+          "en": "\"Mocking the poor\" - This is if the ציצית are exposed as [was explained] previously.",
+          "ref": "Mishnah Berurah 23:8"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

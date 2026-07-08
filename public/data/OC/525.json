@@ -1,0 +1,138 @@
+{
+  "chelek": "OC",
+  "siman": 525,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-07T23:49:31.742Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין הלואה ביום טוב. ובו ב סעיפים:הלואת י\"ט ניתנה ליתבע בדין (וע\"ל סי' ש\"ז סעיף י\"א):",
+      "en": "1. The Law of Lending on a holiday, 2 Seifim: A loan made on a holiday can be claimed (and see above chapter 307 paragraph 11).",
+      "ref": "Shulchan Arukh, Orach Chayim 525:1"
+    },
+    {
+      "seif": 2,
+      "he": "גבאי צדקה גובין מהחצרות בי\"ט אבל לא יכריזו כדרך שמכריזין בחול אלא גובין בצנעה ונותנים לתוך חיקם ומחלקים לכל שכונה ושכונה בפני עצמה:",
+      "en": "2.  The charity collectors may collect from the yards on a holiday, but they should not make announcements as are made during the week. Rather, they should collect quietly, put it in their bag, and distribute it to each neighborhood individually.",
+      "ref": "Shulchan Arukh, Orach Chayim 525:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "גמרא שבת קמ\"א כרבא טור בשם התוספות וכן פסק רמב\"ם בפ\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 525:1"
+        },
+        "2": {
+          "he": "טור בשם רמב\"ם וכת' ה\"ה שהוא ירושלמי וברייתא במסכת דמאי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 525:2"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "ניתנה ליתבע עט״ז ט״ס רב יוסף וצ״ל רב״ה סבירא ליה דאתי למימנע משי״ט הלכך ניתן ליתבע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 525:1"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] [לבוש] ולא גזרו וכו'. במלבושי יום טוב השיג על הלבוש דיום טוב ושבת שוין בזה ושכן משמע בבית יוסף סימן ש\"ז וכן ראיתי בדרכי משה בשם רבינו ירוחם וכן משמע בשבת דף קמ\"ח ותוס' ד\"ה דאי וכו', ובספר עבודת הקודש דף מ\"א, ולפי זה מה דנקיט הש\"ס הלואת יום טוב רצה לומר שאילת יום טוב דהלואה אסור כדלעיל סימן ש\"ז גם פרעון הלואה בשבת ניתנה לתבוע כמו ביום טוב:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 525:1"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "ניתנה ליתבע.  הכי קי\"ל כרבה דלא כרב יוסף דאמר לא ניתבע דא\"כ אתי למכתב ורב יוסף ס\"ל דאם לחוש לזה לא יהיב ליה ואתי לאמנועי משמחת יום טוב:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 525:1"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "הלואת י\"ט. פי' שמקיף מיני מאכל ומשתה:",
+          "en": "",
+          "ref": "Magen Avraham 525:1"
+        },
+        "2": {
+          "he": "לא יכריזו. אף על גב דמות' להכריז על דבר מצוה  כמ\"ש סימן ש\"ו סי\"ב שאני הכא דאפש' בצינע':",
+          "en": "",
+          "ref": "Magen Avraham 525:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ליתבע.  כתב מהר\"ם מלובלין התוקע כפו לחבירו ביום טוב לפחות לו מחובו דחייב לקיים דבריו ופשוט הוא ואין ראוי לקנסו עיין שם סימן ע\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 525:1"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) הלואת יו\"ט - היינו שהקיף לו החנוני מיני מאכל ומשתה:",
+          "en": "",
+          "ref": "Mishnah Berurah 525:1"
+        },
+        "2": {
+          "he": "(ב) ניתנה ליתבע וכו' - ר\"ל שנזקקים לו בב\"ד אחר היו\"ט אם מסרב לפרוע (והרבותא הוא משום דאיכא מ\"ד בגמרא דס\"ל דבדין אינו יכול לתבוע אלא בינו לבין עצמו דאם יהיה ניתן ליתבע אתי למכתב קמ\"ל דלא קי\"ל הכי אלא כאידך מ\"ד דאם לא יכול לתבוע לא יתן לו מתחלה וימנע עי\"ז משמחת יו\"ט):",
+          "en": "",
+          "ref": "Mishnah Berurah 525:2"
+        },
+        "3": {
+          "he": "(ג) סעיף י\"א - ר\"ל דשם מבואר לענין שבת דיזהר מלומר לשון הלואה אלא יאמר תן לי וה\"ה לענין יו\"ט וע\"ש בהג\"ה ובמ\"ב דכל הדינים שייך גם לכאן וכן מה שפסק השו\"ע דהלואת יו\"ט ניתנה ליתבע ה\"ה דהלואת שבת ניתנה אח\"כ ליתבע:",
+          "en": "",
+          "ref": "Mishnah Berurah 525:3"
+        },
+        "4": {
+          "he": "(ד) גובים וכו' - היינו מיני מאכל ומשקה:",
+          "en": "",
+          "ref": "Mishnah Berurah 525:4"
+        },
+        "5": {
+          "he": "(ה) לא יכריזו וכו' - דאף דמותר להכריז ע\"ד מצוה כנ\"ל בסימן ש\"ו סי\"ב שאני הכא דאפשר בצינעא:",
+          "en": "",
+          "ref": "Mishnah Berurah 525:5"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

@@ -1,0 +1,210 @@
+{
+  "chelek": "YD",
+  "siman": 213,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 3,
+  "fetchedAt": "2026-07-08T00:01:24.940Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "שאין הנדרים חלים על דבר שאין בו ממש. ובו ג' סעיפים:נדרים אין חלין על דבר שאין בו ממש כיצד אמר קונם שאני מדבר עמך שאני עושה לך שאני מהלך לך שאני ישן עמך אינו נדר וכן אם אמר דיבורי ועשייתי והליכתי אסורים עליך ושינה אסורה עלי אינו נדר ומיהו מדרבנן צריך שאלה (פי' לשאול על נדרו ולמצוא פתח להתירו) לפיכך ראובן האוסר עליו שמיעת תפילת שמעון צריך שאלה מדרבנן אבל אם אמר קונם פי מדבר עמך קונם ידי עושות לך קונם רגלי מהלכות לך קונם עיני בשינה הוי נדר גמור מן התורה וכל שכן אם אמר יאסר עליך פי לדבורי וידי לעשייתי ורגלי להילוכי: הגה האומר דבור פי עליך או נטילת אבן עלי י\"א דהוי נדר הואיל והזכיר הפה והאבן (תא\"ו ני\"ד וכן משמע בר\"ן בשם התוס' שבב\"י ס\"ס רל\"ט):",
+      "en": "Vows do not apply to intangible substances. For example, if one says: \"Konam that I speak to you!\" or \"serve you\" or \"go for you\" or \"sleep with you\" - this is no vow. So too, if one phrases it this way: my speech, my servitude, or my going is forbidden to you, or sleep is forbidden to me - this is no vow. However, on a rabbinic level one should have these annulled. Therefore, if Reuben forbids himself from hearing Shimon's prayer, on a rabbinic level this should be annulled. Yet if he says \"Konam is my mouth from speaking to you\", \"Konam is my hand from serving you\", \"Konam are my feet from walking for you\", \"Konam are my eyes for sleep\" - these are all absolute Torah-level vows. All the more so if one says: \"Forbidden to you is my mouth for my speech\", \"my hands for my work\", \"my feet for my walking\". RAMA: There are those who say that the phrases: [Konam is] \"The speech of my mouth to you\" or \"The lifting of the stone is to me\" are a vow, since one has mentioned the [tangible objects] mouth and stone.",
+      "ref": "Shulchan Arukh, Yoreh Deah 213:1"
+    },
+    {
+      "seif": 2,
+      "he": "האומר אשנה פרק זה הוי כאלו נדר לתת צדקה (או לעשות שאר מצות ונדרו קיים) (וכן משמע בטור ורא\"ש ופוסקים):",
+      "en": "Si une personne dit: «Je fais vœu d’étudier tel chapitre de la Loi» le vœu est réel comme s’il s’agissait du vœu de faire une aumône.(b)Car on s’est ainsi formellement engagé à étudier la Loi.",
+      "ref": "Shulchan Arukh, Yoreh Deah 213:2"
+    },
+    {
+      "seif": 3,
+      "he": "אמר קונם עיני בשינה היום אם אישן למחר לא יישן היום שמא ישכח ויישן למחר אבל אם אמר קונם עיני בשינה למחר אם אישן היום יכול לישן היום ולא חיישינן שמא למחר ישכח נדרו ויישן:",
+      "en": "Quand une personne dit: «Que le sommeil soit défendu à mes yeux aujourd’hui, si je dors demain», il faut qu’elle veille cette première nuit, parce qu’elle pourrait oublier la condition qu’elle s’est posée et dormir la nuit suivante; mais si elle a dit: «Que demain le sommeil soit défendu à mes yeux, si je dors aujourd’hui», elle peut dormir la première nuit, et l’on ne craint pas qu’elle oublie de veiller la nuit suivante.(c)Parce qu’on n’oublie pas un vœu qu’on a prononcé (deuxième cas envisagé), tandis qu on peut oublier une condition qu’on s’est posée (premier cas). Dans le premier cas, je m’engage pour aujourd’hui («que le sommeil soit défendu à mes yeux aujourd'hui»), donc je dois veiller aujourd’hui. Dans le second cas je ne m’engage que pour demain («que demain le sommeil soit défendu à mes yeux»), donc je puis dormir aujourd’hui et je veillerai demain. Subtil, mais exact.",
+      "ref": "Shulchan Arukh, Yoreh Deah 213:3"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא שבועות ד' כ\"ה ע\"א ונדרים ד' י\"ד ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 213:1"
+        },
+        "2": {
+          "he": "משנה נדרים דף י\"ד ע\"ב וכאוקימתא דרבינא שם דט\"ו ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 213:2"
+        },
+        "3": {
+          "he": "לשון הטור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 213:3"
+        },
+        "4": {
+          "he": "כאוקימתא דרבינא וציינתי לעיל:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 213:4"
+        },
+        "5": {
+          "he": "הרשב\"א בתשובה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 213:5"
+        },
+        "6": {
+          "he": "משנה נדרים די\"ג ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 213:6"
+        },
+        "7": {
+          "he": "שם בגמ' דף י\"ד ודף ט\"ו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 213:7"
+        },
+        "8": {
+          "he": "אוקימתא דרב יהודה שם דף י\"ד ע\"ב ופי' הרא\"ש והר\"ן דנעשה כאומר יאסר פי לדיבורי וכו' ואם כן מכ\"ש כשאמר בפירוש:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 213:8"
+        },
+        "9": {
+          "he": "מימרא דרב גידל א\"ר האומר אשנה וכו' נדר גדול וכו' שם דף ח' ע\"א וכפי' הרא\"ש שם דלא אקרי נדר אלא שמתפיס בדבר הנדור אלא מחשבינן ליה כאילו נדר צדקה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 213:9"
+        },
+        "10": {
+          "he": "כמימרא דרב יהודה א\"ר שם דף י\"ד ע\"ב הרא\"ש והר\"ן שם והרמב\"ם בפ\"ד מה\"נ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 213:10"
+        },
+        "11": {
+          "he": "שם בגמ' דרב יהודה מודה בהא דכי לא מזדהר בתנאה אבל באיסורא מזדהר שם דף ט\"ו ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 213:11"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "קונם שאני כו'. ז\"ל הר\"ן בכולהו גרסינן שאני בלא יו\"ד משום דבנדרים מיתסר חפצא אנפשיה תני בלשון שאני כו' והביאו הכ\"מ פ\"ג דנדרים ואסיק וכן יש להגיה בכל הני שאני בלא יו\"ד ע\"כ ולעיל בסי' ר\"ו שאמר מודרני ממך או מופרשני ממך א\"ש גם לשון שאיני אוכל ששם הגוף הוא החפץ אשר אוסר והרי הוא אומר מודרני או מופרשני על הגוף שהוא יהא מופרש או מודר ממנו שלא יאכל הוא עמו ודו\"ק עכ\"ל הגה' פרישה וכן מחלקין התוספות ריש נדרים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 213:1"
+        },
+        "2": {
+          "he": "ומיהו מדרבנן כו'. ונ\"מ בין נדר דאורייתא לדרבנן לענין שצריך לנהוג איסור כימים שעברו עליהם כדלעיל סי' ר\"ח סעיף ב'. ב\"ח. א\"נ כדלעיל סי' ר\"ה ס\"ק ב':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 213:2"
+        },
+        "3": {
+          "he": "צריך שאלה. אפי' בדבר שאין בו ממש ופותחין לו פתח ממקום אחר ומתירין לו נדרו. רמב\"ם וע\"ל סי' ר\"ח ס\"ק ט':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 213:3"
+        },
+        "4": {
+          "he": "פי כו'. דהרי פיו וידיו כו' יש בהן ממש וע\"ל סי' רל\"ד סעיף ע\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 213:4"
+        },
+        "5": {
+          "he": "קונם עיני בשינה. היינו כשפירש יום או יומים אבל נדר סתם בשינה הוי כנודר שלא יישן לעולם והוי נדר שוא וכן נדר שלא יישן ג' ימים הוי נדר שוא כדלקמן סי' רל\"ו סעיף ד':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 213:5"
+        },
+        "6": {
+          "he": "י\"א דהוי נדר מדאורייתא. ואע\"ג דדבור ונטילה לית בהן ממש מ\"מ כיון שהזכיר החפץ ג\"כ חל הנדר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 213:6"
+        },
+        "7": {
+          "he": "או לעשות כו'. כלומר או כשאומר לעשות שאר מצוה דינו גם כן כאומר אשנה פרק זה והוי נדר ועיין לעיל סימן רנ\"ח ס\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 213:7"
+        },
+        "8": {
+          "he": "שמא ישכח תנאו ויישן למחר. וע\"ל ס\"ס ר\"כ וס\"ס רל\"ט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 213:8"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "שאני מדבר כו'. הא דאמרינן לעיל סי' ר\"ו מודרני ממך שאיני אוכל לך כו' לא דמי לכאן דכאן אין ממש לא בדיבור ולא בשינה אבל התם מ\"מ המאכל עצמו יש בו ממש והוא קונם המאכל עצמו בענין זה שאיני אוכל לך עכ\"ל התוספות ריש נדרים ולא קשה נמי ממ\"ש כאן שאני עושה לך אע\"פ דיש כאן מעשה שהוא ממש דבשעה שנודר אין כאן ממשות לפנינו שיחול הנדר משא\"כ במאכל שישנו בשעה שנודר ועליו חל הנדר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 213:1"
+        },
+        "2": {
+          "he": "וכ\"ש אם אמר יאסר עליך פי כו'. דברישא שאמר קונם פי מדבר יש ספק אי קאי קונם אפה או על הדבור אלא כיון דסתם נדר להחמיר אזלינן לחומרא וכ\"ש כאן שבפירוש קאי איסור אפיו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 213:2"
+        },
+        "3": {
+          "he": "ישכח תנאו. דבתנאי לא זהיר אינש אבל בסיפא דעיקר הנדר למחר ונדר לא משכח אינש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 213:3"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "מדרבנן צריך שאלה. עבה\"ט מ\"ש ונפ\"מ כו' ולפמ\"ש לעיל סימן ר\"ו ס\"ק ב' בשם תשובת נו\"ב נפקא מינה נמי להא:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 213:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "שאני.  ז\"ל הר\"ן בכולהו גרסי' שאני בלא יו\"ד משום דבנדרים מיתסר חפצא אנפשיה תני בלשון שאני כו' ולעיל בסי' ר\"ו שאמר מודרני ממך או מופרשני ממך א\"ש גם לשון שאיני אוכל ששם הגוף והוא החפץ אשר אוסר עכ\"ל הגהת פרישה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 213:1"
+        },
+        "2": {
+          "he": "שאלה.  אפילו בדבר שאין בו ממש ופותחין לו פתח ממקום אחר ומתירין לו נדרו הרמב\"ם וכתב הש\"ך ונ\"מ בין נדר דאורייתא לדרבנן לענין שצריך לנהוג איסור כימים שעבר עליהם וע\"ל סימן ר\"ח ס\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 213:2"
+        },
+        "3": {
+          "he": "בשינה.  היינו כשפירש יום א' או יומים אבל נדר סתם בשינה הוו כנודר שלא יישן לעולם והוי נדר שוא וכן נדר שלא יישן ג' ימים הוי נדר שוא כדלקמן סי' רל\"ו ס\"ד ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 213:3"
+        },
+        "4": {
+          "he": "נדר מדאורייתא.  ואף ע\"ג דדיבור ונטילה לית בהן ממש מ\"מ כיון שהזכיר החפץ גם כן חל הנדר ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 213:4"
+        },
+        "5": {
+          "he": "לעשות.  פי' כשאומר לעשות שאר מצות דינו גם כן כאומר אשנה פרק זה והוי נדר וע\"ל סימן רנ\"ח ס\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 213:5"
+        },
+        "6": {
+          "he": "ישכח.  התנאי דביה לא זהיר אינש אבל בסיפא דעיקר הנדר למחר ונדר לא משכח אינש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 213:6"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

@@ -1,0 +1,353 @@
+{
+  "chelek": "OC",
+  "siman": 171,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 5,
+  "fetchedAt": "2026-07-07T23:43:06.430Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "שלא לנהוג בזיון באוכלים. ובו ה סעיפים:עושה אדם צרכיו בפת והני מילי דלא ממאיס ביה אבל מידי דממאיס ביה לא הילכך אין מניחין עליו בשר חי ואין מעבירין עליו כוס מלא ואין סומכין בו הקערה אם היא מלאה דבר שאם יפול על הפת ימאס ואין נוטלין הידי' ביין בין חי ובין מזוג אפילו נטילה שאינ' צורך אכילה ואין זורקים הפת משום בזיון אוכלים וכשם שאין זורקין את הפת כך אין זורקי' אוכלי' הנמאסים ע\"י זריקה אבל מידי דלא ממאיס כגון אגוזים ורימונים וחבושים שרי:",
+      "en": "A person can use bread as they need to, as long as they do not ruin it, but they may not ruin it.  Therefore, one may not leave raw meat on bread or pass a full cup over it, not lean a bowl on it… and do not use wine even for a mitzvah like hand-washing.  And do not throw bread because it is disgrace to food.  And just as one may not throw bread, so too it is prohibited to throw any food that will become distasteful as a result.",
+      "ref": "Shulchan Arukh, Orach Chayim 171:1"
+    },
+    {
+      "seif": 2,
+      "he": "לא ישב אדם על קופה מלאה תאנים וגרוגרות אבל יושב הוא על עיגול של דבילה או על קופה מלאה קטניות:",
+      "en": "A person should not sit on a basket full of figs and dried figs, but he may sit on a round cake of pressed figs or on a basket full of legumes.",
+      "ref": "Shulchan Arukh, Orach Chayim 171:2"
+    },
+    {
+      "seif": 3,
+      "he": "מותר לאכול דייסא [פי' החטה הנקלפת מבושלת] בפת במקום כף והוא שיאכל הפת אחר כך והמדקדקים אוכלים בכל פעם שמכניסים לתוך פיהם מעט מן הפת עם הדייסא: הגה והנשאר מן הפת אחר כך אוכלים אותו [ב\"י]:",
+      "en": "It is permitted to eat diysa (meaning: hulled wheat that is cooked) with bread in place of a spoon, provided that one eats the bread afterward. Those who are scrupulous eat a small amount of the bread each time they put it in their mouth together with the diysa. Rema: And the bread that remains afterward, one eats it.",
+      "ref": "Shulchan Arukh, Orach Chayim 171:3"
+    },
+    {
+      "seif": 4,
+      "he": "ממשיכין יין בצנורות לפני חתן וכלה והוא שיקבלנו בפי הצינור וזורקין לפניה' קליות ואגוזים בימות החמ' שאינ' נמאסין אבל לא בימות הגשמים מפני שנמאסין אבל לא גלוסקאות לעולם:",
+      "en": "Wine is drawn through pipes before the groom and bride, provided that he receives it at the mouth of the pipe. And they throw roasted grains and nuts before them in the summer months since they do not become repulsive, but not in the rainy season because they become repulsive. But confections—never.",
+      "ref": "Shulchan Arukh, Orach Chayim 171:4"
+    },
+    {
+      "seif": 5,
+      "he": "הזורקים חטים לפני חתנים צריך ליזהר שלא יזרקו אלא במקום נקי וגם יכבדו אותם משם כדי שלא ידרסו עליהם:",
+      "en": "Those who throw wheat before grooms must be careful to throw only in a clean place, and they should also sweep it up from there so that it will not be trampled upon.",
+      "ref": "Shulchan Arukh, Orach Chayim 171:5"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברכות ג'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 171:1"
+        },
+        "2": {
+          "he": "טור בשם מס' סופרים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 171:2"
+        },
+        "3": {
+          "he": "תוספות בברכות נ' ורא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 171:3"
+        },
+        "4": {
+          "he": "תוס' שם והטור בשם אביו הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 171:4"
+        },
+        "5": {
+          "he": "ברכות נ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 171:5"
+        },
+        "6": {
+          "he": "תוס' שם והגהת מיימוני פ\"ז מה\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 171:6"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "איתא בשבת עמ״א וההיא דאין מנקין ידים ביין היינו כשיש לו דבר אחר לנקות הא לא״ה שרי לצורך האדם ומב״ח סוף סעיף א׳ משמע דוקא היכא דיש מצוה או קדושה ולזה כתב דכל שעושה לצורך גוף האדם ליכא הפסד וביזוי: ואין עמ״א וכ״כ הט״ז אות ב׳. עי״ד ש״ן אסור לגרום לאוכלין שיאסרו בהנאה משום בל תשחית עש״ך שם יראה לי פירות האסורין בהנאה כערלה וכ״ה אסור לבזות אותם להשליכם לפני חתן וכלה לשמוח בהם במקום טיט ורפש אע״ג דמצות לאו ליהנות נתנו ועוד שאין נהנה מגוף הפרי מ״מ ביזוי איכא ולאו משום הפסד אוכלין נגעו ביה אלא אסור לבזות אוכלין לבעט בטובה כו׳ ומצוה לשורפן אבל לא לבזותם. כדאמרן כאן. ומאן דחזי א״י אם הם איסורי הנאה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 171:1"
+        },
+        "2": {
+          "he": "לא עמ״א הראה לר״מ אות י״ט בארגז גדול ועמ״ש בסי׳ מ׳ בתפילין ובט״ז כאן אות ג׳ מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 171:2"
+        },
+        "3": {
+          "he": "והמדקדקים עמ״א ואם אין ראוי לאכילה מותר לשמש בו מעשה עץ כ״כ ז״ל:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 171:3"
+        },
+        "4": {
+          "he": "שנמאסים עמ״א. יש מקומות משליכין בש״ת תפוחים במקום טיט ורפש ולא יפה הם עושים וגלוסקאות אסור אע״פ שאין נמאסים עיין אות ב׳ בט״ז ומ״א א׳ וע׳ לבוש: יפרנס משלו ב״ב ק״י תוס׳ ד״ה נשוט בערוך ערך טש וכ״ה ביונתן וירושלמי דילן ויטושין ית ביתא יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 171:4"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "אפילו עט״ז כל לצורך מותר להפסיד אוכלין דליכא ביזוי עמ״א א׳. עסי׳ קפ״א ס״ט. ועסי׳ ק״ס סי״ב לנט׳י ביין יש מתירין והיינו באין לו מים דאל״כ יש ביזוי והפסד. מ״ש המחבר אין מניחין עליו בשר חי ב׳ טעמים דממאיס או שצריך הדחה משום דם ואפילו בשר צלי במוהל אסור דממאיס:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 171:1"
+        },
+        "2": {
+          "he": "ואין עט״ז וכ״כ מ״א א׳ ונראה דפת דוקא לסמוך הקערה שרי דצורך אכילה אי אין ממאיס אבל לעשות בו מלאכה שא״צ אכילה לסמוך איזה דבר אע״ג דלא ממאיס אסור בפ״ת דוקא דהוי כמו זריקה לתי׳ התוס׳ שהביא הב״י ומיהו לכסות הכלי בו שרי וכדומה דמה לי שמונח כאן או במקום אחר ולכסות הכלי בספרים נראה דאסור ועסי׳ קנ״ד במ״א י״ד תיבה כחלון כו׳ ספר שאני דמוכח דמניחו כאן לכסותו והטורי זהב אוסר שם ספר תחת ספר לכסות יש לומר כ״ע מודים דאסור לעשות כן. וצ״ע. והנה שמואל אמר עושה כ״ל צרכיו בפת ברכות נו״ן ב׳ והעתיקו הטור ובש״ע השמיט מלת כל לשיטתיה דלזרוק אפי׳ אין ממאיס אסור דביזוי שלא לצורך אכילה אסור ודוקא לסמוך עליו אם כן לית הלכתא בהא כשמואל וז״ש כמאן אזלא הא דשמואל כר״א ואין להאריך:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 171:2"
+        },
+        "3": {
+          "he": "קופה עט״ז בשל עץ ומכוסה מותר ובספרים בתוכה דעת הב״ח דשרי וט״ז אוסר בי״ד רפ״ב אות ד׳ אא״כ מחברו לכותל במסמרים ודעתו שם אפילו גדולה מחזקת מ״ם סאה אסור (עמ״א סימן ר״מ אות י״ט יע״ש ועמ״ש בסי׳ מ״ם בתפילין כלי בתוך כלי יע״ש) וא״ר כאן בשם נה״ך מתיר לישב על תיבה של עץ ומכוסה ואין בידי כעת נה״ק ואם יש בו ס״ת יראה דאסור ואי״ה יבואר. שוב ראיתי בכ״ש עירובין למ״ד סיים דארגז קטן ואין כליין שרי או שיש ד״א עמו ובס״ת אסור ולישן אסור על תיבה שיש ספרים ומ״ס סאה יש לומר דשרי ואי״ה יבואר בר״מ:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 171:3"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] [לבוש] דבר איסור וכו'. מיהו לרפואה מותר בכל ענין מותר לזלף הקרקע ביין ולעשות ממנו משרה וכבושה ולסוך הגוף ביין ושמן אפילו שלא לרפואה כיון שהוא צורך אדם. כשרואים אוכלים מונחים על הארץ אסור לילך ולהניחם אלא צריך להגביהם אם לא מקום דאיכא למיחש לכשפים כגון ככר שלם. אסור לגרום לאוכלין שיאסרו הנאה. מאכל אדם אין מאכילין לבהמה דמיחזי כבועט בטובה של הקב\"ה, תענית דף כ', מגן אברהם. ואני מסתפק כיון דקאמר למאכל אדם וכו' משמע דאין הלכה וכו' והיינו דהשמיטו הפוסקים:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 171:1"
+        },
+        "2": {
+          "he": "[ב] [לבוש] ויש מתירים וכו'. בשולחן ערוך השמיט הני יש מתירים, וכן הב\"ח הוכיח דבפת אף שאינו נמאס אסור וכן כתבו אחרונים:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 171:2"
+        },
+        "3": {
+          "he": "[ג] קופה וכו'. כתב הב\"ח דוקא של עור או של עיזים וכיוצא בזה שהקופה נכפפת אבל בקופה של עץ שאינה נכפפת מותר אפילו היה בתוכה ספרי קודש, ובסעיף ז' אוסר לישב על תיבה שיש בו ספרים, אם לא שנתחבר לכותל במסמרים, ובספר נקודת כסף סימן רפ\"ב התיר, מיהו בשיירי כנסת הגדולה כתב שנוהגין ליזהר בזה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 171:3"
+        },
+        "4": {
+          "he": "[ד] חיטים וכו'. כתב מלבושי יום טוב בשם דרישות מהר\"ש דאסור לשפשף צלוחית בשיבולת שועל שקורין האברי\"ן, עד כאן. וכתב מהרי\"ו דמותר ליזרוק מעבר לשולחן דלא כאותן שאומרים דאסור משום דזורקין המלאך:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 171:4"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אפי' נטילה שאינה וכו'.  הקשה מו\"ח ז\"ל מ\"ש מהא דשרי למשוח הידים להעביר הזוהמא ותירץ דהתם תקנת חכמים משום קדושה דברכת המזון ואסמכיה אקרא אני ה' זה שמן ערב. ומהאי טעמא נמי במים אחרונים שרי ביין ושאר משקין מפני שהם מעבירים את הזוהמא כמ\"ש סימן קפ\"א עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 171:1"
+        },
+        "2": {
+          "he": "ואין זורקין הפת.  פירש ב\"י אפי' אם לא ממאס משא\"כ בשאר אוכלין צריך שיהיה נמאס דוקא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 171:2"
+        },
+        "3": {
+          "he": "קופה מלאה תאנים.  נ\"ל אפי' אם הקופה של עץ כסתם קופה שבתלמוד מ\"מ התאנים מתמעכים ע\"י שיושב עליה למעלה והיא מליאה ואינה מכוסה אבל במכוסה נראה דמותר אלא דאם יש בה ספרים אסור אף במכוס' וכמ\"ש בי\"ד סי' רפ\"ג ומו\"ח ז\"ל כתב בשל עץ אפי' יש בו ספרים מותר לישב עליו ומוקי הך קופה דוקא בשל עור ולא נלע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 171:3"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "איתא בשבת דף ק\"ח שורה פת ביין ומניחה ע\"ג העין ש\"מ אפילו מידי דממאיס אם עושה לרפואה שרי ומוכח בגמ' בכמה דוכתי דשרי לזלף הקרקע ביין ולעשות ממנו משרה וכבושה ולסוך הגוף ביין אפי' שלא לרפואה וטעמא כמ\"ש הרמב\"ם אין מפסידין האוכלין דרך ביזוי ובעיטה ע\"כ משמע דדבר שהוא צורך האדם ליכא ביזוי ובעיטה, וכ\"מ בשבת דף נ\"ג, דטעמא משום הפסד אוכלין, וא\"כ כל היכי שעושה לצרכו ליכא פסידא ומה\"ט נוטלין לידים במשקין אי ליכא מים וכמ\"ש סי' ק\"ס סי\"ב ע\"ש ובזה א\"צ לדברי הב\"ח: ואין זורקין הפת. אפי' לא ממאס בכך (ב\"ח ב\"י), כשרואין אוכלים מונחים על הארץ אסור לילך ולהניחם אלא צריך להגביהם אם לא במקום דאיכא למיחש לכשפים כגון ככר שלם (עירובין דף ס\"ד): איתא בשבת דף נ' דאסור לפצוע זתים אפילו כוונתו למתוקי פירא מפני שנמאסים ע\"י כך והרי\"ף פירש שמיירי שרוצה ליטול בו ידיו ומשום זה נמאסין ואסור דאפשר ליטול בבורית עבי\"ד ס\"ס ש\"נ דאסור לגרום לאוכלין שיאסרו בהנאה, בתענית דף כ' אי' מאכל אדם אין מאכילין אותו לבהמה פירש\"י משום ביזוי אוכלין ומחזי כבועט בטובה שהשפיע הקדוש ברוך הוא בעולם:",
+          "en": "",
+          "ref": "Magen Avraham 171:1"
+        },
+        "2": {
+          "he": "לא ישב. דוקא בקופה של נצרים שהי' נכפפת והאוכלין נמאסות אבל בקופה של עץ שאינה נכפפת אפי' היו בתוכה ספרים מותר לישב עליהם וכ\"ש אוכלים (ב\"ח) ובתשובת רמ\"א כתוב דאסור לישב על תיבה שהספרים בתוכה וביו\"ד סי' רפ\"ב כתב הט\"ז דאם היה קבוע בכותל שרי וכן נוהגין בבה\"כ עמ\"ש סימן ר\"מ:",
+          "en": "",
+          "ref": "Magen Avraham 171:2"
+        },
+        "3": {
+          "he": "והמדקדקים. נ\"ל דביזוי היא להשתמש מעשה עץ באוכלין לכן אוכלין כל פעם מעט כאלו בא ללפת הפת ונשאר אוכלין בעצמן דלאחרים הוא נמאס:",
+          "en": "",
+          "ref": "Magen Avraham 171:3"
+        },
+        "4": {
+          "he": "שנמאסי'. אף על פי שהן  בקליפתן ואין האוכל נמאס מ\"מ הם נמאסי' (ב\"י ב\"ח תוס'):",
+          "en": "",
+          "ref": "Magen Avraham 171:4"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "לא.  ודבר שהוא צורך האדם או לרפואה ליכא ביזוי ומותר ומה\"ט נוטלין לידים במשקין אי ליכא מים. מ\"א ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 171:1"
+        },
+        "2": {
+          "he": "הפת.  אפי' לא ממאיס בכך. ב\"ח. כשרואים אוכלים מונחים על הארץ אסור לילך ולהניחם אלא צריך להגביהם אם לא במקום דאיכא למיחש לכשפים כגון ככר שלם. ואסור לגרום לאוכלים שיאסרו בהנאה עי\"ד ס\"ס ש\"צ. מאכל אדם אין מאכילין לבהמה תענית דף כ'. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 171:2"
+        },
+        "3": {
+          "he": "קופה.  דוקא בקופה של נצרים שהיא נכפפת והאוכלין נמאסות. אבל בקופה של עץ שאינה נכפפת אפי' היו בתוכה ספרים מותר לישב עליהם וכ\"ש אוכלים ב\"ח. ובתשובת רמ\"א כתב דאסור לישב על התיבה שהספרים בתוכה ובי\"ד סי' רפ\"ב כתב הט\"ז דאם הוא קבוע בכותל שרי וכן נוהגין בבה\"כ ועי' בתשובת אוהל יעקב סי' י\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 171:3"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) צרכיו - ר\"ל צורך תשמישיו וכמו שיתבאר לקמיה:",
+          "en": "",
+          "ref": "Mishnah Berurah 171:1"
+        },
+        "2": {
+          "he": "(ב) בפת - וכ\"ש בשאר אוכלין:",
+          "en": "",
+          "ref": "Mishnah Berurah 171:2"
+        },
+        "3": {
+          "he": "(ג) אבל מידי דמימאס וכו' - ואפילו בשאר אוכלין ג\"כ אסור:",
+          "en": "",
+          "ref": "Mishnah Berurah 171:3"
+        },
+        "4": {
+          "he": "(ד) לא - ואם עושה לרפואה שרי אפילו מימאס ביה וכדלקמן בסימן שכ\"ח ס\"כ ואפילו בלא רפואה אם הוא דבר שהוא צורך האדם ודרך העולם לעשות בהאוכל צורך זה ג\"כ שרי ומטעם זה מזלפין הקרקע ביין וסכין הגוף ביין ושמן כמבואר בגמרא בכמה דוכתי. אסור לפצוע זיתים ליטול ידיו במים היוצאים מהם [שחזקים הם ומעבירים את הזוהמא] מפני שהזיתים נמאסים עי\"ז ואיכא הפסד אוכלין [גמרא]:",
+          "en": "(4) No - and if he does it for healing, it is permitted even if he is disgusted by it, as explained above in Siman 388, Seif 20. Even without healing, if it is something that is necessary for a person and the way of the world is to do this need with food, it is also permitted. For this reason, they sprinkle the ground with wine (for the aroma), smear the body with wine and oil (to soften the skin), as explained in the Gemara in several places. It is forbidden to injure olives to wash hands with water coming out of them (since they are strong and remove dirt) because the olives are made disgusting by this action and there is a loss of food (Gemara)",
+          "ref": "Mishnah Berurah 171:4"
+        },
+        "5": {
+          "he": "(ה) כוס מלא - שקרוב הדבר שישפך עליו וימאס:",
+          "en": "",
+          "ref": "Mishnah Berurah 171:5"
+        },
+        "6": {
+          "he": "(ו) אם היא וכו' - וג\"כ מטעם הנ\"ל וכ\"ש אם הקערה בתחתיתו אינו נקי וימאס הפת עי\"ז:",
+          "en": "",
+          "ref": "Mishnah Berurah 171:6"
+        },
+        "7": {
+          "he": "(ז) מלאה וכו' - אבל כשאינה מלאה שרי לסמוך אף דמשתמש בפת דעושה אדם כל צרכיו בפת וכנ\"ל וה\"ה דמותר לכסות בו כלי [טור]:",
+          "en": "(7) (If it is) Full, etc. - But when it is not full, it is permissible to lean it (the bowl or pot) even though he uses bread.  For a person can use bread for his needs, as we have said, and the same is true that it is permissible to cover a vessel with it [Tur].",
+          "ref": "Mishnah Berurah 171:7"
+        },
+        "8": {
+          "he": "(ח) שאינה צורך אכילה - דאלו בנטילה לאכילה בלא\"ה אסור לכמה פוסקים [עיין בסימן ק\"ס סי\"ב] דאין נטילה אלא במים אלא אף בזה שאינה צורך אכילה אסור משום בזיון היין וה\"ה בשאר משקין אסור. ובשעת הדחק עיין לעיל בסי' ק\"ס סוף סי\"ב ובבה\"ל שם:",
+          "en": "",
+          "ref": "Mishnah Berurah 171:8"
+        },
+        "9": {
+          "he": "(ט) ואין זורקין הפת - ומבואר בב\"י וש\"פ דפת חשיבא טפי משאר אוכלין ובדידיה אסור אפילו אם לא נמאס ע\"י זריקה כגון שזורקו ע\"ג מקום נקי דזלזול הוא לפת:",
+          "en": "(9) And do not throw bread - And it is explained in the Bais Yosef and Shaarei Poskim (other authorities) that bread is considered more significant than other foods, and it is forbidden to throw it even if it does not become disgusting through throwing. For example, if one throws it on a clean place, it is a disgrace (zilzul) to the bread.",
+          "ref": "Mishnah Berurah 171:9"
+        },
+        "10": {
+          "he": "(י) הנמאסים ע\"י זריקה - כגון תאנים וכדומה שנתבשלו כל צרכן שהם רכים ומתמעכים ע\"י זריקה ונמאסים:",
+          "en": "",
+          "ref": "Mishnah Berurah 171:10"
+        },
+        "11": {
+          "he": "(יא) כגון אגוזים וכו' - שהם קשים ואינם מתמעכים ומיירי שזרקו במקום נקי דאל\"ה אסור אפילו באגוזים וכדלקמיה בסעיף ד'. כשרואין אוכלין מונחים על הארץ אסור לילך ולהניחם אלא צריך להגביהם אם לא במקום דאיכא למיחש לכשפים כגון ככר שלם [עירובין ס\"ד]. איתא בגמרא [תענית כ'] דרב הונא סובר מאכל אדם אין מאכילין אותו לבהמה [וה\"ה לעופות] אמנם בא\"ר מסתפק אם הלכה כר\"ה בזה ועיין במחצית השקל שמצדד דאם אין לו דבר אחר להאכיל כ\"א מאכל אדם לכו\"ע מותר ואפשר דמשום זה נוהגין העולם היתר להאכיל לעופות פת:",
+          "en": "(11) For example, nuts etc. - which are hard and do not crumble. And it speaks of when he threw them in a clean place, because otherwise it is forbidden even with nuts, as will be explained in seif (paragraph) 4. When we see food lying on the ground, it is forbidden to go and leave them there, but one must pick them up, unless in a place where there is reason to suspect witchcraft, such as a whole loaf (Eruvin 64). It is stated in the Gemara (Taanis 20) that Rav Huna holds: that human food should not be fed to an animal (and the same applies to birds). However, in the Elyah Rabbah it is doubtful whether the halacha follows Rav Huna in this matter, and see in the Machzis Hashekel who argues that if he has nothing else to feed, everyone agrees that human food is permissible, and perhaps for this reason people are accustomed to allow feeding birds bread.",
+          "ref": "Mishnah Berurah 171:11"
+        },
+        "12": {
+          "he": "(יב) קופה מלאה תאנים - דוקא בקופה של נצרים שהיא נכפפת והאוכלין מתמעכין ונמאסין אבל של עץ שרי:",
+          "en": "",
+          "ref": "Mishnah Berurah 171:12"
+        },
+        "13": {
+          "he": "(יג) של דבילה וכו' - שהם קשים ואינם מתמעכים [לבוש]:",
+          "en": "",
+          "ref": "Mishnah Berurah 171:13"
+        },
+        "14": {
+          "he": "(יד) קטניות - שאף שהקופה היא מנצרים הקטניות בעצמן קשים הם:",
+          "en": "",
+          "ref": "Mishnah Berurah 171:14"
+        },
+        "15": {
+          "he": "(טו) במקום כף - משום דעושה אדם צרכיו בפת היכא דלא מימאס וכנ\"ל והכא לא מימאס להאדם הזה בעצמו שאכל בו הדייסא:",
+          "en": "(15) In place of a spoon - because a person can use his bread as he needs where it does not disgust (or ruin), and here it does not disgust this person since he himself ate the daisa (porridge) with it.",
+          "ref": "Mishnah Berurah 171:15"
+        },
+        "16": {
+          "he": "(טז) והוא שיאכל וכו' - דלאדם אחר מימאס ואיכא הפסד אוכלין:",
+          "en": "(16) And he should eat it etc. - because for another person it is disgusting, and there could be a loss of food.",
+          "ref": "Mishnah Berurah 171:16"
+        },
+        "17": {
+          "he": "(יז) והמדקדקים וכו' - שחוששים להשתמש מעשה עץ באוכלין דביזוי הוא לכן אוכלין בכל פעם מעט מן הפת דנראה כאלו בא ללפת את הפת:",
+          "en": "(17) Those who are meticulous etc. - who are concerned about using a wooden utensil/spoon with food because it is a disgrace (bizui), therefore they eat a little bit of the bread [with the daisa (porridge) each time they put it in their mouths], so that appears as if he wrapped the (daisa in) bread.",
+          "ref": "Mishnah Berurah 171:17"
+        },
+        "18": {
+          "he": "(יח) אח\"כ אוכלין אותו - דלאחרים הוא נמאס וכנ\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 171:18"
+        },
+        "19": {
+          "he": "(יט) ממשיכין יין בצנורות - שעושין משום סימן טוב שימשך שלותן וטובתן ומיירי בצינור של עץ שאינו נמאס:",
+          "en": "(19) We draw wine through pipes/straws - which is done as a good sign, for their peace and goodness, and it speaks of a wooden tube that is not disgusting.",
+          "ref": "Mishnah Berurah 171:19"
+        },
+        "20": {
+          "he": "(כ) והוא שיקבלנו - דאל\"ה איכא משום הפסד אוכלין:",
+          "en": "(20) And it is received - because otherwise there is a concern of loss of food.",
+          "ref": "Mishnah Berurah 171:20"
+        },
+        "21": {
+          "he": "(כא) שנמאסין - ואע\"פ שאגוזין יש להם קליפה ואין האוכל שבתוכן נמאס מ\"מ בימות הגשמים שיש רפש וטיט ומתלכלכין שם נמאסין להגביהן ואיכא הפסד אוכלין. יש מקומות שהנהיגו כהיום לזרוק צמוקין לפני החתן בשבת שלפני חתונתו בשעה שקורין אותו למפטיר ולא יפה הם עושין שרכין הם ונמאסין עי\"ז כנ\"ל:",
+          "en": "(21) It makes them disgusting - Even though nuts have a shell and the food inside does not become disgusting, nevertheless during the rainy season when there is mud and dirt, they become dirty and disgusting to pick up and there is a loss of food. There are places where they have the custom today to throw dates in front of the groom on Shabbat before his wedding when they call him up for Maftir. And what they are doing is not appropriate/nice because they are soft and become disgusting through this.",
+          "ref": "Mishnah Berurah 171:21"
+        },
+        "22": {
+          "he": "(כב) לא גלוסקאות - כנ\"ל ס\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 171:22"
+        },
+        "23": {
+          "he": "(כג) במקום נקי - כדי שלא ילך לאיבוד:",
+          "en": "",
+          "ref": "Mishnah Berurah 171:23"
+        },
+        "24": {
+          "he": "(כד) וגם יכבדו וכו' - דאל\"ה אין תועלת מה שזרק במקום נקי:",
+          "en": "",
+          "ref": "Mishnah Berurah 171:24"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

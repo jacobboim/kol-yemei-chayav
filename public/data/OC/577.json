@@ -1,0 +1,170 @@
+{
+  "chelek": "OC",
+  "siman": 577,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-07T23:49:33.457Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "אם נתרבו הגשמים עד שמטשטשין הקרקע איך מתנהגים. ובו סעיף אחד:בכל מקום אם רוב גשמים מטשטשים הקרקע ומונעים המחרישה מתריעין ומבקשים רחמים ואם הענין נחפז ואין פנאי להתריע כסדר שאר תעניו' אין גוזרין בו תעני' על הצבור שאין הצבור יכולים להתענו' בכל יום אלא מתריעין בכל יום ובכל תפלה ובהתרעה בפה די ואם היחידים רוצים להתענו' רשאים הם בכך ובהתרעת הפה דהיינו בעננו אבינו עננו אומר יהי רצון מלפניך יי אלהינו ואלהי אבותינו שיכבשו רחמיך את כעסך ויגולו רחמיך על מדותיך ותתנהג עם בניך במדת רחמים ותכנס להם לפנים משור' הדין ובטובך הגדול רחם עליהם שאין פורעניו' בא לעולם אלא בשביל ישראל והם עמך ונחלתך אשר הוצא' מארץ מצרים ואינם יכולים לקבל לא רוב רעה ולא רוב טובה השפעת עליהם רוב טובה אינם יכולים לקבל כעסת עליהם אינם יכולים לקבל יהי רצון שיהא ריוח בעולם וזכור רחמיך:",
+      "en": "If the rains intensify until the ground is blurred, how do we behave? In one paragraph: In every place, if most rains blur the ground and prevent the plow from operating, warnings are issued, and pleas for mercy are made. If the matter is urgent and there is no time to issue a formal warning, like other fasts, no communal fast is decreed upon the public, as the public cannot fast every day. Instead, warnings are issued every day, in every prayer, and through verbal announcements. It is sufficient. However, if individuals wish to fast, they are allowed to do so, with verbal announcements, meaning they say, 'Our Father, our Father, may it be Your will, Lord our God and God of our fathers, that Your mercy conquers Your anger, and Your mercy prevails over Your attributes. Deal with Your children with mercy and enter before them with the measure of mercy, more than the measure of strict justice. In Your great goodness, have mercy upon them, for disasters come into the world only for the sake of Israel, and they are Your people and Your inheritance, whom You brought out of the land of Egypt. They cannot endure either excessive evil or excessive good. They cannot accept an abundance of good, nor can they withstand Your wrath. May it be Your will that there be tranquility in the world, and remember Your mercy.",
+      "ref": "Shulchan Arukh, Orach Chayim 577:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "לשון הר\"ש בר צמח מברייתא תענית כ\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 577:1"
+        },
+        "2": {
+          "he": "שם בהרשב\"ץ בשם רבוותא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 577:2"
+        },
+        "3": {
+          "he": "שם מורכבת מתפלת רבי ישמעאל בן אלישע כ\"ג ושל חוני המעגל:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 577:3"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "ומונעים עמ״א ועיין בטור שזה בארץ הרים אבל במצולה שרוב גשמים קשים ויש סכנה בריבוי המים ודאי צרה היא ומתפללין עליה וכ״ה בלבוש והמחבר השמיטו וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 577:1"
+        },
+        "2": {
+          "he": "נחפז עמ״א ועסי׳ תקע״ה אות ה׳ כיון שא״א לגזור תמיד אין גוזרין כלל יע״ש ועב״י נוסח תפלה מורכבת מן ר׳ ישמעאל בן אלישע כ״ג ומן חוני המעגל יע״ש בב״י בשם השו״ת תשב״ץ ז״ל:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 577:2"
+        },
+        "3": {
+          "he": "היחידים עמ״א וערסי׳ תקע״א מי הנקרא חוטא היושב בתענית ועסי׳ תקע״ה י״ל דקמ״ל דלא מיחזי כיוהרא בזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 577:3"
+        },
+        "4": {
+          "he": "בעננו עמ״א וכן נוהנין ועד״מ משמע שראוי לומר אחר התפלה עננו בדרך א״ב כמו שאומרים בעשי״ת ולא ראיתי נוהגין כן:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 577:4"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] מונעים המחרישה וכו'. והוא הדין אם מקלקלים ומפסידים בענין אחר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 577:1"
+        },
+        "2": {
+          "he": "[ב] יחידים רוצים וכו'. אפילו רצופים ולא חיישינן שמא יחלה ויצטרך לבריות:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 577:2"
+        },
+        "3": {
+          "he": "[ג] בענינו וכו'. ובקראקא נוהגים שהציבור והשליח ציבור אומרים ריצוי זה בשומע תפילה על רוב גשמים:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 577:3"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "ומונעים המחרישה. וה\"ה אם מקלקלים ומפסידין בענין אחר:",
+          "en": "",
+          "ref": "Magen Avraham 577:1"
+        },
+        "2": {
+          "he": "נחפז. פי' שצריך להתענות רצופים שסכנתן בכל יום כגון עיר שהקיפו' עכו\"ם וא\"א לגזור תעני' בכל יום ולפי ענינם אין מקום לתעני' בה\"ב לפיכך אין גוזרין תעני' כלל (ר\"ן) עמ\"ש סי' תקע\"ה ס\"ה:",
+          "en": "",
+          "ref": "Magen Avraham 577:2"
+        },
+        "3": {
+          "he": "היחידים רוצים להתענו'. אפי' רצופים ולא חיישי' שמא יחלה ויצטרך לבריו' ערסי' תקע\"א:",
+          "en": "",
+          "ref": "Magen Avraham 577:3"
+        },
+        "4": {
+          "he": "בענינו וכו'. ובקראקא נוהגים שהש\"ץ והצבור אומרים ריצוי זה בשומע תפלה כשיש הרבה גשמים:",
+          "en": "",
+          "ref": "Magen Avraham 577:4"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "המחרישה.  וה\"ה אם מקלקלים ומפסידין בענין אחר. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 577:1"
+        },
+        "2": {
+          "he": "בעננו.  בקראקא נוהגים שהש\"ץ והצבור אומרים ריצוי זה בשומע תפלה כשיש הרבה גשמים ע' סימן קי\"ז ס\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 577:2"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) בכל מקום - פי' אפילו ארץ הרים שריבוי הגשמים הוא לטובתה מ\"מ אם מטשטשים וכו' וכ\"ש אם הוא ארץ מצולה שריבוי הגשמים הוא לקלקלה בודאי תמיד מתריעין על רוב הגשמים [טור]:",
+          "en": "",
+          "ref": "Mishnah Berurah 577:1"
+        },
+        "2": {
+          "he": "(ב) ומונעים המחרישה - וה\"ה אם מקלקלים ומפסידים בענין אחר [מ\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 577:2"
+        },
+        "3": {
+          "he": "(ג) מתריעים וכו' - מדסתם משמע דדעתו שיתנהג בזה כסדר כסדר תענית המבואר בסימן תקע\"ה ועיין בב\"י:",
+          "en": "",
+          "ref": "Mishnah Berurah 577:3"
+        },
+        "4": {
+          "he": "(ד) נחפז - פי' שצריך להתענות רצופות מפני שסכנתו בכל יום כגון עיר שהקיפוה עכו\"ם וכה\"ג ולפי ענינם אין מקום לתענית בה\"ב ובכל יום א\"א לגזור תענית על הצבור לפיכך אין גוזרין תענית כלל:",
+          "en": "",
+          "ref": "Mishnah Berurah 577:4"
+        },
+        "5": {
+          "he": "(ה) היחידים רוצים להתענות - אפילו רצופים ולא חיישינן שמא יחלה ויצטרך לבריות [מ\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 577:5"
+        },
+        "6": {
+          "he": "(ו) בעננו - הנה בד\"מ משמע שראוי לומר עננו אחר התפלה בדרך א\"ב כמו שאומרים בעשי\"ת ולא ראיתי נוהגין כן אלא המנהג במדינותינו שהש\"ץ אומר ריצוי זה בשומע תפלה כשיש הרבה גשמים [מפ\"מ ומ\"א]:",
+          "en": "",
+          "ref": "Mishnah Berurah 577:6"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

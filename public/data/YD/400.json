@@ -1,0 +1,164 @@
+{
+  "chelek": "YD",
+  "siman": 400,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-08T00:01:44.908Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני אבלות בשבת. ובו ב' סעיפים:שבת אינו מפסיק אבלות ועולה למנין שבעה שהרי קצת דיני אבלות נוהגים בו דהיינו דברים שבצינעא שהם תשמיש המטה ורחיצה אבל דברים שבפרהסיא (לא) דהיינו להסיר עטיפתו (ודוקא כשהוא מעוטף עטיפות ישמעאלים כמו שנתבאר לעיל סימן שפ\"ו אבל קצת עטיפה שנוהגים בקצת מקומות כל ל' אין צריך להסיר בשבת הואיל ויש לו מנעלים ברגליו) (מהרי\"ו סימן ה') וללבוש מנעליו ולזקוף המטה מכפייתה ושלא ללבוש בגד קרוע אלא מחליפו ואם אין לו להחליף מחזיר קרעו לאחריו ות\"ת הוי דבר שבצינעא אבל לחזור הפרשה כיון שחייב אדם להשלים פרשיותיו עם הצבור הוי כקורא את שמע ומותר ואם קראו את האבל לעלות לתורה צריך לעלות שאם היה נמנע היה דבר של פרהסי' ורבינו תם היו קורים אותו בכל פעם שלישי ואירע בו אבלות ולא קראו החזן ועלה הוא מעצמו ואמר כיון שהורגל לקרותו שלישי בכל שבת הרואה שאינו עולה אומר שבשביל אבלות הוא נמנע והוי דברים של פרהסיא. (וכן אם הכהן אבל ואין כהן אחר בב\"ה מותר לקרותו אבל בענין אחר אסור) (הגהות מיימוני פ\"ג מה\"א) :",
+      "en": "The Sabbath does not interrupt the mourning and enters into the counting of the seven [days],1Mishna M.K. 19a. For were the Sabbath not included there would never be seven consecutive days of mourning. Thus Y.M.K. III, 5(83a).  also Gen. R. § C. For the reason why a Festival day does not enter into the counting of the seven days, v. M.K. 23b, Tosaf. s.v. מאן דאמר end. for some of the laws of mourning are observed therein, viz., matters of privacy, as the use of the conjugal couch and bathing, but matters that affect public mourning [one does] not [observe]. [Hence, he should] remove the mourner's wrapping,2M.K. 24a in accord with Samuel. Thus also ruling of Alfasi and other commentators who accept Samuel’s ruling, for R. Naḥman and R. Joḥanan (ibid.) concur with him, contra Tosaf. ibid. s.v. שמואל. and [this applies] only if he [the mourner] is wrapped up in a covering of Ishmaelites as was explained supra § 386, but [if] only [wrapped in] part of a covering, which is the practice in some localities for the entire thirty [days], he is not required to remove [it] on the Sabbath, since he has shoes on his feet;3MaHaRIW s. 5 — Wearing shoes is sufficient evidence that he is not observing mourning rites. and [he must]4Thus ShaK. put on his shoes5Tur citing Asheri in his Decisions, since nowadays it is no longer customary to go barefooted. At the termination of the Sabbath he removes them. It is wrong on the part of some people to terminate the mourning rites on Friday after midday, but the mourner must observe mourning rites on Friday until two and a half hours prior to nightfall. An hour refers to one twelfth of the day which begins with sunrise and ends with sunset — Codifiers. and put up the couch from its overturned [position],6M.K. ibid. in accord with the dictum of Samuel. and he should not wear a rent garment, but changes it; and if he has no [garment] to change [into], he turns the rent side [of his garment front] to back. [With respect to] the study of Torah, it is [regarded] as a matter pertaining to private [mourning].7Tur citing Asheri in his Decisions. So also Hag. Maim. to Yad, Ebel IV citing R. Meir of Rothenberg. However, to review the [weekly Biblical] portion, — [the law is that] since a person is dutibound to complete [the weekly Biblical] portion with the Congregation,8Ber. 8a. As to reading the Hebrew text twice and the Aramaic version (Targum) once (v. Ber. ibid.) it is also permitted — ShaK. A mourner whose son’s circumcision takes place on the Sabbath, may be called to the reading of the Torah — P.Tesh. contra TaZ. Likewise, if the mourner is observing Yahrzeit on the Sabbath, he may be called to the reading of the Torah. he is [regarded] as one who reads the Shema,9 Glos. and is permitted. If the mourner was called to the reading of the Torah, he is required to go up, for should he refrain [from so doing], it would be [regarded as] a matter of public [mourning, which is forbidden on the Sabbath]. R.Tam would always be called [to the reading of the Torah on the Sabbath as] third, and [when] mourning [once] befell him and the Hazzan9 Glos. did not call him [as usual], he went up of his own accord and stated [that since] he was accustomed to be called as third on every Sabbath, one who notices that he does not go up [now] will say that on account of mourning he refrained [from going up] and [consequently], this would be regarded as a matter pertaining to public mourning [which is forbidden on the Sabbath]. Likewise, if the Kohen9 Glos. is a mourner, and there is no other Kohen9 Glos. in the Synagogue, it is permissible to call him [to the reading of the Torah], but otherwise it is forbidden.10Hag. Maim. to Yad, Ebel III — G.",
+      "ref": "Shulchan Arukh, Yoreh Deah 400:1"
+    },
+    {
+      "seif": 2,
+      "he": "גררתו חיה או הרגוהו לסטים ובשבת נתייאש מלבקש כיון דדברים שבצינעא נוהג בשבת עולה לו ליום אחד: הגה אם פגע יום ל' של אבלות בשבת ויום כ\"ט בערב שבת מותר לו לרחוץ בערב שבת אף במקומות שנוהגים שלא לרחוץ כל ל' דהואיל ומדינא שרי לאחר שבעה אלא שנהגו להחמיר כל ל' בכהאי גוונא שרי משום כבוד שבת (הגהות מיימוני בשם מהר\"ם פ\"י ופ\"ו די\"ט) וה\"ה כל כיוצא בזה כגון לחזור אל מקומו בליל שבת וללבוש בגדי שבת דהא נמי אינו אלא מנהג בעלמא (כן נראה מדברי מהר\"ש) כמו שנתבאר לעיל סי' שפ\"ט וש\"צ ואע\"פ שיש לחלק בין רחיצה שאסורה בשבת ובין דברים אלו שאפשר לו לעשות בשבת מ\"מ אין נ\"ל לחלק בכך :",
+      "en": "If a beast dragged him away or [there is a rumour that] robbers have murdered him,11Y.M.K. III, 5(82a); M.K. 17b, Tosaf. s.v. כשחל; Mord. citing R. M. of Angleterre, quoted in B.Yos. § 403. and on the Sabbath the search [for him] was given up,12Hence, the corpse is considered as buried. Cf. supra § 375 and notes. — [the law is that] since he observes matters pertaining to private [mourning] on the Sabbath, it enters into [the counting] of one day13Even as the first day (v. infra § 402, 7) — ShaK. [of the seven days of mourning]. Gloss: If the thirtieth day of mourning fell on the Sabbath and the twenty-ninth day on the eve of the Sabbath, he is permitted to bathe on the eve of the Sabbath,14Derived from M.K. 17b. Cf. supra § 399, 3 and notes. even in localities where it is customary not to bathe for the entire thirty [days], for since legally [bathing] is permissible after the seven [days], only that [people] have adopted a stringent view for the entire thirty [days], — in a case such as this, it is permissible out of respect to the Sabbath.15Hag. Maim. citing R. Meir of Rothenberg to Yad, Ebel X; ibid. to Yad, Yom Tob VI — G. Hair-cutting and removing nails are, however, forbidden — D.Merb., A.H. Some authorities permit—P.Tesh. And likewise, anything similar to this, e.g., [it is permissible for him] to return to his [customary] place in the Synagogue on the Sabbath night and to wear Sabbath garments, for this too, is merely a custom16Thus it seems to be implied in words of RaShaL — G. as has been explained supra § 389 and § 390; and although a distinction may be drawn between bathing, which is forbidden on the Sabbath and these [aforementioned] matters which it is possible for him to do on the Sabbath, yet, it does not seem to me [that there is a need for] making such a distinction.",
+      "ref": "Shulchan Arukh, Yoreh Deah 400:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה מ\"ק דף י\"ט ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 400:1"
+        },
+        "2": {
+          "he": "כמימרא דשמואל שם דף כ\"ד ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 400:2"
+        },
+        "3": {
+          "he": "טור בשם אביו הרא\"ש שם בפסקיו כיון דהאידנא אין רגילין לילך יחף מדאמרינן לאו כ\"ע עבידי דסיימי וכו' שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 400:3"
+        },
+        "4": {
+          "he": "שם במימרא דשמואל:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 400:4"
+        },
+        "5": {
+          "he": "טור מדברי אביו הרא\"ש בפסקיו וכ\"כ הגהמ\"יי בפ\"ד בשם הר\"מ: (°) וכ' רש\"ל בתשובה סימן ע\"א דאבל שיום מילת בנו בשבת אין לו לעלות בתורה אף ע\"פ שנהגו בקצת מקומות שאבי הבן הוי חיוב לעלות ביום מילת בנו מ\"מ לא מקרי פרהסיא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 400:5"
+        },
+        "6": {
+          "he": "ירושלמי ומרדכי בשם הר\"מ מאנגלטירא הביאו הב\"י בסימן ת\"ג: (°) איתא בגמרא דף כ\"ז ע\"א והביאו הטור בסוף סי' זה זוקפין המטות בע\"ש מן המנחה ולמענה ואמר רבה וכו' אע\"פ כן אינו יושב עליה עד שתחשך וכתבו התוספות שם דמכאן סמכו שלא לישב ע\"ג כסא וספסל וכו':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 400:6"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "אבל דברים שבפרהסיא. דהיינו להסיר עטיפתו אינו נוהג וצריך ללבוש מנעליו ולזקוף המטה. כו' כן ראוי להיות:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 400:1"
+        },
+        "2": {
+          "he": "ודוקא כו' הואיל ויש לו מנעלים ברגליו. לא ידעתי מה ענין מנעלים ברגליו לכאן דמאן דמתיר משום מנעלים ברגליו מתיר אפי' בעטיפת ישמעאלי' כדמשמע בש\"ס ורמב\"ן ובאמת במהרי\"ו כ' דהכא מותר מטעם כיון שנוהגים בעטיפה זו גם אחר ז' ימי אבילות דלא אסרינן דבר שבפרהסיא אלא מה שאינו רק תוך ז' ואח\"כ כתב דמותר ג\"כ מטעם דמנעלים ברגליו עיין שם ובעט\"ז השמיט האי סיומא דהואיל ויש לו מנעלים ברגליו: הב\"ח בס\"ס שפ\"ו דמהרי\"ו מיירי באותה עטיפה שהוא לבוש שקורין קאפ\"א לפי מה ששמעתי שנוהגים להתעסק בה כל ל' אבל לשום הכובע לפני העינים שנוהגים במלכותינו כל ז' בלחוד דזהו נקרא עטיפה לדידן הוי פרהסיא בשבת אם לא יגביה הכובע כדרך כל אדם הילכך מיד שמתחיל הש\"ץ ברכו חייב להגביה הכובע ע\"כ:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 400:2"
+        },
+        "3": {
+          "he": "מחזיר קרעו לאחריו. והאידנא לא נהגו לדקדק בזה ואפשר דמנעלים מוכיחים עליהן וכמ\"ש הגהמ\"י ומביאה בית יוסף דהיכא דמנעלים ברגליו אין צריך לחזרת קרע עיין שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 400:3"
+        },
+        "4": {
+          "he": "אבל לחזור הפרשה כו'. כתוב בדרישה בשם מהרש\"ל דה\"ה לחזור שנים מקרא ואחד תרגום מותר ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 400:4"
+        },
+        "5": {
+          "he": "ובשבת נתייאש לבקשו כו'. דכיון דנתייאשו לבקשו הוי ליה כנקבר כדלעיל סימן שע\"ה סעיף ז' ושבת עולה אפילו בתחלת המנין כדלקמן סימן ת\"ב ס\"ז:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 400:5"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אבל לחזור הפרשה. ובאגודה כתב ונראה לאיסור וכ' רש\"ל להכריע דבחול אסור ובשבת שרי שהוא זמנו והוא מחובת היום עד כאן לשונו. וכתב רש\"ל בתשובה סימן ע\"א דאבל שיום מילת בנו בשבת אין לו לעלות לתורה אע\"פ שנהגו בקצת מקומות שאבי הבן הוי חיוב לעלות ביום מילת בנו מכ\"מ לא מקרי פרהסיא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 400:1"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "דברים שבפרהסיה. עי' בתשו' גבעת שאול סי' ע\"ב שכתב דמה שנוהגים העולם בע\"ש תוך ז' ימי אבילות לישב על כסא וספסל וללבוש מנעלים תיכף אחר חצות היום מפני כבוד שבת טעות הוא וראוי לכל בעלי תורה למחות ולגעור באותם אנשים המקילים בדבר זה ולבטל מנהגם ע\"ש ועי' בשו\"ת שיבת ציון סי' סמ\"ך שכתב דאבל בע\"ש משעה שהקהל קבלו עליהם שבת דהיינו באמירת ברכו פסק דין אבילות דאז הוא הכנסת שבת וכן נוהגין שהאבל עומד בע\"ש למנחה בחליצת מנעלים חוץ לבהכ\"נ וקודם שמתחיל החזן ברכו קוראים להאבל שיכנוס ונועל מנעליו וכל זה אם האבל דר במקום שמתפללין בצבור והיחיד נגרר אחר הצבור אבל אם האבל דר במקום שאין שם מנין עשרה ודאי שאין האבל רשאי להקדים לקבל עליו שבת בעוד היום גדול כדי לפטור עצמו מדיני האבילות ואף שהוא נוהג בכל שבתות השנה להוסיף הרבה מחול על הקודש אפ\"ה בע\"ש שבתוך האבילות אינו רשאי להסיר מעליו חיוב דיני אבילות קודם זמן מנחה קטנה שהוא ב' שעות ומחצה קודם הלילה אבל מזמן מנחה קטנה רשאי להקדים ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 400:1"
+        },
+        "2": {
+          "he": "ולזקוף המטה. עי' בתשו' הרדב\"ז ח\"א סי' ס\"ב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 400:2"
+        },
+        "3": {
+          "he": "הפרשה. עבה\"ט ועי' בספר בית הלל בהג\"ה לבן המחבר שכתב לפ\"ד הי\"א בא\"ח סי' רפ\"ה שעד רביעי בשבת הוי לאחר שבת לענין שיקרא הסדר שמו\"ת וא\"כ כשישלים הז' ימי אבילות בא' או בב' אינו רשאי לקרות בשבת הסדר שמו\"ת אחד שיכול להשלים עד רביעי בשבת עכ\"ד ועי' בשאלות ותשובות ארבעה ט\"א סי' י\"א שחולק עליו וסובר דלעולם צריך לקיים המצוה כתקנה לקרות בשבת עצמו. וכתב עוד שם דאסור ללמוד משניות מסכת שבת כמנהגו בכל שבת ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 400:3"
+        },
+        "4": {
+          "he": "מותר לקרותו. [עי' בתשו' ח\"ס סי' שנ\"ב שהאריך קצת מדוע השמיט הרמ\"א הא דאיתא בהגמי\"י בשם מהר\"ם מרוטונבורג דטוב שיצא מבהכ\"נ קודם שיקראו לתורה. ובסוף כתב מ\"מ פשוט במקום דכהן רגיל לצאת מבהכ\"נ כדי לקרוא ישראל במקומו א\"כ גם כשהוא אבל ליכא אבילות פרהסיא כולי האי אם יוצא מבהכ\"נ ומ\"מ אם אינו יוצא וקורים אותו אין בכך כלום ע\"ש]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 400:4"
+        },
+        "5": {
+          "he": "אסור. עבה\"ט של הרב מהרי\"ט ז\"ל בשם רש\"ל ועי' בתשו' דת אש סי' ו' שדעתו אילו כן וכתב דאם אירע לאבל בשבת שתוך ז' הוא חיוב לעלות לתורה כגון אם אשתו יולדת או שהוא יא\"צ מותר לעלות לתורה דאם אינו עולה יהיה אבילות דפרהסיא ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 400:5"
+        },
+        "6": {
+          "he": "לרחוץ. עבה\"ט של הרב מהרי\"ט ז\"ל לענין גלוח ועי' בתשו' אא\"ז פמ\"א ח\"ב סוס\"י קמ\"ח שכתב דלהאוסרים גילוח ה\"ה ליטול צפרניו בסכין אסר ופסק כן ע\"ש. ועי' בתשובת תשואת חן סי' ל\"ג שהאריך בזה והעלה דמי שאין לבו נוקפו יכול לסמוך ולהקל לכבוד שבת אף בגילוח עיין שם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 400:6"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "מנעלים.  כתב הש\"ך לא ידעתי מה ענין מנעלים ברגליו לכאן דמאן דמתיר משום מנעלים ברגליו מתיר אפילו בעטיפת ישמעאלים וכ\"מ בש\"ס וברמב\"ן. ובאמת במהרי\"ו כתב דהכא מותר מטעם כיון שנוהגים בעטיפה זו גם אחר ז' ימי אבלות דלא אסרינן דבר שבפרהסיא אלא מה שאינו רק תוך ז' ואח\"כ כתב דמותר ג\"כ מטעמא דמנעלים ברגליו ע\"ש. ובלבוש השמיט האי סיומא דהואיל ויש מנעלים ברגליו עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 400:1"
+        },
+        "2": {
+          "he": "מחזיר.  כתב הש\"ך והאידנא לא נהגו לדקדק בזה. ואפשר דהמנעלים מוכיחים עליהם כמ\"ש הב\"י דהיכא דהמנעלים ברגליו א\"צ לחזרת קרע ע\"ש עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 400:2"
+        },
+        "3": {
+          "he": "הפרשה.  כתב בדרישה בשם מהרש\"ל דה\"ה לחזור שנים מקרא ואחד תרגום מותר ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 400:3"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

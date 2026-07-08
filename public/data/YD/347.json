@@ -1,0 +1,88 @@
+{
+  "chelek": "YD",
+  "siman": 347,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 3,
+  "fetchedAt": "2026-07-08T00:01:37.363Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "שלא לעורר על מתו שלשים יום לפני הרגל. ובו ג' סעיפים:מי שמת לו מת לפני שלשים יום הסמוכים לרגל לא יספדנו משיכנסו שלשים יום הסמוכים לרגל ואפי' יש לו הספד בלא זה כגון שמת לו מת בתוך שלשים שמותר לספדו ואפילו מת ערב הרגל אסור להספיד עמו על המת שמת לו לפני שלשים יום קודם המועד:",
+      "en": "One who suffered a bereavement prior to thirty days before1Lit. ‘close to.’ a Festival, should not make a lamentation for him2The dead. from [the time] that the thirty days before1Lit. ‘close to.’ the Festival begin.3Lit. ‘enter.’ M.K. 8a; Y.M.K. I, 5(80d). Since the dead will not be put out of mind for at least thirty days (M.K. ibid. in accord with Samuel), and if a lament is held during this period, his grief and bitterness would be roused during the Festival. This applies even if the lamentation is performed gratis (cf. opinion of Rab ibid.).  Tur a.l. Prior to Rosh Hashana and Yom Kippur it would be permissible — P.Tesh. [This applies] even if he has to make a lamentation4Thus RaBaD. [in any case] without this, e.g., [if] he suffered [another] bereavement within the thirty days [of the Festival], for whom it is permissible to make a lamentation, even if he died on the eve of the Festival,5For in the case of the new bereavement his grief would not be roused any more than it is, which would not be the case were he to make a lamentation for the old bereavement too, as a result of which the festive spirit of the Holiday would be greatly diminished. [nevertheless], it is forbidden to make a lamentation along with him6The new dead. for the bereavement that he suffered before thirty days prior to the festive season.7If a renowned scholar dies, it is permissible to make a lamentation even within thirty days of the Festival, on accoun of the honour which we are dutibound to extend towards him — P.Tesh. The entire ruling as stated here is also found in O.Ḥ. § 547, 3.",
+      "ref": "Shulchan Arukh, Yoreh Deah 347:1"
+    },
+    {
+      "seif": 2,
+      "he": "מי שבאה לו שמועה בתוך שלשים יום קודם הרגל נראה לי שמותר לספדו אף על פי שהיא רחוקה:",
+      "en": "One who received tidings [of death] within thirty days before the Festival, it seems to me that it is permissible to make a lamentation8Since the grief is fixed and will not be roused any more than it is on account of the lament. Consequently, this case is similar to a new bereavement suffered within thirty days prior to the Festival at which time it is permitted to hold a lament (cf. supra par. 1). for him,9The dead person. although it is [already now] distant [tidings].10e., the death occurred before the thirty days prior to the Festival. This law is based by Caro on Y.M.K. ibid. and is also found in O.Ḥ. ibid. par. 4.",
+      "ref": "Shulchan Arukh, Yoreh Deah 347:2"
+    },
+    {
+      "seif": 3,
+      "he": "מה שאנו נוהגין בתשלום השנה לקונן ולהזכיר נשמות נראה לי שאינו בכלל זה ומותר לעשותו סמוך לרגל:",
+      "en": "Our accepted practice upon completion of the [first] year to bewail and to memorialize the souls [of the dead],11Thus was the custom in Spain. seems to me, is not included in this principle,12 supra par. 1. The reason was that this memorial marked the conclusion of the mourning period at which time it was customary to change from dark to light garments. and it is permissible to do so close to the Festival.13e., within the thirty days. It is permissible to memorialize the souls of departed ones for the first time, even during the Festival — ShaK. For the source of this ruling cf. B.Yos. to O.Ḥ. ibid. par. 5. One is permitted to recite the Yizkor Memorial prayers during the first year after death and must not wait until a complete year has passed — Sukkath Shalom. It is customary for those whose parents are living to leave the Synagogue during the Yizkor Service so as not to disturb those who recite these prayers — Minhage Yeshurun.",
+      "ref": "Shulchan Arukh, Yoreh Deah 347:3"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "צינתיו בא\"ח סי' תקמ\"ז: (°) כאשר הגהתי כן הוא בטור וברא\"ש וש\"פ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 347:1"
+        },
+        "2": {
+          "he": "ג\"ז שם: דין להספיד בחלילין שהביא העובד כוכבים בשבת או קבר שעשה העובד כוכבים שם בסימן שכ\"ה ואם מותר להחשיך עליהן שם בסי' ש\"ו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 347:2"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "מי שמת כו'. עיין מזה בא\"ח סי' תקמ\"ז סעיף ג' ודין מחשיכין על התחום בשבת להביא צרכי המת כתוב בא\"ח סי' ש\"ו ס\"ג ודין עובד כוכבים שעשה קבר והביא חלילין בשבת נתבאר שס סי' שכ\"ה סעיף י\"ד ט\"ו ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 347:1"
+        },
+        "2": {
+          "he": "נ\"ל כו'. וכ' העט\"ז ואנו נוהגין להזכיר אפילו פעם הראשון אפילו בתוך הרגל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 347:2"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "לא יספדנו. עי' בשו\"ת בית אפרים חי\"ד סי' ע\"ח שהאריך הרבה בדין זה והוכיח שדעת גדולי הראשונים דכל שהוא עדיין תוך למ\"ד יום למיתתו אע\"פ שהוא תוך שלשים לרגל שרי דכל כה\"ג מת חדש מקרי ודוקא אם בשעת ההספד כבר עברו ל' יום ממיתתו והוא בתוך ל' לרגל אז הוא מתישן ואסור (וכן דעת הרדב\"ז בתשובות החדשות סי' נ\"ד ע\"ש) ומ\"מ מסיק שאין לזוז מדברי הש\"ע אשר קיימו וקבלו עליהם כל ישראל אכן אם הוא צורך שעה שמת גדול הדור שמוטל על כל הת\"ח להספידו ומפני כבודו של חכם יש להספידו אפי' תוך ל' לרגל וכן עשה מעשה בעצמו וכתב שגם הגאון מהר\"ר יעב\"ץ ז\"ל כתב שיש צדדים להתיר אך מ\"ש דעל מתו המחוייב להתאבל דוקא אסור צ\"ע ע\"ש. ועי' בס' אגודת אזוב בקונטרס אלון בכות דרוש ו' שככב בשם שבו\"י ח\"ב שהורה להתיר להספיד תוך ל' יום קודם הרגל לת\"ח משום כבוד התורה והוא ז\"ל דחה ראייתו אך כתב דהיינו דוקא במקום שיש שם קרובי המת אבל במקום שאין שם קרובי המת לא שייך איסור זה לכ\"ע ע\"ש טעמו ונימוקו שוב עיינתי בשבו\"י ח\"ב ס\"ס כ\"ה וראיתי שגם הוא ז\"ל ירד לחילוק זה דדוקא על מתו דמריר ליביה טובא ויש חשש לרב שיוציא כל ממונו מה שהכין לכבוד הרגל ולשמואל לפי שאין המת משתכח מן הלב ואתי למספד ברגל אבל אם אינו מתו רק שמספידו בשביל כבוד תורתו אינו מתעורר ההספד בלבו כ\"כ ולא חיישינן וטעם דכבוד התורה כתב רק לסניף בעלמא ע\"ש. וכתב עוד בספר אג\"א שם דר\"ה ויוה\"כ אינם כרגלים לענין זה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 347:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "בתשלום.  כתב הלבוש ואנו נוהגין להזכיר אפילו פעם הראשון אפילו בתוך הרגל עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 347:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

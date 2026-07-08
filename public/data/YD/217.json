@@ -1,0 +1,1420 @@
+{
+  "chelek": "YD",
+  "siman": 217,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 48,
+  "fetchedAt": "2026-07-08T00:01:25.161Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין הנודר מהמבושל מהמליח ממעשה קדירה ודומיהם וכיצד הולכין בנדרים אחר לשון בני אדם. ובו מ\"ח סעיפים:נדר או נשבע מהמבושל אם דרך אותו מקום באותו לשון ובאותו זמן שקוראין מבושל אפי' לצלי ולשלוק הרי זה אסור בכל ואם אין דרכם לקרות מבושל אלא לבשר שנתבשל במים ובתבלין הרי זה מותר בצלי ובשלוק וכן המעושן והמטוגן והמבושל בחמי טבריא וכיוצא בהם הולכים בו אחר הלשון של בני העיר:",
+      "en": "Règles concernant les vœux relatifs aux aliments bouillis, aux aliments salés et à diverses sortes d’aliments cuits. — Comment il faut traiter les vœux, en tenant compte de la façon de parler de ceux qui les ont prononcés.Lorsqu’une personne fait vœu, ou jure, de ne pas manger d’aliments bouillis, et que, dans ce lieu et dans ce temps, on désigne sous ce nom, non seulement les aliments bouillis, mais encore les mets rôtis et grillés, tous ces mets lui sont interdits. Mais si l’on a coutume de n’appeler bouilli que la viande cuite dans l’eau et les légumes, il lui est permis de manger de la viande rôtie ou grillée, de la viande fumée, ou frite dans la graisse, ou échaudée instantanément dans l’eau des sources thermales de Tibériade. En un mot, les formules du vœu ont la signification exacte qui leur est donnée dans la ville même où le vœu est prononcé.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:1"
+    },
+    {
+      "seif": 2,
+      "he": "הנודר ממעשה קדירה אינו אסור אלא מדברים שמרתיחים אותם בקדירה כגון ריפות ולביבות וכיוצא בהם אסר עצמו מכל היורד לקדירה הרי זה אסור בכל המתבשלים בקדירה נדר מהיורד לתוך התנור אינו אסור אלא בפת ואם אמר כל מעשה תנור עלי אסור בכל הנעשה בתנור:",
+      "en": "Quand une personne fait vœu de ne pas manger d’un légume qui doit être cuit(a)C’est-à-dire d’un légume qui, non cuit, ne serait pas comestible., seuls les légumes de cette nature, par exemple les grains de froment ou de lin, lui sont interdits. Si elle a dit: «Que tous les légumes cuits me soient défendus», n’importe quel légume cuit lui sera interdit. Si quelqu’un fait vœu de ne pas manger «de la chose que l’on cuit dans un four», le pain seul lui est défendu; mais s’il a dit: «Que tout ce qui est cuit au four me soit défendu», tout aliment qui aura été fait au four lui sera interdit.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:2"
+    },
+    {
+      "seif": 3,
+      "he": "נדר או נשבע מן המליח אם דרכם לקרות מליח לכל המלוחים הרי זה אסור בכל המלוחין אפי' אינו מליח אלא להתקיים לשעה ואם אין דרכם לקרות מליח אלא לדג מליח בלבד אינו אסור אלא בדג מליח (טור ורא\"ש ור\"ן בשם הירושלמי) נדר או נשבע מן הכבוש אם דרכם לקרות כבוש לכל הכבושים הרי זה אסור בכל ואם אין דרכם לקרות כבוש אלא לירק כבוש בלבד אינו אסור אלא בכבוש של ירק וכן כל כיוצא בזה היו מקצת בני המקום קורין לו כך ומקצתן אין קורין אין הולכין אחר הרוב אלא הרי זה ספק נדרים וכל ספק נדרים להחמיר:",
+      "en": "Quand une personne fait vœu de ne pas manger de salaisons, et qu’on a l’habitude de désigner sous ce nom tout aliment mis dans le sel, même s’il ne reste dans le sel que peu de temps afin de se mieux conserver, tous les aliments salés sont défendus à cette personne. Mais si l’on a l’habitude de nommer «aliment salé» le poisson seulement, le poisson seul lui est interdit. Lorsqu’une personne fait vœu ou jure de ne pas manger de conserve, et qu’on désigne sous ce nom toutes les substances alimentaires en conserve, toutes les conserves lui sont interdites. Mais si l’on n’emploie le mot «conserve» que pour désigner les légumes verts conservés, la personne a le droit de manger de toutes les conserves, sauf des conserves de légumes. Si une partie des habitants de la ville appelle «conserves» toutes les substances alimentaires préparées pour être gardées, tandis que les autres habitants donnent ce nom seulement aux légumes verts en conserve, il ne faut pas s’en rapporter à la majorité, mais considérer le cas comme un cas douteux; or, quand il s’agit d’un vœu, on doit se montrer très sévère en cas de doute.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:3"
+    },
+    {
+      "seif": 4,
+      "he": "אמר קונם ירק עלי אינו אסור אלא בנאכלין חיים ואם אמר ירקי קדירה עלי אסור אף בנכבשים בה ואם אמר ירק המתבשל בקדרה אינו אסור אלא במתבשל בה ומיהו אסור בכל המתבשל בה אף בדילועין (פירוש מין ירק שעליו גדולות ביותר. ערוך) שכל דבר שהשליח נמלך עליו הוא בכלל המין ההוא ואם אמר לשלוחו קח לי ירק ואינו מוצא אלא דילועים הוא נמלך בו לומר תרצה דילועין אבל אם נדר מהדילועין מותר בירק:",
+      "en": "Si une personne dit: «Que les légumes verts me soient défendus», ces légumes ne lui sont interdits que s’ils sont crus(b)Voilà une décision surprenante. Car il est de règle de toujours s’en rapporter au sens naturel des mots, et, si quelqu’un s’interdit les légumes verts en général, on comprend qu’il se les interdit, aussi bien cuits que crus. J’ai lu attentivement la michenah et la guemara du traité Nedârîm, page 54, source du présent article, et je n’y ai trouvé aucune justification à la décision de notre auteur. Mais de nombreux commentaires (en particulier rabbi Acher-ben-Lehiel, ou Roche) disent qu’en général les légumes verts se mangent cuits; je pense donc que notre auteur, s’appuyant sur cette remarque, a voulu dire: «Si quelqu’un s’interdit les légumes verts, l’interdiction comprend même ces légumes crus», et qu’il y a dans le texte, une faute d’impression (il faudrait barrer les deux mots: אינו... אלא, et les remplacer par le mot אף).. Si elle dit: «Que les légumes verts, qu’on met dans le pot-au-feu, me soient défendus», la défense s’étend aux légumes verts conservés(c)On voit combien cette formule de vœu est vague; on pourrait en effet la comprendre de trois façons différentes:1° La personne s’est interdit tout légume vert, qui aurait été cuit dans le pot-au-feu, et alors l’auteur a eu parfaitement raison d’interdire également les légumes verts conservés, puisqu’il est de règle d’assimiler les conserves aux choses cuites. Mais les légumes verts crus seront permis, car le vœu ne les visait pas.2° La personne ne voulait parler que des légumes verts non comestibles crus; et alors ceux qu’on mange crus lui seraient permis, crus ou cuits, son vœu n’ayant pas porté sur les légumes verts de cette sorte.3° La personne ne songeait qu’aux légumes verts qu’on ajoute au pot-au-feu, pour donner du goût aux aliments (par exemple: ail, oignon); et alors elle pourrait manger de tous les légumes verts qui n’ont pas ce rôle.Donc il y avait doute pour ceux qui entendaient prononcer le vœu, et, en cas de doute, les vœux deviennent plus impérieux; dès lors tous les légumes verts, qu’ils se mangent crus ou cuits, qu’ils soient des assaisonnements ou non, devraient être interdits. Mais le rabbin, que la personne ira trouver, pourra facilement la délier de son vœu en lui disant: «Quand vous avez prononcé votre vœu, vous ne pensiez pas à ceci. Vous n’aviez pas dans l’idée cette autre interprétation qu’on pouvait donner à vos paroles, etc...». Si elle dit: «Que le légume vert, qui cuit dans le pot-au-feu, me soit interdit», seul le légume désigné lui est défendu. Cette défense s’appliquerait même au dilouïne, qu’on aurait qualifié de légume vert(d)Le mot dilouïne désigne peut-être l’artichaut. Le Talmud dit qu’on mangeait ce produit au vinaigre, et qu’il présentait des festons; il était considéré comme un fruit par les agronomes, mais le vulgaire en faisait un légume vert. De là l’assimilation, que fait l’auteur, du dilouïne avec les légumes verts, dans le cas d’un vœu.; on considère en effet comme étant de même espèce deux choses entre lesquelles il y a hésitation; par exemple, si une personne charge une autre d’acheter pour elle un légume vert, si celle-ci ne trouve que du dilouïne et si, après avoir réfléchi, elle pense qu’on s’en contentera à défaut d’autre légume vert, on assimile alors le dilouïne à un légume vert. Toutefois si une personne fait vœu de ne pas manger de dilouïne, les légumes verts ne lui seront pas interdits pour cela(e)Parce qu’en réalité, le dilouïne n’est pas un légume vert. Dans l’expression «légume vert» on a pu comprendre le dilouïne, mais en disant «dilouïne» on n’a sûrement pas pu vouloir dire: «légume vert»..",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:4"
+    },
+    {
+      "seif": 5,
+      "he": "הנודר מהירק אסור אפילו ביבש מאחר שאין לו גורן ומותר בפולין יבשים מאחר שיש לו גורן ואינם נקראים ירק אלא הלחים:",
+      "en": "Lorsqu’une personne fait vœu de ne pas manger de légumes verts, les légumes secs qu’on n’expose pas sur l’aire de la grange lui sont également défendus. Il lui est permis de manger des haricots secs, légume qu’on expose sur l’aire(f)Il est permis, pour la même raison, de manger les autres légumineux (pois, fèves...), secs; dans la michenah de Nedârîm, page 54, il est même dit que les légumineux ne sont pas compris dans la dénomination de «légumes verts».. On n’appelle légumes verts que ceux qui sont frais.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:5"
+    },
+    {
+      "seif": 6,
+      "he": "הנודר מהירק נסתפק בירושלמי אם הוא אסור בקולקס (פירש הערוך שהוא מין לוף ומונח בתרמילו ארוך ויש בו גרגרין הרבה):",
+      "en": "Quand une personne a fait vœu de ne pas manger de légumes verts, le Talmud de Jérusalem doute qu’il lui soit également interdit de manger des qoulqase.GLOSE: Le qoulqase est un fruit qui se trouve dans une enveloppe et qui contient des graines nombreuses.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:6"
+    },
+    {
+      "seif": 7,
+      "he": "הנודר מהבשר [אסור] בגידין מהגידין מותר בבשר:",
+      "en": "Lorsqu’une personne a fait vœu de ne pas manger de viande, les tendons de la viande lui sont également défendus; mais si elle a fait vœu de ne pas manger de tendons, la viande lui est permise(h)Dans le premier cas, la viande est la chose essentielle, elle entraîne les tendons, chose accessoire; dans le second cas, la chose accessoire ne saurait entraîner avec elle la chose essentielle..",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:7"
+    },
+    {
+      "seif": 8,
+      "he": "מקום שדרכם אם ישלח אדם שליח לקנות לו בשר אומר לו לא מצאתי אלא דגים אם נשבע או נדר במקום זה מהבשר נאסר אף בבשר דגים וכן כל כיוצא בזה ובכל מקום הנודר מהבשר אסור בבשר עופות ובקרבים ובראש וברגלים בקנה ובלב ומותר בחגבים ואם מראים הדברים בעת שנדר שלא נתכוין אלא בבשר בהמה בלבד [או לבשר עוף ובהמה בלבד] ה\"ז מותר בבשר דגים ואפי' במקום שהשליח נמלך עליהם. (ואפילו בבשר עופות נמי שרי דהא לא נתכוין רק לבשר בהמה) (כן משמע לשון הטור וכן מטין דברי הר\"ן):",
+      "en": "Quand une personne fait vœu, ou jure, de ne pas manger de viande, et que, dans ce pays, on appelle aussi viande la chair de poisson (exemple: une personne envoyée pour acheter de la viande, croira devoir, à défaut de viande, acheter du poisson), le poisson et la viande lui sont également défendus(i)Dans ce pays, viande et poisson sont compris sous le nom générique de «viande». Dès lors le vœu concernant la «viande» s’applique à toutes les espèces de «viande», et par suite au poisson.. Dans n’importe quel pays, le vœu de ne pas manger de viande englobe la volaille, ainsi que les entrailles, la tête, les pieds, les artères, le cœur des animaux; mais on peut manger des sauterelles(j)Cette règle prend sa source dans la michenah et la baraïtha du traité Nedârîm, page 54, 1-2, où est relatée la discussion entre le tanah Qama et rabban Siméon ben Gamliel. C’est l’opinion de Qama qui a prévalu. D’après Siméon ben Gamliel, la personne qui prononce le vœu de ne pas manger de viande s’interdit toutes sortes de viandes, mais non la tête, les pieds, les artères, le foie et le cœur des animaux de boucherie, non plus que la volaille, ni a fortiori, le poisson et les sauterelles. Si l’on eût accepté une semblable interprétation, il aurait été permis également de faire cuire la volaille dans du lait, car le Pentateuque ne parle que du «chevreau», et si on a pu assimiler les animaux de boucherie au chevreau, comme l’explique Rachi dans son commentaire, on ne pouvait pas faire semblable assimilation pour la volaille: «Tu ne feras pas cuire un chevreau dans le lait de sa mère.» (Exode, XXIII, 19).. Toutefois si la manière dont le vœu a été formulé montre bien qu’il ne s’agit que de la viande de boucherie, ou de la viande de boucherie et de la chair de volaille, il est permis de manger du poisson, même dans les pays où l’on peut désigner le poisson sous le nom de viande(k)Cet alinéa prouve, selon moi, que l’auteur penchait plutôt pour l’opinion de rabban Siméon ben Gamliel: Et en vérité n’est-ce pas la plus logique? Le mot «viande» s’applique en effet généralement, à la seule chair des animaux de boucherie; il ne s’applique guère à la chair de la volaille, encore moins à celle du poisson; la nature des mets est toute différente. Rabbi Aqibâ nous dit bien que, si une personne, envoyée au marché par une autre, achète, après réflexion, un certain comestible, en remplacement de celui qu’on lui demandait et qui fait défaut, les deux comestibles doivent être considérés comme étant de même espèce. Mais à ce compte, si je dis à un homme de m’aller chercher une bouteille de vin, parce que j’ai soif, et si cet homme, n’ayant pas trouvé de vin, m’apporte une carafe d’eau, pourrai-je conclure de là que le vin et l’eau sont de même espèce? Non, je trouverai seulement que mon homme a agi intelligemment..GLOSE: Il est aussi permis de manger de la volaille, si la formule du vœu indique bien qu’on n’a en vue que la seule viande de boucherie.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:8"
+    },
+    {
+      "seif": 9,
+      "he": "הנודר מהקיפה מותר ברוטב מהרוטב מותר בקיפה מהבשר מותר בשניהם אם לא שאומר קונם בשר עלי שאני טועם או שאני אוכל:",
+      "en": "Quand on fait vœu de ne pas manger le résidu du bouillon, le bouillon lui-même demeure permis. Si le vœu portait sur le bouillon lui-même, le résidu du bouillon est permis et le bouillon est défendu. De même si l’on fait vœu de ne pas manger de viande, bouillon et résidu sont permis(l)De nos jours, selon un commentateur, le vœu de ne pas manger de viande interdit aussi le bouillon et son résidu; il est seulement permis de manger du poisson., à moins toutefois qu’on n’ait dit: «Que la viande me soit défendue, si je la goûte, ou: si je la mange.»(m)Il y a ici une faute de copiste ou d’impression, le mot «cette» manque; il faudrait, selon les formules données au § 216, art. 9: «Que cette viande me soit défendue» ou bien: «Que la viande que je goûterais, ou: que je mangerais, me soit défendue.».",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:9"
+    },
+    {
+      "seif": 10,
+      "he": "הנודר מהגריסין אסור במקפה (פי' מרק קפוי ועב) של גריסין מהמקפה מותר בגריסין מהמקפה אסור בשום מהשום מותר במקפה מהתבלין אסור בחיין ומותר במבושלין ואם אמר קונם תבלין שאני טועם אסור בחיין ומבושלין מהכרוב [אסור] באספרגוס (פי' מין מים שבשלו בהם הכרוב רמב\"ם ורש\"י פי' מין כרוב) מהאספרגוס מותר בכרוב מהכרישין מותר בקפלוטות מהירק מותר בירקות שדה מפני שהוא שם לווי (משנה ס\"פ הנודר מן המבושל) (דבלשון בני אדם אינם קורין ירק סתם רק לירקות הגדלים בגנות) (ב\"י ורש\"י שם בפי' המשנה):",
+      "en": "Lorsqu’une personne fait vœu de ne pas manger d’une certaine sorte d’épis, le légume fait avec les grains de ces épis lui est défendu.(4)Il s’agit ici de la bouillie ou de la purée qu’on fait avec ces grains. Si elle a fait vœu de ne pas manger d’un légume préparé avec certains grains, il lui est permis de manger les épis eux-mêmes.(5)En général les bouillies se font avec des grains de différentes sortes mélangés, d’où l’autorisation donnée (Taze, 11). Si elle fait vœu de ne pas manger de légume préparé, l’ail lui est interdit.(6)Autrefois l’ail entrait dans toutes les bouillies (Chakh, 16). Si elle fait vœu de ne pas manger d’ail, un légume préparé lui est permis.(7)Bien que l’ail entre dans la préparation (note précédente). Cette autorisation provient de ce qu’on n’a pas l’habitude de préparer en légume l’ail tout seul; dès lors celui qui prononçait le vœu ne pouvait songer à une préparation quelconque, il ne pensait qu’à l’ail cru. Quand on fait vœu de ne pas manger d’aliments-condiments(8)Comme les aulx et les oignons, qui donnent du goût aux mets., ces aliments sont défendus crus, mais non cuits.(m)Peut-être cette autorisation vient-elle de ce que la cuisson a fait perdre à ces aliments leur saveur propre. Mais si une personne dit: «Que les aliments-condiments, que je goûterais, me soient interdits», ces aliments sont interdits, aussi bien crus que cuits.(n)Puisque la personne a dit: «Que je goûterais», il n’y a plus à tenir compte de la façon dont elle les aura goûtés, et elle ne pourra les manger ni crus, ni cuits. Si l’on fait vœu de ne pas manger d’un froment appelé Karoub, il est également défendu de manger de l’aspargouss; mais si le vœu porte sur l’aspargouss, le karoub peut être mangé.(o)Karoub est le nom générique du grain qu’on s’est interdit; aspargouss est le nom d’une espèce seulement de ce grain. Dès lors on sait parfaitement ce que la personne a voulu dire (Voyez la michenah de Nedârîm, page 53, 2).GLOSE: On appelle aspargouss l’eau dans laquelle le karoub a été cuit.(p)Cette explication est différente de celle de la michenah, sur laquelle je viens de m’appuyer dans la note précédente; elle est sûrement mauvaise; comment en effet, avec l’explication de Réma (rabbi Mocheh Isserlès, auteur des gloses), le texte pourrait-il interdire l’aspargouss à la personne qui a fait son vœu pour le Karoub? Ne serait-ce pas aller à l’encontre de l’article 9, qui distingue absolument, dans un bouillon, la partie solide de la partie liquide? Si l’on fait vœu de ne pas manger la graine de sainfoin, le Kaphloütoth reste permis. Si l’on fait vœu de ne pas manger de légumes verts, les légumes verts des champs sont permis, parce qu’ils portent un nom distinctif.GLOSE: On a l’habitude d’appeler «légumes verts» ceux qui sont cultivés dans les potagers; lorsqu’on veut parler d’un légume vert qui pousse dans les champs, on ajoute «des champs».(11)De nos jours, si une personne s’interdit par un vœu les légumes verts, ceux des champs lui sont également défendus, car on les désigne aussi maintenant sous la rubrique générale: «légumes verts».",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:10"
+    },
+    {
+      "seif": 11,
+      "he": "הנודר מהחלב מותר בקום (פי' מים המובדלים מהחלב כשמעמידים אותו הנקראת סור\"ו) נדר מהקום מותר בחלב (רמב\"ם פ\"ט מה\"נ ד\"ח). וי\"א דאם קורין לקום על שם החלב כגון שקורין אותה קומא דחלבא אסור (טור וב\"י בשם הר\"ן) מהחלב מותר בגבינה מהגבינה מותר בחלב ואסור בה בין מלוחה בין תפילה בין לחה בין יבשה:",
+      "en": "Lorsqu’on a fait vœu de ne pas boire de lait, le petit lait est permis; si on a fait vœu de ne pas boire de petit lait, le lait est permis.GLOSE: D’après certains auteurs, quand on a l’habitude de donner au petit lait clair le nom qui renferme le mot «lait», le lait et le petit lait sont défendus dans les deux cas.(r)C’est précisément ce qui aurait lieu en français; l’hébreu a en général un mot spécial קדם (Qôme) pour désigner le petit lait, et ce mot diffère totalement du mot חלב (Hâlâb)r lait. La glose s’appuie sur ce que, dans certaines localités, on appelait le petit lait קדמא דחלבא (Qômâ dehâlbâ) et alors, la personne qui a fait le vœu ayant prononcé le mot de «lait», on lui interdit assez sévèrement le lait tout comme le petit lait. Quand on fait vœu de ne pas boire de lait, il est permis de manger des fromages; si l’on fait vœu de ne pas manger de fromage, il est permis de boire du lait, mais il est défendu de manger des fromages, salés ou non, frais ou secs.(t)Voyez les paroles d’Abba Saül dans la michenah de Nedârîm, p. 51, 2.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:11"
+    },
+    {
+      "seif": 12,
+      "he": "הנודר מן הדגים מותר בציר ומורייס של דגים (לשון הרמב\"ם שם):",
+      "en": "Quand on fait vœu de ne pas manger de poisson, le bouillon de poisson reste permis, ainsi que les mets préparés avec les œufs de poisson ou la laitance.(12)À la condition que ces œufs, cette laitance, aient été retirés du poisson, avant qu’on ait prononcé le vœu. Ces aliments seraient interdits dans le cas contraire, si la formule du vœu avait été celle indiquée, en second lieu, au § 216, art. 9.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:12"
+    },
+    {
+      "seif": 13,
+      "he": "הנודר מהתמרים מותר בדבש תמרים: הגה אע\"פ ששם התמרים עליו ונקרא דבש תמרים הואיל ונשתנה צורתן ממה שהיו תחילה משא\"כ בקומא דחלבא (ר\"ן בשם רשב\"א) ועוד דמה שנקרא דבש תמרים אינו אלא כדי להבדילו משאר דבש (הר\"ן) מדבש תמרים מותר בתמרים מסתוניות (פי' ענבים רעים הנשארים בגפן בימות הסתיו ועושין מהם חומץ) מותר בחומץ היוצא מהם:",
+      "en": "Quand on fait vœu de ne pas manger de dattes, le miel de dattes est permis.(13)Parce qu’en général le miel provient des abeilles, non des dattes (Taze, 19).GLOSE: Bien que le mot «datte» soit resté dans le nom du produit nouveau (miel de dattes), la forme a changé. On n’ajoute d’ailleurs le nom de «dattes» que pour distinguer ce miel des autres miels. Il n’en était pas de même pour le petit lait, qui ne change pas de forme.(ç)Toute cette glose est critiquable. Le vœu porte bien plutôt sur le goût des aliments que sur leur forme. Le miel de dattes a le goût de la datte. Rapprochez cet argument de celui de la note précédente. Si l’on fait vœu de ne pas manger de miel de dattes, on peut manger les dattes elles-mêmes. Si l’on a fait vœu de ne pas manger des raisins secs avec lesquels on fait le vinaigre, il est permis d’utiliser le vinaigre lui-même.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:13"
+    },
+    {
+      "seif": 14,
+      "he": "הנודר מדבש מותר בדבש תמרים מהחומץ מותר בחומץ סתוניות:",
+      "en": "Quand on a fait vœu de ne pas manger de miel, on peut manger du miel de dattes.(14)Parce que, d’une façon générale, le miel est le miel des abeilles. Si l’on a fait vœu de ne pas consommer de vinaigre, il est permis de se servir de vinaigre de raisins secs.(u)On peut se demander pourquoi l’auteur n’a pas fait ici une restriction analogue à celle de l’article 1, en ajoutant: «si, dans la région, on a coutume d’appeler «vinaigre» le «vinaigre ordinaire, et de spécifier, quand on entend parler «du vinaigre de raisins secs.» il est surprenant aussi que, dans la michenah de Nedârîm, page 53, 1, le tanah Qama ait assimilé les dattes aux raisins secs (dernier alinéa de l’article 13 ci-dessus); car les dattes sont comestibles tout comme le miel de dattes, et celui qui prononce un vœu, concernant les dattes, ne songe pas à ce moment au miel de dattes, et inversement; il n’en est pas de même pour les raisins secs, dont on se sert pour la fabrication du vinaigre; ces raisins ne se mangent pas, et celui qui se les interdit ne peut songer qu’au vinaigre qu’on en tire. C’est ce qu’explique, dans la guemara, rabbi Siméon ben Eliézer, et son opinion a été adoptée. Mais je crois que la michenah et Joseph Caro ont ainsi voulu alléger les règles des vœux.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:14"
+    },
+    {
+      "seif": 15,
+      "he": "הנודר מהיין מותר ביין תפוחים ואסור ביין מבושל ומותר בקונדיטון (פי' משקה שיש בו דבש ויין ופלפלין) ויש מי שאוסר בקונדיטון (ודין חומץ עיין לעיל סוף סימן רט\"ז סעיף י\"א):",
+      "en": "Quand on fait vœu de ne pas boire de vin, le cidre est permis; mais le vin cuit est interdit.(15)Car le vin et le vin cuit ne forment en réalité qu’une seule et même espèce (Talmud de Jérusalem). La boisson obtenue en mélangeant du vin, du miel et des aromates, est également permise; d’aucuns la défendent.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:15"
+    },
+    {
+      "seif": 16,
+      "he": "הנודר מהתירוש לדידן אסור ביין ומותר בכל מיני מתיקה:",
+      "en": "Lorsqu’on a fait vœu de ne pas boire de moût, le vin seul doit être interdit, d’après les Docteurs; toutes les autres boissons non fermentées resteront permises.(x)Le mot תירוש (tirôche) ne s’applique en effet qu’au seul vin doux, et nullement aux autres boissons non fermentées.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:16"
+    },
+    {
+      "seif": 17,
+      "he": "הנודר מהשמן אם הוא במקום שמסתפקים בשמן זית אסור בו ומותר בשמן שומשמין ואם הוא במקום שמסתפקין בשמן שומשמין אסור בו ומותר בשמן זית ואם מסתפקין בשניהם אסור בשניהם אע\"פ שרוב סיפוקן מאחד מהם:",
+      "en": "Quand on a fait vœu de ne pas consommer d’huile, et que l’on se trouve dans un pays où l’on a l’habitude de se servir d’huile d’olives, cette huile seule est interdite, mais non les autres huiles diverses. S’il s’agit d’un pays où l’on se sert de toutes sortes d’huiles, mais non d’huile d’olives, cette dernière seule est permise à la personne qui a prononcé le vœu. Si dans le pays on se sert à la fois d’huile d’olives et de diverses autres huiles, toutes les huiles seront alors interdites, même si la plupart des habitants se servent de préférence d’une certaine huile.(16)En matière de vœux, il n’y a pas à s’inquiéter de ce que fait la majorité; en cas de doute, on doit se montrer sévère (Y. article 3 in fine et Chal.h, 2).(z)Nous sommes naturellement de l’avis exprimé dans la note 16 ci-dessus, mais à la condition que le vœu ait porté sur l’huile en général: si la personne a nettement désigné la sorte d’huile qu’elle entend s’interdire, cette sorte-là seule devra lui être interdite.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:17"
+    },
+    {
+      "seif": 18,
+      "he": "הנודר מהתבואה או הנודר מעללתא אינו אסור אלא בחמשת המינים והוא הדין לנודר מהדגן:",
+      "en": "Quand une personne fait vœu de ne pas manger de blé, ou de ne pas manger le meilleur des blés, les cinq sortes de blé lui sont interdites.(a’)Froment, orge, épeautre, chipîne (?), chiboleth chouâl (épis de chouâl); chouâl veut dire «renard», mais c’est aussi le nom d’une certaine région, appartenant à la tribu de Benjamin (Samuel, XIII, 17). La même règle s’applique au vœu de ne pas manger de seigle.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:18"
+    },
+    {
+      "seif": 19,
+      "he": "הנודר מפת סתם אינו אסור אלא בפת חטים ושעורים ובמקום שנוהגין לעשות פת מכל דבר ונדר מהפת או מהמזון אסור בחמשת המינין ואם אמר כל הזן עלי אסור בכל חוץ ממים ומלח:",
+      "en": "Si une personne fait vœu de ne pas manger de pain, seuls le pain de froment et le pain d’orge lui sont interdits.(b’)Parce qu’en général le pain se fait avec du froment ou de l’orge, et que le vœu ne pouvait, dans la pensée de la personne, s’appliquer qu’à ces deux sortes de pain. Dans une région où l’on a l’habitude de faire du pain avec toutes sortes de farines, la personne qui fait vœu de s’abstenir de pain, ou de l’aliment par excellence, ne devra manger ni pain ni farine, provenant des cinq sortes de blé. Mais si elle dit: «Que tout aliment me soit interdit», tous les aliments, sauf l’eau et le sel, lui sont défendus.(17)Un tel vœu n’est réel que s’il est prononcé au moment même où l’on va manger; mais dans le cas où il s’appliquerait à une longue période, il serait nul (Y. § 232, art. 5).",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:19"
+    },
+    {
+      "seif": 20,
+      "he": "הנודר מהחטים אסור בהם בין חיים בין מבושלים חטה חטים שאיני טועם אסור בהם בין קמח בין פת חטה שאיני טועם אסור בהם באפויה ומותר לכוס חטים שאיני טועם מותר באפויה ואסור לכוס חטה חטים שאיני טועם אסור בין באפויה בין לכוס: הגה האומר פת חטים ושעורים וכוסמין עלי אינו אסור אלא בפת חטים ופת שעורים ופת כוסמין דפת דקאמר קאי על כולם (הר\"ן פ' שבועות שתים) ויש מחמירין לאסור בשעורים וכוסמין לגמרי אלא אם כן אומר שלא היתה כוונתו רק אפת או שידוע לשון בני אדם שבאותו העיר דאז הולכין אחר לשון בני אדם (כ\"כ הר\"ן בשם הרמב\"ן):",
+      "en": "Quand une personne fait vœu de s’abstenir des produits du froment, il lui est interdit de manger de ces produits, crus ou cuits. Si elle a dit: «Que le froment, ainsi que ses produits, que je goûterais, me soient interdits», la farine comme le pain de froment lui sont défendus. Si elle a dit: «Que le froment que je goûterais me soit interdit», il lui est défendu de manger du froment cuit, mais elle peut manger du froment cru.(c’)Dans la michenah de Nedârîm, page 53, 2, on lit ici אני, et non איני comme dans notre texte; je considère donc איני comme une faute d’impression, et je traduis: «que je goûterais», en m’en rapportant à la michenah. Quand elle a dit: «Que les produits du froment, que je goûterais, me soient interdits», il lui est permis de manger ces produits cuits, mais non pas crus.(e’)Voir note précédente. Si elle dit: «Que le froment et ses produits, que je goûterais, me soient défendus», elle ne pourra manger ni froment, ni produits, qu’ils soient cuits ou crus.(f’)Car les deux expressions חטה et חטים ont été. l’une et l’autre prononcées dans la formule du vœu (note (T).GLOSE: Quand une personne dit: «Que le pain de froment, d’orge ou d’épeautre me soit défendu», ces trois sortes de pain seules lui sont défendues. Le mot «pain» qu’elle a prononcé s’applique aussi bien à l’orge et à l’épeautre qu’au froment. D’aucuns, se montrant plus sévères, défendent non seulement le pain d’orge ou d’épeautre, mais encore l’orge et l’épeautre eux-mêmes, à moins que la personne n’ait eu soin de spécifier que son vœu ne se rapportait qu’aux pains. L’interdiction ne frappera encore que le pain lui-même si, dans le langage de la ville où habite cette personne, la majorité des habitants comprend qu’il ne s’agit que du pain, dans le vœu qui a été prononcé.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:20"
+    },
+    {
+      "seif": 21,
+      "he": "גריס שאני טועם אסור לאכול מבושל ומותר לאכול חי גריסין שאני טועם אסור לאכלם חיים ומותר לאכלם מבושלים גריס גריסין שאני טועם אסור לאכלם חיים ומבושלים:",
+      "en": "Quand une personne dit: «Que le grain que je goûterais me soit interdit», il lui est défendu de manger les grains cuits, mais elle peut les manger crus. Si elle dit: «Que les grains que je goûterais me soient interdits», il lui est permis de les manger cuits, mais non pas crus. Enfin si elle dit: «Que le grain ou les grains, que je goûterais, me soient défendus», il lui est interdit d’en manger, qu’ils soient crus ou cuits.(g’)Voir note précédente et procéder par analogie.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:21"
+    },
+    {
+      "seif": 22,
+      "he": "הנודר מפירות השנה אסור בכל פירות השנה ומותר בגדיים וטלאים בחלב ובביצים ובגוזלות ואם אמר גידולי שנה עלי אסור בכולם:",
+      "en": "Lorsqu’une personne a fait vœu de ne pas manger des fruits de l’année, tous les fruits de l’année lui sont défendus; mais elle peut manger du chevreau, de l’agneau, du lait, des œufs et des pigeonneaux.(18)Ceci paraît être en contradiction avec le traité Ribbith, § CLXXVII, art. 38 (Des Prêts à intérêt, fascicule IX de notre traduction, p. 158), où l’on assimile les animaux aux fruits de la terre. C’est qu’ici on a spécifié: des fruits de l’année; or les animaux ne peuvent être qualifiés de: fruits de l’année (Taze, 30).(h’)À mon sens, on ne peut faire d’assimilation entre la question du prêt et celle du vœu. Dans le cas du prêt, la personne qui a reçu de l’argent pour acheter des fruits, dans un but commercial, pouvait très bien comprendre qu’elle avait le droit d’acheter des produits vivants; car en hébreu «fructifier» se dit aussi bien des animaux que des plantes, et il ne s’agissait en somme que d’acheter et de revendre avec bénéfice. Dans le cas du vœu au contraire, il faut toujours rechercher le sens que la personne entendait donner à son vœu, au moment où elle le prononçait; or on n’a pas l’habitude d’appeler «fruits», des produits vivants. Si elle a dit: «Que les produits de l’année me soient défendus», toutes les choses qu’on vient d’énumérer lui sont interdites.(19)Mais ce vœu ne sera considéré comme réel, que si on l’a prononcé pour une durée de quelques jours. Il sera nul et non avenu, si l’interdiction dont il s’agit devait s’appliquer indéfiniment, ou pendant un temps trop long pour qu’on la puisse observer.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:22"
+    },
+    {
+      "seif": 23,
+      "he": "הנודר מפירות הארץ אסור בכל פירות הארץ ובפרי העץ ומותר בכמיהין ופטריות ואם אמר גידולי קרקע עלי אסור בכולם:",
+      "en": "Lorsqu’une personne a fait vœu de ne pas manger des fruits de la terre, tous les fruits du sol et des arbres lui sont défendus, sauf les champignons.(20)Les champignons ne sont pas à proprement parler des fruits de la terre, car ils proviennent aussi de l’atmosphère (Taze, 28).(i’)Il y a en effet des champignons qu’on sème. Si elle a dit: «Que les productions du sol me soient interdites», tous les produits du sol et des arbres lui sont défendus sans exception.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:23"
+    },
+    {
+      "seif": 24,
+      "he": "הנודר מהקיץ אינו אסור אלא מהתאנים:",
+      "en": "Quand une personne fait vœu de ne pas manger des fruits d’été, les figues seules lui sont interdites.(j’)Prescription surprenante; d’autant plus que, dans une beraïtha du traité Nedârîm, page 61, 1, on voit rabbi Siméon ben Gamliel comprendre des raisins sous la dénomination générale de figues. Sans doute l’auteur pense-t-il que la personne, en prononçant le vœu de l’article 24, n’a songé qu’aux seules figues, parce que les figues sont les premiers fruits mûrs de l’été.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:24"
+    },
+    {
+      "seif": 25,
+      "he": "הנודר מהמים הנמשכים ממעין פלוני אסור בכל הנהרות היונקות ממנו ואין צריך לומר מהנמשכים ממנו ואע\"פ שנשתנה שמו ואין קורין אותו אלא נהר פלוני או מעין פלוני אם אמר מנהר פלוני או ממעין פלוני אינו אסור אלא בנקראים על שמו:",
+      "en": "Quand on a fait vœu de ne pas boire d’une eau ayant pour origine une certaine source, l’eau des rivières en communication avec cette source est interdite, et évidemment aussi l’eau des rivières qui viennent directement de cette source, même si ces rivières ne portent pas le nom de la source en question. Mais si l’on a fait vœu de ne pas boire l’eau de telle rivière ou de telle source, que l’on désigne, seule l’eau de cette rivière ou de cette source sera interdite.(21)Voyez Traité Berakhoth, page 55, 1, les opinions de rabbi Kahana et de rab Iehoudah ben Ezéchiel au nom de Rab (rab Abba Aricha).",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:25"
+    },
+    {
+      "seif": 26,
+      "he": "הנודר הנאה ממעין טובל בו טבילה של מצוה בימות הגשמים אבל לא בימות החמה:",
+      "en": "Lorsqu’une personne a fait vœu de ne pas profiter d’une source, il lui est permis d’y faire ses ablutions religieuses en hiver, mais non en été.(22)En été l’ablution est une chose agréable (voyez traité Roche Hachânâh, page 28, 1).",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:26"
+    },
+    {
+      "seif": 27,
+      "he": "הנודר מהכסות מותר בשק וביריעה ובחמילה (פי' מיני בגדים גסים שאין דרך בני אדם להתכסות בהם):",
+      "en": "Une personne qui fait vœu de ne pas s’habiller peut se vêtir d’un sac ou d’un rideau.(k’)Un sac ou un rideau ne peuvent pas être qualifiés de vêtements.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:27"
+    },
+    {
+      "seif": 28,
+      "he": "הנודר מהבית אסור בעליה מהעליה מותר בבית:",
+      "en": "Quand on fait vœu de ne pas demeurer dans une maison, il est défendu de demeurer dans le grenier de cette maison. Mais si l’on fait vœu de ne pas habiter le grenier, on peut demeurer dans la maison.(l’)On voit dans la michenah de Nedârim, page 56, que rabbi Méir avait au contraire émis l’opinion que le vœu de ne pas demeurer dans la maison n’interdisait pas le grenier. La majorité des Docteurs en a décidé autrement, en considérant que le grenier fait partie intégrante, de la maison; mais si l’on ne peut concevoir un grenier sans maison, on peut très bien concevoir une maison sans grenier; aussi les docteurs n’interdisent-ils pas la maison à celui qui a fait vœu de ne pas demeurer dans le grenier. C’est très bien; mais cela concorde-t-il avec ce que nous lisons dans le traité Bâbâ Bâthrâ, page 61, 1: «Celui qui vend sa maison n’en vend pas l’étage, même si l’accès de cet étage est en plein appartement du rez-de-chaussée; il ne vend pas non plus la chambre construite devant la maison, etc...»? Celui qui s’interdit par vœu la maison ne pourra-t-il pas, à plus forte raison encore, dire qu’il n’a pas entendu s’interdire le grenier? Et de plus, ne pourra-t-il pas arguer de ce que les greniers sont faits pour servir de lieux de débarras, et non pour servir d’habitation? Tout compte fait, c’est l’opinion de rabbi Méir qui me paraît la meilleure: le grenier devrait rester permis.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:28"
+    },
+    {
+      "seif": 29,
+      "he": "הנודר מהעיר אסור ליכנס לעיבורה דהיינו תוך שבעים אמה ושירים:",
+      "en": "Celui qui a fait vœu de ne pas entrer dans une ville ne doit pas non plus s’avancer dans le faubourg de cette ville, à plus de soixante-dix coudées environ.(m’)Michenah de Nedârim, page 56, 2: «Celui qui a fait vœu de ne pas entrer dans une ville peut pénétrer dans le pourtour de la ville (tehoume, ou région enveloppant la ville sur une largeur de 2.000 coudées: environ 1.100 mètres), mais non dans le faubourg.» En réalité le pourtour ou tehoume est considéré comme faisant partie de la ville; mais les Docteurs ici ont voulu réduire la portée du vœu prononcé.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:29"
+    },
+    {
+      "seif": 30,
+      "he": "הנודר מהבית אינו אסור אלא מהאגף ולפנים דהיינו מסתימת הדלת ולפנים אבל מסתימת הדלת ולחוץ על עובי המפתן מותר:",
+      "en": "Si une personne a fait vœu de s’interdire une maison, il ne lui est défendu que de franchir la porte conduisant dans le vestibule; il lui est permis de rester en dehors du seuil de la maison.(n’)Le talmudique אגף est synonyme de l’hébreu דלת.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:30"
+    },
+    {
+      "seif": 31,
+      "he": "הנשבע לעמוד בבית א' אסור מהאגף ולחוץ: הגה הנודר לדור בשכונת היהודים צריך לדור בשכונה הגדולה וברחוב שלה דכן הוא לשון בני אדם ולא אמרינן דג' בתים מקרי שכונה (ב\"י סי' רכ\"ח דף רע\"ד סוף ע\"ב בשם תשובת הרשב\"א) קהל שגזרו שלא לקנות בתים מעובדי כוכבים אסור להחליף עמהם דזה נמי מקרי קנייה ומכירה (מרדכי פרק המקבל):",
+      "en": "Une personne, qui a juré de ne pas s’arrêter devant une maison, ne doit pas s’arrêter devant la porte extérieure de cette maison.(o’)Mais il lui est permis d’entrer dans la maison.GLOSE: Quand on a fait vœu d’habiter un quartier juif, il faut demeurer dans un quartier où soient installés de nombreux juifs, et non quelques-uns seulement: car l’expression «quartier juif» indique un grand espace, où les Israélites habitent nombreux.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:31"
+    },
+    {
+      "seif": 32,
+      "he": "נדר מיושבי העיר אסור במי שישב שם שלשים יום מבני העיר אינו אסור אלא במי שישב שם י\"ב חדש: הגה ואם נדר ממי שדר שם אפילו דירת עראי מקרי דירה (רשב\"א סימן תרס\"ז) מיהו הולכים אחר לשון בני אדם שאין נקרא דירה אלא בדר שם עם בני ביתו דרך קבוע אע\"פ שהוא פחות מל' יום ואם לשון בני אדם הוא בדרך אחר הולכין אחריו אחר כוונת הנודר:",
+      "en": "Si l’on a fait vœu de ne pas avoir de relations avec les habitants d’une ville, on ne doit pas avoir de rapports avec celui qui habiterait cette ville pendant trente jours; si l’on a fait le vœu de ne pas avoir de rapports avec les citoyens d’une ville, il est interdit d’en avoir avec une personne qui demeurerait douze mois dans cette ville.(p’)Voyez la beraïtha du traité Sanhédrin, page 112, 1 et celle du traité Baba Qâmâ page 8, 1.GLOSE: Une personne, qui ferait vœu de ne pas avoir de rapports avec ceux qui séjournent dans une certaine ville, s’interdirait par là quiconque ferait un séjour, même très court, dans cette ville, avec sa famille; car on entend généralement par «séjourner»: habiter pendant un certain temps fixé. Il faut toujours s’en rapporter à l’intention de celui qui a formulé le vœu, en tenant compte des habitudes de langage de la région.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:32"
+    },
+    {
+      "seif": 33,
+      "he": "נדר מיורדי הים אסור בכל יורדי הים אפילו באותם שאין הולכים אלא מעכו ליפו ואפילו באותם שיורדים לטייל ומותר ביושבי יבשה:",
+      "en": "Quand on s’interdit par vœu les navigateurs de la mer, on s’interdit ainsi ceux-là même qui vont d’Acco à Jaffa,(q’)Ports distants l’un de l’autre d’une centaine de kilomètres, sur la côte de Palestine. Ce voyage est cité ici comme un des plus courts. ou qui se promènent en bateau pour leur plaisir; mais il est permis d’avoir des rapports avec les gens qui restent sur la terre ferme.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:33"
+    },
+    {
+      "seif": 34,
+      "he": "נדר מיושבי יבשה אסור גם ביורדי הים ואפי' באותם שמפליגים בו הרבה שסופם לירד ליבשה:",
+      "en": "Quand on fait vœu de ne pas avoir de relations avec les gens qui demeurent sur la terre ferme, il est également défendu d’en avoir avec les navigateurs de la mer, même s’ils font de longs voyages, car leur destinée est toujours de revenir à terre.(r’)Voyez la guemara de Nedârîm, page 30, 2.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:34"
+    },
+    {
+      "seif": 35,
+      "he": "אמר יורדי הים לאחר ל' יום עלי מי שהוא בשעת הנדר מיורדי הים אסור בו ומי שאינו מיורדי הים בשעת הנדר מותר בו אע\"פ שלאחר ל' יום כשחל הנדר הוא מיורדי הים:",
+      "en": "Quand une personne fait ce vœu: «Dans trente jours, je m’interdirai les navigateurs de la mer», ceux-là seulement lui sont interdits qui étaient sur mer au moment du vœu, mais non ceux qui sont partis postérieurement au vœu, même si ce départ a lieu après les trente jours qui ont suivi le vœu.(s’)La guemara de Nedârîm, page 39, 1, rapporte à ce sujet la discussion de rabbi Ismaël et de rabbi Aqîbâ: c’est l’opinion de rabbi Aqîbâ qui a prévalu. D’une manière générale les vœux se rapportent à la situation du moment où ils ont été prononcés, et ils ne sauraient englober les situations ultérieures.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:35"
+    },
+    {
+      "seif": 36,
+      "he": "נדר מרואי החמה אסור אף בסומים שלא נתכוין אלא למי שהחמה רואה אותו לאפוקי דגים ועוברים: הגה ואפילו אמר לא נתכוונתי לכך לא מהני (ב\"י בשם הרא\"ש) הואיל והלשון ודאי כך הוא ומותר בכל דבר שאינו בעל חיים אע\"פ שהחמה רואה אותו (ב\"י בשם התוספות) : ואם נדר מרואים החמה מותר בסומים:",
+      "en": "Si une personne s’interdit ceux qui voient le soleil, il lui est aussi interdit d’avoir des rapports avec les aveugles, car elle avait l’intention de s’interdire tous ceux qu’éclaire le soleil; les poissons et les fœtus du bétail ne seront pas compris dans l’interdiction.GLOSE: On ne s’en rapporte pas à l’explication qu’une personne donne sur les intentions qu’elle avait au moment de son vœu, quand ces intentions ressortent parfaitement de la manière même dont elle a formulé le vœu; il lui sera permis de jouir de toutes les choses non vivantes, bien qu’elles soient éclairées par le soleil.Si elle s’est interdit ceux qui voient le soleil, l’interdiction ne s’appliquera pas aux aveugles.(t’)Voilà un article bien confus, et dont la dernière phrase (celle qui est après la glose) contredit la première. La dernière phrase seule exprime la vérité, et il faudrait supprimer tout le reste de l’article. Mais un traducteur n’a pas ce droit. Nous ne pouvons rendre Joseph Caro responsable de toute cette confusion; l’erreur, je vais le montrer, vient de la Michenah (page 30, 2) et de la Guemara, dont l’auteur du Yôrêh Dêâh était bien forcé de suivre le texte, de même que je me trouve contraint de me plier, dans ma traduction, au texte du Yôrêh Dêâh. Selon moi, Rabbi (rédacteur de la Michenah), ou bien un copiste, a écrit ici par erreur «interdit», quand il voulait écrire «permis». Voici en effet le Texte de la Michenah. «La personne qui s’interdit ceux qui voient le soleil s’interdit aussi les aveugles.» Il fallait évidemment écrire: «ne s’interdit pas les aveugles»; car les aveugles ne sauraient être compris parmi «ceux qui voient le soleil»; et si Rabbi avait réellement pensé ce qu’il a écrit, il aurait dû ajouter cette explication: «Car le vœu s’applique à tout ce qu’éclaire le soleil». Or il ne l’a pas fait. Et il n’aurait pas pu le faire, parce qu’il est de règle absolue, en matière de vœux, de s’en rapporter aux paroles qui ont été prononcées, avec le sens que leur donne l’usage reconnu (comme on le voit dans les premiers articles de ce paragraphe), et non pas à l’arrière-pensée que pouvait avoir la personne en formulant son vœu. Si cette personne voulait s’interdire tout ce qu’éclaire le soleil elle devait dire: «Je m’interdis tout ce qu’éclaire le soleil», parce que c’est là la façon dont s’exprime cette idée. La guemara, voyant bien l’inexactitude du texte de la Michenah, mais n’osant pas modifier ce texte, trouve alors cette explication: la personne avait bien l’intention de s’interdire ceux que le soleil éclaire, et non ceux qui voient le soleil; autrement elle aurait employé le mot rôîne, et non le mot rôê. Si je m’en étais rapporté à cette explication, j’aurais moi-même traduit, à la première phrase de l’article 36: «Ceux qu’éclaire le soleil», et il n’y aurait plus eu aucune confusion. Mais c’eût été aller contre la syntaxe hébraïque même, car «rôê hahamâh» ne peut pas se traduire autrement que par: «ceux qui voient le soleil»; rôê, au cas construit, est déterminé par le mot, à l’absolu, hahamah, qui suit. J’ai donc traduit, comme j’y étais obligé: «ceux qui voient le soleil». Quant au véritable sens de la prescription, qu’on s’en tienne uniquement, je le répète, à la phrase finale (après la glose) de l’article 36. D’ailleurs, outre l’impossibilité grammaticale que je viens de signaler, l’explication de la guemara a encore contre elle l’autorisation même, que donne cette guemara, de jouir, des poissons et des fœtus d’animaux. Car les poissons avant qu’on ne les mange, les fœtus, avant qu’on ne les puisse utiliser, ont nécessairement été exposés à la lumière du soleil, et par suite ils devraient être rangés parmi les choses qu’éclaire le soleil, dès lors demeurer interdits. Un dernier mot. L’auteur de la glose, en soustrayant les choses inanimées à l’interdiction qui est censée avoir été prononcée sur «ceux qu’éclaire le soleil», et l’auteur du Yôrêh Dêâh, en écrivant sa dernière phrase, à la suite de la glose, montrent bien qu’ils ont considéré, comme moi, qu’il y avait une erreur matérielle dans la Michenah et la Guemara. Par respect pour la Michenah, Caro a, il est vrai, dans la dernière phrase en question, écrit rôîme au lieu de rôê, mot de la michenah. Mais en réalité, les expressions rôê (michenah), rôîne (guemara), rôîme (Yorêh dêâh), ne font qu’un, et ce serait discuter sur des pointes d’aiguilles que de prétendre les différencier.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:36"
+    },
+    {
+      "seif": 37,
+      "he": "נדר משחורי הראש אסור בקרחים ובעלי שיבה ומותר בנשים ובקטנים שאין נקראי' שחורי הראש אלא האנשים ואם דרכם לקרות שחורי הראש לכל אסור [בכל] (הנודר מכל דבר שהוא אדום  אסור לראות בחמה שגם כן היא אדומה) (נימוקי יוסף פ' המוכר את הספינה ותוס' שם דף ע\"ד ע\"א וחדושי רמב\"ן שם):",
+      "en": "Lorsqu’une personne fait vœu de s’interdire les «têtes noires», il lui est défendu également d’avoir des relations avec les chauves et avec les vieillards; mais il lui est permis d’en avoir avec les femmes et les enfants, la qualification «têtes noires» ne s’appliquant qu’aux hommes.(u’)Cette distinction dans le langage provient de ce que, chez les juifs, les hommes sont tantôt tête nue, tantôt tête couverte, tandis que les femmes ont toujours la tête couverte; quant aux enfants des deux sexes, qui vont toujours tête nue, ils forment une catégorie à part, et ne sont pas compris sous la dénomination «têtes noires», qui s’applique aux hommes seuls. Les chauves seront compris dans l’interdiction, parce que la formule du vœu n’a nullement fait mention de cheveux. Y. Nedârîm, page 30,2, le commentaire de Rachi sur la guemara. Mais si l’on a l’habitude de donner ce nom à tout le monde, les rapports sont interdits avec qui que ce soit.GLOSE: Quand on a fait vœu de ne pas jouir de tout ce qui est rouge, il est également défendu de regarder le soleil, dont l’éclat est rougeâtre.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:37"
+    },
+    {
+      "seif": 38,
+      "he": "הנודר משובתי שבת אסור אף בכותיים:",
+      "en": "Ceux qui font vœu de ne pas avoir de rapports avec les personnes observant le repos du sabbat ne doivent pas non plus en avoir avec les Koutîm.(23)Parce que les Koutîm (Samaritains) observent le sabbat (Taze, 33).",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:38"
+    },
+    {
+      "seif": 39,
+      "he": "נדר מעולי ירושלים אסור בישראל ומותר בכותיים:",
+      "en": "Il est défendu à ceux qui s’interdisent «les gens montant à Jérusalem» d’avoir des relations avec les Israélites, mais il leur est permis d’en avoir avec les Koutîm.(24)Parce que les Koutîm «montent», c’est-à-dire font leur pèlerinage au Mont Garîzîm et non à Jérusalem (Taze, 34).",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:39"
+    },
+    {
+      "seif": 40,
+      "he": "נדר מבני נח אסור באומות העולם ומותר בישראל. נדר מזרע אברהם אסור בישראל ובגרים ומותר באומות העולם אפי' בבני ישמעאל ועשו:",
+      "en": "Si une personne fait vœu de s’interdire les enfants de Noé, il lui est défendu de profiter des hommes de n’importe quelle nation, sauf des Israélites.(c’)Les Israélites sont en effet dénommés «fils d’Abraham», parce qu’Abraham le premier a proclamé l’unité de Dieu et l’a enseignée aux hommes. Si l’on a fait vœu de ne pas jouir des descendants d’Abraham, il est interdit d’avoir des relations avec les Israélites et avec les prosélytes de la religion juive,(d’)Le prosélyte est assimilé à l’étranger habitant la Palestine, dont le Lévitique (XIX, 34) a dit: «Il sera pour vous comme un de vos compatriotes l’étranger qui séjourne chez vous.» mais il est permis d’en avoir avec toutes les autres nations de la terre, même avec les enfants d’Ismaël ou d’Esaü.(e’)Il est dit dans la Genèse (XXI, 12-13): «C’est la postérité (d’Isaac) qui portera ton nom; mais le fils (Ismaël) de cette esclave aussi, je le ferai devenir une nation, parce qu’il est ta progéniture.» Quant à Esaü, s’il est vrai qu’il est, comme Jacob, le fils d’Isaac, il faut remarquer qu’il ne l’est nullement au point de vue moral, et l’on ne peut pas dire qu’Esaü ait transmis «le nom» d’Abraham, si par «nom» on entend l’héritage moral. V. guemara de Nedârîm, page 31, 1.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:40"
+    },
+    {
+      "seif": 41,
+      "he": "נדר מהערלים אסור במולי אומות העולם ומותר בערלי ישראל:",
+      "en": "Il est interdit à une personne qui fait vœu de ne pas avoir de rapports avec les incirconcis, d’avoir des relations avec les non-israélites, même circoncis; et il lui est permis d’avoir des rapports avec les Israélites, fussent-ils non circoncis.(f’)L’Israélite, même non circoncis, ne perd pas sa qualité d’Israélite, et il est considéré comme Israélite par les hommes des autres peuples. L’Israélite non-circoncis ne peut donc être appelé un incirconcis, cette désignation étant réservée aux autres peuples. Confrontez Jérémie, IX, 25: «Si toutes les nations sont incirconcises, toute la maison d’Israël a le cœur incirconcis».",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:41"
+    },
+    {
+      "seif": 42,
+      "he": "נדר מהמולים אסור בערלי ישראל ומותר במולי אומות העולם:",
+      "en": "Si une personne a fait vœu de ne pas avoir à faire avec les gens circoncis, il lui est également interdit d’entretenir des relations avec des Israélites qui ne seraient pas circoncis; mais il lui est permis d’en avoir avec des non-israélites circoncis.(g’)En s’interdisant les gens circoncis, on a entendu s’interdire les Israélites seulement. (Voir note y’).",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:42"
+    },
+    {
+      "seif": 43,
+      "he": "נדר מישראל אסור בגרים מהגרים מותר בישראל:",
+      "en": "Si une personne a fait vœu de ne pas approcher un Israélite, il lui est aussi défendu d’approcher un prosélyte; mais si elle a fait vœu de ne pas avoir de relations avec les prosélytes, il lui est permis d’en avoir avec un Israélite de naissance.(h’)En effet la situation de celui qui s’est interdit les prosélytes est la même que s’il s’était interdit tels ou tels Israélites: les autres Israélites alors ne lui seraient évidemment pas interdits.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:43"
+    },
+    {
+      "seif": 44,
+      "he": "נדר מישראל אסור בכהנים ולוים מכהנים ולוים מותר בישראל:",
+      "en": "Une personne qui a fait vœu de ne pas avoir à faire avec un Israélite ne peut pas non plus avoir de rapports avec un Cohen ou un Lévite; mais si elle a fait vœu de ne pas avoir de relations avec les Cohanîm et les Lévites, il lui est permis d’en entretenir avec un Israélite qui n’est ni Cohen, ni Lévite.(i’)On sait qu’en Palestine (et cela existe d’ailleurs encore dans la Dispersion actuelle) le peuple d’Israël se divisait en Cohanîm, chargés d’offrir les sacrifices dans le Temple, en Leviim ou Lévites, adjoints aux Cohanîm pour tous les travaux du culte, et en simples Israélites; ce qui n’empêche pas l’appellation «Israélites» d’englober aussi les Cohanîm et les Lévites. Le vœu qui s’applique aux Cohanîm et aux Lévites ne peut atteindre les autres Israélites, puisque les Cohanîm et les Lévites forment deux catégories bien distinctes du reste d’Israël.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:44"
+    },
+    {
+      "seif": 45,
+      "he": "נדר מכהנים מותר בלוים מלוים מותר בכהנים:",
+      "en": "Quand une personne fait vœu de ne pas avoir de rapports avec les Cohanîm, il lui est permis d’en avoir avec les Lévites; de même, si elle fait vœu de ne pas avoir de rapports avec les Lévites, elle peut en avoir avec les Cohanîm.(j’)Parce que Cohanîm et Lévites sont deux catégories distinctes.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:45"
+    },
+    {
+      "seif": 46,
+      "he": "נדר מבנים מותר בבני בנים:",
+      "en": "Si l’on fait vœu de ne pas avoir de rapports avec ses enfants, il est permis d’en avoir avec ses petits-enfants.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:46"
+    },
+    {
+      "seif": 47,
+      "he": "מי שנדר או נשבע על דבר חוץ ממועדות וי\"ט אם אמר שבדעתו היה להוציא גם חנוכה ופורים מהכלל נאמן. (ועיין בא\"ח סימן תק\"ע):",
+      "en": "Quand une personne fait vœu, ou bien jure, de ne pas jouir d’une certaine chose, sauf pendant les jours fériés, et qu’elle dit avoir considéré comme tels les jours de Pourîm et de Hanoukah, on ajoute foi à ses paroles.(k’)L’observance des jours fériés est prescrite par le Pentateuque, sauf en ce qui concerne Pourîm et Hanoukah, d'institution postérieure. On ne sait donc pas quelle était l’intention de la personne au moment où elle prononçait son vœu. Si cependant cette personne dit qu’elle avait pensé à Pourîm et Hanoukah, on ajoute foi à son dire contrairement à la règle générale d’après laquelle on doit se montrer sévère dans les questions de vœux, dès qu’il y a doute. C’est qu’ici on comprend très bien que la personne ait voulu englober Hanoukah et Pourîm, puisque ce sont des jours d’allégresse et de réjouissances. Je rappelle à ce propos ces paroles curieuses de Maimonide: «Si l’on a fait vœu de jeûner pendant un certain nombre de jours, et si dans ces jours tombe une fête, ou la veille de Kippour, ou une néoménie, on est tenu de jeûner, pendant les journées en question, sauf si l’on s’en est fait dispenser par un rabbin. Mais s’il s’agit de jours de Hanoukah ou de Pourîm, le vœu est sans valeur en ce qui les concerne, et l’on a pas à jeûner pendant ces jours-là.» Il semblerait d’après cela que Maimonide ait voulu placer des prescriptions rabbiniques (observance de Hanoukah et de Pourîm) au-dessus des prescriptions du Pentateuque (jours fériés). Chose impossible. Voici l’explication que nous en donnons: Les sabbats et fêtes témoignent de l’unité et de la puissance de Dieu; ils sont prescrits par le Pentateuque; mais l’observance des vœux est, elle aussi, formellement prescrite par le Pentateuque; dès lors le vœu doit être tenu s’il n’est levé par un rabbin. Les fêtes de Hanoukah et de Pourîm au contraire ont été instituées postérieurement au Pentateuque, en vue de commémorer des événements historiques, où Dieu s’est manifesté comme Providence particulière du peuple d’Israël; elles témoignent et de cette Providence particulière et de la supériorité d’Israël sur les autres nations: les Israélites, mieux que tous les autres peuples, ont accepté la mort quand il s’agissait de glorifier Dieu. On ne saurait donc considérer les fêtes dont il s’agit comme d’une portée morale inférieure à celle du sabbat et des fêtes, prescrits par le Pentateuque. Dès lors, Maimonide, profitant de ce que, par la force même des choses, Hanoukah et Pourîm ne figurent pas dans le Pentateuque, a pu considérer comme nuls des vœux qui viendraient entraver l’observance de ces fêtes.GLOSE: Voyez Orah Hayim, § 570.",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:47"
+    },
+    {
+      "seif": 48,
+      "he": "מי שנדר או שנשבע שלא יצחוק שום צחוק אסור להטיל גורלות ולא שום אדם בשבילו וכן אסור להמרות עם חבירו שקורין אפוסטאר. (תשובת חזה התנופה) : הגה צבור שגזרו שלא להתפלל במנין משום איזה דבר אסורים לקרות בתורה דכל דבר קדושה נקרא תפלה (תשובת הרא\"ש כלל ג' סי' ט') מי שנדר שלא לקבל פקדון אסור להלוות על משכון לישראל (מהרי\"ל) מיהו נראה דהולכין אחר כוונתו וכדרך שיתבאר בסימן רי\"ח (ד\"ע) . מי שנדר או נשבע להתענות סך ימים ואירע תענית חובה עולה לו למנין הימים וכן מי שנדר לילך לבית הקברות או למקום ואירע לו שהלך ע\"י עסק שם יצא ידי נדרו (תשובת מהרי\"ל סימן קי\"ח) וע\"ל סימן רל\"ט עוד מזה:",
+      "en": "Quand une personne fait le vœu ou le serment de ne jouer à aucun jeu, les loteries et jeux de hasard lui sont également interdits, qu’elle y participe directement ou par intermédiaire; il lui est aussi interdit de parier.GLOSE: Quand, pour une raison quelconque, une communauté a lancé un anathème interdisant de prier dans les réunions de dix personnes, il est également interdit de lire le Pentateuque dans ces réunions, car cette lecture est considérée comme une prière. — Si l’on fait vœu de ne pas accepter de dépôt, il est interdit de prêter à gage à un Israélite.(l’)Quelle est au juste la pensée de Réma (= rabbi Moïse Isserlès, auteur des gloses du Yôrêh Dêâh)? S’il veut assimiler le gage à un dépôt, pourquoi spécifier qu’il s’agit du gage donné par un Israélite, alors que le vœu s’appliquait à n’importe quel dépôt? Il me semble d’ailleurs qu’un gage ne saurait être assimilé à un dépôt dans le cas qui nous occupe. La personne, qui s’est interdit de recevoir des dépôts, a voulu s’affranchir des responsabilités qui résulteraient pour elle de l’acceptation de ces dépôts. Si elle ne veut pas prêter d’argent sans assurer, au moyen d’un gage, le capital qu’elle avance, pourquoi donc une telle opération lui serait-elle interdite de par son vœu?; il semble cependant qu’on puisse dans ce cas s’en rapporter à l’intention que la personne dit avoir eue en prononçant le vœu. — Quand on fait vœu, ou quand on jure, de jeûner pendant un certain nombre de jours, et qu’un jour de jeûne obligatoire se trouve tomber parmi eux, ce jour compte dans le nombre de jours de jeûne que fixait le vœu ou le serment. De même si l’on a fait vœu d’aller au cimetière ou à tout autre endroit, et s’il se trouve qu’on ait à y aller pour ses affaires, le vœu est considéré comme accompli (V. § 239).",
+      "ref": "Shulchan Arukh, Yoreh Deah 217:48"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה וגמרא נדרים דף מ\"ט ע\"א (°) (הרא\"ש פי' בנתבשל יותר מסתם בישול ור\"ן פי' בשיל ולא בשיל):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:1"
+        },
+        "2": {
+          "he": "רמב\"ם בפ\"ט מה\"נ והביאו הטור וטעמו משום דבנדרים הלך אחר לשון בני אדם ואי ליכא לשון ידוע ה\"ז ספק נדרים וכל ספק נדרים להחמיר כדלקמן סעיף ג':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:2"
+        },
+        "3": {
+          "he": "שם במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:3"
+        },
+        "4": {
+          "he": "טור ורמב\"ם מהירושלמי ופי' ריפות מעשה חיטין או שאר תבואה הנכתשין ופי' לביבות הבצק הרך שחולטין אותו ברותחין ואח\"כ בשמן:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:4"
+        },
+        "5": {
+          "he": "שם במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:5"
+        },
+        "6": {
+          "he": "ברייתא שם דף נ\"א ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:6"
+        },
+        "7": {
+          "he": "לשון הרמב\"ם שם בפ\"ט ממשנה שם ע\"ב וכפי פירושו במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:7"
+        },
+        "8": {
+          "he": "שם ושם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:8"
+        },
+        "9": {
+          "he": "הרמב\"ם שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:9"
+        },
+        "10": {
+          "he": "לשון הטור ממשנה וגמרא שם דף נ\"ד ע\"ב וכפי' הרא\"ש שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:10"
+        },
+        "11": {
+          "he": "כר\"ע שם וכדמפרש שם בגמ' ופי' הר\"ן אע\"ג דלא הוי ירק אלא פרי ואית דמפרשי דסתם ירק נאכל כמו שהוא חי ודלועין אינן כן:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:11"
+        },
+        "12": {
+          "he": "ירושלמי פ' הנודר מן הירק הביאו הב\"ו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:12"
+        },
+        "13": {
+          "he": "שם בשם ר\"י בשם הירושלמי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:13"
+        },
+        "14": {
+          "he": "בפ\"ז דנדרים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:14"
+        },
+        "15": {
+          "he": "שם בירושלמי דהנודר מן העיקר אסור בטפילה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:15"
+        },
+        "16": {
+          "he": "ל' הרמב\"ם שם דין ו' בפ\"ט מברייתא וכדמפרש שם בגמרא דף נ\"ד ע\"ב וכת\"ק וכר\"ע הסכמת הפוסקים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:16"
+        },
+        "17": {
+          "he": "שם וכת\"ק:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:17"
+        },
+        "18": {
+          "he": "שם בגמרא וכפי' הרמב\"ם שם בגמרא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:18"
+        },
+        "19": {
+          "he": "שם ומפרש בגמ' כגון דכייבין ליה עיניה ובשעת הנדר היה תחלת החולי שהדגים קשים לעינים דמסתמא לא נדר אלא אמידי דמצי למיכל וכאשר הגהתי כן הוא ברמב\"ם מאוקימתא דגמרא שם (°) פי' קאי אחלוקה ראשונה בשר בהמה בלבד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:19"
+        },
+        "20": {
+          "he": "ברייתא שם דף נ\"ב ע\"ב (°) הרא\"ש והר\"ן פירשו דהיינו דק דק של בשר שיורד לשולי הקדירה ומדברי הרמב\"ם בפ' ה' מה\"נ נראה דמפרש דקיפה היינו תבלין:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:20"
+        },
+        "21": {
+          "he": "משנה שם דף נ\"א ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:21"
+        },
+        "22": {
+          "he": "משנה שם דף נ\"ג ע\"ב ונלע\"ד הטעם כמו שציינתי לעיל בסעיף ז' בשם הירושלמי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:22"
+        },
+        "23": {
+          "he": "ומשום שהיו רגילים ליתן בכל מקפה שום:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:23"
+        },
+        "24": {
+          "he": "תוספתא כתבה הרא\"ש בפ\"י דנדרים וכ' הב\"י כגון שומים ובצלים וכיוצא בהם הבאים ליתן טעם בקדירה שגם הם נקראים תבלין דאלו בפלפלים וכיוצא בהם אין לחלק בהם בין חיים למבושלים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:24"
+        },
+        "25": {
+          "he": "שם במשנה (°) כן הגיה הט\"ז על פי המשנה וכן הוא בטור ודלא כלבוש שקיים גירסת הספרים שכתוב בהם מותר ע\"ש:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:25"
+        },
+        "26": {
+          "he": "משנה שם ע\"א (°) פי' מין כרישין שיש להם ראש בל' יון קורין לראש קיפאל ערוך:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:26"
+        },
+        "27": {
+          "he": "משנה שם דף נ\"א ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:27"
+        },
+        "28": {
+          "he": "ברייתא שם דף נ\"ב ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:28"
+        },
+        "29": {
+          "he": "שם במשנה משמיה דאבא שאול:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:29"
+        },
+        "30": {
+          "he": "טור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:30"
+        },
+        "31": {
+          "he": "משנה שם ופי' הר\"ן ציר הוא השומן היוצא מהם וקרבי דגים מעורבים בו וכ\"ש שמותר במורייס שהוא שמנו של דג לבד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:31"
+        },
+        "32": {
+          "he": "משנה דף נ\"ג ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:32"
+        },
+        "33": {
+          "he": "טור ולמד במכ\"ש אם נדר מהתמרים שהוא העיקר מותר בדבש היוצא מהם מכ\"ש הנודר מהדבש וכו':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:33"
+        },
+        "34": {
+          "he": "שם במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:34"
+        },
+        "35": {
+          "he": "משנה שם שסתם דבש הוא דבש דבורים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:35"
+        },
+        "36": {
+          "he": "שם במשנה וסיים מפני שהוא שם לווי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:36"
+        },
+        "37": {
+          "he": "ירושל' הביאו הרא\"ש וכ\"כ ש\"פ דתמרא וחמרא מבשלא חד מינא הוא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:37"
+        },
+        "38": {
+          "he": "כן הוא בירושל':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:38"
+        },
+        "39": {
+          "he": "טור מדברי הרא\"ש אביו שם אליבא דרבנן:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:39"
+        },
+        "40": {
+          "he": "הר\"ן שם ודלא כהתוספתא הביאה הרא\"ש והר\"ן דתנא שם בהיפוך והביא הר\"ן ראיה ע\"ז מהירושלמי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:40"
+        },
+        "41": {
+          "he": "לשון הטור ממשנה וגמרא שם בבבלי דף נ\"ג ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:41"
+        },
+        "42": {
+          "he": "משנה שם דף נ\"ה ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:42"
+        },
+        "43": {
+          "he": "טור מהא דמר שמואל פקיד וכו' וכמ\"ש הב\"י דהוי כנדר מן התבואה אלא שנדר בלשון תרגום (°) פי' כל דבר מעולה ומשובח כ\"כ הרא\"ש:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:43"
+        },
+        "44": {
+          "he": "שם במשנה וכחכמים ורמב\"ן וטור בשם הרמב\"ם שם דין ט':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:44"
+        },
+        "45": {
+          "he": "בפ\"ט ירושלמי ממס' חלה הביאו הרא\"ש פ\"ו דנדרים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:45"
+        },
+        "46": {
+          "he": "ממשנה וגמרא עירובין דף ל' ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:46"
+        },
+        "47": {
+          "he": "ל' הרמב\"ם בפ\"ט מהלכות נדרים וכ\"כ הר\"ן אברייתא דלקמן:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:47"
+        },
+        "48": {
+          "he": "משנה שם דף נ\"ג ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:48"
+        },
+        "49": {
+          "he": "ברייתא דרשב\"ג שם וגירסתו כגירסת הרא\"ש שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:49"
+        },
+        "50": {
+          "he": "שם בברייתא ופי' רש\"י גריס משמע מבושל גריסים משמע חיים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:50"
+        },
+        "51": {
+          "he": "בריי' שם דף נ\"ה ע\"ב (וכפול לקמן ס\"ס רכ\"א):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:51"
+        },
+        "52": {
+          "he": "שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:52"
+        },
+        "53": {
+          "he": "לשון הטור מדברי אביו הרא\"ש שם ופשוט הוא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:53"
+        },
+        "54": {
+          "he": "ברייתא שם דף ס\"א ע\"ב וכתנא קמא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:54"
+        },
+        "55": {
+          "he": "מימרא דרב כהנא וכו' וממימרא דרב יהודה אמר רב וכו' בכורות דף נ\"ה ע\"א (°) פי' ואין מלוין אותם לשם המעין הנדור רמב\"ם שם בפ\"ט:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:55"
+        },
+        "56": {
+          "he": "פשיטותא דגמרא שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:56"
+        },
+        "57": {
+          "he": "ברייתא ר\"ה דף כ\"ח ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:57"
+        },
+        "58": {
+          "he": "משנה נדרים דף נ\"ה ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:58"
+        },
+        "59": {
+          "he": "משנה שם דף נ\"ו ע\"א וכחכמים דעליה בכלל הבית",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:59"
+        },
+        "60": {
+          "he": "משנה שם ע\"ב וכפי' הרא\"ש שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:60"
+        },
+        "61": {
+          "he": "שם במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:61"
+        },
+        "62": {
+          "he": "הר\"ן שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:62"
+        },
+        "63": {
+          "he": "ברייתא סנהדרין דף קי\"ב ע\"א ובב\"ב דף ח' ע\"א וכתבה הרא\"ש בספ\"ד דנדרים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:63"
+        },
+        "64": {
+          "he": "משנה נדרים דף ל' ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:64"
+        },
+        "65": {
+          "he": "טור מהא דפסקו הרמב\"ם והרא\"ש כלישנא בתרא דאסיפא קאי וכ\"כ הר\"ן שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:65"
+        },
+        "66": {
+          "he": "שם דבירושל' נסתפקו בזה וספיקא דאוריי' הוא ונקטינן לחומרא וכ\"כ הר\"ן שם וכ\"פ רבינו ירוחם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:66"
+        },
+        "67": {
+          "he": "שם במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:67"
+        },
+        "68": {
+          "he": "כלישנא בתרא שם בגמרא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:68"
+        },
+        "69": {
+          "he": "בירושלמי תלוי דין זה בפלוגתא דרבי ישמעאל ור\"ע באומרת הריני נזירה לכשאנש' וכו' בנדרים דף פ\"ט ע\"א ופסק הרא\"ש הלכה כר\"ע וכ\"פ הרמב\"ם בפי\"ג מה\"נ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:69"
+        },
+        "70": {
+          "he": "משנה שם דף ל' ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:70"
+        },
+        "71": {
+          "he": "שם בגמ' מדלא קאמר מן הרואים לאפוקי דגים שבים ועוברים שבמעי אמן:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:71"
+        },
+        "72": {
+          "he": "משנה שם (ורמב\"ם שם דין י\"ט) (°) פי' שא\"א לתאר אותם לא במכוסי הראש ולא במגולי הראש דזימנין מכסי ראשייהו וזמנין מגלי ורובן שערן שחור מה שאין כן בנשים שמתארים אותן בכסוי הראש דלעולם מיכסי והקטנים בגילוי הראש דלעולם מיגלי ר\"ן שם מהגמרא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:72"
+        },
+        "73": {
+          "he": "טור בשם הרמב\"ם בפ\"ט ופשוט הוא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:73"
+        },
+        "74": {
+          "he": "משנה שם דף ל\"א ע\"א ומפרש בגמ' מפני שהכותיים ג\"כ מצווים ועושים דגרים הן:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:74"
+        },
+        "75": {
+          "he": "שם במשנה ומפרש בגמ' שם דכותיים מצווים ואינם עושין אלא עולין להר גריזים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:75"
+        },
+        "76": {
+          "he": "משנה שם ומפרש בגמ' שם כיון דאיקדש אברהם איתקרו על שמיה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:76"
+        },
+        "77": {
+          "he": "משנה שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:77"
+        },
+        "78": {
+          "he": "רמב\"ם בפ\"ט מהתוספתא פ\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:78"
+        },
+        "79": {
+          "he": "שם בגמרא מפרש דכתיב ביצחק יקרא לך זרע ביצחק ולא כל יצחק:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:79"
+        },
+        "80": {
+          "he": "משנה שם ע\"ב ומפרש שם שאין הערלה קרויה אלא לשום עבודת כוכבים שנאמר כי כל הגוים ערלים וכו':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:80"
+        },
+        "81": {
+          "he": "שם במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:81"
+        },
+        "82": {
+          "he": "עד סוף סעיף מ\"ו הוא מהתוספתא פ\"ב הביאו הרא\"ש ספ\"ג דנדרים והרמב\"ם סוף פ\"ט מה\"נ:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:82"
+        },
+        "83": {
+          "he": "תשובת הרשב\"א סי' תרצ\"ט:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:83"
+        },
+        "84": {
+          "he": "רבינו ירוחם בשם רבי פרץ (°) פי' נתערבו זה עם זה מי יזכה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:84"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "ולשלוק. פי' בשיל ולא בשיל אבל בשיל יותר מדאי בכלל מבושל הוא בכל מקום כך כתבו התו' והר\"ן וכ\"פ הב\"ח ועיקר: ר' ירוחם בנדרים הלך אחר לשון בני אדם ואם אין לשון בני אדם כגון שנדר בלשון הקדש ובאותי מקום אין מדברים בלה\"ק הלך אחר לשון תורה כך פשוט בפ' השותפין עכ\"ל ומביאו בית יוסף בסב\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:1"
+        },
+        "2": {
+          "he": "היורד לקדרה כו'. ועיין בטור ופוסקים דיני קדרה ואלפס ומביאם העט\"ז והמחבר השמיטם לפי שגם הרמב\"ם השמיטם וכתב בבית יוסף מפני שפשוטים הם ולא הוצרך לכתבם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:2"
+        },
+        "3": {
+          "he": "אין הולכין אחר הרוב כו'. ומיהו אם הוא אומר נתכוונתי כך כמו שקורין הרוב נאמן כדלעיל סי' ר\"ח ס\"ק ג':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:3"
+        },
+        "4": {
+          "he": "ירק כו'. ע\"ל ס\"ק ט\"ו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:4"
+        },
+        "5": {
+          "he": "אלא בנאכלים חיים. כלומר באותן ירקות שנאכלין גם חיים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:5"
+        },
+        "6": {
+          "he": "אסור אף בנכבשים כו'. כלומר אף באותן שאין נאכלים רק בנכבשים אבל מ\"מ אותן ירקות אסור לאכלן גם מבושלים וכן כתב מהרש\"ל וז\"ל אף בנכבשים פירוש וכ\"ש דאסור בירקות המבושלים בין שהם נאכלים כמות שהם חיים בין אין נאכלים חיים אבל ירק ודאי מותר לאכול עכ\"ל ובפרישה סעיף י' הקשה עליו מלשון הרא\"ש ולק\"מ דה\"ק הרא\"ש באומר ירק קדירה עלי אינו אסור בירק שהוא נאכל דוקא על ידי בישול כגון דילועין וכהאי גוונא אבל מה שנאכל ע\"י כיבוש אסור בו בכל ענין וגם הב\"ח מביא דברי מהרש\"ל וכתב עליהם ופשוט הוא שוב ראיתי בקונטרס אחרון שהשיג על הפרישה בזה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:6"
+        },
+        "7": {
+          "he": "ומיהו אסור כו'. אבל אינו בכלל סתם ירק או ירקי קדרה שמשמע בנאכלין חיים או כבושים ודילועין אינם נאכלין רק מבושלים וכן כתב בדרישה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:7"
+        },
+        "8": {
+          "he": "בקולקס. בערוך ערך קרקס פירש שהוא מין הלוף ועיין בערך לוף האריך בזה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:8"
+        },
+        "9": {
+          "he": "הנודר מבשר מותר בגידים. כן הוא בכל ספרי המחבר ובעט\"ז אבל טעות הוא וצ\"ל הנודר מהבשר אסור בגידים שהם טפלים לבשר וכן הוא בב\"י ובירושלמי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:9"
+        },
+        "10": {
+          "he": "ואפי' בבשר עופות כו'. כתוב בתשוב' מבי\"ט ח\"ב סימן רנ\"ח דף קי\"ט ע\"ג מי שנודר שלא יקנה לשבת אלא חצי חתיכה בשר נראין הדברים שלא נתכוין אלא לבשר בהמה הנמכר בחתיכה אבל בעופות מותר ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:10"
+        },
+        "11": {
+          "he": "מותר בשניהם. כתב מהרש\"ל דהאידנא אסור בשניהם דאזלינן בתר ל' בני אדם והביאוהו האחרונים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:11"
+        },
+        "12": {
+          "he": "אסור במקפה של גריסין. שהוא תבשיל של גריסין:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:12"
+        },
+        "13": {
+          "he": "אסור בשום. דלשון מקפה כולל כל דבר קפוי ועב ושום נמי קפוי הוא שממחין אותו במעט מים ונאכל בכך ר\"ן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:13"
+        },
+        "14": {
+          "he": "תבלין כו'. דבר הבא ליתן טעם בקדירה כגון שומים ובצלים וכיוצא בהם הכל נכלל בשם תבלין ובהני הוא דשייך לפלוגי בין חיים ומבושלים אבל בפלפלין וכיוצא בהן אין שייך לחלק בהן ב\"י והאחרונים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:14"
+        },
+        "15": {
+          "he": "מותר בירקות שדה. ונראה לי דעכשיו אסור בירקות שדה שגם הוא בלשון ירקות בלשון בני אדם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:15"
+        },
+        "16": {
+          "he": "בקום. פרש\"י והרא\"ש והר\"ן דהיינו נסיובי דחלבא וע\"ל סי' פ\"א ס\"ה וסימן פ\"ז ס\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:16"
+        },
+        "17": {
+          "he": "וי\"א דאם קורין כו'. לכאורה משמע דר\"ל אם קורין לקום ע\"ש החלב בין שנדר מהחלב בין שנדר מהקום אסור בשניהם וכמ\"ש הר\"ן וכן נרשם בש\"ע ב\"י בשם הר\"ן אבל קשה כיון דב\"י דחה דברי הר\"ן בטוב טעם היאך פסקו הרב וגם דעת הטור ורש\"י במשנה ושאר הפוסקים מוכח בהדיא דלא כהר\"ן וכ\"פ הב\"ח וכן כתב בפרישה הלכך נראה דאהנודר מחלב קאי דאם קורים לקום קומא דחלבא אסור בקום וכמ\"ש הטור והפוסקים אבל בנדר מהקום אף על פי שקורין אותו קומא דחלבא מותר בחלב וכן כתב בעט\"ז בהדיא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:17"
+        },
+        "18": {
+          "he": "מותר בציר ומורייס. היינו דוקא מה שכבר יצא מהם קודם שנדר אבל מה שיצא מהן לאחר שנדר אסור אם אמר קונם דגים שאני טועם (או שאני אוכל או קונם דגים אלו) כדלעיל סימן רט\"ז ס\"ט כ\"כ הב\"ח וכ\"כ בפרישה בשם מהרש\"ל ועיקר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:18"
+        },
+        "19": {
+          "he": "מותר בדבש תמרים וכו'. כתב הב\"ח ויש לעיין אמאי לא תניא בשאמר תמרים אלו או שאני טועם תמרים דאסור ביוצא מהן כדקתני בזיתים וענבים וכדלעיל ס\"ס רי\"ו וכן גבי ירק (לעיל סעיף י') ה\"ל למיתני דאסור אף בירקות השדה ובדלועין כי היכי דתני בכבוש שאני טועם דאסור בכל הכבושים וכן בצלי ושלוק ומליח תני כשאומר שאני טועם דאסור בכל צלי ושלוק ומלוח (והוא בטור ע\"ש) ומ\"ש הכא דלא תני הכי ע\"כ ונראה דלק\"מ דאטו תנא כי רוכלא ליחשב וליזל אבל לקושטא דמילתא בכולהו דינא הכי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:19"
+        },
+        "20": {
+          "he": "ועוד דמה שנקרא דבש תמרים כו'. אבל בקומא דחלבא כי קרו ליה קומא דחלבא מפני שעדיין תורת חלב עליו קרי ליה הכי ולא להפריש בין זה לאחר שאין נקרא קום אלא זה. שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:20"
+        },
+        "21": {
+          "he": "מסתוניות. פי' סופי ענבים שאין מתבשלין. טור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:21"
+        },
+        "22": {
+          "he": "מותר בדבש תמרים. שסתם דבש אינו אלא דבש של דבורים. טור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:22"
+        },
+        "23": {
+          "he": "בקונדיטון. פי' יין מבושל במיני בשמים טור. ובתשו' מהרי\"ל סימן ק\"ל כתב דהיינו (מבושל) [מבושם] במיני בשמים וע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:23"
+        },
+        "24": {
+          "he": "לדידן. דמשתעינן בלשון לע\"ז לפ\"ז אם נדר מן התירוש בלשון הקדש אסור ביין ומותר בכל מיני מתיקה דאנן לא קרינן תירוש אלא ליין בלשון תורה עכ\"ל ר\"ן וה\"ה אם נדר מתירוש בל' לע\"ז אינו אסור אלא ביין ולא בשאר מיני מתיקה דאינם בכלל לשון:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:24"
+        },
+        "25": {
+          "he": "אסור בשניהם כו'. ולא אזלינן בתר רובא דספק נדרים להחמיר וע\"ל סעיף ג':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:25"
+        },
+        "26": {
+          "he": "בחמשת מינים. הם ה' מיני דגן שהוא חטה ושעורה כוסמין שבולת שועל ושיפון:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:26"
+        },
+        "27": {
+          "he": "מפת סתם כו'. עיין לעיל סימן ר\"י:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:27"
+        },
+        "28": {
+          "he": "או מהמזון כו'. כלומר אפי' במקום שנוהגים לעשות פת רק מחטים ושעורים ונדר מהמזון משמעו של המזון הוא ה' מינים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:28"
+        },
+        "29": {
+          "he": "ואם אמר כל הזן כו'. ומיירי שלא אסר אלא לזמן שיוכל לעמוד בו דאל\"כ הוי כנודר מכל פירות שבעולם דאינו נדר כלל כדלקמן סימן רל\"ב (סעיף ה') ב\"ח וכן כתב בפרישה סכ\"ט וכן יתבאר בסמוך:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:29"
+        },
+        "30": {
+          "he": "ומותר בגדיים כו'. ואף על גב דלעיל סי' קע\"ז סעיף ל\"ח אמרינן דהנותן מעות לחבירו ליקח בהם פירות רשאי ליקח בהן כל מין שירצה ואפילו ב\"ח שאני הכא כיון דאמר פירות השנה כן כתב הב\"ח וכן מסיק בפרישה ועיקר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:30"
+        },
+        "31": {
+          "he": "אסור בכולם. וכב\"י בשם הר\"ן דהיינו דוקא שלא אסרן עליו אלא לזמן שהוא יכול לעמוד בו אבל לעולם לא הוי נדר כלל שא\"א לקיימו והביאוהו האחרונים. ומדכתבו הר\"ן והאחרונים כן אסיפא דגידולי שנה משמע דברישא הוי נדר אפי' לעולם דכיון שמותר בגדיים וטלאים יכול לקיים נדרו וכן כתבתי לקמן סי' רל\"ב ס\"ק ח' בשם תשובת מיימוני וע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:31"
+        },
+        "32": {
+          "he": "אבל לא בימות החמה. דאיכא הנאת הגוף.",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:32"
+        },
+        "33": {
+          "he": "מותר בו' ובחמילה. מיני בגדים גסים הם. טור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:33"
+        },
+        "34": {
+          "he": "אסור בעליה. וכתב הרא\"ש אבל חדר ויציע לא הוי בכלל בית דהמוכר את הבית לא מכר את החדר ולא את היציע אלמא לא הוי בכלל בית ע\"כ ומביאו בית יוסף ועיין בח\"מ סי' רי\"ד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:34"
+        },
+        "35": {
+          "he": "לעיבורה. ואף על גב דלענין שאר דברים תוך התחום דין עיר עליו כמו שנתבאר בא\"ח ס\"ס תצ\"ו ור\"ס תקע\"ד ולקמן סי' רכ\"ח סוף סעיף ל\"ג בהג\"ה שאני הכא בנדרים דהלך אחר לשון בני אדם שאינו אלא תוך שבעים אמה ושירים. וכן כ' מהרש\"ל פ' כל הבשר סי' נ\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:35"
+        },
+        "36": {
+          "he": "מהאגף ולפנים כו'. עיין בא\"ח סי' נ\"ה סעיף י\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:36"
+        },
+        "37": {
+          "he": "ואם לשון בני אדם כו'. כתוב בתשובת מבי\"ט ח\"א סי' ס\"א דל\"ב ע\"ב ובמקומות אלו בזמנינו זה נראה שאינו נקרא דירה בלשון בני אדם במקום אחד פחות מו' חדשים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:37"
+        },
+        "38": {
+          "he": "אמר יורדי הים עלי לאחר ל' יום. כלומר לאחר ל' יום יהו יורדי הים אסורים עלי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:38"
+        },
+        "39": {
+          "he": "מי שהוא כו'. דבתר שעת אמירה הולכים בנדרים לא בתר חלות הנדר וע\"ל סי' רל\"ד סעיף ל\"ד ונראה דבכל שאר מילי נמי דינא הכי כגון אמר לאחר זמן פלוני יהו יושבי עיר פלוני אסורים עלי ובתוך כך עקר א' דירתו מאותו עיר אסור בו כיון שבשעת אמירת הנדר היה מאותו עיר וכן אם בשעת אמירה לא הים שם אף על פי שבשעת חלות הנדר הוא שם מותר וכן כל כיוצא בזה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:39"
+        },
+        "40": {
+          "he": "ואפי' אמר כו'. ע\"ל ריש סי' ר\"ח וסי' רל\"ב סעיף י\"ד סק\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:40"
+        },
+        "41": {
+          "he": "ואם נדר מרואים החמה כו'. והב\"ח כתב דאין חילוק בין נדר מרואי החמה לרואים החמה ואינו מותר בסומים אלא בנדר מרואים את החמה ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:41"
+        },
+        "42": {
+          "he": "אסור לראות בחמה. כלומר אסור ליהנות מאור החמה וכן משמע בב\"י שם ובד\"מ: הטור הנודר מן הילודים או מן הנולדים אסור בין באותן שנולדו כבר בין באותן שיולדו אח\"כ ואינו מותר אלא בעופות ודגים שמטילין ביצים ואין דרכן להוליד ע\"כ. והוא מפרק ד' דנדרים וכתב הפרישה ואע\"ג דהוי דבר שלא בא לעולם וכתבתי לעיל סימן רט\"ו בדרישה לענין מי שנדר ליתן מעשר מן הריוח דלית בו מן הריוח כיון דהוי דבר שלא בא לעולם ואפשר דזה נקרא יותר בא לעולם כיון דודאי יבא דדרך העולם בכך עכ\"ל ולחנם דחק דאף על גב דאין אדם מקדיש דבר שלא בא לעולם מכל מקום אדם אוסר על עצמו דבר שלא בא לעולם כדלעיל סוף סימן ר\"ד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:42"
+        },
+        "43": {
+          "he": "ועיין בא\"ח סימן קע\"ט. כן הוא בכל הספרים ובעט\"ז. וטעות הוא וצ\"ל סימן תק\"ע: הרמב\"ם פ\"ט אחר שכתב כל הדינים הכתובים בסימן זה ובכל הדברים האלו וכיוצא בהן דין הנודר ונשבע אחד הוא ומביאו ב\"י ופשוט הוא וע\"ל סימן רל\"ט נתבאר שדין השבועה שוה לכל דבר לנדרים חוץ מכמה דברים שנתבארו שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:43"
+        },
+        "44": {
+          "he": "שלא יצחוק כו'. עיין בדרישה ס\"ס רט\"ו ובבית חדש ס\"ס רט\"ז מדיני צחוק. וע\"ל סימן רכ\"ח סעיף ט\"ו וכ\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:44"
+        },
+        "45": {
+          "he": "אסור להלוות כו'. מדקאמר בפרק שבועת הדיינים המלוה חבירו על המשכון כו' ומסיק שמא יוציא זה הפקדון עכ\"ל לקוטי מהרי\"ל שם. ולא ידעתי מאי ראיה היא זו ודאי דפקדון בכלל משכון הוא דהא משכון גופיה פקדון הוא אבל משכון אינו בכלל פקדון. ואם נדר שלא לקבל פקדון היינו ממה שאמרו חז\"ל הרחק מן הפקדונות ואינו בכלל זה שלא ילוה על המשכון ונראה דאזלינן בתר כוונת הנודר וכמ\"ש הרב: בתשובת מהר\"מ דפוס פראג סימן תתקס\"ה סופר של ראובן שנתן תקיעת כף לשמעון כשיגמור מלאכת ראובן שלא יכתוב לשום אדם כ\"א לשמעון ואח\"כ נשרפה העיר ונשרף קונטרס אחד של ראובן מה שכתב הסופר ועתה שואל הסופר אם יכול לכתוב אותו קונטרס כשיגמור מלאכתו טרם יכתוב לשמעון וכשנשרף הקונטרס עדיין לא גמר לראובן את הספר ודאי יכול לכתוב כי לא נגמרה מלאכת ראובן ודאי אם נשרף הקונטרס לאחר שסיים כל הספר אז ודאי היתה נגמרה מלאכתו ולא היה יכול לכתוב וראיה ממסכת כלים (פ\"ד) [פכ\"ז] בגד שארג בו ג' על ג' כו'. משה עזריאל בהר\"ר אליעזר דרשן. ע\"כ וה\"ה בכל מלאכות הדין כן. וכן נראה מהראיה שהביא ממסכת כלים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:45"
+        },
+        "46": {
+          "he": "עולה לו כו'. וכן כתב המחבר באורח חיים סימן תקס\"ח סעיף י' י\"א ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 217:46"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אפי' לצלי ולשלוק. בטור לא כתוב ולשלוק אלא צלי לבדו ומסיים בו אסור בו ובשלוק והוא תמוה למה לא כתב תחילה ולשלוק וא\"ל שחסר באמת תחילה תיבת ולשלוק קשה הי' לו לומר אסור בהם כמ\"ש אח\"כ מותר בהם ע\"כ פי' בפרישה דכל שקורין מבושל מסתמא דגם שלוק בכלל ע\"כ כ' שפיר שכל שקורין לצלי מבושל אסור גם בשלוק ונראה לי ראיה לזה מדאמרינן בגמרא שר' יאשיה אוסר מדכתיב ויבשלו את הפסח ור' יאשיה קאי גם אשלוק כדמשמע בסוגיא ולא הביא סמך אלא לצלי אלא צ\"ל דהא בהא תליא דכיון דגם צלי קרי מבושל ק\"ו לשלוק ושלוק הוא כאן בשיל ולא בשיל דכן הוא בלשון בני אדם אבל בעלמא הוה שלוק בשיל יותר מבישול:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:1"
+        },
+        "2": {
+          "he": "ריפות. מעשה חטין שנכתשו ולביבות הם מעשה רוחשות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:2"
+        },
+        "3": {
+          "he": "אף בנכבשים בה כו'. כתב רש\"ל וכ\"ש במבושל בין נאכל חי או אינו נאכל חי מכל מקום ירק חי מותר לאכול נ\"ל עכ\"ל. ומו\"ח ז\"ל הביא זה וכתב על זה ופשוט וקשה מדברי התלמוד עליו במאי דפריך על מ\"ש במשנה הנודר מירק אסור בדילועין לר\"ע והא ירק קאמר (פי' הרא\"ש וסתם ירק בל' בני אדם הוא סתם ירק הנאכל חי) אמר עולא באומר ירק קדירה עלי ודילמא ירק הנאכל בקדירה קאמר (ופי' האשר\"י על ידי כבישת הקדירה ובלשון בני אדם יותר נקרא ירק מן ירק המתבשל בקדירה) ומשני באומר ירק המתבשל בקדירה קאמר פירוש על כן אסור בדלועין שאוכלין אותם ע\"י בישול והרי לפנינו דבאומר ירק קדירה עלי מותר בדילועין דלא אמר ירק אלא דרך כבישה שכן הוא בל' סתם בני אדם ודילועין הוא דבר המתבשל ובפרישה הקשה קושיא זו עליו וכתב שנראה לו דמ\"ש הטור אסור אף בנכבשים היינו לומר שכ\"ש שאסור בהנאכלין חי אלא שצ\"ע מנין לו לטור דבר זה עכ\"ל. ונראה לי דבריו נכונים בדעת הטור ודבריו של הטור בנויים על ענין זה כפירוש דברי התלמוד דלשון ירק אינו יוצא מידי פשוטו דהיינו סתם ירק הנאכל חי עד שיהיה מבורר דלא נתכוין על זה וע\"כ הקשה המקשן דילמא ירק הנאכל בקדירה קאמר דהיינו נכבש אם כן יהיה פירושו עכ\"פ אינו מבושל ואע\"פ שלענין הדין הוה כבוש כמבושל מ\"מ בלשון בני אדם אינו כן וא\"כ כשנפרש דבריו שאמר קדירה על הכבוש נרויח בזה דירקי יהיה כפשוטו בדבר הנאכל חי וא\"כ לאכלו חי פשיטא דאסור ואפי' דרך כיבוש גם כן אסור אבל על ידי בישול לא נדר כלל ומותר ומשני דאמר בפירוש ירק המתבשל בקדירה נמצא דלענין הלכה קיי\"ל שפיר דאומר ירקי קדירה עלי אסור בחי ובכבוש ולא במבושל אלא א\"כ אמר ירק המתבשל ואז נראה מותר בכבוש ובחי והאיסור בדילועין הוא גם כן אחר הבישול. ובדרישה כתב שאיסור הדילועין מחמת שאינן נאכלין חי ולא דק דאיסור דילועין לא עדיף משאר ירק שאינו אסור רק אחר הבישול ולא חי ה\"נ בדילועין אע\"פ שאפשר לאכלן חי כן נראה לי נכון דעת הטור ולא כדברי רש\"ל שזכרנו. בטור כתוב והרמב\"ם כתב שהולכין אחר לשון בני אדם לפי המקום והזמן והתיר ביצה מגולגלת ולא נהירא עד כאן לשונו בכ\"מ הבין שהטור כתב לא נהירא על מה שכתב הרמב\"ם שהולכין לפי המקום כו' ותמה על זה דבאמת לא בא הטור לחלוק רק על ביצה מגולגלת לחוד והוצרך לכתוב תחילה מה שכתב הרמב\"ם לפי המקום כו' כדי שלא תתרץ מה שכתב הרמב\"ם להתיר ביצה מגולגלת הוא מצד מנהג מקומו לזה כתב שא\"א לומר כן שהרי הרמב\"ם כתב תחילה שהולכין לפי המקום ובזה כ' סתמא שמותר ש\"מ דמצד הדין אמר כן ולא נהירא כן נראה לע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:3"
+        },
+        "4": {
+          "he": "ואם אמר לשלוחו כו'. פי' והא לך ראייה דאם אמר לשלוחו כו':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:4"
+        },
+        "5": {
+          "he": "אסור אפי' ביבש. פי' אע\"ג דירק נקרא לחין מ\"מ בזה אסור אפילו ביבש מאחר שאין עושין גורן לירק אפילו יבש לא נפיק מכלל ירק: ומ\"ש מותר בגידים טעות סופר הוא וצ\"ל אסור שכן הוא בירושלמי וב\"י מביאו גם כן בנוסח אסור ובלבוש כתב לפרש שהוא מותר מטעם שהם שני מינים ושגגה היא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:5"
+        },
+        "6": {
+          "he": "נאסר אף בבשר דגים. בסעיף ט' נעתיק דברי רש\"ל דהאידנא מותר בדגים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:6"
+        },
+        "7": {
+          "he": "ואם מראין הדברים כו'. בטור כתב ע\"פ הגמרא דאם נדר בימי הקזה אין דגים בכלל הנדר שבלאו הכי לא אוכל אותם ולא הוצרך לידור נדר והיינו ביום ראשון דהקזה דהא אמרו שני לדם דג. ופריך בגמרא דא\"כ אפילו עופות נמי נימא הכי דהא אמרו מאן דמקיז ואוכל בישרא דציפורא פרח ליביה ומשני דאפשר לאכלו על ידי שליקה וע\"כ שפיר קאי הנדר עלייהו וכתב הרא\"ש דשמואל לא אמר דפרח ליביה. אלא בצלי ובדרישה תמה דהא הטור ושאר הפוסקים סתמו מזה ועוד דעמא דבר לאכול תרנגולים ביום הקזה וע\"כ חילק בין בשר תרנגולים לציפורים ובחנם דחק בזה דדוקא בצלי אין לאכול אפילו תרנגולים ועל הטור לק\"מ במה שסתם ולא חילק דמה היה לו לחלק כיון שאפשר שום אכילה בעופות חל עלייהו הנדר ואוסרים בכל גווני מיהו עכ\"פ יש לתמוה במה דאמרינן התם בגמ' דהקיז דם לא יאכל לא חלב ולא גבינה ולא ביצים כו' והעולם נהגו לאכול ביצים תיכף אחר ההקזה ואפשר דהקזה דידהו הוה קשה טפי שהיו מקיזים דם הרבה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:7"
+        },
+        "8": {
+          "he": "מהקיפה. פי' פרורין דקין שנקפין בשולי הקדירה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:8"
+        },
+        "9": {
+          "he": "מהבשר מותר בשניהם. כתב רש\"ל נ\"ל דהאידנא אסור בשניהם דאזלינן בתר לשון בני אדם ומ\"ה שרינן סתם בדגים עכ\"ל מבואר מדבריו דהאידנא הנודר מבשר סתם מותר בדגים דאין דרך האידנא דמימלך שליח עליה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:9"
+        },
+        "10": {
+          "he": "אם לא שיאמר קונם בשר עלי כו'. גם בטור כתב כן אבל האמת יורה דרכו שיש שם ובכאן ט\"ס וצ\"ל בשר זה כדמוכח בסימן רי\"ז סעיף ט':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:10"
+        },
+        "11": {
+          "he": "אסור במקפה של גריסין. מקפה הוא תבשיל עב וגבי איסור שום לא נקט מקפה של שום הטעם דאפילו שום בפני עצמו אסור דכיון שאמר כל מקפה אסור עלי ושום הוא שנותנין אותו בכל מקפה כמו שכתב הרא\"ש בסוף פרק הנודר מן המבושל וז\"ל דשום רגילין ליתן בכל מיני מקפה כי נותן טעם הוא והשום הוא המקפה אבל אין עושין מגריסין לבדן מקפה אלא מכמה מינים עושין מקפה עכ\"ל והא דאמרינן דנודר מגריסין אסור אפילו במקפה של גריסין הטעם דקרי ליה מקפה של גריסין כמו שכתב בית יוסף בשם הר\"ן אבל נודר ממקפה סתם אין גריסין בפני עצמן בכלל שהרי אין הגריסין הכרחיים למקפה משא\"כ בשום שהם הכרחיים למקפה ע\"כ אפילו בנודר ממקפה הוה שום בפני עצמו אסור שסתם מקפה היא של שום אבל נודר משום לא אסרו אלא בפני עצמו ולא כשנותנין אותו בהמקפה דמידי אחרינא הוא וג\"כ אין נקרא שם השום על המקפה לקרותו מקפה של שום כמו שהוא בגריסין כן נ\"ל טעם דינים אלו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:11"
+        },
+        "12": {
+          "he": "תבלין שאני טועם. ה\"ה שאני אוכל כ\"כ רש\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:12"
+        },
+        "13": {
+          "he": "מהאספרגוס. לשון הטור פירש\"י אספרגוס הוא מין כרוב והרמב\"ם פי' מין שלקות של כרוב עכ\"ל וא\"ל להרמב\"ם למה אסור לנודר מכרוב מהאיספרגוס מ\"ש מנודר מבשר דאמרינן בסמוך דמותר ברוטב דיש לומר דבנדרים הולכין אחר לשון בני אדם ובזמנם היו קורין גם לאספרגוס כרוב ולא לכרוב אספרגוס משא\"כ בבשר ורוטב שמעולם לא היה נקרא בימים ההם לרוטב בשר כן נ\"ל. ובנוסח השו\"ע כתוב הנדר מן הכרוב מותר באיספרגוס והוא ט\"ס וכן בבית יוסף נרשם מותר והוא ג\"כ ט\"ס אלא כנוסח הטור כן הוא במשנה ובכל הפוסקים ובלבוש סבר שהנוסחא של השלחן ערוך אמת ונתן טעם לפי שהם שני מינים ושגגה היא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:13"
+        },
+        "14": {
+          "he": "מותר בקום. פי' מי חלב הנבדלין ממנו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:14"
+        },
+        "15": {
+          "he": "הנודר מן הדגים. בטור כתוב דגים שאני טועם אסור בין בגדולים בין בקטנים וכתב רש\"ל וז\"ל בי\"ס דג דגה שאני טועם כו' ואמת שהאוסר עליו דג דגה אסור בשניהם דדג משמע גדול ודגה משמע קטנים בלשון בני אדם אבל דגים לבד נ\"ל דלא צריך דג דגים שאף בדגים לבד נאסר הכל כי כן משמעותו וכן כתב הרא\"ש אבל בדגה לבד לכ\"ע דוקא קטנים ובדג דגה נאסר בשניהם לכולי עלמא עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:15"
+        },
+        "16": {
+          "he": "מותר בציר כו'. דבר פשוט הוא דהיינו בציר שיצא קודם הנדר אבל לאחר הנדר אסור כמ\"ש בסי' רט\"ז סעיף ט' לענין בשר ויין ממילא ה\"ה נמי כאן דאם אמר דגים שאני טועם או אוכל או דגים אלו עלי אסור בציר היוצא מהם אחר הנדר וכן לענין קום החלב בסעיף י\"א ולענין דבש תמרים סעיף י\"ג כן נ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:16"
+        },
+        "17": {
+          "he": "אף על פי ששם התמרים כו'. תירוץ זה כתב ב\"י בשם הר\"ן ומצאתי למוהר\"ר ליב מפראג שתירץ דשאני קום החלב דהוה עדיין משקה כמו תחלה משא\"כ בדבש תמרים שתחלה היה אוכל ועכשיו נעשה משקה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:17"
+        },
+        "18": {
+          "he": "מסתוניות. פירוש סופי ענבים שאינם מתבשלים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:18"
+        },
+        "19": {
+          "he": "מותר בדבש תמרים. שסתם דבש הוא של דבורים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:19"
+        },
+        "20": {
+          "he": "ויש מי שאוסר בקונדיטון. ולא דמי לסעיף י' בנודר מירקות דמותר בירקות שדה מטעם שיש להם שם לווי והכא נמי יש לווי דמקרי יין מבושל שאני התם דמין אחר הוא משא\"כ כאן דשניהם יין ומפני שנתבשל לא הפסיד. ר\"ן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:20"
+        },
+        "21": {
+          "he": "מהתירוש לדידן. דאין אנו קורין תירוש אלא ליין בלשון תורה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:21"
+        },
+        "22": {
+          "he": "אע\"פ שרוב סיפוקן מאחד כו'. עיין מ\"ש מזה בסי' ר\"ח סעיף א':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:22"
+        },
+        "23": {
+          "he": "מעללתא. כל דבר מעולה ומשובח כ\"כ הרא\"ש שם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:23"
+        },
+        "24": {
+          "he": "וה\"ה לנודר מהדגן. בטור כתוב וז\"ל מהדגן קאמר רבי מאיר שאוסר בכל מיני קטניות חוץ מחילקא וטיסני פי' רש\"י חטה נחלקת לשנים או לשלשה או לארבעה חלקים ולהכי שרי שכבר נשתנית החטה וחכמים אומרים שאינו אסור אלא בחמשה מינים בלבד ויראה מדברי א\"א שפוסק כרבי מאיר ומדברי הרמב\"ן יראה שפוסק כחכמים והכי מסתבר וכן כתב הרמב\"ם עכ\"ל ויש לתמוה דהא בגמרא חשיב בדברי רבי מאיר חוץ מאורז וחילקא כו' ולמה השמיט הטור האורז וא\"ל דחסרון הוא בטור דהא כתב חוץ מחילקא דאי חשב גם אורז הל\"ל וחילקא ונלע\"ד דהטור ס\"ל דחכמים שמקילים טפי מר\"ח וסבירא להו דשאר מינים שאינם מחמשה מינים מותר כ\"ש דמקילין במה שמיקל ר' מאיר דהיינו בחטה הנחלקת חילקא וטירגיס כו' שאע\"פ שהחטה א' מה' מינים מ\"מ מותר בו כיון שנשתנה וכן ראיתי בפרישה שהביא זו בשם רש\"ל אך שכתב שא\"כ היה לו לרמב\"ם לכתוב דאלו מותרים מ\"מ נ\"ל דהטור סבירא ליה שפיר כן ולהכי הביא' בדברי ר\"מ כיון שכוונתו לפסוק הלכה כחכמים קמ\"ל דגם לחכמים יש היתר זה דחילקא וטירגיס וכו' ולהכי לא הביא דאורז כי אין בזה צורך לדברי חכמים דהא בהדיא אמרו דוקא ה' מינים ואורז לא מהם הוא משום הכי הביא הטור אותן שיש בהן צורך רבותא אליבא דהלכתא דהיינו כחכמים ואי הוה מביא גם אורז לא היה לנו שום הרגש בדבר דאתי לרבותא דחכמים כן נראה לי להלכה אבל לא למעשה להקל בחילקא וטירגיס כיון שבעל הש\"ע לא כתב כן בפירוש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:24"
+        },
+        "25": {
+          "he": "או מהמזון. היינו דברים שמסעדים הלב וזה דוקא בה' מינים אבל הזן פירושו אע\"פ שאינו סועד הלב מכל מקום משביע ומיזן. וכתב הר\"ן דכאן מיירי שאוסר על זמן מועט שיכול לעמוד בו אבל לזמן מרובה הוה ליה נדר שאי אפשר לקיימו ולא חל הנדר כלל והאי או מהמזון דקאמר פירושו אפי' במקום שעושין פת דוקא מחטים ושעורים מכל מקום דוקא חמשה מינים קאמר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:25"
+        },
+        "26": {
+          "he": "אסור בכל פירות. פשוט דבכמהין ופטריות דאסור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:26"
+        },
+        "27": {
+          "he": "ומותר בגדיים וטלאים. אף על גב דאמרינן ריש מרובה בבקר וצאן פרט מה הפרט מפורש פרי מפרי וגידולי קרקע כו' שמע מיניה דבהמות מקריין פרי י\"ל דלענין נדרים שאני דהולכין אחר לשון בני אדם ובלשון בני אדם לא מקריין פרי וכתב הר\"ן דלא מיירי כאן אלא בנודר לזמן כו' כמו לעיל בסעיף י\"ט:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:27"
+        },
+        "28": {
+          "he": "ומותר בכמיהין ופטריות. לפי שאינם בכלל פרי הארץ דמאוירא ינקי אף על פי שגדילין מן הארץ:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:28"
+        },
+        "29": {
+          "he": "אסור בכולם. נראה דמכל מקום מותר בגדיים וטלאים דאף על גב דגם הם גידולי קרקע כמו שזכרתי בשם הגמרא ריש מרובה בסעיף כ\"ב מכל מקום בנדרים לא כן הוא דבלשון בני אדם לא מקרי בהמות בשם גידולי קרקע כמו דאמרינן שלא מקרי פרי בסעיף כ\"ב הכי נמי לענין גידולי קרקע ומו\"ח ז\"ל כתב בזה דאסור בבעלי חיים מדקריין גידולי קרקע בפרק הפועלים ול\"נ כמו שכתבתי דמ\"ש גידולי קרקע מלשון פרי דלא אזלינן בתריה כיון דבלשון בני אדם לא מקרי כן הכי נמי כן דבלשון בני אדם לא מקרי גידולי קרקע אלא מה שהוא בגוף הקרקע ממש ועוד דאי לא תימא הכי היה לו לכתוב רבותא דאפילו בבעלי חיים אסור משום גידולי קרקע ק\"ו בכמיהין ופטריות אלא כדפרישית וכן הוא הרבה פעמים בסי' זה דלא אזלינן בתר מה דמקרי בלשון חכמים אלא בתר לשון בני אדם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:29"
+        },
+        "30": {
+          "he": "נדר מרואי החמה כו'. זה נמשך אחר דעת הטור שחילק בין אומר רואי חמה לרואים חמה ותמוה באמת מה בין לשון זה לזה דאף א\"ת שבלשון רואי חמה יש לפרשו שהחמה רואה אותן מ\"מ פי' דחוק הוא וטפי ניחא לן לו' כפשוטו שהם רואים החמה וכמו דאיתא לעיל סעיף ד' לענין ירק דאנן הולכין אחר לשון הפשוט וטפי קשה מה שכתב רמ\"א הואיל והלשון ודאי כך הוא ובמשנה הכי איתא הנודר מן רואי החמה אסור אף בסומין שלא נתכוין זה אלא למי שהחמה רואה אותן ואמרינן עלה בגמרא מאי טעמא מדלא אמר מן הרואין לאפוקי דגים ועוברין שאין חמה רואה אותן ופירוש הפשוט בזה דמיתור לשון דייק התלמוד מדהיה לו להזכיר מהרואין לחוד והיה מוציא בזה הסומין ולמה הזכיר כלל חמה אלא ודאי דנתכוין שהחמה רואה אותן לאפוקי דגים ועוברין ונמצא דאין חילוק בין רואה חמה לרואין החמה דגם בלשון רואין החמה יש יתור לשון החמה וכ\"כ הר\"ן וכן נראה מדברי הרמב\"ם ורא\"ש בפסקיו שלא הזכירו כלל להתיר בסומין כשאומר רואין החמה גם מל' התוס' נראה לי כן אלא שיש טעות סופר בדבריהם שז\"ל מדלא קאמר הנודר מן הרואין כלומר מדלא אמר האיש הנודר שהוא נודר מן הרואים את החמה שאז ודאי הוי משמע למעט סומין וא\"ת הא דלא קאמר מן הרואין משום דאז הוה דגים ועוברים בכלל והוא רוצה שלא יהיו בכלל י\"ל דהשתא נמי כשאומר מרואי החמה כל כמה דלא נפרש שהחמה רואה אותן קאמר שהרי דגים רואין יפה החמה אבל החמה רואה אותם לא מקרי הואיל ומכוסין הם במים עכ\"ל והנה לפי התחלת דבריהם משמע דיש היתר סומין אם אמר רואין את החמה וסוף דבריהם לא כן הוא שהרי כתבו וא\"ת הא דלא קאמר מן הרואים משום דאז כו' משמע דההוכחה הוא מדלא אמר מן הרואים לחוד ותו דהיאך אפשר שיהיה הוכחה מדלא אמר רואין את החמה ולמה לא עשו הוכחה מדלא הוה להזכיר כלל חמה אלא מהרואין לחוד. גם קושית ואם תאמר כו' אין לה הבנה לפי הנחה זאת שתליא מילתא דהיתר סומין באומר מן הרואין את החמה והנה אנו רואין עין בעין שיש אחר כך טעות סופר בדברי התוס' בקושייתם ונראה דהגירסא הנכונה בדברי התוס' כן הוא כלומר מדלא קאמר האיש הנודר שהוא נודר מן הרואים בלא החמה שאז ודאי הוה משמע למעוטי סומין ואם תאמר הא דלא קאמר מן הרואין משום דאז הוה דגים ועוברין בכלל והוא לא רצה שיהיו בכלל יש לומר כו' וכוונתם להקשות כיון דעיקר הוכחה מדלא אמר מן הרואין לחוד דילמא אי קאמר כן היה דגים ועוברין בכלל והוא לא רצה בכך על כן הזכיר החמה להוציא דגים שאינם רואין החמה כיון שהם במים ותירצו דאם כן לא הועיל כלום במה שהזכיר החמה שהרי באמת דגים רואים החמה ולא נתמעטו הדגים אלא שאין החמה רואה אותן וצ\"ל דגם בעוברים הוה כן שהם רואים את החמה והתוספות לא הוצרכו להזכיר עוברים דממילא הוא מדגים ויש לזה ראייה מדאיתא בגמרא פרק ג' דנדה דהעובר מביט מסוף העולם אל סופו אלא שאין החמה רואה את העובר דהיינו שאין מגולה נגד החמה כמו שכתבו התוספות גבי הדגים דאם לא כן תקשה לך קושיית התוספות על העוברים כן נראה לי ביאור דבריהם ואל יקשה בעיניך שהגהתי בדבריהם שאותן התוספות מלאים טעיות לכל רגיל לקרותם אלא שדעת הטור צ\"ע שכתב אם אמר מרואים החמה מותר בסומין מה חילוק ישבין לשון זה לרואי החמה ונראה כוונתו דגם הוא מפרש שיש כאן יתור לשון דלמה לו להזכיר החמה כלל אלא ע\"כ דאיהו קאמר בלשון דחוק שהחמה רואה אותן דלשון רואי החמה הוא דביקות והוה כאומר שיש להם ראיות חמה ואם כן ודאי נוכל לומר בזה המשמעות שהחמה רואה אותן מה שאין כן באומר מהרואים את החמה אף על פי שיש כאן קושיא דלמה אמר יתור לשון דהחמה מכל מקום אין לך תירוץ על הקושיא דאי אפשר לומר שהחמה רואה אותן דהרואים אינו סובל פי' זה דדוקא רואי החמה יש לפרשו כן על צד הדוחק ורוצה לומר שיש בהם ראייה מן החמה שהוא לשון דביקות מה שאין כן בתיבת רואין שהיא תיבה מוכרת בלי דביקות לתיבה שאחריה ממילא פירושו רואין סתם דהיינו שהם הרואים יהיה מה שיהיה וכיון שאין לך שום תירוץ על היתור לשון אין אנו למידין מזה היתור לשון כלום והוה כאלו אמר מהרואים לחוד ע\"כ מותר בסומין כן נראה לי כוונת הטור ומה שכתב רמ\"א הואיל והלשון ודאי כך פירוש מכח קושיא דיתור לשון אנו מוכרחים לתרץ כן כיון שיש תירוץ לפנינו ומו\"ח ז\"ל כתב דמדברי התוס' האלו משמע שאין היתר אלא באומר מהרואים את החמה דהעיקר הוא לשון את החמה וע\"כ מגיה בדברי הטור ג\"כ את החמה ולא משמע כן בסוף דברי התוספות שהקשו ואם תאמר כו' גם בפירוש דברי הטור לא נראה כן דא\"כ לא היה לו להטור לחלק בין רואי חמה לרואין את החמה אלא ברואים גופיה הוי ליה לחלוקי בהכי אם אמר את או לא גם לא ידעתי שום הוכחה מלשון את בזה כלל וכמו שבלא את תדחק לפרש הרואים החמה שנראים מן החמה ה\"נ אם אמר את הוה במקום מן כמו הנני משחיתם את הארץ. כצאתי את העיר. והתוס' לא כוונו לזה עכ\"פ כמבואר למעיין בדבריהם ואיך שיהיה פירוש דברי הטור נראה למעשה שאין לסמוך להתיר בל' רואים החמה בסומין כיון ששאר הפוסקים לא חילקו הוי ליה הטור יחיד בדבר זה וכן פסק מו\"ח ז\"ל שאין להתיר ברואין את החמה וזה אין נראה כלל אלא כמשמעות שאר הפוסקים דכל שיש יתור לשון דהיינו החמה אנו מפרשים כוונתו כל לשון שיאמר שהחמה רואה אותם כן נראה לע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:30"
+        },
+        "31": {
+          "he": "בכל דבר שאינו בעל חיים כו'. בתוספות הביאם ב\"י פירשו כן וז\"ל דכיון שהזכיר רואי החמה משמע דוקא בעלי חיים שעשויין לראות החמה עד כאן לשונו וקשה הא אנו מפרשים דבריו שהחמה רואה ולא שהם רואים ויש לומר דמכל מקום אין הלשון יוצא מידי פשוטו שהם רואים הכי קאמר שהם רואים החמה בלי שום הפסק בנתיים והיינו שהחמה רואה אותם כלומר שאין הפסק ביניהם לאפוקי דגים שרואים דרך הפסק כמו שכתבו התוס' לעיל והטור דלעיל סבירא ליה דבלשון רואים החמה אין זה במשמעותו מדאמר מן הרואים החמה דתיבת הרואים אינו דבוק לתיבה שלאחריו כמו רואי חמה ממילא משמע דבלאו הכי הם רואים גם כן ולאפוקי סומין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:31"
+        },
+        "32": {
+          "he": "אסור בקרחים ובעלי שיבה. הטעם בגמרא מדלא אמר מבעלי שער אלא ודאי דלא ממעט שער אלא מאותן שרגילין להיות שחורי הראש וא\"ל אכתי אין לנו הוכחה לאוסרו בבעלי שיבה ונאמר דממעט בעלי שיבה יש לומר כיון דע\"כ זה מותר בקרחים מכח ההוכחה דהיה לו לומר מבעלי שער אלא ע\"כ דנתכוין אף על גב שאין להם עכשיו שחורי הראש הוא הדין נמי לענין בעלי שיבה אמרינן כן. כן פירש הר\"ן וקשה לי ממה נפשך אם יש סברא טובה לפרש הך שחורי ראש שיש לו פעם אחת שחור ראש כמו שיש סברא לפרש מי שהוא עכשיו שחור למה לו לתלמודא להוכיח מכח מדלא אמר מבעלי שער הא אפילו בלא הוכחה יש לנו להחמיר דסתם נדרים להחמיר כמ\"ש סימן ר\"ח ואי אין סברא כל כך קשה מנלן באמת לאסור בקרחין ובעלי שיבה נימא בתרווייהו להתיר כיון שסברא טפי לומר שיש להם עכשיו שחור ראש והא דלא אמר בעלי שער דאם כן הוה אסור בבעלי שיבה ולא היה מותר רק בקרחין ע\"כ אמר לשון דממעיט תרוייהו להתיר ויש לומר דודאי אם נימא דניזול בתר פירוש היותר פשוט טפי מסתבר מי שיש עכשיו קושיא לפנינו דלמא אתי למשרי תרוייהו אלא דהאמת דאין שום משמעות לפרש דשחורי הראש אתי למעוטי קרחין דאין זה היפך משחורי הראש אלא היפך מבעלי שער על כן ודאי אינו ממעט קרחין וא\"כ גם שיבה ממועט כיון דמוכרח דפירושו מי שהיה לו שחורי הראש וא\"ל דלמא אם אמר בעלי שער הוי אמינא גם נשים וקטנים אסור דאם כן היה לו לומר מכל אדם על כן אמר לשון המובדל מהם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:32"
+        },
+        "33": {
+          "he": "אף בכותים. לפי שהם מצווים על שבת ועושין כן אבל עובדי כוכבים אפי' אם שומרים שבת מ\"מ אינם מצווים בכך. גמרא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:33"
+        },
+        "34": {
+          "he": "ומותר בכותים. לפי שאינם עולים שם אף על פי שמצווים על זה וכתב ב\"י שהכותים עולים להר גריזים במקום ירושלים ובפרישה בהג\"ה כתב שאם נדר מעולי רגלים אסרו אף בכותים שהרי עולים להר גריזים וישתקע הוראה כזאת שהרי אפילו אם היו עולים לירושלים ולא היו מצווים לא נתכוין להם דנתכוין דוקא למצוה ועוש' ק\"ו בזה דלא נתכוין להם ובודאי אין דברים הללו יצאו מפי הצדיק עצמו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:34"
+        },
+        "35": {
+          "he": "ובגרים. לא נמצא לזה מקור ונראה דיליף לה מדמצינו לענין ברכה שהגר יכול לומר אלהי אבותינו שנאמר כי אב המון גוים נתתיך כמו שכתבו התוס' בפרק הספינה דף פ\"א:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:35"
+        },
+        "36": {
+          "he": "אפילו בבני ישמעאל ועשו. דכתיב כי ביצחק יקרא לך זרע ולא כל יצחק היינו למעוטי עשו וכ\"ש ישמעאל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:36"
+        },
+        "37": {
+          "he": "אסור במולי או\"ה. לפי שהערלה נקראת במקרא על כלל או\"ה דוקא וכן שם מולים על אומה ישראלית דוקא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:37"
+        },
+        "38": {
+          "he": "גם חנוכה ופורים. לפי שגם ימים אלו בלשון בני אדם נקראים ימים טובים כמו ההיא דעבידנא יומא טבא לרבנן דהיינו כל שיש בו שמחה והכלל בכל סימן זה דהולכים אחר לשון בני אדם אלא דכאן הוה קצת דוחק שיהיו ימים אלו בכלל על כן הוצרך שיאמר הנודר כן בפירוש שנתכוין לזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:38"
+        },
+        "39": {
+          "he": "שקורין אפוסטר. בלשון אשכנז וועטי\"ן וכתב בית יוסף בשם רבינו ירוחם בזה דעיקר כוונתו היתה בשבועתו כדי להמנע מכל שחוק שמביא לידי הפסד ממון עכ\"ל משמע מזה דהנשבע סתם שלא לשחוק היינו בענין שיש בו הפסד ממון אבל בלא הפסד מותר לשחוק ומ\"מ נראה לי שהולכין אחר כוונת הנשבע בזה דאם בשביל הפסד ממון היה לו דאגה או בשביל שהיה מאבד זמן במיני שחוק שאז אסור אפי' בשחוק בחנם. כן נ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 217:39"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "אחר הלשון. עיין בתשובת שבות יעקב ח\"א סימן ע\"ג לענין מי שנדר מעובר שבמעי בהמה אי מותר להשתמש בגופה בעודה מעוברת או לא משום דעובר ירך אמו. ופסק אף דקיימא לן עובר ירך אמו היינו אם נדר מאמו אסור ליהנות אף מולד אבל לא להיפך ומביא ראיות על זה מש\"ס דתמורה עיין שם ועיין בתשובת נו\"ב תניינא חי\"ד סי' ה' שכתב בקהל שגזרו בחרם על שוחט א' שתהא שחיטתו אסורה מותר לאכול משחיטתו אם ישראל אחר בדק סכין ונתן לו דלשון בני אדם שתהא שחיטתו אסורה משמע כשחיטת מומר וכה\"ג במומר שרי כדלעיל סי' ב' ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 217:1"
+        },
+        "2": {
+          "he": "דהא לא נתכוון. עיין בתשובת חות יאיר סימן ט\"ז דאפילו אם לא היו מראין הדברים בעת שנדר אלא שאח\"כ אמר כוונתי לבשר בהמה דקרינן ליה בשר סתם מותר בעופות ע\"ש. ואיפכא צ\"ע. עב\"י וד\"מ לעיל סימן ר\"י לענין פת חטין ושעורין:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 217:2"
+        },
+        "3": {
+          "he": "מותר בדבש תמרים. [עיין ש\"ך ס\"ק י\"ט ועיין בתשובות משכנות יעקב סי' מ\"ט מ\"ש בזה ועיין ט\"ז ס\"ק ט\"ו וש\"ך ס\"ק י\"ח]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 217:3"
+        },
+        "4": {
+          "he": "הנודר מהתבואה. בגמרא דף נ\"ה ע\"א מבואר דאם אמר תבואת השדה אסור בכל הגדל שבשדה וצ\"ע שהשמיטו הפוסקים. תפל\"מ:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 217:4"
+        },
+        "5": {
+          "he": "ואם אמר כל הזן. עיין בצל\"ח בברכות דף ל\"ה בד\"ה אלא שראיתי מה שכתב בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 217:5"
+        },
+        "6": {
+          "he": "הנודר מפירות הארץ. עיין בתשובת רדב\"ז החדשות סוס\"י תקס\"ג שכתב דהנודר מפרי עץ ומפרי האדמה מותר לאכול הצוקר שאין זה פרי עיין שם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 217:6"
+        },
+        "7": {
+          "he": "בשעת הנדר. עבה\"ט ועיין בתשו' בגדי כהונה חי\"ד סי' ז':",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 217:7"
+        },
+        "8": {
+          "he": "אסור לראות בחמה. עי' בתשובת נו\"ב תניינא חי\"ד סי' קמ\"ה טעם למה השמיטו הפוסקים הך דינא המפורש בריש פסחים הנודר מהאור אסור באורן של כוכבים ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 217:8"
+        },
+        "9": {
+          "he": "במולי או\"ה. עיין בס' באר יעקב שכתב דה\"ה במומר לעבודת כוכבים דאסור אע\"פ שהוא מהול ובמומר לערלות צ\"ע ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 217:9"
+        },
+        "10": {
+          "he": "ומותר במולי או\"ה. כתב בס' באר יעקב דהוא הדין במומר לעבודת כוכבים ובמומר לערלות צ\"ע. ואסור מספק. וכתב עוד דאם נדר מהמולים אסור בעבד מהול ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 217:10"
+        },
+        "11": {
+          "he": "נדר מבנים. עיין בשאילת יעב\"ץ ח\"א סימן קס\"ה שכתב דהמגדל יתום או בנו של אדם אחר וקוראו בנו והלה קוראו לו אבי שנדרו זה מזה בשם בן ואב בסתם או שנתנו מתנה זה לזה בלי זכרון שם העצם ספיקא הוי ואזלינן לחומרא דהיינו בנדרים נאסרים זה ע\"ז ובממון חומרא לתובע מיהו ביש לו בנים לזה המגדל נראה שאפי' בנדרים אין המתגדל נאסר דאמרינן לבניו ממש נתכוין אכן ביש לו אב למתגדל אע\"פ שהמגדל מחשיבו לבנו ונאסר בו מ\"מ כשנדר הבן י\"ל שלאביו האמיתי נתכוין וכיון שהדבר שקול כי ליכא הוכחה מדעת הנותן והנודר אזלינן הכא והכא לחומרא. וחורגו שאינו גדל אצלו ודאי דאינו בכלל בן לשום דבר ע\"ש. [ועמ\"ש בפ\"ת לח\"מ סי' מ\"ב סט\"ו בהג\"ה בד\"ה הואיל וגדלהו]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 217:11"
+        },
+        "12": {
+          "he": "גם חנוכה ופורים. עיין בתשובת תפארת צבי חלק יו\"ד סימן כ\"ד מי שנשבע שלא ישתה יין שרף חוץ משבתות וי\"ט מותר גם כן במוצאי יוה\"כ אם אמר הנשבע שכוון לזה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 217:12"
+        },
+        "13": {
+          "he": "שלא יצחוק. ע' בתשובת הר\"א מזרחי סימן י\"ד שכתב דאם הסכימו הקהל וקיבלו עליהם שלא יצחוק שום אדם בקוביא נכלל בזאת הסכמה לאסור כל מיני השחוק שבעולם אף שהוציאו בלשונם בלשון קוביא כולם בכלל האיסור הן ע\"ש וע' בתשובת שמש צדקה חלק יו\"ד סי' ל\"ב לענין הנודר סתם שלא יצחוק אם צחוק האישקאקאי בכלל נדר זה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 217:13"
+        },
+        "14": {
+          "he": "בשבילו. ע' בתשובת רדב\"ז החדשות סי' רי\"ד הרבה טעמים לזה. וע' בס' תפל\"מ שכתב דה\"ה הנשבע על שאר דברים דאסור לעשותו ע\"י שליח דשלוחו כמותו כו'. מיהו י\"ל דאזלינן בתר כוונת הנודר אי דרכו לעשות אותו דבר מעצמו או ע\"י שליח כדלקמן סי' רי\"ח ס\"ה וצ\"ע דלא מחלק הכא בשחוק כן עכ\"ד ע\"ש. [ועמ\"ש בסי' רי\"ח ס\"ק ה' בשם תשובת הראנ\"ח סימן ט' ובשו\"ע לקמן סי' רכ\"א ס\"י ובש\"ך שם]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 217:14"
+        },
+        "15": {
+          "he": "דהולכין אחר כוונתו. לכאורה משמע דר\"ל דאזלינן לגמרי בתר כוונת הנודר ולפ\"ז אם אומר שדעתו היה באומרו שלא לקבל פקדון היה כוונתו על משכון לבד אסור ללוות על משכון ומותר לקבל פקדון וע' בתשובת ושב הכהן סימן ע\"ט שדעתו שאין הולכין אחר כוונתו אלא לענין אם אומר שכוונתו היה רק על פקדון מותר להלוות על המשכון ולא להיפך ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 217:15"
+        },
+        "16": {
+          "he": "כוונתו. עיין בה\"ט ומ\"ש מי שנדר שלא לאכול בסעודת הרשות יכול לאכול בסעודת חנוך הבית בא\"י ולא בח\"ל עיין בתשובת ברית אברהם שאלה ט\"ז מ\"ש בזה. ועיין בתשובת חות יאיר סי' ע' שנסתפק בזה אם סעודת חינוך הבית מצוה היא או לא (אף בא\"י) אם לא שדורשין בו וע\"י כך נעשה סעודת מצוה מפני שהדורש בא מחמת הסעודה וכל המסובים שם מקשיבים לקול הדורש אבל אם אין דורשין בו רק ששם קצת ת\"ח שיש ביניהם ד\"ת אינו מספיק. וע\"ש עוד שהאריך לבאר מה הן הסעודות הנקראות סעודות מצוה לענין שיהא הנודר מסעודת הרשות מותר ליהנות משם וכתב דסעודת ברית מילה וחתונה ודאי הוי סע\"מ ואפי' בנישואין דבת ת\"ח לע\"ה דאין לנו ע\"ה שדברו חכמים פה וכן סעודת ליל סבלונות שלפני יום החתונה אבל מה שעושין סעודה אחר כתיבת התנאים שקורין קנס מאל לא מיקרי סעודת מצוה וכן סעודת ליל שלפני המילה ויום שלישי למילה לא הוי סעודת מצוה שאינם רק מנהג. וליל שבת של בן זכר פסק בת\"ה סימן רס\"ט (הובא ברמ\"א לקמן סימן רס\"ה סי\"ב בהג\"ה) שהוא ג\"כ סע\"מ ויש לסמוך עליו ומותר הנודר ליכנס לשם. דבלא\"ה י\"ל שבשם סעודה לא יכונה וכן ליל שפינהאל\"ץ כי בנדרים אזלינן בתר לשון ב\"א ושם אין אוכלין בקבע רק אלו נכנסין ואלו יוצאין ושותין מעט מזעיר וכמה לא יטעמו דבר. וסעודת הסיום ודאי הוי סע\"מ וה\"ה יום של אחריו כנהוג ואפשר דה\"ה שאחר אחריו וכן סעודה שעושה בעל הנס ביום שנעשה בו נס או סעודה שעושין מי שנתן ס\"ת וכלי קדש לבהכ\"נ. אבל יום המוגבל לחברה בכל שנה או סעודת בן שבעים שיש להסתפק אפילו זה הבן שבעים מברך שהחיינו כי כך נראה לי מ\"מ לא יחוייב שיהא סע\"מ לכן ראוי לדרוש בהם. וכתב עוד דהמקבל עליו שלא לאכול בסעודת הרשות ואינו אומר בל\"א איך וויל ניט אויש הויז עסין. רק שאומר איך וויל אויף קיין סעודה גיין זולת סעודת מצוה שאין בכלל זה לסעוד עם חבירו ובני ביתו דבלשון ב\"א לא נכלל במלת סעודה רק כשמזמנים שם קרואים ואם זימן ב\"א אין מספיק מה שהוא שבת לומר שהוא סע\"מ דאף דמצוה להרבות בסעודה היינו בבשר ומעדנים אבל זימון קרואים אינו מצוה זה הכלל דלא נקרא סע\"מ אלא כשאסיפת ב\"א הוא בשביל המצוה או היתר הדרוש שכבר יצא מפי הקדמונים מפני שהדרוש בא מחמת הסעודה משא\"כ מה ששם קצת ת\"ח לא מהני ע\"ש. ומ\"ש הבה\"ט הסכימו הקהל שלא ללבוש בגדי משי כו' כן כתב בשו\"ת משפטי שמואל סימן נ\"ח ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 217:16"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ולשלוק.  פי' בשיל ולא בשיל אבל בשיל יותר מדאי בכלל מבושל הוא בכל מקום כ\"כ התוס' והר\"ן וכ\"כ הב\"ח ועיקר:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:1"
+        },
+        "2": {
+          "he": "הלשון.  כתב רבי' ירוחם ואם אין לשון בני אדם כגון שנדר בלה\"ק ובאותו מקום אין מדברים בו הלך אחר לשון תורה עכ\"ל (מי שנשבע שלא לשכור ושלא למשכן בית שלו כ\"א לפלוני אין ירושה בכלל רשד\"ם חלק ח\"מ סי' רנ\"ו ועיין לעיל סימן רט\"ז ס\"ק ז' מש\"ש בשם הראנ\"ח הנשבע לעשות דבר כשיהיה נשוי או איפכא לא אעשה דבר זה כשאהיה נשוי לא עבר על שבועתו כ\"ז שלא נשא אשה בכתובה וקידושין וז' ברכות וכן לא נתחייב לעשותו אלא לכשיהיה נשוי בכתובה וז' ברכות כיון דבין בלשון תלמוד ובין בלשון בני אדם לשון נישואין לחוד ולשון אירוסין לחוד כנה\"ג והרדב\"ז והרשד\"ם אבל מהריב\"ל ח\"ג סי' קי\"ז כתב דאירוסין בכלל נשואין ע\"ש עיין בכה\"ג הנשבע שלא ישא אשה אחרת על אשתו אין אירוסין בכלל וה\"ה במקום שנוהגים חרם דרגמ\"ה דאין קידושין בכלל רשד\"ם חי\"ד סי' צ\"ח ולפי דברי מהריב\"ל הנ\"ל אף אירוסין בכלל עיין כנה\"ג. הנודר מראובן ובניו ובני בניו מותר בדור רביעי כנה\"ג וכ\"כ בש\"י חלק ח\"מ סי' קע\"ג ומהר\"מ מטראני ח\"ב סי' כ\"ח כתב דהוי ספיקא):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:2"
+        },
+        "3": {
+          "he": "חיים.  כלומר באותן ירקות שנאכלין גם חיים ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:3"
+        },
+        "4": {
+          "he": "בנכבשים.  פי' הש\"ך אף באותן שאין נאכלים רק בנכבשים אבל מ\"מ אותן ירקות אסור לאוכלן גם מבושלים אבל ירק חי ודאי מותר לאכול וכ\"כ מהרש\"ל אבל הט\"ז פסק דאם אומר ירקי קדירה אסור בחי ובכבוש ולא במבושל ואם אמר ירק המתבשל אז מותר בכבוש ובחי ע\"ש שמאריך בזה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:4"
+        },
+        "5": {
+          "he": "מראים.  בטור כתב עפ\"י הש\"ס דאם נדר בימי הקזה אין דגים בכלל הנדר שבלא\"ה לא אכיל אותם ולא הוצרך לידור נדר והיינו ביום א' דהקזה דהא אמרו שני לדם דג מיהו יש לתמוה דאמרינן התם בש\"ס דהקיז דם לא יאכל ביצים והעולם נהגו לאכול ביצים תיכף אחר ההקזה ואפשר דהקזה דידהו היה קשה טפי שהיו מקיזים דם הרבה עכ\"ל הט\"ז (ובנה\"כ מחלק בין צלוים רכים למבושלים וקשים כדאיתא בפרק כיצד מברכין וכן ידוע לחכמי הרופאים עכ\"ל) וכתב בתשובת מבי\"ט מי שנדר שלא יקנה לשבת אלא חצי חתיכת בשר נראין הדברים שלא נתכוין אלא לבשר בהמה הנמכר בחתיכה אבל בעופות מותר (מהר\"מ מטראני ח\"א סי' רנ\"ח):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:5"
+        },
+        "6": {
+          "he": "בשניהם.  כתב רש\"ל נ\"ל דהאידנא אסור בשניהם דאזלינן בתר לשון בני אדם ומ\"ה שרינן סתם בדגים עכ\"ל מבואר מדבריו דהאידנא הנודר מבשר סתם מותר בדגים דאין דרך עכשיו דמימלך שליח עליה ט\"ז וכתב עוד שהאי בשר עלי הוא ט\"ס וצ\"ל בשר זה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:6"
+        },
+        "7": {
+          "he": "טועם.  וה\"ה שאני אוכל כ\"כ מהרש\"ל ודבר הבא ליתן טעם בקדירה כגון שומין ובצלים וכיוצא בהם הכל נכלל בשם תבלין ובהני הוא דשייך לפלוגי בין חיים ומבושלים אבל בפלפלים וכיוצא בהן אין שייך לחלק בהכי ב\"י והאחרונים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:7"
+        },
+        "8": {
+          "he": "באספרגוס.  כתב הט\"ז וא\"ל לדעת הרמב\"ם דפי' שהוא מין שלקות של ירק למה הנודר מן הכרוב אסור באספרגוס מ\"ש מנודר מבשר דמותר ברוטב די\"ל דבזמנם היו קורין גם לאספרגוס כרוב ולא להיפך משא\"כ בבשר ורוטב שמעולם לא היה נקרא בימים ההם לרוטב בשר:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:8"
+        },
+        "9": {
+          "he": "בגנות.  ונראה דעכשיו אסור בירקות שדה שגם הוא בלשון ירקות בלשון בני אדם ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:9"
+        },
+        "10": {
+          "he": "בקום.  פירש\"י דהיינו נסיובי דחלבא וע\"ל סי' פ\"א ס\"ה וסי' פ\"ז ס\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:10"
+        },
+        "11": {
+          "he": "בציר.  כתבו הט\"ז והש\"ך דהיינו דוקא מה שכבר יצא מהם קודם הנדר אבל מה שיצא מהן לאחר שנדר אסור אם אמר קונם דגים שאני טועם או שאני אוכל או קונם דגים אלו כדלעיל סי' רט\"ז ס\"ט (וכן לענין קום ודבש תמרים היוצאים מהם אחר שנדר אסור רש\"ל) וכ' הרא\"ש דאם אמר דגים או דג דגה נאסר בגדולים וקטנים ובדגה לבד אינו אסור אלא בקטנים לכ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:11"
+        },
+        "12": {
+          "he": "מותר.  שסתם דבש הוא של דבורים (א' שנדר שלא לאכול זמן ידוע דבר הבא מן החי מותר לאכול דבש דבורים ולשתות מי דבש שקורים מע\"ד ת' ש\"א סי' כ\"ט ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:12"
+        },
+        "13": {
+          "he": "לדידן.  דמשתעינן בלשון לע\"ז ולפ\"ז אם נדר מן התירוש בלשון הקודש אסור ביין ומותר בכל מיני מתיקה דאנן לא קרינן תירוש אלא ליין בלשון תורה עכ\"ל הר\"ן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:13"
+        },
+        "14": {
+          "he": "שרוב.  ולא אזלינן בתר רובא דספק נדרים להחמיר וע\"ל סי' ר\"ח ס\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:14"
+        },
+        "15": {
+          "he": "בחמשת.  הם חטה ושעורה כוסמין שבולת שועל ושיפון:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:15"
+        },
+        "16": {
+          "he": "מהמזון.  כלומר אפילו במקום שנוהגים לעשות פת מחטים ושעורים ונדר מהמזון משמעו של המזון הוא ה' מינים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:16"
+        },
+        "17": {
+          "he": "הזן.  ומיירי שלא אסר אלא לזמן שיוכל לעמוד בו דאל\"כ הוי כנודר מכל פירות שבעולם דאינו נדר כלל כדלקמן סי' רל\"ב ס\"ה כ\"כ הב\"ח ופרישה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:17"
+        },
+        "18": {
+          "he": "בכולם.  וכב\"י בשם הר\"ן דהיינו דוקא שלא אסרן עליו אלא לזמן שיכול לעמוד בו אבל לעולם לא הוי נדר כלל שא\"א לקיימו ומדכתבו כן אסיפא דגידולי שנה ולא כתבו כן ארישא בפירות השנה משמע דשם הוי נדר אפי' לעולם כיון דמותר בגדיים וטלאים יכול לקיים נדרו וכ\"כ לקמן סי' רל\"ב ס\"ה עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:18"
+        },
+        "19": {
+          "he": "אסור.  כ' הט\"ז ונראה דמ\"מ מותר בגדיים וטלאים ובשאר בעלי חיים ודלא כב\"ח ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:19"
+        },
+        "20": {
+          "he": "החמה.  דאיכא הנאת הגוף:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:20"
+        },
+        "21": {
+          "he": "בעליה.  וכתב הרא\"ש אבל חדר ויציע לא הוי בכלל בית (דהמוכר אח הבית לא מכר את היציע ולא את החדר) ועיין בח\"מ סי' רי\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:21"
+        },
+        "22": {
+          "he": "לעיבורה.  ואע\"ג דלענין שאר דברים תוך התחום דין עיר עליו כמ\"ש בא\"ח ס\"ס חצ\"ו ור\"ס תקע\"ד ולקמן סי' רכ\"א ס\"ס ל\"ג בהג\"ה שאני הכא בנדרים דהלך אחר ל' בני אדם שאינו אלא תוך ע' אמה ושירים עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:22"
+        },
+        "23": {
+          "he": "לשון.  כתב בתשובת מבי\"ט ובמקומות אלו בזמנינו זה נראה שאינו נקרא דירה בלשון בני אדם במקום אחד פחות מו' חדשים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:23"
+        },
+        "24": {
+          "he": "עלי.  פי' לאחר ל' יום יהיו יורדי הים אסורים עלי:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:24"
+        },
+        "25": {
+          "he": "בשעת.  דבתר שעת אמירה הולכים בנדרים לא בתר חלות הנדר וע\"ל סי' רל\"ד סל\"ד ונראה דבכל שאר מילי נמי דינא הכי כגון אמר לאחר זמן פלוני יהיו יושבי עיר פלוני אסורים עלי ובתוך כך עקר אחד דירתו מאותה העיר אסור בו כיון שבשעת אמירת הנדר היה מאותה העיר וכן אם בשעת האמירה לא היה שם אע\"פ שבשעת חלות הנדר הוא שם מותר וכן כל כיוצא בזה עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:25"
+        },
+        "26": {
+          "he": "מרואים.  והט\"ז חולק ע\"ז וכתב נראה למעשה שאין לסמוך להתיר בלשון רואים החמה בסומין כיון ששאר הפוסקים לא חילקו הוי הטור יחיד לגבייהו וכ\"פ הב\"ח שאין להתיר וכו' ע\"ש באריכות:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:26"
+        },
+        "27": {
+          "he": "בחמה.  כלומר אסור ליהנות מאור החמה כתב הטור הנודר מן הילודים או מן הנולדים אסור בין באותן שנולדו כבר בין באותן שיולדו אחר כך ואינו מותר אלא בעופות ודגים שמטילין בצים ואין דרכן להוליד ואף ע\"ג דאין אדם מקדיש דבר שלא בא לעולם (וכמ\"ש לעיל לענין מי שנדר ליתן מעשר מן הריוח אפשר דזה נקרא יותר בא לעולם ועוד דאע\"ג דאין אדם מקדיש דשלב\"ל מ\"מ אדם אוסר על עצמו דשלב\"ל עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:27"
+        },
+        "28": {
+          "he": "ירושלים.  כתב הט\"ז דבהגהת פרישה כתב שאם נדר מעולי רגלים אסור אף בכותים שהרי עולים להר גריזים וישתקע הוראה הזאת וכו' ובודאי לא יצאו דברים הללו מפי אותו צדיק עצמו עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:28"
+        },
+        "29": {
+          "he": "בערלי.  דשם מולים נקרא על אומה ישראלית דוקא ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:29"
+        },
+        "30": {
+          "he": "נשבע.  כתב הרמב\"ם פ\"ט אחר שכתב כל הדינים הכתובים בסימן זה ובכל הדברים האלו וכיוצא בהן דין הנודר ונשבע אחד הוא ומביאו ב\"י ופשוט הוא וע\"ל סי' רל\"ט עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:30"
+        },
+        "31": {
+          "he": "להמרות.  שקורין בל\"א וועטי\"ן וכתב ב\"י בשם רבינו ירוחם בזה דעיקר כונתו היתה בשבועתו כדי להמנע מכל שחוק שמביא לידי הפסד ממון ע\"כ משמע מזה דהנשבע סתם שלא לשחוק היינו בענין שיש בו הפסד ממון אבל בלא הפסד מותר לשחוק ומ\"מ נ\"ל שהולכין אחר כונת הנשבע בזה דאם בשביל הפסד ממון היה לו דאגה או בשביל שהיה מאבד זמן במיני שחוק שאז אסור אפילו לשחוק בחנם עכ\"ל הט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:31"
+        },
+        "32": {
+          "he": "כוונתו.  כתוב בתשובת מהר\"מ. סופר של ראובן שנתן ת\"כ לשמעון כשיגמור מלאכת ראובן שלא יכתוב לשום אדם כ\"א לשמעון ואח\"כ נשרפה העיר ונשרף קונטרס א' של ראובן מה שכתב הסופר ועתה שואל הסופר אם יכול לכתוב אותו קונטרס כשיגמור מלאכתו טרם שיכתוב לשמעון וכשנשרף הקונטרס עדיין לא גמר לראובן את הספר ודאי יכול לכתוב כי לא נגמרה עדיין מלאכת ראובן ודאי אם נשרף הקונטרס לאחר שסיים כל הספר אז היתה נגמרה מלאכתו ולא היה יכול לכתוב עכ\"ל וה\"ה בכל מלאכות הדין כן ש\"ך (מי שנדר שלא לאכול בשום סעודת הרשות יכול לאכול בסעודת חינוך הבית בא\"י ולא בח\"ל באר שבע דף קי\"ג. הסכימו הקהל שלא ללבוש בגדי משי אף טאבי\"ע שרובו משי ומיעוט צמר בכלל הסכמה. הנודר מבגדים ומלבושים אין צמידים של זהב בכלל כנה\"ג ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 217:32"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

@@ -1,0 +1,170 @@
+{
+  "chelek": "OC",
+  "siman": 19,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-07T23:34:26.728Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "זמן ברכת ציצית. ובו ב סעיפים:ציצית חובת גברא הוא ולא חובת מנא שכל זמן שאינו לובש הטלית פטור מציצית ולפיכך אינו מברך על עשיית הציצית שאין מצוה אלא בלבישתו:",
+      "en": "Tzitzit are an obligation on the person and not on the item, in that as long as he is not wearing the tallit, he is exempt from (the obligation of) tzitzit (i.e. on that tallit). Therefore, one does not say a blessing regarding the making of the tzitzit, since there is no commandment except in wearing them.",
+      "ref": "Shulchan Arukh, Orach Chayim 19:1"
+    },
+    {
+      "seif": 2,
+      "he": "עשה טלית לצורך תכריכין אף על פי שלובשו לפעמים בחייו פטור:",
+      "en": "One who makes a tallit to be used as a burial shroud, even though he sometimes wears it during his lifetime, it is exempt (from the obligation of tzitzit)",
+      "ref": "Shulchan Arukh, Orach Chayim 19:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מנחות מ\"ב וכרב הרי\"ף והרמב\"ם שם והרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 19:1"
+        },
+        "2": {
+          "he": "מנחות מ\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 19:2"
+        },
+        "3": {
+          "he": "נימוקי יוסף הלכות ציצית:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 19:3"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "על עמ״א. ועיין סי׳ י״ג אות ח׳ בר״ה גנאי גדול א״צ לפושטו ובעת ההיא אם עושה ציצית יש לברך ובשבת קי״ח ב׳ באפסק ציצית דקאי בדרגא משמע לכאורה שם דרמי בעוד הטלית עליו ועיין תוס׳ מנחות מ״ד א׳ ד״ה טלית שאולה. וע׳ בספר חמד משה להמרדכי בי״ג יש לעיין:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 19:1"
+        },
+        "2": {
+          "he": "פטור עמ״א לכאורה יש בו קצת אריכות דברים וגם קצת מקושי ההבנה (דמשמע דתליא בפלוגתא כלי קופסא לשמואל החיוב על הבגד פטור אף בלבשו מחיים ולרב החיוב על האיש הלובש חייב א״כ למה כתב לשמואל ואינה לובשה) אבל כד מעיינין ביה הם דברים ראוין אליו ז״ל. כי במנחות מ״א א׳ ומודה שמואל בזקן כו׳ ולדברי ב״י מאי איריא ומודה שמואל דדין זה שייך לרב ג״כ בלובשה בחייו דפטור מכסותך ולימא הכי ובין לרב ושמואל אלא ודאי דכשלובשה בחייו חייב אפילו לשמואל דאשר תכסה קרינן וכר״מ דבזמן תליא אלא כשאין ליבשה ומונח בזה אמר דמודה שמואל דל״ת כלי קופסא חייבין אמר אשר תכסה. ותדע דאי כב״י אמאי השמיט הר״מ זה דפטור אפילו כשלובשה בחייו ש״מ דחייב וע״ז כתב ומיהו לטור קשה למה השמיט דין זה דהא ס״ל בי״ח דביחוד תליא מילתא וכנ״י ודאי פטור וגם בגמרא תקשה מ״ש ומודה שמואל לרב נמי שייך זה ועיי׳ חמד משה. ומ״ש מתוס׳ נדה ס״א ב׳ ד״ה אבל עושה יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 19:2"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "חובת עט״ז ועב״ח ודרישה בשם רש״ל יש מחמירין לבדוק ציצית בעת הנחתן בכיס כשמואל וכ״ד ראב״ן בהגמ״יי פ״ג אות נו״ן וב״ח כתב שראוי לעשות כן פן למחר ישכח מלבדוק או לא יהיה פנאי ויסמוך על של אתמול עמ״ש בסימן ח׳ אות י״א במ״א. וע׳ סימן ט״ו ס״א ודאי ראוי כשציצית מצויין בעיר שלא להתיר מבגד לבגד ולחוש נמי למ״ד כלי קופסא חייבין בציצית יע״ש. ועיין לבוש כסותך בזמן שאתה מתכסה בה ובסי׳ י״ד כסותך למעט שאולה דפטורה. והנה בהעלאה והצעה יש דיעות (עמ״א י״ח אות ג׳) דכתיב לא תלבש גדילים מה כלאים דוקא בלבישה אף ציצית דוקא לבישה וזה טעם מ״ד כלי קופסא פטורים וביבמות דף ב׳ בגדיה״ם צ״ו ואמר רחמנא תכלת דלמא כלי קופסא אלמא כלי קופסא פשוט לתלמודא דפטורין מציצית:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 19:1"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] לפעמים וכו'. ועולת תמיד כתב דליש אומרים דלעיל דכסות לילה חייב כשלובשו ביום, הוא הדין בזה, ואם כן לדידן יש לעשות בו ציצית ושלא לברך, וכן משמע במגן אברהם מוכרי כסות שלובשין להראותן לקונים פטורים מציצית וכן כשלובש להעביר המכס ועיין לקמן סימן ש\"א:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 19:1"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "חובת גברא.  אין זה סותר למ\"ש רמ\"א בסי' י\"ז דאינו חובת גברא דהתם בא למעט שאינו חייב ללבוש טלית בת ד' כנפות כמ\"ש שם אבל הבגדים המונחים ואינו לובשם אין חייב לעשות בהם ציצית לאפוקי ממ\"ד בגמ' כלי קופסא חייבים בציצית:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 19:1"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "על עשיית הציצית. שאין בעשייתה מצוה אלא בלבישתה עיין בגמ' פ\"ד דמנחות, וצ\"ע מ\"ש במזוזה דק\"ל שצריך לברך כשקובעה כמ\"ש בי\"ד סי' רפ\"ט דהתם נמי קי\"ל חובת הדר הוא דכ\"ז שאינו דר בתוכה פטור ממזוזה וכ\"כ התוס' במנחות דף מ\"ד ולכן נ\"ל דסתמא דמילתא במזוזה קובעה כשדר בתוכה לכן מברך על עשייתה אבל טלית מסתמא קובע בו ציצית עד שלא לובשו לכן אינו מברך על עשייתו ואה\"נ אם היה לבוש ציצית ונפסקו לו והטיל בו ציצית אחרים מברך אקב\"ו לעשות ציצית כמו במזוזה מיהו י\"ל דמיד כשנפסק מחויב לפשטו ולתקנו וע' בשבת דף קי\"ח משא\"כ במזוזה לא הטריחו רבנן לעקור דירתו ואפשר דה\"ה במזוזה אם קבע בו מזוזה קודם שדר בתוכו כשנכנס לדור בתוכו מברך אקב\"ו לדור בבית שיש בו מזוזה כנ\"ל:",
+          "en": "",
+          "ref": "Magen Avraham 19:1"
+        },
+        "2": {
+          "he": "פטור. כיון שאין עיקר עשיית' לאכסויי מחיים ה\"ל כסות לילה שפטורה אפי' ביום (נ\"י) ואפי' להרמב\"ם דמחייב כסות לילה ביום שאני הכא כיון דכתיב על כסותך משמע דוקא כסות המיוחד לאדם חי אבל זה לא מקרי כסות כלל ופטור (ב\"י) וק' דבגמרא אמרי' דשמואל סבר ציצית חובת טלית הוא ומוד' שמואל בזקן שעשא' לכבודו פירוש לתכריכיו שפטור מ\"ט אשר תכסה בה אמר רחמנא והא לאו לכסויי עבידא ולהרב\"י הל\"ל כסותך אמר רחמנא והוי פטור אפי' למ\"ד חובת גברא הוא לכן נ\"ל דדוקא אליבא דמ\"ד כלי קופסא חייבים בציצית אפי' אינו לובשה ע\"ז קאמר בגמ' דאם עשוי לתכריכין ואינו לובשה בחייו פטור מ\"ט אשר תכסה בה וכו' אבל למ\"ד חובת גברא הוא דהיינו כשלובש' א\"כ אפי' עשוי לתכריכין אם לובש' בחייו חייב דעכ\"פ לובש' וכ\"ד הרמב\"ם שהשמיט הא דאמרי' בתכריכין שפטור ומיהו אפשר דלהרא\"ש דס\"ל דכסות לילה פטורה אפי' ביום א\"כ תכריכין פטורים אפי' לובש אותן בחייו עסי' י\"ח, כתבו התוס' בנד' דף ס\"א מוכרי הבגדי' שלובשין הבגדים ומכוונים להראותן לקונים פטורים ואם לובש אותן להעביר המכס אפשר דחייב בציצית כמו גבי כלאים ועבי\"ד סימן ש\"א:",
+          "en": "",
+          "ref": "Magen Avraham 19:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ולא חובת מנא.  ע\"ל סי' י\"ז ס\"ק ב' מש\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 19:1"
+        },
+        "2": {
+          "he": "על עשיית הציצית.  עיין מ\"א מ\"ש. והמחבר יד אהרן חולק עליו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 19:2"
+        },
+        "3": {
+          "he": "בחייו פטור.  כיון שאין עיקר עשייתה לאכסויי מחיים ה\"ל כסות לילה ופטורה אפי' לובשו ביום עיין מ\"א וע\"ת (דלי\"א דלעיל דכסות לילה חייב כשלובשו ביום ה\"ה בזה וא\"כ לדידן יש לעשות בו ציצית ושלא לברך) כתבו תוס' בנדה דף ס\"א מוכרי הבגדים שלובשין הבגדים ומכוונין להראותם לקונים פטורים ואם לובש אותם להעביר המכס אפשר דחייב בציצית ועיין בי\"ד סי' ש\"א מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 19:3"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) ולא חובת מנא - עיין לעיל סימן י\"ז סק\"ה מש\"ש:",
+          "en": "And not an obligation on the garment - See previously in [in Mishah Berurah] Siman 17, Se'if Katan 5 what I wrote there.",
+          "ref": "Mishnah Berurah 19:1"
+        },
+        "2": {
+          "he": "(ב) פטור מציצית - אע\"ג דכתיב ועשו להם ציצית על כנפי בגדיהם מ\"מ מדכתיב קרא אחרינא גדילים תעשה לך על ארבע כנפות כסותך אשר תכסה בה משמע דוקא כשמתכסה בה:",
+          "en": "Exempt from Tzitzit - Even though it says \"and they shall make for themselves Tzitzit on the corners of their garments\", nevertheless, from the fact that it says in another place \"You shall make tassels on the four corners of your  garment 'with which you cover yourself'\", it is implied to mean specifically when you are covering yourself with it.",
+          "ref": "Mishnah Berurah 19:2"
+        },
+        "3": {
+          "he": "(ג) על עשיית הציצית - ר\"ל בעת הטלתן בהבגד אלא אח\"כ כשמתעטף בו מברך להתעטף. ואם נפסקו אחר שלובשו צריך לפשטו ולעשות בו ציצית ולברך כשחוזר ולובשו אף שלובשו תיכף:",
+          "en": "On the making of the Tzitzit - Meaning to say \"at the time that he attaches them [the Tzitzit] on the garment\".  Rather, afterwards, when he wraps in it he makes the blessing of \"to wrap\".  And if [the Tzitzit] became detached after he wore it, he is required to remove it [the Tallit] and make Tzitzit for it and to make the blessing when he wears it again... even if he will wear it immediately [after fixing it].",
+          "ref": "Mishnah Berurah 19:3"
+        },
+        "4": {
+          "he": "(ד) אלא בלבישתו - וה\"ה במזוזה דקי\"ל חובת הדר היא אין לברך על המזוזה רק כשהוא נכנס לדור בהבית תיכף ומיד דאז הוא ממש דומיא דעטיפה או כשכבר דר בה [ברכ\"י וכן משמע מדברי המ\"א להמעיין בו היטיב ועי\"ש עוד במ\"א ובברכ\"י ובתשובת רע\"א בסוף סימן ט']:",
+          "en": "Only on his wearing of it - And the same law applies to Mezuzah.  For we establish that the requirement is on the one who lives [in the house].  [And therefore] one should only recite the blessing on the Mezuzah when he enters to live in the house, immediately/right away.  For then it is exactly similar to the [law of] wrapping [in the Tallit]...",
+          "ref": "Mishnah Berurah 19:4"
+        },
+        "5": {
+          "he": "(ה) פטור - האחרונים מסקי דדוקא לדעת הרא\"ש דפטור לעיל בסימן י\"ח כסות המיוחד ללילה אפילו ביום והא נמי לכסות לילה דמי שהרי מת פטור ממצות אבל לדעת הרמב\"ם דמחייב כסות לילה ביום גם בזה חייב לפיכך לדידן יעשה בו ציצית ולא יברך. מוכרי הבגדים שלובשין ומכוונין להראות להקונים מדתן פטורין ואם לובש אותן להעביר בזה את המכס אפשר דחייב בציצית כמו גבי כלאים:",
+          "en": "It is exempt - The Achronim established that specifically according to the Rosh it is exempt [from Tzitzit] [as was written] previously in Siman 18 \"a garment that is designated/used for nighttime, even if he wore it during the day [is exempt]\".  And [so] here too [in our case of shrouds], it is similar to the case of a nighttime garment since a dead person is exempt from mitzvot.  But according to the Rambam who obligates a nighttime garment during the day, here too [by the case of shrouds] it is obligated.  Therefore, for us (ie. the way we should conduct ourselves in this scenario), we should make Tzitzit for it, but not make the blessing on it.  Garment merchants that wear [four cornered garments] with the intention to display to the buyers the garments size (ie. how it fits) are exempt [from attaching Tzitzit to the garment].  And if they wear it in order to avoid paying taxes on it, it's possible that it would be obligated in Tzitzit, like it is regarding Kelayim.",
+          "ref": "Mishnah Berurah 19:5"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

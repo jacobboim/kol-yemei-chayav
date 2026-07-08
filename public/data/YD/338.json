@@ -1,0 +1,90 @@
+{
+  "chelek": "YD",
+  "siman": 338,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-08T00:01:36.393Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "וידוי החולה וכיצד אומרים לו. ובו ב' סעיפים:נטה למות אומרים לו התודה ואומרים לו הרבה התודו ולא מתו והרבה שלא התודו ומתו ובשכר שאתה מתודה אתה חי וכל המתודה יש לו חלק לעולם הבא ואם אינו יכול להתודות בפיו יתודה בלבו (ואם אינו יודע להתודות אומרים לו אמור מיתתי תהא כפרה על כל עונותי) (טור) וכל אלו הדברים אין אומרין לו בפני ע\"ה ולא בפני נשים ולא בפני קטנים שמא יבכו וישברו לבו:",
+      "en": "If one feels death approaching, he is instructed, 'Confess [your sins]!'1Shab. 32a and Tur a.l. This applies only when he feels death approaching. Otherwise, he will think that he is dangerously ill and his heart will be broken — BaḤ and ShaK contra Perisha.  Sifre, Num. V, 6: ‘R. Nathan says, “and that soul be guilty; then they shall confess their sin which they have done.” this (verse) forms the rule for all dead that they require confession of sin (prior to death).’ And they say to him, 'Many confessed [their sins] and died not, and many who have not confessed, died; and as a reward, should you confess, you will live;2T.H., derived from Sem. de R. Ḥiyya(H) I, 2. Cf. supra § 337, n. 2. and he who confesses [his sins] has a portion in the world to come.'3As we find written in the case of Achan, ‘Joshua said unto him, my son, give, I pray thee, glory to the Lord, the God of Israel, and make confession unto Him’ (Josh. VII, 19). ‘And Achan answered Joshua and said, of a truth I have sinned against the Lord, God of Israel, and thus and thus have I done’ (ibid. 20). The confession of Achan made atonement for him, as is written (ibid. 25), ‘The Lord shall trouble thee THIS DAY,’ i.e., only this day, but not in the world to come — Mishna, San. 43b. And if he is unable to make confession with his mouth, he should confess in his heart.2T.H., derived from Sem. de R. Ḥiyya(H) I, 2. Cf. supra § 337, n. 2. If he knows not what to confess, they instruct him, say, 'My death should be an expiation for all my sins.'4Tur — G.  Mishna, San. ibid. All these instructions are given to him, not in the presence of illiterate people, nor women, nor minors, lest they cry and break his heart.2T.H., derived from Sem. de R. Ḥiyya(H) I, 2. Cf. supra § 337, n. 2.",
+      "ref": "Shulchan Arukh, Yoreh Deah 338:1"
+    },
+    {
+      "seif": 2,
+      "he": "סדר וידוי שכיב מרע מודה אני לפניך ה' אלהי ואלהי אבותי שרפואתי ומיתתי בידך יהי רצון מלפניך שתרפאני רפואה שלימה ואם אמות תהא מיתתי כפרה על כל חטאים ועונות ופשעים שחטאתי ושעויתי ושפשעתי לפניך ותן חלקי בגן עדן וזכני לעוה\"ב הצפון לצדיקים. (ואם רוצה להאריך כוידוי יו\"כ הרשות בידו) (כל בו):",
+      "en": "The order of confession5Cf. Sifra, Lev. V, 5 and Torah Temimah a.l. n. 56. for a dangerously ill person, is, 'I confess before Thee O Lord, my God and the God of my fathers, that my healing and my death are in your hand. May it be Thy will, to heal me completely, and if I die, my death should be an expiation for all sins, wrongs and rebellious acts,6Yoma 36a.  O.Ḥ. § 621, 6. חטא refers to a sin committed unwittingly; עון to one committed wittingly and פשע to a rebellious act. The order here is from the lenient to the grave. Thus M.Abr. ibid. n. 5. which I have committed sinfully, wrongfully and rebelliously before Thee, and grant me a share in Paradise, and favour me with the world to come which is stored away for the Righteous.' And if he desires to prolong as in the confession for the Day of Atonement,7Yoma 86b. he has the right to do so.8Kol Bo — G.",
+      "ref": "Shulchan Arukh, Yoreh Deah 338:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא שבת דף ל\"ב ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 338:1"
+        },
+        "2": {
+          "he": "רמב\"ן בסת\"ה ממסכת שמחות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 338:2"
+        },
+        "3": {
+          "he": "משנה סנהדרין דף מ\"ג ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 338:3"
+        },
+        "4": {
+          "he": "שם במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 338:4"
+        },
+        "5": {
+          "he": "שם במסכת שמחות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 338:5"
+        },
+        "6": {
+          "he": "שם בסת\"ה קבלנו מחסידים ואנשי מעשה וכו' ואי' בספרי ואשמה הנפש ההיא והתודו זה בנה אב לכל המתים שיטענו וידוי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 338:6"
+        },
+        "7": {
+          "he": "הרי\"ף והרא\"ש והרמב\"ם וש\"פ וכחכמים בברייתא יומא דף ל\"ו ע\"ב וכמ\"ש בא\"ח סי' תרכ\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 338:7"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "אומרים לו התודה שכן דרך כל המומתין מתודין. טור וש\"ס שבת דף ל\"ב ע\"א כתב הב\"ח ומשמע דוקא בנטה למות אבל בלא נטה למות אין אומרים לו התודה כדי שלא יהא נשבר לבו ואע\"פ שא\"ל הרבה הולכים בשוק ומתודים מ\"מ כשאומרים לו לאדם התודה שכן דרך כל המומתים מתודים ידע הוא שמסוכן הוא מאד דאל\"כ לא היו מזכירין מיתתו בפניו ויהיה נשבר לבו לפיכך אין אומרים לו כך אלא בנטה למות כו' נראה מדבריו דאומרים לו התודה שכן דרך כל המומתין מתודין ולכך אין אומרים לו כך אלא בנטה למות אבל הפרישה כתב דהאי שכן דרך כל המומתין מתודין לשון הטור הוא ולא שיאמרו לו כך וא\"כ אפי' בנטה למות אין אומרים לו כך ואע\"ג שהב\"ח הביא אח\"כ לשון רש\"י שכתב אומרים העומדים שם שכן דרך כל המומתין מתודין כדתנן בסנהדרין כו' אין דעת רש\"י לומר שהעומדים שם אומרים כל המומתים מתודין דא\"כ היאך כתב כדתנן בסנהדרין כו' אלא האי שכן דרך כל המומתים כו' דבור אחר הוא ומתחלה פי' אאומרים מאן נינהו האומרים ומפרש העומדים שם ואח\"כ מפרש שכן דרך כל המומתים כו' מל' שכן דרך כל המומתים כדתנן בסנהדרין כו' ומ\"מ נראה דדוקא בנטה למות אומרים לו התודה דאל\"כ חושב שמסוכן הוא וישבר לבו אי נמי בלא נטה למות אין אומרים לו כך שהרי עדיין יש לו שהות שיוכל להתודות אבל בנטה למות יש לחוש שימות פתאום בלא וידוי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 338:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "נטה.  כתב הב\"ח ומשמע דוקא בנטה למות אבל בלא נטה למות אין אומרים לו התודה דאע\"פ שאומרים לו הרבה הולכים בשוק וכו' מ\"מ כשאומרים לו שכן דרך כל המומתים מתודים ידע שמסוכן הוא דאל\"כ לא היו מזכירין מיתתו בפניו וישבר לבו עכ\"ל. ונראה מדבריו שלשון זה אומרים להחולה שכן דרך וכו' אבל הפרישה כתב דהאי שכן דרך כל המומתין מתודים הוא לשון הטור ולא שיאמרו כך להחולה וא\"כ אפי' בנטה למות אין אומרים לו כך ומ\"מ נראה דבלא נטה למות א\"א לו התודה דיחשוב שמסוכן הוא. ועוד הרי עדיין יש לו שהות שיוכל להתודות אבל בנטה למות יש לחוש שימות פתאום בלא וידוי עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 338:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

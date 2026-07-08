@@ -1,0 +1,1229 @@
+{
+  "chelek": "YD",
+  "siman": 61,
+  "chelekTitle": "Yoreh Deah",
+  "seifCount": 33,
+  "fetchedAt": "2026-07-08T00:01:14.499Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני מתנות זרוע לחיים וקיבה לכהן. ובו ל\"ג סעיפים: חייב ליתן לכהן הזרוע והלחיים והקיבה של שור ושה:",
+      "en": "De la rétribution de l'épaule, des mâchoires et de la caillette due au prêtreOn est obligé de donner au prêtre l'épaule, les mâchoires et la caillette du bœuf et de l'agneau.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:1"
+    },
+    {
+      "seif": 2,
+      "he": "הזרוע דוקא של ימין והוא מפרק ארכובה הנמכרת עם הראש עד כף היד שקורין אישפאלד\"ה והם שני פרקים:",
+      "en": "On n'est obligé de donner que la partie la plus élevée de la jambe droite de devant, et rien que la partie comprise entre l'articulation cubitale inférieure, laquelle partie du pied se vend généralement ensemble avec la tête, et l’articulation scapulo-humérale, qu'on appelle épaule; la partie percevable est donc composée de deux os.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:2"
+    },
+    {
+      "seif": 3,
+      "he": "הלחיים הם מפרק של לחי עד פיק\"א של גרגרת שהיא טבעת הגדולה עם הלשון שביניהם וצריך ליתנו עם העור ועם הצמר שבראשי כבשים והשער שבראשי תיישים שאינו רשאי למלגם (פי' להרתיחם בחמין להעביר השיער) ולא להפשיט העור קודם שיתננו לכהן:",
+      "en": "Par le terme de mâchoire on entend la partie comprise entre l'angle de la mâchoire et la région sous-hyoïdienne qui va jusqu’à la saillie du larynx, la langue y comprise. Cette partie de la tête doit être remise pourvue de la peau, de la laine, quand il s’agit d’une tête de mouton, ou du poil, quand il s’agit d’une tête de chèvre; mais il n’est pas permis de la dépiler en versant de l’eau bouillante dessus, ou de la dépouiller de sa peau avant de la remettre au prêtre.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:3"
+    },
+    {
+      "seif": 4,
+      "he": "הקיבה צריך ליתנה לכהן עם כל חלבה פנימי וחיצון אלא אם כן נהגו הכהנים להניח החלב לבעלים:",
+      "en": "Il faut remettre au prêtre la caillette pourvue de tout son appendice graisseux intérieur et extérieur, à moins que les prêtres de l'endroit n'aient coutume d'abandonner l’appendice graisseux au propriétaire de l'animal.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:4"
+    },
+    {
+      "seif": 5,
+      "he": "אף ע\"ג שמותר לאכול מבשר הבהמה קודם שיפריש המתנות מצוה להפרישם מיד:",
+      "en": "Bien qu'il soit permis de manger de la viande de l’animal avant la rétribution des parties percevables, on fait une bonne œuvre en y procédant immédiatement après la saignée.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:5"
+    },
+    {
+      "seif": 6,
+      "he": "אפילו אינו שוחט לצורך אכילה אלא לכלבים או לרפואה חייב במתנות אבל שחט ומצא טריפה פטור:",
+      "en": "Alors même qu’on ne saigne pas l'animal pour en manger la viande, mais pour la jeter aux chiens ou pour l’employer à quelque remède, on est tenu d'en remettre les parties percevables. Mais l’animal est exempt de toute rétribution, si on le trouve, après la saignée, affecté d'un cas morbide qui en rend la viande immangeable.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:6"
+    },
+    {
+      "seif": 7,
+      "he": "יתנם לכהן חבר ואם אין שם חבר יתנם לעם הארץ (וכן אם החבר אינו רוצה לקבלן נותנן לעם הארץ) (ב\"י בשם תוספות):",
+      "en": "On donne ces parties à un prêtre lettré, et, à défaut d’un tel, on peut aussi les donner à un prêtre ignare.GLOSE: De même lorsque le prêtre lettré ne veut point les recevoir, on peut les remettre à un prêtre ignorant.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:7"
+    },
+    {
+      "seif": 8,
+      "he": "נותנים אותם לכהנת אפילו היא נשואה לישראל והנותנם לבעלה ישראל קיים מצות נתינה וכל שכן שבעלה ישראל פטור מן המתנות:",
+      "en": "On peut remettre les morceaux percevables à la fille d’un prêtre, alors même que celle-ci est mariée avec un laïc; de sorte que celui qui remet les morceaux à un laïc marié avec la fille d’un prêtre, a satisfait à la loi de la rétribution; il en résulte qu’à plus forte raison un tel laïc est exempt de la rétribution.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:8"
+    },
+    {
+      "seif": 9,
+      "he": "לא יחלקם להרבה כהנים שצריך לתת לכל אחד דבר חשוב כדי נתינה אלא נותן זרוע לא' וקיבה לאחד ולחיים לשנים ובשור הגדול יכול לחלק הזרוע לשנים לכל אחד פרק אחד:",
+      "en": "Il ne faut pas partager la rétribution entre beaucoup de prêtres, car il convient de remettre à chacun un morceau présentable. Ainsi, on remet l'épaule à un seul prêtre, la caillette également à un seul, et les mâchoires à deux. Lorsqu’il s’agit d'un grand bœuf, on peut aussi partager l'épaule, entre deux prêtres, en en remettant à chacun une partie.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:9"
+    },
+    {
+      "seif": 10,
+      "he": "אם אין שם כהן ישום המתנות בדמים ואוכלם ונותן הדמים לכהן:",
+      "en": "S'il n'y a point de prêtre à qui l’on puisse remettre les rétributions en nature, on convertit celles-ci en argent; dans ce cas, on mange les morceaux percevables et on en remet plus tard la valeur à un prêtre.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:10"
+    },
+    {
+      "seif": 11,
+      "he": "אין לו לכהן לחטוף המתנות ואפילו לשאול אותם בפה אלא אם יתנם לו דרך כבוד יטלם ובזמן שהם כהנים רבים במטבחיים הצנועים מושכין ידיהם והגרגרנים נוטלים ואם היה צנוע זה במקום שאין מכירין שהוא כהן יטול כדי שידעו שהוא כהן:",
+      "en": "Il ne convient pas à un prêtre de s'emparer motu proprio des rétributions, ni même de les solliciter; il les accepte seulement quand on les lui offre courtoisement. Quand plusieurs prêtres se trouvent présents dans l’abattoir, les prêtres bien élevés déclinent les offres qui leur sont faites; les gloutons seuls les acceptent. Pourtant, si un prêtre bien élevé se trouve dans un endroit où l'on ignore sa qualité de prêtre, il peut, afin de la faire ainsi connaître, accepter en pareil cas.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:11"
+    },
+    {
+      "seif": 12,
+      "he": "הכהן יכול לאכלם בכל ענין שערב עליו יותר ואם כל המטעמים שוים אצלו יאכלם צלי ובחרדל:",
+      "en": "Le prêtre est libre de préparer les morceaux de viande qu'il reçoit, de la façon la plus conforme à son goût. Si tous les genres de cuisson lui sont également agréables, il les mangera rôtis et assaisonnés de moutarde.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:12"
+    },
+    {
+      "seif": 13,
+      "he": "יכול להאכילם לכלבים ולמכרם וליתנם לעובד כוכבים:",
+      "en": "Le prêtre est libre de faire manger aux chiens les morceaux qu'il reçoit, de les vendre ou de les donner à un païen.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:13"
+    },
+    {
+      "seif": 14,
+      "he": "כהן שיש לו מכירין שרגילים ליתן לו מתנותיהם יכול לזכותם לישראל שיקבלם מיד מכיריו ודוקא שהזוכה תלמיד חכם והשעה דחוקה לו ושלא יהא כהן המזכה משרת בבית זה שמזכה לו המתנות שמא יזכה בעל כרחו (רמב\"ם בפ\"ט מהל' בכורים) והוא הדין אם הכהן משרת בבית בעל הבית ומזכה לאורח ת\"ח שמתארח בבית רבו במתנות שרגיל ליתן לו רבו אסור (רש\"י וטור):",
+      "en": "Un prêtre peut prendre chez ses clients qui ont coutume de lui offrir les redevances, mentalement possession des rétributions en faveur d'un laïc, de sorte que ce dernier a ensuite le droit de les réclamer directement à la clientèle. Pourvu toutefois que le laïc qui en profite soit un savant et dans une situation précaire, et pourvu que le prêtre qui fait profiter ne soit le serviteur du laïc en faveur duquel il agit, de crainte qu'il n’agisse par force. Il est également défendu à un prêtre de prendre mentalement possession des rétributions chez un client dont il est le serviteur, en faveur d'un savant qui est en ce moment l'hôte de son maître.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:14"
+    },
+    {
+      "seif": 15,
+      "he": "לא נתן המתנות לכהן אלא אכלן או הפסידן פטור מדיני אדם אלא כדי לצאת ידי שמים צריך לפרוע דמיהם:",
+      "en": "Si, au lieu de donner les morceaux à un prêtre, on les a mangés ou perdus, on n'est passible, de par la loi humaine, d'aucun dédommagement; mais, pour satisfaire à ses devoirs envers le Ciel, on est tenu d'en remettre la valeur à un prêtre.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:15"
+    },
+    {
+      "seif": 16,
+      "he": "ישראל ששלח לחבירו בשר והמתנות בו מותר לאכלן:",
+      "en": "Lorsqu'un laïc envoie à son collègue de la viande dans laquelle se trouvent les morceaux percevables par le prêtre, le destinataire peut les manger.GLOSE: Car on suppose que le propriétaire en a remis la valeur en argent au prêtre.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:16"
+    },
+    {
+      "seif": 17,
+      "he": "מתנות אינם נוהגות אלא בשור ושה ולא בחיה ועוף ונוהגות בכלאים הבא מן עז ורחל וכן בכוי:",
+      "en": "Les rétributions des morceaux mentionnés ne sont dues que d’un bœuf ou d’un agneau, mais non pas d’un animal sauvage, ni d’une volaille; elles sont également dues d’un animal de sang mêlé, produit par le croisement d'un bouc et d’une brebis; elles le sont aussi d’un mouflon.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:17"
+    },
+    {
+      "seif": 18,
+      "he": "צבי הבא על עז וילדה הולד חייב בחצי המתנות אבל תייש הבא על הצביה הולד פטור מן המתנות:",
+      "en": "L'animal produit par le croisement d'un cerf mâle et d’une chèvre est assujetti à la moitié seulement des rétributions; mais l'animal produit par le croisement d’un bouc et d'un cerf femelle en est tout à fait exempt.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:18"
+    },
+    {
+      "seif": 19,
+      "he": "אין נוהגות בקדשים ולא בבכור:",
+      "en": "Les rétributions ne sont dues ni d’un animal offert en sacrifice, ni d’un animal premier-né.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:19"
+    },
+    {
+      "seif": 20,
+      "he": "בכור קודם שבא ליד כהן שנתערב בבהמות אחרות חייב ליתן מהם המתנות שיאמר הכהן על כל אחת תן לי מתנותיה ואם אתה אומר שהוא בכור תן לי כולה אבל בכור שניתן לכהן במומו ומכרו לישראל ונתערב בבהמות אחרות אם רבים שוחטים אותם כולם פטורים שכל אחד יאמר שלי הוא הבכור ואם אחד שוחט את כולם אין פוטרים לו אלא אחד מהם:",
+      "en": "Lorsqu'un animal premier-né avant d’être remis au prêtre, vient à se perdre dans un troupeau, chaque animal de ce troupeau est assujetti à la rétribution, car le prêtre peut faire valoir auprès du propriétaire l'argument suivant: « Donne-moi de cet animal les rétributions qui m'appartiennent; mais si tu prétends que cet animal est précisément le premier-né qui s’est perdu dans le troupeau, alors donne-le moi tout entier. » Mais si un premier-né, atteint d'une infirmité et vendu à un laïc par le prêtre à qui on l'avais remis, vient à se perdre dans un troupeau, tous les animaux de ce troupeau sont exempts de la rétribution, s'ils sont saignés par plusieurs propriétaires, car chacun de ces derniers peut prétendre que l'animal qu'il vient de saigner est précisément le premier-né; mais si tous les animaux sont saignés par un seul propriétaire, un seul de ces animaux est exempt de la rétribution.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:20"
+    },
+    {
+      "seif": 21,
+      "he": "מתנות נוהגות בכל מקום בין בארץ בין בחוצה לארץ בין בפני הבית (פי' בזמן שבית המקדש קיים) בין שלא בפני הבית ויש מי שאומר שאינן נוהגות בחוצה לארץ וכן נהגו (ועיין בספר החנוך להרא\"ה מצוה תק\"ו):",
+      "en": "Les rétributions sont dues en tous lieux, en Palestine et hors la Palestine, à l’époque où le Temple existe et à l'époque où il n'existe pas. Il y a quelqu'un qui opine que les rétributions ne sont pas dues hors la Palestine. Tel est, en effet, l'usage.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:21"
+    },
+    {
+      "seif": 22,
+      "he": "כהנים פטורים ממתנות:",
+      "en": "Les prêtres sont exempts de la rétribution.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:22"
+    },
+    {
+      "seif": 23,
+      "he": "לוים ספק אם הם חייבים במתנות הילכך פטורים ואם נטלן הכהן מידו אין צריך להחזירם לו. (ויש חולקין דאפי' נטלן הכהן מוציאין מידו) (ב\"י בשם הר\"ן):",
+      "en": "Il est douteux si les lévites sont tenus d'offrir les rétributions. Aussi en sont-ils exempts; mais si un prêtre s’en est emparé, il n'est pas obligé de les restituer au propriétaire.GLOSE: D’aucuns contestent ce droit au prêtre et prétendent qu'alors même que le prêtre a déjà pris possession des rétributions d’un animal appartenant à un lévite on les lui reprend.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:23"
+    },
+    {
+      "seif": 24,
+      "he": "במה דברים אמורים שכהן פטור כששוחט לעצמו אבל אם שוחט למכור אם הוא קבוע למכור בבית המטבחיים חייב ליתן מיד ואם אינו קבוע למכור בבית המטבחיים שתים ושלש שבתות פטור מכאן ואילך חייב והיו מנדין אותו אם לא יתן:",
+      "en": "Un prêtre n’est exempt des rétributions qu'autant qu’il saigne l'animal pour son usage personnel; mais il est tenu de les donner immédiatement s’il saigne l’animal pour en vendre la viande et s’il est établi comme boucher dans l’endroit. S'il ne fait que commencer son métier de boucher, il est exempt des rétributions durant les premières deux ou trois semaines, et à partir de ce délai il est obligé de les donner; on l'excommunie s’il ne s'exécute pas.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:24"
+    },
+    {
+      "seif": 25,
+      "he": "השוחט לכהן ולעובד כוכבים פטור מן המתנות והמשתתף עמהם צריך שירשום ובעובד כוכבים אם יושב עמו במטבחיים אין צריך לרשום: הגה במקום שנוהגין לשחוט אצל עובד כוכבים אם נמצא טריפה נשאר לעובד כוכבים ואם נמצא כשרה לוקחו הישראל פטור מן המתנות (מרדכי בשם ראבי\"ה):",
+      "en": "Celui qui saigne l'animal pour l'usage d'un prêtre ou d'un païen est exempt des rétributions. Quand un prêtre est le copropriétaire de l'animal saigné, on est obligé de marquer l'animal; mais quand c'est un païen qui en est le copropriétaire et qu'il assiste à la vente dans la boucherie, on n’est pas obligé de marquer l'animal.GLOSE: Les animaux ne sont pas assujettis aux rétributions dans les pays où il est d'usage de les saigner chez un boucher païen, de les céder au païen si, après la saignée, on les trouve atteints d’un cas morbide qui en rend la viande immangeable, et de ne les transporter chez un boucher juif qu’alors qu'on les trouve mangeables.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:25"
+    },
+    {
+      "seif": 26,
+      "he": "במה דברים אמורים ששותפות הכהן והעובד כוכבים פוטר בשותף בכולה אפילו בכל שהוא אבל אם אין הכהן והעובד כוכבי' שותף עמו אלא בראש אינו פוטר אלא מהלחיים ואם הוא שותף עמו ביד אינו פוטר אלא מהזרוע ואם הוא שותף עמו בבני מעים אינו פוטר אלא מהקיבה:",
+      "en": "La sentence énoncée, aux termes de laquelle l'animal est déchargé des rétributions si un prêtre ou un païen en est le copropriétaire, n'est valable qu'autant que la copropriété s'étend sur toutes les parties de l'animal — la part du prêtre ou du pa ïen ne fût-elle que très minime; mais si la copropriété n’existe que pour la tête de l'animal, elle ne décharge que de la rétribution des mâchoires, si elle n’a pour objet que le pied de devant, elle ne décharge que de la rétribution de l'épaule, et si elle ne se rapporte qu'aux intestins, elle ne décharge que de la rétribution de la caillette.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:26"
+    },
+    {
+      "seif": 27,
+      "he": "אם יש בהמה לכהן ומוכר ראשה לישראל ושייר כל הגוף לעצמו חייב בלחיים:",
+      "en": "Lorsqu'un prêtre, tout en gardant pour son usage personnel le reste d'un animal, dont il est le propriétaire, en vend la tête à un laïc, ***",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:27"
+    },
+    {
+      "seif": 28,
+      "he": "השוחט בהמת ישראל חבירו חובה על השוחט ליתן מתנותיה לכהן ואם שחט בהמת כהן או עובד כוכבים פטור: הגה מיהו טובת הנאה לבעלים והוא יכול ליתנם לכל כהן שירצה (ב\"י בשם הר\"ן) ואסו' לבעלי' ליקח דינר מכהן ליתן לו המתנו' וכן מישראל ליתן המתנות לבן בתו הכהן (ב\"י בשם ר\"י ובפרק עד כמה):",
+      "en": "*** c'est à celui qui procède à l'opération de la saignée qu'incombe le devoir de donner les rétributions; mais on en est exempt si l'ami, à l'usage duquel on opère la saignée, est un prêtre ou un païen.GLOSE: Pourtant le propriétaire a le privilège du choix, c’est-à-dire qu'il peut donner les rétributions au prêtre qu'il préfère. Il est défendu au propriétaire d'accepter une pièce de monnaie du prêtre pour lui accorder en échange les rétributions. Il est également défendu d'accepter de l'argent d’un laïc pour accorder en échange les rétributions au fils de la fille de ce laïc, qui est un prêtre.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:28"
+    },
+    {
+      "seif": 29,
+      "he": "כהן שמכר פרה לישראל ואמר לו אני מוכר לך פרה זו חוץ ממתנותיה הוי תנאי וצריך ליתנם למוכר אבל אם אמר ליה על מנת שהמתנות שלי אינו תנאי והמקח קיים ויכול ליתנם לכל כהן שירצה:",
+      "en": "Lorsqu'un prêtre qui vend sa vache à un laïc, dit à l'acheteur: « Je te vends toutes les parties de cette vache, excepté les morceaux percevables par le prêtre », cette stipulation est valable et, par conséquent, l'acheteur est tenu de remettre les morceaux mentionnés au vendeur. Mais si le prêtre dit à l'acheteur: « Je te vends cette vache à condition que tu m'en accordes les rétributions », cette stipulation est nulle, mais la vente est quand même valide, de sorte que l’acheteur est libre de donner les rétributions au prêtre qu’il préfère.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:29"
+    },
+    {
+      "seif": 30,
+      "he": "ישראל שמכר פרה לחבירו ושייר המתנות חייב הלוקח ליתנם אע\"פ שנשארו למוכר מכ\"מ החובה על הטבח שהוא הלוקח:",
+      "en": "Lorsqu'un laïc vend à son ami une vache, en s’en réservant les morceaux percevables, l'acheteur est obligé de remettre ces morceaux à un prêtre; car, bien que le vendeur ait réservé ces morceaux pour lui-même, la charge de la rétribution incombe à celui qui saigne l’animal, c'est-à-dire, à l'acheteur.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:30"
+    },
+    {
+      "seif": 31,
+      "he": "המתנות עצמם אסור לישראל לאכלם אלא ברשות כהן עבר ואכלן או הזיקן או מכרן אינו חייב לשלם מפני שאין לו תובעי' ידועי' והקונה אותם אע\"פ שאינו רשאי הרי זה מותר לאכלן מפני שמתנות כהונה נגזלות:",
+      "en": "Il est défendu à un laïc de manger les morceaux dus au prêtre, sans le consentement de celui-ci. Si, transgressant cette sentence, il les a mangés sans la permission du prêtre, ou s’il les a endommagés ou vendus, il n’est pas tenu à aucun dédommagement, attendu qu'en l’occurrence il n’y a point de créancier déterminé. Celui qui achète ces morceaux, bien qu’il agisse contre la loi, peut les manger, attendu que ces morceaux sont susceptibles d’être ravis.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:31"
+    },
+    {
+      "seif": 32,
+      "he": "אמר לטבח מכור לי בני מעיה של פרה זו נותנם לכהן ואין מנכה לו מן הדמים לקחו ממנו במשקל נותנם לכהן ומנכה לו מן הדמים:",
+      "en": "Lorsqu'on achète chez un boucher les intestins d’un animal, on est tenu d’en donner au prêtre la rétribution, et on ne peut pas faire valoir la prétention de défalquer du prix convenu la valeur de la rétribution. Mais si on achète les intestins au poids, on en donne au prêtre la rétribution et on en déduit la valeur du prix stipulé.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:32"
+    },
+    {
+      "seif": 33,
+      "he": "גר שנתגייר והיתה לו פרה נשחטה עד שלא נתגייר פטור משנתגייר חייב אם ספק פטור שהמוציא מחבירו עליו הראיה:",
+      "en": "Un néophyte qui vient de saigner une vache est exempt de la rétribution, si la saignée de la vache a eu lieu avant la conversion du propriétaire; mais il est obligé de la donner, s’il en est autrement. En cas de doute, il en est exempt, étant donné l’axiome de jurisprudence en vertu duquel c'est toujours au demandeur qu'incombe la tâche de prouver la justesse de ses prétentions.",
+      "ref": "Shulchan Arukh, Yoreh Deah 61:33"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנ' חולין דף ק\"ל:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:1"
+        },
+        "2": {
+          "he": "משנ' וברייתא שם דף קל\"ד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:2"
+        },
+        "3": {
+          "he": "בפי' רש\"י שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:3"
+        },
+        "4": {
+          "he": "שם במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:4"
+        },
+        "5": {
+          "he": "כפירש\"י שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:5"
+        },
+        "6": {
+          "he": "שם בגמ':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:6"
+        },
+        "7": {
+          "he": "שם בגמ':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:7"
+        },
+        "8": {
+          "he": "מימרא דרבי יהושע בן לוי שם.",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:8"
+        },
+        "9": {
+          "he": "מסקנת הגמרא שם דף קל\"ב ופירש הרמב\"ם הטעם בפ\"ט מהלכות בכורים שאינו דומה לטבל שהרי מתנות כהונה מובדלי':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:9"
+        },
+        "10": {
+          "he": "טור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:10"
+        },
+        "11": {
+          "he": "רמב\"ם שם מהתוספתא פ\"ט דחולין:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:11"
+        },
+        "12": {
+          "he": "טור מהספרי.",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:12"
+        },
+        "13": {
+          "he": "מימרא דרבי שמואל בר נחמני וכו' שם דף ק\"ל:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:13"
+        },
+        "14": {
+          "he": "שם בתוס':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:14"
+        },
+        "15": {
+          "he": "מהא דעולא שם דף קל\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:15"
+        },
+        "16": {
+          "he": "רש\"י שם כיון דלית להו קדושה דמותרין לזרים ונתן אפי' כהנת במשמע:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:16"
+        },
+        "17": {
+          "he": "מהא דרב כהנא ושאר אמוראי שם דף קל\"ב וכפירוש הר\"ן.",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:17"
+        },
+        "18": {
+          "he": "ל' הרשב\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:18"
+        },
+        "19": {
+          "he": "מימרא דרב חסדא שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:19"
+        },
+        "20": {
+          "he": "שם בגמרא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:20"
+        },
+        "21": {
+          "he": "ברייתא שם דף קל\"ד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:21"
+        },
+        "22": {
+          "he": "ברייתא שם דף קל\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:22"
+        },
+        "23": {
+          "he": "מהא דתני ר\"מ בני שמואל וכו':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:23"
+        },
+        "24": {
+          "he": "מהא דתניא הצנועים מושכין ידיהם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:24"
+        },
+        "25": {
+          "he": "מהא דאביי שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:25"
+        },
+        "26": {
+          "he": "מימרא דרב חסדא שם וכפי' התוספות והרא\"ש שם.",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:26"
+        },
+        "27": {
+          "he": "רמב\"ם שם וכן כ' הטור:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:27"
+        },
+        "28": {
+          "he": "מימר' דרב יוסף:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:28"
+        },
+        "29": {
+          "he": "מעובדא דרב ספרא ורבא שם.",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:29"
+        },
+        "30": {
+          "he": "מימרא דרב חסדא דף ק\"ל:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:30"
+        },
+        "31": {
+          "he": "הרא\"ש שם אליבא דלישנא בתרא ולחומרא וכ\"כ התוס' שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:31"
+        },
+        "32": {
+          "he": "טור והרמב\"ם שם מהתוספתא דחולין פ' ט':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:32"
+        },
+        "33": {
+          "he": "פשוט דאם שור ואם שה כתיב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:33"
+        },
+        "34": {
+          "he": "ברייתא שם דף קל\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:34"
+        },
+        "35": {
+          "he": "טור בשם הרמב\"ם בפ\"ט מהלכות בכורים כפי גירסתו שם בגמרא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:35"
+        },
+        "36": {
+          "he": "משנה שם דף ק\"ל:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:36"
+        },
+        "37": {
+          "he": "שם בגמרא דף קל\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:37"
+        },
+        "38": {
+          "he": "משנה שם וכדמפרש רב אושעיא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:38"
+        },
+        "39": {
+          "he": "משנה שם דף ק\"ל וכ\"כ הרמב\"ם וכ\"נ מדברי הרי\"ף:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:39"
+        },
+        "40": {
+          "he": "טור בשם רש\"י והר\"מ מרוטנבורג מהא דרב נחמן בר יצחק וכו' דף קל\"ו וכמ\"ש רש\"י שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:40"
+        },
+        "41": {
+          "he": "מהא דדרש רבא שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:41"
+        },
+        "42": {
+          "he": "שם מעובדא דההיא ליואה וכו' שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:42"
+        },
+        "43": {
+          "he": "מעובדא דאושפזיכניה דרבי טבלא וכו' דף קל\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:43"
+        },
+        "44": {
+          "he": "שם (°) פירוש מפני מראית העין:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:44"
+        },
+        "45": {
+          "he": "משנה שם.",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:45"
+        },
+        "46": {
+          "he": "ברייתא שם וכדמוקי לה שם בגמרא דף קל\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:46"
+        },
+        "47": {
+          "he": "כרב הונא שם דתניא בברייתא כוותיה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:47"
+        },
+        "48": {
+          "he": "בעיא שם ונפשטא ואיירי במוכר ראשה קודם שחיטה דאי לאחר שחיטה של כהן היתה ואין בה דין מתנות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:48"
+        },
+        "49": {
+          "he": "מימרא דרבא מדיוקא דמתניתין שם דף קל\"ב.",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:49"
+        },
+        "50": {
+          "he": "משנה שם ומפרש בגמרא דף קל\"ד כיון דאמר חוץ שיורי שייר לעצמו מתנות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:50"
+        },
+        "51": {
+          "he": "בריית' שם דע\"מ לאו שיורא הוא אלא תנאה והמתנה על מה שכתוב בתורה תנאו בטל:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:51"
+        },
+        "52": {
+          "he": "הרא\"ש שם מדברי רש\"י:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:52"
+        },
+        "53": {
+          "he": "לשון הרמב\"ם בפרק ט' מהלכות בכורים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:53"
+        },
+        "54": {
+          "he": "שם ממשנה דף קל\"ב ומפרש הר\"ן דבריו דאיירי בששקל לעצמו אבל לא שקל לעצמו רשאי הלוקח לאכלן שהראשון הוא שגזלן וכאוקימתא דרב שם דף קל\"ד:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:54"
+        },
+        "55": {
+          "he": "משנה שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 61:55"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "של. עש\"ך ירצה דווקא חיה ועוף לא הא שאר בהמות נוהג ומיהו ליכא כי אם שלשה מיני בהמות וז' מיני חיה המבואר בקרא בכלל שה תרי הוה שה כשבים ושה עזים ושם הכולל צאן. ושור הבר מין בהמה ועיזי דבאלא וכוי שהוא בריה בפ\"ע להמחבר מתנות נוהגין בו מ\"ה מריבויא וז\"ש וה\"ה שאר בהמות טהורות:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 61:1"
+        },
+        "2": {
+          "he": "קודם. עש\"ך בשם הר\"ן אע\"פ שמתנות כהונה אכלן או הפסידן פטור דממון שאין לו תובעים הוא אם בא ליד כהן הבהמה שחוטה מתנות שלא הורמו כמי שהורמו דמיין וזכה בהן הכהן ואם אכלן אחר חייב לשלם דממוניה דכהן הוא:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 61:2"
+        },
+        "3": {
+          "he": "ומצא. עש\"ך ויראה דמה שהיא חומרא דרבנן מחויב ליתן לכהן דלא אימעט מנתן לכהן לעצמו ולא לכלבו דאל\"כ למה ליה המע\"ה אלא דווקא ספק טריפה דמ\"ה ספיקא לחומרא ולהר\"מ נמי מלאו דלא תסור וכדאמרן ומיהו אפי' באיסור גמור דרבנן נמי להר\"מ פטור ואי\"ה במקום אחר אבאר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 61:3"
+        },
+        "4": {
+          "he": "יאכל כו'. ולשון למשחה הוא לשון גדולה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 61:4"
+        },
+        "5": {
+          "he": "יכול. עש\"ך ולאו משום דלא יהיו מצות בזויות עליו דאין בהם שום קדושה ומנתו ופרנסתו הוא אלא דכתיב למשחה כדרך שהמלכים אוכלין ובנותן לכלבו אין זה דרך גדולה ולכן אין רשאי אלא כשהם סרוחים או מבהמה כחושה עיין יש\"ש שם:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 61:5"
+        },
+        "6": {
+          "he": "פטור. עש\"ך ואפילו אין שם כהן אלא הוא או ע\"ה וחבר יאמר אשום דמיהן ואתן לכהן הבא אח\"כ:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 61:6"
+        },
+        "7": {
+          "he": "ומותר. עש\"ך ור\"ל דמותר לקבלן לכתחלה דאחזוקי אינשי ברשיעי לא מחזקינן ומסתמא לקחן מכהן אבל פשיטא דא\"נ נזלן מותר ללוקח לאכול דמתנות כהונה נגזלות כמבואר לקמן ואף קודם יאוש אלא כדאמרן:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 61:7"
+        },
+        "8": {
+          "he": "וכן בכוי. עב\"י ש\"ך ור\"ל דהמחבר סובר דמ\"ש הר\"מ ז\"ל כוי מפרישין כל המתנות בכוי שהוא בריה בפ\"ע ולגבי מתנות איתרבי מקרא אם שה דחייב ואם שור מרבי כלאים מעז ורחל דל\"ת כדרבא כ\"מ שנאמר שור ושה א\"א להוציא כלאים מביניהם (דבהמה דקה מגסה אין מתעברת) ומ\"מ קשיא על מ\"ש הר\"מ בפ\"ט מהלכות בכורים ה\"ה צבי שבא על התיישה חייב בחצי מתנות שנאמר אם שה מקצת שה והא לרבות כוי שהוא בריה בפ\"ע אתא ועוד אי לרבות צבי הבא על התיישה בכולהו ליחייב כפירש\"י ועיין ר\"ן דלחצי לא צריך ואם לרבות כוי שהוא בריה וצ\"ע ✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 61:8"
+        },
+        "9": {
+          "he": "בחצי כו'. דוודאי חוששין לזרע האם ושה אפילו מקצת שה ומ\"ש הש\"ך דרשינן הוא לאו דווקא דשה משמע נמי מקצת ואם לרבות כוי כו':",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 61:9"
+        },
+        "10": {
+          "he": "פטור. עש\"ך דמספיקא אין מוציאין דלמא אין חוששין לזרע האב והוה כולו היה ובסי' ט\"ז האריך הש\"ך בקושיא יע\"ש: ודע בספק טריפה או צבי הבא על התיישה ותפס הכהן חצי השני או תייש על הצביה ותפס חצי להמחבר סכ\"ג שכתב אי תפס כהן מלוי לא מפקינן מיניה והר\"ב אודי ליה מדלא כתב והכין הלכתא כמ\"ש בסימן שט\"ו א\"כ ה\"ה בזה אין מוציאין מידו. שוב ראיתי שז\"א אלא לתירוץ הב\"ח לקמן דיכול לומר קים לי כמ\"ד כו' א\"כ בצבי ותיישה מהני תפיסה דיכול לומר קים לי כמ\"ד חוששין או אין חוששין וספק טריפה לא מהני תפיסה כמו בספק בכור. ולתי' הש\"ך אות י\"ג נמי כיון דהספק בגוף הענין א\"כ יאמר הב\"ח לכהן אדרבה כו'. שוב ראיתי במשמרת הבית ס\"ו א' כתב בפירוש דספק בכור וה\"ה כוי מתיישה וצבייה לא מהני תפיסה ✍: עוד אבאר לך אפילו להב\"ח כל דאיכא ספיקא דדינא אי תפס לא מפקינן מיניה דיכול לומר קים לי וכפי הנראה שזה שיטת הט\"ז אות כ\"ד אפ\"ה אי כוי שהוא בריה בפ\"ע בא על צביה וילדה ותפס הכהן חצי מוציאין מידו דהוה ס\"ס להוציא שמא אין חוששין לזרע אב ושמא הלכה כוי אינו בהמה לשיטת הטור דלא כהר\"מ ז\"ל דכוי היינו הבא מצבי ותייש ומרבינן לכל המתנות אבל כוי שהוא בריה לא מרבינן. ואף למאן דסובר בממון לא מהני ס\"ס להוציא ה\"ט דאין הולכין בממון אחר הרוב וסמוך מיעוטא לחזקה משא\"כ כאן דאין לכהן חזקה אלא דיכול לומר קים לי ונגד ס\"ס והרוב דז' מיני חיות וג' בהמות טהורות אין יכול לומר קים לי. ומיהו בלא\"ה אין יכול לומר קים לי בכוי שהוא בריה בפ\"ע ועיקר דינים אלו אי יכול לומר קים לי נגד ס\"ס והרוב שייכים לח\"מ לכן אין להאריך כאן ✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 61:10"
+        },
+        "11": {
+          "he": "אבל. עש\"ך וממרוצת דבריו נראה דהמחבר פוסק כר' יוסי דעשו שאינו זוכה כזוכה ובסי\" שי\"ח ב\"כ ואזל לשיטתיה כאן וזה דלא כט\"ז באות כ\"ב דהמחבר פוסק כר' מאיר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 61:11"
+        },
+        "12": {
+          "he": "ספק. הש\"ך השיג על הב\"ח ולבוש דאם תפס לוי וודאי מוציאין מידו דנהי דלאו עם מיקרי מ\"מ אינם בכלל כהנים. ובחולין קל\"א ההיא ליואה דהוה חטיף אמר רב מסתי' דלא שקלינן מיניה אלא מיחטף חטיף ולא מצינו שהוציא מידו אין ראיה דאה\"נ דהוציא מידו. ומ\"ש שכ\"מ בש\"ס ופוסקים היינו מדאמר אי לא איקרי עם רחמנא פטריה וכפירש\"י דמה טיבותא דלא שקלינן מינייהו ולא פריך ליתיב להו. האמנם בהרא\"ה ז\"ל בב\"ח ס\"ז א' כתב הלכך לא יהבינן להו ולא שקלינן מינייהו משמע אי לאו בכלל עם הוה יהבינן להו. הן אמת שבתה\"א לא כתב כלל לא יהבינן להו והוספה הוא מדברי הרא\"ה ז\"ל הואי ועיין בפ\"ט מהל' בכורים ה\"ה מ\"ש המשנה למלך וליתא להדין פירושא דזה יהיה משפט הכהנים חיסר לשון יש ורוצה להשיג דאין נותנין להם דזה יהיה משפט הכהנים כתיב. ועיין בתה\"ק ב\"ג ש\"ב אין נותנין ללוי ואין לוקחין מהם מספק מלת מספק קאי אאין לוקחין ולא אאין נותנין וכדאמרן: נסתפקתי בחלל כהן אי חייב במתנות אי לאו מי אמרינן דחלל דין ישראל יש לו א\"ד דאכתי לאו בכלל עם הוה ודינו כלוי מיהת עכ\"פ. וראיתי הא דאמרינן בכורות מ\"ז א' אמר רב אדא ובתוס' ד\"ה אלא דלויה שנתעבדה מעובד כוכבים בנה פטור מפדיון וכהנת בנה חייבת דגרועה מלויה שנתחללה ודין ישראל יש לו וכן פסק הש\"ע לקמן סי' ש\"ה סח\"י דהתם כיון שנתחללה יצאה מכלל כהונה ובפסוק (שמות י\"ג) בבני ישראל כתיב והאי נמי בני ישראל מיקרי ומיהו אפשר דלא הוה בכלל עם אף שהוא חלל אי שבט לוי לא איקרי עם הלכך מספיקא אין לו ליתן מתנות. ומיהו בעל מום פטור ממתנות ומישקל נמי שקיל ובכלל כהנים הוא אלא דאין עובד ואוכל בקדשים ✍:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 61:12"
+        },
+        "13": {
+          "he": "א\"צ. עש\"ך מה שכתב הר\"ב שם והכין הלכתא וכאן לא הכריע והוה קולא לנתבע ככל ספיקא דדינא ואין מוציאין מיד הכהן ותי' לחלק בשם מ\"ה והטעים דבריו דכאן רוב אין בכורות וחזקת מריה קמא אפשר בהיותו במעי אמו לא היה קדושת בכור עליו משא\"כ התם מש\"ה מכריע שם הר\"ב דמוציאין ועמ\"ש בזה לעיל:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 61:13"
+        },
+        "14": {
+          "he": "א\"צ כו'. דסתם עובד כוכבים מרבה דברים כאב\"א ואפ\"ה דווקא יושב במטבחים וכל\"ק דיושב אמסחת' ודלא כהר\"מ ז\"ל אלא כרא\"ש וטור:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 61:14"
+        },
+        "15": {
+          "he": "ופטור כו' דלא אמרינן הוברר הדבר להוציא ממון ועט\"ז אות כ\"ו ולפ\"ז גדיים וטלאים רובן כשר משא\"כ להש\"ך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 61:15"
+        },
+        "16": {
+          "he": "ואסור כו' וכן אסור לכהן לסייע בבית בהפשטת העור וכדומה עי' סי' של\"א ועש\"ך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 61:16"
+        },
+        "17": {
+          "he": "הוה. עש\"ך ר\"ל דלא הוה מתנה עמ\"ש בתורה דחוץ שיורא הוא:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 61:17"
+        },
+        "18": {
+          "he": "ע\"מ. עש\"ך מה שיישב דברי הר\"מ ז\"ל ומה שהקשה הט\"ז אות למ\"ד:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 61:18"
+        },
+        "19": {
+          "he": "מפני שאין לו תובעים ולצאת י\"ש חייב ש\"ך ועי' גמרא אי מזה ממעט ליה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 61:19"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "של ימין מה\"א דהזרוע ט\"ז והוא מבואר בגמרא ודכוותיה הירך המיומן כו' והטור של הזרוע נמי מחויב ליתן עיין לבוש ס\"ד ור\"ן ופר\"ח:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:1"
+        },
+        "2": {
+          "he": "מפרק ארכובה. פי' מסוף הפרק ט\"ז והם ביד ימין שני פרקים הזרוע כנגדו ברגל נקרא שוק ופרק הב' המחובר לגוף ועד בכלל עם הרוחב צריך ליתן לכהן ומשמע רכובה גופא הנקרא טשי\"ך אין לכהן כ\"א ב' פרקים בלבד:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:2"
+        },
+        "3": {
+          "he": "שקורין אישפל\"דא. עט\"ז וכבר כתבנו דהיינו עם רוחב היד הכל לכהן:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:3"
+        },
+        "4": {
+          "he": "מפרק של לחי עד שיפוי כובע ט\"ז והלשון שביניהם לכהן כמבואר בגמ' אמר רבא לשמעי' זכה לי מתנות דבעינן למיכל לישנא בחרדלא:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:4"
+        },
+        "5": {
+          "he": "שאין רשאי למולגם מרבינן מה\"א דהלחיים ט\"ז ועב\"י בשם הר\"ן דמשמע לגי' אחת אם רוצה למלוג וליתן לו הצמר בפ\"ע או להפשיט העור וליתן לו בפ\"ע כיון דיש מולגין שמא ניחא לכהן למלוג ושמא ניחא ליה בעור ומ\"ה אין רשאי בפ\"ע משא\"כ זרוע רשאי להפשיט וליתן לו במקום שנהגו להפשיט וא\"י למה כתב הט\"ז מקרא וכאמור:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:5"
+        },
+        "6": {
+          "he": "עם כל חלבה מרבינן מה\"א דהקיבה דאייתרא ואקשתא ועט\"ז:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:6"
+        },
+        "7": {
+          "he": "אא\"כ נהגו. עט\"ז ור\"ל דה\"ה צמר שבלחי ועור שבזרוע אם נהגו הכהנים לתתן לבעלים בעין יפה כן הוא והמחבר שכתב בחלב משום דכבר מיוסד המנהג הזה בימי חכמי הגמרא ואה\"נ אם נהגו כן בעור וצמר: ודע בזה\"ז בח\"ל אין נוהגין מתנות כמ\"ש המחבר סכ\"א ומיהו בא\"י וודאי נוהג מדרבנן כמו תרומה בסימן של\"א ס\"ב דסתם רמ\"א דלא הוה מ\"ה ה\"ה מתנות דחד טעמא הוא דיליף נתינה מתרומה ועפר\"ח בקו\"א. ואין מברכין על נתינת מתנות לכהן דמשולחן גבוה זכו ולא משל בעלים הרשב\"א בתשובה סי' ח\"י הביאו הפר\"ח אות א' והכה\"ג בהגהות הטור אות ב'. ומה שכתב הכה\"ג על הדמש\"א שסובר שמברכין על הפרשה כמו תרומה שלא ראה דברי הרשב\"א לא ידענא דהרשב\"א בנתינה מיירי ומיהו וודאי דאין מברכין על הפרשה דלאו מצוה הוא שיכול לאכול קודם שיפריש דאין טובלים דלא כתוס' כמו שיתבאר משא\"כ תרומה דמצוה בפ\"ע להפרישה וכאן לא שייך הפרשה דמובדלין וניכרים הם:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:7"
+        },
+        "8": {
+          "he": "טריפה כטור דדרשינן מאת זובחי הזבח פרט לטריפה ט\"ז והוא מספרי ור\"ל זבח הראוי לאכילה וספק נמי פטור כמ\"ש הש\"ך אות ג'. ואיסור דרבנן כתב הפר\"ח אות י\"א דאין נותן לכהן דלאו זבח הראוי לאכילה הוא והפ\"ת אות ד' כתב בפשיטות דלא מפקי רבנן זכותיה דכהן והכה\"ג בהגהות הטור ע\"ש וא\"י דבכיסוי הדם (סי' כ\"ח) אות ל\"ב פוסק הפר\"ח דחומרת אחרונים מכסה בברכה ואף שהפר\"ח סיים זבח הראוי לאכילת כהן ולא לכלבו ולאו מזובחי זבח הראוי לאכילה משמע אלא דהתורה לא חייבה אלא מה שראוי לכהן ולא לכלבו וכאן א\"א לו לאכול ומ\"מ הנכון כפ\"ת: עוד כתב הפר\"ח שם דהפריס ע\"ג קרקע אין חייב במתנות מדרבנן דטעמא משום דלא לאיחלופי ובמתנות יאמרו דמכר לו הכהן. ומיהו הכה\"ג בהגהות הטור אות ה' מסופק בזה אי תפס הכהן אי מוציאין יע\"ש:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:8"
+        },
+        "9": {
+          "he": "לכהנת דנתן לכהן אפילו כהנת משמע ט\"ז וכל התורה בלשון זכר מלבד היכא דכתיב בני ממעטינן נקבה. כתב הר\"מ בפ\"ט מהלכות ביכורים חללה אין נותנין לה הביאו הפר\"ח אות י\"ב והכה\"ג אות כ' וכ\"א כהן נושא נשים בעבירה או מטמא למתים אין נותנים לו ולאו דווקא חללה ה\"ה כהן חלל כו'. כ' ר\"א מזרחי פ' אמור דכהנים אפילו בנות משמע מדר\"י אמר רב השוה הכתוב לכל עונשין כו' ולא ידענא דכאן אמר עולא ונתן לכהן אפילו כהנת ומדר\"י אמר רב לא משמע בטומאה דאין שווין בכל אין משוה אשה לאיש עיין יבמות פ' אלמנה לכ\"ג ובמקום אחר יבואר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:9"
+        },
+        "10": {
+          "he": "והנותנם. עט\"ז דהמחבר שינה מלשון הטור וכתב דכהנת נמי נוטלת והנותן לבעלה קיים מצות נתינה זהו מבואר בגמרא והפוסקים למדוהו מכ\"ש שבעלה פטור וא\"צ להפריש כלל כמו כהן בשלו והיינו רבותא דיחזקאל או בע\"א עיין פרישה אות י\"ד. והטור כתב נותן לכהנת ולא עוד אלא שבעלה פטור בשבילה והשמיט הדין דאחר רשאי ליתן לבעלה ויוצא י\"ח והט\"ז גורס בטור \"פוטר ור\"ל דהבעל פוטר אחרים והשמיט הדין דבעלה פטור דכ\"ש הוא. כתב הפר\"ח אות י\"ג דע\"י שלוחו של כהן יוצא ידי נתינה ובספרי דאמר ונתן לכהן לעצמו פי' ולא לשלוחו כדאיתא בפסיקתא היינו היכא דסתמא אבל אי שלח הכהן שלוחו ש\"ד. והכין מסתבר ומיהו ממה שיוצא ע\"י נתינת הבעל אין כ\"כ ראיה דאשתו כגופו ומלקמן דמזכה לת\"ח ע\"י אחר משמע כן דלא ככר\"ו שחולק באות ט' על פר\"ח דלקמן מבואר שיוצא ע\"י שליח. ומיהו אם גלתה האשה דעתה שאין רוצה ליתן לבעל אין יי\"ח אחרונים:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:10"
+        },
+        "11": {
+          "he": "ישום וב\"ה אוכלן כי אין שום קדושה במתנות ט\"ז ואפילו להשליך לכלבים רשאי כמו שיתבאר לקמן וחללה שאין אוכלת היינו שאין נוטלת ואין יוצא י\"ח אבל אין בהם קדושה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:11"
+        },
+        "12": {
+          "he": "לחטוף. וה\"ה לשאול ונפיק מקרא דויטו אחר הבצע עט\"ז:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:12"
+        },
+        "13": {
+          "he": "שהם. עט\"ז ור\"ל קושית הדרישה אות ט\"ו ומה גם בגמרא לא נזכר כהנים רבים לכן אמר המשך הלשון דל\"מ אם די מתנות לכ\"א דלא ישאל בפה אלא אפילו כהנים רבים ולא יבוא לכ\"א כדי נתינה וה\"א חביבה מצוה וישאל בפה לז\"א דאדרבה כשאין מגיעין די נתינה הצנועין אם יתנו להם מושכין ידיהם זולת במקום שאין מכירין:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:13"
+        },
+        "14": {
+          "he": "במקום. עט\"ז וכוונתו לתרץ קושית הדרישה והב\"ח דהא די בפרישת כפיו דאביי אנסי ליה עידניה משא\"כ בשאר ב\"א ותי' דאביי מוחזק היה לכהן ושלא ישתכח היה די בפריסת כפיו משא\"כ למי שא\"מ כלל והט\"ז תי' דמ\"ש א\"מ היינו נמי למי שאנסי ליה כו':",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:14"
+        },
+        "15": {
+          "he": "צלי כו'. ולמשחה היינו שררה וגדולה ט\"ז:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:15"
+        },
+        "16": {
+          "he": "משרת. עט\"ז הנה בש\"ע תרתי קאמר ולא יהיה משרת בבית זה שמזכה לו והוא נלמוד מכ\"ש בדין המוזכר בגמרא דלא יזכה לאורח שבע\"ה שמא יזכה לו בע\"כ כ\"ש לבע\"ה עצמו ולא זו אף זו נקיט והטור כתב ולא יהיה משרת בבית שרגיל ליתן לו המתנות אבל אם משרת בבית ישראל והאורח ת\"ח אסור ליתן המתנות והוא דין דגמ' והשמיט הכ\"ש והיינו לב\"ה עצמו. והקשה הט\"ז דלא רישא סיפא דלא זכר כלל ברישא מאורח ואף אם תפרשהו בב\"ה שמזכה לו. ועוד דאיך תפרש על ב\"ה דאם כן מה איריא שרגיל אפילו באקראי אסור לזכות לב\"ה שמא יזכה לו בע\"כ. ואי קאי אכהן שלא יהיה משרת בבית ישראל שרגיל ליתן לו המתנות דמה בכך כיון שהוא מזכה לאיש אחר. וע\"כ כתב הדרישה על קושיא א' דגרסינן אבל אם משרת בבית ישראל והיינו רישא או לאורח וזה דין דגמ' וא\"ש ומ\"מ קושיא שניה לא מיושב שפיר. והט\"ז תי' דה\"ק שלא יהיה כהן המזכה משרת בבית ישראל שרגיל ליתן לו המתנות דתי' בבית מיותר והל\"ל משרת לישראל אלא דבבית דבוק הוא עם מזכה וכאלו אמר ולא יהיה כהן המשרת מזכה בבית ישראל שרגיל ליתן המתנות והיינו שרבו רגיל ליתן לו המתנות אסור לזכות לאורח ישראל וזהו דין דגמרא ממש שאם רבו רגיל ליתן מתנות לעבדו כהן אסור למשרת לזכות לאורח ב\"ה באקראי ורגיל אורחא דמלתא עיין פרישה וסיפא הפוכו דרישה ומכוון עם דברי הש\"ע. ומיהו אם כבר באו ליד משרת יוכל ליתן לאורח תלמיד חכם או לרבו דאחר כבר יצא ידי נתינה כ\"כ ז\"ל:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:16"
+        },
+        "17": {
+          "he": "פטור. עט\"ז ועב\"י ואף אם אין אלא כהן א' בעיר לא הוה תובעין דאומר אמתין עד שיבוא אחר וכדומה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:17"
+        },
+        "18": {
+          "he": "מותר. עט\"ז ור\"ל דמותר לקבל ומיהו אפילו גזלן ונתן לאחר וקיבל דרשאי תו לאכול כמבואר לקמן:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:18"
+        },
+        "19": {
+          "he": "ופן. עט\"ז וזה כפי הבנת ב\"י בדברי הר\"מ ומרבוי' דקרא לא כמו שהבין הטור בר\"מ דמיירי מכלאים עיין אות כ':",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:19"
+        },
+        "20": {
+          "he": "בחצי. עט\"ז הטור כתב כוי הבא מבהמה וחיה כתב הרמב\"ם ז\"ל כוי מפרישין ממנו כל המתנות צבי שבא על העז חייב בחצי מתנות תייש הבא על הצביה פטור ואיני מבין כיון שפטור למה מפריש ולפי גירס' זו כוי שזכר הר\"מ היינו מבהמה וחיה והשיג עליו הטור מדנקיט הפרשה בעלמא וע\"כ בתיש הבא על הצביה דאי בצבי על התיישה חייב ליתן חצי וע\"כ הוקשה לו שפיר כיון שאין חייב כלל למה מפריש שאין טובלין והב\"י כתב דכוי שזכר הר\"מ הוא בריה בפ\"ע וחייב להפריש וליתן ובזה כ\"ע גם הטור מודה דחייב להפריש וליתן. ורש\"ל גורס בטור כוי וכן הבא מבהמה וחיה ואפ\"ה השיג הטור וחילק בכוי בריה בפ\"ע שאין נותן לכהן והמחבר שהשמיט דעת הטור דאזיל לשיטתיה דגורס בטור כוי הבא מבהמה וחיה כדאמרן. ומ\"מ איני מבין במ\"ש והפרשה משמע רק הפרשה בעלמא בכל גווני והיינו תיש על הצביה והוקשה לטור דכה\"ג אין צורך להפריש כיון שאין נותן לכהן כלום הא בצבי הבא על התיישה נמי קשיא למה להפריש הכל כיון שאין טובלין ואין נותן לכהן אלא מחצה להר\"מ דלא כהרא\"ש עפ\"י הבנת הטור. ואולי כיון שנותן מחצה אהני אם שה להר\"מ דמ\"מ מפריש הכל אף שאין טובלין מ\"מ מצוה להפריש הכל אלא מדנקיט סתמא משמע אף בתיש על הצביה ושם ליכא ריבוי' דקרא. שוב ראיתי שז\"א אלא ה\"פ דהר\"מ ז\"ל כתב כוי מפרישין כל המתנות צבי שבא על העז חייב חצי ולהיפך פטור והוקשה להטור דע\"כ כוי שזכר הר\"מ היינו אמה דסמוך אבהמה וחיה קאי דאי בריה בפ\"ע איך אמר הפרשה בעלמא והא אתי מריבויה וז\"ש בכל גווני היינו אף מבהמה וחיה. ומ\"ש כוי הבא מבהמה וחיה לשון הר\"מ אינו כן אלא כוי מפרישין אלא דהוכיח דקאי אבהמה וחיה. והראשון מתיישב יותר. גם יש ליישב הקישור למ\"ש בפירוש הא' ועיין:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:20"
+        },
+        "21": {
+          "he": "בקדשים. עט\"ז דלאו משום דאין קדושה חל על קדושה דמתנות אין קדוש אלא דהמצוה אין נוהגת בהם:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:21"
+        },
+        "22": {
+          "he": "בכור. הט\"ז האריך ואבאר במשנה דבכורות יצאו ב' ראשין כא' א' לכהן והב' ירעה (דא\"א לצמצם) והב' חייב במתנות דר\"מ ור\"י פוטר ואמרינן מ\"ט דר\"מ דכהן בא מב' צדדין ור\"י פוטר דעשו שאינו זוכה כזוכה אף דלא מטי לידיה. ומפירש\"י יראה דבתרתי פליגי דלר\"מ אף דמטי ליד כהן יאמר מהדרינה לך ותן לי מתנות ור\"י פליג אף דלא מטי ליד כהן כיון דע\"כ נתן לו א' עשו שאינו זוכה כזוכה כדמסיק להדיא שם. ולר\"מ אין הדבר מבואר דאפשר דלא פליג אלא בלא מטי עדיין לכהן הא מטי לא מצי למימר מהדרינא אלא דמסתימת המשנה משמע דר\"מ אף במטי חולק ובחולין פ' הזרוע משנה בכור שנתערב במאה בזמן שכולן שוחטין כולן פטורים ואם א' שוחט פטור מא' ופריך יבוא עליו מב' צדדין (ופירש\"י ואמאי כולן פטורין וארישא קאי) ומשני בבא ליד כהן ומכרו לישראל דפטור ממתנות וכתבו התוספות דקושית המקשן אף לר\"י דבכורות. דהתם לקח אחד מהם מה שאין כן כאן. והנה מ\"ש דלקח לאו דווקא דא\"נ לא לקח כיון שיש לו א' עכ\"פ עשו שאינו זוכה כזוכה משא\"כ כאן דמאה שוחטין ובספק בכור אין לכהן כלום כמו זכר ונקיבה וה\"ה כאן דכ\"א יאמר אצל חבירו הבכור וזה שפירש\"י ארישא ואמאי לא אסיפא דאפילו מא' אין ראוי לפטור ממ\"נ למה דלא ידע לאוקמיה בבא ליד כהן אלא דאיכא לאוקמיה כר\"י ומש\"ה פטור מא' דממוניה גביה וצריך ליתן לו א' ואף שלא בא ליד כהן מעולם ומיהו יותר מא' אין לפטור דבכור א' פוטר בהמה א' דיאמר זה הבכור ואתה לקחת חליפין והוה כבכור שלקח ישראל מיד כהן דפטור ממתנות והתם בבכורות דפוטר ר\"י הב' ממתנות היינו נמי א' הא יותר צריך ליתן לכהן וכאמור משא\"כ ארישא פריך שפיר דמאה בעלים ולא בא עדיין ליד כהן א\"צ ליתן כ\"א משלו כלום פריך שפיר ליתי ממ\"נ והגמרא דמשני ל\"צ דבא ליד כהן ומכרו לישראל היינו לתרץ אליביה דר\"מ דסתם מתני' כוותיה אבל לר\"י א\"צ לומר כ\"א בא ליד כהן ולא בא לישראל ומאה בעלים כולן פטורים כיון דע\"כ יתנו לו א' דממוניה גבייהו הוא ונשאר צ\"ט כ\"א פטור דעשו שאינו זוכה כזוכה ויאמר כ\"א לכהן הבכור שלי ואתה לקחת חליפיו. משא\"כ לר\"מ יאמר לכ\"א אי זה הבכור אני אקח כו' ומהדרינא לך מה שבידי ותן מתנות כו'. נמצא למאן דפסק כר\"י הדין כן הוא בכור שלא בא ליד כהן מעולם ונתערב בק' של אדם א' נותן לו א' לשם בכור וא' פטור ממתנות ומצ\"ח יתן מתנות. ואם של מאה אז א\"צ ליתן לו כולם בשותפות א' לשם בכור ולא מצי אמר גבייכו ממוני כיון שלא בא ליד כהן מעולם ומתנות כולם נותנים ממ\"נ ומב' צדדים בא עליהם. ואם בא ליד כהן פ\"א ונתערב בין של אדם א' או של מאה צריכין ליתן לו א' לשם בכור דממוני' גבייהו ונשאר צ\"ט ואף הם של א' פוטר א' ממתנות וצ\"ח נותן מתנות אבל של מאה כולם הצ\"ט פטורים ממתנות דכ\"א יאמר שלי הבכור ונטלת חליפיו זהו לר\"י אבל לר\"מ הדין כך במאה בעלים ולא בא ליד כהן א\"צ ליתן לו לשם בכור כלום ומתנות נותנים לו ואם הם של א' צריך ליתן לו א' לשם בכור ומצ\"ט מתנות ובבא ליד כהן אף מאה בעלים צריכים ליתן א' בשותפות לבכור ומצ\"ט מתנות ואם מכר במומו לישראל אם אדם א' פוטר א' וצ\"ט חייבין ומאה כולם פטורים. ומ\"ש המחבר הוא לר\"מ דאלו לר\"י עשו שאינו זוכה כזוכה וכדאמרן. ולקמן סי' שי\"ח לא הזכיר כלל אם השני חייב במתנות והט\"ז שם אות ב' העתיק דברי הטור דחייב במתנות ויפה עשה דאזיל לשיטתיה כאן דהמחבר פוסק כר\"מ וכטור והש\"ך פסק שם דפטור ממתנות כר\"י ואני תמה איך מזכה שטרא לבי תרי הא כאן כתב דווקא בא ליד כהן ומכרו הא לא\"ה לא הנה הוא יורה כר\"מ ולא כר\"י ומרישא נמי מוכח דבכור קודם שבא ליד כהן לא חילק בין של א' ומאה בעלים ולר\"י של אדם א' כיון דע\"כ נותן א' לכהן פטור א' ממתנות. שוב ראיתי דלק\"מ דהש\"ך כאן לשיטתיה אות י\"א דהמחבר כר\"י דלאו דווקא מכרו לישראל וה\"ה יצאו ב' ראשים וכדומה דהב' פטור והוא לשון הר\"מ ז\"ל בפ\"ט מהל' בכורים ולאו דוקא שלקחו אלא ה\"ה כה\"ג ורישא קשה אמאי בלא בא ליד כהן אמאי חייב ליתן המתנות אם של אדם א' פטור א' מהם ואפשר דה\"ק חייב ליתן המתנות אף שהם מאה בעלים והבן וצ\"ע: ועיין פרישה שכתב אף שמסתמא צריך ליתן א' לכהן כמו תרומה מ\"מ כיון שסלקת מן זה דין בכורה תן מתנות ועוד אחזיר לך כו'. והט\"ז השיגו מ\"ש ראיה מתרומה הא משנה שלימה ב' זכרים א' לכהן ומ\"ש כיון שסלקת מבכורה א\"כ יאמר תחזיר מה שלקחת בעד הבכורה. ויש לעי' קצת. ומ\"ש דהוא משנה שלימה אפשר דרישא מיירי במאה בעלים אלא דא\"כ א\"צ ליתן כלל דאיכא גזל השבט דכ\"א מדחה וע\"כ של א' ומקשה הט\"ז שפיר: והנה יש לראות בש\"ע דהתחיל בכור קודם שבא ליד כהן הא בא ליד כהן דין אחר יש לו ואח\"כ כתב מכרו לישראל משמע דג' דינין הוה ואולי דה\"ק קודם שבא ליד כהן פעמים שאין נותנין אלא מתנות ולא א' לשם בכור במאה שוחטין ואם בא ליד כהן צריך ליתנו א' לשם בכור משותפות כולם ומשאר מתנות באדם א' ובמאה פטורים להש\"ך ולהט\"ז א\"ש טפי וצ\"ע. ובדברי הר\"מ ז\"ל יש לעיין דפתח בבכור והוא משנה בבכורות וסיים אח\"כ בהמת קדשים שנפסלה ולא העתיק משנה דחולין בכור שנתערב לו יהיה כשבא ליד כהן ולא מכרה ובהמות קדשים שנפסלה אין ענינו לבכור וצ\"ע בזה. והיה נראה לומר דהר\"מ כר\"מ פסק מדכתב ולקח אחד מהן דמשמע הא כ\"ז דלא לקח דלא מטי ליד כהן לא דלא עשו שאינו זוכה כזוכה ור\"מ דווקא בלא לקח פליג עם ר\"י דלא כפירש\"י בבכורות ואין להאריך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:22"
+        },
+        "23": {
+          "he": "כהנים כו'. דלא מיקרי עם ולוים ספיקא הוא ואין להוציא ואי תפס עש\"ך:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:23"
+        },
+        "24": {
+          "he": "אין צריך. דהמחבר סובר ספיקא דדינא אי תפס לא מפקינן ט\"ז ועיין סימן שט\"ו ועש\"ך כאן:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:24"
+        },
+        "25": {
+          "he": "צריך. עט\"ז בשם הר\"ן דל\"ק אמאי לא חייב הישראל בחצי מתנות כמו בצבי על התיישה דהתם כל מקצת שיות חייב משא\"כ כאן כיון דיש לכהן או לעובד כוכבים שותפות פטור ממתנות:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:25"
+        },
+        "26": {
+          "he": "א\"צ. עט\"ז והוא מגמרא ואבע\"א שאני עובד כוכבים דיתיב אמסחתא דמפעא פעה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:26"
+        },
+        "27": {
+          "he": "נשאר. עט\"ז ופשוט דאם משתתף עם הכהן או עובד כוכבי' לאחר שחיטה דאין פטור ממתנות. כ' הפר\"ח אות מ\"א ה\"ה איפכא שוחט אצל ישראל אם כשירה יקח ישראל ואם טריפה יקח העובד כוכבים חייב במתנות הריק\"ש. ואף שיש לעיין קצת מ\"מ הדין אמת. וכתב עוד בכל מלכות תוגרמה חוק למלך פשוט א' מכל ליטרא אין דומה לבהמת ארנונא שמחיים אית ליה שותפות משא\"כ כאן דלאחר שחיטה שמוכר הבשר כו' לא מיקרי שותף וזה ברור:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:27"
+        },
+        "28": {
+          "he": "בכל כו'. משא\"כ כשיש לו שותפות באבר ידוע ול\"ד לארנונא דהתם אף באבר ידוע פוטר:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:28"
+        },
+        "29": {
+          "he": "חובה. עט\"ז ור\"ל דאין השוחט יכול לדחות לכהן שילך לבע\"ה ולאו בעל דברים דידי את אלא השוחט מחויב לטפל בעצמו לילך לבעלים לישאל אם רוצה ליתן לכהן זה או לאחר ול\"ד לדלעיל בזמן שמאה שוחטין דאין לו חוב על השוחט עיין כה\"ג:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:29"
+        },
+        "30": {
+          "he": "הוה. עט\"ז דמתנה ע\"מ שכתוב בתורה שיוכל ליתן לכהן שירצה והוא מתנה ליתן לו דווקא אבל חוץ הוה שיורא ששייר ולא מכרן כלל. ומה שהקשה דברי הר\"מ אהדדי עש\"ך אות ח\"י תי' לזה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:30"
+        },
+        "31": {
+          "he": "לקחו. עט\"ז הנה שקלן הלוקח והמוכר לא נגע בהן הוה הלוקח הגזלן מש\"ה דין של כהן עם הלוקח משא\"כ אם שקלן המוכר במשקל נעשה המוכר גזלן אם רצה הכהן דן עם הלוקח וכן הוא בטור והיינו כשאין שם כהן אלא הוא. או להחרים. וא\"י אמאי לא הביא דברי הר\"מ הביאו הב\"י דה\"ק שקלן המוכר אין הדין עם הלוקח ופטור מכלום דמתנות כהונה נגזלות כמ\"ש המחבר סל\"א. אם גזל ומכר אין הלוקח חייב וה\"ה כאן וצ\"ע:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:31"
+        },
+        "32": {
+          "he": "ספק. עט\"ז דהתם איסורא וכאן ממונא ומ\"מ מצוה להפרישם ומוכר לכהן וה\"ה בחלה יעסי' ק\"י מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 61:32"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "של שור ושה. וכל בהמות טהורות לאפוקי חיה כדלקמן סעי' י\"ז:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 61:1"
+        },
+        "2": {
+          "he": "קודם שיפריש כו'. כתב הר\"ן דמתנות שלא הורמו כמי שהורמו דמיין ואי אתייא בהמה שלימה ליד כהן זכה במתנותיה ואי אכלן אחר בתר הכי חייב ודוקא דאתיא שחוטה ליד כהן אבל בחייה לא דאכתי לא חל חיובא עליה דה\"ל כמפריש חלתו קמח דאינו חלה וגזל ביד כהן וכ\"פ מהרש\"ל פרק הזרוע סי' ד':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 61:2"
+        },
+        "3": {
+          "he": "ומצא טרפה פטור. ומשמע בפוסקים דאפילו ספק טרפה פטור מטעם דמצי אמר לכהן זיל אייתי ראיה דלאו טריפה היא ואתן לך והמוציא מחבירו עליו הראי' כדלקמן סעיף קטן ט' וס\"ק י\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 61:3"
+        },
+        "4": {
+          "he": "יאכלם צלי ובחרדל. דרך גדולה משום דכתיב למשחה לגדולה כדרך שהמלכים אוכלים ש\"ס:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 61:4"
+        },
+        "5": {
+          "he": "יכול כו'. שאין בהם שום קדושה וכתב מהרש\"ל שם ס\"ס י\"א נראה דוקא היכא שאינם ראוים לאכילה כגון שהסריחו או שבאו מבהמות כחושים ורע בשר יכול להאכילם לכלבים או למכרן לעובד כוכבים כו':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 61:5"
+        },
+        "6": {
+          "he": "פטור מדיני אדם. דממון שאין לו תובעים הוא דיכול לומר לכל כהן לא לך הייתי נותנם אלא לאחר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 61:6"
+        },
+        "7": {
+          "he": "מותר לאכלן. ואינו חושש שמא גזלה המשלח. טור. כלומר ומש\"ה מותר לקבלן אפילו לכתחלה אבל ודאי דאפילו גזלן מותר לאכלן דמתנות כהונה נגזלות כדלקמן סעיף ל\"א וכן פי' הב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 61:7"
+        },
+        "8": {
+          "he": "וכן בכוי. עיין בב\"י:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 61:8"
+        },
+        "9": {
+          "he": "בחצי המתנות. דודאי חוששין לזרע האם ויש כאן מקצת שה עכ\"פ ודרשינן שה אפי' מקצת שה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 61:9"
+        },
+        "10": {
+          "he": "פטור מן המתנות. דספוקי מספקא לן אי חוששין לזרע האב והלכך מצי האיך למימר זיל אייתי ראיה דחוששין ואתן לך ומה שקשה ע\"ז מסי' ט\"ז סעיף ח' כבר התבאר שם ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 61:10"
+        },
+        "11": {
+          "he": "אבל בכור כו'. וכן אם נסתפק בשנים ולקח הכהן אחד הרי השני פטור מן המתנות שעשאוהו כמי שזכה בו הכהן ונתנו במומו לבעליו עכ\"ל הרמב\"ם והוא מש\"ס דבכורות כמ\"ש ב\"י וכ\"פ הברטנורה פרק ב' דבכורות וכ\"פ מהרש\"ל שם סי' ט':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 61:11"
+        },
+        "12": {
+          "he": "ספק אם הם חייבים. דמספקא לן משום דכתיב מאת העם אי לוים איקרי עם או לא ונ\"ל מוכח מהש\"ס ומשמעות הפוסקים דדוקא מליתן פטורין מה\"ט דשמא לא איקרי עם אבל פשיטא דאם תפס לוי מתנו' מישראל דמוציאין מידו דקרא כתיב וזה יהיה משפט הכהני' וגו' ולוי' לאו כהני' איקרו והב\"ח סעיף י\"ז פסק דאין מוציאין מידו וכן העט\"ז נסתפק בזה ולפענ\"ד ברור כמ\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 61:12"
+        },
+        "13": {
+          "he": "א\"צ להחזירם לו כו'. כ\"כ הטור והרמב\"ם וכן בספק בכור כתב ג\"כ הרמב\"ם פ\"ה מהל' בכורות ומביאו הטור לקמן סי' שט\"ו דאין מוציאין מידו ולא אוכל לירד לסוף דעת הב\"ח שהקשה מנ\"ל להרמב\"ם לחלק בכך אכן הטור איכא לאקשויי אהדדי דבסי' שט\"ו פסק דמוציאין מידו ואין לתרץ כמ\"ש הב\"ח להרמב\"ם דהתם הספק הוא לכל העולם משא\"כ הכא דהספק הוא אי קיימא לן כהך תנא דאיקרי עם או לא דבפרק בית כור ובפרק השואל גבי מרחץ ששכרו בדינר זהב לחודש כו' מוכח דא\"א לחלק בהכי ע\"ש וכן משמע בהדיא באשר\"י פ\"ק דמציעא גבי הא דמדמה התם דין מרחץ לתקפו כהן דבתרווייהו לא מהני תפיס' ע\"ש ונ\"ל לחלק דדוקא בספק בכור שהספק הוא בגוף הענין שנחלקו עליו והלכך מספק אין לכהן שייכות בו דאמרינן ליה אייתי ראי' דבכור הוא ושקיל וכל כמה דלא מייתי ראיה מוקמינן ליה אחזקת מרא קמא ואחזקת דרוב בהמות אינם בכורים משא\"כ כאן שהספק הוא אם לויים חייבים או לאו ובגוף הענין אין כאן ספק אלא שהספק הוא מצד אחר מצי הכהן לומר להלוי כל כמה דלא מייתית ראיה דלא איקרי עם המתנות שלי וחילוק זה מבואר במשמרת הבית להרשב\"א דף ס\"ו ע\"א אלא שביארתיו יותר וכן נראה דעת הר\"ב לחלק בין הך דהכא לבכור דכאן כתב רק ויש חולקי' ובסי' שט\"ו סיים וכן הלכתא וזהו דעת העט\"ז שכאן לא הביא אלא סברת המחבר ובסי' שט\"ו כתב דהלכתא דמוציאין מידו ובספר ל\"ח דף רמ\"א סוף ע\"א השיג עליו והנלפע\"ד כתבתי ועי' בים של שלמה פ' הזרוע סי' ה' ופרק כיצד הרגל סי' ה':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 61:13"
+        },
+        "14": {
+          "he": "א\"צ לרשום. דסתם עובד כוכבי' מרבה דברים ומודיע לכל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 61:14"
+        },
+        "15": {
+          "he": "פטור מן המתנות. דכיון דאינו מחייב משעת זביחה וההיא שעתא לית ליה ברירה דתיהוי דידי' הגהת מרדכי שם ועיין בים של שלמה פ' ה' דב\"ק סי' ל\"ב ובדיני ברירה פ' שני:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 61:15"
+        },
+        "16": {
+          "he": "ואסור לבעלים ליקח. עי' סי' של\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 61:16"
+        },
+        "17": {
+          "he": "הוי תנאי. כלומר תנאי גמור דחוץ שיורא הוי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 61:17"
+        },
+        "18": {
+          "he": "ע\"מ שהמתנות שלי כו'. וכ' הרא\"ש דה\"ה במוכר שדה ואמר לו ע\"מ שהמעשר שלי דינא הכי דקי\"ל ע\"מ תנאי הוי ולא שיורא וא\"כ הוי מתנה על מה שכתוב בתורה שהרי מן התורה יכול ליתנם לכל כהן שירצה ותנאו בטל אבל הרמב\"ם אע\"פ שבהלכות בכורים פ\"ט דין י\"א פסק דבעל מנת נותנם לכל כהן שירצה מ\"מ בהלכות מעשר דין י\"ט כתב הרי הן שלו כיון שאמר ע\"מ נעשה כמו ששייר מקום המעשר עכ\"ל נראה דס\"ל דכיון דסתמא דש\"ס קאמר בריש פ' המוכר את הבית גבי מוכר שדה כיון דאמר ע\"מ שיורא שייריה למקום מעשר אלמא הכי הלכתא ודוקא גבי מתנות כיון דנתן כל הבהמה ליד ישראל לא אמרינן שיורא שיירי משא\"כ בשדה דקרקע בחזקת בעליה עדיין עומדת ועיין בחדושי הרמב\"ן פרק המוכר את הבית דף נ\"ד ריש ע\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 61:18"
+        },
+        "19": {
+          "he": "מפני שאין לו תובעים כו'. ומ\"מ לצאת ידי שמים חייב כדלעיל סעיף ט\"ו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 61:19"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "של ימין. ילפינן לה מדכתיב הזרוע בה\"א משמע המיומן שבזרוע:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:1"
+        },
+        "2": {
+          "he": "מפרק ארכובה. פי' מסוף פרק:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:2"
+        },
+        "3": {
+          "he": "שקורין אישפלד\"א. ובל\"א קורין ריע\"ר. עד כף היד פי' הרוחב של כתף. רש\"י:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:3"
+        },
+        "4": {
+          "he": "מפרק של לחי. פירש רש\"י אצל הצדעים וחותך כלפי מטה עד שיפוי כובע כו':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:4"
+        },
+        "5": {
+          "he": "שאינו רשאי למלגם. דזה מרבינן מה\"א דהלחיים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:5"
+        },
+        "6": {
+          "he": "עם כל חלבה. זה מרבינן מה\"א דהקיבה ופנימי וחיצון היינו אקשתא ואיתרא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:6"
+        },
+        "7": {
+          "he": "אלא א\"כ נהגו כו'. הא דכתבו בזה דתלוי במנהג לפי שאמרו בגמ' דהכי הוה כבר שהכהנים נהגו בזה עין יפה ולפי זה אם נהגו עין יפה בצמר ועור בלחיים הוה נמי כן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:7"
+        },
+        "8": {
+          "he": "טריפה פטור. דדרשינן מאת זובחי הזבח פרט לטרפה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:8"
+        },
+        "9": {
+          "he": "לכהנת כו'. דונתן לכהן היינו אפילו כהנת:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:9"
+        },
+        "10": {
+          "he": "והנותנם לבעלה ישראל כו'. זהו תלמוד ערוך וילפו הפוסקים האי כ\"ש שבעלה פטור דכיון דיהבי ליה אחריני כ\"ש שהוא פטור מליתי ותימה על הטור שכתב ולא עוד אלא שבעלה פטור בשבילה ולא כתב עיקר הרבותא דהוא מקבל מאחריני בשבילה ורבים דוחקים לתרץ זה ולא נייח לי ונראה דהאי פטור דנקט הטור צ\"ל פוטר והשתא ניחא דקמ\"ל דיכול לפטור אחרים כשמקבל מהם בשבילה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:10"
+        },
+        "11": {
+          "he": "ישום המתנות בדמים. כי אין שום קדושה במתנות רק שהם ממון כהן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:11"
+        },
+        "12": {
+          "he": "לחטוף המתנות. דכתיב ונתן ולא שיטול מעצמו. ואפילו לשאול בפה דכתיב אצל בני שמואל ויטו אחרי הבצע פירוש חלקם שאלו בפיהם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:12"
+        },
+        "13": {
+          "he": "שהם כהנים רבים. פי' שעד הנה דבר שיש די מתנות לכהנים דלשם וע\"כ ימתינו עד שיתן אותם הטבח וכאן מיירי שיש רוב כהנים ולא סגי להם מתנות וה\"א כיון דלא די לכל אחד אם ימתין טפי עדיף שימציא עצמו ליטול משום חבובא מצוה קמ\"ל דהצנועין מושכין ידיהם ולמדו זה מלחם הפנים שקודם הקללה היה די לכל אחד בשיעור כפול ואחר הקללה הצנועין מושכין ידיהם ליטול כיון שאין מגיע לכל אחד דיו ה\"נ במתנות כהונה מועטים ורבים כהנים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:13"
+        },
+        "14": {
+          "he": "במקום שאין מכירין אותו. זה נלמד ממ\"ש בגמ' על אביי שאמר שעכ\"פ בכל עי\"כ שכהנים רבים מתאספים יחד בא גם הוא ליטול שלא ישתכח ממנו שם כהונה ופרכינן והא יהיה מוחזק ע\"י הדוכן לכהן ומשנינן אנסי ליה עידני' ופירשו הרי\"ף והרא\"ש חולי מעיים הוה ולא היה יכול להשהות נקביו לפיכך לא עלה לדוכן ורש\"י פי' שקבע עתים לתלמידיו והיו טורדים אותו מלישא כפיו בעת שהצבור נאספים לבית הכנסת והטור כלל כל זה במ\"ש במקום שאין מכירין אותו פי' בכל ענין שיהיה שאין חזקת כהונתו נכרת לכל אז יטול המתנות ובזה נתיישב מה שהוקשה לקצת מדברי הטור נגד הגמרא ונכנסו לדחוקים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:14"
+        },
+        "15": {
+          "he": "צלי ובחרדל. שהוא דרך גדולה שנאמר למשחה בהם כדרך שהמלכים אוכלים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:15"
+        },
+        "16": {
+          "he": "משרת בבית זה שמזכה כו'. מבואר דתרתי איסורי יש בזה דבגמרא איתא רק חדא מילתא דהיינו שאין לשמש לזכות לאורח חשוב של הבעל הבית שלו דאינו עוש' בלב שלם ולמדו מזה כל שכן אם המזכה מזכה לבעל הבית עצמו שהוא משרת אצלו ונמצאו דברי הש\"ע כאן דרך לאזו אף זו ובטור כתוב ולא יהיה כהן המזכה משרת בבית ישראל שרגיל ליתן לו מתנות והוא תמוה דמה יזיק זה שהוא משרת אצל מי שרגיל ליתן לו והא עיקר האיסור משום שהוא משרת אצל אותו שהוא מזכה לו. ותו דהטור מסיים אבל אם אין כו' או כהן המשרת בבית ישראל ומזכה לאורח ת\"ח כו' הרי לא רישיה סיפיה דברישא לא הזכיר כלל אורח. וראיתי בזה רבים פירושים לא מצאתי נייח בהם ויש עוד גירסא שכתוב בדרישה שראה בנוסח ישן של קלף בלשון זה אבל אם אין הזוכה ת\"ח או שאין השעה דחוקה לו או כהן המשרת בבית ישראל או מזכה לאורח ת\"ח כו' אסורים עכ\"ל וגירסא זו ג\"כ היא אינה נכונה וגם אינה מכוונת ממש עם דברי הש\"ע ע\"כ נראה דמה שכתב הטור ולא יהיה הכהן המזכה משרת בבית ישראל שהאי תיבת בבית הוא מיותר והיה לו לומר משרת לישראל אלא האי בבית קאי על מזכה ר\"ל שלא יהיה המזכה מזכה למי שהוא בביתו של אותו הישראל וא\"כ הוה שפיר סיפא היפוך דרישא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:16"
+        },
+        "17": {
+          "he": "פטור מדיני אדם. משום שהוא ממון שאין לו תובעין שהרי יכול ליתן לכל מי שירצה אבל מ\"מ אם הם עדיין בעין ב\"ד כופין אותו משום מצות הפרשה. ב\"י:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:17"
+        },
+        "18": {
+          "he": "מותר לאכלן. שבודאי לקחן ממנו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:18"
+        },
+        "19": {
+          "he": "וכן בכוי. הוא בריה בפני עצמו ועיין בב\"י לדבריהרמב\"ם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:19"
+        },
+        "20": {
+          "he": "בחצי המתנות. דכתיב אם שה ודרשינן אפי' מקצת שה ומצד אביו פטור דצבי הוא ושמא חוששין לזרע האב ע\"כ חייב במחצה ופטור ממחצה אבל הטור הבין מדעת הרא\"ש בזה דחייב בכל המתנות מטעם זה דלחצי פשיטא דחייב דהא בהמה היא ולמה לי קרא אלא ודאי דמרבה כל המתנות וחלק הטור על הרמב\"ם שכתב כוי הבא מבהמה כו' מפרישין ממנו כל המתנות בכל גווני היינו מדנקט לשון מפרישין רצה לומר הפרשה בעלמא עושין בכל גווני ובזה השיג עליו דהבא מבהמה וחיה אפי' הפרשה אין צריך והב\"י כתב דרמב\"ם סובר דכוי בריה בפני עצמו הוא ובזה מודי כולי עלמא. ורש\"ל כתב שהגירסא הנכונה בטור בלשון זה ובענין מתנות כוי או הבא מבהמה וחיה כו' נמצא דכוי שנקט הרמב\"ם הוא בריה בפני עצמו ואפילו הכי השיג הטור עליו דל\"ל ההפרשה כיון שאין נותנין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:20"
+        },
+        "21": {
+          "he": "בקדשים ולא בבכור. במתני' פרש\"י לפי שאין קדושה חלה על קדושה וקשה לי הא אמרינן יכול להאכילם לכלבים מטעם שאין בהם קדושה וכן איתא בסעיף י' וצ\"ל דקדושת המצוה קאמר שאינה כאן אבל לא קדושת מתנות שהרי אין בהם קדושה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:21"
+        },
+        "22": {
+          "he": "בכור קודם שבא כו'. כדי להבין סעיף זה נעתיק הגמ' והתוס' והנמשך מהם בפ' הזרוע (חולין דף קל\"ב) שנינו בכור שנתערב במאה בזמן שמאה בני אדם שוחטין הבהמות כולן פוטרין את כולן ממתנות דיכול כל אחד לומר לכהן הבכור שלי ואם אחד שוחט את כולן אין פוטרין לו אלא אחד ופרכינן ארישא אמאי פוטרין את כולן יבא עליו משני צדדין ולימא ליה אי בכור הוא כולו דידי הוא אי לאו בכור הוא הב לי מתנות אמר רב אושעיא בבא ליד כהן במומו ומכרו לישראל וא\"א לומר אי בכור הוא כולו שלי ובפרק שני דבכורות (דף י\"ח) איתא במשנה רחל שלא ביכרה וילדה שני זכרים ויצאו שני ראשיהן כאחת אחד לו ואחד לכהן כו' והשני פירוש מה שהוא שלו ירעה עד שיסתאב ויאכלנו במומו וחייב במתנות וסתם משנה היא זו ורבי מאיר היא כ\"כ התוספות פרק הזרוע ורבי יוסי פוטר ואמרינן בגמרא מאי טעמא דרבי מאיר דקתני חייב במתנות אמר ר' יוחנן הואיל וכהן בא עליו משני צדדין אי בכור הוא הב לי כולו ופירש רש\"י והא דשקל אנא הוה חולין ומהדרנא לך ניהליה ושקילנא מתנות מיניה ואי לא תן לי מתנות ורבי יוסי מאי טעמא אמר רבא עשו שאינו זוכה כזוכה ואע\"ג דלא מטא לידיה כמאן דמטיא לידיה וזבני לישראל במומיה פירש\"י דהוי לי' כאילו מטא לידיה דכהן לשם בכורה והדר זבין לישראל במומיה ושקיל לאידך חילופיה ובכור שמכרו כהן לישראל פטור ממתנות נראה כוונתו כיון שעכ\"פ צריך הישראל ליתן לכהן בהמה אחת כמו שאמרו במשנה א' לכהן. וז\"ל התוספות שם בפ' הזרוע דהא דפרכינן שם יבא עליו הכהן מב' צדדין לא מיבעיא לר\"מ פשיטא דפריך שפיר שהרי אפילו במקום שלוקח הכהן אחד מהם ס\"ל דבא הכהן משני צדדים אלא אפילו לר' יוסי דפליג התם בבכורות היינו משום דלא מצי אמר אי בכור הוא כולו דידי שכבר לקח אחד אבל הכא מודה כו' עכ\"ל. מבואר כוונתם דודאי לר' יוסי כל היכא שהכהן נוטל אחד מהם אין לו זכות על השאר מחמת מתנות וזהו עיקר טעם דר' יוסי אלא דהכא ברישא שכל אחד שוחט בפני עצמו ממילא אין לכהן שום אחד מחמת בכורה כי כל אחד דוחיהו אצל חבירו אצלו הבכור וע\"כ פרכינן שפיר אפילו לר' יוסי יאמר אי בכור הוא כולו שלי ומוכרח לתרץ דאיירי במכרו לישראל במומו אבל באמת אם לא בא ליד ישראל מכהן במומו אלא נתערב אצל ישראל בתמותו או שנעשה בו מום ולא מכרו לו ונתערב בין בהמות ישראל אפי' כולם ביד א' ממילא צריך עכ\"פ ליתן א' לכהן ופטור אחד מן השאר ממתנות לר' יוסי מכח שיכול לומר עליו זהו הבכור והתם במתניתין דאין שם אלא שנים ולקח הכהן אחד בשביל בכורה ונשאר א' הוא פטור ממתנות אבל באמת אם היו שנים עוד בידו לא היה פטור רק ממתנות של אחד והא דמשני רב אושעיא בבא ליד כהן ומכרו לישראל זה א\"צ אלא לר' מאיר אבל לרבי יוסי דס\"ל כל שחייב ליתן אחד לכהן מחמת הבכורה עשאוהו כזוכה וכאילו מכרו במומו דמי א\"צ כאן לומר שמכרו לישראל אלא תיכף שנעשה בו מום ונתערב בין בהמות של ישראלים הרבה חייבים בין הכל ליתן לו אחד מהם מחמת שיש לו עכ\"פ ממונו ביניהם והנשאר להם פטור כל אחד ממתנות שיאמר שלי הבכור וכבר נפטרנו מחמת חיוב הבכורה ואם הכל של ישראל אחד מועיל לו לפטור אחד מהנשארים לו. והרמב\"ם כתב בזה בהמת קדשים שנפסלה במומה ואינה חייבת במתנות שנתערבה בבהמות כו' כמו שהעתיק ב\"י לשונו ולא זכר הרמב\"ם כלל ממכירה לישראל הוא מטעם שהוא פסק כר' יוסי והורה בזה שכאן א\"צ מכירה באמת אליבא דהלכתא וזהו כוונת הר\"ן שכתב מדברי הרמב\"ם נראה שהוא מפרש דכיון שבכור זה נתערב בבהמות של ישראל ולקח הכהן האחד מן הספק הרי הוא כמו שזכה בו הכהן ונתנו לבעליו במומו עכ\"ל הורו בזה שהרמב\"ם לא הביא להך אוקימתא דרב אושעיא כלל שהרי לא הזכיר מכירה אלא זכר טעמו של ר' יוסי כמו שזכרנו. והב\"י הבין שהר\"ן בא לפרש דברי רבי אושעיא אליבא דהרמב\"ם ומכח זה תמה עליו ולפום חורפיה לא עיין יפה דמבואר הוא כמ\"ש. אבל הטור אזיל לשיטתו שפסק בסימן שי\"ח כר\"מ ע\"כ הוצרך להזכיר שמכרו לישראל במומו וכאוקימתא דרב אושעיא והב\"י לא נחית כאן לזה שיש חילוק בין הטור להרמב\"ם בפסק הלכה כר\"מ או כר' יוסי ומשום הכי לא כתב כאן רק לשון הטור ולא הביא דעת רמב\"ם כלל מה שאין דרכו בזה בכל המקומות ובפרישה כתב על מ\"ש הטור תן לי כולה ואין הישראל יכול לומר הלא נתתי אחת מהן בשביל הבכור דמסתבר לומר דצריך לסלק הכהן ליתן לו ממונו בעד הבכור דלא גרע מתרומה שנתבטלה בק\"א של חולין ואפ\"ה צריך ליתן אחד לכהן משום גזל הכהן מכל מקום יאמר לו הכהן אין לזה דין בכור כיון שסילקת ממנו דין בכורה וצריך אתה ליתן מתנות א\"נ יאמר תן לי כולה ואחזיר אותה שנתת לי וצריך אתה ליתן מתנות ממנה ע\"כ הנה מ\"ש תחילה להוכיח מסברא דצריך ליתן לכהן אחת אשתמיטתיה מתני' דבכורות שכתוב בה בהדיא דצריך ליתן אחד לכהן והיינו רישא דכאן ומ\"ש בתירוצו הראשון שכבר סילק ממנה דין בכור תמוה הוא דא\"כ יאמר לכהן תחזיר מה שלקחת בעד הבכורה ומ\"ש א\"נ כו' הוא מפרש\"י והוא עיקר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:22"
+        },
+        "23": {
+          "he": "כהנים פטורים. דכתיב מאת העם ולא מאת הכהנים ולויים מספקא לן בגמרא אי הוויין בכלל עם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:23"
+        },
+        "24": {
+          "he": "אין צריך להחזירם. דסבירא ליה בספיקא דדינא אי תפיס לא מפקינן מיני' כמו שכתבתי בשמו בח\"מ סי' ר\"ב ושס\"ב ומה שהקשה הר\"ן מתקפו כהן מוציאין מידו מבואר בסי' שט\"ו לקמן דהרמב\"ם לא סבירא ליה כן גם שם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:24"
+        },
+        "25": {
+          "he": "צריך שירשום. א\"ל מ\"ש מחייב בחצי מתנות בצבי הבא על התיישה ה\"נ חציו של ישראל לחייב י\"ל דהתם כל שיות שבו חייב דבכהאי גוונא מיקרי כל שה אבל הכא דמקצת שה פטור כה\"ג לא אמר רחמנא כן כ' הר\"ן והתוס':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:25"
+        },
+        "26": {
+          "he": "אין צריך לרשום. דסתם עובד כוכבים מרבה דברים ומודיע לכל שהוא שותף:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:26"
+        },
+        "27": {
+          "he": "נשאר לעובד כוכבים. דהא עיקר החיוב הוא בשעת זביחה ובההיא שעתא לית לי' ברירה דתיהוי דידיה אע\"ג דרוב כשרים הם הא קיי\"ל כשמואל דבממונא לא אזלינן בתר רובא. ועוד דטריפת הריאה שכיח כו':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:27"
+        },
+        "28": {
+          "he": "בכל שהוא. פירוש אפי' בחלק אחד מאלף יש בו בבהמה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:28"
+        },
+        "29": {
+          "he": "חובה על השוחט. דכתיב מאת זובחי הזבח שהזובח אינו יכול לומ' הבעל יתן לך:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:29"
+        },
+        "30": {
+          "he": "הוי תנאי. פי' בזה מועיל התנאי כיון דהוה חוץ לשון שיור ששייר לעצמו המתנות משא\"כ בסיפא שאומר ע\"מ לא הוי לשון שיור אלא תנאי בעלמא ואינו מועיל דמתנה ע\"מ שכתוב בתורה הוי והוה כאלו לא הי' תנאי כלל ועיין בח\"מ סי' רי\"ב סעיף ב' והקשיתי דברי הטור והש\"ע אהדדי והיותר תימא על הרמב\"ם שכ' כאן ג\"כ בהדיא בלשון זה שהאומר ע\"מ לא שייר לו במתנות כלום כו' ובפ\"ז דהלכות מעשר כ' בהדיא כהן שמכר שדה לישראל וא\"ל ע\"מ שהמעשר שלי לעולם הרי היא שלו כיון שאמר על מנת נעשה כמי ששייר מקום המעשר כו' עכ\"ל והוא מסוגיא דהמוכר את הבית ובהדיא כתבו התוס' והרא\"ש דהסוגיא דהזרוע ודהמוכר את הבית פליגי בזה אי הוה ע\"מ לשון שיור או לא ותימא על הרמב\"ם שפסק כשתיהן והקשיתי תמיה זאת לפני רבים וגדולים ולא היה סיפוק בידם לתרצה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:30"
+        },
+        "31": {
+          "he": "לקחו ממנו במשקל. פירוש והלוקח שקלן והרי הגזלה אצלו אבל שקלן המוכר יש לכהן הברירה או ליקח מן המוכר או מן הלוקח וכ\"כ הטור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:31"
+        },
+        "32": {
+          "he": "ספק פטור. אבל לענין איסור חלה כתב בסי' ש\"ל דחייב מספק:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 61:32"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "ליתן לכהן. עי' בשער המלך פ\"ג מהלכות אישות הלכה ה' שהביא דהרב בעל פר\"ח בספרו מים חיים סימן ד' נסתפק אי גבי פדיון הבן ושאר מתנות כהונה אמרינן נתינה בע\"כ שמה נתינה וכיון שהישראל נתן לכהן אף שהכהן לא רצה לקבלם יצא י\"ח נתינה או לא ופשיט ליה דנתינה בע\"כ שמה נתינה אף לגבי פה\"ב ושאר מתנות כהונה ובספר קול יעקב בלשונות הרמב\"ם ד' נ\"ז הקשה עליו והוא ז\"ל כתב לתרץ קושייתו עיין שם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 61:1"
+        },
+        "2": {
+          "he": "שם חבר. עיין בתשובת בית יעקב סוף סי' קמ\"ב דאפילו אם הכהן חבר הוא במקום קרוב אין להמתין עד שיבא ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 61:2"
+        },
+        "3": {
+          "he": "לכהנת. עי' במהרש\"ל ביש\"ש פרק הזרוע סימן ו' שכתב דאפילו איכא כהן גמור יכול ליתן לכהנת ואם יש כהן ע\"ה והיא אשת חבר טוב ליתן לאשת חבר ואם יש כהן חבר שקולים הם וה\"ה כהן ע\"ה כה\"ג עכ\"ד ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 61:3"
+        },
+        "4": {
+          "he": "אם אין שם כהן. עי' בתשובות רדב\"ז החדשות סימן ש\"מ שכתב דדוקא אם אין שם כהן מש\"ה מעלה אותן בדמים הא יש שם כהן הן ולא דמיהן. ודוקא מעלה אותן בדמים כלומר לשום אותם בשוויים דלשון מעלה בכל דוכתא הכי הוא אבל פחות מכאן איכא גזל השבט. ודוקא נמי לשום אותם תחלה ואח\"כ לאוכלם אבל לאכול אותם ואח\"כ לשום אותם בדמים לא. ע\"ש באריכות:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 61:4"
+        },
+        "5": {
+          "he": "שיקבלם מיד מכיריו. עי' בתשובת רדב\"ז החדשות שם שכתב אפשר דדוקא כשמוציא אותם הטבח מתחת ידו ונותן אותם לאחר דהיינו לצורבא מרבנן דדחיקא ליה דאז ישראל במקום כהן עומד. וקרינן ביה ונתן לכהן כיון שהטבח נתן וצורבא מרבנן מכח הכהן הוא זוכה אבל נשאר ביד הטבח אם הוא צורבא מרבנן ודחיקא ליה ואפילו אם הכהן מתרצה בכך אין לנו ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 61:5"
+        },
+        "6": {
+          "he": "בקדשים. עט\"ז מה שהקשה על רש\"י ועיין בספר נחלת עזריאל בחולין דף ק\"ל שתמה עליו בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 61:6"
+        },
+        "7": {
+          "he": "שאינן נוהגות בח\"ל. עי' בתשובת רדב\"ז ח\"ב סי' תרנ\"ט מה שכתב בזה באורך:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 61:7"
+        },
+        "8": {
+          "he": "וכן נהגו. עבה\"ט של הרב מהרי\"ט ז\"ל. ועיין בספר לחם הפנים שכתב בשם מהר\"ם בתשובה דמאן דבעי למיהב מצי יהיב ולא מחזי כיהורא ע\"ש. [ועי' בתשובת ח\"ס סי' ש\"א שהוא ז\"ל היה רגיל ליתן והיה דרכו בכל י\"ט לשחוט בהמה ולהפריש ממנה מתנות. וכן ראשית הגז וכן עבד עובדא בפלתי ע\"ש]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 61:8"
+        },
+        "9": {
+          "he": "ויש חולקין. עבה\"ט בשם ש\"ך ועי' בתפל\"מ שכתב דהכא מיירי שנטלם לדעת הלוי והלוי לא ידע שהוא פטור לכך א\"צ להחזיר דהמע\"ה אבל בסימן שט\"ו דאיירי בתקפו כהן צריך להחזיר להטור משום דטובת הנאה לבעלים ליתן למי שירצה כו' ע\"ש היטב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 61:9"
+        },
+        "10": {
+          "he": "על מנת. עט\"ז וש\"ך מה שהקשו על הרמב\"ם ועי' מה שתירץ ע\"ז בתשובת מקום שמואל סי' פ\"ח. [ובתשובת משכנות יעקב סימן כ\"ה] ועי' בספר מרכבת המשנה פרק ו' מהלכות מעשר דין י\"ט מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 61:10"
+        },
+        "11": {
+          "he": "שהמתנות שלי אינו תנאי. עי' בספר פתח הבית מהגאון מהרר\"א טיקטין ז\"ל סימן ב' בסוף ענף י\"ד בשם בנו הרב מהר\"ז נר\"ו שנסתפק באומר אני מוכר לך פרה זו ע\"מ שאם תרצה לקיים מצות נתינה במתנות תתנם לי אם התנאי קיים ע\"ש טעם הספק:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 61:11"
+        },
+        "12": {
+          "he": "או מכרן. עי' בספר פתח הבית הנ\"ל סימן י\"ט בד\"ה היוצא:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 61:12"
+        },
+        "13": {
+          "he": "אינו חייב לשלם. עי' ש\"ך לעיל סק\"ב בשם הר\"ן דמתנות שלא הורמו כמי שהורמו דמיין ואי אתיא בהמה שלימה ליד כהן זכה במתנותיה ואי אכלן אחר בתר הכי חייב ודוקא דאתיא שחוטה ליד כהן כו'. אכן הרב כנה\"ג בהגהת ב\"י אות י\"ט כתב דכיון שהשמיטוהו הטור וש\"ע מבואר דסבירא להו דמתנות שלא הורמו לאו כמו שהורמו דמי ע\"ש ועי' בשער המלך פ\"ה מהלכות אישות סוף הלכה ו' שכתב דאישתמיט מיניה דברי הטור וש\"ע בהלכות נחלות שפסקו בהדיא דכמו שהורמו דמיין ולעיקר קושייתו אפשר שסמכו על מ\"ש בהלכות נחלות דבכור נוטל פי שנים במתנות שלא הורמו משום דאיקרי מוחזק וכיון שכן ממילא משתמע שחייב לשלם ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 61:13"
+        },
+        "14": {
+          "he": "והקונה אותם. עי' בתשובת זכרון יוסף חלק יו\"ד סי' ח':",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 61:14"
+        },
+        "15": {
+          "he": "אם ספק. [עי' בספר כו\"פ ועי' בתשובת ח\"ס סימן ש\"א מ\"ש בזה]:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 61:15"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ושה.  וכל בהמות טהורות לאפוקי חיה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:1"
+        },
+        "2": {
+          "he": "מפרק.  פי' מסוף הפרק. אישפלד\"ה ובל\"א קורין ריע\"ר:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:2"
+        },
+        "3": {
+          "he": "נהגו.  כתב הט\"ז והוא הדין אם נהגו עין יפה בצמר ועור בלחיים הוה נמי כן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:3"
+        },
+        "4": {
+          "he": "שיפריש.  ואי אתא ליד כהן בהמה שלימה זכה במתנותיה ואי אכלן אחר בתר הכי חייב ודוקא דאתיא שחוטה אבל בחייה לא. ש\"ך בשם הר\"ן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:4"
+        },
+        "5": {
+          "he": "טריפה.  כתב הש\"ך דמשמע בפוסקים דה\"ה ספק טריפה פטור דהמע\"ה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:5"
+        },
+        "6": {
+          "he": "בדמים.  שאין שום קדושה במתנות רק שהם ממון כהן. ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:6"
+        },
+        "7": {
+          "he": "צלי.  דרך גדולה דכתיב למשח' לגדולה כדרך שהמלכים אוכלים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:7"
+        },
+        "8": {
+          "he": "לכלבים.  כתב מהרש\"ל דוקא היכא שאין ראוים לאכילה כגון שהסריחו או שבאו מבהמות כחושים ורע בשר (אבל בלא\"ה לא):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:8"
+        },
+        "9": {
+          "he": "אדם.  דממון שאין לו תובעים הוא דיכול לומר לכהן אחר הייתי נותנם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:9"
+        },
+        "10": {
+          "he": "לאכלן.  בטור כתב ואינו חושש שמא גזלן המשלח ופי' הש\"ך דר\"ל אפילו לכתחילה יכול לקבלן אבל ודאי אפילו גזלן מותר לאכלן דמתנות כהונה נגזלות כדלקמן סעיף ל\"א וכן פי' הב\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:10"
+        },
+        "11": {
+          "he": "בחצי.  דשה אפילו מקצת שה דחוששין בודאי לזרע האם אבל תייש הבא על הצביה פטור דמספקא לן אי חוששין לזרע האב והמע\"ה וע\"ל סימן ט\"ז ס\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:11"
+        },
+        "12": {
+          "he": "פטורים.  כתב הש\"ך דמוכח מש\"ס ופוסקים דדוקא מליתן פטורים אבל אם תפס לוי מתנות מישראל מוציאין מידו דלא כהב\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:12"
+        },
+        "13": {
+          "he": "חולקים.  כתב הש\"ך ול\"ד לסעיף שט\"ו גבי ספק בכור דפסק רמ\"א בפשיטות דמוציאין מיד כהן וסיים וכן הילכתא וכאן לא כתב רק ויש חולקים דשאני התם שהספק הוא בגוף הענין שנחלקו בו הלכך מספק אין לכהן שייכות בו דכל כמה דלא מייתי ראיה אוקמי' אחזקת מרא קמא וחזקת רוב בהמות דאינן בכורים משא\"כ כאן שהספק הוא אם לוים חייבים מצי הכהן לומר כל כמה דלא אייתית ראיה דלא איקרי עם המתנות שלי:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:13"
+        },
+        "14": {
+          "he": "והמשתתף.  כתב הט\"ז וא\"ל מ\"ש מצבי הבא על התיישה דחייב בחצי מתנות ה\"נ חציו של ישראל לחייב י\"ל דהתם כל שיות שבו חייב דבכה\"ג מיקרי כל שה אבל הכא דמקצת שה פטור כה\"ג לא אמר רחמנא הר\"ן ותוס':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:14"
+        },
+        "15": {
+          "he": "ובעובד כוכבים.  דסתם עובד כוכבים מרבה דברים ומודיע לכל שהוא שותף:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:15"
+        },
+        "16": {
+          "he": "פטור.  דכיון דאינו מחייב משעת זביחה וההיא שעתא לית ברירה אע\"ג דרוב בהמות כשרות הן לא אזלינן בממון אחר הרוב גם טריפות הריאה שכיח. ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:16"
+        },
+        "17": {
+          "he": "שהוא.  אפילו חלק א' מאלף:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:17"
+        },
+        "18": {
+          "he": "דינר.  ע\"ל סימן של\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:18"
+        },
+        "19": {
+          "he": "ע\"מ.  כ' הט\"ז דצ\"ע דבח\"מ סי' רי\"ב פסק המחבר דאם אמר על מנת הוי שיור והש\"ך מחלק דשאני התם שהקרקע בחזקת בעליה עומדת עדיין ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:19"
+        },
+        "20": {
+          "he": "לשלם.  ומ\"מ לצאת ידי שמים חייב כדלעיל סט\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:20"
+        },
+        "21": {
+          "he": "במשקל.  כתב הט\"ז פי' הלוקח שקלן והרי הגזלה אצלו אבל שקלן המוכר יש לכהן הברירה אם ליקח מהמוכר או מהלוקח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:21"
+        },
+        "22": {
+          "he": "ספק.  אבל לענין איסור חלה בסימן ש\"ל חייב מספק:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Yoreh De'ah 61:22"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

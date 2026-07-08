@@ -1,0 +1,1710 @@
+{
+  "chelek": "OC",
+  "siman": 90,
+  "chelekTitle": "Orach Chayim",
+  "seifCount": 27,
+  "fetchedAt": "2026-07-07T23:39:29.886Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "מקום הראוי להתפלל. ולהתפלל עם הציבור ודין ההולך בדרך. ובו כז סעיפים:המתפלל לא יעמוד לא על גבי מטה ולא על גבי כסא ולא על גבי ספסל ואפי' אינן גבוהין ג' [ב\"י בשם מהרי\"א] ולא על גבי מקום גבוה אלא אם כן היה זקן או חולה או שהיה כוונתו להשמיע לציבור:",
+      "en": "A Place Appropriate to Pray. And to Pray with the Congregation and the Law of One Who Travels, containing 27 s'ifim  One who prays should not stand on a bed, a chair, a bench even if they are not 3 [hand-breadths tall] (Beit Yosef in the name of Mahari\"ya), and not on top of any high place, except if one was old or sick [and thus cannot descend], or if one's intent was to make the congregation hear one [i.e.: a chazzan].",
+      "ref": "Shulchan Arukh, Orach Chayim 90:1"
+    },
+    {
+      "seif": 2,
+      "he": "שיעור מקום גבוה שאמרו ג' טפחים היה גבוה ג' ויש בו ד' אמות על ד' אמות הרי הוא כעלייה ומותר להתפלל בו וכן אם היה מוקף מחיצות אע\"פ שאין בו ד' על ד' מותר להתפלל בו שאין גבהו ניכר כיון שחלק רשות:",
+      "en": "The measure of a high place is three hand-breadths. If it is three [hand-breadths] tall, and it has an area of four cubits by four cubits, it is like an upper story and it is permissible to pray upon it. And so too, if it was surrounded by dividers, even if it is not an area of four [cubits] by four [cubits], it is permissible to pray upon it, for its height is not recognized once its domain is separated.",
+      "ref": "Shulchan Arukh, Orach Chayim 90:2"
+    },
+    {
+      "seif": 3,
+      "he": "האומנין שעושין מלאכה לבעל הבית יכולין להתפלל בראש הזית ובראש התאנה ואין בזה משום לא יעמוד על גבי מקום גבוה ויתפלל דכיון שעלו לעשות מלאכתם הוי כמו שעלה לעלייה ובשאר אילנות צריכים לירד והטעם שנשתנה הזית משאר אילנות מפני שיש להם ענפים הרבה יותר משאר אילנות ויש טורח גדול בעלייתם ובירידתם ויתבטלו ממלאכתם ולפיכך אמרו שיתפלל שם אבל שאר אילנות דליכא ביטול ירדו ובעל הבית אפילו מראש הזית והתאנה צריך לירד להתפלל דהא אינו משועבד למלאכה שהוא ברשות עצמו ואם הקילו אצל פועלים מפני ביטול מלאכה לא הקילו אצל בעל הבית:",
+      "en": "The laborers doing labor for the house-owner may pray on the top of the olive tree and at the top of the fig tree, and [the rule of] 'One should not stand on a high place and pray' does not apply in this [case]. Since they have ascended to do their labor, behold they are like someone who ascended to the second story of a house. But with regard to all other trees, it is necessary to descend.  And the reason that [the rule of] the olive tree is different from all other trees is because they have many more branches than other trees and thus it is a hardship to ascend them and descend them, and they [the laborers] will be interrupted from their work.  And therefore, they said that they should pray there. But regarding the other trees, which do not cause interruptions from work [due to the ease of descending and ascending], they should descend. And the house-owner (ie. the employer), even at the top of the olive or date tree, must descend to pray, for he is not indebted to [his] labor, in that he is on his own property. And even though they were lenient regarding workers because of breaks from work, they were not lenient regarding the house-owner.",
+      "ref": "Shulchan Arukh, Orach Chayim 90:3"
+    },
+    {
+      "seif": 4,
+      "he": "צריך לפתוח פתחים או חלונו' כנגד ירושלים כדי להתפלל כנגדן וטוב שיהיו בב\"ה י\"ב חלונות:",
+      "en": "It is necessary to open doorways or windows facing Jerusalem, so as to pray opposite them. And it is preferable for a synagogue to have twelve windows.",
+      "ref": "Shulchan Arukh, Orach Chayim 90:4"
+    },
+    {
+      "seif": 5,
+      "he": "לא יתפלל במקום פרוץ כמו בשדה מפני שכשהוא במקום צניעות חלה עליו אימת מלך ולבו נשבר:",
+      "en": "One should not pray in a breached place, like in a field, for when one is in a private place, the fear of the king falls upon him and his heart breaks [in prayer].",
+      "ref": "Shulchan Arukh, Orach Chayim 90:5"
+    },
+    {
+      "seif": 6,
+      "he": "ולא בחורבה מפני חשד ומפני המפולת ומפני המזיקים:",
+      "en": "And [one should] not [pray] in a ruin, because of suspicion, because of collapses, and because of the evil spirits.",
+      "ref": "Shulchan Arukh, Orach Chayim 90:6"
+    },
+    {
+      "seif": 7,
+      "he": "ולא אחורי ב\"ה אם אינו מחזיר פניו לב\"ה ואחורי ב\"ה הוא הצד שפתח פתוח בו והוא הפך הצד שפונים אליו הקהל כשמתפללים וי\"מ בהפך וראוי לחוש לדברי שניהם וגם כשמתפלל בשאר צדדים חוץ לב\"ה יש להחמי' שיחזי' פניו לב\"ה וכל זה כשניכר שמחזיר אחוריו לב\"ה אבל אם הוא מתפלל בבית הסמוך לב\"ה ופניו כנגד א\"י כראוי ואחוריו לכותל ביתו שהוא כותל ב\"ה מותר שאינו ניכר שמחזיר פניו מב\"ה:",
+      "en": "Neither should one pray behind a synagogue, if one does not face the synagogue. Behind a synagogue means the side of its opening, which is opposite the side that the community faces when they pray. There are commentators that take an opposing view [regarding the term 'behind'], and it is fitting to heed to both opinions, and even when praying on other sides on the outside of the synagogue, one should be strict to face the synagogue. All of this applies when it is evident that one is turning their back to the synagogue, but if one prays in a house attached to a synagogue and turns one's face toward the Land of Israel, as is proper, and one's back faces the wall of the house which is also the synagogue - this is permitted, because it is not evident as if one's face is turned away from the synagogue.",
+      "ref": "Shulchan Arukh, Orach Chayim 90:7"
+    },
+    {
+      "seif": 8,
+      "he": "אסור לעבו' חוץ לב\"ה בצד שהפתח פתוח בו בשעה שהצבור מתפללים מפני שנראה ככופר כיון שאינו נכנס להתפלל ואם נושא משאוי או שלבוש תפילין או שיש ב\"ה אחר בעיר או שיש לב\"ה זה פתח אחר [או שרוכב על הבהמה] מותר [ב\"י בשם רי\"ו]:",
+      "en": "It is forbidden to pass outside a synagogue on the side on which the entrance opens at the time when the congregation is praying since it seems as though one is a heretic since one has not entered to pray. And if one is carrying a burden or wearing tefillin or there is another synagogue in the city, or the synagogue has another entrance, [or one is riding on an animal] it is permitted [Beit Yosef in the name of the Ri\"v]",
+      "ref": "Shulchan Arukh, Orach Chayim 90:8"
+    },
+    {
+      "seif": 9,
+      "he": "ישתדל אדם להתפלל בב\"ה עם הציבור ואם הוא אנוס שאינו יכול לבא לב\"ה יכוין להתפלל בשעה שהציבו' מתפללין [וה\"ה בני אדם הדרים בישובים ואין להם מנין מ\"מ יתפללו שחרית וערבית בזמן שהצבור מתפללים סמ\"ג] וכן אם נאנס ולא התפלל בשעה שהתפללו הציבו' והוא מתפלל ביחיד אעפ\"כ יתפלל בב\"ה:",
+      "en": "A person should make an effort to pray in the synagogue with a congregation, and if he is unable to due to an extenuating circumstance [such] that he is not able to come to the synagogue, he should intend to pray at the time that the congregation is praying [This also applies to people living in small settlements, that do not have a minyan - nevertheless, they should pray Shacharit and Aravit during the time that the congregation is praying - Sefer Mitzvot haGadol] And similarly if one had an extenuating circumstance and did not pray at the time when the community prayed, and he is praying alone, despite this, he should pray in the synagogue.",
+      "ref": "Shulchan Arukh, Orach Chayim 90:9"
+    },
+    {
+      "seif": 10,
+      "he": "כשעומד עם הציבור אסור לו להקדים תפלתו לתפלת ציבור אא\"כ השעה עוברת ואין הציבור מתפללים לפי שמאריכים בפיוטים או לסבה אחרת: [אבל בלא שעה עוברת יתפלל הפיוטים והתחינות עם הציבור ולא יפרוש מן הציבור אפי' לעסוק בדברי תורה וע\"ל סי' ס\"ח]:",
+      "en": "When one stands [in prayer] with the congregation, it is forbidden to advance/accelerate one's prayer [i.e. Amidah] [ahead of] the prayer of the congregation, unless the time [of prayer] is passing and the congregation is not praying [in time] since they are delaying with liturgical poems or some other reason. [But, if the time [of prayer] is not passing, one must pray the liturgical poems and the pleas with the congregation and not separate from the congregation, even to involve oneself in words of Torah - and see above, Siman 68]",
+      "ref": "Shulchan Arukh, Orach Chayim 90:10"
+    },
+    {
+      "seif": 11,
+      "he": "מי שיש לו בית הכנסת בעירו ואינו נכנס בו להתפלל נקרא שכן רע וגורם גלות לו ולבניו:",
+      "en": "One who has a synagogue in their city and does not enter it to pray is called a bad neighbor and causes exile for himself and his children.",
+      "ref": "Shulchan Arukh, Orach Chayim 90:11"
+    },
+    {
+      "seif": 12,
+      "he": "מצוה לרוץ כשהולך לב\"ה וכן לכל דבר מצוה אפי' בשבת שאסו' לפסוע פסיעה גסה אבל כשיוצא מבית הכנסת אסור לרוץ:",
+      "en": "It is a mitzvah to run when one goes to synagogue and for everything that is a mitzvah -- even on Shabbat, when it is forbidden to take long strides. But when one goes out from the synagogue, it is forbidden to run.",
+      "ref": "Shulchan Arukh, Orach Chayim 90:12"
+    },
+    {
+      "seif": 13,
+      "he": "מותר לרוק בבית הכנסת ודורסו ברגלו או מכסהו בגמי:",
+      "en": "It is permitted to spit in a synagogue, and one should rub it with one's foot or cover it in dirt.",
+      "ref": "Shulchan Arukh, Orach Chayim 90:13"
+    },
+    {
+      "seif": 14,
+      "he": "ישכים אדם לב\"ה כדי שימנה עם הי' הראשונים:",
+      "en": "One should get up early to go to synagogue in order to be counted with the first ten.",
+      "ref": "Shulchan Arukh, Orach Chayim 90:14"
+    },
+    {
+      "seif": 15,
+      "he": "אם נשאר אדם יחידי מתפלל בבה\"כ שבשדות או אפילו בב\"ה שבעיר אם היא תפלת ערבית  (שמתפללין בלילה) חייב חבירו להמתין לו עד שיסיים תפלתו כדי שלא יתבלבל בתפלתו  (ויש מחמירין אפי' ביום ובב\"ה שלנו שהם בעיר) (הטור ומרדכי בשם ר\"י והר\"י פ\"ק דברכות) ואם מאריך בבקשות ותחנונים אינו חייב להמתין לו:",
+      "en": "If a single individual remains praying in synagogue in the fields or even in a synagogue that is in the city - if it is the evening prayer (that is prayed at night), his fellow is obligated to wait for him until he finishes his prayer, in order that he should not mix up his prayer. (And there are those who are strict [and apply this] even during the day and to our synagogues which are in the city) (The Tur and the Mordechai in the name of the R\"i, and the R\"i on the first chapter of Berachot). And if [the individual] lengthens his prayer with additional requests and supplications, one is not obligated to wait for him.",
+      "ref": "Shulchan Arukh, Orach Chayim 90:15"
+    },
+    {
+      "seif": 16,
+      "he": "ההולך בדרך והגיע לעיר ורוצה ללון בה אם לפניו עד ד' מילין מקום שמתפללים בי' צריך לילך שם ולאחריו צריך לחזור עד מיל כדי להתפלל בי':",
+      "en": "One who travels and reaches a city and wishes to spend the night there - if there is a place within 4 mil ahead of him where they pray with 10 [men], one needs to go there. And behind him, he needs to go back up to a distance of 1 mil, in order to pray in with 10.",
+      "ref": "Shulchan Arukh, Orach Chayim 90:16"
+    },
+    {
+      "seif": 17,
+      "he": "יש מי שאומר שמכ\"ש שלא ישכים אדם לילך מעיר שמתפללים בה בי' אם יכול לבא למחוז חפצו בעוד היום גדול ושלא יהא צריך ללכת יחידי אחר התפל':",
+      "en": "There is an opinion who holds that certainly, a person should not get up early to go from a city where they pray with 10 [and miss praying with them] if it's possible to arrive at his destination while there is still much left of the day (ie. if he would have prayed back at his hometown with the minyan, there still would have been plenty of time to reach his destination) and that [as long as] he wouldn't have to go alone after the prayer.",
+      "ref": "Shulchan Arukh, Orach Chayim 90:17"
+    },
+    {
+      "seif": 18,
+      "he": "בית המדרש קבוע קדוש יותר מבית הכנסת ומצוה להתפלל בו יותר מבית הכנסת והוא שיתפלל בי': [הגה וי\"א דאפילו בלא י' עדיף להתפלל בבית המדרש הקבוע לו ודוקא מי שתורתו אומנתו ואינו מתבטל בלאו הכי] [תר\"י פרק קמא דברכות] ואפי' הכי לא ירגיל עצמו לעשות כן שלא ילמדו עמי הארץ ממנו ויתבטלו מב\"ה [תשובת הרא\"ש כלל ד' והטור] וכ\"ש שלא יעסוק בתורה בב\"ה בזמן שהצבור אומרים סליחות ותחינות [הגהות אלפסי החדשים]:",
+      "en": "A permanent study hall is more holy than a synagogue, and it is a mitzvah to pray in it more so than in a synagogue -- and this is as long as he will pray there with 10. Rem\"a: And there are those that say that even without 10, it is preferable to pray in his permanent study hall  -- and this is specifically [regarding] one whose Torah is his livelihood and he doesn't engage in other activities outside of that. [Talmidei Rabbeinu Yonah, first chapter of B'rachot] And even so, one should not accustom himself to do so in order that the common people (\"amei ha'aretz\") not learn from him and come to ignore the synagogue. [Teshuvat haRosh, Klal 4 and the Tur] And certainly, one should not occupy oneself with Torah in a synagogue at the time that the community is saying forgiveness-prayers and supplications. [Hagahot Alfasi haChadashim]",
+      "ref": "Shulchan Arukh, Orach Chayim 90:18"
+    },
+    {
+      "seif": 19,
+      "he": "יקבע מקום לתפלתו שלא ישנהו אם לא לצורך ואין די במה שיקבע לו ב\"ה להתפלל אלא גם בב\"ה שקבוע בה צריך שיהיה לו מקום קבוע:",
+      "en": "One should establish a place for one's prayer and not change it unless there is a need. And it is not enough to establish a synagogue for oneself  in which to pray, rather one must also have an established place within the established synagogue.",
+      "ref": "Shulchan Arukh, Orach Chayim 90:19"
+    },
+    {
+      "seif": 20,
+      "he": "יכנס שיעור שני פתחים ואחר כך יתפלל. י\"מ שיעור שני פתחים דהיינו ח' טפחים יכנס לפנים שלא ישב אצל הפתח שנראה כמשאו ישיבת ב\"ה ולפי זה אם יש לו מקום מיוחד אצל הפתח אין בכך כלום וי\"מ שהטעם מפני שמביט לחוץ ואינו יכול לכוין ולפי זה אם אינו פתוח לרשות הרבים אין בכך כלום וי\"מ שלא ימהר להתפלל מיד כשנכנס אלא ישהה שיעור שני פתחים ונכון לחוש לכל הפירושים:",
+      "en": "One should enter [into the synagogue] the distance of two doorways, and after that pray. There are those who explain [this to mean] that one should enter the distance of two doorways, which is 8 t'fachim (handbreaths - roughly 80 cm total), so as not to sit [right] next to the door, since that would appear like it was a burden to be dwelling in synagogue. And according to this [opinion], if one has a set  place next to the doorway, there is no concern. And there are those who explain that the reason for this is because one looks outside and cannot focus [one's thoughts on prayer]. And according this [opinion], if the doorway is not open to a public space, there is no concern. And there are those who explain that one should not be quick to begin praying immediately upon entering the synagogue, but should rather wait the amount of time it takes to enter two doorways. And it is proper to be concerned for all these interpretations.",
+      "ref": "Shulchan Arukh, Orach Chayim 90:20"
+    },
+    {
+      "seif": 21,
+      "he": "צריך שלא יהא דבר חוצץ בינו ובין הקיר ודבר קבוע כגון ארון ותיבה אינם חוצצים ולא חשיב חציצה רק בדבר גדול שגבהו י' ורחבו ד' אבל דבר קטן לא חשיב הפסק [אבודרהם ואורחות חיים בשם הראב\"ד] וכן בעלי חיים אינם חוצצים אפי' אדם אינו חוצץ: הגה ולי נראה דבעלי חיים חוצצים ואדם אינו חוצץ וכן נראה סברת הפוסקים ואפשר נפל טעות בספרים:",
+      "en": "There may not be anything interposing between one and the wall [while praying]. And a fixed thing such as an Ark or a leader's platform - they do not count as interpositions. And it is not considered an interposition unless it is a large thing which is higher than 10 [t'fachim (handbreadths)] and wider than 4 [t'fachim], but a small thing is not considered an interruption [Abudraham and Orchot Chayim in the name of the Ra-avad]. And so too, living creatures are not interpositions, even a human being is not an interposition. Rem\"a: and it appears to me that animals are interpositions, and a human being is not an interposition, and this appears to be the reasoning of the rabbinic authorities, and it is possible that a [publishing] error has fallen into the books [which caused that incorrect ruling])",
+      "ref": "Shulchan Arukh, Orach Chayim 90:21"
+    },
+    {
+      "seif": 22,
+      "he": "ויש מי שאומר שיש ליזהר מלהתפלל אחורי שום אדם וטוב לחוש לדבריו:",
+      "en": "There is an opinion who holds that one should be careful not to pray behind any [other] person, and it is good to be concerned with that opinion.",
+      "ref": "Shulchan Arukh, Orach Chayim 90:22"
+    },
+    {
+      "seif": 23,
+      "he": "הבגדים המצויירים אע\"פ שאינ' בולטת אין נכון להתפלל כנגדם ואם יקרה לו להתפלל כנגד בגד או כותל מצויר יעלים עיניו: הגה ולכן אסור גם כן לצור ציורים בספרים שמתפללים בהם שלא תתבטל הכוונה [מרדכי ריש פרק כל הצלמים] אבל בגדים שמצוייר עליהם דברי תפלות אפי' לישב עליהם בב\"ה אסור [תשובת הרא\"ש סימן ב' כלל ה']:",
+      "en": "[Regarding] illustrated garments, even though [the image] does not protrude (ie. like an embroidered garment), it is not proper to pray in front of them.  And if one happens to pray (ie. he has no choice) in front of an illustrated garment or wall, he should close his eyes. Rem\"a: And therefore, it is also forbidden to illustrate prayerbooks, so that [people's] should not become distracted [Mordechi, beginning of chapter \"Kol haTz'lamim\" (chapter 3 of Masechet Avodah Zarah)]. But clothes which have indecent matters illustrated on them, even to sit on them in synagogue is forbidden [Responsum of the Rosh, Siman 2, klal 5]",
+      "ref": "Shulchan Arukh, Orach Chayim 90:23"
+    },
+    {
+      "seif": 24,
+      "he": "לא יתפלל בצד רבו ולא אחורי רבו ולא לפניו [יש אומרים דכל זה לא מיירי אלא להתפלל ביחיד אבל בצבור אם כך הוא סדר ישיבתו אין לחוש אם מתפלל לפניו או אחוריו [ב\"י בשם מהרי\"א ואוהל מועד] ואע\"פ שטוב להחמיר המנהג להקל אם הרחיק ד' אמות מותר ועיין ביורה דעה סימן רמ\"ב סעיף ט\"ז:",
+      "en": "One should not pray beside their rabbi/teacher or behind their rabbi/teacher or in front of them. [And there are those who say that all of this only applies when one prays alone  [with his rabbi], but [when praying] with the congregation, if such is the arrangement of seats, there is no concern if one prays in front of or behind him (ie. one's rabbi/teacher) (Beit Yosef in the name of the Mahary\"a and Ohel Mo-ed). And even though it is good to be stringent, the custom is to be lenient If one distances oneself [from one's rabbi/teacher] four cubits, it is permitted. [And see Yoreh Deah 242:16]",
+      "ref": "Shulchan Arukh, Orach Chayim 90:24"
+    },
+    {
+      "seif": 25,
+      "he": "תלמיד חבר מותר להתפלל אחורי רבו:",
+      "en": "A student who is a colleague [of his rabbi/teacher] is allowed to pray behind his rabbi/teacher.",
+      "ref": "Shulchan Arukh, Orach Chayim 90:25"
+    },
+    {
+      "seif": 26,
+      "he": "כל מקום שאין קורין בו קריאת שמע אין מתפללים בו וכשם שמרחיקים מצואה ומי רגלים וריח רע ומן המת ומראיות הערוה לק\"ש כך מרחיקין לתפלה:",
+      "en": "Any place in which we may not recite the Recitation of the Sh'ma, we may not pray [i.e. recite the Amidah] there. And just as we distance from feces, urine, a putrid smell, a corpse, and from the sight of nakedness for the Recitation of the Sh'ma, so too we distance for  prayer.",
+      "ref": "Shulchan Arukh, Orach Chayim 90:26"
+    },
+    {
+      "seif": 27,
+      "he": "היה עומד בתפלה והשתין תינוק בב\"ה ישתוק עד שיביאו מים להטיל על המי רגלים או יהלך לפניו ד' אמות או לצדדיו או יצא מב\"ה ויגמור תפלתו: הגה ויותר טוב לילך למקום אחר ולא לשתוק שמא ישהה כדי לגמור את כולה ויצטרך לחזור לראש [ב\"י בשם רוקח סימן רכ\"ד ועיין לעיל סימן ע\"ט]:",
+      "en": "If one was standing in prayer [i.e. Amidah] and a young child urinated in the synagogue, he  should remain silent [i.e. stop praying] until they bring water to pour over the urine [thus 'removing' it], or he should walk  four cubits in front of it or to the side of it, or he should go out from the synagogue and finish his prayer. Rem\"a: And it is better to go to a different place rather than be silent [and wait], lest one delay as long as [the time required] to finish all of it (i.e. the Amidah) and would [then] be required to return to the beginning (Beit Yosef in the name of the Rokeach, Siman 224. And see above Siman 79).",
+      "ref": "Shulchan Arukh, Orach Chayim 90:27"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברכות י'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:1"
+        },
+        "2": {
+          "he": "תוס' שם פ\"ג וא\"ח ושאר פוסקים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:2"
+        },
+        "3": {
+          "he": "רמב\"ם פ\"ה מה' תפלה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:3"
+        },
+        "4": {
+          "he": "ברכות ס\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:4"
+        },
+        "5": {
+          "he": "הרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:5"
+        },
+        "6": {
+          "he": "ר' יונה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:6"
+        },
+        "7": {
+          "he": "שם בגמ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:7"
+        },
+        "8": {
+          "he": "שם ל\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:8"
+        },
+        "9": {
+          "he": "רמב\"ם פ\"ה מה\"ת",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:9"
+        },
+        "10": {
+          "he": "זוהר פ' פקודי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:10"
+        },
+        "11": {
+          "he": "ברכות ל\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:11"
+        },
+        "12": {
+          "he": "ברכות ג'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:12"
+        },
+        "13": {
+          "he": "שם ו' לפירש\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:13"
+        },
+        "14": {
+          "he": "ר\"י והגה\"מ דפירוש אחורי כותל מזרחי ואחוריו אל הכותל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:14"
+        },
+        "15": {
+          "he": "רבי יונה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:15"
+        },
+        "16": {
+          "he": "ב\"י בשם תשובת רמב\"ם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:16"
+        },
+        "17": {
+          "he": "ברכות ח'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:17"
+        },
+        "18": {
+          "he": "ב\"י בשם ירוחם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:18"
+        },
+        "19": {
+          "he": "שם ו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:19"
+        },
+        "20": {
+          "he": "שם ז'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:20"
+        },
+        "21": {
+          "he": "ר\"י בשם הגאונים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:21"
+        },
+        "22": {
+          "he": "ברכות כ\"ח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:22"
+        },
+        "23": {
+          "he": "רבי יונה והרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:23"
+        },
+        "24": {
+          "he": "ברכות כ\"ח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:24"
+        },
+        "25": {
+          "he": "ברכות שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:25"
+        },
+        "26": {
+          "he": "שם ס\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:26"
+        },
+        "27": {
+          "he": "ירושלמי שם ספ\"ה ורבי יונה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:27"
+        },
+        "28": {
+          "he": "ברכות מ\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:28"
+        },
+        "29": {
+          "he": "שם ה'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:29"
+        },
+        "30": {
+          "he": "רי\"ף ור\"ת",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:30"
+        },
+        "31": {
+          "he": "ר' יונה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:31"
+        },
+        "32": {
+          "he": "פסחים. מ\"ו: לפרש\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:32"
+        },
+        "33": {
+          "he": "אגודה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:33"
+        },
+        "34": {
+          "he": "ברכות ח'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:34"
+        },
+        "35": {
+          "he": "רמב\"ם פ\"ח מה\"ת",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:35"
+        },
+        "36": {
+          "he": "ברכות ו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:36"
+        },
+        "37": {
+          "he": "הרא\"ש בשם הירו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:37"
+        },
+        "38": {
+          "he": "ברכות ח'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:38"
+        },
+        "39": {
+          "he": "ירוש' ואורחות חיים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:39"
+        },
+        "40": {
+          "he": "ר' יונה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:40"
+        },
+        "41": {
+          "he": "טור בשם ר\"מ מרוטנבורג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:41"
+        },
+        "42": {
+          "he": "הרא\"ש הביאו שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:42"
+        },
+        "43": {
+          "he": "ברכות ה'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:43"
+        },
+        "44": {
+          "he": "מרדכי ומהר\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:44"
+        },
+        "45": {
+          "he": "ס' הפליאה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:45"
+        },
+        "46": {
+          "he": "אבודרהם בשם תשו' רמב\"ם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:46"
+        },
+        "47": {
+          "he": "ברכות כ\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:47"
+        },
+        "48": {
+          "he": "ר' יונה והרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:48"
+        },
+        "49": {
+          "he": "שם בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:49"
+        },
+        "50": {
+          "he": "רמב\"ם פ\"ד מהלכות תפלה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:50"
+        },
+        "51": {
+          "he": "רוקח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Orach Chayim 90:51"
+        }
+      }
+    },
+    "pm_ea": {
+      "id": "pm_ea",
+      "name": "Pri Megadim (Eshel Avraham)",
+      "hebrew": "פרי מגדים — אשל אברהם",
+      "seifim": {
+        "1": {
+          "he": "ואפי׳ עמ״א כפי דעתי ההדיוטית האדון ז״ל כיון בזה כוונה מיוחדת כמו שאגיד. כי הנה בטעם מטה כסא פחות מג״ט ג׳ טעמים א׳ חציצה בפרישה (עט״ז א׳ ב׳ דכלי לא בטיל הוי גבהות פחות מג״ט או ביעתותא והנה חציצה ליתא להמחבר בצ״ח אלא ביעתותא וא״כ זקן חולה דשרי במטה וכסא (דלהשמיע י״ל דקאי אמקום גבוה לחוד) משום טירחא התירו. והנה בס״ג באילן לרש״י ברכות ט״ז א׳ זית אין פחד ושאר אילן ביעתותא יורדין אפי׳ אומנין אע״ג שיש ביטול מלאכה ה״ה זקן וחולה אין מתירין ביעתותא משום טורח אבל המחבר ירושלמי (עב״י) דגם בזית ביעתותא רק שיש טורח גדול הקילו משום ביטול מלאכה ה״ה הקילו מפני טורח הזקן וחולה. ומיהו גבהות לא התירו מפני הטורח כמ״ש הב״ח אלא דבחולה וזקן הוי מטתו וכסא בעליה וליכא גבהות ומוכרח הוא דתוספתא דמתיר זקן וחולה סתמא אפי׳ דגביה ג׳ דוודאי יש גבהות וז״ש המ״א משום ביעתותא אמאי זקן וחולה התירו הא משום גבהות שפיר התירו דל״ש גבהות בזקן וחולה דהוי כעלה לעליה וכמו אומנין באילן דלית גבהות ולזה הראה נמ״י לס״ג ומ״ש בשם הב״ח דמתיר כסא באין גבוה ג׳ אף לבריא ולא להשמיע דליכא ביעתותא בפחות מג״ט וע׳ פרישה הא בגבוה הרבה ויש ביעתותא לזקן וחולה יראה דשרי להב״ח ולהשמיע היכא דיש ביעתותא אפשר דאסור אם לא בגוונא דליכא ביעתותא והבן זה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:1"
+        },
+        "2": {
+          "he": "זקן כו׳ עמ״א היינו שעומד ע״ג המטה ואפשר נמי שקשה לעמוד בלא כר על הארץ ומיהו אם א״א לעמוד רשאי להתפלל מיושב או שוכב על המטה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:2"
+        },
+        "3": {
+          "he": "להשמיע עמ״א ויהיה תיבה עמוד ומקום נמוך ועב״י ק״ן אלמימרא שלנו אם אין רחב ד״א ואין מוקף מחיצות אסור לשמש וכדומה לעמוד שש להתפלל ומיהו י״ל כיון דבמקום השמש שם הוא ליכא גבהות כמו זקן וחולה עמ״א אות א׳ דווקא לעלות למקום גבוה להתפלל אפי׳ ביחיד אסור כמ״ש הפרישה אבל זה מקומו כאן ותמיד לפסוקי דזמרה עומד שם אין זה עולה למקום גבוה להתפלל מיקרי:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:3"
+        },
+        "4": {
+          "he": "או עמ״א בגמרא ברכות ל״א אר״ח לא יתפלל אלא בבית שיש חלונות שנא׳ וכי\\וין פתיחין ליה וגומר ובל״ד ב׳ אר״י לא יתפלל אלא בבית שיש חלונות שנאמר וכוין פתיחין בעיליתי׳ לקבל ירושלים והטור הביא כן ופירש״י שיסתכל כלפי שמים ולבו נכנע ורבינו יונה פירש בית שיש אור מתישב דעתו יותר ונ״מ לר״י א״צ נגד המזרח ולרש״י נגד המזרח וא״נ בקרן דרומית מזרחית צפונית דמצדד קצת ורואה שפיר דמי אבל הר״מ ז״ל פ״ה ה״ו מתפלה וצריך לפתוח חלונות נגד ירושלים משמע דעיקר קפידא נגד ירושלים הא אי אפשר נגד ירושלים אין מעלה כלל חלונות בשאר הרוחות ולרש״י ודאי יש מעלה והמחבר הביא לשון הר״מ ז״ל וז״ש המ״א בגמרא כו׳ כלומר אע״ג דאין לו בית חלונות נגד המזרח ויש בית שיש בו חלון יתפלל בו ולא בבית אפל. ולרש״י יקשה מצ״ה ותי׳ ב״ס כו׳ משא״כ לר״מ דקפידא נגד ירושלים לזכור ע״י ירושלים ומתפלל אל ה׳ ורמז וזה שער השמים אין קושיא מצ״ה. והנה אין לו בית שיש בו חלון כ״א בית אפל ובקעה בית אפל עדיף דבקעה חציף הוי ועמ״ש בסעיף ה׳ אי״ה. ועכ״מ בשם תשובת הרמב״ם ז״ל שכ״ז ביחיד בביתו אבל לא בביה״כ של ציבור א״צ לפתוח חלונות יע״ש והיינו דתפלת הרבים א״צ לזכיות כ״כ ומקובלת ובש״ע לא משמע כן וכ״כ לבוש וצריך לפתוח בביה״כ חלונות וכן עמא דבר וי״ב חלונות לאיזה צד שירצה ובתנאי שיהיה גם בצד שמתפלל לקבל ירושלים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:4"
+        },
+        "5": {
+          "he": "י״ב חלונות עמ״א ובזוהר פקודי ובלבד שיהא נגד המזרח ג״כ. ע׳ ר״מ פ״ה מתפלה חשיב ח׳ דברים לכתחילה ואין מעכבין דיעבד ואלו הן עמידה ונוכח המקדש ותיקון הגוף והמלבושים ומקום וקול וכריעה והשתחויה יע״ש ובלח״מ:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:5"
+        },
+        "6": {
+          "he": "לא עמ״א ולתי׳ השני קולא דבשדה נמי אע״פ שעוברים ושבים ב״א אם עומד בצד הדרך ולא מתירא שיפסיקו אותו שרי ולתי׳ א׳ בעינן דוקא מוקף מחיצות וכמ״ש בש״ע כאן ועמ״ש בט״ז אות ב׳ מזה אי״ה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:6"
+        },
+        "7": {
+          "he": "ולא עמ״א ברכות גימ״ל א׳ היה להתפלל בדרך תפלה קצרה מלכנוס לחורבה. ובחדתי ותרי ופריצי דליכא כ״א חשד מ״מ מסתברא בדרך טוב יותר מלכנוס בה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:7"
+        },
+        "8": {
+          "he": "מפני עמ״א בחדתי ותרי בדברא ליכא חשש כלל ומ״ש בידוע שיש מזיקין אף בתרי ביממא עי׳ קידושין פ״ק מזה. ואם אשתו עמו ליכא חשד בחורבא ותרי וכשירי נמי ליכא חשד עיין אה״ע כ״ב ס״ה יע״ש ועמ״ש בחידושי. ע׳ פרישה חשד משכב זכור וא״י דא״כ בדברא נמי ורש״י פירש חשד זונה ובדברא אשה לא שכיחא וצ״ע כעת ושם ברכות ג׳ ב׳ במקומן ושכיחי חיישי׳ יע״ש בתוס׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:8"
+        },
+        "9": {
+          "he": "והוא עמ״א בחידושי ברכות ו׳ ב׳ הארכנו ועתה ראיתי בלבוש האריך ג״כ והנה אם במערב ואחוריו לבהכ״נ ודאי רשע מיקרי דשלש רעות עושה אחוריו לביה״כ ומתפלל הפך הצד הקהל ובחוץ ובצפון ודרום כה״ג נמי שלש רעות עושה משא״כ במזרח אם אחוריו לביה״כ ב׳ רעות וי״א דהוי רשע ואם בצפון ודרום ומהדר לבי כנשתא לית לן בה י״ל דלא רשע מיקרי מ״מ אסור דעושה ב׳ רעות חוץ לביה״כ ולא למזרח אבל עומד בצפון ודרום ופניו למזרח וצדו ליבה״כ שרי ובמזרח ומערב ופניו לצפון ודרום איסורא איכא ולא רשע. נמצינו למידין במערב ופניו למזרח וכן צפון ודרום ופניו למזרח לית לן בה ושרי מדוחק הא לא״ה מצוה להתפלל בבהכ״נ כמ״ש בס״ט. והנה אם מיקרי רשע אפשר פסול לעדות מדרבנן כמ״ש הר״מ ז״ל בה׳ עדות הרשעים פסולים שנאמר א״ת ידך עם רשע ואף דלא מצינו טכות מרדות בכאן (כי לאו בכ״מ הוא ובכלל מ״מ הארכנו בש״ה) ומ״מ אין חוזר ומתפלל אע״פ שנקרא רשע כמבואר בר״מ פ״ה מתפלה שמונה דברים לכתחלה ולא מעכבין וע״ש ה״א וה״ו בזה ועמ״ש באות שאחר זה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:9"
+        },
+        "10": {
+          "he": "לדברי שניהם עמ״א מלבוש משמע בצפון ודרום ופנים למזרח שרי אעפ״י שחוץ לבהכ״נ ואין פניו לבהכ״נ והיינו מדוחק. עמ״ש באות שאחר זה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:10"
+        },
+        "11": {
+          "he": "יש להחמיר עמ״א והיינו באם א״א להפוך למזרח שיש צואה לפניו כמלא עיניו (עמ״א ע״ט ב׳) הא לא״ה עדיף למזרח ושרי ובש״ע אהיתרא קמהדר:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:11"
+        },
+        "12": {
+          "he": "כשניכר שמחזיר בחצר בהכ״ג מ״א הא חצר ביתו וכן עזרות הבנויות בכותל מזרחי שרי להתפלל שם עא״ר ח׳ בשם כנסת הגדולה. וכ״כ המ״א באות י״ג:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:12"
+        },
+        "13": {
+          "he": "הסמוף עמ״א היינו עזרה שבמזרח דחדר הוא ואין נראה כאחוריו לבהכ״נ ודווקא בחצר בהכ״נ שבהכ״נ עומד אמצע ניכר שמחזיר פניו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:13"
+        },
+        "14": {
+          "he": "אסור עמ״א ברכות ס״א א׳ אחורי ע״א כו׳ קשה קצת ועסי׳ תרע״א במ״א י״ב דמבזה ביה״כ ממשאוי קשה קצת היה להתרחק מביה״כ ובריש ברכות ח׳ ב׳ גריס ולא רהיט ובחידושי הקשיתי למה השמיט זה ועתה ראיתי להפר״ח הביא זה ועכ״מ פ״ו מה״ת ה״א י״ל גירסתם היה כן ובס״א לית ולא רהיט ובר״מ שם לבוש תפילין מוכח דאינו ממבטלי תפלה יורה קצת דלא כמ״א תרע״א י״ב. ודע בשעה שציבור מתפללין א״י מהו אם דווקא תפלת ח״י או אפי׳ פסוקי דזמרה וק״ש ויראה להחמיר בכל וכ״ש למ״א כמבזה בהכ״נ כו׳. ועסי׳ פ״ט בט״ז אות ב׳ ומ״ש שם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:14"
+        },
+        "15": {
+          "he": "עם הציבור עמ״א ולא הבינותי דלהמחבר דפסק כרבינו יונה דבהכ״ג ביחיד נמי יש מעלה א״כ בלא״ה יש להתפלל בביה״כ והמחבר אה״נ קאמר דאפילו בביה״כ לא יקדים קודם שבאו אלא ימתין או ב׳ ביה״כ וא׳ ברוב עם או ב׳ ביה״כ ובית המדרש ואין בן תורה דמצוה בביה״כ ברוב עם ע׳ סעיף י״ח ומ״א ל״ב. ויראה ביה״כ ביחיד ובביתו במנין תפלה ציבור עדיף ואף למ״ש הכ״מ והלח״מ פ״ח מתפלה ה״א אין הכרע מ״מ לטור יחיד בביה״כ אין מעלה כלל ואפי׳ יכול לשמוע קדושה וברכו אפי׳ הכי תפלת ציבור עדיף. ובחידושי הארכתי ועמ״ש באות כב״ג:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:15"
+        },
+        "16": {
+          "he": "אונס עמ״א כפירש״י זיין ב׳ ד״ה לא יכילנא תש כחו לא נקרא שכן רע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:16"
+        },
+        "17": {
+          "he": "יכוין עמ״א בסמ״ג אף אם אין טרחא לו א״צ להטריח אנשים. והביא ד״ה ע״ז. וכ״ש שפסוקי דזמרה אין מעלה כ״א תפלת ח״י ומ״ש בהג״ה בני יישובים היינו דמ״מ לצלי בדרך שרגילין הציבור וכע״ז פ״ק בתלת שעי קמייתא יע״ש. ועסי׳ תקצ״א במ״א ט׳ ודברי ט״ז אות ד׳ שם צ״ע קצת דתפלת שחרית זמנה עד רביע היום אלא דציבור מתפללין אין נדחית:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:17"
+        },
+        "18": {
+          "he": "וה״ה עמ״א אבל בעיר צריך להמתין עם הציבור אם לא שרואה שיעבור זמן ק״ש וכדומה ועוד בעיר מייחד ללמוד קודם הלך אח״כ לביה״כ כבסי׳ ע״ט ס״ו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:18"
+        },
+        "19": {
+          "he": "בזמן עמ״א ער״מ מצוה להתפלל עם הציבור אפי׳ היו בהם חוטאים פ״ח מת״ת ה״א כתב רדב״ז אם בביה״כ אין שומע קדושה ולא קריאת התורה יכול להתפלל בביתו בעשרה א״ר י׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:19"
+        },
+        "20": {
+          "he": "אסור עמ״א כשמתפלל שלא בציבור אין תפלתו נשמעת אבל כשיעמוד בציבור ומקדים איסורא נמי איכא ומחינן ביה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:20"
+        },
+        "21": {
+          "he": "השעה עמ״א ברכות כ״ח ב׳ חליש לבאי היה מקדים בביתו להתפלל מוסף ובהכ״נ אסור להקדים אף מוסף אבל חולה או אנוס שרי בכהכ״נ ג״כ וע׳ סימן קי״ד ס״ב ולהמחבר שם רבותא קאמר אף חולה כו׳ ומיהו בשאר ימות השנה מצי להתפלל בביתו בחלש לבו וג״כ איסורא עביד ואי״ה שם יבואר וכאן אין להאריך:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:21"
+        },
+        "22": {
+          "he": "מי ע׳ מ״א וע׳ אות ל״ב: ת״ח מצוה להתפלל בבהמ״ד אף שלומד בביה״כ רוב עם אבל אם לומד כביתו או מי שאין בן תורה אם יש בבית המדרש ציבור כמו בביה״כ מצוה בבה״מ במקום רנה של תורה וא״ל רוב עם יותר טוב ונראה בחורף שזמן קר וא״א לכוין טוב יותר בבה״מ ומ״מ ביישובים קטנים יראה לעשות שלא יתבטלו מנין בביה״כ בימות החורף ולזרז על זה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:22"
+        },
+        "23": {
+          "he": "נקרא עמ״א והנה בר״מ פ״ח מה״ת ה״א ואין נכנס להתפלל עם הציבור י״ל שיש עשרה בלא הוא ומרחיק עצמו משכינה או שמבטל מנין עשרה הא כשאין מנין אפשר לא נקרא שכן רע וע׳ רש״י אצל הרי״ף י״ל דשכינה מצויה בבה״כ ה״מ כשיש שום אדם בא להתפלל בתוכה והוא אין בא אין רוצה שישרה ה׳ שכינתו ומ״מ כשאין ביה״כ בעיר רק לפעמים מנין בבית יחיד ואין הולך לא נקרא שכן דע כי ביה״כ אמרו:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:23"
+        },
+        "24": {
+          "he": "מצוה עמ״א וא״ר י״ג בשם הפרישה סמוך לביה״כ ירוץ לא בכל הדרך שאין ניכר וי״א בכל הדרך יע״ש ונראה בשחרית שהולך עם תפילין וטלית אף בידו ניכר הוא ומ״מ ברחוב עכו״ם לא ירוץ:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:24"
+        },
+        "25": {
+          "he": "בשבת עמ״א ברכות וי״ו ב׳ היוצא מביה״כ אל יפסיע פסיעה גסה. אבל ליעול מצוה למרהט (באר הגולה ב״ג ט״ס וצ״ל ה״ו) הנה פסיעה גסה יותר מאמה ש״א ס״א נוטל א׳ מת״ק כו׳ ולדבר מצוה נמי היכא דשכיח היזקא כו׳ אלא מצוה לרוץ י״א גסה אא״כ דרכו וטבעו לפסוע גסה וא״א לעמוד על עצמו אז בשבת ואנוס עצמו ולביה״כ רשאי ולצאת מביה״כ אפי׳ לרוץ אסור ואל יפסע מי שדרכו וטבעו בכך יאנוס עצמו ובחידושי כתבנו מזה במהרש״א בע״י משמע דמצוה לפסוע גסה וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:25"
+        },
+        "26": {
+          "he": "כשיוצא עמ״א מביה״כ למדרש מותר לרוץ ויראה אם ניכר הוא שהבה״מ סמוך ונראה וודאי שרי ואסור לרוץ אפי׳ בלא פסיעה גסה עסי׳ ש״א ס״א:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:26"
+        },
+        "27": {
+          "he": "מותר עמ״א אף שלא בשעת תפלה אסור לרוק לפניו כ״א לאחוריו או לשמאלו אם אפשר עד״מ צ״ז ס״ב בזה ומ״ש לקרי״ץ משמע אף שחרית דל״ש ביה גאוה וגם אין מכניס בגופו ממש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:27"
+        },
+        "28": {
+          "he": "שממנה עמ״א וסי׳ כ״ה אות ג׳ ומיהו כיון שלא הגיע הזמן אין איסור אלא שאפשר שהאר״י ז״ל היה רוצה לילך מעוטף דווקא:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:28"
+        },
+        "29": {
+          "he": "חייב עמ״א ומדת חסידות אפי׳ בא חבירו לבסוף להמתין עליו עב״י בשם ר״י ועט״ז אות ד׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:29"
+        },
+        "30": {
+          "he": "צריך עמ״א דווקא כשיכול לבוא שם בעוד יום הנה בפירוש בש״ע שבא לעיר ורוצה ללון בעיר יום גדול אם יש עוד עיר לפניו שיש בה עשרה צריך לילך עד לשם ויתפלל מנחה והיינו שיכול לבוא שם בעוד השמש על הארץ יכנס בכי טוב (עיין ריש פסחים) דאל״ה אף שיכול להתפלל מנחה עד סוף שקיעה כמבואר בל״ג וכן ערבית לדידן דקבעו חובה אבל שחרית אם הולך ביום בדרך א״צ להמתין שיגיע לעיר ויתפלל שם קודם ד״ש דאפשר לא הטריחו אותו להמתין ולעכב איחור דרכו ומיהו בצ״ד ס״ט משמע ודאי דימתין עד שיגיע לעיר אם אין השעה עובדת ואי״ה שם יבואר. ויראה אם יש עשרה מתפללין מנחה לאחר ו׳ ומחצה אע״פ שלכתחלה אין רשאי (עסי׳ רל״ג) יתפלל עמהם וק״ו הוא מתפלת ערבית סי׳ רל״ה ס״א יע״ש. ועיין לבוש כאן הפירוש. ועסי׳ נ״ב ס״ד לענין מום ואי״ה שם יבואר וצדדין כלאחריו דמי א״ר י״ט ופשוט הוא ע׳ ר״פ תזרח השמש תשת כו׳ ויהי לילה: ומ״ש מעשה דרבנן ע׳ רא״ש ברכות מ״ז ב׳ ובתוס׳ שם מאכל בי״ט שני תי׳ הרא״ש במ״ק דעשה דרבים דוקא שמזכה רבים והנה סובר הרא״ש ז״ל דעשה דרבנן ד״ת הוי מלא תסור וע״פ התורה אשר יורוך ועשה דרבים דחי לעשה זו דבשניהם שוים מאי אולמיה האי מעשה (ובספר ג״ו כתבנו שי״ל קום ועשה דוחה שוא״ת) ובעידנא דמיעקר א״צ בעשה כמ״ש התוס׳ פסחים נ״ט א׳ ומיהו בתרפ״ז ס״ב בהג״ה דאין שום מצוה ד״ת נדחית מפני מגילה אע״ג דמזכה רבים למ״ד בזמנה בעשרה או מוציא אותם ור״ן שם לשיטתיה כאן וע׳ ר״מ פ״ט מהלכות עבדים ה״ו אין הכרע מדבריו (ומ״ש דאם שחרר משוחרר לכאורה מוכח דאי עביד מהני ע׳ ריש תמורה אפי׳ בעשה ועח״מ בסמ״ע ר״ח ואין דומה לשם) וי״ד רס״ז סע״ט הביא הב״י מצוה דרבים וכ״מ בר״מ שם דכיוצא בזה הוא דרבים ואי לר״ן אפי׳ מצוה דיחיד דלאו מטעם דחייה הוא והלבוש בי״ד רס״ז סע״ט פירש הטעם כיון יע״ש וא״כ לדינא קיי״ל אין שום מצוה ד״ת נדחית מפני דרבנן אפי׳ דרבים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:30"
+        },
+        "31": {
+          "he": "למחוז עמ״א ברכות י״ד א׳ ובסי׳ פ״ט סנ״ח לא משמע כן והב״י הקשה שם מדאמר ה׳ עושה לו חפציו הא איסורא ליכא לימא בהולך בדרך למרחוק וההיא דסעיף ח׳ שם לדבר מצוה או שאין שיירא ממתנת עליו הא לא״ה משמע דאסור לצאת קודם שיתפלל בביתו וצ״ע:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:31"
+        },
+        "32": {
+          "he": "והיא עמ״א דרבותא דביהמ״ד דעדיף מרוב עם וע״ה שאין לומד לדידיה רוב עם עדיף הא בשוין אף לדידיה ביהמ״ד קדושה יותר. והכ״מ בפ״ח מה״ת ה״ג כתב דרבותא נמי דעדיף ביהמ״ד מבית הכנסת ומיהו הדין אמת ועב״י וכ״מ בשם הרר״י הביאו עט״ז מי שתורתו אומנתו וביהמ״ד בביתו אם לפעמים מתפלל ביחיד לא ירגיל עצמו כו׳ רשאי עא״ר ולבוש. מ״ש הר״מ ז״ל שם והוא שיתפלל תפלת הציבור אפשר בזמן שהציבור מתפללין מיירי ומרב נחמן דאמר לודעי למר (עיין נ״ץ) ועכ״מ שם:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:32"
+        },
+        "33": {
+          "he": "יקבע עמ״א ירושלמי עא״ר כ״ב. ובקיץ בביה״כ ובחורף בבית החורף הוי קביעות מקום כדמצינו בי סיתוא בקייטא כו׳:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:33"
+        },
+        "34": {
+          "he": "מקום עמ״א ועסי׳ קע״ח ורע״ג ואי״ה שם יבואר בזה. עיין לבוש אשר ישתחוה איתן עתיד במקום בינוני מורה עבר ועתיד:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:34"
+        },
+        "35": {
+          "he": "שיעור עמ״־א הב״י הבין דהטור חולק אמ״ש מהר״מ מרוטנבורג דמהירושלמי דלתותי דלת סגורה (פתח חלל) ואין מביט ש״מ דאין לחלק ומש״ה כתב שהחושש לג׳ פירושים יוצא אבל הב״ח פי׳ דהירושלמי ע״א הוא דצריך לכנוס ב׳ פתחים והיינו עזרה להודיע שאנו א״צ לאמצעי אע״פ שנכנסתי לחצר ביה״כ הולך לבית הכנסת גופא לאו כמלך ב״ו שעומד השואל בחצר והביא מדרש פ׳ כי תבוא יע״ש. ומ״מ מטור אין משמע כך שנתכוין לזה יע״ש. ועכשיו עושין עזרה ולביה״כ נשים אין עושין וא״י למה. ומ״ש מכבדין ברכות מ״ז א׳. ואפי׳ יהיה הוא הי״א:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:35"
+        },
+        "36": {
+          "he": "ארון עמ״א ברכות ה׳ ב׳ והמקשה דפריך היינו במטה דידהו ולכאורה מטה אחד לשכיבה ולישיבה ולא הוי קבועה אלא דהט״ז ה׳ הקשה ממציעא דב׳ מטות היו להם ולישני במטה דלשכיבה ועפר״ח וי״ל כעין מ״ש בס׳ חמד משה דא״כ מה מעליותא דהיה מצטער וע״כ לפני מטתו היכא דיתיב וגריס ואין קבוע וצריך להיות להמקשת מטה ל״א קבוע והיינו אותה דלישיבה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:36"
+        },
+        "37": {
+          "he": "הבגדים עמ״א דצריך עיניו למטה ומש״ה למעלה מקומת איש שרי עפר״ח והביא ד״ה דפרק הוציאו לו אי שרי לצור ציורים במחזורים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:37"
+        },
+        "38": {
+          "he": "אם עמ״א ש״ך י״ד רי״ב אות ל׳ ועפר״ח דלאחורי רבו צריך ד״א חוץ ג׳ פסיעות מטעם שמא יצטרף לפסוק ואסור תוך ד״א נגד המתפלל ולפני רבו ד״א מצומצמות די יע״ש. ואלמימרא דנקרא רשות אחר שרי כה״ג אפי׳ תוך ד״א ויראה לעבור נגד המתפלל אפשר אף כה״ג אסור:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:38"
+        },
+        "39": {
+          "he": "אחורי עמ״א דבזיון הוא. וחוץ לד״א אפשר אף הב״י מודה דשרי ע׳ אות ל״ח בזה ועי״ד רמ״ב סעיף ל׳ רבו מובהק דוקא יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:39"
+        },
+        "40": {
+          "he": "ישתוק עמ״א בע״ח במ״א אות א׳ לק״ש מרחוק ד״א ולתפלה אסור לזוז ממקומו היינו שא״צ להפשיט הבגדיו דהוי הפסק גדול אבל הליכה לא חשיב כ״כ הפסק. ומ״מ מ״ש המחבר בסכ״ו שאין חילוק בין תפלה לק״ש הא יש חילוק במ״ר על בגדיו ואין מכוסים דבק״ש מפשיט לא בתפלה. ולבוש כתב דבע״ח בלא״ה אין נקי מבגדיו כו׳ יע״ש הביאותיו בע״ט והמ״א נקיט רק ריש דבריו שיש לחלק דשם אנוס הוא דשותתין ולא היה יודע מקודם לכך א״צ להרחיק משא״כ כאן דתינוק השתין אמרו שירחיק דשם אנוס טפי ובגמ׳ משמע גברא דהוי הוא לא אנוס והמעיין בלבוש עיקר החילוק דהואיל ובלא״ה אין בגדיו נקיים יע״ש ע׳ פ״ד סוף דרך הרבים י״ל בביה״כ ה׳ מקבל תפלות ויכול להתפלל בלשון ארמי עסי׳ ק״א:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Eshel Avraham 90:40"
+        }
+      }
+    },
+    "pm_mz": {
+      "id": "pm_mz",
+      "name": "Pri Megadim (Mishbetzos Zahav)",
+      "hebrew": "פרי מגדים — משבצות זהב",
+      "seifim": {
+        "1": {
+          "he": "ואפי׳ עיין ט״ז מהרי״א סובר בכלים מטעם ביעתותא פחות מג״ט נמי אסור ואפי׳ להשמיע לצבור אסור רק אמקום גבוה ג״ט בקרקע וכדומה דליכא ביעתותא שרי להשמיע (עיין נ״ץ ולמ״ש א״ש) ובשבת בביקור חולים ע״ב הטעם דכסא דאפילו פחות מג״ט לא בטיל ומטעם גבהות ה״ה כאן מטעם גבהות ולהשמיע שרי בכסא ג״כ אלא דא״א לומר בכסא כ״ש נמי יהא גבהות בע״כ צריך שיעור והיינו ג״ט והא דלא אמר רק לא יעמוד במקום גבוה לחוד ה״א כלי רשות בפ״ע הוי ושרי קמ״ל ועיין בחידושינו ברכות יו״ד ב׳ ריב״ח לא יעמוד במקום גבוה תנ״ה לא יעמוד ע״ג כסא כו׳ ולא במקום גבוה וריב״ח נקיט גבוה לחוד ש״מ לכאורה כסא נמי מטעם גבהות וכט״ז ועב״ח. ויש לחקור אם עבר והתפלל במקום גבוה מהו הדין שהרי בסי׳ ע״א ס״ז בביה״ק לא יצא ונסתפקנו ג״כ בדרבנן עיין סי׳ ע״ו ס״ח וקפ״ה א״כ אם חוזר ומתפלל כאן או לאו. ועיין סימן צ״ח ב׳ מ״ש הטור שלא יחוץ בינו לקרקע לאו לעיכובא אלא מצוה ממובחר אין פי׳ לעיכובא דחוזר ומתפלל אלא דינא הוי עיכובא רק מצוה מן המובחר ועיין פרישה כאן דהטור בצ״ח למד מכאן ע״ג כסא מטעם חציצה ואפי׳ פחות מג״ט אסור ועט״ז צ״ח ב׳ ומשמע שם בגבוה ג׳ מטעם חציצה נמי ולפ״ז להשמיע איך מותר ולכאורה קרקע מקום גבוה הר וחלול ל״ש חציצה וכסא אה״נ אפי׳ פחות מג״ט אסור אלא דאזיל לשטתיה כאן דלטור כסא ג״כ דוקא גבוה ג״ט משום גבהות ואה״נ דאית חציצה ביה ולהשמיע למאן דחש לטור בצ״ח אסור פחות מג״ט בכלי נמי ל״ש חציצה דכארעא סמיכתא דמי אפי׳ בכלי ושאני רצפה דאסור להוסיף עליה כ״ש מש״ה הוי חציצה כלי ובר״מ פ״ה מה״ת ה״א דאין מעכבין: אמר ההדיוט הכותב מפני שיש לי בכאן הרהורי דברים אמרתי לפורטם א׳ מ״ש הט״ז דיאסר רק מקום גבוה אפשר כוונת מהרמ״א לכוללם והכי לימא לא יעמוד במקום גבוה ע״ג מטה כסא ספסל לא כ״פ לא ולא לאקדומי׳ למקום גבוה דשפיר טפי. ב׳ מ״ש מביקור חולים בשבת י״ב ב׳ אמת ברי״ף ורמב״ם פי״ד מה׳ אבל ה״ו ורא״ש גורסין כמו כאן אבל המחבר בי״ד של״ה ס״ג השמיט מקום גבוה רק מטה כסא ספסל וכר״ן דהטעם שהוא למעלה מראשו של חולה הא כשהחול׳ ע״ג מטה רשאי לישב על כסא שן א״כ גבהות דהתם פחות מג״ט כל שהוא למעלה מראשותיו של חולה אסור. ג׳ לטור קשה למה אסרו גבהות הא להשמיע שרי ואמאי לא משמע חציצה להשמיע נמי אסור. ד׳ מ״ש להוסיף על הרצפה בזבחים כ״ה א׳ אמרו מה מצינו מבגדי כהונה יע״ש (בזבחים קי״ב לא חשיב מה בין במת ציבור ליחיד ולא חשיב חציצה תני ושייר עת״ו כ״ד חציצה בגדי כהונה ובמה לית בגדי כהונה אין מקומו פה) ה׳ מ״ש המחבר בס״ב מקום ד״א דוקא הא גבוה יו״ד על ד״ט הוי רשות אחרת לד״ת בסי׳ ע״ט ס״ב ומ״א ה׳ כ״ש כאן אמאי לא חשיב רשות בפ״ע וי״ל זה ועמ״ש במ״א עוד מזה אי״ה. עיין לקמן שמ״ה ס״ה כלי בשבת כארעא סמיכתא פחות מג״ט ומ״מ הנך רואה שאין ללמוד משם דמקום גבוה י״ט על ד״ט יוכיח וכדכתיבנא כאן ואין להאריך: עיין ר״מ פ״ה מה״ת ה״א ח׳ דברים אם עבר אין מעכבין מבואר דעומד במקום גבוה אין חוזר ומתפלל עיין שם הלכה וי״ו ז׳ יע״ש:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 90:1"
+        },
+        "2": {
+          "he": "במקום עט״ז ולתי׳ הב׳ קולא בבקעה שאין מצויין ב״א שרי ולתי׳ א׳ דוקא במקום צניעות שיהא לבו נכנע עב״ח וכתב עוד דויצא יצחק לשו״ח ולא כתיב בלשון אחר לומר שהחביא עצמו תחת אחד השיחים ולפ״ז בדרך כשיש יער יעמוד שם ויתפלל אם אין קשה עליו איחור דרכו ונקרא מקום צנוע ומברכות ג׳ א׳ דאמר היה להתפלל בדרך והשיב מתיירא שלא יפסיקו עוברי דרכים אין ראיה לתי׳ הב׳ של תו׳ וכפי מה שהבין הב״י דא״צ לתי׳ א׳ דמקום צנוע בעינן אפ״ה מדאמר ליה אליהו ז״ל היה להתפלל בדרך טוב יותר מלכנוס לחורבה בהכרח השיב לו דמתיירא מעוברי דרכים והשיב לו ת״ק. והנה בית אפל ובקעה לכאורה שניהם שוין מטעם הכנעה וז״א דבקעה חצוף מקרי שאין נכנע להסתר מפני בוראו אע״ג דאם יסתר איש במסתרים כו׳ עיין נ״ץ (מ״ש בחלונות שיהא לבו נכנע כשמסתכל לשמים להמחבר א״צ לקבל ירושלים) וא״י למה השמיט המחבר דחציף מאן דמצלי בבקעתא. וסומא אין נ״מ לו בית אפל אי חלון שלא נגד המזרח אבל בקעה ובית אפל גם לסומא טוב במקום צניעות. בליל יוה״כ תפלת ערבית אין לסגור החלונות בבית הכנסת בדפין מטעם לקבל ירושלים:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 90:2"
+        },
+        "3": {
+          "he": "מותר עט״ז בשעת התפלה דוקא באונס שא״א לו להתפלל ירוק וזורקו לאחוריו (ה״ה שלא בשעת תפלה עמ״א כ״ז) ומ״מ בתפלה אין לדרוס ברגלו שאסור להפסיק ועיין לבוש מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 90:3"
+        },
+        "4": {
+          "he": "אם עט״ז דוקא נכנסו ביחד ועמ״א אות כ״ט מזה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 90:4"
+        },
+        "5": {
+          "he": "כגון עט״ז האריך ועמ״ש במ״א אות ל״ו מזה. ומ״ש לחלק בין שיש בו צורך תפלה המ״א דחה זה יע״ש ומ״ש שיעצים עיניו דהטעם הוא דשלא יביט באותו דבר אבל לקמן סי׳ צ״ח בהמחבר מטעם חציצה בינו לכלי ה״ה שלא יחוץ בינו לכותל א״כ אין מהני עצימת עינים וי״ל בזה דתוך ד״א אסור וחוץ לד״א רשות אחרת הוא ושרי (עמ״א ל״ו) ובהכי מתיישב הא דכתב המחבר סכ״ב שיש ליזהר להתפלל אחורי אדם וההיא דאל יתפלל אחורי רבו איסורא נמי הוי והקשה א״ר אות כ״ז רבי ירמיה איך צלי אחורי דרב לכתחלה עיין ברכות כ״ז ב׳ וי״ל דרבי ירמיה היה מתפלל חוץ לד״א מצומצמות ולא הרחיק כשיעור שלש פסיעות עמ״א אות ל״ח והבן זה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 90:5"
+        },
+        "6": {
+          "he": "דברי תפלות עט״ז ועא״ר כ״ז בי״ד קמ״א (סעיף ד׳ בהג״ה) בשל רבים ליכא חשדא אפ״ה בבית הכנסת אסור ולפ״ז לאו דוקא דברי תפלות אפי׳ לצור כך ציורים שנראה כעבודת עכו״ם אסור בבית הכנסת. בא״ר כ״ח בשם הרדב״ז דאסור להתפלל נגד המראה שלא יאמרו לבבואה הוא משתחוה יע״ש ועי״ד קמ״א הרבה דינים מענין זה:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 90:6"
+        },
+        "7": {
+          "he": "ועבי״ד עט״ז הרב הראה לי״ד שם כתב הכ״ל מותר משמע אפי׳ לפניו דלא כמ״ש הב״י כאן ועש״ך שם למ״ד ועמ״א כאן אות ל״ח:",
+          "en": "",
+          "ref": "Peri Megadim on Orach Chayim, Mishbezot Zahav 90:7"
+        }
+      }
+    },
+    "er": {
+      "id": "er",
+      "name": "Elya Rabbah",
+      "hebrew": "אליה רבה",
+      "seifim": {
+        "1": {
+          "he": "[א] ואפילו אינן גבוהין ג' וכו'. והב\"ח ונחלת צבי חולקים דאם אינן גבוה שלושה טפחים מותר כמו במקום נמוך דגם בכסא וספסל אין הטעם אלא משום גבהות עיין שם, וכן הט\"ז הקשה מהא דאמרינן הנכנס לבקר חולה לא ישב על גבי מטה וכו' ועל מקום גבוה וכו', ואי שם אפילו פחות משלושה הוי כגבהות שיושב בכסא לפני השכינה אם כן היה לו לפרש גם כאן לענין עמידה שהטעם משום גבהות, עד כאן. ולעניות דעתי לא קשיא מידי דסבירא ליה דבישיבה יש גבהות על כסא קטן אבל לא בעמידה, ועוד דבש\"ס באמת אפשר לפרש כן דנקט טעם גבהות אכולה, וכן במהרי\"ל הלכות תפילה משמע לי דאסור. ועוד הא כתב בדרישה הטעם דאסור בכלי משום חציצה בינו ובין הקרקע ואם כן ודאי אף בפחות משלושה אסור וכן כתב הלבוש לקמן סימן צ\"ח, גם הב\"ח שחולק לקמן על דין דחציצה מכל מקום הוא מסיק שמצוה לדקדק שלא יהא דבר חוצץ עיין שם. ומה שהאריך בזה הט\"ז על בית יוסף שם לא ירדתי לסוף דעתו דבאמת הפירוש כן בבית יוסף למעיין. ונראה דמה שאמר הלבוש סוף סעיף זה דמותר בשליח ציבור היינו במקום גבוה, אבל על גבי כלי אף בשליח ציבור אסור מטעמים הנזכרים. ומקום גבוה דמותר בשליח ציבור נראה דאף בגבוה עשרה מותר וכן משמע בכלבו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:1"
+        },
+        "2": {
+          "he": "[ב] ובשאר אילנות וכו'. דוקא בתפילה, אבל בקריאת שמע שאין צריך כוונה רק פסוק ראשון אפילו בעל הבית אין צריך לירד, ועיין לעיל סוף סימן ס\"ג:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:2"
+        },
+        "3": {
+          "he": "[ג] שתים עשרה חלונות וכו'. ונראה שאין צריך שיהא כולם לקבל ירושלים, גם לפי הטעם מבואר של כל הצדדים יהיו פתוחים, לחם חמודות סוף פרק אין עומדין. כתב פסקי תוס' מנהגים דיש ליזהר לכתחילה להתפלל בבית שיש בו חלונות לצד מזרח כדי לישא עיניו בכל פעם שמזכיר השם נגד חלונות ואם אי אפשר ליזהר בכך יתפלל על כל פנים בבית שיש בו חלונות בצפון או דרום כדי שיוכל לצדד לישא עיניו למעלה, עד כאן, ועיין לקמן סימן צ\"ח:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:3"
+        },
+        "4": {
+          "he": "[ד] מפני שכשהוא וכו'. ולפי זה אף בשדה שאין עובר ושב אסור כתירוץ ראשון דתוס' סוף פרק אין עומדין [ל\"ד ע\"ב ד\"ה חציף]. אבל ראיתי באגודה שפסק כתירוץ שני דתוס' דבשדה שאין עובר ושב מותר, וכדאי לסמוך עליו. כתב הלבוש אף על גב דכתיב ויצא יצחק לשוח בשדה שאני התם שהיה הר המוריה שנכנע לבו משום עקידתו, עד כאן. צריך לומר שפירש כן דברי תוס' שם, אבל הב\"ח פירש דהר המוריה נקרא בשם שדה אבל באמת היה מוקף מחיצות. עוד פירש דהיה מתפלל בין אילנות ולזה אמר לשוח לשון שיחים אילנות:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:4"
+        },
+        "5": {
+          "he": "[ה] ומפני וכו'. אף בתרי וכשרי וחורבא חדתי שאין חשש זונה ומפולת אפילו הכי אסור משום מזיקין דבמקומן חיישינן, ברכות דף ג' ופירשו תוס' דוקא כשידוע שרגילין שם מזיקין, אבל בסתם אין חשש מזיקין בתרי עיין שם. ואבוקה כשנים וירח כשלושה. ונראה מש\"ס שם דהוא הדין בלא תפילה אסור ליכנס אלא דרבותא קא משמע לן הפוסקים דאף לתפילה אסור:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:5"
+        },
+        "6": {
+          "he": "[ו] אם אינו מחזיר וכו'. מותר להתפלל שם בשעת הדחק (לבוש), וכתב מלבושי יום טוב זה דלא ככל המפרשים דלרש\"י בכהאי גוונא ודאי שרי לכתחילה דהיינו הא דאמרינן מהדר אפיה לבי כנישתא לית לן בה, ולר\"י נראה גם כן דלא מיתסר בכהאי גוונא כיון שאין אחוריו אחורי בית הכנסת ומתפלל לצד שציבור מתפלל בה, עד כאן. ותימא הא בלחם חמודות דף ה' כתב עליו שדבריו נכונים, צריך לומר דהא דאמרינן בש\"ס לית לן בה, היינו דלא נקרא רשע אבל באמת טוב יותר שנכנס לבית הכנסת, ולפי זה הוא הדין בצדדין אף שהפך פניו לבית הכנסת או למזרח, ואם כן דמי זה למי שיתפלל בבית ואינו נכנס לבית הכנסת. והנה הבית יוסף כתב בשם הגהות מיימוני וסמ\"ק זה לשונו יש להחמיר כדברי שניהם ואם כן העומדים חוץ לבית הכנסת למזרח או למערב אל יהפך פניו למזרח או למערב דאם כן הוי כדו בר לאחד מן הפירושים אלא או יהפוך פניו לצפון או לדרום, עד כאן. ותמהו בתמיה גדולה וקיימו הב\"ח ולחם חמודות ונחלת צבי דהא לשני הפירושים לא הוי כדו בר אם עומד למערב ופניו למזרח עיין שם. ועד שריבתה התמיה לגדולים הנזכרים לעיל יגעתי ומצאתי תודה לאל כי בהגהות סמ\"ק סוף סימן י\"ב כתב קודם זה זה לשונו, אחורי בית הכנסת לפי שאנו עושין פתח בית הכנסת במערב, ולאותן המתפללין נגד המערב הוי איפכא עד כאן לשונו, ואחר כך כתב דברים הנזכרים לעיל. ואם כן נראה לעניות דעתי ברור ופשוט דמה שכתב ואם כן העומדים חוץ לבית הכנסת למזרח או למערב קאי למעלה והיינו לדידן שאנו מתפללין למזרח אם עומד אחורי מזרח דלא יהפוך פניו למזרח כחומרי שני הפירושים, וכן לאותן המתפללין במערב או מעומד אחורי מערב אל יהפך פניו למזרח או למערב, אבל אם עומד במערב ופניו למזרח מודה דמותר, ואין ספק שכן הפירוש בהגהות מיימניות וכעת אינו בידי, וכן מצאתי מבואר באגודה פרק עושין פסין:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:6"
+        },
+        "7": {
+          "he": "[ז] בשאר צדדים וכו'. עיין לעיל דהוא הדין אם הופך פניו למזרח וצדו הוא לכותל בית הכנסת אין לחוש, אבל במזרח ומערב אף על פי שהופך פניו לצדו או לדרום יש להסתפק וכו' ויש להחמיר, לבוש. כתב לחם חמודות לא ידעתי למה לא יסמוך על דברי רב האי שהביא בית יוסף שהתיר בהדיא, עד כאן. ונראה לעניות דעתי דמסופק במה שכתב בית יוסף בשם הגהות מיימוני דיש מפרשים אף לצדדין אסור ואף שדחאו בית יוסף בשתי ידים ראיתי בבדק הבית שלו שמחק הדחיה עיין שם, ועוד דרב האי מיירי בעזרות שבצד המזרח וסבירא ליה להקל בזה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:7"
+        },
+        "8": {
+          "he": "[ח] אבל אם הוא מתפלל וכו'. כתב שיירי כנסת הגדולה ראיתי בקוטנטיניה קהילות רבות עזרותיהם לצד מזרח ופניהם כלפי מזרח ואחוריהם כלפי כותל מזרחית שבבית הכנסת ונראה דסבירא ליה דעזרה הוי כמו בית, עד כאן. ומרב האי שבבית יוסף לא משמע הכי ואולי סבירא ליה לרב האי דגם בבית אסור ולא קיימא לן כוותיה אלא שהבית יוסף לא כתבן במחלוקת. ומה שכתב הלבוש או בחצר וכו' כן מבואר בבית יוסף דוקא כשעומד ברחבה ופנוי מכל סביביו הוא דאסור ולכן תמיהני על מגן אברהם שכתב דבחצר בית הכנסת אסור. ואפשר דסבירא ליה דדוקא חצר שאין מיוחד לבית הכנסת מותר אבל לא משמע הכי בבית יוסף ולבוש, וכן מסתבר דדמי לעזרה גם אם תיקשי מנא ליה הא:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:8"
+        },
+        "9": {
+          "he": "[ט] שאינו ניכר וכו'. ומכל מקום אם כותל מערבי שבבית שהוא כותל מזרחי של בית הכנסת נמשכת שיוצא קצת ממנה ופונה למקום אחר ואינו פונה לכותל בית הכנסת אני נזהר להתפלל כנגד אותו מקום שמושכת לצד חוץ, שיירי כנסת הגדולה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:9"
+        },
+        "10": {
+          "he": "[י] עם הציבור וכו'. אפילו היו בהם חוטאים רמב\"ם פרק ח' מהלכות תפילה. וכתב בספר חסידים סימן תשע\"ב לא ישב בתפילה עם אדם רשע מפני שמהרהר הרהורים רעים, והשכינה מתרחק ממנו ועיין עוד בסימן תשע\"ג, אבל בשל\"ה דף רמ\"ט כתב דאם הצדיק מתפלל בכוונה לא בשביל הרשע ימאס. ודע שאף שיש לו עשרה בביתו ישתדל להתפלל בבית הכנסת וכן משמע בכנסת הגדולה בשם הרמב\"ם וכן משמע בסעיף י\"ח גבי קדושת בית המדרש מיהו כשרואין שיש בבית הכנסת ברוב עם רוב בלבול ואין אדם שומע לא קריאת התורה ולא תפילה, כתב תשובת רדב\"ז סימן י\"ח דעדיף להתפלל בעשרה בביתו, ומה שכתב השולחן ערוך ואם הוא אונס וכו' פירוש שתש כוחו אפילו אינו חולה, ודוקא אם טריחא ליה לאסוף עשרה. כתב בתשובת בית יעקב סימן ע' דיש לקנוס האנשים שמונעים לילך לבית הכנסת משום שעוסקין בתורה או משום שמשתכרין ממון ולעשירים יש לקנוס יותר, עד כאן. אף שראייתו מסימן ק\"ח סעיף ח' יש לדחות דשם עובר זמן תפילה מכל מקום חזינן דלא נבטל דבר מצוה משום ממון וזה נמי מצוה הוא והוי מחשב הפסד מצוה כנגד שכרה ובפרט לבעל תורה אף שעוסק בלימוד מכל מקום איכא חשדא וחילול השם כמו שמבואר בסעיף י\"ח. כתב מגן אברהם משמע בעבודה זרה דף ד' אם מתפלל מוסף בשעה שהציבור מתפללין שחרית לא מיקרי בשעה שהציבור מתפללין, ועיין לקמן סוף סימן רל\"ו. עוד כתב בימות הקיץ שהציבור מאחרים תפילת שחרית והדר בישוב אסור אפילו ללמוד כמו שמבואר בסימן פ\"ט סעיף ו' וסימן רל\"ה, לכן מוטב שיתפלל תיכף בהנץ החמה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:10"
+        },
+        "11": {
+          "he": "[יא] אבל בלא שעה עוברת וכו'. הב\"ח ועולת תמיד הביאו לשון רבינו יונה אם רואה ששעה עוברת דאם ילך לביתו להתפלל שם איכא לחוש ששעה עוברת בשעת הליכה שרי ולכך פסקו דאם יש זמן לילך לביתו ילך לביתו דוקא. ותמיהני דלשון רבינו יונה פרק תפילת השחר אינו כן אלא זה לשונו, אם רואה ששעה עוברת ואין מתפללין מתפלל בפני עצמו עד כאן לשונו. משמע דאף שאפשר לילך לביתו מכל מקום מתפלל בבית הכנסת דכיון ששעה עוברת אין צריך להמתין על הציבור אפילו בבית הכנסת וכן כתב מגן אברהם וכן משמע בבית יוסף ולבוש. ובביתו אפשר דמותר אף אם אין שעה עוברת אלא דבריב\"ש סימן ע\"ה איתא שלא היה יוצא להקדים תפילתו לתפילת ציבור:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:11"
+        },
+        "12": {
+          "he": "[יב] נקרא שכן רע וכו'. משמע אפילו אין מנין בבית הכנסת דהא סתמא קתני מי שיש לו בית הכנסת. ועוד ראיה שהרי דניאל התפלל ביחיד מכל מקום התפלל במקום רנה ותפילה כן כתב מטה משה דף ל\"ז, ולכאורה מדניאל לא נלמד דנקרא שכן רע אם אינו הולך לבית הכנסת, וצריך לומר דאינו מביא מדניאל אלא שיש חיוב אף ליחיד להתפלל בבית הכנסת. וטעמא דנקרא שכן רע כתב הפרישה שכן רע לבריות הדרים עמו בעיר כיון שגורם שאין השכינה שורה עליהם, ולכך נקרא גם להקב\"ה שכן רע על דרך משנאך ה' אשנא. גם יש לומר ששכן רע אינו נהנה בשכונת חבירו כן הוא מראה שאינו נהנה שיגור השכינה אתו. איתא בפרק הפועלים [בבא מציעא דף ק\"ז ע\"א] דאם יש שני בתי כנסיות מצוה לילך לרחוקה דשכר פסיעות יש לו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:12"
+        },
+        "13": {
+          "he": "[יג] מצוה לרוץ וכו'. מספר יראה לרבינו יונה משמע דוקא סמוך לבית הכנסת מצוה לרוץ, וכתב הפרישה דהכי מסתבר דקודם לכן אין נראה שמתכוון לשם מצוה בית הכנסת, ושיירי כנסת הגדולה בשם שתי ידות פירש שבכל הדרך יש לו לרוץ ובבואו סמוך לבית הכנסת ימהר יותר. כתב עבודת הקודש דבבית הכנסת עצמה אסור לרוץ אלא ילך באימה ויראה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:13"
+        },
+        "14": {
+          "he": "[יד] אבל כשיוצא וכו'. כתב בעל עין יעקב ואם דעתו לחזור וליכנס מותר לרוץ, וכן כתב של\"ה דף ע\"ד ומגן אברהם ודלא כמעדני מלך דף ה'. עוד כתב של\"ה ומבית הכנסת לבית המדרש מצוה לרוץ:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:14"
+        },
+        "15": {
+          "he": "[טו] אסור וכו'. שנראה שהיתה ישיבתו כמשא ורץ מפני שקץ בה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:15"
+        },
+        "16": {
+          "he": "[טז] מותר וכו'. הב\"ח פירש דברי הלבוש דלאו בתפילת שמונה עשרה קאמר דבתפילת שמונה עשרה ודאי אסור לרוק אלא מיושב קאמר, עד כאן. ולעניות דעתי דהיינו שכתב הלבוש ולא יוכל להתפלל כהוגן שזה מותר אפילו בתפילת שמונה עשרה כדלקמן סימן צ\"ז סעיף ב':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:16"
+        },
+        "17": {
+          "he": "[יז] עם היה וכו'. שאפילו מאה באים אחריו נוטל שכר כנגד כולם גם מאריכין ימיו ושנותיו, פירש רבינו יונה כל אחד מעשרה נוטל שכר כל הבאים אחריהם, אבל בעשרה הראשונים עצמן אין דין קדימה לאחד על חבירו, אבל מעדני מלך דף ג' פירש דאף בעשרה עצמן כל הקודם זכה שראשון נוטל שכר התשעה וכל הבאים אחריהם והשני נוטל שכר השמונה והבאים אחריהם, ועל דרך זה כל העשרה. איתא בפרק שלושה שאכלו [דף מ\"ז ע\"ב] דמותר לשחרר עבדו להשלימו לעשרה, ומה שתמה מגן אברהם על הר\"ן עיין בחידושי רשב\"א פרק השולח [גיטין דף ל\"ח ע\"ב] ויתיישב:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:17"
+        },
+        "18": {
+          "he": "[יח] חייב חבירו. משמע שראוי להחמיר אף שבא בסוף שידע שלא יוכל לסיים עמהם תפילתו וכן משמע בלחם חמודות:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:18"
+        },
+        "19": {
+          "he": "[יט] עד מיל וכו'. עיין לקמן סימן צ\"ב סעיף ד' יתבאר זה ונראה דלצדדין כמלאחריו דמי וכן כתב בספר ברכת אברהם דף מ', גם נראה לי ראיה מסימן ע\"ט בצואה מצדדיו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:19"
+        },
+        "20": {
+          "he": "[כ] שמכל שכן וכו'. כתב לחם חמודות דף י\"ד יראה לי שכן גם ההולך בדרך לא החמירו בחזרות אלא אם אין מעכבו בכהאי גוונא דכיון דלא ישכים איתא ליה במכל שכן ואפילו הכי דוקא אם יכול וכו', וכן הדין בנטילה לקמן סימן צ\"ב דוקא אם יכול וכו'. כתב מגן אברהם ואם תאמר הא אמרינן דף י' דאם לדבר הרשות הלך אין נוגה לו דהוה ליה לבטוח בשם ה', ויש לומר דהתם כשהלך בעירו לאיזה עסקים אבל יוצא בדרך לא הטריחו כל כך, עד כאן. עוד נראה לי דלא מיקרי רשות אלא כשהלך לטייל כדלקמן סוף סימן רמ\"ח, אבל לסחורה וכיוצא בו הוא מצוה אלא דצריכין ליישב דהוה ליה לבטוח בשם ה' על הולך לטייל:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:20"
+        },
+        "21": {
+          "he": "[כא] לא ירגיל וכו'. רק לפרקים ביחידים וכו', (לבוש), כתב מלבושי יום טוב לדבריו דברי הרא\"ש שבתשובת כל טעם בפני עצמו מספיק ודו\"ק, עד כאן לשונו. ולכאורה קשיא דגם בדברי רמ\"א צריך לומר כן שכתב נמי כלבוש, ועיינתי בלחם חמודות דף ה' וכתב באמת הכי על רמ\"א עיין שם באריכות דנראה דעתו דמי שתורתו אומנתו ואינו מבטל יכול להתפלל תמיד בביתו. ולעניות דעתי דעת רמ\"א ולבוש דבזמן הש\"ס היה הרבה שתורתן אומנתן ואם כן דנו אותן לכף זכות אף שהיה מתפללין בביתן, אבל עתה שאין אפילו אחד מעיר ושנים ממשפחה שתורתו אומנתו חיישינן שלא ידונו אותו לכף זכות שהמון העם לא ידעו בכך ולכן לא ירגיל בכך והשתא שפיר הוצרך הרא\"ש לכל הטעמים ודו\"ק:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:21"
+        },
+        "22": {
+          "he": "[כב] גם בבית הכנסת שקבוע וכו'. בירושלמי מבואר דגם כשפעמים אינו יכול לילך לבית הכנסת שמתפלל בביתו צריך ליחד מקום וכן כתב מעדני מלך. נראה לי תוך ארבע אמות חשוב מקום אחד דאי אפשר לצמצם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:22"
+        },
+        "23": {
+          "he": "[כג] יכנס וכו'. בירושלמי יכנס אדם לפנים משני דלתות, ופירש הב\"ח דכל בית הכנסת צריך שיעשו עזרה לפני בית הכנסת כדי שיכנס לפנים משני דלתות דוגמת האולם שהיה לפני ההיכל. ועולת שבת והפרישה כתבו על דרך הסוד נראה לי שרמזו שיכוין שתכנס תפילתו לפנים מהשתי שמות הנקראים דלתות וזהו שישהא עצמו בהתבודדת ותכנס ותגיע התפילה שמה:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:23"
+        },
+        "24": {
+          "he": "[כד] חוצץ וכו'. וטעמא שמסתכל ביה ומבטל כוונתו. לבוש לקמן סימן צ\"ח, כתב הטעם דומיא דקרבן דפסול חציצה, ולפי זה אפילו בדבר קטן יהא הפסק ויש ליישב:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:24"
+        },
+        "25": {
+          "he": "[כה] דבר קטן לא חשיב וכו'. בבית יוסף בשם אבודרהם מייתי ראיה לזה שאם כן האיך מתפללין בבית הכנסת לפני הספסלין שיושבין בהן, עד כאן. והא דספסלין שלנו שגבוהין עשרה ורחבו ארבע צריך לומר דחשבינן להו לדבר קבע כמו ארון ותיבה, אך צריך עיון בשטענדר ועיין במגן אברהם וט\"ז. וספסל שבבית מיקרי אינו קבוע והוי חציצה וכן כתב באגודה, ולשון הרוקח מטה וכסא ושולחן שאינן קבוע מפסיק, עד כאן. וזה אשתמיט לט\"ז עיין שם. ודין מטה דידן המיוחד לשכיבה כתב בית יוסף דאינו חוצץ, והב\"ח וט\"ז ונחלת צבי חולקין דמפסיק והביא ראיות, אבל המעיין יראה שיש לדחותם בקל ואין להאריך. ונראה לי לחלק דבמטה הרגיל לעמוד תמיד במקום אחד אינו חוצץ, לאפוקי מטה המטלטלים אותה ממקום למקום. כתב הט\"ז אם אי אפשר בקלות להתפלל בענין אחר כגון שמתפללין בעשרה באיזה חדר ואי אפשר לכל אדם לעמוד בלי חציצה אין ליכנס לחדר אחר עבור זה דלית בחציצה איסור אלא למצוה מן המובחר, ומכל מקום יעלים עיניו או יתפלל מתוך הסידור ולא יביט לחוץ:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:25"
+        },
+        "26": {
+          "he": "[כו] ואדם אינו חוצץ וכו'. בבית יוסף מביא ראיה מדקאמר הש\"ס לא יתפלל אדם אחורי רבו אלמא אחורי אדם אחר לית לן בה, וכתב הב\"ח דאיכא למידחי דאחורי רבו איכא איסורא, אבל אחורי אדם אחר ליכא איסורא, מיהו איכא ליזהר לכתחילה משום חציצה, עד כאן. וצריך לומר שזה דעת יש אומרים דאדם חוצץ אבל תימא האיך מתרץ לש\"ס דף כ\"ז דקאמר ר' ירמיה הוי מצלי אחורי דרב משום תלמיד חבר הוי הרי דאפילו לכתחילה היה מצלי אחורי אדם. לכן נראה לי ליישב דסבירא ליה דלאו אחורי ממש קאמר אלא רצה לומר סמוך לרבו ומשום לאחורי רבו שאינו עומד אצל רבו בשוה לו והיינו דפירש רש\"י שם לא כנגד רבו אצל רבו ומראה כאילו הם שוים ולא אחורי רבו דכמו יוהרא הוא דלכאורה אחוריו ממש לאו יוהרא הוא אלא פירושו שעומד נמי אצל רבו רק שאינו עומד בשוה לו אלא משוך לאחוריו שזה על כל פנים נמי יוהרא דמכל מקום עומד בצדו אבל אחוריו ממש לעולם הוי חציצה, ותוס' שם לא הבינו כן פירש רש\"י ולכן כתבו עליו ויש אומרים שנראה כמשתחוה לרבו, עד כאן. ולעניות דעתי יפה כיוון רש\"י ז\"ל שלא פירש כן, שאין פירוש אחוריו ממש אלא כדאמרן:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:26"
+        },
+        "27": {
+          "he": "[כז] או כותל וכו'. לכן אין לצייר ציורין בכותל בית הכנסת נגד פניו של אדם אלא למעלה מקומת איש. כתב הט\"ז לא ידעתי למה הוצרך להזהיר על דברי תיפלות בבית הכנסת הא אפילו בביתו אסור, עד כאן. ויש לומר משום דאיתא ביו\"ד סימן קמ\"א דבשל רבים ליכא חשדא, מיהו יש לחלק עיין שם:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:27"
+        },
+        "28": {
+          "he": "[כח] בצד רבו וכו'. פירש לחם חמודות דף ל\"א רבו מובהק שלמד רוב חכמתו ממנו, עד כאן, וטעמא שמראה שהוא שוה לרבו ואחורי רבו מיחזי כיוהרא או כמשתחווה לרבו. וכתב רדב\"ז סימן ק\"ו אנו אוסרים להתפלל כנגד המראה אפילו עיניו סתומות שלא יאמרו דמשתחוה לבבואה שלו תשובת רדב\"ז סימן ק\"ו ועיין שם מדינים אלו:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:28"
+        },
+        "29": {
+          "he": "[כט] אין לחוש וכו'. וכן המנהג וטוב להחמיר (לבוש) ומשמע דוקא לפני רבו טוב להחמיר:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:29"
+        },
+        "30": {
+          "he": "[ל] ד' אמות וכו'. משמע דאם אחוריו לרבו שרי ובלבוש מביא שני דעות בזה וקשה ביו\"ד סימן רמ\"ב סתם להחמיר וכן פסק הב\"ח:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:30"
+        },
+        "31": {
+          "he": "[לא] לא אחורי רבו וכו'. כתב בית יוסף משמע ליה דלהתפלל ואחוריו לרבו אפילו תלמיד חבר אסור דביזוי גדול הוא, עד כאן. כתב הלבוש אם יזדמן מקום התלמיד אחורי רבו יזהר שירחיק ממנו כדי שיוכל רבו לפסוע ג' פסיעות לאחוריו דאם לא כן יצער לרבו שיצטרך להמתין לו, עד כאן. פירוש ג' פסיעות וד' אמות כדלקמן סוף סימן ק\"ב:",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:31"
+        },
+        "32": {
+          "he": "[לב] עומד בתפילה וכו'. עיין באליהו זוטא ובלחם חמודות, ועיין לעיל סימן ע\"ח וסימן צ\"ב סעיף ג':",
+          "en": "",
+          "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 90:32"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "ואפילו אינן גבוהין ג'.  זהו מדברי מהרי\"א בב\"י והוכחתו מדתניא לא יעמוד ע\"ג מטה וכו' ואח\"כ אמר ולא על מקום גבוה ולא כללם בחדא מחתא בשיאמר לא ע\"ג מקום גבוה נראה דבא ללמדנו דמטה וספסל וכלים אפי' בלא גבוה ג' אסור לפי שיש לחוש  לטירדא שלא יפול ולא יתכוין בתפילתו ותמהתי ע\"ז שהרי בפ\"ק דשב' גרס ברי\"ף ורא\"ש ממש כה\"ג הנכנס לבקר את החולה לא ישב על גבי מטה כו' ולא על מקום גבוה ושם לא שייך לומר כן ואם נפשך לומר גם שם דע\"ג מטה כו' אסור אפילו בלא גבוה ג' מטעם כבוד השכינה שאצל החולה שנר' כגבהות ביושב ע\"ג כסא כו' א\"כ היה לו לפרש ג\"כ כאן לענין עמידה שהטעם משום גבהות אבל לפי הנלע\"ד אין כאן הוכחה למהרי\"א ממה שלא כללם התנא בחד בבא דאי לא קאמר אלא ע\"ג מקום גבוה הייתי אומר דע\"ג כלים שרי מטעם דה\"ל כרשות בפ\"ע כמ\"ש בתר הכי במוקף מחיצות דשרי קמ\"ל דלא וא\"כ  לא היינו צריכים לתת שיעור לישיבת הכסא אלא דמ\"מ צריך לתת שיעור דודאי בכסא כל שהוא אינו אסור ע\"כ ודאי הוי שיעורו עכ\"פ ג':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 90:1"
+        },
+        "2": {
+          "he": "במקום צניעו' כו'.  כתבו התוס' וא\"ת והא כתיב ויצא יצחק לשוח בשד' וי\"ל דהתם מיירי בהר המוריה [פי' שנקרא שדה אבל לא היה פרוץ) ועי\"ל בקתא דהכא מיירי בבקעה במקום שרגילין שם בני אדם לעבור והולכי דרכים עכ\"ל וכב\"י תימא לתי' השני משמע דהו' טעמא כדי שלא יפסיקוהו עוברי דרכי' ואין זה טעם מספיק לקראו חצוף עכ\"ל ותימ' על תמיהתו דלא נתכוונו התוס' בשביל הפסקה אלא כיון שרגילין שם בני אדם מקרי שלא במקום צניעות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 90:2"
+        },
+        "3": {
+          "he": "מות' לרוק בב\"ה.  פי'  שלא בשעת תפלת י\"ח אבל בשעת התפלה נתבאר לקמן סימן צ\"ז:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 90:3"
+        },
+        "4": {
+          "he": "אם נשאר אדם יחידי.  בב\"י מבי' דברי הר\"י דאם נכנס יחידי בשעה שלא יוכל לסיים עמהם תפלתו אין חבירו חייב להמתין לו דכיון שרואה שלא יוכל לסיים עמהם ונכנס איגלאי מילתא דאדעתא דהכי נכנס ואינו מפחד אם נשאר יחידי עכ\"ל. וכתב מו\"ח ז\"ל שכ\"ה גם דעת הטור שכתב שנים שנכנסו לבה\"כ כו' שהוא מורה על כונה זה שבתחלה התחילו ביחד דוקא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 90:4"
+        },
+        "5": {
+          "he": "כגון ארון ותיבה כו'.  בגמרא איתא תני' אבא בנימין אומר על ב' דברים הייתי מצטער כל ימי על תפלתי שתהא לפני מטתי כו' מאי לפני מטתי אלימא לפני מטתי ממש והאמר רב מנין למתפלל שלא יהא דבר חוצץ בינו ובין הקיר כו' אלא שתהא תפלתי סמוכה למטתי פירש\"י שלא אעשה מלאכה משעמדתי ממטתי עד שאתפלל כו' וכתבו התו' שלא יהא חוצץ אבל מילתא דקבוע כגון ארון ותיבה אין זה הפסק אבל מטה נראה שאין זה קבוע וכב\"י נראה דהיינו דוקא מטה שבזמן חכמי התלמוד שהיה לישיבה אבל מטה דידן שהיא לשכיבה הוי קבע וקשה דהא מתרץ שתהא תפלתי סמוכה למטתי היינו אחר שקם ממטתו  בבקר וא\"כ ל\"ל לאוקמיה בזה ולא כפשוטו כדעת המקשן ומיירי במטה של שכיבה וא\"ל דבזמן התלמוד היה חד מטה לשכיבה ולישיבה מ\"ה לא הוה קבוע כיון שצריך לטלטל אותה בשעת אכילה זה אינו דהא בפרק המקבל איתא לענין סידור בעל חוב דנותנים לו ב' מטות א' לאכילה וא' לשכיבה אם כן למה לא אוקי התרצן בזה כפשוטו במטה של שכיבה ע\"כ נלע\"ד דאין חילוק זה נכון וכל מטה הוה חציצה בזה ולענין החילוק שחילקו התוס' בין ארון ותיבה למטה צריך להבין מה יש ביניהם דהא גם התיבה של בה\"כ לפעמים מטלטלין אותה כדמצינו במס' תענית שבזמן תענית של גשמים היו מוציאין התיבה לרחובה של עיר אלא נראה דאלו דברים הם צורך התפלה בבה\"כ וע\"כ אין שייך בהם חציצה וע\"כ נוהגין בכל בתי כנסיות שיש לכל א' שטענד\"ר לפניו שמניחים הסידורים עליו ולא נחשבים כלל לחציצה אע\"פ שגבוהים י' ורחבן ד' אלא כדפי' משא\"כ במטה ושאר כלים שאין צורך תפלה בהם ע\"כ אין זה מקרי קבוע לענין תפלה והוה חציצה ומטעם זה נ\"ל דשלחן שבבית לא חשיב נמי הפסק וחציצה לתפלה דהשלחן הוי צורך התפלה שמניח הספר עליו ומ\"מ נראה דאף במידי דחציצה בינו לכותל אם א\"א בקלות להתפלל בע\"א כגון לפעמים שמתפללין בי' באיזה חדר וא\"א לכל אדם לעמוד בלי חציצה לכותל בודאי אל יעכב התפלה בשביל זה לילך לחדר אחר להתפלל שהרי טעם איסור חציצה כזה משום שלא יבטל הכוונה כמ\"ש ב\"י בשם הרמב\"ם בזה ואין זה אלא למצוה מן המובחר ולית ביה איסורא כשצריך לכך מצד דוחק המקום ונראה מ\"מ תקנה לזה שיעצים עיניו בשעת התפלה כמ\"ש בסעיף כ\"ג או יתפלל מתוך הסידור ולא יביט לחוץ ולא יביא לידי ביטול כוונה כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 90:5"
+        },
+        "6": {
+          "he": "דברי תפלות.  לא ידעתי למה הוצרך להזהיר ע\"ז בבה\"כ אפי' בביתו אסו' והרא\"ש לא הוצרך בזה רק לבטל איזה דעת בעלי בתים שהיה להם מחצלת כזאת לנוי בב\"הכ שהיה מצוייר עליה מענין עבודת הכותים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 90:6"
+        },
+        "7": {
+          "he": "ועבי\"ד כו'.  שם נתבאר דרחוק ד' אמות מועיל אפילו אם רבו לאחוריו דלא כמו שכתב ב\"י כאן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Orach Chayim 90:7"
+        }
+      }
+    },
+    "ma": {
+      "id": "ma",
+      "name": "Magen Avraham",
+      "hebrew": "מגן אברהם",
+      "seifim": {
+        "1": {
+          "he": "ואפי' אינן גבוהין ג'. דאין יכול לכוון משום ביעתותא וא\"כ זקן או חולה דשרי צ\"ל הטעם דלא הטריחוהו חכמים או י\"ל דמ\"ש דשרי בזקן וחולה מיירי בגוונא דליכא ביעתות' ועס\"ג גבי אילן. והב\"ח מתיר בכל ענין אם אין גבוהים ג':",
+          "en": "",
+          "ref": "Magen Avraham 90:1"
+        },
+        "2": {
+          "he": "זקן או חולה. שקשה לו לירד מעל המטה:",
+          "en": "",
+          "ref": "Magen Avraham 90:2"
+        },
+        "3": {
+          "he": "להשמיע לצבור. ועכשיו נהגו שהמקום שהש\"ץ עומד הוא עמוק משאר הב\"ה משום ממעמקים קראתיך ה' וכ\"כ האגודה ואפשר דמשום הכי אמרי' בגמ' בכל דוכת' יורד לפני התיבה ההו' דנחית וכו' ועב\"י סימן ק\"ן שמפרש בע\"א:",
+          "en": "",
+          "ref": "Magen Avraham 90:3"
+        },
+        "4": {
+          "he": "או חלונות. איתא בגמרא לא יתפלל אדם אלא בבית שיש בו חלונות ואף על גב דצריך שיתן  עיניו למטה כמ\"ש סי' צ\"ה ס\"ב מ\"מ כשנתבטלה כוונתו ישא עיניו לשמים לעורר הכוונה:",
+          "en": "",
+          "ref": "Magen Avraham 90:4"
+        },
+        "5": {
+          "he": "י\"ב חלונות. הטעם ע' בזוהר ויקהל:",
+          "en": "",
+          "ref": "Magen Avraham 90:5"
+        },
+        "6": {
+          "he": "לא יתפלל כו'. הקשו התוס' הכתיב ויצא יצחק לשוח בשדה וי\"ל דשדה היינו הר המוריה כדאמרינן אברהם קראו שדה א\"נ הטעם שלא יפסיקוהו עוברי דרכים ויצחק התפלל בבקעה במקום דלא שכיחי עוברי דרכים ע\"כ, והרב\"י דחה פי' השני משום דאמרי' בגמ' חציף עלי מאן דמצלי בבקת' ולתי' השני אין הטעם משום חציפות לכן פי' ב\"י הטעם כמ\"ש כאן בש\"ע ול\"נ לקיים פי' התוס' וה\"ק כשהוא מתפלל בבקעה הוא חצוף שמראה בעצמו שאפי' יעברו עליו כל עוברי דרך לא יתבטל מכוונתו וע' בזוהר בשלח ע' ק\"ה הקשה שם קושיא זו ומשמע שם דדוקא בבית יש להתפלל ופשוט דעוברי דרכים מתפללים בשדה:",
+          "en": "",
+          "ref": "Magen Avraham 90:6"
+        },
+        "7": {
+          "he": "ולא בחורבה. מוכח בגמרא דמוטב להתפלל בדרך מבחורבה ואם מתיר' שיפסיקוהו עוברי דרכים יתפלל תפלה קצרה עסי' ק\"י:",
+          "en": "",
+          "ref": "Magen Avraham 90:7"
+        },
+        "8": {
+          "he": "מפני חשד. שיחשדוהו שיש לו שם זונה ואי' בגמרא חורבה דקיימה בשדה ליכא חשדא דלא שכיח שם זונה (ע' בא\"ע סי' כ\"ב ס\"ה) ובחורבה חזקה ליכא למיחש למפולת ואם שנים נכנסין שם ליכא למיחש למזיקין אם לא שידוע שרגילין שם מזיקין ואבוקה כשנים וירח כשלשה:",
+          "en": "",
+          "ref": "Magen Avraham 90:8"
+        },
+        "9": {
+          "he": "והוא הפך הצד כו'. דעיקר קפידא שהקהל הופכין פניהם למזרח והוא למערב ואם עומד במזרח ב\"ה מחזיר פניו מב\"ה למזרח שצריך להתפלל לרוח שהצבור מתפללין, וי\"מ בהיפך דעיקר קפידא שיחזור פניו לב\"ה ואפילו עומד במזרח יהפוך פניו למערב:",
+          "en": "",
+          "ref": "Magen Avraham 90:9"
+        },
+        "10": {
+          "he": "לדברי שניהם. שלא יתפלל אלא במערב ויחזור פניו לבה\"כ:",
+          "en": "",
+          "ref": "Magen Avraham 90:10"
+        },
+        "11": {
+          "he": "יש להחמיר כו'. ואף על פי שאינו מתפלל לרוח שהצבור מתפללים מ\"מ כיון שאינו מתפלל  בהיפך לית לן בה (ב\"י תר\"י) והב\"ח כ' כאן מה שכתב ולא ידענא מאי קא קשיא ליה:",
+          "en": "",
+          "ref": "Magen Avraham 90:11"
+        },
+        "12": {
+          "he": "כשניכר שמחזיר. שעומד בחצר בה\"כ:",
+          "en": "",
+          "ref": "Magen Avraham 90:12"
+        },
+        "13": {
+          "he": "הסמוך לבה\"כ. וה\"ה בעזרה (ב\"י בשם הרמב\"ם) דלא כע\"ת:",
+          "en": "",
+          "ref": "Magen Avraham 90:13"
+        },
+        "14": {
+          "he": "אסור לעבור. ומוטב שיהלך אחורי אשה ולא אחורי ב\"ה בשעה שמתפללין [גמרא]:",
+          "en": "",
+          "ref": "Magen Avraham 90:14"
+        },
+        "15": {
+          "he": "עם הצבור. אף על פי שיכול להתפלל בביתו בי' מ\"מ ברוב עם הדרת מלך עסי\"ח וס\"ס תר\"ץ:",
+          "en": "",
+          "ref": "Magen Avraham 90:15"
+        },
+        "16": {
+          "he": "אנוס. פי' שתש כחו אף על פי שאינו חולה דאם היה ר\"נ חולה א\"כ מאי שאל לו מ\"ט לא אתי מר לבי כנישתא אלא ע\"כ שלא היה חולה ממש:",
+          "en": "",
+          "ref": "Magen Avraham 90:16"
+        },
+        "17": {
+          "he": "יכוין להתפלל וכו'. ודוקא אם טריחא ליה מילתא לאסוף י' ובסמ\"ג משמע שר\"נ לא היה רוצה להטריח י' אנשים שיבואו אצלו: משמע בע\"א דף ד' ע\"ב דאם מתפלל מוסף בשעה שהצבור מתפללין שחרית לא מקרי בשעה שהצבור מתפללין ואיתא שם בתוס' דאם מתפלל בשעה שהצבור מתפללים אין תפלתו נדחית אבל אינה נשמעת אלא עם הצבור בבה\"כ מיהו אפשר דדוקא בשעת חרון קאמרי עמ\"ש ס\"ס תקצ\"א:",
+          "en": "",
+          "ref": "Magen Avraham 90:17"
+        },
+        "18": {
+          "he": "וה\"ה בני אדם הדרים בישובים כו'. ונ\"ל בימות הקיץ שהצבור מאחרים תפלת שחרית והדר בישוב אסור אפילו ללמוד כמ\"ש סימן פ\"ט ס\"ו וסימן רל\"ב לכן מוטב שיתפלל תכף בהנץ החמה:",
+          "en": "",
+          "ref": "Magen Avraham 90:18"
+        },
+        "19": {
+          "he": "בזמן שהצבור. פי' בשעת שהקהילות ישראל מתפללים [סמ\"ג] וכתב בשל\"ה דף קכ\"ח ובאשכנז שנהגו להקדים ערבית כמ\"ש סימן רל\"ה יחיד הדר בכפר או בדרך צריך להמתין עד צאת הככבים ועמ\"ש סי' רל\"ו:",
+          "en": "",
+          "ref": "Magen Avraham 90:19"
+        },
+        "20": {
+          "he": "אסור לו להקדים. אפילו רוצה לצאת חוץ לבה\"כ [ריב\"ש סי' ע\"ה]:",
+          "en": "",
+          "ref": "Magen Avraham 90:20"
+        },
+        "21": {
+          "he": "השעה עוברת. דהיינו שהזמן קצר כל כך שבעוד שיהלך לביתו יעבור זמן תפלה אבל אם יש זמן ילך לביתו ויתפלל ביחיד [ב\"ח] ולשון תר\"י לא משמוע כן אלא אפי' בבית הכנסת שרי: איתא בגמרא דאם חלש לבו יכול להתפלל בביתו קודם הצבור ובבית הכנסת אף זה אסור ועסי' קי\"ד ס\"ב דאם הוא חולה או אנוס אף בבית הכנסת שרי כ\"כ הב\"ח שם דלא כב\"י:",
+          "en": "",
+          "ref": "Magen Avraham 90:21"
+        },
+        "22": {
+          "he": "מי שיש לו בה\"כ. ואם יש ב' בה\"כ מצוה לילך להרחוקה דשכר פסיעות יש [ב\"מ דף ק\"ז]:",
+          "en": "",
+          "ref": "Magen Avraham 90:22"
+        },
+        "23": {
+          "he": "נקרא שכן רע. דכתיב כה אמר ה' על כל שכני הרעים וגו' הנני נותשם מעל אדמתם:",
+          "en": "",
+          "ref": "Magen Avraham 90:23"
+        },
+        "24": {
+          "he": "מצוה לרוץ. עד פתח בה\"כ ובב\"הכ עצמה אסור לרוץ אלא ילך באימה וביראה, [ע\"ה ש\"ל]:",
+          "en": "",
+          "ref": "Magen Avraham 90:24"
+        },
+        "25": {
+          "he": "בשבת שאסור. ואף בחול נוטל א' מת\"ק ממאור עיניו:",
+          "en": "",
+          "ref": "Magen Avraham 90:25"
+        },
+        "26": {
+          "he": "כשיוצא. אבל אם יוצא ע\"מ לחזור מצוה לרוץ כדי שיחזור מהר [הכותב בע\"י] ול\"ח חוכך בזה מפני חשש הרואים ול\"נ דאין כאן חשש דכל שלא יצאו הצבור מב\"ה מסתמא דעתו לחזור ועוד דמוטב שיחשדוהו מלבטל הוא עצמו מלשמוע קדושה או קדיש וכ\"כ של\"ה דף ע\"ד דהיוצא מבה\"כ לבית המדרש ירוץ:",
+          "en": "",
+          "ref": "Magen Avraham 90:26"
+        },
+        "27": {
+          "he": "מותר לרוק. ושדי ליה לאחוריה וכמ\"ש סימן צ\"ז ס\"ב עד\"מ בשם א\"ז והרוצה שלא ירוק תדיר בב\"הכ ילעוס קודם כניסתו שורש שקורין לקרי\"ץ אבל בעי\"ה ובעט\"ב אסור שישאר המתיקות בפיו וכשבולע הרוק בולע המתיקות [ס\"ח סי' רנ\"ג]:",
+          "en": "",
+          "ref": "Magen Avraham 90:27"
+        },
+        "28": {
+          "he": "שימנה עם הי' הראשונים. ודוקא שיתפלל שם עמהם והאר\"י לא היה אחד מן הראשונים כי הוצרך לפנות שהיה לו חולי וגם כדי שילך מעוטף בטלית ותפילין לבה\"כ וזה א\"א קודם היום [הכוונות] עמ\"ש סי' כ\"ה ובזוהר אי' בנשא ע' רל\"ט שיתאספו י' ויבואו ביחד לבה\"כ:",
+          "en": "",
+          "ref": "Magen Avraham 90:28"
+        },
+        "29": {
+          "he": "חייב חבירו להמתין. וב\"ח פסק בשם תר\"י דאם נכנס יחידי בשעה שלא יוכל לסיים עמהם תפילתו אין חבירו חייב להמתין דמוכח' מילתא דאדעת' דהכי נכנס שאינו מפחד ע\"כ ומ\"מ משמע שר\"י היה ממתין גם בכה\"ג:",
+          "en": "",
+          "ref": "Magen Avraham 90:29"
+        },
+        "30": {
+          "he": "צריך לילך שם. אם יכול לבוא שם בעוד היום גדול ושלא יהא צריך ללכת יחידי וכמ\"ש סי\"ז וק\"ו הוא [ל\"ח]: איתא בגמ' פ' שלשה שאכלו דר\"א שחרר עבדו להשלימו לעשרה אף על גב דעובר בעשה כשמשחרר עבדו מצו' דרבים שאני וכ\"כ התוס' פ\"ק דשבת וכתב הרא\"ש אלים עשה דרבים דכתיב ונקדשתי בתוך בני ישראל דהיינו עשה דמקדשין השם בעשרה ברבים ואפי' הוי מילתא דרבנן כגון לשמוע קדושה וברכו שלא מצינו לו עיקר מן התורה אפ\"ה דחי עשה דיחיד דלא מסתבר למימר דמיירי בעשה דאורייתא כגון לקרות פ' זכור שהוא מן התורה עכ\"ל ובפ' אלו מגלחין כ' דדוקא היכי דזיכא רבים כגון הכא מקרי עשה דרבים והר\"ן פ' השולח כתב דלעולם בהם תעבודו לאו עשה גמור הוא או י\"ל כיון שאינו עושה לטובת העבד ליכא עשה כלל והוי כמוכרו לו עכ\"ל וצ\"ע דאם כן מאי קפריך בגמרא מצוה הבאה בעבירה היא דלדבריו ליכא עבירה כלל ועבי\"ד סימן רס\"ז סע\"ט וב\"י שם:",
+          "en": "",
+          "ref": "Magen Avraham 90:30"
+        },
+        "31": {
+          "he": "למחוז חפצו. וא\"ת הא אמרינן בגמ' ד' ו' אם לדבר הרשות הלך אין נוגה לו דה\"ל לבטוח בשם ה' וי\"ל דהתם כשהלך בעירו לאיזה עסקים אבל יוצא בדרך לא הטריחו כ\"כ:",
+          "en": "",
+          "ref": "Magen Avraham 90:31"
+        },
+        "32": {
+          "he": "והוא שיתפלל בי'. ואף על גב דבב\"הכ איכא רוב עם הדרת מלך מ\"מ בב\"המ עדיף שאין לבטל  למודו מפני התפל' דמצינו ר\"י הנשיא שלא היה מתפלל אלא משנה לשנה כמ\"ש תר\"י וקשה דבסי' רצ\"ח סי\"ד אמרי' דמבטלים בית המדרש משום ברוב עם הדרת מלך וצ\"ל דשאני התם שאינו אלא שעה מועטת לא חשו חכמים וכ\"מ בתר\"י פ' אלו דברים ע\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 90:32"
+        },
+        "33": {
+          "he": "יקבע מקום. וגם כשמתפלל בביתו יקבע מקום שלא יבלבלוהו בני הבית:",
+          "en": "",
+          "ref": "Magen Avraham 90:33"
+        },
+        "34": {
+          "he": "מקום קבוע. ונ\"ל דתוך ד\"א חשיב מקום א' דא\"א לצמצם:",
+          "en": "",
+          "ref": "Magen Avraham 90:34"
+        },
+        "35": {
+          "he": "שיעור שני פתחים. לכל הפירושים משמע אם מקומו אצל הפתח ואינו פתוח לר\"ה ושוהה שיעור ב' פתחים שרי וצ\"ע שהשמיט דעת הטור דסבר דבירוש' יליף מקר' לשקוד על דלתותי וכ\"כ הב\"ח וא\"כ לעולם יכנס לפנים משני דלתות ולכן נהגו לעשו' אכסדר' לפני בה\"כ: מכבדין בפתח בה\"כ שיכנס הגדול תחילה הואיל וראוי למזוזה ברכות פ\"ז ועבי\"ד סי' רמ\"ב:",
+          "en": "",
+          "ref": "Magen Avraham 90:35"
+        },
+        "36": {
+          "he": "ארון ותיבה. וכב\"י וה\"ה מטה דידן העשוי לשכיבה מקרי קבוע והב\"ח חולק וסובר דלא מקרי קבוע דלפעמים נוטלין אותה ומעמידה במקום אחר ומוכיח כן מהתוס' ואין דבריו מוכרחים דהתוס' קאי על המקשן שנ\"ל להמקשן דמטה (לא) מקרי קבוע ומיירי במטה דידהו כמ\"ש הרב\"י, וצ\"ע דנהגו להתפלל לפני השטענדר שמניחין עליו הסידורים והוא גבוה י' ורחב ד' וא\"ל משום שצורך תפלה הוא דהא שלחן ותיבה נמי צורך תפלה הוא ואפ\"ה לא שרי אלא בקבועין וא\"ל משום שאינו רחב ד' מלמטה והא מטה נמי אין רחב למטה ד' דמסתמא לא איירי בסתומה למטה עסי' פ\"ז ובש\"ג במרדכי כתוב וז\"ל דוקא דבר גבוה י' ורחב ד' אבל ספסלים וכיוצא בהן לא חשיב דעיקר מילתא שלא יתפזר ראות עיניו אנה ואנה ולא יוכל לכוון ובדבר מועט לא אתי להכי כל זמן שלא יחזיר פניו אל הכותל וחזי' לרבנן קשישי דאמרי הכי עכ\"ל לפ\"ז בעומד באמצע אין לחוש אם מפסיק דבר ובפוסקים לא משמע כן עסי' צ\"ח ס\"ד ובתשובת הרשב\"א סי' צ\"ו משמע דתיבה לא מפסקי הואיל והיא תשמיש ב\"ה ע\"כ:",
+          "en": "",
+          "ref": "Magen Avraham 90:36"
+        },
+        "37": {
+          "he": "הבגדים המצויירי'. ונ\"ל דגם בכותל בה\"כ אסור לצור ציורים נגד פניו של אדם אלא למעלה מקומת איש ועבי\"ד סי' קל\"א:",
+          "en": "",
+          "ref": "Magen Avraham 90:37"
+        },
+        "38": {
+          "he": "אם הרחיק ד\"א. משמע דאפי' לפני רבו שרי וכ\"פ בד\"מ וב\"ח וש\"כ בי\"ד סי' רמ\"ב דלא כמ\"ש בב\"י:",
+          "en": "",
+          "ref": "Magen Avraham 90:38"
+        },
+        "39": {
+          "he": "אחורי רבו. אבל לפני רבו אסור [ד\"מ ב\"י]:",
+          "en": "",
+          "ref": "Magen Avraham 90:39"
+        },
+        "40": {
+          "he": "ישתוק כו'. ול\"ד למ\"ש סי' ע\"ח דא\"צ להפסיק דהתם יהי' הפסק גדול שיצטרך לפשוט בגדיו וללבוש אחרים אבל הכא שתיקה לא מקרי הפסק וכן הליכה ממקומו לא מקרי הפסק כ\"כ כמ\"ש סי' ק\"ד ס\"ג כנ\"ל וע' בלבוש דכתב דלעיל מקרי אונס כיון ששותתין לו בגמרא משמע דגברא דחויא הוא וכמ\"ש סי' ס\"ה ע\"ש:",
+          "en": "",
+          "ref": "Magen Avraham 90:40"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ג'.  והב\"ח מתיר גם בכסא וספסל אם אינן גבוהים ג' וכ\"כ הט\"ז ע\"ש. ובמהרי\"ל ה' תפלה משמע כדעת הש\"ע וכ\"כ הלבוש סי' צ\"ח וכן פסק בס' אליהו רבה ועכשיו נהגו שהש\"ץ עומד עמוק משאר בה\"כ משום ממעמקים קראתיך עיין הלק\"ט ח\"ב סי' קכ\"ב. וביד אהרן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:1"
+        },
+        "2": {
+          "he": "י\"ב חלונות.  וא\"צ שיהיו כולם לצד מזרח אלא צריך שיהיו פתוחות לכל צד ג' עיין ט\"ז ס\"ק ג':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:2"
+        },
+        "3": {
+          "he": "בשדה.  ופשוט דעוברי דרכים מתפללין בשדה. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:3"
+        },
+        "4": {
+          "he": "בה\"כ.  עיין בתשובת יד אליהו סי' ז' שהעלה דנ\"ל מה שאמרו גבי המתפלל אחורי בית הכנסת לא שייך אלא דוקא שהצבור מתפללים תפלת י\"ח והוא ג\"כ מתפלל י\"ח ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:4"
+        },
+        "5": {
+          "he": "הקהל.  כלומר דמיירי במתפלל באותו צד שהפתח פתוח שם דהיינו בצד מערב לפיכך אם מחזיר פניו כלפי בה\"כ נמצא שמתפלל לאותו צד שהציבור מתפללין. וע\"כ לא נקרא רשע אבל אם מחזיר פניו מבה\"כ נמצא מתפלל הפך מהציבור שמתפללין בבה\"כ נקרא רשע שנראה כשתי רשויות ח\"ו. ולפי פירוש זה אם עומד אחורי בה\"כ בצד מזרח והפך מבה\"כ ומתפלל לצד מזרח כמו שהצבור מתפללין ג\"כ אינו נקרא רשע. (ועיין בס' אליהו רבה בזה):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:5"
+        },
+        "6": {
+          "he": "בהפך.  הוא דעת ר\"י הובא בתוס' שם דמפרש אחורי בה\"כ היינו אחורי כותל מזרחי שאין שם פתחים וכשעומד אחורי אותו כותל ואחוריו כלפי הכותל אע\"פ שפניו כלפי רוח מזרח ונמצא מתפלל לרוח שכל הציבור מתפללין אפ\"ה נקרא רשע. וכי מהדר אפי' לבי כנישתא כיון שפניו כלפי כותל מזרחי אעפ\"י דעומד בחוץ ונמצא שהוא מתפלל כלפי רוח מערב וכל הקהל נגד רוח מזרח לית לן בה כיון שכל הקהל כלפי כותל מזרחי ששם ההיכל. ופניו ג\"כ כלפי אותו כותל אין לחוש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:6"
+        },
+        "7": {
+          "he": "שניהם.  שלא יתפלל אלא במערב ויחזיר פניו לבה\"כ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:7"
+        },
+        "8": {
+          "he": "להחמיר כו'.  אעפ\"י שאינו מתפלל לרוח שהצבור מתפללין מ\"מ כיון שאינו מתפלל בהפך לית לן בה. תר\"י ב\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:8"
+        },
+        "9": {
+          "he": "לבה\"כ.  וה\"ה בעזרה וכ\"כ השכנה\"ג ראיתי קהלות רבות עזרותיהם לצד מזרח ומתפללין ופניהם כלפי מזרח ואחוריהם כלפי כותל מזרחית שבבה\"כ ונראה דס\"ל דעזרה הוי כמו בית שהתיר הרמב\"ם להתפלל לצד המזרח אע\"פ שאחוריו כלפי בה\"כ עכ\"ל ועיין בל\"ח אות פ\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:9"
+        },
+        "10": {
+          "he": "אחר.  עיין בהר\"ן פרק במה מדליקין. ודרשות ראנ\"ח פרשת וישב ופרשת מצורע. ותשובותיו ח\"ב סי' ע' ובתשובת חכם צבי סי' צ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:10"
+        },
+        "11": {
+          "he": "הציבור.  אע״פ שיוכל להתפלל בביתו ביו״ד מ״מ ברוב עם הדרת מלך. מ״א. אפילו איכא בצבור הרבה חוטאים לא ימנע מלהתפלל עם הציבור כנה״ג ע״ת. מי שהיה חבוש בבית האסורים ולא היה יכול להתפלל בעשרה והתחנן לפני השר ולא אבה רק יום אחד ולא יותר. איזה יום יבחר לו פסק הרדב״ז ח״ד סי' י״ג שלא יחמיץ המצוה ותיכף יתפלל בעשרה ע״ש. וחכם צבי בתשובתו סי' ק״ו הקשה עליו מפרק התכלת (מנחות דף מ״ט) דקמבעיא לן ציבור שאין להם תמידין ומוספין איזה מהם קודם ומוקי לה במוספין דהאידנא ותמידין דלמחר תדיר עדיף או מקודש עדיף ואי כסברת הרדב״ז אף אי תדיר עדיף מוספין קדמו מטעם דאין מעבירין על המצות ע״ש ובלקט הקמח דף י״א מיישב דיש חילוק בין יחיד לצבור דאין ציבור מתים אך ביחיד שהוי מצוה לא משהינן ע״ש. והמחבר יד אהרן מתרץ דבשלמא דההוא דתדיר ומקודש אי אקריב תדיר שוב אינו יכול להקריב מקודש וכן להיפוך מש״ה מספקא לן מי נדחה מפני מי. אבל הכא אינו מפסיד המצוה לגמרי אלא דאם ימתין ליום כפור עושה המצוה בשלימות מש״ה אין מעבירין ע״ש. ועיין תשובת יד אליהו סי' מ״ב. מי שהולך בשבת וי״ט בהשכמה להתפלל במנין עשרה כי רוב ציבור מאחרים תפלתם ובאותו מנין מתפללים גם תפלת מוסף תכף אחר תפלת שחרית. ויש זמן אח״כ לילך לבה״כ. יותר טוב להתפלל מוסף עם הצבור בבה״כ דברוב עם הדרת מלך. ול״ד לנדון הרדב״ז דהתם זמן גדול ביניהם ויש חששות וסבות. אבל ביומא חדא לית לן בה יד אליהו סי' מ״ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:11"
+        },
+        "12": {
+          "he": "אנוס.  פירוש שתש כוחו אע\"פ שאינו חולה מ\"א. ואם הוא אונס ממון שמחמת השתדלותו להתפלל עם הציבור יבא לידי הפסד ממון פסק בתשוב' יד אליהו סי' ז' דאין מחויב על פי הדין ויכול להתפלל ביחיד בביתו או בבה\"כ כשאין שם ציבור. ואפשר דמשום מניעת ריוח מחויב קצת על פי הדין להתפלל עם הציבור דחילוק יש בין מניעת ריוח לבין הפסד מכיסו ע\"ש. אם רשאי לילך בספינה קטנה או גדולה בשבת כדי להשלים מנין ולהתפלל עם הציבור עיין הרדב\"ז ח\"א סי' פ\"ז ובתשובת חות יאיר סי' (קי\"ב) [קט\"ו] ובתשו' עבודת הגרשוני סי' קכ\"ג ובתשובת מהר\"ם רוטנבורג סי' א' ב':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:12"
+        },
+        "13": {
+          "he": "מתפללים.  ודוקא אם טריחא ליה מילתא לאסוף י'. מ\"א. משמע בע\"א דף ד' ע\"ב דאם מתפלל מוסף בשעה שהציבור מתפללין שחרית לא מיקרי בשעה שהציבור מתפללין ועיין תוס' שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:13"
+        },
+        "14": {
+          "he": "בישובים.  נ\"ל בימות הקיץ שהציבור מאחרים תפלת שחרית והדר בישוב אסור אפילו ללמוד כמ\"ש סי' פ\"ט לכן מוטב שיתפלל תיכף בהנץ החמה ובערבית צריך להמתין עד צאת הכוכבים. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:14"
+        },
+        "15": {
+          "he": "תפלתו.  אפילו רוצה לצאת חוץ לבית הכנסת ריב\"ש מ\"א. ואם חלש לבו יכול להתפלל בביתו קודם הציבור ובבה\"כ אף זה אסור ואם הוא חולה או אנוס אף בבה\"כ שרי. ב\"ח דלא כב\"י. מג\"א ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:15"
+        },
+        "16": {
+          "he": "עוברת.  משמע דאז אפי' בבהכ\"נ שרי וכ\"מ לשון תר\"י: אבל הב\"ח פסק דוקא שהזמן קצר כ\"כ בעוד שיהלוך לביתו יעבור זמן תפלה אבל אם יש זמן ילך לביתו ויתפלל ביחיד ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:16"
+        },
+        "17": {
+          "he": "בעירו.  ואם יש ב' בה\"כ מצוה לילך להרחוקה דשכר פסיעות יש ב\"מ דף (ק\"ו) [ק\"ז]:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:17"
+        },
+        "18": {
+          "he": "רע.  אפילו אין שם מנין עשרה דסתמא קתני. מט\"מ שכנה\"ג ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:18"
+        },
+        "19": {
+          "he": "לרוץ.  עד פתח בה\"כ ובבה\"כ עצמה אסור לרוץ אלא ילך באימה וביראה. ע\"ת של\"ה מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:19"
+        },
+        "20": {
+          "he": "לרוץ.  אבל אם יוצא ע\"מ לחזור מצוה לרוץ כדי שיחזור מהרה. הכותב בע\"י וכ\"כ המ\"א ושכנה\"ג דלא כל\"ח. וכתב של\"ה דהיוצא מב\"ה לבה\"מ ירוץ. מג\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:20"
+        },
+        "21": {
+          "he": "לרוק.  ודוקא שלא בשעת תפלת י\"ח אלא כגון ק\"ש וברכותיה אבל בתפלת י\"ח אסור לרוק כדלקמן סי' צ\"ז ס\"ב ב\"ח ע\"ת ט\"ז. וכתב בס\"ח הרוצה שלא ירוק תדיר בבה\"כ ילעוס קודם כניסתו שורש שקורין לקרי\"ץ אבל בעי\"כ ובעט\"ב אסור שישאר המתיקות בפיו וכשבולע רוק בולע המתיקות. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:21"
+        },
+        "22": {
+          "he": "הראשונים.  דוקא שיתפלל שם עמהם האר\"י ז\"ל לא היה מן היו\"ד הראשונים ע\"ל סי' כ\"ה ס\"ק ב' ובזוהר נשא איתא שיתאספו י' יחדיו ויבואו לבה\"כ. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:22"
+        },
+        "23": {
+          "he": "להמתין.  דוקא אם נכנסו בשוה אבל אם נכנס יחידי בשעה שלא יכול לסיים עמהם תפלתו אין חייב להמתין לו דכיון שרואה שלא יוכל לסיים עמהם ונכנס איגלאי מילתא שאינו מפחד אם נשאר יחידי. ב\"ח. מיהו מדת חסידות הוא להמתין גם בכה\"ג וכך כתב המרדכי בשם ר\"י שהיה ממתין גם בכה\"ג. ובבאר היטב אשר לפני קיצר במקום שהיה לו להאריך עיין שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:23"
+        },
+        "24": {
+          "he": "לילך שם.  אם יוכל לבא שם בעוד היום גדול ושלא יהא צריך ללכת יחידי וכמו שכתב בסעיף שאח\"ז ובאה\"ט אשר לפני העתיק דברים אלו חוץ למקומו ע\"ש ועמ\"א מה שהקשה על הר\"ן ועיין בתשובת יד אליהו סי' ז':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:24"
+        },
+        "25": {
+          "he": "לתפלתו.  גם כשמתפלל בביתו יקבע מקום שלא יבלבלוהו בני הבית:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:25"
+        },
+        "26": {
+          "he": "קבוע.  ותוך ד' אמות חשיב מקום אחד דא\"א לצמצם. מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:26"
+        },
+        "27": {
+          "he": "שני פתחים.  מכבדין בפתח בה\"כ שיכנוס הגדול תחילה הואיל וראוי למזוזה. ש\"ס ברכות:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:27"
+        },
+        "28": {
+          "he": "ותיבה.  כתב ב\"י וה\"ה מטה דידן העשוי לשכיבה מיקרי קבוע והב\"ח חולק וס\"ל דלא מיקרי קבוע דלפעמים נוטלין ומעמידה במקום אחר והוכיח כן מתוס' ע\"ש והמ\"א סותר הוכחתו ע\"ש והפר\"ח הסכים עם הב\"ח דלא כמ\"א ע\"ש. ועיין ט\"ז שהקשה על הב\"י למה לא משני כפשוטו כדעת המקשן ומיירי במטה העשוי לשכיבה ע\"ש וכ\"כ בפר\"ח ע\"ש. ולא הבנתי דא\"כ מה היה מתפאר כל ימי הייתי מצטער ר\"ל הייתי זהיר ונזהר וכו' מהו זה זהירות הלא יותר טוב היה אם היה מתפלל אצל הכותל וק\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:28"
+        },
+        "29": {
+          "he": "ורחבו ד'.  וצ\"ע דנהגו להתפלל לפני השטענד\"ר שמניחין עליו הסידורים והוא גבוה י' ורחב ד' מ\"א ע\"ש. וט\"ז כתב כל הדברים שהם לצורך התפלה בבה\"כ אין שייך חציצה וע\"כ נהגו שיש לכל אחד שטענד\"ר אע\"פ שגבוהים י' ורחבים ד' ומטעם זה נ\"ל דשלחן בבית לא חשיב נמי הפסק וחציצה לתפלה דהשלחן הוי צורך התפלה שמניח הספר עליו ומ\"מ נראה דאף במידי דחציצה בינו לבין הכותל אם א\"א בקלות להתפלל בע\"א כגון לפעמים שמתפללין ביו\"ד באיזה חדר וא\"א לכל אדם לעמוד בלי חציצה לכותל בודאי אל יעכב התפלה בשביל זה ולילך בחדר אחר להתפלל דאין זה אלא למצוה מן המובחר ולית ביה איסורא כשצריך לכך מצד דוחק המקום: ומ\"מ יעצים עיניו או יתפלל מתוך הסידור ולא יביט לחוץ. כדי שלא יבא לידי ביטול כוונה עכ\"ל ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:29"
+        },
+        "30": {
+          "he": "מצויר.  ומטעם זה אסור לצייר ציורים בכותל בה\"כ נגד פניו של אדם אלא למעלה מקומת איש. מ\"א. אסור להתפלל כנגד המראה אפי' אם עיניו סתומות. הרדב\"ז ח\"א סי' (ק\"ו) [ק\"ז] כפי מה שפי' השכנה\"ג ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:30"
+        },
+        "31": {
+          "he": "תפלות.  ואפילו בביתו אסור ט\"ז ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:31"
+        },
+        "32": {
+          "he": "מותר.  לפני רבו. ב\"ח ד\"מ ש\"ך בי\"ד סימן רמ\"ב מ\"א ע\"ת ודלא כב\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:32"
+        },
+        "33": {
+          "he": "רבו.  אבל לפני רבו אסור. ד\"מ ב\"י ש\"ך שם מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Orach Chayim 90:33"
+        }
+      }
+    },
+    "mb": {
+      "id": "mb",
+      "name": "Mishnah Berurah",
+      "hebrew": "משנה ברורה",
+      "seifim": {
+        "1": {
+          "he": "(א) ואפילו וכו' - מפני שכשהוא עומד עליהם הוא טרוד וירא שמא יפול ולא יוכל לכוין בתפלתו ולפ\"ז מה שהתירו בסמוך בזקן וחולה אף דאין בו משום גבהות מ\"מ יאסר לעמוד מחמת ביעתותא צ\"ל הטעם דלא הטריחוהו חכמים והתירוהו להתפלל עליהם במה שייטב לו בישיבה או בעמידה או י\"ל דמיירי שם בגווני דליכא ביעתותא:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:1"
+        },
+        "2": {
+          "he": "(ב) אינן גבוהין ג' - והב\"ח והט\"ז מתירין אבל הא\"ר פוסק כהש\"ע:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:2"
+        },
+        "3": {
+          "he": "(ג) ולא ע\"ג וכו' - לפי שאין גבהות לפני המקום שנא' ממעמקים קראתיך ה':",
+          "en": "",
+          "ref": "Mishnah Berurah 90:3"
+        },
+        "4": {
+          "he": "(ד) זקן או חולה - שקשה לו לירד מעל המטה:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:4"
+        },
+        "5": {
+          "he": "(ה) להשמיע לצבור - דמותר לו לעמוד ע\"ג מקום גבוה ואפילו ע\"ג כסא או ספסל ואין בזה משום גבהות ויש מן האחרונים שכתבו דהיכא דיש בו משום ביעתותא אפילו להשמיע לצבור אסור. כתב המ\"א שעכשיו נהגו שהמקום שהש\"ץ עומד עליו הוא עמוק משאר בהכ\"נ משום ממעמקים קראתיך ה' ולכן נקרא הש\"ץ בכ\"מ יורד לפני התיבה:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:5"
+        },
+        "6": {
+          "he": "(ו) מקום גבוה וכו' - פי' אפילו הוא ארעא סמיכתא וגובה ג\"ט אסור לעמוד עליו להתפלל אבל פחות מזה אין גבהו ניכר:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:6"
+        },
+        "7": {
+          "he": "(ז) מוקף מחיצות - ובימה חדשה שבבהכ\"נ שעדיין לא הוקפה מחיצות פשוט דאסור להתפלל עליה ומיהו לענין שמש שמקומו לעמוד שם בקביעות לצרכי בהכ\"נ נראה דמותר כמו לענין אומנין בס\"ג [פמ\"ג]:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:7"
+        },
+        "8": {
+          "he": "(ח) או חלונות - ואפילו בבהכ\"נ כשמתפלל עם הצבור נכון ליזהר בזה וכ\"ש כשמתפלל בבית ביחידי דצריך ליזהר בזה לכתחילה וכדאיתא בגמרא דלא יתפלל אדם אלא בבית שיש בו חלונות ואע\"ג דצריך שיתן עיניו למטה וכמ\"ש סימן צ\"ה ס\"ב ומה נ\"מ בהחלונות מ\"מ כשנתבטלה כוונתו ישא עיניו לשמים לעורר הכוונה:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:8"
+        },
+        "9": {
+          "he": "(ט) י\"ב חלונות - לאיזה צד שירצה ובתנאי שיהיה גם בצד שמתפלל לקבל ירושלים [פמ\"ג]:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:9"
+        },
+        "10": {
+          "he": "(י) לא יתפלל - ובגמרא איתא דחצוף הוא מי שעובר ע\"ז וכתב הפמ\"ג דע\"כ אם נזדמן לו בית שאין בו חלונות ובקעה טוב יותר להתפלל בבית שאין בו חלונות:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:10"
+        },
+        "11": {
+          "he": "(יא) במקום פרוץ - והנה לחד תירוצא דתוספות אם הוא עומד בצד הדרך במקום שאין מתיירא שיפסיקוהו עוברי דרכים שרי אך בב\"י ממאן בדבריהם והנה אף שהמ\"א ושארי אחרונים מיישבים לדברי התוס' מ\"מ כתבו שבזוהר משמע שיש להתפלל דוקא בבית. ועוברי דרכים לכ\"ע מותרים להתפלל בשדה ומ\"מ כשיש שם אילנות טוב יותר שיעמוד שם ביניהם ויתפלל אם אין קשה עליו איחור דרכו דמקום צנוע הוא קצת עי\"ז וכשהוא בביתו אין לסמוך ע\"ז:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:11"
+        },
+        "12": {
+          "he": "(יב) כמו בשדה - ובמקום שהוא מוקף מחיצות אע\"פ שאינו מקורה שפיר דמי:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:12"
+        },
+        "13": {
+          "he": "(יג) ולא בחורבה - מוכח בגמרא דמוטב להתפלל בדרך מבחורבה ואפילו היכא דליכא בה כ\"א טעם אחד ואם הוא מתיירא שיפסיקוהו עוברי דרכים יתפלל תפלה קצרה עיין סימן ק\"י:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:13"
+        },
+        "14": {
+          "he": "(יד) מפני חשד - שיחשדוהו שיש לו זונה מוכנת שם ואם החורבה עומדת בשדה אין לחוש בה לחשד שאין זונה מצויה בשדה וה\"ה אם אשתו עמו ג\"כ ליכא למיחש לחשד ואם היא חורבה בריאה וחזקה ליכא למיחש בה למפולת ואם שנים נכנסין בה אין לחוש למזיקין שלאחד נראה ומזיק ולשנים נראה ואינו מזיק ולג' אין נראה כלל אם לא במקום שידוע שרגילין שם מזיקין ואבוקה כשנים וירח כשלשה לפיכך אם הם שנים מותר ליכנס בה אם היא בריאה וחזקה ועומדת בשדה [פמ\"ג]:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:14"
+        },
+        "15": {
+          "he": "(טו) אחורי בהכ\"נ - בתשובת יד אליהו סימן ז' כתב דנ\"ל מה שאמרו גבי המתפלל אחורי בהכ\"נ לא שייך אלא דוקא כשהצבור מתפללים תפילת י\"ח והוא ג\"כ מתפלל י\"ח עי\"ש ובספר מאמר מרדכי חולק עליו:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:15"
+        },
+        "16": {
+          "he": "(טז) הקהל - כלומר דמיירי במתפלל באותו צד שהפתח פתוח שם דהיינו בצד מערב לפיכך אם מחזיר פניו כלפי בהכ\"נ נמצא שמתפלל לאותו צד שהצבור מתפללין וע\"כ לא נקרא רשע אבל אם מחזיר פניו מבהכ\"נ נמצא מתפלל היפך מהצבור שהם מתפללין למזרח והוא למערב וע\"כ נקרא רשע שנראה כשתי רשויות ח\"ו ולפי פירוש זה אם עומד אחורי בהכ\"נ בצד מזרח והופך מבהכ\"נ ומתפלל לצד מזרח כמו שהצבור מתפללין ג\"כ אינו נקרא רשע:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:16"
+        },
+        "17": {
+          "he": "(יז) בהיפך - הוא דעת ר\"י הובא בתוס' שם דמפרש אחורי בהכ\"נ היינו אחורי כותל מזרחי שאין שם פתחים וכשעומד אחורי אותו כותל ואחוריו כלפי הכותל אע\"פ שפניו כלפי רוח מזרח ונמצא מתפלל לרוח שכל הצבור מתפללין אפ\"ה נקרא רשע כי הוא מכלל אותם שנאמר עליהם ואחוריהם אל היכל ד' אבל אם מהדר אפיה לבי כנישתא אע\"פ שנמצא שהוא מתפלל כלפי רוח מערב וכל הקהל כנגד רוח מזרח לית לן בה כיון שכל הקהל מתפללין כלפי כותל מזרחי ששם ההיכל והוא פניו ג\"כ כלפי אותו הכותל אין לחוש:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:17"
+        },
+        "18": {
+          "he": "(יח) שניהם - שלא יתפלל אלא במערב ויחזיר פניו לבהכ\"נ ואף דזה מותר לכ\"ע מ\"מ לא שרי אלא מדוחק הלא\"ה מצוה להתפלל בבהכ\"נ כמ\"ש בסעיף ט':",
+          "en": "",
+          "ref": "Mishnah Berurah 90:18"
+        },
+        "19": {
+          "he": "(יט) בשאר צדדים - דהיינו בצפון או בדרום ומיירי בשאי אפשר לו להפוך פניו למזרח כגון שיש צואה לפניו כמלא עיניו הא לאו הכי עדיף טפי שיהפוך פניו למזרח ומ\"מ גם בכל זה לא שרי אלא מדוחק כמש\"כ בס\"ק הקודם:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:19"
+        },
+        "20": {
+          "he": "(כ) שיחזיר פניו - כדי שלא יהיה אחוריו נגד בהכ\"נ ואף שאכתי אינו מתפלל לרוח שהצבור מתפללין מ\"מ כיון שאינו מתפלל בהיפך לית לן בה וכ\"ז כשעומד בצפון בהכ\"נ או בדרומו אבל כשעומד במזרחו או במערבו אסור אף אם רוצה להטות עצמו לצפונו או לדרומו:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:20"
+        },
+        "21": {
+          "he": "(כא) לבהכ\"נ - וה\"ה בעזרות הבנויות בכותל מזרחי שרי להתפלל שם דחדר הוא ואין נראה כאחוריו לבית הכנסת וכ\"כ השכנה\"ג שראה קהלות רבות שעזרותיהם לצד מזרח ומתפללין ופניהם כלפי מזרח ואחוריהם כלפי כותל מזרחי שבבהכ\"נ ומ\"מ יותר טוב בעת שבונים העזרות לעשותו בצד אחר לא בצד מזרח כי יש מפקפקים בזה עיין בא\"ר:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:21"
+        },
+        "22": {
+          "he": "(כב) בצד שהפתח וכו' - עיין בביאור הגר\"א:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:22"
+        },
+        "23": {
+          "he": "(כג) שהצבור מתפללים - עיין בפמ\"ג שיש להחמיר אפילו בעת ק\"ש ופסוקי דזמרה:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:23"
+        },
+        "24": {
+          "he": "(כד) או שלבוש וכו' - דנראה שעול מלכותו עליו ולא יבואו לחשדו:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:24"
+        },
+        "25": {
+          "he": "(כה) או שיש ב\"ה וכו' - נ\"ל דה\"ה אם רגילין בבהכ\"נ הזה לעשות כמה מנינים ג\"כ שרי דלא יבואו לחשדו:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:25"
+        },
+        "26": {
+          "he": "(כו) או שרוכב - שניכר שמפני שהוא טרוד בשמירת הבהמה אינו נכנס:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:26"
+        },
+        "27": {
+          "he": "(כז) להתפלל בבהכ\"נ - ואפילו אם יש לו עשרה בביתו ישתדל בבהכ\"נ ועיין בסי\"ח במ\"ב ס\"ק נ\"ד:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:27"
+        },
+        "28": {
+          "he": "(כח) עם הצבור - מפני שאין הקב\"ה מואס בתפלת הצבור ואפילו היה בהם חוטאים לא ימנע מלהתפלל עמהם. אם יש לו שתי בתי כנסיות ואחד יש בו ברוב עם מצוה להתפלל בו יותר. כתבו האחרונים דאם יש בבהכ\"נ של רוב עם רוב בלבול ואין אדם שומע לא תפלה ולא קה\"ת מוטב להתפלל בביתו בעשרה. ובהכ\"נ ביחיד ובביתו בעשרה תפלת צבור עדיף ואפילו יכול לשמוע קדיש וברכו אפ\"ה תפלת צבור עדיף [פמ\"ג]. ועיקר תפלה בצבור הוא תפלת י\"ח דהיינו שיתפללו עשרה אנשים שהם גדולים ביחד ולא כמו שחושבין ההמון שעיקר להתפלל בעשרה הוא רק לשמוע קדיש וקדושה וברכו ולכן אינם מקפידין רק שיהיו י' בבהכ\"נ וזהו טעות ולכן חוב על האדם למהר לבוא לבהכ\"נ כדי שיגיע להתפלל י\"ח בצבור [ח\"א]. מי שהולך בשבת ויו\"ט בהשכמה להתפלל במנין עשרה כי רוב צבור מאחרים תפלתם ובאותו מנין מתפללים גם תפלת מוסף תיכף אחר תפלת שחרית ויש זמן אח\"כ לילך לבהכ\"נ יותר טוב לילך להתפלל מוסף עם הצבור בבהכ\"נ דברוב עם הדרת מלך כ\"כ בתשובת יד אליהו סימן מ\"ב ודוקא אם מקום מיוחד לתפלתו הוא בבהכ\"נ אבל אם אין מקומו מיוחד להתפלל בבהכ\"נ טוב יותר שיתפלל כל התפלה במקום אחד. כתב בתשובת רדב\"ז תפוס שהשר נתן לו רשות יום אחד להתפלל עם הצבור במנין איזה יום שירצה יתפלל אותו יום תיכף ולא יחמיץ המצוה להמתין על יום כיפור או פורים ועיין בח\"א כלל ס\"ח ובנשמת אדם שהאריך בכמה פרטים שיש בענין זה:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:28"
+        },
+        "29": {
+          "he": "(כט) אנוס - היינו שתש כחו אף שאינו חולה. ואם הוא אונס ממון שמחמת השתדלותו להתפלל עם הצבור יבוא לידי הפסד יכול להתפלל בביתו ביחיד או בבהכ\"נ בלא צבור אבל משום מניעת ריוח לא ימנע מלהתפלל עם הצבור דחילוק יש בין מניעת ריוח לבין הפסד מכיסו וכ\"כ בשם יעקב והעיד על הגאון מוה' זלמן מירל\"ש אב\"ד דק\"ק האמבורג שפעם אחת הלך לבהכ\"נ מעוטף בטלית ותפילין כדרכו ופגע בו אדם אחד שהיה לו למכור אבנים טובות ורצה שילך עמו לביתו והגאון השיב לו שימתין עד שיבוא מבהכנ\"ס ובתוך כך מכרן לאחר והאחר הרויח בהם כמה אלפים ר\"ט ושמח הגאון שמחה גדולה שהשליך מנגד ממון רב עבור תפלת צבור [מגן גבורים] וכ\"כ בספר אליהו רבא בשם תשובת ב\"י דיש לקנוס האנשים שמונעים לילך לבהכ\"נ משום שעוסקין בתורה או משום שמשתכרין ממון. ולעשירים יש לקנוס יותר ובעל תורה אף שעוסק בלימוד מ\"מ איכא חשדא וחילול השם כמש\"כ סי\"ח:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:29"
+        },
+        "30": {
+          "he": "(ל) יכוין להתפלל וכו' - ודוקא אם טריחא ליה מילתא לאסוף עשרה. משמע בע\"א דף ד' ע\"ב דאם מתפלל מוסף בשעה שהצבור מתפללין שחרית לא מיקרי בשעה שהצבור מתפללין ואם מתפלל עמהם בבהכנ\"ס מיקרי תפלת הצבור:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:30"
+        },
+        "31": {
+          "he": "(לא) יתפללו שחרית - ובימות הקיץ שהצבור מאחרים תפלת שחרית והדר בישוב אסור אפילו ללמוד כמש\"כ סימן פ\"ט ס\"ו וסימן רל\"ב שמא ימשוך בלימודו ויעבור זמן תפלה וא\"כ יתבטלו זמן ארוך לכן מוטב שיתפלל תיכף בהנץ החמה ומכ\"ש כהיום דבקהלות גדולות מתפללין תיכף משהאיר הבוקר וא\"כ לעולם הוא בשעה שהצבור מתפללין:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:31"
+        },
+        "32": {
+          "he": "(לב) בזמן שהצבור - פי' בשעת שקהלות ישראל מתפללים. ובאשכנז שנהגו להקדים ערבית כמש\"כ סימן רל\"ה יחיד הדר בכפר או בדרך צריך להמתין עד צאת הכוכבים:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:32"
+        },
+        "33": {
+          "he": "(לג) אעפ\"כ וכו' - מפני שהוא מקום קבוע לקדושה ותפלתו מתקבלת שם יותר. ופשוט דאם הוא ת\"ח ויש חשש חילול השם כשיבוא אחר התפלה בבהכ\"נ דיתפלל בביתו:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:33"
+        },
+        "34": {
+          "he": "(לד) עם הצבור אסור - אע\"ג דבסעיף הקודם כתב דאפילו הוא בביתו יכוין לשעה שהצבור מתפללין היינו כדי שתהא תפלתו נשמעת אבל איסורא ליכא אי מקדים לתפילת צבור אבל כשעומד עם הצבור ומקדים איסורא נמי איכא ועיין באורחות חיים שכתב הטעם מפני שהוא כמבזה את הצבור ומשמע בגמרא דאפילו אם הוא רוצה לעשות זה בשביל לימוד התורה כגון שיש לו שיעור קבוע ללמוד תורה אצל אחד. כתב הב\"ח דאם צריך הוא למהר תפלתו כגון שיוצא לדרך יצא מבהכ\"נ ויתפלל בביתו ואפשר דבשביל לימוד התורה ג\"כ מותר לעשות כן וכן משמע בספר מאמר מרדכי אך שם איירי לענין תפילת מוסף ואפשר דה\"ה לענין שחרית ועיין לקמן בסי\"ח:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:34"
+        },
+        "35": {
+          "he": "(לה) להקדים תפלתו - ואפילו רוצה לצאת חוץ לבהכ\"נ כ\"כ המ\"א בשם הריב\"ש אבל בספר מאמר מרדכי כתב דאין מדברי הריב\"ש ראיה ומסיק דאין בו איסור דמקדים תפלתו אלא דלאו שפיר עביד דמפסיד מיהא תפלת הצבור:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:35"
+        },
+        "36": {
+          "he": "(לו) השעה עוברת - משמע דאז אפילו בבהכ\"נ שרי וכן מוכח לשון תר\"י והב\"ח פסק דוקא שהזמן קצר כ\"כ שבעוד שילך לביתו יעבור זמן תפלה אבל אם יש זמן ילך לביתו ויתפלל ביחיד ע\"ש. איתא בגמרא דאם חלש לבו יכול להתפלל בביתו קודם הצבור ובבהכ\"נ אף זה אסור ועיין סימן קי\"ד ס\"ב דאם הוא חולה או אנוס אף בבהכ\"נ שרי כ\"כ הב\"ח והפרישה שם:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:36"
+        },
+        "37": {
+          "he": "(לז) שיש לו וכו' - ואם יש שתי בתי כנסיות בעיר טוב לילך להרחוקה כי שכר פסיעות יש:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:37"
+        },
+        "38": {
+          "he": "(לח) נקרא וכו' - דכן דרך שכנים הרעים שאין נכנסין לבית חביריהם. וע' באחרונים שכתבו שאפילו אין שם מנין עשרה דהא סתמא קתני ובפמ\"ג מסתפק בזה. ואם מתפלל בביתו בעשרה בכל גווני אינו נקרא שכן רע דכל בי עשרה שכינתא שריא ומיהו עכ\"פ מידי חובת בהכ\"נ לא נפיק אא\"כ אותו המקום שמתפללין בו קבוע לקדושה:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:38"
+        },
+        "39": {
+          "he": "(לט) שכן רע וכו' - דכתיב כה אמר ה' על כל שכיני הרעים וגו' הנני נותשם מעל אדמתם. וכל המשכים ומעריב לבהכ\"נ זוכה לאריכת ימים שנאמר אשרי אדם שומע לי לשקוד על דלתותי יום יום וכתיב אחריו כי מוצאי מצא חיים וגו':",
+          "en": "",
+          "ref": "Mishnah Berurah 90:39"
+        },
+        "40": {
+          "he": "(מ) מצוה וכו' - שנאמר ונדעה נרדפה לדעת את ה' וגו' ומזה נלמוד דכ\"ש שיש ליזהר אז שלא לעמוד באמצע הדרך להסיח עם חבירו באיזה חפצי עצמו כי עי\"ז מצוי שבא אחר ברכו וקדושה. ועיין בפרישה שכתב דעיקר הריצה יהיה כשבא סמוך לבהכ\"נ דשם מינכר הוא שעושה לשם מצות בהכ\"נ וכתב הפמ\"ג דבשחרית שהולך עם טלית ותפילין בידו תמיד מינכר הוא ומ\"מ ברחוב עכו\"ם לא ירוץ:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:40"
+        },
+        "41": {
+          "he": "(מא) לרוץ - עד פתח בהכ\"נ ובבהכ\"נ עצמה אסור לרוץ אלא ילך באימה:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:41"
+        },
+        "42": {
+          "he": "(מב) בשבת שאסור - ואף בחול נוטל אחד מת\"ק ממאור עיניו של אדם ועיין בפמ\"ג:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:42"
+        },
+        "43": {
+          "he": "(מג) אסור לרוץ - ולא לפסוע פסיעה גסה לפי שמראה עצמו שעיכוב בהכ\"נ דומה עליו כמשאוי בד\"א כשהולך לעסקיו אבל אם יוצא ע\"מ לחזור מצוה לרוץ כדי לחזור מהר וכן אם יוצא מבהכ\"נ לבית המדרש כדי ללמוד תורה:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:43"
+        },
+        "44": {
+          "he": "(מד) לרוק בבהכ\"נ - פי' שלא בשעת תפילת י\"ח אלא כגון ק\"ש וברכותיה אבל בתפלת י\"ח אסור לרוק כדלקמן סימן צ\"ז ס\"ב עי\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:44"
+        },
+        "45": {
+          "he": "(מה) ודורסו ברגליו - שלא יהיה מגולה מפני הכבוד והרוצה שלא ירוק תדיר בבהכ\"נ ילעוס קודם כניסתו שורש מתוק שקורין לאקעריץ (ואף בבוקר שרי דלא שייך בזה גאוה וגם אין מכניס לגופו) אבל בעיה\"כ ובעט\"ב אסור שישאר המתיקות בפיו וכשבולע הרוק בולע המתיקות:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:45"
+        },
+        "46": {
+          "he": "(מו) מכסהו בגמי - ר\"ל שאם יש תבן או גמי בבהכ\"נ רוקק עליו וא\"צ לשפשף שהרקיקה מכוסה בגמי:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:46"
+        },
+        "47": {
+          "he": "(מז) כדי שימנה וכו' - ודוקא שיתפלל שם עמהם והאר\"י לא היה מן הראשונים כי הוצרך לפנות שהיה לו חולי וגם כדי שילך מעוטף בטלית ותפילין לבהכ\"נ וזה אי אפשר קודם היום ובזוהר נשא איתא שיתאספו עשרה ביחד ויבואו לבהכ\"נ:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:47"
+        },
+        "48": {
+          "he": "(מח) להמתין - דוקא אם נכנסו בשוה אבל אם נכנס יחידי בשעה שלא יוכל לסיים עמהם תפלתו אין חייב להמתין לו דכיון שרואה שלא יוכל לסיים עמהם ונכנס איגלאי מילתא שאינו מפחד אם נשאר יחידי מיהו מדת חסידות הוא להמתין אף בכה\"ג:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:48"
+        },
+        "49": {
+          "he": "(מט) ורוצה ללון בה - ה\"ה בבוקר אם בדרך ההולכת לפניו בד' מילין יש מקום שמתפללין בעשרה ימתין עד שיגיע שם והוא שעי\"ז לא יעבור זמן ק\"ש ותפלה:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:49"
+        },
+        "50": {
+          "he": "(נ) אם לפניו - דוקא בדרך ההולכת לפניו שבלא\"ה יצטרך לבסוף לילך שם אבל בצדדין דינו כמלאחריו:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:50"
+        },
+        "51": {
+          "he": "(נא) לילך שם - ובאופן שלא יצטרך לילך יחידי עי\"ז וגם מיירי שעוד היום גדול שאפילו אם ילך עד שם יוכל להגיע שם בעוד השמש על הארץ דאל\"ה אינו מחוייב דלעולם יכנס אדם בכי טוב. ועיין בפמ\"ג שכ' דבדרך אם נזדמן לו עשרה להתפלל מנחה אחר חצי שעה שאחר חצות רשאי אע\"ג דבלא\"ה אין כדאי לכתחילה כדאיתא בסימן רל\"ג כאן מותר:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:51"
+        },
+        "52": {
+          "he": "(נב) ולאחריו וכו' - עיין בס\"ק הקודם והיושב בביתו דינו כמלאחריו ע\"כ הדר בישוב תוך מיל למקום שמתפללין בעשרה צריך לילך בכל יום בבוקר להתפלל בעשרה אבל לא בערב כי א\"צ לילך בלילה בדרך בשביל מנין וזה הסעיף הוא תוכחת מגולה לאותן האנשים שהם בעיר ומתעצלים לילך לבהכ\"נ להתפלל מנחה ומעריב:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:52"
+        },
+        "53": {
+          "he": "(נג) לילך מעיר וכו' - מיירי בהולך לדבר רשות ועיין בפמ\"ג שהקשה דכאן משמע דוקא אם עי\"ז יתבטל אצלו תפלה בצבור ובל\"ז שרי הא בלא\"ה אסור לצאת לדרך קודם תפלת ח\"י כדלעיל בסי' פ\"ט ס\"ג אך לפי מה שכתב הרמ\"א שם בהג\"ה ניחא דמיירי שאמר הברכות שקודם התפלה ואפ\"ה אסר כאן משום ביטול תפלה בצבור:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:53"
+        },
+        "54": {
+          "he": "(נד) ושלא יהא וכו' - הא אם יש לו עתה שיירא ואינו רוצה להמתין עליו מותר:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:54"
+        },
+        "55": {
+          "he": "(נה) והוא שיתפלל בי' - ואפילו אם בבהכ\"נ איכא רוב עם הדרת מלך מ\"מ בה\"מ עדיף וה\"מ למי שלומד בו וכדי שלא יבטל מלימודו לילך לבהכ\"נ הא בלא\"ה רוב עם עדיף כ\"כ הפמ\"ג ונראה פשוט דזה דוקא בבה\"מ שקבוע ליחיד ללימוד דלא קבוע קדושתו כ\"כ וכדמשמע ממ\"א בסימן קנ\"ג ס\"א דבזה איירינן הכא אבל בה\"מ שקבוע לרבים ללימוד התורה בוודאי קדושתו חמורה יותר מבהכ\"נ ומוטב להתפלל בו בעשרה יותר מבהכ\"נ שיש בו רוב עם אפילו מי שאינו לומד בו כלל וכדאיתא בגמרא דאוהב ה' שערים המצויינים בהלכה יותר מבתי כנסיות וכו' וכן משמע מכמה אחרונים:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:55"
+        },
+        "56": {
+          "he": "(נו) ואינו מתבטל וכו' - ר\"ל כ\"א לדברים הכרחים לצרכי גופו ולימודו ע\"כ אין לו ללכת לבהכ\"נ אפילו אם אין שם עשרה מפני שמבטל מלימודו בשעת הליכתו ועיין בביאור הגר\"א שכתב דבאופן זה שתורתו אומנתו אפילו לדעה הראשונה לא בעינן עשרה וכ\"ש בלומד תורה ברבים עם תלמידים שאין לו לבטל מלימודו לילך לבי כנישתא:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:56"
+        },
+        "57": {
+          "he": "(נז) שלא ילמדו וכו' - כי לא ידינוהו לכף זכות לתלות בתורתו שבשביל לימודו הוא מתפלל ביחיד רק יאמרו שאינו חושש בתפלה וידונו ק\"ו על עצמם ולא יחושו כלל לתפלה:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:57"
+        },
+        "58": {
+          "he": "(נח) בזמן שהצבור - וכן בשעת קה\"ת עיין סי' קמ\"ו. כתב בספר מאמר מרדכי דאם הוא כבר התפלל ואינו עומד שם אלא לענות הקדישים והקדושות מאותם שפורסים על שמע או שחוזרים כל התפלה עוסק בתורה ואינו חושש וכן מוכח מלשון הג\"ה דמיירי דוקא בענין שפורש מן הצבור וכו' עי\"ש:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:58"
+        },
+        "59": {
+          "he": "(נט) יקבע מקום - שכן מצינו בא\"א שקבע מקום לתפילתו כדכתיב וישכם אברהם בבוקר אל המקום אשר עמד שם את פני ד' וגו'. וגם כשמתפלל בביתו יקבע מקום שלא יבלבלוהו בני הבית:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:59"
+        },
+        "60": {
+          "he": "(ס) מקום קבוע - ותוך ד\"א חשוב מקום אחד דא\"א לצמצם:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:60"
+        },
+        "61": {
+          "he": "(סא) שיעור שני פתחים - עיין בב\"ח שכתב שצריך לעשות עזרה לפני בהכ\"נ דוגמת האולם שהיה לפני ההיכל והאריך לפרש בזה המאמר דשיעור שני פתחים וכ\"כ המ\"א וכן נהגו כהיום בכל מקום וע\"כ טוב להדר לכתחילה שלא להתפלל בעזרה כ\"א בבהכ\"נ:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:61"
+        },
+        "62": {
+          "he": "(סב) ישהה שיעור וכו' - כדי שתתיישב דעתו עליו ויתפלל בכונה כי כשיתפלל תיכף בכניסתו פתאום אין דעתו מיושבת עליו. מכבדין בפתח בהכ\"נ שיכנס הגדול תחלה הואיל וראוי למזוזה:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:62"
+        },
+        "63": {
+          "he": "(סג) שלא יהא דבר חוצץ - שנאמר ויסב חזקיהו פניו אל הקיר ויתפלל ומ\"מ אין זה אלא למצוה מן המובחר ולית ביה איסורא כשצריך לכך מצד דוחק המקום ע\"כ אם א\"א בקלות להתפלל בע\"א כגון לפעמים שמתפללין בעשרה באיזה חדר וא\"א לכל אדם לעמוד בלי חציצה לכותל אל יעכב התפילה בשביל זה לילך לחדר אחר להתפלל ומ\"מ יעצים עיניו או יתפלל מתוך הסידור ולא יביט לחוץ כדי שלא יבוא לידי ביטול כונה ע\"י דבר החוצץ שלפניו:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:63"
+        },
+        "64": {
+          "he": "(סד) בינו ובין הקיר - ואפילו אם הוא רחוק מן הקיר שעומד באמצע בהכ\"נ ג\"כ יש ליזהר שלא יחוץ בינו לקיר והפמ\"ג מצדד לומר דאם החציצה הוא חוץ לד\"א ממנו רשות אחרת היא ושרי וכן פסק המגן גבורים:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:64"
+        },
+        "65": {
+          "he": "(סה) ותיבה - ומטות שלנו העשויות לשכיבה ואין דרך לטלטלן ממקום למקום נקראות דבר קבוע ואינם חוצצות ויש חולקין וטוב להחמיר בדאפשר:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:65"
+        },
+        "66": {
+          "he": "(סו) רק בדבר גדול - עיין בט\"ז דכל דבר שהוא צורך תפלה אפילו הוא גדול הרבה אינו חשוב הפסק כגון השולחן שבבית שמניחין עליו הסידור ולכן נהגו בבה\"כ שיש לפני כל אחד שולחן קטן [שקורין שטענדער] שמניחין עליו הסידורים אע\"פ שגבוה עשרה ורוחב ד' וכ\"כ שארי אחרונים:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:66"
+        },
+        "67": {
+          "he": "(סז) ורחבו ד' - אפילו אם אינו רחב ד' רק למעלה ולא למטה:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:67"
+        },
+        "68": {
+          "he": "(סח) לא חשיב הפסק - והפר\"ח חולק וכן בספר מאמר מרדכי כתב דמדברי תשובת הרמב\"ם שהובא בב\"י לא משמע הכי ומ\"מ ספסלים שבבה\"כ לכו\"ע לא חשיב הפסק דקבועים הם עי\"ש בפר\"ח:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:68"
+        },
+        "69": {
+          "he": "(סט) שיש ליזהר מלהתפלל - כתב בספר מאמר מרדכי לכאורה יש לדקדק בזה דא\"א ליזהר בזה דאיך אפשר שיהיו כל העם העומדים בבהכ\"נ נגד הכותל בלא הפסקת אדם לכן נראה דאף להי\"א לא הוי הפסק גמור שיהא אסור לכל אדם אלא זהירות בעלמא שיש ליזהר בדאפשר ובבה\"כ וכיוצא בו דא\"א בענין אחר פשיטא דמותר לכתחלה להתפלל אחורי אדם אלא שהמדקדק במעשיו יראה שיהיה לו מקום קבוע נגד הכותל עכ\"ל:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:69"
+        },
+        "70": {
+          "he": "(ע) אין נכון וכו' - שלא יהא מביט בציורם ולא יכוין בתפילתו אבל משום חציצה לית בבגדים ולכן אם אין מצוירים ותלוים על הכותל שרי להתפלל נגדם:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:70"
+        },
+        "71": {
+          "he": "(עא) ציורים בספרים וכו' - וכן יש ליזהר מטעם זה שלא לצייר בכותל בה\"כ ציורים נגד פניו של אדם אלא למעלה מקומת איש. אסור להתפלל כנגד המראה דמיחזי כמשתחוה לבבואה שלו והיינו אף בעינים סתומות דבפתוחות בלא\"ה אסור משום ביטול כונה. אחרונים:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:71"
+        },
+        "72": {
+          "he": "(עב) אפילו לישב עליהם וכו' - שנאמר ולא תביא תועבה אל ביתך ואפילו בביתו אסור:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:72"
+        },
+        "73": {
+          "he": "(עג) בצד רבו - כי הוא יוהרא שמראה שהוא שוה לרבו ורבו היינו שרוב חכמתו הימנו או גדול הדור. כתב הח\"א נ\"ל דה\"ה אביו:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:73"
+        },
+        "74": {
+          "he": "(עד) ולא אחורי רבו - דמיחזי נמי כיוהרא וי\"א שנראה כמשתחוה לרבו בתפילתו וי\"א מפני שהוא מצער לרבו דשמא יצטרך לפסוע ג' פסיעות לאחריו בעוד שהוא יתפלל ויצטרך להמתין עליו:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:74"
+        },
+        "75": {
+          "he": "(עה) ולא לפניו - בק\"ו דזה ודאי הוא בזיון לרבו שעומד באחוריו נגדו:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:75"
+        },
+        "76": {
+          "he": "(עו) אין לחוש וכו' - שהכל יודעין שמקום זה מיוחד לרב וזה לתלמיד ולית ביה משום יוהרא או כמשתחוה לו:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:76"
+        },
+        "77": {
+          "he": "(עז) שטוב להחמיר - היינו לחוש לטעם השלישי הנ\"ל מפני שנראה כמצער לרבו דלפ\"ז יש להחמיר גם בצבור לאחריו:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:77"
+        },
+        "78": {
+          "he": "(עח) המנהג להקל - עיין בביאור הלכה דמ\"מ טוב לכתחילה כשקובע לו מקום מאחורי רבו שירחיק כשיעור ד\"א וג' פסיעות כדי שלא יצער לרבו:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:78"
+        },
+        "79": {
+          "he": "(עט) ד\"א מותר - דרשות אחרת היא ועיין בפמ\"ג שכתב בשם הפר\"ח דלפניו סגי בד\"א מצומצמות אבל לאחורי רבו בעינן ד\"א וג' פסיעות כדי שיהיה יוכל רבו לפסוע ג' פסיעות לאחריו ולא יצטרך להמתין עליו ובתוך ד' אמותיו הלא אסור לפסוע כדלקמן בסימן ק\"ב. עוד כתב דבתוך האלמעמרע מותר אפילו בסמוך דרשותא אחריתא הוא:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:79"
+        },
+        "80": {
+          "he": "(פ) ועיין ביו\"ד וכו' - ר\"ל דשם נתבאר דרחוק ד\"א מועיל אפילו אם רבו לאחוריו וכן כתבו האחרונים:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:80"
+        },
+        "81": {
+          "he": "(פא) אחורי רבו - וה\"ה בצד רבו אבל לפני רבו אסור:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:81"
+        },
+        "82": {
+          "he": "(פב) מרחיקים לתפלה - וה\"ה לת\"ת וכל דברי קדושה:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:82"
+        },
+        "83": {
+          "he": "(פג) בתפלה - וה\"ה בק\"ש ושאר דברי קדושה וכמו שכ' למעלה ונקט תפלה לרבותא דבזה ג\"כ צריך לילך לפניו ד\"א ולא אמרינן כיון שהוא עומד כבר בתפלה א\"צ להרחיק:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:83"
+        },
+        "84": {
+          "he": "(פד) ישתוק וכו' - דכ\"ז לא מיקרי הפסק אבל אסור להפסיק בדבור להביא לו מים כיון דאיסור מי רגלים אינו אלא מדרבנן וגם י\"א דא\"צ להרחיק בזה כלל ע\"כ אפילו אם גם אחרים עומדים בתוך הד\"א של המי רגלים ומתפללים אין לו להפסיק בדבור בשבילם להודיעם. ואם תינוק טינוף צואה בבה\"כ באמצע תפלה ואחרים עומדים שם ומתפללים ואינם יודעים מזה אם א\"א בענין אחר להודיעם אלא בדבור מותר להפסיק בדבור להצילם מאיסור דאורייתא דמוטב שיעשה הוא איסור קל דהיינו איסור דרבנן להפסיק בתפלה משיעשו אחרים איסור דאורייתא להתפלל במקום מטונף. וכבר נתבאר לעיל בסימן ע\"ט במ\"ב וביאור הלכה האופנים שהם מדאורייתא בזה. ודוקא אם אין לו במה לכסות אבל אם יש לו במה לכסות בין בצואה ובין במי רגלים אסור להפסיק ואפילו לזוז ממקומו אם אין מגיע לו הריח רע:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:84"
+        },
+        "85": {
+          "he": "(פה) ויותר טוב - כתב הח\"א אם מתירא שמא ישהא כדי לגמור את כולו וא\"א לו להרחיק ד\"א כגון שא\"א לו לעבור נגד המתפלל יסמוך על הרשב\"א דס\"ל דמותר להתפלל כיון שכבר הוא עומד בתפלה ואיסור מי רגלים דרבנן:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:85"
+        },
+        "86": {
+          "he": "(פו) ויצטרך - עיין לעיל בסימן ע\"ח במ\"ב סק\"ה דבברכת ק\"ש אם נזדמן כן וכן בכל הברכות אין צריך לחזור לראש:",
+          "en": "",
+          "ref": "Mishnah Berurah 90:86"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

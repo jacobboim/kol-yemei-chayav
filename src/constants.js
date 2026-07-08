@@ -105,6 +105,23 @@ export const LAYOUT_OPTIONS = [
   { id: 'tabbed', label: 'Tabbed' },
 ];
 
+export const COLOR_THEMES = [
+  { id: 'ocean',     label: 'Ocean Deep',  swatch: '#38bdf8', desc: 'Cool blue' },
+  { id: 'parchment', label: 'Parchment',   swatch: '#B8860B', desc: 'Warm cream' },
+  { id: 'scholar',   label: 'Night Scholar', swatch: '#818cf8', desc: 'Neutral' },
+];
+
+export const HEBREW_FONTS = [
+  { id: 'frank-ruhl', label: 'Frank Ruhl Libre', desc: 'Traditional',    family: "'Frank Ruhl Libre', 'Times New Roman', serif",   url: null },
+  { id: 'noto-serif', label: 'Noto Serif Hebrew', desc: 'Modern serif',  family: "'Noto Serif Hebrew', Georgia, serif",             url: 'https://fonts.googleapis.com/css2?family=Noto+Serif+Hebrew:wght@400;500;700&display=swap' },
+  { id: 'heebo',      label: 'Heebo',             desc: 'Clean sans',    family: "'Heebo', Arial, sans-serif",                      url: 'https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700&display=swap' },
+  { id: 'rubik',      label: 'Rubik',             desc: 'Rounded modern', family: "'Rubik', system-ui, sans-serif",                 url: 'https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap' },
+  { id: 'noto-sans',  label: 'Noto Sans Hebrew',  desc: 'Geometric sans', family: "'Noto Sans Hebrew', Arial, sans-serif",          url: 'https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@400;500;700&display=swap' },
+  { id: 'david',      label: 'David Libre',        desc: 'Newspaper',    family: "'David Libre', Georgia, serif",                   url: 'https://fonts.googleapis.com/css2?family=David+Libre:wght@400;700&display=swap' },
+  { id: 'suez',       label: 'Suez One',           desc: 'Bold headline', family: "'Suez One', Georgia, serif",                     url: 'https://fonts.googleapis.com/css2?family=Suez+One&display=swap' },
+  { id: 'miriam',     label: 'Miriam Libre',       desc: 'Classic print', family: "'Miriam Libre', Georgia, serif",                 url: 'https://fonts.googleapis.com/css2?family=Miriam+Libre:wght@400;700&display=swap' },
+];
+
 // SA text source
 export const SA_SOURCE = {
   id: 'sa',

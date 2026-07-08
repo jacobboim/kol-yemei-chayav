@@ -49,3 +49,9 @@ create policy "Users manage own settings"
 create trigger user_settings_updated_at
   before update on user_settings
   for each row execute function update_updated_at();
+
+-- Migration: add theme / font columns (run once against an existing DB)
+alter table user_settings
+  add column if not exists color_theme  text    not null default 'ocean',
+  add column if not exists dark_mode    boolean not null default false,
+  add column if not exists hebrew_font  text    not null default 'frank-ruhl';

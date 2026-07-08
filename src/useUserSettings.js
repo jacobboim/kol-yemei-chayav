@@ -3,7 +3,10 @@ import { supabase } from './supabase';
 
 const STORAGE_KEY = 'shulchan_aruch_user_settings';
 const DEFAULT_SETTINGS = {
-  layout: 'accordion',
+  layout: 'tabbed',
+  colorTheme: 'ocean',
+  darkMode: false,
+  hebrewFont: 'frank-ruhl',
 };
 
 function loadLocalSettings() {
@@ -27,7 +30,7 @@ async function loadSettingsFromSupabase(userId) {
 
   const { data, error } = await supabase
     .from('user_settings')
-    .select('layout')
+    .select('layout, color_theme, dark_mode, hebrew_font')
     .eq('user_id', userId)
     .single();
 
@@ -35,6 +38,9 @@ async function loadSettingsFromSupabase(userId) {
   return {
     ...DEFAULT_SETTINGS,
     layout: data.layout || DEFAULT_SETTINGS.layout,
+    colorTheme: data.color_theme || DEFAULT_SETTINGS.colorTheme,
+    darkMode: data.dark_mode ?? DEFAULT_SETTINGS.darkMode,
+    hebrewFont: data.hebrew_font || DEFAULT_SETTINGS.hebrewFont,
   };
 }
 
@@ -45,6 +51,9 @@ async function saveSettingsToSupabase(userId, settings) {
     {
       user_id: userId,
       layout: settings.layout,
+      color_theme: settings.colorTheme,
+      dark_mode: settings.darkMode,
+      hebrew_font: settings.hebrewFont,
     },
     { onConflict: 'user_id' },
   );
@@ -63,7 +72,6 @@ export function useUserSettings(userId) {
 
     loadSettingsFromSupabase(userId).then((remote) => {
       if (!remote) {
-        // First login on this account: push local settings up once.
         saveSettingsToSupabase(userId, settings);
         return;
       }
@@ -76,23 +84,27 @@ export function useUserSettings(userId) {
     });
   }, [userId]);
 
-  function setLayout(layout) {
+  function updateSettings(patch) {
     setSettings((prev) => {
-      const next = { ...prev, layout };
-
+      const next = { ...prev, ...patch };
       if (userId) {
         clearTimeout(syncTimer.current);
         syncTimer.current = setTimeout(() => {
           saveSettingsToSupabase(userId, next);
         }, 600);
       }
-
       return next;
     });
   }
 
   return {
     layout: settings.layout,
-    setLayout,
+    colorTheme: settings.colorTheme,
+    darkMode: settings.darkMode,
+    hebrewFont: settings.hebrewFont,
+    setLayout: (layout) => updateSettings({ layout }),
+    setColorTheme: (colorTheme) => updateSettings({ colorTheme }),
+    setDarkMode: (darkMode) => updateSettings({ darkMode }),
+    setHebrewFont: (hebrewFont) => updateSettings({ hebrewFont }),
   };
 }

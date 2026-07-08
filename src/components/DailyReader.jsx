@@ -1,11 +1,50 @@
 import React, { useEffect, useState } from "react";
-import { CHELAKOT, LAYOUT_OPTIONS } from "../constants";
+import { CHELAKOT, COLOR_THEMES, HEBREW_FONTS, LAYOUT_OPTIONS } from "../constants";
 import { loadSimanData, useDailyTexts } from "../useSefaria";
 import { useProgress } from "../useProgress";
 import { useUserSettings } from "../useUserSettings";
 import SeifPanel from "./SeifPanel";
 import CalendarView from "./CalendarView";
 import AuthPanel from "./AuthPanel";
+
+function SettingRow({ label, children }) {
+  return (
+    <div style={{ display: "flex", alignItems: "flex-start", gap: 10, flexWrap: "wrap", marginBottom: 10 }}>
+      <span style={{ fontSize: 12, color: "var(--ink-muted)", minWidth: 80, paddingTop: 6, flexShrink: 0 }}>
+        {label}
+      </span>
+      <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
+        {children}
+      </div>
+    </div>
+  );
+}
+
+function SettingChip({ children, active, onClick }) {
+  return (
+    <button
+      onClick={onClick}
+      style={{
+        padding: "4px 11px",
+        borderRadius: 20,
+        fontSize: 12,
+        border: `0.5px solid ${active ? "var(--gold-border)" : "var(--border-strong)"}`,
+        background: active ? "var(--gold-light)" : "var(--cream)",
+        color: active ? "var(--gold)" : "var(--ink-muted)",
+        cursor: "pointer",
+        fontWeight: active ? 500 : 400,
+        display: "flex",
+        alignItems: "center",
+      }}
+    >
+      {children}
+    </button>
+  );
+}
+
+function Divider() {
+  return <div style={{ height: "0.5px", background: "var(--border)", margin: "10px 0" }} />;
+}
 
 function NavButton({ children, onClick, active, disabled }) {
   return (
@@ -34,7 +73,38 @@ export default function DailyReader({ user, onSignIn, onSignUp, onSignOut }) {
   const [showSettings, setShowSettings] = useState(false);
   const [showCalendar, setShowCalendar] = useState(false);
   const [showAuth, setShowAuth] = useState(false);
-  const { layout, setLayout } = useUserSettings(user?.id);
+  const {
+    layout, setLayout,
+    colorTheme, setColorTheme,
+    darkMode, setDarkMode,
+    hebrewFont, setHebrewFont,
+  } = useUserSettings(user?.id);
+
+  // Apply color theme + dark/light mode to <html>
+  useEffect(() => {
+    document.documentElement.setAttribute('data-theme', `${colorTheme}-${darkMode ? 'dark' : 'light'}`);
+  }, [colorTheme, darkMode]);
+
+  // Load Hebrew font and apply via CSS custom property
+  useEffect(() => {
+    const font = HEBREW_FONTS.find((f) => f.id === hebrewFont);
+    if (!font) return;
+
+    if (font.url) {
+      const linkId = `heb-font-${hebrewFont}`;
+      if (!document.getElementById(linkId)) {
+        const link = document.createElement('link');
+        link.id = linkId;
+        link.rel = 'stylesheet';
+        link.href = font.url;
+        document.head.appendChild(link);
+      }
+      document.documentElement.style.setProperty('--heb-font', font.family);
+    } else {
+      // Frank Ruhl Libre — already loaded in index.css, just clear override
+      document.documentElement.style.removeProperty('--heb-font');
+    }
+  }, [hebrewFont]);
 
   const chelek = CHELAKOT.find((c) => c.id === chelekId);
   const {
@@ -269,51 +339,78 @@ export default function DailyReader({ user, onSignIn, onSignUp, onSignOut }) {
               marginBottom: "1.25rem",
             }}
           >
-            <div style={{ fontSize: 13, fontWeight: 500, marginBottom: 12 }}>
+            <div style={{ fontSize: 13, fontWeight: 500, marginBottom: 14 }}>
               Display settings
             </div>
-            <div
-              style={{
-                display: "flex",
-                alignItems: "center",
-                gap: 10,
-                flexWrap: "wrap",
-              }}
-            >
-              <span
-                style={{
-                  fontSize: 13,
-                  color: "var(--ink-muted)",
-                  minWidth: 60,
-                }}
-              >
-                Layout
-              </span>
-              <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
-                {LAYOUT_OPTIONS.map((opt) => (
-                  <button
-                    key={opt.id}
-                    onClick={() => setLayout(opt.id)}
+
+            {/* Layout */}
+            <SettingRow label="Layout">
+              {LAYOUT_OPTIONS.map((opt) => (
+                <SettingChip
+                  key={opt.id}
+                  active={layout === opt.id}
+                  onClick={() => setLayout(opt.id)}
+                >
+                  {opt.label}
+                </SettingChip>
+              ))}
+            </SettingRow>
+
+            <Divider />
+
+            {/* Color Theme */}
+            <SettingRow label="Theme">
+              {COLOR_THEMES.map((t) => (
+                <SettingChip
+                  key={t.id}
+                  active={colorTheme === t.id}
+                  onClick={() => setColorTheme(t.id)}
+                >
+                  <span
                     style={{
-                      padding: "5px 13px",
-                      borderRadius: 20,
-                      fontSize: 12,
-                      border: `0.5px solid ${layout === opt.id ? "var(--gold-border)" : "var(--border-strong)"}`,
-                      background:
-                        layout === opt.id
-                          ? "var(--gold-light)"
-                          : "var(--cream)",
-                      color:
-                        layout === opt.id ? "var(--gold)" : "var(--ink-muted)",
-                      cursor: "pointer",
-                      fontWeight: layout === opt.id ? 500 : 400,
+                      display: "inline-block",
+                      width: 9,
+                      height: 9,
+                      borderRadius: "50%",
+                      background: t.swatch,
+                      marginRight: 5,
+                      verticalAlign: "middle",
+                      marginBottom: 1,
+                      border: "1px solid rgba(0,0,0,0.15)",
                     }}
-                  >
-                    {opt.label}
-                  </button>
-                ))}
-              </div>
-            </div>
+                  />
+                  {t.label}
+                </SettingChip>
+              ))}
+            </SettingRow>
+
+            {/* Dark / Light mode */}
+            <SettingRow label="Mode">
+              <SettingChip active={!darkMode} onClick={() => setDarkMode(false)}>
+                ☀ Light
+              </SettingChip>
+              <SettingChip active={darkMode} onClick={() => setDarkMode(true)}>
+                ☽ Dark
+              </SettingChip>
+            </SettingRow>
+
+            <Divider />
+
+            {/* Hebrew font */}
+            <SettingRow label="Hebrew font">
+              {HEBREW_FONTS.map((f) => (
+                <SettingChip
+                  key={f.id}
+                  active={hebrewFont === f.id}
+                  onClick={() => setHebrewFont(f.id)}
+                >
+                  {f.label}
+                  <span style={{ color: "var(--ink-faint)", marginLeft: 4 }}>
+                    · {f.desc}
+                  </span>
+                </SettingChip>
+              ))}
+            </SettingRow>
           </div>
         )}
 

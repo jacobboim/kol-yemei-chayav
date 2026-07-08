@@ -2,19 +2,102 @@
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-:root {
+/* ── Parchment (classic warm cream) ── */
+:root,
+[data-theme="parchment-light"] {
   --cream: #F7F4EE;
   --cream-dark: #EDE9E0;
+  --parchment: #FBF8F2;
   --ink: #1C1A16;
   --ink-muted: #5C5849;
   --ink-faint: #9C9890;
   --gold: #B8860B;
   --gold-light: #F5EDD0;
   --gold-border: #D4B44A;
-  --parchment: #FBF8F2;
   --white: #FFFFFF;
   --border: rgba(28,26,22,0.12);
   --border-strong: rgba(28,26,22,0.22);
+}
+
+[data-theme="parchment-dark"] {
+  --cream: #1a1710;
+  --cream-dark: #2a2720;
+  --parchment: #221f17;
+  --ink: #e8e3d5;
+  --ink-muted: #9c9880;
+  --ink-faint: #6a6652;
+  --gold: #D4B44A;
+  --gold-light: #352d10;
+  --gold-border: #a08030;
+  --white: #2a2720;
+  --border: rgba(232,227,213,0.12);
+  --border-strong: rgba(232,227,213,0.22);
+}
+
+/* ── Ocean Deep ── */
+[data-theme="ocean-light"] {
+  --cream: #eef4f7;
+  --cream-dark: #dce9ef;
+  --parchment: #ffffff;
+  --ink: #0f2230;
+  --ink-muted: #4d6675;
+  --ink-faint: #8aaabb;
+  --gold: #0e7490;
+  --gold-light: #e0f4fa;
+  --gold-border: #38bdf8;
+  --white: #ffffff;
+  --border: rgba(14,36,48,0.12);
+  --border-strong: rgba(14,36,48,0.22);
+}
+
+[data-theme="ocean-dark"] {
+  --cream: #08161e;
+  --cream-dark: #163140;
+  --parchment: #0f2230;
+  --ink: #d6e7f0;
+  --ink-muted: #84a4b5;
+  --ink-faint: #4a6878;
+  --gold: #38bdf8;
+  --gold-light: #0c2535;
+  --gold-border: #0e7490;
+  --white: #163140;
+  --border: rgba(214,231,240,0.12);
+  --border-strong: rgba(214,231,240,0.22);
+}
+
+/* ── Night Scholar ── */
+[data-theme="scholar-light"] {
+  --cream: #f0f0f5;
+  --cream-dark: #e2e2ee;
+  --parchment: #ffffff;
+  --ink: #18181b;
+  --ink-muted: #52525b;
+  --ink-faint: #a1a1aa;
+  --gold: #4f46e5;
+  --gold-light: #eef2ff;
+  --gold-border: #818cf8;
+  --white: #ffffff;
+  --border: rgba(24,24,27,0.12);
+  --border-strong: rgba(24,24,27,0.22);
+}
+
+[data-theme="scholar-dark"] {
+  --cream: #09090b;
+  --cream-dark: #27272a;
+  --parchment: #18181b;
+  --ink: #e4e4e7;
+  --ink-muted: #a1a1aa;
+  --ink-faint: #52525b;
+  --gold: #818cf8;
+  --gold-light: #1e1b4b;
+  --gold-border: #4f46e5;
+  --white: #27272a;
+  --border: rgba(228,228,231,0.12);
+  --border-strong: rgba(228,228,231,0.22);
+}
+
+/* ── Shared structural tokens ── */
+:root {
   --radius-sm: 6px;
   --radius: 10px;
   --radius-lg: 14px;
@@ -40,10 +123,11 @@ body {
   font-family: 'Inter', system-ui, sans-serif;
   line-height: 1.6;
   min-height: 100vh;
+  transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 .heb-text {
-  font-family: 'Frank Ruhl Libre', 'Times New Roman', serif;
+  font-family: var(--heb-font, 'Frank Ruhl Libre', 'Times New Roman', serif);
   direction: rtl;
   text-align: right;
   font-size: 18px;

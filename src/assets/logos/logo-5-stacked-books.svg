@@ -1,0 +1,30 @@
+<!-- Logo 5: Four stacked sefarim (books) representing the 4 chelakot of Shulchan Aruch -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <!-- Shadow -->
+  <ellipse cx="24" cy="44" rx="16" ry="2.5" fill="#B8860B" opacity="0.12"/>
+
+  <!-- Bottom book: Choshen Mishpat (deep teal) -->
+  <rect x="8" y="36" width="32" height="7" rx="2" fill="#1A3A5C"/>
+  <rect x="8" y="36" width="4" height="7" rx="1" fill="#0C2840"/>
+  <text x="30" y="41.5" font-family="'Frank Ruhl Libre', serif" font-size="4.5" fill="#A8C8E8" text-anchor="end" dominant-baseline="middle">חו"מ</text>
+
+  <!-- 3rd book: Even HaEzer (warm rose) -->
+  <rect x="9" y="28.5" width="30" height="7" rx="2" fill="#5C2A00"/>
+  <rect x="9" y="28.5" width="4" height="7" rx="1" fill="#3A1800"/>
+  <text x="29" y="34" font-family="'Frank Ruhl Libre', serif" font-size="4.5" fill="#FFC8A0" text-anchor="end" dominant-baseline="middle">אה"ע</text>
+
+  <!-- 2nd book: Yoreh Deah (forest green) -->
+  <rect x="10" y="21" width="28" height="7" rx="2" fill="#1C4A2E"/>
+  <rect x="10" y="21" width="4" height="7" rx="1" fill="#0E2E1A"/>
+  <text x="28" y="26.5" font-family="'Frank Ruhl Libre', serif" font-size="4.5" fill="#A0D8B8" text-anchor="end" dominant-baseline="middle">יו"ד</text>
+
+  <!-- Top book: Orach Chayim (rich gold) — the main one, slightly largest-looking -->
+  <rect x="11" y="12" width="26" height="9" rx="2" fill="#B8860B"/>
+  <rect x="11" y="12" width="4.5" height="9" rx="1" fill="#8B6400"/>
+  <!-- Gold shimmer on spine -->
+  <rect x="12.5" y="13.5" width="1.5" height="6" rx="0.75" fill="#F5D060" opacity="0.5"/>
+  <text x="27" y="18" font-family="'Frank Ruhl Libre', serif" font-size="4.5" fill="#FFF8E7" text-anchor="end" dominant-baseline="middle">או"ח</text>
+
+  <!-- Small star of David accent above top book -->
+  <text x="24" y="10" font-family="serif" font-size="6" fill="#D4B44A" text-anchor="middle" dominant-baseline="middle">✦</text>
+</svg>

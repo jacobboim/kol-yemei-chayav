@@ -1,0 +1,30 @@
+{
+  "chelek": "EH",
+  "siman": 18,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-08T00:08:58.746Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "קדושין במי תופסין. ובו סעיף אחד:קידושין תופסין בחייבי לאוין ובחייבי עשה:  (וכ\"ש בשניות דרבנן טור):",
+      "en": "Betrothal takes hold between those who are prohibited by a negative commandment or positive commandment, and all the more so, [between those] with secondary Rabbinic prohibitions (Tur).",
+      "ref": "Shulchan Arukh, Even HaEzer 18:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא יבמות ד' צ\"ב ע\"א וכחכמים וכתובות דף לט ע\"ב ובכמה דוכתי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 18:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

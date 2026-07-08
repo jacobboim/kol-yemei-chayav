@@ -1,0 +1,574 @@
+{
+  "chelek": "EH",
+  "siman": 85,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 19,
+  "fetchedAt": "2026-07-08T00:09:00.053Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני נכסי מלוג וצאן ברזל. ובו יט סעיפים:פירותיה כיצד תקנו שיאכל פירות נכסי אשתו תחת פדיונה שחייבוהו לפדותה ואם אמר איני חפץ בפירותיה ולא אפדה אין שומעין לו וכן אם אמרה היא אינה חפצה בתקנה זו אין שומעין לה:",
+      "en": "Her fruits: How so?\nThey enacted that he should eat the fruits of his wife's property in return for redeeming her, for they obligated him to redeem her.\nAnd if he says: I don't want the fruits and I won't redeem her, they don't listen to him.\nAnd the same is true if she says: I don't want this enactment, they don't listen to her.",
+      "ref": "Shulchan Arukh, Even HaEzer 85:1"
+    },
+    {
+      "seif": 2,
+      "he": "נכסי צאן ברזל הם הנדוניא דהנעלת ליה בגדים או בהמה ועבדים ומקבל עליו אחריות (טור)  אם מתו מתו לו ואם הותירו הותירו לו וכן אם פחתו או נגנבו או אבדו הכל לו ונ\"מ הם נכסים שאינן באחריותו (ג\"ז טור)  אם מתו או הותירו או פחתו או נגנבו או נאבדו הכל לה שאין לבעל בהן אלא אכילת פירות ואם פשע הבעל בנכסי מלוג ונאבדו פטור מפני שהיא עמו במלאכתו והוי פשיעה בבעלים: הגה ע\"ל סימן ע\"ז סעיף ג' כתבתי דין בגדי אשה אם מקרי צ\"ב או נ\"מ השדה שהבעל שם לה בכתובתה דינו כצ\"ב (תשו' רא\"ש) (וע\"ל סימן צ' סעיף ט\"ז):",
+      "en": "Iron sheep property: This is the dowry that she brought in to the marriage, clothes, or animals or slaves and he took responsibility for them (Tur). \nIf they die, they die for him. And if they increase, they increase for him. And similarly if they decrease or are stolen, or lost, everything is to him.\nAnd pluckable property: This is the property for which he has no responsibility (Tur).\nIf they die or increase or decrease or are stolen, or lost, everything is to her, for the husband has rights only to the fruit.\nAnd if the husband is negligent with the pluckable property, and they were lost, he is exempt, for she is working with him and this is considered \"negligence in the presence of the owners.\" \nHagah: See above siman 17, p. 3, where I wrote the law of the woman's clothes, whether they are considered iron sheep property or pluckable property.\nThe field that the husband appointed for her ketubah, its rule is as iron sheep property (Responsa of the Rosh). And see below, siman 90, p. 16.",
+      "ref": "Shulchan Arukh, Even HaEzer 85:2"
+    },
+    {
+      "seif": 3,
+      "he": "יש מי שאומר דנכסי צאן ברזל אינו חייב באחריותן אא\"כ שמו אותם עליו בדמים קצובים או שקיבל אחריותן בפירוש ויש מי שאומר שמאחר שכתבן בכתובה נתחייב באחריותם אע\"פ שלא שמו אותם ולא נתחייב באחריותם והראשון עיקר:",
+      "en": "There are those that say: that [regarding] the assets of a flock in iron, there is no requirement of a guarantee. Rather if thusly there was an appraisal of them in blood measures, or that a guarantee is received clearly. And there are those that say: that the since it is written in the ketuba (marriage contract), one is obligated in [the making of a] guarantee even though there is no appraisal on them and one is not obligated in their guarantee. And the first principle is:",
+      "ref": "Shulchan Arukh, Even HaEzer 85:3"
+    },
+    {
+      "seif": 4,
+      "he": "בעל הבא לדון עם אחד על נכסי אשתו צריך הרשאה ואם יש פירות בקרקע מתוך שיש לו לדון על הפירות שהם שלו דן על העיקר ואינו צריך הרשאה מאשתו שאם אין לה קרקע אין לו פירות: הגה דוקא לדון אבל לעשות פשרה צריך הרשאה (ריב\"ש סי' תצ\"ו) בא לדון על מעות מזומנים של אשתו אינו צריך הרשאה דהוי כאלו היו פירות בקרקע (ת\"ה סימן שי\"ב וע' בח\"ה סי' קכ\"ב):",
+      "en": "A master that comes to discuss with [some]one about the property of his wife, needs authorization. And if there are fruits on the floor, because he has permission regarding the fruits that they are his, he discusses about the main parts, and he does not need the authorization of his wife, but if she does not know they are [on] the floor they are not his fruits.\n\nHagah: Actually to discuss, but to make a compromise, he needs permission (source: Rivash siman 496). He comes to speak about money from the hand of his wife. he does not need permission, alais that what fruits there are on the floor (source: Trumas hadeshen siman 312, and Ayin Hoshen Mishpat Siman 122)",
+      "ref": "Shulchan Arukh, Even HaEzer 85:4"
+    },
+    {
+      "seif": 5,
+      "he": "השאילה האשה לאחר פרה של נכסי מלוג ונשאל בעלה עמה לא הוי שאלה בבעלים דקנין פירות לאו כקנין הגוף דמי  (עיין בח\"ה שמ\"ו):",
+      "en": "The lending of a woman after a cow of her possession from a  \"log\", and the lending of her husband, it is not that these are the husbands', that the acquisition of fruits are not a material acquisition to him actually. (From Ayin B'Hoshen Ha'mishpat siman 346)",
+      "ref": "Shulchan Arukh, Even HaEzer 85:5"
+    },
+    {
+      "seif": 6,
+      "he": "אשה ששאלה פרה ואח\"כ נשאת ומתה הבעל אע\"פ שהוא משתמש בה כל ימי שאילתה פטור אפי' פשע מפני שהוא כלוקח והאשה חייבת לשלם כשיהיה לה ממון ואם הודיעה את בעלה שהיא שאולה ה\"ז נכנס תחתיה:",
+      "en": "If a woman borrowed a cow, and then she got married and [then] died, the husband, even though he used it the whole time it was borrowed, is exempt, even if he was negligent, because he is considered like a buyer. And the woman is obligated to pay when she has money. And if she informed her husband that it was borrowed, then he takes her place.",
+      "ref": "Shulchan Arukh, Even HaEzer 85:6"
+    },
+    {
+      "seif": 7,
+      "he": "באו לידה  (נכסים)  אחר שנשאת בין שבאו לידה בירושה או שניתנו לה במתנה או שחבלו בה ונתנו לה חלקה בבושתה ופגמה נקראים נכסי מלוג והרי הם כאותם שהכניסה לו ולא קבלם באחריות אבל אם מכרה כתובתה ונדונייתא אותם הדמים אין הבעל אוכל פירותיהם וכן אם נתנה מתנה לאחר קודם שנשאת כדי להבריח מבעלה אע\"פ שאין המתנה מתנה אין הבעל אוכל פירות וכן הבעל שנתן מתנה לאשתו בין קרקע בין מטלטלין קנתה ואין הבעל אוכל פירות ומיהו אינה יכולה למכור מה שנתן לה ולא ליתנו לאחר אלא ישאר בידה ואם תמית ירשנה והפירות שיוצאין לה ממנה דינם כשאר נכסי מלוג וימכרו וילקחו בהם קרקע והוא אוכל פירות:",
+      "en": "If she acquired property after she was married, whether she acquired it through inheritance or it was given to her as a gift, or if they harmed her and gave her her portion for her shame and damage, it is called pluckable property, and behold it is like [property] that she brought in to him and he did not accept responsibility for them. But if she sold her ketubah or dowry, the husband does not have rights to the fruit of the money. And so if she gave a gift to another person before she was married, in order to withhold it from her husband, even though the gift is not [truly] a gift, the husband does not have rights to the fruits. And so if the husband gave a gift to his wife, whether land or moveable property, she acquired it, and the husband does not have rights to the fruits. However, she cannot sell what he gave her, nor give it to another, but it must remain in her possession, and if she dies he inherits it, and the fruits that issue to her from it their law is as for other pluckable property, and they may be sold and he may buy land with them and he has rights to the fruits.",
+      "ref": "Shulchan Arukh, Even HaEzer 85:7"
+    },
+    {
+      "seif": 8,
+      "he": "בד\"א שאינו אוכל פירות המתנה כשנתן לה אחר שנשאת אבל אם נתן לה בעודה ארוסה כיון שנשאת זכה במתנה זו כשאר נכסי מלוג ואוכל פירותיה ואם מן הנישואין נתאלמנה או נתגרשה שלא מחמת מרדה נוטלת מתנה זו חוץ מכתובתה:",
+      "en": "What type of things do they refer to when is said, we do not eat the fruit of [benefit] from the present, like he [a husband] gives her [his wife] after the wedding? \nBut if her fiancee gives her something in addition, because they are getting married, she will remember this gift like the rest of her property in her log, and will benefit. \nAnd if she is widowed or becomes foreign, not because of rebellion, she takes this present, regardless of the ketubah.",
+      "ref": "Shulchan Arukh, Even HaEzer 85:8"
+    },
+    {
+      "seif": 9,
+      "he": "המוכר קרקע לאשתו אם היו המעות שלקחה בהם את הקרקע מהבעל גלוים וידועים לבעל קנתה והבעל אוכל פירות אותו קרקע ואם היו המעות טמונים לא קנתה שהבעל אומר לא מכרתי אלא כדי להראות המעות שטמנה ואותם המעות שנראו ילקח בהם קרקע והבעל אוכל פירות: הגה וי\"א דאם טוען בריא שהמעות שלו הרי הם שלו לגמרי (וכן משמע מלשון הטור):",
+      "en": "One who sells land to his wife, if the maot with which she acquired the land from her husband were revealed and known to her husband, she acquired it, and the husband has rights to the fruits of that land. But if the maot were hidden, she did not acquire it, for the husband may say: I only sold it in order to show the maot she had hidden, and with those maot that were seen land may be bought and the husband has rights to the fruits. Hagah: And there is an opinion that if there is a viable argument that the maot are his, behold they are entirely his. (And this is implied by the Tur's language.)",
+      "ref": "Shulchan Arukh, Even HaEzer 85:9"
+    },
+    {
+      "seif": 10,
+      "he": "אם הוא אומר טמונים היו והיא אומרת לא היו עליה להביא ראיה:",
+      "en": "If he says: They were hidden, and she says: They were not, the [burden] is on her to bring proof.",
+      "ref": "Shulchan Arukh, Even HaEzer 85:10"
+    },
+    {
+      "seif": 11,
+      "he": "נתן לה אחד מתנה ע\"מ שאין לבעלה רשות בה קנה הבעל והרי הוא כשאר נ\"מ אא\"כ התנה הנותן בגוף המתנה שיהיה לכך ולכך כגון שיאמר לה הרי המעות נתונים לך ע\"מ שתלבשי בהם או על מנת שתעשי מה שתרצי בלא רשות הבעל: הגה נתן לה אביה מתנה והתנה באחד מדרכים אלו ואח\"כ מת אביה והיא יורשה אותו נתבטלה המתנה וזכה בה הבעל כבשאר נכסי מלוג (תשובת הרמב\"ן סימן ק\"ן):",
+      "en": "If one gives her a present on the condition that her husband does not have permission [to use it], the husband acquires it, and it [the present] becomes like the rest of nikhsei millog [property which the husband keeps upon the termination of the marriage], unless the giver stipulated about the present that it would be for so and so. For example, if he says to her: This money is given to you on condition that you use them to dress [yourself] or on condition that you do with it as you please without your husband's permission. Rem\"a: If her father gave her a present and stipulated in one of these ways, and afterwards her father dies and she inherits him, the present is nullified and her husband keeps it like the rest of nikhsei millog (Responsa Ramban Siman 150)",
+      "ref": "Shulchan Arukh, Even HaEzer 85:11"
+    },
+    {
+      "seif": 12,
+      "he": "נמצאו ביד האשה מעות או מטלטלין והיא אומרת מתנה נתנו לי והוא אומר ממעשה ידיך הם ושלי הם נאמנת וילקח בהם קרקע והוא אוכל פירות ויש לו להחרים על מי שטוען שקר ואם אמרה ע\"מ כן נתנו לי שלא יהא לבעלי רשות בהם אלא שאעשה בהם מה שארצה עליה להביא ראיה: הגה וי\"א הא דאינה נאמנת דוקא במעות טמונים אבל במעות שאינן טמונים נאמנת לומר שלי הם (רש\"י והרא\"ש סי' פ\"ו) ודוקא בשאינה נושאת ונותנת תוך הבית (ב\"י בשם הרשב\"א וע\"ל סי' פ\"ו) וי\"א דאם לא ראו ממון בידה ויש לה מגו לומר שאין לה או שהחזירה לו נאמנת בכל ענין  (תשובת מוהר\"ם סימן רס\"ח ועיין בח\"ה סי' ס\"ב)  ואם אמרה אתה נתת לי במתנה נשבעת שבועת היסת שנתנם לה הבעל ואינו אוכל פירותיהם:",
+      "en": "If money or movable goods are found in the hands of a woman and she says they are a present given to me, and he says, they are her wages, so they are mine, she is believed, and she can buy the land with the money [she earned] but he [her husband] can eat the fruit.\nHe can accuse someone who claims it's a lie. \nAnd if she says: I was given this present on the condition that my husband cannot touch it, rather I should do what I want with it, the burden of proof is upon her.\nRem\"a: there are those who say that she is not believed, specifically with hidden money, but with non-hidden money, she is believed when she says: they are mine (Rashi and Rosh siman 86). Specifically, when it was not lifted or given inside of the house (Beit Yosef in the name of the Rashba), (siman 86). \nThere are those who say that if they did not see the money in her hand, and she has a migo [hypothetical argument] saying that it is not hers or it was returned her, she is believed in any case (responsa Muharam siman 268), (CM siman 62). \nAnd if she says: you gave it to me as a present, she makes a shevuat heset [oath that is placed upon] that her husband gave it to her, so he cannot benefit from it.",
+      "ref": "Shulchan Arukh, Even HaEzer 85:12"
+    },
+    {
+      "seif": 13,
+      "he": "נכסי מלוג הבעל אוכל פירות ואם הם דבר שאינו עושה פירות ימכר וילקח בו דבר שעושה פירות ואם הוא אומר כך וכך ילקח בהם והיא אומרת איני לוקחת בהם אלא כך וכך לוקחים דבר שפירותיו מרובים ויציאתה מעוטה בין שהיה הדבר כרצונו או כרצונה ואין קונין דבר שאין גזעו מחליף ואם נפל לה דבר שאין גזעו מחליף אע\"פ שלא ישאר קצת מהקרן א\"צ למוכרו כגון שהכניסה לו עז לחלבה רחל לגיזתה דקל לפירותיו אע\"פ שאין לה אלא פירות אלו בלבד הרי זה אוכל והולך עד שתכלה הקרן וכן אם הכניסה לו כלי בתורת נכסי מלוג ה\"ז משתמש בהם ולובש ומציע ומכסה עד שיכלה הקרן וכשיגרש אינו חייב לשלם הבליות של נכסי מלוג:",
+      "en": "Nichsei Milog [i.e. property the wife received during marriage that is hers, or property of hers that isn't listed on the ketubah], the husband can eat its fruit [i.e. benefit from its produce], and if it is a thing that can't produce, he can sell it and buy something that can produce. If he says to her, \"Such-and-such [parcel of land] can be bought through [the nichsei milog],\" and she says, \"I will only take such-and-such [parcel of the land] for it,\" they should take a parcel where there is much produce and little maintenance, whether or not it is as she wanted it. They should not buy a parcel that cannot regenerate. If [the nichsei milog that] falls to her is a parcel that cannot regenerate, even if none of the principle is left over, he does not need to sell it. For example, a goat for milk, a sheep for sheering [its wool], a date palm tree for its fruit, even though she only has [rights to] the produce [and not the object itself], he can have the produce until he consumes the principle itself [and ruins it that it can no longer produce]. And similarly if she brings to him a utensil [such as bed sheets] through the framework of nichsei milog, he can use it and wear it, cover [a bed], cover [a table], even to the point of using its principle [ruining it], and when he divorces her he is not obligated to pay back for the wearing out of the nichsei milog.",
+      "ref": "Shulchan Arukh, Even HaEzer 85:13"
+    },
+    {
+      "seif": 14,
+      "he": "נפלו לה עבדים אע\"פ שהם זקנים לא ימכור מפני שהם שבח בית אביה נפלו לה זתים וגפנים ולא היו לה בגוף הקרקע שהאילנות בה כלום אם עושין כדי טיפולן לא ימכרו מפני שבח בית אביה ואם לאו הרי אלו ימכרו לעצים וילקח בהם קרקע והוא אוכל פירות:",
+      "en": "If slaves fell to her, even if they are old, he cannot sell them, because they show honor to her father's house. If olives and grapes fall to her, but not the actual land where the trees are at all, if they produce enough to [pay for] their care, he should not sell them, for they show honor to her father's house. If they do not [produce enough], they should be sold as wood, and they should buy land where he can benefit from the produce.",
+      "ref": "Shulchan Arukh, Even HaEzer 85:14"
+    },
+    {
+      "seif": 15,
+      "he": "נפלו לה פירות המחוברים לקרקע הרי אלו של בעל אפי' הגיע זמנן ליקצר תולשם מהקרקע שלה וימכרו וילקח בהם קרקע והוא אוכל פירות: הגה זה אינו דכל הפירות הנלקטים תחתיו הם שלו לגמרי ואפשר דטעות נפל בספרים וכך ראוי להיות תלושין מן הקרקע הרי הם שלה ובבא אחריתי היא (וכן הוא ברמב\"ם פרק כ\"ב דאישות):",
+      "en": "If produce that is still connected to the ground falls to her [in inheritance, but not the land itself], it belongs to the husband. Even if it reached the time to cut it, if he detaches it from the land, it is hers, and he sells it, and buys land and he can eat its produce.  Rem\"a: This is not true, for all the produce collected by him is completely his! It's possible a mistake crept up in the books, and it was supposed to be \"If they were detached from the ground [already], they are hers,\" and it's a different clause, and so the Rambam Ishut 22:24.",
+      "ref": "Shulchan Arukh, Even HaEzer 85:15"
+    },
+    {
+      "seif": 16,
+      "he": "עבדי נכסי מלוג ובהמות נ\"מ הבעל חייב במזונותיהם ובכל צרכיהם והם עושים לו והוא אוכל פירותיהם לפיכך ולד שפחת מלוג לבעל ולד בהמת מלוג לבעל ואם גירשה ורצתה האשה לתת דמים וליטול ולד השפחה מפני שבח בית אביה שומעין לה:",
+      "en": "Slaves from nichsei milog [property she received in inheritance while married or not on the ketubah] and animals of nichsei milog, the husband is obligated in their sustenance and all their needs, and they produce for him, and he can benefit from them. The offspring of a maidservant from the milog belongs to the husband [slave-owner]. The offspring of the animals of the milog belong to the husband. If she is divorced, and the woman wants to give money to take back the offspring of the maidservant, we listen to her for it shows honor to her father's house.",
+      "ref": "Shulchan Arukh, Even HaEzer 85:16"
+    },
+    {
+      "seif": 17,
+      "he": "אם רצה הבעל למכור קרקע של נכסי מלוג לאחר שיקח פירותיו לשנים מרובות ומקדים לו המעות אין שומעין לו אבל יכול למכור הפירות בכל שנה אחר שליקטן וכן אם ימכור הפירות לשנים מרובות ועושה סחורה במעות שפיר דמי  (ואם ב\"ח גובה מנדוניית האשה או נ\"מ שלה ע' בח\"ה סצ\"ז):",
+      "en": "If the husband desired to sell melog properties to another, who would purchase the fruits of the land for many years, and [the other] advances the monies, we do not listen to him (the husband). On the other hand, he can sell the fruit every year after he gathers them.  Similarly, if he sells the fruits [in advance] for many years, and does business with the monies [from the sale], this is acceptable. \nRama: If a creditor makes a claim against the wife's dowry or her melog properties, see Choshen Mishpat chapter 97.",
+      "ref": "Shulchan Arukh, Even HaEzer 85:17"
+    },
+    {
+      "seif": 18,
+      "he": "יש מי שאומר שאם הקרקע רחוק ומכרו לפירות לשנים מרובות מכור:",
+      "en": "There is an authority who says that if the lands [of the melog properties] are distant, and he (the husband) sold the usufruct rights for many years, the sale is valid.",
+      "ref": "Shulchan Arukh, Even HaEzer 85:18"
+    },
+    {
+      "seif": 19,
+      "he": "יש לבעל לכוף מקצת עבדי אשתו ואמהותיה שיהיו משמשים אותו בבית אשה אחרת שנשא בין שהיו עבדי מלוג בין שהיו עבדי צ\"ב אבל אינו יכול להוליכם לעיר אחרת שלא מדעת אשתו: הגה אבל אינו יכול להכריחם שישמשו לאשתו האחרת בבית אחר (ב\"י וכן משמע לשון הרמב\"ם) וי\"א דאם הם תכשיטים שאינן ראוין לה שיכול ליתנם לאחרת דלא הכניסה לו כדי שיוכלו ויפסדו ולא ישתמש בהם אדם (ב\"י בשם הרשב\"ץ):",
+      "en": "The husband may force some of the wife's manservants and maidservants to serve him the house of another wife, whether they melog servants or \"iron flock\" servants. But he may not take them to another city without his wife's permission.\nRama: He may not force them to serve the other wife in another house (Beit Yosef, and it is likewise implied in the language of the Rambam).  Some authorities that if she had ornaments which are inappropriate for her, the husband may give them to the other [wife], for she did not bring them to him so that they would waste away and be lost and no one would use them (Beit Yosef in the name of Rashbatz).",
+      "ref": "Shulchan Arukh, Even HaEzer 85:19"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה כתובות דף מז ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:1"
+        },
+        "2": {
+          "he": "ברייתא שם דף מז ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:2"
+        },
+        "3": {
+          "he": "ואפי' בעודה ארוסה כמ\"ש התוס' בב\"ב דף מט ע\"ב וכ\"כ ה\"ה בפי\"ב מה\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:3"
+        },
+        "4": {
+          "he": "כ\"כ התוס' בכתובות דף מ\"ז ע\"ב והרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:4"
+        },
+        "5": {
+          "he": "משנה יבמות דף סו ע\"א ומשנה גמרא כתובות דף עט ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:5"
+        },
+        "6": {
+          "he": "פשוט מימרא דרבא ב\"מ דף צו ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:6"
+        },
+        "7": {
+          "he": "טור בשם רבינו אפרים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:7"
+        },
+        "8": {
+          "he": "שם בשם בעל העיטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:8"
+        },
+        "9": {
+          "he": "ל' הרמב\"ם בפ\"ג מה' שלוחין ושותפין ממימרא דאביי גיטין דף מ\"ח ע\"ב דקנין פירו' לאו כקנין הגוף דמי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:9"
+        },
+        "10": {
+          "he": "כריש לקיש ב\"מ דף נז ע\"א כמסקנת הגמ' גיטין דף מ\"א ע\"א דהא חד מהני תלת דהלכה כר\"ל לגבי רבי יוחנן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:10"
+        },
+        "11": {
+          "he": "בעיא דרמי בר חמא ופשטא רבא ב\"מ דף צ\"ו ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:11"
+        },
+        "12": {
+          "he": "מפני שהוא פשיע' בבעלים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:12"
+        },
+        "13": {
+          "he": "משנה כתובות דף ס\"ה ע\"ב ודף ע\"ט ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:13"
+        },
+        "14": {
+          "he": "מימרא דרב' והלכ' וכו' ב\"ק דף פ\"ט ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:14"
+        },
+        "15": {
+          "he": "מסקנת הגמרא כתובות דף ע\"ט וכדמפרש אביי שם טעמא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:15"
+        },
+        "16": {
+          "he": "כמימרא דרב ב\"ב דף נ\"א ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:16"
+        },
+        "17": {
+          "he": "טור מדברי אביו הרא\"ש שם בפסקיו בשם ר\"ת וכ\"כ ה\"ה אהא דבעל שנתן מתנה כו' בשם הרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:17"
+        },
+        "18": {
+          "he": "שם בשם הרמ\"ה וכ' הב\"י שהם מבוארים בטעמן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:18"
+        },
+        "19": {
+          "he": "ל' רמב\"ם בפכ\"ב מה' אישות ממימרא דרבא הלכתא וכו' ב\"ב דף נא ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:19"
+        },
+        "20": {
+          "he": "כ' ה\"ה שרבינו מפרש הא דאמר רבא לא קנתה שאין המכר קיים שיכול הוא לומר כדי לגלותן מכרתי אבל האשה נאמנת על מעות שביד' אע\"פ שהם עמה ביד הבעל כיון שהי' לא נתנתן לו אלא על דעת המכר ולא הורע כוח' בכך",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:20"
+        },
+        "21": {
+          "he": "וכ\"כ ה\"ה שם בשם הרשב\"א וקצת מפרשים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:21"
+        },
+        "22": {
+          "he": "טור בשם הרמ\"ה וקרקע בחזקת בעליה עומדת כל זמן שלא נתברר דלאו מעות טמונים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:22"
+        },
+        "23": {
+          "he": "ל' הרמב\"ם בספ\"ג מהלכו' זכיי' ממשנה נדרים דף פח ע\"א ומפלוגתא דרב ושמואל שם דס\"ל דשניהם מודים בזה דקנה בעל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:23"
+        },
+        "24": {
+          "he": "כשמואל שם וכפירוש הרמב\"ם הביאו ה\"ה בשם הרשב\"א דתרתי בעי שמואל שיאמר ע\"מ שאין לבעליך רשות בהן וע\"מ שתעשי מה שתרצי ושכ\"פ רבינו סעדיה גאון ורב שמואל הנגיד בשם רב עמרם וכ\"כ הב\"י בשם הר\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:24"
+        },
+        "25": {
+          "he": "ג\"ז בפכ\"ב מה' אישות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:25"
+        },
+        "26": {
+          "he": "כ' ה\"ה שכן מוכח בירושלמי פרק ו' דכתובות והכ\"מ כתב בשם סה\"ת שהוא נלמד גם מבריי' האשה נותנת בתוך הבית וכו' ב\"ב דף נב ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:26"
+        },
+        "27": {
+          "he": "וכ' ה\"ה שכ\"כ הרמב\"ן והביא ראי' מברייתא אין מקבלין פקדונות מן הנשים וכו' ב\"ב דף נ\"א ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:27"
+        },
+        "28": {
+          "he": "כתב ה\"ה לפי שאין אשה מעיזה פניה בפני בעלה בכל דבר שהוא יודע האמת כמוה וגדולה מזו אמרו וכו' מבואר לעיל ריש סי\"ז הלכך נשבעת היסת כדין כופר בכל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:28"
+        },
+        "29": {
+          "he": "ג\"ז שם ממשנה וגמרא כתובות דף ע\"ט ע\"א ומפרש מ\"ש בגמ' שם שאם הא' אומר שדות וא' אומר בתים לוקחים שדות הוא משום שפירותיו מרובים ויציאתו מועטת וקרוב לזה פי' רש\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:29"
+        },
+        "30": {
+          "he": "שם כללא דמלתא וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:30"
+        },
+        "31": {
+          "he": "מימרא דרבא א\"ר נחמן שם ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:31"
+        },
+        "32": {
+          "he": "מימרא דרב נחמן שם וכחכמים שם בבריי'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:32"
+        },
+        "33": {
+          "he": "ג\"ז שם ממשנה שם וכרשב\"ג דקי\"ל כל מקום ששנה רשב\"ג במשנתינו הלכה כמותו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:33"
+        },
+        "34": {
+          "he": "שם במשנה וכאוקימתא בגמ' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:34"
+        },
+        "35": {
+          "he": "וכ\"כ הרי\"ף והרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:35"
+        },
+        "36": {
+          "he": "וכת\"ק דפליג אר' יהודה כגיר' הגמ' שלפנינו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:36"
+        },
+        "37": {
+          "he": "משנה שם ע\"א וכחכמים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:37"
+        },
+        "38": {
+          "he": "טור מדברי אביו הרא\"ש בשם ה\"ר יונה ושכן מוכח מהירושלמי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:38"
+        },
+        "39": {
+          "he": "שם במשנה וכמו שהגי' הרמ\"א בהגה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:39"
+        },
+        "40": {
+          "he": "ל' הרמב\"ם בפ' הנז' ממשנה יבמות דף סז ע\"א ופשוט הוא שה\"ה לבהמת מלוג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:40"
+        },
+        "41": {
+          "he": "ברייתא כתובות דף עט ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:41"
+        },
+        "42": {
+          "he": "מימרא דרב נחמן וכו' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:42"
+        },
+        "43": {
+          "he": "ל' הטור ממסקנת הגמ' שם דף פ' ע\"ב וכדמפרש רבא טעמא משום רווחא ביתא וכמ\"ש אביו הרא\"ש שם בפסקיו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:43"
+        },
+        "44": {
+          "he": "שם בגמ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:44"
+        },
+        "45": {
+          "he": "טור בשם רב האי וכ\"כ אביו הרא\"ש בשמו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:45"
+        },
+        "46": {
+          "he": "לשון הרמב\"ם שם ספכ\"ב מעובדא דההיא איתתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:46"
+        },
+        "47": {
+          "he": "לדעת ה\"ה אבל הב\"י וכן בכ\"מ הוכיח מדכ' בסיפא אבל אינו וכן משמע הא באות' עיר אפי' בבית אחר מותר",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 85:47"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אין שומעין לו כדי שלא תתערב בין הגוים ומשום הכי אין מועיל אפילו אם תאמר כן בעוד' ארוסה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 85:1"
+        },
+        "2": {
+          "he": "ואם פשע הבעל בנכסי מלוג כו'  הטור כ' זה בשם ר\"י ותמה ב\"י הלא בגמ' איתא בהדיא כן דבעי רמי בר חמא בעל בנכסי אשתו שואל הוי או שוכר הוי א\"ר לפום חורפא שבשתא מאי נ\"מ אי שואל הוה שאולה בבעלים הוא אי שוכר הוי הוה שכירות בבעלים. ומו\"ח ז\"ל תירץ דקמ\"ל אף נגד אשתו דה\"ל באחריות שלו אפ\"ה פטור ושגגה הוא דא בגמרא קיימינן ושם אין אחריות כלל עליו ולק\"מ דרבא ורמי בר חמא לא נקטו אלא שאלה ושכירות דהוה בעלה אבל שומר חנם לא נקטו אי הוה הבעל וה\"א דלית ליה לבעל דין דש\"ח לענין פטור דש\"ח דהיינו מכח פשיעה כיון דמה שנכנס הבעל לחיובא דשומרין בנכסי אשתו לא הוה אלא מדרבנן וכה\"ג דפשע ונאבד דינו של הבעל כמזיק בידים דאף בשאר פשיעה בבעלי' יש פלוגתא בפ' השואל אי מהני לפטור אלא דיליף לפטור מכח הקרא בס' השואל וא\"כ גבי אשה שלא נכנס הבעל לשמירה אלא מכח תקנת חכמים לא לפטור בפשיעה בבעלים ע\"כ מביא בשם ר\"י דאפי' בפשיעה פטור הבעל אם פשע ונאבד כמו בשאר ש\"ח דפטור בבעלים וזה פשוט וברור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 85:2"
+        },
+        "3": {
+          "he": "בנכסי מלוג.  פי' בערוך כעין מליגת ראש שתולשין השיער בלבד ועוזבין האאש כך הבעל אוכל פירות ועוזב הקרן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 85:3"
+        },
+        "4": {
+          "he": "קנתה ואין הבעל אוכל פירות הטעם דפירו' תקינו ליה רבנן ולא פירי דפירי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 85:4"
+        },
+        "5": {
+          "he": "עליה להביא ראיה ז\"ל מו\"ח ז\"ל נראה דהגה\"ת מיימוני ע\"ש ראב\"ן חולק ע\"ז שכתב על הא דאמר מעות טמונים וכגון שיש עדים שמטמנת ממונה שבעלה היתה דאי אין עדים נאמנת האשה לומר דלאו טמונים ולמעשה צ\"ע עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 85:5"
+        },
+        "6": {
+          "he": "נמצאו ביד האשה מעות הטעם בדין זה דמודה האשה דהקרן בלבד שלה והבעל טוען שמעשה ידיה הם היא נאמנת והוא אוכל פירות אבל בסיפא דהאשה טוענת מתנה נתנו לה וגם הפירות הם שלה אינה נאמנת לפי שהבעל מוחזק בנכסים שלה לאכול פירותיהן ואין כאן עסק שבועה וזה דומה למה שנזכר בסי' פ' סעי ט' דגם שם כתב הרמב\"ם ואין כאן עסק שבועה ובדין שהיא טוענ' אתה נתת לי במתנה וצריכה שבועה על הקרן וכיון שנשבעה הרי היא נאמנת לגמרי בשבועה דגם הפירות הם שלה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 85:6"
+        },
+        "7": {
+          "he": "דבר שאין גזעו מחליף כללא דמלתא גזעו מחליף פירא אין גזעו מחליף קרנא ע\"כ אין קונין דבר שהוא כלה והולך דכליא קרנא אלא אם נפל לה מידי דכליא קרנא א\"ל למכור אותו כיון דעכ\"פ נשאר קצת ממנו כגון עז לאכול חלבה אוכל והולד דגבי בהמה נשתייר עורה וגבי תרנגולת נשאר הוצתה וגבי דקל כשישב נשאר עליו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 85:7"
+        },
+        "8": {
+          "he": "לא ימכור ויכולה היא לעכב:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 85:8"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "והרי היא כשאר נ\"מ.  עיין בתשו' אא\"ז פנים מאירות ח\"ב סי' ק\"ו שכ' דהרב בעל הלבוש נתן בכאן מקום לטעות בדבריו שכ' וז\"ל וטעמא דמלתא משום דקיי\"ל יד אשה כיד בעלה לפיכך אם נתן לה אחר מתנה סתם מיד שזכתה בה אשה קנאה בעלה דידה כידו וכשמוסיף לומר ע\"מ שאין לבעלך רשות בה מוציא הגוף מרשות הבעל אבל הפירות הם שלו כו' ומשמע מדבריו דאם נתן לה מתנה סתם הוי גם הגוף של בעלה דיד אשה כיד בעלה ולא דק כלל בזה כו' ע\"ש. וכ' עוד בראובן שנתן שטח\"ז לבתו כנהוג ושבק חיים ונטלה הבת חלקה ותבעה שבעלה יקח בחלקה קרקע והוא יאכל פירות כדין נכסי מלוג בכדי שיהיה לה זה יתר על כתובתה ופסקו הדיינים שמחוייב הבעל ליתן לה שטר על הקרן שיהי' לה כדין נכסי מלוג וכ' הוא ז\"ל דיפה פסקו דאף אי נימא דהוי כמתנה שנתן לה אחר הרי דעת רוב הפוסקים דלא קנה הבעל לגמרי רק לפירות כמבואר בש\"ע כאן ולעיל ס\"ז וכן פסק בח\"מ סי' רמ\"ט ס\"ג ובפרט בשטר ח\"ז הנהוג דכבר הכריע רמ\"א בפ\"מ סי' רפ\"א דדינו כירושה ובירושה כ\"ע מודו דהוי נכסי מלוג ודייני דסמכי פסקו כן ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 85:1"
+        },
+        "2": {
+          "he": "נתבטלה המתנה.  בגליון ש\"ע דהגר\"ע איגר זצ\"ל נ\"ב עיין בחו\"מ סימן קי\"א סעיף ד'):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 85:2"
+        },
+        "3": {
+          "he": "תוך הבית.  עבה\"ט בשם ב\"ש שכתב מיהו אפי' בנושאת ואומרת אתה נתת לי כו' ועי' בס' ישועות יעקב סק\"ט שחולק עליו ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 85:3"
+        },
+        "4": {
+          "he": "ומכרו לפירות.  עבה\"ט ועיין בס' ישועות יעקב שכ' שהדין עם הב\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 85:4"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "לו.  אפי' התנה קודם הנשואין לא מהני ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:1"
+        },
+        "2": {
+          "he": "בהמה.  וקרקע נמי נצ\"ב הוא ובגדים היינו מה שהיא מכנסת לו אבל בגדים שלה הם נ\"מ. וע' הרדב\"ז ח\"א סי' קל\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:2"
+        },
+        "3": {
+          "he": "באחריותם.  אם הם מעות ועומדים ביד אחר להסתחר והבעל הגון וירא שמים ומקבל אחריותם יוכל הוא עצמו ליש' וליתן בהם ויאכל פירות הר\"ם גלאנטי סי' ק\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:3"
+        },
+        "4": {
+          "he": "דנצ\"ב וכו'.  והברירה בידו אם הוא רוצה אינו מקבל אחריות עליו ואם כבר קיבל אחריות א\"י לסלק ב\"ש וע' מהרמ\"ט ח\"ג סי' רי\"ט:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:4"
+        },
+        "5": {
+          "he": "בקרקע.  ל\"ד הוא אלא כיון שהשדה עומד לפירות לשנים הבאות סמ\"ע סי' קכ\"ב סקט\"ז ע\"ש. והש\"ך שם חולק עליו וע' ב\"ש וח\"מ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:5"
+        },
+        "6": {
+          "he": "פרה.  ואם השאיל הבעל את הפרה ואת עצמה לא הוי שאלה בבעלים ב\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:6"
+        },
+        "7": {
+          "he": "בה.  היינו אחרים ע\"ל סי' פ\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:7"
+        },
+        "8": {
+          "he": "נ\"מ.  נתחייבו לזונה נקר' נ\"מ הרמ\"ט ח\"א סימן א':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:8"
+        },
+        "9": {
+          "he": "שנתן לה.  כ' הח\"מ נראה דבחלוקה הראשונה כשמכרה הכתובה בטובת הנאה רשות בידה ליתן הדמים למי שתרצה וכ\"כ ב\"ש. ואם מכרה מה שנתן לה הבעל. לתוס' והרא\"ש המכר בטל מיד. ולהרשב\"א המכר קיים כל ימי חייה ואחר מותה מוצי' מיד הלקוחות עב\"ש. ואם התנה בפירוש שתוכל למכור וליתן ולהוריש למי שתרצה. אם מוכרת ונותנת קיים ואם מתה אין הבעל מוצי' מיד הלקוחו' ע' כנה\"ג בהגה' ב\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:9"
+        },
+        "10": {
+          "he": "ממנה.  ובסי' קי\"ח מבואר ב\"ח שהלוה לה אפי' אחר הנשואין גובה ממתנה זו ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:10"
+        },
+        "11": {
+          "he": "ארוסה.  אפילו פירש לה במתנה בין קודם נשואין ובין אחר הנשואין. טור:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:11"
+        },
+        "12": {
+          "he": "המעו'.  וכן הדין בקנתה חפצים מבעלה אם הם ממעות טמונים ימכרו וילקח בהם קרקע והבעל אוכל פירות הרשב\"א סימן חתק\"ו. קנתה מבעלה במעו' שמכרה בגדיה ותכשיטיה קנתה דהני מעו' גלויים הוי הרדא\"ב סי' כ\"ו. כ' לאשתו שט\"ח על נכסיו אינו מועיל כי היורשים יכולים לטעון שדברים טמונים ידע אצלה ולא יוכל להוציאם אלא ע\"י שטר שנתן לה מהר\"י סג\"ל סימן צ\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:12"
+        },
+        "13": {
+          "he": "וידועים.  ובלוה מאשתו אין חילוק בין מעות גלוים לטמונים ולעולם המעות שלו עיין ח\"מ ב\"ש ועיין סימן פ\"ו ס\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:13"
+        },
+        "14": {
+          "he": "ברי וכו'.  אבל אם טוען שמא והיא טוען ברי מחזיקים המעות בתורת נ\"מ. אם היא ג\"כ לא אמרה ברי אין מוציאין ממנו. הנ\"י כתב מעות גלוים היינו שידוע דנתנו לה מעות ע\"מ שאין לבעלה רשות בהם. והב\"ש כתב דמשמע מתוס' אם ידוע דיש לה מעות אע\"ג דאין ידוע מאין בא לה המעות דינו כמעות גלוים ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:14"
+        },
+        "15": {
+          "he": "מתנה.  יש בזה ג' שיטות. שיטה א' ס\"ל אפילו אם אמר סתם ע\"מ שאין לבעל רשות בהם מהני. וכן אם אמר מה שתרצה עשה לבד נמי מהני. שיטה ב' ס\"ל דצ\"ל דוק' ע\"מ שאין לבעל רשות בהם אלא מה שאתה נותן בפיך או בכה\"ג דמיחד שום דבר אבל אם אמר סתם ע\"מ וכו' מה שתרצי עשי לא מהני וזהו דעת הראב\"ד והרא\"ש ומרדכי. והשיטה ג' הוא דעת הרמב\"ם דס\"ל דצריך שיאמר ע\"מ שאין לבעל רשות ומה שתרצה עשה ואז הוי כאלו אמר לא יהיה שלך אלא לאותו דבר שתרצה לעשות. והמחבר סתם כאן כהרמב\"ם. מיהו אם תפס הבעל י\"ל קים לי כשיטה ב' ועיין בי\"ד סי' רכ\"ב מש\"ש הש\"ך ס\"ק ג':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:15"
+        },
+        "16": {
+          "he": "הבעל.  עיין ב\"ש שהוכיח מרש\"י בבא בתרא דף נ\"א ע\"ב דאף אם התנה ע\"מ שאין לבעלה רשות ותעשה מה שתרצה בלא רשות הבעל דאם מתה יורש הבעל אותה דלא כהבע\"ת ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:16"
+        },
+        "17": {
+          "he": "בהן וכו'.  וה\"ה אלמנה נמי נאמנת נגד היורשים לומר שלי הם ועדיפא אלמנה מאשה. דבאשה יש מציאות שצריכה לישבע כשהבעל טוען ברי משא\"כ באלמנה שאין שם טענת ברי רלנ\"ח סימן צ\"ט. כתב כנה\"ג הא דנאמנת דוק' שהנכסים ברשותה אבל אם הנכסים הם ברשות הבעל נאמן לומר שלי הם או ממני גנבם או ממעשה ידיה הם ע\"ש דף ק\"ד ע\"ב סלמ\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:17"
+        },
+        "18": {
+          "he": "ראיה.  עיין כנה\"ג ק\"ד ע\"ב סל\"ב דמפלפל אי איירי אם הבעל טוען ברי או שמא. או אם מת הבעל אם טענינן ליורשים מה שאביהם היה טוען ע\"ש. כתב הר\"ם מטראני ח\"ב סי' רכ\"א הא דכתב הרמב\"ם דעליה להבי' ראיה היינו דווק' היכ' שמודה היא שנותנו לה וכל מתנה לאשה סתמ' היא בלתי תנאי זה אבל אשה שנשאת לראובן ושיירה קצת נכסים לנשואי בתה נאמנת לומר שע\"מ שלא יהיה רשות לבעלה השאירתן ע\"ש. אם הנכסים הם ביד שליש עיין הר\"ם גלאנטי סי' נ\"ח. וכנה\"ג דף ק\"ה ע\"א סעיף ל\"ג. הביא תשובה דס\"ל דעליה להבי' ראיה ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:18"
+        },
+        "19": {
+          "he": "הבית.  קאי גם על הרישא כשהיא נושאת אינה נאמנת לומר במתנה ניתן לי רק הם לגמרי של בעל ואם הבעל מאמין לה ומפקיד מה שיש לו בידה הוי כנושאת בתוך הבית ועיין בחה\"מ סי' ס\"ב. מיהו אפי' בנושאת ואומרת אתה נתת לי במתנה נאמנת דא\"י להעיז נגדו ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:19"
+        },
+        "20": {
+          "he": "ענין.  אפי' בנושאת בתוך הבית עיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:20"
+        },
+        "21": {
+          "he": "במתנה.  ומטלטלין הידועים שהם של בעל אינה נאמנת דבעל נתן לה במתנה. אלא דבר שא\"י שהוא של בעל אלא מה שביד האשה היא בחזקת נ\"מ אז מהני החזקה דא\"י להעיז ועיין בש\"ך ח\"מ סימן ס\"ב. ועיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:21"
+        },
+        "22": {
+          "he": "מרובים.  ומעות מזומנים דאין מניחים לו להרויח בהם אלא לוקחים ג\"כ בהם דבר שפירות מרובים. והפירות מהם יוכל למכור ולהרויח עם המעות ח \"מ ב\"ש בשם הרשב\"א. וע\"ל ס \"ק ג' מש\"ש בשם הר\"ם גלאנטי:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:22"
+        },
+        "23": {
+          "he": "האשה.  עיין בתשובת מהר\"י ווייל סימן ע\"ח שכתב שם דרשאי ה אשה לתפ וס מעות נדונייתה א ם ה ם בעין לצורך מזונות שלה ע\"ש. ואין הב\"ח גובה ה פירות של נ\"מ ח \"מ ב\"ש. ועיין כנה \"ג ח ח \"מ סי' קס \"ג בהגהת ב\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:23"
+        },
+        "24": {
+          "he": "לפירות.  ה ח \"מ כתב דוק א דיעבד אבל לכתחלה יכולה היא למ ח ות. והב\"ש ח ולק עליו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:24"
+        },
+        "25": {
+          "he": "אחרת וכו'.  ודברים שהבעל עצמ ו משמש כגון גלימי דמיכסי ביה יוכל להשתמש באיזה מ ק ום שירצה שזכות פירות שלו אין לו מק ום מיוחד ח \"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 85:25"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

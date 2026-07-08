@@ -1,0 +1,843 @@
+{
+  "chelek": "CM",
+  "siman": 45,
+  "chelekTitle": "Choshen Mishpat",
+  "seifCount": 23,
+  "fetchedAt": "2026-07-08T00:09:06.142Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "שהעדים צריכים לקרות מקודם השטר ודין שטר הבא על הנייר ועדיו על המחק. ובו כג סעיפים:העדים חותמים למטה בשטר ולא מן הצדדים ולא מלמעלה:",
+      "en": "1.  That Witnesses Must First Read the Document and the Laws of A Document on Paper and the Witnesses on Erased Paper, 23 Seifim: Witnesses sign on the bottom of the document and not from the sides or on top.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:1"
+    },
+    {
+      "seif": 2,
+      "he": "ראש ב\"ד שהיה יודע ענין השטר וקרא לפניו הסופר שלו הואיל והוא מאמין אותו ואימתו עליו ה\"ז חותם השטר אע\"פ שלא קראו הוא בעצמו ואין שאר העם (או ראש ב\"ד וסופר אחר טור) רשאים לעשות כן עד שיקרא העד השטר מלה במלה: הגה וי\"א דשנים יקראו לפניהם והן חותמין (טור והרא\"ש והגהות מיימוני פרק כ\"ד מה' מלוה) ואם אינן מבינין לשון השטר יתרגמו להן הקוראין והם חותמין (ב\"י ע' סק\"ג) וכנ\"ל עיקר י\"א דקורין לפני צבור וחותמין דיראים לשקר לפני צבור והוי כראש ב\"ד וסופר שלו (הגהות מרדכי ואשירי פ\"ב דגיטין):",
+      "en": "2. If the head of the court knew the substance of the document and had his scribe read it to him, he may sign the document even though he did not read it himself since the judge believes his scribe and intimidates his scribe. No other person (or other head of court or scribe - Tur) is permitted to do this. The witness much read the document word for word. RAMA: There are those that say that two may read in front of the witnesses and the witnesses will sign. (Tur; Rosh; Hagahot Maimoni, Perek 24) If the witnesses do not understand the language of the document, those reading it should translate the document and the witness can sign. (Beis Yosef) This seems to me to be the primary ruling. There are those that say we can read in front of the public and have the witnesses sign because people are afraid of lying in public so it has the status of the head of court with his scribe. (Hagahot Mordechai and Ashiri, Chapter 2 of Gittin)",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:2"
+    },
+    {
+      "seif": 3,
+      "he": "הודאה בחתם ידו והשטר בגופן של עכו\"ם והדבר ברור שאינו יודע לקרותה ויש עדים שחתם עד שלא קראו מ\"מ מתחייב הוא בכל מה שכתוב בו:",
+      "en": "3. If a confession was given in a party’s handwriting but the document was a gentile form, and it is clear that the party cannot read it and there are witnesses that he did not read it, the party still obligates himself to whatever is written in it.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:3"
+    },
+    {
+      "seif": 4,
+      "he": "עדים שאין יודעים לחתום וקרעו להם נייר חלק וחתמו על הרשום מכין אותם מכת מרדות והשטר פסול (ויש מכשירין השטר) (טור והמגיד פכ\"ד מה' מלוה בשם רשב\"א וע' בר\"ן פ\"ב דגיטין):",
+      "en": "4. If witness do not know how to sign and they carved out a space on empty paper and the witnesses signed via impression, we would give them mardus lashses and the document would be invalid. (There are those that say the document is valid.) (Tur and the Maggid, Chapter 24, in the name of the Rashba; and also see the R\"an Perek 2 of Gittin)",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:4"
+    },
+    {
+      "seif": 5,
+      "he": "מקום שנהגו שהסופר חותם ע\"פ העד שכותב פב\"פ חתם במסירת קולמוס או שכתוב בו פב\"פ צוה לחתום אם קבלו בני העיר עליהם לעשות עדותו כעדות העד כשר ואם לא קבלו עליהם אינו כלום כל שטר הבא לפנינו שעדים מעידים על חתימת העדים מקיימים אותו שחזקה אין העדים חותמים על השטר אא\"כ קראוהו ויודעים לחתום ואי איתנהו לסהדי קמן וקים לן בהו דלא ידעי למקרי אי אמרי אקרינן למאן דידע למיקרא סמכינן עלייהו (ואי לא אמרי הכי דייקינן בסהדותייהו ע\"פ אי מכווני השטר מקיימינן להו) (טור):",
+      "en": "5. In a place where they have the custom to have the scribe sign based on the word of the witnesses by writing, “so and so the son of so and so signed with the handing over of the pen” or the document states “so and so the son of so and so commanded to sign” and the people of the city accepted that this form of testimony qualifies as the testimony of a witness, the document is valid. If the people of the city did not accept this form of testimony, it is of no effect. Any document that is produced in front of us where the witnesses testify on their signature would be verified because there is a chazaka that witnesses do not sign on a document unless they read the document and know how to sign. If the witnesses are in front of us and we know that they cannot read, but they said one who knows how to read read it to them, we would rely on their testimony. (If the witnesses do not say this, we would investigate their testimony orally. If it conforms to what is written in the document, we would verify the document.) (Tur)",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:5"
+    },
+    {
+      "seif": 6,
+      "he": "ידקדקו העדים שלא ירחיקו מהכתב רוחב שני שיטין ואם הרחיקו שני שיטין פסול אפילו כתוב שריר וקיים אפי' ידוע שלא הוסיף ולא זייף בו שום דבר ואפי' טייטוהו בדיו (פי' מלאו נקודים נקודים של דיו) פסול שלא יאמרו חתמו על הטיוטא ולא על עיקר השטר:",
+      "en": "6. The witnesses should be careful not leave a two-line space from the text. If they left a two-line space, the document would be invalid even if it said “affirmed and verified, ” it was known that nothing was added or forged and the space was filled with dots of ink, so that they don’t say the witnesses signed on the dots and not on the text.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:6"
+    },
+    {
+      "seif": 7,
+      "he": "הא דאמרינן שאם הרחיקו ב' שטין פסול היינו למגבי ביה ממשעבדי א\"נ מבני חרי אם הלוה טוען פרעתי אבל אינו יכול לטעון לא היו דברים מעולם:",
+      "en": "7. This that we said that if the witnesses leave a two-line space the document is invalid is only with respect to collecting from encumbered properties or non-encumbered properties where the borrower claims he paid back. A party, cannot, however, claim the incident never occurred.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:7"
+    },
+    {
+      "seif": 8,
+      "he": "ב' שיטין שאמרו בכתב ידי עדים שהיא גסה ולא ידי סופר שכל המזייף אינו הולך אצל הסופר:",
+      "en": "8. The aforementioned two lines refers to the size of the witnesses’ handwriting, which is large, but not the scribe’s handwriting because anyone who forges does not go to the scribe.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:8"
+    },
+    {
+      "seif": 9,
+      "he": "ב' שיטין אלו הן ואוירן כגון למ\"ד בשטה העליונה וך' בשטה התחתונה שהם ב' שיטין וג' אוירים:",
+      "en": "9. These two lines include the lines and their airspace, such as the lamed on the top line and the chof on the bottom line, which comes out to two lines and three airspaces.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:9"
+    },
+    {
+      "seif": 10,
+      "he": "יש מי שאומר שאם השטר מסיים באמצע שטה והניחו אותה שטה ועוד אחרת והתחילו לחתום בשטה שלישית פסול שיכול לכתוב באותו חצי שטה מה שירצה ויחזור מעניינו של שטר בשטה אחרונה וכן אם מסיים בסוף שטה והרחיקו העדים שטה שלימה והתחילו העדים באמצע שטה שנייה פסול אם יחתמו זה אחר זה באותה חצי שטה שיוכל לכתוב בחצי השטה החלק שלפני חתימתן פלוני לוה מפלוני מנה ויהא שטר הבא הוא ועדיו בשטה אחת שהוא כשר ויחתוך כל העליון: הגה וע' סי' מ\"ד סעיף ג' (עד\"מ) ואם השטר מסיים באמצע השטה יכולים העדים לחתום עצמן בחצי שטה הנשארת זה אצל זה ואז למדין מחצי שטה שלפניהם ומשטה שעליהם דאין לחוש לשום דבר (ב\"י בשם רשב\"ץ):",
+      "en": "10. There is one that says that if the document finished in middle of a line and they left that line and another line and then began signing on the third line, the document is invalid because a party can write what he wants on that half line and then recap the substance of the document on the last line. Similarly, if they finished the document at the end of a line and the witnesses distanced a full line and then began in the middle of the second line, the document is invalid if they signed one after the other on that half-line because a party can write “so and so borrowed a maneh from so and so” on the empty half-line before the signature and the document would be one which has the text and witnesses on the one line which is valid, and the party will cut off the entire top of the document. RAMA: See 44:3. If the document concluded in the middle of a line, the witnesses can sign, one next to the other, on the remaining half of the line and we would then deduce from the half line before their signature and the line on top because there is nothing at all to be suspicious of. (Beis Yosef in the name of the Rashbatz)",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:10"
+    },
+    {
+      "seif": 11,
+      "he": "צריך ליזהר כשחותמין ויש חלק לפני חתימתן שלא יחתמו זה אח\"ז בשטה א' דשמא יכתוב בחלק שלפני חתימתן מה שירצה ויחתוך העליון ויהיה שטר שבא הוא ועדיו בשטה אחת וכיצד יעשה יטייטנו בדיו ולא אמרי' דאטיוטא חתימי אלא היכא שהטיוטא עומד בין שטר לעדים ואם התחילו לחתום באמצע השטה וחתכו החלק שלפני חתימתן פסול דשמא היה כתוב שם חובתו או שום תנאי וזה חתכו ומיהו אם כתוב למעלה בסוף השטה שריר וקיים [כשר] ובלבד שהיו העדים חתומים זה תחת זה אבל אם חתומים זה אחר זה פסול דשמא היה השטר הבא הוא ועידיו בשטה אחת וחתכו והיה חלק מלמעלה וכ' עליו שטר זה:",
+      "en": "11. If there is a blank space before the witnesses’ signatures, they must be careful to sign one after the other on the same line because a party may write what he wants on the blank space before their signatures and cut off the top, and the document will be one in which the text and witnesses are on the same line. What should the witnesses do? They should fill the blank space with ink. We would not say that the witnesses have signed on the filled space unless the filled space was between the document and the witnesses. If the witnesses began signing in the middle of a line and they cut off the space before the signature, the document would be invalid because perhaps something that hurt a party or a condition was written there and the party cut it off. If, however, the document said “affirmed and verified” above at the end of the line, the document would be valid so long as the witnesses sign one under the other. If, however, they signed one following the other, the document would be invalid because perhaps the document was one where the text and witnesses were on one line, the party cut it, it was blank on top and the party wrote what he wanted to.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:11"
+    },
+    {
+      "seif": 12,
+      "he": "שטר שהיו עדיו מרובים ונמצא א' מהם קרוב או פסול או שהיו בהם שנים קרובים זה לזה והרי אין העדים קיימים כדי לשאול אותם אם יש שם עדות ברורה שכולם ישבו לחתום שהרי נתכוונו להעיד ה\"ז בטל ואם לאו תתקיים העדות בשאר שהרי אפשר שחתמו הכשרים והניחו מקום לגדול לחתום ובא זה הקרוב או הפסול וחתם שלא מדעתם אע\"פ שהעד החתום בשטר מתחלה הוא הפסול הרי השטר כשר: הגה ולכתחלה לא יחתום שום קרוב או פסול על השטר (טור) וי\"א דאין להכשיר שטר שחתומין בו פסולין אא\"כ ב' עדים האחרונים הם כשרים (טור בשם אביו הרא\"ש וע\"פ וע' ס\"ק כ\"ג):",
+      "en": "12. If a document had many witnesses and one of them was a relative or otherwise disqualified or two of the witnesses were related to each other and the witnesses are not around and they have a clear testimony that they all sat down to sign with the intention of testifying, the document is void. If they do not have such testimony, the testimony can be verified with the remaining witnesses because it is possible the valid witnesses signed and they left room for the elder to sign and a relative or someone otherwise disqualified signed without their knowledge, even if the disqualified witness was the first to sign. RAMA: No relative or disqualified witness should sign on a document in the first instance. (Tur) There are those that say that a document with a disqualified witness is invalid unless the last two witnesses are valid. (Tur, in the name of his father the Rosh; and see Siman 100:23)",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:12"
+    },
+    {
+      "seif": 13,
+      "he": "אם נפסל ע\"י חתימת הפסולים אם הכשרים זוכרים העדות על ידי ראיית השטר יכולים להעיד וב\"ד יכתבו עדותן כמו שכתוב בשטר וחשוב כמו שטר הראשון:",
+      "en": "13. If a document is disqualified due to the signatures of disqualified witnesses and the valid witnesses remember the testimony by viewing the document, the valid witnesses may testify and the court will write as what was written in the document, and it will be considered like the first document.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:13"
+    },
+    {
+      "seif": 14,
+      "he": "היו העדים מרוחקים מהכתב יתר על שני שטין והיה הריוח שבין הכתב והעדים מלא בעדים פסולים או קרובים ה\"ז כשר שהרי אינו יכול להזדייף ואם נראה השטר בב\"ד קודם שמילאוהו בקרובים או פסולים שוב אין לו תקנה אבל אם הוכשר ע\"י מילוי קרובים קודם שבא לב\"ד אפי' עשאו המלוה מדעתו שלא מדעת הלוה כשר וי\"א דדוקא שמילאוהו מדעת הלוה אבל אם מילאוהו שלא מדעת הלוה פסול:",
+      "en": "14. If the witnesses were more than two-lines removed from the text and the space between the text and witnesses were filled with relatives or disqualified witnesses, the document is valid because it cannot be forged. If the court saw the document before it was filled with relatives or disqualified witnesses, there is nothing that can be done to validate the document. If, however, it was filled with relatives before it came to court, the document would be valid, even if the lender filled it on his own without the knowledge of the borrower. There are those that say this only applies where they filled it with the knowledge of the borrower. If, however, they filled the document without the borrower’s knowledge, it would be invalid.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:14"
+    },
+    {
+      "seif": 15,
+      "he": "הא דמכשרינן במילאוהו בקרובים או פסולים אם הוא שטר שאין בו קנין דוקא שמילאוהו ביום שנכתב ונחתם אבל אם מילאוהו למחר וליומא אחרא אפי' במצות הלוה פסול:",
+      "en": "15. This, that we validate a document without a kinyan where it was filled with relatives or disqualified witnesses, is only if it was filled in on the day it was written. If, however, it was filled in the next day or later, the document would be invalid, even if filled in with the knowledge of the borrower.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:15"
+    },
+    {
+      "seif": 16,
+      "he": "אם אחר שפרעו הוא טוען שהשטר היה פסול לפי שהרחיק הסופר חותם ידו יותר משטה אחת אין בדבריו כלום:",
+      "en": "16. If after a document was paid back, the party claimed the document was invalid because the scribe distanced the signature more than one line from the text, his claim is of no effect.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:16"
+    },
+    {
+      "seif": 17,
+      "he": "הבא מכח עכו\"ם הרי הוא כמוהו לגבות בשטר שעידיו מרוחקים שני שיטים אם נהגו העכו\"ם לגבות בו:",
+      "en": "17. One who obtains a claim via a gentile has the status of the gentile with respect to collecting from a document where the witnesses are more than two lines from the text if the gentiles have the custom to collect with such a document.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:17"
+    },
+    {
+      "seif": 18,
+      "he": "שטר הבא כולו בשטה אחת ועידיו בשטה אחרת פסול דשמא הרחיקו העדים מהשטר שטה אחת וחתך כל השטר וכתב זה השטר באותה שיטה ונמצאו העדים חתומי' עליו: הגה וכן אם היה השטר ב' שיטין אלא שאין השטה ראשונה מתחלת בראש הקלף דחיישינן שמא סיימו השטר באמצע שטה והניחו הנשאר חלק וגם שטה שתחתיה וחתמו וחתך כל השטר וזייף בשטה ומחצה מה שרצה והרי העדים חתומים עליו (מרדכי פ' ג\"פ):",
+      "en": "18. If a document is produced where the entire document is on one line and the witnesses are on another line, it is invalid because perhaps the witnesses distanced one line from the document, the party cut off the entire document and wrote this document on that line, thereby having the witnesses be signed on that line. RAMA: Similarly, if the document was on two lines but the first line does not begin at the beginning of the parchment, we are concerned that they perhaps finished the document in middle of the line and left the remainder blank as well as the line below it, the witnesses signed, the party cut the entire document and forged what he wanted on the line and a half, thereby having the witnesses be signed on it. (Mordechai)",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:18"
+    },
+    {
+      "seif": 19,
+      "he": "היה השטר כולו עם כל עידיו בשטה אחת כשר דליכא למיחש למידי אבל אם השטר ועידיו בשטה אחת ועוד למטה ממנה בשטה אחרת שני עדים יש לחוש שמא חתך כל השטר העליון שהיו העדים התחתונים חתומים ובשטה שבין שטר לעדים כתוב שטר ועדיו ובעדים שבשטה שנייה יאמר כוונתי להרבות בעדים ולפיכך כשיבא לפנינו שטר כזה אין מקיימים אותו מעדים שבשיטה שנייה אלא מעדים שבשטה ראשונה:",
+      "en": "19. If the entire document with the witnesses was on one line, the document is valid because there is nothing to be concerned about. If, however, the document and the witnesses were on one line and there were two witnesses on another line, we are concerned that perhaps a party cut the entire document above which the lower witnesses had signed on, in the line between the document and witnesses he wrote a document with its witnesses and with the witnesses on the second line he’ll say his intention was to increase the amount of witnesses. Therefore, when a document like this comes in front of us, we would not verify it from the witnesses on the second line but from the witnesses on the first line.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:19"
+    },
+    {
+      "seif": 20,
+      "he": "שטר הבא הוא ועידיו על המחק כשר והוא שלא יהא שום שינוי בין השטר למקום חתימת העדים שאם יש שום שינוי יש לחוש שמא מחק וכתב מה שרצה ולפיכך הוא משונה שהרי מחקו ב\"פ ע\"כ לא יחתמו העדים על שטר מחוק אא\"כ נמחק בפניהם שאם לא כן יש לחוש שמא מקום חתימות נמחק ב\"פ ומקום השטר פעם אחת וכשחוזר ומוחק פעם שנית וכתב מה שירצה נמצא השטר ומקום חתימת העדים שוה הכל מחוק שני פעמים: הגה וצריכים ליזהר שנמחק הכל ביום א' דאינו דומה נמחק בן יומו לנמחק בן שני ימים (ב\"י) ואם יש בין חתימת העד לשני ריוח כשיעור כתיבת אנחנא סהדי חתמנו על המחק והשטר על הנייר פסול שמא היה השטר על הנייר ועידיו על המחק והיה כתוב בין חתימת העדים אנחנא סהדי וכו' ומחקו ומחק השטר וכתב מה שרצה אח\"כ (אבל אם לא היה כאן מחק כלל השטר כשר אע\"פ שיש בין חתימה לחתימה ריוח גדול) (ב\"י בשם ריב\"ש סי' מ\"ט):",
+      "en": "20. If a document is produced with the text and witnesses on erasure, the document is valid, so long as there is no distinction between the document and the place where the witnesses have signed. If there was some kind of distinction, we are concerned that perhaps a party erased and wrote what he wanted to and the fact that it was erased twice explains the distinction. Therefore, witnesses should not sign on an erased document unless it was erased in their presence because otherwise we are concerned that the place to sign was erased twice and the place of the document was only erased once, and when the party erases the document a second time and writes what he wants, it will come out that the document and place of signature have both been erased the same two times. RAMA: They must be careful to have everything erased on the same day, because a one-day old erasure is not comparable to a two-day old erasure. (Beis Yosef)  If there is a space between the signature of one witness and the other the size of “We the witnesses signed on erasure while the document was on paper,” the document is disqualified because perhaps the document was on paper, the witnesses were on erasure and between the witnesses it stated “we the witnesses, etc.” and the party erased it, erased the document and subsequently wrote what he wanted. (If, however, there is no erasure at all, the document is valid, even if there is a large space between the signatures.) (Beis Yosef in the name of the Rivash, Siman 49)",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:20"
+    },
+    {
+      "seif": 21,
+      "he": "שטר שהוא על הנייר ועדיו על המחק פסול שמא ימחוק השטר ויזייפו ונמצא הוא ועידיו על המחק ואם כתבו העדים אנו העדים חתמנו על המחק והשטר על הנייר כשר והוא שכתבו כן בין חתימת עד הראשון לחתימת עד השני אבל אם כתבו כן לפני חתימתם או אחריהם לא מהני:",
+      "en": "21. If a document is on paper and its witnesses are on erasure, the document is disqualified because the party might erase the document and forge it, resulting in the text and witnesses both on erasure. If the witnesses write, “we the witnesses signed on erasure while the document was on paper,” the document is valid, so long as they wrote it between the signatures of the first and second witnesses. If, however, they wrote it before or after their signatures, the declaration would be of no effect.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:21"
+    },
+    {
+      "seif": 22,
+      "he": "שטר שהוא על המחק ועידיו על הנייר פסול אפי' כתבו אנו העדים חתמנו על הנייר והשטר מחוק דסוף סוף ימחוק השטר ויזייפו ויכתוב מה שירצה אע\"פ שנמחק ב' פעמים אינו ניכר כיון שאין אצלו מקום שמחוק פעם אחת שיוכלו להבחין בין זה לזה:",
+      "en": "22. If a document is on erasure and its witnesses are on paper, the document is disqualified, even if the witnesses wrote “we the witnesses wrote on paper and the document is on erasure” because ultimately the party can erase the document and write what he wants. Although it will have been erased twice, it would not be evident because a one-time erased document, which would allow us to see the distinction, is not adjacent to it.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:22"
+    },
+    {
+      "seif": 23,
+      "he": "במקום שנוהגים לכתוב פרעון ביני שיטי צריך ליזהר שלא יהא שום גרר ביני שיטי דאיכא למיחש שמא היה בו פרעון ומחקו וכ\"ש אם הפרעון שביני שיטי הוא על המחק דאיכא למיחש שמא היה יותר ומחקו וכ' מה שרצה ואם יש עדים שהפרעון הוא כתב יד הלוה כשר דתו ליכא למיחש למידי:",
+      "en": "23. In a locale where they have the custom to document repayment between the lines, one must be careful that there should be no scrape between the lines because if there were, we would be concerned the party paid back and it was erased. All the more so are we concerned in a case where the repayment was between the lines on erasure because perhaps the repayment was more than documented and the party erased it and wrote what he wanted. If there are witnesses that the repayment is the borrower’s handwriting, the document is valid because there is nothing to be concerned about.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 45:23"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "א) משנה גיטין דף כ\"ז ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:1"
+        },
+        "2": {
+          "he": "ב) מהא דרב נחמן קרו קמיה ספרי דדייני וכו' שם דף י\"ט ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:2"
+        },
+        "3": {
+          "he": "ג) שם בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:3"
+        },
+        "4": {
+          "he": "ד) שם בגמרא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:4"
+        },
+        "5": {
+          "he": "ה) בתשבה ע\"ז להרמב\"ן סי' ע\"ז מס\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:5"
+        },
+        "6": {
+          "he": "ר\"ל שהשטר עשוי לפני עכו\"ם והלוה עצמו חתום עליו אע\"פ שאינו יודע לקרו' חייב כיון שסמך על הסופר וע' בסוף סי' ס\"ח בהג\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:6"
+        },
+        "7": {
+          "he": "ו) ומפרש שם שכל הסומך על נאמנות של אחרים הוא גומר בדעתו להתחייב מה שיאמ' והיינו טעמא דשליש נאמן ואע\"פ שלא לוה מדר' יוחנן דאמר מנה אני חייב לך בשטר וציינתיו לעיל סי' מ' וכתב הסמ\"ע ☜מכאן ראי' על מנהגינו ותיקן המדינ' בענין הממרנות וממ\"ש לעיל סוף סי' מ\"ב לשון שנהגו הדיוטות וכו' הולכים אחריו ואפילו לא נכתב וכו' וע\"ש במ\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:7"
+        },
+        "8": {
+          "he": "ז) ל' הרמב\"ם בפכ\"ד מהלכות מלו' ולוה מעובד' דשאר שטרות לקמי' דרב כהנא ונגדיה גיטין (דף י\"ט ע\"ב) ואוקימנא לענין חתימ' שקרעו הנייר וחתמו (פי' שהעדים ממלאים את הקרעים דיו) והוא הפירו' הנכון ה\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:8"
+        },
+        "9": {
+          "he": "ח) מדלא קאמר דנגדי ופסיל לי' לשטרא וכו' מדבגטין לכתחל' שרי בשאר שטרו' בדיעבד לא פסול וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:9"
+        },
+        "10": {
+          "he": "ט) רבי ירוחם בנ\"ד ח\"ד בשם הרשב\"א דה\"ל כנאמן עלי אבא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:10"
+        },
+        "11": {
+          "he": "י) ל' הטור וכן כתב הרמב\"ם שם וכתב ה\"ה מבואר ס\"פ יש נוחלין (בבא בתרא דף קל\"ח ע\"ב) כל שאין כותבין אלא א\"כ מכירין א\"צ ראי' אחרת:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:11"
+        },
+        "12": {
+          "he": "כ) שם בשם הגאונים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:12"
+        },
+        "13": {
+          "he": "ל) גם זה שם בשם הגאוני'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:13"
+        },
+        "14": {
+          "he": "מ) שם וכ\"כ הרמב\"ם שם בפכ\"ז מבריית' ב\"ב דף קס\"ב ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:14"
+        },
+        "15": {
+          "he": "נ) טור וכן כתב ה\"ה שם דחיישינן שמא יגוז הכל ויכתוב בב' שיטין שטר אחר",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:15"
+        },
+        "16": {
+          "he": "ס) לפי שכל שלא נעשה כתיקון חכמים אינו שטר ה\"ה שם בשם המפרשים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:16"
+        },
+        "17": {
+          "he": "ע) שם דף קס\"ג ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:17"
+        },
+        "18": {
+          "he": "פי' שבפניהם נעשו הנקודו' והשריטו' של דין ולא יחשדו בעל השטר ונמצא שאינן מעידין על עיקר השטר",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:18"
+        },
+        "19": {
+          "he": "פ) שם בשם ה\"ר יונה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:19"
+        },
+        "20": {
+          "he": "צ) מימרא דרב שבתי משמי' דחזקי' שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:20"
+        },
+        "21": {
+          "he": "ק) לא באלו עדים ולא בכתב סופר זה אלא עדים דעלמא שאינם יודעים לאמן ידיה' ה\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:21"
+        },
+        "22": {
+          "he": "ר) כרב חייא בר אמי משמיה דעולא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:22"
+        },
+        "23": {
+          "he": "ש) טור וכ\"כ הרא\"ש שם בפסקיו וכ\"כ התוספות שם בדף קס\"ב ריש ע\"ב בפי' הבעיא דשיט' ומחצ' דאיפשט' דכשר היינו בדסיי' השטר בסוף השטה והרחיקו שיטה שלימה וחתמו העדים באמצע שיטה שני' זה תחת זה דאין לחוש שיכתו' מאי דבעי ויחזור מענינו של שטר בחצי שטה דפשיטא דגם מן השלימה אין למדי' וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:23"
+        },
+        "24": {
+          "he": "ת) שם וכ\"כ התו' שם דף ק\"ס ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:24"
+        },
+        "25": {
+          "he": "א) זה דוקא כשהחלק בגליון שאינו צורך השטר ויכול לחתכו אבל אם החלק הוא תחת השט' מצד העדים שאינו יכול לחתכו שאם היה חותכו הי' השטר פסול כדלקמי' אז גם הטיוטא פוסל בו מס\"ז בשם התוספו' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:25"
+        },
+        "26": {
+          "he": "ב) שם וכ\"כ הרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:26"
+        },
+        "27": {
+          "he": "ג) ג\"ז שם ושם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:27"
+        },
+        "28": {
+          "he": "ד) לשון הרמב\"ם בפ\"ה מה' עדות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:28"
+        },
+        "29": {
+          "he": "ה) כדמפר' רבא א\"ל אי למיחזי אתיתו וכו' מכו' דף ו' ע\"א וכמ\"ש לעיל ריש סי' ל\"ו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:29"
+        },
+        "30": {
+          "he": "ו) כלישנ' בתרא כגון שנמצ' וכו' גיטין דף י\"ח ע\"ב כמ\"ש שם אי חתום בתחל' קרוב או פסול וכו' ס\"ל לרבינו דלא אמרו כן אלא לענין גיטין אבל בשאר שטרות אף באמצע או בסוף פסול וכמ\"ש הכ\"מ שם וכ\"כ הטור בשם הגאונים:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:30"
+        },
+        "31": {
+          "he": "ז) מברייתא ב\"ב דף קס\"ג ע\"ב ומפרש' רבינו כשאין שם עדים שישבו כולם לחתום דעדים החתומי' על השטר כמי שנחקרה עדותן בב\"ד מ\"מ אם היו קיימים היו נאמנים לומר שישבו כולם לחתום משום דאיתרע שטרא שחתומים בו קרוב או פסול:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:31"
+        },
+        "32": {
+          "he": "ח) וכ\"כ התוספות שם ושם בשם ר\"ת וכל זה כשחתמו זה תחת זה ☜אבל אם חתמו כולם בשורה אחת ודאי לשם עדות נתכוונו ופסול נ\"י פ' גט פשוט מחס\"ע",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:32"
+        },
+        "33": {
+          "he": "ט) טור בשם תשובת אביו הרא\"ש סוף כלל ס'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:33"
+        },
+        "34": {
+          "he": "י) מבריית' דלעיל וכחזקיה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:34"
+        },
+        "35": {
+          "he": "כ) טור בשם הר\"ר יונה בשם י\"א ושכן הסכים אביו הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:35"
+        },
+        "36": {
+          "he": "(דאלמוהו רבנן תקנתייהו ואמרו כל שטר שנראה בב\"ד שלא נעשה כתקון חכמים הרי הוא כחספא בעלמא סמ\"ע)",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:36"
+        },
+        "37": {
+          "he": "ל) שם בשם ה\"ר יונה וכ\"כ ה\"ה בשמו בסוף ה' מלוה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:37"
+        },
+        "38": {
+          "he": "מ) ומפרש שם משום דלא נשתעבד הלוה באותו שטר:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:38"
+        },
+        "39": {
+          "he": "נ) ושם שם בשמו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:39"
+        },
+        "40": {
+          "he": "ס) ה\"ה שם דאילו יש בו קנין כבר נתבאר לעיל סי' ל\"ט דיכול לכתוב אימת שירצה מזמן הקנין",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:40"
+        },
+        "41": {
+          "he": "ע) דה\"ל מוקדם ופסול דהשתא משוי לי' שטרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:41"
+        },
+        "42": {
+          "he": "פ) רשב\"א מס\"ס",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:42"
+        },
+        "43": {
+          "he": "צ) ג\"ז שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:43"
+        },
+        "44": {
+          "he": "ק) וכ\"כ לקמן סימן ס\"ו סעיף כ\"ה וסי' ס\"ז סעיף י\"ז ובס\"ס שס\"ט וע' בסי' קנ\"ד סעיף י\"ח שלא כתב כן שם כמ\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:44"
+        },
+        "45": {
+          "he": "ר) מבואר בסוגית הגמ' ב\"ב דף קס\"ג ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:45"
+        },
+        "46": {
+          "he": "ש) שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:46"
+        },
+        "47": {
+          "he": "ת) מסקנת הגמרא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:47"
+        },
+        "48": {
+          "he": "א) מימרא דרב שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:48"
+        },
+        "49": {
+          "he": "ב) כדמפרש אביי קסבר רב וכו' שם דף קס\"ד ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:49"
+        },
+        "50": {
+          "he": "ג) מימרא דרב הושעיא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:50"
+        },
+        "51": {
+          "he": "ד) שם בגמ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:51"
+        },
+        "52": {
+          "he": "ה) ברייתא וכדמפרש לה בגמ' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:52"
+        },
+        "53": {
+          "he": "פי' לאחריהם שמא יגוז או ימחוק אותו ולפניהם שמא ימחוק אותו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:53"
+        },
+        "54": {
+          "he": "ו) שם בברייתא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:54"
+        },
+        "55": {
+          "he": "ז) מסקנת הגמרא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:55"
+        },
+        "56": {
+          "he": "ח) טור בשם תשובת אביו הרא\"ש והביאו המחבר לעיל בסי' מ\"ד ס\"ו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 45:56"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "ולא מן הצדדים ולא מלמעלה דאז מצי מזייף שיוסיף לכתוב למטה בשטר מה שירצה  עכ\"ל סמ\"ע והא ליתא דהתוספו' ריש פ' גט פשוט (בבא בתרא דף ק\"ס ע\"א) ד\"ה פשוט שכתבו כו' הוכיחו דמדלא משוי שום חילוק אלמא אפילו לא מצי לזייף כגון דכתיב ביה שריר וקיים או שלא חלק מלמטה או שחתם עד אחד מלמטה והשני מן הצד נמי פסול כיון שלא נעשה כתיקון חכמים ע\"ש ונראה שאף הפוסקי' דאם לא הוחזר מענינו של השטר אין השטר כולו פסול וכדלעיל ריש סי' מ\"ד מודים בזה ודו\"ק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:1"
+        },
+        "2": {
+          "he": "ואין שאר העם רשאי' לעשות כן כו'.  בב\"י כתב דמשמע מדברי הרמב\"ם אלו דאפילו שנים קורין לפניה' לא מהני וכ\"כ ר' ירוחם נתיב ד' ריש ח\"ג בשם הרמב\"ם. ועיין מ\"ש לקמן סעיף ה' ס\"ק י' (ועיין בתשובת מהר\"ש כהן ספר ג' סי' מ'):",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:2"
+        },
+        "3": {
+          "he": "יתרגמו להן הקוראי' כו'.  היינו על פי מ\"ש ב\"י על דברי הג\"ה אשר\"י ורמב\"ם דה\"ה במתרגמון להן וכמ\"ש הטור בא\"ע סי' ק\"ל ומביאו ד\"מ ולא כתב עליו דבר אבל תימה דבב\"י בא\"ע סי' ק\"ל כתב הוא עצמו דדעת הרמב\"ם דדוקא כשמביני' אותו לשון עצמו ולא מהני תורגמן ושכן משמע מדברי הרשב\"א ושכן מוכח בירושלמי פ' המגרש ודאשתמיטתיה להטור את הירושלמי וכ\"כ בד\"מ שם וא\"כ איך כתבו כאן הב\"י והר\"ב בפשיטות דתורגמן מהני: מיהו לענין דינא נ\"ל דברי הטור א\"ע סי' ק\"ל נכוני' דאין טעם לחלק בין קורא לפניה' באותו לשון שמבינין או במתורגמן ומה שהקשה הב\"י מהירושלמי נ\"ל דלק\"מ דרב בירושל' קאי התם להדיא אשאר שטרות דאין חותמין אא\"כ יודעי' לקרות דוקא הם בעצמ' וס\"ל כרשב\"ג בש\"ס דילן אבל בגט מודי' דודאי לא פליגי את\"ק וארשב\"ג דא\"כ רב דאמר כמאן ואין להקשות מאי פריך בירושל' ארב ממתני' דהמגרש לישני דמתני' מיירי בגט י\"ל דעדיפא מיניה משני דמיירי ביודעי' לקרות אי נמי דפשיטא דאע\"ג דקתני במתני' גט כל שטר קרוי גט וכדאי' בפ' ג\"פ ושאר דוכתי בש\"ס טובי זימני והכי מוכח נמי ממאי דקא' בש\"ס פ' המגרש (גיטין דף פ\"ח ע\"א) אהך מתניתין גופה והכי גרסי' התם גט שכתבו עברית כו' כתב סופר ועד כשר ההיא כתובת חתני' דאתיא לקמיה דר' אבא דהוה ידעי ליה לטופסא ולחתימת ידא דחד סהדא סבר לא כשורה אמר להו ר' ירמיה חתם סופר שנינו ע\"כ אלמא דסבר לאכשור' ממתני' והא מתני' לא קתני אלא גט אלא ודאי כל שטר קרוי גט (תדע דע\"כ לא פריך בירושלמי ארב בגט דא\"כ ס\"ל לרב דאף בגט בעינ' יודעי' לקרותו ומשמע דאפי' מביני' ל' הגט כל שאין יודעין לקרותו לא מהני וא\"כ רב דאמר כמאן לא כרבנן לא כרשב\"ג דבין לרבנן ובין לרשב\"ג בגט לא בעינן יודעי' לקרותו אלא אחרי' קורים לפניה' אלא ודאי פריך בירושל' ארב בשטר ממתני' דהמגרש דכל שטר קרוי גט וכדפי') ודלא כהד\"מ בא\"ע סי' ק\"ל והדרישה והב\"ח שם שנמשכו אחר דברי הב\"י שהטור הוא נגד הירושלמי וליתא אלא כדפי' כן נ\"ל ברור: גם. מה שהביא הב\"י בא\"ע שם ראיה להרמב\"ם מהא דאמרינן פ\"ב דגטין (דף י\"ט ע\"ב) אמר אמימר האי שטרא פרסאה דחתימי עליה סהדי ישראל מגבינא ביה ממשעבדי והא לא ידעו למקרי בדידעי ואם איתא לוקמא בדלא ידעי וכגון שקראו אחר לפניהם שסומכי' עליו אע\"פי שאין מכירין הלשון אין זה ראיה דהא ודאי אמימר כרשב\"ג ס\"ל למאי דפסקו הרי\"ף והרמב\"ם הלכה כרשב\"ג דאי לא ס\"ל לאמימר כרשב\"ג א\"כ היאך פסקו דלא כאמימר דהוא בתרא טובא מרבא ולרשב\"ג לא מהני בשאר שטרות קורין לפניהם וכה\"ג כתב הב\"ח באה\"ע סי' ק\"ל וכתב דעוד י\"ל דעדיפא מיניה משני דאמימר מיירי בדידעי עוד נ\"ל דהתם לא מצי לשנוי דאחר קורא לפניהם דהא כיון דסתם ישראל אין יודעי' לשון פרסי א\"כ איזה ישראל אחר קרא לפניהם וליכא למימר דלישני דעכו\"ם קורין לפניה' דמאן לימא לן דמהני עכו\"ם קורין לפניהן דהא דמהני לקמן סי' ס\"ח סעיף ב' בשני עכו\"ם קורין מסיחים לפי תומם היינו בשטר שנעשה כבר בעש\"ע ועדים עכו\"ם חתומי' עליו דאי אפשר לערכאות לעשות בענין אחר הלכך השתא דבעינן למיגבי בהאי שטרא מקרינא לשני עכו\"ם מסל\"ת אבל שיחתמו ישראל מתחלה שטר ע\"פ עכו\"ם שיקראו לפניה במסל\"ת מי שמעת לה ולא מצי לשנויי בשיש ישראל אחרי' שיודעים דאם באנו לומר בדידעו יש לתרץ בקיצור בדידעי הם עצמם וגם זה ברור: ויותר נ\"ל דגם הרמב\"ם לא בא אלא לומר שיכירו ל' הגט כדי שיבינו מה שקורין לפניהם ואה\"נ דמתורגמן מהני וכן משמע בהגה' אשר\"י פ\"ב דגיטין שכתבו וז\"ל והוא שיודעים לשון הקדש שמבינים מה שקורין לפניהם שאל\"כ מה מועיל מה שקורין לפניה' כ\"כ הרמב\"ם מא\"ז עכ\"ל ואפשר גם כוונת רשב\"א כן. וגם בעל הלבושים בא\"ע סי' ק\"ל סעיף ט\"ז כתב בפשיטות דסומכים על הקוראי' או מתורגמן: ואע\"ג דהכא לא נפקא מיניה בכל זה לפי מה שפסקתי לקמן ס\"ק ד' דאף במביני הלשון לא מהני לכתחלה בשטרות אף כששנים אחרי' קורין לפניהם מ\"מ נפקא מיניה לענין גט דנרא' דאע\"ג דלכתחלה יש להחמיר כדברי הב\"י בא\"ע סי' ק\"ל סעיף ט\"ז מ\"מ בדיעבד אע\"פ שאין מכירין ל' הגט אם קראו אחרים לפניה' ותרגמו להן הגט באותו לשון שהם מבינים וחתמו כשר הגט בדיעבד היכא דאי אפשר לכתוב אחר אלא בדוחק כן נ\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:3"
+        },
+        "4": {
+          "he": "וכן נ\"ל עיקר.  ול\"נ כסבר' הראשונה ומ\"ש הרא\"ש בדעת הרי\"ף אין נראה לפע\"ד אלא נראה דעת הרי\"ף כמ\"ש הבעל העיטור (בסוף קיום דף ל\"ה ע\"ג) והבית יוסף דאם שנים קורין לא מהני גם מ\"ש הגהת מיי' פכ\"ד בשם ר\"י שפיר' דשנים קורין לפניהם מהני והוא מדברי סמ\"ג דף קע\"ט ע\"ב בשם ר\"י וכ\"כ הרא\"ש פ\"ב דגטין לדעת ר\"י אמת שמצאתי כך בפסקי תוספות פ\"ק דגטין סי' ל\"ד אבל לפע\"ד אינו מוכח בתוספות כלום דנהי דהתוספות פירשו שם בדף ט' ע\"ב קורין לפניה' ובעו שנים קורין כו' דמשמע דשנים קורין מהני מ\"מ הא לא כתבו כן אלא לרבנן וא\"כ אדרבא אי נימא דס\"ל לתוספות דהלכה כרשב\"ג כמו שפסקו הרי\"ף והרמב\"ם ובה\"ג ור\"ח וראבי\"ה (וכדאיתא בהגהת מיי' פ\"א מה' גירושין) ורוב הפוסקים א\"כ מוכח מדברי התוספות איפכא כיון דלרבנן בעי שנים קורין מכלל דלרשב\"ג אפילו שנים קורין לא מהני וכן בחדושי רשב\"א פ' שני דגטין כתב דברי ר\"י דשני' בעינן כדברי רבנן ומשמע התם להדיא דלמאי דקאמר בתר הכי אמר רבא הנכה כרשב\"ג אף שנים קורין לפניה' לא מהני וכן נראה עיקר דסתמא קאמר רשב\"ג אם יודעי' לקרות חותמין ואם לאו אין חותמין משמע דבאין יודעים לקרות בכל ענין אין חותמין וגם ר' ירוחם נתיב ד' ח\"ג כתב וז\"ל ורב אלפס פסק כרשב\"ג שצריכים לידע לקרותו וכ\"כ הרמב\"ם ז\"ל כי לא סמכינן על אחרים או על א' שירא ממנו כמו שכתבתי בדיני דיינים אלא כשיודע לקרותו כו' עכ\"ל הרי דס\"ל לר' ירוחם דלהרי\"ף אף שנים קורין לא מהני ודלא כהרא\"ש לדעתו והיינו בע\"כ כיון דסתמא קא פסיק הרי\"ף אם אין יודעי' לקרות אין חותמין. (ומ\"מ מ\"ש ר' ירוחם או על א' שירא ממנו כו' לית' כי הרמב\"ם והרי\"ף מודי' בזה עיין שם בדבריה' ודו\"ק) ונרא' דלהרי\"ף והרמב\"ם וסייעת' אף מסיחי' לפי תומ' לא מהני וכמ\"ש ב\"י ודלא כבעל העיטור והטעם דלא מהני מסל\"ת לקמן סי' ס\"ח ס\"ב בשטר שנעשה כבר בערכאות של עכו\"ם ולא סגי השתא לקרותו בלאו הכי משא\"כ לעשות שטר לכתחלה בפני ישראל דאפשר לעשות בישראלים שיודעי' לקרותו (וכן משמע בהלכות גדולות דף ל\"ח ע\"ד שכתב ומאן דלא ידע למקרי שטרא אסור ליה למחתם כו' ע\"ש) . וכן נראה עיקר: מיהו נראה דהיינו דוקא לכתחלה אבל אם אירע שחתמו כן שטר כזה אע\"פ שנתנו לשנים לקרותו השטר כשר בדיעבד ואף הרי\"ף והר\"ן וסייעתם מודים בזה ואפש' גם הרמב\"ם והמחבר מודים בזה שהרי לא כתבו רק ואין שאר העם רשאים לעשות כן ולא כתבו שבדיעבד פסול ודוקא בקרעו להם נייר חלק וחתמו כתבו הרמב\"ם והמחבר לקמן סעיף ר' דבדיעבד פסול משא\"כ הכא ואין להקשות מנא להו לחלק בהכי י\"ל דכיון דהך דלקמן אשכחן בש\"ס דנגדיה רב כהנא ס\"ל דבדיעבד פסול וכמ\"ש הרב המגיד דאי לאו דבדיעבד פסול לא הוה נגדיה ע\"ש משא\"כ הכא דהא אמרינן בש\"ס תרגמא אקריאה אלמא דבקריאה טפי יש להכשיר מהך דלקמן ע\"ש ונהי דהיינו לרבנן מ\"מ לרשב\"ג נמי שפיר י\"ל דבקריאה מכשיר בדיעבד טפי מהך דלקמן. ולהיש מכשירי' לקמן סעיף ד' פשיטא דכ\"ש הכא בדיעבד כשר והר\"ן פ\"ב דגטין ס\"ל כהיש מכשירין וא\"כ משמע דכ\"ש הכא דמכשיר בדיעבד ועוד שכתבו הרשב\"א והר\"ן לקמן טעמא דכשר בדיעבד כיון דבגטין שרי אפי' לכתחלה אם כן הכא נמי הא שרי בגטין אפי' לכתחלה וכדאיתא בש\"ס ובטור א\"ע סי' ק\"ל סעיף ט\"ו וכן מוכח דעת המחבר לקמן סעיף ה' דבדיעבד השטר כשר וכמ\"ש שם בס\"ק י' ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:4"
+        },
+        "5": {
+          "he": "מכל מקום מתחייב כו'.  כיון שלא חשש לקרותו וסמך על הסופר שכל הסומך על נאמנות של אחרים הוא גומר בדעתו להתחייב בכל מה שיאמר שם ועיין בתשובת מהר\"י לבית לוי סוף סי' ב' דף י\"ב ע\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:5"
+        },
+        "6": {
+          "he": "וקרעו להם נייר כו'  בסמ\"ע פי' כפי' ר\"ח דלוקחין נייר ומקרעי' בו שמות העדים מעבר אל עבר ומשימי' אותו על הקלף וממלאין את הקרעים דיו והוא עובר דרך הקרעים ונרשם בגט ובגט התירו לעשות כן מפני עיגון ובשאר שטרות אסור אבל לצייר בשרטוט צורת חתימת העדים על הנייר ושהעדים ימלאו השרטוטים דיו אף בגט אסור דה\"ל כתב ע\"ג כתב עכ\"ל והיינו כמ\"ש הר\"ן דקשה על פירש\"י דה\"ל כתב ע\"ג כתב ומביאו ב\"י וכ\"כ הטור א\"ע סי' ק\"ל בשם הרמ\"ה. ומ\"מ לא ה\"ל לפרש כן דברי הרמב\"ם והמחבר שכתבו קרעו להם נייר חלק וחתמו על הרושם כו' משמע דמפרשי' כפירש\"י והעיטור שרושמים הנייר בשרטוט וחותמים על הרושם ובגט כה\"ג כשר גם התוספת פ\"ק דגיטין דף ט' ע\"ב ואע\"פ שהביאו פי' ר\"ח מ\"מ ישבו פירש\"י דהכא לא חשיב כתב ע\"ג כתב דפסלינ' בפ\"ב דאין כאן כתיבה גמורה אלא שרושמים קצת כדי לחתום עליו ועוד דאפילו דיו על גבי סיקרא חשיב לקמן בפ' שני כתב לענין שבת אע\"פ שהסיקרא לבדה היא כתב עכ\"ל וגם הרשב\"א כתב בחדושיו בפ\"ק דגיטין וז\"ל ומיהו מה שהקשו על פירושו של רש\"י ז\"ל אינו ק' דרושם אינו כתב ואינו כחקיקה וכן מצאתי בירושלמי דגרסי' התם המקרע על העור כעין כתב כשר הרושם על העור כעין כתב פסול אלמא רשימה אינה כתיבה וכן פי' הר\"ב בעל העיטור רושמים להם נייר חלק עכ\"ל וכן הסכים ראבי\"ה במרדכי פ\"ב דגטין ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:6"
+        },
+        "7": {
+          "he": "מכין אותם.  כלומר העדים ובקצת ספרים איתא אותו ולכך רצה לפרש בסמ\"ע דאדיין המחתי' קאי ולא נהירא כלל שהרי הט\"ו לא הזכירו בדבריהם דיין כלל אלא פשיטא דצ\"ל אותם וק\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:7"
+        },
+        "8": {
+          "he": "שהסופר חותם על פי העד כו'.  וה\"ה לוה המחייב עצמו בכתב ידו או בממר\"ם שכתב פלוני בן פלוני חתם במסרת קולמוס או שכתב פב\"פ צוה לחתום מהני וכ\"כ רשב\"א כו' עכ\"ל סמ\"ע ובזה נראה דאפי' לא קבלו בני העיר מנהג זה מהני דהא דבעינן קבלו בני העיר היינו דוקא בעד משום דאל\"כ הוי כעד מפי עד דאינו כלום וכדאיתא בב\"י מחו' ג' בשם ר\"ש בר צמח משא\"כ הכא שמתחייב הוא עצמו בכך. כן נ\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:8"
+        },
+        "9": {
+          "he": "ואי איתנייהו לסהדי קמן וקים לן בהו דלא ידעו למיקרי כו'.  אבל מסתמא אמרינן דידעי למקרי ואין צריך לשואלן אפילו הם לפנינו וכן משמע בטור ופוסקים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:9"
+        },
+        "10": {
+          "he": "אי אמרי אקרינן כו'  יש לדקדק דהא מדברי הרמב\"ם והמחבר לעיל סעיף ב' מבואר דאפילו שנים קורין לא מהני בשלמא הרא\"ש וטור שכתבו כן לטעמייהו אזלי וכן הבעל העיטור (סוף קיום דף ל\"ג ע\"ג) שממנו מקור דבר זה יש לפרש דמיירי שאמרו קרינן לשנים מסיחין לפי תומם כמו שהזכיר שם מקודם אבל המחבר שאין מחלק בין מסל\"ת קשה ונראה דס\"ל להמחבר דדוקא לכתחלה אמרינן דאין יכולים לחתום אבל אם עשו כן כשר השטר בדיעבד וכמ\"ש לעיל סעיף ב' ס\"ק ד' וכן עיקר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:10"
+        },
+        "11": {
+          "he": "אי מכווני אשטר כו'.  בסמ\"ע ס\"ק י\"ב כתב דשואלין אותם נמי אי מקרי מתחלה למאן דידעי למיקרי דאי אמרי דלא ידעי למקרי ה\"ל חתימת ידייהו מתחלה בפסול ולא מתכשר במה שמכוונין ענין השטר דדלמא ידעי המעשה כאשר היה ולא ה\"ל לחתום דדלמא זיוף יש בשטר עכ\"ל ולא נהירא לי דמשמע מדברי הט\"ו ובעל העיטור דף ל\"ה ע\"ג והרא\"ש פ\"ב דגיטין דכי מכווני בשטרא א\"צ לשואל' כלל אי מקרי למאן דידעי למקרי וגם משמע דאפילו אומרים בפירוש לא אקרינן כשר אלא נראה דאפילו לא אקרי וסמכו אהמלוה גופיה והאמינו לו נהי דלא ה\"ל לחתום לכתחלה דדלמא יש זיוף בשטר מ\"מ כיון דמכווני אשטרא והשתא אומרים שהשטר כשר ואלו היו נותנים למאן דידעי למקרי היו חותמין כשר השטר כיון דהשתא לא נעשה שום זיוף:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:11"
+        },
+        "12": {
+          "he": "ואם הרחיקו שני שיטין פסול.  שיכול לחתוך השטר ולעשות שטר חדש בזיוף בשני השורות כ\"כ ב\"י והסמ\"ע ס\"ק י\"ג ולא היו צריכים לזה דבלא\"ה פסול שיכול לכתוב בשורה שלפני אחרונ' מה שירצה ואפילו כתוב בסוף השטה שריר וקיים יכול למחוק השריר וקיים ולקיים בשטה שלפני אחרונה ולכתוב שם מה דבעי כדלעיל ס\"ס מ\"ד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:12"
+        },
+        "13": {
+          "he": "ואפילו טייטיהו בדיו.  אפילו אין בו מחק נקודות ושריטות והלובן נראה בין הנקודות ב\"י ומביאו נ\"י וסמ\"ע ס\"ק י\"ד וכ\"כ התוספות פר' ג\"פ דף קס\"ג ע\"א בשם ר\"ת והרב המגיד פ' כ\"ז מה' מלוה וכתב שכן פי' ז\"ל וכן מוכח מדברי הרמב\"ם והטור והמחבר לקמן סי' מ\"ו סעיף ל\"ב ומה שהעתיקו הע\"ש והסמ\"ע בתחלת דברי הנ\"י שלא יאמרו חתמו אטיוט' כלומר שמעידים שבפניהם נמחק בדיו ולא יחשדו לבעל השטר שמחק איזה דבר של חיוב כו' בחנם טרחו דעל כרחך המחבר מיירי אפילו שהוא שריטות וכמ\"ש הפוסקים הנ\"ל וכדמוכח מדבריו וכדלקמן סי' מ\"ו סל\"ב ועיין מ\"ש שס בס\"ק פ\"ז דנ\"ל דאפשר דבשריטות כשר ובש\"ס מיירי בטיוטא מלא דיו ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:13"
+        },
+        "14": {
+          "he": "אבל אינו יכול לטעון להד\"מ.  ואף הפוסקים בשט\"ח המוקדמים דפסולים לגמרי ויכול לטעון להד\"מ וכמ\"ש לעיל סי' מ\"ג ס\"ק י\"ב מודים הכא מטעם שכתב ה\"ר יונה כיון שניתנה עדות זו להכשיר אלו מלאוהו בקרובים או בחזרת דברים. כן נ\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:14"
+        },
+        "15": {
+          "he": "שאם השטר מסיים באמצע שטה כו' פסול שיכול לכתוב כו'.  כתב הב\"ח בטור סעיף ט' דהיינו דוקא לדינא דש\"ס אבל לדידן דכתבינן שריר וקיים אין לחוש אם סיים באמצע השטה וכ\"כ בהגה' אשר\"י עכ\"ל ואין נ\"ל דכיון דקי\"ל דאף לדידן אם כתוב תרי שריר וקיים בשטה שלפני שטה אחרונה כשר וכדכתבו הרשב\"א והרשב\"ץ ור' ירוחם ותשובת רמב\"ן ומביאם ב\"י לעיל סימן מ\"ד וכן מסיק הטור שם בשם הר\"י ברצלוני וכ\"כ המחבר שם בסעיף ט' להדיא א\"כ יש לחוש שיכתוב עוד איזה דבר בחצי שטה הנשארת ויכתוב אח\"כ באותה שטה שריר וקיים. ונראה שלכך כתבו הטור והמחבר כאן בסתם פסול ולא חילקו בין כתוב שריר וקיים או לא ודלא כהב\"ח. ומ\"ש הב\"ח וכ\"כ בהגהת אשר\"י עיינתי בהגהת אשר\"י שם ונראה לפרש דקאי שם אדין דהתחילו העדי' לחתום באמצע שטה זת\"ז דאין למדין מחצי שטה ומשטה שלימה שלפניה ועלה קאי וקאמר ועכשיו שרגילים לכתוב שריר וקיים אין לחוש אם סיים חצי שטה ע\"כ כלומר כיון דאין העדי' חותמים אא\"כ כתוב שריר וקיים ואין כאן לפנינו אלא חד שריר וקיים אין לחוש אם סיים חצי שיטה ולמדין מחצי שטה ומשטה שלפניה. ושוב מצאתי בסמ\"ג בהלכות גירושין דף קל\"ג ריש ע\"ג איתא שם להדיא דברי הגה אשר\"י אלו ונראה לעין שמשם הם לקוחים ומבואר שם להדיא כדפי' ואין ספק שהב\"ח לא כיון יפה בכאן כן נ\"ל ברור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:15"
+        },
+        "16": {
+          "he": "פסול אם יחתמו זה אחר זה אבל אם יחתמו זה תחת זה כשר  ומכל מקום אין למדין מחצי שטה אחרונה ומשטה שלימה שלפניה וכדלעיל סי' מ\"ד ס\"ג ס\"ק ט' וכתב בד\"מ וז\"ל בבית יוסף וכן כתב הרא\"ש ודלא כר\"ש ברצמח דכתב דאם העדים חתומים בכה\"ג למדין מחצי שטה שלפניהם ומכ\"ש ממה שלמעלה מהם דמחחר שאין דרכן של עדים לחתום עצמן באמצע השטה ולהניח גליון בראש ודאי היה כך כתוב מתחלה וליכא למיחש לזיופא ובתשו' הרמב\"ן סי' צ\"ד כתב כדברי הרשב\"ץ וכתב שם דכן הי' מלמד סופרי' לעשות כן לכתחלה עכ\"ל ד\"מ וכ\"כ הב\"ח סעיף י' דמדברי הרא\"ש וטור משמע שאפי' חתמו העדי' בחצי שטה זא\"ז אין למדין מחצי שטה ומשטה שלימה שלפניה ודלא כהרמב\"ן והר\"ש בר צמח עכ\"ל ודבריהן תמוהין בעיני דפשיטא דהרא\"ש וטור שוי' עם הרשב\"ץ ורמב\"ן דהרא\"ש וטור מיירי להדי' בחתמו זה תחת זה אין למדין משום דזה יכולי' העדי' לעשות אבל בחתמו זא\"ז כתבו להדיא דהשטר פסול משום שיכול לעשות שטר הבא הוא ועדיו בשטה אחת ואם כן ודאי דהעדי' לא הניחו כן ולכך למדין והרשב\"ץ מיירי להדיא דוקא בחתומי' זה אחר זה שהרי כתב הרשב\"ץ לפי שאין דרכן של עדי' לחתו' באמצע שטה כדי שלא יפסל השטר משום הנחת הגליון כו' ואי בחתומי' זת\"ז מאי פסול משום הנחת הגליון שייך כאן וכן הרמב\"ן בתשובה סי' צ\"ד מיירי בחתומי' זה אצל זה דוקא שכתב וז\"ל אני מלמד לסופרי' לסיים השטר בחצי שטה ולחתו' הם בחצי שטה הנשארת כי מכאן יש לנו הכשר גמור ונאמר כי בודאי כתובה הית' אותה חצי שטה וכן שלמעל' הימנה כשחתמו העדי' שאילולי כן אסור הי' לחתו' בחצי שטה מחשש שטר הבא הוא ועדיו בשטה אחת עכ\"ל ומביאו ב\"י מחודש ו'. כן נ\"ל ברור ודלא כד\"מ וב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:16"
+        },
+        "17": {
+          "he": "אם יחתמו זא\"ז.  אבל כשיחתמו זה תחת זה כשר דשני עדי' בשני שטרות אין מצטרפין כ\"כ הסמ\"ע ס\"ק כ\"א וכ\"כ בעיר שושן דבכה\"ג כשר משום דהא קי\"ל ב' עדי' בב' שטרות אין מצטרפין כו' ול\"נ דהא קי\"ל לקמן סימן נ\"א איפכא דמצטרפי' עכ\"פ לגבות מבני חרי ע\"ש אלא נ\"ל כאן הטעם כיון דליכא אלא שטה א' בכל שטר ליכא למיחש למידי דיהי' ניכר הזיוף וב' שטרות בכה\"ג שאין בשום א' רק שטה א' אין מצטרפי' ואף על פי שהרא\"ש והטור כתבו כשר אם נאמר דב' עדי' בב' שטרות אין מצטרפין מכל מקום י\"ל דדעת המחבר כמו שכתבתי וגם דברי הרא\"ש וטור יש לפרש דה\"ק אם נאמר דב' עדים בב' שטרות אין מצטרפי' מוכח דכשר משא\"כ אם מצטרפי' י\"ל דפסול וחינו מוכרח דכשר אבל מ\"מ יכול להיית דכשר מטעמא דפרישית וכן עיקר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:17"
+        },
+        "18": {
+          "he": "ואז למדין כו'.  דאם לא הי' כתוב כן קודם חתימת העדי' לא היו חותמין ובתשובת רמב\"ן איתא דהי' מלמד לסופרי' לעשות לכתחל' כן לסיים השטר בחצי שטה ולחתו' העדי' בחצי שטה הנשארת זא\"ז ומביאו בית יוסף מחודש ו':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:18"
+        },
+        "19": {
+          "he": "ויש חלק כו'.  ע' ד\"מ סי\"א דכתב דיש פלוגתא בזה אם חתמו אם השטר נפסל בכך ע\"ש עכ\"ל סמ\"ע ושני הדעות הם בתוספות פ' ג\"פ דף קס\"ג ע\"ב וכתבו הטעם דלא פסלינן אלא כשחותכי' אותו השטר נפסל בכך משא\"כ הכא ומביאם ב\"י מחו' ז' ונרא' לי כוונתם דהא אכתי שטר זה כשר הוא ואי משום חשש פיסול יחתכו עדיין הגליון מה שאין כן בשאר דבר שאם היו חותכין אותו השטר פסול וא\"כ השטר פסול ממה נפשך ודו\"ק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:19"
+        },
+        "20": {
+          "he": "דשמא הי' כתוב שם חובתו כו'.  כתב הסמ\"ע ס\"ק כ\"ה ואף דאין למדין משטה אחרונה היינו דוקא זכותו דבעל השטר וכמו שכתבתי בסי' מ\"ד סעיף א' ע\"ש עכ\"ל ולא נהירא לי דאם כן איך כתבו הרא\"ש והט\"ו אח\"כ ומיהו אם כתב למעלה בסוף השטה שריר וקיים כשר ניחוש שמא כתב דבר חובה בתר שריר וקיים גם מ\"ש הב\"ח סעיף י\"ב דכיון דלא שכיח לכתוב תרי שריר וקיים לא חיישינן להכלל אפי' איכא ריעותא דחתוכה לא נהירא ועוד דדלמא הי' כתוב דבר של חובה אחר שריר וקיים ותו לא הוה כתיב שריר וקיים אלא נלפע\"ד דהרא\"ש והט\"ו מיירי האידנ' דלמדין משטה אחרונ' כיון דכתבינן שריר וקיים וס\"ל להרא\"ש וט\"ו דלדין הש\"ס אפילו הי' דבר של חובה אין למדין משטה אחרונה וכדמוכח להדיא מפירשב\"ם דף קס\"א ע\"ב בסופו וא\"כ ה\"ה לדידן אפילו דבר של חובה אין למדין בתר שריר וקיים וא\"כ למאי דקי\"ל לעיל סי' מ\"ב סעיף ה' וריש סי' מ\"ד בהגהה דדבר של חובה למדין ליתא להך דינא וא\"כ קשה על הר\"ב שלא הגיה כאן כלום וכן קשה יותר על העיר שושן ע\"ש וצל\"ע. ועל כל פנים נ\"ל ברור דלדידן ליתא להאי דינא ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:20"
+        },
+        "21": {
+          "he": "דשמא הי' השטר כו' וחתכו והי' חלק כו'.  כתב הסמ\"ע ס\"ק כ\"ז מכאן יש ללמוד שלא יעשו שטר ועדיו בשטה אחת כשיש חלק מלמעלה אלא יטייטנו בדיו או יחתכנו ומ\"מ כיון שיש ריעותא לפנינו חיישינן שמא אירע כן עכ\"ל וכ\"כ הב\"ח ולא נהירא לי דמשמע בש\"ס ופוסקי' דשטר ועדיו בשטה אחת כשר לכל ענין וע\"ל סעיף י\"ט וגם לא נהירא לחשוד אתה עדי' שעשו שלא כדין אלא נרא' דשטר כזה כשר ולא חיישינן שיחתוך מן הצד ויכתוב מלמעלה משום דסתמא כל שטר ישלו גליון מן הצדדי' וא\"כ כשיחתוך לא יהי' לו גליון כלל מן הצד ויהא ניכר הזיוף ולפי זה צריכים העדי' ליזהר כשכותבין שטר כזה שהוא בדיו בשטה אחת והוא חלק מלמעל' שלא יניחו שום ריוח כלל בין השטר ובין חתימת העדי' ובלאו הכי נמי צריכים ליזהר בזה וכמ\"ש הט\"ו לעיל סי' מ\"ב סעיף ג' שיהי' הכתב מיושר ואל ידחוק במקום אחד וירחיק במקו' אחר כו' ואם רואה בו הדיין שום שינוי לא יגבה בו עד שיבדוק הדבר היטב כו' ע\"ש. כן נ\"ל ברור ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:21"
+        },
+        "22": {
+          "he": "אם יש שם עדות ברורה שכולם ישבו לחתו' כו'.  ולהסברא הראשונ' דלעיל סי' ל\"ו סעיף ב' מיירי כאן כשאנו יודעי' שהכשר מכיר בפיסול של חבירו כגון שהוא אחיו או שרגיל בו וכה\"ג וכן פי' ב\"י לקמן סי' נ\"א סעיף ה' וכתבו עוד הבעל העיטור והנ\"י פרק ז\"ב ומביאם ב\"י שם דהיכא דלית להו לסהדי מכשרינן לשטר ולא פסלינן ליה מספק דאמרינן דילמא לא הוי ידעי הכשרי' בפיסולו ואפילו נודע שישבו שלשתן להעיד והיכא דאיתנהו לסהדי קמן שיילינן להו ונאמני'. מיהו לסברא האחרונ' דלעיל ס\"ס ל\"ו אין חילוק דאפי' לא ידעו הכשרי' בפיסולו בטל השטר וכדמוכח בהרא\"ש פ\"ק דמכות וע' מ\"ש עוד מזה בס\"ס ל\"ו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:22"
+        },
+        "23": {
+          "he": "אע\"פ שהעד החתו' כו'.  הנה המחבר העתיק ל' הרמב\"ם ולא הביא כאן שום חולק ואין פסק זה מחוור בעיני דאזיל לטעמיה שכתב בב\"י שכן דעת הרי\"ף פ\"ק דמכות בשם גאון ושכן כתב הרשב\"א בתשובה ושכן הסכים הריב\"ש סי' תט\"ו והביח שכן דעת הרמב\"ן אבל לפי ענ\"ד דעת הרשב\"א והרי\"ף הוא להפך וכן הוא דעת הרבה פוסקי' מחד וכן עיקר ומוכרא בש\"ס וכמו שאבאר: והגה הבעל הלכות גדולות כ' בהלכות עדות דף קי\"ד ע\"ג וז\"ל קאמרינן בפרק גט פשוט הי' ארבעה וחמשה עדי' חתומי' ונמצא אחד מהם קרוב או פסולי תתקיי' עדות בשחר הני מילי כגון דהוה חתום קרוב ברישא דאיגלאי מילת' דכבוד בעלמ' הוא דעבד ליה ולאו לעדות אחתמיה אבל חתם קרוב בסוף או באמצע פסול דהא סביר' לן דהלכה כרב נחמן בדינא דכי היכי דפסילי לדיני נפשות פסילי נמי לדיני ממונות ותניא בתוספת' שטר שחתמו עליו ה' עדי' ונמצא ג' הראשוני' קרובי' או פסולי' תתקיי' עדות בשאר עדים וכן הלכה עכ\"ל והנה הרמב\"ן בחדושיו פרק ג\"פ כ' דהא דאמרינן הראשוני' כל שכן אם נמצאו האחרוני' קרובי' או פסולי' שהשטר כשר והיינו דאמרינן בפ' המביא תנין (דף י\"ח ע\"ב) במסכת גיטין לחתום בתחלה קרוב או פסול אמרי לה כשר ואמרי לה פסול אמרי לה פסול משום דאתי לאחלופי בקיום שטרות דעלמ' ובסוף כשר נדברי הכל וכדמפורש התם כו' ובגט קרא נמי הכשירו קרובי' בין באמצע בין בסוף כדאית' בפרק הזורק (בסוף הפרק שם) ואע\"פ שהם צריכי' שם כדי להשלי' קרחתו וכ\"ש בשאר השטרות כו' ולא הוצרכתי לכתוב זה אלא מפני שיש מקצת מפרשי' אומרי' דדוקא בשנים הראשוני' אבל באחרוני' לא וסומכי' על מה שכתוב כן בהלכות רב יהודאי גאון ז\"ל וטעות הוא עכ\"ל ומביאו הריב\"ש סי' תט\"ו והסכים עמו: ואני אומר במחילה מכבוד הרמב\"ן ז\"ל לומר כן על הבעל ה\"ג שטעה ובפרט שהוא בעצמו כותב בהקדמת ספריו שהוא מצטער תמיד ליישב דברי בה\"ג שכל דבריו הם דברי קבלה מחכמי הש\"ס ואיך יכתוב עליו כאן כן ובפרט שצדקו דברי בה\"ג והדין עמו ובתחלה אביא לסתור ראיות הרמב\"ן ואח\"כ אביא ראיות כדברי ה\"ג הראיה הא' שהביא הרמב\"ן מפ' המביא תנין יש כמה תשובות בדבר וכמו שאבאר והעיק' נ\"ל כיון דהרמב\"ן גופיה גריס התם לחתום בתחלה קרוב או פסול אמרי לה כשר כו' וכדאית' בלשון חדושי הרמב\"ן וכן בלשון הריב\"ש שם וכן הוא הגירס' בהרב המגיד פ\"ט מה' גירושין דין כ\"ז לחתום לכתחלה כו' והיינו כגירסת הרי\"ף פ' המביא תנין דגריס מיחתם לכתחלה כו' ופירושו אי שרי לכתחלה לחתום קרוב או פסול ולא אתא אלא לאפוקי דיעבד וכמ\"ש הר\"ן בפ' המבי' תנין ואעפ\"י שכ' הר\"ן שם דאף לפי גירסת הרי\"ף יש לפרש כפי' רש\"י מ\"מ נהי דיש לפרש כן מ\"מ אין הכרח לפרש כן וא\"כ מאי ראיה משם ועוד שנראה לי עיקר כגירסת הר\"ף וכפי הפירוש המובן מפשוטו דהיינו לענין לכתחלה וכן נרא' להדיא מדברי הרמ\"ה שהביא בטור א\"ע סי' ק\"ך שגורס כן ומפרש כן דאלו לפירש\"י קשה מדקאמר אי חתים מתחל' כו' מכלל דעד השתא מיידי דחתים לבסוף והלא לא הוזכר מקודם דמיירי בחתים לבסוף אבל למאי דפריש' אתי שפיר דלעיל קאמר איכא בינייהו כגון שנמצ' אחד מהן קרוב או פסול והאי לישנ' כגון שנמצא כו' משמע להדי' דיעבד וקאמר השתא מיחתם לכתחלה קרוב או פסול אמרי לה כשר ואמרי לה פסול כו' ואין לפקפק מאי דקאמר לישנא דפסול אלכתחלה דהכי אשכחן טובי האי לישנ' גבי גיטין בכל מסכת גיטין (אחר זמן בא לידי ספר נקרא תומת ישרים הובאו שם דברי הרא\"ד על מסכת גיטין איתא שם בסוף פרק הזורק דגירסת הרי\"ף מיחתם לכתחלה עיקר דדוקא לכתחלה אבל דיעבד שפיר דמי עיין שם ונהנתי שכוונתי לדעת הגדול ת\"ל יתברך): גם מה שהביא הרמב\"ן מהך דס\"פ הזורק גבי גט קרח דכשר בין בתחלה בין בסוף וכל שכן בשאר השטרות אומר אני דהאי כ\"ש ק\"ו פריכא הוא דאדרבה כיון דצריכים שם כדי להשלים קרחתו לכך כשר דלאו משום עדות חתמי אלא להשלים קרחתו אבל בשאר שטרות שכבר נשלם השטר למה חתמו הקרובים אח\"כ אלא ודאי מתחלה נצטרפו יחד להעיד. והתוספות פרק גט פשוט בסוף הדיבור תירצו הך דגט קרח בענין אחר ע\"ש: עוד יש לתרץ קושיות הרמב\"ן מהך דיהמביא תנין דהתם דוקא בגט אמרינן הכי מה שאין כאן בשאר שטרות שאין קיום שטרות אלא לבסוף ותירוץ זה מרומז בדברי התוספות פרק גט פשוט ודלא במהר\"ש אידלש שם שכתב לדעת התוס' שם דהך דהמבי' תנין לא אתא אלא לאפוקי אמצע ואף שבאשר\"י הוא כן לא נהירא ועוד שהרא\"ש סובר כן לגרמיה אבל בתוספות שם אי אפשר לפרש כן דהאיך מרומז זה בתוספות והאיך יקשו התוס' מתחלה מהך דהמביא תנין ולא יזכירו אח\"כ שום תירוץ אבל מה שכתבתי מבואר להדיא בדבריה' למדקדק שם וכן משמע בסמ\"ג דף ק\"ץ ע\"ב וכן משמע בר\"ן פרק המביא תנין וגם דברי התוס' פרק המביא תנין יש לפרש כן ומ\"ש הב\"י בא\"ע סי' ק\"ך בשם הר\"ן ור\"ת דבסוף פסול לכ\"ע בין בגטין בין בשטרות לא ידעתי מנ\"ל הא דאדרבה המדקדק בדברי הר\"ן ור\"ת יראה דבגיטין מודי דכשר בסוף וכמ\"ש ומ\"ש הר\"ן ור\"ת שם דאפי' מאן דמכשר הכא לא מכשר אלא בתחלה כו' ר\"ל מאן דמכשר הכא בשטרות כמו בגיטין לא מכשר אלא בתחלה בשטרות ע\"ש והא דקאמר בהמביא תנין אתי לאחלופי בשאר שטרות ה\"פ שיאמרו מדגבי גט שקיומו מלמעלה כשר בקרובי' מלמעלה אם כן אפי' חתומים על השטר קרובי' וידוע שלעדות חתמו כשר: עוד יש לתרץ דבהך דהמביא תנין היינו שחתום בתחל' קודם שחתמו הכשרי' ולא אתא אלא לאפוקי חתמו בסוף אחר שחתמו הכשרים ומ\"מ הפסול חתום בשורות הראשונות ותירוץ זה מבואר בחדושי הרשב\"א פרק המביא תנין ובמרדכי פרק ג\"פ: אבל מה שכתב מהרש\"ל בח\"ש נרק המביא תנין על דברי התוספות שם דלמאן דאמר התם פסול ליכא הך איכא בינייהו דנמצא קרוב או פסול וכן כתב הב\"י והב\"ח בא\"ע סי' ק\"ך לדעת התוספות לא נהירא לי כלל דאין זה סוגית הש\"ם כלל אלא נראה דסבירא ליה להתוס' אחד מג' תירוצי' הנ\"ל שכתבתי: ומ\"מ תירוץ הראשון נראה לי עיקר דמיחתם בתחלה לא אתא אלא לאפוקי דיעבד ואי לאו דמסתפינא לחלוק על כל הפוסקי' הייתי אומר דבגט בנמצא קרוב או פסול בין בתחלה בין בסוף כשר דהא בתוספתא ס\"פ בתרא דגטין קתני גט שחתמו עליו חמשה עדים ונמצאו שלשה הראשוני' קרובי' או פסולי' תתקיי' עדות בשאר ע\"כ והובא בחידושי הרשב\"א פ\"ב דגטין ולפי מה שהוכחתי לקמן דהראשוני' דנקט דוקא ולא אחרוני' וכמ\"ש הרשב\"א שם וכן התוספות ושאר הרבה פוסקי' אם כן טפי כשר בראשוני' מבאחרוני' וא\"כ נראה דהיינו כדאיתא בירושלמי פ\"ק דגטין שהבאתי לקמן דהך ברייתא אתיא כמ\"ד עדים חותמי' זה בלא זה אבל למ\"ד אין עדי' חותמי' אלא זה בפני זה אפילו חתום פסול לבסוף כשר וא\"כ הא קי\"ל דבגט אין חותמי' אלא זה בפני זה וא\"כ בע\"כ הא דקאמר בש\"ס פ' המביא תנין מיחתם בתחלה היינו כדפי' לענין לכתחלה אבל בדיעבד בכל ענין כשר. כך נ\"ל אלא שאינני כדאי לחלוק על הפוסקי' ובפרט להקל בגיטין: ואחר אשר דחיתי ראיות הרמב\"ן אביא ראיות לדברי ה\"ג חדא כיון דברוב הספרי' גרסי' כגירס' ר\"ח הראשוני' וכן הוא להדיא בתוספתא למה נוציא הברייתא מפשטה ולו דנקט ראשוני' לרבותא הא פשטא דמילתא משמע ראשוני' דוקא: ועוד מצאתי מזה בירושלמי פרק קמא דגטין ונ\"ל להוכיח משם דהראשוני' דוקא. דגרסינן התם על מה דתנא התם כל גט שחתו' עליו עד כותי פסול חוץ מגיטי נשים אלא מעתה אפילו כותי א' יהא פסול א\"ר אבין תפתר שחתם ישראל לבסוף אמר ר' יוסי אתיא כמ\"ד עדים חותמין זה שלא בפני זה ברם כמאן דאמר אין עדי' חותמי' אלא זה בפני זה אפלו חתם כותי בסוף כשר שטר שחותמו בארבעה עדי' ונמצאו שני' הראשוני' קרובי' או פסולי' כשר ותתקיי' העדות בשאר רבי אילא בשם רבי יסא אתיא כמאן דאמר אין העדי' חותמין אלא זה בפני זה ברם כמאן דאמר עדי' חותמין זה שלא בפני זה אפילו חתם ישראל בסוף פסול ויעשה כהרחק' עדות ויהא פסול לית יכול דקאמר ר' יסא בשם ירמיה עדים פסולי' אינן נעשין כהרחקת עדות שלא באו אלא להכשירו של גט עכ\"ל הירושלמי שלפני. ונ\"ל שהגירסא מהופכת שכפי גירסא זו אין לו הבנה גם קשה דהא בש\"ס פ\"ק דגטין (דף י') אמרינן אדרבא איפכא והכי איתא התס אמתניתין דהתם לא הכשירו בו אלא עד א' כותי וכגון דחתי' ישראל לבסוף דאי לאו דכותי חבר הוה לא מחתי' ליה מקמיה אי הכי אפילו שאר שטרות נמי אלא אמרי' רווחא שביק למאן דקשיש מיניה הכא נמי רווחא שביק למאן דקשיש מיניה אמר רב פפא זאת אומרת עידי הגט אין חותמין זה בלא זה מאי טעמא אמר רב אשי גזירה משום כולכם ע\"כ. ותו דבשטרות מי איכא למ\"ד אין העדי' חותמין אלא זה בפני זה דהא בגיטין לא אמרי' הכי אלא משום גזרה דכולכ' והא לא שייכא בשטרות. אלא נראה ברור דהכי גרסי' אמר ר' אבין תיפתר שחתם ישראל לבסוף ר' אילא בשם ר' יוסי אתיא כמ\"ד אין העדי חותמי' אלא זה בפני זה ברם כמ\"ד עדים חותמין זה שלא בפני זה אפילו חתם ישראל לבסוף פסול שטר שחותמו בארבעה עדי' ונמצאו שנים הראשוני' קרובי' או פסולי' כשר ותתקיי' העדות בשאר אמר ר' יוסי אתיא כמ\"ד עדים חותמין זה שלא בפני זה ברם כמאן דאמר אין עדים חותמין אלא זה בפני זה אפילו חתם כותי בסוף כשר (והא דקאמר ברם כמאן דאמר אין עדי' חותמין אלא זה בפני זה משום גט נקט לה דבגט נמי קתני בתוספתא גט שחתמו עליו ד' עדים ונמצאו הראשוני' קרובי' או פסולי' כו' והבאתיה לעיל דאלו בשטר ליכא למאן דאמר הכי א\"נ סירכא דלישנא דלעיל נקט וה\"ק דאלו הוה אמרינן אין עדים חותמין אלא זה בפני זה אפילו חתם פסול בסוף כשר) והשתא ניחא נמי הא דקאמר ר' יוסי אתיא כמאן דאמר עדים חותמין זה שלא בפני זה כו' דלפי הגירסא דלעיל קשה מאן דוחקיה לוקמה למתניתין כמאן דאמר אין עדים חותמין זה שלא בפני זה ואפילו חתם בסוף כשר ודוחק לומר דהא דקאמר ר' יוסי אתיא כמאן דאמר כו' אר' אבין קאי כלומר דר' אבין דאוקמה הכי ולא אוקמה בחתם כותי בסוף ס\"ל הכי והשתא ניחא נמי דלא פליג ר' אבין אברייתא דלפי הגירסא דלעיל צריך לומר דר' אבין פליג אברייתא דשטר שחותמו בארבע' עדים וזה תימה וגם הלשון אפילו חתם ישראל לבסוף פסול קשה לפי הגירסא דלעיל והל\"ל בקצור ברם כמאן דאמר כו' פסול אלא ודאי הגירסא היא כמ\"ש וא\"כ הירושלמי ס\"ל ממש כש\"ס דילן דבגט אין עדים חותמין אלא זה בפני זה ובשטר חותמין זה שלא בפני זה וה\"פ שטר שחותמו בארבעה עדים ונמצאו שנים הראשוני' קרובי' או פסולי' כשר דמסתמא רווחא שבקי לקשישי ומסתמא למילוי חתמי שלא יפסל השטר בהרחק שני שטין אבל שנים האחרי' פסולי' דלא שייך לומר רווחא שבקי ולאיזה צריך חותמי' הא כבר נעשה השטר כתיקונו אלא מסתמא לשום עדות חתמי אמר ר' יוסי אתיא כמאן דאמר עדים חותמין זה שלא בפני זה הלכך אמרינן דהראשוני' הכשרים לא ידעו מן האחרוני' הפסולי' ברם אי אמרינן אין עדי' חותמין אלא זה בפני זה אפילו חתם כותי שהוא פסול לבסוף כשר דכיון דידעי הכשרי' שיחתמו האחרוני' ודאי ידעי דלאו לעדות חתמי האחרוני' אלא לכבוד או לתנאי וכה\"ג דאי לעדות היאך יחתמו עם הפסולי' דהא נמצא א' מהם קרוב או פסול עדותן בטלה. כן נ\"ל הצעת בירושלמי. ואם כן מוכח דהראשונים דוקא: גם דעת הרי\"ף נ\"ל כדעת בה\"ג שהרי גם הוא גורס בפ' ג\"פ כר\"ח ונמצאו הראשוני' וכבר הוכחתי דהראשוני' הוא דוקא ומ\"ש הרי\"ף פ\"ק דמכות בשם גאון אין ראיה דהתם לא בא אלא לחלק בין עדות בע\"פ לבשטר ומיירי בראשוני' והיינו שכתב שם טעמא דאמרי' רווח' שביק למאן דקשיש מיניה וזה לא שייך רק בראשוני' דוקא ולא כב\"י ושאר אחרוני' לדעת הרי\"ף פ\"ק דמכות בשם גאון. גם מ\"ש הב\"י בשם תשו' הרשב\"א נ\"ל דלא דק דהרי הרשב\"א פ\"ב דגיטין ס\"ל כבה\"ג אלא שמסכים לרי\"ף בשם גאון דיש חילוק בין עדות בע\"פ לשטר ומיירי כדפי'. וכן מוכח להדיא בתשו' רשב\"א סי' אלף צ\"ב ומוכח שם דדעת הרי\"ף כדעת ר\"ח ובה\"ג שכתב שם מתחלה וז\"ל לא פסלינן שטרא מספק אלא תתקיי' העדות בשאר דאמרי' רווחא שביק כו' הנה שהגאון והרב אלפסי ז\"ל הסכימו בדבר להכשיר וראוי לסמוך עליה' דגדולי ישראל ומובהקי' הם כו' ואח\"כ בסמוך מיד כתב אלא מיהו אם מקיימי' מן הראשוני' או מן האחרוני' בזה נחלקו גדולי ישראל לפי שר\"ח ז\"ל והרב אלפסי ז\"ל סוברין לומר דוקא מן האחרוני' ולא מן הראשוני' דתלינן הראשוני' במילוי כו' הרי מוכח להדיא כדפי': גם בריב\"ש סי' תט\"ו הבין דעת הרי\"ף דמכשיר בכל ענין ולפענ\"ד כמ\"ש: גם מ\"ש הטור והגאוני' לא חילקו כו' צל\"ע דנראה לפרש גם דברי הגאוני' כהרי\"ף שהרי הרא\"ש כתב פ\"ק דמכות לשון גאון של הרי\"ף ובפ' ג\"פ כתב דבסוף פסול אלא ודאי כמ\"ש: הגה נתבאר שדעת הלכות גדולות ור\"ח והרי\"ף והרשב\"א דדוק' ראשוני' ולא אחרוני'. וכן ר\"י נ\"ב ח\"ב אע\"פ שהביא סברת האומרי' דכ\"ש אחרוני' כתב מיד אח\"כ ויש מן הגדולי' שכתבו שאם הפסולי' אחרוני' או אמצעי' השטר פסול. רשב\"א פ' ג\"פ דף קס\"ב ע\"ב הסכים לדברי בה\"ג וכן הסכי' הר\"ן פ\"ב דגטין והתוס' שם ובפ' ג\"פ וכן פסקו הרא\"ש והמרדכי שם וכ\"כ הטור וכן דעת הסמ\"ג דף ק\"נ ע\"ב וז\"ל גרסי' בתוספחא ומביאה בהלכות גדולות היו ד' וה' עדים חתומי' על השטר ונמצאו שני' הראשוני' קרובי' או פסולי' תתקיי' העדות בשאר דאיכא למימר לכבוד או למילוי חתמו אבל באחרוני' לא הייתי מכשיר עכ\"ל והשמיט דברי הרמב\"ם שם: וכן דעת ה\"ר משה בר חנוך שהביא הבעל העיטור דף ל\"ח ע\"א וז\"ל ובתשו' ר' משה בר חנוך כשהושוו ג' לשנים לבטל עדות' כשהם חתומי' פסולי' באמצע או בסוף וזו היא ששנינו תתקיי' העדות בשאר כשהם חתומי' בראשונ' לשם כבוד חתמו ולא לשום עדות כו' והריב\"ש סי' תט\"ו פי' דהר\"מ בר חנוך מיירי כשחותמי' יחד זה בפני זה אבל שטר שבא לפנינו ואין נודע אם חתמו יחד או זה שלא בפני זה לעולם כשר דתולין שהכשרי' לא חתמו עם הפסולי' אלא לאחר שנכשר השטר בחתימת הכשרי' כו' ולא נהירא לי דפשט דבריו משמע דמיירי בסתם שטר שבא לפנינו ועוד דלא מסתבר לחלק בכך בזה ועוד דא\"כ ל\"ל לר\"מ ב\"ר חנוך למימר וזהו היא ששנינו תתקיי' בשאר כשהן חתומי' בראשונה הא הך ברייתא דתתקיי' בשאר מיירי בסתם שטר שבא לפנינו שנמצאו קרובי' ופסולי': ובבעל העיטור שם כתב אחר דברי הר\"מ ב\"ח וקשיא לן הא דגרסי' בגטין מיחתם בתחלה קרוב או פסול כו' והיינו קושית הרמב\"ן פ' ג\"פ על הבה\"ג וכבר כתבתי דל\"ק מידי: גם מ\"ש הריב\"ש סי' תט\"ו שדעת ר\"י ור\"ת דכשרי' בין בתחלה בין בסוף הוא תמוה שהרי התוס' פ\"ב דגטין והרשב\"א והר\"ן שם וכן התוס' פ' ג\"פ והרא\"ש והמרדכי שם כתבו להדיא בשם ר\"י איפכא וגם כתבו התוס' והרא\"ש ומרדכי ורשב\"א והר\"ן שם שגם ר\"ת חזר בו והודה לדברי ר\"י ע\"ש: וכן נראה דעת הנמוקי יוסף שכתב בפ\"ק דמכות וז\"ל הרמב\"ן ז\"ל וכ\"ש לב' אחרוני' שנמצאו קרובי' או פסולי' שהוא כשר דאמר בתר הכי אתי הנך וחתמי ואין דעת התוספות כן אלא לעולם צריך שיהיו ב' אחרוני' כשרי' ובפ' גט פשוט היא בארוכה עכ\"ל ובפ' ג\"פ לא כתב רק כדברי התוס' וז\"ל שם הראשוני' כגון בשטה הראשונה מהשני' יתקיי' העדות באותם שנחתמו בשטה שנייה שהם כשרי' ונימא שהראשוני' לכבוד בעלמא והא דאמרי' נמצא א' מהן קרוב או פסול עדותן פסולה מיירי שנחתמו אחרוני' בשטה שניה או כולם יחד בשטה אחת דאז ודאי נימא דלשם עדות גמור נתכונו עכ\"ל: הגה נתבאר שהעיקר בש\"ס דדוקא נמצאו הראשוני' קרובי' או פסולי' כשר ולא האחרוני' וכן דעת בה\"ג ורשב\"ם ור\"י ור\"ת והר\"מ ב\"ח והרשב\"א והר\"ן והתוספות והרא\"ש ומרדכי ונמוקי יוסף וסמ\"ג והגהת מיימוני פ\"ה מה' עדות וטור וכן דעת ראב\"ן דף ק\"י ריש ע\"ב וכן נראה דעת הרי\"ף ורבינו חננאל והכי נקטינן: ולענין אמצעי' הנה בבה\"ג והר\"מ בר חנוך והר\"ן פ\"ב דגטין ור' ירוחם נ\"ב ח\"ב ומרדכי פ' ג\"פ מבואר דאמצעי' פסולי' כמו בסוף וכ\"כ התו' פ\"ב דגטין וכן הוא בפסקי תוס' שם וכן נראה דעת הרשב\"א שם ודלא כהרא\"ש פ' ג\"פ (ומ\"ש בית יוסף דאפשר דלא פליג הרא\"ש אהנך רבוותא לא נהירא לי ע\"ש בהרא\"ש) והכי מוכח לפי מה שהוכחתי דהברייתא דוקא נקט' הראשוני' וכן עיקר (ודלא כנראה מדברי הר\"ב בהג\"ה): גם מ\"ש במרדכי פג\"פ בשם ראבי\"ה ופ\"ק דמכות בשם הירושלמי וכן הוא בראב\"ן שם דף ק\"י ריש ע\"ב בשם הירושלמי שיכתבו העדים בפי' דלמילוי חתמו לא נהירא ואפשתי ולא מצאתי כן בירושלמי והוא נגד משמעות הש\"ס וכל הפוסקים שכתבו להדיא דבסתמא תלינן דלמילוי חתמו וכן עיקר: אכן מ\"ש התוס' פ\"ב דגיטין ופ' ג\"פ והרא\"ש שם והרשב\"א והר\"ן פ\"ב דגטין והטור דאין מקיימי' השטר אלא מעדי' שלמטה. לא כתבוהו שאר הפוסקי'. וגם אין נ\"ל כדבריה' בזה אלא נ\"ל עיקר בזה וכמו שכתב הרמב\"ן בחדושיו פ' גט פשוט והריב\"ש סי' תט\"ו דמקיימי' השטר מכל תרי דאית ביה דמסתמא לא חיישינן דאית ביה קרובי' וכן מוכח דעת הרמב\"ם והמחבר וכמ\"ש לקמן דמשמע ליה דה\"פ דש\"ס כל כי האי גוונא אין מקיימי' אותו אלא מעדי' שלמטה הא בעלמ' מקיימי' בין מלמעל' בין מלמטה וכמ\"ש הרמב\"ן והריב\"ש שם וכתבו שהוא דבר פשוט מאוד וא\"צ לכתבו עוד נ\"ל ראיה ממאי דתניא היו ארבעה וחמשה עדי' חתומי' על השטר ונמצאו שני' הראשוני' קרובי' או פסולי' תתקיים העדות בשאר משמע הא כל שלא נמצאו פסולי' תתקיים באיזו שנים שירצה ודוחק לומר דה\"ק היכא דלא נמצאו פסולי' נמי לא תתקיים אלא בלמטה אלא דבנמצאו פסולי' ס\"ד דלא ליהני קיום בשאר דבטל כל העדות קמ\"ל דא\"כ הכי הל\"ל היו ארבעה וחמשה חתומי' על השטר אע\"פ שנמצאו קרובי' או פסולי' תתקיים העדות בשאר גם פשטא דבריית' לא משמע הכי אלא כדפי'. גם לדעת הרמב\"ם והמחבר כ\"ש שצ\"ל כן שהרי הם סוברי' דבקרובי' בין בתחלה בין בסוף כשר וא\"כ איך מקיימי' השטר אפי' מעדי' של מטה אלא ודאי כדפי' דסתמא לא חיישינן לקרובי': ובספר לחם משנה פ\"ה מה' עדות ראיתי שהניח זה בקושיא על הרמב\"ם וכתב וז\"ל והרמב\"ן בחדושיו פ' גט פשוט הביאו והריב\"ש סי' תט\"ו כתב לתרץ קושיא זו וז\"ל ואין לחוש שמא יקיימו אותו מאותן העדים שלמטה דכיון שהם קרובים או פסולים מגליא מלתא ולא אתי למסמך עלייהו וקשה לי על תירוץ זה מהא דאמרינן בס\"פ הזורק גבי גט מקושר אמר רבי יוחנן לא הכשירו בו אלא עד אחד קרוב בלבד אבל תרי לא דילמא אתי לקיומי בתרי קרובים וחד כשר והא כיון דקרובי' ידיעי היכי אתי לקיומי בהו ואמאי ידיעי טפי בפשוט ממקושר עכ\"ל ולא קשה מידי דהתם במקושר כיון דליכא עדים טפי מכי אורחיה לא מיגליא מלתא אבל הכא כיון דאיכא ארבע וחמשה וה' עדים טפי מאורחיה דייקי בית דין ומגליא מלתא ובאמת לא עיין הלחם משנה רק בריב\"ש שמביא דברי רמב\"ן בקצרה ואישתמיטתיה חדושי רמב\"ן עצמו שהקשה קושיא זו ותי' כן להדיא כדפי' וז\"ל הרמב\"ן בחדושיו שם ובגט קרח נמי הכשירו קרובי' בין באמצע בין בסוף כראיתא בפ' הזורק ואעפ\"י שלא הכשירו בו אלא אחד משום דדלמא אתי לקיומי בשני קרובי' וחד כשר הכא שאני משום דכיון דלא הוו צריכי למחתם ולאו אורחא דאינשי לרבויי בעדי' בגט פשוט בודאי אמרי בי דינא מאי דקמן ומיגליא מלתא דקרובי' נינהו ומשום תנאי או למילוי ריוח חתמו עכ\"ל ובסתס שטר שלא נמצאו קרובים כיון דלא מגליא מלתא מקיימי' מאיזו שנים שירצה דאם איתא דהוו קרובי' או פסולי' הוו מיגליא: עוד כתב שם הרמב\"ן ז\"ל לתרץ את זה וז\"ל ואפשר נמי דהני מילי לכתחלה ומשום טעמא דפרישית דאתי לקיומי בהו כיון שהוחתמו שם בודאי כדי להשלים קרחתו של גט אבל דיעבד כשר ואעפ\"י שיש לחוש שמא יקיימו מהם עכ\"ל וגם זה התירוץ נכון הוא: ומעתה גם מ\"ש הרשב\"א במילוי כו' אין נראה לפע\"ד דנהי דר\"ח והרי\"ף גרסי הראשוני' ומשמע הראשוני' דוקא מ\"מ היינו לענין כשנמצאו פסולי' בודאי אז בראשוני' השטר כשר דאמרינן למילוי חתמי דרווחא שבקי לקשישי ולא באחרוני' אבל בסתם שטר מקיימינן מכל תרי דאית ביה וכמ\"ש וכן עיקר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:23"
+        },
+        "24": {
+          "he": "אם הכשרים זוכרי' כו' זהו מתשובת הרא\"ש כלל ס' דין ג' וכתב בסמ\"ע ס\"ק ל\"ד דממ\"ש הרא\"ש בתשובה שם סי' ה' נראה כסותר למ\"ש בסי' ג' ששם כ' דאפי' כשחותמי' בשטר אין לכשרים לחזור ולהעיד אלא א\"כ שהפסולי' לא היו עמהם בראיית ההלואה אלא שישבו אח\"כ וחתמו יחד ומ\"ה אמרי' דהשטר פסול והעדות כשר ולא כשהיו הפסולי' עמהן וכוונו להעיד גם בשעת הלואה ואפשר דמ\"ש בדין ה' לא כ\"כ כ\"א לדעת הרמב\"ם דס\"ל דבראיה לחוד מפסל העדות אבל הרא\"ש ס\"ל דתרתי בעינן ראיה והגדה וכמ\"ש הטור בסי' ל\"ו מ\"ה כתב שם בדין ג' דיכולי' החתומי' על השטר לחזור ולהעיד ודוחק וצ\"ע עכ\"ל ולא נהירא אלא נראה דהרא\"ש בסי' ג' וכן המחבר כאן מיירי שהפסולי' לא היו עמהם בשעת ראיה ולא הוצרכו לבאר זה דפשיטא דכשהפסולי' היו עמהם דבטל העדות לכ\"ע דהא ה\"ל ראיה והגדה דעדי' החתומי' על השטר כמו שנחקרה עדותן בב\"ד דמי ומה\"ט קי\"ל בכל דוכתי עדי' החתומי' על השטר אין יכולים לחזור ולהעיד דכיון שהגיד שוב אינו חוזר ומגיד דהגדה בשטר כהגדה בב\"ד היא כן נ\"ל: ולפי מה שהעליתי לעיל סי' ל\"ו סק\"ח דבנצטרפו בראיה לחוד בטל העדו' אפילו לא העידו אח\"כ א\"כ אם היו הפסולי' עמהם בשעת ראית המעש' נתבטל העדות אפילו לא חתמו בשטר ואם לא היו הפסולי' עמהם בשעת ראיית המעשה וחתמו על השטר פסול דאע\"ג דהעליתי לעיל סי' ל\"ו ס\"ק ו' דבהגדה לחוד לפני ב\"ד לא נצטרפו ודלא כהרמ\"ה הגדה דבשטר גרע טפי כיון דחתומי' יחד על שטר א' וה\"ל מזויף מתוכו וגם כיון דאין העדי' חותמי' על השטר אלא מדעת המתחייב שאומר להם כתובו וחתומו א\"כ חתימתן על השטר הוי צירוף לענין מעשה השטר כיון שצרפן יחד לחתום על שטר א' אבל ראיית המעש' לא נתבטל דראיית המעש' וחתימת השטר שני ענינים מחולקי' הם כן נ\"ל ודלא כמהר\"מ אלשקר בתשובה סי' ט\"ז דף כ\"ד ע\"א שכ' דמדפסל הרמב\"ם שטר שחתומים עליו קרובים או פסולי' מוכח דס\"ל כהרמ\"ה דהא כתב אם יש עדות ברורה שישבו כולם לחתום כו' ולא קאמר אם יש עדות דבשע' שראו היו כולם ביחד דהא אפשר דהעדות קיתה בזמן א' והחתימה מאוחרת כו' והאריך שם בזה וליתא אלא כמ\"ש דהשתא לא עסקינן אלא שהשטר בטל אבל מענין המעש' לא מיירי והשטר בטל מ\"מ מטעמא שכתבתי והא ראיה שהרי הרא\"ש וטור לעיל סי' ל\"ו ושאר פוסקי' לא ס\"ל כהרמ\"ה ואפ\"ה פסלי בשטר אלא ודאי כמ\"ש (ומ\"ש הנ\"י פרק ז\"ב בשם בעל העיטור ומביאו ב\"י סי' נ\"א ס\"ה דאין משביעים ע\"פ האחד הכשר שבא להעיד בע\"פ וכן משמע בתשובת רשב\"א שהביא ב\"י לעיל ס\"ס ל\"ו מיירי שנצטרפו יחד בשעת ראיית המעש' ודוק):",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:24"
+        },
+        "25": {
+          "he": "ובית דין יכתבו עדותן כו'.  נ\"ל דוקא קאמר בית דין אבל הם עצמם לא שכבר עשו שליחותן שלא נעשו שלוחי' לחתום את השטר אלא בצירוף הפסול ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:25"
+        },
+        "26": {
+          "he": "שלא מדעת הלוה כשר.  שאין שם פסול עליו לאמר שאין בידו לעשות ממנו שטר בלא דעת הלוה ומה\"ט נרא' פשוט דיכול המלוה למלאותו בקרובי' אפילו אחר היום שנחת' וכן מוכח באשר\"י וא\"כ קשה על המחבר דלא ה\"ל לסתום ולכתוב בסעיף ט\"ו שלא כדעת הרא\"ש ולכן נרא' שהכל סעיף אחד הוא והוא מצורף למ\"ש לפני זה בשם הי\"א ויש להגיה וי\"ו וצ\"ל והא דמכשרינן כו' עכ\"ל סמ\"ע ולא נהירא דא\"כ לא ה\"ל להמחבר לעשות מזה סעיף מיוחד אלא נרא' דס\"ל דכ\"ע מודו בזה דנהי דיכול לעשות שלא מדעת הלוה היינו כיון שמסר השטר לידו כאלו הרשהו לעשו' אבל מ\"מ אין השטר נכשר אלא משעת המילוי וגם באשר\"י לא מוכח מידי וי\"ל דמודה בזה לה\"ר יונה ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:26"
+        },
+        "27": {
+          "he": "אם הוא שטר שאין בו קנין כו'.  ואפילו למ\"ד (לעיל סי' ל\"ט ס\"ק מ') עדיו בחתומיו זכין לו בשטר כזה דלא נחתם כראוי מודה דאינן זוכין לו. סמ\"ע וכ\"כ הב\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:27"
+        },
+        "28": {
+          "he": "הבא מכח עכו\"ם כו'.  עיין בסמ\"ע ס\"ק ל\"ז ועמ\"ש לקמן סי' ס\"ו סעיף כ\"ה ס\"ק פ\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:28"
+        },
+        "29": {
+          "he": "וכן אם היה כו' דחיישינן כו'.  דברי הר\"ב צל\"ע דכיון דקי\"ל לעיל ריש סעיף י' דאם סיימו השטר באמצע שטה והניחו הנשאר חלק וגם שתחתיה פסול השטר א\"כ היכא חיישינן שעשו העדי' כך ובעיר שושן כתב וז\"ל חיישינן שמא כו' דאמרינן לעיל סעיף י' שהוא כשר כו' ודבריו תמוהין דהא אמרי' לעיל שהוא פסול וכ\"כ איהו גופיה שם ודאי דליכא מאן דפליג בהא שהוא פסול דהא יוכל לזייף בחצי השטה שלמעל' מה דבעי ולא יהא הזיוף ניכר כלל ובסמ\"ע כ' דכיון דאיכא ריעותא לפנינו דמתחיל השטר באמצע. שטה חוששין לזה. וקשה וכי בשביל שום ריעותא כזה נחשוד לעדי' שחתמו על שטר פסול מה שלא מצינו כן בש\"ס ושום פוסק. ועוד קשה לי שממקור דין שהוציא הרב כן לא משמע כן שדין זה הוא לקוח ממרדכי פ' ג\"פ שכתב שם בשם ראבי\"ה שפירש הא דפשטינן שטה ומחצה כשר וז\"ל ונ\"ל דהני מילי כגון דסיים שריר וקיים באמצע השטה והניח חלק חצי שטה זו ועוד א' שלימה ושוב בשלישית חתמו דליכא למיחש דזייף דה\"ל כי מזייף ליה הוא בשטה אחת ועדיו בשטה אחרת ופסול דדומה לשני שטין אבל אם סיים שריר וקיים בסוף שטה והניח שטה וחצי חלק פסול דגייז ליה וכתב בשטה דחתימי סהדי מה דבעי דה\"ל הוא ועדיו בשטה אחת ויש להביא ראיה מהא דאמרינן שטר הבא בשטה אחת ועדיו בשטה אחרת פסול ה\"ה הכא בשני שטין אם לא התחיל בשטה ראשונ' אלא באמצע הקלף שכנגד חתימת העדים שפסול דאל\"כ עדיין יש לחוש לדלמא גייז ליה לחצי שטה ויניח חצי שטה ושטה שלימה תחתיה עם העדי' ויכתוב מה שירצה בחצי שטה העליונה ע\"כ לשונו. הרי שדקדק וכתב דהני מילי כגון דסיים שריר וקיים באמצע השטה כו' אבל אם סיים שריר וקיים כו' משום דודאי אם לא סיים שריר וקיים באמצע השטה והניחו מחצה ושטה חלק ושוב בשלישי חתמו השטר פסול דאיכא נמיחש שיכתוב בחצי השטה שלמעלה מה דבעי אבל כשסייס שריר וקיים ליכא למיחש לזיופא דמה דכתיב בתר שריר וקיים לא מהני דס\"ל לראבי\"ה דתרי שריר ן קיים לא כתבינן אפילו בשטה שלפני אחרונה (דאע\"ג דליכא למיחש לזיופא מכל מקום לא פלוג ובכל גווני לא כתבינן תרו שריר וקיים) כמו שאוכיח לקמן מדברי רשב\"ם וראבי\"ה וא\"כ כאן ששטר זה מתתיל באמצע קלף חיישינן שמא סיימו באמצע שטה שריר וקיים. וראיה דס\"ל לראבי\"ה דתרי שריר וחיים לא כתבינן אפילו בשטה שלפני אחרונה שהרי לעיל מיניה שם בפרק גט פשוט כתב המרדכי שראב\"ן ורשב\"ם כתבו דהרחיק שתי שטין פסול דוקא בדלא כתב שריר וקיים דאי כתוב שריר וקיים תו לא מצי למכתב מידי בתר היכי והשיג ראבי\"ה עליהם דאין נראה דאכתי איכח למיחש דלמאגייז לכולי שטרא וכתב בהני ב' שטין מה דבעי עכ\"ל משמע דאי לאו הכי הוה כשר ולא הוה חיישיכן דלמא הדר כתיב שריר וקיים פעם שנית אלא ודאי דס\"ל דתרי שריר וקיים לא כתבינן אפילו בשטות שלמעלה וכן משמע ממ\"ש המרדכי שם לעיל מיניה וז\"ל וכן פיר\"י כו' וקיימא לן נמי דתרי שריר וקיים לא כתבינן והנהיגו לכתוב שריר וקיים בכל השטרות ועכשיו שהרחיקו ב' שיטין מן הכתב אין לחוש כלל עכ\"ל וכ\"כ הרמב\"ן בחדושיו להדיא פ' ג\"פ לדעת רשב\"ם וז\"ל ואם יאמר הרב דתרי שריר וקיים לא כתבינן אפילו בגט פשוט יכול הוא לומר שאם כתוב שריר וקיים יכולי' להניח חלק שתי שטין שאין לחוש לשמא יזייף ויוסיף שאין למדין מכל מה שלמטה משריר וקיים הראשון אלא שעדיין יש לפוסלו דלמא גייז לכולי שטרא כו' עכ\"ל וזה גם כן דעת ראבי\"ה וא\"כ מוכח מדברי ראבי\"ה דדוקא משום דתרי שריר וקיים לא כתבינ' הוא דפסול דחיישינן שמא סיימו שריר וקיים באמצע שטה ותו לא היה חשש זיוף הא לאו הכי אע\"ג דאיכא ריעותא לפנינו שהשטר מתחיל באמצע שטה היה כשר וא\"כ אנן דקי\"ל דתרי שריר וקיים כתבינן בשיטה שלפני אחרונה וכדלעיל ס\"ס מ\"ד שטר זה כשר דודאי נעשה כך שטר זה מתחלה דאל\"כ לא היו עדים מנוחין חלק מחצה ושטה שהרי היה אפשר נזייף ולכתוב תרי שריר וקיים וא\"כ דברי דר\"ב בכאן דפוסל שטר זה צל\"ע:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:29"
+        },
+        "30": {
+          "he": "והוא שלא יהא שום שינוי בין השטר למקו' חתימת העדים כו'  וה\"ה שלא יהא שינוי בשטר עצמו בין מקום שטר זה למקום שטר זה אלא משום דבשטר עצמו יכול למחוק כל השטר ולא יהא בו שום שינוי לכך קאמר למקום חתימת העדי':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:30"
+        },
+        "31": {
+          "he": "על כן לא יחתמו כו'  ומקום השטר פ\"א כו'. והעדי' לא ירגישו בזה בשעה שיבאו לחתום דאין ניכר ההפרש בין נמחק פעם א' לנמחק שתי פעמי' רק לאחר שנכתב על המחק ונתייבש הכתיבה והעדי' ילכו משם קודם לכן. כן כתבו התוספות פ' גט פשוט (בבא בתרא דף קס\"ג ע\"א) לשטת רב\"י ולשטת ריב\"ם דלקמן דס\"ל דההפרש ניכר מיד כתבו דהיינו דוקא לבית דין ניכר דדייקי אבל לעדי' אינו ניכר דלא דייקי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:31"
+        },
+        "32": {
+          "he": "ואם יש בין חתימת העד לשני ריוח כו'.  כ\"כ התוספות פ' ג\"פ סוף דף קס\"ג לשטת רב\"י וכ\"כ בהגהת אשר\"י שם בשם פיר\"י אבל בשם ריב\"ם כתבו התוס' שם דאפילו יש ריוח כשר כשאינו ניכר שנמחק שתי פעמי' דאף קודם שנכתב עליו ניכר ההפרש בין נמחק פעם א' לנמחק שתי פעמי' וכ\"כ בהגה' אשר\"י שם ל\"א דכשר אפילו יש ההפרש בין עד לעד וכ\"כ הריב\"ש סי' מ\"ט בשם הרמ\"ה וז\"ל ומלשון הרמ\"ה ז\"ל בההיא סוגיא נראה שאין חלק פוסל בין עד לעד שהוא ז\"ל כתב ששטר הבא הוא ועדיו על המחק שהוא כשר שצריך לדקדק בו שחלק שיש בין עד לעד לא יהי' נמחק שני פעמי' כיון שהשטר ועדיו על המחק פעם אח' שאל\"כ יש לחוש שמא שטר זה הי' הוא על הנייר ועדיו על המחק והי' כתוב בין עד לעד אנחנא סהדי חתימנא אמחקא כו' וזה מחק השטר וכתב כרצונו על המחק ומחק הכתב שבין עד לעד והרי הוא נמחק שני פעמי' אבל כשהחלק שבין עד לעד הוא דומה לכתב ולחתימות אין לחוש עכ\"ל ונראה שגם הריב\"ש מסכים לזה וכן משמע לכאורה פשטא לישנא דבש\"ס וא\"ת חוזר ומוחק אינו דומה נמחק פעם א' לנמחק שני פעמי' כו' משמע דהמחק גופיה אינו דומה אף קודם שנכתב עליו ויש לתמוה על המחבר איך סתם כדברי הטור ולא הביא אף בב\"י שום חולק עליו שהרי גדולי הפוסקים חולקין ונראה לכאורה עיקר כדבריהם וכמ\"ש ואולי היא מפני ששטר הבא הוא ועדיו על המחק לא שכיחי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:32"
+        },
+        "33": {
+          "he": "והוא שכתבו כן בין חתימת עד הראשון לחתימת עד השני  לפי' ריב\"ם דלעיל שנמחק שני פעמי' ניכר אף שאין נכתב עליו לאו דוקא כשכתבו העדי' כן בין עד לעד דה\"ה כשכתבו כן על המחק לפני חתימתן אבל לפי' רב\"י ניחא שאינו ניכר כיון שאין כתוב עליו כלום כ\"כ התוס' פג\"פ ור\"ל דאם יכתבו כן לפני חתימתן יש לחוש שימחקנו ולא יכתוב עליו כלום ואף שיהי' חלק בין השטר לעדי' אין השטר פסול בכך דשיעור כתיבת אנחנא סהדי כו' אינו אלא שטה אחת וכשיש חלק שטה א' לפני השטר כשר משום שאין העדי' יכולים לצמצם לחתום מיד סמוך לכתב. כן נ\"ל לפרש דברי התוס' ודו\"ק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:33"
+        },
+        "34": {
+          "he": "אפי' כתבו אנו העדי' כו'.  כלומר אפי' כתבו כן על הנייר לפני חתימתן ובא שטר בזה לפנינו דודאי השתא לא נעשה בשטר זה שום זיוף אפ\"ה פסול מטעם דסוף סוף ימחקנו כו' אבל אין לפרש אפי' כתבו העדי' כן בין עד לעד דא\"כ בלאו הכי פסול דשמא היה שטר זה כפשוטו כולו על הנייר וחתם עד הראשון ואח\"כ מחק כל השטר והעד השני כתב כן אחר עד הראשון והעד הראשון אינו מסכים ע\"ז ונמצא שאין השטר נכשר רק ע\"פ עד אחד ואינו כלום ולא דמי לסעיף שלפני זה דהתם מה שנכתב בין עד לעד הוא לתועלת הלוה שלא יזייף המלוה השטר משא\"כ הכא שהוא לתועלת המלוה פשיטא שאינו כלום כיון שאין כאן אלא עד א' דאל\"כ כל מלוה אחר שיחתום עד א' יזייף בשטר מה שירצה ויקיימנו בין עד לעד ויעשה קניניא עם העד הב' אלא ודאי כמ\"ש ובזה דחיתי לעיל ס\"ס מ\"ד ראיות הרשב\"א ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 45:34"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "וכן נראה לי עיקר.  עש\"ך סק\"ד שחולק על הכרעה זו ודעתו דהעיקר כסברא ראשונה דאפילו שנים קורין לא מהני וכתב דנראה דאף מסל\"ת לא מהני ודלא כבעל העיטור כו' אך כ\"ז לכתחלה אבל בדיעבד השטר כשר וכן מוכח דעת המחבר וכמ\"ש לקמן סק\"י ע\"ש אמנם בס' קרבן נתנאל פ\"ב דגיטין אות ל\"ה ול\"ז כתב שדעת הרי\"ף והרמב\"ם כדעת בעל העיטור שהביא הרא\"ש שם דאי מקרי להו לתרי דידעי למקרי במסיח לפי תומו חותמין ע\"ש וע' בס' שער משפט מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 45:1"
+        },
+        "2": {
+          "he": "אי אמרי אקרינן.  עבה\"ט וע' בס' קרבן נתנאל פ\"ב דגיטין אות ל\"ח שכ' מה שהקשה הש\"ך כאן על הרמב\"ם והמחבר לק\"מ דאיירי נמי בתרי ישראל ובמסל\"ת וסמכו עצמם במ\"ש דמהני מסל\"ת בתרי עובדי כוכבי' אף כי בישראל ואגב שיטפיה נעלם ממנו דברי הרמב\"ם והביא המחבר בח\"מ סי' ס\"ח ס\"ב עכ\"ל ואיני מבין דבריו דלכאור' מהש\"ך לא נעלם זה ואדרבה ממנו נעלם דברי הש\"ך לעיל ס\"ב סק\"ד שכתב דלהרי\"ף והרמב\"ם אף מסל\"ת לא מהני לכתחל' דלא מהני מסל\"ת בסי' ס\"ח ס\"ב אלא בשטר שנעשה כבר בערכאות כו' ע' שם ונהי דהק\"נ עצמו אין דעתו כן וכמ\"ש בס\"ק הקודם אבל עכ\"פ דברי הש\"ך נכונים. וע' בס' שער משפט שכ' דאולי י\"ל דמ\"ש הט\"ו ואי איתנייהו לסהדי קמן כו' הינו דבאיתנייהו יש תקנה בשאלה דשיילינן להו אבל כי ליתנייהו קמן קים לן בהו דלא ידעי למיקרי השטר פסול לגמרי ול\"ש לומר דמוקמינן לסהדי אחזקה שבודאי עשו כהוגן כיון דעכ\"פ דשלא כדין עשו לכתחל' א\"כ ניחוש דילמ' לא אקרוהו כלל כו' ע\"ש. מיהו כ\"ז לדעת הש\"ך אבל לדעת הק\"נ הנ\"ל פשיט' דליתא להא מלתא:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 45:2"
+        },
+        "3": {
+          "he": "ואם הרחיקו שני שיטין פסול.  עי' בתשובת נו\"ב תניינ' סי' כ\"ה בדין כתב יד שהרחיק הלוה חתימתו מהכתב כמה שיטין ויובא לקמן סי' ס\"ט ס\"ב ס\"ק ו' עש\"ב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 45:3"
+        },
+        "4": {
+          "he": "שני שיטין פסול.  עבה\"ט וע' בתשובת משכנות יעקב סימן ך' מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 45:4"
+        },
+        "5": {
+          "he": "בשטר מתחלה.  עבה\"ט וע' בתשובת משכנות יעקב סי' כ\"א מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 45:5"
+        },
+        "6": {
+          "he": "אם הכשרים זוכרים.  עי' סמ\"ע וש\"ך מה שהקשו דתשו' הרא\"ש סותרים זא\"ז וע' בתשובת כנסת יחזקאל סי' פ\"ח שתירץ בטוב ע\"ש וע' דברי משפט מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 45:6"
+        },
+        "7": {
+          "he": "והוא שכתבו כן כו'.  עי' בס' שער משפט שכ' דנ\"ל דבהוא על הנייר ועדיו על המחק ונמצא כתוב בין עד לעד אנחנו סהדי כו' דאפי' ידעינן בודאי שהעדי' לא כתבו כן רק שהמלוה בעצמו כ' כן מ\"מ השטר כשר כיון דסוף סוף שוב לא יכול להזדייף כו' ושוב פקפק בזה ומסיים והדבר צריך תלמוד ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 45:7"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "חותמים.  במרדכי פ' ג\"פ כתב דאם חותם איש פלוני עד כשר עיין בא\"ע סי' ק\"ל סי\"א. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:1"
+        },
+        "2": {
+          "he": "מלמעל'.  ז\"ל הסמ\"ע דאז מצי לזייף שיוסיף לכתוב למטה בשטר מה שירצ' והש\"ך השיג עליו וכתב דהתוספות ר\"פ ג\"פ הוכיחו דאפילו לא מצי לזייף כגון דכתיב שריר וקיים או שאינו חלק מלמטה או שחתום עד א' למט' והב' מן הצד נמי פסול כיון שלא נעשה כתקון חכמים ע\"ש ונרא' שאפילו הפוסקים בר\"ס מ\"ד דאם לא הוחזר כו' אין השטר כולו פסול מודים בזה עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:2"
+        },
+        "3": {
+          "he": "חותם.  ולא הוי כעד מפי עד דמיירי שרא' העדות ואין סופר זה בא אלא להודיעו שכך כתוב בשטר ומשום דה\"ל מילתא דעבידא לגלויי דלא משקרי ביה לכך הימנוהו כיון דאימתו עליו. רש\"י. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:3"
+        },
+        "4": {
+          "he": "רשאים.  בב\"י כתב דמשמע מדברי הרמב\"ם דאפילו ב' קורין לפניהם לא מהני עיין בתשובת רש\"ך ס\"ג סי' מ'. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:4"
+        },
+        "5": {
+          "he": "יתרגמו.  ובדיעבד אפילו בגט אף שאין מכירין לשון הגט וקראו אחרים לפניהם ותרגמו להן באותו לשון שהם מבינים וחתמו כשר הגט היכא דא\"א לכתוב אחר אלא בדוחק כן נ\"ל עכ\"ל הש\"ך. (* ובספרי מנורת זכרי' סי' ק\"ל ס\"ק נ\"ד השגתי עליו וכתבתי שהוא פסול):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:5"
+        },
+        "6": {
+          "he": "הרשום.  בסמ\"ע פי' דלוקחין נייר ומקרעין בו שמות העדים מעבר לעבר ומשימין אותו על הקלף וממלאין את הקרעים דיו והוא עובר דרך הקרעים ונרשם בגט והתירו לעשות כן בגט מפני עיגון ובשאר שטרות אסור אבל לצייר בשרטוט צורת חתימת העדים על הנייר ושהעדים ימלאו השרטוטים דיו אף בגט אסור דה\"ל כתב ע\"ג כתב עכ\"ל וכתב הש\"ך דלא ה\"ל לפרש כן דברי המחבר שכתב וחתמו על הרושם משמע דמפרש כפרש\"י שרושמין הנייר בשרטוט והם חותמים על הרושם ובגט כה\"ג כשר כו' גם הרשב\"א כתב בחדושיו פ\"ק דגיטין דרושם אינו כתב ואינו כחקיקה וכן מצאתי בירושלמי דגרסינן התם המקרע על העור כו' אלמא רשימה אינה כתיב' וכן פירש הרב בעל העיטור עכ\"ל וכן הסכים ראבי\"ה במרדכי פ\"ב דגיטין ע\"ש ע\"כ דברי הש\"ך (* ובספרי מנורת זכרי' ס\"ק נ\"ה שם כתבתי שבעל הש\"ך טעה כי הרמב\"ם חולק בפי' על הירושלמי ופוסק בפ\"ד מהלכות גירושין דרשימ' מיקרי כתב ובסי' קכ\"ה בא\"ע הביא הב\"י אלו ב' הדיעו' דעת הרמב\"ם והירושלמי ע\"ש). (א\"ה עם היות שלא זכינו לראות פני המנור' ולא ידענו מה המה אלה טעמי ראיותיו של הגאון המחבר עכ\"ז במחילת כבוד הרב במקומו מונח אומר אני הפעוט כי בשגגה קרא טועה להש\"ך דמ\"ש וכן מצאתי בירושלמי כו' הם דברי הרשב\"א שהעתיק אותן ושם תמה הרשב\"א עצמו על הרמב\"ם וז\"ל ומן התימא שהרמב\"ם ז\"ל כתב וערבן שניהם הקורע על העור וכן הרושם על העור כגון כתב כשר עכ\"ל גם הר\"ן וכן הרב המגיד בפ\"ד מה\"ג תמהו עליו בזה ע\"ש ועיין בס' גט פשוט להר\"נ ן' חביב על הל' גיטין בסי' קכ\"ה ס\"ה שמאריך בדין זה ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:6"
+        },
+        "7": {
+          "he": "אותם.  ר\"ל העדים ובקצת ספרי' איתא אותו ולכך רצה לפרש בסמ\"ע דאדיין המחתים קאי ולא נהירא כלל שהרי הט\"ו לא הזכירו בדבריהם דיין כלל אלא פשיטא דצ\"ל אותם עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:7"
+        },
+        "8": {
+          "he": "שהסופר.  וה\"ה לוה המחייב עצמו בכת\"י או בממר\"ם שכתב פב\"פ חתם במסירת קולמס או שכתב פב\"פ צוה לחתום מהני וכ\"כ הרשב\"א לענין כתובה אם אחר חתם בשביל החתן אלא שמכוער הדבר לענין מעשה משום דאפשר דתיפוק מיני' חורב' כו' עכ\"ל הסמ\"ע וכתב הש\"ך נרא' דוקא בעד בעינן קבלו בני העיר דאל\"כ הוי כעד מפי עד דאינו כלום אבל גבי לוה שמתחייב הוא עצמו בכך אפילו לא קבלו בני העיר מנהג זה מהני עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:8"
+        },
+        "9": {
+          "he": "לחתום.  ולא חיישינן דילמא קרעו להם נייר כו'. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:9"
+        },
+        "10": {
+          "he": "אקרינן.  כתב הש\"ך יש לדקדק דהא לעיל ס\"ב מבואר דאפילו שנים קורין לא מהני וצ\"ל דדוקא לכתחל' אמרינן דאין יכולים לחתום אבל אם עשו כן כשר השטר בדיעבד וכן עיקר עכ\"ל כתב הסמ\"ע בשם הב\"י דמיירי דאמרו כן מעצמן קודם ששאלו להם הדייני' (וכ\"כ הט\"ז וסיים ז\"ל וג' דינים יש כאן. א' אמרו שהקרו סגי. ב' לא אמרו צריך שיכוונו עדותן בע\"פ. ג' אם ברור לנו שלא הקרו פסול בכל גווני עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:10"
+        },
+        "11": {
+          "he": "פסול.  שיכול לחתוך השטר ולעשות שטר חדש בזיוף בשתי השורות כ\"כ ב\"י והסמ\"ע. ולא היו צריכים לזה דבלא\"ה פסול שיכול לכתוב בשור' שלפני אחרונ' מה שירצה ואפי' כתוב בסוף השטר שריר וקיים יכול למחקו ולקיים בשטה שלפני אחרונ' ולכתוב שם מה דבעי עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:11"
+        },
+        "12": {
+          "he": "בדיו.  אפילו אין בו מחק רק נקודות ושריטות והלובן נרא' בין הנקודות דמ\"מ שייך ביה טעמא שלא יאמרו כו'. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:12"
+        },
+        "13": {
+          "he": "אבל.  כתב הסמ\"ע דאף אם השטר פסול מפני שהי' יכול לזייפו מ\"מ נראין הדברים מהעדים שהענין הוא אמת וה\"ל כמלו' או מוכר בלא שטר רק בעדים דאינו יכול לומר להד\"ם עכ\"ל וכתב הש\"ך דאפילו להפוסקים בשט\"ח המוקדמים דפסולים לגמרי ויכול לטעון להד\"ם מודים הכא כיון דניתנ' עדות זו להכשיר אילו מלאוהו לקרובים או בחזרת דברים עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:13"
+        },
+        "14": {
+          "he": "גסה.  בד\"מ כתב דיש פלוגתא אם משערין באלו עדים החתומין על השטר וסיים שם בשם הרמב\"ן דאם כתיבת הסופר יותר גסה משל עדים משערים בכתב הסופר להקל. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:14"
+        },
+        "15": {
+          "he": "שלישית.  בזה אין חילוק בין חתמו זה תחת זה או זה בצד זה כיון שהתחילו לחתום בראש השיט' גם בכה\"ג פסול כל השטר אף אם בא לב\"ד ועדיין לא נכתב כלום בהשור' וחצי דמ\"מ היה ראוי לזייף בו ולא היינו מרגישים הזיוף עכ\"ל הסמ\"ע וז\"ל הש\"ך כתב הב\"ח דלדידן דכתבינן שריר וקיים אין לחוש אם סיים באמצע השיט' ע\"כ ואין נ\"ל דכיון דקי\"ל אם כתוב תרי ש\"ו בשטה שלפני שטה אחרונ' כשר אם כן יש לחוש שיכתוב עוד איזה דבר בחצי שטה הנשארת ויכתוב אח\"כ באותה שטה שריר וקיים עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:15"
+        },
+        "16": {
+          "he": "אחר.  כתב הסמ\"ע אבל כשחתמו זה תחת זה ליכא למיחש שיכתוב לפני כל עד פלוני לוה מפ' דב' עדים בשני שטרות כ\"א בפ\"ע או בשני שטרות בכה\"ג אין מצטרפין וא\"ל הא איכא למיחש שיעש' זיוף על כ\"א מהעדים שיכתוב לפני חתימתו דכל א' אני חייב לפלוני י\"ל דמש\"ה לא פסלו לשטרא דהעדים אפסידו אנפשייהו דלא ה\"ל להתחיל לחתום באמצע השורה ולא פסלינן השטר אלא כשיש לחוש שיזייף להוציא ממון מאחרים עכ\"ל ובמ\"ש דב' עדים בב' שטרות אין מצטרפין השיג עליו הש\"ך דהא קי\"ל בסי' נ\"א איפכא דמצטרפים עכ\"פ לגבות מבני חרי אלא הטעם הוא כיון דליכ' אלא שטה א' בכל שטר יהיה ניכר הזיוף וב' שטרות בכה\"ג שאין בשום א' רק שטה א' אין מצטרפין וכן עיקר עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:16"
+        },
+        "17": {
+          "he": "למדין.  דאם לא היה כתוב כן קודם חתימ' העדו' לא היו חותמין כיון שיכול לזייפו ולעשות ממנו שטר ועדיו בשיטה א'. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:17"
+        },
+        "18": {
+          "he": "יחתמו.  פירוש אף אם יתחילו לחתו' בראש השט' שוה לשטת השטר מלמעל' לחתימתן מ\"מ כשיש בגליון דלפני השטר חלק הרב' אז יכול לזייף לחתוך שטר העליון ולעשות שטר ועדיו בשטה א' וכ\"ש דלא יחתמו זה אחר זה ויתחילו באמצע השט' מה\"ט וכתב בד\"מ דיש פלוגתא בזה אם חתמו כן אם השטר נפסל בכך עכ\"ל הסמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:18"
+        },
+        "19": {
+          "he": "וחתכו.  ה\"ה אם טייטן בדיו לפני חתימתו פסול. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:19"
+        },
+        "20": {
+          "he": "חובתו.  ואע\"ג דאין למדין משטה אחרונה היינו דוקא זכותו דבעה\"ש כמ\"ש בסי' מ\"ד ס\"א ע\"ש עכ\"ל הסמ\"ע והש\"ך כתב דלא נהירא דא\"כ איך כתבו הט\"ו אח\"כ ומיהו אם כתוב למעל' בסוף השט' ש\"ו כשר ניחוש דילמ' היה כתוב דבר חוב' בתר ש\"ו אלא נלע\"ד דהט\"ו מיירי האידנ' דלמדין משט' אחרונ' כיון דכותבין שריר וקיי' וא\"כ לדידן אפילו דבר של חוב' אין למדין בתר ש\"ו ולפ\"ז למאי דקי\"ל בסי' מ\"ב ס\"ה וריש סי' מ\"ד בהג\"ה דדבר של חוב' למדין קשה על הרמ\"א שלא הגי' כאן כלום וצל\"ע ועכ\"פ נ\"ל ברור דלדידן לית' להאי דינ' עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:20"
+        },
+        "21": {
+          "he": "חלק.  כתב הסמ\"ע מכאן יש ללמוד שלא יעשו שטר ועדיו בשט' א' כשיש חלק למעל' אלא יטייטנו בדיו או יחתכנו ומ\"מ כיון שיש ריעות' לפנינו חיישינן שמא אירע כן עכ\"ל והש\"ך כתב דמשמע בש\"ס ופוסקים דשטר ועדיו בשטה א' כשר בכל ענין גם לא נהיר' לחשוד העדי' שעשו שלא כדין אלא נרא' דשטר כזה כשר ולא חיישינן שיחתוך מה שלמעל' (ר\"ל מן הצד לפני החתימה עד למעלה) דמסתמ' כל שטר יש לו גליון מן הצדדים וא\"כ כשיחתוך לא יהיה לו גליון מן הצד (ר\"ל במקום חתימת העדים) ויהא ניכר הזיוף ולפ\"ז צריכים העדי' ליזהר כשכותבי' שטר ועדיו בשיט' א' והוא חלק מלמעל' שלא יניחו שום ריוח כלל בין השטר וחתימת' כנ\"ל ברור ודו\"ק עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:21"
+        },
+        "22": {
+          "he": "קיימי'.  דאם הם קיימי' צריך לשאול אותם ונאמני' לומר שכול' ישבו לחתום אע\"פ שכת\"י יוצא ממקו' אחר ולא מחשב כמגיד וחוזר ומגיד ואם הם אומרים שלא ישבו כולם לחתו' ועדי' אחרי' מכחישין אות' אוקי תרי להדי תרי ואוקי ממונא בחזקת מרי' כ\"כ הסמ\"ע בשם הב\"י וכתב הש\"ך ולסברא ראשונה בסי' ל\"ו ס\"ב מיירי כאן שאנו יודעים שהכשר מכיר בפיסולו של חבירו ולסברא האחרונ' אין חילוק דאפילו לא ידעי בטל השטר עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:22"
+        },
+        "23": {
+          "he": "מתחלה.  משמע דאם הפסול חתום לבסוף פשיטא דהשטר כשר אבל הש\"ך כתב דדעת הרבה פוסקים להפוך וכן עיקר ע\"ש שהאריך בראיות מהש\"ס ופוסקים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:23"
+        },
+        "24": {
+          "he": "האחרונים.  דאז תולין לומר שהרחיקו חתימתן בכוונ' שיחתום שם מאן דקשיש מינייהו והמלו' מילא האויר בחתימת קרובים ופסולים אלו ועיין בנ\"י דאף אם חתמו ב' אחרונים הכשרים זה אצל זה השטר כשר ועד\"מ וב\"י שהביאו הרב' דעות דכשהעדים הפסולים חתומים באמצע והראשונים ואחרונים כשרים ואין אנו יודעים באיז' סדר חתמו השטר פסול וכשנודע לנו שחתמו כסדר שהם חתומים עתה לפנינו השטר כשר כיון שהעדים הראשונים כשרים משא\"כ אם כל העדים ראשונים פסולים אז מסתמא אמרינן למילוי חתמו הפסולים אחר שחתמו הכשרים והשטר כשר וכשנודע לנו שחתמו על הסדר פסול השטר עכ\"ל הסמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:24"
+        },
+        "25": {
+          "he": "וב\"ד.  נ\"ל דוקא ב\"ד אבל הם עצמן לא שלא נעשו שלוחים לחתום את השטר אלא בצירוף הפסול וכבר עשו שליחותן. ש\"ך. * וא\"ל הא כתב המחבר בסי' מ\"ט ס\"ו והביאו הסמ\"ע והש\"ך בסי' מ\"א דאם יתבטל השטר לגמרי לא אמרינן דעשו שליחותן שאני התם דנעשו שלוחים על שטר כשר אבל הכא נעשו שלוחים על שטר פסול שיחתמו בצירוף הפסול ולכך אמרינן דכבר עשו שליחותן וק\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:25"
+        },
+        "26": {
+          "he": "וחשוב.  כתב הסמ\"ע והא דבסי' ל\"ו כתב הט\"ו דאם העידו יחד נפסל גם עדות הכשרים שאני התם שהעידו על פה בב\"ד יחד ושוב אין תיקון לחזור ולהעיד לבדן משא\"כ כאן דלא הגידו בע\"פ בב\"ד יחד והש\"ך תירץ דכאן מיירי שהפסולים לא היו עמהם בשעת ראי' ולא הוצרכו לבאר זה דפשיטא דכשהיו עמהם דבטל העדות לגמרי לכ\"ע דה\"ל ראיי' והגד' דעדים החתומים על השטר כמי שנחקר' כו' ומה\"ט קי\"ל בכל דוכתי דהחתומים על השטר א\"י לחזור ולהעיד דכיון שהגיד כו' והגד' בשטר כהגד' בב\"ד דמיא ולמ\"ש בסי' ל\"ו דבהצטרפות לראי' לחוד בטל העדות אפילו לא העידו אח\"כ א\"כ אם היו פסולים עמהם בשעת ראיית המעש' נתבטל העדות אפילו לא חתמו בשטר ואם לא היו עמהם וחתמו על השטר ג\"כ פסול הוי דאע\"ג דכתבתי שם דבהגד' בב\"ד לחוד לא נצטרפו הגד' דבשטר גרע טפי כיון דחתומים יחד על שטר אחר וה\"ל מזויף מתוכו עכ\"ל וע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:26"
+        },
+        "27": {
+          "he": "מדעתו.  ז\"ל הסמ\"ע נרא' פשוט דס\"ל דיכול המלו' למלאותו מדעתו בקרובים אפילו אחר היום שנחתם כ\"ז שלא נרא' בב\"ד וכן מוכח באשר\"י כו' וא\"כ קשה דלא ה\"ל להמחבר לסתום בסט\"ו שלא כדעת הרא\"ש ולכך נרא' שהכל סעיף א' הוא וצריך להגיה וי\"ו וצ\"ל והא דמכשרינן כו' עכ\"ל והש\"ך כתב דלא נהירא אלא דס\"ל דכ\"ע מודו בזה דנהי דיכול לעשותו שלא מדעת הלו' היינו כיון שמסר השטר לידו כאלו הרשהו לעשות אבל מ\"מ אין השטר נכשר אלא משעת המלוי וכ\"כ הט\"ז דהדין שבסט\"ו הוא אליבא דכ\"ע והכי נקטינן עכ\"ל):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:27"
+        },
+        "28": {
+          "he": "שאין.  ואפילו למ\"ד עדיו בתחומין זכין לו. בשטר כזה דלא נחתם כראוי מוד' דאינן זוכין לו. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:28"
+        },
+        "29": {
+          "he": "מכח.  משמע דהמלו' הבא לגבות בא מכח עובד כוכבים ואף שהוא למעליותא ובסי' קנ\"ד סי\"ח פסק דדוקא לגריעותא הרי הוא כעובד כוכבים צ\"ל דשאני הכא כיון דאפילו ישראל בישראל הי' יכול לגבות בו שהרי אנו רואין שאין בו זיוף אלא שפסלוהו משום שיכולין לזייפו ובשל עובד כוכבים לא התקינו להפקיע ממונו של זה הבא מכח עובד כוכבים משא\"כ בסי' קנ\"ד הוי איפכא דזה הי' מוחזק כמה שנים בחלונו וזה הבא מכח עובד כוכבים בא להזיקו בבנין שרוצ' לבנות ולהאפיל כנגדו וחילוק זה צריכין לחלק בסי' קנ\"ד ג\"כ דל\"ת אהדדי מ\"ש בסי\"ח ובסי\"ט ע\"ש ומה\"ט כתב המחבר בסי' ס\"ו סכ\"ה עובד כוכבים שמכר שט\"ח לישראל כדיניהם דיינינן ליה שאם חזר ומחלו אינו מחול התם נמי כיון דקנ' ממנו השט\"ח לאו כל כמיניה להזיקו בידים במחילתו גם מ\"ש הרמ\"א בסי' ס\"ז סי\"ז הבא מכח עובד כוכבים כו' ולכן מי שקנ' שט\"ח מן העובד כוכבים על חבירו אין השביעית משמטתו דהתם נמי כיון דבלא\"ה הי' זה חייב לשלם לעובד כוכבים ואין לו היזק בקניית ישראל חבירו נרא' דלכ\"ע בכה\"ג אמרינן דיש לו כח העובד כוכבים עכ\"ל הסמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:29"
+        },
+        "30": {
+          "he": "בראש.  פירוש ראש הקלף של שטה שאחריו דשט' הראשונ' מתחלת באמצע של שטה שניה והקלף שלפניה נחתך וכן הוא במרדכי. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:30"
+        },
+        "31": {
+          "he": "העדים.  כתב הסמ\"ע אע\"ג דבס\"י נתבאר דלא חשדינן להעדים שיחתמו בשטר שיכול לזייף וזה נמי יכול להוסיף בחצי שטה ראשונ' ולחזור מענינו של שטר בשט' אחרונ' ולא יוכר הזיוף מ\"מ כיון דאיכא ריעותא לפנינו דמתחיל השטר באמצע השיט' חוששין לזה והש\"ך השיג ע\"ז וכי בשביל שום ריעותא כזה נחשוד לעדים שחתמו על שטר פסול מה שלא מצינו כן בש\"ס ושום פוסק אלא נרא' דדוקא לדעת זו שס\"ל דתרי שריר וקיים לא כתבינן הוא דפסול דחיישינן שמא סיימו ש\"ו באמצע שטה ותו לא הי' חשש זיוף הא לאו הכי אע\"ג דאיכא ריעותא לפנינו שהשטר מתחיל באמצע שיט' הי' כשר וא\"כ לדידן דקי\"ל דכותבין תרי ש\"ו בשט' שלפני אחרונ' שטר זה כשר דודאי נעש' כך מתחל' דאל\"כ לא היו העדים מניחים חלק כ\"כ שהרי הי' אפשר לזייף ולכתוב תרי ש\"ו וא\"כ דברי הרב דפוסל שטר זה צל\"ע עכ\"ל וע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:31"
+        },
+        "32": {
+          "he": "ראשונ'.  דאם יכול לקיימן ודאי אין בו זיוף. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:32"
+        },
+        "33": {
+          "he": "שמא.  והעדים לא ירגישו בזה בשע' שיבואו לחתום דאינו ניכר עד לאחר שנכתב על ב' המקומות ונתייבש הכתיב' אי נמי העדים לא ידקדקו כ\"כ כמו הב\"ד כ\"כ התוספות פ' ג\"פ. סמ\"ע וש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:33"
+        },
+        "34": {
+          "he": "פסול.  כתב הש\"ך שיש לתמוה על המחבר שסתם כדברי הטור ולא הביא שום חולק עליו שהרי גדולי הפוסקים חולקים ונרא' לכאור' עיקר כדבריהם ואולי הוא מפני ששטר הבא הוא ועדיו על המחק לא שכיחא עכ\"ל וע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:34"
+        },
+        "35": {
+          "he": "כתבו.  ה\"ה לא כתבו נמי אם יש ריוח בין עד לעד תו ליכא למיחש שימחוק השטר דאז יהי' פסול דיאמרו שהי' כתוב בין עד לעד שהשטר על הנייר והיותר נרא' דלכתחל' צריך לברר ולכתוב כן בפירוש עכ\"ל הסמ\"ע (וגם הט\"ז כתב דלא מתכשר אם לא כתבו בפירוש דחיישינן שיש לו עדים שראו שלא הי' כתוב כלום בין שטר לעדים ומעצמו נעש' שם המחק ולזה לא ירא לזייף למעל' ולעשות גם השטר על המחק עכ\"ל):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:35"
+        },
+        "36": {
+          "he": "ניכר.  לפ\"ז אפילו אם יכתבו בין עד לעד דמקום השטר נמחק פעם א' לא מהני. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 45:36"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

@@ -1,0 +1,189 @@
+{
+  "chelek": "EH",
+  "siman": 116,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 6,
+  "fetchedAt": "2026-07-08T00:09:00.638Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין כתובה ותנאיה ודין הנושא אשה באיסור. ובו ו סעיפים:הנושא אחת מחייבי לאוין אם הכיר בה יש לה עיקר ותוספת וכל תנאיה ומיהו מזונות אין לה אלא לאחר מותו אבל בחייו אין לה אפילו לותה ואכלה אינו חייב כלום  (ואם זן אותה מעשה ידיה שלו) (נ\"י פ' יש מותרות)  ואם לא הכיר בה אין לה ק' ור' אבל תוספות יש לה ואין לה שום תנאי מתנאי כתובה ואפי' מזונות אחר מותו ואינו חייב בפרקונה ואפילו הכי אינו משלם פירות שאכל משלה ואפי' הם בעין אצלו ונכסים שהכניסה לו אם הם בעין בין נכסי מלוג בין נכסי צאן ברזל תטלם וכל מה שאבד או נגנב או כלה או נשחת מנכסי צאן ברזל אינו חייב לשלם וכל מה שאבד או נגנב מנכסי מלוג חייב לשלם:",
+      "en": "One who marries one of those prohibited because of a negative prohibition, if he recognizes in her [that is she prohibited to him] she gets the principle [i.e. the base about of the ketubah] and the additional amounts and all that is promised to her; however she does not get food until after he dies, but during his lifetime she does get food, even if she borrowed and ate he is not obligated anything, Rem\"a: and if he feeds her, her work product is his (Nemukei Yosef chapter There are those that are Permitted).  And if he does not recognize in her [that she is prohibited to him] she does not get the 100 or 200 but she does get the additional amounts.  And she does get any promises from the promises of the ketubah, and even food after death; and he is not obligated in her ransom, and even here he does not pay for the fruits he has eaten from her, and even if they are still extant by him.  And the property that she brought in to him [in the marriage], if they are extant, whether nikhsei melug (property that remains in her possession, but which the husband can use, throughout the marriage) or nikhsei tson barzel (lit. property of iron sheep, meaning property that husband possesses during the marriage but for which he guarantees their value in the ketubah), she takes them.  And anything that is lost or stolen or destroyed or worn out from nikhsei tson barzel, he does not have to pay [for it].  And anything that is lost or stolen from nikhsei melug, he has to pay [for it].",
+      "ref": "Shulchan Arukh, Even HaEzer 116:1"
+    },
+    {
+      "seif": 2,
+      "he": "חייבי עשה אפילו לא הכיר בה דינה כחייבי לאוין שהכיר בה:",
+      "en": "Those who are prohibited because of a positive commandment, even if he did not recognize in her [that she was prohibited], her law is like those prohibited because of negative commandment where he did recognize in her [that she was prohibited].",
+      "ref": "Shulchan Arukh, Even HaEzer 116:2"
+    },
+    {
+      "seif": 3,
+      "he": "איילונית אם הכיר בה הרי היא ככל הנשים ויש לה כתובה ותנאי כתובה וכן זוכה הבעל במה שזוכה בשאר הנשים ואם לא הכיר בה דינה כדין חייבי לאוין שלא הכיר בה:",
+      "en": "Ailonit [a woman who has not properly passed through puberty despite being an adult], if he recognizes in her [that she is an Ailonit], she is like all the women and she has both the ketubah and the promises of the ketubah, and so too the husband obtains in what he would obtain in other women.  And if he does not recognize in her [that she is an Ailonit], her law is like the law of a woman who is prohibited because of a negative prohibition that he has not recognized in her [that she is prohibited].",
+      "ref": "Shulchan Arukh, Even HaEzer 116:3"
+    },
+    {
+      "seif": 4,
+      "he": "שניה בין הכיר בה בין לא הכיר בה דינה כדין חייבי לאוין שלא הכיר בה חוץ מנכסי צאן ברזל ונכסי מלוג שדינה בהם ככל הנשים:",
+      "en": "... A Shniya (a woman relative prohibited by rabbinic enactment which expanded the categories of relatives for which sexual unions are prohibited) whether he recognizes in her [that she is prohibited] or does not recognize in her [that she is prohibited], her law is like the law of a woman who is prohibited because of a negative prohibition that he has not recognized in her [that she is prohibited]; except for nikhsei melug and nikhsei tson barzel, [for which] her law is like the law of all women.",
+      "ref": "Shulchan Arukh, Even HaEzer 116:4"
+    },
+    {
+      "seif": 5,
+      "he": "הממאנת אין לה מנה ומאתים אבל יש לה תוספות וחייב לזונה ולפדותה כל זמן שהיא תחתיו ואוכל פירותיה אבל אם הלך למדינת הים ולותה למזונותיה או לפדיונה ואח\"כ מיאנה אינו חייב לשלם אף על פי שאכל פירותיה ואפי' הם בעין:",
+      "en": "The woman who refuses to continue her marriage to her husband after she reaches maturity is not given the one hundred or two hundred [zuz, which are the primary Ketubah}, but she is given any additional amounts.  Her husband must provide her with food and redeem her if she is taken captive for as long as they are married.  He may consume the profits of her properties, though if he traveled abroad and she borrowed to provide her food or redeem herself, and she then refused to continue the marriage, he does not need to reimburse her even though he has consumed the profits of her properties.  This is true even of the profits are extant.",
+      "ref": "Shulchan Arukh, Even HaEzer 116:5"
+    },
+    {
+      "seif": 6,
+      "he": "קטנה היוצאת בגט דינה כגדולה היוצאת בגט:",
+      "en": "A minor who is divorced, her law is the same as an adult divorcee.",
+      "ref": "Shulchan Arukh, Even HaEzer 116:6"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה כתובות דף ק' ע\"ב וכדמוקי לה רב יהודה שם דף קא ע\"ב דתניא כוותיה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 116:1"
+        },
+        "2": {
+          "he": "טור וכ\"כ הרי\"ף והרא\"ש שם דבעמוד והוצא קאי וכמסקנת הגמרא יבמות דפ\"ה ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 116:2"
+        },
+        "3": {
+          "he": "בעיא דרבי אלעזר מרבי יוחנן ואהדר ליה דלית לה שם וכן הסכמת הפוסקים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 116:3"
+        },
+        "4": {
+          "he": "כאוקימתא דרב יהודא כתובות דף קא ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 116:4"
+        },
+        "5": {
+          "he": "כאוקימתא דשמואל דתניא כוותיה שם ע\"א ופירוש רש\"י שם משום חיבת ביאה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 116:5"
+        },
+        "6": {
+          "he": "ממשנה שם וכדמפרש בגמרא יבמות דף פט ע\"א תנאי כתובה ככתובה דמי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 116:6"
+        },
+        "7": {
+          "he": "משנה שם וכדמפרש בגמרא דק\"א ע\"א שם וכמ\"ש לעיל סי' ע\"ה סעיף ד':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 116:7"
+        },
+        "8": {
+          "he": "רמב\"ם שם וכ' הכ\"מ שם מדלא שנו באותה משנה חייבי עשה כו' ש\"מ דחייבי עשה בין הכיר בין לא הכיר יש לה כתובה וכו' וכדמפרש הרמב\"ם שם מפני שאיסורן קל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 116:8"
+        },
+        "9": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 116:9"
+        },
+        "10": {
+          "he": "שם במשנה וכדמפר' רבי הטע' בבריי' שם יבמות דפ\"ה ע\"ב מפני שהוא מד\"ס עשו בו חיזוק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 116:10"
+        },
+        "11": {
+          "he": "כאוקימת' דשמואל כתובות דק\"א ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 116:11"
+        },
+        "12": {
+          "he": "שם במשנה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 116:12"
+        },
+        "13": {
+          "he": "כאוקימת' דשמואל שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 116:13"
+        },
+        "14": {
+          "he": "בריי' שם דק\"ז ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 116:14"
+        },
+        "15": {
+          "he": "שם בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 116:15"
+        },
+        "16": {
+          "he": "כשמואל שם דף ע\"ב הסכמת הפוסקים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 116:16"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אבל בחייו אין לה דהא חייב להוציאה ואי יהיב לה מזונות תתעכב אצלו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 116:1"
+        },
+        "2": {
+          "he": "לא הכיר בה  בטור חשיב חייבי לאוין דתפסי בה קידושין כמו אלמנה לכ\"ג כו' וכתב דחשיב ג\"כ בת ישראל לנתין וממזר ואח\"כ כתיב לא הכיר כו' וכתב בפרישה דהאי לא הכיר כו' לא קאי אבת ישראל לממזר דלא שייך לא הכיר בה אלא דוקא כשהאיש ראוי והיא אינה ראויה שייך בה היכר משא\"כ בנתין וממזר שהוא אינו ראוי והטור דנקט בת ישראל לנתין ולממזר יש להם כתובה לשון המשנה נקט דתנן אלמנה לכ\"ג כו' בת ישראל לנתין ולממזר יש להם כתובה וקמ\"ל אף על פי שהקידושין בעבירה יש לה כתובה עכ\"ל וכן במה שכתב הטור או פצוע דכא שנשא ישראלית לא שייך בה לא הכיר כיון שהפסול מצדו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 116:2"
+        },
+        "3": {
+          "he": "אבל תוספות יש לה הטעם דהתוס' אינו מצד תקנת חכמים אלא שחייב עצמו כ\"ז שתרצה להיות אצלו הרי עמדה לפניו בתנאי שלה אלא שהתורה אסרתה ורש\"י פי' דהתוס' מתנה בעלמא היא משם חיבת ביאה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 116:3"
+        },
+        "4": {
+          "he": "ואינו חייב בפרקונה זה אפילו בפרקונה כיון שהיא עליובאיסור כדלעיל בסי' ע\"ח אלא דמ\"ש שאינו משלם דמי הפירות שאכל דוקא בלא הכיר כדמוכח בהדיא בפרק יש מותרות כ\"כ רש\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 116:4"
+        },
+        "5": {
+          "he": "או נגנב מ\"ש חייב לשלם זהו לשון הרמב\"ם פרק כ\"ד וסיים שם בלשון זה הפך מכל הנשים מפני שאין שם אישות גמורה לא זכה בנ\"מ עכ\"ל פי' שבאשה גמורה פטור אם נגנבו נ\"מ דבזה זכה בה שאינו באחריותו כלל אפי' אם נאבדו מחמתו שע\"י שנשתמש בהם נפסדו אבל בזו שאין שם אישות גמורה ולא זכה בנ\"מ הוין ג\"מ שבידו כאלו קבלם אחר להנאתו וחייב באחריות אפילו נפסדו שלא מחמתו והטור הבי' דברים אלו בשם הרמב\"ם ולא זכר נגנב או נאבד בפי' אלא כלל זה במ\"ש נ\"מ אפי' ליתנהו חייב לשלם בל' זה מורה דליתנהו בכל גווני' שאינם אפי' מעצמם וסיים על זה וא\"א כתב כסברא הראשונה דהיינו דמה דאמרינן בגמרא נ\"מ דברשותה קיימי אית לה פירש\"י שלא היה לו לכלותן וללובשן משמע דאם נפסדו שלא מחמתו פטור וכ\"כ הטור כסברא הראשונה וז\"ל ואם אינן בעין כגון שנשתמש בהן ובלה אותן עכ\"ל דלפ\"ז לא אמרינן בזה דהוי כאלו היה ביד אחר שקבלם להנאתו דכאן דבעל לא קבל עליו כלל לאחריו' שלו ובטעות באו לידו ובזה נסתלק תמיה' ב\"י שהקשה על הטור למה כתב שיש פלוגתא בין רמב\"ם להרא\"ש והיה לו לפ' ולא לסתום דפליגי בנגנבו או נאבדו דהא ודאי שפיר פי' דבר זה כמי שזכרנו עוד יש פלוגתא בין רמב\"ם לסברא ראשונה שהיא דעת הרא\"ש לעניין שנייה כמ\"ש בגמרא דאמר רב כהנא בשניה קנסו רבנן לדידה בדידה פי' בגמרא שא\"צ לשלם מה שהוא הפסיד ואמר רב ש\"מ דגלימ' קרנא הוא ולא אמרינן דמכסי בה עד דבלי פי' מדקנסו להשגיח שא\"צ הבעל (לשלם) לה הבלאות של נ\"מ משמע דבאשה כשירהצריך הוא לשלם מה שהפסיד לה ע\"י לבישתו הגלימה של נ\"מ ולא אמרינן שהוא פירי ואין הבעל משום פירות נ\"מ שאכל אלא קרנא הוה ומ\"ה באשה כשרה הוא צריך לשלם אבל בשניה קנסוה ומקשינן והאמר רב נחמן פירא הוה פי א\"כ אין קנס כאן דכשירה נמי א\"צ לשלם מה שהפסיד על ידי לבישתו ומשנינן דר\"נ פליגי ופי' הרא\"ש בסוף אלמנה דמיירי דבלינהו מעט מעט ע\"י לבישתו מ\"ה אמר רב שימי ש\"מ דקרנא הוא דאי פיר' היא מ\"ש מכשרה וגם בכשרה פטור הבעל אם בלה מעט מעט דזה הוי אכילת פירות לא חייב אלא אם בלה הכל בפ\"א אלא ש\"מ קרנא היה ובכשרה צריך לשלם אם בלה הכל אפילו מעט מעט ובשניה קנסוה וע\"ז פליג ר\"נ ואמר דפירא הוה לבישתו הגלימ' וגם בכשרה א\"צ לשלם אם נפחת מעט מעט ואין קנס בשניה אם בלה הכל בבת אחת דבכשירה צריך לשלם ובשניה א\"צ לשלם לה דקנסוה רבנן שא\"צ לשלם לה אפילו בלה הכל בפעם אחד וא\"כ מ\"ש בטור בסברא ראשונה בשניה ובנכסים של נ\"מ ושאינן בעין אין מוציאין מידו פירושו אפילו אם נפחת בפעם אחת הכל דבכשירה מוציאין ממנו ובשניה אין מוציאין ממנו זה דעת הרא\"ש אבל הרמב\"ם (ס\"ל) דהשניה יש לה דין כשאר נשים ואין כאן קנס לר\"נ דס\"ל לרמב\"ם דר\"נ פליג על רב שימי דאמר יש קנס בשניה על זה פליג ר\"נ ואמר אין קנס בשניה כלל וק\"ל כר\" בדיני א\"כ למה נקט התנא כלל השניה כבר תירץ הרב המגיד בשם רמב\"ם בפי' המשנה דהיה ראוי שאחר שאין לה כתובה שלא יגיע לבעל שום דבר מדברים הראויה לו קמ\"ל דקנסוה בזה דאפ\"ה דין הבעל כדין שאר הנשים וא\"כ יש שני פלוגתות בין הרמב\"ם לרא\"ש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 116:5"
+        },
+        "6": {
+          "he": "שניה בין הכיר כו'  דבשניה קנסוהו רבנן דהיא מרגילתו לעבירה כיון שאינה פסולה בלא זרעה פסול משא\"כ בחייבי לאוין דפוסל זרעה ע\"כ היא אינה מרגילתו לעבירה אלא הוא מרגילה על כן קנסוה רבנן דעשו חיזוק לדבריהם בשניה שהיא מדברי סופרים יותר מחייבי לאוין שהוא מדאורייתא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 116:6"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "לה.  והוספות שליש מה שמוסיפים על הסך שהכניסה יש לו דין נדוני' כמש\"כ בכמה מקומות. ובתשובת רש\"ך ח\"א סי' מ\"ה לא כ\"כ עיין כנה\"ג ועיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 116:1"
+        },
+        "2": {
+          "he": "כלה וכו'.  דינים אלו עיין בב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 116:2"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

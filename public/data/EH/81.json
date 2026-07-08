@@ -1,0 +1,90 @@
+{
+  "chelek": "EH",
+  "siman": 81,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-08T00:08:59.941Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "המקדיש מעשה ידי אשתו. ובו ב סעיפים:המקדיש מעשה ידי אשתו הרי זו  (עושה) ואוכלת והמותר חולין אמר לה יקדשו ידיך לעושיהן הרי כל מעשה ידיה קדש וי\"א דאינו קדש דהרי היא יכולה לומר איני ניזונית ואיני עושה (הר\"ן פרק אע\"פ וכן משמע לשון הטור):",
+      "en": "If one sanctifies the product of his wife's hands, she (produces and) consumes, and the excess is non-holy. If he said to her, \"Your hands shall be sanctified to their Maker,\" all of the product of her hands is sanctified.\nAnd there are those who say that it is not sanctified, for she is able to say, \"I won't be fed, and I won't produce\" (the Ra\"n in chapter \"Even Though,\" and so is implied in the language of the Tur).",
+      "ref": "Shulchan Arukh, Even HaEzer 81:1"
+    },
+    {
+      "seif": 2,
+      "he": "האשה שאמרה יקדשו ידי לעושיהן או שנדרה שלא יהנה ממעשה ידיה אינו נאסר במעשה ידיה מפני שידיה משועבדים לו אבל צריך הוא להפר לה שמא יגרשנה ותהיה אסורה לחזור לו:",
+      "en": "If a woman said, \"My hands shall be sanctified to their Maker,\" or if she vowed that she would not benefit from the product of her hands, [her husband] is not forbidden from the product of her hands, because her hands are beholden to him. But he needs to annul [the vow] for her, just in case he divorces her, and she becomes forbidden to return to him.",
+      "ref": "Shulchan Arukh, Even HaEzer 81:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ל' הרמב\"ם בפ\"ז מה' ערכין ממשנה כתובות דף נא ע\"ב וכרבי יוחנן הסנדלר דפסק שמואל הלכתא כוותיה שם דף נט ע\"א דאין אדם מקדיש דבר שלא בא לעולם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 81:1"
+        },
+        "2": {
+          "he": "כאוקמיתא דר\"ה וכו' דידיה איתנהו בעול' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 81:2"
+        },
+        "3": {
+          "he": "כתב הכ\"מ שם אחר שהביא דברי הר\"ן שאף על פי שהר\"ן כתב שלא נתבררו לו דברי רבי' בתשובותיו סי' מ\"א הביא ראיה מהם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 81:3"
+        },
+        "4": {
+          "he": "משנה נדרים דף פ\"ה ע\"א וכר\"י ב\"נ וכמוקי לה ר\"ה שם ע\"ב ובכתובות דנ\"ט ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 81:4"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "הרי זו (עושה) אוכלת שאין ההקדש חל שאין אדם מקדיש דבר שלב\"ל והמותיר פי' מה שהיא עושה מותר על השיעור שקצבו חכמים כמ\"ש לעיל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 81:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ואוכלת.  אפילו אם נותן לה מזונו' ומעה כסף א\"י להקדיש. ואפילו אם מקדיש מ\"י עושה ואוכל ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 81:1"
+        },
+        "2": {
+          "he": "חולין.  אפילו הוא בעצמו רשאי ליהנו' ממנו תוס':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 81:2"
+        },
+        "3": {
+          "he": "ניזוני' וכו'.  ולדידן אפילו אם נותן לה מזונו' ואומר יקדשו ידיך נמי אינו קדוש ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 81:3"
+        },
+        "4": {
+          "he": "יגרשנה.  ע' אחרונים ועתוס' י\"ט פי\"א דנדרים משנה ד':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 81:4"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

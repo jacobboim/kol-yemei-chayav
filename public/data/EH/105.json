@@ -1,0 +1,262 @@
+{
+  "chelek": "EH",
+  "siman": 105,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 7,
+  "fetchedAt": "2026-07-08T00:09:00.354Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין המוכרת ומוחלת כתובתה. ובו ז סעיפים:יכולה אשה למכור כתובתה או ליתנה לאחרים בין כולה בין מקצתה והלוקח והמקבל עומדים במקומה שאם תתאלמן או תתגרש יקחו הם כתובתה ואם תמות בחיי הבעל אין להם כלום ואם מכרה לבעלה המכר מכר ואסור להשהותה אלא אם כן יכתוב לה אחרת בעיקר הכתובה:",
+      "en": "A woman is allowed to sell or give to others her marriage contract whether it is all of it or just part of it. The buyer or the receiver take her place that if she should become a widow or a divorcee they get to receive her marriage contract. But if she should die during the lifetime of her husband then they get nothing. If she sold it to her husband, the sale is a sale and there cannot be a delay unless he would write her another one that would be in the spirit of the marriage contract.",
+      "ref": "Shulchan Arukh, Even HaEzer 105:1"
+    },
+    {
+      "seif": 2,
+      "he": "המוכרת כתובתה לאחרים ומת הבעל בחייה אם מתה קודם שנשבעה על כתובתה אין ללוקח ולמקבל כלום בד\"א כשנתאלמנ' ומתה שהיא לא היתה יכולה ליפרע מן היתומים אלא בשבועה אבל אם נתגרשה ומתה לקוחות נשבעים שבועה שלא פקדתנו ונוטלים ודוקא שמתה אבל אם היא בחיים צריכה לישבע שלא נפרעה ואם אינה רוצה לישבע יפסידו הלקוחות ואם אמרה שנפרעה אחר שמכרה נאמנת במגו שאם היתה רוצה למחול אבל אם אמרה שנפרעה  קודם המכר אינה נאמנת:",
+      "en": "The woman who sells her ketubbah to others and her husband dies in her lifetime, if she died before she swore regarding her ketubbah, the one who bought it and the one who accepted it [do not receive] anything. Regarding what are we speaking? When she is widowed and she died, [in the case] when she was not able to pay [off the debt] from [being upon] the orphans except by oath. But if she was divorced and she died, the purchasers swear an oath that they have not left an order, and they take. And specifically when she died, but if she is alive, she needs to swear that it will be paid, and if she does not want to swear, the purchasers will lose [their money]. If she said that she will be paid after she sells [her ketubbah], she is believed, because if she had wanted to forgive [the debt]. But if she said that it will be paid before the sale, she is not believed.",
+      "ref": "Shulchan Arukh, Even HaEzer 105:2"
+    },
+    {
+      "seif": 3,
+      "he": "מי שמת והניח בנים ואלמנה ומתה האלמנה קודם שנשבעה על הכתובה הבכור נוטל פי שנים:",
+      "en": "The one who died and leaves children and a widow [behind], and the widow died before she swore [an oath] regarding the ketubbah, the first born takes two times [as much].",
+      "ref": "Shulchan Arukh, Even HaEzer 105:3"
+    },
+    {
+      "seif": 4,
+      "he": "המוכרת כתובתה בין לבעלה בין לאחרים לא הפסידה שום דבר מתנאי כתובתה אבל המוחלת כתובתה לבעלה איבדה כל תנאי כתובה: הגה ואפילו נדונייתה הפסידה אם אינה בעין (ריב\"ש סי' קמ\"ט בשם הרמב\"ן והרשב\"א) וי\"א דלא הפסידה נדונייתה אא\"כ אמרה כל מה שבשטר מחול לך (מהרי\"ו סי' י\"ט):",
+      "en": "The one who sells her ketubbah, either to her husband or to others, she does not lose anything from the conditions of the ketubbah. But the one who forgives her ketubbah to her husband [so that he does not have to pay], she loses all of the conditions of the ketubbah. Ribash: And even her dowry is lost, if she is not visable. Mahariv: And there are those who say that her dowry is not lost except if she said so: All that is in the document is forgiven to you.",
+      "ref": "Shulchan Arukh, Even HaEzer 105:4"
+    },
+    {
+      "seif": 5,
+      "he": "המוחלת כתובתה אינה צריכה לא קנין ולא עדים והוא שיהיו דברים שהדעת סומכת עליהם ולא יהיה דברי שחוק והיתול או דברי תימה אלא בדעת נכונה: הגה אנסה למחול כגון שהיה מתקוטט עמה תמיד ומחלה לו כדי שתשב עמו בשלוה מחילתה בטילה אע\"פ שלא מסרה מודעה (תשו' הרשב\"א סי' תקפ\"ג):",
+      "en": "One who gives up her marriage contract does not need to effect a transaction and does not need witnesses, as long as her words can be relied upon, and they are not words of jest and jeering or words of astonishment, but rather have the proper mindset.\nRem\"a:  For example, if he had been constantly quarreling with her and she gave up her marriage contract to him so that he might dwell with her in harmony, her absolution is nullified even though she did not claim that it was forced (Responsa of the Rashb\"a #883).",
+      "ref": "Shulchan Arukh, Even HaEzer 105:5"
+    },
+    {
+      "seif": 6,
+      "he": "המוכר שטר לחבירו וחזר ומחלו לו מחול ואפי' יורש מוחל לפיכך מכרה כתובתה ומת הבעל ואח\"כ מתה בנה יכול למחול והמכר בטל ואפי' אין לה יורש אחר אלא זה הבן ונמצא פרעון הכתובה עליו יכול למחול לעצמו כדי לבטל המקח ויורש הכתובה:",
+      "en": "One who sells a debt document to his fellow, and then he goes back and forgives the debt, it is forgiven.\nAnd even the inheritor may forgive. \nTherefore, if she sells her ketubah and her husband dies and then she dies, her son can forgive the debt, and the sale will be invalid. \nAnd even if she has no inheritor except for this son, and it turns out that he has to pay her the ketubah, he can forgive it for himself in order to annul the sale and then he inherits the ketubah.",
+      "ref": "Shulchan Arukh, Even HaEzer 105:6"
+    },
+    {
+      "seif": 7,
+      "he": "מי שמכר בחיי אביו כתובת אמו שאם ימות אביו ואח\"כ תמות אמו ויירש הוא את כתובתה שיהי' הלוקח עומד במקומו לגבותה והתנה שאם תערער אמו על המכר שלא יסלקנו מערעור ומתה ולא ערערה אינו יכול לומר אני במקום אמי וכמו שהיא יכולה לערער על המקח גם אני מערער ואבטלנו שערעור של עצמו קבל עליו ודאי:",
+      "en": "If, in the life of his father, a man sold the ketuba of his mother, so that in the circumstance that his father died first, and then his mother died, and he would consequentially inherit his mother's ketuba, and the purchaser would stand in his place to collect the ketuba from the estate, and he made a condition that if his mother complained about the sale, that [the purchaser] would not remove her from her complaint; and she subsequently died without having complained about the sale; the son may not say, \"I stand in the place of my mother, and just like she could have complained about the transaction, I can also complain about the transaction and hereby abrogate it,\" for he has definitely relinquished his own right to complain.",
+      "ref": "Shulchan Arukh, Even HaEzer 105:7"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא ב\"ק דף פ\"ט ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 105:1"
+        },
+        "2": {
+          "he": "שיעור עיקר הכתובה מפורש בסימן ס\"ו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 105:2"
+        },
+        "3": {
+          "he": "ציינתיו בסימן ל\"ז סעי' א'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 105:3"
+        },
+        "4": {
+          "he": "נתבאר בסימן הנזכר ובסי' צ\"ח וממ\"ש שם סעי' ח'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 105:4"
+        },
+        "5": {
+          "he": "גם זה שם בסימן צח וציינתיו שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 105:5"
+        },
+        "6": {
+          "he": "טור מדברי הרא\"ש שם בפסקיו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 105:6"
+        },
+        "7": {
+          "he": "טור בשם תשוב' אביו הרא\"ש בסוף כלל ג' מטעם דכל זמן שלא נשבעה על כתובת' ולא הגבוה ב\"ד הכתובה כל הנכסים בחזקת בעלה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 105:7"
+        },
+        "8": {
+          "he": "מימרא דרבא כתובות דף נ\"ג ע\"א דזוזי אנסו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 105:8"
+        },
+        "9": {
+          "he": "בעיא דרבא שם והדר פשטה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 105:9"
+        },
+        "10": {
+          "he": "גם זה מימרא דרבא שם ודין אם איבדה המזונות בחייה נתבאר לעיל סימן צ\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 105:10"
+        },
+        "11": {
+          "he": "הרמב\"ם שם והביאו הטור ונלמד מעובדא דמר זוטרא ורב אדא קידושין דף ס\"ה ע\"ד וכדאמרי' התם דלא איברי סהדי אלא לשקרי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 105:11"
+        },
+        "12": {
+          "he": "טור מימרא דשמואל כתובות דף פה ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 105:12"
+        },
+        "13": {
+          "he": "שם עובדא דקריבתיה דרב נחמן וכו' וכפירוש הרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 105:13"
+        },
+        "14": {
+          "he": "שם בעובדא דההוא דזבנה לכתובת אמיה וכו' כתובו' דף צ\"א ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 105:14"
+        },
+        "15": {
+          "he": "במימרא דרבא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 105:15"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אין להם כלום  בטור סיים ע\"ז ולפיכך אין הלוקח קונה אותה אלא בדבר מועט ולכאורה תמוה הוא לאיזה צורך כ' כן ונראה שכתב דבר זה דרך פירש על מה שנזכר בגמרא בהרבה דוכתי שאשה מוכרת כתובת בטובת הנאה דהכוונה למכירה שזכר הטור באיזה אופן היא ואין דרך לקנותה אלא בדבר מועט ע\"כ קראו חכמים למכירה זו טובת הנאה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 105:1"
+        },
+        "2": {
+          "he": "אבל אם היא בחייה צריכה לישבע לעיל סימן צ\"ח ס\"ק ג' מבואר אפלו אם כתב לה פטור על השבועה לא מהני נגד הלקוחות וכאן לא הוצרך לכותבו רק דרך כלל דסמך על מ\"ש שם כנלע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 105:2"
+        },
+        "3": {
+          "he": "צריכ' לישבע שלא נפרע כבר זכרנו בסי' צ\"ו וצ\"ט דגרושה כשהבעל אומר שתשבע ואלמנה מן היתומים שוים וכן נמי כאן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 105:3"
+        },
+        "4": {
+          "he": "קודם המכר אינה נאמנת א\"ל להימנ' במגו שאם היתה רוצה למחול דאי היתה מוחלת צריכה לשלם ללוקח כל הדמים הנזכרים בכתובה אבל אם נפרעת קודם אינה משלמת (רק הדמים שקבלה מן המוכר דהוה מקח טעות אשר\"י ואפי' לדברי המפרשים דכל מוחל לשטר חוב אינו חייב לשלם אלא דמי מכר מ\"מ כ\"ע לאו דינא גמירי והיה יראה למחול דסברא שמא תתחייב לשלם כל דמי השטר אבל מה שאמרה שנפרע' קודם המכר דבר ידוע הוא כיון שמקח טעות היה הדמים חוזרין אשר\"י:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 105:4"
+        },
+        "5": {
+          "he": "לא הפסידה שום דבר מתנאי כתובה  פי' אפי' לאחר מיתת בעלה אבל אין בכלל זה מזונות שאחר מיתת בעלה ודאי הפסידה כמ\"ש בפי' צ\"ג סעיף ח' ע\"ש וטעמא דמוכרת גרע ממוחלת הוא משום דגבי מוכר' אמרינן דזוזי היא דאנסוה למכור הלכך לא פקע זכותה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 105:5"
+        },
+        "6": {
+          "he": "א\"צ לא קנין כולי  בטור העתיק בלשון זה כשאר מוחלין וכ' ש\"ל ע\"ז והא דכ' בשם הרא\"ש לעיל דמחילה טמירתא לא הוה (מחילה) היינו משום שכבר הכריזו עליה בב\"ד וא\"כ היה לפרסם הדבר והיינו מרמה עכל עמ\"ש בסי' ק\"ג סעיף ב':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 105:6"
+        },
+        "7": {
+          "he": "ויורש הכתובה  בטור כ' מכח אביו וכ' רש\"ל ומ\"מ צריך לשלם מה שנתן הלוקח כמ\"ש בח\"מ סימן ס\"ו ואני כתבתי בפ' הכותב סימן ט\"ו שאין היורש יכול למחול בכה\"ג עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 105:7"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "קודם המכר אינה נאמנת.  עי' בדגמ\"ר שכ' ונ\"מ היכא שכ' לה נדר ושבוע' אין לי עליך אבל אם לא כ' לה כך מה נ\"מ אם אינה נאמנת הלא אין הלוקח יוכל להפרע מן הבעל עד שתשבע וכיון שהיא אומרת שנפרעת איך יגבה. כנה\"ג בשם מהר\"א ששון:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 105:1"
+        },
+        "2": {
+          "he": "הבכור נוטל.  עי' בתשו' פרח שושן כלל ד' סי' א':",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 105:2"
+        },
+        "3": {
+          "he": "אבל המוחלת כו'.  עי' בס' יד המלך פי\"ז מה\"א הלכה י\"ט שכ' וז\"ל הנה במוחלת כתובת' לבעלה דאיבדה כל תנאי כתובה וממילא דבטל גם התנאי של ירושת כתובת בנין דכרין ואף דהזכות של תנאי הלז לא שייך לה רק לבניה הזכרים שילדה לו ואיך יש בידה למחול צ\"ל כיון דמדינא אין שום חלות כלל על גוף המתנה שנתן לבניה אחריה כיון דבשעת המתנה בניה עדיין אינם בעולם ועיקר כתובת בנין דכרין הוא רק מכח תנאי ב\"ד הם אמרו והם התקינו שאם מחלה גוף כתובתה בטלה ג\"כ תנאי כתוב' זו. ולפ\"ז בהתנה עמו בפירוש שאחר מות' יירש איש אחר אשר בעת התנאי כבר הי' בעולם דאז זכה בו מטעם מתנה גמורה אפשר דאף אי מחלה הכתיב' לבעלה אין בידה להפסיד אותו האיש הזכות שלו וע' במהרי\"ט ח\"א סי' ל\"ח וצ\"ע לדינא עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 105:3"
+        },
+        "4": {
+          "he": "המוחלת כתובת'.  עבה\"ט. והנה לפמ\"ש בתשו' נו\"ב תניינא חח\"מ סי' ל\"ב ליישב דברי הב\"ח שמביא הש\"ך בח\"מ סי' י\"ב ס\"ק י\"ז מ\"ש בפירוש דברי הר\"ר ישעיה בטור שם ומחלק שם בין אית ללוה נכסי בשעת המחילה דאז הוי כגבוי ולא מהני ל' מחילה ובין לית ליה ללוה נכסי בשעת המחיל' דלא שייך לומר כגבוי דמי אלא שעכ\"פ גופו משועבד לשלם כשיהי' לו ולזה מועיל לשון מחילה ע\"ש. לפ\"ז נדחה קצת הוכחת הח\"מ והב\"ש לסתור דברי הסמ\"ע שפסק כהרב ר' ישעיה. וע' עוד בנו\"ב שם ויובא בפ\"ת לח\"מ סי' י\"ב ס\"ח בד\"ה מחילה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 105:4"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "מכר.  ואם מת או גירשה קודם שכתב לה כתובה אחרת אין לה עליו כלום ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 105:1"
+        },
+        "2": {
+          "he": "ומתה וכו'.  ב\"ש כתב דאיירי אפילו מת בעלה בחייה ואח\"כ מתה. מ\"מ נשבעים הלוקחים וגובים. והח\"מ כתב דאיירי במתה היא ואח\"כ הבעל ע\"ש ועיין בח\"מ סי' ס\"ו סט\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 105:2"
+        },
+        "3": {
+          "he": "בחייה.  ובעלה מת צריכה לשבע היא והלוקח כמבואר בח\"מ סי' ס\"ו ע\"ש. ואם הבעל עדיין חי וטוען ברי שפרע לאשה או ללוקח ישבע זה שאומר הבעל שפרע לו ע\"ש בש\"ך ובסמ\"ע וע\"ע סי' צ\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 105:3"
+        },
+        "4": {
+          "he": "נאמנת.  ש\"ך בח\"מ סי' ס\"ו ס\"ק נ\"ו חולק ע\"ז וכתב שם שהוא נגד הסברא ונגד כל הפוסקים להלכה דנאמנת ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 105:4"
+        },
+        "5": {
+          "he": "שנים.  אף מן הסך המגיע לכתובת אמו דלא מיקרי נכסי האם. וכתב הח\"מ שגוף התשובה משמע אף שכבר נשבעה האלמנה אם מתה קודם גביה עדיין נכסי האב מיקרי ע\"ש. והב\"ש כתב דדוק' הוא קודם שנשבעה על הכתובה ע\"ש ועיין בח\"מ סי' רע\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 105:5"
+        },
+        "6": {
+          "he": "כתובה.  אבל מזונות אין לה מיורשים כמ\"ש סי' צ\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 105:6"
+        },
+        "7": {
+          "he": "בעין.  עיין ח\"מ ב\"ש. ואם מחלה הנדוני' לבד י\"ל דיכולה לומר נ\"ר עשיתי לבעלי ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 105:7"
+        },
+        "8": {
+          "he": "כתובתה אינה צריכה לא קנין.  משמע אף שלא החזירה לו הכתובה מהני מחילה ח\"מ ב\"ש. והסמ\"ע סי' י\"ב ס\"ק כ\"א לא כ\"כ ע\"ש ובש\"ך ועיין ב\"ח סי' ס\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 105:8"
+        },
+        "9": {
+          "he": "בטילה.  היינו באונס ידוע. אבל אם אין האונס ידוע צריכה למסור מודעא וע\"ל סי' קי\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 105:9"
+        },
+        "10": {
+          "he": "לעצמו.  עיין ח\"מ סי' ס\"ו ששם הביא דעת בעה\"ת שיש חולק וס\"ל דא\"י למחול ע\"ש בסמ\"ע ובש\"ך ס\"ק פ\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 105:10"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

@@ -1,0 +1,102 @@
+{
+  "chelek": "EH",
+  "siman": 87,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-08T00:09:00.031Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "שאין חזקה בנכסי אשת איש. ובו ב סעיפים:אין לאיש חזקה בנ\"מ של אשתו שאכלם שני חזקה אע\"פ שהתנה עמה שאין לו פירות בנכסיה וכן אין לאשה חזקה בנכסי בעלה ע\"י שאכלתם שני חזקה: הגה ודוקא בחזקה כזה אבל בחזקת נזיקין כגון פתיחת חלונות וכדומה לזה יש לאיש חזקה בנכסי אשתו וה\"ה לאשה על בעלה (ר\"י במישרים נכ\"ג ת\"ז)  (וע' בח\"ה סי' קמ\"ט):",
+      "en": "A man does not have squatting rights in his wife's melog properties (a wife's property which is not listed in the ketuba; the husband has usufruct rights, yet is not responsible for the property. See siman 83:13) which he has used for the years of chazaka (if someone enjoys the usufruct of a property for 3 years without counterclaim from the original owner, he can claim that he purchased the land even if he is unable to produce the document of sale), even if she had previously made a condition that he would not receive the usufruct of her property. Similarly a woman does not have  squatting rights on her husband's lands when she has taken the usufruct for the chazaka years. \n\nRama: Specifically with this type of squatting, but with damage rights, e.g. opening windows [in a house] (without counterclaim) and similar instances, the husband does develop damage rights, and the law is similar with respect to the woman on her husband's property (Rabbenu Yerucham in Meisharim, path 23, section 7). And see Choshen Mishpat chapter 149.",
+      "ref": "Shulchan Arukh, Even HaEzer 87:1"
+    },
+    {
+      "seif": 2,
+      "he": "מי שהחזיק בנכסי אשת איש לא עלתה לו חזקה אא\"כ החזיק בהם שלשה שנים אחר מות בעלה  (ועיין בח\"ה סימן קמ\"ט):",
+      "en": "Someone who holds possession of a married woman's property does not accrue squatting rights (see above) unless he maintained possession for three years after the death of her husband. \nRama: See Choshen Mishpat chapter 149.",
+      "ref": "Shulchan Arukh, Even HaEzer 87:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה ב\"ב דף מ\"ב ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 87:1"
+        },
+        "2": {
+          "he": "אוקימתא דגמ' שם דמ\"ט ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 87:2"
+        },
+        "3": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 87:3"
+        },
+        "4": {
+          "he": "ממימרא דרב וכדמשני רבא שם דף נ' ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 87:4"
+        },
+        "5": {
+          "he": "מימרא דרב שם דמצי אמרי' סמכתי שהוא ימח' ולכן שתקתי כדמשני רב יוסף שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 87:5"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אבל בחזקת נזיקין כו'  לאיש חזקה כו' פי' אפי' שראתה לאלתר וידעה ולא מיחתה כמו שתירץ בגמ' בפ' ח\"ה אין דין חזקה לניזקין פי' שא\"צ ג\"ש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 87:1"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "לא עלתה לו חזקה.  עבה\"ט מ\"ש והב\"ש חולק והקשה לפ\"ז כו' ואשתמיטתא דברי הדרישה כו' ובגליון הב\"ש דהגר\"ע איגר זצ\"ל נ\"ב גם בדרישה חו\"מ סי' קמ\"ט הקשה כן אבל לענ\"ד לק\"מ דהא הש\"ע פריך לרב לשיטתי' דפסק כרשב\"ג דאם מתה יורשה עכ\"ל וכן תירץ בס' קצות החושן שם סק\"ג ע\"ש וגם בתשו' גבעת שאול סי' צ\"ה ובספר בית מאיר ובקו\"א לס' כתובה ע\"ש עוד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 87:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "לאשה וכו'.  אא\"כ נתגרשה אפילו ספק גירושין כמ\"ש בח\"מ סי' קמ\"ט:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 87:1"
+        },
+        "2": {
+          "he": "קמ\"ט.  דשם מבואר די\"ח ע\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 87:2"
+        },
+        "3": {
+          "he": "חזקה.  אא\"כ החזיק וטען בפני אתה מכרת לבעלך והוא מכר לי אז נאמן במיגו אתה מכרת לי ואפילו התחיל להחזיק בחיי בעלה. וכתב הח\"מ דאם סילק הבעל את עצמו מירושה ומפירות מחזיקים בנכסים שלה וכ\"כ הסמ\"ע סי' קמ\"ט ס\"ק ט\"ו ע\"ש והב\"ש חולק והקשה לפ\"ז למה לא אוקמי שם דאיירי בכה\"ג וכו' ע\"ש. ואישתמיטתיה ליה דברי הדרישה בח\"מ סי' קמ\"ט שהקשה ג\"כ קושי' זו ומתרץ דאין זו קושי' דכיון דרב סתמ' קאמר א\"א צריכה למחות דוחק לומר דאיירי דוק' בכתב לה וכו' ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 87:3"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

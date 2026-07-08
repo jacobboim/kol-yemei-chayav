@@ -1,0 +1,148 @@
+{
+  "chelek": "CM",
+  "siman": 331,
+  "chelekTitle": "Choshen Mishpat",
+  "seifCount": 3,
+  "fetchedAt": "2026-07-08T00:09:18.557Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "השוכר פועלים ינהג עמהם כמנהג המדינה. ובו ג סעיפים:השוכר את הפועלים ואמר להם להשכים ולהעריב מקום שנהגו שלא להשכים ושלא להעריב אינו יכול לכופן אפי' הוסיף על שכרן כיון שלא התנה כן בשעה ששכרן: הגה לא היה מנהג בעיר או שאמר להן אני שוכר אתכם כדין תורה חייבין לצאת מביתם בזריחת השמש ולעשות מלאכה עד צאת הכוכבי' (טור ס\"ד) ובערב שבת מקדים עצמו לביתו שיוכל למלאות לו חביות של מים ולצלות לו דג קטן ולהדליק את הנר (שם ס\"ה בשם הירושלמי) לא היה מנהג בעיר אבל רוב אנשי העיר באין ממקו' שיש שם מנהג אזלינן בתר מנהג העיר שבאו משם הלך ממקו' שנהגו להשכים ולהעריב למקום שנהגו שלא להשכים ולהעריב או איפכא אזלינן בתר המקום ששכר שם הפועלים (נ\"י ר\"פ הפועלים בשם ירושלמי) ואינו קרוי מנהג אלא דבר השכיח ונעשה הרבה פעמים אבל דבר שאינו נעשה רק פעם אחת או שני פעמים אינו קרוי מנהג (ריב\"ש סי' תע\"ה):",
+      "en": "One who hires workers and said to them \"work from dawn till dusk\", cannot force them to do so if that is not the custom of the area, even if he adds to their salary. This is because he did not make this stipulation at the moment he hired them. [Rema: (meaning that it was not the case that) there was not a particular custom in the city or that he said to them \"I hire you according to Torah law and you are obligated to leave from your houses at sunrise and work until nightfall\" (Tur 331:4). (In these cases) on the eve of Shabbat the worker goes home early so he can fill a barrel of water and roast a small fish and light the Shabbat candles (Tur 331:5 based on the Talmud Yerushalmi). If there was no custom in the city but the majority of the men in the city come from an area where there is a custom, we go according to the custom of the city from which they come. If they came from a place where the custom is to work from dawn to dusk to a place where that is not the custom, or the reverse, we go according to the custom of the place in which they were hired (Nemukei Yosef on the beginning of Chapter 7 of Bava Metzia, \"One Who Hires Worker\", based on the Talmud Yerushalmi). Something is not a custom unless it a common practice and has been done many times, however, something which has been done only once or twice is not considered a custom (Rivash siman 475).]",
+      "ref": "Shulchan Arukh, Choshen Mishpat 331:1"
+    },
+    {
+      "seif": 2,
+      "he": "מקום שנהגו לזון יזון לספק בגרוגרות או בתמרי' וכיוצא בהם יספק הכל כמנהג המדינה:",
+      "en": "A place that is accustomed to nourish, nourishes; to provide in dried figs or dates and it is like he has fulfilled his obligation in them, he will provide; everything according to the custom of the state.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 331:2"
+    },
+    {
+      "seif": 3,
+      "he": "השוכר את הפועל ואמרו לו כאחד וכשנים מבני העיר מחשבין היתר שבשכירו' והפחות שבשכירו' ומה שביניהם נותן החצי כגון אם היתר בשש והפחות בארבע נותן להם חמש:",
+      "en": "",
+      "ref": "Shulchan Arukh, Choshen Mishpat 331:3"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "א) לשון הרמב\"ם ריש פ\"ט מה' שכירות משנה ריש פ\"ז דב\"מ דף פ\"ג ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 331:1"
+        },
+        "2": {
+          "he": "ב) טור ס\"ג מפורש שם בגמ' פשיטא לא צריכא וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 331:2"
+        },
+        "3": {
+          "he": "פי' על שאר פועלין",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 331:3"
+        },
+        "4": {
+          "he": "ג) שם וכ\"כ התוס' שם בשם ר\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 331:4"
+        },
+        "5": {
+          "he": "ד) ממימרא דר\"ל וכו' ויליף לה ממ\"ש הכתוב תזרח השמש יאספון וכו' יצא אדם לפעלו וממאי דמסיק בנקוטאי ואיבעי' אימא דא\"ל דאגריתו וכו' שם ע\"ב והרי\"ף והרמב\"ם השמיטו כל זה וכתב הבית יוסף ונ\"ל שהטעם לפי שהם מפרשי' הא דר\"ל כמו שפי' ר\"ח וכמ\"ש התוס' שם בשם ר\"ח וכו' דלפי זה לא אשמעינן ר\"ל אלא מנהג הפועלים והא לא אצטריכו לי' דהכל בכלל הכל כמנהג המדינה א\"נ אפילו יפרשו כפי' רש\"י משום דאוקימנא במימרא דר\"ל ליתא אלח בעיר חדשה א\"נ כדא\"ל אגריתו לי כפועל דאורייתא ומילתא דלא שכיחא היא ילפיכך לא חשו לכתבה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 331:5"
+        },
+        "6": {
+          "he": "ה) ל' הרמב\"ם שם ושם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 331:6"
+        },
+        "7": {
+          "he": "ו) רמב\"ם שם ד\"ב ברייתא שם דף פז ע\"א וכחכמים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 331:7"
+        },
+        "8": {
+          "he": "פי' מפועלי העיר",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 331:8"
+        },
+        "9": {
+          "he": "ז) כן פי' ה\"ה וכ\"כ הטור ס\"ו בשם הרמ\"ה כתב הריב\"ש בסימן קע\"ו כל מה שאדם נודר בשכירות אפי' בע\"פ ובלא שום קנין יש לב\"ה להשלים כל שהנשכר עושה מלאכתו שכירות הפועלים נגמר בהתחל' המעש' ומבואר בסי' של\"ג וע' בת\"ה סי' שכ\"ג ושכ\"ד דיני שכירות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 331:9"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "לא היה מנהג בעיר כו'  עיין בס' באר שבע דף צ\"ו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 331:1"
+        },
+        "2": {
+          "he": "ואינו קרוי מנהג כו'  וכ\"כ הרמב\"ם בהלכות מאכלות אסורות:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 331:2"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "כמנהג המדינה.  עיין בתשובת חו\"י סימן ק\"ג שכתב בדבר בריחת השפח' בטענת הכבדת עול ודאי דתלי במנהג אם מנהג בני העיר במשפחותיהם להטיל עול ההוא. ואם קצתם מטילים כזה וקצתם לא. אם ידוע איך ינהגו הרוב ניזל בתרייהו ואם א\"א לברר זה לא מצי בעה\"ב להטיל עול שאינו נוהג בבירור. וכן בסגירת דלתי תיבה שבו הלחם אם מפורסמת האשה בעלת הבית בזה והמשרתת מבנות העיר סברא וקיבלה. ואם לאו ג\"כ אזלינן בתר מנהג נשים שהם בערכה ואם הוא נגד המנהג לא תוכל עשוהו אע\"פ שתעשה כן לבניה. ובענין קפידת האשה על שבירת ואבדון כלי כל דהו לנכות לשפחה משכרה. ודאי דאע\"פ הדין הדין עמה כי השפחה כשומר שכר לחייב בגניבה ושבירת כלי ע\"י תקלה אם לא שנשבר מחמת מלאכה או שנדע מי מבני בית שברו וכה\"ג רק על צד המנהג רוב נשים אין מקפידות על דבר קטן אך קיימא לן דאין הולכין בממון אחר הרוב מיהו דוקא אם יש כמה נשים המקפידות משא\"כ אם לא נמצאו מקפידות רק אחת ושתים בעיר נראה דבטלה דעתן ולא נקרא מיעוטא רק מיעוטא דמיעוטא ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 331:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "הוסיף.  שיוכלו לומר הא דאוסיפת לן כדי לעשות עבידתא שפירתא וכן עשינו. ש\"ס וכ\"כ הטור והמחבר בסי' של\"ב ס\"ה. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 331:1"
+        },
+        "2": {
+          "he": "מנהג.  עיין בס' באר שבע דף נ\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 331:2"
+        },
+        "3": {
+          "he": "קטן.  בטור לא כת' תיבת קטן גם בהג\"א ר\"פ הפועלים דהביא לשון הירושלמי זה לא כת' שם תיבת קטן ונראה דהרמ\"א כתבו משום דבא\"ח סי' רנ\"ו כ\"כ הטור והוא מש\"ס פרק ב\"מ וז\"ל שם ו' תקיעות היו תוקעין בע\"ש כו' התחיל לתקוע תקיעה שלישית סילק המסלק כו' שהה כדי לצלות דג קטן עכ\"ל ואין ראיה מהתם דשם קאי אבע\"ב שהיו כל ע\"ש בעיר ואפו ובשלו והכינו כל צרכן קודם לכן משא\"כ בפועלים שהיו בשדה ונכנסו סמוך לשבת לביתם ולא עשו עדיין צרכן לשבת דבעי טפי מצליית דג קטן והא ראיה דשם לא נזכר שיעור למלאות חבית מים וגם שם כת' שהדליקו נרותיהן קודם צליית דג קטן וכאן כתב שהדליקו אח\"ז וע\"כ צ\"ל שצרכים אלו דצליית דג ומילוי מים והדלקת נרות עשו קודם לכן זמן מעט לפני שאר בני אדם עכ\"ל הסמ\"ע ועמ\"ש הב\"ח בזה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 331:3"
+        },
+        "4": {
+          "he": "השכיח.  וכ\"כ הרמב\"ם בהלכות מאכלות אסורות:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 331:4"
+        },
+        "5": {
+          "he": "כמנהג.  ואפילו היה המנהג בעיר ליתן להם מזונות והוא שכר פועלים ופסק להן מזונות לא אמרי' מדנחית לפסוק להן ולא היה צריך לפסוק מאחר שכן המנהג ש\"מ שדעתו היה לטפויי להן על המזונות שנהגו ובש\"ס איכא פלוגתא בין התנאים בזה ופסקו רוב הפוסקים דא\"צ להוסיף. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 331:5"
+        },
+        "6": {
+          "he": "כגון.  ע\"ל סי' ק\"ג ס\"ב ובמ\"ש הסמ\"ע ובאר הגולה שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 331:6"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

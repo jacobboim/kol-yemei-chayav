@@ -1,0 +1,793 @@
+{
+  "chelek": "EH",
+  "siman": 143,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 23,
+  "fetchedAt": "2026-07-08T00:09:01.135Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין המגרש על תנאי. ובו כג סעיפים: המגרש על תנאי אם נתקיים התנאי הרי זו מגורשת ואם לא נתקיים התנאי אינה מגורשת ואפי' הוא כהן מותרת לו וכבר נתבארו משפטי התנאים בסי' ל\"ח:",
+      "en": "If a divorce was conditional, then if the condition was fulfilled, she is divorced, and if the condition is not fulfilled, she is not divorced.  [If the condition was not fulfilled] she remains permitted to her husband even if he is a priest (who is forbidden to marry a divorcee). The rules of conditions are discussed in chapter 38.",
+      "ref": "Shulchan Arukh, Even HaEzer 143:1"
+    },
+    {
+      "seif": 2,
+      "he": "המגרש על תנאי כשיתקיים התנאי תהיה מגורשת בשעה שיתקיים לא בשעת נתינת הגט לידה לפיכך יש לבעל לבטל הגט או להוסיף על תנאו או להתנות תנאי אחר כל זמן שלא נתקיים התנאי הראשון אע\"פ שהגיע לידה ואם מת הבעל או אבד הגט או נשרף קודם שיתקיים התנאי אינה מגורשת ואם נשאת תצא ואם אמר לה הרי את מגורשת מעכשיו או מהיום על תנאי כך וכך או שאמר לה הרי את מגורשת ע\"מ כך וכך  (וע\"ל סי' קמ\"ד סעיף ד' די\"א דע\"מ לאו כמעכשיו דמי)  כשיתקיים התנאי תהיה מגורשת משעת נתינת הגט לידה לפיכך אינו יכול לבטל הגט ולא להוסיף על תנאו משהגיע לידה ואם אבד או נשרף  (ואפי' מת הבעל)  קודם שיתקיים התנאי ה\"ז מקיימת התנאי אחר מותו וכבר נתגרשה משעת נתינת הגט לידה. ולכתחלה לא תנשא קודם קיום התנאי ואם נשאת יפרוש ממנה עד שיתקיים התנאי ומיהו בתנאי שהוא בידה והוא בשב ואל תעשה לא חיישינן שמא תעבור עליו ולפיכך מותרת לינשא מיד בתנאי דעל מנת או מעכשיו וי\"א דאפי' לא אמר מעכשיו ולא מהיום ולא על מנת דינו כאומר מהיום משום דזמנו של גט מוכיח עליו הילכך אזלינן בה לחומרא וי\"א דאפילו בתנאי דמעכשיו יכול לבטלו ויש להחמיר) (עיטור וכן משמע בהרא\"ש):",
+      "en": "One who divorces his wife with a condition when she fulfills the condition, she will be divorced at the time the condition is fulfilled, and not at the time the get is given to her hand. Therefore, the husband can nullify the get or add an additional condition or he can make another condition the entire time that the original condition was not met, even though it arrived at her hand. And if her husband dies or the get is lost or burnt before the new condition is fulfilled, she is not divorced. And if she married, she needs to exit [the new marriage]. And if he says to her, you are divorced from now or from today on the condition of x and y, or you are divorced on the condition of x' and y' (see later 144: 4 and there are those who say that \"on the condition\" is not similar from \"now\"). When the condition is fulfilled, they were divorced from the time get was given to her hand.  If it was lost or burnt (even if the husband died) but before he fulfilled the condition, then this fulfills the condition after his death, so they were already divorced from the time he gave her the get to her hand. Initially, she should not marry before the condition is met, but if she marries, he should separate from her, until the condition is met. However, with a condition that she can control and passively fulfill, we do not suspect that she will violate it. Therefore, she is allowed to marry immediately, on the condition or \"from now\". There are those who say even if he did not say \"from now,\" and not \"from today,\" and not \"on condition,\" the law is as one who said \"from today,\" because the time [written in] the get proves [his intention]. (There are those who say that even in the condition \"from now\", he is able to nullify, but there are those who are strict.) (Itor and that is what is implied in the Ros\"h).",
+      "ref": "Shulchan Arukh, Even HaEzer 143:2"
+    },
+    {
+      "seif": 3,
+      "he": "אמר לה ע\"מ שתתני לי מאתים זוז מכאן ועד שלשים יום ומת בתוך השלשים יום קודם שנתנה לו אינה יכולה לקיים התנאי שאם תתן ליורשי' אינו כלום וכיון שכן כיון ששלמו ל' יום ולא נתנה לו בטלו הגירושין וחולצת או מתייבמת ואם אמר לה ע\"מ שתתני לי מאתים זוז ולא קבע לה זמן ומת קודם שתתן לו אע\"פ שאבד הגט או נקרע קודם שימות הרי זו לא תנשא לזר עד שתחלוץ:",
+      "en": "He said to her \"[I give you a get] on condition that you give to me two-hundred zuz from now until thirty days\" and he dies in the middle of the thirty days before she gave to him [the two-hundred zuz] she is unable to fulfill the condition, because if she gives to his inheritors, it is considered null. Thus, because the 30 days have passed and she did not give him [the money], the divorce is nullified and she must undergo chalitza or yibum. If he said to her \" [I give you a get] on condition that you give me two-hundred zuz and he does set a time [for the transaction to take place] and  he dies before she gives him [the two-hundred zuz] even if the get was lost or ripped before he died, she should not marry another until chalitza is preformed.",
+      "ref": "Shulchan Arukh, Even HaEzer 143:3"
+    },
+    {
+      "seif": 4,
+      "he": "אמר לה ע\"מ שתתני לי מאתים זוז מכאן ועד ל' יום ונתנה לו בתוך שלשים יום בעל כרחו והוא אינו רוצה לקבל ה\"ז גט פסול עד שתתן מדעתו:",
+      "en": "He says to her \"[I give you a get] on condition that you give me 200 zuz, from now until thirty days [from now],\" and she gives it to him within thirty days against his will, and he does not want to accept it, this is an invalid get, until she gives it to him with his consent.",
+      "ref": "Shulchan Arukh, Even HaEzer 143:4"
+    },
+    {
+      "seif": 5,
+      "he": "אמר לה ע\"מ שתתני לי מאתים זוז מכאן ועד ל' יום וחזר ואמר לה בתוך השלשים יום הרי הם מחולים לך אינה מגורשת שהרי לא נעשה התנאי וי\"א דה\"מ כשלא אמר לה אלא הרי הם מחולים לך לבד אבל אם אמר לה להוי גיטא בלא שום תנאי הרי זו מגורשת ואין צריך ליטלו ממנה:",
+      "en": "He says to her, \"[I give you a get] on condition that you give me 200 zuz within 30 days\" and he came back within the 30 days and said, \"they have pardoned you [from paying]\" then she is not divorced because the condition did not come into effect. Some say that this is true only when he tells her \"they say only your loan is forgiven\" but if he says to her \"get a get\" without any conditions, then she is divorced and they need not take from her.",
+      "ref": "Shulchan Arukh, Even HaEzer 143:5"
+    },
+    {
+      "seif": 6,
+      "he": "אמר לה ע\"מ שתתני לי כלי פלוני או בגד פלוני ואבד אותו כלי או אותו בגד או נגנב אע\"פ שנתנה לו אלף זוז בדמיו אינו גט עד שתתן אותו כלי או אותו בגד עצמו או שיאמר לה ליהוי גיטא בלא שום תנאי ויש מי שאומר שאם הוא מתרצה בקבלת הדמים הוי גט:",
+      "en": "[If the husband] said to her: \"[I will divorce you] on condition that you give me this utensil,\" or \"this article of clothing,\" and that utensil or clothing is lost or stolen, the bill of divorce is not valid even if she gives him 1000 zuz as restitution. It is only valid if she gives him the utensil or clothing or he says to her: \"Here is the bill of divorce without any condition.\" Some say that the bill of divorce is valid if he accepts the restitution.",
+      "ref": "Shulchan Arukh, Even HaEzer 143:6"
+    },
+    {
+      "seif": 7,
+      "he": "אמר לה ע\"מ שתתני לי ר' זוז מכאן עד ל' יום אפי' לא נתנה לו עד יום שלשים בסופו מגורשת ואם אמר לה בתחלת יום ראשון לחודש ונתנה לו בסוף ליל ראשון לחדש השני ה\"ז ספק מגורשת:",
+      "en": "",
+      "ref": "Shulchan Arukh, Even HaEzer 143:7"
+    },
+    {
+      "seif": 8,
+      "he": "התנה עליה שתעשה דבר זה סתם ה\"ז כמפרש יום א' הואיל ולא פירש כמה זמן תעשה כיצד אמר לה ה\"ז גיטך ע\"מ שתעשי עמי מלאכה ע\"מ שתשמשי את אבא ע\"מ שתינקי את בני אם עשתה עמו מלאכה או אם שמשה את אביו יום אחד או שהניקה בנו יום אחד בתוך הזמן שהבן יונק בו והוא בתוך כ\"ד חדש הרי זה גט: הגה וי\"א דצריכה לשמש האב כל ימי חייו וצריכה להניק התינוק עד סוף כ\"ד חודש (טור בשם הרא\"ש) ואם מתו לאחר שהתחילה לקיים התנאי רק יום אחד הוי גט (טור)  מת הבן או מת אביו קודם שתניק או שתשמש אינו גט אמר לה ע\"מ שתניקי את בני או שתשמשי את אבי שתי שנים הרי זו משלמת הזמן שפירש מת הבן או האב בתוך הזמן שפירש או שאמר האב אין רצוני שתשמשני אינו גט שהרי לא נתקיים התנאי וכן כל כיוצא בזה וי\"א דכל שאין העיכוב ממנה הוי גט (טור בשם ר\"י) ונ\"ל דאזלינן בכל זה לחומרא:",
+      "en": "If he makes a condition on her \"that you do this thing,\" it is to be assumed that he meant that she \"do it some day.\" After all, he did not specify when she should do it, or for how long.     How so? He says to her, \"This is your  Get , if you do work with me.\" \"On the condition that you serve my father.\" \"On the condition that you nurse my children\" - if she does work with him, or serves his father, or nurses his children for one day, within the span of time that children nurse, which is 24 months, then it is a  Get  and she is divorced. Rem\"a: And there are those who say that she needs to serve his father all the days of his life, nurse the baby until the end of the 24 months (Tur in the name of the Rosh). And if he dies even one day after she has begun to fulfill the condition, it is a  Get  (Tur). If the son or the father die before she nurses or serves them [respectively], it is not a  Get . If he says, \"...on condition that you nurse my son or serve my father for two years\" she must complete the time that he specified. If the son or the father die in the time that he specified or the father says, \"I do not want he to serve me\" it is not a  Get  because she has not fulfilled the condition, and so too [any case] like this. And there are those who say that any [case] where the prevention [of fulfilling the condition] is not from her, it is a  Get  and it seems to me that in all these [cases], we rule stringently.",
+      "ref": "Shulchan Arukh, Even HaEzer 143:8"
+    },
+    {
+      "seif": 9,
+      "he": "י\"א דכי אמרי' דהניקה או שמשה יום א' הוי גט לאו דוקא יום אחד דאפי' בשעה אחת סגי ויש מי שאומר דיום אחד דוקא כליל שבת ויומו:",
+      "en": "There are those who say that when we say that if she nurse or serves for one day it is a  Get  (see previous Seif) this is not specifically one day because even one hour is enough. And there are those who say that one day is specifically [referring to] Shabbat night and day.",
+      "ref": "Shulchan Arukh, Even HaEzer 143:9"
+    },
+    {
+      "seif": 10,
+      "he": "הנותן גט לאשתו ע\"מ שתתן לו מאתים זוז וחזר והתנה עליה תנאי אחר בפני עדים שתשמש אביו שתי שנים לא ביטלו דבריו האחרונים את הראשונים אלא ה\"ז כאומר לה עשי אחד משני תנאים רצת משמשת רצת נותנת ואין א' מהראשונים ואחד מהאחרונים מצטרפים אבל אם התנה עליה שתתן לו ר' זוז וחזר והתנה בפני שנים שתתן לו ג' מאות זוז כבר ביטל התנאי של ר' זוז וצריכה ליתן ג' מאות זוז וכן כל כיוצא בזה: הגה וי\"א דכל זה דוקא בשלא מסר לה הגט לא בתנאי ראשון ולא בתנאי שני אלא אחר שני התנאים מסר לה הגט בפני עדים הראשונים והאחרונים אבל מסר לה הגט בשעת תנאי הראשון או השני אותו תנאי דוקא  (הר\"ן פרק מי שאחזו):",
+      "en": "One who gives a  Get  to his wife on condition that she give him 200  Zuz  and [later] rethinks it and makes [another] condition on her in front of witnesses that she serve his father for two (typo in hebrew) years, his last words don't annul his first words, rather it is as if he said to her that she should do one of the conditions. If she wants, she can serve [his father], if she wants, she can give [the money] and the first and last [conditions] don't combine. But if he made a condition on her that she give him 200  Zuz  and [later] he made a condition in front of two witnesses that she give him 300  Zuz , the condition of the 200  Zuz  has already been annulled and she needs to give him 300  Zuz  and so too anything like this. Rem\"a: And there are those who say that all this is only when he sent her the  Get  without either condition, rather [only] after [making] the two conditions did he send her the  Get  in front of the first and second witnesses [of the conditions]. But if he sent her the  Get  at the time of the first condition or the second condition, it is specifically that condition [which is binding]. (Ran Perek Mi ShAchzu)",
+      "ref": "Shulchan Arukh, Even HaEzer 143:10"
+    },
+    {
+      "seif": 11,
+      "he": "ה\"ז גיטך והנייר שלי אינה מגורשת שאין זה כריתות ע\"מ שתתני לי את הנייר הרי זו מגורשת ותתן:",
+      "en": "\"This is your get, and the paper is mine\" - [with this formulation] she is not divorced, since it is not complete. \"On the condition that you give me the paper [in the future]\" - she is divorced if she gives it.",
+      "ref": "Shulchan Arukh, Even HaEzer 143:11"
+    },
+    {
+      "seif": 12,
+      "he": "התנה על דבר שא\"א לקיימו כגון על מנת שתעלי לרקיע או שתרדי לתהום או שתבלעי קנה של ד' אמות אינו תנאי והגט גט אבל אם התנה בדבר שאפשר לקיימו אפי' באיסור כגון ע\"מ שתאכלי בשר חזיר הוי תנאי שאפשר שתאכלנו ותלקה ואין זה מתנה על מה שכתוב בתורה שאינו מתנה שתאכלנו עכ\"פ שאם לא תאכלנו לא תתגרש בד\"א כשהאיסור תלוי בה לעבור עליו אבל אם תלוי באחרים שאמר לה ע\"מ שתבעלי לאבא לא הוי תנאי שאביו לא ישמע לה לעשות איסור:",
+      "en": "If he makes a condition that is impossible to fulfill, such as \"on conditional that you go up to the heavens\" or \"that you go down to the primordial deep\" or \"if you swallow a reed four by four hand-breadths wide\" - this is not a condition, and the get is a get. But, if made a condition which is possible to fulfill, even if it would involve prohibitions, such as \"on condition than you eat pig meat\" - this is a [valid] condition, since it is possible for her to eat it and be whipped. This does not fall under the category of \"making a condition against what is written in the Torah\" since he did not make a condition that she eat pig meat in any case, since, if she does not eat it, she is [merely] not divorced.  This is the case only if the prohibition depends on her [alone] to do it. But if it's dependent on others, [such as] if he says to her \"on the condition that you have sex with my father,\" this is not a condition, since his father will not listen to her to do a forbidden thing.",
+      "ref": "Shulchan Arukh, Even HaEzer 143:12"
+    },
+    {
+      "seif": 13,
+      "he": "אמר לה ע\"מ שלא תבעלי לאבא ונבעלה לו אינו גט אבל כל זמן שאין עדים שנבעלה לו אין חוששין שמא נבעלה לו  (ומותרת להנשא) ואין חוששין שמא  (תבעל לו) (טור) .",
+      "en": "He said to her  \"[I give you a get] On condition that you do not have sex with my father and she has sex with him, there is no Get.  But any time there are no witnesses to verify that she had sex with him, there is no concern that maybe she did have sex with him (and she is permitted to be married) and there is no concern that perhaps (she will have sex with him) (Tur):",
+      "ref": "Shulchan Arukh, Even HaEzer 143:13"
+    },
+    {
+      "seif": 14,
+      "he": "אמר לה ע\"מ שלא תנשא לאבא ונשאת לו הוי גט שאין לו בה נשואין:",
+      "en": "",
+      "ref": "Shulchan Arukh, Even HaEzer 143:14"
+    },
+    {
+      "seif": 15,
+      "he": "אמר לה ע\"מ שתנשאי לפלוני אם נשאת לו הרי זו מגורשת אבל אמרו חכמים לא תנשא לו שלא יאמרו נשותיהם נותנים במתנה זה לזה: הגה ואפי' לא התנה עמה בפירוש שתנשא לפלוני אלא שניכר שגירשה משום זה כיון שאותו פלוני נתן לו ממון כדי לגרשה והוא מעלה לה מזונות כדי שיקחנה וכל כיוצא בזה (הגהות מרדכי בקידושין)  ואם נשאת לא תצא ואם נשאת לו תחילה וגירשה מותרת לכל שהרי נתקיים התנאי נשאת לאחר קודם שתנשא לאותו פלוני תצא ממנו ולא יחזיר עולמית וצריכה ממנו גט והולד ממנו ממזר: הגה נשאת אח\"כ לאותו פלוני שהתנה עמה הבעל הוי גט למפרע ואין הבנים ממזרים (טור אבל לא יחזירה עולמית משום דהוי כמחזיר גרושתו (טור בשם הרמ\"ה) נתקדשה לאחר תצא ולא תחזיר לו אלא אחר מיתת הבעל או שיתן לה גט אחר בלא תנאי (ג\"ז שם)",
+      "en": "",
+      "ref": "Shulchan Arukh, Even HaEzer 143:15"
+    },
+    {
+      "seif": 16,
+      "he": "אמר לה ע\"מ שלא תנשאי לפלוני עד זמן פלוני הרי זה גט ויש מי שאומר שלא תנשא עד שימות אותו פלוני ויש מי שאומר שמותרת לינשא מיד כיון שבידה לקיימו שא\"א לינשא לו אלא מדעתה. ואין תקנה להתירה  (לאותו פלוני)  אא\"כ יקדשנה המגרש ויחזור ויגרשנה סתם  (או שמת הבעל קודם שנשאת לשום אדם) (בב\"י בשם הרשב\"ץ)  ואם נשאת לאחר וגירשה אותו האחר סתם עדיין לא הותרה לאותו פלוני ואם נשאת לו נתבטל הגט ובניה אף מהשני ממזרים:",
+      "en": "",
+      "ref": "Shulchan Arukh, Even HaEzer 143:16"
+    },
+    {
+      "seif": 17,
+      "he": "זינתה עם אותו פלוני הולד כשר והגט כשר שלא התנה אלא על נשואין:",
+      "en": "",
+      "ref": "Shulchan Arukh, Even HaEzer 143:17"
+    },
+    {
+      "seif": 18,
+      "he": "אמר לה ע\"מ שתבעלי לפלוני נתקיים התנאי שנבעלה לו בין בזנות בין בנשואין ה\"ז גט ולכתחלה לא תבעל לו דהא אינה מגורשת עד שתבעל לו נמצאת תחילת ביאה באיסור:",
+      "en": "[If] he said to her [his wife], \"[I give you this get] on the condition that you have relations with so-and-so\": the condition is fulfilled whether by licentious relations or by marital relations, it is a proper get. Ideally, she should not have relations with him, for she is not [considered] divorced until she has relations with him, so the beginning of the relations become performed while forbidden.",
+      "ref": "Shulchan Arukh, Even HaEzer 143:18"
+    },
+    {
+      "seif": 19,
+      "he": "ע\"מ שלא תבעלי לפלוני הוי גט ולא תנשא עד שימות אותו פלוני דחיישינן שמא תבעל לו באונס:",
+      "en": "\"[I give you a get] on the condition that you do not have sex with so-and-so (unspecified male), there is a get. And she can not marry until this same so-and-so dies for fear that maybe she was raped by him.",
+      "ref": "Shulchan Arukh, Even HaEzer 143:19"
+    },
+    {
+      "seif": 20,
+      "he": "צריך שלא יתנה עליה תנאי שעומדת בו כל ימיה כגון ע\"מ שלא תאכלי בשר או שלא תשתי יין לעולם או כל ימי חייכי שאם התנה כך אין זה כריתות אבל אם אמר לה כל ימי חיי או כל ימי חיי פלוני או עד חמשים שנה ה\"ז גט ויש מי שכתב שאפי' הרחיב הזמן יותר מכדי חיי האדם כיון שהוא דבר פסוק הרי זה גט:",
+      "en": "He must not require of her any conditions which apply for her entire lifetime such as: \"on condition that you do not eat meat or drink wine\", or \"that you never drink wine\", or \"for all the days of your life\" as if he forced her to to accept these conditions this is not a dissolution of the marriage. However, if he told her, [that the condition applied]: \"all the days of my life\", or \"all the days of ploni's [a hypothetical third person's] life\", or \"for fifty years\", behold - this is a [valid] divorce. There are those who hold that even if he expands [the duration of the conditions] beyond the length of a persons life, because the time is [explicitly enumerated and] decided this is a [valid] divorce.",
+      "ref": "Shulchan Arukh, Even HaEzer 143:20"
+    },
+    {
+      "seif": 21,
+      "he": "אמר לה ע\"מ שלא תלכי לבית אביך עד זמן פלוני אע\"פ שהגט כשר והתנאי קיים אין לשום אדם להשתדל בגט שינתן בתנאי זה כי א\"א לעמוד על נפשה מלכת לבית אביה ונמצא גט בטל ובניה ממזרים ואם המגרש הוא מאותם שכופין להוציא ולא רצה לגרש אלא בתנאי זה כופין אותו לגרש בלא תנאי זה:",
+      "en": "[If] He said to her -[I will give you a divorce] \"on condition that you do not go to your father's house until a certain time\" - eve though the divorce is Kosher [valid] and the condition in full force - a person should not endeavor to facilitate a divorce given with this condition, this is because it is impossible to stand over her [to observe her at all times, to prevent her] to prevent her from going to her father's house. The divorce will then be nullified, her children will become mamzeirim [those conceived through illicit relationships]. If the divorcer [husband] is one of those whom we force to give a bill of divorce, and if the divorce only agreed to give the divorce with this condition, he is forced to give the divorce without this condition.",
+      "ref": "Shulchan Arukh, Even HaEzer 143:21"
+    },
+    {
+      "seif": 22,
+      "he": "אמר לה ע\"מ שלא תנשאי לפלוני ולא קבע זמן אינו גט שאין זה כריתות דומה לאומר ע\"מ שלא תשתי יין לעולם או כל ימי חייכי וי\"א שכיון שאין התנאי נמשך אלא כל ימי חייו הוי ליה כאומר ע\"מ שלא תשתי יין כל ימי חיי פלוני שהיא מגורשת ונקטינן כדברי שניהם להחמיר:",
+      "en": "If he says to her \"[This is your writ of divorce] on condition that you don't marry so-and-so,\" and he didn't specify a time [that this was binding], then this is not a [valid] get, because this is not [total] \"separation.\"  It is the equivalent to saying \"on condition that you never drink wine again,\" or \"[on condition that you] smile all of my days.\"  And there are those who say that since the stipulation lasts only the days of his life, it is as if he said \"on condition that you never drink wine all the days of the life of so-and-so,\" and she is divorced.  And we rule like both of these positions, depending on whichever one is more stringent.",
+      "ref": "Shulchan Arukh, Even HaEzer 143:22"
+    },
+    {
+      "seif": 23,
+      "he": "אמר לה ע\"מ שלא תשתי יין זה לעולם או שלא תעלי באילן זה או בכותל זה לעולם ונשפך היין ונקצץ האילן ונפל הכותל אין זה כריתות מאחר שלא הותרה לעולם במה שנאסרת וי\"א שכיון שאין התנאי נמשך אלא כל זמן שהיין קיים או האילן או הכותל קיימים ה\"ז כריתות ונקטינן כדברי שניהם להחמיר:",
+      "en": "[If] he says to her: \"On condition that you do not drink this wine ever\" or \"[on condition] that you do not ascend this tree\" or \"[on condition that you do not ascend] this wall ever,\" and the wine was spilled, the tree was cut down, or the wall fell, this is not considered separation [necessary to allow for divorce], since she never becomes permitted in what she was prohibited. And some say that since the condition only extends as long as the wine exists or the tree or wall exist, this is separation [necessary to allow for divorce] and we follow the words of both [opinions] towards stringency.",
+      "ref": "Shulchan Arukh, Even HaEzer 143:23"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ממשנה גיטין דף עה ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:1"
+        },
+        "2": {
+          "he": "משנה שם דף פא ע\"א וכב\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:2"
+        },
+        "3": {
+          "he": "ל' הרמב\"ם פ\"ח מה' גירושין ממשנה וגמרא שם דף עו ע\"ב וכחכמי' ושאין לחוש לדברי ר\"י בגיטין כלל כמ\"ש ה\"ה שם והכ\"מ שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:3"
+        },
+        "4": {
+          "he": "ממשנ' וגמרא שם דף עד עא וכר\"ה דקי\"ל כרבי דכל האומר על מנת כמעשיו דמי וכן כתב הרי\"ף והרא\"ש והתו' שם וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:4"
+        },
+        "5": {
+          "he": "כן הוא שם ברמב\"ם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:5"
+        },
+        "6": {
+          "he": "טור בבריי' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:6"
+        },
+        "7": {
+          "he": "שם בשם הרמ\"ה וזהו פי' מ\"ש הרמ\"ה יוציא וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:7"
+        },
+        "8": {
+          "he": "הר\"ן שם בפ\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:8"
+        },
+        "9": {
+          "he": "ה\"ה בפ\"ח בשם הרבה מן האחרוני' ושכ\"פ הרמב\"ן להחמיר והרשב\"א הניח הדבר בצ\"ע דסברי כר\"י דקי\"ל הלכה כר\"י ובן הלכה כר\"י הנשיא דס\"ל כוותיה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:9"
+        },
+        "10": {
+          "he": "ל' הרמב\"ם שם מברייתא שם וכת\"ק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:10"
+        },
+        "11": {
+          "he": "שם וביאר שם ה\"ה שאע\"פ שא\"א שיתקיים התנאי בשום פנים כיון שמת הבעל אין מחזיקי' הגט בבטל כדי שתוכל להתייבם עד שיהי' התנאי מבוטל בפועל וא\"א להיות מבוטל בפועל כיון שלא נקבע לו זמן לפיכך חולצת ולא מתייבמת",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:11"
+        },
+        "12": {
+          "he": "מימרא דרבא מסקנתו וכו' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:12"
+        },
+        "13": {
+          "he": "כתב ה\"ה שדעת רבינו כדעת רבינו האי שפוסק כלישנא בתרא שם דף עה ע\"א דבע\"כ הוי נתינה אלא שרוצה להחמיר בערוה חמורה וידוע ענין שפשוט בדבריו ז\"ל שלכתחלה לא תנשא ואם נשאת לא תצא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:13"
+        },
+        "14": {
+          "he": "כדפשט ר\"י שם דף עד ע\"ב ומשום דלצעורא קא מכוין והא לא ציערה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:14"
+        },
+        "15": {
+          "he": "הרשב\"א וכ\"נ מדברי הרמב\"ם ספ\"ח וכ\"כ שם ה\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:15"
+        },
+        "16": {
+          "he": "משנה שם כדמוקי לה שם בגמ' בחסורי מיחסרא וכת\"ק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:16"
+        },
+        "17": {
+          "he": "כמ\"ש בס\"ס דלעיל וכ\"כ הרמב\"ם שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:17"
+        },
+        "18": {
+          "he": "טור וכ\"כ הרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:18"
+        },
+        "19": {
+          "he": "שם בשם הרמ\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:19"
+        },
+        "20": {
+          "he": "מספקא לן אי בעי ל' יום מעת לעת או ל' יום כדאמרי אינשי דלא קפדי בהדי לילא דעבר לה מיומא קמא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:20"
+        },
+        "21": {
+          "he": "בריי' ומשנה שם דף עה ע\"ב וכדמפרש רב אשי שם וכ\"פ הרי\"ף וטור בשם הרמב\"ם בפ\"א ור\"י אע\"ג דאסיקנא רב אשי בקשיא כיון דלא אסיקנא בתיובתא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:21"
+        },
+        "22": {
+          "he": "הטור העתיק יום א'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:22"
+        },
+        "23": {
+          "he": "שם במשנה וכדמפרש שם בגמ' אליבא דרב אשי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:23"
+        },
+        "24": {
+          "he": "בשם הרמ\"ה וכרבא שם ושכ\"פ הרמב\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:24"
+        },
+        "25": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:25"
+        },
+        "26": {
+          "he": "שם במשנה וכת\"ק וכ\"כ הרי\"ף והרמב\"ם שם בפ\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:26"
+        },
+        "27": {
+          "he": "וכ\"כ הרא\"ש בשם ר\"ח שהם פוסקים בכל מקום ברשב\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:27"
+        },
+        "28": {
+          "he": "הר\"ן שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:28"
+        },
+        "29": {
+          "he": "טור בשם הרמ\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:29"
+        },
+        "30": {
+          "he": "ל' הרמב\"ם שם פ\"ח מברייתא שם דף עו ע\"א וכפי פירושו שם שמסר לה הגט בשעת התנאי הראשון כמ\"ש ה\"ה וכ' עוד והקרוב אלי דאיירי בדלא אמר על מנת דאי אמר על מנת אין בידו להוסיף על התנאי או לבטל (כמ\"ש לעיל סעיף ב') ואע\"פ שהברייתא היא בעל מנת סובר רבינו שהברייתא היא כמד\"א כל האומר על מנת לאו כמעכשיו דמי ואין הלכה כן ושיהא נפקא כן מדינא דברייתא לדידן במתנה באם ה\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:30"
+        },
+        "31": {
+          "he": "ג\"ז בריית' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:31"
+        },
+        "32": {
+          "he": "כפי פירושו בבריי' הנזכרת",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:32"
+        },
+        "33": {
+          "he": "מברייתא שם ד\"כ ע\"ב וכפי פירושו ורש\"י פי' דנמצאו האותיות פורחות באויר",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:33"
+        },
+        "34": {
+          "he": "דמתנ' על מנת להחזיר שמה מתנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:34"
+        },
+        "35": {
+          "he": "בריי' שם דפ\"ד ע\"א וכיהודה בן תימא דסת' לן תנא דמתני' בב\"מ דל\"ד ע\"א כוותי' וכ\"פ רב נחמן וכו' שם בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:35"
+        },
+        "36": {
+          "he": "כמימרא דרבא שם בגיטין דהלכתא כוותי' לגביה אביי חוץ מיע\"ל קג\"ם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:36"
+        },
+        "37": {
+          "he": "שם בגמרא דבהא מודה רבא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:37"
+        },
+        "38": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:38"
+        },
+        "39": {
+          "he": "כן הוא בטור וכפי' רש\"י שם שמותרת לינשא מיד ואין חוששין שמא תבעל לו ויבטל הגט וכמ\"ש הב\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:39"
+        },
+        "40": {
+          "he": "טור מהתוספת' כתבוה התו' שם ריש דפ\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:40"
+        },
+        "41": {
+          "he": "בריי' ומתקנ' דרבא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:41"
+        },
+        "42": {
+          "he": "טור וכ\"כ ה\"ה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:42"
+        },
+        "43": {
+          "he": "פי' אם אחר שגירשה זה נשאת לבעל התנאי ומת או גרשה אסור' לחזור לו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:43"
+        },
+        "44": {
+          "he": "כ' ה\"ה שם בפ\"ח לדעת הרמב\"ם שכל שנשאת לאחר תחלה עברה על תנאה ובטל הגט דע\"מ שתנשאי לפלוני תחלה משמע דאי לאו הכי הוה להו למתני בגמרא האי תקנתא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:44"
+        },
+        "45": {
+          "he": "וכ\"כ הראב\"ד שם בהשגו' וכ' ה\"ה שהרשב\"א הסכים לזה וצ\"ע שלא כ' כרמ\"ה וי\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:45"
+        },
+        "46": {
+          "he": "וכ\"כ הראב\"ד שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:46"
+        },
+        "47": {
+          "he": "משנ' שם דפ\"ב ע\"א וכדפשט רבינא שם וכמ\"ש הרי\"ף והרא\"ש שם דבע\"מ מודה ר\"א דהוה ככל תנאי דעלמא וכן דעת הרמב\"ם והרשב\"א ובשם הגאונים ושקבלת הגאונים תורה היא וכ\"נ מדברי התו' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:47"
+        },
+        "48": {
+          "he": "לדעת הרמב\"ם שם וכמ\"ש בסעי' כ\"ג ועיין במ\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:48"
+        },
+        "49": {
+          "he": "מדברי ר\"ת שכתב הרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:49"
+        },
+        "50": {
+          "he": "טור וכ\"כ התו' שם ריש ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:50"
+        },
+        "51": {
+          "he": "שם וכ\"כ בתשובת הרא\"ש כלל מ\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:51"
+        },
+        "52": {
+          "he": "שם ושם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:52"
+        },
+        "53": {
+          "he": "פשוט שם בגמ' דף פז עא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:53"
+        },
+        "54": {
+          "he": "בריי' שם דף פד ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:54"
+        },
+        "55": {
+          "he": "טור וכ\"כ הרשב\"א שם ה\"ה בשם המפרשים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:55"
+        },
+        "56": {
+          "he": "שם בשם הירוש'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:56"
+        },
+        "57": {
+          "he": "שם וכן פי' רש\"י שם בבריי' וכ\"כ התו' דף פב ריש ע\"ב וכ\"כ הרא\"ש בשם התו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:57"
+        },
+        "58": {
+          "he": "בריי' שם ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:58"
+        },
+        "59": {
+          "he": "מימרא דרבא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:59"
+        },
+        "60": {
+          "he": "ותנשא מיד טור וכ\"כ שם הרא\"ש וכ\"כ התוס' שם מדיבור הנ\"ל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:60"
+        },
+        "61": {
+          "he": "טור מהא דאמר רבא כל ימי חיי פלו' ה\"ז כריתות וכמ\"ש ה\"ה והר\"ן בשם הרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:61"
+        },
+        "62": {
+          "he": "בסה\"ת דינים שכתבם בסוף ספר חזה התנופ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:62"
+        },
+        "63": {
+          "he": "טור בשם הרמב\"ם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:63"
+        },
+        "64": {
+          "he": "שם וכ\"כ הרשב\"א והר\"ן ומפרשים אחרים כמ\"ש ה\"ה והב\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:64"
+        },
+        "65": {
+          "he": "וכבר כתב הכ\"מ שם בשם הרשב\"א שנראה שדעתו ז\"ל דהתם שאני מפני שהיא רשאה לשתות אחר מיתתו ונמצא שלא נאסרה ביין לעולם אבל זו נאסרה בנשואיו לעולם וכו' וכ\"כ הר\"ן שם.",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:65"
+        },
+        "66": {
+          "he": "פי' שאסורה להנשא בגט כזה ופסלה לכהונ' ואם קיבלה קידושין מאחר צריכ' גט ממנו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:66"
+        },
+        "67": {
+          "he": "שם בשם הרמב\"ם וכ' הב\"י וה\"ה שם פ\"ח שלא כתב כן אלא נלמד מתוך דבריו כמ\"ש הרשב\"א בתשובה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:67"
+        },
+        "68": {
+          "he": "שם בשם התו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 143:68"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "סעיף ב' נתבאר רובו בסוף סי' זה כי שם הביאו הטור (ואני הצגתיו על סדר הש\"ע):  לפיכך יש לבעל הגט זו הנוסח' ברמב\"ם שבידנו אבל הטור העתיק כאן לבטל התנאי וב' הגי' אמת:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:1"
+        },
+        "2": {
+          "he": "ואם ניסת תצא זה דעת הפוסקים כיון שבאיסור א\"א בא עליה שהרי עדיין לא חלו הגירושין אסורה עליו עולמית אפילו אחד שיחולו הגירושין שהרי אסורה עליו מכח אחד לבועל וא' לבעל אבל ברמב\"ם כתב בזה אם ניסת לא תצא ותמהו עליו ראשונים ואחרונים והטור העתיק דבריו כאלו הם מתוקנים ולע\"ד נראה ליישב דמיירי שניסת בשוגג שהיתה סבורה כמו שיש היתר באמת בתנאי ע\"מ ה\"נ יש היתר בלא ע\"מ ועי\"ז לא נאסרה על הבועל אח\"כ דגם על הבעל לא נאסרה בזינתה בשוגג כ\"ה אע\"ג דמהרי\"ק שורש קס\"ח אוסר בזינתה שסברה שמותר לזנות ורמ\"א מביאו בסימן קע\"ח מ\"מ ל\"ד לכאן דהתם האיסור משום שהיא מתכונה לזנות עכ\"פ כמ\"ש מהרי\"ק שם מה שאין כן כאן שנתכוונה לנשא בהיתר אלא שטעתה בעיקר הדין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:2"
+        },
+        "3": {
+          "he": "כשיתקיים התנאי תהיה מגורשת משעת נתינת הגט הטור כתב כיצד אמד לה ה\"ז גיטך ע\"מ שתתני לי ר' זוז לאחר ל' יום חל הגט מיד כו' וקשה למה לו להזכיר כאן לאחר ל' יום הא בסתמ' נמי דינא הכי דכשאו' ע\"מ שתתן לי ר' זוז חל הגט מיד לכשתתן לו מגורשת למפרע ובגמ' איתא באמת הכי בסתם ונראה דרבות' קמ\"ל דלא מבעי' בסתום דיש לה רשות בכל פעם שתרצה ליתן ולגמור ענין הגט פשיט' דמועיל למפרע אלא אפי' כל אחד ל' יום דתוך ל' אין לה יכולת לגמור הגט בנתינתה דהוא קפיד שלא תתן לו תוך ל' יום אפ\"ה מועיל הנתינה לאחד ל' יום למפרע:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:3"
+        },
+        "4": {
+          "he": "לפיכך אינו יכול לבטל הגט כו'  גם כאן העתיק הטור התנאי קשה ממ\"ש הרמב\"ם בפ\"ח הלכה כ\"ג ה\"ז גיטך ע\"מ שתתן לי כלי פלוני ואבד אעפ\"י שנתנה לו אלף זוז בדמיו אינו גט עד שתתן אותו כלי עצמו או עד שיתבטל הרי דאפילו באומר ע\"מ יכול לבטל התנאי ואפי' לגירסא שגורס כאן לבטל הגט מ\"מ גם התנאי אינו יכול לבטל שהרי כתב אחר כך ולא הוסיף על תנאי א\"כ מכ\"ש שאין יכול לבטלו לגמרי וה' המגיד כתב שם וז\"ל עד שיבטל התנאי פי' שיכול לומר ה\"ז גיטך בלא שום תנאי וא\"צ לחזור וליטלו ממנה ולתנו לה ואינו דומה לדין הנזכר למעלה הרי את מותר' לכל אדם חוץ מפלו' שצריך ליטלו ממנה דשאני התם הואיל וקנאתו לפסול בו מן הכהונה וא\"א שלא תפסול בו ומכאן תלמוד שדין הנזכר למעלה באומר מחולין לך שאינה מגורש' שאם אמר להוי גיטא בלא שום תנאי מגורש' כ\"כ וכך הם דברי רבינו עכ\"ל הנה לדבריו ודאי קשיא עדיין מה שזכרנו דהא כתב הרמב\"ם כאן דאין יכול לבטל התנאי באומר ע\"מ ונ\"ל דכשתבטל התנאי לחוד ולא הוסיף לומר הרי זה גיטך בזה אין לו כח לבטל כשאומר ע\"מ אבל אם אמר באותו פעם ה\"ז גיטך בלי שום תנאי שפיר מועיל כיון דהוה כאלו נותן הגט מחדש ונעקרו דברו הראשונים ואע\"ג דאין לו רשו' לבטל הגט מ\"מ יש לו זכות לתנו באופן אחר ממ\"ש מעיקרא ומ\"ה כתב שפיר כאן בש\"ע סעיף ה' אבל אם אמר לה להוי גיטא בלא שום תנאי ומו\"ח ז\"ל הוקשה לו קושיא שזכרנו ולא ירד לחלק כמו שזכרנו ע\"כ הוצרך להכנס לתירוצים דחוקים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:4"
+        },
+        "5": {
+          "he": "וי\"א דאפילו בתנאי כולי כ\"כ הטור ס\"ס זה בשם הרא\"ש וז\"ל אעפ\"י שהתנאי לטובתה ולא היתה מקבל' הגט אלא בתנאי ואינה רוצה בביטולו אפ\"ה יכול לבטלו דכיון שבא הגט לידה מגורש' ולא בעינן דעתה עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:5"
+        },
+        "6": {
+          "he": "וי\"א דאפילו בתנאי דמעכשיו יכול לבטל תנאו כולי  בטור ס\"ס זה מביא תשוב' הרא\"ש באחד שנתן גט מעכשיו אם לא יבא תוך שני שנים שיכול לבטל התנאי ותינשא מיד כולי וכתב ה\"ה בכל תנאי שמתנה בשעה שנותן הגט ומבטלו אעפ\"י שהתנאי לטובתה ולא היתה מקבל' הגט אלא בתנאי אפ\"ה יכול לבטלו דכיון שבא הגט לידה מגורש' דלא בעינן דעתה וכן כתב העיטור עכ\"ל וקשה שזה סותר מ\"ש תחלה קודם לזה בשם הרמב\"ם והסכים עמו דבאומר ע\"מ אינו יכול לבטל התנאי דלא חלק עליו אלא לענין שלא תינשא מיד וזה אפילו שלא במקום צער דהרמב\"ם כתב שם תחלה כשיתקיים התנאי כולי וזהו פשוט בכל התנאי וע\"ז אמר בע\"מ אינו יכול לבטל והאיך כתב אחר כך סמוך לזה היפך מזה והבית יוסף כ' ע\"ז דלא נתבאר כל הצורך בדברי רבינו הטור ביאור דברי הרא\"ש דדוקא בכה\"ג שלא היתה כוונתו לצערה אדרבה לטובתה נתכוון שאם יבא תוך הזמן שישוב אליה כו' אבל בתנאי שהוא לצער' ודאי אינו יכול לבטלו כדלעיל והוא תמוה דהא הטור כתב בשם הרא\"ש אע\"פ שהוא לטובתה כו' דמשמע כ\"ש אם הוא שלא לטובתה דיכול לבטל וזה אינו דלצעור' פשיטא שאינו יכול לבטל כדלעיל גבי אצטלא ונראה דדברי תשובה זו לא בעי לחלק בין לצעורה או לטובתה שזה תלמוד ערוך אלא מיירי בכל תנאי שמתנה ותלוי בו כי ההיא דאם לא יבא תוך יב\"ח יכול הבעל לומר הנה בודאי לא אבוא ואפילו אבא הרי הוא כאלו לא בא אלא כיון שבידו הוא שלא יבוא ודומה למ\"ש הרמב\"ן הביאו ב\"י בשם הר\"ן באומר ע\"מ שתתני לי ר' זוז והיא אומרת שלא תקיים התנאי ואף אם אקיים הרי הוא כאלו לא אקיים כי דעתה שלא יהיה וע\"כ התנאי הוה כאלו לא נתקיים והגט בטל וה\"ה נמי באומר שיבטל התנאי והגט יהיה גט גמור מיד דשומעין לו ואין לחלק בין התם שהוא לבטל הגט ובין הך דלהוי גט מיד דחד טעמא הוא וכן מבואר בר\"ן שכתב על הרמב\"ן בזה ואני תמה אם איתא שהיא יכולה לבטל הגט למה אסיקנא גבי מחולין לך דאינה מגורש' נהי דמעיקרא לצעורה מכוין למה לא יהיה בידו כאלו נתקיים כשם שהיא אומר' נתקיים כאלו לא נתקיים כולי ש\"מ דהני תרי שוין ע\"כ כתב הרא\"ש דמידי דבידו הוא לקיים מה שהתנה עמה יוכל לבטל אותו התנאי וכאלו לא נתקיים כגון שאומר שאם לא אעשה דבר פלוני יהיה גט יוכל אחר כך לומר איני רוצה לעשותו לעולם ממילא הגט קיים מיד וזה אינו בכלל לצעורה דלצעורה לא שייך אלא במה דתלוי בדידה וע\"כ אמר הרא\"ש וכן בכל תנאי שהוא מתנה יש לומר שהוא מתנה על עצמו כמ\"ש ברישא אם לא אבוא כו' וה\"ה בכל מידי דתליא בדידיה לטובתו דפשיטא דיכול לבטלו אלא אפילו אם מה שתלוי בדידיה הוא לטובתה מ\"מ יכול הוא לבטלו ולזה הביא גם כן דעת בעל העיטור דמיירי בכה\"ג בתנאי התלוי בו והרמב\"ם שכת' דבאומר ע\"מ אינו יכול לבטל התנאי ולא להוסיף עליו היינו בתנאי שתלוי בדידה וזה מבואר בלשונו שם שכתב מקיימ' התנאי אחר מותו ש\"מ דבתנאי התלוי בדידה מיירי ומה דכתב שם בתנאי דע\"מ שתנשא לכתחלה אף שלא נתקיים התנאי (אי) ס\"ד דתליא בתנאי בדידיה היאך תנא שמא הוא לא יקיים התנאי אלא פשוט דמיירי דתלוי בדידה וע\"ז אמר דאם לא אמר ע\"מ ולא מעכשיו יכול לבטל אפילו מידי דהוא לצעורה ואם אמר על מנת אינו יכול לבטל ולפ\"ז אין פלוגתא בין הרמב\"ם להרא\"ש כלל ושפיר הביא הטור שניהם סמוכים זה לזה ולא כרמ\"א שעושה מחלוק' אליביה דהטור השווה דעתו להרא\"ש וה' המגיד כתב בפ\"ח דכל הפוסקים ס\"ל כרמב\"ם זולת העיטור כו'. כל התנאים שנזכרו בסי' זה דהוה גט על תנאי היינו באומר מעכשיו או ע\"מ אבל אם אמר חוץ מבואר בסי' קל\"ז דינו דהוה שיור בגט:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:6"
+        },
+        "7": {
+          "he": "וחולצת או מתייבמת הטור כ' בזה והרמב\"ם כתב דהוה ספק דחולצת ולא מתייבמת ולא נהירא עכ\"ל וכתב ב\"י ונראה שהוא סובר כדעת רמב\"ם שהיא ספק מגורש' ומ\"ה כ' דלא נהירא וכפי האמת גם לרמב\"ם אינו גט ולא כ' ולא תנשא לזר עד שתחלץ אלא מפני שלא קבע לה זמן כו' עכ\"ל פי' דבריו שהוא פי' דברי הטור שהכין ברמב\"ם דהוה ספק מחמת הלשון שאמר ע\"מ שתתן לי אי משמע גם ליורשי או דוקא לי ויש פלוגתא בזה בגמ' בין ת\"ק לרשב\"ג וע\"ז כ' הטור ולא נהירא דבודאי הלכה כת\"ק דלי ולא ליורשי וע\"ז כתב ב\"י דהרמב\"ם לא נסתפק בזה אלא דנסתפק במאי דלא קבע זמן וכמ\"ש המ\"מ שנעתיק בסמוך ממילא לפ\"ז בקבע זמן אין ספק דמתייבמ' דודאי לי ולא ליורשי קאמר ומו\"ח ז\"ל לא עיין שפיר בדברי ב\"י ולפיכך היו קשים מאד בעיניו ובסמוך אח\"ז נזכיר בס\"ד דהטור לא נתכוין לזה כפי מה שהבין בו ב\"י:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:7"
+        },
+        "8": {
+          "he": "ולא קבע לה זמן כל סעיף זה דברי הרמב\"ם ופירש בו המ\"מ וז\"ל וחלק הוא בין אם אמר ר' זוז תוך ל' לאומר סתם ר' זוז דבקבע לה זמן כיון שעבר הזמן ולא נתנה אינה מגורשת ובמקום יבם חולצת ואינה מתייבמ' ואם לא קבע לה זמן לעולם אין הגט בטל אע\"ג שמת הוא וא\"א לקיימו ובמקום יבם חולצת ולא מתייבמת ומצאתי סברת רבינו ממ\"ש הרי זה גיטך מעכשיו אם לא באתי מכאן ועד יב\"ח ומת בתוך הזמן שאע\"פ שא\"א שיבוא והיא מגורשת לא תנשא במקום יבם עד אחר הזמן כשיתקיים התנאי וזה הדין בעיא דלא איפשטא בגמ' אם היא מותרת תכף כשמת או לאחר הזמן והולכין בו להחמיר כו' מתבאר מזה אע\"פ שנתבטל התנאי דכיון שמת ודאי לא יבא אעפ\"כ אינה מותרת ואין מחזיקין אותה בגרושה עד שיהיה מקוים בבעל ואף כאן אע\"פ שא\"א שיתקיים התנאי כיון שמת הבעל אין מחזיקין הגט בבטל עד שיהיה התנאי מבוטל בפועל וא\"א להיות מבוטל בפועל כיון שלא קבע לו זמן חולצת ולא מתייבמת וזה דקדוק נפלא מודה על שכ' רבינו זה מה שנראה לי בדעתו ז\"ל עכ\"ל פי' דל\"ש לומר לא נתקיים אלא במידי דתלוי ברצון האשה והבעל דהיינו בזמן קבוע לעשות מעשה הנתינה בזמן קצוב והיא מפסדת באותה שעה שאינה נותנו באותו זמן משא\"כ כאן שאין זמן קבוע שתאמר שלא קיימה התנאי והטור השיג עליו ב' פעמים בסימן זה הא' מ\"ש כאן על דברי הרמב\"ם ולא נהירא ואח\"כ מביא דברי הרמב\"ם במ\"ש בסעיף זה וכתב עליו ואיני מבין דבריו כיון שאינה יכולה לקיים התנאי א\"כ למה לא יתבטל הגט עכ\"ל ונ\"ל דהטור ס\"ל דל\"ד כאן לההיא דאם לא באתי מכאן עד יב\"ח דהתם כיון דעכ\"פ זכר בתנאי זמן יב\"ח יש לנו לומר שאותו דבר הוא עיקר וע\"כ יש לה להמתין עד שמגיע אותו זמן משא\"כ כאן בלא קבע זמן רק שתתן לו מאתים זוז וכיון שא\"א ליתן לו שהרי מת על מה ימתינו עוד וזהו חילוק ברור. ובמה שהשיג הטור השג' על הרמב\"ם והם ענין אחד ובשנוי לשון דתחלה אמר סתם ולא נהירא ואח\"כ כתב ואיני מבין דבריו וזכר הקושיא בטעם מה שקשה דהיינו דהוא הקשה למה לא יתבטל הגט ודאי צריך ביאור לדעת רבינו הטור ונראה דתחלה הקשה על הרמב\"ם דמיירי שגירש ע\"מ שתתן ר' זוז אחר ל' יום ולא סיים אימת לאחר ל' יום ע\"כ חשב ליה הרמב\"ם לאין זמנו קבוע וע\"כ אין כאן ביטול הגט מחמת שא\"א לקיים התנאי כדלעיל לדעת הרמב\"ם ע\"ז אמר הטור ולא נהירא אפי' לפי סברתו דכל שאין זמן קצוב אין מבטל הגט מ\"מ אין כאן לומר כן דהא יש כאן זמן קצוב דהא איתא לקמן סי' קמ\"ד שיש שיעור לאומ' לאחר ל' יום דהיינו אחר הרגל או אחר ל' יום וא\"כ הוה זמן קצוב ואח\"כ הביא דעת הרמב\"ם אפי' במקום דהוה בבירור לא קבע זמן לנתינתו דלמה לא יהא בטל הגט כיון שבודאי לא יוכל להתקיים שהרי מה זמן שייך בזה וע\"ז אמר רבינו הטור ואיני מבין כו' דמה אכפת לן באין זמן קבוע כיון דעכ\"פ א\"א לקיימו תיתי מהי תיתי עכ\"פ הגט בטל וירא' דגם הרמב\"ם נסתפק בזה אם לא נימא כסברת הטור ע\"כ עושה זה לספק ואינה מתייבמ' ובפריש' נזדקר טעות לפניו שהי' סבור דמיירי כאן שיש לה ליתן תוך ל' יום והאמת דקאי הכל אמ\"ש שלא תתן עד אחר ל' יום וכאשר כתבנו נכון דעת הטור ולשונו בלי פקפוק דלא כמתמיהי' על הטור והשאירו בצ\"ע:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:8"
+        },
+        "9": {
+          "he": "בע\"כ ה\"ז גט פסול כו'  היינו מדרבנן דד\"ת הוא גט גמור אלא שפסול מדרבנן בנתינה בע\"כ והביא ב\"י כאן תשובה מרבו מהר\"י בי רב למ\"ד נתינה בע\"כ הוה נתינה אלא שלא קבלה אין חשש בזה שאין חיוב על הנותן אלא ליתן והוכיח זה מדברי התו' דף ע\"ה פ' מי שאחזו ד\"ה מכלל כו'. במ\"ש ב\"י וחכם אחד השיב על ראייתו שאינה ראיה והביא ראיה אחרת וב\"י עצמו הביא ראיה שלישי' ותמהתי למה לא הביא ראיה פשוטית מדברי התו' הנ\"ל במה שהקשו למ\"ד לא הוה נתינה א\"כ למה היה נטמן בראשונה כו' ואי ס\"ד דעכ\"פ צריך קבלה למ\"ד הוה נתינה אע\"פ שהוא בע\"כ למה לא הקשו התוס' גם למ\"ד הוה נתינה למה היה נטמן היה לו לסרב מלקבל אלא ודאי דא\"צ קבלה כלל להך מ\"ד וזו היא ראיה ברורה שאין עליה תשובה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:9"
+        },
+        "10": {
+          "he": "אותו כלי או אותו בגד כו'  דלצעורה קא מכוון והא לא מצטערה ע\"כ הגט בטל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:10"
+        },
+        "11": {
+          "he": "שאם הוא מתרצה כו'  זה דעת הרא\"ש וז\"ל ויראה דמדעתו הוה גט ואע\"ג דמחולין לך לא הוה גיטא שאני התם דלא ציערה אבל הבא דיהיב דמי וציערה על גוף הטלית יכול למחול עכ\"ל ורש\"ל הקשה ע\"ז א\"כ כי פליגי רבנן ורשב\"ג באצטלית דלרבנן אצטלית דוקא קאמר ולא בדמיה היינו שאינם מתרצ' א\"כ קשה תפשוט מדקי\"ל כרבנן דנתינה בע\"כ לא הוה נתינה והרשב\"א פירוש להדיא דאפי' מתרצה בקבלת דמים לא מיקיים תנאה ולא הוה גט עכ\"ל רש\"ל. ול\"נ דלק\"מ דיש לנו לומר אף רבנן ס\"ל בעלמא בע\"כ הוה נתינה משא\"כ כאן דמן הדין חייבת ליתן אצטלית כאשר התנה עם הבעל רק באם הוא מתרצה לעשות לפנים משורת הדין וליקח מעות אז הוה עכ\"פ גט ואם אינו מרוצה אין שייך כאן נתינה בע\"כ כיון שהוא נגד הדין ע\"כ ס\"ל לרבנן לא הוה גט ולרשב\"ג הוא הדין כן ליקח מעות וקי\"ל כרבנן זה נ\"ל פשוט ותמהני על הרב רש\"ל שלא הרגיש בזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:11"
+        },
+        "12": {
+          "he": "(עד ל' יום בסופו) עד ל' יום שיהיו שלמים קאמר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:12"
+        },
+        "13": {
+          "he": "ה\"ז ספק מגורשת דמספקא לן אי בעי מעת לעת או ל' יום כדאמרי אנשי דלא קפדי בההוא לילא דעבר לה מיומא קמא כ\"כ הטור בשם הרמ\"ך בטור העתיק דברי הרמב\"ם אם מת בתוך ל' כו' לא קבע זמן כו' וכ' שם ולא בטל התנאי והוא ט\"ס וצ\"ל הגט וכ\"ה ברמב\"ם והדרישה הקשה מהא דכתב הטור בסמוך בשם רמב\"ם ורי\"ף בע\"מ שתשמש את אבא או תניק בני שני שנים ומת בתוך הזמן שאין העכבה מצדה אפ\"ה ס\"ל לחכמים דאינו גט דמשמע דאפי' מתייבמת ואת\"ל דשם מיירי כשבבר עברו ב' שנים מ\"מ ק' הא לא קבע זמן לשימוש האב ודומה ללא קבע זמן ומת דס\"ל לרמב\"ם דהוה ספק מגורשת עכ\"ל ואשתמיטתיה דברי התו' פ' מי שאחזו ד\"ה כלל אמר רשב\"ג אלחנן מ\"ש מת הבן או האב דהוה גט ממחולין לך דמאתיים זוז דלא הוה גט אפי' לרשב\"ג וי\"ל דבאמת האב או הבן ודאי להרווחה מכוון וכיון שמת ולא צריך הוה כמו נתקיים התנאי אבל התם שתתני לי ר' זוז בדעתו שיקבלם ולבסוף שאינו רוצה לקבלם לא נתקיים התנאי עכ\"ל א\"כ לק\"מ גם מההיא דלא קבע זמן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:13"
+        },
+        "14": {
+          "he": "כליל שבת ויומו  פי' לאפוקי אם התחילה באמצע היום או בתחלת היום ונקט ליל שבת כו' דלשבת בעי דקדוק בתחלה בשקיעת החמה וכן ביציאתו ותמהני מאד על מ\"ש כאן דבר זה בשם י\"א דבאמת אין כאן פלוגתא כלל דזה שכ' כאן הם דברי הרמ\"ה בטור דזכ' שם בהדיא שפירש הבעל יום אחד אז הוה דוקא כן לכ\"ע וי\"א קמא דס\"ל לאו דוקא היינו דברי הר\"ן ומיירי באמר סתם וכ\"כ ב\"י בהדיא וז\"ל ואפי' לדעת הרמ\"ה כו' התם מיירי שפירש יום אחד ודבר פשוט הוא דליכא לשום דעה דסגי בשעה אחת ואומר בפי' יום אחד ופלוגתא שנזכר כאן ליתא כלל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:14"
+        },
+        "15": {
+          "he": "לא בטלו דבריו האחרונים כו'  הטעם ברש\"י דלא בא להוסיף מדלא אמר שתתנו ר' זוז ונוסף על תנאי הראשון ולעקור נמי לא בא מדלא בטל דבריו הראשונים אלא ה\"ק או תנאי הראשון או השני ונתן לה הברירה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:15"
+        },
+        "16": {
+          "he": "ואין א' מהראשונים כו'  פי' שאין כאן עדות שהיה שם תנאי אלא מהראשונים אומר בפני עוד אחד נעשה תנאי פלוני וא' מהאחרונים אומר כן על תנאי האחרון אין זה כלו' להחזיר תנאי בגט זה והוה כאלו אין עדות כלל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:16"
+        },
+        "17": {
+          "he": "כבר ביטלה התנאי הא' נראה הטעם דכאן אין שייכו' לברירה בין נתינה ר' או ש' וכתב הטור בשם הרמ\"ה ה\"ה נמי איפכא שאמר תחלה ש' ואח\"כ ר' והקשה ב\"י ב' כתובות א' של מאתיים וא' של שלש מאות דה\"ק לה אי גביאת מזמן ראשון גבי מאתים אי אי מזמן שני גבי ש' א\"כ ה\"נ יש לנו לומר כן שאין כאן ביטול כלל אלא אחילוק זמן הנתינה והיינו דכל שאינו אומר זמן קבוע יש בידה לאחר ולעכב הזמן כפי שתרצה והגט תלוי ברצונה אימת שתרצה ליתן וא\"כ ה\"א דה\"ק מתחלה אמר ש' והיינו כל זמן שתרצה ליתן אפי' לזמן מרובה אלא שאם לא תעכב ותתן תכף לא תתן רק ר' וממילא אם היתה מעכבת אין די אלא בש' כתנאי הראשון אבל איפכא שאמר תחלה ר' והיינו אפי' תעכב לא תתן רק ר' ואין שייך אח\"כ לו' אם תקדים תתן ש' אלא ודאי דעקריה לתנאה קמא והחמיר עליה משא\"כ באומר תחלה ש' שפיר י\"ל דאין כאן עקירה אלא בחילוק הזמנים תליא מלתא קמ\"ל דגם בזה אמרינן דהוה עקירה ואפי' מעכבת הרבה א\"צ ליתן כי אם ר' כנ\"ל נכון וברור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:17"
+        },
+        "18": {
+          "he": "ה\"ז מגורשת ותתן בגמרא פרק מי שאחזו (גיטין דף ע\"ה) איתא בהאי מלתא בע\"מ שתחזור לי הנייר הגט כשר משום דאין כאן תנאי כיון דהוה תנאי ומעשה בדבר אחד פי' התו' שהתנאי סותר דאין הגט אלא אחר שיתקיים התנאי ואז אין הגט בידה עכ\"ל רב אשי אמר הא מני רבי דאמר כל האומר ע\"מ כאומר מעכשיו דמי פירש\"י ואשתכח דבשעת גירושין נקיטא לגט ולאחר זמן היא מחזרת (ומתנה ע\"מ להחזיר שמה מתנה) וא\"כ הא דאמרי' כאן דהתנאי קודם שתתן הנייר לבעל אחר כך היינו ודאי כרב אשי וא\"כ כל שאומר ע\"מ או מעכשיו אין כאן תנאי (קודם למעשה) צ\"ל (ומעשה בדבר א') והקשה מו\"ח ז\"ל דהא כתב הטור סי' ל\"ח בשם הרא\"ש כל דיני תנאי אפי' באומר ע\"מ וחשיב נמי שלא יהא תנאי ומעשה בדבר אחד וכ\"ה ברא\"ש פ' מי שאחזו והשאיר זה בצ\"ע ונראה דודאי אם נפרש הך תנאי ומעשה בענין א' דוקא אם הם סותרי' כמ\"ש התו' וראי כל שאומר ע\"מ שוב אין חשש מחמת תנאי ומעשה כאחד דשוב לא יסתרו אהדדי וא\"כ א\"צ להזכיר ד\"ז שלא יהיו בענין א' כיון שנזכר ע\"מ אלא די\"ל דהרא\"ש והטור פירשו לאו משום דסתרי אהדדי אלא בכל גווני לא יהיה בענין אחד א\"כ אפילו באומר ע\"מ דאז אינם בענין אחד בתנאי דתחזיר לי אבל מ\"מ יש למצוא תנאי ומעשה בענין א' שלא בתנאי זה אלא במידי אחריתא כגון שאומר הא לך גיטך ע\"מ שתקבלהו מעומד וכיוצא בזה וזה אמרו אף שאמר ע\"מ מ\"מ צריך להזהר משאר תנאי ומעשה בענין אחד. ובאמת נ\"ל דגם התו' ס\"ל דפוסל התנאי כשהוא עם המעשה בדבר א' אפי' אם אין סותרים זא\"ז דודאי כן הוא דהא ילפינן לה מבני גד ובני ראובן מה להלן מעשה בדבר אחד שיכנסו לארץ ותנאי בדבר אחר שיתן להם מעבר לירדן אף כל תנאי כך וזה אינו תלוי בסתירות אחד לחברו והתו' לא כ\"כ אלא מטעם דהיה קשה להם הא כאן הוה גט משנותן אותו הבעל והחזר' הוה אפי' לזמן מרובה כשתרצה להחזיר אותו ולא הוה בענין אחד אלא לענין לגמרי דעכשיו אנו קיימין דע\"מ לא הוי כמעכשיו לזה אמרו שאלו דברים תלוים זה (בזה) דסותרים אהדדי דהחזרה תעשה ב' דברים א' גמר הגירושין והשני קיום התנאי שהם שני דברים (דסתרי הדדי) וכתבו ע\"ש דההיא סוגיא דאתרוג דס\"ל דע\"מ כמעכשיו ולא כרב אדא בר אהבה דהכא וכ\"כ התו' בפ' י\"נ גבי אתרוג שיש מחלוקת בין רבא דהתם לרב אדא דכאן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:18"
+        },
+        "19": {
+          "he": "אמרו חכמים לא תינשא לו דלאחר פשיטא דאסורה שהרי לא נתקיים התנאי ואפילו לו לא תנשא שמא יאמרו כו':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:19"
+        },
+        "20": {
+          "he": "עד זמן פלוני דאלו בלא זמן אין זה כריתות דהא אגודא ביה לעולם כמ\"ש סעיף כ\"ב:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:20"
+        },
+        "21": {
+          "he": "ואין תקנה להתירה אותו פלוני הקשה מו\"ח ז\"ל מ\"ש ממ\"ש הטור סוף סי' זה דאפי' בע\"מ ומעכשיו אם לא ישא עד זמן פלו' יכול לבטל התנאי ומותרת לינשא לאלתר ותירץ דכאן לצעורי קא מכוין אינו יכול לבטל התנאי כדלעיל גבי מחולין לך בסעיף ה' אבל לקמן בלא מכוין לצעורי כגון ה\"ז גיטך מעכשיו אם לא אבא תוך ב' שנים דלטובתה נתכוין ע\"כ ולא נראה דלא מקרי צער לה אלא מה שיהיה אחר גט מה שלא היה לה בלא גט כגון שתתן כך וכך משא\"כ בשלא תנשאי לפלוני מה צער נתחדש לה ע\"י הגט הלא בלא גט היתה אסור' על כל אדם וקושיא הנ\"ל נראה דלא ק\"מ דכאן שנאסרה בשעת הגט על אותו פלוני נמצא דהוה עליו כא\"א גמורה כאלו לא קבלה גט כלל ואותו איסור היאך יכול להתירו בביטול שלו והיכן הלך איסור א\"א בלא גט שני כמ\"ש אח\"כ בשלמא כשאר תנאי בו שייכת איסור א\"א שהגט הוא מתירה לכל דבר רק שיש לו איזה תנאי בדבר אחר עמה זה יוכל לבטל בדבור פיו כנ\"ל פשוט:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:21"
+        },
+        "22": {
+          "he": "אא\"כ יקדשנ' המגרש כו'  אבל לא סגי תיכף גט שני דהגט היה גט גמור אלא שהטיל תנאי שלא תינשא לפלוני והרי קיימה התנאי במה שלא עברה עליו משא\"כ בסעי' הקודם לזה שכתב שם או שיתן לה גט אחר שם סגי שפיר בגט אחר דהיה תנאי בקום עשה דהיינו שתינשא לפלוני וכ\"ז שלא ניסת הוה כלא נתגרשה לגמרי ע\"כ מהני גט אחר בלא תנאי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:22"
+        },
+        "23": {
+          "he": "שמא תבעל לו באונס קשה הא לעיל סעי' י\"ג אין חוששין שמא תבעל לאבא והיינו משום איסור ערוה ה\"נ לגבי אותו הנאסרה עליו היאך יבעול באונס הא יש אצלו אשת איש ויש לומר שיבעלנ' אחר מיתת המגרש ואע\"ג דע\"י זה יגרום שבעלה האחרון עבר על א\"א למפרע לא איכפת ליה כזה כ' בטור ומטעם זה ע\"מ שתתני לי ר' זוז לא תינשא עד שתתן שמא לא תתן שלא יהיה לה ממה ליתן עד כאן לשונו ולא העתיק זה בש\"ע לפי שהטור כתב ר\"ס זה בשם רמב\"ם דכתכ שיכולה להינשא מיד ולא חיישינן שמא לא יתן כיון שהיה תנאי במעכשיו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 143:23"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "על תנאי.  עבה\"ט בשם מהרי\"ט. ושם הביא ראי' לזה מתוספתא דקידושין (שהובא בש\"ע לעיל סי' כ\"ט ס\"ח ובח\"מ רכ\"א) ע\"ש. ולכאורה אינו מובן מאי ראי' מדיני קדושין ודיני ממונות לענין גיטין דקיי\"ל גילוי דעתא בגיטא לאו מלתא היא כדאי' בפ' השולח וראוי לומר כאן דאף אם האשה תבעה להתגרש מ\"מ כל שלא הזכיר התנאי בעת נתינת הגט הוא גט מוחלט בלי תנאי. ומצאתי סברא זו בת' הרדב\"ז ח\"א סי' פ\"ג דשם נשאל במעשה בראובן שהי' הולך למה\"י ואמרו בו שיניח גט לאשתו ונתרצה אבל אמר שיהי' הגט לג' שנים והפצירו בו קרובים שיהי' הגט לשנה ועל הסכמה זו הלכו לסופר וכתב הגט סתם ונתנו לה סתם ולא הזכירו התנאי כלל כי הבעל סמך על מה שהסכימו עמו הפשרנים שהוא לזמן הנז' ובא מעשה לפני חכמי צפת ונחלקו קצתם אמרו שהיא מותרת מיד וקצתם אמרו שהתנאי קיים ועל דעת כן גירש. והוא ז\"ל השיב דאשה זו מותרת מיד ואינה צריכה להמתין כלל דקיי\"ל גילוי דעתא בגיטא לאו כלום הוא ואע\"פ שזה המגרש גלה בדעתו שאינו רוצה לגרש אלא על תנאי לאו כלום הוא דדילמא חזר בו וגירש לחלוטין בלי תנאי דגרסי' בפ' השולח גידל בר רעילאי כו' וק\"ו הדברים אי לא מהני גלויי לבטל את השליח כ\"ש דלא מהני לבטל מה שעשה המגרש בעצמו שגירש סתם בלי תנאי דאם איתא דלבו על תנאי הי' לו להזכיר בשעה שנתן הגט כו' היש לך גלוי דעתא טפי ממי שהזכיר תנאו אלא שלא כפל אותו או שהקדים הלאו להן ואמרינן דתנאו בטל והמעשה קיים ומגורשת מיד בלי תנאי (אין זה מוסכם כמבואר. לעיל סי' ל\"ח ס\"ד והוא ז\"ל בעצמו בתשובה אחרת שיובא לקמן חשש מאד לסברא זו וגזר אומר דאם לא קיימה תנאה אפילו אם נשאת תצא) וכ\"ש בנ\"ד. ונ\"ל ראי' ממה ששנינ' בתוספתא פ\"ד כו' כ\"ש בנ\"ד שלא אמר לסופר כלום אלא לפשרנים אמר התנאי והם לא היו לא סופרים ולא שלוחים דפשיטא כיון שנכתב הגט סתם ונתנו לה סתם ולא הזכירו התנאי שהיא מגורשת מיד: עוד ראי' דע\"כ לא פליגי רבוותא (ע' בסי' קמ\"ז ס\"ב בב\"ש סק\"ג אלא אם הי' התנאי על פה קודם כתיבת תורף הגט דלדעת הרמב\"ם ורש\"י ותוס' כו' וע\"כ לא פליגי אלא שהזכיר התנאי בשעת כתיבת הגט אבל אם אמר התנאי לפשרנים ולא הזכירו בשעת כתיבת הגט יש לנו לומר חזר בו ומחל התנאי ואפי' שכך הי' דעתו בשעת הכתיבה ג\"ד בגיטא לאו מלתא היא. וא\"ת יהי' ספק מגורשת לדעת הרמב\"ם ז\"ל ובעלי שיטתו כיון שהזכיר התנאי על פה קודם כתיבת התורף. לא קשיא דלא אמרינן הכי אלא אם הזכיר התנאי בשעת כתיבת הגט ולפני כתיבת התורף כגון שאמר כתוב לאשתו ע\"מ כך וכך אבל בנ\"ד שהזכיר התנאי לפשרנים ולא הזכירו בשעת כתיבת הגט אין זה תנאי אלא גילוי דעת. כללא דמלתא לכתחלה צריך שיהי' התנאי על פה ובשעת הנתינה הי' על פה. ובשעת כתיבת הגט קודם כתיבת התורף ספק מגורשת ונכון להחמיר: ואם לא הזכיר התנאי כלל בשעת כתיבת הגט אלא לפני אחרים שאינם לא סופרים ולא עידי הגט כנ\"ד אין כאן תנאי והאשה מותרת מיד כו' ואפשר לומר דמהרי\"ט הנ\"ל ס\"ל כדעת הב\"ח לעיל ר\"ס קל\"ד ומהרח\"ש בדיני מודעא שהזכרתי לעיל סי' קל\"ד סק\"א דס\"ל הא דג\"ד בגיטא לאו מלתא היא דוקא היכא שהג\"ד הוא לבטל מעשה שכבר עשה אבל היכא דהג\"ד בא לבטל מה שעתיד לעשות מלתא היא וא\"כ בנ\"ד הוא ג\"ד על מה שעתיד לעשות ומלאא היא. אך א\"כ לא יהי' הלכה כהרי\"ח בזה דהא הב\"מ שם לא ס\"ל כדעת הב\"ח הנ\"ל וכתב שכן משמע מכל הפוסקים. ויותר נראה דמהרי\"ט ס\"ל שזה לא מיחשב ג\"ד כלל רק אמירה ממש שנותן הגט רק באופן זה (עב\"ש לעיל סי' קמ\"ח ס\"ק צ\"ח בשם הט\"ז ומ\"ק שם) וע' בתשובת מהר\"ם לובלין סי' קכ\"ג בתשובת בעל הלבוש ז\"ל אודות הגט דווינא שכ' וז\"ל ואע\"פ דקיי\"ל כאביי וכו' היינו בג\"ד חלוש בעלמא כגון ברוך הטוב והמיטב כו' שנוכל לפרש לתרי אפי אבל ג\"ד והוכחה גמורה שאין בו פקפוק ונדנוד כלל אפי' אביי מודה עכ\"ל אך הרי בגט ההוא כל חכמי הדור חלקו עליהם ויצא בהכשר כמ\"ש הב\"ש לקמן סימן קמ\"ה וצ\"ע. ועיין עוד בענין הנ\"ל תשובה להרדב\"ז ז\"ל בס ' תקע\"ב בעובדא בראובן שבא לגרש את אשתו והוא אינו בקי במשפט התנאים ואמר למסדרי הגט איני רוצה לגרש אלא על תנאי זה ומסדרי הגט טעו ולא כפלו את התנאי (ר\"ל בעת שהיו מקרין אותו לומר לה ה\"ז גיטך ע\"מ כך וכך לא כפלו את התנאי (ונשאל אי אמרי' כיון שלא נעשה כתנאי ב\"ג וב\"ר התנאי בטל והמעשה קיים והרי היא מגורשת אע\"פ שלא נתקיים התנאי או דילמא בתר דעתיה אזלינן ודעתו הי' שלא תתגרש אלא על תנאי זה. והשיב אם הי' התנאי במעכשיו או ע\"מ לדעת הרי\"ף והרמב\"ם ורוב הפוסקים לא מבעיא לך כו' כי תיבעי לך לדעת ר\"ח וקצת מפרשים דס\"ל דגם במעכשיו צריך לכפול התנאי א\"נ במתנה בלשון אם ולכ\"ע דאפי' למאן דפסק כרבנן דפליגי עליה דפ\"מ כו' (ע\"ש דהלשון מגומגם וצריך תיקון) הילך בגיטין וקידושין אם לא כפיל תנאו ולא נתקיים התנאי חוששין לה ואין מחזיקים אותה לא במגורשת ולא בשאינה מגורשת כו' ואפי' לפי ספיקך אינה מותרת לינשא כיון שלא קיימה תנאו ואם עברה ונשאת תצא מזה ומזה וכל הדרכים האלו בה. אבל קושטא דבנ\"ד תנאי גמור הוא כיון שהוא אמר להם בהדיא שאינו רוצה לגרש אלא על תנאי זה אם לא קיימה תנאה אינה מגורשת כלל דלא אזלינן בתר טעות מסדרי הגט אלא בתר דעתא דידיה דאע\"ג דקיי\"ל גלוי דעתא בגיטא לאו כלום הוא הכא לאו גילוי דעתא הוא אלא אמירה ממש שאין רוצה לגרש אלא בתנאי זה ואם אתה אומר כי מפני טעותם יהיה הגט גט והתנאי בטל נמצא אתה מגרש אשתו ממנו בע\"כ והוי גט מעושה ואע\"ג דלדעת רוב הפוסקים יותר הוא מועיל בדיני ממונות גילוי דעת או אומדנא דמוכח מתנאי שלא נעשה כתיקונו ובגיטין כיון דגילוי דעת אינו מועיל כ\"ש דתנאי שלא נעשה כתיקונו אינו מועיל ה\"מ בזמן שהבעל בעצמו הוא המתנה ולא התנה כתיקון חז\"ל דכיון דלא קפיד בתנאי דעתו לגרש לגמרי אבל בנ\"ד שהבעל אומר בהדיא שאינו רוצה לגרש אלא בתנאי וסמך על מסדרי הגט והם טעו תנאי גמור הוא ואם לא נתקיים התנאי אינה מגורשת כלל עכ\"ד ע\"ש: ועיין עוד ברדב\"ז ח\"ב סי' תקצ\"ב שנשאל על ראובן שכתב גט לאשתו ואמר לעדים שהוא רוצה ליתנו לה ע\"מ כך וכך ומיד הלכו עידי הגט ובאו עדים אחרים ונתנו לה סתם מאי מגורשת על תנאי או בלא תנאי. והשיב הדבר ברור שאם היו שם העדים הראשונים אשר שמעו התנאי מפיו והם עידי המסירה אין ספק שהיא מגורשת על תנאי אע\"ג שמסרו לה סתם ודאי על תנאו הראשון סמך וכ\"כ הראשונים ז\"ל אבל כיון שלא מסר הגט בפניהם אלא בפני אחרים שלא שמעו התנאי מגורשת בלא תנאי אע\"פ שהוא צווח ואומר על תנאי הראשון סמכתי שהרי העדים הללו משוו לה מגורשת בלא תנאי דקי\"ל עידי מסירה כרתי ואפי' למ\"ד ע\"ח כרתי הרי לא נחתם הגט על תנאי ותו כיון שהוא יודע שאין אלו העדים אשר שמעו התנאי ולא הזכירו בשעת מסירת הגט אחולי אחליה לתנאו והשתא קא הדר ביה ואין שומעין לו עכ\"ד (ע' בת' הרא\"ש כלל ל\"ה שהובא בב\"י ס\"ס זה ובתשו' מהר\"מ לובלין סי' קכ\"ב) . ויש לעיין בשלשה תשובות אלו של הרדב\"ז ז\"ל ולכוון הדברים שיהיו מתאימים ומכוונים זה לזה. ועמ\"ש לעיל סי' י' ס\"ג סק\"נ:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:1"
+        },
+        "2": {
+          "he": "ואפילו הוא כהן  עיין בתשו' מהרי\"ט סי' ג' ובס' שעה\"מ פ\"ח מה\"ג דין א' בד\"ה ודע עוד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:2"
+        },
+        "3": {
+          "he": "ואפי' מת הבעל.  ע' בספר שעה\"מ פ\"ח מה\"ג דין א' שהקשה ע\"ז מסוגיא דפ\"ק דיומא די\"ג דמסיק שם אלא לחדא אמר לה כו' אי חזי לה דקא בעיא למימת קדים איהו ועייל לב\"ה כו' דמשמע בהדיא דלאחר מיתתה אם ילך לב\"ה אינה מגורשת למפרע ותירץ שדעת הרמב\"ם כמ\"ש בתוס' ישנים שם לחלק בין ההיא ובין האמור במשנה ס\"פ מי שאחזו (ובש\"ע סי' קע\"ד ס\"ג) מעכשיו אם לא באתי מכאן ועד י\"ב חדש ומת בתוך יב\"ח ה\"ז גט דש\"ה שמתה קודם שנתקיים התנאי ועל מי יחול הגט ע\"ש. וכתב וז\"ל וכפי האמור זכינו לדין דמי שנתן גט לאשתו ואמר לה הז\"ג ע\"מ שאתן מנה לפלוני וכיוצא בזה ומתה היא קודם שקיים הבעל התנאי ואחר מיתתה בא הבעל לקיים התנאי אינה מגורשת למפרע ואם נשאת קודם התנאי הולד ממזר עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:3"
+        },
+        "4": {
+          "he": "וי\"ח דאפילו בתנאי כו'.  עיין בשעה\"מ פ\"ח מה\"ג דין א'.",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:4"
+        },
+        "5": {
+          "he": "שאם תתן ליורשיו אינו כלום.  מדברי המל\"מ פ\"ג מה' זכיה ומתנה דין יו\"ד מבואר דדוקא באמר שתתני לי ומשום דמלת לי מיותרת שהיה לו לומר שתתני אבל אם באמת אמר שתתני ולא אמר לי לא אמרי' לי ולא ליורשי יעו\"ש וע' בס' שעה\"מ פ\"ז מה' אישות דין יו\"ד שתמה עליו דמדברי הירוש' שהביא הרשב\"א בחידושיו פ' מי שאחזו מבואר בהדיא דאפי' בע\"מ שתתני גרידא אמרינן לי ולא ליורשי ע\"ש וע' בתשובת פרח מ\"יא ח\"א סי' ז\"ח:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:5"
+        },
+        "6": {
+          "he": "עד שתחלוץ.  עיין במל\"מ פ\"ח מה\"ג דין כ\"ב ובס' שעה\"מ שם מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:6"
+        },
+        "7": {
+          "he": "הרי הם מחולים לך אינה מגורשת.  ע' בס' יד המלך פ\"ח מה\"ג דין כ\"א שכ' וגדולה מזו יש ספק גדול אצלי קרוב הדבר בעיני דבתנאי זה של נתינת מאתים זוז אם קיים אחר התנאי עבורה ונתן בשבילה משלו ר' זוז לא מהני אף דבקידושין בודאי מהני כה\"ג דהא לא עדיף נתינת מעות התנאי מנתינת גוף כסף קידושין בעצמם דבהילך מנה ותתקדש לפלוני שהיא מקודשת (לעיל סימן ר\"ט ס\"ה) ואף דהמקדש בעצמו לא נתן מאומה ומכ\"ש דמהני בקדושין נתינת אחרים בכסף של קיום התנאי (ע' בח\"מ סי' רמ\"א ס\"ז בהגה ומ\"ש בפ\"ת שם) אבל בתנאי דגירושין נראה דלא מהני נתינה של אחרים דכיון דהוא קפיד לצעורה בנתינה זו וכי נתנו אחרים בשבילה לא נתקיימה מחשבתו בזה דבנתינה זו לא ציער אותה כלל ולדינא צ\"ע עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:7"
+        },
+        "8": {
+          "he": "כל ימי חייו  עבה\"ט שכ' משום חומרא כו' והוא מדברי הב\"ש וכ\"כ הב\"י דהפי' בדברי הרא\"ש שכ' דראוי לפסוק כרבא לחומרא היינו משום דספוקי מספקא ליה ומה דאיכא בין רבא לרב אשי הוו ספק מגורשת ע\"ש וע' בס' קרבן נתנאל שם בפ' מי שאחזו אות נ\"ט שהשיג עליהם וכתב וז\"ל ואני אומר נשתקע הדבר ולא נאמר אלא ה\"פ דבגט לצעורה קא מכווין לכך אנו דנין לשונו להחמיר משא\"כ לענין ממון כו' ואשתמיטתיה להרב\"י תשובת הרא\"ש כלל ו' סימן י\"ד שמבואר שם להדיא כמו שפירשתי עכ\"ל. ומיהו לדינא אין נ\"מ בזה דאף אם הפירוש בדברי הרא\"ש כדבריו מ\"מ הוי ספק מגורשת משום דעת הרי\"ף דהרמב\"ם.",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:8"
+        },
+        "9": {
+          "he": "וי\"א דכל שאין העיכוב.  עב\"ש סקי\"ז ומ\"ש בסוף דבריו ולשאר פוסקים כו' אא\"כ התחילה להניק כך הוא בתנאי שתתן לידו ונתנה קצת מעות ומת הוי גט כו' ועיין בהגהות יד אפרים שכ' עליו ולענ\"ד צ\"ע מה דס\"כ בנתנה קצת מעות הוי כהתחילה לקיים התנאי כמו בהתחילה להניק ואין הנדון דומה דגבי הנקה כך דרכה להניק יום יום עד תשלום הזמן ואם כן בהתחילה להניק הוי התחלת קיום התנאי שהרי א\"א שתניק כל השיעור בפ\"א שהוא דבר התלוי בזמן משא\"כ בהתנה שתתן מאתים זוז אם היא רוצה בידה לקיים התנאי בפ\"א הלכך אע\"פ שאם נתנה לי מקצת ואחר כך השאר נמי קיימה התנאי וכדאמרי' בקדושין בחסר דינר מקודשת וישלים מ\"מ האופן תנאי אינו רק בתשלום כל המאתים ותנאי א' הוא וכל כמה שלא נתנה לו כל הסך אף התחלת קיום התנאי לא מקרי כיון שאינו דבר התלוי בזמן כך יש מקום לחלק ביניהם וצ\"ע עכ\"ד.",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:9"
+        },
+        "10": {
+          "he": "כדי שיקחנה.  עיין בתשו' חוות יאיר סו' קצ\"ו שנשאל באלמון אחד מטופל בבנים שהיו בעירו איש ואשתו עניים מרודים ומכמה שנים רבתה המחלוקת ביניהם ושניהם רוצים בגט אך שהאשה מבקשת מבעלה חמשים זהו' שתלביש עצמה אח\"כ ותוכל להנשא ואין באיש למלאות רצונה ושאל האלמן הנז' אם רשאי לשלוח אל האיש שרוצה להתקשר עמה שישאנה באשר היא וילבשנה לכן תתגרש מאישה בלי בצע כסף כו' והשיב באף ובחימה ובקצף גדול שאל יוסיף לראות פניו בבקשת עצה נגד מנהג עולם כי לא נכון לדבר עם אשת איש מענין נישואיה אחר גירושיה ע\"ש. ועיין בשו\"ת בית דוד סי' י\"ד שנשאו על ענין כיוצא בו והשיב להתיר דכל שהבעל לא דיברו זה עם זה כלום לית לן בה דאין לנו להוסיף על גזירת חז\"ל ע\"ש. וכפי הנראה לא ראה דברי החו\"י הנ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:10"
+        },
+        "11": {
+          "he": "ואין תקנה.  עיין בביאור רבינו הגר\"א ז\"ל סק\"מ כנראה שחולק על דין זה. גם בתשו' מהרי\"ט ח\"א סי' מ\"ט חולק על זה ועיין בזה בתשו' המבי\"ט ח\"ב סי' א' ובתשו' הרדב\"ז ח\"ד סי' פ\"ה ובס' שעה\"מ פ\"ז מהל' אישות דין י\"ב ופ\"ח מהל' גירושין דין א' ובספר בית מאיר ובס' תורת גיטין סי' זה ועיין בתשו' גליא מסכת סי' א' תשובה ארוכה בזה במעשה שאירע בא' שגירש אשתו ובשעת נתינה אמר שלא תנשא לגבר משך ג' שנים. והאריך מאד בזה ובדברי הגר\"א ז\"ל הנ\"ל ובסוף דבריו כתב אמנם כל זה אם היה הבעל מפרש ואומר הרי זה גיטך ע\"מ שלא תנשאי עד זמן פ' אך בעובדא דנא כפי המבואר בשאלה שהמגרש אמר לא תנשא עד ג' שנים וכפי הנראה אמר מקודם כל המבואר בסדר גיטין אות רל\"א וא\"כ בין שאמר כך בלה\"ק או בל' אשכנז אין כאן בית מיחוש דאין כאן לא ענין חוץ ולא ענין תנאי ועל מנת כו' ע\"ש. גם בתשו' הגאון מהרי\"מ ז\"ל מבריסק סי' מ\"ו האריך בזה בעובדא באחד שאמר בעת נתינת הגט והרי אמל\"א ולא תנשא בלשון תנאי באופן שלא תנשא או ולא תנשא ונודע אח\"כ שעשה זה בעצת חבריו שהסיתו אותו לצערה והמגרש הוא כהן ואח\"כ בערך ב' שנים סידרו לו גט אחר בלי תנאי והאריך שם דבנדון זה איכא התירא אפילו לדעת תשובת הרא\"ש ומסיק שם להקל ע\"ש. גם בת' עמודי אור שנדפס מחדש סי' צ' תשו' ארוכה בזה באחד שאמר בשעת נתינת הגט והרי אמל\"א מכאן ועד עשר שנים ומסיק שם ג\"כ להתיר אחר שנתן גט שני בלא תנאי באם יסכימו עמו ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:11"
+        },
+        "12": {
+          "he": "אא\"כ יקדשנה.  ע' בת' הרדב\"ז ח\"ד סי' ס\"ה יובא לקמן סכ\"ב סקכ\"ב מבואר דכאן מקדש אותה בברכה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:12"
+        },
+        "13": {
+          "he": "ויחזור ויגרשנה סתם.  פשוט דצריך דוקא לכתוב גט שני אבל לא בגט ראשון אפי' אם הוא באותו יום עצמו דליכא חשש מוקדם. ועיין בת' גליא מסכת סי' ג' אות ה' כתב שם וז\"ל וכפי הנראה דבר זה מוסכם מכל הפוסקים שאם אדם מגרש את אשתו בגט ואח\"ז חזר וקידשה לא יתכן כלל שיגרש אותה באותו גט עצמו שגירשה בראשונה אף דהיה הכל ביום אחד דליכא מוקדם כו' וטעמא דמלתא משום דדומה ממש לשט\"ח שנמחל שעבודו כו' עכ\"ל ע\"ש. ועמ\"ש לעיל סי' קכ\"ו ס\"ק מ\"ו לענין איך יכתבו כאן בגט אם אנתתי או ארוסתי ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:13"
+        },
+        "14": {
+          "he": "ואם נשאת לו.  עיין בתשובת ב\"י בדיני גיטין סי' י\"ג בענין אם לא נשאת לו רק נתקדשה לחוד וכתב דלכאורה נראה דאע\"פ שנתקדשה לו לא עברה על תנאו כל זמן שלא נכנסה עמו לחופה שעל זה מורה לשון נשואין אך להיותי מיראי הוראה לא מלאני לבי להתיר יעו\"ש וע' בשעה\"מ פ\"ח מה\"ג דין י\"ב שכתב עליו דהרב המבי\"ט כתב בפשיטות בח\"א סי' של\"ד דאינו נקרא נשואין עד שנכנסה לחופה (עבה\"ט סק\"ח) ושכן כ' הרשב\"ץ בת' ואנכי הרואה שיש לדקדק מדברי התוס' הפך דבריהם כו' ע\"ש. ועב\"ש לעיל סימן נ\"ג סק\"ד ובספר בית מאיר שם ובסי' ס\"א. ומ\"ש בפ\"ת שם בסי' ס\"א סק\"ח מענין זה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:14"
+        },
+        "15": {
+          "he": "נשאת לו נתבטל הגט.  עב\"ש ס\"ק ל\"א מה שהקשה מלעיל סעיף י\"ד דפסק דאם נשאת לאב הוי גט כו' ובהגהות הגאון רבינו עקיבא איגר ז\"ל כתב וז\"ל י\"ל דדעת המחבר כמ\"ש הר\"ן דבע\"מ שלא תנשא לפלוני תפסו נישואי פלוני והגט בטל ע\"ש עכ\"ל. ומ\"ש ומכל הני פוסקים כו' ולא כדעת ה\"ג כו' ער\"ש לקמן ס\"ק י\"ט:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:15"
+        },
+        "16": {
+          "he": "שלא יתנה עלי' תנאי.  ע' בשעה\"מ פ\"ח מה\"ג דין י\"ב והובא קצת לעיל סי' קל\"ז סק\"ה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:16"
+        },
+        "17": {
+          "he": "שלא תאכלו בשר כו'.  כתב במל\"מ פ\"ח מה\"ג דין י' וז\"ל ונראה דה\"ה במתנה בקיום מעש' כגון האומר ה\"ז גיטך ע\"מ שתדורי בבית זה לעולם דאינו גט משום דכל ימיה אגידא בי' (ועיין בשעה\"מ שם שכ' עליו דאשתמיט מיניה דברי התוס' פ' מי שאחזו (גיטין דף ע\"ה ע\"ב) בד\"ה מת הבן שכתבו כן בהדיא ע\"ש) . ונסתפקתי בנותן גט על תנאי אלא שהתנה שני תנאים שבהתקיים אחד מהם יהי' גט כגון האומר ה\"ז גיטך על מנת שתתני לי מאתים זוז או ע\"מ שלא תשתי יין לעולם וכוונתו הוא שאם תתן המאתיים זוז יהי' גט ויכולה לשתות יין וכן אם לא תשתה יין יהי' גט אף שלא תתן לו מאתיים זוז עכ\"ל. ועיין בספר יד המלך שם שכ' עליו לא ידעתי מקום הספק כלל ומהיכי תיתי לא תהי' מגורשת בזה דמאי איכפת לן מה שהוסיף והתנה גם שלא תשתה יין לעולם הא עכ\"פ אם תתן לו הר' זוז תהי' מותרת ביין ולא תהי' אגידא בי' עוד ואם נאמר דמשום דאי לא תתן תהי' אגודה ביה באיסור שתיית יין אין זה גט כריתות א\"כ בכל תנאים דעלמא ואף בתנאי דע\"מ שתתן ר' זוז לחוד אם לא תקיים התנאי הרי כל גופה אגידא ביה והיא כאשתו לכל דבר ובכל זאת בתנאי דמעכשיו כל כמה שיש בידה לקיים התנאי אף דעדיין לא קיימה מותרת להנשא לכתחלה ומשום דאמרי' דלכדי שלא תקלקל א\"ע ותשוב להיות אגידא ביה מסתמא תקיים התנאי וכמו כן אם הוסיף עוד תנאי דאם לא תתן תהיה אסורה בשתיית יין לעולם מותרת ג\"כ להנשא לכתחילה דכיון דבעינן דבר הכורת וכי נשאר עוד אגידת דבר ביניהם אינו גט משום הא גופא מותרת להנשא לכתחילה דאמרי' דבכדי שלא תקלקל א\"ע ותבטל הגט ע\"י איסור שתיית יין מסתמא תקיים התנאי והיא תתן המאתים זוז וכי נתנה הר' זוז אזי התנאי של איסור שתיית יין בטל למפרע ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:17"
+        },
+        "18": {
+          "he": "שלא תשתי יין לעולם.  בהגהות הגאון רבינו עקיבא איגר ז\"ל כתב בזה וזה לשונו ואם אמר סתם ע\"מ שלא תשתי יין עיין מהריב\"ל ח\"א דף ס\"ה ע\"ד עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:18"
+        },
+        "19": {
+          "he": "או כל ימי חיי פלוני  ע' בתשו' רבינו עקיבא איגר סי' קכ\"ו תשובה מבנו הגאון מהר\"ש איגר נ\"י וז\"ל השאלה איש אחד עוד בימי נעוריו עזב את אשתו ואת ביתו וזה שנתים נודע כי אוה משכן לו במדינת האללאנד והרעישו הב\"ד במכתבים להשתדל ממנו ג\"פ לאשתו אך אבותיו ואחיו מגודל השנאה להאשה המתגרשת מחמת הקנאה כי מסחר אחד לה ולהם הרבו גם הם בדבריהם להטותו לגרש על תנאי שבעוד שנה תעקור משכנה מעירם לעיר מולדתה לבית אבותיה ומחשש עיגון הוסכם על גט בתנאי והנה כמו ד' חדשים אחר הגירושין שבק הבעל המגרש חיים לכל חי והאשה רוצה לקיים תנאה שלא להצטרך חליצה. ויש מי שעורר לחוש לסברת בה\"ג (עב\"ש סוס\"ק ל\"א) שכ' בשם רבנן קדמאי הביאו הה\"מ פ\"ח מגירושין בהתנה ע\"מ שלא תשתי יין כל ימי חיי פ' ונשאת לאחר ומת בעלה הראשון בחיי פלוני ועברה ושתתה בחייו דלא נתבטל הגט. ומסתברא כמו דאין מעשה שלאחר מיתת המגרש מבטל הגט כן אין מעשה מועיל לקיים הגט. ודעת הרב השואל נוטה שאין לחוש לסברא זו שהרי הר\"ן פרק המגרש והה\"מ פ\"ח דחו את זה בראיה מכרעת ותו בש\"ע לא הביא דיעה זו כלל עכ\"ל השאלה. והשיב ע\"ז באריכות לבאר דברי רבנן קדמאי הנ\"ל על שלשה דברים. הא' בטעם הדין למה לא נתבטל הגט ע\"י ביטול התנאי שאחר מיתתו הב' ליישב קושיית הה\"מ והר\"ן וגם עוד איזה קושיות שיש להעיר על דבריהם הג' למצוא מקום מאין הוציאו דין זה. ואחרי אשר העמיק והרחיב בענין זה העלה בנדון השאלה להתיר דגם הני רבנן לא אמרי' לדינייהו אלא בתנאי דשב ואל תעשה אבל בקום ועשה מודים דמתקיים התנאי גם אחר המיתה. גם י\"ל דבנ\"ד כיון דזקוקה ליבם והיא אגודה מחמתו מועיל קיום התנאי גם אחר מיתת הבעל. ושם בסוף התשוב' הסכמת כבוד אביו הגאון החסיד ז\"ל על הפתק הנ\"ל. ובסי' קכ\"ז שם תשובת גיסו הגאון מהר\"ר משה סופר ז\"ל על ענין הנ\"ל וביאר ג\"כ דברי רבנן קדמאי הנ\"ל לסלק מעליהם כל קושיא ונדון השאלה העלה ג\"כ להתיר מצד אחר משום דטעמא דרבנן הנ\"ל הוא שכל תנאי שהוא לצעורי אמרינן דשבק ומחל בשע' מיתתו (ולפ\"ז בנ\"ד לא היתה צריכ' כלל לקיים התנאי רק משום דמספקא לן דלמא להרווחה קמכווין) וממילא בנדון שלפנינו בין יהי' כוונתו להרווחת בני משפחתו במסחרם בין לצער אשתו אם תקיים התנאי ומרויח מקום לבני משפחתו הרי היא מותרת לשוק בלי חליצה. ובסוף התשובה שם סיים אך כל זה אם הי' לשון התנאי ככתוב בשאלה שבתוך שנה תסע משכונתה ועיר' ותדור בעיר אביה. שאם שתסע לשם ותדור שם יב\"ח או תקנה בית שם שהיא בכלל בני העיר שם הרי נתקיים התנאי והרי זה כריתות אע\"פ שאפשר אח\"כ תחזור לדור במקומה הראשון ותפסיד לבני משפחתו במסחר מ\"מ י\"ל שלא חשש הבעל לזה אבל אם לשון התנאי וכוונתו ע\"מ שלא תדור בעיר משפחתו וקיי\"ל האומר סתם ע\"מ שלא תכנס לבית אביך כוונתו לעולם ה\"נ כוונתו לעולם לא תדור א\"כ אין זה כריתות כלל ע\"ש.",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:19"
+        },
+        "20": {
+          "he": "חיי פלוני.  ע' בשעה\"מ פ\"ח מה\"ג דין י\"א ויובא לקמן סכ\"ב ס\"ק כ\"ג מבואר מדבריו שלדעת הרשב\"א דוקא בכה\"ג שתלה הדבר רק בחיי איש אחד אבל אם אמר כל ימי חי פלוני או פלוני אין זה כריתות ולדעת הר\"ן אינו כן ע\"ש וצ\"ע:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:20"
+        },
+        "21": {
+          "he": "שלא תלכי לבית אביך.  עב\"ש ס\"ק ל\"ג וע' בזה במל\"מ פ\"ח מה\"ג ובשעה\"מ שם באורך:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:21"
+        },
+        "22": {
+          "he": "ע\"מ שלא תנשאי.  עיין בתשו' הרדב\"ז ח\"ד סי' פ\"ה שכ' וז\"ל ובענין מה שאמרו העדים שאמר ע\"מ שלא תנשא ולא חמר שלא תנשאי ביוד אין הכי נמי שלשון תנשאי הוא יותר מדוקדק אבל גם אם אמר ע\"מ שלא תנשא תנאי גמור הוא כו' ולענין אם יכול לגרש בגט שני בלא תנאי איני רואה לסמוך בזה (על הרמב\"ם) להקל נגד כל גאוני עולם שאמרו שזה כריתות וכיון שנתגרשה פעם ראשונה ע\"מ שלא תנשא לפלוני מה יועיל הגט השני אשה מגורשת היא מגרש הילכך אין לו תקנה אלא שיחזור ויקדשנה ולא יברך ואח\"כ יכתוב לה גט אחר וימסרנה לה בלא תנאי ותהי' מותרת להנשא לאותו פלוני ותקנה זו כתבה הרא\"ש ז\"ל בתשובה (הובא לעיל סט\"ז) ומה שכתבתי שלא יברך ברכת אירוסין הוא לחוש לסברתו של הרמב\"ם ז\"ל שאמר שאין זה כריתות הלכך אכתי אשתו היא והויא ברכה לבטלה עכ\"ל ע\"ש עוד ועמ\"ש לעיל ס\"ק י\"א וי\"ב.",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:22"
+        },
+        "23": {
+          "he": "וי\"א כו' הו\"ל כאומר כו'  ע' בס' שעה\"מ פ\"ח מה\"ג דין י\"א שכ' נראה ברור דאפי' לדעת הרמב\"ן והרשב\"א (הוא הי\"א אלו) דוקא באומר שלא תנשאי לפנוני (שהתירה לכל העולם ולא אסרה רק על אחד) דאיכא למימר דילמא מיית ההוא גברא ולא אגידא ביה כלל אבל באוסרה לכ\"ע אינו מתירה אלא לאחר ודאי ליכא למימר דילמא מייתי כ\"ע. וגדולה מזו נראה דלפ\"ד הרשב\"א ז\"ל בההיא דע\"מ שלא תלכי לבית אביך דאע\"ג דאפשר דנפל הבית לנפילה דלא שכיח לא חיישינן (הובא במל\"מ שם) א\"כ אפי' באומר ע\"מ שלא תנשאי לפ' ולפ' אינו גט משום דמיתה דתרי הוי מלתא דלא שכיח ולא חיישינן כדאי' פ\"ק דיומא. ואפילו למה שנראה מדברי הר\"ן ז\"ל דאפילו למיתה דכל זרעו דלא שכיח חיישינן (הובא ג\"כ במל\"מ שם) מ\"מ באוסר' לכ\"ע הא ודאי אין הפה יכול לדבר דילמא מייתי כ\"ע ונמצא א\"כ דכל ימיה אגידא בי' ולא מקרי דבר הכורת בינו לבינה והאריך בזה בדברים נכונים. ושוב כתב שמצא בתשובת הרשב\"ץ ח\"א סי' ד' שכ' דיכול לאוסרה אפי' על הרבה בני אדם כו' ואולם אין סתירה מדבריו ז\"ל לדברנו דהוא מיירי שם באוסרה לזמן קצוב כו' ע\"ש ועמש\"ל לעיל סי' קל\"ז סק\"ד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:23"
+        },
+        "24": {
+          "he": "ונקטינן כדברי שניהם.  עיין בתשו' הרדב\"ז ח\"ד סי' פ\"ה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 143:24"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "תנאי.  איש ואשה שהסכימו לגרש אלא שהאשה היתה רוצה להתגרש לחלוטין והאיש היה רוצה לגרש בתנאי ועמד הדבר ימים רבים. ושוב גירש ובשעת גירושין שכח התנאי. אם האיש תבע האשה לגרשה הגט הוא גט מוחלט בלי תנאי ואם האשה תבעה להתגרש הגט הוא על תנאי שהיה רוצה האיש מהרי\"ט ח\"ב ס\"ק ל\"ח. וכנה\"ג קע\"ב ע\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 143:1"
+        },
+        "2": {
+          "he": "פסול.  ואם נשאת לא תצא. מיהו לדעת הרא\"ש והרשב\"א הוי ספק מגורשת. וכל זה כשהיא נתנה המעות בפניו אבל שלא בפניו לא הוי נתינה כלל. וכשהוא אינו בכאן ונתנה ביד ב\"ד עיין בתשובת הרשב\"א בב\"י בח\"מ סימן ע\"ג. ועיין ב\"ש ס\"ק יו\"ד. כתב הר\"ם אלשקר סי' ל\"א אפילו למ\"ד נתינה בע\"כ לא שמיה נתינה היינו דוקא היכי שאמר ע\"מ שתתני לי ר' זוזי אבל האומר ע\"מ שאתן לך מאתים זוז לכ\"ע לא בעינן שיקבלם המקבל. וע\"ל סימן נ\"ז הביא הב\"ש ס\"ק ב' בשם מהרי\"ט דאפילו בכה\"ג לא הוי נתינה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 143:2"
+        },
+        "3": {
+          "he": "אינה מגורשת.  ר\"ל דהגט בטל בודאי ואין כאן אפילו ספק גט. וב\"ח כתב בשם רש\"י דהוי ספק מגורשת. וב\"ש חולק עליו. וכן נמי אם שמה משכון ביד ב\"ד בשביל המאתיי' זוז אינה מגורשת הרא\"מ ח\"א סי' פ\"ה ואם מפרש שיועיל במחילת המאתיים זוז לאו לצעוריה קא מכוין אלא כל זמן שמקפיד עליהם כנה\"ג קע\"ג ע\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 143:3"
+        },
+        "4": {
+          "he": "תנאי.  מלת בלא שום תנאי הם דברי הבעל בעצמו שאומר יהא גט בלא תנאי עיין ספר מקור ברוך סימן כ\"ו. כנה\"ג קע\"ד ע\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 143:4"
+        },
+        "5": {
+          "he": "א'.  היינו בגיטין מסתמ' לצעורה מכוון מש\"ה אמרינן דכוונתו רק יום א'. אבל בעלמא אמרינן אם ליתן מזונות או כיוצא בזה להנאתו מכוון כל ימי חייו קאמר בה\"מ סי' ס' ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 143:5"
+        },
+        "6": {
+          "he": "חייו.  משום חומרא. ואם שמשה יום א' וקידש' אחר חוששין לקדושיו. ואם אמר ע\"מ שתשלם שכר הנקה לכ\"ע שכר ב' שנים קאמר ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 143:6"
+        },
+        "7": {
+          "he": "א'.  ל\"ד אפי' שעה אחד ומתו די. ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 143:7"
+        },
+        "8": {
+          "he": "נשאת לו.  דוק' נשאת אבל (נתקדש) [נתקדשה] אינו גט. הרמ\"ט ח\"א סי' של\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 143:8"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

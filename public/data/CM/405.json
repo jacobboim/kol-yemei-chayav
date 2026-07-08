@@ -1,0 +1,89 @@
+{
+  "chelek": "CM",
+  "siman": 405,
+  "chelekTitle": "Choshen Mishpat",
+  "seifCount": 3,
+  "fetchedAt": "2026-07-08T00:09:21.975Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "שור שחבל באדם או שנגח אשה או שפחה. ובו ג סעיפים:שור שחבל באדם אפי' נתכוון לבהמ' וחבל באדם דינו כדין שור שהזיק לשור תם משל' חצי נזק ומועד נזק שלם ופטור מצער וריפוי ושבת ובושת שלא חייבה תורה בד' דברים אלו אלא באדם:",
+      "en": "",
+      "ref": "Shulchan Arukh, Choshen Mishpat 405:1"
+    },
+    {
+      "seif": 2,
+      "he": "שורו שחבל באביו ואמו או שהדליק גדיש בשבת חייב בנזקיו אע\"פ שאם עשה הוא כן היה פטור:",
+      "en": "",
+      "ref": "Shulchan Arukh, Choshen Mishpat 405:2"
+    },
+    {
+      "seif": 3,
+      "he": "נגח אשה ויצאו ילדיה פטור מדמי ולדות אע\"פ שהוא מועד לנגוח אבל אם נגח שפחה מעוברת ויצאו ילדיה חייב כאילו נגח בהמה מעוברת ושמין אותה כמה היתה שוה תחלה וכמה נפחת דמיה ומשלם תם חצי נזק ומועד נזק שלם:",
+      "en": "",
+      "ref": "Shulchan Arukh, Choshen Mishpat 405:3"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "א) ל' הטור סעיף ב' וכ\"כ הרמב\"ם בפי\"א מהנ\"מ ד\"ו וכתב ה\"ה נזקי שלא בכוונה מחלוקת ר' יהודה ור\"ש פרק ד' דב\"ק דף מד ע\"א פסק כרבי יהודה בידוע דר\"ש ור' יהודה הלכה כרבי יהודה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 405:1"
+        },
+        "2": {
+          "he": "ב) משנה וברייתא שם בפרק ג' דף לג ע\"א וכחכמים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 405:2"
+        },
+        "3": {
+          "he": "ג) משנה שם פ\"ו דף פ\"ו ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 405:3"
+        },
+        "4": {
+          "he": "ד) שם ס\"ד משנה שש בפ\"ג דף לד ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 405:4"
+        },
+        "5": {
+          "he": "ה) שם ס\"ה משנה שם בפ\"ד דף מ\"ח ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 405:5"
+        },
+        "6": {
+          "he": "ו) מימרא דר\"פ שם ד' מ\"ט ע\"א ויליף לה מקרא.",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 405:6"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "לבהמה.  ויש צד רבותא בזה יותר מאם כוון לנגח בהמה זו ונגח בהמה אחרת דהתם מין בהמה אחת היא משא\"כ אדם שיש לו מזל ואין דרך השור לכוין אליו לנגחו וה\"א דמחשב אונס טפי סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 405:1"
+        },
+        "2": {
+          "he": "פטור.  משום דקלב\"מ דחייב מיתה משא\"כ בשורו שבעליו אינו חייב מיתה בזה. שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 405:2"
+        },
+        "3": {
+          "he": "ולדות.  דכתיב כי ינצו אנשים ולא שוורים. שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 405:3"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

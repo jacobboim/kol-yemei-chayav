@@ -1,0 +1,200 @@
+{
+  "chelek": "EH",
+  "siman": 94,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 7,
+  "fetchedAt": "2026-07-08T00:09:00.251Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "חיוב דירת אלמנה וכסותה ואם אמרה שיתנו לה מזונות בבית אביה. ובו ז סעיפים:כדרך שניזונת אלמנתו מנכסיו כך נותנין לה כסות וכלי תשמיש ומדור או יושבת במדור שהיתה בו בחיי בעלה: הגה ואינה משמשת בכל הבית עם היורשים רק נותנין לה מדור מיוחד לפי כבודה בבית (הר\"ן פ' נערה בשם הרשב\"א והמ\"מ פי\"ח) וי\"א דיכולין ליתן לה מדור הראויה לה בבית אחר (כן משמע במרדכי פ' הנושא ובפ' נערה שנתפתתה) ואין האלמנה יכולה להשכיר מדור שלה לאחרים (תשובת הרשב\"א ובהר\"ן פרק הנושא)  ומשתמשת בכרים ובכסתות ובעבדים שנשתמשה בה בחיי בעלה כשהיה בעלה במדינת הים (בהר\"ן פרק נערה):",
+      "en": "Just as she is fed from his property, his widow is given clothing and utensils and a place to live, or lives in the house where she lived during her husband's life. HGH: And she does not have use of the whole house with the heirs, rather they just give her sufficient living space according to her honor within the house. (Ran ch. Naarah in the name of Rashba and Maggid Mishna ch 18). Some say they can give her a fitting living space in another house (so it appears in Mordechai ch. Hanosei and the aforementioned ch. Naarah). The widow may not then rent out this living space to others. (Resp. Rashba, and Ran ch. Hanosei). And she may use the pillows and linens and male &amp; female slaves that she used during her husband's life, when her husband was overseas (Ran ch. Naarah).",
+      "ref": "Shulchan Arukh, Even HaEzer 94:1"
+    },
+    {
+      "seif": 2,
+      "he": "נפל המדור אין היורשין חייבין לבנותו ואם אמרה הניחו לי ואני אבננו משלי אין שומעין לה וכן לא תחזק בדקו ולא תטחה אותו אלא תשב בו כמו שהוא או תצא:",
+      "en": "If the living space falls down, the heirs are not obligated to rebuild it. If she says \"Allow me to rebuild it from my own money,\" they don't listen to her; similarly they don't accept her inspection, and she may not spread it out, but she lives there as it is, or leaves.",
+      "ref": "Shulchan Arukh, Even HaEzer 94:2"
+    },
+    {
+      "seif": 3,
+      "he": "ואם נפל אפי' בנאוהו יורשין אבדה זכותה ממנו:",
+      "en": "And if it fell, even if the heirs rebuilt it, her right to it is gone.",
+      "ref": "Shulchan Arukh, Even HaEzer 94:3"
+    },
+    {
+      "seif": 4,
+      "he": "יורשים שמכרו מדור אלמנה לא עשו כלום:",
+      "en": "Heirs who sold the living space of a widow, have done nothing (the sale has no effect).",
+      "ref": "Shulchan Arukh, Even HaEzer 94:4"
+    },
+    {
+      "seif": 5,
+      "he": "נפל הבית או שלא היה לבעלה בית אלא בשכר נותנין לה מדור לפי כבודה וכן מזונותיה וכסותה לפי כבודה ואם היה כבוד בעלה גדול נותנין לה לפי כבודו:",
+      "en": "If the house fell, or if the husband was only a renter, they give her living space according to her honor, also her food and clothing according to her honor.  And if the husband had great honor, they give her according to his honor.",
+      "ref": "Shulchan Arukh, Even HaEzer 94:5"
+    },
+    {
+      "seif": 6,
+      "he": "אלמנה שאמרה איני זזה מבית אבי פסקו לי מזונות ותנו לי שם יכולין היורשין לומר אם את אצלנו יש לך מזונות ואם לאו אין אנו נותנין לך אלא כפי ברכת הבית ואם היתה טוענת מפני שהיא ילדה והם ילדים נותנין לה מזונות המספיקין לה לבדה והיא בבית אביה  (וי\"א שאין זה טענה אלא באשת אב שאינה אמם) (טור בשם הרמ\"ה):",
+      "en": "If a widow says \"I will not leave my father's house, support me there,\" the heirs can say \"we will support you if you live with us, otherwise we will only give \"כפי ברכת הבית\" (taking into account what she is already getting by living in her father's house). However if she makes this claim because she is young and they are young, then they give her enough to support her alone [even though] she is in her father's house.\n\nSome say that the latter is not a valid claim unless she is a stepmother, not their mother.",
+      "ref": "Shulchan Arukh, Even HaEzer 94:6"
+    },
+    {
+      "seif": 7,
+      "he": "חייבים לפרוע בשבילה כסף גולגלתא ומס שעליה כדרך שפרע בעלה בשבילה אבל אין חייבים בפדיונה ולא ברפואתה שיש לה קצבה ולא בקבורתה:",
+      "en": "They are obliged to disburse to her money for her per-person tax and any other taxes on her, just as her husband disbursed for her, but they are not obligated in the costs of ransoming her [from captivity] nor in her medical costs for which she has a stipend, and not in her burial costs.",
+      "ref": "Shulchan Arukh, Even HaEzer 94:7"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא כתובות ד' קג ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 94:1"
+        },
+        "2": {
+          "he": "שם בברייתא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 94:2"
+        },
+        "3": {
+          "he": "מימר' דאביי ובריי' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 94:3"
+        },
+        "4": {
+          "he": "שם בבריי'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 94:4"
+        },
+        "5": {
+          "he": "ל' הרמב\"ם בפי\"ח מה\"א מבעיא דאביי שם ולא נפשטה וידוע דכל תיקו דממונא הוי קולא לנתבע",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 94:5"
+        },
+        "6": {
+          "he": "ה\"ה בשם הריטב\"א שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 94:6"
+        },
+        "7": {
+          "he": "מימרא דרב נחמן שם ומ\"מ צריכים היתומים לשכור לה דיר' כדלקמן סעי' ה'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 94:7"
+        },
+        "8": {
+          "he": "ואע\"ג דאמרי' לעיל סי' צ\"ג גבי מזון האש' יתומים שקדמו ומכרו קרקעות מה שמכרו מכרו התם לא משתעבדי לה מחיים הכא משתעבדי לה מחיים (נ\"צ בשם רש\"ך) .",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 94:8"
+        },
+        "9": {
+          "he": "לשון הרמב\"ם שם וכ\"כ הטור בשם י\"א וה\"ה בשם הרבה מהמפרשים ומבואר הוא שם בירו' ומ\"ש בבבלי שם בביתי ולא בבקתי פי' שאם היה הבית צר אינה יכולה להכריח היתומים שתדור היא בבית לבדה או עמהם אלא הם דרים בבית ושוכרי' לה מדור וכן כתב הטור בשם אביו הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 94:9"
+        },
+        "10": {
+          "he": "ג\"ז שם ממשנה שם ד' קג ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 94:10"
+        },
+        "11": {
+          "he": "פי' נר לא' נר למאה וכיוצא בזה ולפי ערך זה יתנו לה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 94:11"
+        },
+        "12": {
+          "he": "טור בשם הרמ\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 94:12"
+        },
+        "13": {
+          "he": "מפורש לעיל סי' ע\"א וע\"ח וע\"ט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 94:13"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "כשהי' בעלה  פי' לאפוקי בזמן שהיה בעלה אצלה שאז הילת' צריכה ודאי טפי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 94:1"
+        },
+        "2": {
+          "he": "לא עשו כלום.  בגמרא פרכינן ומ\"ש מהא דר' יוחנן יתומים שקדמו ומכרו בנכסים מה שמכרו מכרו ומשנינן התם לא תפסה מחיים הכא תפסה מחיים פי' התם לא התחילה זכותה עד לאחר מיתה מ\"ה יכולים יורשים להפקיע אבל במדור התחיל זכותה מחיים וא\"ל מ\"ש מההיא דסי' נ\"ג סעיף כ\"א דאם מכרה הקרקע אינה מוציאה מיד הלקוחות והא גם שם התחיל זכותה מחיים שאני התם במזונו' שאין להם קצבה כדאיתא פ' השולח לפי שאינן קצובין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 94:2"
+        },
+        "3": {
+          "he": "נותנין לה מדור פירו' אבל אין צריכין לבנות הבית שנפל וגם מעכבין עליה שלא תוכל לבנותו והטעם שיאמרו היורשים אם תדור בבית הראשון לעולם לא תצא ממנו אבל כשאנו שוכרים לה בית אחר אפי' לפי כבודה שמא לא יהי' ניחא לה ותצא לבית אביה כ\"כ רש\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 94:3"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "אלמנתו.  כי כל הני מתנאי כתובה הם אפילו לא כתב לה. ואם תובעת כתובה או מוכרת הפסידה כל הני כמו דמפסדת מזונות. ובכלל כלי תשמיש איתא בש\"ס משתמשת בכלי כסף ובכלי זהב כדרך שמשמשת בחיי בעלה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 94:1"
+        },
+        "2": {
+          "he": "אחר.  היינו אם לא הניח אלא בית א' אפילו אם הוא בית גדול ויכולים ליתן לה דירה באותו בית. מ\"מ רשות בידם ליתן לה דירה בבית אחר. ואם יש להם שני בתים נותנים לה מדור בבית השני ולא בבית שדר בו אביהם ח\"מ ב\"ש ותוס' ורא\"ש ורשב\"א ושאר פוסקים לא ס\"ל כן. ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 94:2"
+        },
+        "3": {
+          "he": "הים.  כלומר שודאי אלמנה אינה צריכה להתנהג בעבדים ובשפחות ובכלי כסף וזהב כדרך שהתנהגה כשהיתה אצל בעלה רק כמו שהיתה בחיי בעלה בלא בעלה דהיינו כשהיה בעלה במד\"ה ואם בנות משפחתה אפילו אלמנות רגילים להשתמש בשתים ושלש שפחות או בכלי כסף וזהב נותנים לה לפי שאינה יורדת עמו רשב\"א ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 94:3"
+        },
+        "4": {
+          "he": "לבנותו.  אלא נותנין לה דירה במקום אחר. ובכל הני כשאינה דרה אצלם מחויבים ליתן לה מזונות משלם אלא כשהעיכוב ממנה כמ\"ש ס\"ו אז נותנים לה כפי ברכת הבית:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 94:4"
+        },
+        "5": {
+          "he": "בדקו וכו'.  ובדיעבד אם שיפצה מה שעשתה עשוי עיין ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 94:5"
+        },
+        "6": {
+          "he": "אלמנה.  ואם האב נתן הדירה במתנת בריא לאחר מה שעשה עשוי אבל אם נתן במתנת ש\"מ הוי כירושה והיא משתמשת במדור דדין הדירה כדין מזונות ח\"מ וע' ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 94:6"
+        },
+        "7": {
+          "he": "מדור.  בר\"ן כתב דנותנים לה מעות לשכור דירה ועליה הטרחה לשכור הדירה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 94:7"
+        },
+        "8": {
+          "he": "הבית.  לתוס' אין חילוק אלא לענין נר. נר לא' נר למאה ולענין מזונות אין חילוק. ולהרמב\"ם אף לענין מזונות יש חילוק כמ\"ש בפרק י\"ח מה\"א ה' שאכלו ביחד די להן בארבעה קבין וכשיאכל כל א' לבדו צריכים לכל א' קב א' ע\"ש סי\"ט ב\"ש. וכל זה מאכילה ושתיה אבל במלבושים נותנין לה כדרך שהיו נותנין לה אם היתה יושבת עמהם הר\"ם גלאנטי סימן קט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 94:8"
+        },
+        "9": {
+          "he": "ילדים.  ואם היא זקנה והם ילדים אין שומעין לה רשד\"ם חא\"ה סי' קס\"ז. וכתב כנה\"ג וה\"ה נמי אם היא ילדה והם זקנים אין שומעין לה ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 94:9"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

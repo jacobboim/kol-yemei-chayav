@@ -1,0 +1,112 @@
+{
+  "chelek": "EH",
+  "siman": 20,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-08T00:08:58.706Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "באיזו ביאה חייב הבא על הערוה. ובו ב סעיפים:הבא על אחת מן העריות דרך איברים או שחבק ונשק ונהנה בקירוב בשר הרי זה לוקה וחשוד על העריות: הגה והבא עליה בין כדרכה בין שלא כדרכה כיון שהערה בה דהיינו שהכניס העטרה חייב עליה מיתה או כרת ואין צריכים לראות כמכחול בשפופרת אלא משיראו העדים אותם דבוקים זה בזה כדרך המנאפים נהרגים על זה (טור) והאשה נאסרת על בעלה (נ\"י פ' שני דיבמות) אשה גדולה שבא עליה קטן פחות מבן ט' שנים אינה חייבת מיתה על ידו (טור) ונ\"ל דה\"ה אינה נאסרת על בעלה ולכן כתב הרב בעל הטורים הרבה דינים אימתי חייבים מיתה או לא נפקא מיניה בזמן הזה באיזה ביאה אשה נאסרת על בעלה וע' בפנים אשה פחותה מבת שלש אין ביאתה ביאה (טור) דכל פחותה משלש שנים אין ביאתה ביאה ובתוליה חוזרין (בהגהות דיבמות) אפילו נתעברו השנים בתוליה חוזרין (דברי הרב מהירושלמי):",
+      "en": "If one has bodily contact or petting with one of the arayot (people with whom sexual relations are forbidden), or he hugged and had genital contact (literally kissing;  c.f. Yevamot 55b) and benefited from nearness of the flesh, he receives (biblically sanctioned) lashes, and in suspected of having relations with arayot.   Note: if he had intercourse with her, whether vaginally or anally, as soon as he begins intercourse, which is defined as insertion of the glans, he is liable for death or excision.  And the witnesses do not need to observe closely similar to insertion of the eyeliner in the tube, rather as soon as the witnesses see them intertwined with one another in the manner of adulterers, they are punishable by death (Tur), and the women is forbidden to her husband (Nimukei Yosef, Yevamot chapter 2). An adult woman who had relations with a minor male under the age of 9 years, is not liable for death at his hand (Tur). It appears to me that she is similarly not forbidden to her husband. And therefore the Rabbi, author of the Turim code wrote many laws defining when people are liable for death or not.  The modern day repercussions of these laws (when we no longer administer capital punishment) is that they define which relations cause a woman to become forbidden to her husband, and see further. A female less than 3 years old, her intercourse is not considered as intercourse, and her virginity returns (Hagahot Yevamot).  Even if the years were intercalated (e.g she had intercourse at 37 months old in a leap year) her virginity returns (words of the Rav, based on Yerushalmi Ketuboth chapter 1).",
+      "ref": "Shulchan Arukh, Even HaEzer 20:1"
+    },
+    {
+      "seif": 2,
+      "he": "נשים המסוללות  (פי' המשחקות ומתחככות זו בזו) אסור ממעשה ארץ מצרים שהוזהרנו עליו וראוי להכותן מכת מרדות הואיל ועשו איסור ויש לאיש להקפיד על אשתו מדבר זה ומונע הנשים הידועות בכך מלהכנס לה ומלצאת היא אליהן:",
+      "en": "Women who rub up on each other is forbidden, from it being like that of the forbidden sexual actions of the Egyptians (cf. Lev. 18:3), upon which we were warned.  And it is appropriate to strike them with disciplinary flogging since they have committed a prohibited action.  And there is for a man to be careful about his wife's activities in this regard and to hold back  women who are known to be involved in this from coming into see his wife or for her to visit them.",
+      "ref": "Shulchan Arukh, Even HaEzer 20:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "רמב\"ם ריש פכ\"א מה' א\"ב וכ\"כ בספר המצות שלו וכ' שם דלוקה מן התורה וכ' דהכי איתא שם בספרא והאריך ה\"ה שם בפ' הנזכר וכ\"כ הטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 20:1"
+        },
+        "2": {
+          "he": "שם וכפירושו בהא דאמרי' ארבעין בכתפיה וכשר סנהדרין דף כו ע\"ב שהוא זה המחבק והמנשק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 20:2"
+        },
+        "3": {
+          "he": "ג\"ז שם ממימרא דרב הונא יבמות דף ע\"ו ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 20:3"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "שהכניס עטרה בדרישה עשה כאן מן העטרה ב' חלקים דהיינו שיש בשר שאינו שייך להעטרה ואזיל לטעמיה דכתב בסי' ה' וכבר כתבנו שם דאין זה נכון אלא בכלל עטרה ע\"ש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 20:1"
+        },
+        "2": {
+          "he": "נ\"מ באיזה ביאה אשה נאסרה על בעלה ק\"ל וכללה הוא והל' כ' הטור סוף סימן זה א' באונס וא' ברצון האונס פטור ממילא הרצון חייב א\"כ קשיא מה שהקשו בפ' קמא דכתובות דף ט' וכ\"ת מעשה דדוד מפני מה לא אסרוהו לב\"ש עליו ומשני התם אונס הוי והא לגבי דוד הוה רצון ממילא הוא (חייב) וכל חייב הוא באיסור א\"א עליו לפי דברי רמ\"א דחיוב ואיסור שייכי להדדי ותו קשה במ\"ש הטור בסי' זה על (כאן חסר לערך דף או ב'):",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 20:2"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "שהכניס העטרה.  עב\"ש סק\"ג מה שחלק על הט\"ז בענין זה וע' בתשו' נו\"ב תניינא סי' כ\"ג שהאריך בזה והגביל מקום ההעראה באשה לכל מר כדאית ליה (ובתשובת חתם סופר ח\"ב סי' צ\"ה הסכים עמו ע\"ש עוד) ובגוף הפלוגת' בין הט\"ז והב\"ש האריך להביא ראיות לדעת הב\"ש וע\"ש עוד בסי' יו\"ד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 20:1"
+        },
+        "2": {
+          "he": "כדרך המנאפים.  עי' בתשו' נו\"ב תניינא סי' י\"א שכ' דמל' רש\"י ספ\"ק דמכות וב\"מ דף צ\"א מבואר דהיינו שהוא מתנענע עליה ועוסק בדישה כו' אכן בשיטה מקובצת ב\"מ שם כתב בשם הר\"ר יונתן נלו' שיעמוד האיש על כריסה כו' שכיון שכל כך פרץ פרצה כזו על אשת חבירו אי אפשר שלא גמר תאוותו עכ\"ל משמע דלא כמו שכתבתי מ\"מ משמעות רש\"י בודאי הוא כן ועוד אמינא אפי' להר\"ר יונתן היינו שראו אותם כך זמן מה ולא בלבל אותם אדם אמרי' ודאי גמר תאותו אבל אם פתאום בא איש ומצא אותם על תמונה זו ותיכף נפלה חרדה עליו וקפץ לא שייך לומר א\"א שלא גמר תאוותו שאם שבודאי רצה לגמור תאוותו מ\"מ נאנס ולא היה יכול לגמור ועוד נראה דכ\"ז שראה אותם שוכבים זע\"ז ברצון שניהם אבל אם בא פתאום ומצאום כך וקפץ מעליה מאן יימר שהיא נתרצית ואולי רצה לאנסה והיא לא נתרצית ולא הניחתו ואפי' באשת כהן אין לאוסרה שאין השכיבה בקירוב בשר ראיה אפי' להר\"ר יונתן אלא כשהיא ברצון שניהם דמי מעכב על ידם לגמור תאותם אבל אם תחלת העליה לא נודע לנו באיזה אופן היה אז אמרי' אולי הוא עלה לאנסה והיא לא הניחתו ולא היה בידו לגמור תאוותו. והא דלא צעקה ומקרא מלא דבר הכתוב על דבר אשר לא צעקה שם מיירי שעדים רואים שבועל אותה בעיר והיא אינה מתחבטת נגדו כו' (עמ\"ש בזה לעיל סי' ו' ס\"ק י\"ח) עכ\"ד ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 20:2"
+        },
+        "3": {
+          "he": "ולכן כתב הרב בעל הטורים.  עי' בתשו' אא\"ז פמ\"א ח\"ג סימן כ\"ב ויובא קצת לקמן סימן ס\"ח ס\"ק ח'. ועיין עוד בקונ' אחרון בתשובת שער אפרים מענין זה ובספר יד המלך פ\"א מהל' סוטה השיג עליו ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 20:3"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ונשק.  לרמב\"ם חייב מלקות מן התורה כשחבק או נשק חייבי כריתות או מיתות ב\"ד. ובחייבי לאוין ליכא מלקות. והרמב\"ן ס\"ל אפי' בח\"כ או מיתות ב\"ד אינו אלא מדרבנן. אפי' אם אינו עושה דרך חבה ס\"ל להרמב\"ם מדאוריית' אסור והרמב\"ן ס\"ל דאסור מדרבנן עיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 20:1"
+        },
+        "2": {
+          "he": "ונהנה.  היינו או נהנה בקירוב בשר בה\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 20:2"
+        },
+        "3": {
+          "he": "מבת שלש.  אם היא אנוסה לבוא עליה איש א' והיה ע\"פ דין תיהרג ואל תעבור ולא מסרה נפשה מותרת לבעלה עיין ב\"ש ח\"מ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 20:3"
+        },
+        "4": {
+          "he": "אסור.  אבל אינה נאסרת לבעלה ולא נפסלה לכהן רמב\"ם עיין ב\"ח ובה\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 20:4"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

@@ -1,0 +1,615 @@
+{
+  "chelek": "EH",
+  "siman": 155,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 22,
+  "fetchedAt": "2026-07-08T00:09:01.497Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "עד איזה זמן הקטנה ממאנת ויתר דיני מיאון. ובו כב סעיפים:קטנה שאין לה אב או שיש לה אב והשיאה אביה ונתאלמנה או נתגרשה כשהיא קטנה שהיא כיתומה בחיי האב שהרי אין לו עוד רשות בה והשיאוה לדעתה כיון שאין קידושין אלא מדרבנן אם אינה חפצה בבעלה אינה צריכה ממנו גט אלא יוצאת ממנו במיאון אבל אם השיאוה שלא לדעתה או אפי' לדעתה ואינה יודעת לשמור קדושיה אפי' מיאון אינה צריכה: הגה ולכתחילה יש לב\"ד ליזהר שלא להשיא יתומה קטנה במקום שנראה להם שיבא לידי מיאון ואין לדיין בזה אלא מה שעיניו רואות (הגהות מיי' פרק י\"א בשם ר\"י):",
+      "en": "A ketana [girl less than 12 years and a day old] who does not have a father, or she has a father but her father had married her off and she became a widow or she was divorced while still a ketana, and thus she becomes like an orphan in her father's lifetime for he has no authority over her anymore, and she is married off with her permission, since her marriage is only on a rabbinical level, if she does not like her husband, she does not need a get [bill of divorce] from him, but rather she can leave through [the law of] me'un [where she can simply denounce the marriage]. But if she was married off without her permission, or even if it was with her permission, but she didn't know to keep her marriage, she doesn't even need me'un. Rem\"a: Ideally the court should make sure not to allow the marriage of an orphan ketana when it seems it will end in me'un. And we can only judge this according to what we can see (Hagahot Maimoni perek 11 in the name of R\"Y).",
+      "ref": "Shulchan Arukh, Even HaEzer 155:1"
+    },
+    {
+      "seif": 2,
+      "he": "איזו היא קטנה שצריכה למאן מבת שש שנים עד בת עשר בודקין אותה לפי יופי דעתה אם יודעת לשמור קדושיה ושהם קדושין לא שתשמור אותה כדרך שמשמרת האגוז והתמרה וכיוצא בזה ה\"ז צריכה מיאון ואם אינה יודעת לשמור קדושיה אינה צריכה למאן אלא הולכת לבית אמה כאלו לא נתקדשה מעולם ופחותה מבת שש אפילו היא נבונת לחש ביותר ויודעת לשמור אינה צריכה מיאון ויתירה על בת עשר אפילו סכלה ביותר צריכה מיאון: הגה וי\"א דכל זה כשנשאת לדעת אחיה ואמיה אבל אם נשאת שלא לדעתן אינה צריכה למאן (הגהות אלפסי פרק ב\"ש) וי\"א דאם הגיעה לפעוטות צריכה למאן (ב\"י בשם הריטב\"א):",
+      "en": "What is [a case of] a ketana [a girl less than 12 and a day] who must do a me'un [i.e. refusal of marriage which allows her to leave her husband when she is married off as a ketana]? From 6 years old until 10 years old, we examine her according to her intellectual abilities, if she knows [that she must] guard her marriage, and that when she is married, that the guarding is not like the guarding of a nut or date or similar, that is [a case where] she needs to perform me'un. But if she does not know to guard her marriage, she needs not me'un, but rather she can leave to her mother's house, as if she were never married. Less than 6, even if her sense of understand is great, and she knows to guard, she does not need me'un. More than 10, even if she is very dumb, she needs me'un. Rem\"a: Some say that all this is only when she is married off by the permission of her brother and mother, but if she was married off without their permission, she does not need me'un [to go free] (Hagahot Alfasi perek Bet Shammai). Some say that if she is already past toddler's age, she needs to do me'un (Bet Yosef in the name of the Ritva).",
+      "ref": "Shulchan Arukh, Even HaEzer 155:2"
+    },
+    {
+      "seif": 3,
+      "he": "המיאון הוא שתאמר אי אפשי בפלוני בעלי או אי איפשי בקדושין שקדשוני אמי ואחי ואפילו לא אמרה דבר אלא הלכה ונתקדשה לאחר כשהיא קטנה אף על פי שהיתה נשואה קדושיה הם הם מיאוניה:",
+      "en": "The me'un [i.e. refusal of marriage in which a ketana girl can go free from marriage without a bill of divorce] is when she says, \"I do not like so-and-so my husband,\" or \"I do not like the marriage my mother and brother set up.\" Even if she doesn't say anything, but leaves and gets proposed to someone else while she is a ketana [less than 12 and a day], even if she was in nissuin [full marriage], her proposal is her refusal.",
+      "ref": "Shulchan Arukh, Even HaEzer 155:3"
+    },
+    {
+      "seif": 4,
+      "he": "ממאנת בין מן האירוסין בין מן הנשואין אפי' שלא בפני הבעל ושלא בפני ב\"ד רק שיהיה בפני שנים שיעידו על הדבר ויש מי שאומר דלכתחילה בעינן ג':",
+      "en": "A girl who does me'un [refusal of marriage while she is a ketana where she can go free without a bill of divorce]], whether it [is a refusal] from erusin [engagement] or from nissuin [full marriage], even if it was not in her husband's presence and not in the presence of the court, will only [work] when it is in front of two who will testify to it. And some say, ideally there needs to be three [witnesses].",
+      "ref": "Shulchan Arukh, Even HaEzer 155:4"
+    },
+    {
+      "seif": 5,
+      "he": "כשם שממאנת בבעל כך ממאנת ביבם אם לא מיאנה בבעל.",
+      "en": "Just like she can do me'un [refusal of marriage when she is a ketana that allows her to go free even with a bill of divorce] to her husband, so too she can do me'un to her yibum [levirate marriage], if she didn't do me'un to her [present] husband.",
+      "ref": "Shulchan Arukh, Even HaEzer 155:5"
+    },
+    {
+      "seif": 6,
+      "he": "מיאנה בבעל ונשאת לאחר ממאנת בו וכן בשלישי וברביעי אפי' כמה פעמים כל זמן שהיא קטנה:",
+      "en": "If she does me'un [refusal of marriage when she is married off as a ketana girl less than 12 and a day that allows her to go free without a bill of divorce] and she does nissuin [full marriage] with another, she may do me'un with him [as well]. And so with a third [husband] and a fourth [husband], even many times, so long as she is a ketana.",
+      "ref": "Shulchan Arukh, Even HaEzer 155:6"
+    },
+    {
+      "seif": 7,
+      "he": "השנים שמיאנה בפניהם כותבים לה גט מיאון וחותמין בו ונותנים לה ואינו כגט גירושין להיות נתינתו מגרש לפיכך אינו צריך כתיבה לשמה ולא מסירה ולא דבר ממשפטי גט הגירושין ואין כותבים בו טופס הגט לפי שאינו אלא כמעשה ב\"ד:",
+      "en": "The two [witnesses] in front of whom she refused [to marry the man to whom her father betrothed her] write for her a divorce document of refusal and sign in it and give it to her. It is not like a [regular] divorce document whose handing over creates the divorce. Therefore, it does not need to be written for her name, nor does it need to be handed over, nor does it need any of the requirements that a regular divorce document needs. And we do not write in it the regular formulation of the divorce document because it [the document] is nothing more than an action of the court.",
+      "ref": "Shulchan Arukh, Even HaEzer 155:7"
+    },
+    {
+      "seif": 8,
+      "he": "אלו שממאנת בפניהם צריך שיכירו אותה ואת בעלה לפיכך כל מי שיראה שמיאנה בפני שנים יכול לכתוב לה גט מיאון אע\"פ שאינה מכירה שודאי הכירוה אותם שמיאנה בפניהם  (ודוקא לכתחלה אבל בדיעבד אפי' שאינם מכירים הבעל רק האשה סגי)  (כ\"כ הב\"י):",
+      "en": "Those that she refuses [the marriage proposal] before must know both her and her husband. Therefore, all who see her refuse [the marriage proposal] before two may write a bill of divorce of refusal for her even if they do not know her, because she surely knows those before whom she refused [the marriage proposal]. (Rem\"a: This is true [that they must know both the woman and her husband] ideally, but even if they only know the woman and not the man, it is sufficient.)",
+      "ref": "Shulchan Arukh, Even HaEzer 155:8"
+    },
+    {
+      "seif": 9,
+      "he": "אותם שממאנת בפניהם צריך שיתברר להם שהיא קטנה:",
+      "en": "Those who witness the refusal must verify that he is a minor.",
+      "ref": "Shulchan Arukh, Even HaEzer 155:9"
+    },
+    {
+      "seif": 10,
+      "he": "קטנה הממאנת אין לה כתובה מנה ומאתים אבל יש לה תוס' וכל זמן שלא מיאנה בעלה זכאי במעשה ידיה ובמציאתה וחייב במזונותיה ופדיונה כל זמן שהיא תחתיו אבל אם הלך למדינת הים ולותה ואכלה או לצורך פדיונה ועמדה ומיאנה אינו חייב לשלם אע\"פ שאכל פירותיה ואפי' הם בעין עדיין שליקטן ומונחין ברשותו אינו מחזירן ונכסים של צאן ברזל ושל מלוג אם הם בעין נוטלתן ומה שאבד מהם מנכסי צאן ברזל חייב לשלם ומנכסי מלוג פטור והוא מותר בקרובותיה והיא מותרת בקרוביו וכשרה לכהונה ואינה צריכה להמתין ג' חדשים מלהנשא ואם נשאת לאחר וגירשה או מת מותרת לחזור לראשון ולא עוד אלא אפילו גירשה הראשון והחזירה ומיאנה בו ונשאת לאחר אחר שמיאנה בו וגירשה האחר מותרת לחזור לראשון שכל היוצאת במיאון אף על פי שקדמו גט הרי זו כמי שלא נתגרשה ממנו בגט מעולם ומותרת לחזור לו אבל המגרש את הקטנה בגט יש לה כתובה ואסור בקרובותיה ואסורה בקרוביו ואסורה לכהונה וצריכה להמתין שלשה חדשים ואם נשאת לאחר ומיאנה בו אסורה לחזור לראשון מפני שיצאה ממנו בגט אע\"פ שיצאה מן האחרון במיאון וא\"צ לומר אם גירשה האחרון או מת וכן אסורה לאבי הראשון ולבנו ולאחיו כשאר הגרושות אע\"פ שיצאה מן האחרון במיאון ואם מיאנה בראשון והחזירה וגירשה ונשאת לאחר ונתאלמנה או נתגרשה או מיאנה בו אסורה לחזור לראשון ולקרוביו שכל שיצאת ממנו במיאון לבסוף דינה כממאנת וכל שיצאת ממנו בגט לבסוף דינה כמגורשת:",
+      "en": "A female minor who did mei'un (declared her marriage annulled)  receives no ketubah [whether] a hundred or two hundred [zekukim], but does receive an addition [made to the ketubah]. All the time she had not done mi'un, her husband has a right to her handiwork and whatever she finds. He is obligated to feed her and redeem her all the time she is living with him. But he went overseas and she borrowed to eat or to redeem herself, and  she [then] rose up and did mei'un, he is not obligated to pay, even if he ate her fruit [profits arising from her possessions], and even if they still exist, such as if he collected them and they are lying in his jurisdiction, he does not return them. Regarding properties of tzon barzel and melog [], if they still exist, he takes them. If some of the tzon barzel were lost, he must pay, but from the melog property he is exempt. He is permitted to [marry] her relatives [after mei'un] and she is permitted to his relatives. She is kosher to [marry] the priesthood and she does not need to wait three months to marry [again].  If she married another man and he divorced her or died, she is permitted to return to the first [husband she did mi'un with]. Furthermore, even if the first divorced her and took her back, and she did mi'un with him, and she married someone else after she gave him mi'un, and the other divorced her, she may return to the first. For whoever goes out with mi'un, even if there was a divorce beforehand, it as  if she was never divorced from him with a divorce document and she may return to him. But if one divorces a female minor with a divorce document, she receives a ketubah, and he is forbidden to her relatives, and she is forbidden to his relatives, and she is forbidden to priesthood, and she needs to wait for three months. And if she married another and did mei'un to him, she may not return to the first because she left him with a divorce document, even though she left the last one with mei'un. And this obviously applies if the last one divorced her or died. She is also forbidden to the father of the first one and to his son, and to his brothers, like other divorced women, even though she left the last one with mei'un.  And if she did mei'un with the first, and he took her back and divorced her and she married another and became a widow or was divorced or did mi'un to him, she may not return to the first  or to his relatives. For whoever left him with mi'un in the end, her law is that of a woman who did mi'un. And whoever left him with a divorce in the end, her law is that of a divorced woman.",
+      "ref": "Shulchan Arukh, Even HaEzer 155:10"
+    },
+    {
+      "seif": 11,
+      "he": "הממאנת ביבם אסורה באביו מפני שנראית ככלתו בעת שמת בנו ונפלה ליבום אבל לשאר קרובים מותרת ויש אוסרים גם בשאר קרובים  (ודוקא בקרובי המת אבל בקרובי היבם שמיאנה בו מותרת) כ\"כ הב\"י) ומ\"מ אם מיאנה באחד מהיבמי' מותרת לשאר אחין:",
+      "en": "She who refuses the redeemer, is forbidden to marry his father, for she is looked upon like his daughter-in-law once his son (the original husband) dies and she must be redeemed. However, she is permitted to marry other relatives (of the husband). Some say that (she) additionally (cannot marry) any other relatives (of the husband). She is originally (not allowed to marry) any of the deceased husband's relatives (except for the redeemer), but if the redeemer refused her, then she is allowed to marry his relatives (This is how the Beit Yosef ruled). And always, if she refuses one of the redeemers, she is permitted to marry the other brothers.",
+      "ref": "Shulchan Arukh, Even HaEzer 155:11"
+    },
+    {
+      "seif": 12,
+      "he": "עד מתי הקטנה ממאנת עד שתביא ב' שערות אחר י\"ב שנה או עד שתלד  (ומשעת הריון הוי כגדולה) (א\"ז)  וכל זמן שלא הביאה ב' שערות ולא ילדה חשובה כקטנה אפילו נולדו לה סימני איילונית אבל אם היא בת עשרים ונולדו בה סימני איילונית חשובה כגדולה  (למפרע מזמן שהיתה בת י\"ב אע\"ג שהביאה אח\"כ שתי שערות) (בח\"ה סי' רלה)  ואינה יכולה למאן ובת י\"ט שנה ושלשים יום דינה כבת ך' דל' יום בשנה חשובה שנה ויש מי שאומר שאינה חשובה בת ך' שנה עד שתהיה בת ך' שנה פחות ל' יום:",
+      "en": "Until when may a minor reject [a marriage contracted for her by other family members in the absence of her father]? Until she grows two [pubic] hairs after [the age of] twelve years, or unitl she gives birth.  and from the time when [she becomes] pregnant, she is considered an adult (Or Zarua). As long as she has not grown two hairs and has not given birth, she is considered a minor, even if she shows signs of being an aylonit. (aylonit- a woman who never goes through normal puberty.) But if she is twenty years of age, and shows signs of being an aylonit, then she is considered an adult retroactively from the time she turned twelve, even if she grows two hairs later (Choshen Mishpat 235), and she may not reject [the marriage]. A woman who is nineteen years and thirty days of age has the same law as one who is twenty years of age, since thirty days in a year are considered as a year.  And there is [also an authority] who says that she is not considered [as though she was] twenty years of age until she is twenty years minus thirty days of age.",
+      "ref": "Shulchan Arukh, Even HaEzer 155:12"
+    },
+    {
+      "seif": 13,
+      "he": "אם היא בת ך' ולא נולדו בה סימני איילונית ולא הביאה ב' שערות חשובה כקטנה עד שתביא ב' שערות או שתגיע לרוב שנותיה שהם ל\"ה שנה ויום א' שאז הרי היא איילונית אע\"פ שלא נראו בה סימני איילונית וחשובה כגדולה ואינה יכולה למאן  (וע\"ל סי' קע\"ב סימני איילונית מה הם):",
+      "en": "If she is twenty years old and has no signs of infertility nor has she grown two pubic hairs, she is considered to be of minor age until she has two pubic hairs or until she arrives at the age of thirty-five and one day which is the majority of her years; at that point she is considered infertile even if she has no signs of infertility and she is not allowed to refuse. (see above in paragraph 172 where the signs of infertility are enumerated.)",
+      "ref": "Shulchan Arukh, Even HaEzer 155:13"
+    },
+    {
+      "seif": 14,
+      "he": "אין שתי שערות סימן גדלות אלא א\"כ באו מי\"ב שנה ואילך אבל אם באו קודם לכן אפי' תוך שנת י\"ב חשיבי כשומא ואינה נחשבת גדולה על ידם אא\"כ הביאה אחרות אחר י\"ב שנה  (וי\"א שאם הביאה שערות ביום אחרון של שנת י\"ב חשובה גדולה) טור בשם ר\"ת וכ\"כ הרא\"ש  ומיהו כשמוצאים לה שערות אחר הזמן מחזיקין אותה כגדולה אפי' לחליצה ולא חיישינן שמא באו קודם הזמן וי\"א שאם נראו בה ב' שערות קודם י\"ב שנה ועודה עליה אחר י\"ב שנה אע\"פ שלא הביאה שערות אחר י\"ב שנה חשובה כגדולה למיאון ואעפ\"כ חשובה כקטנה לחליצה  (ספק אם הגיעה לי\"ב שנים או לא אזלינן לחומרא (בתשובת רשב\"א אלף רי\"ו):",
+      "en": "Two [pubic] hairs are only a sign of majority age if they come in the twelfth year and on, but, if they came before this, even during the twelfth year, they are considered to be a mole, and the child is not considered of majority of age, unless more hairs comes up after twelve years. REMA: there are those that say if the hairs come up on the last day of the twelfth year she is considered of majority age (Tur in the name of Rabbeinu Tam and the Rosh wrote similarly). Nonetheless, if she brought forth hairs after the prescribed time, she is considered of majority age, even for halitza, and we are not considered if they may have come before the appropriate time. There are those that say if two hairs appeared before the twelfth year and they are still on her after the twelfth year, she is considered of majority age for declining a marriage, but she is nonetheless considered a minor for halitza. REMA: if there is a doubt as to whether or not she has reached twelve years we rule stringently (Responsum of Rashba 1216?)",
+      "ref": "Shulchan Arukh, Even HaEzer 155:14"
+    },
+    {
+      "seif": 15,
+      "he": "כשבודקין אותה בודקין ע\"י נשים כשרות ונאמנות ואפילו אשה אחת בודקה ושומעין לה אם הביאה ואם לא הביאה ואפילו היא קרובה  (וע\"ל סי' קס\"ט אם נשים נאמנות על שנותיה):",
+      "en": "When she is checked it is done by approved women who are trusted. Even one woman can check her and we listen to her if she says that she has or hasn't (grown two pubic hairs), even if the woman is a close relative. (see below paragraph 169 regarding if women are believed regarding her age.)",
+      "ref": "Shulchan Arukh, Even HaEzer 155:15"
+    },
+    {
+      "seif": 16,
+      "he": "ב' שערות צריך שיהיה בעיקרן גומות ואפי' שתיהן בגומא א' הרי אלו סימן נמצאו שתי גומות זו בצד זו ואין בהן שיער הרי אלו סימן חזקה אין גומא בלא שיער ושערות היו בהם ונשרו:",
+      "en": "The two hairs must have a follicle at their root. Even if both of them come from one follicle, this is considered a sign [of puberty]. If there are two follicles one next to another without hair, these are considered a sign [of puberty], there is a presumption that there are no follicles without hair, there had been hairs in them that fell out.",
+      "ref": "Shulchan Arukh, Even HaEzer 155:16"
+    },
+    {
+      "seif": 17,
+      "he": "ב' שערות צריכות שיהיו במקום הערוה ובית הערוה כולו מקום סימנים בין למעלה בין למטה בין על איברי הזרע עצמן ויש מי שאומר שאפילו אחת בגבה ואחת בכריסה או אחת בקשרי אצבעותיה של יד ואחת בקשרי אצבעותיה של רגל חשובה גדולה למיאון אבל לא לחליצה:",
+      "en": "The two hairs must be in the pubic region.  The entire pubic region qualifies for signs of maturity, whether above or below [the genitals], and the genitals themselves.  Some authorities say that even if one is on her back and one on her belly, or one is on her finger knuckles and one is one her toe knuckles, she is considered matured for the purposes of declining a rabbinic marriage, but not for the cancellation of a levirite marriage.",
+      "ref": "Shulchan Arukh, Even HaEzer 155:17"
+    },
+    {
+      "seif": 18,
+      "he": "שיעור אורך הב' שערות משיצמחו ויהיו ראוים להנטל בפי הזוג  (פי' מספריים)  או לקרוץ בצפורן חשובה גדולה למיאון אבל אינה חשובה גדולה לחליצה עד שיהיה בהן כדי לכוף ראשן לעיקרן  (וע\"ל בפי' סדר החליצה סי' כ\"ז):",
+      "en": "The length of the two hairs, from when they grow until they are fitting to be cut with scissors or to pull them out with fingernails, she is considered of majority age for refusing a marriage. But she is not considered of majority age for halitza until they are long enough to be folded over such that their top reaches the root. See further on in the commentary on the order of halitza number 27...",
+      "ref": "Shulchan Arukh, Even HaEzer 155:18"
+    },
+    {
+      "seif": 19,
+      "he": "בד\"א שיכולה למאן אחר י\"ב שנה כשבדקו אותה ולא הביאה ב' שערות אבל סתמא משיש לה י\"ב שנה אינה יכולה למאן חזקה שהביאה שתי שערות ומכל מקום לא תחלוץ עד שיבדקו אותה וימצאו שתי שערות:",
+      "en": "In what case is she allowed to refuse a marriage after twelve years [of age]? When she is examined and she is not found to have two hairs. But in general when she is twelve years old she is not allowed to refuse, there is an assumption that she has two pubic hairs. Nonetheless she should not have halitza until she is examined and found to have two hairs.",
+      "ref": "Shulchan Arukh, Even HaEzer 155:19"
+    },
+    {
+      "seif": 20,
+      "he": "בד\"א שיכולה למאן כשבודקים אותה ולא הביאה כשלא בעיל אחר היות לה י\"ב שנה ויום אחד אבל אם בא עליה אח\"כ אינה יכולה למאן שאע\"פ שאין מוצאים לה סימנין חוששין שמא נשרו שהוא ספק דאורייתא שאם היה ידוע שהיו לה שתי שערות קודם שבא עליה הוי קדושין גמורים שודאי בעיל לשם קדושין ואם קדשה אחר לא היתה צריכה ממנו גט וכיון שהוא ספק דאורייתא חיישינן שמא הביאה סימנין קודם שבעיל וצריכה גט מספק ואם מיאנה בו אחר שנבעלה ונבדקה ולא נמצאו לה שערות ונתקדשה לאחר צריכה ממנו גט מספק ואסורה לחזור לו ואם נשאת תצא מזה ומזה והולד ספק ממזר משניהם:",
+      "en": "In what case may she decline a marriage after we check her and she has not yet grown [two hairs]? When she has not had sexual relations after the age of twelve years and one day. But if he had relations with her afterward she may not decline, for, even though we do not see the signs on her we are considered that the may have fallen out; which is a doubtful [case of] Torah [law], for if it was known that she had two hairs before she had relations it would be undoubtedly be considered marriage, for he certainly had relations with her for the sake of marriage, and if another person had married her [afterwards] she would not need a divorce document; and, since it is a doubtful [case of] Torah [law] we are concerned that she may have had the signs before they had relations and she would need a divorce document [to obviate] the doubt. And if she refused him after they had relations, and she was examined and not found to have [two] hairs, and she married another, she would need a bill of divorce from him, [to obviate] the doubt, and she would be forbidden to return to him, and she married she would have to leave both men and any children would be considered suspected bastards from either father.",
+      "ref": "Shulchan Arukh, Even HaEzer 155:20"
+    },
+    {
+      "seif": 21,
+      "he": "הביאה ב' שערות אחד י\"ב שנה ולא בעיל אח\"כ הוי ספק קדושין ואם בא להוציאה צריכה גט מדרבנן ואם לא גירשה ועמדה ונתקדשה לאחר צריכה גט משניהם ואם ירצו מגרש ראשון ונושא שני אבל אם גירש שני לא יקיים ראשון שמא יאמרו החזיר גרושתו אחר שנתארסה ואם בא עליה שני קודם שגירש ראשון תצא מזה ומזה ואין הולד מן השני ממזר ואם בא עליה ראשון קודם (גרושי) שני הולד ממזר:",
+      "en": "If she had two hairs after twelve years, and she did not have sexual relations, it would be considered doubtful marriage. And if he came to send her away he would need a divorce bill by rabbinic decree. And, if he didn't divorce her, and she married another, she would need a bill of divorce from both men. If they wished she could divorce the first and marry the second. But, if she divorced the second the first could not be upheld for people may say: he returned to his divorced wife after she was engaged. And if the second man had sexual relations with her before she divorced the first, she must divorce both of them, and the child of the second would not be considered a bastard. And if the first had relations with her before she (divorced) the second the child would be a bastard.",
+      "ref": "Shulchan Arukh, Even HaEzer 155:21"
+    },
+    {
+      "seif": 22,
+      "he": "י\"א דהאידנא יש להחמיר שלא תמאן אחר י\"ב שנה אע\"פ שנבדקה ולא נמצאו לה שתי שערות וגם לא בעיל אחר י\"ב שנה: הגה ולכולי עלמא אם היא פחותה מבת יב\"ש ממאנת אפי' בזמן הזה וכן עשה מהר\"ר יעקב פולק ז\"ל מעשה בימיו ודלא כיש מחמירין ואמרו שאין בת ממאנת בזמן הזה כלל (מהר\"ם מרזבורק ור\"י מינץ סי' י\"ג):",
+      "en": "There are those that say that in today's day and age we should be strict and not allow a woman to decline a marriage after twelve years, even though she has been checked and not found to have two hairs and even though she has not had sexual relations after twelve years. REMA: and, according to everyone, if she is less than twelve years of age she may decline, even today. And our teacher and master Rabbi Yaakov Folk ob\"m did so in his days. And this is not like those who are stringent who say there is no declining a marriage today at all (Maharam from Reisburg and R\"Y Mintz #13).",
+      "ref": "Shulchan Arukh, Even HaEzer 155:22"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה יבמות דף קז ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:1"
+        },
+        "2": {
+          "he": "מבואר במשנה שם דף קנו ע\"א וכתובות דף מ\"ג ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:2"
+        },
+        "3": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:3"
+        },
+        "4": {
+          "he": "שם וכר' חנינא בן אנטיגנוס",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:4"
+        },
+        "5": {
+          "he": "ל' הרמב\"ם שם ממימרא דרבא ג' מד\"ו בקטן וכו' גיטין דף סה ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:5"
+        },
+        "6": {
+          "he": "ברייתא שם דף סד ע\"ב וכדמפרש לה שם רב הונא בר מנוח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:6"
+        },
+        "7": {
+          "he": "ברייתא שם ד' קח ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:7"
+        },
+        "8": {
+          "he": "משנה שם ד' ק\"ז ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:8"
+        },
+        "9": {
+          "he": "כר' יוסי בר יהודה ור\"א בר שמעון בברייתא שם ע\"ב דפסק רב נחמן הלכה כאותו הזוג וכ\"פ הרי\"ף והרא\"ש שם והרמב\"ם שם וה\"ה בשם רש\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:9"
+        },
+        "10": {
+          "he": "טור בשם ר\"ח ובעל העיטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:10"
+        },
+        "11": {
+          "he": "במשנה וכב\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:11"
+        },
+        "12": {
+          "he": "שם במשנה וכב\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:12"
+        },
+        "13": {
+          "he": "רמב\"ם שם ממימרא דר' יהודה ואמרי לה במתניתא שם סוף ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:13"
+        },
+        "14": {
+          "he": "ברמב\"ם איתא שמא יראת הגט גירושין וכן הוא שם בגמ' ריש דף פ\"ח וכתב ה\"ה ופי' דילמא אתי לאחלופי בגיט' ויבואו לאסור ותו' פירשו טעם אחר",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:14"
+        },
+        "15": {
+          "he": "שם וכרבא שם דף קו ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:15"
+        },
+        "16": {
+          "he": "בשם הר\"ן לדעת הרמב\"ם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:16"
+        },
+        "17": {
+          "he": "שם דף לט ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:17"
+        },
+        "18": {
+          "he": "ל' הטור ממשנ' וגמר' כתובות דף ק קא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:18"
+        },
+        "19": {
+          "he": "ברייתא שם ד' קז ע\"ב לענין מזונות וכתב הרא\"ש דה\"ה לענין פדיונ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:19"
+        },
+        "20": {
+          "he": "כ\"כ התו' שם דף קא ע\"א והרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:20"
+        },
+        "21": {
+          "he": "טור (ולי צ\"ע שהוא פסק נגד מסקנת הגמ' פשוט משמיה דרב פפא שם וכ\"פ הרמב\"ם בפנ\"ד מה\"א דין ח')",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:21"
+        },
+        "22": {
+          "he": "כ\"כ הב\"י ממשנה ואם מתו מתו לה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:22"
+        },
+        "23": {
+          "he": "משנה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:23"
+        },
+        "24": {
+          "he": "מימרא דשמואל יבמות ד' לח ע\"ב וכתובות דף ק ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:24"
+        },
+        "25": {
+          "he": "משנה יבמות ד' קח ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:25"
+        },
+        "26": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:26"
+        },
+        "27": {
+          "he": "כשמואל כתובות ד\"ק ע\"ב הסכמת הפוסקים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:27"
+        },
+        "28": {
+          "he": "כרב שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:28"
+        },
+        "29": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:29"
+        },
+        "30": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:30"
+        },
+        "31": {
+          "he": "משנה יבמות דף קז ע\"א וכב\"ה וכעולא שם ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:31"
+        },
+        "32": {
+          "he": "תני רמי בר יחזקאל שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:32"
+        },
+        "33": {
+          "he": "ה\"ה בשם הרמב\"ן והרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:33"
+        },
+        "34": {
+          "he": "בשם ב\"י והריטב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:34"
+        },
+        "35": {
+          "he": "כשמואל דאמר מיאנ' בזה מותרת לזה שם וכ\"כ הרי\"ף והרא\"ש שם וכ\"כ הרמב\"ם בפי\"א מה\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:35"
+        },
+        "36": {
+          "he": "משנה נדה דף כב ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:36"
+        },
+        "37": {
+          "he": "ממשנ' ריש יבמות וכדאמר רב ספרא שם דף יב ע\"א וכדעת רש\"י והרמב\"ם וכ\"כ הטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:37"
+        },
+        "38": {
+          "he": "וכ\"כ התוס' ופי' אז שתלד הוי גדולה משעת הריון וכ\"כ ה\"ה בשם הרבה מהמפרשים ושכ\"נ דעת הראב\"ד ממ\"ש בפי\"ט וכ\"נ מהסוגיא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:38"
+        },
+        "39": {
+          "he": "ממשנה נדה דף מו ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:39"
+        },
+        "40": {
+          "he": "כדמפרש לה רב שמואל וכו' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:40"
+        },
+        "41": {
+          "he": "ברייתא שם וכפי' הטור וה\"ה בשם המפרשי'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:41"
+        },
+        "42": {
+          "he": "רמב\"ם בס\"ב מה\"א כפי פירושו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:42"
+        },
+        "43": {
+          "he": "משנה גמרא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:43"
+        },
+        "44": {
+          "he": "כדתני ר\"ח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:44"
+        },
+        "45": {
+          "he": "כדאסיק רבא הלכתא דמ\"ח ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:45"
+        },
+        "46": {
+          "he": "פשוט שם בגמ' דמ\"ח ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:46"
+        },
+        "47": {
+          "he": "טור ברמב\"ם ממשמעות הגמ' דלעיל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:47"
+        },
+        "48": {
+          "he": "כפירש\"י שם וכתבו תו' שם שהדין עמו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:48"
+        },
+        "49": {
+          "he": "בריי' דף מ\"ח ע\"ב וכר\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:49"
+        },
+        "50": {
+          "he": "מרד' פ' מצות חליצה בשם ספר אבי\"ה בשם ר\"ת ושכ\"פ ראבי\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:50"
+        },
+        "51": {
+          "he": "מימרא דר\"ח כו' דכ\"ב ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:51"
+        },
+        "52": {
+          "he": "מימר' דר\"א כו' לא לשתמיט גומו' כו' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:52"
+        },
+        "53": {
+          "he": "מימרא דר\"מ שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:53"
+        },
+        "54": {
+          "he": "רמב\"ם שם ולרבנן אמרינן ר' אשי כו' (שם ע\"ב) ופי' רבינו שמקום א' הוא בית הערוה ה\"ה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:54"
+        },
+        "55": {
+          "he": "טור בשם ר\"י ושכ\"כ הרא\"ש כר\"ש ב\"י שם בבריית' וכתבו התו' שם בשם ר\"ת משהגיע לכלל שנותיה לא תמאן בזה\"ז דאין לנו בקיאים בבדיק' לבדוק כל גופה וכמ\"ש המחבר בסתם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:55"
+        },
+        "56": {
+          "he": "משנה שם וכר\"ע",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:56"
+        },
+        "57": {
+          "he": "מסקנת הגמרא שם הלכ' כדברי כולן להחמיר וכפרש\"י שם וכ\"כ הרא\"ש שם והטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:57"
+        },
+        "58": {
+          "he": "ל' הטור מימרא דרבא קטנה כל יב\"ש כו' וכדמוקי לה התם דלחליצ' בעי בדיקה שם דמ\"ז ע\"א וכ\"כ הרמב\"ם שם בפ' י\"א מה\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:58"
+        },
+        "59": {
+          "he": "פלוג' דרב ושמואל ביבמות דף קט וח\"י וכמ\"ש הרי\"ף שם כיון דלא איפסקא הלכתא בהדיא עבדי' בה לחומרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:59"
+        },
+        "60": {
+          "he": "כמימרא דר\"ד מנהרדע' הלכתא חוששין כו' נדה דף מ\"ז ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:60"
+        },
+        "61": {
+          "he": "כמימרא דרב שם ביבמות דלא אמרי' כל הבועל ע\"ד קידושין הראשונים בעיל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:61"
+        },
+        "62": {
+          "he": "והטעם בכל זה דהוי ספק א\"א דאורייתא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:62"
+        },
+        "63": {
+          "he": "לשון הטור ומבואר בדברי הרי\"ף שם ביבמות מסוגיא דנדה שם וכ\"כ הרמב\"ם שם בפי\"ח וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:63"
+        },
+        "64": {
+          "he": "מפני שדומה לאשה ששמעה שמת בעלה ואח\"כ בא בעלה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:64"
+        },
+        "65": {
+          "he": "טור בשם סה\"ת מדברי התוס'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 155:65"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "והשיאוה לדעתה פי' באין לה אב והשיאוה אחיה או אמה וביש לה אב ונתגרשה והשיאוה אפי' אביה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 155:1"
+        },
+        "2": {
+          "he": "רק שיהיה בפני ב' ה\"ה בחד סגי אלא שצריך שנים שיעידו עלי' כ\"כ התוספות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 155:2"
+        },
+        "3": {
+          "he": "אבל התוספות יש לה פרש\"י דמתנה בעלמא יהיה לה בחיבת ביאה פי' דידע מתחלה שיכולה למאן ואפ\"ה כתב לה מתנה זו בשביל חיבת ביאה כל זמן שהיא עמו משא\"כ במנה או מאתים שאין כותב לה מדעתו מתקנת חכמים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 155:3"
+        },
+        "4": {
+          "he": "מה שאבד מהם מנכסי צאן ברזל חייב לשלם ומנ\"מ פטור  בטור כתב ואם אינם בעין צריך לשלם והקשה ב\"י דהא תנן עברי מלוג אם מתו מתו לה. ותירץ דמיירי שאבדם הוא הא לאי הכי לא וא\"כ תימא דודאי מיירי כאן באבד הוא דמש\"ה חייב לשלם לפי שיטתו בב\"י ולמה פטור בנ\"מ לפי דעתו דהא חייב בנ\"מ באבד הוא לפי שיטתו ותו קשה דהרמב\"ם פכ\"ד מאישות כ' וז\"ל והממאנת אין לה בליות כלל שאין מוציאין מהבעל דבר ממה שאבד או נגנב מנכסים בין מנ\"מ בין מנצ\"ב אלא נוטלת הנמצא ויוצאה עד כאן לשונו ע\"כ העיקר בטור כספרים דגרסי אין צריך לשלם וכן כתב מו\"ח ז\"ל דספר מוטעה היה לפני ב\"י דבריו כאן בש\"ע אינם עיקר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 155:4"
+        },
+        "5": {
+          "he": "ואינה צריכ' להמתין ג' חדשים אף על גב דקטני גרושה צריכה להמתין היינו דגזרינן אטו גרושה גדולה משא\"כ במיאון דאין מיאון בגדול' כ\"כ רש\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 155:5"
+        },
+        "6": {
+          "he": "אבל לשאר קרובים מותרת זה דעת רמב\"ם וטור שכתבו בזה הל' הממאנת ביבם אסורה לאבי' מפני שנראי' לו ככלתו בשעה שמת בנו אבל מותר' בשאר קרוביו לפיכך מיאנ' בא' מהיבמים מותרת לשאר האחין עכ\"ל. וכתב ב\"י האי לפיכך אינו מתוקן דאינם תלויין זה בזה ומו\"ח ז\"ל (כתב) דגם הרמב\"ם וטור לא התירו לשאר קרובים אלא לאחים בלבד דהיתה ראויה להם בשעת מיתת הבעל מצד יבום ואין הלשון סובל כן דהא כתב סתם מותרת לשאר קרוביו משמע אפילו לבן אחד מהיבמים ולא אסורה עליו משום אשת אחי אביו וכן הבינו כל גדולים מדברי הרמב\"ם רק שחלקו עליו דמאי שנא מן אביו וזהו דעת הי\"א שמביא כאן ובאמת צ\"ע על הרמב\"ן וטור דמתירין גם בבן יבם ונלע\"ד דס\"ל לרמב\"ם וטור כיון דמן התורה מותרת באביו אפי' בחיי בעלה דאין קידושין תופסין בקטנה אלא דרבנן תקנו לה נשואין ממילא אסור' לאביו מפני שהיא כלתו מרבריהן כ\"ז שלא מיאנה ביבם ובזה נמשך האיסור של דבריהם אפי' אחר שמיאנה כיון שלא היה שום השתנות באוסר כלתו מדבריהם בין בחיי בעלה בין אחר מיתת בעלה תמיד היתה אסורה מדבריהם מצד איסור כלתו אבל בשאר קרובים כגון בן אחי בעלה שהאיסור עליו אשת אחי אביו א\"כ האיסור בא (מצד אביו שהוא) אחיו של המת ובזה יש השתנות דהא בחיי הבעל היתה אסורה מדרבנן על אחי הבעל ואחר מותו הותר לו אפי' מדרבנן אלא שעל בנו היתה אסורה מצד אשת אחי אביו וכיון שכן לא חשו למראית עין והמיאון על היבם מועיל לזה הבן אחיו שלא ימשוך האיסור של דבריהם אחר המיאון ביבם כיון שהאיסור מדעת אביו שהוא אחיו של המת ובו הוה שנוי להיתר ע\"כ לא גזרו אחד המיאון כלל כנ\"ל טעם הרמב\"ם וטור וע\"כ כתבו שפיר לפיכך כו' דטעם היתר שאר קרובים ואחי המת הם תלוים זה (בזה) משא\"כ באביו של מת דנשאר איסורו עולמי' כיון שלא היה שם שנוי אחרי מות הבעל והאיסור היא מצד הבעל המת וזה חילוק נכון:  מותר לשאר אחיו  פירוש וכ\"ש כל שלא מיאנה עדיין ביבם דמותרת לכולם דהא שייך שם יבום:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 155:6"
+        },
+        "7": {
+          "he": "למפרע מזמן שהיתה בת י\"ב כו'  וכתב בפירש נלע\"ד דה\"ה קטנה שנולדו בה סימני איילוני' אלא שצ\"ע אם מיאנה וניס' לאחר ואח\"כ נודע שהיתה גדולה למפרע נמצא שבניה ממזרים וי\"ל שאף אם ניסת לאחד בגדולה אם לא בא בעלה הא' עליה מן י\"ב ואילך אין קדושיה קדושין מדאוריית' אלא מדרבנן ואין כאן אלא חשש איסור מדרבנן לא חיישינן עכ\"ל ואישתמיטתי' סוגיא שלימה דריש פ' האשה בתרא דפליגי ר\"מ ורבנן דר\"מ חייש בקטן וקטנה שחולצין לר\"מ ולא מייבמין דשמא תמצא איילנות ונמצא פוגע בערו' ורבנן ס\"ל אזלינן בתר רובא דלא הוין סריס ואיילנות ה\"נ כן הוא דלא חיישינן לשמא יולדו בה סימני איילנו' קי\"ל כרבנן שם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 155:7"
+        },
+        "8": {
+          "he": "בפי הזוג כו'  בטור כתב וקי\"ל כדברי כולן להחמיר משיקרץ בצפורן לא תמאן ולא תחלוץ עד שיהיו כדי לכוף ראשן לעיקרן והרמב\"ם כתב משיהיו נוטלת לפי הזוג חשובה גדולה ויראה מדבריו שהוא קודם קרצתן בצפורן עכ\"ל ותמה רש\"ל ע\"ז דמאי נ\"מ מפי' זה מאחר דקי\"ל בכולן להחמיר דהיינו עד שיכוף ראשן לעיקרן כך יש לתמוה על הסמ\"ע שהיא מביא פירש\"י ורמב\"ם ואין נפקותא בפרושם וצ\"ע עכ\"ל. ומו\"ח ז\"ל הביא קושיא זו וטרח לתרץ בדרך רחוק ואני לא חזינא תיובתא כלל ותמהני על גברי רברבי דודאי יש נ\"מ גדולה לדינא דגם הרב המגיד כתב על הרמב\"ם וז\"ל ונראה שרבינו מפרש שניטלת בזוג הוא השיעור המלועט שבכולן אבל ברש\"י פי' דלקרוץ בצפורן זה המועט עכ\"ל וע\"כ ודאי יש נפקותא דלדעת הטור דקריצת בצפורן הוא המועט ממילא כל שבדקינן בצפורן ואינו קורץ (לא אמרינן) לא תמאן דשמא תוכל להנטל בפי הזוג שהוא שיעור המועט שבכולן וע\"כ (א\"צ) לבדוק עוד בזה ממילא לרמב\"ם אחר הזוג א\"צ בדיקה בצפורן ותמאן משא\"כ להטו' דצריך עדיין בצפורן ותמהני היאך לא הרגישו הגאונים בזה. וע\"כ יפה פסק כאן בש\"ע דיש ב' מיני בדיקות א' בצפורן וא' בזוג ממילא לא תמאן עד שיהיה בדיקה בשניהם כנ\"ל נכון וברור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 155:8"
+        },
+        "9": {
+          "he": "אבל אינה חשובה גדולה עד שיהיה כדי לכוף כו'  נהירנא בימי ילדותי דבאה שאלה מבני ישיבה דק\"ק פראנקפורט לק\"ק קראקא בשנת ש\"ץ לפ\"ק (ועיין בתשובת אמ\"ז בב\"ח סי' קנ\"ט תשובה) דברי הש\"ע אהדדי דכאן פסק דאם יש כדי לכוף ראשן לעיקרן סגי בכך ובסי' קס\"ט בפי' סדר חליצה סעיף כ\"ז כתב ולענין שיעור אורך השערות כו' שהוא ברוחב אצבע שקורין אמה עכ\"ל ואי תימא דחד שיעורא הוא זהו ודאי אינו דא\"כ היה לומר גם שם לשון שאומר כאן ימי\"ח ז\"ל פירש בזה בשני דרכים יעוין בספרו ואני הושבתי ע\"ז מה שנלע\"ד ותמהתי על החכמים דלשם דאין כאן קושיא כל עיקר והדברים ברורים דודאי מ\"ש כאן ושם שניהם אמת דכאן כ' דאם יש כדי לכוף כו' דסגי היינו ע\"פ התנאים הנזכרים כאן בסעיפים הקודמים דצריך שיהיה בירור שיש לה י\"ב שנים והשערות יהיו בעיקר גומות אז דוקא מהני אותו שיעור ולקמן בסי' קס\"ט מיירי שאין ידוע לה כמה שנים יש לה וגם אין רוצה לבדוק אחר הגומות של השערות זה אינו מועיל אלא אחר שיהיה לה רבוי שערות או שערות ארוכות כמו באיש גדול או אשה גדולה כמבואר שם בסי' קס\"ט בפי' סדר חליצה סעיף י\"א דאפילו בלא ידעה מן השנים סגי בזה וע\"ז סומכין שא\"צ לבדוק בגומות וע\"ז אמר שם בסעיף כ\"ז דכשיש בשערות כרוחב אצבע סגי בכך ומקרי גדולות כמו באשה גדולה ולא בעינן גדולים מאד לכשעור זה שפיר מקרי גדולה וא\"צ לדרוש אחר השנים ולא אחר הגומות עכ\"ל פשוט וברור. אלא שעדיין צריכין אנו למודעי במה שהקשה מו\"ח ז\"ל על פסק הש\"ע כאן דהא צריך לבדיקות הגומות ואנן אין בקיאין בכך וראיה מדברי המרדכי בפ' מצות חליצה ולעד\"ן דאדרבה דיש ראיה מדברי המרדכי שהרי כתב שם וז\"ל ע\"כ טוב לבדוק בדדין את האשה דאם הטו גדולה היא ומסתמא יש לה שערות ודבר זה יוכל האיש לבדוק בלי גנות וטוב הדבר כי טורח הוא לבדוק אם הביאה ב' שערות כדאמרינן לקמן דבעינן שיהא בעיקרן גומות אין אנו בקיאין להכיר בזה אבל אמנם אם יש רבוי שערות אי ארוכות מותרת לחלוץ דמסתמא הגיעה לגדלות עכ\"ל מדכתב טוב הדבר כו' משמע דשפיר יש בדיקה אם יש גומות אלא דיותר טוב לבדוק בדדים דאל\"כ היה לומר דעכשיו אסור לבדוק בגומות כמו הלשון שכתב הטור בשם ס' התרומה בסי' זה וז\"ל ובסה\"ת החמיר דבזמן הזה אינה ממאנת אחר י\"ב שנה אע\"פ שלא בעל משום דקי\"ל גומות אעפ\"י שאין שם שערות ואין אנו בקיאין (לה) (להבחין) בדבר זה שלא יהא בה גומות עכ\"ל הרי דכיון דאין אנו בקיאין החמיר יאסר לגמרי למאן משא\"כ כאן במרדכי לא אסר לגמרי משום חסרון בקיאות אלא דע\"צ היותר טוב הורה לבדוק בדיקה אחרת דהיינו בדדים דבזה יותר הכל בקיאים אם הטו אם לאו משא\"כ בההיא דסה\"ת דשם יש חשש שמא יש גומות בלא שערות דבר זה צריך בקיאות הרבה לבדוק בכל הגוף אם יש שם איזה גומות כמו דמסיק אח\"ז בשערות אפילו א' בגבה וא' בכריסה כו' בשביל חסרון בקיאות זה דהוא מן הנמנע אצלינו ע\"כ אסור לגמרי משא\"כ בחסרון בקיאות אם יש גומא במקום השער א\"צ בקיאות גדול כ\"כ עשה ע\"כ יוכל לסמוך עליה באם הוא גדול וא\"א בענין אחד שפיר נסמך על זה להחזיקה בגדולה אעפ\"י שאין ס' בנדרים נמצא דברי הש\"ע נכונים בשני המקומות להלכה ובחנם כ' מו\"ח ז\"ל בזה ב' דרכים ליישב כי הדברים ברורים במה שזכרנו בס\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 155:9"
+        },
+        "10": {
+          "he": "הוי ספק קידושין דהקדושין שנתקדשה בקטנותה אפילו אחר שנתגדלה אינה אלא מדרבנן והספק הוא אי נימא דלאחר שגתגדלה גדלי קדושין עמה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 155:10"
+        },
+        "11": {
+          "he": "וכן עשה מהר\"י פולק כו'  ז\"ל ד\"מ שחלקו עליו כל גדולי אשכנז מ\"מ לא אשגח בהו ויצא הדבר בהיתר וניסת לאחר בלא גט עכ\"ל ובתשובת ר\"י מינץ מבואר טעם החולקים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 155:11"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "שמיאנה בפני שנים.  עב\"ש ס\"ק מ\"א מה שתמה בזה וכבר הקדמו הרב\"י בבד\"ה סימן זה ועיין בס' קרבן נתנאל ביבמות פי\"ג אות ה':",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 155:1"
+        },
+        "2": {
+          "he": "שיתברר להם.  עיין בתשוב' ברית אברהם סימן צ\"ב אות י\"ד שהביא בשם תשובת לחם רב סי' כ\"ד שכתב לקבל עדות שהי' קטנה שתצא במיאון מקבלין שלא בפני בע\"ד דהוי למיפטר ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 155:2"
+        },
+        "3": {
+          "he": "ומשעת הריון  עב\"ש ס\"ק י\"ח וע' בס' ק\"נ פ\"ק דיבמות אות ך' דהא\"ז ס\"ל דלא בעינן תנאי דכשתלד יהיו בני קיימא כמו שס\"ל לתוס' ביבמות דף י\"ג ובזה מסולק קושיית הב\"ש בס\"ק י\"ח ע\"ש גם בגליון ש\"ע של הגאון רבינו עקיבא איגר ז\"ל עמ\"ש הב\"ש מיהו מבואר בתוס' דוק' כשהוא בן קיימ' אבל אם הפילה ממאנת כו' נ\"ב עיין בשו\"ת מנ\"ע סי' קי\"ד דאף בהפילה אינה ממאנת ועיין בסדרי טהרה בחידושיו לנדה דף נ\"ב בד\"ה ודע דמסקינן כו' עכ\"ל.",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 155:3"
+        },
+        "4": {
+          "he": "למפרע מזמן שהיתה כו'  וכ\"כ בש\"ע ח\"מ סי' רל\"ה סי\"ב ועיין בס' ב\"מ שהאריך בזה ומסיים עכ\"פ יראה לע\"ד שדין למפרע האמור כאן ובח\"מ לאו דברי הכל הוא אלא במחלוקת שנוי כו' ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 155:4"
+        },
+        "5": {
+          "he": "ויש מי שאומר כו'  ע' בח\"מ סימן ל\"ה ס\"ב בסמ\"ע סק\"ה וע' בתוי\"ט פ\"ה דנדה משנה ט':",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 155:5"
+        },
+        "6": {
+          "he": "ביום אחרון.  עב\"ש סק\"כ וע' בהגהת מל\"מ פ\"ד מהל' אישות דין ז' וע' בסמ\"ע וש\"ך בח\"מ סימן ל\"ה ס\"א וביאורים ותומים שם סק\"א:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 155:6"
+        },
+        "7": {
+          "he": "ספק אם הגיעה.  עב\"ש ועיין במל\"מ פ\"ב מה\"א דין י\"ט וע' בשו\"ת הגאון מהר\"ש זלמן זצ\"ל מלאדי מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 155:7"
+        },
+        "8": {
+          "he": "שיהיה בהן כדי לכוף.  עיין בתשובת נו\"ב סימן צ\"ג בד\"ה ולפ\"ז שהקשה על דין דשערות דבעי' כדי לכוף ממ\"נ היכא מיירי אי אין בהן גומות כי יש בהן כדי לכוף מאי הוה ואי יש בהן גומות א\"כ אפילו בקטנות מאד דל שערות מהכא הרי בגומות לחוד סגי וצ\"ל דנ\"מ היכא שב\"ש יוצאים מגומא א' דלענין שערות מהני אבל בלי שערות לא מהני גומא א' ובזה בעינן כדי לכוף ולפ\"ז אם כל אחת יוצאת מגומ' אחת בפני עצמה אפי' קטנות ביותר מהני כו' ושוב כתב דיש להשיב דגומות לחוד ודאי מהני אבל בשערות יוצאים מגומות והם קטנות משיעורן גרע טפי שאין הגומות מצד עצמן סימן אלא שאנו אומרים חזקה היו בהם שערות ונשרו ואמרינן מסתמא היו בם שערות כדי כפיפה וכל זה אם אין שכרות כלל אבל אם יש בהם שערות ואנו רואים פחות מכדי כפיפה לא מהני הגומות אף ביוצאין מב' גומות עכ\"ד ועמ\"ש לקמן סי' קס\"ט סעיף נ\"א בשמו:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 155:8"
+        },
+        "9": {
+          "he": "כשלא בעיל.  עב\"ש ס\"ק כ\"ט מ\"ש וכ' במרדכי ובהגמי\"י דאז נשים נאמנות כו' וכן כשלא בעל ונשים מעידות על שנים כו' וע' בשו\"ת הגאון מהר\"ש זלמן זצ\"ל מלאדי סי' כ\"ח שכ' דהתם מיירי דבשעת קידושין היתה קטנה בודאי רק שבשעת מיאון נסתפק לנו שמא היא עכשיו בת י\"ב שנה אבל אם הספק הוא גם על שעת הקידושין אין עדות הנשים מועלת וצריכה עדות ב' אנשים כשרים וכמו דלא סמכינן אעדות נשים כשבעיל ומה לי קדושי ביאה ומה לי קדושי כסף כו' ע\"ש עוד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 155:9"
+        },
+        "10": {
+          "he": "שודאי בעל לש\"ק ואם קדשה כו'.  בגליון ש\"ע של הגאון רע\"ק איגר זצ\"ל כתב בזה וז\"ל והיכא דבא עליה תוך שנת י\"ב ונתעברה וילדה בן קיימ' דקיי\"ל לעיל סעי' י\"ב דמשעת עיבור היא גדולה מסתפקנ' אם א\"צ גט משני או די\"ל כיון דמיעוט' דמיעוט' הם גדולים בשנת י\"ב לא אסיק אדעתי' לבעול לשם קדושין וע' תוס' פ\"ק דיבמות דף י\"ב ע\"ב ד\"ה דאפי' לר\"י כו' ודוק עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 155:10"
+        },
+        "11": {
+          "he": "ועמדה ונתקדשה.  בהגהות הגאון רע\"ק ז\"ל כתב בזה דוקא נתפייסה מיד אבל אם חטפ' בחזקה אף דלבסוף נתרצית מ\"מ כיון דעביד שלא כהוגן אפקינהו רבנן לקדושין מיני' כ\"כ הנ\"י והוצי' כן מסוגיין עכ\"ל וכ\"כ בד\"מ אות י\"א בשמו וע' בס' ב\"מ מ\"ש בזה.",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 155:11"
+        },
+        "12": {
+          "he": "תצא מזה ומזה.  ע' בטור ועיין בתשו' מהריב\"ל ח\"א כלל ג' סי' ח\"י ובספר שעה\"מ פ\"ד מה\"א דין י\"ט:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 155:12"
+        },
+        "13": {
+          "he": "דהאידנ'  עב\"ש ס\"ק ל\"ד ועיין בתשובת ברית אברהם חיו\"ד סי' נ\"ז אות ט\"ו שכ' עליו דבריו תמוהים דהא לעיל סי\"ט איתא דבלא בדיקה הוי חזקה שהביאה ב\"ש א\"כ עכשיו דאין בקיאין ודאי לא הוי ספק כלל אך חזקה דהביאה ב\"ש ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 155:13"
+        },
+        "14": {
+          "he": "ודלא כיש מחמירין.  כתב בשו\"ת הגאון מהר\"ש זלמן זצ\"ל מלאדי סימן כ\"א וז\"ל פתח דבריו יאירו כו' ואעפ\"כ להלכה למעשה אין לחוש משום שינוי מנהג ח\"ו להיותו דבר שאינו מצוי כ\"כ לינשא יתומה קטנה ולמאוס בו מיד ובדבר שאינו מצוי אין בו מנהג כמ\"ש הרמב\"ם כו' וזו היא דעת הרמ\"א ס\"ס קנ\"ה וכ\"ד הט\"ז שם ונימוקו עמו שלא חשש לדעת מהר\"י מינץ כו' ואף גם אם למדוה למאן הא תנן מלמדין את הקטנה שתמאן מכלל דהוי מיאון מעליא. ברם כגון דא צריך לאודועי כו' והלכך בנ\"ד צריכה ב' עדים כשרים ולא על שעת חופה וקידושין בלבד אלא גם על שעת מיאון שלא היתה בת יב\"ש ויום א' כי היא אינה נאמנת לו' שלא נבעלה מאחר שנתיחדה עמו והן הן עידי יחוד כו' עכ\"ל ע\"ש. וע' ביש\"ש פ' ב\"ש סי' י\"ז שדעתו כהיש מחמירין והאריך שם ותורף דבריו דבזה\"ז אין למאן ואפי' אם מיאנה לא תנשא עד שתתגרש אבל אם כבר נשאת ע\"י המיאון לא מפקינן מבעלה רק שלא יהא לה י\"ב שנה ויום א' ואותו המורה ראוי להורידו מגדולתו. ועל מעשה דר' יעקב פולק ז\"ל שהורה למאן ונשאת לאחר כתב ששמע שלא עלה זיווגן יפה ע\"ש. ועיין בתשו' גלי' מסכת בקו\"א סי' ו' מענין זה בעובדא שהיה בעיר אחת בקטנה שהשיאוה אחיה ואמה ואח\"ז נעשה בעלה חולה והוכבד חליו עד מות ולא היה זמן מספיק לעשות גט ואמר המורה שנמצא שם לעשות מיאון ע\"פ שאמרו אחיה ואמה שהיא רק בת י\"א שנה ומחמת שהי' המורה מסופק בדעתו אם מועיל מיאון בזה\"ז עשה לה מיאון על תנאי אם יועיל ע\"פ הדין ואם לא יועיל ע\"פ דין לא יהי' המיאון מיאון מחמת שחש שעי\"ז שיסתפק הדבר ויהי' חליצה פסולה תהי' צריכה לחזור על כל האחין ונשארו יבמין קטנים ואח גדול הלך למקום ירחוק הרבה והאריך בזה אם טוב עשה המורה בזה שלא חשש לדעת המחמירין וגם אם להתירה להנשא ע\"פ מיאון ההו' שנעשה ע\"פ לימוד מהמורה. וגם בענין דברי הנו\"ב תניינא סי' נ\"ב שכ' שאשה יכולה למאן ביבם אף אחר שהגדילה ע\"ש באריכות:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 155:14"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

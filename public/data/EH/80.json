@@ -1,0 +1,488 @@
+{
+  "chelek": "EH",
+  "siman": 80,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 18,
+  "fetchedAt": "2026-07-08T00:08:59.913Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "מעשה ידיה שהיא חייבת לבעלה ודיני מניקה ושאינה רוצה לעשות מלאכה. ובו י\"ח סעיפים: מעשה ידיה לבעלה כיצד הכל כמנהג המדינה מקום שדרכן לארוג אורגת לרקום רוקמת לטוות צמר או פשתים טווה ואם לא היה דרך נשי העיר לעשות כל המלאכות האלו אינו כופה אלא לטוות הצמר בלבד דחקה עצמה ועשתה יותר מהראוי לה המותר לבעל: הגה ודוקא שנתן לה מעה כסף כל שבוע כמו שנתבאר לעיל סי' ע' ויכולה אשה לומר איני נוטלת מעה כסף ואיני נותנת המותר אבל הבעל לא יוכל לומר כך (טור בשם הרמ\"ה וכ\"כ הר\"ן פרק אע\"פ וכ\"כ השאלתות פרשת משפטים):",
+      "en": "The product of her work belongs to her husband. How [does this work?] All according to local practice. In a place where they [the women] tend to weave, she weaves. ... to embroider, she embroiders. ... to spin wool or linen, she spins. And if the way of the women of the city wasn't to do any of these jobs, he can only compel her to spin the wool. If she pushed herself and made more than enough for herself, the excess [belongs] to her husband. Rem\"a: And this is only when he gives her a *ma'ah* of silver each week, as was explained above, in Siman 70. And the woman can say, \"I will take the *ma'ah* of silver, and I won't give the excess,\" but the husband cannot say this. (Tur in the name of the Rem\"a, and the Ra\"n wrote similarly [on] the chapter [of Talmud Ketubot called] \"Even so,\" and the She'iltot wrote similarly [on] *Parashat Mishpatim*.)",
+      "ref": "Shulchan Arukh, Even HaEzer 80:1"
+    },
+    {
+      "seif": 2,
+      "he": "היה לו ממון הרבה אפי' היה לה כמה שפחות אינה יושבת לבטלה בלא מלאכה שהבטלה מביאה לידי זימה אבל אין כופין אותה לעשות מלאכה כל היום כולו אלא לפי רוב הממון ממעטת במלאכה:",
+      "en": "If he had a lot of money, even if she had many maidservants, she may not sit idle without work, as idleness brings [one] to  immorality. But we do not compel her to do work all day long; rather, in accordance with the abundance of money, she reduces working.",
+      "ref": "Shulchan Arukh, Even HaEzer 80:2"
+    },
+    {
+      "seif": 3,
+      "he": "המדיר את אשתו שלא תעשה מלאכה יוציא ויתן כתובה שהבטלה מביאה לידי זימה:",
+      "en": "One who imposes a vow on his wife that she will not do work, he [must] divorce her and pay her *ketubah* [marriage contract], as idleness brings one to immorality.",
+      "ref": "Shulchan Arukh, Even HaEzer 80:3"
+    },
+    {
+      "seif": 4,
+      "he": "וכן כל אשה רוחצת לבעלה פניו ידיו ורגליו ומוזגת לו את הכוס ומצעת לו את המטה  (וי\"א דמחוייב' להציע כל מטות הבית) (המ\"מ פכ\"א ובהר\"ן פרק אע\"פ)  ועומדת ומשמשת בפני בעלה כגון שתתן לו מים או כלי או שתטול מלפניו וכיוצא בדברים אלו אבל אינה עומדת ומשמשת בפני אביו או בפני בנו וי\"א דוקא באינן סמוכין על שלחן בעלה (ב\"י בשם הר\"ן פ' אע\"פ):",
+      "en": "And so, every wife washes her husbands, face, hands, and feet for him, and pours him his cup, and makes his bed for him. And there are those who say that she is obligated to make all the beds in the house (The Maggid Mishneh on Chapter 21 and the Ra\"n on the chapter [of Talmud Ketubot] called \"Even though\"). And she stands and serves before her husband, for example, giving him water or a vessel or taking it from him, and things like this, but she does not stand and serve before his father or before his so. And there are those  that say that this is only when they are not dependent on her husband's table (Beit Yoseif in the name of the Ra\"n on the chapter [of Talmud Ketubot] called \"Even though\").",
+      "ref": "Shulchan Arukh, Even HaEzer 80:4"
+    },
+    {
+      "seif": 5,
+      "he": "מלאכות אלו עושה אותן היא בעצמה ואפילו היו לה כמה שפחות אין עושין מלאכות אלו לבעל אלא אשתו  (ויש מחלוקת בהצעת המטה ועיין למטה סעיף ח'):",
+      "en": "These labors, she does personally, and even if she has many maidservants, they do not do these labors for the husband - only his wife. And there is a disagreement regarding making the bed - see below in Sa'if 8.",
+      "ref": "Shulchan Arukh, Even HaEzer 80:5"
+    },
+    {
+      "seif": 6,
+      "he": "יש מלאכות שהאשה עושה לבעלה בזמן שהם עניים ואלו הם מטחנת ואופה ומכבסת ומבשלת ומניקה את בנה ונותנת תבן לפני בהמתו אבל לא לפני בקרו: הגה מת בנה אינה מחוייבת להניק בשכר וליתן לו השכר וכן בנו מאשה אחרת אינה מחוייבת להניק (הר\"ן פרק אע\"פ):",
+      "en": "There are labors that the woman does for her husband when they are paupers. These are they: she grinds, bakes, launders, cooks, breastfeeds her son, and puts straw before his animal but not before his cattle. Comment: [If] her son died, she is not obliged to breastfeed for pay and give him the pay. Likewise, his son from another wife -- she is not obliged to breastfeed him (Ran, chapter Af Al Pi).",
+      "ref": "Shulchan Arukh, Even HaEzer 80:6"
+    },
+    {
+      "seif": 7,
+      "he": "הכניסה לו שפחה אחת או נכסים שראוי לקנות מהן שפחה אחת או שהיה לו ממון כדי לקנות ממנו שפחה אחת אינה מטחנת ולא אופה ולא מכבסת ולא נותנת תבן לפני בהמתו:",
+      "en": "[If] she brought [into the marriage] for him a single slavewoman or property suitable for acquiring, from it, a single slavewoman -- or if he had money sufficient to buy from it a single slavewoman -- she doesn't grind, nor bake, nor launder, nor place straw before his animal.",
+      "ref": "Shulchan Arukh, Even HaEzer 80:7"
+    },
+    {
+      "seif": 8,
+      "he": "הכניסה לו שתי שפחות או נכסים הראוים לקנות מהם שתי שפחות או שהיו לו שתי שפחות או שהיה ראוי לקנות שתי שפחות אינה מבשלת ואינה מניקה את בנה: הגה הכניסה לו שלשה שפחות או ממון או שיש לו ממון שיכול לקנות או לשכור אינה מצעת המטות רק מטתו (הר\"ן בשם י\"מ) י\"א דאף מטתו אינה מצעת רק בפריסת סדינין ומסדרת לו מטתו שהוא דרך חיבה וכל אשה תעשה זה אפי' יש לה כמה שפחות (טור):",
+      "en": "[If] she brought [into the marriage] for him two slavewomen, or property suitable for acquiring, from it, two slavewomen, or [if] he had two slavewomen or was fit to acquire two slavewomen, [then] she doesn't cook and doesn't breastfeed her son. Comment: [If] she brought in for him three slavewomen, or money, or [if] he has money [with which] he can acquire or hire [them], [then] she doesn't make the beds, except his bed (Ran in the name of \"some explain\"). Some say she doesn't make even his bed except by spreading sheets; and she organizes his bed for him, as that is a way of affection, and every woman shall do this even if she has a number of slavewomen (Tur).",
+      "ref": "Shulchan Arukh, Even HaEzer 80:8"
+    },
+    {
+      "seif": 9,
+      "he": "היא אומרת ראוי הוא לקנות או לשכור שפחה והוא אומר שאינו ראוי עליה להביא ראיה:",
+      "en": "[If] she says he is fit to purchase or hire a slavewoman and he says he's not fit [to], the burden of proof is upon her.",
+      "ref": "Shulchan Arukh, Even HaEzer 80:9"
+    },
+    {
+      "seif": 10,
+      "he": "כל אלו המלאכות אין מחייבים אותה אא\"כ יהיה דרך משפחתו ומשפחתה לעשותן:",
+      "en": "We do not obligate her in all these labors unless it is the way of his family and her family to do them.",
+      "ref": "Shulchan Arukh, Even HaEzer 80:10"
+    },
+    {
+      "seif": 11,
+      "he": "כל זמן שהיא מניקה את בנה פוחתין לה ממעשה ידיה ומוסיפים לה על מזונותיה יין ודברים שיפים לחלב לא הוסיפו לה צריכה לאכול משלה אם יש לה (טור):",
+      "en": "All the time she is breastfeeding his son, we deduct for her from her handiwork; and we add wine and things that are good for milk to her sustenance. [If] they didn't add for her, she must eat of her own if she has (Tur).",
+      "ref": "Shulchan Arukh, Even HaEzer 80:11"
+    },
+    {
+      "seif": 12,
+      "he": "פסקו לה מזונות הראויים לה והרי היא מתאוה לאכול יותר או לאכול מאכלות אחרות יש מי שאומר שאין הבעל יכול לעכב מפני סכנת הולד שצער גופה קודם ויש מי שאומר שיכול לעכב:",
+      "en": "If they allocated sustenance appropriate for her, but she desires to eat more or to eat different foods, one authority say that the husband cannot withhold this, for fear of harming the child, for the discomfort of her body takes precedence, but another authority says that he may withhold.",
+      "ref": "Shulchan Arukh, Even HaEzer 80:12"
+    },
+    {
+      "seif": 13,
+      "he": "ילדה תאומים אין כופין אותה להניק שניהם אלא מניקה א' ושוכר הבעל מניקה לשני וי\"א דמניקה שניהם [טור בשם הרא\"ש]:",
+      "en": "If she gave birth to twins, we do not force her to breastfeed both, rather she feeds one, and the husband hires a wet nurse to feed the second.  Note: Some authorities say that she feeds both (Tur in the name of Rosh).",
+      "ref": "Shulchan Arukh, Even HaEzer 80:13"
+    },
+    {
+      "seif": 14,
+      "he": "הרי שרצתה להניק בן חבירתה עם בנה הבעל מעכב ואפי' בנה מאיש אחר הוא יכול לעכב [טור]:",
+      "en": "If she wanted to feed her friend's son along with her own son, the husband may prevent this.  Note: Even with regards to her son from another man the husband may prevent this.",
+      "ref": "Shulchan Arukh, Even HaEzer 80:14"
+    },
+    {
+      "seif": 15,
+      "he": "כל אשה שתמנע מלעשות מלאכה ממלאכות שהיא חייבת לעשותן כופין אותה לעשות: הגה ואינו זנה עד שתעשה וכן ב\"ד משמתין אותה או מוכרין כתובתה לשכור עליה עבד או שפחה (המ\"מ פכ\"א בשם הרמב\"ן והרשב\"א) וי\"א דכופין אותה בשוטים (טור בשם הרמב\"ם) וכל זה באומרת איני עושה וניזונית אבל אם אומרת איני ניזונית ואיני עושה הרשות בידה (ב\"י לדעת הרמב\"ם וכ\"כ ר\"ן) וכמו שנתבאר לעיל סי' ס\"ט וי\"א דאפילו באומרת איני ניזונית ואיני עושה צריכה לעשות צרכי הבית ולזה כופין אותה אע\"פ שאינה ניזונית (ג\"ז ב\"י לדעת הרמב\"ם) לחד שינויא:",
+      "en": "Any woman who refuses to do her required work is forced to do these tasks. hagah: and he does not have to feed her (buy her food) until she does these things. Bet din will even sell the rights of her ketubah (which is a commodity and sell-able) in order to use the profits of the sale to hire a maid. some people say that we force her with a whip. All this applies if she said expressed that she wants to be supported while doing no tasks. But, if she said that she will forgo her support from her husband in exchange for not doing her tasks, she is allowed to do so. This is similar to what we said before in siman 69. Some say, that even if she says she will forgo her support for her work, she still needs to do household work. and for these types of chores we force her, even if she says she will give up her husband's support (food).",
+      "ref": "Shulchan Arukh, Even HaEzer 80:15"
+    },
+    {
+      "seif": 16,
+      "he": "טען הוא שאינה עושה והיא אומרת שאינה נמנעת מלעשותן מושיבין אשה ביניהם או שכנים:",
+      "en": "If a person claims that his wife is not doing ( her duties ?) and she claims that she is not abstaining from doing, then a woman or neighbors are places among them ( to determine the validity of the claim).",
+      "ref": "Shulchan Arukh, Even HaEzer 80:16"
+    },
+    {
+      "seif": 17,
+      "he": "האשה ששברה כלים בעת שעשתה מלאכותיה בתוך ביתה פטורה:",
+      "en": "A woman who breaks dishes while working in her own house is exempt ( of fine/ retribution).",
+      "ref": "Shulchan Arukh, Even HaEzer 80:17"
+    },
+    {
+      "seif": 18,
+      "he": "מי שהתנה עם אשתו שלא יתחייב במזונותיה וכן היא לא תתחייב לו במעשה ידיה אם אחר כך רצה ונתחייב הוא לתת לה  (במתנה) מזונותיה אין מעשה ידיה שלו: הגה אשה ששתקה ולא תבעה מזונות ולא מעה כסף מן הסתם מעשה ידיה עם המותר שלה ולא אמרינן שמחלה מעשה ידיה (הר\"ן פ' אע\"פ) אבל מה שאינו מספיק לה אין הבעל צריך לשלם לה דודאי מחלה. אשה שהלכה מבית בעלה מכח קטטה ואינה רוצה לשוב לביתו עד שיקרא לה בעלה לא הפסידה משום זה מזונותיה דבושה ממנו לשוב מאחר שיצאה בלא רשותו ואינו מראה לה פנים ואם הוא יבא אצלה אינה מונעתו מכלום אבל אם אינה רוצה לבא אצלו עד שיפרע מה שלותה אבדה מזונותיה דהוי כמורדת דכל מורדת טענה אית לה וכל אשה יש לה מזונות אע\"פ שאין כתובתה בידה ואינו נאמן לומר שמחלה לו רק בראיה ברורה ואפי' על מזונות שעברו אם לא טען לא טענינן ליה וצריך לישבע שמחלה לו (כל זה בתשובת הרשב\"א הובאה בב\"י סי' ע\"ז):",
+      "en": "A man who made a condition with his wife that he would not be responsible for her sustenance and similarly she would not be required to hand over the fruits of her labor, if he subsequently desired to do so and agreed to be responsible for her sustenance (Rama: as a gift), he does not [automatically] receive the fruits of her labor.  Rama: A woman who was silent and did not claim her sustenance or [weekly allowance of] one ma'ah silver coin, we presume that she retains the rights to her [basic] labor along with any extra labor, and we do not say that she relinquished her rights to her labor (Ran chapter Af Al Pi). But that which is not sufficient for her (i.e. she did not earn enough to satisfy her needs), the husband is not required to pay, for she certainly relinquished her rights.  A woman who left her husband's house due to a squabble, and does not want to return to his house until he calls her back, she does not lose her sustenance, for she is embarrassed to return after she left without his permission and he does not show her [a kind] face, and if he were to come to her, she would not deny him anything. But if she does not want to return to him until he repays her loans (that she borrowed to purchase food), she thereby loses support, for she has a status of a rebellious wife, and every rebellious wife has some complaint (rather she should first return and then settle accounts). Every wife has rights to sustenance even if she does not have possession of her ketuba, and he is not believed with a claim that she relinquished her rights to him, except with clear proof. And even with respect to [unpaid] support in the past, if he does not argue [that he was not required to pay] we do not argue for him, and he must swear that she relinquished her rights [to sustenance] (All this is in Responsa Rashba, cited in Beit Yosef chapter 77).",
+      "ref": "Shulchan Arukh, Even HaEzer 80:18"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ל' הרמב\"ם ריש פכ\"א מה' אישות ממשנה כתובות דף נ\"ט ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:1"
+        },
+        "2": {
+          "he": "מהתוספתא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:2"
+        },
+        "3": {
+          "he": "כר\"א שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:3"
+        },
+        "4": {
+          "he": "כת\"ק במשנה נדרים דף ס\"ה ע\"א ומייתי לה שם בכתובות דף ס\"ו ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:4"
+        },
+        "5": {
+          "he": "שם בכתובו' במשנה וכר\"א דאי פסק' הלכה כוותיה שם דף סא ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:5"
+        },
+        "6": {
+          "he": "שם במשנה כרשב\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:6"
+        },
+        "7": {
+          "he": "שם ממימרא דרב יצחק בר חנני' וכו' שם דף סא ע\"א ומפרש שאע\"פ שהי' ראוי שתשב בקתדרא כדתנן במשנה אבל מוזגת וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:7"
+        },
+        "8": {
+          "he": "כתב ה\"ה פשוט הוא וכל שכן הוא מהצעת המטה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:8"
+        },
+        "9": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:9"
+        },
+        "10": {
+          "he": "נתבאר במ\"ש בסעי' דלעיל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:10"
+        },
+        "11": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:11"
+        },
+        "12": {
+          "he": "פי' יושבת בריחים ומשמרת הקמח ובמקום שדרכן לדחון בריחים של יד טוחנת רמב\"ם וטור מהגמ' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:12"
+        },
+        "13": {
+          "he": "ברייתא שם דף סא ע\"ב וכגירסת הרי\"ף ופי' הרא\"ש לפני בהמתו שהוא רוכב עליה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:13"
+        },
+        "14": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:14"
+        },
+        "15": {
+          "he": "מימרא דרב חנא וכו' שם דף ס\"א ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:15"
+        },
+        "16": {
+          "he": "ברית' שם כגירסת הרי\"ף והרא\"ש דגרסי' וא' שמצאה לו משלו והביאו התוס' ופירשו כלומר שהוא עשיר שיכול לקנות וכן פי' הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:16"
+        },
+        "17": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:17"
+        },
+        "18": {
+          "he": "ג\"ז שם ברמב\"ם וכמ\"ש ה\"ה שם שאין כאן מקום לשבועת היסת לפי שהיא אינה תובעה ממנו ממון אלא שבאה ליפטר משעבודה ואינה נפטרה אלא בראיה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:18"
+        },
+        "19": {
+          "he": "טור מדין מניקה שם דף סא ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:19"
+        },
+        "20": {
+          "he": "משנה שם דף סד ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:20"
+        },
+        "21": {
+          "he": "מימר' דריב\"ל שם דף ס' ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:21"
+        },
+        "22": {
+          "he": "הרמב\"ם שם וכפי פירושו בבריית' פסקה לה קימעא וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:22"
+        },
+        "23": {
+          "he": "שם סוף דף ס' ע\"ב ובאוכל' משל' איירי כדמפרש רב ששת שם וכ\"כ הרמב\"ם שם וכן העתיק הטור בפירש כברייתא כפי' רש\"י שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:23"
+        },
+        "24": {
+          "he": "מהירושלמי שם והביאו ג\"כ הרי\"ף וכ\"כ הטור בשמם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:24"
+        },
+        "25": {
+          "he": "שם בפסקיו כפי גירסתו שם בירוש'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:25"
+        },
+        "26": {
+          "he": "הרמב\"ם שם מהירושלמי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:26"
+        },
+        "27": {
+          "he": "וכתב הב\"י שנ\"ל שגם הרמב\"ם סובר כן אלא שנמשך אחר לשון הירושלמי ומה שלא הזכירו הירושלמי משום דמילתא דלא שכיח' הוא דהא מינקת חבירו אסור' להנשא וכולי ע\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:27"
+        },
+        "28": {
+          "he": "ג\"ז שם ברמב\"ם דקי\"ל כר\"ה שם ד' כג ע\"א שאין דין מורדת ממלאכה אך שסיים שם ברמב\"ם שכופין ואפי' בשוטים וכמ\"ש הרמ\"א בהגה וכ\"כ ה\"ה שם בשם הרשב\"א והרמב\"ן וכ\"כ המחבר שם בכ\"מ ובב\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:28"
+        },
+        "29": {
+          "he": "שם וכתב ה\"ה שדברי רבינו פשוטים הם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:29"
+        },
+        "30": {
+          "he": "שם מהירושלמי פ' הכותב שאם לא כן אין לך שלום הבית וכמ\"ש ה\"ה בשם הרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:30"
+        },
+        "31": {
+          "he": "הריב\"ש בתשוב'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:31"
+        },
+        "32": {
+          "he": "כן היא בב\"י ושם בתשובה ומפרש שם דליכא למימר מעשה ידיה שלו משום איבה דליתיה לההיא טעמא אלא כשאוכלת מן התקנה ולא מן הדין",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 80:32"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "לפני בקרו  פי' זכרים ובהמתו פי' נקבות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 80:1"
+        },
+        "2": {
+          "he": "היא אומרת ראוי הוא לו לקנות או לשכור כו'.  בטור מביא דין זה בשם רמב\"ם וסיים בו ואין כאן מקום לשבועה וכתבו הרב המגיד לפי שהיא אינה תובעת ממנו שיתחייב עד שנאמר שישבע היסת ונפטר אלא שבאה ליפטר משיעבודה ואינה נפטרת אלא בראיה וכ' ע\"ז מו\"ח ז\"ל ואינו מבין כיון שהיא טוענ' ברי שראוי לו לקנות שפחה ופטורה מטחינה ואפ\"ה אע\"פ שאם לא תביא ראיה חייבת במלאכה מ\"מ אם (טוענת) ישבע לי שאין ראוי לקנות שפחה חייב לישבע ונראה שגם הרב בש\"ע כן דעתו ולכן לא כתב הך מלתא דאין כאן מקום לשבועה עכ\"ל ואני אומר דיפה אמר הרמב\"ם דאין כאן שייכת שבועה דעל מי מטיל שבועה והיינו היסת דשייכא על שרוצה להפסידו דודאי לא שייך היסת דשייכא על מי שרוצה להוציא דדוקא בשבויה דאורייתא מצינו שבועה ונוטל בקצת דרכים שזכרו חכמים לענין נשבע ונוטל אבל לא בהיס' כדאיתא ריש ב\"מ דתקנתא לתקנתא לא עבדינן וה\"נ אין לו כח להוציא ממנה וע\"כ אין כאן שבועה על הבעל ועל האשה לא שייך היסת דכיון דכל אשה משועבדת לבעלה בטחינה ואפיה אלא שקצ נשים שמכנסת ממון הרבה הם יוצאים מכלל זה והיינו בידוע דודאי לא תצא מחזקה זו של כל הנשים מכח שבועתה כמו שמצינו בתשובת רשב\"א מביא בב\"י סי' ע\"ז שאין הבעל נאמן לומר מחלה לי מזונות שהרי חזקה שיש לה מזונות. ע\"כ אין לה פטור אלא בעדים ודברי הרב המגיד הם ברורים והש\"ע שלא העתיק דבר זה לפי שכיון שלא הזכיר רק שלא מועיל לה רק שעליה להביא ראיה ממילא ידע' שאין כאן עסק שבועה זהו פשוט וברור אכן אם יש ענין שהבעל יש לו תביעה על אשתו מכח שישלם לה מזונות והוא רוצה לנכות לו מעשה ידיה והיא אמרה שלא היתה חייבת לו כי היה לו ממון הרבה לקנות שפחה והיא מכחיש אותה נשבע הוא שכדבריו כן הו שהרי יש כאן תביעת ממון מן האשה על הבעל והוא רוצה להפטיר כנלע\"ד:  דברי המגיה כתב ב\"ש ס\"ק י\"א וב\"ח כתב שהיא יכולה להשביעו אחר שעשתה מלאכה יכולה לורמ השבע לי שאין לך כדי לקנות שפחה ואפשר גם הרמב\"ם ס\"ל כן מיהו אח\"כ יכולה להשביעו עכ\"ל ולא ידעתי שום רמז רמיזא בב\"ח כי הם דברם שא\"א לשומען דהב\"ח לא כתב רק אף שהיא אינה נפטרה משעבודה מ\"מ אם טוענת ישבע לי מחויב לישבע אבל מ\"ש הוא לאחר שעשתה מלאכה יכולה להשביע אין תימא גדול מזה איך אפשר לומר לאחר שעשתה מלאכה הלא לעולם החיוב עלה לעשות מלאכה ואם תאמר לאחר שעשתה מלאכה יום או יומים יכולה להשביע על מה שעשתה כבר למה יועיל שבועה זה אם נאמר שאם לא ירצה לישבע מחויב לשלם שכר מלאכתה זה ודאי א\"א לאמרה דהרי אף בדחקה עצמה ועשתה יותר מהראוי לה כתב ברס\"ז דהמותר לבעל כ\"ש דמחייובת לפ\"ד רק שאינו רוצה לישבע דאין מוציאין מידו ואף שכ' הב\"ח דהאידנא אין מוציאין מהאשה בדחקה יותר מהראוי עכ\"פ אם הוא מוחזק אין מוציאין מידו וגם בהיה לו ממון הרבה דאינה מחויבת לעשו' מלאכה כ\"כ פליגי הפוסקים דיש מי שאומרים דאם עשתה היא שלה וי\"א דהיא של בעל והיינו להוציא מיד האשה אבל מבעל ודאי דעת הפוסקים שוה דאין מוציאה מידו ואף אם היו מחולקים הפוסקים גם בזה א\"א להוציא מידו דיוכל לומר קים לי כמ\"ש שהוא של בעל וע\"כ מוכרח לומר דהשבועה הוא להבא שתפטור להבא וא\"כ מה מועיל מה שעשתה מלאכה כבר בזה יפה השיג הט\"ז על הב\"ח דהוא אינו יכול לשבע דהוא שבועת היסת להוציא ודברי הב\"ש שכתב לאחר שעשתה מלאכה יכולה להשביעו א\"א להעמיד בשום אופן ע\"כ ד\"ה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 80:2"
+        },
+        "3": {
+          "he": "וי\"א דמניקה שניהם זה דעת הרא\"ש ויש לו גירסה אחרת בירושלמי ופרישה וז\"ל הא תאומים לא בתמיה והלא יכולה להניקה שניהם למה לא תניק שניהם כו' ונראה דאף רב אלפסי דהוא דיעה קמיית' בטור דפוטרת בתאומים היינו באינה יכולה להניק שניהם מחמ' חולשה אבל באם יכולה רק שאינה רוצה להטריח מודה לדיעה אחרונה דתניק שניהם (ואינה) פטורה משום שלום בית: כתב ב\"י בשם ריב\"ש דאם אין הבעל חייב במזונותיה מן הדין רק שזנה מרצון טוב אין מעשה ידיה שלו דאין מעשה ידיה דמזונותיה אלא באוכלת מצד תקנות חז\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 80:3"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "מעשה ידיה לבעלה.  עבה\"ט מ\"ש ודוקא כו' ומיהו נשים הללו גבירות כו' עד מעשה ידיהן לבעליהן. ועיין במל\"מ ר\"פ כ\"א מה' אישות שהביא ג\"כ דברי מהרי\"ט בזה ושם מבואר דמהרי\"ט לא החליט הדין כלל אלא שצידד בזה והמל\"מ תמה עליו למה השמיט הרב דברי גדולי המחברים אשר נחלקו בזה כו' ודעתו נראה שיכולה האשה לומר קים לי כדעת הרמ\"ה שהביא הטור סי' פ\"ד דאם אינה ניזונית מציאתה לעצמה ולכן לא מפקינן מינה ע\"ש. ועיין בתשובת גבעת שאול סי' ל\"ג שנשאל ראובן השיא לבנו את בת שמעון והתחייבו עצמם בק\"ס ליתן מזונות להזוג כמה שנים כנהוג במדינותינו ובתוך משך זמן המזונות שזנו אותן אביהן עסקה אשת בן ראובן במלאכ' והרויחה מעשה ידיה למי אביהן ודאי לא זכה בהן אך יש לספק אם זכה בהן הבעל דהא מ\"י תקנו תחת מזונות והרי אינה ניזונת משל בעל. והשואל הביא ראיה דזכה בהן הבעל מדברי הרמב\"ם פ\"ג מהל' עבדים דין ב' בעבד עברי שהאדון חייב במזונות אשתו אף שנשאה אחר המכירה. ואפ\"ה מ\"י ומציאתה לבעלה כמבואר שם. הוא ז\"ל השיב לו דאין מדברי הרמב\"ם ראיה דשם מה שהאדון נותן המזונות לאשת העבד הוא מכח מ\"י של בעל דהא אם מת העבד אינו נותן מזונות לאשתו משא\"כ הכא דהמזונו' הוא מחמת חוב ואף אם מת הבן מחוייב ליתן לכלתו עד תשלום הזמן כמ\"ש הב\"ש בסי' קי\"ד (עמ\"ש שם סק\"א) . אמנם להלכה הדין עמו דברור הוא כל היכא דמ\"י שלה זכה בהן הבעל מתנאי כתובה וכן הוא להדיא בהרא\"ש ר\"פ הנושא בשם הירושלמי והובא בב\"י סי' קי\"ד בקיצור וגם המ\"מ בפכ\"ג מה\"א דין י\"ח הביא ג\"כ דברי הירוש' הזה דמי שפסק לזון את כלתו זנה ומעשה ידיה של בנו. ואין לחלק בין פוסק לכלתו או לבתו דמאי שנא ע\"ש:   (א) שלא תעשה מלאכה.  (עבה\"ט בשם ב\"ש מ\"ש ואם היא נדרה כו' עד א\"י להפר. ובגליון ש\"ע דהגר\"ע איגר זצ\"ל נ\"ב וז\"ל ולענ\"ד דהוי בינו לבינה דהא להרשב\"א אם עשתה המ\"י שלו ועכ\"פ הוי נ\"מ כמ\"ש הב\"ש סק\"ב בשם תוס' עכ\"ל):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 80:1"
+        },
+        "2": {
+          "he": "כל מטות הבית.  עבה\"ט ועיין בספר ישועות יעקב סק\"ו שכתב דהעיקר בזה כדעת הח\"מ ע\"ש:   (ב) היא בעצמה.  עבה\"ט מ\"ש רש\"י ס\"ל דמצד עצה טובה הוא כו' וע' ביו\"ד סי' רל\"ד סעיף ע\"ג ועיין במל\"מ. פכ\"א מה' אישות ה\"ג באריכות:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 80:2"
+        },
+        "3": {
+          "he": "ממון כדי לקנות.  עבה\"ט ומ\"ש בשם הרדב\"ז אם הבעל יש לו ממון כו' הוא בח\"א סי' שי\"ח. ושם מבואר דדוקא בלא הכניסה נדוניא אבל אם הכניסה נדוני' והיא אומרת לקנות ממקצת הנדוניא כופין אותו לקנות שפחה והוי כאילו הכניס' אותה עמה ומ\"ש עוד בשמו ואם הוא אומר לקנות כו' כמבואר שם דזה לא קאי אהיכ' שלא הכניסה נדוני' דזהו פשיטא רק בזה קאי באם הכניסה נדוני' ואין לו ממון אחר זולת נדונייתה אעפ\"כ לו שומעין כיון שאחריות הנדוני' עליו ע\"ש. ומ\"ש עוד ברדב\"ז שם אבל מה שיש להסתפק כו' זה פשוט ומבואר ממ\"ש הטור והש\"ע לקמן ס\"י:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 80:3"
+        },
+        "4": {
+          "he": "נכסים הראוים לקנות.  עיין בתשו' נו\"ב תניינ' סי' ל\"ה הובא לעיל סי' י\"ג סק\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 80:4"
+        },
+        "5": {
+          "he": "להביא ראי'.  עבה\"ט מ\"ש ואחר שעשתה י\"ל לבעלה השבע לי כו' ובגליון ש\"ע דהגר\"ע איגר זצ\"ל נ\"ב לענ\"ד זה אינו דהא אם עשתה המ\"י לבעלה עיין ב\"ש סק\"ד עכ\"ל גם בספר בית מאיר תמה על הב\"ש בזה):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 80:5"
+        },
+        "6": {
+          "he": "דרך משפחתו.  עבה\"ט בשם ב\"ש מ\"ש אבל בצמר כו' ועיין בהגהת יד אפרים שכ' דאין זה מוסכם כי להרמב\"ם שהביא הב\"ש סק\"א י\"ל דכל שבני משפחתה יושבים בטל אף היא א\"צ לעשות בצמר כל היום או משקל ה' סלעים רק מחמת זימה צריכה לעשות קצת מלאכה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 80:6"
+        },
+        "7": {
+          "he": "דמניק' שניהם.  עי' בעה\"ט עד וכ\"כ הרדב\"ז. והוא בח\"א סי' ש\"ס עש\"ה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 80:7"
+        },
+        "8": {
+          "he": "הבעל מעכב.  עבה\"ט מ\"ש ואם אין לה בן כו' והח\"מ כ' כו' ולכאורה הפך הסדר דהב\"ש הביא דברי הח\"מ והחליט דלא כוותי' ע\"ש אך באמת יפה עשה בזה שהביא דברי הח\"מ באחרונה כי דברי הח\"מ נראין וגם בס' ב\"מ העלה דהעיקר כדעת הח\"מ דהבעל מעכב ומה דנקט הכא בש\"ע עם בנה הוא להורות דעם בנה אף באקראי יכול לעכב אבל בקביעות אף באין לה בן יוכל לעכב. ומבואר עוד שם דביולדת שמת בנה ורוצית להניק בן חברתה משך ימים מועטים בשביל צער החלב אין הבעל יכול לעכב דאם תגמל עכשיו צערה מרובה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 80:8"
+        },
+        "9": {
+          "he": "צרכי הבית.  עבה\"ט מ\"ש בשם ב\"ש במקום פלוגתא היא פטורה ומשמע דהוא מטעם קים לי. ולפ\"ז נלע\"ד היכא שכבר הניק' הולד עד שמכירה כיון דלכל הדיעות היא מחוייבת להניקו מפני סכנת הולד כדלקמן סי' פ\"ב ס\"ה אלא שלדעת תוספת והרא\"ש מחוייב הבעל ליתן לה שכר א\"כ יכול הבעל לומר בהיפך קים לי כהר\"ן דהיא מחוייבת להניק בלא שכר ודוגמא לזה מצינו בגמרא דב\"ב דף כ\"ד ע\"ב ע\"ש וצ\"ע:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 80:9"
+        },
+        "10": {
+          "he": "מלאכותיה.  עבה\"ט ועיין בתשו' מהרי\"ט ח\"א סי' ל' מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 80:10"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "לבעלה.  ודוקא בזן אותה אבל אם אינו זן אותה אע\"פ שלא בא העיכוב ממנו ואפי' שלא אמרה בפירוש איני ניזונית ואיני עושה. ומיהו נשים הללו גבירות ונכנסות בחצירות שרי המלכים והמה כאניות סוחר להביא טרף לביתם ומכלכלים את בעליהם מעשה ידיהם לבעליהן. מהרי\"ט ח\"ב חח\"מ סי' פ\"ו. מגורשת ואינה מגורשת וכן ש\"מ שנתן גט לאשתו בתנאי מעכשיו אע\"פ שחייב במזונותיה מעשה ידיה שלה הרא\"ם ח\"א סי' ל\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:1"
+        },
+        "2": {
+          "he": "יותר.  הן שעשתה בלילה הן שעשתה ב' וג' מלאכות בפעם א'. וכ' ב\"ח מנהג שלנו שאין מוציאין מידה דמי מלאכה העדפה שע\"י הדחק ולוקחים בהן קרקע והוא אוכל פירות עב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:2"
+        },
+        "3": {
+          "he": "כסף.  לאו אדחקה עצמה קאי אלא אסתם מותר מעשה ידיה לא זכה הבעל במותר אלא בנותן לה מעה כסף:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:3"
+        },
+        "4": {
+          "he": "לבטלה.  אפי' אמרה איני ניזונית ואיני עושה חייבת לעשות דבטלה מביאה לידי זימה עב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:4"
+        },
+        "5": {
+          "he": "מלאכה.  אפי' התיר לה שחוק א\"מ יש חשש זנות. והוא שיוכל להדירה היינו דוק' בדתלה בתשמיש כמבואר בסי' ע\"ד. ואם היא נדרה שלא תעשה מלאכה ואינה חייבת לבעלה לעשות מלאכה אלא משום חשש זנות א\"י להפר ב\"ש וכ' המגי\"ד לא נזכר בגמ' כמה יהיה זמן ההדרה דרחוק מן הדעת שאם הדירה יום א' או שנים שתב' לידי זימה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:5"
+        },
+        "6": {
+          "he": "הבית.  הח\"מ כ' דהי\"א זה ראוי להיות מקומו בסעיף ו' דחשיב שם ששה מלאכות שהעניות חייבת לבעליהן אבל עשירות אינן מחויבת להציע כל המטות רק מטתו וכ\"כ רמ\"א בס\"א והב\"ש כתב אפי' עשירות מחויבת להציע כל המטות ואפי' לסמוכים על שלחן בעלה ע\"ש ודו\"ק:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:6"
+        },
+        "7": {
+          "he": "בעצמה.  רש\"י ס\"ל דמצד עצה טובה הוא שתעשה מלאכות אלו. ושאר פוסקים ס\"ל דמחויבת היא לעשות מלאכות אלו עב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:7"
+        },
+        "8": {
+          "he": "מטחנת.  היינו יושבת בריחיים ומשמרת הקמח. ונשי דידן אין דרכן לטחון ואין דרכן לכבס הג\"א ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:8"
+        },
+        "9": {
+          "he": "מהן.  היינו שהכניסה לו נדוני' או אם מצמצמת משלו הוי כאלו הכניסה תוס':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:9"
+        },
+        "10": {
+          "he": "כדי וכו'.  אם הבעל יש לו ממון ואינו רוצה לקנות אין כופין אותו לקנות ואין כופין אותה לעשות המלאכות. ואם הוא אומר לקנות והיא אומרת שלא לקנות לו שומעין כנה\"ג בשם הרדב\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:10"
+        },
+        "11": {
+          "he": "ראיה.  ואחר שעשתה המלאכות יכולה לומר לבעלה השבע לי שאין לך כדי לקנות שפחה עב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:11"
+        },
+        "12": {
+          "he": "משפחתו.  היינו מלאכות המפורשים במשנה. אבל בצמר ולמזוג לו הכוס וכיוצ' בזה אפילו אם בני משפחתה אין עושות מחויבת היא לעשות ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:12"
+        },
+        "13": {
+          "he": "משלה.  כתב הח\"מ דהבעל צריך לשלם לה מה שהוציאה משלה ועב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:13"
+        },
+        "14": {
+          "he": "קודם.  כ' הח\"מ אם מגיע מזה לולד ספק סכנה ולה אין סכנה אלא צער מהיכי תיתי דמכח צער דידה תסכן הולד ואם גם לה סכנה לא ידעתי מי שחולק ע\"ז ולמה כ' ויש מי שאומר ע\"ש. וע' בב\"י. והב\"ש רוצה ליישב מכח הגמ' דנדרים דף פ' ע\"ב כביסתן וחיי אחרים וכו' ע\"ש ולא דק. חדא דרבנן פליגי ע\"ז כמו שהקשה הוא בעצמו. ועוד דהא מסקינן התם אין כביסה אלימ' לר' יוסי דאמר שמואל האי ערבובית' דרישא מתיא לידי עוירא ערבובית' דמאני וכו'. ע\"ש א\"כ הוי כביסה נמי סכנה ולא צער ודו\"ק וע' בכ\"מ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:14"
+        },
+        "15": {
+          "he": "שניהם.  בדינים אלו היכ' דאיכא פלוגת' היא פטורה ב\"ש. אם מת הבעל תוך זמן ההנקה והאלמנה רוצה ללכת לעיר אחרת. מהריב\"ל ח\"א כלל י\"א סימן נ\"ו פסק דאין כופין אותה שתשב באותו העיר לזון את בנה. והרשד\"ם חא\"ה סי' קכ\"ג כ' דכופין אותה לשבת באותה העיר עד זמן ההנקה וכ\"כ הרדב\"ז ע' כנה\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:15"
+        },
+        "16": {
+          "he": "מעכב.  ואם אין לה בן ורצונה להניק בן חברתה. אין הבעל יוכל לעכב ב\"ש. והח\"מ כ' דהבעל יוכל לעכב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:16"
+        },
+        "17": {
+          "he": "אחר.  אע\"ג דאסור לישא מניקת חבירו משכחת ליה כגון דהיא מניקה הולד יותר מכ\"ד חודש ואז מותרת להנשא:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:17"
+        },
+        "18": {
+          "he": "אותה.  כלומר אינו זנה אותה או משמתין אותה ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:18"
+        },
+        "19": {
+          "he": "בידה.  ואפילו אם היא מניקה אין בידו לעכב אותה ואז א\"צ ליתן אותה ההוספה שמוסיפין למניקה ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:19"
+        },
+        "20": {
+          "he": "הבית.  הר\"ן ס\"ל דצריכה לעשות כל צרכי הבית טוחנת ושאר מלאכות וחייבת להניק אלא דאינה עושה בצמר. ותוס' ורא\"ש כתבו כשאמרה איני נזונית ואיני עושה פטורה מכל מלאכות ופטורה מלהניק אלא חייבת במזיגת הכוס והרחצ' פניו והצע' המטה. וכ' ב\"ש במקום פלוגת' היא פטורה. וג' דברים אלו היינו מזיגת הכוס והרחצ' פניו והצעת המטה אין כופין אותה בכפיות ע' ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:20"
+        },
+        "21": {
+          "he": "מלאכותיה.  ל\"ד הוא אלא אפילו שלא בעת המלאכה אם שברה פטורה בה\"י ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:21"
+        },
+        "22": {
+          "he": "שלו.  וכן הדין אם פוסק לזון בת אשתו וכן אם זן יתום דאין מעשה ידיה תחת מזונות אלא מי שאוכל מצד תקנו' חז\"ל ריב\"ש ב\"ש ח\"מ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:22"
+        },
+        "23": {
+          "he": "שעברו.  עיין ח\"מ וב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 80:23"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

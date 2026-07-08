@@ -1,0 +1,117 @@
+{
+  "chelek": "CM",
+  "siman": 10,
+  "chelekTitle": "Choshen Mishpat",
+  "seifCount": 4,
+  "fetchedAt": "2026-07-08T00:09:04.974Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "להיות מתון בדין ושימלך בגדול ממנו. ובו ד סעיפים:צריך הדיין להיות מתון בדין שלא יפסיקנו עד שיחמיצנו וישא ויתן בו ויהיה ברור לו כשמש והגס לבו בהוראה וקופץ ופוסק הדין קודם שיחקרנו היטב בינו לבין עצמו עד שיהיה ברור לו כשמש הרי זה שוטה רשע וגס רוח:",
+      "en": "The Judge must be patient in the [administration of] justice1Yad, Sanhedrin XX, 7 and Tur a.l., derived from Aboth I, 1: ‘Be patient in judgment.’ [viz.,] that he should not give a decision before he protracts [his deliberations]2San. 35a: ‘Raba derived it from here: Ashsheru ḥamoẓ (Is. I, 17), i.e., praise (אשרו is explained ‘declare happy’) the Judge (in capital cases) who reserves (lit. ‘makes sour’ or ‘preserves,’ i.e., he protracts his deliberations) his judgment (overnight).’ Tur cites כי יתחמץ לבבי וכליותי אשתונן (Ps. LXXIII, 21) which may be rendered, For my heart (i.e., my mind) matures (by protracting the deliberations) and (through) my reins (fig. the soul or mind) I will become sharpened (i.e., through mature judgment). Cf. Ibn Ezra a.l. and v. Ha-Oẓar by S. J. Fin, s.v. שנן ,חמץ. E. renders, For my heart was in a ferment, and I was pricked in my reins. Yad ibid. cites And the cause of him that I knew not I searched out (Job. XXIX, 16). and discussed it [the law]3Mishna San. III, 6(29a): After examining the witnesses separately, it is stated that ‘if their statements agreed, they (the Judges) discuss the case,’ whence we infer that a discussion must always take place in order to establish the truth. and it becomes clear to him as the sun[light].4San. 7b: ‘R. Joshiah… expounded: What is the meaning of the text, O, house of David, thus saith the Lord: Execute justice in the morning and deliver the spoiled out of the hand of the oppressor (Jer. XXI, 12). Is justice executed in the morning and not during the whole day? — It means rather that if it (i.e., the judgment that you are to pronounce) is clear to you as the morning (light), pronounce it, but if not, do not pronounce it.’ He who gives legal decisions in haughtiness and rashly decides the law before he examines it well in private until it becomes clear to him as the sun[light], is regarded foolish, wicked and presumptuous.5Aboth IV, 7. ‘Foolish,’ since he regards himself a wise man and is too sure of his knowledge (cf. Prov. XXVI, 12) ; ‘Wicked,’ for he perverts justice; ‘Presumptuous’ because he is over-confident and consequently, is not patient in the administration of justice — M.E.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 10:1"
+    },
+    {
+      "seif": 2,
+      "he": "כל מי שבא לידו דין ומדמהו לדין אחר שבא לידו כבר ופסקו ויש עמו בעיר גדול ממנו בחכמה ואינו נמלך בו ה\"ז בכלל הרשעים שלבם גס בהורא':",
+      "en": "Every [Judge] before whom a lawsuit comes and he compares it to another case that had already come before him6At which time he did consult the scholar who is greater than he — M.E. and gave a decision [by analogy] whilst there is with him in the [same] town [a scholar who] is greater than he in wisdom and he fails to consult him [in the present case], is regarded as included among the wicked who give decisions in haughtiness.7For it is quite possible that the present case is not similar to the first in all respects and consequently, requires a new orientation. Yad, Sanhedrin XX, 8, derived from Yeb. 109b in accord with the alternate exposition of R. Isaac : ‘Or I may explain, “he who nails himself to the matter of the law,” refers to a Judge before whom a case comes, and he having learned a certain Halachah (with respect to a similar case) decides by analogy, while there is a greater scholar than he whom he fails to consult.’ The same ruling applies to ritual law — Tummim.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 10:2"
+    },
+    {
+      "seif": 3,
+      "he": "כי רבים חללים הפילה זה ת\"ח שלא הגיע להוראה ומורה ועצומים כל הרוגיה זה שהגיע להוראה ואינו מורה והוא שיהיה הדור צריך לו אבל ידע שיש שם ראוי להוראה ומונע עצמו מההוראה ה\"ז משובח וכל המונע עצמו מן הדין מונע ממנו איבה וגזל ושבועת שוא:",
+      "en": "For she hath cast down many wounded,'8Prov. VII, 26. refers to a scholar who has not attained [the age of] ordination, and [yet,] renders decisions; 'Yea, a mighty host are her slain,'8Prov. VII, 26. refers to one who has attained [the age of] ordination, but avoids giving decisions,9A.Z. 19b. provided [his] generation has need of him.10Yad, Sanhedrin XX, 8; Tur. Derived from Ber. 63a. However, if he knew that there is [another scholar available] there [who is] fit to render decisions, and [on account of this] he refrains from giving decisions, he is considered praiseworthy.11For this entire ruling v. supra § 8, 3, nn. 26-28. Whosoever refrains from [trying] a lawsuit avoids enmity and robbery and a vain oath.12Aboth IV, 7. This is applicable even if the generation has need of him, for even if the law is quite clear, the Judge should endeavour to arbitrate the case — M.E.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 10:3"
+    },
+    {
+      "seif": 4,
+      "he": "יהיה בעיני הדיין דין של פרוטה כדין של מאה מנה:",
+      "en": "In the eyes of the Judge a lawsuit of a Perutah should be as [important as] one of a hundred Maneh.13San. 8a: ‘Ye shall hear the small and the great alike (Deut. I, 17). Resh Lakish stated: This verse intimates that a lawsuit of a Perutah should be as important as one of a hundred Maneh.’",
+      "ref": "Shulchan Arukh, Choshen Mishpat 10:4"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "א) ל' הטור ממשנה ריש מסכת אבות וכ\"כ הרמב\"ם בפ\"ב מה\"ס",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 10:1"
+        },
+        "2": {
+          "he": "ב) מהא דדרש רבא סנה' דף ל\"ה ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 10:2"
+        },
+        "3": {
+          "he": "ג) דריש ר' אושעיא שם דף ז' ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 10:3"
+        },
+        "4": {
+          "he": "ד) משנה ז' פ\"ד דמסכת אבות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 10:4"
+        },
+        "5": {
+          "he": "ה) מימרא דר' יצחק יבמות דף ק\"ט ע\"ב וכלישנא בתרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 10:5"
+        },
+        "6": {
+          "he": "ו) מימרא דר' אבא א\"ר הונא וכו' ע\"ז דף י\"ט ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 10:6"
+        },
+        "7": {
+          "he": "ז) שם ברמב\"ם וכ\"כ הטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 10:7"
+        },
+        "8": {
+          "he": "ח) משנה ז' פ\"ד דאבות וכ' הב\"י שנר' שממשנה זו למד דין דלעיל דע\"כ בראוי להוראה מיירי דאי לאו הכי אסור לו להורות ומיירי בשיש שם אחר להוראה דאל\"כ הרי אמרו ועצומים כל הרוגיה זה שהגיע וכו':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 10:8"
+        },
+        "9": {
+          "he": "ט) פשוט בסנה' דף ח' ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 10:9"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "שלא הגיע להוראה.  עיין בתשו' מהרשד\"ם ח\"מ סי' א' ובתשו' הרב המבי\"ט ח\"א סי' ר\"פ ובתשובת הרדב\"ז ח\"ה סי' שני אלפים רמ\"ז ובתשו' שבו\"י ח\"א סי' ק\"מ (שהזכרתי לעיל סי' ז' ס\"ג סק\"ד) ובס' בר\"י אות ו' מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 10:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "נמלך.  אע\"פ שאותו הדין כבר שאל את פי החכם שיכול להיות שדין הזה אינו דומה להראשון: סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 10:1"
+        },
+        "2": {
+          "he": "המונע.  אפי' אם הדור צריך לו יראה שימנע עצמו מן הדין ויפשר הבע\"ד אם אפשר לו. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 10:2"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

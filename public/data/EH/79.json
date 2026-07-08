@@ -1,0 +1,118 @@
+{
+  "chelek": "EH",
+  "siman": 79,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 3,
+  "fetchedAt": "2026-07-08T00:08:59.894Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "חיוב רפואתה. ובו ג סעיפים:רפואתה כיצד לקתה חייב לרפאותה בין רפואה שיש לה קצבה בין רפואה שאין לה קצבה אבל אלמנתו אינה מתרפאת מנכסיו אלא ברפואה שאין לה קצבה שהוא דומה למזונות:",
+      "en": "How is he required to pay for her healing? If she became ill, he must heal her (pay her medical costs), whether healing that has a determinate cost or an indeterminate cost.  But his widow is not healed from his estate except for healing which has no determinate cost, which is similar to food [payments].",
+      "ref": "Shulchan Arukh, Even HaEzer 79:1"
+    },
+    {
+      "seif": 2,
+      "he": "רצו היורשין לקצוב עם הרופא כדי שיהיה לה קצבה ויפטרו ממנה הרשות בידם:",
+      "en": "If the heirs wish to specify a cost with the doctor, such that [her healing] will have a determinate cost and they will be relieved of payment, they are permitted to do so.",
+      "ref": "Shulchan Arukh, Even HaEzer 79:2"
+    },
+    {
+      "seif": 3,
+      "he": "אם ראה הבעל שהחולי ארוך יכול לומר לה הרי כתובתיך מונחת או רפאי עצמך מכתובתיך או הריני מגרשך ונותן כתובה ואין ראוי לעשות כן מפני דרך ארץ:",
+      "en": "If a woman contracts a lasting disease, he is able to say to her that the  ketuba  can be assumed if she heals herself or the  ketuba  can be absolved and give her the  ketuba , but this is not proper behavior because it is not  derech eretz .",
+      "ref": "Shulchan Arukh, Even HaEzer 79:3"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ל' הטור ממשנה כתובו' דף נא ע\"א כפשט' סתמא דמתני' דלא מפליג בזה וכ\"כ הרא\"ש שם וכ\"כ הר\"ן ושכ\"נ דעת הרמב\"ם בפי\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 79:1"
+        },
+        "2": {
+          "he": "בברייתא שם דף נב ע\"ב וכרשב\"ג ופירש\"י אין לה קצבה שהי' חולה תדיר",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 79:2"
+        },
+        "3": {
+          "he": "מעובדא דקריבי' דר' יוחנן שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 79:3"
+        },
+        "4": {
+          "he": "רמב\"ם שם ממשנה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 79:4"
+        },
+        "5": {
+          "he": "שם וכתב ה\"ה ודבר פשוט שיש בזה רוע מוסר",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 79:5"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "שהוא דומה למזונות לפיכך חייבים ברפואתה כ\"ז שחייבים במזונותיה משא\"כ אשה בחיי בעלה שחייב תמיד במזונותיה מ\"ה נראה באם אמר לה בעלה צאי מעשה ידיך במזונותיך דג\"כ אינו חייב ברפואתה שיש לה קצבה וכ' רש\"ל דכ\"ז הוא מדינא דגמ' אבל לדידן דנהגינן שלא לגרש בע\"כ מתקנ' ר\"ג לא מצי אמר כלל הא גיטיך כו' ואפי' בחולה ארוך ואפי' מוטלת במטה עכ\"ל כתב בשלטי הגבורים בשם ר\"י אחרון שאם אין הבעל רוצה לרפאות את אשתו וגם אינו רוצ' לגרשה שבדעתו ליורשה כופין אותו שיתן משלו כל הצורך לרפואה או יגרשנה ונוטלת כל הכתובה משלם ואם לותה מאחרים לצורך רפואתה חייב ליתן הכל משלו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 79:1"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "לקתה חייב לרפאותה.  עמ\"ש לעיל סי' ע\"ח סק\"א בענין אם חלתה בפשיעת' אם חייב ברפואתה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 79:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "קצבה.  פרש\"י שאינה חולה תדיר. וה\"ה אם היא חולנית תדיר והרופא רוצה ליקח דבר קצוב ורצה לרפא אותה כל זמן שתצטרך ג\"כ מיקרי רפואה שיש לה קצבה ח\"מ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 79:1"
+        },
+        "2": {
+          "he": "קצבה.  וכן בימי לידתה מחויבים ליתן לה מזונות כנהוג שנותנים ליולדת ד' שבועות תשו' מהרש\"ל סי' מ\"ה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 79:2"
+        },
+        "3": {
+          "he": "ארוך.  הח\"מ כתב ה\"ה בחולה שאינו ארוך. והב\"ש כ' דוקא חולה ארוך ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 79:3"
+        },
+        "4": {
+          "he": "מגרשך.  ואם אינו רוצה לגרשה ולא לרפאותה כופין אותו. וכל מה שלותה לצורך רפואה חייב לשלם ש\"ג וכ\"כ כנה\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 79:4"
+        },
+        "5": {
+          "he": "כן.  כתב מהרש\"ל בזמן הזה שאין מגרשין בע\"כ מחויב לרפאות אותה אפי' חולה ארוך ואינו מועיל מה שמוכן ליתן לה כתובה ולגרשה. וב\"ש כ' דאפי' בזמן הזה דאיכ' חר\"ג יוכל לגרשה ע\"ש וכ\"כ הח\"מ בשם הרב מהר\"א מזרחי:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 79:5"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

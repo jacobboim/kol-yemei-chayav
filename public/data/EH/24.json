@@ -1,0 +1,52 @@
+{
+  "chelek": "EH",
+  "siman": 24,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-08T00:08:58.812Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "אין ישראל חשודים על הרביעה ועל הזכר. ובו סעיף אחד:לא נחשדו ישראל על משכב זכר ועל הבהמה לפיכך אין איסור להתייחד עמהן ואם נתרחק אפי' מיחוד זכר ובהמה הרי זה משובח וגדולי החכמים היו מרחיקין הבהמה כדי שלא יתייחדו עמהם ובדורות הללו שרבו הפריצים יש להתרחק מלהתייחד עם הזכר:",
+      "en": "We do not suspect Jewish men of lying with another man or with beasts. Therefore, we do not prohibit them from being alone with them, and if one wants to distance themselves from men or beasts, it is a praiseworthy thing. For the great sages (of old) used to keep beasts at a distance in order that they would not be alone with them. But in these generations because such corrupt people exist one should (therefore) try not be alone with a man.",
+      "ref": "Shulchan Arukh, Even HaEzer 24:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא קידושין דף פ\"ב ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 24:1"
+        },
+        "2": {
+          "he": "מעובדא דאביי וכן רב ששת שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 24:2"
+        },
+        "3": {
+          "he": "דברי עצמו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 24:3"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "הללו.  ב\"ח כתב במדינתינו א\"צ להתרחק מדינא רק ממדת חסידות. וכ' הח\"מ ומ\"מ נראה דוק' יחוד בעלמ' אבל לשכב יחד ומכ\"ש שני רווקים יחדיו בכל מקום צריך להתרחק ולמחות ביד העושים כן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 24:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

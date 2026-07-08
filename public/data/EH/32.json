@@ -1,0 +1,137 @@
+{
+  "chelek": "EH",
+  "siman": 32,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 4,
+  "fetchedAt": "2026-07-08T00:08:58.948Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "כיצד האשה מתקדשת בשטר. ובו ה סעיפים:בשטר כיצד כותב לה על הנייר או על החרס אע\"פ שאין בו שוה פרוטה הרי את מקודשת לי ונותנו לה בפני עדים וצריך שיכתוב אותו לשם האשה המתקדשת כמו בגט ואם כתבו שלא לשמה אינה מקודשת ואינו כותבו אלא לדעתה ואם כתבו שלא לדעתה הרי זו ספק מקודשת:",
+      "en": "With a document how [is she engaged]? He writes to her on a paper or on a pottery shard even though it is not worth a Perutah \"Behold you are engaged to me\" and he gives it to her in front of witnesses.  And he must write it for the woman he is getting engaged to like with a Get.  If he didn't write it for her name, she is not engaged to him.  He can only write it by her will, but if he wrote it against her will, she is questionably engaged.",
+      "ref": "Shulchan Arukh, Even HaEzer 32:1"
+    },
+    {
+      "seif": 2,
+      "he": "אע\"פ שהשטר פסול לקדש בו שמין את הנייר אם יש בו שוה פרוטה מקודשת ואם לאו הרי זו ספק מקודשת:",
+      "en": "Even if the document is invalid to use for engagement they evaluate the paper, if it was worth a perutah she is engaged but if not she is questionably engaged.",
+      "ref": "Shulchan Arukh, Even HaEzer 32:2"
+    },
+    {
+      "seif": 3,
+      "he": "אם היא קטנה או נערה ומקדשה ע\"י אביה בשטר כותב בתך מקודשת לי:",
+      "en": "If she were a minor or a young girl [between 12 and 12.5 years old] and she is getting engaged through her father with a document her writes \"your daughter is betrothed to me\".",
+      "ref": "Shulchan Arukh, Even HaEzer 32:3"
+    },
+    {
+      "seif": 4,
+      "he": "יש מי שאומר שצריך שיזכיר שמות האיש והאשה בשטר קדושין כשם שצריך להזכירם בגט: הגה כתבו על דבר המחובר לקרקע או על איסורי הנאה י\"א שהוא פסול (המ\"מ פ\"ג דאישות) ויש מכשירים (הרשב\"א סי תר\"ג) וא\"צ לכתוב זמן בשטר קידושין (ר\"י) כתבו בכתב ידו ואין עליו עד מקודשת מספק (נ\"י פ\"ד אחין) נתן לה שטר ואמר לה ע\"מ שהנייר שלי אינה מקודשת (הר\"ן פ\"ק דקדושין):",
+      "en": "There are those who say that he must write the names of the man and the woman in the document of engagement the way he must write them in a Get.  [Rema: If he wrote it on something attached to the ground or on something from which benefit is forbidden there are those who say it is invalid (Maggid Misheh Chapter 3 of Ishut), and there are those who permit it (Rashba 703). He does not have to write the time in the document of engagement (Rabeinu Yerucham).  If he wrote it in his hand and there are no witnesses on it she is questionably engaged (Nimukei Yosef the Chapter of Four Brothers).  If he gave her a document and said, on the condition that the paper remains mine she is not engaged (Ran First Chapter of Kiddushin).",
+      "ref": "Shulchan Arukh, Even HaEzer 32:4"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא ומימרא קידושין דף ט' ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 32:1"
+        },
+        "2": {
+          "he": "בעיא ונפשטא שם ע\"ב דמקיש הויה ליציאה ובעינן לשמה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 32:2"
+        },
+        "3": {
+          "he": "פלוגתא דאמוראי שם ואיכא פלוגתא דרבוותא והא הלכתא כמאן מינייהו וכתב הרא\"ש דעבדינן בה לחומרא וכמ\"ש הטור בשמם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 32:3"
+        },
+        "4": {
+          "he": "טור בשם הרמ\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 32:4"
+        },
+        "5": {
+          "he": "ברייתא ומימרא דרבא א\"ר נחמן שם דף ט' ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 32:5"
+        },
+        "6": {
+          "he": "הרשב\"א בתשובה סי' ת\"כ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 32:6"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "בפני עדים.  עח\"מ וב\"ש ועיין במל\"מ פ\"ג מה\"א דין ג':",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 32:1"
+        },
+        "2": {
+          "he": "שהשטר פסול.  עבה\"ט ועיין במל\"מ פ\"ז מה\"א דין יוד ובס' שעה\"מ פ\"ה מה\"א סוף דין כ\"ו מ\"ש בזה וע\"ל סימן ס\"א:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 32:2"
+        },
+        "3": {
+          "he": "המחובר לקרקע.  עבה\"ט מ\"ש אבל המקדש כו' ועיין בס' שעה\"מ פ\"ג מה\"א דין ג' ובס' גט מקושר בקו\"א אות יוד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 32:3"
+        },
+        "4": {
+          "he": "ויש מכשירים.  עבה\"ט ועיין בס' גט מקושר בקו\"א אות י' שכתב ליישב דברי הרמ\"א בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 32:4"
+        },
+        "5": {
+          "he": "ע\"מ שהנייר שלי.  עח\"מ וב\"ש ועי' בס' שעה\"מ פ\"ו מה\"א דף ל\"ד ע\"א מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 32:5"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "מקודשת.  בלא\"ה היא ספק מקודשת מחמת הנייר כמ\"ש בסעיף שאח\"ז שמא ש\"פ אלא נ\"מ אם התנה דלא מקדש בנייר רק בשטר כשר אפ\"ה הוי ס\"ק ח\"מ גם נ\"מ בספק זה הולד ספק ממזר. ובחשש שמא ש\"פ הנייר אינו אלא חשש דרבנן ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 32:1"
+        },
+        "2": {
+          "he": "פסול.  כלומר אפי' בכתבו שלא לשמה ונתנו לה בתורת שטר שהוא פסול מ\"מ שמין הנייר ולא אמרו פסול אלא באומר בפירוש שאין מקדשה בתורת כסף אף שיהיה הנייר שוה הרבה. וב\"י נסתפק אי מיירי אפי' קידש בו בתורת שטר אפ\"ה שמין וכו' ע\"ש. ובאמת מבואר להדיא בש\"ס דף מ\"ח ב\"ח ובנחלת צבי:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 32:2"
+        },
+        "3": {
+          "he": "לקרקע.  אבל המקדש בדבר המחובר לקרקע לשם כסף מקודשת ב\"ח בשם הרשב\"א וכ\"כ בה\"י ועיין ח\"מ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 32:3"
+        },
+        "4": {
+          "he": "הנאה.  הרשב\"א בתשובה סימן תר\"ג מסיק ע\"פ הירושלמי דבאיסור הנאה מן התורה אינה מקודשת ובאיסור הנאה דרבנן מקודשת והובא לעיל סימן כ\"ח והתימא על רמ\"א שלא הזכיר חילוק זה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 32:4"
+        },
+        "5": {
+          "he": "ויש מכשירים.  עיין ח\"מ שחולק וכתב דאין כאן יש מכשירים ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 32:5"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

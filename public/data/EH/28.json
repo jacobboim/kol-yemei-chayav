@@ -1,0 +1,1013 @@
+{
+  "chelek": "EH",
+  "siman": 28,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 23,
+  "fetchedAt": "2026-07-08T00:08:58.841Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "המקדש בגזל בפקדון או במלוה ובאיסור הנאה דאורייתא ודרבנן. ובו כג סעיפים:המקדש את האשה בגזל או בגניבה או בחמס אם נתייאשו הבעלים ונודע שקנה אותו דבר ביאוש הרי זו מקודשת ואם לאו אינה מקודשת: הגה קדשה בגזל או גניבת עכו\"ם הוי מקודשת דהא אינה צריכה להחזיר רק מכח קידוש השם (מהרי\"ו סי' קל\"ח) קדשה בגזל אחר יאוש לבד מקודשת מדרבנן (רבינו ירוחם):",
+      "en": "One who marries a woman [with money that was acquired] by robbery, or theft, or force: if the original owners have despaired [of recovering the money] and it is known that he acquired the object through their despair, then she is married.  If not, she is not married.  Rem\"a: If he marries her with [with money that was acquired] by robbery or theft from a non-Jew, she is married, since he only has to return it because of the import of sanctifying God's name. If he marries her after [the original owner's] despair alone, she is married rabbinically.",
+      "ref": "Shulchan Arukh, Even HaEzer 28:1"
+    },
+    {
+      "seif": 2,
+      "he": "גזל את האשה או גנבה או חמסה וחזר וקידשה בגזל או בגניבה ובחמס שלה ואמר לה הרי את מקודשת לי בו אם לא קדם ביניהם שדוכים ונטלה ושתקה אינה מקודשת אבל אם שידך תחלה דהיינו שנתרצית לישא אותו אע\"פ שלא היו שוים בנתינת הנדוניא (הגהות אלפסי פרק קמא דקדושין)  או אפילו לא שידך תחלה וכשאמר לה התקדשי לי בזה ונתנו בידה אמרה הן הרי זו מקודשת וצריך לשלם לה גזילותיה (הר\"ן פ\"ב דקדושין) אבל אם אחר שבא לידה אמר התקדשי לי בו אע\"פ שאמרה הן אינה מקודשת אע\"פ ששידך תחלה ואינה נאמנת לומר שבתחלה קבלה לשם קדושין (כ\"כ הר\"ן בשם הרשב\"א והב\"י הביאו):",
+      "en": "If he stole from the woman or robbed her or deceived her, he returns to her and betroths her with what was stolen, robbed or deceived from her, and he says to her, \"Thus, you are betrothed to me with this\". If there was not, prior [to this] an arrangement [to be married] between them, and she takes it and is silent, they are not betrothed. But if they had an arrangement [to be married] beforehand, Rem\"a: She was appeased to marry him, even though that they did not arrange the giving of the dowry (Haghot Alfasi,  Kiddushin Chapter 1) or even if there was no arrangement between them, and when he says to her: \"Be betrothed unto me with this\" and he put it in her hand, and she says, \"yes\", they are betrothed. Rem\"a: And it would be necessary to pay her what was stolen from her (Ran, Kiddushin Chapter 1). But if it were after he put it into her hand,  and he said \"Be betrothed unto me with this\", and even if she were to say \"yes\", they are not betrothed, even if they had an arrangement beforehand. Rem\"a: And she is not believed to say that she received it before, in the name of betrothal (So too the Ra\"n in the name of the Rashba, and the Beit Yosef brings him).",
+      "ref": "Shulchan Arukh, Even HaEzer 28:2"
+    },
+    {
+      "seif": 3,
+      "he": "וכן אם החזיר לה חוב שהיה לה אצלו ואמר לה כנסי סלע זו שאני חייב ליכי והרי את מקודשת לי בו קודם שתטלנו ונטלתו ושתקה אם היו ביניהם שידוכין הרי זו מקודשת ואם לא שידך אינה מקודשת עד שתאמר הן אבל אם לאחר שנתנו בידה אמר לה הרי את מקודשת לי בו אפילו אמרה הן אינה מקודשת אע\"פ ששידך תחל': הגה וכל זה שאמר לה כנסי סלע שאני חייב לך אבל אמר לה כנסי סלע זו סתמא וחזר ואמר התקדשי לי בו אע\"פ שחייב לה ג\"כ והגיע זמן הפרעון מקודשת ואינה יכולה לומר לפרעון קבלתיו (הר\"ן פ\"ב דקדושין) אמר לה כנסי סלע זו שאני חייב לך וחזר ואמר לא לשם פרעון אני נותנו לך רק לשם קדושין י\"א דהוי מקודשת אפילו לא שידך (שם בשם בה\"ג והרמב\"ם) בקש ממנה שתלוה לו מעות על משכון ונתנה לו המעות וכאשר נותן לה המשכון אמר לה התקדשי לי בו וקבלתו ושתקה הוי ספק קדושין (תשובת הרשב\"א סי' תשע\"ג):",
+      "en": "Similarly, if he returned an outstanding debt that he had with her, and he said, \"Take this coin that I owe you and become betrothed to me with it\" before he gave it to her, and she received it in silence, if they were engaged to be married, she is betrothed.  If they were not engaged, she is not betrothed unless she said, \"agreed.\"  If after he gave it to her he said, \"you are betrothed to me through it,\" even if she agrees, she is not betrothed even though they were engaged.  Rem\"a: All of this is if he said to her, \"take this coin that I owe you,\" but if he said, \"take this coin\" without further comment, and then he said, \"become betrothed to me through it,\" even though he owed it to her, and the time for repayment had arrived, she is betrothed, and she may not say, \"I received it as repayment.\"  If he said to her, \"take this coin that I owe you\" and then he said, \"I did not give it as repayment, but as betrothal,\" some authorities say that she is betrothed even if they were not engaged.  If he asked her to lend him money with collateral, and she gave him the money, and when he gave her the collateral he said, \"become betrothed to me through it,\" and she received it silently, this is a case of doubtful betrothal.",
+      "ref": "Shulchan Arukh, Even HaEzer 28:3"
+    },
+    {
+      "seif": 4,
+      "he": "נתן לה פקדון ואמר לה כנסי פקדון זה וחזר ואמר הרי את  מקודשת לי בו אם אמר לה כן קודם שנטלתו ונטלתו אע\"פ ששתקה הרי זו מקודשת: הגה וי\"א דוקא שנטלתו מידו אבל אם זרק לה הקידושין אפילו לתוך חיקה שתיקה כה\"ג לאו כלום היא הואיל ולא נתרצית תחלה לקדושי ליה (טור בשם הרמ\"ה) ואם אחר שנטלתו בתורת פקדון אמר לה הרי את מקודשת לי בו ושתקה אינו כלום אבל אם אמרה הן הרי זו מקודשת:",
+      "en": "If he gave her an item to watch and said, \"Take this item into your possession to safeguard,\" and then he [changed his mind and] said, \"You are hereby married   (mekudeshet, acquisition stage of marriage) to me with this item,\" if he made the marriage declaration before she took the item, and then she took the item, even though she remained silent, she is thereby married.\n\nRama: Some authorities say that this applies specifically when she took it in her hand, but if he tossed her the marital item, even into her lap, her silence in this case is worthless, for she never acquiesced to be married to him (Tur in the name of Ramah - R. Meir Halevi). \n\nMechaber: If after she took the item for safeguarding he said, \"You are hereby married to me with this item,\" and she remained silent, this is nothing (she is not married). But if she said \"Yes,\" she is married.",
+      "ref": "Shulchan Arukh, Even HaEzer 28:4"
+    },
+    {
+      "seif": 5,
+      "he": "אמר לה התקדשי לי בחפץ זה ואמרה לו והרי אינו שוה פרוטה ואמר התקדשי לי בד' זוזים שבתוכו הרי זו ספק מקודשת: הגה וה\"ה אם לא חזר ואמר התקדשי לי רק אמר לה הרי בתוכו שוה פרוטה מקודשת מספק (הגהות אלפסי פ\"ק דקדושין) אשה שחטפה מעות מאיש א' והוא בקש ממנה שתחזירם לו ולא רצתה ואמר לה הרי את מקודשת לי בהם ושתקה והחזיקה המעות לא הוי קדושין דהוי שתיקה דלאחר מתן מעות ולאו כלום הוא (תשו' מהר\"ם פדואה סי' כ\"ד):",
+      "en": "If he says to her: 'betroth yourself to me through this object', and she says to him: 'behold, this is not worth a perutah', and he answers: 'betroth yourself to me through the four zuzim that are inside it' - this [is the case of a woman] consecrated [even though there is]  doubt. Rem\"a: And this is the law if he didn't say again: 'betroth yourself to me', if he only said to her:  'behold, what's inside it is worth a perutah' she is doubtfully betrothed (Hagahot Alfasi, Kidushin chapter 100). A woman that grabbed coins from a man, and he asked that she give them back, and she didn't want to [give them back], and [because of this] he said: 'behold you are betrothed to me through them, and she kept quiet and kept the coins - this is not [a case of] consecration, this is [a case of] keeping quiet after receiving coins, and it is nothing [of legal consequence] (Teshuvat Maharam Padua, siman 24)",
+      "ref": "Shulchan Arukh, Even HaEzer 28:5"
+    },
+    {
+      "seif": 6,
+      "he": "היה לו פקדון בידה או שהשאילה חפץ ואמר לה התקדשי לי בפקדון או בשאלה שבידך ונמצא שנגנב או נאבד אם נשתייר ממנו שוה פרוטה מקודשת ואם לאו אינה מקודשת ודוקא שאינה יודעת סכום הפקדון ומתרצת להתקדש בו הן אם הוא רב הן אם הוא מעט אבל אם ידעה סכום הפקדון ונמצא שנגנב או נאבד אע\"פ שנשתייר ממנו שוה פרוטה אינה מקודשת  (שאינה מתרצית להתקדש אלא בסכום הפקדון) (טור):",
+      "en": "If he left collateral in her hand or if he lent her an object and said to her: become betrothed to me through the collateral or lent object in her hand, and it was found that it was stolen or lost, if it still has the value of a perutah she is engaged to him but if not she is not engaged.  This is only true if she did not know the value of the collateral and she wants to get engaged with it whether it is worth a lot or a little, but if she does know its worth and it was found to have been stolen or lost, even though it has the value of a perutah she is not engaged [Tur: because she only wanted to get engaged with the value of the collateral].",
+      "ref": "Shulchan Arukh, Even HaEzer 28:6"
+    },
+    {
+      "seif": 7,
+      "he": "היה לו מלוה אצלה אפילו הוא בשטר ואמר לה הרי את מקודשת לי במלוה שיש לי אצלך אינה מקודשת אפי' עדיין המעות בידה ולא שלחה בהם יד  (אפי' החזיר לה השטר ויש בו שוה פרוטה) (טור בשם הרמב\"ם) ויש מחמירים בזה (הר\"ן פ\"ב דקדושין) (והמ\"מ פ\"ה)  וה\"ה אם היא חייבת לו שכירות פעולה שעשה לה אפילו הגיע זמן המלוה והשכירות לגבות:",
+      "en": "If he had loaned to her, even with a writ, and he says to her: \"You are betrothed to me with the loan that you owe me,\" she is not betrothed, even if the monies remain with her and she had not spent them. Rem\"a: Even if he had returned the writ to her, and it is worth a perutah (Tur in the name of Rambam). Some are stringent in this regard (Ra\"n on the second chapter of Kiddushin; Magid Mishneh on chapter 5 [of Mishneh Torah, Laws of Marriage]).\n\nThe same applies if she owes him wages for work he did for her, even if the time to collect the loan or wages has arrived.",
+      "ref": "Shulchan Arukh, Even HaEzer 28:7"
+    },
+    {
+      "seif": 8,
+      "he": "אמר לה התקדשי בשטר חוב ונתנו לה שמין הנייר אם יש בו שוה פרוטה מקודשת ואם לאו הרי היא ספק מקודשת:",
+      "en": "If he said to her: \"Become betrothed to me with this promissory note\" and gave it to her, we appraise the paper. If it is worth a perutah, she is betrothed. If not, her betrothal is in doubt.",
+      "ref": "Shulchan Arukh, Even HaEzer 28:8"
+    },
+    {
+      "seif": 9,
+      "he": "הלוה לה עתה ר' זוז ואמר לה הרי את מקודשת לי בהנאת זמן שארויח ליך במלוה שתהיה בידך כך וכך יום ואיני תובע ממך עד זמן פלוני הרי זו מקודשת ואסור לעשות כן מפני שהוא כריבית:",
+      "en": "If he loaned her 200 zuz now, and says to her: \"You are betrothed to me with the benefit of the time I gave given to you through this loan, that you will have X days before I claim [the debt] from you on such-and-such date,\" she is betrothed, but one may not do so, for this is akin to [charging] interest.",
+      "ref": "Shulchan Arukh, Even HaEzer 28:9"
+    },
+    {
+      "seif": 10,
+      "he": "היה לו מלוה אצלה ואמר לה הרי את מקודשת לי בהנאת מחילת מלוה וכן אם אמר לה הרי את מקודשת לי במה שאני מרויח ליך הזמן מקודשת ואסור לעשות כן משום רבית וי\"א שאינה מקודשת: הגה ויש לחוש לב' הסברות ואם קדשה אחר צריכה גט משניהם (כל בו בשם הרמ\"ה והטור הביאו) היתה חייבת לאחרים ובא אחד ונתן פרוטה למלוה להרויח לה זמן וקדשה בזה הוי מקודשת (התוס' והמרדכי והר\"ן ריש קדושין):",
+      "en": "If he had loaned her, and he says to her: \"You are betrothed to me with the benefit of my forgiving the loan,\" or if he says to her, \"You are betrothed to me with my extension of your [repayment] period,\" she is betrothed, but it is forbidden to do so because of [the prohibition against charging] interest. Some say that she is not betrothed. Rem\"a: We show concern for both opinions, and thus if another man betrothed her, she needs a get from each (Kol Bo in the name of Rama\"h, cited by Tur). If she owed others, and one came and gave a perutah to the creditor to extend her time, and thereby betrothed her, she is betrothed (Tosafot, Mordechai, and Ra\"n at the beginning of Kiddushin).",
+      "ref": "Shulchan Arukh, Even HaEzer 28:10"
+    },
+    {
+      "seif": 11,
+      "he": "היה אצלה מלוה על משכון אפילו במשכנו בשעת הלואה וקדשה באותה מלוה והחזיר לה המשכון או שהיה המשכון ברשותה (ר\"י בשם הרמ\"ה)  הרי זו מקודשת וי\"א שאפי' לא החזיר לה המשכון מקודשת:",
+      "en": "If [a man] gave [his fiancee] a loan as a collateral, even a collateral during the loan, they are married because of the loan, if she returns her collateral or if collateral that already belonged to her (Rav Yitzchok quotes the Rama), they are married. \nThere are those that say that even if she did not return the collateral [loan], she is married.",
+      "ref": "Shulchan Arukh, Even HaEzer 28:11"
+    },
+    {
+      "seif": 12,
+      "he": "היה לו משכון על חוב שיש לו אצל אחרים וקידש בו אשה הרי זו מקודשת לפי שבע\"ח יש לו קנין בגופו של משכון: הגה וי\"א דוקא במשכנו שלא בשעת הלואתו (טור בשם הרא\"ש) וכל זה במשכון שיש לו מישראל אבל מעכו\"ם אינה מקודשת (מרדכי ריש קדושין ואם מכרו המלוה לאחר וקידש בו הוי מקודשת (מהרי\"ו סי' קל\"ח):",
+      "en": "If he held collateral on debt owed to him by others, and he married a woman with the collateral, she is married; for the lender has [partial] acquisition rights in the body of the collateral.\n\nRama: some say that this applies only with collateral given not at the time of the loan (Tur in the name of the Rosh). This only applies with collateral from an Israelite, but with collateral from an idol-worshipper she is not married (Mordechai, beginning of Kiddushin). [Even with collateral from a non-Jew, if the lender sold it to another, and the buyer of the collateral used it to marry a woman, she is married (Mahariv, chapter 138).",
+      "ref": "Shulchan Arukh, Even HaEzer 28:12"
+    },
+    {
+      "seif": 13,
+      "he": "היה לו חוב ביד אחרים ואמר לה הרי את מקודשת לי בחוב שיש לי ביד זה במעמד שלשתן הרי זו מקודשת וי\"א שאינה מקודשת אבל אם לא אמר לה במעמד שלשתן אפי' היא מלוה בשטר והקנה לה השטר כראוי בכתיבה ובמסירה אינה מקודשת אלא בספק:",
+      "en": "If the debt was in the hands of others, he should say to her: you are married to me on the debt that I have in this one's hand, on the condition of three things [listed later], we are married.\nThere are those who say that she is not married. \nBut if not, they say that it depends on three things: if she is in monetary debt, if she can be provided with the money as required, both written and transmitted, she is not married, but with a doubt.",
+      "ref": "Shulchan Arukh, Even HaEzer 28:13"
+    },
+    {
+      "seif": 14,
+      "he": "היה לו מלוה אצלה ונתן לה עתה פרוטה ואמר לה התקדשי לי במלוה ופרוטה הרי זו מקודשת:",
+      "en": "If she owes him from a loan, and he gave her a perutah[-worth] and said to her, \"Marry me through the [worth of the] loan and the perutah,\" the kiddushin is effected.",
+      "ref": "Shulchan Arukh, Even HaEzer 28:14"
+    },
+    {
+      "seif": 15,
+      "he": "אמר לה התקדשי לי בשכר מלאכה זו שאעשה עמך ועשה אינה מקודשת וי\"א שהיא מקודשת: הגה אם הוא קבלן על המלאכה דאומן קונה בשבח כלי (טור בשם ר\"י) ואם הכלי עדיין אצלו וקדשה בשכרו לכ\"ע מקודשת דהו\"ל כמלוה שיש עליו משכון (ר\"י נתיב כ\"ג) נתן משלו פרוטה לצורך המלאכה וקדשה בו מקודשת לכ\"ע דה\"ל כמלוה ופרוטה (טור) עשה מלאכה אצל אחר ונתחייב לו פרוטה הו\"ל כמלוה ביד אחרים (ביאור דברי המרדכי לדעת הרב כמ\"ש ריש א\"נ ומיד שעשה השכיר וכו'):",
+      "en": "If he says to her, \"Marry me for the worth of the work I will do for you,\" and he did it, she is not married. Some say she is married. Rama: If he was contracted for the work, that a professional does acquire [a wife] through the betterment of utensils (Tur in the name of the R'Y). And the utensil remains with him, and he marries her through its worth, everyone agrees she is married, for it is like a loan [she owes] that has a collateral [that he has of hers] (Rabbeinu Yerucham 22). If he gives a perutah for the needs of the work, and he marries her with it, the marriage is good according to everyone, for it is like a loan and a perutah (Tur). If he does work for a different person and a perutah is owed to him, then it is like a loan in the hands of others (explanation of the Mordechai according to the Rabbi, as it is written in the beginning of A\"N Umeyad Sheasa Hasachir etc).",
+      "ref": "Shulchan Arukh, Even HaEzer 28:15"
+    },
+    {
+      "seif": 16,
+      "he": "קידש במלוה ובעל סתם בפני עדים שראו שנתייחד עמה צריכה גט מספק: הגה וה\"ה אם קידש בפחות מפרוטה ובעל וכל כיוצא בזה (הר\"ן פ' המדיר):",
+      "en": "If one made kiddushin (proposed marriage) with a loan, or one who has relations without planning it to be for the sake of marriage yet in front of witnesses which saw him alone with her, the woman needs a get (divorce) in both cases, before she may marry another man, out of doubt that maybe she is married. Hagah: the same law applies to the case where one made kiddushin with money valuing less than a \"perutah\" and then had relations, as well as any other case like this.",
+      "ref": "Shulchan Arukh, Even HaEzer 28:16"
+    },
+    {
+      "seif": 17,
+      "he": "הנכנס לבית חבירו ולקח לו כלי או אוכל וכיוצא בהם וקידש בו אשה ובא בעל הבית אע\"פ שאמר לו למה לא נתת לה דבר זה שהוא טוב ממה שנתת לה אינה מקודשת שלא אמר לו דבר זה אלא כדי שלא להתבייש עמו והואיל וקידש בממון חבירו שלא מדעת חבירו הרי זה גזל ואינה מקודשת ואם קדשה בדבר שאין בעל הבית מקפיד עליו כגון תמרה או אגוז ה\"ז מקודשת מספק: הגה אורח שיושב אצל ב\"ה ונוטל חלקו וקידש בו הוי מקודשת (הגהות אלפסי):",
+      "en": "One who enters his fellow's house and takes a vessel, a piece of food or something like this and uses it to betroth a woman, and then the homeowner comes, even if he says to him: Why didn't you give her this thing that is better than the thing you gave her, she is not betrothed, for he said this only so that the other wouldn't be embarrassed. And since he betrothed her using his friend's property without his friend's acknowledgment, behold he has stolen and she is not betrothed. \nBut if he betrothed her with something that the homeowner doesn't really care about, like a date or a nut, behold she is doubtfully  betrothed.\nHagah: A guest who is sitting with a homeowner [dining], and he takes his portion [of food] and uses it to betroth [her], behold she is betrothed [Hagahot Alfasi].",
+      "ref": "Shulchan Arukh, Even HaEzer 28:17"
+    },
+    {
+      "seif": 18,
+      "he": "היתה סחורה בינו ובין חבירו וחלקה שלא מדעת חבירו וקידש בחלקו הואיל וצריכה שומת בית דין אינה מקודשת שאין זה נוטל לעצמו מה שירצה ויניח מה שירצה: הגה ואפילו נתן לה כל הסחורה שיש בחלקו יותר מפרוטה אפ\"ה אינה מקודשת שאין רצונה להתקדש רק בכלי (הגהת מ\"מ פ\"ב דאישות בשם הרמב\"ן והרשב\"א וכ\"כ הר\"ן) .  ואם הוא דבר שהכל שוה ואינו צריך שומא הרי זו מקודשת:",
+      "en": "If he had some merchandise shared with his friend and he divided it without his friend's consent, and he betrothed her with his share, since it requires a court's appraisal [to divide assets] she is not betrothed, for this one cannot take what he wants [from the joint property] and leave the other what he wants.\nHagah: And even if he gives her all of the merchandise that is in his possession and an extra perutah she is not betrothed for she only agreed to be betrothed with everything (Hagahot Maymoniyot, ch. 5, Ishut, in the name of the Ramban, the Rashba, and so too wrote the Ran). \nAnd if it is something where everything is of equal value and doesn't require an appraisal, behold she is betrothed.",
+      "ref": "Shulchan Arukh, Even HaEzer 28:18"
+    },
+    {
+      "seif": 19,
+      "he": "השואל חפץ מחבירו והודיעו שרוצה לקדש בו אשה מקודשת ואם לאו הרי הוא ספק מקודשת: הגה וה\"ה לשוכר כלי או חפץ מחבירו וקידש בו (ת\"ה סי' ר\"י) שאל כלי מאשה שיש לה בעל וקידש בו חוששין לקידושין אע\"פ שכל מה שקנה אשה קנה בעלה ולא שאל מן הבעל (רשב\"א אלף רמ\"ה ותשובת הרמב\"ן סי' קמ\"ד):",
+      "en": "One who borrows an object from his friend and let him know that he wanted to use it to betroth a woman, she is betrothed.\nAnd if not, she is doubtfully betrothed.\nHagah: And the same is true with regard to one who rents a vessel or other object from his friend and uses it for betrothal (Torat Haadam, siman 210). \nIf he borrowed a vessel from a woman who is already married, and he betrothed with it, we must be concerned that the betrothal is valid, even though everything acquired by a wife is acquired by her husband and he didn't borrow it from the husband (Rashba, in the name of the Rama and the respons of the Ramban, siman 144).",
+      "ref": "Shulchan Arukh, Even HaEzer 28:19"
+    },
+    {
+      "seif": 20,
+      "he": "הנותן לחברו מתנה ע\"מ להחזירו והלך המקבל וקידש בה אשה הרי זו מקודשת:",
+      "en": "One who gives his fellow a gift on condition that he returns it, and the one who received it goes and uses it to betroth a woman, behold she is betrothed.",
+      "ref": "Shulchan Arukh, Even HaEzer 28:20"
+    },
+    {
+      "seif": 21,
+      "he": "המקדש באיסורי הנאה דרבנן לגמרי שאין לו עיקר בדאורייתא מקודשת ואם בחמץ דאורייתא ושעות דרבנן או בחמץ דרבנן ושעות דאורייתא ספק מקודשת ואם באיסורי דאורייתא לגמרי כגון חמץ דאורייתא בשעות דאורייתא אינה מקודשת: הגה קהל שתקנו ועשו הסכמה ביניהם שכל מי שיקדש בלא עשרה או כיוצא בזה ועבר אחד וקידש חיישינן לקידושין וצריכה גט אע\"פ שהקהל התנו בפירוש שלא יהיו קדושין והפקירו ממונו אפ\"ה יש להחמיר לענין מעשה (מהרי\"ק שורש פ\"ד אשה שנדרה הנאה מאדם א' או מכל מה שיתנו לה שלא בפני פלוני ופלוני ועבר אחד וקדשה אינה מקודשת דהוי כאלו קדשה באיסורי הנאה ודוקא שקדשה בתורת כסף אבל אם קדשה בשטר הוי קידושין (רשב\"א סי' תר\"ב ותר\"ג):",
+      "en": "One who betrothes with something that is totally Rabbinically forbidden from which to benefit, which has no essence in the Torah, she is betrothed.  If it is is with biblically forbidden Chametz at a time [when it is] rabbinically forbidden, or with rabbinic Chametz at a biblically forbidden time, it is a doubt whether she is betrothed.  If it is totally biblically forbidden, such as biblical Chametz at a biblically [forbidden] time, she is not betrothed.  Rema: A community that decreed and made an agreement among themselves that whoever betrothes without ten [i.e., a minyan] or similarly [that the betrothal is not valid], we are sensitive to the betrothal and she needs a Get.  Even though the community stipulated explicitly that it is not a betrothal and his money [with which he betrothed her] is ownerless, even so we must be stringent on a practical basis (Maharik 84).  A woman who vowed against benefiting from a specific man or against anything that is given to her not in the presence of specific individuals, and a man transgresses and betrothes her, she is not betrothed, because it is as though he betrothed her with something that is forbidden from which to benefit.  This is specifically when he betrothes her with money, but if he betrothes with a contract, it is a valid betrothal (Rashba 602 and 603).",
+      "ref": "Shulchan Arukh, Even HaEzer 28:21"
+    },
+    {
+      "seif": 22,
+      "he": "עבר ומכר איסורי הנאה וקידש בדמיהם מקודשת ואם מכרם לישראל ולא ידע הלוקח שהם איסורי הנאה ולקח המוכר דמיהם וקידש בדמיהם ספק מקודשת בד\"א בשאר איסורי הנאה חוץ מאלילים שאם מכרה וקידש בדמיה אינה מקודשת:",
+      "en": "If he transgressed and sold items that are forbidden for benefit, and betrothed with their proceeds, she is betrothed. And if he sold them to a Jew, and the purchaser did not know that they were forbidden for benefit, and the seller took their proceeds and betrothed with their proceeds, she is doubtfully betrothed. These rules apply to items that are forbidden from benefit other than idols, for if he sold one of them and betrothed with its proceeds, she is not betrothed.",
+      "ref": "Shulchan Arukh, Even HaEzer 28:22"
+    },
+    {
+      "seif": 23,
+      "he": "בכור בזמן הזה אם קדשו בו בעלים הוי ספק מקודשת:",
+      "en": "A first-born [animal], in the current era, if its owners betrothed using it, she is doubtfully betrothed.",
+      "ref": "Shulchan Arukh, Even HaEzer 28:23"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ממימרא דרב ומבריי' וכר' יוחנן שם קידושין דף נ' ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:1"
+        },
+        "2": {
+          "he": "מעובדא דההיא איתתא וכו' לקמיה דרבא וכו' שם ריש ע\"ב עיין שם בתשובה דאיירי התם במשכנו של גוי דדמיא להפקעת הלואתו דשריא במקום דליכא חילול השם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:2"
+        },
+        "3": {
+          "he": "כאוקימתא דגמ' אבריית' דלעיל וממימר' דרב שם ובדף י\"ג ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:3"
+        },
+        "4": {
+          "he": "מבריי' כנסי סלע זו וכו' וכדמפר' בגמ' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:4"
+        },
+        "5": {
+          "he": "שם בבריית' לאחר מתן מעות ואפילו הכי אינה מקודשת",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:5"
+        },
+        "6": {
+          "he": "ל' הרמב\"ם בפ\"ה מבריי' דלעיל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:6"
+        },
+        "7": {
+          "he": "וסיים שם שהרי לא הגיע לידה ממנו כלום אלא שלה נטלה וכו' ואינה יכולה לחזור ולתובעו בחוב פעם אחרת",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:7"
+        },
+        "8": {
+          "he": "ברייתא שם דף י\"ב ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:8"
+        },
+        "9": {
+          "he": "שם בברייתא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:9"
+        },
+        "10": {
+          "he": "שם וכדמפרש שם בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:10"
+        },
+        "11": {
+          "he": "עובדא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:11"
+        },
+        "12": {
+          "he": "כרבינ' שם די\"ג ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:12"
+        },
+        "13": {
+          "he": "בריי' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:13"
+        },
+        "14": {
+          "he": "טור בשם אביו הרא\"ש שם בפסקיו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:14"
+        },
+        "15": {
+          "he": "מימר' דאביי שם ד\"ו ע\"ב ודרב דף מ\"ז ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:15"
+        },
+        "16": {
+          "he": "בריי' שם ע\"ב וכחכמים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:16"
+        },
+        "17": {
+          "he": "כן פירש רש\"י שם וכ\"כ הרא\"ש שם וכ\"כ הר\"ן וכ' כיון דלהוצאה ניתנה הוי כדידה ואיהי אין דעתה על הנאת מחילת מלוה אלא אזוזי ולא יהיב לה מידי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:17"
+        },
+        "18": {
+          "he": "מבריי' דעשה לי שירי' כו' וחכמים וכדמפרש טעמ' שם בגמ' דף מ\"ח ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:18"
+        },
+        "19": {
+          "he": "ממשמעות הבריי' דהא בשעשתה ונתנה ה\"ז הגיע הזמן לגבות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:19"
+        },
+        "20": {
+          "he": "טור מבריי' שם וכחכמים וכדבעי לאוקמי שם בש\"ח דידה ואע\"ג דדחי לה מ\"מ ילפי' מינה דבש\"ח דידה אם יש בזה שוה פרוטה מקודשת",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:20"
+        },
+        "21": {
+          "he": "כשמואל דאמר חיישי' שמא שוה פרוטה במדי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:21"
+        },
+        "22": {
+          "he": "ל' הרמב\"ם שם בפ\"ה ממימר' דאביי דף ו' ע\"ב וכפי פירושו שסובר שצריך שיתן לה בשעת הקידושין דבר וכמ\"ש ה\"ה שם ושכן דעת ר\"ח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:22"
+        },
+        "23": {
+          "he": "טור וכפירש\"י שם וכ\"כ אביו הרא\"ש שם בפסקיו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:23"
+        },
+        "24": {
+          "he": "הרי\"ף כפי פירושו אמימר' דאביי כ\"כ הראב\"ד בהשגתו שם וכן הסכים הרמב\"ן והרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:24"
+        },
+        "25": {
+          "he": "הרמב\"ם שם וכמ\"ש לעיל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:25"
+        },
+        "26": {
+          "he": "מימר' דרב נחמן שם דף י\"ט ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:26"
+        },
+        "27": {
+          "he": "פירוש דלא קני לה כדר' יצחק וכו' כמ\"ש התו' והרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:27"
+        },
+        "28": {
+          "he": "הרמב\"ם שם בפ\"ה כפי פירושו וכ' ה\"ה שכן עיקר ושכן הסכים הרשב\"א ושכ\"נ מדברי הרמב\"ן וכ\"כ בטור בשם הרמ\"ה וכ\"כ הר\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:28"
+        },
+        "29": {
+          "he": "טור מדברי התו' והרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:29"
+        },
+        "30": {
+          "he": "בריי' וכדמפרש לה שם בגמר' דף ח' ריש ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:30"
+        },
+        "31": {
+          "he": "פירוש אפילו משכנו בשעת הלואתו וכמ\"ש התו' שם וכ\"כ רמב\"ם שם ובפ\"ה סתם דמקודשת ע\"ל סעי' א' בהג\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:31"
+        },
+        "32": {
+          "he": "ל' הרמב\"ם שם בפ\"ה מבריי' היתה לו מלוה וכו' שם דף מ\"ז ע\"ב וכאוקימת' אחרונה דף מ\"ח ע\"א וכר' מאיר דקיימא לן בספ\"ק דגיטין הא דרב לא שנא מלוה ולא שנא פקדון",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:32"
+        },
+        "33": {
+          "he": "ה\"ה שם בשם י\"א וכ\"כ הר\"ן ושכ\"נ דעת הרי\"ף שהשמיט כל זה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:33"
+        },
+        "34": {
+          "he": "טור וכאוקימת' דלעיל מיניה שם בקידושין דמוקי דבשמואל קמפליגי דאנן קי\"ל כשמו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:34"
+        },
+        "35": {
+          "he": "מבואר במ\"ש סו' סעיף ח'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:35"
+        },
+        "36": {
+          "he": "מימרא דרבא וכו' שם דף מ\"ו ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:36"
+        },
+        "37": {
+          "he": "בריית' שם דף מ\"ח ע\"ב וכחכמים וכ\"כ הרמב\"ם שם בפ\"ה וכדעת הרי\"ף שאין אומן קונה בשבח כלי ושכירות משתלמ' מתחילה ועד סוף וכ\"כ הר\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:37"
+        },
+        "38": {
+          "he": "טור בשם ר\"י אביו הרא\"ש דפסקו כרב אשי ב\"ק דף נ\"ח ע\"ב דאומן קונה בשבח כלי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:38"
+        },
+        "39": {
+          "he": "מימרא דרב עולא כתובות דף ע\"ד ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:39"
+        },
+        "40": {
+          "he": "לשון הרמב\"ם שם מההו' עובדא דקדיש בפרוזמ' דשכרא קידושין די\"ב ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:40"
+        },
+        "41": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:41"
+        },
+        "42": {
+          "he": "מעובד' דההו' אריסא וכו' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:42"
+        },
+        "43": {
+          "he": "וכ' ה\"ה שם שאם פירש לה במה שיש לו בו מקודשת וכ\"כ הר\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:43"
+        },
+        "44": {
+          "he": "טור בשם אביו הרא\"ש שם בפסקיו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:44"
+        },
+        "45": {
+          "he": "שם בשם בעל העיטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:45"
+        },
+        "46": {
+          "he": "שם בשם אביו הרא\"ש בפסקיו בפ\"ק דקדושין בתשובו' כלל ל\"ה וצריך שהמקדש יתן לאשה (לחלוטין) דבמתנ' ע\"מ להחזיר אינה מקודשת כמבואר לקמן ריש סי' כ\"ט ויקנהו מהאשה ויחזירנו או יחזיר דמיו ואם מקדש בטבעת שאולה צריך שיודיע לאשה שהוא שאול לו עד זמן פלוני ושיהיה הקישוט שוה על אותו הזמן שהוא שאול לו שוה פרוטה וי\"א בשם מהר\"ן שיותר טוב לקדש במטבע משיקדש באלו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:46"
+        },
+        "47": {
+          "he": "שם בשם אביו הרא\"ש בפסקיו בפ\"ב דקידושין וכ' בב\"י ובכ\"מ שאף דעת הרמב\"ם שם בריש פ\"ה כן הוא מימרא דרב גידל אמר רב פסחים דף ז' ע\"א וכמ\"ש התוספת שם בשם ר\"ת",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:47"
+        },
+        "48": {
+          "he": "כדעת הרמב\"ן דחייש לגזירת הרואים וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:48"
+        },
+        "49": {
+          "he": "לדעת הרז\"ה שכ' דלית' לדרב גידל וכו' אע\"פ שכ' בב\"י שאין דבריו נכונים מ\"מ פ' להחמיר",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:49"
+        },
+        "50": {
+          "he": "ממשנה קידושין דף נ\"ז ע\"ב וכמ\"ש התוספת שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:50"
+        },
+        "51": {
+          "he": "משנה וגמ' דף נ\"ו ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:51"
+        },
+        "52": {
+          "he": "טור מדברי אביו הרא\"ש בספ\"ב דקדושין ממשנ' בכורות דף ל\"ז ע\"א דמהירושלמי וכו' מטעם שכ' שם דהנך דמי לאו גזל הם כו' אבל הנך זוזי להוציאה ניתנה לו וכ\"כ הר\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:52"
+        },
+        "53": {
+          "he": "מסקנ' הגמ' שם דף נ\"ח ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:53"
+        },
+        "54": {
+          "he": "הרא\"ש בפסקיו בפ\"ק דב\"ק דמספק' ליה אי הלכה כרי יוסי הגלילי אי כרבנן ושם בגמ' דף י\"א ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 28:54"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "ואם באו אינה מקודשת דסתם גזילה לאו יאוש בעלים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:1"
+        },
+        "2": {
+          "he": "מקודשת מדרבנן משמע דדוקא אחר יאוש דהא כבר כתב הש\"ע דלא הוי יאוש אלא בידוע וא\"כ בסתמא אפילו מדרבנן לא הוי קדושין כלל וא\"צ גט וכתבתי זאת להוציא ממ\"ש מו\"ח וז\"ל מכח קושיא וכבר כתבתי בפ\"ד בח\"מ סי' שס\"א (שס\"ח) שהרש\"ל הקשה קושי' זו וחולק על הטור כמבואר שם ואני כתבתי שם ליישב שאין קושי' בזה והדברים כהווייתן וקידש בגזל קודם שידוע שנתייאש בוודאי א\"צ גט וכמו שפסקו כאן כל הפוסקים ומ\"ש מו\"ח ז\"ל שהסכימו גדלים בזה להצריכה גט אף אנו נאמר שמבואר בתשובת מהרי\"ל סי' צ\"ז הלכה למעשה שא\"צ גט וכן הסכים מהר\"ש רבו ועוד כמה גדלים ע\"ש ולא נמצא רמז בשום אחרון להצריכו גט וכיון דאף לפי דברי מו\"ח ז\"ל אינו אלא דרבנן להקל ק\"ו בזה שמבואר מכל הפוסקים להקל ע\"כ לית מאן דחש להצריכה גט ועוד אני אומר דהמחמיר בזה להצריכ' גט יוציא לעז על מעשה דמהרי\"ל וכדאיתא ריש גיטין לענין גט אם צריך השליח לעמוד על כל הגט בשע' שנכתב שאין להחמיר מטעם הוצאות לעז גיטין ראשונים גם רש\"ל שם לא הצריך גט כלל בטור כ' וז\"ל וכ' הרמ\"ה דוקא בגזל דעלמא מקודשת לאח יאוש דאיכ' יאוש ושינוי רשות אבל בגזל (דידה) ולא שידך אפי' אחר יאוש לא הוה מקודשת כיון דליכא שינוי רשות ואם גנב כו' כן הוא הנוסחא האמיתי ומ\"ש ואם גנב הוא מל' הטור לא ל' הרמ\"ה ובזה מתורץ מה שהקש' ב\"י איני יודע למה כ' בשם הרמ\"ה ותלמוד ערוך הוא דקמ\"ל הרמ\"ה דבגזל דידה לא מהני יאוש וזה אינו מבואר בתלמוד ומלבד זה תמהתי על קושי' ב\"י דלפי הנר' יש רבותא גדלה אפי' במ\"ש דבגזל דעלמא מקודש' מכח יאוש ושנוי רשות דהיינו רשות דהאשה שקבל' הגזל היה רשות א' וכ\"כ המ\"מ פ\"ה דאישות כיון דקנאתו היא אף הוא קונה אותה ויש סתיר' ע\"ז מההי' דאיתא בח\"מ סי' שנ\"ג שם בשם הרא\"ש כיון דרבה מספק' ליה אי דאוריי' קונה יאוש לחודי' אי דרבנן כו' מ\"ה אם קידש בו אשה צריכה גט מספ' דשמא קונ מדאוריי' עכ\"ל וק' דחשיב מה שמקדש בו לשינוי רשות א\"כ למה עשה שם חומרא מזה מספק הא מדינ' מקודשת בודאי כיון דאיכא יאוש ושינוי רשות וא\"ל דהתם מיירי בגזל דידה דקשה ממ\"נ אי בדשדיך הא מקודשת בודאי מן הדין ואי בדל' שדיך לא הוה קידושין אפי' מדרבנן דתוכל לומר אין שקלי ודידי שקבלתי כדאמרינן כאן בסי' זה אלא ע\"כ ודאי מיירי שם בגזל אחרים ואפ\"ה לא מקרי שינוי רשות בזה לענין שתהיה מקודשת והטעם דהא בעינן שבשעה שנותן לה הכסף יהיה שלו באותו הפעם וכאן לא הוי שלו אע\"פ דמתיאש דאין יאוש קונה מן התורה וממילא אין כאן שינוי רשות דאין נקרא שינוי רשות אלא אם נזכר אם נתן וכאן אין הנתינה כלום דנותן לשם קידושין ובאמת אין כאן קידושין באותו הפעם ע\"כ כ' שם דמ\"מ מדרבנן הוה קידושין דשמא יאוש קונה מדרבנן זהו הנ\"ל בטעם הרא\"ש דלשם וזהו סותר מ\"ש כאן הרמ\"ה דהוי שינוי רשות והי' ודאי מקודשת וע\"כ נראה דיש מחלוקת בין הרא\"ש והרמ\"ה ואע\"ג דהטור מבי' שניהם מצינו ג\"כ בשאר מקומות כזה ומ\"ש הטור כאן במקומו שהוא הלכות קידושין הוא עיקר דהוי שינוי רשות דהיינו קידושין ושינוי באים כא' דוגמ' לדבר בס\"ס קל\"ט בעינן ביטה וחצרה באים כא' וכן דעת הרמב\"ם שהעתיק כאן לשונו בסעיף א' שכ' ונודע שקנה אותו דבר ביאוש מקודשת משמע קידושי ודאי והיינו מטעם שינוי רשות וא\"כ חידוש גדול יש בדברי רמ\"ה וראיתי בשם בן לב שהקשה ממ\"ש התוס' בקידושין דף נ\"ב ד\"ה והיא לא אמר וא\"ת רב מאי אתי לאשמועינן כו' וי\"ל דאי ממתניתין הו\"א דוקא בממון כו' ואם איתא לדברי הרמ\"ה לא הוי קושי' כלל דרב אתי לאשמעינן אפי' אחר יאוש בגזל דידה כו' עכ\"ל ולא הקשה כלום דהא רב אמתני' קאי דקאמר ש\"מ דקדש' בגזל כו' ומתני' איירי לפני יאוש דכן הוא דיוק שם מדאמר ושל הפקר הי' ע\"ש ומו\"ח ז\"ל כ' כאן שנית דמדרבנן צ\"ג בכל גוונא וכ' שכ\"כ בהג\"ה ש\"ע ולא דק שפיר דהג\"ה זו אינו אלא אחר יאוש ודאי אבל בסתמ' כבר הלכה פסוקה בידינו דלית מאז דחש לר\"ש דאמר סתם גזלה יאוש בעלי' אלא לא הוי יאוש ואינה מקודשת כלל אפי' להחמיר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:2"
+        },
+        "3": {
+          "he": "אינה מקודשת דיכולה לו' אין שקלית ודידי שקלית אבל אם שידך תחלה או שאמרה הן היא מחלה על הגזל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:3"
+        },
+        "4": {
+          "he": "אף ע\"פ ששידך תחלה כו'  דמעיקר' קבלתו בחוב' והשתא בשעת קידוש לא מידי יהיב לה (אם החזיר לה חוב גם בזה תוכל לומר בעד חוב שלי קבלתי):  דברי המגיה ואיני יודע מי הגיה זה והוא ללא צורך דהרי הט\"ז ציין בסעיף ג' א\"כ קאי על חוב ועוד שכ' בהדיא דמעיקר' בחובה קבלתו ואפשר דטעותו הי' מכח שכ' הט\"ז ולא מידי יהיב ליה דהוא סיום ס\"ק ד' והגיע זמן פרעון שהוא התחלה ס\"ק ה' והי' כתוב בלי שום פיסוק בנתיים ומכח שאין להם חיבור יחד לכן הגיה כן בלתי ראות בהג\"ה בש\"ע אבל א\"צ להגיה זו דוהגיע זמן פרעון הוא ציון אחר בהג\"ה בש\"ע עכד\"ה):",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:4"
+        },
+        "5": {
+          "he": "והגיע זמן פרעון זה לא נקט אלא לרבותא דאפ\"ה לא חשבינן לי' לפרעון אבל באומ' תחלה כנסי בחוב לזה אין תלוי בהגיע ז\"פ דאפי' לא הגיע זמן אמרינן דאינה מקודשת דאע\"ג דקי\"ל ריש בתרא דהלואי יפרע אדם בזמנו מ\"מ זה אומר בפי' שנותני בפרעון חוב אמרינן דפרע תוך זמנו דלא ליטרדי' אח\"כ בזמנו כדאביי ורבא ריש בתרא והכל מודים בזה כיון דאמר בפי' לפרעון כתבתי זה לפי שבספר מו\"ח ז\"ל כתוב וז\"ל הרשב\"א בתשובה סי' קל\"ז דכתוב אם לא הגיע ז\"פ אפי' קבלתו בשתיקה ולא שדיך מקודשת עכ\"ל ולא מצאתי שם בסי' קל\"ז ודבר זה אינו כלל דבסיק אלף רכ\"ז כ' וז\"ל וכיון דמעיקר' אומר שנותני לפרעון אפי' חזר ואמר לא לפרעון אלא לקידושין אפשר לה לומר אני לא לקידושין קבלתי אלא דעתי בזה לפרעון כמו שאמר תחלה לפי שאפי' לא אמר לה לפרעון ומסרו לה סלע בפקדון או להוליכו לאיש אחר וקבלתו בשתיקה אפי' (הכי) יכולה לומר לא לדעתך קבלתיו אלא לדעת פרעוני והוא שהגיע זמנה של מלוה עכ\"ל הרי דלא כתב האי מלת' דהגיע זמן פרעון אלא בפקדון שהיה יכולה לתפוש הכסף לפרעון שלה ודאי אזלינן בתרי' אפי' בלא הגיע זמן ואינה מקודשת כלל ובנותן לה סתם אפי' הגיע הזמן מקודשת ע\"כ אין להשגיח בדברים הנזכרים בדברי הרשב\"א שהביא מו\"ח ז\"ל בל' שזכר שם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:5"
+        },
+        "6": {
+          "he": "י\"א דהוי מקודשת הר\"ן שהביא זה כ' תחלה דאינה מקודשת כיון דמתחלה אמר לשם חוב תוכל לומר אני תופש בלשון ראשון בחובי וגר' דלהלכה אינן קידושין ודאי אלא ספק:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:6"
+        },
+        "7": {
+          "he": "הוה ספק קידושין אם תוכל לומר בזה דידי שקלית כיון שאין לה על המשכון כלום ואינו קנוי לה ואפי' למ\"ד ב\"ח קונה משכון מכל מקום לא משכתו עדיין ובשעת משיכה לא ניתן למשכון אלא לקידושין כ\"כ בתשו' רשב\"א אלף רכ\"ז:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:7"
+        },
+        "8": {
+          "he": "ושתקה אינו כלום דשתיקה לאחר מתן מעות אינו כלום דהאי דשתקה משום דלא איכפת לה כיון דמעיקרא לאו אדעתיה דקידושין קבלתינהו למעות אלו אבל אם אומרת הן ה\"ל כאלו נותן לה עכשיו לשם קידושין דהא לא חייב לה כלום קודם זה וכבר כתבתי בסי' כ\"ז סעיף ג' במקום ד\"א הוי לשון קידושין וחזר ואמר לה ל' קידושין כדין ואמרה הן דמועיל אע\"פ שלא חזר ולקח הכסף ממנה קודם דהוי כמו פקדון דכאן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:8"
+        },
+        "9": {
+          "he": "ספק מקודשת די\"ל כיון דמעיקרא בתורת קידושין קבל' נהי דלית ביה בחפץ ש\"פ כי הדר אמר תקדש בזוזי דאית בי' אי לא ניחא לה תשדינהו דהא לא נתחייב' בשמירתה דהא לא היה בפקדון ביד' ומדלא זרקה ש\"מ שנתרצית בקידושין וזהו סברת רב הונא ברי' דר' יהושע או איכא למימר דלאו כל הנשים דיני גמירי וסברה דאין לזרוק אותם שמא יאבדו ותצטרך לשלם ולעולם לא נתרצית לקידושין וזהו סברת ר' אחא ורבא וע\"כ אמר רבא בזה דהוי שתיקה דלאחר מתן מעות ולאו כלום הוא ולענין הלכה קי\"ל דספק קידושין יש כאן אבל א\"ל דיש כאן ספק מכח ההי' דאמרי' בסי' ל\"א סעיף נ' דאף אם אינו ש\"פ כאן חיישי' שמא ש\"פ במקום אחר שאני הכא דחזר ממה שרצה לקדשו בפחות מש\"פ כ\"כ הרא\"ש והר\"ן תירץ דגם מעיקרא לא נתכוין הוא אלא לקדש' במה שבתוך החפץ אלא שלא ידעה מזה עד שגילה האומר תתקדש במעות שבתוכו אמינא מעיקרא ממילא לא הי' החפץ בתורת קידושין מעיקרא וע\"כ אין לחוש בשווי':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:9"
+        },
+        "10": {
+          "he": "והיה אם לא חזר כו'  תיוהא רבה קחזינ' כאן דהא אמר רבא בזה דהוה שתיקה דלאחר מתן מעות משמע שאם היתה אומרת הן הוי קידושי ודאי והיינו בשביל לשון הקידושין שאומר לה באותו הפעם והי' מתרצית לזה וא\"כ כאן שלא חזר לומר פעם שני' לשון קידושין והלשון שאמר תחילה אינו כלום שהרי חזר ממנו לדע' הרא\"ש שזכרנו וגם לדעת הר\"ן היה בטעות כיון שלא ידעו שהוא מקדש במעות שבתוכו ממילא בטל לשון הראשון וא\"כ במה תתקדש פעם שנית כיון שלא אמר לשון קידושין שנית ואע\"ג דאמרי' סי' כ\"ז דאם הי' מדבר עמה תחלה על עסקי קדושין נתן לה אח\"כ ושתקה דדי בזה מ\"מ לא דמי להכ' דהכ' בשעת שאינו אומר ל' קידושין שנית כבר הוא החפץ ביד' והוי לאחר מתן מעות לכ\"ע כבר נתבטל לשון הראשון שאמר תחלה קודם הנתינה משא\"כ לעיל דבשע' הנתינה שהוא עיקר הוא סומך על מה שאמר מתחלה מענין עסקי הקידושין וכן מבואר בגמ' שאמרו בזה תקדש בד' זוזי דהיינו שקדש' שנית וכן לשון הטור והרמב\"ם זכרו כן ובודאי דוקא היא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:10"
+        },
+        "11": {
+          "he": "אשה שחטפ' כו מהר\"ם פאדוו' סי' כ\"ד כ' דשתיקה דאחר מתן מעות לא מהני וכ' דלהרי\"ף שכ' כמ\"ד חושו לה וה\"ל ספק (וצריכה) גט היינו כיון דשידכו תחלה דהיינו שאמר תחלה לשון קידושין משא\"כ כאן שלא הי' לשם קידושין לכתחילה קודם שחטפה ותמוה לי דבריו במאד דאם תחשוב הקידושין הראשונים לשידוך אמאי הוי קידושי ספק הא קי\"ל בשידך תחלה אפי' אם לא אמר אח\"כ כלום מקודשת ודאי וא\"כ אפי' אם לא אמר אחר קידושין הראשונים כלום מקודש' ודאי עוד כ' להבי' ראיה מדברי הטור שכ' בד\"א שבא לידה בתורת הפקדון אבל אם בא לידה בתורת קידושין כו' דק' דה\"ל לקצר ולכתוב אבל אם בא ליד' שלא בתורת פקדון שאינה חייבת בשמיר' וא\"ל התקדשי ושתק' הוי ספק אלא ודאי דקמ\"ל אם (לא) שידך תחיל' לא הוי קידושין כלל וקידושין ראשונים הוי כמו שידך ע\"כ ואיני רואה כאן דקדק כלל (לדייק מכאן דקידושין ראשוני' הוי כמו שידך ממאי דלא כ' אבל אם בא ליד' שלא בתורת פקדון וכו' כי הוא בלתי אפשר לומר כן) דהאיך יאמר הטור דאם קבלה שלא בתורת פקדון דהוי ספק דכל שלא בתור' פקדון הוי בדרך חטיפה כמעשה שנזכר שם בזה ודאי ג\"כ אין קידושין כלל דאם היתה כוונתו להחזיק לעצמה דרך גזילה פשיטה שזה גרוע מחוב שהיא חייבת לו מה שהלוה לה ואין כאן קידושין כנלע\"ד ודברי הרב בזה תמוהים מאוד בעיני וראיותיו שם ומסיק דעכ\"פ צריכה גט וזהו חומר' בלא טעם גם רמ\"א כ' כאן דל הוי קידושין כלל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:11"
+        },
+        "12": {
+          "he": "ודוקא שאינה יודעת זהו לשון הטור בשם הרא\"ש וכ' בפרישה נראה דאף דפתח רבינו בתרתי בפקדון ובשאלה מ\"מ האי דינא בתרא דוק' בפקדון הוא אבל בשאלה לה כלי איירי בכל ענין אפי' יודעת תחלה הסכום ובשע' שקדש' לא ידע' שנגנב' ואפ\"ה מקודשת אם נשאר בידה ש\"פ דכיון שהי' חייבת לשלם לו הגניבה כדין שואל ודאי נתרצית לו להתקדש מה לי כשהן בעין או נגנב' ועלי' לשלם ומ\"מ צריך להשאר מגניבה ש\"פ דא\"כ הוי מקדש במלו' והשתא א\"ש דכ' רבינו דינו דווקא בפקדון כו' עכ\"ל וכ\"כ מו\"ח ז\"ל דבשאל' כיון דחייב באחריו' דמה שחייבת לשלם ה\"ל מלוה ומה שנשתייר ש\"פ ה\"ל פרוטה וא\"כ יש כאן מקדש במלו' ופרוט' דמקודש' וע\"כ אין חילוק בין ידעה ללא ידעה אלא בפקדון ותמהתי שאלו הגאונים לא דקו כלל בפשט זה דהא איתא בגמ' בפשט דמקדש' בפקדון שביד' כו' דמיירי שיש עלי' אחריו' כדפרש\"י בהדי' וז\"ל אע\"פ משקיבל עליה אחריו' קתני דאם לא נשתייר אינה מקודשת כו' ועל פשט זה כ' הרא\"ש שאם יודעת סכום הפקדון לא מהני נשתייר ש\"פ וא\"כ הא דומי' דשאל' ונ\"ל ברור דהטור פוסק בשביל זה הך שאל' אע\"ג דלית' בגמ' אלא להורות דמיירי הך פקדיון באחריות דומי' דשאלה ולא שייך כאן כלל מלוה ופרוטה כיון דכתב הרא\"ש שהי' דעתו דוקא אכל סך הפקדון א\"כ היה כולל כל הסך בפקדון א\"כ על הכל שייך שם קידושין וכן אית' בהג\"ה סי' זה סעיף י\"ח וע\"כ אם קצת ממנו מלוה לא מהני הנשאר ודאי אם אמר בשעת קידושין הרי את מקודשת לי במלוה ופרוטה אמרינן דמקודשת בפרוטה דהדיבור של מצוה הוא כמאן דליתי' וכל הקידושין חלים על הפרוטה משא\"כ כאן דהיתה סבור' שכל כך הפקדון הוא ישנו בעין וכל שיש בקצו מלוה ה\"ל ככולו מלוה וע\"כ אם נאבד אע\"פ שנשאר ש\"פ לא מהני בפקדון באחריות דה\"ל כשאלה כיון שיש שם מלוה במה שנאב' והוא בכלל הקידושין ודוקא ע\"כ לא הוי קידושין והא דלא נקיט בסיפא רק פקדון משום דבגמ' לא נקט רק פקדון אלא שהרא\"ש גילה לנו ששאלה היא כפקדון כי הפקדון הנאמר בגמ' הוא באחריות ובשניהם יש חילוק בין לא ידעה סך הפקדון או ידעה ובסיפ' לא צריך להזכיר רק פקדון לחוד ועיין מ\"ש בסעיף י\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:12"
+        },
+        "13": {
+          "he": "ומתרצת להתקדש אין פירושו שבפי' אומרת כן אבל מסתמא לא דא\"כ פשיטא דאזלינן בתר' אלא ה\"ק כיון שהיא אינה יודעת הסכום מסתמא מתרצית כו' וכן בסיפ' שאינה מתרצי' היינו נמי מסתמ' וכאומרת בפי' דמני:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:13"
+        },
+        "14": {
+          "he": "שאינה מתרצית כו'  בטור סיים וגם הוא אינו חייב להשלים לה כיון שאינו מזכיר סכום הפקדון בשעת הקידושין פי' דבסי' כ\"ט אית' באומר התקדשי במנה ונתן לה דינר ה\"ז מקודשת וישלים לה המנה וה\"א כאן ביודעה סכום הפקדון ונשאר ש\"פ דמקודשת וישלים קמ\"ל דזה אינו מקודשת כיון שלא זכר בפי' סכום הפקדון שכירות פעול' כו' עמ\"ש סיף י\"ב בזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:14"
+        },
+        "15": {
+          "he": "ואפי' עדיין המעות בידה דמעות דידה ניגחו כיון דמלוה להוצאה ניתנה נמצא (לא) הוי יהיב לה השתא ולא מידי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:15"
+        },
+        "16": {
+          "he": "ואפי' החזיר לה השטר כיון דלא אדכריה בשעת קידושין קידושי ביה כמקדש במלוה דמי ויש מחמירין ס\"ל דכיון דנותן לה השטר הוי כמלוה ופרוטה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:16"
+        },
+        "17": {
+          "he": "הרי זה ספק מקודשת דשמה ש\"פ במקום אחר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:17"
+        },
+        "18": {
+          "he": "שהוא כריבית  בטור כ' בזה וכיון דלא קץ לאו ריבית היא אלא אבק ריבית עד דאמר לה ד' בה' עכ\"ל צ\"ע דבח\"מ סי' ע\"ג משמע דהמתנת המעות לזמן ה\"ל כתביעת ממון ממש לענין שאם אמר הלוה שהזמן עד י' ימים וע\"א אומר היום סוף הזמן צריך לישבע ש\"ד כשאר טענות של ממון וכ\"ש דקשה על מ\"ש הטור בשם בעל העיטור שאם אומר במה שאני מרויח לך הזמן במה שאתה חייבת לי כבר שאין בזה איסור דלא הוה הנאה והיינו הי\"א שמביא בסעיף שאח\"ז שאינה מקודשת דקשה ממ\"ש בח\"מ שזכרנו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:18"
+        },
+        "19": {
+          "he": "במה שאני מרויח לך הזמן כו'  מהלואה שנעשית כבר ומשמע מכל הדיעות דכאן שאם מקדש בריבית קצוצה שאינה מקודשת ונראה הטעם דכיון דצריך הוא להחזיר בדיינים ה\"ל גזל דריבי' וגזל דין א' להם וכדאית' ר\"פ איזהו נשך דפרכינן למה לי לאו בריבית ובגזל ובאונאה וכיון שכן הוא שייכים בריבית קצוצה ג\"כ כל דיני יאוש הנזכרים בסי' זה לגבי גזל הכי נמי בריבית ועו' יש לי ללמוד דמקדש באונאה נמי לא הוי קידושין דהא בגמ' שזכרתי מדמה גם אונאה לגזל ואע\"ג דעביד שם בגמ' צריכותא מ\"מ לפי האמת שלשתן שוים וע\"כ יש להחמיר גם במקדש באונאה בענין דהוי ביטול מקח דלא להוי קידושין ואם יקדשנה אחר צריכה גט גם משני כי אין להקל מחמת קידושין אלו כיון דלא נזכר בגמ' בפי' מדבר זה נלע\"ד וי\"א שאינה מקודשת הוא דעת הרמב\"ם דס\"ל הנאות מחילות מלוה לא מהני כיון שאין נותן לה עכשיו כלום:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:19"
+        },
+        "20": {
+          "he": "פי' במשכנו (בשעת) הלואתו כו'  דכ\"ש במשכון שלא בשעת הלוא קנה המלוה מדר' יצחק דדריש קרא דלך תהי' צדקה דאם אינו קונה משכון צדקה מניין והיינו שלא בשעת הלואתו דע\"ז קאי קרא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:20"
+        },
+        "21": {
+          "he": "וי\"א שאפי' לא החזיר  פי' שמקדש אותה מחמת הנאות מחילו' מלוה דהיינו דאמר כן וא\"ל א\"כ משכון גרע טפי דס\"ד דלא סמכא דעתה כיון שאין מחזיר לה קמ\"ל כ\"כ התו' בפ\"ק דקידושין דף י\"ט והך י\"א ס\"ל כדיע' קמיית' דסעיף ט' דמהני מחילו' מלוה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:21"
+        },
+        "22": {
+          "he": "יש לו קנין כו'  זה דעת הרמב\"ם וס\"ל דהא דרבי יצחק מיירי אפי' במשכנו בשעת הלואתו דקנה משכון וברמב\"ם כ' יש לו מקצת קנין לפ\"ז י\"א דאף דלא קני לגמרי מדר' יצחק היכא דמשכנו בשעת הלואתו מ\"מ קנה קצת מצד שיש לו עכ\"פ שעבו' ויכול לקדש בו אשה וכ\"כ התו' בפ\"ק שם וזה עיקר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:22"
+        },
+        "23": {
+          "he": "ואם מכרו כו'  קאי על משכן של גוי במהרי\"ו סי' קל\"ח כתב להשואל וז\"ל ודעתי' דמר כיון דהוי גזל מדרבנן דלא להוי קידושין כמו בחמץ בשעה ו' לבי מהסס בדבר כו' דכאן לא הוה גזל אלא כמו הפקעו' הלואתו דשרי ואע\"ג דבמקום חילול השם אסור דלמ' איסור הוי אבל גזל לא הוי דטובה אשכחן דאסרו לכתחל' כגון אבק ריבית דאסרו לכתחלה דאטו אם קידש באבק ריבית דלא הוי קידושין כו' ועוד דאע\"ג דאין יכול' למכור מ\"מ כיון שאפשר להשמט מהגוי לומר שנאב' דאז הוי היתר בידו ואפשר דאין כאן אפי' חילול השם עכ\"ל וק\"ל דלפי מ\"ש איסור יש אבל לא הוי גזל וכי הוי גזל מאי הוה הא בגזל הגוי אמרו ג\"כ בהגוזל בתרא גזל הגוי אסור ה\"נ נימא דיכול לקדש בו דל הוי גזל גמור ואעפ\"י ששם בהגוזל ילפינן להא דגזל גוי אסור מקר' דכתיב ואכלת את כל העמים כו' מ\"מ קרא אסמכתא בעלמא הוא כמ\"ש שם הוא עצמו כמו שזכרתי בשמו דאינו אלא דרבנן. וא\"כ מ\"ש גזל גמור מגוי או דבר זה שיש חילוק השם דאם יש קידושין בזה ה\"נ בזה וכ\"ת ה\"נ א\"כ קשה למה כ' רמ\"א לפי זה דאם קידש במשכון של גוי אינה מקודשת והוא מדברי המרדכי רפ\"ק דקידושין מטעם דאמרינן בפ' כ\"ש דישראל לא קנה משכון גוי ואמאי לא נימא גם בזה אף דלא קני מ\"מ לא גרע מגזל גמור דלא הוי רק איסור ולא גזל גמור מן התורה ואמאי לא הוה מקודשת לכל הפחות ראוי להחמיר דלהוי עכ\"פ ספק קידושין וצ\"ע:  דברי המגיה כו'  ב\"ש בסעיף קכ\"ח הי' לו משכון כו' וצריך להודיע לה שאינו שלו אלא משכון משום דיכולה לומר אין רצוני להתקדש בדבר שאינו שלו כמ\"ש לקמן בטבע' שאול' ובת\"ה סי' ר\"י בכלי ששכר כו' ובזה ק\\לק\"מ מה שהקשה בח\"מ ובט\"ז כו' עכ\"ל ואנ\"ל כלל לדמות זה לשאלה ושכיר' בשלמ' בשאל' אין לו כלל בגוף הכלי שייכות וא\"כ יהיה הקידושין בטעות אם לא יודיע לה שהוא אינו שלו כי שמא תהיה סבור' שהי' שלו וכן בשכר כלי אין לו בגוף הכלי כלום כ\"א שכיר הוא אצלו לימים ובהגיע הזמן ימי השלמת השאלה והשכיר' מחויב להחזיר בלתי שום דבר משא\"כ במשכן שהוא קנוי אצלו לעולם אם לא יפדה אותו ואף אם יפדה אותו הרי הוא כמו שמוכר לו כלי זה כי צריך ליתן לו מעו' בעבור הכלי שלוקח ממנו א\"כ הוי ממש כשלו ואין כאן טעות כלל דאטו אם קידש בכלי ואחר כך יצטרך למכור אותו מאיזה טעה שיהי נמי נאמר שהי' קדושי טעות שהית' סבור' שלא יוליד בה הסיבה שיצטרך למכור בפרט שהוא נותן לה המעו' בשביל הכלי ועו' א\"כ למה לא כ' הטור דין זה כאן צריך להודיע לה שהוא משכון שדין זה הוא קודם בטור וממילא יהיה נשמע דגם בשאלה הדין כן שצ\"ל שהוא שאול במכ\"ש במשכון כמ\"ש ואף בשאלה כתב בד\"מ בשם הנ\"מ והט\"ז מביאו דאפי' אם אמרה האשה אח\"כ אלו הייתי יודע שאינו שלך לא הייתי רצוני להתקדש לך אין בדבריה כלום דדברים שבלב אינה דברים כו' ואף שסה סותר מה שכתב בשם תשו' הרא\"ש שם בד\"מ מ\"מ אפשר דדוק' בשאלה לא ס\"ל כן להרא\"ש אבל לענין משכן אף הרא\"ש מודה דאפי' אמרה אח\"כ אלו הייתי יודע כו' אינו מועיל כיון דקנוי' לו מקרי שלו כמ\"ש וא\"כ קידש אותה בשלו ושוב אינה מועיל דברי' וכמ\"ש בסעיף כ' במי שהיה אצלו מתנה שמחויב להחזיר וקידש בו אששה מקודשת וזה מיירי שלא הודיע לה שמחויב להחזיר כמ\"ש הט\"ז דאל\"כ יקשה מר\"ס כ\"ט ולא אמרינן דיכולה לומר אין רצוני לקדש בשאינו שלו וא\"כ בנדון זה כ' רמ\"א דאם קדשה במשכן של גוי דמיירי ג\"כ בשלא הודיע לה שהו משכן דומי' דמשכן ישראל וא\"כ האיך נתן לה המשכן בתורת קידושין כיון דאינו שלו הוא דמשכן של גוי אינו קנוי לו א\"ו דנתכוין להחזיק בה והוי כמו גזל גוי א\"כ ק' קושיית' של הט\"ז והחמ\"ח למה לא תהי' מקודשת עכד\"ה):",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:23"
+        },
+        "24": {
+          "he": "אפי' מלוה בשטר הטעם דכיון דהוא יכול למחול החוב ללוה לא סמכה דעתה דאשה על הקידושין דהי' דואג' שמא ימחול הוא החוב ולא מהני לה שטר שבידה לתבוע החוב:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:24"
+        },
+        "25": {
+          "he": "אינה מקודשת אלא מספק ובטור כתב אינה מקודשת אלא שמין הנייר אם יש בו ש\"פ מקודשת ודאי ואם לאו מקודשת מספק עכ\"ל פי' לדבריו כיון שהזכיר השטר ומקדשת בו שמין אותו ולזה א\"צ כתובה ומסירה אלא הזכירה לחוד ולא נקיט הטור כתיבה ומסירה אלא לרבות' דבחוב גופיה לא מקודש' אם אין בו ש\"פ והיינו דאמרי' בסעיף ח' בשטר חוב שעליה דשמין את השטר אם הזכיר אותו ובפריש' כתב הטעם דהכא כיון שהקנה בכתיבה ומסירה ע\"כ שמין השטר ולא דק דא במלוה שעליה לא שייך ואפ\"ה שמין מצד שבשטר עצמה מקדש' והו' הדין נמי כל שהזכיר השטר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:25"
+        },
+        "26": {
+          "he": "ונתן לה עתה פרוט' כו'  (וכן באם נותן לה דבר משלו לצורך המלאכה) אע\"ג שהיא אמרה תחלה אתקדש לך בשכר שתעשה לי וא\"כ נימא שדעת' היה דוקא ע\"ז וכמ\"ש סי' זה סעיף ו' דאם יודעת סכום הפקדון לא נתרצית כ\"א על כולה שאני התם דהית' סבור' שכול' בעינן ממילא הכל נכלל בקידושין משא\"כ כאן שבודאי כאן מלוה היא ע\"כ מה שדבר' מחמת שכר הפעולה כמאן דלית' ואח\"כ מה שהוסיף לה הוי קידושין שפיר ועיין מ\"ש בסעיף ו':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:26"
+        },
+        "27": {
+          "he": "במלו' ופרוט'  בטור כתב לפיכך אם אמר' לו עשה לי שירים ונזמי' ואתקדש אני לך בשכר המלאכה אינה מקודשת דישנה שכירות מתחלה ועד סוף כו' פי' דבריו כיון שאין מקדשין אלא בממון ולא במלוה גם דבר זה הוה מלוה וז\"ל רש\"י בפרק (האיש מקדש) דף מ\"ח דמ\"ד ישנ' לשכירות מתחלה ועד סוף כל פרוטה כשנגמר' נתחייב בה בעל המלאכה לפועל בשכירות עשי' המלאכ' הלכך כשמחזירין לה הו\"ל מלוה למפרע ומ\"ד אין לשכירות אלא לבסוף כשמחזירין לה והרי לשם קידושין הוא מוחל אצל' ואין כאן מלוה כשמחזירין לה עכל פי' דבריו דהעיקר תלוי בחזרת הפעולה דאז בא הפרעון שחייבת לו למ\"ד אין שכירות משתלמת אלא לבסוף אלא דמ\"ד יש לשכירות כי' בא עלי' חיוב הפרעון אע\"ג דלא קבלה עדיין הפעולה אלא תכף שעושה חד ש\"פ ה\"ל ההוא ש\"פ במלוה עלי' למפרע אם נותן לה אח\"כ וכן כל השכירות וה\"ה אם כל השכירות אינה אלא ש\"פ נעשה ההוא ש\"פ למלוה עליה למפרע א' החזר' אלא דלמ\"ד אין לכירות כו' לא הוי שם מלוה עליה עד שיחזיר לה הפעולה זו דאז חל עליהם מלוה ויכול להוציא ממנה השכירות משא\"כ קודם לזה ולא אמרי' דחל למפרע שם מלו' (בחזירתו קמ\"ל) (הטור) דודאי אמרינן דחל למפרע שם מלוה דכבר יש לו חוב אצלה ש\"פ אחרי שעשה ש\"פ (דמ\"ד ישנ' לשכירות מתחלה ועד סוף) דומי' דאמרי' ריש בתר' לענין עשיית הכותל כל שיפ' ושיפ' זמניה הוא אלא דלשם אין שייך חזר' דהא הכותל ברשותו קאי ואינו ביד הפועל ע\"כ הוה הזמן הפרעון תיכף אחר כל שיפ' ושיפה שעושה משא\"כ כאן דכל זמן שאין מוצא מרשותו לרשות' לא הוה הז\"פ עדיין כמו במי שחייב חוב לחברו ועדיין לא הגיע הז\"פ דמ\"מ שם מלוה יש בזה. ה\"נ בפעול' זו דהז\"פ תלוי בחזרה לרשות' ואז דוקא הוה למפרע מלוה וכן פרש\"י שם אח\"כ וז\"ל כיון דגמרו להחזיר לו בב\"ד כבר נעשה מלוה כתבתי זה לפי שראיתי בפריש' וז\"ל דישנ' לשכירות כו' פירש\"י כל פרוט' שנגמרו כו' ור\"ל לאפוקי אי אמרינן אין שכירות כו' אז במכה האחרון בא החיוב שהיא חייבת לו ואף אם אין נותן לה באותו הפעם הכלי מ\"מ מקודש' דאדעת' דהכי הסכימו תחלה אבל השתא שכבר החייבת לו כל פרוט' ופרוטה אפילו אם הוא נותן לה מיד בגמר מלאכה מ\"מ במכה אחרונה לית בה ש\"פ וכן נ\"ל דמכה אחרונ' לית בה ש\"פ דאל\"כ להוי כמלוה ופרוטה דמקודשת עכ\"ל ותמהתי מאד על גבר' רבא זה שיצאו דברים אלו מפיו דלפי דבריו למה הוצרכו בגמ' להמצי' פלוגת' דמלו' ופרוט' באם הוסיף נופך משלו וכ\"כ הטור ג\"כ בסמוך שנותן שום דבר משלו הא משכחת לה בלאו הכי דאם היה במכה אחרונה ש\"פ ותו דלקמן סי' ל\"ח יש ג\"כ הך מלתא גבי אדבר עליך לשלטון כו' ואמרינן גם שם אם יש לשכירות כו'. ושם ל\"ש לומר שאין בדבור האחרון ש\"פ ותו דהא נותן למעלה להכאה אחרונה אם ישיבה ש\"פ יותר מהכאות הראשונות וזה ודאי אינו דאטו אם השכירות כולה אינו אלא פרוטה ואין שם אלא הכא' א' וכי נא' בזה דהיא מתקדשת דמ\"מ שם מלוה יש כאן (א\"כ) מה לי' פרוט' אחד או הרבה פרוטות זה אח\"ז. ותו דהא רש\"י כופל ומשלש דבחזר' תליא מלת ובעל הפרישה אינו משגיח בנתינ' כל עיקר אלא בהכאה אחרונ' ובאמת הנתינה היא דוקא הקידושין אלא הדברים כפשטן דהכל תלוי בנתינ' אלא דהחילוק הוא למ\"ד אין לשכירות כו' מתחיל שם המלוה משעת נתינה ואילך וזהו מ\"ש לבסוף הוה השכירות ולא למפרע בשעת הפעולה ולמ\"ד יש לשכירות כו' הנתינה גורמת שתהיה למפרע מלוה כל פרוטה אפי' פרוט' א' ול\"ד כאן למ\"ש בפ\"ק דע\"ז אם הגיע לכיפ' שמעמידין בה ע\"ז אסור לבנותה ואמרינן אם בנה שכרו מותר ומפרש התם טעמא משום דיש לשכירות כו' ואימת איתסר במכוש האחרון ומכוש אחרון לית ביה ש\"פ התם ודאי צ\"ל כן ששם הוה הגמר במכוש האחרון ואין שייך שם נתינה נמצא שמכוש אחרון הוא מהכאות הראשונות שלא היו שם גמר דאין האיסור אלא בגמר דוקא ע\"כ צריך שלא יהיה במכוש האחרון ש\"פ משא\"כ כאן בקידושין דהכל תלוי בנתינ' שהיה עיקר הקידושין כנ\"ל פשוט דבעל הדרישה לא דק בזה: כ' בתו' רי\"ד בקידושין דף מ\"ח דהא דתני' בשכר שאעשה עמך מקודשת כו' דברי התנ' הם אבל המקדש צ\"ל בשעת הנתינה מקודשת לי בשכר הכלי זה אבל אם המקדש אמר תחל' רצונך להתקדש לי בשכר שאעשה לך ואמר' הן ובשעת נתינה לא אמר כלום אינה מקודשת כי היכא דבגט אם אומר הרי את מגורשת ממני בגט שאני עתי' ליתן לך שאין זה הדיבור כלום עד שיאמר לה בשעת נתינ' ה\"ז גיטך כו' עכ\"ל וכן מ\"ש הטור בשם ר\"י דכשנותן לה הכלי מתקדשת בשבח שיש לו בר וכן בהוסיף נופך משלו דמקודשת נמי בדא\"ל בשעת נתינה מקודשת לי בשכר כלי זה ובמה שהוספתי עליו כצ\"ל לפי התו' רי\"ד הנ\"ל ותמהתי דאיתא בגמ' בשכר שעשיתי עמך אינה מקודשת בשכר שאעשה עמך מקודשת ואי אמרת דבשעת נתינה צריך שיאמר מחדש קידושין ממילא צריך שיאמר אז בשכר שעשיתי עמך ממילא היינו ריש' ולמה מקודשת ותו דרש\"י כ' וכשיגמר ויתנו לה מקודשת ולא זכר האמירה מחדש וע' לקמן סי' כ\"ט סעיף ב' מ\"ש שם ראיה ע\"כ נראה דא\"צ אמירה חדשה דהא איתא בפ\"ק היה מדבר עמה על עסקי קידושי' ונתן לה ולא פירש ואמרי' שם אפילו עסוקים מענין לענין סגי וזהי לפי שהדבר הקודם מורה על הנתינ' בסתם שהיה על קידושין כ\"ש כאן שאומר בפי' תחל' שבשכר הפעולה התקדש ומ\"ה בשעת נתינת' הכלי א\"צ לומר כלום דבודאי על אמירה ראשונה סמוך אף שיש הפסק ביניהם כיון שיש אמיר' בפי' והיינו למ\"ד מקודשת:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:27"
+        },
+        "28": {
+          "he": "דאומן קונה בשבח כלי  בטור כ' שגם הרא\"ש ס\"ל כן וכ' רש\"ל ע\"ז כאן לא דק המחבר שהיא סבר שדעת אביו כמו ר\"י ור\"ת דאומן קונ' מדהבי' בפ\"ב דקידושין בתחלת דבריו דעת הרי\"ף דאין אומן קונה כו' ואח\"כ כ' דעת ר\"י ור\"ת דאומן קונה משמע דהכי ס\"ל ולית' דבפ' הגוזל קמא נמי הביא דעת הרי\"ף וכ' שם נמי דאין ראיה מדבריו אבל לא שחולק על דבריו ואדרבה שם הביא ראיה אחרת מסוגיות הגמ' לדעת הרי\"ף אלא שכתב לבסוף מיהו יש לדחות ובפרק המקבל פסק להדיא כהרא\"ש דאין אומן קונ' וכן כתב הטור בח\"מ סי' של\"ט דקבלן עובר משום בל תלין אלמא ס\"ל דאין אומן קונה ואין לדחוק וליישב דהטור ס\"ל דדעת אביו לפסוק לחומרא גבי קבלנות דעובר משום בל תלין משום דאין אומן קונה והכ' בקידושין לחומרא דמקודשת דאומן קונה כו' גם זו לית' שהרי בח\"מ סי' ש\"ז כ' דקי\"ל דאין אומן כו' ומחייב לשלם אלמ' דקים לי' הכי שהרי מוציאין ממנו ע\"ז ולאו ספיק' הוא ע\"כ נראה דהמחבר לא דק עכ\"ל ולא ראיתי ישוב לזה כי כל התירוצים דחוקין ואינן אמת:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:28"
+        },
+        "29": {
+          "he": "ואם הכלי עדיין כו'  בד\"מ מבי' דברי רבינו ירוחם כן דאם עשה כלי לאש' ועדיין הוא אצלו בשכרו הוה מקודשת דהוי מקדש (במלוה) שיש משכון עליה וכתב ע\"ז ואע\"פ שהטור כ' בשם הרמ\"ה דוקא דמטי המשכון לידיה בתורת משכון נראה דכאן הוא מודה דכל אומן הכלי שהו' בידו הוי כמשכון עכ\"ל ותמוה לי דא\"כ אמאי אמרי' דמקדש בשכר שעשיתי עמך דאינו מקודשת דמשמע בגמ' אפי' אחר הנתינ' ליד' ונלע\"ד דמיירי שאומר בפי' שתופס הכלי בשכר ע\"כ הוה מלוה ויש לו משכון וזה מוכח בדבריו מדאמר ועדיין הכלי אצלו בשכרו הא בשכרו הוא מיותר אלא דמורה בזה שבפי' משהא אותו בשכרו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:29"
+        },
+        "30": {
+          "he": "נתן משלו כו'  זהו אפי' לדיע' קמיית' דתחלת סעיף זה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:30"
+        },
+        "31": {
+          "he": "גט מספק וכן אם קידש על תנאי כמ\"ש בסי' ל\"ח סעיף ל\"ה הטעם דשמא בעל לשם קידושין כיון שקידושין הראשונים אינ' קידושין דאין אדם עושה בעילתו בעילת זנות וק' דכאן אמרי' דהבעיל' אינ' ע\"ד קידושין הראשונים דאין אדם עושה בעילתו בעילת זנות כו' ע\"כ אפילו אם לא נתקיים התנאי נתקדש בביא' ולקמן סי' קנ\"ז כ' הרמ\"א דהמקדש יכול להתנות שאם תפול (לפני) היבם מומר שלא תהיה מקודשת וי\"ל דכאן התנאי על העבר ויוכל לבטלו אמרי' מסתמא ביטלו כדי להנצל מבעילת זנות משא\"כ לקמן דהוא נתכוין שלא תתעגן אשתו אחר מותו הסבר' היא שבודאי לא ביטלו ובעל ע\"ד הקידושין הראשונים לעשות מצוה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:31"
+        },
+        "32": {
+          "he": "כדי שלא להתבייש בי\"ד סי' של\"א לענין תורם שלא מדעת לא אמרי' כן משום דגבי תרומ' חייב לתרו' משא\"כ כאן שנוטל לעצמו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:32"
+        },
+        "33": {
+          "he": "בדבר שאינו מקפיד בפרישה כתב וז\"ל ר\"ל שאין הבעל מקפיד עליו הוי ספק קידושין דשמא הוא ש\"פ כמדי אבל אין נראה לפ' דאע\"פ שיש בו ש\"פ הוי ספק הואיל שלקחו שלא מדעת ב\"ה דהא קאמר שאין מקפידין משמע שמחל לו והוי שלו לגמרי עכ\"ל ודבריו אלו שלא בדקדוק דאם תפסינן בזה שהב\"ה מחל ע\"ז בודאי מה בכך שהו' ש\"פ במדי מ\"מ אין כאן גזל כיון שמחל (וה\"ל כדידי' ולא היה לו לכתוב דין זה כלל כי פשוט הוא) אלא פשוט שהמחיל' היא בספק בזה אלא שסתם בני אדם אין רגילים להקפיד בזה ואין כאן חילוק בין ש\"פ או לא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:33"
+        },
+        "34": {
+          "he": "אורח שנטל חלקו כו'  תמוה לי מאד האי פסק' דהא איתא בפ' כ\"ה דף צ\"ד אין האורחים רשאין ליתן ממה שלפניהם לבנו ולבתו של ב\"ה אא\"כ נטלו רשות מב\"ה וכן פסק בא\"ח סי' ק\"ע וא\"כ כ\"ש שלא ליתן לאחרים שלא ברשות בע\"ה ואמאי יוכל לקדש בזה וע\"כ נראה דאין כאן קידושין ודאי אלא ספק כנ\"ל ברור:  דברי המגיה כ' ב\"ש בס\"ק מ\"ג אורח כו'  אף ע\"ג דאיתא בת\"ח סי' ק\"ע אורחים אין רשאים ליתן לבנו כו' צ\"ל לבנו לא יתן אבל לקדש בו אשה וכן ליתן זה לזה ע\"ש בב\"ח וט\"ז כ' מכח קושי' זו דאינו אלא ספק עכ\"ל וא\"י מה עלתה על דעתו דודאי אם על בנו מקפי' כ\"ש על אחר דהיינו לקדש בו אשה וב\"ח לא כתב רק ליתן זה לזה רשאים דאינו מקפיד כיון שזימן אותם וכן כתב הב\"י בסי' קס\"ט בשם ר\"י בפ' אלו דברים אבל מי שלא זימן בודאי אין רשאי ליתן לו דמקפיד דהוא כ\"ש מבנו שהוא מקפיד אכן נ\"ל באם קידש בו בתו של בע\"ה דאיכא תרתי לטיבותא אפשר דמקודשת וזה מיירי רמ\"א עכד\"ה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:34"
+        },
+        "35": {
+          "he": "שאין רצונ' להתקדש כולי נראה דאם גילה שחצי הוא של שותפות מקודשת דלא סמכה דעתה רק על החציח שלו והו' ש\"פ דומי' דהמקדש במלוה ופרוטה דאין דעתו רק אפרוטה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:35"
+        },
+        "36": {
+          "he": "השואל חפץ מחבירו  בטור הביא תחילה דבעי בעל העיטור דיש בזה מחלוקת (דאיכא מ\"ד) דס\"ל דדמי' למתנ' על מנת להחזיר פי' כאילו נותן לה מתנה ע\"מ להחזיר דקי\"ל בסי' כ\"ט דאינה מקודשת דדמי' לחליפין ואין אשה נקנית בחליפין ה\"נ במה הוא מקדש' בדבר ששאול בידו אף ע\"פ שהוא מודיעה שזהו שאול בידו דאל\"כ ודאי אינה מקודשת דקי\"ל אין השואל רשאי להשאיל דכיון שצריכה להחזיר גם בשאלה דומה למתנה ע\"מ להחזיר לו (ואיכא) מ\"ד כיון דסתם שאל' ל' יום ממילא גם ביד' תהיה ל' יום וה\"ל כאומר הנא' זו שיהיה בידך לצרכך ל' יום בזה אקדש אותך ואינו דומה למתנה ע\"מ להחזיר דשם אין זמן קבוע לחשרה ואע\"ג דכתב בח\"מ סי' קי\"א דהמקבל מתנה ע\"מ להחזיר יכול לעכב המתנה אפי' לזמן מרובה שיכול לומר לזמן מרובה אחזיר לך מ\"מ כיון שאין זמן קצוב ה\"ל בכל שעה עליו חיוב להחזיר משא\"כ בל' יום דשאל' דאותו זמן ה\"ל כממכר כדאמרי' בשכירות דכל ימי השכירות הוי כממכר ה\"נ בשאלה אפי' בסתם הוי כמפרש ל' יום ובמפרש כ\"ע מודים דמקודשת וכמ\"ש רמ\"א דס\"ל דאם אומר בהנאה זו שאתה נהנית כו' ואח\"כ הביא הטור דעת הרא\"ש כמ\"ש כאן בש\"ע דאם הודיע למשאיל שיקדש בו (והודיע לאשה שהוא שאול עד זמן פלו' זה אינו בטור ובאמת א\"צ לזה כשיודע המשאיל שיקדש בו) אז מקודשת בכל ענין דאנן סהדי שגמר בלבו ליתן לו באותו ענין שמועיל לקידושין כו' ועמ\"ש מזה בא\"ח סי' י\"ד שיש לתמוה ע\"ז וכ' בד\"מ ואחרי שהגאונים חולקין בדין המקדש בטבעת שאול טוב ליזהר שלא לקדש בו וכן משמע בהג\"ה מרדכי דקידושין אבל כבר פשוט המנהג לקדש בטבעת שאול כדי לקדש בו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:36"
+        },
+        "37": {
+          "he": "והודיעו שרוצה לקדש כו'  בת\"ה בסי' ר\"י כ' הא דבעינן שיודיעה היינו שלא תהא סבורה שהיא שלו ולא תתקדש אלא בטבעת עצמו אבל אמר בפי' שמקדשה בהנאת קישוט אע\"ג שלא הודיעה הוי קידושין גם מ\"ש הרא\"ש שצריך שיתן לו רשות להשאילו היינו דוק' לכתחל' אבל דיעב' אפי' לא נתן רשות הוי קידושין אמנם בפסקי מהר\"פ מסתפק בדבר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:37"
+        },
+        "38": {
+          "he": "וקידש בו בד\"מ אית' אם קדשה בהנאות קישוט לבד לכ\"ע הוי מקודשת אבל אם (קידש) באותו דבר עצמו לדברי התו' שבפ' הזהב די\"ל דלא אמרי' שכירות ליומא ממכר הוא אלא גבי אונאה לא הוי קידושין אע\"ג דידע' דמושכר הוא אצלו ומהרי\"ח כ' דהוה קידושין כך מסקנת מהרא\"י בת\"ה סי' ר\"י כ' הרא\"ש בתשו' כלל ל\"ה סי' ח' דסתם המקדש בטבעת שאול בגופו קאמר שהאשה סבור' שתשאר הטבעת בידה ולדעת כן נתקדשה לו עכ\"ל בהגהות מרדכי דקידושין כ' ואפי' אמרה האשה אח\"כ אלו הייתי יודע שאינו שלך לא הייתי רצוני להתקדש לך אין בדבריה כלם דדברים שבלב אינו דברים ע\"ש שהאריך בזו עכ\"ל וזה סותר למ\"ש בשם תשו' הרא\"ש (דהרי המ\"מ כ') אפילו אמרה אלו הייתי יודע כו' וראוי לכל מסדר קידושין באם יש חשש שהטבעת אינו שלו יחקור אחר זה ויצוה שהמשאיל יתננה במתנה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:38"
+        },
+        "39": {
+          "he": "והלך המקבל וקידש כו'  דדוק' אם קידש האשה שהיא תחזיר לא הוי קידושין דדמי' לחליפין משא\"כ בזה שבקידושין לא הזכיר ל' חזרה אע\"פ שצריכה אח\"כ להחזיר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:39"
+        },
+        "40": {
+          "he": "הרי זה מקודשת  בטור סיים רק שיחזיר המתנה למי שנותנו לו או דמיו עכ\"ל פי' שיחזיר ויקנהו מאשתו או יתן הדמים למשאיל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:40"
+        },
+        "41": {
+          "he": "באיסורי הנאה דעת הרא\"ש שאם יש צד דאוריי' או בחמץ או בזמן אינה מקודשת אבל באין צד דאוריי' מקודשת והרמב\"ם ס\"ל אפי' באין צד דאוריי' אינה מקודשת וספק הש\"ע דהוי ספק בצדדי שניהם דרבנן ובטור כ' בם הרא\"ש כגון חמץ בשעה ששית צ\"ל חמץ דרבנן בשעה ששית כנלע\"ד ומתורץ תמיה' ב\"י שכ' דברי רבינו סתומים מי שמצא מציאה והיא תוך ד' אמות ובא אחר והגביה אותה דקיי\"ל דד' אמות של אדם קנוי לו היא תקנת' דרבנן כדאית' פ\"ק דב\"מ דף י' ואם הלך זה שקנה בד' אמות המציאה וקידש בה אשה היה לנו לו' דאינה מקודש' כיון דמן התורה אותה המציאה היא של המגביה דיאן ד\"א קונות מן התורה וא\"כ ה\"ל גזל בידו אלא מדרבנן הוי של בעל ד\"א ולמה תהיה מקודשת לבעל ד\"א וכ\"ת ה\"נ דאינה מקודשת לו ז\"א דלא מצינו בשום מקום דזה לא יהיה קידושין אלא אדרב' אמרו בסתם שד\"א קונין לו ממיל' הוה ממש כשאר ממונו לכל מילי אע\"כ לו' דרבנן יש להם כח לעשו' ממין שאינו שלו ע\"פ דין תורה כשלו מטעם דין הפקר ביד והפקיעו ממון של זה המגביה מציאה וכן לענין גט דתיקנו רבנן דד\"א קונין לאשה משום עיגונ' כמ\"ש התו' בב\"מ דף י' נמצא דהוי גירושין אפילו נגד תורה וא\"כ ק' ה\"נ לענין איסור הנאה דרבנן יהיה כח ביד חכמים להפקיע ההנאה מזה ויהיה כמו איסור הנאה דאוריי' ותו דהרא\"ש בתשו' תחלת כלל ל\"ה כ' שאם ב\"ד התקינו שכל קידושין שיהיה בלא אבביה ואמה שלא יהיה חלין כו' דאם עבר ע\"ז א' דלא (הוי) קידושין דהפקיעו רבנן את המעות ממנו ואע\"פ שרמ\"א הביא בסמוך דלא הוי אלא חשש קידושין מ\"מ היינו לחומר' אבל לא לקול' וא\"כ ה\"נ בהאי איסור הנאה דרבנן וכן בקידושין במתנה ע\"מ להחזיר ר\"ס שאח\"ז דאפקיעו רבנן ועשו מעות הפקר ולא הוי קידושין ובתשובת הרשב\"א סי' אלף קס\"ו משמע באמת מהא דחמץ דבאיסור דרהנן אמרי' שמטעם הפקר אין קידושין כלל בכל איסור דבנן וצ\"ע למעשה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 28:41"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "בגזל.  עבה\"ט (בגליון ש\"ע דהגאון רע\"ק איגר זצ\"ל נתן משבע לקטן לשחוק בו ונטל הנער מיד התינוק וקידש בו אשה י\"ל כיון דנתנו לקטן ולא שמרו הוי כאבידה מדעת וזכה מההפקר וחיישי' לקדושין ב\"ח בתשובה סי' כ\"ז ועיין בספר קצות החושן סי' רס\"א עכ\"ל. ור\"ל דשם חולק על הב\"ח בזה דהא דאבידה מדעת הוה הפקר להטור היינו במניח במקום שאינו משתמר אבל בנדון הב\"ח דנתן לתינוק לכ\"ע לאו הפקר הוא וא\"כ אין חוששין לקדושין ואין לחלק בין נתן לשחוק או נתן לו סתם וזה ברור ע\"ש) . ומ\"ש בשם סמ\"ע מכר מטלטלין כו' ע' בס' נתיבות המשפט שם שכתב דאחר שקיבל מי שפרע ודאי דאינה מקודשת ע\"ש ולע\"ד צ\"ע עי' לקמן סעיף כ\"ב ובב\"ש שם ס\"ק נ\"ט. ועיין במל\"מ פ\"ה מה\"א ריש דין ז' שהוא ז\"ל נסתפק באם קידש המוכר בחפץ זה ונראה בעיניו דהוי ס\"ק וראוי לחוש לקדושי שני כיון דמן התורה קדשה הראשון בגזל ע\"ש עוד. ועיין בס' יד המלך שם שהוא ז\"ל נסתפק באם קידש בו הלוקח אשה בחפץ זה שקנה בכסף לחוד קודם משיחה והמוכר אינו חוזר מהקנין אם היא מקודשת או לא אי אמרינן דאף דאין המוכר חוזר מ\"מ בשעת הקידושין היה בידו לחזור ועדיין אינו שלו או כיון דאף אחר תקנת חכמים עכ\"פ המעות קונה לענין מי שפרע ואם אין המוכר חוזר אמרינן דאיגלאי מלתא דלא הי' בדעתו לחזור ולעבור על מי שפרע ונגמר הקנין למפרע ובשלו קידשה והוי כקידשה בפקדון שיש לו ביד אחרים ומקודשת (ע' רש\"י ב\"מ דף מ\"ח ע\"א בד\"ה קאי באבל) ושם האריך לפלפל בדברי המל\"מ הנ\"ל ע\"ש עוד בפ\"ג מהל' מכירה מענין זה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:1"
+        },
+        "2": {
+          "he": "או בגניבה.  עב\"ש סק\"א ובה\"ט סק\"ב ועיין בתשו' נו\"ב תנינא סי' ע\"ז ע\"ד השאלה שאיש א' גזלן חטף מחנות השותפין דבר דרך גזילה והלך וקידש בו אשה שגם לה יש חלק בו שהיא שותפת בחנות ועתה האשה רוצה להנשא לאחר הואיל ולא נתקדשה בדבר שהוא של המקדש והאריך מתחילה בדין הגזל אם יש חילוק בין ישראל לא\"י לענין יאוש והביא דברי הש\"ך בח\"מ סימן שס\"ח שהכריע שאין חילוק ופלפל בדבריו ומסיים באופן שהלכה זו רופפת בידו איך נוטה דעת הרמב\"ם והרא\"ש בגזלן ישראל אלא שזה אני אומר בטח דאף אי נימא דהרמב\"ם סבר לחלק בין ישראל לא\"י היינו בגזל שלא בעדים אבל בגזל בעדים ודאי דאפילו בישראל סתמא לא מייאש כדמוכח בקדושין דף נ\"ב דברי הב\"ח שרצה לומר דהיינו מדאוריי' אבל מדרבנן בישראל סתם גזילה יאוש בעלים אינם מקבלים על הדעת כמ\"ש הש\"ך שם כו' ועוד נראה דבזמנינו שהאומות הם אוהבי משפט ומזדקקים גם בין ישראל לחבירו להציל עשוק כשקיבל לפניהם אלא שישראל אינו רשאי מתחילה לתבוע לישראל כ\"א בפני דייני ישראל וא\"כ בשלמא בגזלן בלא עדים איכא למימר דמייאש אבל בעדים לכל הפרושים (במה שאמרו בגמ' ב\"ק קי\"ד דייני ישראל אמרי מימר ערש\"י שם) אינו מייאש דאם הפירוש מימר היינו דאמרי הבא עדים הרי יש לו עדים ואם הפירוש מימר שאינם חובטין במקלות הרי אם לא ישמע לקול דייני ישראל להחזיר הגזילה יכול לקבל בפני שופטי הערכאות. ועוד האריך שם לצדד דבנדון בזה שהגזילה הוא דבר הנמכר בחנות אין צורך לפלפל אם סתמא הוי יאוש דיכולין לשאול לבעל החנות ואם יאמר שלא נתיאש נאמן ולא מחשב נוגע בדבר מטעם שביאר שם בארוכה ואף שהוא עד א' מ\"מ במקום דלא איתחזק איסור' נאמן עד א' להתיר וכאן על תחילת הקידושין אנו דנין כו' (עמ\"ש לקמן סי' מ\"ב סק\"ג) . ועוד כתב שם עמ\"ש הב\"ש סק\"ג דאם קידשה סתם לא שייך לומר דמקדשה בהנאת שימוש הכלי דיכולה לומר אין רצוני להתקדש כ\"א בכל החפץ. דנראה דזה לא שייך לדידן שהמנהג פשוט לעשות כמבואר בסי' ל\"א ס\"ב בהגה לכסות פני הכלה וגם שואלין לעדים אם הוא שוה פרוטה ואז מתרצית מתחילה על ש\"פ וא\"כ אם הנאת השימוש ש\"פ אינה יכולה לומר שלא היה דעתה רק על כל הכלי דמה איכפת לה אם כל הכלי לא היה אלא פרוטה או עתה שהשימו שהוא ש\"פ ועדיין יש מקום לדון בזה. אך בנ\"ד בודאי לא שייך הנאת שימוש שהרי קידשה בסחורה הנמכרת בחנות והרי מבואר בב\"ש שם דבכלים דשכיחי לא שייך טובת הנאה ואינה מקודשת:  ושוב כתב דמ\"ש הרבנים השואלים דבנ\"ד מצד שהוא גזל דידה שהרי היא שותפות בחנות מצד זה לבד (אף אם לא היה חשש גזל מצד חלק השותף כגון שידענו שנתיאש וא\"כ יש כאן יאוש וש\"ר אין כאן קדושין אף אי נימא דבנ\"ד מקרי שידך (ע' סעי' ב') מ\"מ עיקר הטעם דשידך מהני הוא דאמרינן מדקבלתי' אחלתי' והכא שלא ידעה כלל שהוא גזל מעתה וסבורה היתה דידיה הוא לא שייך לומר דאחילתי' הנה אף שיפה דברו בזה אכתי לא הועילו דעדיין הייתי חושש בזה דהיכא ששידך מקרי דבר זה לגבי דידה כמו דבר שאין בעה\"ב מקפיד עליו כו' (ע' לקמן סעיף י\"ז ומ\"ש שם בס\"ק כ\"ו) וא\"כ הוי כאן חשש קדושין אפילו לא ידעה כלל שהוא שלה. והייתי צריך למצוא היתר מצד מ\"ש בנו\"ב סי' נ\"ט שאף הרמב\"ם לא אמר אלא דבר שאינו מקפיד נגד שום אדם. אמנם לדידי בלא\"ה יש כאן היתר דנראה דאף דבגזל איכא מ\"ד דיאוש לחוד קני מדרבנן משום תקנת השבים אבל בדבר שאינו מקפיד כו' (יובא לקמן סי\"ז שם ע\"ש) ולפ\"ז בדבר שאינו מקפיד בעינן שינוי רשות בודאי ולא מהני יאוש לחוד אפילו מדרבנן א\"כ לא שייך כאן חשש קדושין כלל מצד שהוא גזל דידה. ושוב כתב דאכתי אם ידענו שנתייאש השותף אחר והיא לא ידעה כלל ואם היה מקדשה רק בחלק השותף היתה מקודשת מצד יאוש וש\"ר אה לא היינו חוששין לדברי הב\"ש (בסק\"ג) שיכולה לומר אין רצוני להתקדש בגזל (נראה דלא הוצרך לומר אם לא היינו חוששין כו' אלא לענין שיהא קדושי ודאי אבל לחוש לקדושין הרי גם הב\"ש שם אמר דאם אמרה לא ניחא לי הוי ספק קדושין ועמש\"ל ס\"ק ד'. וגם נראה דאף שגם הב\"ש לא אמר אלא דאם אמרה כו' ולא בסתם מ\"מ בנדון השאלה משמע שהאשה אמרה. ועוד אפשר שגם הב\"ש לאו דוקא נקט דאם אמרה וה\"ה בסתם וכמו שאכתוב בס\"ק הנ\"ל) ואף עכשיו שקידשה בכל החפץ ושלה לא קנה מ\"מ אם קידשה כנהוג לדידן שמנסים פני הכלה וא\"כ היא נתרצית להתקדש בפרוטה שפיר מתקדשת בחלק השותף שש\"פ ולא מציא לומר לא היה דעתי להתקדש כ\"א בכל החפץ שהרי נתרצה לפרוטה. אך אם קידשה בגלוי עינים וראתה מה שנותן לה פשיטא שאינה מקודשת שלא היה דעתה כ\"א על כל החפץ ושוב כתב דכל זה ביש עדים שחפץ זה גזול הוא כגון שלא זזו ידיהם ממנו משעה שגזלו עד שקידשה בו דאל\"כ אף שראו חפץ כזה חטף מחבירו אכתי דלמא זה שקידש בו חפץ אחר הוא ואף אם מכירים בט\"ע או בסי\"מ שזה עצמו הוא החפץ שגזל אכתי אם זזו ידם ממנו יש לחוש דלמא אחר שגזלו הלך להנגזל וקנאו ממנו. ואף אם לא זזה ידם מהנגזל מכל מקום כיון שהעלימו עין מגזלן והגזילה היא סחורה העומדת למכור איכא למיחש כיון דזכות הוא לבעל החנות למכור סחורתו שמא הגזלן אחר שגזל שב בתשובה וזיכה המעות המגיע עבור זה להנגזל ע\"י אחר כמבואר בח\"מ סימן שנ\"ט ס\"ב ואפשר כיון שהנגזל בעיר ל\"ח שזיכה ע\"י אחר כו' ועוד דאם זזו העדים ידם מהגזלן והנגזל הרי יכול לטעון פרעתיך לרוב הפוסקים דסבירא ליה הגוזל בעדים א\"צ לפרוע בעדים עש\"ך ס\"ס שס\"א ואם כן יש גם כן לומר בזה דיש יאוש בעלים דאף שכתבתי לעיל דאפילו בגזלן ישראל אם יש עדים לית דחש לומר סתמא הוי יאוש היינו בלא זזו העדים ידם וא\"י לומר החזרתי אבל אם העלימו עיניהם כיון שיכול לטעון פרעתי מתייאש הנגזל כי הוא חושב שיטעון החזרתי וממילא יש כאן שני חששות לחומרא חדא משום יאוש וחדא שמא באמת החזיר. ואולי יש לדמות זה להא דס\"ס מ\"ב בהגה במקדש בפני עדים רשעים אי חיישי' דלמא חזרו בתשובה ולהמקילין שם גם כאן לא חיישינן שמא פרע ומשום חשש כיון שהאשה על חלקה ודאי לא נתיאשה אם כן אם ראתה החפץ בשעת קידושין ליכא חשש כלל דאז אמרי' שלא נתרצתה כ\"א בכל החפץ. וסיומא דפסקא אם העלימו עדים עין וגם אין מכירין החפץ בט\"ע ממש אז ודאי חיישי' שמא הוא חפץ אחר שאינו גזול ואם לא העלימו עין כלל מן הגזלן משעה שגזל עד שעה שקידש אין כאן חשש קדושין ואם העלימו עין אבל מכירין החפץ בט\"ע צריך להתישב בדבר אם יש לדמות לההיא דס\"ס מ\"ב כו' ומחמת שלא נשלח לי הגב\"ע ונעלם ממני כמה עקרים בזה ובפרט אם היה עיני הכלה בכיסוי כנהוג או לא כי זה עיקר גדול לענין שתוכל לטעון שלא נתרצה כ\"א בכל החפץ ע\"כ לא אכריע בדבר כו' עכ\"ד ע\"ש. וע' בסוף שו\"ת ב\"ח החדשות בק\"א דשם נדפס (תשובת הרבנים השואלים הנ\"ל בשלימות וגם מה שהשיב הגאון נו\"ב להם אות באות וגם מה שחזרו וכתבו על ענין הנ\"ל):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:2"
+        },
+        "3": {
+          "he": "ונודע שקנה אותו דבר ביאוש עח\"מ סק\"א שכ' כלומר שיש עדים שנתיאשו הבעלים כו' אבל אם בשעת קדושין עדיין לא נודע אם נתיאשו אף שאח\"כ נודע שכבר היה יאוש קודם הקידושין הוי כיאוש שלא מדעת עכ\"ל וע' בת' נו\"ב תניינא סו' ע\"ז דהרבנים השואלים תמהו על הח\"מ בזה דמה ענין יאוש שלא מדעת לכאן דהתם מיירי אם באמת לא נתייאשו הבעלים עד אחר שמצאו זה ובאיסורא אתי לידי' אבל אם באמת היה יאוש קודם שמצאו זה אלא שהמוצאו לא ידע מזה בשעה שמצאו הדבר פשוט דמהני יאוש וה\"ה הכא כיון שהיה יאוש לא איכפת לן אם לא ידעו מזה כו' והוא ז\"ל השיב לתרץ ולבאר כוונת הח\"מ בזה. וכ' עוד שאלמלא דברי הח\"מ נראה לו כוונה אחרת בלשון הרמב\"ם וש\"ע במ\"ש ונודע כו' והוא דהנה מלתא דפשיטא להו לרבנים השואלים הנ\"ל שאם כבר נתיאש הנגזל אף דלא נודע דבר זה עד אחר הקידושין חלו הקידושין קמבעיא לי טובא אולי פשיטא לי לאידך גיסא דלא חלו הקידושין כלל עפמ\"ש הב\"ש בסי' ל' סק\"ט בשם הג\"א דספק קרוב לה היינו ב' כתי עדים החולקים אם היה קרוב לה או לו אבל בכת אחת המסופקים למי היה קרוב אין כאן חשש קידושין דהוי כמקדש בלא עדים ובאמת לא מצאתי זה בהג\"א רק במרדכי והן הן הדברים שהביא הח\"מ שם סק\"ה בשם המרדכי בשם מהר\"ם וכבר הארכתי בחבורי נו\"ב סי' נ\"ח בכוונת דברי מהר\"ם הללו והכלל היוצא מדברי שם שאם בשעת קדושין היה נדמה להעדים שהיה קרוב לו אפילו אם באמת היה קרוב לה לכ\"ע הוי מקדש בלא עדים ולא חלו כלל ואם בשעת מעשה היה ספק להעדים להרשב\"א לא מחשב כמקדש בלי עדים ובדעת מהר\"ם הדבר נוטה לכאן ולכאן אבל עכ\"פ יצא לנו שאם לפי דעת העדים בשעת קדושין לא אהני הקדושין אפילו אם נודע אח\"כ שלא כן הוא כאשר חשבי העדים אין כאן קידושין דהוי מקדש בלא עדים ומעתה המקדש בגזל ועידי הקדושין ידעו שדבר זה גזול בידו ואם סתם גזילה לא הוי יאוש א\"כ מסתמא אמרי' שלא נתיאשו הבעלים ואמרי' אוקי חפץ זה בחזקת מרא קמא ואשה בחזקת פנויה ומסתמא לא נתיאש ואפי' אם נודע לנו אח\"כ שכבר נתייאש הנגזל בפירוש מקודם הקידושין מ\"מ כיון שלא נודע הדבר להעדים בשעת הקדושין והיה פשוט להעדים שלא נתיאשו הבעלים א\"כ הוי כמקד' בלא עדים ולכן התנה הרמב\"ם וכתב אם נתיאשו הבעלים ונודע שקנה אותו כו' דהיינו שנודע זה לעידי הקדושין בשעת מעשה הקידושין אבל אם לא נודע אז אף שנודע אח\"כ למפרע ל\"מ מידי וזהו ברור ועולה לנו מזה דאפילו המקדש בדבר שהוא שלו ממש אם עידי הקדושין היו סוברים שהוא גזול הוי כמקדש בלא עדים ואין הקדושין חלים ולא מצאתי לי חבר בדבר זה בדברי הפוסקים. אמנם אם עידי הקדושין לא ידעו כלל שחפץ זה גזול הוא בידו רק שעדים אחרים ידעו שזה גזול וא\"כ עידי הקדושין לא עסקי אדעתייהו כלל שום ספק בקדושין הללו אם כבר נתיאש הנגזל קודם הקידושין אף שלא נודע לנו היאוש עד אחר הקדושין באמת מהני כיון שלמפרע היה היאוש עכ\"ד (וע' בס' קה\"י מ\"ש בזה): וע\"ש עוד דהרבנים השואלים המציאו סברא חדשה ורצו לחלק בין יאוש ליאוש. דיאוש סתמא לאו מתורת הפקר הוא דאין הפקר בלב מהני אבל באומר בפירוש שהוא מתיאש הוי הפקר גמור ומהני אפילו אתי לידיה באיסור ולא בעינן ש\"ר וקונה הגנב או הגזלן בעצמו. פירושו בזה מ\"ש הרמב\"ם והש\"ע ונודע כו' דהיינו ששמעו היאוש בפירוש וא\"כ קנה הגנב עצמו הגניבה. ועוד תירצו בזה כמה קושיות. והוא ז\"ל השיב להם כי עיקר הבנין לחלק בין יאוש ליאוש הוא קו תוהו וזה נסתר מדברי הגמרא ב\"ק ס\"ח ודלמא דשמעי' דאייאש כו' ועוד דלדידן דקי\"ל כר' יוחנן שם דשניהם א\"י להקדיש כו' וכשם שאינו יכול להקדיש כך א\"י להפקיר מעתה אפילו הפקיר בפירוש בלשון הפקר ל\"מ וק\"ו ביאוש אף שיאשו בפירוש דל\"מ שיזכה בו הגזלן או הגנב עצמו ע\"ש באורך. וע' בק\"א שבתשובת ב\"ח הנ\"ל מה שחזרו וכתבו הרבנים הנ\"ל על זה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:3"
+        },
+        "4": {
+          "he": "ה\"ז מקודשת.  עב\"ש סק\"ג שהקשה ממ\"נ אם גילה כו' ואם לא גילה לה דגנוב יכולה לו' אין רצוני להתקדש בגניבה כמ\"ש בקדושין דף נ\"ג כו' ודבריו תמוהים כמו שהקשה בס' המקנה דבש\"ס לא אמרו זה רק לר\"מ דס\"ל בהקדש בשוגג אינה מקודשת אבל אנן הא פסקינן כר\"י דס\"ל בשוגג דמקודשת ע\"ש וכן הקשו הרבנים השואלים בת' נו\"ב תניינא שם וגם נתקשו בסוף דברי הב\"ש שכתב דאם אמרה לא ניחא לי להתקדש בגזל הוי ספק קדושין. למה הוי ספק קדושין. והוא ז\"ל כתב לתרץ דברי הב\"ש בטו\"ט. ותורף דבריו דבהא לא נחלק אדם מעולם דהיכא דאיכא צד דלא ניחא לה דאינה מקודשת והא ודאי דלא ניחא לאדם מן הסתם דלתעביד איסורא על ידו רק דל\"ש לומר לא ניחא כו' אלא אם בביטול הקדושין יתבטל האיסור אבל אם גם בביטול הקדושין ישאר האיסור שוב לא ניחא לה בביטול הקדושין ולכן סובר ר' יהודא בקדושין שם דמקודשת משום דאיהו ס\"ל שזהו גזה\"כ דנשאר ההקדש חולין ול\"ש לומר דלא ניחא לה דלתעביד איסורא שהרי אף אם יתבטלו הקידושין כבר נפיק לחולין ולכן אינם מתבטלין משא\"כ הכא בגזל שע\"י קיום הקדושין יש שינוי רשות ונגמר הגזל ואם יתבטלו הקדושין ליכא ש\"ר כלל ולא נגמר הגזל ודאי דאמרי' דלא ניחא לה להתקדש בגזל (וע\"ש ד\"ה ואם קידשה) ובזה א\"ש נמי מה דמסיים הב\"ש דהוו ספק קדושין והיינו משום דלא שייך לומר שע\"י קיום הקדושין נגמר הגזל אלא אם יאוש כדי לא קנה אבל אם יאוש כדי קנה א\"כ כבר נגמר הקנין קודם הקדושין ואז לא שייך לומר לא ניחא לי דמה איכפת לה בזה וא\"כ הרי בזה יש ספק דאולי יאוש כדי נמי קנה מדרבנן וכמ\"ש בהגה והוא מדברי הרא\"ש כו' ולכן שפיר הוי ס\"ק. ובזה הונח לנו מה שנתקשו האחרוני' (עח\"מ סק\"ד וב\"ש סק\"ו) בדברי הרא\"ש הנ\"ל דהרי אף אם יאוש לחוד לא קנה הרי יש כאן יאוש וש\"ר ביד האשה להנ\"ל א\"ש דמיירי שהאש' אינ' יודעת שהוא גזול ולא ניחא לה דלתעביד איסור על ידה ואם הי' הדין ברור דיאוש לחוד לא קנה הו' מחשב שינוי רשו' אבל כיון דחיישי' לדברי רבה דיאוש קנה מדרבנן להך מקודשת. ובזה נלע\"ד דהוי ספק קידושי תורה שאם היאוש קנה אפי' הקנין הזה הוא רק מדרבנן מ\"מ שוב לא שייך בדידה שמסייעת ידי עוברי עבירה ושוב לא שייך לומר לא ניחא לה דלתעביד איסור על ידה שכיון שקנה הגזלן דבר זה מדרבנן שוב מותר לכל אדם אף לכתחלה לקנותו ממנו ושוב ממילא נעשה ע\"י הקידושין שינוי רשות וקני מדאוריית' נמצא שע\"י ספק זה שמא יאוש קונה מדרבנן נעשה כאן ספק תורה דלא כדברי הב\"ש בכל ס\"ק ההוא. אף אם נימא דיאוש כדי לא קנה אפילו מדרבנן רק מפני תקנת השבים מ\"מ נראה דאעפ\"כ קנה אפילו הגזילה קיימת דשוב לא חלקו חכמים בדבר ותדע דהרי במרובה דף ס\"ו כו' עכ\"ד ע\"ש: ומ\"ש עוד שם וז\"ל גם מה שתמהתם עמ\"ש הב\"ש דאי אמרה לא ניחא לי להתקדש בגזל כו' דלפי מה דמדמה לה הב\"ש להא דהקדש שם ובקדושין דף נ\"ג א\"כ אפי' אמרה האשה דניח' לה לא מהני דשמו חכמים דעתה של האשה דלא ניחא לה בקדושין כאלו אני תמה עליכם ולמה לא פקחתם עיין בסוגי' דמפורש ברש\"י דאי אמרה דניחא לה מהני כו' עכ\"ל לענ\"ד אכתי קשה במאי דנקט הב\"ש דאי אמרה כו' משמע אבל מסתמא שפיר הוי קדושין ולפי מה דמדמה לה הב\"ה להא דהקדש א\"כ אפילו לא אמרה האשה דלא ניחא לה לא מהני וזה הוא תמיה' מתקיימת על הב\"ש. אם לא שנאמר דגם הב\"ש לאו דוק' נקט דאי אמרה כו' וכל שלא אמרה בפי' דניחא לה הוי כאומרה דלא ניח' לה וכדמשמע נמי קצת מריש דבריו במה שהקשה ואי לא גילה לה דגניב יכולה לומר. אך באמת אפשר לומר דהב\"ש דוק' נקט דאי אמרה כו' וגם בריש דבריו הקושי' הוא רק על מה דסתמו הרמב\"ם והש\"ע ה\"ז מקודשת דהא לפעמים משכחת דא\"מ כגון דאמרה כו' ובזה יהיה מסולק גם כן התמיה' הראשונה על הב\"ש הנ\"ל דיהיה קושי' אחת מתורצת בחברתה דלהכי נקט הב\"ש דאי אמרה משום דבסתמ' קיי\"ל כר\"י דבשוגג קידש ולא חיישי' דלא ניח' לה רק באמרה בפירוש אין רצוני כו' שפיר מבי' ראיה מקדושין שם דמצינו סבר' זו לר' מאיר אפילו בסתמ' ור' יהודא לא אשכחן דפליג אלא בסתמ' אבל לא באמרה ויש לעיין):  ועיין בס' קהלת יעקב שרצה ליישב ג\"כ התמיה' על הב\"ש הנ\"ל קצת כעין דברי הנו\"ב הנ\"ל ואח\"כ כתב וז\"ל אך מ\"מ קשה דלא אישתמיט שום פוסק לחלק בש\"ר לידע או לא ידע וכ\"ה בס' המקנה. לכן העיקר דאם קידשה אחר יאוש דהוי יאוש וש\"ר מקודשת בגנב שאינו מפורסם ולא מצי אמרה אין רצונו להתקדש בדבר הגנוב אבל בגנב מפורסם כיון שצריכה להחזיר הדמים דמי שויו שהיה שוה בשעת הגזילה ואף שבשעת קדושין שוה יותר מ\"מ הא דעתה היה להתקדש בכולה לכך אינה מקודשת (עמש\"ל סק\"ב בשם נו\"ב דלדידן שהמנהג כו' ומ\"ש בס' המקנה כיון שאם אכלה פטורה מלשלם מקודשת בהנאה זו דהא מ\"מ לכתחלה ודאי דאסורה לאכול אין כאן הנאה. ואם קידשה קודם יאוש דהוי ש\"ר ואח\"כ יאוש ל\"מ בדידעה שהוא גנוב דלא מהני כלל יאוש כיון כשבא לידה צריכה לשומרו להשיב לבעליו כו' אלא אפילו לא ידעה שהוא גנוב מ\"מ אינה מקודשת כיון שצריכה להחזיר הדמים וכנ\"ל ומ\"ש עוד הב\"ש דבאחריות לא הוי ש\"ר כמ\"ש בח\"ה ר\"ס שס\"א. כבר השיג ע\"ז הש\"ך בח\"מ סימן ל\"ז. ומ\"ש המקנה כאן דדוקא כשקיבל אחריות שיתן לו אף שיהיה שוה יותר. קשה דבכל אחריות צריך להחזיר שבחא ופירי עכ\"ל. כמ\"ש בח\"ה סימן שנ\"ו א\"כ במה תתקדש ותירץ משום דמדאורייתא קנתה והנגזל צריך להחזיר דמי החפץ כו' וע' בס' קה\"י שם דלא ניחא ליה בישוב זה וכתב הוא ז\"ל טעם אחר דלהכי מקודשת אפי' בזה\"ז כשיש יאוש וש\"ר דהמנהג אינו רק אם בא הנגזל ותבעו ונתברר שהוא שלו המנהג להחזיר אבל מסתמא מחזקי' כשאין רואין הבעלים מרדפין בודאי נתייאשו דישראל דייני במי יימר ובודאי אין לו בירור ומותר להשתמש בו כו' ומחמת חזקה זו מקודשת גמורה ודמי חזקה זו להא דסוקלין על החזקות ואפילו אם יבא הנגזל אח\"כ ויברר ויוציא החפץ מת\"י נראה דמקודשת כיון שהיה לה רשות להשתמש בו לאוכלו ולמכרו ולהבריחו אף לכתחלה ועל דמי החפץ כשאינו בעין אין הנגזל יכול לחזור רק על הגזלן ולא על הלוקח דהמנהג אינו רק כשנמצא בעין ת\"י הלוקח שיחזיר הגניבה והנגזל יתן לו הדמים שנתן משום תק\"ה אבל שיתן לו הלוקח דמי שוין של החפץ שהן יותר ממה שנתן בזה לא שמענו מנהגא דהא יכול לחזור על הגזלן בשלמא בגוף החפץ בשכבר הוא ת\"י הלוקח א\"א לחזור רק על הלוקח משא\"כ בדמי החפץ ובהאי הנאה שמותרת להשתמש בה לאוכלה ולמוכרה לכתחלה מקודשת כ\"נ ברור עכ\"ד ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:4"
+        },
+        "5": {
+          "he": "גניבת.  עח\"מ וב\"ש וע' בס' קהלת יעקב מ\"ש בזה ודבריו צע\"ק ועמש\"ל סעיף י\"ז ס\"ק כ\"ו בשם נו\"ב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:5"
+        },
+        "6": {
+          "he": "כותי.  ע' בס' פמ\"ג א\"ח סי' קנ\"ו שחקר בדין אותם האמורי' בי\"ד סי' קנ\"ח ובח\"מ ס' תכ\"ה אם גזל מהם וקידש אשה אם היא מקודשת ע\"ש וכבר הוא זה בס' עקרי דינים לא\"ח סי' ל\"ג אות ל':",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:6"
+        },
+        "7": {
+          "he": "אחר יאוש לבד.  עח\"מ וב\"ש שדחקו בזה וכבר כתבתי לעיל סק\"ד בשם הנו\"ב ז\"ל מ\"ש בפירוש דברי הרמ\"א בזה ובס' קה\"י כתב נראה דיש לפרש בפשיטות כגון שקידשה בחפץ הגזלן בהנאת שימוש לזמן והחפץ ישאר שלו וכיון דלא נשתנה הרשות של גוף הגזילה ואכתי ברשות הגזלן קיימא ממילא אי יאוש כדי לא קנה לא נתן לה כלום דהא נתן לה דבר שאינו שלו כו' אבל אי יאוש כדי קנה ממילא הכל שלו ושפיר מקודשת בהנאת שימוש וכיון דיאוש קונה מדרבנן לכך מקודשת מדרבנן ומ\"ש הב\"ש דהוי ספק קידושין קשה לי כיון דיאוש לבד הוא ספק והדין בספק ממון דמוקמינן בחזקת מרא קמא והוא של הנגזל דתפיסה אחר שנולד הספק לא מהני א\"כ במה תתקדש הא בבבא מציעא בסוגיא דתקפו כהן מוציאין חשוב כאלו הוא ודאי דבעל אפילו לענין מעשר דאיסורא הוא משוינן אותו לו דאי ולא לספק וה\"נ דכוותיה ממש הוא עכ\"ל ע\"ש. וע' בס' גט פשוט לקמן סי' ק\"כ סק\"ז שהאריך בדינים אלו:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:7"
+        },
+        "8": {
+          "he": "לבד.  עבה\"ט וע' בזה בס' שה\"מ פ\"ה מה\"א ובהגהת טעם המלך שם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:8"
+        },
+        "9": {
+          "he": "ושתקה אינה מקודשת עבה\"ט (מ\"ש דבש\"ס משמע אפי' במעות י\"ל דידי שקלתי כו' וע' בס' טיב קדושין שכתב דיש להסתפק דאפשר דה\"ה בנתן לה סלע אחר דאף דסלע זה אינו גזול מ\"מ יכולה לומר דידי שקלי ולא דמי לגזל ממנה חפץ ונתן לה סלע דאינו מעין הגזילה משא\"כ סלע דעביד דליחלף כו' ע\"ש) ומ\"ש ומיהו גזל מעות ועשאן כספים כו' ע' בס' קה\"י שכ' דנראה דבזה\"ז אם קדשה בגזל דידה אפי' לאחר יאוש ושינוי מעשה גמור אינה מקודשת דהא קיי\"ל בח\"מ סימן שנ\"ו דמחזירין בזה\"ז כל גניבה אפילו אחר יאוש וש\"ר ונראה דה\"ה בשאר קנינים מחזירין דהא סמכו זה אדינא דמלכותא ובדד\"מ אפילו גנב טלה ונעשה איל מחזירין ועוד דלשון רמ\"א שכתב דמחזירין כל גניבה משמע דלעולם מחזירין וכיון דבדין מחזירין גוף הגניבה ודאי די\"ל דידי שקלתי ובזה לא שייך סברת הב\"ש סק\"ג כיון דמדאורייתא קנתה מקודשת דהכא לאו בדינא דאורייתא תליא רק בכוונתה תליא דכל שבדין תפסה והב\"ד יפסקו לה שהוא שלה יכולה לומר דידיה שקלי ועביד אינש דינא לנפשיה וגם תירוצא דידי שתרצתי לעיל (הובא בסק\"ד) לא שייך הכא במסר שלה בידה עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:9"
+        },
+        "10": {
+          "he": "דהיינו שנתרצית.  עי' בס' טיב קדושין שנסתפק דאפשר דהיינו דוקא בנתרצית סתמא ולא קפדה במה תתקדש אבל אם מתחלה קפדה להתקדש דוקא בסלע וחטף סלע משלה וקידשה בו י\"ל שאינה מרוצה להתקדש בכה\"ג כו' ע\"ש וע' בתשובת מהרי\"ט ח\"א סימן קל\"ח שנסתפק בשידוכין הללו הנהוגים שקורין קנינים אי מקרי שידוך לענין זה דשמא בעינן נתרצת להתקדש לו עכשיו. ודעתו נוטה להחמיר ע\"ש וע' עוד בת\"ב סימן כ\"ח והובא קצת בבה\"ט סקי\"א (וע' בתשובת חתם סופר סימן ק\"א שיצא לו מדברי מהרי\"ל בתשובה סי' ק\"א דמסתמא חיישי' שמא שידך אלא דאם הוא כבר משודך עם אחרת או היא משודכת עם אחר לא חיישי' ואף די\"ל דגם בכה\"ג איכא למיחש ודוקא בגוונא דמהרי\"ל שם שכבר הגיע זמן אפריינו עם משודכת שלו והכין עצמו לחופה ומשמע שכבר היה טבחו טבוח במקום חתונה בהא לא חיישי' לשדוך עם זו משא\"כ בשידוכין לחוד וכדס\"ל לרבא בקדושין מ\"ה ע\"ב דדוקא טרח בסעודה לא חיישי' דילמא הדר כו' מ\"מ נ\"ל דשידוכין שבזמנינו שהמה בח' וקנס גם רבא מודה דאמר' שארית ישראל לא יעשו עולה ועוד דבש\"ס שם וכן בעובדא דמהרי\"ל היתה היא עומדת לקיים הקדושין משא\"כ היכא שאין מחזיקין בקדושין כו' ע\"ש ולענ\"ד בעיקר דבריו למיחש בסתמא שמא שדיך מסתימת כה\"פ לא משמע כן ואף במהרי\"ל שם אין הכרח די\"ל דמ\"ש מהרי\"ל שם דבנדון ההוא לא הוי שדיך אדרבה הוא משוך לבת גילו כו' לרווחא דמלתא כתב כן יצ\"ע):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:10"
+        },
+        "11": {
+          "he": "וצריך לשלם לה.  כי בס' קה\"י וז\"ל הרשב\"א ושאר קדמונים חולקין וס\"ל דכיון שאמרה הן או שדיך דנתרצה לקדושין ודאי מחלה לו לגמרי שיהיו חלין הקדושין עכ\"ל וע' במל\"מ פ\"ה מה\"א דין י'. וע' בקו\"א שבתשובת ב\"ח הנ\"ל בד\"ה הרא\"ש השלישי מזה: (וע' בטיב קדושין שכ' דגם לדעת הר\"ן והרמ\"א לשלם גזלותי' אם אינו רוצה לשלם אח\"כ לא בעלי קדושין משום הכי שהיא נתרצית בחוב ואף אם לא תוכל להוציא ממנו מ\"מ קדושי מעליא הויין כו' וע\"ש עוד מ\"ש ליישב קושיית ס' המקנה וכתב בסוף ולפ\"ז נראה בקידשה בגזל דידה ישדיך אף אם אמר בפירוש התקדשי לי בחזרת גזילה זו שלא תתבע ממני דמים נמי מיקדשא כיון דנתרצתה אמרי' דאחילתי' לגמרי כיון דלא סגי לקדושין בלא\"ה דעתה שיהיו קרובין באופן המועיל כי' ע\"ש):   (יא) אע\"פ שאמרה הן.  כ' בס' טיב קדושין וז\"ל ויש לעיין אם חטף ממנה דבר ואמרה החזר לי גזלתי ואתקדש לך ונתן לה בשתיקה דאפילו קידשה משלו ה\"ל נתן הוא ואמרה היא דספיק' היא כדלעיל סימן כ\"ז ס\"ח ואם קידשה בגזל י\"א דבשלמ' בשלו אמרי' מסתמ' בתורת קדושין הוא אבל כאן י\"ל שלא חש לדבריה ונתן לה בתורת חזרה ואינה מקודשת כלל כו' או י\"ל דמ\"מ כיון שהיא אמרה ואתקדש לך הוה כאילו אקניתיה ניהליה וה\"ל כמו נתן הוא ואמרה היא דספיק' הוא ואפילו שדיך יש להסתפק די\"ל נתן הוא ואמרה היא אינו אלא משום דמהיכי תיתי לתלות במתנה אבל כאן י\"ל דמסתמ' לחזרת הגזילה כיון שלא פירש וכן בחזרת חוב די\"ל דלא היה דעתו על קדושין כלל וגם מסתמ' היה מחזיר החוב בלא\"ה ומה לו לחוש לדבריה או י\"ל כיון דאמרה ואתקדש לך הרי נתרצית שיהיה שלו והוה נתן הוא ממש ויש קצת סמוכין לזה מהא דפריך בקדושין ד\"ד ריש' לסיפ' כו' אלא ודאי אין לחלק כיון דנתרצית הוה כשלו ולעולם ספיק' הוא עכ\"ל ע\"ש):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:11"
+        },
+        "12": {
+          "he": "סלע זו סתמ'.  עב\"ש בשם הט\"ז שהשיג על הב\"ח שכ' דאפילו בכנסי סלע שאני חייב לך מקודשת ודלא בשתיקה כשלא הגיע הז\"פ ופסק דאינה מקודשת ודלא כהב\"ח ע\"ש ועיין בס' קה\"י שכ' דזהו דוק' לשיטת הפוסקים דס\"ל דבאמירת כנסי סלע שאני חייב לך וה\"א מקודשת היתה כוונתו שיהיו קדושין ופרעון ביחד כמ\"ש כרשב\"א בגיטין דף כ\"ז בד\"ה נתקבלה יכולה לומר לא נתרציתי רק לפרעון ואף בזה מסופק בס' המקנה אבל לשיטת האומרים דמיירי באומר שחוזר ואומר לא לשם פרעון רק לשם קדושין ודאי דמקודשת בלא הגי' הזמ\"פ דהא יכול לחזור בו בלא הגיע הזמ\"פ וכ\"כ בס' המקנה ע\"ש ועיין בס' טיב קדושין מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:12"
+        },
+        "13": {
+          "he": "על משכון.  עיין בס' המקנה ובס' קה\"י מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:13"
+        },
+        "14": {
+          "he": "מקודשת לי בו.  עבה\"ט ומ\"ש שני עדים שהא' אומר שאמר לה האמ\"ל בשעת מתן מעות כו' עיין בתשו' שיבת ציון סי' ס\"ט מענין כיוצ' בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:14"
+        },
+        "15": {
+          "he": "קודם שנטלתו.  עיין בתשו' רבינו עקיבא איגר סי' צ\"ז אודות נער א' שאמר לנערה קח חפץ זה לפקדון וכשבאתה לקחתו ואחזה בחפץ בעוד שהיא והוא אדוקין בחפץ אמר לה ה\"א מקודשת לי ושתקה ואח\"כ ראו החפץ מונח בקרקע וא\"י אם זרקתו מיד או אח\"כ ואם מדעתה או ע\"י איום האם ועד א' העיד שזרקתו מיד שאמר בל' אשכנז זיא האט עס באלד אוועק גיווארפן גם היא אומרת כן. וכן הגאון השואל דנ\"ד מקרי שעת מתן מעות. ובזה אף זרקתו מיד הוי קדושין דאף דבנטלה וזרקה תכ\"ד בטלה הקידושין כמ\"ש בת' ח\"צ מ\"מ ע\"כ הטעם לא משום דנטילה בשתיקה לא הוי הוכחה לריצוי דידה עד שמחזקת הקידושין בידה שיעור כ\"ד ולא זרקתו דדילמ' נשי לאו דיני גמירי וסברה דתתחייב באחריות אלא ע\"כ בנטילתה מיד היה הסכמה והודאה אלא דאם זרקתו תכ\"ד הוי הוכחה בהיפך ואיגלאי דנטלתו ע\"מ לזורקו וכיון דבעי הוכחה בהיפך ממיל' בנ\"ד דזרקתו ע\"י איום האם אין כאן הוכחה וגילוי מלת' למפרע והוא ז\"ל השיב לו דמ\"ש דבנטילתה מיד הוי הסכמה כו' הגם שהוכחתו אינו מוכרח מ\"מ בפשוטו יותר נראה לומר כן דנטילה הוי הודאה והסכמה מיד אלא דאם זרקתו תכ\"ד הוי גילוי למפרע דלא נטלתו לק דושין ונ\"מ לדינא דאם היינו דנין דהוכחה וריצוי לא נגמר עד אחר שיעבור כ\"ד א\"כ הוי צריכין שעדי קדושין לא ילנו משם עד אחר כ\"ד א\"כ כו' אך מ\"ש בהחלט דנ\"ד מקרי שעת מתן מעות ותמך יסודו על דברי מהרי\"ח ח\"ב סי' נ\"ח אינו מוכרח כו' והאריך בזה וסיומ' דפסקא בנ\"ד שיש ספק אם הזריקה הי' תכ\"ד דהיינו שא\"א לברר ולעמוד על דעת העדים מה נקר' אצלם בל' באלד ובפרט שגם היא אומרת דזרקה תכ\"ד דעתי מסכמת להתיר ע\"ש עוד היטב ובתשו' מהרי\"ט שם וגם בתשו' חמדת שלמה מזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:15"
+        },
+        "16": {
+          "he": "אבל אם זרק לה.  עב\"ש ס\"ק י\"ב שכ' אפילו לא אמר לה בתחילה כנסי פקדון זה גם לא נערה הקדושין מ\"מ לא הוי קדושין כיון שלא גלתה דעתה שנתרצית בקידושין ולא עבדה מעשה דניח' לה כו' ועיין בתשו' שיבת ציון סי' ס\"ט שכ' דכוונת הב\"ש דוק' בזרק לה ליכא לחלק בין אמר לה בתחלה כנסי לפקדון ובין לא אמר לה אבל אם נתן לידה החפץ והיא שקלתיה בודאי יש חילוק דאם אמר לה מתחלה שנתן לה בתורת פקדון ושקלתיה ואח\"כ אמר התקדשי לי בזה אמרינן דהוי שתיקה דלאחר מתן מעות דאינו כלום אבל אם נתן חפץ לידה ולא אמר לאיזה כוונה הוא נותן לה והיא קבלה החפץ בסתם ותיכף אחר הנתינה אמר לה התקדשי לי בו ושתקה אין זה בגדר שתיקה שלאחר מתן מעות כו' והאריך בזה דלא כרב אחד שטעה בזה ע\"ש. ומ\"ש הבה\"ט בשם רשד\"ם ראובן נכנס בבית לאה כו' עד הוי כאמרה הן ומקודשת ומהר\"י אדרבי חולק. הנה ראיתי במהר\"י אדרבי חולק. הנה ראיתי במהר\"י אדרבי (הוא תשו' דברי ריבות) שם שאינו חולק על הרשד\"ם כי לא הזכיר דבריו כלל אלא דלא נחית שם לסבר' זו ע\"ש ועי' בזה בתשו' ת\"ס סי' ק\"א שכתב ראיה להרשד\"ם מל' רש\"י קדושין י\"ב ע\"ב גבי ציפת' דאסא ד\"ה שקלת' כו'. וכ' עוד (על נדון דידיה) ועוד נ\"ל דהכא ששמה הטבעת על אצבעה להתקשט גרע טפי כו' ע\"ש עוד בסימן פ\"ד ויובא קצת לקמן סי' מ\"ב ס\"ק ד' דמשמע אפילו לא עשתה מעשה תדע רק שהחזיקה הטבעת על אצבעה להתקשט ותחילת השימה על אצבעה היה ממנו לאונסה הוי נמי כאמרה הן עש\"ה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:16"
+        },
+        "17": {
+          "he": "לא חזר ואמר תתקדשי.  עבה\"ט שכ' ב\"ש כתב כו' אבל כנה\"ג כו' גם בס' קה\"י תמה על הב\"ש ומסיק דמקודשת מספק אף בלא אמר התקדשי מחדש ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:17"
+        },
+        "18": {
+          "he": "ונמצ' שנגנב.  עבה\"ט מ\"ש אבל אם נתנה האשה הפקדון לשמור כו' עיין בזה בתשובת שיבת ציון ס\"ס צ\"ג:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:18"
+        },
+        "19": {
+          "he": "ודוק' שאינה יודעת.  עב\"ש ס\"ק י\"ז ועיין בס' שער המלך ד\"ה מהל' אישות בדף י\"ח מ\"ש מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:19"
+        },
+        "20": {
+          "he": "המעות בידה.  עבה\"ט מה שתמה על הב\"ש שנעלם ממנו הב\"י כו'. ובזה יש לתמוה ג\"כ על חידושי מהרי\"ט שרמז הבה\"ט מקודם שגם הוא ז\"ל דקדק כן מדברי הרמב\"ם וכדברי הב\"ש ועיין בס' שאר המלך פ\"ה מה\"א דין י\"ג שהביא שנתספק בדברי מהרי\"ט אלו ותמה עליו כן דאשתמיט מיניה דברי הב\"י ע\"ש:   (כ) משום רבית.  עב\"ש ס\"ק כ\"ו מ\"ש מיהו י\"ל דדוק' כשלקח כבר מעות רבית כו' ובגליון ש\"ע דהגאון רע\"ק זצ\"ל נ\"ב לכאורה משמע מסוגיין דאפי' לא לקח ממנה הרבית ואמר בהנאת מחילת זו הרבית דמהני וע' בפ\"י עכ\"ל ע' בס' ב\"מ ובס' טיב קדושין אות ל\"ג):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:20"
+        },
+        "21": {
+          "he": "במשכנו שלא בשעת הלואתו.  עיין בס' שעה\"מ פ\"ה מה\"א דין כ\"א מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:21"
+        },
+        "22": {
+          "he": "אבל מכותי.  עיין בתומים סי' ס\"ו ס\"ק י\"ד ועיין בתשו' ברית אברהם ח\"מ סימן כ\"ח אות ג' מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:22"
+        },
+        "23": {
+          "he": "אלא בספק.  עב\"ש ועיין בספר שעה\"מ פ\"ה מה\"א דין י\"ז:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:23"
+        },
+        "24": {
+          "he": "ועשה אינה מקודשת.  עב\"ש ס\"ק ל\"ח מ\"ש להוכיח מדברי התוס' פ' הגוזל (בבא קמא דף צ\"ט) וע' בס' מחנה אפרים הלכות קנין מעות סי' ג' ובס' שעה\"מ פ\"ה מהלכות אישות דין מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:24"
+        },
+        "25": {
+          "he": "אלא כדי שלא להתבייש.  עב\"ש ס\"ק מ\"ד מ\"ש וכן מוכח דאיירי הסוגיא לענין קדושין אם הם חלין מהשתא ולא איירי דקדושין חלין למפרע דהא קיי\"ל יאוש שלא מדעת כו' וע' בנ\"צ כתבתי לתמוה על הב\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:25"
+        },
+        "26": {
+          "he": "שאין בעה\"ב מקפיד עליו.  עי' בת' נו\"ב סי' נ\"ט באמצע התשו' שכ' וז\"ל והנה גוף דין זה שהמצי' הרמב\"ם שבדבר שאין בעה\"ב מקפיד הוי ס\"ק חידוש הוא ואלמלא נאמר כדברי הרמב\"ם הדבר תמוה מאד ומה בכך שאין בעה\"ב מקפיד מ\"מ כל זמן שלא הפקירו בפירו' במה יצא החפץ או האוכל מחזקת מרא קמא ולולא דמסתפינא ה\"א דהרמב\"ם מיירי בלוקח הדבר בפני חבירו ואמרי' דמסתמ' מוחל לו בשעת לקיחה וזכה בו מדעת חבירו וכפי הנראה גם הפרישה בסעיף מ\"ב פי' כן אך לא מצאתי לי חבר בדברי הראשונים. ואמנם זאת אמינא בטח שעכ\"פ לא אמר הרמב\"ם אלא בדבר שאינו מקפיד בעה\"ב נגד שום אדם בעולם אבל אם מקפיד עליו נגד שום אדם כמו שונאו או עכו\"ם אין שום אדם יכול לזכות בו שלא בפניו דלא עדיף שהפקירו בפירוש כה\"ג ע\"ש באורך (יש לעיין במג\"א סי' תמ\"ח סוס\"ק ד' שכ' שאם קנה ישראל אחר החמץ מן עכו\"ם אחר הפסח צריך להחזיר לבעלים כו' דאדעתא דעכו\"ם אפקרי' ע\"ש וע' בנו\"ב תניינא חי\"ד סי' קנ\"ד מ\"ש בזה ודו\"ק): וע' בתשו' נו\"ב תניינא סי' ע\"ז בד\"ה ומה שנסתפקתם שכ' וז\"ל וכבר ראיתם בחבורי נו\"ב סי' נ\"ט כו' אמנם אחר שיצא מן הדפוס אמרתי ללמד זכות על הרמב\"ם דבאמת גם הרמב\"ם מודה דאפילו דבר שאינו מקפיד עליו אף דאין בו משום גזל מ\"מ לא יכול לזכות בו שיהי' שלו אבל אף שהוא אינו זוכה בו מ\"מ אם קידש בו אשה האשה זוכה בו דכיון שאין בעה\"ב מקפיד לא גרע מייאוש והאשה קונה ביאוש וש\"ר ואף שאין בעה\"ב ידע כלל אם נטלו זה והוי יאוש שלא מדעת מהני בזה עפמ\"ש הש\"ך בסי' שנ\"ח ס\"א דדוקא ביאוש דאבידה דגם עתה אחר שנודע לו אינו מתיאש מרצונו רק ע\"כ שאינו יודע היכן הוא ובאיסור אתי לידו לכך לא מהני יאוש שלא מדעת אבל בדבר שמוותר מרצונו כו' ע\"ש: וע\"ש עוד דעפ\"ז הוא ז\"ל אומר דבר חדש והוא דאף בגזל איכא מ\"ד דיאוש לחוד קני מדרבנן משום תקנת השבים (כדלעיל ס\"א בהג\"ה) אבל בדבר שאינו מקפיד ודאי יאוש לחוד לא קני אף אם נתוודע אח\"כ לבעל החפץ ונתייאש לגמרי לא קני זה כל זמן שלא הקנהו לו בפירו' דהרי כאן בהתירא אתי לידי' ולא שייך כאן מצות השבה כלל וליכא תקנת השבים ולפ\"ז אם לקח חפץ משל האשה והיא חפץ שאינה מקפדת וקידש' בו אפילו נודע להאש' קודם הקידושין שלקח חפץ זה משלה ונתיאש' מ\"מ כיון שהוא דבר שגם מתחילה אינה מקפדת עליו אינו בתורת השבה ולא קנאהו ביאוש ואין כאן קדושין כלל אם לא שדיך דשינוי רשות לא שייך כיון שהוא שלה ואפי' לדע' הב\"ח דבקידשה בגזל שלה אחר יאוש מקודש' מדרבנן אפי' לא שדיך דאחר יאוש לא מצי למימר אין שקלי ודידי שקלי עב\"ש סק\"ו היינו בגזל אבל בדבר שאינה מקפדת ודאי לא קני ביאוש לחוד (ולפ\"ז במה שהוא דבר שאינו מקפיד אדרבא יוצא קולא) . וע\"ש עוד אם בשעת הקדושין לא ידעה האשה כלל שזה עצמו החפץ שלקח משלה אפי' שידך לא מהני ואינה מקודשת (בין אם הוא דבר המקפיד או אינו מקפיד) דעיקר הטעם דשידך מהני הוא דאמרי' מדקבילתי' אחילתי' והכא שלא ידע כלל שהוא שלה סבורה היתה דדידי' הוא לא שייך לומר אחלתי' ע\"ש היטב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:26"
+        },
+        "27": {
+          "he": "כגון תמרה או אגוז.  כ' הלח\"מ פ\"ה מה\"א דין ח' וז\"ל אי הך תמרה או אגוז הוי אפילו פחות מש\"פ קשה דהוי ס\"ס שמא ש\"פ במדי אי לא ואת\"ל דשוה ספק אם מקפיד או לא אבל אם שוה פרוטה ניחא דלא הוי אלא חד ספיקא אם מקפיד או לא אע\"פ שאין הלשון משמע כן ולזה הדעת נוטה עכ\"ל וע' בס\"ק שאח\"ז (עמש\"ל סי' ל\"א סק\"ז):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:27"
+        },
+        "28": {
+          "he": "מקודשת מספק.  דשמא מ\"מ מקפיד וכ\"כ ב\"ח וט\"ז (והל\"מ שהובא בס\"ק הקודם) ולא כפרישה שכ' הספק הוא שמא ש\"פ במקום אחר עכ\"ל הב\"ש. וע' במל\"מ פ\"ה מה\"א דין ח' שדעתו לפר' ג\"כ כדברי הפרישה שגם בתשו' הרשב\"ץ כת\"י סי' ב' פי' כן עי' בתשב\"ץ ח\"א סי' כ\"ג ע\"ש: (וע' בת' ח\"ס סי' פ\"ה מ\"ש בזה):   (כח) חפץ מחבירו והודיעו.  עבה\"ט ס\"ק ל\"ו שכתב ובד\"מ כתב כבר פשט המנהג כו' עכ\"פ כל מסדר קדושין צריך לזהר לשאול את החתן אם הטבעת שלו כו' וע' בתשובה חתם סופר סימן פ\"ו אודות מסדר א' ששכח לשאול תחת החופה אם הטבעת שלו אחר זמן נתברר שהיה של הכלה עצמה שהכלה מסרה מפתח ארגזה לנשים להוציא משם טבעת שלה לתנו לחתן לקדשה בו וכשבא עובדא לפני רב א' הצריך לקדשה שנית ולייחד בפני עדים במקום חופה ופי' טעמו משום דבגיטין כ' ע\"ב מבעיא ליה לרמי בר חמא אי איתתא ידעה לאקנויי ולפי הרשב\"א מובא בקיצור בב\"ש סי' קכ\"ד ס\"ק י\"ט מסקנא דרב אשי דאשה כותבת גטה מטעם הפקר ב\"ד ולא שידעה לאקנויי וא\"כ הכא בקידושין דלא שייך אקני ליה רבנן דמהיכי תיתי למיעבד תקנתא זו אינה מקודשת ויהיו כל בעילותיו זנות וע\"כ יש להצריך קדושין וחופה שנית. והוא ז\"ל השיב לו דלכאור' לפי מה שחשש להצריך קדושין וחופה מחדש נמצאו הכתובה וכל השטרות שנעשים בימים מוקדמים ופסולים אלא דעל זה י\"ל לאיסורא עביד תקנתא אבל לענין ממונא סמוך ארוב וכל המפרשים דאפשטא האבעי' דאתתא יודעה לאקנויי אך באמת א\"צ לחוש לזה כלל חדא דגם להרשב\"א אינו מחליט דלא ידעה לאקנויי רק ספיקא הוה כו' וא\"כ לא שבקינן פשיטותא דכ\"ע מפני ספיקו של הרשב\"א ועוד דגם אי לא ידעה לאקנויי ולא יהבה ליה במתנה בתורת שאלה יהבה ליה כמבואר ברש\"י ותי' שם ובכל הפוסקים וא\"כ בשלמא בגט בעי ונתן משלו ולא מהני שאלה אבל בקדושין כיון דשאלה לו כדי להתקדש בו הרי שאול לו שיעור קישוט ש\"פ כו' ועוד דעיקר דברי כרשב\"א דחוקים כו' והאריך בזה ומסיים שדברי הרשב\"א הנ\"ל אינם עקרים ולית מאן דחש לי' והרב הנ\"ל שהצריך קדושין שניים מדת חסידות עביד ע\"ש: וע\"ש עוד בסי' ק\"ו בחתן א' שאמו נתנה טבעת לקדש בו תתת החופה והכלה ידעה שזה הטבעת הוא של אמו ושחוזר אחר זמן וסברית וקבילת ונתקדשה לו אך הוא לא ידע וסבר שהוא של הכלה עצמה שנתנתו לאמו ליתנה לו לקדשה בו ושוב אחר ימים נודע הדבר ונשאל אם צריך לחזור ולקדשה או לא והנה יש כאן מקום ב' ספיקות א' במה קנה הוא הטבעת לקדש בו אשה שהוא קבל מהאם וסבר שהוא שלוח אליו מכלה שלו וע\"ד כן משך והאמת היה של האם והוא לא נתכוון לקנות מהאם אפשר שלא קנה כלל ספ' הב' בנתינתו להכלה כי הוא סבור שהטבעת של הכלה שנתנה לו במתנה לקדשה בו וכיון שהוא שלו ממש שוב נתן הטבעת לטיבועין ולצמיתות עלמין ובאמת האם לא נתנה לו אלא ע\"מ להחזיר והוא שואל וזה פשוט שהשואל כלי מחבירו ונותנו לאחר במתנה אין בנתינה זו כלום וגם אפילו אם נתנתו האם במתנה עמ\"ל מ\"מ כיון שנתן להכלה לטיבועין לא קיים התנאי ע\"מ להחזיר ובטלה המתנה לגמרי. והשיב לענין ספק הא' נראה פשוט דקנה הטבעת מאמו דהא כתב הנ\"י בפ' חזקת (בבא בתרא דף מ\"א) דאע\"ג דהעודר בנכסי הגר וכסבור שהוא שלו לא קנה מ\"מ היכא דדעת אחרת מקנה אותו קנה (מובא בקצה\"ח ובנה\"מ סי' קמ\"ב ס\"ב ע\"ש) וא\"כ הכא הרי דעת אחרת מקנה דהיינו אמו ותו דהרי לא היה סבור שלו היא אלא עשה ע\"ד קנין מכלתו והנה הוא של אמו ובודאי דהכא לא איכפת ליה אי מאמו או מכלתו וקנה הטבעת בודאי לקדש בו אשתו. ולענין ספק הב' נראה ג\"כ דאין חשש בדבר אע\"ג דהא ודאי דהשואל אינו יכול ליתן במתנה כלים השאולים לו אך כבר מבואר בדברי הפוסקים בנותן כלי לחבירו לקדש בו אשה אמרינן דעת הנותן שיהיה בכל אופן המועיל ואם אינו מועיל שאלה יהיה במתנה עמ\"ל ובמתנה עמ\"ל הוא שלו גמור ממש לחלוטין ולצמיתות עלמין וכבר בארתי במקום אחר ההפר' בין שאלה או קנין פירות לבין מתנה עמ\"ל דמקרי לכם והיינו דבמתנה עמ\"ל משך לשם קנין גמור לחלוטין אפי' במידי דצריך להחזיר גוף הפרי ולא סגי בהחזרת דמים ע' רא\"ש פ' לולב מ\"מ אינו אלא תנאי בעלמא ואם רצה הלה למחול לו תנאו אינו צריך משיכה וקנין חדש לקנותו כו' אבל קנין פירות ומכ\"ש שאלה אי רוצה להיות קנוי לו קנין גמור צריך לעשות קנין מחדש או שחצירו יקנה לו ואפ' מחילה לא מהני כמבואר בח\"מ סי' רמ\"א בהגה כו' עכ\"פ מבואר דמתנה עמ\"ל הוה שלו ממש ויכול למוכרו וליתנו לחלוטין וישתדל אח\"כ לפייס הנותן בדמים או שימחול לו התנאי נמצא במה שנתן להכלה לחלוטין לא עבר על תנאו לפי האמת שהוא רק מתנה ע\"מ להחזיר מיהו אי גם הכלה היתה סבורה שהוא שלו לחלוטין היה מחוייב לקנותו או לפייס אמו שתמחול לו תנאי אבל השתא שהכלה ידעה שהוא רק שאול מאמו ונתקדשה לו ע\"ד קישוט פרוטה א\"כ תחזיר לו הטבעת והוא יחזירו לאמו והרי היא מקודשת עכ\"ד ע\"ש):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:28"
+        },
+        "29": {
+          "he": "אינה מקודשת.  עיין במל\"מ פ\"ה מה\"א דין א' שהאריך בדין אם היתה האשה חולה מסוכנת דשרו לה איסורים אלו או אם היתה חולה שאב\"ס וקידשה באיסורי הנאה של דבריהם למ\"ד דכל איסורי דרבנן הותרו בחול' שאב\"ס. ורצה להוכיח מדברי רש\"י בפ\"ד דע\"ז דף נ\"ד דכיון דלמתקדשת שריא הויא מקודשת דבתר דידה אזלינן. ושוב כתב דלבו מהסס אם יש ללמוד נדון זה מדברי רש\"י הנ\"ל דאפשר דמה שהותר לחולה דבר האסור אינ' סיבה שתתקדש בהם די\"ל דלא חשיב ממון אלא מה שהוא שוה לכל כו' אך זאת יש ללמוד מדברי רש\"י אלו דמי שאסר עליו איזה דבר בקונם ולא הזכיר אכילה דקיי\"ל דאסור בהנאתו וקידש באותו דבר דאי' דלמקדש אינו שוה כלום מ\"מ כיון דהאשה מותרת בהנאת אותו דבר מתקדשת בהם משום דבתר דידה אזלינן. ואח\"ז ראה בחי' הריטב\"א פ\"ב דקדושין אמתניתין דהמקדש בערלה שכ' וז\"ל דאע\"ג דחולה שאב\"ס מותר באיסורין שלא כדרך הנאתן מ\"מ אסור הוא לה למוכרו לחולה זה וליטול דמים ממנו תדע דאפי' כדרך הנאתן מותר בחולה שיב\"ס ואפ\"ה אסור למוכרו לו בדמים דא\"כ נמצא נהנה באיסורי הנאה של תורה א\"ו דאסור למוכרם וכיון שכן לא חשיב ממונא כלל ואפי' היא חולה שראוי' ליהנות בם אינה מקודשת דלא ממונא יהיב לה אא\"כ אומר לה ה\"א מקודשת לי באותו הנאה שיש לך שנתתי לך דבר שתתרפא בו ויש באותו הנאה ש\"פ עכ\"ל ומבואר דהריטב\"א חולק בסברת רש\"ל וס\"ל דכיון דהמקדש אסור למכור איסורי הנאה אף דהמתקדשת שריא בהו אינה מקודשת משום דבתר דידיה נמי אזלינן ולאו ממונא יהיב לה. ואח\"כ מצא תשובה להרדב\"ז ממש נדון שלנו והעלה ג\"כ דאינה מקודשת כלל. והעתיק שם כל דברי התשובה הזאת. (ותורף הדברים מכוונים לדברי הריטב\"א הנ\"ל) ומסיים דהדבר צריך תלמוד דלכאורה דברי רדב\"ז הללו סותרים למ\"ש בתשובה אחרת בדין קידש בפחות מש\"פ וקודם שהגיע לידה עמדו על פרוטה (יובא בסימן ל\"א ס\"א) ע\"ש באורך. וע' עוד בדבריו פ\"ה מהל' נדרים דין ט\"ז. ועיין בס' שעה\"מ פ\"ה מה\"א סוף דין ב' ובס' יד המלך שם מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:29"
+        },
+        "30": {
+          "he": "קהל שתקנו.  עיין בזה בתשו' מהר\"ם אלשק\"ר סימן מ\"ח שמחלק שם בין תקנת קהל אחד ובין תקנת כל הקהילות שבמדינה עש\"ב. (וע' בזה בתשובת חתם סופר סימן ק\"ח וק\"ט):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:30"
+        },
+        "31": {
+          "he": "ועשו הסכמה.  עיין בתשובת ברית אברהם ס\"ס קכ\"ב שהביא בשם תשו' מהרי\"ט ח\"א סי' קל\"ח בעובדא שהטילו חרם על כל עדים שימצאו בקידושין מבלי חכם והעדים הוזמנו להעיד והיו מתכוונים ומזידים והביא בשם מהרשד\"ם שהורה להיתר מחמת פיסול העדים שעברו על החרם והוא השיג עליו דראוי לומר פלגינן דיבורא שלא הוזמנו להעיד או שלא היו מזידים דלא ידעו מן החרם יעו\"ש. והוא ז\"ל האריך לפלפל בדברי מהרי\"ט האלו והביא שגם בס' קצות החושן סי' נ\"ב האריך בזה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:31"
+        },
+        "32": {
+          "he": "ספק מקודשת.  עב\"ש ועיין במל\"מ פ\"ה מה\"א סוף דין ז' יעו\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:32"
+        },
+        "33": {
+          "he": "ספק מקודשת עיין בתשובת הרדב\"ז ח\"ג סי' תרמ\"ט לענין המקדש בחלת האור אי הוי מקודשת ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 28:33"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "בגזל.  אם יש הכחשה בין האיש והאשה שהאיש אומר שהכסף שלו והאשה אומרת שהוא שלה. חזקה כל שיש ביד האדם הוא שלו מהרי\"ט ח\"א סי' קל\"ח. אם אמר המקדש שלא היה הכסף שלו אם נאמן עיין בתשובת מהר\"י אדרבי סי' ר\"נ ובתשובת ב\"י סי' י\"ח מדיני קידושין ובכנה\"ג דף נ\"ו ע\"ב פועל שנשכר לבעל הבית ליום א' ובחצי היום לקח ממעות בעה\"ב שלא מדעתו ושלא לשם פרעון הוי גזל דעלמא ואינה מקודשת. מהריב\"ל סי' ק\"א. ראובן שהיה חייב ללאה והוציא המעות לפרוע ללאה. והניחם על השלחן ובא שמעון וקידש את לאה בם הוי גזל דעלמ' ואינה מקודשת מהרי\"ל שם סי' ק\"א קדשה באבק רבית או במציאת חש\"ו מקודשת מהר\"י ווייל סי' קל\"ח. מי שאמר לראובן נכסי לך ואחריך לפלוני שהדין הוא שלכתחלה לא ימכור אם קדש בו את האשה הוי מקודשת מהר\"י ווייל סי' קל\"ח. מכר מטלטלין ולקח מעות ולא משך או הגביה הלוקח במטלטלין אם קידש המוכר אשה באותו המעות שקבל מהלוקח הוי מקודשת סמ\"ע בח\"מ סי' קצ\"ח ס\"ק ג':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:1"
+        },
+        "2": {
+          "he": "בגניבה.  עיין ש\"ך בח\"מ סי' שס\"ח שהאריך והעלה דסתם גניבה בישראל יאוש ובעכו\"ם לא הוי יאוש. וגזל אפי' בישראל לא הוי יאוש ע\"ש ועיין מ\"ש הח\"מ וב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:2"
+        },
+        "3": {
+          "he": "בחמס.  קשה דבש\"ע ח\"מ סי' ל\"ד סעי' י\"ג אית' העובר על גזל של דבריהם פסול מדבריהם כגון חמסנים וכו' ע\"ש וקי\"ל לקמן סעיף כ\"א המקדש באיסורי דרבנן מקודשת עיין בה\"י וב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:3"
+        },
+        "4": {
+          "he": "מקודשת.  צ\"ע לפי מה שכתב רמ\"א בח\"מ סי' שנ\"ו סעיף ו' דהכי נהיגו עכשיו להחזיר כל גניבה אפילו לאחר יאוש ושינוי רשות מכח דינא דמלכות' ע\"ש וכ\"כ בסי' (ר\"נ) [רנ\"ט]. א\"כ אם קדשה בגזל או בגניבה לא הוי קדושין אף לאחר יאוש ושינוי רשות עיין בה\"י וב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:4"
+        },
+        "5": {
+          "he": "עכו\"ם.  הקשה הש\"ך בח\"מ סי' שמ\"ח ס\"א ב' הא הרמב\"ם ומהרש\"ל ס\"ל גזל עכו\"ם חייב להחזיר ואסור מדאוריי' ע\"ש ועיין בסי' שנ\"ט. א\"כ למה כתב רמ\"א כאן דאינה צריכה להחזיר רק מכח קדוש השם. ומה שהוצי' הרמ\"א דין זה בשם מהר\"י ווייל סי' קל\"ח כשתעיין שם תראה שאינו כן. וכ\"כ הח\"מ. ומצאתי בספר נחלת צבי שתירץ היינו דוק' דכל זמן שהגזילה של עכו\"ם ביד הגזלן צריך להחזיר אבל אם עבר ומכר או נתן לאחר א\"צ להשתדל וליקח אותו ולהחזיר רק מכח קדוש השם ע\"כ ועיין ב\"ש. ותמה אנכי דאל\"כ למה כתב רמ\"א לקמן סי' זה סעיף י\"ב ואם מכרו המלוה לאחר וקידש בו כו' הל\"ל אפי' אם המלוה בעצמו מקדש בו דמקודשת ודו\"ק. וע\"ש מ\"ש בשם ח\"מ וב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:5"
+        },
+        "6": {
+          "he": "לבד כו'.  היינו בגזל דידה אחר יאוש ולא אמרה הן ולא קדמו שידוכים ביניהם מ\"מ היא מקודשת מדרבנן דיאוש קונה מדרבנן. דאי בגזל דעלמ' איך אפשר למצוא שיהא יאוש לבד דהא מיד שקידשה איכ' יאוש ושינוי רשות כמ\"ש הטור בשם הרמ\"ה. ועיין ח\"מ ב\"ש. ובספר נ\"צ כתב דאיירי שנתייאשו הבעלים אחר שנתן לידה דהוי רק יאוש לחוד ולעולם דאיירי מגזל דעלמ' ע\"ש דמוכח שם דבגזל דידה אף אם נתייאשה אינה מקודשת אם לא שידך אותה תחלה ממאי דלא משני הש\"ס אמאי דפריך והא רב אגזל דידה קאמר כו' דרב איירי בלא נתייאשה ודו\"ק עכ\"ל ולא דק דאם איתא דרב איירי אפילו בנתייאשה לא מקשה הגמר' שם מידי א\"ל מי אמר רב הכי והוא לא אמר והאמר ר\"י גזל ולא נתייאשו הבעלים וכו' א\"כ אי רב איירי אפי' בנתייאשו לא מקשה מידי דר\"י אמר ולא נתייאשו. ועוד דתוס' שם בד\"ה והוא לא אמר כו' לא משמע דאיירי רב אפילו בנתייאשה דהקשה שם רב מאי אתא לאשמעינן הא משנה שלימה היא היכא דלא נתייאשו הבעלים אינו שלו וכו'. וכן הקשה בהגה\"ה דרישה בשם מהרש\"ל ע\"ש. עיין בקדושין דף נ\"ב ע\"א. וקושית בעל נחלת צבי מעיקרא ליתא. לפי מה דאסיקנ' פירושי קא מפרש דקדשה בו. איירי כגון שחטף סלע מידה אם כן כיון שחטף סלע מידה בפניה לא מייאשה כדאית' בסמ\"ע סי' שס\"ח ס\"ק ד' ע\"ש. ועפ\"ז נסתרו ג\"כ הוכחת ב\"ח בדברי הרמ\"ה עיין ודו\"ק. מ\"מ העלה הב\"ח דבגזל דידה אחר היאוש ולא אמרה הן ובדלא שידך מעיקר' מקודשת מדרבנן ע\"ש וכ\"כ כנה\"ג דף נ\"ח ע\"ב ע\"ש ועיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:6"
+        },
+        "7": {
+          "he": "האשה.  גנבה האשה מהמקדש וקדשה באותו גזל אינה מקודשת אפי' במשודך מהרי\"ל סי' ע\"ח וע\"ש סי' ק\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:7"
+        },
+        "8": {
+          "he": "מקודשת.  דיכלה למימר דידי שקלתי ואפשר דוק' אם גזל ממנה חפץ אז י\"ל דידי שקלתי אבל אם גזל ממנה מעות דומה לחוב וא\"י לומר דידי שקלתי. מיהו מש\"ס משמע אפי' במעות י\"ל דידי שקלתי דתני' אם חטף סלע מידה ומקדש אותה מקודשת ואוקמא בדשדיך אבל אם לא שדיך לא הוי קדושין משום די\"ל דידי שקלתי מיהו אם גזל מעות ועשאו כספים דקנה בשינוי וחזר ועשאן דמים וקדש אותה בהן בדלא שדיך ובדלא אמרה הן י\"ל דמקודשת דאינו אלא חוב. ואם קנה החפץ שגזל בשינוי ומקדש בו אע\"ג דצריך להחזיר לה דמי הגזילה דומה לחוב ח\"מ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:8"
+        },
+        "9": {
+          "he": "קבלה.  קאי אריש' דמילת' שקידשה בגזל דידה בלא שדוכין וקבלה בשתיקה אינה נאמנת לומר שקבלה לשם קדושין אבל בסיפא שנתן לה בשתיקה איך תאמר שקבלה לשם קדושין אם הוא לא אמר כלום בשעת נתינה ואפשר דט\"ס הוא וצ\"ל הג\"ה זו בריש' ח\"מ. וב\"ש לא כ\"כ ע\"ש. ואם אמר בעת הנתינה דמקדש אותה והיא שותקת ואח\"כ אמרה הן ג\"כ לא מהני כיון דלא אמרה הן בשעת הנתינה עיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:9"
+        },
+        "10": {
+          "he": "ליכי.  ל\"ש בשטר או בעדים או שלא בעדים כיון שאמר הוא שאני חייב לך הרי הוא חייב לה ויכול' לומר אין שקלי ודידי שקלי הר\"ם מטראני ח\"א סי' רצ\"ט. אמר לה תקחי זה הכוס ששלח אמך ובעוד הכוס (בידה) [בידו] אמר לה הרי את מקודשת אינה מקודשת הרמ\"ט שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:10"
+        },
+        "11": {
+          "he": "שידוכין וכו'.  דוקא בדשדיך ונתרצית להתקדש לו עכשיו אם פירשו שלא להתקדש עד זמן פלוני לא מהני שידוכין כה\"ג. מהרי\"ט ח\"ב חא\"ה סי' כ\"ח נ\"ט:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:11"
+        },
+        "12": {
+          "he": "קבלתיו.  עיין ב\"ש. ב\"ח הביא תשובת הרשב\"א בחוב שלא הגיע הזמן פרעון אפילו קבלה בשתיקה מקודשת כיון שלא הגיע הז\"פ ע\"ש. וחפשתי בכל התשובה ולא מצאתי כלום. וכ\"כ ב\"ש ואולי שסובר בסי' אלף רכ\"ז דמשמע מלשונו שם דכתב והוא שהגיע זמנה של מלוה. משמע דבתוך ז\"פ מקודשת ע\"ש. דכתב ואם קבלה קידושין מאחר אחד מגרש ואחד נושא ולמי מהם שתנש' צריכה קידושין אחרים. וכ\"כ בסי' תשע\"ג ותשע\"ד ע\"ש. ולא הבנתי הא אמרינן בפרק המגרש אבל לא יגרש שני וישא ראשון שלא יאמרו מחזיר גרושתו מן האירוסין. וכ\"ה במהריב\"ל ח\"א עיין בתשובת מהרב בצלאל סי' ז'. ובתשובת מהר\"י הלוי. וכנה\"ג דף נ\"ח ע\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:12"
+        },
+        "13": {
+          "he": "מקודשת.  אפי' לא שידך. המגיד כתב בזה דין זה צריך תלמוד ומהתימה על הרב שכ\"כ בפשיטות ח\"מ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:13"
+        },
+        "14": {
+          "he": "משכון.  כתב הח\"מ בגוף התשובה קאי המעשה באומר לה הלויני דינר על משכון זה ממילא או י\"ל דידי שקלתי ודמי קצת לאומר כנסי זו שאני חייב ליכי אלא שחילק שם בתשובה ביניהם אבל אם אמר הלויני על המשכון סתם ואח\"כ נתן לה משכון לשם קידושין אפשר דאין כאן ספק דאפשר דיתן לה משכון אחר לבטחון הלואה ולא ידעתי למה השמיט הרמ\"א תיבת זה עכ\"ל וכ\"כ ב\"ש. ועיין בתשובת הרשב\"א סי' אלף רכ\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:14"
+        },
+        "15": {
+          "he": "לי בו וכו'.  עיין הרש\"ך ח\"א סי' ט'. והרמ\"ט ח\"א סי' נ\"ז. שני עדים שהא' אומר שאמר לה הרי את מקודשת לי בשעת מתן מעות והב' העיד שאמר לה לאחר מתן מעות יש להסתפק אם נאמר שהעדות הוי מוכחש ולא מהני מהריב\"ל ח\"ג סי' פ\"ד. והרשד\"ם חא\"ה סי' י\"א כתב דהוי הכחשה. מי שנתן לאשה טבעת בתורת מכירה וחליפין ואחר זמן מה אמר שקידש אותה בה פסק בתשובת שבות יעקב ח\"ב סי' קי\"ט דאין חשש לקדושין ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:15"
+        },
+        "16": {
+          "he": "הקידושין וכו'.  לכאורה משמע דדין זה קאי דוקא היכא דבתחלה אמר לה כנסי פקדון זה ואח\"כ זרק לתוך חיקה. אבל מדברי הרמ\"ה משמע דקאי אכל הזורק קדושין לתוך חיקה בלא שידוכין ובלא גילוי דעתה שהיא רוצה בקדושין דאינה מקודשת. ח\"מ ב\"ש וכ\"כ כנה\"ג דף נ\"ז ע\"א וכ\"כ הדרישה. ומ\"ש הב\"ח בזה חלקו עליו ח\"מ וב\"ש. ובעל נחלת צבי כתב בזה דברים שקשים להולמן להמעיין בסוגיא ע\"ש. ראובן נכנס בבית לאה וזרק לה טבעת על שוליה ואמר לה קח טבעת זה וראה שאני נותן לך לקדושין והיא לקחה הטבעת מעל שוליה בידה הוי כאמרה הן ומקודשת רשד\"ם חא\"ה סי' ע\"ז. ומהר\"י אדרבי סי' רפ\"ט חולק:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:16"
+        },
+        "17": {
+          "he": "מקודשת.  אבל שדיך לא מהני כאן עיין ב\"ש. כל שלא אמרה הן בפירוש אלא שהשיב' דברים שאין משמען הן בודאי אלא שמשמען דבר אחר אינה מקודשת ואפי' שאמרה שבדברים אלו כיונה לקדושין אינה נאמנת כנה\"ג דף נ\"ז ע\"א. מנה לה חתיכות א' ב' ג' ד' ואמר לה הרי את מקודשת לי ואח\"כ מנה ה' ו' ז' ח' אפשר לומר דהוי שתיקה דלבתר מתן מעות אפילו לאותם שמנה אחר שאמר הרי את מקודשת הר\"ם מטראני ח\"א סי' רצ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:17"
+        },
+        "18": {
+          "he": "ואמר התקדשי לי בד' זוזים שבתוכו ושתקה כצ\"ל.  הרי זו ספק מקודשת. דאי לא ניחא לה היה לה לזרוק. ואם בא לידה בתורת פקדון ואח\"כ אמר התקדש בו ושתקה לא אמרינן אי לא ניחא לה היה לה לזרוק די\"ל דסברה שתתחייב לשלם הואיל ובא לידה בתורת פקדון. ואם היה בידה פקדון והתנו שאינה חייבת באחריות אז אפי' בפקדון. אמרי' היה לה לזרוק. מהר\"ם פדוואה סי' כ\"ד. מיהו בתשובת הריב\"ש לא משמע כן עיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:18"
+        },
+        "19": {
+          "he": "התקדשי לי כו'.  ב\"ש כתב דלהרא\"ש לא מהני אם לא חזר ואמר התקדשי. וט\"ז כתב אפי' להר\"ן לא מהני עיין ב\"ש. אבל כנה\"ג דף נ\"ז ע\"ב כתב דלענין מעשה יש להחמיר עיין שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:19"
+        },
+        "20": {
+          "he": "כלום הוא.  ולדינא צריך לגרש אותה בגט מחמת חומרת הקול שיצא כצ\"ל בה\"י ע\"ש. אבל ב\"ש כתב בשם תשובת שארית יוסף דפסק לקולא ע\"ש וכ\"כ הח\"מ ע\"ש. אע\"ג דשתיקה לאחר מתן מעות לא מהני אם היו עסוקין באותו ענין מהני רשד\"ם חא\"ה סי' כ\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:20"
+        },
+        "21": {
+          "he": "התקדשי לי כו'.  כלומר והיא אמרה הן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:21"
+        },
+        "22": {
+          "he": "שנגנב.  ר\"ל קודם שנתקדשה. ודוק' נגנב או נאבד אבל אם נתנה האשה הפקדון לשמור ביד אחרים. להרשד\"ם חא\"ה סי' ע\"ג מקודשת. ולהר\"י הלוי אינה מקודשת כנה\"ג דף נ\"ז ע\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:22"
+        },
+        "23": {
+          "he": "סכום וכו'.  כ\"כ הרא\"ש. אבל הריטב\"א חולק ע\"ז וס\"ל כל שלא אמר תתקדש בכל הפקדון אמרינן דעתה להתקדש בכל דהו אפי' בפרוטה וכתב ב\"ח דלמעשה יש להחמיר והיא ספק מקודשת והר\"ש יונה בסי' ס\"א מאריך והעלה אם ידעה סכום הפקדון ונמצא שנגנב. אם היא ש\"ש וה\"ה אם נאבד בפשיעה אפי' היה ש\"ח דמקודשת אם נשאר ש\"פ. וש\"ש אם נאנס הפקדון אינה מקודשת. וה\"ה בשאלה במתה מחמת מלאכה. ובשוכר ובשואל ובעליו עמו במלאכתו. אבל אי לא ידעה סכום הפקדון מקודשת אם נשתייר ש\"פ בין בש\"ח בין בש\"ש עיין כנה\"ג דף כ\"ז ע\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:23"
+        },
+        "24": {
+          "he": "בידה.  דקי\"ל מלוה להוצאה ניתנה והוי כאלו כבר הוציאה נמצא דאינו נותן לה עכשיו כלום עיין בחידושי מהרי\"ט ובעצמות יוסף דף פ\"ד. ומ\"ש הב\"ש להרמב\"ם משמע אם עדיין בעין בידה מקודשת. לא ידעתי האיך נעלם ממנו הב\"י שכתב דס\"ל להרמב\"ם כיון דלהוצאה ניתנה אעפ\"י שעדיין המעות בידה ה\"ל כאלו כבר הוציאה אותה ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:24"
+        },
+        "25": {
+          "he": "השטר.  אינה מקודשת ואפי' יש בה ש\"פ כיון דלא אדכרי בעידן קידושין לקדושי ביה סתמא כמקדש במלוה לחודיה דמי אבל אם אומר התקדשי לי בשט\"ח זה ונתן לה שמין הנייר שיש בו ש\"פ מקודשת ואם לאו הוי ס\"ק כ\"כ הטור בשם הרמב\"ם וכ\"כ ב\"י ולחם משנה. וב\"ח והר\"ש יונה כתבו דט\"ס הוא וצריך לומר הרמ\"ה. ובאמת לא מצאתי כן ברמב\"ם וכן כתב המגיד שם בפרק ה' מהל' אישות ע\"ש. ולפי עניות דעתי נראה דלמד הרמ\"ה דין זה ממאי דאמר הגמרא בקדושין דף מ\"ז עמוד ב' ומ\"ח עמוד א' אלא לאו בשטר חוב דידה ובמקדש במלוה קא מפלגי. ול\"ל תרתי דאמר בשט\"ח דידה ובמקדש במלוה. אלא להורות דוקא דמקדש במלוה והשטר החזיר לה אבל אי מקדש לה בשטר לכולי עלמא מקודשת אי אית ביה ש\"פ ודו\"ק. אבל באמת צ\"ע מנ\"ל להקשות לימא כתנאי וכו'. והא הבריית' איירי דאמר לה התקדשי לי בשט\"ח כו'. דילמא איירי דאמר לה התקדשי לי בשט\"ח כו'. ורב דאמר המקדש במלוה ולא איירי משטר עיין שם ודו\"ק ועיין בנ\"צ וב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:25"
+        },
+        "26": {
+          "he": "בזה.  אף שלא הזכיר שטר רק אמר התקדשי לי במלוה והחזיר לה השטר אפ\"ה שמין הנייר ואם אינה ש\"פ הוי קדושי ספק דחיישינן שמא ש\"פ במדי ח\"מ וב\"ש הקשה מנ\"ל דין זה ע\"ש. ולפי מ\"ש בס\"ק שלפני זה מוכח דכפי הס\"ד דמקשה לימא כתנאי וכו' מוכח דלא הזכיר שטר ומש\"ה אמרה הש\"ס אלא לאו בשט\"ח דידה ובמקדש במלוה כו' ר\"ל דמדקדש לה במלוה לחודיה והשטר החזיר לה. דאם לא כן לא מקשה מידי כתנאי על רב דרב איירי דמקדש במלוה ולא הזכיר שטר ודו\"ק:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:26"
+        },
+        "27": {
+          "he": "מקודשת.  דחיישינן שמא ש\"פ במדי:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:27"
+        },
+        "28": {
+          "he": "כריבית.  עיין מהרי\"ט בחדושיו על קדושין. המקדש בהנאת פרוטה דרב יוסף אינה מקודשת. שארית יהודה דף ע\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:28"
+        },
+        "29": {
+          "he": "מלוה.  אבל אם אמר במחילת מלוה אינה מקודשת. וכתב בחידושי מהרי\"ט שצריך שימחל לה ואח\"כ יאמר לה התקדש בהנאת מחילה אבל בדיבוד זה שאומר בהנאת מחילה לא משמע שמוחל לה ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:29"
+        },
+        "30": {
+          "he": "אחרים.  וצריך להודיע לה שאינו שלו כמ\"ש לקמן בטבעת שאלוה ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:30"
+        },
+        "31": {
+          "he": "וקידש בו.  ר\"ל והאחר קידש בו מהר\"י ווייל סי' קל\"ח. כתב הח\"מ המעיין בתשובה יראה דטעמי' שכתב שם שייכי ג\"כ אף אם המלוה בעצמו מקדש בו אשה ע\"ש. ועב\"ש ס\"ק ל\"א. וע\"ל ס\"ק ה' מש\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:31"
+        },
+        "32": {
+          "he": "אצל בעה\"ב.  אע\"ג דאי' בא\"ח סימן ק\"ע אורחים אין רשאין ליטול מלפניהם וליתן לבנו של בעה\"ב. צ\"ל דוק' לבנו לא יתן אבל האורחים יכולין ליתן זה אל זה מאחר שזימן אותם אינו מקפיד במה שנותנין אלו לאלו א\"כ גם כאן אינו מקפיד הבעה\"ב מה שקידש אשה בזה כיון שזימן אותו בה\"י. וט\"ז כתב מחמת קושי' זו אינו אלא ס\"ק. וכתב כנה\"ג דף נ\"ח ע\"א ואני מסתפ' אי דוקא כשקידש אשה אחרת. אבל אם קידש לבת בעל הסעודה אי הוי מקודשת ומדברי ספר מקור ברוך סי' כ\"ה נראה דהוי ספק עכ\"ל. ומצאתי במהרש\"ל פג\"ה והביאו בא\"ח סי' ק\"ע דלאחר שנתן חלקו לאורח רשאי ליתן לבנו של בעה\"ב ע\"ש א\"כ י\"ל דמש\"ה כתב כאן ונוטל חלקו וכו' להורות דלאחר שנתן חלקו קידש בו את האשה. לפ\"ז לא מקשו מידי הבה\"י וט\"ז מא\"ח סי' ק\"ע. אורחים המסובים אצל בעה\"ב אפי' ביררו חלקם והניחו לפניהם ונטל בעה\"ב ממה שהניחו לפניהם וקידש את האשה מקודשת כל עוד שלא נתנו בתוך פיהם מהרי\"ט ח\"א סי' ק\"כ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:32"
+        },
+        "33": {
+          "he": "רק בכל.  אם לא שפירש ואמר תתקדש לי בחלק שיש לי בסחורה זאת:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:33"
+        },
+        "34": {
+          "he": "אשה.  אז אמרינן שגמר בלבו ליתן לו באותו ענין שיועיל לקדושין. ואם לא יועיל בלשון שאלה שיהיה בלשון מתנה ולכל הפחות תהיה המתנה ע\"מ להחזיר ותהיה מקודשת ויקנהו מן האשה ויחזירנו או יחזור דמיו כי הנותן מתנה לחבירו ע\"מ להחזיר אם אינו מחזיר לו הכלי רק הדמים הוי חזרה ואז א\"צ להודיע לה ששאל הכלי אלא מקדש אותה בכלי כי הוא יוכל להחזיר להמשאיל דמי הכלי כ\"ה בטור בשם הרא\"ש. וכתב הח\"מ לפי טעם ב' אם לא החזיר דמיו הוי גזל למפרע רק לפי טעם הראשון אפשר דמקודשת דאם לא יועילו לשון קידושין היה דעתו ליתן למתנה גמורה ולמעשה צ\"ע אי הוי קדושי ודאי או ס\"ק אם לא החזיר המעות עכ\"ל. ואם לא הודיע לו שרוצה לקדש בו ס\"ל להרא\"ש דאינה מקודשת אא\"כ בד' תנאים. הא' דהשאיל לו לזמן ידוע דאל\"כ יוכל לתובעו מיד ולית כאן הנאת ש\"פ דדילמא יתבע מיד. הב' דבעינן שיתן לו רשות להשאילו לאחר. הג' שצריך להודיע לאשה שהוא שאול עד זמן פלוני. הרביעי. צריך שיהא שוה הנאת קישוט כל אותו הזמן שהוא שאול לו ש\"פ עיין ב\"ש וב\"ח ופרישה וכנה\"ג דף נ\"ט ע\"א. אין המקדש נאמן לומר ששאל שלא מדעת הבעלים משום דהוי גזלן ואין אדם משים עצמו רשע הר\"י אדרבי סי' יו\"ד. אם נתן לו חפץ אחר ע\"מ שיחזור לו חפץ אחר כמוהו לכ\"ע מקודשת שזה לא קידשה בדבר השאול אלא בדבר שלו קידשה עיין כנה\"ג דף נ\"ח ע\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:34"
+        },
+        "35": {
+          "he": "מקודשת.  לדעת הרא\"ש והטור גם בזה מקודשת ודאי ע\"פ התנאי' שנתבארו ס\"ק לפני זה עיין ח\"מ ב\"ש ואם קידש אותה בהנאת קישוט איזה ימים לרב ב\"ש הוי קידושין ודאי וכ\"כ בת\"ה. ולרב ח\"מ הוי ס\"ק ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:35"
+        },
+        "36": {
+          "he": "חפץ.  הנה בדין זה אם שכירות ליומא ממכר הוא עיין בש\"ע ח\"מ סי' קע\"ה ושי\"ג ועיין מ\"ש הבה\"י. ונ\"מ אם שכירות ליומא הוי ממכר יוכל לקדש בגוף הכלי וצריך להודיע לה ששכר הכלי ואם לאו דומה לשאלה וא\"י לקדש בגוף הכלי ואם יש בידו משכון מישראל א\"י לקדש בהנאת קישוט משום דהוי כריבית אלא בגוף המשכון יוכל לקדש וצריך להודיע לה שהוא משכון בידו ואם יש בידו. (בתורת מכירה) אז ע\"פ הדין א\"צ להחזיר ללוה והוי כשלו ויוכל לקדש בגוף הכלי. ועיין בתשובת הרא\"ש דכתב דלכתחלה יש לזהר שלא לקדש בכלי שאול אפי' שאל לקדש בו. ובד\"מ כתב ע\"ז כבר פשט המנהג לקדש בכלי שאול' היינו כששאל לקדש. עכ\"פ כל המסדר קידושין צריך ליזהר לשאול את החתן אם הטבעת שלו היא או אם שאל הטבעת ואם שאל הטבעת צריך לשאול אותו או אם הודיע למשאיל שרצונו לקדש בו. גם אם שאל מן הבעל או מן האשה אשר יש לה בעל בעיר ב\"ש ובה\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:36"
+        },
+        "37": {
+          "he": "לקידושין.  ר\"ל ס\"ק. וכתב הח\"מ עכשיו נוהגין להקל קצת בזה כשאין להחתן טבעת. שואלין מאשה אחרת העומדת שם בשעת החופה אף בלא רשות בעלה ומסתמ' אין הבעל מקפיד ע\"ש. וב\"ש חולק עליו ע\"ש ועיין תשובת שער אפרים סי' ב':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:37"
+        },
+        "38": {
+          "he": "בשטר ה\"ק.  עיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:38"
+        },
+        "39": {
+          "he": "בזמן הזה וכו'.  והיינו אם קידש בבכור חי הוי ס\"ק. אבל אחר שנשחט בכור בעל מום בזה\"ז לכ\"ע ממון של כהן הוא. והקשו האחרונים דבי\"ד סי' ש\"ו פסק מוכרים אותו תמים חי בעל מום חי ושחוט ומקדש בו אשה וכו' משמע אפילו לכתחלה מותר לקדש בחי עיין ח\"מ. וב\"ש תירץ דמ\"ש ומקדש בו אשה קאי על מ\"ש ושחוט ע\"ש ולכאורה מתני' במסכת מעשר שני פרק א' משנה ב' שממנה הדין נובע לא משמע כן ע\"ש ודו\"ק:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 28:39"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

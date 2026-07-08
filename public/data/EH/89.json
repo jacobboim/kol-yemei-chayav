@@ -1,0 +1,169 @@
+{
+  "chelek": "EH",
+  "siman": 89,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 4,
+  "fetchedAt": "2026-07-08T00:09:00.056Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "חיוב קבורת אשתו. ובו ד סעיפים:מתה האשה בחיי הבעל חייב  לקוברה וליטפל בכל צרכי קבורתה ובכלל זה האבן שנותנים על הקבר וכן חייב לעשות לה מספד וקינים כדרך כל המדינה ואם דרכם להספיד בחלילין לא יפחות משני חלילין ומקוננות אפי' עני שבישראל ואם היה עשיר הכל לפי כבודו ואם היה כבודה יותר מכבודו קוברים אותה לפי כבודה שעולה עמו ואינה יורדת:",
+      "en": "If a woman died in the lifetime of her husband, he is required to bury her and to deal with all the needs of her burial, including the gravestone. Similarly, he must arrange a eulogy and hire professional weepers according to the custom of the state. If their custom is to mourn with flutes, he shall not make do with less than two flutes and professional weepers, even if he is among the poor of Israel.  If he was rich, it [burial arrangements] shall be according to his honor.  If her honor was greater than his, she must be buried according to her honor, for she rises [in honor] with him, but does not descend.",
+      "ref": "Shulchan Arukh, Even HaEzer 89:1"
+    },
+    {
+      "seif": 2,
+      "he": "לא רצה לקוברה ועמד אחר וקברה ב\"ד מוציאין מבעלה ונותנין לזה:",
+      "en": "If he [the husband] did not want to bury her, and another arose and buried her, the court shall take payment from her husband and give it to the other.",
+      "ref": "Shulchan Arukh, Even HaEzer 89:2"
+    },
+    {
+      "seif": 3,
+      "he": "היה בעלה במדינה אחרת ב\"ד יורדין לנכסיו ומוכרין בלא הכרזה וקוברין אותה לפי ממון הבעל ולפי כבודו או לפי כבודה:",
+      "en": "If her husband was in a different country, court shall take payment from his property and sell [as needed to raise money, even] without public announcement, and bury her according to his wealth and honor, or according to her honor [whichever is greater].",
+      "ref": "Shulchan Arukh, Even HaEzer 89:3"
+    },
+    {
+      "seif": 4,
+      "he": "אלמנה אינה נקברת מנכסי בעלה אלא יורשי כתובתה חייבין בקבורתה ואם מתה קודם שנשבעה שבועת אלמנה יש מי שאומר שיורשי בעלה חייבין בקבורתה ולא הודו לו:",
+      "en": "A widow is not buried from the estate of her [late] husband, but the heirs of her ketubah (marriage contract) must attend to her burial. If she died before swearing the widow's oath [denying any prior collection of the ketubah monies], there is one [authority] who says that the husband's heirs must attend to her burial, but they [most other authories] did not agree with his opinion.",
+      "ref": "Shulchan Arukh, Even HaEzer 89:4"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ל' הטור ממשנה כתובות דף מז ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 89:1"
+        },
+        "2": {
+          "he": "תשו' אביו הרא\"ש כלל י\"ג וסוף כלל פ\"ה וכ\"כ הרשב\"א בתשוב'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 89:2"
+        },
+        "3": {
+          "he": "ל' הרמב\"ם בס\"פ י\"ד מה' אישות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 89:3"
+        },
+        "4": {
+          "he": "פ\"ה כלומר שאם נהגו בני המדינה שלא להספיד אינו מספיד וכן הוא בירושלמי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 89:4"
+        },
+        "5": {
+          "he": "שם במשנ' וכר\"י דאיפסק' הלכתא כוותי' שם דף מ\"ט ע\"א ונאוקימתא דגמרא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 89:5"
+        },
+        "6": {
+          "he": "פי' אחת",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 89:6"
+        },
+        "7": {
+          "he": "ג\"ז שם מהירושלמי וכר' יוסי שם וכמ\"ש ה\"ה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 89:7"
+        },
+        "8": {
+          "he": "ג\"ז שם מימרא דרב חייא בר אבין",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 89:8"
+        },
+        "9": {
+          "he": "נתבאר במ\"ש לקמן סי' ק\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 89:9"
+        },
+        "10": {
+          "he": "פי' אם הי' כבודה יותר מכבודו דעולה עמו ואינה יורדת כמפורש שם בגמ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 89:10"
+        },
+        "11": {
+          "he": "משנ' שם דף צ\"ה ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 89:11"
+        },
+        "12": {
+          "he": "הרמב\"ם בפי\"ח מה' אישות כיון שיורשי' אינם נוטלים כלום",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 89:12"
+        },
+        "13": {
+          "he": "הראב\"ד והטור וכ\"כ הר\"ן כיון שראויין לירש אותה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 89:13"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "יש מי שאומר שיורשה בעלה כו'  זה דעת הרמב\"ם ולא הודה לו בטור כתב יראה שחושב יורשי הבעל יורשים כיון שאין יורשיה נוטלין כ\"ז שלא נשבעת ולא נהירא כיון שראוין לגרש אותה אלו נשבע שפיר יורשיה וכ\"כ הראב\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 89:1"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "חייב לקוברה.  עבה\"ט בשם ב\"ש מ\"ש אפי' אם כנס אותה ערומה ועיין בזה בתשו' הרדב\"ז ח\"ג סי' תרל\"ג. ועיין בקו\"א לס' כתובה שכ' שהעלה מלשון רש\"י ז\"ל ר\"פ אלמנה ניזונת דקבורתה הוא קודם לירושתה ונ\"מ דאם יש עליו בעלי חוב בשטר הקודמין לנישואין אינם יכולים לגבות מהנכסים שיורש ולמנוע הוצאות קבורתה לפי כבודו וכבודה כמו בבע\"ח דידיה במת הוא שיכולין למנוע הוצאת קבורתו כדאיתא בח\"מ ר\"ס ק\"ז אבל אם לא ירש ממנה כלום אף שחייב בקבורתה אם יש עליו בע\"ח מוקדמים יכולים לעכב וכן נראה בפשטות בכל היורשים שהם חייבים לאחרים מצד עצמן אין יכולים הבע\"ח לעכב בקבורת אביהם מנכסי אביהם דקבורתו קודם לירושה משא\"כ בנכס היורשים עצמם יכולים לעכב עכ\"ד ע\"ש (ועיין בס' כרם שלמה סי' זה שהביא בשם תשב\"ץ ח\"ב סי' קי\"א דמי שקבר אשתו כדין ואח\"כ הוציאוה מקברה חטוטי שכבי והפשיטו התכריכין מעליה אינו חייב לקברה פעם שנית ונלמד בה מנשבית שחייב לפדותה ואם נשבית פעם שניה ורוצה לגרשה ה\"ז מגרש ויתן כתובה והיא תפדה עצמה וה\"ה לקברה פעם ראשונה שאין קוברה פעם שניה עכ\"ל. ובמחכ\"ת העתיק שלא כדת דבתשב\"ץ עצמו שם מבואר דכן היה דעת השואל אבל הרשב\"ץ ז\"ל השיב לו דאינו כן אלא לעולם הוא קוברה ואפי' מאה פעמים וכתב דהראיה שהביא השואל מנשבית אינה ראיה אא\"כ אמר הבעל אינו יורשה כלל והרי כתובתה ויירשוה קרוביה ויקברוה ואפי' הכי אין הנדון דומה שאם יכול לומר כן אל האשה עצמה מ\"מ אינו יכול לומר כן לחוב לקרוביה ועוד אפי' פורע כתובתה לקרוביה חייב לקברה שהרי בירושל' אמרו שהאשה שאין לה כתובה הבעל חייב בקבורתה ועוד אפי' בנשבית אינו אומר כן אלא מפני שיכול לגרשה וכיון שגירשה הרי אינה אשתו אינו חייב עוד בפרקונה אבל זאת אשתו מתה וא\"א לגרשה עוד ולעולם היא קרויה אשתו עד שיחיו המתים הילכך לעולם חייב לטפל בתכריכים ואפילו מאה פעמים כו' עכ\"ד ע\"ש):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 89:1"
+        },
+        "2": {
+          "he": "ובכלל זה האבן.  עי' בתשו' הרמ\"ע מפאנו ס\"ס פ\"ט שכ' וז\"ל ומה שטען עוד ראובן על חתנו שיעמיד נר תמיד בבה\"כ ויפרע מי שיאמר קדיש בעד אשתו נ\"ל שיפה השיב חתנו שאינו חייב כלום שהדלקת הנר אפילו לבן על האב אינו אלא מנהג בעלמא והרבה שאין מדליקין אלא מעט בעת התפילה ומהא דכ' הרשב\"א דבעל חייב לעשות מצבה ליכא ראיה דלא קאמר אלא כגון דמנהג משפחתו לעשות כו' וע\"ד הקדיש לא הוטל חיוב זה אלא לבן על אביו ועל אמו אבל בעל על אשתו אין לו חיוב על זה עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 89:2"
+        },
+        "3": {
+          "he": "ולא הודו לו.  עיין בתשו' אא\"ז פנים מאירות ח\"ב סי' ס' שהכריע כדעת הרמב\"ם ע\"ש ועיין בס' בית מאיר שפקפק על דבריו ומסיים דהברור שאין להוציא ע\"פ הכרעתו ע\"ש. גם בס' ישועות יעקב סק\"ב חלקו על הפמ\"א בזה ע\"ש ועי' בס' יד המלך פי\"ח מהל' אישות מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 89:3"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "לקוברה.  קבורה תקנו חז\"ל תחת נדוני' ולא תחת הכתוב' ואם בני משפחתם אין מספידין כלל ובני משפחתו מספידין לזכרים ויש פוחתים לנקיבות אל יפחות לה. ואפילו אם שניהם רוצים שלא יירש הנדוני' ולא יקבר אותה אין שומעין להם. ובעל חייב בקבורה אפילו אם כנס אותה ערומה ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 89:1"
+        },
+        "2": {
+          "he": "מבעלה.  אפילו אם היה הבעל בעיר ולא נמלך בו ועמד א' וקברה אותה מוציאין מבעלה. והרשב\"א והר\"ן חלקו על הרמב\"ם ופסקו מספיק' אין מוציאין מהבעל אם קברה אחר. ואם קברה מצדקה ואח\"כ נודע דיש לבעלה ממון מוציאין מהבעל אפילו למ\"ד אם קברה אחר אין מוציאין מהבעל מ\"מ אם קברה מצדקה מוציאין ממנו ד\"מ בשם הג\"מ. ובסי' קי\"ח מבואר מי ומי חייב ליתן לסיוע הקבורה גם אם היא חייבת בקבורת בעלה ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 89:2"
+        },
+        "3": {
+          "he": "הכרזה.  וכן אם א' הלוה לצורך קבורה מוכרים בלא הכרה לשלם לו תוס' ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 89:3"
+        },
+        "4": {
+          "he": "בקבורתה.  מתוספת משמע אפילו לא הניח אלא מטלטלין ולדינ' דש\"ס אין הכתובה נגבית מן המטלטלין אפ\"ה יורשים הראוים לירש ממנה אם היה לה כתובה חייבין בקבורתה ע\"ש דף צ\"ה ע\"ב בד\"ה ואין חייבים בקבורתה וכו'. לפ\"ז אם לא הניחה כלום להוריש חייבים יורשיה הראוים לירש אם היה לה לקוברה ואינה נקברת מן הצדקה. ונשמע נמי דהבעל חייב בקבורה אפילו לא ירש כלום ממנה. וכ\"כ הראב\"ד. ומיהו מרמב\"ם משמע דס\"ל כשלא ירש אינו חייב בקבורה דאל\"כ אם מתה בלא שבועה למה היורשים אינם חייבים לקבור אותה אלא ודאי ס\"ל כשלא ירש הבעל אז היורשים אינם חייבים בקבורה ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 89:4"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

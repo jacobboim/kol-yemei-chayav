@@ -1,0 +1,265 @@
+{
+  "chelek": "EH",
+  "siman": 175,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 14,
+  "fetchedAt": "2026-07-08T00:09:01.957Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין יבמה שהיתה אסורה והותרה. ובו יד סעיפים:יבמה שאינה ראויה להתייבם בשעת נפילה משום איסור ערוה אסורה עולמית אפילו אם יפקע האיסור כגון שני אחים שנשואים שתי אחיות ומת א' מהם ונפלה אשתו לפני השני שנשוי אחותה אפילו אם תמות אשתו אחר כך שפקע איסור אחות אשה אפ\"ה אסורה ואפי' נפלה לפניו פעם אחרת אחרי מות אשתו כגון שהיה להם אח שלישי שלא היתה ערוה עליו וכנסה ומתה אשתו של זה שהיה נשוי אחותה ומת השלישי שכנסה וחזרה ונפלה לפניו אסורה לו לא שנא מתה אשתו קודם שכנס השלישי לא שנא מתה אחר שכנס אע\"פ שלא היתה אסורה עליו בשעת נפילה אחרונה אפ\"ה אסורה לו היא וצרתה כגון שהיה אשה אחרת לאח השלישי כיון שהיתה אסורה לו בשעת נפילה ראשונה אבל אם היתה מותרת לו בשעת נפילה אפי' אם תאסר אח\"כ אם פקע האיסור חוזרת להתירה כיצד שלשה אחים שנים מהם נשואים שתי אחיות ומת אחד מהם ונזקקה אשתו לשלישי שאינו נשוי אחותה ולא הספיק לכונסה עד שמת האח השני שהיה נשוי האחרת והרי שתיהן אסורות עליו מתה האחרונה חזרה הראשונה להתירה כיון שהיתה מותרת בשעת נפילה אע\"פ שנאסר בנתיים אבל אם מתה הראשונה לא הותרה האחרונה כיון שהיתה אסורה בשעת נפילה וכן אם היו שם עוד אחים וקדם אחד מהם וחלץ לאחרונה או שהיתה הראשונה אסורה לאחד מהאחים וייבם את האחרונה שהרי מותרת לו הותרה הראשונה לשאר אחים שהרי האחרונה שאסרה אותה חלצה או נתייבמה למותר לה אבל אם האחרונה אסורה לאחד מהם משום ערוה הרי הוא מותר לייבם הראשונה ושאר האחים אסורים בשתיהם וחולצות ולא מתייבמות:",
+      "en": "A woman who is not fit to do yibbum [levirate marriage] when it falls to her because of the prohibition of sexual impropriety [\"erva\"], is forbidden [to remarry the brother] forever, even when the prohibition is lifted. For example, two brothers who marry two sisters, and one of the [brothers] died, and his wife falls to the second who is married to her sister. Even if his wife dies afterward [and now he would be able to marry the sister], for the prohibittion of the sister of one's wife had been lifted, even so, she is prohibited [to him]. [This is so] even if she falls to him [in yibbum] another time [even] after the death of his wife. For example, [two brothers marry two sisters, and] they have a third brother who does not have this erva [because he was not married to one of the sisters, and then one of the brothers dies], and he performs [yibbum] with her. Then, the [brother's] wife who was the sister dies. [Then,] the third [brother] who did [the yibbum] dies, and now she falls to him, she is [still] prohibited to him. It matters not if his wife had died before the third had performed [yibbum], and it matters not if she died after he had performed [yibbum]: Even though she was not prohibited to him the last time she fell to him [in yibbum], even so, she is prohibited to him, she and her secondary wives, for example when the third brother had another wife, once she was already prohibited to him the first time around. But if she was permitted to him when she [first] fell to him [in yibbum], even if she became prohibited to him afterwards, if the prohibition [eventually] lifts, the permittedness returns to her. What's the case? There are three brothers, two of whom are married to two sisters. One of them dies, so his wife is tied to yibbum with the third [brother] who is not married to her sister. He did not have a chance to perform [yibbum] with her, and the second brother dies who was married to the other sister [so now both sisters are the third brother's yibbums], but both [together] are forbidden to him. [Now,] the second [of those sisters] dies. The first becomes permitted to him again, since she was permitted to him [the first time] she fell to him in yibbum, even though in between she was prohibited to him. But if it was the first [sister] hat died, the second one would not be permitted to him, since she was prohibited to him when she fell to him in yibbum. And so if they had more brothers there, and one of them goes and performs chalitza with the second one, who is permitted to him, the first one becomes permitted to the rest of the brothers, for the second one caused her prohibition [to the brothers], and it takes chalitza or yibbum to make her permitted But if the second one was prohibited to one of them because of erva, he can perform yibbum on the first, and the rest of the brothers are prohibited to both, and they must perform chalitza and not yibbum.",
+      "ref": "Shulchan Arukh, Even HaEzer 175:1"
+    },
+    {
+      "seif": 2,
+      "he": "שנים מהאחים נשואים לשתי אחיות ומתו שניהם ולא נודע איזו מהם מת ראשון הואיל ואי אפשר לייבם שתיהן והרי זיקה נפלה על שתיהן חולצות ולא מתייבמות ואפילו היתה אחת מהם אסורה על הייבם משום שנייה או מחייבי עשה או מחייבי לאוין הרי אלו חולצת ולא מתייבמת אבל אם היתה אחת מהם ערוה עליו הרי אחותה מותרת לו רצה חולץ רצה מייבם שהרי לא נפלה זיקתו על שתיהן שאין זיקה על הערוה:",
+      "en": "Two brothers of [many brothers] who marry two sisters, and both [brothers] die, and it is not known who died first, since one cannot perform yibbum on for both together, and the levirate association falls on both, they are performed upon chalitza and not yibbum. Even if one of them is prohibited to her yibbum because of the second, or he is guilty of violating an positive-action sin or guilty of violating a negative-action sin, they do chalitza and not yibbum. But if one of them [is prohibited] because of erva [prohibited sexual impropriety], her sister is indeed permitted to him, and so if he wants to do chalitza [he can], if he wants to do yibbum [he can] for the levirate association did not fall on both together, for there is no levirate association in the case of erva.",
+      "ref": "Shulchan Arukh, Even HaEzer 175:2"
+    },
+    {
+      "seif": 3,
+      "he": "ארבע אחים שנים מהם נשואים לשתי אחיות ומתו הנשואים את האחיות או בזה אחר זה קודם שהספיקו לייבם לראשונה שתיהן חולצות ולא מתייבמות שא\"א לשום אחת מהם להתייבם משום איסור אחות זקוקה ואם קדמו וכנסו כל אחד אחת מהאחיות מוציאים אותם מהם ויש מי שאומר שאין מוציאים:",
+      "en": "If there are four brothers, two of whom are married to two sisters, and the ones married to the sisters die [at the same time], or one after the other but before there was enough time for the first [sister] to have performed yibbum, both of them should have chalitza done and not yibbum, for neither of [the remaining two brothers] can do yibbum [on both], because of the prohibition of sisters of levirate association. If they went and did yibbum each with one of the sisters, we make them leave them. Some say we don't make them leave.",
+      "ref": "Shulchan Arukh, Even HaEzer 175:3"
+    },
+    {
+      "seif": 4,
+      "he": "היתה אחת מהם אסורה לאחד מהיבמין משום איסור ערוה מותר בשניה שהרי אין הערוה זקוקה לו ונמצא שאין זקוקה לו אלא אחת והשני אסור בשתיהם:",
+      "en": "If one of them was prohibited to one of the levirate associates because of the prohibition of erva [illegal sexual relationships], he is permitted to the second [sister], because the erva [sister] isn't attached to him [in particular] to do yibbum, and only one is attached to him [to do yibbum, which can be the permitted sister]. And the second [brother] is forbidden to be with either.",
+      "ref": "Shulchan Arukh, Even HaEzer 175:4"
+    },
+    {
+      "seif": 5,
+      "he": "היתה אחת מהן אסורה לזה משום ערוה והשניה אסורה לשני משום ערוה האסורה לזה מותרת לזה שכל אחד אין זקוקה לו אלא אחת אבל אם אין אסורות עליהם אלא באיסור לאו או עשה לא נדחית הזיקה מהם וחולצות ולא מתייבמות:",
+      "en": "If one of the [sisters] was prohibited to this one because of erva, and the second [sister] was prohibited to the other on because of erva, the one that was prohibited for this one is permitted to that one, for each [brother] is only attached to do yibbum with one. But if the prohibition on them is just a negative or positive prohibition, the attachment is not pushed off, so they must do chalitza and not yibbum.",
+      "ref": "Shulchan Arukh, Even HaEzer 175:5"
+    },
+    {
+      "seif": 6,
+      "he": "שלשה אחים שנים מהם נשואין שתי אחיות ומת אחד מבעלי האחיות ואח\"כ מת בעל אחות השנייה ונפלה גם האחות השנייה לפני האח השלישי שתיהן אסורות עליו שהן צרות זו לזו בזיקה וחולצות ולא מתייבמות ואם עשה מאמר בראשונה ואחר כך נפלה אחותה לפניו יוציא בעלת המאמר בגט וחליצה והאחרונה בחליצה:",
+      "en": "Three brothers, two of whom are married to two sisters. One of the sisters' husbands dies, and afterwards the husband of the second sister dies, so that the second sister also falls [for levirate marriage] before the third brother. Both of them [the widows] are forbidden to him, because they are co-wives each one to the other in the zikah [levirate connection], and he does chalitzah to them and not yibum. If he had made a maamar [pledge to marry] the first one, and afterwards her sister falls before him, he sends the pledged wife away with a get and chalitzah, and the latter one with chalitzah.",
+      "ref": "Shulchan Arukh, Even HaEzer 175:6"
+    },
+    {
+      "seif": 7,
+      "he": "שלשה אחים שנים מהם נשואים שתי אחיות ואחד נשוי נכרית מת נשוי נכרית וכנס אחד מבעלי אחיות את אשתו ומת הראשונה יוצאת משום אחות אשה והשניה משום צרתה ואם לא כנסה בין שעשה מאמר בנכרית בין שלא עשה בה מאמר הרי זו חולצת ולא מתייבמת:",
+      "en": "Three brothers, two of which are married to two sisters and one of which is married to a woman not related [to the sisters], and the one married to the unrelated woman dies, and one of the brothers married to the sisters brings [the unrelated] wife into [his marriage], and [then] he dies, the first wife leaves by virtue of being the sister of the wife, and the second because she is a secondary wife. If he did not bring [the unrelated wife] in, whether he did the refusal or did not do the refusal, she must have chalitza but not yibbum.",
+      "ref": "Shulchan Arukh, Even HaEzer 175:7"
+    },
+    {
+      "seif": 8,
+      "he": "שלשה אחים שנים מהם נשואים שתי אחיות ואחד נשוי נכרית גירש אחד מבעלי אחיות אשתו ומת נשוי נכרית וכנסה המגרש ומת מותרת לאח הנשאר אבל אם מת נשוי נכרית קודם שגירש אחד מבעלי אחיות את אשתו אפילו אם לא כנס הנכרית ומת אסורה לאח הנשאר מפני שהיתה צרת ערוה בזיקה אפילו אם גירש הערוה קודם שמת  (וה\"ה אם היה נשוי נכרית ויש לו בנים אסורה לו משום זיקת אשת אחיו שיש לו בנים (הגהות אלפסי פ\"ד אחין)  אבל אם כנס בעל האחיות את הנכרית וגירש הערוה ומת ל\"ש גירש קודם שכנס הערוה ל\"ש אח\"כ מותרת הנכרית לאח הנשאר:",
+      "en": "Three brothers, two of which are married to two sisters and one of which is married to a woman not related [to the sisters], if one of the husbands of the sisters divorced his wife, and [then] the one married to the unrelated woman dies, and the divorced woman is brought in to the marriage, and [that husband] died, she [the sister] is not permitted to the remaining brother. But if the one married to the unrelated woman dies before one of the husbands of the sisters divorces his wife, even if he had not brought in the unrelated woman [into the marriage] and he dies, she is prohibited to the remaining brother, because the secondary wife was an erva to her by levirate marriage, even if he had divorced the erva before he died.  Rem\"a: And the law is the same if he had married the unrelated woman, and he had children [with her], she is prohibited to him because of the levirate connection between the wife of his brother that he had children (Hagahot Alfasi Perek Daled Achin).  But if a husband of the sisters brought in the unrelated woman [into marriage] and he divorce the erva, and then he died, it matters not if he divorced before he brought in the erva, it matters not afterward, the unrelated woman is permitted to the remaining brother.",
+      "ref": "Shulchan Arukh, Even HaEzer 175:8"
+    },
+    {
+      "seif": 9,
+      "he": "שני אחים פקחים נשואין ב' אחיות קטנות או חרשות ומת אחד מהם תצא משום אחות אשה שהרי נשואי שתיהן שוות:",
+      "en": "If two brothers of full faculty marry two sisters who are minors or are deaf-mutes, and one [of the brother] dies, she can go free by virtue of being the sister of the wife [of the other brother], for they are both married equally.",
+      "ref": "Shulchan Arukh, Even HaEzer 175:9"
+    },
+    {
+      "seif": 10,
+      "he": "היתה אחת פקחת ואחת חרשת מת בעל החרשת תצא משום אחות אשה מת בעל הפקחת בעל החרשת מוציא את אשתו בגט ואת אשת אחיו בחליצה:",
+      "en": "If one of them was of full faculty and one was a deaf-mute, and the husband of the deaf-mute dies, she goes free by virtue of being the sister of the wife. If the husband of the full faculty one dies, the husband of the deaf-mute must divorce his wife with a bill of divorce, and his brother's wife with chalitza.",
+      "ref": "Shulchan Arukh, Even HaEzer 175:10"
+    },
+    {
+      "seif": 11,
+      "he": "היתה אחת גדולה ואחת קטנה מת בעל הקטנה תצא משום אחות אשה מת בעל הגדולה מלמדין את הקטנה שתמאן בבעלה וייבם הגדולה:",
+      "en": "If there was one older and one younger, and the husband of the younger died, she is dismissed(from doing levirate marriage) because of the wife status of her sister(her older sister's marriage is valid). If the husband of the older sister died, they teach the younger one that she should refuse her husband(thereby absolving her marriage) and her older sister shall perform the levirate marriage.",
+      "ref": "Shulchan Arukh, Even HaEzer 175:11"
+    },
+    {
+      "seif": 12,
+      "he": "שני אחים א' פקח וא' חרש נשואים לשתי אחיות פקחות או אחת פקחת ואחת חרשת והפקחת נשואה לפקח מת חרש בעל החרשת או חרש בעל הפקחת תצא משום אחות אשה מת פקח בעל הפקחת החרש בעל החרשת או בעל הפקחת מוציא את אשתו בגט ואשת אחיו אסורה לעולם:",
+      "en": "Two brothers, one of full faculty and one a deaf-mute, who are married to two sisters of full faculty, or one is of full faculty and one is a deaf-mute and the woman of full faculty is married to the man of full faculty, and the deaf-mute man who was the husband of the deaf-mute woman dies, or if the deaf-mute man had been the husband of the woman of full faculty, she goes free by virtue of being the sister of the wife. If the man of full faculty husband of the woman of full faculty dies, or the deaf-mute man husband of the deaf-mute woman dies, or [the deaf-mute man was the] husband of the woman of full faculty [dies], [the remaining brother] divorces his wife with a bill of divorce, and the wife of his brother is forever prohibited to him.",
+      "ref": "Shulchan Arukh, Even HaEzer 175:12"
+    },
+    {
+      "seif": 13,
+      "he": "שני אחים חרשים נשואים לשתי אחיות פקחות או חרשות או אחת פקחת ואחת חרשת וכן שתי אחיות חרשות נשואות לשני אחים פקחים או חרשים או אחד פקח וא' חרש ומת א' מהם תצא משום אחות אשה ואם היו נכריות יכניסו ואם אח\"כ ירצו להוציא בגט יוציאו:",
+      "en": "Two deaf-mute brothers who are married to two sisters who are both able minded or deaf-mute or one of them is able minded and the other is a deaf-mute, and so too with two sisters who are deaf-mutes who are married to two brothers who are both able minded or both deaf-mutes or one is able minded and one is deaf-mute, and one of them dies, one of the sisters goes free because she is the sister of (the levirate man's) wife. If the two women were strangers, they can marry them, and if afterward, they want to divorce by way of bill of divorce, they can divorce them.",
+      "ref": "Shulchan Arukh, Even HaEzer 175:13"
+    },
+    {
+      "seif": 14,
+      "he": "שני אחים א' פקח וא' חרש והחרש נשוי שתי נשים פקחות ואחת מהן ערוה על הפקח ומת החרש שתיהן פטורות מהחליצה ומהייבום היו שניהם פקחים וא' מהם נשוי שתי נשים אחת פקחת ואחת חרשת והחרשת היא ערוה על אחיו השני הפקחת חולצת ולא מתייבמת:",
+      "en": "Two brothers, one able minded and the other a deaf mute, and the deaf-mute is married to two able minded women, and one of them was a forbidden relation, and the deaf mute brother died, both of them are exempt from doing the refusal service or levirate marriage. If they both were able minded and one of them was married to two women, one of them was able minded and the other a deaf-mute, and the deaf-mute was a forbidden relation to his brother, the second woman who is able minded can do the refusal service but cannot be contracted into the levirate marriage.",
+      "ref": "Shulchan Arukh, Even HaEzer 175:14"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ל' הטור ממשנה שם דף ל' ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:1"
+        },
+        "2": {
+          "he": "מימר' דרב יהודה אמר רב שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:2"
+        },
+        "3": {
+          "he": "וכ\"כ הרמב\"ם שם בפ\"ז וכ' ה\"ה דכל יבמה שאין אני קורא בה בשעת נפיל' יבמה יבא עליה הרי היא כאשת אח שיש לה בנים ואסור' כדאית' התם (דף כז ע\"ב) וצרת' ה\"ל צרת ערוה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:3"
+        },
+        "4": {
+          "he": "כרבי יוחנן שם דקי\"ל רב ור\"י הלכ' כר\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:4"
+        },
+        "5": {
+          "he": "כרבי יוחנן דא\"ל לרב חנינא אחיות איני יודע מי שנאן וכולי שם כלומר זו אינה משנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:5"
+        },
+        "6": {
+          "he": "בדיעבד אבל לכתחלה לא אמרינן להו לחלוץ השניה וליבם הראשונה דגזרינן דלמא אתי למיעבד איפכ' וכ\"כ הרמב\"ם בפ' ז' וכ\"כ התו' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:6"
+        },
+        "7": {
+          "he": "ממשנה שם דף כו ע\"א וגמרא שם דף כח ע\"א וכ\"כ הרמב\"ם בפ\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:7"
+        },
+        "8": {
+          "he": "ל' הרמב\"ם שם מהא דאמרי' ולימ' ליה דלא ידעינן הי נפיל ברישא (שם ד' כח ע\"א) משמע בהדיא דכל היכא דלא ידעינן הי נפיל בריש' חולצות ולא מתייבמות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:8"
+        },
+        "9": {
+          "he": "ל' הטור ממשנה שם דף כו ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:9"
+        },
+        "10": {
+          "he": "פי' דאז כנפלו שתיהן בבת אחת דמי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:10"
+        },
+        "11": {
+          "he": "כ\"כ הרמב\"ם בחיבורו בפ' הנז' כסתם מתני' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:11"
+        },
+        "12": {
+          "he": "טור וכאבא שאול ור\"ש בבריי' שם דף כח ע\"א וכ\"פ הרמב\"ם בפי' המשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:12"
+        },
+        "13": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:13"
+        },
+        "14": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:14"
+        },
+        "15": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:15"
+        },
+        "16": {
+          "he": "משנ' שם דף כח ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:16"
+        },
+        "17": {
+          "he": "משנ' שם דף כט ע\"א וכב\"ה דאין המאמר קונה קנין גמור ונשאר על הראשונה עוד זיקת יבמים וכשנפלה אח\"כ אחותה לפניו הם נעשות צרות זו לזו בזיק'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:17"
+        },
+        "18": {
+          "he": "משנה שם דף ל' ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:18"
+        },
+        "19": {
+          "he": "טור בשם אביו הרא\"ש כיון שהי' צרת אחות אשה בזיק'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:19"
+        },
+        "20": {
+          "he": "משנה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:20"
+        },
+        "21": {
+          "he": "שם בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:21"
+        },
+        "22": {
+          "he": "מימרא דר' אשי שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:22"
+        },
+        "23": {
+          "he": "כמ\"ש ברא\"ש שם אמימר' דרב אשי דלא שייך צרת ערוה אלא כשהיא והערו' נופלים בבת אחת וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:23"
+        },
+        "24": {
+          "he": "משנה שם דק\"ט ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:24"
+        },
+        "25": {
+          "he": "משנה שם דף קיב ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:25"
+        },
+        "26": {
+          "he": "משנ' דף קט ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:26"
+        },
+        "27": {
+          "he": "שם במשנה וכר\"א דאיפסק' הלכתא כוותי' שם דף קי ע\"א וכתב ר' ירוחם בשם הרמ\"ה שאם לא מיאנ' והגדיל' בין בא עלי' אח\"כ או לא בא עליה מוציא את אשתו בגט ואשת אחיו בחליצ' דקי\"ל יש זיקה ב\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:27"
+        },
+        "28": {
+          "he": "משנה שם דף קיב ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:28"
+        },
+        "29": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:29"
+        },
+        "30": {
+          "he": "טור וכ\"כ הרמב\"ם ספ\"ז מהירושלמי שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 175:30"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "שאין מוציאין.  עי' תוס' י\"ט פ\"ג דיבמות משנה א' מה שנתקשה בזה. ועי' ב\"ח וב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 175:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

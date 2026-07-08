@@ -1,0 +1,260 @@
+{
+  "chelek": "CM",
+  "siman": 427,
+  "chelekTitle": "Choshen Mishpat",
+  "seifCount": 10,
+  "fetchedAt": "2026-07-08T00:09:23.141Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "מצות עשה להסיר כל מכשול שיש בו סכנת נפשות ועשיית מעקה לגגו. ובו י סעיפים:מצות עשה לעשות אדם מעקה לגגו שנא' ועשית מעקה לגגך והוא שיהיה בית דיר' אבל בית אוצרות ובית הבקר וכיוצא בהן אינו זקוק לו:",
+      "en": "It is a positive commandment to make a fence on one's roof as it says \"and you shall make a fence for your roof\". This applies if it is a dwelling place, but a storage house or a cattle house and the like do not require one.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 427:1"
+    },
+    {
+      "seif": 2,
+      "he": "כל בית שאין בו ד' אמות על ד' אמות פטור ממעקה:",
+      "en": "Any house that is not at least 4 cubits by 4 cubits is exempt from making a fence.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 427:2"
+    },
+    {
+      "seif": 3,
+      "he": "בית של שני שותפים חייבים במעקה שנאמר כי יפול הנופל ממנו לא תלה אלא בנופל א\"כ למה נאמר גגך למעט בתי כנסיות ובתי מדרשות לפי שאינם עשוים לדירה:",
+      "en": "A house of two partners is obligated to have a fence around its roof, as it says “lest any one fall from it”.   This is applicable whenever someone is liable to fall.  If so, why does it say “your roof”?  To exclude synagogues and study halls, since they are not made for residence.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 427:3"
+    },
+    {
+      "seif": 4,
+      "he": "היתה ר\"ה גבוה מגגו אינו זקוק למעקה שנאמר כי יפול הנופל ממנו:",
+      "en": "If a public road is higher than the roof, a fence is not required. As it says: \"lest the one who falls will fall from it\".",
+      "ref": "Shulchan Arukh, Choshen Mishpat 427:4"
+    },
+    {
+      "seif": 5,
+      "he": "גובה המעקה אין פחות מי' טפחים כדי שלא יפול ממנו הנופל וצריך להיות המחיצה חזקה כדי שישען אדם עליה ולא תפול:",
+      "en": "The fence must not be shorter than ten handbreadths so that one will not fall from the roof, and the fence must be strong so that a man can lean on it and will not fall.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 427:5"
+    },
+    {
+      "seif": 6,
+      "he": "כל המניח גגו בלא מעקה ביטל מצות עשה ועבר על לא תעשה שנא' ולא תשים דמים בביתך:",
+      "en": "All that do not build a fence on their roof violates a positive commandment and a negative commandment. As it says, \"do not place blood in your home\".",
+      "ref": "Shulchan Arukh, Choshen Mishpat 427:6"
+    },
+    {
+      "seif": 7,
+      "he": "אחד הגג ואחד כל דבר שיש בו סכנה וראוי שיכשול בה אדם וימות כגון שהיתה לו באר (או בור) בחצירו בין שיש בו מים בין שאין בו מים חייב לעשות חוליא גבוה י' טפחים או לעשות לה כיסוי כדי שלא יפול בה אדם וימות:",
+      "en": "Both a roof or anything dangerous where it's probable that someone will stumble upon and fall, for example if there was a well or a hole in his yard, whether there is water in it or not, one is obligated to make an embankment ten-handbreadths high, or to cover it, lest a person fall into it and die.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 427:7"
+    },
+    {
+      "seif": 8,
+      "he": "וכן כל מכשול שיש בו סכנת נפשות מצות עשה להסירו ולהשמר ממנו ולהזהר בדבר יפה שנאמר השמר לך ושמור נפשך ואם לא הסיר והניח המכשולות המביאים לידי סכנה ביטל מצות עשה ועובר בלא תשים דמים:",
+      "en": "Likewise, one has a positive duty to remove and guard oneself of any life-threatening obstacle, as it is said \"beware and guard your soul\".  If one did not removed said obstacles, one has cancelled a positive commandment and transgressed \"do not bring bloodguilt\" (Deut. 22:8).",
+      "ref": "Shulchan Arukh, Choshen Mishpat 427:8"
+    },
+    {
+      "seif": 9,
+      "he": "הרבה דברים אסרו חכמים מפני שיש בהם סכנת נפשות וקצתם נתבארו בטור י\"ד סי' קט\"ז ועוד יש דברים אחדים ואלו הן לא יניח פיו על הסילון המקלח וישתה ולא ישתה בלילה מהבארות ומהאגמים שמא יבלע עלוקה והוא אינו רואה: הגה וכבר כתבתי דברים אלו סימן קי\"ו ביורה דעה וע\"ש:",
+      "en": "The sages prohibited many things because of danger to a person.  And some of them are explained in the Tur.  Additionally, there are other things and these are they: A person must never put his mouth to a pipe spouting water and drink; he must not drink from rivers or ponds at night, for fear that he might swallow a leech without seeing.  Rama: I have already written these in Shulchan Arukh, Yoreh De'ah 116:5",
+      "ref": "Shulchan Arukh, Choshen Mishpat 427:9"
+    },
+    {
+      "seif": 10,
+      "he": "כל העובר על דברים אלו וכיוצא בהם ואמר הריני מסכן בעצמי ומה לאחרים עלי בכך או איני מקפיד בכך מכין אותו מכת מרדות והנזהר מהם עליו תבא ברכת טוב :",
+      "en": "",
+      "ref": "Shulchan Arukh, Choshen Mishpat 427:10"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "א) ל' הרמב\"ם ריש פי\"א מהלכות רוצח ושמירת נפש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 427:1"
+        },
+        "2": {
+          "he": "ב) כ' הכ\"מ והא דמחייב בספרי שם בית התבן ובית הבקר וכ\"כ הסמ\"ג אפשר שטעמו של רבינו משום דפ' קמא דיומא דף י\"א ע\"א לענין מזוזה אמרינן דתנאי היא ותנא דספרי סבר כמאן דמחייב ורבינו בהלכות מזוזה פוסק כמאן דפטור ע\"כ ונלע\"ד שטעמו משום דמאן דפוטר שם ביומא הוא מלתא דתנא קמא בסתמא ואמאן דמחייב איתא שם בברייתא ויש מחייבין משמע דמיעוטא נינהו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 427:2"
+        },
+        "3": {
+          "he": "ג) ברייתא בפ\"ק דסוכה דף ג' ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 427:3"
+        },
+        "4": {
+          "he": "ד) שם דין ב' מימרא דרבא ומודה ר' אלעאי וכו' בפי\"א דחולין דף קל\"ו ע\"א ואע\"ג דאמר ר' חנינא מסורא (שם) דליתנהו להני כללי ופירש\"י להני כללי דאמר רבא וכו' אפשר שרבינו מפורש דלא קאי אלא לקצת דברים שאמר רבא ואין מעק' בכללן ובסמ\"ג כ' טעם אחר ואכמ\"ל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 427:4"
+        },
+        "5": {
+          "he": "ה) שם בברייתא בפ\"ה דב\"ק דף נ\"א ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 427:5"
+        },
+        "6": {
+          "he": "פירוש ולא לתוכו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 427:6"
+        },
+        "7": {
+          "he": "ו) שם פי\"א מהל' רוצח ושמירת נפש ד\"ג בספרי כמה מקום גבוה וכו' וכפי' הסמ\"ג ויש להראב\"ד שם בהשגות פי' אחר בזה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 427:7"
+        },
+        "8": {
+          "he": "ז) כ' הכ\"מ ופשוט הוא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 427:8"
+        },
+        "9": {
+          "he": "ח) שם ושם בספרי ופשוט הוא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 427:9"
+        },
+        "10": {
+          "he": "ט) שם ד\"ד ושם בספרי אין לי אלא גג מנין לרבות וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 427:10"
+        },
+        "11": {
+          "he": "י) כן הוא ברמב\"ם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 427:11"
+        },
+        "12": {
+          "he": "כ) שם מעשה דחסיד בפ\"ה דברכות דף ל\"ג ע\"ב ומברייתא ר' נתן אומר מנין שלא יגדל אדם כלב רע וכו' בפ\"ק דב\"ק דף ק\"ו ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 427:12"
+        },
+        "13": {
+          "he": "ל) כ' הרמב\"ם בפי\"ד מה' אבל מצות עשה של דבריהם לבקר חולים (מבואר בי\"ד סימן של\"ה) ולנחם אבלים (מבואר שם בסימן שע\"ו) ולהוציא המת (מבואר שם בסי' שס\"א) ולהכניס הכל' (מבואר בא\"ה סי' ס\"ה) וללות האורחים ולהתעסק בכל צרכי הקבורה וכו' ואילו הן ג\"ח שבגופו שאין להם שיעור אע\"פ שכל מצות אלו מדבריהם הרי הם בכלל ואהבת לרעך כמוך כל הדברים שאתה רוצה שיעשו אותם לך אחרים עשה אתה אותן לאחיך בתורה ובמצות ☜ושכר הלוויה מרובה מן הכל והוא החק שחקק אברהם אבינו ודרך החסד שנהג בה מאכיל עוברי דרכים משקה אותן ומלוה אותן וגדולה הכנסת אורחים מהקבלת פני השכינה שנאמר וירא והנה שלשה אנשי' וגו' (שבת פי\"ח דף קל\"ו ע\"א) ולוויים יותר מהכנסתן חכמים אמרו כל שאינו מלוה כאלו שופך דמים (ברפ\"ט דסוטה דף מ\"ו ע\"ב) כופין ללויי' כדרך שכופין לצדקה ובית דין היו מתקנים שלוחים ללות אדם העובר ממקום למקום ואם נתעצלו בדבר זה מעלה עליהם באלו שפכו דמים אפילו המלוה את חבירו ד' אמות יש לו שכר הרבה כמה שיעור לויה שחייב האדם בה הרב לתלמיד וכו' (מבואר שם בגמרא) ובילקוט מהר\"ש מצאתי האידנא אין נוהגין ללות תלמיד לרבו עד פרסה משום דבזמן הזה מוחלין על כבודם ויש לילך עמו או עם חבירו עד השער או לכל הפחות ד' אמות עכ\"ל סמ\"ע בשם ד\"מ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 427:13"
+        },
+        "14": {
+          "he": "מ) שם ד\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 427:14"
+        },
+        "15": {
+          "he": "נ) שם דין ו' ברייתא בפ\"ק דע\"א דף י\"ב ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 427:15"
+        },
+        "16": {
+          "he": "כתבו התוס' בערוך גורס ערק' ופי' תולעת קטנה המצוייה במים ושהיא נופלת על הבשר ניתלת בו ומוצצה את הדם וכל זמן שהיא מוצצת היא נתמלאת מן הליחה שהיא מוצצת ומתנפח' עד שתהא כמו חבית קטנה וכשאדם בולעה בתוך המים מוצצת הליחה שבמיעיו ומתגדלת במעיו ונמצא כריסו צבה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 427:16"
+        },
+        "17": {
+          "he": "ס) שם דין ה'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 427:17"
+        },
+        "18": {
+          "he": "ע) ס\"ל דהם מדרבנן ואסמכינהו אקרא כדלעיל ס\"ט ומ\"מ מכין עליהם כמו שאר מצות דרבנן א\"נ קים להו שהם מדאורייתא ואין לוקין עליהם בדאשכחן חצי שיעור דאסור מן התורה ואין לוקין עליו ב\"י ביו\"ד סימן קט\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 427:18"
+        },
+        "19": {
+          "he": "פ) ל' המחבר כדי לסיים בדבר טוב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 427:19"
+        },
+        "20": {
+          "he": "צ) נלע\"ד הטעם שהזהירה התורה על שמירת הנפש הוא מטעם שהקב\"ה ברא את העולם בחסדו להטיב להנבראים שיכירו גדולתו ולעבוד עבודתו בקיום מצותיו ותורתו כמו שאמר הכתוב כל הנקרא בשמי לכבודי בראתיו וכולי וליתן להם שכר טוב בעמלם והמסכן את עצמו כאלו מואס ברצון בוראו ואינו רוצה לא בעבודתו ולא במתן שכרו ואין לך זלזול אפקירותא יותר מזה ולשומעים יונעם ויהי נועם ה' אלהינו עלינו ומעשה ידינו כוננה עלינו בילא\"ו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 427:20"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "אינו זקוק לו כו'.  עיין בתשו' מבי\"ט ח\"ב סי' ק\"י:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 427:1"
+        },
+        "2": {
+          "he": "של שני שותפים כו'.  ובשותף עכו\"ם פסק ביש\"ש פי\"א דחולין דחייב ע\"ש אמנ' לפי מה שפסק מור\"ם בי\"ד סי' רפ\"ו ס\"א בהגה במזוזה דפטור' אפשר דהוא הדין במעקה ולפי המרדכי דע\"ז יש להסתפק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 427:2"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "לעשות אדם מעקה.  וכתב הרמב\"ם פי\"א מה' ברכות דצריך לברך אקב\"ו לעשות מעקה ושם כתב דמברך ג\"כ שהחיינו ע\"ש. אך בספר נשמת אדם כלל ט\"ו כתב דהרמב\"ם לשיטתו דכתב דגם על ציצית ותפילין מברכין שהחיינו אבל למאי דקיי\"ל בא\"ח סי' כ\"ב גבי ציצית דאין מברכין ה\"ה במעקה אין מברכין שהחיינו רק לעשות מעקה ע\"ש ועיין בספר ח\"א שם דין כ\"ד שכתב דדוקא בעושה מעקה לגגו מברך אבל בעושה חוליא או כיסוי לבורו דלקמן ס\"ז אינו מברך ע\"ש. ועיין בספר מחנה אפרים ה' שלוחין סימן י\"א במי שרוצה לעשות מעקה ע\"י אומן גוי אי יברך עליו ומצדד שם דשפיר יכול לברך כיון דיד פועל כיד בעה\"ב (עמ\"ש לעיל סי' קצ\"ב ס\"א סק\"ב) ומשמעות דבריו שם דיש חילוק אם עשהו ע\"י אומן דקבלנית אפילו ע\"י אומן ישראל לא יברך הבעה\"ב ולדעת הכנה\"ג בשם רבותיו יברך האומן המתקן אותו אבל אם עשהו ע\"י אומן פועל יום אפי' האומן נכרי שפיר מצי הבעה\"ב לברך עליו דחשיב כאילו הוא עצמו עשהו עש\"ה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 427:1"
+        },
+        "2": {
+          "he": "מעקה לגגו.  עיין לעיל סי' שי\"ד ס\"ב דמי ששכר בית מחבירו השוכר חייב לעשות מעקה ע\"ש ועיין בספר ארעא דרבנן אות ת\"ג שהביא דהכה\"ג כתב דשוכר אינו חייב במעקה אלא מדרבנן והוא ז\"ל כתב דחייב אף מדאורייתא ע\"ש: בריך רחמנא דסייען עד כאן",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 427:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "דירה.  תימא על המחבר דגבי מזוזה ביו\"ד ר\"ס רפ\"ו סתם וכת' דרפת בקר ולולין ובית אוצרות שמן ויין חייבים במזוזה וכדעת הרי\"ף והרא\"ש ודלא כהרמב\"ם וכמ\"ש שם וכאן במעקה סתם דאינן חייבין במעקה ודין מעקה נלמד מדין מזוזה וכמ\"ש הכ\"מ ונראה דהמחבר הכריע וס\"ל דלענין מעקה כיון דאין דרך בני אדם להיות להן בית תשמיש ע\"ג בית הבקר ובית האוצר ובית העצים מש\"ה אף אם לפעמים יקרה דידור שם אדם מ\"מ אין שם יוצאים ונכנסים כל כך למיחש שיפול משם ולהצטרך מעקה משא\"כ במזוזה דחייבה התורה בשביל הדר להיות מצות ה' נגד עיניו בביאתו וביציאתו בזה פסק דהדר שם צריך לקבוע מזוזה באותו פתח עכ\"ל הסמ\"ע ועיין בתשובת מבי\"ט ח\"א סי' ק\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 427:1"
+        },
+        "2": {
+          "he": "שאין.  דאז אינו בית תשמיש ואינו ראוי לדירה. שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 427:2"
+        },
+        "3": {
+          "he": "שותפים.  ובשותף עובד כוכבים פסק במהרש\"ל פי\"א דחולין סי' ב' דחייב ע\"ש אמנם לפי מה שפסק הרמ\"א בי\"ד סי' רפ\"ו ס\"א בהג\"ה דפטור במזוזה אפשר דה\"ה במעקה ולפי טעם המרדכי ספ\"ק דע\"ז יש להסתפק. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 427:3"
+        },
+        "4": {
+          "he": "לדירה.  אפילו המחייבים בית הבקר ובית האוצר במעקה כנ\"ל מ\"מ מודים בזה מפני שבה\"כ אין שום גגך שייך בו כלל דאף של הבאים מעבר לים הוא וכן פרש\"י בפרק ראשית הגז. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 427:4"
+        },
+        "5": {
+          "he": "למעקה.  פירוש דל\"ת שיעשה מעקה ע\"ג גגו מלמטה למעלה עד שיהא גבוה י\"ט מר\"ה דכיון דבני ר\"ה קדירא דבי שותפי נינהו פשיטא דאין עליהן לעשות מעקה לר\"ה. שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 427:5"
+        },
+        "6": {
+          "he": "ממנו.  ודרז\"ל ממנו ולא תוכו. וק\"ק ל\"ל מיעוטא דממנו הא בלאו הכי נמי יכול הבעל הבית לומר אי לאו ביתי מכ\"ש שהיה נחבט וניזק או מת מנפילתו מגבהות ר\"ה לארץ ובדוחק י\"ל דה\"א שיהא צריך למלאות במקום ביתו בעפר כדי להשוותו ממטה לר\"ה. שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 427:6"
+        },
+        "7": {
+          "he": "טפחים.  משמע מכל סביבו ודלא כסמ\"ג ודלא כהראב\"ד בהשגותיו ועיין שם בכ\"מ דמפרש במאי פליגי. שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 427:7"
+        },
+        "8": {
+          "he": "אסרו.  מדכתיב השמר לך ושמור נפשך מאד",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 427:8"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

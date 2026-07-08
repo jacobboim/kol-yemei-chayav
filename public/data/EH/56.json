@@ -1,0 +1,209 @@
+{
+  "chelek": "EH",
+  "siman": 56,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 4,
+  "fetchedAt": "2026-07-08T00:08:59.414Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "כמה זמן נותנין לארוסה. ובו ד סעיפים:המארס אשה ושהה כמה שנים ותבעה לנישואין והרי היא נערה נותנים לה י\"ב חדש מיום התביעה לפרנס את עצמה ולתקן מה שהיא צריכה לה ואח\"כ תנשא תבעה אחר שבגרה נותנים לה י\"ב חדש מיום הבגר וכן אם קדשה ביום הבגר נותנים לה י\"ב חדש מיום הקדושין שהוא הבגר קדשה אחר שבגרה אם עברו עליה י\"ב חדש בבגרותה ואח\"כ נתקדשה אין נותנין לה אלא ל' יום מיום התביעה וכן המארס את הבעולה נותנין לה ל' יום מיום התביעה:",
+      "en": "One who gets engaged to a woman and then waits a couple years and then tries to claim his marriage rights and finds the woman still as a girl(between 12 and 12.5), we give her 12 months from from the day of the fiance's claim to sustain herself(monetarily) and to tend to what she needs to tend to. Afterward, she can get married. If he claims her after puberty, we give her 12 months from the onset of her puberty process. And if he marries her on the day of her puberty process, we give her 12 months from the day of the wedding as that is the day of the puberty processing. If he marries her after she goes through puberty, if she has already gone through 12 months since then and afterwards, she is married, we only give her 30 days from the day of the husband's claim to her. And so too one one who gets engaged to a non-virgin, we give her 30 days from the time of her being claimed.",
+      "ref": "Shulchan Arukh, Even HaEzer 56:1"
+    },
+    {
+      "seif": 2,
+      "he": "כשם שנותנין זמן לאשה משתבעה הבעל לפרנס את עצמה כך נותנין זמן לאיש לפרנס את עצמו משתבעה האשה אותו וכמה זמן נותנין כמו שנותנין לה אם י\"ב חדש י\"ב חדש ואם ל' יום ל' יום:",
+      "en": "Just as we give time to the woman from when the man claims her to financially sustain herself, so too we give time to the man  from when the woman claims him. How much time do we give him? The same as we give her. If it's 12 months (for her), then it's 12 months. If it's 30 days, then it's 30 days.",
+      "ref": "Shulchan Arukh, Even HaEzer 56:2"
+    },
+    {
+      "seif": 3,
+      "he": "הגיע זמן שנתנו לאיש ולא נשאה נתחייב במזונותיה אע\"פ שלא כנס ואם עכבו אונס כגון שחלה הוא או היא או שפירסה נדה או שהגיע זמן בא' בשבת שאינו יכול לכנוס אינו חייב לזונה: הגה ודוקא שחלה תוך הזמן אבל הגיע הזמן ולא כנסה ואח\"כ חלה חייב במזונותיה אע\"ג דהשתא הוא אונס (מרדכי ריש כתובות ובפרק החולץ):",
+      "en": "If the prescribed time for either the man or the woman [to marry] arrives , he must provide for her food even though he did not yet marry her.  If some uncontrollable circumstances prevent him from [marrying], such as his or her illness, or she menstruated, or the time coincided with a Sunday when he is unable to wed, he is not obligated to provide her food.  Rem\"a: This is true only if the illness began during the allotted time period.  If, however, the time came and he did not marry her, and then he fell ill, he must provide for her food even it is now uncontrollable circumstances.",
+      "ref": "Shulchan Arukh, Even HaEzer 56:3"
+    },
+    {
+      "seif": 4,
+      "he": "המארס את בתו קטנה ותבעה הבעל לנישואין בין היא בין אביה יכולין לעכב שלא תנשא עד שתגדיל ותעשה נערה  ואם רצה לכנוס כונס ואין ראוי לעשות כן: הגה ואם היא ובעלה מתרצים לכנוס והאב מת אין הקרובים יכולים למחות אע\"פ שהיא חולנית והוא ממהר לכנוס כדי ליורשה (מרדכי פרק האיש מקדש):",
+      "en": "Someone who betroths his minor daughter, and her fiancee wants to complete the marriage, both the daughter or her father can prevent her from marrying until she becomes an adult (age); if she wants to enter marriage, she may enter, but it is inappropriate to do so. \"Rem\"a\": If she and her fiancee want to marry, and her father dies, her relatives may not protest (their marriage), even though she is sickly and he wants to get married quickly in order to be able to inherit her (if she dies) (Mordekhai, Perek HaIsh Mekadesh)",
+      "ref": "Shulchan Arukh, Even HaEzer 56:4"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ל' הרמב\"ם בפ\"י מה' אישות ממשנה וגמ' כתובות דף נ\"ז ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 56:1"
+        },
+        "2": {
+          "he": "ברייתא שם ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 56:2"
+        },
+        "3": {
+          "he": "שם בבריית' וכדמפרש רב פפא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 56:3"
+        },
+        "4": {
+          "he": "וכ\"כ טור בשם הרמ\"ה ואביו הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 56:4"
+        },
+        "5": {
+          "he": "שם במשנה דלעיל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 56:5"
+        },
+        "6": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 56:6"
+        },
+        "7": {
+          "he": "מסקנת הגמ' שם דף ב' ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 56:7"
+        },
+        "8": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 56:8"
+        },
+        "9": {
+          "he": "בריי' שם דף נ\"ז ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 56:9"
+        },
+        "10": {
+          "he": "כן מפורש בירושל' פי' שאין האב מוח'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 56:10"
+        },
+        "11": {
+          "he": "ממימרא דר' אבא בן לוי שם ומהא דאמר רב יהודה וכו' אסור לאדם שקידש בתו קטנה קידושין דף מ\"א ע\"א דאפי' קידושין אסור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 56:11"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אלא (ל' יום) מיום התביעה  בטור הבי' בזה פלוגתא דרש\"י פי' בזה משעת קידושין והרמ\"ה פי' משעת תביעה ונ\"ל דבאלמנה דשיעורי' ל' יום כ\"ע ס\"ל דמשעת תביעה וזה מוכיח מל' המשנה נותנין לבתולה יב\"ח כו' ולאלמנה ל' יום דמשמע דדין ל' יום באלמנה כדין יב\"ח של בתולה שהוא מיום התביעה ודוקא בבוגרת פליגי דאמרי' בגמ' דבוגרת היא כתביעה דאלמנה ורש\"י ס\"ל דבמה שניסת בוגרת היא במקום תביעה דבתולה דהיינו כאלו כבר נתבע' קודם לזה יב\"ח לענין הכנת רוב תכשיטין ומ\"מ עדיין צריכה ל' יום מן הקידושין אחר הבוגרת לתקן לגמרי כל צרכיה לחופה אבל אלמנה לא חשבינן אלא בשעת התביע' דבזה אין שייך לומר כאלו כבר נתבעת דאין שיעור קצוב לנשואיה דדוקא בבתולה בוגרת יש זמן קצוב דרוב בתולות נישאת לזמן הבוגרת ע\"כ ה\"ל כאלו נתבעת קודם לזמן ההיא משא\"כ באלמנה אין זמן קצוב לומר דקודם לזה ה\"ל נתבעת ע\"כ חשבי' מן התביעה שאח\"כ לענין ל' יום שלה לא מן הקידושין נמצא במ\"ש בוגרת היא כתביעה דאלמנה אין הדמיון אלא לענין ל' יום לחוד לא לענין התביעה דהרי לא אמרו אלא בתביע' דמשמע כמו שהוא השיעור באלמנה אם תבע' כך הוא בבוגרת בלא תביעה אלא מן הבוגרת דאל\"כ לא היה להם לומר אלא בוגרת היא כאלמנה אבל הרמ\"ה פי' דגם לענין התביעה הם דומים ובאמת ל' הגמ' טפי מסתברא כרש\"י מטעם שזכרני וראיתי בזה דברים לומר דלרש\"י הוה גם באלמנה מיום קידושין ואינו נכון כלל מטעם שזכרנו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 56:1"
+        },
+        "2": {
+          "he": "אם י\"ב חדש  פי' בחור נושא בתולה זה דעת הרמב\"ם ולא כהטור שס\"ל דאין בבחור חילוק ואפילו נוש' אלמנה צריך י\"ב חודש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 56:2"
+        },
+        "3": {
+          "he": "או שפירס' אע\"ג דבס\"ס ס' כתב רמ\"א דעכשיו המנהג שלא לדקדק אם היא נדה מ\"מ לא נשתנ' דין זה דנימא דחייב לזונה דמ\"מ יכול לומר לא חפצתי לקחת' בזמן נדת':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 56:3"
+        },
+        "4": {
+          "he": "בין היא שיכול' לומר אינ' יכולה להיבעל ואביה יכול לומר למחר תמרוד בבעלה ותבוא אלי עד שתגדיל ואצטרך לתכשיטים אחרים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 56:4"
+        },
+        "5": {
+          "he": "ואין ראוי לעושת כן עיין סי' ל\"ז:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 56:5"
+        },
+        "6": {
+          "he": "אעפ\"י שי' חולנית זה מיירי שעכ\"פ ראויה לביאה אבל באינה ראיה לביאה לא כמ\"ש רמ\"א בסי' ס':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 56:6"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "מיום התביע'.  עבה\"ט וע' בס' טיב קדושין שכ' דיש טעות בב\"ש סק\"ב במה שנרשם ריש סעיף זה וצריך להרשים על מיום התביעה דסוף הסעיף דבהא איכא פלוגתא וצ\"ל בב\"ש כן הוא דעת הרמב\"ם ורמ\"ה ורא\"ש אבל רש\"י פי' משעת אירוסין וכ\"כ בש\"ג ופלוגתא זו היא בבוגרת שעברו עלי' יב\"ח ואח\"כ נתקדשה דלרש\"י א\"צ קביעה כלל ומונין משעת אירוסין שלשים יום ולשיטת הרמב\"ם והמחבר נותנין לה השלשים יוה מיום שתבעה ובבאר היטב העתיק כאשר היה לפניו ולא חלי ולא מרגיש עכ\"ל ע\"ש עוד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 56:1"
+        },
+        "2": {
+          "he": "נתחייב במזונותי'.  כ' בס' טיב קדושין פשוט דמעשה ידיה שלו כיון שנותן לה מזונות לא עדיפא מנשואה מיהו צ\"ע אם זוכה במציאתה כו' עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 56:2"
+        },
+        "3": {
+          "he": "אע\"פ שלא כנס.  בגליון ש\"ע דהגר\"ע איגר זצ\"ל נ\"ב ואם מת עי' בהר\"ן פ' נערה דף פ\"ג ע\"ב עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 56:3"
+        },
+        "4": {
+          "he": "ואח\"כ חלה כו' בגליון ש\"ע הנ\"ל נ\"ב ע' מהרש\"א ומהר\"ם שיף שכ' דבחלתה היא אף אחר שהגיע זמנה תליא באבעיא דש\"ס דיכול לומר הא קאימנא עי\"ש עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 56:4"
+        },
+        "5": {
+          "he": "לכנוס כדי ליורשה.  כ' הח\"מ אע\"פ שתוך שנה ראשונה צריך להחזיר הכל מ\"מ הי' מצפה שמא תמות לאחר שנה ראשונה כו' והב\"ש כתב דלק\"מ דהא היא מכנסת הנדן וא\"ח להחזיר ע\"ש. וע' בתשו' נו\"ב תניינא סי' נ\"ו דרב אחד הקשה מלעיל סי' ל\"ז סעיף י\"ג שכ' רמ\"א שם וי\"א דה\"ה אם מת האב קודם שנשאת ונשאת. וא\"כ פסק שם דאינו יורשה. ובאמת הם שני דיעות הפכים במרדכי ואיך זיכה הרמ\"א שטרא לבי תרי. והוא ז\"ל השיב דלק\"מ דלפ\"ד הח\"מ כאן דמצפה ליורשה אחר כלות שנה ראשונ' אח\"כ אפשר דמיירי שקודם כלות השנה תגדל ויגמרו הנישואין דבר תורה ובזה שהוא רק תקנה להחזיר בשנה ראשונ' שפיר סמך רמ\"א למחשב הנישואין מהיום בעודה קטנה אבל בסי' ל\"ז שם מיירי מדין תורה חשש הרמ\"א לדעת הסוברים דנישואין בעוד' קטנה לאו נישואין הם. וגם לדברי הב\"ש כאן י\"ל דרע\"א כאן לא מיירי מדין הנישואין אי מחשבי נישואין רק מיירי אם הקרובי' יכולים למחות כיון שעיקר הכוונה להפקיע הירושה מהם בזה הכריע רמ\"א שאינם יכולים למחות וי\"מ לנל הדיעות היכא שלא נתקדשה בחיי אביה כלל שיכולה להתקדש ולהנשא בעודה חולנית ובזה שגם הקידושין הם לאחר מות אביה ליכא שום פלוגתא דנישואין שלה מועילים ואפילו למאן דסובר בסי' קנ\"ה ס\"ב קטנה שנתקדשה שלא לדעת אמה ואחיה אפילו מיאון א\"צ וכאן הרי האחים מעכבים שהרי הם היורשי' מ\"מ נלע\"ד דאם נתקדשה לדעתה ולדעת אמה כ\"ע מודים דמהני אף בלא דעת אחיה ועוד י\"ל דמשכחת לה שפיר דינו של הרמ\"א כאן אפילו בקידשה אביה ומת ונשאת אחר מותו ואפ\"ה מהני הנישואין לכ\"ע וכגון שכבר היתה יתומה בחיי האב שאז קידושי האב הם דרבנן ולכ\"ע מהני נישואין אחר מותו דע\"כ לא נחלקו אלא היכא שקידושי האב היה דבר תורה שבזה ס\"ל להי\"א בסי' ל\"ז דלא מהני נישואין דרבנן כלל אבל בקידושי דרבנן ליכא פלוגתא כלל עכ\"ד. ועמש\"ל סי' ס\"א סק\"ח:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 56:5"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "נערה.  אבל אם היא קטנה עדיין יתבאר בסמוך בסעיף ד' דבין הוא ובין אביה יכולין לעכב. וקשה דהא בגמר' ילפינן דנוהגין יב\"ח משתבעו מרבקה עי' בכתו' דף נ\"ז ע\"ב והרי רבקה קטנה היתה ונשאת ליצחק בת ג' שנים כמו שפרש\"י בחומש עיין בה\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 56:1"
+        },
+        "2": {
+          "he": "התביעה.  כ\"כ הרמב\"ם. אבל הרא\"ש והרמ\"ה ס\"ל מיום אירוסין וכן פסק בש\"ג ואם עשתה ששה חדשים לפני הראשון ומת ונתארסה לאחר נותנין לה יב\"ח גם לשני ואין משלימין לה על ששה חדשים הראשונים שעשתה בפני הארוס הראשון. ואפילו עשתה יב\"ח לפני הראשון. הימים הראשונים יפלו. מיהו אם הראשון תבעה בימי הנערות ושהה יב\"ח א\"כ היא בוגרת ששה חדשים אין לה משני אלא ו\"ח דהא אם תבעה הראשון אחר שבגרה מונין גם כן משנעשה בוגרת. ונראה דאף בקטנה מהני התביעה ומונין יב\"ח מיום התביעה לעשות הנשואין בימי בוגרת עיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 56:2"
+        },
+        "3": {
+          "he": "יב\"ח וכו'.  כלומר אם היא אלמנה והוא בחור אין נותנין לו יב\"ח אלא למ\"ד יום כי אין משגיחין בו אלא בה כ\"ה דעת הרמב\"ם והר\"ן. מיהו בירושלמי אי' הוא בחור והיא אלמנה נותנים לו יב\"ח וכ\"פ הרא\"ש והטור ומה שנותנין לאיש זמן יב\"ח כדי להסחיר יב\"ח כדי לפרנס א\"ע בצרכי סעודה לחופה רש\"י פרישה וכתב בה\"י לפי שנוהגין עכשיו במדינת אלו דרובא שאבי הכלה עושה הסעודה של החופה אין נותנין לו זמן כ\"כ כיון שאבי הכלה עושה הסעודה של החופה א\"כ א\"צ לטרוח בצרכי סעודה רק בבגדיו ודברים אחרים ואין כאן טרחה גדולה כ\"כ ודי לו בזמן שלשים יום או קצת יותר לפי ראות עיני הב\"ד ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 56:3"
+        },
+        "4": {
+          "he": "נשאה.  ל\"ד הגיע הזמן שקצבו חכמים אלא אפי' הגיע הזמן שהתנו ביניהם אפילו אם היה קצר מהזמנים שנזכרו במשנה חייב במזונותיה אם אין שם אונס מהר\"י קארו בתשו' סי' י\"ב מדיני נשואין:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 56:4"
+        },
+        "5": {
+          "he": "הוא.  ואחר שעבר האונס חייב לכונסה ואם לא יכנוס חייב ליתן לה מזונות אם הוא מעבב. ובזמן הזה דאין מקדשים מיד ואינו אלא שידוכין אעפ\"י שהגיע הזמן והוא מעכב אין נוהגין ליתן לה מזונות ב\"ש בה\"י ועיין סמ\"ע סימן רכ\"ז ס\"ק י\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 56:5"
+        },
+        "6": {
+          "he": "לעכב.  וה\"ה אפטרופס יוכל לעכב הרמ\"ט ח\"א סימן שכ\"ו קטנה ששדכה אביה בקטנות' וקצב לה זמן נישואין בקטנותה ומת יוכל האפטרופוס להשיא' והיא קטנה אפי' קודם זמן שקבע לה אביה הרמ\"ט ח\"א סי' שכ\"ה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 56:6"
+        },
+        "7": {
+          "he": "כן.  ע\"ל סימן ל\"ז ס\"ח דבזמן הזה מותר ועיין בה\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 56:7"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

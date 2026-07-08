@@ -1,0 +1,637 @@
+{
+  "chelek": "EH",
+  "siman": 130,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 22,
+  "fetchedAt": "2026-07-08T00:09:00.901Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דיני עדי הגט וחתימתו ואם אינם יודעים לקרות או לחתום. ובו כב סעיפים:צריך שיחתמו שני עדים כשרים  (זה תחת זה) (במרדכי) הל' גיטין  למטה משטה אחרונה של גט ולא יניחו כדי אויר שני שיטין בין שיטה אחרונה לחתימתם: הגה ואם הניחו הגט פסול (טור) ויש חולקין ומכשירין ע\"י עידי מסירה הרמב\"ם והרמב\"ן והרשב\"א והר\"ן ואם חתם העד האחרון תחילה ואח\"כ חתם הראשון כשר אע\"פ דמתחלה היה השני חתום שני שיטות מן הגט (סדר גיטין) ומ\"מ לכתחלה לא יעשו כי\"א דלכתחלה אין לחתום בגט אפי' קרוב ונתרחק או מחותנים בעלמא (בסדר הגט בשם מהרי\"ל) וטוב \") להדר אחר הסופר שלא יהיה קרוב לאיש ולאשה אבל היכא דלא אפשר אין קפידא בדבר (מהרי\"ק ק\"ו) ולא יהא אחד מן העדים חשוד בעריות ויש מחמירין שלא יהיו בעל מום ושלא יהיו העדים קרובים לסופר וכולם לא יהיו קרובים לרב המסדר הגט וטוב לחוש לכל זה לכתחלה (כ\"ז בסדרים) גם נוהגין ליקח עידי חתימה לעידי מסירה והם יראו שהבעל צוה לסופר לכתוב כדי שיהיה הכל נעשה בפני כת אחד של עדים (במרדכי הל' גיטין ובסמ\"ג) ולא יחתמו העדים רק בדיו וקולמוס של בעל כמו הסופר (בסדרים) וכמו שנתבאר לעיל ריש סי' ק\"ך:",
+      "en": "One needs to sign [get] in front of two kosher witnesses, and they should sign one signature under the other (Mordechai Halachos Gitin), both under the last line of the get. But don't leave space that is two lines worth of space between the last line [of the get] and their signature. If they place it so [see statement above], the  get  is void (Tur). There are those who disagree, and say that it is still made kosher by the witnesses [those who see that the man gave the get] (Rambam). If the second witness signs first, and the first witness signs after, it is still kosher, even though from the beginning, there were two signatures, two lines away from the  get  (Gittin). Nevertheless, initially, you shouldn't do so.  If you say that initially, one should not sign the  get  if they have been related and now distanced, or if you were the matchmaker (Seder HaGet Bisheim Maharil).  It's good to praise the scribe, so the scribe will not come close to the man and his wife, but when this is impossible, you need not be stringent (Maharik 106). And none of the witnesses may be suspects of adultery. There are those that are stringent that he [the witness] cannot have a blemish, and he should not be related to the scribe, and none of the witnesses may be related to the Rabbi officiating the  get , and it's also good to be suspicious of all this from the beginning.  Also, it is customary to take signers and the witnesses to see that the husband commanding the scribe to write [the  get ], so all this will be in the presence of one group of witnesses (Mordechai Halachos Gittin and in the Smag). And the witnesses shouldn't sign unless it is [they are signing] with the quill and ink of the husband, like the scribe, as was explained earlier in the beginning of the  siman .",
+      "ref": "Shulchan Arukh, Even HaEzer 130:1"
+    },
+    {
+      "seif": 2,
+      "he": "יתחיל בראש שיטה שלא ישאר חלק בגליון הגט לפני חתימתן:",
+      "en": "He shall start at the beginning of a line: no blank space shall be left in the margin before their signature[s].",
+      "ref": "Shulchan Arukh, Even HaEzer 130:2"
+    },
+    {
+      "seif": 3,
+      "he": "לא יהיה בין הגט לחתימת העדים כתוב דבר שאינו מענין הגט ואם כתוב כן כגון שכתוב שאלו בשלומה פסול שמא לא חתמו אלא על שאלת שלום אבל אם כתב ושאלו  (בשלומה)  כשר שהיא מדובק עם של מעלה ועל הכל חתמו:",
+      "en": "Between the text of the get (writ of divorce) and the signature of the witnesses there should be nothing written which is not relevant to the get.  And if there is something written there, such as \"inquire as to her welfare,\" the get is invalid, for maybe the witnesses only signed on to the welfare inquiry [and not the get]. But if he wrote \"and inquire as to her welfare,\" the get is valid, for the phrase is attached to the text above, and the witnesses signed on everything.",
+      "ref": "Shulchan Arukh, Even HaEzer 130:3"
+    },
+    {
+      "seif": 4,
+      "he": "חתמו בראש הגט או מצידו או בימינו או בשמאלו או מאחריו פסול:",
+      "en": "If they signed at the top of the get (writ of divorce) or its side, the right or the left or the reverse side, it is invalid.",
+      "ref": "Shulchan Arukh, Even HaEzer 130:4"
+    },
+    {
+      "seif": 5,
+      "he": "אף כשחותמין למטה צריך שיהיה גב החתימה כלפי הגט ואם היו רגלי החתימה כלפי הגט פסול:",
+      "en": "Even when the witnesses sign at the bottom [of the get], the signatures must be oriented such that the back of the signature (i.e. top of the letters) faces the text of the get. If the feet of the signature face the get, the get is invalid.",
+      "ref": "Shulchan Arukh, Even HaEzer 130:5"
+    },
+    {
+      "seif": 6,
+      "he": "כל אלו שאמרנו פסול אם יש כאן עידי מסירה כשר:",
+      "en": "[Regarding] all of these gets (writs of divorce) which we have labeled invalid, if there are witnesses to the handing over of the get [to the woman], the get is valid.",
+      "ref": "Shulchan Arukh, Even HaEzer 130:6"
+    },
+    {
+      "seif": 7,
+      "he": "שייר מקצת הגט וכתבו בדף השני והעדים מלמטה בסוף הדף השני כשר והוא שיהיה במגילה שניכר שלא נחתך ושלכך נתכוין הסופר שישלים בדף השני אבל אם אינו ניכר אע\"פ שנמסר בעדים הרי זו ספק מגורשת שמא שני גיטין היו ונחתך מקצת זה מסוף הדף ומקצת השני מראש הדף: הגה מיהו אם יש עדים שגט אחד היה מתחלה ונמסר לה בעדים כשר (המ\"מ פ\"ד) דבק שני עורות ביחד ע\"י דבק וכתב עליהם גט פסול מספק:",
+      "en": "If he left over some of the bill of divorce and wrote it on a second page, and the [signatures of] the witnesses are below at the end of the second page, it is valid.  This is true for a scroll, because it is recognizable that it was not split, and that the scribe intended to finish it on the second page.  However, if this is not recognizable, if it was delivered by witnesses, there is doubt whether she is divorced, as there may have been two bills of divorce and part was split from the end of the page and part was split from the beginning of another page.  Rem\"a:  However, if there are witnesses that it was originally one bill of divorce, and it was delivered with witnesses, it is valid (Hagahot Maimoni 4).  If he joined two skins with glue, and wrote a bill of divorce on them, they are invalid due to doubt (A\"Z).",
+      "ref": "Shulchan Arukh, Even HaEzer 130:7"
+    },
+    {
+      "seif": 8,
+      "he": "כתב שני גיטין בב' דפין במגילה אחת זה אצל זה והעדים מתחת זה לתחת זה ששם העד תחת הראשון ושם אביו תחת הב' וכן העד הב' תחתיו את ששמות העדים חתומים תחתיו כשר ואם כתב ראובן בן תחת הראשון יעקב עד תחת השני פסול השני ואם כתב ראובן תחת הראשון ובן יעקב עד תחת השני אף השני כשר: הגה ואם נמסר בעדים ליד אותה שאין עליו עדים כשר בדיעבד דהא לא גרע מאלו לא היו עליו עדים כלל (ב\"י בשם הרמב\"ם) וע\"ל סי' קל\"ג:",
+      "en": "If he wrote two divorce documents with two pages in one scroll, one near the other, and the witnesses go from beneath one to the other, in that the name of the witness is under the first and his father ['s name] is under the second, and so is the second witness beneath him, the one that the names of the witnesses are written beneath it is valid. And if he wrote \"Reuven son of\" under the first and \"Yaakov [the] witness\" under the second, the second is disqualified. And if he wrote \"Reuven\" under the first and \"son of Yaakov [the] witness\" under the second, the second is also valid. gloss: And if it was passed with witnesses next to the one that does not have witnesses, it is valid post factum, for it is not worse than if it did not have witnesses on it at all (Bet Yosef in the name of RaMbaM) and see later section 133:",
+      "ref": "Shulchan Arukh, Even HaEzer 130:8"
+    },
+    {
+      "seif": 9,
+      "he": "ה' שכתבו גט א' לחמש נשותיהם אם כתבוהו בכלל כגון שכתבו בו כך וכך לשבת גירש פלוני לפלונית ופלוני לפלונית וכן אמר כל א' מהם לאשתו ליכי דיתיהוייין וכל טופס הגט והב' עדים חותמים מלמטה ה\"ז גט כשר וינתן לכל אחת בעידי מסירה ואם אין שם עידי מסירה כל מי שתצא מגילה זו מתחת ידה מגורשת אבל אם כתב בכך בשבת גירש פלוני לפלונית והשלים הגט והתחיל תחתיו גט אחר באותה מגילה וכתב וביום זה גירש פלוני לפלונית והשלים הגט השני וכן עד שהשלים כל הגיטין והעדים מלמטה אם נתנה מגילה זו לכל אחת מהן בעידי מסירה הרי כלם מגורשות ואם אין שם עידי מסירה והיתה מגילה זו יוצאה מתחת יד אחת מהן אם היתה זו שגיטה באחרונה שהעדים נקראים עמו הרי זו מגורשת ואם היתה המגילה יוצאת מתחת יד אחת מן הראשונו' ה\"ז ספק מגורשת: הגה וכל זה שכתב ופלוני ופלונית וכו' אבל אם כתב בשני וכן באחרים פלוני לפלונית אינו כשר רק האחרון (טור):",
+      "en": "[In the case of] five [men] who wrote a single Get (divorce document) for their five wives: if they wrote it collectively, for example, they wrote \"On day such-and-such of the week, so-and-so divorced so-and-so and so-and-so divorced so-and-so, and as well each one said to his wife 'This will be for you...' \" and the entire formula of the Get, and two witnesses sign beneath, then it is a valid Get and it should be given to each [wife] with witnesses of the transfer [of the Get]. If there are no witnesses of the transfer, then whoever is in possession of the document is divorced.  However, if he wrote, ''On day such-and-such of the week so-and-so divorced so-and-so...\" and he finished the Get and began the next Get underneath in the same scroll, and wrote \"And on that day so-and-so divorced so-and-so...\" and finished the secccond Get, and so on until he finished all of the Gittin (pl. of Get), and the witnesses [sign] underneath, then if this document was given to each [wife] with witnesses of the transfer, then they are all divorced.  If there are no transfer witnesses, and one of the women is in possession of this document, then if it is the one whose Get is last, such that the witnesses [signatures] are read along with it, then she is divorced. And if one of the others was in possession of this document, then she is doubtfully divorced. Comment [by the Rama]: All this is in a case where he wrote \"And so-and-so [divorced] so-and-so\". But if he wrote in the second, or in any other one, \"So-and-so [divorced] so-and-so\", then only the last one is valid (Tur).",
+      "ref": "Shulchan Arukh, Even HaEzer 130:9"
+    },
+    {
+      "seif": 10,
+      "he": "כתב אני פלוני ופלוני גירשנו נשותינו פלונית ופלונית והשלים הגט אע\"פ שנמסר לכל אחד מהן בעדי מסירה אינו גט שאין ב' נשים מתגרשות בגט א' שנאמר וכתב לה ולא לה ולחברתה חזר ופרטן בתוך הגט וכתב פלוני גירש פלונית ופלוני גירש פלונית בזמן הזה הרי אלו כשרים:",
+      "en": "If he wrote: We so and so and so and so have divorced our wives so and so and so and so, and completed the divorce document, even though it was given to every one of them with witness of the transfer of the divorce document, it is not a valid divorce document, because to women can not be divorced with one document, as it is said (in the Torah): \"and he wrote for her\" (Deut. 24) and not for her and her peer. (However,) if he repeated and specified them (i.e. the couples being divorced) in the divorce document, and (thus) wrote: so and so has divorced so and so and so and so has divorced so and so at this time, such a divorce document is valid.",
+      "ref": "Shulchan Arukh, Even HaEzer 130:10"
+    },
+    {
+      "seif": 11,
+      "he": "כשחותם העד צריך לכתוב שמו ושם אביו כגון יוסף בן יעקב עד כתב יוסף עד או בן יעקב עד או יוסף בן יעקב ולא כתב עד כשר: הגה י\"א מאחר דסגי אם כתב יוסף עד א\"כ בן יעקב לא צריך למכתב ואם טעה או שינה בו אין לפסול (ת\"ה סימן רכ\"ח) וכמו שנתבאר לעיל סי' קכ\"ח בכיוצא בזה ואין לסמוך ע\"ז רק בשעת הדחק ובמקום עגון (וע\"ל סי' קכ\"ח) עד שיש לו ב' שמות כיצד יחתום עצמו ואין העד צריך לחתום עצמו בחניכתו (שם סי' רל\"ד) אפי' לכתחלה גם לא יחתום עצמו או אביו בשם רב או חכם רק פלוני ב\"פ עד (סדר גיטין) וכל דבר שיש בו קצת ספק כיצד כותבין אין ראוי לכתחילה לחתמו כי אין ליכנס לספיקות לכתחילה בלא צורך (ד\"ע) ולכן אין חותמין לעד מי שאביו מומר כמו שנתבאר לעיל סימן קכ\"ט וה\"ה לכל כיוצא בזה (ולכתחלה נזהרין בחתימת העדים בכל דבר שנזהרין בכתיבת הגט הן דבעינן כתיבה תמה ומוקף גויל) (ב\"י בשם הקונטריס) וכל כיוצא בזה:",
+      "en": "When the witness signs he must write his name and his father's name, such as \"Yosef son of Yaakov witness\". If he wrote: \"Yosef Witness\", or \"son of Yaakov witness\" or \"Yosef son of Yaakov\" but did not write \"witness\" it is valid. ReM\"A Note: some say that since it is sufficient if he wrote \"Yosef witness\", if so it is not necessary to write \"son of Yaakov\" and if he made a mistake or changed it, it [the signature] should not be invalidated. (Trumas HaDeshen Siman 228) as will be expounded upon in Siman 128 etc; and one should not rely on this except in times of dire need and in a situation of Iggun [a case of an abandoned wife, where we suspect that the women will be unable to obtain a divorce otherwise]. See Siman 128 [regarding] how a witness who has two names should sign. A witness need not include his nickname with his signature (sic, Siman 234) even in the best case scenario [meaning: as opposed to being preferable to include one's nickname, but if one didn't it would not invalidate the signature]. Also, one should not sign his name or his father's name with a title such as \"Rabbi\" or \"Wise\" [sephardic term for \"Rabbi\"] rather he should write only \"so and so son of so and so witness\" (Seder Gittin). Anyone about whom there is some doubt regarding how to write [his name properly], it is unfit to have him sign in the first place, as it is not fitting to get into such doubts in the from the start (author's own opinion); therefore, we do not have someone who's father is a sinner sign as a witness, as will be expounded upon in Siman 129, and likewise all other such situations. And in preferable circumstances we are careful with the witnesses signatures with everything which we are careful with in the writing of the bill of divorce, namely, proper writing and separate letters and alike. (Beit Yosef citing an anonymous composition).",
+      "ref": "Shulchan Arukh, Even HaEzer 130:11"
+    },
+    {
+      "seif": 12,
+      "he": "אבל כתב יוסף לבד ולא כתב עד פסול  (וכ\"ש אם כתב בן פלוני ולא כתב עד דפסול) (ב\"י):",
+      "en": "If the witness signed \"Yosef\" only and did not add \"witness\", it is invalid. Rama: And certainly if he wrote \"the son of so-and-so\" without adding \"witness\", it is invalid (Beit Yosef).",
+      "ref": "Shulchan Arukh, Even HaEzer 130:12"
+    },
+    {
+      "seif": 13,
+      "he": "עידי הגט אין חותמים אלא זה בפני זה ואם חתמו זה שלא בפני זה פסול וי\"מ אם חתמו שנים זה בפני זה והשלישי שלא בפניהם (טור בשם ר\"ת):",
+      "en": "The witnesses must both sign in front of the other.  If each signed separately, it is invalid. Rama: Some authorities validate a get in which the first two witnesses signed in front of each other and the third witness signed separately (Tur in the name of Rabbenu Tam).",
+      "ref": "Shulchan Arukh, Even HaEzer 130:13"
+    },
+    {
+      "seif": 14,
+      "he": "גט שנכתב בכתב מהלשונות ועדיו חתומים בכתב אחר כשר והוא שיהיו העדים מכירים לשון הכתב והכתיבה.",
+      "en": "A get written in the script of one languages, whereas its witnesses sign in a different script, is valid, as long as the witnesses are familiar with the language of the writing and its script.",
+      "ref": "Shulchan Arukh, Even HaEzer 130:14"
+    },
+    {
+      "seif": 15,
+      "he": "א' מהעדים חתם בכתב לשון א' והעד השני בכתב לשון אחר כשר:",
+      "en": "If one of the witnesses signed in one language and the second one signed in another language, it is valid.",
+      "ref": "Shulchan Arukh, Even HaEzer 130:15"
+    },
+    {
+      "seif": 16,
+      "he": "העדים שחותמין על הגט צריכים להיות יודעים לקרות ולחתום ואם אינם יודעים לקרות קוראים בפניהם וחותמין והוא שיכירו לשון הגט ואם אינם יודעים לחתום רושמים להם הנייר ברוק וכיוצא בו מדבר שאין רשומו מתקיים והם כותבין על הרושם: הגה ויש אוסרין לעשות כך לכתחלה אלא מקרעין נייר חלק לפניהם והם חותמין דרך הקרע (טור בשם הרמ\"ה):",
+      "en": "The witnesses that sign a writ need to know how to read and how to sign.  If they do not know how to read, we read to them and they then sign, provided that they understand the content of the writ.  If they do not know how to sign, we mark the paper with saliva et al, such that the mark is temporary, and they trace the mark.  Rem\"a: Some authorities forbid this practice a priori.  Instead we tear blank paper for them [into a stencil of their signatures] and they trace the stencil.",
+      "ref": "Shulchan Arukh, Even HaEzer 130:16"
+    },
+    {
+      "seif": 17,
+      "he": "גט שחתמו בו עדים פסולים אפי' אחד פסול ואחד כשר הרי זה פסול אפי' יש כאן עידי מסירה שהרי הוא מזוייף מתוכו:",
+      "en": "If a writ that signed by disqualified witnesses, even if one is disqualified and the other is acceptable, it is invalid.  Even if [qualified] witnesses are present at the delivery of the writ, [it is invalid] because it is internally forged.",
+      "ref": "Shulchan Arukh, Even HaEzer 130:17"
+    },
+    {
+      "seif": 18,
+      "he": "יש ליזהר שלא לחתום הסופר לעד מפני שיש פוסלין:",
+      "en": "It is best for the scribe to not sign as one of the witnesses, as some authorities disqualify this.",
+      "ref": "Shulchan Arukh, Even HaEzer 130:18"
+    },
+    {
+      "seif": 19,
+      "he": "גט שנעשה בערכאות של כותים ועידי כותים חתומין עליו אפי' כתבו ישראל ונמסר בעידי מסירה ישראל ושמות עדים הכותים החתומים בו מובהקים וניכרים לכל שהם כותים דליכא למיחש דילמא אתי למסמך עלייהו אפ\"ה פסול אבל אשה שמביאה לפנינו גט שנתגרשה בו לינשא בו ושמות העדים כשמות כותים אם הם שמות שאין דרך ישראל לקרות בהם כלל תנשא בו שודאי ישראל הם שלא היו טועים מחתומי הגט להחתום שמות כאלו אם לא שידעו שישראלים הם ואם הם שמות שדומין קצת לשמות ישראל חיישינן שמא טעו מחתימי הגט שסברו שהם ישראל ושמא כותים הם ולא תנשא בו:",
+      "en": "If a writ was produced under the auspices of a Samaritan court, and Samaritan witnesses are signatories on it, even if it was written by a Jew and delivered in the presence of Jewish witnesses, and the names of the Samaritan signatories are clearly identifiable as Samaritan (such that there is no concern that they might be [illegitimately] relied upon), it is still invalid.  If, however, a woman brought a writ that served for her divorce and she now wishes to remarry, and the signatories names appear Samaritan - if the names are never used by Jews at all, she may remarry, because they are certainly Jews, as the arrangers of the writ would not have mistakenly allowed people with these names to sign unless they were certain that they were Jews.  If the names are somewhat similar to Jewish names, we are concerned that arrangers of the writ may have mistaken them for Jews, though they are really Samaritans, and she may not remarry.",
+      "ref": "Shulchan Arukh, Even HaEzer 130:19"
+    },
+    {
+      "seif": 20,
+      "he": "נתן לה הגט בינו לבינה ואפילו בעד אחד אינו גט בד\"א כשהיה הגט בכתב יד הסופר אבל אם כתב הבעל הגט בכתב ידו וחתם עד א' ונתנו לה ה\"ז גט פסול ופוסל לכהונה:",
+      "en": "If a man gave his wife a writ privately, or even in the presence of one witness, it is not considered a writ.  This is the case if the  writ is in the scribes handwriting.  If the husband wrote the writ in his hand and one witness signed and he gave it to her, it is a invalid writ, and it disqualifies her from marrying a Kohen.",
+      "ref": "Shulchan Arukh, Even HaEzer 130:20"
+    },
+    {
+      "seif": 21,
+      "he": "לא יטלו עידי הגט שכר יותר מכדי שכר בטלה דמוכחת: הגה וי\"א דמתנין עם העדים שאם יקלקלו הגט שישלמו אותו ומכח זה מותר לקבל שכר הרבה או מטעם דהעדים אסורים לישא הגרושה (בסדר גיטין בשם מהרז\"ך) כמו שנתבאר לעיל בסי' י\"ב וכן נוהגין:",
+      "en": "The witnesses on a writ should not take any more payment than their apparent opportunity cost.  Rem\"a: Some authorities say that we stipulate with the witnesses that if they damage the writ they must pay for it, and with this proviso they may take a large fee, or perhaps [they may take a large fee to compensate for the fact that] the witnesses may not marry the woman who is divorced [with this writ] as is explained earlier (Shulchan Arukh, Even HaEzer 12), and this is our common practice.",
+      "ref": "Shulchan Arukh, Even HaEzer 130:21"
+    },
+    {
+      "seif": 22,
+      "he": "יש מי שאומר שצריך שייבש הגט קודם שיחתמו העדים:",
+      "en": "Some authorities say that the ink on the writ must dry before the witnesses sign.",
+      "ref": "Shulchan Arukh, Even HaEzer 130:22"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה גיטין דף פו ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:1"
+        },
+        "2": {
+          "he": "זה פשוט וכשרות' ופסלות' נתבארו בח\"מ סימן לג לד לה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:2"
+        },
+        "3": {
+          "he": "משנה שם מ\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:3"
+        },
+        "4": {
+          "he": "ברייתא ב\"ב דף קס\"ב ע\"ב ושיעור רוחב הב' שיטין נתבאר בח\"מ סימן מהן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:4"
+        },
+        "5": {
+          "he": "בפ\"א מהלכות גירושין",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:5"
+        },
+        "6": {
+          "he": "טור וכ\"כ התוס' שם ע\"ב והגהת מיי' בפ\"ח ונתבאר בח\"מ סימן מה ובש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:6"
+        },
+        "7": {
+          "he": "ברייתא גיטין דף סז ע\"א וכדאמר ר' אבהו וכו' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:7"
+        },
+        "8": {
+          "he": "כן הוא ברמב\"ם וטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:8"
+        },
+        "9": {
+          "he": "משנה שם ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:9"
+        },
+        "10": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:10"
+        },
+        "11": {
+          "he": "טור בשם הרמב\"ם בפ\"ד מהלכות גיטין",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:11"
+        },
+        "12": {
+          "he": "שם ושם ממשנה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:12"
+        },
+        "13": {
+          "he": "כאוקימתא דרב אשי שם דף פח ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:13"
+        },
+        "14": {
+          "he": "לשון הטור ממשנה שם דף פ\"ז ע\"ב והשמיט הטור וגם הרמב\"ם דין שני עדים יוני' וכו' השנוי שם במשנה משום דלא שכיחא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:14"
+        },
+        "15": {
+          "he": "אוקימתא דמתני' בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:15"
+        },
+        "16": {
+          "he": "כמ\"ש לקמן סעיף יא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:16"
+        },
+        "17": {
+          "he": "שם פ\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:17"
+        },
+        "18": {
+          "he": "לשון הרמב\"ם שם בפ\"ד ממשנה שם דף פו ע\"ב וכדמפרש רבי יוחנן דקי\"ל דהלכתא כוותיה לגבי ר\"ל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:18"
+        },
+        "19": {
+          "he": "כ' ה\"ה פשוט הוא שכיון שאנו אומרי' שהעדי' חותמין על הכל וכולן מתגרשות במגילה זו הרי הוא כשאר גיטין דעלמא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:19"
+        },
+        "20": {
+          "he": "גם בזה כ' שפשוט הוא מטעם הנזכר",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:20"
+        },
+        "21": {
+          "he": "כרבי יוחנן שם ומכשיר רבינו כולן בעידי מסירה דלא גרע אם לא היו שם עדים חתומי' כלל ואין כאן חשש שטר מוקדם שאמרו בגמרא ה\"ה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:21"
+        },
+        "22": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:22"
+        },
+        "23": {
+          "he": "מהא דאיתא שם חיישינן שמא על ששאלה שלום חתמו וכן הוא ספק אם חתמו על הכל או על האחרון בלבד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:23"
+        },
+        "24": {
+          "he": "קאי אריש הסעיף ואיירי בדלא כ' בנוסח הנ\"ל אלא לכל אחד נוסח בפני עצמו כמ\"ש הטור וכמ\"ש הב\"י לפרש דברי הרמב\"ם בדרך זה ולא זכיתי לספרו הגדול ד\"מ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:24"
+        },
+        "25": {
+          "he": "שם מהא דאמר רבינא לרב אשי וכו' שם ואע\"פ שסוגיא זו נאמרה לתרץ דברי ר\"ל סובר רבינו שדין זה אמת דהא רבי יוחנן מיקל טפי וכו' ה\"ה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:25"
+        },
+        "26": {
+          "he": "בדרך שנתבאר לעיל שתנתן לכל אחת בעידי מסירה וכו' ה\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:26"
+        },
+        "27": {
+          "he": "משנה שם ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:27"
+        },
+        "28": {
+          "he": "מהא דמשני בגמרא שם ע\"א דלא כ' עד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:28"
+        },
+        "29": {
+          "he": "מימרא דרב פפא וכו' וכדמפרש רב אשי טעמא שם דף י' ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:29"
+        },
+        "30": {
+          "he": "משנה שם דף כז ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:30"
+        },
+        "31": {
+          "he": "הרמב\"ם שם בפ\"ד מהירושלמי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:31"
+        },
+        "32": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:32"
+        },
+        "33": {
+          "he": "לשון הרמב\"ם פ\"א מה\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:33"
+        },
+        "34": {
+          "he": "אוקימתא דברייתא וכמה עובדי שם דף י\"ט ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:34"
+        },
+        "35": {
+          "he": "פי' ה\"ה שיכירו באיזה לשון נכתב אם עברית או יונית או שאר לשונות ואע\"פ שאינן מביני' הלשון ומודיעין להם שזה שטר גט הוא דבר הכיר' בין איש לאשתו והוכיח בראיות וכפי' הא' שכ' המחבר בב\"י וגם שם בכ\"מ לא הזכיר הפי' הב'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:35"
+        },
+        "36": {
+          "he": "כרב פפא שם ע\"א ובגיטין דוקא ולא בשאר שטרות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:36"
+        },
+        "37": {
+          "he": "כרב שם דתניא כוותיה שם צ\"ב וכפירושו בהא דמקרעין וכ\"פ ר\"ח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:37"
+        },
+        "38": {
+          "he": "מעובדא דההוא מתניתא סנהדרין דף פח ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:38"
+        },
+        "39": {
+          "he": "טור בשם הרא\"ש וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:39"
+        },
+        "40": {
+          "he": "תו' בגיטין דף סו ע\"ב והרבה מן הפוסקי'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:40"
+        },
+        "41": {
+          "he": "משנה שם דף י ע\"ב וכת\"ק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:41"
+        },
+        "42": {
+          "he": "שם אליבא דר\"ש דמכשיר דקי\"ל כת\"ק דפוסל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:42"
+        },
+        "43": {
+          "he": "כדפשט ר\"י לר\"ל שם די\"א ע\"ב כפי' הרשב\"ם הביאו שם הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:43"
+        },
+        "44": {
+          "he": "משנה שם דפ\"ו ע\"א וכאוקימתא דגמ' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:44"
+        },
+        "45": {
+          "he": "בהלכות גט דמרד' בשם א\"ז מה' דקרנ' כתובות דק\"ה ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:45"
+        },
+        "46": {
+          "he": "כך כתב בקונדריסי' עיין בס\"ס קל\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 130:46"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "ואם הניחו הגט פסול זה דעת הראב\"ד שכתב הטור וז\"ל כי שמא תתן תנאי בגט באותן ב' שיטין ותוציא גיטה בעידי חתימה ונמצא זה כמזויף מתוכו דעתו למימר שסומכין על עידי חתימה עכ\"ל נ\"ל פרושו דודאי כל מאן דסמיך על עידי חתימה ודאי שפיר עביד דאמרינן מסתמא נמסר כהלכתו כמבואר בסי' קכ\"ד דכל שנכתב ונחתם כמצותו אמרי' מסתמא נמסר כהלכתו אלא דכאן כ\"ז שיש אויר פנוי ב' שיטין והוא פסול אז אין לסמוך על עידי חתימה כיון שהגט עצמו מזויף שלא נחתם כהלכה וא\"כ אין היתר אלא על ידי עידי מסירה דהיינו שתביא אותם לב\"ד המתירים אותה להנשא במקום אחר ויש לחוש שלא תוכל להביאם לעידי מסירה לשם ותעשה תחבולה להנשא ע\"י חתימה דהיינו שתכתוב תנאי בגט במקום הפנוי באופן שתמלא המקום הפנוי ואם יבא הגט אחר כך לכל מקום שתהי' שם יתירוה להנשא ע\"פ עידי החתימה כי לא יהי' ריעות' לפניהם ואין פסול מכח התנאי כי תעשה בענין שתקיים התנאי וכ\"ת מה בכך הא עכ\"פ שפיר תנשא מכח עידי מסירה שהיו שם באמת לזה אמר שיש חשש שכאן שיודעין שגט זה היה פסול מצד עידי חתימה כי הי' פנוי ב' שיטין וישמעו שבמקום אחר התירוה להנשא ולא ידעו כאן שהאשה מילאה המקום הפנוי ויסברו האנשים במקום הגט שאותן הב\"ד שבמקום אחר סמכו על החתימות אע\"פ שחתמו בפיסול וילמדו מזה לסמוך על עידי חתימה אלו אע\"פ שפסולים והב\"י כ' שיש להגיה דאתי למסמך במקום דאתי למימר שסומכין ולדידי הכל ניחא בס\"ד. והנה מזה יתבאר לך סתירה על מ\"ש ב\"י בשם רשב\"ץ וז\"ל גט שחתם בו העד יוסף בן ראובן וטעה וחתם יוסף בן שמעון וחזר אח\"כ וחתם יוסף בן ראובן יראה שהגט פסול שחתימת זה העד אינו בעולם ואין לך מי שיקיים אותה וא\"כ ה\"ל כמזויף בתוכו וכיון שהחתימה פסולה הגט פסול כיון שהחתימה פסולה היא קודם חתימות שמו האמיתי עכ\"ל וקשה דאמאי לא נימא דהוה כמו מלאוהו בקרובים דכשר בח\"מ סי' מ\"ה מטעם דא\"א לזייף ולכתוב שם איזה תנאי ה\"נ מהני הך חתימה פסולה לזה ואין הגט פסול בשביל חתימה פסולה הקודמת דאדרבא היא מהני לבטל מקום הפנוי וכן משמע מדכ' בסעיף ג' לא יהיה בין גט לחתימת עדים כתוב שום דבר והטעם בטור דשמא לא כוונו העדים לחתום אלא על אותו דבר כו' וכאן בחתימה מוטעת אין שייך לומר כן: (דברי המגיה כ' ב\"ש ס\"ק ג' אם טעה העד וחתם יוסף בן שמעון ואביו היה שמו ראובן וחזר וחתם יוסף בן ראובן כ' ב\"י בשם הרמב\"ם דפסול דחתימה זו יוסף בן שמעון אינו בעולם א\"כ ה\"ל כמזויף מתוכו ואין לדמות דין זה למ\"ש בח\"מ סי' מ\"ה אם חתמוהו פסולים למלוי דכשר כי בגט לא אמרי' למלוי חתמו כמ\"ש סי' ק\"ך בשם תוס' ובט\"ז מדמה דין דכאן לדין דשם ואנ\"ל עכ\"ל והנה בתוספות דגיטין דף י\"ח כתבו הטעם דלא אמרי' בגט למלוי חתמו משום דעידי הגט אין חותמין זה בלא זה סברו שהראשונים הם עיקר עדות לפי שחתמו ראשונים בפני כל העדים אבל בשאר שטרות כשרואים שקרובים חתומים תחלה יאמרו אות' שמצא תחלה החתימו תחלה או אחרי כן חתמו למלוי עכ\"ל והנה זה שייך דוקא בחתם בעדים פסולים דאז איכא למיחש שעשה הפסולים לעיקר העדות אבל בטעה וחתם חתימה שאינה בעולם ליכא למיחש כלל שיאמרו שעשאן לעיקר עדות כיון שאינן בעולם כלל ומסתמא יאמרו שטעה או למלוי חתם כן ודומה לשאר שטרות כיון דליכא למיחש למידי ויפה דימה הט\"ז והוא לא דק עכד\"ה):",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 130:1"
+        },
+        "2": {
+          "he": "או מאחריו פסול כתב מו\"ח ז\"ל ומיהו נראה דהיינו כשסיומו של הגט בדף הראשון והעדים בלחוד חתומים מאחריו דה\"ל כגט שאין עליו עדים כלל אבל כשנכתב עד סוף דף הראשון ולא סיימו וכתב מקצתו הנשאר בדף השני מאחוריו והעדים תחתיו הגט כשר דלא גרע משייר מקצתו וכ' בדף השני כו' עכ\"ל ול\"נ דפסול הוא חדא שהרי פרש\"י במשנה פ' ג\"פ על פשוט שעדיו מאחוריו דפסול הוא כיון שלא עשה כתקנת חז\"ל שהצריכו דוקא מתוכו. ותו שהרי התוס' כתבו שם ריש הפרק דטעם פשוט שכתבו עדיו מאחוריו פסול משום שמא יעשנו מקושר ויהיה השטר מוקדם עכ\"ל פי' דבמקושר הוה הזמן מאוחר בכל גט שנה אחת מפשוט כדאי' שם בגמרא מקושר מלך שנה מונין שתים וא\"כ אין מועיל כלום מה שנכתב באחוריו מקצתו דאכתי יעשנו מקושר ויאמרו שלא הספיק לכתוב בדף הראשון כמו שאתה מכשיר בפשוט בזה אלא פשוט שאין היתר כלל לכתוב מקצת הגט ע\"צ השני מאחוריו ול\"ד ודאי לשייר מקצת וכתבו באותו דף בעמוד שני שכן דרך כל הספרים לכתוב בדרך זה ונראה טעם לזה דחשבי' דמה שכתוב בעמוד השני כאלו נחתך ונתדבק בסוף עמוד הא' דהא אפשר לעשות כן ואף למ\"ש רמ\"א סעיף ז' דיבק ב' עורות כו' פסול מספק מ\"מ הכא באמת לא דיבק אלא אנן חשבינן ליה כמדובק בזה תחת זה ממש ביחד משא\"כ מאחוריו שאין לו צירוף כלל עם הכתוב בפנים שכל זמן שאתה רואה עמוד זה אין אתה יכול לראות מ\"ש בדף השני מאחוריו וספר אחר אמר רחמנא דמשמע שאתה רואה כל מ\"ש בו בפעם אחת כנ\"ל ברור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 130:2"
+        },
+        "3": {
+          "he": "אם יש כאן עידי מסירה כשר ל\"ד למ\"ש בסעיף א' דאם הניחו אויר ב' שיטין דלא מהני עידי מסירה לחד דיעה דהיינו הראב\"ד דהתם יש חשש תחבולה שתמלא המקום הפנוי בתנאי כמו שביארנו לעיל וע\"כ יתירוהו לינשא במקום אחר ע\"פ עידי חתימה משא\"כ בזה דלא יתירוה בשום מקום בגט זה כ\"א שתביא עידי המסירה לפניהם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 130:3"
+        },
+        "4": {
+          "he": "שייר מקצת הגט מו\"ח ז\"ל למד מכאן דא\"צ הגט להיות מעורה והאריך בו וכבר כתבתי מזה ס\"ס קכ\"ה דאינו ראיה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 130:4"
+        },
+        "5": {
+          "he": "ונמסר לה בעדים זה דעת הרב המגיד ומו\"ח ז\"ל רוצה להקל אפי' בלא מעידים שהיו עדי מסירה אלא סגי אם מעידים שהסופר כתבו מתחלה כך ולא היה בעולם שום זיוף כשר והאמת כדברי הרב המגיד דאף ע\"פ שלא נעשה כאן זיוף באמת מ\"מ הוא כתוב בצורה שיש בו חשש זיוף וחתימ' העדים אלו לא היו כיון שחתמו שלא כדין ובמה תהיה האשה ניתרת אלא בעינן שיהיו עידי מסירה דכאן אין זיוף ממש אלא יכול לזייף ומ\"ה בטלו חתימות העדים ועיין מה שכתב סימן קכ\"ד וסימן ק\"ג:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 130:5"
+        },
+        "6": {
+          "he": "דבק ב' עורות כו'  נראה דטעם הספק דשמא אתמעט מדקי\"ל ספר א' אמר רחמנא ותמוה לי דהא גם ס\"ת איקרי ספר ומ\"מ כשר בדבוק יריעות וצ\"ע:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 130:6"
+        },
+        "7": {
+          "he": "ושם אביו תחת השני בזה הימני כשר וכ' הטור ואם שם העדים תחת השמאלי ושם אביהם תחת הימני כגון שחתמו בשני שיטין פי' כזה אז השמאלי כשר וכן פרש\"י בהמגרש דפ\"ז שמו בסוף השיטה ושם אביו תחת הימני בראש השיטה שתחתיה ויש להקשות דא\"כ הימני פשיטא דפסול מצד שבן יעקב הוא רחוק מן הגט שלמעלה ממנו ב' שיטין דהא ראובן הוא חתימה בשיטה שאחר הגט וכן יעקב הוא בשיטה שתחת אותו השורה וה\"ל רחוק ב' שיטין מגט שלמעלה ממנו וא\"כ מאי קמ\"ל דהימני פסול. וי\"ל כיון דחתימת ראובן היא מתחלת בסוף בשיטה וגמר שלה בתחלת השיטה שאחריה נראה לכל ששם מקומה דציור זה שייך להתחלה זו וה\"ל כאלו ג\"כ יעקב תוך שיעור הראוי וה\"א דחתימת ראובן מהני לשני הגיטין דשמו עצמו שייך לשמאלי ומה שכ' בן יעקב היא חתימה שניה שלו לגט ימיני וא\"א לכתוב בן יעקכ בשוה לראובן שאין דרך חתימה בכך א\"כ אם יכתוב תנאי באויר שלפני בן יעקב היה ניכר הזיוף קמ\"ל דהימני פסול דבן יעקב לא הוה חתימה. הרב ב\"י הקשה כאן קושיא על הטור והשאירה בתימה וראיתי ע\"ז תירוצים שאינם מתישבים אציע לפניך הסוגיא ויתברר בס\"ד דאין כאן קושיא כל עיקר איתא בסוגיא על האי דינא דב' גיטין זה בצד זה ולתכשרי שניהם האי קמא בראובן והאי בתרא בבן יעקב עד דהא תנן בן איש פלוני עד כשר ומשנינן דכתוב ראובן בן אקמא ויעקב עד אבתרא ולתכשר האי בראובן בן ולתכשר האי ביעקב עד דהא תנן איש פלוני עד כשר דלא כ' עד דמתניתין דוקא נקט איש פלוני עד דהיכא דלא חתם פב\"פ בפי' עד ואבעית אימא לעולם דכ' בה עד וידעינן בהא חתימה דלא דיעקב הוא פרש\"י אלא זה של בנו היה הא חזינן דאם כתב ראובן בן על א' ועל הב' יעקב עד ג\"כ כשרים שניהם ולא מפסל השני אלא אם כתב ראובן על הא' ועל הב' בלא עד וע\"כ תמה ב\"י למה לא כ' הטור חילוקים אלו ובדרישה בשם רש\"ל כתב דהטור מיירי בלא כתב עד ואין זה נייח דמ\"מ ה\"ל להטור לחלק בכך ותו דלמה לא כתב החילוק דראובן או ראובן בן דבזה מתכשרו שניהם או א' מהם ותו תימה גדולה ופלא למה (לא) תמה ב\"י על הרי\"ף והרמב\"ם והרא\"ש שלא זכרו שום דבר מחילוק זה ולא הביאו כלל הגמרא מזה הפלפול ובאמת לק\"מ דעיקר החילוק שבין התירוצים דבגמ' הוא בזה דלתירוץ א' בא לבאר אמאי לא מתכשרו שניהם מכח שנאמר דכל גט יש לו עדים מיוחדים דהא' יש לו ראובן והשני יש לו עד אחר שחתם בן יעקב עד ובדרך זה הוצרכו לתרץ בגמרא דאיירי באופן שאין כשר אלא אחד והשני לא מתכשר מכח חתימת אחר וזה האחר בחתימת ראובן בן או אם (לא) כ' עד בסוף והתירוץ השני בא לומר דאין כאן סברא כלל להכשיר השני מכח חתימת אחר דלא מיירי בזה שלא מיירי דידעינן בזה שמה שכ' בן יעקב עד הוא כתב יד ראובן והוא גמר חתימתו וזה מבואר בל' הגמרא דאמר דידעינן ביה דלא דיעקב היא דלכאורה קשה וכי מכירין כל יעקב שבעולם דזה לאו חתימתו היא אלא ודאי דה\"ק דידעינן חתם זה בגמר חתימתו וכן פרש\"י בהדיא אלא זה של בנו היא נמצא אפילו חתם ראובן על אחד ובן יעקב על השני לא מהני להשני כיון שלא ביקש לחתום על השני רק היא גמר החתימה של הא' וע\"כ לא מהני לתירוץ הא' אלא דהיינו תופסים דלא הוה בן יעקב גמר החתימה של ראובן מן גט הא' אלא אפשר שראובן עצמו כתב לזה בן יעקב עד בפעם אחרת על הגט השני אבל למאי דמסקינן דידעי' שהבן חתם עצמו על הגט הא' וכתב שמו תחתיו וגמר חתימה דהיינו שם אביו על הגט השני אין ענין זה לעדות כלל וראיה לזה עוד ממ\"ש הטור בסימן זה וז\"ל מיהו אם היו ב' גיטין בב' דפין זה בצד זה וחתם הא יוסף לבד וחתם בשני בן יעקב עד תחת השני כשר כו ש\"מ דחתימה אחרת בעי' בשני אלא ה\"א דגמר חתימתו הוה ג\"כ חתימה מיוחדת קמ\"ל דזה אינו דעיקר חתימתו בהתחלה והגמר לא מקרי חתימה אחרת וע\"ז אזלא הסוגיא ע\"ש אח\"כ מפלפל דשמא עשה הוא חתימה בגמר החתימה ואחר שכן הוא פי' הסוגיא לק\"מ על הטור דהדין שיוצא מן התירוץ הא' אינו תלוי בשני גיטין אלא תלוי אם מועיל חתימה כזו על איזה שום אדם בעולם וזה כתבו הטור אח\"כ בסעיף זה החילוק של לשון החתימה באיזה אופן צריך שתהיה והטור לא כ' כאן אלא מה שנלמד מתירוץ האחרון שידעינן ודאי שזהו גמר חתימת ראובן וייחס עצמו בשם יעקב אביו וע\"כ כ' הטור שמם ושם אביהם כו' להורות דודאי הוא שזה שם ראובן שמזכיר שם אביו והוא גמר חתימה של גט הא' ובזה אין יד ולא רגל ולא פתחון פה לחלק בין אמר עד או לא או ראובן סתם או ראובן בן דאלו חלוקים אינם משתמשים אלא באם אין מכירים שבן יעקב עד הוא גמר החתימה של ראובן אבל במכירים לא מחלקינן כלל בזה וע\"כ לא זכר הטור כלל מזה כאן כל זה ברור ופשוט בדעת הטור בס\"ד ובדרישה לא נחית לדברים אלו וע\"כ נכנס בפלפולים ופירש בדברי הטור דאם היה כתוב שם עד היו שניהם כשרים וכ\"כ רש\"ל ומו\"ח ז\"ל וכל זה אינו עיקר כלל לפע\"ד בזה הדין שזכר הטור דבשום גווני בזה אין הכשר אלא לאחד מהם כיון שידוע שאין כאן אלא גמר חתימה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 130:7"
+        },
+        "8": {
+          "he": "ובן יעקב עד תחת השני הגם שרבינו בעל הש\"ע מימיו אנו שותים מ\"מ אין משוא פנים בדבר הלכה דכיון דב' כאן ברישא ושם אביו תחת הב' והוא לשון הטור והינו שידוע לנו דברחה ובתירוצא בתרא בגמ' לא מהני בן יעקב עד על השני שאינו אלא גמר חתימת הגט הא' כמו שבארנו בסמוך בס\"ד דמ\"ה לא הביא שום פוסק הך פלפול של הגמרא בזה ואף שכ' ב\"י שרבונו ירוחם הביא דין זה הוא מיירי באין ידוע דהאי בן יעקב הוא גמר חתימת של ראובן כנלע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 130:8"
+        },
+        "9": {
+          "he": "אם כתבוהו בכלל שיטת הטור בזה הוא כך דכל שכ' זמן א' לכל המגרשים אלא שאח\"כ כתב לכל א' גט בפני עצמו לאשתו בכל נוסח שלו והעדים באחרונה למטה כולם כשרים שבכתיבת הזמן כולל כולם לענין זה דלא נימא דהעדים קאי על האחרון לבד ומ\"ש הטור וכן אמר כל אחד לאשתו כו'. ל' זה הוא ל' הטור פי' כמו שהא' כ' כל נוסח גט לאשתו כן אמר כל א' מהה\"א כל נוסח הגט דהיינו פטרית ושבקית כו' ובפרישה האריך בזה לפרש דהאי וכן אמר שכ' הטור פירושו של' זה ממש כתכ בגט שכל א' אמר לאשתו פטרית ועשה מן הגט שני חלקים ע\"ש והוא אינו עולה יפה דאין לנו כלל אלא מחמת הזמן כמפורש בגמרא ומה לנו להוסיף מה שלא נזכר בגמרא ומלבד זה אינו מיושב כלל חדא דהא אין חילוק בין רישא לסיפא שכ' אח\"כ (אבל אם) כ' בכך גירש פלוני כו' אלא שבכאן ברישא כ' זמן א' ובסיפא זמן לכל א' וכי היכא דבסיפא יש גט שלם אחר כל א' ה\"נ ברישא ותו דמאי פריך בגמרא שמא לא חתמו אלא על האחרון דהא הסופר כ' וכל א' אמר לאשתו א\"כ כולם כי הדדי נינהו אח\"כ סיים הטור אבל אם יש זמן לכל א' בפני עצמו אין הכשר אלא להתחתון הסמוך לעדי' אח\"כ כתב שאם יש כלל גדול יותר מן כלל הזמן דהיינו שכ' אנו פלוני ופלוני כו' שכלל כל האנשים זה אצל זה והנשים זו אצל זו וה\"א דטפי כשרים הכל דודאי העדים קיימו אכולהו קמ\"ל דפסול כיון שאין ב' נשים מתגרשות בחד גט וכ' ע\"ז דאם אחר כלל זה יש פרט דהיינו שחזר ופירש אח\"כ פלוני ופלוני כו' בזה מחלק אותם ולא הויין בגט א' מהני דיש לנו כלל טוב תחלה והפרט בא לחלק שלא יהא גט א' לכול' וכ' דלא תטעה לומר שבזה לחוד יהיה הפרט במה שמחלק אותם פלוני ופלוני כו' ושאר נוסח הגט הוא א' לכולם בכלל דהיינו שכ' אנו כלנו שבקנו פטרנו כו' קמ\"ל דאכתי הויין גט א' לכולן ולא מועיל חילוק זה לחוד דפלוני ופלוני כו' אלא צריך הבדל גמור דהיינו כל נוסח הגט אחר פלוני ופלונית וכן אחר כל א' מהם אז מהני שלא יהיה גט א' לכולם ואין חשש מחמת שהיו תחלה בכלל א' שכתוב אנו פלוני ופלוני גרשנו נשותינו פלונית ופלונית כיון שאח\"כ נפרדו כל א' בכל נוסח הגט וע\"ז סיים הטור כדפרישית לעיל פי' גבי הבדל מתחלה שלא היה שום כלל רק מחמת הזמן דזה מהני פשיטא דלא משמע לגמרי גט א' לכולם אלא אפילו כאן דהוה גט א' לכולן מצד הכלל שמעיקרא אפ\"ה מהני הפרט שמאחריו והב\"י הבין דמ\"ש הרמ\"ה דה\"ה נמי כו' פירושו דה\"ה בזה צריך כל נוסח הגט לכל א' והוקשה לו א\"כ הא כ\"ש הוא מאי ה\"ה לפיכך נכנס לדוחק גדול בזה הבל לפי דברינו לא קאי ה\"ה ע\"ז אלא על גט א' לכולן דל\"ת בפרט קצר מבטל פסול גט אחד לכולן אלא דה\"ה בפרט בזה דהוה גט אחד לכולן כמו אם לא היה רק הכלל לחוד אלא דצריך פרט ארוך דהיינו נוסח הגט כולו בכל א' (וא\"ל) ל\"ל בזה שצריך כל הגט אחר שכתב כבר בתחלת הסימן בהבדל מעיקרא כן י\"ל דאי מהתם ה\"א דלעולם לענין שלא יהא גט א' לשני נשים א\"צ דבר זה ולעיל לא נקיט זה אלא לרבותא לומר דאף שכתוב כל נוסח גט אצל כל א' מקרי כלל כיון שיש זמן א' לכולן דשם לא מיירי מדהוה כלל או פרט וכן יש לפרש דברי הסעיף הזה שהוא לשון רמב\"ם ומ\"ש ליבי דיתהויין פי' נוסח הגט דנקט בלשון זה שהוא עיקר הגט ומ\"ש וכן אמר כל א' לאשתו הוא ל' והש\"ע) ולא לשון הסופר ור\"ל שכל א' מהאנשים אמר (כל נוסח) הגט וכעין שכתבנו בפירוש דברי הטור ובזה הכל ניחא בלי שום צורך פלפול ודחוקים כפי שראיתי בזה והיו הדברים כהווייתן בס\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 130:9"
+        },
+        "10": {
+          "he": "וינתן לכל א' בעידי מסירה זה לשון רמב\"ם רק כמ\"ש אח\"כ ואם אין שם עידי מסירה כתוב בהעתק הטור תיבת כלל ופי' ב\"י דברי הרמב\"ם וז\"ל משום דאע\"ג דעדים חתומים על הגט צריך לינתן בפני עידי מסירה לכתחלה להרמב\"ם ואם אין שם עידי מסירה כלל כל מי שתוציא מגילה זו מתחת ידה היא מגורשת כיון שעדים חתומים בו חוזרי' על כל הגיטין הרי יש בידה גט חתום ואע\"פ שלא ניתן לה בעידי מסיר' כשר בדעבד להרמב\"ם בפ\"א ובודאי שכל אחת נותנת לחברתה כשתצטרך כולן ניסות וגובות כתובתן על ידו כנ\"ל לפרש דברי הרמב\"ם אבל מדברי רבינו שבתב ולמאי דבעינן למכתב כל גט שבא לפנינו חתום כו' ה\"נ א\"צ שיהא עידי מסירה לפנינו נראה שהוא מפרש מ\"ש רמב\"ם וינתן לכל א' מהן בעידי מסירה היינו לומר שצריך שיבואו עידי מסירה ויעידו שנמסר לכל אחת ובאמת דהכי משמע סוף דבריו שכתב ואם אין שם עידי מסירה כלל כו' משמע דברישא אפי' אות' שאין הגט יוצא מתחת ידה מגורשת וטעמא משום דעידי מסירה מעידים שנמסר ליד כל אחת עכ\"ל וקשה על פי הב\"י דהרמב\"ם כ' דלכתחלה בעינן עידי מסירה דהאיך זה שייך לה' נשים והלא דין זה (למד) כבר מרבריו בפ\"א גבי אשה ומהי תיתי בה' נשים לומר שא\"צ עידי מסירה ע\"כ בודאי פי' דברי הרמב\"ם כפי מה שהבין הטור רק שנרחיב ביאורו דהטור קשה לו ג\"כ קושיא שהקשינו על הרמב\"ם לפי' ב\"י אלא ודאי דאין כונתו כן והוא בדרך זה דבמשנה איתא בזה כולם כשרים וינתן לכל אחת ואחת דקשה דהאי וינתן כו' הוא מיותר לגמרי דפשיטא שצריך נתינה בכל הגיטין ע\"כ פי' הרמב\"ם המשנה דה\"ק בהנך ה' נשים אין תיקון בעידי חתימה לחוד כשאר נשים להרמב\"ם אלא צריך שיהיו העידי מסירה לפנינו דוקא בשעה שתרצה להנשא ע\"כ אסר הרמב\"ם שאם אין עידי מסירה לפנינו אין תקנה מכח עידי חתימה אלא למי שמוציאה המגילה אבל לא נתינת הנשים לפנינו זו לזו אבל הטור חולק ואומר כמו שמועיל החתימה בשאר גיטין ה\"נ בהנך ה' נשים כיון שאחת תופסת בשביל כולם או שהיא תתן לכל אחת ולזה נתכוין התנא כמ\"ש וינתן לכל אחת דר\"ל שאשה אחת יכולה ליתן לכל אחת ואחת ויש סיוע לפי' זה דלהרמב\"ם ק' למה נקט התנא הנשי' דהיינו כל אחת (שהיא ל' נקבה) ולא נקט הזכרים דה\"ל לומר שיתן כל א' לאחת ולפי פי' הטור ניחא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 130:10"
+        },
+        "11": {
+          "he": "כל מי שתצא מגילה זו מתחת ידה מגורשת זו לשון הרמב\"ם והוא אזיל לטעמיה דכל שמביאה עידי חתימה אפי' אין עידי מסירה מעולם כשר אבל הטור חולק ואומר דאי בודאי לא היו עידי מסירה לא מועיל כלל עידי חתימה ויש כאן תימא שהרי בסי קל\"ג מביא הש\"ע דעת הטור בשם י\"א דפסול וא\"כ ודאי אזלי' לחומרא ותו דהרמב\"ם עצמו לא החליט להיתר אלא כ' ויש מהגאונים שהורה שהוא פסול כמו שמביא הטור בשמו בס\"ס קל\"ג וכאן החליט בודאי להתיר ועל רמ\"א קשי' טפי שלא כ' כדרכו די\"א שהוא פסול והלכה ודאי קי\"ל גם דאפי' מי שהמגילה בידה אינה מגורשת כלל שודאי לא היה עידי מסירה כלל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 130:11"
+        },
+        "12": {
+          "he": "ולא כתב עד פסול וכ' הטור מיהו אם היו ב' גיטין בב' דפין זה בצד זה וחתם בא' יוסף לבד וחתם בשני בן יעקב עד תחת השני כשר שהעד שכ' בשני הוא חוזר ג\"כ על הא' וה\"ל כאלו כתב יוסף עד עכ\"ל וכבר ביארתי בסעיף ח' דזה מיירי שידוע שהיא חתימה אחרת תחת השני ולא גמר חתימה שהיא תחת הראשון והך פסול דהכא כ\"ש אם כ' כו יעקב לחוד ולא כתב עד כ\"כ ב\"י:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 130:12"
+        },
+        "13": {
+          "he": "אלא זה בפני זה גזירה משום אומר לרבים כולכם כתכו גט לאשתי שהדין א כותב וכול' חותמין ואי לא חתמו כול' פסול לפיכך תקנו אפילו היכא דלא אמר כולכם שיהיו כל העדים נקבצי' בשעת חתימה כ\"כ רש\"י וסיים ב\"י כלומר דכיון שיהיו נקבצי' ודאי יחתמו כולם ובהג\"ה פרישה כתב הטעם דבכולם ע\"כ צריכים שיחתמו זה בפני זה דאל\"כ יש לחוש שמא כשיהיו שנים חתומים יתנוהו להתגרש כו' ואינו נכון דא\"כ כאן אמר כולכם יהיה גזירה לגזירה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 130:13"
+        },
+        "14": {
+          "he": "קוראים בפניהם בב\"י הביא דברי הרא\"ש בענין מה שלא הביא הרי\"ף ההיא דרב גמדא משמיה דרבא וכ' ולפי דבריו כו' פירוש דלדעה קמייתא דקי\"ל כרב גמדא דהלכה כרשב\"ג בחתימה דוקא אבל בקריאה הלכה כרבנן דאין חילוק בין שטר לגט ממילא בתרווייהו בעי' בקריאה שנים דהא רב נחמן אמו בשטר דבעי' סופר שלו דוקא וכן רב פפא מתיר בב' גוים זה שלא בפני זה ומשמע בגמרא דאלו ב' גוים זה שלא בפני זה שוה לסופר שלו דהוה גלוי מילתא היותר עדיף ממילא גם בגט כן הוא לפי זה אבל להרי\"ף דלא פסק כרב גמדא ממילא קי\"ל כרשב\"ג ויש חילוק בין גט לשטר בין בקריאה בין בחתימה וכיון דחזי בשטר לענין קריאה בההיא דרב נחמן דיש היתר בסופר שלו ובאדם אחר כשני' ממילא בגט סגי באחר קורא לפניו וכן כוונת ב\"י בפירושו לדברי הרא\"ש במסקנא שלו אלא שקיצר בלשונו בזה ובחנם כ' מו\"ח ז\"ל על ב\"י דשארי ליה מאריה במה שהביא ראיה מדרב פפא ומדברי הש\"ס כאן שכ' קוראים לפניהם והוא לשון רמב\"ם אין הכריע שם בפי' שנים או אחד ואע\"פ שכ' קוראי' לשון רבי' אפשר דאגטין דעלמא קאי וראיה דגם בברייתא יש לשון זה ואפ\"ה ס\"ל לרבא דבגיטין לא בעי' שניי' ולענין הלכה ודאי יש ליזל לחומרא דיקראו דוקא שנים שיקראו דוקא קודם החתימה ורבים אינ' נזהרים בזה אלא העדי' אינם רואי' רק תחלת הכתיבה ואח\"כ אינ' משגיחי' על מה שכותב הסופר ואחר גמר הכתיבה באים וחותמים וזה אינו נכון אלא צריך שיקראו תחלה כל ל' הגט קוד' חתימתו אלא די\"ל דשפיר סומכי' העדים על שהרב קורא את הגט תחלה וכמ\"ש ב\"י בח\"מ לענין כתיבה דסומכי' העדי' על שקראוהו חכמי הקהל כו' אבל לפי הנראה יש לכתחלה לעדי' לקרות קודם חתימתן דגט חמור טפי לענין מה שאפשר לעשות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 130:14"
+        },
+        "15": {
+          "he": "אלא מקרעין להם נייר חלק וזהו דעת ר\"ח  בטור וכן (דעת) הרמ\"ה לפרש כן דברי רב בגמרא ותניא כוותיה מקרעין להם נייר חלק וממלאין הקרעי' דיו ארשב\"ג בד\"א בגיטי נשי' אבל בשאר שטרו' כו' וא\"כ לפוסקי' כרשב\"ג כדלעיל ודאי בשאר שטרות אסור אף דרך זה אלא שמו\"ח ז\"ל כ' דלדעת הטור דרך זה מותר אפילו בשאר שטרות ואולי ט\"ס יש בדבריו כי כבר פסק הטור כרשב\"ג:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 130:15"
+        },
+        "16": {
+          "he": "מפני שיש פוסלין הטע' דזימנין דאמר בעל אמרו לסופר שיכתוב ולעדי' פלוני ופלוני ויחתמו ומשום כיסופא דסופר שאין מקבלין אותו לעד יאמר השליח להסופר שהוא יחתו' ונמצא הגט בטל ואע\"ג דבסימן ק\"כ סעיף ד' פוסל באומר אמרו לסופר אלא צריך החות' לשמוע מפי הבעל דוקא וא\"כ ליכא חשש זה מ\"מ אזלי' הכא והכא לחומרא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 130:16"
+        },
+        "17": {
+          "he": "אינו גט  פי' לגמרי ואפי' ניסת תצא אבל בסיפא הוה גט לחומרא ובטור כ' בסוף דבריו ומיהו אם ניסת בו לא תצא ותמה ב\"י דהא זכר שם כ' סופר ועד ובזה הולד פסול כמ\"ש ב\"י בשם הפוסקי' והאריך לתרץ ואסיק בצ\"ע ולע\"ד נראה להקשות עוד דהא בתחלה כ' הטור אין עליו עדי' אפילו ניכר שהוא כתב יד הבעל כו' דמשמע לא מבעיא באין ניכר דכן משמע ל' אפילו דהיינו שמוסיף דבר זה וכן מדקדק הב\"י בח\"מ סי' ק\"ה בל' הטור שכתב אע\"פ שלא תפס לצורך עצמו דמשמע לא מבעיא דתפס לצורך עצמו כו' וה\"ה נמי כאן וא\"כ קשה איך סיים אח\"כ דאם ניסת לא תצא דהא באין עדי' ולא ניכר כ' הבעל פשיטא שהולד ממזר ותו קשה בדברי הטור שכתב בסוף אפי' בע\"א וניכר כתב הבעל דפסול למה הוצרך לכתוב תחלה באין עליו עדים כלל דפסול בניכר כתב ידו (אלא) ע\"כ (צריך) לומר דנקטיה משום מה דבעי למיסק ומיהו אם ניסת כו' וא\"כ שפיר נימא שמ\"ש הטור ומיהו כו' לא קאי רק על ניכר כתיבת הבעל בשביל זה כפל הענין ולא קאי אניכר כתיבת הסופר דלא קאי רק על כתיבת הבעל והב\"י כתב דדוחק לומר דלא קאי ומיהו אכתיב' סופר כו' דמשמע ליה דקאי אכל מה שנזכר לפניו והרי הוכחנו דמיירי אפילו באין עדים כלל ולא ניכר כ' הבעל וע\"ז ודאי לא קאי וא\"כ נימא ודאי דלא קאי רק אניכר כתיבת הבעל והטור סומך על המבין שיפרש כן דאל\"כ רישא ל\"ל כמו שזכרנו ודי בזה ליישב דברי הטור ומו\"ח ז\"ל (כתב) דהטו' קאי אסופר ב\"ד שהוא מובהק ובזה מודה רב גם ע\"ז קשה דמל' אפילו משמע דמיירי בכל גווני ולא מבעיא קאמר בסופר שאינו מובהק א\"כ קאי ומיהו גם על אינו מובהק ותו דלא מצינו דעה זו להכשיר בדיעבד דוקא בסופר מובהק אלא ודאי כדפרישית ויש הוכחה לפרושינו מל' הטור שסיים ומיהו אם ניס' בו כו' דזהו לשון יתור והרי הוא זכר תחלה ב' דינים דהיינו ניכר כתב הבעל וניכר כתב הסופר וא\"כ היה לו לכתוב ומיהו אם ניסת בהם אלא ודאי דלא קאי רק על מה שלפניו דהיינו ניכר כתב הבעל תו לא מידי בזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 130:17"
+        },
+        "18": {
+          "he": "שצריך שייבש הגט כו'  דקודם היבוש אפשר לבא לידי זיוף בהמשך הדין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 130:18"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "צריך שיחתמו שני עדים.  עב\"ש סק\"א שכ' וז\"ל עיין בתו' ריש גיטין והרא\"ש פ' השולח כתבו הא דתיקן ר\"ג שיהיו חותמים לא שצריכים לחתום אלא עצה טובה כו' עכ\"ל ועיין ביש\"ש פ' השולח סימן מ\"א שכ' וז\"ל ולדינא נראה בלא ע\"ח אין להכשיר הגט לכתחילה שהוא נגד התקנה דא\"א לפרש שאינה אלא עצה טובה מדנקיט במתני' גבי אינך תקנות משמע דהוא נמי תקנה ובגמ' אי' להדי' תקינו רבנן משמע דתקנה היא. ואף הא\"ז שכ' להכשיר בלא ע\"מ כאשר הבאתי פ\"ק סימן י' היינו דוקא דיעבד כו' ועוד אומר מאחר דנהגו כ\"ע לחתום עדים אם יתנו בלא עדים אין לך לעז גדול מזה כו' וא\"כ כל זמן שלא נשאת ואין לחוש לעיגון ראוי שיכתבו גט אחר ודוקא שנתנו הגט מאחר שנתגרשה בו מדאוריי' הוא שראוי לחוש לעיגון ותנשא בו אבל כל זמן שלא נותן אפי' יש לחוש לעיגון אין ראוי ליתן לכתחלה נגד התקנה ואיכא למיחש ללעז ומאחר שג\"כ לר\"מ פסול מדאוריי' הנראה בעיני כתבתי עכ\"ל ועיין בס' ב\"מ שהביאו והאריך בזה ועמ\"ש לקמן סי\"ח ס\"ק י\"א:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 130:1"
+        },
+        "2": {
+          "he": "שלא יהיה קרוב.  עיין בס' ישועות יעקב סק\"ג שכ' טוב טעם לזה משום דדעת כמה פוסקים דכתב סופר ועד כשר בדיעבד עכ\"פ א\"כ הסופר נחשב כעד והוי כמו נמצא אחד מהן קרוב או פסול ע' בח\"מ סי' מ\"ה סי\"ב בהגה ובזה מסולק קושיית מהרי\"ק (ע' בד\"מ ס\"ס זה) מהא דהבעל עצמו נותב את גיטו דידוע דבעל דבר שאינו בגדר העדות אינו פוסל שאר עדים כו' ע\"ש (ומ\"מ בדיעבד אין מקום לפסול מחמת זה כמובן ולקמן ס\"ס קנ\"ד בסדר הגט כ' הוא עצמו ז\"ל כן בהדיא ע\"ש) וע' בס\"ק שאח\"ז:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 130:2"
+        },
+        "3": {
+          "he": "קרובים לסופר וכולם כו'.  ע' לקמן ס\"ס קנ\"ד בסה\"ג סעיף ד' דשם לא הקפיד גם לכתחילה רק באם נוטל הסופר או הרב המסדר יותר משכר בטילה והוא בב\"י סימן זה בשם הקונדרס וגם ע\"ז חולק הב\"י. ועיין בתשו' ברית אברהם סי' ק\"ד שכ' דהיכ' דלא אפשר מחשש מיתה ועיגון אין להקפיד גם לכתחילה על חשש כזה ובפרט אם הסופר אינו נוטל שום שכר כו' ומכ\"ש היכא דידעו הב\"ד בעצמם שהסופר כותב לשמו כו' ע\"ש עוד בתשובת הגאון מצילץ שהועתק בס\"ס ק\"ה שם וע' בס\"ק הקודם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 130:3"
+        },
+        "4": {
+          "he": "יתחיל בראש שיטה.  עיין בתשו' עה\"ג סי' כ\"ד אודות אחד מעדי הגט שמו יוסף התחיל לחתום וכתב אות י' משמו ודילג אות ו' והתחיל לכתוב אות ס' וכתב חצי עיגול מן הס' וציוו עליו לכתוב באותה הרחקה שבראש השיטה אות י' ומן היוד אשר כבר נעשה יעשה ויו ויגמור הסמ\"ך וגמר חתימתו והנה קצת מפקפקים על גט הזה מחמת ב' דברים א' דהוי כמו נכתב הגט שלא כסדר וב' כיון שהרחיק העד כמלא יוד מן השרטוט שבצד ימין. והוא ז\"ל השיב דאין בגט זה שום פקפוק דמטעם שלא כסדר אין בזה שום קפידא אפילו בכתיבת תורף הגט ולא מצינו דצריך דוקא כסדרן כ\"א בתפילין ומזוזות ודבר זה א\"צ ראי' כלל (וכ\"כ הב\"ש לעיל סי' קכ\"ה ס\"ק י\"א ע\"ש עוד) ואעפ\"כ לסתום פי המוציא לעז אביא ראי' ממ\"ש הפוסקים (בסימן קכ\"ה סי\"ט) שאם קיים בגט מה שכ' ב\"ח אפילו מתורף הגט כבר רק דעכשיו נהגו כו' ומצד שהעד הרחיק מן שרטוט בצד ימין מלא אות יוד ג\"כ אין חשש ויש ללמוד ק\"ו מהא שאם חתם העד השני תחילה (המבואר בהגה דסעיף הקודם) ע\"כ כל המפקפק בגט הזה אינו אלא טועה ע\"ש):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 130:4"
+        },
+        "5": {
+          "he": "שאלו בשלומה פסול.  עב\"ש סק\"ד באמצע הדבר שכ' נשמע מזה גט שלא היה ע\"ח כלל וניתן בע\"מ אפילו לא נשאת כשר דאל\"כ ל\"ש לומר כשר כו' ואינו מובן מה צריך ללמוד זה מכאן הא מפורש כן בש\"ע סימן קל\"ג ס\"א וכן תמה עליו בס' ב\"מ. ועמ\"ש לעיל בק\"א. ומ\"ש עוד לפ\"ז נראה אם אין מוכח בגט מי הוא המגרש כו' עד ולא כתשו' ש\"י סימן ל\"ו כו' עמ\"ש בזה בסימן קל\"ו ס\"ו ס\"ק וי\"ו:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 130:5"
+        },
+        "6": {
+          "he": "דבק שני עורות.  עבה\"ט ועיין בס' ביאור מרדכי מהגאון מהר\"מ בנעט זצ\"ל הלכות מזוזה שתמה על הב\"ש וכתב שדבריו תמוהים הרבה ע\"ש. גם בס' בית מאיר תמה על הב\"ש בזה ומסיים דיפה פסק הרמ\"א ז\"ל דפסול מספק. ובזה אפשר ליישב קצת המנהג שלא לכתוב גט על נייר כדמשמע מת' מהרמ\"ל סימן ק\"א והח\"מ סי' קכ\"ד סק\"ו כתב וכי גרע פפי\"ר מעלה של זית ולהספק הנ\"ל דאפילו דיבק קודם הכתיבה נמי אפשר דפסול ניחא דאין דומה לעלה שמחובר מתחילת ברייתו משא\"כ פפי\"ר שנעשה מחובר ע\"י אדם מדברי' הנפרדים והגם דבאמת אין בזה חשש לפסול כמבואר בגיטין י\"ט ע\"ב נתן לה נייר וע\"כ לחלק מפני שממש פני' חדשות בא לכאן שפיר חשיב מחובר מתחילת ברייתו מ\"מ קצת טעם הוא להסמיך לו לכתחילה עכ\"ל (עמ\"ש לעיל סי' קכ\"ד ס\"ק ז') יע' בתשר ח\"ס חא\"ח סימן ה' מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 130:6"
+        },
+        "7": {
+          "he": "או שינה בו  כ' הב\"ש כלומר שהעלה לאביו שם אחר ולא משמע כן מדברי הרשב\"ץ שהבאתי לעיל עכ\"ל. וע\"ל בס\"ק ג' באם טעה העד וחתם יוסף בן שמעון ואביו הי' שמו רלזבן כו' ע\"ש. ועיין בס' ב\"מ שכ' עליו ילע\"ד מעולם לא כיוונו התה\"ד ורמ\"א לשונ' כזו כו' ובזה בודאי פסול דמזדייף מתוכו הוא אלא שנידונו לשונ' לאותיו' דאינם יכולים להקרא כלל בשם אחר שאינו אלא כחסרון דכשר אבל עובד' דהרשב\"ץ מזוייף מתוכו הוה עכ\"ל. ועמ\"ש לעיל סימן קכ\"ט ס\"ק י\"ח:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 130:7"
+        },
+        "8": {
+          "he": "שינה בו.  עבה\"ט מ\"ש ובכל אלו דאין טעות פוסל ה\"ה חק תוכות כו' ועיין בס' רביד הזהב פ' תצא מה שתמה על תשובת מהרי\"ט צהלין סימן צ' בזה ועיין בנ\"צ מ\"ש בזה ועמ\"ש לעיל סימן קכ\"ה ס\"ק י\"ג:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 130:8"
+        },
+        "9": {
+          "he": "כתיבה תמה.  עיין בס' ג\"פ לעיל סימן קכ\"ו סק\"ט שכ' דכן מבואר בס' תומת ישרים סימן ק\"ה וכ\"כ בשה\"ג שאצל המרדכי דף תרט\"ו וע' תשו' הרשב\"ץ שהביא מב\"י ר\"ס זה. וראיתי גט א' ששלחו מצפת לפה ירושלים תב\"ב והיו עדיו בכתבי פרובינצל (הוא מה שקורין רש\"י כתב כ\"כ הוא ז\"ל שם סק\"ד) ושמעתי שכן נוהגים לכתחיל' ואפשר שטעמם שאם באולי תצטרך האשה לקיים הגט שימצאו קיום לחתימות העדי' בנקל כיון שרגילים לחתום כן בשאר שטרות משא\"כ אם יחתמו בכתב אשורי בדוחק ימצאו קיום עכ\"ל. גם בס' זכור לאברהם ח\"ג דף קי\"ט כתב דבאיזמיר חותמין בכתב פרובינצל אך כתיבה תמה מבלי דבוק ומחק וטשטוש כמו בגט ע\"ש ועב\"פ סוף סק\"א שכ' בשם הרשב\"ם (צ\"ל הרשב\"ץ ע' בב\"י והוא בתשב\"ץ ח\"א סימן ז') דע\"פ הדין א\"צ כתב אשורית בחתימת העדי' גם כשתינוק חריף יכול לקרות כשר אפילו כשתינוק שאינו חריף א\"י לקרות ע\"ש. ועיין בתשו' אא\"ז פני' מאירות ח\"ב סימן י\"ט שכ' ובדבר העד פרץ שתינוק קרא הר' בשם דלי\"ת והנ' פשוטה קרא אותו יו\"ד נו\"ן כבר הביא הב\"ש בשם הרשב\"ץ כשתינוק חריף יכול לקרותו כשר כו' וה\"נ עינינו רואות שתינוק חריף שבספרדי' יקרא כראוי יש להכשיר ואין מדקדקין כ\"כ בחתימת העדי' רק אם אנו יכולי' לקרות כשר ובפרט במקום עיגון ודאי אין להחמיר כלל עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 130:9"
+        },
+        "10": {
+          "he": "ואם א\"י לחתום.  עיין בס' ג\"פ לעיל סימן קכ\"ג סק\"ט שכ' בשם תומת ישרי' סימן קמ\"ב שכ' בשם רבינו ישעי' השני שהחותם ע\"י לבלר שהלבלר אוחז ידיו וכותב אין חתימתו מועלת כלום שאין זו כתיבת החותם והאריך בראיו' עכ\"ל וכן מבואר מדברי המג\"א בא\"ח סימן ש\"מ סעיף קטן זיין קטן אוחז בקולמס וגדול אוחז בידו וכותב חייב גדול אוחז כו' ע\"ש והוא מדברי הרמב\"ם פי\"א מהל' שבת דין י\"ד וצ\"ע בזה בתוספתא שבת פי\"ב הלכה י' דאיתא שם נתכוון לסייעו האוחז בקולמס חייב כו' כפי גירסת רבינו הגר\"א ז\"ל שם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 130:10"
+        },
+        "11": {
+          "he": "שלא לחתום הסופר.  עב\"ש ס\"ק כ\"ט מ\"ש והיכ' דאמר לג' שיכתבו ויחתמו ומת א' מהן י\"ל במקום עיגון ודחק כשר שלא לחתמו כלל ויתנו לפני עדים כו' ועיין בס' בית מאיר שהשיג עליו וכתב שדברי תימה הם דבכה\"ג בודאי הגט בטל ע\"ש. גם בתשו' ברית אברה' סימן צ\"ג אות י\"ז וסימן ק\"ב סוף אות ג' חולק על הב\"ש בזה והביא שם מדברי מהרי\"ק שורש כ\"ז דמבואר להדיא כן ע\"ש (ושם בסימן ק\"ה אות י\"ב שהבייא דשוב מצא כן בתשו' פנים מאירות ח\"א סימן נ\"ה דמבואר ג\"כ דהיכא דצוה לשני עדים לחתום ולא חתם רק א' ודאי פסול יעו\"ש) וכן בתשו' בגדי כהונה ס\"ס י\"ג נדפס שם תשוב' מהגאון בעל הפלאה זצ\"ל שהשיג ג\"כ על הב\"ש הנ\"ל ושאין לסמוך להקל בזה. וגם הרב המחבר ז\"ל אף שמתחיל' צידד לתרץ דברי הב\"ש מ\"מ מסיק דלדינא קשה להקל ובפרט כי היש\"ש גיטין פ\"ד סימן מ\"א (הובא לשונו לעיל סק\"א) פסק אף במקום עיגון ואף שהי' בריצוי הבעל לא יתן לכתחיל' גט בלא עדי חתימה נגד התקנ' מטעם לעז יע\"ש מכ\"ש בנ\"ד שיש לחוש לשינוי דעת הבעל מ\"ש ועמ\"ש לקמן סימן קל\"ג ס\"ק ג':",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 130:11"
+        },
+        "12": {
+          "he": "ואפילו בעד א' אינו גט.  עיין בתשו' רבינו עקיבא איגר ז\"ל סימן רכ\"ב אות י\"א וע\"ל סימן קל\"ג בב\"ש ובה\"ט סק\"א בשם ט\"ז ועמ\"ש שם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 130:12"
+        },
+        "13": {
+          "he": "לישא הגרוש'.  עבה\"ט וע' בסדר מהר\"ם בסג\"ר אות י\"א. שכ' א\"צ להקפיד שלא יהיו העדים כהני' וגם א\"צ להתנות עמהם כו' ונראה שנמשך בזה אחר דברי התוס' י\"ט פ\"ד דבכורות משנה ו' שכ' שם דעל העדים מעיקר' לאו קושיא דכתב הב\"י בח\"מ ס\"ס כ\"ח (ובש\"ע שם סי\"ח בהגה) בשם תשוב' להרשב\"א שלא אמרו הנוטל שכר להעיד עדותו בטילה אלא בעדי' שנעשו עדים כבר שהם מצווים להעיד כו' ע\"ש ועיין בס' נה\"מ בת\"מ סימן ל\"ד סק\"י מ\"ש בזה. ועיין בס' תו\"ג ס\"ק כ\"א דנראה לו טעם אחר דעדים לא נצטוו רק להגיד בפה לפני ב\"ד כשיודעין עדות אבל אינה מחוייבים ליתן בידו כתוב וחתום כו' וכתב דהרמ\"א לא הוצרך לטעם שלו רק מחמת שלוקחין שכר הרבה שניכר דלאו שכר כתיבה ושכר ראי' הוא רק שכר מתועלת שיהי' לזה בעדותן ויש בו משום מראית עין לכן כתב הרמ\"א טעם שלו דמשום התנאי דכשיקלקלו ישלמו ומשום שאסורין לישא הגרושה שוה חתימן הרבה ויכולין ליקח כל מה ששוה בעיניהם. וכ' עוד דמזה הטעם שכתבתי יכולין ג\"כ עדי חתימת שטר מלוה ומקח אף שכבר ראו הענין ליקח שכר רק לא שכר הרבה ע\"ש: (וכ\"כ בתשו' חתם סופר ס\"ס ק\"ג בענין עדי שטר ראיה על קידושין שלקחו שכר דלא נפסלו מהאי טעמא ע\"ש):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 130:13"
+        },
+        "14": {
+          "he": "קודם שיחתמו.  עיין בתשו' הרדב\"ז ח\"א ס\"ס קנ\"א שכ' דמה שנהגו שלא יחתמו העדי' עד שייבש הגט הוא חומרא בעלמא דבשלמא שעת נתינה טעמא שיהא כ' שאינו יכול להזדייף אבל העדי' למה צריכין להמתין עד שייבש ואפשר דטעמא הוי משום דבעל אמר להם לחתום בגט וזה אינו גט כשר ומ\"מ חומרא זו הוא רק לכתחילה אבל לא בדיעבד ע\"ש ועמ\"ש בזה לעיל סימן קכ\"ד ס\"ט ס\"ק ט\"ו בשם הג\"פ:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 130:14"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "פסול.  גט שהיה בו ספק אם היה עידיו מרוחקים שני שיטין בשעת הדחק הכשירו הר\"ם מטאלון ורשד\"ם חא\"ה סי' ס\"ט:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 130:1"
+        },
+        "2": {
+          "he": "ונתרחק.  עיין כנה\"ג דף קנ\"ה ע\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 130:2"
+        },
+        "3": {
+          "he": "שיטה.  גט שהניחו העדים חלק לצד ימין והיה מקום לכתוב פלו' חייב לפלו' בשעת הדחק הכשירוהו מהר\"ם ורשד\"ם שם כנה\"ג דף קנ\"ה ע\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 130:3"
+        },
+        "4": {
+          "he": "פסול.  היינו הגט מסיים בדף זה והעדים חתומים מאחוריו דאם קצת מגט מאחוריו והעדים חתומים שם היינו הדין מ\"ש בסעיף ז' עיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 130:4"
+        },
+        "5": {
+          "he": "כשר.  משום דנראה דאין כאן ע\"ח ע\"כ צריך להביא ע\"מ ודומה לכתב ע\"ג דבר שיוכל להזדייף:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 130:5"
+        },
+        "6": {
+          "he": "כשר.  ב\"ח כתב כיון דיש עדים דלא נעשה זיוף א\"צ לידע דמסר לה בעדים. אבל אחרונים כתבו כיון דנראה כמזויף בעינן לידע דנמסר לה בעדים עיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 130:6"
+        },
+        "7": {
+          "he": "עורות.  ה\"ה אם תפר ד\"מ. יפסול זה אפילו אם יש ע\"מ דלאו משני גיטין הוא מ\"מ פסול משום ספר אחד ולא שני ספרים כ\"כ הלבוש ועיין ב\"ש שהניח דבר זה בצ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 130:7"
+        },
+        "8": {
+          "he": "עד.  הטעם דצריך לחתום בגט עד ולא בשאר שטרות משום דהגט הכל לשון הבעל מש\"ה חותם עד כלומר שהוא מעיד דהבעל אומר כל זאת לפניו לבוש ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 130:8"
+        },
+        "9": {
+          "he": "שינה.  אע\"ג דהטעות מפסיק בין שמו לבין תיבת עד מ\"מ מוכח דקאי על עד וכשר. וה\"ה אם טעה בשמו ולא בשם אביו ג\"כ כשר ב\"ש. אבל בתשובת רש\"ך ח\"א סי' קמ\"ב כתב דוקא כשטעה בשם אביו אבל בשמו אין להקל עב\"ש ובכל אלו דאין טעות פוסל ה\"ה חק תוכות אין פוסל בו וכשר במקום דחק ועיגון. ואם אירע טעות או חק תוכות במילת עד כשר בלא דחק ועיגון כיון דנגמר החתימה תו אין פסול במלת עד ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 130:9"
+        },
+        "10": {
+          "he": "פסול.  משום די\"ל דלא חתם א\"ע לשם עדות אבל אם חותם שמו ושם אביו כשר אז אמרינן דחתם לשם עדות כיון דפירש שמו ושם אביו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 130:10"
+        },
+        "11": {
+          "he": "זה.  היינו במעמד זה אפי' לא ראו זה את זה כשחתמו מהר\"י טראני וכנה\"ג דקנ\"ו ע\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 130:11"
+        },
+        "12": {
+          "he": "וחותמים.  דוקא שנים קוראים בפניהם אבל אם א' קורא בפניהם אין רשאין לחתום עב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 130:12"
+        },
+        "13": {
+          "he": "הגט.  ובדיעבד מהני אפילו לא ידעו לשון הגט אם קוראים בפניהם ומתרגם להם עב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 130:13"
+        },
+        "14": {
+          "he": "לעד.  עיין ב\"ש וכנה\"ג קנ\"א ע\"א. והסופר יוכל להיות אז מעידי מסירה פרישה ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 130:14"
+        },
+        "15": {
+          "he": "הגרושה.  מה\"ט יש מהדרין אחר עדים שאינם כהנים כי כהן בלא\"ה אסור בגרושה ד\"מ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 130:15"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

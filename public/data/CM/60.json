@@ -1,0 +1,732 @@
+{
+  "chelek": "CM",
+  "siman": 60,
+  "chelekTitle": "Choshen Mishpat",
+  "seifCount": 12,
+  "fetchedAt": "2026-07-08T00:09:07.146Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין שעבוד מטלטלי אגב מקרקעי ודין שעבוד דבר שלא בא לעולם. ובו ב סעיפים:הבא לגבות חובו בשטר מהלוה ולא הספיק כל הנמצא לו כנגד שטר חובו ה\"ז טורף מקרקעות שהיו לו בשעה שלוה מזה ומכרם או נתנם אח\"כ אבל קרקעות שקנה אחר שלוה מזה ומכרם או נתנם אינו טורף מהם ואם כתוב בשטר שהוא משעבד לו נכסין דקנינא ודאנא עתיד למקני גובה גם מהם אבל המטלטלים אין עליהם אחריות אפי' מטלטלים שהיו לו בעת שלוה שמכרם או נתנם לשעתו אין ב\"ח טורף אותם ואם כתוב בשטר שהוא משעבד לו מטלטלי שיש לו אגב מקרקעי דלא כאסמכתא ודלא כטופסי דשטרי (ע' לעיל סי' קי\"ג ור\"ב) ה\"ז טורף מהמטלטלים שהיו לו כשלוה כשם שהוא טורף מקרקעות ואם כתוב בשטר ששיעבד לו מטלטלי אגב מקרקעי דקנינא ודאנא עתיד למקני דלא כאסמכתא ודלא כטופסי דשטרא טורף אף ממטלטלים שקנה אחר שלוה ומכרם או נתנם כשם שהוא טורף מהקרקעות זהו דין הגמרא ועכשיו אע\"פ שנהגו לכתוב בכל השטרות שהוא משעבד לו מטלטלי אגב מקרקעי נהגו שאינו טורף מהמטלטלים שמכר או נתן או משכן מפני תקנת השוק ואפי' למנהג זה אם היה ללוה שטר חוב על אחר ומכרו בעל חוב גובה ממנו דלא שייך בשטרות תקנת השוק דלא שכיח וכן אם נתן כל נכסיו לאחר ולא שייר לעצמו כלום אומדנא דמוכח הוא שלהבריח עשה ולא שייך ביה תקנת השוק (וע\"ל סי' צ\"ט ס\"ו):",
+      "en": "1. The Laws of a Lien on Movable Items Via Real Property and the Laws of a Lien On an Item That Has Not Yet Come Into Existence, 12 Seifim: If one comes to collect a debt from the borrower and the borrower does not have the funds corresponding to the entire debt, the borrower may collect from real property that the borrower had at the time he borrowed from this lender, which he later sold or gave away. With respect to real property that the borrower purchased after he borrowed from this lender that he later sold or gave away, however, the lender may not collect such land. If the document states that the borrower is mortgaging properties that he has already purchased and those that he will purchase in the future, the lender may also collect from them. There is no security, however, on movable items, even those that the borrower had at the time he borrowed, which for the time being he has sold or given away, and the lender may not collect from them. If the document states, “the borrower is mortgaging the movable items that the borrower has via his real property and it is not an asmachta nor is it the outline of the document”- see later Simans 113 and 202 – then the lender may collect from movable items that he had at the time he borrowed just as the lender may collect from the real property. If the document states, “the borrower is mortgaging the movable items via the real property that he currently owns and that he will own in the future and it is not an asmachta nor is it the outline of the document,” the lender may even collect movable items that the borrower purchased subsequent to the loan which he later sold or gave away just as he may collect from real property. This is all the law under the Talmud. Today, although we have the custom to write in all documents that the borrower is mortgaging movable items via real property, the custom is not to collect from movable times which the borrower sold, gave away or gave as collateral because of a “market regulation.” Even under this custom, if the borrower had a loan document on a third party which he sold, the lender may collect from that loan because the “market regulation” is not applicable considering this is an uncommon case. Similarly, if the borrower gave away all his properties to a third party and did not retain anything for himself, it is clear circumstantial evidence that he did it just to avoid the debt and the “market regulation” is inapplicable. See later 99:6.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 60:1"
+    },
+    {
+      "seif": 2,
+      "he": "המחייב עצמו בדבר שאינו קצוב כגון שנתחייב לזון את חבירו או לכסותו חמש שנים (או שלא נתן קצבה לשנים) (ב\"י בשם הרשב\"א) אע\"פ שקנו מידו לא נשתעבד להרמב\"ם וחלקו עליו כל הבאים אחריו לומר שהוא משתעבד והכי נקטינן (וע' לקמן סוף סי' ר\"ז):",
+      "en": "2. If one obligated himself to an unspecified amount, such as where he obligated himself to support or clothe his friend for five years (or where there is no set amount of years) (Beis Yosef, in the name of the Rashba), the Rambam is of the opinion that he is not obligated, even if a kinyan was made. All those that came after the Rambam disagreed with him and said that he would be obligated and this is how we rule. See later at the end of Siman 207.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 60:2"
+    },
+    {
+      "seif": 3,
+      "he": "המחייב לזון את חבירו הנותן אומר לתת לו פירות והלה אומר מעות הדין עם מקבל המתנה ואם התנה עמו בפירוש לזונו על שלחנו והוא אינו רוצה לאכול עמו אינו חייב ליתן לו אלא לפי ברכת הבית: הגה מיהו אם אין העיכוב מכח הניזון אלא מכח המתחייב חייב לתת לו כל דמי המזונות (ב\"י בשם הריטב\"א) ואם חלה הניזון אינו חייב ברפואתו רק בדמי מזונות כמו שהיה בריא (ב\"י ס\"ס ר\"ז בשם הריטב\"א פ' הנושא) וי\"א דהמקבל עליו לזון חבירו סתם כל ימי חייו או כל זמן שצריך משמע (ר\"ן פ' מי שאחזו וב\"י בטור אה\"ע סי' קי\"ד בשם הרשב\"א) וי\"א דאם קבל עליו לזונו סתם או יתן לו ק' זהובים לשנה נפטר בשנה אחת מנדרו (תשובת הרא\"ש כ\"ו סי' כ\"ד) המקבל עליו לזון חבירו לפי כבודו ב\"ד ישיימו כפי מה שהיה נוהג קודם לכן (תשובת הרא\"ש כלל ע\"ה וטור סי' ר\"ז) ואין מלבושים בכלל מזונות אא\"כ אמר אזון ואפרנס דמלבושים הוא בכלל פרנסה (ב\"י בשם הרשב\"א) מי שכתב לחבירו לזונו זמן מה או לתת לו ק' דינרין וזנו קצת הזמן ופסק אינו חייב לתת לו ק' דינרין אלא לתשלום מזונות עד ק' דינרין ולא יותר דודאי לא כיון אלא אם לא יזונו כלל (ב\"י בשם הרשב\"א) ראובן שקבל עליו לזון לשמעון ואשתו והתחיל לזונן ומתה אשת שמעון פטור ממזונותי' ואפי' קצב סך לצורך מזונותיה אפ\"ה פטור מחלקה (תשו' הרשב\"א סי' תתק\"ע):",
+      "en": "3. If one obligated himself to support his friend and the giver wants to provide fruit whereas the recipient demands money, the recipient is in the right. If the giver explicitly conditioned to support the recipient on the giver’s table and the recipient does not want to eat with him, the giver only is required to give him based on the cost of having the recipient eat in the giver’s home. RAMA: If, however, the hold-up is not coming from the one being supported but from the obligated party, the obligated party must give the complete cost of the food. (Beis Yosef, in the name of the Ritva) If the recipient gets sick, the giver does not have to pay his medical expenses and must only pay the value of the food that the recipient received while healthy. (Beis Yosef, end of Siman 207 in the name of the Ritva, Perek 'HaNoseh') There are those that say that where one simply agrees to support his friend, the language implies he will support him his entire lifetime or so long as he needs it. (R\"an, Perek Mi She'Achazu; Beis Yosef in the Tur Even HaEzer Siman 114 inb the name of the Rashba) There are those that say that if one simply agrees to support the other or provide him with 100 gold coins for the year, he will be exempt from just one year of his agreement. (Teshuvos HaRosh 26, Siman 24) If one accepts to support his friend based on his prestige, the court will evaluate what the recipient was accustomed to prior to the obligation. (Teshuvos HaRosh, Klal 75; Tur Siman 207) Dress is not included in the category of food unless the giver says he will feed and support because clothing is included in support. (Beis Yosef in the name of the Rashba) If one writes to his friend that he will support him for a set amount of time or give him 100 dinar and he supported him a little bit but then stopped, the giver does not need to provide 100 dinar. Rather, he must reimburse for the difference between the value for the food given and 100 dinar, but no more than 100 dinar, because he certainly did not intend to give 100 dinar unless he did not provide any support. (Beis Yosef, in the name of the Rashba) If Reuven accepts on himself to support Shimon and his wife and began supporting them and Shimon’s wife died, Reuven is exempt from providing her support. Even if Reuven had set up a set amount for the support of Shimon’s wife, he is still exempt from that portion. (Teshuvos HaRashba)",
+      "ref": "Shulchan Arukh, Choshen Mishpat 60:3"
+    },
+    {
+      "seif": 4,
+      "he": "המתחייב לזון את חבירו סתם או לזונו על שלחנו ומת המתחייב חייבים היורשים לזונו כמה שהיה חייבו מורישו (דשלחנו לאו דוקא):",
+      "en": "4. If one obligates himself simply to support his friend or to support him on his table and the giver dies, the inheritors are required to support him in the same manner the deceased was required to (because “his table” is not literal).",
+      "ref": "Shulchan Arukh, Choshen Mishpat 60:4"
+    },
+    {
+      "seif": 5,
+      "he": "שנים שנתחייבו לזון לאחד דינו כדין שנים שלוו מאחד (וע' באה\"ע סי' קי\"ד ס\"ז):",
+      "en": "5. If two individuals obligated themselves to support one person, the law is the same as where two individuals borrowed from one person. See Even Haezer 114:7.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 60:5"
+    },
+    {
+      "seif": 6,
+      "he": "המחייב עצמו בדבר שלא בא לעולם או שאינו מצוי אצלו חייב אע\"ג דאין אדם מקנה דבר שלא בא לעולם ה\"מ כשהקנה לו בלשון מכר או בלשון מתנה ואפי' כתב לו שעבוד על שדה או קבל אחריות על כל נכסיו ואפי' נתן לו משכון אינו כלום אבל בלשון חיוב כגון שאמר הוו עלי עדים שאני מתחייב לפלוני בכך וכך חייב (וכן הוציאו מבעה\"ת שער ס\"ד) והוא שקנו מידו ראובן שהוציא שטר בקנין על שמעון שכתב בו מחמת שנתתי לו מאה זהובים ושעבדתי לו כל נכסי לגבות' מהם (אבל לא שעבד עצמו להתחייב) (ב\"י) וטען שמעון שבשעה שכתבו על עצמו לא היו בידו ואין אדם מקנה דבר שלא בא לעולם אם הזהובים שבשטר הוא מטבע שנושאים ונותנים בו אין מטבע נקנה בחליפין ואם אין נושאים ונותנים במדינה באותם זהובים נקנים בחליפין (וע\"ל סי' רי\"א ס\"ו) אלא שצריך שיהיו ברשותו בשע' קנין ואם אין הדבר ידוע שהיו ברשותו על התובע להביא ראיה: הגה ואם טוען התובע ברי שהיה ברשותו והנתבע כופר צריך לישבע (טור בשם הרי\"ף) ונאמן לומר נתתי במגו דאי בעי אמר שלא היה ברשותו (ב\"י בשם הרי\"ף) מיהו כל זה לסברת הרי\"ף וקצת רבוותא אבל רבים חולקים על זה וס\"ל דכל האומר נתתי לפלוני כך וכך הוי הודאת בע\"ד וכמאה עדים דמי ואין מדקדקים כיצד נתן דמאחר שהודה אמרינן דודאי נתן באופן המועיל וקנה מקבל המתנה (טור בשם הראב\"ד והרא\"ש סוף כלל ל\"ו ותו' ר\"פ אע\"פ וע' בב\"י):",
+      "en": "6. If one obligates himself for a matter that is not yet in existence or is not available to him, he is still obligated notwithstanding the fact that one cannot make a kinyan on a matter not yet in existence because that is only with respect to a kinyan made in the language of a sale or gift. Even where one writes a lien on a field, mortgages all of his properties or even gives it as a collateral, it is of no effect. When one uses a language of being obligated however, such as where he says “you are my witnesses that I am obligated to so and so, such and such,” he would be obligated, so long as they made a kinyan from him. If Reuven produces a document with a kinyan against Shimon which says, “because I gave him 100 gold coins and mortgaged all my properties for him to collect from,”( but did not obligate himself personally) (Beis Yosef) and Shimon claims that at the time the document was written against him he did not have the money and a person cannot make a kinyan on something not yet in existence and the gold coins in the document are coins that people generally transact with, the coins cannot be acquired via chalipin [barter]. If that country does not generally transact with those gold coins, they could be acquired via chalipin  - see later 211:6- but they must have been in Shimon’s possession at the time of the kinyan. If it is unknown whether it was in his possession, the plaintiff has the burden of proof. RAMA: If the plaintiff claims with certainty that it was in the defendant’s possession and the defendant denies it, the defendant must swear. (Tur, in the name of the R\"if) The defendant is believed to say he gave it already it with a migu that he could have said it was not in his possession at the time of the loan. However, this is all according to the reasoning of the R\"if and some others. Many others, however, disagree with this and hold that anyone who says 'I gave so and so, such and such', is an admission by a party and has the status of 100 witnesses. We do not investigate how it was given because once he was confessed we assume he gave it in an effective manner and the recipient would acquire it. (Tur, in the name of the Raavad; the Rosh, end of Klal 36; R\"if and see in the Beis Yosef)",
+      "ref": "Shulchan Arukh, Choshen Mishpat 60:6"
+    },
+    {
+      "seif": 7,
+      "he": "ראובן הלוה לשמעון מנה ואחר זמן כתב לו שטר בקנין מחמת שלויתי מפלוני כך וכך ונתחייבתי לו בהם ומשכנתי לו קרקע פלוני זכה במשכונא:",
+      "en": "7. If Reuven lent a maneh to Shimon and some time after that, Shimon wrote a document for Reuven with a kinyan that states, “because I borrowed from so and so, such and such, I am obligated to him and I am giving my land as collateral,” so and so would acquire the collateral.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 60:7"
+    },
+    {
+      "seif": 8,
+      "he": "ראובן הוציא שטר שלוה שמעון מלוי וטען ראובן שלוי היה שלוחו וכתב השטר על שמו ולא הקפיד עליו ושמעון טוען לאו בעל דברים דידי את (מאחר שאין לך הרשאה מלוי) (טור) אם הוד' לוי לראובן ששלוחו היה אם אינו חב לאחרים בהודאתו כופין את שמעון שיפרע לראובן ואם בא לוי למחול לשמעון אינו מחול:",
+      "en": "8. If Reuven produced a document that Shimon borrowed from Levi, Reuven claims that Levi was Reuven’s messenger and Levi just used his own name and Reuven did not object, Shimon claims that he has no privity with Reuven because Reuven does not have a power-of-attorney from Levi, (Tur) Levi admits to Reuven that he was a messenger and Levi’s admission does not cause harm to any others, we would force Shimon to pay Reuven. If Levi were to waive the loan to Shimon, the loan would not be waived.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 60:8"
+    },
+    {
+      "seif": 9,
+      "he": "ראובן הלוה מנה ללוי ובשעת הלואה אמר ללוי שיכתבו (העדים) השטר על שם שמעון אך שיתנו השטר ליד ראובן וכשתבע ראובן מלוי בזמנו טוען לאו בעל דברים דידי את הדין עם ראובן ואם תבע ראובן לשמעון שיעשה לו שטר מכר מהשטר הזה שנכתב על שמו אין כופין אותו ואפי' הודה לו שמעון שיעשה לו שטר מכר יכול לחזור בו אבל אם אמר ללוה בשעת הלואה ע\"מ כן אני מלוה לך שתעשה לי שטר בשם שמעון ולכשארצה תחזירנו לו על שמי כופין אותו על כך אפי' לא פירש דבריו אלא אמר לעדים בפני הלוה עוד שטר אחר תכתבו לי על הלוא' זו מחייבין אותו לכתוב שטר אחר על שמו שטר שהי' כתוב על שם ראובן וכתוב בסופו (קודם חתימת העדים) ואלו המעות הם מחכירות הקהל וטוען ראובן שכיון שכתובים על שמו שלו הם שהקהל נתנו לו שטר זה על מעות שהיה לו אצל הקהל והקהל מכחישין אותו הדין עם הקהל:",
+      "en": "9. If Reuven lent money to Levi and at the time of the loan Reuven tells Levi that the witnesses should write the document in Shimon’s name but give the document to Reuven, and when Reuven makes a claim from Levi at the prescribed time Levi claims that he has no privity, Reuven is in the right. If Reuven makes a claim against Shimon that he should write a sale document on this document that is written in Shimon’s name, we would not force Shimon to do so. Even if Shimon were to agree to write the sale document, he may retract. If, however, Reuven told the borrower at the time of the loan, that he is giving the loan on the condition that you write a document for me in Shimon’s name and when I decide you will replace it with one in my name, we would force the borrower on this point. Even if Reuven did not explain his words and just told the witnesses in front of the borrower that they will write another document for him, we would obligate the borrower to write another document in Reuven’s name. If a document was written in Reuven’s name and at the end before the witnesses’ signature the document states, “this money is from the congregation’s property,” and Reuven claims that since it was written in his name the congregation must have given him this document on money that he had entrusted with them and the congregation contradicts him, the congregation is in the right.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 60:9"
+    },
+    {
+      "seif": 10,
+      "he": "שמעון שהי' חייב מנה לראובן ונתפשרו ביניהם שיעש' שמעון שט\"ח ללוי מעשרים דינרים ואח\"כ עשה ראובן (לשמעון) שטר מחילה מכל תביעות ממון ועכשיו טוען שמעון שכיון שלוי לא הלוהו אלא ראובן כיון שמחל לו כל תביעת ממון גם זה בכלל הדין עם שמעון:",
+      "en": "10. If Shimon owed a maneh to Reuven and they compromised to have Shimon create a loan document for Levi of 20 dinar and subsequently Reuven created a waiver document for Shimon on all monetary claims, and Shimon now claims that because it was not Levi who lent him money, but Reuven, and Reuven has waived all monetary claims, this debt is included, Shimon is in the right.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 60:10"
+    },
+    {
+      "seif": 11,
+      "he": "המלו' את חבירו על משכונות קרקע וצוה לכתוב הקרקע בשם בנו הקטן ועכשיו טוען הלוה למלוה לאו בעל דברים דידי את אין בדבריו כלום:",
+      "en": "11. If one lends another with a collateral on real property and the lender instructs to write the property in the name of the lender’s minor son, and now the borrower is claiming that the lender has no privity with him, there is no substance in the borrower’s words.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 60:11"
+    },
+    {
+      "seif": 12,
+      "he": "אשה שטוענת על הקרקעו' שהניח בעלה שחציים שלה ממעות שנפלו לה מבית אביה והשטרות כתובים בשם שניהם הדין עם האשה ואם כתובים בשמה לבד והיא טוענת שכולם שלה כולם שלה:",
+      "en": "12. If a woman claims on real property that her husband left behind that half of it is from money that she inherited from her father’s home and the documents are written in both of their names, the woman is in the right. If the documents are written exclusively in her name and she claims they’re all hers, they all belong to her.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 60:12"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "א) רמב\"ם ריש פ\"ח מה' מלוה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:1"
+        },
+        "2": {
+          "he": "ב) ה\"ה שם וכרבנן דאמרי אחריות טעות סופר ואף ע\"ג שלא נכתב כמי שנכתב (ב\"מ דף י\"ד ע\"א)",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:2"
+        },
+        "3": {
+          "he": "ג) כלו' כיון שאין הנכסים משועבדין אלא מדין ערב צריך לתבוע את הלוה תחלה וכדאמרינן ההוא דיינא דאחית למלוה בנכסי ערב מקמי' דליתבעי ללוה וסלקוהו וכו' (ב\"ב קע\"ד ע\"א) כ\"מ שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:3"
+        },
+        "4": {
+          "he": "ד) סובר רבינו דאחריות דאקני אינו טעות סופ' וכ\"כ בעה\"ת וכן מוכח מדאמרי' ליחוש דלמא דאקני אמר ליה (שם דף מ\"ד ע\"ב) אבל מיני' גובה אפי' מגלימא דעל כתפיה ב\"ב שם ה\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:4"
+        },
+        "5": {
+          "he": "ה) מסקנת הגמרא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:5"
+        },
+        "6": {
+          "he": "ו) מימרא דרבא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:6"
+        },
+        "7": {
+          "he": "ז) מימרא דרב חסדא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:7"
+        },
+        "8": {
+          "he": "ח) טור ס\"ה בשם ת' הרא\"ש כ' פ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:8"
+        },
+        "9": {
+          "he": "ט) לרבותא של החולקים כתבו הרמ\"א כמ\"ש ג\"כ הסמ\"ע וכ' הרשב\"א בת' שאף חייב עצמו בדבר קצוב כגון מנה לכל שנה אע\"פ שאין קצבה לשנים ה\"ז הקוצץ חייב לדעת הרמב\"ם וכ' הרמב\"ן שאם קצב לו מדות כו\"כ של חטים לכל שנה עד ה' שנים דבר שאינו קצוב הוא שמא יוקרו החטים הרבה מס\"ו.",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:9"
+        },
+        "10": {
+          "he": "י) רמב\"ם בפי\"א מה' מכירה ושכן הורו רבותיו וכ' הראב\"ד לא ידעתי מאין הורו וגם ה\"ה כתב שא\"י ראיה לדין זה ובב\"י ובכ\"מ כ' שנ\"ל שלמד מדבעי לאשכוחי בנות בשעת קנין והיכי דמי כגון משגרשה והדרה פסק עמה לזון בתו שילדה לו קודם שגרשה (כתובות דק\"ב ע\"ב) ומדלא מוקי לה בילדה והתנה עמה לזונה וקנו מידו ש\"מ דקנין ל\"מ שלא בשעת הקידושין מפני שהוא דבר שאינו קצוב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:10"
+        },
+        "11": {
+          "he": "כ) הראב\"ד שם בהשגות וה\"ה בשם הרמב\"ן והרשב\"א וכ\"כ הטור בשמם והריטב\"א ובה\"ת שער ס\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:11"
+        },
+        "12": {
+          "he": "ל) הריטב\"א מהירו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:12"
+        },
+        "13": {
+          "he": "מ) שם ממשנה אם אמרה א\"א לזוז מבית אבא וכו' שם דף ק\"ג ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:13"
+        },
+        "14": {
+          "he": "נ) כ' הרב ב\"ח ☜ כגון שבני ביתו מחרחרים עמו ריב ומדון ואצ\"ל אם המתחייב בעצמו מראה לו שנאה או מרגיל עמו קטטה ושזו כוונת הרב בהגה שכ' בסתם דלמשמע כל צד עכוב שבעולם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:14"
+        },
+        "15": {
+          "he": "ס) שם בת' הריטב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:15"
+        },
+        "16": {
+          "he": "ע) אלא שהתנה כן כדי שלא יתחייב לתת לו דמי מזונות שלימים בכל מקום שהוא שם אם לא ירצה לאכול שם כדרך שהי' חייב אם נתחייב לו סתם וע' י\"ד בטור אה\"ע סי' קיד ולק' סי' רז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:16"
+        },
+        "17": {
+          "he": "פ) ג\"ז שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:17"
+        },
+        "18": {
+          "he": "צ) טור סעי' י' וי\"א כ\"כ בה\"ת בשער ס\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:18"
+        },
+        "19": {
+          "he": "ק) למד כן מדאשכחן דמשעבד לחובו מה שיקנה כמ\"ש לעיל סעיף א'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:19"
+        },
+        "20": {
+          "he": "ר) וביאר שם אע\"ג דליתיה ל' הודאה מחייב דלא גרע מערב דלא מקבל מידי ומשעבד נפשיה בקנין אפילו לאחר מתן מעות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:20"
+        },
+        "21": {
+          "he": "ש) שם ושם בשם תשו' להרי\"ף",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:21"
+        },
+        "22": {
+          "he": "ת) ל' הטור הרי הם פירות ונקנים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:22"
+        },
+        "23": {
+          "he": "א) אבל ☜אם אמר אני נותן לא קנה וכמ\"ש הב\"ח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:23"
+        },
+        "24": {
+          "he": "ב) טור סט\"ז כ\"כ בה\"ת שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:24"
+        },
+        "25": {
+          "he": "ג) וביאר שם בה\"ת דכיון שהי' שם קנין וקרקע נקנה בחליפין מהא דאמרינן בכולהו קנו לבר מאשה (קידושין דף ו' ע\"ב) דלא אמרי' מלו' להוצא' ניתנה וכשם שאין המלו' קונה כך אין השעבוד שלו חל כדאמרינן מנה אין כאן משכון אין כאן שם דף ח' ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:25"
+        },
+        "26": {
+          "he": "ד) שם ושם בשער נ\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:26"
+        },
+        "27": {
+          "he": "ה) וביאר שם שלא הוצרכו כתיב' ומסיר' אלא למי שבא לזכות ממונו למי שלא הי' לו בו שום זכות עד עתה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:27"
+        },
+        "28": {
+          "he": "ו) כיון שיש כאן מסיר' והודאה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:28"
+        },
+        "29": {
+          "he": "ז) שם ושם בשער נ\"ב למדוהו מברייתא הלוקח שדה לשם חבירו אין כופין וכו' ב\"ק דף קב ע\"ב וכדמפרש לה שם בגמ' ובריש דף ק\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:29"
+        },
+        "30": {
+          "he": "ח) ומפ' הטעם שהרי לא עשה מעש' שיתקיים התנאי ביניהם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:30"
+        },
+        "31": {
+          "he": "שם בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:31"
+        },
+        "32": {
+          "he": "ט) תשובת הרא\"ש) כלל ו' סעיף ט\"ו מס\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:32"
+        },
+        "33": {
+          "he": "י) הרשב\"א בסי' תתקנ\"ז מחודשים סי' ד'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:33"
+        },
+        "34": {
+          "he": "פירוש שריצוי המחיל' הי' ג\"כ אח\"כ וכן הוא בתשובה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:34"
+        },
+        "35": {
+          "he": "כ) תשובת הרא\"ש כלל צ\"ו ס\"כ מס\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:35"
+        },
+        "36": {
+          "he": "ל) ג\"ז שם ושם ומיירי באשה שאינה נושאת ונותנת בתוך הבית כמ\"ש בסי' ס\"ב סעיף א' ובהג\"ה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:36"
+        },
+        "37": {
+          "he": "מ) דין הקונה ☜קרקע הלוה מעות על שם בניו הקטנים והשטרות נכתבו על שמן והפקידם ביד נאמן ואמר שאם ימות יהא לבניו אחריו ואח\"כ נשא אשה ומת שזכו בניו בקרקע ובשטרות ההם תשוב' הרא\"ש כלל נ\"ז סי' ג' וע' עוד בריב\"ש סי' ר\"ן שהאריך בזה סמ\"ע ☜ דין הוציא כ' ידו על חבירו שנשבע ש\"ד לתת לו איזה דבר והלה טוען שלא נשבע רק כתב כך והתובע מודה לו ע' בי\"ד סי' רל\"ב סעיף י\"ב בהג\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 60:37"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "הרי זה טורף כו'  אע\"פ שלא כ' לו אחריות דאחריות ט\"ס הוא כדלעיל ר\"ס ל\"ט ולענין דאקני אי אחריות ט\"ס עמ\"ש לקמן ר\"ס קי\"ב בזה ועיקר דיני טריפה נתבארו לקמן מסי' קי\"א עד סוף סימן קי\"ד וע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:1"
+        },
+        "2": {
+          "he": "ודעתיד אנא למקני כו'.  בסמ\"ע ס\"ק ב' הביא מחלוקת הרשב\"א עם הרמב\"ן דבשעבוד. דאקני יכול לחזור בו ולקמן ר\"ס קי\"ב העליתי כהרמב\"ן דא\"י לחזור בו ומ\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:2"
+        },
+        "3": {
+          "he": "לשעתו  כתב בסמ\"ע דר\"ל בעת שהי' חייב לו עדיין א\"נ ר\"ל בעת שהי' צריך לו למכור או ליתנו לזה עכ\"ל והוא דוחק גם קשה א\"כ איזה צורך כתב כלל לשעתו אלא נראה משום דהרמב\"ם שם אח\"כ מיד גבי אפותיקי מחלק בין מכר לשעתה למכרה ממכר עולם והעתיקו המחבר ל' ר\"ס קי\"ז כתב כאן דאפי' מכרן לשעתו ולא ממכר עולם אינו טורף מהם וכ\"כ הטור ל' סי' קי\"א סעיף י\"ט דאם נתן מתנה לזמן ידוע אין הב\"ח יכול לטרוף עד שיגיע זמנה וע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:3"
+        },
+        "4": {
+          "he": "זהו דין הש\"ס  ועכשיו אין טורפין מטלטלים וקשה שהרי בהרמב\"ם וכל הפוסקים ראשונים ואחרונים לא נזכר מנהג זה ואדרבא הרשב\"א והריב\"ש ושאר אחרונים כתבו כמה פעמים בתשובותיהם הלכה למעשה לטרוף ממטלטלים ולא הזכירו שום מנהג (וגם מדברי התוס' והגהת אשר\"י פ' ח\"ה מבואר דאף בזמנם היו טורפים ממטלטלים והבאתי דבריהם לעיל סי' ל\"ז סעיף ט\"ז ס\"ק כ\"ד) וגם הרא\"ש בפסקיו לא הזכירוהו רק בתשובתו כ' שבארץ ההוא נהגו כך וגם באותו תשו' הי' מסופק אם נהגו כך וכ' שיש לעמוד על המנהג ואם אי אפשר לברר המנהג יעמיד הדבר על דין התורה ויטרוף הבעל חוב מטלטלים והביאו הטור. ועוד נ\"ל דהרא\"ש לא קאמר אלא דוקא בארץ ההוא שהיו נוהגים לכתוב שעבוד מטלטלים אגב קרקע בכל השטרות וכן משמע להדיא מדבריו שכ' וז\"ל ודאי מדינא דש\"ס יש לטרוף ממטלטלי אמנם מיום בואי לארץ הזאת תמהתי על כי ראיתי הכותבים בשטרות שעבוד מטלטלי אג\"ק שא\"כ אין לך אדם שקונה חפץ מחבירו ורציתי לבטלו ואמרו לי אע\"פ שכותבים כן בשטרות כבר נהגו בכל הארץ הזאת שאין מגבין לב\"ח ממטלטלי שמכר או נתן הלוה מפני תקנת השוק. ומביאו הטור משמע להדיא דר\"ל בשלמא לדינא דש\"ס שלא היו כותבים כן בכל השטרות לא הי' שייך תקנת השוק דלא שכיח לכתוב שעבוד מטלטלי אג\"ק ומי שקונה אינו חש למלת' דלא שכיח אבל כיון שבארץ הזאת המנהג לכתוב שעבוד מטלטלי אג\"ק בכל השטרות א\"כ מלת' דשכיח הוא ואין לך אדם שקונה חפץ מחבירו דשמא לוה המוכר משום אדם בשטר ות\"כ מטלטלי' אלו משועבדים הן וא\"כ מוכח מדברי הרא\"ש וטור דדוקא היכא שנהגו לכתוב בכל השטרות שעבוד מטלטלים אג\"ק הוא דאין נוהגין לטרוף ממטלטלים הא לאו הכי טורפים ממטלטלי ונראה דגם המחבר מיירי דוק' במקומות שלו שהי' המנהג פשוט כן שלא לטרוף ממטלטלי' והיינו נמי משום שהיו נוהגים לכתוב שעבוד מטלטלי אג\"ק בכל השטרות חבל בשאר מקומות שאין ידוע המנהג בבירור אין לזוז מדין תורה וגם היכח שאין נוהגין כן לכתוב שעבוד מטלטלים אג\"ק בכל השטרות פשיטא דטורפים ממטלטלים וא\"צ לחקור כלל על המנהג דכיון שאין כותבים שעבוד מטלטלי חג\"ק רק במקצת שטרות כששעבד לו בפירוש וצוה לכתוב כן א\"כ לא שייך תקנת השוק ודאי דלא נהגו בהיפך מדין תורה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:4"
+        },
+        "5": {
+          "he": "נהגו שאינו טורף כו'.  עיין בתשו' מהרשד\"ם סי' קפ\"ט דבאשה שלותה ונשאת גובה מבעלה ממה שהכניסה לו ולא שייך בזה תקנת השוק ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:5"
+        },
+        "6": {
+          "he": "שמכר או נתן כו'  עמ\"ש לקמן ס\"ס קנ\"ו דאפי' בא אחד המכירה ליד זה הב\"ח ששיעבד לו מטלטלי אג\"ק צריך להחזירם לו להלוקח או להמקבל מתנה כיון שכבר קנהו אותם לפי קנינם וע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:6"
+        },
+        "7": {
+          "he": "או נתן כו'.  כתב ב\"י וד\"מ משמע דס\"ל להרא\"ש דבמתנה נמי איכא משום תקנת השוק ואין כן דעת הרשב\"א כמ\"ש בסי' שנ\"ו כו' ולקמן סי' שנ\"ו השגתי על הב\"י וד\"מ בזה והוכחתי דהרשב\"א והרא\"ש לא פליגי. וכתב עוד בד\"מ דבתשו' הרא\"ש כלל ע\"ט סי' ה' משמע כדברי הרשב\"א ע\"כ ונ\"ל דלא כיון יפה דז\"ל הרא\"ש שם בתשו' וטעמא שאין גובים ממטלטלי שמכר היינו משום תקנת השוק כו' אבל בנתינת שט\"ח לא שייך תקנת השוק דמלתא דלא שכיחא היא כו' והבין הד\"מ דר\"ל דמתנה מילתא דלא שכיח' היא וזה אינו שהרי כ' לעיל מיניה בסמוך דגם בנתן מטלטלים אין מוציאין ממנו משום תקנת השוק וכמ\"ש הטור כאן ס\"ד בשמו אלא רצה לומר דנתינת ש\"ח מילת' דלא שכיחח היא וכ\"כ הטור להדיא בס\"ס קי\"א שחלה לא\"א הרא\"ש ז\"ל כו' אע\"ג דשאר מטלטלים שנתן ראובן לא הוי גבי מיניה היינו משום תקנת השוק אבל בנתינת ש\"ח לא שייך תקנת השוק דמלתא דלא שכיחא היא כו' וכן משמע להדי' בטור כאן סעיף ז' בשם תשובת הרא\"ש ואם כן אפי' במוכר שט\"ח דינא הכי וכ\"כ הטור וכן המחבר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:7"
+        },
+        "8": {
+          "he": "מפני תקנת השוק.  שאין לך אדם שקונה חפץ מחבירו. ועיין בתשובת ן' לב ספר ב' סי' נ\"ה ובתשובת מבי\"ט ח\"א סימן רי\"ח וח\"ב סימן קע\"ז וסימן ר\"ל: וכתב ב\"י דדוקא מטלטלי שמכר או נתן אבל לענין בעל חוב מאוחר שקדם וגבה מאי תקנת השוק איכא הלכך דיינינן ליה כדיניה שנתבאר בסי' ק\"ד כו'. והיצרכתי לכתוב כן לאפוקי מדיין א' שטעה כו' גם בסמ\"ע ס\"ק ז' כתב שנ\"ל כדברי הב\"י ולא כמהר\"ש די מדינה ז\"ל בתשובותיו (סי' ע\"א) וסי' ק\"ח (וסי' ר\"י) בחלק ג' שחלק על הב\"י בדין זה וס\"ל דגם בשני מלוין שקדם המאוחר וגבה מטלטלי אין מוציאין מידו ע\"כ ואמת ראיתי בתשו' מהר\"י ן' לב ספר א' ס\"ס נ\"ז דף פ\"ד ע\"ד ובתשו' מהר\"א ן' חיים סי' נ\"ד כתבו ג\"כ כדברי הב\"י גם בתשו' מה\"ר שלמה כהן ספר ג'. סי' פ\"ג כתב וזה לשונו דמילת' דפשיטא היא מה שכתב הב\"י בסי' ס' דלענין ב\"ח מאוחר דיינינן ליה כדיניה דאם איתא דשעבוד מטלטלי אג\"ק לא מהני מידי אם כן אמאי כותבים אותו דבשלמא אי מהני לב\"ח מאוחר ניחא אלא אי אמרת דלא מהני לב\"ח מאוחר למאי אהני ליה כיון דלענין מכירה ומתנה לא מהני עכ\"ל ודבריו תמוהין אצלי דהא שפיר מהני לענין אם הם ביד הלו' גיבה המוקדם וגם יש לומר דמהני לענין שטרות וכהאי גונא. אמנם הדיין ההוא שחשב הב\"י לטוע' לאו קטיל קני באגמ' הוה כי ראיתי והנה הוא הבעל תשובת מבי\"ט בח\"א סי' ה' שפסק כן וכ\"כ בתשו' מהר\"ר יוסף טראני סי' קכ\"ד שהוא מחלוקת גדולי הדור וע\"ש עוד בר\"ס קכ\"ח שדעתו ג\"כ כהמבי\"ט ואחר שראה המבי\"ט דברי ב\"י השיג על הב\"י וכתב דב\"ח מאוחר לא גרע ממתנה ואף שהר\"ב ב\"י בספרו בדק הבית חזר והשיג על המבי\"ט בזה וכתב עליו דשאני מתנה דאי לאו דה\"ל הנאה מיניה לא הוי יהיב ליה מתנה וה\"ל כמכר מ\"מ זה דוחק ועוד דהכא נמי ה\"ל הנאה מיניה שהלו' לו תחלה תדע דאל\"כ מנ\"ל להרא\"ש דעשו תקנת השוק בכה\"ג ובפרט לפי מה שהוכחתי לק' סי' שנ\"ו דהרא\"ש מודה דבמתנ' לא שייך תקנת השוק דלא עדיף מגנב ופרע בחובו ועוד דהכא משמע מהרא\"ש דעשו תקנת השוק במכר ומתנ' דהלוקח והמקבל מתנה א\"צ להחזיר גוף החפץ כלל אף כשיתן לו הב\"ח הדמים והא בהך תקנת השוק דלקמן סי' שנ\"ו צריך הלוקח עכ\"פ להחזיר גוף החפץ אלא ודאי הרא\"ש קאמר כיון דאין מוציאים המטלטלים שמכר א\"כ ע\"כ נהגו לעשות תקנת השוק במטלטלי ונהגו דאף בשטר שעבוד מטלטלי אג\"ק לא יועיל לענין טריפה רק לענין אם הם ביד הלו' שאז גובה המוקדם וא\"כ כיון דכמאן דלא כתיב דמי לענין טריפ' א\"כ ה\"ה נתן במתנה אין טורפין וא\"כ ה\"ה בב\"ח מאוחר שגבה כיון דלענין טריפ' הוי כמאן דלא כתיב שעבוד מטלטלים אג\"ק א\"כ אין מוציאין מידו. וראי' ברורה לזה ממה שכתבתי לקמן סי' שנ\"ו בשם ראבי\"ה ובית חדש בי\"ד ושאר פוסקים דלמדו דגבי גנב ונתן במתנ' לא עשו תקנת השוק דגרע מגנב ופרע בחובו והוכחתי שם שגם הרא\"ש מודה לזה א\"כ טפי מסתבר לומר דלא עשו תקנת השוק במתנ' מפרע בחובו וא\"כ כיון דבכאן כ' הרא\"ש דבמתנ' עשו תקנת השוק כ\"ש בפרע חובו ולא מסתבר לחלק בין פרע בחובו לגבה ב\"ח עצמו בחובו אלא נרא' כיון דהכא במתנה איכא תקנת השוק מטעמא דלענין טריפה כמאן דלא כתב שעבוד מטלטלים אג\"ק דמי כל שכן לענין ב\"ח מאוחר שקדם וגבה כך נ\"ל וכך ראוי להורות:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:8"
+        },
+        "9": {
+          "he": "שטר חוב כו' ומכרו כו'.  מוכח מכאן מדברי הרא\"ש והטור והמחבר ושאר אחרונים דשטרות משתעבדי באגב ותימא שלא הביא בב\"י מחלוקת בזה שהרי הרשב\"א בתשובה סי' תתקי\"ד חולק וס\"ל דשטרות אינם משתעבדי באגב כלל ומביאו ב\"י לקמן סי' ק\"ד מחודש ד' בקצרה א\"כ לפי דעת הרשב\"א פשיטא דאין הב\"ח יכול לגבות מן הש\"ח שמכר אף לפי דינא דש\"ס ולקמן סי' ס\"ו ס\"ק כ\"ה כתבתי שנ\"ל כדברי הרשב\"א ומ\"מ צ\"ע כיון דהאחרונים לא כתבו רק דברי הרא\"ש וטור בסתם. ומיהו אף להרשב\"א נ\"מ בזה שכתב הרא\"ש דבשטרות לא שייך תקנת השוק לענין אם מכר מתחלה השט\"ח במכירת אג\"ק או בשאר קנין המועיל כדלקמן סי' ס\"ו וחזר ומכרו לאחר הלוקח הראשון מוציא מיד הלוקח השני בחנם דלא שייך בשטרות תקנת השוק כיון דלא שכיח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:9"
+        },
+        "10": {
+          "he": "ה' שנים ולפי פירש\"י בהניזקין דף נ\"א ע\"א מזונות וכסות ה' שנים הוי דבר שיש לו קצבה כיון שיש קצבה לשנים והרמב\"ן בתשובה שהביא הבעה\"ת שער ס\"ד חולק עליו מדאמרי' בכתובות פ' אע\"פ (כתובות ריש ד' נ\"ט) דמזונות לא קיצי ומביאו ב\"י מחודש ו' וכ\"כ הרשב\"א בחדושיו פ' הניזקין ולפע\"ד ל\"ק מידי דלא קאמרי' התם אלא דתקנו מזונות תחת מותר ולא תחת מעשה ידיה אלא מעה כסף תחת מעשה ידיה דמעשה ידיה קיצי דהיינו משקל ה' סלעים ומעה כסף קיץ אבל מ\"מ כיון שהשנים קצובות מיקרי דבר שיש לו קצבה לענין חיוב. ועוד נ\"ל דהתם גבי אשתו לא חשיבי קצבה משום רפואה שאין לו קצבה דבכלל מזונות של אשתו היא (דדילמא תהי' חולה ביותר ויצטרך הרבה לרפואת') וכדאיתא בתו' פרק נערה שנתפתתה (כתובות דף נ' ע\"ב) ובהרא\"ש פ' מציאת האשה גבי עישור נכסי (וז\"ל הרא\"ש ונ\"י נ\"ל דמזונות אין להם קצבה בשביל רפואה ולא תקשי מההיא דהנושא שפסק לזונה חמש שנים דהא דאמרינן דרפואה שאין לה קצבה בכלל מזונות היינו בבתו דניזונית בתנאי כתובה מידי דהוי אאשה אבל אם אדם קבל עליו לזון איש נכרי לא מסתבר כלל שיתחייב ברפואתו ע\"כ) אבל רש\"י מיירי התם להדיא בפסק לזון את בת אשתו דאינו חייב לרפאותה וכדאיתא בירושלמי וכמ\"ש לקמן ס\"ק י\"ד א\"כ ה\"ל דבר שיש לו קצבה כן נ\"ל ברור ליישב פירש\"י. גם שאר הקושיות שהקשה הרשב\"א שם על פירש\"י אינם כלום לפע\"ד למעיין שם. ואדרבה לפי מ\"ש הרשב\"א שם דאכולה פריך קשה דא\"כ מה מותיב הכא ה\"ל לאקשויי בלאו הכי אגופ' דמתני' דפרק הנושא רישא אסיפא אהדדי מ\"ש רישא ומ\"ש סיפא (ויותר הי' נרא' לפרש אם באנו לומר דה' שנים הוי דבר שאין לו קצבה דהוה משמע ליה למקשה דמתני' דהנושא בכתב לה מיירי וכדס\"ל להמקש' בפרק הנושא (כתובות דף ק\"ב ע\"ב) וכדפירש\"י התם להדיא וא\"כ פריך שפיר לר' חנינא דהא בכתיבה לחוד מהני ומשני שקנו מידו או דקנין אלים טפי מכתיב' כמו שפירשו התוס' והרשב\"א או דקנין בהדי כתיבה מהני וכמ\"ש לקמן ס\"ק י\"ב לדעת הריטב\"א ואין להקשות היכא הוה ס\"ד דמקשה דמתני' מיירי בדכת' לה א\"כ לדידיה נמי תקשי אי הכי בנות נמי ומאי נפקא מינה הא לאו מלתא היא דהא בהדיא קתני במתני' הנושא את האשה ופסק לזון את בתה והיינו משום דמסתמא כותב לה לראייה לזון את בתה אבל בנותיו בסתמא אינו כותב אבל קנין לא אדכר במתני' כלל ומלתא יתירתא היא ומאי פסק' וזה ברור ובעל כרחך צ\"ל כן להמקשה דפ' הנושא לפי פירש\"י שם: וכן מפרש בירושלמי ר\"פ הנושא הלכה ב' מתני' דהנושא מפני שהיא כבעלת חוב כיון שכתב לה שטר ע\"ש. כן היה נ\"ל לפרש הסוגיא דפ' הנזקין ג\"כ ואדרבה קשה לי על רש\"י דפרק הניזקין למה לא פי' כמו בפ' הנושא וצל\"ע) וכן מבואר להדיא בתוס' פ' הנושא (כתובות דף ק\"א ע\"ב) ד\"ה והיא ניזוני' כו' שכתבו למ\"ד בהנזקין קצובים לחוד טרפה ל\"ק מידי דהכא משום קצבה כו' וכן בדף ק\"ב ע\"ב ד\"ה הב\"ע כו' כתבו וז\"ל ולפי מאי דמשמע בגיטין דלמאן דלא בעי אלא קצובים אתי שפיר הך דהיא נזוני' מנכסים משועבדים אפי' דלא קנו מידו מצינו לאוקמא ההיא דחמשה גובים מן המחוררין כשאין שם קצבה עכ\"ל הרי להדיא דס\"ל כפירש\"י דמזונות ה' שנים הוי קצובים. וכ\"כ עוד התוס' להדי' בפ' נערה שנתפתתה (כתובות דף נ' ע\"ב) וכן הרא\"ש פ' מציאת האשה גבי אי אזלי' בתר אימדנא דאב להוסיף על עישור נכסי דחשיב קצבה בפ' הנזקין ובפ' הנושא כשפסק לזונה חמש שנים דקתני נזוני' מנכסים משועבדים כו' עכ\"ל. וגם הבעה\"ת ריש שער ס\"ד כתב דאיכא דבעי מימר דה' שנים נקרא דבר קצוב וכפירש\"י כו' ע\"ש וע\"כ צ\"ע לדינא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:10"
+        },
+        "11": {
+          "he": "או שלא נתן קצבה לשנים.  צ\"ע מנ\"ל להרב הא והרי בתשו' הרשב\"א שהביא ב\"י מחודש א' איתא להדיא איפכא דמי שנתחייב עצמו בקנין לתת לחבירו מנה כל ימי היותו סופר או חזן אע\"פ שאין השנים קצובות מיקרי קצוב אף להרמב\"ם וכן היא בר' ירוחם נתיב ט\"ו ח\"ג ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:11"
+        },
+        "12": {
+          "he": "וחלקו עליו כו'.  והכי נקטינן. עיין בתשובת ן' לב ספר או סוף כלל י\"ב שכתב דמצי המוחזק לומר קים לי כהרמב\"ם. וכה\"ג כתב בתשובת מהרשד\"ם סי' פ\"ב ובסי' קכ\"א וקכ\"ד וקע\"ז וכן משמע בתשובת מהרש\"ך ע\"ש בתשובת השייכים לספר א' סי' כ' ובספרי ג' סס\"ז וסי' ל\"ד וכ\"כ בספר גדולי תרומה שער ס\"ד סוף ח\"מ ריש ד' שמ\"ח וז\"ל ולענין פסק הלכה בזה כבר הסכימו האחרונים מהר\"י ן' לב ז\"ל בח\"א ומהרש\"ך במקומות הרבה שלא להוציא מיד המוחזק כנגד סברת הרמב\"ם ורבותיו ז\"ל עכ\"ל ואין דבריהם נראין לי דכבר ידוע שאין לומר קים לי כהיחיד היכא שכל חכמי ישראל חלוקים עליו וכמ\"ש בספרי תקפו כהן סי' קכ\"ג והרי כאן חולקים הראב\"ד והרמב\"ן והרשב\"א ובעל התרומות וטור כאן וכן הרא\"ש וטור לקמן ס\"ס ר\"ז ורבותיו של הריטב\"א והריטב\"א עמהם וכן דעת הר\"ן פ' עשרה יוחסין וכן מסקנת ה' המגיד וכן נראה דעת הריב\"ש סי' שמ\"ה ור' ירוחם נט\"ו ח\"ג וכתבו הרמב\"ם ובעה\"ת שם שכן היו נוהגים כל בני דורם להתחייב כל אחד במזונות לחבירו ובדבר שאין לו קצבה וכ\"כ הרשב\"א והריטב\"א שכן עושים מעשים בכל יום שלא כהרמב\"ם. וכן בש\"ס משמע בכמה דוכתי דלא כהרמב\"ם (ובפרט בגטין פ' הנזיקין דף נ' ונ\"א גבי הא דאמרי' התם דאין מוציאין לאכילת פירות ולשבח קרקעות מנכסים משועבדים לפי שאין קצובים וכן בפ' שנים אוחזין (בבא מציעא דף ט\"ו ע\"א) גבי הא דאמרינן התם והא א\"ל שמואל לרב חיננא בר שילת אמליך וכתוב שבחא ופירי ע\"ש וכן בכמה דוכתי בש\"ס) ועיין בבעל התרומות ריש שער ס\"ד תשובות הרמב\"ן שהאריך בראיות לסתו' דברי הרמב\"ם ומה שהעתיק ב\"י סוף סעיף י\"א מבעה\"ת שער מ\"ג ח\"ד תשובת הרמב\"ן שכתב בסוף אלא שיש. לחוש לדעת האומרים שאין אדם מחייב עצמו בדבר שאינו קצוב ע\"כ לא הועתק יפה כי בבעה\"ת שער מ\"ג שם איתא בזה\"ל אלא שיש לחוש לדבר לדעת האומר שאין אדם מחייב עצמו בדבר שאינו קצוב ויפטור לדעתם שהרי אינו ידוע מה שיקנה אבל אנו אין דעתינו שוה עמהם ע\"כ ובשער ס\"ד איתא תשובות הרמב\"ן באריכות שסתר דברי הרמב\"ם בכמה ראיות ומביא באותה תשובה בסוף דבריו השגת הראב\"ד וכתב אלו דבריו ועליו אנו סומכין בזה וע\"ש: גם מ\"ש בב\"י וכ\"מ ראיה לדברי הרמב\"ם מפ' הנושא (כתובות דף ק\"ב ע\"ב) מדלא אוקמה בילדה כו' אינה ראיה כלל דהא צריך לאשכוחי שהקנין מועיל לאשה ולא לבת והיינו ע\"כ שקנו בבת א' בשעת נישואין ואדרבה המדקדק שם בסוגיא יראה דמשמע דלא כהרמב\"ם: גם מ\"ש בספר גידולי תרומה ריש דף שמ\"ח ראיה להרמב\"ם מריש פרק הנושא כי פריך אמתניתין דהנושא את האשה ופסקה עמו כו' ל\"ל לתרוצי בשטרי פסיקתא לימא כי היכי דר' יוחנן מוקמא לה בכה\"ג דאמר חייב אני לך ק' בשטר ה\"נ לר\"ל מיירי שנתחייב באופן מספיק לדידיה דהיינו באתם עידי אלא דהתרצן לא בעי לשנויי הכי משום דידע האמת דלקושטא דמלתא בין לר' יוחנן בין לר\"ל קשי' מתני' משום דבר שאינו קצוב הלכך צריך לאוקמה לכ\"ע בשטרי פסיקת' וממילא מיתרצא בהכי לריש לקיש עכ\"ל לאו מילתא היא דבשלמא לרבי יוחנן אשמעינן רבותא לאפוקי מר\"ל אבל באתם עדי מאי קמ\"ל דה\"נ ליכא למימר דמיירי בשחייב בשטר דא\"כ מאי קמ\"ל וכמ\"ש רש\"י ותוספות. ואדרבה בש\"ס התם משמע דלא כהרמב\"ם דהא משמע דלר' יוחנן ניחא אפילו בלא רב גידל בשטרי פסיקתא. ומ\"ש הרב המגיד דהמ\"ל ולטעמיך הוא דוחק גדול: גם מ\"ש הבית חדש באבן עזר ריש סימן קי\"ד לתרץ דברי הרמב\"ם דלר' יוחנן מתני' דמזונות בת אשתו מיירי דמוסר לה שטר בפני עדים ולא מיירי בשטרי פסיקתא לר' יוחנן אלא מיירי דוקא שלא בשעת קידושין ושלא בשעת נישואין ואפ\"ה חייב בדבר שאינו קצוב היינו טעמא דבבת אשתו סגי בקנו מידו או בשטר בההיא הנאה דמיתחתני כו' עכ\"ל לא נהירא לי דהא הרמב\"ם כתב בפי\"א מה' מכירה ומפני מה הפוסק עם אשתו שיהא זן את בתה חייב לזינה מפני שפסק בשעת נישואין והדבר דומה לדברי' הנקנין באמיר' עכ\"ל אלמא דאי לאו הכי אפי' בבת אשתו לא סגי בקנו מידו ואם כן הדר' קושיא לדוכתא דהא לרבי יוחנן מהני שטר אלא העיקר בש\"ס כהראב\"ד וסייעתו והכי מוכח נמי בש\"ס פרק הניזקין סוף (גיטין דף נ') ונ\"א ע\"ש. גם מדברי הרמב\"ם ס\"פ כ\"ג מה' אישות מוכח כן דיכול אדם לחייב עצמו אף בדבר שאין לו קצבה אלא שבב\"י בא\"ע סי' קי\"ד ובכ\"מ שם דחק ליישב דבריו דהלכות אישות דלא סתרי לדבריו שבכאן וע\"ש שדבריו דחוקים. וכן נראה דעת המחבר כאן ולקמן סוף סי' קל\"א סעיף י\"ג דלא קי\"ל בהא כהרמב\"ם כלל וכ\"פ בדרכי משה ובעיר שושן וכן פסק הב\"ח כאן ואע\"פ שמ\"ש הב\"ח שמ\"ש הר\"ן פרק י' יוחסין שכן פסק הרב בתשובה הוא הרי\"ף ליתא דכשתדקדק בהר\"ן ובעה\"ת שער ס\"ד תרא' שר\"ל הרב הרמב\"ן בתשובה מ\"מ הדין דין אמת וכן המנהג פשוט: מיהו היינו לענין בני חורין אבל לטרוף ממשועבדים צ\"ע דאע\"ג דכ' הטור סעיף ט' וז\"ל הרי זה כשאר חוב לפיכך אם לא קנו מידו ולא חייב עצמו בשטר גובה מבני חורין אבל אם קנו מידו או שחייב עצמו בשטר גובה ממשועבדים עכ\"ל נראה דהטור ס\"ל כמ\"ש הרי\"ף והרא\"ש פ' הנזקין כעולא משמי' דריש לקיש וכר' יוחנן דטעמא דמתני' שאין מוציאין לאכילת פירות ולשבח קרקעות מנכסים משועבדים משום שאין כתובים וכן פסק הרשב\"א בחדושיו שם אבל הרמב\"ם בפי' המשנה כ' הטעם כר' חנינא לפי שאין קצובין וכן פסק עוד בחבורו ריש פ' כ\"א מה' מלוה וז\"ל אבל השבח אינו גובה אלא מבני חורין שתקנת עולם היא שלא יגבה השבח ולא הפירות ולא מזון האשה והבנות מנכסים משועבדים שאלו דברים שאין להם קצבה עכ\"ל וכן כ' הסמ\"ג עשין צ\"ד דף קע\"ה ע\"א וכן פסק הבעל התרומות ריש שער ס\"ד וכן כ' הברטנור' ריש פרק הנזקין וכן כ' רש\"י פ\"ק דבבא מציע' דף י\"ד ע\"ב הרי שכל הפוסקי' אלו ס\"ל הלכה כר' חנינא דטעמ' הוא לפי שאין קצובין וכתובין בדבר שאין לו קצבה פשיטא דלא מהני לרבי חנינא לטרוף ממשעבדי וכדמוכח בש\"ס וכן כ' הרשב\"א בחדושיו להדי' ע\"ש. וכן נראה דעת הרמב\"ן בתשו' שהביא הבע\"ת שער מ\"ג חלק ד' ומביאו ב\"י סי' זה סעיף י\"א (ע\"ש דמוכח מדבריו דאף בשטר לא טריף ממשעבדי אלא בקנו מידו ולפ\"ז צ\"ל דמ\"ש הטור לפיכך כו' הוא ל' עצמו ולא ל' הרמב\"ן או אפשר הטור היה מפרש דלהרמב\"ן שטר הוי כמו קנין או שהי' לו נוסח אחר בדברי הרמב\"ן): והתוס' י\"ט ר\"פ הניזקין תמה על הרב ברטנור' שכ' טעמ' שאין להם קצבה שהרי לפני זה כ' הר\"ב שגובה דמי הקרקע מנכסים משועבדים שהרי מכרו לו באחריות וכ' לו שטר מכירה והרי היא מלוה בשטר ואת הפירות מנכסים בני חורין ולא ממשועבדים ע\"כ והיינו כדברי ר\"ל עכ\"ד ול\"ק מידי דהא קמבעי' לי' בש\"ס לר' חנינא אי כתובים וקצובים בעי ולא איפשיטא וא\"כ יפה כ' הר\"ב בתחלה שהקרקע הוא מלוה בשטר דדלמאלא מהני קצבה לחוד ואת הפירות מנכסי' בני חורין אע\"פ שהם כתובים כיון שאין קצובים אבל קשיא לי דל\"ל להרב ברטנורה לטעמא שכ' לו שטר הא אמרינן בפ' ח\"ה ריש דף מ\"ב המוכר שדהו בעדים גובה מנכסים משועבדים אפי' בלא שטר דמאן דזבין בפרהסי' זבין ומוסכם מכל הפוסקים וכדלקמן ריש סי' רכ\"ה ואפשר כ' כן לרבותא דפירות דאפי' כתובים אין גובים מנכסים משועבדים וכמ\"ש וצל\"ע: ונראה טעם לדברי הרמב\"ם ופוסקים אלו שפסקו כר' חנינא משום דמסתמא דש\"ס שקיל וטרי אליבי' דבעי אי ר' חנינא קצובים וכתובים בעי או דלמא קצובים ואע\"פ שאין כתובים כו' ושקיל וטרי טובא בסוגי' התם אליבי' ע\"ש אלמא דהלכת' כותי'. ועוד דבירושלמי פ' הניזקין קאמר אין מוציאים כו' מנכסים משועבדים אמר רבי חנינא מפני שאין להן קצבה ע\"כ הרי דר' יוחנן גופי' שחבר הירושלמי לא כ' רק דברי ר' חנינא. ועוד יש טעם לפסוק כר' חנינא דרש\"י פרק הניזקין והתוס' סוף דף נ' כתבו מטעמא שאין כתובים דאע\"ג דבפרק קמא דבבא מציע' (דף ט\"ו ע\"א) אמרי' שכותב ללוקח אלא אוקים ואשפי זבינא אלין אינון ועמליהון ושבחיהון ופירי דידהו מ\"מ כיון דבשעת כתיבה לא היה עדיין שום שבח אין קול לאותה כתיבה כו' ע\"ש שדחקו בזה בכמה דחוקים ולהפוסקים כר' חנינ' ניחא די\"ל דלעולא ס\"ל דבאמת טעמא דמתני' הוא כשאין כתובים ולא נהגו לכתוב כן ובפ' קמא דמציע' רבא הוא דקאמר הכי תדע שכך כותב לו מוכר ללוקח אנא אוקים כו' ורבא פליג אעולא וס\"ל כרבי חנינ' וא\"כ קי\"ל כרבא דבתרא הוא וגם סוגי' דפ\"ק דמציע' הכי אזלא. אך קשה דהא כ' הרמב\"ם סוף פ' כ\"ג מה' אישות וז\"ל מתו אלו שפסקו לזון אותם (בת נשותיהן ה' שנים) אם קנו מידן או שחייב עצמו בשטר הרי זו כבעל החוב בשטר וטורפת מזונותיה מנכסיהן המשועבדי' עד סוף הזמן שפסקו ואם פסקו בשעת הקדושין ולא היה שם קנין הרי הם דברים שלא ניתנו לכתוב ואינה טורפת במזונותי' עכ\"ל ואמאי כשחייב עצמו בשטר טורפת ממשעבדי הא מזונות שלה' שנים אינם קצובים (ולהרמב\"ם לא טריף ממשעבדי לפי מאי דפסק כר' חנינא וכמ\"ש לעיל וכמ\"ש ג\"כ ה\"ה פ' כ\"א מה' מלוה לדעתו ע\"ש) ואי אפשר לדחוק ולומר דפסק לבת אשתו בשעת נישואין שאני דא\"כ מאי מותיב רב הונא בר מנוח בפ' הנזקין דף נ\"א ע\"א ע\"ש. מיהו מ\"ש הרמב\"ם קנו מידו ניחא וכמ\"ש התוס' והרשב\"א בחדושיו שם דהא דמשני התם הב\"ע בשקנו מידו היינו דקנין אלים טפי מכתיבה ונראה שאיזה תלמיד הוסיף בדברי הרמב\"ם שטר ואינו מדברי הרמב\"ם וכן משמע להדי' ממ\"ש ה\"ה שם וז\"ל מתו אלו כו' במשנה מתו בנותיהן ניזונות מנכסים בני חורין והיא ניזונית מנכסים משועבדי' מפני שהיא כבעלת חוב ע\"כ והעמידוה בש\"ס דוקא בשקנו מידו וכמ\"ש רבינו אבל אם לא קנו מידו אפי' כתב לה אינו גובה מן המשועבדים עכ\"ל. והכי מוכח מל' הרמב\"ם גופי' מדנקט בסיפא ולא הי' שם קנין ולא נקט שטר ודלא ככ\"מ שם שגורס בהרמב\"ם או שחייב עצמו בשטר וכך פסק בפשיטות בש\"ע בא\"ע סימן קי\"ד סעיף ד' ואלו ראה דברי הרמב\"ם דלעיל וכל הנך פוסקים שהבאתי לא הוה פוסק כן. וגם בקנו מידו צ\"ע לדינא דבע\"כ צ\"ל דהרמב\"ם ס\"ל כפי' התוס' וסייעתם דלעיל סק\"י דקנין אלים מכתיבה אבל לפרש\"י התם קנין לא אלים מכתיבה אלא דפריך לעולא ומשני כשקנו מידו דסתם קנין לכתיבה עומד והוי ככתיבה אבל עכ\"פ לא עדיף מכתיבה א\"כ הא דקנין מהני התם היינו דוקא בה' שנים לפרש\"י דחשיבי דבר של קצבה א\"כ להפוסקים כר' חנינא דאין טורפים משועבדים בשטר בדבר שאין לו קצבה ה\"ה בקנין אין טורפים. וכן הבעה\"ת ריש שער ס\"ד הביא פרש\"י וכ' שלפי פי' זה יהיה דין זה ברור שלא יועיל קנין לדבר שאינו קצוב כו' וע\"ש. ומה שהקשו התוס' והרשב\"א בחדושיו שם על פרש\"י דא\"כ מאי פריך א\"ה בנות נמי הא אינו מיעיל כתיבה דבנות כדאמר עולא לעיל דכתובים הן אצל בני חורין ואין כתובים אצל משועבדים אלמא לאו משום דלא כתיבי אלא משום דעיקר תקנתא הכי הוה עכ\"ל לפע\"ד לק\"מ דעד כאן לא קאמר עולא לעיל הכי אלא במזונות דהוה ככתובים משום תנאי ב\"ד שתקנו חכמים כך דאמרינן תקנת' הכי הוה אבל הכא דהוי טעמ' משום סתם קנין לכתיבה עומד וככתוב דמי היכי נימא דהוה ככתוב לענין בני חרי ולא לענין משעבדי וכיון דהוי ככתוב בדבר שיש לו קצבה אף לענין משעבדי ה\"ה באין לו קצבה דאין טעם כלל לחלק בזה כיון דקנין הוי ככתיבה מטעם דסתם קנין לכתיבה עומד כנ\"ל ברור. וכן מוכח להדי' דעת הריטב\"א בתשו' דקנין לא מהני שכתב וז\"ל כך דעתי ודעת רבותי שכל המחייב עצמו בקנין לזון את חבירו זמן ידוע חייב לזונו ואע\"פ שלא נתן קצבה למזונות ואם החיוב הזה בשטר גובה מנכסים משועבדים כו' עכ\"ל ומביאו ב\"י מחודש ו' ולכאורה קשה על דבריו דהא משני בש\"ס הב\"ע שקנו מידו. ונראה דהריטב\"א ס\"ל כפי' רשב\"ם בפ' ח\"ה ויש פוסקים ומביאם ב\"י לעיל ריש סימן ל\"ט דקנין אפי' בעלמ' אינו טורף וא\"כ הא דמשני בשקנו מידו היינו קנין בהדי כתיבה דאלים טפי כיון שכ' שטר ושעבד נפשיה בקנין ג\"כ אז מועיל אף לר\"ח אלא דהוה פריך לרבי חנינא דאמר כתובים לא טרף בדבר שאין לו קצבה וכדפי' לעיל סק\"י ומשני הב\"ע שקנו מידו ג\"כ והיינו דוקא לר' חנינ' והריטב\"א ס\"ל דקי\"ל כעולא וא\"כ לדידי' כתובים אפי' בדבר שאין לו קצבה טריף אף בלא קנין ובקנין לא טריף משום דבעלמ' נמי לא טריף ועוד י\"ל בדעת הריטב\"א דאפי' נימא דס\"ל בעלמ' דקנין טורף היינו משום דסתם קנין לכתיבה עומד והוי כשטר מ\"מ הכא לא הוי קנין כשטר וכדמוכח בש\"ס פ\"ק דמציע' (דף ט\"ו ע\"א) גבי הא דא\"ל שמואל לרב חיננא בר שילת אמליך וכתוב שבח' ופירי ומשני דהיינו כשקנו מידו וכ\"כ התוס' שם וז\"ל כשקנו מידו וא\"ת א\"כ אמאי אמליך הלא סתם קנין לכתיבה עומד וי\"ל ה\"מ כגון שקנה לו דבר שהוא בעין עכ\"ל אלא שקשה לי בדברי התוס' למה המציאו סבר' חדשה לחלק בדבר שאינו בעין הל\"ל סברת הש\"ס ה\"מ בדבר שיש לו קצבה ונראה דה\"נ קאמרינן ה\"מ בדבר שהוא בעין שיש לו קצבה ועכ\"פ משמע בש\"ס פ\"ק דמציע' דקנין בדבר שאין לו קצבה לא הוי כשטר א\"כ הריטב\"א מפרש דפריך בפרק הניזקין לרב חנינ' דאמר כתובים לא טריף בדבר שאין לו קצבה וכדפי' לעיל סק\"י וא\"כ הא דמשני שקנו מידו לא בעי לשנויי דקנין אלים טפי מכתיבה דהא מוכח בפ\"ק דמציע' דבדבר שאין לו קצבה לא הוי קנין כשטר אלא ודאי משני שקנו מידו ג\"כ וכמ\"ש. כנ\"ל לדעת הריטב\"א ודוק. ועכ\"פ מוכח מדבריו דקנין הכא לא טריף. וע\"כ צ\"ע לדינא לטרוף ממשעבדי בשטר ובקנין כיון דבלאו הכי הרבה אחרונים ס\"ל דיכול המוחזק לומר קים לי כהרמב\"ם דאין אדם יכול לחייב עצמו בדבר שאין לו קצבה וכמו שהבאתי לעיל. ואף שכתבתי שם שאין דבריהם נראין היינו לענין בני חרי מטעם שהרבה פוסקים חולקים על הרמב\"ם ודבריהם נראין עיקר בש\"ס אבל לענין משעבדי לא מצינו הרבה פוסקים חולקים עליו ואדרבה נראה כן ג\"כ דעת שאר פוסקי' וגם משמע לכאורה כן בש\"ס וכמו שכתבתי למעלה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:12"
+        },
+        "13": {
+          "he": "אלא מכח המתחייב כו'.  כ' הב\"ח נרא' דהיינו כשאינו רוצה לזונו וה\"ה עכבה אחרת כגון זו דהעיכוב הוא מבני ביתו דמחרחרים עמו ריב ומדון ואצ\"ל אם המתחייב עצמו מרא' לו שנא' או מרגיל עמו קטטה דכל זה בכלל עכבה שהוא בא מהמתחייב וחייב לתת לו כל דמי מזונות ואע\"פ שאומר בפיו שרוצה לזונו על שלחנו מכל מקום לבו בל עמו וזה תלוי לפי ראות עיני הדיין וכן נרא' מדברי הרב בהגה עכ\"ל ומ\"ש כגון דבני ביתו מחרחרים עמו ריב ומדון נרא' דהינו דוק' שנרא' שהוא ברצון המתחייב או שיש בידו למתית בבני ביתו ואינו מוחה וכיוצ' בזה הא לאו הכי אין בדין שיתחייבי מכח גרם בני ביתו וע' בח\"ע סימן קי\"ד. עיין בתשו' מהרשד\"ם סימן כ\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:13"
+        },
+        "14": {
+          "he": "אינו חייב ברפואתו כו'.  ומדברי התוס' פרק נערה שנתפתתה (כתובות דף נ' ע\"ב) סוף ד\"ה ומאי עלייה כו' נרא' דחייב לרפאותו ודברי הריטב\"א עיקר כדמוכח בירושלמי ריש פרק הנוש' גבי פסק לזון את בת אשתו והביאוהו הריטב\"א והרא\"ש שם וכתב הרא\"ש גבי פסק לזון את בת אשתו דאם חלתה אינה חייב לרפאותה ואע\"ג דאמרינן במזון האשה דרפואה שאין לה קצבה הרי הן כמזונות הני מילי באוכנת בתנאי ב\"ד שהוא מחוייב להספיק כל צרכיה אבל המקבל עליו לפרנס אין הרפיא' בכלל עכ\"ל וכ\"ב הטור. בא\"ע ס\"ס קי\"ד ע\"ש וכן המנהג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:14"
+        },
+        "15": {
+          "he": "כל ימי חייו או כל זמן שצריך כו'.  אפשר דה\"ק אם נדר לו כן בשעה שצריך מסתמ' הי' דעתו כל זמן שצריך ואם נדר לו בשעה שאינו צריך אז דעתו הי' אבל ימי חייו וצ\"ע ע\"כ לשין סמ\"ע:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:15"
+        },
+        "16": {
+          "he": "וי\"א דאם קיבל עליו כו'.  י\"ח אלו פליגי אסבר' ראשונ' וכן מוכח בתשובת הרא\"ש שם ובדרכי משה ודלא כע\"ש והא דכאן חייב שנה אחד ולקמן סימן רי\"ב ס\"א בהג\"ה נפטר בשעה אחד היינו משום דכאן גילה בדעתו שנה אחר משא\"כ התם דלא אמר רק ידור סתם ולקמן ס\"ס קס\"ג דנפטר ממס שנה אחת מיירי ממם פרטי א\"נ במקום שגובין מס דכל השנה בפעם אח'. כל זה כתב הסמ\"ע וע\"ש שהאריך:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:16"
+        },
+        "17": {
+          "he": "פטור כו'.  אפילו הכי פטור מחלקה. דברי הרב והע\"ש כאן סתומים דלכאור' משמע מדבוי הר\"ב דבקצב סך נמי פטור לגמרי מחלק' מטעמא שלא נתחייב אלא לזונה כל זמן שתהא צריכ' למזונות וכ\"מ יותר בע\"ש ע\"ש ואי אפשר לומר כן דבתשובת הרשב\"א סימן תתק\"ע שמשם מקור דין זה מבואר להדיא דאינו פטור אלא מבעל' מטעם דאין הבעל יורש מלו' של אשתו דאין הבעל נוטל בראוי ומלוה ראוי' הוא אצלו (וכמו שנתבאר בא\"ע ר\"ס צ') וכ\"כ הרב בהגה בא\"ע ס\"ס קי\"ד אם כתב לו ולאשתו אינו יורש חלק אשתו וכן מסיים בלבוש בא\"ע שם דאינו יורש חלק אשתו שהוא ראוי. וע\"כ צריך לפרש גם דברי הרב והע\"ש כאן כן ולפ\"ז קבל עליו לזונם לזמן וקצב להן סך אין דינם שוה דבמזונו' סתם לזמן פטור לגמרי אפי' מיורשיה ובקצב לה סך חייב לשלם ליורשיה אלא שפטור מבעלה. זה נ\"ל ברור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:17"
+        },
+        "18": {
+          "he": "בדשלב\"ל או שאינו מצוי כו'.  עיין מזה לקמן סי' ר\"ט ס\"ד ה' ועיין בתשובת מבי\"ט ח\"א סימן ר\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:18"
+        },
+        "19": {
+          "he": "ה\"מ כשהקנה כו'.  עיין בתשובת מהר\"ש כהן ס\"ב סימן קס\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:19"
+        },
+        "20": {
+          "he": "ואפילו כתב לו שעבוד כו'.  עיין בתשובת מהרשד\"ם סי' שע\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:20"
+        },
+        "21": {
+          "he": "או קבל אחריות  כי' בס' גי' תרומה שער מ\"ג ח\"ד סוף דף קצ\"ד הקשה שהרי מדברי תשובת הרמב\"ן שהביא הבעה\"ת שם בשער מ\"ג ומביאו ב\"י עצמו בסמוך תכף ומיד מבואר שחולק וס\"ל דאם קבל עליו אחריות חייב להעמיד' בידו. ולי נרא' דהרמב\"ן מיירי שחייב עצמו בכך וקבל אחריות להעמידה בידו והלכך נהי דהקנין אינו כלום מ\"מ החיוב חל על גופו לענין שחייב להעמיד' בידו וזה מוכרח בדברי בעה\"ת שם דאל\"כ היאך הי' מביא שם מיד דברי הרמב\"ם שהם סותרים דבריו שכתב מתחל' דמסתבר' דלא מהני כו' וכ\"כ עוד הבעה\"ת בסת' בשער ס\"ד ח\"ב ושכ\"כ הרי\"ף בתשו' ולא הביא שם דברי הרמב\"ן כלל אלא ודאי כמ\"ש. כן נ\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:21"
+        },
+        "22": {
+          "he": "ואפי' נתן לו משכון אינו כלום  וכ\"כ במרדכי ריש פ\"ק דקדושין אמנם כתב שם דהרב' גאונים חולקים וס\"ל דלא יתן המשבון עד שיתן לו המתנ' וכן הוא בתשובת מיי' לספר משפטים סי' ס\"ז עכ\"ל ד\"מ וכן הוא באמת שם ותמי' לי על מה שסתם הרב כאן כדברי הטור ולא הגי' דיש חולקין. וע\"ל סי' ר\"ז סעיף י\"א וסי' של\"ג ס\"א ומ\"ש שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:22"
+        },
+        "23": {
+          "he": "אבל בלשון חיוב כו'.  עיין בתשובת מהר\"א ן' ששון סי' כ\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:23"
+        },
+        "24": {
+          "he": "שאני מתחייב כו'.  כלומר שחייב נפשו ואפינו לדעת האומרים לקמן סימן רמ\"ה ס\"א בהג\"ה דאם קנו מידו ליתן או אתן לא קנה דה\"ל קנין דברים מודים כאן שחייב נפשו כ\"כ הסמ\"ע ס\"ק י\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:24"
+        },
+        "25": {
+          "he": "חייב.  מיהו היינו דוקא לגבות מבני חרי אבל לגבות ממשעבדי אף שכתב לו שטר ע\"ז לא מהני אפילו הוא דבר קצוב כגון שכתב לו בית זה או סך זה שאירש מאבא אני מחייב עצמי ליתנו לך דכיון שלא הי' בעולם בשעת כתיבה אין קול יוצא לאותו כתיבה כן מתבאר מדברי רש\"י והתוס' פרק הנזקין סוף דף נ' להפוסקים דפסקו כמ\"ד שאין כתובין והבאתי דבריהם לעיל ס\"ק י\"ב אכן הרמב\"ם וסייעתו שהבאתי שם משמע דטורף בדבר קצוב כשמתחייב עצמו בשטר אף שלא היה בעולם וע\"ש ודו\"ק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:25"
+        },
+        "26": {
+          "he": "והוא שקנו מידו.  נרא' שהמחבר הוציא כן מבעה\"ת שער ס\"ד וכן נרשם בסמ\"ע אבל לפענ\"ד נרא' דבעה\"ת לטעמיה אזיל דס\"ל שם בסוף שער ההוא מביאו ב\"י לעיל ס\"ס א' דאיאפשר לאדם להתחייב בדבר שאינו חייב אלא בקנין ולא מהני אתם עידי אבל להרמב\"ם דפסק דבאומר אתם עידי חייב א\"כ ה\"ה הכא דכיון שאמר הוו עלי עדים שאני מתחייב כו' חייב אף בלא קנין וא\"כ קשה על המחבר דלעיל ריש סי' מ' פסק כהרמב\"ם וכאן כתב והוא שקנו מידו ואפשר ס\"ל להמחבר דבדבר שאינו בעולם או שאינו ברשותו לא מהני הוו עלי עדים לכ\"ע אבל לא מסתבר לי לחלק בכך ודעת המחבר צל\"ע:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:26"
+        },
+        "27": {
+          "he": "מחמת שנתתי כו'.  עיין בתשו' מהר\"ש כהן ס\"ב סימן ט' ובתשו' מהרשד\"ם סימן ש\"ט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:27"
+        },
+        "28": {
+          "he": "על התובע להבי' ראיה  בסמ\"ע ס\"ק כ' הקשה מלקמן ס\"ס ר\"ן ודחק בזה ולי נראה דשאני התם כיון דהמטלטלים הם בעין אמרי' כיון שעתה כאן נמצאו כאן היו משא\"כ הכא שהמטבע אינה בעין. מיהו קשה בהך דס\"ס ר\"ן מהך דלקמן סי' קי\"ב ס\"ג. ומה שמחלק בסמ\"ע בין מטלטלי לקרקע לא נהירא גם מנ\"ל להמחבר לחלק בכך והעיקר לדינא דלקמן הוא מתשו' הרשב\"א משמן של גאונים והם דברי הגאונים שהביא הטור לקמן סי' קי\"ב וא\"כ נפי מאי דקי\"ל לקמן סי' קי\"ב דלא כהגאונים שם ה\"ה דלא קי\"ל כהך דלקמן ס\"ס ר\"ן וכ\"כ הב\"ח ס\"ס זה דהפוסקים סותרים זא\"ז ולעולם על המקבל להביא ראיה וכן עיקר:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:28"
+        },
+        "29": {
+          "he": "לסברת הרי\"ף וקצת רבוותא.  בב\"י כ' שגם דעת הרמב\"ם פכ\"ב מה' מכירה כהרי\"ף ועוד כתב בב\"י וכיון שהרי\"ף והרמב\"ם מסכימים לדעת אחת הכי נקטינן ולזה לא הביא כאן בש\"ע רק דברי הרי\"ף אבל באמת אין מהרמב\"ם ראי' כלל דלא קאמר התם אלא לענין שצריך שיהא ברשותו אבל יכול להיות דמודה דלשון נתתי הוא באופן המועיל גם מ\"ש הב\"י והרשב\"א בתשובה הסכים לדברי הרי\"ף דאם לא הי' לו באותו שעה לא עשה כלום כו' לא ידענא מאי קאמר דפשיטא דגם הראב\"ד אינו חולק בזה על הרי\"ף דאם ידוע שלא הי' לו באותו שעה לא עשה כלום אלא דאלשון נתתי פליג. גם הרב בתשוב' סי' צ\"ב רשיגעל דברי ב\"י בזה. וע\"ש עוד בתשו' הרב מדינים אלו. ועיין בתשו' מהר\"מ מלובלין סי' ק\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:29"
+        },
+        "30": {
+          "he": "דודאי נתן באופן המועיל.  כיון שהודה על עצמו וכתב נתתי אבל לקמן סי' קי\"ב ס\"ג בהג\"ה שכ' אני נותן צריך המקבל להביא ראיה שהנכסים היו בידו באותו שעה וכן פי' הב\"ח וע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:30"
+        },
+        "31": {
+          "he": "שטר בקנין כו'.  קנין הוא לאו דוקא דאפי' לא עשה לו קנין בפני עצמו דינא הכי סמ\"ע. ועיין בתשובת מהר\"ש כהן ספר ב' סי' מ\"ט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:31"
+        },
+        "32": {
+          "he": "ראובן הוצי' כו'.  דין זה צ\"ע דמסתבר' כהחולקים בבעה\"ת ונהי דמ\"ש החולקים דהך איסור גיור' מיירי דוקא בש\"מ ולא בברי' ליתא וכל הפוסקי' חולקים ע\"ז מ\"מ כאן יכול להיות דהדין עמהם דכיון שנכתב כבר השטר על שם לוי א\"כ ממונו של לוי היה ואע\"פ שלוי שלוחו של ראובן הי' מ\"מ כיון דמעות להוצאה נתנו נעשה שמעון לוה של לוי ולוי לוה של ראובן וההוא שטר' דלוי הוא ולא מהני הודא' דיליה עד שיקנהו לו בכתיבה ומסירה ועוד דאפי' אומר ששלוחו הי' בענין שלא יצאו המעות מרשותו כלל וכגון הך דלקמן סימן ס\"ו סעיף ה' ס\"ק י\"ז מאן לימא לן דלוי נאמן בכה\"ג כיון שהשטר כבר נכתב על שמו והיינו שלא מצינו בשום מקום בפוסקים הקנאה לשטר רק בכתיבה ומסירה ולא הוזכר שיודה לו שהמעות שלו הי' ואע\"פ שי\"ל דהם מדברים בכ\"מ כשידוע שהמעות מתחלה של בעל השטר הי' מ\"מ לא ה\"ל לסתום בכל המקומות וצל\"ע ועי' בתשו' מהרשד\"ם סי' ס\"ד וסי' קצ\"ב ובתשו' מהר\"א ן' ששון סי' קי\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:32"
+        },
+        "33": {
+          "he": "אם אינו חב לאחרים  דלעיל סי' מ\"ו ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:33"
+        },
+        "34": {
+          "he": "ואם תבע כו'  אין כופין כו' ומהרש\"ל כ' בפ' הגוזל קמא סי' ל\"ג שצריך ליתן טעם לדבריו שאל\"כ כופין אותו על מדת סדום וע\"ש וע\"ל סי' קכ\"ד ס\"ב. ועיין בתשובת מהרש\"ך ס\"ב סי' קע\"ד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:34"
+        },
+        "35": {
+          "he": "שטר שהי' כתוב ע\"ש ראובן כו'.  שמנהג הקהל הי' לכתוב על היחיד ולכך הדין עם הקהל כן כתב הסמ\"ע ס\"ק כ\"ח דמוכח מתשו' הרא\"ש שם והשיג על הע\"ש ע\"ש ול\"נ עיקר בזה כהע\"ש והסמ\"ע לא העתיק ל' תשו' הרא\"ש כהוייתו והמעיין בהרא\"ש שסיראה דעיקר טעמו כיון שכתוב בסוף ואלו המעות הם מחכירות הקהל ומ\"ש הרא\"ש שם שמנהג הקהל כך י\"ל דלרווחא דמלתא כתב כן וכן נראה נהדיא דעת המחבר שלא העתיק זה בב\"י ולא כאן בש\"ע וכן נראה בדין דכיון דכתב הרא\"ש דאינו נאמן כיון שאין לו כתיבה ומסירה א\"כ כיון דכתוב שאלו המעות הם מחכירות הקהל הרי מוכח שהשטר של הקהל הוא והיאך יוכל זה לטעון ששלו הוא בלא כתיבה ומסירה ומה שהקשו הע\"ש והסמ\"ע דאמאי אינו יכול לטעון שלא להשביע את עצמו כתבתי וכדלקמן סי' ס\"ה סעיף כ\"ב נ\"ל דשאני הכא כיון שכתוב כן בשטר עצמו קודם חתימת העדים דזה ודאי נכתב בתחלה בשעת עשיית השטר וכולי האי לא עבדי שלא להשביע מה שאין כן לקמן סי' ס\"ה דמיירי שכ' בכתב ידו בעצמו לאחר חיתום השטר כן נ\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:35"
+        },
+        "36": {
+          "he": "וכתוב בסופו קודם חתימת העדים ואלו כו'  גרסי'. כ\"כ הסמ\"ע וכן הוא בתשו' הרא\"ש להדי' ואף חי לא גרסינן בדברי המחבר כך משמעו כך וק\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:36"
+        },
+        "37": {
+          "he": "הדין עם שמעון.  מיירי כשהחוב עדיין של ראובן רק שכתב השטר על שם לוי לאיזה טעם וכן מוכח להדי' בתשו' רשב\"א שם ופשוט הוא דאם הי' מקנה המעות ללוי שוב אין ראובן יכול למחול ובע\"ש וסמ\"ע ס\"ק ל' פירשו שהשטר לא בא ליד לוי עדיין ולא היו צריכים לזה אלא אפי' בא ליד לוי אם הוא בענין שלא הקנה לו מעות דק שכתבו על שמו לא זכר בו לוי כדלעיל סעיף א' וק\"ל. ועי' בתשו' מהרשד\"ם סי' נ':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:37"
+        },
+        "38": {
+          "he": "אין בדבריו כלום  וצריך הוא לפרוע לראובן שהלוה לו המעות בשם בנו כי נמצא שהיה אפטרופס של בנו בשעת ההלואה לכך גם עתה נמי הוא אפטרופס שלו וצריך לפרוע לו ועוד ביד האב תלוי למנות אפוטרופס לבנו כדתנן מנהו אבי יתומים ישבע כ\"ש שמינה את עצמו אפטרופס ועוד לא גרע מיתומים שסמכו אצל בעל הבית שיש לו דין אפטרופס כדאי' בפ' הניזקין כ\"ש הסמוך על שלחנו של אביו שהאב הוא אפטרופס שלו עכ\"ל הרא\"ש שם ועיין עוד בתשו' הרא\"ש שם כלל צ\"ו סי' ג' ובריב\"ש סי' ר\"ן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:38"
+        },
+        "39": {
+          "he": "הדין עם האשה  היינו באינה נושאת ונותנת בתוך הבית וכמ\"ש בסי' ס\"ב ס\"א שם חזר וכתבו מור\"ם ע\"ש עכ\"ל סמ\"ע אמנם במקור דין זה בתשו' הרא\"ש כלל צ\"ו סי' ד' משמע אפי' בנושאת ונותנת תוך הבית כשהבעל עצמו כתב השטרות וכמ\"ש לקמן סי' ס\"ב ס\"ק ז' וכ\"כ בסמ\"ע גופי' שם ס\"ק ו' לדעת הטור א\"ע ס\"ס פ\"ו ובע\"כ שהטור הוציא דבריו מתשו' הרא\"ש זו וכמ\"ש שם. מיהו לענין דינ' כתבתי שם שהעיקר כתשו' הרשב\"א סי' תתקנ\"ז שחולק ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 60:39"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "וע\"ל סי' צ\"ט ס\"ו.  כתב הסמ\"ע ר\"ל דשם כתב מור\"ם בהגה דאם נראה לב\"ד שלא כיוונו לערמה אלא למתנה גמורה קנה המקבל אע\"פ שנתנו לו להפקיע חובו עכ\"ל וע' בדגמ\"ר שכתב עליו דבריו תמוהים דשם מיירי במקום שלא היה גובה ע\"פ דין מטלטלין שנתן כגון מלוה ע\"פ או אף במלוה בשטר ולא שעבד לו מטלטלי אג\"ק ואפ\"ה פסק המחבר שאם כיוונו לערמה גובה בע\"ח ועל זה כתב רמ\"א שם שאם כוון למתנה גמורה אף שהיה כוונתו להפקיע חובו קנה המקבל אבל כאן מיירי בהקנה לו אג\"ק שבע\"ח גובה מצד הדין רק משום תקה\"ש אינו גובה א\"כ במקום שנתן להפקיע החוב לא שייך תקה\"ש וגובה מצד הדין ואולי גם כוונת הסמ\"ע כן וזה כוונתו שהיה קשה לו למאי הלכתא כתב הש\"ע כאן דין זה בהקנה מטלטלין אג\"ק והלא אפי' מלוה על פה גובה ממתנה כזו כמבואר בסי' צ\"ט ועל זה כתב הסמ\"ע דשם נתבאר דאם נראה לב\"ד שכיוון למתנה גמורה קנה להכי כתב כאן דלא שייך בזה תקנת השוק וא\"כ אע\"פ שקנה מקבל מתנה מ\"מ הבע\"ח גובה ממנו מצד השעבוד עכ\"ל גם בנה\"מ מפרש דברי הסמ\"ע כן בפשיטות:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 60:1"
+        },
+        "2": {
+          "he": "וחלקו עליו.  עש\"ך סקי\"ב עד ומה שהקשו התוס' והרשב\"א כו' לפע\"ד לק\"מ דע\"כ לא קאמ' עולא לעיל הכי אלא במזונות דהוי ככתובים משום תנאי ב\"ד כו' אבל הכא דהוי טעמא משום סתם קנין לכתיבה עומד וככתוב דמי כו' עכ\"ל וע' בס' ק\"נ בכתובות פ' הנושא אות ט\"ו שסתר דבריו וכ' דהאמת יורה דרכו שא\"א לו' דכתיבה ממש מהני לענין משעבדי כו' עש\"ב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 60:2"
+        },
+        "3": {
+          "he": "והכי נקטי'.  עבה\"ט וע' במל\"מ פי\"א מה' מכירה שכ' דהרב פ\"מ ח\"ב סי' ל' הביא בשם ת' בני שמואל דע\"כ לא סבר הרמב\"ם אלא במתחייב בדבר שאינו קצוב בלא מחיר אך אם נתן לו דבר מה כדי שיתחייב בחוב זה אף שהוא בדבר שאינו קצוב מודה דחל החיוב דאגב זוזי גמר ומשעבד נפשיה ומעולם לא אמר הרמב\"ם ז\"ל אלא במתחייב בכדי ובזה מיושב מה שהקשה הרמב\"ן מסוגיא דהנזקין כו' והוא ז\"ל פקפק בזה מחמת דבחי' הריטב\"א ר\"פ הנושא הכריח דהרמב\"ם אינו מחלק בכך ע\"ש וע' בתומים ובקצה\"ח מזה וע' בת' ב\"ש אחרון ס\"ו שכ' דהעיקר כהש\"ך דלא מני המוחזק לו' קים לי כהרמב\"ם בדין זה ואף דבס' ג\"פ (בכללים שבסוף הס') כ' דיכול לו' קים לי בזה מ\"מ מאחר שלא הביא דברי הש\"ך ולא ראה דבריו בזה להש\"ך אנו שומעין ועוד דבנ\"ד ובעובדא דשם) גם הרמב\"ם מודה כמ\"ש המל\"מ בשם הפ\"מ דדוקא במתנה כו' ואף דהמל\"מ דחה דבריו מ\"מ האו\"ת כ' שכל חכמי פראג הסכימו לזה וא\"כ בנ\"ד ששילם לו שכר השליחות יכול להתחייב אף לשיטת הרמב\"ם עכ\"ל. ובת' בית אפרים חח\"מ סי' ע\"ה כ' דכל בתי דינים שהיו בישראל פוסקים לחייב המתחייב בדבר שאינו קצוב לענין ב\"ח ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 60:3"
+        },
+        "4": {
+          "he": "הדין עם המקבל.  בגש\"ע דהגר\"ע איגר זצ\"ל נ\"ב כ' ב\"ש אה\"ע סי' קי\"ד סק\"ב דדוקא כשיש לו מזונות ממקום אחר עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 60:4"
+        },
+        "5": {
+          "he": "אינו חייב ברפואתו כו'.  ע' בתשו' רע\"א ז\"ל סי' ק\"ן דהרב השואל רצה לחלק במחייב לזון לעולם חייב ג\"כ ברפואה דדוקא היכא שנתן קצבה לשנים כמו גבי בת אשתו אין רפואה בכלל מזונות דלא אסיק אדעתיה שתחלה תוך זמן זה אבל במחייב לזון כל ימיו דודאי יארע שיחלה לפעמים חייב ברפואה והוא ז\"ל השיב דאינו משמע כן מדברי הרא\"ש שכתב לחלק בין בת אשתו למזונות אלמנה כיון דהוא תנאי ב\"ד ולא חילק כיון דאלמנה יש לה מזונות לעולם משמע להדיא דאף במתחייב לזון בת אשתו לעולם אינו חייב ברפואה. וע\"ש עוד בא' שהי\"ל שט\"ח על חתנו וחתנו התחייב ליתן לו דמי מזונות כל ימי חייו חנם ואחר שנפטר רוצה חתנו לנכות מהשט\"ח מה שהוצרך חמיו בימי חליו מזונות קלים שעולים יותר מדמי מזונות בריא ערך מ' ר\"ט ודן הרב השואל שאינו יכול לנכות כיון דנתחייב לתת לו מזונות חייב ג\"כ במזונות כאלו כמ\"ש השבו\"י ח\"א סי' ק\"ן (הובא קצת בבה\"ט סי\"ד) והוא ז\"ל השיב דזה אינו כי מפשטות לישנא דהרמ\"א סי' ס' שכתב חלה הניזון אינו חייב ברפואתו רק בדמי מזונות כשהיה בריא מדלא כתב סתם אינו חייב ברפואתו והא פשיטא דחייב במזונות משמע שבא למעט דא\"ח רק מזונות בריא ולא מזונות חולה אף דבאמת גם בהיפך אם מזונות חולה מועטים מ\"מ צריך ליתן כשיעור מזונות בריא כדאי' בירו' ר\"פ הנושא חלתה כמי שנשאת וכ\"פ בהגהת ש\"ע אה\"ע סי' קי\"ד ס\"ה מ\"מ מל' הרמ\"א דאינו חייב רק משמע דבא למעט שאינו חייב רק מזונות בריא ולומר שכוונת הרמ\"א רק דא\"ח ברפואתו רק כשיעור מה שמרויח במזונות ע\"י שהוא חולה היכא דמזונות חולה מועטים דכשיעור מזונות בריא חייב ברפואתו הא גם א\"צ לרפואות מ\"מ צריך להוסיף וליתן כדי מזונות בריא דהא הירושלמי מדמי לה לנשאת אע\"כ דכוונת הרמ\"א כנ\"ל וכן מוכח במקור הדין בריטב\"א כו' והאריך בזה ומסיים וז\"ל לזה לענ\"ד בנ\"ד יכול חתנו לנכות מחובו אותן מ' ר\"ט שהמזונות קלים עודפים על מזונות בריא זולת אם התנאי היה לזונו על שלחנו כמ\"ש בתשו' ב\"ח סי' מ\"ו דבכה\"ג בודאי צריך ליתן בימי חליו מזונות הקלים הן שמרובים ממזונות בריא הן שמועטים ממזונות בריא נותן לו מזונות חולה עכ\"ל ולפ\"ז גם בנדון דהשבו\"י שהביא הבה\"ט סקי\"ד במי שקיבל עליו לזון בנו וכלתו כו' דוקא בקיבל לזון על שלחנו כפי הנהוג עכשיו משא\"כ בנתחייב ליתן להם דמי מזונות וע' באה\"ע סי' קי\"ד ס\"ו ובח\"מ וב\"ש שם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 60:5"
+        },
+        "6": {
+          "he": "לזון חבירו סתם.  ע' בתשו' בית אפרים חח\"מ סי' ע\"ה אודות שטר שכתוב בו שנתחייב שמעון לזון לראובן כמה שנים וכתב שעכ\"פ צריך ליתן לו ג' שנים דלישנא דכמה שנים לטפויי אתי ואפי' טובא משמע אלא דיד בעל השטר על התחתונה ואינו יכול להוציא ממנו יותר מג' אבל עכ\"פ ג' צריך ליתן לו כו' ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 60:6"
+        },
+        "7": {
+          "he": "וי\"א דאם קבל עליו כו'.  ע' בתומים שכתב דנ\"ל דאין כאן מחלוקת כי דעה ראשונה שהיא תשו' הרשב\"א שהביא ב\"י באה\"ע סי' קי\"ד מיירי בקיבל לזון את עני דהוא בתורת נדר דבפיך זו צדקה וסתם נדרים להחמיר לכן חייב לזונו כל ימי חייו אם הוא עני תמיד או כ\"ז שצריך היינו אם נתעשר תו פסקה הצדקה ואין כאן נדר אבל הי\"א אלו שהוא דעת הרא\"ש בתשו' מיירי בסתם במקום דל\"ש נדר והממע\"ה בכל אופן וזה נכון לדינא ע\"ש (וע' בנה\"מ מ\"ש בזה) וכ\"כ בתשו' ח\"ס חח\"מ סי' ט' והוסיף לבאר מה דהרשב\"א בחידושיו פ' מי שאחזו (גיטין ע\"ה ע\"ב) ובר\"ן שם מספקא להו בהאי מלתא ולא החליטו דהממע\"ה היינו משום דהא לא מיירי בנתחייב מעצמו לזון את חבירו אלא שזה נותן לו ביתו ע\"מ שיזון את בנו או את אביו כו' (כמפורש בדברי הר\"ן שם) וא\"כ בהא לאו בדידיה תליא מלתא אלא אומדין דעת הנותן קרקע זו בודאי ל\"ש לומר הדמים מודיעים שהרי לא בתורת מכר נתן לו אלא עשה לו חטיבה ויהיב ליה מתנה והוא יעשה עמו חטיבה לזון בנו בהא איכא לספוקי ולדינא נראה דהוה ס\"ס אי הלכה כרבא (שם) דאפי' בגיטין כ\"ז שיצטרך קאמר א\"נ הלכה כרב אשי מ\"מ דילמא בממון שאני ובשגם כיון שנתן לו הקרקע על תנאי א\"כ קרקע בחזקת בעלים הראשונים קיימת וכל שלא מקיים תנאי לא יחזיק בקרקע ול\"ש לומר על חיוב מזונות הממע\"ה אדרבה החזקת הקרקע י\"ל הממע\"ה. והאריך עוד בדברי הסמ\"ע וש\"ך לקמן ר\"ס רי\"ב גבי בית לדור בו ומסיק וכתב היוצא מזה לדינא בדבר שבממון הנודר לחבירו סתם אם הוא עני חייב כ\"ז שיצטרך ואם הוא בתורת התחייבות שלא בתורת נדר לעני הממע\"ה וסגי בשעה א' לכ\"ע ואם אמר בית לדור בו פלוגתא דרבינו האי ורב נחשון גאון וקיי\"ל כרבינו האי דסגי בשעה א' ואם איננו מתחייב מעצמו ברצונו אלא שחבירו נתן לו מתנה (ר\"ל קרקע או אפי' מטלטלין רק עדיין ברשות הנותן או אפוטרופסין) ע\"מ שיזון בנו אע\"ג שאינו מתנה לעני מ\"מ איכא ספיקא והעלינו לעיל דהוה ס\"ס ואוקמא המתנה בחזקת בעלים הראשונים ולא יזכה בהקרקע אם לא יזון כ\"ז שיצטרך הבן ע\"ש. וע' בת' מים חיים חח\"מ סי' ו' שכ' אודות קהלה א' שקיבלו איש א' להיות שו\"ב וכתבו ונתנו לו שטר סתם בלי קביעות זמן לכאורה תליא בפלוגתא שהביא הרמ\"א בסי' ס' סיג דלהרשב\"א כל ימי חייו או כ\"ז שצריך משמע ולהרא\"ש נפטר בשנה א' וא\"כ המע\"ה אבל נ\"ל דע\"כ לא קאמר הרא\"ש רק בקיבל לזון לחבירו או שידור בביתו או בקהל שפטרו לא' ממס אבל בקיבלו לא' להיות שו\"ב דהמנהג הוא כל שלא נמצא בו פסול שאין מעבירין אותו וכן משמע מהש\"ע א\"ח סי' נג סכ\"ו בזה גם הרא\"ש מודה דשכרו אותו על כל ימי חייו או כ\"ז שצריך ע\"ש ועמש\"ל סי' של\"ג ס\"ב סק\"ג:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 60:7"
+        },
+        "8": {
+          "he": "לזונו זמן מה או לתת לו ק' דינרין.  ע' בת' בית אפרים חח\"מ סי' ע\"ה שנשאל בשטר שכתוב בו שנתחייב שמעון ליתן לראובן מזונות או סך כו\"כ לשנה הברירה ביד מי אם ביד המתחייב או ביד מי שנתחייב לו והשיב שראה להלכה למעשה מדודו הג' מוה' סענדר ז\"ל בעובדא שרופא א' עשה התקשרות בכתב עם נער משרת ומשכורתו או מחצית שכר הגילוח או סך כו\"כ וככלות השנה היו מדיינים הברירה ביד מי ורצו הדיינים לדון בדין המע\"ה כי לא ידעו פתח לדין זה והג' ז\"ל האיר עיניהם שדין זה מבואר ביו\"ד סי' קעז סכ\"ו בשם הרמ\"ה באם התנו הנותן והמקבל שיהיה פלגא באגר ובהפסד היכא שהוא אדם גדול דדיינינן ביה להיתרא אז אם כתוב בשטר דיהיב מרי עיסקא למקבל פלג' באגר ובהפסד משמע דמלתא במרי עיסקא קיימא ובדידיה תליא מלתא למיתב למקבל מאי דניחא ליה ואי כתיב למשקל פלגא באגר ובהפסד משמע דבמקבל תליא מלתא למשקל מאי דבעי כו' ומזה נקח בנ\"ד שכתוב בשטר שנתחייב לתת לו מזונות או דמיהם דבמתחייב תליא מלתא שאם ירצה לזון רשאי ואם רצה נותן סך הקצוב ונראה בהך דינא דהרמ\"ה אם לא הוזכר בשטר מהנך לישנא למיתב או למשקל רק סתם שעשו ביניהם שיהיה פלגא באגר ובהפסד אז המע\"ה ובנ\"ד הדבר פשוט דכל המתחייב דבר נגד חבירו במתחייב תליא מלתא אם לא לשון השטר מורה להדיא שהתנאי היה שהענין תלוי ביד השני עכ\"ד ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 60:8"
+        },
+        "9": {
+          "he": "ואפי' קצב.  עבה\"ט עד וע\"כ צריך לפר' כו' ובקצב לה סך חייב לשלם ליורשיה כו' וע' בנה\"מ שכתב ונראה ליישב דהרב מיירי שקצב סך וקצב ג\"כ זמן המזונות כיון שאמר הריני מתחייב סך מאתים זוז לצורך מזונות של ה' שנים דאז בודאי פטור אפי' מיורשים כשמתה תוך הזמן וכמ\"ש הח\"מ באה\"ע שם ס\"ק י\"ג וזה פשוט עכ\"ל. וכ\"כ בת' ושב הכהן סי' ס\"ו לחלק בכך דהכא מיירי שקצב סך לצורך מזונותיה לזמן ומה שלא ביאר הרמ\"א ז\"ל י\"ל סתמו כפירושו דומיא דמ\"ש תחלה ראובן שקבל עליו לזון לשמעון ואשתו כו' דודאי מיירי שקבל לזונם על זמן ולה כתב ואפי' קצב סך הכוונה ג\"כ לצורך מזונותיה לזמן ולכן פטור לגמרי מחלקה וכתב עוד דהגם דמסתימות דברי הרמ\"א משמע דאיירי בכה\"ג בקצב זמן מ\"מ לדינא יש להסתפק גם בלא קצב זמן אלא שאמר שיתן סך לצורך מזונותי' ומתה אם חייב או לא דאפשר דבדברי הרשב\"א בתשו' העיקר היה משום שחייב עצמו מעכשיו אבל אם לא אמר מעכשיו אע\"פ שלא קבע זמן לפרעון אפ\"ה פטור דאף דאם א' חייב א\"ע לחבירו איזה חיוב ולא הזכיר זמן חל החיוב מיד אבל הכא שחייב עצמו לצורך מזונותיה י\"ל אפי' לא הזכיר זמן כלל אמרי' דמן הסתם החיוב אינו חל ליתן כל הסך מיד רק כל פעם כשצריכה למזונו' ולכן אם מתה תוך הזמן י\"ל דפטור וע' בסי' רנ\"ג סט\"ו עכ\"ד. וע' שם עוד שבא בשאלה בא' שהתחייב א\"ע ליתן ליתמי פ' כל שנה סך קצוב ותוך הזמן מת א' מהם וכהיום טוען המתחייב שמה שהתחייב א\"ע ליתן היה לצורך מזונות שלהם וכהיום שמת א' מהם אינו רוצה ליתן רק החצי איך דינו אם מחוייב ליתן כל מה שהתחייב או לא והשיב דין כיו\"ב מבואר בח\"מ סי' ס' בהג' כו' והאריך שם בביאור דברי הרמ\"א הנ\"ל ומסיים בזה\"ל ואין להאריך כאן יותר כי בנדון דידן ודאי דחייב עכ\"ל. ולכאורה ט\"ס הוא וצ\"ל ודאי דאינו חייב כיון שלא נזכר בשאלה שהתחייב מעכשיו וא\"כ לא מבעיא אם יש אומדנא דמוכח שהתחייב לצורך מזונות שלהם כפי טענת המתחייב דודאי פטור כיון שקצב זמן שאמר שיתן בכל שנה אלא אפי' אם לא היה המובן לצורך מזונות נמי י\"ל דפטור דלא נתחייב ליתן ליורשים ע' בסי' רמ\"ז ס\"ג ברמ\"א דלה ולא ליורשיה ע\"ש וע' בסמ\"ע בסי' רמ\"א ס\"ק י\"ח ודו\"ק. ומ\"ש הבה\"ט וע' בט\"ז במעשה כו' עד ותובעת כלתה חלקה כו' ועמ\"ש בזה בפ\"ת לאה\"ע סי' קי\"ד סק\"ב וע' עוד בת' ח\"ס חח\"מ סי' ז' מענין זה. ומ\"ש הבה\"ט בשם שבו\"י עד והשיג על הב\"ח שלא פסק כן. וע' בס' ק\"ן בכתובות פ' מציאת האשה אות כ\"ג וע' בת' רע\"ק איגר סי' ק\"ן הובא קצת לעיל סק\"ה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 60:9"
+        },
+        "10": {
+          "he": "חייב כו'.  בגש\"ע דהגר\"ע איגר זצ\"ל נ\"ב וז\"ל ודוקא שמחייב בעצמו ליתן הפירות דקל ומקבל אחריות באם ישתדפו קודם שיתנם לו שמחוייב ליתן לו דמים אבל במחייב ליתן פירות דקל ומתנה שלא יתחייב באחריותם לא חל כלל התחייבות מהרי\"ט בת' חח\"מ סי' פ\"ד וע' בקצוה\"ח סי' ר\"ג וע' בשו\"ת הראנ\"ח ח\"א סי' ס\"ו עכ\"ל ועמש\"ל דו\"ק י\"ב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 60:10"
+        },
+        "11": {
+          "he": "או קבל אחריות.  עבה\"ט בשם ש\"ך וע' בת' נו\"ב מסי' כ\"ה עד סי' כ\"ח שפלפל בזה עם חתנו הג' מוה' יוסף ז\"ל בפי' דברי הרמב\"ן בזה כי פירושו של הש\"ך בדברי הרמב\"ן לכאורה הוא תמוה דאם כן מה ענין אחריות לכאן שאינו מעלה ומוריד רק מחמת החיוב על גופו עש\"ב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 60:11"
+        },
+        "12": {
+          "he": "אבל.  עיין בת' נו\"ב סימן כ\"ז וכ\"ח שדעת חתנו הגאון מו\"ה יוסף ז\"ל במכר דבר שלב\"ל באופן שחייב את נפשו בכך בזה בודאי אמרינן אחריות ט\"ס ואפילו אחריות דאקני ואפילו להחולקים בסי' קי\"ב דס\"ל דאקני לאו ט\"ס היינו משום שמסתמא לא יהיב דעתיה על הנכסים שיקנה אח\"כ כי שמא לא יקנה וכמ\"ש הסמ\"ע והש\"ך שם אבל כאן עיקר התחייבות על מה שיקנה ואם לא יקנה אין כאן התחייבות כלל א\"כ מסתמא דעתו על מה שיקנה והוא ז\"ל כתב לו הגם שהוא מלתא דמסתבר עכ\"ז אינני מסכים לסברא זו ואני אומר ההיפך שבזה אפילו אחריות סתם לאו ט\"ס הוא שהטעם דאמרינן אחריות ט\"ס דמסתמא לא שדי המלוה זוזי בכדי וכן הלוקח אינו קונה בכדי וכל זה בדבר שקונה ודאי א\"כ רוצה להיות בטוח בקנינו ואינו מתרצה לקנות בלי אחריות אבל במקנה דבר שלב\"ל שמקנה לו כשיקחנו והתחייב נפשו ע\"כ הלוקח מכניס עצמו בספק כי שמא לא יקנה וכיון שמכניס עצמו בספק מכניס עצמו גם בספק זה לקנות בלא אחריות ובעינן שיכתוב לו אחריות בפי' אפילו על הנכסים שישנם בידו וק\"ו על דאקני ע\"ש וע\"ל ס\"ק יו\"ד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 60:12"
+        },
+        "13": {
+          "he": "בל' חיוב.  עיין בכנה\"ג בהגה\"ט סל\"ו הביא בשם הר\"ש הלוי ז\"ל דלא מיקרי לשון חיוב אלא מודה אני שאני חייב כו' אבל האומר אני מתחייב שאתן לפלוני כו\"כ לא הוי ל' חיוב עכ\"ל ומדברי הסמ\"ע ס\"ק י\"ח לא משמע כן וע' בנו\"ב סי' כ\"ה בת' חתנו הגאון מו\"ה יוסף ז\"ל שכ' הגם דלכאורה יש להביא ראיה לדברי הר\"ש הלוי מגמרא ב\"ב דף קמ\"ט בהא דהוצרך איסור לעשות קנין אודיתא כו' אך מדברי רבותינו הראשונים והאחרונים ז\"ל מוכח כדעת הסמ\"ע דאם אמר הנני מחייב א\"ע ליתן לפלוני זכה הלה כו' (ומבואר עוד שם דל' קבלתי עלי בחוב גמור היינו כמו שאומר חייבתי את נפשי כו' ע\"ש) . ושם בסי' כ\"ו בת' הגאון המחבר רוצה לומר דגם הר\"ש הלוי מודה אם לא אמר אני מתחייב ליתן אלא סתם אני מתחייב לפ' בכך וכך שחל החיוב וחזר וכתב לו חתנו הגאון הנ\"ל דכפי שמועתי תשובת ר\"ש הלוי בספר כנה\"ג מבואר שכוונתו היינו או שאומר מודה אני לך שאני חייב לך דזה ודאי הוי הודאה ממש שחייב לו כבר אז שאומר לעדים הוו עלי עדים שאני מתחייב היינו אף שהעדים יודעים שאינו חייב לו כבר רק שהוא מחייב עצמו עתה בל' הודאה. בגוף הראיה מגמרא ב\"ב הנ\"ל האריכו בפלפול שם ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 60:13"
+        },
+        "14": {
+          "he": "על התובע.  עבה\"ט עד דשאני התם דאיירי בקרקעות דבהן ל\"ש לומר כאן נמצא כו' וע' בת' ח\"ס חח\"מ סי' קפ\"ו שתמה על הסמ\"ע בזה מדברי הרא\"ש פרק המדיר סי' ט\"ו והאריך בזה עש\"ה וע' בש\"ע לקמן סי' רכ\"ד ס\"א וגם באה\"ע סי' קי\"ז בב\"ש ס\"ק ט\"ו ובספר בית מאיר שם ודו\"ק וע' בנה\"מ מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 60:14"
+        },
+        "15": {
+          "he": "אבל רבים חולקים.  עיין בת' כנ\"י סי' צ\"ח בענין אחד שמת והניח יורשים בני הבן ובני הבת מכח שטר חח\"ז וגם ביד בני הבן שטר מתנה שנתן אבי אביהם לאביהם על סך ג' אלפים ר\"ט קוראנט בל' שיקנה בני כו' ולא כתב במה יקנה וסתמא בק\"ס ואין מטבע נקנה בק\"ס רק למטה בשטר כתוב נ' נתתי כו' וגם נמצא אצל השטר מתנה בלאנקי בח\"י הנותן הנ\"ל שנראים הדברים שבזה הבלאנקי שיעבד עצמו להתחייב ע\"ש באורך. ושם כתב סברא דאף דאין מטבע נקנה בחליפין דדעתא אצורתא מ\"מ בנ\"ד שאמר ג\"א ר\"ט נקנה כי רייכש טאליר אינו כעת מטבע כו' ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 60:15"
+        },
+        "16": {
+          "he": "הודאת בע\"ד כו'.  עיין בס' ארעא דרבנ' אות קנ\"א דפשוט הא דאמרו הודאת בע\"ד כק' עדים דמי הוא מדאורייתא וראיה מקידושין דף ס\"ה ע\"ב וברש\"י שם ע\"ב ובהגהות עפרא דארעא שם כתב עוד הוכחות לזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 60:16"
+        },
+        "17": {
+          "he": "ראובן הוציא כו'.  עש\"ך ס\"ק ל\"ב שכתב דמ\"ש החולקים בבעה\"ח דהך דאיסור גיורא מיירי דוקא בש\"מ ולא בבריא ליתא כו' ועמ\"ש בזה לקמן סי' ר\"ג ס\"ט ס\"ק ג':",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 60:17"
+        },
+        "18": {
+          "he": "הדין עם ראובן.  בגש\"ע דהגר\"ע איגר זצ\"ל נ\"ב אף אם מערער שמעון ואומר אע\"פ שלא היה הממון שלי זכיתי בו כו' אין ממש בדבריו כו' ע' בטור עכ\"ל וע' בתומים ובנה\"מ מזה וע' בתשובת ושב הכהן סי' מ\"ו מענין זה באריכות:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 60:18"
+        },
+        "19": {
+          "he": "אין כופין אותו.  עבה\"ט דמהרש\"ל כתב שצריך ליתן טעם לדבריו כו' ועמ\"ש לקמן סי' רע\"ו ס\"א בנ\"צ שם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 60:19"
+        },
+        "20": {
+          "he": "ואפי' הודה לו שמעון.  כתב בדגמ\"ר וז\"ל לכאורה היה נלע\"ד דהיינו שהודה לו כן אחר ההלוא' דבמה משתעבד אבל אם בשעה שהלוה ללוי הודיע לשמעון שמלוה ללוי מעות על שמו ושהוא יעשה לו אח\"כ שטר מכר והודה לו שמעון לעשותו משתעבד בלא קנין כיון שעל אמונתו הלוה ללוי ולא גרע מערב בשעת מתן מעות דמשתעבד מהאי טעמא אמנם בטור בשם בעה\"ת מבואר בפי' אפי' הודיע לשמעון בשעה שכתבו על שמו שע\"מ כן כתבו כו' ואע\"פ שהודה לעשותו אינו אלא כמפליגו בדברים ויכול לחזור בו ואם נרצ' לדחוק דמ\"ש הטור שהודיע בשעה שכתבו על שמו מיירי אחר שכבר הלוה רק שעדיין לא נכתב השטר מלבד שהוא דוחק קשה ג\"כ למה כתב הטור אחר זה שאם התנה עם הלו' בשעת ההלואה כו' הי' לו לחלק כן לענין שמעון עצמו שאם הודיע לו בשעת ההלואה מהני והדבר צריך אצלי תלמוד עכ\"ל וע' בתומים ובנה\"מ:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 60:20"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "עתיד.  ע\"ל סי' קי\"ב כת' הרמ\"א די\"א דגם באחריות דאקני אמרינן שהוא טעות סופר מיהו היינו דוקא בדלא כתוב בשטר שום אחריות אבל אם כתוב בו אחריות ולא דאקני אמרי' מה דלא כתב לא קנה ומזה איירי המחבר כאן במ\"ש דצריך לכתוב לו דאקני עכ\"ל הסמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:1"
+        },
+        "2": {
+          "he": "מהם.  כתב הסמ\"ע דמסקנת הש\"ס בפ' מי שמת אע\"ג דאין אדם מקנה דשלב\"ל יכול לשעבדו דאלמוהו רבנן לשעבוד כדי שלא תנעול דלת כו' וגם התוס' כתבו דיש לחלק בין קנין לשעבוד וכתבו מור\"ם בד\"מ בסי' ק\"ד וקי\"ב ורי\"ט ובג' מקומות הללו כת' דיש פלוגתא בזה והיינו דודאי אי שיעבד לו ולא חזר בו עד שכבר בא לעולם כ\"ע מודים דא\"י לחזור בו וקנהו למפרע משעת השיעבוד אבל אם בא לחזור בו קודם שבא לעולם בזה יש פלוגתא כו' וע\"ש בסי' קי\"ב מ\"ש עוד מזה עכ\"ל והש\"ך כת' דהעלה שם דא\"י לחזור בו וע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:2"
+        },
+        "3": {
+          "he": "לשעתו.  פי' הסמ\"ע דר\"ל בעת שהי' חייב לו עדיין א\"נ בעת שהי' צריך לו למכור או ליתנו לזה והש\"ך כת' דזה דוחק הוא לפרש כן ופי' הוא דה\"ק אפי' מכרן לשעתו ולא ממכר עולם אינו טורף מהן לאפוקי ממה שמחלק בסי' קי\"א סי\"ט וע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:3"
+        },
+        "4": {
+          "he": "השוק.  כת' הסמ\"ע דוקא להני איכא תה\"ש דא\"כ לא יקנה שום אדם מטלטלין אבל אם היו ללוה זה ב' בע\"ח שלוה מהם זא\"ז ושיעבד לכל א' אג\"ק וקדם המאוחר וגבה מטלטלין המוקדם לו מוציאן מידו כ\"כ הב\"י בפשיטות וכת' דכל דיין דלא דאין הכי ראוי לסלקו מהדיינות וכ\"כ המחבר בס\"ס קי\"ג ומש\"ה נמי נוהגין לכתוב בשטרות שמשעבד לו מטלטלי אג\"ק ודלא כהרשד\"ם בתשוב' ח\"ג סי' ק\"ח שחלק בדין זה עכ\"ל והש\"ך כת' דבכל פוסקים ראשונים ואחרונים לא נזכר מנהג זה אדרב' הרשב\"א והריב\"ש ושאר אחרונים כתבו כמה פעמים הלכ' למעש' לטרוף ממטלטלים רק הרא\"ש בתשוב' כת' שבארץ ההיא נהגו כך כו' אבל מוכח מדבריו דוקא היכא שנהגו לכתוב בכל השטרות שעבוד אג\"ק הוא דאין נוהגים לטרוף מטלטלי משום דמלתא דשכיחא הוא ואין לך אדם שקונה חפץ מחבירו אבל בשאר מקומות שאין ידוע המנהג בבירור גם במקום שאין כותבין כן בכל השטרות רק כששיעבד לו בפירוש וצוה לכתוב כן פשיטא דטורפים ממטלטלים א\"כ לא שייך תה\"ש וא\"צ לחקור כלל על המנהג דודאי לא נהגו בהיפך מדין תור' ובתשובת מהרשד\"ם כת' באשה שלות' ונשאת גוב' מבעל' ממה שהכניס' לו ולא שייך בזה תה\"ש ע\"ש עכ\"ל וע' עוד שם מה שהשיג על הב\"י בענין בע\"ח מאוחר וס\"ל דגם בזה עשו תה\"ש ומה שגבה גבה וסיים דכך ראוי להורות ע\"ש באריכות:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:4"
+        },
+        "5": {
+          "he": "בשטרות.  כתב הש\"ך דכאן מוכח דשטרות משתעבדי באגב ותימא שלא הביא בב\"י מחלוקת בזה שהרי הרשב\"א בתשובה חולק וס\"ל דשטרות אינם משתעבדי באגב כלל א\"כ לפי דעתו אין הבע\"ח יכול לגבות מהשט\"ח שמכר אפי' לדינא דש\"ס ומיהו אף להרשב\"א נ\"מ בזה דבשטרות לא שייך תה\"ש לענין אם מכר תחל' השט\"ח באג\"ק או שאר קנין המועיל כמ\"ש בסימן ס\"ז וחזר ומכרו לאחר. הלוקח ראשון מוציא מהלוקח שני בחנם דלא שייך בשטרות תה\"ש כיון דלא שכיח עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:5"
+        },
+        "6": {
+          "he": "חמש.  הש\"ך הביא כמה פוסקים דס\"ל דזה נקרא דבר קצוב הואיל והשנים קצובים ע\"כ כתב דצ\"ע לדינא וכת' עוד דמ\"ש הרמ\"א או שלא נתן קצבה לשנים צ\"ע מנ\"ל דהרי הרשב\"א בתשובה כתב בהדיא איפכא דמי שנתחייב לחבירו בקנין לתת לו מנה כל ימי היותו סופר או חזן אע\"פ שאין השנים קצובות מיקרי קצוב וכן הוא ברבינו ירוחם עכ\"ל ועיין שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:6"
+        },
+        "7": {
+          "he": "נקטינן.  כתב הש\"ך דבתשובת ן' לב כתב דמצי המוחזק לומר קים לי כהרמב\"ם וכ\"כ הרשד\"ם ומהרש\"ך ואין דבריהם נראין לי דכבר ידוע שאין לומר קים לי כהיחיד היכא שכל חכמי ישראל חלוקים עליו כו' ע\"ש שדחה כל הראיות מה שמביאים לדברי הרמב\"ם וכתב דמיהו כל זה לענין בני חורין אבל לטרוף ממשועבדים צ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:7"
+        },
+        "8": {
+          "he": "פירות.  ר\"ל מזונות ואפי' רוצה המתחייב לזונו על שלחנו יכול הנזון לומר אינני רוצה בזה רק להתפרנס בפני עצמי על שלחני דהא סיים וכתב דוקא במתנה עמו בפירוש כו'. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:8"
+        },
+        "9": {
+          "he": "הבית.  פי' הסמ\"ע שרבים האוכלים יחד אין מוציאין כ\"כ כאילו אכלו כל א' בפ\"ע ונותנין לזה לפי ערך שהיה מגיע להוצאתו אם היה אוכל עמהן וע\"ל סי' קע\"ז ס\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:9"
+        },
+        "10": {
+          "he": "מיהו.  ע' בא\"ע סי' קי\"ד ובתשו' מהרשד\"ם סי' כ\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:10"
+        },
+        "11": {
+          "he": "בריא.  ואין מחלקין בזה כמו שחלקו בס\"ס קע\"ו וקע\"ז גבי שותפין בין רפואה שיש לה קצבה לאין לה ובין חולי הבא באונס או בפשיעה ע\"ש בסי' קע\"ז והרא\"ש כתב שיש חילוק בין מי שנתפרנס בתנאי ב\"ד או לאו עכ\"ל הסמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:11"
+        },
+        "12": {
+          "he": "שצריך.  כתב הסמ\"ע מדלא קיצר וכתב משמע כל זמן שצריך אפשר לומר דה\"ק אם נדר לו כן בשעה שצריך סתמא דעתו היה כל זמן שצריך ואם נדר לו בשעה שאינו צריך אז דעתו היה על כל ימי חייו וצ\"ע עכ\"ל (והט\"ז הקשה על דין זה דמ\"ש ממי שקיבל עליו לזון את בת אשתו דאמרי' אע\"פ שיש לה מזונות אח\"כ צריך לתת לה דמי מזונות ע\"כ והגאון ח\"צ בהגהותיו שם כ' דשאני התם שקצב ה' שנים לאפוקי הכא דמחייב עצמו סתם כו' ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:12"
+        },
+        "13": {
+          "he": "אחת.  בס\"ס קס\"ג גבי קהל שפטרו א' ממס כתב הרמ\"א ג\"כ דיכולין לומר שלא פטרוהו רק משנה א' והנה ב' הי\"א שכתב רמ\"א כאן פליגי אהדדי י\"א הראשון דהמקבל עליו כו' כל ימי חייו משמע הוא דעת הרשב\"א. והשני דנפטר בשנה א' הוא דעת הרא\"ש וכן מוכח מהב\"י וד\"מ כאן ובא\"ע סי' קי\"ד ודלא כע\"ש שכתב דל\"פ והא דכתב הרמ\"א בסימן רי\"ב ס\"א באומר ידור פלוני בביתי סתם דאפי' שעה א' במשמע נראה דה\"ט דכל שלא קבע זמן יכול לומר שדעתו לא היה רק לשעה א' והמע\"ה ומה דפסק כאן דעכ\"פ שנה א' צריך לזונו והתם בשעה א' סגי הכא שאני דגילה דעתו לשנה א' מדאמר או יתן ק' זהו' לשנה אבל בסתם ס\"ל לדעת הרא\"ש דאפי' בשעה א' סגי וא\"ל לפ\"ז למה פסק בס\"ס קס\"ג גבי מס דנפטר בשנה א' עכ\"פ צ\"ל דשם מיירי במס פרטי דומיא דמס גולגלת דאינו נגבה כי אם פעם א' בשנה א\"נ במקום שגובין מס דכל השנה בפעם א' כן נראה ביאור דברי מור\"ם מ\"ש כאן ובס\"ס קס\"ג ובר\"ס רי\"ב רק שקשה על שסתם הרמ\"א בג' מקומות הללו ולא פי' אפי' במקום א' וע\"ל בסי' רי\"ב מ\"ש ישוב אחר אבל זה יותר נכון בעיני עכ\"ל הסמ\"ע וע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:13"
+        },
+        "14": {
+          "he": "קצב.  כתב הש\"ך דלכאורה משמע מדברי הרב דבקצב סך נמי פטור לגמרי מחלקה וא\"א לומר כן דבתשובת הרשב\"א שמשם מקור דין זה מבואר להדיא דאין הדין כן וכ\"כ הרמ\"א בא\"ע ס\"ס קי\"ד ע\"ש וע\"כ צריך לפרש גם דברי הרב כאן כן דבמזונות סתם לזמן פטור לגמרי אפי' מיורשיה ובקצב לה סך חייב לשלם ליורשים אלא שפטור מבעלה זה נ\"ל ברור עכ\"ל (* ועיין בט\"ז במעשה שאירע לפניו בא' שכ' לבנו ולכלתו ליתן להם מזונות ודירה סך קצוב ומת בנו אחר הנישואין ותובעת כלתה חלקה כו' עיין שם באורך ועיין בתשובת שבות יעקב ח\"א סי' ק\"נ שפסק במי שקיבל עליו לזון בנו וכלתו שמחויב ליתן לה בימי לידתה מאכלים יקרים וקלים כדרכן של בנות ישראל והשיג על הב\"ח שלא פסק כן עיין שם).",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:14"
+        },
+        "15": {
+          "he": "אחריות.  כתב הש\"ך אע\"ג דהב\"י כתב בשם הרמב\"ן דאם קבל עליו אחריות חייב להעמידה בידו צ\"ל דהוא מיירי שחייב עצמו בכך הלכך נהי דהקנין אינו כלום מ\"מ חל החיוב על גופו עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:15"
+        },
+        "16": {
+          "he": "משכון.  ובמרדכי כתב דהרבה גאונים חולקין וס\"ל דלא יתן המשכון עד שיתן לו המתנה עכ\"ל ד\"מ ותמיה לי על שסתם הרב ולא הגיה כלום וע\"ל סי' ר\"ז סי\"א וסי' של\"ג ס\"א. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:16"
+        },
+        "17": {
+          "he": "חייב.  מיהו היינו דוקא לגבות מבני חרי אבל ממשועבדים אפי' כתב לו שטר ע\"ז לא מהני אף בדבר קצוב כגון בית זה או סך זה שאירש מאבא כו' דכיון שלא היה בעולם בשעת כתיבה אין הקול יוצא כן מתבאר מדברי רש\"י ותוס' אכן להרמב\"ם וסייעתו משמע דטורף בדבר קצוב כשמתחייב בשטר אף שלא היה בעולם ועיין בתשובת מהר\"א ששון סי' כ\"ג. שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:17"
+        },
+        "18": {
+          "he": "שקנו.  כתב הש\"ך דזהו דוקא למאן דס\"ל דא\"א לאדם להתחייב בדבר שאינו חייב אלא בקנין ולא מהני אתם עידי וא\"כ קשה על המחבר דבר\"ס מ' פסק כהרמב\"ם דאם אומר אתם עידי חייב וכאן כתב והוא שקנו מידו ואפשר דס\"ל דבדבר שאינו בעולם או אינו ברשותו לא מהני הוו עלי עדים לכ\"ע אבל לא נ\"ל לחלק בכך וצ\"ע עכ\"ל וכ' הסמ\"ע דאפי' לדעת האומרים דאם קנו מידו ליתן או אתן לא קנה דה\"ל קנין דברים וכמ\"ש הרמ\"א בסי' רמ\"ה ס\"א מ\"מ בזה שחייב נפשו ליתן לזה קנה לכ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:18"
+        },
+        "19": {
+          "he": "התובע.  וכ\"כ מור\"ם בסי' קי\"ב ס\"ג ע\"ש והמחבר כת' שם פלוגתא בזה ובס\"ס ר\"ן סתם המחבר דעל היורשים להביא ראי' שלא הי' לו בשעת מית' וזהו דלא כמ\"ש כאן ובסי' קי\"ב ונ\"ל ליישב דכאן איירי דהנתבע טוען ברי שלא הי' לו המטבע בשעת הקנא' מש\"ה אמרי' המע\"ה משא\"כ בס\"ס ר\"ן דטוענים היורשים שמא לאחר מכאן לקחום לכך אזלי' בתר טענת ברי דתובע ואמרינן כאן נמצא כו' ואף דבסי' קי\"ב איירי ג\"כ ביורשים וסתמא אין טענתם במילי דאבוה בברי י\"ל דשאני התם דאיירי בקרקעות ובהן לא שייך לומר כאן נמצא כו' דקרקע במקומה עומדת ואף שיוצא' מרשות לרשות מקומה לא תזוז ודוקא במטלטלים הנמצאים בבית בעליהן שם אמרינן כאן נמצאו בביתו וכאן היו בשעת מתנ' ואע\"ג דכאן איירי ג\"כ במטלטלין מ\"מ כיון דהנתבע טוען ברי המע\"ה עכ\"ל הסמ\"ע ובש\"ך תירץ דבסי' ר\"ן כיון דהמטלטלים הם בעין אמרי' כיון שעתה כאן נמצאו כאן היו אבל הכא המטבע אינה בעין ומה שהקש' מסי' קי\"ב נ\"ל עיקר לדינא מאחר דשם הוא דברי הגאונים ואנן קי\"ל שם דלא כהגאונים ה\"ה דלא קי\"ל כהך דס\"ס ר\"ן וכ\"כ הב\"ח דהפוסקים סותרים זא\"ז ולעולם על המקבל להביא ראי' וכן עיקר עכ\"ל (וז\"ל הט\"ז ע' בסי' ר\"ן ורפ\"א שם הוכחתי דיש בזה דעות חלוקות וע\"ש להלכ' עכ\"ל) וע' בתשו' מהרש\"ך ס\"ב סי' ט' ובמהרשד\"ם סי' ש\"ט ובתשובת הרמ\"א סי' צ\"ב ובתשו' מהר\"מ מלובלין סי' ק\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:19"
+        },
+        "20": {
+          "he": "בקנין.  כת' הסמ\"ע נרא' דלאו דעש' לו קנין בפ\"ע דא\"כ פשיטא דקנ' ואפי' גוף השד' קנה אלא ר\"ל שכת' לו שטר קנין ולאפוקי שטר ראי' לחוד דאינו קונ' עד שיתן דמי הקני' וכמ\"ש הט\"ו בסי' ק\"ץ וקצ\"א ע\"ש מש\"ה קאמר דאפ\"ה זכה זה במשכונא עכ\"ל ועי' בתשובת מהרש\"ך ס\"ב סי' מ\"ט:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:20"
+        },
+        "21": {
+          "he": "כופין.  והש\"ך כת' דדין זה צ\"ע דאע\"פ שלוי שלוחו של ראובן הי' מ\"מ כיון דמעות להוצא' ניתנו נעש' שמעון לוה של לוי ולוי לוה של ראובן וההוא שטרא דלוי הוא ולא מהני הודאתו עד שיקנהו לו בכתיב' ומסיר' וצל\"ע וע' בתשובת מהרשד\"ם סי' ס\"ד וקצ\"ב ובתשו' מהר\"א ששון סי' קי\"ב עכ\"ל. (וע' בט\"ז מ\"ש בדין זה ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:21"
+        },
+        "22": {
+          "he": "למחול.  פי' אע\"פ דהמוכר שט\"ח לחבירו וחזר ומחלו מחול כמ\"ש בסי' ס\"ו שאני הכא דמעות שט\"ח מעולם לא היו שלו. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:22"
+        },
+        "23": {
+          "he": "אין.  ומהרש\"ל כת' שצריך ליתן טעם לדבריו דאל\"כ כופין אותו על מדת סדום וע\"ל סי' קפ\"ד ס\"ב ובתשובת מהרש\"ך ח\"ב סי' קע\"ד. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:23"
+        },
+        "24": {
+          "he": "לעדים.  כתב הסמ\"ע דה\"ה אם אמר כן ללו' אע\"פ שלא פירש דבריו אלא אורחא דמלתא נקט דבפני העדים מסתמא אינו מפרש כדי שלא להשביע דאל\"כ למה כתבו מתחל' על שם שמעון משא\"כ בפני הלו' דהוא יודע האמת שהמעות הן שלו ואז מסתמא מפרש שיכתוב שטר אחר על שמו עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:24"
+        },
+        "25": {
+          "he": "הקהל.  המחבר קיצר במקום שהי' לו להאריך דבתשובת הרא\"ש מבואר דדוקא בנדון דידיה שמנהג הקהל' הי' לכתוב שטרי הכנסתם ע\"ש היחיד כדי שלא יהא עסקם כקדיר' דבי שותפי או מטעם אחר הידוע להם למה עשו כן הא בלא\"ה נאמן זה לומר שהמעות הן שלו ובשביל שלא להשביע את עצמו כת' בסוף שהן של הקהל ודלא כע\"ש שנתן טעם לדין זה מסברא דנפשיה דאין דרך היחיד לתלות מעותיו בהקהל משום שלא להשביע עכ\"ל הסמ\"ע אבל הש\"ך הסכים לדברי הע\"ש וכת' דמ\"ש הרא\"ש שמנהג הקהל הי' כך לרווחא דמלתא כ\"כ וע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:25"
+        },
+        "26": {
+          "he": "שמעון.  כת' הסמ\"ע דגם כאן קיצר המחבר בהעתק' כי ז\"ל שם ואח\"כ כת' לוי לראובן שטר הרשא' לתבוע משמעון אותן כ' זהובים ובא ראובן ותבעו וטען כו' והשיב אע\"פ שכת' ראובן השטר ע\"ש לוי לא הקנ' המעות ללוי כו' משמע דוקא באופן זה שלא בא השטר ליד לוי הא בא לידו י\"ל שזיכ' הממון ללוי ע\"י כתיבתו על שמו ואפי' מחל בפי' אינו מחול כמ\"ש בסי' ס\"ו סכ\"ג וזה ברור עכ\"ל והש\"ך כת' דאפי' בא השטר ליד לוי אם הוא בענין שלא הקנ' לו המעות רק שכתבו על שמו לא זכה בו לוי ועיין בתשובת רשד\"ם סי' צ':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:26"
+        },
+        "27": {
+          "he": "כלום.  כי נמצא שהי' אפוטרופוס של בנו בשעת הלוא' לכן גם עתה צריך לפרוע לו ועוד שביד האב למנות אפוטרופוס לבנו כ\"ש שמינ' את עצמו כו' כ\"כ הרא\"ש שם וע' עוד שם כלל צ\"ו סי' ג' עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:27"
+        },
+        "28": {
+          "he": "האש'.  כת' הסמ\"ע דהיינו באינה נושאת ונותנת בתוך הבית כמ\"ש בסי' ס\"ב ס\"א דשם חזר וכ' הרמ\"א דין זה והש\"ך כ' דבמקור הדין בתשובת הרא\"ש משמע אפי' בנושאת ונותנת כו' כשהבעל עצמו כת' השטרות וכ\"כ הסמ\"ע גופיה בסי' ס\"ב לדעת הטור בא\"ע סי' פ\"ו מיהו לענין דינא כתבתי שם שהעיקר כהרשב\"א שחולק על זה עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 60:28"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

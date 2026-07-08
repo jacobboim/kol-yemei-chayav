@@ -1,0 +1,87 @@
+{
+  "chelek": "EH",
+  "siman": 153,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 1,
+  "fetchedAt": "2026-07-08T00:09:01.494Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין המוצא גט בשוק למי יחזור אותו. ובו סעיף אחד:המוצא גט אשה בשוק אם האשה נותנת סימן שאומרת נקב יש בצד אות פלוני ואומרת שכבר נתגרשה בו וממנה נפל יחזירוהו לה אפילו אם הבעל מכחישה ואומר שממנו נפל ולא גירשה מעולם אלא שצוה לכתבו ועדיין לא נתנו אפילו אם גם הוא נותן בו סימן ואם אינה נותנת בו סימן והבעל מכחישה לא יתנוהו לא לו ולא לה ואם הבעל מודה שכתבו ואומר שיתנוהו לה להתגרש במקום ובשעה שראוי להחזיר דליכא למיחש שמאחר נפל על פי מה שנתבאר בסימן קל\"ב יתנוהו לה ותתגרש בו מעתה ואם לאו לא יתנהו לה ואם הוא מודה שנתגרשה בו והיא שואלת אותו לגבות בו כתובתה והוא אומר שכבר פרעה והחזירתו לו וממנו נפל מחזירו לה אפילו אינה אומרת נקב יש בצד אות פלונית רק בשאר סימן שאינו כ\"כ מובהק כגון שאומרת כך וכך אצבעות באורך הגט או ברחבו או שאומרת מדת החוט הקשור בו אבל אם אמרה הגט היה ארוך או קצר ואינה מכוונת מדתו או החוט לבן או שחור או שאמרה שהוא מונח בחפיסה או בדלוסקמא אינו סימן להחזירו לה על ידו:",
+      "en": "If someone finds a woman's bill of divorce in the marketplace, if the woman gives a sign [it is hers], saying, \"This hole is next to this letter,\" and she says she was already divorce with it and it fell off of her, they return it to her. [This is so] even if the husband contradicts her and says that it fell off of him and that he never divorced her ever, but rather he had commanded it to be written but he had yet to give it; even if he also gives a sign. If she does not give a sign, and the husband contradicts her, they don't give it to him, nor to her. And if the husband admits he wrote it, and says he they should give it to her for divorce, at a place and time that it is appropriate to return, for there is not what to suspect after it fell, according to what was explained in Siman 132, they can give it to her and she can be divorced from then on. If not, they should not give it to her. And if he admits he divorced her with it, and she requests of him that she should collect her ketubah, and he said that he already paid her and returned it to her and [the bill of divorce] fell from him, he returns it to her, even if she doesn't say, \"This hole is next to this letter,\" but any other sign (that does not so much) show intimate knowledge [of what the bill of divorce looks like], such as her saying, \"Such and such fingers are the length of the bill of divorce,\" or \"[Such and such fingers are the width of the bill of divorce,\" or she says the measurement of the string-tie for it, or [whether] the string is white or black, or she says it was placed in a box or in a chest, those are not sign that are enough for him to return it to her.",
+      "ref": "Shulchan Arukh, Even HaEzer 153:1"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ל' הטור ממימרא דרבא ומסקנת הגמ' ב\"מ דף כח עא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 153:1"
+        },
+        "2": {
+          "he": "כמו שפי' רש\"י שם שהוא נתנו ויודע סימנין אבל היא אם לא נתן לה מהיכן ידעה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 153:2"
+        },
+        "3": {
+          "he": "מברייתא מצא גט וכו' שם דף יח ע\"ב וכמ\"ש הרי\"ף והרא\"ש בדלא נתנה סימני הגט איירי וכתבו התוס' אע\"ג דנאמנת לומר גרשתני הכא אינה נאמנת דמעיזה פניה כיון שהגט מסייעה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 153:3"
+        },
+        "4": {
+          "he": "מהא דר' זירא רמי מתני' אברייתא ומשני וכו' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 153:4"
+        },
+        "5": {
+          "he": "טור והב\"י לא כ' מוצא דין זה וכתב בדרישה ופרישה דאם איתא דפרעה הי' לו ליטול ממנה שובר דלא שכיחא שהיא תחזיר לו הגט משום שהיא צריכה לראייה להנשא ועיין בב\"ח מ\"ש בזה ולענ\"ד נראה שלמד זה מדברי התוס' כתובות סוף דף פח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 153:5"
+        },
+        "6": {
+          "he": "אדלעיל קאי אם האשה נותנת בו סי' דלאו דוקא שצ\"ל נקב יש וכו' שהוא סי' מובהק אלא אפילו באומר' כך וכך אצבעות שאינו סימן מובהק כל כך וכן כתב הרא\"ש בהדיא והביאו הב\"י אבל אם הוא מודה שנתגרשה בו א\"צ סי' כלל אלא מחזירין לה בלא סי' וכ\"כ מהרמ\"ל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 153:6"
+        },
+        "7": {
+          "he": "כן מצאתי מוגהה בש\"ע א\"ח וז\"ל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 153:7"
+        },
+        "8": {
+          "he": "שם בגמ' דף כח ע\"א וכדמפרש שם טעמא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 153:8"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "לא לו ולא לה א\"ל למה לא יחזירה הא אם אמרה גרשתני נאמנת כמ\"ש הרא\"ש בזה בסמוך נראה דכיון דנמצ' הגט בשוק גרע טפי ואיתרע זכו' דידה כיון דלא יהבה סימנ' ועיין אח\"ז בסמוך:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 153:1"
+        },
+        "2": {
+          "he": "אפילו אינה אומר' נקב כו'  ז\"ל (רש\"י) (צ\"ל רש\"ל) ותימא גדולה מה מועיל סימנים הלא היה בידה כמה ימים הכירה בו ומה ראיה יש שלא החזירתו לו וע\"ק דלעיל כתב כגון שאומרת נקב יש בצד אות פלוני' בו' דהוא סי' מובהק והוא נגד דעת הרא\"ש בפ\"ב דב\"מ ע\"כ נראה דמ\"ש מחזירו לה פי' בכח סמנים לפי שמוקמינן לה אחזקה שממנה נפל שאין שכיח כלל שתחזור הגט משום שצריכה לראיה והיה לכתוב שובר או לכתוב על גיטא גיטא דנן קרענוה כדאית' פ\"ק דב\"מ דף י\"ח ומ\"ש אח\"כ אפי' לא נתנ' סימנים מובהקים חוזר על מ\"ש למעלה כל היכ' שהאשה אומרת שנתגרשה והוא מכחישה דל\"ד בעינן נקב יש בצד כו' והיינו כדברי הרא\"ש ממש ובס\"א כ' בהדי' ואם אומרת שנתגרשה כו והוא מכחישה אפילו אינו אומרת נקב כו' והיינו כמו שפרשתי עד כאן לשונו וגי' ב\"י היתה ג\"כ כמ\"ש רש\"ל בשם ס\"א וכן עיקר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 153:2"
+        },
+        "3": {
+          "he": "רק בשאר כו'  פי' מובהק באשר\"י כתב וז\"ל ולא בעינן סי' מובהק דליכ' כאן חשש שמא נכתב לשם אשה אחרת כיון שבא לידה קודם נפילה כו' ואי משום דמנסבא בגט זה דאיכ' איסור דאוריית' אפילו בלא גט נמי האשה שאמרה לבעלה גרשתני נאמנת כו' וא\"כ קשה למה כ' הטור בשאר סימני מובהק ובאמת א\"צ למובהק וצ\"ל דמובהק דנקט הטור לאו מובהק ממש קאמ' אלא למעוטי שאינו מובהק כלל וביש ספרים לא נזכר בטור תיבת מובהק אלא שק\"ל על מ\"ש הרא\"ש להקל משום דנאמנת לומר גרשתני למה כתוב בסמוך דאם אינה נותנת סי' דלא ינתן לא לה ולא לו ותו דטעם נאמנות משום חזקה אין מעיזה בפני בעלה וכאן אין שייך זה דכיון שגם הוא מודה שכ' לה הגט אלא שלא נתנו עדיין וא\"כ מעיזה בפניו וצ\"ע:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 153:3"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

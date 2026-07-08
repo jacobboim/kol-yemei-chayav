@@ -1,0 +1,795 @@
+{
+  "chelek": "EH",
+  "siman": 90,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 20,
+  "fetchedAt": "2026-07-08T00:09:00.164Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין הבעל יורש את אשתו ומה הוא שאינו יורש ודין מכירת האיש בנכסיו המשועבדים לאשתו וטענה נחת רוח עשיתי לבעלי. ובו כ סעיפים:הבעל יורש את אשתו בין נכסי מלוג בין נכסי צאן ברזל בד\"א במוחזק אבל לא בראוי כגון ירושה שראוייה לירש ומתה בחיי מורישה אינו עומד במקומה ליירש: הגה שטר חצי זכר שנוהגין בו האידנא שכותב האב לבתו ליטול בירושתו כחלק חצי זכר ואם תלך הבת בלא זרע קיימא יתבטל החוב ומתה הבת בחיי אביה והניחה זרע קיימא ומת הזרע ואח\"כ מת אביה הבעל יורש כח אותו השטר מכח זרעו שיירש אמו והוא יורש זרעו (מהרי\"ו סי' ט\"ז) כתבו לה מורישיה קרקע מחיים ופירות לאחר מיתה הבעל יורש אותה קרקע ממנה (מרדכי ריש יש נוחלין)  אבל שבח נוטל במה שיורש ממנה שהרי ברשותו השביח ואינו יורש מלות אשתו כגון שמתו מורישיה והיתה להם מלוה ביד אחרים כשנשאה ומתה קודם שגבתה אותם: הגה אבל אם הניחו מורישיה נכסים אע\"פ שלא גבתה הבת מחיים ואפילו אם היו משועבדים לכתובת אלמנה נקראים מוחזקים לבת והבעל יורש אותם (מרדכי פ' כל הנשבעין)  וכן אם היה לה מלוה ביד אחרים כשנשאה ומתה האשה קודם שגבתה אותה אינו יורשה אבל אם הלותה מנ\"מ ומתה קודם שגבתה בזו יורש אותה בעלה: הגה  כל הנכסים שהיו לאשה שאין לבעלה רשות בהן והלותה אותן לאחרים אין הבעל יורש אותן (ב\"י בשם תשובת הרשב\"א):",
+      "en": "A husband inherits his wife, both melog properties (dowry property in which the husband is permitted usufruct) and \"iron flock\" properties (dowry properties guaranteed 100% by the husband). With what circumstance are we dealing? with property in the direct possession of the wife, but not property which has not yet arrived in her possession, such as an inheritance designated for her, but she died before the grantor. [In the latter case] he does not stand in her stead to inherit.  Note: A writ of \"half male\" which is our current custom, that the father writes to his daughter to inherit 1/2 the share of male children, but if the daughter has no surviving descendants, the debt is canceled; and the daughter died in the lifetime of her father, with surviving descendants, and then the descendant died and subsequently the father died, the husband [of the daughter who died] inherits the rights of that writ, by way of the descendant who inherited his mother, and he [the husband] inherits his own descendants (Mahariv chapter 16). If the grantors of her inheritance wrote equity ownership of land [to be given to the woman] while they are still alive [but withholding the usufruct to themselves], and she would inherit the usufruct after [their] death, the husband inherits that land from her (Mordechai, beginning of chapter Yesh Nochalin in Bava Bathra).   But he takes the increase in value of what he inherits from her, for it increased in his hands. He does not inherit his wife's loans. For example, if her grantors died, and they had an outstanding loan in the hands of others when he married her, and she died before collecting those loans.  Note: But if her grantors of inheritance left property, even if the daughter did not take possession of that property in her life, and even if they were collateralized for the ketubah of a widow [i.e. of the grantor], that property is considered to be in the daughter's possession, and the [daughter's] husband inherits them (Mordechai, chapter Kol haNishbain).  Similarly, if she had an outstanding loan in the hands of others when he married her, and the woman died before collecting the loans, he does not inherit those loans. But if she loaned money from melog properties, and she died before collecting, in these the husband does collect.    Note:  All properties which a woman had, and to which her husband had no rights, and she loaned them to others, the husband does not inherit (Beit Yosef in the name of Responsa Rashba).",
+      "ref": "Shulchan Arukh, Even HaEzer 90:1"
+    },
+    {
+      "seif": 2,
+      "he": "מי שאמר נכסי לפלוני ואחריו ליורשי דקיימא לן הוא הדין ליורשי יורשי ואם היתה לו בת ומתה בחיי אותו פלוני והיה בן לבת הבן עומד במקום אמו ליירש לאותו פלוני אבל אם אין לבת יורש אלא בעל אינו יורש אותו פלוני דהויא ליה ראוי ואם אמר נכסי לפלוני ואחריו מעכשיו ליורשי הו\"ל מוחזק ובעל הבת יורש:",
+      "en": "One who says: my estate will go to so-and-so and, after him, to my heirs; since we hold that the same law applies to the heirs of the heir, i.e. he had a daughter who died while he was yet alive, and that daughter has a son, then the son stands in his mother's place to inherit. But if the daughter has no heirs but her husband, then the husband does not inherit, [d'havye lei raui.] And if he said: my estate will go to so-and-so and, after him, from this moment to my heirs, then they become status quo, and the daughter's husband would inherit his wife.",
+      "ref": "Shulchan Arukh, Even HaEzer 90:2"
+    },
+    {
+      "seif": 3,
+      "he": "הנושא אשה מחייבי לאוין הואיל וקדושין תופסין בה אם מתה תחתיו יירשנה  (וכן אשה שהמירה הבעל יורשה) (ב\"י מ\"כ בשם אבי העזרי)  וכן הנושא את הקטנה שהיא צריכה מיאון אע\"פ שאין קדושיה קדושין גמורים אם מתה תחתיו יירשנה אבל הפקח שנשא חרשת אפי' נתפקחה אחר שנשאה אם מתה לא יירשנה והחרש שנשא פקחת ומתה יירשנה שהרי היא בת דעת ולדעתה נשאת לו וזיכתה לו ממונה:",
+      "en": "One who marries a woman who is among the types of women where marriage will incur a sin [but not grevious enough to incur karet], then he inherits her if she dies, since their marriage was effective. This is also true for a woman who converts (Beit Yosef in the name of the Avi Ezri). Likewise, one who marries a minor who initiates miyun, even though the kiddushin is not complete, he still inherits her if she dies. But a [normal] man who marries a deaf-mute woman, even her hearing restores after their marriage, he does not inherit her if she dies. And a deaf-mute man who marries a [normal] woman, he inherits her if she dies, since she possesses knowledge and, according to her will, she married him, and  awarded to him her assets.",
+      "ref": "Shulchan Arukh, Even HaEzer 90:3"
+    },
+    {
+      "seif": 4,
+      "he": "קטנה שנתקדשה לדעת אביה ונשאת שלא לדעת אביה בין בפניו בין שלא בפניו אפי' שתק האב אם מתה אין הבעל יורשה אא\"כ רצה האב בנשואיה",
+      "en": "A minor who was engaged by her father's will bit married against her father's will, whether before him or not in his presence, even if the father said nothing, if she died, the husband does not receive her inheritance unless the father wanted the marriage.",
+      "ref": "Shulchan Arukh, Even HaEzer 90:4"
+    },
+    {
+      "seif": 5,
+      "he": "מי שנתגרשה ספק גירושין ומתה אין הבעל יורשה: הגה אבל כל זמן שלא נתגרשה אע\"ג שנתן עיניו לגרשה יורשה (טור בשם הרא\"ש) הטוען על אשתו שהיו בה מומין ומקחו מקח טעות כמו שנתבאר לעיל סי' ל\"ט אם מתה אינו יורשה (תשובת מיימוני סוף אישות ובמרדכי פרק מי שמת) אשה שמרדה בבעלה ומתה בעלה יורשה כך משמע מלשון המ\"מ פכ\"ב וע' לעיל סי' ע\"ז המורד על אשתו או מדירה ואינו נוהג עמה מנהג אישות יש אומרים דאם מתה אינו יורשה (הגהות מרדכי פרק אע\"פ):",
+      "en": "A woman who is divorced through a divorce that is in doubt [as to its legality], and then she dies, her husband cannot inherit her. Rama: But while she had not been divorced, even though he planned on divorcing her, he can inherit (Tur in the name of the Rosh). One who claims against his wife that she had blemishes and [his marriage] was a mistaken deal (as was explained earlier Siman 39), if she dies, he cannot inherit her (Teshuvat Maimoniot, end of Ishut, and Mordechai chapter Mi Shemet). A woman who was rebellious against her husband [and refused intimacy] and then died [and presumably he was to divorce her], her husband can inherit her (such is infered from the language of the Maggid Mishneh 22), and see earlier Siman 77. If he rebels against his wife [and refuses intimacy] or she against him, and does not act with her as they should in marriage, some say that if she dies, he does not inherit (Hagahot (Mordechai) Alfasi chapter Af Al Pi).",
+      "ref": "Shulchan Arukh, Even HaEzer 90:5"
+    },
+    {
+      "seif": 6,
+      "he": "נפל הבית עליו ועל אשתו ואין ידוע איזה מהם מת תחל' ואין לו בנים ממנה יורשי הבעל יורשין עיקר הכתובה והתוספות ויורשי האשה יורשין נכסי מלוג ובין שניהם חולקים נכסי צאן ברזל:",
+      "en": "If a house fell on him and his wife, and it is not known which of them died first and he has no children with her, the heirs of the husband receive the main part of the Ketubah and the extra stipulations, and the woman's heirs receive the Melog (not in the Ketubah) property and they split the Tzon Barzel (in the ketubah) property.",
+      "ref": "Shulchan Arukh, Even HaEzer 90:6"
+    },
+    {
+      "seif": 7,
+      "he": "האשה שכתבה כל נכסיה לאחר בין קרוב בין רחוק קודם שתנשא אע\"פ שאם נתאלמנה או נתגרשה תבטל המתנה אין הבעל אוכל פירותיהם ואם מתה בחייו אינו יורשה שהרי נתנה אותם קודם שתנשא וכשתמות בחיי בעלה יקנה מקבל המתנה מתנתו קנין גמור ולא עוד אלא אפי' נתנה מקצת נכסיה או כולם קודם וכתבה למקבל מתנה קנה מהיום ולכשארצה שהרי לא קנה קנין גמור עד שתרצה אין הבעל אוכל פירות אותה המתנה ואם מתה אינו יורשה:",
+      "en": "A woman who writes over all her property to another, whether a relative or not, before she gets married, even though if she is widowed or is divorce the gift would be void, her husband cannot benefit from the produce [of that property]. And if she dies (in his lifetime), he cannot inherit her, for she gave them away before she was married, and when she dies in her husband's lifetime, the buyer who received the gift, his gift becomes a complete acquisition. Not only that, but even if she gave away a small amount, or all of it, and she wrote to the receiver of the gift, \"Acquire it from today for as long as I will choose,\" the acquisition of which is not complete unless she chooses, [even then] the husband cannot benefit from that gift's produce, and if she dies, he cannot inherit it.",
+      "ref": "Shulchan Arukh, Even HaEzer 90:7"
+    },
+    {
+      "seif": 8,
+      "he": "יש מי שאומר דדינא דמברחת דוקא בשלא כתבה לו מתנה גמורה מתנה חלוטה מתנת עלמין אבל אם כתבה לו כן קנה לגמרי:",
+      "en": "Some say, that Dina smuggling specifically without writing to him a gift complete, a gift conclusive, a gift lifting; but if she wrote to him like this, completely bought.",
+      "ref": "Shulchan Arukh, Even HaEzer 90:8"
+    },
+    {
+      "seif": 9,
+      "he": "האשה שמכרה מנכסי מלוג אחר שנשאת אע\"פ שאותן הנכסים נפלו לה קודם שתתארס הבעל מוציא פירות מיד הלקוחות כל ימי חייה אבל לא גוף הקרקע ואם מתה בחייו מוציא הגוף מיד הלקוחות בלא דמים  (וי\"א דאף בחייה מוציא גוף הקרקע מיד הלוקח בלא דמים) (טור והרא\"ש)  ואם הדמים שלקחה מהלקוחו' קיימים בעצמם  (או שנמצאו מעות בידה ונוכל לתלות שהם אלו) (טור בשם הרא\"ש)  מחזירין ללקוחות ואינו יכול לומר שמא מציאה הן: הגה נתאלמנה או נתגרשה מכרה קיים (טור ורוב הפוסקים) וכל ימי חייה אם הבעל רוצה לבנות או לסתור בקרקע הלוקח יכול למחות (נ\"י פרק חזקת הבתים) ואין חילוק בין אם מכרה הנכסים או הקדישה אותן (ת\"ה סי' רע\"ב):",
+      "en": "A woman who sold part of her  Nichsei Milog  after marriage, even though that property came to her [possession] before she got engaged, her husband [can] take fruit [of this property] from the buyers all her life, but not the actual land. And if she dies in his lifetime, he [can] take the actual land from the buyers without payment. And there are those who say that even in her lifetime he [can] take the actual property from the buyers without payment ( Tur  and  Rosh ). And if the payment that she got from the buyers is still around, or they find money in her possession (lit. hand), and they are able to take them  ( Tur  in the name of the  Rosh ), they return it to the buyers, and he is not able to say: Maybe it [this money] is a found object. Rem\"a: If she got widowed or divorced, her sale is [still] valid ( Tur  and most  Poskim ). And all the days of her life, if the husband wants to build or destroy on the land, the buyer is able to protest ( Nimukei Yosef Perek Chezkat HaBatim). And there is no distinction between if she sold her property or she made them  Hekdesh  ( Terumas HeDeshen Siman 272 )",
+      "ref": "Shulchan Arukh, Even HaEzer 90:9"
+    },
+    {
+      "seif": 10,
+      "he": "ואם הבעל מודה או שיש עדים שברשותו מכרה אינו מוציא מיד הלקוחות דכשלוחו דמיא ואי בעי לוקח מחרים שלא מכרה מדעתו: הגה ראה שמכרה ושתק לה לא אבד משום זה זכותו (תשובת הרא\"ש כלל מ') צותה בעת חליה לתת כך וכך ממלבושיה ונתרצה הבעל אם נתנה לעניים אינו יכול לחזור בו ואם לעשירים יכול לחזור בו (מרדכי סוף הזהב ותשובת מוהר\"ם) וע' לעיל סי' פ\"ו אם מכרה או משכנה מטלטלים:",
+      "en": "And if the husband agrees, or if there are witnesses that she sold it with his permission, he cannot take it from the buyers, because she is like his agent, and if he wants he can take separated property which she sold without his knowledge. HGH: If he saw that she sold it and did not protest to her, he does not lose his rights. (Rosh, responsa, ch. 40). If she ordered, when she was sick, giving away this or that article of clothing, and the husband agrees, if she gave it to the poor he cannot get it back, and if to the rich he can get it back (Mordechai end of Hazahav and resp. of Moharam). See above ch. 86 if she sold movable property or used it as collateral for a loan.",
+      "ref": "Shulchan Arukh, Even HaEzer 90:10"
+    },
+    {
+      "seif": 11,
+      "he": "במה דברים אמורים שאם מכרה משנשאת מוציא הבעל מיד הלקוחות בנכסים הידועים לבעל אבל אם נפלו לה נכסים ולא ידע בהם הבעל לכתחילה לא תמכור ואם מכרה אותם קודם שידע בהם מכרה קיים וכן ארוסה לכתחילה לא תמכור נכסים שנפלו לה משנתארסה ואם מכרה קודם הנשואין מכרה קיים  (אפי' נכסים הידועים לו):",
+      "en": "What are we talking about? If she sold it after marriage, the husband can take it from the buyers, if it's inherited property known to the husband. But  if she inherited property without the husband's knowledge, ab initio she may not sell it, but if she sold it before the husband knew about it, the sale stands.  Similarly, a betrothed woman ab initio may not sell property inherited since her betrothal, but if she sold it prior to the marriage, the sale stands, even property known to the intended husband.",
+      "ref": "Shulchan Arukh, Even HaEzer 90:11"
+    },
+    {
+      "seif": 12,
+      "he": "נכסים שאינם ידועים לבעל כשיודעו לו מיד נעשו נכסי מלוג וכן הפירות שימצאו בידה מיד שיודעו לו הם נכסי מלוג: הגה אשה שאמרה על ירושה שנפלה לה שאביה צוה לתת ממנה לאחרים אם הנכסים ידועים לבעל אינה נאמנת מיהו אם מת הבעל צריכה לקיים הודאתה ואם הנכסים אינם ידועים נאמנת (ב\"י בשם תשו' הרשב\"א):",
+      "en": "Properties that are not know to the husband, when they become known to him, they immediately become Melog properties. Similarly, produce that are discovered in her possession, immediately when they become known to him, they are Melog properties. Rama's Note: A woman who says about her inheritance that fell to her, that her father instructed her to to give a portion of it to third parties, if the properties are known to the husband, she is not believed. However, if the husband dies, she must fulfill her admission [to the third parties]. If the properties are not known [to the husband], she is believed (Bet Yosef, from responsa of Rashba).",
+      "ref": "Shulchan Arukh, Even HaEzer 90:12"
+    },
+    {
+      "seif": 13,
+      "he": "האשה שמכרה או נתנה אחר שנשאת בנכסי צאן ברזל בין לבעלה בין לאחרים לא עשתה כלום  (וי\"א דמ\"מ כשתתאלמן או תתגרש מכרה קיים) (נ\"י פ' החובל)  וכן בעל שמכר קרקע בנכסי אשתו בין נכסי צאן ברזל בין נ\"מ לא עשה כלום ויש מי שאומר שאפי' הוא עצמו יכול לערער על המכר  (ואפילו אם מתה בחייו הבעל יורש כחה ויכול לבטל) (טור):",
+      "en": "A woman who sold or gave away her enumerated dowry property after marriage, whether to her husband or others, really hasn't.  And some say that after she is divorced or widowed, the sale becomes valid (Nimukei Yosef ch. Hachovel). Similarly, a husband who sold land which was his wife's property, whether regular or enumerated dowry property, really hasn't.  And some say that the husband himself can undermine the sale. And even if he survives her, the husband inherits her ability to sell and can nullify the sale.",
+      "ref": "Shulchan Arukh, Even HaEzer 90:13"
+    },
+    {
+      "seif": 14,
+      "he": "אין האיש רשאי למכור מטלטלין של נכסי צ\"ב ולא למשכנם ואם מכרן או משכנן מה שעשה עשוי: הגה וי\"א דמכרו בטל ובגדי האשה שהכניסה לו אין להן דין צ\"ב רק נ\"מ כמו שנתבאר לעיל סי' ע\"ז ולכן אם מכרן או משכנן בטל לכ\"ע כן נ\"ל וי\"א דאם אמר שברשותה עשה מה שעשה נאמן בשבועה וכן אם אמר שנתן לה הדמים (תשו' הרשב\"א סי' תקל\"ו ותקל\"ז) ישראל שגבה קרקע מן הכותי בחובו אם יש רשות לכותי לפדותו יש לה דין מטלטלין ואין לאשה כח למחות בו שלא למכרן אבל אם החזיק בה הישראל ואין הכותי יכול לפדותו יש לה דין קרקע ושעבוד כתובות האשה עליה כמו שאר קרקע (ת\"ה סימן של\"ט):",
+      "en": "A man is not allowed to sell chattel of Tzon Barzel properties, nor pledge them as security. If he sold or pledged them, what is done is done. Rama's Note: Some say that [in such a case] the sale is void. Woman's clothing that she brings [into the marriage] to him do not have the status of Tzon Barzel, only Melog properties, as was explained above, siman 77. And therefore, if he sold them or pledged them, it is unanimously held that it is void, and thus it appears to me. But some say, that if he said that he did what he did with her permission, he is believed with an oath. And similarly, if he said that he paid her the value [of the item] (Responsa of Rashba 536, 537). A Jew who collects real estate from a Cuthite (i.e., a non-Jew) in fulfillment of a loan, if the Cuthite has authority to redeem [the land], it has the status of chattel, and the woman does not have any power to contest it so that he cannot sell it; however, if the Jew took possession of it and the Cuthite cannot redeem it, then it has the status of real property, and it has the encumbrance of the wife's marriage contract on it just as any other real property (Terumat HaDeshen 339).",
+      "ref": "Shulchan Arukh, Even HaEzer 90:14"
+    },
+    {
+      "seif": 15,
+      "he": "מטלטלין שנתן לה משלו דינם שוה לנכסי צ\"ב שאינו רשאי למוכרן לכתחילה וה\"ה למטלטלין שקנה לה אפי' לא באו לידה ואפי' אין לו במה להתפרנס ואין חילוק בין בגדי שבת וי\"ט לבגדי חול אבל כלי זהב ובדולח יכול למוכרם אם הוצרך להתפרנס מהם ואם קרובים נתנו לה בין תכשיטים בין בגדים יכול הבעל למוכרם לפרנס עצמו:",
+      "en": "Movable property that he gave to her from his own property follows the same rules as dowry property [tzon barzel], which he may not sell ab initio, which also goes for movable property that she acquired, even if not directly to hand, and even if it has no potential for income.  And there is no distinction between daily and Shabbat/holiday clothing.  But he may sell gold and crystal utensils if he needs income from them.  And if relatives gave her clothing or jewelry, the husband may sell them for his own income.",
+      "ref": "Shulchan Arukh, Even HaEzer 90:15"
+    },
+    {
+      "seif": 16,
+      "he": "מכרו שניהם בנכסי מלוג בין שלקח מהאיש תחילה וחזר ולקח מהאשה בין שלקח מהאשה וחזר ולקח מן האיש מכרם קיים וכן האשה שמכרה או נתנה נכסי מלוג לבעלה מכרה ומתנתה קיימים ואינה יכולה לומר בנכסי מלוג נחת רוח עשיתי לבעלי אבל בשאר נכסים יש לה לומר כן כיצד האשה שמכרה או נתנה לבעלה מנצ\"ב בין קרקע בין מטלטלין או שדה שיחד לה בכתובתה או שדה שכתב לה בכתובתה או שדה שהכניסה לו שום משלה לא קנה בעלה ואע\"פ שקנו מיד האשה ברצונה חוזרת בכל עת שתרצה שלא נתנה ולא מכרה אלא מפני שלום ביתה לפיכך אין לבעלה ראיה כלל בנכסי אשתו חוץ מנ\"מ אלא א\"כ קבלה עליה אחריות בפירוש: הגה י\"א דוקא מכירתה ונתינתה לא מהני אבל אם מחלה לבעלה כל זכות שיש לה על הנכסים מהני כמו שמהני מחילה לענין כתובה (הראב\"ד והרא\"ש) ויש חולקים (הרמב\"ן והרשב\"א והרמב\"ם לדעת המ\"מ):",
+      "en": "They both sold part of the wife's inherited property (nichsei melug), whether it was bought from the husband first and returned and bought from the wife, or it was bought from the wife and returned and bought from the husband, their sale stands.  Similarly the wife who sold or gave inherited property to her husband, her sale or donation stand, and she cannot say about the inherited property: \"I have made my husband happy.\"  But regarding other inheritance she may say so.  How does this work? The wife who sold or gave to her husband enumerated dowry property (tzon barzel), whether land or movable property, or a field that he set aside in her ketubah, or that he specified in in her ketubah, or a part of her field which she brought into the marriage for him, her husband has not actually acquired it. And even if they acquired it from the wife's hand, willingly, she may take it back at any time, because she neither gave nor sold it except for making peace in her home.  Therefore, the husband has no proof that he owns any of his wife's property, except for inherited property, unless she explicitly received the responsibility to. HGH: Some say that specifically her sale or donation don't occur, but if she hands over to the husband all her her rights to the inheritances, as she can do with the money specified in her ketubah, the transfer is valid (Raavad and Rosh). And others argue (Ramban, Rashba, Rambam according to the Maggid Mishnah).",
+      "ref": "Shulchan Arukh, Even HaEzer 90:16"
+    },
+    {
+      "seif": 17,
+      "he": "הבעל שמכר נכסיו ואח\"כ כתבה אשתו ללוקח דין ודברים אין לי עמך והסכימה למעשיו אע\"פ שקנו ממנה הרי זו טורפת שלא כתבה לו אלא כדי שלא תהיה בינה לבין בעלה קטטה ויש לה לומר נחת רוח עשיתי לבעלי ואפילו כתבה לו שלא תוכל לומר נחת רוח עשיתי לבעלי אינו כלום אבל אם קנו מיד האשה תחילה שאין לה שעבוד על מקום זה ואח\"כ מכר אותו הבעל אינה טורפת אותו וכן אם מכר הבעל ואמר לאשתו לכתוב ללוקח דין ודברים אין לי עמך ולא הסכימה למעשיו וחזר הבעל ומכר לאיש אחר בין אותה שדה בין שדה אחרת ואחר שמכר הבעל הסכימה למעשיו וקנו מידה שאין לה שעבוד על שדה זו אינה יכולה למחות שאינה יכולה לומר נחת רוח עשיתי לבעלי וכן אם קבלה עליה אחריות בפירוש שאם יטרוף בעל חוב של בעלה ממנו שהיא תשלם לו אינה יכולה לטעון נחת רוח עשיתי לבעלי: הגה וי\"א דאם האשה קבלה המעות אינה יכולה לומר עוד נחת רוח עשיתי לבעלי (נ\"י פ' חזקת ובמישרים נכ\"ג ח\"ד) אשה שהודית שחייבת עם בעלה צריכה לשלם ולא יכולה למימר בזה נחת רוח עשיתי לבעלי דלא אמרי' כן אלא בנכסים שמוכר (ב\"י בשם תשו' הרמב\"ן) אשה שסלקה כחה מנכסי בעלה קודם שקנאן הבעל יכול למוכרן אח\"כ ואינה טורפת מהן ולא שייך בזה לומר נחת רוח עשיתי לבעלי (מרדכי ריש הכותב ובהגהות מיימוני פ' כ\"ג):",
+      "en": "A husband who sold his property, and afterward, his wife wrote to the buyer, \"I have no issue or matter with you,\" and she agreed to his actions, even though [the buyer] bought it from him, it is voided [lit: ripped up], since she only wrote this so that she should not have a fight with her husband, and so she can say, \"I wanted to make my husband feel good [but did not intend for the transaction to have legal significance]\" And even if she wrote to [the buyer] that she will not be able to say [the excuse that] \"I wanted to make my husband feel good,\" it is meaningless.  However, if he made a kinyan from the hand of the wife that there would be no encumbrance on this place, and [only] afterward the husband sold it to him, then the transaction is not voided. Similarly, if the husband sold [property], and he told his wife to write to the buyer, \"I have no issue or matter with you,\" and she did not agree to his actions, and subsequently, the husband went and sold it to a different person—whether the same field or a different field—and after the husband sold it she did agree to his actions, and he made a kinyan that there would be no encumbrance on this field, she may not then contest [the transaction], because she is not able to say [that she only agreed to his actions because] \"I wanted to make my husband feel good.\" Similarly, if she expressly accepted on herself the responsibility that if the creditor of her husband has [a debt] voided from him, she will pay him, then she is not able to claim [the reason I did this was merely that]  \"I wanted to make my husband feel good.\" Rama's Note: Some say that if the wife accepted the money she is not able to say afterward \"I wanted to make my husband feel good\" (Nimukei Yosef, Chapter Chezkat; Mesharim Nasiv 23, part 4). A wife who admits that she owes money with her husband must pay it, and she is not able to say with respect to this, [I made the admission because] \"I wanted to make my husband feel good,\" because we only say this with respect to properties that are sold (Bet Yosef, from Responsa of Ramban). A wife whose power was removed from her husband's property prior to the husband's kinyan, he may sell the properties afterward and they will not be voided, and there is no relevance to say, \"I wanted to make my husband feel good\" (Mordechai, beginning of Chapter HaKotev; Hagaot Maimoni ch. 23).",
+      "ref": "Shulchan Arukh, Even HaEzer 90:17"
+    },
+    {
+      "seif": 18,
+      "he": "נכסי צאן ברזל שאבדו או נגנבו ומחלה אותם לבעלה וקנו ממנה בעדים אינה יכולה לומר נחת רוח עשיתי לבעלי אבל אם נתנה לו מתנה מטלטלי צ\"ב הקיימים לא קנה מפני שיש לה לומר נחת רוח עשיתי לבעלי:",
+      "en": "Dowry property that was lost or stolen and she forgave her husband [from any responsibility for them], and she made a gesture of acquisition for them with witnesses, she cannot say, \"I dis so to placate my husband.\"  If, however, she gave him a gift from some movable property that was still from the extant dowry property, she has not [fully obligated herself] with an acquisition, because she can say, \"I did so to placate my husband.\"",
+      "ref": "Shulchan Arukh, Even HaEzer 90:18"
+    },
+    {
+      "seif": 19,
+      "he": "אשה שאמר לה בעלה שתעשה בבגדיה ובתכשיטיה מה שתרצה אם מכרה או נתנה בטל:",
+      "en": "A woman whose husband said to her that she should do as she pleases with her clothing and jewelry, if she sold or gave them away, [her actions are]  cancelled.",
+      "ref": "Shulchan Arukh, Even HaEzer 90:19"
+    },
+    {
+      "seif": 20,
+      "he": "ראובן שהיה לאשתו קרקע נכסי מלוג ונתחייב לשמעון בשטר ואח\"כ נתחייבו הוא ואשתו בשטר ללוי ומתה בחיי בעלה לוי קודם לגבות מאותו קרקע של נכסי מלוג:",
+      "en": "If Reuven's wife possessed non-dowry land and he had an outstanding contractual debt to Shimon, and a a later date he and his wife became contractually indebted to Levi, and the wife then dies while her husband is still living, Levi has first right to collect from that non-dowry land.",
+      "ref": "Shulchan Arukh, Even HaEzer 90:20"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ציינתיו לעיל בסי' נ\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:1"
+        },
+        "2": {
+          "he": "כן משמע כתובו' דף ע\"ח וע\"ט ובכמה דוכתי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:2"
+        },
+        "3": {
+          "he": "מימרא דרב אבהו וכו' ב\"ב דקי\"ג ע\"א ויליף לה מקרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:3"
+        },
+        "4": {
+          "he": "ועי' לקמן סי' ק\"ח סעי' ג' בהג\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:4"
+        },
+        "5": {
+          "he": "טור מדברי אביו הרא\"ש שם בפסקיו אהא דא\"ר פפא הלכת' אין הבעל וכו' שם דף קכ\"ה ע\"ב משום שכל הנכסים הם שלו וברשותו השביחו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:5"
+        },
+        "6": {
+          "he": "שם בשם אביו הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:6"
+        },
+        "7": {
+          "he": "מעובדא דההוא דאמר נכסי לסבת' וכו' וכדשלחו מתם וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:7"
+        },
+        "8": {
+          "he": "כרב ענן ולא מטעמי' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:8"
+        },
+        "9": {
+          "he": "ל' הרמב\"ם בפכ\"ב מה\"א מהתוספתא פ\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:9"
+        },
+        "10": {
+          "he": "משנה גיטין דף נ\"ה ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:10"
+        },
+        "11": {
+          "he": ") פי' שאינה צריכה גט ממנו אלא יוצאת במיאון",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:11"
+        },
+        "12": {
+          "he": "כ' ה\"ה שלמד זה ממ\"ש שאין לה כתובה וכשם שאין לה כתובה כך אינו יורש'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:12"
+        },
+        "13": {
+          "he": "גם בזה כתב שלא מצאתי מבואר אבל דברי טעם הם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:13"
+        },
+        "14": {
+          "he": "שם וכרב דלא הוו קידושין וכל שכן הוא לענין ממון דהעמד הממון על חזקתו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:14"
+        },
+        "15": {
+          "he": "לא מצאתי מוצא דין זה דלדעת הרשב\"ם משע' קטטה ודעתו לגרשה אינו יורשה ולדעת הרא\"ש אין הירושה נפקעת אלא בגירושין גמורים וכמ\"ש הטור בשמם ולע\"ד מ\"ש המחבר שאין הבעל יורש' דהיינו הנכסי' שהן בחזקת האשה אבל הנכסים שהן בחזקת הבעל לדעת הרא\"ש והתוס' אין מוציאין מידו דאין ספק מוציא מידי ודאי ודינם כדין נפל הבית עליו כולי שבסעיף שאחריו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:15"
+        },
+        "16": {
+          "he": "כפירו' הרשב\"ם שם בעובדא דתותרנית ד' קמ\"ו ע\"א וע\"ב שהמעשה היה בנשואה אף שבמרד' כ' כיון שטוען שהם קידושי טעות הודאת בעל דין כמאה עדים דמי ואינו יורשה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:16"
+        },
+        "17": {
+          "he": "משנה ב\"ב ק\"ח ע\"א וכב\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:17"
+        },
+        "18": {
+          "he": "וכגון שייחד לה נכסים לכתובתה דאינה צריכה לישבע דאל\"כ אפי' מת הבעל תחלה אין יורשיה יורשים ממון הצריכים שבועה כמ\"ש ס\"ס פ\"ט וריש סי' ק\"ו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:18"
+        },
+        "19": {
+          "he": "כר\"ל משום בר קפרא הרי\"ף והרא\"ש והרמב\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:19"
+        },
+        "20": {
+          "he": "ל' הרמב\"ם בפ' כ\"ב מעובדא דההיא איתתא וכו' לקמיה דרב נחמן כתובות ד' ע\"ח ע\"ט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:20"
+        },
+        "21": {
+          "he": "אבל שיירה מקצת מתנת' קיימת כמבואר שם בגמ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:21"
+        },
+        "22": {
+          "he": "כאביי שם דאמר עשאם כנכסים שאינם ידועים לבעל וכר\"ש דף ע\"ח ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:22"
+        },
+        "23": {
+          "he": "ברייתא שם ד' ע\"ט ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:23"
+        },
+        "24": {
+          "he": "הר\"ן בשם הרא\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:24"
+        },
+        "25": {
+          "he": "ג\"ז ברמב\"ם שם כרב ושמואל וכו' וכר' יוסי בר חנינא באושא התקינו ושם ד' עח ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:25"
+        },
+        "26": {
+          "he": "וכ\"כ רב האי והרי\"ף",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:26"
+        },
+        "27": {
+          "he": "וכ\"כ הרי\"ף ופי' בשם הרשב\"א דמסברא אמרינן דאינהו נינהו וכן כ' הרא\"ש וכמ\"ש הרמ\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:27"
+        },
+        "28": {
+          "he": "טור בשם רבי' אפרים וכ\"כ ש\"פ בשמו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:28"
+        },
+        "29": {
+          "he": "משנה שם ד' ע\"ח ע\"א וכר\"ש הרי\"ף והרא\"ש והרמב\"ם שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:29"
+        },
+        "30": {
+          "he": "כדמפרש רבי יוחנן שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:30"
+        },
+        "31": {
+          "he": "כצ\"ל כן הוא בטור ורמב\"ם בגמרא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:31"
+        },
+        "32": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:32"
+        },
+        "33": {
+          "he": "דאלו שנפלה לה קודם שנתארסה מוכרת לכתחילה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:33"
+        },
+        "34": {
+          "he": "טור מדברי אביו כרא\"ש שם בפסקיו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:34"
+        },
+        "35": {
+          "he": "ברייתא יבמות ד' ס\"ו ע\"ב וכפי' רש\"י שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:35"
+        },
+        "36": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:36"
+        },
+        "37": {
+          "he": "טור בשם ר\"ת וכ' הטור שלזה הסכים אביו הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:37"
+        },
+        "38": {
+          "he": "רמב\"ם בפ\"ל מהלכות מכירה מבריית' יבמו' ד' סו ע\"ב וכ\"כ הרא\"ש משום שהאשה חפיצה בשבח בית אביה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:38"
+        },
+        "39": {
+          "he": "הרמב\"ם שם וכ' ה\"ה שגם דעת רב האי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:39"
+        },
+        "40": {
+          "he": "טור בשם הרא\"ש וכ\"כ ה\"ה בשם הרשב\"א רמב\"ן וכ\"כ הריב\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:40"
+        },
+        "41": {
+          "he": "הרמב\"ם בפ\"ל מה' מכירה וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:41"
+        },
+        "42": {
+          "he": "הגמ' אשרי פ' הגוזל קמא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:42"
+        },
+        "43": {
+          "he": "מהרי\"ק בשורש י'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:43"
+        },
+        "44": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:44"
+        },
+        "45": {
+          "he": "מסקנת הגמ' ב\"ב ד' ג' ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:45"
+        },
+        "46": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:46"
+        },
+        "47": {
+          "he": ") פ' דכיון דשלה הם אינה יגורה מבעלה ויכול' למחות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:47"
+        },
+        "48": {
+          "he": "משנה גיטין ד' נה ע\"ב וכדמוקי לה בב\"ב שם דבשאר נכסים הויא לה איבה דאמר לה עיני' נתת בגירושין ובמיתה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:48"
+        },
+        "49": {
+          "he": "ל' הרמב\"ם בפ\"ל מה' מכירה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:49"
+        },
+        "50": {
+          "he": "ל' הרמב\"ם בפי\"ו מה' אישות ממסקנת הגמרא כתובות ד' לה ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:50"
+        },
+        "51": {
+          "he": "טור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:51"
+        },
+        "52": {
+          "he": "משנה גיטין דף נה ע\"א לקח מן האשה וחזר ולקח וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:52"
+        },
+        "53": {
+          "he": "ברייתא שם בכתובות וכרבי מאיר דמוקי התם סתם מתני' כוותיה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:53"
+        },
+        "54": {
+          "he": "הרמב\"ם שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:54"
+        },
+        "55": {
+          "he": "טור וכשמואל דתניא כוותיה גיטין ד' נח ע\"ב ועוד דקי\"ל הלכה כשמואל בדיני",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:55"
+        },
+        "56": {
+          "he": "רמב\"ם בפ\"ב מהלכות אישות וכ' ה\"ה שטעם רבינו שהרי זה דומה למחזרת נכסי צאן ברזל לנכסי מלוג וכו' והבעל לא לקחן לעצמן וכו' יכולה למחול השעבוד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:56"
+        },
+        "57": {
+          "he": "תשובת הרא\"ש כלל ל\"ח הביאו הטור ומפרש דלא אמר לה מה שתרצי וכו' אלא שתוכל להשיאה ולהפקידה ביד אחר",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:57"
+        },
+        "58": {
+          "he": "ג\"ז שם ושם מפרש הטעם משום שלא בא לכלל ירושה ושיעבוד דאקני לא חל אלא לאחר שיבאו הנכסים לידו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 90:58"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "והוא יורש זרעו דלגבי זרעו אין חלוק בין ראוי למוחזק ויורש את הזרע אף במה שהוא ראוי לו אלא דלגבי אשתו אינו יורש ממנה מה שהיה אצלה ראוי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 90:1"
+        },
+        "2": {
+          "he": "הבעל יורש אותה קרקע לפי שהאשה בחייה קרויה מוחזקת בגוף הקרקע:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 90:2"
+        },
+        "3": {
+          "he": "כגון שמתו מורישיה כו'  בטור כתב והיה להם מלוה ביד אחרים כשנשאה פי' מים הנשואין עד יום מיתתה היה תמיד ע\"ז שם מלוה אעפ\"י שקודם הנשואין היה המעות בידה והיתה מוחזק מ\"מ מן הנשואין ואילך לא בא המעות לידה בשום פעם אבל לענין מיתת מורישיה לית לן בה אם היה קודם מיתתה או לאחר מיתתה דאף אם מת המוריש קודם לה מ\"מ הוה ראוי כיון שלא בא הממון לידה בחייה ובחנם טרח מו\"ח ז\"ל בהאי כשנשאה דנקט הטור והש\"ע ומוחק הך תיבת כשנשאה (גם כאן נמצא חסר) דבסי' ק' סק\"ד כתב ולעיל סי' צ' ס\"ק י\"ד כתבתי דמעות מחמת חזקה כו' והרי ל\"ז כאן מזה כלום וגם לא ציין כלום בס\"ק הנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 90:3"
+        },
+        "4": {
+          "he": "אינו יכול לחזור דהוה כמו נדר וכופין לקיים הנדר ומ\"ה צ\"ל מ\"ש ונתרצה הבעל ליתן המלבושים היינו דאמר' בפי' אין אבל אם שתק בשעת צוואתה לא מקרי נדר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 90:4"
+        },
+        "5": {
+          "he": "וכן אם קבלה עליה אחריות בפי' דאע\"ג דקי\"ל בכל המכירות אחריות טס ומן הסתם הוה אחריות שאני התם דאנן סהדי דלא שדי אינש זוזי בכדי כדאית' פ\"ק דב\"מ משא\"כ בזה דהיא לא קבלה המעות מן הלוקח ואם אירע שקבלה כתב רמ\"א אפ\"ה דאין שייך לומר נחת רוח כו' ונראה דאפי' קבלה היא המעו' ואמרה שאינה מקבלת אלא בשביל שלידות בעלה יכולה אח\"כ לומר נחת רוח ואיני יודע ופעם א' בא לפני תביעה מן הלוקח קרקע שתבע לאש' שמת בעלה ובחיי בעלה נתנה היא עם קנין סודר כדרך העולם ולא היה שום פרעון לסלק את הערעור ותבע הלוקח את האשה לומר את מחוייבת לפצות את המערער ממני שהרי בשטר מכירה שבידי עליך באשה והדר בעלה אחריות עליכם הנזכר בשטר המכירה והאשה טוענת לא נכנסתי אלא לסלק הערעור שלי שאני לא אערער בכתובתי והיינו אחריות דנפשה אבל לא אחרות דעלמ' כמו שצינו בפרק ח\"ה דף מ\"ג שיש חילוק בין אחריות על המכירה שמכר לך בעלי אבל בערער שמצד אחר לא קבלתי עלי לפצות. וכעין זה נזכר בסוף סי' זה בב\"י בשם תשובת רמב\"ן ופסקתי אעפ\"י שמורגל בפי העולם כך דלוקחין ק\"ס באשה והדר בעלה מכח כתובתה שלא טרף בכתובתה מ\"מ כיון שמפורש בשטר מכירה שקבלו עליהם אחריות המכירה וכל מי שמצוה לכתוב שטר דעתו על המנהג אלא שלעיל סי' זה בב\"י דף קכ\"א כתב בב\"י בשם ר\"ן בשם הרמ\"ה על דין דמברכת דצריך לכתוב ונתנה לו מתנה גמורה כו' כיון שהכל כותבין כן נדון לשופרא דשטרי עד שיכתבו וכך אמרו לנו בפי' כו' אחר כך (כתב) ונראין הדברים ברורים שהכל לפי ראות הדיינים שא\"א לומר באשה שתדע בנוסח השטרות רגילין לכתוב שכך אמרה לנו בפי' כו' הכי נמי לפי ראות עיני הדיינים לענין שאם תתן כתובתה לפצות הו\"ל למכור צ\"ב נראה דזה גם כן תלוי במנהגות המקומות הנזכר לעיל סימן פ\"ח סעיף א' לדידן שכותבין סתם שקיבל החתן סך כך וכך נעשה עליו כל מה שיכנסה בחוב דעלמא ויכול למכור כל מה שהכניסה כמו שאר חוב:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 90:5"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "הבעל יורש כח אותו השטר.  עיין בתשו' שב יעקב אה\"ע זי' כ\"ו שגדול אחד רצה לסתור דין זה ושגם בתשו' חינוך ביה יהודה סי' קל\"ג פסק לפסק גמור נגד דברי הרמ\"א. ומהרי\"ו לא כתב זאת לפסק הלכה. והתאזרו חיל שלשה מטיבי צעד הגאון בעל כנ\"י והגאון בעל שבות יעקב והגאון המחבר והעלו שאין לזוז מפסק הרמ\"א ז\"ל ויישבו כל הקושיות והפקפוקים ע\"ש וכן בתשו' שבו\"י ח\"ג סי' קכ\"ג מזה. גם בס' הפלאה ובס' בית מאיר כאן ובתשובה סי' ג' גם המה מחזקים דברי מהרי\"ו והרמ\"א ע\"ש ועיין בתשו' חמדת שלמה מסי' ס' עד סי' ס\"ג מה שהתווכח בזה עם הגאון מו\"ה מאיר ווייל ז\"ל. גם בתשו' ברית אברהם חלק ח\"מ סי' י\"ט האריך מאד בזה (עיין בתשו' חתם סופר אה\"ע ח\"ב סי' קנ\"ט וקס\"א):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 90:1"
+        },
+        "2": {
+          "he": "כח אותו השטר.  עבה\"ט בשם הח\"מ שכ' ע\"כ טוב לכתוב כו' ובח\"מ מסיים שכן ראה נוהגין לכתוב עתה. ועיין בתשו' ברית אברהם חלק ח\"מ סי' י\"ט שהביא דגם בתשו' צ\"צ סי' צ\"ו העתיק הנוסח כמובא בח\"מ שאם תמות בלא ז\"ק אחר מיתתו אך בכמה קהילות אין נוהגים לכתוב כן כי הסופרים נהוגין לכתוב ע\"פ ספר הנ\"ש. והעלה דאין להרהר אחר שום מנהג בזה וגם נוסח הנ\"ש יש לו יסוד מוסד. ע\"כ אין לשנות המנהג בזה ע\"ש באריכות ועי' עוד בזה מהתשובות שרמזתי בס\"ק הקודם לזה:   (ב) ופירות לאח\"מ.  עח\"מ שכ' אע\"פ שמחה בחיי מורישיה כו' ובגליון ש\"ע דהגר\"ע איגר זצ\"ל נ\"ב עיין בשו\"ת הר\"ם אלשיך סי' י\"ח):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 90:2"
+        },
+        "3": {
+          "he": "משועבדים לכתובת אלמנה.  דין זה הוא ממרדכי ס\"פ כל הנשבעין וע\"ל סי' ק' ס\"ב בהגה י\"א דאם מת יעקב כו' הואיל והיו משועבדים לאלמנת אביו כו' והוא ג\"כ מדברי המרדכי ס\"פ נערה. והם סותרים זא\"ז. ועב\"ש שם ס\"ק י\"ד כתב בזה ג' תירוצים. א' בשם הד\"מ דכאן בסי' צ' איירי לפי המנהג דהיורשים יכולים לסלקה (ר\"ל היכא שתיקנו כך ע' בסי' צ\"ג ס\"ג בהגה. אבל מן הסתם לדידן דקיי\"ל כאנשי גליל כל הנכסים נקראו מוחזקים לה וראויים לגבי היורשי' ואין בעל הבת יורש מהם כלום) ב' בשם מהרי\"ל סי' ע\"ד דשאני ירושה הבאה מאליה (ר\"ל ירושת הבעל את אשתו דממילא קא אתיא) אבל כתובה ליתא אלא חוב ומחוסר גוביינא. ג' בשם תשובת שארית יוסף דיש חילוק היכא דנשבע' על כתובתה אז היא מוחזקת בנכסים הן לעניין ירושה הן לענין כתובה וכאן איירי שלא נשבעה ע\"ש (ויש נ\"מ לדינא בין התירוצים כמובן וכפי הנראה מדברי הב\"ש שם וכאן סק\"ח תופס לעיקר תירוץ מהרי\"ל וכן הח\"מ שם וכאן לא כ' אלא תירוץ מהרי\"ל ועיין בתשו' פרח שושן כלל ד' סי' א' שהאריך מאד בענין זה והביא הרבה לשונות מגדולי בעלי התשובות המדברי' בזה הלא המה מהרי\"ט ח\"מ סי' ע\"ג ורשד\"ם א\"ה סי' קי\"א ופני משה ח\"א סי' ע\"ז וגינת ורדים כלל ד' ותורת חסד סי' צ\"ד ומטה יוסף ח\"מ סימן י' ועדות ביעקב סי' כ'. ומכלל דבריהם מבואר עוד ישובים על הסתירה הנ\"ל והרב המחבר ז\"ל נשא ונתן כדבריהם והעלה שם לדינא הלכה למעשה דלענין כתובת אלמנת הבן (דלקמן סימן ק' הנ\"ל) יש לפסוק בהחלט דחשיבי הנכסים ראויים ואין אלמנת הבן גובה מהם שכן דעת רוב הפוסקים אמנם לענין ירושת הבעל (המוזכר כאן) אף דמהרי\"ל ס\"ל דלא חשיבי ראוי לגבי כיון שדעת הרמ\"א ודעימיה אינו כן יש לדון בזה דנכסי היכא דקיימי קיימי שאם הם ביד בעל הבת יחזיק בהם בטענת קים לי כדעת מהרי\"ל ודעימיה ואם הם ביד היורשים יאמרו קים לן כדעת מור\"ם ודעימי' דס\"ל דהנכסים נקראו ראוים ואין הבעל יורש בראוי (אם לא היכא שתיקנו היורשים יכולים לסלק' כנז\"ל) ע\"ש היטב. ועי' עוד בתשו' מהר\"ם אלשקר סי' כ\"ח:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 90:3"
+        },
+        "4": {
+          "he": "הי' לה מלוה.  עיין בתשו' חות יאיר סי' קכ\"ב שכ' דאפילו אם הכניסה השטר לבעלה בנדן בעת שנשאה ה\"ל ראוי ואינו יורש ואפילו הגיע זמן פרעון השטר לפני מותה לא חשיב בהכי מוחזק. וה\"נ בכה\"ג לענין ירושה דידה דאם מת מוריש' ולפני שירדו יורשים לנחלה או אפילו אח\"כ שהסכימו ליתן לה חצי חלק זכר מ\"מ כל כמה שלא נתנו לה ומתה היא אין הבעל יורש. ומ\"מ אם הכניסה לו שט\"ח בשטר דקני לך איהו וכ\"ש או במעמד שלשתן במלוה בע\"פ ודאי משעה שהכניס' דידי' הוא וזה ברור ע\"ש ועיין בתשובת שבו\"י ח\"ב סי' קל\"א ובס' ב\"מ מזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 90:4"
+        },
+        "5": {
+          "he": "ואחריו ליורשי.  עב\"ש ס\"ק י\"ג מ\"ש שכיב מרע שנתן מתנת ש\"מ לא\"א ומתה קודם שגבתה פסק בסוף תשובת ר' בצלאל דבעל יורש כו' ועיין בס' דגול מרבבה שכ' דבתה\"ד סימן ש\"ן משמע שדינו כמלו' ואמנם בחפץ מסויים ודאי יורש הבעל ע\"ש ועיין בתשו' שב יעקב סימן כ\"ו:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 90:5"
+        },
+        "6": {
+          "he": "הנושא אשה מחייבי לאוין.  עב\"ש ס\"ק ט\"ו ומכלל דבריו מבואר דהכא מיירי אפילו שלא נבעלה רק שנכנסה לחופה וכ\"כ בס' שעה\"מ פ\"י מה\"א בקונ' חופת חתנים סעיף ד' ע\"ש שהאריך בענין זה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 90:6"
+        },
+        "7": {
+          "he": "אין הבעל יורשה.  עבה\"ט. ובלבוש כתב ג\"כ בסתימו' דהבעל יורש' ע\"ש ועיין בתשו' מקור ברוך סי' י' ובת' תורת חסד סי' צ\"ו ובס' שעה\"מ שם ס\"ד מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 90:7"
+        },
+        "8": {
+          "he": "אע\"ג שנתן עיניו לגרש עב\"ש שכ' לאפוקי מדעת הרשב\"ם כו' (ובס' כרם שלמה כ' שראה בגליון מהרב מהגאון בעל חתם סופר שכתב נלע\"ד דאפילו הרשב\"ם נמי לא אמרה אלא קודם תקנת רגמ\"ה אבל עכשיו שאין בידו לגרשה לא עדיף הוא מאשה שאמרה לבעלה גרשני דלא מקרי בזה קטטה כמבואר ר\"פ האש' שלום עכ\"ל) . ועי' בס' ישועות יעקב סק\"ח שהביא דמהרש\"ל פ\"ב דגיטין למד מזה לענין אבילו' במעשה שבא לפניו שהתפשרו על הגירושין ומתה האשה והור' הלכה למעשה שלא ינהוג הבעל אבילו' דהלכה כדברי המיקל באבל והסכים עמו חכם גדול מארץ ישראל (עיין בס' ב\"מ מזה) והוא ז\"ל כתב על זה הנה זה ימים אירע מעשה בא' שקיבל התרה ממאה רבנים וזיכה גט לאשתו וביני ביני מתה עליו אשתו ואמרתי דבזה כדאי מהרש\"ל לסמוך עליו שלא לנהוג אבילו' כלל כיון שכבר זיכה לה הגט ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 90:8"
+        },
+        "9": {
+          "he": "עד שתרצה אין הבעל אוכל פיר'.  עב\"ש ס\"ק ל\"א ועיין בת' נו\"ב תניינא סי' צ\"ג שכתב דהמרא' מקום של ס\"ק זה נרשם בטעו' שהוא נרשם במ\"ש המחבר אין אוכל פירו' אותה מתנה וקאי במהיום הבעל שארצה וזה טעו' אלא הב\"ש מרשים קודם לזה עמ\"ש המחבר אין הבעל אוכל פירותיהן וס\"ק ל\"א צ\"ל קודם סק\"ל וע\"ש פירוש דברי הב\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 90:9"
+        },
+        "10": {
+          "he": "ואם מתה אינו יורשה.  עב\"ש ס\"ק ל\"ג עד וא\"י מנא ליה ועיין בס' קרבן נתנאל פ\"ח דכתובו' אות י\"ג:   (י) קיימים בעצמם.  עבה\"ט מ\"ש ואם הוציאה המעו' כו' ובגליון ש\"ע דהגאון רע\"ק איגר זצ\"ל נ\"ב ע' בש\"ע ח\"מ סי' שמ\"ט:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 90:10"
+        },
+        "11": {
+          "he": "אם הבעל רוצה לבנו' עיין בתשו' הרדב\"ז ח\"א סי' קי\"ח שנ' ומ\"מ אם רוצה לבנות כדי להרבו' בפירות ומתנה שאם יזכה הלוקח יהי' ידו על התחתונ' ומסתברא לי שלא יכול הלוקח לעכב דאע\"ג דמי שרוצ' לירד לתוך שדה חבירו אפילו בתנאי זה יכול בעל השדה לעכב ולומר איני רוצה שתבנ' בתוך שלי אפילו ע\"מ שתהי' ידך על התחתונ' שאני הכא שיש לו בקרקע זה שייכו' חדא שהוא אוכל פירות ואיכא מ\"ד קנין פירות כקנין הגוף דמי ותו דאפשר שלא יזכו הלוקח בקרקע זה לעולם דקיי\"ל כתקנת אושא כו' ע\"ש:   (יא) הלוקח יכול למחו'.  עח\"מ שכ' אף אם לא מכרה היא בעצמ' יכולה למחו' וכו' בגליון ש\"ע דהגר\"ע איגר זצ\"ל נ\"ב וז\"ל והסמ\"ע סי' רי\"ב ס\"ק י\"ג כתב דהיא אינה יכולה למחו' עכ\"ל):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 90:11"
+        },
+        "12": {
+          "he": "נאמן בשבוע'.  עבה\"ט ועמ\"ש לעיל סי' ע\"ג סק\"א מזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 90:12"
+        },
+        "13": {
+          "he": "ישראל שגבה קרקע.  כתב בס' ישועות יעקב ס\"ק י\"ט וז\"ל ובעסק חזקות שנוהגין בכמה מקומו' במדינת ישמעאל שמי שדר בבית ישמעאל או בכיפה יש לו חזקה שאין אחר רשאי לשכור הבית מן הישמעאל בלי רשות ובכמה מקומו' הוא דרך קנין שקונין ומוכרין זכות חזקות אלו אם דינם כקרקע או כמטלטלין האריכו בזה האחרונים בתשובותיהם ובכמה דברים יש נ\"מ בזה כגון לענין מצרנות ולענין שטח\"ז שכתוב בו חוץ מספרים וקרקעו' והסכימו כולם שאין לנו הכרע' גמור' בזה ונכון למצוא פשר דבר אף שלא מרצון הצדדים עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 90:13"
+        },
+        "14": {
+          "he": "שנתן לה משלו.  עבה\"ט ועיין בתשוב' חתם סופר סי' קמ\"ו שהאריך וביאר ששה חילוקי דינים בענין זה במפתחות:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 90:14"
+        },
+        "15": {
+          "he": "יכול למוכרם.  עבה\"ט בשם ב\"ש ועיין בשו\"ת הגאון מהר\"ש זלמן זצ\"ל מלאדי מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 90:15"
+        },
+        "16": {
+          "he": "אינה טורפת אותו.  עבה\"ט בשם ב\"ש שכ' וה\"ה אם כתבה שטר בפ\"ע מהני כו' ועיין בס' ישועות יעקב ס\"ק י\"ט שהשיג עליו ודעתו לדינא דלא כהב\"ח ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 90:16"
+        },
+        "17": {
+          "he": "דאם האשה קבלה המעות עיין בס' ישועות יעקב דלאו דוקא דמי שווי המכירה אף בנתן לך סך מועט מהני ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 90:17"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "אשתו.  הרמב\"ם פ\"א מהלכות נחלה פסק ירושת הבעל מד\"ס. והראב\"ד והרשב\"א ס\"ל שהוא מדאוריית'. אשה שבעלה רוצה לגרשה ואינו יוכל מחמת חר\"ג אעפ\"י שאינו חייב במזונות יורשה הרא\"ם ח\"א סימן למ\"ד ע\"ל סי' ע\"ז מש\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:1"
+        },
+        "2": {
+          "he": "נ\"מ.  אפילו אותן נכסים שלא היה לבעל בהן אכילת פירות אפ\"ה יורש אותה ח\"מ ב\"ש. טבעת קדושין יורש הבעל מהר\"י סג\"ל סי' ס\"ג וע\"ל סי' נו\"ן ס\"ק ה' מש\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:2"
+        },
+        "3": {
+          "he": "מורישה וכו'.  ואם מת מורישה בחייה אעפ\"י שמתה האשה קודם שיגיעו הנכסים לידה מוחזק מיקרי ויורש הבעל רשד\"ם חא\"ה סי' צ\"ח. וכ\"כ מהרמ\"ט פ\"ב סי' קמ\"ו וכ\"כ הרמ\"א בסמוך בשם מרדכי:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:3"
+        },
+        "4": {
+          "he": "קיימא.  עיין סי' קי\"ח מה הוא זרע קיימא:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:4"
+        },
+        "5": {
+          "he": "השטר.  דדוק' באשתו אינו נוטל בראוי אבל את זרעו יורש אף שלא בא עדיין ליד זרעו מ\"מ השטר היה של זרעו והוא יורש השטר. מיהו קשה מ\"ש מנדוני' דקי\"ל אפי' אם נתן שט\"ח ומתה בתו א\"צ לשלם משום אומדנ' דכוונתו היה שתהנה בתו כמ\"ש סי' נ\"ג ולמה לא אמרינן כאן ג\"כ אומדנ'. וכתב הח\"מ ע\"כ טוב לכתוב אם תמות בתי בלא ז\"ק אחר מיתתי ואז צריך שיהיה הזרע קיים אחרי מיתת האב. ואם כתב שח\"ז לבת אחת ולשאר בנות לא כתב ולא הניח בן רק בנות. הבנות חולקים בשוה ולא תטול בת זו קדימה סך השטח\"ז דאמרינן דלא היה כוונתו מה שנותן לזו שטח\"ז רק נגד הבנים הזכרים ולא נגד הבנות. ואם מתה הבת זו והניחה זרע ואח\"כ מת אותו זרע אינו יורש בעלה כלום דהא ליכא כאן שטח\"ז אלא ירושה וקי\"ל אין הבן יורש את אמו להנחיל לאחים שלו מן האב כן ה\"נ אין יורש הזרע את אמו להנחיל לאביו תשובת צמח צדק סי' צ\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:5"
+        },
+        "6": {
+          "he": "ממנה.  והפירות אינו יורש דהוי ראוי דהא המוריש יוכל למכור אותה ב\"ש. והח\"מ כתב דיורש אפילו פירות מאחר דהיה מוחזק בגוף הקרקע ע\"ש. ראובן השיא את בתו בעוד יעקב אביו חי ונתן לחתנו שטח\"ז כמנהג. ואח\"כ מת יעקב והחתן תובע גם שח\"ז מירושת יעקב כי אמר שהוא ראוי לגבי חמיו והוא כתב לי במוחזק ובראוי הדין עמו תשובת רש\"ל סי' מ\"ט ועיין תשו' רמ\"א סי' ג' ובתשובת מהר\"ם מלובלין סימן י\"ד. ראובן שנתן מתנה לבתו מעכשיו כל זמן שלא יהיה לו בן מאשתו פלונית. ומתה בתו בחיי בעלה ואח\"כ מת ראובן או אשתו בלא בן. מוחזק מקרי ויורש הבעל אותה הרמ\"ט ח\"ב סימן קמ\"ו ועיין הרדב\"ז ח\"א סימן קמ\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:6"
+        },
+        "7": {
+          "he": "כשנשאה.  ב\"ח כתב דתיבת משנשאה הוא ט\"ס דאין הפרש בין היה להם מלוה ביד אחרים כשנשאה או הלוו לאחרים לאחר שנשאה ועיין ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:7"
+        },
+        "8": {
+          "he": "אלמנה.  וה\"ה לשאר ב\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:8"
+        },
+        "9": {
+          "he": "אחרים.  ואם יש לה משכנות של מטלטלין או של קרקע באתר' דלא מסלקי בעל יורש הג\"א והרשב\"א והרמ\"ט ח\"ג סי' רי\"ט. ואין נקר' אתר' דמסלקי אלא כשיוכל לסלק בכל עת שירצה. ואם היתה לאשה חוב ביד בעלה קודם שנשאה ואח\"כ נשאת ומתה. הח\"מ פסק דיורש מחצה. וב\"ש פסק דיורש הכל אא\"כ שכתב לה דין ודברים אין לי בהם אז יורש החצי ע\"ש. ראובן שחייב מנה לשמעון חמיו ומת חמיו וירשה אותו בתו אשתו של ראובן ושוב מתה אשתו. ראובן יורש החצי ונותן החצי האחרת ליורשי שמעון הרדב\"ז ח\"א סי' קס\"ט. ועיין בש\"ע ח\"מ סי' רע\"ח דשם מבואר איזה הלואה נקר' מוחזק לענין בכורה כן הוא נקר' מוחזק בירושת הבעל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:9"
+        },
+        "10": {
+          "he": "מעכשיו.  אבל אם אמר מעכשיו לפלוני ואחריו לבתי לא מהני מלת מעכשיו שאמר לראשון עיין ב\"ח ודרישה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:10"
+        },
+        "11": {
+          "he": "שהמירה.  עיין בח\"מ סי' רכ\"ג וס\"ס רפ\"ה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:11"
+        },
+        "12": {
+          "he": "שנשאה.  היינו בלא נתייחד עמה אחר שנתפקחה אבל אם נתפקחה ונתייחד עמה אח\"כ הרי היא כאשתו גמורה לכל דבר ח\"מ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:12"
+        },
+        "13": {
+          "he": "יירשנה.  והראב\"ד חולק ע\"ז. ושוטה שנשא פקחת או להיפך אינו יורשה עיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:13"
+        },
+        "14": {
+          "he": "ומתה וכו'.  כ\"כ הרמב\"ם והראב\"ד חולק עליו וכן המגיד ומסיים דבר זה מחלוקת הגאונים. לפ\"ז מהני עכ\"פ תפיסת הבעל ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:14"
+        },
+        "15": {
+          "he": "עליו וכו'.  עיין ב\"ש ותוס' י\"ט בבא בתר' פרק ט' משנה ט':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:15"
+        },
+        "16": {
+          "he": "ממנה.  אבל אם אין לו בנים ממנה אין נ\"מ מזה דהא הבנים יורשים הכל. אבל אם יש לו בן מאשה הראשונה ובן מאשה זו שייך דין זה. אע\"ג דבן מאשה זו יורש בודאי חצי הכתובה ונ\"מ ונצ\"ב לא אמרינן כיון דהוא יורש ודאי במקצת יורש הכל ועיין בחה\"מ סימן ר\"פ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:16"
+        },
+        "17": {
+          "he": "והתוספת.  היינו מה שהוסיף הוא מעצמו. אבל תוס' שליש על הנדוני' דינו כנצ\"ב כמ\"ש סימן ק' ועיין ב\"ש ס\"ק כ\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:17"
+        },
+        "18": {
+          "he": "נכסיה וכו'.  עיין בח\"מ סי' ר\"נ כמה שיעור שיור אם משייר:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:18"
+        },
+        "19": {
+          "he": "שתנש'.  ר\"ל שעומדת להנש' אז יש אומדנ' דמוכח דכוונת' היה להבריח אע\"ג דלא גלתה דעתה. ואם לא עמדה להנש' דאז לא הוי אומדנ' דמוכח. או אם נתנה רק מקצת דליכ' אומדנ' דמוכח. ועידי חתימה על השטר מתנה מעידים שאמרה שכוונתה היתה להבריח אם כתיבת יד העדים יוצא ממקום אחר אין נאמנים ומתנה קיימת הרא\"ש ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:19"
+        },
+        "20": {
+          "he": "המתנה.  ואם מת הבעל ואח\"כ מתה קודם שחזרה המתנה בטלה מיד כשמת הבעל ויורשיה יורשים כ\"כ הרא\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:20"
+        },
+        "21": {
+          "he": "לגמרי.  ואם כולם כתבו כן אמרינן שופרי דשטרי הוא אא\"כ אמרה בפירוש לכתוב כן. מיהו אם ידעה דכותבין כן ולא מחתה אפשר המתנה קיימת הר\"ן ועיין בח\"מ סימן ע\"א. מיהו בגלתה דעתה דכוונתה להבריח מבעל שרצונה לישא לא מהני המתנה המגי\"ד ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:21"
+        },
+        "22": {
+          "he": "בעצמם.  ואם הוציאה המעות על דבר אחר יוכל הבעל לומר מיד שהוציאה המעות קמו עלה בהלואה ואין אני מחויב לשלם ההלואה שחייבת. ומטלטלין שהניחה אביה יורש אותן כ\"כ הר\"ן והמגיד ועיין בח\"מ סי' צ\"ו. ומ\"ש הש\"ך שם לא שייך כאן דאל יקנה ממנה נ\"מ. ולא שייך כאן תקנות השוק. מיהו בנ\"י ס\"פ י\"נ וד\"מ הבי' דבריו. דאם אית' הדבר שבא מאותן המעות חייב לשלם להם. ועיין ב\"ח מ\"ש בח\"מ ס\"ס צ\"ו ומדבריו שם ראיה כמ\"ש הנ\"י. ועיין תשובת צ\"צ סי' (י') [קי\"ז] ועיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:22"
+        },
+        "23": {
+          "he": "אלו.  ובעל א\"י לומר שמא ממעות שלו לקחה. מיהו בנושאת בבית י\"ל די\"ל משלו הם. ואם רצה הלוקח מחרים אם לא מצא מעות אצלה כמו שמחרים על המכירה ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:23"
+        },
+        "24": {
+          "he": "אותן.  אפילו קדושת הגוף. אמנם אם נתאלמנה חל ההקדש ת\"ה סי' רע\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:24"
+        },
+        "25": {
+          "he": "מכרה.  א\"א שנתנה מנכסי מלוג ואמרה שבעלה נתן לה רשות לעשות כטוב בעיניה עיין הרשד\"ם חא\"ה סי' קפ\"ט. ובחלק ח\"מ סימן של\"ח שדבריו סותרים מחא\"ה לחלק ח\"מ ע\"ש. בעל שהלך פתאום חוץ לעיר ואחר זמן שלח אחריה שתלך למקום שנתיישב הוא ומכרה כל מטלטלי הבית הכבדים ובלתי ראוים להוליך עמה ופרעה חובותיה ומשכנה בית שהכניסה לבעלה בנצ\"ב מה שעשתה עשוי הרמ\"ט ח\"א סימן ק\"ץ. ויש חולקים וע' הרשד\"ם חח\"מ סימן נ\"ו. וה\"ה אם משכנה הבית לצורך מזונותיה ופרנסה מה שעשתה עשוי הרמ\"ט סימן הנ\"ל החזיק בעל המשכנתה ג' שנים ומכחיש לאשה ואומר שברי לו שהיה לה הרשאה מבעל נאמן במיגו דאי בעי כביש לשטרי' ואומר מהבעל קניתי הרמ\"ט סי' הנ\"ל ועיין כנה\"ג דף ק\"ז ע\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:25"
+        },
+        "26": {
+          "he": "הבעל.  דהיינו שנתרצה הבעל בלי הפצרה שלה עיין בי\"ד סי' רל\"ב סעיף י\"ז בהג\"ה בה\"י. אשה שנתנה לבנה מתנה בפני בעלה ושתק בעלה בין היו נ\"מ בין נצ\"ב בין היתה מתנה שנתן הבעל לאשתו במתנה גמורה. אין במתנתה כלום. ואם אמרה לבנה קח מתנה זאת שאביך נתן לך והאב שמע ושחק אפשר שבזה הוי שתיקתו הודאה וצ\"ע הרא\"ם תשובת כ\"י. והר\"מ עובדיה כתב דמתנתה מתנה עיין כנה\"ג דף ק\"ח ע\"א סעיף נ\"ג צ\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:26"
+        },
+        "27": {
+          "he": "בו.  היינו במתנה מרובה. ובמתנה מועטת נקר' מחוסר אמונה עיין בח\"מ סימן רמ\"ט וסימן ר\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:27"
+        },
+        "28": {
+          "he": "נאמנת.  היינו אם היה הודאה בב\"ד הוי כמכרה קודם שידע ומכירתה קיימת ב\"ש ח\"מ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:28"
+        },
+        "29": {
+          "he": "כלום.  כתב הראנ\"ח ח\"א סימן צ\"ה דאפילו היא מרוצה במכר אלא שאינה רוצה למכור לראובן אלא לשמעון המכר בטל ע\"ש. וכשם שאינו יוכל למכור כך אינו יוכל לשעבד וכן להקדיש הרמ\"ט ח\"א סימן שי\"ט וסימן רע\"ד. אם מתייראו משוד או מגלות אין לה לעכב במכירתם ואם מעכבת במכירתם יוכל לומר תפטרי אותי מאחריותם תשובת הגאונים סימן רע\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:29"
+        },
+        "30": {
+          "he": "עשוי.  כ\"כ הרמב\"ם. וכתב הרא\"ם סימן פ' אפילו היתה האשה צווחת בשעת המכירה שאינה רוצה למכרם המכר קיים ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:30"
+        },
+        "31": {
+          "he": "בטל.  ריב\"ש בשם כל האחרונים. ואם היא מכרה והוא מסכים אח\"כ או להיפך המקח קיים ואינו צריך קנין חדש. ואפילו מכר לפרנסה מ\"מ היא יכולה לערער על המכירה ועיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:31"
+        },
+        "32": {
+          "he": "בשבועה.  היינו אם היא תובעה לבעלה שישלם לה נאמן בשבועה דהוא הנתבע ואם היא תובע למלוה שהלוה על הבגדים בתשובת מ\"כ שהבי' הב\"י כתב ההיא נאמנת נגד המלוה לומר שהשכין שלא ברשות ותשבע והמלוה יחזיר לה. והמרדכי ס\"פ האומנין כתב מסתמ' אמרינן ברשותה השכין. משמע אפילו אם הבעל אינו בכאן ואינו טוען שעשה ברשותה אמרינן מסתמ' עשה ברשותה. והרשב\"א בתשובה שהבי' ב\"י ס\"ס ע\"ג כתב דמאן לימא לן דלא אפק' מדעתה גם שייך תקנות השוק ע\"ש. משמע נמי דא\"י להוצי' מן המלוה בלא מעות וכ\"כ הסמ\"ע בסי' ע\"ב ס\"ק י\"ט. ועיין מ\"ש הש\"ך שם דבגדים מה שעשה לה בעלה מרצון הטוב יוכל להשכין לכתחלה ע\"ש. והב\"ש ס\"ק נ\"ב משיג עליו ע\"ש ועיין בהר\"א ששון סי' מ\"ח. ובפליטת בית יהודא סימן י\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:32"
+        },
+        "33": {
+          "he": "בו.  אפילו אם כותבים בכתובה מטלטלין אג\"ק:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:33"
+        },
+        "34": {
+          "he": "הכותי וכו'.  ואם החזיק ישראל כ\"כ בקרקע הכותי שהכניס בה פועלים לבנות ולנטוע או שהכניס דיורין בבתים איזה זמן אעפ\"י שביד הכותי לפדות מ\"מ חשיב הקרקע כגבוי לישראל כל זמן שלא פדאה הכותי וכח שיעבוד כתובת האשה עליו ת\"ה ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:34"
+        },
+        "35": {
+          "he": "משלו וכו'.  עיין ש\"ך בח\"מ סי' ע\"ב ס\"ק כ\"ו ועיין מ\"ש הב\"ש ס\"ק נ\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:35"
+        },
+        "36": {
+          "he": "לכתחלה.  ובדיעבד אם כבר מכר משמע מדברי המחבר דהמכר קיים. והח\"מ כתב דהמחבר איירי שהכניס לה שום משלו ליחד לה כנגד התוספת' שהוסיף לה ע\"כ מטלטלין אלו כדין נצ\"ב שאינו רשאי למוכרן לכתחלה ובדיעבד מכורין לדעת הרמב\"ם. אבל מה שנתן לה במתנה גמורה מיד דין נ\"מ להם והמכר בטל. ומ\"ש המחבר וה\"ה המטלטלין שקנה לה וכו'. הוא לאו דוק' כי מה שקנה אפילו בדיעבד בטל המכירה ע\"ש. וב\"ש השיג עליו ומסיים מיהו למעשה צ\"ע בדיעבד אם המכירה קיים ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:36"
+        },
+        "37": {
+          "he": "למכר'.  והא דכתב הרא\"ש והטור דא\"י למכור כלי זהב שם איירי שהיא הכניסה לו ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:37"
+        },
+        "38": {
+          "he": "עצמו.  ר\"ל שימכור מה שאין צריך לה כ\"כ ויניחנו המעות על רווחים ויאכל הרווחים כי המתנות הם נ\"מ והוא אוכל הפירות. ומ\"ש כאן יוכל הבעל למוכרם לפרנס עצמו היינו מן הרווחים ולא מן הקרן ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:38"
+        },
+        "39": {
+          "he": "בנ\"מ.  לכאורה נראה שזה שכתב כאן בעל הטורים סותר למ\"ש בי\"ד בהלכות עבדים במי שחציו עבד וחציו בת חורין ועבד של שני שותפין וכן מ\"ש הרמב\"ם בדין זה בפכ\"ב מה\"א למ\"ש בפ\"ב מהלכות רוצח ופ\"ה מהלכות עבדים ועיין בה\"י בי\"ד בה' עבדים ס\"ק ז' ועיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:39"
+        },
+        "40": {
+          "he": "ביתה.  הב\"י והכ\"מ מדייק דוקא כשהיא טוענת כן אבל כל זמן שאינה טוענת מכירתה קיימת. ומהרי\"ט בתשובה ח\"ב חח\"מ סי' נ\"ו כתב דאפילו לא טענה אין במעשיה כלום:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:40"
+        },
+        "41": {
+          "he": "בפירוש.  ולא אמרינן בזה אחריות ט\"ס. ועיין בהרמ\"ט ח\"ב סי' קנ\"ט:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:41"
+        },
+        "42": {
+          "he": "לבעלה וכו'.  ויש חולקין עיין ח\"מ ב\"ש. ומסיים הב\"ש ונדוני' שלנו שכותבין על סך כך וכך מהני המחילה ואינה יכולה לומר נ\"ר עשיתי לבעלי. והיינו כשמחלה אחר שנה או שנתיים. אבל אם מחלה תוך שנה או שנתיים לא מהני המחילה למנהג שלנו ע\"ש ועיין כנה\"ג דף ק\"ח ע\"ב סעיף קמ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:42"
+        },
+        "43": {
+          "he": "אותו.  ה\"ה אם כתבה שטר בפני עצמו מהני אפילו כתבה אחר מכירת הבעל וא\"י לומר נ\"ר עשיתי לבעלי דכולי האי לא עבדה. ואם הוא רוצה ליקח הלואה והיא סלקה כחה מנכסיו ואח\"כ לקח הלואה הוי כקנין אשה והדר בעלה עיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:43"
+        },
+        "44": {
+          "he": "אחריות.  ועכשיו נוהגים דכותבים אחריות וקונים מן האשה והדר בעלה עיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:44"
+        },
+        "45": {
+          "he": "בעלה.  עיין בח\"מ סי' קי\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:45"
+        },
+        "46": {
+          "he": "נגנבו.  ה\"ה אם נכתב הנדוניא על סך מעות מהני מחילה אפילו כשהם בעין והא שכתב שאבדו קמ\"ל אע\"ג בתחילה היו בעין ריב\"ש. אם היה לה שטר על בעלה ומכרה לאחר ומחלה לבעלה לכ\"ע לא אמרי' בזה נ\"ר עשיתי לבעלי רשב\"א ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:46"
+        },
+        "47": {
+          "he": "בטל.  די\"ל כוונתו היה להשאיל ולהפקיד ולא למכור עיין בטור:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 90:47"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

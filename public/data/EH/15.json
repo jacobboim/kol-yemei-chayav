@@ -1,0 +1,726 @@
+{
+  "chelek": "EH",
+  "siman": 15,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 31,
+  "fetchedAt": "2026-07-08T00:08:58.586Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "איסור ערוה דאורייתא ודרבנן. ובו לא סעיפים:אלו שאסורות מחמת ערוה מהן מן התורה מהן מדרבנן אותן שהן מן התורה אין קדושין תופסין בהן. ואותן שהם מדרבנן קדושין תופסין בהם וצריכות גט וכן המקדש ספק ערוה צריכה גט:",
+      "en": "These are the forbidden unions that stem from ervah, those from the Torah and those from the rabbis. Those that are from the Torah, kiddushin doesn't take effect. Those that are from the rabbis, kiddushin does take effect and you must deliver a get. And likewise a betrothal with a doubtful ervah also needs a get.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:1"
+    },
+    {
+      "seif": 2,
+      "he": "אמו אסורה לו מן התורה אבל אם אמו אינה אסורה לו אלא מדרבנן וזו אין לה הפסק אפילו אם אם אם אמו עד מעלה מעלה אסורה:",
+      "en": "A man's mother is forbidden to him according to the Torah, but his grandmother is only forbidden to him from rabbinic law and this law doesn't stop even through the great great great grandmother.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:2"
+    },
+    {
+      "seif": 3,
+      "he": "אם אבי אמו אסורה לו מדרבנן היא בלבד:",
+      "en": "The mother of his mother's father is forbidden to him through rabbinic law, her alone.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:3"
+    },
+    {
+      "seif": 4,
+      "he": "אם אביו אסורה לו מדרבנן וזו אין לה הפסק אפילו אם אם אם אביו עד למעלה אסורה:",
+      "en": "The mother of his father is forbidden to him through rabbinic law and this law doesn't stop even through the great great great grandmother.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:4"
+    },
+    {
+      "seif": 5,
+      "he": "אם אבי אביו אסורה לו מדרבנן היא בלבד אשת אביו אסורה לו מן התורה בין שהיא אשתו מן הנשואין בין מן האירוסין בין בחיי אביו בין כשמת אביו או גירשה  (אבל אמה מותרת לו)  אבל אם אנס אביו אשה מותרת לו:",
+      "en": "The mother of his father's father is forbidden to him through rabbinic law, her alone. His father's wife is forbidden to him through the Torah whether or not she's his wife through nisuin (ie fully married) or through erusin (engaged). Whether or not his father is living or whether he's dead or if he divorced her. (Isserles: But if she is his handmaiden she is permitted to him). But if the father took her in force the woman is permitted to him.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:5"
+    },
+    {
+      "seif": 6,
+      "he": "אשת אבי אביו אסורה לו מדרבנן וזו אין לה הפסק שאשת יעקב אבינו אסורה על אחד ממנו:",
+      "en": "His paternal grandfather's wife is forbidden to him according to rabbinic law and this doesn't cease because the wife of Jacob our Father is forbidden for every one of us.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:6"
+    },
+    {
+      "seif": 7,
+      "he": "אשת אבי אמו אסורה לו מדרבנן היא בלבד  (וי\"א דאשת אבי אם אביו אסורה לו) (ת\"ה סימן רט\"ו):",
+      "en": "",
+      "ref": "Shulchan Arukh, Even HaEzer 15:7"
+    },
+    {
+      "seif": 8,
+      "he": "אשת אחי אביו מן האב אסורה לו מן התורה אבל אשת אחי אביו מן האם אינה אסורה אלא מדרבנן:",
+      "en": "The wife of a man's father's brother is forbidden to him by Torah law. However, the wife of a man's father's maternal half-brother is only forbidden to him by Rabbinic law.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:8"
+    },
+    {
+      "seif": 9,
+      "he": "אשת אחי אמו בין מן האם בין מן האב אינן אסורות אלא מדרבנן:",
+      "en": "The wife of a man's mother's father is forbidden to him by Rabbinic law, she alone. There are those who say that the wife of his father's mother's father is forbidden to him.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:9"
+    },
+    {
+      "seif": 10,
+      "he": "אחותו אסורה לו מן התורה בין אחותו מאביו או מאמו בין אחותו מהנישואין או מהזנות אפילו בא אביו על הערוה והוליד ממנה בת אחותו היא וחייב עליה חוץ מאחותו מן השפחה או מהנכרית: הגה ונ\"ל דלכתחלה אסור לבא עליה דיש מסתפקים לומר דדוקא מדאורייתא הולד הולך אחר השפחה ואחר הנכרית אבל מדרבנן הוי זרעו לכן יש להחמיר לכתחלה:  וי\"א דה\"מ לשפחה דעלמא אבל אם בא אביו על שפחתו והוליד ממנה בת אחותו היא  (ואפי' אמר שכוון לשם זנות אינו נאמן): (א\"ז)",
+      "en": "A man's sister is forbidden to him by Torah law, whether she is his sister from his mother or his father, from wedded or unwed parents. Even if his father had a forbidden relationship and produced a daughter, she is his sister and forbidden to him, unless she is his sister from a female slave or a non-Jewish woman.   Rem\"a: \"It seems to me that a priori she [a man's sister from a mother who is a female slave or non-Jewish] is forbidden to him, because there are those who are satisfied with saying that under Torah law the fetus has the status of the female slave or the non-Jewish woman, but under Rabbinic law it is his child, so therefore one should be stringent a priori.\"   And there are those who say that these words apply to a regular maidservant, but if a man's father had relations with his own maidservant and produced a daughter, she is his sister.  Rem\"a: Even if he said his intentions were merely for promiscuity, he is not to be believed.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:10"
+    },
+    {
+      "seif": 11,
+      "he": "מותר אדם בבת אשת אביו שיש לה מאיש אחר אפילו חורגה  (פי' בת אשת אב)  הגדלה בבית בין האחין מותרת להם ולא חיישינן למראית העין שנראית כאחותם:",
+      "en": "A man is permitted to [marry] the daughter of his father's wife that she has from another man [i.e. his stepsister]. Even if she grew up in the house among the brothers [i.e. her stepbrothers] she is permitted to them, and we are not afraid of marit ha'ayin [an action that appears to be sinful] of people thinking that she is their sister.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:11"
+    },
+    {
+      "seif": 12,
+      "he": "בתו ובת בתו ובת בנו אסורות לו מן התורה אבל בת בת בנו ובת בת בתו ובת בן בנו ובת בן בתו אסורות מדרבנן ואין להם הפסק וכן אומר בירושלמי שאברהם אסור בכל נשי ישראל ושרה אסורה בכל אנשי ישראל ולהרמב\"ם יש להם הפסק:",
+      "en": "A man's daughter, daughter's daughter and son's daughter are forbidden to him under Torah law. But the daughter of his son's daughter and the daughter of his son's daughter and the daughter of his son's son and daughter of his daughter's son are forbidden to him under Rabbinic law, and there is no end to this [i.e. even great-great-grandchildren are forbidden]. And thus it says in Talmud Yerushalmi: Avraham would be forbidden to Jewish women and Sara to all Jewish men. But according to the Rambam, the prohibition does end [after a certain number of generations].",
+      "ref": "Shulchan Arukh, Even HaEzer 15:12"
+    },
+    {
+      "seif": 13,
+      "he": "בת אשתו ובת בתה ובת בנה אסורות לו מן התורה ודוקא בת אשתו אבל בת אנוסתו מותרת לו לאחר מיתתה  (ואפי' בחייה אם כנס לא יוציא) (נ\"י ריש פ' נושאין על האנוסה):",
+      "en": "A man's wife's daughter and her daughter's daughter and her son's daughter are forbidden to him under Torah law. Specifically his wife's daughter, but the daughter of his anusah [a woman he married after he raped her] is permitted to him after she dies. Rem\"a: Even while she is still alive, if he married her under the condition that he cannot divorce her (See the Gemara about marriages regarding an anusah).",
+      "ref": "Shulchan Arukh, Even HaEzer 15:13"
+    },
+    {
+      "seif": 14,
+      "he": "בת בת בת אשתו ובת בן בן אשתו אסורות מדרבנן ואין להם הפסק ולהרמב\"ם יש להם הפסק:",
+      "en": "A man's wife's daughter's daughter's daughter and son's son's daughter are forbidden to him under Rabbinic law, and there is no end to this prohibition [i.e. it does not matter how many generations they are removed from each other]. But for the Rambam there is an end.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:14"
+    },
+    {
+      "seif": 15,
+      "he": "אם אשתו ואמה ואם אבי אשתו אסורות מן התורה אבל אם אם אם אשתו ואם אם אבי אשתו ואם אבי אבי אשתו ואם אם (אם) אבי אשתו אסורות לו מדרבנן ואין להם הפסק ולהרמב\"ם יש להם הפסק:",
+      "en": "A man's wife's mother and wife's father's mother are forbidden to him under Torah law. But his wife's mother's mother's mother and father's mother's mother and father's father's mother and father's mother's mother are forbidden to him under Rabbinic law, and there is no end to this prohibition [i.e. it does not matter how many generations they are removed from each other]. But to the Rambam, there is an end.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:15"
+    },
+    {
+      "seif": 16,
+      "he": "אחות אביו ואחות אמו אסורות לו מן התורה בין שאחיה היא מן האב בין שהיא מן האם:",
+      "en": "A man's father's sister and mother's sister are forbidden to him under Torah law, whether she is a sister [to his father or mother] from their father or from their mother.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:16"
+    },
+    {
+      "seif": 17,
+      "he": "מותר אדם בבת אחי אביו ובבת אחי אמו ואחי אביו ואחי אמו מותר באשתו ובבתו:",
+      "en": "A man is permitted to the daughter of his father's brother and the daughter of his mother's brother. His father's brother and his mother's brother are permitted to his wife and his daughter.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:17"
+    },
+    {
+      "seif": 18,
+      "he": "אשת אחי אביו מן האב אסורה מן התורה אבל אשת אחי אביו מן האם ואשת אחי אמו בין מן האם ובין מן האב אינן אסורות אלא מדרבנן ומכאן ואילך כגון אשת אחי אבי אביו מן האם  (ואשת אחי אם אמו בין מן האב בין מן האם) מותרות ואשת אחי אבי אביו מן האב ואחות אבי האב בין מן האם בין מן האב ואחות אם האם מותרת ויש מי שאוסר באלו:",
+      "en": "A man's father's brother's wife is forbidden to him under Torah law. But the wife of his father's maternal half-brother, and the wife of his mother's brother, maternal or paternal, are only forbidden to him under Rabbinic law. And from there on, such as the wife of his father's father's maternal brother (and the wife of his mother's mother's brother) are permitted. The wife of his father's father's paternal brother, and the sister of his father's father whether maternal or paternal, and the sister of his mother's mother are permitted. And there are those who forbid these.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:18"
+    },
+    {
+      "seif": 19,
+      "he": "אשת בנו אסורה לו מן התורה ואשת בן בנו אסורה מדרבנן ואין לה הפסק עד שתהיה אשת אחד ממנו אסורה על יעקב אבינו:",
+      "en": "A man's son's wife is forbidden to him under Torah law, and his son's son's wife is forbidden to him under Rabbinic law. There is no end to this prohibition until the [generation of] Yaakov Avinu.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:19"
+    },
+    {
+      "seif": 20,
+      "he": "אשת בן בתו אסורה מדרבנן ויש לה הפסק:",
+      "en": "A man's daughter's son's wife is forbidden to him under Rabbinic law, but there is an end to this prohibition.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:20"
+    },
+    {
+      "seif": 21,
+      "he": "אשת בן אשתו מותרת לו ובן אשתו מותר באשתו:",
+      "en": "The wife of his (own) wife's son (his stepson) is pemitted to him, and his wife's son (his stepson) is permitted to his (other) wife.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:21"
+    },
+    {
+      "seif": 22,
+      "he": "אשת אחיו בין מן האב בין מן האם בין מן הנשואין בין מן הזנות אסורה מן התורה:",
+      "en": "The wife of his brother, whether (that brother be) from his father or from his mother, whether (that brother was born) from a (legitimate) marriage or from harlotry, is forbidden to him from the Torah.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:22"
+    },
+    {
+      "seif": 23,
+      "he": "שני חורגין הגדלים יחד בבית מותר כל א' באשת חבירו ולא חיישינן למראית העין לומר שנראה כאשת אחיו:",
+      "en": "(Regarding) two stepsiblings who grew up together in the (same) house - each is permitted to marry his friend's wife, and we do not suspect for (the principle of) The Appearance to the Eye which would dictate that (the woman) seems to be his brother's wife (and therefore forbidden on a Rabbinic level although she is actually permitted to him).",
+      "ref": "Shulchan Arukh, Even HaEzer 15:23"
+    },
+    {
+      "seif": 24,
+      "he": "מותר אדם באשת חמיו וחמיו מותר באשתו ויש מי שאוסר:",
+      "en": "One is permitted to his father-in-law's wife, and his father-in-law is permitted to his wife. And there are those who forbid it.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:24"
+    },
+    {
+      "seif": 25,
+      "he": "מותר אדם באשת בן אחיו ובאשת בן אחותו  (ומותר בבת אחיו ואחותו ומצוה לישא אותה כדלעיל סי' ב'):",
+      "en": "A man is permitted to The wife of his brother's son and the wife of his sister's son. And one is permitted to the daughter of his brother or sister, and it is a Mitzvah to marry her as was stated above, 2.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:25"
+    },
+    {
+      "seif": 26,
+      "he": "אחות אשתו אסורה לו מן התורה כל זמן שאשתו קיימת לא שנא אם היא אחותה מן האב או מן האם ואפי' גירש את אשתו אבל לאחר מיתתה מותר באחותה  (וכל המגרש אפי' מחמת קול בעלמא נאסר בקרובותיה) (ב\"י בשם הרשב\"א סימן י\"ג):",
+      "en": "His wife's sister is forbidden to him from the Torah, all the while his wife is alive; it makes no difference if (the sister) is paternal or maternal, or even if he has already divorced his wife. However, after her (his wife's) death, he may marry her sister. And anyone who gets divorced, even for just a simple rumor, he is forbidden to her relatives (Beit Yosef in the name of RaShB\"A s. 13)",
+      "ref": "Shulchan Arukh, Even HaEzer 15:26"
+    },
+    {
+      "seif": 27,
+      "he": "קידש אשה והלכה למדינה אחרת ובאו עדים והעידו שמתה ונשא את אחותה ואחר כך נודע שלא מתה אסור בשתיהן וצריכות שתיהן גט ממנו וכל הדרכים השנויים בפרק האשה רבה ובפ' הזורק נוהגין בהם ואם מתה אחת מהן מותר בחבירתה אבל אם הלכה אשתו הנשואה למדינה אחרת ובאו עדים והעידו שמתה ונשא אחותה ואח\"כ נודע שלא מתה אין אחותה צריכה ממנו גט ואשתו מותרת לו ומותר בקרובות שניה ושניה מותרת בקרוביו ואם מתה ראשונה מותר בשנייה וכן שאר העריות שנשאן בחזקת היתר ונמצאו ערוה אינן צריכות גט שאין קידושין תופסין בעריות  (וכן כל זנות שמזנה עם הקרובות הנאסרות עליו מחמת אשתו אין אוסרין אשתו עליו) ומותר בקרובות שנייה (טור) ומיהו אם הקרובה רגילה לבא אצלו ע\"י אשתו כופין אותו לגרש אשתו (הגהות אלפסי שם) ומפני מה הצריכו אחות ארוסתו גט שמא יאמרו תנאי היה באירוסין וכדת נשא אחותה והואיל ויצאה אחותה בגט אחותה שהיא ארוסתו הראשונה אסורה כדי שלא יאמרו נשא אחות גרושתו אבל כשהלכה אשתו הנשואה אין לחוש לכך שיאמרו תנאי היה לו בנישואין דאין אדם עושה בעילתו בעילת זנות הילכך כ\"ע ידעי דנשואי שנייה אינם כלום:",
+      "en": "One who betrothed a woman and (she) went to a different country and witnesses testified that she died and he went and married her sister and after the fact (it) was revealed that she had not died - he is forbidden to the both of them and the both of them require a divorce from him, as well, all of the other matters listed in the chapter HaIsha Rabbah (lit. The Great Woman, one of the few chapters in Mishna which begins with the word HaIsha, the woman, the word rabbah, great, a discription about the chapter which differenciates it from others with a similar name, Yevamot 87b) and chapter HaZorek (lit. he who throws, Gittin 79b) apply to them. If one of them died, he is permitted to marry her friend (her sister). However if his wife (fully married via nesuin and not merely betrothed) traveled to a different country and witnesses came and testified that she died and he married her sister and then it was understood that his wife did not die - her sister does not require a divorce from him and his (first) wife is permitted to him, and he is permitted to marry the relatives of the second (wife) and she is permitted to marry his relatives and if the first dies he is permitted to the second one. And so (applies) to all 'Arayot (certain forbidden relationships) that one married under the chazaka (halachikally legitimate status-quo assumption) that they were permitted and were then found to be 'Arayot- they do not require a divorce from him because kiddushin (halachikally binding betrothal) does not operate (lit. catch) with 'Arayot. So too all acts harlotry one committed with relatives who are forbidden to him because of his wife do not forbid his wife to him and they (the forbidden relationships) do not become forbidden to him (Tur). However, if that relative would normally come to him because of his wife, (the court) forces him to divorce his wife (al-Fasi there). And why did (the sages) require (the giving of) a divorce to the sister of one's betrothed? Lest (people) say \"there was a clause in the engagement and he married her sister legitimately,\" and once she has exited (the betrothal) with a divorce, her sister, his first betrothed, is forbidden so that (people) do not say \"he has married the sister of his divorcée.\" However when his wife (via nisuin) traveled (to another country), there is no need to suspect that (people) will say \"there was a clause in the marriage,\" because one does not (regularly) render his (legitimate) sexual relations to be(come) promiscuous relations; therefore, all will understand that marriage of the second (wife) was meaningless.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:27"
+    },
+    {
+      "seif": 28,
+      "he": "הלכה אשתו ובעל אחות אשתו למדינה אחרת ובאו ואמרו לו מתה אשתך ובעל אחותה ונשא אחות אשתו ואח\"כ באו אשתו וגיסו אחות אשתו צריכה ממנו גט לא שנא נשאת לו על פי ב' עדים או על פי עד א' ואסורה לגיסו ואשתו אסורה עליו לא שנא היתה נשואה לו או ארוסתו: הגה ואם בא בזנות על אחות אשתו ומתה אשתו וגיסו אח\"כ י\"א דאסור לישא אח\"כ אחות אשתו דכשם שאסורה לבעל כך אסורה לבועל אע\"פ שהיתה אסורה עליו בלאו הכי (פסקי מהרא\"י סימן כ\"ח) (וע\"ל סימן קע\"ח):",
+      "en": ",הַגָּה: וְאִם בָּא בִּזְנוּת עַל אֲחוֹת אִשְׁתּוֹ, וּמֵתָה אִשְׁתּוֹ וְגִיסוֹ אַחַר כֵּן, יֵשׁ אוֹמְרִים דְּאָסוּר לִשָּׂא אַחַר כָּךְ אֲחוֹת אִשְׁתּוֹ, דִּכְשֵׁם שֶׁאֲסוּרָה לַבַּעַל כָּךְ אֲסוּרָה לַבּוֹעֵל, אַף עַל פִּי שֶׁהָיְתָה אֲסוּרָה עָלָיו בְּלָאו הָכִי (פִּסְקֵי מהרא''י סִימָן כ''ח). (וְעַיֵּן לְקַמָּן סִימָן קע''ח): (If) his wife traveled with the husband of his wife's sister to a different country, and they came and told him: \"your wife has died as well as her sister's wife,\" and he married his wife's sister and later his wife and brother-in-law came (back) - his wife's sister requires a divorce from him, no matter if she was married to him through the testimony (lit. mouth) of two witnesses or through the testimony of a single witness, and she is forbidden to his brother-in-law (her first husband) and his (first) wife is forbidden to him, no matter if she was married to him or merely his betrothed. Rem\"a: and if he came upon his wife's sister through harlotry and his wife and brother-in-law died afterward, there are those who say that he may not not marry his wife's sister because (even disregarding the familial relationship) \"just as she (a wife who had committed adultery) is forbidden to the husband, she is forbidden to the adulterer,\" even though she was (already) forbidden to him without that (Rulings of MaHaRA\"I s. 28). (and see later s.178)",
+      "ref": "Shulchan Arukh, Even HaEzer 15:28"
+    },
+    {
+      "seif": 29,
+      "he": "אמרו לו מתה אשתך ונשא את אחותה ואח\"כ אמרו לו קיימת היתה ומתה הולד הראשון ממזר האחרון אינו ממזר:",
+      "en": "They told him: \"your wife died,\" and he then married her sister and later they told him: \"(the first time we had told you that she was dead) she was (actually) alive and (only after he had married her sister) died,\" the first child (conceived before she had died) is a bastard and the last one (conceived after the wife's death) is not a bastard.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:29"
+    },
+    {
+      "seif": 30,
+      "he": "מי שהיה לו פלגש ולא הועד שקדשה מותרת בקרוביו אבל אם יש עדים שאמרה האשה קדשני בפני ב' עדים נאסרה לקרוביו אבל אם אמרה קדשני סתם ולא אמרה בפני שני בני עדים אין בדבורה כלום:",
+      "en": "One who had a pilegesh and it was not testified that he betrothed her (via formal kiddushin) - she is permitted to his relatives. However, if there were witnesses that the (pilegesh) woman (herself) said: \"he betrothed me before two witnesses,\" she is forbidden to his relatives. However, if she said: \"he betrothed me,\" simply, and she did not say: \"before two witnesses,\" there is nothing (of relevance to court) in her words.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:30"
+    },
+    {
+      "seif": 31,
+      "he": "המקדש אשה ונתבטלו הקידושין מפני שהיו על תנאי ולא נתקיים התנאי או שקידש בתו שלא מדעתה ונמצאת בוגרת מותר בקרובותיה  (ודוקא אם נתבטלו הקידושין בלא גט אבל אם נתן גט אסור בכל קרובותיה כמו שנתברר):",
+      "en": "One who betrothed  a woman and the engagement was annulled because it was predicated on a clause and the clause was not fulfilled, or he betrothed one's daughter without her knowledge (what would work if she was a minor) and she was found (to be) an adult - he is permitted to her relatives. And (this applies) specifically if the engagement was annulled without a divorce bill; however, if he gave a bill of divorce - he is forbidden to all of her relatives, as we will explain.",
+      "ref": "Shulchan Arukh, Even HaEzer 15:31"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ממשנ' יבמות דף כ' ע\"א ובכמה דוכתי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:1"
+        },
+        "2": {
+          "he": "ברייתא שם דכ\"א ע\"א וכמו שפירש רש\"י שם וכל אלו הנשים מפורשים שם ובהלכות הרי\"ף והביאם הרמב\"ם בפ\"א מה' אישות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:2"
+        },
+        "3": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:3"
+        },
+        "4": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:4"
+        },
+        "5": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:5"
+        },
+        "6": {
+          "he": "ממשנה סנהדרין דכ\"ג ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:6"
+        },
+        "7": {
+          "he": "בריית' יבמות דל\"ז וכת\"ק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:7"
+        },
+        "8": {
+          "he": "שם בברייתא דכ\"א ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:8"
+        },
+        "9": {
+          "he": "שם בבריי'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:9"
+        },
+        "10": {
+          "he": "רמב\"ם שם וכזעירי שם מדיהיב תלמוד' טעמא לזעירי וכן מטין דברי הרי\"ף והרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:10"
+        },
+        "11": {
+          "he": "שם מבריית'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:11"
+        },
+        "12": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:12"
+        },
+        "13": {
+          "he": "יבמו' דכ\"ג ע\"א ויליף לה רבא מקרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:13"
+        },
+        "14": {
+          "he": "שם במשנה דכ\"ב ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:14"
+        },
+        "15": {
+          "he": "אפי' היא שפחתו רמב\"ם פ\"י מה' גירושין ובפ\"ט מה' עבדים וכמ\"ש ה\"ה שם ושכן הסכים הרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:15"
+        },
+        "16": {
+          "he": "מדברי הרי\"ף בשם הגאוני' וכן הסכים הרא\"ש וה\"ה וכ\"כ הטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:16"
+        },
+        "17": {
+          "he": "בריי' יבמות דכ\"א ע\"א וכמסקנת גמ' דידן סוטה דמ\"ג ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:17"
+        },
+        "18": {
+          "he": "מפורשים בתורה ובנו אתיא בקל וחומר שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:18"
+        },
+        "19": {
+          "he": "תני ר' חייא שם דכ\"ב ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:19"
+        },
+        "20": {
+          "he": "לדעת הרמב\"ן שהאבעי' שם לא קאי אבת בן בן בנו כמ\"ש ה\"ה שם וכ\"כ הטור בשם אביו הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:20"
+        },
+        "21": {
+          "he": "שם דס\"ל דהאבעי' אכולהו הני דרבי חייא קאי ולא אפשט' וה\"ל ספיק' דרבנן ולקולא ודלא כהירושלמי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:21"
+        },
+        "22": {
+          "he": "מפורש בתורה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:22"
+        },
+        "23": {
+          "he": "משנה וגמ' שם דצ\"ו ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:23"
+        },
+        "24": {
+          "he": "בעיא שם דכ\"ב ע\"א ולא נפשט' ופסק הרא\"ש לחומר'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:24"
+        },
+        "25": {
+          "he": "שם בפ\"א מטעם שכתבתי לעיל סוף סעיף י\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:25"
+        },
+        "26": {
+          "he": "שם רביעי שבחמיו וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:26"
+        },
+        "27": {
+          "he": "אבעי' שם ולא נפשט' ולדעת הרמב\"ן והרא\"ש אזלינן לחומרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:27"
+        },
+        "28": {
+          "he": "שם כמ\"ש דסובר דאזלינן לקולא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:28"
+        },
+        "29": {
+          "he": "מפורש בתור'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:29"
+        },
+        "30": {
+          "he": "שם דף נ\"ד ע\"א יליף לה מקראי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:30"
+        },
+        "31": {
+          "he": "ירושלמי כתבוהו הרי\"ף והרא\"ש בפ\"ב דיבמו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:31"
+        },
+        "32": {
+          "he": "נתבא' בברייתא ובמסקנא דגמ' שם דכ\"א ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:32"
+        },
+        "33": {
+          "he": "נתבאר שם במימרא דרב ד' נשים וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:33"
+        },
+        "34": {
+          "he": "כצ\"ל וכן הוא בטור ובב\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:34"
+        },
+        "35": {
+          "he": "כאמימר דאכשר שם דנ\"א ע\"ב טור בשם השאלתות וכ\"כ התו' בשמם ובשם ר\"ת וכ\"נ דעת הרמב\"ם והרי\"ף שלא מנו אלו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:35"
+        },
+        "36": {
+          "he": "שם ושם בשם ר\"י ושכן דעת אביו הרא\"ש מסוגי' דתלמודא שם דף מ' ע\"ב דלא כוותיה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:36"
+        },
+        "37": {
+          "he": "בריי' שם דכ\"א ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:37"
+        },
+        "38": {
+          "he": "ג\"ז שם ממימרא דאמוראי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:38"
+        },
+        "39": {
+          "he": "בריי' שם ע\"א פי' שלא במקום מצוה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:39"
+        },
+        "40": {
+          "he": "שם דכ\"ה ע\"א יליף לה מקרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:40"
+        },
+        "41": {
+          "he": "שם דף כ\"ג ע\"א יליף לאחותו מקרא וה\"ה לשאר עריות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:41"
+        },
+        "42": {
+          "he": "ממסקנת הגמ' דסוטה דף מ\"ג ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:42"
+        },
+        "43": {
+          "he": "בריי' שם ביבמות ודלא כהירושלמי וכ\"פ הרי\"ף וכ\"נ דעת הרמב\"ם שלא מנה אותם וכ\"כ הנ\"י בשם הריטב\"א שהרמב\"ן ורבים מרבותינו התירו ושכן עיקר",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:43"
+        },
+        "44": {
+          "he": "כדעת הירושלמי כ\"כ התו' שם שכן עשה ר\"ת מעשה וכ\"כ בה\"ג והרא\"ש והטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:44"
+        },
+        "45": {
+          "he": "ירושלמי כתבוהו הרי\"ף והרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:45"
+        },
+        "46": {
+          "he": "פשוט שם במשנה בבלי דצ\"ו ע\"א ובדף נ\"ה ע\"א יליף לה מאשת אח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:46"
+        },
+        "47": {
+          "he": "משמעו' הפסוק מדכתי' בחייה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:47"
+        },
+        "48": {
+          "he": "משנ' שם דצ\"ד ע\"א וכדמוקי לה שם בגמרא וכר\"ע כ\"כ הרי\"ף והרמב\"ם פ\"ב מה\"ג וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:48"
+        },
+        "49": {
+          "he": "שם דפ\"ז ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:49"
+        },
+        "50": {
+          "he": "בגיטין דע\"ט ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:50"
+        },
+        "51": {
+          "he": "שם במשנה וכו' יוסי וכדמפרש לה ר' יצחק נפחא שם דנ\"ה ע\"א משום דרב יהוד' משמיה דשמואל פסק הלכה כר' יוסי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:51"
+        },
+        "52": {
+          "he": "משנה שם ע\"ב וכר' אסי וכדמפרש לה ר' אמי שם משום איסתפק לן הא דאמר שמואל הלכה כר' יוסי אליב' דמאן אי אליבא דר\"י נפח' אי אליבא דר' אמי אזלינן לחומרא וכמ\"ש הרי\"ף וכן הסכים הרמב\"ן והרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:52"
+        },
+        "53": {
+          "he": "משנה שם דף כ\"ד ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:53"
+        },
+        "54": {
+          "he": "תשובת הרא\"ש כלל ל\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:54"
+        },
+        "55": {
+          "he": "הרא\"ש בן הרשב\"ץ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:55"
+        },
+        "56": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 15:56"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אלו שאסורים  בטור כתב אלו שאין בני קידושין כו' וכתב ב\"י הלשון אינו מדוייק דהא אותן שאסורים מדרבנן קדושין תופסין בה ותירץ בד\"מ דקמ\"ל הטור שאין קידושין גמורים נ\"מ שאם בא אחר וקידשה צריכה גם ממנו גט ע\"כ ואינו נכון דהא בסי' מ\"ד סעיף ז' כתב להדיא המקדש א' מהשניות ה\"ז מקודשת קידושין גמורין ונ\"ל דכוונת הטור שאלו שיש איסור בקדושתייהו דהיינו אף אם לא יבא עליה אח\"כ מ\"מ בקידושין לתו' יש ג\"כ איסור דרבנן דגליא דעתיה שאינו חש לדברי חכמים ועושה פעולה לישאנה ונראה דבזה חמור איסור דרבנן משל תורה דאלו בשל תורה אין איסור כ\"כ בקידושין לחוד דהא לא (אהני) מעשיו וממון שנתן הוה מתנה כדאיתא פ\"ק דב\"מ אדם יודע שאין קדושין תופסים באחותו וגמר ונתן לשם מתנה או לשם פקדון משא\"כ באיסור דרבנן שקידושין תופסין אהני מעשיו ע\"כ יש איסור שמראה שפוקר על דברי חכמים כנ\"ל (דברי המגיה כתב ב\"ש בסק\"א דלב\"י אם קדשו שנים ערוה דרבנן תופסים קידושי שניהם דאל\"כ יהיה דברי הב\"י סותרים אהדדי ממה שכתב סי' ב' אם קידש א' לפני עדות פסולי דרבנן ובא אחר וקידש ג\"כ לפני עדות פסולי דרבנן קדושי שניהם תופסין בה א\"כ גם בערוה דרבנן הדן כן עכ\"ל ול\"נ דלא דמי כלל דבשלמא אם קידש בפני עדים פסולי דרבנן הוי כמי שקידש שלא בפני עדים כלל אף דכשרים הם מן התורה מ\"מ אינם ראוים להעיד כלל על קידושיו מכחד הם אסורים מדרבנן ודבר זה דומה כמי שקידש בפני אלמים דאף שם בשרים להעיד מחמת עצמן מ\"מ פסולים הם מכח שהם אלמים ה\"ה כאן אף שהם כשרים מן התורה מ\"מ פסולים הם מדרבנן ואינן יכולים להעיד וכה\"ג אמרינן ביומא ר\"פ י\"ח לענין קרבן שבועה דפסולי עדות דרבנן פטורין מקרבן שבועה דאע\"ג דמדאורייתא חזי מ\"מ לאו בר הגדה הוא כיון דפסולים דרבנן הם ע\"ש א\"כ אפשר אין הקידושין חלין מתחילה מן התורה בפני עדות כזה שאין יכולים להעיד לכן חלין קדושי שני ג\"כ כמו קידושי ראשון אבל בקודש ערוה דרבנן דמדאורייתא תופסין ואין כח בידם להוציא הקדושין רק שאסור לכונסה אח\"כ וצריכה גט א\"כ עכ\"פ אם קידש השני אין קידושין תופסין כלל דקידושי ראשון קידושין גמורין וכמו שהביא הט\"ז ראיה מסי' מ\"ד וכמו שמתמה עצמו בחמ\"ח ע\"ש מה שהקשה על רמ\"א דמסופק בזה אם חלו קידושי שניהם ואדרבה דאם היה ס\"ל להב\"י דקדושי שניהם תופסין היה ק' עליו מסי' מ\"ד הנ\"ל דכתב שם דקדושין גמורין הם מראשון ואם קידש שני אין קידושיו כלום עכד\"ה):",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:1"
+        },
+        "2": {
+          "he": "אבל אם אמו ז\"ל רש\"י גזרו רבנן על אם אמו משום אמו וגזרו נמי באם אביו משום אם אמו אע\"ג דגזירה לגזירה היא משום דתרווייהו אמא רבתא קרו להו עכ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:2"
+        },
+        "3": {
+          "he": "ואין לה הפסק לפי שיש (בדורותי') ערוה דאורייתא דהיינו אמו ואם אמו שהוא התחלת הגזירה יש עליה שם איסור דאורייתא אימא רבתא קרו להו ולפיכך החמירו שלא יהיה הפסק לאפוקי אם אבי אמו שאין התחלת גזירה שם איסור דאורייתא שאין קורין לה אמא רבתא שהיא דור רביעי לא החמירו בה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:3"
+        },
+        "4": {
+          "he": "אם אביו אסורה דגזרינן משום אם אמו וכולהו חדא גזירה דאמא רבתא קרו להו וכיון שיש בהתחלת הגזירה שם איסור דאורייתא אין לה הפסק:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:4"
+        },
+        "5": {
+          "he": "אם אבי אביו כו'  וכתב בדרישה וז\"ל ומיהו דהך אם אבי אבי אביו דמותרת היינו דאינה מכח שורש אם אבל אסורה משום אשת אבי אבי אביו כו' ולי נראה דכאן מיירי מצד איסור אם לחוש שהיא אנוסה מאיש א' ולא נקרא אשתו מ\"מ יש איסור מצד אם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:5"
+        },
+        "6": {
+          "he": "אשת אבי אביו אסורה מדרבנן דגזרינן משום אשת אביו שהיא דאורייתא ואין לה הפסק להיתר כיון שיש איסור דאורייתא בשם זה של אשת אב:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:6"
+        },
+        "7": {
+          "he": "אשת אבי אמו דגזרינן משום אשת אבי אביו וחדא גזירה היא דתרווייהו קרי להו אבא רבא אבל מכאן ואילך כגון אשת אבי אבי אמו מותרת דבשם זה אין כאן איסור דאורייתא וא\"ל שנגזור גם בזה משום אשת אבי אבי אביו ותהיה ג\"כ אסורה לעולם משום דהתם שכיחי פי' רש\"י למשפחת אביו אדם רגיל לילך ויודע שיש קורב' יותר מאמו ולא אתי לאחלופי וכאן אין רעות' דקריאת אבא רבא דזה לא שייך אלא בדור הג':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:7"
+        },
+        "8": {
+          "he": "וי\"א דאשת אבי אם כו'  זה דעת ת\"ה סי' רט\"ו וכדי לברר הדבר נעתיק הסוגיא עם השייך לה ויהיה כלל בידינו בכל דינים אלו. איתא בפ\"ב דיבמות דף כ\"א ת\"ר אלו הן שניות אם אמו ואם אביו ואשת אבי אביו ואשת אבי אמו אמר רב ד' שניות יש להן הפסק פירש\"י שלמעלה מהן ולמטה מהן מותר אבל האחרות כגון אם אמו הוה עד סוף כל הדורות בשניות נקט רב בידיה תלת אשת אחי האם מן האב ואשת אחי האב מן הא וכלתו. וזעירי מוסיף אף אשת אבי אמו דגם בזה יש הפסק ושרינן אשת אבי אבי אמו הואיל ולא שייך בדורות הללו אישות (דאורייתא) ופירש\"י בסמוך אבל אם אמו דשייכ' בדורותי' ערוה דאורייתא כגון אמו ואשת (אבי) אביו יש בדורותי' אשת אביו דאורייתא אם אביו נמי אף ע\"ג דלא שייכא דורה ערוה דאורייתא אין לה הפסק ואסורה אף אם אבי אביו דמחלפ' באם אם אמו ופרכינן ורב מ\"ט לא חשיב ליה להך דזעירי שיש לו הפסק דהיינו אשת אבי ואמו ומשני מחלפ' ליה אשת אבי אביו דאי אמרת שיש הפסק באשת אבי אמו אתי למימר באשת אבי אביו (יש הפסק) ושם איכא לאותן דורות אישות דאורייתא פי' אשת אב וזעירי אומר דהתם שכיח דאזיל למשפחת אב אדם רגיל לילך ויודע שם קורבה יותר מאמו הלכך לא מחלפי והרי\"ף מביא ירושלמי נא בר קפרא מוסיף אם אבי אביו ואם אבי אמו ופי' הפוסקים דהנך דבר קפרא יש להם הפסק וכיון דרש\"י פי' דאם אביו אין לו הפסק ואסור אף באם אבי אביו ה\"ה אף באם אבי אבי אביו דהא נקטינן ליה בהנהו דאין הפסק ממילא פליג על ב\"ק דס\"ל רק אם אבי אביו ותו לא וזעירי ס\"ל ג\"כ כרב באשת (אחי) אמו וגם ההיא דבר קפרא צ\"ל דלא פליגי ובאמת קשיין אהדדי ההלכות וע\"כ צ\"ל דהוא ס\"ל כמ\"ש הרמב\"ם והטור בסי' זה דהיינו דהא דאמרי' דאם האב אין לה הפסק לא לענין האב קא' דהיינו אפי' אם אבי האב דזה אינו אלא לענין האם עצמה דאותה האם של האב גורר' האיסור שלה פי' לאם שלה דוה כמו אמו עצמה שהיא דאורייתא וגוררת איסור לאם אמה עד למעלה כן הוא באם אביה שכל האמהות שלה עד למעלה אסורה בשבילה שכולם שייכות שלה אבל אם אבי האב שהי' לא שייכ' באם שלו עצמה אלא באביו אינה בכלל האיסור כלל ומן הראוי להתירה וכן ממש באם אבי אמו ה\"א דמותר קמ\"ל ב\"ק הנהו אם אבי אביו ואם אבי אמו הם עצמם אסורים אבל יש להם הפסק דאם אבי אביו מותרת לו וכן אם אבי אבי אמו מותרת והנה יש כאן שני חלקים באיסור דרבנן הזה דהיינו במה שאנו אוסרים אפי' בגזירה לגזירה החלק הא' איסור אשת אב והשני באיסור אם והיינו לזעירי דמיירי באיסור דאשת אב ובזה הזכרים חמורים ואין איסור נקיבות אלא משום הזכרים וחלק השני באיסור אם וחלק ראשון דהוא לזעירי יש כאן איסור אשת אב שאשת אב עצמה היא דאורייתא וגזרו חכמים שאפילו באיסור אישות שמחמת אבי אביו דהיינו אשת אבי אביו אסור כמו אשת אב עצמה עד למעלה ובאשת אבי אמו גזרו ג\"כ בשביל אשת אבי אביו ואע\"ג דמשפחת אביו המיר ליה כדלעיל מ\"מ כיון דאלו שניהם קרו להו אבא רבא ע\"כ אתי למטעי אבל לענין למעלל אשת אבי אמו יש פלוגת' לרב אסור לזעירי מותר דל אתי למטעי למעלה של אשת אבי אביו להקל לשם כיון שחמיר טפי עליה וכאן אין שייך אבי רבה דזה לא שייך אלא לבאבי אביו או באבי אמו שקורין להם זה אבל בלמעלה מאלו אין שם זה וקי\"ל כזעירי ובר קפר' נקט איסור אם ובזה נקיבות חמורים מזכרים כיון שיש אמו שהיא דאוריית' ובה פשיטא שאסור' מדרבנן אפי' בלמעלה כל האמהות של מעל' דומיה דאמה עצמה ואמרי' בגמרא דאם אמו ואם אביו שמם אמא רבת' וזה דוקא באם אביו אבל לא באם (אבי) אביו דשם לא גזרו איסור רק בה ולא בלמעלה מאותו אם וקשה למה הוצרכו בגמ' לומר הטעם משום אמא רבת' הא בלא\"ה אמאי לא גזרי' אם אביו משום אם אמו דהא באיסור אשת אב שזכרנו היה ראוי לגזור באשת אבי אבי האם משום אשת אבי אבי אביו רק שלא גזרו מקל לחמור דמשפחת אב חמור ואם כן כאן באיסור אם דחמור טפי שפיר יש לגזור אם נתיר באם אביו כ\"ש שיתיר באם אמו דקיל ליה ותו דגם באם אבי אביו נגזור שיהיה ממש כמו באם אם אמה ויהיה אסור ג\"כ למעלה. ונראה דכאן באיסור אם דבר קפרא אין שייך למטעי מן האביו ואם אמו דודאי יש קורב' טפי באם אמו שהוא עצמה ובשרה של אמה ואם אם הוה ממש בכלל האם משא\"כ באם האב עם האם עצמה שהיע עיקר האיסור ע\"כ הוצרכו לומר טעם הגזירה בשביל שם אמה רבתא ולא אסרו אם אבי האם או האב מכח דמין לאם אם אמו אלא שנתנו חומר לאם אביה שיגיע האיסור עוד מעלה א' תו לא דהיינו באם אבי אבי אמה או אם אבי (אבי) אביו דבזה שרי וממילא באם אבי אביו שאין שם אמא רבתא לא גזרינן בשביל אם אם אמו אבל לעיל באיסור אשות דנקיט זעירי דאסרינן כל אשת אב אף ע\"ג דאשת אם אינה עצמה ובשרה של אשת אב אלא דגזרינן כל האשת אב שלמעלה בשביל אשת אב שלמטה אם כן גם באשת אבי אמו ראוי לגזור בה משום אשת אבי אביו ע\"כ הוצרכו לתרץ שם דמקל לחמור לא גזרינן כנלע\"ד ליישב הסוגיא ועתה נבא להזכיר דברי ת\"ח בענין אשת אבי אם אביו שכתב לאיסור והוא נכון דהא יש לזה הוכחה גמורה דהא קמן באיסור אישות דזעירי היה ראוי לגזור אפי' באשת אבי אבי אמו משום אבי אבי אביו לולי הך סברא דמקל לחמור לא גזרינן והיינו שם דהתחלת הקורבה בא מחמת אמו ואין הקורבה כ\"כ כמו אם התחלתה מחמת אביו אע\"ג דאח\"כ בא הקורבה מאביו לאמו של אביו מ\"מ לגבי הבן לא חשבינן אלא התחלת הקורבה שלשו וכיון שדעתו קרובה למספחת אביו יש לו קורבה גדולה לכל מה ששייך לאביו כי דרך מי שאוהב לא' אוהב גם להשייכות שלו וזה סברא נכונה ולזה נתכוון הת\"ה שכתבו וז\"ל ובנ\"ד כיון דלגבי דידיה קירב' דאב הוא ואע\"ג דלגבי האב קורבה דאם הוא מ\"מ שכיחא טפי דאזלו נבייהו מלקורבה דהיה לאם דיי' עכ\"ל וא\"כ עיקר האיסור בזה מצד גזרה אטו אשת אבי אבי אביו ולמו\"ח ז\"ל שכ' שלהרמב\"ם והטור מותר הדין של ת\"ה דהיינו באשת אבי אם אביו כיון דאין כאן איסור אישות דלא אמרו שהאיסור הולך עד לבעלה אלא באם (אין) הפסיק אשה ביניהם ואין בזה שום היתר דודאי עיקר האיסור משום גזירה דאם אבי אבי אביו בלי שום הפסק כמו שזכרתי ועל רמ\"א יש לתמוה כאן שכת' דין של ת\"ה בשם י\"א ובאמת הוא לד\"ה והסוגיא ברור' כמו שזכרתי בס\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:8"
+        },
+        "9": {
+          "he": "אבל מדרבנן הוה זרעו לכן יש להחמיר לכתחילה כ' בלבוש ע\"ז ולא ידעתי מה קאמר דהא כיון דמן התורה הולד הולך אחר השפחה וגויה פשיטא דלכתחלה אסור לבא עליה תיפוק ליה משום איסור שפחה וגויה ואי ר\"ל אחר שנתגייר' הא כקטן שנולד דמי וצ\"ע עכל גם בעיני יפלא מי הוא שיסתפק דבר זה דהלכ' רווחת בכ\"מ דולד שפחה שפחה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:9"
+        },
+        "10": {
+          "he": "אבל בת (בת) בתו כו'  זה בעי' בגמרא ולא אפשט' וראוי לפסוק לקולא כיון דמלתא דרבנן הוא וזה דעת הרמב\"ם דיש להם הפסק אלא שפסקו להחמיר מכח הירושלמי שאמר שאברהם אסור בכל נשי ישראל ושרה אסורה בכל אנשי ישראל אלמא דבבנו ובתו אין להם הפסק והרמב\"ם דפסק יש להם הפסק ס\"ל דלא אכפת לן בתלמו' ירושלמי כיון דבתלמו' דידן מסיק לה בלא אפשיט' משמע דס\"ל דניזיל לקול':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:10"
+        },
+        "11": {
+          "he": "לאחר מיתתה אבל בחייה אסורה שמא לאחר שישא בת יזנה והרי היא ערוה עליו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:11"
+        },
+        "12": {
+          "he": "בת בת בתו כו'  אין להם הפסק גם אלו בעי' בגמרא ולא איפשט' וכן הוא (סעיף) ט\"ו וע\"כ פליגי הרמב\"ם עם שאר פוסקים איך הלכה וכמו שזכרתי סעיף י\"ב וקשה להרמב\"ם דפוסל לקול' שיש הפסק מאי שנא מלמעלה באמו ואם אמו ואשת אביו דאין הפסק לכ\"ע ולמטה בבתה ובת בתה נימא דיש הפסק ולכאורה י\"ל דיש קורב' טפי בלמעלה מבלמטה וכה\"ג כתבת בח\"מ סי' ל\"ב לענין עדות שיש חילוק בין בעל אם אמו לאבי חמיו דבתרווייהו הוה ראשון בשני בחד בעל ואפ\"ה כבר בבעל אם אמו ובאבי חמיו פסול משום שיש קורב' טפי בלמעלה וא\"א לומר כן דהא אם התיר כאן שיש' אותה שאחר ההפסק למטה מ\"מ יהיה לגבי אשה הניסת למעלה ובדרישה כתב לתרץ זה דלעולם בתר האיש הנושא אזלינן שהוא עאושה מעש דלקוחין אבל להאשה לא הזהירה התורה בפי' שלא תקחנו ואפשר שהיא אינה עושה איסור כלל עכ\"ל במחיל' מכבודו הגדול שכ' כאן דברים שלא ניתנה ח\"ו לחלק בין האשה ובין האיש שהרי היא שניש' בחייבי לאוין או כריתות הוה כל העונש עליה כמו עליו ומקר' מלא כתיב אצל העריות ונכרתו הנפשות העושות מקרב עמם דהיינו האיש ואש כדרשינן בב\"ק אע\"פ שאין האשה עוששה מעשה הכתוב קראו מעשה ובכל העריות כתיב האיסור לשון זכר שלא ישכב עמה ובודאי גם היא בכלל ובודאי תלמי' טועה כתב זה ותלאו באילן גדול וקושי' מעיקרא ליתא דודאי אין חילוק בין מעלה למטה וראיה עוד מסעיף ט\"ו מאם אם אשתו דגם שם להרמב\"ם יש הפסק ושם הוה למעלה ותו דגבי אשת בן בנו דסעיף י\"ט אין לה הפסק אע\"ג שה\"ה למטה אלא ודאי דאין חילוק אלא בזה דיש לנו לומר במקום שלא עשאתה תורה הרחק' גדולה כמו אמו ואשת בנו שלא אסרה התורה בהו רק חד דרא הצריכו חכמים הרחקה הרבה ע\"כ אמרו שאין לה הפסק לאותו הרחקה משא\"כ בבתו ובבת אשתו שהתורה עשאתו הרחקה גדולה דהיינו שני דורות וכן באם אשתו שיש ב' דורות הרחק' חמותו ואם חמותו באלו אפשר שלא הצריכו חכמים להוסיף הרחק' רבה אלא סגי בתו' חד דרא ואח\"כ יהיה הפסק זה נ\"ל סברת האיבעי' בגמרא דמספק' ליה אי נימא שיש הפסק ובאלו פסק הרמב\"ם כן להלכה ג\"כ וזה נ\"ל נכון בס\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:12"
+        },
+        "13": {
+          "he": "בבת אחי אביו אע\"ג דבאחיו עצמו יכול לישא בתו מ\"מ כתב זה משום סיפא דאחי אביו מותר באשתו משא\"כ באחיו ממש ותו משום סיפא לענין אשת אחי אביו שיש שם חילוקים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:13"
+        },
+        "14": {
+          "he": "אשת בן בתו דגזרינן משום כלת בנו וכולהו חד גזירה הוא ואשת בן בן בתו מותר דלא שייך שם איסור כלה דאורייתא כמו דשייך בכלת בנו דגזרו משום כלתו עצמו ובדרישה נתן טעמים בזה בחנם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:14"
+        },
+        "15": {
+          "he": "ויש שאוסר משום מראית עין דסוברים שהיה חמותו ול\"ד לב' חורגים דסעי' הקודם דהתם אית ליה קלא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:15"
+        },
+        "16": {
+          "he": "אסור בשתיהן וצריכה שתיהן גט הראשונה מדאוריית' והשניה מדרבנן דאמרי אינשי דהך קמיית' תנאי ה\"ל בקידושין ולא נתקיים והשני שפיר נתיב מ\"ה צריכה ממנו גט שלא יאמרו אשת איש יוצאת בלא גט וכיון דצריכה גט אתסר' עליו ארוסתו שלא יאמרו שהוא נושא אחות גרושתו אבל אם כנסה ליכא חשש שהיא תנאי בקידושין דאין אדם עושה בעילתו בעילת זנות. (דברי המגיה ג' ב\"ש בס\"ק רכ\"א מיהו קצת ראיה כדבריהם מדהו' אסור בקרובת אנוסתו דבודאי ליכא חשש דיבא עליה עוד באונס אלא הטעם כיין שהיו יחדיו בקירוב בשר חוששין שמא יזנה עמה עכשיו ולא שנא באונס או בטעות עכ\"ל ואין כאן ראיה לא מקצת ואפילו כל דהו' דא\"כ קשה למה כתבו התוס' ר\"פ נושאין על האנוסה בד\"ה וכל היכא דאיכ' אסור' דרבנן כו' הא דלא פריך מבריית' דקתני מותר משום דעדיפ' ליה למפרך ממתניתין הא לפי דברי הב\"ש דבאנוסה ליכא חשש שמא יבא עוד עליה באונס ליכא למפרך כלל מבריית' דלא אמר בבריית' רק אם אנס אשה מותר בבתה ובאחותה ואיכ' למימר משום הכי מותר דליכ' חשש שמא יאנוס אותה פעם אחרת אחר שישא את בתה אבל בנטען מן האשה אסור בבתה ובאחותה דשם היה דעת שניהם שוים לזנות וחיישי' לזנות שמא תזנה אח\"כ עמה אבל במתניתין תנא דנושאין גם המפות' פריך שפיר מנטען מן האשה דבשניהם שוין החשש דבשניהם היה ברצון אלא ודאי דאין חילוק בין אנוסה למפותה כלל כמו דחיישי' שמא יפתה אותה שנית אחר שישא בתה כן חוששין שמא יאנס אותה שנית אח\"כ ואפשר שבשביל זה נשא בתה שתהיה אצלו קרובה לאנוס אותו או שמא תהיה מרוצה אצלו אחר שישא את בתה כיון שהיה מזיד לעבור חושדין אותו בכך משא\"כ כשב' עליה בשוגג בקדושין כדין וכדת מכח שהעידו עדים שמתה אשתו בודאי לא חשדי' אותו בכך שמא יזנה אח\"כ עכד\"ה):",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:16"
+        },
+        "17": {
+          "he": "ואם מתה הראשונה ה\"ה מתה שניה דמותר בראשונה וכ\"ש הוא (דברי המגיה איזה טעות יש כאן שהרי בקידש כתב בהדי' בש\"ע מתה אח' מהם מותר בחבירת' ובנש' כ' ג\"כ בפי' דאשתו מותר והשניה \"צ גט וע\"ז כ' דאם מתה הראשונה מותר בשניה והתי\"ט שכ' ג\"כ בפ' האשה שהלך במשנה ד' ואם מתה ראשונה מותר בשני כו' וכ\"ש דאם מתה השניה דמותר בראשונה עכ\"ל הוא מפרש הא דקאמר במתני' ואם מתה ראשונה כו' קאי גם לר' יוסי דפליג את\"ק בארוסה וס\"ל דארוסתו אסור משום אחות גרושתו ע\"ז קאמר המתני' גם לר' יוסי ואם מתה הראשונה מותר בשניה וכ' התי\"ט לר' יוסי דכ\"ש אם מתה שניה דמותר בראשונה ולא אמרי' כיון דהיתה אסורה ראשונה בחיי השניה תאסור גם אחר מיתת השניה וכ\"כ הב\"י דין זה בכשהיתה ראשונה ארוסה דאסור עליו משום אחות גרושתו ואם מתה שניה מותר בראשונה וכ\"כ הוא ע\"ש אבל בדברי חמי זקיני הט\"ז בודאי נפל איזה טעות בספרו כמ\"ש עבד\"ה):",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:17"
+        },
+        "18": {
+          "he": "ומותר בקרובות שניה  פי' לישא בתה דקי\"ל נושאין על האנוסה ומפותה וכ' מו\"ח ז\"ל ומיהו מדרבנן לא שרי' בתו עליו אלא לאחר מיתת שניה כמ\"ש לעיל סי' זה אצל בת אנוסתו וכ\"ב בפרישה דכאן דכבר נשא אשתו בהיתר אין מוציאין משום גזירה עכ\"ל ואני אומר דלא דקו הנהו רבנן בהך מלתא שפיר דודאי כאן שרי לישא בתה אפילו לכתחילה דשאני לעיל שכבר בא עליה דרך זנות באונס חיישי' שמא עוד יזנה עמה אחר נישואי הבת משא\"כ כאן דבשוגג בא עליה שהיה סבר שמתה הראשונה ועכשיו שרואה שיהא חיה למה נחשדיהו שיבא במזי' על אחות אשתו והוא בלי פשע לפנינו הלכך הך שאמרו מותר בקרובות שניה היינו אפילו בחיי השניה ולכתחלה כנ\"ל פשוט וברור:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:18"
+        },
+        "19": {
+          "he": "כופין אותו לגרש אשתו תימ' לי הך פיסק' מהא דתניא ספ\"ב דיבמות הנטען מן האשה אסור באמה ובבתה ובאחותה והטעם שמא לאחר שתנשא אמה או בתה תזנה זו עמו הרי דלא אמר התנא אלא איסור' בעלמ' אבל ודאי אם עבר וכנס אמה א\"צ לכות אותו להוצי' וא\"ל דהתם מיירי דאינו רגיל בבירור וכאן רגיל' בברור ע\"כ כופין לגרש א\"כ לא מקשי מידי בגמ' שם אהאי דוכולן מותרו' לבניהם דלישני דשם מיירי באינה רגילה ותו דהא אמרי' שם הטעם נשי לגבי נשי חיישי' משמע דמסתמ' חיישי' לזה ותו ק' טוב' דהא האשה הנטענת עצמה אמרי' שם בההוא פירקא דאם כנס לא יוצי' וכ\"ש אם כנס הבת שלה דלא יוצי' ותו ק' דאדכופין לגרש ניכוף שלא תבא כלל שם ודוגמ' לזה איתא קושי' בפ' המדיר (כתובות דף ע\"ו) עד שכופין אותו לחוצי' נכפוהו לזון ונלע\"ד שלא אמרו בזה כופין לגרש אלא לפי ראו' עיני ב\"ד שקשה הדבר להפרישנ' משם ראוי לגדור לכופו לגרש אבל לא לדינ' קאמר כנלע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:19"
+        },
+        "20": {
+          "he": "אחות אשתו צריכה הימנו גט הטעם שמא יבא גיסו תחילה ושייך לו' גירש גיסו ונשאת זה ע\"כ צ\"ג ואף אם תבא אשתו אח\"כ כיון שכבר נתן גט לאחותה נאסרה אשתו עליו משום אחות גרושתו כי הרואה שגירש אחותה שמא אינו יודע שזו היתה אשו תחילה ויאמר זה נושא אחות גרושתו ומ\"ה אשת גיסו צ\"ג לעולם אף כשבאים יחד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:20"
+        },
+        "21": {
+          "he": "הולד הראשון ממזר  פירוש משנולד קודם שמתה הראשונה והאחרון פי' שנולד אח\"כ ועי' סי' י\"ז בסופו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:21"
+        },
+        "22": {
+          "he": "קדשני סתם זהו מתשובת הרא\"ש כלל ל\"ב דין א' וז\"ל שלא יצא עליה עדים של קידוש מותרת לבן אחיו אבל אם יש עדים ששמעו מפי האשה שאמה קדשני ראובן בפני עדים והלכו למ\"ה נאסרה בקרובה ראובן עפ\"י דבורה אבל אם אמרה קדשני סתם ולא אמרה בפני עדים אין בדיבורה כלום דקידושין שלא בפני עדים לאו קידושין נינהו ואפילו שניהם מודים לדבר עכ\"ל ולא עמדתי ע\"ד רבינו אשר בתשובה זו דמיירי שם שכבר נתקדשה לבן אחיו כמבואר שם בשאלה דק\"ל כיון שאין שם עדים אלא מפיה שאומרה קדשני בפני עדים והלכו להם למ\"ה היא אינה האמנת להפקיע עצמה מיד איש שקדשה כדאיתא בפ\"ק דקידושין דף י\"ב דיהודי' דביתהו דר' חייה דאמרה אמרה לי אם קיבל ב\"ד קידושין כי זוטרי' ובעלך אסור לך אר\"ח לאו כל כמינ' דאמך דאסרת לך עילואי ה\"נ אע\"פ דקי\"ל בפ' האומר דאשה שאומרה קדשתני והוא אומר לא קדשתיך היא אסורה בקרוביו מ\"מ הכא שאני שכבר קבלה קדושין בחזקה פנויה לאו כל כמיניה אח\"כ להפקיע אותה מיד בעלה דא\"כ כל אשה תוכל להפקיע עצמה מיד בעלה אם תאמר כבר קדשני א' בפני עדים אלא פשיטה שאינה נאמנת כדאית אסיק קט\"ו לענין זנות תו תמיה לי הרבה באומרה קדשני סתם דלאו כלום הוא דאמאי לא נימא דמה שאמרה קדשני ראובן ודאי כדין קידושין קאמרה דהיינו בפני עדים דאפילו באומרה בפני עדים אכתי נימא שמא היה פסול בקדוש כגון שלא היה ש\"פ אלא ודאי מסתמ' כדין קדושין קאמרה כ\"ש שנימא בזה שהוה בפני עדים וניזול לחומר' ונימא שהיה שם עדים והלכו למ\"ה וע' בסי' מ\"א תרצתי הכל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 15:22"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "קדושין תופסין.  עבה\"ט מ\"ש נסתפק בד\"מ בערוה דרבנן כו' וע' בס' בית מאיר מ\"ש בזה. ומ\"ש הבה\"ט בשם כנה\"ג שהקשה דהא ממ\"נ לא חיילי קדושי שני. עיין בס' מעין גנים מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 15:1"
+        },
+        "2": {
+          "he": "אבל אם אמו.  עיין בתשו' הרדב\"ז ח\"א סי' שנ\"ב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 15:2"
+        },
+        "3": {
+          "he": "היא בלבד.  ע' בס' בית מאיר הבי' בשם היש\"ש שכ' בזה\"ל אני תאב אם יבא לידי אם אם אבי אביו או אם אם אבי אמו ואפסדי' לסעודתי' ע\"כ. ועיין בס' בני אהובה פ\"א מהלכות אישות דין ו':",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 15:3"
+        },
+        "4": {
+          "he": "על שפחתו.  עיין בתשובת הרמ\"ע מפאנו סי' קי\"ו:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 15:4"
+        },
+        "5": {
+          "he": "בת אשתו.  עי' בס' שעה\"מ פ\"י מה' אישות בקונט' חופת חתנים ס\"ה שהבי' לשון התוס' בר\"פ נושאין ד\"ה עריות (שכתבו וז\"ל וא\"ת כיון דאיסור אשה ובתה מערות אשה ובתה לא תגלה נפקא אימ' שלא אסר הכתוב אלא היכא דגלי ערות שתיהן אבל נכנס' לחופה ולא נבעלה מותר לגלות ערות האחרות ואר\"י דסברא היא כיון דכתיב שאר בקרא על ידי הנישאוי' בא השארות ע\"כ) וכ' ע\"ז שמדבריהם מבואר דדוקא בנכנס' לחופה הוא דאסור מה\"ת בבת' אבל בקידושין גריד' לא וזה מבואר ממאי דנקטי בקושייתם נכנס' לחופה ולא נבעלה ואי ס\"ל דאפי' בקדושין נמי אסור עדיפא מיניה הו\"ל להקשות וכן ממה שתירצו כיון דכתיב שאר ע\"י הנישואין בא השארות מבואר ג\"כ דדוקא בנכנס' לחופה דשייך שארות הוא דגלי קרא אבל בקידושין לא דהא קיי\"ל דאשתו ארוס' אינה יורש' ואינו מטמא לה דלשארו כתיב והא לאו שארו היא כמ\"ש רש\"י ביבמות דכ\"ט ובכתובו' דנ\"ג. וכן מבואר מלשון הברייתא שם נשא אשה אסור לישא בתה ולא קתני קידש אשה אך הרמב\"ם ז\"ל פ\"ב מהא\"ב דין ז' כתב בהדיא דה\"ה בקידש והה\"מ כתב ע\"ז דזה מבואר בהרבה מקומות ולא ידעתי איך כתב דזה מבואר בדבר שהוא מחלוקת וצ\"ע כעת עכ\"ד (שוב ראיתי בס' בית מאיר שהלך ג\"כ בדרך זה להוציא כן מלשון התו' הנ\"ל ע\"ש) . ולפי דבריו אם אירס אשה ושוב קידש את בתה חוששין לקדושין וצריכ' גט וכן אם נפלה בתה לפניו ליבום תזקק לחליצ' לחוש לדעת התוס'. אך לע\"ד אי אפשר לומר כן בדעת התוס' כלל דבקידושין גרידא ליכא איסור מה\"ת ובודאי דברי הה\"מ הנ\"ל שפתיו ברור מללו דזה מבואר בהרבה מקומות דהא אי' בקדושין דף נ' ע\"ב במשנה המקדש אשה ובתה או אשה ואחותה כאחת כו' ושם בגמרא דף נ\"א איתמר קידושין שאין מסורין לביא' כו' תנן המקדש אשה ובת' כו' ע\"ש כל הסוגיא מבואר להדיא דגם בקידושין איכא איסור אשה ובת' מה\"ת. ועוד מבואר כן להדיא במס' נזיר דף י\"ב א\"ר יוחנן האומר לשלוחו צא וקדש לי אשה סתם אסור בכל הנשים כו' אמר רבא ומוד' ר' יוחנן באש' שאין לה לא בת כו' ולא אם כו' ע\"ש דהא התם אין חשש רק בקרוב' שהיא ערו' דאוריית' כמבואר באחרונים לקמן סי' ל\"ה סעי' י\"א ע\"ש ועוד מבואר כן בריש מס' דרך ארץ שהזכיר רש\"י בנזיר שם בד\"ה חזקה שליח ע\"ש ודברי הרמב\"ם הנ\"ל הוא ממש לשון המסכת דרך ארץ שם. מעתה צ\"ל בכוונת התוספת דנקטו בקושייתם נכנסה לחופה ולא נבעלה דנקטו לרבותא דאימ' דקפיד קרא אביא' דוקא אבל בלא ביאה אפילו נכנסו לחופה יהא מותר לגלות ערות האחרת ומכ\"ש בנתקדשה לבד (ואיני מבין מ\"ש השער המלך הנ\"ל ואי סבירא לי' דאפילו בקדושין נמי אסור עדיפא מיניה הו\"ל להקשות ולע\"ד נהפוך הוא דהשתא דנקטו נכנסה לחופה קושיתם עדיפא ומה שתירצו כיון דכתיב שאר בקרא וע\"י הנישואין באה השארות. צריך לדחוק דר\"ל כיון דחזי' דלא קפיד קרא אביאה דוקא דגם בנכנסה לחופה ולא נבעלה אסור לגלות ערות האחרת ממילא דה\"ה בקידושין לבד כמו בכל ערות ויגיד עליו ריעו שדברי תו' אלו כתובים ג\"כ בדף ג' ריש ע\"א בשינוי קצת ושם מסיימי התו' אלמא בקידושין תליא מילתא ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 15:5"
+        },
+        "6": {
+          "he": "לאחר מיתתה.  עמ\"ש לקמן סכ\"ז ס\"ק י\"ג בשם המל\"מ פ\"ב מהא\"ב דין י\"א (וע\"ש עוד במל\"מ סוף דין ההוא שתמה על הטור (והש\"ע) שהשמיט ולא הביא דין דהנטען על האשה אף שאינו אלא קול בעלמא דאסור בקרובותיה והיא ברייתא מפורשת ר\"פ נושאין הביאוה הרי\"ף והרא\"ש והרמב\"ם וכבר נתעורר על זה מהרח\"ש כו' ע\"ש. וע' בתשובת חתם סופר סי' מ' אודות אחד שנטען על אשת איש ע\"י ראיית דברים מכוערים ועתה נשתדך עם אחותה אם מותר בה. והאריך בזה ומסיק דודאי אסור לכנסה ואפילו נשאת היה ראוי להוציא אלא שלא אחליט למעשה כיון שלא נשאלתי על זה אבל חלילה להיות יד עם פועלי און להתיר נישואין ע\"ש):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 15:6"
+        },
+        "7": {
+          "he": "אם אשתו ואמ'.  עי' בס' דגול מרבבה שכ' תמיהני מאד על כל הראשונים והאחרונים שלא הרגישו כלל לחלק שהרי חמותו לאחר מיתת אשתו לדעת הרמב\"ן והרשב\"א אינה לא במיתה ולא בכרת ולא בלאו רק איסור דארור שוכב עם חותנתו וע' בספרי נו\"ב סימן כ\"ו (יובא לקמן סכ\"ד ס\"ק ט' וא\"כ אם קידש חמותו אחר מיתת אשתו צריכה גט מספק ואמנם בבת אשתו אחר מיתת אשתו יש לי אריכות דברים. וראיתי שהכנה\"ג הרגיש בחמותו לאחר מית' בסי' קע\"ג לענין חליצה וכאן שתק. שוב מצאתי בחידושי רשב\"א פ' נושאין כ' שאם קידש חמותו או אם חמותו ואם חמיו לאחר מיתת אשתו תפסי בה הקידושין עכ\"ד. וע' בתשובת רבינו עקיבא איגר סימן קכ\"א בד\"ה ואעפ\"כ שגם הוא ז\"ל תמה כן דהול\"ל לחלק דבמתה אשתו קדושין תופסין באמה לחוש לדעת הרמב\"ן והרשב\"א כו' והניח בצע\"ג ע\"ש וע' בתשובת נו\"ב תניינ' סי' קמ\"ח יובא קצת לקמן סי' קע\"ג ס\"א:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 15:7"
+        },
+        "8": {
+          "he": "ואשת אחי אמו.  בין מן האם כו' כתב הב\"ש ס\"ק ט\"ז וז\"ל ואשת אחי אם מן האם כתבו תו' (ביבמות דף כ\"א ע\"ב ד\"ה לא אסרו) דדורות האחרונים אסרו ומ\"מ נראה מרמב\"ם והטור דדמי לשאר שניות לכל דבר וכופין ג\"כ על שניה זו כמו על שאר שניות לכך מנו שניה זו בכלל שאר שניות ולא כיש שרוצים להקל בשני' זו דאין כופין עליה לגרש וליתא עכ\"ל. וע' בתשו' מנחת עני סי' נ\"ד בעובדא שאחד נשא אשת אחי אם מן האם בשוגג שאומר מותר ואח\"כ נודע הדבר אס כופין אותו לגרש. והאריך לצדד להקל דאין כופין אותו משום דאפילו בשניה ומורה יש לדון בעבר ונשא בשוגג כסבור מותר אם כופין אותו לגרש דהא דין זה דכופין לגרש בשניות לא נמצא מבואר רק בברייתא ביבמות דף פ\"ה ושם מיירי בעבר במזיד אבל בשוגג כסבר מותר י\"ל דאין כופין בדיעבד וכמו דמחלקי' גבי מים שאל\"ס בסי' י\"ז סל\"ד בהגה ואף שהב\"ש בסי' זה ס\"ק י\"ח כתב לחלק בין מים שאל\"ס לשניות דבשניות הוי טועה בדבר משנה לא הועיל לחלק אלא לענין הוראת חכם אבל לענין עבר שוגג באומר מותר אין שום טעם לחלק ביניהם כו' ואמנם בשני' גמורה לא מפני שאנו מדמין נעשה מעשה ובפרט מדברי הירושלמי שהביא הרא\"ש שלהי פ' המדיר משמע קצת דגם בשניות אין חילוק בין שוגג למזיד וגם דברי הרא\"ש שם מטין כן ממה שהוציאו מקור דין זה דכופין לגרש בשני' מהירושלמי ולא מברייתא דיבמות הנ\"ל אך בנ\"ד באא\"א מן האם דלא גזרו בה אלא בדורות האחרונים וכבר שדו בה נרגא היש מקילין שהביא הב\"ש להוציא מכלל שאר שניות ולומר שאם עבר וכנס אין מוציאין נראה דעכ\"פ בעבר בשוגג כמו בנ\"ד דסבור שהוא מותר אין אנו אחראין לכופו לגרש כן נלע\"ד באופן שיסכימו אחד או שנים מגדולי הוראה עכ\"ד ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 15:8"
+        },
+        "9": {
+          "he": "ויש מי שאוסר.  עי' בתשובת נו\"ב סימן כ\"ו שהאריך בזה ועלה בדעתו לחלק דע\"כ לא אסר הירושלמי אלא בחיי אשתו שאז חמותו ממש היא ערוה גמורה בשרפה אבל אחר מיתת אשתו דאפילו חמותו ממש קליש איסורא לפ\"מ דקיי\"ל כר' עקיבא גם הירושלמי מודה דלא גזרו וראיה מיבמות צ\"ח ע\"ב גבי גרים ע\"ש ויש לומר דגם ר\"ת והרא\"ש דאסרו באשת חמיו מיירי דוקא בחיי אשתו ואף שכבר נתפשט בימיהם חרגמ\"ה י\"ל דמיירי שגירש אשתו והיא בחיים אבל אחר מיתת אשתו לא גזרו. ושוב צידד להחמיר דאולי מה דאסרו בירושלמי מפני מ\"ע אין הכוונה שיטעו שהיא חמותו אלא שיטעו בין חמיו לאביו ויאמרו שזו אשת אב וא\"כ אין חילוק ועוד דגם בחמותו לאחר מיתת אשתו יש פוסקים כר' ישמעאל דלא קליש איסורא כמ\"ש הש\"ד ביו\"ד סימן רס\"ט סק\"י. וסיים דלע\"ע אין בידו להקל ע\"ש: (וע' בתשובת חתם סופר סי' ל\"ח האריך ג\"כ בזה ומסיים מכל הלין נ\"ל דיש סמך גדול להתיר אחר מיתת אשתו אלא שיש קצת לפקפק מדלא נמצא היתר זה מפורש בשום מקום אפשר לא פלוג רבנן כו' וע\"כ לבי נוקף להתיר ולהיות סניף כלל רק הצעתי הדברים להלכה ולא למעשה ומי שדעתו רחבה מדעתינו יתקע עצמו לדבר הלכה ע\"ש) . וע' בת' הרדב\"ז ח\"ב סימן תרע\"ה מזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 15:9"
+        },
+        "10": {
+          "he": "שאוסר.  עבה\"ט מ\"ש ואם כבר נשא אשת חמיו כ' בת' צ\"צ כו' וע' בס' בית מאיר שכ' דהמעיין בתשו' צ\"צ שם יראה כי לא מה\"ט התיר רק מטעם אחר חדא משום לעז בנים ותו משום דרבו המתירין אפילו לכתחלה ואנו לאסור בדיעבד ומביא ראיה ע\"ש ולע\"ד הראיה מבוארת מסי' קס\"ד ס\"ז כו' ע\"כ יפה הורה הצ\"צ ולא כיש\"ש שפסק ע\"פ הנ\"י לאסור אף דיעבד כו' ע\"ש. ובענין אשת חתנו הביא בס' ב\"מ שם דברי היש\"ש שכ' תאב אני מתי יבא לידי ואתיר ואי איישר חילי אבטליניה והובא ג\"כ בספר ק\"נ פ\"ב דיבמות אות ט' ומ\"ש הבה\"ט בשם ב\"ש ואם נשא שני' ע\"פ אונס ועבר האונס כו' עי' בס' ב\"מ שכ' עליו קשה במאי דמיירי אם באנס שאנס שניהם לישא זא\"ז וביראת מיתה תמה אני אם יש מקום לקדושין ונשואין כאלו לחול אף להצריכה גט וק\"ו הוא ממה דקי\"ל ר\"ס מ\"ב דאם אנס אשה וקידשה א\"צ גט מכ\"ש היכא ששניהם אנוסים כו' ואי איירי כשהי' הרשיעה ומוסרו ביד אנס עד שקידשה ונשאה באונס דידה ורצון דידה דבזה פסקי' שם דעכ\"פ מקודשת מספק א\"כ פשיטא שמחוייב לגרשה מפני איסור דידה דהא כל איסורי עריות ושניות שניהם שוים באיסור עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 15:10"
+        },
+        "11": {
+          "he": "שאשתו קיימת.  עיין בתשובת מגיד מראשית מהרב רבי חיים אלפאנדרי ס\"ס ב' שחקר בב' אחיות דאסרן הכתוב דוקא בחיי'. אם היה ראובן נשוי עם לאה ונעשית טריפה בחייה כגון ניקב קרום של מוח וכיוצא וקידש לאחותה אי הוי מקודשת דלא מקרי בחיי' כיון שטריפ' אינה חיה ע\"ש שלא העל' בזה דבר ברור ולע\"ד אין כאן מקום ספק כלל דודאי מקרי בחייה עיין בנדה דף כ\"ג בפרש\"י ד\"ה למימרא דחיי ובתוס' שם ובב\"ש לקמן סימן ל\"ז סק\"ב ודו\"ק:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 15:11"
+        },
+        "12": {
+          "he": "ובאו עדים.  עבה\"ט מ\"ש גם אינו נאמן עד אחד כו' ועמ\"ש מזה לעיל סימן א' ס\"י ס\"ק י\"ד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 15:12"
+        },
+        "13": {
+          "he": "בקרובות שניה.  עבה\"ט מ\"ש כתב ב\"ח ודרישה דוקא אחר מיתת השניה כו' עד וב\"ש הסכים עם הדרישה וב\"ח. ועיין במל\"מ פ\"ב מהא\"ב דין י\"א שהבי' דבריהם וכתב שלא ישרו בעיניו (מטעמים שביאר שם) ובירורן של דברים לדעתו ז\"ל הוא דמותר אף בחיי השניה ולא דמי לסעיף י\"ג מתרי טעמי חדא דשאני הכא שהיו שניהם שוגגים שהיו סבורים שמתה הראשונ' ומש\"ה לא גזרו רבנן (ואף אם היא היתה מזידה רק הוא היה שוגג או אנוס. ג\"כ דעתו דלא גזרו דהכל תלוי בדידיה. אלא שזה אינו ברור בעיניו כ\"כ) ועוד דהכא אין טעם שיאסור בקרובות שניה דאף אם לא ישא קרובות שני' הרי השני' באה לבקר את אחותה ואיכא חשש זנות נמצא דבמה שנאסר אותו בקרובות שניה לא הועלנו כלום. וכתב דב' הטעמים הם אמת לדינא ונ\"מ דאף אם מתה (או נתגרשה) הראשונה מותר בקרובות השניה אף בחיי השני' מטעם הא'. וגם אם זינה עם אחות אשתו ברצון מותר בקרובות שניה כ\"ז שהראשונה שרויה אצלו מטעם הב'. אבל אם מתה או נתגרש' הראשונה אסור בקרובות שניה עש\"ב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 15:13"
+        },
+        "14": {
+          "he": "הקרוב' רגיל'.  עב\"ש ס\"ק כ\"ב שכתב ודין זה צ\"ע דהא הנ\"י כתב כו' ועיין במל\"מ שם שכ' עליו לא מצאתי טעם לקושי' זו נהי דאמרו דאם כנס לא יוציא מ\"מ ברגילה החמירו דרגלים לדבר שהרי היא רגיל' לבא בביתו וגם מ\"ש דהש\"ג ס\"ל דלא אמרו לא יוציא אלא בחשד לא ידעתי איך נתקררה דעתו בזה כו' וכתב עוד שהוא תמה על הרמ\"א ז\"ל שסתם וכ' אם הקרובה כו' דמשמע שדין זה היא בכלל העריות והשה\"ג לא אמרו אלא אם זינת' חמותו ואם ואפשר דדוקא בחמותו אמרו דגייס' בי' מחמת בתה ולא בשאר עריות וכדמצינו להראב\"ד בפרקין דין י\"ב שחילק כן לענין אחר ע\"ש: (ועיין בספר בית מאיר ובספר עצי ארזים ובשו\"ת חתם סופר סימן מ' מענין זה):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 15:14"
+        },
+        "15": {
+          "he": "אחות אשתו.  (כתב בס' בר\"י אם שידך איש את לאה אין ראוי לבטל שדוכי לאה ולקחת רחל אחותה אף שלא היו בה קדושין דהרהורי עבירה קשים מעבירה וכן כיוצא בזה משאר עריות. כלי יקר שמואל א' סימן י\"ח:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 15:15"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "תופסין בהם.  נסתפק בד\"מ בערוה דרבנן אם קידש א' ואח\"כ קידשה עוד אחר אז צריכה גט משני גם בחייבי לאוין דק\"ל קדושין תופסין בהם אם קידשה שני אם צריכה גט מדרבנן משני ח\"מ. והב\"ש כתב עליו לא ראיתי שם ספק בדבריו אלא דס\"ל בפשיטות דתופסין קידושין של שניהם. ואני אומר דלא ראיתי אינו ראיה. יראה הרואה בד\"מ הנדפס בטור מצדו שכתב בפירוש וצ\"ע אם קידש איסור דרבנן ובא אחר וקידשה אי צריכה גט משני מאחר דאינם קידושין מדאוריית' כלל אפשר דלא החמירו בה רבנן וצ\"ע עכ\"ל ע\"ש. עוד כתב הח\"מ הנה מה שנסתפק צריך לומר דוק' כשהיא על השני לאו ערוה כלל אבל אם היתה ערוה לשני כמו לראשון לא תפסו קדושין של השני וה\"ה בחייבי לאוין הדין כן ע\"ש. וב\"ש חולק עליו ופסק אפילו אם היא ערוה ג\"כ לשני תופסי' קדושין וצריכה גט ג\"כ משני והביא ראיה מסי' מ\"ב שמצא כתוב שהבי' ב\"י ע\"ש ואני אומר אין מביאין ראיה מן הדבר תימא דשם באמת תמוה הוא שצריכה גט משניהם דהא ממ\"נ לא חיילי קידושי שני ע\"ש וכן הקשה כנה\"ג בסי' מ\"ב בהגהת ב\"י וכתב שם ששאל לרבו קושי' זו וכן בתשובת הרא\"ש נתקשה בזה והניח בצ\"ע עיין כנה\"ג דף ע\"ו ע\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 15:1"
+        },
+        "2": {
+          "he": "אבל בת אנוסתו.  ה\"ה בת פלגשו מותרת לו אחר מיתתו ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 15:2"
+        },
+        "3": {
+          "he": "ויש מי שאוסר.  ואם כבר נשא אשת חמיו כתב בתשובת צמח צדק סי' מ' אם נשא ע\"פ בעלי הוראה מפורסמים לא תצא. וב\"ש חולק עליו ע\"ש וכ\"כ בה\"י ועיין בי\"ד סי' קנ\"ד לענין יהרג ואל יעבור נשמע שם על שניה יעבור ואל יהרג וכ\"כ ש\"ך. ואם נשא שני' ע\"פ אונס ועבר האונס צריך לגרש אותה. ועיין ב\"ש שכתב מה שכתב רש\"י לא ילחצנה במלחמה שלא יבא עליה במלחמה לאו כוונתו דביאה הראשונה אסורה עד אחר הנשואין אלא כוונתו דלא יבא עליה במלחמה עד שמביאה לביתו ואז מותרת לו מיד קודם הנשואין ובזה מיושב כמה קושיות של תוס' עכ\"ל. אישתמיטתא להב\"ש דברי המזרחי בפרשת כי תצא שרוצה בתחילה ג\"כ לומר כן ואח\"כ דחה סברה זו והוכיח שעל כרחו לומר שרש\"י ז\"ל סובר שהביאה ראשונה ג\"כ אחר כל המעשים הללו ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 15:3"
+        },
+        "4": {
+          "he": "אחות אשתו אסורה.  ואם קידש על תנאי ולא נתקיים התנאי הוי כאלו לא קידש ומותרת בקרוביו ב\"ש. כתב הב\"י הבא על א\"א והיא אחות אשתו ומתה אשתו אח\"כ. וגם אח\"כ מת בעל האשה אם אסורה לו מטעם דנאסרה לבעלה כיון דבלא\"ה היתה אסורה לו תמצא בכתבי מהר\"ר איסרלן סי' כ\"ט. וכתב ד\"מ הנדפס מצדו שם דאסורה דכשם שאסורה לבעל כך אסורה לבועל אע\"ג דבשעה שהיה בועלה היתה בלא\"ה אסורה לו משום אחות אשתו ע\"כ. וכ\"כ כנה\"ג בשם הרדב\"ז ח\"ב וכן יש לדקדק מדברי התוס' פרק האשה רבה ד\"ה אשת גיסו אסורה דקנסינן ליה קנסא וכו' ע\"ש לפ\"ז יש לומר דזהו פירש הרמ\"א סי' י\"א דכתב וה\"ה אם נאסרה בשבילו לבעלה אסורה לו וק\"ל. וכנה\"ג העתיק עוד תשובת הרדב\"ז ח\"ב שכתב שה\"ה לחייבי לאוין כגון אשה גרושה שנשאת ובא עליה כהן בעודה א\"א ואח\"כ מת בעלה אסורה לו עכ\"ל. לא הבנתי דבריו דהא גרושה לעולם אסור לכהן:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 15:4"
+        },
+        "5": {
+          "he": "ובאו עדים.  דוק' עדים אבל ע\"א אינו נאמן שמתה אשתו שישא אחותה ב\"ש. גם אינו נאמן ע\"א שמעיד שאשתו מת ורוצה לישא אשה אחרת משום חר\"ג עיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 15:5"
+        },
+        "6": {
+          "he": "שניה.  ר\"ל דמותר ליקח בתה. כתב ב\"ח ודרישה דוק' אחר מיתת השניה מותר ליקח בתה ולא בחייה כמ\"ש סעיף י\"ג. וט\"ז חולק עליהם דלא דמי להתם. וב\"ש הסכים עם הדרישה וב\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 15:6"
+        },
+        "7": {
+          "he": "לגרש אשתו.  ב\"ש חולק וכ\"כ ט\"ז דאין כופין אותו לגרש ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 15:7"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

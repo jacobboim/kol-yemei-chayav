@@ -1,0 +1,236 @@
+{
+  "chelek": "EH",
+  "siman": 160,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 8,
+  "fetchedAt": "2026-07-08T00:09:01.625Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "חיוב מזונות היבמה וקבורתה ודין נכסיה וירושתה. ובו ח סעיפים:יבמה שלשה חדשים הראשונים ניזונת משל בעלה ומעשה ידיה ליבם מכאן ואילך אינה ניזונית לא משל בעל ולא משל יבם עמד בדין  (לאחר שלשה חדשים) (ריב\"ש סי' ק\"ד)  ותבעתו לייבם או לחלוץ  (לפני ב\"ד)  ונתרצה לייבם ואירעו אונס שחלה או שהוצרך לברוח מחמת ממון או מחמת מרדין חייב במזונותיה בלא שבועה:",
+      "en": "The yevamah--for the first three months she is provided for from the estate of her [dead] husband, and her handiwork belongs to the yavam. After this point she is not provided for, neither by her husband nor by the yavam. If she goes to court after three months (Ribash, siman 104) and demands that he have levirate marriage with her or release her in front of the court, and he wants to have levirate marriage but an unforeseen circumstance prevents it, that he gets sick or must run away due to a financial matter or due to oppressors, he must supply her with sustenance without [her being obligated] for an oath.",
+      "ref": "Shulchan Arukh, Even HaEzer 160:1"
+    },
+    {
+      "seif": 2,
+      "he": "הניחה מעוברת הרי זו ניזונית עד שתלד ילדה ולד של קיימא הרי זו ניזונית כל ימי אלמנותה כשאר כל הנשים:",
+      "en": "If he left her pregnant, she is provided for until she gives birth. If she gives birth to a viable fetus, she is provided for as long as she is a widow, as are all women.",
+      "ref": "Shulchan Arukh, Even HaEzer 160:2"
+    },
+    {
+      "seif": 3,
+      "he": "נפלה לפני יבם קטן אין לה מזונות עד שיגדל: הגה  ילדה ספק נפל שדינה לחלוץ ולא להתייבם כמו שנתבאר לעיל סי' קנ\"ו נוטלת כתובתה מיד הג\"מ הא דאינה ניזונית משל יבם קטן היינו מנכסיו ואפילו נדוניא שהכניסה לבעלה והחזיק בה אבל לא החזיק בנדוניא שלה כגון שעדיין מונחת ביד שליש ניזונית מנדונייתה כ\"ש במקום שהיא אומרת שיתנו הנכסים לידה והיא רוצה לקיים הקרן עד שיגדל הנער ולזון מן הריוח שנותנין המעות לידה (שם בשם הרי\"ף):",
+      "en": "If she fell before a yavam who is a minor she does not receive sustenance from him until he becomes and adult.  Rema: If she gave birth to a suspected stillborn, when she would be required to perform Chalitzah and not Yibum, as was explained earlier in Se'if 156 she takes her Ketubah money right away.  There are those who say that she only doesn't receive sustenance from a minor yavam's property, even the dowry that she brought in for her original husband and he [the minor] seized, however if he did not take possession of her dowry, as in a case where a third party is holding it, she receives sustenance from her dowry, certainly in a case where she says that the property should be given to her possession and she would like to maintain the principal until the minor becomes an adult and she will get sustenance from the profits that they give her the money.",
+      "ref": "Shulchan Arukh, Even HaEzer 160:3"
+    },
+    {
+      "seif": 4,
+      "he": "מעשה ידיה שלה לעולם אפילו היא ניזונת ודוקא לאחר שלשה חדשים) (ד\"ע):",
+      "en": "Her profits are her's forever, even if she receives sustenance from another source. Rema: Only after three months.",
+      "ref": "Shulchan Arukh, Even HaEzer 160:4"
+    },
+    {
+      "seif": 5,
+      "he": "נפלו לה נכסים בעודה שומרת יבם מוכרת ונותנת וקיים שאין ליבם בהם כלום עד שיכנוס ואפילו עשה בה מאמר וה\"ה אם נשארת אלמנה מן האירוסין ונפלו לה בעודה ארוסה שמוכרת ונותנת וקיים דלא עדיף יבם מבעל:",
+      "en": "If moneys came to her while she was awaiting her levirate marriage she may sell them or give them away and these [transactions] are upheld for the man who will marry her has no claim to them until he takes her in. Even if he made a verbal commitment. This is the case if she is a widow from engagement and she came into the money while she had been engaged, she may sell or give away and these [transactions] are upheld for a brother [who will marry her after she is widowed] is no different than a husband.",
+      "ref": "Shulchan Arukh, Even HaEzer 160:5"
+    },
+    {
+      "seif": 6,
+      "he": "אין ליבם פירות בנכסי מלוג של שומרת יבם ובנכסי צאן ברזל שהכניסה לאחיו אין לו בפירותיהם אלא מחצה ויש מי שכתב שגם בהם אין לו פירות כלל עד שיכנוס: הגה והראשון עיקר וי\"א דאפי' נכסי מלוג שנפלו לה בעודה תחת בעלה דינן כנכסי צ\"ב ויחלוקו בפירות (הרמב\"ן והר\"ן פרק האשה) וכן יחלוקו בירושתה אם מתה ובמקום שהפירות שלה כך יכולה למכור בקרקע כפי חלקה בפירות:",
+      "en": "The brother who will marry a widow derives no benefit from property that the widow brings into the marriage until he marries her. And those assets from which the deceased brother was allowed to derive benefit; he only gets half of the proceeds. There are those that write: that he has no proceeds at all until he marries her. REMA: And the first opinion is correct. And there are those that say that property that she brings into the marriage which she received while she was still married are equal to those assets that the first husband had benefit from and thus the proceeds are split (Ramban, Ran, in Chapter The Woman). And so too her inheritors would split them if she dies. But, in a situation where the profits are hers, she may sell her land according to her portion of the proceeds.  ...",
+      "ref": "Shulchan Arukh, Even HaEzer 160:6"
+    },
+    {
+      "seif": 7,
+      "he": "מתה כשהיא שומרת יבם יורשיה יורשין נכסי מלוג שלה וחצי נכסי צאן ברזל  (וכן אם נתן לה היבם מתנה יורשיה יורשין אותה) (מהר\"מ פדואה סי' י\"ז)  ויורשי הבעל יורשים עיקר כתובתה ותוספת וחצי נכסי צאן ברזל ויורשי הבעל חייבים בקבורתה: הגה וי\"א דכל נכסי צ\"ב שלה הם בחזקת יורשי הבעל כמו הכתובה (ר\"ת והרא\"ש) ואין מוציאין מידם אם הם מוחזקים (כ\"כ הר\"ן בתשובה) וכ\"ז במקום ובזמן שאין כופין לחלוץ אבל במקום ובזמן שכופין לחלוץ א\"כ לא היתה ראויה להתייבם י\"א דאין הנכסים בחזקת יבם ולכך אם מתה אינה יורשה ולכך במדינות שכופין לחלוץ אינו יורשה לדעת זה (מהרי\"ק שורש צ\"א) ולענין מי נקרא יורשי הבעל צ\"ע כי י\"א שהיבם הוא יורש אע\"ג דאביהם עדיין חי והוא קודם בירושת הבעל לכל יוצאי יריכו (מהרי\"ו סי' מ\"א והר\"ן פ' האשה ומהר\"מ פדואה סי' י\"ז) וי\"א דהאב יורש דמיד שמתה היבמה פקעה זיקת יבמים ונפלה הירושה לפני הקודם בירושת הבעל (מהרי\"ק שורש צ\"א) ואע\"פ שהסברא נותנת כסברא האחרונה וכן משמע קצת לשון יורשי הבעל אבל סוגית הגמרא והירושלמי פרק האשה שנפלו משמע שהיבם יורש השומרת יבם וא\"כ אין לאב חלק בירושתה וכסבר' הראשונה ואם היבמים רבים עיין לקמן סי' קס\"ה:",
+      "en": "If she dies while waiting for her levirate marriage, her inheritors receive all the property she brought into the marriage and half the property that the husband was allowed to derive benefit from. REMA: So too if her levirate husband gave her a gift her inheritors inherit it. (Maharam Padua #17). And the inheritors of the husband receive her ketubah and the additions to it and half the funds she brought into the marriage. The inheritors of the husband are obligated to pay for the burial. REMA: And there are those who claim that all the properties that her husband is allowed to derive benefit from are in the possession of the husband's inheritors like the ketubah (Rabbeinu Tam and the Rosh), and they can not be removed from the inheritors if they possess them (the Ran wrote this in a responsum). All this is in a place and time when we do not force halitza, but in a place and time when we force halitza, so too if she was not fitting to be married by the brother, then there are those that say that the properties are not in the possession of the brother, and so, if she dies, he does not inherit her; therefore, in a place where we force halitza he does not inherit her according to this opinion (Maharik #91). And, as to who is called the inheritor of the husband, it requires further investigation, for there are those that say that the brother is the inheritor even if their father is still alive, and this brother is ahead of the husband and all his progeny (Mahari'u #41 and the Ran chapter The Woman and Maharam Padua #17). Yet, there are those that say that the father inherits, for as soon as the widow dies the brothers no longer have a claim, and the inheritance falls to whomever was first in line to inherit the (dead) husband (Maharik #91). And, even though logic seems to lean towards the last opinion, and so the language of \"inheritors of the husband\" seems to point, but the talmud and the Jerusalem talmud chapter The Woman Who Inherited, seem to state that the brother inherits the property of a widow who is waiting for levirate marriage. Thus the father has no claim on her property like the first opinion. If there are a number of brothers see #165 below.",
+      "ref": "Shulchan Arukh, Even HaEzer 160:7"
+    },
+    {
+      "seif": 8,
+      "he": "ראובן שמת ולו שתי נשים ונשארו זקוקות ליבם ומתה אחת מהן אין ליבם שום טענה בנכסים לפי שהשניה בפניו: הגה ספק שומרת יבם שמתה אין יורשי הבעל יורשין אותה דהם ספק ויורשיה ודאי (ב\"י בשם הרשב\"ץ) ואין ספק מוציא מידי ודאי (כדלקמן סי' קס\"ג):",
+      "en": "Reuven died, and he has two wives who are entitled to marry the brother, and then one of the widows dies, the brother has no claim on the assets because the second wife is ahead of him. REMA: If there is a question as to whether or not a woman is entitled to levarite marriage and she dies, the inheritors of the husband do not inherit her, for they are doubtful and her inheritors are certain[ly entitled] (Beit Yosef in the name of the Rashbatz) and doubts never force release of property in the face of certainty. ...",
+      "ref": "Shulchan Arukh, Even HaEzer 160:8"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ברייתא יבמות ד' מא ע\"ב וכמו שפירש\"י שם דג' חדשים הראשונים שאינה יכולה להנשא מחמת בעלה ניזונת משל בעלה שכן כותב לה ואת תהא יתבי בביתי וכו' כן הוא בגמ' ופוסקים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 160:1"
+        },
+        "2": {
+          "he": "שם בברייתא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 160:2"
+        },
+        "3": {
+          "he": "טור וכפי' התוס' והרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 160:3"
+        },
+        "4": {
+          "he": "שם בשם הרמב\"ם בפי\"ח מה\"א וכתב ה\"ה שכל ימי עיבורה הם כג' חדשים הראשונים שגם בהם אינה יכולה להתייבם ולא לחלוץ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 160:4"
+        },
+        "5": {
+          "he": "מסקנת הגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 160:5"
+        },
+        "6": {
+          "he": "טור וכ\"כ התו' והרא\"ש שם בבריי' הנזכרת לעיל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 160:6"
+        },
+        "7": {
+          "he": "משנה שם דף לח ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 160:7"
+        },
+        "8": {
+          "he": "שם וכ\"כ הרמב\"ם בספ\"ג מה' נחלות וכדאמר (רבא) דמאמר לב\"ה אינו עושה ספק נישואין שם ריש דף לט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 160:8"
+        },
+        "9": {
+          "he": "כמ\"ש לעיל סימן צ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 160:9"
+        },
+        "10": {
+          "he": "דין הפירות בדין הנכסים וכמו שיתבאר בסעיף שאחריו וכדע' רש\"י הביאו הטור וכ\"כ ה\"ה בשם הרבה מהמפרשים ובשם הרמב\"ן אבל אין לו פירות ונ\"מ כיון דאינו חייב בפדיונה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 160:10"
+        },
+        "11": {
+          "he": "הרמב\"ם בפכ\"ב מה\"א וכתב ה\"ה אולי הוא סובר אין לו זכות אלא בגוף הקרקע אם תמות ולא בפירות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 160:11"
+        },
+        "12": {
+          "he": "משנה שם דף לח ע\"א כגי' רש\"י שם וכפירושו בכתובות דף כ' ע\"ב כי היכא דפליגי אמוראי אליבא דב\"ה אמשנה דנפל הבית עליו ועל אשתו וכו' דפליגי שם ב\"ש וב\"ה כהאי גונא בב\"ב דף ק\"נ ע\"א ה\"נ פליגי אמתני' דהכא וקי\"ל שם כר\"ל וכדתני בר קפרא דהוה רביה דרב יוחנן דיחלוקו וכמ\"ש הרי\"ף שם וכ\"כ הרמב\"ם בפ' הנזכר",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 160:12"
+        },
+        "13": {
+          "he": "רמב\"ם שם וכתב ה\"ה מבואר שם בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 160:13"
+        },
+        "14": {
+          "he": "תשו' הרשב\"א סי' תתפ\"ז ומבואר שם בין שיבם את השניה או יחלוץ אין לו בירושת הראשונה שמתה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 160:14"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "ודוקא לאחר ג' חדשים דאלו תוך ג\"ח כתב הרא\"ש בתשו' הביאו ב\"י ר\"ס זה דמעשה ידיה של היבם והטעם נראה פשוט דתוך ג\"ח ניזונת משל בעלה וה\"ל כשאר אלמנות שניזונות משל יתומים ומעשה ידיה שלהם דהא היבם הוא היורש ודינו כמו אם היה בעלה חי דיורש הוא במקום מוריש משא\"כ אחר ג\"ח ועומד בדין וברח דאין חיוב מן הדין על היבם אלא דקנו ליבם במה שלא כינסה וא\"כ למה יהיה מעשה ידיה ליבם וחנם תמה ב\"י על הרא\"ש והתו' במה שכתבו דמעשה ידיה לעצמה והיינו לאחר ג\"ח ולשון לעולם הנזכר כאן לאו דוקא לעולם דהא ודאי אם כינסה הרי היא כאשתו לכל דבר אלא כ\"ז שלא ניסת אחר ג\"ח קאמר דמעשה ידיה שלה אע\"פ שניזונית משל יבם מצד קנס כ\"ז פשוט:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 160:1"
+        },
+        "2": {
+          "he": "ואפי' עשה בה מאמר  בטור סי' ס בד\"א נכסי מלוג אבל נכסי צ\"ב לא תמכור שיש ליבם זכות בהם עכ\"ל ותמה ב\"י מה שייך נ\"מ או צ\"ב בנפלו לה בעודה שומרת יבם ולק\"מ דכשעשה בה מאמר הכניסה לו הנכסים בדרך זו שיהיה לה נ\"מ ונצ\"ב ובזה יש חילוק בין נ\"מ לצ\"ב אבל במה שהיה לה תחת בעלה מבואר סוף סימן בטו':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 160:2"
+        },
+        "3": {
+          "he": "אין ליבם פירות בנ\"מ זה דעת רמב\"ם וכתבו עליו שהוא נגד הגמרא בפ' החולץ דאיתא שם דדין פירות בחיים הוא שוה לגוף הקרקע לאחר מיתתה ובשניהם יחלוקו רק שהמ\"מ נתן טעם לרמב\"ם כיון שחיוב פדיית האשה כנגד אכילת פירותיה וזה בבעל אבל ביבם שאין חיוב לפדותה ע\"כ אין לו אכילת פירות בחייה מן נ\"מ ובנצ\"ב פסק כאן בש\"ע דיש לו מחצה וזה דלא כרמב\"ם דהרמב\"ם ס\"ל דאין לו פירות כלל גם בזה והיינו דעת היש מי שכת' שכתב הש\"ע כאן ותימא במה שהבי' דעתו של הרמב\"ם במה שנדחו דבריו בתלמיד ערוך בפ' החולץ ובזה אין שום תירוץ אפי' בדברי המ\"מ:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 160:3"
+        },
+        "4": {
+          "he": "ויחלוקו בפירות ומ\"ה כתב  בטור בזה אצ\"ל שלא תמכור בנצ\"ב כו' אלא אפי' נ\"מ לא תמכור פי' הכל לא תמכור אלא אחר החלוקה תמכור חצי שלה ובזה מתורץ קושיות ב\"י:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 160:4"
+        },
+        "5": {
+          "he": "וחצי נכס צ\"ב זה דעת רש\"י ורמב\"ם דמדמין דין זה לההוא דנפל הבית עליו ועל אשתו שהוב' לעיל סי' צ' דיחלוקו בנצ\"ב והי\"א שמביא רמ\"א דעת ר\"ת והרא\"ש דל\"ד לההיא דהתם אם מת הבעל תחלה היה האשה כאלו גבתה כתובתה אבל כאן גבי יבם אין לה כלום עד אחר חליצה ע\"כ הוי בחזקת יורשי הבעל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 160:5"
+        },
+        "6": {
+          "he": "ולכך במדינות שכופין לחלוץ כולי וממילא במדינות אלו הוה ג\"כ הכי שאין יבום כלל ועיקר:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 160:6"
+        },
+        "7": {
+          "he": "אבל סוגית הגמ' כו'  איני כדאי להכריע אבל נלע\"ד אדרבה מוכח מפ' האשה שנפלו דהאב הוא היורש דאיתא בדף פ\"א בברייתא שומרת יבם שמתה יורשיה יורשי כתובתה חייבי' בקבורתה ופרכינן ולומ' אח אני יורש אשתו איני קובר פירש\"י כתובה זו שאני יורש אין כאן מגדונית' כלום אלא מאתים ותוספות שכתב לה אחי ואין אני יורש אותה אלא אחי עכ\"ל וא\"כ אביו למה יפסיד ירושה השייך לו מבנו דדוקא אם הירושה הוא מחמת האשה אז יש סברא לומר דוקא היבם יש לו זיקה משא\"כ עכשיו שהוא מצד הבן שמת דהוא קודם לבנו שהוא היבם ובמסקנ' משמע שסברא זו קיימא אלא ודאי דבאמת ג\"כ הוא כן שכל יורשיו הם שווין לדין זה ולא נקט התלמוד אלא אחיו כיון שהוא ודאי קיים ובמהרי\"ו הביא גמרא זו לראיה שהאח הוא היורש והוא תמוה מטעם שזכרתי ועוד הביא מדאמרי' בפרק האשה שנפלו שם בההוא סוגיא זיקה עושה ספק ארוסה ש\"מ דהירושה משום זיקה דוקא גם אינה ראיה דהתם קאי לענין שלא תמכור מנכסי בעלה ולדידן אין נ\"מ מזה שכבר מבואר דלדידן אין יורשי הבעל יורשים השומרת יבם כיון שאין בינינו אלא חליצה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 160:7"
+        },
+        "8": {
+          "he": "לפי שהשניה בפניו  פי' דאם ייבם או חלץ לזו סולק את הזיקה ע\"כ אין לו טענה בנכסים של המתה ואף אם עדיין לא יבם ולא חלץ מ\"מ כיון שזו לפניו ומצוה עליו לחלוץ או לייבם נסתלק הזיקה מהראשונה וחלה על השני' משא\"כ באין שם אלא יבמה אחת ואין אחרת שיחול הזיקה עליה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 160:8"
+        },
+        "9": {
+          "he": "ויורשי' ודאי נראה טעמו כיון דאפי' אם היא שומרת יבם ודאי יש ליורשים זכות לנכסי מלוג שלה כדלעיל ע\"כ מספק לא יוציאו יורשי הבעל שום דבר מנכסיה אפי' מנצ\"ב דשמא אינה שומרת יבם כלל וק\"ל דהא אית' בסי' קס\"ג סעיף ד' דאין נקר' מוחזק בכל הנכסים בשביל שיש לו זכיה במקצ' נכסיה ע\"ש וא\"כ ה\"נ צריך לפסוק דהחלק שמגיע לה בודאי נוטלים יורשיה והשאר חולקים כמו התם וצ\"ע על הש\"ע שלא הרגיש בזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 160:9"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "בעלה.  ואם צוה הבעל שכל ימי מגר אלמנותה תהיה ניזונית מנכסיו ניזונית והולכת מנכסי המת כל ימי מגר אלמנותה. הרמ\"ט ח\"ב סי' קכ\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 160:1"
+        },
+        "2": {
+          "he": "לייבם.  אבל אם נתרצה לחלוץ או שלא נתרצה כלל אין לה מזונות. ולדעת הרמב\"ם אפי' לא התרצה ליבום חייב במזונות. ואם בורח במזיד י\"ל לכ\"ע חייב במזונות אפי' לא התרצה לייבם. ואם לא ברח אלא נתעכב פה אין חייב במזונות אא\"כ שתבעה ליבם או ליתן לה מזונות ונתרצה ליבם. הרא\"ש ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 160:2"
+        },
+        "3": {
+          "he": "שיגדיל.  היינו אחר ג\"ח אבל ג\"ח הראשונים יש לה מזונות מבעלה. ב\"ש וכנה\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 160:3"
+        },
+        "4": {
+          "he": "מיד.  וכן נמי כשנפלה לפני יבם קטן אם ידוע שכשיגדיל לא יבם אותה גובה כתובתה מעתה הרמ\"ט ח\"א סי' קל\"ג ועיין כנה\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 160:4"
+        },
+        "5": {
+          "he": "מתנה.  וה\"ה אם נתן לה הבעל נכסיו במתנה ומתה בעודה שומרת יבם אין היבם יורשה דה\"ל כנכסי מלוג שהם בחזקת יורשי האשה לכ\"ע. הרש\"ך ח\"ג סי' כ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 160:5"
+        },
+        "6": {
+          "he": "לדעת זה.  ב\"ש הביא פוסקים הרבה דס\"ל דיורש אף למנהג דכופין לחלוץ ע\"ש ועיין ס\"ס קס\"ה. ובתשובת שבות יעקב ח\"א סי' קכ\"ד פסק דבזה\"ז אין ליבם שום זכות בנכסים אם מתה בין אם הוא בחור או נשוי ע\"ש. וכנה\"ג כתב דהנדון מהרי\"ק שורש צ\"א איירי דיש ריעותא דלא היתה ראויה ליבום מחמת הדין אבל כל שעומדת בין ליבום בין לחליצה אע\"ג דמצות חליצה קודמת נכסים בחזקת היבם ע\"ש בהגהת הטור סעיף כ\"ג וסעיף ט\"ו. ודבריו תמוהים דהא המהרי\"ק כתב בהדיא לכך במדינות אלו שכופין לחלוץ וכו' וק\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 160:6"
+        },
+        "7": {
+          "he": "יורש.  עיין מהר\"א ששון סי' קצ\"ה שכתב בשם מהר\"י ווייל סי' מ\"א דאין האב יורש כלום אפי' מוחזק בנכסים וכל עזבון של המת יורשים האחים. ואם יש כאן ב' אחים אף שאחד בחור מ\"מ יד שניהם שווים אפי' בכתובה שלה מאחר שלא עשה שום מעשה. ועיין ס\"ס קס\"ה שם כתבתי לפי תיקון הקהלות המבואר שם ליתא הדין של מהר\"י ווייל ע\"ש ועיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 160:7"
+        },
+        "8": {
+          "he": "טענה.  ואם מתו גם שניהם מ\"מ יורש השני' ולא הראשונה ואם א\"י איזה מתה ראשונה דומה למ\"ש בסמוך דהוי היורשים ודאי והיבם ספק. ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 160:8"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

@@ -1,0 +1,113 @@
+{
+  "chelek": "EH",
+  "siman": 49,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 3,
+  "fetchedAt": "2026-07-08T00:08:59.200Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "קידש אחת מחמש נשים וכל אחת אומרת אותי קידש. ובו ג' סעיפים:המקדש אחת מה' נשים וכתב לה כתובה ואינו יודע איזו היא וכל אחת מהן אומרת אני הוא אסור בקרובות כולן ונותן גט לכל אחת ואחת ומניח כתובה ביניהם ומסתלק ואם קידש בביאה קנסו אותו חכמים שיתן כתובה לכל אחת ואחת:",
+      "en": "If a man is mekadesh (that is, betroths) one of five women, and he writes and delivers to her a ketuba (that is, a marriage document guaranteeing a certain amount of money to the women should the husband die or divorce her), and he does not know which one [of the five women] he married, and each [woman] says, \"I am the one,\" he is forbidden to marry the relatives of all of them [as if each one is the \"true\" wife] and he gives a get (that is, a bill of divorce) to each one of them and he gives the ketuba money (that is, money given to a divorcee by the husband) between all of them and leaves [i.e., he leaves it up to the women to decide who was the \"true\" wife and, therefore, who has rights to the ketuba money].  If he was mekadesh her through engaging in sexual relations, the Sages punished him and he must give the ketuba money to each of the women.",
+      "ref": "Shulchan Arukh, Even HaEzer 49:1"
+    },
+    {
+      "seif": 2,
+      "he": "המקדש אשה וחזר בו מיד ואמר שהמעות יהיו מתנה אפי' תוך כדי דבור אין חזרתו כלום וצריכה גט:",
+      "en": "Someone who marries a woman, and retracts immediately, and says that the money is a gift, even saying so in the same breath, his retraction is meaningless, and he thus requires a bill of divorce.",
+      "ref": "Shulchan Arukh, Even HaEzer 49:2"
+    },
+    {
+      "seif": 3,
+      "he": "כל מי שאינו בקי בטיב גיטין וקידושין לא יהא לו עסק עמהם להורות בהם שבקל יכול לטעות ויתיר את הערוה וגורם להרבות ממזרים בישראל:",
+      "en": "Anyone who is not an expert in the make-up of divorces and marriages should not deal with them to teach (about them, because it is easy to err and to permit an erva [that is, a forbidden woman] and cause an increase in mamzerim [that is, children born from illicit relationships] in Israel.",
+      "ref": "Shulchan Arukh, Even HaEzer 49:3"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה יבמות דף קי\"ח ע\"ב כאוקימת' דגמ' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 49:1"
+        },
+        "2": {
+          "he": "פירוש כגון שכתב לארוסתו ולא הזכיר שמה או שהיו שמותיהן שוות או שקנו מידו והלכו לה'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 49:2"
+        },
+        "3": {
+          "he": "כר\"ע שם במשנה דקי\"ל הלכה כר\"ע מחבריו ור' טרפון חבירו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 49:3"
+        },
+        "4": {
+          "he": "פירש\"י דאיסורא דרבנן קא עבד וכמ\"ש לעיל בסי' ל\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 49:4"
+        },
+        "5": {
+          "he": "מסקנת הגמ' ב\"ב דקכ\"ט ע\"א ובכמה דוכתי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 49:5"
+        },
+        "6": {
+          "he": "מימרא דרב יהודה וכו' קדושין ד\"ו ע\"ב וכפי' רש\"י שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 49:6"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "להורות בהן כן פירש\"י משמע דנתינ' קידושין אין קפידא כ\"כ דהיינו לסדר הקידושין תחת החופה שאין שם הוראה וא\"כ בגט היה נמי לנו לומר כן דהא כללינהו בחדא מחת' אבל לפי האמת אינו כן דבנתינת קדושי' אין שם הרבה פרטים באותו סידור ואין מצוין שינוים שם ששייך בהם הוראה אבל בסידור גיטין הרבה מאוד פרטים וזהו ודאי בכלל הוראה ואין ליתן לסדר גיטין אלא למומחה ברבים וכן המנהג בינינו שמכבדין בסידור קידושין אפילו אינו למדן גדול משא\"כ בגט ועיין מ\"ש בהקדמה בפי' פשוט דכל שאינו יודע בטיב גיטין וקידושין דהיינו אפי' דברים שאין בהם קול' יטעה אפ\"ה לא יתעסק בהם אלא צריך שידע הכל על בורין וזה משמעות הלשון בטיב גיטין וקידושין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 49:1"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "שיתן כתובה עב\"ש סק\"ב שתמה עח\"מ סי' שס\"ה ס\"א ועיין בס' קרבן נתנאל ביבמות פ' האשה תניינא אות ל' שתירץ בטוב ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 49:1"
+        },
+        "2": {
+          "he": "להורות בהם.  עבה\"ט מ\"ש ט\"ז מדייק אבל לסדר קדושין מותר כו' ועיין בתשו' שבו\"י ח\"ג סי' קט\"ז שלא כ\"כ אלא דה\"ה שלא יסדר קידושין לכתחילה ולהכי נקט הש\"ס לא יהא לי עסק משמע כל התעסקות בענין קדושין וגיטין וגם רש\"י ז\"ל שכ' שלא יהא דיין בדבר לא כיון דוקא אם יהי' דיין לדון על הגיטין או הקדושין אם הם כהוגן רק דה\"ה שלא יסדר לכתחלה וזה נכלל ג\"כ בכלל דיין וכן משמע בתשו' מהרי\"ו סי' פ\"ה כו' ובודאי לא בחנם הורגלו דורות הללו שאין מסדרין קדושין בלתי התרת הרב כי יש לחוש להרבה מכשולים שיבא לקדש ח\"ו איסור ערוה או שני' כאשר קרה בזמנינו כו' ושם בתשו' הגאון בעל כנ\"י כתב שדבר זה הוא תקנה מרבני צרפת שהיו בימי ר\"ת שגזרו ואמרו שלא יסדר שום אדם קדושין כ\"א מי שנבחר לרב או מ\"צ בקהילתו ומי שיעבור על אלה כו' ע\"ש ועי' ג\"כ מזה בת' כנ\"י ס\"ס ע\"ב וע' בת' נו\"ב תניינא סי' פ\"ג הובא אצלינו בפ\"ת ליו\"ד סי' רמ\"ה ס\"ק י\"ב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 49:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "כתובה.  ר\"ל דאבדה או שלא הזכיר את שמה או איירי שכל שמותיהם שווין ולהני פוסקים דס\"ל דארוסה יש לה כתובה אפילו לא כתב לה א\"צ לזה. תוספת י\"ט ע' ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 49:1"
+        },
+        "2": {
+          "he": "בהם.  ט\"ז מדייק דוקא להורות אסור אבל לסדר קדושין מותר דאין שם להורות אבל לסדר הגט דיש הרבה פרטים אסור לסדר אא\"כ יודע בטיב גיטין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 49:2"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

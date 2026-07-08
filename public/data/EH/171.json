@@ -1,0 +1,201 @@
+{
+  "chelek": "EH",
+  "siman": 171,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 10,
+  "fetchedAt": "2026-07-08T00:09:01.862Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין ב' יבמות הרשות קטנות. ובו י סעיפים:מי שהיה נשוי יתומה קטנה  (שהשיאוה אחיה ואמה שאין קדושיה רק מדרבנן)  וחרשה ומת ונפלו לפני אחיו לייבם אין ביאת אחת מהן פוטרת צרתה וכיצד תקנתם מלמדין הקטנה שתמאן בו וכונס את החרשת ואם רצה לגרשה כותב לה גט אחר שיבא עליה ומותרת לזר:",
+      "en": "A man who was married to an orphan of minor age (note: who was married off by her brother or mother, and whose marriage is valid by Rabbinical decree) and a deaf woman (whose marriage is also only valid by Rabbinical ruling) and he died, and the women have fallen to his brother for possible levirate marriage, consummation of levirate marriage with one of these (Rabbinically married) women does not free her co-wife from levirate bonds.  What is their resolution? We instruct the minor to reject him (annul  the marriage), and the brother marries the deaf woman.  If he wants to divorce her, he writes a divorce after consummating the marriage, and she is then permitted to a stranger.",
+      "ref": "Shulchan Arukh, Even HaEzer 171:1"
+    },
+    {
+      "seif": 2,
+      "he": "היו שתיהן חרשות או קטנות ביאת אחת מהן פוטרת צרתה:",
+      "en": "If both wives were deaf or both were minors, consummation of levirate marriage with one frees her co-wife [from levirate bonds].",
+      "ref": "Shulchan Arukh, Even HaEzer 171:2"
+    },
+    {
+      "seif": 3,
+      "he": "היתה אחת גדולה ואחת קטנה ביאת גדולה או חליצתה פוטרת הקטנה ואין ביאת הקטנה פוטרת את הגדולה:",
+      "en": "If one wife was of majority age, and the other was a minor, consummation of levirate marriage or chalitza (ceremony severing the levirate bond) with the adult  wife frees the minor [from levirate bond], but consummation of levirate marriage with the minor does not free the adult wife.",
+      "ref": "Shulchan Arukh, Even HaEzer 171:3"
+    },
+    {
+      "seif": 4,
+      "he": "אחת פקחת ואחת חרשת ביאת הפקחת או חליצתה פוטרת את החרשת ואין ביאת החרשת פוטרת את הפקחת:",
+      "en": "If one wife was wise (of sound mind), and the other wife was deaf, consummation of levirate marriage or chalitza with the wise wife frees the deaf wife from levirate bond, but consummation of levirate marriage with the deaf wife does not free the wise wife.",
+      "ref": "Shulchan Arukh, Even HaEzer 171:4"
+    },
+    {
+      "seif": 5,
+      "he": "היו שתיהן קטנות ובא היבם על אחת מהן וחזר הוא או אחיו ובא על השניה לא פסל הראשונה עליו אבל אסור לו לקיים השניה אלא מלמדין אותה שתמאן ויקיים הראשונה:",
+      "en": "If both [wives] were minors, and the living brother consummated levirate marriage with one of them, and then he or another brother had sexual relations with the second [minor wife], this did not invalidate the levirate marriage of the first, but he is forbidden to stay with the second.  Therefore we instruct the second to reject (annul) her marriage, and he upholds marriage with the first.",
+      "ref": "Shulchan Arukh, Even HaEzer 171:5"
+    },
+    {
+      "seif": 6,
+      "he": "וכן אם היו שתיהן חרשות אין ביאת השנייה פוסלת הראשונה והשנייה אסורה לו ויוציאנה בגט:",
+      "en": "Similarly, if both were deaf, sexual relations with the second woman do not invalidate [the levirate marriage to] the first; the second woman is forbidden to him, and he should divorce her with a get.",
+      "ref": "Shulchan Arukh, Even HaEzer 171:6"
+    },
+    {
+      "seif": 7,
+      "he": "קטנה וחרשת שבא היבם תחלה על הקטנה וחזר ובא הוא או אחיו על החרשת לא פסל את הקטנה והחרשת צריכה גט שביאת הקטנה מעולה מביאת החרשת שהקטנה ראויה לאחר זמן לפיכך יקיים הקטנה שנבעלה תחלה:",
+      "en": "A minor girl and a deaf girl, when the levir first has relations with the minor and then he or his brother has relations with the deaf girl, he has not disqualified the minor, and the deaf girl requires a get. For relations with a minor is has greater legal consequences than relations with a deaf girl, for the minor will be fit for marriage after some time. Therefore, he should uphold the minor who had relations first.",
+      "ref": "Shulchan Arukh, Even HaEzer 171:7"
+    },
+    {
+      "seif": 8,
+      "he": "בא על החרשת וחזר ובא הוא או אחיו על הקטנה פסל את החרשת ומלמדין את הקטנה שתמאן בו ויוציא החרשת בגט:  (זהו דעת הרמב\"ם אבל אחרים חולקים עליו כמפורש בטור ובנימוקי יוסף פרק בית שמאי)",
+      "en": "If he had relations with the deaf girl, and then he or his brother had relations with the minor, he has disqualified the deaf girl. And we should instruct the minor to refuse marriage, and then he divorces the deaf girl through a get. This is the opinion of the Rambam, but others disagree with him, as is explicit in the Tur and the Nimukei Yosef, ch. Bet Shammai.",
+      "ref": "Shulchan Arukh, Even HaEzer 171:8"
+    },
+    {
+      "seif": 9,
+      "he": "אחת פקחת ואחת חרשת בא היבם על הפקחת וחזר ובא הוא או אחיו על החרשת לא פסל הפקחת והחרשת צריכה גט בא היבם על החרשת וחזר ובא הוא או אחיו על הפקחת פסל את החרשת החרשת יוצא בגט והפקחת בגט וחליצה:",
+      "en": "One was a girl of sound senses and the other deaf, if the levir had relations with the girl of sound senses first, and then he or his brother had relations with the deaf girl, he has not disqualified the girl of sounds senses, but the deaf girl requires a get. \nIf the levir had relations with the deaf girl first, and then he or his brother had relations with the girl of sound senses, he has disqualified the deaf girl. And the deaf girl goes out with a get, and the girl of sound senses [goes out] with a get and halitzah.",
+      "ref": "Shulchan Arukh, Even HaEzer 171:9"
+    },
+    {
+      "seif": 10,
+      "he": "אחת גדולה ואחת קטנה בא על הגדולה וחזר ובא הוא או אחיו על הקטנה לא פסל הגדולה ומלמדין הקטנה שתמאן בו בא על הקטנה וחזר הוא או אחיו ובא על הגדולה מלמדין הקטנה שתמאן בו ויקיים הגדולה:",
+      "en": "If one was of majority age and one was a minor, and he had relations with the adult, and afterwards he or his brother had relations with the minor, he has not disqualified the adult, and they instruct the minor that she should reject her marriage. If he had relations with the minor, and afterwards he or his brother had relations with the adult, they instruct the minor that she should reject her marriage, and he upholds marriage with the adult.",
+      "ref": "Shulchan Arukh, Even HaEzer 171:10"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה יבמות דק\"י ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:1"
+        },
+        "2": {
+          "he": "שלא ינהג בה מנהג הפקר וקידושי' תלוין עד שתגדיל וחרשת תקנו לה נישואין כדי שלא תשאר פנויה לעולם רמב\"ם בפ' ה' מהלכות ייבום וכתב ה\"ה שהטעם שכ' רבינו וכולי נתבאר בפ' חרש (דקי\"ב ע\"ב) וזהו מ\"ש שם בגמרא דק\"י ע\"ב אליבא דרב והביאו הטור שקידושי הקטנה הם בספק וקידושי החרשת קונין מקצתה ומשייכי' מקצתה וכולי לפיכך אין ביאת אחת מהן פוטרת צרתה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:2"
+        },
+        "3": {
+          "he": "כרבי אליעזר שם במשנה דף קי\"א ע\"ב וכ\"כ הרי\"ף והרמב\"ם שם וכמ\"ש ה\"ה שסובר רבינו דרב דאמר כונס את החרשת וכולי שם דק\"י ע\"ב לא אמרה אליבא דר\"א ולזה הסכים הרא\"ש כמ\"ש הטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:3"
+        },
+        "4": {
+          "he": "שם במשנה דק\"ו ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:4"
+        },
+        "5": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:5"
+        },
+        "6": {
+          "he": "שם במשנ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:6"
+        },
+        "7": {
+          "he": "משנ' שם דקי\"ד ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:7"
+        },
+        "8": {
+          "he": "שהרי ביאתה שוה ואי ראשונה קנויה הוא הרי היא אשתו ואחרונה ביאת זנות ואי לא קנוי' היא הרי שתיהן נכריות אצלו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:8"
+        },
+        "9": {
+          "he": "דלמא קנויות הוו ומשבא על הראשונה קיימ' הך עליה באיסור ב' בתים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:9"
+        },
+        "10": {
+          "he": "כר\"א שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:10"
+        },
+        "11": {
+          "he": "שם במשנה ומטעם דלעיל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:11"
+        },
+        "12": {
+          "he": "טור כיון שאין ביאת החרשת הראשונה ביאה גמורה להפקיע כל הזיק'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:12"
+        },
+        "13": {
+          "he": "להרמב\"ם שם פ\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:13"
+        },
+        "14": {
+          "he": "כתב ה\"ה שכך היא הגירס' במשנה בספרי הגאונים ובהלכות והן הן דברי רבינו כולי ואפשר שרבינו וההלכות סוברין דהך ברייתא (שם ע\"ב) פליגא אמתני' והוי הלכה כסתם משנה וכ\"כ הטור שהיא גירס' אביו הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:14"
+        },
+        "15": {
+          "he": "גם שם ממשנה שם ופי' הטור ותשאר החרשת אצלו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:15"
+        },
+        "16": {
+          "he": "אם היא רוצה להוציאה אח\"כ וכמו שהוכיח הרשב\"א שהדין כן והביאו הב\"י שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:16"
+        },
+        "17": {
+          "he": "רש\"י שם וכגרסת הש\"ס שלפנינו וכהשגת הראב\"ד שם וכ' ה\"ה שהרשב\"א הכריע כדבריהם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:17"
+        },
+        "18": {
+          "he": "גם זה ממשנה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:18"
+        },
+        "19": {
+          "he": "כ' ה\"ה שכבר נתבאר שיש ביאה אחר ביאה וכו' והוא שבא עליה לשם אישות או לשם יבמות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:19"
+        },
+        "20": {
+          "he": "ג\"ז שם ממשנה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:20"
+        },
+        "21": {
+          "he": "כ' ה\"ה שפשוט היא שהחרש' שביאת' ביאה כשירה היתה ומספיק לה בגט משא\"כ הפקחת שביאתה היתה ביאה פסול'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:21"
+        },
+        "22": {
+          "he": "ג\"ז שם ממשנה שם וכר\"א דאיפסק' שם הלכה כותיה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 171:22"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "אין ביאת אחת מהן.  עב\"ש סק\"א עד ובין אם נפלו מחרש' ועיין בס' אמתחת בנימין פי\"ב דיבמות מ\"ש שהניח דבריו בצע\"ג ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 171:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

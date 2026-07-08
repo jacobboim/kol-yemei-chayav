@@ -1,0 +1,1004 @@
+{
+  "chelek": "CM",
+  "siman": 43,
+  "chelekTitle": "Choshen Mishpat",
+  "seifCount": 29,
+  "fetchedAt": "2026-07-08T00:09:06.157Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "שצריך לכתוב זמן בשטר וכל דיני האיחוד והקדימה בפרטות. ובו כט סעיפים:כותבים בשטר זמן הלואה כדי שנדע מאיז' לקוחות יטרוף שהלקוחות שקנו קודם זמן הלואתו אינו יכול לטרוף מהם ואם לא כתב בו זמן כשר לגבות בו ממנו אבל אינו יכול לטרוף מהלקוחות שיכולים לומר קנינינו קודם הלואתך ויש מי שאומר שאם קנה אחר שראו העדים השטר כתוב וחתום טורף מהם שובר שאין בו זמן כשר ויד בעל השובר על העליונה (תשובת הרא\"ש כ' ע\"ג):",
+      "en": "1. The Date Must be Written in a Document and the Specific Laws of Postdating and Predating, 29 Seifim: The date of the loan must be written in the document so that we will know which third-party buyers the lender may collect from because the lender cannot collect from buyers that purchased from the borrower prior to the loan. If there is no date in the document, the lender may collect with the document but he cannot collect from third-party buyers because the buyers can argue that they purchased the land prior to the loan. There are those that say if the third-party purchased the land after witnesses had seen a written and signed document, the lender may collect from them. A receipt without a date is valid. The receipt-holder is in the superior position. (Teshuvos HaRosh, 20, 73)",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:1"
+    },
+    {
+      "seif": 2,
+      "he": "אם השמיט הסופר ולא כתב לבריאת עולם (ב\"י משמעות הפוסקים) וגם לא כתב חמשת אלפים כשר ואפי' השמיט גם המאות ולא כתב אלא הפרט הקטן כשר: הגה אבל אם כתב האלפים וגם הפרט הקטן ודילג המאות או העשרות פסול (ריב\"ש סי' שכ\"ב):",
+      "en": "2. If the scribe omitted mentioning that the years in the document were from creation of the world, (Beis Yosef who heard it from the Poskim) or even if he omitted the 5,000 or the hundreds and just wrote the ones, the document is valid. RAMA: If, however, the scribe wrote the thousands and the ones, but omitted the hundreds or tens, the document is invalid. *Rivash, Siman 322)",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:2"
+    },
+    {
+      "seif": 3,
+      "he": "אם כתב אלפים והשמיט חמשת כשר:",
+      "en": "3. If the scribe wrote thousands but omitted “five,” the document is valid.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:3"
+    },
+    {
+      "seif": 4,
+      "he": "אם כתב ברביעי עשרים יום לחודש שבט ודלג בשבת כשר:",
+      "en": "4. If the scribe wrote “on the fourth, on the 20th day of Shevat,” and omitted “of the week,” the document is valid.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:4"
+    },
+    {
+      "seif": 5,
+      "he": "אם כתב ברביעי לשבת כ\"ב לתשרי ונמצא שאינו מכוין שרביעי בשבת של תשרי של אותה שנה הי' ביום (ארבע) ועשרים אפ\"ה כשר:",
+      "en": "5. If the scribe wrote “on the 4th day of the week, on the 22nd of Tishrei,” and those days do not conform because Wednesday in Tishrei of that year fell out on the 24th, the document is still valid.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:5"
+    },
+    {
+      "seif": 6,
+      "he": "כתב ידו א\"צ שיכתוב בו זמן:",
+      "en": "6. A document written in the borrower’s handwriting does not require a date.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:6"
+    },
+    {
+      "seif": 7,
+      "he": "שטרי חוב המוקדמים פסולים שהרי טורף בהם לקוחות שלא כדין ולפיכך קנסו אותו חכמים ולא יגבה בשטר מוקדם אלא מבני חורין גזירה שמא יטרוף בו מזמן ראשון שהקדימו ואם יטעון הלוה פרעתי דינו כטוען כן בשאר שטרות ואם טען להד\"מ הוחזק כפרן ויש אומרים דפסול לגמרי (טור בשם ר\"י והרא\"ש והוא בפרק א\"נ וריב\"ש סי' שפ\"ב מיהו ראיות הריב\"ש שם יש לדחות וכמ\"ש בספרי ע\"ש):",
+      "en": "7. Predated documents are invalid because the lender may illegally collect from third-party buyers. Thus, the Rabbis penalized the lender and he can only collect unencumbered land with a predated document as a gezeirah lest he collect from the predated date. If the borrower claims he paid back, we apply the same rules as we do for other documents. If the borrower claims the loan never occurred, the borrower is established as a fraudster. There are those that say that the document is completely invalid. (Tur, in the name of the R\"i; and the Rosh; and the Rivash, Siman 382; and see the Rivash regarding delay, and what he wrote in his books, see there.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:7"
+    },
+    {
+      "seif": 8,
+      "he": "בד\"א שגובה מבני חורין כשלא הקדימו העדים זמנו בכוונה: הגה (טור בשם י\"א ור\"נ פ\"ק דר\"ה בשם הרז\"ה ור' שמשון פ' בתרא דשביעית וברטנורה שם ובעה\"ת ריש שער נ\"ו) וי\"א דהעדים נאמנים בזה אע\"פ שכתב ידן יוצא ממקום אחר וה\"ה בכל טעות שהעדים מצויים לטעות בו העדים נאמנים לומר שטעו (ר\"ן ריש ר\"ה) ויש חולקין [ע' בטור שתי הדיעות] אבל אם הקדימוהו בכוונה ודאי אפי' מבני חורין אין גובין שהרי העדים פסולים שחתמו שקר:",
+      "en": "8. When do we say the lender may collect from unencumbered lands? Where the witnesses did not intentionally predate the document. RAMA: (Tur; and the R\"an in the name of the Raz\"ah; and Rebbe Shimon ben Beteira) There are those that say that witnesses are believed on this issue, even if we have a copy of their signatures from another source. The same applies to any error that witnesses often make and they are believed to say they erred. (R\"an). There are those that disagree. [see in the Tur two opinions If, however, the witnesses intentionally predated the document, the lender can certainly not even collect from unencumbered land because the witnesses are invalid witnesses who signed falsely.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:8"
+    },
+    {
+      "seif": 9,
+      "he": "שטר מתנה שהיה לו לכתוב בשנת נ\"ח וכתב בשנת נ\"ז ומוכיח מתוכו שהוא טעות סופר שכתוב בו ותנו לפלוני חתני ובזמן נ\"ז עדיין לא היה חתנו וחתום בשטר גברא רבא בתורה ובחסידות אין כל זה מציל מלפסול השטר ומ\"מ אם העדים קיימים ואין כתב ידן יוצא ממק\"א יכולים לחתום שטר אחר מזמן שני ואם כתב ידם יוצא ממקום אחר שוב אין נאמנים מ\"מ המקבל מתנה נאמן לומר טעות היה מגו דאי בעי אמר שטרא מעליא הוא ובשנת נ\"ז קנו מידו:",
+      "en": "9. If a gift-document should have said “year 58” but said “year 57,” and it’s evident from within the document that it was the scribe’s error because the document says “give to so and so, my son-in-law,” and the recipient was not the giver’s son-in-law yet, and one of the signatories was a person who is pious and great in Torah, none of this would save the document from being disqualified. Nevertheless, if the witnesses are around and we don’t have their signatures from another source, they can sign another document from this second date. If we have their signatures from another source, they are no longer believed, but the recipient of the gift is believed to say it was an error migu [Ed. Note: The source for migu is provided by the Gemara in Ketuvot 22a which empowers a father to testify about his minor daughter's husband.] that he could have said it was a good document and that the kinyan was made in year 57.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:9"
+    },
+    {
+      "seif": 10,
+      "he": "שטר מוקדם דכתיב ביה מקמי חתימת סהדי שטרא דנן איכתוב ביום פלן ולא אחתים עד יום פלן כשר:",
+      "en": "10. A predated document that stated before the signatures, “this document was written on such and such date but not signed until such and such date,” is a valid document.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:10"
+    },
+    {
+      "seif": 11,
+      "he": "אפי' ראו העדים שהלוה לו ואמר הלוה כתבו וחתמו השטר ותנו ביד המלוה אם לא היה שם קנין כותבין בשטר יום שנמסר בו ולא יום שהלוה לו:",
+      "en": "11. Even if the witnesses had observed the lender lend to the borrower and the borrower told them to write and sign a document and give it to the lender, if there was no kinyan, the witnesses would write the date the document was handed over and not the day of the loan.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:11"
+    },
+    {
+      "seif": 12,
+      "he": "שטרי חוב המאוחרים כשרים שהרי הורע כוחו של בעל השטר שאינו טורף אלא מזמן השטר ואע\"פ שלא כתבו בו שהוא מאוחר ה\"ז כשר במה דברים אמורים שכתוב דאקני אבל אם לא כתוב בו דאקני פסולים (וכן כתוב בסי' רנ\"ח) אלא א\"כ מפורש וכתוב בו ואיחרנוהו: ואין לאחר שום שטר לכתחילה דמיחזי כשיקרא (רבינו ירוחם נ\"ד ח\"ד):",
+      "en": "12. Postdated documents are valid because they hurt the document-owner’s ability in that he can now only collect from the date of the document. The document is valid, even if it did not state that it was postdated. When is this true? Where the document says “that I will acquire.” If, however, it does not say “that I will acquire,” the document is invalid (and the same is written in Siman 258) unless it explicitly says “we wrote the document and delayed it.” One should not delay any document in the first instance because it appears like a falsehood. (Rabbeinu Yerucham)",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:12"
+    },
+    {
+      "seif": 13,
+      "he": "הא דשטרי חוב המאוחרים כשרים דוקא בשטרי הלואה אבל בשטרי מקח וממכר אפי' מאוחרים פסולים אלא אם כן (כתב) האיחור בפירוש: (הש\"ך גורס כאן הג\"ה דלעיל אין לאחר שום שטר לכתחלה וכו'):",
+      "en": "13. This, that a postdated document is valid, is only with respect to loan documents. With respect to transactional documents, however, even a postdated document is invalid unless (it is written) the delay was explicit. (The Shach, see above, any shtrar is not allowed to be postdated initially, etc)",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:13"
+    },
+    {
+      "seif": 14,
+      "he": "שטר שזמנו כתוב בשבת או בעשרה בתשרי שטר מאוחר הוא וכשר ואין חוששין שמא מוקדם הוא ובאחד בשבת או בי\"א בתשרי נכתב אלא מעמידין השטר על חזקתו שהדבר ידוע שאין כותבין בשבת ולא ביוה\"כ ולפיכך איחרוהו ויש מי שאומר דאי אמר אשתבע לי חייב לישבע ודוקא בשטר מקויים אבל אם אינו מקויים על בע\"ה להביא ראיה:",
+      "en": "14. A document whose date falls out on Shabbos or the 10th of Tishrei is considered a postdated document and is valid. We are not concerned that it may be predated and was really written on Sunday or the 11th of Tishrei. Rather, we uphold the status of the document because it’s well known that one cannot write a document on the Shabbos or the 10th of Tishrei and that is why they delayed it. There are those that say that if the borrower tells the lender to swear to him, the lender is obligated to swear. This is only true for a verified document. If, however, the document was unverified, the document-holder has the burden of proof.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:14"
+    },
+    {
+      "seif": 15,
+      "he": "כל שטר הבא לפנינו אנו תולים שנמסר בזמן הכתוב בו חוץ מהיכא דאיתרע כגון שנפל דכיון דאתייליד ביה ריעותא אינו יכול לגבות בו עד שיביא ראיה שבא לידו מזמן הכתוב בו אם אין בו קנין:",
+      "en": "15. Any document that appears in front of us is assumed to be given on the date that it is written except where something negative occurred that calls its status into question, such as where the document fell, in which case the document-holder would not be able to collect if there was no kinyan until he brings a proof that he received the document on the date that was written, because a negative occurrence affected the document’s status.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:15"
+    },
+    {
+      "seif": 16,
+      "he": "אם נכתב בלילה ונחתם ביום שלאחריו כשר שהיום הולך אחר הלילה אבל נכתב ביום ונחתם בלילה פסול בד\"א כשאין עסוקים באותו ענין אבל עסוקים באותו ענין כשר ודוקא שלא לקח מיד בקנין אבל לקח מיד בקנין אפי' לא חתמו אלא לזמן מרובה כשר לפיכך עדים שראו הקנין ואיחרו לכתבו עד אחר זמן אם זוכרים לזמן הקנין יכתבו הזמן מאותו היום ואם לאו יכתבו מיום הכתיבה:",
+      "en": "16. If a document was written at night and signed on the following day, the document is valid because the day follows the night. If, however, it was written by day and signed at night, the document is invalid. When is this true? When they were not dealing with that topic. If, however, they were dealing with the topic, the document is valid. This is only where the party did not immediately take the item with a kinyan. If, however, the party took the item with a kinyan, the document is valid, even they did not sign until much later. Therefore, if witnesses observed a kinyan and delayed writing until later and they remember the date of the kinyan, they should write the date from that day. If they do not remember, they should write the date the document was written.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:16"
+    },
+    {
+      "seif": 17,
+      "he": "יש מי שאומר דהא דאמרי' דעסוקין באותו ענין כשר היינו דוקא בשטרי הלואה אבל בשטרי חיוב שהוא מתחייב בקנין או בשטר לא:",
+      "en": "17. There are those that say that this that a document is valid where they were dealing with that topic is only with respect to loan documents. With respect to obligatory documents- where a party obligates himself with a kinyan or document- however, the document would not be valid.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:17"
+    },
+    {
+      "seif": 18,
+      "he": "כשכותבין יום שקנו בו סומכים זמן הכתיב' לאותו יום וכותבין קנינו מפלו' ביום פ' וכתבנו ומסרנו ליד פלוני וכשכותבים יום שעומדים בו סומכים הכתיבה לאותו יום שחותמים וכותבים קנינו מפלו' וכתבנו וחתמנו ביום פלוני ומסרנו לפ' ואי לא מיחזי כשיקרא (מיהו אם כתבו סתמא במקום פלוני קנינו מפלוני לא מיחזי כשיקרא) (רבינו ירוחם נ\"ד ח\"ב והוא טור מבעה\"ת):",
+      "en": "18. When the witnesses write the date of the kinyan, they juxtapose the date of the kinyan [note: version of the Shach and Sma] to that day. They write, “we made a kinyan from so and so on such and such date and we wrote and handed over the document to so and so.” When they write the current date, they juxtapose the writing to the date. They write, “we made a kinyan from so and so and we wrote and signed on this date and gave it to so and so.” If they don’t do it this way, it appears like a falsehood. (If, however, they simply wrote “in such and such place we made a kinyan from so and so” it does not appear like a falsehood.) (Rabbeinu Yerucham; Tur)",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:18"
+    },
+    {
+      "seif": 19,
+      "he": "אם אינם זוכרים ליום הקנין לא יאמרו ברור לנו שקנינו ממנו בתשרי ואין אנו יודעים בכמה ולפיכך נכתב מתחלת חשון שזה מיחזי כשיקרא יש מי שאומר שאם זוכרים שקנו ממנו בתחלת תשרי או באמצעו או בסופו יכתבו בשליש הראשון של חדש פלוני או באמצעו או בשליש אחרון:",
+      "en": "19. If the witnesses do not remember the date of the kinyan, they cannot say we are certain that it was in Tishrei but we are just not sure what date, so we will write the beginning of Cheshvan, because that has the appearance of a falsehood. There are those that say that if the witnesses remember that they made a kinyan in the beginning of Tishrei, the middle of Tishrei or the end of the Tishrei, they can write the first-third of the month, the middle-third or the last-third.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:19"
+    },
+    {
+      "seif": 20,
+      "he": "מי שנמסרה להם עדות במדינה אחת וכתבו העדים במדינה אחרת אין מזכירים בשטר מקום שנמסרה בו העדות אלא מקום שכתבו בו חתימת ידם ודוקא כשאין כותבין זמן הקנין וכותבין זמן הכתיבה אבל אם זוכרים זמן הקנין וכותבים אותו אז יכתבו המקום שנעשה בו הקנין שאם יכתבו מקום הכתיבה נמצאו משקרים ופסול וכשכותבים מקום הכתיבה כותבים כך אמר לנו פלו' וכתבנו במקום פ' אבל כשכותבי' מקום שנמסרו הדברים כותבים אמר לנו פלו' או קנינו מפלו' במקום פלו' וכתבנו וחתמנו ומסרנו לפלו':",
+      "en": "20. If witnesses received testimony in one country and were documenting their testimony in another country, they do not write the place they received the testimony but the place they are signing. This is only true where they are not writing the date of the kinyan, but the date of the writing. If, however, they remember the date of the kinyan and are writing it, then they should write the locale where the kinyan took place, because if they were to write the place where it was written, they would be found to be fraudsters and will be disqualified. When they write the place of documentation, they write, “this is what so and so told us and we wrote it in such and such place.” If, however, they are writing the place where the testimony was handed over, they write “so and so told us” or “we made a kinyan from so and so in such and such place and we wrote and signed it and handed it over to so and so.”",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:20"
+    },
+    {
+      "seif": 21,
+      "he": "הא דאמרינן שכותבים מקום הכתיבה אע\"פ שקנו במקום אחר דוקא שאין המטבע משתנה ממקום הקנין למקום הכתיבה או אפי' אם משתנה ובלבד שכתוב בשטר המטבע שיוציא במקום פלו' אבל אם המטבע משתנה ממקום המסירה למקום הכתיבה ואין כתוב בשטר (מטבע) היוצא במקום פלו' לא יכתבו אלא שם מקום שמסרו הדברים שם שמטבע אותו מקום נשתעבד ואם יכתבו מקום אחר היה משתעבד ממטבע היוצא במקום כתיבת השטר:",
+      "en": "21. This that we said, that the witnesses write the place of documentation even if the kinyan was in another place, is only where there is no distinction in the currency used in the place of the kinyan and the currency used in the place of the documentation or even if there is a distinction but they write in the document “the currency that is used in such and such place.” If, however, there is a distinction between the currency used in the place the testimony was given and the place of the kinyan and the document does not say it is the currency used in such and such place, the witnesses should only write the place where the testimony was received because the party owes the currency of that locale and if they were to write another place, the party would owe the currency of the place where the document was written.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:21"
+    },
+    {
+      "seif": 22,
+      "he": "שטר שאין כתוב בו מקום שנכתב בו כשר (ומוכח לעיל סי' מ\"ב סי\"ד):",
+      "en": "22. A document that does not state where it was written is still valid. (Pay attention to the above, Siman  42, Seif 14)",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:22"
+    },
+    {
+      "seif": 23,
+      "he": "ראובן ושמעון שיש לכל אחד מהם שטר על לוי בשל ראובן כתוב בכ\"ה (נ\"א) בחמש בניסן ובשל שמעון כתוב בניסן סתם ואין ללוי אלא שדה אחת שאין בה כדי חובת שניהם נותנים אותה לראובן דשמא שטרו של שמעון היה בסוף ניסן וכן אין שמעון יכול לטרוף מלקוחות שקנו מלוי מאייר ואילך שיאמרו לו זמנך מא' בניסן והנחנו לך מקום לגבות חובך והוא אותו שדה שגבה ראובן כי שלא כדין גבה שאתה מוקדם לו לפיכך אם יכתבו הרשאה זה לזה יגבו מלקוחות שקנו מאייר ואילך:",
+      "en": "23. If Reuven and Shimon both had a document against Levi and on Reuven’s document it said 5 Nissan and on Shimon’s it simply said Nissan, and Levi only has one field that cannot cover both loans, we would give the field to Reuven because Shimon’s document may have been written at the end of Nissan. Similarly, Shimon cannot collect from third-party buyers who purchased land from Levi in Iyar or later because the buyers can tell Shimon that they left him a place to collect his loan- the field that Reuven collected illegally because Shimon’s document was before Reuven’s. Therefore, if Reuven and Shimon were to write a joint power-of-attorney, they would be able to collect from third parties who purchased land in Iyar or later.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:23"
+    },
+    {
+      "seif": 24,
+      "he": "אע\"פ שאין כתוב בשובר לא עידי השטר ולא זמנו כיון שסכום המעות של השטר והשובר שוים ממילא אמרי' שהשובר נכתב על אותו שטר:",
+      "en": "24. Even if a receipt were to omit the document-witnesses and the date of the document, since the sum of money in the document and receipt are identical we say the receipt was written on this document.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:24"
+    },
+    {
+      "seif": 25,
+      "he": "מי שהוציאו עליו שטר חוב בניסן סתם והוציא מחילה שזמנ' בי\"ח בניסן יש כח במחיל' זו לבטל החוב:",
+      "en": "25. If a document dated Nissan was produced against someone, and that individual produces a waiver document dated 18 Nissan, the waiver has the power to nullify the debt.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:25"
+    },
+    {
+      "seif": 26,
+      "he": "ראובן הוציא שט\"ח על שמעון שזמנו ביום כך ושמעון הוציא שובר על שטר זה כתוב באותו יום בעצמו יד בעל השטר על התחתונה:",
+      "en": "26. If Reuven produced a document against Shimon dated on a specific date and Shimon produces a receipt on that document with the same date, the document-holder is in the inferior position.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:26"
+    },
+    {
+      "seif": 27,
+      "he": "ראובן הוציא שט\"ח על שמעון שזמנו ה' בניסן ושמעון הוציא שובר שנכתב בחמשה בניסן כתוב בו שמחל ראובן לשמעון כל תביעות שהיו עליו עד אותו היום ראובן גובה שטרו דבלשון העולם עד ולא עד בכלל אבל אם היה כתוב שמחל לו כל תביעות שיש לו עליו עד עכשיו הוי ספק ומספיקא לא מפקינן ממונ':",
+      "en": "27. If Reuven produced a loan document on Shimon dated 5 Nissan and Shimon produces a receipt that was written on 5 Nissan which states that Reuven waived all claims he had on Shimon until that date, Reuven may collect with such loan document because common usage of “until” does not include that date. If, however, the document stated that Reuven waived all claims that he had against Shimon until now, the matter is in doubt and we would not take away money based on doubt.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:27"
+    },
+    {
+      "seif": 28,
+      "he": "שני שטרות שנעשו בשנה מעוברת א' כתוב בו אדר סתם וא' כתוב בו אדר שני ואין ללוה נכסים כנגד שניהם נותנים למי שכתוב בו אדר סתם ואם בשניהם נכתב אדר סתם הוי כמו שכתוב בשניהם אדר ראשון ונותנים למי שזמנו קודם במספר ימי החודש (וע' בא\"ח סי' תכ\"ז כיצד כותבין ובאה\"ע סי' קכ\"ו) כל זמן הכתוב בשטר כגון עד הפסח או עד הקציר דנים אותו כמו בנדרים:",
+      "en": "28. If two documents were created in a leap year and one simply says Adar and the other says the second Adar, and the borrower does not have enough property for both loans, we would give the property to the document that says Adar. If both documents simply said Adar, it is as if they were both written in the first Adar and we would give the land to the document-holder with the earlier date of the month. (See Orach Chaim Siman 427 regarding how we write it. See Even Haezer Siman 126). Any date that is written in a document, such as “until Pesach” or “until the harvest” is judged the same way we judge the case with respect to vows.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:28"
+    },
+    {
+      "seif": 29,
+      "he": "אם כתוב בשטר עד אחר הפסח היינו עד שיעברו רוב הימים שבין פסח לעצרת (עד כאן יום כ\"א):",
+      "en": "29. If a document says “until after Pesach,” that means until most of the days between Pesach and Shavuos had passed. (Until then, day 21).",
+      "ref": "Shulchan Arukh, Choshen Mishpat 43:29"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "א) ל' הטור ממסקנת הגמ' ב\"מ סוף דף ז':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:1"
+        },
+        "2": {
+          "he": "ב) ר' ירוחם נ\"ד ח\"ב מחס\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:2"
+        },
+        "3": {
+          "he": "ג) כמ\"ש לעיל סעיף ח' וע' לקמן סעיף כ\"ד וסי' נ\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:3"
+        },
+        "4": {
+          "he": "ד) טור בשם ר\"י וכן כתב התוס' אהא דא\"ר נחמן ספרא דוקנא כתביה ע\"א דף י' ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:4"
+        },
+        "5": {
+          "he": "ה) מרדכי בשם ר\"י מווינא מדלא כ' אלפיים בשני יודין מהס\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:5"
+        },
+        "6": {
+          "he": "ו) תשובת הרא\"ש כלל מ\"ה מחס\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:6"
+        },
+        "7": {
+          "he": "ז) ג\"ז שם הכשיר לענין גט וכ' הה\"ר ישראל בכתביו סימן י\"א ☜דלא מכשיר הרא\"ש אלא כשהטעות מוכח וכמ\"ש בא\"ה בסי' קכ\"ו סעיף כ\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:7"
+        },
+        "8": {
+          "he": "ח) הרשב\"א בפרק המגרש משנה ג' גיטין פסולים מסי\"ט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:8"
+        },
+        "9": {
+          "he": "ט) ל' הרמב\"ם בפ' כ\"ג מה' מלוה ולוה ממשנה ה' פ\"י דשביעית",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:9"
+        },
+        "10": {
+          "he": "י) וכ\"כ הטור בשם הרי\"ף ורש\"י וכן כ' ה\"ה של זה הסכימו הרמב\"ן והרשב\"א.",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:10"
+        },
+        "11": {
+          "he": "כ) כדמפרש ר' יוחנן ב\"מ דף ע\"ב ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:11"
+        },
+        "12": {
+          "he": "ל) טור לדעת הרי\"ף ורש\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:12"
+        },
+        "13": {
+          "he": "ובסי' מ\"ה ס\"ח בשם רבינו יונה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:13"
+        },
+        "14": {
+          "he": "מ) טור בשם ר\"י וכ\"כ שם בשם הרמב\"ן והרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:14"
+        },
+        "15": {
+          "he": "נ) כגון שטעו בשנת המלך או שטעו בעיבורו של חדש או שאמרו אנוסים מחמת נפשות היינו ואין כתב ידם יוצא ממקום אחר ואם כתב ידן יוצא ממקום אחר איירי שעדים מעידים שהיו אנוסי' אונס נפשות טור וכ\"כ התוספות ב\"מ דף ע\"ב ע\"א וה\"ה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:15"
+        },
+        "16": {
+          "he": "ס) שם ושם וכ\"כ הריב\"ש בסי' רס\"ד מס\"ו:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:16"
+        },
+        "17": {
+          "he": "ע) הרשב\"א בתשובה מחס\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:17"
+        },
+        "18": {
+          "he": "פ) ולא שייך בזה למימר דכבר עבדי שליחותייהו דכיון שבטעו' כתבוהו ה\"ל כאלו לא נכתב מעולם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:18"
+        },
+        "19": {
+          "he": "צ) אבל עדים אחרים שראו ג\"כ הדבר יכולים לכתוב לו שטר כיון שהוא שטר מתנה מיוחדת",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:19"
+        },
+        "20": {
+          "he": "ק) ואפי' יש עדים שבפניהם נכתב השטר מ\"מ אפשר לומר שהקנין היה בזמן השטר וסתם קנין לכתיבה עומד שם בתשוב'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:20"
+        },
+        "21": {
+          "he": "ר) הג\"א מיי' פכ\"ג מה' מלוה ולוה בשם העיטור מחס\"ט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:21"
+        },
+        "22": {
+          "he": "ש) ב\"י בס\"ס ל\"ט מסכ\"ט לדעת בה\"ת בשער מ\"ח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:22"
+        },
+        "23": {
+          "he": "ת) מימרא דרב המנונא ב\"ב דף קמ\"א ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:23"
+        },
+        "24": {
+          "he": "א) שם במשנה דשביעית",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:24"
+        },
+        "25": {
+          "he": "ב) מסוגיית הגמרא ב\"ב דף קנ\"ז ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:25"
+        },
+        "26": {
+          "he": "ג) בריית' שם דף קע\"א ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:26"
+        },
+        "27": {
+          "he": "ד) טור בשם בעל העיטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:27"
+        },
+        "28": {
+          "he": "ה) גם זה שם בשמו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:28"
+        },
+        "29": {
+          "he": "ו) וסיים שם ☜אע\"ג דליכא מערער אנן טענינן ליה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:29"
+        },
+        "30": {
+          "he": "ז) טור וכן מוכח מסוגיא דגמ' ב\"מ דף י\"ג ע\"א וכ\"כ התוס' והרא\"ש בפ\"ב דגיטין דף י\"ז ע\"ב בד\"ה עד שעת וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:30"
+        },
+        "31": {
+          "he": "ח) ב\"י דאם יש בו קנין מעת הקנין נשתעבדו הנכסים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:31"
+        },
+        "32": {
+          "he": "ט) משנה גיטין דף י\"ז ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:32"
+        },
+        "33": {
+          "he": "י) מימרא דר\"א בר צדוק שם דף י\"ח ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:33"
+        },
+        "34": {
+          "he": "כ) טור וכ\"כ הרא\"ש והר\"ן מהא דאמר רבה בר שילא להנהו כתבי שטרי אקנייתא ב\"ב דף קע\"ב ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:34"
+        },
+        "35": {
+          "he": "ל) וכ' הרא\"ש דמוקדם לא הוי דכיון דנכתב השטר עדים מפקי לקלא משעת הקנין וכו' וכיוצא בזה כ' הנ\"י וסיים בשם ר\"י אבל כשלא נכתב הקנין אינו גובה מנכסים משועבדי' דהא בטליה לקליה וצ\"ע דלעיל ריש סי' נ\"ט כ' המחבר אפי' לא נכתב גבי ממשעבדי ובסמ\"ע כ' ליישב זה בדוחק ולפעד\"נ דלעיל איירי בשטרי הלואה דאלי' קניני' משום דזוזי משעבדי ליה וכמ\"ש בסעיף שאחר זה בשם הר\"ן לפיכך אפילו לא נכתב הקנין גובה ממשועבדים והכא איירי בשאר קנינים שנתחייב בקנין",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:35"
+        },
+        "36": {
+          "he": "מ) הר\"ן מסי\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:36"
+        },
+        "37": {
+          "he": "נ) ומפרש שם משו' דזוזי משעבדי ליה וכיון שהם מזומנים לחתום איכא קלא וכו' וכ\"כ הנ\"י וסיים אבל כשלא נכתב הקנין לא גבי דהא בטל קליה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:37"
+        },
+        "38": {
+          "he": "ס) ואע\"ג דאיכא קלא במילי ודאי לא משתעבד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:38"
+        },
+        "39": {
+          "he": "ע) טור בשם הרשב\"א וכ\"כ ה\"ה בשמו בפכ\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:39"
+        },
+        "40": {
+          "he": "פ) אבל השטר אינו נפסל בכך בית יוסף:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:40"
+        },
+        "41": {
+          "he": "צ) טור וכן כ' בעה\"ת בשער נ\"ו מהא דאמר רבא בר שילת וכו' לעיל וכת' הב\"י שזהו פי' מוכרח להא דאמר רבא וכו' שאם לומר שלא יכתבו יום שאינם זוכרים כלל ההוא משום ספק פסול נמי הוי דלמא מוקדם הוא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:41"
+        },
+        "42": {
+          "he": "ק) בית יוסף בשם מורו ה\"ר יעקב בי רב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:42"
+        },
+        "43": {
+          "he": "ר) ל' הרמב\"ם בפכ\"ג מהא דאמר רב לספרי וכן א\"ל רב הונא וכו' כי יתביתו בשילה וכו' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:43"
+        },
+        "44": {
+          "he": "ש) טור וכ\"כ הריב\"ש בת' בסי' שפ\"ב בשם הרמב\"ן:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:44"
+        },
+        "45": {
+          "he": "ת) ה\"ה בשם הרשב\"א שם בפ\"ג והביאו הב\"י מסי\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:45"
+        },
+        "46": {
+          "he": "א) טור בשם הרמ\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:46"
+        },
+        "47": {
+          "he": "ב) וכן הוא בטו' והרב סמ\"ע כ' בע\"א ע\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:47"
+        },
+        "48": {
+          "he": "ג) כמ\"ש לעיל סי' מ\"ב סעיף י\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:48"
+        },
+        "49": {
+          "he": "ד) ברייתא כתובות סוף ד' ק\"י וכ\"כ הרמב\"ם שם סוף פי\"ז והטור בסימן ס\"א בשם הרא\"ש וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:49"
+        },
+        "50": {
+          "he": "ה) ל' הטור מעובדא דהנהו תרי שטרי לקמיה דרב יוסף כתובות דף צ\"ד ע\"ב ופרש\"י דאיירי בשטרי הלואה וכן פי' הרמב\"ם בפ\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:50"
+        },
+        "51": {
+          "he": "ו) ת' הרא\"ש ריש כלל ע\"ז מטעם דיד בעל השטר על התחתונה כיון שהוא בא להוציא ממון מסט\"ו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:51"
+        },
+        "52": {
+          "he": "ז) ג\"ז שם מסט\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:52"
+        },
+        "53": {
+          "he": "ח) ג\"ז שם ואף ע\"ג דלא שכיח שהחיוב והפטור נעשו ביום אחד אינו נמנע להיו' כן כי מקרי האדם רבים ובכיוצא בזה חיישי' לפריעת בת יומא כדאיתא בב\"מ דף י\"ז ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:53"
+        },
+        "54": {
+          "he": "ט) ג\"ז מסי\"ו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:54"
+        },
+        "55": {
+          "he": "י) משנ' כל שזמנו קבוע ואמר עד אינו אסור אלא עד שיגיע נדרים דף ס\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:55"
+        },
+        "56": {
+          "he": "כ) טור מבריי' שם דף ס\"ג ע\"א ופסקו הפוסקי' הלכה כר' יהודה דאדר א' כותבין סתם וכ' הב\"י שהדין פשוט:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:56"
+        },
+        "57": {
+          "he": "ל) ר' ירוחם נ\"ד ח\"ד מחס\"כ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:57"
+        },
+        "58": {
+          "he": "מ) מבואר בי\"ד סי' רי\"ט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:58"
+        },
+        "59": {
+          "he": "נ) גם זה שם מסכ\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:59"
+        },
+        "60": {
+          "he": "המחבר חלק כל הד' טורים מהש\"ע לל' חלקים לחזור בכל יום חלק א' ובכאן כלה החלק הכ\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 43:60"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "אבל אינו יכול לטרוף מלקוחות כו'.  כתב הסמ\"ע דה\"ה מבני חרי יש נ\"מ אם יש על הלוה ב' שטרות ואין לו אלא קרקע כדי לשלם לאחד מהן דאז מגבינן ליה דיש לו זמן בשטרו דיאמר הלואתי הי' מוקדם להלואת השני ע\"כ ופשוט הוא וכ\"כ הטור והמחבר לקמן סעיף כ\"ג ועיין לקמן ס\"ס ק\"ד ובב\"ח סוף סעיף א' כתב וה\"ה בלאו ה\"ט כו' אלא לפי שמסתמא אין אדם מלוה לחבירו אא\"כ יודע שיש ללוה קרקע כדי מעותיו כו' עכ\"ל ולא ידענא מאי קאמר דא\"כ גם משום טריפת לקוחות א\"צ זמן דהא אין גובין ממשעבדי במקום שיש בל\"ח ועוד וכי מה יודע המלוה ממי לוה אפשר שלוה עוד מהרבה בני אדם מכל א' וא' כשיעור קרקע שלו או ילוה עוד מהרבה בני אדם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:1"
+        },
+        "2": {
+          "he": "ויש מי שאומר כו'.  לפע\"ד כן עיקר מדאמרינן בפ' קמא דמציעא (דף י\"ט ע\"א) גבי גט אשה וגט שחרור שנפל דאינן טורפין מזמן הכתוב בהן דשמא לא ניתן לידם אלא לאחר זמן אלא כי אתאי למטרף אמרי' להו אייתי ראיה אימת מטא גיטא לידך הרי דזה הוי כאין בו זמן שהרי הזמן אינו מועיל להן לטרוף ואפילו הכי משמע דמהני לטרוף מזמן שמביא עדים שראו הגט בידם וכן משמע מדברי הפוסקים בפ\"ב דגיטין בסוגיא דמפני מה תקנו זמן בגיטין משום פירות כו' בדף י\"ז ע' שם ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:2"
+        },
+        "3": {
+          "he": "שובר שאין בו זמן.  לא ידעתי למה כתבו הלא מבואר הוא לקמן סעיף כ\"ד סי' נ\"ד סעיף ג':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:3"
+        },
+        "4": {
+          "he": "ולא כתב אלא הפרט קטן.  כגון שלא כתב רק שלא פ' וכה\"ג והוא עומד בשנת פ' וכתב ב\"י ומספקא ליה היכא שלא כ' שנת פ\"ד אלא שנת ד' נפרט אי כשר או לא ודעתי נוטה להכשיר עד כאן:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:4"
+        },
+        "5": {
+          "he": "ודילג המאות כו'.  לא ידעתי למה פסק כן בפשיטות שהרי בב\"י הניחו בצ\"ע וכתב דאפשר דמהרא\"י דוקא בגיטין פסק כן (עיין בא\"ע ס\"ס קכ\"ז) משום אומרא דעריות ולא בשטרות ומביאו ד\"מ וגם נלפע\"ד דראי' מהרא\"י יש לדחות. הראי' הא' דמייתי וז\"ל מדכתב אשר\"י בשם ר\"י שאם דילג לבריאת עולם כשר משום דתלינן בדילוג הסופרים ואי לא כתב כלל רק הפרט נמי כשר ומייתי ראיה אחריתי ע\"ז מש\"ס ולמאי אצטריך הראיה אמאי לא אמרינן בפשיטות דתלינן בטעות סופר דמסתמא לא נכתב שטר זה לפני כמה אנפי' עכ\"ל. נלפע\"ד דלאו ראייה היא דכוונות הרא\"ש דלא נימא דלמא הסופר לא מנה לבריאת עולם אלא לאיזה ענין אחר מאוחר וא\"כ יאמרו הלקוחות קנינינו קדמה לשטרך וכדאמרי' בש\"ס פ\"ק דע\"ז דף ט' סבור רבנן למימר האי שטר מאוחר הוא כו' ועלה קאי הרא\"ש התם להדיא וכן הוא בס' התרומ' שחבר רבינו ברוך להדיא בסי' קל\"ו ע\"ש והוא מדברי התוס' שם. הראיה הב' דמייתי מהרא\"י שם וז\"ל ותו דבמרדכי כ' על שדילג ארבע ולא כתב אלא אלפים ומסתמא גם כן פרט המאות והשנים והכשירו א\"ז בדיעבד דאף על גב דהיה לומר מיעוט אלפים שנים ואם כן היה מוקדם מדלא כתב אלפים בשני יודין אין לפרשו אלפיים הא קמן דאי היינו יכולין לפרש אלפיים לא הוה מכשיר אע\"ג דע\"כ ידעינן מבחוץ דלא לפני אלפים נכתב וע\"כ ה\"ט דכל היכא דהזמן כתוב לפנינו כהלכתו לא תלינן בטעות עכ\"ל נראה ג\"כ דלאו ראיההיא דהא ודאי אלפים משמע נמי שנים כדאמרי' בכל דוכתי מיעוט רוב שנים אלא דמשמע נמי יותר משנים והלכך כל היכא שאין כ' בשני יודין יש לפרשו כראוי אבל אם היה כתוב בשני יודי\"ן לא הי' אפשר לפרשו כלל בענין אחר כי אין לתלות בשום דילוג או טעות שהרי כתוב להדיא אלפיים בשני יודי\"ן ובעל כרחו היה מוקדם אבל הכא הא י\"ל שדילג המאות וי\"ל שהוא מוקדם וכיון דאיכא למימר הכי ואיכא למימר הכי טפי מסתבר לתלות בדילוג משנאמר שהוא מוקדם ודמי לכתב אלפים בלא ב' יודי\"ן דתלינן דדילג ארבע וה\"ה הכא ונרא' דגם הריב\"ש סי' שפ\"ב לא פסל רק בדילג העשרות אבל לא במאות ומ\"ש שם בתשו' וכבר הוכיח ר\"י ז\"ל מההיא דפ\"ק דע\"ז כו' דילמא שבק לאלפא קמא ונקטיה לאלפא בתרא אבל בנדון זה דכ' כלל קמא ושבק לפרטא מציעאה והדר כתב לפרטא בתרא ודאי מוקדם הוא עכ\"ל קאי דוקא אמ\"ש שם בתשו' בדילוג העשרות והחילוק בין דילג המאות לעשרות קל להבין וכ\"כ בתשובת מהר\"ר משה מינץ סי' ט' בהך דתשובת מהרא\"י הנ\"ל דדילג המאתים להכשיר בדיעבד וז\"ל כיון דדילג הרבה שנים יותר מדאי מה שהוא ע\"כ צריכנא למימר וליישב דהאי שבק ודילג מאתים בשלמא אי הוה הדילוג שנים מועטים אז הוה חששא דמוקדם כו' אבל עתה דדילג מאתים א\"כ ליכא חששא כו' דהאי גברא לא היה קודם מאתים מה לו להקדים כ\"כ יש לדונו דשוכח כו' ועוד האריך ע\"ש (ועיין בתשובת מהרא\"ן חיים סי' ק\"י) וכן נלע\"ד עיקר (ונראה דגם מהרא\"י לא מחמיר אלא בגיטין ולא בשטרות וכן נראה מדבריו למעיין שם ואף בגיטין יש צדדין להקל ודו\"ק):",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:5"
+        },
+        "6": {
+          "he": "והשמיט חמשת כשר.  הטעם נתבאר בס\"ק הקודם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:6"
+        },
+        "7": {
+          "he": "היה ביום ארבע ועשרים כו'  כשר דתלינן דטעו בעיבורא דירחא. ור\"ת במרדכי שם חולק ומייתי ליה בפסקי מהרא\"י ס\"ס י\"א ע\"ש וגם הרב בהגהת בא\"ע סי' קכ\"ו סעיף כ\"א כ' דיש חולקין והוא דעת הריב\"ש סי' קי\"ז ותימה על מה שסתם כאן כדברי המחבר ואולי דוקא בגיטין נראה לו להרב להחמיר או שאני הכא בחדש תשרי כ\"ב בו דהוא שמיני עצרת דעל כרחך השטר מאוחר וכדלקמן סעיף י\"ד ומ\"מ ר\"ת חולק להדיא וכן מסיק בפסקי מהרא\"י שם דבא\"ז דסנה' מייתי דרבינו תם ועוד שני גאונים עמו פסלו שטר כזה ע\"ש ונראה טעמם דבתרי יומי לא אמרינן דטעי או בתר רובא דירחא לא אמרינן דטעי כדלעיל סי' ל' (ועי' בתשו' מהרא\"י ן' חיים סי' ק\"י) וצ\"ע לדינא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:7"
+        },
+        "8": {
+          "he": "כתב ידו א\"צ כו'.  הטעם כיון דאין טורפין בו מלקוחות עכ\"ל סמ\"ע וכן אם יש על הלוה עצמו עוד שטרות אין לזה דין קדימה דזה הוי כמו משועבדים דאל\"כ היה צריך לכתוב בו זמן וכדלעיל ס\"ק א' אלא ודאי חיישינן לקנוניא שהלוה יקדים הזמן וכן הוא בתשו' הרשב\"א שהביא ב\"י ס\"ס מ\"ז ועמ\"ש בסי' מ\"ח:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:8"
+        },
+        "9": {
+          "he": "ולפיכך קנסו כו'.  וע' לקמן סי' נ\"ב מה שכתבתי בזה בס\"ק ד':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:9"
+        },
+        "10": {
+          "he": "ולא יגבה בשטר מוקדם אלא מבני חורין.  נראה דהיינו לומר כשבא לב\"ד בשטר כזה לתבוע את הלוה גובה בו מיד מבני חורין וקורעין את השטר או שכותבין לו פס\"ד על הלוה וממילא טורף אף ממשעבדי מיום שנכתב הפס\"ד אבל אין מוסרים לו השטר שיגבה מהלוה מבני חורין דהא יש לחוש שיגבה בו ממשעבדי מזמן ראשון:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:10"
+        },
+        "11": {
+          "he": "אלא מבני חורין.  ואפי' אם יקחו הב\"ד השטר בידם ולא יתנו לטרוף מזמן ראשון או שיכתבו ב\"ד על השטר שטר זה לא יטרוף בו כ\"א מזמן זה אפ\"ה אינו גובה ממשעבדי משום קנס כיון דמתחלת כתיבתו היה ראוי ועומד לטרוף מזמן ראשון ע\"כ ל' סמ\"ע. ואף שבש\"ס ופוסקים לא מוכח מידי די\"ל דאינהו מיירי בשטר שהוא כתוב מכל צד שא\"א לכתוב עליו עוד שום דבר וכה\"ג צ\"ל בפ' ג\"פ בש\"ס ופוסקים גבי פלוגתא דר' יודא ור' יוסי במי שפרע מקצת חובו יחליף כו' ולא אמרי' יכתוב על גביו. וכה\"ג צ\"ל בכמה דוכתי מ\"מ לענין דינא מסתבר כדברי הסמ\"ע דדמי לדלקמן סי' מ\"ה סעיף י\"ד דכיון שנרא' פיסולו בב\"ד שוב אין לו תקנה ע\"ש ולפ\"ז אם. המלוה בעצמו כתב עליו קודם שנראה בב\"ד שלא ניתן לטרוף אלא מזמן זה כשר וכן נראה ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:11"
+        },
+        "12": {
+          "he": "וי\"א דפסול לגמרי  הוא דעת ר\"י וסיעתו בטור ע\"ש וכ' הסמ\"ע ס\"ק י\"א דמוכח מדברי הטור מיניה וביה דאינו ר\"ל נפסל לגמרי מכל וכל אלא אם טוען להד\"מ אינו נאמן והוחזק כפרן מכח זה השטר אבל אם טוען פרעתי נאמן עכ\"ל ולפ\"ד לא מוכח מידי דנהי דדעת ר' יונה בטור לקמן סי' מ\"ה הוא כן אבל דעת ר\"י בעל התוס' שהביא הטור כאן אינו כן (ולא הביא הטור סי' מ\"ה דברי ר' יונה אלא בשביל דינים אחרים ע\"ש) אלא אדרבה משמע מדבריו דנפסל לגמרי מכל וכל וכן משמע בתוס' פ' מי שמת (בבא בתרא דף קנ\"ז ע\"ב) בשם ר\"י ע\"ש וכן מוכח בהריב\"ש סי' שפ\"ב לדעת ר\"י דמייתי ראיה לדברי ר\"י מהא דפריך בש\"ס פ\"ק דמציעא (דף י\"ז) תיפוק ליה דה\"ל מוקדם ומאי פריך הא שטר שנמחל שעבודו עדיף דלא גבי אפי' מבני חרי. ואם איתא הא גם לדברי ר\"י אכתי קשיא הא שטר שנמחל שעבודו עדיף דיכול לטעון להד\"ם כדמשמע בפרק חזקת (בבא בתרא ד' ל\"ב ע\"ב) גבי ההוא ערבא דמייתי הריב\"ש גופיה שם ע\"ש. וכן כ' הב\"ח לדעת ר\"י פסול מכל וכל וכ\"כ בתשו' מהר\"א ן' ששון סי' קמ\"ה שם משמע בטור לדעת ר\"י והרא\"ש ע\"ש. והכי משמע נמי מדכתבו ר\"י והרא\"ש דפסולים לגבות מבני חרי משום דלישנא דפסולים משמע דפסולים לגמרי כו' ע\"ש וכן משמע בפסקי מהרא\"י סי' י\"ג שכתב וז\"ל דאשר\"י נראה דסבר כדברי התוספות דבשטר מוקדם לא גבי אפי' מבני חרי משמע דכמו אספא בעלמא הוא עכ\"ל וכן נראה מדברי הר\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:12"
+        },
+        "13": {
+          "he": "דפסול לגמרי אע\"פ שהעדים כשרים  ובדרך שיתבאר ודלא כבעל גדולי תרומה דף שכ\"ט ע\"ד שכתב שטעם הרא\"ש הוא מפני שהעדים פסולים שכתב והלא העדים פסולים כו' והתוספות כתבו דאין גובה אפילו מבני חורין בשטר ודקדקו מלשון פסולים כו' אלמא לתרץ קושייתם דעדים פסולים נינהו קאמרו דאין גובה אפי' מבני חרי עכ\"ל ושגג שגגה גדולה דא\"כ מאי מייתי הרא\"ש שם מחלוקת בזה פשיטא דלכ\"ע היכא דהעדים פסולים השטר בטל לגמרי וגם מאי פריך התם בש\"ס ומייתי לה הרא\"ש לגבי מזמן שני ול\"ל לש\"ס דגזירה דשמא יגבה מזמן ראשון כו' אלא ודאי הרא\"ש מיירי בגווני דהעדים כשרים וכמ\"ש הרא\"ש שם ואפ\"ה כתבו התוס' דשט\"ח המוקדמים פסולים לגמרי וזה פשוט מאד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:13"
+        },
+        "14": {
+          "he": "לגמרי.  השטר אבל מ\"מ לכ\"ע גובה מהלוה כשהוא מודה שהוא חייב או כשיש עדים בזה וכמו שכתבתי לקמן סי' נ\"ב ס\"ק ד' וכ\"כ בתשובת מהר\"ש כהן ספר ב' סי' קנ\"ח ובתשובת מהר\"א ן' ששון סי' קמ\"ה וכן נראה מבואר מדברי הסמ\"ע והב\"ח ושאר אחרוני' והוא פשוט:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:14"
+        },
+        "15": {
+          "he": "במה דברי' אמורים כו'  כשלא הקדימו זמנו בכוונה כגון שכתבו שטר ללוה בלא מלוה והלוה לא לוה עד לאחר זמן ואע\"ג דאין לכתוב שטר ללוה בלא מלוה אלא בשטרי אקנייתא וכדרב אסי (ויש פוסקים דמותר משום דעדיו בחתומיו זכין לו וכמ\"ש לעיל סימן ל\"ט סעיף י\"ג וע\"ש) מ\"מ מאן דלא גמיר דרב אסי לא מיפסל כ\"כ הר\"ן פ\"ק דר\"ה והנמ\"י פ' א\"נ וכ\"כ הריב\"ש סי' שפ\"ב וה\"ה ר\"פ כ\"ג מהל' מלוה בשם הרמב\"ן והרשב\"א. ומשמע מכאן להדיא דכ' ללות בניסן ולא לוה עד תשרי ה\"ל מוקדם ופסול לגמרי אפי' לגבות מזמן שני לפוסקים דלא כאביי וכדעת הטור סעיף ז' שחולק על הרמ\"ה (ובב\"ח כתב טעם לדברי הרמ\"ה מש\"ס דפ' א\"נ גבי הא דקאמר התם הכי השתא התם נהי דלא ניתן לכתיב מזמן ראשון כו' ולפע\"ד אין משם ראיה ע\"ש) דס\"ל דהיכא דניתן לכתוב מזמן ראשון כגון כתב ללות בניסן ולא לוה עד תשרי טורף לקוחות מתשרי ע\"ש וכן נ\"ל מן הש\"ס פ\"ק דמציעא דף י\"ז ע\"א גבי הא דפריך התם תיפוק ליה דה\"ל מוקדם ע\"ש. וכן ראיתי בפי' המשנה להרמב\"ם פ' בתרא דשביעית שכתב ג\"כ דהיכא דפרע לו וחזר ולוה ממנו בזמן אחר בשטר הראשון או שכ' לו שטר בניסן ולא לוה עד תשרי ואין בשטר קנין או שלוה בניסן והקדים הזמן מאדר בכל אלו ה\"ז שטר מוקדם ואינו גובה אפי' מזמן אחרון עכ\"ד. וכ\"כ בעל העיטור דף ד' סוף ע\"א. וכן מוכח לפע\"ד ג\"כ ברש\"י פ\"ק דמציעא דף י\"ג ע\"א ד\"ה הני מילי כו' גבי מ\"ש שם ואי קשיא לך ש\"ח המוקדמים פסולים במאי מוקים לה אביי כו' ע\"ש ודו\"ק: וראיותי בס' גידולי תרומה שער נ\"ו ח\"א שכ' על אופן הראשון שכתב הרמב\"ם בפי' המשנה דלעיל וז\"ל ותימא דא\"כ האיך מהני לגבות מבני חרי כדבריו ז\"ל בחבור הרי אספא בעלמא הוא שוב מצאתי לרב בעל ל\"מ ז\"ל הקשה ע\"ז מדאקשינן בש\"ס נהי דלא גבי מזמן ראשון ניגבי מזמן שני כו' ואי נמחל שעבודו אין לו לגבות כלל מן הדין ע\"ש והוא תמיה עצומה עכ\"ל ס' ג\"ת. ולפע\"ד ל\"ק מידי מה שהקשה הג\"ת ובעל לחם משנה שהרי הרמב\"ם לא בא אלא לומ' דבכה\"ג הוי נמי מוקדם (וכדמשמע להדיא בפ\"ק דמציעא דף י\"ז) אבל מנמחל שעבודו לא מיירי ומיירי בגוונא דלית ביה משום נמחל שעבודו כגון שמוסרו לו עתה בזמן שני (או שנוטל עתה קנין חדש כמ\"ש המרדכי פ' כל הגט בשם רשב\"ם והר\"ב לקמן סי' מ\"ח) בפני העדים החתומים בו דעידי מסירה כרתי וכמ\"ש המרדכי פ' הכותב בשם ר\"י ומביאו ב\"י והר\"ב לקמן סי' מ\"ח ואפ\"ה פסול משום מוקדם ולהכי כ' המרדכי שם דמהני דוקא ביום החתימה ע\"ש וזה ברור. [ובזה ניחא נמי מה שהביא הטור בסעיף ז' דברי הרמ\"ה וחולק עליו דהא איהו פסק לעיל סי' ל\"ט כאביי ובב\"ח דחק בזה אבל לפי מ\"ש ניחא דנפקא מיני' לשטר שלוה בו ופרעו ומוסרו לו בפני עידי החתימ' בזמן אחר דלהרמ\"ה לא הו\"ל מוקדם כיון דניתן לכתוב מזמן ראשון ולדעת הטור ה\"ל מוקדם וכבר כתבתי דדברי הטור עיקר]:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:15"
+        },
+        "16": {
+          "he": "כשלא הקדימו כו'.  ובאופנים שכתבתי לקמן ס\"ק י\"ט או באופן שכתבתי בסמוך בשם הפוסקים דכתבו שטר ללוה בלא מלוה ולא לוה עד לאחר זמן דכשרים העדים. ומשמע בריב\"ש סי' שפ\"ב ובה' המגיד ריש פכ\"ג מה' מלוה דבהך דכתבו שטר ללוה בלא מלוה או בטעות דעיבורא דירחא העדים עצמן נאמנים בזה אפי' כת\"י יוצא ממקום אחר אף להרמב\"ן ע\"ש אך בנמ\"י פ' א\"נ משמע לכאורה דכ' ללות בניסן ולא לוה עד תשרי אין נאמנים להרמב\"ן רק בשאין כת\"י יוצא ממק\"א ויש ליישב דמה שכ' אחר כן בשם הרמב\"ן לא מיירי בכתב ללות בניסן ולא לוה עד תשרי ע\"ש וכן משמע בר\"ן פ\"ק דר\"ה שכ' איכא למימר כגון דהוי השטר מוקדם במידי דעבידי אנשי למיטעי ביה כגון שכתבו שטר ללוה בלא מלוה כו' ואח\"כ כ' בתר דברי הרמב\"ן אבל ודאי כל טעותא דעבידי עדים למטעי לית ביה משום חוזר ומגיד כו' ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:16"
+        },
+        "17": {
+          "he": "ויש אומרים דהעדים נאמנים בזה כו'.  כלו' אע\"פ שאין אומרים טעינו בעבורא דירחא וכה\"ג נאמני' לומר שהוא מוקדם ולא נתנו לב לזה כי לא חתמו רק על גוף השטר ולא על הזמן כי נאמנים העדי' לומר על זה חתמנו וע\"ז לא חתמנו וכ' בסמ\"ע ס\"ק י\"ג בהג\"ה וז\"ל ובריב\"ש סי' שפ\"ב האריך בזה וכ' על עדים שהיה כתוב בשטר ד' שנים והיה להם לכתוב ל\"ד שנים ואמרו שטעו ופסק דאין נאמני' דאין רגילים לטעות בהכי ע\"כ לשון ד\"מ ח' עכ\"ל סמ\"ע ודבריו תמוהים דליתא כן בריב\"ש וגם הב\"י מכשיר להדיא בזה והבאתי דבריו לעיל ס\"ק ד' והיה נראה שט\"ס יש כאן וצ\"ל שהי' כתוב בשטר ק\"ד שני' והי' להם לכתוב קל\"ד שנים כו' וכן הוא בריב\"ש ואין להקשות א\"כ היינו הך דכ' הרב בהגה' סעיף ב' ומאי קמ\"ל י\"ל דהרב לא אשמועינן אלא דבכה\"ג פסול ואפשר דמיירי שנודע שנכתב כן בפסול או שהעדים הלכו למ\"ה ואינם לפנינו והסמ\"ע אשמועינן בשם הריב\"ש דאפי' העדי' לפנינו ואומרים שטעו בזה אין נאמני' אך שראיתי בדרכי משה כ' מתחלה בסעיף ב' דברי הריב\"ש שה\"ל לכתוב בשטר קל\"ד וכ' ק\"ד ואח\"כ בסעיף ח' כ' דברי הריב\"ש אלו כמ\"ש הסמ\"ע כאן וא\"כ דבריהם צ\"ע:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:17"
+        },
+        "18": {
+          "he": "וה\"ה בכל טעות כו'  וכ' הריב\"ש (סי' שפ\"ב) שסיים הרז\"ה וצריך ב\"ד הגדול ולהחמיץ הדין עכ\"ל ב\"י וכן הוא בהר\"ן שם ובדברי הרז\"ה בס' המאור שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:18"
+        },
+        "19": {
+          "he": "ויש חולקין  דברי הרב צל\"ע דמשמע דלהיש חולקין אפי' בטעות שהעדי' מצויין לטעות אין נאמני' לומר שטעו וכן נראה מדבריו בד\"מ ע\"ש והא ליתא דהא היש חולקין הם הרמב\"ן ור\"י והרא\"ש והם מודים בזה וכמו שאבאר באמת בב\"י ובד\"מ הביאו דברי הר\"ן בקצר' ע\"ש אבל כשתעיין בהר\"ן עצמו פ\"ק דר\"ה תראה שמתחילה הביא דברי הרז\"ה וכ' אבל הרמב\"ן ז\"ל כתב בפ' א\"נ דהאי ירושלמי בשאין כת\"י יוצא ממק\"א אבל ודאי כל טעותא דעבידי עדים למיטעי ביה לית ביה משום חוזר ומגיד דהכי מוכח ההיא דפ' ג\"פ (ההיא תברא דהוה חתים עליה רב ירמיה) עכ\"ל והכי משמע מדברי הרב המגיד ריש פרק כ\"ג מהל' מלוה והריב\"ש סי' שפ\"ב דאף להרמב\"ן נאמני' העדי' עצמם לומר שטעו בעיבורא דירחא או בשער טעות דעבידי למיטעי ע\"ש ומ\"ש הטור וז\"ל ובמה יודע שהוא מוקד' י\"א כגון שהעדים החתומי' בו מעידי' שהוא מוקדם הם נאמנים ואפי' אם כ' ידן יוצא ממק\"א שהרי הוא ניתן לכתוב מזמן שנעשית ההלואה לפיכך נאמנים לומר לא נתכווננו לחתום אלא מזמן שנעשית ההלואה ולא הרגשנו בשעה שחתמנו שהיה מוקדם אבל לדעת ר\"י אם כת\"י יוצא ממק\"א אין נאמני' אא\"כ מעידים עליהם שהיו אנוסים מחמת נפשות או שאין כת\"י יוצא ממקום אחר ואמרו שטעו בשנת המלך וכ\"כ א\"א הרא\"ש ז\"ל עכ\"ל לאו למימרא דלדעת ר\"י והרא\"ש אין נאמנים אא\"כ אין כת\"י יוצא ממק\"א אף בטעות שהעדי' מצויין לטעות דא\"כ אמאי נקט הטור דוקא טעינו בשנת המלך הל\"ל נמי טעינו בעיבורא דירחא וכדאית' בתוס' והרא\"ש ועוד דא\"כ קשה מנ\"ל להטור הא בדעת ר\"י והרא\"ש (ואע\"פ שמדברי הב\"ח נראה דה\"ה טעינו בעיבורא דירחא וכ' שהוציא כן מדברי התוס' בשם ר\"י פ\"ב דכתובות מ\"מ דבריו לא נהירין כלל למעיין שם) אלא נראה ברור דאין כוונת הטור רק שר\"י והרא\"ש חולקין על סברת הי\"א שהוא סברת הרז\"ה ובעל התרומות ריש שער נ\"ו דס\"ל דאפי' כת\"י יוצא ממק\"א נאמני' לומר על זה חתמנו ועל זה לא חתמנו אפי' אין אומרי' שטעו כגון שאין לתלות כלל הדבר בטעות יכולים לומר לא נתננו לב לחתום על זמן השטר ועל זה ודאי ר\"י בעל התוס' והרא\"ש חולקים שהרי הקשו והלא העדים פסולים והוצרכו לדחוק כגון שיש עדים אחרים שמעידי' עליהם שהיו אנוסים מחמת נפשות או שאומרים טעינו בשנת המלך או בעיבורא דירחא עכ\"ל ואם איתא הלא מעיקרא לק\"מ שהרי העדים עצמם יכולים לומר לא נתננו לב לחתום על זמן השטר אפי' לא טעו בשנת המלך או בעיבורא דירחא אלא ודאי ס\"ל דכשכת\"י יוצא ממק\"א אין נאמנים. וס\"ל להטור דטעינו בשנת המלך הוי טעות דלא עבידי למטעי ולהכי אין נאמנים אלא כשאין כת\"י יוצא ממקום אחר אבל אם אין אומרים טעינו בשנת המלך אין נאמנים אפי' כשאין כת\"י יוצא ממקום אחר דמשוי נפשייהו רשיעי ודמי לאנוסים היינו מחמת ממון או שטר אמנה לקמן סי' מ\"ו סעיף ל\"ו דאין נאמנים אפי' אין כ\"י יוצא ממק\"א מטענת דמשוי נפשייהו רשיעי ע\"ש) ואף על גב דלכאורה משמע מדברי התוס' והרא\"ש שמה שמתרצים או שאומרים טעינו בשנת המלך או בעיבורא דירחא קאי גם אשכ\"י יוצא ממקום אחר (ודלא כנראה מב\"י וב\"ח ע\"ש) מ\"מ התוס' והרא\"ש לא באו אלא לתרץ קושייתם והלא העדים פסולי' כיון שבע\"כ עדים אחרי' מעידי' שהשטר מוקדם ואם כן חתמו שקר ועל זה תירצו דעדי' אינם פסולי' דיכולי' להתנצל עצמם ולומר טעינו בשנת המלך או בעיבורא דירחא (ובזה ניחא נמי דל\"ק כלל מה שהקשה בס' גדולי תרומה ריש שער נ\"ו על דברי התוס' הנ\"ל וז\"ל ואיכא למידק לפי דבריה' במ\"ע אי בשכת\"י יוצא ממקו' אחר היאך נאמנים לומר טעינו ואי בשאין כ\"י יוצא ממ\"א הא אפילו הם עצמן נאמני' לומר אנוסי' היינו מחמת נפשות ודוחק לומר דתירוץ ראשון מיירי בכת\"י יוצא ממק\"א ותירוץ שני באין כת\"י יוצא ממ\"א עכ\"ל ולפי מ\"ש לק\"מ דכולהו מיירי בשכת\"י יוצא ממ\"א ואפ\"ה נאמני' לומר טעינו להתנצל עצמם כשיש עדים אחרים שמעידי' שהוא מוקדם וכדפי' ודוק) אבל מ\"מ הם עצמם אינם נאמני' לומר שהוא מוקדם ושטעו בשנת המלך רק כשאין כת\"י יוצא ממ\"א דטעות בשנת המלך אינו מצוי כל כך מ\"מ במילתא דעבידי למיטעי אי נאמני' הם עצמם לא הוזכר בטור ובתוס' והרא\"ש ומן הסברא נראה שמודי' בזה שנאמני' (וכשתירצו התוס' והרא\"ש שאומרי' שטעו בעיבורא דירחא יכול להיות דמיירי אף כשהם עצמם אומרי' שהוא מוקדם) שהרי הם עומדי' בשטת הרמב\"ן וכיון דהרמב\"ן מודה לזה וכמ\"ש לעיל למה נאמר שהם חולקי' וכ\"כ המחבר לעיל סי' כ\"ט בסתם דבכל טעות שהעדי' מצויים לטעות בו נאמני' הם בעצמם ואין בזה משום חוזר ומגיד והוא מרברי הר\"ן הנ\"ל דבפ\"ק דר\"ה ולא הביא המחבר או הר\"ב שם שום חולק וא\"כ דברי הר\"ב בכאן שכתב ויש חולקין צל\"ע. וצריך לדחוק דמ\"ש הר\"ב ויש חולקין לא קאי רק אריש דבריו וק\"ל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:19"
+        },
+        "20": {
+          "he": "אבל אם הקדימוהו בכוונה כו'.  כ\"כ ב\"י במחו' ו' בשם הריב\"ש סי' רס\"ד (והוא ג\"כ בריב\"ש סי' שפ\"ב) ולא ידעתי למה הוצרך לכתוב כן בשם הריב\"ש שהרי הוא פשוט בתוסי בב\"ק דף ל' ובב\"מ דף ע\"ב ובב\"ב דף צ\"ד וברא\"ש פ' א\"נ ובהגהת מרדכי ובנ\"י שם ובהר\"ן פ\"ק דר\"ה ובתשו' סי' פ\"ז ובה' המגיד ר\"פ כ\"ג מה' מלוה בשם הרמב\"ן ורשב\"א ובעה\"ת ריש שער נ\"ו ור' ירוחם נתיב ו' חלק ו' ושאר הרבה פוסקי':",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:20"
+        },
+        "21": {
+          "he": "אין כל זה כו'.  כלו' דלא תימא דהא ליכא למיחש שיגבה מזמן ראשון דהא בשנת נ\"ז עדיין לא הי' חתנו וא\"כ מה שנכתב נ\"ז יהא משמעותו נ\"ח ויהי השטר בתקפד מנ\"ח אלא ה\"ל כאלו לא נכתב בו חתני והשטר מוקדם והוא פסול וקאמר ומ\"מ אם העדי' קיימי' כו' כלו' השתא מפרש באיזה ענין השטר פסול. וקאמר אם אין כת\"י יוצא ממקו' אחר הכל תלוי בעדי' ונאמני' לומר שנעש' בשנת נ\"ח ויכולי' לכתוב לו שטר אחר מזמן שני ולא מזמן ראשון ואם כ\"י יוצא ממקו' אחר אין נאמנין שנעש' בשנת נ\"ח (והיינו כהיש חולקין שהביא הר\"ב בסמוך לעיל ס\"ח דבכ\"י יוצא ממ\"א אין נאמני' לומר שהוא מוקדם ולא הגיה כאן כלום שסמך אמ\"ש בסמוך) ואם המקבל מתנה אומר שבשנת נ\"ז קנו מידו נאמן ואם מודה שנעש' בשנת נ\"ח הוא פסול מ\"מ המקבל מתנה נאמן לומר טעות הי' מגו דאי בעי אמר שטרא מעליא כו' והיינו כשכת\"י יוצא ממק\"א. ובעיר שושן כ' ואם כת\"י יוצא ממ\"א ואין להם מגו אין נאמני' לחתו' שטר אחר כו' וכן נראה שהבין בסמ\"ע ס\"ק ט\"ז ולא נהירא לחלק לענין שיכתבו שטר אחר מזמן שני בין כת\"י יוצא ממ\"א או לא ונרא' דאף שכת\"י יוצא ממ\"א יכולי' לכתוב שטר אחר מזמן שני אלא כוונת הרשב\"א כמ\"ש והמחבר ודוק. וגם מ\"ש הע\"ש אח\"כ וז\"ל א\"נ הכא יש תקנה למקבל המתנ' אם אין כת\"י יוצא ממ\"א הוא בעצמו יודה ויאמר ששטר זה טעות הוא והשתא יהא נאמן במגו דאי בעי אמר ודאי שטר מעליא הוא כו' לא נהירא כלל ואולי ט\"ס יש בדבריו וצ\"ל אם כת\"י יוצא ממ\"א. עיין בתשו' מהר\"א ן' חיים סי' מ\"ג וסי' ק\"י:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:21"
+        },
+        "22": {
+          "he": "יכולי' לחתום שטר אחר מזמן שני.  דאלו לא עשו שליחותן שהרי הוא אמר להם לכתוב בשנת נ\"ח והם כתבו בשנת נ\"ז כו' כ\"כ ב\"י בשם הרשב\"א (וכ\"כ בסמ\"ע) ולא ידעתי למה הוצרך לזה דהא בשטר מתנה ק\"ל דכותבין אפילו כמה שטרות וכדמוכח להדיא בפ' גט פשוט ריש דקע\"א וכמ\"ש ב\"י בשם הרשב\"א גופיה לעיל סי' מ\"א מחו' ח' ולקמן סי' מ\"ט מחו' ב' וסי' רל\"ט ס\"א ואין לומר דמיירי במתנ' שיש בה אחריות דא\"כ היאך יכתבו לו שטר אחר מזמן שני הא אתי למיטרף לקוחות שלא כדין בשטר מתנה זה שלא נכתב רק עתה אחר הזמן השני ואע\"פ שאין כת\"י יוצא ממ\"א ואית להו מגו מ\"מ כיון דבאמת שטר זה פסול אף מזמן שני אינן יכולין לעשות לו שטר אף מזמן שני והכי מוכח מדברי ה' המגיד ר\"פ כ\"ג מה' מלוה בשם הרמב\"ן והרשב\"א והגהת מרדכי פ' א\"נ והטור ושאר פוסקי' שכתבו דמשכחת לה שיודע שהשטר מוקדם כגון שאין כת\"י יוצא ממ\"א ואומרי' אנוסי' היינו מחמת נפשות או טעינו בשנת המלך וכה\"ג והא בכה\"ג אית להו מגו ואמאי לא יטרוף לקוחות אף מזמן שני יעשו לו העדי' עצמם שטר מזמן שני אלא ודאי כיון שהשטר הראשון פסול אין יכולי' לעשות לו שטר מזמן שני דיטרוף שלא כדין מזמן שני דהא לקוחות לא ידעי משום שטר מזמן שני וא\"כ ה\"ה הכא בשטר מתנה שיש בה אחריות. ועוד דא\"כ היאך מסיק הרשב\"א ואם יש עדי' אחרי' כשרי' שראו שקנו מידו בשנת נ\"ח יכולי' לכתוב לו שטר המתנ' משנת נ\"ח דעידי מתנה א\"נ שיהיו מזומני' לעדות כדמוכח בפ' יש נוחלין גבי שלשה שנכנסו נבקר החולה א\"נ יעידו בפני ב\"ד והם יכתבו לו שטר מעשה ב\"ד בקבלת עדים אנו עכ\"ל והא במתנ' שיש בה אחריות מוכח בפ' גט פשוט דעדים לא יעשו שטר אחר רק ב\"ד וכמו שנתבאר לעיל סי' מ\"א (והכא נראה דאפילו ע\"פ ב\"ד לא מהני לעשות שטר אחר מזמן שני אם המתנ' היא באחריות מטעם שכתבתי ודוק) וגם ההוא דיש נוחלין אינה ענין נכאן דהתם לא מיירי ממתנ' שיש בה אחריות וכן משמע בסמ\"ע ס\"ק ט\"ז דהרשב\"א מיירי בסתם מתנה שכ' וז\"ל והטע' דבמתנ' א\"צ שיהיו מזומני' דדוקא בעידי הלואה דאיכא למימר שהעדי' שהזמין כתבו וחתמו ויהבו שטר למלו' והלוה כבר פרע לו ולקח שטרו מידו (ע\"ל סי' ל\"ט סעיף ה') משא\"כ במתנ' מיוחדת דלא שייך לגבות בו ב' פעמי' עכ\"ל ואי במתנה שיש בה אחריות הא איכא נמי למיחש שיגבה ב' פעמים וכדאיתא בש\"ס ולעיל סי' מ\"ח אלא ודאי מיירי בסתם מתנה ולכך יכולי' העדי' לכתוב לו מזמן שני שאינה אלא להעמיד המתנ' בידו ולא יהא אלא שמעידין כן בעל פה שנתן לו מתנה זו בזמן פלוני שהרי היא שלו בזמן פלוני. וא\"כ הדרא קושיא לדוכתא ל\"ל טעמא דאלו לא עשו שליחותן וגם אמאי מסיק ואם יש שם עדים אחרי' כו' הלא אפילו העדי' עצמם יכולי' לעשות לו שטר אחר של מתנה ואולי זמן שני דקאמר היינו זמן של עכשיו ומיירי שמיד בשנת נ\"ח נודע הפסול ומיירי במתנ' באחריות ודלא כסמ\"ע וצל\"ע:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:22"
+        },
+        "23": {
+          "he": "ולא יום שהלוה לו.  ולהפוסקי' כאביי דעדיו בחתומיו זכין לו אף בלא קנין כשנמסר למלו' זכה למפרע מיום שהלו' לו וכבר הארכתי בזה לעיל סימן ל\"ט סעיף י\"ג ס\"ק ל\"ו (עיין בתשו' מבי\"ט ח\"ב סי' צ\"ט):",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:23"
+        },
+        "24": {
+          "he": "שטרי חוב המאוחרי' כשרי'.  כתב בתשובת מהר\"א ן' ששון סי' קמ\"ה אע\"פ שאחרוהו שלא מדעת המלו' ופשוט הוא ולחנם האריך שם בזה ופלפל והניח בצ\"ע ע\"ש כי היאך יעלה על הדעת לפסול שטר שנכתב למלו' מפני שאחרוהו וגרעו כחו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:24"
+        },
+        "25": {
+          "he": "המאוחרי' כשרי'.  ל' ב\"י מחו' י\"א מדברי בעה\"ת שער נ\"ז משמע שהמוציא על חבירו שטר מאוחר עד דמטא זמני' לא טריף עכ\"ל ולא ידעתי למה הוצוך נכתוב כן בשם בעה\"ת הלא ש\"ס ערוך הוא רפ\"ק דעכו\"ם דף ט' סבור רבנן למימר האי שטר מאוחר הוא ולא טריף עד דמטא זמניה ומביאו הב\"י ריש סי' זה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:25"
+        },
+        "26": {
+          "he": "אבל אם לא כתב בו דאקני פסולי'.  ולהי\"א לקמן ר\"ס קי\"ב דגם בדאקני אחריות ט\"ס כשרי' הכא אף בלא כתוב בו דאקני אא\"כ שפירש בו בלא דאקני וע\"ש בסי' קי\"ב ס\"ק א' שהעליתי בזה וגם ישבתי להי\"א על נכון מה שהקש' ה' המגיד על הרמב\"ם וגם מה שהקש' על הרשב\"א ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:26"
+        },
+        "27": {
+          "he": "פסולי'.  מפני שטורף הנכסי' שקנה אחר ההלואה עד כתיבת השטר שלא כדין:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:27"
+        },
+        "28": {
+          "he": "אבל בשטרי מקח וממכר.  נ\"ל ה\"ה שטר מתנה וזיל בתר טעמא (עיין בתשו' מ\"ש לס' משפטים סי' ס\"ה שהאריך להקשות על בעל העיטור ע\"ש):",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:28"
+        },
+        "29": {
+          "he": "אפי' מאוחרים פסולי'.  הטעם איתא בש\"ס ופוסקי' דאיכא למיחש שמא אח\"כ יחזור וימכרנ' להמוכר ויוציא אח\"כ זה השטר שזמנו מאוחר ויאמר חזרתי ולקחתי ממך פעם שנית וכתבוהו הטור והמחבר לקמן סי' רל\"ט. ונ\"ל דמסתמא לא יוטל ממנו השטר מכירה שכתב לו שהוא ללא צורך דאע\"פ שהחזיר לו השטר לא חזרה המכירה או המתנה דקי\"ל כחכמים דפליגי ארשב\"ג בפ' גט פשוט (בבא בתרא דף קס\"ט) וכדלקמן סי' רמ\"ג ס\"ט וגם גוף השטר הוא של לוקח כיון שהוא נותן שכר הסופר כדלקמן סי' רל\"ח ובע\"כ כשרוצה המוכר לחזור וליקחנו צריך לשמור גוף השטר מכירה החדש כמו שאר לוקחים וגם יוכל הלוקח לומר אע\"פ שגוף השטר בידי לא אתננו לך כיון דבע\"כ צריך אתה שטר מכירה מחדש א\"כ תשמור שטרך כמו שאר לוקחים ואם לא תרצה לא אמכור לך (אבל בשט\"ח מאוחרים יטול ממנו השטר עצמו ובטל החוב בזה וגם גוף השטר של לוה הוא וצריך המלוה ליתן לו גוף השטר כדלקמן סי' נ\"ז כיון שהלוה נותן שכר הסופר כדלעיל ס\"ס ל\"ט יתן לו וכשלא גוף השטר כד אירכס ליה יכתוב השובר סתם וכדלקמן סי' נ\"ד ס\"ג כנ\"ל) ונלפע\"ד שבחנם דחק רשב\"ם דף קע\"א ע\"ב לפרש גבי שטר מכר דאירכס ליה וכתב לו שובר כו' ע\"ש דהא גבי שט\"ח הוא דקאמר בש\"ס בתר הכי דאירכס ליה וכותב לו שובר אבל בשטר מכר לא קאמר בש\"ס הכי אלא ודאי כדפרישית: כתב הב\"ח וז\"ל ועוד איכא טעמא רבה דכ' זבין ללוקח ראשון בניסן וכ' שטרא בתשרי והדר זבין ללוקח שני באייר וכתב ליה באייר כי אתא ב\"ח טריף מלוקח ראשון שזמנו מאוחר שלא כדין טריף ותו איכא טעמא דכי לוה בניסן וזבין באייר ולוה עוד בסיון וכתב לתרווייהו דאקני השתא אי עבדי' האי שטרא מאוחר וכתב ביה דזבין השדה בתמוז אתו הנהו תרי מלוין ויחלוקו השדה שלא כדין שהרי הכל הוא לראשון כיון דזבנה באייר מקמיה דלוה עוד בסיון עכ\"ל ודבריו תמוהין מאד דמ\"ש ועוד איכא טעמא רבה כו' ליתא אפי' טעמא כל דהו דכי בשביל שיש הפסד ללוקח באיחור השט' יפסיד הלוקח שטרו הלא יאמר הלוקח מה לכם לפסידא דילי אנא ניחא לי בהפסדה ובקיום השטר. ובכל דוכתא לא פסלינן לשטרא אלא כשיש בו ריוח לבעל השטר אבל לא כשמגרע כח בעל השטר. גם מ\"ש ותו איכא טעמא כו' נלפע\"ד ג\"כ דלאו טעמא הוא כלל דהא כיון שאפשר שלקחו הלוקח וחזר ומכרו למוכר וחזר ולקחו ממנו פעם שנית כדאמרי' הדרית זבנית מינך א\"כ אין השטר המאוח' ראיה שאז דוק' קנהו ופשיט' שיכול המלו' ראשון לטעון שקנהו ג\"כ קודם לכן וזה השטר המאוחר הוא על קניה אחרת מאי אמרתמאן לימא לן דקנהו מזמן הראשון הא השתא נמי יוכל הלוקח לכבוש השטר מכירה ומאן לימא לן דקנהו מזמן הראשון ועוד יש לסתור טעם זה בדרכים אחרי' ודוק. תימה גדולה על הב\"ח איך בדה מלבו טעמים שלא הוזכרו בש\"ס ובשום פוסק דבש\"ס ובכל הפוסקי' לא קאמרינן אלא טעמא משום דילמא הדר זבין מוכר מיניה כו' משמע להדיא דברשות המוכר שטרי מקח מאוחרים כשרים דהא כיון דידע המוכר דשטרו מאוחר לא זבין ליה מיניה עד דהדר ליה שטרא ולפי טועמיה של הב\"ח אפי' ברשות המוכר ה\"ל להיות פסולים אלא ודאי כדפי' וזה ברור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:29"
+        },
+        "30": {
+          "he": "פסולים.  נ\"ל דאם הודיעו למוכר שאחרו השטר מכר כשרי' ולפ\"ז מסתמא כשרים עד שיתברר שלא הודיעו ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:30"
+        },
+        "31": {
+          "he": "אין לאחר שום שטר לכתחלה.  אם לא שא\"א בענין אחר כדלקמן סעיף י\"ט וך' ושאר דוכתי דאז הוי כדיעבד:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:31"
+        },
+        "32": {
+          "he": "דאי אמר אשתבע לי כו'.  משמע דר\"ל שטוען אשתבע לי שאינו מוקדם וכן פי' הסמ\"ע והב\"ח. וקשה לי על המחבר א\"כ למה ישבע בשלמא על הטור לק\"מ דלטעמיה אזיל דכ' בס\"ו שמסקנת הרא\"ש ששט\"ח המוקדמים פסולי' אפי' לגבות מבני חרי ואפשר שגם בעל העיטור סובר כן אבל על המחבר קשה דהא פסק בסתם לעיל סעיף ז' דגובה מבני חרי. ודוחק לומר דהמחבר מפרשו לענין לקוחות. ועוד דא\"כ ל\"ל דאמר אשתבע לי הא בלא\"ה צריך לישבע נגד הלקוחות דקיי\"ל טענינן ללוקח ונראה דמיירי שטוען שהעדים הקדימו בכוונה ופסולים שחתמו שקר וכן משמע בדברי בעל העיטור שהביא הבעל התרומות סוף שער נ\"ו וז\"ל אבל לפסול את השטר אחר שנתקיים ולאחזוקי סהדי בפסולים לא מחזקינן ומסתברא דאי אמר לשתבע לי משתבע ליה אבל לא נתקיים השטר על בעל השטר להביא ראיה ואמרינן ליה קיים שטרך ואות לדינא עכ\"ל וכן משמע בבעל העיטור עצמו דף ד' ע\"א ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:32"
+        },
+        "33": {
+          "he": "אשתבע לי.  שאינו מוקדם אע\"פ שאינו טוען אשתבע לי דלא פרעתיך חייב וישבע דאע\"ג דבטוען אמנה או כתבתי ללות ולא לויתי אין צריך לישבע וכדלקמן סי' פ\"ב סעיף י' הכא כיון דזמנו בשבת איכא ריעותא. דמוקדם וצריך לישבע וכ\"כ הסמ\"ע ס\"ק כ\"ה והב\"ח ומשמע דאי ליכא ריעותא לפנינו א\"י להשביעו שאינו מוקדם דלא גרע מאמנה וכתבתי ללות ולא לויתי. ואין להקשות ממ\"נ אי טוען שפרעו ישבע לי בלא\"ה צריך לישבע לו שלא פרעו ואי אין טוען שפרעו ישלם לו י\"ל דטוען שפרעו אלא שאינו רוצה לומר לישבע לי דלא פרעתיו שחושד אותו שישבע כן שמורה לעצמו איזה היתר על שבועה זו אבל זה יודע שלא ישבע שאינו מוקדם לכך אומר ישבע לי שאינו מוקדם א\"נ מיירי שטוען לא לויתי דאפי' טוען לשתבע לי שהלוה לי לא משבעי' ליה בשטר כשר כדלקמן ספ\"ב סעיף י' דלא משבעינן אלא בפרעתי כיון דשטר לפרעון הוא עומד לכך טעין לישבע לי דלאו מוקדם הוא וע\"ז צריך לישבע לו כיון דזמנו בשבת ואיכא ריעותא דמוקדם לפנינו וכמ\"ש: כל שטר כו' שנמסר כו'. כ\"כ הטור. והקשה הסמ\"ע ושאר אחרונים דהא הטור ס\"ל לעיל ס\"ס ל\"ט כאביי דעדיו בחתומיו זכין לו והב\"ח כ' בסי' ל\"ט סי\"ו וסכ\"ד ובסי' זה סעיף י' דאפי' לאביי דעדיו בחתומיו זכין לו היינו דוקא כשהלוה מצוה שיעמוד השטר בידם בשביל המלוה או בסתם אבל כאן דאיתרע בנפילה חיישינן דילמא אמר לעדים שיתנוהו לידו של לוה דהשתא לא זכה בו למפרע כו' עכ\"ל ודבריו תמוהין דהא מוכח להדיא בש\"ס פ' שנים אוחזין בכמה דוכתי דאפי' אומר בפי' שיתנוהו לידו של לוה אמר אביי עדיו בחתומיו זכין לו חדא דהא אביי מתרץ (בדף י\"ג ע\"א) מתני' דכותבי' שטר ללוה אע\"פ שאין מלוה עמו אפי' בשטרי דלאו אקנייתא ומשום עדיו בחתומיו זכין לו כותבי' שטר ללוה כו' משמע שמוסרים השטר ליד הלוה ועוד דא\"כ מאי פריך לאביי מהך דמצא גיטי נשים וכו' נמלך עליהם מאי הוי והא אמרת עדיו בחתומיו זכין לו וכן בתר הכי פריך לאביי ממתני' דקתני מצא שטרי חוב כו' ומתרץ אביי ה\"ט דחיישינן לפרעון ולקנוניא ולשמואל דאמר לא חיישינן לפרעון ולקנוניא כו' שמואל מוקי למתני בשאין חייב מודהכו' ואם איתא הא מעיקרא לק\"מ דבמתני' כיון דנפל חיישינן דילמא אמר לעדים שיתנוהו לידו של לוה ולא אמרינן עדיו בחתומיו זכין לו וכן גבי שובר משני אביי (דף כ' ע\"א) שובר בזמנו טורף ועדיו בחתומיו זכין לו והא התם איתרע בנפילה והכי מוכח נמי ממ\"ש התוס' והרא\"ש גבי אוקימתא דר' אבא בר ממל דהיינו דלא כאביי כו' ע\"ש והכי מוכח נמי להדיא ממ\"ש הנ\"י בשם הרנב\"ר ומביאו הב\"י וד\"מ וסמ\"ע לעיל סי' ל\"ט ס\"ק ל\"ט דלאביי בכל ענין עדיו בחתומיו זכין לו. וכדי שלא נשוי להב\"ח טועה כל כך לומר שהוא נגד כל הנך סוגיות ופוסקים צריכים אנו ליישב דבריו בדוחק דודאי לאביי בכל ענין עדיו בחתומיו זכין לו רק דהטור הכריע מסברתו ופסק בנפילה דלא כאביי כך צ\"ל כוונת הב\"ח אע\"פ שפשט לשונו לא משמע כן ע\"ש. ועוד אפשר ליישב דבריו בדרכים אחרי' דחוקים. אבל אין דבריו נ\"ל דאין התחלת קושיא זו שנבוכו בה האחרוני' מ\"ש הטור כאן וכל שטר הבא לפנינו כו' והלא הטור פסק לעיל ס\"ס ל\"ט עדיו בחתומיו זכין לו והוא בשום לבעוד מאי מהני ראיה שבא לידו מזמן הכתוב בו הא אכתי איכא למיחש לפרעון ולקנוניא כדלקמן סי' ס\"ה ואע\"פ שבסמ\"ע ס\"ק כ\"ו הרגיש קצת בזה ותירץ דשאני הכא כיון דהמלוה בעצמו מצאו וכ\"כ לקמן סי' ס\"ה ס\"ק מ' אין דבריו נ\"ל דהא דין זה לקוח מהתו' והרא\"ש פ\"ב דגיטין וכדאיתא בב\"י ושם כתבו בהדיא שמצאו אחר ועוד דהיכא דהמלוה מצאו בעצמו א\"צ להביא ראיה כלל וכמ\"ש הרשב\"א בתשו' והמחבר לקמן סי' ס\"ה ס\"ב ע\"ש ודוחק לומר דהרשב\"א והמחבר מיירי שם דאין חוששים לפרעון אבל צריך להביא ראיה על המסירה וגם בתשו' רשב\"א גופה לא משמע כן דמסיים שם בתשו' הרי זה כמי שנפל לו שטר בחצר חברו ומצאו קודם שיבא ליד אחר שאין חוששים לו דלא איתרע שטר אלא כשנולד לו ספק ביד אחר עכ\"ל. אבל המעיין בהרא\"ש פ\"ב דגיטין יראה שעיקר הפלפולשם קאי אגיטין והמעיין שם בהרא\"ש יראה לעינים שדברי הטור מועתקים מדברי הרא\"ש לשם. וא\"כ שטר דנקט הטור כאן דומיא דגט קאמר דליכא למיחש ביה לפרעון ולקנוניא וכן לא שייך ביה לומר עדיו בחתומיו זכין לו וכדמוכח להדיא בש\"ס פ' שנים אוחזין (בבא מציעא דף י\"ט ע\"א) דגבי גט וכה\"ג שהוא שטר של חובה לא אמרינן עדיו בחתומיו זכין לו וכ\"כ התוס' שם להדיא וה\"ק הטור וכל שטר הבא לפנינו דלא שייך ביה לומר עדיו בחתומיו זכין לו אפי' ליכא ביה למיחש לפרעון ולקנוניא צריך להביא ראיה על המסירה היכא דאיתרע בנפילה וכ\"כ הטור ברמזים פ\"ב דגיטין וז\"ל כל גט ושטר הבא לפנינו לא חיישינן שמא מאוחר הוא אלא תולין שביום שנכתב נמסר אבל אי איתרע בנפילה צריך להביא ראיה מתי בא לידו עכ\"ל ולפי זה ניחא נמי הא דכתב הטור לעיל דברי הרמ\"ה וכ' עליו ואין נראה לחלק כו' משום דנפקא מינה לענין גיטין וכה\"ג דלהרמ\"ה בכתב גט ליתן בניסן ולא נתן עד תשרי לא הוי מוקדם. כן נ\"ל ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:33"
+        },
+        "34": {
+          "he": "נכתב ביום ונחתם בלילה כו'.  וכתובה איכא פלוגתא בין הפוסקים אי כמעשה ב\"ד דמיא ונכתב ביום ונחתם בלילה כשר אולא והזכירום הרא\"ש והר\"ן פ\"ב דגיטין וה' המגיד ר\"פ כ\"ג מה' מלוה ע\"ש והרשב\"א בחדושיו שם פסק דכמעשה ב\"ד דמיא וע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:34"
+        },
+        "35": {
+          "he": "אפי' לא חתמו אלא לזמן מרובה.  וה\"ה אפי' לא חתמו כלל דקי\"ל קנין יש לו קול וטורף אפי' לא נכתב כלל כדלעיל ריש סי' ל\"ט וכן דעת רוב הפוסקים ודלא כהרא\"ש וסייעתו ומ\"ש הסמ\"ע לעיל ר\"ס ל\"ט וכאן ס\"ק כ\"ט לחלק בין כשהעדים לפנינו או לא לא נהירא ובחנם דחק דודאי דעת הרא\"ש וטור דדוקא כשנכתב אבל דעת המחבר כרוב הפוסקים:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:35"
+        },
+        "36": {
+          "he": "יש מי שאומר כו'.  ומהרמב\"ם ושאר הפוסקי' לא משמע כן שלא חילקו בכך:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:36"
+        },
+        "37": {
+          "he": "שהוא מתחייב בקנין.  ולא קנו עד הלילה וכ\"כ בסמ\"ע ופשוט הוא:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:37"
+        },
+        "38": {
+          "he": "סומכים זמן הכתיבה  ויש גורסים זמן הקנין ועיקר כדאיתא בסמ\"ע וב\"ח ועי' בתשו' מהר\"א ן' חיים סי' מ\"ג:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:38"
+        },
+        "39": {
+          "he": "מיהו אם כתבו סתמא במקום כו'  הג\"ה זו שייכה בסעיף כ' וע' בסמ\"ע:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:39"
+        },
+        "40": {
+          "he": "לא יאמרו כו'  דין זה לא מסתבר כלל ואף שבב\"י כ' שאנו מוכרחים לפרש כן דאל\"כ למהליה לטעמא דמיחזי כשיקרא הא משום ספק פסול דדילמא מוקדם הוא וגם בבעל התרומות נראה שהוציא כן מהש\"ס מ\"מ לפע\"ד אינו מוכרח כלום ורבה בר שילת קאמר דאי לא ידעי יומא דקנו ונראה להם שקנו ממנו בתחלת תשרי והם מסופקים בכך לא יכתבו בשטר בסתם שקנו ממנו בתחלת חדש תשרי שאם יבואו לידי בירור שקנו ממנו בתחלת חדש תשרי יתנו לו השטר ואם לא יתברר יקרעו דשטר דמ\"מ בשעת כתיבה מיחזי כשיקרא וה\"נ אמרי' בש\"ס פ' הכותב ושאר דוכתי האי אשרת' דדייני דכתיבה מקמי דנחוי סהדי אחתימת ידייהו פסולה דמיתחזי כשיקרא ונתבאר לקמן סי' מ\"ו סכ\"ד והיינו אפי' שלא יתנו השטר עד אחר שיודו העדים על חתימת ידם פסולה כיון שבשעת כתיבה לא הודו ואף החולקים שם י\"ל דמודו כאן או אפשר שהחולקים שם פליגי נמי הכא ולכך הרא\"ש בפ' ג\"פ השמיט בדברי רבה בר שילת דמיחזי כשיקרא משום דס\"ל דבשאר שטרות שאינן מעשה ב\"ד קי\"ל דלא חיישי' למיחזי כשיקרא וכמ\"ש בפ' הכותב. וגם ראיתי בבעל העיטור דף ד' ע\"ב שכ' על רבה בר שילת וז\"ל ומסתברא כיון דקי\"ל בעלמא למיחזי כשיקרא לא חיישי' כתבי יומא דבריר להו וכתבי ואחרנוהו עכ\"ל וא\"כ אפי' יהיה פי' הש\"ס כהבעה\"ת וב\"י מ\"מ הא הבעל העיטור פסק דלא קי\"ל הכי ע\"כ נלפע\"ד היתר ברור שאם יודעים שקנו ממנו בתשרי ואינן יודעין בכמה מותרים לכתוב מתחלת חשון מיהו בחדושי רשב\"א פ' כל הגט משמע כהטור ובעה\"ת שכתב שם דאמרינן בגט פשוט אי ידעיתו יומא דאקניתו בי' כתובו ואי לא כתובו יומא דכתביתו ביה ואי לא מחזי כשקרא כלומ' אבל יומא דלא קנו ביה ולא יומא דכתבו ליה לא אע\"ג דודאי קנו מיניה מקמי ההוא יומא דכתבי אינהו משום דמיחזי כשיקרא עכ\"ל וצ\"ע:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:40"
+        },
+        "41": {
+          "he": "משקרי' ופסול.  ולי נראה עיקר כרש\"י ר\"פ אחד דיני ממונות ורבי' ירוחם נ\"ד ח\"ב שאין השטר נפסל בדיעבד בכך ומביאם ב\"י וכן דעת התוס' בשם ר\"י בגיטין סוף פרק הזורק (גיטין דף פ') סוף ע\"א וכן נראה דעת הבעל העיטור דף ד' ע\"ב ע\"ש וכן משמע להדיא מדברי התוס' פ\"ב דכתובות דף כ\"א ע\"ב בשם ר\"י ע\"ש ולענין מה שהקשה הנ\"י ר\"פ אד\"מ אפי' רש\"י מהך דגטין מיושב מתוך מה שכתבו התוס' בגטין שם דדוקא בגטין פסולים בדיעבד ולא בשאר שטרות וכ\"כ הר\"ן ומרדכי ואגודה פרק הזורק וכן נלפע\"ד דעת הרמ\"ה והטור שהביא המחבר לקמן סעיף כ\"א דאי ס\"ד דס\"ל דאף דיעבד פסול היאך ישנה את השטר משום המטבע וא\"כ קשה על המחבר שהעתיק לקמן סעי' כ\"א דברי הטור בשם הרמ\"ה ואולי ס\"ל לחלק אבל אין נרא' כן וגם לא משמע כן מדברי הטור והרמ\"ה מדכתבו לא יכתבו אלא שם המקו' שמסרו הדברי' שם ואם איתא דאפי' דיעבד פסול ה\"ל לתקוני בכל מה דאפשר שלא יפסול השטר והכי הל\"ל אבל אם המטבע משתני יכתבו מקום שנמסרו הדברים וגם מקום החתימה דהיינו קנינו במקום פלוני וכתבנו וחתמנו במקום פלוני ודוק:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:41"
+        },
+        "42": {
+          "he": "בשל ראובן  כתוב בב\"ח בניסן. בטור כתוב בה' בניסן וכתב בסמ\"ע דצ\"ל ג\"כ בכ\"ח בניסן ואין צורך דהטור לישנא דהש\"ס נקט ובש\"ס מעשה שהיה כך היה ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:42"
+        },
+        "43": {
+          "he": "כיון שסכום כו'.  ואינו על סך אחר ממילא אמרינן שהשובר נכתב על אותו שטר והשובר כשר. ואמרינן דהעדים לא ידעו זמן השטר לכך כתבו סתמא וכדלקמן סי' נ\"ד ס\"ג ועיין מ\"ש שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:43"
+        },
+        "44": {
+          "he": "יד בעל השטר על התחתונה.  וכ\"כ הריב\"ש סי' ת\"ר שאם לא נודע איזו נכתב קודם יד בעל השטר על התחתונה ואם ידוע שהשובר קודם השטר בתקפו וע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:44"
+        },
+        "45": {
+          "he": "דבלשון העולם עד ולא עד בכלל כו'.  בד\"מ דחה דין זה מפני הדין שכתב הרא\"ש והמחבר בסי' שלפני זה וז\"ל כתב הרא\"ש בתשו' כלל ע\"ו על ראובן שהוציא שובר שכתוב בו שמעון מחל לו כל תביעת ממון שהיה לו עליו עד היום הזה ושוב הוציא שמעון שטר שראובן חייב לו מנה וזמן השטר והשובר ביום א' יראה דיד בעל השטר על התחתונה עכ\"ל וכתב ב\"י דכ\"כ הרשב\"א ודלא כתשו' אחרת של הרא\"ש בכלל ע\"ו דכתב דעד ולא עד בכלל ואין אותו היום בכלל ד\"מ ואין דבריו נכונים ואם כדבריו שתשו' הרא\"ש סותרים זא\"ז יותר ה\"ל לדחות תשובה הראשונה שהרי התשובה האחרונה ברורה בטעמא דאיתא בכמה דוכתי בש\"ס בנדרים דבשטרות דנין כמו בנדרי' והוא מוסכם מכל הפוסקים וגבי נדרים איתא להדיא בש\"ס ופוסקים דאם אמר עד הפסח אינו אסור אלא עד שיגיע ואין הפסח בכלל דבנדרים הולכים אחר לשון בני אדם ועד ולא עד בכלל וכמו שנתבאר בי\"ד סי' ר\"ך סעיף י\"ב אבל באמת נראה שאין התשובות סותרות זא\"ז וכמו שאבאר וע\"כ פסק המחבר את שתיהן ונראה שגם הרב חזר בו ולכך לא השיג כאן על המחבר. והנ' כבר נתעוררו האחרונים בישוב שתי תשובות הרא\"ש אלו. גם מהרשד\"ם סי' קי\"א דחק עצמו בזה. ובתשובת מהר\"א ן' ששון סי' פ' וסי' קצ\"ג כ' לתרץ וז\"ל התשוב' הראשונה מיירי ששניהם מודים שמחל לו גם אותו יום אלא שטוען שזה השובר נעשה בבקר והשטר מאוחר הוא שנעשה בערב וזה או' להיפך ולכך מספיקא לא מפקינן ממונא אבל בתשובה הב' בעל השטר טוען שלא מחל לו אותו היום וכי תימא לעיל נמי יהיה נאמן במה דאמר ששטרו מאוחר במגו דאי בעי אמר שלא מחל לו אותו יום נראה דמגו להוציא לא אמרי' כשנעיין בדברי התוס' פרק ח\"ה והרא\"ש שם נראה שסוברים דאף בשטר לא אמרי' מגו להוציא עכ\"ל ומ\"ש כשנעיין בדברי התו' כו' ליתא דאדרבא המעיין בדברי התוס' והרא\"ש שם יראה להדיא שסוברים דהיכא דאיכא שטרא לא הוי מגו להוציא וכדמוכח מהך דסטראי דלקמן סי' נ\"ח ויותר ה\"ל לתרץ לפי דרכו שכתוב בשובר להדיא שגם יום זה בכלל או שיש לו עדים בזה: אבל לפע\"ד מעיקרא ל\"ק מידי דהרי הרא\"ש גופיה כתב בתשובה האחרונה דאם כ' עד עכשיו הוי ספיקא א\"כ בתשובה הראשונה שכתוב בו שמחל לו כל תביעות שהיו לו עליו עד היום הזה דמי ממש לכתוב עד עכשיו כיון שעומד באמצע היום וכותב עד היום הזה ועוד דלשון עד היום הזה הוא בכל מקום עד עכשיו כמו על כן לא יאכלו בני ישראל את גיד הנשה עד היום הזה וישם אותה יוסף לחק עד היום הזה ולברך בשמו עד היום הזה ואזנים לשמוע עד היום הזה ולא ידע איש את קבורתו עד היום הזה יד אבשלום עד היום הזה וישבו שם עד היום הזה וכאלה רבות עצמו מספר אבל בתשובה האחרונה שכתוב בו שמחל לו כל תביעות שיש לו עליו עד ה' בניסן הוי כאומר עד הפסח רוצה לומר עד התחלת ה' בניסן כן נ\"ל ברור:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:45"
+        },
+        "46": {
+          "he": "נותנים למי שכתוב בו אדר סתם.  ובש\"ך בי\"ד סי' ר\"ך ס\"ק כ\"ז הארכתי בזה והעליתי דאין נותנים אותו למי שכתוב בו אדר סתם אלא יחלוקו וע\"ש. ועיין מ\"ש לקמן סי' שי\"ב סעיף ט\"ו ס\"ק ט\"ו:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:46"
+        },
+        "47": {
+          "he": "היינו עד שיעברו כו'. דין זה צ\"ע דלא מסתבר זמן רחוק כל כך ומכ\"ש דקשה דלפי זה אם כתוב בשטר אחר חג השבועות או אחר חג הסוכות היינו עד רוב הימים וכ\"כ הר\"ן ס\"פ מי שאחזו להדיא דלפ\"ז אם נשבע לפרוע אחר חג הסוכות יש לו ג' חדשים וזמן רב כזה דחוק מן השכל. לכך נראה כמו שפי' רבינו חננאל הביאו הר\"ן והרשב\"א בחדושיו והרא\"ש שם דאחר הרגל היינו ט\"ו יום אחר הרגל ולא שנא פסח או שבועות או סוכות ואע\"פ שהרשב\"א והר\"ן שם כתבו על דברי ר\"ח שלא נתבררו דבריו היינו משום שלא ידעו מנין לו כן אבל כבר נידע שכל דברי ר\"ח הם דברי קבלה מן חכמי הש\"ס שהיה גאון קדמון מהגאוני' וכ\"כ הרא\"ש ספ\"ק דנדה וס\"פ שבועת הדיינים ושאר פוסקים בכמה מקומות שדברי ר\"ח דברי קבלה ועוד שנ\"ל מקור לדברי ר\"ח מפ\"ק דתענית ומייתי לה בפ' אלו מציאות (בבא מציעא דף כ\"ח ע\"א) ר\"ג אומר שואלין על הגשמים ז' במרחשון ט\"ו יום אחר החג כדי שיגיע אחרון שבא\"י לנהר פרת וק\"ל הכי נמצא דכל פעם שהיו ישראל עולים לרגל לא היו יכולין להגיע לבתיהם אחר הרגל אלא בט\"ו יום והיה דומה להם כאלו הם עדיין בא\"י עסוקים בעניני הרגל כל זמן שלא היו עוברים הנהר הגדול נהר פרת וא\"כ אחר הרגל מיקרי ט\"ו יום ואע\"ג דהשתא אנן בגולה מ\"מ לשון אחר הרגל נמשך מהם וכה\"ג אשכחן טובי וגם הרא\"ש ס\"פ מי שאחזו נראה שפוסק כר\"ח וכ\"כ ברמזים שם וכ\"פ בפשיטות בטור ת\"ע סי' קמ\"ד וגם רבי ירוחם בחלק חוה נתיב כ\"ד ח\"א הביא דברי ר\"ח בלי שום חולק עליו. ותימה עליו על מ\"ש בסתם בס' משרים נ\"ד ח\"ד דעד הפסח היינו עד שיעברו רוב ימים שבין פסח לעצרת. ואפשר ר' ירוחם מחלק בין פסח לשאר רגלים אע\"פ שהוא דוחק לפרש דבריו שבנתיב כ\"ד בשני רגלים וכן משמע להדיא בעיר שושן דדוקא בפסח דינא הכי שכתב וז\"ל דכיון דפסח ועצרת שייכי להדדי שסופרים ספירה מפסח עד עצרת הם כולם נחשבים כמו שבוע אחת כו' ע\"כ ולפי זה מ\"ש הר\"ן דלתשובת הרי\"ף ה\"ה בסוכות יש לו ג' חדשים אינו מוכרח די\"ל דדוקא בפסח פסק הרי\"ף כן ע\"ש. ולפ\"ז אפשר דגם המחבר לא קאמר אלא בפסח ולא בשאר רגלים. אבל בדברי הרמ\"ה שהביא הר\"ן שם מבואר דבכל רגל חשבינא ליה המחצית ע\"ש. ובשלטי גבורים ס\"פ מי שאחזו כתב וז\"ל ואם אמר אחר הרגל הרי הוא כאלו אמר אחר החדש ונותני לו כל ימי השבת שהם אחריו כבקו' הראיות עכ\"ל ואני לא ידעתי ראיה לזה. עכ\"פ נראה מדבריו להדיא ג\"כ דאחר הרגל אינו זמן רב רוב ימים שבין רגל לרגל. ונראה דהרמב\"ם פ\"ט מה' גירושין והסמ\"ג שם והלכות גדונות וראב\"ן שהשמיטו דין אחר הרגל דבס\"פ מי שאחזו היינו משום דס\"ל דכיון דבש\"ס קאמר דלית הלכתא כר' מאיר דאמר ל' יום אחר הרגל ולא פי' בש\"ס הלכתא מאי אלמא דלש\"ס גופא מספקא ליה והלכך הוי ספיקא דדינא עד כמה נקרא אחר הרגל:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:47"
+        },
+        "48": {
+          "he": "רוב כו'.  כתב בסמ\"ע דרוב לאו דוקא וכ\"כ בר\"ן מחצית נמצא דלבני א\"י החיוב עליו מיד אחר כ\"א יום ולבני ח\"ל אחר ך' יום ומחצה עכ\"ל ולפעד\"נ דרוב דוקא וכן הוא בר' ירוחם נ\"ד ח\"ד שיעברו רוב הימים כו' ור\"ל כגון היכא דיש בין רגל לרגל מספר נפרד היינו עד שיעברו רוב הימים דלא מסתבר לחלוק יום א' והר\"ן מיירי היכא שיש מספר זוגי א\"נ המחבר ור' ירוחם דמיירי להדיא בזמן הכתוב בשטר ולכך צריך רוב דיד בעל השטר על התחתונה אבל ר\"ן מיירי להדיא בנשבע לפרוע לו ובשבועה אזלינן לחומרא ודמי למ\"ש הרשב\"א בתשו' והמחבר לקמן סי' ע\"ג סעיף ט' בנשבע לפרוע לו בראש חודש פלוני שחייב לפרוע לו ביום הר\"ח הראשון מטעם ספיק' דאורייתא לחומרא ע\"ש כנ\"ל. גם מ\"ש הסמ\"ע דלבני א\"י חל החיוב מיד אחר כ\"א יום כו' וכ\"כ לעיל מיניה דבין סוף פסח לתחלת עצרת הוא לבני א\"י מ\"ב יום ולדידן שעושין כל י\"ט שני י\"ט מספק נשאר מ\"א יום כו' וכ\"כ אח\"כ דמ\"ש המחבר עד כאן כ\"א יום אין ר\"ל רוב הימים שבין פסח לעצרת דהיינו כ\"א יום דא\"כ מנינא למה לי אלא הוא רשימה לחזור הש\"ע עד כאן בכ\"א יום כו' ולא דק דמסוף פסח לתחלת עצרת הוא לבני א\"י מ\"ג יום ולדידן מ\"ב יום נמצא דכ\"א יום לכ\"ע ליכא רובא ולבני א\"י אפי' פלגא לא הוי:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 43:48"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "טורף מהם.  עבה\"ט בשם ש\"ך מ\"ש וכן מוכח מפ\"ק דב\"מ כו' וע' בתשובת נו\"ב תניינא סי' כ\"ט מ\"ש בזה. וע' בתשובת משכנות יעקב סי' כ\"ב מה שכתב בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 43:1"
+        },
+        "2": {
+          "he": "אפ\"ה כשר.  עבה\"ט וע' בתשובת חוט השני סי' ט\"ל אודות שטר שכתב לו בט\"ו באב שנת שלש מאות וארבעים ושבע וזמן פרעון קודם ר\"ה דשנת ש\"ס דהיינו בערך ב' שנים וניכר הדבר שהסופר טעה שהי' לו לכתוב שנת שנ\"ז וכ' שמ\"ז והעלה שם שהשטר כשר כיון שהטעות מוכח מתוכו ולא אתי לטרוף לקוחות שלא כדין ואפי' החולק בנידון ברביעי בשבת כ\"ב בתשרי מודה הכא עש\"ב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 43:2"
+        },
+        "3": {
+          "he": "המאוחרים כשרים.  כ' הש\"ך ס\"ק כ\"ה וז\"ל לשון הב\"י מחו' י\"א מדברי בעה\"ת שער נ\"ו משמע שהמוציא על חבירו שטר מאוחר עד דמטי זימנא לא טריף ע\"כ ולא ידעתי למה הוצרך לכתוב כן בשם בעה\"ת הלא ש\"ס ערוך הוא בפ\"ק דע\"ז דף י' כו' עכ\"ל. וע' בתשובת נו\"ב סי' י\"א שכ' ליישב דברי הב\"י בזה בטוב טעם (וע' בתשו' שיבת ציון סי' ק\"ד מ\"ש על דברי הנו\"ב שם) ושם מבואר דבשטר מאוחר לבד מה שאינו יכול לטרוף מהלקוחות עד דמטו זימנא גם מהלו' עצמו אינו יכול לגבות עד זמן הכתוב בשטר שאין חיוב הפרעון חל עד הזמן ההוא. ואף דלשון רש\"י שם ועד דמטי זימנא לא טריף אינו יכול לטרוף לקוחות כו'. מ\"מ בגמרא אין הלשון כן רק הלשון בגמרא האי שטר מאוחר הוא נעכבי' עד דמטי זימנא ולא טריף מבואר דהוא שני ענינים ותרתי רצו לעשות בשטר ההוא. חדא שאפי' מהלוה עצמו לא יוכל לבקש פרעון חובו עד דמטי זימנא. והב' דלא טריף שמלקוחות שלקחו בין ההלואה לזמן הכתוב בשטר לא טריף כלל אפילו אחר שיגיע זמן פרעון לפי שמחל שעבודו כל משך שבינתים ונמצא שקנו קודם שהתחיל שעבודו כו' ע\"ש עוד בענין אם יכול לטעון פרעתי במשך שביני ביני ויובא לקמן סי' ס\"ט ס\"ב סק\"ד ובס\"ס ע\"ח סק\"ה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 43:3"
+        },
+        "4": {
+          "he": "האיחור בפירוש.  בגש\"ע דהגר\"ע איגר זצ\"ל נ\"ב וז\"ל ובשטר קנין כה\"ג לדעת תוס' פ\"ב דגיטין והוא דיעה א' בש\"ע אה\"ע סי' קכ\"ז ס\"ט אינו קונה הקרקע עד זמן הכתוב בו ואף אם רצה להקנות מיד אינו קונה בשטר הזה מיד וכ\"כ להדיא הר\"ן בגיטין שם אבל לדעת הראב\"ד וסייעתו קנה מיד עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 43:4"
+        },
+        "5": {
+          "he": "משקרים ופסול.  עבה\"ט ועמ\"ש לעיל סי' לד ס\"ט ס\"ק י\"ט:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 43:5"
+        },
+        "6": {
+          "he": "נותנים אותה לראובן.  בגש\"ע דהגר\"ע איגר זצ\"ל נ\"ב לפי שזמנו מבורר ושמעון אין זמנו מבורר וכ' הרא\"ה שכן הדין במלוה שזמנו בה' בניסן טורף מלוקח שזמנו בשטר שלו שמכירתו בניסן סתמא ולענ\"ד דין זה צ\"ע מאוד די\"ל דדוקא בב' שט\"ח דעכ\"פ השדה משועבד לשניהם ויש לראובן ודאי שעבוד מש\"ה יהבינן ליה כיון דזמנו מבוחר וגם שניהם אינם מוחזקים אבל להוציא מלוקח מספק שעבוד מנין לנו. וע' בהר\"ן ובהה\"מ שהביאו בשם הרשב\"א בב' לקוחות א' ב' בניסן ואחד ניסן סתמא הבע\"ח טורף מזה שישנו ניסן סתמא ואינו יכול לומר שמא אני באחד בניסן והנחתי לך כיון שאין נפרעים הוא מטעם תקנה על הלוקח לברר שהוא מוקדם משמע ג\"כ דרק בכה\"ג דשעבודו ודאי עליו אלא דאין נפרעים כו' אבל בדינא דהרא\"ה דאנו דנין על עיקר השעבוד א\"י להוציא מספק וצ\"ע עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 43:6"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "לטרוף.  ואפילו מבני חרי יש נ\"מ אם הי' על הלו' ב' שטרות ואין לו קרקע אלא כדי לשלם לא' מהן דאז מגבינן לזה דיש זמן בשטרו די\"ל הלואתו הי' מקודם להלואת האחר עכ\"ל הסמ\"ע וע\"ל סכ\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:1"
+        },
+        "2": {
+          "he": "מהם.  כתב הש\"ך שכן נ\"ל עיקר וכן מוכח מפ\"ק דב\"מ גבי גט אשה וגט שחרור שנפל כו' ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:2"
+        },
+        "3": {
+          "he": "שובר.  לא ידעתי למה כתבו הלא מבואר הוא בסכ\"ד ובסי' נ\"ד ס\"ג עכ\"ל הש\"ך וע\"ל סי' שמ\"ב ס\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:3"
+        },
+        "4": {
+          "he": "הקטן.  ובב\"י מסתפק אם השמיט גם העשיריות ולא כתב רק האחדים אי כשר או לא וכתב שדעתו נוטה להכשיר. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:4"
+        },
+        "5": {
+          "he": "פסול.  והש\"ך השיג על דין זה ע\"ש באורך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:5"
+        },
+        "6": {
+          "he": "ודלג.  הטעם דחסרונו מוכח מתוכו. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:6"
+        },
+        "7": {
+          "he": "כשר.  כתב הסמ\"ע וא\"ל הא אמרינן דבתר רוב החדש לא אמרינן דטעו בעיבורא דירחא היינו דוקא כשמעיד ע\"פ אבל כשכתוב בשטר הטעות מוכח ממ\"ש בצדו ואי משום שיש טעות ב' ימים י\"ל דבשני עיבורים טעה. וז\"ל הש\"ך ומה שסתם הרמ\"א כאן כדעת המחבר ובא\"ע סי' קכ\"ו סכ\"א כתב דיש חולקין אולי דוקא בגיטין נ\"ל להרב להחמיר או דשאני הכא בחדש תשרי כ\"ב בו דהוא שמיני עצרת דע\"כ השטר מאוחר ומ\"מ ר\"ת חולק בהדיא וכן מסיק בפסקי מהרא\"י וצ\"ע לדינא וע' בתשובת מהראנ\"ח סי' ק\"י עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:7"
+        },
+        "8": {
+          "he": "זמן.  הטעם כתב הסמ\"ע כיון דאין טורפין בו מלקוחות וכתב הש\"ך וכן אם יש על הלו' עוד שטרות אין לזה דין קדימ' דאל\"כ הי' צריך לכתוב בו זמן אלא ודאי חיישינן לקנוניא שהלו' יקדים הזמן עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:8"
+        },
+        "9": {
+          "he": "חורין.  ואפילו אם יקחו הב\"ד השטר בידם ולא יתנו לטרוף מזמן הראשון או שיכתבו ב\"ד על השטר שלא יטרוף בו כי אם מזמן זה אפ\"ה אינו גובה ממשועבדים משום קנס כיון דמתחלתו הי' ראוי ועומד לטרוף בו מזמן ראשון כ\"כ הסמ\"ע וכתב הש\"ך דמסתבר כדבריו דכיון שנרא' פסולו בב\"ד שוב אין לו תקנ' ולפ\"ז אם המלו' בעצמו כתב עליו קודם שנרא' בב\"ד שלא ניתן לטרוף מזמן ראשון נרא' דכשר עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:9"
+        },
+        "10": {
+          "he": "לגמרי.  מדברי הטור מוכח דאינו ר\"ל נפסל לגמרי מכל וכל אלא אם טוען להד\"ם הוחזק כפרן מכח שטר זה רק דאם טוען פרעתי נאמן כ\"כ הסמ\"ע בשם מור\"ש והש\"ך כתב דלא מוכח מידי כו' אלא דהוי כמו חספא בעלמא ופסול לגמרי ואע\"פ שהעדים כשרים ובדרך שיתבאר ודלא כבעל ג\"ת אבל מ\"מ לכ\"ע גובה מהלו' עצמו כשהוא מודה או שיש עדים בזה וכ\"כ בתשובת מהרש\"ך ס\"ב סי' קנ\"ח ובתשובת מוהר\"א ששון סי' קמ\"ה והוא פשוט עכ\"ל (ועיין מ\"ש הגאון ח\"צ בהגהת ט\"ז שתופס דברי מור\"ש לעיקר שאינו פסול לגמרי ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:10"
+        },
+        "11": {
+          "he": "בכוונה.  ז\"ל הנ\"י כגון שכתבו שטר ללו' בלא מלו' והוא לא לוה עד לאחר זמן ואע\"ג דאין לכתוב שטר ללוה אלא בשטרי אקנייתא מ\"מ מאן דעביד לא פסיל ע\"כ ותלמידי רשב\"א כתבו דמשכחת גם כן דבשע' שחתמו חשבו שכבר נעשית ההלוא' ואח\"כ ראו שהי' מלו' לו דמי אותו השטר והעידו כן עכ\"ל הסמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:11"
+        },
+        "12": {
+          "he": "מצויים.  כתב הסמ\"ע דהריב\"ש סי' שפ\"ב האריך וכתב על עדים שהי' להם לכתוב בשטר ל\"ד שנים וכתבו ד' שנים ואמרו שטעו ופסק דאין נאמנים דאין רגילות לטעות בהכי עכ\"ל ד\"מ והש\"ך כתב דדבריו תמוהים דליתא כן בריב\"ש וגם הב\"י מכשיר להדיא בזה ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:12"
+        },
+        "13": {
+          "he": "חולקים.  כתב הש\"ך משמע דלהי\"ח אפילו בדבר שהעדים מצויין לטעות אין נאמנים לומר שטעו והא ליתא דבזה כ\"ע מודים כו' וכ\"כ המחבר בסי' כ\"ט ס\"א וז\"ל וכן בכל טעות שהעדים מצויים לטעות בו נאמנים הם בעצמם ואין בזה משום חוזר ומגיד ולא הזכיר שום חולק וגם הרמ\"א לא כתב שם כלום ואם כן דברי הרב כאן צל\"ע וצריך לדחוק דמ\"ש וי\"ח לא קאי רק אריש דבריו וק\"ל עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:13"
+        },
+        "14": {
+          "he": "מציל.  דטעות זה אינו ניכר מתוכו כ\"כ דאין הכל יודעים שלא הי' חתנו וגם אין בודקין אחר זה. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:14"
+        },
+        "15": {
+          "he": "ואין.  היינו כי\"ח שהביא הרמ\"א בסמוך דבכת\"י יוצא ממ\"א אינם נאמנים לומר שהוא מוקדם והא דלא הגיה כאן כלום שסמך על מ\"ש בס\"ח ובע\"ש כתב דאם כת\"י יוצא ממ\"א ואין להם מגו אין להם לחתום שטר אחר וכן נרא' שהבין הסמ\"ע ולא נהירא לחלק לענין כתיבת שטר אחר בין כת\"י יוצא או לא ונרא' דאף שיוצא ממ\"א יכולים לכתוב שטר אחר מזמן השני ועיין בתשובת מהראנ\"ח סי' מ\"ג וק\"י עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:15"
+        },
+        "16": {
+          "he": "יכולים.  טעמו של דבר עיין בש\"ך באריכות ס\"ק כ\"ב ע\"ש (ועיין מ\"ש הט\"ז בזה):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:16"
+        },
+        "17": {
+          "he": "כשר.  דליכ' למיחש שלא ימחק זה דביני ביני דא\"כ יפסל שטרו במה שיהי' ריוח כשיעור ב' שיטין בין השטר לחתימת העדים וגם ירא' המחיק' וע\"ל סי' מ\"ה. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:17"
+        },
+        "18": {
+          "he": "שנמסר.  ולהפוסקים כאביי דעדיו בחתומיו זכין לו אף בלא קנין כשנמסר למלו' זכה למפרע מיום שהלו' לו וע' בתשובת מבי\"ט ח\"ב סי' צ\"ט עכ\"ל הש\"ך (והט\"ז כתב דאף הרא\"ש שכתב לפסוק כאביי מ\"מ לענין הלכ' בטל דעתו בשאר מקומות ועפ\"ז צדקו דברי הטור בהרב' מקומות דמוכח דלא קי\"ל עדיו בחתומיו כו' עכ\"ל):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:18"
+        },
+        "19": {
+          "he": "דאקני.  ז\"ל הסמ\"ע מקור דין כתיבת דאקנה יתבאר לקמן סי' ק\"ד וקי\"ב ע\"ש דנתבאר דאנן קי\"ל גם בדאקנה שהוא ט\"ס אם לא שכתוב שאר האחריות ולא כתוב אחריות דאקנה ע\"ש עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:19"
+        },
+        "20": {
+          "he": "ואיחרנוהו.  דאז ליכא למיחש דאף אם לוה ואח\"כ קנה לא יבא לגבות מזה שקנה ומכר דהמע\"ה ומזמן השטר אינו ראי' שהרי כתוב בו שהזמן מאוחר. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:20"
+        },
+        "21": {
+          "he": "מקח.  נ\"ל ה\"ה שטר מתנ' דזיל בתר טעמא. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:21"
+        },
+        "22": {
+          "he": "פסולים.  כתב הש\"ך נ\"ל דאם הודיעו למוכר שאחרו השטר מכר כשר ולפ\"ז מסתמא כשר עד שיתברר שלא הודיעו עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:22"
+        },
+        "23": {
+          "he": "לכתחל'.  אם לא שא\"א בענין אחר כמ\"ש בסי\"ט וס\"כ ושאר דוכתי דאז הוי כדיעבד. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:23"
+        },
+        "24": {
+          "he": "אמר.  אבל הב\"ד אין טוענין עבורו שישבע וקמ\"ל בזה דאף דאין משביעין המלוה אלא כשטוען הלו' שישבע שלא פרעו משום דכל שטר עומד להפרע אבל בטענת מזוייף או אמנה או שיש בו רבית לא כמ\"ש בסי' פ\"ב ס\"י מ\"מ בטענת מוקדם משביעינן ליה דהא ע\"כ השטר לאו בזמנו נכתב בשבת עכ\"ל הסמ\"ע וכתב הש\"ך ומשמע דאי ליכא ריעותא לפנינו א\"י להשביעו שאינו מוקדם דלא גרע מאם כתבתי ללוות ולא לויתי או אמנה. וא\"ל ממ\"נ אי טוען שישבע לו שלא פרעו הא בלא\"ה צריך לישבע לו כן ואי לא פרעו ישלם לו י\"ל דטוען שפרעו אלא שאינו רוצ' שישבע על כך שחושד אותו שיורה לעצמו שום היתר על שבוע' זו אבל זה יודע שלא ישבע שאינו מוקדם א\"נ מיירי שאומר לא לויתי דבשטר כשר לא משבעינן ליה כנ\"ל לכך טען דמוקדם הוא וע\"ז צריך לישבע כיון דאיכ' ריעות' אלא שקש' על המחבר דהא פסק לעיל ס\"ז דגוב' מבני חרי אם כן למה ישבע ודוחק לומר דמפרשו לענין לקוחות אם כן ל\"ל דטען אשתבע לי הא בלא\"ה צריך לישבע נגד הלקוחות ונרא' דמיירי שטוען שהעדים הקדימו בכוונה ופסולים שחתמו שקר עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:24"
+        },
+        "25": {
+          "he": "בזמן.  כ\"כ הטור ג\"כ וזה אתי שפיר להפוסקים דאין עדיו בחתומיו זכין לו כמ\"ש בסי' ל\"ט סי\"ג אבל לדעת התוספות והרא\"ש והטור דפסקו דעדיו בחתומיו זכין לו צריך דין זה ביאור עכ\"ל הסמ\"ע. והש\"ך תירץ דיש חילוק בין גיטין לשאר שטרות ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:25"
+        },
+        "26": {
+          "he": "ראיה.  והא דמהני ראי' ולא חיישינן שמא פרעו כמ\"ש בסי' מ\"א ס\"ד שאני התם דאין השטר בידו שנאבד או שהוא ביד אחר שמצאו אבל כאן המלו' בעצמו מצאו וע\"ל סי' ס\"ה סי\"ג עכ\"ל הסמ\"ע (והט\"ז תמה עליו וכתב דקושיא מעיקרא ליתא דמיירי בשטר מכר שיש בו אחריות נכסים דלא שייך שם פרעון או שהלקוחות יודעים שלא נפרע אלא שיש חשש קדימ' ע\"כ צריך להביא ראי' אבל בעלמא לא חיישינן וזה עיקר עכ\"ל):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:26"
+        },
+        "27": {
+          "he": "קנין.  דאם קנו מידו טורף מזמן הקנין גם איכא כמה דיעות דבשטרי אקנייתא לא בעינן שיבא לידו כלל. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:27"
+        },
+        "28": {
+          "he": "פסול.  כתב הסמ\"ע בשם ד\"מ וז\"ל אמרי' בפ\"ב דגיטין מעשה ב\"ד נכתב ביום ונחתם בליל' דמשעת גמ\"ד נשתעבד ולא מיקדי מוקדם עכ\"ל וז\"ל הש\"ך וכתוב' איכא פלוגתא בין הפוסקים אי כמעש' ב\"ד דמיא וכו' והרשב\"א בחדושיו פסק דכמעש' ב\"ד דמיא יע\"ש עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:28"
+        },
+        "29": {
+          "he": "מרובה.  ז\"ל הסמ\"ע בר\"ס ל\"ט כתב המחבר דאם יש עדים שקנו מידו אפי' אם לא נכתב גובה ממשעבדי ולפ\"ז צ\"ל דמ\"ש כאן אפילו לא חתמו אלא לזמן מרוב' אינו ר\"ל דצריכים לכתוב ולחתום אלא אם המלו' חפץ בזה שחושש שמא ישתכח העדות אז יכתבו זמן הקנין ועוד יש לחלק בין אם עידי הקנין לפנינו או לא ע\"ש והש\"ך כתב דלא נהירא לחלק בכך ובחנם דחק דודאי דעת הרא\"ש והטור דדוקא כשנכתב אבל דעת המחבר כרוב הפוסקים עכ\"ל (והט\"ז מחלק דהתם מיירי דוקא תוך הזמן והכא מיירי לאחר זמן פרעון תבעו והעדים חתמו תוך זמנו ובחנם טרח הסמ\"ע בזה עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:29"
+        },
+        "30": {
+          "he": "שאומר.  ומהרמב\"ם ושאר פוסקים לא משמע כן שלא חילקו בכך ש\"ך. (וכ\"כ בט\"ז ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:30"
+        },
+        "31": {
+          "he": "חיוב.  שם מסיים בטעמו ז\"ל דבמה יתחייב ביום כו' ונלע\"ד דכמו דבחיובו בשטר מיירי דלא כתב לו השטר עד הליל' כן חיובו בקנין מיירי דלא קנה עד הליל' וביום התעסק בהסכמתו וחיובו בדברים וגומר החיוב בליל' בשטר או בקנין אבל אי קנה בק\"ס על חיובו ביום ודאי משתעבד ליה מאותו שעה עכ\"ל הסמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:31"
+        },
+        "32": {
+          "he": "הכתיב'.  כתב הסמ\"ע דצריך להגיה סומכין הקנין לאותו יום כו' ור\"ל שמפרשים בשטר שהקנין דוקא נעש' באותו יום ולא הכתיב' וכשכותבין יום שעומדים אז סומכין הכתיב' אצל אותו יום ולא הקנין עכ\"ל וגם הש\"ך כתב שכן עיקר וע' בתשובת מהראנ\"ח סי' מ\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:32"
+        },
+        "33": {
+          "he": "כשיקרא.  ר\"ל דצריך ליזהר בכך אבל השטר לא מיפסל בהכי ב\"י ד\"מ וע\"ש שהביא הרב' דעות שחולקים בזה וס\"ל דהשטר פסול עכ\"ל הסמ\"ע (והט\"ז כתב דיש לחלק דברישא אין פיסול רק מיחזי כשיקרא אבל בסיפא יש כאן פיסול ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:33"
+        },
+        "34": {
+          "he": "מיהו.  כתבו הסמ\"ע והש\"ך דהג\"ה זו עיקר מקומה בס\"כ דהא לא איירי כאן מדין מקום אלא מזמן כו' ע\"ש (וכ\"כ בט\"ז וע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:34"
+        },
+        "35": {
+          "he": "לא.  ז\"ל הר\"ן אם אחרו השטר וכתבוהו לא חיישינן שמא לא הי' באותו זמן באות' העיר שכתבו בו השטר דלספק מחזי כשקרא לא חיישינן. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:35"
+        },
+        "36": {
+          "he": "ולפיכך. . ואפילו נכתב בשטר שאחרוהו או שנכתב בו דאקני אפ\"ה מחזי כשיקרא דאל\"כ פשיטא דלא יעשהו מאוחר מחשש שנתבאר בסי\"ב עכ\"ל הסמ\"ע. והש\"ך השיג על דין זה ומסיק וכתב ונ\"ל היתר ברור שאם יודעים שקנו ממנו בתשרי ואינן יודעים בכמה בחדש מותרים לכתוב מתחלת מרחשון מיהו בחידושי רשב\"א לא משמע כן עכ\"ל וע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:36"
+        },
+        "37": {
+          "he": "הראשון.  וליכא למיחש דיגב' בו מתחלת השליש דהמע\"ה. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:37"
+        },
+        "38": {
+          "he": "אז.  משמע דס\"ל דאין כותבין בזה אלא מקום הקנין לחוד אבל הרב' גאונים ס\"ל דבזה כותבין ב' המקומות עכ\"ל הסמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:38"
+        },
+        "39": {
+          "he": "ופסול.  ז\"ל הש\"ך ול\"נ עיקר שאין השטר נפסל בכך בדיעבד כדעת רש\"י ותוספות ושאר פוסקים וכן מוכח מדעת המחבר עצמו בסכ\"א דאי ס\"ד דאף דיעבד פסול היאך ישנה את השטר משום המטבע ואם כן קשה על המחבר דדבריו סותרים זא\"ז ואולי ס\"ל לחלק אבל אין נרא' כן כו' ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:39"
+        },
+        "40": {
+          "he": "מקום.  כתב הר\"ן ואפילו שתי עיירות בתחום א' אפ\"ה א\"צ לכתוב אלא מקום הכתיב'. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:40"
+        },
+        "41": {
+          "he": "שוים.  כתב הסמ\"ע וא\"צ להיות שוים בכל ענין כמ\"ש בסי' ע\"א ס\"ט בשטר שיש בו נאמנות כו' ע\"ש ולא בא כאן אלא לאפוקי אם הסך שכתוב בשובר לא נמצא בזה השטר שביד המלו' אז ודאי לא קאי השובר עליו וע\"ל סי' נ\"ד ס\"ג ששם מקור דין שובר איך כותבין לתקנת שניהם עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:41"
+        },
+        "42": {
+          "he": "דבלשון.  צ\"ע דבד\"מ דחה דין זה וס\"ל דלא אמרינן בשובר עד ולא עד בכלל וכאן פסקו המחבר להלכ' ומור\"ם לא השיג עליו עכ\"ל הסמ\"ע וכתב הש\"ך דהרב' פוסקים אחרונים נתעוררו בשתי תשובות הרא\"ש דסתרי אהדדי בדין זה אבל באמת נרא' דלק\"מ דהרי הרא\"ש גופו כתב בתשוב' האחרונ' דאם כתב עד עכשיו הוי ספיקא א\"כ בתשוב' הראשונ' שכתוב בו שמחל לו כל תביעות שהיו לו עליו עד היום הזה דמי ממש לעד עכשיו כמו ע\"כ לא יאכלו כו' עד היום הזה. וישם אותה יוסף לחוק עד היום הזה וכו' וכאלה רבות עצמו מספר אבל בתשוב' אחרונ' שכתוב שמחל לו כל התביעות שלו עד ה' בניסן הוי כאומר עד הפסח ור\"ל עד התחלת ה' בניסן כנ\"ל ברור עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:42"
+        },
+        "43": {
+          "he": "סתם.  כתב הסמ\"ע דה\"ה אם בא' כתוב אדר סתם ובשני כתוב אדר ראשון ה\"נ כאילו נכתב בשניהם אדר ראשון וז\"ל הש\"ך ובי\"ד סי' ר\"כ ס\"ק פ\"ז הארכתי בזה והעליתי דאין נותנים אותו למי שכתוב בו אדר סתם אלא יחלוקו וע\"ש וע\"ל סי' שי\"ב סט\"ו עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:43"
+        },
+        "44": {
+          "he": "שיעברו.  ז\"ל הסמ\"ע ובין סוף פסח לתחלת עצרת הוא לבני א\"י מ\"ב יום ולדידן שעושין ב' ימים מספק נשאר מ\"א יום. ומ\"ש רוב הימים הוא ל\"ד אלא מיד שעובר המחצ' חל עליו החיוב כמו שאמרו בקמי שבתא ולאחר שבתא וכ\"כ הר\"ן בהדיא מחצית. נמצא דלבני ארץ ישראל החיוב עליו מיד אחר כ\"א יום ולבני ח\"ל מיד אחר כ' יום ומחצ' וכן אם כתב בשטר עד אחר סוכות יש לו ג' חדשים עכ\"ל והש\"ך השיג ע\"ז וכתב דרחוק מן השכל ליתן לו זמן רב כזה לכך נרא' פירוש ר\"ח ז\"ל דאחר הרגל הוא ט\"ו יום אחר הרגל ואין חילוק בין רגל לרגל וכבר נודע שכל דברי ר\"ח הם דברי קבל' מחכמי הש\"ס שהי' גאון קדמון וכמ\"ש הרא\"ש ושאר פוסקים בכמ' מקומות ועוד שנ\"ל מקור לדבריו מפ\"ק דתענית כו' ע\"ש וכתב עוד דמ\"ש המחבר רוב הימים הוא דוקא ודלא כהסמ\"ע גם מ\"ש הסמ\"ע דלבני א\"י חל החיוב מיד אחר כ\"א יום כו' לא דק דמסוף פסח לתחלת עצרת הוא לבני א\"י מ\"ג יום ולדידן מ\"ב יום נמצא דכ\"א יום לכ\"ע ליכא רובא ולבני א\"י אפי' פלגא לא הוי עכ\"ל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 43:44"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

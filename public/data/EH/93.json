@@ -1,0 +1,1047 @@
+{
+  "chelek": "EH",
+  "siman": 93,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 32,
+  "fetchedAt": "2026-07-08T00:09:00.252Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין מזונות האלמנה. ובו לב סעיפים: הכתובה הרי היא כחוב שיש לו זמן ואינה נגבית אלא לאחר מיתת הבעל או אם גירשה: הגה וה\"ה מה שקיבל בנדוניא וע\"ל סי' ס\"ו סעיף י\"א כתב לה מתנות הם נגבות מחיים מיהו אם דרך המקום לכתוב כן לכבוד בעלמא ושלא לגבותן מחיים הולכין אחר המנהג (במישרים בשם גאון ודלא כרשב\"א) ולא יוכל האב להתנות על בתו בשום דבר לאחר שנשאת אבל אם הוא משיאה יכול להתנות על מתנותיה לשנות מן המנהג קודם שנשאת כפי רצונו (ועיין בח\"ה סי' צ\"ז סעיף כ\"ד):",
+      "en": "The Ketuba is like a debt that is time bound, and it can only be collected after the death of the husband, or after divorce.  Rem\"a: The same is true about the dowry (Shulchan Arukh, Even HaEzer 61:11)  If he included gifts, they are collected while he is alive.  Still, if the local practice is to inlcude gists as a honorific gesture, and to not collect them while he is alive, we follow the local practice (following the view of the Gaon, against the Rashb\"a).  The father cannot stipulate anything about his daughter after she is married, but if he is marrying her off he can put conditions on her gifts to change from the convention, if he so desires.  See (Shulchan Arukh, Chosen Mishpat 97:24)",
+      "ref": "Shulchan Arukh, Even HaEzer 93:1"
+    },
+    {
+      "seif": 2,
+      "he": "האשה שהיו לה ספק גירושין ומת בעלה אינה ניזונית מנכסיו שאין מוציאין מיד היורש מספק אבל בחיי בעלה יש לה מזונות עד שתתגרש גרושין גמורים:",
+      "en": "A woman who had a divorce of a dubious nature, whose husband died, is not sustained from his property, as we do not extract from the inheritor out of uncertainty. But while her husband is living, she is provided with sustenance until he divorces her conclusively.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:2"
+    },
+    {
+      "seif": 3,
+      "he": "אלמנה ניזונית מנכסי יורשין כ\"ז אלמנותה אפי' אם לא נכתב בכתובה ואפי' אם צוה בשעת מיתה אל תיזון אלמנותי מנכסי אין שומעין לו ואין היורשים יכולין לפרוע לה כתובתה ולסלקה מהמזונות אלא היא ניזונית על כרחם כל זמן שלא תתבע כתובתה אא\"כ התנו כן בפירוש שלא תזון אלמנתו מנכסיו או שהיה מנהג המקום כן  (ויכולין ב\"ד לתקן במקומן שהיתומים יסלקו אותה כשירצו (ב\"י וריב\"ש סי' ק\"ז):",
+      "en": "A widow is provided food from the property of the inheritors the entire time of her widowhood, even if it wasn't written in her marriage contract, and even if he commanded at the time of death, \"Don't provide food from my property for my widow,\" we don't listen to him. And the inheritors are NOT able to pay off to her the marriage contract and remove her from the food, but she is provided food against their will as long as she doesn't claim her marriage contract, unless they explicitly stipulated that his widow will not be provided food from his property, or the custom in the place is such. Rama: And the [Jewish] Court is able to decree in their place that the orphans can remove her when they want (Beit Yosef and Riva\"sh Siman 107).",
+      "ref": "Shulchan Arukh, Even HaEzer 93:3"
+    },
+    {
+      "seif": 4,
+      "he": "המניח אלמנה ובת ממנה או מאשה אחרת ואין בנכסים כדי שיזונו שתיהן האלמנה נזונית והבת תשאל על הפתחים וי\"א דבין שהנכסים מרובין בין שהם מועטים אם יש אלמנה ובן או אלמנה ובת תיזון היא עם הבן או עם הבת עד שיאכלו הנכסים ואפילו אם תנשא הבת ומכנסת הנכסים לבעל היא תיזון מהם אפילו אחר מיתת הבת אבל אם יש אלמנה ובן ובת והנכסים מועטים שאין בהם כדי שיזונו הבת והבן עד שתבגור הבת אז ידחו הבן והבת ותיזון האלמנה לבדה עד שתגבה כתובתה: הגה ובמקום שהאלמנה דוחה הבנות מוציאין לאלמנה מזון עד זמן שאומדין ב\"ד שראויה לחיות אם זקנה ואם ילדה ונותנין ביד שליש והוא מפרנסה אחד לשלשים יום (ב\"י בשם המ\"מ שכ\"כ בשם הרמב\"ן):",
+      "en": "When someone leave behinds a widow and a daughter, whether the daughter is hers or from a previous wife, and there isn't enough in the estate to provide for them both, the widow is supported and the daughter must beg. But some say that whether the estate is large or small, if there's a widow and a child, whether a son or a daughter, she is supported with the child, son or daughter, until the money runs out; and even if the daughter gets married and shares the estate with her husband, she [the widow] is still supported from them even after the death of the daughter. But if there is a widow and a son and a daughter, and the estate is small enough that they can't be supported until the daughter reaches majority age, then the son and daughter are sent away (?) and the widow alone is supported until she collects the worth of her Ketubah. Gloss: And in the case where the widow comes before the daughters, the widow is brought food until the point at ______",
+      "ref": "Shulchan Arukh, Even HaEzer 93:4"
+    },
+    {
+      "seif": 5,
+      "he": "אלמנה שתבעה כתובתה בב\"ד אין לה עוד מזונות ואפי' לא פרעוה  (אבל תבעה שלא בב\"ד לא הפסידה) (טור)  וי\"א שאפי' תבעה בבית דין לא הפסידה אלא אם כן תבעה מעצמה אבל אם תבעה מדוחק שלא נתנו לה מזונות או שרמוה ואמרו לה פלוני חפץ לישא אותך ומחמת זה תבעה כתובתך או כיוצא בזה לא הפסידה מזונותיה: הגה הנשבעת על כתובתה לפני ב\"ד לא הפסידה מזונות דשבועתה לא הוי כתביעה (הגהות אלפסי סוף פרק נערה):",
+      "en": "A widow who sues [the estate] for her Ketubah is no longer entitled to support from the estate, even if she was not paid. However, if she merely demanded it outside of Bet Din she does not lose [her right to support.] (Tur) Others say that she does not lose it even if she sues in Bet Din unless she sued by choice, but if she sued under pressure because they [the heirs] were not supporting her or because they tricked her [by saying] so-and-so wants to marry you and therefore she sued for the Ketubah (so that she could support herself or have a dowry for her remarriage) or or for similar reasons, she does not lose her right to support.   Rema: A woman who swears before the court as to her ketubah does not lose her right to support because swearing [as to the value] does not constitute a claim or suit.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:5"
+    },
+    {
+      "seif": 6,
+      "he": "שכיב מרע שציוה שתהא אלמנתו ניזונת מנכסיו כל ימי מיגר אלמנותה יתר על כתובתה יש מי שאומר שאין אלמנתו מפסדת מזונותיה בתביעת כתובתה בבית דין ולא בשאר דרכים המפסידין מזונותיה וגם אין מעשה ידיה ליתומים:",
+      "en": "A bedridden person who orders that his widow be supported from his property all the days of her widowhood, beyond the amount in her ketubah,  at least one source says, that his widow cannot lose her support through the execution of the ketubah in court, nor by other ways one loses support, and the fruit of her labor does not go to the orphans.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:6"
+    },
+    {
+      "seif": 7,
+      "he": "תבעוה לינשא אפילו נתפייסה לא הפסידה מזונותיה וכן אם כחלה או פרכסה או זנתה לא הפסידה מזונותיה אבל אם נתארסה הפסידה מזונותיה וי\"א דמיד שעשתה שידוך הפסידה מזונותיה (ב\"י):",
+      "en": "....",
+      "ref": "Shulchan Arukh, Even HaEzer 93:7"
+    },
+    {
+      "seif": 8,
+      "he": "מכרה כתובתה כולה או משכנה או עשתה אפותיקי לאחר בין שעשתה דברים אלו בפני ב\"ד מומחין בין בפני ג' נאמנים בין שעשתה בחיי בעלה בין שעשתה לאחר מיתת בעלה אין לה מזונות מהיורשים:",
+      "en": "If she sold her ketubah payment right entirely, or was pauperized, or became a ward of someone else, whether she did these things before an expert court of before three dependable [witnesses], whether she did them during her husband's lifetime or she did them after her husband's death, she is not entitled to to board payments from his heirs.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:8"
+    },
+    {
+      "seif": 9,
+      "he": "מחלה כתובתה לבעלה הפסידה מזונותיה שאחר מותו אבל בחייו יש לה מזונות ויש מי שאומר שאף בחייו הפסידה מזונות  (וכן אם מחלה ליתומים אבדה מזונותיה) (הר\"ן פרק נערה בשי\"א וכ\"כ הב\"י):",
+      "en": "She forgives her ketubah to her husband, she loses her [right to] food [he must feed her] after he dies, but while he is alive, she has food. There are those who say that even when he is alive, she loses her right to food. If so, if she forgives to the orphans, she loses [the right] to food (Ron chapter 4, like it says in the Beis Yoseif).",
+      "ref": "Shulchan Arukh, Even HaEzer 93:9"
+    },
+    {
+      "seif": 10,
+      "he": "בד\"א כשמכרה או משכנה או מחלה כל הכתובה עיקר ותוספת אבל אם שיירה מקצת נזונת אפי' לא שיירה אלא התוספות או מקצתו ומיהו אם ירצו היורשים יפרעו לה מה ששיירה ויפטרו ממזונותיה וכל המוכרת או מוחלת סתם מכרה ומחלה התוספת עם העיקר:",
+      "en": "What are the circumstances? When she sold, or collateralized or forgave the entire ketuba, both the basic amount and any additional amount. But if she retained a portion [for herself], she still receives sustenance support, even is she retained only the additional amount or a portion thereof. However, the heirs may pay off the amount that she retained, and will thereby be absolved of paying her sustenance. Any woman who sells or forgives her ketuba per se [without mentioning specific details] is considered to have sold or forgiven the additional amount along with the basic ketuba.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:10"
+    },
+    {
+      "seif": 11,
+      "he": "תבעה נדונייתא ונפרעה ממנה לא הפסידה מזונות כיון ששיירה עיקר או תוספת או מקצת:",
+      "en": "If she claimed [return of] her dowry and was reimbursed, she does not thereby lose sustenance support, because she still retains the basic ketuba, additional amounts listed in the ketuba, or a portion thereof.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:11"
+    },
+    {
+      "seif": 12,
+      "he": "תבעה עיקר ותוספת בלבד אפי' נדונייתא ק' מנה הפסידה מזונות: הגה וכן אם תבעה כתובתה סתם אבדה מזונותיה ולא אמרי' דלא תבעה התוספת (טור):",
+      "en": "If she claimed only the basic and additional amounts listed in the ketuba, even if her dowry was 100 maneh (1 maneh = 100 dinar = 25 mishnaic sela; and the heirs still need to repay the dowry), she loses sustenance support. Rama: Similarly if she claimed her ketuba per se (without additional qualifications), she loses her support, and we do not say that she did not claim the additional amounts (Tur).",
+      "ref": "Shulchan Arukh, Even HaEzer 93:12"
+    },
+    {
+      "seif": 13,
+      "he": "יש מי שכתב שאם אין בפירות נכסי המת כדי מזונותיה אין לה מזונות אלא עד כדי כתיבתה וחלקו עליו דלעולם היא נזונת והולכת עד שלא ישאר בנכסים אלא כדי כתובתה ואז נוטלתן בכתובתה:",
+      "en": "There is one authority who writes that if the income from the deceased's estate are insufficient for her [the widow's] sustenance, her rights to sustenance support are limited to the amount of her ketuba. But they disagree with him, for she always receives sustenance until the estate has dwindled to the value of her ketuba, and she then receives this [remainder of the estate] as [payment of] her ketuba.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:13"
+    },
+    {
+      "seif": 14,
+      "he": "אלמנה עניה ששהתה שתי שנים ולא תבעה מזונות או עשירה ששהתה ג' שנים ולא תבעה ויתרה ואין לה מזונות משנים שעברו ואם שהתה פחות מזה אפי' יום אחד לא ויתרה ואם היה בידה משכון בתוך אותן שנים או שלותה לא ויתרה:",
+      "en": "A poor widow who stayed two years and did not demand alimony, or a rich [widow] who stayed for three years and did not demand [alimony], relinquished and has no alimony from previous years. And if she stayed less than this, even one day, she did not relinquish. And if she had in her hand a pawn during those years, or if she borrowed, she did not relinquish.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:14"
+    },
+    {
+      "seif": 15,
+      "he": "אלמנה שתבעה מזונות מהיורשים והם אמרו שנתנו לה והיא אומרת שלא נטלה כל זמן שלא נשאת על היתומים להביא ראיה או תשבע שבועת היסת ותטול משנשאת עליה להביא ראיה או ישבע היורש שבועת היסת שנתנם לה:",
+      "en": "A widow who claimed [past] sustenance support from the heirs; they say that they gave her the support, and she says that she did not take the support, as long as she has not remarried, the onus is upon the heirs (lit. orphans) to bring proof [that they paid], or she may take a \"heset\"oath (a lesser severity, Rabbinic-level oath) and take the support. Once she has remarried, the onus is upon her to bring proof, or the heir may swear a \"heset\" oath that he paid her.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:15"
+    },
+    {
+      "seif": 16,
+      "he": "מי שיחד קרקע לאשתו בשעת מיתה שתהי' נזונית ממנו אם אמר יהא קרקע פלוני למזונותיך הרי ריבה לה מזונות ואם היה שכרו פחות ממזונות הראוים לה נוטלת השאר משאר נכסים ואם היה שכרו יותר מהראוי לה נוטלת הכל אבל אם אמר לה יהא קרקע פלוני במזונות ושתקה אין לה אלא פירות אותו קרקע בלבד:",
+      "en": "One who designated land for his wife when he was dying, with the purpose that she would be provided for from it.  If he said: Such and such piece of land will be your sustenance, behold he has increased her sustenance. And if it earns less than the sustenance due to her, she gets the rest from other funds, and if it earns more than what she deserves, she takes it all.  But if he said to her: Such and such piece of land will be for sustenance, and she was silent, she gets only the produce from that land.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:16"
+    },
+    {
+      "seif": 17,
+      "he": "אשה שהלכה היא ובעלה למדינת הים ובאה ואמרה מת בעלי רצתה נזונת רצתה נוטלת כתובה אבל אם אמרה גרשני בעלי אינה נאמנת ונזונת מנכסיו עד כדי כתובתה:",
+      "en": "A woman who went abroad with her husband and she returned and said: My husband died. If she wants, she may receive sustenance, and if she wants she may take her ketubah. But if she said: My husband divorced me, she is not believed. And she is sustained from his property up to the value of her ketubah.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:17"
+    },
+    {
+      "seif": 18,
+      "he": "אלמנה שאין שטר כתובה יוצא מתחת ידה אין לה מזונות שמא מחלה כתובתה או מכרה או משכנה אותה ויש חולקין:",
+      "en": "A widow who doesn't have her ketubah documentation, she does not receive sustenance, for perhaps she forgave her ketubah or sold it or used it as a pledge.  But there are those who disagree.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:18"
+    },
+    {
+      "seif": 19,
+      "he": "אלמנה ניזונת אע\"פ שלא נשבעת וי\"ח  (והסברא ראשונה עיקר):",
+      "en": "A widow is sustained, even though she didn't swear [that she didn't receive her ketubah]. But there are those who disagree. And the first reasoning, is the prominent one.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:19"
+    },
+    {
+      "seif": 20,
+      "he": "אין אלמנה ניזונית אלא מקרקעות בני חורין ולא מהמשועבדים לא מבעיא אם מכר או נתן הבעל בחייו אלא אפי' מכרו או משכנו או נתנו היורשים לאחר מיתת אביהן אין מוציאין למזון האשה והבנות ודוקא שנתן האב מתנת בריא אבל אם נתן מתנת ש\"מ ניזונת ממנה  (אם אין כאן בני חורין) (ריב\"ש סי' ק\"ז) הקדיש נכסיו הוי כמתנת בריא (ר\"ן ריש המדיר)  ואינה ניזונית ממטלטלין אפי' בני חורין ומיהו אם תפסה ממטלטלין אפי' אחר מיתה לא מפקינן מינה ועכשיו שתקנו הגאונים שתגבה כתובה ותנאי כתובה ממטלטלין הרי היא ניזונית ממטלטלין אפי' לא תפסה  (מיהו אם נתן המטלטלין לאחרים אפילו במתנת שכיב מרע י\"א דאינה ניזונת מהן) (מרדכי פרק נערה בשם י\"א):",
+      "en": "A widow is not fed only [with money gained] from land that is free but not [from land] that has a lien on it. It is not necessary [to be said, that land with a lien is not used] if the husband sold or gifted the land in his lifetime. Rather even if the inheritors sold, put a lien or gifted the land after their father died, we do not remove [the land] to feed the widow or daughters. Specifically if the father gave [his land] in a regular transaction, but if he gave it via a \"matnas schiv mera\" they get food from it if there are no free properties.   If he sacralized his properties it is like a regular transaction.  She is not fed from movable objects. However if she grabed  from movable objects, even after his death, we do not take it away from her. And now that the \"Gaonim\" enacted that she collects her \"kesuba\" and the extras of the \"kesuba\" from movable objects, she is fed from movable objects, even if she doesn't grab [them]. However, if the movable objects were given to others even via a \"matnas schiv mera\", some say she is not fed from them.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:20"
+    },
+    {
+      "seif": 21,
+      "he": "הניח מטלטלין ולא תפסה אותם היורשים נוטלין אותם והם מעלין לה מזונות ואינה יכולה לעכב עליהם ולומר יהיו המטלטלין מונחים בב\"ד שאזון מהם שמא יאבדו ולא יהיו לי מזונות ואפי' התנה עליו בפירוש שתזון מהמטלטלין אינה מעכבת אבל הניח קרקע יכולה היא לעכב עליהם שלא ימכרו ואם מכרו אינה מוציאה מיד הלקוחות והיא ניזונית מדמי הקרקע שבידם ויש מי שחולק ואומר שאינה ניזונית מאותם הדמים: הגה הקנה לה בקנין על המזונות מוציאה למזונות ממשועבדים ודוקא שפירש בהדיא מזונות שלאחר מיתה אבל בלא\"ה אע\"ג שכתב לה בכתובתה מזונות וקנו מידו לא נתכוין על מזונות רק מחייו  (כך משמע מהמ\"מ פי\"ח דאישות וכ\"כ הב\"י בשם תשובת הרשב\"א):",
+      "en": "If he [her husband] had left movable property and she has not taken physical possession of it, the heirs take it and they must fund her board payments. And she may not prevent them, saying, \"Let the movable property be deposited with the court and I will be fed from them, lest they be lost and I will not have food [payments].\"  And even if he had specified explicitly that she should be fed from that movable property, she may not prevent them from selling it, and if they do sell it she may not claim in back from the hands of the third-party buyers, and she [then receives] board payments from the money coming from land that they hold. And there are those who disagree and say that she does not receive her board payment from that money.  Note: if he committed to her with kinyan about the board, then she may deduct [what she will be owed] for food from the subordinated [property].  And that is the case if he had explicitly specified board payments for after his death; but it is not so, even if he wrote about board payments in her ketubah, and they had bought [the property] from his own hand - he intended those board payments only during his lifetime (that is understood from the Maggid Mishneh, chapter 18 of 'Marriage,' and the Beit Yosef wrote similarly, quoting a responsum of the Rashba).",
+      "ref": "Shulchan Arukh, Even HaEzer 93:21"
+    },
+    {
+      "seif": 22,
+      "he": "הניח נשים רבות אע\"פ שנשאן זו אחר זו נזונות בשוה שאין דין קדימה במזונות:",
+      "en": "If he [died and] left many wives, even though he married them one after the other, they [are entitled to] receive board payments equally, as their is no rule of time precedence in board payments.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:22"
+    },
+    {
+      "seif": 23,
+      "he": "אלמנה שתפסה מטלטלין כדי שתזון מהם בין שתפסה מחיים בין שתפסה אחר מותו אפי' תפסה ככר זהב אין מוציאין מידה אלא כותבין עליה ב\"ד מה שתפסה ופוסקין לה מזונות ומחשבין עליה והיא נזונת ממה שבידה עד שתמות או עד שלא יהיו לה מזונות ויקחו היורשים את השאר: הגה י\"א דלא הוי תפיסה אלא תפיסה מרשות הרבים או מסימטא אבל לא מרשות יורשין (הר\"ן פרק אלמנה ניזונית בשם רש\"י) ויש חולקין (כך משמע מדברי הריב\"ש סימן שס\"ד) ולכ\"ע בעינן תפיסה גמורה דהיינו שתפסה מאחד מדרכי הקניות אבל אם לא תפסה רק מפתחות החדרים לא מקרי תפיסה ונותנין הכל ליורשין ודוקא שתפסה בעצמה אבל ע\"י שליח לא מהני תפיסתה (בריב\"ש סי' שס\"ד וסי' ק\"ז):",
+      "en": "A widow who took possession of movable property in order to fund her board entitlement from them, whether she took possession during [her husband's] life or she took possession after his death, even if she took possession of a block of gold, they do not take it back from her, but rather the court writes about her what she took, and they allocate her board entitlement and they calculate about her, and she is fed from what she is holding until she dies or until has no more food, and then the heir takes the remainder.  Note: some say it is not considered taking possession unless she took it from a public area or from an alleyway, but not from the a place owned by the heir (The R'an, chapter 'A Widow Receives Board,' quoting Rashi).  And some disagree (that is understood from the words of the R'ivash, paragraph 384) but everyone agrees in the case of clear possession, that is if she took possession in one of the ways that ownership normally passes, but if she only took the keys of the rooms we don't consider that possession and we give it all to the heirs. And it is specifically if she has taken possession herself, but if she did so by the hand of an agent we do not credit her with possession (in the R'ivash, section 384 and section 107).",
+      "ref": "Shulchan Arukh, Even HaEzer 93:23"
+    },
+    {
+      "seif": 24,
+      "he": "אם תפסה יותר מהראוי להגבותה בבית דין בבת אחת דהיינו כדי מזון שלשים יום ואחר שכלה מה שתפסה תבא לתבוע מזונות משביעין אותה לדברי הכל:",
+      "en": "If she took more than is appropriate, she is claimed against in the court all at once, that is for thirty days worth of food, and alfter she finishes what she has in her possession she may come to sue for food, and she is sworn about all these matters.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:24"
+    },
+    {
+      "seif": 25,
+      "he": "אלמנה שבאה לבית דין לתבוע מזונות מוכרין בלא הכרזה ונותנין לה מזונות וכן יש לה למכור למזונות שלא בב\"ד מומחין אלא בג' אנשים נאמנים בלא הכרזה וכן אם מכרה בינה לבין עצמה שוה בשוה מכרה קיים ויש חולקין בזו:",
+      "en": "A widow who came to the court to sue for her board payments: they sell [property from the estate] without prior announcement and give her board payments. And similarly she may sell by the order of an expert court, but also by the order of a [lower court of] three reliable [men] without prior announcement. And similarly if she sold it herself for equal value, her sale stands; but there are those who disagree with this.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:25"
+    },
+    {
+      "seif": 26,
+      "he": "לא הצריכוה ב\"ד הדיוטות אלא למכור אבל למשכון אינה צריכה:",
+      "en": "A court of non-experts may only require her to sell, but she is not required to provide security or mortgage.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:26"
+    },
+    {
+      "seif": 27,
+      "he": "אם לקחה הקרקע לעצמה בסכום ידוע אפי' הוא שוה בשוה אינו כלום אפי' הכריזה ואם נתייקר אח\"כ צריכה להחזירו ליורשים ואפילו לא נתייקר אם ירצו יבטלו המקח:",
+      "en": "If she takes the land to herself as being worth a particular sum (out of her wedding contract), even if that is the right sum, that is meaningless - even if she declares it. If it becomes more valuable later, she has to return it to the heirs. Even if it doesn't become more valuable, if the heirs want to they can take it back.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:27"
+    },
+    {
+      "seif": 28,
+      "he": "ואם היו ב\"ד הדיוטות שם מקחה קיים וי\"א שגם בזו אינו כלום עד שיהיו שם ב\"ד מומחין:",
+      "en": "And if a non-expert court was there, her transaction stands. And some say that even that is [like] nothing, unless an expert court was there.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:28"
+    },
+    {
+      "seif": 29,
+      "he": "אלמנה שמכרה האחריות על היתומים ואעפ\"כ כשבאה לגבות כתובתה אינה יכולה לטרוף מהלקוחות שמכרה להם:",
+      "en": "A widow who sold, the obligation falls on the orphans; and nonetheless when she comes to collect her ketubah payment she may not claim back from the third-parties to whom she sold.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:29"
+    },
+    {
+      "seif": 30,
+      "he": "כמה מוכרים למזונות כדי לזון מהם ו' חדשים ולא יותר והמעות ישארו ביד הלוקח שלא יתנם לה הכל מיד אלא כדי מזון ל' יום וכן מל' יום לל' יום וחוזרת ומוכרה שנית לששה חדשים וכן מוכרת והולכת לעולם עד שישאר מהנכסים כדי כתובתה גובה כתובתה מהשאר והולכת לה: הגה י\"א הא דמוכרת לו' חדשים היינו דוקא קרקע אבל בזמן הזה דניזונת ממטלטלין אין למכור אלא חפץ אחד (טור בשם בעל העיטור):",
+      "en": "How much is to be sold for board payments? enough for six months  and not more. And the money stays in the possesion of the buyer, that it not all be given to her at once, but rather sufficient for thirty days' board, and so on every thirty days. And then she sells again for six months; and so she continues to sell indefinitely, until the remainder of the assets is equal to her ketubah payment entitlement, [at which point] she claims her ketubah payment from the remainder and goes away.  Note: some say that the widow who sells for six months refers specifically to real property, but in our times when board payments are funded out of movable property only one item at a time should be sold. (Tur, quoting the Baal HaAtur).",
+      "ref": "Shulchan Arukh, Even HaEzer 93:30"
+    },
+    {
+      "seif": 31,
+      "he": "אם אין מוצאים ליקח כדי מזונות של ו' חדשים מוכרים ביותר לפי ראות עיני הדיינים כדי שיהיו לה מזונות:",
+      "en": "If they seize [property from unwilling heirs] in order to fund six months board, they may sell more, according to the discretion of the judges, so that she may have food.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:31"
+    },
+    {
+      "seif": 32,
+      "he": "כשפוסקין מזונות לאלמנה שאינה ניזונת עם היתומים אין נותנין לה לפחות מל' יום וכן לאשת איש כדי שלא תצטרך להתבזות על מזונותיה בב\"ד בכל יום:",
+      "en": "When a court decrees maintenance to a widow that isn't covered by maintenance for the orphans, they give her enough to buy food for no less than thirty days. The same is true for a married woman, so she won't have to endure the shame of having her maintenance decreed in the court every day.",
+      "ref": "Shulchan Arukh, Even HaEzer 93:32"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מבואר בכמה דוכתי שהכתוב' לא ניתנה ליגבות מחיים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:1"
+        },
+        "2": {
+          "he": "מסקנת הגמ' בכתובות דף ל\"ז ע\"ב וכפירש\"י שם והתוספות פי' שם בע\"א משום דמילת' דפשיטא היא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:2"
+        },
+        "3": {
+          "he": "מימרא דרבי זירא שם ובב\"מ דף יב ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:3"
+        },
+        "4": {
+          "he": "משנ' כתובו' דף נב ע\"ב וכאנשי ירושלים ואנשי הגליל דפשט שמואל הלכה כוותייהו שם טור בשם ר\"ח והרי\"ף והרא\"ש וכן כ' הרמב\"ם פי\"ח מה\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:4"
+        },
+        "5": {
+          "he": "הרמב\"ם שם מהא דהאומר אל יזונו בנותיו מנכסיו אין שומעין",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:5"
+        },
+        "6": {
+          "he": "וכן משמע מפשטא דמתני'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:6"
+        },
+        "7": {
+          "he": "לשון הרמב\"ם ספי\"ט ממימר' דר\"א א\"ר אסי ב\"ב דק\"מ ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:7"
+        },
+        "8": {
+          "he": "טור כדברי הירושלמי וכדעת התוס' שם וכ\"כ אביו הרא\"ש שם בפסקיו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:8"
+        },
+        "9": {
+          "he": "מהא דשלח רבין כו' שם ד' קל\"ט ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:9"
+        },
+        "10": {
+          "he": "מימרא דר\"י כו' כתובות דף נ\"ד ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:10"
+        },
+        "11": {
+          "he": "טור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:11"
+        },
+        "12": {
+          "he": "שם וכ\"כ הרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:12"
+        },
+        "13": {
+          "he": "שם בפסקיו מעובד' בירושל' קמיה דר\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:13"
+        },
+        "14": {
+          "he": "הריב\"ש בתשו' סימן ת\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:14"
+        },
+        "15": {
+          "he": "מסקנת הגמ' שם בכתובות לית הלכה ככל הני שמעת' כו' וכדעת הרי\"ף דאכולהו קאי וכ\"כ הרמב\"ם בפי\"ח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:15"
+        },
+        "16": {
+          "he": "טור והרמב\"ם שם וכמ\"ש ה\"ה דא\"א נקראת ולא אלמנה ותנאי למזונות אינה אלא ימי משך אלמנותה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:16"
+        },
+        "17": {
+          "he": "בריית' וגמ' שם כתובות ד' נד ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:17"
+        },
+        "18": {
+          "he": "כמימרא דרבין כו' משמיה דר\"י שם הסכמת הפוסקים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:18"
+        },
+        "19": {
+          "he": "כפי' רש\"י שם וכ\"כ ה\"ה בשם הרמב\"ן והרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:19"
+        },
+        "20": {
+          "he": "הרמב\"ם שם בפי\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:20"
+        },
+        "21": {
+          "he": "מסקנת הגמ' שם ד' ל\"ז ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:21"
+        },
+        "22": {
+          "he": "ממ\"ש נ\"מ לתובעת ולמוכרת שם דף נ\"ד ע\"ב וכפירוש התוס' והרא\"ש שם וכן כתב בתשו' להרמב\"ן סמ\"ח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:22"
+        },
+        "23": {
+          "he": "הרא\"ש פרק י\"א דכתובות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:23"
+        },
+        "24": {
+          "he": "הרמב\"ן שם בפי' דברי הרי\"ף וכן כתב הרמב\"ם בפי\"ח והטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:24"
+        },
+        "25": {
+          "he": "ה\"ר שלמה בן הר\"ש בר צמח בשם המפרשים בשם הרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:25"
+        },
+        "26": {
+          "he": "כן דקדק הב\"י מדבריו ושכ\"נ מדברי הריטב\"א משום דמזוני בתר עיקר כתיבה גריר",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:26"
+        },
+        "27": {
+          "he": "טור בשם הרי\"ף",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:27"
+        },
+        "28": {
+          "he": "הרא\"ש ורמב\"ם בפי\"ח וכל הפוסקים וכ' הראב\"ד שנמצא כתוב שגם הרי\"ף חזר בו בסוף ימיו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:28"
+        },
+        "29": {
+          "he": "פי' לאפוקי שא\"י למכור אלו למזונו' ולגבות כתובתה מהמשועבדים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:29"
+        },
+        "30": {
+          "he": "ל' הרמב\"ם ממימרא דר\"י כו' ד' נ\"ו ע\"א וכל\"ק שם וכן כתב הטור בשם הרמ\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:30"
+        },
+        "31": {
+          "he": "מימרא דרבא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:31"
+        },
+        "32": {
+          "he": "טור מהירוש' וכתבו הרא\"ש והר\"ן וה\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:32"
+        },
+        "33": {
+          "he": "ל' הרמב\"ם מהא דפשט בגמ' דתני לוי כו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:33"
+        },
+        "34": {
+          "he": "שם ע\"ב כמ\"ש ה\"ה שהנכסים הם בחזקתה והרי הם באי' להוציא ממנה ונשבעת היסת כדין כופר בכל וכשנשאת הוא בהפך שאז הנכסים בחזקת היורשים והיא באה להוציא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:34"
+        },
+        "35": {
+          "he": "ג\"ז שם מעובדא דקריב' דר\"י כו' ומסקנת הגמרא משמיה דר\"א שם דף נ\"ד ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:35"
+        },
+        "36": {
+          "he": "ברייתא שם דק\"ז ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:36"
+        },
+        "37": {
+          "he": "הרמב\"ם שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:37"
+        },
+        "38": {
+          "he": "טור בשם אביו הרא\"ש וכ\"כ הרשב\"א בתשו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:38"
+        },
+        "39": {
+          "he": "שם בשם אביו הרא\"ש ורשב\"א בתשו' משמעו' פלוגת' דרב ושמואל כתובות שם ובשם ראב\"ד ומורי הרמב\"ן וכן כ' הר\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:39"
+        },
+        "40": {
+          "he": "הרמב\"ם שם בפ' י\"ט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:40"
+        },
+        "41": {
+          "he": "משנה גיטין דף מ\"ח ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:41"
+        },
+        "42": {
+          "he": "מסקנת הגמ' כתובות דס\"ט ע\"א אהא דתלא ליה רב לר' ביני חיטי כו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:42"
+        },
+        "43": {
+          "he": "הרי\"ף אהא דאמרי' מיגרע גרע השתא בירוש' דאוריי' כו' ב\"ב דף קל\"ט ע\"א והרמב\"ם בפ\"ט מה\"א וכן כתב' הרא\"ש סוף פ\"ג דקידושין",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:43"
+        },
+        "44": {
+          "he": "מימרא דרב הלכתא וכו' כתובות דף סט ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:44"
+        },
+        "45": {
+          "he": "מימרא דר' אלעזר ובריי' כתובו' דף צו ע\"א וכן כתב הרי\"ף והרא\"ש שם והרמב\"ם בפי\"ח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:45"
+        },
+        "46": {
+          "he": "שם ושם וכן כתב הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:46"
+        },
+        "47": {
+          "he": "ל' הרמב\"ם שם והביאו הטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:47"
+        },
+        "48": {
+          "he": "וכמ\"ש ה\"ה שם שהרי אפי' בקרקע שבדין הגמ' היא נזונית ממנו אם מכרו אינה מוציא' מיד הלקוחות אם כן במטלטלין שהיא מתקנת הגאונים אינו נראה שלא יוכלו למכור אפי' לכתחילה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:48"
+        },
+        "49": {
+          "he": "משנה גיטין דף מ\"ח ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:49"
+        },
+        "50": {
+          "he": "טור לדעת רב האי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:50"
+        },
+        "51": {
+          "he": "שם לדעת אביו הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:51"
+        },
+        "52": {
+          "he": "הרמב\"ם שם מהירושלמי שם וכן הוא בתו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:52"
+        },
+        "53": {
+          "he": "ג\"ז שם מימרא דרבי אליעזר כתובות דצ\"ו ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:53"
+        },
+        "54": {
+          "he": "כפי' התו' שם בשם ריב\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:54"
+        },
+        "55": {
+          "he": "וכתלמידי רבי יונה שם בירושלמי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:55"
+        },
+        "56": {
+          "he": "(פי' דהיינו בביתה שהיתה דרה בה עם בעלה שלאחר מיתת הבעל הרי היא ברשות יורשין",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:56"
+        },
+        "57": {
+          "he": "(פי' והיא ניזונות מתחת ידם מהמטלטלין דתנאי כתוב' ככתובה דמי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:57"
+        },
+        "58": {
+          "he": "טור בשם ריב\"א ובשם הר\"מ מרוטנבורג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:58"
+        },
+        "59": {
+          "he": "כ\"כ הרא\"ש שם בפסקיו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:59"
+        },
+        "60": {
+          "he": "מימרא דנהרדעי לכרגא ולמזוני ולקבורה וכו' שם דפ\"ז ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:60"
+        },
+        "61": {
+          "he": "משנה שם דצ\"ז ע\"א וכדאיתמר משמיה דרב נחמן ב\"מ דל\"ב ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:61"
+        },
+        "62": {
+          "he": "טור בשם הרמב\"ם שם וכ' ה\"ה בפי\"ז כדעת המפרשים שאע\"פ שהצריכוהו ב\"ד הדיוטות היינו לכתחלה וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:62"
+        },
+        "63": {
+          "he": "שם בשם ר\"ח וכן כתב העיטור בשמו והרמב\"ן בפ\"ב בתשובה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:63"
+        },
+        "64": {
+          "he": "תשובת הגאונים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:64"
+        },
+        "65": {
+          "he": "מימרא דרב זירא א\"ר נחמן כתובות דצ\"ח ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:65"
+        },
+        "66": {
+          "he": "ה\"ה בפי\"ז לדעת הרמב\"ם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:66"
+        },
+        "67": {
+          "he": "שם בשם ר\"ח וכן כתב הטור בשמו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:67"
+        },
+        "68": {
+          "he": "מימרא דרב יוסף שם דנ\"ז ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:68"
+        },
+        "69": {
+          "he": "בעי מרבי ששת ופשט להו דלא טרפא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:69"
+        },
+        "70": {
+          "he": "ל' הרמב\"ם שם בפי\"ח מימרא דאמימר הלכתא וכולי שם ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:70"
+        },
+        "71": {
+          "he": "כפירושו כמ\"ש שם מוכרת והולכת עד כדי כתובתה שמוכרת למזון כל מה שתרצה כדי צרכ' אפי' יתר מכדי כתובתה עד כדי שתשייר שיעור כתובתה ועצה טובה היא שתוכל למכור כל הנשאר בייחד עיין במ\"ש בסעיף י\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:71"
+        },
+        "72": {
+          "he": "הריטב\"א בשם רבינו מאיר",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:72"
+        },
+        "73": {
+          "he": "ג\"ז שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 93:73"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "כתוב שיש לו זמן נראה מזה אם רואין שהבעל מבזבז נכסיו תוכל האשה למחות בידו כמה שמצינו בח\"מ סי' ע\"ג בלוה שמבזבז נכסיו דיכול המלוה לתבוע אפילו תוך זמנו אלא שיש לחלק דשאני בכתובה דאפשר שלא תביא לעולם לידי גביה דשמא תמות היא וצ\"ע למעשה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:1"
+        },
+        "2": {
+          "he": "אינה ניזנ' מנכסיו אף על גב דלא קבלה עדיין כתובתה אבל בחיי בעלה יש לה מזונות פי' רש\"י הואיל היא מעוכבת להינשא בשבילו ולפ\"ז אפי' אם כבר נתן לה כתובה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:2"
+        },
+        "3": {
+          "he": "ויכולין ב\"ד לתקן כולי בס\"ס זה הביא ב\"י שתקנה הגונה היא וכ\"כ הריב\"ש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:3"
+        },
+        "4": {
+          "he": "שהם מועטים  פי' אע\"ג דגבי בת הניזונת יש חילוק בין מרובין, למעוטין כדלקמן סי' קי\"ב הכא אין חילוק:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:4"
+        },
+        "5": {
+          "he": "אלמנה ובן כו'  שהבן או הבת באים מכח ירושה והאלמנה מכח תקנת שניהם נזונים יחד ולא מיעקרא ירושה דאורייתא מכח התקנה אבל היכא דאיכא אלמנה ובן ובת בנכסים מועטים שכבר נדחה הבן מקמי הבת מכח התקנה אידחי נמי גם הבת מכח האלמנה מכח התקנה דאלמנה דעדיפא כ\"ה בתוספות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:5"
+        },
+        "6": {
+          "he": "אא\"כ תבע כו'.  בקצת ש\"ע יש כאן חסרון וצ\"ל אא\"כ תבעה מעצמה אבל כו':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:6"
+        },
+        "7": {
+          "he": "שאין אלמנותו מפסדת הטעם שזו אינה אוכלת מזונות מתנאי ב\"ד אלא מכח תקנה השכ\"מ ומדכ' ולא שאר דרכים כו' משמע אפילו אם נתארס הוק\"ל דהא בפ' השולח פירש\"י טעמה דגילתה דעתה דבעית לאנסובי ואיהו לא אתנה בהדה אלא כל ימי מיגר ארמלותיכי בביתי שהיא אלמנה בשביל כבודו עכ\"ל וא\"ל כאן שצוה הש\"מ לזונה מ\"מ הזכיר ל' מי מיגר ארמלותיכי ולא חלה המתנה כ\"ז שאין לה שם ואלמנה וכיון שנתארסה אין עליה שם אלמנה ואפי' בשידוך לחוד כתב הב\"י אין שם בעלה הראשן עליה אלא נקרא' משודכת של פלוני ונלע\"ד דנתארסה או נשתדכה אין בכלל בשאר דרכים הנזכר כאן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:7"
+        },
+        "8": {
+          "he": "בין בפני ג' נאמנים זה דברי הרמב\"ם משמע דעכ\"פ ג' בעינן ותימא דבגמ' ס\"פ נערה אמרינן בין בב\"ד בין שלא בב\"ד מהני במכרה או משכנה כתובתה אבל בתובעת כתובתה בפני ב\"ד אין שלא בפני ב\"ד לא ואם תפרש בין שלא בב\"ד היינו מומחין א\"כ בתובעת דצריך ב\"ד היינו מומחין וא\"כ לא היה נוהג דין זה בינינו שאין לנו מומחי' דכל ב\"ד מומחין הוא מכח הכתוב אלהים כדאיתא ריש ח\"מ והיינו סמוכין ואין זה בינינו ותו דברמב\"ם שבידינו לא כתוב הך בפני ג' נאמנים אלא ז\"ל בין בפני ב\"ד מומחין בין שלא בב\"ד כו' ולא כ' בין שלא מומחין ש\"מ דשלא בב\"ד כלל קאמר אלא בפני עדים לענין שופר בשבת כתב הרמב\"ם בזמן הזה שחרב הבית בכ\"מ שיש ב\"ד קבוע והוא שיהיה סמוך בא\"י תוקעין בשבת עכ\"ל וכאן בתובע' כתובתה לא זכר רק סתם ב\"ד ש\"מ דכל ב\"ד סגי ממילא במכרה כתובתה א\"צ ב\"ד כלל והוא מצד הסברא דכיון דמעשה המכירה מפסיד המזונות מה לי בב\"ד או בפני ב' עדים וכיון שהדבר אמת משא\"כ בתובעת כתובה כל שאינה אלא בפני עדים אפשר שדברים בעלמא דברה ולא היה לבה שלם בזה והא דכתב במכרה או (במשכנה) בין בב\"ד מומחין נתכוין דאפי' שלא בב\"ד כלל ה\"ל כמו ב\"ד מומחין בזה וכן מבואר עוד ברמב\"ם פי\"ז דאישות שכתב וז\"ל המוחלת כתובתה איבדה כל תנאי כתובה ואפי' מזונות אין לה עליו ומוחל' כתובתה א\"צ לא קנין ולא עדים כשאר כל המוחלין כו' עכ\"ל אלמא אפי' עדים א\"צ אם היא מודה בזה הביאו בש\"ע סי' קי\"א ממילא ה\"ה למוכרת כתובה כנלע\"ד בזה בס\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:8"
+        },
+        "9": {
+          "he": "אין לה מזונות מהיורשים זה לשון רמב\"ם פי\"ח דאישות ומשמע בחיי בעלה יש לה מזונות ובטור כתב סתם אין לה מזונות כל שמכרה או משכנה הן שעשתה בחיי בעלה כו' מ\"מ ע\"כ נתכוין שלאחר מיתה דוקא אין לה מזונות וזה מן מ\"ש הטור אח\"ז במוחל' דוקא לאחר מיתה והוא מטעם דאחר מיתה הוה חיוב מזונותי' מכח תנאי כתובה והוה ככתובה וזה הפסיד' אבל בחיי בעלה הוא חיוב מזונותיה מצד תקנת חכמים דמעשה ידיה במקום מזונותיה ואין ע\"ז שם כתובה וזה לא הפסידה כאן כך כתב הרא\"ש פרק נערה וזה הטעם ממש גם כן במכרה או משכנ' כתובה ורא\"ש כתב חילוק זה במוחלת שהוא קודם בגמר' למכרה ומשכנ' ואחריו נגרר הטור וכתבו גם כן במוחל' אבל הוא הדין במוכרה ומשכנה כנ\"ל ברור ועיין בסי' ק\"ה ס\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:9"
+        },
+        "10": {
+          "he": "יש מי שאומר כו'  הוא דעת הרמב\"ם כמ\"ש ב\"י בשמו ולידיה שכאן (במוחל') אין מחלק בין אחר מיתה לחייו ולעיל במכרה או משכנה בסעיף ח' מחלק הוא בין יורשין לבחייו צ\"ל טעמו דבמכירה או משכנה זוזי הוא דאנסוה כמו שהזכיר סברא זו בגמרא אבל הרא\"ש והטור ס\"ל דבתרוייהו יש חילוק כמוזכר לפני זה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:10"
+        },
+        "11": {
+          "he": "כיון ששישירה עיקר כו'  זה כתב ב\"י בשם הר\"ש בן צמח דהעיקר הפסד מזונות תלוי בתביעת מנה ומאתיים ותוספ' ולא בנדוניא וכתב שכן כתבו המפרשים בשם הרשב\"א וכן נראה פי\"א דאישות עכ\"ל ותימא לי שהרי אח\"ז הביא ב\"י בשם תשובת הרשב\"א דאף נדוניא הוה כמו עיקר כתובה ותוספ' רק שכתב שם דבסתם מחילה הוה הכל נדוניא כמו העיקר והתוס' ודבריו נכונים שם ומ\"ש שכן משמע בפ' י\"א דאישות לא ראיתי שום הוכחה שז\"ל אלמנה שתבעה או מכרה או מחלה או משכנה מקצת תוספות עם העיקר אין לה מזונות עכ\"ל ואח\"כ (כתב) וכל המוכר' או המוחל' סתם מכרה ומחלה התו' עם העיקר ששניהם כתובה שמה בכל מקום עכ\"ל מזה למד הרשב\"ץ דנדוניא אינו בכלל זה ואין זה הוכחה שהרי בתשו' הרשב\"א שמביא ב\"י אח\"ז מבואר שאף הנדוניא הוא בכלל התוספות ע\"ש ונראה שכן הוא עיקר שהרי כשמוסי' לה תוספות הוא חושב סך הנדוניא ומוסיף עליה שליש כמ\"ש סי' ס\"ו א\"כ פשיטא שבכלל הכתובה והתוספו' יש ג\"כ הנדוניא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:11"
+        },
+        "12": {
+          "he": "נוטלתן בכתובתה אבל אם מכרה הכל אינה יכולה לחזור ולטרוף עבור כתובה דאחריו' דנפשה קבלה עליה עכ\"פ ואם אינה חוששת לגביית כתובה יכולה למכור הכל בשביל מזונותיה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:12"
+        },
+        "13": {
+          "he": "אפי' יום אחד אע\"ג דבהרבה מקומות מצינו דיום א' בשנה חשיב שנה אחר ר\"ה נ\"ל דכאן שאני דבתר טעמא אזלי' דשיערו חכמים כמה זמן עבידה להמתין מלתבוע וזה תלוי באריכות הזמן לא במספר מה שיש לו שם שנה וע\"כ צריך שלא יהיה נחסר אפילו יום אחד דכל מדת חכמים כן הוא כמ\"ש גבי מקוה מ' סאה חסר קורטב פסול' ונ\"ל מדאמרו ג' שנים גם חודש העיבור בכללם דהיינו שלא ויתרה אלא ג\"ש שלימות דהא בכלל ג\"ש יש עכ\"פ עבור וסתם אמרו ג\"ש והיינו שלימות כמות שהן וכאן יש טעם לזה דאפשר דדעת האשה לשתוק מלתבוע עד כלות השנה כפי מה שהיא ועיין מ\"ש סי' י\"ג:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:13"
+        },
+        "14": {
+          "he": "על היתומים להביא ראיה דהנכסים בחזקתה קיימי כל שלא ניסת ויורשים באים להוציא וה\"ל כתביע' בע\"פ ע\"כ היא נשבעת היסת לפטור ואע\"ג שהוזכ' כאן ותטול לא נתכוין שצריכה ליטול מה שאין בידה אלא כלומר ממה שיש שם מנכסי בעלה שמוכר' אותם בב\"י כתב בשם הריטב\"א דהרמב\"ם כתב נשבע' בקנ\"ח כעין של תורה ונוטל' צ\"ל דנוסחא אחרינא היתה לו ברמב\"ם ואין להקשות ממ\"ש הרמב\"ם פי\"ג ממלוה וכן הטור ח\"מ סי' קל\"ג ביש לו משכון מחבירו שצריך לישבע בקנ\"ח כדין הנשבע ונוטל שאני התם שהמשכון גופה של הלוה רק שהמלוה יש עליו שיעבוד מחמ' הלואה שהלוה לו משא\"כ כאן שהנכסים גופייהו הם ממש שלה לקנות בעדם מזונות ע\"כ ה\"ל יתמי כמוציאה ממנה בתביעות בע\"פ כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:14"
+        },
+        "15": {
+          "he": "למזונותיה הרי ריבה דה\"ק אם לא יתנו לך מזונות מרווחים טלי קרקע זו להעדפה אבל אם אמר במזונות משמע בחוב של (מזונות) שיש לך עלי יהי פרעון לכך והקשה בדרישה מאי שנא ממ\"ש בח\"מ סי' רנ\"ג אמרו תני ארבעה זוז לפלוני בחובו אם החוב יתר על ד' זוז נוטל חובו ותירץ דשאני ב\"ח דאע\"ג ששתק אין דעתו למחול אפילו קצת מחובו משא\"כ כאן שאפשר שדעתה לתבוע כתובת' בזמן קרוב ומ\"ח שתקה דדי לה בכך:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:15"
+        },
+        "16": {
+          "he": "מת בעלי כו'  דיראה לשקר שמא יבא הבעל משא\"כ בגירושין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:16"
+        },
+        "17": {
+          "he": "עד כדי כתובתה מכח ממ\"נ אם לא גרשה חייב במזונותיה ואם גרשה תחשב לה כפרעון כתובתה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:17"
+        },
+        "18": {
+          "he": "שמא מחלה כתובתה כו'  זה דעת רמב\"ם פ' י\"ב דאישות דס\"ל דדוקא במי שהלך בעלה למדינ' הים פוסקין לה מזונות אפילו באין כתובתה יוצאת מתחת ידה הואיל ויש לה מזונו' מן התורה אבל אם מת בעלה אין לה מזונות עד שתביא הכתובה מפני שאוכלת בתקנ' חכמים ועוד שניזוני' מנכסי יורשים וטוענים ליורש משמע מל' עד שתביא הכתוב' דאין תקנה בשבועה שלא מחלה כו' כ\"ז שאין מביא הכתובה ותו דאם יש תקנה בשבועה בלא כתובה למה לנו הכתובה הא אף כשתביא הכתוב' צריכה לישבע כמ\"ש פרק י\"ח דאיש' וז\"ל הורו רבותי אין לה מזונות עד שתשבע שהרי זו בא להפרע מנכסי יתומים וכל הבא ליפרע מנכסי יתומים אין נפרע אלא בשבועה ולזה דעתו נוטה עכ\"ל. והיינו אם הכתובה בידה דוגמא דבא לפרע מיתומים דהיינו אם שטר ביד המלוה וא\"כ מאי עד שתביא הכתוב' דאמר כיון שצריכה עכ\"פ שבועה א\"כ כתובה ל\"ל כיון שצריכה שבועה ובשבועה א\"צ כתובה ואע\"ג דהשבוע' של כתובה בידה היא רק שלא תפסה משל בעלה והשבועה אם אינה בידה היא ג\"כ שלא מכרה או משכנה מ\"מ פסיקת המזונות תלוי בשבוע' לא היה להרמב\"ם לומר אין פוסקין עד שתביא הכתובה דמשמע אין פוסקין זולת זה והאיך נאמר שפוסקין גם זולת הבאת כתוב' ע\"י שום שבועה כיון דעכ\"פ גם אם הכתוב' בידה צריכה שבועה אעפ\"י שאינה ממש בכל שבועה זו אלא קצת ממנה וע\"כ לומר דבאמ' כ\"ז שאין לה כתובה בידה אין מועיל לה כלל שום שבועה וע\"ז קשה ממ\"ש הרמב\"ם בפי\"ח דאישות אלמנה שאין לה שטר כתובתה בידה אין לה מזוני שמא מחלה או משכנ' אותה אע\"פ שלא טען יורש אנן טענינן ליה ואומרים לה הביאי כתובתך או השבע וטלי מזונותיך אלא אם אין דרכם לכתוב כתובה עכ\"ל הרי דשבועה מהני אפי' אין לה הכתובה ויש מי שטעה לומר דמ\"ש הטור או השבעי קאי במקום שאין כותבין ולא ראה ברמב\"ם גופיה שכתב אח\"ז אלא אם אין דרכם כו' ובכ\"מ כתב שראה בספר מוגה הביאה כתובתך והשבעי וזה עיקר וא\"כ גם כאן מוכח דשבועה בלא הבאת כתובה לא מהני ובטור העתיק דברי רמב\"ם אלו בלשון זה טוענין לו שתביא הכתובה או שתשבע שלא מחלה או משכנה ואף כשיש בידה כתובה כתב שצריכה שבועה שלא תפסה משל בעלה כלום עכ\"ל וכאן א\"א להגיה ולמחוק תיבת או ולגרוס שתביא כתובתה תשבע כו' דהא אם תביא הכתובה אין כאן חשש שמא משכנה אלא ע\"כ דהטור לא ראה ספר מג' של הרמב\"ם שמביא בכ\"מ וא\"כ אין קיום לדברי רמב\"ם אלו מחמת קושיא שזכרנו דדבריו סותרים זא\"ז אלא ודאי העיקר כאשר היא בספר מוגה שזכרנו וא\"כ להרמב\"ם כל שאין הכתובה בידה אין פוסקין לה כלל מזונות אפי' בשבועה דהוא מדמה זה לבא להפרע מנכסי יתומים ושם אין נפרעין אפי' בשבועה אם אין שטר ביד המלוה כן הוא להרמב\"ם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:18"
+        },
+        "19": {
+          "he": "ויש חולקין הוא דעת רא\"ש בפרק שני דייני גזירות שהאריך לסתור דברי הרמב\"ם ודבריו הביא בכ\"מ פי\"ב דאישות ותיקן דברי הרמב\"ם ע\"ש אביא אחד מהם שהיא סתירה על הרא\"ש שאין עליה תשובה שהקשה הרא\"ש על הרמב\"ם שס\"ל באין כתובה בידה אין פוסקין לה מזונו' דהא קי\"ל דגובה כתובה בעידי מיתה אע\"ג דאין שטר כתובה בידה דהטוען אחר מעשה ב\"ד לא אמר כלום וכ\"ש דיש לו מזונו' דנכסים בחזקתה לענין מזונות כו' וכתב כ\"מ מ\"ש דגובה בעידי מיתה אינה טענה דאיכא למימר דה\"ה דגובה בעידי גט עכ\"ל דבריו תמוהים מאד דמה בכך דגובה בעידי גט דאה\"נ אם היה שייך שם מזונות היה עידי הגט מועילי' למזונו' מכח תנאי ב\"ד אלא דאין שם שייכות חיוב מזונות משא\"כ באלמנה דודאי מועילים ומועילים גם למזונו' בתנאי ב\"ד אלא דקשה על מ\"ש הרא\"ש דהא קי\"ל דגובה כתובה בעידי מיתה כו' דאדרבה קי\"ל בסי' ק' וכ\"כ הרא\"ש עצמו בפ' שני דייני דהיינו דוקא במקום שאין כותבין כתובה אבל במקום שכותבין ואין שטר כתובה בידה נשבע היסת ונפטר וכאן ודאי מיירי במקום שכותבין דהא אמר שמא מחלה או משכנ' כתובתה משמע שכותבין ולמה אמר הרא\"ש דקי\"ל דגובה כתובה בעידי מיתה אע\"ג דהתוס' כתבו בפ\"ק דב\"מ דף י\"ו כן מ\"מ הרא\"ש גופיה לא כ\"כ ותו דהטור כתב כאן דיש לה מזונות להרא\"ש ובסי' ק' כ' דאין לה כתובה וא\"כ כ\"ש מזונו' דאין לה כל שאין הכתובה בידה דמזונות הם תנאי כתובה ואמרינן ריש אע\"פ דתנאי כתובה ככתובה דמי ע\"כ נראה דקי\"ל כהך יש חולקין דהא כתב בסי' ה' דס\"ל לאחרונים כאותה דיעה דס\"ל שמקום שכותבין גובה בלא שטר כתובה וגם ברש\"י פ' הכותב (כתובות דף פ\"ט) מבואר שכ\"כ משום דתנאי כתובה מעש' ב\"ד הוא ומהא נפקא לן בב\"מ הטוען אחר מעשה ב\"ד לא אמר כלום וא\"כ ה\"ה למזונות ועיין סי' ק' סעיף י' מה שכתבתי שם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:19"
+        },
+        "20": {
+          "he": "אע\"פ שלא נשבעת (זו היא) דעת הרמב\"ם והיינו ביש שטר כתובה בידה דאל\"כ הא אין פוסקין לה כלל כמוזכר בסעיף שקודם לזה (והיש חולקין) הוא הרא\"ש שס\"ל אפי' בלא כתובה ובלא שבועה מכח תנאי ב\"ד (ט\"ס הוא וצריך להיות דעת הרמב\"ם אף שיש שטר כתובה בידה צריכה שבוע' ודעת הרא\"ש אף בלא כתובה כו' וכן הוא בטור) וכתב ב\"י שגם הרשב\"א בתשובה כ' על מה שהצריך הרמב\"ם שבועה לאלמנה למזונו' אין רבותינו מודים לו שאין האלמנה נשבעת למזונו' לפי שאינה נשבע' אלא לבסוף כשתבא לגבו' כתובתה וכדמשמע פ' שני דייני גזירות בפלוגתא דרב ושמואל כולי וזו אחת מהשגות שהשיג הראב\"ד על הרמב\"ם גם מורי הרמב\"ם ז\"ל הביא ראיה מדגרס בפ' השולח גבי ההיא איתתא דאתיא לקמיה דרבה בר רב הונא כולי עכ\"ל וראיה זו מהשולח איתא בר\"ן פרק שני דייני והיינו דאיתא שם ההיא דאתיא לקמיה דרב' בר רב הונא לגבות כתובתה אמר לה מאי איעבד לך דרב לא מגבי כתובת' לארמלתא משום דנמנעו להשביעה אמרה ליה ליתב לי מזוני א\"ל מזוני נמי לית לך דאמר שמואל התובעת כתובתה בב\"ד לית לה מזוני כולי ואם כדברי האומר דאלמנה תשבע תחילה וסוף האיך אמר לה מזוני לית לך מדשמואל הא לא משבעינן לה וכי היכ' דרב לא מגב' כתובתה משום שבועה ה\"נ מזונו' וכתב הר\"ן לדחות ראיה זו דאה\"נ דלית לה מזוני מדרב מכח השובעה אלא דאי הוה אמר הכי דבמקום שאין חשש שבועה יש לה מזונו' כגון בקופצת ונשבע' וליתא דאפי' בקופצת אין לה מזונו' משום שאין תבעה כתובתה ע\"כ דבריו ולע\"ד אין בדחיי' זו ממש דאי היה רבה בר רב הונא חס שלא יטעו לומר בקופצת ונשבע יש לה מזונות אפי' בתובע' ה\"נ עכשיו שאמר הטעם משום תובעת יש טעות שבמקום שאין תובעת יש לה מזוני ובאמ' אין לה משום דקבעינ' שבועה ורב לא משבעי' לאמנה ואי היה רבה חס שמא היא תקפוץ לשבועה ותסבור שיש לה מזונו' הא ודאי לאו מלתא דאם תרצה לקפוץ לשבע עדיין תקפוץ ותשבע ותטול הכתובה כי אותה השבוע' ששייך למזוני היינו שלא תפסה משל בעלה כלום ולא מכרה או משכנ' כתובה וזו היא גם ששייך על גביית כתובה כי אותה מבקש' מתחילה אלא ודאי דאין סברא לומר כך שהי' נזהר מאיזה טעות אלא אי קשי' על הרמב\"ן בראיה זו הא קשיא לי דהרמב\"ן מוכח דלא כדברי האומר למזוני בעי' שבועה מכח רבה בר רב הונאה נ\"ל אף אם נאמר אלא מאי דלא בעינן שבועה אכתי קשה מיד הוא טעמא דלא בעי שבועה דכיון שתשבע אח\"כ לבסוף על הכתובה אין צריך לשבע תחילה על המזונות א\"כ כאן דרב לא השביע לאלמנה שבועה ליטול כתוב' ולא תבא זו לידי שבועה אח\"כ ממילא היא צריכה עכשיו לישבע תחיל' על המזונו' מילא אין לה מזונו' כלל כי אין משביעין אותה כלל וא\"כ אין התחל' למה שאמרה הב לי מזוני אחר שגילה דרב לא מגבי כתוב' לאלמנה ואם האשה לא ידעה הדין דפטור שבוע' של מזוני תלוי בשבוע' דלבסוף היה לו לרב להודיע אותה דבר זה ואפי' בלא היא דשמואל מכח תבעה כתובה בב\"ד אלא אין כאן מזונו' מצד השבועה שעליה כמו שאמר לה תחילה בשבועת כתובה כמו שהקשה הרמב\"ן על האומר למזוני בעי שבועה ה\"נ קשה עליו עצמו וזהו בודאי תשובה נוצחת לפי ע\"ד על הרמב\"ם והנה כתב הב\"י שרוב הפוסקים (חולקים) על הרמב\"ם בזה שהצריך שבועה למזוני וע\"כ כתב רמ\"א שסברא ראשונה עיקר והיינו כדעת הרא\"ש דלא כיש חולקין שהוא הרמב\"ם ולע\"ד דמכריע דמ\"ש הרמב\"ם טעם לשבועה למזוני דהוי ליה כבא למפרע מנכסי יתומים דצריך שבועה והיינו אפי' אם שטר כתובה ביד' בזה לא קי\"ל כוותה אלא כשאר פוסקים והטעם דאע\"ג דבכתוב' צריכה שבועה מטעם זה מ\"מ במזוני אין שייך זה דהנכסים עצמן הן בחזקת האש' למזוני כמוזכר לעיל משא\"כ בכתובה שהנכסים הם בחזק' יתמי ע\"כ עדיפא מזוני מכתובה שלא מקרי באה להפרע מנכסי יתומים אלא כאלו היא כבר נפרעת ויתומים קרוים מוציאים כמוזכר לעיל ומ\"ה א\"ש ההיא דפרק השולחדלמזוני לא בעי שבועה שמא מחל' כתובתה או נטלה או תפס' צררי אבל באין שטר כתוב' בידה יש חשש שמא מכרה או משכנה או קבל' אותה ויש קצת ראיה לזה כיון שכתבו לה כתובה ועכשיו אינה בידה יש רעותא דבודאי נעשה עמה איזה דבר ואע\"ג דלענין חיוב ליתן לה מזונו' ישנו חיוב מצד מעשה ב\"ד כמוזכר לעיל מ\"מ בענין שבועה שלא מכרה או משכנה אותה וכו' כנלע\"ד ברור ונכון להלכה ולמעשה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:20"
+        },
+        "21": {
+          "he": "במתנת שכ\"מ אלמנותו ניזונת ממנו נראה דאם המקבל הוא בנו הוא נזון עם האלמנה כמ\"ש לעיל סעיף ד' לי\"א דתיזון היא עם הבן כו':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:21"
+        },
+        "22": {
+          "he": "ואם מכרו כו'.  בטור מדמה זה למכר הבנים בנכסים מועטים דסי' קי\"ב וא\"כ כיון דמפורש לרש\"י ורא\"ש דאין המכר קיים אלא קודם שהחזיקו הב\"ד הנכסי' ביד הבנות ה\"נ כן הוא שאין המכר קיים אלא קודם שהחזיקו ב\"ד האשה הקרקע במזונותי' אבל מכרו אח\"כ אינו מכר כנ\"ל לכאורה וכ\"כ בפרישה אבל לפי האמ' ל\"נ כן דשאני התם בנכסים מועטים שכ\"ז שהבת ניזונו' אין לבנים חלק בהם לפיכך מהני מה שב\"ד החזיקו ביד הבת משא\"כ כאן במזון האשה שהבן או הבת יזנו ג\"כ מהם לדע' הרא\"ש דלעיל סעיף ד' בשם י\"א וכאן קיימינן לדעת הרא\"ש א\"כ א\"א לב\"ד להחזיק הנכסים ביד האשה לבד אלא שהיא יכולה לעכב לכתחילה למכור הקרקע אין חילוק כאן בין החזיקה ב\"ד או לא כנלע\"ד ברור ומ\"ה לא זכר כאן הטור חילוק זה דהוה כההיא דסי' קי\"ב ובשאר דברים זכר דהוה כי התם אלא כדפרישית:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:22"
+        },
+        "23": {
+          "he": "ניזונות מדמי הקרקע כו'  כיון דהאידנא תקנו שניזונו ממטלטלי ויש מי שחולק הוא הרא\"ש דס\"ל שהרי אין שעבוד האשה אלא על נכסי אביהן וכיון שמכרוה ואינה יכולה לטרוף מהלקוחות גם במעות אין לה כלום:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:23"
+        },
+        "24": {
+          "he": "הניח נשים רבות הטור כתב כ' הרמב\"ם לפיכך הניח נשים כו'  וברמב\"ם ליתנוהו לתיבת לפיכך כמ\"ש ב\"י ונ\"ל שצ\"ל בטור לפיכך כ' הרמב\"ם הניח כו' ופירושו כיון שיש תקנת גאונים ליזון אפי' מטלטלין ע\"כ שפיר כתב הרמב\"ם שאין בדין קדימה במטלטלין אבל הראב\"ד כתב דזה הדין אפי' בקרקע והכי איתא בירושלמי פי' שהירושלמי כ' דין זה של הרמב\"ם ובזמן הירושלמי לא היתה עדיין התקנה ש\"מ שאף בקרקע הוא הדין כן וכ\"כ בדרישה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:24"
+        },
+        "25": {
+          "he": "שאין דין קדימה במזונות ובטור כ' שאין דין קדימה במטלטלין מ\"מ כאן כ' שפירש במזונת דהראב\"ד ס\"ל דאף בקרקע הוה כן וז\"ל הראב\"ד ניזונת מקרקע לפי שאין חיוב המזונו' אלא לאחר מית' וכבר הגיע שעת החיוב לכולן בבת אחת וה\" לכלוה וחזר ולוה וחזר וקנה נכסים שכולן שוים בו עכ\"ל וכ' ע\"ז הרב המגיד שגם דעת הרמב\"ם כן וצ\"ל ברמב\"ם כמו שאין דין קדימה במטלטילין פי' כשם שאין קדימה במטלטלין לפי שיש ללוה למכרה ולהפקיע משעבוד מלוה ח\"נ במזונות כיון שיש רשות ביד הבעל למכו' נכסיו ולהפקי' משעבוד מזונות וטעם הראב\"ד שכתב דה\"ל כלוה ולוה וכו' אינו נכון דקשה שאם שמפני שאין חיוב המזונו' חל אלא לאחר מיתה אפי' בכתובה נימא כן שאין קדימה מטע' זה אלא ודאי שאינו דומה ללוה וחזר ולוה דשם הדבר המשועבד עתה לא היה שלו בשע' הלואה ולא דיה יכול לשעבד עד שיקנהו ע\"כ חל השיעבוד בשוה ע\"כ דבריו ותמהתי דודאי גם הראב\"ד נתכוין לזה במ\"ש דהוה כלוה כו' דהיינו דוקא לענין כתובה נשתעברו הנכסים מחיים משעה שנושא את האשה ואינו יכול למכור בלא דעתה (אבל לא למזונות) שהרי אינה טורפת מלקוחות למזונו' ע\"כ אין השעבוד מתחיל אלא לאחר מיתה וע\"כ כל הנשים שוות בו כמו לוה וחזר ולוה זה פשוט לע\"ד ובחנם כ' הרב המגיד שאין טעם הראב\"ד נכון אלא נכון הוא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:25"
+        },
+        "26": {
+          "he": "אלא כותבין עליה ב\"ד כו'.  בטור מביא ירוש' מהו למימר לה הוי מה שבידך תלמיד רבי יונה אמר אמרי' לה הוי מה שבידך א\"ל ר\"י בר בון כיון שיש לה לישבע בסוף אפי' הוי מה שבידך לא אמרינן ומסעיף זה שהוא ל' הרמב\"ם הבין הטור שהוא פוסק כר\"י בר בון שא\"א לה הוי כו' מדאמר כותבין עליה ב\"ד פי' ע\"פ דבורה בלא שבועה כותבין מה שהיא אומר' מ\"ה כתב הטור תחילה דעת ריב\"א דפסק כר\"י בר בון אלא שכתב דהיינו דוקא אם ידוע שתפסה פחות מכדי כתובה כולי והוכחתו לזה דאל\"כ כל אשה תתפוס כל הממון ולא יתפסו לעולם כתובה וזה שייך דוקא לר\"י בר בון דלא אמרו הוי כו' דאלו לתלמיד ר\"י אין חשש זה דהא צריכה להראות ורבינו שמשון חילק דאפילו יותר מכדי כתובתה כו' ס\"ל ג\"כ דלא אמרי' הוי כו' וכתב ע\"ז שכן יראה מרמב\"ם דאפי' ביותר כו' ולא אמרי' הוי כו' ע\"כ סיים הטור ע\"ז וכתב וא\"א כתב מתוספות דברי הרמב\"ם ירא' שפוסק כתלמיד ר' יונה שאומרים לה הוי כו' פי' שהרא\"ש מפרש מ\"ש הרמב\"ם כותבין עליה ב\"ד כו' פירושו אחר שיתברר לב\"ד מה שתפסה דהיינו שהוצרכה להראות עתה מה שתפסה ומשמע ליה כן מדכתב כותבין עליה ולא זכר כלום מהודאתה שמע מינה שהב\"ד כופין אותה שתגיד ותראה לפניהם כנ\"ל בפי' דברי הטור דלא כפי מה שפי' ב\"י דבריו ובדרישה האריך ודי במה שזכרנו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:26"
+        },
+        "27": {
+          "he": "משביעין אות' לדברי הכל  פי' שלא נשאר בידה ממה שתפסה ולא נתנה ולא בזבזה ממנו כלום:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:27"
+        },
+        "28": {
+          "he": "שוה בשוה  בטור כ' ואם טעתה אפילו כל שהוא שמכרה שוה מנה ודינר (במנה) מכרה בטל עכ\"ל וזה איתא במשנה פ' אלמנה ניזונית במשנה היתה כתובתה מנה ומכרה (שוה מנה ודינר במנה מכרה) בטל ופירש\"י שאותו דינר אין לה רשות למכור נמצא שכל המכר טעות שהרי בבת אחת היתה וכתב ב\"י שטעם זדה אינו שייך במזונות וגם ברמב\"ם פי\"ח דאישות לא כ\"כ עכ\"ל ודחק עצמו אח\"כ לפרש דברי הטור על לקחה לעצמה והניחו בצ\"ע ולפעד\"נ דלק\"מ דמה שכתב דכאן לא שייך טעם דרש\"י דהיינו מצד שכאן יש לה רשות למכור כפי מה שהיא רוצה לא ידענו מי הכניסו לכך דודאי במזונות יש שיעור למכירה כמה יש בידה למכור כמבואר אחר כך דהשיעור מה שתצריך לו' חדשים ובזה כתב שפיר כאן דטעתה מה ששוה יותר על ו' חדשים אפי' כל שהוא מכרה בטלה והוה ממש כמו בכתובה שהיא של מנה שזכר רש\"י ובדרישה כתב בשם ד\"מ דלא כב\"י וכעת אין ספר ד\"מ בידי ולדעתי נתכוין למה שזכרתי ועיין בסי' ק\"ג מה שנכתב שם בסייעת' דשמיא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:28"
+        },
+        "29": {
+          "he": "מכרה קיים דלא הצריכו ב\"ד אלא לכתחילה ויש חולקין ס\"ל אפי' דיעבד בטל ואפי' היא עצמה יכולה לבטל ונראה דאין להוציא מנכסי יתמי בספיקא והמכר בטל כדעת יש חולקין:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:29"
+        },
+        "30": {
+          "he": "אינו כלום.  הטעם דאמרינן מאן שם לך כלומר מי החזיקך באלו הנכסים שאין אדם יכול לזכות במקח אלא מיד המקנה לו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:30"
+        },
+        "31": {
+          "he": "האחריות על היתומים.  שאם יטרפנה איזה ב\"ח חייבים היורשים לשלם לו ואפ\"ה אין האשה יכולה להטרף השדה שמכרה למזוני בשביל כתובתה דמ\"מ אחריו' דנפשה קבלה עליה שלא תבא היא לטרוף ממה שמכרה היא ונראה דאפי' מכרו ב\"ד בשבילה הוה כאלו מכר' היא לזה דאל\"כ תקשה לך להיש חולקין דסעיף כ\"ה דיאן מכירה כלל בלא ב\"ד האיך תמצא כאן שהיא מכרה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 93:31"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "שקבל בנדוני'.  עבה\"ט ועיין בס' בית מאיר שכ' ויראה לע\"ד נהי לא קיי\"ל כהעיטור שבב\"י ואפי' אם נשתטה הבעל איתא בתשו' רמב\"ן סי' נ\"ט דאין לה תקנה ואינה יכולה לקחת נדוניית' ויתפרנס הוא מצדקה אלא ב\"ד יורדין לנכסיו ומפרנסין לו ולאשתו ובניו ע\"ש מ\"מ אם מבזבז נכסיו בשחוק וזנות וכדומה דפסקינן בח\"מ סימן ע\"ג גבי לוי ומלוה דיכול לתבוע תוך הזמן אף דאפשר אשה גרועה דאולי לא תבא כלל לידי גוביינא מ\"מ בכי הא ודאי יש לסמוך על העיטור ופשטות משמעות הרמב\"ם ואפילו אינה כלל מורדת ויושבת תחתיו יכולה לתבוע להוציא הממון ולעשות מהו נ\"מ ע\"י ענין בטוח והוא יאכל הפירות דהא להרבה ענינים נדוני' לחוב לזמן דמי עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 93:1"
+        },
+        "2": {
+          "he": "עד שתתגרש.  עיין בס' ישועות יעקב שנסתפק בזה באומרת גרשתני שלא בפני בעלה ואח\"כ בא בעלה ומכחיש' דאז אסור' להנשא ואח\"כ באו עדים או שבעלה בעצמו הודה שגירש' אי נימא דחייב במזונותי' משום שעל ידו הית' מעוכבת להנשא והראה פנים לכל צד ומסיים והעיקר נראה לי דחייב במזונות ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 93:2"
+        },
+        "3": {
+          "he": "גירושין גמורים.  עבה\"ט שכ' ואם גירש ולא סילק הכתוב' כו' ועי' בס' ישועו' יעקב שכ' ולדינא נראה שאין להוציא מן הבעל ע\"ש ופשוט הוא:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 93:3"
+        },
+        "4": {
+          "he": "ואפי' אם צוה. עיין בתשו' הרדב\"ז ח\"ג סי' תנ\"ה בראובן שצוה מחמת מיתה שיתנו לאשתו מאתים זהב בכתובתה והיא אין לה כתובתה כתוב אלא מנה והיא לא רצתה לגבות כתובה אלא להיות ניזונית כדין האלמנה והאפטרופס של היתומים אומר כי לא הוסיף לה מנה אלא כדי לסלק' מעל יתומיו כיון שהיא אינה רוצה להסתלק אין לה אלא מנה כאשר כתוב בכתובתה והשיב אין כאן ספק כלל אלא הדין עם האלמנה ותהי' ניזונת עד שתרצה ותתבע כתובתה ותגבה מאתים זהב הרי כתב לה בכתובה משמע כדין כתובה ממש וכמו שהמנה הראשונ' הרשות בידה ליזון או ליטלם כן הדין במנה האחרים שהוסיף בכתובת' ועוד שכל אדם יודע שאשתו ניזונת מנכסיו ואם כך הית' כוונתו הי' לו לומר תנו לה מאה זהב למזונותי' ועוד שודאי בא במתנתו ליפות כחה ולא לגרע כחה ואם אתה אומר תטול מאתים ותסלק נמצאת מפסדת שהרי בשנה אחת יעלה מזונותיה למאה ואם היתה כוונתו לתת בידה הבחירה שתטול מאתים ותסתלק או שתזון ותטול מאה כמו שכ' בכתובת' הי' לו לפרש הלכך ודאי ידה על העליונה ותתפרנס אם תרצה וכשתתבע כתובתה תגבה מאתים עכ\"ד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 93:4"
+        },
+        "5": {
+          "he": "ויכולין ב\"ד לתקן.  כתב בס' ישועות יעקב דכעת נהגו בתי דינים שבישראל לסלק להאלמנה כתובת' כל זמן שירצו היורשים וכל הנשאת על דעת המנהג היא נשאת וטעמא דמלתא כיון שהמזונות ביוקר מאד מן מה שהי' מלפנים וסך הכתוב' כמו שהי' מקדם וא\"כ כל אחת לא תרצה לקבל כתובתה רק הנדוני' ותהי' כ\"א נוטלת נדוני' של בן ותרצ' להיות ניזונית לכך עשו בזה תקנה עכ\"ל. וכ\"כ בתשו' שבו\"י ת\"ח סי' קכ\"ד והובא ג\"כ ב\"מ דכך נתפשט המנהג במדינות אלו וכן עשו הלכה למעש' בק\"ק פראג. וע\"ש עוד שכ' דכן המנהג ג\"כ להוציאה מהמדור ובס' בית מאיר פקפק ע\"ז דהוא נגד ההלכ' ומה\"ת לתקן זאת וכן הורו ישישי דייני ק\"ק פ\"פ דמיין ואין לזוז מדבריהם ואין לגרש נשי עמינו מבית תענוגיהם כל ימי מיגר אלמנות' בעל כרחה כל כמה שהיא לא תבעה כתובה בב\"ד עכ\"ד ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 93:5"
+        },
+        "6": {
+          "he": "לתקן במקומן.  עבה\"ט' מ\"ש חוץ מג\"ח הראשונים כו' ועיי' בתשו' אא\"ז פנים מאירות ח\"ב סי' ק' שכ' דהדבר ברור דדוקא אם לא תבעה האלמנה כתובה בב\"ד אבל אם תבעה כתוב' בב\"ד מזה לא דיבר הריב\"ש וכ\"ע מודו דאין לה מזונות דדוקא אם ב\"ד רצה לתקן כו' אבל היכא שתבעה כתובתה דמעיקרא לא תיקנו לה רבנן מזונות ודאי דאין לה מזונות אפי' בג\"ח הראשונים. וסיים שדבר זה הוא פשוט ולא כתבתי אלא להוצי' מדיין א' שרצה לפסוק אף בדתבעה כתובו' ליתן לה מזונות משך ג' חדשי' ראשונים ודבר ברור שאין הדין כן עכ\"ד ע\"ש: (וכ\"כ בגליון ש\"ע דהגאון רע\"ק זצ\"ל):   (ו) על הפתחים.  עבה\"ט מ\"ש ואין הבת נוטלת עישור נכסים כו' ובגליון ש\"ע דהגר\"ע זצ\"ל נ\"ב וכן הוא להדיא בש\"ע לקמן סי' ק\"ג ס\"ו ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 93:6"
+        },
+        "7": {
+          "he": "לא פרעוה.  עבה\"ט בשם ב\"ש היינו אם פרעוה אח\"כ כו' ועיין בס' קרבן נתנאל פ\"ד דכתובות אות ל\"א שכ' עליו דבריו נראים להלכה דהא בהך איתתא דאתיא קמי' דרבה בר\"ה בפ' השולח לא פרעו לה כתובת' ומ\"מ אין לה מזונות משעת תביע' וכמו שפירש\"י דגליא דעתה דבעי לאינסובא ואיהו לא אתני בהד' אלא כל ימי מיגר ארמלותיך בביתי שהיא אלמנה בשביל כבודו א\"כ מעתה בנד\"ז אף אם אין להם או אינם רוצים לשלם מ\"מ היא סברא בדעת' שיגיע לה פרעון כתובתה ע\"י תביע' בב\"ד וגלת' דעתה דבעיא לאינסובי ולא חשה לכבודו אבדה מזונותי' וזה ברור לדעתי עכ\"ל. גם בס' ישועות יעקב סק\"ג חולק על הב\"ש בזה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 93:7"
+        },
+        "8": {
+          "he": "תבעה מדוחק.  עבה\"ט בשם רש\"ך דוקא דתבעה כו' וכ\"כ המל\"מ בשמו בפי\"ח מהלכות אישות דין כ\"ח יש מי שאומר כו' ע' בק\"א לספר כתיב'. ובס' בית מאיר שתמהו על דין זה הא קיי\"ל מלתא דליתא בבריא בקנין ליתא בשכ\"מ א\"כ במה קנתה האשה לזון מנכסיו הא הוה דבר שאין בו ממש ודשלב\"ל בשלמא מה שאכלה בתנאי ב\"ד שאני אבל במתנת שכ\"מ איך אפשר כו' ומבואר בדבריהם דעכ\"פ דוקא בנכתב אני מניח מנכסי שתזון כו' שנוכל לומר שהוא כמו דקל לפירותיו שנכסיו הם בעולם כו' עש\"ה ועיין בתשו' ח\"ס סי' ק\"מ שהביא דבריהם להלכ' וכ' עוד דמ\"ש הט\"ז וב\"ש דאם נתארס' או נשתדכ' אין לה מזונות דוקא אם כתב כל ימי מיגר ארמלותך אבל בכתב סתם אלמנותי או אשתי אפי' נשתדכ' או נתארס' יש לה מזונות ואע\"ג דתו לא מיקריא אלמנותו ואשתו מ\"מ אמרי' אשתו שהית' כבר כדאמרי' בגיטין מ\"ב ע\"א עבדי שהי' כבר כו' וע\"ש עוד אודות שטר צווא' שריבה לאחד מבניו יתר על אחיו וכתב בה בזה\"ל ונגד זה מה שנתתי לגבי ראובן הנ\"ל מחוייב לשלם כל החובות כו' וכן מחויב להספיק כל צרכי אשתי רחל כל ימי חייה אתו עמו בביתו ואמנם אם לא יוכלו לשבת יחדיו מחוייב ליתן לה בכל שבוע ב' זהובי' ועכ\"ז תשאר בביתו כמקדם ושוב בפונקט אחר כתב בה חיוב שעבוד ופרעון הכתוב' מוטל על בני ראובן ועל בני שמעון מחצה על מחצה כו' והנה האלמנה תבעה כבר כתובתה בב\"ד ושני הבנים מוכנים לפרוע לה אך היא אומרת כי אף אחר שתקבל כתובה מחוייבים היורשים במזונותיה או בדמי המזונות שכן נשמע מהצווא' דחיוב המזונות הוא חיוב אחר והשיב דודאי לשון הצוואה משמע כדברי האש' ומבואר בו ב' דברים למעליותא דידה חדא שתזון מלבד חיוב מזונות דתנאי ב\"ד אפי' אחר שתבעה כתובת' שהרי כ' שאם לא יוכלו לשבת יחדיו יתן לה ב' זהובים לשבוע ואי בתנאי ב\"ד אכלה אטו בדידיה תליא להטיל פשר כו' והב' מדכתב כל ימי חיי' משמע אפי' כשתנשא לאחר ואע\"ג שכ' אשתי מ\"מ מדלא כ' בביתי וגם לא כ' כל ימי מיגר י\"ל אשתי שהית' כבר וכמ\"ש לעיל. אך נהי דכן ל' השטר מ\"מ כיון שלא הניח מנכסיו כך וכך שתזון ממנו לא קנתה המזונות ואין ממש בצואה זו. אמנם עכ\"פ הבן שקיבל יותר מחלקו המגיעו על תנאי שיזון אלמנתו אם לא יקיים התנאי הזה גם הוא לא יקבל יותר משאר אחיו כשיעור הזה וינכה לו מחלק הטופיינא שלו לפי שרצה האב ליתן להאלמנה וזה יתחלק בין היורשי' שוה בשוה ע\"כ טוב לפשר באופן שתתרצה האלמנה למחול לו תביעתה ואז יעמוד גם הוא בשלו עכ\"ד ע\"ש):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 93:8"
+        },
+        "9": {
+          "he": "ויש מי שאומר.  ע' בספר ישועות יעקב שכ' דהעיקר כדיעה ראשונה דאינה מפסדת מזונות רק לאחר מיתת בעל' ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 93:9"
+        },
+        "10": {
+          "he": "אבל אם שיירה מקצת כו' (בגליון ש\"ע ר\"ע איגר זצ\"ל נ\"כ אם כתובתה היה ר' ר\"ט ונדונייתה נ\"ב סך ר' ר\"ט והיא מחלה ר' ר\"ט יכולה לומר מחלתי הנדוניא וניזונת בשביל הכתובה כנלע\"ד ע' בתשו' הרשב\"א הובא בב\"י עכ\"ל):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 93:10"
+        },
+        "11": {
+          "he": "ומיהו אם ירצו כו' בגליון ש\"ע דהגר\"ע איגר זצ\"ל נ\"ב ואם מקצת מהיורשים רוצים שיסולק לה כתובתה וקצתם אין רוצים ע' בספר כתובות לקמן סי' קי\"ג ס\"ב סק\"ז:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 93:11"
+        },
+        "12": {
+          "he": "הקדיש נכסיו.  עב\"ש שכ' ואם הקדיש בחליו ע' בח\"ה סי' ר\"ן דאין הקדש עד אחר מיתתו לפ\"ז נראה דניזונת מהם כו' ובגליון ש\"ע דהגר\"ע איגר זצ\"ל נ\"ב הא אינו מבואר דהוא איבעיא דלא איפשטא ומספיקא אמרינן דאם עמד חוזר וא\"כ הכא במת דהקדש זכה בודאי והוי ספק אם מחיים או לאח\"מ אם בן מספק א\"י לטרוף מההקדש ובזה מיושב קושיית הח\"מ ס\"ק ל\"א דשפיר סתם הרמ\"א דכל הקדש הוי כמתנת בריא והיינו מספק דשמא לגבי הקדש גמר ומקדיש מחיים עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 93:12"
+        },
+        "13": {
+          "he": "ומיהו אם תפסה.  עח\"מ ס\"ק ל\"ב עד מ\"מ תפיסה מהני. ובגליון ש\"ע דהגר\"ע זצ\"ל נ\"ב היינו מר\"ה או מסימטא אבל מרשות יורשים הוי ספיקא דרבוותא כדבסמוך סכ\"ג ואם היה פקדון ביד אחר י\"ל דלכ\"ע מהני תפיסתה עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 93:13"
+        },
+        "14": {
+          "he": "המטלטלין לאחרים.  עבה\"ט וגליון ש\"ע דהגר\"ע איגר זצ\"ל נ\"ב עיין בחו\"מ סימן קי\"ג ס\"א):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 93:14"
+        },
+        "15": {
+          "he": "ולכ\"ע בעינן תפיסה גמורה כו'.  זהו מתשובת הרא\"ש סי' שס\"ד הובא בב\"י שכתבו ז\"ל דבר ברור הוא כי הנכסים שהם בבית הבעל אע\"פ שכשמת נשארו הנכסים בידם ואוהלים כאשר המה אין זה כלום שכל תופס צריך תפיס' גמורה שיקנה הדבר באחד מדרכי הקנאות כמ\"ש בפ' הכותב (כתובות ד' פ\"ד) אבל בכאן הבית והתיבות והמטלטלין הכל ברשות היורש ואינה נקראת תופסת בשביל תפיסת המפתחות כו' עכ\"ל. ועיין בתשובת רבינו עקיבא חיגר ז\"ל סי' קל\"ג דהגאון בעל בית מאיר תמה ע\"ד הריב\"ש והרמ\"א הנ\"ל דמאיזה טעם לא יהיה זה תפיסה כיון דמונחים בחצירו דהא יש לה זכות דירה מתני ב\"ד והוא כשוכר ובודאי לא היה הריב\"ש סותם דבריו רק לפסקא דהרמב\"ם (שהובא בח\"מ סי' ש\"ג ועמ\"ש בפ\"ת שם) דהוי חצירו דהמשכיר ולכן כ' דצריך לדחוק דהריב\"ש מיירי בחפצים המונחים בבית באותן חדרים שלא היו משועבדים לדירת האשה כדאיתא בסי' צ\"ד. והוא ז\"ל השיב לו בזה\"ל גם אנכי הייתי מתמיה על סתימת הריב\"ש והרמ\"א דלא מקרי תפיסה אולם נ\"ל אף אם בעלמא הוי חצירו דהשוכר מ\"מ י\"ל דדירת אלמנה גרע לא מבעיא לשיטת ר\"ת בתוספת ב\"ב דף נ\"א ע\"ב ד\"ה במתנה דדוקא שוכר דיכול להוריש זכותו ליורשיו הוי חצירו אבל היכא דאינו מוריש לא אלא אף לאינך פוסקים דדוקא בנ\"מ שלה כו' אבל הכא בדירת אלמנה דאין לה שום זכות ליתן זכותה לאחר לא להשכיר ולא להוריש רק שיש לה זכות בעצמה מתנאי ב\"ד י\"ל דלא מקרי חצירה וגם כיון דלא הקנו לה ענין זכות בדירה זו רק שמועל בתנאי כ\"ד להניחה לדור בתוכה אבל לא לענין דבר אחר שיהיה לה פירות החצר לזכות בנפילת מציאה לתוכה עש\"ך חוה\"מ סימן קל\"ח סק\"ב עכ\"ל ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 93:15"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "הבעל.  כתב בד\"מ אפילו אם אסורה להנשא גובה הכתובה וכ\"כ הרשב\"א סי' תש\"ה. ועיין במרדכי אפילו טבע במים שאל\"ס גובה הכתובה ועיין ס\"ס י\"ג. והראב\"ד ס\"ל בטבע במים שאל\"ס אינה גובה הכתובה דהא א\"י לנו אם תהי' מותרת אבל היכ' דידוע שתהי' מותרת לאחר זמן גובה הכתובה לאלתר. ועיין ח\"מ ב\"ש. וכנה\"ג דף ל\"א ע\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:1"
+        },
+        "2": {
+          "he": "בנדוני'.  ומ\"מ אם הנדוני' עדיין בידה או ביד אביה יכול' להחזיק למזונות ע' בח\"מ סי' צ\"ז סעיף כ\"ו כ' מהר\"י הלוי סי' י\"ז אם אנו רואים כוונת הבעל לאכול לה כל הממון ואח\"כ לקום וללכת חוץ מהעיר כדי שתצטרך על כרחה להתרצות ממנו בגט בלבד. נתנה כתובה לגבות מחיים ע\"ש. התנה הבעל שתגבה כתובתה מחיים עיין כנה\"ג דף קי\"ב ע\"א ס\"ד. אשת משומד מנהג הוא להגבות כתובתה מיד אפילו בלא שבועה אגרת הרמב\"ם סי' כ' וש\"ג פרק המקבל. אשה שרוצה לתת לבתה סך כך. והבעל אינה רוצה והיא טוענת שיתן לה הסך והיא תכתוב בשטר כתובתה שקבלה סך ההוא מבעלה ובעלה אינו רוצה הדין עמו שלא נתנה כתובתה לגבות מחיים הרש\"ך ח\"ב סי' קס\"ו. עיין בספר מקור ברוך סי' נ\"ט ועיין כנה\"ג. ל\"מ שלא ניתנה כתובתה לגבות מחיים אלא אפילו שואלת לבעלה שיעשה לה בטחון אינה יכולה להכריחו שיעשה לה בטחון הריב\"ש סי' צ\"א. אשה שנתעלם בעלה זה יו\"ד שנים וקרוב לודאי שמת ואבדה כתובתה נרא' שיש ליתן הממון ביד בתו מטעם אפטרופס ומפרנס את אמה הר\"ם מינץ סי' מ\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:2"
+        },
+        "3": {
+          "he": "משיאה.  כלומר שהוא נותן לה הנדוניא או שהיא קטנה שהיא ברשותו אז יוכל להתנו' עם הבעל לגרוע כתובת' וע' בריב\"ש סי' ק\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:3"
+        },
+        "4": {
+          "he": "גמורין.  ואם גירש גירושין גמורין ולא סילק הכתובה עד פרוטה אחרונה איתא פלוגת' בפוסקים אם יש לה מזונות עיין בהרי\"ף פ\"ק דב\"מ. ובטור ובב\"י. ועיין כנה\"ג דף קי\"ב ע\"ב סעיף י\"ב. ועיין סימן קי\"ט סעיף ו' בהג\"ה שהבי' תשובת הרא\"ש שאפילו אין לו לשלם הכתובה יוכל לגרשה. ועיין מש\"ש. ולכ\"ע אם מת קודם שסילק הכתובה אין לה מזונות מן היורשים. וכן חלוצה אין לה מזונות ב\"ש ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:4"
+        },
+        "5": {
+          "he": "יורשים.  היינו אם נשארו נכסים מנכסי אביהם אבל אין חייבים לזונה מנכסיהם הר\"י אדרבי סימן ח'. ש\"מ שחילק נכסיו לבניו וצוה פלוני יקח סך כך ויסתלק מן הירושה והשאר יהיה לבני האחר. בין שמה שהניח להאחר הוא יותר ממה שמגיע לו מחלק ירושתו בין שהוא פחות אעפ\"י שהוא בלשון מתנה. האלמנה ניזונית מנכסי שניהם הר\"ם מטראני ח\"ב סימן קע\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:5"
+        },
+        "6": {
+          "he": "כתובתה.  ובגרושה הוא להיפוך כל זמן שלא תתבע אין לה מזונות לכ\"ע ואם תתבע יש לה מזונות לשיטת הרא\"ש אם לא סילק לה אחר התביעה פרישה ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:6"
+        },
+        "7": {
+          "he": "תזון.  היינו בשעת הנישואין התנו כן. ואם היא מוחלת אחר הנשואין מהני ג\"כ אפילו בלא קנין כמ\"ש בסי' ק\"ה במוחלת כתובתה ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:7"
+        },
+        "8": {
+          "he": "במקומן וכו'.  חוץ מג\"ח הראשונים א\"י לסלק הכתובה הואיל והיא אסורה להנשא מחמתו יש לה מזונות בע\"כ. וה\"ה כל היכא דאסורה מחמתו א\"י לתקן ולסלקה ולהפסיד לה מזונות ב\"ש. אלמנה האומרת לב\"ח איני רוצה ליטול כתובתי אלא אני רוצה ליזון אין בטענתה כלום. ואם תפסה האלמנה למזונותיה אין הב\"ח מוציא ממנה הראנ\"ח ח\"א סימן י\"ח. והרדב\"ז כתב דלגבי בע\"ח אין התפיסה מועלת ומוציאין מידה וכ\"כ הרמ\"ט ח\"א סימן רצ\"ה ועיין כנה\"ג דף קי\"א ע\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:8"
+        },
+        "9": {
+          "he": "הפתחים.  מכ\"ש שהבן שנדחה מפני הבת. שנדחה מפני האלמנה. ואין הבת נוטלת עישור נכסים מפני מזונות האלמנה ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:9"
+        },
+        "10": {
+          "he": "מהם.  ודוק' בנ\"מ אבל בנצ\"ב הוא לוקח גמור ואין מוציאין מהבעל למזונות אלמנה ב\"ש ע\"ש וכ\"כ מהרי\"ק בשורש י\"ח. וכנה\"ג כתב מדברי הטור נראה דאפילו בנצ\"ב בעל יורש הוי ומוציאין ממנו ע\"ש דף קי\"א ע\"ב סעיף כ\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:10"
+        },
+        "11": {
+          "he": "בב\"ד.  היינו ב\"ד מומחה. ש\"ג והר\"ן והרא\"ה ס\"ל בתובעת אפילו מקצתה הפסידה מזונות. ותוס' ורא\"ש ורמב\"ם כתבו דוק' כשתבעה כל הכתובה וכ\"ה ממשמעות בהג\"ה סעיף י\"ב עיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:11"
+        },
+        "12": {
+          "he": "פרעוה.  היינו אם פרעוה אח\"כ אז למפרע מיום התביעה אין לה מזונות אבל אם אין להם לשלם או שאינן רוצים לשלם יש לה מזונות רש\"ך סי' ר\"ד ב\"ש. צוה הבעל שמטלטלי הבית יהיה לפרעון כתובתה כל עוד שלא מכרה היא המטלטלין לא איבדה מזונותיה הרמ\"ט ח\"ב סי' קע\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:12"
+        },
+        "13": {
+          "he": "מדוחק.  דוק' בתבעה ולא נתפרעה אבל נתפרעה אפילו מתוך האונס אין לה מזונות הרש\"ך ח\"א סי' קט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:13"
+        },
+        "14": {
+          "he": "אותך.  אבל אם תבעה כתובתה בשביל שהיתה יראה שילך היורש חוץ לעיר אבדה מזונותיה רשד\"ם חא\"ה סי' קפ\"א. הר\"א ששון סי' קצ\"ד הרש\"ך ח\"א סי' קע\"ז ע\"ש שכתבו דאפילו ברמוה ג\"כ לא אמרינן שלא אבדה מזונותיה אלא בתבעה לבד אבל בגבתה לכ\"ע הפסידה מזונות ע\"ש. וכנה\"ג כתב עליהם ולבי מגמגם לחלוק עליהם ע\"ש. אשה שתבעה כתובתה בב\"ד וכשבאו לגבותה מצאו שכתובתה לא היתה ראויה להגבות בה אף דמגבין לה מנה מאתיים מתנאי ב\"ד לא איבדה מזונותיה הרדב\"ז ח\"א סי' ע' ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:14"
+        },
+        "15": {
+          "he": "אלמנותו וכו'.  ריב\"ש סי' ת\"פ. ומשמע שם אם אמר בלשון מתנה אבל אם לא אמר בלשון מתנה אפשר לומר שדעתו היה שתאכל בתנאי ב\"ד ח\"מ ועיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:15"
+        },
+        "16": {
+          "he": "בב\"ד.  ה\"ה אחר שפרעה לה כתובתה ג\"כ אינה מפסדת מזונותיה כל משך זמן שיושבת באלמנות עיין בגוף התשובה. אבל אם עשתה שידוך אין לה מזונות ט\"ז ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:16"
+        },
+        "17": {
+          "he": "שידוך וכו'.  דלא כב\"ח ע\"ש. אם נפל ספק בקדושין אעפ\"י שהיא מקודשת מספק אם תפס' אין מוציאין מידה הר\"ם אלשיך סי' ק\"ד. הרב בצלאל סי' ה':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:17"
+        },
+        "18": {
+          "he": "נאמנים.  ח\"מ וב\"ש חולקים דאפילו מכרה בפני שנים או שהם מודים שמכרה אפילו בפני ע\"א אבדה מזונותיה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:18"
+        },
+        "19": {
+          "he": "מהיורשים.  אבל בחיים יש לה מזונות ב\"ש ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:19"
+        },
+        "20": {
+          "he": "ניזונית.  בתשובת מהרש\"ך סי' ר\"ד ור\"ה האריך והעלה לענין הלכה. תבעה הכתובה כולה אפילו לא גבתה הפסידה מזונותיה. והיינו אם פרעוה אח\"כ. אבל אם לא רצו היורשים אח\"כ לשלם הכתובה. או שלא היה בידם ליתן אפי' היה בידם תשלום מקצתה יש לה מזונות. היה בידם ליתן עיקר ותוספת הפסידה מזונות. היה בידם ליתן עיקר כתובתה לבד היה ראוי לדון דהפסידה מזונותיה אלא דלא ברירא מילת' טובא. כך הוא אם תבעה הכתובה כולה. ואם תבעה מנה מאתיים והניחה התוספת או תבעה התוספת והניחה מנה מאתיים אינה מפסדת מזונות. אבל יכולין היורשים לסלקה בהשלם לה שאר הכתובה. ודוק' תבעה וגבתה אבל לא גבתה אין יכולין לסלקה. תבעה נדוניא וגבתה והניחה מנה מאתיים ותוספת אינה מפסדת מזונות. ואם רוצים היורשים לסלקה בזה יש מחלוקת בין הפוסקים. תבעה מנה מאתיים ותוספת והניחה הנדוני' אינה ניזונית. וכנה\"ג חולק בזה וכתב דאפי' תבעה כתובתה ותוספות ניזונית בשביל הנדוני' ויכולה האלמנה לומר קים לי כהפוסקים דנדוני' אינה בכלל כתובה. תבעה או מחלה או משכנה סתם אפילו הנדוני' בכלל. וכנה\"ג חולק ג\"כ בזה וכתב דהאלמנה היא מוחזקת לומר אין הנדוני' בכלל ע\"ש דף קי\"ג ע\"א. ועיין ב\"ש ס\"ק כ' וכ\"א. וכל זה איירי אם תבעה בב\"ד אבל אם תבעה שלא בב\"ד אפילו גבתה בב\"ד דינה כאלו לא תבעה כלל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:20"
+        },
+        "21": {
+          "he": "שנים.  כ\"ה דעת הרמב\"ם והרמ\"ה. אבל הרא\"ש ס\"ל דלא הפסידה בשתי שנים רק בתרתי לריעות' עניה ופרוצה. וכתב ב\"ש בכל פלוגתת הפוסקים היא מוחזקת. אלו הב' שנים או שלשה שנים. אם השנה מעוברת היא צריך להיות עם חודש העיבור ט\"ז ב\"ש. עיין הרשד\"ם חא\"ה סי' קמ\"ט. והרש\"ך ח\"א סי' קל\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:21"
+        },
+        "22": {
+          "he": "מזונות.  אפילו נתנה אמתלאה וטעם למה לא תבעה מזונותיה כל הזמן הזה הרש\"ך ח\"א סי' ד':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:22"
+        },
+        "23": {
+          "he": "שנים.  אבל אח\"כ לא מהני תפיסה דאמרינן כבר מחלה אפי' אם ליכא עדים שתפסה לא מהני מיגו ב\"ש עיין בח\"מ סי' פ\"ח סעיף י\"ב מ\"ש הש\"ך שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:23"
+        },
+        "24": {
+          "he": "נשאת.  אפילו אם הכתובה אינה בידה. ואחר שנשאת אפילו אם הכתובה בידה צריכה להבי' ראיה הג\"א ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:24"
+        },
+        "25": {
+          "he": "היסת.  היינו לענין מזונות שלעבר אבל על להבא לכ\"ע אין היורשים נאמנים עיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:25"
+        },
+        "26": {
+          "he": "לאשתו.  אפשר לומר דלאחר תקנות הגאונים ה\"ה אם יחד לה מטלטלין נמי הדין כן ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:26"
+        },
+        "27": {
+          "he": "ידה.  היינו במקום שכותבים כתובה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:27"
+        },
+        "28": {
+          "he": "מזונות.  משמע אפילו בשבועה לא תגבה אם הכתובה אינה בידה. אבל בטור משמע אם אין הכתובה בידה תשבע שלא מחלה ולא מכרה ולא תפסה כלום ועיין ב\"ש ועיין רלנ\"ח סי' ק\"ט וכנה\"ג דף קי\"א ע\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:28"
+        },
+        "29": {
+          "he": "מקרקעות.  עיין הרש\"ך ח\"ב סי' פ\"ז ובמהרמ\"ט ח\"א סי' קי\"ד ובהרשד\"ם חא\"ה סי' קמ\"א ובהר\"י אדרבי סי' רי\"ט:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:29"
+        },
+        "30": {
+          "he": "ניזונית.  דהא המתנה חל אחר מותו ובשעת מותו חל מזונות האשה ועיין בהרי\"ף והרא\"ש בפרק י\"נ ועיין בח\"מ סי' רנ\"ב. ועיין ב\"י שם אם נתן במתנת ברי מהיום ולאחר מיתה אם דינם כמתנת ש\"מ ואלמנה ניזונית מהם או לא ועיין ס\"ס קי\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:30"
+        },
+        "31": {
+          "he": "חורין.  כלומר אם ליכא אצל היורשים כלום. ואם נתן למקצת בניו מתנת ש\"מ ולקצת בניו לא נתן אלא יורשים ניזוני' מן חלק ירושה ד\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:31"
+        },
+        "32": {
+          "he": "נכסיו הוי וכו'.  ואם הקדיש בחליו עיין בח\"מ סי' ר\"נ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:32"
+        },
+        "33": {
+          "he": "מטלטלין.  עיין תשובת הריב\"ש סי' ק\"ז. ומהרמ\"ט ח\"ג סי' ק\"ל ועיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:33"
+        },
+        "34": {
+          "he": "לאחרים.  דוק' לאחרים אבל אם נתן ליורשיו ניזונית. מיהו במרדכי ובתוס' פרק נ\"ש דף מ\"ט ע\"ב משמע אפילו אם נתן לאחרים ניזונית מהם ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:34"
+        },
+        "35": {
+          "he": "מזונות.  זהו תקנות הגאונים דניזונית מן המטלטלין:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:35"
+        },
+        "36": {
+          "he": "מזונות.  וה\"ה אם מכרו מטלטלין א\"צ לשלם מן הדמים. עי\"ן בח\"מ סי' ק\"ז בטור. וכנה\"ג דף קי\"ב ע\"ב ס' נ\"ה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:36"
+        },
+        "37": {
+          "he": "שתזון וכו'.  כתב הח\"מ מאחר שתנאי ממון הוא וניזונין מן הדין עכשיו מן המטלטלין ולא מחמת התקנה א\"כ אפילו מכרו המטלטלין צריכין לזון מן הדמים כמו בקרקע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:37"
+        },
+        "38": {
+          "he": "מטלטלין.  עיין בד\"מ אם תפסה שטרות אי מהני ועיין כנה\"ג דף קי\"ג ע\"ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:38"
+        },
+        "39": {
+          "he": "מר\"ה.  הח\"מ כתב דהיינו לדינא דגמר'. אבל לאחר תקנות הגאונים הרשות לתפוס אפילו מרשות היתומים. והב\"ש כתב עליו דהא דמהני דוקא כשלא תפסה יותר כשיעור אבל אם תפסה יותר משיעור הראוי לה לא מהני תפיסה ברשות יורשים. וכתב עוד אפילו להפוסקים דס\"ל תפיסה לא מהני מרשות היתומים מ\"מ אם תפסה מעות מהני ע\"ש ועיין כנה\"ג דף קי\"ג ע\"ב סעיף נ\"ב ונ\"ג הפסק הלכה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:39"
+        },
+        "40": {
+          "he": "מהני.  מכתובת הריב\"ש סי' ק\"ז משמע דוקא כשיש שם ב\"ח או מקבלי מתנה דהוי תופס במקום שחב לאחרים ולא מהני ע\"י שליח. אבל אם אין שם אלא יורשים לא מיקרי חב לאחרים שיכולה לתפוס ע\"י שליח. וכ\"כ הרשד\"ם קס\"ד והרמ\"ט ח\"ג סי' ר\"ב והר\"ם אלשיך סי' ל\"ז אבל מתשובת ב\"י סי' ה' נראה דאפילו אין שם רק היורשים הוי נמי תופס במקום שחב לאחרים דהיינו ליורשים ולא מהני ע\"י שליח וכ\"כ הח\"מ והב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:40"
+        },
+        "41": {
+          "he": "נאמנים.  וא\"צ להיות א' מהם גמיר וסביר. כתב הטור אלמנה שמכרה וטעתה אפילו בכ\"ש מכרה בטל והמחבר השמיט בש\"ע עיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:41"
+        },
+        "42": {
+          "he": "מומחין.  משמע אם משום בב\"ד מומחין א\"י לבטל המקח אפילו אם רוצים ליתן את שלה א\"כ מוכח בכתובה שומא לא הדרא וכן פסק מהרש\"ל בתשובה סי' נו\"ן. והרב רמ\"א בתשובתו סי' ט' חולק עליו ע\"ש ועיין ב\"ח. ואם הניחה בעלה רשאית ושלטנית לכל מה שתעשה ואנש לא ימחה בידה אם מכרה לעצמה מכרה קיים כנה\"ג בשם תשובת כ\"י ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:42"
+        },
+        "43": {
+          "he": "היתומים.  ואם לקחה לעצמה וטרפה ממנה נמי תחזור על היתומים ליתן לה מזונות משעה שמגיע לה. ואם הב\"ד מכרו בשבילה הוי כאלו מכרה היא ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:43"
+        },
+        "44": {
+          "he": "יותר.  עיין ב\"ח וב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 93:44"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

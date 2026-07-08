@@ -1,0 +1,189 @@
+{
+  "chelek": "EH",
+  "siman": 71,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 4,
+  "fetchedAt": "2026-07-08T00:08:59.798Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "שחייב לזון בניו ובנותיו כשהם קטנים. ובו ד סעיפים:חייב אדם לזון בניו ובנותיו עד שיהיו בני שש אפילו יש להם נכסים שנפלו להם מבית אבי אמם ומשם ואילך זנן כתקנת חכמים עד שיגדלו ואם לא רצה גוערין בו ומכלימין אותו ופוצרין בו ואם לא רצה מכריזין עליו בצבור ואומרים פלוני אכזרי הוא ואינו רוצה לזון בניו והרי הוא פחות מעוף טמא שהוא זן אפרוחיו ואין כופין אותו לזונן בד\"א בשאינו אמוד אבל אם היה אמוד שיש לו ממון הראוי ליתן צדקה המספקת להם מוציאי' ממנו בעל כרחו משום צדקה וזנין אותם עד שיגדלו: הגה ודוקא לענין מזונות הבנות אבל לא כופין להשיא בנותיו ואע\"פ שמצוה ליתן לבתו נדוניא ראויה מ\"מ לא כייפינן ליה אלא מה שירצה יתן רק שישיאן (הגהות מרדכי דקידושין וכ\"כ תא\"ו נתיב כ\"ב):",
+      "en": "A man is obligated to provide sustenance to his sons and daughters until they are 6 years of age, even if they own property that came to them through their mother's father's house. From then and on, we provide for them as a decree of the sages until they are adults. If he does not want to, we denounce him and shame him and antagonize him [until he does]. If he [still] does not want to, we denounce him in public and say, \"So-and-so is cruel and does not want to provide for his children! He is worse than a non-kosher bird that [at least] provides for its chicks!\" But we do not force him to provide them sustenance. When does this ruling apply? When there is no economic estimation. But if the estimate shows that there is enough money for them to get charity, we remove it from him by force, for charity purposes, and we feed them until they become adults. Rama: This is specifically for feeding daughters [as well], but we do not force him [with regards to how much he gives] to marry off his daughters. Even though it is a mitzva to give his daughters off to those who are appropriate for them, nevertheless we do not force it, except what he prefers to give, as long as he marries them off (Hagahot Mordechai in Kiddushin, and so writes TA\"V Netiv 22).",
+      "ref": "Shulchan Arukh, Even HaEzer 71:1"
+    },
+    {
+      "seif": 2,
+      "he": "מי שהלך למדינת הים והניח בניו כאן מוכרים מנכסיו לפרנסה עד שיהיו בני שש אבל מבני שש ומעלה אין זנין אותם מנכסיו: הגה וי\"א היינו דוקא שלא התחיל לזונן לאחר שש אבל התחיל לזונן ניזונין מנכסיו דודאי ניחא ליה בהכי (מרדכי פ' נערה בשם ר\"י) וי\"א אם אמוד זונין אותן בכל ענין משום צדקה (כך משמע בטור):",
+      "en": "If one travels out of the country [by boat] and leaves his children behind, they [the court] sell his property for income until the children are six. From the age of six and on, they do not feed them from his property.  Rem\"a: Some say that is specifically when they had not started to feed them after they turned six, but if they had [already] started to feed them, they can feed them off of the [proceeds from selling] his property, for he surely would be fine with that (Mordechai Perek Neara in the name of R\"Y). Some say if he had been evaluated [according to what he could give], they feed them in any case [whether they started at six or not] through it being charity (so is inferred from the Tur).",
+      "ref": "Shulchan Arukh, Even HaEzer 71:2"
+    },
+    {
+      "seif": 3,
+      "he": "מי שנשתטה מפרנסים מנכסיו בניו ובנותיו אפי' הן יתרין על שש עד שיגדלו:",
+      "en": "One who went insane, they provide for his sons and daughters from [selling] his property, even if they are more than six years of age, until they become adults.",
+      "ref": "Shulchan Arukh, Even HaEzer 71:3"
+    },
+    {
+      "seif": 4,
+      "he": "הבא על הפנויה וילדה ממנו אם הוא מודה שהולד ממנו חייב לזונו:",
+      "en": "A [man] who has premarital sex with a single woman and impregnates her, if he admits the child is his, he is obligated to provide food for it.",
+      "ref": "Shulchan Arukh, Even HaEzer 71:4"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מימרא דרב' עולא רבא וכו' כתובות דף ס\"ה ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 71:1"
+        },
+        "2": {
+          "he": "טור בשם הר\"מ מרוטנבורג וכ\"כ אביו הרא\"ש שם בפ\"ד דכתובות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 71:2"
+        },
+        "3": {
+          "he": "מימרא דרבי אילעא וכו' באוש' התקינו וכו' שם וכ\"כ התוספת שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 71:3"
+        },
+        "4": {
+          "he": "מעובדא דלקמיה דרב יהודה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 71:4"
+        },
+        "5": {
+          "he": "מעובדא דלקמיה דרב חסדא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 71:5"
+        },
+        "6": {
+          "he": "מסקנת הגמ' מעובד' דרב דכפייה לרב נתן וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 71:6"
+        },
+        "7": {
+          "he": "מברייתא שם דף מ\"ה ע\"א וכפרש\"י שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 71:7"
+        },
+        "8": {
+          "he": "מימרא דרב חסדא אמר מר עוקבא וכו' שם וכפירש רש\"י שם וכ\"כ הטו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 71:8"
+        },
+        "9": {
+          "he": "הרא\"ש בתשוב' כלל י\"ז סימן ז' והריב\"ש בתשובה סימן מ\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 71:9"
+        },
+        "10": {
+          "he": "הריב\"ש שם דאל\"כ אפשר שנתעבר' מאחר דכי היכא דאפקר' נפש' לגביה אפקרה נפש' לגבי אחרינא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 71:10"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "חייב אדם לזון.  אפי' אינו אמוד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 71:1"
+        },
+        "2": {
+          "he": "כתקנת חכמים  בטור כתב כיון שתקנת חכמים (היא) זכו במזונותיהם כולי קשה מאי ראיה הי' דלמא תקנת חכמים היתה כך דוקא באין להם להתפרנס. וי\"ל דתקנת חכמים באשתו היה פשיטא אפי' ביש לה להתפרנס דבשטר כתובה כתב סתם ואנא אפלח כו' בלא תנאי א\"כ בפרנסת הבנים ג\"כ כן דחד תקנה להם פשוט דגם מלבושין הווין בכלל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 71:2"
+        },
+        "3": {
+          "he": "ומכלימין אותו מבואר ברש\"י פ' נערה שש\"ץ מכריז ע\"ז האיש כמ\"ש כאן:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 71:3"
+        },
+        "4": {
+          "he": "אבל לא כופין להשיא אבל מצוה עכ\"פ יש כמ\"ש בסי' א' דבגמ' איתא המשיא בניו סמוך לפירקן עליו הכתוב אומר וידעת כי שלום אהלך:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 71:4"
+        },
+        "5": {
+          "he": "אפילו הן יתירין על שש ושאני בההיא דסעיף ב' דיצא לדעת ולא פקד מהם שמע מיניה דלא ניחא ליה לזונן משא\"כ כאן אנן אזלינן בתר אומדנ' דשאר בני אדם:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 71:5"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "לזון בניו ובנותיו.  עיין בתשו' חוט השני סי' ח' שכ' דבני בנים אינם כבנים לענין זה וכ\"ש בני בנות רק מדין צדקה מחוייב ליתן להם (עי' ביו\"ד סי' רנ\"א) ואם יש כאן אבי האם ואחי האב החיוב מוטל יותר על אחי האב שענין המזונות תולים יותר בירושה וראיה מדאמרינן פ' החולץ וליתבעי ליה ליורשים ולא קאמר לקרובים ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 71:1"
+        },
+        "2": {
+          "he": "ובנותיו.  עבה\"ט ומ\"ש וחייב לזון אותם אפילו אם אמם מתה ע' בזה במל\"מ פי\"ב מה\"א דין י\"ד ובהגה שם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 71:2"
+        },
+        "3": {
+          "he": "אותם מנכסיו עבה\"ט ועיין בס' בית מאיר שכתב דמ\"מ שוכרין מלמד לבניו מנכסיו אפי' אינו אמוד ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 71:3"
+        },
+        "4": {
+          "he": "אם הוא מודה עמ\"ש לקמן סי' קע\"ז סק\"א:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 71:4"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ובנותיו.  אפילו אינו אמוד ואין זנין אותם לפי עשרו כמ\"ש סימן ע\"ג סעיף ו' לענין כסות. וחייב לזון אותם אפילו אם אמם מתה. ואם האב מת והניח בנים קטנים וגדולים חולקים בשוה וא\"צ לפרוע להם מזונות עד שיהיה בני שש כי חיוב זה לזון אותם עד שיהי' בני שש אינו מוטל אלא על אביהן כל ימי חייו ולא אחר מותו. מהר\"ם מלובלין סי' ע\"ט. ומהריב\"ל ח\"ב סי' כ': ומהר\"י ווייל בלקוטיו סי' י\"א כתב היכא דאין לו לתינוק חייבין היורשים לזונו. האם אינה חייבת במזונות בניה הקטנים מהר\"י ווייל שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 71:1"
+        },
+        "2": {
+          "he": "חכמים.  היינו כשאין להם ממון אבל אם יש להם ממון אין שום חיוב עליו ב\"ח ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 71:2"
+        },
+        "3": {
+          "he": "שיגדלו.  בדרישה הקשה למה עד שיגדלו הא אפי' אחר שיגדלו חייב לזון אותם בתורת צדקה לא יהא אלא קרוב אחר כמ\"ש בי\"ד סי' רנ\"א עיין ב\"ש בה\"י וכנה\"ג דף ל\"ז ע\"א סעיף ה':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 71:3"
+        },
+        "4": {
+          "he": "בנותיו.  הלשון מגומגם והכוונה דכופין אותו להשיאן אבל אין כופין אותו כמה נדוני' שיתן להם דאין עליו חיוב רק להשיאן ועישור נכסיו לא תקנו חז\"ל כשהוא חי בתשובת רש\"ך ח\"ב סי' קפ\"א כ' דכופין לסיוע לנדן קרוביו ועיין במהרי\"ק שורש קמ\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 71:4"
+        },
+        "5": {
+          "he": "מנכסיו.  אפי' הוא אמוד אין זנין לבניו לשלא בפניו ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 71:5"
+        },
+        "6": {
+          "he": "בהכי.  מיהו תוס' פ' נערה דמ\"ח בד\"ה ולא שאני לך וכו' כתבו דר\"י חולק וס\"ל דסבר' זו מהני דוק' בנשתטה אבל אם הלך למד\"ה לדעת ולא צוה ליתן להם מזונות לא ניחא ליה אפי' נתן להם מזונות קודם לכן ע' ח\"מ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 71:6"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

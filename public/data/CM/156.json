@@ -1,0 +1,487 @@
+{
+  "chelek": "CM",
+  "siman": 156,
+  "chelekTitle": "Choshen Mishpat",
+  "seifCount": 7,
+  "fetchedAt": "2026-07-08T00:09:10.242Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין מי שירד לאומנתו של חבירו ומי שמביא סחורה לעיר אחרת. ובו ז סעיפים:אחד מבני המבוי שאינו מפולש (י\"א דבמבוי אינם יכולים למחות ואין דינין אלו אמורים רק בחצר) (טור וב\"י בשם קצת הפוסקים) שביקש לעשות רופא או אומן או גרדי (פי' אומן להקיז דם) (ופי' גרדי אורג בגדים) או סופר שטרות או מלמד תינוקות לימוד שאינו של תורה בני המבוי מעכבים עליו מפני שמרבה עליהם הנכנסים והיוצאים ואפילו נתרצו לו כולם חוץ מאחד אותו אחד מעכב עליו וכן מי שיש לו בית בחצר השותפין לא ישכירנו לאחד מאלו: הגה אבל למכרו י\"א דשרי ואח\"כ ישתעו דינא בהדי לוקח ובלבד שלא ימכרנו לעכו\"ם דלא ציית דינא (מרדכי ריש פרק לא יחפור):",
+      "en": "The ruling on someone who goes to his friend's house and on someone who brings goods to another city. It contains seven sections: If one of the members of an unopened alleyway- there are those who say that one does not have the power to object in an alleyway and all these laws only apply to courtyards- was to become a doctor, craftsman, blood-letter, document scribe or non-Torah schoolteacher, the other members of the alleyway can object because additional people will be entering and exiting the courtyard. Even if every member of the alley would agree except for one, that one person may stop him. Similarly, if one owns a house in a courtyard-partnership, he may not rent to any of these individuals. To sell to such people, however, there are those who say it is permitted and the members of the alley will then litigate with the purchaser, provided, however, that he may not sell to a gentile who will not listen to the judgement.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 156:1"
+    },
+    {
+      "seif": 2,
+      "he": "חנות שבחצר יכולים השכנים למחות בידו ולומר לו אין אנו יכולים לישן מקול הנכנסים והיוצאים אלא עושה מלאכתו בחנותו ומוכר לשוק אבל אינם יכולים למחות בידו ולומר אין אנו יכולים לישן מקול הפטיש או מקול הריחים מאחר שכבר החזיק לעשות כן ולא מיחו בידו: הגה וי\"א דכל מה שעושה בחנותו ובביתו אפילו לכתחילה אינן יכולין למחות (המגיד פ\"י דשכנים בשם הרמב\"ן ורשב\"ם וב\"י בשם התו' ומרדכי) ודוקא בני אדם בריאים אבל אם הם חולים והקול מזיק להם יכולים למחות (ריב\"ש סי' קצ\"ו וכפול לעיל סי' קנ\"ה סט\"ו):",
+      "en": "Neighbours in a courtyard can object to a store in the courtyard and say they cannot sleep because of the sound of the people entering and exiting. Rather, he must do his work in his store and sell in the market. They cannot, however, object and say we cannot sleep because of the sound of the hammer or mill once he has already established his behavior and they did not object. There are those who say that even initially one cannot object to what someone does in his own store and home. This is only applies to healthy individuals. If they are sick and the sound damages them, however, they may object.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 156:2"
+    },
+    {
+      "seif": 3,
+      "he": "וכן יש לו ללמד תינוקות ישראל תורה בתוך ביתו ואין השכנים יכולים למחות בידו ולומר לו אין אנו יכולים לישן מקול התינוקות של בית רבן והוא הדין לכל מילי דמצוה שאינם יכולים למחות בידו:",
+      "en": "Similarly, one can teach Torah to Jewish children in his home and the neighbours cannot object and say we cannot sleep because of the sound of the children. The same applies to any mitzvah activities and the neighbours cannot object.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 156:3"
+    },
+    {
+      "seif": 4,
+      "he": "בני מבוי או בני חצר שנעשה א' מהם אומן ולא מיחו בידו שהרי הוחזק והיו העם נכנסים ויוצאין לקנות (ושתקו לא החזיק בדבר זה) ויש להם בכל עת לעכב ולומר אין אנו יכולים לישן מקול הנכנסים והיוצאים שהיזק זה הוא כמו העשן והאבק שאין להם חזקה:",
+      "en": "If one member of an alleyway or courtyard become a craftsman and none of the others objected because he was already established, and people were entering and exiting and the other members were silent, he would not obtain any rights. The other members have the right at any time to say they cannot sleep because of the sound of people entering and existing, because this damage is like smoke and dust, which one cannot obtain rights to.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 156:4"
+    },
+    {
+      "seif": 5,
+      "he": "כופין בני מבוי זה את זה שלא להושיב ביניהם לא חייט ולא בורסי ולא אחד מבעלי אומניות היה שם במבוי אחד מבני מבוי אומן ולא מיחו בו או שהיתה שם מרחץ או חנות או רחים ובא חבירו ועשה מרחץ אחרת כנגדו אינו יכול למנעו ולומר לו אתה פוסק חיי ואפילו היה מבני מבוי אחר אינם יכולים למונעו שהרי יש ביניהם אותה אומנות: הגה ורבים האומרים דבני החצר או המבוי שאינו מפולש אפילו בכי האי גוונא יכולים למחות אלא דבעל האומן אינו יכול למחות ולומר אתה פוסק חיי (בית יוסף בשם הרבה פוסקים) אבל גר ממדינה אחרת שבא לעשות חנות בצד חנותו של זה או מרחץ בצד מרחצו של זה יש להם למונעו ואם היה נותן עמהם מנת המלך אינם יכולים למנעו: הגה ורבים האומרים דאפ\"ה אין לו רשות ליכנס למבוי שיש שם בני אומנתו דבעל האומנות יכול לעכב עליו שלא ליכנס למבוי שלו הואיל והוא מעיר אחרת אבל במבוי אחר אינו יכול למחות בו הואיל ונותן מס (טור והמגיד פ\"י דשכנים וב\"י בשם רש\"י ותוס') ובני העיר יכולין למחות בכל ענין ויכולין לומר אין אנו יכולין לישן מקול הנכנסים אע\"פ שיש בהן כבר אומנות ואם לא נתן מס עד עכשיו ובא לעסוק במלאכתו ולתת מס י\"א דבר אומנותו יכול לעכב עליו עד שישכיר לו בית ויהיה כבני העיר (תה\"ד סי' שמ\"ב) וי\"א דלא מקרי נתינת מס במה שנותן מנת המלך אלא עד שיתן מס שלו למושל העיר הזאת דשייך לגבול שלהן (ב\"י בשם רש\"י) ואין חילוק בכל זה בין תלמיד חכם לאחר דאין חילוק אלא ברוכלין כמו שיתבאר בסמוך (טור) וי\"א דאם בני העיר צריכין לתורתו אינם יכולין למחות בידו אף ע\"פ שיש ת\"ח אחר בעיר דקנאת סופרים תרבה חכמה (ב\"י בשם הגהות אשירי) ת\"ח המביא סחורה לעיר חייבין למנוע לכל אדם למכור עד שהוא ימכור שלו (טור) ואי איכא עובדי כוכבים דמזבני דליכא רווחא לת\"ח מותר כל אדם למכור (טור בשם הרמ\"ה) ועיין ביו\"ד סי' רמ\"ג אדם שיש לו עובד כוכבים מערופי\"א יש מקומות שדנין שאסור לאחרים לירד לחיותו ולעסוק עם העובדי כוכבים ההוא ויש מקומות שאין דנין ויש מתירין לישראל אחר לילך לעכו\"ם ההוא להלוות לו ולעסוק עמו ולשחודיה ליה ולאפוקי מניה דנכסי עובדי כוכבים הם כהפקר וכל הקודם זכה ויש אוסרין (כל זה במרדכי פ' לא יחפור והגהות מיימוני פ\"ו דשכנים וע' לקמן סי' שע\"ו) ואפילו ישראל שעושה מלאכה אצל עכו\"ם ורגיל בכך אסור לישראל אחר ליכנס שם ולהוזיל המלאכה ואם רוצה לעשותו גוערין בו מיהו אם עבר ועשה אין מוציאין מידו (ב\"י בשם הרשב\"א) וע' לקמן סי' רכ\"ז שני בני אדם הדרים ביחד והאחד רוצה להוזיל בהלוואת הרבית לעובדי כוכבים אין חבירו יכול למחות בו (רבי' ירוחם נ' כ\"א ח\"ו) וה\"ה בכל כיוצא בזה ועיין לקמן סימן רכ\"ח סעי\"ח:",
+      "en": "Members of an alleyway may force each other not to have among them a tailor, tanner or any other craftsman. If there was such a craftsman in the alleyway and no one objected, or if there was a bathhouse, store or mill and another member came and made another one opposite the existing one, the current owner cannot stop him and say he is cutting of his livelihood. Even if the new individual is from another alleyway, they cannot stop him because they already have that craftsman among them. There are many that say that in the case of a courtyard or an alleyway that is not open, they would be able to object, even in such a case. The craftsman himself, however, would not be able to object and say you are cutting off my livelihood. If one who lives in another country and wants to set up a store next to this store or a bathhouse next to this bathhouse, however, the members would be able to prevent him. If he pays government taxes with them, they would not be able to stop him. There are many who say that even in such a case he has no right to enter any alleyway that has people from his trade, because a member of that trade has the right to prevent him from entering since he is from another city. In the case of another alleyway, however, he cannot object because the new individual pays taxes. The people of the city have the right to object in all cases and say we cannot sleep because of the sound of people entering, notwithstanding the fact that they already have such a craftsman. If one did not yet pay taxes and now he wants to work and will pay taxes, there are those who say his fellow craftsman can stop him until he rents a house and becomes like a member of the city. There are those that say that one who gives the “king’s gift” is not considered to have paid taxes, until he gives taxes to the ruler of this particular city that has jurisdiction over them. In all these cases, there is no distinction between a scholar and others, other than in the case of peddlers which will be discussed shorty. There are those that say that if the people of the city need the scholar’s Torah, they cannot object, even if there is another scholar in the city because “the jealousy of scholars creates an increase in wisdom.” If a scholar brings his merchandise to the city, everyone is required to refrain from selling until the scholar sells his wares. If there is a gentile who is selling, so there will be no gain to the scholar, everyone is permitted to sell. See Yoreh Deah Siman 243. If one has a business arrangement with a gentile, there are those places that rule that others are prohibited from interfering with his livelihood and doing business with that gentile, and there are some places that do not rule that way. There are those who permit another Jew to go to that gentile to lend him, do business with him, bribe him and take property from him because a gentile’s property is considered ownerless. There are those who prohibit it. Even where a Jew regularly does work with a gentile, it would be prohibited for another Jew to compete and do the work at a cheaper price. If he wants to do it, we would rebuke him. Nevertheless, if he violated and did the work we would not remove the money from him. See later Siman 227. If two individuals live together and one wants to lend with interest to a gentile, the other cannot object. The same applies to anything similar. See later 228:18.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 156:5"
+    },
+    {
+      "seif": 6,
+      "he": "רוכלים המחזירים בעיירות אין בני המדינה יכולין לעכבן שתקנת עזרא היא שיהיו מחזרין כדי שיהיו הבשמים מצויין לבנות ישראל: הגה ולכן נ\"ל דוקא מוכרי בשמים וכי האי גוונא אבל בשאר דברים אין חילוק בין רוכל לאחר אבל אינם קובעים מקום ויושבים בו אלא מדעת בני העיר ואם תלמיד חכם הוא קובע בכל מקום שירצה: הגה וה\"ה מלמדי תינוקות דינן כתלמיד חכם (טור):",
+      "en": "Residents of a country cannot stop peddlers traveling through cities because it is an Ezra-regulation to have peddlers traveling through cities so that perfume will be readily accessible to Jewish girls. Thus, it seems to me that this only applies to those who sell perfume or something similar, but in other cases there is no distinction between peddlers and anyone else. They cannot, however, set up a permanent stand and sit there without permission from the people of the city. If he is a scholar he can set up anywhere. The same rules that apply to scholars apply to schoolteachers.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 156:6"
+    },
+    {
+      "seif": 7,
+      "he": "הסוחרים שמביאים סחורתם למכור בתוך העיירות בני העיר מעכבין עליהם מלמכור יד על יד כדרך חנונים ואם מכרו ביום השוק בלבד אין מונעים אותם והוא שימכרו בשוק אבל לא יחזרו על הפתחים אפי' ביום השוק ואם יש להם מלוה בעיר מוכרים כדי פרנסתם אפי' בלא יום השוק עד שיפרעו חובם וילכו להם: הגה וכן לענין הלוואת רבית לעובדי כוכבים ומזלות יכולין לעכב בידן אבל אינם יכולים לעכב בידן אם באים ביום השוק ומלוים ברבית לבני עיירות המתקבצים שם לבא בשוק (טור והגהות מיימוני פ\"ו דשכנים) ואם יש להן מלו' בעיר יכולין ללות עד שישתכר כדי פרנסתו כדי שיגבה חובותיו (טור וב\"י בשם תוס' והרא\"ש) י\"א הא דבני העיר יכולין למחות בבני עיר אחרת היינו דוקא בדליכא פסיד' ללקוחות שמוכרין כשאר בני העיר וגם סחורתם אינה טובה יותר משל בני העיר אבל אם נותנין יותר בזול או שהוא יותר טובה שאז נהנין הלוקחין מהן אין מוכרי סחורות יכולין למחות (הרא\"ש וטור בשם הר\"י הלוי) ובלבד שיהיו הלוקחים ישראלים אבל בשביל עובדי כוכבים הנהנים לא (רבי ירוחם נ' ל\"א ח\"ו והמ\"מ בפ\"י משכנים) וכשמביאים סחורה אחרת שאין לבני העיר אע\"פ דלא מוזלי במקח ואינה יותר טובה אינם יכולין למחות (ב\"י מדברי הפוסקים) בני העיר שברחו לישוב מפני חשש סכנה אין בני הישוב יכולין לעכב בידן מלהרויח כשיעור חיותם עד שיעבור זעם וכפי מיעוט עסקן שנושאין ונותנין ישאו בעול עם הקהל ואם שייכים במס העיר לא יכולין לעכב (שם בשם המרדכי פרק לא יחפור) וכן מי שבאו להוציאו מן העיר שאין לו חזקת ישוב (ריב\"ש) אין יכולים להוציאו עד שיגבה חובותיו ויכול להרויח בכדי כך כדי חיותו (ת\"ה סימן ש\"מ) וי\"א הא דאינו צריך לתת מס רק כפי עסקיו היינו כשאינן רוצים להתיר לו הישוב אבל אם רוצים להתיר לו הישוב לגמרי צריך לתת מס כפי אחד מבני העיר מיד או ילך לדרכו (שם) ויש מי שחולק בזה (תשובת רשב\"א סימן תרס\"ד) בני העיר שעוסקין בסחורה בעיר אחרת אינן ברשותן לכוף אותן ליתן מס כפי רצונם אלא אומרים להם תנו כך וכך או מוחין בידן מלעסוק בעירם (רשב\"א הנ\"ל) בני עיר אחרת שבאין לפזר בעיר ואין מרויחין אין בני העיר יכולין למחות בהם אע\"פ שמייקרים השער (מהרי\"ק שורש קע\"ג) וכל זה לא מיירי אלא כשבאים אחרים לעסוק בעיר שאינן דרים שם ולכן יכולים למחות בידן אע\"פ שרוצים ליתן מס הואיל ולא היו שייכים במס עד הנה אבל אם רוצים לדור במקום ההוא וליתן מס ולהיות כאחד מבני העיר י\"א דהרשות בידם דיוכל אדם לדור בכל מקום שירצה ואין הראשונים קנו העיר בחזקה (טור בשם הרא\"ש ומרדכי פרק הנ\"ל ועיין בב\"י) ויש חולקין ואומרים דיכולין למחות בידם בפרט בזמן הזה שדרים תחת האומות ויש לחוש שאם יתוספו הדיורין שיבא לידי קלקול מן האומות ולכן הבא לדור הוי כרודף ולכולי עלמא אם בני העיר יכולים לסגור הדלת ולגרום עם המושלים שימחו בבאים לגור או ע\"י מונע אחר הרשות בידם (מהרי\"ק שורש קצ\"ה) ויש מקומות שנוהגין לעשות חרם חזקת ישוב (כ\"כ המרדכי) ואז יכולין לכוף (על פי החרם) ולא מדינא ויכולין לגזור שלא לישא וליתן עם הבאים לדור בלא רשותם ואם יש רב בעיר יכול לגזור על הבא לדור אם הוא תלמידו (מרדכי פ' הנ\"ל ותוס') וי\"א דאין חרם חזקת ישוב חל על תלמיד חכם כי הוא יכול לדור בכל מקום שירצה (מהרי\"ו סימן קנ\"א והגהות המרדכי ישן) ואם התירו לא' החרם על זמן ונתנו לו רשות לדור לא אמרינן שהותר כולו ויכולין לגרשו אח\"כ (מרדכי פ' חזקת) ראובן ובניו שהיו דרין בישוב אחד וטוענין חזקה שיש עמה טענה חזקתם חזקה ויכולין למחות בשמעון הבא לגור שם ואם שמעון טוען בעדים שהיה ירא למחות משום שראובן ובניו מוסרין אין חזקתן חזקה אבל אם ראובן מוסר ובניו אינם מוסרים יש לבניו חזקה דבן גזלן י\"ל חזקה (מרדכי פ' חזקת) וכן דנין בחזקת ישוב כמו בחזקת קרקע לענין שאר דברים : נהגו הקדמונים שאם א' נסע מן העיר י\"ב חדש וגילה בדעתו שאין דעתו לחזור אבד חזקתו אבל אם לא גילה בדעתו בכך לא אבד חזקתו עד שלשה שנים ואם גילה שדעתו לחזור לא אבד חזקתו אפי' בג\"ש (מהרי\"ק שורש קצ\"ב) וי\"א דאפילו בסתם לא אבד חזקתו (וכן משמע מתשובת רשב\"א סימן אלף קל\"ג) בני העיר שהיה להם חזקת ישוב אם נתייאשו פעם אחת מן העיר ואח\"כ חזרו מקצתן והשתדלו הישוב אין לאחרים עליהם כלום (מהרי\"ק שורש הנ\"ל) עיין סוף סי' קמ\"ט מדין מי שהחזיק במצוה עם הקהל:",
+      "en": "Residents of a city can stop merchants who bring their wares to sell in the city from selling them individually as storekeepers do. If they only sold on market-days, the people of the city cannot stop them, so long as they sold in the market. They cannot knock on doors, however, even on a market-day. If they have an outstanding loan in the city, they can sell the amount needed for sustenance, even if it is not a market-day, until their debt is repaid and then they will leave. The same applies to lending with interest to gentiles, and the people of the city may stop them. They cannot stop them if they come on a market-day and lend with interest to the people who are gathered there to go to the market, however. If they have an outstanding loan in the city, they can lend until they make enough money for sustenance in order that they can collect their debts. There are those that say that this that people of a city can stop people of another city, is only is there is no loss to the consumer because they are selling just as the others in the city are selling and their merchandise is no better than those of the people in the city. If they were selling at a cheaper price or if their merchandise was better, however, in which case the consumers are benefiting, the seller-merchants cannot object, so long as the consumers are Jews. If only gentiles were benefiting, however, this would not apply. When merchants brings other merchandise that the city does not have, even though it is no cheaper or better than the existing merchandise, the people of the city cannot object. If members of the city fled to a settlement because of a concern of danger, the people in the settlement cannot stop them from making enough profit for them to live until the danger passes. Based on the small amount of commerce they are involved in, they will carry the burden of the public. If they are included in the city-tax, the members of the city cannot stop them. Similarly, if they come to expel someone from the city who does not have the right to live there, they cannot expel him until he collects his debts, and he can profit in the meantime the amount required to live. There are those who say that this that the merchant is only required to pay taxes based on his transactions is only where they are not allowing him to live there. If they are allowing him to live there completely, however, he must pay taxes as if he was a full resident or he must leave. There are those who disagree with this. If people of a city are involved in commerce in another city, it is not in their power to force them to give as much taxes as they want. Rather, we tell them give such and such amount or we object to them transacting in their cities. If people from another city come to spend in another city and not cause any gain to the people of the city, the people of the city do not have the right to object, notwithstanding the fact that the market rate will increase. All this only applies when others are coming to transact in a city that they do not live in, and that is why the members of the city have the right to object even though they are willing to pay taxes because they were not part of the tax base until now. If they want to come live in that city and pay taxes like a member of the city, however, there are those who say they have the right to do so because a person has the right to live in whatever place he wants. The original residents did not acquire the rights to the city. There are those who disagree and say that they do have the right to object, specifically in today’s age where we live under the jurisdiction of other nations and there is a fear that if there are more residents, something negative can arise from such other nations and thus one who wants to live there have the status of a “pursuer.” Everyone agrees that if the people of the city have the ability to close the doors, to have the rulers object to immigrants coming or some other way of preventing people from moving in, they have the right to do so. There are those places that have a custom to create a cherem against people coming to move there, in which case they have the power to force immigrants via cherem, but not by law. They can decree that no one may transact with those people coming to live there without permission. If the city has a Rabbi, he may make a decree on any student of his who is coming to live there. There are those who say that a cherem against immigration would not take effect on a scholar because he can live wherever he wants to. If they voided the cherem for one person and they gave him permission to live there for a set time, we do not say the entire cherem is voided and they can force him out later. If Reuven and his children lived in one settlement and made a bona-fide claim that they obtained rights, the obtainment of rights would be valid and they can object to Shimon living there. If Shimon claims with witnesses that he was afraid to object because Reuven and his children would snitch to the government, Reuven would not obtain rights. If Reuven was a snitch but his sons were not, however, they would obtain rights, because the son of a thief has the power to obtain rights. We apply the same rules with respect to obtaining rights to live as we do to obtaining rights to real property. There is an ancient custom that if one traveled from a city for 12 months and indicated that he has no intention of returning, he had lost his rights. If he did not indicate that he did not intend on returning, however, he would not lose his rights until he was away for three years. If he indicated that he had the intention of returning, he would not even lose his rights after three years. There are those who say that even where he did not indicate intention either way he would not lose his rights. If people of a city had the rights to live and they were driven out one time for the city and some of them subsequently returned and reestablished the city, the others will have no claims against him. See the end of Siman 149 with respect to someone who has obtained rights against the public with respect to a mitzvah.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 156:7"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ל' הרמב\"ם בפ\"ו מה' שכנים דין י\"א וכתב הרב המגיד ברייתא שם [דף כ\"א ע\"ב] וגי' המחבר אחד מבני מבוי וגם זה לפי שטתו שלמעלה שכתב שמעכבין אפי' כשאין ביניהם מאותם אומנות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:1"
+        },
+        "2": {
+          "he": "וכ\"כ ה\"ה בשם מפרשים אחרים שגורסים שם אחד מבני חצר וכו' אבל מבוי אם אין ביניהם מאותם אומנות אין מעכבים ושכן פי' הרב אבן מג\"ש כפי' הראשון ע\"כ וכ\"כ התוספות שם בשם רשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:2"
+        },
+        "3": {
+          "he": "פי' לאפוקי סופר ספר תורה וספרים דמצוה הוא:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:3"
+        },
+        "4": {
+          "he": "בפי' המשנה כתב שאם היה מלמד לתינוקות חשבון או תשבורת יכולין למחות בידו סמ\"ע בשם ד\"מ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:4"
+        },
+        "5": {
+          "he": "אבל ☜בתקנות שמתקני' הקהל כתב הרא\"ש בכלל ו' ☜סי' ד' שאין יחיד יכול לבטלן דבזה כתיב אחרי רבים להטות סמ\"ע:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:5"
+        },
+        "6": {
+          "he": "כתב ה\"ה ברייתא שם [שם] והטעם מפני רבוי הנכנסים ויוצאים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:6"
+        },
+        "7": {
+          "he": "☜והוא דאיכא מאן דבעי לשכרו אלא שאינו רוצה לשכרו בכדי שישכור את זה וה\"ה גבי מכיר' לעכו\"ם שכ' הרמ\"א בהג\"ה דאיכא מאן דרוצה לקנותו אלא שאינו רוצה לקנות בכדי שיקנה אותו זה ב\"ח מדברי הטור והתוס':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:7"
+        },
+        "8": {
+          "he": "ג\"ז שם דין י\"ב וכתב ה\"ה כן שם משנה [דף כ' ע\"ב]:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:8"
+        },
+        "9": {
+          "he": "כתב ה\"ה נ\"ל שהוא סובר דדוקא החזיק אבל אם בהתחלה בא לעכב עליו יכול לעכב ושנ\"ל שהוכיח המחבר זה דהא קול הפטיש יותר מונע השינה מקול הנכנסי' והיוצאים ועוד למה אמרו חניו' שבחצר שנרא' שכבר היא בחצר עכ\"ל וכבר נתבאר לעיל סימן קנ\"ה סל\"ה דלהרמב\"ם לא בעי חזקת ג' שנים לנזקין אלא כל שראה או ידע שעשה מעשה בזה ולא מיחה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:9"
+        },
+        "10": {
+          "he": "שם וכתב ה\"ה משנה ואוקימת' דרב' שם [ריש ר' כא]:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:10"
+        },
+        "11": {
+          "he": "טור ס\"ח וכ\"כ הריטב\"א בתשובה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:11"
+        },
+        "12": {
+          "he": "ל' הרמב\"ם שם פי\"א ד\"ה וכ\"כ ה\"ה שם בפ\"ו בשם הרשב\"א שדקדק דין זה ממה דתנן חנות שבחצר ולא קאמר ולא יעשה אדם חנות בחצר כ\"כ הטור ס\"ד בשמה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:12"
+        },
+        "13": {
+          "he": "גם זה שם בפ\"ו דין ח' וכתב ה\"ה בבריית' פרק לא יחפור (בבא בתרא ד' כ\"א ע\"ב) כופין בני מבוי זה את זה שלא להושיב וכו':",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:13"
+        },
+        "14": {
+          "he": "שם בברייתא וכת\"ק ולשכינו אינו כופה פירוש שאם יש בידו א' מכל בני אומניות האלו ורצה שכינו ליכנס באותה אומנות אין יכול לעכב וזה הפי' מסכים לפי' אחרון של אבן מגא\"ש וה\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:14"
+        },
+        "15": {
+          "he": "בעי' דרב הונא בריה דרב יהושע שם ולא איפשטא וכתב בהלכות הילכך אין מעכבין:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:15"
+        },
+        "16": {
+          "he": "מימרא דרב הונא בריה דרב יהושע פשיטא לי וכו' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:16"
+        },
+        "17": {
+          "he": "פירוש כל א' מבני העיר יכול למחות שלא ידור בחצירו או במשואו אם אינו מפולש כדלעיל בריש הסימן:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:17"
+        },
+        "18": {
+          "he": "כתב הסמ\"ע כשאין בני העיר מוחין דאל\"כ קשה הא כתב מוהר\"ם בס\"ס זה דבני העי' יכולין למחות אף לדור שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:18"
+        },
+        "19": {
+          "he": "ושכן ראה בתשובת רבי יוסף ט\"ע מדמי לה לדגים דיהבי סיירא וכו' (ב\"ב דף כ\"א ע\"ב) וע\"ש במ\"ש התוס' שם בד\"ה מרחיקין מצוד' הדג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:19"
+        },
+        "20": {
+          "he": "מימרא דרב יהודה אמר שמואל ב\"ב דף נ\"ד ע\"ב וכדמפרש שם טעמא דעכו\"ם מכי מטי זוזי לידיה אסתלק ליה וכו' ומהא דתנן במשנה ג' פ\"ד דפא' והובא בפ\"ק דמציעא דף י' ע\"א ונפל לו עליה וכו' מעבירין אותו ממנה ועיין בסי' קצ\"ד ובסי' רל\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:20"
+        },
+        "21": {
+          "he": "(להרויח ע\"י)",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:21"
+        },
+        "22": {
+          "he": "שם דין ע' מימר' דר\"נ בר יצחק ומוד' רב הונא וכו' שם ריש ד' נ\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:22"
+        },
+        "23": {
+          "he": "שם בגמ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:23"
+        },
+        "24": {
+          "he": "שם ומסיק כי הא דרבא שרא להו לרב יאשיה וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:24"
+        },
+        "25": {
+          "he": "מימרא דרב יוסף ומודה רב הונא במקרי דרדקי וכו' וגם הרמב\"ם כתבה בפ\"ב מהלכות ת\"ת וכתבו המחבר בי\"ד ס\"ס רמ\"ה:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:25"
+        },
+        "26": {
+          "he": "שם פ\"ו מה' שכני' דין י' מעובדא דהנהו דיקולאי שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:26"
+        },
+        "27": {
+          "he": "פי' סתם שוק שהוא יום א' בשבוע ב\"ח:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:27"
+        },
+        "28": {
+          "he": "ובגמרא דימכור להבאים ונתקבצים שם ☜ומשמע אבל לא לבני אותו מקום וכ\"נ מדברי הרי\"ף והרא\"ש והתו' שם וכ\"כ הב\"ח בשם הגה' מיי' ושהכי נקטינן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:28"
+        },
+        "29": {
+          "he": "מעובדא דהנהו עמיראי דאייתי עמרא וכו' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:29"
+        },
+        "30": {
+          "he": "ואף מי שאין לו משא ומתן יכול למחות ולומר קא פסקת חיותא במציאות הבאים לידך והיו באים לידי כ\"כ הגה' מיי' פ\"ו משכנים ומהרי\"ו בתשובה סימן קפ\"ו סמ\"ע",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:30"
+        },
+        "31": {
+          "he": "אף אם הוא רוצה לדור אצל עכו\"ם או לבנות לו בית לעצמו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:31"
+        },
+        "32": {
+          "he": "אבל אין עונש אחרים חל על הבא לדור שם מאחר שאינן יכולין למחות מן הדין אבל חרם הרב על תלמידו חל וז\"ש ואם יש רב בעיר וכו' סמ\"ע",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:32"
+        },
+        "33": {
+          "he": "ועיין במהרי\"ק מ\"ש בחזקת ישוב שורש י\"ז ושורש כ' וקי\"ח וקל\"ב וקע\"ג וקצ\"ב ומרדכי פ' לא יחפור ופי' חזקת ודיני הסכמתם שם שורש מ' נ\"א קפ\"א וקפ\"ב ובתשובת מהר\"ד כהן בית י\"ב י\"ג י\"ד ל\"א ל\"ב ובריב\"ש סימן שצ\"ט ותנ\"ט וקל\"ב ת\"ע ודיני מסים בסי' קס\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:33"
+        },
+        "34": {
+          "he": "ועיין בסוף סי' ל\"ז בהג\"ה שכתב שדנין בחזקת יושב וכדומה לזה מצרכי רבים אפילו ע\"פ עד מפי עד וכו' כתב מהרא\"י סימן רי\"ד הנשבע לשקר אין רשאי' להושיבו עם טובי הקהל לתקן צרכי רבים ואפילו נשבע לו על כן לא חלה השבועה אלא אם כן שב בתשובה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 156:34"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "אחד מבני מבוי כו'  עיין בתשו' מהרשד\"ם סי' תכ\"א ותמ\"א וסי' רס\"ז ובתשו' ר\"ש כהן ס\"ב סי' קע\"ב:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 156:1"
+        },
+        "2": {
+          "he": "חנות שבחצר יכולי' השכנים למחות כו'  בהגהות אשר\"י כתב דהיינו לכתחלה אבל מהני חזקה ע\"ש ועי' בתשובת ר\"ל חביב סי' צ\"ז:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 156:2"
+        },
+        "3": {
+          "he": "כופין בני מבוי.  עיין בסמ\"ע ס\"ק ט\"ז שהאריך ועיין בב\"ח שהאריך ג\"כ בזה לבאר דעת הרמב\"ם והשיג על הסמ\"ע ואין דבריו נראין להמעיין שחילק בין רחיים לרחיים ומנ\"ל סברא זו ועיין עוד שם בסמ\"ע עד דס\"ל כיון שנותן מס עמהן ה\"ל כאלו דר עמהן ובהדר עמהן בעיר כבר נתבאר דנקרא שכינו כו' היינו אחר מסקנת האבעי' לקול' ולא ידעתי ליישב מאי קמבעיא ליה לר\"ה בר' יהושע מי גרע מבר מתא דשייך בכרגא דפשיטא דא\"י לעכב כשיש אומן אחר כ\"ש בר מבואה דעיר זו ודוק וצל\"ע אבל לשטת ב\"י להרמב\"ם ופירש\"י וטור ותוס' מיושב זה עיין בב\"י בס\"ו עד ובדקתי בהשגות ולא מצאתי דבר זה כו' וטעה דהי' כתוב וא\"א והיה סבור שהוא ר\"ת ובהשגות א\"א ליתא אלא הוא ר\"ת ובאביאסף וכן הוא להדיא במרדכי והגמ' מיימוני בשם אביאסף ומביאם ב\"י גופיה לקמן וכן הוא בדפוס הגהו' מיימוני החדשי' ועיין בס' א\"א דף פ\"ח ע\"ש שנראה שלא כוון יפה ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 156:3"
+        },
+        "4": {
+          "he": "ורבים האומרים דבני חצר כו'  נמשך אחר מ\"ש ב\"י סוף ס\"א שכתב ודין זה ליתא לדעת שאר הפוסקי' ר\"ל במבוי שאינו מפולש אע\"פ שלא מיחו בראשון יכולים למחות בשני אבל לפע\"ד צ\"ע די\"ל דהפוסקי' מודו בהא להרמב\"ם ולא דברו מזה גם צ\"ע על מה שמדמה מור\"ם חצר למבוי בזה עיין בתשו' רמ\"א סי' ט' יסוד א' וסי' ע\"ג וע\"ה בתשו' מהר\"ס פאדוה סימן מ\"א:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 156:4"
+        },
+        "5": {
+          "he": "ורבי' האומרי' כו'.  עיין בתשו' מבי\"ט בח\"א בשאלות השניות סי' י\"ז דף ק\"ח רע\"ג וסי' ל\"א דף קי\"ג ובתשוב' רמ\"א סי' ט' יסוד ב' ובתשו' מהרשד\"ם סי' שס\"ג ובתשובת ר\"ש כהן ס\"ב סימן נ\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 156:5"
+        },
+        "6": {
+          "he": "מוכרים כדי פרנסתם כו'  עיין בסמ\"ע ס\"ק כ\"א עד אבל מור\"ם אא\"כ בסמוך סתם כדברי הטור כו' ולפע\"ד נראה דמור\"ם ס\"ל כמ\"ש ב\"י דגם ל' הרמב\"ם יש לפרש כלשון הש\"ס ע\"ש:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 156:6"
+        },
+        "7": {
+          "he": "בפרט בזמן הזה. כו'  ע' בתשו' רמ\"א סי' נ\"ב ובתשובת מהר\"ן ששון סי' קנ\"ה:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 156:7"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "יכולים השכנים למחות.  עיין בתשובת חתם סופר חח\"מ סימן צ\"ב במעשה בג' אחין שהניח להם אביהם בית בירושה שנים קבלו שטח העליון ואחד מהם שטח התחתון וביקש א' מהעליונים למכור יי\"ש על הצנצנת לאחדים והתחתון רוצה לעכב מפני שיוצאים ונכנסים דרך חצירם המשותף לשלשתם וכתב הגאון השואל שלפי דעתו נראה בפשיטות שיכולין למחות בידו כמו בפותח חנותו לחצר השותפין אע\"ג דטעמא דא\"י לישן מקול הנכנסים לא שייך אם מוכר ביום ופוסק מלמכור בשעה שבני אדם הולכין לישן דבזמן חכמי הש\"ס היה דרכם למכור גם בלילה בחנויות כדמשמע רפ\"ג דב\"ב דרק חנותא דמחוזא עבדי ביממא ולא בליליא מ\"מ רוב הפוסקים כתבו דשינה ל\"ד אלא מפני שמרבים עליו הדרך כמ\"ש בדרישה סק\"ג כו' אך לא רצה לפסוק הדין לחלוטין מפני שהוא תמהון בעיני העולם שיוכל אחד לעכב על חבירו בעשיית פרנסה למכור משקים בביתו ואם זה יזכה למחות יעוררו רבים למחות בשכניהם מוכרי יין דשכיחי טובא כו' ואפשר שנשתנה הדבר ע\"י אורך הגלות שנתמעטו הדיורים לבני עמינו ואם ימחה א' בחבירו באלו יצטרך לבריות ח\"ו אם אין לו במה להתפרנס כו'. והוא ז\"ל השיב דודאי לפי ההלכה נראה שיכול למחות בהעליון ומ\"ש הרב השואל דלרמב\"ם הטעם משום שא\"י לישן זה היה בימיהם שהיו עושים בחנות גם בלילה כדמשמע רפ\"ג דב\"ב כו' לא נ\"ל דהא דאמרינן חנותא דמחוזא כו' היינו שהיו דרים בביתם ועושים מלאכה או מוכרים בחנותם ביום בשעת מו\"מ ואילו במקומות אחרים הסוחרים והאומנים דרים שם בלילה וה\"ל חזקה רצופה דג' שנים אבל לעולם ליכא דוכת' דעבדי בליליא כדכתיב והיה לנו הלילה למשמר כו' אבל פשוט דשינה הוא לאו דוקא בלילה אפי' ביום אין לו מנוח מחמת בלבול הקול ואיכ' ינוקי דגני ביממא ואיכא נמי קלא דפועלים המשכימים למלאכתם ונכנסים לחנות וכדומה ע\"כ נ\"ל דאין זו סמיכה. גם מ\"ש דאפשר נשתנה הדבר כו' הגם שאפשר להוסיף תבלין ולומר כיון דכתבו הפוסקים לקמן ס\"ג לאו דוקא תשב\"ר אלא ה\"ה לכל מילי דמצוה א\"י למחות אם כן הא קיי\"ל בזה\"ז דמזונות הוא דבר מצוה כמ\"ש בא\"ח ס\"ס רמ\"ח בהגה מ\"מ לא נ\"ל דע\"כ לא קאמרי אלא בבטול מצוה דאם לא ילמדו יתבטלו או שארי מצות המוטלים על הכל אבל הכא פרנסת בניו וב\"ב אינה מוטלת על שכיניו כו' אמנם נ\"ל לדון לזכות על פי מה שכתב בתשובת רלב\"ח סימן צ\"ו לפרש הטעם לדעת רמב\"ן ורוב הפוסקים דגבי חנות שבחצר אפילו חזקה לא מהני (דלא כהג\"א והרע\"ב) משום ריבוי הדרך וגבי עושה מלאכתו בחנותו אפי' לכתחלה מותר דלכאורה קול הפטיש ורחים גריע טובא מריבוי דרך וכתב דהטעם מפורש במתניתין דתנן אבל עושה הוא כלים ומוכר בשוק מבואר דכל שא\"א לו לעשות בשוק כי על כן הפטיש והרחים יעשה בביתו אינם יכולים למחות אפילו בקול גדול המטריד אותם כי לא מצי למיפסקיה חיותיה משא\"כ המכירה יכול לעשות בשוק על כן לא יסבלו אפילו הפסד קטן כו' ולפי זה במוכרי יין וי\"ש דלא מצי למכור בשוק שעיקר הפרנסה הוא שבאים אנשים לשבת בבית משתה היין לשתות לפכוחי פחדא כדאשכחן כה\"ג בב\"מ ס\"ו ע\"ב ולא שכיחי השתא אינשי סובאי יין בחוצות דמרקדי בי כובי וכיון דא\"א למכור בשוק הדר ה\"ל האי חנות כמכה בפטיש דלדעת רוב הפוסקים אפילו לכתחלה א\"י למחות כו' ושוב כתב דאפשר לחלק בין מוכרי יין למוכרי יי\"ש כי בתשובת מהר\"ם אלשיך סי' מ\"ו אודות שטענו אנשי מבוי שהעוברים ערלים יגנבו מה שבחלונותיהם ופסק דריבוי דרך שמענו ריבוי גנבים לא שמענו דאחזיקו העוברים בלסטיותא לא מחזקינן ע\"כ כל היכא דליכא משום ריבוי דרך ליכא נמי משום גנבי כו' וכפי הנראה היינו בסתם ארמאי ההולכים לדרכם אבל בקובעים על היין או משקה יי\"ש בבני אדם כאלו שאינם מתיישבים ביינם איכא חששא טובי אפשר מודה מהר\"ם אלשיך להשאיל שם אך במוכרי יין שבמדינתינו הוה מיעוט שאינו מצוי שישהה ארמאי יין בבית ישראל אבל יי\"ש רוב ומצוי היא קרוב לודאי שיכול למחות כו' עכ\"ד עיין שם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 156:1"
+        },
+        "2": {
+          "he": "ואין השכנים כו'.  עיין בלבוש שכ' ונ\"ל דוקא בני המבוי או בני החצר שדרים יחד במבוי אחת או בחצר אחד ואינו דרים יחד בחדר א' או בבית החורף אחת אבל אותם הדרים בבית חורף אחת כנהוג במדינות אלו מחמת דוחק דירה נ\"ל ודאי שכל א' יכול למחות בחבירו אפי' להיות מלמד תינוקות של ישראל תורה באותו בית החורף שהוא דר שם עמו שזה ודאי אין דעת רוב העולם סובלתו ועל דעת זה לא נשתתף עמו בדירה זו אם לא שהתנה מתחלה עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 156:2"
+        },
+        "3": {
+          "he": "א\"י למונעו ולומר לו כו'  עיין בב\"י שכתב וז\"ל וכתוב במרדכי ומבוי הסתום מג' צדדין רק בצד א' יכנסו לו ודר ראובן אצל צד הסתום ובא שמעון לדור כנגד הצד הפתוח שאין העובד כוכבים יכול לילך אם לא ילך תחלה לפני פתח שמעון נראה דיכול לעכב עליו כדרב הונא. אביאסף. וכ\"כ בהגהות מיימון פ\"ו מהלכות שכנים. ונראה דאביאסף סבר דלא כר\"ה בריה דרב יהושע (דפשיטא ליה דלא כרב הונא) וא\"כ לדידן דקיי\"ל כר\"ה בריה דר\"י לא מצי מעכב עליו עכ\"ל. ובטור ד' דיהנפורט עם חידושי הגהות מהרל\"ח הביא על זה הגהת ד\"מ שכתב וז\"ל ולעד\"נ דגם ר\"ה בריה דר\"י מודה בהאי דינא דכיון דשמעון יושב בפתח ולא היה שום אדם יכול לעבור לראובן אם לא ילך לפני פתחו של שמעון וכ\"כ במרדכי בהדיא שם ומשמע דדוקא מכח זה פסק שם כן דזה מקרי שפיר פסק לחיותיה ולא כשמעמיד החנות בצדו ודוק עכ\"ל גם בכנה\"ג בהגב\"י אות ט\"ו עמ\"ש הב\"י ונראה דאביאסף סובר דלא כר\"ה בריה דר\"י כו' כתב וז\"ל אבל מהר\"ם איסרלס ז\"ל בתשובה סימן ע' כתב דבברי היזקא כנדון המרדכי כ\"ע מודו דהלכה כרב הונא ובספר משאת בנימין סימן כ\"ז כתב דהיכא דבא השני לדחות הראשון לגמרי ולבטל אותו ממחייתו כענין החנות והארינד\"א שאין רשות אלא לאחד מבני העיר ובא השני והשיג גבול הראשון ודוחה אותו לגמרי כ\"ע מודו דמצי מעכב אפי' אבר מבואה דידיה וכ\"כ שארית יוסף סימן י\"ז ואע\"פ שרש\"ל (בתשו' סי' ל\"ו) לא כתב כן אפשר דהיינו דוקא כשקנה הראשון הארינד\"א לזמן קצוב עכ\"ל: והמעיין בתשובת מ\"ב שם יראה דלא מכח דברי אביאסף הנ\"ל כתב כן רק מסברא דנפשיה כתב לחלק בכך וכפי הנראה נידון דמשאת בנימין ברי היזיקא טפי טובא מנידון דאביאסף דהתם אף שיושב זה נגד זה הפתח מ\"מ אפשר שילכו הקונים גם להלאה ויקנו מהאחר אבל בנידון דהמ\"ב מדחהו לגמרי וקרוב לומר דבנד\"ז גם הב\"י מודה שיכול לעכב. ועיין בתשובת חתם סופר חח\"מ סימן קי\"ח ע\"ד ה' דיינים שהיה להם פרנסה מאדון אומן א' עושה ומבשל צוקר לי\"ט של פסח שהם היו נותנים לו ההכשר ועתה בא רב א' והשתדל בצירוף א' מן הדיינים הנ\"ל אצל האדון האומן לדחות את האחר ונשאל מה דינם של אלו. והאריך שם בדין יורד לאומנות חבירו ובדין עני המהפך בחררה ובסוף התשובה הזכיר דברי אביאסף הנ\"ל דאעיג דלא קיי\"ל כר\"ה היינו במבוי מפולש שיכולים הקונים לבא מצד אחר אבל במבוי סתום כו' וכתב דכן משמע מפירש\"י [ב\"ב כ\"א ע\"ב] גבי שאני דגים דיהבי סיירא מסיים אבל הכא מי שבא אצלך יקנה כו' משמע היכא שאינם באים כלל ופוסק חיותיה לגמרי כופין. דר\"ה מחשב גם זה לפיסוק חיותיה ולית הלכתא כוותיה דלא הוי פיסוק חיותיה אלא חולשת חיותיה דהרי אפשר שיבואו גם אליו לטחון. אבל היכא דבאמת פוסק חיותיה לגמרי מדבר זה מטחינת רחיים ופשוט אפילו יש לזה עוד אומנות אחרת או אפילו הוא עשיר גדול אנו דנין על חיותו הלז דרחיים הוא נפסק לגמרי מכל וכל (קצת בדומה לזה כתב הוא ז\"ל בחלק אה\"ע סימן קל\"א שהבאתי בפ\"ת לאה\"ע סי' ע' סק\"ב ע\"ש) הואיל והמבוי סתום וזה יושב בראש המבוי ברחים או תינוקות המשמיעים קול אשר כל העובר ישמע קול וילך לזה ולא להאחרון נמצא פוסק חיותו לגמרי בזה כופין כו' ונידון שלפנינו לפי הנראה פסקי' להאי חיותיה לגמרי שא\"א לומר השכר עצמך במקום אחר כי לא נמצא כזה במקומו והוא אחד ואין שני ונפיק חיותיה מהאי מלתא לגמרי ואפי' יהיה כהפקר מ\"מ לענין פוסק חיותא כי האי אין חילוק בין הפקר למו\"מ. ולא רציתי לדבר יותר כיון שאינו חפץ שילמדו מדברי לדינא בין הצדדים כו' עכ\"ד ע\"ש ושם בסימן ס\"א עובדא כיוצא בזה אודות נער א' שהחזיק לקנב בשר במקולין קרוב לג' שנים ואירע שנסע לקהלה סמיכה על יו\"ט ונתעכב שם וכשראה הערל הממונה על המכס כי בושש לבא פתח חנותו של הנער בחזקה והושיב בו א' מבעלי בתים לא יתנזק מנס המלך ובשוב הנער אל ביתו לא רצה הבע\"ב הלז להניח אומנות הקצבים וא\"א שיקצבו שניהם במקום הזה כי יפסידו זה על זה ויתנזק מכס המלך והנער טוען כי כבר החזיק באומנות זה והוא יורד עתה לחייו והבע\"ב טוען כי אין מקום לנער שיקצוב במקום שיש בע\"ב הרוצה בזה ומה שהחזיק אינו כלום כי איזה אנשים מיחו בידו כו' והשיב באריכות והביא שם תשובת חו\"י סי' מ\"ב באמצע התשובה שכתב יורד לתוך אומנות חבירו קיי\"ל דמותר לכתחלה אם לא בבר מתא אחריתי וראיה חזקה מהא דאיתא פ' אלו הן הלוקין בא דוד והעמידן על י\"א כו' ומפרש שם כולהו במידי חסידות ובתוכם לא עשה לרעהו רעה שלא ירד לאומנת חבירו מכלל דשרי רק לצנועים ופרושים כו' והא ז\"ל תמה עליו דמוכח בהיפך מפרש\"י ב\"מ (דף ע\"א) בד\"ה יורד עמו לחייו וגם ממקומו נמי מוכרע שאלו הי\"א דחשיב בפ' אלו הן הלוקין שם הם החמורים שבתרי\"ג כו' אך נראה שיש חילוק בזה דודאי בר מתא בר מתא דידיה היכי שאינו מדחהו לגמרי אפי' לכתחלה מותר ואין זה נקרא כלל יורד לתוך אומנות חבירו שהרי כ' הפוסקים טעמא דבר מתא אינו מעכב אבר מתא משום שזה עושה בתוך שלו וזה עושה בתוך שלו (אגב שיטפא לא דק בלשונו וכתב שהרי כ' הפוסקים כו' ובאמת זה הטעם איתא בברייתא ב\"ב כ\"ח ע\"ב) וא\"כ לא מקרי יורד לאומנת חבירו אך בכעין נ\"ד שע\"י שיורד לאומנתו מדחהו לגמרי שא\"א שיקצבו שניהם זהו יורד לאומנת חבירו ממש ועל זה אמרו שהוא מכלל מה שהעמיד דוד כל התורה עליהם והוא מהחמורות ומזה איירי נמי רש\"י בב\"מ הנ\"ל ומצאתי לי רב בכנה\"ג סי' קנ\"ו בטור אות י\"ב עמ\"ש הטור אבל אם הוא מזאת העיר א\"י לעכב עליו כתב וז\"ל ודוקא בכגון זה שיכול לומר אתה עושה בתוך שלך ואני עוש' בתוך שלי אבל ברוצה ליכנס לתוך גבולו ולדחותו ממחיצתו שהחזיק בה כמה שנים פשיטא דלא כל כמיניה מורי זקני הרב בתשובה נ\"כ עכ\"ל ופשיטא דנ\"ד גרע מדחייה ממחיצתו שיכול לשכור לו חנות במקום אחר משא\"כ בנ\"ד שנדחה לגמרי מלקצב בעיר הזאת (קצת צ\"ע למה לא הביא מדברי אביאסף הנ\"ל כמו בסי' קי\"ח הנ\"ל וגם על הכנה\"ג תימה שתלה הוראה זו בזקינו הרב ז\"ל ולא הזכיר שהם דברי א\"א ותשובת מ\"ב וש\"י כמ\"ש הוא עצמו בהגב\"י אות ט\"ו הנ\"ל) ופשוט נמי דמ\"ש כנה\"ג שהחזיק בה כמה שנים לאו דוקא כיון דבר מתא הוא אפי' החזיק בה יום א' מי יכול לדחותו כו'. וכתב עוד אמנם מה שטוען הבע\"ב כי אין מקום לנער שיקצוב במקום שיש בעל אשה ובנים הרוצה בזה נ\"ל טענה נכונה מאחר שידוע חק המלך דמטיל הכרגא רק על בעל אשה ובנים וכן מעמיסים עליהם מעות צדקה ופרנסת הרב ומשועבדים וכדומה ולא על הנערים כ\"א נוטלים מידם מעט כפי שיעור עסקם כפי ראות עיני הגובה א\"כ הני נערים כיון שהמלך לא קיבלם לכרגא שלו אע\"פ שנולדו פה בעיר מ\"מ לענין מו\"מ דין בני מתא אחרת להם כו' ואף שלא ראיתי מי שמוחה בידם לסחור ולסבב על פתחי הקונים ולהפסיד על בעלי בתים אולי הוא משום דבלא\"ה איכא סוחרי עו\"ג וגם בני ישראל ממתא אחריתי ואין בידינו לכופם לכן אין למחות בידם ג\"כ כו' אך בנ ד במקולין שאין יכול לעסוק בזה כ\"א אחד מאנשי העירב ודאי לא נכון לעשות כזה שהנער יקצוב אם יש בע\"ב הרוצה בזה ואע\"פ שכבר החזיק בזה לאי מהני ליה מידי חדא שלא החזיק ג' שנים ועוד שלא היה בשופי ועוד דאין מחזיקים בשל רבים כו' עכ\"ד והאריך בזה ובענין שאר טענות שהיה ביניהם ויובא קצת לקמן סי' קס\"ג ס\"א ס\"ק א'. ועיין עוד בתשובה הנ\"ל סי' ע\"ט קונטרוס ארוך בדיני יורד לאומנת חבירו ועני המהפך בחררה והזכיר שם דמהרש\"ל בתשובה סי' ל\"ו (וכן בתשובת מ\"ב סי' כ\"ז) חלק דינים אלו לארבעה ראשים והוא ז\"ל נתן בהם סימנים. מהפך מונח טרחא פסיק. פי' מהפך הוא דין עני המהפך בחררה דלקמן סי' רל\"ז. מונח הוא מציאה והפקר דפליגי בזה רש\"י ור\"ת אי שייך ביה דין עני המהפך ע' ברמ\"א שם. טירחא הוא אם טרח האחד בדבר מה אסור לשני ליקח אותו דבר ואם לקח הוי גזל מדבריהם ואפילו בדבר הפקר כהא דתנן בסוף הניזקין עני המנקף בראש הזית כו'. פסיק הוא דין יורד לאומנת חבירו ופסיק לחיותיה המוזכר כאן ושם האריך בכל פרט ופרט ושוב הביא דברי אביאסף הנ\"ל וקבע בהם מסמורות עש\"ה. ועיין בתשובת מאמר מרדכי סי' ע\"ט בעיר אחת שיש שם ראטהויז השייך לשר העיר ויש בו י\"ב חנויות פתוחות לרחוב ששה לצד מזרח וששה לצד צפון וכל החניות האלו שייכים ליהודים ועתה רוצה זה שיש לו חנות בקצה המזרח לפתוח לו פתח גם לעבר הצפוני והנה זה היושב ראשונה בעבר הצפוני מעכב עליו באומרו שמעיקרא היה ראשון ועכשיו נעשה שני ומגיע לו היזק מזה וגם כל היושבין בעבר ההוא מעכבין מטעם זה. והאריך שם בדברי אביאסף הנ\"ל ומסיק דבנדון זה גם אביאסף מודה ורשות בידו לפתוח לו פתח לעבר הצפוני ואין יכולים לעכב בידו ע\"ש. ועיין בתשובת בית שמואל אחרון חח\"מ סי' ו' בסופו שאלה כיוצא בזה בעיר אחת שהיו בה חנויות ישנים ועשו כמה מאנשי העיר חנויות חדשים אשר מי שצריך לילך מהבתים אל החנויות ישנים צריך לעבור לפני חנויות החדשים ותבעו בעלי חנויות ישנים את בעלי חנויות החדשים שהמה מפסידין להם פרנסתם כי בשעה שעוברין לפני חנויות חדשים יקנו שמה והזכיר שם דרב אחד הורה שהחנויות ישנים יכולין לעכב ותלה עצמו בתשובת רמ\"א הנ\"ל ורב אחד חלק עליו והוא זכרונו לברכה האריך שהדין עם בעלי חנויות החדשים ואין בעלי חנויות ישנים יכולים לעכב עליהם וכל דלא דאין הכי לאו דיינא הוא והסכים עמי הרב הגאון מוה\"ר משה שלמה זלמן ז\"ל אב\"ד קראקא עיין שם. גם בתשובת בית אפרים חח\"מ סי' כ\"ו וכ\"ז קונטרס ארוך על נידון זה והסכים ג\"כ שהדין עם בעלי חנויות החדשים וכתב דכך עמא דבר ומעולם לא שמענו למחות במי שבונה לו בית באיזה מקום בעיר שהוא יותר מוכשר לפרנסת אכסניא אע\"פ שהוא בונה אצל שערי העיר או בגובהה של עיר שהכל עוברים דרך עליה ואין מוחה בידם לומר דמפסיק לחיותא אם לא כשאחד בא לגור במקומות שנוהגין חזקת ישוב כו' ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 156:3"
+        },
+        "4": {
+          "he": "יש להם למונעו.  ע' בתשובת נחלת שבעה ח\"ב סי' ב' שכ' דהא דבר מתא אבר מתא אחרית' מצי מעכב היינו אם אין לאחד מבני הישוב הנאה ממנו אבל אם אותו בר מתא אחריתא עושה שותפות עם א' מבני הישוב אינם יכולים למחות כו' ואף לפ\"מ שנהגו במקצת קהלות שתיקנו שלא יעשה א' מבני הקהלה שותפות עם הנכרי שאינו מבני הישוב היינו כשיש לו למצא שותף בקהלתו אבל אם א' מבני הישוב אין ידו משגת לסחור בלא שותף ואי אפשר להשיג מי שנותן לו עיסקא תוך הקהלה פשיטא שאין זה מנהג ותיקון לעשות תקנה שלא לקבל עיסקא מן הנכרי וע\"י כן זה שמבני הקהלה ימות ברעב וא\"כ ה\"ה (בנדון דשם זה) המשא ומתן של הפרנקי\"ן אי אפשר לראובן ושמעון לקבל סרסרות מבני הישוב רק שהפרנקין קונים שוורים פטומים ונותני' להם סרסרות מי ימחה בידם כו' ואף אם לפעמים קונים גם בהמות בינונית הראויים לשחוט שם בהישוב מ\"מ גם ראובן ושמעון הם מבני הישוב בו יהא שהם היו קונים הבהמה לשחיטה והרויחו בה ערך מה שירויחו בסרסרות כו' אכן נ\"ל בזה הדין עם יושבי הישוב אם הפרנקין קוני' בהמה הראויה לשחיטה מחוייב הסרסור לשאול את פי בני הישב אם רוצים לקנותה לשחיטה וליתן לו הסרסרות הראוי לו אם הבהמה תוך הישוב אבל אם הבהמה חוץ לישוב גם זה אין הסרסור מחוייב כו' ע\"ש עוד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 156:4"
+        },
+        "5": {
+          "he": "שיתן מס למושל העיר הזאת.  עיין בתשובת נחלת שבעה ח\"ב סימן ג' חילוקים בזה ע\"ש היטב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 156:5"
+        },
+        "6": {
+          "he": "ת\"ח המביא כו' למנוע לכל אדם למכור.  ע' בכנה\"ג בהגה\"ט אות נ\"ה שהביא בשם הרמ\"א בתשובה סי' ט' שכתב כיון דאם שניהם ישראלים דינא הכי גם כשהמוכר עובד כוכבים אנו צריכין לגדור גדר שלא יקנה שום יהודי מהעובד כוכבים (שם בתשו' רמ\"א בד\"ה היסוד השלישי כ' עוד דאפי' אם זה היהודי שהביא סחורה למכור אינו ת\"ח מ\"מ זכה בדין שלא לקנות אותו סחורה מהעובד כוכבים מצד הא דאית' בתו\"כ פ' בהר וכי תמכרו ממכר לעמיתך או קנה וגו' נמדה תורה דאם באתה לקנות קנה מיד עמיתך וכן למכירה כו' וזהו אפי' כשהעובד כוכבים מוזיל גביה דאם בשווין ל\"צ קרא כו' ע\"ש ואיני יודע למה השמיטו הכנה\"ג וע' בתשו' ח\"ס חח\"מ סי' קל\"ד הזכיר שם ג\"כ הדרש זה ע\"ש) והוא ז\"ל כ' דלכאורה קשה על זה מדברי הרמ\"ה שהביא הטור והרמ\"א כאן בסמוך שכ' ואי איכ' עובדי כוכבים דמזבני דליכ' רווחא לת\"ח מותר כל אדם למכור ואם איתא הרי אלו יכולין לתקן שלא יקנו מהעובדי כוכבים אך באמת לק\"מ דדינ' דהרמ\"ה הוא בסחורה שיכולין לקנותו בין עובד כוכבים בין ישראלים ולכן אין בידנו לתקן כשנא' שלא יקנו ישראלים ממנו דמ\"מ יקנו העובדי כוכבים ונמצ' אנו מפסידים לישראלים שאינם מוכרים סחורתם והת\"ח לית ליה רווחא אבל בנדון הרמ\"א בתשובה שם מיירי גבי ספרים שאינם אלא לישראלים שפיר יכולין נתקן שלא יקנה ישראל מהעובד כוכבים עד שמכר הת\"ח עכ\"ד וע' בתשו' חתם סופר חח\"מ ס\"ס ע\"ט שכ' ג\"כ לחלק בכך (וכפי הנראה לא דברי כנה\"ג הנ\"ל) אך בדבריו מבואר דדינ' דהרמ\"ה דאי איכ' עובדי כוכבים דמזבני כו' מיירי דוקא היכא שעיקר המשא ומתן והריוח הוא מקונים עובדי כוכבים וקוני ישראל הם מיעוט' דמיעוט' והתלמיד חכם שפתח חנותו אדעת' דקוני עובדי כוכבים פתח משום הכי אמרינן כיון דעיקר הריוח הוא מקוני עובדי כוכבים ואדעת' דידהו הביא סחורתו משום רווחא פורת' מקוני ישראל לא נפסיד הפסד רב לסוחרי ישראל כו' ע\"ש. ומשמע היכי דכי הדדי נינהו י\"ל דצריכין למינקט שוקא לת\"ח וגם לגזור שלא יקנו ישראל מהעו\"כ דאז יהיה לו רווחא לת\"ח במה שקוני ישראל יקנו ממנו ולא משארי ישראלים ואפשר דגם הכנה\"ג כוונתו כך וצ\"ע:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 156:6"
+        },
+        "7": {
+          "he": "אדם שיש לו עובד כוכבים מערופיא כו'.  ע' בתשובת חות יאיר סי' מ\"ב במעשה שראובן מכר סוסים של שר א' בעד סך עצום ואותו הממון נשאר ביד ראובן מדעת השר שא\"ל שיקנה לו בעד אותן הדמים סוסים אחרים מובחרים וזה כמה פעמים חקר ודרש ראובן זה אחר סוסים ולא עלה בידו כהוגן ובתוך כך הלך שמעון עם סוסים אל השר ומכר לו כרצונו והשר נתן לו כתב שיקח המעות מיד ראובן ועתה טוען ראובן שיש לו תביעה על שמעון מדין מטרופיא ושמעון השיב שהשר שלח אליו ופסק שם דשמעון פטר מכל תביעת ראובן הנ\"ל ואפילו רשע לא מקרי כדין עני המהפך בחררה חדא דהוי דבר שלא בא לעולם ולא פסיקא שיבא ועוד דאפי' היה לראובן סוסים וכבר נשא ונתן עם השר במכירתם ולא היה מחוסר רק פסיקת דמים ותוך כך בא שמעון ומכר לו לא מקרי רשע כמ\"ש בסי' רצ\"ז בהגה כו' מ\"ש תשובה ארוכה בדיני מערופיא ועני המהפך. ושם האריך לתמוה על רש\"ל בתשובה שכ' שדעת הדנין דין מערופי' ר\"ל אף להוצי' בדיינים שזה אינו רק ר\"ל שאם בא א' לקולא על חבירו שלקח אוסרין אותו על חבירו בעונש ובקנס בתוקף גזרת ב\"ד כו' ולפ\"ז מ\"ש הרמ\"א בסמוך מיהו אם עבר ועשה אין מוציאין מידו אכל מ\"ש לפניו קאי כו' וע' בתשו' ח\"ס חח\"מ סי' ס\"א כ' שם בקצרה דמ\"ש בתשו' חו\"י סימן מ\"ב לסתור דברי מהרש\"ל בתשו' סי' ל\"ו ראיתיו נכונים ודבריו ישרים. אך מ\"ש החו\"י שם באמצע התשו' וממוצא דבר יצא לנו יורד לתוך אומנות חבירו קיי\"ל דמותר לכתחלה אם לא בבר מתא אחריתי כו' האריך שם להשיג עליו בזה כמו שהבאתי בשמו לעיל ס\"ק ג'. עוד כ' שם במ\"ש הרמ\"א כאן ואפי' ישראל כו' ורגיל בכך כו' אף דביו\"ד סי' רכ\"ו מבואר דרגיל הוי בב' פעמים וכן נ\"נ גבי עירובי חבשילין בא\"ח סי' תקנ\"ד (ועמ\"ש בפ\"ח לא\"ה סימן קט\"ו) מ\"מ בדין מערופיא רגיל הנאמר בו אינו כן אם לא שזה יניקתו ומחייתו תדיר שזה ביאר שם מערופיא לשון יערפו טל ויערוף כמטר ע\"ש עוד בסי' מ\"ג ומ\"ה מענין זה. וע\"ש עוד בסי' קס\"ג אודות חבורה של מוכרי כסות בראותם שנתרבה ביניהם השגת גבול בענין המכירה והיה תמיד דו\"ד ומריבות רצו להסכים יחד להתיר ביניהם השגת גבול ולמחול זל\"ז הפסד ממון שגרם לו חבירו ושאלו אם בכחם לעשות זה ואם יצאו ידי שמים בכך והאריך שם דחלילה לעשות כן הן מצד המוסר זו קשה מן הראשונה דבלי ספק ע\"י שיעשה להם היתר תגדל המריבה וחילול השם ואם יעשה לזמן בלי ספק יעבור זמן המוגבל וישאר ההרגל בלי תרופה גם פן ילמדו מהם במקומות אחרים ויהיו חוטאים ומחטיאים וגם מצד הדין אין זה מספיק כלל וכן כל המוחלים זה לזה לעשות מעשה שאסרה תורה כגון גניבה ואונאה והשגת גבול מלבד דלא ינקה מדין שמים מצד שהוא נגד ישוב העולם גם בדיני אדם אינו מועיל כלל ואף אם כל א' מבני החבורה יקבלו קנין על זה אין הקנין חל כלל חדא דהוי דבר שאין לו קצבה ואומדנ' כלל (עמ\"ש בסי' ר\"ט ס\"ב סק\"ב ובסי' רכ\"ז סעיף ז' סק\"ב) ועוד דהוי דבר שלב\"ל ע\"ש באריכות:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 156:7"
+        },
+        "8": {
+          "he": "והאחד רוצה להוזיל כו' אין חבירו יכול למחות בו.  עיין בתשו אא\"ז פמ\"א ח\"א סי' ע\"ח אודות מחזיקי ארענדי\"ש שהחזיקו שני כפרים בתחום אחד כל א' משר אחד ורוצה אחר למכור משקה י\"ש ושכר בזול יותר ממה שנקבע השער במדינה והשני מוחה בידו באמרו כי הוא גורם לו היזק שעי\"ז מרגיל לבא אצלו אנשי הכפר שלו לשתות שם. והשיב דנראה דאפי' בעיר ובשכונת ישראל שהלוקחים נהנים אפ\"ה יכולים שאר מוכרי שכר ויי\"ש לעכב על זה וראיה דאמרי' פ' הזהב ולא יפחות השער וחכ\"א זכור לטוב מ\"ט דרבנן משום דקא מרווח לתרע' ופרש\"י דאוצרי פירות יראו שהוזלו וימכרו בזול ומדפריך מ\"ט דרבנן והלא הטעם הוא פשוט בשביל שמהנה הלוקחים ישראל ולכך נקטי לשון ברכה זכור לטוב אלא ע\"כ דלא משגחינן בטובת הלוקחים כיון דאיכ' פסיד' למוכרים וכבר יצא השער והוא חק המדינה להתנות על השערים והוי כדינ' דמלכות' ולכך הוצרכו ליתן טעם שע\"י זה ישתנה השער וא\"כ זה דוקא במכירת פירות ותבואה כשיראו אוצרי פירות שהוזלו יביאו כל פירותיהם למכור וישתנה השער אבל במכירת השכר מ\"מ ע\"י זה לא ימכרו בזול התבואה כו' ופשיט' בנ\"ד שהלוקחים הם עו\"כ דודאי יכול לעכב ואף שבהלואת הרבית לעו\"כ כתב הרמ\"א בסימן קנ\"ו דאם אחד רוצה להוזיל אין חבירו יכול למחות שאני רבית דאין שער ידוע לרבית ורשאי כל אחד לוותר קצת כדי שירגיל העו\"כ אצלו דומי' דרשאי החנוני לחלק קליות ואגוזים כו' ובפרט במכירת שכר וי\"ש שהוא מחק המלכות ואין התבואה נמכרת בזול מחמת שהוא מוכר בזול השכר נראה ברור דשארי המוכרים יכולים למחות בידו כו' אכן נראה באם שהוא עושה שכר טוב יותר מחבירו שדרך העולם לוקח מן מדה תבואה ג' מדות שכר והוא לוקח שני מדות וחצי וע\"י זה מרגיל אצלו נראה דשפיר דמי ודמיא לההיא מתני' דאמר ליה אנא מפליגנ' אמגיזי כו' עכ\"ד ע\"ש. ועיין בתשובת חתם סופר חח\"מ סי' קע\"ה שאלה כיוצא בזה (ומבואר מדבריו שהוא ז\"ל מחמיר יותר דאפי' בלא זלזול אינו רשאי למכור לבני כפר אחר) נידון ישראל ששכר אורענד' מהשר וציוה השר והטיל על כל יושבי תחתיו שלא לקנות משקים כ\"א מהשוכר שלו כי ע\"ד כן שכר ארעדנא מהשר ויש יהודי אחר ששכר ג\"כ אורענדא משר אחר והכפריים באים אליו וקונים ממנו בחשאי ומפסיד ליהודי ששכר אורעדנא הנ\"ל אלא שהשני לא הסית הכפרים רק ממילא באים אליו אי עביד איסורא או לא. והשיב הנה אי מחלק להו להקונים קליות ואגוזים או מוזיל להו להמשיך הכפריים הקונים אצלו אין ספק דאיסור' עביד ובהא לא פליגי ר' יהודה ורבנן במתני' ב\"מ ס' ע\"א אמנם אי ליכא כל אלה נראה לכאורה מטעם מערופיא ליכא כיון שלא השכים לפתחם אלא הם משכימים לפתחו לקנות ממנו אינו מחוייב לדחותם דלא מקרי נכנס למערופיא של חבירו כמ\"ש סמ\"ע סימן שפ\"ו סק\"י אע\"ג דהתם בעובדא דיליה ליכא הפסד קרן לישראל הראשין כ\"א מניעת ריוח והכא שזה קנה האורענדא מהשר ופורע מס על זה נמצא מפסיד לו קרנו מ\"מ אין זה בכלל מערופיא של חבירו כו' אבל מטעם אחר נראה למחות דהרי דינא דמלכות' דינא והשר גזר על הדרים תחת ממשלתו והוא בכלל מס שלו שלא יהיה רשאים לקנות שום משקה כ\"א מזה ששכר האורענדא ממנו והעובר על זה גונב את השוכר שעומד במקום השר כו' ואם כן זה המוכר להכפרי שתחת השר השני ה\"ל כמושיט אמה\"ח לב\"נ היכא דלא קיימי בתרי עברי נהרא ויש למחות בידו ככל חולק עם גנב והשומע יתברך עכ\"ד ע\"ש וע' עוד בתשובת בית אפרים חח\"מ סימן כ\"ז דף מ\"ג ע\"א וגם בס' משנת דר' אליעזר מ\"ש בענין זה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 156:8"
+        },
+        "9": {
+          "he": "מלמכור על יד על יד.  ע' בכה\"ג בהגה\"ט אות כ\"ה שכ' הא דיכולין לעכב דוקא למכור אבל לקנות א\"י למנעם הרשד\"ם חי\"ד סימן קכ\"ב ובחלק ח\"מ סי' שס\"ג. ומשפט צדק ח\"ב סי' ע\"ח מפקפק בזה. ומשפטי שמואל סי' מ\"ט חולק. ואפשר דאם מתרבה המס בשביל האורחים הבאים לקנות יודה הרשד\"ם שיכולין לעכב על ידם כו'. וכ' עוד בחות כ\"ח יש מי שסובר דהא דאם מוכרין בבת אחת אינן יכולין לעכב היינו דוקא כשבני העיר מוכרין שלא בבת אחת אבל אם גם בני העיר מוכרין בב\"א יכולין לעכב אבל מהר\"ם מטאלון ומשפטי שמואל סי' מ\"ט כתבו דלא שנא ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 156:9"
+        },
+        "10": {
+          "he": "והוא שימכרו בשוק.  ע' באר הגולה אות ב' שכ' דבגמ' משמע וימכור דוקא להנקבצים שמה אבל לא לבני אותו מקום וכ\"נ מדברי הרי\"ף והרא\"ש והתוס' שם וכ\"כ הב\"ח בשם הגמ\"י ושהכי נקטינן עכ\"ל אכן בסמ\"ע סק\"כ לא כתב כן אלא דאפי' למכור לבני העיר הותר בשוק ודוקא בהלואה הוא דאסרו להלוות אפי' על השוק לבני העיר כו' והעתיקו ג\"כ בנה\"מ ע\"ש ואפשר לומר דגם הב\"ח לא קאמר אלא לפי מה שפי' הוא ז\"ל מקודם דיום השוק היינו סתם שוק שהוא יום א' בשבוע (ע' לעיל סי' קמ\"ג בסמ\"ע סק\"ג) אבל בשוק גדול דהיינו בירידים דרובא דרובא גם מעלמא גם הב\"ח מודה דמותר למכור אפילו לבני אותו מקום ומכ\"ש דמותר למכור בסתמא וא\"נ לחקור על זה אם הוא מבני אותו עיר או לא וע' בב\"י ובפרישה מזה. ועיין בתשובת בית אפרים חת\"מ ס\"ס כ\"ז כתב דבר ידוע ומפורסם שהמוכרים הבאים ממקומות אחרים על היריד הם בוררים להם מקום מוכשר בגובהה של עיר מקום הראוי לגאול ביפה ואין מקפידין עליהם כיון שהוא יום השוק מעלמא אתו ולעלמא קא מזבני ואף שיש בתוכם מבני העיר ג\"כ בתר רובא אזלינן דמעלמא אתו כו' ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 156:10"
+        },
+        "11": {
+          "he": "אבל אם נותנין יותר בזול.  עי' בב\"י מבואר שדעת הר\"י הלוי דאפי' מוזלי פורתא לא מצי מעכבי ודלא כהנ\"י שכ' שדעת הרב דוקא בזול גדול כו' ע\"ש וכ\"כ בתשובת נ\"ש ח\"ב סי' ב' עש\"ה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 156:11"
+        },
+        "12": {
+          "he": "יותר טובה.  עבה\"ט עד והעלהו בצ\"ע וע' בתשו' נ\"ש ח\"ב ס\"ס ג' שכ' לדינא פשוט דאין יכולין למחות דלא עדיף מאילו היה אבעיא בגמ' ועלתה בתיקו דקיי\"ל דכל תיקו דממונא חומרא לתובע וקולא לנתבע ולא מצי מעכב כו' ע\"ש עוד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 156:12"
+        },
+        "13": {
+          "he": "אבל בשביל עובדי כוכבים הנהנים לא.  עיין בתשובת חוט השני סי' ס\"א שכ' דאפי' אם העובדי כוכבים פותחים מעצמם ומבקשים לבר מתא אחריתא שיביא סחורות לביתם לא מהני ואסור לו להביא אצלם ויש להזהירו שלא לעשות כן ואם לא ישמע רמינן גודא רבה ושדינן ביה וכל טצדקי דאפשר למיעבד להרחיקו מעל לגבול בכל הנגישות עברינן ליה. וע\"ש עוד בענין היכא דבר מתא אחריתא אמר שמכאן ואילך לא יעסוק עוד בעירם והקהל אמרו קדרה דבו שותפי הוא מי ממנו ישום אורב עליך אלא תקבל בחרס ואז נהיה בטוחים שלא תמעול בחרם ועלה על דעת הרב השואל שהדין עם הקהל והיא ז\"ל כתב שזה אינו רק הדין עם הנתבע משום דקיי\"ל כר' יוסי דבכל מקום שאין ההיזק בשעת מעשה על הניזק להרחיק עצמו כ\"ש במקום שאין רואין עדיין מעשה שיבא ממנו היזק אלא מדאגה מדבר אולי יזיקנו באיזה זמן אומרים לזה הירא ודואג שמור עצמך שלא יזיקך ואם תרא' שיבא להזיקך קפח את שוקיו אבל לא מחייבינן לחבירו שיעשהו בטחון על זה והאריך בזה ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 156:13"
+        },
+        "14": {
+          "he": "וכפי מעט עסקן שנו\"נ ישאו בעול.  עיין בתשיבת חות יאיר סי' ק\"פ אודות קהלה אחת שתבעו מסים לי\"ב בע\"ב בני הכפרים שדרו בעירם כמה שנים מפני תרועת מלחמה ונו\"נ שם ולקחו דיינים בזבל\"א וזבל\"א ועשו פשר ביניהם שיתנו יחד מאתים זהו' ויפטרו עד היום ואח\"כ נתאספו יחד י\"ב בני הכפרים הנ\"ל ועשו ביניהם ערכות ג\"כ ע\"פ הדיינים הנ\"ל מה יתן כל א' מהם כי קצתם הרויחו מאד ועלו וקצתם ירדו ונעשו עניים ובקשו בני הקהלה לגבות עכ\"פ סך הנ\"ל מהם ולכפות ולנגוש קצתן גם בשביל חביריהם העניים עד שיבא לידם סך הנ\"ל וכ' דנראה דע\"פ הדין א\"א להם לעשות זה דלא דמיין לבני הקהלה דחיייבים להקהל אחר דקיי\"ל דבני הקהלה ה\"ל כשותפין שלוו לצורך שותפות וה\"ל דין ערבים לכל דבר כו' משא\"כ אלה הצאן אשר מפני הצר נאספו אל אחד מן העיירות מה עשו בחברותא דנימא שנעשו שותפים וערבים בעד רעיהם שאין להם וכ\"ש לעשותם קבלנים שנתפס קצתם על קצתם ואם נתחברו יחד במשפט הנ\"ל אינו רק מפני שמשפט א' לכולם ולכן גם הפשר עלה בדרך כלל מה יתנו יחד אבל לא לעשותם ערבים או קבלנים כו' ונ\"ל עוד דאפילו דייני דמעיקרא דזבל\"א וזבל\"א שעשו פשר ביניהם אע\"פ שיש בכחם לעשות חיזוקים לאשר ולקיים הפשר מ\"מ זה אין בכחם מבלעדי דעתם ורצונם בפירוש שיהיו ערבים וכ\"ש קבלנים כי לא היה הקנין רק ליתן כל א' מה שחייב בעדו כפי שיאמרו לא לפרוע בעד חבירו עכ\"ד:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 156:14"
+        },
+        "15": {
+          "he": "אלא אומרים להם תנו כך וכך וכו'.  עיין בס' עטרת צבי ובס' מאמר קדישין ס\"ק כ\"ח שכ' וז\"ל אודות המנהג במדינת וואלין לעשות גאביל\"ה על האורחים הבאים למכור או לסחור ולפי תשובת הרשב\"א משמע דינהגו כפי מנהג אבותם אבל מכל האחרונים ומכמה שו\"ת משמע שאיסור גדול בזה ואפילו המתקנים הגאבילה לחברת ת\"ת או לשאר צדקה כ' מהרש\"ך דאין זה צדקה אלא צעקה ובפרט שעלה במוסכם המדינה מחדש שלא ליקח הגאבילה וע' בחקי משפט שהביא בשם כה\"ג שמאררין ומקללין ע\"ז ולהשומע יונעם עכ\"ל ובאמת בכנה\"ג בהגב\"י אות מ\"א מבואר דלא פסיקא ליה מלתא בזה רק שהביא שם מחלוקת אחרונים בזה וכמה תשובות מתירין לתקן גאבילה ובסוף כתב וז\"ל וזה. י\"ג שנה נועצי לב יחדיו אנשי תירא לעשות גאבילה בעד האורחים להיותם עמוסי התלאות ממסים וארנוניות והם מתי מספר ומחמת האורחים נמשך נזק לתושבי העיר שהבאים לגבות מנת המלך חושבים שכולם הם אזרחי הארץ ובעבור זה מתרבה המס ולכן הסכימו כל אנשי תירא לתקן הגאבילה בכח חרם ושיתן דמי הגביה לחברת ת\"ת והחכמים שבאזמיר חשבו לבטל עצתם ולא עלה בידם ואז יצאתי לעזרת ק\"ק תירא והסכימו גם רבני קושט' להעמיד הגאבילה מכמה טעמים כו' עכ\"ל ע\"ש. ופשוט דבמקום שיש דינא דמלכות' על ככה אין שום ספק בדבר. ועיין בתשובת דברי ריבות סי' ת\"א בראובן תושב קושטאנטינא ושמעון תושב סאלוניקי עשו שותפות יחד בכל הסחורות רווחים והפסדות לחצאין ובא המוכס סאלוניקי ותבע מכס מן חלק ראובן תושב קושטאנטינא והשיב שמעון אני קבלתי אחריות הסחורה משעת לקיחה עד שיצאו חוץ למדינה הרי הסחורות שלי ואני פטור כיון שאני תושב העיר ופסק כיון שהסחורה היא של תושב קושטאנטינא לא יצא מרשותו אע\"ג דתושב סאלוניקי קבל עליו אחריות ולכן חייב לשלם המכס מחלקו ע\"ש וע' בתשובת צ\"צ סימן ל\"א אודות ראובן תושב דרעזניץ שקנה עורות מן שמעון תושב גידונג ופרע כל דמיהן וקנה אותן כדין בהגבהה והתנה בשעת המקח ששמעון המוכר מחוייב להעמיד העורות על הוצאתו ועל אחריותו לדרעזניץ ובא היהודי המחזיק את המכס בגידונג ותובע מכס מהעורות ושמעון המוכר אומר כיון שהוא חייב להעמידן על הוצאתו ואחריותו ולא יצאו עדיין מרשותו והרי הם כשלו ופטור מליתן מכס מדינא דמלכות' כיון שהוא תושב העיר והביא שם תשובת דברי ריבות הנ\"ל וכ' דראיותיו שם מהרמב\"ם פ\"ז ממכירה אינן מוכרחין כ\"כ מ\"מ הדין דין אמת כיון שעיקר המעות הוא של תושב עיר אחרת ולא יצא מרשותו אע\"פ שתושב עיר הזאת קבל אחריות עליו ולכן לא מבעיא בנידון דברי ריבות הנ\"ל שגוף הממון הוא של תושב קושטאנטינא מעולם ואין זה עליו אלא נפקד רק שקבל אחריות עליו ודאי דלא מקרי שלו אלא אפילו כמו בנ\"ד שהעורות היו מעולם של שמעון תושב גידניג אלא שעכשיו קנה ממנו ראובן תושב דרעזניץ ואחריות כשאר על המוכר נמי לא מקרי של המוכר להפטר מן המכס אפילו אם המוכר לא קבל עדיין המעות מהלוקח רק שקנה כדין בהגבהה או במשיכה. אולם אם הלוקח לא עשה לא הגבהה ולא משיכה אלא שעשה מקח עם המוכר על העורות ונתחייבו בקנס ועשו בטחונות המועילים כדי לקיים המקח ואחריות נשאר על המוכר לא מקרי של הלוקח אלא של המוכר כיון שלא נקנה המקח ללוקח מן הדין שהרי לא משך ולא הגביה ומה שצריכים לקיים המקח אינן אלא מצד הקנס והבטחון לא יצאו העורות מרשות המוכר ופטור מליתן מכס כיון שהוא תושב העיר עכ\"ד ע\"ש ומשמע דוקא שקנה בהגבהה או משיכה וה\"ה בק\"ס אבל ע\"י כסף אף שחייב לקבל מי שפרע לא הוי רק כמו חיוב קנס ועמ\"ש בפ\"ח לאה\"ע סי' כ\"ח סק\"א.",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 156:15"
+        },
+        "16": {
+          "he": "דיוכל אדם לדור בכ\"מ שירצה.  עיין בתשובת חמדת שלמה חא\"ח סי' ז' שכ' על נדון דידיה וז\"ל רק שאני מסתפק בדברים המיוחדים לאותו עיר כמו בהכ\"נ ומרחץ ובה\"ק נראה דמצד הדין יכולים לעכב עליו ואפילו שייך בכרגא דהכא וצ\"ע על הטור והרא\"ש שכתבו בסתם דמצד הדין יכול לדור בכ\"מ שירצה ולא הזכירו מזה כלום וגם באחרונים לא העירו בזה וצ\"ע עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 156:16"
+        },
+        "17": {
+          "he": "ולכ\"ע אם בני העיר יכולים לסגור הדלת כו'.  ע' בב\"י בבדק הבית שחולק על זה וכ' דבריו תמוהים בעיני כו' עד דמלאכת שמים היא ואין משוא פנים בדבר ע\"ש גם בתשו' מבי\"ט ח\"ג סי' ל\"א האריך לתמוה על מהרי\"ק בזה ע\"ש וע' בב\"ח שכ' ולפע\"ד נראה דהכל לפי המלכות ומנהג המדינה כו' ותשובת מהרי\"ק איננה צודקת אלא במלכות שהיה יושב שם ולאותן הימים כו' ע\"ש וע' כנה\"ג בהגב\"י אות מ\"ה ומ\"ז מענין זה. ועיין בס' יד שאול מהגאון אב\"ד דק\"ק לבוב ביו\"ד ס\"ס רמ\"ה דמעשה היה בעיר גדולה שבאו מלמדים מקומות אחרים ורצו המלמדים שבעיר לגרשם ע\"י המושל ונתלו מדברי רמ\"א אלו בשם מהרי\"ק שבני העיר יכולים לסגור הדלת ולגרום עם המושלים שימחו בבאים לגור כו' והוא נ\"י השיב להם שזה טעות מלבד דהב\"י בבד\"ה חלק על מהרי\"ק ודחה דבריו ורמ\"א לא ראה דברי ב\"ה אף גם אי נימא כמהרי\"ק המעיין במהרי\"ק יראה שהוא אינו מדבר רק מחזקת ישוב שרוצים אחרים לבא לדור שם ומתרבה הישוב וצריכין לפרוע מס בשבילם בזה יכולין למחות אבל כאן אינם קובעין דירתם ובגפם יבואו ובגפם יצאו ולא נתרבה המס בשבילם ולבד הרי זה בת\"ח ובמלמדים לא שייך כל זאת כמבואר לעיל ס\"ו בהגה וביו\"ד ס\"ס רמ\"ה ומה שאמרו דקנאת סופרים תרבה חכמה לא שייך אלא במקרי דרדקי ולא במלמדים משנה וגמ' זה הבל כו' ולבד זה בעיר גדולה שהילדים רבים ת\"ל וצריכים להרבה מלמדים וגם מלמדים ממקומות אחרים אין להם שום טירדא ויושבים ולומדים וגם די להם בשכר מועט. ומה שאמרו שהגאון החסיד מוהר\"א ז\"ל אב\"ד דק\"ק אמשטרדם בהיותו בק\"ק בראד הורה לגרש המלמדים אחרים אני אומר שאסור לאומרו וחלילה להגאון שיעשה כן וכל הרוצה ליחנק תולה באילן גדול עכ\"ל. ועיין בתשובת חמדת שלמה סימן ה' בענין מי שרוצה לישא אשה במקום שאין לו חזקת ישוב ולדור במקום ההוא בשביל אשתו שיש לה חזקת ישוב אם בני העיר יכולין לעכב על ידו וכתב דהמנהג דלא למחות במי שנושא אשה במקום שאין לו חזקת ישוב והאריך בטעם הדבר והעלה דא\"י למחות בו לא ע\"י ב\"ד ואף לא לסגור הדלת ע\"י מונעים אחרים ומצדד שם לענין הבנים שיולדו להם די\"ל שיהיה להם ג\"כ חזקת ישוב אף שהמה נולדו מבר מתא אחרת ואפשר דאף לאחר מיתת האשה אין יכולין למנוע ממנו חזקת ישוב כיון שכבר התחיל לדור פה מכוחה כו' ובסוף התשובה כתב דאם יש בזה דינא דמלכותא פשיט' שיכולים למונעו אפילו ע\"פ ב\"ד דבכ\"מ דאמרי' דינא דמלכות' דינא היינו אפילו ע\"פ ב\"ד כו' אך אם יפסקו הב\"ד צריכין לעיין היטב לידע אופן תיקון המלכות ולפי הנראה אין הדבר ניתן למנהיגי קהלה רק לרוב דיעות ודכירנא שכן היה כמה פעמים בפוזנן בכעין זה ע\"פ רוב דיעות ואופן הרוב ע\"פ חוקי המדינה צריך דקדוק גדול וה' עמכם בדבר המשפט עכ\"ד ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 156:17"
+        },
+        "18": {
+          "he": "בחזקת ישוב כמו בחזקת קרקע.  ע' בכנה\"ג בהגב\"י אות ס\"ה שכ' בשם מהרי\"ק דבחזקת ישוב לא אמרינן (היכא דיש ספק) אוקי בחזקת מרא קמא אלא מי שהוא עומד בתוכה הוא המוחזק ע\"ש ועיין בתשובת חמדת שלמה חא\"ח סימן ז' שכ' דכן נראה מוכח מכל הפוסקים (לעיל ס\"ה) גבי אבעיא דבר מבואה אבר מבואה אחרינ' דעלתה בתיקו ופסקו דלא מצי מעכב מוכח דלענין זה ל\"ש לומר חזקת מרא קמא כיון דאינו נוטל משלו כלום ע\"ש עוד מה שפסק בענין הש\"ץ שרוצים להעבירו מהשירות באמרם שלא קיבלו אותו לעולם וגם רוצים לדחות מחזקת ישוב עש\"ה. ועמ\"ש לקמן סימן רי\"ב ס\"א סק\"ב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 156:18"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "מפולש.  בכל מבוי יש כמה חצירות אלא שבמפולש דהיינו שפתוח תמיד מב' צדדיו והעוברים ושבים נכנסים מצד זה במבוי ויוצאים מצד שכנגדו דבקעי בו רבים ולא שייך גבייהו הטענה שמרבה עליהם הנכנסים כו' ולמנוע להאומן מלעשות מלאכתו שהרי גם זולתו שכיחי שם רבים אבל באינו מפולש שאין שם אלא פתח אחד ובמקום שנכנסים הם שבים ללכת דאין שם מעבר לרבים ומסיק הרמ\"א דגם בזה יש אומרים דאינם יכולים למחות הדרים במבוי כי אם הדרים עמו באותה חצר יכולים למחות מה\"ט שמרבה עליהן כו' עד כאן לשון הסמ\"ע ועי' בתשובת מהרשד\"ם סי' תכ\"א ותמ\"א וסי' רס\"ז ובתשו' רש\"ך ס\"ב סי' קע\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:1"
+        },
+        "2": {
+          "he": "שבקש.  לאו דוקא דה\"ה אם כבר החזיק ועשה שם מלאכה זו כמה שנים אינו מועיל חזקה לזו כמ\"ש בס\"ד ע\"ש. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:2"
+        },
+        "3": {
+          "he": "רופא.  פרש\"י מוהל וכ\"כ בע\"ש ולא דק שהמחבר ע\"כ לא ס\"ל הכי שהרי בס\"ג כת' דכל מילי דמצוה א\"י למחות לכן נרא' דפי' רופא הוא לגופות בני אדם ואומן פירוש מקיז דם להאי דגריס רופא או אומן אבל במיי' ובטור כתוב רופא אומן ולפי זה יש לומר רופא שהוא אומן וכן פי' הב\"י ע\"ש עכ\"ל הסמ\"ע (והט\"ז כת' דאף הרמב\"ם כונתו או אומן שהרי סיים ולא ישכרנו לא לרופא ולא לאומן ומה שהקשה הסמ\"ע על פי' דמוהל ממילי דמצוה שבס\"ג ותמיהני מה תיקן בזה דאטו רופא נפשות אינו מצוה ונרא' דלהכי אמרו מילי דמצוה כגון לחלק צדקה או להתפלל בעשרה כו' להורות דדוק' בענין מצוה התלוי בצרוף אנשים משא\"כ בשאפשר לו לילך לבתי האנשים שצריכין לו מעכבין עליו שלא ליעשות מוהל אם הוא באופן שיבאו הרבה אנשים לביתו עכ\"ל):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:3"
+        },
+        "4": {
+          "he": "דשרי.  נרא' לי הטעם דבמכירה אינו נרא' כ\"כ שקנאו כדי לעשות שם מלאכתו די\"ל שקנהו לנחלה לדירת בנו או ישכירנו לאחרים עד שיפנה ממלאכה זו וא\"כ אין היזקו ברי משא\"כ שכירות שהוא לזמן ואין מדרך העולם לשכור בית אלא לדור בו מיד באשר הוא שם ומש\"ה יכולין למחות. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:4"
+        },
+        "5": {
+          "he": "למחות.  בהג\"א כ' דהיינו לכתחלה אבל חזקה מהני ע\"ש ובתשובת ר\"ל חביב סי' צ\"ד עכ\"ל הש\"ך (יכולין השכנים לעכב שלא יעשה חצירו פונדק ואינו יכול להשכירו לעוברים ושבים דה\"ל פונדק אבל יכול להשכירו לשנה או לחדשים גם מעכבים עליו השכנים שלא ישכיר חצירו לשכן רע וכל שכן לעובד כוכבים תשובת הגאונים סי' קי\"ח. כנה\"ג):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:5"
+        },
+        "6": {
+          "he": "תינוקות.  מדסתם משמע דאינו מחלק ואפילו הן רבים שרי וכ\"כ הטור בהדי' ודלא כהרמב\"ם שכ' ע\"פ פרש\"י דביותר מחמשים והוא מלמד את כולם דאסור. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:6"
+        },
+        "7": {
+          "he": "מבוי.  ר\"ל שאינו מפולש כמ\"ש המחבר בס\"א וכאן לימדנו דאפילו אם כבר החזיק אינו מועיל לזה החזקה. שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:7"
+        },
+        "8": {
+          "he": "כופין.  הנה הסמ״ע האריך בטעם פלוגתת המחבר והרמ״א בשטת הש״ס פ' לא יחפור (בבא בתרא דף כ״א) ואין בו נ״מ לדינא ע״כ לא כתבתיו וכתב הש״ך דגם הב״ח האריך בזה לבאר דעת הרמב״ם והשיג על הסמ״ע ואין דבריו נראין להמעיין שחילק בין רחיים לרחיים ומנ״ל סברא זו כו' ע״ש ועמ״ש הט״ז בזה (מי שבקש לקבוע רחיים של בהמה לטחון חטים לכל עובר ושב וחבירו מוחה הדין עם המוחה ואפילו החזיק חבירו. מהר״י אדר' ז״ל סי' ער״ה ומהרש״ך ז״ל ח״א סי' ל״ג. אמר המאסף ואם לטחון לעצמו שאינו מרבה דריסת הרגל לדעת הרשב״א וסייעתו א״י למחות בידו אפי' לא החזיק וכן נתבאר מדברי הרבנים הנזכרים ז״ל ועיין במהרי״ק שורש קל״ב ובתשובת רד״ך בית ל״א חדר ג' ובמשפטי שמואל סי' ק״א ק״ב וקי״ב. כנה״ג):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:8"
+        },
+        "9": {
+          "he": "ורבים.  נמשך אחר מ\"ש הב\"י ז\"ל ודין זה ליתא לשאר הפוסקים ר\"ל במבוי שאינו מפולש אף ע\"פ שלא מיחו בראשון יכולים למחות בשני אבל לפע\"ד צ\"ע די\"ל דהפוסקים מודו בהא להרמב\"ם ולא דברו מזה גם צ\"ע על מה שמדמה מור\"ם חצר למבוי בזה עיין בתשובת רמ\"א סי' ט' יסוד א' וסי' ע\"ג וע\"ה ובתשובת מהר\"מ פדואה סי' מ\"א עכ\"ל הש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:9"
+        },
+        "10": {
+          "he": "המלך.  (אפי' היה לו חנות מקודם והיה פורע מס עם הקהל והלך עם ביתו מהעיר ונתיישב שם י\"ב חדש ולא היה פורע שכירות ולא מס עם הקהל יכולים לעכב עליו שלא יחזור. תומת ישרים סי' קי\"ט ועיין בתשוב' מבי\"ט ח\"ג סי' ל\"א ובתשו' מהרשד\"ם חח\"מ סי' רנ\"ט. כנה\"ג):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:10"
+        },
+        "11": {
+          "he": "האומרים.  עיין בתשובת מבי\"ט ח\"א בשאלות השניות סי' י\"ז דף ק\"ח ע\"ג וסימן ל\"א דף קי\"ג ובתשובת רמ\"א סי' ט' יסוד ב' ובתשובת מהרשד\"ם סימן שס\"ג ובתשובת רש\"ך ס\"ב סי' נ\"ה. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:11"
+        },
+        "12": {
+          "he": "שאין.  (ומאחר דיש מקומות חלוקות ויש פנים לכאן ולכאן ראוי לכתחלה לאסור עליו אבל לא לדון עליו כלל. בפרט בזמנים האלו וכן מצאתי שכ' הגאון אב\"ד הזקן מורינו ורבינו קלונימוס וז\"ל ובזמנים האלו לא מצאנו ידינו ורגלינו להיותינו דנין בדיני מערופיא. רש\"ל ז\"ל בתשובות סי' ל\"ז ועיין בתשובת משאת בנימין סי' כ\"ז וסימן מ\"ג. כנה\"ג):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:12"
+        },
+        "13": {
+          "he": "קובעים.  עיין במהרי\"ק שורש קצ\"א שכתב אם הדין כן ברוכלים כ\"ש באחרים שאינם רוכלים דאין רשאין לדור בעיר אחרת אם לא ברשות אנשי העיר ההיא. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:13"
+        },
+        "14": {
+          "he": "פרנסתם.  לשון הטור מוכרים כשיעור שירויח כדי פרנסתן כו' והרמב\"ם דשינה לשונו מל' הש\"ס דאמרו מוכרים כדי חיותם ודקדקו מזה דיזונו מהריוח קאמר דאל\"כ כשיכלה הקרן לא יהא להם במה לחיות אבל הרמב\"ם לא כתב אלא כדי פרנסתם וליכא למידק מיניה דיחיו מינייהו לעולם משמע דס\"ל דאין מוכרין אלא כדי פרנסתם מהקרן וי\"ל דמשה\"נ לא כ' המחבר מן הריוח אבל מור\"ם בסמוך סתם כדברי הטור וכתב גבי מלוה שיכול ללות עד שישתכר כו' ואין סברא לחלק בין הלואה למכירת סחורה עכ\"ל הסמ\"ע אבל הש\"ך כתב דנ\"ל דמור\"ם ס\"ל כמ\"ש הב\"י דגם לשון הרמב\"ם יש לפרש כלשון הש\"ס. ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:14"
+        },
+        "15": {
+          "he": "חובם.  לשון זה משמע דאיירי שהן חייבים לאחרים ורוצין לשלם ומשהין שם עד שיפרעו הם דאל\"כ הל\"ל עד שיתפרעו מחובם ומ\"ש ואם יש להם מלוה ר\"ל שיש עליהם מלוה והטור כתב עד שיגבו הם חובתם ושניהן אמת לדינא דזיל בתר טעמא עכ\"ל הסמ\"ע (דוקא בעיר יכולין לעכב אבל בכפרים ובגבולותיה א\"י לעכב. משפטי שמואל סי' ס' מהרי\"ט חח\"מ סי' מ\"ג משפט צדק ח\"א סי' מ\"ו אבל משם הרשב\"א ז\"ל בתשובה סי' [ת] רס\"ד כ' דאפילו בכפרים ובגבולו' יכולים לעכב. כנה\"ג):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:15"
+        },
+        "16": {
+          "he": "טובה.  הב\"י כתב דמסתבר לומר דה\"ה אם היה יותר רעה דה\"ל כתרי מיני והעלהו בצ\"ע ע\"ש. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:16"
+        },
+        "17": {
+          "he": "שדרים.  עיין בתשו' רמ\"א סי' נ\"ב ובתשו' מהר\"א ששון סי' קנ\"ה (עיין בכנה\"ג בהגהת ב\"י אות מ' מ\"א ומ\"ב ע\"ש):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:17"
+        },
+        "18": {
+          "he": "חרם.  ר\"ל שעושים חרם ביניה' ששום אדם לא יכניס בביתו לאותו הבא לדור שם בלי רשות כל הקהל. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:18"
+        },
+        "19": {
+          "he": "חכם.  בד\"מ כתב ז\"ל ראיתי בא\"ז דמסכת ברכות שר\"ת לא רצה להורות בחזקת הישוב כי אמר קדמונינו לא תקנו חזקת ישוב אלא מפני אלמים ומסירים שאינן רוצים לפרוע מס אבל על אחרים אין תקנה ויש תמיהין במנהגים שמוחין ישוב לאדם שיש בו צרכי צבור ואינו יורד לחייהם והוא חטא גמור וממדת סדום ולא יזכה להיות במחיצת צדיקים עכ\"ל. שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:19"
+        },
+        "20": {
+          "he": "כולו.  (ובכנה\"ג הביא בשם חכמי רומי דנדר שהותר מקצתו הותר כולו וא\"צ עוד התרה ועמ\"ש עוד שם באות מ\"ט ונ' בהגהת ב\"י ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:20"
+        },
+        "21": {
+          "he": "ויכולין.  במרדכי פ' הגוזל בתרא פסק דאם אמר השר מעצמו איני רוצה שידור שום יהודי כאן כי אם ברשות ראובן דאז ראובן יכול לעכב על כל הבא לגור שם כו' ומשמע מזה אבל ראובן אסור להשתדל כן עם השר וכן נרא' מדברי מהרי\"ק שורש קע\"ג וסיים שם אבל אם חק השר לא היה מתחלה אלא לטובתו ולא לטובת ראובן שלא ידור שם יהודי אחר בלי רשותו אז אין ראובן יכול למחות אף שיש לו היזק מזה. ד\"מ בסס\"ז. שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:21"
+        },
+        "22": {
+          "he": "ישוב.  (במקום שיש חרם חזקת ישוב אינו מתפשט אלא עד תחומה של עיר אבל חוץ לתחו' העיר מותר לישראל אחר לדור שם ע' אגודה וכתב ש\"ג פרק לא יחפור דלא מיירי רק בעיר שיש לה רשות מהישוב מאותה העיר בסתם אבל אם פירש לו המלך או השר שהרשהו ומחזיקו במקום ששולט יד המלך ונותן לו רשות שבכל מלכותו אז הוי העיר וכל גבולה בחזקת ישראל אשר שם ואע\"פ שיהיה לעיר מאה מילין גבול סביב לה. יש מקומות שהתקינו שמי שיש לו בית לא ישכור לו בית אחר לדחות למי שאין לו בית וכתב מהרי\"ו סי' קי\"ח שאם הוא ת\"ח וצר לו המקום להעמיד בחורים ואיכא בטול תורה יכול לשכור בית שני ולדחות למי שאין לו בית. תקנות רגמ\"ה הובאו במהר\"מ מינץ סי' ק\"ב עכ\"ל כנה\"ג):",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 156:22"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

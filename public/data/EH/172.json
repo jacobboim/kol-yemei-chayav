@@ -1,0 +1,329 @@
+{
+  "chelek": "EH",
+  "siman": 172,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 16,
+  "fetchedAt": "2026-07-08T00:09:01.830Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין יבם סריס וחרש שוטה וקטן וטומטום וכן היבמה. ובו טז סעיפים:סריס חמה  (פירוש שנסתרס ע\"י קדחת ערוך)  ואיילונית  (פירוש איילונית שיש לה טבע זכר כלומר שאינה יולדת ואיילונית נגזר מאיל שהוא זכר הצאן)  אינם בני חליצה ויבום לפיכך איילונית ודאית שחלצה לא נפסלה לכהונה וכן סריס חמה שחלץ או שחלצו לאשתו אינו כלום: הגה היה ספק סריס חולץ ולא מחזקינן ליה בודאי סריס אלא אם ראו בו שנולד א' מסימני סריס כגון שהטיל מים ולא עשה כיפה אבל בלאו הכי יש לחוש שנתקלקל אחר לידתו וצריך לחלוץ (ריב\"ש סימן תע\"ד)  היה לאיילונית ודאית צרה מותרת להתייבם:",
+      "en": "Someone \"saris chamah\" (explanation: he became impotent through a disease of fever, Aruch), and an \"ayalonit\" (explanation: she has a male nature, which means she cannot become pregnant, and \"ayalonit\" comes from \"ayil\" which is the male sheep [i.e. ram]), they do not have to do chalitza and yibbum. Therefore, someone who is a definite ayalonit who does chalitza [even though she didn't have to] is not invalid to a kohen. And similarly if someone who is impotent because if fever who does chalitza, or [his relative when he dies] does chalitza to his wife, it is nothing. Rem\"a: If it is [only] a possible saris, he does do chalitza. And we do not assume for a definite saris, unless they see when he was born that he had one of the signs of impotence, for example they sprinkle water but does not make a covering. Buit without this, we suspect the damage happened after birth, and he must do chalitza (Rivash Siman 474).  A definite ayalonit's rival wife is permitted to her yibbum [despite the fact that the ayalonit is not].",
+      "ref": "Shulchan Arukh, Even HaEzer 172:1"
+    },
+    {
+      "seif": 2,
+      "he": "ספק איילונית חולצת ולא מתייבמת:",
+      "en": "A doubted ayalonit, she does chalitza but not yibbum.",
+      "ref": "Shulchan Arukh, Even HaEzer 172:2"
+    },
+    {
+      "seif": 3,
+      "he": "סריס אדם  (פירוש שנסתרס ונחתך בידי אדם)  שהיה לו שעת הכושר חולצין לאשתו או מייבמין והוא חולץ ואינו מייבם מפני שפסול לבא בקהל ואם עבר ובא עליה קנה ומוציא בגט  (ואם היה יבמתו גיורת או שאר אשה המותרת לפצוע דכא מותר ליבמה) (נ\"י פ' הערל):",
+      "en": "A man who was castrated by human intervention (that is, that his castration was done by a person) who had a period [in his life] when he was complete, [his brother] performs either halitza or levirate marriage [with his widow], and he performs halitza [with his brother's widow] but not levirate marriage, becasue he is ineligible to marry into the community.  If he did transgress and have intercourse with her, he has married her and must divorce her with a write of divorce.  Rem\"a: If his sister-in-law is a convert or any other woman who may marry a 'man with a severed member', he may perform levirate marriage.",
+      "ref": "Shulchan Arukh, Even HaEzer 172:3"
+    },
+    {
+      "seif": 4,
+      "he": "אלו הם סימני איילונית כל שאין לה דדים ומתקשה בשעת תשמיש ואין לה שפולי מעים כנשים וקולה עבה ואינה נכרת בין איש לאשה  (וי\"א דבאחד מאלה נקראת איילונית) (טור):",
+      "en": "",
+      "ref": "Shulchan Arukh, Even HaEzer 172:4"
+    },
+    {
+      "seif": 5,
+      "he": "אלו הם סימני סריס חמה כל שאין לו זקן ושערו לקוי ובשרו מחליק וכשמטיל מים אינו עושה כיפה ושכבת זרעו דיהא ואין מימי רגליו מחמיצין ורוחץ בימות הגשמים ואין בשרו מעלה הבל וקולו לקוי ואינו ניכר בין איש לאשה: הגה היו לו שתי שערות בזקנו אינו סריס אלא עד שיהיו לו כל הסימנים הללו (טור) אבל אם לא הביא ב' שערות בזקנו אפילו אין בו רק אחד מהסימנים הללו הוי סריס (המ\"מ פ\"ה דאישות וכן משמע בטור) היה לו שתי שערות בשאר הגוף אינו סריס אע\"פ שיש לו כל הסימנין הללו (טור) .",
+      "en": "",
+      "ref": "Shulchan Arukh, Even HaEzer 172:5"
+    },
+    {
+      "seif": 6,
+      "he": "בני כמה שנים יהיו לשיהיו נדונים כאיילונית וסריס ע\"פ סימנים הללו נתבארו בהרמב\"ם פרק שני מהלכות אישות ובסימן קנ\"ה: הגה סעיף י\"ג לענין איילונית וה\"ה לסריס וי\"א דאין לדון עכשיו דין סרוס ודאי דחיישינן שמא היה לו שערות ונשרו או שהיו לו גומות ואין אנו בקיאין (עיין בריב\"ש סימן תע\"ד) כמו שנתבאר לעיל סימן קנ\"ה לענין מיאון לכן דיינינן ליה בספק סריס וחולץ וכן ראוי להורות:",
+      "en": "The age one needs to be to considered infertile according to these aforementioned signs, is discussed in the Rambam's second perek of hilchos ishus, and in S.A E.H siman 155. Rema:",
+      "ref": "Shulchan Arukh, Even HaEzer 172:6"
+    },
+    {
+      "seif": 7,
+      "he": "מי שחתכו או נתקו או מיעכו גידיו או ביציו בידי אדם נקרא סריס אדם וכשיהיה בן י\"ג שנה ויום אחד נקרא גדול שאין זה מביא סימנים לעולם:",
+      "en": "One who's testicles or sinew are torn, broken or crushed by another person is called infertile. When he is 13 years and one day old he is called a major because he will never be able to produce the normal signs of puberty.",
+      "ref": "Shulchan Arukh, Even HaEzer 172:7"
+    },
+    {
+      "seif": 8,
+      "he": "אנדרוגינוס אינו בר חליצה ויבום וי\"א שדינו כזכר לכל דבר:",
+      "en": "An androgynous [somebody who has both male and female parts] is not able to perform chalitzah or yibum. Some say he is considered a male for everything.",
+      "ref": "Shulchan Arukh, Even HaEzer 172:8"
+    },
+    {
+      "seif": 9,
+      "he": "טומטום חולץ ולא מייבם מפני שהוא ספק ואם נקרע ונמצא זכר רצה חולץ רצה מייבם ויש מי שאומר שהוא ספק ולחומרא:",
+      "en": "Tumtum (person of indeterminate sex) extracts but does not levirate, because he's questionable. and if [it] got torn and happens to be male, [if he] wanted extracts, [if he] wanted levirates. and there's one saying that he's questionable and [adjudicate] to Chumra.",
+      "ref": "Shulchan Arukh, Even HaEzer 172:9"
+    },
+    {
+      "seif": 10,
+      "he": "הזקן ביותר שתש כחו וכשל דינו כסריס אדם לענין חליצה ויבום אלא שאם בא על יבמתו מותר לקיימה:",
+      "en": "A very elderly man, whose strength has weakened and stumbles has the status of a eunuch with regards to chalitzah or yibum. But if he has relations with his yevamah, then he may keep her [stay married to her].",
+      "ref": "Shulchan Arukh, Even HaEzer 172:10"
+    },
+    {
+      "seif": 11,
+      "he": "החרשת והשוטה והקטנה מתיבמות ולא חולצות ואם רצה היבם לגרש החרשת בגט אחר שיבעול אותה ה\"ז מגרש:",
+      "en": "A woman who is deaf or mentally impaired or a minor performs yibum but not chalitzah. And if the yavam wanted to divorce the deaf woman with a get after having intercourse with her, behold he divorces [her].",
+      "ref": "Shulchan Arukh, Even HaEzer 172:11"
+    },
+    {
+      "seif": 12,
+      "he": "חרש שוטה וקטן אינם בני חליצה אבל מייבמין והחרש אם נפלה לו מאחיו פקח אינו יכול להוציא לעולם אבל אם נפלה לו מאחיו חרש יכול להוציא בגט אחר שיבעול והקטן יוציא בגט אם בא עליה לאחר שהגדיל ואם לאו צריכה גט למאמרו וחלוצה לזיקתו:",
+      "en": "The deaf, the insane and minors cannot perform Halitza, but they can perform Yibum.  A deaf man whose sister in law \"fell\" to him from his \"intelligent\" brother is unable to ever divorce her. However if she \"fell\" to him from a deaf brother he can divorce her by giving a get after consummation. A minor can divorce her with a get if he consummated after achieving majority. If that is not the case he she requires a get to free her from his ma'amar as well as  halitzah to end the Yibum relationship. (Zika)",
+      "ref": "Shulchan Arukh, Even HaEzer 172:12"
+    },
+    {
+      "seif": 13,
+      "he": "שני אחים אחד פקח ואחד חרש נשואים לשתי נשים פקחות מת חרש בעל הפקחת אחיו הפקח רצה חולץ רצה מייבם מת פקח בעל הפקחת אחיו החרש אינו יכול לחלוץ וכונס ואינו מוציא לעולם:",
+      "en": "Two brothers, one who is intelligent and the other deaf, are married to two intelligent women, upon the death of the dead brother married to the intelligent woman, his intelligent brother can perform Halitzah if he so wishes, or Yibum if he so wishes. If the intelligent husband of the intelligent woman dies, his deaf brother cannot perform Halitzah; he must marry her and can never divorce her.",
+      "ref": "Shulchan Arukh, Even HaEzer 172:13"
+    },
+    {
+      "seif": 14,
+      "he": "שתי אחים פקחים נשואים ב' נשים אחת פקחת ואחת חרשת מת פקח בעל החרשת אין החרשת בת חליצה אלא כונס ואם רצה אחר כך להוציא בגט יוציא מת פקח בעל הפקחת אחיו רצה חולץ רצה מייבם:",
+      "en": "Two intelligent brothers who are married to two women, one whom is intelligent and the other deaf;  if the intelligent husband of the deaf woman dies the deaf woman cannot have Halitza rather he must marry her and he may divorce her with with get afterwards if he so wishes. If the intelligent husband of the intelligent woman dies, his brother can perform halitzah if he so wishes or Yibum if he so wishes.",
+      "ref": "Shulchan Arukh, Even HaEzer 172:14"
+    },
+    {
+      "seif": 15,
+      "he": "ב' אחים אחד חרש ואחד פקח נשואים לשתי נשים אחת חרשת ואחת פקחת פקח לפקחת וחרש לחרשת מת חרש בעל החרשת אחיו הפקח כונס ואם רצה אח\"כ יוציא בגט מת פקח בעל הפקחת אחיו החרש כונס ואינו מוציא לעולם הסומא מייבם: הגה ואינו חולץ ואם חלץ חליצתו כשרה (טור) ונ\"ל שאם אין כאן אח אלא הוא חולץ לכתחלה מאחר שא\"א בענין אחר (וע\"ל סימן קס\"ט בפירוש החליצה סעיף ס\"ד):",
+      "en": "Two brothers one who who is deaf and the other intelligent who are married to two women one who is deaf and the other intelligent; the intelligent brother is married to the intelligent woman while the deaf brother is married to the deaf woman. If the deaf brother who is married to the dead woman  dies, his intelligent brother marries her and may divorce her with a get afterwards if he so wishes. If the intelligent brother who is married to the intelligent woman dies, his deaf brother marries her and can never divorce her. A blind man performs Yibum. Rema- he may not perform Halitzah, and if he did perform Halitzah his Halitzah his Halitzah is valid. (Tur) It appears to me that if there is no brother besides him he may perform Halitzah a priori as there are no alternatives. Check on this further on in Chaper 149 in the commentary on Chalitza verse 64.",
+      "ref": "Shulchan Arukh, Even HaEzer 172:15"
+    },
+    {
+      "seif": 16,
+      "he": "אשת קטן ואשת השוטה פטורה מן החליצה ומן היבום אבל אשת החרש והזקנה והעקרה הרי הם כשאר כל הנשים וחולצת או מתייבמת:",
+      "en": "A woman who is small or a woman who is mentally retarded is exempt from  חֲלִיצָה and יִּבּוּם; but a woman who is deaf, old, or barren, they are like all other women, and do חֲלִיצָה and יִּבּוּם",
+      "ref": "Shulchan Arukh, Even HaEzer 172:16"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ל' הטור ממשנה יבמות דע\"ט וכר\"ע",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:1"
+        },
+        "2": {
+          "he": "פי' במעי אמו וכדמפרש שם בגמ' ריש דף פ' דהיא ע\"י שנתחממ' אמו בחו' התנור וחום הצהרים ושתתה משקה חזק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:2"
+        },
+        "3": {
+          "he": "דכתיב לא ימחה שמו מישראל פרט לסריס ששמו מחוי והאיילונית דכתיב והיה הבכור אשר תלד פרט לאיילונית",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:3"
+        },
+        "4": {
+          "he": "מסקנת הגמרא שם די\"ב ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:4"
+        },
+        "5": {
+          "he": "טור ופשוט הוא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:5"
+        },
+        "6": {
+          "he": "שם במשנה דע\"ט ע\"ב וכר\"ע",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:6"
+        },
+        "7": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:7"
+        },
+        "8": {
+          "he": "בריית' שם ד\"פ ע\"ב וכת\"ק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:8"
+        },
+        "9": {
+          "he": "כרשב\"ג שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:9"
+        },
+        "10": {
+          "he": "כרשב\"א שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:10"
+        },
+        "11": {
+          "he": "ברייתא שם וכת\"ק ופי' לקוי רך",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:11"
+        },
+        "12": {
+          "he": "שם וכיש אומרים ופי' כיפ' קילוח שאינו הולך למרחוק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:12"
+        },
+        "13": {
+          "he": "שם וכרשב\"ג וכולי ופי' דיהא שאינו קשו' אלא צלול כמים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:13"
+        },
+        "14": {
+          "he": "שם וכי\"א ופי' מחמיצין מסריחים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:14"
+        },
+        "15": {
+          "he": "שם וכאחרים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:15"
+        },
+        "16": {
+          "he": "שם וכרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:16"
+        },
+        "17": {
+          "he": "רמב\"ם בפ' ב' מהלכות אישות והביאו הטור וכתב ופשוט הוא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:17"
+        },
+        "18": {
+          "he": "רמב\"ם בריש פ\"ו מה' ייבום וחליצה וכ' ה\"ה מפורש בתוספת' הובאה בהל' ספ\"ק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:18"
+        },
+        "19": {
+          "he": "טור לדעת ר\"י ולדעת אביו הרא\"ש שפירש והא דאמרי בי רב הלכה כר' יוסי וכו' שם דפ\"ג ע\"א אר' יוסי דמתני' קאי וכפירש\"י שם והב\"י כ' ואפשר דלא אמרו הלכה כר' יוסי אלא להאכילו בתרומ' לחייב עליו סקילה מ\"מ לענין יבום וחליצה דינו כסריס חמה כדקתני בברייתא משום דאינו ראוי להוליד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:19"
+        },
+        "20": {
+          "he": "הרמב\"ם שם ודלא כרב יהודה במשנה שם דפ\"א ע\"א מהא דא\"ר אמי עביד וכו' שם דפ\"ג ע\"א דמשמע דפליגי רבנן וסברי חולץ ומיבם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:20"
+        },
+        "21": {
+          "he": "טור בשם אביו הרא\"ש וכרב יוסי בר יהודה שם בברייתא וכדמפרש בגמ' שם ולחומרא כיון דלא מפורש דרבנן פליגי בזה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:21"
+        },
+        "22": {
+          "he": "רמב\"ם בפרק ו' מבריי' הביאה הרי\"ף בספ\"ק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:22"
+        },
+        "23": {
+          "he": "תוספת' והביא הר\"ף והרא\"ש ספ\"ק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:23"
+        },
+        "24": {
+          "he": "ציינתי לעיל סימן קס\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:24"
+        },
+        "25": {
+          "he": "משנה שם דקי\"ב ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:25"
+        },
+        "26": {
+          "he": "שם במשנה וברייתא דלעיל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:26"
+        },
+        "27": {
+          "he": "ציינתיו לעיל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:27"
+        },
+        "28": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:28"
+        },
+        "29": {
+          "he": "טור ממשנה שם כשם שכונס ברמיזה וכו' וה\"ה ליבמה ואין דעת הרמב\"ם כן וכמ\"ש הב\"י טעמו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:29"
+        },
+        "30": {
+          "he": "משנה נדה דמ\"ה ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:30"
+        },
+        "31": {
+          "he": "שם ביבמות במשנה דף צ\"ו ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:31"
+        },
+        "32": {
+          "he": "שם במשנה דף קיב ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:32"
+        },
+        "33": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:33"
+        },
+        "34": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:34"
+        },
+        "35": {
+          "he": "טור דהא לא אימיע' אלא מחליצ' לכתחלה משום דבעינן וירקה בפניו ואין זה רואה הרוק כמ\"ש בסי' קס\"ט סעיף מח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:35"
+        },
+        "36": {
+          "he": "משנה וברייתא שם דף צ\"ו ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:36"
+        },
+        "37": {
+          "he": "ציינתיו בסעיפים דלעיל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:37"
+        },
+        "38": {
+          "he": "ברייתא הביאו הרי\"ף והרא\"ש ספ\"ק דיבמות ופי' בנ\"י דטעמא משום דכמ' עקרות וזקנות נפקדו וראויות להקים מה שא\"כ באילונית והרמב\"ם בפ\"ו כתב משום דזקינה ועקרה היתה להם שעת הכושר",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 172:38"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "דבאחד מאלה  (עיין בתשו' חתם סופר ח\"ב סי' פ\"ג אודות אשה חליצה שנשתדכה לכהן א' בשוגג ואם יתפרד הדבר איכא למיחש לסכנה כי אהבת נפש אהובי' וגם היא איילונית אם יש תרופה להתיר שישאו זא\"ז והאריך בזה מסיק דמצד חשש סכנת נפשות פשיטא דאין שום ה\"א ולא יעלה על דעת להתיר חליצה לכהן אך מצד שהיא איילונית הנה בטור סי' קע\"ב פסק בחד סימן מסימני איילונית סגי שלא תחלוץ ואם חלצה מותרת לכהונה וכן פסק הרמב\"ם לפי נוסחת הסמ\"ג אלא שב\"י חשש להחמיר שלא להתירה לשוק אא\"כ יש בה כל סימני אילונית לפענ\"ד באיסור דרבנן חליצה לכהן יש לסמוך להקל וסגי בסימן א' ובפרט במקום סכנה וע\"כ נהי שכבר נבדקה ע\"י נשים קודם חליצה וע\"י זה חלצה בב\"ד היינו משום אפי' לא נמצא אלא סימן א' שאינה אילונית צריכה לחלוץ להתירה לשוק ושפיר עבדו ב\"ד שהצריכוה חליצה אבל אם תבדק עתה ע\"י ב' עדים כשרים שאין לה דדים ודוקא סי' זה סגי להתירה לכהונה דסימן אחר א\"א להבחין כו' ע\"כ אין לסמוך אלא אם אין לה דדים והיא יותר מבת עשרים שנה ולא אסמוך על עדות נשים בזה אע\"פ שהוא דרבנן וכולי האי ואולי עכ\"ד ע\"ש):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 172:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "אדם וכו'.  או מייבמין והוא חולץ ואינו מייבם. עיין תוס' י\"ט פרק ח' דיבמות משנה ד' מ\"ש על הרמב\"ם וכנה\"ג מיישבו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 172:1"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

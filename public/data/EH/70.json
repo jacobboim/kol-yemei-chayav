@@ -1,0 +1,557 @@
+{
+  "chelek": "EH",
+  "siman": 70,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 12,
+  "fetchedAt": "2026-07-08T00:08:59.800Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין חיוב מזונות אשתו ובניו ואם חייב להשכיר עצמו. ובו יב סעיפים:כיצד חייב במזונותיה אוכלת ושותה ממה שהוא אוכל ושותה ואם כל בני משפחתה רגילים בגדולות צריך להנהיגה כן אם אין כולם רגילים בגדולות אינו חייב להנהיגה בכך כשאוכלת עמו אבל כשאינה אוכלת עמו צריך להנהיגה כדרך שהיתה נוהגת בבית אביה  (טור):",
+      "en": "How is he obligated in her sustenance?  She eats and drinks from what he eats and drinks.  If all the members of her family are accustomed to large [portions?], then he has to provide her with such.  If they are not all accustomed to large [portions?], then he is not obligated to provide her with such when she eats with him.  Rema: but when she is not with him he has to provide for her in the way she is accustomed to in her father's house.",
+      "ref": "Shulchan Arukh, Even HaEzer 70:1"
+    },
+    {
+      "seif": 2,
+      "he": "בעל שרצה ליתן לאשתו מזונותיה הראוים לה ותהיה אוכלת ושותה לעצמה הרשות בידו ובלבד שיאכל עמה בליל שבת  (וי\"ח וסבירא להו דלא יוכל לומר שהיא תאכל לבדה אא\"כ קבלה עליה מרצונה (טור בשם הירושלמי ובשם הרא\"ש וב\"י בשם רוב הפוסקים) וכן נ\"ל:",
+      "en": "A husband who wants to give his wife food that is fitting to her and she'll eat and drink on her own, he is allowed, but only if she eats with him on the Sabbath eve.  Rema: There are those that disagree and reason that he can not tell her to eat on her own unless she does so of her own free will. (Tur in the name of the Jerusalem Talmud, and in the name of the Rosh. And Bet Yosef in the name of the majority of poskim.) This seems fitting to me.",
+      "ref": "Shulchan Arukh, Even HaEzer 70:2"
+    },
+    {
+      "seif": 3,
+      "he": "וכמה מזונות פוסקים לאשה לחם שתי סעודו' בכל יום ופרפרות לאכול בה הפת ושמן לאכילה ולהדלקת הנר ומעט יין לשתות אם היה מנהג המקום שישתו הנשים יין ואם היתה מניקה נותנים לה יין  (טור)  ובשבת שלשה סעודות ובשר או דגים ונותן לה בכל שבת מעה כסף לצרכיה  (ונותנין לה עץ לבשל מאכלה) (הר\"ן פ' אע\"פ)  בד\"א בעני שבישראל אבל אם הי' עשיר הכל לפי עשרו צמצמה והותירו מאלו המזונות הוא של בעל  (טור)  ואם היה עני ביותר ואינו יכול ליתן לה אפי' לחם שהיא צריכה כופין אותו להוציא: הגה ותהא כתובתה עליו חוב עד שימצא ויתן (טור בשם הרמב\"ם) וי\"א שאין כופין אותו להוציא מאחר שאין לו (ר\"י בשם ר\"ת) מי שאין לו מזונות אלא חד יומא חייב לזון מיניה את אשתו או למיכל בהדה (טור בשם הרמ\"ה) וי\"א עוד דחייב להשכיר עצמו כפועל ולזון אשתו (טור בשם ר' אליה ומוהר\"ם בשם רבי' שבצרפת) היה לו קרקעות הרשות ביד האשה ליקח מזונותיה מפירות הקרקעות או מגוף הקרקעות או צריך למוכרן (רשב\"א סימן תת\"ץ):",
+      "en": "How much sustenance is allocated to the wife? Bread for two meals per day and appetizers to eat with the bread, oil for eating and lighting candles, and a little wine to drink, if it was the custom in that place for women to drink wine. \n\nRama: If she was breastfeeding, we give her wine (Tur).\n\nMechaber: For the Sabbath [she receives] 3 meals and meat or fish. Additionally he gives her 1 ma'ah (1/6 of a Tyrian dinar) every week for her needs.\n\nRama: And we give her wood for cooking her food (Ran chapter Af Al Pi in Ketuboth).\n\nMechaber: With what case are we dealing? With a poor man in Israel. But if he was rich, [her allocation is] according to his wealth.\n\nRama: If she scrimped and had left over from the sustenance, it belongs to the husband (Tur).\n\nMechaber: If he was extremely poor and could not afford to give her even the bread she needs, we force him to divorce her.\n\nRama: The ketuba monies remain as his debt until he finds [the wherewithal] to pay (Tur in the name of Rambam).  Some authorities say we do not force him to divorce since he does have [the money to give] (Ri in the name of Rabbenu Tam).  He who has food for only one day must give it to his wife or to eat it along with her (Tur in the name of haRamah - R. Meir Halevi).  Some authorities say additionally that he must hire himself out as a worker and to feed his wife (Tur in the name of R. Eliyah and Moharam in the name of the Rabbis in France). If he had lands, the woman has the right to take her sustenance from the usufruct of the land or the capital value of the land itself, or he has to sell them (Responsa Rashba chapter 890).",
+      "ref": "Shulchan Arukh, Even HaEzer 70:3"
+    },
+    {
+      "seif": 4,
+      "he": "הנושא אשה ואח\"כ נשתטית חייב לזונה ולרפאה  (ע\"ל סי' קי\"ט סעיף ו' שכתב להיפך):",
+      "en": "A man who married a woman who later became cognitively impaired, he must feed her and cover her medical costs.\n\nRama: See infra chapter 119 se'if 6 where he (Mechaber) writes the opposite.",
+      "ref": "Shulchan Arukh, Even HaEzer 70:4"
+    },
+    {
+      "seif": 5,
+      "he": "מי שהלך למדינת הים ובאה אשתו לבית דין לתבוע מזונות ג' חדשים הראשונים מיום הליכתו אין פוסקים לה בהם מזונות שחזקה אין אדם מניח ביתו ריקן: הגה אבל אם שתקה יותר ותבעה אח\"כ אין פוסקין לה למפרע רק מיום התביעה אפילו החמיצו הב\"ד את הדין (הר\"ן פרק שני דייני גזירות) וי\"א דאם נפרד ממנה בקטטה ורוצה לעגנה פוסקין לה לאלתר דודאי הניח ביתו ריקן (מרדכי ריש דייני גזירות)  מכאן ואילך אפי' אין כתובתה בידה פוסקים לה מזונות אבל אין נותנים לה במה שתתקשט ואם היו לו נכסים ב\"ד יורדים לנכסיו ומוכרים למזונותיה אפי' לא שמעו בו שמת ואין מחשבים עמה על מעשה ידיה עד שיבא בעלה אם מצא שעשתה הרי אלו שלו. וכן אם לא עמדה בדין אלא מכרה לעצמה למזונות מכרה קיים ואינה צריכה הכרזה ולא שבועה עד שיבא בעלה ויטעון או עד שתבא לגבות כתובתה אחר מותו מגלגלין עליה שלא מכרה אלא למזונות שהיא צריכה להם:",
+      "en": "If someone left the country by sea and his wife comes to court to sue for sustenance [that her husband was supposed to provide], for the first three months from the day he left they do not provide the sustenance for her, for the assumption is that a man does not leave his house empty [and we assume he will come back].  Rem\"a: But if she [waited] silently for longer [than three months] and then sued after that, they do not provide for her retroactively [from after three months], rather from the day she sued, even if the court had waited too long to judge (Ran Perek Shnei Dayanei Gezeirot). Some say that if he had left her after fighting, and he wanted to make her an aguna [a chained woman unable to remarry until her husband gives her a get] they provide it for her immediately, for then he certainly left his house empty (Mordechai Reish Dayanei Gezeirot). From that point on, even if she doesn't have a ketubah in her hand, they provide sustenance for her, but they do not give her so much that she will adorn herself. If he has property, the court will go down to his property and sell it for her sustenance, even if they had not heard that he died. They do not calculate with her how much work she did [to get payment for it], until her husband comes [back], if he finds she did work, that is his. And so if it never gets to court, but she goes and sells it herself for sustenance, the sale is upheld, and she does not need an announcement [of her husband's death] or to swear [to his death], unless her husband comes back and sues, or until she comes to collect her ketubah worth after his death, but they try to convince her to only sell as much as she needs for sustenance.",
+      "ref": "Shulchan Arukh, Even HaEzer 70:5"
+    },
+    {
+      "seif": 6,
+      "he": "מי שנשתטה או נתחרש פוסקין לאשתו תכשיטין  (ומפרנסין את אשתו מנכסיו):",
+      "en": "Whoever became mentally incapable, or deaf, they stipulate jewels for his wife, and they support his wife from his assets.",
+      "ref": "Shulchan Arukh, Even HaEzer 70:6"
+    },
+    {
+      "seif": 7,
+      "he": "מי שהלך למדינת הים והפקיד כלים ביד אחד או השאילום לו מוציאים מיד הנפקד למזונות אשתו: הגה אפי' צוה הבעל שלא ליתן (כ\"כ ר\"י בתשובות הובאה במרדכי פרק דייני גזירות) ואם החזיר הנפקד לבעל אחר שתבעתו האשה לדין חייב לשלם לה (שם במרדכי) וכשמוציאין מן הנפקד אין מוציאין רק לששה חדשים אפי' אם ירצה הנפקד אין מעכבין ממונו של בעל יותר (שם) ואין מוציאין מנכסים שהם ביד אחרים כל זמן שיש כאן בני חורין (ב\"י בשם תשו' הרשב\"א)  אבל מיד השואל אין מוציאין עד שיגיע סוף זמן שאלתו:",
+      "en": "Whoever went to the State of the Sea, and he deposited vessels in the hands of one, or he lent them to him, they take out of the hands of the holder of the deposit, for the food of his wife. gloss: Even if the husband commanded that they should not give (so wrote R\"Y in the response that is brought in the Mordechai in ch. Dayanei G'zerot). And if the holder of the deposit returned it to the husband, after the wife took the husband to court, he has to pay her (ibid in the Mordechai). And when they remove from the deposit holder, they only remove for six months, even if the deposit holder wants, they do not delay the money of the husband longer (ibid). And they do not remove his assets that are in the hands of others any time there are free assets (Bet Yosef in the name of a reponsa of the RaShBa); but from the hands of the lender they do not remove until the end of his loan comes about.",
+      "ref": "Shulchan Arukh, Even HaEzer 70:7"
+    },
+    {
+      "seif": 8,
+      "he": "הלך בעלה ולותה ואכלה חייב לשלם. הגה המלוה תובע לאשה והיא תובעת לבעלה ואם אין האשה כאן תובע לבעל (הר\"ן פ\"ש דייני גזירות) מיהו אם מחלה האשה לבעלה אין למלוה כלום (מרדכי פ' יש נוחלין) פסקו לה הב\"ד מזונות וצוו לאחד לפרנסה ולגבות מנכסי בעלה אם מת הבעל אין לו עליה כלום אבל אם אמרו סתם להלוות לה אם מת הבעל או אין לו לשלם ונפל לה ירושה ממקום אחר צריכה היא לשלם (כן משמע מתשובת הרשב\"א הביאה הב\"י)  עמד אחד מדעת עצמו וזנה משלו אין הבעל חייב לשלם לו והרי זה איבד מעותיו: הגה ואין חילוק בין אביה לאחר שפרנסה  מיהו אם היו חייבים לבעל ופרנסו אשתו מנכין לו מחובו (כל זה בהגהות מרדכי דכתובות) ואם אביה עמד ופרנס בתו עם חתנו אפ\"ה א\"צ לשלם לו רק מזונות שלו ולא של בתו (ת\"ה סי' שי\"ז) לא לותה רק מכרה נכסיה ופרנסה עצמה אין לה עליו כלום ומעשה ידיה שלה (הר\"ן ריש דייני גזירות):",
+      "en": "If her husband left [on a voyage] and she borrowed to pay for food, [her husband] must pay back [the loan].  Rem\"a: The lender may demand payment form the woman, who then demands payment from the husband.  If the woman is not present, he may demand payment from the husband.  Still, if the woman forgave her husband [the debt], the lender gets nothing.   If the court allotted food for her and ordered someone to provide for her and to collect from the husband's property, if the husband dies [the executor] has no claim against her.  If [the court] plainly stated that he should lend to her, if the husband then died or is unable to pay back, and she received an inheritance from some other source, she must pay back.   If someone voluntarily provided her food from his own pocket, the husband need not repay him and he has lost his money.  Rem\"a: There is no difference whether it is her father or anyone else who provided the food.  Still, if [the providers of the food] owed money to the husband, we deduct the amount from his debt.  If her father voluntarily provided for his daughter and his son-in-law, [the son-in-law] is only required to repay the amount for his own food, and not that of his wife.  If she did not borrow, and she sold property and provided for herself, she has no claim against him and she keeps the profits of her handiwork.",
+      "ref": "Shulchan Arukh, Even HaEzer 70:8"
+    },
+    {
+      "seif": 9,
+      "he": "הבעל שאמר לאשתו בשעה שהלך טלי מעשה ידיך למזונותיך ושתקה אין לה מזונות:",
+      "en": "If the husband said to his wife before he left, \"You make keep [the profits] from your handiwork to pay for your food,\" and she is silent - she may not demand food from him.",
+      "ref": "Shulchan Arukh, Even HaEzer 70:9"
+    },
+    {
+      "seif": 10,
+      "he": "הרי שעמדה בדין ופסקו לה מזונות ומכרו ב\"ד ונתנו לה או שמכרה היא לעצמה ובא הבעל ואמר הנחתי לה מזונות הרי זו נשבעת בנקיטת חפץ שלא הניח לה ואם לא תבעה ולא מכרה אלא  (לותה או)  שהתה עד שבא הוא ואמר הנחתי לך מזונות והיא אומרת לא הנחת אלא לויתי מזה ונתפרנסתי נשבע שבועת היסת שהניח לה ונפטר וישאר החוב עליה  (אבל אין האיש נאמן לומר שנתן לה על העתיד) (הר\"ן ריש אלמנה ניזונית)  ואם מכרה מטלטלין ואמרה למזונות מכרתי והוא טוען ואומר מזונותיך הנחתי נשבעת שבועת היסת שלא הניח: הגה טען ואמר היה לה להוציא מעשה ידיה במזונותיה אם לותה בלא ב\"ד והיא בעלת מלאכה שמעשה ידיה מספיקין לה לדברים גדולים אע\"פ שאינן מספיקין לדברים קטנים טענתו טענה אבל אם פסקו לה ב\"ד צריכין שיספיקו מעשה ידיה לכל דבר (הכל בטור):",
+      "en": "If she came to court and the court allotted food [from her husband's property], and the court then sold some property and gave her the proceeds, or she sold property herself, and the husband then came and said, \"I left her food,\" she must swear while holding a sacred object that he did not leave [food] for her.  If she made no claim and she sold no property, but she instead borrowed money or postponed [payment], until he came and said, \"I left food for her.\"  If she then says, \"You did not leave food. I borrowed from someone and provided for myself,\" he must swear that he did leave food, and he is then exempt, and the debt remains with her.  Rem\"a: The husband is not, however, believed to say that he has already provided for her for the future.  If she sold movable property and she said, \"I sold it to [pay for] food\" and he brings a claim and says, \"I left you your food,\" she must swear that he did not leave it.  Rem\"a: If he claims that she should have spent the profits from her handiwork on food, if she borrowed without the assistance of the court, and she is sufficiently productive that her handiwork does produce enough for large expenditures, even though she does not produce enough for trifles, his claim is valid.  If, however, the court allotted food for her, [his claim is only valid] if her handiwork yields enough profit for every expenditure.",
+      "ref": "Shulchan Arukh, Even HaEzer 70:10"
+    },
+    {
+      "seif": 11,
+      "he": "הרי שלא תבעה ולא לותה ולא מכרה אלא דחקה עצמה ביום ובלילה ועשתה ואכלה אין לה כלום ואם עשתה והותירה הכל שלה:",
+      "en": "If she did not make a claim [for her sustenance], nor did she borrow, nor sell property, but instead struggled day and night and made enough profit to sustain herself, she gets [no restitution from her husband].  If she produced some excess profits, she retains all of it.",
+      "ref": "Shulchan Arukh, Even HaEzer 70:11"
+    },
+    {
+      "seif": 12,
+      "he": "האשה שיצאה מבית בעלה והלכה לבית אחר אם באה מחמת טענה שהיא בשכונה שיוציאו עליה שם רע וכיוצא בזה חייב לזונה שם אם תבעה מזונות אבל אם לא תבעה מחלה על מזונות דלשעבר: הגה וה\"ה אם היתה לה קטטה עם בעלה ולא מתדר לה עמו והמניעה ממנו ולותה למזונות צריך לשלם אבל אם המניעה ממנה א\"צ לשלם דאין האיש חייב במזונות אשתו אלא כשהיא עמו (מרדכי פ\"ב דייני גזירות וכ\"כ הב\"י בשם הריטב\"א) ודוקא שבעלה בעיר אבל אין בעלה בעיר אין נפקותא אם הלכה לבית אביה ואם משום מלאכות הבית אם היתה חולה פשיטא דחייב דחולה לאו בת מלאכה היא ואם אינה חולה מנכה לה ממזונותיה כפי מה שצריך לשכור מי שעושה לו המלאכות קטנות שבבית אבל אינה מפסדת משום זה מזונותיה רק מחמת מעשה ידיה אם בת מלאכה היא (כל זה בב\"י סי' ע\"ז בשם תשו' הרשב\"א) ובמקום שחייב לה מזונות אע\"פ שבעלה הכריז שלא ילוה לה אדם והוא בעיר ולא תבעתו בדין ולותה חייב לשלם דלאו כל כמיניה והוא דלא ספקה במעשה ידיה (תשובת הרשב\"א סימן תצ\"ב):",
+      "en": "A woman who leaves her husband's home and lives in another home , if she came because of a bad rumor about her in her neighborhood or a similar reason, he must support her if she claims support, but if she doesn't claim support, she relinquishes her former rights to support.\n\n\"R\"ema\": This is also the law if she had a fight with her husband and she no longer lives with him because of his preventing her from doing so, and she borrowed support, he has to pay it back; but if she is preventing herself from doing so, he doesn't have to pay it back since a husband is only obligated to pay support for his wife when she is living with him (Mordekhai, Perek Sheini Laws of Decrees and the Beit Yosef also wrote this in the name of the Ritva) And this is specifically when the husband is in the same city, but if her husband isn't in the same city there is no difference if she goes to her father's home. And if because of housework, if she is ill it is obvious  he is obligated to pay, since a sick person can't do work; and if she isn't ill, he reduces her support according to how much he needs to pay someone else to do housework, but she doesn't lose (all) her support because of this, only the work her hands can produce if she is a skilled worker (all this is in the Beit Yosef chapter 77 in the name of the responsa of the Rashba) And in a place he is obligated to support her, even if her husband proclaims that no one should lend her money, and he is in the same city but didn't bring her to court, and someone lent her, he is obligated to pay it back, since this far is not done, and in a case where she can't support herself from her own handiwork. (Responsa of the Rashba chapter 492)",
+      "ref": "Shulchan Arukh, Even HaEzer 70:12"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ל' הטור מדברי התוספת כתובות ד\"ע ע\"ב וכ\"כ אביו הרא\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:1"
+        },
+        "2": {
+          "he": "ג\"ז שם ושם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:2"
+        },
+        "3": {
+          "he": "ל' הרמב\"ם שם בפ' י\"ב כפשטא דמשנ' שם דס\"ד ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:3"
+        },
+        "4": {
+          "he": "שם במשנ' וכדמפרש רב נחמן שם דף ס\"ה ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:4"
+        },
+        "5": {
+          "he": "והרשב\"א בשם הראב\"ד פירש כגון שעושה מלאכ' בעיר אחרת או לומד בעיר אחרת ה\"ה שם וכ\"כ בתשו' להרמב\"ן סימן ק\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:5"
+        },
+        "6": {
+          "he": "שם ממשנ' וגמ' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:6"
+        },
+        "7": {
+          "he": "מעובדא דביתהו דר' יוסי שם דף ס\"ה ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:7"
+        },
+        "8": {
+          "he": "מימרא דריב\"ב שם ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:8"
+        },
+        "9": {
+          "he": "שם בגמ' דף ס\"ד ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:9"
+        },
+        "10": {
+          "he": "שם במשנ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:10"
+        },
+        "11": {
+          "he": "שם במשנ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:11"
+        },
+        "12": {
+          "he": "וכ\"כ הרמב\"ם שם מבריי' שם דס\"ח ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:12"
+        },
+        "13": {
+          "he": "שם ברמב\"ם אע\"ג דקי\"ל כשמואל דהאומר איני זן ואיני מפרנס כופין אותו לזון שם דע\"ז ע\"א שאני הכא דלית ליה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:13"
+        },
+        "14": {
+          "he": "וכ\"פ הרב ב\"ח",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:14"
+        },
+        "15": {
+          "he": "פי' יגבו לה הב\"ד מזונותי' או יכופו לבעל למכרן למזון כן הוא שם ברשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:15"
+        },
+        "16": {
+          "he": "הרשב\"א בתשוב'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:16"
+        },
+        "17": {
+          "he": "ל' רמב\"ם שם כרב דאפסיק' הלכתא כוותיה שם דק\"ז ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:17"
+        },
+        "18": {
+          "he": "שם כדעת קצת מן הגאונים וכ' הטור שכן אמר אביו הרא\"ש ז\"ל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:18"
+        },
+        "19": {
+          "he": "ברייתא שם וכדמפרש לה רב חסדא שם ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:19"
+        },
+        "20": {
+          "he": "שם בבריי'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:20"
+        },
+        "21": {
+          "he": "כ\"נ שם מהסוגיא אליבא דרב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:21"
+        },
+        "22": {
+          "he": "כדין האלמנ' שמוכרת למזונותי' שלא בב\"ד כדלקמן סימן ל\"ג שכן משמע בסוגיא שם דלא שמעו בו שמת לרב כמו שמעו בו שמת לשמואל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:22"
+        },
+        "23": {
+          "he": "מימרא דמר עוקבא וכולי שם דף מח ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:23"
+        },
+        "24": {
+          "he": "הרשב\"א בתשוב' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:24"
+        },
+        "25": {
+          "he": "בתשובה ומפרש שם דדמי' לנכסים משעובדים שאין מוציאין מהם מזונות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:25"
+        },
+        "26": {
+          "he": "מבריית' כיצד אמרו ממאנת כולי שם דף ק\"ז ע\"ב ומאיבעי' דר\"א מר' יוחנן אלמנה לכ\"ג וכו' יבמות דע\"ה ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:26"
+        },
+        "27": {
+          "he": "משנה כתובות סוף דק\"ז וכחנן דאפסיקא הלכת' כוותיה דהניח מעותיו על ק\"צ שם בגמרא דק\"ט ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:27"
+        },
+        "28": {
+          "he": "מבואר מסוגיא שם דף קו ע\"א אבל אם מיחת' ואמרה איני רוצה לא כל הימנו כמש\"ל בס\"ט ס\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:28"
+        },
+        "29": {
+          "he": "מברייתא שם מה שפסקו פסקו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:29"
+        },
+        "30": {
+          "he": "שם וכפי פירושה במשנ' תשבע בסוף כו' כלומר כשיבא הבעל לטעון כנגדו כו' ושבועת המשנה יודיע שהי' בנקיטת חפץ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:30"
+        },
+        "31": {
+          "he": "מבריי' שם ואם בא כו' נאמן וכפי פי' שם וכ\"כ רי\"ף בדין כופר בכל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:31"
+        },
+        "32": {
+          "he": "במגו דהיתה יכולה לכפור בהן ולא היתה נשבעת אלא היסת",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:32"
+        },
+        "33": {
+          "he": "מברייתא שם אמר צאי מעש' ידיך במזונותיך שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:33"
+        },
+        "34": {
+          "he": "ה\"ה שם בשם הרמב\"ן והרשב\"א שכל שאינו נותן מזונות זכתה היא במעש' ידיה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:34"
+        },
+        "35": {
+          "he": "הריטב\"א ממשנה אי אפשי לזון וכו' שם דף ק\"ב ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 70:35"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "רגילים בגדולות דכתיב והיא בעולת בעל עולה עמו ואינה יורד' עמו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 70:1"
+        },
+        "2": {
+          "he": "ואם אין כולם רגילים בגדולו' אלא שבבית אביה נוהגין כן מפני שהו' עשיר אבל בני משפחתה שאין להם עושר כמו שיש לבעלה אינם מבקשין אותן הגדולו' אז (כו') כצ\"ל בתוספ' וכ\"ה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 70:2"
+        },
+        "3": {
+          "he": "כופין אותו להוציא דמספר כתובתה נלמד דכתיב בה ואנא אפלח ואוקיר ואוזין יתיכי כו' ור\"ת כ' דאין מזה ראיה דזה קאי על אותן מזונות שהן תחת מעשה ידיה וממילא אין כופין אותו להוציא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 70:3"
+        },
+        "4": {
+          "he": "דחייב להשכיר עצמו כפועל זה דעת רבינו אליה ומספר כתובה נלמד שכ' בה ואנ' אפלח ואוזין ור\"ת חולק דאפלח היינו עבודה שדרך לעשות כגון לעבוד ולחרוש וכ' בתשו' מיימוני סוף אישות סעיף ל\"ח כ' מהר\"ם דכל רבותינו שבצרפ' נוהגין לפסוק כרבינו אלי':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 70:4"
+        },
+        "5": {
+          "he": "שכ' להיפוך נראה לתרץ קושית רמ\"א בזה דבסי' קי\"ט אזיל לדעתו יכול לגרשה בע\"כ ממילא יכול לומר אניח כתובת' ביד ב\"ד ומשל' מזה שכר הרופא משא\"כ כאן דמיירי בענין שאין מגרשין בע\"כ:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 70:5"
+        },
+        "6": {
+          "he": "אבל אין נותנין לה במה שתתקשט כיון שאין בעל' בכאן א\"צ להתקשט והאי קישוט פרש\"י אבקת רוכל שהנשים רגילות בו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 70:6"
+        },
+        "7": {
+          "he": "פוסקין לאשתו תכשיט אע\"ג דאין כאן בעל הראוי להתקשט לפניו מ\"מ אין דומה למי שהלך למ\"ה שלפני זה דשם יצא לדעת ולא הניח לה מזונות ממילא לא ניחא לי אלא שהב\"ד נותנין לה מכח תנאי ב\"ד ואין בכלל תנאי ב\"ד אלא מזונות ולא קישוט משא\"כ בנשתט' שנותנין לה מזונות דהוי כמו שיצא שלא לדע' ואמרינן מסתמא ניחא לי' אי הוה בר דעת ע\"כ גם בקישוט אמרינן כן וכה\"ג מחלק בגמ' לענין מזון ובנותיו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 70:7"
+        },
+        "8": {
+          "he": "רק לששה חדשים  פי' בפעם אחת וכשכלו ו' חדשים יחזור ויתן לו חדשים וזה נלמד ממזון בפ' אלמנה ניזונית אמר אמימר הלכתא מוכרת לו' חדשים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 70:8"
+        },
+        "9": {
+          "he": "עד זמן שאלתו דעד אותו זמן ה\"ל משועבדים לשואל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 70:9"
+        },
+        "10": {
+          "he": "ואם אין האשה כו'  בר\"ן שם כ' דעיקר שיעבוד המלוה לא על הבעל אלא על האשה והי' תובעתו להבעל א\"נ שאין לאשה נכסים יכול לתבוע לבעל מדר' נתן עכ\"ל וא\"כ אינו יודע מ\"ש רמ\"א באם (אין) האשה כאן דאם יש לה נכסים ואז שייך לדר' נתן כמ\"ש בח\"מ סי' פ\"ו ואין יכול לתבוע הבעל אלא ימתין עד שתבוא האשה ויתבענה ואם אין לה נכסים אף אם יש האשה כאן הבעל חייב מדר\"נ והמרדכי פ' יש נוחלין בסופו כתב וז\"ל וביבמות פירש\"י אשה שלותה ואכל' ובעלה הלך למ\"ה אין המלוה יכול לתבוע דמצי אמר לי' לאו בעל דברים דידי את ואם יאמר הלא אתה חייב לזונה יכול לומר הלא היא אינה תובעת ממני כלום אמנם יכולה האשה לתבוע את בעלה כדי שיפרע מה שלות' ויש שדנין שמוציאין מבעל ונותנין למלוה מדר' נתן ואם מחלה לבעלה אז הפסיד המלו' עכ\"ל משמע דאפי' מי שסביר' ליה כרבי נתן מהני מחילה לבעלה וכך הם דברי רמ\"א כאן וה\"פ בד\"מ דאף בדר\"נ שייך מחילה אבל ק\"ל טובה הא פסקינן בסי' פ\"ו בח\"מ כר\"נ דלא מהני מחילה ע\"ש ומ\"ש כאן דמהני מחילה ונראה לתרץ ע\"פ מ\"ש התו' פ\"ב דכתובות גבי האומר שטר אמנה הוא חב לאחרים אינו נאמן ומקשי' התו' וליהמני במיגו דמצי מחיל כמו במוכר שטר חוב לחבירו וחזר ומחלו מחיל ותירצו דאינו רוצה למוחלו כי אינו רוצה להפסיד החוב לגמרי כי הוא סובר שהלו' יפרע לו ועוד תירצי דשאני במוכר שטר חוב שאין קנינו של לוקח אלא מדרבנן אבל בנושה לחברו מעות חייב לו מן התורה ויכול להוציא מן הלוה ובמרדכי פ' ב' דכתובות לא מביא תירוצ' קמ' ומ\"ה ניחא כאן דחיוב מזונות אשתו אינה אלא תקנתא דרבנן תחת מעשה ידיה משום כי יכול' למחול:  דברי המגיה כתב ב\"ש ס\"ק כ\"ד מיהו אם מחלה בח\"מ הקשה ע\"ז בח\"מ סי' פ\"ו מסקי' היכ' דמוציאין מדר\"נ אינו יכול למחול א\"כ גם כאן למה מהני מחילתא ונראה דלק\"מ דאיירי הכ' שהיה לה לשלם ואז יכול' למחול ואין האשה כאן לכן אינו יכול לתבוע לבעל והיינו מ\"ש ואם אין האשה כאן ש\"מ דאם היתה כאן מחויב' לשלם בעצמה כי יש לה לשלם עד כאן לשונו ודבריו תמוהים דביש לה נכסים לא שייך דר\"נ וצריך להמתין עד שתב' האשה ואף בלא מחלה לבעלה אינו יוכל לתבוע לבעל כן מקש' הט\"ז על רמ\"א שכתב ואם אין האשה כאן כו' ממ\"נ אם יש לה נכסים אף שאינה כאן א\"י לתבוע לבעל וצריך שימתין עד ביאתה ואם אין לה נכסים אף שהוא בכאן חייב הבעל מדר\"נ ודלא כמ\"ש הוא והיינו מ\"ש ואם אין האשה כאן כו' ובח\"מ כתב מ\"ש המרדכי ואם מחלה אז הפסיד הבעל ע\"ש וא\"נ דחד' כמ\"ש בלא מחלה נמי אינו יכול לתבוע להבעל ואם מתה האשה הפסיד המלוה כמ\"ש המרדכי בפ\"ש ד\"ג סי' ע\"ר ועוד למה עירב המרדכי דברי הסבורין כר\"נ בין דברי דלא סבירא להו כר\"נ וכתב מחלה האשה כ' אחר שכ' יש שדנין כר\"נ ולא כ' זה למעלה למאן דלא ס\"ל כר\"נ אלא מחוורת' כדברי הט\"ז דכאן הוא מדרבנן לכן מהני מחילה אף למאן דס\"ל לדר\"נ ומ\"ש החמ\"ח ואין לחלק בין חוב למזונות אשה שהוא מדרבנן וע\"כ בקל יכול למחול ז\"א חדא דהרמב\"ם ושאר פוסקים ס\"ל דמזונות הוי דאורייתא כו' עכ\"ל אין זה קושי' דהרי הרמב\"ן והרא\"ש והר\"ן והמגיד וכמה פוסקים ס\"ל דהם מדרבנן ובודאי המרדכי ס\"ל ג\"כ שהם דרבנן כי היכא דלא תקשו אדברי המרדכי קושי' הנ\"ל שזכרנו ומ\"ש ועוד למה כ' המרדכי דלא אתבא' אי הלכה כר\"נ הא אפי' אי הלכה בעלמא כר\"נ איכא לפלוני הכי כו' לק\"מ דהמרדכי כתב זה בפ' שני דייני גזירות כנ\"ל לענין שאינו יכול לתבוע הבעל כיון דלא אתברר דהלכה כר\"נ לפיכך אם מתה האשה מוציא מידו אבל אי היה בודאי הלכה כר\"נ לא הי' מחלק בין מדרבנן או דאורייתא כי מנ\"ל לחלק בלתי שום ראיה אבל באם מחלה האשה בזה יש לחלק בין מזונות שהוא מדרבנן לדאורייתא דאל\"כ יקשה מה שהקשו התוס' פ\"ב דכתובות גבי האומר שטר אמנה הוא והוא חב לאחרים דאינו נאמן במגו דמצי מחיל ומ\"ש המוכר שט\"ח דמצי מחיל ומוכרח לחלק בין דאורייתא לדרבנן והמרדכי מביא תירוץ זה בפ\"ב דכתובות א\"כ ה\"ה כאן במחל' האשה יש לחלק כן אבל בלא מחלה מנ\"ל לחלק בין דאורייתא לרבנן אי הלכה כר\"ג ומ\"ש ועוד הי' לו לחלק ולומר אע\"ג דבעלמא לא מהני הכא שאני כו' גם זה אינו כלום דהמרדכי סמך עצמו על מ\"ש בפ\"ב דכתובות דיש חילוק בין דאורייתא לדרבנן מכח קושי' הנ\"ל לכן כתב כאן סתם דמהני מחילת' וממילא יובן הואיל שהם מדרבנן מהני מחילה כאן כמו במוכר שט\"ח דמהני מחילה כיון שהוא דרבנן עכד\"ה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 70:10"
+        },
+        "11": {
+          "he": "חייב לשלם אע\"פ שלא אמר בפי' במזונותי' אלא הלו' סתם ב\"י בשם בעל התרומות:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 70:11"
+        },
+        "12": {
+          "he": "אבל אין האיש נאמן לומר שנתתי לה על העתיד  פי' לענין מזונות שעדיין לפנינו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 70:12"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "צמצמ' והותיר'.  עיין בשו\"ת תשובה מאהב' ח\"א סי' ע\"ח וסי' פ' שכ' דאין זה מוסכם להלכ' דממה שאמרו בס\"פ אף ע\"פ מותר מזונות לבעל אין ראיה כי שם לא מיירי בצמצמה אלא שניתותרו ממילא כגון שהיא בטבעה אינה אוכלת כ\"כ כשיעור שקצבו חכמים לסתם נשים וכמו שפירש\"י שם בהדיא ובזה הדבר פשוט שהוא לבעל שהרי אין הבעל חייב ליתן לה יותר ממה שצריכה היא אבל בצמצמה וסבל' רעבון ודוחק יכול' לומר שבשביל עצמה עשתה כן ולא שיזכה בה בעלה וכן מפורש בתוס' נזיר דף כ\"ד ע\"ב בד\"ה שקימצ' דאם צמצמה מפיה ולא אכלה כדי שובע הוא דידה אלא דאם יש מותר מחמת שהוזלו המזונות הוא לבעל וכן מפורש בר\"ן נדרים דף פ\"ח ע\"א ע\"ש. ולכן פסק הלכה למעשה שאין להוציא מיד האשה והסכים עמו רבו הגאון בעל נו\"ב ז\"ל וכתב דלא משום דהאשה יכולה לומר קים לי אתינן עלה דא\"כ באם גם עתה היא רוצה מזונות הרי הבעל מוחזק ויכול לומר להיפך קים לי וצא והתפרנס ממותר המעות שבידך אלא דבאמת דין זה ברור ולית ביה ספיקא כלל ע\"ש באריכות וכ\"כ בספרו דגול מרבבה בסי' זה (וע\"ש עוד בס\"ס פ\"ב מ\"ש על דברי הב\"ש סוס\"ק י\"ח) ועיין עוד מזה בס' בית מאיר כאן ולקמן סי' פ' ס\"א וגם בענין אם יהי' מה שזכתה נ\"מ או שלה לגמרי ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 70:1"
+        },
+        "2": {
+          "he": "ואם היה עני ביותר ואינו יכול כו'.  זהו לשון רמב\"ם פי\"ב מה\"א דין י\"א ופשט הלשון משמע שהוא עני וגם א\"י להשתכר כגון שהוא חולה או אנוס ואפ\"ה כופין להוציא אך בש\"ע לקמן סי' קנ\"ד ס\"ג איתא שאין לו במה לפרנס ואינו רוצה להשתכר כו' והוא לשון הר\"ן בשם הרשב\"א ס\"פ המדיר ולשון זה משמע שאפשר לו להשתכר אלא שאינו רוצה בזה הוא דכופין אבל בלא אפשר לו להשתכר שהוא אנוס אין כופין והיינו כדעת הי\"א שהביא הרמ\"א כאן ומש\"ה לא הגיע הרמ\"א שם כלום וכן מבואר בס' בית מאיר בסי' קנ\"ד שם ומסיים דקצת קשה על הש\"ע דבסי' ע' סתם כרמב\"ם וכאן בסי' קנ\"ד כלשון הרשב\"א ע\"ש (ועיין בתשו' חתם סופר סי' קל\"א שכתב גם כן דבאופן דנקט בש\"ע סי' קנ\"ד ס\"ג שאינו רוצה להשתכר גם הי\"א דכאן מודים שכופין להוציא דטעם הי\"א הוא דלא גרע משאר בע\"ח שאפי' המלוה מת ברעב אם אין לו להלוה פטור אך כשיכול להשכיר עצמו ולהרויח ואינו רוצה וקשה לכופו שיעשה מלאכה וירויח והוא אינו רוצה והוי חיי נפש והוא פושע ולכן כופין לכ\"ע ומש\"ה בסי' קנ\"ד ס\"ג לא הגיה הרמ\"א כלום (וכתב שם ליישב סתירת הש\"ע שעמד הב\"מ הנ\"ל ויובא בס\"ק שאח\"ז) . וכתב עוד דמ\"ש הרמב\"ם והש\"ע ואינו יכול ליתן לה כו' היינו אפי' יש לה משלה ותוכל לחיות בממון עצמה מכל מקום כיון שאין לו ליתן התחייבות שלו ה\"ל גבי דידה חיי נפש כו' ע\"ש) . ועיין בתשו' נו\"ב תניינא סי' צ' בד\"ה והנה מ\"ש בזה וע\"ל סי' קנ\"ד סק\"ה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 70:2"
+        },
+        "3": {
+          "he": "וי\"א שאין כופין.  כתב בספר בית מאיר וז\"ל לולא שאיני כדאי להכריע היה נלע\"ד כדעת הש\"ע שטעם הי\"א הוא שמדמי לבע\"ח הטוען אין לי לשלם ולע\"ד לא דמי דש\"ח דאגידא ביה וכשיגרשנה תנשא לאחר שיזונה וזה בידו והוי כבידו לשלם ותו דזה דמי לסימן קנ\"ד ס\"ז שמחוייב לגרש אף שנמי אינו יכול ובפרט להרמב\"ם שמזונות דאורייתא כעונה עכ\"ל ומשמע דרצונו להכריע כהרמב\"ם דכופין להוציא אף באינו יכול להשתכר והוא אנוס. (ועיין בתשו' ח\"ס שם שהזכיר דברי הב\"מ הנ\"ל שמכריע להלכה כהרמב\"ם והמחבר גם הביא שכ\"כ בס' ישועות יעקב. והוא ז\"ל כתב בזה. דמ\"ש הב\"מ מסברא דנפשיה לחלק בין בע\"ח לכאן כבר קדמו הכסף משנה שם. אלא דמ\"מ י\"ל דטעם הי\"א הוא דהא בלוה קיי\"ל אין גופו משועבד לו כלל כמבואר בח\"מ סי' צ\"ז סעיף ט\"ו ואשתו כגופו והוא צריך לה ואפילו כלים שעושים בהם או\"נ אין ממשכנים כו' איברא יש לחלק בשלמא הלואה דעלמא מלתא אחריתי היא ולהוציאה ניתנה ולא נשתעבד גופו לזה אלא נכסיו אבל הכא חוב המזונות היינו האשה בעצמה כיון דנישאת לו אדעתא דמזונות ואם אין מזונות אין אישות ונשואין שפיר כופין להחזיר האשה על מקומה הראשון דהיינו שיגרשנה ולא תהא אגידא ביה הגע עצמך אדם שהשאיל לחבירו רחים ורכב ועושה בהן חיי נפשו ולא שזקפו עליו במלוה אלא השאיל לו ועבר זמן השאלה וכי לא נאמר לא נכוף אותו להחזיר מפני שעושה בהן חיי נפש כו' (לע\"ד גם זה נכלל בלשון הכ\"מ שם שכ' וז\"ל ויש לתמוה כו' ומאחר שא' מתנאי הנישואין הם המזונות אם אין לו ממה לזון יוציא עכ\"ל ע\"ש) מיהו י\"ל זהו דוקא להרמב\"ם דס\"ל מזונות דאורייתא אך להפוסקים דס\"ל מזונות דרבנן אין הנישואין ומזונות תליא זה בזה כל כך כו' והאריך קצת ומסיים לדינא דמי שיש לו ואינו רוצה לזונה אין כופין להוציא (רק לזון) ומי שאין לו ואינו רוצה להרויח כופין בשוטים להוציא (כבסי' קנ\"ד ס\"ג) ומי שאינו יכול להרויח שהוא חולה ואינו פושע תליא למ\"ד מזונות דאורייתא כופין בשוטים ולמ\"ד לאו דאורייתא אין לכוף בשוטים ואמנם במילי כופין. ובזה מיושב סתירת המחבר (שעמד הב\"מ הנזכר בס\"ק הקודם) דבסי' ע' מיירי מכפי' בעלמא ע\"כ סתם כרמב\"ם ובסי' קנ\"ד מיירי מכפי' בשוטים דומיא דאינך התם ע\"כ כתב כל' הרשב\"א עכ\"ד. וע\"ש עוד שכ' דאם עברו יכפוהו על הגט כיון דע\"י ישראל אפילו שלא כדין כשר מה\"ת להרמב\"ם פ\"ב מה\"ג דין כ' א\"כ הכא באינו יכול להרויח מפני חולי דלרמב\"ם אפילו לכתחילה כופין וא\"כ לשאר הפוסקים נמי אם עברו וכפוהו אפשר אפילו מדרבנן כשר כו' ע\"ש):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 70:3"
+        },
+        "4": {
+          "he": "דחייב להשכיר עצמו עיין בתשו' הרדב\"ז ח\"ג סי' תקס\"ו מ\"ש (ועיין בתשו' ח\"ס סי' קל\"ב אודות רב א' שנסע לא\"י והניח אשתו ערטילאי וביתו ריקם ועתה ציוה בכתבו לתת לה החומש מהמקובץ לשלוח לו לשם והדבר ידוע שאינו מספיק לה בצוק העתים ודעת הגאון השואל לעכב כל המעות המקובץ ע\"י הגזבר הידוע וליתנו לה והוא ז\"ל השיב שהדבר קשה מאד הואיל ומתחילה לא ניתן אלא לפרנסתו להוציאו בא\"י לא נוכל לשנות מדעת בעלים ואפילו הוא בעצמו אילו הי' רוצה לאכלו בח\"ל ה\"ל גזלן ומשנה מדעת הבעלים כו' ושוב כתב דמ\"מ הדין הגאון השואל כיון דזה ברור לנו שלא לכסותה לעלות לשם לא\"י מטעם שכ' בפסקי מהרא\"י סי' פ\"ח ומטעם שכ' במעיל צדקה סי' כ\"ו (יובא לקמן סי' ע\"ה ס\"ק ו') כו' וכיון שע\"כ חייב לזונה ורע ומר המעשה הזה לעלות לשם ולא לצאת י\"ח פרנסת אשתו א\"כ מהראוי לכופו עכ\"פ בכל מיני כפיות דלאו כל כמיניה לעלות לא\"י ולהרעיב אשתו וא\"כ לא מבעיא אותו החומש שציוה ליתן שנוכל ליתנו לה ולא מקרי משנה מדעת הנותנים כיון דכל מגמת כוונת הנותנים להחזיקו שם בארץ הקדושה ואם לא תהיה מזונות אשתו קבוע בכאן הרי נכתוב עליו תמרורים ויהיה מוכרח לעקור משם ולשוב לח\"ל כו' אלא אפילו נראה שאין זה מספיק לכדי פרנסתה נוכל להוציא מיד הגזבר ליתן לה כראוי כו' ומ\"מ טוב להתרו' בו בתחלה ובין כך מסתפק בהחומש אשר הרשה ליתן לה ומותר המעות יהיה מונח ביד הגזבר עד בא תשובת הרב משם ע\"ש):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 70:4"
+        },
+        "5": {
+          "he": "או צריך למכרן.  עיין בתשו' ח\"ס סי' קל\"א בעסק משפט כזה):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 70:5"
+        },
+        "6": {
+          "he": "ואח\"כ נשתטית.  עבה\"ט וכ' עוד הב\"ש ואם היא שוטה בשעת הנישואין וכתב לה כתוב' נראה דחייב לה כל תנאי כתוב' כו' ובס' ב\"מ כתב עליו אינו יודע מהיכן נראה לו כן שיתחייב במה שלא כ' לה כו' ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 70:6"
+        },
+        "7": {
+          "he": "שכתב להיפך.  עבה\"ט מ\"ש והח\"מ כתב דכאן איירי דא\"ר ליתן כתובת'. ועיין בהגvות יד אפרים שכ' ע\"ז דמלשון תשובת הרשב\"א שהביא בד\"מ מבואר דאף באומר הרי גיטה וכתובת' לא מהני כיון שאינו יכול לגרשה ע\"ש. ועיין בתשו' חוט השני סי' ל\"ב שכ' על נדון דידי' וז\"ל ואין לפטuר אותו מטעם שנשטית שכ' הרמב\"ם פ\"י מה\"א שאין חייב לה בשכ\"ו כבר נפסקה ההלכה מפי גדול האחרונים כהראב\"ד שהשיג עליו וכן דעת הרשב\"א בתשו' שחייב לה בכל. ועוד אפשר שבזה גם הר\"מ מודה כי שגעון כזה הבא מחמת חולי ועודנה בחליה מוחזקים הם להתרפאות ואין אחד מני אלף אשר לא יכול להרפא והר\"מ לא פליג אלא היכא שהיא בריאה ומשתגעת שהשגעון ההוא ברוב פעמים הוא נצחי ואינו מוחזק להתרפאות עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 70:7"
+        },
+        "8": {
+          "he": "עמד אחד כו'.  עיין בתשו' הרמ\"ע מפאנו סי' פ\"ט:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 70:8"
+        },
+        "9": {
+          "he": "וזנה משלו.  עבה\"ט ועיין בתשו' חוט השני סי' ל\"ב דה\"ה אם עמד א' ופדה אשת חבירו מן השביה אין הבעל חייב לשלם ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 70:9"
+        },
+        "10": {
+          "he": "מיהו אם היו חייבים לבעל.  מסתימת הפוסקים משמע דאפי' אם החוב לא הגיע עדיין זמן פרעון וצ\"ע:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 70:10"
+        },
+        "11": {
+          "he": "רק מזונות שלו.  עג\"ש מ\"ש מיהו נראה עיקר דהאומר אכול עמי צריך לשלם לו וכן כאן בדין זה מוציאים ממנו. ועמ\"ש בזה בפ\"ת לח\"מ סימן רמ\"ו סי\"ז:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 70:11"
+        },
+        "12": {
+          "he": "אין לה מזונות עבה\"ט ועמ\"ש לעיל סי' ס\"ט סק\"ב וע' עוד בס' ב\"מ כאן:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 70:12"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "עמו וכו'.  עיין ב\"ש. התובעת מבעלה שיתן לה מזונות ומאכלים טובים באותן ג' או ד' שבועות שהן אחר הלידה שדרך הנשים לשכב במטה מעת הלידה ד' שבועות ולשכור לה משרתת כדרך הנשים שלנו והבעל אינו רוצה כייפינן ליה רש\"ל בתשובה סימן מ\"ה: אדם שרוצה לצאת מעירו לדור בארץ אחרת בשביל שאינו מתפרנס בעירו ואשתו אינה רוצה אינו חייב בשאר כסות ועונה הרש\"ך ח\"ב סי' ל\"ו וע' סי' ע\"ה. הנשבע שלא לתת שאר כסות לאשתו. אם שבועתו חל עליו. להרמב\"ם דס\"ל שהם מדאוריית' אין השבועה חל עליו. ולדעת הרמב\"ן דס\"ל שהם מדרבנן שבוע' חל עליו. והרא\"ש בתשובה כלל ח' סי' ז' והביאה הטור בסי' קנ\"ד כתב שלא חל עליו השבועה. ועיין הרדב\"ז ח\"א סי' ק\"ץ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:1"
+        },
+        "2": {
+          "he": "סעודות.  דהיינו כל שבוע ט\"ו סעודות. בכל יום ב' סעודות וביום ו' ס\"א. ובשבת ג\"ס. ובמ\"ש ס\"א. ובשבת נותנין לה בכל סעודה לחם ובשר עיין ב\"ח. ואיירי בשאינה אוכלת עמו והוא עני מ\"מ חייב ליתן לה לחם ב\"ש. אבל אם היא אוכלת עמו מתגלגלת עמו אף בפחות משיעור זה ובלבד שיתן לה לחם ב\"ש. והח\"מ לא כ\"כ ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:2"
+        },
+        "3": {
+          "he": "מניקה.  כלומר נותנים לה מעט יין בכל מקום שהיין יפה לחלב אבל יותר מכוס א' אין נותנין ח\"מ. וב\"ש כתב דמניקה שאני ונותנין לה יותר מכוס א' ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:3"
+        },
+        "4": {
+          "he": "מאכלה.  ה\"ה כלי אכילה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:4"
+        },
+        "5": {
+          "he": "לחם.  משמע אם יש לו יכולת ליתן לה לחם אין כופין אותו ליתן גט בשביל לפתן ושאר דברים. ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:5"
+        },
+        "6": {
+          "he": "כפועל.  אף שיש לו ליתן לה מזונות בצמצום חייב להשכיר עצמו ליתן לה מזונות לפי כבודה דהא כתב בכתובה אנא אפלח ואוקיר ח\"מ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:6"
+        },
+        "7": {
+          "he": "נשתטית.  אבל אם היתה שוטה בעת הנשואין לא תקנו חז\"ל נשואים לשוטה. אבל אם נשתטית אחר הנשואין אז אינו פטור מחיובו אלא כשמגרש אותה וזו א\"י לגרש לכן חייב ליתן לה מזונות:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:7"
+        },
+        "8": {
+          "he": "להיפך.  ושם כתבתי דכאן איירי בשוטה דא\"י לשמור את גיטה ע\"ש. והח\"מ כתב דכאן איירי דאין רוצה ליתן לה כתובתה ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:8"
+        },
+        "9": {
+          "he": "למד\"ה.  ואם הלך למקום קרוב והי' בדעתו לחזור לביתו ונשתקע שם פוסקים לה מיד עיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:9"
+        },
+        "10": {
+          "he": "מזונות.  אפילו לא שמעו שמת:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:10"
+        },
+        "11": {
+          "he": "שתתקשט.  שהרי אין לה בעל להתקשט לו. אבל אם הוא חרש ושוטה נותנים לה להתקשט כי אינה מחויבת להיות לעולם בלא תכשיטין ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:11"
+        },
+        "12": {
+          "he": "ידיה.  כ\"כ הרמב\"ם והרמב\"ן והרשב\"א דאפילו אם ידוע להב\"ד דמעשה ידיה מספיק לה מ\"מ פוסקין לה מזונות. ולקמן סעיף יו\"ד בהג\"ה הביא הרב דברי הטור בשם הרא\"ש כשב\"ד פוסקים לה מזונות מדקדקין תתלה אם יספיק לה מ\"י וכנגד מ\"י אין פוסקים לה ע\"ש. וכאן לא הביא הרב כלום וצ\"ע ח\"מ. והב\"ש כתב דהעיקר כהרמב\"ם והרמב\"ן והרשב\"א ולא כהרא\"ש ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:12"
+        },
+        "13": {
+          "he": "למזונות.  וה\"ה אם מכרה לפרוע חוב בעלה מכרה קיים רשד\"ם חח\"מ סי' ר\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:13"
+        },
+        "14": {
+          "he": "בעלה.  ואז אם יבא הבעל ויטעון צריכה שבועה אבל א\"י להוצי' מה שמכרה אע\"ג דמכרה בלא הב\"ד. וכתב הח\"מ כשבא הבעל יוכל לטעון הנחתי לך לך צררי או אמרתי לך צאי מ\"י במזונותיך וע\"ז הטענה צריכה שבועה. אבל אם טוען תשבע לי שלא הזדמן לך מלאכה לאו טענה היא. אבל מדברי הרא\"ש משמע אף בכה\"ג טענתו טענה עיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:14"
+        },
+        "15": {
+          "he": "חדשים.  ומ\"מ אין נותנין לידה כל הממון רק מעכבין המעות ביד הנפקד או ביד אחר ומפרנסין וזנין אותה מן המעות וע\"ל סי' צ\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:15"
+        },
+        "16": {
+          "he": "אחרים.  היינו כשיש להם טענה על הנכסים ב\"ש ועיין בש\"ך ח\"מ סי' פ\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:16"
+        },
+        "17": {
+          "he": "לשלם.  דוק' אם לוחה בעדים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:17"
+        },
+        "18": {
+          "he": "מיהו אם מחלה האשה לבעלה.  האחרונים תמהו מאחר דהבעל משועבד מדר\"נ אך היא יכולה למחול ע' מ\"ש הב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:18"
+        },
+        "19": {
+          "he": "ירושה.  ל\"ד דה\"ה אם יש לה נכסים עתה בשעת הלואה דנפרע ממנה ח\"מ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:19"
+        },
+        "20": {
+          "he": "משלו.  ואין חילוק בין אם זנה אותה סתם ובין אם זנה אותה לשם מזונות הבעל ב\"ש. ואין חילוק בין מזונות לרפואות בין שיש לה קצבה בין שאין לה קצבה ומלבושיה ושכר דירה הרמ\"ע מפאנו סי' פ\"ט:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:20"
+        },
+        "21": {
+          "he": "לו.  וכן האשה אינה חייבת לפרוע מה שהלוו לבעלה ופרנסו אותה הר\"מ איסרלש סימן פ\"ו. ומ\"ש הב\"ש כאן. שדיתי ביה נרגא לקמן סי' קמ\"א ס\"ק י\"ג ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:21"
+        },
+        "22": {
+          "he": "לבעל.  ל\"ד חייבים אלא ה\"ה אם לקח מנכסי הבעל ופרנס אשתו אע\"ג דלא הודיע לבעל תחלה דלא אמרו דהניח מעותיו על קרן הצבי אלא היכא דפרנס משלו הגהת מרדכי. וכתב רשד\"ם חא\"ה סימן קכ\"ג ובשבועה שנשבע המפרנס כמה הוצי' ואם תובע דבר ושיעור חוץ מן השורה לאו כל כמיניה ואינו נאמן אפילו בשבועה ועיין במהר\"ם מטראני ח\"ב סי' למ\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:22"
+        },
+        "23": {
+          "he": "ופרנסה.  דמסתמ' מחלה דדרך הנשים הוא לגלגל עם בעליהן כ\"כ הרמב\"ן. לפ\"ז אפילו אם א\"י לעשות שום מלאכה מ\"מ א\"צ להחזיר לה כי מסתמ' מחלה לו. והר\"ן הניח דין זה בצ\"ע. מיהו אם אמרה בפני עדים דאין דעתה לוותר דינה כלותה ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:23"
+        },
+        "24": {
+          "he": "מזונות.  ואפי' אם ספקה לה מעשה ידיה למזונותיה א\"י לומר לה צאי מ\"י למזונותיך אא\"כ כשהיא מרוצה או ששתקה דהוי קבלה ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:24"
+        },
+        "25": {
+          "he": "מזונות.  ה\"ה אם טוען אמרתי צאי מ\"י במזונתך ושתקה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:25"
+        },
+        "26": {
+          "he": "בנק\"ח.  היינו אם מכרו הב\"ד אפי' מטלטלין צריכה לישבע שבועה בנק\"ח. אבל אם היא מכרה אינה נשבעת בנק\"ח אלא כשמכרה דוק' קרקע או מטלטלין הידועים שלא היתה יכולה לכפור בהם אבל מכרה מטלטלין שהיתה יכולה לכפות בהם אין עליה אלא שבועת היסת עיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:26"
+        },
+        "27": {
+          "he": "ונפטר.  ל\"ד נשבע ונפטר אלא אפי' הפקיד פקדון ביד הזן את אשתו נשבע ונוטל פקדונו רשב\"א סי' תתפ\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:27"
+        },
+        "28": {
+          "he": "היה לה וכו'.  ר\"ל מה שפסק בסעי' ח' כשלותה חייב לשלם היינו כשלא טען הוא אז אין הב\"ד פותחין טענה זו אבל אם הוא טען טענתו טענה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:28"
+        },
+        "29": {
+          "he": "טענה.  אבל בדברים בעלמ' אינה נאמנת:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:29"
+        },
+        "30": {
+          "he": "עמו.  אפילו למאן דס\"ל דהבעל יוכל להשרות אשתו ע\"י שליש כמש\"ל סי' ע' מכל מקום היא א\"י להשרות אותו וכשתלך אין לה מזונות אפי' לפי ברכת הבית אחרונים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 70:30"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

@@ -1,0 +1,179 @@
+{
+  "chelek": "EH",
+  "siman": 101,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 4,
+  "fetchedAt": "2026-07-08T00:09:00.342Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "עד כמה גובה כתובתה. ובו ד סעיפים:אלמנה כל זמן ששטר כתובה בידה גובה לעולם בין אם נותנים לה מזונות בבית אביה או בבית בעלה ונשבעת אפילו לאחר שנשאת. אפילו עברה עליה שמיטה אינה נשמטת אא\"כ פגמה אותה שגבתה מקצת או שזקפה במלוה ואם אין כתובתה בידה ובאה לגבות בתנאי ב\"ד במקום שאין כותבים אם נותנים לה מזונות בבית אביה  (או שנשאת לאחר) (מרדכי סוף פ' הנושא)  אינה גובה אלא עד סוף כ\"ה שנה אבל שתקה כ\"ה שנה ולא תבעה מחלה ואם תבעה תוך כ\"ה שנים מונין לה כ\"ה שנים מיום שתבעה וכן יורשיה צריכים לתבוע תוך כ\"ה שנה למיתתה ואם שתקו יותר מעשרים וחמש שנים מחלו וכל שזכרה ואמרה שמה ששותקת לאו משום מחילה הוי כתבעה (הר\"ן פרק הנושא):",
+      "en": "A widow, as long as the Ketuba is in her possession, [is able to] collect [the money due to her] forever, whether she is supported in her father's house or her [new] husband's house, and she is assured [this] even after she remarries. Even if seven years have passed, [the money] is not withheld [from her], so long as she does not render it defective, i.e. she collects some, or she uses it as collateral for a loan. And if the Ketuba is not in her possession, and she comes to collect with a claim to the court in a place where they do not write, [debts such as these into the public record] if she is supported in her father's house, (Rem''a: or she remarried (Mordechai, the end of Chapter 'HaNose')) she does not collect until the end of a twenty-five year period. But if she remains quiet for twenty-five years and does not make a claim, she forgives [the debt]. And if she makes a claim within twenty-five years [of her previous husband's death], the twenty-five year period [she must wait to collect the debt] is counted from the day she [initially] makes her claim. Additionally, her heirs need to make the claim within twenty-five years of her death, and if they remain silent longer than twenty-five years, they forgive [the debt]. (Rem''a: And any [woman] who remembers and says that the silence was not due to forgiveness [of the loan], it is as if she made a claim (Ran, Chapter 'HaNose')",
+      "ref": "Shulchan Arukh, Even HaEzer 101:1"
+    },
+    {
+      "seif": 2,
+      "he": "אפי' אם ניזונית בבית אביה אם היורשים מכבדים אותה שמוליכים לה מזונותיה בעצמם אין שתיקתה מחילה שמפני הבושה שתקה ולא מפני שמחלה:",
+      "en": "Even if she is given food from her father's house, if the heirs honor her by sending her food themselves, her silence is not considered forgiving the debt, [for we suspect] that her silence was due to shame and not because she forgave it.",
+      "ref": "Shulchan Arukh, Even HaEzer 101:2"
+    },
+    {
+      "seif": 3,
+      "he": "נדוניא לעולם אינה מוחלת אפילו שהתה כמה שנים:",
+      "en": "The dowry is never forgiven, even if she postponed [collection] for several years.",
+      "ref": "Shulchan Arukh, Even HaEzer 101:3"
+    },
+    {
+      "seif": 4,
+      "he": "גרושה לעולם אינה מוחלת אפילו שהתה כמה שנים:",
+      "en": "A divorcee never forgives the debt, even is she postponed [collecting] several years.",
+      "ref": "Shulchan Arukh, Even HaEzer 101:4"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מימרא דרב יהוד' אמר רב וכו' כתובות דף ק\"ד ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 101:1"
+        },
+        "2": {
+          "he": "טור וכ\"כ הרא\"ש בתשו' כלל ל\"ז ממ\"ש אבל ניסת אין מדירין אותה משום דמיפר לה בעל וכו' גיטין דף לה ע\"ב משמע הא שבוע' דאין הבעל יכול להפר שפיר דמי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 101:2"
+        },
+        "3": {
+          "he": "מימרא דרבי ינאי כתובות דף נד ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 101:3"
+        },
+        "4": {
+          "he": "כמימרא דשמואל גיטין דף י\"ח ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 101:4"
+        },
+        "5": {
+          "he": "משנה שם דף קד ע\"א וכמימרא דרב יהודה אמר רב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 101:5"
+        },
+        "6": {
+          "he": "כחכמים שם במשנ' דבבית בעלה מפני שמכבדים אותה היא בושה למחול על כתובתה וגובה לעולם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 101:6"
+        },
+        "7": {
+          "he": "מימרא דרב נחמן בר יצחק וכו' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 101:7"
+        },
+        "8": {
+          "he": "שם במשנ' וכדמוקי לה בשבועות דף מח ע\"א שנשבעה ומתה ונתבאר זה בסימן צ\"ז",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 101:8"
+        },
+        "9": {
+          "he": "עובדא חמתיה דרב חייא אריכא שם בכתובות דף פט ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 101:9"
+        },
+        "10": {
+          "he": "טור וכ\"ד הרא\"ש מהא דר' ינאי שם וכ\"כ ה\"ה בפט\"ז לדעת הרמב\"ם מימרא דרב עילאי וכו' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 101:10"
+        },
+        "11": {
+          "he": "פירוש רש\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 101:11"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "ונשבעת אפי' לאחר שניסת דוקא שבועה אבל לא נדר דיש לחוש שמא הבעל יפר לה כמ\"ש לעיל ס\"ס פ\"ו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 101:1"
+        },
+        "2": {
+          "he": "שגבתה מקצת הואיל שפרע קצת גלי דעתיה דעומד' (להתגרש) (צ\"ל ליגוש) וליפרע:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 101:2"
+        },
+        "3": {
+          "he": "במקום שאין כותבין נראה פשוט דאף במקום שאין כותבין אם שינה וכתב ושטר כתובתה בידה גובה לעום דלאו במקום תליא מלתא אלא בשטר כתובה בידה תליא מלתא ולא זכר כאן המקום שאין כותבין אלא דשם אין רגילין לכתוב אלא סומכין על תנאי בית דין ובטור ובש\"ע יש דילג וכצ\"ל במקום שאין כותבין אם נותנין לה מזונות בבית בעלה גובה לעולם ואם כו':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 101:3"
+        },
+        "4": {
+          "he": "נדוניא לעולם דזה הוה כמו שאר חוב ע\"כ אם יש לה עדים כמה היתה ושלא נפרעה עדיין או שיורשים מודים אז לא שייך בה מחילה מחמת שלא תבעה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 101:4"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "אלא עד סוף כ\"ה שנים.  עיין בתשו' אא\"ז פנים מאירות ח\"ב ר\"ס קע\"ד שכ' דמדברי הגמ' כתובות דף ק\"ד יש ללמוד דמיד אחר שכלה יום אחרון של כ\"ה שנה אפי' קודם צה\"כ לאחר שקיעת החמה כיון דהוי בין השמשות והוא ספק ליל' מעמידין הממון בחזקת יורשי הבעל. ושם בסוף התשובה מבואר דחודש העיבור בכלל שנה וה\"ה בכל השטרות ותקני' שנזכר שנה חודש העיבור בכלל ע\"ש ועמ\"ש לעיל סי' נ\"ג ס\"ק י\"א:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 101:1"
+        },
+        "2": {
+          "he": "וכל שזכרה.  עיין בס' ישועות יעקב שכ' יש להסתפק בדבר אם היא אומרת שזכרה והם מכחישים אותה איך הדין נוטה אי נאמנת או לא. והאריך קצת בזה ומסיים ויותר נראה שאינה נאמנת בזה ע\"ש ועיין בספר בית מאיר מזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 101:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "אביה וכו'.  ה\"ה אם אין נותנין לה מזונות כלל ג\"כ גובה כתובתה כל זמן שהכתובה בידה ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 101:1"
+        },
+        "2": {
+          "he": "שנשאת.  ולענין אם נזקקים לגבות מיתומים קטנים אחר שנשאת עיין ב\"ש ס\"ס צ\"ו ס\"ק ל\"ג. ועיין בד\"מ סי' זה. והיכא שמת פתאום נזקקים דאז אמרינן מסתמ' דלא התפיס צררי עיין ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 101:2"
+        },
+        "3": {
+          "he": "לאחר.  היינו כשהם מודים דחייבים לה דאל\"כ כשנשאת לאחר ואין הכתובה בידה אינה גובה אפי' במקו' שאין כותבין כתובה כמ\"ש לעיל ר\"ס ק' ע\"ש. ועיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 101:3"
+        },
+        "4": {
+          "he": "לתבוע.  היינו כשנשבעה ומתה דאל\"כ אין אדם מוריש השבועה לבניו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 101:4"
+        },
+        "5": {
+          "he": "בעצמם.  תרתי בעי שאין נותנין לה ממון רק מזונות מוכנים. וגם שמביאים לה בעצמם ולא שולחין לה ע\"י שליח ח\"מ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 101:5"
+        },
+        "6": {
+          "he": "מוחלת.  צריך לומר דאיירי דהם מודים דחייבים לה דאל\"כ קשה היכי יכולה לגבות בלא שטר ואי איירי דהשטר בידה הוא א\"כ אף בכתובה לעולם אינה מוחלת אלא איירי דאין השטר בידה אלא הם מודים אז יש חילוק בין כתובה לנדוני' כי הנדוני' דינו כחוב ולא מחלה המגיד ח\"מ ב\"ש והחשבון הנדוני' מאשה שמתה בלא זרע של קיימא כפי התקנה או המנהג הרי הוא כנדוני' מהרא\"ש בתשובה סי' ל\"ז. הר\"ש הלוי סי' י\"ד:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 101:6"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

@@ -1,0 +1,230 @@
+{
+  "chelek": "EH",
+  "siman": 91,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 5,
+  "fetchedAt": "2026-07-08T00:09:00.212Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "אשה שהכניסה מלוה לבעלה ומחלה. ובו ה סעיפים:אשה שהכניסה שטר חוב לבעלה וחזרה ומחלתו אינו מחול מפני שידו כידה: הגה ולכן אינה נאמנת ג\"כ לומר פרוע הוא (נ\"י פ' הכותב) וה\"ה מלוה על פה אינה יכולה למחול (ב\"י בשם ר\"י):",
+      "en": "A woman who receives a debt document for her husband, and she goes and waives the debt, the waiving does not work, for his hand is like her hand. Rem\"a: Therefore she is not believed as well to say \"He redeemed [the debt]\" (Nimukei Yosef Perek Hakotev). And the same is true for a loan, which she cannot forgive on his behalf (Bet Yosef in the name of the R\"Y).",
+      "ref": "Shulchan Arukh, Even HaEzer 91:1"
+    },
+    {
+      "seif": 2,
+      "he": "בעל בנכסי אשתו הוי כלוקח לפיכך מי שאמר לאשה נכסי לך ואחריך לפלוני ונשאת הוי כלוקח ואין לאחריך במקום בעל כלום דקיימא לן נכסי לך ואחריך לפלוני ומכר הראשון אין לשני אלא מה ששייר ראשון בד\"א באומר כן לפנויה אבל האומר לנשואה נכסי לך ואחריך לפלוני ומתה אחריך קונה ולא הבעל לפיכך האומר לנשואה נכסי לך ואחריך לפלוני ומכרה ומתה יעמדו נכסים ביד הלוקח:",
+      "en": "A husband's status with respect to his wife's property is that of a purchaser.  Therefore, if a man said to woman, \"My property is yours and after you it should go to such-and-such\" and he then marries her, he is like a purchaser, and the \"after you\" claimant has no potency in the presence of the husband, for we have concluded that [in a case where a person said] \"my property is yours and after you it should go to such-and-such\" and the first one then sold the property the second one only has a claim to the portion that remained with the first one.  This is true is he had made the statement to a single woman.  If however, a man said to a married woman, \"My property is yours and after you it should go to such-and-such\" and she then dies, the \"after you\" claimant acquires [the property] and not the husband.  Therefore, if a man says to a married woman, \"My property is yours and after you it should go to such-and-such\" and she then sold it, and then died, the property should stay with the purchaser.",
+      "ref": "Shulchan Arukh, Even HaEzer 91:2"
+    },
+    {
+      "seif": 3,
+      "he": "גבו לאשה קרקע מבעל חובה ונשאת ומתה וירשה הבעל אע\"ג דשומא חוזרת לעולם הכא אינה חוזרת דבעל כלוקח הוי והוי כאלו מכרתו לאחר וכן אם גבו ממנה לבעל חוב ונשאת ומתה וירשה אין מחזירין לו השומא:",
+      "en": "If real property was collected on a woman's behalf as payment of a debt owed to her, and married, and then died and her husband inherited from her, even though land acquired through collections may always return to their original inheritors, in this case the land does not return, because the husband is considered a third-party acquirer, and it is if the land had been sold to another person.  And comparably, if they had claimed land from her for a debt she owed, and she then married, died, and her husband inherited, the land acquired through debt collection is not returned to him.",
+      "ref": "Shulchan Arukh, Even HaEzer 91:3"
+    },
+    {
+      "seif": 4,
+      "he": "היה עליה מלוה על פה ואח\"כ נשאת אינה נגבית מהבעל דמלוה ע\"פ אינו גובה מהלקוחות: הגה מיהו אם המעות שהלוה בעין חייב לשלם (ר\"י והמרדכי) ואם בא המלוה קודם שנשאה ורוצה למחות נשואיה עד שתפרעהו ושלא יפסיד שלו הדין עמו ואע\"פ שעדיין לא הגיע זמן הפרעון (ב\"י בשם נ\"י)  אבל אם היה עליה מלוה בשטר גובה מנכסים שהכניסה לבעלה קהל שעשו ביניהם תקנות בקנסות ועברה אשה על התקנה בעלה חייב לשלם (ב\"י סי' ע' בשם ת\"ה סי' רפ\"ב):",
+      "en": "If she had taken out a loan on a verbal commitment and later married, it may not be collected from her husband, since a verbal loan is not enforceable against third parties.  \n\nNote: nonetheless, if there are particular coins that were lent, he is obliged to pay them (R. Y' and the Mordochai). And if the lender came before she was married and wishes to protest against her marriage until she pay him back so that he should not lose what is his, the fair judgment is on his side, even if the due date had not yet come (Beit Yosef, quoting the Nimukei Yosef).  \n\nBut if she had taken out a loan with a written agreement, one may claim it against any assets she brought to the marriage. \n\nIn a community that made rules subject to fines, and the woman violated such a rule, her husband is obliged to pay (Beit Yosef paragraph 70 in the name of ? paragraph 282).",
+      "ref": "Shulchan Arukh, Even HaEzer 91:4"
+    },
+    {
+      "seif": 5,
+      "he": "שלח סבלונות למשודכת והלכה ונשאת לאחר והלה תובע סבלונותיו דינם כמלוה בשטר: הגה אם לקחה יותר מכתובה ונשאת צריך הבעל לחזור המותר (מהרי\"ק שורש י\"ח) וכן אם נתחייבת מס ונשאת הוי כשלח הסבלונות דכל אלו קלא אית להו ואין דרך לעשות בהן שטר לכן הוי כמלוה בשטר (מהר\"ם פדוואה סי' נ\"ה) אבל ניזקין ומקח ודברים אחרים אין חייב לשלם (נ\"י פ' י\"נ) אשה ששדכה בתה לאיש ונתחייבה בנדוניא ואח\"כ נשאת בעצמה לאיש המשודך לבתה מוציא כל מה שנתחייבה מבעלה מנכסים שהכניסה לו דהוי כמלוה בשטר אע\"פ שבשעה שעשתה השדוכין לבתה עדיין לא נשבעה על כתובתה מ\"מ מאחר דנשבעת לבסוף אגלי מילתא למפרע דמה שעשתה תחילה בדין היה (ב\"י בשם תשובת הרשב\"א) י\"א הא דמלוה בשטר גובה מן הבעל מנכסים שהכניסה לו היינו שהכניסה לו קרקע או מטלטלין וכתבה לבעלה חוב המטלטלים אגב קרקע אבל לא כתבה לו אגב ולא הכניסה לו רק מטלטלין אפי' מלוה בשטר אינה גובה מבעלה דאין ב\"ח טורף ממטלטלין המשועבדים (תשו' רמב\"ן סי' נ\"ו) וסברא נכונה היא ומ\"מ נראה להו דבמכנסת שאינה שלה כגון שלקחה יתר מכתובתה חייב להחזיר בכל ענין (ועיין בח\"ה סוף סי' צ\"ו) (נתבאר לעיל):",
+      "en": "If one sent bridal gifts to a woman to whom he had been introduced as a potential spouse, but she went and married a different man, and the first demanded the return of his bridal gifts, their rule is as if he had lent money under a written agreement. \n\nNote: If she took more than the amount she would be entitled to in her ketubah and then married, the husband is obliged to return the excess (from the R'iK, root 18).  And similar if she owed taxes and married, it is like the case of the sender of bridal gifts, because these are subject to a leniency because there is no way to produce written agreements about them, and so we treat them as if they were loans that did have written agreements (Maharam of Padua, section 95).  But tort damages and negotiated business debts and other things, he is not obliged to pay (Nimukei Yosef, the chapter \"Some inherit\").  A woman who arranged a marriage for her daughter to a man and committed to a dowry, and later herself married: the daughter's prospective husband may claim what the mother committed to from her husband against the assets she brought to the marriage, just as if it were a loan with a written agreement; even though at the time that she arranged her daughter's marriage she had not yet  engaged the vows of her ketubah, still since she eventually engage that vow, we consider her words even out of the order they happened, since what she did originally was justified. (Beit Yoseph quoting a responsum of the Rashba).  Some say since it is as if it was a written loan we collect from the husband out of the assets she brought to the marriage, that is, if she brought him real property or movable property and wrote a debt to her husband of the movable property against the value of the real property; but if she did not write about it, and only brought the movable property to the marriage, even one who had loaned her money with a written agreement may not collect it from her husband, as a debt-holder may not seize movables that are already subordinated (responsum of Nachmanides paragraph 56).  And it is logically reasonable.  And it is apparently a reasonable negogiation, since in propertly she brought to the marriage but that she doesn't hold title to, for example if she took more than her holding in the ketubah, he must in any case return it. And see Hoshen HaMishpat the end of section 96 (explained there).",
+      "ref": "Shulchan Arukh, Even HaEzer 91:5"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מימרא דרבא וכולי דמודה שמואל וכו' כתובות דף פה עב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 91:1"
+        },
+        "2": {
+          "he": "מימרא דאביי שם דצ\"ה ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 91:2"
+        },
+        "3": {
+          "he": "בריי' שם וכרשב\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 91:3"
+        },
+        "4": {
+          "he": "אוקימתא דגמ' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 91:4"
+        },
+        "5": {
+          "he": "בגמ' מאי קאמר לה אחריך ליקני בעל לא לקני",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 91:5"
+        },
+        "6": {
+          "he": "פשוט בגמרא ד' ל\"א ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 91:6"
+        },
+        "7": {
+          "he": "(נמצא כן בטור ובח\"מ ק\"ג סעי' י' לא כתב הרב המחבר ומתה והרמ\"א בהג\"ה כ' שיש אומרים דוקא ומתה)",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 91:7"
+        },
+        "8": {
+          "he": "בעיא ולא נפשט' ב\"ב דקל\"ט ע\"א כדעת הרי\"ף והרא\"ש דאיהו דאפסיד אנפשיה דלא אבעי ליה לאוזופי בלא שטר לאיתתא דקיימא לאנסובי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 91:8"
+        },
+        "9": {
+          "he": "פשוט שם בגמ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 91:9"
+        },
+        "10": {
+          "he": "תשובת הרא\"ש כלל ל\"ה סי' ז' והביאו הטור ומפרש שם הטעם משום שדרך לשלוח הסבלונות בפומבי והוה ליה כמלוה בשטר",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 91:10"
+        },
+        "11": {
+          "he": "כן היא בב\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 91:11"
+        },
+        "12": {
+          "he": "(פירוש שנשאת לאיש אחר שמעון המשודך לבתי מוציא וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 91:12"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אבל האומר לנשואה כו'  דמ\"ה אמר לה כן דניחא ליה דאחריך ליקני ובעל לא ליקני אבל בפנויה לא עלה על דעתו אלא למעוטי שאר יורשים נ\"י פרק י\"ג וסיים בטור הבעל יכול להוציא מיד הלקוחות פי' כיון שהבעל יורש אשתו מוציא הגו מן הלקוחות והאחריך מיד הבעל והלוקח מוציא מיד האחריך כיון דהאשה מכרה השדה לא שיירה מידי ואין להאחריך אלא מה ששיירה האשה ודוקא מתה אבל לא מתה אע\"ג דהבעל מוציא מיד הלוקחו' להרא\"ש לעיל בסי' צ' והמכר בטל מיד מ\"מ אין האחריך מוציא מן הבעל בחיי האשה דהבעל אוכל פירות אפילו בנכסים שנפלו לה קודם שנתארסה כ\"ש במה שנפלו לה אחר שניסת:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 91:1"
+        },
+        "2": {
+          "he": "כאלו מכרתו לאחר ע' בח\"מ סי' ק\"ג דאם נמסרה הקרקע לא אמרי' שומא הדרא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 91:2"
+        },
+        "3": {
+          "he": "קהל שעשו תקנה כו'  לא ידעתי מקור לזה אולי נלמדות מההיא דבפ' המקבל בב\"מ דף ק\"ד תניא רבי יהודה אומר אדם מביא קרבן עשיר על אשתו אלא דקשה אדרבה דהא כתבו התוס' שם דדוקא בקרבנות שהם חובה לכפר כגון לידה וזיבה כו' אבל קרבנות שנדרה ונדבה קודם נשואין או לותה ואכלה לא ישלם כו' וה\"ה לותה כשהיא תחתיו לצורך מה שאינו משעבוד לה דלא ישלם ובלא שום ראיה פשוט הוא דאל\"כ אם יקניט תלוי' ותשליך לאיבוד ותחייבנו לשלם ק' מנה בכל יום כו' דלא כרב אחד שהורה שהבעל חייב לשלם חוב אשתו שהלותה קודם שנשאה מכח רבי יהודה דהכא עכ\"ל וה\"ה כאן בענין התקנה ע\"כ ודאי צ\"ע להורות כהג\"ה זו אם לא שתחילת נעשית התקנה בפי' שכל איש ישלם עבור אשתו אם תעבור על התקנה כנ\"ל אחר זמן ראיי שדין זה הוא מת\"ה סי' רפ\"ב ומביא ראיה מפ' המקבל שזכרתי דכל קרבן הובא חייב לשלם ומייתי ראיה מהירושלמי דאם אכלה חלב חייב להביא קרבן בשבילה אפי' נתחייבה קודם שנשא' כך היא לדעת התוספות והמרד' אבל לפירש\"י דוקא שנתחייבה והיא תחתיו ה\"ג כשעברה וחייבת קנס דהיא עבירה גמורה דנשבע שלא לקיים התקנה דהוה כמו שבועת שוא והקנס בא עכ\"פ לכפרה דמי קצת למביא קרבן על חטאתו וצ\"ע אי הנדון דומה לראי' עכ\"ל ותימא על רמ\"א שכתב בבירורו שחייב הבעל לשלם ובעל ת\"ה השאירו בצ\"ע ובאמת ל\"ד זה לחייב קרבן מן התורה כמו קרבן לידה או זיבה וה\"נ באוכלת חלב והרי התוס' עצמם דחו זה שם וכתבו שא\"צ לראיה שפטור והאיך ניקום אנחנו ונוציא ממון ע\"כ נלע\"ד דאין להוציא ממון ע\"י כפיי' בזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 91:3"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "בעלה חייב לשלם.  עבה\"ט ועיין בתשי' נו\"ב תניינא סי' צ\"ו על דבר אשת איש שזלזל' לאחד או לרבים בדברים ורוצים לענש' בממון אין בעלה חייב לשלם עבור' והמורה לכוף את בעלה ליתן קנס אינו אלא גזלן ע\"ש: (ועיין בתשו' חתם סופר סי' קל\"ט אודות אשה שהביא' לה כמה פעמים במחשך בשר כשר ממקומו' אחרים בהיות בעלה למרחוק מבלי לשלם עבור כל ליטרא להחוכר כפי תקנת הקהיל' והחוכר הזה חייב להבעל ממון ורוצ' להחזיק הממון באמרו שחייב הבעל לשלם עבור אשתו קנס כפי הנהוג שם לפנים ופסק דאין החוכר יכול לעכב חובו בשביל קנס שחייבת אשתו מכמה טעמים כו' רק ינכה לו תשלומין המגיע בעד כל ליטר' והמותר ישלם לו ע\"ש) . ומ\"ש הבה\"ט אשה הנו\"נ בבית אם נדרה לצדקה צריך לשלם כו' ע' בתשו' נו\"ב תניינא חיו\"ד סי' קנ\"ח הבאתיו בפ\"ת ליו\"ד סי' רמ\"ח סק\"ג וכפי הנראה שלא שם לבו לדברי הב\"ש אלו ועיין בח\"מ סי' ס\"ב בהגה שכתב הרמ\"א ז\"ל דסתם אשה נו\"נ תוך הבית ע' בסמ\"ע וש\"ך שם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 91:1"
+        },
+        "2": {
+          "he": "דינה כמלו' בשטר.  עיין בס' ישועות יעקב שכ' דדוקא כשהבעל מודה שהיו הסבלונו' ת\"י אבל באומר איני מאמינך פשיטא שאין בידה לגבות ותמה על האחרונים שלא הרגישו בזה כלל ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 91:2"
+        },
+        "3": {
+          "he": "עדיין לא נשבעה.  בגליון ש\"ע דהגר\"ע איגר זצ\"ל נ\"ב עיין שו\"ת מהרי\"ט ח\"א סי' קכ\"ח וח\"ב חח\"מ סי' ח'):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 91:3"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "שט\"ח.  הן שהכניסה לו בתורת נצ\"ב הן בתורת נ\"מ א\"י למחול ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 91:1"
+        },
+        "2": {
+          "he": "נאמנת וכו'.  כיון דאין לה מיגו דהא א\"י למחול. וכן מלוה בע\"פ א\"י למחול וא\"י לומר פרוע הוא כשהוא תוך הזמן ואם הלוה טוען פרעתי השטר. אם אין בו נאמנות אז חייבת היא לישבע. י\"ל אין רצוני לישבע כי פרוע הוא. ובמלוה בע\"פ תוך הזמן תליא בפלוגת' בח\"מ סי' ע\"ח אם היא צריכה לישבע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 91:2"
+        },
+        "3": {
+          "he": "לפלוני.  מי שאמר נכסי לבתי פלונית ואחריה ליורשיה הנולדים מגופה והבת היתה פנויה. דמי לאומר לנשואה ואחריך לפלוני כיון דבפירוש סלק את הבעל מאותו זכות ואמר ואחריה ליורשי' הנולדים מגופה הרי הוא כאומר אחריך ליקני בעל לא ליקני רשד\"ם חא\"ה סי' ק\"ך ומהרש\"ך ח\"ב סי' קל\"ה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 91:3"
+        },
+        "4": {
+          "he": "נכסים וכו'.  עיין מ\"ש הח\"מ ב\"ש ס\"ק ד'. ולכאורה נעלמו מעיניהם דברי הסמ\"ע בסי' רמ\"ח ס\"ק ל\"ג ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 91:4"
+        },
+        "5": {
+          "he": "ומתה וכו'.  עיין בח\"מ ס\"ס ק\"ג מ\"ש הסמ\"ע והש\"ך שם. ועיין ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 91:5"
+        },
+        "6": {
+          "he": "השומא.  ושומא לפרעון כתובתה אם מחזירין עיין תשוב' מהרש\"ל סי' נו\"ן ותשוב' רמ\"א סי' ח':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 91:6"
+        },
+        "7": {
+          "he": "מהבעל.  ואם תפס המלוה לא מפקינן מיני' הר״ם אלשיך סי' י״ז ומהריב״ל ח״א כלל י״ב סי' ע״ד. והב״ש האריך והעלה בנצ״ב אפילו אם תפס המלוה לא מהני אלא מוכרים בטובת הנאה. ובכ״מ מהני תפיסה ודוק' אם תפס נ״מ שלה אבל אם תפס הפירות מן הקרקע לא מהני התפיסה כי הפירות שייכים להבעל ע״ש. וכל זה איירי אם הכניסה לו נכסים אם הבעל חייב לשלם מן מה שהכניסה לו אבל משלו לכ״ע אין חייב לשלם כמ״ש תוס' פרק המקבל (בבא מציעא דף ק״ד.) ועיין כנה״ג דף ק״י ע״א ס״ח. ראובן ודינה שנשארו יתומים ונשאר להם מאביהם ובהיות ראובן חוץ לעיר באו קרובי דינה והשיאוה ונתנו לה כל הנכסים בנדונייתה לשמעון מצי ראובן למיתבע לבעל אחתי' מאי דשקלה טפי מאומדן דעתו דאבוה ואי ליכא מאן דידע אומדן דעתא שקיל מאי דשקלה טפי מעישור נכסי אליב' דכ״ע הר״ם אלשיך סימן י״ז. גזל שגזלה האשה ואכלתה. או פקדון. עיין כנה״ג דף ק״ט ע״ב:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 91:7"
+        },
+        "8": {
+          "he": "לשלם.  כ\"כ ב\"י בשם רבי' ירוחם ע\"ש. וצ\"ע איך נעלם דברי הרמב\"ם ראש הפוסקים המפורסמים שבפירוש חולק על הנ\"י בסוף פרק כ\"ו מהלכו' מלוה ע\"ש. ולפענ\"ד היה נראה שהדין עם בעל נ\"י דאם כדברי רבי' ירוחם והרמב\"ם דאם המעות בעין חייב להחזיר היכי בעינן למיפשט דבעל יורש הוה מהא דתנן ישאו גדולות ישאו קטנות ומהא דתנן מי שמת והניח אלמנה ובת ונישאת הבת אלמנתו ניזונית מנכסיו ואם אית' דכשהמעות בעין כ\"ע מודו דחייב לשלם אין הוכחה משם דיורש הוי דאפי' נימא לוקח הוי שאני התם שהמעות בעין ולכן חייב לשלם. ועיין כנה\"ג דף ק\"ט ע\"ב סעיף ה' שמתרץ קושיא זו ועיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 91:8"
+        },
+        "9": {
+          "he": "מנכסים.  בין מנ\"מ ובין מנצ\"ב ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 91:9"
+        },
+        "10": {
+          "he": "לשלם.  אפילו לא הכניסה לו כלום. אפילו עברה על התקנה קודם שנשאת חייב בעלה לשלם אח\"כ כשנשאת לדעת התוס' אבל לדעת רש\"י אינו חייב אא\"כ עברה תחתיו והא דחייב בעלה לשלם דוק' אם עברה בשוגג אבל אם עברה במזיד מכ\"ש להכעיס אינו חייב לשלם בשבילה כדי שלא תתחייב את בעלה בכל יום ח\"מ בה\"י ב\"ש. וכתב ב\"ש ותימ' על רמ\"א שפסק דהבעל חייב לשלם הא שם בת\"ה מסיים וצ\"ע אם הנדון דומה לראיה ע\"ש וכ\"כ הט\"ז דאין להוצי' ממון מיד הבעל. אשה הנושאת ונותנת בבית אם נדרה לצדקה צריך לשלם בשבילה אע\"ג דיוכל למחות לה להבא מ\"מ צריך לשלם מה שנדרה כבר עיין (בח\"ה) [בת\"ה] סי' (רע\"ב) [רפ\"ב]:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 91:10"
+        },
+        "11": {
+          "he": "בשטר.  משמע דגובה אפי' מנצ\"ב וכ\"כ הר\"ם פדוואה סי' נ\"ה אבל מהרי\"ק שורש י\"ח כתב דוק' מן נ\"מ גובה ולא מן נצ\"ב. ובפרישה ובח\"מ הקשו למה אין גובין מנצ\"ב כיון שדינם כמלוה בשטר. ועיין מ\"ש הב\"ש וכנה\"ג דף ק\"ט ע\"ב סעיף י\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 91:11"
+        },
+        "12": {
+          "he": "לשלם.  בין שנעשה קודם הנשואין ובין שנעשה אח\"כ בין מגוף ובין מפירות נ\"י ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 91:12"
+        },
+        "13": {
+          "he": "אג\"ק.  אע\"ג דבח\"מ סי' ס' נתבאר שנהגו שאין טורף מלקוחות מטלטלין אפילו אם כתב אג\"ק מפני תקנות השוק אפשר דלגבי בעל לא שייך תקנות השוק ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 91:13"
+        },
+        "14": {
+          "he": "מבעלה.  בפרישה ובח\"מ וש\"ך פירשו דוק' מטלטלין נצ\"ב אין גובין אלא אגב אבל מטלטלין נ\"מ גובין אפילו בלא אגב והב\"ש כתב מתשובת הרמב\"ן משמע דאיירי אפילו מטלטלין של נ\"מ אין גובין בלא אגב וכ\"מ מלשון הגה\"ה. ומ\"מ אם תפס מטלטלין מהני עיין ב\"ש ס\"ק י\"ח וס\"ק י\"ד ובכל הני דצריך לשלם משלה אם מכר הבעל נכסים דמיא לדין מ\"ש בח\"מ סי' ק\"ז אם היורשים מכרו הנכסים והמעות בידה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 91:14"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

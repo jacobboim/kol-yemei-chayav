@@ -1,0 +1,435 @@
+{
+  "chelek": "EH",
+  "siman": 173,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 17,
+  "fetchedAt": "2026-07-08T00:09:01.822Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "דין יבמה האסורה ליבם באיסור כרת ודין צרתה וסוטה וצרתה וקטנה שמיאנה. ובו יז סעיפים:היבמה שהיא ערוה ליבם באיסור כרת חוץ מן הנדה אינה זקוקה ליבם ומותרת לזר בלא חליצה וכן צרותיה פטורות מן החליצה ומהייבום ואם היה לו אח אחר ואחת מצרותיה נתייבמה לאותו אח ולו נשים אחרות ומת כלן פטורות מחליצה ומן היבום ואם היה לו עוד אח אחר ואחת מהנשים אלו נתייבמה לו ולו נשים אחרות ומת כולן פטורות מהחליצה ומייבום וכן עד עולם:",
+      "en": "A female obligated in Yibum (Levirate marriage) who is a forbidden sexual partner (lit. nakedness) to a male obligated in Yibum with a prohibition of excommunication, except for a menstruating woman who has not ritually purified herself, are not in need of performing Yibum, and are permitted to someone else (lit. stranger) without Chalitza (ceremony releasing woman from obligation to marry brother-in-law), and other wives in her widow's marriage are exempt from Yibum and Chalitza. And if he had another brother, and one of his other wives performed Yibum to the same brother, and this brother has other wives, and dies, all of them are exempt from Chalitza and Yibum. And if he had yet another brother, and one of these wives had performed Yibum to him, and this brother has other wives, and dies, they are all exempt from Chalitza and from Yibum. And so unto forever.",
+      "ref": "Shulchan Arukh, Even HaEzer 173:1"
+    },
+    {
+      "seif": 2,
+      "he": "אבל אם אחת מכל העריות נשואה לזר שאינו אחיו ומת מותר לישא צרתה:",
+      "en": "But if one of all of the Arayot (forbidden sexual partners) is married to another man (lit. foreign) who is not her brother(in-law), and he dies, it is permitted to marry his other wife.",
+      "ref": "Shulchan Arukh, Even HaEzer 173:2"
+    },
+    {
+      "seif": 3,
+      "he": "יבמה שהיא ספק ערוה על בעלה או ספק ערוה על היבם הרי זו חולצת ולא מתייבמת לפיכך מי שקידש אשה בספק קדושין ואח\"כ מת אחיו שהיה נושא אחותה ונפלה לו ליבום שהיא ספק אחות אשתו ה\"ז חולצת ולא מתייבמת ומוציא את אשתו בגט מספק ושתיהן אסורות עליו יבמתו מפני שהיא ספק ערוה וארוסתו מפני שהיא ספק קרובת חלוצתו.",
+      "en": "A woman required to perform Yibum (Levirate Marriage) who is possibly a forbidden sexual partner (lit. doubt of nakedness) to her husband, or is possibly a forbidden sexual partner on her brother-in-law (lit. one with whom she is required to perfrom Yibum), behold she performs Chalitza (ceremony exempting one from performing Yibum) and does not perform Yibum. Therefore, he who betroths a woman where is a doubt if their marriage took effect, and afterward the brother dies who married his sister, and he performed (lit. fell into) Yibum, that there is a doubt she is the sister of his wife, here she performs Chalitza and not Yibum, and gives (lit. brings) his wife a Get (writ of divorce) from doubt, and the two of them are prohibited to him; and in his death, because she is possibly a forbidden sexual partner; and his fiancee, because she is possibly a relative of someone he must perform Chalitza with.",
+      "ref": "Shulchan Arukh, Even HaEzer 173:3"
+    },
+    {
+      "seif": 4,
+      "he": "היתה היבמה באיסור ערוה על הבעל אינה אשתו ואם היה לה צרה חולצת או מתייבמת וזו שהיתה לבעל באיסור ערוה היא ליבם כמו אשה דעלמא ומותר בה:",
+      "en": "If [the woman who fell to] yibbum had been [married to] a husband who was forbidden to her because of erva [sexually improper relationship], she was not his wife. If she had a rival wife [from her first marriage], they must have chalitza or yibbim. In the situation of her having been [married to] a husband who was forbidden to her because of erva [and he dies], she is to her levirate association as a regular woman who is permitted to him.",
+      "ref": "Shulchan Arukh, Even HaEzer 173:4"
+    },
+    {
+      "seif": 5,
+      "he": "היתה היבמה ספק ערוה על הבעל או חולצת או מתייבמת:",
+      "en": "she was a female who is required to perform Yibum (Levirate marriage) and was possibly a forbidden sexual partner to her husband; she either performs Chalitza (ceremony exempting one from performing Yibum) or performs Yibum.",
+      "ref": "Shulchan Arukh, Even HaEzer 173:5"
+    },
+    {
+      "seif": 6,
+      "he": "יבמה שהיא ספק ערוה ליבם והיה לאחיו בה ספק קידושין או ספק גירושין ולו אשה אחרת אותה הצרה חולצת ולא מתייבמת:",
+      "en": "A [woman who falls to] yibbum where she is possibly an erva to her levirate association, and his brother had with her a doubtful kiddushin or a doubtful divorce, and he has another wife, her rival wives should have chalitza and not yibbum.",
+      "ref": "Shulchan Arukh, Even HaEzer 173:6"
+    },
+    {
+      "seif": 7,
+      "he": "היה אחיו נשוי אשה שהיא ערוה ליבם ולו עוד אשה אחרת ואחר כך מתה הערוה בחיי בעלה או גירשה או שהיתה קטנה ומיאנה בו ואחר כך מת מותרת צרתה להתייבם אבל אם לא מיאנה בו בחייו ומיאנה בו אחר מותו צרתה חולצת ולא מתייבמת:",
+      "en": "If someone's brother was married to a sexually inappropriate female who had undergone levirate marriage, and he [the first man] had another wife, and afterwards the sexually inappropriate woman dies during the life of her husband, or she  divorces him, or there was a young child that she objected to having that died afterwards, it is allowed for the other woman to undergo levirate marriage. But if she doesn't object to it in his life, and she objects after his death, than she does Chalitza (a way to get out of levirate marriage) instead of levirate marriage.",
+      "ref": "Shulchan Arukh, Even HaEzer 173:7"
+    },
+    {
+      "seif": 8,
+      "he": "ספק אם אותה שהיא ערוה ליבם מתה בחיי הבעל או אחר מותו צרתה חולצת ולא מתייבמת:",
+      "en": "It is doubtful whether it is Lewd to perform levirate marriage when the husband is dying or after his death, The wife is divorced [from the brother through chalitza] and no levirate marriage is preformed.",
+      "ref": "Shulchan Arukh, Even HaEzer 173:8"
+    },
+    {
+      "seif": 9,
+      "he": "יבמה שהיא ערוה ליבם והיא איילונית אפילו הכיר בה בעלה הרי היא כמו שאינה וצרתה חולצת או מתייבמת ואם ייבם הצרה מפני שהיה סבור שהערוה איילונית ואחר כך נמצאת שאינה איילונית תצא מיבמה בלא גט והולד ממזר:",
+      "en": "a yevamah that is a forbidden to preform levirate marriage but she is childless, even if it is know she already had relations, behold its like she has not, and she is either divorced or  levirate marriage is preformed. And if  levirate marriage is preformed on the woman because she was thought to be a forbidden woman who is childless, and afterwards it found that she is not childless,  she will subject to the levirate marriage and she will give birth to mamzariem",
+      "ref": "Shulchan Arukh, Even HaEzer 173:9"
+    },
+    {
+      "seif": 10,
+      "he": "נשאת הצרה לזר מפני שהיתה סבורה שאין הערוה איילונית ואחר כך נמצאת איילונית תצא מהבעל בגט ובחליצה מהיבם להתירה ואם מתחלה לא נשאת לזר אלא נתקדשה לו בלבד מותרת ליבם:",
+      "en": "[in a case where one's] brother's wife becomes betrothed another man, because she was thought that there that she does not have the status of a barren woman [i.e. she had children already] and afterwards it is found out that she was childless, you will go and give her a get, or nullify the mitzva of yibum [by preforming chalitza] to permit her [to be with her new husband]. If she was not betrothed to the other man, only engaged to him, its permitted to preform levirite marriage.",
+      "ref": "Shulchan Arukh, Even HaEzer 173:10"
+    },
+    {
+      "seif": 11,
+      "he": "מי שזינתה אשתו תחתיו בעדים וברצון ומת בלא זרע ונפלה לפני אחיו דינה כדין ערוה והיא וצרתה פטורות מהחליצה ומהייבום אבל אם ספק זינתה אם לאו היא חולצת ולא מתייבמת וצרתה או חולצת או מתייבמת: הגה וי\"א דאפילו זינתה ודאי צריכה חליצה (השגות הראב\"ד) וה\"ה לצרתה ויש להחמיר ולכן מי שיש לו אשה שהמירה אע\"ג דודאי זינתה צרתה צריכה חליצה (מרדכי ריש יבמות וכ\"כ מהרא\"י סימן רי\"ט) אשה שהלך בעלה למדינת הים ונשאת ואח\"כ בא הבעל ומת צרתה מותרת להתייבם ואינה כצרת סוטה (הגהות אלפסי פרק האשה):",
+      "en": "one who's wife committed adultery while still married with witnesses to testify that she did it willingly, and he [the husband] dies and she is now in falls to the brother [halachically], it has the status of a forbidden relationship, and the wife is free from chalitza and levirite marriage. But if it is doubtful if she committed adultery or she didnt, she requires chalitza or levirite marriage. REMA: there are those that say even if it is certain she committed adultery, she requires chalitza, this is the rule in regard to another's wife, and there is what to be strict upon [in this regard]. Therefore, whoever has a wife that converted [to another religion] even though it is certain that she committed adultery, the other wife requires chalitza. woman who's husband goes overseas, and marries [another man] and afterwards the husband arrives [back] and he dies, its permissible to preform levirite marriage, and its not like the sister-in-law is a sotah.",
+      "ref": "Shulchan Arukh, Even HaEzer 173:11"
+    },
+    {
+      "seif": 12,
+      "he": "אשת אחיו שלא היה בעולמו הרי היא אשת אח שלא במקום מצוה ופוטרת צרתה כיצד ראובן שמת ונפלה אשתו לפני שמעון אחיו ואח\"כ נולד לוי אחיו בין שנולד קודם שיבם שמעון אשת ראובן בין שנולד אחר שיבמה ומת שמעון אסורה על לוי לעולם ואם היה לשמעון אשה אחרת גם היא פטורה מחליצה ומהייבום ופוטרת צרתה וצרת צרתה עד סוף העולם כדין צרת ערוה ואם מת שמעון אפילו קודם שעשה בה מאמר אשת שמעון חולצת ולא מתייבמת משום דכיון דקי\"ל יש זיקה אפי' לא עשה מאמר הוה ליה כצרת אשת אחיו שלא היה בעולמו:",
+      "en": "The wife of a brother who did not live at the same time is considered as the wife of a brother in the absence of any mitzva (of levirate marriage), and she also relieves her co-wife from any levirate bond.  How? Reuven passed away, and his wife fell to Shimon in levirate marraige, and Levi was subsequently born (after Reuven's death), whether before or after the levirate marriage, and then Shimon died, she (Reuven's wife) is forever forbidden to Levi. If Shimon had another wife, she is also released from chalitza and from levirate marriage, and in turn frees her co-wife and her co-wife's co-wife and so on, as is the law with any other co-wife of a woman forbidden to undergo levirate marriage because of ervah. However, if Shimon died even before he gave her \"maamar\" (money showing intent to consummate levirate marriage), the wife of Shimon undergoes chalitza but may not undergo levirate marriage to Levi, because we have establisehd that there is a levirate bond even when he did not give maamar, and therefore there is still an element of being the co-wife to the widow of a brother (Reuven) who was not in the same world (did not live at the same time).",
+      "ref": "Shulchan Arukh, Even HaEzer 173:12"
+    },
+    {
+      "seif": 13,
+      "he": "קטנה שהיתה נשואה לאחיו מאמו שהיא שנייה לו ומת ונשאר ונשאה אחיו מאביו ומת ונפלה לפניו לייבום ועודנה קטנה אין אומרים תמאן לעקור נשואין הראשונים כדי שתתייבם אלא צרתה חולצת ולא מתייבמת שאף היא חולצת אם תמאן:",
+      "en": "a female minor was married to the brother from her mother [the mother's brother, the girl's uncle] and she is [married to her uncle] for a moment, and he dies, and remains or she marries the brother from her father's side, and he [the brother from the father's side] dies, and she falls to the brother-in-law while she is still a minor, they [beis din?] don't say you will refuse [to marry her], to uproot the marriage of the original brother-in-law, in order that levirite marriage will be preformed] rather the other wife [making reference to the minor in this case] has chalitza preformed and not levirite marriage, that is if she refuses [levirite marriage]. ..",
+      "ref": "Shulchan Arukh, Even HaEzer 173:13"
+    },
+    {
+      "seif": 14,
+      "he": "קטנה שאינה ערוה עליו ומת ומיאנה הקטנה ביבם אסורה לו ומותרת לזר בלא חליצה אם אין שם אחים אחרים ודוקא היא אבל צרתה מותרת לו ואפילו היא מותרת לשאר אחים שלא מיאנה בהם:",
+      "en": "a minor female that is not forbidden for him marry, and he dies, or she refuses the preformance levirite marriage [with a brother of the husband], she is forbidden to the brother-in-law [in this case] and permitted to others without chalitza, if there are no other brothers [than the one]. and specifically her [the widow of the deceased], but her sister is permitted to him, even she is permitted to the remainder of brothers that she did not refuse [for the performance of levirite marriage].",
+      "ref": "Shulchan Arukh, Even HaEzer 173:14"
+    },
+    {
+      "seif": 15,
+      "he": "היו לאחיו באשתו ספק גירושין ונפלה לפניו לייבום חולצת ולא מתייבמת אבל אם היה לאחיו ספק קידושין הרי זו יכולה להתייבם:",
+      "en": "[in a case where] one who's brother's wife is suspected she was divorced from him, he preforms chalitza and no levirite marriage is preformed. But if it was [a case of] doubtful they were married [in the first place, certainly [in] this [case] his is able to preform levirite marriage.",
+      "ref": "Shulchan Arukh, Even HaEzer 173:15"
+    },
+    {
+      "seif": 16,
+      "he": "המגרש אשתו גדולה או קטנה שהשיאוה אחיה והחזירה ומת ונפלה לפני יבם מותרת לו אבל קטנה שהשיאוה אביה ונתגרשה בקטנותה ע\"י אביה והחזירה ומת בעודה קטנה אסורה ליבם וכן הדין במגרש הפקחת ונתחרשה והחזירה ומת והיא חרשת ובין בזו ובין בזו צרתה מותרת להתייבם:",
+      "en": "The one who divorces his wife who is an adult or a minor that is too be married to his brother [after the divorce], and she returns [back to the to her original husband], and he [the husband] dies, she falls to the commitment of the brother-in-law [requiring levirite marriage], she is permitted to him [the brother-in-law]. But  a minor that  is married off by her father, and she is divorced [from her too be husband] through her father, and she returns [to her too be husband]  and he dies[the now current husband] while she is still a minor, it is forbidden to preform levirite marriage. and is the case with a divorcee who is sharp-sighted,and does not listen to her husband, and she returns to her former husband, and he [the husband] dies, and she does not listen [she does not listen to anyone?]; whether this or this the other wife [of the dead husband] is permitted to the brother-in-law.",
+      "ref": "Shulchan Arukh, Even HaEzer 173:16"
+    },
+    {
+      "seif": 17,
+      "he": "החזירה כשהיא קטנה או חרשת וגדלה ונתפקחה אצלו ומת מותרת להתייבם ואצ\"ל אם החזירה אחר שגדלה או נתפקחה:",
+      "en": "The woman who returns [back to her house; in regard to a prenuptial marriage] when she is a minor or deaf [she wont listen to her husband], and she becomes an adult and regains her hearing and went [back] to him, and he dies [after she returns to her former husband] its permitted to preform levirite marriage. and its not necessary to say to her if she returns after she matures or regains her hearing [the laws of  levirite marriage will apply]",
+      "ref": "Shulchan Arukh, Even HaEzer 173:17"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה ריש יבמות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:1"
+        },
+        "2": {
+          "he": "כ\"כ התוספות ריש יבמות סוף ע\"א מהא דיבמתו נדה בעל פטור פסחים דע\"ב דמשמע דקנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:2"
+        },
+        "3": {
+          "he": "משנה שם די\"ג ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:3"
+        },
+        "4": {
+          "he": "כן הוא ברמב\"ם בפ\"ו וכן העתיקו הטור והקש' על זה דספק ערוה על בעלה חולצת או מתייבמת כמבואר לקמן בסעיף ה ובכ\"מ שם כ' שלפי נוסח זה צריך לדחות ולומר דהאי או ט\"ס הוא וצריך למחוק האלף ולכתוב וספק ערוה שהיא ספק ערוה על שניהם וכולי ובית חדש כ' שקאי אצרתה שחולצת ולא מתייבמת אם כבר נשא היבם הספק ערוה וכולי ולפע\"ד הוא ג\"כ דוחק שהרי לא נזכר שם צרתה והנכון לענ\"ד למחוק בבא זו דספק ערוה וכצ\"ל יבמה שהיא ספק ערוה על היבם וכן העתיק ה\"ה וכ\"כ הכ\"מ בפשיטות ט\"ס הוא וכמ\"ש הטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:4"
+        },
+        "5": {
+          "he": "כ' ה\"ה זה פשוט שספק ערוה ליבם חולצת ולא מתייבמת",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:5"
+        },
+        "6": {
+          "he": "ג\"כ פשוט והכל מתבאר בפ\"ד אחין (דכ\"ט ע\"א) ונלמד כיוצא בזה ממשנה שומרת יבם שקדש אחיו את אחותה וכו' שבפרק החולץ (דמ\"א ע\"א) ה\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:6"
+        },
+        "7": {
+          "he": "ג\"ז שם שאין אישות וקדושין בעריות כמ\"ש במשנ' אמרו לו מתה אשתך כולי שם (דנ\"ד ע\"ב) ה\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:7"
+        },
+        "8": {
+          "he": "כמ\"ש הטור ממ\"נ תתיבם שאם לא היתה עליו ערוה הרי היה זקוק' ליבום ואם הית' עליו ערו' לא תפסי לו בה קידושין והרי היא ליבם כאש' נכרית",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:8"
+        },
+        "9": {
+          "he": "טור ממשנה שם דף ל' ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:9"
+        },
+        "10": {
+          "he": "כצ\"ל וכן הוא ברמב\"ם ובטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:10"
+        },
+        "11": {
+          "he": "משנה שם ריש יבמות ע\"ב וכדמתרץ רבא שם דף י\"ג ע\"א דהך ממשנ' ג' אחים ב' מהם נשואים ב' אחיות וכו' שם דף ל' ע\"א זו ואצ\"ל זו קתני הסכמת הפוסקים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:11"
+        },
+        "12": {
+          "he": "משנה שם בריש יבמות ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:12"
+        },
+        "13": {
+          "he": "משום דקידושי הקטנה אינה אלא מדרבנן וזיק' נפילת' מדרבנן אינה פוטרת צרתה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:13"
+        },
+        "14": {
+          "he": "כדמפרש שם בגמ' דף י\"ג ע\"א משום דמשעת נפיל' נראי' כצרת בתו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:14"
+        },
+        "15": {
+          "he": "משנה שם דף סז ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:15"
+        },
+        "16": {
+          "he": "משנ' ריש יבמות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:16"
+        },
+        "17": {
+          "he": "כדאמר רבא הלכתא וכולי שם דף יב ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:17"
+        },
+        "18": {
+          "he": "רמב\"ם בפרק ז' וכ' ה\"ה שזה פשוט דכיון שהי' צרת ערוה הוי' לה אשת אח שלא במקום מצוה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:18"
+        },
+        "19": {
+          "he": "משנה גיטין דף פ' ע\"א ומה ששנינו שם וכל הדרכי' האלו בה אוקימנ' כר\"ע דס\"ל דיש ממזר מחייבי לאוין ואנן קי\"ל כחכמים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:19"
+        },
+        "20": {
+          "he": "ציינתיו לעיל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:20"
+        },
+        "21": {
+          "he": "כמימרא דרב יהודא אמר רב וכולי יבמות דף יא ע\"א כ\"פ הרמב\"ם וכ\"נ מהא דרי\"ף וכ\"פ הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:21"
+        },
+        "22": {
+          "he": "שם בגמרא ובמשנה ריש סוטה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:22"
+        },
+        "23": {
+          "he": "בפרושיו מהא דא\"ר יוסף אלו אית' לבעל מי לא בעי' גיט' וכו' שם דף ה' ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:23"
+        },
+        "24": {
+          "he": "משנה ריש יבמות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:24"
+        },
+        "25": {
+          "he": "משנה שם דף יז ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:25"
+        },
+        "26": {
+          "he": "כת\"ק דר\"ש שם דף יח ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:26"
+        },
+        "27": {
+          "he": "טור בשם אביו הרא\"ש שם בפסקיו וכרב יהודה אמר שמואל שם דף יח ע\"א אע\"ג דקיימא לן הלכת' כרב באיסורי בהא קי\"ל כשמואל דשקלי וטרי אמוראי בתראי אליבי' וכ\"כ ה\"ה ושכן קיימא לן ובשם הרשב\"א והב\"י בשם הרי\"ף בפ\"ד אחין דיש זיקה אף בלא מאמר ושכ\"נ מהרמב\"ם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:27"
+        },
+        "28": {
+          "he": "כרבי ישמעאל בר\"י שכן היתה השאלה כשנתנו ת' זהובים לב' בני אדם ושלחו לר\"ע לבית האסורים וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:28"
+        },
+        "29": {
+          "he": "כצ\"ל ודין אחיו מאמו שהיא ערוה לו כבר נתבאר לעיל סעיף ז'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:29"
+        },
+        "30": {
+          "he": "כמ\"ש הרא\"ש שם מטעם שכתבתי לעיל סעיף ז' בדין איסור דערוה כגון אשת אחיו מאמו או בתו וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:30"
+        },
+        "31": {
+          "he": "פי' נשואים הראשונים והיינו באין לה צרה דאם יש לה צרה חליצת הצרה שזיקה מן התור' פוטרת הקטנה מהחליצה שזיקתה מדרבנן ולא איפכא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:31"
+        },
+        "32": {
+          "he": "משנה שם דף ק\"ז ע\"א וכב\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:32"
+        },
+        "33": {
+          "he": "כשמואל שם ע\"ב דמדמי לה לבעלת הגט לגבי ההוא דמיאנ' בי'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:33"
+        },
+        "34": {
+          "he": "זה פשוט דאפילו נתן לזו לא נאסר' צרתה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:34"
+        },
+        "35": {
+          "he": "שם וכשמואל וכ\"פ הרי\"ף והרא\"ש משום דקאי ר' יוחנן כוותי'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:35"
+        },
+        "36": {
+          "he": "בריית' שם דף מא ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:36"
+        },
+        "37": {
+          "he": "דשמא הוי גירושין והרי היא גרושת אחיו שהוא בכרת",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:37"
+        },
+        "38": {
+          "he": "ממה נפשך וכולי ומתבאר בסוגיא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:38"
+        },
+        "39": {
+          "he": "משנה שם דף קח ע\"ב וכת\"ק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:39"
+        },
+        "40": {
+          "he": "שם במשנה וכמו שפירש\"י שם ריש דף קט",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:40"
+        },
+        "41": {
+          "he": "רמב\"ם בפ\"ז וכתב ה\"ה שזה פשוט לפי מ\"ש שנישואי החרשת שוין לנשואי הקטנה וכולן מדבריהם ויש סמך לזה מהירושלמי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:41"
+        },
+        "42": {
+          "he": "בעיא שם בגדולה אליב' דר\"א ונפשט' והביאה הרי\"ף לומר דה\"ה בקטנה אליב' דרבנן ושכן הכריע הרמב\"ן וזה דעת הרשב\"א וה\"ה וכ\"כ הטור בשם אביו הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:42"
+        },
+        "43": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:43"
+        },
+        "44": {
+          "he": "מדין הקטנה וכמו שכ' בסעיף דלעיל",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:44"
+        },
+        "45": {
+          "he": "דין אחות גרושתו שפוטרת היא וצרותיה מן החליצ' ומן הייבום בטור ס\"ס זה ממשנ' שם דף מא ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 173:45"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "שהיא ערוה ליבם  כ' בס' בית מאיר וז\"ל ואם אחד גירש לאשתו בע\"מ שלא תנשאי ולא תבעלי לפלוני דקי\"ל בסי' קל\"ז ס\"א דמגורשת בדיעבד והלכה ונשאת לאחי אותו פלוני ומת ונפלה לפני הפלוני ליבום העלה חי' רשב\"א ריש יבמות דצריכ' חליצה ולא אמרינן בה מאחר שהיא ערוה דאשת איש על היבם כל שאינה עולה ליבום א\"ע לחליצה ותפטר בלא כלום כדנטה דעת הרמב\"ן ז\"ל שהביא שם אלא כמשמעות הירושלמי דאמר תמן התורה אסרת' עליו ברם הכא הוא אוסרה עליו. כלו' דבתנאין לא איירי קרא ולא איירי אלא באיסור ערוה אבל זו שאיסור דבר אחר גרם לה דהיינו תנאי חולצת אע\"פ שאינם מתייבמת וע' תוס' בגיטין דף פ\"ב ד\"ה אפילו ותו' יבמות דף י' סוף ד\"ה לעולם עכ\"ל וע' עוד בב\"מ לעיל סי' קנ\"ט ס\"א דשם האריך יותר בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 173:1"
+        },
+        "2": {
+          "he": "באיסור כרת.  עיין בתשו' נו\"ב תניינא ס' קמ\"ח שנשאל באחד שנשא בת אחיו ומתה אשתו ואח\"כ מת אחיו בלי זרע מה דינה של האלמנה אם צריכה חליצה מתחלה וכתב השואל שזה תליא בפלוגתא דקדמאי שלהרמב\"ם פ\"ב מא\"ב הלכה ח' ותו' ביבמות צ\"ד שחמותו לאחר מיתה אפי' לר\"ע לא אימעט רק משריפה אבל עדיין היא בלאו וכרת א\"כ היא בכלל עריות ופטורה מן החליצה אבל לדעת רש\"י והרמב\"ן והרשב\"א דחמותו לאחר מיתת אשתו אינה לא בלאו ולא בכרת רק באיסור' דארור שוכב עם חותנתו א\"כ צריכה חליצה. והשיב לו כי יפה כוון בזה והנני מעתיק לו מ\"ש בגליון הב\"ש בסי' ט\"ו סעיף טו כו' (הובא בפ\"ת שם סק\"ז וע\"ש) ועתה יראה שכיון לדעת הכנה\"ג ואמנס עתה נתתי לבי למצא זכות על הטור ובעלי הש\"ע ששתקו ולא הזכירו מזה לא בסי' טו לענין דתפסו קדושין וצריכה גט ולא בסי' קע\"ג לענין חליצה ואמרתי דאפשר דא\"צ גט ולא חליצה דהרי זהו פלוגתא דר' ישמעאל ור' עקיבא דלר\"י חיוותו תמיד אפי' בשריפ' גם אחר מיתת אשתו ובזה גופי' אם הלכה כר\"י או כר\"ע הוא מחלוקת הראשונים דר\"ח פסק כר\"י הובא ברא\"ש ס\"פ נושאין וא\"כ יש לנו ס\"ס להתירה בלא גט אם קידשה חתנה וכן להתיר בלא חליצה אם נפלה לפני חתנה שמא הלכה כר\"ח שפסק כר\"י ואת\"ל הלכה כר\"ע שמא גם לר\"ע לא אימעט אלא משרפה כו' והאריך בזה ומסיק דקשה להקל מכח ס\"ס הנ\"ל לפי דמוכח מסוגיית הגמ' דהלכה כר\"ע ולכן נראה דאשה זו צריכה חליצה מחתנה ובפרט שאין כאן מקום עיגון עכ\"ד ע\"ש: גם בגליון ש\"ע של הגאון רבינו עקיבא איגר ז\"ל נ\"ב וז\"ל חמותו שנפלה לפניו אחר מיתת אשתו תליא במחלוקת הפוסקים אם חייבים עליה כרת או איסורא בעלמא עיין בחה\"מ פ\"ב מהא\"ב ה\"ז ועיין מהרש\"א ריש יבמות בתוס' ד\"ה ואי אתה יכול כו' וגם בבתה לאחר מיתת אשתו הוי ספק אם היא בכרת ע' בהה\"מ הנ\"ל עכ\"ל. והנה מה דסיים רבינו גם בבתה כו' לא זכיתי להבין כי לפי ראות עינינו בהה\"מ שם לא נמצא שיהי' בזה ספק אם היא בכר' רק מה דסיים הה\"מ שם והרמב\"ן ז\"ל הניח דין זה בצ\"ע. ר\"ל אם היא ג\"כ בשריפה כדעת המפרשים או רק בכרת כדעת הרמב\"ם. וצ\"ל דכוונת הגאון ז\"ל כיון דמה דמספקא לי' להרמב\"ן ע\"כ משום דאולי העיקר כהרמב\"ם דקי\"ל כמ\"ד דון מינה ומינה וא\"כ כל זה לדעת הרמב\"ם דסובר גם בחמותו לאחר מיתת אשתו איכא כרת ולא קליש איסורא רק לענין שריפה אבל לשיטת הרמב\"ן עצמו שסובר בחמותו לא\"מ אשתו איסורא בעלמא ממילא גם בבתה הדין כן. אך צ\"ע דנראה דאף אי נימא כמ\"ד דון מינה ומינה ע\"כ היינו רק לענין שריפה ולא לענין כרת דכתיב בגופה לא מצינו מיעוט על אחר מיתה. וכן מבואר להדיא בתשובת הגאון רע\"ק ז\"ל עצמו בר\"ס קכ\"א דמפרש כן דברי ה\"ה דמה שסיים והרמב\"ן הניח דין זה בצ\"ע היינו אם היא בשריפה אי בכרת עש\"ה וצ\"ע וע' עוד בתשובה הנ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 173:2"
+        },
+        "3": {
+          "he": "ספק ערוה על בעלה.  ע' באר הגולה אות ד' ועיין במל\"מ פ\"ו מה' יבום דין ד' ודין י\"ג מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 173:3"
+        },
+        "4": {
+          "he": "ספק קדושין.  עב\"ש סק\"ה שכ' וספק קדושין או גירושין היינו בזרק לה כו' ועיין בס' ב\"מ מ\"ש בזה ועמ\"ש לעיל סי' ל' סק\"ב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 173:4"
+        },
+        "5": {
+          "he": "שזנתה אשתו כו'  ע' בתשו' נו\"ב תניינא סי' ק\"ן בדבר אשה שהמירה ובעלה מת אחר שהמירה ואחר מיתת הבעל נשאת לערבי ובנימוסיה' והיתה עמו עשרים שנה ושוב נשאה לבה לשוב לד\"י והרחיקה נדוד לארץ אחרת בממשלת עם אשר שם יש רשות לחזור לד\"י ושם נשאת לאיש ושוב אחר הנשואין נזכרה כי בעת שמת בעלה נשאר אח קטן והיא זקוקה ליבה ומחמת מורא וס\"נ אי אפשר לה לילך למקום היבם וגם היבם א\"א לו לילך למקומה ולחלוץ לה כי יש לו סכנה בשובו לביתו מה דינה אם היא מותרת בלא חליצה. והשיב על זה באריכות דאין שום היתר לאשה זו. דמטעם שהיא סוטה אין להתיר שהרי אף אם היתה סוטה ודאי כגון שהיתה נשאת להערבי בחיי הבעל הא הראב\"ד מחמיר ולא יחיד הוא בדבר שגם מהר\"ם מרוטנבורג והמרדכי ותה\"ד פסקו כן והרש\"ל פ\"ק דיבמות סי' ו' הכריח כמותן בראיות נכונות והרמ\"א החמיר כוותי' מי יקל ראש אפי' בודאי זינתה (ע' לקמן ס\"ק ט') וק\"ו בזו שלא נשאת להערבי עד אחר מיתת בעלה ואין מקום לחשבה לסוטה ודאית אלא מטעם ההמרה לדעתי לא אמרינן שכיון שהיא מומרת לכל התורה ודאי זינתה אלא לחומרא אבל לא לקולא והרמ\"א שכ' לשון דודאי זינתה כוונתו במומרת שנשאת לעכו\"ם כו' (וכ\"כ בס' בית מאיר) ואם באנו לסמוך על הפוסקים שאם נפלה לפני יבם מומר שהיא מותרת ונימא דה\"ה ביבמה מומרת. זה אינו חדא דדין ההוא עצמו הרי המחבר דחאו בשתי ידים בסי' קנ\"ז ס\"ד וגם רמ\"א אינו סומך רק בדיעבד שכבר נשאת בשוגג שלא ידעה שיש לה יבם וכ\"ז בהי' מומר בשעת נישואין. ועוד דכ\"ז בהיבם מומר אבל ביבמה מומרת אין הנידון דומה כו' והאריך בזה וגם דחה צד היתר חדש שעלה ברעיונו לצדד קצת בנ\"ד ע\"פ דברי הי\"א דלעיל סי' קנ\"ט ס\"ה. וסיומא דפסקא דהך אשה אסורה לבעלה ותתעגן כל ימיה עד שתשיג חליצה מיבמה. ובסוף התשובה שם העיר עוד דאפשר קצת לומר דמה שאמר רב צרת סוטה אסורה דטומאה כתיב בה כעריות היינו דוקא בנבעלה למי שיש לו קדושין אבל לא בביאת ערבי ע\"ש. גם בס' ב\"מ נסתפק בזה ע\"ש.",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 173:5"
+        },
+        "6": {
+          "he": "כדין ערוה.  עבה\"ט מ\"ש בנ\"י הניח בצ\"ע אשת כהן שנאנסה כו' ועיין במל\"מ פ\"ו מה' יבום דין י\"ט מה דשקיל וטרי בהא (ועיין בס' אמתחת בנימין פ\"י דיבמות מ\"א בד\"ה ולא זה וזה שתמה על הב\"ח וב\"ש דהא ממשנה דהתם מוכח דצריכה חליצה ע\"ש מ\"ש בזה) . וכתב עוד שם נסתפקתי במי שבא על אשת איני דקיי\"ל דכשם דאסורה לבעל כך אסורה לבועל אם עבר הבועל ונשאה אחר מיתת הבעל ומת הבועל בלי בנים אם זקוקה ליבם אי לא דהא גם גבי בועל כתיב טומאה וכן אם נשאת לאחיו של הבועל ונפלה לפניו ע\"ש באורך. ועיין בס' ב\"מ שכ' בעיקר דברי הנ\"י שהניח בצ\"ע א\"כ שנאנסה אי צריכה חליצה לע\"ד הפשוט דלכ\"ע צריכה חליצה כיון דעיקר קרא דטומאה גבי רצון כתיב וכעין מ\"ש התוס' יבמות דף י\"א ע\"ב בד\"ה צרתה וכן מדוייק לשון רב צרת סוטה אסורה והרי איירי בודאי לבעלה והול\"ל צרת טמאה או זונה אלא שבא להורות דוקא על המזנה ברצון כו' ע\"ש.",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 173:6"
+        },
+        "7": {
+          "he": "וי\"א דאפי' זינתה ודאי  עיין בתשו' משכנות יעקב סי' מ\"ב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 173:7"
+        },
+        "8": {
+          "he": "ויש להחמיר  עבה\"ט ועיין בס' ב\"מ שכ' דהדין עם הב\"ח ולא כב\"ש ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 173:8"
+        },
+        "9": {
+          "he": "צרתה צריכה חליצה.  עיין בתשו' הרדב\"ז ח\"א סי' רע\"ה שכתב דאם נפלה לפני יבם עוזב דת יש להקל מאחר שעיקר הדין מחלוקת ואם העוזב דת זוקק ליבום הוא ג\"כ מחלוקת אזלינן לקולא ואינה צריכה חליצה ממנו. וכן אני אומר אם הלך היבם למדה\"י אע\"פ שלא המיר כיון דהוי שעת הדחק לא חיישי' לסברת המחמיר וכן אם הוא בעיר ואינו רוצה לחלוץ עד שיתנו לו ממון לא חיישינן לי' ונתיר אותה בלא חליצה ע\"ש ועיין בס' ב\"מ כתב ג\"כ וז\"ל יראה לע\"ד דמ\"ש הרמ\"א ז\"ל ויש להחמיר דוקא בדאפשר בחליצה אבל אם היבם הלך ולא יודע מקומו או זולת זה במקום אונס דלא אפשר בחליצה והוא במקום עיגון מודה הרמ\"א דיש לסמוך על הרי\"ף ורמב\"ם ורא\"ש והה\"מ וטור וש\"ע ואף דיש\"ש והב\"ח נמי מחמירים מטעם אחר מ\"מ רוב מנין ורוב בנין מקילים ובפרט שהראב\"ד עצמו בהשגו' שתק משמע דלא רצה לחלוק למעשה וע' סי' י\"ז בח\"מ ס\"ק ל\"א עכ\"ל ועמ\"ש לעיל סק\"ה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 173:9"
+        },
+        "10": {
+          "he": "שהיתה נשואה.  עב\"ש ס\"ק ט\"ז ועיין בס' קרבן נתנאל פי\"ג דיבמות אות י\"ג:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 173:10"
+        },
+        "11": {
+          "he": "אבל צרתה מותרת.  עב\"ש ס\"ק י\"ט ועיין בס' ק\"נ פ\"ק דיבמות אות י\"ז:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 173:11"
+        },
+        "12": {
+          "he": "ספק גירושין.  עיין בתשובת ברית אברהם סי' ק' מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 173:12"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "חלוצתו.  צ\"ע כיון דאחות חלוצה מדרבנן למה אסר בס\"ס דרבנן ובפרק כיצד אמרו דספק חלוצה לא גזרו רבנן כנה\"ג וכ\"כ הב\"ח ופסק דלכתחלה אסור מיהו אם קדם וכנס אין מוציאין ע\"ש. והב\"ש חולק עליו ופסק דאפי' בדיעבד אם כנס מוציאין מידו ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 173:1"
+        },
+        "2": {
+          "he": "ערוה.  בנ\"י הניח בצ\"ע אשת כהן שנאנסה אם צריכה חליצה וב\"ח תמה עליו הא אי' ביבמות דף נ\"ו ע\"ב אשת כהן שנאנסה בעלה לוקה עליה משום טומאה ע\"כ נשמע אף באונס טומאה כתיב בי' א\"כ פטורה מן החליצה כמו זנות ברצון עיי\"ש ועיין ביבמות דף י\"א ובסוטה ד' ה':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 173:2"
+        },
+        "3": {
+          "he": "ויש להחמיר.  ובחליצת הסוטה לא נפטרה הצרה ב\"ש דלא כב\"ח ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 173:3"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

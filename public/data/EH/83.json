@@ -1,0 +1,90 @@
+{
+  "chelek": "EH",
+  "siman": 83,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-08T00:09:00.029Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "חבלת אשת איש למי הוא. ובו ב סעיפים:החובל באשת איש השבת והריפוי לבעלה והצער שלה והבשת והנזק אם בגלוי הוא כגון שחבל בפניה ובצוארה או בידה וזרועותיה השליש שלה ושני שלישים לבעל ואם בסתר הוא הנזק השליש לבעל וב' שלישים לאשה של בעל נותנין לו מיד ושל אשה ילקח בהם קרקע והבעל אוכל פירות ואינה יכולה למחול לא על חלקו ולא על חלקה ואם מחלה אינה מחילה ומ\"מ אינו יכול לתבוע חלקה אלא בהרשאתה בד\"א כשחבלו בה אחרים אבל הבעל שחבל באשתו חייב לשלם לה מיד כל הנזק וכל הבשת והצער הכל שלה ואין לבעל בהם פירות ואם רצתה ליתן הדמים לאחר נותנת והבעל מרפא אותה כדרך שמרפא כל חוליה: הגה חירף אותה שום אדם בדברים אע\"פ שהמבייש בדברים פטור אם פייסוה בממון (ד\"ע) אם חרפוה בגלוי לו ב' חלקים ולה חלק א' ואם בסתר לה ב' חלקים ולו חלק א' (טור):",
+      "en": "One who injures a married woman is obligated for time lost at work and for healing, to be paid to her husband. And [the compensation] for pain is hers.\nAnd the [compensation] for embarrassment and damages, if it was in a revealed [part of her body] for instance he injured her face or neck, or hand or arms, a third is hers and two thirds goes to her husband. But if it was in a concealed [part] of her body, a third is her husband's and two thirds is hers. \nTo her husband, he gives immediately. To the wife, land should be purchased and the husbands eats the produce.\nShe is not allowed to forgive payment, neither for his portion, nor hers. And if she does forgive, her forgiving is not valid. And in any case he can't demand her share without her permission.\nTo what does this refer? When others injure her. But if a husband injures his wife, he must pay her immediately all of the damages, all of the embarrassment and pain, and it is all hers, and the husband has no rights to the fruit.\nAnd if she wants to give the money to others, she may. And the husband heals her as he heals all her wounds.\nHagah: If any man insulted her with words, even though one who insults with words is exempt, if they appeased her with money (on his own accord) if he insulted her in public, the husband receives two portions and she receives one. And if in private, she receives two portions and he receives one. [Tur]",
+      "ref": "Shulchan Arukh, Even HaEzer 83:1"
+    },
+    {
+      "seif": 2,
+      "he": "המזיק את אשתו בתשמיש המטה חייב בנזקיה:",
+      "en": "One who damages his wife through intercourse is obligated for her damages.",
+      "ref": "Shulchan Arukh, Even HaEzer 83:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "ל' הרמב\"ם בפ\"ד מה' חובל וכ' ה\"ה דין השבת מפני שמעשה ידיה שלו והריפוי מפני שהוא חייב לרפאותה והצער שלה דצער דגופה לא זכי ליה רחמנא והרא\"ש כתב לא תקינו ליה רבנן כדאמרינן בב\"ק דפ\"ז ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 83:1"
+        },
+        "2": {
+          "he": "ממשנה כתובות דס\"ה ע\"ב וכר' יהודה בן בתירא וכ\"כ הרי\"ף וש\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 83:2"
+        },
+        "3": {
+          "he": "ה\"ה הביא שם בשם הרשב\"א טעם וראיה לזה ע\"ש וכתב דיש קצת ראיה מדין המזיק וכו' שנזכר בסעיף שאחר זה שהוא חייב ולא חלקו וכ\"כ הטור בסי' פ\"ה בשם הגאונים שקנסו אותו שאין לו בו כלום",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 83:3"
+        },
+        "4": {
+          "he": "בעיא דאיפשיט' ב\"ק ל\"ב ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 83:4"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "ומ\"מ אינו יכול לתבוע חלקה  בטור כתוב סתם אינו יכול לתבוע דמשמע אפילו חלקו אלא שב\"י כתב ע\"ז פשיטא דהיינו דוקא לחלק' כדאמר אביי ס\"פ השולח בעל בנכסי אשתו צריך הרשאה אבל לחלקו בלא הרשאה נמי מצי תבע ומו\"ח ז\"ל הקשה וכי גרע חלקו מפירא דארעא דאמרי' מגו דנחית לפיר אנחית נמי אגופא כדלקמן סי' פ\"ה סעיף ד' ולפיכך נראה דאף אחלקו צרך הרשאה לא דמי לשאר נכסי אשתו דידועין גופא דפירי קמי תביעה אבל בדמי חבלה שאין ידוע חלקו וחלקה אלא לאחר פסק דין הלכך בשעת התביעה צריך הרשאה עכ\"ל דבריו תמוהין מאוד דמ\"ש בסוף ול\"ד לשאר נכסין דאדרבא שאר נכסין צריך באמת הרשאה כדאמר אביי בעל בנכסי אשתו צריך הרשאה ומ\"ש ברישא דכי גרע חלקו מפירא דארעא אה\"נ דגרע דאפשר דס\"ל דשאני פירי דקנין פירות כקנין הגוף דמי משא\"כ כאן דחלקו דבר מיוחד הוא אלא אי קשיא לי הא קשיא לי מהא דאיתא בפרק מרובה (בבא קמא דף ע') כל אדרכתא דלא כתיב בה זיל דון וזכי ואפיק לנפשך לית בה מששא אמר אביי ואי כתוב ביה למחצה לשליש ולרביע פי' שהשליח יטול מחצה או שליש או רביע ממה שיזכה מגו דמשתעי דינו אמחצה וכו' אשתעי דינא אכולה ה\"נ לא לצטרך הרשאה אפילו על חלקה דמגו דמשתעי דינא אחלקו אשתעי נמי אחלקה וצ\"ע זה דלפי הנראה כן ראוי גם כאן לפסוק דא\"צ כלל הרשאה דק\"ו הוא דמה התם שאין בבירור שום חלק אלא אם ייכה בדין ק\"ו כאן דיש לו חלק בודאי אלא שאין ידוע כמה ותו דכאן עכ\"פ יש לו פירות מחלקה ובסי' פ\"ה כ' בטור מגו דנחית לפירי לעצמה וא\"כ פשיטא שידין על הכל בלא הרשאה דיש לו זכות בכולו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 83:1"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "לבעלה.  ר\"ל שנותנין לידו והוא מתעסק ברפואתה ח\"מ וע' בי\"ד רס\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 83:1"
+        },
+        "2": {
+          "he": "מיד.  ואם מתה קודם שגבתה אינו יורש חלקה דהוי ראוי ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 83:2"
+        },
+        "3": {
+          "he": "חלקה.  היינו כשגבה כבר חלקו אבל אם לא גבה אמרינן אגב שתובע חלקו תובע ג\"כ חלקה ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 83:3"
+        },
+        "4": {
+          "he": "בגלוי.  כלומר בפני רבים. ואם אמר בסתר כלומר בפני שני עדים כ\"כ הרא\"ש כלל מ':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 83:4"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

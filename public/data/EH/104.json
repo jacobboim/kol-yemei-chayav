@@ -1,0 +1,219 @@
+{
+  "chelek": "EH",
+  "siman": 104,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 6,
+  "fetchedAt": "2026-07-08T00:09:00.349Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "בית דין שמכרו וטעו וכן שאר שלוחין. ובו ו סעיפים:ב\"ד שמוכרים להגבות לאלמנה כתובתה אין מוכרין אלא בהכרזה ומכריזים ל' יום רצופים או ששים יום ב' וה' ומכריזין בבקר ובערב ובשעה שמכריזין מסיימין השדה במצריה ומודיעים כמה היא יפה ובכמה היא שומא ושרוצים למוכרה כדי להגבות לאשה כתובתה:",
+      "en": "When a court sells property to collect the Ketubah for a widow they must first announce that they will do so.  They may announce it for 30 consecutive days, or for 60 days if they only announce it on Monday and Thursday.  They must announce both morning and night.  When they make the announcement they must define the field [to be sold] by it's boundaries and the value and estimation, and that they intend to sell it to collect for a woman's Ketubah.",
+      "ref": "Shulchan Arukh, Even HaEzer 104:1"
+    },
+    {
+      "seif": 2,
+      "he": "ב\"ד שמכרו שלא בהכרזה אפי' מכרו שוה בשוה נעשו כמי שטעה בדבר משנה וחוזרים ומוכרים בהכרזה:",
+      "en": "If the court sold without first announcing the sale, even if they sold it for the proper price, it is considered as an error in a basic law, and they must redo the sale with [the required period of] announcement.",
+      "ref": "Shulchan Arukh, Even HaEzer 104:2"
+    },
+    {
+      "seif": 3,
+      "he": "ב\"ד שהכריזו כראוי ובדקו יפה ודקדקו בשומא אע\"פ שטעו ומכרו שוה מנה במאתים או מאתים במנה הרי מכרם קיים אבל אם לא בדקו בשומא ולא כתבו אגרת בקורת שהיא דקדוק השומא והכרזה וטעו והותירו שתות או פחתו שתות מכרם בטל פחות משתות מכרם קיים וכן אם מכרו קרקע בעת שאינם צריכים להכריז עליה וטעו ופחתו שתות או הותירו שתות מכרן בטל אע\"פ שהכריזו  (וי\"א כיון שהכריזו אפי' טעו בכפל המקח קיים) (טור בשם הרא\"ש)  פחות משתות מכרם קיים ואינו צריך להחזיר אונאה אע\"פ שלא הכריזו איזהו העת שאינם צריכים הכרזה בעת שימכרו קרקע לקבורה או למזונות האשה והבנות או ליתן מנת המלך אינם צריכים הכרזה לפי שהדבר נחוץ וכן אם לוו לצורך דברים אלו כשמוכרים לפורעם אינם צריכים הכרזה:",
+      "en": "A court that announced as is proper and checked well and was exacting in the evaluation, even though they erred and sold [property] worth 100 zuz for 200 or 200 for 100, their sale is upheld.  However, if they did not check the evaluation, and they did not write a letter of review, which reflects the scrupulousness of the evaluation and announcement, and they erred and overvalued by one sixth or undervalued by one sixth, their sale is nullified.  [If they erred by] less than one sixth [of the actual value], their sale is upheld.  So too, if they sold real estate at a time when they did not need to announce it, and they erred and undervalued by one sixth or overvalued by one sixth, their sale is nullified, even though they announced it.  There are those who say that since they announced it, even if they erred by double [the actual value], the transaction is upheld (Tur citing the Ro\"sh).  [If they erred by] less than one sixth, their sale is upheld and they need not return the over- or undercharge, even though they did not announce the sale.  What is the time when they are not required to announce?  At the time when they are selling real estate for burial or for food for the woman and the sons, or to give taxes, they do not require an announcement, for the matter is widely known.  So too if they lent money for these needs, when they sell property to repay the loans, they do not need to announce.",
+      "ref": "Shulchan Arukh, Even HaEzer 104:3"
+    },
+    {
+      "seif": 4,
+      "he": "וכן ב\"ד שמכרו דברים שאינם טעונים הכרזה וטעו בשתות מכרם בטל פחות משתות מכרם קיים ואלו הן הדברים שאין מכריזים עליהם העבדים והשטרות והמטלטלי' העבדים שמא ישמעו ויברחו והשטרות והמטלטלים שמא יגנבו לפיכך שמין אותם בבית דין ומוכרים אותם מיד ואם השוק קרוב למדינה מוליכים אותם לשוק  (ובמקום שאין נוהגין להכריז שום דבר דינו כדברים שאינן מכריזין)  (טור):",
+      "en": "Similarly if a court sold items that do not require public notice [of sale to attract bidders] and erred by a sixth [or more, in evaluating the value] the sale is void. Less than a sixth, the sale is valid. These are the things which do not require public notice: Slaves, documents, and movable effects. Slaves lest they run away; documents and effects lest they be stolen. Therefore they are appraised in court and sold then and there, though if the marketplace is close to the city, the items are taken there to be sold. In a place where public notice is never given, all items are treated [in all respects] as things for which notice is not given. Tur",
+      "ref": "Shulchan Arukh, Even HaEzer 104:4"
+    },
+    {
+      "seif": 5,
+      "he": "היכא דטעו ונתאנו בשתות שהמכר בטל אם ירצו ב\"ד לקיים המקח ולהחזיר האונאה הרשות בידם ויש חולקים בזה:",
+      "en": "If they did err by a sixth, in which case the sale is void, they may uphold the sale by returning the ona'ah money (unilaterally). There are those who disagree.",
+      "ref": "Shulchan Arukh, Even HaEzer 104:5"
+    },
+    {
+      "seif": 6,
+      "he": "שליח שמכר וטעה ונתאנה אפילו בכל שהוא המכר בטל אפי' אם הוא שליח ב\"ד ואם הטעה את הלוקח עד שתות המקח קיים וזכה המשלח ביתרון: הגה י\"א דדיין שנתמנה על פי הורמנא דמלכא ומכר ע\"י שלוחו עדיף משאר שליח ב\"ד והוי כב\"ד שטעו ומכרן קיים וכ\"ש אם מכר בעצמו (ריב\"ש סי' קע\"ט):",
+      "en": "A proxy [for the widow] who sold [the 'ketuba'] but made a mistake and/or was cheated, even for the most insignificant sum - the sale is null and void even if the proxy was appointed by the court. On the other hand, if the proxy misled the buyer, up to 20%, the sale is legally binding and the one who appointed the proxy is entitled to the difference. Note: Some say that a judge appointed by royal command who sells [the 'ketuba'] via a proxy is preferable to other court appointed proxies and is like a court that erred but whose sales are valid, and certainly if he/it sold [the 'ketuba'] him/itself (Ribash, section 179).",
+      "ref": "Shulchan Arukh, Even HaEzer 104:6"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "פשוט במשנ' ערכין דף כא ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:1"
+        },
+        "2": {
+          "he": "שם בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:2"
+        },
+        "3": {
+          "he": "שם במשנה וכדמפרש רב יהוד' שם בשעת הכנסת פועלים (למלאכ') ובשעת יציאת פועלים (שהם יוצאים ונפטרים מהמלאכה):",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:3"
+        },
+        "4": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:4"
+        },
+        "5": {
+          "he": "מימרא דאמימר וכו' כתובות דף ק' ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:5"
+        },
+        "6": {
+          "he": "ל' הרמב\"ם בפ\"ב מה' מלוה ממשנ' שם דף צ\"ט ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:6"
+        },
+        "7": {
+          "he": "פי' במקום שאין מכריזין או דברים שאין מכריזין או בעת שאין מכריזין כמ\"ש בסמוך",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:7"
+        },
+        "8": {
+          "he": "שם במשנ' וכת\"ק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:8"
+        },
+        "9": {
+          "he": "שם בגמרא דף ק' ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:9"
+        },
+        "10": {
+          "he": "כשיטת הרי\"ף שם וכגירסתו ולזה הסכים הרמב\"ן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:10"
+        },
+        "11": {
+          "he": "כגי' רש\"י שם בגמ' ולזה הסכים הרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:11"
+        },
+        "12": {
+          "he": "כ\"כ הרמב\"ם בפי\"ג מה' מכירה ולזה הסכי' הרא\"ש והביאה הטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:12"
+        },
+        "13": {
+          "he": "מימרא דנהרדעי שם בגמרא דגיטין דף נ\"ב ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:13"
+        },
+        "14": {
+          "he": "פי' לקבור' האב או האם וכל מי שמוטל עליהם לקברו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:14"
+        },
+        "15": {
+          "he": "טור מדברי התו' שם בגיטין שהקשו פשיטא וכי יהא מוטל ל' יום",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:15"
+        },
+        "16": {
+          "he": "ג\"ז שם ברמב\"ם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:16"
+        },
+        "17": {
+          "he": "פי' ואפי' הכריזו וכפי שכ' בסעי' דלעיל וכמ\"ש שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:17"
+        },
+        "18": {
+          "he": "שם בגיטין ובכתובות שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:18"
+        },
+        "19": {
+          "he": "מאוקימת' בתרא שם בגמרא וכדאמר ר' נחמן וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:19"
+        },
+        "20": {
+          "he": "רמב\"ם בפי\"ג מה' מכירה וכת' ה\"ה לא ידעתי זה מבואר אבל מסברא הוא שהרי בשאר מקומות יפה כח היתומים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:20"
+        },
+        "21": {
+          "he": "הרא\"ש בפסקיו שם והביאה הטור",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:21"
+        },
+        "22": {
+          "he": "מסקנ' הגמ' שם דף צט ע\"ב דשליח כאלמנה וכרב נחמן שם ובקידושין דף מב ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:22"
+        },
+        "23": {
+          "he": "טור וכ\"פ הרא\"ש שם בשם ר\"ת ושכן עיקר",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 104:23"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "או ס' יום ואע\"ג דאי השבת ליומי דאכרזתא לא הוה אלא י\"ח כיון דמשכי מלתא שמעו אינשי וכתב הר\"ן פי' אם מתחילין ביום ב' נמצא שכלין ה' שבועות ביום אחד וישארו עוד ארבעה ימים עד כלות ס' יום והאחד מן הד' ימים מתחיל ביום ב' והרביעי ביום ה' נמצא בין הכל י\"ח ימים:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 104:1"
+        },
+        "2": {
+          "he": "ולהחזיר האונאה פירש להכירח הלוקח שיחזור האונאה יש חולקין דאין ליפות כח בית דין מכח הלוקח דא\"ה לא מזבני מנייהו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 104:2"
+        },
+        "3": {
+          "he": "ויש חולקים הוא דעת הרא\"ש  בטור דסבירא ליה כשם שהב\"ד יכולים לבטל כן הלוקח:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 104:3"
+        },
+        "4": {
+          "he": "אפילו בכל שהוא כו'  יוכל המשלח לומר לתקוני שדרתיך ולא לעוותי שבשאר אדם המוכר את שלו אמרינן שמחל אבל השליח לא מצי למחול מה שאין כלו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 104:4"
+        },
+        "5": {
+          "he": "וזכה המשלח ביתרון  פירוש בפחות משתות אבל בשתות כבר כתב בסעיף ה' ויש חולקין כאן הביא הטור תשוב' הרא\"ש ובש\"ע הביאה רמ\"א בסימן ק\"ג עיין מה שכתבתי שם עליה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 104:5"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "להגבות.  אין חילוק כאן אם גובין מיתומים קטנים או מגדולים. עיין בח\"מ סי' ק\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 104:1"
+        },
+        "2": {
+          "he": "משנה.  וה\"ה ב\"ד שהגבו מטלטלין בלא שומא הוי טועה בדבר משנה הר\"ם מטראני ח\"א סי' רע\"ח:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 104:2"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

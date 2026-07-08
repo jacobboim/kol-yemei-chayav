@@ -1,0 +1,223 @@
+{
+  "chelek": "EH",
+  "siman": 78,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 8,
+  "fetchedAt": "2026-07-08T00:08:59.924Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "חיוב פדיונה. ובו ח סעיפים:פדיונה כיצד נשבית חייב לפדותה ואינו יכול לומר לה הרי גיטך וכתובתיך ופדי את עצמך ואפי' אם יאמר איני פודך ולא אטול פירות אין שומעין לו אלא חייב לפדותה:",
+      "en": "How is she redeemed? If she is taken captive, he is obligated to redeem her, and is not permitted to say to her: Here is your divorce document and your ketubah, and redeem yourself. And even if he says: I will not redeem you and I will not take the fruits [produced by your property], we do not listen to him, but rather he is obligated to redeem her.",
+      "ref": "Shulchan Arukh, Even HaEzer 78:1"
+    },
+    {
+      "seif": 2,
+      "he": "אין מחייבים את הבעל לפדות את אשתו יותר על דמיה אלא כמו שהיא שוה כשאר השבויות  (וי\"א דאשתו כגופו דמי ויכול לפדותה בכל אשר לו) טור והרא\"ש בשם הרמ\"ה הובא בב\"י:",
+      "en": "A husband is not obligated to redeem his wife for more than her value, rather [he redeems her] for what she is worth, like all captives. Rem\"a: And some say that a wife is equated with his body, and he is able to redeem her with all that he has. (Tur and the Rosh in the name of the Rimah brought in the Beit Yoseif)",
+      "ref": "Shulchan Arukh, Even HaEzer 78:2"
+    },
+    {
+      "seif": 3,
+      "he": "היו דמיה יותר על כדי כתובתה ואמר הריני מגרשה וזו כתובתה ותלך ותפדה את עצמה אין שומעין לו אלא כופין אותו ופודה אותה אפי' היו דמיה עד י' בכתובתה ואפי' אין לו אלא כדי פדיונה בד\"א בפעם ראשונה אבל אם פדאה ונשבית פעם שנייה ורצה לגרשה מגרשה ונותן לה כתובתה והיא תפדה את עצמה  (אבל בלא\"ה אינו חייב לפדותה בפעם שניה)  (ב\"י):",
+      "en": "If the ransom was higher than her dower, and so he says: \"I hereby divorce her, and here is her dower. She may go redeem herself,\" we do not heed him. Rather we compel him to redeem her, even if her ransom was up to ten times the value of her dower, and even if he only has enough to redeem her. When does this apply? The first time. But if he redeemed her and she was captured a second time, he may divorce her and give her dower to her, and she redeems herself. Rem\"a: And regardless, he is not obligated to redeem her a second time (Beit Yosef).",
+      "ref": "Shulchan Arukh, Even HaEzer 78:3"
+    },
+    {
+      "seif": 4,
+      "he": "מי שנשבית אשתו והוא במדינת הים ב\"ד יורדים לנכסיו ומוכרין בהכרזה ופודין אותה כדרך שהבעל פודה  (אם הוא ואשתו בשביה עיין בי\"ד סי' רנ\"ב):",
+      "en": "If one's wife was captured while he is abroad, the court enters his property, sells it at auction, and redeems her as the husband redeems her. Rem\"a: If he and his wife are both in captivity, see Yoreh De'ah no. 252.",
+      "ref": "Shulchan Arukh, Even HaEzer 78:4"
+    },
+    {
+      "seif": 5,
+      "he": "המדיר את אשתו נדר שהוא חייב בגללו לגרשה וליתן כתובתה ונשבית אחר שהדירה אינו חייב לפדותה שמשעה שהדירה נתחייב לגרשה וליתן לה כתובתה:",
+      "en": "If one banned his wife with a vow that causes him to be obligated to divorce her and pay her dower, and she is captured after he took the vow, he is not obligated to redeem her, for from the moment he vowed he became obligated to divorce her and pay her dower.",
+      "ref": "Shulchan Arukh, Even HaEzer 78:5"
+    },
+    {
+      "seif": 6,
+      "he": "כהן שנשבית אשתו אע\"פ שנאסרה עליו הואיל ומקודם היתה מותרת לו פודה ומחזירה לבית אביה אפי' היה בעיר אחרת מיטפל לה עד שמחזירה למדינתה ומגרשה ונותן לה כל כתובתה ואם היה בעלה ישראל שהשבויה מותרת לו מחזירה לו לאשה כמו שהיתה ואם רצה אח\"כ מגרשה ונותן לה כתובתה  (שבויה שנאסרה אף לבעלה ישראל שחוששין שמא נבעלה ברצון כדרך שנתבאר סימן ז' אין בעלה חייב לפדותה (הר\"ן פ' נערה ור\"י נכ\"ג) :",
+      "en": "If a Kohen's wife is taken captive, even though she becomes forbidden to him, since before this time she was permitted he must redeem her and return her to her father's house.  Even if he is in another city [from her father], he must care for her until he returns her to her country, and [then] he divorces her and pays the full Ketubah.  If her husband is an Israelite, such that the captive woman is permitted to him, he takes her back as his wife as she was before, and if he wishes he may divorce her later and giver her her Ketubah.  Rem\"a: A captive woman who is prohibited even to her Israelite husband, that is, in a case where we are concerned that she willingly submitted to intercourse, as is explained in (Shulchan Arukh, Even HaEzer 78:7) - her husband is not obligated to redeem her.",
+      "ref": "Shulchan Arukh, Even HaEzer 78:6"
+    },
+    {
+      "seif": 7,
+      "he": "האשה שהיתה אסורה על בעלה מחייבי לאוין ונשבית אינו חייב לפדותה אלא נותן לה כתובתה והיא תפדה את עצמה  (ומשלם לה הפירות שאכל מנכסיה) (הר\"ן פרק אלמנה ניזונית):",
+      "en": "A woman who was [previously] prohibited to her husband by a negative precept in the Torah, who is then taken captive, poses no obligation for her husband to redeem her.  He instead gives her her Ketubah and she redeems herself.  Rem\"a: He must repay any profits that he consumed from her property.",
+      "ref": "Shulchan Arukh, Even HaEzer 78:7"
+    },
+    {
+      "seif": 8,
+      "he": "אין חיוב פדיונה עליו אלא בחייו אבל אלמנתו אינה נפדית מנכסיו אפילו נשבית בחייו ולא הספיק לפדותה עד שמת אין היורשים חייבין לפדותה ואפי' היא זקוקה ליבם אלא נפדית משל עצמה או תטול כתובתה ותפדה את עצמה:",
+      "en": "He is only obligated to redeem her [from captivity] in his lifetime. But his widow cannot be redeemed through his property. Even were she captured in his lifetime, but he died before he could redeem her, the inheritors are not obligated to redeem her, even the yibbum she is tied to. Rather, she should be redeemed on her own, or she can collect her ketubah and redeem herself.",
+      "ref": "Shulchan Arukh, Even HaEzer 78:8"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "משנה כתובות דנ\"א ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 78:1"
+        },
+        "2": {
+          "he": "טור וכתב הב\"י שזה פשוט שהרי תקנה זו לטובת' נתקנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 78:2"
+        },
+        "3": {
+          "he": "הרמב\"ם בפי\"ד מה' אישות מבריי' שם דנ\"ב ע\"ב וכרשב\"ג וכסתמא דמתני' גיטין דף מה ע\"א וכ\"פ הרי\"ף שם ופי' דמי' הוא ששמין אותה כשפחה הנמכרת בשוק ולא לפי עושר בעלה ה\"ה שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 78:3"
+        },
+        "4": {
+          "he": "וכ\"פ ג\"כ בי\"ד סי' רנ\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 78:4"
+        },
+        "5": {
+          "he": "שם מבריי' שם וכת\"ק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 78:5"
+        },
+        "6": {
+          "he": "בשם הרא\"ש וכפי' רש\"י וכ\"נ לדעת הרמב\"ם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 78:6"
+        },
+        "7": {
+          "he": "שם ממימרא דרב חייא בר אבין וכו' כדי לקוברה וה\"ה לפדותה כיון שהוא ג\"כ מתנאי ב\"ד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 78:7"
+        },
+        "8": {
+          "he": "כדרך כל מכירת ב\"ד יתבאר בח\"מ סי' ק\"ג",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 78:8"
+        },
+        "9": {
+          "he": "שם בבריי' שם דנ\"ב ע\"א וכרבי יהושע",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 78:9"
+        },
+        "10": {
+          "he": "שם במשנה דנ\"א ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 78:10"
+        },
+        "11": {
+          "he": "כתב הב\"ח אם מבינים בדברי האשה שאינ' חפיצ' שיפדוה היא אסורה לבעלה וע\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 78:11"
+        },
+        "12": {
+          "he": "פלוגתא דאביי ורבא שם דף נ\"ב ע\"א ופסק כרבא בידוע שהלכה כמותו לגבי אביי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 78:12"
+        },
+        "13": {
+          "he": "טור מהא דא\"ל רב הכי אמר חביבי וכו' אלא כי הא דתניא וכו' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 78:13"
+        },
+        "14": {
+          "he": "כדמפרש שם בברייתא שאין אני קורא בה ואותבינ' לי לאינתו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 78:14"
+        },
+        "15": {
+          "he": "מדברי אביו הרא\"ש שם ואית ספרים דגרסי הכי בגמ' וכן גיר' הרי\"ף",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 78:15"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "וי\"א דאשתו כו'  פלוגתא זו איתא באשר\"י פרק נערה בב\"י מביאה וז\"ל ומשמע כל שבוין יש איסור יותר מדמיהן ואפי' אשתו נמי פסק הרמ\"ה כת\"ק דהלכה כרבים ומתניתי' דגיטין איירי בשאר שבוין אבל אשתו כגופו דמי וכמו שאדם יוכל לפדות עצמו בכל ממונו וקשה על רמ\"א שכתב ויוכל לפדותה כו' ומשמע דעכ\"פ ליכא חיובא וי\"ל דה\"ק כיון שיש לו רשות ממילא נכנס בכלל חיוב איירי בשאר שבוין אבל אשתו כגופו דמי וכמו שאדם יוכל לפדות עצמו בכל ממונו וקשה על רמ\"א שכתב ויוכל לפדותה כו' ומשמע דעכ\"פ ליכא חיובא וי\"ל דה\"ק כיון שיש לו רשות ממילא נכנס בכלל חיוב דתנאי כתובה דחייב לפדותה וע\"כ צ\"ל כן דאלת\"ה מאי וי\"א הא אין כאן פלוגתא הא דיעה ראשונה לא אמרה אלא שאין מחייבין ומודה לי\"א דיש רשות אלא כדפרישי':",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 78:1"
+        },
+        "2": {
+          "he": "שחוששין שמא נבעלה כו'  בתשובה סי' י\"ב כתבתי בהוכחות וראיות שאם השבאי נשאה לאשה נאסרה על בעלה ואע\"פ שתחילה בשעת הנשואין היה לה אונס ע\"כ אין עליו חיוב לפדותה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 78:2"
+        },
+        "3": {
+          "he": "ומשלם ליה הפירות שאכל לכאורה היה נראה שמשלם דמי הפירו' בזול ככל שאוכל דבר שהיה סבור שלא יצטרך לשלם כההוא דהגוזל קמא שהניח להם אביהם פרה שאולה והבנים טבחו ואכלוה דמשלמים דמי הבשר בזול אבל באמת אין זה שייך כאן דהא ידע שהוא חייב להוציא כיון שהיא אסורה עליו באיסור לאוין בעמוד והוציא קאי:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 78:3"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "נשבית חייב לפדותה.  עיין בס' בית מאיר שכ' שראה אגרת חתום מב\"ד גאוני ק\"ק פ\"פ דמיין שכתבו דדוקא אם נשבית ממילא אבל אם נשבית בשביל שגנבה אין מחויב כלל הבעל לפדות' כו' והוא ז\"ל חולק ודעתו דאפי' נשביתמכח גרמא שלה בשביל שגנבה מ\"מ חייב לפדותה וכן גבי רפואתה אף אם אכלה בפשיעת' דברים המזיקים לתאוות' עד שחלתה מ\"מ חייב ברפואת' ע\"ש. ותימה שלא זכר דברי השיטה מקובצת כתובות נ\"א שכתב בהדי' בשם הריטב\"א ז\"ל דהא דקתני לקתה חייב לרפאותה להכי נקט לקתה ולא קתני חלתה לאשמועי' דאם חלתה בפשיעת' אינו חייב לרפואת' ע\"ש. גם בתשו' מעיל צדקה סי' ט\"ו מבואר שלא כדברי הב\"מ הנ\"ל ושם נשאל בנידון ראובן שנשא אלמנת שמעון וקרה מקרה שגנב א' הודה שגנב זה שלשים שנה נחושת ומכר לאשה הנ\"ל והוא זמן היותה תחת שמעון בעלה הראשון והיתה אז נו\"נ בתוך הבית והנה היא כליאה בבית האסורים וההכרח להצלות נפשה להוציא הוצאות מרובות וקנסות להשררה וטען ראובן אחרי שזה נעשה בבית בעלה הא' שהתעסק' בעסק זה לטובתו א\"כ מוטל על נכסי בעלה הראשון להוציא' מבית כלא ועוד טען שאין החיוב עליו לפדותה כיון שלא בא השביה באונס רק שגרמה לעצמה וגם כי עשתה קודם שנשאה כו' והשיב לענין טענה הא' לחייב יורשי בעלה הראשון אין בטענתו ממש לא מבעיא מדין פדיה ודאי פטורים היורשים דחיוב פדיה אינו אלא על הבעל עצמו (כדלקמן ס\"ח) אלא גם מדין שותף ומתעסק ג\"כ פטורים ואע\"ג שכ' הרמ\"א בח\"מ סי' קע\"ו סי\"ב בשותף שקנה גניב' וחלק עם חבירו ובא אח\"כ עלילה ההפסד לאמצע מאחר שנתרצ' למעשיו כו' הנה בנ\"ד מסתמא לא נתרצה הבעל למעשיה מה שקנת' מן הגנב אף שלקח מה שהרויח זהו קנין ממילא דמה שקנתה אשה קנה בעלה ואין זה דומה כלל לשותף שלקח חלק בגניב'. ואף אם היא תאמר שבעלה נתרצה וידע שלקח' מן הגנב היא אינה נאמנת בזה נגד היורשין להוציא מידן ואפי' שבוע' אינם צריכים ואם תאמר שהעליל' הי' שקר שלא לקחה מעולם או שלא ידעה שהדברים ההם גנובין מכ\"ש שפטורים היורשין ואפי' שותפין בעלמא פטורים בכה\"ג לאחר שחלקו כמבואר בח\"מ שם אכן אם טוענת ברי נגד היורשי' שגם הם בעצמם יודעים שבעל' הי' מרוצ' למעשיה ליקח מן הגנב היו מחוייבים שבוע' לפי דעת רמ\"א הנ\"ל אך דינו של הרמ\"א בזה צע\"ג כו' (עמ\"ש בפ\"ת לח\"מ שם) אמנם טענה הב' של ראובן בעלה השני לפטור עצמו מחיוב פרקונה הואיל והיא גרמה לעצמ' הדין עמו דלא תיקנו חז\"ל דהבעל חייב לפדות' אלא אם נשבית באונס כסתם שביה אבל לא אם פשעה בנפש' דאל\"כ כל אחת שיהי' לה כעס עם בעל' תפיל עצמה לגייסות ומחייבת בעל' בכל יום כמו שחששו חז\"ל בעבד בקדושין ט\"ו ע\"ב כו' וא\"כ אם אמת הדבר שקנתה בפשיע' פטור בעל' מלפדות' מחמת חיוב פורקנ' וא\"כ לא מבעיא אם לא ידע בעל' השני בשעה שנשא' שקנת' מן הגנב ושיש עלי' עלילות דברים דפשיטא דפטור כו' אלא אפי' ידע הבעל מזה קודם שנשא' לא אמרי' דה\"ל להתנות כיון אונסא דלא שכיח' דלא אסיק אדעתי' שיבא לידי גילוי אחרי שנשתקע כמו שלשים שנה כו' ולכן בנ\"ד פשיטא עד כדי כתובתה שהוציא עליה גובה מכתובת' דהיינו בעת שתבא לגבות כתוב' יכול לנכות לה כל מה שהוציא עליה ואף אם תטעון שהעלילה הי' שקר והיא בכלל נשבית באונס מ\"מ אינה יכולה להוציא ממנו פדיונ' שהוא כנגד דמי כתובת' שבידו ולא דמי למ\"ש בח\"מ סי' ע\"ה ס\"ט בטוען א\"י אם פרעתיך דחייב דש\"ה שבא הספק קודם שהוציא עלי' ואנחנו מחייבים אותו להוציא ע\"ש כתובת' כו' ואמנם אם יעלו ההוצאות יותר מכדי כל כתובת' אם רשאים להטיל על הצבור או לפחות שיתחייבו בנים עם הבעל ויושם ביניהם נ\"ל דפשיטא דהצבור נקראים מוחזקים נגדם וכיון שעכ\"פ מחוייבים לפדותה והיא בכלל לא תעמוד על דם רעיך יכולים לומר להם אתם מחוייבים בפדיון זה עכ\"פ ודמיא להא דאמרי' (ב\"ב כ\"ד ע\"ב) ספק אם האילן קודם יקוץ ואינו משתלם וגם למה דאמרינן ביבמות ל\"ז כו' ואפי' אם תאמר היא ברי שפשעה בענין שיפטור בעלה מלפדותה מ\"מ יכולים לו' קנוניא עשו על הצבור מיהו בניה וקרוביה שהם כיחודים לגביה רשאי הבעל לטעון עמהם קודם שיוצי' עליה ומן הראוי מה שיוציא יותר מסך כתובתה להעריך ביניהם כפי ראות עיני ב\"ד עכ\"ד עש\"ה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 78:1"
+        },
+        "2": {
+          "he": "אחר שהדיר'.  עבה\"ט מ\"ש ונראה לי דדוקא באשת ישראל כו' עד ודבר זה למדתי מפירש\"י כתובות כו' ועיין בס' ישועות יעקב סק\"ב שהשיג עליו:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 78:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "פודך.  כלומר אפילו אם אמר קודם הנשואין איני פודך ואפי' שניהם נתרצו זה לזה לא מהני כי היכא דלא לטמע בין העכו\"ם ח\"מ ב\"ש. פדאה חבירו משלם לו דמי פדיונה ודוק' בכדי דמיה אבל ביותר מכדי דמיה לא. רש\"ל בים של שלמה פ\"ו דין ט\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 78:1"
+        },
+        "2": {
+          "he": "הבעל וכו'.  ל\"ד אלא אפילו אסור לפדות יותר מכדי דמיהם. ומ\"ש בהג\"ה אשתו כגופו ויוכל לפדות וכו' היינו חייב לפדות מאחר שאין איסור בדבר מחויב הוא לפדות ב\"ש. ועיין בי\"ד סי' רנ\"ב דשם איתא כששניהם בשביה היא קודם לפדות נראה אפילו יותר מכדי דמיה היא קודם ב\"ש. ועיין מ\"ש הש\"ך שם בי\"ד סי' רנ\"ב ס\"ק ד' וס\"ק י\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 78:2"
+        },
+        "3": {
+          "he": "לגרשה.  דוק' אם קודם שנשבית היה חייב לגרשה. אבל אם יש לו זמן להתיר חייב לפדותה ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 78:3"
+        },
+        "4": {
+          "he": "שהדירה.  אבל נשבית ולבסוף הדירה חייב לפדותה דאתי לאערומי ש\"ס. וכן אם נדרה היא בעת שהיתה נשבית וקיים הוא לה חייב לפדותה דקי\"ל כשהוא מקיים הנדר הוא נותן אצבע בין שיני' ח\"מ ב\"ש. ונראה לי דדוק' באשת ישראל הדין כן. אבל באשת כהן אם נדרה היא אחר שנשבתה פטור הוא מלפדותה דלאו השביה גורם אלא מחמת הנדר והטעם נראה לי. בשלמ' באשת ישראל אעפ\"י שמכח הנדר אינו יוכל לקיים ואותבינך לי לאנתו. אפ\"ה חייב לפדותה דהוא נותן אצבע בין שיני' דהו\"ל להפר והיה יוכל לקיים התנאי ואותבינך לי לאנתו. אבל באשת כהן אינו יכול לומר דהוא נותן אצבע בין שיניה דה\"ל להפר. דלמה להפר הא מיד שנשבתה אסורה היתה לו אף אם לא נדרה היא. א\"כ למה הפר לה ומאי איכפת ליה בזה. א\"כ הוי כאיסור דבר אחר ופטור מלפדותה. ודבר זה למדתי מפרש\"י כתובות דף נ\"ב ע\"א ד\"ה הכא במאי עסקינן וכו' ובישראל פליגי וכו' ע\"ש. צריך לדקדק מאי בעי רש\"י בזה דכתבו ובישראל פליגי הא אי אמרינן דאיירי בנודרת היא וקיים לה הוא ופליגי אי שנתן הוא אצבע או היא וכו'. אין חילוק בין אשת ישראל או אשת כהן. אלא צריך לומר דהיה קשה לרש\"י מה הקשה המקשן ואי דנדרה היא מה לי הדירה ולבסוף נשבית מה לי נשבית ולבסוף הדירה וכו'. הא באשת כהן שפיר יש חילוק. בהדירה ולבסוף נשבית נוכל לומר דהפלוגת' הוא אם נתן הוא אצבע וכו' דה\"ל להפר. אבל בנשבית ולבסוף הדירה אינו יוכל לומר דנתן הוא אצבע וכו' דה\"ל להפר. דמה אהני ליה דהא כבר נאסרה אותה לו מכח השביה. ומש\"ה כתב רש\"י ובישראל פליגי וכו'. א\"כ דברי מוכרחים ודו\"ק:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 78:4"
+        },
+        "5": {
+          "he": "סי' ז'.  כתב הח\"מ אשת כהן שזנתה ברצון בשביה צריך לפדותה כיון דאסורה לו מיד כשנשבת ויוכל לקיים התנאי ואהדרינך למדינתך לכן אפילו אם זנתה ברצון חייב לפדותה. והב\"ש כתב עליו ולא משמע כן מהסוגי' ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 78:5"
+        },
+        "6": {
+          "he": "שאכל.  היינו כשנשבית צריך לשלם הפירות ולא קודם וחייב לשלם כל הסך הפירות ולא בשעת הזול דהא ידע שהוא חייב להוציאה כיון שהיא אסורה לו ט\"ז:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 78:6"
+        },
+        "7": {
+          "he": "לפדותה.  ואין היורשים חייבים לשלם הפירות שאכל אביהם דהא אביהם בדין אכל דהיה חייב לפדותה ח\"מ ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 78:7"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

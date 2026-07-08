@@ -1,0 +1,753 @@
+{
+  "chelek": "EH",
+  "siman": 6,
+  "chelekTitle": "Even HaEzer",
+  "seifCount": 18,
+  "fetchedAt": "2026-07-08T00:08:58.391Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "נשים האסורות לכהן ודין אשת כהן. ובו טו סעיפים:כהן אסור מן התורה בגרושה זונה וחללה ואסור בחלוצה מדרבנן לפכך אם עבר ונשא ספק חלוצה א\"צ להוציא אבל גרושה אפי' אינה אלא ספק גרושה צריך להוציא בין שנתגרשה מן האירוסין בין שנתגרשה מן הנשואין ואפי' ריח גט פוסל בכהונה וכופין אותו להוציא והיכי דמי ריח גט כגון שאמר לה הרי את מגורשת ממני ואי את מותרת לכל אדם ואע\"פ שלא הותרה בזה הגט נפסלה לכהונה  (ואפילו לא נתגרשה רק משום קול קידושין בעלמא אע\"פ שהוא ברור שאין ממש באותן קידושין ואין נותנין גט רק מכח חומרא בעלמא אפילו הכי פסולה לכהונה) (תשו' הרשב\"א סימן תק\"נ)  אבל אם נתן לה גט על תנאי ולא נתקיים התנאי אינו כלום ואינו פוסל ורשאי הכהן לכתחלה לגרש על תנאי:",
+      "en": "A priest if forbidden from the Torah to marry a divorced woman, a harlot, or a challalah (a woman of invalid priestly lineage) and is forbidden from a Chalutzah from the rabbis.  Therefore if he transgressed and married a a questionable Chalutzah he does not have to divorce her, but if he married a divorced woman, even if she was only questionably divorced, he must divorce her regardless if she was divorced out of engagement or full marriage.  Even the spirit of a Get (document of divorce) invalidates a woman from marrying a priest and they force him to divorce her.  What's the case of the spirit of a Get? If he says to her \"You are divorced from me put you are not permitted to anyone else, even though she is not divorced via this type of Get she becomes invalidated for priests.  [Rema: Even if she was only divorced from the voice of engagement, even if it was clear that there was no substance to the engagement and they only give her a Get due to a stringency she is invalidated from marrying a priest.]  But if he gives her a Get on a condition that was not fulfilled, it is not considered a Get and she is not invalidated and a priest can divorce a woman on a condition.",
+      "ref": "Shulchan Arukh, Even HaEzer 6:1"
+    },
+    {
+      "seif": 2,
+      "he": "קטנה שמיאנה בבעלה מותרת לכהן ואם נתן לה גט אסורה ואם אחר שנתן לה גט החזירה ומיאנה בו מותרת לכהן שהמיאון מבטל הגט ואם אחר שגרשה נשאת לאחר ומיאנה בו יש מי שאומר שמותרת לכהן:",
+      "en": "A minor girl who refuses her husband is permitted to marry a priest, but if he gave her a Get she is forbidden.  If after he gave her a Get, he remarried her and she then refused she becomes permitted to a priest because her refusal nullifies the Get.  If after she was divorced she was married to a different man and refused him, there are those who say she is permitted to a priest.",
+      "ref": "Shulchan Arukh, Even HaEzer 6:2"
+    },
+    {
+      "seif": 3,
+      "he": "יצא קול פלוני כהן גירש את אשתו והרי היא יושבת תחתיו אין מוציאין מידו דלקלא דלבתר נשואין או דבתר אירוסין לא חיישינן ואם מת ונשאת לכהן אחר תצא:",
+      "en": "A rumor goes out: \"Ploni the kohen divorced his wife.\" Yet behold, she sits beneath him [i.e. there is no doubt they are still together], we do not force her apart from him. For we don't listen to rumors after marriage or after engagement. And if [the rumor is] he died, and she marries a different kohen, [we don't listen to the rumor and] she must separate [from her new husband].",
+      "ref": "Shulchan Arukh, Even HaEzer 6:3"
+    },
+    {
+      "seif": 4,
+      "he": "יצא קול פלוני כהן כתב גט לאשתו אם קורין באותו מקום לנתינת הגט כתיבה אף על גב דלכתיבה לחודה נמי קרו כתיבה הוי כאלו יצא הקול פלוני גירש אשתו ואם אין קורין לנתינת הגט כתיבה אין חוששין:",
+      "en": "If a voice went out that so-and-so the priest has written a Get for his wife if they call in the place giving a Get writing, even if they also call writing, writing it is as if the voice went out saying, so-and-so has divorced his wife, but if they do not call giving a Get writing, there is no concern.",
+      "ref": "Shulchan Arukh, Even HaEzer 6:4"
+    },
+    {
+      "seif": 5,
+      "he": "יצא קול על אשה שנתקדשה ונתגרשה חוששין לקול לאוסרה לכהן ודוקא שיצא הקול בלא אמתלאה אבל אם יצא עם אמתלאה כגון שיצא הקול שקדשה או גירשה על תנאי או שזרק לה קדושין או הגט ספק קרוב לו ספק קרוב לה אין חוששין לקול ואם יש אמתלאה בגירושין ולא בקידושין חוששין לקול הקדושין לאוסרה לעלמא ואין חוששין לקול הגירושין לאוסרה לכהן ודוקא שיצא האמתלאה עם הקול מיד אבל אם יצא הקול ברור ולאחר זמן יצא האמתלאה אינה מבטלת הקול ואם אח\"כ נתברר שהיה הקול שקר אפי' לא היה שם אמתלאה מבטלין אותו וכל קול שלא הוחזק בב\"ד אינו קול לחוש לו  (וע\"ל סי' מ\"ו יצא עליה קול חלוצה י\"א דלא חיישינן):",
+      "en": "If a \"voice\" goes out about a woman that she got married and [then] divorced, we suspect the \"voice\" to prohibit her to a priest. Specifically when the \"voice\" emanated without a excuse, but if it emanated with an excuse, e.g. the \"voice\" emanated that got married or divorced on a condition, or he threw the marriage [money/object/document] or divorce document and it  is a doubt whether it was closer to him or her, we do not suspect the \"voice.\" If there was an excuse for the divorce but not the marriage, we suspect the \"voice\" of the marriage to prohibit her to the world and we do not suspect the \"voice\" of the divorce to prohibit her to a priest. Specifically when the excuse emanates with the \"voice\" immediately but if the \"voice\" emanated clearly and after some time the excuse emanates, it does not nullify the \"voice.\" If afterwards it becomes clear that the \"voice\" was a lie, even if there wasn't an excuse, we nullify [the \"voice\"]. Any \"voice\" that wasn't upheld in a Jewish court is not a \"voice\" to be concerned for. (If a \"voice\" emanated that she was a chalutza (woman whose husband died without children her brother-in-law refused to marry her) some say we are not concerned.)",
+      "ref": "Shulchan Arukh, Even HaEzer 6:5"
+    },
+    {
+      "seif": 6,
+      "he": "כהן שנשא אחת מהפסולות מחרימין אותם ומחרימין כל הנושא ונותן עמהן וכיוצא בחומרות אלו עד שיגרשנה:",
+      "en": "A Kohen who marries any one of the women who are forbidden to him, we excommunicate them and anybody who does business with them, and similar severe actions such as this, until he divorces her.",
+      "ref": "Shulchan Arukh, Even HaEzer 6:6"
+    },
+    {
+      "seif": 7,
+      "he": "כהן שגירש אשתו לא תדור עמו במבוי ואם היו דרים בשכירות או בחצר של שניהם היא נדחית מפניו ואם החצר שלה הוא נדחה מפניה ויתבארו דברים אלו בסימן קי\"ט :",
+      "en": "A priest who divorced his wife, she should not live with him in the alley. If they were living in rented quarters or a shared courtyard, she is pushed aside because of him [i.e. she must leave]. If it was her courtyard, he is pushed aside because of her [i.e. he must leave]. These things will be explained in siman 119.",
+      "ref": "Shulchan Arukh, Even HaEzer 6:7"
+    },
+    {
+      "seif": 8,
+      "he": "איזהו היא זונה כל שאינה בת ישראל או בת ישראל שנבעלת לאדם שהיא אסורה לינשא לו איסור השוה לכל או שנבעלה לחלל אף על פי שהיא מותרת לינשא לו לפיכך הנרבעת לבהמה אע\"פ שהיא בסקילה לא נעשית זונה ולא נפסלה לכהונה שהרי לא נבעלה לאדם הבא על הנדה אע\"פ שהיא בכרת לא נעשית זונה ולא נפסלה לכהונה שהרי אינה אסורה לינשא לו וכן הבא על הפנויה אפי' היתה קדשה שהפקירה עצמה שהיא במלקות לא נעשית זונה ולא נפסלה מהכהונה שהרי אינה אסורה לינשא לו אבל הנבעלת לאחד מאיסורי לאוין השוין בכל ואינה מיוחדת בכהנים או מאיסורי עשה וא\"צ לומר למי שהיא אסורה לו משום ערוה או לכותי ועבד הואיל והיא אסורה לינשא לו הרי זו זונה וכן הגיורת והמשוחררת אפילו נתגיירה ונשתחררה פחות מבת ג' שנים הואיל ואינה בת ישראל הרי זו זונה ואסורה לכהן וכן יבמה שבא עליה זר עשאה זונה וי\"א שהבא על חייבי עשה או על חייבי לאוין אפי' חייבי לאוין דשאר לא עשאה זונה חוץ מהבא על היבמה:",
+      "en": "Who is deemed a \"zonah\" [who is forbidden to a kohen]? Whoever is not a Jewess, or who is a Jewess that had sexual relations with a man to whom she is forbidden to marry in a generally applicable prohibition, or who had sexual relations with a \"cholol\" (the child of a kohen and a woman who was forbidden to the kohen), even though she is permitted to be married to this man. Accordingly, a woman who committed bestiality, even though she [is punished] with stoning, she does not become a zonah and she does not become invalid to a kohen, because she did not have sexual relations with a human. And a man that has relations with a menstruating woman, even though she is punished with kareth, she does not become a zonah and she does not become invalid to a kohen, because she is not forbidden to him. And similarly a man that has relations with a single woman, even though she is a lewd woman that made herself freely available, which is punishable with lashes, she does not become  a zonah and she does not become invalid to a kohen, because she is not forbidden to him. However, a woman who had sexual relations with someone who is forbidden by a Biblical negative commandment, which are generally prohibited and are not uniquely [forbidden] to kohanim, or with someone who is forbidden by a Biblical affirmative commandment—and it need not even be said with someone who is forbidden by virtue of a forbidden incestual relationship—or with a non-Jew or slave, since she is forbidden to this person to marry, she is deemed a zonah. And so with a convert and a freed slave, even if she converted or was freed while she was less than three years old, since she was not a Jewess, she is deemed a zonah and is forbidden to a kohen. And so a woman who is subject to yibum (levirate marriage) with whom an unrelated person had relations, she becomes a zona. Some opinions say that one who has relations with one who is forbidden by a Biblical affirmative commandment or by a Biblical negative commandment—even the other negative commandments—she does not become a zonah except for instance in which one has relations with a woman subject to yibum.",
+      "ref": "Shulchan Arukh, Even HaEzer 6:8"
+    },
+    {
+      "seif": 9,
+      "he": "כל הנבעלת לאדם שעושה אותה זונה בין באונס בין ברצון בין בשוגג בין כדרכה בין שלא כדרכה משהערה בה נפסלה משום זונה ובלבד שתהיה בת שלש שנים ויום אחד ויהיה הבועל בן תשע שנים ויום אחד ומעלה:",
+      "en": "Any woman who becomes a zonah upon sexual relations, it is whether she was raped or consented or was inadvertent, whether it was the usual way or the unusual way (sodomy), once there is penetration she is disqualified as a zonah, provided that she is at least three years and one day old, and the male is at least nine years and one day old, or older.",
+      "ref": "Shulchan Arukh, Even HaEzer 6:9"
+    },
+    {
+      "seif": 10,
+      "he": "אשת כהן שנבעלה אפי' באונס אסורה לו:",
+      "en": "The wife of a priest who had relations [with another man] even if she was forced is forbidden to him.",
+      "ref": "Shulchan Arukh, Even HaEzer 6:10"
+    },
+    {
+      "seif": 11,
+      "he": "אשת ישראל שנאנסה אע\"פ שמותרת לבעלה אסורה לכהונה:",
+      "en": "The wife of a non-levite Jew who was raped even though she is permitted to her husband is forbidden to marry a priest.",
+      "ref": "Shulchan Arukh, Even HaEzer 6:11"
+    },
+    {
+      "seif": 12,
+      "he": "אשת כהן שאומרת לבעלה נאנסתי או שגגתי ובא עלי אחר או שבא עד אחד והעיד לו עליה שזינתה בין באונס בין ברצון אינה אסורה עליו שמא עיניה נתנה באחר ואם היא נאמנת לו או העד נאמן לו וסמך דעתו לדבריו ה\"ז יוציא כדי לצאת ידי ספק  (וע\"ל סימן קט\"ו ס\"ז וסימן קע\"ז):",
+      "en": "The wife of a priest who said to her husband I was raped or a made a mistake and another man slept with me, or if one witness came and testified that she committed adultery whether forced or willingly, she is not forbidden to her husband because perhaps she has taken interest in a different man.  But if her husband believes her the witness is believed as well and he must divorce her to remove them from suspicion.",
+      "ref": "Shulchan Arukh, Even HaEzer 6:12"
+    },
+    {
+      "seif": 13,
+      "he": "אשת כהן שאמרה לבעלה נאנסתי אע\"פ שהיא מותרת לבעלה כמו שנתבאר הרי היא אסורה לכל כהן שבעולם אחר שימות בעלה שהרי הודית שהיא זונה שאסרה עצמה ונעשית כחתיכה דאיסורא:",
+      "en": "The wife of a priest who said to her husband I was raped, even though she is permitted to her husband as was explained, she is forbidden to any other priest after her husband dies because she admitted she slept with another man and made herself forbidden and has become partially forbidden.",
+      "ref": "Shulchan Arukh, Even HaEzer 6:13"
+    },
+    {
+      "seif": 14,
+      "he": "כהן שקדש גדולה או קטנה ואחר זמן בא עליה וטען שמצאה דרוסת איש נאסרת עליו מספק שמא קודם קידושין נבעלה או אחר קידושין אבל ישראל שטען טענה זו לא נאסרה עליו שיש כאן שני ספיקות שמא קודם קדושין שמא אחר קדושין ואפי' נאמר אחר קדושין שמא באונס שמא ברצון שהאנוסה מותרת לישראל לפיכך אם קדשה אביה לישראל והיא פחותה מבת שלש שנים ויום אחד וטען שמצאה דרוסת איש נאסרת עליו מספק שאין כאן אלא ספק אחד שמא באונס שמא ברצון וספק של איסור תורה לחומרא:",
+      "en": "A Cohen who betrothes an adult or child, and after some time has relations with her and finds her not a virgin, she is forbidden to him by doubt - perhaps she had relations before betrothal [and is permitted] or perhaps after betrothal [and is forbidden]. But if a Yisrael who makes this claim, she is not forbidden to him, for there are two doubts here - perhaps before betrothal and perhaps after betrothal, and even if it was after betrothal, perhaps it was forced [and she is not forbidden] and perhaps it was willingly [and she is forbidden], for if she is raped she remains permitted to a Yisrael. Therefore if her father betrothed her to a Yisrael when she was less than three years and one day old, and he claims to have found her not a virgin, she is forbidden to him by doubt, because there is only one doubt here - perhaps it was forced, or perhaps willingly, and in a Torah prohibition we must be stringent in a doubtful case.",
+      "ref": "Shulchan Arukh, Even HaEzer 6:14"
+    },
+    {
+      "seif": 15,
+      "he": "כל אשה שקינא לה בעלה  (או ב\"ד) (טור)  ונסתרה ולא שתת מי סוטה אסורה לבעלה אפילו הוא ישראל ואם מת בעלה אסורה לכהן:",
+      "en": "Any woman whose husband (or the Court) expressed jealousy about her, and then she was privately with the man she was warned about, and did not drink the Sotah-waters, is forbidden to her husband, even if he is a Yisrael. If her husband dies, she is forbidden to marry a Cohen.",
+      "ref": "Shulchan Arukh, Even HaEzer 6:15"
+    },
+    {
+      "seif": 16,
+      "he": "יצא לה  שם מזנה בעיר אין חוששין לה ואפילו הוציאה בעלה משום שעברה על דת יהודית או בעידי דבר מכוער ומת קודם שנתן לה גט הרי זו מותרת לכהן:",
+      "en": "If she becomes know in the city as unfaithful, we don't suspect her.   Even if her husband sent her out because she violated Dat Yehudit [the customs of Jewish women] or for something disgusting, and he died before he gave her the divorce document , she is permitted to a Cohen.",
+      "ref": "Shulchan Arukh, Even HaEzer 6:16"
+    },
+    {
+      "seif": 17,
+      "he": "פנויה שראוה שנבעלה לאחד והלך לו הבועל ואמרו לה מי הוא זה שבא עליך ואמרה אדם כשר הרי זו נאמנת ולא עוד אפי' ראוה מעוברת ואמרו לה ממי את מעוברת ואמרה מאדם כשר הרי זו נאמנת ותהיה  (היא ובתה)  (טור)  מותרת לכהן בד\"א כשהיה המקום שנבעלת בו פרשת דרכים או בקרנות שבשדות שהכל עוברים שם והיו רוב העוברים שם כשרים ורוב העיר שפירשו אלו העוברים ממנה כשרים שחכמים עשו מעלה ביוחסין והצריכו שני רובות אבל אם היו רוב העוברים פוסלים אותה כגון כותים או ממזרים וכיוצא בהם אע\"פ שרוב המקום שבאו ממנו כשרים או שהיו רוב אנשי המקום פסולים אע\"פ שרוב העוברים שם כשרים חוששין לה ונאמר למי שפוסלת אותה נבעלה ולא תנשא לכהן לכתחלה ואם נשאת לא תצא וי\"א דבאומרת לכשר נבעלתי בחד רובא לכתחלה מכשירין ובדיעבד אפילו ברוב פסולים:",
+      "en": "A single woman whom they saw having intercourse with someone, and the one who had intercourse left and they said to her: Who was this that had intercourse with you? And she said: A valid man. She is believed.\nFurthermore, even if they saw her pregnant and they said to her: Who impregnated you? And she said: A valid man. Behold, she is believed and she (and her daughter) are permitted to a priest. \nWhen is this so? When the place where she had intercourse was a crossroads, or at the corners of a field where everyone passes by, and most passersby are valid, and most of the city from which the passersby came from are valid. For the sages made a stringency with genealogy and required two majorities.\nBut if most passersby would disqualify her [from marrying a priest] such as non-Jews, or mamzers or other such ilk, even though the place they came from was mostly valid, or if most of the men of the place were invalid, even though most passersby were valid, we cannot trust her and we must say: You had relations with one who would disqualify you, and you may not marry a priest. But if she does marry [a priest] she need not be divorced.\nAnd there are those who say that if she says: I had relations with a valid man, one majority alone is sufficient to make her valid, and ex post facto, even if most are invalid.",
+      "ref": "Shulchan Arukh, Even HaEzer 6:17"
+    },
+    {
+      "seif": 18,
+      "he": "ראוה שנבעלה או שנתעברה בעיר אפילו לא היה שוכן שם אלא כותי א' או חלל אחד ועבד וכיוצא בהם הרי זו לא תנשא לכתחלה לכהן שכל קבוע כמחצה על מחצה הוא ואם נשאת לא תצא הואיל והיא אומרת לכשר נבעלתי היתה אלמת או חרשת או שאמרה איני יודעת למי נבעלתי או שהיתה קטנה שאינה מכרת בין כשר לפסול הרי זו ספק זונה ואם נשאת לכהן תצא אלא אם כן היו שני רובים המצויים כשרים ויש מי שאומר שאפילו נתעברה בעיר אם הלך הבועל אליה תנשא לכתחילה כיון דאיכא רוב העיר ורוב סיעות כשרים אא\"כ הלכה היא אליו וסתמא נמי שאין ידוע מי הלך למי תנשא לכתחלה:",
+      "en": "If they saw that she had intercourse or she was impregnated in the city, even if there was only one non-Jew there or one disqualified priest or someone like that, she may not be married ab initio to a priest, for all [populations] that are fixed are judged as fifty/fifty. \nAnd if she is married, she need not be divorced since she says, \"I had relations with a valid one.\"\nIf she was mute or deaf or if she said, \"I don't know whom I had intercourse with\" or if she was a minor who couldn't tell the difference between a valid one and an invalid one, this one is a doubtfully profaned woman and if she is married to a priest she must be divorced, unless there were two majorities found there who were valid. \nAnd there are those who say that even if she was impregnated in the city if the man who had intercourse went to her she may be married ab initio, since most of the city and most of its groups are valid, unless she went to him.\nAnd in general as well, when we don't know who went to whom, she may be married ab initio.\nIf the child of a non-Jew was mixed up with a Jewish child, they immerse both for the sake of conversion, and each of them is a doubtful convert.",
+      "ref": "Shulchan Arukh, Even HaEzer 6:18"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "מפורש בתורה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:1"
+        },
+        "2": {
+          "he": "ברייתא יבמות ד' כ\"ד ע\"א ובכמה דוכתי",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:2"
+        },
+        "3": {
+          "he": "שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:3"
+        },
+        "4": {
+          "he": "כ\"כ הרמב\"ם בפי\"ז מה' א\"ב וכ' ה\"ה זה פשוט דספיקא דאורייתא הוא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:4"
+        },
+        "5": {
+          "he": "ברייתא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:5"
+        },
+        "6": {
+          "he": "שם דף נב ע\"א ודף צב ע\"א ודריש לה מדכתיב ואשה גרושה מאישה אפילו לא נתגרשה אלא מאישה פסולה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:6"
+        },
+        "7": {
+          "he": "משנה גיטין דפ\"א ע\"א וכב\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:7"
+        },
+        "8": {
+          "he": "משנה יבמות דק\"ח ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:8"
+        },
+        "9": {
+          "he": "טור דס\"ל דלענין להתיר' לכהן אין חילוק בין מיאון דידיה למיאון דאחרים",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:9"
+        },
+        "10": {
+          "he": "מהא דשלח רב יוסף גיטין דפ\"א ע\"א וכדמפרש שם בגמ'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:10"
+        },
+        "11": {
+          "he": "ג\"ז שם וכמו שכתב הטור אבל הרמב\"ם לא חילק בזה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:11"
+        },
+        "12": {
+          "he": "משנה שם דף פ\"ח ע\"א וכדמפרש שם בגמ' דפ\"ט ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:12"
+        },
+        "13": {
+          "he": "שם במשנה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:13"
+        },
+        "14": {
+          "he": "טור וכת' הב\"י שפשוט הוא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:14"
+        },
+        "15": {
+          "he": "מסקנ' הגמ' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:15"
+        },
+        "16": {
+          "he": "פלוגתא דאמוראי שם וכתב הרא\"ש שפסק הר\"מ דמבטלין קלא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:16"
+        },
+        "17": {
+          "he": "מימר' דר\"א שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:17"
+        },
+        "18": {
+          "he": "ב\"י בשם תשובת הרמב\"ם וע\"ש כל פרטי ההרחקות שכ' שם ומ\"ש בשם תשו' אחרת לגאון",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:18"
+        },
+        "19": {
+          "he": "ברייתא כתובות דף כח ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:19"
+        },
+        "20": {
+          "he": "פשוט שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:20"
+        },
+        "21": {
+          "he": "ע\"ש דבישראל אסורים לדור בחצר א' כד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:21"
+        },
+        "22": {
+          "he": "ל' הרמב\"ם רי' פי\"ח וכרבנן במשנה יבמות דף ס\"א ע\"א ואפילו נתגיירה בפחותה מבת ג\"ש וכדא' ר\"נ שם ד\"ס ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:22"
+        },
+        "23": {
+          "he": "בריית' שם דף ס\"ח ע\"א וכדמפרש בגמ' שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:23"
+        },
+        "24": {
+          "he": "מה' דמקיש זרעו לו כו' שם דס\"ט ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:24"
+        },
+        "25": {
+          "he": "מימרא דרב יוסף שם דף נ\"ט ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:25"
+        },
+        "26": {
+          "he": "מהא דאין אשה עושה חלל מנדה שם ד\"ס ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:26"
+        },
+        "27": {
+          "he": "שם בגמרא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:27"
+        },
+        "28": {
+          "he": "כחכמים שם בברייתא",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:28"
+        },
+        "29": {
+          "he": "מהא דציינתיו לעיל וכן פירש\"י שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:29"
+        },
+        "30": {
+          "he": "כחכמים שם וכמו שציינתי לעיל בריש הסעיף",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:30"
+        },
+        "31": {
+          "he": "ג\"ז שם ברמב\"ם וכתב ה\"ה דכ\"ש הוא משאר ח\"ל דה' מספקא לן אי קדושין תופסין ביבמה שם דצ\"ב ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:31"
+        },
+        "32": {
+          "he": "תוספת שם דס\"ח ע\"א וכתב הטור שלזה הסכים אביו הרא\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:32"
+        },
+        "33": {
+          "he": "ל' הרמב\"ם שם פי\"ח ממשנ' שם דנ\"ג פ\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:33"
+        },
+        "34": {
+          "he": "ממשנה נדה דמ\"ד ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:34"
+        },
+        "35": {
+          "he": "משנה שם דף מ\"ה ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:35"
+        },
+        "36": {
+          "he": "כלישנ' קמא דרבא שם דכ\"ב ע\"ב וכתב ה\"ה שם הטעם למה פסק כל\"ק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:36"
+        },
+        "37": {
+          "he": "מימר' דרב עמרם שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:37"
+        },
+        "38": {
+          "he": "ג\"ז שם ממשנה וגמ' דסוף נדרים דצ\"א ע\"ב וממימר' דרב קידושין ס\"ו ע\"א בההוא עובדא דסמי'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:38"
+        },
+        "39": {
+          "he": "שם נתבאר דה\"ה בישראל ברצון",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:39"
+        },
+        "40": {
+          "he": "שם בנדרים אמרו אסור' לאכול בתרומה דמשמע להרמב\"ם דה\"ה לינשא לכהן",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:40"
+        },
+        "41": {
+          "he": "לשון הרמב\"ם שם וכפי סברתו דאפילו מצא דם יכול לטעון פ\"פ מצאתי אבל אין טענה זו בבגרות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:41"
+        },
+        "42": {
+          "he": "מימר' דר\"א וכדמפרש שם בגמ' דכתובות ד\"ט ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:42"
+        },
+        "43": {
+          "he": "ג\"ז שם ברמב\"ם וע\"ש במ\"ש ה\"ה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:43"
+        },
+        "44": {
+          "he": "ממשנה סוטה ד\"ו ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:44"
+        },
+        "45": {
+          "he": "ממימרא דרבא גיטין דפ\"ט ע\"א ופירש\"י קול על הפנויה שזינתה לגוי ולעבד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:45"
+        },
+        "46": {
+          "he": "ולא מצאתי מאין יצא לו דין זה וצ\"ע לע\"ד שנראה שהוא סותר למש\"ל סימן ד' סט\"ו ושמא י\"ל שדין זה דנשואה לא קאי איצ' קול מזנת או י\"ל שגם הרישא בנשואה מיירי וש\"ה וכמ\"ש שם דהכל מרננין אחריה וכמ\"ש שם התוספתא בסוטה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:46"
+        },
+        "47": {
+          "he": "ל' הרמב\"ם שם ממשנה כתובות די\"ג ע\"א כר\"ג ור\"א שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:47"
+        },
+        "48": {
+          "he": "שם במשנה כרבן גמליאל ור\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:48"
+        },
+        "49": {
+          "he": "כר' יוחנן שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:49"
+        },
+        "50": {
+          "he": "כאוקימת' דאמוראי שם דף ט\"ו ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:50"
+        },
+        "51": {
+          "he": "טור מסוגיות הגמ' שם וכ\"כ ה\"ה בשם הרמב\"ן והרשב\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:51"
+        },
+        "52": {
+          "he": "ג\"ז שם ברמב\"ם מסוגי' דגמ' שם דאין הולכים אחר רוב סיע' בלבד וכו'",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:52"
+        },
+        "53": {
+          "he": "טור וכפי גירסתו שם לא דקא אזלא איהי לגבייהו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Even HaEzer 6:53"
+        }
+      }
+    },
+    "taz": {
+      "id": "taz",
+      "name": "Taz",
+      "hebrew": "ט\"ז",
+      "seifim": {
+        "1": {
+          "he": "אבל גרושה כו'  וה\"ה ספק זונה וחללה כ\"ה ברמב\"ם פי' במקום שאין לה מגו כגון בודאי נושבת ע\"פ ב' עדים וספק אם היא טהורה וא\"ל בספק זה אמאי לא מוקמינן לה אחזקה דכשנולדה לא היתה זונה די\"ל כיון שנשבית מסתמא נטמאה כנ\"ל:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 6:1"
+        },
+        "2": {
+          "he": "חומרא בעלמא פסולה לכהונה כו'  בב\"י סימן ק\"ן (צ\"ל י\"ג) לקמן מביא זה בשם תשובת רשב\"א סימן תק\"ן וכתב וז\"ל וכ\"ש זו שיצא עליה קול והצרכת אותה גט יאמרו קמו רבנן בקידושין וקידושין מעליא הוי כו' ואע\"ג דלרווחא דמלתא הוציאה בגט נמצאת אתה מצריכו כרוז ואפי' דנכריז איכא מאן דשמע בקידושין ולא שמע בהכרזה וכההיא דר\"פ החולץ עכ\"ל משמע מזה דאפי' דיעבד אם נשא כהן יוציא דהא בר\"פ אשה שהלך אמרינן ג\"כ לחשש זה דאיכא דשמע בחליצה ולא שמע בהכרזה כו' ואמרינן שם דמ\"ה לא תנשא לעולם ואין לך דיעבד גדול מזה שהרי אין לה תקנה וכמ\"ש הר\"ן מביאו (ב\"י סי' ו') צ\"ל קנ\"ו לענין אחר וכן משמע לשון רמ\"א דנקט פסולה לכהונה משמע אפי' דיעבד אלא שמו\"ח ז\"ל כתב היכא שנתגרשה מחמת קול בעלמא ואין הגט אלא מחמת חומרא דאם עבר ונשא אין מוציאין ממנו ואין שום ראיה לקולא זו ואין להקל בזה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 6:2"
+        },
+        "3": {
+          "he": "ואם אחר שנתן לה גט כו'  כשהמיאון מבטל הגט פי' דגלי עלי' דקטנה היא והגט בטל ואמרינן גגמ' דדוקא אם הראשון שגירשה החזירה ומיאנה מהני זה המיאון לבטל הגט ומ\"ה אם ניסת לאחר אחר הגט ומת מותרת לראשון ואין כאן מחזיר גרושתו אבל אם אחר הגט ניסת לאחר ומיאנ' בו לא מהני המיאון הזה לבטל הגט ונשארה עדיין גרושה ואסורה לחזור לראשון כדין מחזיר גרושתו הטעם דדוקא מיאון דידיה מהני אבל לא מיאון דחברי' דאי תאמר דמהני מיאון דחברי' חיישינן מתוך שמכרת הראשון ברמיזותי' ובקריצותי' שמא ירמוז עליה בעלה בעודה תחת השני שתמאן בו ותחזור לו כיון שהוא אוהב' אותו רק שוהא גירשה בע\"כ משא\"כ במיאון דידיה שהוא רואה שהיא שנאה אותו לא יבא לרמוז לה שתשוב אליו אחר שתנשא לאחר וכתב הרמב\"ם דגם לענין כהונה יש חילוק זה דאם מיאנה בראשון הגט בטל ומותרת בכהן ומיאון דאחר לא מהני ונשאר עליה גרושה ואסורה לכהן והטור הקשה עליו דבשלמא לענין שתחזור לראשון יש לטעם לחילוק כמו שזכרנו שלא יבא הראשון לפתות' שתצא מן השני במיאון ע\"כ לא מהני המיאון אבל לענין היתר לכהן אין חילוק בין מיאון דחברי' למיאון דידיה וכתב ב\"י שדברי הטור דברי טעם הן מ\"מ י\"ל שלא נתנו דבריהם לשיעורין לומר לענין זה המיאון דחבריה מבטל הגט ולענין זה לא מבטל וכאן בש\"ע הביא דעת הטור בשם יש מי שאומר ולא הביא כלל דעת הרמב\"ם אע\"ג דחביבין עליו דברי הרמב\"ם בכ\"מ ואף שאיני כדאי להכריע בין שני הרים גדולים אחוה דעתי שהעיקר כדברי הרמב\"ם דמן התלמוד אסורה לכהן מטעם גזירה שמא יראו דאשה גרושה היא זאת מדאסרינן לבעלה הראשון מחמת מחזיר גרושתו ועכשיו ניסת לכהן יאמרו גרושה מותרת לכהן וראי' ברורה לזה מדאמרינן ר\"פ האשה שהלך דמספק אם צריכה חלוצה לא תחלוץ ולא תנשא לאחר ואמרינן שם שהטעם שמא יתברר אח\"כ בעדים שהחליצה היתה בחנם ותהיה מותרת לכהן והעולם יטעו לומר שחלוצה מותרת לכהן ואע\"פ שנעשו כרוז שהחליצה היתה בחנם מ\"מ שמא לא ישמעו איזה אנשים הכרוז ויטעו להחזיר החלוצה לכהן והנה הדברים ק\"ו דמה התם שלפי האמת נתברר בעדים שבחנם חלצה חיישי' להתירה לכהן כ\"ש כאן שבאמת הגירושין מועילים שהרי אנו אוסרים אותו להראשון וסברו שגירושין גמורין אע\"פ שהיא קטנה מהני בה גירושין כמו שחששו באמת בנתגרשה בקטנותה מהראשון שפסולין מכהונה אע\"פ שהכל רואין שהיא קטנה מ\"מ חשו בה לכהונה והנה עכשיו אחר המיאון מן האחד נמי יאמרו כן ששם גירושין לא נעקר ממנה וראי' מדאסרינן אותה לבעלה האחר ואם היא תנש' לכהן יאמרו גרוש' מותרת לכהן כי לא ידעו לחלק בטעם ביניהם ע\"כ אין היתר לכהן אלא במיאון דהראשון אחר הגט דאז מותרת לחזור להא' וידעו אבל דנעקר ממנה שם גרושה כנלע\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 6:3"
+        },
+        "4": {
+          "he": "ואם אין קורין כו'  דהכי אמרי' בגמ' שלח לי' רב לשמואל יצא קול איש פלוני כהן כתב גט לאשתו ויושב' תחתיו מהו שלח ליה תצא והדב' צריך בדיקה פירש\"י תצא מפני הקול אבל הדבר צריך בדיקה קודם שנוציאה מאי הי אלימ' דאין מבטלינן קלא או לא והא נהרדעי אתר' דשמואל הוה ובנהרדע' (לא) מבטלינן קלא אלא דאי קרו לנתינה כתיבה כו' והרמב\"ם כ' כאן בסתם תצא ולא חילק בין קורין כו' ודבר זה הקשה ב\"י ותמה על המ\"מ שלא הרגיש בה ומו\"ח ז\"ל תירץ מה שתירץ והביא בשם חכם א' דרמב\"ם לא פירש דברי שמואל שאמר תצא כו' כפי' רש\"י דק\"ל דא\"כ הל\"ל איפכא הדבר צריך בדיקה ותצא דהא צריך בדיקה קודם שנוציאנה לפי' רש\"י א\"ו הפי' כמו בפ' התקבל (גיטין דף ס\"ו) דאמר שמואל תצא והדבר צריך תלמוד דפירושו תצא מספק מפני שצריך ללמוד אם הוא כשר או לאו ה\"נ קא' תצא מספק משום שצריך בדיקה אם קורין לנתינ' כו' וא\"א לעמוד ע\"ז וכן למאי דס\"ד דמקשן דצריך בדיקה אם נוהגין לבטל הקול אם לאו נמי ה\"ק תצא כיון שא\"א לעמוד עליו בבירורו היאך המנהג ופריך והא נהרדעי אתרא דשמואל ושם ברור הוא דמבטלין ע\"כ ונכונים הם עכ\"ל ול\"נ דאינם נכונים דמה שהביא ראיה מלשון תצא והדבר צריך תלמוד אשתמיטי' הא דאיתא עוד כהאי לישנ' פעם ג' דהיינו בפ' המגרש (גיטין דף פ\"ט) שלחו מבי רב לשמואל ילמדנו רבינו יצא עליה קול מראשון ובא א' וקדשה מהו שלח להו תצא והעמידו (הדבר) על בוריו פי' שיבדוק אחר הקול כו' ואמרי' אח\"כ לא מצאו הדבר על בוריו (מהו) אמר רב הונא מגרש ראשון ונושא שני כו' הרי לפניך דהך תצא אין פירושו דמכח ספק תצא עכ\"פ דהא מסקי' שם דאם לא מצאו בורי' של דבר דמותרת לשני אע\"כ דה\"ק תצא אלא דתחלה צריך לברר הדבר אם חייב שני לגרש או מותרת לו וא\"כ הך תצא אינו תצא עכ\"פ אלא אפשר שתצא וה\"נ ממש דכוותי' דבכאן והיינו כפירש\"י והיינו ממש ההי' דפ' התקבל ששם אמר תצא והדבר צריך תלמוד דמבואר בהדיא דה\"ק דעתי שתא אבל קודם שתצא צריך תלמוד אם תצא אם לא וכן פירש\"י בהדיא דאין הדבר ברור לדעתי וצריך אני ללמוד מן הגדולים עכ\"ל ותו דכיון שאמר צריך בדיקה משמע דאפשר בבדיקה ותו דמה שפירש לדעת המקשן כיון שיש ספק במנהג אם מבטלין תצא מספק וזה ודאי אינו דודאי אזלינן לקולא בספק דהקול אינו אלא חומרא דרבנן ואין איסור אלא במקום שאין מבטלין בבירור וכדי לתרץ דעת הרמב\"ם נ\"ל דהך מלתא דבדיקה (האיך) (צ\"ל הכי) פירוש' דבפ' המניח איתא ג\"כ חילוק בן קריאת כד או חביות לענין אם תלוי ברוב אנשי מקום או דוקא כולם והכא לא נתברר אי אזלינן בתר הרוב של המקום ע\"כ לא הביא הך בדיקה כלל ואזלינן לחומרא דבדיקה לא מהני כלל (דברי המגיה כ' ב\"ש בסק\"ח יצא קול פלוני כהן כו' דהאי כהן מיותר הוא עכ\"ל ול\"נ דאפשר אם יצא הקול בישראל חוששין אח\"כ לכהן דשמ' יאמרו גם נתן הישראל הגט ואח\"כ נשאה וכהרמב\"ם דלא מחלק בין קורין לכתיבה נתינה אם כן יאמרו כהן נשא גרושה אבל בכהן ליכא למיחש לכהן שני כיון דהיתה תחת הראשון בודאי לא נתן לה הגט אחר הכתיבה שהרי לא יצא הקול רק על הכתיבה ואין קורין לכתיבה נתינה וגם מקור מוצא דין זה הוא מגמ' ס\"פ הזורק ושם מיירי בהדיא מכאן ואפשר בישראל אין הדין כן דאף במקום שאין קורין לכתיבה נתינה אסורה אח\"כ לכהן מטעם שכתבנו דבכהן איכא תרתי לטיבותא דהרי היתה תחת הראשון וגם אין קורין לכתיבה נתינה אבל בישראל אינו אלא חדא לטיבותא דאין קורין לכתיבה נתינה חוששין כהרמב\"ם דלא מחלק בין קורין כו' ואם היינו רוצים לומר דמיות' הוא ובטעות הוא טפי היה לנו לומ' כן דברמב\"ם הוא בטעות מה שכתב כהן ולא הי' ק' מידי מה שהוקשו הפוסקים עליו למה לא מחלק בין קורין לכתיבה נתינה או לא דה\"מ לאוקמי דאיירי בישראל ואין שם חילוק הנ\"ל כמ\"ש עכד\"ה):",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 6:4"
+        },
+        "5": {
+          "he": "שנתקדשה ונתגרשה  בטור כ' ונתגרשה מיד ותמה ב\"י בפ' ב\"ה ל\"ל אך מיד ולכך לא כתבו כאן בש\"ע וי\"ל דמ\"ש הטור פירושו דקול הגירושין יצא ג\"כ מיד באותו השעה שיצא קול הקידושין כמש שאח\"כ אצל אמתלא אבל באמת הגירושין עצמן היו זמן רב אחר הקידושין וכ\"כ הר\"ן בשם הראב\"ד:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 6:5"
+        },
+        "6": {
+          "he": "לאוסר' לכהן  פי' אם מת הראשון שיצא הקול עליו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 6:6"
+        },
+        "7": {
+          "he": "ואם אח\"כ נתברר זה קאי אבל הקולות שיצאו אפי' בלא אמתלא:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 6:7"
+        },
+        "8": {
+          "he": "כהן שגירש כו'  דינים אלו נתבארו בדברינו סי' קי\"ח סעיף י\"ח ע\"ש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 6:8"
+        },
+        "9": {
+          "he": "לפיכך הנרבעת לבהמה כו'  עיין בתשובה ר\"מ מלובלין בענין ביאה של הרוח שקורין (טראכט) שאינו אוסר אשה על בעלה:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 6:9"
+        },
+        "10": {
+          "he": "וי\"א שהבא על חייבי עשה כו'  הקשה הב\"י ע\"ז מברייתא דקתני פסולה לכהונה יעיין סימן ז' דלק\"ם וכן יבמה כו' עשאה זונה פירש דקיימא לן כשמואל דאמר מספקא ליה אם לא תהיה אשת המת החוצה פירושו לא יהיה הויה של קידושין מילא הוה זונה או לא ע\"כ צריכה גט מספק וכמ\"ש בסי' י\"ח וא\"כ מש\"כ דהוה זונה פי' מצד החומרא נחשבה לזונה ובזה מתורץ קושיות ב\"י:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 6:10"
+        },
+        "11": {
+          "he": "שהרי הודית כו'  ואפילו אם נותנת אמתלא על מה שהודית דהיינו שלא אמרתי אלא שיגרשני בעלי אינה נאמנת כ\"כ המ\"מ:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 6:11"
+        },
+        "12": {
+          "he": "או אחר הקדושין וכ' ב\"י ואם קידש ובעל מיד נראה שאפילו אשת כהן מותרת דהא ודאי כיון דתחתיו לא נבעלה שרי' כו' ונראה דהה לבא עלה לאחר זמן ועדים מעידין שלא נפרשה מהם בכל אותו זמן בענין שאין לספק שנבעלה לאחר באותו זמן דאפילו אשת כהן שרי' עכ\"ל ונר' דהך בתרייתא מיירי שחשודה היא בעיניו והושיב לה בכוונה שומרים לעיד עליה משא\"כ בלא\"ה אלא שעדים מעידין עליה שלא נבעלה ודאי לא מהני עדותן דמלתא דלא רמיא עליה דאינשי לא דמי אנפשה ואפשר שטועים וסבורים כן דדוקא בשבויה מהני אפילו ע\"א שלא נטמאה כיון שנשבעית יש עליה איסור מסתמא ע\"כ אותו שמעיד ע\"ז הוא מתכוין לראיה ולהעיד ידיעה נאמנת משא\"כ בהך אשה דמי יודע שתצטרך לעדות אח\"כ וא\"כ אין כאן עדות נאמנת והראיה ממ\"ש הרא\"ם בתשובה כלל נ\"ט סימן א' ורמ\"א מביאו בח\"ה סימן כ\"ט דאותו שמעיד על שום דבר ואומר שפלוני היה עמו ואותו פלוני אומר שלא היה עמו אין זה הכחשה דאין עד מדקדק מי היה בשעת עדות ע\"כ וק\"ו כאן שאין אדם מדקדק לראות אחר אשה אם היא זונה או לאו א\"ו כדפרישית (הנה וקשה לי אף ביחוד עדים מתילה לא מהני לזה כדאיתא להדיא בגמרא (דף ו' פ\"ב) דיחדו לה פרחי כהונה ללוותה ואפ\"ה משני שם בגמ' כגון שנצרכה לנקבי' דאטו פרחי כהונה בכיפי תלי' וא\"כ א\"א להעיד ע\"ז ודוק: (כ\"ד הק' ארי' יהודה ליב) (דברי המגיה ואין זה אפילו ריח קושיא דהתם לא מיירי שייחדו לשמרה ולא רמי אנפשייהו לשמרה כשצריכה לנקבי' עכד\"ה):",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 6:12"
+        },
+        "13": {
+          "he": "אין חוששין לה הטעם שמא פריצתה הוא דחזו לה ששחקה בשוק עם גוי ועבד או מיעך לה בין דדיה ועיין מ\"ש סימן ד' סעיף ט\"ו:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 6:13"
+        },
+        "14": {
+          "he": "שחכמים עשו מעלה ביוחסין זו דעת הרמב\"ם ותמיה לי טובה דלפ\"ז החמירו אף אם אומרת לכשר נבעלתי משום מעלת יוחסין וא\"כ אמאי פרכינן בגמ' ומי בעינן תרי רובא והתניא ט' חניות כו' פי' דסגי בחד רוב ומשנינן דמעלה עשו ביוחסין ה\"ל להקשות טפי והא אילו חד רובא לא בעינן דקי\"ל כר\"ג להכשיר ואפילו ברוב פסולים אצלח ותו דגם לפי התרצן משמע דמעלת יוחסין צריך תרי רובא אבל בחד רובא בעינן עכ\"פ חד רובא כההיא ט' חנויות וזה אינו למאי דקי\"ל כר\"ג ואפילו ברוב פסולים אצלה בשלמא להר\"ן והטור שס\"ל באומרת לכשר נבעלתי א\"צ רוב כלל כר\"ג והך סוגיא דמעלה עשו ביוחסין מיירי שאינה אומרת כלל ואז צריך אפילו תרי רובי אתי שפי' אבל להרמב\"ם וכפי מה שפי' בו ב\"י קשה טובא וצ\"ע:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 6:14"
+        },
+        "15": {
+          "he": "וסתמא נמי כו'  זה דעת הטור דגורס כגי' שלנו ל\"צ דאזל' לגבייהו כו' פי' דבודאי אזל' לעיר אז הוה קבוע ואין אלא חד רובא דאנשי סיע' משמע מסתמא לא מחמרינן לומר שמא הלכה לשם אלא יש שם גם רוב העיר והטעם כיון דעכ\"פ יש חד בבירור ורוב השני הוא ספק לא גזרינן כאן משום רוב העיר גרידא כיון דברוב עיר נמי יש ספק ולא גזרו משום רוב עיר אלא משום רוב עיר (צ\"ל סיעה) שבודאי יש שם קבוע (דברי המגיה זה שהגיה במקום תיבת עיר צ\"ל סיע' לא יפה הגיה אלא הכי פרושו הא דאמרו דרוב א' לא מהני היינו אם רוב העיר או קבוע בודאי אבל בספק קבוע הוה כב' רובי וק\"ל עכד\"ה) והב\"י כ' דטעם הקול' משום דאין כאן חומרא אלא מחמת יוחסין וא\"צ לזה אלא אף לחומרא דיחסין מותר בזה כמ\"ש. כתב ב\"י בשם הר\"ן במקום שאם ניסת לכהן דלא תצא בדעבד וכן נמי נאמנת להכשיר העובר לפי שלא נחמירו בו כלל שאם היו מחמירין בו לבא בקהל לא היה בו תקנה ולפיכך דין הולד כדין האשה שניסת כו' עכ\"ל מבואר דכמו שלענין האשה עצמה שנאמנת לכהן בדעבד כן הדין בבתה לכתחילה להנשא לישראל אפילו לכתחילה ברוב פסולים לבא בקהל כיון דא\"א בע\"א אבל להנשא הבת שלה לכהן ודאי אסורה לכתחילה כמו אמה. כהן שבא על פנוי' וילדה בן והוא מודה כשר הבן לכהונה ולא מפסל בשביל שאין זרעו מיוחס אחריו ב\"י בשם תשובת הרא\"ש:",
+          "en": "",
+          "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer 6:15"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "כהן אסור.  עיין בתשובת חוט השני סימן י\"ז באיש אחד שהיה מוחזק לכהן ט\"ו שנה לכל דבר שבקדושה לישא כפיו (עבה\"ט לעיל סימן ג' סק\"א ומ\"ש שם) ולפתוח ראשון ולקרוא ראשון ולפרוש מטומאת מת ועתה קידש גרושה אחת והכחיש את כהונתו לומר כי מעולם לא היה כהן ומה שאמר שהוא כהן לא היה אלא בשביל ליטול גדולה לעצמו לפתוח ראשון ולקרוא ראשון וכתוב הדבר פשוט שאין הכהן יכול להכחיש מה שהיה מוחזק בו זמן רב שהרי אפי' חזקת שלשים יום הוא חזקה אפילו להיות הורגין (וכדלקמן סי' י\"ט ס\"ב) וכ\"ש חזקה של ט\"ו שנים ואין לומר הרי נתן אמתלא לדבריו שעשה כן כדי ליטול גדולה ואמרינן בפ\"ב דכתובות כו' (וכדלקמן סימן מ\"ז ס\"ד) זה אינו מכמה טעמים חדא שאין האמתלא מבוררת ועוד דכל דעשה מעשה ל\"מ אמתלא והכא עשה מעשה במה שעלה לדוכן וכיוצא ואפי' למ\"ד דמהני (ע' בי\"ד סימן קפ\"ה) היינו אם לא עשה המעשה רק זמן מועט וגם אם לא עשה המעשה כ\"כ בגלוי לעיני כל דכולי האי לא מחציף אינש נפשיה וגם אם לא עשה רק דבר אחד אבל בנ\"ד שעשה מעשים הרבה כ\"כ שנשא כפיו וחתם עצמו כהן ונהג בכל דיני כהן כמה פעמים פשיטא שאין מועיל אמתלא ועוד דכל היכא שעושה איסור לאו כל כמיני' לתת אמתלא דמוקמינן ליה בחזקת שלא עשה איסור עד עתה שנכנסה בו רוח שטות ועוד דחזקה זו של נשיאת כפים אלימא טפי שאין האמתלא מועלת בה ועוד נראה דכל מקום שאמרו חכמים דמהני אמתלא היינו כשאמתלא הוא לסלק את ההיזק אבל אם אמר שעשה כן לשם תועלת לא מהני אמתלא וטעמו של דבר הוא משום כל אמתלא הוא בטענת אונס כאילו אמר שלא עשה מתחלה כן אלא מפני האונס ואם האונס הוא מפני ההפסד חשוב אונס דאתי ליה מעלמא ואם הוא מפני שירא שמא לא יגיע לו התועלת שהוא מבקש הוי אונסא דאתיא ליה מנפשי' (עיין בתשובת ברית אברהם סי' צ\"ד אות ו' שפקפק עליו בזה ע\"ש) ובזה מרווח לן למה לא הזכירו חז\"ל שתועיל אמתלא גבי כל הני דשוי אנפשי' חד\"א) עמ\"ש לקמן סי' קט\"ו ס\"ו ס\"ק כ\"ט) ועוד דבזמן ארוך כ\"כ כזה אין סברא שתועיל אמתלא (עב\"ש לקמן סימן י\"ט ומ\"ש בפ\"ת שם) ואע\"פ שלא נתנו חכמים שיעור לדבר מ\"מ ענין האמתלא הוא לפי ראות חכמי ישראל ומכל הני טעמי אמינא שאין יכול להכחיש כהונתו וכופין אותו לגרשה כמו בכהן דעלמא. ואין חילוק בין זמן הזה לדורות הראשונים מהיה להם כתב יחוס ואדרבא כיון שכל הכהנים בזה\"ז הן בכהונתן מחמת חזקה א\"כ הכהן הזה הוא כמו שאר כהנים כו' ע\"ש ועמ\"ש לקמן סי' מ\"ז ס\"ד:  ועיין בתשובת מנחת עני סי' מ\"ח מכהן שעבר וקידש אשה פסולה לכהונה ואח\"כ גירשה אם צריך תשובה וכפרה על הקידושין מי אמרינן כיון דקיי\"ל כרבא בקידושין דף ע\"ח דאמר קידש אינו לוקה אין כאן איסור כלל או דילמא נהי דאינו לוקה איסורא מיהא עביד וצריך כפרה. וכתב דלכאורה יש ללמוד מדברי התוס' ב\"מ דף י' ע\"ב דעכ\"פ איסורא מיהא איכא. ושוב דחה זה דאין ראי' מדברי התוס' אלו והביא ראיה ברורה מסוגיא דסוטה דף מ\"ד דבקידש לחודא אפי' איסור דרבנן ליכא וא\"כ א\"צ כפרה ע\"ש ועייו בתוס' יבמות דף י' ע\"א בד\"ה לרבי יהודה מ\"ש שם דשמא אסור לקדש מדרבנן שמא יבעול ע\"ש ודו\"ק: (כעת מצאתי בס' ב\"מ לקמן סי' ט\"ו ס\"א שתופס בפשיטות דמ\"מ איסור דרבנן מיהא איכא ומייתי נמי דברי התוס' דיבמות הנ\"ל וכתב דא\"ל מסוטה מ\"ד דמוכח דמח\"ל אין בקדושין אפי' איסור דרבנן כו' די\"ל לר\"י הגלילי הברייתא לא נאמרה לדינא אלא לפרש הקרא של ולא לקחה מקמי דאסרו חכמים הקדושין עכ\"ל ע\"ש)",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:1"
+        },
+        "2": {
+          "he": "מה\"ת בגרושה.  עיין בתשובת רד\"בז ח\"ב סי' תס\"א על כהן שרצה לישא גרושה ואמרו קרובי האשה שאין האשה עוברת על לאו זה. והשיב מה זו שאלה כל העונשין האיש והאשה שוין בהן וכמו שהוא עובר כן הנשאת לו ג\"כ עוברת כו' ע\"ש. ועיין בס' בר\"י שתמה עליו דביבמות דף פ\"ד ע\"ב מבואר דמהא ליכא למגמר רק יליף לה התם מלא יקחו יתירא ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:2"
+        },
+        "3": {
+          "he": "בחלוצה מדרבנן.  עבה\"ט מ\"ש דבתשובת כנ\"י חולק על שבו\"י ועיין בתשובת זכרון יוסף סי' ג' שחולק ג\"כ ע\"ש וכן דעת הרב בר\"י אות ג' ועמ\"ש מזה בפ\"ת לי\"ד סימן שכ\"ב סק\"ג:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:3"
+        },
+        "4": {
+          "he": "ספק חלוצה א\"צ להוציא.  עיין בתשובת אא\"ז פנים מאירות ח\"ג סי' ו' ובס' ישועות יעקב מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:4"
+        },
+        "5": {
+          "he": "צריך להוציא.  עבה\"ט ומ\"ש בשם הר\"י הלוי נשא ספק שבוי' א\"צ להוציא. עיין בס' שעה\"מ פי\"ט מהא\"ב דין כ\"ג שכ' עליו לכאורה הדין עמו כיון דס\"ס הוא הו\"ל כאלמנת עיסה שכתב הרמב\"ם (ובש\"ע לעיל סימן ב' ס\"ה) דאם נשאת לא תצא מפני שהם ב' ספיקות אך באמת ז\"א דהא כתב האו\"ה הביאו הפר\"ח בכללי ס\"ס אות יו\"ד (עש\"ך שם אות י\"ח) דגבינות של ישראל שהיו בבית הכותי וספק אם נחלפו לא מקרי ס\"ס דמאחר שאסרו חכמים גבינות הכותים מחמת אותו ספק הרי הוא כודאי איסור וצריך ב' ספיקות מלבד הספק הראשון שאסרו חכמים והא דאיסור דרבנן ניתר בספק אחד היינו דוקא בדבר שעיקר איסורו מדרבנן משום גזירה כו' וה\"נ דכוותא דמאחר שאסרו חכמים שבוי' מחמת ספק נטמאה חשיב כודאי איסור ואינו ניתר לא מטעם ס\"ס ולא מטעם ספק דרבנן ומצאתי ראיה שאין עליה תשובה מהא דגרסינן פ' האומר דף ס\"ו גבי ההיא דינאי כו' עכ\"ד ע\"ש וע' בב\"ש לעיל סימן ב' ס\"ק י\"ד ועמ\"ש לקמן סי' ז' ס\"א סק\"ב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:5"
+        },
+        "6": {
+          "he": "ורשאי הכהן לכתחלה עיין בתשובת ברית אברהם סימן ק\"ט שהאריך בזה בפלפול עצום וגם במה שהביא שס מתשובת מהרי\"ט ח\"א סימן נ' ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:6"
+        },
+        "7": {
+          "he": "לאדם שהיא אסורה עב\"ש סוס\"ק ט\"ז מה שתמה על הרמב\"ם ועיין בת' נו\"ב תניינא סימן ג' מ\"ש בזה. (ועיין בתשובת חתם סופר סי' צ\"ג אודות אלמנה אחת מהפורשים מדרכי ישראל לחלל שבת בפרהסיא ולא חסר לו כלום אלא שלא נטמע בין הישמעאלים ונשתדכה אלמנתו לכהן ונסתפק הרב השואל אי שריא ליה דאולי בעילת עוזב דת פוסל לכהונה כאשר נסתפק בזה בס' אבני מלואים סימן ז' ס\"ק י\"ג והניח בצ\"ע אם להתירה לכהן ואולי עכ\"פ יש לאסור מדרבנן והוא ז\"ל האריך בזה ומסיק לדינא דשריא לכהונה ע\"ש):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:7"
+        },
+        "8": {
+          "he": "ולבהמה עבה\"ט בשם מהר\"ם לובלין ועיין בר\"י שכ' דיש קצת סמך לזה מירושלמי פ\"ק דשבת הלכה ג' אתא חדא רוחא כו' אמרה ליה לא תצוק רוחא אנא ע\"ש",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:8"
+        },
+        "9": {
+          "he": "אבל הנבעלת לאחד מאיסורי לאוין.  עיין בס' שעה\"מ פ\"י מהל' אישות בקונ' חופת חתנים ס\"ה (לאחר שהאריך שם בענין אי חופה חשיבא כבעולה ממש לכל דבר ויובא קצת לקמן סימן מ\"ו ס\"ה סק\"ד) כתב וז\"ל ומכלל האמור נראה דלענין פסול זונה דקי\"ל אם נבעלה לפסול לה נפסלה לכהונה ה\"ה אם נכנסה לחופה ולא נבעלה נמי נפסלה לכהונה שהרי ביבמות דף ס\"ט פריך ואימא משעת הויה ומשני דומיא דכ\"ג באלמנה מה ב\"ג בביאה כו' וא\"כ כי היכא דכ\"ג באלמנה חופה פוסלת (כמבואר במשנה יבמות דף נ\"ו וע\"ל סימן ז' סי\"ב ומ\"ש שם ס\"ק כ\"ב) ה\"נ בנכנסה לחופה לא' מן הפסולים ואף שהרמב\"ם והטור לא הזכירו אלא נבעלה גם לא ראיתי לשום אחד מהמחברים ז\"ל שכתבו כן מ\"מ נראה שהדין דין אמת כמו שכתבתי ועיין בב\"ש סימן ז' ס\"ק ל\"ו ודוק עכ\"ל (ומה שנרשם שם ע\"ז הגהת טעם המלך וכתב שם וז\"ל לולי אי הרב ז\"ל לא הוי רב גובריי כו' הייתי צועק ככרוכיא וכי יעלה על דעת לומר דדבר דבביאה תליא תהיה נפסלת ונעשית חללה בחופה לחוד כו' ע\"ש נלע\"ד דהגהה זו אין כאן מקומה ושייך על דף הקודם שם במ\"ש דלהתוס' חופה חשיבא כביאה ממש מדאורייתא אפי' לענין חללה כו' וקאי התם אפי' בדאיכא עדים שלא נבעלה ע\"ז שייך הגהה זו עש\"ה ודו\"ק)",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:9"
+        },
+        "10": {
+          "he": "וכן יבמה עיין בס' שעה\"מ פי\"ח מהא\"ב דין ג' מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:10"
+        },
+        "11": {
+          "he": "שנאנסה.  עבה\"ט מ\"ש כל שתחילת ביאה באונס כו' ועיין בתשובת נו\"ב תניינא סי' ק\"נ שהביא דברי הרש\"ל בפ' הבע\"י סימן ג' שכ' דגם האשה אם עושה מעשה בסוף ביאה היינו שמהדקת עצמה לא אמרינן יצר אלבשה והוא ז\"ל כתב עליו שדינו תמוה בעיניו דמה בכך שהיא עושה מעשה כיון שיצר אלבשה ויצר אנסה גם המעשה היא באונס כו' ע\"ש.  ועיין בנו\"ב תניינא ס\"ס כ\"א שכ' וז\"ל ומה שנסתפקת איך שייך להאמינה שנאנסה כיון שנבעלה בעיר ולמה לא צעקה. הנה אומר לך כלל גדול בזה היכא שעדים רואים מרחוק שהיא נבעלת ואינם יכולים להשיג בשכלם אם היא מתרצית או באונס ועכ\"פ רואים שהיא אינה מתלחמת נגדו אז אעפ\"כ בשדה אנו אומרים שהיתה באונס והא דלא נתלחמה נגדו לפי שהרגישה בחלושת כחה שאין בכחה להלחם ומתיראית שיהרגנה ולזעוק אין כאן שייכות שהרי היא בשדה אבל בעיר בודאי נתרצתה מדלא עמדה לנגדו בכל כחה שלא להניחו לבעול ואין מלמד זכות שידעה שהיא חלושה ולא תועיל במלחמתה דא\"כ היה לה לזעוק אל אחרים שיושיעו לה אבל במקום שהיא אומרת שהיתה מתגברת נגדו בכל כחה מתחלה ועד סוף אף שהיה בעיר ולא צעקה אין ראיה שהיתה מפותה דמה שלא צעקה הוא מפני שהיתה סבורה שאינה צריכה תשועת אחרים שבטחה בכחה ואף שעל סוף ביאה אין זו אמתלא כיון שראתה שהוא גבר אלים ובא עליה היה לה לזעוק מ\"מ אין זה מועיל לאסרה שאפי' אם נתרצית ממש הרי תחילתה באונס וסופה ברצון מותרת לבעלה ישראל דזה נחשב אונס ולכן אם האשה הזאת (בנדון דידיה) אומרת בברי שנתלחמה נגדו עד הכנסת האבר והיתה סבורה שיהיה בכחה למנעו עד שהכניס היא מותרת לבעלה ואינו מגרע מה שלא צעקה. ושוב מצאתי כן בפי' הרמב\"ן על התורה פ' תצא ע\"ש. וגם בס\"ס י\"א שם כתב כן בקצרה ע\"ש (עיין בנ\"צ מ\"ש בזה) . אכן בתשובת מהר\"ם אלשקר סימן צ\"ד לא כתב כן. וקרוב לומר דהנו\"ב כתב כל הנ\"ל משום דלא שמיעא ליה דברי מהר\"ם אלשקר (שהרי ספרו לא היה בידו כמו שכתב הוא בעצמו בסי' ט\"ו) אבל אולי שמיע' ליה הוה מקבל דשם הביא מדברי כמה ראשונים ז\"ל שכתבו להדיא דהנבעלת בעיר אין סומכין על דבריה שהיא אנוסה עד שתביא ראי' שנאנסה כגון שראו אותו ששלף חרב עליה או שסתם את פיה שלא תוכל לזעוק ע\"ש. ועיין בזה בתשובת ח\"צ סי' קמ\"ה וקמ\"ו ובתשובת אא\"ז פמ\"א ח\"ג סימן כ\"ב ובתשובת חמדת שלמה סימן סמ\"ך:  ומ\"ש הבה\"ט בשם שבו\"י אשה שהצילה את בעלה כו' עיין בס' בית מאיר לקמן סימן קע\"ח ס\"ג העתיק משמו דאפילו עשתה להצלת עצמה מיראתה פן יהרגנה נמי אסרה (היינו היכא שהאנס לא תבעה כלל רק רצה להורגה והיא שידלתו כדי שתנצל) . ומ\"ש הבה\"ט משמו דאם האונס הוא על הבעילה כו' כתב בס' בית מאיר שם דר\"ל לא מבעיא שתקפה ובא עליה דזה פשיטא אלא אפי' דומיא דאסתר תחילה שהיתה באונס דהיינו שלא היתה מתרצית עד שתבעה אחשורוש שהיה לה אימת מלכות והיתה אנוסה על הביאה ממש ושריא לבעלה מרדכי וע\"ש עוד. ועמ\"ש בפ\"ת ליו\"ד סימן קנ\"ז סק\"ב ודוק:  ועיין בתשובת נו\"ב תניינא חי\"ד סימן קס\"א אחר שהביא שם דברי מהרי\"ק המובא בב\"ש סימן קמ\"ח סק\"ד כתב וז\"ל ומ\"מ גוף דין זה שיהיה מותר לא\"א לזנות ברצון כדי להציל נפשות אינו תורה ולא ישר בעיני מה שראיתי באיזה תשובה וכדומה שהיא ת' בית יעקב באנשים ונשים שהלכו בדרך כו' ופסק בתשובה ההיא ששפיר עבדה ומצוה רבה עבדה ששדלתו לזה להציל נפשות רק שאעפ\"כ נאסרה על בעלה והביא ראיה מאסתר ואני אומר כשם שאין מתרפאין בגילוי עריות כך אין מצילין בה נפשות כו' ואסתר שאני שהיה להצלת כלל ישראל והיה בהוראת מרדכי ובית דינו ואולי ברוח הקודש ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:11"
+        },
+        "12": {
+          "he": "כחתיכה דאיסורא.  עבה\"ט מ\"ש ואם נותנת אמתלא כו' עד אף המגיד מודה דמהני. ובב\"ש כתב עוד וז\"ל ואפשר לדייק מראב\"ד שכ' דין זה באשת כהן דמהני אמתל' ולא באשת ישראל בפכ\"ד מהל' אישות דס\"ל דלא מהני מדהפסידה הכתובה לפי דבריו הראשונים כמ\"ש בסי' קט\"ו עכ\"ל ועיין בתשובת נו\"ב סימן ח' וסימן י\"א שכ' דאין ראית הב\"ש מכרעת כלל ואעפ\"כ דינו אמת ולא מטעם הוכחתו מ\"ש באורך. והנה בגוף סברת הנו\"ב שם דהיכא שנוגע לאיסיר ולממון אחר שיצאה מב\"ד כיון שאינו מועיל אמתלא לממון גם לאיסור לא מהני וכתב דכבר ביאר בתשובה אחרת ראיה לסברא זו מדברי הרא\"ה ע\"ש הנה התשובה אחרת הלא היא בספרו סימן סמ\"ך (ויובא לקמן סי' מ\"ז ס\"ד סק\"ג) וכפי הנראה שם תופס יותר לעיקר פירוש האחרון בדברי הרא\"ה (שהובא בהגהת רמ\"א ס\"ס מ\"ז באמרה נתקדשתי לפלוני ל\"מ אמתלא) דקאי על האמתל' שאמרו בגמרא שקפצו עליה אנשים שאינם מהוגנים ולכן ל\"מ באמרה לפלוני משום דנגד זכותו שהודית לית לה אמתלא אבל היכא שהאמתלא הוא גם על זכותו מודה הרא\"ה. וקצת נראה שגם דברי הב\"ש כאן שכ' דבאשת ישראל ל\"מ אמתלא. קאי ג\"כ על אמתלא שהזכיר הראב\"ד וכיון שאינה טובה כ\"כ שהרי הה\"מ פקפק עלה ל\"מ היכא דהפסידה כתובתה דכולי האי לא עבדה אבל באמתלא אחרת טובה שכדאי היה לה גם להפסיד הכתובה אפשר דמהני. ובזה א\"ש שלא יהיו דברי הב\"ש סותרים זא\"ז ממ\"ש כאן למ\"ש בסי' קט\"ו ס\"ק ל\"א ע\"ש ודו\"ק:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:12"
+        },
+        "13": {
+          "he": "שקינא לה בעלה.  כ' בר\"י דוקא קינוי הראוי אבל אם קינא לה דרך אברים נעשה כאומר איני חושדך אלא דרך אברים ואף אם נסתרה אינה אסורה וכמ\"ש רבינו ירוחם נתיב כ\"ג ח\"ב והרב משנה למלך סוף הלכות סוטה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:13"
+        },
+        "14": {
+          "he": "או ב\"ד וכמ\"ש לקמן סי' קע\"ח סי\"ג ועמ\"ש הה\"מ פי\"ח מהא\"ב:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:14"
+        },
+        "15": {
+          "he": "שם מזנה (עיין בתשובת חתם סופר סי' ח' ע\"ד ישראל שדר בין האומות יחידי ובתו נתקשרה בשידוכין לכהן א' ויצא קול שהרתה לזנות ושילדה והיא ואבותיה מכחישים ואומרים שמחמת חולי נתעכב וסתה איזה חדשים ועי\"ז הוציאה ערלית א' שם רע הנ\"ל ומעולם לא זנתה ועתה הגיע תור נישואין לכהן ונשאל אי מותרת לו והאריך שם בענין קושיית האחרונים שדין דהכא סותר למ\"ש לעיל סי' ד' סעיף ט\"ו ומסיק דודאי דברי הב\"ח נכונים דהתם בא\"א והכא מיירי בפנויה ודברי הב\"ש סי' ד' שם תמוהים כו' והחילוק שמחלקים הח\"מ וב\"ש דרינון הוה טפי מקול לפע\"ד נתנו דבריהם לשיעורין ומי ישער זה. והשתא בנ\"ד אע\"ג דבפנויה היא ואי יצא שם מזנה היינו תולין בפריצות בעלמ' ולא היינו חוששין אי היה רינון או קול דלא כח\"מ וב\"ש הנ\"ל מ\"מ היינו ביצא קול שזינתה אך הכא שהקול היא שנתעברה וילדה א\"א לפרש בפריצותא ומש\"ה אי היה קול שנתחזק בב\"ד היה ברור שאסור' לכהן ובפרט לכתחלה ואע\"ג די\"ל ספק הקול אמת ספק שקר ואת\"ל אמת דילמא מהכשרים לכהונה הכא בדרה בכפר של אה\"ע ואפילו ישנים בבית אביה ג\"כ יהודי' שאינם באיסור ערוה לה וה\"ל קבוע כמע\"מ מ\"מ הא כתב הטור דמסתמא הולך הבועל אצלה ומרובא פריש ומכ\"ש הכא שאינה נבדקת לומר לכשר נבעלתי כו' אך הכא ראוי לב\"ד לחקור אם אמת הוא שקול הלידה יצא ע\"י ערלית א' ואז מותרת להנשא אפי' לכתחלה דאפי' לפרש\"י דדומה לא יקח אא\"כ א\"א לו בענין אחר ולרש\"י אפשר דדומה הוא דיימא בעלמא בלי שום התחזקת קול מ\"מ הכא שכבר נתקשרה בשידוכין וקנסות וגדולה בושה הוה כמו א\"א בענין אחר מ\"מ נ\"ל דצריך להזהיר את הכהן באיום גדול שאם ימצא פ\"פ יוציא דלפע\"ד פ\"פ ע\"י לידה אפי' פנוי בקי ולהודיע גם לה שתחוש לעצמה אם נפשה יודעת דלא מטוהרה ומה טוב להטיל חרם סתם בפני אבותיה על מי שמכשיל הכהן הזה כו' עכ\"ד ע\"ש עוד בסי' כ\"ב):   (טו) שראוה שנבעלה.  עב\"ש באמצע ס\"ק ל\"א שכ' וז\"ל גם נראה כשידוע שזנתה עם כשר אלא דיש חשש שמא זנתה עם אחרים ג\"כ כמ\"ש בסי' ד' ואיכא חד רוב כשרים מותרת לכהן כו' ועיין בתשו' נו\"ב תניינא ס\"ס כ\"ז שהעתיק מ\"ש בגליון הב\"ש שלו וז\"ל ולי נראה דבזה אפילו ליכא רובא כלל גם כן מותרת דממה שהחמיר הרמב\"ם לענין יבום (לקמן סי' קנ\"ו ס\"ט) אין ראיה דכאן איכא ס\"ס שמא לא נבעלה לאחר כלל ואת\"ל שנבעלה שמא גם האחר שבעל' כשר היה ואמנם ממה שמבואר בסי' ד' סכ\"ו שאפי' מודה אותו פלוני כו' והרי גם שם יש ס\"ס שמא לא נבעלה לאחר כלל ואת\"ל שנבעלה שמא גם האחר ממזר הוא ואפ\"ה אין הולד אלא ספק ממזר היה קצת ראיה דלא מהני ס\"ס ונראה דשאני ס\"ס להכשיר דמסייע ליה חזקה דאשה בודקת ומזנ' ועוד דשם הולד אין לו חזקת ממזרות אבל הכא האשה יש לה חזקת כשרות לכהונה ואולי דגם הב\"ש דבעי עכ\"פ חד רובא היינו להכשיר גם את בתה עכ\"ל. ושם בסי' כ\"ח העתיק ג\"כ זה בתוספת ביאור קצת ע\"ש ובס\"ס כ\"ט. וכ' עוד ואמנם כל זה אם יש עדים על הבעילה כו' (יובא לקמן ס\"ק שאח\"ז) . ועיין בס' קהלת יעקב מהגאון מליסא שגם הוא ז\"ל השיג על הב\"ש בזה (ואיהו מיקל טפי מהנו\"ב הנ\"ל דגם ברוב פסולים מותרת) וכתב וז\"ל מדברי הב\"ש משמע דבר\"פ פסולה אף דידוע שזינתה עם כשר והא ודאי א\"א לומר דבהדיא תנן במשנה דאף לר\"י דמחמיר ופוסל מ\"מ קאמר עד שתביא ראיה לדבריה מוכח בהדיא דכשמביאה ראיה שפלוני שנבעלה לו כשר היה אף לר\"י כשר וכ\"כ בס' הפלאה וזה פשוט מאד ועוד דהא על ביאה אחרת איכא ס\"ס גמור שמא לא נבעלה ושמא נכשר ואיכא ברי וס\"ס כו' (גם בתשו' רבינו עקיבא איגר סי' פ\"ה האריך בזה ודעתו גם כן דאפילו ברוב פסולים מותרת עש\"ב):  וכתב עוד ולפ\"ז נראה אם הבועל מוד' שממנו נתעברה והוא כהן שיכול לישא אותה אפי' בר\"פ דהא הודעת הבועל מהני כדמוכח בסי' ד' סכ\"ו שכתוב הטעם גבי הודעת הבועל שמ\"מ הולד ספק רק מטעם מדאפקרה אלמא דהודעת הבועל מהני והוי כידוע שנבעלה ממנו וכיון שהוא כשר ול\"ח לבעילות יותר כשר' לכהונה וכ\"כ בס' הפלאה דף נ\"ג ובת\"י דלא חיישינן להא דאפקר'. ודלא כת' כנ\"י סי' נ\"ו שאוסר מטעם מדאפקרה ומביא ראיה מהרמב\"ם גבי יבום וז\"א ראיה כו'. וכתב עוד אמנם בס' הפלאה כ' דאף דלענין להנשא לכהן אחר מהני הודאת הבועל אבל להנשא לכהן עצמו שמעיד שממנו נתעברה או בא עליה אינו נאמן כמו גבי שבויה דמעיד בה לא ישאנה ולי נראה דשאני שבויה דבלא הודאת הבועל היה הדין אפי' בנשאת תצא ע\"כ לא מהני הודעת העד לענין להנשא לו מחמת שנחשד שהעיד בשקר ויהיה כל ימיו באיסור אבל הכא אפי' בלא הודאת העד היה הדין אם נשאת לא תצא דאיכא ברי וחזקה רק חומרא בעלמא לכתחילה לא תנשא לכהן ודאי מהני הודאת הבועל וגדולה מזו מצינו דמהני הודאת הבועל לענין מעוברת חבירו אף דשם חמירא דאפי' אם נשאת תצא מכ\"ש כאן דאם הבועל מודה דמהני הדאתו אף להנשא לו אם הוא כהן עכ\"ד ע\"ש. והנ' דעת הגאון בעל נו\"ב בכמה תשובות אינו כן אך דעת הגאון רבינו עקיבא איגר ז\"ל כדעת קהלת יעקב הנ\"ל. ודברי שניהם יובא בס\"ק שאח\"ז באריכות. עוד כתב הב\"ש דלתירוץ ב' של תוס' שכתבו דבעינן תרי רובי ומיגו ש\"מ דכשנאנסה וליכא מיגו אסורה לכתחיל' אפי' איכא תרי רובי וע' בס' קהלת יעקב שם שכ' עליו לא ידעתי שום הוכחה מדברי התוס' ואי אפשר לומר כן כלל ע\"ש (ועי' בזה בס' ב\"מ ובתשו' חתם סופר סי' ט' וי\"ח):  עוד כתב הב\"ש וז\"ל גם איירי כל זאת להכשיר אותה אבל להכשיר הולד הוי כדיעבד לכן אפי' ברוב פסולים נאמנת להכשיר כו' וכשהולד כשר לקהל כשר ג\"כ לכהן וא\"א לחלק ביניהם כגון אפי' ברוב ממזרים והיא אומרת לכשר נבעלתי כשר הולד אפי' לכהונה. מיהו אם היא גרושה אז שייך בולד ג\"כ תחילה ודיעבד כי שמא כהן בא עליה והולד חלל עכ\"ל. ועיין בתשו' רבינו עקיבא איגר סי' צ\"א בעובדא בפנויה שהרתה לזנונים ונשאת לאיש וילדה בת ובעלה היה מחזיק אותו לבתו בכל עניינים וכשגדלה שדכו אותה לכהן ונשאל אם מותרת לכהן. והשיב דהיינו דברי הב\"ש שכ' כשהולד כשר לקהל כשר גם לכהן וא\"א לחלק ביניהם. וכתב דלכאורה טעמו בזה דאם באת להחמיר שלא להאמין לדבריה ממילא תצטרך לפסלה מקהל כדין שתוקי שלא נבדקה האם וזה הוי דיעבד. אף דאפשר דאסורה לכהונה וכשיר' לקהל כגון דזינתה עם ערבי מ\"מ לא פלגינן דבור' להאמינה לחצאין ומה דהיא לא תנשא לכהן ולא אמרינן כיון דמאמינים לדבריה לגבי בתה ממילא גם היא כשרה לכהונ' צ\"ל דלגבי תרי גופי פלגינן דבורה. אמנם לפ\"ז יקשה מ\"ש הב\"ש עוד מיהו אם היא גרושה שייך בולד ג\"כ תחיל' ודיעבד כי שמא כהן בא עליה. ונימא ג\"כ דלא פלגינן כו'. ולזה נראה דכוונת הב\"ש כך דלגבי חשש נכרי י\"ל דבתה תנשא לכתחלה כיון דמדינא מועיל ברי דידה לגבי הבת אלא דלכתחלה לא תעביד עובדא. בזה כיון דבלא\"ה הרבה פוסקים ס\"ל דערבי הבא עב\"י אין הולד פגום לכהונה כדמשמע מסתימת הרמב\"ם גם הרמב\"ן במלחמות כתב דאם נישאת לכהן לא תצא וכ\"כ הב\"ש סי' ד' סק\"ב להלכה ואף להפוסקים דסברי דהולד פגום לכהונה י\"ל דהוא רק דרבנן כו' בזה י\"ל דאף לכתחיל' עבדינן עובדא. אבל בגרושה דהוי לכהונה חשש דאורייתא דשמא נבעל' לכהן מש\"ה גבי ולד נמי מחלקינן בין לכתחלה לדיעבד כו' ומסיק וז\"ל היוצא לנו מזה דבנ\"ד לדע' הב\"ש מהני ברי דהאם לחוד להכשיר הבת לכתחיל' והכי משמע מדברי הברטנורא ספ\"ק דכתובות וזהו דעת השואל בשו\"ת רמ\"א סי' כ\"ד אלא דמ\"מ אחרי דהרמ\"א השיב שם לחומרא מאן ספין ומאן רקיע להקל. אך בנ\"ד דהוה אומר ברי ג\"כ דמיניה הוא ובז' י\"ל דאף ר\"י מתיר כדאמרינן חדא דהא קמוד' בזה יש לסמוך להקל אפילו לכתחילה עכ\"ל:  וע\"ש עוד שכ' דמ\"ש הב\"ש מיהו אם היא גרושה שייך בולד ג\"כ תחילה ודיעבד כו' דבריו תמוהים דמשמע דאם נישאת לא תצא וצ\"ע טובא דהא מה דמקילין דמאן דמכשיר בה מכשיר בבתה היינו דחזקת האם מהני לבתה וזהו שייך אם הנ\"מ גם על האם משא\"כ בגרושה כו' ואולי י\"ל דס\"ל כי היכא דברי וחזקת כשרות מהני ה\"נ ברי ורוב כשירים ולגבי ממזרים וכהנים הוי רובא כשרים ומצד נכרי כיון דבתה פגום רק מדרבנן מהני הברי לחוד. ואך עדיין קשה מלישנא והב\"ש משמע דאפילו ברוב ממזרים הדין כן ובזה לכאורה גם בדיעבד תצא כיון דליכ' חזקת כשרות דמסייע וצ\"ע לדינא עכ\"ד ע\"ש וע' בס' ב\"מ מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:15"
+        },
+        "16": {
+          "he": "ראוה מעוברת.  עי' בתשו' נו\"ב תניינא סי' כ\"ח שנשאל אודות בתולה שזינתה והרתה לזנונים ואמרה מאיש פלוני הכהן וגם הוא הודה לדבריה רק שאמר שהיתה דיימא גם מפלוני שראה שנוהגת פריצות וחבה יתירה עמו וגם אותו פ' כשר הוא אצלה אבל הוא מסופק אם לא זינתה ג\"כ עם א' מבני ביתה הפסולים לה ועתה נתקשר הכהן עמה בתנאים לישא אותה באופן אם היא מותרת לו. ונסתפק הרב השואל אם יש לחוש לכהונה אף ששניהם מודים כמו שאינו מועיל לפטור מיבום לדעת הרמב\"ם (הובא לקמן סי' קנ\"ו ס\"פ) או דילמ' שאני יבום שאין לה חזקה להיתר משא\"כ לכהונה יש לה ח\"כ ומדברי הב\"ש ס\"ק ל\"א משמע דאין חילוק. והוא ז\"ל השיב לו מה דחזינ' דמספק' ליה אליב' דהרמב\"ם ולדידי להפוך הוא דאפי' לדברי הרא\"ש דמיקל לענין יבום כאן מודה דלא מהני הודאתו שהרי אין הכהן נאמן להעיד על השבויה שהיא טהורה כדי שישאנה דחיישי' שמא עיניו נתן בה כמבואר בכתובות ל\"ו ובש\"ע סי' ז' ס\"ג וא\"כ למה יהיה כאן נאמן כיון שרוצה לישאנה. ואם היה מודה שבא עליה והיתה רוצה להנשא לכהן אחר היה מקום לפלפל אם זה תלוי במחלוקת הרא\"ש והרמב\"ם וכבר כתבתי בתשובה אחרת (הוא בסי' ל\"ג יובא לקמן סי' קנ\"ו ס\"ט ס\"ק ס\"ג שאף הרא\"ש אינו מאמינו לענין יבום אלא במודה שבא על הפנויה ואינו נושאה כו' וא\"כ ק\"ו כאן. ואין לומר כשם דבשבויה אם פדאה ומעיד בה ישאנה דלא שדי זוזי בכדי ה\"נ כיון שאומר על עצמו שבא על נדה שהרי כל פנויה בזמנינו נדות הם אי לאו שאמת אמר לא היה משים עצמו רשע אני אומר אדרב' משום זה ראוי שלא להאמינו דאין אדם מע\"ר ושקר הוא אומר כו' ועפ\"ז נראה דמ\"ש הב\"ש ס\"ק ל\"א דבכה\"ג מודה הרמב\"ם דסגי בחד רוב' היינו שם דמיירי בידוע שנבעלה לכשר ומיירי שידוע ע\"פ עדים או ע\"פ הבועל ואינו כהן אבל כאן שאין אנו יודעים רק מפיה ומפי הבועל שהוא כהן והוא עצמו רוצה ליש' אותה דיבור' דידיה אינו מועיל מאומה אפי' להרא\"ש וא\"כ דינה של ריבה זו תלי' בכל הני פלוגת' שבס\"ס ו' ואמנם לפי מה שהזכיר הרב השואל שרוב בני ביתה כשרים אצלה וגם רוב הבאים לביתה ארחי ופרחי הם כשרים אצלה א\"כ אפשר דהוי כתרי רובי (עיין בתשובת חתם סופר סי' י\"ח שכ' דמ\"ש בנו\"ב תניינ' סי' כ\"ח דבית מיוחד ליהודים הוי כעיר בפ\"ע אע\"ג שנראה דבר חידוש מ\"מ כן הוא בפר\"ח יו\"ד סי' ס\"ג כו' ע\"ש עוד) . אלא דאכתי כיון שיש בביתה בני בית הפסולים לה א\"כ קבוע כמחצה ע\"מ דמי ותלי' בפלוגת' שבין הרמב\"ם והטור שהוב' בש\"ע ס\"ס ו' אי חיישי' דלמ' אזל' איהי לגביה ועוד כי לפי הנראה בני ביתה הפסולים אצלה היינו קרובים וא\"כ ח\"כ הם ויש כאן ס\"ס להחמיר שמא לקרובים נבעלה והיא פסולה והעובר ממזר ואת\"ל לא נבעלה לקרובים שמא לערבי נבעלה והולד כשר והיא פסולה (ע' בתשו' ברית אברהם סי' ט\"ו אות ד' בנדון דידיה שלא נמצ' לה פרוצה בעירה שום קרוב הפסול לה רק אביה לבד וכתב דבזה לא הוי ס\"ס להחמיר כיון דקיי\"ל דמותרת להתיחד עמו כדאי' ר\"ס כ\"ב לא נכנס כלל לספק דאין יצרו תקפו כלל והגם דבנ\"י ס\"פ אלמנה לכה\"ג הזכיר בתוך הפסולים אביה ואחיה מ\"מ בנ\"ד כיון שאביה הוא מוחזק בכשרות עכ\"פ הוא דבר שאינו מצוי ולא נכנס לספק ואפשר דהנ\"י אגב שיטפא נקט אביה. וגם י\"ל כיון שאביה בפנינו מהימן ע\"ז שאין העובר ממנו לסלק מהעובר חשש ספק ממזר וא\"כ תו ליכ' ס\"ס להחמיר לגבי דידה ע\"ש): ואמנם ראיתי במכתבו דלפעמים שכבה שם גם בחולה אחת משרתת היודעת מגוף המעשה הנה אם המשרתת תעיד שיודעת בודאי שנבעלה להכהן נאמנת כי עד א' הנאמן באיסורין היכ' דלא איתחזק איסור' אין חילוק בין עד כשר או אשה וא\"כ שוב הוי כמו שמיירי הב\"ש שידוע בודאי שזה בא עליה ובזה שפיר איכ' למימר דלא חיישי' שמא גם אחר בא עליה אפי' להרמב\"ם ואף דהב\"ש כתב שחוששין (ובעי' עכ\"פ חד רובא) כבר כתבתי בגליון הב\"ש דלי נראה דבזה אפי' ליכא חד רובא ג\"כ מותרת כו' (הובא בס\"ק הקודם) וא\"כ גם כאן אם המשרתת תעיד כנ\"ל יש להתירה לכהן הזה. וכל זה לענין היתר נישואין אבל העובר הזה לכשיולד ויהיה זכר אם להחזיקו לכהן הגמור עי' בב\"ש סי' ד' סק\"מ (ועמ\"ש לעיל ס\"ס ג' מזה) עכ\"ד. וע\"ש בסי' כ\"ט שפלפל בכל הנ\"ל (ותוכן הדברים שנתבאר שם מבואר בקצרה בתשובה הקודמת שם שיובא לקמן בסמוך: וע' עוד בתשו' הקודמת שם שנשאל על מעשה כיוצא בזה בפנוי' משודכת לכהן שהרתה לזנונים ואמרה שמהחתן נתעברה וגם הוא הודה שהוא אבי העובר ואינו חושד את הכלה שנבעלה ג\"כ לאחר ומקום הכלה אין לישראל שכונה בפ\"ע ורוב העיר א\"י אם מותרת להנשא לו. והזכיר הרב השואל כי יש חששא גדולה אם לא יתירו להם לישא זא\"ז והוא כי חק הממשלה שם שאם פנוי' הרה ויולדת קודם שתנשא לזה שנבעלה לו לוקחים הילד לעבודה: והשיב ע\"ז באריכות ותורף דבריו דלפום ריהטא תליא בפלוגת' שבין הרמב\"ם והרא\"ש לענין יבום אך כבר כתבתי בתשו' אחרת דלדעתי כהן שאו' שזינה עם פנויה שכריסה בין שיניה ואומר שממנו היא הרה ורוצה לישא אותה אפי' הרא\"ש מודה שאינו נאמן דחיישי' שעיניו נתן בה כו' והא דאמרי' בכתובות י\"ד למאי ניחוש לה חדא דקא מודה כו' ולא חיישי' שעיניו נתן בה ואם לא יודה לא יוכל לישאנה שאני ארוס שאם זינתה תחתיו מאוסה היא בעיניו כמבואר בסי' קי\"ז ס\"א בהגה ולדעת הב\"ש סק\"ה אפילו בלי עדים מותר להתיחד עמה מטעם זה משא\"כ בזונה דעלמ' שאינה ארוסתו אינה מאוסה בעיניו וא\"כ גם כאן חיישי' שמא עיניו נתן בה. אף דגם בלי דיבור דידיה עכ\"פ ע\"פ דיבורה לחוד אם נשאת לא תצא רק לכתחלה לא תנשא משום דמעלה עשו ביוחסין וא\"כ אין כאן איסור תורה נראה דגם באיסור דרבנן חיישי' שהרי שבוי' שאסורה לכהן ע\"פ פשטן של דברי הראשונים הוא רק דרבנן ואעפ\"כ חיישי' (ובסי' כ\"ט שם כתב עוד בזה דאף דלענין מעוברת חבירו לא חיישי' כמ\"ש הב\"ש סי' י\"ג סק\"י שאני התם דעיקר האיסור דרבנן אבל כאן חכמים אסרוה מחשש איסור תורה ולכן חיישי' גם בשבוי' ע\"ש) . ואמנם יש לחלק דשאני שבוי' דבלי עדותו ודאי אם נשאת תצא אבל כאן שאפי' בלי דיבורא דידיה ע\"פ ברי שלה לחוד ג\"כ אם נשאת לא תצא. ומ\"מ אף שאין לנו ראיה מכרעת לאיסור הרי גם להיתר אין לנו ראיה שלא נחוש שמא עיניו נתן בה. ואף דכאן איכא ס\"ס להתיר שמא לא נבעלה לאחר כלל ושמא גם האחר כשר היה וכבר כתבתי בגליון הב\"ש דבזה אפי' ליכא רובא כלל כו' (ולפ\"ז איכא למימר דבנ\"ד גם להרמב\"ם אין חשש) ז\"א דכל זה אם יש עדים על הבעילה אבל כאן הרי אנו חוששין שמא ענ\"ב ומשקר ואומר שבעל כו' וא\"כ בנ\"ד אפי' לדעת הרא\"ש אסורה. אמנם כיון שכל עיקר סמיכות שלו לחוש שמא ענ\"ב הוא ממה שאמרו בכהן המעיד על השבוי' א\"כ הבו דלא לוסיף והרי שם אם פדאה ישאנה דלא שדי זוזי בכדי וא\"כ כאן שהודה שהיא מעוברת ממנו וא\"כ מתחייב עצמו בכל חיובי האב לזרעו כמבואר בש\"ע ר\"ס ע\"א וכתב שם הח\"מ דיורדין לנכסיו א\"כ אפשר דמחשב כמו פדאה. אלא שאין סברא זו ברירא לי (ע' בתשו' ברית אברהם סי' ט\"ו ג' מ\"ש בזה) ועוד הרי להב\"ש אפי' בודאי בא עליה צריך עכ\"פ חד רובא וכאן אדרבא רוב פסולין אצלה ועוד דודאי יש שם כמה מהקרובים שהם ח\"כ ויש כאן ס\"ס להחמיר שמא נתעברה מח\"כ והולד אפי' ממזר ואת\"ל שלא מח\"כ והולד כשר שמא מפסול לה והיא פסולה לכהונה ורוב פסולים מסייע לס\"ס להחמיר. אלא שאם היה נודע לנו שהמשודך בא עליה א\"כ מתחילה צריכין אנו להתחיל בספק שמא לא זינתה עם אחר כלל אבל כאן שלא נודע רק מפיו ושמא משקר לפי שעיניו נתן בה וסברא זו שיהיה חיוב צרכי הולד כמו פדאה לא ברירא לי אין עלינו לעיין בתקנת הזונות. אך אחרי שהזכיר הרב השואל דיש כאן חששא גדולה כו' אמרתי כיון שעכ\"פ אין כאן איסור תורה שהרי בדיעבד לא תצא שרינן ליה איסור' זוטא ולא גרע מהמבואר בא\"ח ס\"ס ש\"ו במי שהגידו לו שרוצים לאנוס בתו כו'. ואמנס לפי שתמיד אני מחפש להנצל מכל חשש ספק איסור תורה בכל מה דאפשר לכן לדעתי כשיכנסנה לחופה יקדשנה בתנאי אם לא נבעלה לפסול ומעתה אם לא נבעלה לפסול הרי היא מותרת לו ואם נבעלה לפסול לה א\"כ בטלו הקידושין ויש לנו תנא דמסייע להנצל מאיסור תורה הרמב\"ם בפי\"ז מא\"ב דין ב' ובאיסורי כהונה הסכים עמו המ\"מ שם ומשום איסור קדשה שאסור להרמב\"ם ג\"כ ליכא שכל זה בבא עליה בלא קידושין ונישואין לגמרי אבל בקידושין ונישואין על תנאי אינו אסור אפילו להרמב\"ם. ואופני קידושין על תנאי יראה בחבורי נו\"ב סי' נ\"ו ויסדר עניינו כאן לפי ענין התנאי. ואמנם לענין העובר כשיולד אם להחזיקו בכהן ודאי לכשתלד נחכם בדבר עכ\"ד ע\"ש.  והנה כל טצדקי הנ\"ל סובב הולך הכל ע\"פ החשש שהמציא הגאון ז\"ל לחוש דהודאתו לאו כלום הוא דשמא ענ\"ב. ובגוף סברא זאת אין כן דעת הגאון מליסא בס' קהלת יעקב כמובא בש\"ק הקודם. ]וכן בתשו' חתם סופר ס\"ס ט' חולק על סברת הנו\"ב וכתב דאין להמציא דברים חדשים מלבינו אשר לא שערום ראשונים ז\"ל כו' עש\"ה ואולם הוא עצמו כתב סברא זאת בס\"ס י\"ח שם בענין פנויה שנשתדכה לכהן וידוע שזה כעשר שנים התרתה לזנונים ובדקוה עתה ואמרה פלוני כשר כו' ומסיים שם דכל זה אי נבדקה כבר קודם שנשתדכה לזה הכהן שאז ברי שלה מהני אבל אי לא נבדקה מעולם רק עתה בשעת מעשה בודאי חיישי' שמא עיניה נתנה בו וכמו שהאריך בנו\"ב כו' וכיון דאפי' ברי אין כאן אפי' נשאת תצא ע\"ש הן אמת דיש לחלק בין דידיה לדידה אך סתימת לשונו לא משמע כן וצ\"ע[ גם בתשו' רבינו עקיבא איגר סי' פ\"ה האריך בדברי הנו\"ב הנ\"ל ודעתו ג\"כ דהודאת הבועל מהני אף להנשא לו ואין ללמוד זה משבויה רק שפלפל בנדון דידיה שכיחש מתחלה ולסוף הודה ונתן אמתלא על הכחשתו בתחילה וכתב דיש לדון בזה ע\"פ דברי תוס' יבמות דף קי\"ח ד\"ה סד\"א ובמהרש\"א שם דמבואר דאמתלא מהני רק רק לדונו בשתיקה מתחילה ועד סוף אבל לא להתיר ע\"י דבור השני וא\"כ הכא דבעינן דבורו והודאתו להתיר לא מהני אמתלא אמנם לזה י\"ל דסברת מהרש\"א הוא רק היכא דצריכין לדבורו השני מדין עדות משא\"כ הכא דמדין ברי וברי הוא כו' ועוד י\"ל דנ\"ד עדיף כיון דעד א' העיד דמיד א\"ל שא\"י להכחיש מה שגלוי לשמים דממנו נתעברה רק אחיו כופין אותו להכחישה בב\"ד א\"כ מעולם לא שויא אנפשיה חד\"א וכמ\"ש הט\"ז ביו\"ד סי' קע\"ה ואף דהט\"ז כתב שם ב' עדים י\"ל דוקא התם דהוי דבר שבערוה אבל בנ\"ד לענין חללות כהונה י\"ל דלא מקרי דבר שבערוה ואף עד א' נאמן (ובסוף הספר בהשמטות כתב בזה דעדיין יש מקום עיון בזה אי חללות אינו בכלל דבר שבערוה אך מ\"מ י\"ל דבנ\"ד דלא הוי רק מחמת שויא אנפשיה חד\"א ודאי לא הוי דבר שבערוה ע\"ש) אולם עוד יש לפקפק וגדולה היא אצלי דנהי דלענין שויא אנפשיה חד\"א מהני אמתלא מ\"מ הכא דהכחשתו היה ענין עדות אינו בני דהתורה האמינתו וכיון דאמר בפני ב\"ד הוי כהעיד בב\"ד דאינו חוזר ומגיד אף באמתלא וכמ\"ש ההפלאה בכתובות דף ב\"ב כו' ומסיים דצ\"ע לדינא ע\"ש. ושם בסי' ק\"י האריך יותר בפרט הזה וצדד שם להקל ויובא קצת לקמן סי' י\"ג סי\"א סקי\"ח:  שוב ראיתי בתשו' ברית אברהם שנשאל ג\"כ על מעשה כיוצא בו ודעתו נוטה ג\"כ דהודאת הבועל מהני אף להנשא לו (ולפי דבנדון דידיה היה כמה שינויים מעובדא דהנו\"ב הל\"ל וגם מבואר שם הערות חדשות וסברות אחרות בענין זה וכן אעתיק יסוד דבריו בשלימות) וז\"ל השאלה שם נער פלוני הכהן היה משרת במלאכת העבדנות אצל ר' פלוני ואחר חג הסוכות גילה הנער לבעה\"ב שלו ואשתו איך שבתו הבתולה נבעלה לו והיא הרה ממנו אח\"כ בא הבתולה הנ\"ל והודית ג\"כ בפני אביה ואמה שהיא הרה מנער הנ\"ל (ועדיין לא הוכר עוברה) ויהי כאשר נתפרסם זאת בעיר והגיע לאזני הב\"ד שלחו אחריהם וחקרו ודרשו אותם זה שלא בפני זה והגידו שניהם שנבעלה לו ד' פעמים והיא מעוברת ממנו וגם חקרו את הנער אם אינו חושדה שבעלה ג\"כ לאחר ואולי אין העובר ממנו והשיב שברור לו שלא היה לה שום קרבות עם אדם אחר רק עמו וגם היא הגידה כן היות שלנו ביחד בחדר א' עם עוד נער משרת וכעת שהרגישו שהנער השני ישן נבעלה אליו ד\"פ ואיימו הב\"ד עליהם לפסוק להם שבועה חמורה בבה\"כ בפני שמשי הקהל והיו מוכנים לישבע וכבר התחילו להגיד נוסח השבועה אך שהב\"ד הזהירו לשמשים בחשאי שכאשר יראו שהמה מוכנים לישבע לא יניחו אותם לבא לידי שבועת חנם כי אין נ\"מ לדינא בזה עמש\"ל סי' י\"ג סי\"א סקי\"ח בשם ת' פני אריה) ועם כ\"ז נתנו ת\"כ על כל הנ\"ל ועתה הפרוצים הנ\"ל רוצים לישא זא\"ז ונשאל אם היא מותרת לו באשר הוא כהן (ובגוף התשובה שם סי' י\"א מבואר דהעיר הזאת היא רוב פסולים כי העיר גדולה רוב ערביים אך בית הבעה\"ב העבדן הוא בשכונת ישראל בפ\"ע. ובסי' י\"ב שם מבואר דבשכינה זו היא דרך ערביים מפסיק לילך לבית המטבחים של היהודים לקנות בשר ובסי' ט\"ו שם מבואר שלא נמצא שם שום קרוב להפרוצה האסור לה רק אביה לבד והוא מוחזק בכשרות):  והאריך הרבה בזה. מתחילה בס\"י כ' לפלפל כיון דעדיין לא הוכר עוברה כאשר הגידו במה נשים לכאורה יש להאמינה במגו דלא נבעלתי כלל והיו שניהם שותקים ובשני בעלי דברים לא הוי מגו דבי תרי ובפרטיות במגו דאי בעי שתקו ואף שהיה נתברר אחר הנישואין שהיא הרה מקודם הלא אחר הנישואין היתה מהימנא שהיא ממנו לענין דלא תצא גם ברוב פסולים ע\"פ ברי דידה וא\"כ אפשר להתיר שתנשא לו מיד ע\"פ המגו הנ\"ל כדאי' רפ\"ב דכתובות בהא דראוה מדברת. לזעירי כו'. אמנם ז\"א כיון שהקול נשמע קודם בואם לב\"ד שהיא מעוברת לא הוי מגו דירא לשנות הידוע כמ\"ש רמ\"א בח\"מ סי' ע\"ב סי\"ח באם שהוא מפורסם שהוא בידו כו' אף דהכא הקול יצא ע\"פ דבריהם ואית להו מיגו שלא היו מוציאים הקול כלל מ\"מ זה הוי מגו למפרע דאף שאמרו מיד קודם בואם לב\"ד שממנו היא הרה מבואר ברמ\"א שם דאפי' אמר בשעה שראוהו עדים שחייב לו כך וכך כמו שטוען עכשיו בב\"ד לא מהימן. ואף דהש\"ך שם סקצ\"א חילק בזה דדוקא באם טען תחילה ממושכן כו' ומה דהתומים השיג עליו דבריו תמוהים וא\"כ בנ\"ד י\"ל כיון דבשעה שהוציאו הקול בעצמם מהימני לומר שממנו היא הרה במגו הנ\"ל ואח\"ז כשבאו לפני הב\"ד עומדים בטענתם הנ\"ל מהני שפיר כמ\"ש הש\"ך שם בעומד בטענת לקוח. ז\"א דעיקר החילוק של הש\"ך הוא כיון דבטענת ממושכן לא היה יכול לזכות רק ע\"פ גביה בב\"ד משא\"כ בטענת לקוח לפי דבריו ממיל' הוא שלו ולא היה צריך ב\"ד ולפ\"ז גם בנ\"ד במה שאמרו מיד בשעת הוצאת הקול שממנו היא מעוברת היה בלתי אפשר שתנשא לו מבלי פסק ב\"ד דשמא נבעלה גם לפסול לה וגם היו צריכים ב\"ד לקבל הודאתו בכדי שלא יוכל הנער לחזור בו וא\"כ אף שאח\"ז עומדים בטענתם בב\"ד מ\"מ לא הוי מגו למפרע דכבר משוי ליה ראה שהיא מעוברת ע\"פ הקול וליכא עכשיו מגו (ע' בזה בסוף ס' מחנה אפרים וגם בתשו' נו\"ב תניינא ס\"ס י\"ח ויובא קצת לקמן סי' קע\"ח ס\"ג סקי\"ד. ועוד יש לדון לדון קצת בעיקר המגו בנ\"ד כי אולי יודעת בעצמה שמעוברת מאחר ומתיראת שיתברר הדבר אחר שתנשא לו ואולי תמאס בעיני הבעל ויאמר אח\"ז שאינו ממנו ונוח לה לטעון כן דמיד בכ\"ד לקבל הודאת הנער עכשיו כו' וגם דהמעיין בתוס' דף ט\"ו ע\"א ד\"ה כמאן לפי' האי נמי מבואר גם היכא דאיכא מגו לא מקילין רק דיעבד וא\"כ אין להקל בנ\"ד לכתחלה ע\"פ המגו ועוד דבנ\"ד שהנער משודך עם כלה אחרת והיא משודכת עם חתן אחר ולפי הנשמע כבר היו רוצים לישא זא\"ז אך שאביה ואמה לא התרצו עד עתה ע\"פ הכרח וא\"כ בע\"כ היו צריכים לגלות הדבר שהיא מעוברת בכדי שיוכלו עי\"ז לבטל קשרי שדוכין שהיה להם עם אחרים וליכא מגו. והביא דשוב מנא בתשו' כנ\"י סי' נ\"ו עובדא כיוצא בזו ממש שהיה אך ידוע לאמה שהיא מעוברת והפילה וכתב ג\"כ קצת סברות הנ\"ל דאין להתיר ע\"פ המגו:  ושוב אח\"ז בסימן י\"א האריך ואף דליכא מגו בנ\"ד וכן אפילו היכא שידוע שהיא מעוברת מ\"מ מאחר דאיהו מודה ג\"כ שנבעלה לו אין לחוש שמא זינתה עם אחרים ג\"כ ונבעלה לפסול לה. והאריך שם בפלוגתת הרמב\"ם והרא\"ש לענין יבום שהובא בטור סימן קנ\"ו ובדברי הח\"מ וב\"ש סימן ד' סכ\"ו וסכ\"ח ובסימן קנ\"ו ס\"ט ומסיק לחלק דאף הרמב\"ם לא חייש אלא בזינתה עם פסול ומדאפקרה עצמה כ\"כ שזינתה עם פסול לה ודאי יש לחוש שמא זנתה עם אחר ג\"כ (עמ\"ש בזה בסימן קנ\"ו שם ס\"ק כ\"א ולכן בנ\"ד אין לחוש שנבעלה גם לערבי רק לזה שידעינן שבא עליה ע\"פ הודאתו ודלא כתשו' כנ\"י שהחמיר לדינא בכיוצא בזה. אך לפי חילוק הב\"ח והב\"ש דבדאוריית' חיישינן לשמא זינתה עם אחרים ממילא גם בנ\"ד הוי איסור דאורייתא. ומ\"מ י\"ל לפי דמחלקו הפוסקים בעובדא דארוס וארוסתו דלא חיישינן לשמא זנתה עם אחרים משום שבא עליה כמה פעמים א\"כ בנ\"ד לפי הודאתה שבא עליה ד' פעמי' י\"ל דלא חיישינן ומכ\"ש דאפשר לדמות לעובדא דתשו' הרא\"ש כו' אך אין זה ברור דשם יחדה לפלגש וכמו שחילק בת' חוט השני סי' י\"ח דמיוחדת היינו שרגילה אצלו בפרסום ואינו בוש אם יתפסו ורוב בעילות בתר דידיה משא\"כ בכה\"ג שלא היו יכולים לקלקל רק לפרקים ובהצנע בעת שהיה הנער השני ישן ע\"כ מצד זה אין ההיתר ברור: ושוב בסי' י\"ב כתב לבאר דיש היתר מרווח בנ\"ד דאף הכנ\"י לא החמיר רק בעובדא דידיה דהיה רוב פסולים אבל בנ\"ד שבית הבעה\"ב העבדן הוא בשכונת ישראל בפ\"ע והב\"ש כתב להדיא בס\"ק ל\"א דבכה\"ג הוי כעיר בפ\"ע שאין הכותים דרים בה ואף שאין דברי הב\"ש בזה ברורים כ\"כ (עיין בס' ב\"מ שהאריך לפקפק על דינו של הב\"ש הנ\"ל אך בתשו' חתם סופר סי' ט' וי\"ח מקיים דברי הב\"ש בענין חשש אינו יהודי משא\"כ בעכין פסול ישראל נתין או ממזר עש\"ה) וגם בנ\"ד חקרנו ודרשנו דיש דרך א\"י מפסיק מ\"מ הרי גם בזה כתב הב\"ש דהוי עכ\"פ רוב ישראל שכיחי דלא מהני חד רובא לכתחלה מ\"מ זה לא הוי רק דרבנן וממילא בידוע בזנתה עם כשר לכ\"ע ל\"ח לשמא זנתה עם אחרים כמ\"ש הב\"ש סי' ד' סק\"מ ובסי' ו' ס\"ק ל\"א. והאריך שם לפלפל בדברי הב\"ש בזה: ואח\"כ בסי' י\"ג כ' לבאר ספק מחודש בנ\"ד דכל מה שהעלה בסי' הקדום להקל שלא לחוש לזנתה עם אחר היינו בידוע שנבעלה לזה הכשר כמ\"ש הב\"ש אבל בנ\"ד דאינו ידוע רק ע\"פ דבריהם אף דמהב\"ש סי' ד' ס\"ק מ\"ח מבואר דהוא מודה שוה לידוע שבא עליה י\"ל דהכא בנ\"ד אינו נאמן בהודאתו כלום דהא סתם פניות נדות הם וא\"כ אין אדם מע\"ר שבעל פנויה בנידתה כו' אך דיש לדון ע\"ז מעובדא דארוס וארוסתו דאמר חדא דהא קמודה אף די\"ל שאומרת שטבלה לנדתה מ\"מ הא כלה בלא ברכה אסורה לבעלה כנדה והא ודאי דאף באיסור דרבנן אין אדם מע\"ר (והאריך שם להביא ראיות ע\"ז ודלא כהתומים בכללי מגו אות ק\"ה) ומהא דמקילין לענין חשש מעוברת חבירו לא קשה די\"ל כיון דבלא\"ה קצת פוסקים מתירין בזמנה וגוף האיסור אינו רק דרבנן לא מחמירינן כ\"כ ע\"פ חזקה דאין אמע\"ר אך בהא דארוס וארוסתו יקשה כהנ\"ל וע\"כ נ\"ל דהתם הטעם כמ\"ש בחידושי הרשב\"א פ' האומר דס\"ו ע\"א דהיכא דהבעלי דברים אומרים ברי אין הב\"ד נזקקים להם ולא מהני חזקת איסור כלל הובא בס' פ\"י פ\"ב דכתובות דכ\"ב ולפ\"ז י\"ל דה\"ה בחזקה דאין אמע\"ר אינו מועיל להוציאה בששניהם אומרים ברי ואין הב\"ד נזקקים להם וא\"ש עובדא דארוס ואריסתו ולפ\"ז גם בנ\"ד דהוא לכתחלה מ\"מ י\"ל דכיון שקודם שנולד הספק היה להם חז\"ה שהיא מותרת לו אך מחמת שנולד הספק דשמא היא מעוברת מאחר ובשניהם אומרי' ברי לא מועיל חזקה דאין מעיר ליאסור עליהם מה שהיה מוחזק להם בהיתר וכמו שהאריך בתשו' הראנ\"ח ח\"ב סי' מ\"א כו'. ואף דהנער אינו יודע שמא נבעלה לאחר ג\"כ וזה לא מצי למיטען בברי מ\"מ כיון דע\"פ ברי דידיה מחזקינן שבא עליה בודאי ממילא לא חיישינן שמא זינתה עם אחר מחמת הס\"ס ושכונה ישראל כנזכר בסי' הקדום ועוד אפ\"ל כיון שהנער אומר אינו חושדה ואין לבו נוקפו כי ברור לו שלא זנתה עם שום אחר אפשר דזה נחשב לברי ממש כו' ועוד דכיון שכ' הב\"ש דבשכונה ישראל ליכא רק איסור דרבנן ממילא דמי ממש להא דמעוברת חבירו שמקילין בשניהם מודים דלא מחמרינן משום אין אמע\"ר וכמ\"ש כיון דהוא דרבנן וקצת פוסקים מקילין במזנה וה\"ה הכא לפ\"ד בעל המאור מהני רוב ישראל גם בלא ברי דידה אף לכתחלה כמובא בב\"ש ס\"ק ל\"א ואליבא דכ\"ע לא תצא בברי דידה ורוב כשרים וא\"כ גם להמחמירין עכ\"פ אין להחמיר משום חזקה דאין אמע\"ר כו' ועוד בנ\"ד לא שייך אאמע\"ר די\"ל פלגינן דיבורא דלאו איהו בעל רק שיודע שנבעלה לכשר אחר ואף דא\"כ אסורה לו משום מעוברת חבירו ז\"א דהא לגבי הך איסור דרבנן מהימנינן ליה שאיהו הבועל כו': ושוב אח\"ז בסי' י\"ד כ' דיש להעיר להחמיר בנ\"ד ובכיוצא בזה עפמ\"ש בס' הפלאה כתובות די\"ג שהעלה דלכהן זה שנבעלה לו לפי דבריו גם הוא אינו נאמן משום דחיישינן שמא עיניו נתן בה כמו דקיי\"ל בשבוי' כו' והוא ז\"ל כתב להשיב על דבריו חדא דאפשר לחלק דבאמת לא חיישינן דמשקר לגמרי בכדי שישאנה רק דחיישי' דאולי מאמין להאשה שאמרה לו טהורה אני או ששמע משפחתה או מקטן והמה נאמנים אצלו לזה אלבשי' יצרי' להעיד בשקר שהוא יודע וזה לא שייך בנ\"ד דהיא אמרה שהוא ממנו וידוע לו אי משקרת (עב\"ש לקמן סי' קל\"ב ס\"ק י\"ב ודוק) עוד דהתם בשבוי' לולא עדותו אפי' דיעבד תצא כו' ועוד אפ\"ל כיון דלענין הולד מהימנינן ליה בודאי שבא עליה והוא בנו ממילא גם לענין זה להנשא לו הוי דיעבד כיון דבמפתה אף דליכא מ\"ע דולו תהיה לאשה מ\"מ מצוה לכונסה כמבואר ברמ\"א סי' קע\"ז ס\"ה וא\"כ אם לא ישאנה ידעו כולם שמחמת איסור הוא ויהא לב אדם נוקפו על הולד ולא יוכל הולד לישא והולד באמת שרי דלפסולי קהל הוי דיעבד וקצת ראיה לסברא זו מדברי הר\"ן בעובדא דארוס וארוסתו כו' והאריך בזה. ומסיים והגם שאין מהראוי לכנוס בדוחק בשביל תקנת הפרוצות אך לפי הנראה יוכל לבא כמה מכשולים להולד שאם לא ישאנה ירחיק הנער נדוד וישאר הולד כיתום מהאב וגם בתשו' צ\"צ ס\"ס נ\"ה כתב דזונות עבידי דחנקי בניהו וקרוב הדבר להיות פ\"נ כו' מכל הלין טעמים נלע\"ד דאפשר להתיר שתנשא הפנוי' להנער הכהן הנ\"ל (ומ\"ש עוד שם בענין דיש חשש שנתבטל נאמנותה על הראי' וספירת ז\"נ אכתוב בזה לקמן סי' י\"ג סי\"א סוס\"ק י\"ח):  ושוב בסימן ט\"ו כתב שמצא בת' נו\"ב תניינא שהעיר להחמיר בענין כזה. והביא שם קצת מדברי הנו\"ב שהזכרתי למעלה ופלפל קצת בדבריו וכתב שלא מצא בדברי הנ\"ב שום השגה לסתור מה שהעלה הוא בזה דמה שהחמיר הנו\"ב בנדון דידיה הוא משום הס\"ס להחמיר מאחר שנמצא בביתה כמה מהקרובים שהם ח\"כ וגם בעובדא דידיה היה רוב פסולים דלא היה שכונה ישראל משא\"כ בנ\"ד דשכונה ישראל ולא נמצא שם שום קרוב האסור לה כולי וליכא ס\"ס להחמיר רק להקל. שפיר אפשר להתיר:  ושוב פלפול עוד במה שהמציא הנו\"ב הנ\"ל להקל ע\"פ קדושי תנאי (באמת נראה דהנו\"ב ז\"ל לא סמך כלל ע\"ז להקל רק אמר לעשות כן עצהיו\"ט וכל מה דאפשר לתקוני מתקנינן ובזה נסתלקו כל תמיהותיו) והעיר בזה דלפ\"ז ממילא גם באם ימות הבועל הלזה אחר הנישואין לא תוכל להנשא לכהן אחר רק ע\"פ תנאי ואף לפ\"ד הח\"מ בסימן ד' ס\"ק כ\"ח בעובדא דארוס וארוסתו דגם לאחר מיתת הארוס מותרת לכהן כיון דהותרה הותרה מ\"מ בנ\"ד לא הותר מעולם כו' וגם העיר עוד דלפ\"ז יש לדון על הבנות שיוולדו לו מאשה זאת אחר שיוולד העובר הלז אם יהיו מותרות לכהן ולזה אין מועיל קידושי תנאי דאף דלגבי עצמו מהימני דביאה בלא קדושין הוא דרבנן מ\"מ הא לגבי אותן הבנות הוי איסור דאורייתא חללה לכהן אם לא דגם אותן הבנות יתקדשו לכהן על תנאי והוא דבר רחוק ובדידהו גרע טפי האיסור מהאיסור של העובר של עכשיו דהוא דיעבד לפסולי קהל וכשר גם לכהונה וגם בלא דיעבד הא כל החשש מכותי הבא עב\"י אינו פגום לכהונה רק מדרבנן ולזה מהימני משא\"כ באותן הבנות לכהן הוי חשש דאורייתא ואף דכל היכא דדיעבד לא תצא ודאי גם הולדות שיוולדו אח\"ז כשרים דכי נימא דלא תצא וירבו פסולים וע\"כ כיון דהותרה הותרה לגמרי משא\"כ ע\"פ תנאי לא הותרו מעולם האיסור דאורייתא. ועוד העיר דא\"כ בכל הני דמחמרינן ס\"ס ו' דבעי תרי רובי ניקל בקידושי תנאי דלגבי איסור דרבנן הוא בעילה בלא קדושין ראוי להאמינה. וגם מה דפשיטא ליה להנו\"ב. דלהרמב\"ם בעילה בלא קדושין ליכא איסור דאורייתא אינו ברור כ\"כ ואפ\"ל דגם להרמב\"ם הוי איסור דאורייתא רק דאינו לוקה וגם י\"ל דכל היכא דהוא דרך קיחה אף דע\"פ התנאי ליכא תפיסת קדושין מ\"מ עובר דהכי קפיד קרא באם הביאה הוא דרך קיחה וכעין מ\"ש הרמב\"ן בע\"מ שלא תינשאי לפלוני כו' (עב\"ש לקמן סי' קמ\"ג ס\"ק ל\"א) . וגם בגוף דבר זה אם מועיל כאן תנאי יש לפקפק לפ\"ד הנו\"ב בתשובה אחרת (הוא בנו\"ב קמא סי' ע\"ה יובא לקמן סי' קי\"ט סק\"ו) דמבואר מדבריו דבקדושי עבירה לא מהני ע\"י שליח כיון דאין שליח לדבר עבירה לפ\"ז הא בתנאי בעינן אפשר לקיים ע\"י שליח וכאן דהקדושין בלא תנאי א\"א לקיים ע\"י שליח לא מהני ביה תנאי כו' אך לזה י\"ל עפ\"מ שפלפל המל\"מ בפ\"ר מהלכו' אישות סוף פ\"א דלא בעינן משפטי התנאי רק בתנאי דלהבא והכא הוי תנאי דלשעבר אם לא נבעלה לפסול לה וא\"כ י\"ל דלא בעינן ג\"כ אפשר לקיים ע\"י שליח (עמ\"ש בזה לזמן סי' קס\"ט סכ\"ה ס\"ק כ\"ד) . ואחר כל הפלפולים הנ\"ל כתב מאחר דתנאי הלזה יש עיקולי ופשורי לדעתי ראוי ונכון בנ\"ד להתיר מבלי תנאי כי גם עובדא דנו\"ב היה ברוב פסולים משא\"כ בנ\"ד בשכונת ישראל וכנ\"ל אך מחמת דבלא\"ה ראוי לפרסם קלונם ברבים למגדר מלתא והדבר יצא מפי הגאון נו\"ב ז\"ל אמרתי יהי כן שיקדש בפרסום תחת החופה בתנאי מפורש אם לא נבעלה לפסול לה ובאריכות לשון התנאי ובאם לא יועיל לא יזיק כו' ואלופי הקהל יראו לקיים עוד למגדר מלתא כפי אשר יראו בעיניהם עכת\"ד:  וכתב עוד כל זה ראיתי להקל להתיר להפירוצים שישאו זא\"ז אך לענין חליצה כו' (זה יובא לקמן סי' קנ\"ו ס\"ט) . ולענין העובר הזה אם יהיה זכר לענין נשיאות כפיים מבואר בב\"ש סי' ד' סק\"מ כו' וגם בתשובת עה\"ג סי' א' מפרש דברי הרמ\"א בס\"ס ג' דרק לכל דבר דרבנן ודברי הכנ\"י סי' נ\"ו תמוהים בזה: והגם דהעליתי למעלה לחלק דבזינתה עם כשר לא חיישינן כלום מ\"מ קשה לסמוך על דעתי להקל בדאורייתא. אך אם תלד בת לענין אם היא פגומה לכהונה הלא בכותי ועבד הבא עב\"י נחלקו הפוסקים אם הולד פגום לכהונה ודיעבד ודאי לא תצא לכן ע\"ז ודאי יש להאמינם רק שתהיה פגומה קצת כדין ולד שבא מן הנדה. ובאם יהיה העובר זכר לענין פדיון הנה האב א\"צ לפדותו דהוא טוען בודאי שהוא ממנו אך לכשיגדל הבן יפדה עצמו בלא ברכה וממעות יוכל ליתן לאביו ממ\"נ ולענין לטמאות אם ימות אחד מהם האב להבן הוי איסור דאורייתא ואין רצוני לסמוך על דעתי להקל אבל הבן להאב מותר לטמאות עצמו ממ\"נ. ובת' רדב\"ז ח\"ג סי' תקכ\"ו מבואר עוד חילוקי דינים בזה במקום דנהיגי ביבום אך דאיהו לא החמיר בדאורייתא רק בדיימא מעלמא ומיני' יש ללמוד לנ\"ד גם בדלא דיימא מעלמא עכ\"ד ע\"ש. ועיין עוד בתשובת חמדת שלמה סי' ע\"ח מ\"ש בזה:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:16"
+        },
+        "17": {
+          "he": "כשהיה המקום שנבעלה.  ולפ\"ז במעוברת אסורה עד שיתברר ע\"פ עדים שראוה אפי' פעם אחת שנבעלה בקרונות. קהלת יעקב ועמ\"ש בס\"ק הקודם:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:17"
+        },
+        "18": {
+          "he": "ורוב העיר.  עיין בחידושי רבינו עקיבא איגר ז\"ל בגליון המשניות פ\"ק דכתובות משנה י' שכ' נראה דאם הרוב עודף על המיעוט רק באחד דיש למשל ך' פסולים ואח' ועשרים עשרים דבזה אסורה לכהן מאותו העיר דהא הוא יודע בעצמו שהוא לא בא עליה ואם כן הוא אינו בכלל הספיקות ולגבי דידיה נשאר רק מחצה ע\"מ שעומדים בספק ואינו יכול לתלות ברוב. וחידוש שלא נמצא מפורש מי שדיבר מזה עכ\"ל:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:18"
+        },
+        "19": {
+          "he": "שני ריבות.  עבה\"ט מ\"ש בשם כנ\"י פנויה שעיברה כולי ועיין מזה בתשובת שבו\"י ח\"ג סימן קט\"ו ועמש\"ל ס\"ק ט\"ז:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:19"
+        },
+        "20": {
+          "he": "ובדיעבד אפי' ברוב פסולים.  עיין בתשובת נו\"ב סימן ח' שנשאל אודות אלמנה אחת שהיתה דרה בכפר מלא ערביים ואין שם רק ב' או ג' בתי יהודים ובתוכם חמיה ואחי בעלה ונשאת לכהן ותיכף אחר החתונה היה כריסה בין שיניה וילדה באופן שזינתה בעודה בכפר הנ\"ל ואמרה שעם אחי בעלה הראשון זינתה ומינתה מורשה לתבוע אותו ממון והוציאה ממנו איזה סך ואח\"כ מת הילד וחזרה מדבריה ואומרת לכשר נבעלתי ומה שאמר' על גיסה היה מחמת שנאה וקטטה שהיה לו עמו הוציאה שם רע עליו להוציא ממנו ממון. מהו דינה אם מותרת לבעלה הכהן אם נסמוך על דבריה הראשונים או על האחרונים. והשיב הא ודאי שאם לא היתה אומרת כלל עם מי זינתה שהיה הדין שתצא כיון דרוב פסולים אצלה בכפר הנ\"ל וא\"כ שוב אנו אומרים שאמירה דידה קושטא הוא ושויתה כפשה חד\"א שאם עיניה היתה נותנת באחר די היה לה לשתוק ולמה אמר' על נפשה שזינתה עם הפסול. ורק צריכין אנו לדון אם תהא נאמנת לחזור וליתן אמתלא הנ\"ל ולסמוך שוב על דבריה האחרונים ולכאורה דבר זה תליא בפלוגתא שבין הראב\"ד והה\"מ שהובא בב\"ש ס\"ק כ\"ו ואפשר דכאן גם לדעת הראב\"ד לא מהני למ\"ש הב\"ש שם דמודה הראב\"ד באשת ישראל מדהפסידה הכתובה לפי דבריה הראשונים וא\"כ גם כאן הפסידה הכתוב' כו' והאריך בזה (והובא קצת לעיל סי\"ג ס\"ק י\"ב) ומסיק דבאמת נ\"ד אינו ענין לפלוגתא של הראב\"ד והה\"מ הנ\"ל וכאן אף אי נימא דמועיל אמתלא שלה להסיר דברים הראשונים מ\"מ ע\"פ הדין אינ' נאמנת בדבור האחרון דע\"כ לא קאמר ר\"ג דאלים ברי אפי' ברוב פסולים אלא מטעם שיש לה חזקת כשרות לכהונה וברי דידה מסייע לחזקה וא\"כ בנ\"ד שתבעה את אחי בעלה ולקח' ממנו ממון נסתר חזקה זו חדא דחזקות ממון סותר לחזקת הגוף דאמרי' אוקי ממונא בחזקתה שא\"צ להחזיר לו שבדין נתן לה לפי שממנו נטמאה ועוד דאוקמא בחזקת כשרות שאינה גוזלת ולא לקחה ממון מאחי בעלה שלא כדין ועוד דאיך נאמין לאמת לא דידה והלא אין אדם מע\"ר ואיך נאמינה שהיתה רשעה וגזלה ממון מאחי בעל' ואף שעכ\"פ היא רשעה מחמת הזנות ז\"א דאולי באונס אף דלא שכיח אבל בגזל היא בודאי רשעה במזיד ולכן אומר אני שאשה זו אסורה בודאי לבעלה הכהן ע\"ש. ולכאורה יש לתמוה דמדבריו משמע דאילו תבעה ולא לקחה ממון מגיסה שפיר היה אפשר לומר דמועיל אמתלא והיינו מקבלים דבריה האחרונים. ומדוע לא הזכיר דברי התוס' ביבמות דף קי\"ח ובמהרש\"א שם דמבואר דאמתלא לא מהני רק להסיר דבריה הראשונים אבל לא להתיר ע\"י דבור השני ע\"ש אמנם באמת לק\"מ לפמ\"ש רבינו עקיבא איגר ז\"ל בתשובה סי' פ\"ה (והובא קצת לעיל ס\"ק ט\"ז ולקמן סי' מ\"ז ס\"ד) דסברת מהרש\"א הוא רק דא\"א לדון לשויא דבורו השני לעדות כההיא דמת בעלך דהימנוהו רבנן מדין עדות כו' אבל בנ\"ד מה דמהימנינן ברי דידה לאו מדין עדות הוא ודו\"ק: (ועיין בתשובת חתם סופר סי' ר\"ט ע\"ד אשת כהן שנמצאת מעוברת וילדה מיד אחר חתונתה והיא אומרת מיניה והוא מכחיש' דעכ\"פ לאו מיניה אך רוצה בקיומ' (ובאופן דליכא משום מניקת חבירו) והביא שם דברי מורו הגאון בהפלאה דף י\"ג במשנ' איש פלוני וכהן הוא שכ' דכשהוא מכחיש' הו\"ל ברי וברי דלא אמר ר\"ג כמ\"ש הרא\"ש גבי ארוס וארוסתו ולכן כ' שדברי הטור בזה צ\"ע. והיינו מ\"ש הטור (בסי' ד' ובש\"ע שם סכ\"ז) גבי ארוס' דנאמנת לומר לארוס נבעלתי אפי הוא מכחיש' ואם נשאת לכהן לא תצא כו' דזהו שלא כדברי אביו הרא\"ש ז\"ל. והוא ז\"ל תמה עליו שדברי הרא\"ש הנ\"ל הוא גבי עובר שהיא מעידה עליו והוא מעיד להיפך בברי ובכי הא לא אמר ר\"ג אבל כשהיא טוענת על עצמה כשר' אני ולכשר נבעלתי ואינו עד א' דעלמא מעיד על כשרה שהיא פסולה א\"נ בהכחשת בע\"ד ה\"ה הבעל אינו נאמן יותר מע\"א דעלמא ובזה ל\"ש ברי וברי וכ\"כ להדיא בנ\"י ס\"פ אלמנה לכה\"ג בשם הריטב\"א כו' (גם בביאור רבינו הגר\"א ז\"ל שם ס\"ק ס\"ז מחלק כן ע\"ש) . ובנדון השאלה מסיק אף דגבי ארוסה פסקינן (לעיל סי' ד' סכ\"ז) דלארוס גופיה אסורה היינו דשם בודאי שויא אנח\"ד כיון דכ\"ע פסולים אללה אך הכא דאינו מכחישה שלא נבעל' לכשר אלא שאינו ממנו אין לכופו להוציא מכמה טעמים עש\"ה):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:20"
+        },
+        "21": {
+          "he": "הית' אלמת כו'.  עיין בתשובת נו\"ב ס\"ס ז' שכתב הדבר תמוה דמה בכך שהיא אלמת והלא בת דעת היא ויכולה לרמוז רמוזי וכן מ\"ש או שהיתה קטנה שאינה מכרת כו' מה בכך שאינה מכרת הרי אם אומרת לפלוני הזה נבעלתי אנן מכירין את פלוני אם כשר הוא או פסול ואם כוונתו שאין סומכין על דבריה לא היה לו לתלות הטעם במה שאינ' מכרת. והנראה בזה שהרמב\"ם סובר דהא דסומכין על דבריה באומרת לכשר נבעלתי הוא מפני שיש סיוע לדבריה דאשה מזנ' בודקת ומזנה כו' אבל באומרת איני יודע הרי חזינן שלא בדקה או בחרשת שאינה בת דעת לא שייך בה בודקת וגם לא שייך בה אמירה ולא רמיזה וכן בקטנה שאינה מכרת בין כשר לפסול ל\"ש בודקת ובאלמת י\"ל ג\"כ שכיון שהיא אלמת אינה רגילה כ\"כ עם בני אדם ואינ' בקיאה באנשים לידע מי כשר כו' ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:21"
+        },
+        "22": {
+          "he": "ויש מי שאומר כו' (עיין בס' ב\"מ ועיין בתשו' חתם סופר ר\"ס י\"ח שכ' על נדון השאל' דידיה וז\"ל אך באמת לדינא אי היה כאן תרי רובא משום הך דנבעלה בעיר היה ראוי להכריע כהטור להקל וכ\"כ בית מאיר במסקנא בסוף הסי' כו' עכ\"ל ע\"ש):",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 6:22"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "בגרושה.  עי' במהרש\"ך ח\"א סי' קנ\"ה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:1"
+        },
+        "2": {
+          "he": "מדרבנן.  עיין הר\"א ששון סי' רי\"א. נשא חלוצה אפילו נדר הנאה ממנה מעכשיו ואפי' יש לו אונס ממון אסור לקיימה הרא\"ם ח\"א סי' נ\"ט. כהן שהוחזק בכהן ימים רבים ונשא חלוצה כי לא ידע שחלוצה היא אין כופין אותו להוצי' פסק שבות יעקב ח\"א סי' צ\"ג. דלדעת מהרשד\"ם בחא\"ה סי' רל\"ה אין כופין בכהני בזמן הזה דכהני ספק נינהו. אבל בתשובת מהרי\"ט ח\"א סי' קמ\"ט ותשובת חוט השני סי' י\"ז האריכו לסתור דעת מהרשד\"ם. ושבות יעקב סי' הנ\"ל דוחה דבריהם ומקיים דברי מהרשד\"ם. עכ\"פ העלה דאם רוצה לגרש זכור לטוב כיון שבניו נדחין מכהונה בממ\"נ. אבל אין כופין בשוטים ע\"ש. ובתשובת כנסת יחזקאל שאלה נ\"ו בסופו חולק על שבות יעקב וכתב חלילה להוצי' לעז על יחוסי כהונה בזה\"ז ושיהיו כל הבכורים מבלי פדויים ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:2"
+        },
+        "3": {
+          "he": "להוצי'.  אבל לכתחלה גזרו אף על ספק חלוצה עיין תוס' דיבמות דף כ\"ד ע\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:3"
+        },
+        "4": {
+          "he": "להוצי'.  וכן ספק חללה וספק זונה כלן מדאוריית' אלא ספק ממזר דרבנן. עיין הראנ\"ח ח\"א סי' מ\"ב. נשא ספק שבויה א\"צ להוציאה ר\"י הלוי סי' ל\"ג:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:4"
+        },
+        "5": {
+          "he": "בעלמ'.  בתשובת רש\"ל כתב דוק' במשודכת יש לחוש לקול כזה אבל בעלמ' אין לחוש ועיין הג\"מ פרק האומר וב\"י בסי' י\"ג ושם מבואר דוק' אם שב\"ד הצריכו גט אע\"ג שהיה מחמת קול בעלמ' חיישינן אבל אם הוא נתן גט מעצמו ולא היה נצרך עפ\"י הדין לא הוי הגט וכ\"כ הבה\"י ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:5"
+        },
+        "6": {
+          "he": "לכהונה.  כתב (ב\"י) [ב\"ח] היינו לכתחלה אבל לא תצא. וט\"ז חולק ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:6"
+        },
+        "7": {
+          "he": "אסורה.  משמע אפי' אם נשאת תצא ח\"מ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:7"
+        },
+        "8": {
+          "he": "לכהן.  עכ\"פ ובדיעבד אין מוציאין אותו לכ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:8"
+        },
+        "9": {
+          "he": "ונתגרשה.  דוק' שיצ' קול שניהם יחדיו אבל אם יצא קול גירושין אחר קול קדושין לא משגיחין בקול שיצ' אח\"כ שנתגרשה ומותרת לזה שיצ' הקול שקידשה אפי' אם הוא כהן ואסורה אחר מיתתו לכהן אחר. ואם יצא תרי קולות בפעם א' אסורה לישא לזה אם הוא כהן דלדידיה הוי קול קודם נישואין כן הוא לדעת הראב\"ד ודלא כהרמב\"ם עיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:9"
+        },
+        "10": {
+          "he": "חיישינן.  כיון דחליצה מדרבנן וספק חלוצה לא גזרו ה\"ה בקול לא גזרו אפי' בקול המוחזק בב\"ד. ולפ\"ז היה ראוי לכתחלה לחוש לקול כמו בספק חלוצה מיהו הלשון לא חיישינן משמע דמותרת לכתחלה ועדיף מספק חלוצה אחרונים:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:10"
+        },
+        "11": {
+          "he": "שיגרשנה.  עיין הראנ\"ח ח\"א סי' מ\"ב. ונראה אף לישראל שנש' אשה בעבירה נמי עבדינן ליה כל הני שמתות ונידויים וכפיות ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:11"
+        },
+        "12": {
+          "he": "במבוי.  עיין סי' קי\"ט. כתב (הר\"ש) [הב\"ש] ולכאורה קשה מסוגית ריש כתובות שם אית' להיפך כל שאיסור קל צריך גדר יותר. ולפענ\"ד לאו קושיא היא דהא מסקינן שם לפי שהקילו חכמים שנוהג ימי המשתה כו' מש\"ה אמרו דהו' ישן בין האנשים לא יקיל יותר ולאו טעמ' הוא משום איסור קל ע\"ש ובהרא\"ש. ועיין תוס' בסוטה דף ז' ע\"א ד\"ה אמר לאו ק\"ו ופרכוהו וכו':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:12"
+        },
+        "13": {
+          "he": "לבהמה.  וכן הנבעלת לרוח או לשד אינה אסורה לבעלה תשובת מהר\"ם מלובלין סי' (קט\"ו) [קט\"ז]:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:13"
+        },
+        "14": {
+          "he": "לינש'.  אע\"ג דבעת נדתה אסורה מ\"מ אשה זו יש תקנה לאיסורה:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:14"
+        },
+        "15": {
+          "he": "שהפקירה עצמה.  ולדעת הסמ\"ג יש להחמיר. בית שמואל:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:15"
+        },
+        "16": {
+          "he": "וכן הגיורת ומשוחררת.  אפי' לא נבעלה אסורה לכהן אפי' גיורת פחותה מבת ג' שנים אסורה לכהן לפי שבאה מעכו\"ם השטופים בזמה עיין ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:16"
+        },
+        "17": {
+          "he": "חייבי לאוין דשאר.  היינו אנוסת אביו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:17"
+        },
+        "18": {
+          "he": "היבמה.  משום דאין קידושין תופסין ביבמה. וה\"ה גיורת ומשוחררת דלכ\"ע עשאה זונה ב\"ש ובה\"י:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:18"
+        },
+        "19": {
+          "he": "אסורה לו.  עיין במגיד פ\"א ופי\"ח מהא\"ב אם לוקה הכהן הבא עליה אח\"כ משום זונה ומשום טומאה או לא. ובטור כתב בפשיטות דלוקה שתים ולפי המגיד דפירש שם דהרמב\"ם ס\"ל דנעשית זונה לפ\"ז גם אם נאנסה מישראל או מעכו\"ם נעשית זונה ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:19"
+        },
+        "20": {
+          "he": "שנאנסה.  כל שתחילת ביאה באונס אף שסוף ביאה ברצון הוי כנאנסה. ועיין בתרגום יונתן פרשת כי תצא. ועיין בה\"י. אשה שהצילה את בעלה גם אחרים ע\"י שהפקירה עצמה לזנות אי מותרת לבעלה או לא. פסק שבות יעקב ח\"ב סי' קי\"ו דאם האונס הוא על הבעילה עצמה הוי אונס גמור ומותרת לבעלה משא\"כ אם היא מתרצית לבעילה ואונס אחר היא נאסרת לבעלה. ואם נאנסה ממש פשוט להתיר מ\"מ צריכה טבילה שלא תהא מאוסה עליו ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:20"
+        },
+        "21": {
+          "he": "לבעלה.  וה\"ה לבועל אם אינו כהן בה\"י ע\"ל סי' י\"א:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:21"
+        },
+        "22": {
+          "he": "יוציא.  ולקמן סי' קע\"ח סעיף ט' בהג\"ה די\"א בזמן הזה שיש חרם ר\"ג שלא לגרש אשה בע\"כ אינו נאמן לומר שמאמינ' או שתאמין לדברי העד לבטל החרם ר\"ג ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:22"
+        },
+        "23": {
+          "he": "נאנסתי.  ע\"ל סי' קט\"ו וסי' קע\"ח. ואם ידוע דנתייחדה עם א' ואומרת טמאה אני נאמנת דהוי רגלים לדבר וכן אם אמרה טמאה אני ברצון נמי נאמנת כ\"מ מתוס' דכתובות דף ס\"ג ע\"ב ד\"ה אבל אמרה מאיס עלי ע\"ש ולפי דבריהם אשת ישראל שאמרה שזינתה ברצון נאמנת ונראה דלא כתבו כן אלא למאן דס\"ל דאומרת מאיס עלי כופין אותו להוצי' והוצרכנו לחלק בין ההיא דג' נשים לאומרת מאיס עלי אבל לדידן דקי\"ל דאין כופין אותו להוציא ההיא דג' נשים אפי' באין נוטלת כתובה אינה נאמנת כנה\"ג בהגהת הטור וכ\"כ מהר\"ם די בוטין סי' מ\"ג עיין ב\"ש. אשה שהודית שזינתה וגם ע\"א אומר שהוא זינה עמה אסורה לבעלה תשובת חכם צבי סי' ק\"נ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:23"
+        },
+        "24": {
+          "he": "שבעולם.  היינו לכתחלה אבל אם נשאת לכהן לא תצא אלא א\"כ מאמין לדבריה. ואם עד אחד אמר שזנתה אם היא מכחשת אז העד אינו נאמן. ואם היא מודה אם כן היינו הדין שהיא אמרה שזנתה. ואם היא שותקת תליא בפלוגת' אם שתיקה כהודאה דמיא או לא ב\"ש ועיין סי' קט\"ו:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:24"
+        },
+        "25": {
+          "he": "דאיסור'.  ואם נותנת אמתל' לדבריה שאמרה כן כדי שיגרש אותה נאמנת. כ\"כ הראב\"ד. והמגיד חולק עליו כיון דאין בעלה חייב לגרשה ע\"פ דיבורה אינה נאמנת שאמרה כן כדי לגרש אותה עיין ברמב\"ם פי\"ח מהא\"ב וכתב הב\"ש מיהו בשאר אמתלא אף המגי\"ד מודה דמהני. ואם עברה ונשאת לכהן. בניה כשרים דאינה נאמנת לפסול בניה דוקא לאב נתן התורה נאמנות ולא לאם. ואם האב אומר דמאמין לדבריה יוכל לעשות לבניו חללים כמו שנאמן לומר בן גרושה הוא. מיהו כשלא מצא לה בתולים והיא אומרת משארסתני נאנסתי י\"ל אם נשאת לכהן בניה ספק חללים מאחר דאיכ' ריעות' בפנינו ב\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:25"
+        },
+        "26": {
+          "he": "דרוסת איש.  עיין תוס' י\"ט פרק א' דכתובות משנה ז'. וכנה\"ג בהגהת ב\"י סעיף כ\"ח הרבה להקשות עליו ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:26"
+        },
+        "27": {
+          "he": "מספק.  אא\"כ קידש ובעל לאלתר או שישנו עדים שלא זינתה אחר הקדושין ומחמת הזנות קודם קידושין מותרת כמבואר בסעיף ח':",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:27"
+        },
+        "28": {
+          "he": "בעיר.  אפי' קול שמוחזק בב\"ד מ\"מ תלינן שמא ראו בה דבר פריצות בעלמא:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:28"
+        },
+        "29": {
+          "he": "לכהן.  כתב מהריב\"ל ח\"א דף ק\"ז דתרתי מילי נינהו דיצא עליה שם מזנה מיירי בפנויה דאי אתניהו תרווייהו שם מזנה ועידי כיעור ודאי אסור לכהן ועיין במהר\"ם פדוואה סי' ל\"ג ובמשפט צדק פ\"ב סי' ס'. וע\"ל ס\"ק ט\"ז בסי' ד' מש\"ש בשם הב\"ח. ועיין מ\"ש הח\"מ:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:29"
+        },
+        "30": {
+          "he": "שנבעלה.  עיין מ\"ש הב\"ש שהאריך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:30"
+        },
+        "31": {
+          "he": "רובות.  ה\"ה שני חזקות מהני משפטי שמואל סי' קי\"ד. ועיין תי\"ט פרק א' דכתובות משנה יו\"ד. ועיין כנסת הגדולה בהגהת הטור. פנויה שעיברה והפילה ולא ידעו מזה כי אם אמה וגיסה ע\"פ הגדת אמה ותבעה לאחד שיתן לה אתנן זונה או ישאנה ותשובת הנואף כמעט שהודה והתפשר עמה בסך מעות אם מותרת לכהן באמרה שלא נבעלתי כי אם לזה. פסק בתשובת כנסת יחזקאל שאלה נ\"ו דאסורה לכהן. אחד שהחליף דתו עם זונה ישראלית מרצונם הטוב ונהגו אישות זה עם זה איזה שנים וילדה בת ואח\"כ חזרו כולם לדת ישראלית ומעיד הוא ואשתו שהבת מהם ולא מאחר ודעתו שיש להתירה לינשא לכהן. פסק שבות יעקב ח\"ב סימן קי\"ג דפסולה לכהונה. ועיין בתשובת כנסת יחזקאל שאלה נ\"ח ועיין סימן ז' ס\"ק ל\"ד מש\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Even HaEzer 6:31"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

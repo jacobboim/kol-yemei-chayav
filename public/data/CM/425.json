@@ -1,0 +1,245 @@
+{
+  "chelek": "CM",
+  "siman": 425,
+  "chelekTitle": "Choshen Mishpat",
+  "seifCount": 5,
+  "fetchedAt": "2026-07-08T00:09:23.242Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "חייבי מיתת ב\"ד היאך דנים אותן בזמן הזה. ובו ה סעיפים:הגה כל חייבי מיתות ב\"ד בזמן הזה אין בידינו להלקותן או להגלותן או להרגן או לחבטן אלא מנדין אותן ומבדילין אותן מן הקהל (טור ס\"א בשם רב נטרונאי גאון) וכל זה מצד הדין אבל אם רואין ב\"ד שהוא צורך שעה ומגדר מילתא יכולין לענוש במה שירצו (שם ובשם תשו' הגאון) כמו שנתבאר לעיל סי' ב': ודוקא בדיני נפשות הצריכין ב\"ד אבל הנהרגין בלא ב\"ד נידונין גם עתה כמו שיתבאר (טור שם) : הרודף אחר חבירו להרגו והזהירוהו והרי הוא רודף אחריו אפי' היה הרודף קטן הרי כל ישראל מצויים להצילו באבר מאברי הרודף ואם אינם יכולים לכוין ולא להצילו אלא א\"כ יהרגו לרודף הרי אלו הורגים אותו אע\"פ שעדיין לא הרג: הגה (טור ס\"ז) הבא במחתרת לגנוב ג\"כ דינו כרודף ואם ידוע שלא בא רק על עסק ממון ואף אם יעמוד בעל הממון נגדו לא יהרגהו אסור להרגו ועיין בדברי הטור בסי' זה מי שמסכן רבים כגון שעוסק בזיופים במקום שהמלכיות מקפידות דינו כרודף ומותר למסרו למלכות (נימוקי מהר\"ם מריזבורק] כמו שנתבאר לעיל סימן שפ\"ח סי\"ב:",
+      "en": "Rema: Regarding those guilty of the death penalty in our days, we have no power to give them lashes, exile them, kill them, or beat them. Instead we censure them and distance them from the community (Tur 68 from Natronai Gaon). Thus far regarding [strictly Torah] law. However, if the beit din sees a necessity for a preventative measure, it has the authority to institue whatever punishment they see fit (ibid., from the Responsa of the Natronai Gaon), as explained above in Siman 2. This regards those instances involving capital punishment which necessitates a beit din. Cases in which the death penalty can be implemented even without a beit din, are still judged in our days, as will be explained (ibid.). One who pursuses his fellow in order to kill him, and was warned, and continued in his pursuit: Even if the pursuer was a minor, every Jew is commanded to save the pursed, even at the cost of one maiming one of the pursuer's limbs. If it is impossible to save the pursued without killing the pursuer outright, then the pursuer should indeed be killed, even though he has not yet performed the act. Rema: (Tur 67) One who \"tunnels [into a house] in order steal\" has this rule of pursuer applied to him, however if it is understood that his only intent is monetary gain, and that he would not kill the owner in a confrontation, then it is forbidden to kill him. See further in the Tur in this paragraph regarding one who endangers the public, such as a Jew who engages in forgery in a land where the authorities take a strict approach to such action, such a person constitutes a \"pursuer\" and it is permitted to turn him over to the authorities (Nimukei Maharam MiRizburg), as explained above in 388:12.",
+      "ref": "Shulchan Arukh, Choshen Mishpat 425:1"
+    },
+    {
+      "seif": 2,
+      "he": "לפיכך העוברת שהיא מקשה לילד מותר לחתוך העובר במעיה בין בסם בין ביד מפני שהוא כרודף אחריה להרגה ואם הוציא ראשו אין נוגעין בו שאין דוחין נפש מפני נפש וזהו טבעו של עולם:",
+      "en": "",
+      "ref": "Shulchan Arukh, Choshen Mishpat 425:2"
+    },
+    {
+      "seif": 3,
+      "he": "וכן הרודף אחר הזכר או אחר אחת מכל העריות (לאנסה) חוץ מהבהמה מצילין אותו אפילו בנפש הרודף ואם רדף אחר ערוה ותפס ושכב עמה כיון שהערה בה אע\"פ שלא גמר ביאתו אין ממיתין אותו עד עמדו בדין:",
+      "en": "",
+      "ref": "Shulchan Arukh, Choshen Mishpat 425:3"
+    },
+    {
+      "seif": 4,
+      "he": "רדף אחר ערוה ואחרים היו רודפים אחריו להצילה ואמרה להם הניחוהו כדי שלא יהרגני אין שומעין לה אלא מבהילין אותו ומונעין אותו ע\"י הכאת אבריו ואם אינם יכולים באבריו אפילו בנפשו: הגה הבא על העכו\"ם בפרהסיא לעיני י' ישראלים קנאין פוגעין בו ומותרין להרגו ודוקא בשעת מעשה אבל אם פירש אסור להרגו ודווקא שהתרו בו ולא פירש ודוקא שבא הקנאי להורגו מעצמו אבל אם שאל לבית דין אין מורים לו כך:",
+      "en": "",
+      "ref": "Shulchan Arukh, Choshen Mishpat 425:4"
+    },
+    {
+      "seif": 5,
+      "he": "אפיקורס מישראל והם עובדי עכו\"ם או עושה עבירות להכעיס אפילו אכל נבילה או לבש שעטנז להכעיס [ הרי זה] אפיקורס והכופרים בתורה ובנבואה מישראל מצוה להעבירן אם יש בידו להעבירן בפרהסיא מעבירן ואם לאו יסבב בסיבת העברתן כיצד ראה אחד מהם שנפל לבאר והסול' בבאר קודם ומסלקו ואומר הריני טרוד להוריד בני מהגג ואחזירנו לך וכיוצא בדברי' אלו אבל העכו\"ם שאין בינינו ובינם מלחמה ורועה בהמה דקה מישראל במקו' שהשדו' הם של ישראל וכיוצ' בהם אין מסבבין להם המית' ואסור להצילן (שם די\"א ע\"ל סל\"ד סי\"ג ובסימן ת\"ט) בד\"א בישראל בעל עבירות והוא עומד ברשעו ושונה בו תמיד כגון רועה בהמה דקה שפקרו בגזל והם הולכים באולתם אבל ישראל בעל עבירות שאינו עומד ברשעו תמיד אלא עושה עבירות להנאת עצמו כגון אוכל נבילות לתיאבון מצוה להצילו ואסור לעמוד על דמו (שם) (די\"ג) (עיין ביורה דעה סי' קנ\"ח):",
+      "en": "In the case of a Jewish heretic, which is someone who worships idols or sins in spite- even if he just ate unslaughtered animal or wore shaatnez in spite he would be a heretic- and those who deny the Torah or Jewish prophecy, there is a mitzvah to remove them. If there is a way to remove them publicly, we would do so. If not, we would use excuses to remove them. How so? If one saw one of them fall into a pit and the ladder is in the pit, he would come and remove the ladder and say he is busy taking his son down from the roof and he will return the ladder, or something similar. With respect to an idolater whom we are not at war with or a shepherd of small domesticated animals in a place where the fields belong to Jews or someone similar, however, we would not arrange for their death but one is prohibited from rescuing them. When is this true? In the case of a Jewish sinner who remains firm in his wickedness and consistently repeats his sins, such as a shepherd of small domesticated animals who is cavalier with theft, and they continue in their wicked ways. With respect to a Jew who sins and does not remain firm in his wickedness, but just sins for his own benefit, however, such as one who eats unslaughtered animals out of desire, one does have a mitzvah to rescue him and one is prohibited from standing idly by his blood",
+      "ref": "Shulchan Arukh, Choshen Mishpat 425:5"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "א) מהא דא\"ר אלעזר בן יעקב שמעתי מכין ועונשין וכו' פרק נגמר הדין דמ\"ז ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:1"
+        },
+        "2": {
+          "he": "ב) רמב\"ם פ\"א מהלכות רוצח דין ו' וטור ס\"ג משנה וגמרא בסנהדרין ס\"פ בן סורר ומורה דף פ\"ב וע\"ג:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:2"
+        },
+        "3": {
+          "he": "ג) מימרא דרב הונא שם",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:3"
+        },
+        "4": {
+          "he": "ד) ברייתא משמיה דר' יונתן בן שאול שם ריש דף עד ובכמה דוכתי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:4"
+        },
+        "5": {
+          "he": "ה) כ' ה\"ה צ\"ל דהכי קאמר כיון שלא הרג לא היה ראוי להרגו ואעפ\"כ הורגין אותו כדי להציל את הנרדף דאלו כבר הרגו אינם רשאין להרגו",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:5"
+        },
+        "6": {
+          "he": "ו) משנה וגמרא בפרק בן סורר ומורה (סנהדרין דף ע\"א) וע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:6"
+        },
+        "7": {
+          "he": "ז) שם ד\"ט משנה ספ\"ז דאהלות:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:7"
+        },
+        "8": {
+          "he": "ח) כ' ה\"ה שזהו מ\"ש שם בסנה' דף עב ע\"ב הא דמקשי אמימרא דרב הונא קטן וכו' ממשנה דאהלות הנזכר ומשני שאני התם דמשמיא קא רדפי לה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:8"
+        },
+        "9": {
+          "he": "ט) שם משנה שם סוף דף ע\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:9"
+        },
+        "10": {
+          "he": "י) שם די\"ב בברייתא שם דף ע\"ג ע\"א וכ' ה\"ה זה הולך על השורש שקדם שמחוייבי מיתות שעברו ועשו אין ממיתים אותן עד שיגמור דינם בב\"ד וזה כיון שהערה כבר עשה העבירה",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:10"
+        },
+        "11": {
+          "he": "כ) שם דף י\"ג שם בברייתא פלוגתא דר' יהודה ורבנן ופסק כרבנן:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:11"
+        },
+        "12": {
+          "he": "ל) טור ס\"ט ורמב\"ם פי\"ב מהלכות איסורי ביאה משנה פרק הנשרפין (סנהדרין דף פ\"א ע\"ב)",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:12"
+        },
+        "13": {
+          "he": "מ) ע\"א דף ל\"ו ע\"ב:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:13"
+        },
+        "14": {
+          "he": "נ) מימרא דר' יוחנן סנהדרין דף פ\"ב ע\"א",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:14"
+        },
+        "15": {
+          "he": "ס) הראב\"ד בהשגות",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:15"
+        },
+        "16": {
+          "he": "ע) שם במימרא דר\"י",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:16"
+        },
+        "17": {
+          "he": "פ) ל' הרמב\"ם שם פרק ד' דין י' מברייתא פ\"ב דע\"א דף כ\"ו ע\"ב וסוגיא דגמרא שם ויש נוסחא אחרת בב\"י והעתיק' בי\"ד סי' קנ\"ח סי\"א וע\"ש",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:17"
+        },
+        "18": {
+          "he": "צ) הן הוא ברמב\"ם שם וכ' הכ\"מ בפלוגתא דרב אחא ורבינא וכו' שם פסק כמ\"ד מותר להכעיס אפיקורס הוא ועוד דר' אבהו ור' יוחנן סברי הכי שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:18"
+        },
+        "19": {
+          "he": "ק) שם בברייתא וכדמפרשי לה האמוראי שם:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:19"
+        },
+        "20": {
+          "he": "ר) כלומר דהא דתני' בסוף קידושין ובמ\"ש טוב שבעכו\"ם הרוג היינו בשעת מלחמה וכמ\"ש התוספת בשם הירושלמי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:20"
+        },
+        "21": {
+          "he": "ש) לא אמרו חז\"ל דבר זה אלא על העכו\"ם שהיו בזמניהם שהיו עובדי כוכבים ומזלות ולא היו מאמינים ביציאת מצרים ובחדוש העולם אבל אלו הגוים אשר אנחנו אומה ישראלים חוסים בצל שלהם ומפוזרים ביניהם הם מאמינים בחדוש העולם וביציאת מצרים ובעיקרי הדת וכל כוונתם לעושה שמים וארץ כמ\"ש הפוסקים והביאו רמ\"א בא\"ח סי' קכ\"ו בהגה לא די שאין איסור להצילן אלא אפילו אנחנו מחוייבים להתפלל בשלומם וכאשר האריך בזה בעל מעשה ה' בסדר הגדה בפסוק שפוך חמתך על הגוים אשר לא ידעוך שדוד המע\"ה התפלל לשפוך על העכו\"ם אשר אינם מאמינים בחידוש העולם וענין האותות והנפלאות אשר עשה השי\"ת לנו במצרים ובמתן תורה אבל הגוים אלו אשר אנחנו בצילם חיים וחוסי' תחת כנפיהם הם מאמיני' בכל אלה כמ\"ש ועל משמרתינו אנחנו עומדי' להתפלל תמיד על שלום המלכות והשרים להצלחתם ועל כל מדינות ומקומות ממשלתיהם וכ' הרמב\"ם דהלכה כר' יהושע בפרק חלק (סנהדרין דף ק\"ה ע\"א) דאפילו חסידי עכו\"ם יש להם חלק לעוה\"ב",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:21"
+        },
+        "22": {
+          "he": "ת) כ' הכ\"מ פי' ואינו עומד ברשעו תמיד לאפוקי רועה בהמה דקה אף על פי שעושים להנאת עצמן בשביל חמדת ממון מ\"מ הוא עומד ברשעו תמיד",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:22"
+        },
+        "23": {
+          "he": "לאפוקי שאם אוכל נבילות להכעיס אע\"פ שאינו עומד ברשעו הרי הוא בכלל האפיקורסי' כמה שקדם בתחלת הסעיף",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 425:23"
+        }
+      }
+    },
+    "shach": {
+      "id": "shach",
+      "name": "Shach",
+      "hebrew": "שך",
+      "seifim": {
+        "1": {
+          "he": "מצוה להצילו כו'.  ומ\"מ אין מחויב לפדותו אם נשבע אלא דאם רוצה לפדותו אין איסור בדבר ב\"י ומור\"ם בי\"ד סי' רנ\"א ס\"ב ובסי' רנ\"ב שם סעיף ו' וב\"ח שם:",
+          "en": "",
+          "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 425:1"
+        }
+      }
+    },
+    "pt": {
+      "id": "pt",
+      "name": "Pischei Teshuva",
+      "hebrew": "פתחי תשובה",
+      "seifim": {
+        "1": {
+          "he": "מפני שהוא כרודף.  לכאורה הוא תמוה עיין בה\"ט סק\"ג עד שכל שלא יצא לאויר העולם אין שם נפש עליו כו' ועי' בתשובת חו\"י סי' ל\"א שכתב ליישב זה.",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 425:1"
+        },
+        "2": {
+          "he": "ואם הוציא ראשו כו'.  ע' בתשובת אא\"ז פמ\"א מ\"ג סי' ח' שכתב דאם יצא דרך מרגלותיו משיצא רובו. וכ' עוד וצריך להתיישב אם ידוע כשיצא דרך מרגלותיו ששניהם ימותו אם מותר להציל האשה כמעשה דשבע בן בכרי שכ' רש\"י בסנהדרין דדחו נפש מפני נפש משום דאפילו לא מסרו לו היה נהרג בעיר כשיתפשנו יואב והן נהרגים עמו משמע היכי דשניהם ימותו מצילין דדוחין נפש מפני נפש כו' וצ\"ע להתיישב בדין זה עכ\"ל ועמ\"ש ביו\"ד סימן קנ\"ז ס\"א בהגה. ועיין בתשובת כו\"ב תניינא סי' ניט דהגאון השואל ה\"ה מהר\"ר ישעיה ברלין ז\"ל רצה לחדש דהא דתנן יצא ראשו אין נוגעין בו היינו דוקא בדקים לן ביה שכלו חדשיו שאז ההורגו נהרג עליו אבל בלא קים לן שכלו חדשיו אף שהוציא ראשו מותר לחתוך אבר אבר להצלת אמו והוא ז\"ל האריך לחלוק עליו ע\"ש:",
+          "en": "",
+          "ref": "Pitchei Teshuva on Shulchan Arukh, Choshen Mishpat 425:2"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "והזהירוהו.  פירוש א\"צ לעשות בו התראה ממש ושיקבל ההתראה אלא אמרינן לו זה שאתה רודף אחריו ישראל הוא והתורה אמרה שופך דם האדם וגו' ובדיעבד אפילו אם גם זה לא אמרו לו אפילו הכי מצילין הנרדף בנפשו של רודף וראיה מקטן שרודף דאינו בר הבחנת אזהרה וקאמר גם כן דהורגין אותו להציל ממנו. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 425:1"
+        },
+        "2": {
+          "he": "בזיופים.  כגון שמגזמין בדליקה או שעוסקים בחתיכת המטבעות ואם אין המלכיות מקפידות אין דינו כרודף כן כת' בנימוקי מהר\"ם שם להדיא. שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 425:2"
+        },
+        "3": {
+          "he": "עולם.  הוצרך לכתוב זה של\"ת הולד הרי הוא רודף ויצילו את אמו בנפשו קמ\"ל כיון שטבע של עולם בכך אין דין רודף עליו ומכל מקום בעודו במעיה מותר לחתכו אע\"פ שהוא חי שכל שלא יצא לאויר העולם אין שם נפש עליו והראיה מנגף אשה ויצאו ילדיה ומתו משלם דמי הולדות ואין שם רוצח ומיתה עליו וכמו שכתוב בסי' תכ\"ג. שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 425:3"
+        },
+        "4": {
+          "he": "מהבהמה.  דאין ניתן להצילו בנפשו של רודף אלא ערוה שיש בה קלון ופגם לנרדף כן הוא בש\"ס ס\"פ בן סורר. שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 425:4"
+        },
+        "5": {
+          "he": "יהרגני.  פירוש קודם שתשיגוהו ימית אותי כשיראה שאתם רוצים להמית אותו בשבילי ומשמע דדוקא בכה\"ג דנוכל לומר דמקפדת על פגמה אלא שחוששת לנפשה שמא יהרגנה ולכך אין שומעין לה דהתורה הקפידה אפגם כזה שלא יעשה אבל אם אומרת הניחוהו ואל תהרגוהו דנראה מדבריה דאינה חוששת אפגמה בזה שומעין לה וכן משמע לשון הברייתא והרמב\"ם שכתבו שלא יהרגני כמ\"ש המחבר אבל בטור כת' דאפילו בכה\"ג אין שומעין לה וכת' הב\"י דסבירא ליה דאפי' בכה\"ג יש לו' דמקפדת שלא יפגמה אלא שאינה רוצה שיהרג הרודף על ידה. שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 425:5"
+        },
+        "6": {
+          "he": "כך.  עיין בטור שביאר עוד דינים בזה ע\"ש:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 425:6"
+        },
+        "7": {
+          "he": "דקה.  ע\"ל סי' ל\"ד סי\"ג ובסי' ת\"ט:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 425:7"
+        },
+        "8": {
+          "he": "לתאבון.  דהוא אינו חוטא אלא להש\"י משא\"כ רועה דגוזל וחוטא לחבירו ישראל. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 425:8"
+        },
+        "9": {
+          "he": "להצילו.  ומכל מקום אינו מחויב לפדותו אם נשבה אלא דאם רוצה לפדותו אין איסור בדבר. ב\"י והרמ\"א בי\"ד סי' רנ\"א ס\"ב ובסי' רנ\"ב ס\"ו וב\"ח שם. ש\"ך:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 425:9"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

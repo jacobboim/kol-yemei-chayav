@@ -1,0 +1,78 @@
+{
+  "chelek": "CM",
+  "siman": 404,
+  "chelekTitle": "Choshen Mishpat",
+  "seifCount": 2,
+  "fetchedAt": "2026-07-08T00:09:22.013Z",
+  "sa": [
+    {
+      "seif": 1,
+      "he": "שור שחבל בשור או השביח או פיגם. ובו ב סעיפים:שור שוה מאתים שנגח שור שוה מאתים והפחיתו חמשים ובשעת העמד' בדין השביח הניזק והרי הוא שוה ת' ואלמלא הנגיח' שהפחיתו היה שוה ת\"ת בין שפטמו בין ששבח מאליו אינו נותן אלא כשעת הנזק:",
+      "en": "",
+      "ref": "Shulchan Arukh, Choshen Mishpat 404:1"
+    },
+    {
+      "seif": 2,
+      "he": "כחש מחמת המכה בשעת העמד' בדין והרי הפחת שוה מאה נותן לו כשעת העמדה בדין השביח המזיק בשעת העמד' בדין אם מחמת שפטמו שבח אינו משתלם ממנו אלא מה שהי' שוה בשעה שהזיק (וי\"א דאם השבח יתר על ההוצאה נוטל המזיק דמי ההוצאה ושכר טרחו ועמלו ובשאר השבח נוטל הניזק חלקו) (טור ס\"ג) ואם מחמת עצמו השביח משתלם ממנו כשעת העמד' בדין:",
+      "en": "",
+      "ref": "Shulchan Arukh, Choshen Mishpat 404:2"
+    }
+  ],
+  "commentaries": {
+    "bg": {
+      "id": "bg",
+      "name": "Be'er HaGolah",
+      "hebrew": "באר הגולה",
+      "seifim": {
+        "1": {
+          "he": "א) בברייתא בפ\"ג דב\"ק דף ל\"ד ע\"א:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 404:1"
+        },
+        "2": {
+          "he": "ב) שם בבריית' וכדמפרש לה רב אשי:",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 404:2"
+        },
+        "3": {
+          "he": "ג) שם בברייתא וכדמפ' לה ר\"פ",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 404:3"
+        },
+        "4": {
+          "he": "פי' שור המזיק",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 404:4"
+        },
+        "5": {
+          "he": "ד) כן כתבו התוספת שם.",
+          "en": "",
+          "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 404:5"
+        }
+      }
+    },
+    "bh": {
+      "id": "bh",
+      "name": "Ba'er Hetev",
+      "hebrew": "באר היטב",
+      "seifim": {
+        "1": {
+          "he": "ואלמלא.  פירוש ואין יכול לתובעו בעד אותו הנזק כיון שאינו אלא גרמא ולא הפסידו בידים. סמ\"ע:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 404:1"
+        },
+        "2": {
+          "he": "בדין.  כיון שעדיין חי הוא עוד כאב הנגיחה בו ומכח זה מכחיש ואזיל. שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 404:2"
+        },
+        "3": {
+          "he": "עצמו.  הטעם דמיד בשעת נגיחה נעשו המזיק והניזק שותפין בהשור והוא ברשות שניהן לענין אם נפחת או נשבח ממילא משעת הנגיחה והלאה כ\"כ הטור. שם:",
+          "en": "",
+          "ref": "Ba'er Hetev on Shulchan Arukh, Choshen Mishpat 404:3"
+        }
+      }
+    }
+  },
+  "enriched": {}
+}

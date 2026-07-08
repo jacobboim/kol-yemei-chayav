@@ -137,3 +137,33 @@ body {
 
 button { font-family: inherit; cursor: pointer; }
 a { color: inherit; }
+
+/* ── Mobile responsive ── */
+@media (max-width: 640px) {
+  .topbar-title { font-size: 15px !important; }
+  .topbar-actions { gap: 4px !important; }
+  .topbar-btn { padding: 5px 8px !important; }
+  .btn-label { display: none; }
+  .btn-label-full { display: none; }
+  .btn-label-short { display: inline; }
+  .siman-nav-row {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 8px !important;
+  }
+  .siman-nav-btns {
+    width: 100%;
+    justify-content: space-between !important;
+  }
+  .bottom-actions {
+    flex-direction: column !important;
+    align-items: stretch !important;
+    justify-content: flex-start !important;
+  }
+  .bottom-actions > button { width: 100%; }
+}
+
+@media (min-width: 641px) {
+  .btn-label-full { display: inline; }
+  .btn-label-short { display: none; }
+}

@@ -71,11 +71,12 @@ function Divider() {
   );
 }
 
-function NavButton({ children, onClick, active, disabled }) {
+function NavButton({ children, onClick, active, disabled, className }) {
   return (
     <button
       onClick={onClick}
       disabled={disabled}
+      className={className}
       style={{
         padding: "6px 14px",
         borderRadius: "var(--radius-sm)",
@@ -249,6 +250,7 @@ export default function DailyReader({ user, onSignIn, onSignUp, onSignOut }) {
           >
             <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
               <span
+                className="topbar-title"
                 style={{
                   fontFamily: "'Frank Ruhl Libre', serif",
                   fontSize: 20,
@@ -258,34 +260,32 @@ export default function DailyReader({ user, onSignIn, onSignUp, onSignOut }) {
               >
                 Kol Yemei Chayav
               </span>
-              {/* <span
-                style={{
-                  fontSize: 12,
-                  color: "var(--ink-faint)",
-                  marginTop: 2,
-                }}
-              >
-                Kol Yemei Chayav
-              </span> */}
             </div>
-            <div style={{ display: "flex", gap: 8 }}>
+            <div className="topbar-actions" style={{ display: "flex", gap: 8 }}>
               <NavButton
                 onClick={() => setShowCalendar((c) => !c)}
                 active={showCalendar}
+                className="topbar-btn"
               >
-                📅 Progress
+                <span>📅</span><span className="btn-label"> Progress</span>
               </NavButton>
               <NavButton
                 onClick={() => setShowSettings((s) => !s)}
                 active={showSettings}
+                className="topbar-btn"
               >
-                ⚙️ Settings
+                <span>⚙️</span><span className="btn-label"> Settings</span>
               </NavButton>
               <NavButton
                 onClick={() => setShowAuth((a) => !a)}
                 active={showAuth}
+                className="topbar-btn"
               >
-                {user ? "👤 " + user.email.split("@")[0] : "Sign in"}
+                {user ? (
+                  <><span>👤</span><span className="btn-label"> {user.email.split("@")[0]}</span></>
+                ) : (
+                  <><span>🔑</span><span className="btn-label"> Sign in</span></>
+                )}
               </NavButton>
             </div>
           </div>
@@ -486,6 +486,7 @@ export default function DailyReader({ user, onSignIn, onSignUp, onSignOut }) {
 
         {/* Siman navigation */}
         <div
+          className="siman-nav-row"
           style={{
             display: "flex",
             alignItems: "center",
@@ -523,20 +524,23 @@ export default function DailyReader({ user, onSignIn, onSignUp, onSignOut }) {
               })}
             </div>
           </div>
-          <div style={{ display: "flex", gap: 8 }}>
+          <div className="siman-nav-btns" style={{ display: "flex", gap: 8 }}>
             <NavButton
               onClick={prevPair}
               disabled={currentSiman <= 1 && currentSeifPair <= 1}
             >
-              ← Prev 2 se'ifim
+              <span className="btn-label-full">← Prev 2 se'ifim</span>
+              <span className="btn-label-short">← Prev</span>
             </NavButton>
             {(atLastPairOfSiman || simanDone) && (
               <NavButton onClick={toggleSimanDone} active={simanDone}>
-                {simanDone ? "✓ Siman Done" : "Mark Siman Done"}
+                <span className="btn-label-full">{simanDone ? "✓ Siman Done" : "Mark Siman Done"}</span>
+                <span className="btn-label-short">{simanDone ? "✓ Done" : "Mark"}</span>
               </NavButton>
             )}
             <NavButton onClick={advance} disabled={atEndOfChelek}>
-              Next 2 se'ifim →
+              <span className="btn-label-full">Next 2 se'ifim →</span>
+              <span className="btn-label-short">Next →</span>
             </NavButton>
           </div>
         </div>
@@ -654,6 +658,7 @@ export default function DailyReader({ user, onSignIn, onSignUp, onSignOut }) {
         {/* Advance button */}
         {!loading && data && (
           <div
+            className="bottom-actions"
             style={{
               display: "flex",
               justifyContent: "flex-end",

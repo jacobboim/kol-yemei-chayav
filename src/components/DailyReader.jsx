@@ -1,5 +1,10 @@
 import React, { useEffect, useState } from "react";
-import { CHELAKOT, COLOR_THEMES, HEBREW_FONTS, LAYOUT_OPTIONS } from "../constants";
+import {
+  CHELAKOT,
+  COLOR_THEMES,
+  HEBREW_FONTS,
+  LAYOUT_OPTIONS,
+} from "../constants";
 import { loadSimanData, useDailyTexts } from "../useSefaria";
 import { useProgress } from "../useProgress";
 import { useUserSettings } from "../useUserSettings";
@@ -9,8 +14,24 @@ import AuthPanel from "./AuthPanel";
 
 function SettingRow({ label, children }) {
   return (
-    <div style={{ display: "flex", alignItems: "flex-start", gap: 10, flexWrap: "wrap", marginBottom: 10 }}>
-      <span style={{ fontSize: 12, color: "var(--ink-muted)", minWidth: 80, paddingTop: 6, flexShrink: 0 }}>
+    <div
+      style={{
+        display: "flex",
+        alignItems: "flex-start",
+        gap: 10,
+        flexWrap: "wrap",
+        marginBottom: 10,
+      }}
+    >
+      <span
+        style={{
+          fontSize: 12,
+          color: "var(--ink-muted)",
+          minWidth: 80,
+          paddingTop: 6,
+          flexShrink: 0,
+        }}
+      >
         {label}
       </span>
       <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
@@ -43,7 +64,11 @@ function SettingChip({ children, active, onClick }) {
 }
 
 function Divider() {
-  return <div style={{ height: "0.5px", background: "var(--border)", margin: "10px 0" }} />;
+  return (
+    <div
+      style={{ height: "0.5px", background: "var(--border)", margin: "10px 0" }}
+    />
+  );
 }
 
 function NavButton({ children, onClick, active, disabled }) {
@@ -74,15 +99,22 @@ export default function DailyReader({ user, onSignIn, onSignUp, onSignOut }) {
   const [showCalendar, setShowCalendar] = useState(false);
   const [showAuth, setShowAuth] = useState(false);
   const {
-    layout, setLayout,
-    colorTheme, setColorTheme,
-    darkMode, setDarkMode,
-    hebrewFont, setHebrewFont,
+    layout,
+    setLayout,
+    colorTheme,
+    setColorTheme,
+    darkMode,
+    setDarkMode,
+    hebrewFont,
+    setHebrewFont,
   } = useUserSettings(user?.id);
 
   // Apply color theme + dark/light mode to <html>
   useEffect(() => {
-    document.documentElement.setAttribute('data-theme', `${colorTheme}-${darkMode ? 'dark' : 'light'}`);
+    document.documentElement.setAttribute(
+      "data-theme",
+      `${colorTheme}-${darkMode ? "dark" : "light"}`,
+    );
   }, [colorTheme, darkMode]);
 
   // Load Hebrew font and apply via CSS custom property
@@ -93,16 +125,16 @@ export default function DailyReader({ user, onSignIn, onSignUp, onSignOut }) {
     if (font.url) {
       const linkId = `heb-font-${hebrewFont}`;
       if (!document.getElementById(linkId)) {
-        const link = document.createElement('link');
+        const link = document.createElement("link");
         link.id = linkId;
-        link.rel = 'stylesheet';
+        link.rel = "stylesheet";
         link.href = font.url;
         document.head.appendChild(link);
       }
-      document.documentElement.style.setProperty('--heb-font', font.family);
+      document.documentElement.style.setProperty("--heb-font", font.family);
     } else {
       // Frank Ruhl Libre — already loaded in index.css, just clear override
-      document.documentElement.style.removeProperty('--heb-font');
+      document.documentElement.style.removeProperty("--heb-font");
     }
   }, [hebrewFont]);
 
@@ -120,17 +152,13 @@ export default function DailyReader({ user, onSignIn, onSignUp, onSignOut }) {
   const seifA = currentSeifPair;
   const seifB = currentSeifPair + 1;
 
-  const { data, loading, error, reload, seifCount, loadedSiman } = useDailyTexts(
-    chelekId,
-    chelek.sefaria,
-    currentSiman,
-    seifA,
-    seifB,
-  );
+  const { data, loading, error, reload, seifCount, loadedSiman } =
+    useDailyTexts(chelekId, chelek.sefaria, currentSiman, seifA, seifB);
   // Only trust seifCount when the loaded data is actually for the current siman.
   // During a siman transition, seifCount still reflects the previous siman until
   // useDailyTexts's effect runs — using stale seifCount would clamp seifPair wrongly.
-  const currentSimanSeifCount = loadedSiman === currentSiman ? (seifCount || 0) : 0;
+  const currentSimanSeifCount =
+    loadedSiman === currentSiman ? seifCount || 0 : 0;
   const visibleSeifNums = [seifA, seifB].filter(
     (n) => currentSimanSeifCount > 0 && n <= currentSimanSeifCount,
   );
@@ -386,7 +414,10 @@ export default function DailyReader({ user, onSignIn, onSignUp, onSignOut }) {
 
             {/* Dark / Light mode */}
             <SettingRow label="Mode">
-              <SettingChip active={!darkMode} onClick={() => setDarkMode(false)}>
+              <SettingChip
+                active={!darkMode}
+                onClick={() => setDarkMode(false)}
+              >
                 ☀ Light
               </SettingChip>
               <SettingChip active={darkMode} onClick={() => setDarkMode(true)}>
@@ -520,16 +551,7 @@ export default function DailyReader({ user, onSignIn, onSignUp, onSignOut }) {
               fontSize: 15,
             }}
           >
-            <div
-              style={{
-                fontFamily: "'Frank Ruhl Libre', serif",
-                fontSize: 22,
-                marginBottom: 8,
-              }}
-            >
-              טוען...
-            </div>
-            Loading text from Sefaria...
+            Loading text...
           </div>
         )}
 
